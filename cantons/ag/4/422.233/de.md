@@ -4,13 +4,13 @@ number: "422.233"
 title: Verordnung über die Berufsfachschule Gesundheit und Soziales und die Höhere Fachschule Gesundheit und Soziales
 short: V BFGS und HFGS
 language: de
-version: 2024-09-15
-valid_until: 2025-08-31
-version_adopted: 2024-06-05
+version: 2025-09-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-25
 adopted: 2024-06-05
 in_force: 2024-09-15
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.233"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3593/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3845/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3593/pdf_file"
 
 (V BFGS und HFGS)
 
-Vom 05.06.2024 (Stand 15.09.2024)
+Vom 05.06.2024 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -131,6 +131,12 @@ beschliesst:
 <sup>2</sup> Die BFGS kann berufsorientierte Weiterbildungen anbieten.
 
 <sup>3</sup> Zur Wahrnehmung ihres Bildungsauftrags kann sie mit Dritten, insbesondere Bildungsinstitutionen, Berufs- und Branchenverbänden sowie Organisationen der Arbeitswelt zusammenarbeiten.
+
+#### § 10a
+
+**Urlaubswesen**
+
+<sup>1</sup> Die Schulleitung regelt das Urlaubswesen.
 
 ## 3. Höhere Fachschule Gesundheit und Soziales (HFGS)
 
@@ -349,9 +355,9 @@ beschliesst:
 
 **Umfang und Dauer der Ausbildung**
 
-<sup>1</sup> Die reguläre Ausbildung umfasst 5'400 Lernstunden verteilt auf drei Jahre.
+<sup>1</sup> Die reguläre Vollzeitausbildung umfasst 5'400 Lernstunden verteilt auf drei Jahre.
 
-<sup>2</sup> Die verkürzte Ausbildung für Studierende mit dem Abschluss Fachfrau/Fachmann Gesundheit EFZ umfasst 3'600 Lernstunden verteilt auf zwei Jahre. Die Ausbildung beginnt im dritten Semester (Höhereinstieg).
+<sup>2</sup> Die verkürzte Vollzeitausbildung für Studierende mit dem Abschluss Fachfrau/Fachmann Gesundheit EFZ umfasst 3'600 Lernstunden verteilt auf zwei Jahre. Die Ausbildung beginnt im dritten Semester (Höhereinstieg).
 
 <sup>3</sup> Die Lernstunden verteilen sich hälftig auf die Lernbereiche Schule und Praxis.
 
@@ -386,9 +392,9 @@ beschliesst:
 
 #### § 33
 
-**Bewertungsskala**
+**Bewertungsarten**
 
-<sup>1</sup> Die Leistungsbeurteilung wird mit den Bewertungen A–F ausgedrückt. Die Bewertungen bedeuten:
+<sup>1</sup> Die Leistungsbeurteilung kann mit den Bewertungen A–F ausgedrückt werden. Die Bewertungen bedeuten:
 
 - a) A: hervorragend,
 - b) B: sehr gut,
@@ -397,13 +403,18 @@ beschliesst:
 - e) E: ausreichend,
 - f) F: nicht bestanden.
 
+<sup>2</sup> Sie kann auch mit den folgenden Bewertungen erfolgen:
+
+- a) «bestanden» oder «nicht bestanden» oder
+- b) «absolviert» oder «nicht absolviert».
+
 #### § 34
 
 **Semesterpromotion**
 
 <sup>1</sup> Im Schulsemester setzt die Promotion ins nächsthöhere Semester voraus, dass
 
-- a) alle Leistungsnachweise mit mindestens «ausreichend» (Bewertung E) bewertet sind und
+- a) alle Leistungsnachweise mit mindestens «ausreichend» (Bewertung E), mit «bestanden» oder «absolviert» bewertet sind und
 - b) bei nicht mehr als 10 % der Lehrveranstaltungen Absenzen gemäss § 16 Abs. 2 vorliegen.
 
 <sup>2</sup> Ist nur die Promotionsbedingung zum Absenzenkontingent gemäss Absatz 1 lit. b nicht erfüllt, können Studierende bei Vorliegen wichtiger Gründe trotzdem ins nächsthöhere Semester befördert werden.
@@ -416,7 +427,7 @@ beschliesst:
 
 <sup>1</sup> Wenn ein Leistungsnachweis im Schulsemester im Rahmen des zweiten Versuchs nicht bestanden wird, muss das Schulsemester wiederholt werden.
 
-<sup>2</sup> Wenn die schriftliche Praktikumsqualifikation im Praxissemester im Rahmen des zweiten Versuchs nicht bestanden wird, muss das Praxissemester wiederholt werden.
+<sup>2</sup> Wenn die schriftliche Praktikumsqualifikation im Praxissemester nicht bestanden wird, muss das Praxissemester wiederholt werden.
 
 <sup>3</sup> Während des Bildungsgangs kann nur einmal ein Semester wiederholt werden. Die Wiederholung des letzten Praxissemesters ist zusätzlich einmal möglich.
 
@@ -426,7 +437,7 @@ beschliesst:
 
 <sup>1</sup> Werden die Promotionsbedingungen auch nach der Wiederholung eines Semesters nicht erfüllt, erfolgt der Ausschluss aus dem Bildungsgang.
 
-<sup>2</sup> Das erneute Durchlaufen des Zulassungsverfahrens ist ausgeschlossen.
+<sup>2</sup> Das erneute Durchlaufen des Zulassungsverfahrens ist grundsätzlich ausgeschlossen. Die Bildungsgangleitung kann Ausnahmen gestatten, wenn Studierende persönliche oder fachliche Kompetenzentwicklungen nachvollziehbar aufzeigen können.
 
 <sup>3</sup> Die Bildungsgangleitung stellt eine schriftliche Ausbildungsbestätigung aus.
 
@@ -444,7 +455,7 @@ beschliesst:
 
 <sup>1</sup> Das abschliessende Qualifikationsverfahren besteht aus folgenden Prüfungsteilen:
 
-- a) praxisorientierte Diplomarbeit,
+- a) praxisorientierte Diplom- oder Projektarbeit,
 - b) Praktikumsqualifikation und
 - c) mündliche Prüfung.
 
@@ -456,7 +467,7 @@ beschliesst:
 
 <sup>1</sup> Das abschliessende Qualifikationsverfahren ist bestanden und das Diplom wird erteilt, wenn alle Prüfungsteile mindestens mit «ausreichend» (Bewertung E) bewertet sind.
 
-<sup>2</sup> Die Leistungsbeurteilung erfolgt mit den Bewertungen A–F gemäss § 33.
+<sup>2</sup> Die Leistungsbeurteilung erfolgt mit den Bewertungen A–F gemäss § 33 Abs. 1.
 
 #### § 40
 
@@ -467,6 +478,57 @@ beschliesst:
 <sup>2</sup> Die Praktikumsqualifikation kann frühestens sechs Monate nach der ersten Durchführung wiederholt werden.
 
 <sup>3</sup> Wird einer der Prüfungsteile zum zweiten Mal nicht bestanden, ist das abschliessende Qualifikationsverfahren definitiv nicht bestanden und es erfolgt ein Ausschluss gemäss § 36.
+
+### 3.2.5. Teilzeitbildungsgang
+
+#### § 40a
+
+**Allgemeines**
+
+<sup>1</sup> Soweit die nachfolgenden Bestimmungen keine Abweichungen enthalten, gelten die §§ 23–40 sinngemäss auch für den Teilzeitbildungsgang.
+
+<sup>2</sup> Studierende können mittels schriftlicher Mitteilung an die Bildungsgangleitung jeweils per Ende eines Ausbildungsjahrs oder einer Ausbildungsphase vom Vollzeitbildungsgang in den Teilzeitbildungsgang oder umgekehrt wechseln. Die Bildungsgangleitung legt die Fristen und Zeitpunkte für einen Wechsel fest und gibt sie den Studierenden zu Studienbeginn bekannt.
+
+#### § 40b
+
+**Ausbildung a) Umfang und Dauer**
+
+<sup>1</sup> Die reguläre Teilzeitausbildung umfasst 5'400 Lernstunden verteilt auf vier Jahre.
+
+<sup>2</sup> Die verkürzte Teilzeitausbildung für Studierende mit dem Abschluss Fachfrau/Fachmann Gesundheit EFZ umfasst 3'600 Lernstunden verteilt auf 2.5–3 Jahre. Die Ausbildung beginnt in Phase II (Höhereinstieg).
+
+<sup>3</sup> Die Lernstunden verteilen sich hälftig auf die Lernbereiche Schule und Praxis.
+
+#### § 40c
+
+**b) Struktur**
+
+<sup>1</sup> Die Ausbildung erfolgt in Phasen. Die Phasen enthalten Schul- und Praxisblöcke.
+
+<sup>2</sup> Die Bildungsgangleitung erstellt die Phasenplanung.
+
+#### § 40d
+
+**Leistungsbeurteilungen und Promotionsentscheide a) Phasenpromotion**
+
+<sup>1</sup> Die Promotion in die nächsthöhere Ausbildungsphase setzt voraus, dass
+
+- a) alle Leistungsnachweise mit mindestens «ausreichend» (Bewertung E), mit «bestanden» oder «absolviert» bewertet sind und
+- b) bei nicht mehr als 10 % der Lehrveranstaltungen Absenzen gemäss § 16 Abs. 2 vorliegen.
+
+<sup>2</sup> Ist nur die Promotionsbedingung zum Absenzenkontingent gemäss Absatz 1 lit. b nicht erfüllt, können Studierende bei Vorliegen wichtiger Gründe trotzdem in die nächsthöhere Phase befördert werden.
+
+#### § 40e
+
+**b) Wiederholung einer Phase**
+
+<sup>1</sup> Wenn ein Leistungsnachweis im Lernbereich Schule im Rahmen des zweiten Versuchs nicht bestanden wird, muss die Ausbildungsphase wiederholt werden.
+
+<sup>2</sup> Wenn die schriftliche Praktikumsqualifikation im Lernbereich Praxis nicht bestanden wird, muss die Ausbildungsphase wiederholt werden.
+
+<sup>3</sup> Während des Bildungsgangs kann nur einmal eine Phase wiederholt werden. Die Wiederholung des Lernbereichs Praxis der letzten Phase ist zusätzlich einmal möglich.
+
+<sup>4</sup> Auf Gesuch hin rechnet die Bildungsgangleitung bereits bestandene oder absolvierte Leistungsnachweise bei der Wiederholung einer Phase an.
 
 ### 3.3. Bildungsgang Operationstechnik HF
 
@@ -530,10 +592,10 @@ beschliesst:
 
 <sup>1</sup> Die Leistungsnachweise im Lernbereich Schule richten sich nach § 31.
 
-<sup>2</sup> Die Bewertung der Leistungsnachweise erfolgt mit
+<sup>2</sup> Die Bewertung der Leistungsnachweise erfolgt gemäss § 33.
 
-- a) der Bewertungsskala A–F gemäss § 33 oder
-- b) «bestanden» oder «nicht bestanden».
+- a) …
+- b) …
 
 <sup>3</sup> Während einer Phase im Lernbereich Schule kann nur ein Leistungsnachweis und zusätzlich das Lernportfolio einmal wiederholt werden.
 
@@ -543,7 +605,7 @@ beschliesst:
 
 <sup>1</sup> Im Lernbereich Praxis wird von der Berufsbildnerin oder dem Berufsbildner eine schriftliche Praktikumsqualifikation vorgenommen.
 
-<sup>2</sup> Die Bewertung erfolgt mit der Bewertungsskala A–F gemäss § 33.
+<sup>2</sup> Die Bewertung erfolgt mit der Bewertungsskala A–F gemäss § 33 Abs. 1.
 
 #### § 48
 
@@ -551,7 +613,7 @@ beschliesst:
 
 <sup>1</sup> Im Lernbereich Schule setzt die Promotion in die nächsthöhere Phase voraus, dass
 
-- a) alle Leistungsnachweise mit mindestens «ausreichend» (Bewertung E) oder mit «bestanden» bewertet sind und
+- a) alle Leistungsnachweise mit mindestens «ausreichend» (Bewertung E), mit «bestanden» oder «absolviert» bewertet sind und
 - b) bei nicht mehr als 7 % der Lehrveranstaltungen Absenzen gemäss § 16 Abs. 2 vorliegen.
 
 <sup>2</sup> Ist nur die Promotionsbedingung zum Absenzenkontingent gemäss Absatz 1 lit. b nicht erfüllt, können Studierende bei Vorliegen wichtiger Gründe trotzdem in die nächsthöhere Phase befördert werden.
@@ -572,7 +634,7 @@ beschliesst:
 
 <sup>1</sup> Werden die Promotionsbedingungen auch nach der Wiederholung einer Phase nicht erfüllt, erfolgt der Ausschluss aus dem Bildungsgang.
 
-<sup>2</sup> Das erneute Durchlaufen des Zulassungsverfahrens ist ausgeschlossen.
+<sup>2</sup> Das erneute Durchlaufen des Zulassungsverfahrens ist grundsätzlich ausgeschlossen. Die Bildungsgangleitung kann Ausnahmen gestatten, wenn Studierende persönliche oder fachliche Kompetenzentwicklungen nachvollziehbar aufzeigen können.
 
 <sup>3</sup> Die Bildungsgangleitung stellt eine schriftliche Ausbildungsbestätigung aus.
 
@@ -675,9 +737,9 @@ beschliesst:
 
 **Umfang und Dauer der Ausbildung**
 
-<sup>1</sup> Die reguläre Ausbildung umfasst 5'400 Lernstunden verteilt auf vier Jahre.
+<sup>1</sup> Die reguläre Ausbildung umfasst 5'400 Lernstunden verteilt auf 3.5–4 Jahre.
 
-<sup>2</sup> Die verkürzte Ausbildung für Studierende mit dem Abschluss Fachfrau/Fachmann Betreuung EFZ umfasst 3'600 Lernstunden verteilt auf drei Jahre. Die Ausbildung beginnt im zweiten Ausbildungsjahr (Höhereinstieg).
+<sup>2</sup> Die verkürzte Ausbildung für Studierende mit dem Abschluss Fachfrau/Fachmann Betreuung EFZ umfasst 3'600 Lernstunden verteilt auf 2.5–3 Jahre. Die Ausbildung beginnt im zweiten Ausbildungsjahr (Höhereinstieg).
 
 #### § 61
 
@@ -697,11 +759,11 @@ beschliesst:
 
 <sup>1</sup> Die Leistungsnachweise im Lernbereich Schule richten sich nach § 31.
 
-<sup>2</sup> Die Bewertung der Leistungsnachweise erfolgt mit
+<sup>2</sup> Die Bewertung der Leistungsnachweise erfolgt gemäss § 33.
 
-- a) der Bewertungsskala A–F gemäss § 33,
-- b) «bestanden» oder «nicht bestanden» oder
-- c) «absolviert» oder «nicht absolviert».
+- a) …
+- b) …
+- c) …
 
 #### § 63
 
@@ -736,7 +798,7 @@ beschliesst:
 
 <sup>2</sup> Wenn ein Leistungsnachweis im Lernbereich Praxis im Rahmen des zweiten Versuchs oder die Gesamtbeurteilung des Lernbereichs Praxis am Ende des Ausbildungsjahrs nicht bestanden wird, muss das Ausbildungsjahr wiederholt werden.
 
-<sup>3</sup> Die Wiederholung eines Ausbildungsjahrs ist einmal möglich. Auf Gesuch hin kann die Bildungsgangleitung bereits bestandene oder absolvierte Leistungsnachweise anrechnen.
+<sup>3</sup> Die Wiederholung eines Ausbildungsjahrs ist einmal möglich. Auf Gesuch hin rechnet die Bildungsgangleitung bereits bestandene oder absolvierte Leistungsnachweise an.
 
 #### § 66
 
@@ -744,7 +806,7 @@ beschliesst:
 
 <sup>1</sup> Werden die Promotionsbedingungen auch nach der Wiederholung eines Ausbildungsjahrs nicht erfüllt, erfolgt der Ausschluss aus dem Bildungsgang.
 
-<sup>2</sup> Das erneute Durchlaufen des Zulassungsverfahrens ist ausgeschlossen.
+<sup>2</sup> Das erneute Durchlaufen des Zulassungsverfahrens ist grundsätzlich ausgeschlossen. Die Bildungsgangleitung kann Ausnahmen gestatten, wenn Studierende persönliche oder fachliche Kompetenzentwicklungen nachvollziehbar aufzeigen können.
 
 <sup>3</sup> Die Bildungsgangleitung stellt eine schriftliche Ausbildungsbestätigung aus.
 
@@ -762,11 +824,11 @@ beschliesst:
 
 <sup>1</sup> Das abschliessende Qualifikationsverfahren besteht aus folgenden Prüfungsteilen:
 
-- a) praxisorientierte Diplomarbeit,
+- a) praxisorientierte Diplom- oder Projektarbeit,
 - b) Praxisqualifikation und
 - c) Fachgespräch.
 
-<sup>2</sup> Die Leistungsbeurteilung erfolgt mit den Bewertungen A–F gemäss § 33. Für die Praxisqualifikation gilt § 63.
+<sup>2</sup> Die Leistungsbeurteilung erfolgt mit den Bewertungen A–F gemäss § 33 Abs. 1. Für die Praxisqualifikation gilt § 63.
 
 <sup>3</sup> Das Fachgespräch wird von einer Lehrperson der HFGS sowie einer Expertin oder einem Experten eines Ausbildungsbetriebs durchgeführt und bewertet.
 
@@ -817,6 +879,8 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 15. September 2024 in Kraft.
+
+<sup>2</sup> Die §§ 40a–e gelten bis 31. Dezember 2032.
 
 Aarau, 5. Juni 2024
 
