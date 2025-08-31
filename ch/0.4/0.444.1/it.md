@@ -3,11 +3,11 @@ sr: "0.444.1"
 title: "Convenzione del 14 novembre 1970 concernente le misure da adottare per interdire e impedire l'illecita importazione, esportazione e trasferimento di proprietà dei beni culturali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/357"
 language: it
-version: 2023-02-15
+version: 2025-09-01
 adopted: 1970-11-14
 in_force: 2004-01-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20230215/it/xml/fedlex-data-admin-ch-eli-cc-2004-357-20230215-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20230215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2004-357-20250901-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20250901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Parigi il 14 novembre 1970 Approvata dall’Assemblea federale il 12 giugno 2003[^t-1] Ratificata con strumenti depositati dalla Svizzera il 3 ottobre 2003 Entrata in vigore per la Svizzera il 3 gennaio 2004
 
-(Stato 15 febbraio 2023)
+(Stato 1° settembre 2025)
 
 [^t-1]: [RU 2004 2879](https://fedlex.data.admin.ch/eli/oc/2004/356)
 
@@ -232,11 +232,11 @@ Il Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazio
 
 Conformemente all’articolo 102 della Carta delle Nazioni Unite[^26-1], la presente Convenzione sarà registrata presso il Segretariato delle Nazioni Unite su richiesta del Direttore Generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura.
 
-[^26-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^26-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *In fede di che* hanno firmato il diciassette novembre 1970. Fatto a Parigi, il diciassette novembre 1970, in due esemplari autentici, recanti la firma del Presidente della Conferenza generale riunita nella sua sedicesima sessione e del Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, che saranno depositati presso gli archivi dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e le cui copie certificate conformi verranno inviate a tutti gli Stati previsti dagli articoli 19 e 20 e all’Organizzazione delle Nazioni Unite. Il testo che precede è il testo autentico della Convenzione debitamente adottato della Conferenza generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura nel corso della sua sedicesima sessione, che si è svolta a Parigi e che è stata dichiarata chiusa il quattordici novembre 1970. (Seguono le firme)
 
-Campo d’applicazione il 15 febbraio 2023[^t-2]
+Campo d’applicazione il 1° settembre 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th colspan="2"></th><th>Entrata in vigore</th><th colspan="3"></th></tr>
@@ -296,6 +296,7 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Finlandia<sup>\*</sup></td><td colspan="2">14 giugno</td><td>1999</td><td>14 settembre</td><td colspan="3">1999</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td colspan="2">7 gennaio</td><td>1997</td><td>7 aprile</td><td colspan="3">1997</td></tr>
 <tr><td>Gabon</td><td colspan="2">29 agosto</td><td>2003</td><td>29 novembre</td><td colspan="3">2003</td></tr>
+<tr><td>Gambia</td><td colspan="2">10 novembre</td><td>2023</td><td>10 febbraio</td><td colspan="3">2024</td></tr>
 <tr><td>Georgia</td><td colspan="2">4 novembre</td><td>1992 S</td><td>9 aprile</td><td colspan="3">1991</td></tr>
 <tr><td>Germania</td><td colspan="2">30 novembre</td><td>2007</td><td>29 febbraio</td><td colspan="3">2008</td></tr>
 <tr><td>Ghana</td><td colspan="2">20 gennaio</td><td>2016</td><td>20 aprile</td><td colspan="3">2016</td></tr>
@@ -315,6 +316,7 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Islanda</td><td colspan="2">9 novembre</td><td>2004 A</td><td>9 febbraio</td><td colspan="3">2005</td></tr>
 <tr><td>Italia</td><td colspan="2">2 ottobre</td><td>1978</td><td>2 gennaio</td><td colspan="3">1979</td></tr>
 <tr><td>Kazakistan</td><td colspan="2">9 febbraio</td><td>2012</td><td>9 maggio</td><td colspan="3">2012</td></tr>
+<tr><td>Kenya</td><td colspan="2">15 febbraio</td><td>2024</td><td>15 maggio</td><td colspan="3">2024</td></tr>
 <tr><td>Kirghizistan</td><td colspan="2">3 luglio</td><td>1995</td><td>3 ottobre</td><td colspan="3">1995</td></tr>
 <tr><td>Kuwait</td><td colspan="2">22 giugno</td><td>1972</td><td>22 settembre</td><td colspan="3">1972</td></tr>
 <tr><td>Laos</td><td colspan="2">22 dicembre</td><td>2015</td><td>22 marzo</td><td colspan="3">2016</td></tr>
@@ -328,6 +330,7 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Madagascar</td><td colspan="2">21 giugno</td><td>1989</td><td>21 settembre</td><td colspan="3">1989</td></tr>
 <tr><td>Malawi</td><td colspan="2">7 luglio</td><td>2022</td><td>7 ottobre</td><td colspan="3">2022</td></tr>
 <tr><td>Mali</td><td colspan="2">6 aprile</td><td>1987</td><td>6 luglio</td><td colspan="3">1987</td></tr>
+<tr><td>Malta</td><td colspan="2">15 luglio</td><td>2024</td><td>15 ottobre</td><td colspan="3">2024</td></tr>
 <tr><td>Marocco</td><td colspan="2">3 febbraio</td><td>2003</td><td>3 maggio</td><td colspan="3">2003</td></tr>
 <tr><td>Mauritania</td><td colspan="2">27 aprile</td><td>1977</td><td>27 luglio</td><td colspan="3">1977</td></tr>
 <tr><td>Maurizio</td><td colspan="2">27 febbraio</td><td>1978</td><td>27 maggio</td><td colspan="3">1978</td></tr>
@@ -358,9 +361,11 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Romania</td><td colspan="2">6 dicembre</td><td>1993</td><td>6 marzo</td><td colspan="3">1994</td></tr>
 <tr><td>Ruanda</td><td colspan="2">25 settembre</td><td>2001</td><td>25 dicembre</td><td colspan="3">2001</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td colspan="2">28 aprile</td><td>1988</td><td>28 luglio</td><td colspan="3">1988</td></tr>
+<tr><td>São Tomé e Príncipe</td><td colspan="2">3 ottobre</td><td>2024</td><td>3 gennaio</td><td colspan="3">2025</td></tr>
 <tr><td>Seicelle</td><td colspan="2">28 maggio</td><td>2004 A</td><td>28 agosto</td><td colspan="3">2004</td></tr>
 <tr><td>Senegal</td><td colspan="2">9 dicembre</td><td>1984</td><td>9 marzo</td><td colspan="3">1985</td></tr>
 <tr><td>Serbia</td><td colspan="2">11 settembre</td><td>2001 S</td><td>27 aprile</td><td colspan="3">1992</td></tr>
+<tr><td>Sierra Leone</td><td colspan="2">19 giugno</td><td>2025</td><td>19 settembre</td><td colspan="3">2025</td></tr>
 <tr><td>Siria</td><td colspan="2">21 febbraio</td><td>1975</td><td>21 maggio</td><td colspan="3">1975</td></tr>
 <tr><td>Slovacchia</td><td colspan="2">31 marzo</td><td>1993 S</td><td>1° gennaio</td><td colspan="3">1993</td></tr>
 <tr><td>Slovenia</td><td colspan="2">5 novembre</td><td>1992 S</td><td>25 giugno</td><td colspan="3">1991</td></tr>
@@ -385,8 +390,7 @@ Campo d’applicazione il 15 febbraio 2023[^t-2]
 <tr><td>Yemen</td><td colspan="2">3 giugno</td><td>2019</td><td>3 settembre</td><td colspan="3">2019</td></tr>
 <tr><td>Zambia</td><td colspan="2">21 giugno</td><td>1985</td><td>21 settembre</td><td colspan="3">1985</td></tr>
 <tr><td>Zimbabwe</td><td colspan="2">30 maggio</td><td>2006</td><td>30 agosto</td><td colspan="3">2006</td></tr>
-<tr><td colspan="7">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="7"><sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="7">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72); [2025 546](https://fedlex.data.admin.ch/eli/oc/2025/546). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

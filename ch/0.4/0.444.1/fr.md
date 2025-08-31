@@ -3,11 +3,11 @@ sr: "0.444.1"
 title: "Convention du 14 novembre 1970 concernant les mesures à prendre pour interdire et empêcher l'importation, l'exportation et le transfert de propriété illicites des biens culturels"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/357"
 language: fr
-version: 2023-02-15
+version: 2025-09-01
 adopted: 1970-11-14
 in_force: 2004-01-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20230215/fr/xml/fedlex-data-admin-ch-eli-cc-2004-357-20230215-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20230215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-357-20250901-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 3 octobre 2003
 
 Entrée en vigueur pour la Suisse le 3 janvier 2004
 
-(État le 15 février 2023)
+(État le 1<sup>er</sup> septembre 2025)
 
 [^t-1]: [RO 2004 2879](https://fedlex.data.admin.ch/eli/oc/2004/356)
 
@@ -238,11 +238,11 @@ Le Directeur général de l’Organisation des Nations Unies pour l’éducation
 
 Conformément à l’art. 102 de la Charte des Nations Unies[^26-1], la présente Convention sera enregistrée au Secrétariat des Nations Unies à la requête du Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture.
 
-[^26-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^26-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *En foi de quoi,* ont apposé leur signature, ce dix-septième jour de novembre 1970. Fait à Paris, ce dix-septième jour de novembre 1970, en deux exemplaires authentiques portant la signature du Président de la Conférence générale, réunie en sa seizième session, et du Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture, qui seront déposés dans les archives de l’Organisation des Nations Unies pour l’éducation, la science et la culture, et dont des copies certifiées conformes seront remises à tous les États visés aux art. 19 et 20 ainsi qu’à l’Organisation des Nations Unies. Le texte qui précède est le texte authentique de la Convention dûment adoptée par la Conférence générale de l’Organisation des Nations Unies pour l’éducation, la science et la culture à sa seizième session, qui s’est tenue à Paris et qui a été déclarée close le quatorzième jour de novembre 1970. (Suivent les signatures)
 
-Champ d’application le 15 février 2023[^t-2]
+Champ d’application le 1<sup>er</sup> septembre 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -255,7 +255,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Arabie Saoudite</td><td>8 septembre</td><td>1976</td><td>8 décembre</td><td>1976</td></tr>
 <tr><td>Argentine</td><td>11 janvier</td><td>1973</td><td>11 avril</td><td>1973</td></tr>
 <tr><td>Arménie</td><td>5 septembre</td><td>1993 S</td><td>22 septembre</td><td>1991</td></tr>
-<tr><td>Australie<sup>\*</sup></td><td>30 octobre</td><td>1989</td><td>30 janvier</td><td>1990</td></tr>
+<tr><td>Australie\*</td><td>30 octobre</td><td>1989</td><td>30 janvier</td><td>1990</td></tr>
 <tr><td>Autriche</td><td>15 juillet</td><td>2015</td><td>15 octobre</td><td>2015</td></tr>
 <tr><td>Azerbaïdjan</td><td>25 août</td><td>1999</td><td>25 novembre</td><td>1999</td></tr>
 <tr><td>Bahamas</td><td>9 octobre</td><td>1997</td><td>9 janvier</td><td>1998</td></tr>
@@ -263,7 +263,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Bangladesh</td><td>9 décembre</td><td>1987</td><td>9 mars</td><td>1988</td></tr>
 <tr><td>Barbade</td><td>10 avril</td><td>2002</td><td>10 juillet</td><td>2002</td></tr>
 <tr><td>Bélarus</td><td>28 avril</td><td>1988</td><td>28 juillet</td><td>1988</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>31 mars</td><td>2009</td><td>30 juin</td><td>2009</td></tr>
+<tr><td>Belgique\*</td><td>31 mars</td><td>2009</td><td>30 juin</td><td>2009</td></tr>
 <tr><td>Belize</td><td>26 janvier</td><td>1990</td><td>26 avril</td><td>1990</td></tr>
 <tr><td>Bénin</td><td>1<sup>er</sup> mars</td><td>2017</td><td>1<sup>er</sup> juin</td><td>2017</td></tr>
 <tr><td>Bhoutan</td><td>26 septembre</td><td>2002 A</td><td>26 décembre</td><td>2002</td></tr>
@@ -276,7 +276,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Cambodge</td><td>26 septembre</td><td>1972</td><td>26 décembre</td><td>1972</td></tr>
 <tr><td>Cameroun</td><td>24 mai</td><td>1972</td><td>24 août</td><td>1972</td></tr>
 <tr><td>Canada</td><td>28 mars</td><td>1978</td><td>28 juin</td><td>1978</td></tr>
-<tr><td>Chili<sup>\*</sup></td><td>18 avril</td><td>2014</td><td>18 juillet</td><td>2014</td></tr>
+<tr><td>Chili\*</td><td>18 avril</td><td>2014</td><td>18 juillet</td><td>2014</td></tr>
 <tr><td>Chine</td><td>28 novembre</td><td>1989</td><td>28 février</td><td>1990</td></tr>
 <tr><td>Chypre</td><td>19 octobre</td><td>1979</td><td>19 janvier</td><td>1980</td></tr>
 <tr><td>Colombie</td><td>24 mai</td><td>1988</td><td>24 août</td><td>1988</td></tr>
@@ -287,8 +287,8 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Costa Rica</td><td>6 mars</td><td>1996</td><td>6 juin</td><td>1996</td></tr>
 <tr><td>Côte d’Ivoire</td><td>30 octobre</td><td>1990</td><td>30 janvier</td><td>1991</td></tr>
 <tr><td>Croatie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td>30 janvier</td><td>1980</td><td>30 avril</td><td>1980</td></tr>
-<tr><td>Danemark<sup>\*</sup></td><td>26 mars</td><td>2003</td><td>26 juin</td><td>2003</td></tr>
+<tr><td>Cuba\*</td><td>30 janvier</td><td>1980</td><td>30 avril</td><td>1980</td></tr>
+<tr><td>Danemark\*</td><td>26 mars</td><td>2003</td><td>26 juin</td><td>2003</td></tr>
 <tr><td>Groenland</td><td>27 mai</td><td>2004</td><td>27 mai</td><td>2004</td></tr>
 <tr><td>Îles Féroé</td><td>17 avril</td><td>2008</td><td>17 avril</td><td>2008</td></tr>
 <tr><td>Djibouti</td><td>9 avril</td><td>2018</td><td>9 juillet</td><td>2018</td></tr>
@@ -299,21 +299,22 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Espagne</td><td>10 janvier</td><td>1986</td><td>10 avril</td><td>1986</td></tr>
 <tr><td>Estonie</td><td>27 octobre</td><td>1995</td><td>27 janvier</td><td>1996</td></tr>
 <tr><td>Eswatini</td><td>30 octobre</td><td>2012</td><td>30 janvier</td><td>2013</td></tr>
-<tr><td>États-Unis<sup>\*</sup></td><td>2 septembre</td><td>1983</td><td>2 décembre</td><td>1983</td></tr>
+<tr><td>États-Unis\*</td><td>2 septembre</td><td>1983</td><td>2 décembre</td><td>1983</td></tr>
 <tr><td>Éthiopie</td><td>22 novembre</td><td>2017</td><td>22 février</td><td>2017</td></tr>
-<tr><td>Finlande<sup>\*</sup></td><td>14 juin</td><td>1999</td><td>14 septembre</td><td>1999</td></tr>
-<tr><td>France<sup>\*</sup></td><td>7 janvier</td><td>1997</td><td>7 avril</td><td>1997</td></tr>
+<tr><td>Finlande\*</td><td>14 juin</td><td>1999</td><td>14 septembre</td><td>1999</td></tr>
+<tr><td>France\*</td><td>7 janvier</td><td>1997</td><td>7 avril</td><td>1997</td></tr>
 <tr><td>Gabon</td><td>29 août</td><td>2003</td><td>29 novembre</td><td>2003</td></tr>
+<tr><td>Gambie</td><td>10 novembre</td><td>2023</td><td>10 février</td><td>2024</td></tr>
 <tr><td>Géorgie</td><td>4 novembre</td><td>1992 S</td><td>9 avril</td><td>1991</td></tr>
 <tr><td>Ghana</td><td>20 janvier</td><td>2016</td><td>20 avril</td><td>2016</td></tr>
 <tr><td>Grèce</td><td>5 juin</td><td>1981</td><td>5 septembre</td><td>1981</td></tr>
 <tr><td>Grenade</td><td>10 septembre</td><td>1992</td><td>10 décembre</td><td>1992</td></tr>
-<tr><td>Guatemala<sup>\*</sup></td><td>14 janvier</td><td>1985</td><td>14 avril</td><td>1985</td></tr>
+<tr><td>Guatemala\*</td><td>14 janvier</td><td>1985</td><td>14 avril</td><td>1985</td></tr>
 <tr><td>Guinée</td><td>18 mars</td><td>1979</td><td>18 juin</td><td>1979</td></tr>
 <tr><td>Guinée équatoriale</td><td>17 septembre</td><td>2010</td><td>17 septembre</td><td>2010</td></tr>
 <tr><td>Haïti</td><td>8 février</td><td>2010</td><td>8 mai</td><td>2010</td></tr>
 <tr><td>Honduras</td><td>19 mars</td><td>1979</td><td>19 juin</td><td>1979</td></tr>
-<tr><td>Hongrie<sup>\*</sup></td><td>23 octobre</td><td>1978</td><td>23 janvier</td><td>1979</td></tr>
+<tr><td>Hongrie\*</td><td>23 octobre</td><td>1978</td><td>23 janvier</td><td>1979</td></tr>
 <tr><td>Inde</td><td>24 janvier</td><td>1977</td><td>24 avril</td><td>1977</td></tr>
 <tr><td>Iran</td><td>27 janvier</td><td>1975</td><td>27 avril</td><td>1975</td></tr>
 <tr><td>Iraq</td><td>12 février</td><td>1973</td><td>12 mai</td><td>1973</td></tr>
@@ -322,6 +323,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Japon</td><td>9 septembre</td><td>2002</td><td>9 décembre</td><td>2002</td></tr>
 <tr><td>Jordanie</td><td>15 mars</td><td>1974</td><td>15 juin</td><td>1974</td></tr>
 <tr><td>Kazakhstan</td><td>9 février</td><td>2012</td><td>9 mai</td><td>2012</td></tr>
+<tr><td>Kenya</td><td>15 février</td><td>2024</td><td>15 mai</td><td>2024</td></tr>
 <tr><td>Kirghizistan</td><td>3 juillet</td><td>1995</td><td>3 octobre</td><td>1995</td></tr>
 <tr><td>Koweït</td><td>22 juin</td><td>1972</td><td>22 septembre</td><td>1972</td></tr>
 <tr><td>Laos</td><td>22 décembre</td><td>2015</td><td>22 mars</td><td>2016</td></tr>
@@ -335,11 +337,12 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Madagascar</td><td>21 juin</td><td>1989</td><td>21 septembre</td><td>1989</td></tr>
 <tr><td>Malawi</td><td>7 juillet</td><td>2022</td><td>7 octobre</td><td>2022</td></tr>
 <tr><td>Mali</td><td>6 avril</td><td>1987</td><td>6 juillet</td><td>1987</td></tr>
+<tr><td>Malte</td><td>15 juillet</td><td>2024</td><td>15 octobre</td><td>2024</td></tr>
 <tr><td>Maroc</td><td>3 février</td><td>2003</td><td>3 mai</td><td>2003</td></tr>
 <tr><td>Maurice</td><td>27 février</td><td>1978</td><td>27 mai</td><td>1978</td></tr>
 <tr><td>Mauritanie</td><td>27 avril</td><td>1977</td><td>27 juillet</td><td>1977</td></tr>
-<tr><td>Mexique<sup>\*</sup></td><td>4 octobre</td><td>1972</td><td>4 janvier</td><td>1973</td></tr>
-<tr><td>Moldova<sup>\*</sup></td><td>14 septembre</td><td>2007</td><td>14 décembre</td><td>2007</td></tr>
+<tr><td>Mexique\*</td><td>4 octobre</td><td>1972</td><td>4 janvier</td><td>1973</td></tr>
+<tr><td>Moldova\*</td><td>14 septembre</td><td>2007</td><td>14 décembre</td><td>2007</td></tr>
 <tr><td>Monaco\*</td><td>25 août</td><td>2017</td><td>25 novembre</td><td>2017</td></tr>
 <tr><td>Mongolie</td><td>23 mai</td><td>1991</td><td>23 août</td><td>1991</td></tr>
 <tr><td>Monténégro</td><td>26 avril</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
@@ -349,7 +352,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Niger</td><td>16 octobre</td><td>1972</td><td>16 janvier</td><td>1973</td></tr>
 <tr><td>Nigéria</td><td>24 janvier</td><td>1972</td><td>24 avril</td><td>1972</td></tr>
 <tr><td>Norvège</td><td>16 février</td><td>2007</td><td>16 mai</td><td>2007</td></tr>
-<tr><td>Nouvelle-Zélande <sup>a</sup> <sup>\*</sup></td><td>1<sup>er</sup> février</td><td>2007 A</td><td>1<sup>er</sup> mai</td><td>2007</td></tr>
+<tr><td>Nouvelle-Zélande <sup>a</sup> \*</td><td>1<sup>er</sup> février</td><td>2007 A</td><td>1<sup>er</sup> mai</td><td>2007</td></tr>
 <tr><td>Oman</td><td>2 juin</td><td>1978</td><td>2 septembre</td><td>1978</td></tr>
 <tr><td>Ouzbékistan</td><td>15 mars</td><td>1996</td><td>15 juin</td><td>1996</td></tr>
 <tr><td>Pakistan</td><td>30 avril</td><td>1981</td><td>30 juillet</td><td>1981</td></tr>
@@ -365,16 +368,18 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>République dominicaine</td><td>7 mars</td><td>1973</td><td>7 juin</td><td>1973</td></tr>
 <tr><td>République tchèque</td><td>26 mars</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>6 décembre</td><td>1993</td><td>6 mars</td><td>1994</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup></td><td>1<sup>er</sup> août</td><td>2002</td><td>1<sup>er</sup> novembre</td><td>2002</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>28 avril</td><td>1988</td><td>28 juillet</td><td>1988</td></tr>
+<tr><td>Royaume-Uni\*</td><td>1<sup>er</sup> août</td><td>2002</td><td>1<sup>er</sup> novembre</td><td>2002</td></tr>
+<tr><td>Russie\*</td><td>28 avril</td><td>1988</td><td>28 juillet</td><td>1988</td></tr>
 <tr><td>Rwanda</td><td>25 septembre</td><td>2001</td><td>25 décembre</td><td>2001</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>3 octobre</td><td>2024</td><td>3 janvier</td><td>2025</td></tr>
 <tr><td>Sénégal</td><td>9 décembre</td><td>1984</td><td>9 mars</td><td>1985</td></tr>
 <tr><td>Serbie</td><td>11 septembre</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Seychelles</td><td>28 mai</td><td>2004 A</td><td>28 août</td><td>2004</td></tr>
+<tr><td>Sierra Leone</td><td>19 juin</td><td>2025</td><td>19 septembre</td><td>2025</td></tr>
 <tr><td>Slovaquie</td><td>31 mars</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>5 novembre</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Sri Lanka</td><td>7 avril</td><td>1981</td><td>7 juillet</td><td>1981</td></tr>
-<tr><td>Suède<sup>\*</sup></td><td>13 janvier</td><td>2003</td><td>13 avril</td><td>2003</td></tr>
+<tr><td>Suède\*</td><td>13 janvier</td><td>2003</td><td>13 avril</td><td>2003</td></tr>
 <tr><td>Suisse</td><td>3 octobre</td><td>2003</td><td>3 janvier</td><td>2004</td></tr>
 <tr><td>Syrie</td><td>21 février</td><td>1975</td><td>21 mai</td><td>1975</td></tr>
 <tr><td>Tadjikistan</td><td>28 août</td><td>1992 S</td><td>9 septembre</td><td>1991</td></tr>
@@ -391,7 +396,7 @@ Champ d’application le 15 février 2023[^t-2]
 <tr><td>Zambie</td><td>21 juin</td><td>1985</td><td>21 septembre</td><td>1985</td></tr>
 <tr><td>Zimbabwe</td><td>30 mai</td><td>2006</td><td>30 août</td><td>2006</td></tr>
 <tr><td>Yémen</td><td>3 juin</td><td>2019</td><td>3 septembre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Conv. ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies pour l’éducation, la science et la culture (UNESCO): [www.unesco.org/](http://www.unesco.org/) &gt; Français &gt; Ressources &gt; Publications et rapports, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Conv. ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72); [2025 546](https://fedlex.data.admin.ch/eli/oc/2025/546). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

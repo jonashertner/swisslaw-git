@@ -3,11 +3,11 @@ sr: "0.444.1"
 title: "Übereinkommen vom 14. November 1970 über die Massnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/357"
 language: de
-version: 2023-02-15
+version: 2025-09-01
 adopted: 1970-11-14
 in_force: 2004-01-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20230215/de/xml/fedlex-data-admin-ch-eli-cc-2004-357-20230215-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20230215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/357/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2004-357-20250901-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/357/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 3. Oktober 2003
 
 In Kraft getreten für die Schweiz am 3. Januar 2004
 
-(Stand am 15. Februar 2023)
+(Stand am 1. September 2025)
 
 [^t-1]: [AS 2004 2879](https://fedlex.data.admin.ch/eli/oc/2004/356)
 
@@ -235,11 +235,11 @@ Der Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wiss
 
 In Übereinstimmung mit Artikel 102 der Charta der Vereinten Nationen[^26-1] wird dieses Übereinkommen auf Ersuchen des Generaldirektors der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur beim Sekretariat der Vereinten Nationen registriert.
 
-[^26-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^26-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *Zu Urkund dessen* haben wir am 17. November 1970 das Übereinkommen mit unseren Unterschriften versehen. Geschehen zu Paris am 17. November 1970 in zwei Originalausfertigungen, welche die Unterschrift des Präsidenten der 16. Tagung der Generalkonferenz und des Generaldirektors der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur tragen; diese Originalfassungen werden im Archiv der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur hinterlegt, und allen in den Artikeln 19 und 20 erwähnten Staaten sowie den Vereinten Nationen werden beglaubigte Abschriften übermittelt. Dieses ist der verbindliche Wortlaut des Übereinkommens, das von der Generalkonferenz der Vereinten Nationen für Erziehung, Wissenschaft und Kultur auf ihrer in Paris abgehaltenen und am 14. November 1970 für beendet erklärten 16. Tagung ordnungsgemäss angenommen wurde. (Es folgen die Unterschriften)
 
-Geltungsbereich am 15. Februar 2023[^t-2]
+Geltungsbereich am 1. September 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th colspan="3">Inkrafttreten</th><th colspan="2"></th></tr>
@@ -286,6 +286,7 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Finnland\*</td><td>14. Juni</td><td colspan="2">1999</td><td colspan="3">14. September</td><td colspan="2">1999</td></tr>
 <tr><td>Frankreich\*</td><td>7. Januar</td><td colspan="2">1997</td><td colspan="3">7. April</td><td colspan="2">1997</td></tr>
 <tr><td>Gabun</td><td>29. August</td><td colspan="2">2003</td><td colspan="3">29. November</td><td colspan="2">2003</td></tr>
+<tr><td>Gambia</td><td>10. November</td><td colspan="2">2023</td><td colspan="3">10. Februar</td><td colspan="2">2024</td></tr>
 <tr><td>Georgien</td><td>4. November</td><td colspan="2">1992 N</td><td colspan="3">9. April</td><td colspan="2">1991</td></tr>
 <tr><td>Ghana</td><td>20. Januar</td><td colspan="2">2016</td><td colspan="3">20. April</td><td colspan="2">2016</td></tr>
 <tr><td>Grenada</td><td>10. September</td><td colspan="2">1992</td><td colspan="3">10. Dezember</td><td colspan="2">1992</td></tr>
@@ -307,6 +308,7 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Kanada</td><td>28. März</td><td colspan="2">1978</td><td colspan="3">28. Juni</td><td colspan="2">1978</td></tr>
 <tr><td>Kasachstan</td><td>9. Februar</td><td colspan="2">2012</td><td colspan="3">9. Mai</td><td colspan="2">2012</td></tr>
 <tr><td>Katar</td><td>20. April</td><td colspan="2">1977</td><td colspan="3">20. Juli</td><td colspan="2">1977</td></tr>
+<tr><td>Kenia</td><td>15. Februar</td><td colspan="2">2024</td><td colspan="3">15. Mai</td><td colspan="2">2024</td></tr>
 <tr><td>Kirgisistan</td><td>3. Juli</td><td colspan="2">1995</td><td colspan="3">3. Oktober</td><td colspan="2">1995</td></tr>
 <tr><td>Kolumbien</td><td>24. Mai</td><td colspan="2">1988</td><td colspan="3">24. August</td><td colspan="2">1988</td></tr>
 <tr><td>Komoren</td><td>17. März</td><td colspan="2">2021</td><td colspan="3">17. Juni</td><td colspan="2">2021</td></tr>
@@ -326,6 +328,7 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Madagaskar</td><td>21. Juni</td><td colspan="2">1989</td><td colspan="3">21. September</td><td colspan="2">1989</td></tr>
 <tr><td>Malawi</td><td>7. Juli</td><td colspan="2">2022</td><td colspan="3">7. Oktober</td><td colspan="2">2022</td></tr>
 <tr><td>Mali</td><td>6. April</td><td colspan="2">1987</td><td colspan="3">6. Juli</td><td colspan="2">1987</td></tr>
+<tr><td>Malta</td><td>15. Juli</td><td colspan="2">2024</td><td colspan="3">15. Oktober</td><td colspan="2">2024</td></tr>
 <tr><td>Marokko</td><td>3. Februar</td><td colspan="2">2003</td><td colspan="3">3. Mai</td><td colspan="2">2003</td></tr>
 <tr><td>Mauretanien</td><td>27. April</td><td colspan="2">1977</td><td colspan="3">27. Juli</td><td colspan="2">1977</td></tr>
 <tr><td>Mauritius</td><td>27. Februar</td><td colspan="2">1978</td><td colspan="3">27. Mai</td><td colspan="2">1978</td></tr>
@@ -356,12 +359,14 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Rumänien</td><td>6. Dezember</td><td colspan="2">1993</td><td colspan="3">6. März</td><td colspan="2">1994</td></tr>
 <tr><td>Russland\*</td><td>28. April</td><td colspan="2">1988</td><td colspan="3">28. Juli</td><td colspan="2">1988</td></tr>
 <tr><td>Sambia</td><td>21. Juni</td><td colspan="2">1985</td><td colspan="3">21. September</td><td colspan="2">1985</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>3. Oktober</td><td colspan="2">2024</td><td colspan="3">3. Januar</td><td colspan="2">2025</td></tr>
 <tr><td>Saudi-Arabien</td><td>8. September</td><td colspan="2">1976</td><td colspan="3">8. Dezember</td><td colspan="2">1976</td></tr>
 <tr><td>Schweden\*</td><td>13. Januar</td><td colspan="2">2003</td><td colspan="3">13. April</td><td colspan="2">2003</td></tr>
 <tr><td>Schweiz</td><td>3. Oktober</td><td colspan="2">2003</td><td colspan="3">3. Januar</td><td colspan="2">2004</td></tr>
 <tr><td>Senegal</td><td>9. Dezember</td><td colspan="2">1984</td><td colspan="3">9. März</td><td colspan="2">1985</td></tr>
 <tr><td>Serbien</td><td>11. September</td><td colspan="2">2001 N</td><td colspan="3">27. April</td><td colspan="2">1992</td></tr>
 <tr><td>Seychellen</td><td>28. Mai</td><td colspan="2">2004 B</td><td colspan="3">28. August</td><td colspan="2">2004</td></tr>
+<tr><td>Sierra Leone</td><td>19. Juni</td><td colspan="2">2025</td><td colspan="3">19. September</td><td colspan="2">2025</td></tr>
 <tr><td>Simbabwe</td><td>30. Mai</td><td colspan="2">2006</td><td colspan="3">30. August</td><td colspan="2">2006</td></tr>
 <tr><td>Slowakei</td><td>31. März</td><td colspan="2">1993 N</td><td colspan="3">1. Januar</td><td colspan="2">1993</td></tr>
 <tr><td>Slowenien</td><td>5. November</td><td colspan="2">1992 N</td><td colspan="3">25. Juni</td><td colspan="2">1991</td></tr>
@@ -388,9 +393,7 @@ Geltungsbereich am 15. Februar 2023[^t-2]
 <tr><td>Vietnam</td><td>20. September</td><td colspan="2">2005 B</td><td colspan="3">20. Dezember</td><td colspan="2">2005</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>1. Februar</td><td colspan="2">1972</td><td colspan="3">1. Mai</td><td colspan="2">1972</td></tr>
 <tr><td>Zypern</td><td>19. Oktober</td><td colspan="2">1979</td><td colspan="3">19. Januar</td><td colspan="2">1980</td></tr>
-<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org/](http://www.unesco.org/) &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [AS 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2004 2881](https://fedlex.data.admin.ch/eli/oc/2004/357); [2005 1519](https://fedlex.data.admin.ch/eli/oc/2005/233); [2008 661](https://fedlex.data.admin.ch/eli/oc/2008/161); [2010 2139](https://fedlex.data.admin.ch/eli/oc/2010/283); [2013 1591](https://fedlex.data.admin.ch/eli/oc/2013/369); [2016 49](https://fedlex.data.admin.ch/eli/oc/2016/10); [2018 1855](https://fedlex.data.admin.ch/eli/oc/2018/280); [2023 72](https://fedlex.data.admin.ch/eli/oc/2023/72); [2025 546](https://fedlex.data.admin.ch/eli/oc/2025/546). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
