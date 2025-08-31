@@ -4,13 +4,13 @@ number: "422.617"
 title: Verordnung über das Landwirtschaftliche Zentrum Liebegg
 short: LZLV
 language: de
-version: 2024-07-01
-valid_until: 2025-08-31
-version_adopted: 2024-03-13
+version: 2025-09-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-25
 adopted: 2012-05-23
 in_force: 2012-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.617"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3494/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3848/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3494/pdf_file"
 
 (LZLV)
 
-Vom 23.05.2012 (Stand 01.07.2024)
+Vom 23.05.2012 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -58,7 +58,7 @@ beschliesst:
 
 <sup>3</sup> Die Geschäftsleitung des LZL besteht aus der Direktorin beziehungsweise dem Direktor, der Stellvertreterin beziehungsweise dem Stellvertreter sowie mindestens einem weiteren Mitglied.
 
-<sup>4</sup> Neben den sich aus der Personalgesetzgebung ergebenden Aufgaben und Kompetenzen obliegen der Geschäftsleitung die Führung des lokalen Qualitätsmanagements, die Organisation und Administration des gesamten Betriebs sowie die Information und Kommunikation.
+<sup>4</sup> Neben den sich aus der Personalgesetzgebung ergebenden Aufgaben und Kompetenzen obliegen der Geschäftsleitung die Führung des lokalen Qualitätsmanagements, die Organisation und Administration des gesamten Betriebs, die Regelung des Urlaubswesens der Lernenden sowie die Information und Kommunikation.
 
 <sup>5</sup> …
 
