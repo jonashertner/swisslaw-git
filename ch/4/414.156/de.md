@@ -3,11 +3,11 @@ sr: "414.156"
 title: Verordnung der ETH Zürich vom 17. August 2023 über Stipendien und Darlehen (Stipendienverordnung ETH Zürich)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/473"
 language: de
-version: 2023-09-15
+version: 2025-09-01
 adopted: 2023-08-17
 in_force: 2023-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/473/20230915/de/xml/fedlex-data-admin-ch-eli-cc-2023-473-20230915-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20230915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/473/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2023-473-20250901-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20230915/de"
 
 (Stipendienverordnung ETH Zürich)
 
-vom 17. August 2023 (Stand am 15. September 2023)
+vom 17. August 2023 (Stand am 1. September 2025)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Zürich (ETH Zürich),
 
@@ -127,7 +127,9 @@ Bei der Festlegung der Höhe des Sozialstipendiums werden folgende Kriterien ber
 
 <sup>1</sup> Der Gesamtbetrag, der für die Sozialstipendien zur Verfügung steht, wird jährlich festgelegt.
 
-<sup>2</sup> Der monatliche Höchstbetrag ist 1400 Franken.
+<sup>2</sup> Der monatliche Höchstbetrag ist 1700 Franken.[^10-1]
+
+[^10-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETHZ vom 8. Juli 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 461](https://fedlex.data.admin.ch/eli/oc/2025/461)).
 
 #### Art. 11
 

@@ -3,11 +3,11 @@ sr: "414.156"
 title: Ordinanza del PF di Zurigo del 17 agosto 2023 sulle borse e i prestiti di studio (Ordinanza sulle borse di studio del PF di Zurigo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/473"
 language: it
-version: 2023-09-15
+version: 2025-09-01
 adopted: 2023-08-17
 in_force: 2023-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/473/20230915/it/xml/fedlex-data-admin-ch-eli-cc-2023-473-20230915-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20230915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/473/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2023-473-20250901-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20250901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20230915/it"
 
 (Ordinanza sulle borse di studio del PF di Zurigo)
 
-del 17 agosto 2023 (Stato 15 settembre 2023)
+del 17 agosto 2023 (Stato 1° settembre 2025)
 
 La Direzione del Politecnico federale di Zurigo (PF di Zurigo),
 
@@ -127,7 +127,9 @@ L’ammontare della borsa sociale è determinato in base ai seguenti criteri:
 
 <sup>1</sup> L’importo totale dei fondi stanziati per le borse sociali è fissato annualmente.
 
-<sup>2</sup> L’importo massimo mensile è di 1400 franchi.
+<sup>2</sup> L’importo massimo mensile è di 1700 franchi.[^10-1]
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PF di Zurigo dell’8 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 461](https://fedlex.data.admin.ch/eli/oc/2025/461)).
 
 #### Art. 11
 

@@ -3,11 +3,11 @@ sr: "414.156"
 title: Ordonnance de l’EPF de Zurich du 17 août 2023 sur les bourses d’études et les prêts (Ordonnance de l’EPF de Zurich sur les bourses d’études)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/473"
 language: fr
-version: 2023-09-15
+version: 2025-09-01
 adopted: 2023-08-17
 in_force: 2023-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/473/20230915/fr/xml/fedlex-data-admin-ch-eli-cc-2023-473-20230915-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20230915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/473/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2023-473-20250901-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/473/20230915/fr"
 
 (Ordonnance de l’EPF de Zurich sur les bourses d’études)
 
-du 17 août 2023 (État le 15 septembre 2023)
+du 17 août 2023 (État le 1<sup>er</sup> septembre 2025)
 
 La direction de l’École polytechnique fédérale de Zurich (EPF de Zurich),
 
@@ -127,7 +127,9 @@ Les critères suivants sont pris en considération pour la fixation du montant d
 
 <sup>1</sup> Le montant total mis à disposition pour l’attribution de bourses sociales est déterminé chaque année.
 
-<sup>2</sup> Le montant maximum attribué mensuellement s’élève à 1400 francs.
+<sup>2</sup> Le montant maximum attribué mensuellement s’élève à 1700 francs.[^10-1]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPF de Zurich du 8 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 461](https://fedlex.data.admin.ch/eli/oc/2025/461)).
 
 #### Art. 11
 
