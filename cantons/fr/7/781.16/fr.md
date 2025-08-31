@@ -3,13 +3,12 @@ canton: FR
 number: "781.16"
 title: Arrêté fixant les émoluments en matière de circulation routière
 language: fr
-version: 2024-03-01
-valid_until: 2025-08-31
-version_adopted: 2023-11-28
+version: 2025-09-01
+version_adopted: 2025-06-23
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/781.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7895/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8201/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7895/pdf_file"
 
 Circulation routière, émoluments – A
 
-du 12.07.1991 (version entrée en vigueur le 01.03.2024)
+du 12.07.1991 (version entrée en vigueur le 01.09.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -263,6 +262,12 @@ Arrête:
 - k) pour les recherches de police par traitement électronique des données (TED), par cas: — Fr. 200 à 800
 - l) pour les tâches ou travaux, effectués par le personnel de l'OCN, qui ne font pas l'objet d'un émolument selon une autre disposition du présent arrêté, par heure et par personne: — Fr. 40 à 100
 - m) pour toute décision, prise par l'OCN, qui ne fait pas l'objet d'un émolument selon une autre disposition du présent arrêté: — Fr. 50 à 500
+
+#### Art. 12a
+
+**Encaissement**
+
+<sup>1</sup> Les émoluments peuvent être perçus d'avance, comptant ou contre-remboursement, notamment lorsque le compte de la personne présente des arriérés ou que la personne a son domicile hors du canton de Fribourg.
 
 #### Art. 13
 

@@ -3,13 +3,12 @@ canton: FR
 number: "781.16"
 title: Beschluss über die Strassenverkehrsgebühren
 language: de
-version: 2024-03-01
-valid_until: 2025-08-31
-version_adopted: 2023-11-28
+version: 2025-09-01
+version_adopted: 2025-06-23
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7895/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8201/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7895/pdf_file"
 
 Strassenverkehrsgebühren – B
 
-vom 12.07.1991 (Fassung in Kraft getreten am 01.03.2024)
+vom 12.07.1991 (Fassung in Kraft getreten am 01.09.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -263,6 +262,12 @@ beschliesst:
 - k) für polizeiliche Recherchen mittels elektronischer Datenverarbeitung, pro Fall: — Fr. 200–800
 - l) für die vom Personal des Amtes ausgeführten Aufgaben und Arbeiten, deren Gebühr durch keine Bestimmung des vorliegenden Beschlusses geregelt wird: — Fr. 40–100
 - m) für alle vom Amt gefällten Entscheide, deren Gebühr durch keine Bestimmung des vorliegenden Beschlusses geregelt wird: — Fr. 50–500
+
+#### Art. 12a
+
+**Inkasso**
+
+<sup>1</sup> Die Gebühren können im Voraus, bar oder per Nachnahme erhoben werden, insbesondere wenn das Konto der Person Zahlungsrückstände aufweist oder wenn sie ihren Wohnsitz ausserhalb des Kantons Freiburg hat.
 
 #### Art. 13
 
