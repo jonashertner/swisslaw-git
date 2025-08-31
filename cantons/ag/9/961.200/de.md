@@ -4,13 +4,12 @@ number: "961.200"
 title: Einführungsgesetz zum Arbeitsrecht
 short: EG ArR
 language: de
-version: 2024-07-01
-valid_until: 2025-08-31
-version_adopted: 2023-09-19
+version: 2025-09-01
+version_adopted: 2025-03-04
 adopted: 2011-11-08
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3473/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3837/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3473/pdf_file"
 
 (EG ArR)
 
-Vom 08.11.2011 (Stand 01.07.2024)
+Vom 08.11.2011 (Stand 01.09.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -113,6 +112,8 @@ beschliesst:
 **Bewilligungsfreie Sonntagsverkäufe**
 
 <sup>1</sup> Der Regierungsrat bezeichnet für jedes Jahr zwei Sonntage, an denen Arbeitnehmende in Verkaufsgeschäften bewilligungsfrei beschäftigt werden dürfen.
+
+<sup>2</sup> Der Gemeinderat kann für das jeweilige Gemeindegebiet einen weiteren Sonntagsverkaufstag im Jahr festlegen. Davon ausgeschlossen sind der Bundesfeiertag sowie die in der jeweiligen Gemeinde geltenden kantonalen Feiertage gemäss § 6. Ein dritter Sonntagsverkaufstag darf zudem nicht in die Adventszeit fallen.
 
 ## 4. Ständige kantonale Einigungsstelle
 
