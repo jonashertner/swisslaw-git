@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 22 mars 2017 sur le dossier électronique du patient
 short: ODEP-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: fr
-version: 2025-06-01
+version: 2025-09-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-205-20250601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-205-20250901-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20250601/fr"
 
 (ODEP-DFI)
 
-du 22 mars 2017 (État le 1<sup>er</sup> juin 2025)
+du 22 mars 2017 (État le 1<sup>er</sup> septembre 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 5, al. 2, 10, al. 3 à 5, 11, 12, al. 4, 18, 19, 22, al. 2, 28, al. 
 
 arrête:
 
-[^ingress-1]: [<sub>RS</sub> <sub>816.11</sub>](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^ingress-1]: [<sub>RS</sub> <sub>816.11</sub>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 1
 
@@ -116,7 +116,7 @@ L’annexe 5 définit, en application de l’art. 10, al. 3, let. c et d, ODEP:
 <sup>3</sup> L’OFSP peut adapter aux progrès techniques les prescriptions visées à l’al. 2.
 
 [^8a-1]: Introduit par le ch. I de l’O du DFI du 24 juin 2019, en vigueur depuis le 15 juil. 2019 ([RO 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
-[^8a-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^8a-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
 
 #### Art. 8b
 
@@ -425,8 +425,8 @@ Annexe 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 24 juin 2019 ([RO 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Mise à jour par le ch. I al. 1 de l’O de l’OFSP du 16 mars 2021 ([RO 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)) et le ch. II al. 1 des O du DFI du 4 mai 2023 ([RO 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), du 24 avr. 2024 ([RO 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) et du 30 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-7]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 24 juin 2019 ([RO 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Mise à jour par le ch. I al. 1 de l’O de l’OFSP du 16 mars 2021 ([RO 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), le ch. II al. 1 des O du DFI du 4 mai 2023 ([RO 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), du 24 avr. 2024 ([RO 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)), du 30 avr. 2025 ([RO 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)) et le ch. I de l’O du DFI du 31 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 494](https://fedlex.data.admin.ch/eli/oc/2025/494)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/494](https://fedlex.data.admin.ch/eli/oc/2025/494) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9[^t-8]
 

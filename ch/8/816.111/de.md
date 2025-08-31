@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 22. März 2017 über das elektronische Patientendo
 short: EPDV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: de
-version: 2025-06-01
+version: 2025-09-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20250601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20250901-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20250601/de"
 
 (EPDV-EDI)
 
-vom 22. März 2017 (Stand am 1. Juni 2025)
+vom 22. März 2017 (Stand am 1. September 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 5 Absatz 2, 10 Absätze 3–5, 11, 12 Absatz 4, 18, 19
 
 verordnet:
 
-[^ingress-1]: [SR 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^ingress-1]: [SR 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 1
 
@@ -116,7 +116,7 @@ Anhang 5 legt in Anwendung von Artikel 10 Absatz 3 Buchstaben c und d EPDV fest:
 <sup>3</sup> Das BAG kann die Vorgaben nach Absatz 2 dem Stand der Technik anpassen.
 
 [^8a-1]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
-[^8a-2]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^8a-2]: [SR 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
 
 #### Art. 8b
 
@@ -148,7 +148,7 @@ Bis zum 31. Mai 2025 müssen Gemeinschaften und Stammgemeinschaften die Änderun
 
 Bis zum 31. Mai 2027 müssen Herausgeber von Identifikationsmitteln, Gemeinschaften und Stammgemeinschaften die Änderung vom 30. April 2025 nicht umsetzen.
 
-[^8e-1]: Eingefügt durch Ziff. I der V des EDI vom 30. April 2025, in Kraft seit 1. Juni 2025 (AS **202****5** 309).
+[^8e-1]: Eingefügt durch Ziff. I der V des EDI vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
 
 #### Art. 9
 
@@ -425,8 +425,8 @@ Anhang 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 4. Mai ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) und vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)).
-[^annex8-lvlu1-1]: veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/309](https://fedlex.data.admin.ch/eli/oc/2025/309) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-7]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 4. Mai ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)), vom 30. April 2025 ([AS 2025 309](https://fedlex.data.admin.ch/eli/oc/2025/309)) und Ziff. I der V des EDI vom 31. Juli 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 494](https://fedlex.data.admin.ch/eli/oc/2025/494)).
+[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/494](https://fedlex.data.admin.ch/eli/oc/2025/494) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9[^t-8]
 
