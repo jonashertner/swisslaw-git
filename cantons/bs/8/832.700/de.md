@@ -4,13 +4,12 @@ number: "832.700"
 title: "Gesetz über die Einführung des Bundesgesetzes über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie über die Ausrichtung von kantonalen Beihilfen"
 short: EG/ELG
 language: de
-version: 2017-01-01
-valid_until: 2025-08-31
-version_adopted: 2016-09-14
+version: 2025-09-01
+version_adopted: 2025-03-19
 adopted: 1987-11-11
 in_force: 1988-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/832.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5467/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ergänzungsleistungen zur AHV/IV: Gesetz | AHV und IV / Alters- und Invalidenhil
 
 (EG/ELG)
 
-Vom 11. November 1987 (Stand 1. Januar 2017)
+Vom 11. November 1987 (Stand 1. September 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -45,9 +44,13 @@ beschliesst:
 
 #### § 2
 
-**Anspruchsberechtigung**
+**Allgemeines**
 
 <sup>1</sup> Die Anspruchsberechtigung auf Ergänzungsleistungen richtet sich nach dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 6. Oktober 2006 (Bundesgesetz).
+
+<sup>2</sup> Personen, die keine Leistungen der Sozialhilfe beziehen und aufgrund der Steuerdaten Anspruch auf Ergänzungsleistungen haben könnten, werden regelmässig persönlich angeschrieben. Der Regierungsrat regelt das Nähere[^2-1]
+
+[^2-1]: §2 Abs. 2 vom Eidgenössischen Departement des Inneren genehmigt am 18.Juni 2025.
 
 #### § 3
 
