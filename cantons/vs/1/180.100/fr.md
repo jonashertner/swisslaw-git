@@ -3,37 +3,39 @@ canton: VS
 number: "180.100"
 title: "Règlement d'application de la loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais"
 language: fr
-version: 2017-01-01
-corrected: 2017-09-04
-version_adopted: 2016-11-30
+version: 2025-09-01
+version_adopted: 2025-08-27
 adopted: 1993-07-07
 in_force: 1993-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/180.100"
-pdf: "https://lex.vs.ch/api/fr/versions/619/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3508/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement d'application de la loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais
 
-du 7 juillet 1993
+du 07.07.1993 (état 01.09.2025)
 
-Le Conseil d'Etat du canton du Valais vu les articles 8, alinéa 4, 11, alinéa 2, 18, alinéa 3 et 20 de la loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais du 13 novembre 1991 (LREE);
+Le Conseil d'Etat du canton du Valais
 
-vu les articles 2 et 53, chiffres 2 et 8 de la Constitution cantonale;
+vu les articles 2 et 57 alinéa 1 de la Constitution cantonale;
 
-sur la proposition du Département de l'intérieur, arrête:
+vu les articles 8 alinéa 4, 11 alinéa 2, 18 alinéa 3 et 20 de la loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais du 13 novembre 1991 (LREE);
 
-- 1\. Dispositions générales
+sur la proposition du département en charge des institutions,
+
+ordonne:
+
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Représentants des Eglises**
 
-<sup>1</sup> Les Eglises catholique romaine et réformée évangélique communiquent au Département en charge des institutions (ci-après: le Département) les autorités habilitées à les représenter sur le plan cantonal.<sup>2</sup>
+<sup>1</sup> Les Eglises catholique romaine et réformée évangélique communiquent au Département en charge des institutions (ci-après: le Département) les autorités habilitées à les représenter sur le plan cantonal.
 
-<sup>2</sup> Abrogé.<sup>2</sup>
+<sup>2</sup> …
 
 <sup>3</sup> Les autorités ainsi désignées conservent cette qualité jusqu'à nouvelle communication des Eglises concernées.
 
@@ -41,39 +43,39 @@ sur la proposition du Département de l'intérieur, arrête:
 
 **Eglises particulières**
 
-Le diocèse de Sion et l'abbaye territoriale de Saint-Maurice constituent actuellement les Eglises particulières de l'Eglise catholique romaine.
+<sup>1</sup> Le diocèse de Sion et l'abbaye territoriale de Saint-Maurice constituent actuellement les Eglises particulières de l'Eglise catholique romaine.
 
-- 2\. Rapports entre les Eglises et l'Etat sur le plan communal
+## 2 Rapports entre les Eglises et l'Etat sur le plan communal
 
-### Chapitre 1: Salaires et charges sociales
+### 2.1 Salaires et charges sociales
 
 #### Art. 3
 
-**Traitements a) principes**
+**Traitements a) Principes**
 
-<sup>1</sup> La rétribution des ecclésiastiques engagés à plein temps correspond au traitement annuel d'un maître de l'enseignement primaire (Diplôme pédagogique enfantin ou primaire E1-16).<sup>2</sup>
+<sup>1</sup> La rétribution des ecclésiastiques engagés à plein temps correspond au traitement annuel d'un maître de l'enseignement primaire (Diplôme pédagogique enfantin ou primaire E1-16).
 
 <sup>2</sup> Le même traitement est servi aux laïcs chargés à plein temps des tâches pastorales et au bénéfice d'un diplôme de théologie ou d'une formation jugée équivalente.
 
 #### Art. 4
 
-<sup>1</sup> b) modalités
+**b) Modalités**
 
-<sup>1</sup> Les traitements fixés à l'article 3 sont soumis aux mêmes variations que celles du personnel enseignant, notamment en ce qui concerne les augmentations réelles, le renchérissement, et les allocations sociales. Les parts d'expérience sont calculées conformément à l'alinéa suivant.<sup>2</sup>
+<sup>1</sup> Les traitements fixés à l'article 3 sont soumis aux mêmes variations que celles du personnel enseignant, notamment en ce qui concerne les augmentations réelles, le renchérissement, et les allocations sociales. Les parts d'expérience sont calculées conformément à l'alinéa suivant.
 
-<sup>2</sup> La différence entre le traitement minimal et maximal est de 35 pour cent. Les Conseils municipaux fixent les parts d'expérience annuelles retenues comme frais de culte au sens des articles 7 et 8 de la loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais du 13 novembre 1991 (LREE) entre 1,75 et 3,5 pour cent.<sup>2</sup>
+<sup>2</sup> La différence entre le traitement minimal et maximal est de 35 pour cent. Les Conseils municipaux fixent les parts d'expérience annuelles retenues comme frais de culte au sens des articles 7 et 8 de la loi sur les rapports entre les Eglises et l'Etat dans le canton du Valais du 13 novembre 1991 (LREE) entre 1.75 et 3.5 pour cent.
 
-<sup>3</sup> Le pourcentage de parts d'expérience accumulé en qualité d'ecclésiastique ou de laïc chargé de tâches pastorales reste acquis à l'intéressé lors d'un changement de fonction ou de lieu de travail.<sup>2</sup>
+<sup>3</sup> Le pourcentage de parts d'expérience accumulé en qualité d'ecclésiastique ou de laïc chargé de tâches pastorales reste acquis à l'intéressé lors d'un changement de fonction ou de lieu de travail.
 
-#### Art. 5 c
+#### Art. 5
 
-**) salaire supplémentaire**
+**c) Salaire supplémentaire**
 
-Lorsque les circonstances le justifient, les paroisses peuvent convenir d'un traitement supérieur à celui fixé par le présent règlement. Toutefois, la part des salaires versée en plus ne peut être considérée comme des frais de culte au sens des articles 7 et 8 LREE qu'avec le consentement des communes intéressées.
+<sup>1</sup> Lorsque les circonstances le justifient, les paroisses peuvent convenir d'un traitement supérieur à celui fixé par le présent règlement. Toutefois, la part des salaires versée en plus ne peut être considérée comme des frais de culte au sens des articles 7 et 8 LREE qu'avec le consentement des communes intéressées.
 
 #### Art. 6
 
-<sup>1</sup> d) loyer
+**d) Loyer**
 
 <sup>1</sup> Les paroisses mettent à disposition du desservant un logement convenable.
 
@@ -83,47 +85,45 @@ Lorsque les circonstances le justifient, les paroisses peuvent convenir d'un tra
 
 #### Art. 7
 
-**Institutions de prévoyance a) cotisations**
+**Institutions de prévoyance a) Cotisations**
 
 <sup>1</sup> Les ecclésiastiques et les laïcs chargés de tâches pastorales ont, en principe, l'obligation d'être membre de la caisse de prévoyance officielle instituée par chacune des deux confessions reconnues et ce, pour autant qu'ils remplissent les conditions statutaires.
 
 <sup>2</sup> Les parts patronales du traitement à verser à ces institutions de prévoyance de même que la part patronale des cotisations dues aux institutions publiques de prévoyance sont calculées conformément aux règles valables pour le personnel de l'administration cantonale.
 
-#### Art. 8 b
+#### Art. 8
 
-**) contrôle**
+**b) Contrôle**
 
 <sup>1</sup> Les institutions de prévoyance sont des institutions privées administrées par les assurés eux-mêmes.
 
-<sup>2</sup> Ces institutions peuvent instituer l'Inspection cantonale des finances comme organe de contrôle au sens de l'article 53, alinéa 1 LPP.
+<sup>2</sup> Ces institutions peuvent instituer l'Inspection cantonale des finances comme organe de contrôle au sens de l'article 53 alinéa 1 LPP.
 
 #### Art. 9
 
-<sup>1,2</sup>
-
-Abrogé.
+**…**
 
 #### Art. 10
 
-<sup>2</sup> Maintien en fonction après l'âge légal de la retraite
+**Maintien en fonction après l'âge légal de la retraite**
 
-<sup>1</sup> Les ecclésiastiques et les laïcs chargés de tâches pastorales qui sont maintenus en fonction après l'âge légal de la retraite peuvent choisir, pour autant que le règlement de l'institution de prévoyance le prévoie, si le traitement doit être réduit des rentes versées par celle-ci ou si la rente doit être différée jusqu'à la fin de l'engagement.<sup>2</sup>
+<sup>1</sup> Les ecclésiastiques et les laïcs chargés de tâches pastorales qui sont maintenus en fonction après l'âge légal de la retraite peuvent choisir, pour autant que le règlement de l'institution de prévoyance le prévoie, si le traitement doit être réduit des rentes versées par celle-ci ou si la rente doit être différée jusqu'à la fin de l'engagement.
 
-<sup>2</sup> Si le règlement de l'institution de prévoyance ne prévoit pas d'ajournement de la rente, celle-ci est déduite du salaire au prorata du taux d'activité.<sup>2</sup>
+<sup>2</sup> Si le règlement de l'institution de prévoyance ne prévoit pas d'ajournement de la rente, celle-ci est déduite du salaire au prorata du taux d'activité.
 
-<sup>3</sup> La rente AVS demeure acquise à l'intéressé.<sup>2</sup>
+<sup>3</sup> La rente AVS demeure acquise à l'intéressé.
 
 #### Art. 11
 
-<sup>2</sup> Calcul des salaires et cotisations
+**Calcul des salaires et cotisations**
 
-Le Département, avec la collaboration du Service de l'Administration des finances, fournit chaque année, à l'intention des paroisses et des communes, les informations servant au calcul des salaires.
+<sup>1</sup> Le Département, avec la collaboration du Service de l'Administration des finances, fournit chaque année, à l'intention des paroisses et des communes, les informations servant au calcul des salaires.
 
 #### Art. 12
 
-<sup>2</sup> Remplacements
+**Remplacements**
 
-<sup>1</sup> Les remplacements nécessaires sont payés par l'employeur.<sup>2</sup>
+<sup>1</sup> Les remplacements nécessaires sont payés par l'employeur.
 
 <sup>2</sup> Les remplacements limités aux ministères de la présence et des sacrements sont réglés conformément aux directives de l'ordinaire du diocèse, respectivement du conseil synodal, approuvées par le Conseil d'Etat.
 
@@ -131,7 +131,7 @@ Le Département, avec la collaboration du Service de l'Administration des financ
 
 **Maladie, accident et service obligatoire**
 
-<sup>1</sup> Les traitements en cas de maladie, d'accident ou de service obligatoire sont fixés conformément aux dispositions valables pour les employés de l'Etat du Valais.<sup>2</sup>
+<sup>1</sup> Les traitements en cas de maladie, d'accident ou de service obligatoire sont fixés conformément aux dispositions valables pour les employés de l'Etat du Valais.
 
 <sup>2</sup> Les frais de remplacement nécessaires sont à la charge de la paroisse. Toutefois, les indemnités allouées pour perte de gain reviennent à la paroisse.
 
@@ -143,7 +143,7 @@ Le Département, avec la collaboration du Service de l'Administration des financ
 
 <sup>2</sup> Un tel forfait peut également être prévu pour d'autres frais de fonction.
 
-### Chapitre 2: Mode de décompte et financement
+### 2.2 Mode de décompte et financement
 
 #### Art. 15
 
@@ -155,47 +155,47 @@ Le Département, avec la collaboration du Service de l'Administration des financ
 
 #### Art. 16
 
-<sup>2</sup> Plan comptable a) obligation
+**Plan comptable a) Obligation**
 
-Afin de faciliter l'examen des comptes et du budget et de simplifier les tâches des communes, le Département peut imposer aux paroisses un plan comptable, notamment lorsqu'une paroisse recouvre le territoire de plusieurs communes ou lorsqu'il y a plusieurs paroisses sur le territoire communal.
+<sup>1</sup> Afin de faciliter l'examen des comptes et du budget et de simplifier les tâches des communes, le Département peut imposer aux paroisses un plan comptable, notamment lorsqu'une paroisse recouvre le territoire de plusieurs communes ou lorsqu'il y a plusieurs paroisses sur le territoire communal.
 
-#### Art. 17 b
+#### Art. 17
 
-**) modèle**
+**b) Modèle**
 
-L'Inspection cantonale des finances établit à l'intention des paroisses un modèle de plan comptable.
+<sup>1</sup> L'Inspection cantonale des finances établit à l'intention des paroisses un modèle de plan comptable.
 
 #### Art. 18
 
 **Intérêt moratoire**
 
-Le taux de l'intérêt moratoire prévu à l'article 11 LREE correspond à celui fixé par le Conseil d'Etat pour l'intérêt de retard en matière d'impôt (art. 164 de la loi fiscale).
+<sup>1</sup> Le taux de l'intérêt moratoire prévu à l'article 11 LREE correspond à celui fixé par le Conseil d'Etat pour l'intérêt de retard en matière d'impôt (art. 164 de la loi fiscale).
 
 #### Art. 19
 
 **Commission intercommunale**
 
-Le préfet du district prête ses bons offices pour la mise en place des commissions intercommunales prévues par l'article 12, alinéa 2 LREE.
+<sup>1</sup> Le préfet du district prête ses bons offices pour la mise en place des commissions intercommunales prévues par l'article 12 alinéa 2 LREE.
 
 #### Art. 20
 
 **Calcul de la réduction**
 
-La réduction de l'impôt ordinaire prévue à l'article 13, alinéa 2 LREE est calculée sur la base des comptes de l'année qui précède la requête écrite déposée par le contribuable.
+<sup>1</sup> La réduction de l'impôt ordinaire prévue à l'article 13 alinéa 2 LREE est calculée sur la base des comptes de l'année qui précède la requête écrite déposée par le contribuable.
 
 #### Art. 21
 
 **Registre des adhérents**
 
-La commission cantonale de protection des données établit à l'intention des communes des directives-types concernant les mesures de sécurité à prendre quant à la protection des données liées à l'appartenance religieuse.
+<sup>1</sup> Le préposé à la protection des données et à la transparence établit à l'intention des communes des documents-types concernant les mesures de sécurité à prendre quant à la protection des données liées à l'appartenance religieuse.
 
-- 3\. Rapports entre les Eglises et l'Etat sur le plan cantonal
+## 3 Rapports entre les Eglises et l'Etat sur le plan cantonal
 
 #### Art. 22
 
 **Demande de subvention**
 
-Les Eglises reconnues qui sollicitent une aide cantonale doivent adresser une requête écrite au Conseil d'Etat pour le 30 mai au plus tard.
+<sup>1</sup> Les Eglises reconnues qui sollicitent une aide cantonale doivent adresser une requête écrite au Conseil d'Etat pour le 30 mai au plus tard.
 
 #### Art. 23
 
@@ -204,73 +204,56 @@ Les Eglises reconnues qui sollicitent une aide cantonale doivent adresser une re
 <sup>1</sup> La requête mentionne:
 
 - a) le montant de l'aide sollicitée;
-
 - b) les dépenses consenties pour les activités qui servent en même temps un but d'intérêt public.
 
 <sup>2</sup> Elle sera accompagnée des pièces permettant l'examen de la situation financière de la requérante (comptes et budget).
 
-- 4\. Dispositions finales
+## 4 Dispositions finales
 
-### Chapitre 1: Commission cantonale
+### 4.1 Commission cantonale
 
 #### Art. 24
 
-**Commission cantonale a) nomination**
+**Commission cantonale a) Nomination**
 
-<sup>1</sup> Les Eglises reconnues et la Fédération des Communes Valaisannes sont invitées par le Département à formuler des propositions quant à la nomination des membres de la commission cantonale.[^24-1]
+<sup>1</sup> Les Eglises reconnues et la Fédération des Communes Valaisannes sont invitées par le Département à formuler des propositions quant à la nomination des membres de la commission cantonale.
 
-<sup>2</sup> Le Département communique ces propositions au bureau du Grand Conseil.[^24-1]
+<sup>2</sup> Le Département communique ces propositions au bureau du Grand Conseil.
 
-<sup>3</sup> Le président et les autres membres de la commission sont nommés par le Grand Conseil pour la durée de la législature.[^24-1]
+<sup>3</sup> Le président et les autres membres de la commission sont nommés par le Grand Conseil pour la durée de la législature.
 
-[^24-1]: Modification du 30 novembre 2016 BO No 50/2016 01.01.2017
+#### Art. 25
 
-#### Art. 25 b
-
-**) fonctionnement et organisation**
+**b) Fonctionnement et organisation**
 
 <sup>1</sup> La commission cantonale fonctionne valablement lorsque le président ou son remplaçant et quatre autres membres au moins sont présents.
 
 <sup>2</sup> La commission désigne son vice-président et son secrétaire. Ce dernier peut être choisi en dehors de ses membres.
 
-#### Art. 26 c
+#### Art. 26
 
-**) instruction**
+**c) Instruction**
 
-Le président de la commission instruit, en principe, lui-même la cause. Il peut cependant confier cette tâche à un autre membre de la commission.
-
-[^26c-1]: Modification du 30 novembre 2016 BO No 50/2016 01.01.2017
+<sup>1</sup> Le président de la commission instruit, en principe, lui-même la cause. Il peut cependant confier cette tâche à un autre membre de la commission.
 
 #### Art. 27
 
-**d) indemnisation**[^26c-1]
+**d) Indemnisation**
 
-Les membres de la commission cantonale sont indemnisés conformément à l'arrêté sur les indemnités de commissions du 18 juin 2008.
+<sup>1</sup> Les membres de la commission cantonale sont indemnisés conformément à l'arrêté sur les indemnités de commissions du 18 juin 2008.
 
-### Chapitre 2: Exécution et entrée en vigueur
+### 4.2 Exécution et entrée en vigueur
 
 #### Art. 28
 
-<sup>2</sup> Exécution
+**Exécution**
 
-Le Département est chargé de l'exécution du présent règlement.
+<sup>1</sup> Le Département est chargé de l'exécution du présent règlement.
 
 #### Art. 29
 
 **Entrée en vigueur**
 
-Le Conseil d'Etat fixe la date d'entrée en vigueur du présent règlement.
+<sup>1</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur du présent règlement.
 
-Ainsi adopté en séance du Conseil d'Etat, à Sion, le 7 juillet 1993.
-
-Le président du Conseil d'Etat: Raymond Deferr Le chancelier d'Etat: Henri v. Roten
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Règlement d'application de la loi sur les RO/VS 1993, 180 01.08.1993 rapports entre les Eglises et l'Etat dans le canton du Valais du 7 juillet 1993
-
-## Autres notes
-
-- [1] Modification du 15 décembre 1993 RO/VS 1993, 212 01.01.1994
+RCV RO/AGS 1993 f 180 | d 186
