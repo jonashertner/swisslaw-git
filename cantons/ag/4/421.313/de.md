@@ -3,20 +3,20 @@ canton: AG
 number: "421.313"
 title: Verordnung über die Volksschule
 language: de
-version: 2025-08-01
-valid_until: 2025-08-31
-version_adopted: 2025-05-21
+version: 2025-09-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-18
 adopted: 2012-06-27
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3821/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volksschule
 
-Vom 27.06.2012 (Stand 01.08.2025)
+Vom 27.06.2012 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -32,7 +32,7 @@ beschliesst:
 
 **Meldung**
 
-<sup>1</sup> Die für die Einwohnerkontrolle zuständige Behörde meldet bis Ende Januar den Schulleitungen die Personalien der Kinder, die im laufenden Jahr schulpflichtig werden, sowie laufend die Zu- und Wegzüge von schulpflichtigen Kindern und deren Personalien.
+<sup>1</sup> Die für die Einwohnerkontrolle zuständige Behörde meldet bis Ende Januar den Schulleitungen die Personalien der Kinder, die im folgenden Jahr schulpflichtig werden, sowie laufend die Zu- und Wegzüge von schulpflichtigen Kindern und deren Personalien.
 
 <sup>2</sup> Die Eltern sind verpflichtet, ihre schulpflichtigen Kinder am Wohn- beziehungsweise Aufenthaltsort bei der Schulleitung einschreiben zu lassen.
 
@@ -182,7 +182,7 @@ beschliesst:
 
 <sup>1</sup> Der Gemeinderat kann Schülerinnen und Schüler dauerhaft von einzelnen Lektionen dispensieren, wenn deren überdurchschnittliche Sachkompetenz im betreffenden Fach anderweitig ausgewiesen ist oder andere wichtige Gründe vorliegen.
 
-<sup>2</sup> Er kann auf Gesuch der Eltern deren Kind während des ersten Kindergartenjahrs für maximal einen Unterrichtshalbtag pro Woche dispensieren.
+<sup>2</sup> Er kann auf Gesuch der Eltern deren Kind während des ersten Kindergartenjahrs teilweise dispensieren.
 
 <sup>3</sup> Er dispensiert Schülerinnen und Schüler, wenn polizeiliche beziehungsweise gesundheitspolizeiliche Gründe es erfordern und Gefahr in Verzug ist. Dispensationen aus disziplinarischen Gründen gemäss Schulgesetz bleiben vorbehalten.
 
