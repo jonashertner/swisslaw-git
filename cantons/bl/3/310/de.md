@@ -4,13 +4,12 @@ number: "310"
 title: Finanzhaushaltsgesetz
 short: FHG
 language: de
-version: 2022-04-01
-valid_until: 2025-08-31
-version_adopted: 2022-01-13
+version: 2025-09-01
+version_adopted: 2025-02-27
 adopted: 2017-06-01
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310"
-pdf: "https://bl.clex.ch/api/de/versions/3299/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3299/pdf_file"
 
 (FHG)
 
-Vom 01.06.2017 (Stand 01.04.2022)
+Vom 01.06.2017 (Stand 01.09.2025)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -489,7 +488,14 @@ beschliesst:
 
 <sup>2</sup> Für die Erhöhung ist dasjenige Organ zuständig, das für die gesamte Ausgabenbewilligung zuständig wäre.
 
+<sup>2<sup>bis</sup></sup> Ist der Landrat für die Erhöhung zuständig, untersteht der Erhöhungsbetrag bei einmaligen Ausgaben bei einer Erhöhung von mehr als CHF 1 Mio. und bei wiederkehrenden Ausgaben bei einer Erhöhung von mehr als CHF 200'000.– der fakultativen Volksabstimmung gemäss § 31 Abs. 1 Bst. b der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^39-1].
+
+<sup>2<sup>ter</sup></sup> Der Landrat kann tiefere Erhöhungsbeiträge der fakultativen Volksabstimmung gemäss § 31 Abs. 1 Bst. b der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^39-2] unterstellen. Dafür ist das Erreichen eines 4/5-Mehrs erforderlich.
+
 <sup>3</sup> Eine Erhöhung der Ausgabenbewilligung ist nicht erforderlich für teuerungsbedingte Mehrausgaben.
+
+[^39-1]: [SGS 100](https://bl.clex.ch/data/100/de/art31)
+[^39-2]: [SGS 100](https://bl.clex.ch/data/100/de/art31)
 
 #### § 40
 
