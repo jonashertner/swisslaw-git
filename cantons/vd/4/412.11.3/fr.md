@@ -4,7 +4,7 @@ number: "412.11.3"
 title: RÈGLEMENT du 03.03.2000 des fonds des élèves des gymnases (RF-EGY)
 short: RF-EGY
 language: fr
-version: 2000-01-01
+version: 2025-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.3?id=730b8cba-b4b5-4b11-aa76-ca2589a7085d"
 ---
 
@@ -67,13 +67,13 @@ arrête
 
 **Comptabilité [^3-1]**
 
-<sup>1</sup> Les montants des taxes d'inscription perçues sont imputés aux comptes budgétaires 4333 (taxes annuelles d'inscription) des gymnases et attribués aux fonds des élèves par le débit des compte 3802 (attribution à des fonds hors bilan).
+<sup>1</sup> Les montants des taxes d'inscription perçues sont imputés au compte budgétaire 4231 (taxes de cours) des gymnases et attribués aux fonds des élèves par le débit du compte 3510 (attributions aux financements spéciaux sous capital propre).
 
-<sup>2</sup> D'éventuels nouveaux dons en faveur des fonds des élèves seront imputés aux comptes 4609 (autres subventions) et attribués aux fonds hors bilan par le débit des comptes 3802.
+<sup>2</sup> D'éventuels nouveaux dons ou legs en faveur des fonds des élèves seront imputés au compte 4390 (autres revenus) et attribués aux financements spéciaux sous capital propre par le débit du compte 3510.
 
 <sup>3</sup> Les montants perçus sont déposés sur des comptes financiers (caisses, CCP, comptes bancaires) des gymnases, intégrés au bilan de l'État. Les soldes de ces comptes ne vont pas au-delà des besoins de gestion et des transferts sont régulièrement opérés au Service des finances, dans le cadre de la gestion des fonds de l'État placés à la Banque cantonale vaudoise.
 
-<sup>4</sup> Le Département de la formation et de la jeunesse et le Département des finances émettent des directives permettant l'application plus précise et détaillée des principes comptables définis.
+<sup>4</sup> Le département en charge de la formation et le département en charge des finances émettent des directives permettant l'application plus précise et détaillée des principes comptables définis.
 
 [^3-1]: Modif. 1 du 03.09.2025: Modification Al. 1,2,4; entrée en vigueur au 01.09.2025
 
