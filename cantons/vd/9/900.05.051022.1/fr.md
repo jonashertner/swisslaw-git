@@ -3,7 +3,7 @@ canton: VD
 number: "900.05.051022.1"
 title: "RÈGLEMENT du 05.10.2022 du Conseil d'Etat concernant le contrôle et la restitution des aides octroyées au sens de l'arrêté du 2 décembre 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus (COVID-19) par un soutien aux entreprises, dans des cas de rigueur"
 language: fr
-version: 2022-10-05
+version: 2025-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.051022.1?id=59f45129-ac1b-48f9-88cb-b30f859d75a4"
 ---
 
@@ -62,7 +62,7 @@ arrête
 - b. la vérification de l'absence de comptabilisation d'opérations insolites à l'activité régulière de la société non justifiées, notamment la création de réserves latentes, d'amortissements directs ou immédiats ou une rémunération excessive ;
 - c. la détection d'éventuelles fraudes.
 
-<sup>2</sup> Les contrôles subséquents (chapitre III) se limitent aux personnes morales qui ont bénéficié d'une aide pour cas de rigueur. Ils ont lieu annuellement, sur la base de leurs états financiers définitifs pour les années 2022, 2023 et 2024, et portent sur le respect des restrictions à l'utilisation de l'aide octroyée, durant les trois exercices suivants celui pour lequel une aide a été octroyée.
+<sup>2</sup> Les contrôles subséquents (chapitre III) se limitent aux personnes morales qui ont bénéficié d'une aide pour cas de rigueur. Ils ont lieu annuellement, sur la base de leurs états financiers définitifs pour les années 2022, 2023, 2024 et 2025, et portent sur le respect des restrictions à l'utilisation de l'aide octroyée, durant les trois exercices suivants au cours duquel une aide a été octroyée.
 
 <sup>3</sup> Les modalités des contrôles définies dans le présent règlement ne limitent pas le recours à d'autres moyens de suivi et de contrôle en application de l'article 17 de l'arrêté cantonal.
 
@@ -162,7 +162,7 @@ arrête
 
 #### Art. 10
 
-**Contrôle pour les années 2022, 2023 et 2024 [^chapterChapitreIII-1]**
+**Contrôle pour les années 2022, 2023, 2024 et 2025 [^chapterChapitreIII-1]**
 
 <sup>1</sup> Pour chaque année concernée, les personnes morales doivent transmettre au Service, par courrier électronique, les documents suivants dûment remplis et signés :
 
