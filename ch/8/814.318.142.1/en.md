@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2025-07-09
+version: 2025-09-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250901-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,13 +19,13 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Last amended on 9 July 2025)
+of 16 December 1985 (Last amended on 1 September 2025)
 
 The Swiss Federal Council,
 
 on the basis of Articles 12, 13, 16 and 39 of the Federal Act of 7 October 1983[^ingress-1] on the Protection of the Environment (the Act),
 
-ordains:
+ordains:1 Se
 
 [^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
@@ -1284,7 +1284,7 @@ Annex 2[^t-2]
 
 ## Additional or different emission limitation requirements for particular installations
 
-[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), No I of the O of 16 Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) and of 12 Feb. 2020, in force since 1 Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)No III). See also the transitional provision to the Amendment of 12.2.2020 above.
+[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), No I of the O of 16 Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) and of 12 Feb. 2020, in force since 1 Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)No III). The correction of 1 Sept. 2025 relates to the French and Italian texts only ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). See also the transitional provision to the Amendment of 12 Feb. 2020 above.
 
 ### Contents
 
@@ -1843,7 +1843,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -2430,7 +2430,7 @@ Emissions of carbon monoxide must not exceed 50 mg/m<sup>3</sup>.
 
 ## Additional or different emission limitation requirements for combustion installations
 
-[^t-3]: Amended by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Revised by No II of the O of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). The correction of 9 July 2025 relates to the French and Italian texts only ([AS 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). See also the transitional provision to the Amendment of 11 April 2018 above.
+[^t-3]: Amended by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Revised by No II of the O of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). The correction of 9 July 2025 relates to the French and Italian texts only ([AS 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). The correction of 1 Sept. 2025 relates to the French and Italian texts only ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). See also the transitional provision to the Amendment of 11 April 2018 above.
 
 ### 1 Scope
 
@@ -2765,7 +2765,7 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image2.png)
 
 where:
 
@@ -3204,15 +3204,15 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image3.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image4.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image5.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)

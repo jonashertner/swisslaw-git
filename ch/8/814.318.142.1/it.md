@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 1985 contro l'inquinamento atmosferico (OIAt)"
 short: OIAt
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: it
-version: 2025-07-09
+version: 2025-09-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/it"
 
 (OIAt)[^t-1]
 
-del 16 dicembre 1985 (Stato 9 luglio 2025)
+del 16 dicembre 1985 (Stato 1° settembre 2025)
 
 [^t-1]: [RU 1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835)
 
@@ -42,7 +42,7 @@ ordina:
 Essa regola:
 
 - a. la limitazione preventiva delle emissioni provenienti da impianti secondo l’articolo 7 della legge che inquinano l’aria;
-- [tab] a<sup>bis</sup> [^1-1] le modalità per bruciare i rifiuti all’aperto;
+- a<sup>bis</sup>.[^1-1] le modalità per bruciare i rifiuti all’aperto;
 - b. le esigenze in materia di carburanti e di combustibili;
 - c. il carico inquinante massimo ammissibile per l’aria (valori limite d’immissione);
 - d. la procedura nel caso in cui le immissioni siano eccessive.
@@ -888,11 +888,16 @@ L’aria di scarico, i gas di combustione e gli altri inquinanti atmosferici eme
 
 L’entità delle emissioni è espressa in:
 
-- a. concentrazione: massa di sostanza emessa rapportata al volume del gas di scarico (p. es.: in milligrammi per metro cubo [mg/m<sup>3</sup>]);
-- b. flusso di massa: massa di sostanza emessa per unità di tempo (p. es.: in grammi all’ora [g/h]);
-- c. fattore d’emissione: rapporto fra la massa di sostanza emessa e la massa del prodotto elaborato o fabbricato (p. es.: in chilogrammi per tonnellata [kg/t]);
-- d. tasso d’emissione: rapporto fra la massa emessa di un inquinante atmosferico e la massa di detto inquinante introdotta nell’impianto insieme al combustibile e alla sostanza di carica (p. es.: in per cento [% massa]);
-- e. indice di fuliggine: grado di annerimento di un filtro di carta prodotto dai gas di scarico. La scala di paragone da usare per la determinazione dell’indice di fuliggine (secondo Bacharach) comporta 10 gradi designati con le cifre 0 a 9.
+- a. concentrazione:
+- massa di sostanza emessa rapportata al volume del gas di scarico (p. es.: in milligrammi per metro cubo [mg/m<sup>3</sup>]);
+- b. flusso di massa:
+- massa di sostanza emessa per unità di tempo (p. es.: in grammi all’ora [g/h]);
+- c. fattore d’emissione:
+- rapporto fra la massa di sostanza emessa e la massa del prodotto elaborato o fabbricato (p. es.: in chilogrammi per tonnellata [kg/t]);
+- d. tasso d’emissione:
+- rapporto fra la massa emessa di un inquinante atmosferico e la massa di detto inquinante introdotta nell’impianto insieme al combustibile e alla sostanza di carica (p. es.: in per cento [% massa]);
+- e. indice di fuliggine:
+- grado di annerimento di un filtro di carta prodotto dai gas di scarico. La scala di paragone da usare per la determinazione dell’indice di fuliggine (secondo Bacharach) comporta 10 gradi designati con le cifre 0 a 9.
 
 ### 23 Grandezza di riferimento per le concentrazioni d’emissione
 
@@ -1292,7 +1297,7 @@ Allegato 2[^t-3]
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti speciali
 
-[^t-3]: Aggiornato dalla cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dalla cifra II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dalla cifra II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 cifra II 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dalla cifra II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla cifra II dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalla cifra I delle O del 16 nov. 2022 ([RU 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)cifra III) e dalla correzione del 30 nov. 2021, in vigore dal 1° gen. 2024 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)). Vedi anche la disp. trans. della mod del 12 feb. 2020 qui avanti.
+[^t-3]: Aggiornato dalla cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dalla cifra II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dalla cifra II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 cifra II 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dalla cifra II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla cifra II dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalla cifra I delle O del 16 nov. 2022 ([RU 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)), del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)cifra III), dalle correzioni del 30 nov. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)) e del 1° set. 2025 ([RU 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Vedi anche la disp. trans. della mod del 12 feb. 2020 qui avanti.
 
 ### Sommario
 
@@ -1799,7 +1804,7 @@ I valori limite d’emissione si riferiscono ad un tenore di ossigeno nei gas di
 
 Le emissioni di ossidi d’azoto, indicati come diossido d’azoto, non devono superare i valori secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/it/xml/image/image1.png)
 
 ### 474 Misurazioni
 
@@ -2152,14 +2157,14 @@ Per valutare se i valori limite d’emissione sono rispettati, si fa la media de
 Le emissioni non devono superare i valori seguenti:
 
 <table>
-<tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="3">Potenza termica</th></tr>
-<tr><th colspan="4"></th><th></th><th>fino a 1 MW</th><th>da 1 MW a 10 MW</th><th>oltre 10 MW</th></tr>
-<tr><td>– Grandezze di riferimento:</td><td colspan="4"></td><td></td><td></td><td></td></tr>
-<tr><td>i valori limite si riferiscono a un tenore di ossigeno nei gas di scarico di</td><td colspan="4">%vol</td><td>13</td><td>11</td><td>11</td></tr>
-<tr><td>– Particelle solide in totale:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
-<tr><td>– Monossido di carbonio (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
-<tr><td>– Ossidi d’azoto (NO<sub>x</sub>), indicati come diossido d’azoto (NO<sub>2</sub>)<sup>a</sup></td><td colspan="4">mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
-<tr><td colspan="8">a Con un flusso di massa pari o superiore a 2500 g/h.</td></tr>
+<tr><th colspan="2"></th><th colspan="3">Potenza termica</th></tr>
+<tr><th colspan="2"></th><th>fino a 1 MW</th><th>da più di 1 MW a 10 MW</th><th>oltre 10 MW</th></tr>
+<tr><td>– Grandezze di riferimento:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>i valori limite si riferiscono a un tenore di ossigeno nei gas di scarico di</td><td>%vol</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– Particelle solide in totale:</td><td>mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Monossido di carbonio (CO)</td><td>mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Ossidi d’azoto (NO<sub>x</sub>), indicati come diossido d’azoto (NO<sub>2</sub>)<sup>a</sup></td><td>mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
+<tr><td colspan="5"><sup>a</sup> Con un flusso di massa pari o superiore a 2500 g/h.</td></tr>
 </table>
 
 ### 743 Divieto di incenerimento in piccoli impianti
@@ -2386,7 +2391,7 @@ Allegato 3[^t-4]
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti a combustione
 
-[^t-4]: Nuovo testo giusta la cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Aggiornato dalla cifra II delle O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) e dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla correzione dell’11 dic. 2018 ([RU 2018 4709](https://fedlex.data.admin.ch/eli/oc/2018/748)), dalla cifra I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dalla cifra II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) e la correzione del 9 lug. 2025 ([RU 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). Vedi anche le disp. trans. della mod. dell’11 apr. 2018 qui avanti.
+[^t-4]: Nuovo testo giusta la cifra II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Aggiornato dalla cifra II delle O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dalla cifra I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) e dalla cifra II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla correzione dell’11 dic. 2018 ([RU 2018 4709](https://fedlex.data.admin.ch/eli/oc/2018/748)), dalla cifra I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dalla cifra II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalle correzioni del 9 lug. 2025 ([RU 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)) e del 1° set. 2025 ([RU 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Vedi anche le disp. trans. della mod. dell’11 apr. 2018 qui avanti.
 
 ### 1 Campo d’applicazione
 
@@ -2487,18 +2492,18 @@ L’olio da riscaldamento «extra leggero Euro» non può essere impiegato negli
 <sup>1</sup> Le emissioni degli impianti a combustione alimentati con olio «medio» o «pesante» non devono superare i seguenti valori:
 
 <table>
-<tr><th></th><th></th><th colspan="9">Potenza termica</th></tr>
-<tr><th></th><th></th><th>da 5 MW a 50 MW</th><th colspan="3">da 50 MW a 100 MW</th><th colspan="2">da 100 MW a 300 MW</th><th colspan="3">oltre 300 MW</th></tr>
-<tr><td colspan="4">Olio da riscaldamento «medio» e «pesante»</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>– Grandezza di riferimento:</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td></tr>
-<tr><td>i valori limite si riferiscono a un tenore di ossigeno nei gas di scarico del</td><td>% vol</td><td>3</td><td colspan="3">3</td><td colspan="2">3</td><td colspan="3">3</td></tr>
-<tr><td>– Particelle solide in totale:</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td></tr>
-<tr><td>per oli da riscaldamento con un tenore di zolfo massimo dell’1 % (massa):</td><td>mg/m<sup>3</sup></td><td>80</td><td colspan="3">10</td><td colspan="2">10</td><td colspan="3">10</td></tr>
-<tr><td>per altri oli da riscaldamento</td><td>mg/m<sup>3</sup></td><td>50</td><td colspan="3">10</td><td colspan="2">10</td><td colspan="3">10</td></tr>
-<tr><td>– Monossido di carbonio (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td colspan="3">170</td><td colspan="2">170</td><td colspan="3">170</td></tr>
-<tr><td>– Ossidi di zolfo (SO<sub>x</sub>), indicati come anidride solforosa (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td colspan="3">350</td><td colspan="2">200</td><td colspan="3">150</td></tr>
-<tr><td>– Ossidi d’azoto (NO<sub>x</sub>), indicati come diossido d’azoto (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td colspan="3">150</td><td colspan="2">150</td><td colspan="3">100</td></tr>
-<tr><td>– Ammoniaca e suoi composti, indicati come ammoniaca</td><td>mg/m<sup>3</sup></td><td>30</td><td colspan="3">30</td><td colspan="2">30</td><td colspan="3">30</td></tr>
+<tr><th colspan="2"></th><th colspan="4">Potenza termica</th></tr>
+<tr><th colspan="2"></th><th>da 5 MW a 50 MW</th><th>da più di 50 MW a 100 MW</th><th>da più di 100 MW a 300 MW</th><th>oltre 300 MW</th></tr>
+<tr><td colspan="6">Olio da riscaldamento «medio» e «pesante»</td></tr>
+<tr><td>– Grandezza di riferimento:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>i valori limite si riferiscono a un tenore di ossigeno nei gas di scarico del</td><td>% vol</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>– Particelle solide in totale:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>per oli da riscaldamento con un tenore di zolfo massimo dell’1 % (massa):</td><td>mg/m<sup>3</sup></td><td>80</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>per altri oli da riscaldamento</td><td>mg/m<sup>3</sup></td><td>50</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>– Monossido di carbonio (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td>170</td><td>170</td><td>170</td></tr>
+<tr><td>– Ossidi di zolfo (SO<sub>x</sub>), indicati come anidride solforosa (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td>350</td><td>200</td><td>150</td></tr>
+<tr><td>– Ossidi d’azoto (NO<sub>x</sub>), indicati come diossido d’azoto (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td>150</td><td>150</td><td>100</td></tr>
+<tr><td>– Ammoniaca e suoi composti, indicati come ammoniaca</td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
 </table>
 
 <sup>2</sup> Per quanto concerne gli ossidi di zolfo, il valore limite di emissione di 1700 mg/m<sup>3</sup> è considerato rispettato se nell’olio da riscaldamento impiegato il tenore di zolfo non supera l’1 per cento (% massa).
@@ -2711,19 +2716,15 @@ Per gli impianti a combustione che possono essere alimentati alternativamente co
 
 <sup>2</sup> Il valore limite di miscela per combustibili misti è calcolato mediante la formula seguente:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/it/xml/image/image4.png)</sub>
 
 dove:
 
-G<sub>m</sub> = valore limite di miscela per combustibili misti, riferito ad un tenore in ossigeno B<sub>1</sub>
-
-G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = valore limite d’emissione dei diversi combustibili[^annex3-lvlu1-lvl8-lvl82-1]
-
-E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = energia fornita all’ora dai singoli combustibili
-
-E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + … + E<sub>n</sub>
-
-B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = grandezze di riferimento (tenore in ossigeno al quale si riferisce il valore limite d’emissione del primo, del secondo e degli altri combustibili).
+- G<sub>m</sub> = valore limite di miscela per combustibili misti, riferito ad un tenore in ossigeno B<sub>1</sub>
+- G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = valore limite d’emissione dei diversi combustibili[^annex3-lvlu1-lvl8-lvl82-1]
+- E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = energia fornita all’ora dai singoli combustibili
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + … + E<sub>n</sub>
+- B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = grandezze di riferimento (tenore in ossigeno al quale si riferisce il valore limite d’emissione del primo, del secondo e degli altri combustibili)
 
 <sup>3</sup> Per calcolare il tasso d’emissione determinante dello zolfo, occorre procedere per analogia secondo il capoverso 2.
 
@@ -2922,9 +2923,8 @@ Il tenore in zolfo nel carbone, nelle mattonelle di carbone e nel coke non deve 
 
 Il pellet e le mattonelle, considerati legno allo stato naturale ai sensi della cifra 31 capoverso 1 lettere a e b, possono essere importati a scopo commerciale e messi in commercio soltanto se:
 
-il pellet adempie i requisiti della norma SN EN ISO 17225-2 (Biocombustibili solidi - Specifiche e classificazione del combustibile - parte 2: Definizione delle classi di pellet di legno)[^annex5-lvlu1-lvl3-lvl32-1] relativi alle classi di qualità A1 o A2 o è di qualità equivalente;
-
-le mattonelle adempiono i requisiti della norma SN EN ISO 17225-3 (Biocombustibili solidi - Specifiche e classificazione del combustibile - parte 3: Definizione delle classi di bricchette di legno)[^annex5-lvlu1-lvl3-lvl32-2] relativi alle classi di qualità A1 o A2 o sono di qualità equivalente.
+- a. il pellet adempie i requisiti della norma SN EN ISO 17225-2 (Biocombustibili solidi - Specifiche e classificazione del combustibile - parte 2: Definizione delle classi di pellet di legno)[^annex5-lvlu1-lvl3-lvl32-1] relativi alle classi di qualità A1 o A2 o è di qualità equivalente;
+- b. le mattonelle adempiono i requisiti della norma SN EN ISO 17225-3 (Biocombustibili solidi - Specifiche e classificazione del combustibile - parte 3: Definizione delle classi di bricchette di legno)[^annex5-lvlu1-lvl3-lvl32-2] relativi alle classi di qualità A1 o A2 o sono di qualità equivalente.
 
 [^annex5-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 [^annex5-lvlu1-lvl3-lvl32-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
@@ -3158,13 +3158,13 @@ S (µg/m<sup>3</sup>) = valore S (cfr. cifre 3 e 9)
 
 Diagramma 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/it/xml/image/image5.png)
 
 ### Determinazione del fattore di correzione g in zone edificate e boschive
 
 Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/it/xml/image/image6.png)
 
 I = altezza del più alto fattore d’ostacolo determinante (cifra 5)
 

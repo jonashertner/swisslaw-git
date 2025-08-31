@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2025-07-09
+version: 2025-09-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 9. Juli 2025)
+vom 16. Dezember 1985 (Stand am 1. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -961,9 +961,12 @@ Für die Begrenzung der einzelnen Inhaltsstoffe des Staubes gelten die Anforderu
 
 <sup>1</sup> Die Emissionskonzentration der in Ziffer 52 aufgeführten Stoffe darf folgende Werte nicht übersteigen:
 
-- a. Stoffe der Klasse 1 bei einem Massenstrom von 1 g/h oder mehr 0,2 mg/m<sup>3</sup>
-- b. Stoffe der Klasse 2 bei einem Massenstrom von 5 g/h oder mehr 1 mg/m<sup>3</sup>
-- c. Stoffe der Klasse 3 bei einem Massenstrom von 25 g/h oder mehr 5 mg/m<sup>3</sup>
+- a. Stoffe der Klasse 1
+- bei einem Massenstrom von 1 g/h oder mehr 0,2 mg/m<sup>3</sup>
+- b. Stoffe der Klasse 2
+- bei einem Massenstrom von 5 g/h oder mehr 1 mg/m<sup>3</sup>
+- c. Stoffe der Klasse 3
+- bei einem Massenstrom von 25 g/h oder mehr 5 mg/m<sup>3</sup>
 
 <sup>2</sup> Die Grenzwerte gelten für die gesamte Masse eines emittierten Stoffes, einschliesslich der gas- und dampfförmigen Anteile im Abgas.
 
@@ -1002,10 +1005,14 @@ Für die Begrenzung der einzelnen Inhaltsstoffe des Staubes gelten die Anforderu
 
 Die Emissionskonzentration eines der in Ziffer 62 aufgeführten Stoffe darf folgende Werte nicht übersteigen:
 
-- a. bei einem Stoff der Klasse 1 bei einem Massenstrom von 10 g/h oder mehr 1 mg/m<sup>3</sup>
-- b. bei einem Stoff der Klasse 2 bei einem Massenstrom von 50 g/h oder mehr 5 mg/m<sup>3</sup>
-- c. bei einem Stoff der Klasse 3 bei einem Massenstrom von 300 g/h oder mehr 30 mg/m<sup>3</sup>
-- d. bei einem Stoff der Klasse 4 bei einem Massenstrom von 2500 g/h oder mehr 250 mg/m<sup>3</sup>
+- a. bei einem Stoff der Klasse 1
+- bei einem Massenstrom von 10 g/h oder mehr 1 mg/m<sup>3</sup>
+- b. bei einem Stoff der Klasse 2
+- bei einem Massenstrom von 50 g/h oder mehr 5 mg/m<sup>3</sup>
+- c. bei einem Stoff der Klasse 3
+- bei einem Massenstrom von 300 g/h oder mehr 30 mg/m<sup>3</sup>
+- d. bei einem Stoff der Klasse 4
+- bei einem Massenstrom von 2500 g/h oder mehr 250 mg/m<sup>3</sup>
 
 ### 62 Tabelle der anorganischen gas- oder dampfförmigen Stoffe
 
@@ -1038,9 +1045,12 @@ Die Emissionskonzentration eines der in Ziffer 62 aufgeführten Stoffe darf folg
 
 <sup>1</sup> Die Emissionskonzentration der in Ziffer 72 aufgeführten Stoffe darf folgende Werte nicht übersteigen:
 
-- a. Stoffe der Klasse 1 bei einem Massenstrom von 0,1 kg/h oder mehr 20 mg/m<sup>3</sup>
-- b. Stoffe der Klasse 2 bei einem Massenstrom von 2,0 kg/h oder mehr 100 mg/m<sup>3</sup>
-- c. Stoffe der Klasse 3 bei einem Massenstrom von 3,0 kg/h oder mehr 150 mg/m<sup>3</sup>
+- a. Stoffe der Klasse 1
+- bei einem Massenstrom von 0,1 kg/h oder mehr 20 mg/m<sup>3</sup>
+- b. Stoffe der Klasse 2
+- bei einem Massenstrom von 2,0 kg/h oder mehr 100 mg/m<sup>3</sup>
+- c. Stoffe der Klasse 3
+- bei einem Massenstrom von 3,0 kg/h oder mehr 150 mg/m<sup>3</sup>
 
 <sup>2</sup> Für partikelförmige organische Stoffe der Klassen 2 und 3 gelten abweichend von Absatz 1 die Vorschriften über die Staubbegrenzung nach Ziffer 41.
 
@@ -1229,9 +1239,12 @@ Als krebserzeugend gelten Stoffe, die in der Liste der arbeitshygienischen Grenz
 
 <sup>2</sup> Die Emissionen der in Ziffer 83 aufgeführten krebserzeugenden Stoffe sind mindestens so weit zu begrenzen, dass die Emissionskonzentrationen die folgenden Werte nicht übersteigen:
 
-- a. Stoffe der Klasse 1 bei einem Massenstrom von 0,5 g/h oder mehr 0,1 mg/m<sup>3</sup>
-- b. Stoffe der Klasse 2 bei einem Massenstrom von 5 g/h oder mehr 1 mg/m<sup>3</sup>
-- c. Stoffe der Klasse 3 bei einem Massenstrom von 25 g/h oder mehr 5 mg/m<sup>3</sup>
+- a. Stoffe der Klasse 1
+- bei einem Massenstrom von 0,5 g/h oder mehr 0,1 mg/m<sup>3</sup>
+- b. Stoffe der Klasse 2
+- bei einem Massenstrom von 5 g/h oder mehr 1 mg/m<sup>3</sup>
+- c. Stoffe der Klasse 3
+- bei einem Massenstrom von 25 g/h oder mehr 5 mg/m<sup>3</sup>
 
 <sup>3</sup> Enthält das Abgas mehrere Stoffe der gleichen Klasse, so gilt die Begrenzung nach Absatz 2 für die Summe dieser Stoffe.
 
@@ -1285,113 +1298,61 @@ Anhang 2[^t-2]
 
 ## Ergänzende und abweichende Emissionsbegrenzungen für besondere Anlagen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. II der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), der Berichtigung vom 30. Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), Ziff. I der V vom 16. Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) und vom 12. Febr. 2020, in Kraft seit 1. Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)Ziff. III). Siehe auch die UeB Änd. 12.2.2020 hiervor.
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. II der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), der Berichtigung vom 30. Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), Ziff. I der V vom 16. Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) und vom 12. Febr. 2020, in Kraft seit 1. Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)Ziff. III). Die Berichtigung vom 1. Sept. 2025 betrifft nur den französischen und italienischen Text ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Siehe auch die UeB Änd. 12.2.2020 hiervor.
 
 ### Inhaltsübersicht
 
-1 Steine und Erden
-
-11 Zementöfen und Kalkklinkeröfen
-
-12 Anlagen zum Brennen von keramischen Erzeugnissen unter Verwendung von Ton
-
-13 Anlagen zur Herstellung von Glas
-
-14 Asphaltmischanlagen
-
-2 Chemie
-
-21 Anlagen zur Herstellung von Schwefelsäure
-
-22 Claus-Anlagen
-
-23 Anlagen zur Herstellung von Chlor
-
-24 Anlagen zur Herstellung von 1,2-Dichlorethan und Vinylchlorid
-
-25 …
-
-26 Herstellung und Konfektionierung von Pflanzenschutzmittel
-
-27 Anlagen zur Herstellung von Russ
-
-28 Anlagen zur Herstellung von Kohlenstoff (Hartbrandkohle) oder Elektrographit durch Brennen
-
-29 Anlagen zur Herstellung von Salpetersäure
-
-3 Mineralölindustrie
-
-31 Raffinerien
-
-32 Grosstankanlagen
-
-33 Anlagen zum Umschlag von Benzin
-
-4 Metalle
-
-41 Giessereien
-
-42 Kupolöfen
-
-43 Aluminiumhütten
-
-44 Umschmelzanlagen für Nichteisenmetalle
-
-45 Verzinkungsanlagen
-
-46 Anlagen zur Herstellung von Blei-Akkumulatoren
-
-47 Wärme- und Wärmebehandlungsöfen
-
-48 Elektrostahlwerke
-
-5 Landwirtschaft und Lebensmittel
-
-51 Tierhaltung
-
-52 Räucheranlagen
-
-53 Anlagen zur Tierkörper-Verwertung und Kot-Trocknung
-
-54 Anlagen zum Trocknen von Grünfutter
-
-55 Anlagen zur Lagerung und Ausbringung von flüssigen Hofdüngern
-
-56 Kaffee- und Kakao-Röstereien
-
-6 Beschichten und Bedrucken
-
-61 Anlagen zum Beschichten und Bedrucken mit organischen Stoffen
-
-7 Abfälle
-
-71 Anlagen zum Verbrennen von Siedlungs- und Sonderabfällen
-
-72 Anlagen zum Verbrennen von Altholz, Papier- und ähnlichen Abfällen
-
-73 Anlagen zum Verbrennen von Sulfit-Ablauge aus der Zellstoffherstellung
-
-74 Anlagen zum Verbrennen von biogenen Abfällen und Erzeugnissen der Landwirt-
-
-schaft
-
-8 Weitere Anlagen
-
-81 Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen be- handelt werden
-
-82 Stationäre Verbrennungsmotoren
-
-83 Gasturbinen
-
-84 Anlagen zur Herstellung von Holzspan- und Holzfaserplatten
-
-85 Textilreinigung
-
-86 Krematorien
-
-87 Anlagen zur Oberflächenbehandlung
-
-88 Baustellen
+- **1** **Steine und Erden**
+- 11 Zementöfen und Kalkklinkeröfen
+- 12 Anlagen zum Brennen von keramischen Erzeugnissen unter Verwendung von Ton
+- 13 Anlagen zur Herstellung von Glas
+- 14 Asphaltmischanlagen
+- **2** **Chemie**
+- 21 Anlagen zur Herstellung von Schwefelsäure
+- 22 Claus-Anlagen
+- 23 Anlagen zur Herstellung von Chlor
+- 24 Anlagen zur Herstellung von 1,2-Dichlorethan und Vinylchlorid
+- 25 …
+- 26 Herstellung und Konfektionierung von Pflanzenschutzmittel
+- 27 Anlagen zur Herstellung von Russ
+- 28 Anlagen zur Herstellung von Kohlenstoff (Hartbrandkohle) oder Elektrographit durch Brennen
+- 29 Anlagen zur Herstellung von Salpetersäure
+- **3** **Mineralölindustrie**
+- 31 Raffinerien
+- 32 Grosstankanlagen
+- 33 Anlagen zum Umschlag von Benzin
+- **4** **Metalle**
+- 41 Giessereien
+- 42 Kupolöfen
+- 43 Aluminiumhütten
+- 44 Umschmelzanlagen für Nichteisenmetalle
+- 45 Verzinkungsanlagen
+- 46 Anlagen zur Herstellung von Blei-Akkumulatoren
+- 47 Wärme- und Wärmebehandlungsöfen
+- 48 Elektrostahlwerke
+- **5** **Landwirtschaft und Lebensmittel**
+- 51 Tierhaltung
+- 52 Räucheranlagen
+- 53 Anlagen zur Tierkörper-Verwertung und Kot-Trocknung
+- 54 Anlagen zum Trocknen von Grünfutter
+- 55 Anlagen zur Lagerung und Ausbringung von flüssigen Hofdüngern
+- 56 Kaffee- und Kakao-Röstereien
+- **6** **Beschichten und Bedrucken**
+- 61 Anlagen zum Beschichten und Bedrucken mit organischen Stoffen¨
+- **7** **Abfälle**
+- 71 Anlagen zum Verbrennen von Siedlungs- und Sonderabfällen
+- 72 Anlagen zum Verbrennen von Altholz, Papier- und ähnlichen Abfällen
+- 73 Anlagen zum Verbrennen von Sulfit-Ablauge aus der Zellstoffherstellung
+- 74 Anlagen zum Verbrennen von biogenen Abfällen und Erzeugnissen der Landwirtschaft
+- **8** **Weitere Anlagen**
+- 81 Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen be- handelt werden
+- 82 Stationäre Verbrennungsmotoren
+- 83 Gasturbinen
+- 84 Anlagen zur Herstellung von Holzspan- und Holzfaserplatten
+- 85 Textilreinigung
+- 86 Krematorien
+- 87 Anlagen zur Oberflächenbehandlung
+- 88 Baustellen
 
 ### 1 Steine und Erden
 
@@ -1846,7 +1807,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -1912,9 +1873,12 @@ Ziffer 81 ist nicht anwendbar.
 
 <sup>2</sup> Die Emissionen von organischen Stoffen werden als Gesamtkohlenstoff angegeben. Sie dürfen folgende Werte nicht überschreiten:
 
-- a. beim Heissräuchern bei einem Massenstrom von 50 g/h oder mehr 50 mg/m<sup>3</sup>
-- b. beim Kalträuchern bei einem Massenstrom von 50 g/h bis 300 g/h 120 mg/m<sup>3</sup>
-- c. beim Kalträuchern bei einem Massenstrom von mehr als 300 g/h 50 mg/m<sup>3</sup>
+- a. beim Heissräuchern
+- bei einem Massenstrom von 50 g/h oder mehr 50 mg/m<sup>3</sup>
+- b. beim Kalträuchern
+- bei einem Massenstrom von 50 g/h bis 300 g/h 120 mg/m<sup>3</sup>
+- c. beim Kalträuchern
+- bei einem Massenstrom von mehr als 300 g/h 50 mg/m<sup>3</sup>
 
 ### 53 Anlagen zur Tierkörper-Verwertung und Kot-Trocknung
 
@@ -2430,7 +2394,7 @@ Anhang 3[^t-3]
 
 ## Ergänzende und abweichende Emissionsbegrenzungen für Feuerungsanlagen
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Die Berichtigung vom 9. Juli 2025 betrifft nur den französischen und italienischen Text ([AS 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). Siehe auch die UeB Änd. 11.4.2018 hiervor.
+[^t-3]: Fassung gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Die Berichtigung vom 9. Juli 2025 betrifft nur den französischen und italienischen Text ([AS 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). Die Berichtigung vom 1. Sept. 2025 betrifft nur den französischen und italienischen Text ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Siehe auch die UeB Änd. 11.4.2018 hiervor.
 
 ### 1 Geltungsbereich
 
@@ -2455,7 +2419,7 @@ Folgende Feuerungen müssen nicht nach Artikel 13 Absatz 3 periodisch gemessen w
 
 - a. Feuerungen, die im Kalenderjahr weniger als 100 Stunden betrieben werden;
 - b. Feuerungen mit einer Feuerungswärmeleistung bis 12 kW, die ausschliesslich zur Heizung von Einzelräumen dienen;
-- [tab] c. und d. …
+- c. und d. …
 - e. Einzelraumfeuerungen für Kohle;
 - f. Einzelraumfeuerungen für feste Brennstoffe, sofern sie ausschliesslich mit Holzbrennstoffen nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 betrieben werden.
 
@@ -2624,7 +2588,7 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 <tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td colspan="2"><sup>2</sup></td><td colspan="3"><sup>2</sup></td><td>150</td></tr>
 <tr><td>– Gasförmige organische Stoffe, angegeben als Gesamtkohlenstoff</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>50</td></tr>
 <tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>3</sup></td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">30</td><td>30</td></tr>
-<tr><td colspan="10">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Bei ortsfest gesetzten Grundöfen nach der SN EN 15544 (Ortsfest gesetzte Kachelgrundöfen/Putzgrundöfen – Auslegung)[^annex3-lvlu1-lvl4-lvl42-lvl422-1] gelten ungeachtet ihrer Feuerungswärmeleistung die Emissionsbegrenzungen für Feststoffe und CO bis 70 kW. <sup>2</sup> Siehe Stickoxid-Grenzwert Anhang 1 Ziffer 6. <sup>3</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
+<tr><td colspan="10">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Bei ortsfest gesetzten Grundöfen nach der SN EN 15544 (Ortsfest gesetzte Kachelgrundöfen/Putzgrundöfen – Auslegung)[^annex3-lvlu1-lvl5-lvl52-lvl522-1] gelten ungeachtet ihrer Feuerungswärmeleistung die Emissionsbegrenzungen für Feststoffe und CO bis 70 kW. <sup>2</sup> Siehe Stickoxid-Grenzwert Anhang 1 Ziffer 6. <sup>3</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
 </table>
 
 <sup>2</sup> Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid und bezogen auf einen Sauerstoffgehalt im Abgas von 6 %, dürfen folgende Werte nicht überschreiten:
@@ -2641,7 +2605,7 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 
 <sup>5</sup> Vorbehalten bleiben die besonderen Anforderungen an Feuerungen nach Ziffer 523.
 
-[^annex3-lvlu1-lvl4-lvl42-lvl422-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
+[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 523 Besondere Anforderungen an Heizkessel
 
@@ -2658,12 +2622,12 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 
 ### 524 Messung und Kontrolle
 
-<sup>1</sup> Serienmässig hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn mittels einer Konformitätserklärung nach Artikel 7 der Energieeffizienzverordnung vom 1. November 2017[^annex3-lvlu1-lvl4-lvl42-lvl524-1] (EnEV) bestätigt wird, dass die Anlage den in Anhang 1.19 EnEV festgelegten Anforderungen entspricht.
+<sup>1</sup> Serienmässig hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn mittels einer Konformitätserklärung nach Artikel 7 der Energieeffizienzverordnung vom 1. November 2017[^annex3-lvlu1-lvl5-lvl52-lvl524-1] (EnEV) bestätigt wird, dass die Anlage den in Anhang 1.19 EnEV festgelegten Anforderungen entspricht.
 
 <sup>2</sup> Handwerklich hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn:
 
 - a. sie nach einem anerkannten Berechnungsverfahren, insbesondere dem Kachelofenberechnungsprogramm des Verbandes feusuisse, gebaut wurden; oder
-- b. sie mit einem Staubabscheidesystem ausgerüstet sind, welches dem Stand der Technik, namentlich den Anforderungen der technischen Regel VDI 3670[^annex3-lvlu1-lvl4-lvl42-lvl524-2] (Abgasreinigung – Nachgeschaltete Staubminderungseinrichtungen für Kleinfeuerungsanlagen für feste Brennstoffe) entspricht.
+- b. sie mit einem Staubabscheidesystem ausgerüstet sind, welches dem Stand der Technik, namentlich den Anforderungen der technischen Regel VDI 3670[^annex3-lvlu1-lvl5-lvl52-lvl524-2] (Abgasreinigung – Nachgeschaltete Staubminderungseinrichtungen für Kleinfeuerungsanlagen für feste Brennstoffe) entspricht.
 
 <sup>3</sup> Schützenswerte historische Zimmeröfen bis zu einem Volumen von 0,4 m<sup>3</sup> und handwerklich hergestellte Kochherde sind ebenfalls von der Abnahmemessung ausgenommen, wenn sie nach den anerkannten Regeln der Feuerungstechnik gebaut wurden oder mit einem Staubabscheidesystem nach Absatz 2 Buchstabe b ausgerüstet sind.
 
@@ -2673,8 +2637,8 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 
 <sup>6</sup> Bei Einzelraumfeuerungen, die nach Ziffer 22 Buchstabe f nicht periodisch gemessen werden, kontrolliert die Behörde insbesondere Verbrennungsrückstände und den Zustand der Anlage. Sie informiert dabei erstmalig auch über die sachgerechte Bedienung der Anlage sowie über die Verwendung und Lagerung von Brennstoffen.
 
-[^annex3-lvlu1-lvl4-lvl42-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
-[^annex3-lvlu1-lvl4-lvl42-lvl524-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
+[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
+[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### 525 Anforderungen an Staubabscheidesysteme
 
@@ -2755,23 +2719,19 @@ Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, s
 
 <sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
 
-G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image4.png)</sub>
+G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image4.png)</sub>
 
 Dabei bedeuten:
 
-G<sub>m</sub> = Mischgrenzwert, bezogen auf einen Sauerstoffgehalt B<sub>1</sub>
-
-G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = Emissionsgrenzwert für die verschiedenen Brennstoffe[^annex3-lvlu1-lvl7-lvl82-1]
-
-E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = Energie, die pro Stunde durch die einzelnen Brennstoffe zugeführt wird
-
-E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + …. E<sub>n</sub>
-
-B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = Bezugsgrösse (Sauerstoffgehalt, auf den sich der Emissions-grenzwert für den ersten, den zweiten und die weiteren Brennstoffe bezieht)
+- G<sub>m</sub> = Mischgrenzwert, bezogen auf einen Sauerstoffgehalt B<sub>1</sub>
+- G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = Emissionsgrenzwert für die verschiedenen Brennstoffe[^annex3-lvlu1-lvl8-lvl82-1]
+- E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = Energie, die pro Stunde durch die einzelnen Brennstoffe zugeführt wird
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + …. E<sub>n</sub>
+- B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = Bezugsgrösse (Sauerstoffgehalt, auf den sich der Emissions-grenzwert für den ersten, den zweiten und die weiteren Brennstoffe bezieht)
 
 <sup>3</sup> Bei der Berechnung des massgebenden Schwefelemissionsgrades ist sinngemäss nach Absatz 2 vorzugehen.
 
-[^annex3-lvlu1-lvl7-lvl82-1]: *Hinweis*: Als Emissionsgrenzwerte für Schwefeldioxide sind einzusetzen: a. für Heizöl «Extra leicht»: G = 330 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol); b. für Gas: G = 38 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol).
+[^annex3-lvlu1-lvl8-lvl82-1]: *Hinweis*: Als Emissionsgrenzwerte für Schwefeldioxide sind einzusetzen: a. für Heizöl «Extra leicht»: G = 330 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol); b. für Gas: G = 38 mg/m<sup>3</sup>, bezogen auf einen Sauerstoffgehalt im Abgas von 3 Prozent (% vol).
 
 Anhang 4[^t-4]
 
@@ -3199,15 +3159,15 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image5.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image6.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/de/xml/image/image7.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image7.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 

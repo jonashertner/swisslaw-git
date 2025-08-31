@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2025-07-09
+version: 2025-09-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250709-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250709/fr"
 
 (OPair)
 
-du 16 décembre 1985 (État le 9 juillet 2025)
+du 16 décembre 1985 (État le 1<sup>er</sup> septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1287,7 +1287,7 @@ Annexe 2[^t-2]
 
 ## Limitation complémentaire et dérogatoire des émissions pour certaines installations spéciales
 
-[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), l’erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), le ch. I des O du 16 nov. 2022 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) et du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)ch. III). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci-devant.
+[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), l’erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), le ch. I des O du 16 nov. 2022 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) , du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)ch. III) et de l’erratum du 1<sup>er</sup> sept. 2025 ([RO 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci-devant.
 
 ### Table des matières
 
@@ -1794,7 +1794,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -2147,14 +2147,14 @@ Pour apprécier si les valeurs limites d’émission sont respectées, on calcul
 Les émissions ne dépasseront pas les valeurs limites suivantes:
 
 <table>
-<tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="3">Puissance calorifique</th></tr>
-<tr><th colspan="4"></th><th></th><th>jusqu’à 1 MW</th><th>de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
-<tr><td>– Grandeur de référence:</td><td colspan="4"></td><td></td><td></td><td></td></tr>
-<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td colspan="4">%vol</td><td>13</td><td>11</td><td>11</td></tr>
-<tr><td>– Particules solides au total:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
-<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)<sup>1</sup></td><td colspan="4">mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
-<tr><td colspan="8"><sup>1</sup> Pour un débit massique de 2500 g/h ou plus</td></tr>
+<tr><th colspan="2"></th><th colspan="3">Puissance calorifique</th></tr>
+<tr><th colspan="2"></th><th>jusqu’à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
+<tr><td>– Grandeur de référence:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>%vol</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– Particules solides au total:</td><td>mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
+<tr><td colspan="5"><sup>1</sup> Pour un débit massique de 2500 g/h ou plus</td></tr>
 </table>
 
 ### 743 Interdiction d’incinérer dans de petites installations
@@ -2309,7 +2309,8 @@ Les émissions sous forme de poussières ne doivent pas dépasser les valeurs su
 
 - a. séchoirs à copeaux: 120 mg/m<sup>3</sup>
 - b. presses: 70 mg/m<sup>3</sup>
-- [tab] <sup>3</sup> S’agissant des séchoirs à fibres, les émissions de substances organiques sous forme de gaz ou de vapeur, exprimées en carbone total, doivent être limitées dans la mesure où le permettent la technique et l’exploitation, et où cela est économiquement supportable; elles ne dépasseront en aucun cas 100 mg/m<sup>3</sup>.
+
+<sup>3</sup> S’agissant des séchoirs à fibres, les émissions de substances organiques sous forme de gaz ou de vapeur, exprimées en carbone total, doivent être limitées dans la mesure où le permettent la technique et l’exploitation, et où cela est économiquement supportable; elles ne dépasseront en aucun cas 100 mg/m<sup>3</sup>.
 
 ### 846 Formaldéhyde
 
@@ -2380,7 +2381,7 @@ Annexe 3[^t-3]
 
 ## Limitation complémentaire et dérogatoire des émissions pour les installations de combustion
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Mise à jour par le ch. II des O du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) et l’erratum du 9 juil. 2025 ([RO 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)). Voir aussi les disp. trans. de la mod. du 11 avr. 2018 ci-devant.
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Mise à jour par le ch. II des O du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)), le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) et les errata du 9 juil. 2025 ([RO 2025 448](https://fedlex.data.admin.ch/eli/oc/2025/448)) et du 1<sup>er</sup> sept. 2025 ([RO 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Voir aussi les disp. trans. de la mod. du 11 avr. 2018 ci-devant.
 
 ### 1 Champ d’application
 
@@ -2405,7 +2406,7 @@ En dérogation à l’art. 13, al. 3, les installations de combustion suivantes 
 
 - a. les installations de combustion fonctionnant moins de 100 heures pendant une année civile;
 - b. les installations de combustion dont la puissance calorifique ne dépasse pas 12 kW et qui servent uniquement à chauffer des locaux individuels;
-- [tab] c. et d …
+- c. et d. …
 - e. les chauffages de locaux individuels alimentés au charbon;
 - f. les chauffages de locaux individuels alimentés aux combustibles solides, pour autant qu’ils soient alimentés exclusivement au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1.
 
@@ -2481,18 +2482,18 @@ L’huile de chauffage «extra-légère Euro» ne doit pas être utilisée pour 
 <sup>1</sup> Les émissions des installations de combustion alimentées à l’huile de chauffage «moyenne» ou «lourde» ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><th></th><th></th><th colspan="7">Puissance calorifique</th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>de 5 MW à 50 MW</th><th colspan="4">de 50 MW à 100 MW</th><th>de 100 MW à 300 MW</th><th colspan="4">plus de 300 MW</th></tr>
-<tr><td colspan="4">Huiles de chauffage «moyenne» et «lourde»</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>– Grandeur de référence:</td><td></td><td></td><td colspan="4"></td><td></td><td colspan="4"></td></tr>
-<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>3</td><td colspan="4">3</td><td>3</td><td colspan="4">3</td></tr>
-<tr><td>– Particules solides au total:</td><td></td><td></td><td colspan="4"></td><td></td><td colspan="4"></td></tr>
-<tr><td>pour les huiles de chauffage ayant une teneur en soufre de 1 % au plus (masse):</td><td>mg/m<sup>3</sup></td><td>80</td><td colspan="4">10</td><td>10</td><td colspan="4">10</td></tr>
-<tr><td>pour les autres huiles de chauffage</td><td>mg/m<sup>3</sup></td><td>50</td><td colspan="4">10</td><td>10</td><td colspan="4">10</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td colspan="4">170</td><td>170</td><td colspan="4">170</td></tr>
-<tr><td>– Oxydes de soufre (SO<sub>x</sub>), exprimés en anhydride sulfureux (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td colspan="4">350</td><td>200</td><td colspan="4">150</td></tr>
-<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td colspan="4">150</td><td>150</td><td colspan="4">100</td></tr>
-<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>mg/m<sup>3</sup></td><td>30</td><td colspan="4">30</td><td>30</td><td colspan="4">30</td></tr>
+<tr><th colspan="2"></th><th colspan="4">Puissance calorifique</th></tr>
+<tr><th colspan="2"></th><th>de 5 MW à 50 MW</th><th>plus de 50 MW à 100 MW</th><th>plus de 100 MW à 300 MW</th><th>plus de 300 MW</th></tr>
+<tr><td colspan="6">Huiles de chauffage «moyenne» et «lourde»</td></tr>
+<tr><td>– Grandeur de référence:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>– Particules solides au total:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>pour les huiles de chauffage ayant une teneur en soufre de 1 % au plus (masse):</td><td>mg/m<sup>3</sup></td><td>80</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>pour les autres huiles de chauffage</td><td>mg/m<sup>3</sup></td><td>50</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td>170</td><td>170</td><td>170</td></tr>
+<tr><td>– Oxydes de soufre (SO<sub>x</sub>), exprimés en anhydride sulfureux (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td>350</td><td>200</td><td>150</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td>150</td><td>150</td><td>100</td></tr>
+<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
 </table>
 
 <sup>2</sup> La valeur limite d’émission pour les oxydes de soufre, fixée à 1700 mg/m<sup>3</sup> , est réputée respectée lorsque la teneur en soufre de l’huile utilisée ne dépasse pas 1 % (% masse).
@@ -2703,7 +2704,7 @@ Si une même installation de combustion est alimentée alternativement avec diff
 
 <sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image4.png)</sub>
 
 Signification:
 
@@ -2895,7 +2896,8 @@ La teneur en soufre du charbon, des briquettes et du coke ne doit pas dépasser 
   - 1\. piquets de clôture, rames à haricots et autres objets en bois massif employés pour le jardinage ou l’agriculture,
   - 2\. palettes à usage unique en bois massif.
 
-- [tab] <sup>2</sup> Ne sont pas réputés bois de chauffage:
+<sup>2</sup> Ne sont pas réputés bois de chauffage:
+
 - a. le bois usagé issu de la démolition, de la transformation ou de la rénovation de bâtiments, les résidus de chantier, les vieux meubles, le bois usagé provenant d’emballages, y compris les palettes et les mélanges de bois usagé et de bois de chauffage au sens de l’al. 1, à l’exception des palettes qui satisfont aux exigences de l’al. 1, let. d, ch. 2;
 - b.
 
@@ -3011,8 +3013,9 @@ Annexe 6[^t-6]
 
 La présente annexe s’applique aux installations pour lesquelles la grandeur Q/S dépasse la valeur de 5, avec:
 
-- Q = débit massique du polluant atmosphérique émis, en grammes par heure;
-- S = paramètre selon le ch. 9.
+Q = débit massique du polluant atmosphérique émis, en grammes par heure;
+
+S = paramètre selon le ch. 9.
 
 ### 2 Mode de calcul
 
@@ -3049,9 +3052,11 @@ Le facteur de correction f tient compte des effets de longue durée dus à des v
 
 <sup>2</sup> On attribuera à f des valeurs comprises entre 1,0 et 1,5 selon les critères suivants:
 
-- f = 1,00 pour les endroits où il n’y a pas de direction prédominante des vents;
-- f = 1,25 pour les endroits présentant une situation intermédiaire;
-- f = 1,50 pour les vallées où les vents sont canalisés.
+f = 1,00 pour les endroits où il n’y a pas de direction prédominante des vents;
+
+f = 1,25 pour les endroits présentant une situation intermédiaire;
+
+f = 1,50 pour les vallées où les vents sont canalisés.
 
 <sup>3</sup> Selon l’emplacement de l’installation, pour le facteur de correction f on peut également prendre des valeurs intermédiaires.
 
@@ -3063,8 +3068,9 @@ I<sub>1</sub> = g × I
 
 avec:
 
-- I = hauteur des obstacles déterminants les plus élevés, situés dans la zone affectée par l’installation. I prendra des valeurs se situant entre 0 (pas d’obstacles) et 30 mètres (p. ex. une forêt)
-- g = facteur de correction dont les valeurs se situent entre 0 et 1, selon le diagramme 2.
+I = hauteur des obstacles déterminants les plus élevés, situés dans la zone affectée par l’installation. I prendra des valeurs se situant entre 0 (pas d’obstacles) et 30 mètres (p. ex. une forêt)
+
+g = facteur de correction dont les valeurs se situent entre 0 et 1, selon le diagramme 2.
 
 ### 6 Hauteur de construction des cheminées
 
@@ -3082,19 +3088,31 @@ Si les circonstances le justifient, l’autorité exigera des cheminées plus é
 
 ### 8 Symboles
 
-- H (m) = hauteur de construction de la cheminée
-- H<sub>0</sub> (m) = paramètre pour le détermination de la hauteur H<sub>1</sub>
-- H<sub>1</sub> (m) = hauteur minimale de la cheminée en terrain plat sans obstacles
-- I (m) = hauteur des obstacles déterminants les plus élevés
-- I<sub>1</sub> (m) = surhaussement pour les zones de construction et de végétation
-- f (–) = facteur de correction pour les effets de longue durée dus aux vents canalisés
-- g (–) = facteur de correction pour les zones de construction et de végétation
-- Q (g/h) = débit massique du polluant atmosphérique émis; les émissions d’oxydes d’azote (monoxyde et dioxyde) sont exprimées en dioxyde d’azote
-- R<sub>n</sub> (m<sup>3</sup>/h) = débit volumique des effluents gazeux dans les conditions standard (0°C, 1013 mbar)
-- t (°C) = température des effluents gazeux à la sortie de la cheminée
-- Δt (°C) = t – 10°C
-- F (m<sup>4</sup>/s<sup>3</sup>) = flux ascensionnel; F = 3,18 × 10<sup>-6</sup> x R<sub>n</sub> × Δt
-- S (µg/m<sup>3</sup>) = valeur S (voir ch. 3 et 9)
+H (m) = hauteur de construction de la cheminée
+
+H<sub>0</sub> (m) = paramètre pour le détermination de la hauteur H<sub>1</sub>
+
+H<sub>1</sub> (m) = hauteur minimale de la cheminée en terrain plat sans obstacles
+
+I (m) = hauteur des obstacles déterminants les plus élevés
+
+I<sub>1</sub> (m) = surhaussement pour les zones de construction et de végétation
+
+f (–) = facteur de correction pour les effets de longue durée dus aux vents canalisés
+
+g (–) = facteur de correction pour les zones de construction et de végétation
+
+Q (g/h) = débit massique du polluant atmosphérique émis; les émissions d’oxydes d’azote (monoxyde et dioxyde) sont exprimées en dioxyde d’azote
+
+R<sub>n</sub> (m<sup>3</sup>/h) = débit volumique des effluents gazeux dans les conditions standard (0°C, 1013 mbar)
+
+t (°C) = température des effluents gazeux à la sortie de la cheminée
+
+Δt (°C) = t – 10°C
+
+F (m<sup>4</sup>/s<sup>3</sup>) = flux ascensionnel; F = 3,18 × 10<sup>-6</sup> x R<sub>n</sub> × Δt
+
+S (µg/m<sup>3</sup>) = valeur S (voir ch. 3 et 9)
 
 ### 9 Valeur S
 
@@ -3127,13 +3145,13 @@ Si les circonstances le justifient, l’autorité exigera des cheminées plus é
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image5.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250709/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image6.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 
