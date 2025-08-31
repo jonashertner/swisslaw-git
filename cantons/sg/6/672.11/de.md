@@ -3,20 +3,19 @@ canton: SG
 number: "672.11"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung
 language: de
-version: 2024-10-01
-valid_until: 2025-08-31
-version_adopted: 2024-08-27
+version: 2025-09-01
+version_adopted: 2025-08-12
 adopted: 2011-12-13
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/672.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3683/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3791/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung
 
-vom 13.12.2011 (Stand 01.10.2024)
+vom 13.12.2011 (Stand 01.09.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -290,6 +289,14 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Der Betreiber legt im Betriebsreglement dar, wie er mit betrieblichen und organisatorischen Massnahmen die umweltverträgliche Behandlung nach dem Stand der Technik sicherstellt.
 
 <sup>3</sup> Das Amt für Umwelt stellt ein Musterbetriebsreglement zur Verfügung.
+
+#### Art. 26a
+
+**Bewilligung für die Ausfuhr von unverschmutztem Aushub- und Ausbruchmaterial**
+
+<sup>1</sup> Das Amt für Umwelt erteilt die Bewilligung für die Ausfuhr von unverschmutztem Aushub- und Ausbruchmaterial aus dem Kanton St.Gallen ins grenznahe Ausland. [Art. 15](https://db.clex.ch/link/Bund/814.610/de)–[21](https://db.clex.ch/link/Bund/814.610/de) der eidgenössischen Verordnung über den Verkehr mit Abfällen vom 22. Juni 2005[^26a-1] werden sachgemäss angewendet.
+
+[^26a-1]: SR [814.610](https://db.clex.ch/link/Bund/814.610/de).
 
 ## VI. Schlussbestimmungen
 
