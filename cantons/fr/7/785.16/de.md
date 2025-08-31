@@ -3,13 +3,12 @@ canton: FR
 number: "785.16"
 title: Beschluss über die Schifffahrtsgebühren
 language: de
-version: 2003-01-01
-valid_until: 2025-08-31
-version_adopted: 2002-11-14
+version: 2025-09-01
+version_adopted: 2025-06-23
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/785.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7432/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8202/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7432/pdf_file"
 
 Schifffahrtsgebühren – B
 
-vom 12.07.1991 (Fassung in Kraft getreten am 01.01.2003)
+vom 12.07.1991 (Fassung in Kraft getreten am 01.09.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -139,6 +138,12 @@ beschliesst:
 - c) für Fotokopien, je Seite: — Fr. 1
 - d) für verschiedene Bescheinigungen, je Bescheinigung: — Fr. 15
 - e) für ein Jahrespauschalabonnement für Auskünfte an Versicherungsgesellschaften und Betriebe des Berufszweiges, je nach Arbeitsaufwand: — Fr. 50–1000
+
+#### Art. 7a
+
+**Inkasso**
+
+<sup>1</sup> Die Gebühren können im Voraus, bar oder per Nachnahme erhoben werden, insbesondere wenn das Konto der Person Zahlungsrückstände aufweist oder wenn sie ihren Wohnsitz ausserhalb des Kantons Freiburg hat.
 
 #### Art. 8
 

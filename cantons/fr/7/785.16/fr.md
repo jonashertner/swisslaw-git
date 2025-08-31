@@ -3,13 +3,12 @@ canton: FR
 number: "785.16"
 title: Arrêté fixant les émoluments en matière de navigation
 language: fr
-version: 2003-01-01
-valid_until: 2025-08-31
-version_adopted: 2002-11-14
+version: 2025-09-01
+version_adopted: 2025-06-23
 adopted: 1991-07-12
 in_force: 1991-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/785.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7432/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8202/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7432/pdf_file"
 
 Navigation, émoluments – A
 
-du 12.07.1991 (version entrée en vigueur le 01.01.2003)
+du 12.07.1991 (version entrée en vigueur le 01.09.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -139,6 +138,12 @@ Arrête:
 - c) pour les photocopies, par page: — Fr. 1
 - d) pour les attestations diverses, par pièce: — Fr. 15
 - e) pour un abonnement forfaitaire annuel pour la fourniture de renseignements aux compagnies d'assurances et aux professionnels de la branche, selon l'importance du travail: — Fr. 50 à 1000
+
+#### Art. 7a
+
+**Encaissement**
+
+<sup>1</sup> Les émoluments peuvent être perçus d'avance, comptant ou contre-remboursement, notamment lorsque le compte de la personne présente des arriérés ou que la personne a son domicile hors du canton de Fribourg.
 
 #### Art. 8
 
