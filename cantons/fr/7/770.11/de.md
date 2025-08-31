@@ -4,13 +4,12 @@ number: "770.11"
 title: Energiereglement
 short: EnR
 language: de
-version: 2025-01-01
-valid_until: 2025-08-31
-version_adopted: 2024-12-16
+version: 2025-09-01
+version_adopted: 2025-09-01
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8115/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8249/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Energie – R
 
 (EnR)
 
-vom 05.11.2019 (Fassung in Kraft getreten am 01.01.2025)
+vom 05.11.2019 (Fassung in Kraft getreten am 01.09.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -903,8 +902,8 @@ beschliesst:
 
 <sup>2</sup> Die Finanzhilfe wird nach den folgenden Grundsätzen festgelegt:
 
-- a) für eine EBF von höchstens 250 m2: 15'000 Franken pro Anlage;
-- b) für eine EBF ab 250 m2: 60 Franken pro m2 EBF.
+- a) für eine EBF von höchstens 250 m²: 15'000 Franken pro Anlage;
+- b) für eine EBF ab 250 m²: 60 Franken pro m² EBF.
 
 <sup>3</sup> Die Zusicherung bleibt drei Jahre ab dem Datum des Entscheids gültig.
 
@@ -924,7 +923,7 @@ beschliesst:
 
 <sup>3</sup> Über die Zusicherung von Finanzhilfen entscheidet das Amt unter Berücksichtigung der im Staatshaushalt zur Verfügung stehenden Mittel.
 
-<sup>4</sup> Nach Ablauf der Gültigkeitsdauer der Zusicherung wird der Entscheid ungültig, wenn sich die begünstigte Person nicht meldet und keinen Nachweis erbringt, dass die Arbeiten mindestens kurz vor dem Abschluss stehen.
+<sup>4</sup> Nach Ablauf der Gültigkeitsdauer der Zusicherung wird der Entscheid ungültig. Eine einmalige Verlängerung dieser Frist um höchstens sechs Monate kann auf Antrag der Empfängerin oder des Empfängers gewährt werden, wenn sie oder er vor Ablauf der ursprünglichen Frist den Nachweis erbringt, dass die Arbeiten zumindest kurz vor dem Abschluss stehen.
 
 <sup>5</sup> Finanzhilfen werden erst ausbezahlt, wenn das Amt die detaillierte Abrechnung erhalten und kontrolliert hat; bei Holzheizungen muss zusätzlich die Bestätigung des Amtes für Umwelt über die Einhaltung der Luftreinhalte-Verordnung des Bundes (LRV) mitgeliefert werden. Die Zahlungen werden im Rahmen der im Staatshaushalt zur Verfügung stehenden Mittel ausgeführt.
 

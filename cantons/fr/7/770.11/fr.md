@@ -4,13 +4,12 @@ number: "770.11"
 title: "Règlement sur l'énergie"
 short: REn
 language: fr
-version: 2025-01-01
-valid_until: 2025-08-31
-version_adopted: 2024-12-16
+version: 2025-09-01
+version_adopted: 2025-09-01
 adopted: 2019-11-05
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8115/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8249/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Energie – R
 
 (REn)
 
-du 05.11.2019 (version entrée en vigueur le 01.01.2025)
+du 05.11.2019 (version entrée en vigueur le 01.09.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -924,7 +923,7 @@ Arrête:
 
 <sup>3</sup> La promesse de l'octroi d'une aide financière fait l'objet d'une décision du Service tenant compte des disponibilités budgétaires de l'Etat.
 
-<sup>4</sup> Passé le délai de validité de la promesse, sans nouvelle de la part de la personne bénéficiaire et en l'absence de preuve que les travaux sont au moins en passe d'être achevés, la décision devient caduque.
+<sup>4</sup> Passé le délai de validité de la promesse, la décision devient caduque. Toutefois, une prolongation unique de ce délai, d'au maximum six mois, peut être accordée sur demande du bénéficiaire, à condition qu'il fournisse la preuve, avant l'expiration du délai initial, que les travaux sont au moins en passe d'être achevés.
 
 <sup>5</sup> Les aides financières ne sont versées qu'après réception et contrôle, par le Service, du décompte détaillé et, pour les installations de chauffage au bois, de l'attestation de conformité à l'ordonnance fédérale sur la protection de l'air (OPair), établie par le Service de l'environnement. Les versements se font dans les limites des disponibilités budgétaires de l'Etat.
 
