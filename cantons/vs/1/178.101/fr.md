@@ -4,13 +4,13 @@ number: "178.101"
 title: Règlement concernant la loi sur le notariat
 short: RLN
 language: fr
-version: 2024-01-01
-valid_until: 2025-08-31
-version_adopted: 2023-12-06
+version: 2025-09-01
+valid_until: 2025-12-31
+version_adopted: 2025-08-27
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/fr/versions/3252/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3509/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3252/pdf_file"
 
 (RLN)
 
-du 07.09.2005 (état 01.01.2024)
+du 07.09.2005 (état 01.09.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -325,7 +325,7 @@ arrête:
 
 **Assurance responsabilité civile**
 
-<sup>1</sup> Le notaire requérant l'autorisation de pratiquer le notariat doit conclure une assurance civile professionnelle dont le montant de couverture minimum est de deux millions de francs, garantissant la réparation des dommages susceptibles d'être causés dans l'exercice de ses fonctions.
+<sup>1</sup> Le notaire requérant l'autorisation de pratiquer le notariat doit conclure une assurance civile professionnelle dont le montant de couverture minimum est de 2 millions de francs, garantissant la réparation des dommages susceptibles d'être causés dans l'exercice de ses fonctions. L’assurance s'étend également aux prétentions relatives à des dommages causés pendant la durée contractuelle mais qui ne sont émises qu'après l'expiration de l’assurance et pendant le délai légal de prescription (assurance du risque subséquent).
 
 <sup>2</sup> Le contrat doit en outre stipuler que l'assureur annoncera au Département la suspension ou la cessation de l'assurance au plus tard à l'expiration du délai de sommation selon l'article 20 de la loi fédérale sur le contrat d'assurance. Lorsque l'assureur prend lui-même l'initiative de la suspension ou de la cessation du contrat, il doit attirer l'attention du preneur d'assurance sur les conséquences de l'avis qu'il s'apprête à envoyer au Département.
 
@@ -612,5 +612,11 @@ Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaratio
 #### Art. T3-1
 
 <sup>1</sup> Les faits qui se sont produits avant l’entrée en vigueur de la modification du montant des sûretés mentionnées à l’article 27 alinéa 1 du règlement sont régis par l’ancien droit.
+
+## T4 Disposition transitoire de la modification du 27 août 2025
+
+#### Art. T4-1
+
+<sup>1</sup> Les notaires déjà autorisés à exercer en Valais lors de l’entrée en vigueur de la présente modification et dont l'assurance responsabilité civile professionnelle ne satisfait pas à la condition de la couverture du risque subséquent énoncée à l'article 26 alinéa 1 sont tenus de s'y conformer d'ici au 31 décembre 2028.
 
 RCV BO/Abl. 46/2005

@@ -4,13 +4,13 @@ number: "178.101"
 title: Reglement betreffend das Notariatsgesetz
 short: RNG
 language: de
-version: 2024-01-01
-valid_until: 2025-08-31
-version_adopted: 2023-12-06
+version: 2025-09-01
+valid_until: 2025-12-31
+version_adopted: 2025-08-27
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/de/versions/3252/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3509/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3252/pdf_file"
 
 (RNG)
 
-vom 07.09.2005 (Stand 01.01.2024)
+vom 07.09.2005 (Stand 01.09.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -325,7 +325,7 @@ beschliesst:
 
 **Berufshaftpflichtversicherung**
 
-<sup>1</sup> Der Notar, der die Berufsausübungsbewilligung beantragt, muss eine Berufshaftpflichtversicherung abschliessen deren minimaler Deckungsbetrag zwei Millionen Franken beträgt und Schäden ersetzt, die der Notar in Ausübung seines Berufes verursacht.
+<sup>1</sup> Der Notar, der die Berufsausübungsbewilligung beantragt, muss eine Berufshaftpflichtversicherung abschliessen deren minimaler Deckungsbetrag 2 Millionen Franken beträgt und Schäden ersetzt, die der Notar in Ausübung seines Berufes verursacht. Der Versicherungsschutz erstreckt sich auch auf Ansprüche aus Schäden, die während der Vertragsdauer verursacht wurden, aber erst nach Erlöschen der Versicherung und innerhalb der gesetzlichen Verjährungsfrist erhoben werden (Nachrisikoversicherung).
 
 <sup>2</sup> Im Vertrag muss im Übrigen festgelegt sein, dass der Versicherer dem Departement die Unterbrechung oder die Aufhebung der Versicherung spätestens beim Ablauf der Mahnfrist gemäss Artikel 20 des Bundesgesetzes über den Versicherungsvertrag mitteilt. Wenn der Versicherer von sich aus den Vertrag unterbricht oder aufhebt, muss er den Versicherungsnehmer auf die Folgen aufmerksam machen, die sich aus der Mitteilung an das Departement ergeben.
 
@@ -612,5 +612,11 @@ Der Notar sagt dem Erklärenden: "Schwören Sie (Versprechen Sie), dass die von 
 #### Art. T3-1
 
 <sup>1</sup> Für Sachverhalte, die sich vor Inkrafttreten der Änderung der Höhe der in Artikel 27 Absatz 1 des Reglements genannten Sicherheiten ereignet haben, gilt das alte Recht.
+
+## T4 Übergangsbestimmung der Änderung vom 27. August 2025
+
+#### Art. T4-1
+
+<sup>1</sup> Der Notar, der bei Inkrafttreten der Änderung bereits über eine Berufsausübungsbewilligung im Wallis verfügt und dessen Berufshaftpflichtversicherung der Bedingung der Nachrisikoversicherung gemäss Artikel 26 Absatz 1 nicht entspricht, hat dies bis zum 31. Dezember 2028 nachzuholen.
 
 CSW BO/Abl. 46/2005
