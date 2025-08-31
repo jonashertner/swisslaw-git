@@ -4,11 +4,11 @@ title: "Regolamento del 31 agosto 2010 sull'organizzazione del Tribunale penale 
 short: ROTPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: it
-version: 2024-09-01
+version: 2025-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2010-825-20240901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2010-825-20250901-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20250901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/it"
 
 (Regolamento sull’organizzazione del TPF, ROTPF)
 
-del 31 agosto 2010 (Stato 1° settembre 2024)
+del 31 agosto 2010 (Stato 1° settembre 2025)
 
 Il Tribunale penale federale (TPF),
 
@@ -25,7 +25,7 @@ visti gli articoli 51 e 53 capoverso 2 lettera a della legge federale del 19 mar
 
 decreta:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ## Titolo 1: Organizzazione
 
@@ -55,7 +55,7 @@ La Corte plenaria è inoltre competente per:
 
 <sup>3</sup> Ogni membro del Tribunale può chiedere alla presidenza, informandola dell’oggetto della seduta, la convocazione della Corte plenaria.
 
-[^2-1]: Abrogata dal n. I dell’O del TPF del 3 giu. 2019, con effetto dal 1° lug. 2019 ([RU 2019 1807](https://fedlex.data.admin.ch/eli/oc/2019/335)).
+[^2-1]: Abrogata dalla cifra I dell’O del TPF del 3 giu. 2019, con effetto dal 1° lug. 2019 ([RU 2019 1807](https://fedlex.data.admin.ch/eli/oc/2019/335)).
 
 #### Art. 3
 
@@ -63,13 +63,14 @@ La Corte plenaria è inoltre competente per:
 
 <sup>1</sup> La Corte plenaria delibera, prende le decisioni e procede alle nomine conformemente agli articoli 53 capoversi 3 e 4 nonché 57 LOAP mediante voto palese.
 
-<sup>2</sup> Le nomine effettuate alle sedute della Corte plenaria avvengono per scrutinio segreto, se richiesto dalla maggioranza della Corte plenaria.
+<sup>2</sup> Le nomine effettuate alle sedute della Corte plenaria avvengono per scrutinio segreto, se richiesto da un membro della Corte plenaria.[^3-2]
 
 <sup>3</sup> A complemento dell’articolo 53 capoverso 3 LOAP, la decisione per circolazione degli atti è esclusa in caso di nomine e se un membro della Corte plenaria o il segretario generale chiede che una questione venga discussa oralmente.
 
 <sup>4</sup> Il segretario generale partecipa alle sedute della Corte plenaria con voto consultivo e tiene il verbale; con l’accordo della presidenza, un’altra persona può essere incaricata di tenere il verbale.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
 
 #### Art. 3a
 
@@ -85,8 +86,8 @@ La Corte plenaria è inoltre competente per:
 
 <sup>5</sup> Per la costituzione delle corti, ogni membro può sottoporre alla Corte plenaria, fino a cinque giorni prima della seduta di nomina, una proposta completa alternativa.
 
-[^3a-1]: Introdotto dal n. I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
-[^3a-2]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^3a-1]: Introdotto dalla cifra I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^3a-2]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 
 #### Art. 3b
 
@@ -98,7 +99,7 @@ La Corte plenaria è inoltre competente per:
 
 <sup>3</sup> In caso di proposte alternative relative alla costituzione delle corti viene dapprima scelta quella che riscuote il maggior consenso. Quest’ultima viene in seguito posta in votazione assieme alla proposta della Commissione amministrativa.
 
-[^3b-1]: Introdotto dal n. I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^3b-1]: Introdotto dalla cifra I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
 
 ### Sezione 2: Commissione amministrativa
 
@@ -114,8 +115,8 @@ La Corte plenaria è inoltre competente per:
 
 <sup>4</sup> Il segretario generale partecipa alle sedute della Commissione amministrativa con voto consultivo (art. 54 cpv. 2 LOAP).
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 (RU **20****24** 384).
-[^4-2]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 #### Art. 5
 
@@ -139,8 +140,8 @@ Alla Commissione amministrativa competono inoltre:
 
 <sup>4</sup> Ogni membro della Commissione amministrativa oppure il segretario generale può chiedere alla presidenza, informandola dell’oggetto della seduta, la convocazione della Commissione amministrativa.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
 
 #### Art. 6
 
@@ -204,8 +205,8 @@ Il segretario generale è in particolare competente per:
 
 <sup>3</sup> La Commissione amministrativa può delegare alcuni settori d’attività al segretario generale supplente per disbrigo autonomo.
 
-[^10-1]: Introdotta dal n. I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
-[^10-2]: Introdotto dal n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^10-1]: Introdotta dalla cifra I dell’O del TPF del 21 apr. 2015, in vigore dal 30 apr. 2015 ([RU 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^10-2]: Introdotto dalla cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 
 #### Art. 11
 
@@ -231,7 +232,7 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 - b. una o più corti dei reclami penali;
 - c.[^12-1] una Corte d’appello.
 
-[^12-1]: Introdotta dal n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^12-1]: Introdotta dalla cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 
 #### Art. 13
 
@@ -249,8 +250,8 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>6</sup> Sono fatti salvi i motivi di ricusazione di cui all’articolo 56 del Codice di procedura penale (CPP)[^13-2].
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^13-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^13-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^13-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 14
 
@@ -262,23 +263,25 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>3</sup> Le funzioni che i testi tedesco e francese del CPP[^14-2] attribuiscono rispettivamente alla/al «Präsidentin oder Präsident des betreffenden Gerichts» e al «président du tribunal», sono assunte dal presidente della corte interessata; quest’ultimo le può delegare al presidente del collegio giudicante.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^14-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^14-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^14-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 15
 
-**Collegi giudicanti e ripartizioni delle cause**
+**Collegi giudicanti e ripartizione delle cause[^15-1]**
 
-<sup>1</sup> I presidenti delle corti ripartiscono le cause e stabiliscono la composizione dei collegi giudicanti e i loro presidenti.
+<sup>1</sup> I presidenti delle corti ripartiscono le cause e stabiliscono la composizione dei collegi giudicanti e i loro presidenti, di massima al momento del loro ricevimento.[^15-2]
 
-<sup>2</sup> Per la ripartizione delle cause e la composizione dei collegi giudicanti i presidenti delle corti tengono conto segnatamente dei seguenti criteri: lingua della causa, grado d’occupazione dei giudici, mole di lavoro, conoscenze specifiche, collaborazione in precedenti decisioni concernenti il medesimo ambito specifico, connessione con altri casi nonché assenze.[^15-1]
+<sup>2</sup> Per la ripartizione delle cause e la composizione dei collegi giudicanti i presidenti delle corti tengono conto segnatamente dei seguenti criteri: lingua della causa, grado d’occupazione dei giudici, mole di lavoro, conoscenze specifiche, collaborazione in precedenti decisioni concernenti il medesimo ambito specifico, connessione con altri casi nonché assenze.[^15-3]
 
-<sup>3</sup> Il presidente della corte può delegare al giudice unico così come al presidente oppure al giudice relatore di un collegio giudicante composto da tre giudici, l’istruzione della procedura e le funzioni presidenziali.[^15-2]
+<sup>3</sup> Il presidente della corte può delegare al giudice unico così come al presidente oppure al giudice relatore di un collegio giudicante composto da tre giudici, l’istruzione della procedura e le funzioni presidenziali.[^15-4]
 
 <sup>4</sup> I presidenti delle corti sono competenti per la concessione dell’assistenza amministrativa o giudiziaria nei confronti di altre autorità relativamente alle procedure pendenti presso di loro.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-4]: Nuovo testo giusta la cifra I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
 #### Art. 15a
 
@@ -288,7 +291,17 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>2</sup> Nella scelta del sostituto i presidenti delle corti tengono conto dei criteri di cui all’articolo 15 capoverso 2.
 
-[^15a-1]: Introdotto dal n. I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15a-1]: Introdotto dalla cifra I dell’O del TPF del 9 mar. 2023, in vigore dal 1° giu. 2023 ([RU 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+
+#### Art. 15b
+
+**Comunicazione della composizione dei collegi giudicanti**[^15b-1]
+
+<sup>1</sup> I presidenti della Corte penale e della Corte d’appello comunicano la composizione del collegio giudicante alle parti d’ufficio.
+
+<sup>2</sup> Il presidente della Corte dei reclami penali comunica la composizione del collegio giudicante alle parti su richiesta.
+
+[^15b-1]: Introdotto dalla cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
 
 #### Art. 16
 
@@ -298,7 +311,7 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>2</sup> Adempiono altri compiti che i presidenti delle corti o la Commissione amministrativa, di regola d’intesa con il presidente della corte, affidano loro (art. 59 cpv. 3 LOAP).
 
-[^16-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 17
 
@@ -316,7 +329,7 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 [^tit1-chap2-sec2-1]
 
-[^tit1-chap2-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+[^tit1-chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 
 #### Art. 18
 
@@ -328,14 +341,14 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>3</sup> Una decisione che non è stata presa durante il dibattimento o che non deve essere preceduta da un dibattimento può essere presa mediante circolazione degli atti in caso d’unanimità e se nessun membro né il cancelliere del collegio giudicante chiede la seduta di discussione.
 
-[^18-1]: Abrogato dal n. I dell’O del TPF del 21 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+[^18-1]: Abrogato dalla cifra I dell’O del TPF del 21 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 
 ### Sezione 3: Compiti della Corte dei reclami penali
 
 [^tit1-chap2-sec3-1]
 
-[^tit1-chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^tit1-chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 
 #### Art. 19
 
@@ -347,16 +360,16 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>3</sup> La Corte dei reclami penali giudica nella composizione di tre giudici, nella misura in cui non è competente la direzione del procedimento. Essa può prendere decisioni mediante circolazione degli atti in caso d’unanimità e se nessun membro né il cancelliere del collegio giudicante chiede la seduta di discussione.[^19-4]
 
-[^19-1]: Abrogato dal n. I dell’O del TPF del 21 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
-[^19-3]: Abrogato dal n. I dell’O del 23 ago. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
-[^19-4]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
+[^19-1]: Abrogato dalla cifra I dell’O del TPF del 21 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+[^19-3]: Abrogato dalla cifra I dell’O del 23 ago. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
+[^19-4]: Nuovo testo giusta la cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ### Sezione 4: Compiti della Corte d’appello
 
 [^tit1-chap2-sec4-1]
 
-[^tit1-chap2-sec4-1]: Introdotta dal n. I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
+[^tit1-chap2-sec4-1]: Introdotta dalla cifra I dell’O del TPF del 21 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 
 #### Art. 19a
 
@@ -366,7 +379,7 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>3</sup> Una decisione presa non durante il dibattimento o in assenza di un dibattimento può essere adottata mediante circolazione degli atti in caso di unanimità e se nessun membro né il cancelliere del collegio giudicante chiede la seduta di discussione.
 
-[^19a-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
+[^19a-1]: Nuovo testo giusta la cifra I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ## Titolo 2: Funzionamento del Tribunale
 
@@ -396,11 +409,11 @@ I membri del Tribunale, i cancellieri e i rappresentanti delle parti partecipano
 
 <sup>4</sup> Per la riscossione degli emolumenti sono applicabili le disposizioni del regolamento del 31 marzo 2006[^22-5] sulle tasse amministrative del Tribunale federale. Se quest’ultima non contiene nessuna disposizione, gli emolumenti sono stabiliti secondo il tariffario allegato all’ordinanza del 24 maggio 2006 sulla trasparenza.
 
-[^22-1]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^22-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^22-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^22-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^22-1]: [RS 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^22-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^22-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-4]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^22-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
 
 #### Art. 23
 

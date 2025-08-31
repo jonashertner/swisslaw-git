@@ -4,11 +4,11 @@ title: "Organisationsreglement vom 31. August 2010 für das Bundesstrafgericht (
 short: BStGerOR
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: de
-version: 2024-09-01
+version: 2025-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2010-825-20240901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2010-825-20250901-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/de"
 
 (Organisationsreglement BStGer, BStGerOR)[^t-1]
 
-vom 31. August 2010 (Stand am 1. September 2024)
+vom 31. August 2010 (Stand am 1. September 2025)
 
 [^t-1]: [AS 2011 633](https://fedlex.data.admin.ch/eli/oc/2011/96)
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 51 und 53 Absatz 2 Buchstabe a des Bundesgesetzes vom 
 
 beschliesst:
 
-[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ## 1. Titel: Organisation
 
@@ -65,13 +65,14 @@ Das Gesamtgericht ist ausserdem zuständig für:
 
 <sup>1</sup> Das Gesamtgericht trifft seine Entscheide, Beschlüsse und Wahlen nach den Artikeln 53 Absätze 3 und 4 sowie 57 StBOG offen.
 
-<sup>2</sup> Wahlen werden an den Sitzungen des Gesamtgerichts geheim durchgeführt, wenn die Mehrheit des Gesamtgerichts dies verlangt.
+<sup>2</sup> Wahlen werden an den Sitzungen des Gesamtgerichts geheim durchgeführt, wenn ein Mitglied des Gesamtgerichts dies verlangt.[^3-2]
 
 <sup>3</sup> Die Beschlussfassung auf dem Zirkulationsweg ist in Ergänzung zu Artikel 53 Absatz 3 StBOG ausgeschlossen bei Wahlen und wenn ein Mitglied des Gesamtgerichts oder der Generalsekretär oder die Generalsekretärin die mündliche Beratung eines Geschäfts verlangt.
 
 <sup>4</sup> Der Generalsekretär oder die Generalsekretärin nimmt an den Sitzungen des Gesamtgerichts mit beratender Stimme teil und führt das Protokoll; mit Zustimmung des Präsidiums kann eine andere Person mit der Protokollführung beauftragt werden.
 
 [^3-1]: Fassung gemäss Ziff. I der V des BStGer vom 21. April 2015, in Kraft seit 30. April 2015 ([AS 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^3-2]: Fassung gemäss Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
 
 #### Art. 3a
 
@@ -116,7 +117,7 @@ Das Gesamtgericht ist ausserdem zuständig für:
 
 <sup>4</sup> Der Generalsekretär oder die Generalsekretärin nimmt an den Sitzungen der Verwaltungskommission mit beratender Stimme teil (Art. 54 Abs. 2 StBOG).
 
-[^4-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 (AS **20****24** 384).
+[^4-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 #### Art. 5
 
@@ -251,7 +252,7 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 <sup>6</sup> Die Ausstandsgründe gemäss Artikel 56 der Strafprozessordnung (StPO)[^13-2] bleiben vorbehalten.
 
 [^13-1]: Fassung gemäss Ziff. I der V des BStGer vom 21. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^13-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^13-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 14
 
@@ -264,22 +265,23 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 <sup>3</sup> Verwendet die StPO[^14-2] den Begriff «Präsidentin oder Präsident des betreffenden Gerichts», so obliegt die jeweilige Aufgabe dem Präsidenten oder der Präsidentin der betreffenden Kammer des Gerichts; er oder sie kann die Aufgabe an den Vorsitzenden oder die Vorsitzende des Spruchkörpers delegieren.
 
 [^14-1]: Fassung gemäss Ziff. I der V des BStGer vom 21. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^14-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^14-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 15
 
 **Spruchkörper und Geschäftsverteilung**
 
-<sup>1</sup> Die Kammerpräsidenten und -präsidentinnen verteilen die Geschäfte und bestimmen die Zusammensetzung des Spruchkörpers und dessen Vorsitz.
+<sup>1</sup> Die Kammerpräsidenten und -präsidentinnen verteilen die Geschäfte und bestimmen, in der Regel bei Eingang der Fälle, die Zusammensetzung des Spruchkörpers und dessen Vorsitz.[^15-1]
 
-<sup>2</sup> Bei der Zuteilung der Geschäfte und der Bildung der Spruchkörper berücksichtigen sie namentlich die folgenden Kriterien: Sprache des Geschäfts, Beschäftigungsgrad der Richter und Richterinnen, Belastung, fachliche Eignung, Mitwirkung an früheren Entscheiden im gleichen Sachgebiet, Bezug zu anderen Fällen und Abwesenheiten.[^15-1]
+<sup>2</sup> Bei der Zuteilung der Geschäfte und der Bildung der Spruchkörper berücksichtigen sie namentlich die folgenden Kriterien: Sprache des Geschäfts, Beschäftigungsgrad der Richter und Richterinnen, Belastung, fachliche Eignung, Mitwirkung an früheren Entscheiden im gleichen Sachgebiet, Bezug zu anderen Fällen und Abwesenheiten.[^15-2]
 
-<sup>3</sup> Der Kammerpräsident oder die Kammerpräsidentin kann einen Einzelrichter oder eine Einzelrichterin sowie einen Vorsitzenden oder eine Vorsitzende oder einen Instruktionsrichter oder eine Instruktionsrichterin eines aus drei Richtern oder Richterinnen bestehenden Spruchkörpers bestimmen und ihm oder ihr die Instruktion des Verfahrens und die Präsidialfunktionen übertragen.[^15-2]
+<sup>3</sup> Der Kammerpräsident oder die Kammerpräsidentin kann einen Einzelrichter oder eine Einzelrichterin sowie einen Vorsitzenden oder eine Vorsitzende oder einen Instruktionsrichter oder eine Instruktionsrichterin eines aus drei Richtern oder Richterinnen bestehenden Spruchkörpers bestimmen und ihm oder ihr die Instruktion des Verfahrens und die Präsidialfunktionen übertragen.[^15-3]
 
 <sup>4</sup> Die Kammerpräsidenten oder -präsidentinnen sind zuständig für die Gewährung von Amts- oder Rechtshilfe gegenüber anderen Behörden bezüglich der bei ihnen hängigen Verfahren.
 
-[^15-1]: Fassung gemäss Ziff. I der V des BStGer vom 9. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-1]: Fassung gemäss Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
 [^15-2]: Fassung gemäss Ziff. I der V des BStGer vom 9. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-3]: Fassung gemäss Ziff. I der V des BStGer vom 9. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
 #### Art. 15a
 
@@ -291,6 +293,16 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 
 [^15a-1]: Eingefügt durch Ziff. I der V des BStGer vom 9. März 2023, in Kraft seit 1. Juni 2023 ([AS 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
+#### Art. 15b
+
+**Mitteilung über die Zusammensetzung des Spruchkörpers**[^15b-1]
+
+<sup>1</sup> Die Präsidenten und Präsidentinnen der Strafkammer und der Berufungskammer teilen den Parteien von Amtes wegen die Zusammensetzung des Spruchkörpers mit.
+
+<sup>2</sup> Der Präsident oder die Präsidentin der Beschwerdekammer teilt den Parteien auf Anfrage die Zusammensetzung des Spruchkörpers mit.
+
+[^15b-1]: Eingefügt durch Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
+
 #### Art. 16
 
 **Gerichtsschreiber und Gerichtsschreiberinnen**
@@ -299,7 +311,7 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 
 <sup>2</sup> Sie erfüllen weitere Aufgaben, die ihnen die Kammerpräsidenten und ‑präsidentinnen oder, im Regelfall nach Rücksprache mit diesen, die Verwaltungskommission übertragen (Art. 59 Abs. 3 StBOG).
 
-[^16-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 17
 
@@ -397,11 +409,11 @@ Zu den öffentlichen Sitzungen des Gerichts erscheinen die Gerichtsmitglieder, d
 
 <sup>4</sup> Für die Gebührenerhebung gilt das Reglement vom 31. März 2006[^22-5] über die Verwaltungsgebühren des Bundesgerichts. Soweit dieses keine Bestimmung enthält, richten sich die Gebühren nach dem Tarif im Anhang zur Öffentlichkeitsverordnung vom 24. Mai 2006.
 
-[^22-1]: [SR 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^22-2]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^22-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-4]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^22-5]: [SR 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^22-1]: [SR 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^22-2]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^22-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-4]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^22-5]: [SR 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
 
 #### Art. 23
 

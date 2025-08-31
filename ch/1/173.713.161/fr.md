@@ -4,11 +4,11 @@ title: "Règlement du 31 août 2010 sur l'organisation du Tribunal pénal fédé
 short: ROTPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: fr
-version: 2024-09-01
+version: 2025-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-825-20240901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-825-20250901-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/fr"
 
 (Règlement sur l’organisation du TPF, ROTPF)
 
-du 31 août 2010 (État le 1<sup>er</sup> septembre 2024)
+du 31 août 2010 (État le 1<sup>er</sup> septembre 2025)
 
 Le Tribunal pénal fédéral (TPF),
 
@@ -25,7 +25,7 @@ vu les art. 51 et 53, al. 2, let. a, de la loi du 19 mars 2010 sur l’organisat
 
 arrête:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ## Titre 1 Organisation
 
@@ -63,13 +63,14 @@ Relèvent également de sa compétence:
 
 <sup>1</sup> La Cour plénière statue, prend ses décisions et procède aux nominations selon les art. 53, al. 3 et 4, et 57 LOAP à main levée.
 
-<sup>2</sup> Lorsque la Cour plénière procède en séance à une nomination, ses membres votent à bulletin secret si une majorité de ses membres le demande.
+<sup>2</sup> Lorsque la Cour plénière procède en séance à une nomination, ses membres votent à bulletin secret à la demande d’un membre de la Cour plénière.[^3-2]
 
 <sup>3</sup> En complément à l’art. 53, al. 3, LOAP, une décision par voie de circulation est exclue pour les nominations ou lorsque un juge ou le secrétaire général exige qu’une affaire soit délibérée oralement.
 
 <sup>4</sup> Le secrétaire général participe aux séances de la Cour plénière avec voix consultative et tient le procès-verbal. Avec l’accord de la présidence, une autre personne peut être chargée de la tenue du procès-verbal.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 avr. 2015, en vigueur depuis le 30 avr. 2015 ([RO 2015 1245](https://fedlex.data.admin.ch/eli/oc/2015/253)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
 
 #### Art. 3a
 
@@ -250,7 +251,7 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 <sup>6</sup> Les motifs de récusation prévus à l’art. 56 du code de procédure pénale (CPP)[^13-2] demeurent réservés.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^13-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^13-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 14
 
@@ -263,22 +264,23 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 <sup>3</sup> Les fonctions attribuées par le CPP[^14-2] au «président du tribunal» sont assumées par le président de la cour concernée; celui-ci peut les déléguer au président de la cour appelée à statuer.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 21 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
-[^14-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^14-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 15
 
 **Composition des cours appelées à statuer et répartition des affaires**
 
-<sup>1</sup> Les présidents des cours répartissent les affaires et constituent les cours appelées à statuer.
+<sup>1</sup> Les présidents des cours répartissent les affaires et déterminent les cours appelées à statuer ainsi que leurs présidents en principe dès l’entrée des causes.[^15-1]
 
-<sup>2</sup> Lors de la répartition des affaires et de la constitution des cours appelées à statuer, les présidents des cours tiennent compte notamment des critères suivants: langue de l’affaire, taux d’occupation des juges et charge de travail, aptitude professionnelle, participation à de précédentes décisions dans le même domaine, connexité avec d’autres cas, absences.[^15-1]
+<sup>2</sup> Lors de la répartition des affaires et de la constitution des cours appelées à statuer, les présidents des cours tiennent compte notamment des critères suivants: langue de l’affaire, taux d’occupation des juges et charge de travail, aptitude professionnelle, participation à de précédentes décisions dans le même domaine, connexité avec d’autres cas, absences.[^15-2]
 
-<sup>3</sup> Le président de la cour peut désigner un juge unique, ainsi que le président ou le juge rapporteur d’une composition à trois juges, et lui confier l’instruction de la procédure et les fonctions présidentielles.[^15-2]
+<sup>3</sup> Le président de la cour peut désigner un juge unique, ainsi que le président ou le juge rapporteur d’une composition à trois juges, et lui confier l’instruction de la procédure et les fonctions présidentielles.[^15-3]
 
 <sup>4</sup> Les présidents des cours sont compétents pour accorder l’entraide administrative ou judiciaire à d’autres autorités, en tant que cette dernière a trait à une procédure pendante par devant eux.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
 #### Art. 15a
 
@@ -290,6 +292,16 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 
 [^15a-1]: Introduit par le ch. I de l’O du TPF du 9 mars 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 210](https://fedlex.data.admin.ch/eli/oc/2023/210)).
 
+#### Art. 15b
+
+**Communication de la composition des cours appelées à statuer**[^15b-1]
+
+<sup>1</sup> Les présidents de la Cour des affaires pénales et de la Cour d’appel communiquent d’office la composition de la cour appelée à statuer aux parties.
+
+<sup>2</sup> Le président de la Cour des plaintes communique sur demande la composition de la cour appelée à statuer aux parties.
+
+[^15b-1]: Introduit par le ch. I de l’O du TPF du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 499](https://fedlex.data.admin.ch/eli/oc/2025/499)).
+
 #### Art. 16
 
 **Greffiers**
@@ -298,7 +310,7 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 
 <sup>2</sup> Ils remplissent les autres tâches qui leur sont confiées par le président de la cour à laquelle ils sont rattachés ou par la Commission administrative (art. 59, al. 3, LOAP), laquelle aura en règle générale consulté ce dernier au préalable.
 
-[^16-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^16-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 17
 
@@ -396,11 +408,11 @@ Les membres du tribunal, les greffiers et les représentants des parties portent
 
 <sup>4</sup> Les dispositions du règlement du 31 mars 2006 sur les émoluments administratifs du Tribunal fédéral[^22-5] sont applicables. Pour les situations non prévues par ce règlement, les émoluments sont calculés selon le tarif annexé à l’ordonnance du 24 mai 2006 sur la transparence.
 
-[^22-1]: [RS 152.31](https://fedlex.data.admin.ch/eli/cc/2006/356)
-[^22-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^22-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-4]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^22-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/eli/cc/2006/838)
+[^22-1]: [RS 152.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4938)
+[^22-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^22-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^22-4]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^22-5]: [RS 173.110.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5585)
 
 #### Art. 23
 
