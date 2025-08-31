@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2025-08-01
+version: 2025-09-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20250801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20250901-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20250801/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. August 2025)
+vom 26. Oktober 2011 (Stand am 1. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 20 Absätze 1–3, 21 Absätze 2 und 4, 24 Absatz 1, 1
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-3]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-3]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -90,7 +90,7 @@ Das BLW überprüft die Zollansätze monatlich und setzt sie so fest, dass:
 <sup>4</sup> Als Berechnungsgrundlage für die Ermittlung der Weltmarktpreise und der Marktpreise in der Europäischen Union dienen insbesondere Börseninformationen, die Preise franko Zollgrenze, nicht veranlagt, die von der Europäischen Kommission veröffentlichten Preise und die repräsentativen Preisinformationen verschiedener Handelspartner.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
-[^5-2]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^5-2]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^5-3]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft vom 1. Okt. 2021 bis zum 31. Dez. 2026 ([AS 2021 513](https://fedlex.data.admin.ch/eli/oc/2021/513), [679](https://fedlex.data.admin.ch/eli/oc/2021/679); [2022 87](https://fedlex.data.admin.ch/eli/oc/2022/87)).
 
 #### Art. 6
@@ -110,8 +110,8 @@ Das BLW überprüft die Zollansätze monatlich und setzt sie so fest, dass:
 <sup>6</sup> Die Zollansätze für verarbeitetes Getreide zur menschlichen Ernährung der Tarifnummern 1101, 1102, 1103, 1104 und 1107 werden vom BLW festgelegt. Sie werden aufgrund der Grenzbelastung auf den entsprechenden Rohstoffen der Zollkontingente Nr. 27 und Nr. 28 mittels Ausbeuteziffern berechnet und um einen Zuschlag von maximal 20 Franken je 100 Kilogramm erhöht. Die Zollansätze der Rohstoffe und jene der Verarbeitungsprodukte werden gleichzeitig angepasst.[^6-6]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
-[^6-2]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juni 2017 angepasst.
-[^6-3]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^6-2]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juni 2017 angepasst.
+[^6-3]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^6-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Juli 2014 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 [^6-5]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 [^6-6]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
@@ -165,7 +165,7 @@ Die Zollkontingente, die Teilzollkontingente und die Richtmengen sind in Anhang 
 
 <sup>3</sup> Ausnahmen von der Regelung in Absatz 2 sind in Artikel 16*a* der Schlachtviehverordnung vom 26. November 2003[^11-1] geregelt.
 
-[^11-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^11-1]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 12
 
@@ -380,7 +380,7 @@ Fohlen bei Fuss (bis zum Alter von sechs Monaten) können zum KZA eingeführt we
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)).
 [^27-2]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
-[^27-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^27-3]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### 2. Abschnitt: Einfuhr von Getreide, Futtermitteln, Stroh sowie von Waren, bei deren Verarbeitung Futtermittel anfallen
 
@@ -403,9 +403,9 @@ Das BLW berechnet die Zollansätze für die in Anhang 2 bezeichneten Erzeugnisse
 
 <sup>5</sup> Das BLW legt die Zollansätze für Mischungen von Getreide zu Futterzwecken so fest, dass sie dem höchsten aller Zollansätze für Getreide zu Futterzwecken entsprechen.
 
-[^28-1]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juni 2017 angepasst.
-[^28-2]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^28-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^28-1]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juni 2017 angepasst.
+[^28-2]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^28-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^28-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 29
@@ -419,7 +419,7 @@ Das BLW berechnet die Zollansätze für die in Anhang 2 bezeichneten Erzeugnisse
 <sup>3</sup> Für Personen, die Grobgetreide nach Absatz 2 einführen, gelten die Bestimmungen zur Verwendungsverpflichtung nach den Artikeln 51–54 der Zollverordnung vom 1. November 2006[^29-2].[^29-3]
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
-[^29-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^29-2]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 [^29-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 
 #### Art. 30
@@ -432,7 +432,7 @@ Das BLW berechnet die Zollansätze für die in Anhang 2 bezeichneten Erzeugnisse
 
 <sup>3</sup> Für Personen, die Hartweizen nach Absatz 2 einführen, gelten die Bestimmungen zur Verwendungsverpflichtung nach den Artikeln 51–54 der Zollverordnung vom 1. November 2006[^30-1].[^30-2]
 
-[^30-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^30-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 [^30-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 
 #### Art. 31
@@ -456,7 +456,7 @@ Das BLW berechnet die Zollansätze für die in Anhang 2 bezeichneten Erzeugnisse
 <sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^32-2] entscheidet über die Nachzahlung aufgrund der Meldungen der Verarbeitungsbetriebe oder der von ihm veranlassten Kontrollen in den Verarbeitungsbetrieben.
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
-[^32-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^32-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 33
 
@@ -493,7 +493,7 @@ Die Bestimmungen dieses Abschnitts gelten für:
 
 <sup>7</sup> Beim Zollkontingent Nr. 08 wird auf eine Regelung zur Verteilung verzichtet.
 
-[^35-1]: [SR 0.631.256.934.953](https://fedlex.data.admin.ch/eli/cc/49/1002_1027_)
+[^35-1]: [SR 0.631.256.934.953](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2211)
 [^35-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 [^35-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
@@ -645,7 +645,7 @@ Bei landwirtschaftlichen Erzeugnissen, für die es kein Zollkontingent nach Anha
 Waren des Reiseverkehrs nach Artikel 16 Absatz 2 des Zollgesetzes vom 18. März 2005[^45-2] können ohne GEB eingeführt werden.
 
 [^45-1]: Fassung gemäss Anhang der V vom 2. April 2014, in Kraft seit 1. Juli 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
-[^45-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^45-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 2. Abschnitt: Landwirtschaftliche Erzeugnisse mit Zollkontingent
 
@@ -675,7 +675,7 @@ Das BLW kann auf Gesuch hin einmalige Einfuhren in geringen Mengen und aufgrund 
 <sup>2</sup> Die Einfuhren nach Absatz 1 werden nicht an die zu verteilende Zollkontingentsmenge angerechnet.
 
 [^47-1]: Fassung gemäss Anhang der V vom 2. April 2014, in Kraft seit 1. Juli 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
-[^47-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^47-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 48
 
@@ -1761,7 +1761,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt. Die Tarifnummern ohne GEB-Pflicht sind von den Regelungen der VEAGOG nicht betroffen [12-3].
 
-- [**1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden.**
+- [**1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze** **einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden.**
 - [12-1] für zerstampfte oder zufolge des Transports zu Mus gewordene Früchte keine GEB erforderlich
 - [12-2] Zollkontingent Nr. 19: ohne Produkte zur industriellen Weiterverarbeitung
 
@@ -2781,54 +2781,54 @@ Anhang 2[^t-2]
 
 ## Zollansätze der Marktordnungen Saatgetreide, Futtermittel, Ölsaaten, Zollansätze von Waren, bei deren Verarbeitung Futtermittel anfallen, sowie Zollansätze von Grobgetreide zur menschlichen Ernährung
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 22. Juli 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 484](https://fedlex.data.admin.ch/eli/oc/2025/484)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 19. Aug. 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 529](https://fedlex.data.admin.ch/eli/oc/2025/529)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th></tr>
 <tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
 <tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>5.00</td><td>\*</td><td>0709.9991</td><td>12.00</td><td>\*</td><td>0712.9070</td><td>12.00</td><td>\*</td></tr>
-<tr><td>0713.1011</td><td>4.00</td><td>\*</td><td>0713.1012</td><td>0.40</td><td>\*</td><td>0713.1091</td><td>4.00</td><td>\*</td><td>0713.2011</td><td>4.00</td><td>\*</td></tr>
-<tr><td>0713.2012</td><td>0.40</td><td>\*</td><td>0713.2091</td><td>4.00</td><td>\*</td><td>0713.3111</td><td>5.00</td><td>\*</td><td>0713.3112</td><td>0.50</td><td>\*</td></tr>
-<tr><td>0713.3191</td><td>5.00</td><td>\*</td><td>0713.3211</td><td>5.00</td><td>\*</td><td>0713.3212</td><td>0.50</td><td>\*</td><td>0713.3291</td><td>5.00</td><td>\*</td></tr>
-<tr><td>0713.3311</td><td>5.00</td><td>\*</td><td>0713.3312</td><td>0.50</td><td>\*</td><td>0713.3391</td><td>5.00</td><td>\*</td><td>0713.3411</td><td>4.00</td><td>\*</td></tr>
-<tr><td>0713.3412</td><td>0.40</td><td>\*</td><td>0713.3491</td><td>4.00</td><td>\*</td><td>0713.3511</td><td>5.00</td><td>\*</td><td>0713.3512</td><td>0.50</td><td>\*</td></tr>
-<tr><td>0713.3591</td><td>5.00</td><td>\*</td><td>0713.3911</td><td>5.00</td><td>\*</td><td>0713.3912</td><td>0.50</td><td>\*</td><td>0713.3991</td><td>5.00</td><td>\*</td></tr>
-<tr><td>0713.4011</td><td>5.00</td><td>\*</td><td>0713.4012</td><td>0.50</td><td>\*</td><td>0713.4091</td><td>5.00</td><td>\*</td><td>0713.5012</td><td>4.00</td><td>\*</td></tr>
-<tr><td>0713.5013</td><td>0.40</td><td>\*</td><td>0713.5091</td><td>5.00</td><td>\*</td><td>0713.6011</td><td>4.00</td><td>\*</td><td>0713.6012</td><td>0.40</td><td>\*</td></tr>
-<tr><td>0713.6091</td><td>4.00</td><td>\*</td><td>0713.9021</td><td>5.00</td><td>\*</td><td>0713.9022</td><td>0.50</td><td>\*</td><td>0713.9081</td><td>5.00</td><td>\*</td></tr>
+<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>5.00</td><td></td><td>0709.9991</td><td>13.00</td><td>\*</td><td>0712.9070</td><td>13.00</td><td>\*</td></tr>
+<tr><td>0713.1011</td><td>4.00</td><td></td><td>0713.1012</td><td>0.40</td><td></td><td>0713.1091</td><td>4.00</td><td></td><td>0713.2011</td><td>4.00</td><td></td></tr>
+<tr><td>0713.2012</td><td>0.40</td><td></td><td>0713.2091</td><td>4.00</td><td></td><td>0713.3111</td><td>5.00</td><td></td><td>0713.3112</td><td>0.50</td><td></td></tr>
+<tr><td>0713.3191</td><td>5.00</td><td></td><td>0713.3211</td><td>5.00</td><td></td><td>0713.3212</td><td>0.50</td><td></td><td>0713.3291</td><td>5.00</td><td></td></tr>
+<tr><td>0713.3311</td><td>5.00</td><td></td><td>0713.3312</td><td>0.50</td><td></td><td>0713.3391</td><td>5.00</td><td></td><td>0713.3411</td><td>4.00</td><td></td></tr>
+<tr><td>0713.3412</td><td>0.40</td><td></td><td>0713.3491</td><td>4.00</td><td></td><td>0713.3511</td><td>5.00</td><td></td><td>0713.3512</td><td>0.50</td><td></td></tr>
+<tr><td>0713.3591</td><td>5.00</td><td></td><td>0713.3911</td><td>5.00</td><td></td><td>0713.3912</td><td>0.50</td><td></td><td>0713.3991</td><td>5.00</td><td></td></tr>
+<tr><td>0713.4011</td><td>5.00</td><td></td><td>0713.4012</td><td>0.50</td><td></td><td>0713.4091</td><td>5.00</td><td></td><td>0713.5012</td><td>4.00</td><td></td></tr>
+<tr><td>0713.5013</td><td>0.40</td><td></td><td>0713.5091</td><td>5.00</td><td></td><td>0713.6011</td><td>4.00</td><td></td><td>0713.6012</td><td>0.40</td><td></td></tr>
+<tr><td>0713.6091</td><td>4.00</td><td></td><td>0713.9021</td><td>5.00</td><td></td><td>0713.9022</td><td>0.50</td><td></td><td>0713.9081</td><td>5.00</td><td></td></tr>
 <tr><td>0714.1010</td><td>0.00</td><td></td><td>0714.2010</td><td>0.00</td><td></td><td>0714.3010</td><td>0.00</td><td></td><td>0714.4010</td><td>0.00</td><td></td></tr>
 <tr><td>0714.5010</td><td>0.00</td><td></td><td>0714.9020</td><td>0.00</td><td></td><td>0802.2110</td><td>0.00</td><td></td><td>0802.2120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.2210</td><td>0.00</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.3210</td><td>0.00</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
 <tr><td>0813.5012</td><td>0.00</td><td></td><td>0813.5021</td><td>0.00</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>0.00</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>15.00</td><td>\*</td><td>1001.1939</td><td>14.00</td><td>\*</td></tr>
-<tr><td>1001.1940</td><td>1.40</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>15.00</td><td>\*</td><td>1001.9939</td><td>14.00</td><td>\*</td></tr>
-<tr><td>1001.9940</td><td>1.40</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>15.00</td><td>\*</td><td>1002.9039</td><td>13.00</td><td>\*</td></tr>
-<tr><td>1002.9040</td><td>1.30</td><td>\*</td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>7.00</td><td>\*</td><td>1003.9030</td><td>0.40</td><td></td></tr>
-<tr><td>1003.9041</td><td>3.20</td><td>\*</td><td>1003.9051</td><td>15.00</td><td>\*</td><td>1003.9059</td><td>14.00</td><td>\*</td><td>1003.9060</td><td>2.10</td><td>\*</td></tr>
-<tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.70</td><td>\*</td><td>1004.9031</td><td>15.00</td><td>\*</td><td>1004.9039</td><td>4.00</td><td>\*</td></tr>
-<tr><td>1004.9040</td><td>1.00</td><td>\*</td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>3.00</td><td>\*</td><td>1005.9031</td><td>15.00</td><td>\*</td></tr>
-<tr><td>1005.9039</td><td>12.00</td><td>\*</td><td>1005.9040</td><td>1.20</td><td>\*</td><td>1006.1021</td><td>15.00</td><td>\*</td><td>1006.1029</td><td>1.00</td><td>\*</td></tr>
-<tr><td>1006.2021</td><td>15.00</td><td>\*</td><td>1006.2029</td><td>1.00</td><td>\*</td><td>1006.3021</td><td>15.00</td><td>\*</td><td>1006.3029</td><td>1.00</td><td>\*</td></tr>
-<tr><td>1006.4021</td><td>15.00</td><td>\*</td><td>1006.4029</td><td>1.00</td><td>\*</td><td>1007.9031</td><td>15.00</td><td>\*</td><td>1007.9039</td><td>5.00</td><td></td></tr>
-<tr><td>1007.9040</td><td>0.15</td><td></td><td>1008.1031</td><td>15.00</td><td>\*</td><td>1008.1039</td><td>0.00</td><td></td><td>1008.1040</td><td>0.00</td><td></td></tr>
-<tr><td>1008.2931</td><td>15.00</td><td>\*</td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>15.00</td><td>\*</td></tr>
-<tr><td>1008.3039</td><td>0.00</td><td></td><td>1008.3040</td><td>0.00</td><td></td><td>1008.4031</td><td>15.00</td><td>\*</td><td>1008.4039</td><td>14.00</td><td>\*</td></tr>
-<tr><td>1008.4040</td><td>0.40</td><td></td><td>1008.5031</td><td>15.00</td><td>\*</td><td>1008.5039</td><td>14.00</td><td>\*</td><td>1008.5040</td><td>0.40</td><td></td></tr>
-<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>15.00</td><td>\*</td><td>1008.6049</td><td>15.00</td><td>\*</td><td>1008.6050</td><td>1.50</td><td>\*</td></tr>
-<tr><td>1008.9035</td><td>15.00</td><td>\*</td><td>1008.9037</td><td>14.00</td><td>\*</td><td>1008.9040</td><td>0.40</td><td></td><td>1101.0051</td><td>21.00</td><td>\*</td></tr>
-<tr><td>1101.0059</td><td>25.00</td><td>\*</td><td>1102.2010</td><td>24.30</td><td>\*</td><td>1102.2020</td><td>14.00</td><td>\*</td><td>1102.9013</td><td>26.00</td><td>\*</td></tr>
-<tr><td>1102.9045</td><td>19.00</td><td>\*</td><td>1102.9046</td><td>17.00</td><td>\*</td><td>1102.9052</td><td>4.00</td><td>\*</td><td>1102.9062</td><td>25.00</td><td>\*</td></tr>
-<tr><td>1103.1112</td><td>24.00</td><td>\*</td><td>1103.1192</td><td>22.00</td><td>\*</td><td>1103.1320</td><td>19.00</td><td>\*</td><td>1103.1390</td><td>26.00</td><td>\*</td></tr>
-<tr><td>1103.1912</td><td>22.00</td><td>\*</td><td>1103.1922</td><td>22.00</td><td>\*</td><td>1103.1929</td><td>21.15</td><td>\*</td><td>1103.1932</td><td>5.00</td><td>\*</td></tr>
-<tr><td>1103.1993</td><td>22.00</td><td>\*</td><td>1103.2012</td><td>21.00</td><td>\*</td><td>1103.2022</td><td>19.00</td><td>\*</td><td>1103.2092</td><td>21.00</td><td>\*</td></tr>
-<tr><td>1104.1220</td><td>23.00</td><td>\*</td><td>1104.1290</td><td>21.15</td><td>\*</td><td>1104.1912</td><td>22.00</td><td>\*</td><td>1104.1922</td><td>23.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>24.55</td><td>\*</td><td>1104.1993</td><td>22.00</td><td>\*</td><td>1104.2220</td><td>21.10</td><td>\*</td><td>1104.2230</td><td>22.00</td><td>\*</td></tr>
-<tr><td>1104.2320</td><td>7.00</td><td></td><td>1104.2390</td><td>28.35</td><td>\*</td><td>1104.2912</td><td>22.00</td><td>\*</td><td>1104.2923</td><td>1.00</td><td></td></tr>
-<tr><td>1104.2932</td><td>24.55</td><td>\*</td><td>1104.2933</td><td>22.00</td><td>\*</td><td>1104.2993</td><td>20.00</td><td>\*</td><td>1104.3070</td><td>0.00</td><td></td></tr>
+<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>16.00</td><td>\*</td><td>1001.1939</td><td>16.00</td><td>\*</td></tr>
+<tr><td>1001.1940</td><td>1.60</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>16.00</td><td>\*</td><td>1001.9939</td><td>16.00</td><td>\*</td></tr>
+<tr><td>1001.9940</td><td>1.60</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>16.00</td><td>\*</td><td>1002.9039</td><td>15.00</td><td>\*</td></tr>
+<tr><td>1002.9040</td><td>1.50</td><td>\*</td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>7.50</td><td>\*</td><td>1003.9030</td><td>0.45</td><td>\*</td></tr>
+<tr><td>1003.9041</td><td>3.45</td><td>\*</td><td>1003.9051</td><td>16.00</td><td>\*</td><td>1003.9059</td><td>15.00</td><td>\*</td><td>1003.9060</td><td>2.25</td><td>\*</td></tr>
+<tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>1.25</td><td>\*</td><td>1004.9031</td><td>16.00</td><td>\*</td><td>1004.9039</td><td>7.00</td><td>\*</td></tr>
+<tr><td>1004.9040</td><td>1.75</td><td>\*</td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>3.25</td><td>\*</td><td>1005.9031</td><td>16.00</td><td>\*</td></tr>
+<tr><td>1005.9039</td><td>13.00</td><td>\*</td><td>1005.9040</td><td>1.30</td><td>\*</td><td>1006.1021</td><td>16.00</td><td>\*</td><td>1006.1029</td><td>1.00</td><td></td></tr>
+<tr><td>1006.2021</td><td>16.00</td><td>\*</td><td>1006.2029</td><td>1.00</td><td></td><td>1006.3021</td><td>16.00</td><td>\*</td><td>1006.3029</td><td>1.00</td><td></td></tr>
+<tr><td>1006.4021</td><td>16.00</td><td>\*</td><td>1006.4029</td><td>1.00</td><td></td><td>1007.9031</td><td>16.00</td><td>\*</td><td>1007.9039</td><td>5.00</td><td></td></tr>
+<tr><td>1007.9040</td><td>0.15</td><td></td><td>1008.1031</td><td>16.00</td><td>\*</td><td>1008.1039</td><td>0.00</td><td></td><td>1008.1040</td><td>0.00</td><td></td></tr>
+<tr><td>1008.2931</td><td>16.00</td><td>\*</td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>16.00</td><td>\*</td></tr>
+<tr><td>1008.3039</td><td>0.00</td><td></td><td>1008.3040</td><td>0.00</td><td></td><td>1008.4031</td><td>16.00</td><td>\*</td><td>1008.4039</td><td>16.00</td><td>\*</td></tr>
+<tr><td>1008.4040</td><td>0.50</td><td>\*</td><td>1008.5031</td><td>16.00</td><td>\*</td><td>1008.5039</td><td>16.00</td><td>\*</td><td>1008.5040</td><td>0.50</td><td>\*</td></tr>
+<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>16.00</td><td>\*</td><td>1008.6049</td><td>15.00</td><td></td><td>1008.6050</td><td>1.50</td><td></td></tr>
+<tr><td>1008.9035</td><td>16.00</td><td>\*</td><td>1008.9037</td><td>16.00</td><td>\*</td><td>1008.9040</td><td>0.50</td><td>\*</td><td>1101.0051</td><td>23.00</td><td>\*</td></tr>
+<tr><td>1101.0059</td><td>27.00</td><td>\*</td><td>1102.2010</td><td>24.65</td><td>\*</td><td>1102.2020</td><td>15.00</td><td>\*</td><td>1102.9013</td><td>26.00</td><td></td></tr>
+<tr><td>1102.9045</td><td>21.00</td><td>\*</td><td>1102.9046</td><td>19.00</td><td>\*</td><td>1102.9052</td><td>4.00</td><td></td><td>1102.9062</td><td>27.00</td><td>\*</td></tr>
+<tr><td>1103.1112</td><td>26.00</td><td>\*</td><td>1103.1192</td><td>24.00</td><td>\*</td><td>1103.1320</td><td>20.00</td><td>\*</td><td>1103.1390</td><td>26.50</td><td>\*</td></tr>
+<tr><td>1103.1912</td><td>24.00</td><td>\*</td><td>1103.1922</td><td>25.00</td><td>\*</td><td>1103.1929</td><td>22.00</td><td>\*</td><td>1103.1932</td><td>5.00</td><td></td></tr>
+<tr><td>1103.1993</td><td>24.00</td><td>\*</td><td>1103.2012</td><td>23.00</td><td>\*</td><td>1103.2022</td><td>21.00</td><td>\*</td><td>1103.2092</td><td>23.00</td><td>\*</td></tr>
+<tr><td>1104.1220</td><td>26.00</td><td>\*</td><td>1104.1290</td><td>22.10</td><td>\*</td><td>1104.1912</td><td>24.00</td><td>\*</td><td>1104.1922</td><td>24.00</td><td>\*</td></tr>
+<tr><td>1104.1929</td><td>24.95</td><td>\*</td><td>1104.1993</td><td>24.00</td><td>\*</td><td>1104.2220</td><td>21.90</td><td>\*</td><td>1104.2230</td><td>25.00</td><td>\*</td></tr>
+<tr><td>1104.2320</td><td>7.00</td><td></td><td>1104.2390</td><td>29.05</td><td>\*</td><td>1104.2912</td><td>24.00</td><td>\*</td><td>1104.2923</td><td>1.00</td><td></td></tr>
+<tr><td>1104.2932</td><td>24.95</td><td>\*</td><td>1104.2933</td><td>23.00</td><td>\*</td><td>1104.2993</td><td>22.00</td><td>\*</td><td>1104.3070</td><td>0.00</td><td></td></tr>
 <tr><td>1104.3081</td><td>0.00</td><td></td><td>1104.3093</td><td>5.00</td><td></td><td>1105.1021</td><td>0.00</td><td></td><td>1105.2021</td><td>0.00</td><td></td></tr>
-<tr><td>1106.1010</td><td>7.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>12.00</td><td></td><td>1107.1013</td><td>0.00</td><td></td></tr>
+<tr><td>1106.1010</td><td>7.00</td><td></td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>12.00</td><td></td><td>1107.1013</td><td>0.00</td><td></td></tr>
 <tr><td>1107.1094</td><td>0.00</td><td></td><td>1107.2013</td><td>0.00</td><td></td><td>1107.2094</td><td>0.00</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
 <tr><td>1108.1220</td><td>0.00</td><td></td><td>1108.1320</td><td>0.00</td><td></td><td>1108.1420</td><td>0.00</td><td></td><td>1108.1912</td><td>5.00</td><td></td></tr>
 <tr><td>1108.1992</td><td>0.00</td><td></td><td>1108.2020</td><td>6.00</td><td></td><td>1201.9010</td><td>0.00</td><td></td><td>1201.9021</td><td>0.10</td><td></td></tr>
@@ -2867,7 +2867,7 @@ Anhang 2[^t-2]
 <tr><td>1209.2911</td><td>0.00</td><td></td><td>1209.2912</td><td>0.00</td><td></td><td>1209.9911</td><td>0.00</td><td></td><td>1209.9912</td><td>0.00</td><td></td></tr>
 <tr><td>1209.9991</td><td>0.00</td><td></td><td>1212.2910</td><td>0.00</td><td></td><td>1212.9110</td><td>0.00</td><td></td><td>1212.9291</td><td>0.00</td><td></td></tr>
 <tr><td>1212.9310</td><td>0.00</td><td></td><td>1212.9410</td><td>0.00</td><td></td><td>1212.9920</td><td>0.00</td><td></td><td>1213.0091</td><td>0.00</td><td></td></tr>
-<tr><td>1213.0099</td><td>0.00</td><td></td><td>1214.1010</td><td>4.00</td><td>\*</td><td>1214.9011</td><td>4.00</td><td>\*</td><td>1214.9019</td><td>3.00</td><td></td></tr>
+<tr><td>1213.0099</td><td>0.00</td><td></td><td>1214.1010</td><td>4.00</td><td></td><td>1214.9011</td><td>4.00</td><td></td><td>1214.9019</td><td>3.00</td><td></td></tr>
 <tr><td>1404.9010</td><td>0.00</td><td></td><td>1501.1011</td><td>0.00</td><td></td><td>1501.1019</td><td>0.00</td><td></td><td>1501.2011</td><td>0.00</td><td></td></tr>
 <tr><td>1501.2019</td><td>0.00</td><td></td><td>1501.9011</td><td>0.00</td><td></td><td>1501.9019</td><td>0.00</td><td></td><td>1502.1011</td><td>0.00</td><td></td></tr>
 <tr><td>1502.1019</td><td>0.00</td><td></td><td>1502.9011</td><td>0.00</td><td></td><td>1502.9012</td><td>0.00</td><td></td><td>1502.9019</td><td>0.00</td><td></td></tr>
@@ -2891,13 +2891,13 @@ Anhang 2[^t-2]
 <tr><td>2102.2011</td><td>0.00</td><td></td><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>0.00</td><td></td><td>2301.1011</td><td>0.00</td><td></td></tr>
 <tr><td>2301.1019</td><td>0.00</td><td></td><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>23.00</td><td></td><td>2302.3020</td><td>12.00</td><td></td></tr>
 <tr><td>2302.4030</td><td>13.00</td><td></td><td>2302.4091</td><td>13.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td></tr>
-<tr><td>2303.1012</td><td>2.00</td><td></td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>6.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1012</td><td>2.00</td><td></td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>6.00</td><td></td><td>2303.3010</td><td>0.00</td><td></td></tr>
 <tr><td>2304.0010</td><td>0.00</td><td></td><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.00</td><td></td><td>2306.2010</td><td>0.00</td><td></td></tr>
-<tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>5.00</td><td>\*</td><td>2306.4910</td><td>5.00</td><td>\*</td><td>2306.5010</td><td>0.00</td><td></td></tr>
+<tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>5.00</td><td></td><td>2306.4910</td><td>5.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.6010</td><td>0.00</td><td></td><td>2306.9011</td><td>0.00</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>0.00</td><td></td></tr>
-<tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>0.00</td><td></td><td>2308.0050</td><td>5.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td></tr>
-<tr><td>2309.9011</td><td>9.05</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.45</td><td>\*</td><td>2309.9082</td><td>9.05</td><td>\*</td></tr>
-<tr><td>2309.9089</td><td>9.05</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
+<tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>0.00</td><td></td><td>2308.0050</td><td>5.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td></tr>
+<tr><td>2309.9011</td><td>10.00</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.55</td><td>\*</td><td>2309.9082</td><td>10.00</td><td>\*</td></tr>
+<tr><td>2309.9089</td><td>10.00</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1110</td><td>0.00</td><td></td><td>3823.1210</td><td>0.00</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
 </table>
