@@ -4,13 +4,13 @@ number: "33.11"
 title: "Ordonnance sur les amendes d'ordre de droit cantonal et de droit fédéral"
 short: OCAO
 language: fr
-version: 2025-08-01
-valid_until: 2025-08-31
-version_adopted: 2025-07-04
+version: 2025-09-01
+valid_until: 2027-06-30
+version_adopted: 2025-08-19
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8238/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8378/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Amendes d'ordre – O
 
 (OCAO)
 
-du 23.11.2021 (version entrée en vigueur le 01.08.2025)
+du 23.11.2021 (version entrée en vigueur le 01.09.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -244,7 +244,8 @@ Arrête:
 <tr><td>FR 320</td><td>Pêche en dehors des heures admises (art. 15 al. 2 OAff)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 321</td><td>Non-respect des interdictions cantonales de capture (art. 16 OAff)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 322</td><td>Utilisation d'engins, lignes, modes de pêche ou appâts prohibés (art. 18 et 19 OAff)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 323</td><td>Non-respect des prescriptions sur la capture, manipulation, stockage ou mise à mort des poissons (art. 20 et 21 OAff)</td><td>100.–</td></tr>
+<tr><td>FR 323</td><td>Non-respect des prescriptions sur la capture, manipulation, stockage ou mise à mort des poissons (art. 20 et 21 OAff)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 324</td><td>Pêche en période de protection (art. 28, 35, 40, 45, 50, 56 et 62 OPêche)</td><td>Fr. 200.–</td></tr>
 </table>
 
 2021\_148

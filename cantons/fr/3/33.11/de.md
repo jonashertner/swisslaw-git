@@ -4,13 +4,13 @@ number: "33.11"
 title: Verordnung über kantons- und bundesrechtliche Ordnungsbussen
 short: KOBV
 language: de
-version: 2025-08-01
-valid_until: 2025-08-31
-version_adopted: 2025-07-04
+version: 2025-09-01
+valid_until: 2027-06-30
+version_adopted: 2025-08-19
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8238/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ordnungsbussen – V
 
 (KOBV)
 
-vom 23.11.2021 (Fassung in Kraft getreten am 01.08.2025)
+vom 23.11.2021 (Fassung in Kraft getreten am 01.09.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -240,11 +240,12 @@ beschliesst:
 <tr><td>FR 316</td><td>Fischen an Orten mit Fischereiverboten oder in Teilschongebieten (Art. 32, 34, 39, 44, 49, 55, 61, 67 FischV)</td><td>Fr. 200.–</td></tr>
 <tr><td>FR 317</td><td>Fischen in Schongebieten (Art. 33 FischV)</td><td>Fr. 300.–</td></tr>
 <tr><td>FR 318</td><td>Fischen von einem Wasserfahrzeug aus an erlaubten Orten, jedoch ohne Zusatzpatent D (Art. 53, 59 Abs. 1 FischV)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 319</td><td>Fischen ohne Fischerkarte oder amtlichen Identitätsausweis (Art. 9 PachtV)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 320</td><td>Fischen ausserhalb der erlaubten Fischereizeiten (Art. 15 PachtV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 319</td><td>Fischen ohne Fischerkarte oder amtlichen Identitätsausweis (Art. 9 Abs. 4 PachtV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 320</td><td>Fischen ausserhalb der erlaubten Fischereizeiten (Art. 15 Abs. 2 PachtV)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 321</td><td>Nichteinhaltung der kantonalen Fangverbote (Art. 16 PachtV)</td><td>Fr. 150.–</td></tr>
 <tr><td>FR 322</td><td>Verwendung von für die Fischerei verbotenen Fanggeräten, Fischereimethoden oder Ködern (Art. 18 und 19 PachtV)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 323</td><td>Nichteinhaltung der Vorschriften über den Fang, Behandlung, Hälterung oder das Töten von Fischen (Art. 20 und 21 PachtV)</td><td>100.–</td></tr>
+<tr><td>FR 323</td><td>Nichteinhaltung der Vorschriften über den Fang, Behandlung, Hälterung oder das Töten von Fischen (Art. 20 und 21 PachtV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 324</td><td>Fischen während der Schonzeiten (Art. 28, 35, 40, 45, 50, 56 und 62 FischV)</td><td>Fr. 200.–</td></tr>
 </table>
 
 2021\_148
