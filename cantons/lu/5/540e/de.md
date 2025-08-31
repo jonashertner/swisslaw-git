@@ -1,96 +1,129 @@
 ---
 canton: LU
 number: 540e
-title: Reglement über den Zertifikatslehrgang «Agrarrecht»
+title: Reglement zum Weiterbildungsangebot «Certificate of Advanced Studies (CAS) in Agrarrecht» der Universität Luzern
 language: de
-version: 2011-02-01
-valid_until: 2025-08-31
-version_adopted: 2010-12-17
+version: 2025-09-01
+version_adopted: 2025-10-24
 adopted: 2025-10-24
 in_force: 2025-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/540e"
-pdf: "https://srl.lu.ch/api/de/versions/2328/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4531/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über den Zertifikatslehrgang «Agrarrecht»
+# Reglement zum Weiterbildungsangebot «Certificate of Advanced Studies (CAS) in Agrarrecht» der Universität Luzern
 
-vom 17.12.2010 (Stand 01.02.2011)
+vom 24.10.2025 (Stand 01.09.2025)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 6 Absatz 1 und § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000[^ingress-1],
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
+
+auf Antrag des Senats,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^ingress-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
-## 1 Allgemeines
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Der Zertifikatslehrgang «Agrarrecht» (im Folgenden: Lehrgang) ist ein universitäres Zusatzstudium der Rechtswissenschaft.
+<sup>1</sup> Der Zertifikatslehrgang «Certificate in Advanced Studies (CAS) in Agrarrecht» der Universität Luzern (im Folgenden: Lehrgang) ist ein universitäres Weiterbildungsangebot der Rechtswissenschaftlichen Fakultät der Universität Luzern.
 
-<sup>2</sup> Der Lehrgang will im Themenfeld Agrar – Ernährung – Umwelt die rechtlichen Rahmenbedingungen in der Schweiz vermitteln und sie in den internationalen Zusammenhang stellen.
+<sup>2</sup> Der Lehrgang fördert das Verständnis für und befähigt zur Bearbeitung von Rechtsfragen im Themenfeld Agrar – Ernährung – Umwelt.
 
 #### § 2
 
 **Gegenstand**
 
-<sup>1</sup> Das Reglement regelt die Zulassung zum Lehrgang, dessen Durchführung und die Voraussetzungen für die Verleihung des Zertifikats «Agrarrecht».
+<sup>1</sup> Dieses Reglement regelt die Zulassung zum Lehrgang, dessen Durchführung und die Voraussetzungen für die Verleihung des Zertifikats «Certificate of Advanced Studies (CAS) in Agrarrecht» der Universität Luzern.
+
+<sup>2</sup> Soweit dieses Reglement keine Bestimmungen enthält, gilt das Rahmenreglement für die Weiterbildung an der Universität Luzern[^2-1].
+
+<sup>3</sup> Der Lehrgang richtet sich an Juristinnen und Juristen, Agrarökonominnen und -ökonomen und weitere Personen, die beruflich mit Rechtsfragen in den Bereichen Landwirtschaft, Ernährung und Umwelt konfrontiert sind. Insbesondere sind Beraterinnen und Berater, Behördenvertreterinnen und -vertreter, Mitarbeiterinnen und Mitarbeiter einschlägiger Unternehmen sowie Interessenvertreterinnen und -vertreter angesprochen.
+
+[^2-1]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
+
+## 2 Organisation
 
 #### § 3
 
-**Verantwortliche Personen**
+**Trägerschaft**
 
-<sup>1</sup> Die wissenschaftliche Leitung übernimmt Prof. Dr. Roland Norer, Professor für öffentliches Recht und Recht des ländlichen Raums an der Universität Luzern. Die wissenschaftliche Leitung nimmt die Gesamtleitung des Lehrgangs wahr.
-
-## 2 Zulassung
+<sup>1</sup> Trägerin des Lehrgangs ist die Rechtswissenschaftliche Fakultät der Universität Luzern (im Folgenden: Fakultät).
 
 #### § 4
 
-**Adressaten**
+**Studienleitung**
 
-<sup>1</sup> Der Lehrgang richtet sich an Juristinnen und Juristen, Agrarökonominnen und ‑ökonomen und alle anderen, die beruflich mit Rechtsfragen im Bereich Landwirtschaft, Ernährung und Umwelt konfrontiert sind. Insbesondere sind Beraterinnen und Berater, Behördenvertreterinnen und -vertreter, Mitarbeiterinnen und Mitarbeiter einschlägiger Unternehmen sowie Interessenvertreterinnen und -vertreter angesprochen.
+<sup>1</sup> Die Studienleitung (wissenschaftliche Leitung) ist für die wissenschaftliche und strategische Ausrichtung des Lehrgangs zuständig. Sie obliegt der Inhaberin oder dem Inhaber der Professur für Öffentliches Recht und Recht des ländlichen Raums. Sie kann weitere Angehörige umfassen (§ 7 Abs. 1b Rahmenreglement für die Weiterbildung an der Universität Luzern[^4-1]).
 
-<sup>2</sup> Vorausgesetzt wird ein abgeschlossenes Studium (Bachelor- oder Masterstufe) an einer Fachhochschule oder Universität oder einschlägige Berufserfahrung im Agrar-, Ernährungs- oder Umweltsektor.
+<sup>2</sup> Die Studienleitung ist verantwortlich für Fragen des Lehrbetriebs wie:
+
+- a. Ausrichtung, Weiterentwicklung und Qualitätssicherung des Lehrgangs,
+- b. Entscheid über das Lehrprogramm sowie die Anrechnung und Zuordnung von ECTS-Punkten (European Credit Transfer and Accumulation System),
+- c. Zulassung von Weiterbildungsteilnehmenden,
+- d. Genehmigung des Budgets, der Gebühren, der Honorare, der Jahresrechnung, des Jahresberichts zuhanden der Fakultät sowie Bewilligung von Ausgaben ausserhalb des Budgets,
+- e. Antragstellung an die Fakultät zur Verleihung der Titel,
+- f. Vorschlag an die Fakultät für die Wahl der Mitglieder der Studienleitung,
+- g. Besetzung der Programmleitung.
+
+<sup>3</sup> Die Studienleitung ist für alle Bereiche zuständig, soweit diese nicht in die Zuständigkeit anderer Organe fallen.
+
+[^4-1]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
 
 #### § 5
 
-**Anmeldung**
+**Programmleitung**
 
-<sup>1</sup> Die Anmeldung erfolgt bei der wissenschaftlichen Leitung des Lehrgangs. Die Anmeldegebühr beträgt 100 Franken.
+<sup>1</sup> Die Programmleitung ist für die operative Entwicklung und Führung des Lehrgangs verantwortlich. Sie kann durch eine administrative Assistentin oder einen administrativen Assistenten unterstützt werden. Die Programmleitung und die administrative Assistenz werden von der Studienleitung bestimmt und von der Universität Luzern angestellt.
 
-<sup>2</sup> Der Anmeldung sind folgende Unterlagen beizulegen:
+<sup>2</sup> Die Programmleitung ist insbesondere verantwortlich für:
 
-- a. Lebenslauf,
-- b. Abschlussdiplom der universitären Ausbildung oder Fachhochschule,
-- c. Ausweise über die einschlägige Berufserfahrung.
+- a. Auswahl, Anleitung und Förderung der Zusammenarbeit der Dozierenden,
+- b. Leitung der Programmadministration und gegebenenfalls Instruktion und Führung der Programmassistenz,
+- c. Marketing und Werbung,
+- d. Antragstellung an die Studienleitung zur Zulassung von Weiterbildungsteilnehmenden,
+- e. Beratung der Weiterbildungsteilnehmenden,
+- f. Ausarbeitung von Vorschlägen für den Lehrgang und Massnahmen der Qualitätssicherung,
+- g. Evaluation der Module, des Lehrgangs sowie der Dozierenden,
+- h. Regelung der Leistungsnachweise,
+- i. Erstellung des Budgets und des Rechnungsabschlusses pro Jahr und Kurs sowie des Jahresberichts zuhanden der Fakultät.
+
+<sup>3</sup> Die Programmleitung nimmt an den Sitzungen der Studienleitung mit beratender Stimme teil.
+
+## 3 Zulassung
 
 #### § 6
 
-**Entscheid über die Zulassung**
+**Zulassung**
 
-<sup>1</sup> Je Lehrgang werden maximal 30 Teilnehmerinnen und Teilnehmer zugelassen, damit eine optimale Lehr- und Lernatmosphäre gewährleistet werden kann.
+<sup>1</sup> Im Lehrgang werden maximal 30 Teilnehmerinnen und Teilnehmer zugelassen, damit eine optimale Lehr- und Lernatmosphäre gewährleistet werden kann. Die Teilnehmerinnen und Teilnehmer werden nach Eingang der Bewerbung berücksichtigt.
 
-<sup>2</sup> Über die Zulassung zum Lehrgang entscheidet die wissenschaftliche Leitung. Sie prüft dabei, ob die zur Zulassung notwendigen Voraussetzungen erfüllt sind und berücksichtigt des Weiteren die Anmeldungen nach den Daten ihres Eingangs.
+<sup>2</sup> Vorausgesetzt wird ein abgeschlossenes Studium an einer Fachhochschule, einer Pädagogischen Hochschule oder Universität. Personen mit adäquatem Bildungs- und Erfahrungshintergrund können «sur dossier» aufgenommen werden.
 
-<sup>3</sup> Ein Anspruch auf Zulassung besteht nicht.
+<sup>3</sup> Die Studienleitung entscheidet über die Zulassung auf Antrag der Programmleitung.
+
+<sup>4</sup> Über die Äquivalenz der Abschlüsse entscheidet die Studienleitung aufgrund der Zulassungsrichtlinien der Universität Luzern nach Rücksprache mit den Studiendiensten.
+
+<sup>5</sup> Ein Anspruch auf Zulassung besteht nicht.
 
 #### § 7
 
 **Rückzug der Anmeldung und vorzeitige Beendigung**
 
-<sup>1</sup> Der Rückzug der Anmeldung zum Lehrgang und dessen vorzeitige Beendigung sind der wissenschaftlichen Leitung schriftlich mitzuteilen.
+<sup>1</sup> Der Rückzug der Anmeldung zum Lehrgang und dessen vorzeitige Beendigung sind der Programmleitung schriftlich mitzuteilen.
 
 <sup>2</sup> Wird die Anmeldung zum Lehrgang nach Erhalt der Aufnahmebestätigung zurückgezogen, ist eine Aufwandentschädigung von 100 Franken zu entrichten.
 
-<sup>3</sup> Wer den Lehrgang vorzeitig abbricht oder die Anmeldung innerhalb von zwei Monaten vor Kursbeginn zurückzieht, hat die gesamten Kosten des Lehrgangs zu bezahlen. Vorbehalten bleibt ein teilweiser Erlass bei Vorliegen triftiger Gründe.
+<sup>3</sup> Wer den Lehrgang vorzeitig abbricht oder die Anmeldung innerhalb von zwei Monaten vor Kursbeginn zurückzieht, hat die gesamten Gebühren des Lehrgangs zu bezahlen. Vorbehalten bleibt ein teilweiser Erlass bei Vorliegen triftiger Gründe.
 
-## 3 Studiengang
+## 4 Aufbau und Inhalt des Lehrgangs
 
 #### § 8
 
@@ -102,171 +135,115 @@ beschliesst:
 
 **Module**
 
-<sup>1</sup> Im Lehrgang «Agrarrecht» werden folgende Module angeboten:
+<sup>1</sup> Im Lehrgang werden folgende Module angeboten:
 
 - a. 1. Modul: Allgemeines Agrarrecht
 - b. 2. Modul: Internationales und europäisches Agrarrecht, Schweiz und EU
-- c. 3. Modul: Agrarwirtschaftsrecht, Subventionsrecht
-- d. 4. Modul: Vertragsgestaltung und Prozessrecht
-- e. 5. Modul: Produktionsrecht
-- f. 6. Modul: Raumplanungs- und Umweltrecht
-- g. 7. Modul: Steuerrecht
+- c. 3. Modul: Vertragsgestaltung und Prozessrecht
+- d. 4. Modul: Agrarwirtschafts- und Subventionsrecht
+- e. 5. Modul: Raumplanungs- und Umweltrecht
+- f. 6. Modul: Boden- und Pachtrecht
+- g. 7. Modul: Allgemeines und bäuerliches Erbrecht
 - h. 8. Modul: Immobiliarsachenrecht
-- i. 9. Modul: BGBB Boden- und Pachtrecht
-- k. 10. Modul: Bäuerliches Erbrecht und allgemeines Erbrecht
-
-<sup>2</sup> Das 1. Modul hat einen Umfang von 7 Lektionen, das 2. und das 10. Modul haben einen Umfang von 8 Lektionen. Alle weiteren Module haben einen Umfang von 16 Lektionen.
-
-<sup>3</sup> Die einzelnen Module werden in einem Zeitabstand von jeweils zwei Monaten durchgeführt.
-
-<sup>4</sup> Die Module werden in Form von Referaten, Diskussionen, Gruppenarbeiten und Übungen durchgeführt.
-
-<sup>5</sup> Es werden Präsenz während des Lehrgangs und ein Selbststudium im gleichen Umfang erwartet.
+- i. 9. Modul: Steuerrecht
+- k. 10. Modul: Sozialversicherungsrecht
 
 #### § 10
 
 **Kreditpunktesystem**
 
-<sup>1</sup> Der ganze bestandene Lehrgang ergibt einen Leistungsnachweis von 12 Kreditpunkten (ECTS).
-
-<sup>2</sup> Die Module entsprechen insgesamt 9 Kreditpunkten, die Abschlussarbeit entspricht 3 Kreditpunkten.
+<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Agrarrecht der Universität Luzern» muss der erfolgreiche Abschluss des Lehrgangs im Umfang von 12 ECTS-Punkten nachgewiesen werden.
 
 #### § 11
 
-**Zu erbringende Leistungsnachweise**
+**Anrechnung von Kreditpunkten**
 
-<sup>1</sup> Für jedes Modul wird ein Leistungsnachweis in Form einer Prüfungsnote, einer Gruppenarbeit oder eines Vortrags erbracht.
-
-<sup>2</sup> Die Prüfungen finden möglichst zeitnah nach dem entsprechenden Modul statt.
+<sup>1</sup> Die Studienleitung entscheidet über die Äquivalenz von Kompetenzen und die Anrechnung von Kreditpunkten, welche Weiterbildungsteilnehmende in anderen (Weiterbildungs-)Lehrgängen und Programmen erworben haben.
 
 #### § 12
 
-**Lehrgangsarbeit**
+**Leistungsnachweise**
 
-<sup>1</sup> Innerhalb von drei Monaten nach Abschluss des 10. Moduls ist eine Lehrgangsarbeit aus einem in den Modulen angesprochenen Bereich zu verfassen.
-
-<sup>2</sup> Das Thema ist frei wählbar und dient der Vertiefung im Lehrgang behandelter bzw. der Aufarbeitung im Lehrgang nicht behandelter Problemstellungen.
-
-<sup>3</sup> Die Lehrgangsarbeit wird von der Dozentin oder vom Dozenten des entsprechenden Fachbereichs abgenommen und benotet.
-
-<sup>4</sup> Die Abschlussarbeit muss selbständig verfasst und es dürfen keine anderen als die angegebenen Quellen benutzt worden sein.
+<sup>1</sup> Die Module 3 bis 9 bzw. 10 (9 oder 10 nach Wahl) werden mit einem Leistungsnachweis abgeschlossen.
 
 #### § 13
 
-**Notenskala**
+**Nichtbestehen und Wiederholung von Leistungsnachweisen**
 
-<sup>1</sup> Genügende Leistungen werden nach der folgenden Notenskala bewertet:
+<sup>1</sup> Der Lehrgang ist bestanden, wenn die Leistungsnachweise (§ 12) erfolgreich abgeschlossen sind und die notwendige Anzahl ECTS-Punkte erreicht ist.
 
-<table>
-<tr><th>Note</th><th>Bedeutung</th></tr>
-<tr><td>6</td><td>hervorragend</td></tr>
-<tr><td>5,5</td><td>sehr gut</td></tr>
-<tr><td>5</td><td>gut</td></tr>
-<tr><td>4,5</td><td>befriedigend</td></tr>
-<tr><td>4</td><td>genügend</td></tr>
-</table>
+<sup>2</sup> Wer einen ungenügenden Leistungsnachweis erzielt hat, kann den betreffenden Leistungsnachweis einmal wiederholen.
 
-<sup>2</sup> Ungenügende Leistungen werden mit den Noten 3,5, 3, 2,5, 2, 1,5 oder 1 bewertet.
+<sup>3</sup> Teilnehmerinnen und Teilnehmer, deren Leistungsnachweise als ungenügend bewertet werden, können bis 14 Tage nach Bekanntgabe der Note Einsicht in die Bewertungsunterlagen und eine Besprechung verlangen.
 
-<sup>3</sup> Wer ohne wichtigen Grund einer Prüfung, einer Gruppenarbeit oder einem Vortrag fernbleibt, erhält im entsprechenden Modul die Note 1.
+<sup>4</sup> Die Studienleitung kann zusätzliche Leistungsnachweise (z. B. schriftliche Arbeiten) für Teilnehmerinnen und Teilnehmer anbieten, welche aufgrund von triftigen Gründen die erforderliche Anzahl ECTS-Punkte nicht erreichen.
 
-<sup>4</sup> Als wichtige Gründe gelten namentlich Militär- und Zivildienst, Krankheit, Unfall, Schwangerschaft oder Todesfall einer nahestehenden Person.
+<sup>5</sup> Ist eine Teilnehmerin oder ein Teilnehmer mit der Bewertung nicht einverstanden, kann sie oder er innert einer Frist von 30 Tagen nach Erhalt der Bewertung eine anfechtbare Verfügung verlangen.
+
+<sup>6</sup> Wer den Lehrgang endgültig nicht besteht, erhält auf Wunsch eine Teilnahmebestätigung und eine Übersicht über die bestandenen Leistungsnachweise.
 
 #### § 14
 
-**Nichtbestehen und Wiederholung von Leistungsnachweisen**
+**Abschlussurkunde**
 
-<sup>1</sup> Der Lehrgang gilt als bestanden, wenn der Notendurchschnitt der Prüfungen, Gruppenarbeiten und Vorträge mindestens 4 (genügend) beträgt und nicht mehr als zwei Einzelnachweise mit einer ungenügenden Note abgelegt wurden; und
+<sup>1</sup> Nach dem Bestehen des Lehrgangs erhalten die Teilnehmerinnen und Teilnehmer die Abschlussurkunde «Certificate of Advanced Studies (CAS) in Agrarrecht der Universität Luzern». Die Urkunde wird im Namen der Fakultät ausgestellt.
 
-<sup>2</sup> die Lehrgangsarbeit mindestens mit 4 (genügend) benotet wird.
-
-<sup>3</sup> Wer eine ungenügende Note erhält, kann eine Prüfung einmal wiederholen bzw. erhält die Möglichkeit zur Verbesserung der zu beurteilenden Leistungen.
-
-<sup>4</sup> Wer den Zertifikatslehrgang endgültig nicht besteht, erhält auf Wunsch einen Ausweis über die bestandenen Leistungsnachweise.
-
-<sup>5</sup> Teilnehmerinnen und Teilnehmer, deren Leistungsnachweise als ungenügend bewertet werden, können Einsicht in die Bewertungsunterlagen und eine Besprechung verlangen.
-
-<sup>6</sup> Ist eine Teilnehmerin oder ein Teilnehmer mit der Bewertung nicht einverstanden, kann sie oder er innert einer Frist von 30 Tagen nach Erhalt der Bewertung eine anfechtbare Verfügung verlangen.
+<sup>2</sup> Die Abschlussurkunde wird von der Dekanin oder vom Dekan sowie von der Studienleitung unterzeichnet.
 
 #### § 15
 
-**Ausstellung und Verleihung der Abschlussausweise**
+**Qualitätssicherung und Reporting**
 
-<sup>1</sup> Nach dem Bestehen der Leistungsnachweise sowie der Lehrgangsarbeit erhalten die Teilnehmenden das mit 12 ECTS-Kreditpunkten bewertete Bologna-kompatible Zertifikat «Certificate of Advanced Studies (Universität Luzern) in Agrarrecht». Das Zertifikat wird im Namen der Rechtswissenschaftlichen Fakultät der Universität Luzern ausgestellt.
+<sup>1</sup> Der Lehrgang wird durch systematische Feedback- und Evaluationsverfahren kontrolliert und kontinuierlich evaluiert.
 
-<sup>2</sup> Der Abschlussausweis enthält die Unterschrift der wissenschaftlichen Leitung und der Dekanatsleitung.
+<sup>2</sup> Die Studienleitung berücksichtigt die Erkenntnisse aus den Qualitätskontrollen in der fortlaufenden Planung und Entwicklung sowie bei der Verpflichtung von Dozierenden.
+
+<sup>3</sup> Die Studienleitung erstattet der Fakultät zuhanden der Fakultätsversammlung auf Anfrage pro Lehrgang einen Bericht.
+
+## 5 Finanzen
 
 #### § 16
 
-**Qualitätssichernde Massnahmen**
+**Gebühren**
 
-<sup>1</sup> Der Lehrgang sowie zwei der Prüfungen werden mittels Evaluationsbögen evaluiert. Eine Berichterstattung über die Weiterbildung wird vorgenommen.
+<sup>1</sup> Die Gebühren decken die Kosten für den Besuch der einzelnen Module und für die Prüfungen. Für Prüfungswiederholungen können von der Studienleitung zusätzliche Gebühren festgelegt und erhoben werden.
 
-## 4 Kursgelder
+<sup>2</sup> Ebenfalls in den Gebühren inbegriffen sind die Pausenverpflegung, das Mittagessen der Modultage sowie die Diplomfeier samt Abendveranstaltung.
 
 #### § 17
 
-**Betrag**
+**Fälligkeit**
 
-<sup>1</sup> Die wissenschaftliche Leitung setzt die von den Teilnehmerinnen und Teilnehmern zu leistenden Kurskosten für den Lehrgang fest und veröffentlicht sie mit der jeweiligen Ausschreibung.
+<sup>1</sup> Die Gebühren sind im Voraus innert 30 Tagen nach Erhalt der Rechnung zahlbar.
 
-<sup>2</sup> Die Kursgelder decken die Kosten für den Besuch der einzelnen Module, die Prüfungen und die Korrektur der Abschlussarbeit. Für Prüfungswiederholungen werden von der wissenschaftlichen Leitung zusätzliche Gebühren festgelegt und erhoben.
-
-<sup>3</sup> Ebenfalls im Kursgeld inbegriffen sind die Pausenverpflegung, das Mittagessen sowie eine Abendveranstaltung.
-
-<sup>4</sup> Bei Abbruch der Ausbildung besteht kein Anspruch auf Rückerstattung von Kursgeldern. Beim Vorliegen triftiger Gründe kann die wissenschaftliche Leitung eine verhältnismässige Reduktion bewilligen.
+<sup>2</sup> Nichtbezahlung innert Frist gilt als Verzicht auf die Teilnahme am Lehrgang.
 
 #### § 18
 
-**Fälligkeit**
+**Finanzielles**
 
-<sup>1</sup> Die Kursgelder sind zum Voraus zahlbar.
+<sup>1</sup> Die Anstellung des Weiterbildungspersonals erfolgt gemäss den personalrechtlichen Bestimmungen des Kantons Luzern[^18-1][^18-2] und der Universität Luzern[^18-3]. Dabei werden die besonderen Bedingungen der Weiterbildung berücksichtigt.
 
-<sup>2</sup> Die wissenschaftliche Leitung setzt den Teilnehmenden mit dem Zulassungsentscheid zum Lehrgang eine Zahlungsfrist von 30 Tagen.
+<sup>2</sup> Die Höhe der Honorare der Dozierenden und die Entschädigung von weiteren für die Weiterbildung erbrachten Dienstleistungen werden von der Studienleitung im Einklang mit den vom Universitätsrat verabschiedeten Richtlinien für Honorare im Bereich der Weiterbildung und bei wissenschaftlichen Tagungen an der Universität Luzern[^18-4]) definiert.
 
-<sup>3</sup> Nichtbezahlung innert Frist gilt als Verzicht auf die Teilnahme an der Ausbildung.
+<sup>3</sup> Die beanspruchten Querschnittsleistungen der Universität im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^18-5] werden durch eine Strukturkostenpauschale von 6 Prozent auf den eingenommenen Studiengebühren abgegolten.
 
-## 5 Sonstiges
+[^18-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
+[^18-2]: SRL Nr. [52](https://srl.lu.ch/data/52/de)
+[^18-3]: SRL Nr. [539a](https://srl.lu.ch/data/539a/de)
+[^18-4]: Beschluss des Universitätsrates vom 17. Dezember 2021
+[^18-5]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
+
+## 6 Schlussbestimmungen
 
 #### § 19
 
-**Entschädigung der Lehrenden**
+**Rechtspflege**
 
-<sup>1</sup> Für Personalanstellungen inkl. Lehrbeauftragte gilt das Personal- und Besoldungsrecht des Kantons Luzern. Die Stunden- und Tagessätze für Dozierende ohne Lehrauftrag richten sich grundsätzlich nach der Höhe der Entschädigung der Lehrbeauftragten der Universität.
-
-#### § 20
-
-**Verteilung eines Überschusses**
-
-<sup>1</sup> Ein Überschuss ist vorhanden, wenn die direkten Kosten (inkl. direkte Strukturkosten der Zentralen Dienste) gedeckt sind. Dies entspricht dem Ergebnis der Deckungsbeitragsrechnung auf Stufe V.
-
-<sup>2</sup> Ein allfälliger Überschuss wird für die Dauer von drei Kurszyklen als Reserve stehen gelassen. Bei einem Defizit entscheidet die Fakultätsversammlung über die Weiterführung des Lehrgangs und begründet diesen Entscheid gegenüber dem Rektor. Falls das gesamte Defizit 30 000 Franken übersteigt, entscheidet der Rektor über die Weiterführung.
-
-<sup>3</sup> Ein Überschuss bis 30 000 Franken wird als Risikoabdeckung für zukünftige Kurse stehen gelassen. Wenn der gesamte Kursüberschuss nach dem dritten Durchführungszyklus 30 000 Franken übersteigt, wird der übersteigende Betrag folgendermassen aufgeteilt:
-
-- a. 50 Prozent für allgemeine Strukturkosten der Fakultät, Zentrale Dienste und Rektorat,
-- b. 50 Prozent zur freien Verfügung für die wissenschaftliche Leitung.
-
-<sup>4</sup> Die gleiche Aufteilung wird angewendet, falls der Lehrgang nicht mehr fortgesetzt wird.
-
-## 6 Rechtsweg
-
-#### § 21
-
-**Verwaltungsbeschwerde**
-
-<sup>1</sup> Gegen Verfügungen kann nach den Vorschriften des Gesetzes über die Verwaltungsrechtspflege des Kantons Luzern vom 3. Juli 1972[^21-1] beim Bildungs- und Kulturdepartement des Kantons Luzern schriftlich und begründet Verwaltungsbeschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen im Zusammenhang mit diesem Reglement kann nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege des Kantons Luzern[^19-1] beim Bildungs- und Kulturdepartement des Kantons Luzern Verwaltungsbeschwerde geführt werden.
 
 <sup>2</sup> Die Beschwerdefrist beträgt 30 Tage.
 
-[^21-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+[^19-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 
-## 7 Schluss- und Übergangsbestimmungen
-
-#### § 22
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Reglement tritt am 1. Februar 2011 in Kraft. Es ist zu veröffentlichen.
-
-G 2010 471
+G 2025-078
