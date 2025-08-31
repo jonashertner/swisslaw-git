@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2025-08-01
-valid_until: 2025-08-31
-version_adopted: 2025-07-01
+version: 2025-09-01
+valid_until: 2025-12-31
+version_adopted: 2025-08-26
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5557/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5562/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. August 2025)
+vom 25. Oktober 2004 (Stand 1. September 2025)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -1919,7 +1919,7 @@ Der oder die Arbeitnehmende kann ausnahmsweise in einer tieferen Lohnklasse (Ein
 
 - a) nach Dienstplan an Werktagen zwischen 19.00 und 7.00 Uhr oder am Samstag, am Sonntag oder an Feiertagen arbeiten;
 
-- b) ohne Dienstplan (SOJAZ) auf spezielle Anordnung hin am Sonntag oder an Feiertagen arbeiten;
+- b) ohne Dienstplan auf spezielle Anordnung der oder des zuständigen Vorgesetzten an Werktagen zwischen 19.00 und 7.00 Uhr oder am Samstag, am Sonntag oder an Feiertagen arbeiten;[^141-1]
 
 - c) im Bereitschaftsdienst (Pikett- oder Präsenzdienst) arbeiten;
 
@@ -1927,15 +1927,15 @@ Der oder die Arbeitnehmende kann ausnahmsweise in einer tieferen Lohnklasse (Ein
 
 <sup>2</sup> Lehrpersonen sind vom Geltungsbereich ausgenommen.
 
-<sup>3</sup> Richter und Richterinnen sind vom Geltungsbereich ausgenommen.[^141-1]
+<sup>3</sup> Richter und Richterinnen sind vom Geltungsbereich ausgenommen.[^141-2]
 
-[^141-1]: § 141 Absatz 3 eingefügt am 1. April 2025.
+[^141-1]: § 141 Absatz 1 Buchstabe b Fassung vom 26. August 2025.
+[^141-2]: § 141 Absatz 3 eingefügt am 1. April 2025.
+[^141-3]: § 142 aufgehoben am 26. August 2025.
 
 #### § 142
 
-**Bewilligungspflichtige Vergütungen**
-
-Für angeordnete Einsätze von Arbeitnehmenden ohne Dienstplan (SOJAZ) zwischen 19.30 und 6.30 Uhr oder am Samstag kann die Anstellungsbehörde bei besonderen Fällen eine Vergütung für inkonveniente Dienste (nach § 143 ff. GAV) bewilligen.
+**…[^141-3]**
 
 § 142<sup>bis</sup>.[^142-1] Geldzulage für Spontanereignis Mitarbeitende ohne Bereitschaftsdienst (Pikett- oder Präsenzdienst), die aufgrund eines unvorhergesehenen und unaufschiebbaren Falles oder Ereignisses aus ihrer Freizeit auf Abruf in den Einsatz gelangen, haben Anspruch auf eine Zulage von 200 Franken pro Einsatz.
 
@@ -1972,7 +1972,12 @@ Die Zulage für Bereitschaftsdienst beträgt während der gesamten Dauer:
 
 - a) des Präsenzdienstes 6.50 Franken pro Stunde;
 
-- b) des Pikettdienstes 4.50 Franken pro Stunde.
+- b) des Pikettdienstes mit einer Reaktionszeit von bis zu maximal 4 Stunden 4.50 Franken pro Stunde;[^145-1]
+
+- d) des Pikettdienstes mit einer Reaktionszeit von mehr als 4 bis maximal 24 Stunden 1.00 Franken pro Stunde.[^145-2]
+
+[^145-1]: § 145 Buchstabe b Fassung vom 26. August 2025.
+[^145-2]: § 145 Buchstabe c eingefügt am 26. August 2025.
 
 #### § 146
 
@@ -7132,7 +7137,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 (§ 46) am 1. August 2025;
 
-- 1\. Juli 2025 am 1. August 2025.
+- 1\. Juli 2025 am 1. August 2025;
+
+- 26\. August 2025 am 1. September 2025.
 
 [^520-1]: Titel XI aufgehoben am 8. Juni 2010.
 
