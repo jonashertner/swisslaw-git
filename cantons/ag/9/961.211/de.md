@@ -4,13 +4,12 @@ number: "961.211"
 title: Verordnung zum Einführungsgesetz zum Arbeitsrecht
 short: V EG ArR
 language: de
-version: 2024-07-01
-valid_until: 2025-08-31
-version_adopted: 2024-03-13
+version: 2025-09-01
+version_adopted: 2024-11-27
 adopted: 2012-05-23
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3523/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3836/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3523/pdf_file"
 
 (V EG ArR)
 
-Vom 23.05.2012 (Stand 01.07.2024)
+Vom 23.05.2012 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 2 Abs. 2, 3, 5, 13 und 25 des Einführungsgesetzes zum Arbeitsrecht (EG ArR) vom 8. November 2011[^ingress-1],
+gestützt auf die §§ 2 Abs. 2, 3, 5, 7, 13 und 25 des Einführungsgesetzes zum Arbeitsrecht (EG ArR) vom 8. November 2011[^ingress-1],
 
 beschliesst:
 
@@ -85,6 +84,12 @@ beschliesst:
 **Gesuche, Anzeigen**
 
 <sup>1</sup> Bewilligungs- und Genehmigungsgesuche sowie Anzeigen wegen Nichtbefolgung der Arbeitsgesetzgebung und gestützt darauf erlassene Verfügungen sind dem AWA einzureichen, wenn gemäss den eidgenössischen Vorschriften nichts anderes gilt.
+
+#### § 6a
+
+**Bewilligungsfreie Sonntagsverkäufe**
+
+<sup>1</sup> Die Gemeinden entscheiden mindestens neun Monate vor dem massgebenden Termin über die Festlegung eines weiteren Sonntagsverkaufstags. Sie melden dem AWA den weiteren Sonntagsverkaufstag spätestens zehn Tage nach Eintritt der Rechtskraft ihres entsprechenden Beschlusses.
 
 ### 1.3.
 
