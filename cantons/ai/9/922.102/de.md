@@ -4,13 +4,13 @@ number: "922.102"
 title: Standeskommissionsbeschluss über die Jagd
 short: StKB Jagd
 language: de
-version: 2025-07-01
-valid_until: 2025-08-31
-version_adopted: 2025-07-01
+version: 2025-09-01
+valid_until: 2026-06-30
+version_adopted: 2025-08-26
 adopted: 2021-07-06
 in_force: 2021-07-15
 url: "https://ai.clex.ch/app/de/texts_of_law/922.102"
-pdf: "https://ai.clex.ch/api/de/versions/2384/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2384/pdf_file"
 
 (StKB Jagd)
 
-vom 06.07.2021 (Stand 01.07.2025)
+vom 06.07.2021 (Stand 01.09.2025)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
