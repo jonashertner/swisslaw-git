@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2025-06-02
+version: 2025-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250602-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 2. Juni 2025)
+vom 18. Mai 2005 (Stand am 1. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,12 +25,12 @@ gestützt auf die Artikel 2 Absatz 4, 19, 22 Absatz 2, 24, 38, 39 Absatz 2, 44 A
 
 verordnet:
 
-[^ingress-1]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-4]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-5]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-4]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-5]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-7]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -62,10 +62,10 @@ Diese Verordnung gilt nicht für:
 - b.[^1-6] die Durchfuhr von Stoffen, Zubereitungen und Gegenständen unter Zollüberwachung, sofern dabei keine Be- oder Verarbeitung erfolgt.
 
 [^1-1]: Fassung gemäss Anhang 6 Ziff. 11 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^1-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^1-2]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^1-3]: Fassung gemäss Anhang 3 Ziff. II 8 der V vom 22. Juni 2005 über den Verkehr mit Abfällen, in Kraft seit 1. Jan. 2006 ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)).
-[^1-4]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^1-5]: [SR 814.620](https://fedlex.data.admin.ch/eli/cc/2021/633)
+[^1-4]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^1-5]: [SR 814.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9577)
 [^1-6]: Fassung gemäss Anhang 4 Ziff. 45 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
@@ -304,10 +304,10 @@ Der Bund ist zuständig für:
 
 <sup>3</sup> Für Dünger gelten die Vollzugsvorschriften der Düngerverordnung vom 1. November 2023[^16-4] zusätzlich.[^16-5]
 
-[^16-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^16-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^16-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
+[^16-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^16-3]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^16-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-4]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 [^16-5]: Fassung gemäss Anhang 5 Ziff. II 3 der Düngerverordnung vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 17
@@ -359,7 +359,7 @@ Sie können bestimmen, dass Personen, die Dünger oder Pflanzenschutzmittel in b
 Die Vertraulichkeit von Daten sowie der Datenaustausch unter Vollzugsbehörden und mit dem Ausland richten sich nach den Artikeln 73–76 ChemV[^21-2].
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^21-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^21-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 22
 
@@ -367,7 +367,7 @@ Die Vertraulichkeit von Daten sowie der Datenaustausch unter Vollzugsbehörden u
 
 Die Gebührenpflicht und die Gebührenbemessung für Verwaltungshandlungen der Bundesvollzugsbehörden nach dieser Verordnung richten sich nach der Chemikaliengebührenverordnung vom 18. Mai 2005[^22-1].
 
-[^22-1]: [SR 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+[^22-1]: [SR 813.153.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9404)
 
 ## 4. Kapitel: Schlussbestimmungen
 
@@ -664,7 +664,7 @@ Anhang 1.3[^t-4]
 - a. nach dem Stand der Technik für die betreffende Verwendung ein Ersatz für Chloroform fehlt; und
 - b. nicht mehr Chloroform eingesetzt wird, als für den angestrebten Zweck nötig ist, höchstens aber 20 Liter pro Jahr.
 
-[^annex13-lvlu1-lvl2-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex13-lvlu1-lvl2-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Besondere Kennzeichnung
 
@@ -741,7 +741,7 @@ Verboten ist das Inverkehrbringen von Zubereitungen und Gegenständen, die:
 - a. ozonschichtabbauende Stoffe enthalten;
 - b. mit ozonschichtabbauenden Stoffen hergestellt worden und in einer Anlage zum Montrealer Protokoll vom 16. September 1987[^annex14-lvlu1-lvl3-lvl31-1] über Stoffe, die zu einem Abbau der Ozonschicht führen (Montrealer Protokoll) aufgeführt sind.
 
-[^annex14-lvlu1-lvl3-lvl31-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex14-lvlu1-lvl3-lvl31-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### 3.2 Ausnahmen
 
@@ -751,10 +751,10 @@ Das Verbot nach Ziffer 3.1 gilt nicht für das Inverkehrbringen von:
 - b. Zubereitungen und Gegenständen, die nach den Bestimmungen der Anhänge 2.9–2.11 in Verkehr gebracht werden dürfen und, falls sie eingeführt werden, deren Einfuhr aus Staaten erfolgt, die sich an die von der Schweiz genehmigten Bestimmungen des Montrealer Protokolls und seiner Änderungen vom 29. Juni 1990[^annex14-lvlu1-lvl3-lvl32-1], 25. November 1992[^annex14-lvlu1-lvl3-lvl32-2], 17. September 1997[^annex14-lvlu1-lvl3-lvl32-3] und 3. Dezember 1999[^annex14-lvlu1-lvl3-lvl32-4] halten;
 - c. Zubereitungen, die gemäss Ziffer 1 Absatz 2 den ozonschichtabbauenden Stoffen gleichgestellt sind.
 
-[^annex14-lvlu1-lvl3-lvl32-1]: [SR 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex14-lvlu1-lvl3-lvl32-2]: [SR 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex14-lvlu1-lvl3-lvl32-3]: [SR 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex14-lvlu1-lvl3-lvl32-4]: [SR 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex14-lvlu1-lvl3-lvl32-1]: [SR 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
+[^annex14-lvlu1-lvl3-lvl32-2]: [SR 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
+[^annex14-lvlu1-lvl3-lvl32-3]: [SR 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
+[^annex14-lvlu1-lvl3-lvl32-4]: [SR 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
 
 ### 3.3 Einfuhr von Stoffen
 
@@ -779,7 +779,7 @@ Einer Einfuhrbewilligung des BAFU bedarf, wer ozonschichtabbauende Stoffe nach Z
 
 <sup>3</sup> Das BAFU informiert die Kantone und das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] über die Erteilung und den Entzug von Generaleinfuhrbewilligungen.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ### 3.3.4 Gesuch
 
@@ -798,7 +798,7 @@ Einer Einfuhrbewilligung des BAFU bedarf, wer ozonschichtabbauende Stoffe nach Z
 
 <sup>2</sup> Das BAFU kann weitere Angaben über Herkunft und Bestimmung der Stoffe verlangen.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 3.3.5 Entscheid
 
@@ -814,7 +814,7 @@ Einer Einfuhrbewilligung des BAFU bedarf, wer ozonschichtabbauende Stoffe nach Z
 
 <sup>3</sup> Bei der Einlagerung in ein offenes Zolllager, in ein Lager für Massengüter oder in ein Zollfreilager muss die Lagerhalterin oder die Einlagererin die Nummer der Einfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 4 Ausfuhr
 
@@ -973,7 +973,7 @@ Anhang 1.5[^t-6]
 
 <sup>3</sup> Als regenerierte in der Luft stabile Stoffe gelten Stoffe, die durch Verwertung gebrauchter in der Luft stabiler Stoffe ohne deren chemische Veränderung hergestellt worden sind.
 
-[^annex15-lvlu1-lvl1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex15-lvlu1-lvl1-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^annex15-lvlu1-lvl1-2]: Die Liste der gebräuchlichsten anderen fluorhaltigen organischen Verbindungen kann unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; in der Luft stabile Stoffe abgerufen werden.
 
 ### 2 In der Luft stabile Stoffe, die ozonschichtabbauende Stoffe sind
@@ -1047,7 +1047,7 @@ Eine Einfuhrbewilligung wird, unter Vorbehalt von Ziffer 8 Absatz 1, auf Gesuch 
 
 <sup>2</sup> Das BAFU kann weitere Angaben über Herkunft und Bestimmung der Stoffe verlangen.
 
-[^annex15-lvlu1-lvl4-lvl43-lvl434-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex15-lvlu1-lvl4-lvl43-lvl434-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 4.3.5 Entscheid
 
@@ -1063,7 +1063,7 @@ Eine Einfuhrbewilligung wird, unter Vorbehalt von Ziffer 8 Absatz 1, auf Gesuch 
 
 <sup>3</sup> Bei der Einlagerung in ein offenes Zolllager, in ein Lager für Massengüter oder in ein Zollfreilager muss die Lagerhalterin oder die Einlagererin die Nummer der Einfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
 
-[^annex15-lvlu1-lvl4-lvl43-lvl436-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex15-lvlu1-lvl4-lvl43-lvl436-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 5 Ausfuhr
 
@@ -1254,7 +1254,7 @@ Das BAFU ist für die Datenberichterstattung gemäss Artikel 7 Absatz 3 des Mont
 
 Für Behälter, die in der Luft stabile Stoffe, die in Anhang A des Protokolls von Kyoto vom 11. Dezember 1997[^annex15-lvlu1-lvl10-1] zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen (Kyoto-Protokoll) aufgeführt sind, enthalten, und Schaltanlagen, die Schwefelhexafluorid oder Zubereitungen mit Schwefelhexafluorid enthalten, ist bis zum 31. Mai 2020 auch eine Kennzeichnung nach Ziffer 5 zur ChemRRV in der Fassung vom 10. Dezember 2010[^annex15-lvlu1-lvl10-2] zulässig.
 
-[^annex15-lvlu1-lvl10-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex15-lvlu1-lvl10-1]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 [^annex15-lvlu1-lvl10-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 ### 11 Übergangsbestimmung zur Änderung vom 24. November 2021
@@ -1318,7 +1318,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1403,8 +1403,8 @@ Anhang 1.7[^t-8]
 <sup>4</sup> Für das Inverkehrbringen von Batterien, Verpackungen und Verpackungsbestandteilen, Fahrzeugen und deren Werkstoffen und Bauteilen, Holzwerkstoffen sowie von Elektro- und Elektronikgeräten und deren Ersatzteilen gelten die Anhänge 2.15–2.18.
 
 [^annex17-lvlu1-lvl1-lvl11-1]: In Kraft seit 1. Jan. 2021 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^annex17-lvlu1-lvl1-lvl11-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex17-lvlu1-lvl1-lvl11-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex17-lvlu1-lvl1-lvl11-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex17-lvlu1-lvl1-lvl11-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 1.2 Ausnahmen
 
@@ -1483,7 +1483,7 @@ Keine Einfuhrbewilligung benötigt, wer:
 - c. einen in Buchstabe a oder b genannten Stoff oder eine dort genannte Zubereitung zur Verwendung als Stoff, in einer Zubereitung oder in einem Gegenstand einführt, sofern der Stoff, die Zubereitung oder der Gegenstand für Analyse- und Forschungszwecke bestimmt ist.
 
 [^annex17-lvlu1-lvl1-lvl14-lvl142-1]: Die Liste der Vertragsparteien kann im Internet beim BAFU unter: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Chemikalien &gt; Fachinformationen &gt; Bestimmungen und Verfahren &gt; Quecksilber abgerufen werden.
-[^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [SR 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
+[^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [SR 0.814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3560)
 
 ### 1.4.3 Bewilligungsvoraussetzungen
 
@@ -1511,7 +1511,7 @@ Ein Gesuch muss mindestens enthalten:
 
 - d. eine Bescheinigung nach Ziffer 1.4.3 Buchstabe c.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 1.4.5 Entscheid
 
@@ -1530,7 +1530,7 @@ Ein Gesuch muss mindestens enthalten:
 
 <sup>3</sup> Bei der Einlagerung in ein offenes Zolllager, in ein Lager für Massengüter oder in ein Zollfreilager muss die Lagerhalterin oder die Einlagererin die Nummer der Einfuhrbewilligung in einer Bestandesaufzeichnung vermerken.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 1.4.7 Aufbewahrungspflicht
 
@@ -1705,7 +1705,7 @@ Anhang 1.8[^t-9]
 
 <sup>3</sup> Verboten ist das Inverkehrbringen von waschbaren Textilfasern sowie textilen Halb- und Fertigprodukten wie Fasern, Garne, Gewebe, Gestrickteile, Heimtextilien, Accessoires oder Bekleidung, wenn ihr Massengehalt an Nonylphenolethoxylaten bezogen auf den textilen Bestandteil 0,01 Prozent oder mehr beträgt.
 
-[^annex18-lvlu1-lvl1-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex18-lvlu1-lvl1-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 2 Ausnahmen
 
@@ -1763,7 +1763,7 @@ Textilien, die Stoffe nach Ziffer 1.1 enthalten und die nach ihrer Bestimmung di
 <sup>2</sup> Als Kraftfahrzeug im Sinne von Ziffer 4 Buchstabe a Nummern 2 und 4 gilt ein Fahrzeug, das unter die Klasse M, N oder O gemäss Anhang II Teil A Ziffer 1 der Richtlinie 2007/46/EG[^annex19-lvlu1-lvl2-lvl21-4] fällt.
 
 [^annex19-lvlu1-lvl2-lvl21-1]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, Fassung gemäss ABl. L 212 vom 22.8.2018, S. 1.
-[^annex19-lvlu1-lvl2-lvl21-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex19-lvlu1-lvl2-lvl21-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex19-lvlu1-lvl2-lvl21-3]: Die Liste der Staaten kann im Internet bei der ICAO unter: [www.icao.int](http://www.icao.int) &gt; About ICAO &gt; List Member States abgerufen werden.
 [^annex19-lvlu1-lvl2-lvl21-4]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1347, ABl. L 192 vom 24.7.2017, S. 1.
 
@@ -1845,18 +1845,18 @@ Anhang 1.10[^t-11]
 
 ## Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022, ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. I der V des BAG vom 5. Sept. 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)).
+[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), Anhang Ziff. 2 der V vom 11. März 2022, ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)), Ziff. I der V des BAG vom 5. Sept. 2023 ([AS 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)) und vom 11. Aug. 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 508](https://fedlex.data.admin.ch/eli/oc/2025/508)).
 
 ### 1 Verbot
 
-<sup>1</sup> Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe nach Anhang XVII Anlagen 1–6 der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^annex110-lvlu1-lvl1-1] sowie Stoffe und Zubereitungen, die solche Stoffe enthalten, dürfen nicht an die breite Öffentlichkeit abgegeben werden, wenn ihr Massengehalt den massgebenden Grenzwert nach Anhang I Ziffer 1.1.2.2 der Verordnung (EG) Nr. 1272/ 2008[^annex110-lvlu1-lvl1-2] übersteigt.
+<sup>1</sup> Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe nach Anhang XVII Anlagen 1–6 der Verordnung (EG) Nr. 1907/2006 (EU-REACH-Verordnung)[^annex110-lvlu1-lvl1-1] sowie Stoffe und Zubereitungen, die solche Stoffe enthalten, dürfen nicht an die breite Öffentlichkeit abgegeben werden, wenn ihr Massengehalt den massgebenden Grenzwert nach Anhang I Ziffer 1.1.2.2 der Verordnung (EG) Nr. 1272/2008[^annex110-lvlu1-lvl1-2] übersteigt.
 
 <sup>2</sup> Das Bundesamt für Gesundheit (BAG) passt im Einvernehmen mit dem Bundesamt für Umwelt (BAFU) sowie dem SECO Absatz 1 an Änderungen von Anhang XVII Anlagen 1–6 der Verordnung (EG) Nr. 1907/2006 an.
 
 <sup>3</sup> Verboten ist die Verwendung von Thermopapier mit einem Massengehalt an Bisphenol A (CAS-Nr. 80-05-7) oder Bisphenol S (CAS-Nr. 80-09-1) von 0,02 Prozent oder mehr.
 
-[^annex110-lvlu1-lvl1-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2023/1132, ABl. L 149 vom 9.6.2023, S. 49.
-[^annex110-lvlu1-lvl1-2]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2023/1435, ABl. L 176 vom 11.7.2023, S. 6.
+[^annex110-lvlu1-lvl1-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2025/1731, ABl. L, 2025/1731, 11.8.2025.
+[^annex110-lvlu1-lvl1-2]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2024/197, ABl. L, 2024/197, 5.1.2024.
 
 ### 2 Ausnahmen
 
@@ -1873,7 +1873,7 @@ Anhang 1.10[^t-11]
 <sup>3</sup> Für krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe in kosmetischen Mitteln gilt die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex110-lvlu1-lvl2-2].
 
 [^annex110-lvlu1-lvl2-1]: Siehe Fussnote zu Ziffer 1 Absatz 1.
-[^annex110-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex110-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Besondere Kennzeichnung
 
@@ -1962,7 +1962,7 @@ Anhang 1.12[^t-13]
 
 <sup>2</sup> Für Benzine bleiben die Bestimmungen der Luftreinhalte-Verordnung vom 16. Dezember 1985[^annex112-lvlu1-lvl1-lvl12-1] vorbehalten.
 
-[^annex112-lvlu1-lvl1-lvl12-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex112-lvlu1-lvl1-lvl12-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 2 Toluol
 
@@ -2006,7 +2006,7 @@ Als blauer Farbstoff gilt der Azofarbstoff mit den Bestandteilen:
 
 <sup>2</sup> Für Azofarbstoffe, die in Textilien und Lederwaren verwendet werden und Stoffe nach Ziffer 2 Absatz 1 oder weitere aromatische Amine freisetzen können, gilt Artikel 64 Absatz 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex113-lvlu1-lvl3-1].
 
-[^annex113-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex113-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 4 Übergangsbestimmung
 
@@ -2044,7 +2044,7 @@ Verboten ist das Inverkehrbringen von:
 
 [^annex114-lvlu1-lvl1-lvl13-1]
 
-[^annex114-lvlu1-lvl1-lvl13-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex114-lvlu1-lvl1-lvl13-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Für Dioctylzinnverbindungen enthaltende textile Materialien, Ledererzeugnisse und andere Gegenstände für den Humankontakt sowie für Dibutylzinnverbindungen enthaltende Bedarfsgegenstände, die dazu bestimmt sind, im Zusammenhang mit der Herstellung, Verwendung oder Verpackung von Lebensmitteln mit diesen in Berührung zu kommen, gilt die Lebensmittel- und Gebrauchsgegenständeverordnung.
 
@@ -2062,7 +2062,7 @@ Für Dioctylzinnverbindungen enthaltende textile Materialien, Ledererzeugnisse u
 
 <sup>3</sup> Als trisubstituierte zinnorganische Verbindungen enthaltende Gegenstände gelten Gegenstände, die trisubstituierte zinnorganische Verbindungen enthalten und deren Massengehalt an Zinn in den Gegenständen oder Teilen davon 0,1 Prozent oder mehr beträgt.
 
-[^annex114-lvlu1-lvl2-lvl21-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex114-lvlu1-lvl2-lvl21-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 2.2 Verbote
 
@@ -2428,7 +2428,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 - e. bewilligter Verwendungszweck;
 - f. Dauer und Nebenbestimmungen der Bewilligung.
 
-[^annex117-lvlu1-lvl2-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex117-lvlu1-lvl2-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^annex117-lvlu1-lvl2-2]: Siehe Fussnote zum Titel dieses Anhangs.
 [^annex117-lvlu1-lvl2-3]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2015/491, ABl. L 78 vom 24.3.2015, S. 12.
 
@@ -2554,8 +2554,8 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 
 <sup>2</sup> Das BAFU passt im Einvernehmen mit dem BAG und dem SECO die Bestimmungen nach Absatz 1 an. Es berücksichtigt dabei die Änderungen des Anhangs XIV der Verordnung (EG) Nr. 1907/2006[^annex117-lvlu1-lvl5-3] und die Einträge in Anhang 3 ChemV.
 
-[^annex117-lvlu1-lvl5-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^annex117-lvlu1-lvl5-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex117-lvlu1-lvl5-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex117-lvlu1-lvl5-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex117-lvlu1-lvl5-3]: Siehe Fussnote zum Titel dieses Anhangs.
 
 Anhang 1.18[^t-19]
@@ -2593,7 +2593,7 @@ Anhang 1.18[^t-19]
 <sup>6</sup> Als Kraftfahrzeug im Sinne von Ziffer 5 Buchstabe a Nummern 2 und 4 gilt ein Fahrzeug, das unter die Klasse M, N oder O gemäss Anhang II Teil A Ziffer 1 der Richtlinie 2007/46/EG[^annex118-lvlu1-lvl1-4] fällt.
 
 [^annex118-lvlu1-lvl1-1]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, Fassung gemäss ABl. L 212 vom 22.8.2018, S. 1.
-[^annex118-lvlu1-lvl1-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex118-lvlu1-lvl1-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex118-lvlu1-lvl1-3]: Die Liste der Staaten kann im Internet bei der ICAO unter: [www.icao.int](http://www.icao.int) &gt; About ICAO &gt; List Member States abgerufen werden.
 [^annex118-lvlu1-lvl1-4]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1347, ABl. L 192 vom 24.7.2017, S. 1.
 
@@ -2607,7 +2607,7 @@ Anhang 1.18[^t-19]
 
 [^annex118-lvlu1-lvl3-1]
 
-[^annex118-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex118-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Für das Inverkehrbringen von Phthalat enthaltenden Bedarfsgegenständen, Spielzeugen und Gebrauchsgegenständen für Säuglinge und Kleinkinder gilt die LGV.
 
@@ -2623,7 +2623,7 @@ Für das Inverkehrbringen von Phthalat enthaltenden Bedarfsgegenständen, Spielz
 [^annex118-lvlu1-lvl4-1]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 1027/2012, ABl. L 316 vom 14.11.2012, S. 38.
 [^annex118-lvlu1-lvl4-2]: Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel, ABl. L 311 vom 28.11.2001, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 596/2009, ABl. L 188 vom 18.7.2009, S. 14.
 [^annex118-lvlu1-lvl4-3]: Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel. ABl. L 311 vom 28.11.2001, S. 67; zuletzt geändert durch Verordnung (EU) 2017/745, ABl. L 117 vom 5.5.2017, S. 1.
-[^annex118-lvlu1-lvl4-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex118-lvlu1-lvl4-4]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### 5 Übergangsbestimmungen
 
@@ -2704,7 +2704,7 @@ Anhang 1.19[^t-20]
 - a. das Inverkehrbringen von D5 zur Verwendung in der chemischen Reinigung von Textilien, Leder und Pelzen;
 - b. die Verwendung von D5 in der chemischen Reinigung von Textilien, Leder und Pelzen, wenn die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen von D5 getroffen worden sind.
 
-[^annex119-lvlu1-lvl2-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex119-lvlu1-lvl2-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### 3 Übergangsbestimmungen
 
@@ -2722,7 +2722,7 @@ Anhang 1.19[^t-20]
 
 <sup>2</sup> Die Verbote nach Ziffer 1 Absatz 2 gelten nicht für die Verwendung von D4 und D6 als Stoffe und in Zubereitungen für die chemische Reinigung von Textilien, Leder und Pelzen bis zum 6. Juni 2026.
 
-[^annex119-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex119-lvlu1-lvl3-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Anhang 2
 
@@ -2821,7 +2821,7 @@ Anhang 2.1[^t-21]
 
 [^annex21-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
 [^annex21-lvlu1-lvl3-2]: Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 342 vom 22.12.2009, S. 59; zuletzt geändert durch Verordnung (EU) Nr. 358/2014, ABl. L 107 vom 10.4.2014, S. 5.
-[^annex21-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex21-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4 Gebrauchsanweisung
 
@@ -2870,7 +2870,7 @@ Anhang 2.1[^t-21]
 
 <sup>5</sup> Es kann auf begründeten Antrag weitere Ausnahmen vom Verbot nach Ziffer 2 Absatz 1 Buchstabe g zulassen für Tenside, die nicht in den Anhängen V oder VI der Verordnung (EG) Nr. 648/2004 aufgeführt sind, sofern sie in Textilwaschmitteln eingesetzt werden, die ausschliesslich ausserhalb des häuslichen Bereichs verwendet werden. Es berücksichtigt dabei die in Anhang IV der Verordnung (EG) Nr. 648/2004 festgelegten Kriterien.
 
-[^annex21-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex21-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 7 Übergangsbestimmungen
 
@@ -2994,7 +2994,7 @@ Anhang 2.2[^t-22]
 
 [^annex22-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
 [^annex22-lvlu1-lvl3-2]: Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 342 vom 22.12.2009, S. 59; zuletzt geändert durch Verordnung (EU) Nr. 358/2014, ABl. L 107 vom 10.4.2014, S. 5.
-[^annex22-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex22-lvlu1-lvl3-3]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4 Gebrauchsanweisung
 
@@ -3049,8 +3049,8 @@ Anhang 2.2[^t-22]
 
 <sup>6</sup> Es kann auf begründeten Antrag weitere Ausnahmen vom Verbot nach Ziffer 2 Absatz 1 Buchstabe e zulassen für Tenside, die nicht in den Anhängen V oder VI der Verordnung (EG) Nr. 648/2004 aufgeführt sind. Es berücksichtigt dabei die in Anhang IV der Verordnung (EG) Nr. 648/2004 festgelegten Kriterien.
 
-[^annex22-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex22-lvlu1-lvl6-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex22-lvlu1-lvl6-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex22-lvlu1-lvl6-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### 7 Übergangsbestimmungen
 
@@ -3089,7 +3089,7 @@ Verboten ist das Inverkehrbringen von Scheibenwaschflüssigkeiten und -frostschu
 
 ### 1<sup>bis</sup> Glykolether
 
-### 1 <sup>bis</sup>.1 Verbote
+### 1<sup>bis</sup>.1 Verbote
 
 Verboten ist das Inverkehrbringen von:
 
@@ -3105,7 +3105,7 @@ Verboten ist das Inverkehrbringen von:
 
 - b. Spritzfarben und Reinigungssprays in Aerosolpackungen mit einem Massengehalt von 3 Prozent oder mehr 2-(2-Butoxyethoxy)ethanol (DEGBE, CAS-Nr. 112-34-5), die für die Abgabe an die breite Öffentlichkeit bestimmt sind.
 
-### 1 <sup>bis</sup>.2 Besondere Kennzeichnung
+### 1<sup>bis</sup>.2 Besondere Kennzeichnung
 
 <sup>1</sup> Farben mit einem Massengehalt von 3 Prozent oder mehr DEGBE, die nicht zum Verspritzen und die für die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Darf nicht in Farbspritzausrüstung verwendet werden».
 
@@ -3159,7 +3159,7 @@ Verboten sind:
 - b. die Menge und das Treibhauspotenzial der eingesetzten in der Luft stabilen Stoffe nicht grösser sind, als nach dem Stand der Technik für den angestrebten Zweck nötig ist; und
 - c. die Emissionen von in der Luft stabilen Stoffen während des ganzen Lebenszyklus der vorgesehenen Verwendung so gering wie möglich gehalten werden.
 
-[^annex23-lvlu1-lvl4-lvl42-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex23-lvlu1-lvl4-lvl42-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 4.3 Besondere Kennzeichnung
 
@@ -3219,7 +3219,7 @@ Der Kanton kann von Inhaberinnen halogenierter Lösungsmittelabfälle und von Be
 <sup>2</sup> Für Behälter, die in der Luft stabile Stoffe, die in Anhang A des Protokolls von Kyoto vom 11. Dezember 1997[^annex23-lvlu1-lvl6-2] zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen (Kyoto-Protokoll) aufgeführt sind, enthalten, ist bis zum 31. Mai 2020 auch eine Kennzeichnung nach Ziffer 4.3 zur ChemRRV in der Fassung vom 7. November 2012 zulässig.
 
 [^annex23-lvlu1-lvl6-1]: [AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
-[^annex23-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex23-lvlu1-lvl6-2]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 Anhang 2.4[^t-24]
 
@@ -3247,7 +3247,7 @@ Anhang 2.4[^t-24]
 - h. Kreosot, Holz (CAS-Nr. 8021-39-4);
 - i. Niedrigtemperatur-Kohleteeralkalin, Extraktrückstände (CAS-Nr. 122384-78-5).
 
-[^annex24-lvlu1-lvl1-lvl11-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex24-lvlu1-lvl1-lvl11-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 1.2 Verbote
 
@@ -3284,7 +3284,7 @@ Anhang 2.4[^t-24]
 
 <sup>5</sup> Die Anmeldestelle (Art. 77 der Chemikalienverordnung vom 5. Juni 2015[^annex24-lvlu1-lvl1-lvl13-1]) kann Ausnahmen vom Verbot nach Ziffer 1.2 Absatz 3 gewähren. Sie trifft ihren Entscheid im Einvernehmen mit den nach Artikel 52 VBP fachlich zuständigen Beurteilungsstellen.
 
-[^annex24-lvlu1-lvl1-lvl13-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex24-lvlu1-lvl1-lvl13-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 1.4 Verwendung in Grundwasserschutzzonen
 
@@ -3433,9 +3433,9 @@ Anhang 2.5[^t-25]
 
 <sup>5</sup> Für die Verwendung von Pflanzenschutzmitteln auf und an Gleisanlagen ausserhalb der Zonen S1, S2 und S<sub>h</sub> von Grundwasserschutzzonen legt das Bundesamt für Verkehr die zum Schutz der Umwelt erforderlichen Einschränkungen und Verbote fest. Es berücksichtigt dabei die örtlichen Verhältnisse und hört vor dem Entscheid die betroffenen Kantone an.
 
-[^annex25-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex25-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex25-lvlu1-lvl1-lvl11-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
-[^annex25-lvlu1-lvl1-lvl11-3]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^annex25-lvlu1-lvl1-lvl11-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### 1.2 Ausnahmen
 
@@ -3612,7 +3612,7 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 <sup>3</sup> Soll die Ausfuhr in einen Staat erfolgen, der Vertragspartei des Rotterdamer Übereinkommens ist, so wird eine Ausfuhrbewilligung zudem nur erteilt, wenn dem BAFU die Zustimmung des Einfuhrstaates vorliegt.
 
 [^annex25-lvlu1-lvl4-lvl42-lvl422-1]: Die Liste kann beim BAFU, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter: [www.pic.int](http://www.pic.int) &gt; Countries &gt; Status of ratifications
-[^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [SR 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
+[^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [SR 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
 
 ### 4.2.3 Gesuch
 
@@ -3627,7 +3627,7 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 - g. das Sicherheitsdatenblatt oder die Sicherheitsdatenblätter nach Artikel 20 der Chemikalienverordnung vom 5. Juni 2015[^annex25-lvlu1-lvl4-lvl42-lvl423-1];
 - h. gegebenenfalls eine Bescheinigung nach Ziffer 4.2.2 Absatz 2.
 
-[^annex25-lvlu1-lvl4-lvl42-lvl423-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex25-lvlu1-lvl4-lvl42-lvl423-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4.2.4 Entscheid
 
@@ -3648,8 +3648,8 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 
 <sup>4</sup> Für die Kennzeichnung und die Bereitstellung des Sicherheitsdatenblattes gelten die Bestimmungen von Artikel 5 Absätze 1 und 3 der PIC-Verordnung vom 10. November 2004[^annex25-lvlu1-lvl4-lvl42-lvl425-2].
 
-[^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [SR 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
 
 Anhang 2.6[^t-26]
 
@@ -3665,7 +3665,7 @@ Anhang 2.6[^t-26]
 
 <sup>2</sup> Futterflächen sind Wiesen und Weiden sowie bewachsene Ackerflächen, deren Ertrag ganz oder teilweise zu Futterzwecken verwendet wird. Davon ausgenommen sind Ackerflächen, von denen nur die Körner oder die Kolben geerntet werden.
 
-[^annex26-lvlu1-lvl1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex26-lvlu1-lvl1-1]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
 ### 2 Besondere Abgabevorschriften
 
@@ -3997,7 +3997,7 @@ Die in Ziffer 2.2.1.10 festgelegten Qualitätsanforderungen gelten auch für Kom
 
 <sup>5</sup> Die Verwendung von Düngern im Wald sowie in einem Streifen von drei Metern Breite entlang der Bestockung ist verboten.
 
-[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex26-lvlu1-lvl3-lvl33-lvl331-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
 
 ### 3.3.2 Ausnahmen
@@ -4208,7 +4208,7 @@ Anhang 2.9[^t-29]
 <sup>4</sup> Für Spielzeuge und für Gegenstände für Säuglinge und Kleinkinder, die polyzyklische aromatische Kohlenwasserstoffe nach Absatz 1 Buchstabe d Nummer 2 enthalten, gilt die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex29-lvlu1-lvl2-2].
 
 [^annex29-lvlu1-lvl2-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2015/326, ABl. L 58 vom 3.3.2015, S. 43.
-[^annex29-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex29-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Ausnahmen
 
@@ -4254,7 +4254,7 @@ Anhang 2.9[^t-29]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -4266,7 +4266,7 @@ Anhang 2.9[^t-29]
 
 Die Verpackung einer Zubereitung, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt ist, muss Schutzhandschuhe enthalten, die den Anforderungen der Artikel 13 Absatz 2 in Verbindung mit 12 Absatz 2 der Produktesicherheitsverordnung vom 19. Mai 2010[^annex29-lvlu1-lvl4bis-1] genügen. Dies gilt nicht für Verpackungen von Heissklebstoffen.
 
-[^annex29-lvlu1-lvl4bis-1]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^annex29-lvlu1-lvl4bis-1]: [SR 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
 
 ### 5 Meldepflicht
 
@@ -4497,7 +4497,7 @@ Anhang 2.10[^t-30]
 
 <sup>2</sup> Wer eine solche Anlage in Verkehr bringt, hat dem Betreiber dieser Anlage unentgeltlich eine Kopie der Ausnahmebewilligung zur Verfügung zu stellen.
 
-[^annex210-lvlu1-lvl2-lvl23-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juni 2019 angepasst.
+[^annex210-lvlu1-lvl2-lvl23-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juni 2019 angepasst.
 
 ### 2.4 Besondere Kennzeichnung für die Fachleute
 
@@ -4601,7 +4601,7 @@ Das Verbot nach Ziffer. 3.3.1 gilt nicht für das Nachfüllen:
 
 <sup>2</sup> Wer Geräte oder Anlagen, die Kältemittel enthalten, zur Entsorgung entgegennimmt, muss die darin enthaltenen Kältemittel entnehmen und gesondert und fachgerecht entsorgen.
 
-[^annex210-lvlu1-lvl4-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex210-lvlu1-lvl4-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 5 Meldepflicht
 
@@ -4655,7 +4655,7 @@ Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen:
 <sup>5</sup> Anlagen, die in der Luft stabile Kältemittel enthalten, deren Füllmenge 500 Tonnen CO<sub>2</sub>-Äquivalenten oder mehr entspricht und die vor dem 1. Januar 2025 in Betrieb genommen worden sind, dürfen noch bis zum 31. Dezember 2026 ohne Leckage-Erkennungssystem betrieben werden.
 
 [^annex210-lvlu1-lvl7-1]: [AS 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
-[^annex210-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex210-lvlu1-lvl7-2]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 [^annex210-lvlu1-lvl7-3]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 Anhang 2.11[^t-31]
@@ -4742,12 +4742,12 @@ Verboten ist die Ausfuhr von:
 
 <sup>6</sup> Die Exporteurin muss die Ausfuhrbewilligung über einen Zeitpunkt von fünf Jahren ab der Ausfuhr des ozonschichtabbauenden Löschmittels aufbewahren.
 
-[^annex211-lvlu1-lvl3-lvl33-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^annex211-lvlu1-lvl3-lvl33-2]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex211-lvlu1-lvl3-lvl33-3]: [SR 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex211-lvlu1-lvl3-lvl33-4]: [SR 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex211-lvlu1-lvl3-lvl33-5]: [SR 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex211-lvlu1-lvl3-lvl33-6]: [SR 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex211-lvlu1-lvl3-lvl33-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^annex211-lvlu1-lvl3-lvl33-2]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex211-lvlu1-lvl3-lvl33-3]: [SR 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
+[^annex211-lvlu1-lvl3-lvl33-4]: [SR 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
+[^annex211-lvlu1-lvl3-lvl33-5]: [SR 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
+[^annex211-lvlu1-lvl3-lvl33-6]: [SR 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
 
 ### 4 Verwendung
 
@@ -4826,7 +4826,7 @@ Die Inhaberinnen von Geräten, die mehr als 8 kg ozonschichtabbauende oder in de
 
 Für Löschgeräte und -anlagen, die in der Luft stabile Löschmittel enthalten oder enthalten werden, die in Anhang A des Protokolls von Kyoto vom 11. Dezember 1997[^annex211-lvlu1-lvl9-1] zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen (Kyoto-Protokoll) aufgeführt sind, ist bis zum 31. Mai 2020 auch eine Kennzeichnung nach Ziffer 8 zur ChemRRV in der Fassung vom 10. Dezember 2010[^annex211-lvlu1-lvl9-2] zulässig.
 
-[^annex211-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex211-lvlu1-lvl9-1]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 [^annex211-lvlu1-lvl9-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 Anhang 2.12[^t-32]
@@ -4933,7 +4933,7 @@ Brennstoffzusätze sind Stoffe oder Zubereitungen, die den Brennstoffen, namentl
 
 Für die Beigabe von Brennstoffzusätzen zu Brennstoffen gelten die Anforderungen nach Anhang 5 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^annex213-lvlu1-lvl3-1].
 
-[^annex213-lvlu1-lvl3-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex213-lvlu1-lvl3-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 Anhang 2.14[^t-34]
 
@@ -4971,7 +4971,7 @@ Anhang 2.14[^t-34]
 
 <sup>4</sup> Die Kosten der in Absatz 1 genannten Überprüfung sind vom Eigentümer der Installation zu tragen.
 
-[^annex214-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annex214-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 Anhang 2.15[^t-35]
 
@@ -5051,7 +5051,7 @@ Anhang 2.15[^t-35]
 
 Verbraucherinnen müssen Batterien zur Entsorgung einer rücknahmepflichtigen Händlerin oder Herstellerin oder einer für Batterien vorgesehenen Sammlung oder Sammelstelle übergeben. Fahrzeugbatterien dürfen auch an Entsorgungsunternehmen, die aufgrund einer Bewilligung nach Artikel 10 der Verordnung vom 22. Juni 2005[^annex215-lvlu1-lvl5-lvl51-1] über den Verkehr mit Abfällen zur Entgegennahme von Batterien berechtigt sind, übergeben werden, sofern diese Entsorgungsunternehmen der Annahme zustimmen.
 
-[^annex215-lvlu1-lvl5-lvl51-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex215-lvlu1-lvl5-lvl51-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 5.2 Rücknahmepflicht
 
@@ -5315,7 +5315,7 @@ Die Verbote nach Ziffer 3<sup>bis</sup>.2 gelten nicht für Hartlote, die in Ver
 
 [^annex216-lvlu1-lvl3ter-lvl3ter.3-1]
 
-[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Für das Inverkehrbringen von Blei oder Bleiverbindungen enthaltenden Bedarfsgegenständen, Spielzeugen, Schmuckwaren und Kerzendochten, die zur Abgabe an die breite Öffentlichkeit bestimmt sind und die oder deren zugängliche Teile unter normalen oder vernünftigerweise vorhersehbaren Verwendungsbedingungen von Kindern in den Mund genommen werden können, gilt die LGV.
 

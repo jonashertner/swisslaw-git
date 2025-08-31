@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2025-06-02
+version: 2025-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250602-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 2 juin 2025)
+du 18 mai 2005 (État le 1<sup>er</sup> septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,12 +25,12 @@ vu les art. 2, al. 4, 19, 22, al. 2, 24, 38, 39, al. 2, 44, al. 2, 45, al. 2 et 
 
 arrête:
 
-[^ingress-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-5]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-4]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-7]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ## Chapitre 1 Dispositions générales
@@ -62,10 +62,10 @@ La présente ordonnance ne s’applique pas:
 - b. au transit sous surveillance douanière de substances, de préparations et d’objets, pour autant qu’ils ne subissent aucun traitement ni aucune transformation lors de ce transit.
 
 [^1-1]: Nouvelle teneur selon l’annexe 6 ch. 11 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^1-2]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^1-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^1-3]: Nouvelle teneur selon l’annexe 3 ch. II 8 de l’O du 22 juin 2005 sur les mouvements de déchets, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)).
-[^1-4]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^1-5]: [RS 814.620](https://fedlex.data.admin.ch/eli/cc/2021/633)
+[^1-4]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^1-5]: [RS 814.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9577)
 
 #### Art. 2
 
@@ -303,10 +303,10 @@ Il incombe à la Confédération:
 
 <sup>3</sup> Pour les engrais, les dispositions d’exécution de l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais[^16-4] s’appliquent également.[^16-5]
 
-[^16-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^16-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
+[^16-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^16-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-4]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 [^16-5]: Nouvelle teneur selon l’annexe 5 ch. II 3 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 17
@@ -356,7 +356,7 @@ Ils peuvent ordonner aux personnes employant des engrais ou des produits phytosa
 La confidentialité des données et leur échange, tant entre les différentes autorités chargées de l’exécution qu’entre la Suisse et l’étranger, sont régis par les art. 73 à 76 OChim[^21-2].
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^21-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^21-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 22
 
@@ -364,7 +364,7 @@ La confidentialité des données et leur échange, tant entre les différentes a
 
 L’assujettissement aux émoluments et le calcul des émoluments perçus par les autorités fédérales d’exécution pour tout acte administratif prévu par la présente ordonnance sont régis par l’ordonnance du 18 mai 2005 sur les émoluments perçus en application de la législation sur les produits chimiques[^22-1].
 
-[^22-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+[^22-1]: [RS 813.153.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9404)
 
 ## Chapitre 4 Dispositions finales
 
@@ -659,7 +659,7 @@ Annexe 1.3[^t-4]
 - a. si, selon l’état de la technique, on ne connaît pas encore de substitut du chloroforme pour l’emploi concerné, et
 - b. si la quantité de chloroforme à laquelle il est fait recours ne dépasse pas ce qui est nécessaire pour atteindre le but visé et représente au plus 20 litres par an.
 
-[^annex13-lvlu1-lvl2-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex13-lvlu1-lvl2-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Étiquetage spécial
 
@@ -736,7 +736,7 @@ Il est interdit de mettre sur le marché des préparations et des objets:
 - a. qui contiennent des substances appauvrissant la couche d’ozone;
 - b. qui ont été fabriqués avec des substances appauvrissant la couche d’ozone et sont mentionnés dans une annexe au Protocole de Montréal du 16 septembre 1987 relatif à des substances qui appauvrissent la couche d’ozone (protocole de Montréal)[^annex14-lvlu1-lvl3-lvl31-1].
 
-[^annex14-lvlu1-lvl3-lvl31-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex14-lvlu1-lvl3-lvl31-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### 3.2 Exceptions
 
@@ -746,10 +746,10 @@ L’interdiction au sens du ch. 3.1 ne s’applique pas à la mise sur le march�
 - b. de préparations et d’objets qui peuvent être mis sur le marché en vertu des dispositions des annexes 2.9 à 2.11 et, s’ils sont importés, dont l’importation est faite à partir de pays qui respectent les dispositions approuvées par la Suisse du protocole de Montréal et des amendements au protocole des 29 juin 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 novembre 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 septembre 1997[^annex14-lvlu1-lvl3-lvl32-3] et 3 décembre 1999[^annex14-lvlu1-lvl3-lvl32-4];
 - c. de préparations qui sont assimilées à des substances appauvrissant la couche d’ozone en vertu du ch. 1, al. 2.
 
-[^annex14-lvlu1-lvl3-lvl32-1]: [RS 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex14-lvlu1-lvl3-lvl32-2]: [RS 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex14-lvlu1-lvl3-lvl32-3]: [RS 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex14-lvlu1-lvl3-lvl32-4]: [RS 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex14-lvlu1-lvl3-lvl32-1]: [RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
+[^annex14-lvlu1-lvl3-lvl32-2]: [RS 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
+[^annex14-lvlu1-lvl3-lvl32-3]: [RS 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
+[^annex14-lvlu1-lvl3-lvl32-4]: [RS 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
 
 ### 3.3 Importation de substances
 
@@ -774,7 +774,7 @@ Toute personne qui souhaite importer des substances appauvrissant la couche d’
 
 <sup>3</sup> L’OFEV informe l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] et les cantons de l’attribution et du retrait des autorisations générales d’importation.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### 3.3.4 Demande
 
@@ -793,7 +793,7 @@ Toute personne qui souhaite importer des substances appauvrissant la couche d’
 
 <sup>2</sup> L’OFEV peut exiger d’autres informations sur l’origine des substances concernées et l’usage qu’il est prévu d’en faire.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 3.3.5 Décision
 
@@ -809,7 +809,7 @@ Toute personne qui souhaite importer des substances appauvrissant la couche d’
 
 <sup>3</sup> Lors de l’entreposage dans un entrepôt douanier ouvert, dans un entrepôt de marchandises de grande consommation ou dans un dépôt franc sous douane, l’entreposeur ou l’entrepositaire est tenu de reporter le numéro de l’autorisation d’importation dans un inventaire.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 4 Exportation
 
@@ -968,7 +968,7 @@ Annexe 1.5[^t-6]
 
 <sup>3</sup> Les substances qui résultent de la valorisation de substances stables dans l’air usagées sont considérées comme des substances stables dans l’air régénérées si les substances usagées n’ont pas été modifiées chimiquement par la valorisation.
 
-[^annex15-lvlu1-lvl1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex15-lvlu1-lvl1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^annex15-lvlu1-lvl1-2]: La liste des autres composés organiques contenant du fluor les plus usuels peut être consultée sous [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Substances stables dans l’air.
 
 ### 2 Substances stables dans l’air qui appauvrissent la couche d’ozone
@@ -1042,7 +1042,7 @@ Sous réserve du ch. 8, al. 1, une autorisation d’importation est accordée su
 
 <sup>2</sup> L’OFEV peut exiger d’autres informations sur l’origine des substances concernées et l’usage qu’il est prévu d’en faire.
 
-[^annex15-lvlu1-lvl4-lvl43-lvl434-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex15-lvlu1-lvl4-lvl43-lvl434-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 4.3.5 Décision
 
@@ -1058,7 +1058,7 @@ Sous réserve du ch. 8, al. 1, une autorisation d’importation est accordée su
 
 <sup>3</sup> Lors de l’entreposage dans un entrepôt douanier ouvert, dans un entrepôt de marchandises de grande consommation ou dans un dépôt franc sous douane, l’entreposeur ou l’entrepositaire est tenu de reporter le numéro de l’autorisation d’importation dans un inventaire.
 
-[^annex15-lvlu1-lvl4-lvl43-lvl436-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex15-lvlu1-lvl4-lvl43-lvl436-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 5 Exportation
 
@@ -1250,7 +1250,7 @@ Il incombe à l’OFEV de communiquer les données visées à l’art. 7, al. 3,
 L’étiquetage au sens du ch. 5 dans la version du 10 décembre 2010 de l’ORRChim[^annex15-lvlu1-lvl10-1] reste autorisé jusqu’au 31 mai 2020 pour les récipients qui contiennent des substances stables dans l’air figurant à l’annexe A du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques (protocole de Kyoto)[^annex15-lvlu1-lvl10-2] et pour les installations de commutation qui contiennent de l’hexafluorure de soufre ou des préparations à base d’hexafluorure de soufre.
 
 [^annex15-lvlu1-lvl10-1]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
-[^annex15-lvlu1-lvl10-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex15-lvlu1-lvl10-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 ### 11 Disposition transitoire relative à la modification du 24 novembre 2021
 
@@ -1313,7 +1313,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -1398,8 +1398,8 @@ Annexe 1.7[^t-8]
 <sup>4</sup> Les annexes 2.15 à 2.18 s’appliquent à la mise sur le marché de piles, d’emballages, de composants d’emballages, de véhicules ainsi que de matériaux et composants pour véhicules, de matériaux en bois, d’équipements électriques et électroniques et de leurs pièces détachées.
 
 [^annex17-lvlu1-lvl1-lvl11-1]: En vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^annex17-lvlu1-lvl1-lvl11-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex17-lvlu1-lvl1-lvl11-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex17-lvlu1-lvl1-lvl11-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex17-lvlu1-lvl1-lvl11-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 1.2 Exceptions
 
@@ -1478,7 +1478,7 @@ Aucune autorisation d’importation n’est requise pour celui qui:
 - c. importe une substance mentionnée à la let. a ou b ou une préparation également mentionnée à la let. a ou b pour les utiliser en tant que substance, dans une préparation ou un objet, dans la mesure où la substance, la préparation ou l’objet sont destinés à des fins d’analyse et de recherche.
 
 [^annex17-lvlu1-lvl1-lvl14-lvl142-1]: La liste des Parties est disponible sur le site de l’OFEV, sous [www.ofev.admin.ch](http://www.ofev.admin.ch) &gt; Thèmes &gt; Produits chimiques &gt; Informations pour spécialistes &gt; Dispositions et procédures &gt; Mercure.
-[^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [RS 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
+[^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [RS 0.814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3560)
 
 ### 1.4.3 Conditions d’octroi de l’autorisation
 
@@ -1506,7 +1506,7 @@ La demande doit contenir au moins les éléments suivants:
 
 - d. une attestation selon le ch. 1.4.3, let. c.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 1.4.5 Décision
 
@@ -1525,7 +1525,7 @@ La demande doit contenir au moins les éléments suivants:
 
 <sup>3</sup> Lors de l’entreposage dans un entrepôt douanier ouvert, dans un entrepôt de marchandises de grande consommation ou dans un dépôt franc sous douane, l’entreposeur ou l’entrepositaire est tenu de reporter le numéro de l’autorisation d’importation dans un inventaire.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 1.4.7 Obligation de conserver
 
@@ -1700,7 +1700,7 @@ Annexe 1.8[^t-9]
 
 <sup>3</sup> Il est interdit de mettre sur le marché des fibres textiles ou des produits textiles semi-finis ou finis susceptibles d’être nettoyés à l’eau, tels que fibres, fils, tissus, tricots, textiles d’intérieur, accessoires et vêtements, si leur teneur en éthoxylates de nonylphénol est égale ou supérieure à 0,01 % masse par rapport à la composante textile.
 
-[^annex18-lvlu1-lvl1-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex18-lvlu1-lvl1-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 2 Exceptions
 
@@ -1758,7 +1758,7 @@ Il est interdit au fabricant de mettre sur le marché des textiles qui contienne
 <sup>2</sup> On entend par véhicule à moteur au sens du ch. 4, let. a, ch. 2 et 4, un véhicule qui relève de la catégorie M, N ou O définie à l’annexe II, partie A, section 1, de la directive 2007/46/CE[^annex19-lvlu1-lvl2-lvl21-4].
 
 [^annex19-lvlu1-lvl2-lvl21-1]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, version du JO L 212 du 22.8.2018, p. 1.
-[^annex19-lvlu1-lvl2-lvl21-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex19-lvlu1-lvl2-lvl21-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex19-lvlu1-lvl2-lvl21-3]: La liste des pays concernés peut être consultée sur le site Internet de l’OACI: [www.icao.int](http://www.icao.int) &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex19-lvlu1-lvl2-lvl21-4]: Directive 2007/46/CE du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive-cadre), JO L 263 du 9.10.2007, p. 1; modifiée en dernier lieu par le règlement (UE) 2017/1347, JO L 192 du 24.7.2017, p. 1.
 
@@ -1840,7 +1840,7 @@ Annexe 1.10[^t-11]
 
 ## Substances cancérogènes, mutagènes ou toxiques pour la reproduction
 
-[^t-11]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. 2 de l’O du 18 nov. 2020, en vigueur du 15 déc. 2020 au 1<sup>er</sup> juin 2025 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I de l’O de l’OFSP du 5 sept. 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)).
+[^t-11]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O du 25 oct. 2017 ([RO 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. 2 de l’O du 18 nov. 2020, en vigueur du 15 déc. 2020 au 1<sup>er</sup> juin 2025 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I de l’O du 23 fév. 2022 ([RO 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. I des O de l’OFSP du 5 sept. 2023 ([RO 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)) et du 11 août 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 508](https://fedlex.data.admin.ch/eli/oc/2025/508)).
 
 ### 1 Interdiction
 
@@ -1850,8 +1850,8 @@ Annexe 1.10[^t-11]
 
 <sup>3</sup> Il est interdit d’employer du papier thermique dont la teneur en bisphénol A (n<sup>o</sup> CAS 80-05-7) ou en bisphénol S (n<sup>o</sup> CAS 80-09-1) est de 0,02 % masse ou plus.
 
-[^annex110-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2023/1132, JO L 149 du 9.6.2023, p. 49.
-[^annex110-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement délégué (UE) n<sup>o</sup> 2023/1435, JO L 176 du 11.7.2023, p. 6.
+[^annex110-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2025/1731, JO L, 2025/1731, 8.11.2025.
+[^annex110-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement délégué (UE) n<sup>o</sup> 2024/197, JO L, 2024/197, 5.1.2024.
 
 ### 2 Exceptions
 
@@ -1868,7 +1868,7 @@ Annexe 1.10[^t-11]
 <sup>3</sup> L’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^annex110-lvlu1-lvl2-2] s’applique aux substances cancérogènes, mutagènes ou toxiques pour la reproduction contenues dans les produits cosmétiques.
 
 [^annex110-lvlu1-lvl2-1]: Voir la note relative au ch. 1, al. 1.
-[^annex110-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex110-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Étiquetage spécial
 
@@ -1899,7 +1899,7 @@ Sont considérées comme substances et préparations liquides dangereuses, les p
 - c. classe de danger 4.1;
 - d. classe de danger 5.1.
 
-[^annex111-lvlu1-lvl1-1]: Directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999 concernant le rapprochement des dispositions législatives, réglementaires et administratives des États membres relatives à la classification, à l’emballage et à l’étiquetage des préparations dangereuses, JO L 200 du 30.7.1999, p. 1; modifiée en dernier lieu par le R (CE) n<sup>o</sup> 1272/2008, JO L 353 du 31.12.2008, p. 1. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être consultés à l’adresse http://eur-lex.europa.eu.
+[^annex111-lvlu1-lvl1-1]: Directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999 concernant le rapprochement des dispositions législatives, réglementaires et administratives des États membres relatives à la classification, à l’emballage et à l’étiquetage des préparations dangereuses, JO L 200 du 30.7.1999, p. 1; modifiée en dernier lieu par le R (CE) n<sup>o</sup> 1272/2008, JO L 353 du 31.12.2008, p. 1. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être consultés à l’adresse [http://eur-le x .europa.eu](http://eur-lex.europa.eu).
 [^annex111-lvlu1-lvl1-2]: R (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 déc. 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le R (CE) n<sup>o</sup> 1907/2006 (JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le R (UE) n<sup>o</sup> 618/2012, JO L 179 du 11.7.2012, p. 3.
 
 ### 2 Interdictions
@@ -1957,7 +1957,7 @@ Annexe 1.12[^t-13]
 
 <sup>2</sup> Pour l’essence, les dispositions de l’ordonnance du 16 décembre 1985 sur la protection de l’air[^annex112-lvlu1-lvl1-lvl12-1] sont réservées.
 
-[^annex112-lvlu1-lvl1-lvl12-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex112-lvlu1-lvl1-lvl12-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 2 Toluène
 
@@ -2001,7 +2001,7 @@ Est considéré comme colorant bleu le colorant azoïque contenant les élément
 
 <sup>2</sup> L’art. 64, al. 2, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^annex113-lvlu1-lvl3-1] s’applique aux colorants azoïques qui sont employés dans les textiles et les articles en cuir et qui peuvent dégager des substances au sens du ch. 2, al. 1, ou d’autres amines aromatiques.
 
-[^annex113-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex113-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 4 Disposition transitoire
 
@@ -2039,7 +2039,7 @@ Il est interdit de mettre sur le marché:
 
 [^annex114-lvlu1-lvl1-lvl13-1]
 
-[^annex114-lvlu1-lvl1-lvl13-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex114-lvlu1-lvl1-lvl13-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Les produits textiles, les articles en cuir et les autres objets contenant des composés du dioctylétain et destinés à entrer en contact avec le corps humain, ainsi que les objets usuels contenant des composés du dibutylétain et destinés à entrer en contact avec des denrées alimentaires dans le cadre de la fabrication, de l’emploi ou de l’emballage de celles-ci, sont régis par l’ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels.
 
@@ -2057,7 +2057,7 @@ Les produits textiles, les articles en cuir et les autres objets contenant des c
 
 <sup>3</sup> Sont considérés comme des objets contenant des composés organostanniques trisubstitués les objets qui contiennent ces composés et dont la teneur en étain dans ceux-ci ou des parties de ceux-ci est égale ou supérieure à 0,1 % masse.
 
-[^annex114-lvlu1-lvl2-lvl21-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex114-lvlu1-lvl2-lvl21-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 2.2 Interdictions
 
@@ -2423,7 +2423,7 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 - e. emploi pour lequel l’autorisation est octroyée;
 - f. durée et conditions d’octroi de l’autorisation.
 
-[^annex117-lvlu1-lvl2-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex117-lvlu1-lvl2-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^annex117-lvlu1-lvl2-2]: Voir la note relative au titre de la présente annexe.
 [^annex117-lvlu1-lvl2-3]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2015/491, JO L 78 du 24.3.2015, p. 12.
 
@@ -2549,8 +2549,8 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 
 <sup>2</sup> Après entente avec l’OFSP et le SECO, l’OFEV adapte les dispositions de l’al. 1. Ce faisant, il prend en considération les modifications de l’annexe XIV du règlement (CE) n<sup>o</sup> 1907/2006[^annex117-lvlu1-lvl5-3] et les inscriptions à l’annexe 3 de l’OChim.
 
-[^annex117-lvlu1-lvl5-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^annex117-lvlu1-lvl5-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex117-lvlu1-lvl5-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex117-lvlu1-lvl5-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex117-lvlu1-lvl5-3]: Voir la note relative au titre de la présente annexe.
 
 Annexe 1.18[^t-19]
@@ -2588,7 +2588,7 @@ Annexe 1.18[^t-19]
 <sup>6</sup> On entend par véhicule à moteur au sens du ch. 5, let. a, ch. 2 et 4, un véhicule qui relève de la catégorie M, N ou O définie à l’annexe II, partie A, section 1, de la directive 2007/46/CE[^annex118-lvlu1-lvl1-4].
 
 [^annex118-lvlu1-lvl1-1]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, version du JO L 212 du 22.8.2018, p. 1.
-[^annex118-lvlu1-lvl1-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex118-lvlu1-lvl1-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex118-lvlu1-lvl1-3]: La liste des pays concernés peut être consultée sur le site Internet de l’OACI: [www.icao.int](http://www.icao.int) &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex118-lvlu1-lvl1-4]: Directive 2007/46/CE du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive-cadre), JO L 263 du 9.10.2007, p. 1; modifiée en dernier lieu par le règlement (UE) 2017/1347, JO L 192 du 24.7.2017, p. 1.
 
@@ -2602,7 +2602,7 @@ Annexe 1.18[^t-19]
 
 [^annex118-lvlu1-lvl3-1]
 
-[^annex118-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex118-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 L’ODAlOUs s’applique à la mise sur le marché d’objets et matériaux, de jouets et d’objets usuels contenant du phtalate qui sont destinés aux nourrissons ou aux enfants en bas âge.
 
@@ -2618,7 +2618,7 @@ L’ODAlOUs s’applique à la mise sur le marché d’objets et matériaux, de 
 [^annex118-lvlu1-lvl4-1]: Règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l’autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire, et instituant une Agence européenne des médicaments, JO L 136 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1027/2012, JO L 316 du 14.11.2012, p. 38.
 [^annex118-lvlu1-lvl4-2]: Directive 2001/82/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments vétérinaires, JO L 311 du 28.11.2001, p. 1; modifiée en dernier lieu par le règlement (CE) n<sup>o</sup> 596/2009, JO L 188 du 18.7.2009, p. 14.
 [^annex118-lvlu1-lvl4-3]: Directive 2001/83/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, JO L 311 du 28.11.2001, p. 67; modifiée en dernier lieu par le règlement (UE) 2017/745, JO L 117 du 5.5.2017, p. 1.
-[^annex118-lvlu1-lvl4-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex118-lvlu1-lvl4-4]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### 5 Dispositions transitoires
 
@@ -2699,7 +2699,7 @@ Annexe 1.19[^t-20]
 - a. à la mise sur le marché de D5 à des fins d’emploi pour le nettoyage chimique de tissus, cuirs et fourrures;
 - b. à l’emploi de D5 pour le nettoyage chimique de tissus, cuirs et fourrures, si les mesures disponibles selon l’état de la technique pour éviter les émissions de D5 ont été prises.
 
-[^annex119-lvlu1-lvl2-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex119-lvlu1-lvl2-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### 3 Dispositions transitoires
 
@@ -2717,7 +2717,7 @@ Annexe 1.19[^t-20]
 
 <sup>2</sup> Les interdictions au sens du ch. 1, al. 2, ne s’appliquent pas à l’emploi de D4 et de D6 comme substance et dans des préparations pour le nettoyage chimique de tissus, cuirs et fourrures jusqu’au 6 juin 2026.
 
-[^annex119-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex119-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Annexe 2
 
@@ -2816,7 +2816,7 @@ Annexe 2.1[^t-21]
 
 [^annex21-lvlu1-lvl3-1]: *International Nomenclature of Cosmetic Ingredients*
 [^annex21-lvlu1-lvl3-2]: Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques, JO L 342 du 22.12.2009, p. 59; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 358/2014, JO L 107 du 10.4.2014, p. 5.
-[^annex21-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex21-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4 Mode d’emploi
 
@@ -2865,7 +2865,7 @@ Annexe 2.1[^t-21]
 
 <sup>5</sup> Sur demande motivée, il peut octroyer d’autres dérogations à l’interdiction au sens du ch. 2, al. 1, let. g, pour des agents de surface qui ne figurent pas aux annexes V ou VI du Règlement (CE) n<sup>o</sup> 648/2004, dans la mesure où ils sont employés dans des lessives destinées exclusivement à des usages non domestiques. Il tient compte des critères fixés à l’annexe IV du Règlement (CE) n<sup>o</sup> 648/2004.
 
-[^annex21-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex21-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 7 Dispositions transitoires
 
@@ -2989,7 +2989,7 @@ Annexe 2.2[^t-22]
 
 [^annex22-lvlu1-lvl3-1]: *International Nomenclature of Cosmetic Ingredients*
 [^annex22-lvlu1-lvl3-2]: Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques, JO L 342 du 22.12.2009, p. 59; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 358/2014, JO L 107 du 10.4.2014, p. 5.
-[^annex22-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex22-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4 Mode d’emploi
 
@@ -3044,8 +3044,8 @@ Annexe 2.2[^t-22]
 
 <sup>6</sup> Sur demande motivée, il peut octroyer d’autres dérogations à l’interdiction au sens du ch. 2, al. 1, let. e, pour des agents de surface qui ne figurent pas aux annexes V ou VI du Règlement (CE) n<sup>o</sup> 648/2004. Il tient compte des critères fixés à l’annexe IV du Règlement (CE) n<sup>o</sup> 648/2004.
 
-[^annex22-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex22-lvlu1-lvl6-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex22-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex22-lvlu1-lvl6-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### 7 Dispositions transitoires
 
@@ -3154,7 +3154,7 @@ Il est interdit:
 - b. la quantité et le potentiel d’effet de serre des substances stables dans l’air auxquelles il est fait recours ne dépassent pas ce qui est nécessaire selon l’état de la technique, pour atteindre le but visé, et que
 - c. les émissions de substances stables dans l’air sont maintenues aussi faibles que possible durant tout le cycle de vie de l’emploi prévu.
 
-[^annex23-lvlu1-lvl4-lvl42-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex23-lvlu1-lvl4-lvl42-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 4.3 Étiquetage spécial
 
@@ -3214,7 +3214,7 @@ Le canton peut exiger des détenteurs de déchets de solvants halogénés ou des
 <sup>2</sup> L’étiquetage au sens du ch. 4.3 dans la version du 7 novembre 2012 de l’ORRChim reste autorisé jusqu’au 31 mai 2020 pour les récipients qui contiennent des substances stables dans l’air figurant à l’annexe A du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques (protocole de Kyoto)[^annex23-lvlu1-lvl6-2].
 
 [^annex23-lvlu1-lvl6-1]: [RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
-[^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 Annexe 2.4[^t-24]
 
@@ -3242,7 +3242,7 @@ Annexe 2.4[^t-24]
 - h. créosote de bois (n<sup>o</sup> CAS 8021-39-4);
 - i. résidus d’extraction alcalins (charbon), goudron de houille à basse température (n<sup>o</sup> CAS 122384-78-5).
 
-[^annex24-lvlu1-lvl1-lvl11-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex24-lvlu1-lvl1-lvl11-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 1.2 Interdictions
 
@@ -3279,7 +3279,7 @@ Annexe 2.4[^t-24]
 
 <sup>5</sup> L’organe de réception des notifications (art. 77 de l’O du 5 juin 2015 sur les produits chimiques[^annex24-lvlu1-lvl1-lvl13-1]) peut accorder des dérogations à l’interdiction au sens du ch. 1.2, al. 3. Il rend sa décision en accord avec les organes d’évaluation compétents au sens de l’art. 52 OPBio.
 
-[^annex24-lvlu1-lvl1-lvl13-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex24-lvlu1-lvl1-lvl13-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 1.4 Emploi dans les zones de protection des eaux souterraines
 
@@ -3428,9 +3428,9 @@ Annexe 2.5[^t-25]
 
 <sup>5</sup> Pour l’emploi de produits phytosanitaires sur les voies ferrées et le long de celles-ci, en dehors des zones S1, S2 et S<sub>h</sub> de protection des eaux souterraines, l’Office fédéral des transports fixe les restrictions et les interdictions nécessaires pour assurer la protection de l’environnement. Il tient compte de la situation locale et consulte les cantons concernés avant de prendre sa décision.
 
-[^annex25-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex25-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex25-lvlu1-lvl1-lvl11-2]: La brochure peut être obtenue auprès d’Agridea 1000 Lausanne 6.
-[^annex25-lvlu1-lvl1-lvl11-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^annex25-lvlu1-lvl1-lvl11-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### 1.2 Exceptions
 
@@ -3607,7 +3607,7 @@ Quiconque souhaite exporter ou sortir d’un entrepôt douanier ouvert, d’un e
 <sup>3</sup> Si l’exportation se fait à destination d’un État partie à la Convention de Rotterdam, l’autorisation d’exportation n’est en outre accordée que si l’OFEV a obtenu le consentement du pays destinataire.
 
 [^annex25-lvlu1-lvl4-lvl42-lvl422-1]: La liste des Parties peut être obtenue contre paiement ou consultée gratuitement auprès de l’OFEV, 3003 Berne; elle peut également être téléchargée à l’adresse [www.pic.int](http://www.pic.int) &gt; Les pays &gt; État des ratifications.
-[^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [RS 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
+[^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [RS 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
 
 ### 4.2.3 Demande
 
@@ -3622,7 +3622,7 @@ Quiconque souhaite exporter ou sortir d’un entrepôt douanier ouvert, d’un e
 - g. la fiche de données de sécurité visée à l’art. 20 de l’ordonnance du 5 juin 2015 sur les produits chimiques[^annex25-lvlu1-lvl4-lvl42-lvl423-1];
 - h. une attestation au sens du ch. 4.2.2, al. 2, le cas échéant.
 
-[^annex25-lvlu1-lvl4-lvl42-lvl423-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex25-lvlu1-lvl4-lvl42-lvl423-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4.2.4 Décision
 
@@ -3643,8 +3643,8 @@ Quiconque souhaite exporter ou sortir d’un entrepôt douanier ouvert, d’un e
 
 <sup>4</sup> Les dispositions de l’art. 5, al. 1 et 3, de l’ordonnance PIC du 10 novembre 2004[^annex25-lvlu1-lvl4-lvl42-lvl425-2] s’appliquent à l’étiquetage et à la mise à disposition de la fiche de données de sécurité.
 
-[^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
 
 Annexe 2.6[^t-26]
 
@@ -3660,7 +3660,7 @@ Annexe 2.6[^t-26]
 
 <sup>2</sup> On entend par surfaces fourragères les prés et les pâturages ainsi que les terres assolées dont les récoltes sont entièrement ou partiellement employées comme fourrage. Ce terme ne s’applique pas aux terres assolées dont la récolte se limite aux grains ou aux épis.
 
-[^annex26-lvlu1-lvl1-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex26-lvlu1-lvl1-1]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
 ### 2 Prescriptions spéciales concernant la remise
 
@@ -3824,7 +3824,7 @@ Les teneurs en polluants des amendements inorganiques du sol ne doivent pas dép
 <tr><th>Polluant</th><th>Valeur indicative</th></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
 <tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ<sup>2</sup> par kilogramme de matière sèche</td></tr>
-<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1 0 93/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 2.2.1.9 Biostimulant des végétaux PFC 6
@@ -3870,7 +3870,7 @@ Les teneurs en polluants des biostimulants des végétaux ne doivent pas dépass
 <tr><th>Polluant</th><th>Valeur indicative</th></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
 <tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ<sup>2</sup> par kilogramme de matière sèche</td></tr>
-<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10. 1 093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 <sup>4</sup> Les dispositions de l’al. 1 ne s’appliquent pas aux engrais de ferme destinés à être utilisés dans l’exploitation de production, ni aux engrais provenant d’une exploitation pratiquant l’élevage d’animaux et qui sont remis directement aux utilisateurs finals. Les dispositions de l’art. 10, OEng, sont aussi réservées.
@@ -3904,7 +3904,7 @@ Les exigences de qualité définies au chiffre 2.2.1.10 s’appliquent égalemen
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>25 milligrammes par kilogramme de phosphore (P)<sup>1</sup></td></tr>
 <tr><td>Biphényles polychlorés (PCB)</td><td>0,5 milligrammes par kilogramme de phosphore (P)<sup>2</sup></td></tr>
 <tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>120 nanogrammes WHO<sub>2005</sub>-TEQ par kilogramme de phosphore (P)<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Somme des 16 composés de HAP ci-après (liste des «priority pollutants» de l’EPA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Somme des 7 congénères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), UICPA n<sup>os</sup> 28, 52, 101, 118, 138, 153 et 180. <sup>3</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somme des 16 composés de HAP ci-après (liste des «priority pollutants» de l’EPA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Somme des 7 congénères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), UICPA n<sup>os</sup> 28, 52, 101, 118, 138, 153 et 180. <sup>3</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 2.2.2.3 Matières issues de la pyrolyse et de la gazéification (CMC 14)
@@ -3930,7 +3930,7 @@ Les exigences de qualité définies au chiffre 2.2.1.10 s’appliquent égalemen
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
 <tr><td>Biphényles polychlorés (PCB)</td><td>0.2 milligrammes par kilogramme de matière sèche<sup>2</sup></td></tr>
 <tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ par kilogramme de matière sèche<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Somme des 16 composés de HAP ci-après (liste des «priority pollutants» de l’EPA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. Détermination après extraction à reflux de deux heures avec du toluène. <sup>2</sup> Somme des 7 congénères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), UICPA n<sup>os</sup> 28, 52, 101, 118, 138, 153 et 180. Détermination après extraction Soxhlet de six heures avec du toluène ou extraction accélérée par solvant. <sup>3</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055. Détermination après extraction Soxhlet de vingt heures avec du toluène ou extraction accélérée par solvant.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somme des 16 composés de HAP ci-après (liste des «priority pollutants» de l’EPA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. Détermination après extraction à reflux de deux heures avec du toluène. <sup>2</sup> Somme des 7 congénères selon la liste de l’IRMM (Institute for Reference Materials and Measurements), UICPA n<sup>os</sup> 28, 52, 101, 118, 138, 153 et 180. Détermination après extraction Soxhlet de six heures avec du toluène ou extraction accélérée par solvant. <sup>3</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055). Détermination après extraction Soxhlet de vingt heures avec du toluène ou extraction accélérée par solvant.</td></tr>
 </table>
 
 ### 3 Emploi
@@ -3992,7 +3992,7 @@ Les exigences de qualité définies au chiffre 2.2.1.10 s’appliquent égalemen
 
 <sup>5</sup> Il est interdit d’épandre des engrais en forêt et sur une bande de 3 m de large le long de la zone boisée.
 
-[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex26-lvlu1-lvl3-lvl33-lvl331-2]: La brochure peut être obtenue auprès d’Agridea 1000 Lausanne 6.
 
 ### 3.3.2 Exceptions
@@ -4203,7 +4203,7 @@ Annexe 2.9[^t-29]
 <sup>4</sup> L’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^annex29-lvlu1-lvl2-2] s’applique aux hydrocarbures aromatiques polycycliques visés à l’al. 1, let. d, ch. 2, contenus dans les jouets et les objets destinés aux nourrissons ou aux enfants en bas âge.
 
 [^annex29-lvlu1-lvl2-1]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2015/326, JO L 58 du 3.3.2015, p. 43.
-[^annex29-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex29-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Exceptions
 
@@ -4249,7 +4249,7 @@ Annexe 2.9[^t-29]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -4261,7 +4261,7 @@ Annexe 2.9[^t-29]
 
 L’emballage des préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doit contenir des gants de protection satisfaisant aux exigences de l’art. 13, al. 2, en relation avec l’art. 12, al. 2, de l’ordonnance du 19 mai 2010 sur la sécurité des produits[^annex29-lvlu1-lvl4bis-1]. Ceci ne s’applique pas aux adhésifs thermofusibles.
 
-[^annex29-lvlu1-lvl4bis-1]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^annex29-lvlu1-lvl4bis-1]: [RS 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
 
 ### 5 Obligation de communiquer
 
@@ -4492,7 +4492,7 @@ Annexe 2.10[^t-30]
 
 <sup>2</sup> Toute personne qui met une telle installation sur le marché doit fournir gratuitement à l’exploitant une copie de la dérogation obtenue.
 
-[^annex210-lvlu1-lvl2-lvl23-1]: Le renvoi a été adapté au 1<sup>er</sup> juin 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex210-lvlu1-lvl2-lvl23-1]: Le renvoi a été adapté au 1<sup>er</sup> juin 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ### 2.4 Étiquetage spécial destiné aux professionnels
 
@@ -4596,7 +4596,7 @@ L’interdiction visée au ch. 3.3.1 ne s’applique pas au remplissage:
 
 <sup>2</sup> Toute personne qui prend en charge, en vue de leur élimination, des appareils ou des installations contenant des fluides frigorigènes doit retirer les fluides frigorigènes qui s’y trouvent et les éliminer séparément de manière appropriée.
 
-[^annex210-lvlu1-lvl4-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex210-lvlu1-lvl4-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 5 Obligation de communiquer
 
@@ -4651,7 +4651,7 @@ Après avoir consulté la branche concernée, l’OFEV édicte des recommandatio
 
 [^annex210-lvlu1-lvl7-1]: [RO 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
 [^annex210-lvlu1-lvl7-2]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
-[^annex210-lvlu1-lvl7-3]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex210-lvlu1-lvl7-3]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 Annexe 2.11[^t-31]
 
@@ -4737,12 +4737,12 @@ Il est interdit d’exporter:
 
 <sup>6</sup> L’exportateur doit conserver l’autorisation d’exporter pendant cinq ans à partir de l’exportation de l’agent d’extinction appauvrissant la couche d’ozone.
 
-[^annex211-lvlu1-lvl3-lvl33-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^annex211-lvlu1-lvl3-lvl33-2]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex211-lvlu1-lvl3-lvl33-3]: [RS 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex211-lvlu1-lvl3-lvl33-4]: [RS 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex211-lvlu1-lvl3-lvl33-5]: [RS 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex211-lvlu1-lvl3-lvl33-6]: [RS 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex211-lvlu1-lvl3-lvl33-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^annex211-lvlu1-lvl3-lvl33-2]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex211-lvlu1-lvl3-lvl33-3]: [RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
+[^annex211-lvlu1-lvl3-lvl33-4]: [RS 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
+[^annex211-lvlu1-lvl3-lvl33-5]: [RS 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
+[^annex211-lvlu1-lvl3-lvl33-6]: [RS 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
 
 ### 4 Emploi
 
@@ -4818,7 +4818,7 @@ Les détenteurs d’appareils contenant plus de 8 kg d’agents d’extinction a
 L’étiquetage au sens du ch. 8 dans la version du 10 décembre 2010 de l’ORRChim[^annex211-lvlu1-lvl9-1] reste autorisé jusqu’au 31 mai 2020 pour les appareils et installations d’extinction qui contiennent ou sont destinés à contenir des agents d’extinction stables dans l’air figurant à l’annexe A du Protocole de Kyoto du 11 décembre 1997 à la Convention-cadre des Nations Unies sur les changements climatiques (protocole de Kyoto<sup>)</sup>[^annex211-lvlu1-lvl9-2].
 
 [^annex211-lvlu1-lvl9-1]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
-[^annex211-lvlu1-lvl9-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex211-lvlu1-lvl9-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 Annexe 2.12[^t-32]
 
@@ -4924,7 +4924,7 @@ On entend par additifs pour combustibles des substances ou des préparations qui
 
 L’ajout d’additifs aux combustibles est régi par l’annexe 5 de l’ordonnance du 16 décembre 1985 sur la protection de l’air[^annex213-lvlu1-lvl3-1].
 
-[^annex213-lvlu1-lvl3-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex213-lvlu1-lvl3-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 Annexe 2.14[^t-34]
 
@@ -4962,7 +4962,7 @@ Annexe 2.14[^t-34]
 
 <sup>4</sup> Les coûts du contrôle mentionné à l’al. 1 doivent être supportés par le propriétaire de l’installation.
 
-[^annex214-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annex214-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 Annexe 2.15[^t-35]
 
@@ -5042,7 +5042,7 @@ Annexe 2.15[^t-35]
 
 Les consommateurs sont tenus de remettre les piles à éliminer à un commerçant ou un fabricant obligé à les reprendre, de les confier à une collecte sélective ou de les déposer dans un centre de collecte de piles. Les piles automobiles peuvent également être remises à des entreprises d’élimination disposant d’une autorisation au sens de l’art. 10 de l’ordonnance du 22 juin 2005 sur les mouvements de déchets[^annex215-lvlu1-lvl5-lvl51-1] dans la mesure où ces entreprises acceptent de les reprendre.
 
-[^annex215-lvlu1-lvl5-lvl51-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex215-lvlu1-lvl5-lvl51-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 5.2 Obligation de reprendre
 
@@ -5306,7 +5306,7 @@ L’interdiction au sens du ch. 3<sup>bis</sup>.2 ne s’applique pas aux métau
 
 [^annex216-lvlu1-lvl3ter-lvl3ter.3-1]
 
-[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 La mise sur le marché d’objets usuels, de jouets, de bijoux et de mèches de bougies contenant du plomb ou des composés du plomb, destinés au grand public et qui pourraient ou dont des parties accessibles pourraient être mis en bouche par des enfants dans des conditions normales ou raisonnablement prévisibles d’utilisation est régie par l’ODAlOUs.
 

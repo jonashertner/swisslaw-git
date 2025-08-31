@@ -4,20 +4,20 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2025-06-02
+version: 2025-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250602-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250602/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente la riduzione dei rischi nell'utilizzazione di determinate sostanze, preparati e oggetti particolarmente pericolosi
+# Ordinanza concernente la riduzione dei rischi nell’utilizzazione di determinate sostanze, preparati e oggetti particolarmente pericolosi
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 2 giugno 2025)
+del 18 maggio 2005 (Stato 1° settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,12 +25,12 @@ visti gli articoli 2 capoverso 4, 19, 22 capoverso 2, 24, 38, 39 capoverso 2, 44
 
 ordina:
 
-[^ingress-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-5]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-4]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-7]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
 
 ## Capitolo 1: Disposizioni generali
@@ -62,11 +62,11 @@ La presente ordinanza non si applica:
 - b.[^1-7] al transito di sostanze, preparati e oggetti sotto vigilanza doganale, purché durante tale transito non vengano trattati o trasformati.
 
 [^1-1]: Nuovo testo giusta dall’all. 6 n. 11 dell’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^1-2]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^1-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^1-3]: Nuovo testo giusta l’all. 3 cifra II n. 8 dell’O del 22 giu. 2005 sul traffico dei rifiuti, in vigore dal 1° gen. 2006 ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)).
-[^1-4]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^1-4]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 [^1-5]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
-[^1-6]: [RS 814.620](https://fedlex.data.admin.ch/eli/cc/2021/633)
+[^1-6]: [RS 814.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9577)
 [^1-7]: Nuovo testo giusta l’all. 4 n. 45 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
@@ -305,10 +305,10 @@ Alla Confederazione competono:
 
 <sup>3</sup> Per i concimi l’esecuzione è inoltre retta, in via supplementare, dalle prescrizioni esecutive dell’ordinanza del 1° novembre 2023[^16-4] sui concimi.[^16-5]
 
-[^16-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^16-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^16-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
+[^16-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^16-3]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^16-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^16-4]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 [^16-5]: Nuovo testo giusta l’all. 5 cifra II n. 3 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 
 #### Art. 17
@@ -358,7 +358,7 @@ Possono disporre che le persone che impiegano a titolo professionale o commercia
 Il carattere confidenziale dei dati e lo scambio di dati fra le autorità esecutive e con l’estero sono retti dagli articoli 73–76 OPChim[^21-2].
 
 [^21-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^21-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^21-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 22
 
@@ -366,7 +366,7 @@ Il carattere confidenziale dei dati e lo scambio di dati fra le autorità esecut
 
 L’obbligo di pagare gli emolumenti e il calcolo degli stessi per atti amministrativi delle autorità esecutive federali secondo la presente ordinanza sono retti dall’ordinanza del 18 maggio 2005[^22-1] sugli emolumenti per l’esecuzione della legislazione in materia di prodotti chimici da parte delle autorità federali.
 
-[^22-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+[^22-1]: [RS 813.153.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9404)
 
 ## Capitolo 4: Disposizioni finali
 
@@ -661,7 +661,7 @@ Allegato 1.3[^t-4]
 - a. secondo lo stato della tecnica per l’impiego in questione non esistono alternative al cloroformio; e
 - b. la quantità di cloroformio impiegata non supera quella necessaria per lo scopo perseguito, ma al massimo 20 litri all’anno.
 
-[^annex13-lvlu1-lvl2-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex13-lvlu1-lvl2-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Etichettatura particolare
 
@@ -738,7 +738,7 @@ In deroga al divieto di cui al numero 2.1 è autorizzata la fabbricazione di sos
 - a. contengono sostanze che impoveriscono lo strato di ozono;
 - b. sono stati fabbricati con sostanze che impoveriscono lo strato di ozono e sono elencati in uno degli allegati del Protocollo di Montreal del 16 settembre 1987[^annex14-lvlu1-lvl3-lvl31-1] sulle sostanze che impoveriscono lo strato di ozono (Protocollo di Montreal).
 
-[^annex14-lvlu1-lvl3-lvl31-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex14-lvlu1-lvl3-lvl31-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 ### 3.2 Deroghe
 
@@ -748,10 +748,10 @@ Il divieto di cui al numero 3.1 non si applica all’immissione sul mercato di:
 - b. preparati e oggetti che possono essere immessi sul mercato secondo le disposizioni degli allegati 2.9–2.11 e, se sono importati, la cui importazione avviene da Stati che si attengono alle disposizioni approvate dalla Svizzera del Protocollo di Montreal e delle sue modifiche del 29 giugno 1990[^annex14-lvlu1-lvl3-lvl32-1], 25 novembre 1992[^annex14-lvlu1-lvl3-lvl32-2], 17 settembre 1997[^annex14-lvlu1-lvl3-lvl32-3] e 3 dicembre 1999[^annex14-lvlu1-lvl3-lvl32-4];
 - c. preparati che secondo il numero 1 capoverso 2 sono equiparati alle sostanze che impoveriscono lo strato di ozono.
 
-[^annex14-lvlu1-lvl3-lvl32-1]: [RS 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex14-lvlu1-lvl3-lvl32-2]: [RS 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex14-lvlu1-lvl3-lvl32-3]: [RS 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex14-lvlu1-lvl3-lvl32-4]: [RS 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex14-lvlu1-lvl3-lvl32-1]: [RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
+[^annex14-lvlu1-lvl3-lvl32-2]: [RS 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
+[^annex14-lvlu1-lvl3-lvl32-3]: [RS 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
+[^annex14-lvlu1-lvl3-lvl32-4]: [RS 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
 
 ### 3.3 Importazione di sostanze
 
@@ -776,7 +776,7 @@ Chi intende importare o stoccare in un deposito doganale aperto, in un deposito 
 
 <sup>3</sup> L’UFAM informa i Cantoni e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] in merito alla concessione e alla revoca di autorizzazioni generali d’importazione.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 3.3.4 Domanda
 
@@ -795,7 +795,7 @@ Chi intende importare o stoccare in un deposito doganale aperto, in un deposito 
 
 <sup>2</sup> L’UFAM può esigere ulteriori dati sulla provenienza e sulla destinazione delle sostanze.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 3.3.5 Decisione
 
@@ -811,7 +811,7 @@ Chi intende importare o stoccare in un deposito doganale aperto, in un deposito 
 
 <sup>3</sup> In caso di stoccaggio in un deposito doganale aperto, in un deposito di merci di gran consumo o in un deposito franco doganale, il depositario o il depositante devono indicare il numero dell’autorizzazione d’importazione in un inventario di tutte le merci depositate.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 4 Esportazione
 
@@ -970,7 +970,7 @@ Allegato 1.5[^t-6]
 
 <sup>3</sup> Sono considerate sostanze rigenerate stabili nell’aria le sostanze prodotte riciclando sostanze stabili nell’aria senza che ne sia modificata la composizione chimica.
 
-[^annex15-lvlu1-lvl1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^annex15-lvlu1-lvl1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^annex15-lvlu1-lvl1-2]: L’elenco degli altri composti organici fluorurati più usati è disponibile sul sito www.bafu.admin.ch &gt; Prodotti chimici &gt; Informazioni per gli specialisti &gt; Disposizioni e procedure &gt; Sostanze stabili nell’aria.
 
 ### 2 Sostanze stabili nell’aria che impoveriscono lo strato di ozono
@@ -1044,7 +1044,7 @@ Fatto salvo il numero 8 capoverso 1, un’autorizzazione d’importazione è con
 
 <sup>2</sup> L’UFAM può esigere ulteriori dati sulla provenienza e sulla destinazione delle sostanze.
 
-[^annex15-lvlu1-lvl4-lvl43-lvl434-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex15-lvlu1-lvl4-lvl43-lvl434-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 4.3.5 Decisione
 
@@ -1060,7 +1060,7 @@ Fatto salvo il numero 8 capoverso 1, un’autorizzazione d’importazione è con
 
 <sup>3</sup> In caso di stoccaggio in un deposito doganale aperto, in un deposito di merci di gran consumo o in un deposito franco doganale, il depositario o il depositante devono indicare il numero dell’autorizzazione d’importazione in un inventario di tutte le merci depositate.
 
-[^annex15-lvlu1-lvl4-lvl43-lvl436-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex15-lvlu1-lvl4-lvl43-lvl436-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 5 Esportazione
 
@@ -1253,7 +1253,7 @@ impianti.
 
 Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex15-lvlu1-lvl10-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto) e gli impianti di distribuzione contenenti esafluoruro di zolfo o preparati contenenti esafluoruro di zolfo, fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo il numero 5 ORRPChim nella versione del 10 dicembre 2010[^annex15-lvlu1-lvl10-2].
 
-[^annex15-lvlu1-lvl10-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex15-lvlu1-lvl10-1]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 [^annex15-lvlu1-lvl10-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 ### 11 Disposizioni transitorie concernenti la modifica del 24 novembre 2021.
@@ -1317,7 +1317,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1401,8 +1401,8 @@ Allegato 1.7[^t-8]
 
 <sup>4</sup> Per l’immissione sul mercato di pile, imballaggi e componenti di imballaggi, veicoli e loro materiali e componenti, materiali legnosi nonché di apparecchiature elettriche ed elettroniche e dei loro pezzi di ricambio si applicano gli allegati 2.15-2.18.
 
-[^annex17-lvlu1-lvl1-lvl11-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex17-lvlu1-lvl1-lvl11-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex17-lvlu1-lvl1-lvl11-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex17-lvlu1-lvl1-lvl11-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 1.2 Deroghe
 
@@ -1481,7 +1481,7 @@ Non necessita di un’autorizzazione chi importa:
 - c. una sostanza menzionata alla lettera a o b oppure un preparato ivi menzionato per essere utilizzato quale sostanza, o in un preparato o in un oggetto, se la sostanza, il preparato o l’oggetto è destinato a scopi di analisi e di ricerca.
 
 [^annex17-lvlu1-lvl1-lvl14-lvl142-1]: La lista delle Parti è pubblicata sul sito Internet dell’UFAM: [www.ufam.admin.ch](http://www.ufam.admin.ch/) &gt; Prodotti chimici &gt; Disposizioni e procedure.
-[^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [RS 0.814.82](https://fedlex.data.admin.ch/eli/cc/2017/467)
+[^annex17-lvlu1-lvl1-lvl14-lvl142-2]: [RS 0.814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3560)
 
 ### 1.4.3 Presupposti per il rilascio dell’autorizzazione
 
@@ -1509,7 +1509,7 @@ Nella domanda devono figurare almeno:
 
 - d. la certificazione di cui al numero 1.4.3 lettera c.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 ### 1.4.5 Decisione
 
@@ -1528,7 +1528,7 @@ Nella domanda devono figurare almeno:
 
 <sup>3</sup> In caso di stoccaggio in un deposito doganale aperto, in un deposito di merci di gran consumo o in un deposito franco doganale, il depositario o il depositante devono indicare il numero dell’autorizzazione d’importazione in un inventario di tutte le merci depositate.
 
-[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 1.4.7 Obbligo di conservazione
 
@@ -1703,7 +1703,7 @@ Allegato 1.8[^t-9]
 
 <sup>3</sup> È vietata l’immissione sul mercato di fibre tessili lavabili nonché di prodotti tessili semilavorati e lavorati come fibre, filati, tessuti, pannelli a maglia, prodotti tessili per interni, accessori o abbigliamento se il loro contenuto in massa di etossilati di nonilfenolo è pari o superiore allo 0,01 per cento rispetto alla componente tessile.
 
-[^annex18-lvlu1-lvl1-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex18-lvlu1-lvl1-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 2 Deroghe
 
@@ -1763,7 +1763,7 @@ I prodotti tessili che contengono sostanze secondo il numero 1.1 e che sono dest
 <sup>2</sup> Per veicolo a motore ai sensi del numero 4 lettera a numeri 2 e 4 si intende un veicolo che rientra nelle classi M, N o O secondo l’allegato II parte A punto 1 della direttiva 2007/46/CE[^annex19-lvlu1-lvl2-lvl21-4].
 
 [^annex19-lvlu1-lvl2-lvl21-1]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante regole comuni nel settore dell’aviazione civile e che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio e che abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, GU L 212 del 22.8.2018, pag. 1.
-[^annex19-lvlu1-lvl2-lvl21-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex19-lvlu1-lvl2-lvl21-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex19-lvlu1-lvl2-lvl21-3]: L’elenco degli Stati è disponibile su Internet all’indirizzo www.icao.int &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex19-lvlu1-lvl2-lvl21-4]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli (direttiva quadro), GU L 263 del 9.10.2007, pag. 1; modificata da ultimo dal regolamento (UE) 2017/1347, modificato dalla GU L 192 del 24.7.2017, pag. 1.
 
@@ -1845,7 +1845,7 @@ Allegato 1.10[^t-11]
 
 ## Sostanze cancerogene, mutagene o pericolose per la riproduzione
 
-[^t-11]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal dalla cifra I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 al 1° giu. 2025 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dalla cifra I dell’O dell’UFSP del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)).
+[^t-11]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal dalla cifra I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2022 al 1° giu. 2025 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dalla cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)), dalle cifre I delle O dell’UFSP del 5 set. 2023 ([RU 2023 520](https://fedlex.data.admin.ch/eli/oc/2023/520)) e dell’11 ago. 2025, in vigore dal 1° set. 2025 ([RU 2025 508](https://fedlex.data.admin.ch/eli/oc/2025/508)).
 
 ### 1 Divieto
 
@@ -1855,8 +1855,8 @@ Allegato 1.10[^t-11]
 
 <sup>3</sup> È vietato l’impiego di carta termica con un contenuto in massa di bisfenolo A (n. CAS 80-05-7) o bisfenolo S (n. CAS 80-09-1) dello 0,02 per cento o superiore.
 
-[^annex110-lvlu1-lvl1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2023/1132, GU L 149 del 9.6.2023, pag. 49.
-[^annex110-lvlu1-lvl1-2]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2023/1435, GU L 176 dell’11.7.2023 pag. 6.
+[^annex110-lvlu1-lvl1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2025/1731, GU L, 2025/1731, 11.8.2025.
+[^annex110-lvlu1-lvl1-2]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2024/197, GU L, 2024/197, 5.1.2024.
 
 ### 2 Deroghe
 
@@ -1873,7 +1873,7 @@ Allegato 1.10[^t-11]
 <sup>3</sup> Per le sostanze cancerogene, mutagene e pericolose per la riproduzione contenute in prodotti cosmetici si applica l’ordinanza del 16 dicembre 2016[^annex110-lvlu1-lvl2-2] sulle derrate alimentari e gli oggetti d’uso.
 
 [^annex110-lvlu1-lvl2-1]: Cfr. nota al n. 1 cpv. 1.
-[^annex110-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex110-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Etichettatura particolare
 
@@ -1962,7 +1962,7 @@ Allegato 1.12[^t-13]
 
 <sup>2</sup> Per le benzine sono fatte salve le disposizioni dell’ordinanza del 16 dicembre 1985[^annex112-lvlu1-lvl1-lvl12-1] contro l’inquinamento atmosferico.
 
-[^annex112-lvlu1-lvl1-lvl12-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex112-lvlu1-lvl1-lvl12-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 2 Toluene
 
@@ -2006,7 +2006,7 @@ Allegato 1.13[^t-14]
 
 <sup>2</sup> Per i coloranti azoici impiegati in prodotti tessili e in pelle e che possono emettere sostanze di cui al numero 2 capoverso 1 o altre ammine aromatiche si applica l’articolo 64 capoverso 2 dell’ordinanza del 16 dicembre 2016[^annex113-lvlu1-lvl3-1] sulle derrate alimentari e gli oggetti d’uso.
 
-[^annex113-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex113-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 4 Disposizione transitoria
 
@@ -2044,7 +2044,7 @@ Allegato 1.14[^t-15]
 
 [^annex114-lvlu1-lvl1-lvl13-1]
 
-[^annex114-lvlu1-lvl1-lvl13-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex114-lvlu1-lvl1-lvl13-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Si applica l’ordinanza sulle derrate alimentari e gli oggetti d’uso per i materiali tessili, i prodotti di pelletteria e altri oggetti che contengono composti di diottilstagno e destinati a entrare in contatto con il corpo umano, nonché per i materiali e gli oggetti contenenti composti di dibutilstagno e destinati a entrare in contatto con le derrate alimentari nell’ambito della fabbricazione, dell’impiego o dell’imballaggio delle stesse.
 
@@ -2062,7 +2062,7 @@ Si applica l’ordinanza sulle derrate alimentari e gli oggetti d’uso per i ma
 
 <sup>3</sup> Sono considerati oggetti con composti organostannici trisostituiti gli oggetti contenenti questi composti e in cui il contenuto in massa di stagno, negli oggetti interi o in parti di essi, è pari o superiore allo 0,1 per cento.
 
-[^annex114-lvlu1-lvl2-lvl21-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex114-lvlu1-lvl2-lvl21-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 2.2 Divieti
 
@@ -2428,7 +2428,7 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 - e. l’impiego per il quale è stata rilasciata l’autorizzazione;
 - f. la durata e le disposizioni accessorie dell’autorizzazione.
 
-[^annex117-lvlu1-lvl2-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex117-lvlu1-lvl2-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^annex117-lvlu1-lvl2-2]: Cfr. nota a piè di pagina relativa al titolo del presente allegato.
 [^annex117-lvlu1-lvl2-3]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento (UE) n. 2015/491, GU L 78 del 24.3.2015, pag. 12.
 
@@ -2554,8 +2554,8 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 
 <sup>2</sup> L’UFAM, d’intesa con l’UFSP e la SECO, adegua le disposizioni di cui al capoverso 1. Nel far questo tiene conto delle modifiche dell’allegato XIV al regolamento (CE) n. 1907/2006[^annex117-lvlu1-lvl5-3] e delle registrazioni nell’allegato 3 OPChim.
 
-[^annex117-lvlu1-lvl5-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^annex117-lvlu1-lvl5-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex117-lvlu1-lvl5-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex117-lvlu1-lvl5-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^annex117-lvlu1-lvl5-3]: Cfr. nota a piè di pagina relativa al titolo di questo all.
 
 Allegato 1.18[^t-19]
@@ -2593,7 +2593,7 @@ Allegato 1.18[^t-19]
 <sup>6</sup> Un veicolo a motore è definito come un veicolo che rientra nelle categorie M, N o O di cui all’allegato II, parte A punto 1 della direttiva 2007/46/CE[^annex118-lvlu1-lvl1-4].
 
 [^annex118-lvlu1-lvl1-1]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante regole comuni nel settore dell’aviazione civile e che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio e che abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, modificato dalla GU L 212 del 22.8.2018, pag. 1.
-[^annex118-lvlu1-lvl1-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex118-lvlu1-lvl1-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^annex118-lvlu1-lvl1-3]: L’elenco degli Stati è disponibile sul sito Internet dell’OACI www.icao.int &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex118-lvlu1-lvl1-4]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli (direttiva quadro), GU L 263 del 9.10.2007, pag. 1; modificata da ultimo dal regolamento (UE) 2017/1347, GU L 192 del 24.7.2017, pag. 1.
 
@@ -2607,7 +2607,7 @@ Allegato 1.18[^t-19]
 
 [^annex118-lvlu1-lvl3-1]
 
-[^annex118-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex118-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Per l’immissione sul mercato di materiali e oggetti, giocattoli e oggetti d’uso per lattanti e bambini piccoli si applica l’ODerr.
 
@@ -2623,7 +2623,7 @@ Per l’immissione sul mercato di materiali e oggetti, giocattoli e oggetti d’
 [^annex118-lvlu1-lvl4-1]: Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali GU L 136 del 30.4.2004, pag.1; modificato da ultimo dal regolamento (EU) 1027/2012, GU L 316 del 14.11.2012, pag. 38.
 [^annex118-lvlu1-lvl4-2]: Direttiva 2001/82/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali veterinari, GU L 311 del 28.11.2001, pag. 1, modificata da ultimo dal regolamento (CE) n. 596/2009, GU L 188 del 18.7.2009, pag. 14.
 [^annex118-lvlu1-lvl4-3]: Direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, GU L 311 del 28.11.2001, pag. 67; modificata da ultimo dalla direttiva (UE) 2017/745, GU L 117 del 5.5.2017, pag. 1.
-[^annex118-lvlu1-lvl4-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex118-lvlu1-lvl4-4]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### 5 Disposizioni transitorie
 
@@ -2704,7 +2704,7 @@ Allegato 1.19[^t-20]
 - a. all’immissione sul mercato di D5 per il lavaggio a secco di prodotti tessili, pelli e pellicce;
 - b. all’impiego di D5 nel lavaggio a secco di prodotti tessili, pelli e pellicce, se sono state adottate le misure disponibili secondo lo stato della tecnica per prevenire le emissioni di D5.
 
-[^annex119-lvlu1-lvl2-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex119-lvlu1-lvl2-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 ### 3 Disposizioni transitorie
 
@@ -2722,8 +2722,8 @@ Allegato 1.19[^t-20]
 
 <sup>2</sup> I divieti di cui al numero 1 capoverso 2 non si applicano all’impiego di D4 e D6 quali sostanze e in preparati per il lavaggio a secco di prodotti tessili, pelli e pellicce fino al 6 giugno 2026.
 
-[^annex119-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^annex119-lvlu1-lvl3-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex119-lvlu1-lvl3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex119-lvlu1-lvl3-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 Allegato 2
 
@@ -2822,7 +2822,7 @@ Allegato 2.1[^t-21]
 
 [^annex21-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
 [^annex21-lvlu1-lvl3-2]: Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio, del 30 novembre 2009, sui prodotti cosmetici, GU L 342 del 22.12.2009, pag. 59; modificato da ultimo dal regolamento (UE) n. 358/2014, GU L 107 del 10.4.2014, pag. 5.
-[^annex21-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex21-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4 Istruzioni per l’uso
 
@@ -2871,7 +2871,7 @@ Allegato 2.1[^t-21]
 
 <sup>5</sup> In seguito a una domanda motivata, l’UFAM può ammettere altre deroghe al divieto di cui al numero 2 capoverso 1 lettera g per tensioattivi che non sono elencati negli allegati V o VI del regolamento (CE) n. 648/2004 se essi sono utilizzati in detersivi per tessili impiegati esclusivamente per usi non domestici. In tale ambito tiene conto dei criteri stabiliti nell’allegato IV del regolamento (CE) n. 648/2004.
 
-[^annex21-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex21-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 7 Disposizioni transitorie
 
@@ -2995,7 +2995,7 @@ Allegato 2.2[^t-22]
 
 [^annex22-lvlu1-lvl3-1]: International Nomenclature of Cosmetic Ingredients.
 [^annex22-lvlu1-lvl3-2]: Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio, del 30 novembre 2009, sui prodotti cosmetici, GU L 342 del 22.12.2009, pag. 59; modificato da ultimo dal regolamento (UE) n. 358/2014, GU L 107 del 10.4.2014, pag. 5.
-[^annex22-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex22-lvlu1-lvl3-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4 Istruzioni per l’uso
 
@@ -3050,8 +3050,8 @@ Allegato 2.2[^t-22]
 
 <sup>6</sup> In seguito a una domanda motivata, l’UFAM può ammettere altre deroghe al divieto di cui al numero 2 capoverso 1 lettera e per tensioattivi che non sono elencati negli allegati V o VI del regolamento (CE) n. 648/2004. In tale ambito tiene conto dei criteri stabiliti nell’allegato IV del regolamento (CE) n. 648/2004.
 
-[^annex22-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex22-lvlu1-lvl6-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex22-lvlu1-lvl6-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex22-lvlu1-lvl6-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 ### 7 Disposizioni transitorie
 
@@ -3160,7 +3160,7 @@ Sono vietati:
 - b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
 - c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al minimo livello possibile.
 
-[^annex23-lvlu1-lvl4-lvl42-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex23-lvlu1-lvl4-lvl42-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 ### 4.3 Etichettatura particolare
 
@@ -3220,7 +3220,7 @@ Il Cantone può esigere dal detentore di rifiuti di solventi alogenati e dalle d
 <sup>2</sup> Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex23-lvlu1-lvl6-2] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto), fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo l’articolo 4.3 ORRPChim nella versione del 7 novembre 2012.
 
 [^annex23-lvlu1-lvl6-1]: [RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)
-[^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex23-lvlu1-lvl6-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 Allegato 2.4[^t-24]
 
@@ -3248,7 +3248,7 @@ Allegato 2.4[^t-24]
 - h. creosoto, legname (n. CAS 8021-39-4);
 - i. catrame di carbone alcalino bassobollente, residui di estrazione (n. CAS 122384-78-5).
 
-[^annex24-lvlu1-lvl1-lvl11-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex24-lvlu1-lvl1-lvl11-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ### 1.2 Divieti
 
@@ -3285,7 +3285,7 @@ Allegato 2.4[^t-24]
 
 <sup>5</sup> L’organo di notifica (art. 77 OPChim[^annex24-lvlu1-lvl1-lvl13-1]) può concedere deroghe dal divieto di cui al numero 1.2 capoverso 3. Tale decisione è presa d’intesa con i servizi di valutazione competenti definiti nell’articolo 52 OBioc.
 
-[^annex24-lvlu1-lvl1-lvl13-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex24-lvlu1-lvl1-lvl13-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 1.4 Impiego in zone di protezione delle acque sotterranee
 
@@ -3434,9 +3434,9 @@ Allegato 2.5[^t-25]
 
 <sup>5</sup> Per l’impiego di prodotti fitosanitari su e lungo binari ferroviari fuori dalle zone S1, S2 e S<sub>h</sub> di protezione delle acque sotterranee l’Ufficio federale dei trasporti stabilisce le limitazioni e i divieti necessari per la protezione dell’ambiente. A tal fine tiene conto della situazione locale e, prima di adottare una decisione, consulta i Cantoni interessati.
 
-[^annex25-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex25-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex25-lvlu1-lvl1-lvl11-2]: Il promemoria può essere richiesto presso Agridea, 8315 Lindau.
-[^annex25-lvlu1-lvl1-lvl11-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^annex25-lvlu1-lvl1-lvl11-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### 1.2 Deroghe
 
@@ -3613,7 +3613,7 @@ Chi intende esportare le sostanze seguenti e i preparati che contengono tali sos
 <sup>3</sup> Se l’esportazione è destinata a un Paese che è Parte della Convenzione di Rotterdam, l’autorizzazione d’esportazione è rilasciata solo se l’UFAM dispone dell’assenso del Paese di importazione.
 
 [^annex25-lvlu1-lvl4-lvl42-lvl422-1]: L’elenco può essere ordinato a pagamento presso l’UFAM, 3003 Berna oppure consultato gratuitamente sul sito Internet www.pic.int &gt; Countries &gt; Status of ratifications.
-[^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [RS 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
+[^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [RS 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
 
 ### 4.2.3 Domanda
 
@@ -3628,7 +3628,7 @@ Nella domanda devono figurare le seguenti indicazioni:
 - g. la scheda o le schede di dati di sicurezza di cui all’articolo 20 dell’ordinanza del 5 giugno 2015[^annex25-lvlu1-lvl4-lvl42-lvl423-1] sui prodotti chimici;
 - h. se del caso, una certificazione secondo il numero 4.2.2 capoverso 2.
 
-[^annex25-lvlu1-lvl4-lvl42-lvl423-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex25-lvlu1-lvl4-lvl42-lvl423-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ### 4.2.4 Decisione
 
@@ -3649,8 +3649,8 @@ Nella domanda devono figurare le seguenti indicazioni:
 
 <sup>4</sup> Per l’etichetta e la messa a disposizione della scheda di dati di sicurezza si applicano le disposizioni di cui all’articolo 5 capoversi 1 e 3 dell’ordinanza PIC del 10 novembre 2004[^annex25-lvlu1-lvl4-lvl42-lvl425-2].
 
-[^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^annex25-lvlu1-lvl4-lvl42-lvl425-2]: [RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
 
 Allegato 2.6[^t-26]
 
@@ -3666,7 +3666,7 @@ Allegato 2.6[^t-26]
 
 <sup>2</sup> Le superfici coltivate a foraggio sono prati e pascoli, nonché superfici agricole, il cui raccolto viene impiegato interamente o in parte per l’alimentazione del bestiame. Fanno eccezione le superfici agricole dalle quali si raccolgono soltanto i chicchi o le pannocchie.
 
-[^annex26-lvlu1-lvl1-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex26-lvlu1-lvl1-1]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
 ### 2 Prescrizioni di fornitura particolari
 
@@ -3998,7 +3998,7 @@ I compost e digestati presenti in un concime devono rispettare i valori limite d
 
 <sup>5</sup> È vietata l’utilizzazione di concimi nel bosco e in una striscia larga tre metri lungo il suo margine.
 
-[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex26-lvlu1-lvl3-lvl33-lvl331-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex26-lvlu1-lvl3-lvl33-lvl331-2]: Il promemoria può essere richiesto presso Agridea, 8315 Lindau.
 
 ### 3.3.2 Deroghe
@@ -4209,7 +4209,7 @@ Allegato 2.9[^t-29]
 <sup>4</sup> Ai giocattoli e agli oggetti per lattanti e bambini in tenera età contenenti idrocarburi policiclici aromatici di cui al capoverso 1 lettera d numero 2 si applica l’ordinanza del 16 dicembre 2016[^annex29-lvlu1-lvl2-2] sulle derrate alimentari e gli oggetti d’uso.
 
 [^annex29-lvlu1-lvl2-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione n. 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 326/2015, GU L 58 del 3.3.2015, pag. 43.
-[^annex29-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex29-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3 Deroghe
 
@@ -4255,7 +4255,7 @@ Allegato 2.9[^t-29]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250602/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4267,7 +4267,7 @@ Allegato 2.9[^t-29]
 
 L’imballaggio di un preparato, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che è destinato al grande pubblico, deve contenere guanti protettivi conformi alle prescrizioni di cui all’articolo 13 capoverso 2 in combinato disposto con l’articolo 12 capoverso 2 dell’ordinanza del 19 maggio 2010[^annex29-lvlu1-lvl4bis-1] sulla sicurezza dei prodotti. Ciò non si applica agli imballaggi di colle a caldo.
 
-[^annex29-lvlu1-lvl4bis-1]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^annex29-lvlu1-lvl4bis-1]: [RS 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
 
 ### 5 Obbligo di notifica
 
@@ -4498,7 +4498,7 @@ Allegato 2.10[^t-30]
 
 <sup>2</sup> Chi immette sul mercato un tale impianto deve mettere a disposizione del gestore gratuitamente una copia della deroga.
 
-[^annex210-lvlu1-lvl2-lvl23-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° giu. 2019.
+[^annex210-lvlu1-lvl2-lvl23-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° giu. 2019.
 
 ### 2.4 Etichettatura speciale destinata ai professionisti
 
@@ -4602,7 +4602,7 @@ Il divieto di cui al numero 3.3.1 non si applica alla ricarica:
 
 <sup>2</sup> Chi prende in consegna, per smaltirli, apparecchi o impianti che contengono prodotti refrigeranti deve provvedere allo svuotamento e allo smaltimento separato e corretto di tali prodotti.
 
-[^annex210-lvlu1-lvl4-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex210-lvlu1-lvl4-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 5 Obbligo di notifica
 
@@ -4656,7 +4656,7 @@ Dopo aver consultato i settori interessati, l’UFAM emana raccomandazioni:
 <sup>5</sup> Gli impianti che contengono prodotti refrigeranti stabili nell’aria la cui capacità è pari o superiore a 500 tonnellate di CO<sub>2</sub> equivalenti e che sono stati messi in esercizio prima del 1° gennaio 2025 possono continuare a funzionare senza un sistema di rilevazione delle perdite fino al 31 dicembre 2026.
 
 [^annex210-lvlu1-lvl7-1]: [RU 2005 2917](https://fedlex.data.admin.ch/eli/oc/2005/478)
-[^annex210-lvlu1-lvl7-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex210-lvlu1-lvl7-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 [^annex210-lvlu1-lvl7-3]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 Allegato 2.11[^t-31]
@@ -4743,12 +4743,12 @@ I divieti di cui al numero 2.1 non si applicano:
 
 <sup>6</sup> L’esportatore deve conservare l’autorizzazione d’esportazione per un periodo di cinque anni dall’esportazione del prodotto estinguente che impoverisce lo strato di ozono.
 
-[^annex211-lvlu1-lvl3-lvl33-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^annex211-lvlu1-lvl3-lvl33-2]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
-[^annex211-lvlu1-lvl3-lvl33-3]: [RS 0.814.021.1](https://fedlex.data.admin.ch/eli/cc/1993/1078_1078_1078)
-[^annex211-lvlu1-lvl3-lvl33-4]: [RS 0.814.021.2](https://fedlex.data.admin.ch/eli/cc/2002/412)
-[^annex211-lvlu1-lvl3-lvl33-5]: [RS 0.814.021.3](https://fedlex.data.admin.ch/eli/cc/2003/455)
-[^annex211-lvlu1-lvl3-lvl33-6]: [RS 0.814.021.4](https://fedlex.data.admin.ch/eli/cc/2003/456)
+[^annex211-lvlu1-lvl3-lvl33-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^annex211-lvlu1-lvl3-lvl33-2]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
+[^annex211-lvlu1-lvl3-lvl33-3]: [RS 0.814.021.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3486)
+[^annex211-lvlu1-lvl3-lvl33-4]: [RS 0.814.021.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3487)
+[^annex211-lvlu1-lvl3-lvl33-5]: [RS 0.814.021.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3488)
+[^annex211-lvlu1-lvl3-lvl33-6]: [RS 0.814.021.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3489)
 
 ### 4 Impiego
 
@@ -4823,7 +4823,7 @@ I detentori di apparecchi che contengono più di 8 kg di prodotti estinguenti ch
 
 Per gli estintori e gli impianti che contengono o conterranno prodotti estinguenti stabili nell’aria elencati nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex211-lvlu1-lvl9-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto), fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo l’articolo 8 ORRPChim nella versione del 10 dicembre 2010[^annex211-lvlu1-lvl9-2].
 
-[^annex211-lvlu1-lvl9-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex211-lvlu1-lvl9-1]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 [^annex211-lvlu1-lvl9-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 Allegato 2.12[^t-32]
@@ -4930,7 +4930,7 @@ Gli additivi per combustibili sono sostanze o preparati aggiunti ai combustibili
 
 Per l’aggiunta di additivi a combustibili si applicano i requisiti di cui all’allegato 5 dell’ordinanza del 16 dicembre 1985[^annex213-lvlu1-lvl3-1] contro l’inquinamento atmosferico.
 
-[^annex213-lvlu1-lvl3-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^annex213-lvlu1-lvl3-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 Allegato 2.14[^t-34]
 
@@ -4968,7 +4968,7 @@ Allegato 2.14[^t-34]
 
 <sup>4</sup> I costi del controllo menzionato al capoverso 1 sono a carico del proprietario dell’installazione.
 
-[^annex214-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annex214-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 Allegato 2.15[^t-35]
 
@@ -5048,7 +5048,7 @@ Allegato 2.15[^t-35]
 
 I consumatori devono riconsegnare le pile per lo smaltimento a un commerciante che è tenuto a riprenderle o a un centro di raccolta per pile oppure nell’ambito delle apposite raccolte di pile. Le batterie dei veicoli possono essere consegnate anche a imprese di smaltimento titolari di un’autorizzazione secondo l’articolo 10 dell’ordinanza del 22 giugno 2005[^annex215-lvlu1-lvl5-lvl51-1] sul traffico di rifiuti, a condizione che dette imprese di smaltimento ne accettano la consegna.
 
-[^annex215-lvlu1-lvl5-lvl51-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex215-lvlu1-lvl5-lvl51-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 5.2 Obbligo di ripresa
 
@@ -5312,7 +5312,7 @@ I divieti di cui al numero 3<sup>bis</sup>.2 non si applicano alle leghe per bra
 
 [^annex216-lvlu1-lvl3ter-lvl3ter.3-1]
 
-[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex216-lvlu1-lvl3ter-lvl3ter.3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 Si applica l’ODerr per l’immissione sul mercato di oggetti d’uso, giocattoli, gioielli e stoppini di candele contenenti piombo o composti di piombo destinati al grande pubblico, e tali oggetti o loro parti accessibili possono, in condizioni d’uso normali o ragionevolmente prevedibili, essere messi in bocca dai bambini.
 
@@ -5421,7 +5421,7 @@ I materiali e i componenti per veicoli devono essere etichettati o resi identifi
 
 <sup>1</sup> Il divieto di cui al 1<sup>bis</sup>.2 non si applica all’immissione sul mercato di prodotti in pelle contenenti cromo forniti ai consumatori finali per la prima volta prima del 1° settembre 2016.
 
-<sup>1</sup><sup><sup>bis</sup></sup> Il divieto di cui al numero 3<sup>ter</sup>.2 capoverso 1 non si applica agli oggetti immessi sul mercato per la prima volta prima del 1° gennaio 2019.
+<sup>1</sup>bis Il divieto di cui al numero 3<sup>ter</sup>.2 capoverso 1 non si applica agli oggetti immessi sul mercato per la prima volta prima del 1° gennaio 2019.
 
 <sup>2</sup> Il divieto di cui al numero 5.2 capoverso 1 non si applica ai materiali e componenti per veicoli, se sono elencati nell’allegato II della direttiva 2000/53/CE[^annex216-lvlu1-lvl7-1] e se sono stati immessi sul mercato per la prima volta entro i termini e alle condizioni menzionati in tale allegato.
 
