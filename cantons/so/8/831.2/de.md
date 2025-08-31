@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2025-01-01
-valid_until: 2025-08-31
-version_adopted: 2024-09-24
+version: 2025-09-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-27
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5494/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5559/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5494/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.01.2025)
+Vom 29.10.2007 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -885,7 +885,7 @@ beschliesst:
 
 <sup>2</sup> Personen, die Ergänzungsleistungen zur AHV/IV beziehen, haben Anspruch auf Prämienverbilligung in der Höhe der vom Eidgenössischen Departement des Innern festgelegten Durchschnittsprämie für die obligatorische Krankenpflegeversicherung. Die Prämienverbilligung ist in den Ergänzungsleistungen mit enthalten.
 
-<sup>3</sup> Personen die wirtschaftliche Hilfe nach Sozialhilferecht beziehen, haben Anspruch auf Prämienverbilligung in der Höhe ihrer Grundversicherung, maximal jedoch in der Höhe der kantonalen Durchschnittsprämie für die obligatorische Krankenversicherung. Personen, die neu Sozialhilfeleistungen beziehen und deren Prämie höher ist als die kantonale Durchschnittsprämie, wird bis zum nächstmöglichen Kündigungstermin Prämienverbilligung in der Höhe ihrer Grundversicherung gewährt. Die Prämienverbilligung wird direkt dem Krankenversicherer ausbezahlt und dem Kredit Prämienverbilligung belastet. Die Sozialhilfebehörde meldet die Prämienverbilligung der Ausgleichskasse, unter Angabe der AHV-Nr. der unterstützten Person.
+<sup>3</sup> Personen, die wirtschaftliche Hilfe nach Sozialhilferecht beziehen, haben Anspruch auf Prämienverbilligung in der Höhe ihrer Grundversicherung, maximal jedoch in der Höhe der kantonalen Richtprämie für die obligatorische Krankenversicherung. Personen, die neu Sozialhilfeleistungen beziehen und deren Prämie höher ist als die kantonale Richtprämie, wird bis zum nächstmöglichen Kündigungstermin Prämienverbilligung in der Höhe ihrer Grundversicherung gewährt. Die Prämienverbilligung wird direkt dem Krankenversicherer ausbezahlt und dem Kredit Prämienverbilligung belastet. Die Sozialhilfebehörde meldet die Prämienverbilligung der Ausgleichskasse, unter Angabe der AHV-Nr. der unterstützten Person.
 
 <sup>4</sup> Personen, die durch besondere Verhältnisse wie Naturereignisse, Todesfall, Unglück, Krankheit, Arbeitslosigkeit, Sozialhilfebedürftigkeit, geschäftliche Rückschläge und dergleichen in ihrer Zahlungsfähigkeit stark beeinträchtigt sind, können bei der Ausgleichskasse beantragen, dass ihnen eine Prämienverbilligung anstatt nach den massgebenden Steuerwerten nach der wirtschaftlichen Leistungsfähigkeit im Anspruchsjahr ausbezahlt wird. Die Bestimmungen über den betreibungsrechtlichen Notbedarf sind sinngemäss anwendbar.
 
@@ -1297,6 +1297,12 @@ beschliesst:
 #### § 100
 
 **…**
+
+#### § 100bis
+
+**Übergangsbestimmung zur Änderung vom 27. Mai 2025**
+
+<sup>1</sup> Die Prämienverbilligung wird für Personen, die wirtschaftliche Hilfe nach Sozialhilferecht gemäss § 71 Absatz 3 beziehen, erstmals für das Jahr 2026 nach den geänderten Bestimmungen abgewickelt.
 
 #### § 101
 
