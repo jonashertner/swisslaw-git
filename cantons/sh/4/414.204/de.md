@@ -4,71 +4,69 @@ number: "414.204"
 title: Verordnung des Hochschulrates betreffend die Studiengänge im Leistungsbereich Ausbildung der Pädagogischen Hochschule Schaffhausen
 short: Studiengangverordnung
 language: de
-version: 2023-02-01
-corrected: 2024-06-17
-version_adopted: 2023-02-22
+version: 2025-09-01
+version_adopted: 2025-09-01
 adopted: 2020-08-24
 in_force: 2020-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/414.204"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/451/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2004/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Hochschulrates betreffend die Studiengänge im Leistungsbereich Ausbildung der Pädagogischen Hochschule Schaffhausen (Studiengangverordnung)
+# Verordnung des Hochschulrates betreffend die Studiengänge im Leistungsbereich Ausbildung der Pädagogischen Hochschule Schaffhausen
 
-vom 24. August 2020
+(Studiengangverordnung)
+
+Vom 24.08.2020 (Stand 01.09.2025)
 
 Der Hochschulrat der Pädagogischen Hochschule Schaffhausen,
 
-gestützt auf Art. 15 Abs. 2 lit. e des Hochschulgesetzes vom 2. Dezember 2019,
+gestützt auf Art. 15 Abs. 2 lit. n des Hochschulgesetzes vom 2. Dezember 2019,
 
-verordnet:
+beschliesst:
 
-### I. Allgemeine Bestimmung
+## 1 Allgemeine Bestimmung
 
 #### § 1
 
-**Gegenstand**
+**Regelungsbereich**
 
 <sup>1</sup> In der vorliegenden Verordnung werden allgemeine Bestimmungen zur Ausbildung an der Pädagogischen Hochschule Schaffhausen (PHSH) erlassen und die Studiengänge und deren Inhalte festgelegt.
 
-<sup>2</sup> Die Einzelheiten der Studiengänge regelt der Prorektor bzw. die Prorektorin Ausbildung durch Reglemente.
+<sup>2</sup> Die Einzelheiten der Studiengänge regelt die Prorektorin bzw. der Prorektor Ausbildung durch Reglemente.
 
-### II. Ausbildung
+## 2 Ausbildung
 
 #### § 2
 
 **Aufgabe**
 
-Die Pädagogische Hochschule Schaffhausen (PHSH) bildet Lehrpersonen für die Primarstufe aus und bietet Erweiterungsstudiengänge für zusätzliche Fächer und weitere Schuljahre der Primarstufe an.
-
-Amtsblatt 2020, S. 1465
+<sup>1</sup> Die PHSH bildet Lehrpersonen für die Primarstufe aus und bietet Erweiterungsstudiengänge für zusätzliche Fächer und weitere Schuljahre der Primarstufe an.
 
 #### § 3
 
 **Ziele**
 
-Die Ausbildungsziele der PHSH entsprechen den Anforderungen in Art. 7 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen (Diplomanerkennungsreglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektorenkonferenz [EDK]).
+<sup>1</sup> Die Ausbildungsziele der PHSH entsprechen den Anforderungen in Art. 7 des Reglements über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen (Diplomanerkennungsreglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektorenkonferenz [EDK]).
 
 #### § 4
 
 **Ausbildungsstandards**
 
-Die Ausbildungsstandards an der PHSH richten sich nach dem Kompetenzstrukturmodell der Pädagogischen Hochschule Zürich.
+<sup>1</sup> Die Ausbildungsstandards an der PHSH richten sich nach dem Kompetenzstrukturmodell der Pädagogischen Hochschule Zürich.
 
 #### § 5
 
 **Dauer und Gliederung des Studiums**
 
-<sup>1</sup> Die Ausbildung an der PHSH dauert grundsätzlich drei Jahre, aufgeteilt in sechs Semester, und ist als Vollzeitstudium konzipiert. Sie gliedert sich in ein Basisstudium (1. Studienjahr) und ein Diplomstudium (2. und 3. Studienjahr).
+<sup>1</sup> Die Ausbildung an der PHSH kann als Voll- oder Teilzeitstudium oder als berufsintegriertes Teilzeitstudium absolviert werden.
 
-<sup>2</sup> Ein Teilzeitstudium ist möglich, indem nur ein Teil der Veranstaltungen besucht wird. Die Ausbildungszeit verlängert sich entsprechend.
+<sup>2</sup> Das Vollzeitstudium dauert grundsätzlich drei Jahre, aufgeteilt in sechs Semester. Im Teilzeitstudium wird nur ein Teil der Veranstaltungen besucht, wobei sich die Ausbildungszeit entsprechend verlängert.
 
-<sup>3</sup> Das Basisstudium wird mit dem Bestehen der Module des 1. Studienjahres und der Eignungsabklärung, das Diplomstudium mit dem Bestehen aller Module des 2. und 3. Studienjahres abgeschlossen.[^5-1]
+<sup>3</sup> Das berufsintegrierte Teilzeitstudium bedingt eine Anstellung in der Regel ab dem 2. Studienjahr als Lehrperson mit einem Pensum von rund 40%. Für Studierende mit Hochschulabschluss beträgt die Studienzeit in der Regel drei Jahre.
 
-[^5-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
+<sup>4</sup> Die Ausbildung ist gegliedert in das 1. Studienjahr (Basis) sowie das 2. und 3. Studienjahr der jeweiligen Studiengänge gemäss § 11. Das 1. Studienjahr wird mit dem Bestehen der entsprechenden Module und der Eignungsabklärung abgeschlossen. Das 2. und das 3. Studienjahr werden mit dem Bestehen der Module des betreffenden Studienjahres abgeschlossen.
 
 #### § 6
 
@@ -76,7 +74,7 @@ Die Ausbildungsstandards an der PHSH richten sich nach dem Kompetenzstrukturmode
 
 <sup>1</sup> Entsprechend dem European Credit Transfer and Accumulation System (ECTS) erhalten Studierende für erfolgreich absolvierte Module oder Studienleistungen Kreditpunkte gutgeschrieben. Dabei entspricht ein Kreditpunkt 30 Arbeitsstunden der Studierenden.
 
-<sup>2</sup> Der Umfang des Studiums zum Erwerb eines Lehrdiploms für die Primarstufe beträgt 180 Kreditpunkte. Das entspricht jenem eines Bachelorstudiums gemäss den Bologna-Richtlinien.
+<sup>2</sup> Der Umfang des Studiums zum Erwerb eines Lehrdiploms für die Primarstufe beträgt 180 Kreditpunkte. Das entspricht jenem eines Bachelorstudiums gemäss den Bologna-Richtlinien.
 
 <sup>3</sup> Die Module sind in ihrer Form unterschiedlich. Sie können Vorlesungen, Seminare, Trainings, Praktika, Projektarbeiten oder selbständiges Studium umfassen.
 
@@ -86,159 +84,132 @@ Die Ausbildungsstandards an der PHSH richten sich nach dem Kompetenzstrukturmode
 
 <sup>1</sup> Bereits erbrachte, für die Erlangung des Lehrdiploms relevante formale Bildungs- und Studienleistungen werden angemessen angerechnet. Die Anrechnung validierter Unterrichtspraxis an die berufspraktische Ausbildung ist möglich.
 
-<sup>2</sup> Die Anrechnung von Vorleistungen erfolgt für jeden Studenten bzw. jede Studentin individuell. Der Prorektor bzw. die Prorektorin Ausbildung legt das Vorgehen und den Referenzrahmen für die Anrechnung in einem Reglement fest.
+<sup>2</sup> Die an der PHSH erworbenen ECTS-Kreditpunkte können während sechs Jahren angerechnet werden. In begründeten Fällen kann diese Frist durch die Prorektorin bzw. den Prorektor Ausbildung verlängert werden.
+
+<sup>3</sup> Die Anrechnung von Vorleistungen erfolgt für jede Studentin bzw. jeden Studenten individuell. Die Prorektorin bzw. der Prorektor Ausbildung legt das Vorgehen und den Referenzrahmen für die Anrechnung in einem Reglement fest.
 
 #### § 8
 
 **Diplom**
 
-<sup>1</sup> Die PHSH stellt die folgenden Lehrdiplome aus:
+<sup>1</sup> Die PHSH stellt die folgenden Lehr- und Bachelordiplome aus:
 
-- a) …[^8-1]
-
-- b) Lehrdiplom für die Primarstufe Schuljahre 1 bis 5;
-
-- c) Lehrdiplom für die Primarstufe Schuljahre 3 bis 8.
+- a) …
+- b) Lehrdiplom für die Primarstufe Schuljahre 1 bis 5
+- c) Lehrdiplom für die Primarstufe Schuljahre 3 bis 8
 
 <sup>2</sup> Die Diplomurkunden werden gemäss den Vorgaben in Art. 17 des Diplomanerkennungsreglements EDK ausgestellt.
 
 <sup>3</sup> Das Lehrdiplom berechtigt zur Führung eines Titels gemäss Art. 18 des Diplomanerkennungsreglements EDK.
 
-[^8-1]: Aufgehoben durch V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
-
 #### § 9
 
 **Mobilitätssemester**
 
-<sup>1</sup> Die Studierenden haben die Möglichkeit, ein Mobilitätssemester an einer Pädagogischen Hochschule in der Schweiz oder im Ausland zu absolvieren.
+<sup>1</sup> Die Studierenden haben nach vorrangiger Genehmigung durch die Prorektorin oder den Prorektor Ausbildung die Möglichkeit, für ein sachverwandtes Studium ein Mobilitätssemester an einer Hochschule in der Schweiz oder im Ausland zu absolvieren.
 
-<sup>2</sup> …[^9-1]
-
-[^9-1]: Aufgehoben durch V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
+<sup>2</sup> …
 
 #### § 10
 
 **Studienunterbruch**
 
-<sup>1</sup> Studierende können das Studium aus wichtigen Gründen wie Krankheit, Schwangerschaft, Militär- oder Zivildienst für maximal zwei Semester unterbrechen.
+<sup>1</sup> Studierende können das Studium aus wichtigen Gründen wie Krankheit, Schwangerschaft, Militär- oder Zivildienst für zwei Semester unterbrechen. Der Unterbruch kann in begründeten Fällen verlängert werden.
 
-<sup>2</sup> Gesuche sind schriftlich und unter Nachweis des Urlaubsgrundes so früh als möglich beim Prorektor bzw. bei der Prorektorin Ausbildung einzureichen.
+<sup>2</sup> Gesuche sind schriftlich und unter Nachweis des Urlaubsgrundes so früh als möglich bei der Prorektorin bzw. beim Prorektor Ausbildung einzureichen.
 
-### III. Studieninhalte und Wahl der Angebote
+## 3 Studieninhalte
 
 #### § 11
 
-**Ausbildungsbereiche**
+**Studiengänge**
 
-Alle Studiengänge beinhalten folgende Ausbildungsbereiche:
+<sup>1</sup> Die PHSH bietet die nachfolgenden Studiengänge an:
 
-- Fachausbildung: Fachwissenschaften, Fachdidaktik;
+- a) Pirmarstufe Schuljahre 1-5
+- b) Primarstufe Schuljahre 3-8
+- c)–e) …
 
-- Erziehungswissenschaften: Bildung und Erziehung, Beziehungsgestaltung – Führung – Kommunikation, Gesellschaft und Bildung;
+<sup>2</sup> Die Studiengänge beinhalten folgende Ausbildungsbereiche:
 
-- Berufspraktische Ausbildung;
-
-- Forschung und Entwicklung;
-
-- Bachelorarbeit.
+- a) Fachausbildung: Fachwissenschaften, Fachdidaktik
+- b) Erziehungswissenschaften: Bildung und Erziehung, Beziehungsgestaltung – Führung – Kommunikation, Gesellschaft und Bildung
+- c) berufspraktische Ausbildung
+- d) Forschung und Entwicklung
+- e) Bachelorarbeit
 
 #### § 12
 
-**Vertiefungsangebote**
+**Vertiefungsmodule**
 
-<sup>1</sup> Die Studierenden können durch die Wahl von Vertiefungen in ihrer Ausbildung Schwerpunkte setzen. Der Vertiefungsbereich kann verschiedene Ziele haben:[^12-1] a) Vertiefung in einem Ausbildungsbereich;
+<sup>1</sup> Die Studierenden können durch die Wahl von Vertiefungsmodulen in ihrer Ausbildung Schwerpunkte setzen. Die gewählten Vertiefungsbereiche können die nachfolgenden Ziele verfolgen:
 
-- b) Zusatzqualifikation für besondere Aufgaben innerhalb des Schulbereichs;
+- a) Vertiefung in einem Ausbildungsbereich
+- b) Zusatzqualifikation für besondere Aufgaben innerhalb des Schulbereichs
+- c) Förderung der Studien- oder Berufsmobilität (z.B. durch das Absolvieren von Modulen an einer anderen Hochschule)
 
-- c) Förderung der Studien- oder Berufsmobilität (z.B. durch das Absolvieren von Modulen an einer anderen Hochschule).
-
-<sup>2</sup> Die Studierenden wählen Module aus dem Vertiefungsangebot der PHSH. Der Prorektor bzw. die Prorektorin Ausbildung kann auch an anderen Hochschulen absolvierte Module im Vertiefungsbereich anrechnen.
-
-[^12-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
+<sup>2</sup> Die Studierenden wählen Module aus dem Vertiefungsangebot der PHSH. Die Prorektorin bzw. der Prorektor Ausbildung kann auch an anderen Hochschulen absolvierte Module im Vertiefungsbereich anrechnen.
 
 #### § 13
 
-**Wahl von Fächern, Vertiefungsmodulen und freiwilligen Angeboten**
+**Wahl von Studiengang, Pflichtwahlfächern, Vertiefungsmodulen und freiwilligen Angeboten**
 
-<sup>1</sup> Die Wahl des Studiengangs erfolgt bei der Anmeldung an die PHSH. Bis Ende des ersten Semesters ist ein Wechsel des Studiengangs ohne Studienzeitverlängerung möglich.
+<sup>1</sup> Die Wahl des Studiengangs erfolgt bei der Anmeldung an die PHSH. Bis Ende der dritten Woche des ersten Semesters ist ein Wechsel des Studiengangs ohne Studienzeitverlängerung möglich.
 
-<sup>2</sup> Die Wahl der Pflichtwahlfächer beim Studiengang Primarstufe Schuljahre 3 bis 8 erfolgt bei der Anmeldung an die PHSH. Bis Ende des ersten Semesters ist ein Wechsel von Fächern ohne Studienzeitverlängerung möglich.
+<sup>2</sup> Die Wahl der Pflichtwahlfächer beim Studiengang Primarstufe Schuljahre 3 bis 8 erfolgt bei der Anmeldung an die PHSH. Bis Ende der dritten Woche des ersten Semesters ist ein Wechsel von Fächern ohne Studienzeitverlängerung möglich.
 
 <sup>3</sup> Für die Wahl von Vertiefungsmodulen und freiwilligen Angeboten haben sich die Studierenden semester-, jahresweise oder für die gesamte Ausbildungsdauer schriftlich anzumelden. Die Wahlentscheide sind grundsätzlich verbindlich.
 
-<sup>4</sup> Über Abmeldung bzw. Wechsel nach Ablauf der Einschreibephase entscheidet der Prorektor bzw. die Prorektorin Ausbildung endgültig auf ein schriftlich begründetes Gesuch hin.
+<sup>4</sup> Über Abmeldung bzw. Wechsel nach Ablauf der Einschreibephase entscheidet die Prorektorin bzw. der Prorektor Ausbildung endgültig auf ein schriftlich begründetes Gesuch hin.
 
-### IV. Basisstudium
+## 4 Erstes Studienjahr
 
 #### § 14
 
-**Inhalte des Basisstudiums**
+**Inhalte**
 
-<sup>1</sup> Das Basisstudium beinhaltet folgende Elemente:
+<sup>1</sup> Das 1. Studienjahr beinhaltet insbesondere folgende Elemente:
 
-- 1\. Grundausbildung
+- 1\. Grundausbildung:
+  - a) Fachausbildung: Fachwissenschaften, Fachdidaktik, praktische Grundkompetenzen
+  - b) Erziehungswissenschaften: Bildung und Erziehung, Beziehungsgestaltung – Führung – Kommunikation
+  - c) berufspraktische Ausbildung
+  - d) …
+- 2\. Studienorientierung:
+  - a) Überprüfung der Wahl des Studiengangs und des Fächerprofils
+  - b) Klärung und Berufseignung
+  - c) Überprüfung von Grundkompetenzen
 
-- Fachausbildung: Fachwissenschaften, Fachdidaktik, praktische Grundkompetenzen;
-
-- Erziehungswissenschaften: Bildung und Erziehung, Beziehungsgestaltung – Führung – Kommunikation;
-
-- Berufspraktische Ausbildung;
-
-- Deutschkompetenz.
-
-- 2\. Studienorientierung
-
-- Überprüfung der Wahl des Studiengangs und des Fächerprofils;
-
-- Klärung und Berufseignung;
-
-- Überprüfung von praktischen Grundkompetenzen im Rahmen von Basiskompetenzprüfungen.[^14-1]
-
-<sup>2</sup> In der Fachausbildung werden im Verlauf des ersten Jahres fachwissenschaftliche und fachdidaktische Inhalte vermittelt.
-
-[^14-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
+<sup>2</sup> …
 
 #### § 15
 
 **Prüfungen und Eignungsabklärung**
 
-<sup>1</sup> Basiskompetenzprüfungen sind im Basisstudium vorgesehen. Einzelheiten werden von der Hochschulleitung in einem Reglement festgelegt.[^15-1]
+<sup>1</sup> Die Grundkompetenzen werden insbesondere in Basiskompetenzprüfungen überprüft. Einzelheiten werden von der Hochschulleitung in einem Reglement festgelegt.
 
-<sup>2</sup> …[^15-2]
+<sup>2</sup> …
 
-<sup>3</sup> Während des Basisstudiums wird bei allen Studierenden im Rahmen der berufspraktischen Ausbildung die Berufseignung abgeklärt.
+<sup>3</sup> Die Berufseignung wird bei allen Studierenden insbesondere im Rahmen der berufspraktischen Ausbildung abgeklärt.
 
-[^15-1]: Fassung gemäss V vom 22. Februar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 379).
-[^15-2]: Aufgehoben durch V vom 22. Februar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 379).
-[^15-3]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
-
-### V. Studiengang Primarstufe Schuljahre 1 bis 5
-
-[^15-3]
+## 5 Studiengang Primarstufe Schuljahre 1 bis 5
 
 #### § 16
 
 **Fächer**
 
-Der Studiengang Primarstufe Schuljahre 1 bis 5 umfasst alle Fächer gemäss Lehrplan Zyklus 1:[^16-1] a) Deutsch;
+<sup>1</sup> Der Studiengang Primarstufe Schuljahre 1 bis 5 umfasst alle Fächer gemäss Lehrplan Zyklus 1:
 
-- b) Mathematik;
+- a) Deutsch
+- b) Mathematik
+- c) Natur, Mensch, Gesellschaft
+- d) Bewegung und Sport
+- e) Bildnerisches Gestalten
+- f) Musik
+- g) Textiles und Technisches Gestalten
+- h) Medien und Informatik
 
-- c) Natur, Mensch, Gesellschaft;
-
-- d) Bewegung und Sport;
-
-- e) Bildnerisches Gestalten;
-
-- f) Musik;
-
-- g) Textiles und Technisches Gestalten;
-
-- h) Medien und Informatik.
-
-[^16-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
-
-### VI. Studiengang Primarstufe Schuljahre 3 bis 8
+## 6 Studiengang Primarstufe Schuljahre 3 bis 8
 
 #### § 17
 
@@ -248,35 +219,27 @@ Der Studiengang Primarstufe Schuljahre 1 bis 5 umfasst alle Fächer gemäss Lehr
 
 <sup>2</sup> Obligatorische Fächer sind:
 
-- a) Deutsch;
+- a) Deutsch
+- b) Mathematik
+- c) Natur, Mensch, Gesellschaft
+- d) Erste Fremdsprache (Englisch oder Französisch)
+- e) Medien und Informatik
 
-- b) Mathematik;
+<sup>3</sup> Aus den folgenden fünf Fächern sind drei Pflichtwahlfächer auszuwählen:
 
-- c) Natur, Mensch, Gesellschaft;
-
-- d) Erste Fremdsprache (Englisch oder Französisch);
-
-- e) Medien und Informatik.
-
-<sup>3</sup> Aus den folgenden fünf Fächern sind drei auszuwählen (Pflichtwahlfächer):
-
-- a) Zweite Fremdsprache (Englisch oder Französisch);
-
-- b) Bewegung und Sport;
-
-- c) Bildnerisches Gestalten;
-
-- d) Musik;
-
-- e) Textiles und Technisches Gestalten.
+- a) Zweite Fremdsprache (Englisch oder Französisch)
+- b) Bewegung und Sport
+- c) Bildnerisches Gestalten
+- d) Musik
+- e) Textiles und Technisches Gestalten
 
 #### § 18
 
 **Fremdsprachen**
 
-Für den Abschluss des Studiums müssen die Studierenden in der Fremdsprache bzw. in den Fremdsprachen ihres Profils das Zertifikat auf Niveau C1 gemäss europäischem Sprachenportfolio vorweisen.
+<sup>1</sup> Für den Abschluss des Studiums müssen die Studierenden in der Fremdsprache bzw. in den Fremdsprachen ihres Profils das Zertifikat auf Niveau C1 gemäss europäischem Sprachenportfolio vorweisen.
 
-### VII. Erweiterungsstudium
+## 7 Erweiterungsstudium
 
 #### § 19
 
@@ -284,9 +247,9 @@ Für den Abschluss des Studiums müssen die Studierenden in der Fremdsprache bzw
 
 <sup>1</sup> Mit dem Erweiterungsstudium für zusätzliche Unterrichtsfächer erweitern Lehrpersonen der Primarstufe das Fächerprofil ihres Lehrdiploms.
 
-<sup>2</sup> Der Umfang der Studienleistung entspricht jenem, der für das entsprechende Fach im regulären Studium zu erbringen ist.
+<sup>2</sup> Der Umfang der Studienleistung entspricht jenem, der für das entsprechende Fach im regulären Studium zu erbringen ist.
 
-<sup>3</sup> Teilnehmende des Erweiterungsstudiums an der PHSH absolvieren die Ausbildungseinheiten innerhalb des Bachelorstudiengangs oder innerhalb von speziellen Angeboten für berufstätige Lehrpersonen.
+<sup>3</sup> Teilnehmende des Erweiterungsstudiums absolvieren die Ausbildungseinheiten innerhalb des Bachelorstudiengangs oder innerhalb von speziellen Angeboten für berufstätige Lehrpersonen.
 
 #### § 20
 
@@ -296,43 +259,35 @@ Für den Abschluss des Studiums müssen die Studierenden in der Fremdsprache bzw
 
 <sup>2</sup> Die PHSH bietet die folgenden Erweiterungsstudiengänge an:
 
-- a) Erweiterungsstudium für die Primarstufe Schuljahre 3 bis 8 für Lehrpersonen mit einem Lehrdiplom der Primarstufe Schuljahre 1 und 2;
+- a) Erweiterungsstudium für die Primarstufe Schuljahre 3 bis 8 für Lehrpersonen mit einem Lehrdiplom der Primarstufe Schuljahre 1 und 2
+- b) Erweiterungsstudium für die Primarstufe Schuljahre 6 bis 8 für Lehrpersonen mit einem Lehrdiplom der Primarstufe Schuljahre 1 bis 5
+- c) Erweiterungsstudium für die Primarstufe Schuljahre 1 bis 5 für Lehrpersonen mit einem Lehrdiplom der Primarstufe Schuljahre 3 bis 8
 
-- b) Erweiterungsstudium für die Primarstufe Schuljahre 6 bis 8 für Lehrpersonen mit einem Lehrdiplom der Primarstufe Schuljahre 1 bis 5;
+<sup>3</sup> Der Umfang der Studienleistung entspricht jenem, der für die entsprechenden Schuljahre im regulären Studium zu erbringen ist und umfasst ca. 60 Kreditpunkte.
 
-- c) Erweiterungsstudium für die Primarstufe Schuljahre 1 bis 5 für Lehrpersonen mit einem Lehrdiplom der Primarstufe Schuljahre 3 bis 8.[^20-1]
+<sup>4</sup> Das Erweiterungsstudium findet grundsätzlich im Teilzeitstudium statt und dauert in der Regel vier Semester, wobei Studierende phasenweise vollzeitlich beansprucht sind. Eine Verlängerung der Studienzeit ist möglich.
 
-<sup>3</sup> Der Umfang der Studienleistung entspricht jenem, der für die entsprechenden Schuljahre im regulären Studium zu erbringen ist und umfasst ca. 60 Kreditpunkte.
-
-<sup>4</sup> Das Erweiterungsstudium wird in der Regel innerhalb von vier Semestern abgeschlossen. Eine Verlängerung der Studienzeit ist möglich.
-
-<sup>5</sup> Das Studium findet grundsätzlich als Teilzeitstudium statt. Es gibt jedoch Phasen, in denen die Studierenden vollzeitlich beansprucht sind.
-
-[^20-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
+<sup>5</sup> …
 
 #### § 21
 
 **Zulassung zur Erweiterung der Lehrbefähigung**
 
-<sup>1</sup> Zum Erwerb einer Lehrbefähigung für zusätzliche Fächer wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe Schuljahre 3 bis 8 verfügt.
+<sup>1</sup> Zum Erwerb einer Lehrbefähigung für zusätzliche Fächer wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe Schuljahre 3 bis 8 verfügt.
 
-<sup>2</sup> Personen, welche die unter Abs. 1 erwähnten Zulassungsbedingungen nicht erfüllen, jedoch über eine entsprechende Bewilligung des Erziehungsdepartements des Kantons Schaffhausen verfügen, können zum Erweiterungsstudium für zusätzliche Fächer zugelassen werden. Diese erhalten nach Abschluss des Erweiterungsstudiums ausschliesslich eine im Kanton Schaffhausen anerkannte Lehrbefähigung im gewählten Fach für die Schuljahre 3 bis 8.
+<sup>2</sup> Personen, welche die unter Abs. 1 erwähnten Zulassungsbedingungen nicht erfüllen, jedoch über eine entsprechende Bewilligung des Erziehungsdepartements des Kantons Schaffhausen verfügen, können zum Erweiterungsstudium für zusätzliche Fächer zugelassen werden. Diese erhalten nach Abschluss des Erweiterungsstudiums ausschliesslich eine im Kanton Schaffhausen anerkannte Lehrbefähigung im gewählten Fach für die Schuljahre 3 bis 8.
 
-<sup>3</sup> Zum Erwerb einer Lehrbefähigung für weitere Schuljahre oder einen weiteren Zyklus der Primarstufe wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe verfügt.
+<sup>3</sup> Zum Erwerb einer Lehrbefähigung für weitere Schuljahre oder einen weiteren Zyklus der Primarstufe wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe verfügt.
 
 #### § 22
 
 **Erweiterungsdiplom**
 
-<sup>1</sup> Ein erfolgreich abgeschlossenes Erweiterungsstudium führt zu einem Erweiterungsdiplom "Lehrbefähigung für das entsprechende Unterrichtsfach bzw. die entsprechenden Schuljahre der Primarstufe". Das Diplom ergänzt das von der EDK anerkannte Lehrdiplom der Primarstufe.
+<sup>1</sup> Ein erfolgreich abgeschlossenes Erweiterungsstudium führt zu einem Erweiterungsdiplom «Lehrbefähigung für das entsprechende Unterrichtsfach bzw. die entsprechenden Schuljahre der Primarstufe». Das Diplom ergänzt das von der EDK anerkannte Lehrdiplom der Primarstufe.
 
 <sup>2</sup> Die Diplomurkunde wird gemäss Art. 19 des Diplomanerkennungsreglements EDK ausgestellt.
 
-[^22-1]: Fassung gemäss V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
-
-### VIII. Schluss- und Übergangsbestimmungen
-
-[^22-1]
+## 8 Schluss- und Übergangsbestimmungen
 
 #### § 23
 
@@ -343,14 +298,13 @@ Für den Abschluss des Studiums müssen die Studierenden in der Fremdsprache bzw
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^23-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
 [^23-1]: Amtsblatt 2020, S. 1465.
-[^23-2]: Eingefügt durch V vom 16. Januar 2023, in Kraft getreten am 1. Februar 2023 (Amtsblatt 2023, S. 176).
 
 #### § 24
 
-**Übergangsbestimmung**[^23-2]
+**Übergangsbestimmung**
 
 <sup>1</sup> Studierende, die sich am 1. Februar 2023 im Basisstudium befinden, schliessen dieses und das Diplomstudium nach neuem Recht ab.
 
 <sup>2</sup> Studierende, die sich am 1. Februar 2023 im Diplomstudium befinden, schliessen dieses nach bisherigem Recht ab.
 
-Fussnoten:
+Abl. 2020, S. 1465
