@@ -4,10 +4,10 @@ number: "922.11"
 title: Kantonale Jagdverordnung (JV)
 short: JV
 language: de
-nachtrag: "119"
-valid_until: 2025-09-01
+version: "2025-09-01"
+nachtrag: "130"
 adopted: 2022-10-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-922_11-2022_10_05-2023_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-922_11-2022_10_05-2023_01_01-130.html"
 text: pdf
 ---
 
@@ -63,7 +63,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 23 - 119 § 4. Gemeinden und Jagdgesellschaften können dem ALN Änderungen der Reviergrenzen bis spätestens ein Jahr vor Beginn der neuen Pachtperiode beantragen.
+1.10. 25 - 130 § 4. Gemeinden und Jagdgesellschaften können dem ALN Änderungen der Reviergrenzen bis spätestens ein Jahr vor Beginn der neuen Pachtperiode beantragen.
 
 #### § 5
 
@@ -173,11 +173,9 @@ Jedes Mitglied der Jagdgesellschaft schliesst eine Haftpflichtversicherung ab. D
 
 **3**
 
-- 1\. 1. 23 - 119 § 15. Hegegemeinschaften sind spätestens drei Monate nach Beginn des neuen Pachtjahres schriftlich beim ALN zu beantragen. Die Vereinbarung regelt insbesondere
+1.10. 25 - 130 § 15. Hegegemeinschaften sind spätestens drei Monate nach Beginn des neuen Pachtjahres schriftlich beim ALN zu beantragen. Die Vereinbarung regelt insbesondere a. die Teile der Jagdausübung, auf die sich die Vereinbarung bezieht,
 
 **Hegegemeinschaften**
-
-- a. die Teile der Jagdausübung, auf die sich die Vereinbarung bezieht,
 
 - b. die Organisation der Hegegemeinschaft,
 
@@ -263,7 +261,7 @@ Zu den jagdlichen Prüfungen wird zugelassen, wer im Kanton Wohnsitz hat. In beg
 
 **5**
 
-- 1\. 1. 23 - 119 § 23. <sup>1</sup> Mit der Jagdprüfung wird die Jagdfähigkeit gemäss § 8 Abs.1 lit. b JG nachgewiesen.
+1.10. 25 - 130 § 23. <sup>1</sup> Mit der Jagdprüfung wird die Jagdfähigkeit gemäss § 8 Abs.1 lit. b JG nachgewiesen.
 
 **b. Jagdprüfung**
 
@@ -297,11 +295,9 @@ Entscheide der Prüfungskommission können mit Rekurs bei der Baudirektion angef
 
 ### F. Jagdplanung und Jagdbetrieb
 
-#### § 27
-
 **Jagdbare Arten und Jagdzeiten**
 
-<sup>1</sup> Als jagdbare Arten während folgender Jagdzeiten gelten:
+§ 27.[^hFJagdplanungundJ-1] <sup>1</sup> Als jagdbare Arten während folgender Jagdzeiten gelten:
 
 - a. Rehböcke, Schmalrehe und Galtgeissen: 2. Mai – 31. Dezember,
 
@@ -319,21 +315,24 @@ Entscheide der Prüfungskommission können mit Rekurs bei der Baudirektion angef
 
 - h. Dachs: 16. Juni – 15. Januar,
 
-- i. Steinmarder: 1. September – 15. Februar
+- i. Steinmarder: 1. September – 15. Februar,
 
 - j. Stockente und Kormoran: 1. September – 31. Januar,
 
-- k. Rabenkrähe, Saat- und Nebelkrähe, Ringel-, Türkentaube, Elster und Eichelhäher: 2. August – 15. Februar,
+- k. Rabenkrähe, Saatkrähe, Nebelkrähe und Ringeltaube: 2. August – 15. Februar,
 
-- l. andere nicht einheimische Wildtiere gemäss Anhang 1 und 2 der Jagdverordnung vom 29. Februar 1988[^27-1], verwilderte Hauskatze und verwilderte Haustaube: ganzjährig.
+- l. andere nicht einheimische Wildtiere gemäss Anhang 1 und 2 der Jagdverordnung vom 29. Februar 1988[^hFJagdplanungundJ-2], verwilderte Hauskatze und verwilderte Haustaube: ganzjährig.
 
 <sup>2</sup> Laktierende, führende Bachen sind geschützt. Das ALN entscheidet über den ganzjährigen Abschuss von Wildschweinen, die jünger als zweijährig sind und sich ausserhalb des Waldes aufhalten.
 
 <sup>3</sup> Für Rabenkrähen, die in Schwärmen auftreten, gilt auf schadengefährdeten landwirtschaftlichen Kulturen keine Schonzeit.
 
-<sup>4</sup> In Fällen gemäss § 12 Abs. 4 lit. e JG kann das ALN die Jagdzeiten ändern.
+<sup>4</sup> In Auengebieten, Hoch- und Flachmooren sowie Amphibienlaichgebieten von nationaler Bedeutung und in Feuchtgebieten von überkommunaler Bedeutung ist die Bejagung von Wasservögeln vorbehältlich Massnahmen gemäss § 12 Abs. 4 lit. e JG nicht gestattet.
 
-[^27-1]: SR 922.01. 1. 1. 23 - 119 19
+<sup>5</sup> In Fällen gemäss § 12 Abs. 4 lit. e JG kann das ALN die Jagdzeiten ändern.
+
+[^hFJagdplanungundJ-1]: Fassung gemäss RRB vom 18. Juni 2025 (OS 80, 206; ABl 2025-06-27). In Kraft seit 1. September 2025.
+[^hFJagdplanungundJ-2]: SR 922.01.
 
 #### § 28
 
@@ -359,13 +358,17 @@ Entscheide der Prüfungskommission können mit Rekurs bei der Baudirektion angef
 
 <sup>3</sup> Das ALN kann die Ausübung der Jagd im Bereich von Wildtierüber- oder -unterführungen und den vorgelagerten Leitstrukturen verbieten.
 
-<sup>4</sup> Die Verwendung von Drohnen zu jagdlichen Zwecken, insbesondere zum Aufsuchen oder Aufjagen von Wildtieren, ist verboten. Ausgenommen ist der Einsatz von Drohnen zur Rehkitzrettung. Die Jagdgesellschaft des Reviers wird über die Rehkitzrettung mit Drohnen vorgängig informiert.
-
 **7**
 
-- 1\. 1. 23 - 119 § 30. <sup>1</sup> Treib- und Drückjagden (Bewegungsjagden) sind von 1.Oktober bis 31. Dezember erlaubt. Für die Jagd auf Wildschweine sind sie bis Ende Februar erlaubt.
+1.10. 25 - 130
+
+<sup>4</sup> Die Verwendung von Drohnen zu jagdlichen Zwecken, insbesondere zum Aufsuchen oder Aufjagen von Wildtieren, ist verboten. Ausgenommen ist der Einsatz von Drohnen zur Rehkitzrettung. Die Jagdgesellschaft des Reviers wird über die Rehkitzrettung mit Drohnen vorgängig informiert.
+
+#### § 30
 
 **b. Bewegungsjagd**
+
+<sup>1</sup> Treib- und Drückjagden (Bewegungsjagden) sind von 1.Oktober bis 31. Dezember erlaubt. Für die Jagd auf Wildschweine sind sie bis Ende Februar erlaubt.
 
 <sup>2</sup> Ein Mitglied der Jagdgesellschaft leitet die Bewegungsjagd (Jagdleitung) und ist für die Organisation und die sichere Durchführung verantwortlich. Die Jagdleitung ist gegenüber den Beteiligten weisungsberechtigt.
 
@@ -451,15 +454,13 @@ Die Falknerei darf ausüben, wer a. im Kanton Zürich jagdberechtigt ist,
 
 - a. Jagdhunde für das Stöbern, Apportieren, Vorstehen und die Feldsuche: Nachweis einer entsprechenden Ausbildung,
 
-- b. Jagdhunde für das Stöbern und Brackieren vom 1. Oktober bis 31. Dezember: spur- und sichtlautes Jagen sowie ein mindestens einmaliger, bestätigter Besuch in einem Schwarzwildgewöhnungsgatter, wobei die Welpenprägung nicht angerechnet wird,
+**9**
+
+1.10. 25 - 130 b. Jagdhunde für das Stöbern und Brackieren vom 1. Oktober bis 31. Dezember: spur- und sichtlautes Jagen sowie ein mindestens einmaliger, bestätigter Besuch in einem Schwarzwildgewöhnungsgatter, wobei die Welpenprägung nicht angerechnet wird,
 
 - c. Jagdhunde für die Jagd auf Schwarzwild in den Monaten Juli–September und Januar–Februar: bestandener Nachweis in einem Schwarzwildgewöhnungsgatter,
 
 - d. Nachsuchegespanne für die Nachsuchearbeit: erfolgreich absolvierte 500-m-Schweissprüfung.
-
-**9**
-
-- 1\. 1. 23 - 119
 
 <sup>2</sup> Die 500-m-Schweissprüfung muss zwischen dem vierten und sechsten Lebensjahr des Hundes durch das Nachsuchegespann einmal wiederholt und bestanden werden. Für Nachsuchen auf Schwarzwild muss zudem ein Nachweis in einem Schwarzwildgewöhnungsgatter bestanden werden.
 
@@ -527,15 +528,19 @@ Die Falknerei darf ausüben, wer a. im Kanton Zürich jagdberechtigt ist,
 
 <sup>2</sup> Bei Bewegungsjagden muss ein geprüftes Nachsuchegespann auf Abruf zur Verfügung stehen.
 
+**11**
+
+1.10. 25 - 130
+
 <sup>3</sup> Nachsuchen über die Reviergrenzen hinaus müssen unabhängig vom Erfolg innerhalb eines Tages der betreffenden Jagdgesellschaft gemeldet werden. Für die Nachsuche in Wildschonrevieren, in anderen Kantonen oder im Ausland sind die dort zuständigen Organe beizuziehen.
 
 <sup>4</sup> Nachsuchen sind unabhängig vom Erfolg gemäss Weisung des ALN zu dokumentieren.
 
-**11**
-
-- 1\. 1. 23 - 119 § 42. <sup>1</sup> Für die Bergung von Wildtieren bei Unfällen und Hunderissen können folgende Gebühren erhoben werden:
+#### § 42
 
 **Entschädigung bei Unfällen mit Wildtieren**
+
+<sup>1</sup> Für die Bergung von Wildtieren bei Unfällen und Hunderissen können folgende Gebühren erhoben werden:
 
 - a. für Schalenwild: höchstens Fr. 200,
 
@@ -623,23 +628,23 @@ Subventionen gemäss § 17 JG werden ausgerichtet für Massnahmen zur Erhaltung 
 
 <sup>3</sup> Das ALN trifft bei temporären Zäunen und Zäunen zur Verhütung von Wildschäden Massnahmen gemäss Abs. 2, wenn diese Zäune die Durchgängigkeit von Wildtierkorridoren beeinträchtigen können.
 
-#### § 52
+**13**
+
+1.10. 25 - 130 § 52. <sup>1</sup> Infrastrukturanlagen, insbesondere Bahnlinien, Strassen sowie Strommasten und Windkraftanlagen, sind so zu planen, zu konstruieren und zu unterhalten, dass von ihnen soweit möglich keine Verletzungsgefahr für Wildtiere ausgeht und die Durchgängigkeit gewahrt bleibt.
 
 **Schutz vor Gefährdung durch Infrastrukturanlagen**
-
-<sup>1</sup> Infrastrukturanlagen, insbesondere Bahnlinien, Strassen sowie Strommasten und Windkraftanlagen, sind so zu planen, zu konstruieren und zu unterhalten, dass von ihnen soweit möglich keine Verletzungsgefahr für Wildtiere ausgeht und die Durchgängigkeit gewahrt bleibt.
 
 <sup>2</sup> Das zuständige Gemeinwesen trifft Massnahmen, um bei bestehenden Infrastrukturanlagen die Verletzungsgefahr für Wildtiere soweit möglich zu minimieren und die Durchgängigkeit wiederherzustellen oder zu verbessern.
 
 <sup>3</sup> Von Installationen zur Vogelabwehr darf keine Verletzungsgefahr ausgehen.
 
-**13**
-
-- 1\. 1. 23 - 119 § 53. Das ALN kann Tätigkeiten, die zu einer Störung von Wildtieren gemäss § 20 Abs. 1 JG führen, bewilligen, insbesondere solche zu wissenschaftlichen Zwecken oder im Rahmen von Arten- und Lebensraumschutzmassnahmen. Es hört die betroffenen Jagdgesellschaften an.
-
-#### § 54
+#### § 53
 
 **Störung von Wildtieren**
+
+Das ALN kann Tätigkeiten, die zu einer Störung von Wildtieren gemäss § 20 Abs. 1 JG führen, bewilligen, insbesondere solche zu wissenschaftlichen Zwecken oder im Rahmen von Arten- und Lebensraumschutzmassnahmen. Es hört die betroffenen Jagdgesellschaften an.
+
+#### § 54
 
 **Lebensraumschutz**
 
@@ -717,23 +722,23 @@ Bewirtschafterinnen und Bewirtschafter reichen dem ALN nach Rücksprache mit der
 
 - b. das Ergreifen weiterer Kulturmassnahmen zur Vermeidung wildschadenbedingter Ertragsausfälle in Folgekulturen.
 
-#### § 61
+**15**
 
-**d. Beseitigung von Schutzeinrichtungen**
-
-Die Jagdgesellschaft kann den Abbruch verbotener und mangelhaft erstellter oder unterhaltener Anlagen verlangen. Das ALN kann auf ihren Antrag den Abbruch auf Kosten der Verursacherin oder des Verursachers verfügen.
+1.10. 25 - 130 § 61. Die Jagdgesellschaft kann den Abbruch verbotener und mangelhaft erstellter oder unterhaltener Anlagen verlangen. Das ALN kann auf ihren Antrag den Abbruch auf Kosten der Verursacherin oder des Verursachers verfügen.
 
 #### § 62
+
+**d. Beseitigung von Schutzeinrichtungen**
 
 **e. Schutzmassnahmen gegen Wildschaden an Nutztieren**
 
 Sind Nutztiere durch Grossraubtiere gefährdet, können für Schutzmassnahmen Beiträge aus dem Wildschadenfonds ausgerichtet werden.
 
-**15**
-
-- 1\. 1. 23 - 119 § 63. <sup>1</sup> Grundeigentümerinnen und Grundeigentümern sowie Bewirtschafterinnen und Bewirtschaftern von landwirtschaftlichen Betrieben ist ohne Jagdberechtigung gestattet,
+#### § 63
 
 **Selbsthilfemassnahmen**
+
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümern sowie Bewirtschafterinnen und Bewirtschaftern von landwirtschaftlichen Betrieben ist ohne Jagdberechtigung gestattet,
 
 - a. Haarraubwild mit der Kastenfalle im Innern von Gebäuden sowie unter Vordächern ihrer Wohn- und Ökonomiegebäude zu fangen und zu erlegen,
 
@@ -807,6 +812,10 @@ Sind Nutztiere durch Grossraubtiere gefährdet, können für Schutzmassnahmen Be
 
 <sup>2</sup> Die Abrechnung erfolgt jeweils am Ende des Kalenderjahres.
 
+**17**
+
+1.10. 25 - 130
+
 ### I. Strafbestimmungen
 
 #### § 70
@@ -818,10 +827,6 @@ Sind Nutztiere durch Grossraubtiere gefährdet, können für Schutzmassnahmen Be
 <sup>2</sup> Der Fehlabschuss muss dem ALN umgehend gemeldet und das Tier gemäss § 37 Abs. 3 zur Kontrolle bereit gehalten werden.
 
 <sup>3</sup> Bei einem Fehlabschuss werden ein Betrag von Fr. 100, der Wertersatz gemäss § 38 Abs. 2 JG und die Trophäen eingezogen. Bei Rothirsch und Gams wird ein Betrag von Fr. 200 eingezogen.
-
-**17**
-
-- 1\. 1. 23 - 119
 
 <sup>4</sup> Das ALN stellt Strafantrag bei nicht gemeldeten Fehlabschüssen und bei Personen, die mehr als zwei Fehlabschüsse innerhalb eines Jagdjahres begehen.
 
@@ -878,5 +883,9 @@ Sind Nutztiere durch Grossraubtiere gefährdet, können für Schutzmassnahmen Be
 **Ausbildungen für Jagdhunde**
 
 <sup>1</sup> Die Regelung gemäss § 36 Abs. 1 lit. c gilt für Hunde, die nach dem 1. April 2020 geboren wurden. Ältere, auf Schwarzwild geführte Hunde sind mindestens einmal für eine Übung in ein Schwarzwildgewöhnungsgatter zu führen. Dieser Besuch ist bestätigen zu lassen.
+
+**19**
+
+1.10. 25 - 130
 
 <sup>2</sup> Die Regelung zur Wiederholung der Schweissprüfung gemäss § 36 Abs. 2 gilt für Hunde, die nach dem 1. April 2018 geboren wurden. Für Hunde, die vor dem 1. April 2018 geboren wurden, steht es den Hundeführerinnen und Hundeführern frei, altrechtlich den Nachweis von mindestens zwölf Nachsuchen pro Jahr oder einmalig die Wiederholungsprüfung zu erbringen.
