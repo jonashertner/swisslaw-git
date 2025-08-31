@@ -4,13 +4,12 @@ number: "317.113"
 title: "Verordnung über die Gebühren an der Hochschule Luzern, FH Zentralschweiz"
 short: Gebührenverordnung-HSLU
 language: de
-version: 2025-03-01
-valid_until: 2025-08-31
+version: 2025-09-01
 version_adopted: 2024-12-13
 adopted: 2012-12-14
 in_force: 2013-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/317.113"
-pdf: "https://gesetze.nw.ch/api/de/versions/1355/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1355/pdf_file"
 
 (Gebührenverordnung-HSLU)
 
-vom 14.12.2012 (Stand 01.03.2025)
+vom 14.12.2012 (Stand 01.09.2025)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -73,6 +72,8 @@ beschliesst:
 
 - a. für immatrikulierte Studierende, pro Semester Fr. 800.–;
 - b. für Hörerinnen und Hörer, pro Semester mindestens Fr. 200.– bis maximal Fr. 800.–, abgestuft nach Zahl der ECTS-Punkte aller besuchten Veranstaltungen.
+
+<sup>1<sup>bis</sup></sup> Ausländische Studierende haben neben den allgemeinen Studiengebühren eine zusätzliche Studiengebühr von Fr. 500.– pro Semester zu entrichten. Dies gilt nicht für ausländische Studierende, deren Wohnsitzkanton für sie FHV-Beiträge leistet.
 
 <sup>2</sup> Weitere Kosten, namentlich für Lehrmittel, Arbeitsmaterialien oder Studienreisen, werden zusätzlich kostendeckend in Rechnung gestellt.
 
