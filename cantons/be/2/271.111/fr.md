@@ -4,13 +4,12 @@ number: "271.111"
 title: Ordonnance sur le projet pilote «consultation ordonnée dans les procédures judiciaires relevant du droit de la famille en cas de litige portant sur les questions concernant l’enfant et Centre pour les familles vivant une séparation (CFS)»
 short: OCFS
 language: fr
-version: 2023-09-01
-valid_until: 2025-08-31
-version_adopted: 2023-02-15
+version: 2025-09-01
+version_adopted: 2025-07-02
 adopted: 2023-02-15
 in_force: 2023-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/271.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2856/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3205/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2856/pdf_file"
 
 (OCFS)
 
-du 15.02.2023 (état au 01.09.2023)
+du 15.02.2023 (état au 01.09.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -57,7 +56,7 @@ arrête:
 
 <sup>2</sup> Le projet pilote porte uniquement sur les procédures au sens de l’alinéa 1 pour lesquelles le Tribunal régional de Berne – Mittelland est compétent à raison du lieu et de la matière.
 
-<sup>3</sup> Il dure deux ans.
+<sup>3</sup> Il dure quatre ans.
 
 #### Art. 3
 
@@ -180,7 +179,7 @@ arrête:
 
 **Entrée en vigueur et durée de validité**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2023 et est valable jusqu’au 31 août 2025.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2023 et est valable jusqu’au 31 août 2027.
 
 Berne, le 15 février 2023
 

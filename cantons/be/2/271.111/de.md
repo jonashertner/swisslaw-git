@@ -4,13 +4,12 @@ number: "271.111"
 title: Verordnung über das Pilotprojekt «Angeordnete Beratung in familienrechtlichen Gerichtsverfahren mit strittigen Kinderbelangen und Zentrum für Familien in Trennung (ZFIT)»
 short: ZFITV
 language: de
-version: 2023-09-01
-valid_until: 2025-08-31
-version_adopted: 2023-02-15
+version: 2025-09-01
+version_adopted: 2025-07-02
 adopted: 2023-02-15
 in_force: 2023-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/271.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2856/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3205/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2856/pdf_file"
 
 (ZFITV)
 
-vom 15.02.2023 (Stand 01.09.2023)
+vom 15.02.2023 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -57,7 +56,7 @@ beschliesst:
 
 <sup>2</sup> Es gilt nur für Verfahren nach Absatz 1, für die das Regionalgericht Bern-Mittelland örtlich und sachlich zuständig ist.
 
-<sup>3</sup> Es dauert zwei Jahre.
+<sup>3</sup> Es dauert vier Jahre.
 
 #### Art. 3
 
@@ -180,7 +179,7 @@ beschliesst:
 
 **Inkrafttreten und Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung tritt am 1. September 2023 in Kraft und gilt bis am 31. August 2025.
+<sup>1</sup> Diese Verordnung tritt am 1. September 2023 in Kraft und gilt bis am 31. August 2027.
 
 Bern, 15. Februar 2023
 
