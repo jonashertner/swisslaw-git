@@ -4,13 +4,13 @@ number: "777"
 title: Verordnung zum Gesetz über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes
 short: Strassenverkehrsverordnung
 language: de
-version: 2025-01-01
-valid_until: 2025-08-31
-version_adopted: 2024-10-15
+version: 2025-09-01
+valid_until: 2025-12-31
+version_adopted: 2025-07-01
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/777"
-pdf: "https://srl.lu.ch/api/de/versions/4345/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4345/pdf_file"
 
 (Strassenverkehrsverordnung)
 
-vom 09.12.1986 (Stand 01.01.2025)
+vom 09.12.1986 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -347,6 +347,27 @@ beschliesst:
 #### § 22
 
 **…**
+
+### 7.1a Abweichungen von den allgemeinen Höchstgeschwindigkeiten auf verkehrsorientierten Strassen innerorts
+
+#### § 22a
+
+<sup>1</sup> Die zuständige Behörde prüft auf Gesuch von Gemeinden in der Regel innert zehn Monaten oder von Amtes wegen die Herabsetzung der allgemeinen Höchstgeschwindigkeiten gemäss Artikel 4a der Verkehrsregelnverordnung vom 13. November 1962[^22a-1] auf verkehrsorientierten Strassen innerorts. Dabei ist insbesondere Artikel 108 der Signalisationsverordnung zu beachten.
+
+<sup>2</sup> Die allgemeine Höchstgeschwindigkeit ist auf verkehrsorientierten Strassen innerorts nur in Ausnahmefällen und in restriktiver Anwendung des Ermessensspielraums herabzusetzen.
+
+<sup>3</sup> Vor der Festlegung von abweichenden Höchstgeschwindigkeiten auf verkehrsorientierten Strassen innerorts prüft die zuständige Behörde die Auswirkungen der Massnahme und die Anzahl der davon betroffenen Personen. Die Prüfung erfolgt namentlich anhand folgender Kriterien:
+
+- a. Durchfahrzeiten aller Verkehrsteilnehmenden, namentlich von Blaulichtorganisationen und des Wirtschaftsverkehrs (u.a. Güterwirtschafts- und Dienstleistungsverkehr); insbesondere sind die Fahrbahnbreiten so zu wählen, dass das Kreuzen von grossen Fahrzeugen wie Linienbussen oder Lastwagen möglich bleibt.
+- b. Funktion und Bedeutung der betroffenen Strasse sowohl innerhalb des Verkehrsnetzes als auch mit Blick auf die Erschliessung der jeweiligen Region.
+- c. Verkehrssicherheit, wobei Schulhäuser, Kindergarten und dergleichen im betroffenen Strassenabschnitt besonders zu berücksichtigen sind.
+- d. Lärmimmissionen.
+
+<sup>4</sup> Die zuständige Behörde prüft, ob die Massnahme auf bestimmte Tageszeiten zu beschränken ist.
+
+<sup>5</sup> Zusammen mit der Verkehrsanordnung ist der ihr zugrundeliegende Beschluss der zuständigen Behörde mit Begründung und Bewertung der Kriterien zu veröffentlichen.
+
+[^22a-1]: SR [741.11](https://db.clex.ch/link/Bund/741.11/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
 
 ### 7.2 Verfahren
 
