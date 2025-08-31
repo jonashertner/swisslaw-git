@@ -4,11 +4,11 @@ title: Ordinanza del 23 novembre 2016 concernente la legge sulla promozione e su
 short: O-LPSU
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: it
-version: 2022-07-01
+version: 2025-09-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2016-741-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2016-741-20250901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/it"
 
 (O-LPSU)
 
-del 23 novembre 2016 (Stato 1° luglio 2022)
+del 23 novembre 2016 (Stato 1° settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -269,13 +269,13 @@ Sono versati in tre rate:
 
 <sup>3</sup> ...[^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 340](https://fedlex.data.admin.ch/eli/oc/2022/340)).
+[^17-1]: Abrogato dalla cifra I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 340](https://fedlex.data.admin.ch/eli/oc/2022/340)).
 
 ### Sezione 4: Adeguamento dei sussidi di base in caso di scostamento dalle previsioni sul rincaro
 
 [^chap3-sec4-1]
 
-[^chap3-sec4-1]: Introdotta dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2020 ([RU 2018 4913](https://fedlex.data.admin.ch/eli/oc/2018/771)).
+[^chap3-sec4-1]: Introdotta dalla cifra I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2020 ([RU 2018 4913](https://fedlex.data.admin.ch/eli/oc/2018/771)).
 
 #### Art. 17a
 
@@ -809,7 +809,7 @@ La SEFRI o terzi riconoscono un titolo estero ai fini dell’esercizio di una pr
 
 [^chap9-sec1-1]
 
-[^chap9-sec1-1]: Nuovo testo giusta il n. I dell’O del 26 feb. 2018, in vigore dal 1° apr. 2020 ([RU 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
+[^chap9-sec1-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 2018, in vigore dal 1° apr. 2020 ([RU 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
 
 ### (art. 73 cpv. 2 lett. b LPSU)
 
@@ -1003,4 +1003,7 @@ I sussidi di coesione corrispondono alle seguenti percentuali dei fondi disponib
 
 <sup>3</sup> L’articolo 58 ha effetto dal 1° aprile 2020 al 31 dicembre 2025.[^69-1]
 
-[^69-1]: Introdotto dal n. I dell’O del 26 feb. 2018, in vigore dal 1° apr. 2020 ([RU 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
+<sup>4</sup> La durata di validità dell’articolo 58 di cui al capoverso 3 è prorogata sino al 31 dicembre 2026.[^69-2]
+
+[^69-1]: Introdotto dalla cifra I dell’O del 26 feb. 2018, in vigore dal 1° apr. 2020 ([RU 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
+[^69-2]: Introdotto dalla cifra I dell’O del 21 mag. 2025, in vigore dal 1° set. 2025 ([RU 2025 345](https://fedlex.data.admin.ch/eli/oc/2025/345)).

@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 2016 relative à la loi sur l'encouragement et
 short: O-LEHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: fr
-version: 2022-07-01
+version: 2025-09-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-741-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-741-20250901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/fr"
 
 (O-LEHE)
 
-du 23 novembre 2016 (Etat le 1<sup>er</sup> juillet 2022)
+du 23 novembre 2016 (État le 1<sup>er</sup> septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -271,7 +271,7 @@ Elles sont versées en trois tranches:
 
 [^17-1]: Abrogé par le ch. I de l’O du 3 juin 2022, avec effet au 1<sup>er</sup> juil. 2022 ([RO 2022 340](https://fedlex.data.admin.ch/eli/oc/2022/340)).
 
-### Section 4**** Adaptation des contributions de base en cas d’écart par rapport aux prévisions de renchérissement
+### Section 4 Adaptation des contributions de base en cas d’écart par rapport aux prévisions de renchérissement
 
 [^chap3-sec4-1]
 
@@ -396,7 +396,7 @@ Lorsqu’il s’agit de projets de transformations pour lesquels le calcul forfa
 
 <sup>2</sup> L’état des coûts est déterminé sur la base de l’indice suisse des prix de la construction[^27-1] au moment de l’allocation de la contribution.
 
-[^27-1]: L’indice actuel des prix de la construction, TVA comprise, est publié sur le site de l’Office fédéral de la statistique: www.bfs.admin.ch &gt; Trouver des statistiques &gt; 05 Prix &gt; Prix de la construction &gt; L’indice des prix de la construction.
+[^27-1]: L’indice actuel des prix de la construction, TVA comprise, est publié sur le site de l’Office fédéral de la statistique: [www.bfs.admin.ch](http://www.bfs.admin.ch) &gt; Trouver des statistiques &gt; 05 Prix &gt; Prix de la construction &gt; L’indice des prix de la construction.
 
 #### Art. 28
 
@@ -595,7 +595,7 @@ Le droit à la contribution commence:
 
 <sup>2</sup> L’évolution des taux d’intérêt est déterminée sur la base du taux d’intérêt de référence de l’Office fédéral du logement[^44-1].
 
-[^44-1]: Le taux d’intérêt de référence est publié sur le site de l’Office fédéral du logement: www.bwo.admin.ch &gt; Droit du bail &gt; Taux de référence.
+[^44-1]: Le taux d’intérêt de référence est publié sur le site de l’Office fédéral du logement: [www.bwo.admin.ch](http://www.bwo.admin.ch) &gt; Droit du bail &gt; Taux de référence.
 
 #### Art. 45
 
@@ -805,7 +805,7 @@ Le SEFRI ou des tiers reconnaissent un diplôme étranger aux fins d’exercer u
 
 ## Chapitre 9 Dispositions spéciales pour le domaine des hautes écoles spécialisées
 
-### Section 1**** Expériences pilotes avec des conditions d’admission spéciales aux études dans les hautes écoles spécialisées
+### Section 1 Expériences pilotes avec des conditions d’admission spéciales aux études dans les hautes écoles spécialisées
 
 [^chap9-sec1-1]
 
@@ -893,7 +893,7 @@ Sont considérés comme diplômes HES délivrés sous l’ancien droit au sens d
 
 <sup>6</sup> Les personnes qui ont obtenu le titre protégé de «designer HES, spécialisé(e) en conservation et restauration» sont autorisées à porter le titre protégé de «conservateur-restaurateur HES»/«conservatrice-restauratrice HES».
 
-[^61-1]: www.sefri.admin.ch &gt; Thèmes &gt; Hautes écoles &gt; Hautes écoles spécialisées &gt; Etudes &gt; Etudes bachelor
+[^61-1]: [www.sefri.admin.ch](http://www.sefri.admin.ch) &gt; Thèmes &gt; Hautes écoles &gt; Hautes écoles spécialisées &gt; Etudes &gt; Etudes bachelor
 [^61-2]: [RO 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)
 [^61-3]: [RO 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607)
 
@@ -932,7 +932,7 @@ Le DEFR règle le détail du droit aux contributions, de l’établissement des 
 
 <sup>1</sup> L’ordonnance du 12 novembre 2014 relative à la loi sur l’encouragement et la coordination des hautes écoles[^65-1] est abrogée.
 
-<sup>2</sup> ...[^65-2]
+<sup>2</sup> …[^65-2]
 
 [^65-1]: [[RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)]
 [^65-2]: La mod. peut être consultée au [RO 2016 4569](https://fedlex.data.admin.ch/eli/oc/2016/741).
@@ -1003,4 +1003,7 @@ Dans l’enveloppe disponible pour les contributions de base, les fonds de cohé
 
 <sup>3</sup> L’art. 58 a effet du 1<sup>er</sup> avril 2020 au 31 décembre 2025.[^69-1]
 
+<sup>4</sup> La durée de validité de l’art. 58 mentionnée à l’al. 3 est prolongée jusqu’au 31 décembre 2026.[^69-2]
+
 [^69-1]: Introduit par le ch. I de l’O du 26 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
+[^69-2]: Introduit par le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 345](https://fedlex.data.admin.ch/eli/oc/2025/345)).

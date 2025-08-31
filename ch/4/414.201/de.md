@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 2016 zum Hochschulförderungs- und -koordinat
 short: V-HFKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: de
-version: 2022-07-01
+version: 2025-09-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2016-741-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2016-741-20250901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20220701/de"
 
 (V-HFKG)
 
-vom 23. November 2016 (Stand am 1. Juli 2022)
+vom 23. November 2016 (Stand am 1. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -271,7 +271,7 @@ Sie werden in drei Tranchen ausgerichtet:
 
 [^17-1]: Aufgehoben durch Ziff. I der V vom 3. Juni 2022, mit Wirkung seit 1. Juli 2022 ([AS 2022 340](https://fedlex.data.admin.ch/eli/oc/2022/340)).
 
-### 4. Abschnitt:**** Anpassung der Grundbeiträge bei einer Abweichung von den Teuerungsprognosen
+### 4. Abschnitt: Anpassung der Grundbeiträge bei einer Abweichung von den Teuerungsprognosen
 
 [^chap3-sec4-1]
 
@@ -396,7 +396,7 @@ Für Umbauten, für die sich aufgrund des fehlenden Flächenbezugs die Methode d
 
 <sup>2</sup> Für die Ermittlung des Kostenstands gilt der im Zeitpunkt der Beitragszusicherung veröffentlichte Stand des Schweizerischen Baupreisindexes[^27-1].
 
-[^27-1]: Der aktuelle Baupreisindex einschliesslich Mehrwertsteuer kann eingesehen werden beim Bundesamt für Statistik unter [www.bfs.admin.ch](http://www.bfs.ch) &gt; Statistiken finden &gt; 05 Preise &gt; Baupreise &gt; Baupreisindex.
+[^27-1]: Der aktuelle Baupreisindex einschliesslich Mehrwertsteuer kann eingesehen werden beim Bundesamt für Statistik unter [www.bfs.admin.ch](http://www.bfs.admin.ch) &gt; Statistiken finden &gt; 05 Preise &gt; Baupreise &gt; Baupreisindex.
 
 #### Art. 28
 
@@ -595,7 +595,7 @@ Die Beitragsberechtigung beginnt:
 
 <sup>2</sup> Für die Zinsentwicklung wird der Referenzzinssatz des Bundesamtes für Wohnungswesen[^44-1] angewendet.
 
-[^44-1]: Der aktuelle Referenzzinssatz kann eingesehen werden unter www.bwo.admin.ch &gt; Mietrecht &gt; Referenzzinssatz.
+[^44-1]: Der aktuelle Referenzzinssatz kann eingesehen werden unter [www.bwo.admin.ch](http://www.bwo.admin.ch) &gt; Mietrecht &gt; Referenzzinssatz.
 
 #### Art. 45
 
@@ -805,7 +805,7 @@ Das SBFI oder Dritte anerkennen einen ausländischen Abschluss für die Ausübun
 
 ## 9. Kapitel: Besondere Bestimmungen für den Fachhochschulbereich
 
-### 1. Abschnitt:**** Versuche mit besonderen Voraussetzungen für die Zulassung zum Fachhochschulstudium
+### 1. Abschnitt: Versuche mit besonderen Voraussetzungen für die Zulassung zum Fachhochschulstudium
 
 [^chap9-sec1-1]
 
@@ -1003,4 +1003,7 @@ Die Kohäsionsbeiträge betragen von den Mitteln, die für die Ausrichtung der G
 
 <sup>3</sup> Artikel 58 gilt vom 1. April 2020 bis zum 31. Dezember 2025.[^69-1]
 
+<sup>4</sup> Die Geltungsdauer von Artikel 58 nach Absatz 3 wird bis zum 31. Dezember 2026 verlängert.[^69-2]
+
 [^69-1]: Eingefügt durch Ziff. I der V vom 26. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
+[^69-2]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 345](https://fedlex.data.admin.ch/eli/oc/2025/345)).
