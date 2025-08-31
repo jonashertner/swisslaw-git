@@ -4,13 +4,13 @@ number: "940.11"
 title: Wirtschafts- und Arbeitsgesetz
 short: WAG
 language: de
-version: 2023-07-01
-valid_until: 2025-08-31
-version_adopted: 2022-07-06
+version: 2025-09-01
+valid_until: 2026-12-31
+version_adopted: 2025-03-11
 adopted: 2015-03-08
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/940.11"
-pdf: "https://bgs.so.ch/api/de/versions/5331/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5560/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5331/pdf_file"
 
 (WAG)
 
-Vom 08.03.2015 (Stand 01.07.2023)
+Vom 08.03.2015 (Stand 01.09.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -310,7 +310,7 @@ beschliesst:
 
 #### § 14
 
-**Entzug**
+**Entzug, Verwarnung und weitere Massnahmen**
 
 <sup>1</sup> Die Bewilligung wird entzogen, wenn:
 
@@ -320,7 +320,11 @@ beschliesst:
 - d) die öffentliche Ordnung oder Sittlichkeit dies erfordert; oder
 - e) die nach diesem Gesetz geschuldeten Gebühren trotz Mahnung nicht bezahlt werden.
 
-<sup>2</sup> Anstelle des Entzugs kann auch eine Verwarnung ausgesprochen werden.
+<sup>2</sup> Anstelle des Entzugs können in leichten Fällen auch eine Verwarnung ausgesprochen oder Auflagen und Bedingungen verfügt werden.
+
+<sup>3</sup> Mit dem Entzug der Bewilligung wird zugleich die Schliessung des Betriebs verfügt.
+
+<sup>4</sup> Beschwerden gegen Bewilligungsentzugs- und Schliessungsverfügungen kommt keine aufschiebende Wirkung zu, sofern in der Verfügung nichts anderes angeordnet wird.
 
 ### 2.2.2. Ausübung der gastwirtschaftlichen Tätigkeit
 
@@ -1353,6 +1357,26 @@ beschliesst:
 
 - a) den Vollzug der Bestimmungen über die Anlassbewilligungen gemäss § 9 Absatz 2 und § 23 Absatz 2 und deren Erteilung;
 - b) abweichende Anordnungen (von den Öffnungszeiten) gemäss § 21.
+
+#### § 100bis
+
+**Behördliche Kontrollen, Aufsichts- und Verwaltungsmassnahmen**
+
+<sup>1</sup> Die zuständigen Behörden können, soweit es zur Sicherstellung der Einhaltung der Bestimmungen dieses Gesetzes und der entsprechenden Verordnung notwendig ist, alle Räumlichkeiten von Betrieben, die der Ausübung von gastwirtschaftlichen Tätigkeiten, dem Handel mit alkoholhaltigen Getränken, der Sexarbeit oder der Durchführung von Kleinspielen dienen oder damit in Zusammenhang stehen sowie gastwirtschaftliche Gelegenheitsanlässe betreten und kontrollieren.
+
+<sup>2</sup> Die Polizeiorgane sind im Rahmen ihrer Vollzugsaufgaben gemäss diesem Gesetz sowie ihrer sicherheitspolizeilichen Aufgabenerfüllung gemäss dem Gesetz über die Kantonspolizei[^100bis-1] vom 23. September 1990 befugt, die mit dem Betrieb in Zusammenhang stehenden Räumlichkeiten und gastwirtschaftliche Gelegenheitsanlässe gemäss Absatz 1 zu betreten und zu kontrollieren.
+
+<sup>3</sup> Die zuständigen Behörden treffen die zur sachgerechten Wahrnehmung ihrer Aufsichtspflicht notwendigen Massnahmen. Sie können insbesondere die Benützung von Räumlichkeiten und Einrichtungen untersagen, Betriebe schliessen oder die Durchführung von Anlässen verbieten, sofern:
+
+- a) keine Bewilligung vorliegt;
+- b) wiederholt keine oder eine offensichtlich ungeeignete verantwortliche Person oder keine Stellvertretung vorhanden ist;
+- c) Ruhe und Ordnung ernsthaft gestört oder Personen unmittelbar gefährdet sind;
+- d) die Sicherheit nicht mehr gewährleistet ist;
+- e) behördliche Anordnungen zur Herstellung des gesetzmässigen Zustands trotz schriftlicher Mahnung nicht fristgerecht umgesetzt werden.
+
+<sup>4</sup> Beschwerden gegen Schliessungsverfügungen kommt keine aufschiebende Wirkung zu.
+
+[^100bis-1]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
 
 #### § 101
 
