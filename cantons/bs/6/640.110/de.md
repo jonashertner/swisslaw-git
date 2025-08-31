@@ -4,13 +4,12 @@ number: "640.110"
 title: Verordnung zum Gesetz über die direkten Steuern
 short: "Steuerverordnung, StV"
 language: de
-version: 2024-05-01
-valid_until: 2025-08-31
-version_adopted: 2024-03-19
+version: 2025-09-01
+version_adopted: 2025-06-24
 adopted: 2000-11-14
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6435/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6658/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Direkte Steuern
 
 (Steuerverordnung, StV)
 
-Vom 14. November 2000 (Stand 1. Mai 2024)
+Vom 14. November 2000 (Stand 1. September 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -1152,6 +1151,75 @@ beschliesst:
 <sup>1</sup> Bezeichnet die steuerpflichtige Person trotz Aufforderung keine Zustelladresse oder keine zum Empfang der Zustellung befugte Person in der Schweiz, so erfolgt die Eröffnung der Verfügung oder des Entscheids durch Publikation im Kantonsblatt.
 
 <sup>2</sup> Die Publikation enthält den Namen der steuerpflichtigen Person, die Bezeichnung der Steuer und das Dispositiv der Entscheidung oder den Hinweis, dass die Steuerfaktoren bei der Steuerbehörde eingesehen werden können.
+
+### 5.II.4 Elektronische Zustellung von Verfügungen und Rechnungen
+
+#### § 100a
+
+**Allgemeine Bestimmungen**
+
+<sup>1</sup> Die Zustellung von Dokumenten von der Steuerverwaltung an die steuerpflichtige Person erfolgt grundsätzlich mit gewöhnlicher Post.
+
+<sup>2</sup> Mit Einverständnis der steuerpflichtigen Person kann die Zustellung auf elektronischem Weg erfolgen (E-Zustellung).
+
+<sup>3</sup> Die E-Zustellung ist möglich für provisorische und definitive Veranlagungsverfügungen (inkl. Veranlagungsprotokoll, Rechnung, Kontoauszug und allfällige weitere Beilagen) der kantonalen Steuern (inkl. die der kantonalen Steuerverwaltung nach § 229a StG zu Veranlagung und Bezug übertragenen Steuern) und der direkten Bundessteuer (E-Informationen).
+
+<sup>4</sup> Die E-Zustellung ist insbesondere nicht möglich für:
+
+- a) steuerpflichtige natürliche Personen, die gesetzlich oder vertraglich vertreten sind;
+- b) steuerpflichtige juristische Personen;
+- c) die Nachsteuern, die Quellensteuer, die Grundstückgewinnsteuer, die Erbschafts- und Schenkungssteuer und die Handänderungssteuer;
+- d) Einspracheentscheide.
+
+<sup>5</sup> Die E-Zustellung erfolgt über eine von der PostFinance AG oder einer Bank (E-Dienstleister) betriebene elektronische Plattform (E-Plattform), welche es der Steuerverwaltung erlaubt, E-Informationen für eine steuerpflichtige Person in einem elektronischen Postfach zu hinterlegen. Gleichzeitig kann die steuerpflichtige Person die E-Plattform für die Zahlungsabwicklungen ihrer Steuerrechnungen nutzen (E-Banking).
+
+#### § 100b
+
+**Steuergeheimnis**
+
+<sup>1</sup> Das Steuergeheimnis gemäss § 138 StG gilt für E-Dienstleister und von diesen beigezogene Dritte umfassend und in gleicher Weise wie für die Steuerbehörden.
+
+#### § 100c
+
+**An- und Abmeldung**
+
+<sup>1</sup> Die E-Zustellung von E-Informationen erfolgt nach vorgängiger Anmeldung durch die steuerpflichtige Person.
+
+<sup>2</sup> Eine An- und Abmeldung für die E-Zustellung von E-Informationen ist jederzeit möglich.
+
+<sup>3</sup> Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie gemeinsam handelnde Personen, die in rechtlich und tatsächlich ungetrennter eingetragener Partnerschaft leben, haben eine gemeinsame E-Plattform zu bezeichnen, auf welcher die Zustellung von E-Informationen ausschliesslich zu erfolgen hat.
+
+<sup>4</sup> Im Zeitpunkt der Eheschliessung, der rechtlichen oder tatsächlichen Trennung, der Scheidung sowie des Todes werden bestehende Anmeldungen für die E-Zustellung von E-Informationen deaktiviert.
+
+#### § 100d
+
+**Nutzungsbedingungen**
+
+<sup>1</sup> Mit der Anmeldung für die E-Zustellung von E-Informationen willigt die steuerpflichtige Person in die von der Steuerverwaltung aufgestellten Nutzungsbedingungen ein.
+
+<sup>2</sup> Ab diesem Zeitpunkt erhält die steuerpflichtige Person die E-Informationen elektronisch zugestellt.
+
+<sup>3</sup> Mit der Einwilligung in die Nutzungsbedingungen erteilt die steuerpflichtige Person gleichzeitig die Einwilligung zur Abwicklung von Zahlungen über E-Banking.
+
+<sup>4</sup> Die Nutzungsbedingungen sowie Informationen über deren Änderung werden auf der Internetseite der Steuerverwaltung veröffentlicht.
+
+#### § 100e
+
+**Zustellung von E-Informationen**
+
+<sup>1</sup> Die Steuerverwaltung stellt die E-Information in der E-Plattform des E-Dienstleisters zur Abholung bereit.
+
+<sup>2</sup> Steht die E-Information zur Abholung bereit, versendet der E-Dienstleister eine elektronische Abholungseinladung an die von der steuerpflichtigen Person im Rahmen der Registrierung für die E-Plattform hinterlegte E-Mail-Adresse.
+
+<sup>3</sup> Ausnahmsweise kann anstelle einer E-Zustellung eine postalische Zustellung erfolgen. Diese bedarf keiner vorgängigen Mitteilung an die steuerpflichtige Person.
+
+#### § 100f
+
+**Zustellzeitpunkt von E-Informationen**
+
+<sup>1</sup> Die elektronische Zustellung entfaltet die gleichen Wirkungen wie die postalische Zustellung.
+
+<sup>2</sup> Die E-Informationen gelten mit der Bereitstellung in der E-Plattform des E-Dienstleisters als zugestellt.
 
 ### 5.III. Veranlagungsverfahren
 
