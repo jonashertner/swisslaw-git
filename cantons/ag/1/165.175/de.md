@@ -3,20 +3,19 @@ canton: AG
 number: "165.175"
 title: Verordnung über die Löhne besonderer Personalkategorien
 language: de
-version: 2025-05-01
-valid_until: 2025-08-31
-version_adopted: 2025-03-12
+version: 2025-09-01
+version_adopted: 2025-06-25
 adopted: 2001-09-19
 in_force: 2001-11-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.175"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3788/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3846/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Löhne besonderer Personalkategorien
 
-Vom 19.09.2001 (Stand 01.05.2025)
+Vom 19.09.2001 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
