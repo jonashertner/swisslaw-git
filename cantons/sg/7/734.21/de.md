@@ -4,13 +4,12 @@ number: "734.21"
 title: Rheingesetz
 short: RhG
 language: de
-version: 2010-01-01
-corrected: 2021-09-15
-version_adopted: 2007-05-17
+version: 2025-09-01
+version_adopted: 2025-07-29
 adopted: 1987-06-18
 in_force: 1988-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/734.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1218/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1218/pdf_file"
 
 (RhG)
 
-vom 18.06.1987 (Stand 01.01.2010)
+vom 18.06.1987 (Stand 01.09.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -41,13 +40,13 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Dieses Gesetz regelt Unterhalt, Bau und Wasserbaupolizei am:
 
-- a) Rhein von Bad Ragaz bis St.Margrethen samt beidseitigen Sickerkanälen beim Diepoldsauer Durchstich;
+- a) Rhein von Bad Ragaz bis St.Margrethen samt beidseitigen Sickerkanälen des Diepoldsauer Durchstichs;
 - b) Alten Rhein von St.Margrethen bis zum Bodensee;
 - c) Alten Rhein bei Diepoldsau.
 
-<sup>2</sup> Soweit es keine besonderen Vorschriften enthält, wird das Wasserbaugesetz[^1-1] sachgemäss angewendet.
+<sup>2</sup> Soweit es keine besonderen Vorschriften enthält, wird das Wasserbaugesetz vom 17. Mai 2009[^1-1] sachgemäss angewendet.
 
-[^1-1]: sGS [734.11](https://www.gesetzessammlung.sg.ch/data/734.11/de).
+[^1-1]: sGS [734.1](https://www.gesetzessammlung.sg.ch/data/734.1/de).
 
 #### Art. 2
 
@@ -56,7 +55,7 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Das Rheinunternehmen erfüllt die Aufgaben nach diesem Gesetz, insbesondere:
 
 - a) Massnahmen zum Schutz vor Hochwasser, bei Hochwassergefahr und bei Hochwasser;
-- b) Unterhalt der Gewässer, der Bauten und der Einrichtungen;
+- b) Unterhalt der Gewässer, der Bauten und der Einrichtungen. Vorbehalten bleibt die Zuständigkeit der Internationalen Rheinregulierung für den Unterhalt von der Illmündung bis St.Margrethen samt beidseitigen Sickerkanälen des Diepoldsauer Durchstichs;
 - c) Bau und Unterhalt der südlichen Rheinbrücke am Diepoldsauer Durchstich;
 - d) Verwaltung der Grundstücke des Unternehmens.
 
@@ -69,7 +68,7 @@ als Gesetz:[^ingress-3]
 <sup>2</sup> Es untersteht dem zuständigen Departement[^3-2]. Der Regierungsrat regelt die Organisation.
 
 [^3-1]: Vgl. Art. [43](https://www.gesetzessammlung.sg.ch/data/911.1/de/art43) EG zum Schweizerischen Zivilgesetzbuch, sGS [911.1](https://www.gesetzessammlung.sg.ch/data/911.1/de).
-[^3-2]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^3-2]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 4
 
@@ -123,7 +122,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Perimeterbeiträge sind jährlich im voraus fällig.
 
-[^9-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^9-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 10
 
@@ -151,7 +150,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Das zuständige Departement[^13-1] erlässt die zum Vollzug dieses Gesetzes erforderlichen Verfügungen.
 
-[^13-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^13-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 14
 
