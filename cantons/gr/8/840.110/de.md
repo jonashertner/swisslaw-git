@@ -3,20 +3,20 @@ canton: GR
 number: "840.110"
 title: Verordnung zum Brandschutzgesetz
 language: de
-version: 2023-05-01
-valid_until: 2025-08-31
-version_adopted: 2023-04-04
+version: 2025-09-01
+valid_until: 2025-12-31
+version_adopted: 2025-08-12
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/840.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3301/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3564/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Brandschutzgesetz
 
-Vom 26.10.2010 (Stand 01.05.2023)
+Vom 26.10.2010 (Stand 01.09.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 

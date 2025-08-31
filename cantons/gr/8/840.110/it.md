@@ -3,20 +3,20 @@ canton: GR
 number: "840.110"
 title: Ordinanza relativa alla legge sulla protezione antincendio
 language: it
-version: 2023-05-01
-valid_until: 2025-08-31
-version_adopted: 2023-04-04
+version: 2025-09-01
+valid_until: 2025-12-31
+version_adopted: 2025-08-12
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/840.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3301/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3564/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza relativa alla legge sulla protezione antincendio
 
-del 26.10.2010 (stato 01.05.2023)
+del 26.10.2010 (stato 01.09.2025)
 
 emanata dal Governo il 26 ottobre 2010
 
