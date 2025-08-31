@@ -4,7 +4,7 @@ number: "850.11"
 title: "LOI du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale (LAPRAMS)"
 short: LAPRAMS
 language: fr
-version: 2023-07-01
+version: 2025-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98"
 ---
 
@@ -515,16 +515,15 @@ décrète
 
 **Etablissement médico-social et établissement psycho-social médicalisé [^chapterChapitreI-1]**
 
-<sup>1</sup> Un établissement médico-social, au sens de la présente loi, est l'établissement médico-social reconnu d'intérêt public sur la base de la LPFES[^21-1] .
+<sup>1</sup> Un établissement médico-social, au sens la présente loi, est un établissement médico-social reconnu d'intérêt public au sens de la LPFES ou un établissement médico-social non-reconnu d'intérêt public signataire d'une convention conclue sur la base de l'article 9, alinéa 1, chiffre 6 de la LPFES avec le département.
 
 <sup>2</sup> Un EPSM, au sens de la présente loi, est un EMS reconnu d'intérêt public sur la base de la LPFES.
 
 [^chapterChapitreI-1]: Modif. 11 du 07.11.2017: Modification Al. t; entrée en vigueur au 01.01.2018; Introduction Al. 2; entrée en vigueur au 01.01.2018 · Modif. 16 du 03.06.2025: Modification Al. 1; entrée en vigueur au 01.09.2025
-[^21-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
 
 #### Art. 21a
 
-**Pension psycho-sociale [^21-2]**
+**Pension psycho-sociale [^21-1]**
 
 <sup>1</sup> Une PPS est un lieu d'hébergement non médicalisé accueillant des personnes qui souffrent de difficultés psychiques et qui ne peuvent se suffire à elles-mêmes, sans nécessiter de soins continus. Elle propose des prestations psycho-éducatives ponctuelles.
 
@@ -532,7 +531,7 @@ décrète
 
 <sup>3</sup> La PPS bénéficie d'une participation de l'Etat à ses frais d'investissements et d'exploitation analogue à celle prévue par les articles 26 et 26 f LPFES[^21a-1] en faveur des EMS reconnus d'intérêt public.
 
-[^21-2]: Modif. 11 du 07.11.2017: Introduction Art. 21a; entrée en vigueur au 01.01.2018
+[^21-1]: Modif. 11 du 07.11.2017: Introduction Art. 21a; entrée en vigueur au 01.01.2018
 [^21a-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
 
 #### Art. 22
