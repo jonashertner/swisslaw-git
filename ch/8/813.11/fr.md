@@ -4,11 +4,11 @@ title: "Ordonnance du 5 juin 2015 sur la protection contre les substances et les
 short: OChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: fr
-version: 2024-10-04
+version: 2025-09-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20241004-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20241004/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20250901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20250901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20241004/fr"
 
 (Ordonnance sur les produits chimiques, OChim)
 
-du 5 juin 2015 (État le 4 octobre 2024)
+du 5 juin 2015 (État le 1<sup>er</sup> septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,11 +25,11 @@ vu les art. 19, al. 2 et 3 de la loi fédérale du 16 décembre 2005 sur la prot
 
 arrête:
 
-[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-4]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-4]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-5]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 
 ## Titre 1 Dispositions générales
@@ -76,21 +76,21 @@ La présente ordonnance ne s’applique pas:
 
 <sup>7</sup> L’ordonnance PIC du 10 novembre 2004[^1-15] s’applique en outre aux substances et aux préparations dangereuses qui sont exportées.[^1-16]
 
-[^1-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^1-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^1-3]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
-[^1-4]: [RS 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
+[^1-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^1-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^1-3]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^1-4]: [RS 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
 [^1-5]: Introduit par l’annexe 4 ch. II 5 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
-[^1-6]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-6]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^1-7]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^1-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^1-9]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^1-10]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^1-11]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^1-12]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^1-13]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^1-10]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^1-11]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^1-12]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^1-13]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^1-14]: Nouvelle teneur selon le ch. III 1 de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^1-15]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^1-15]: [RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
 [^1-16]: Introduit par le ch. III 1 de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
 
 #### Art. 2
@@ -185,7 +185,7 @@ En outre, on entend par:
 [^2-8]: Directive 75/324/CEE du Conseil du 20 mai 1975, concernant le rapprochement des législations des États membres relatives aux générateurs aérosols, JO L 147 du 9.6.1975, p. 40; modifiée en dernier lieu par la directive (UE) 2016/2037, JO L 314 du 22.11.2016, p. 11.
 [^2-9]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^2-10]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 709](https://fedlex.data.admin.ch/eli/oc/2023/709)).
-[^2-11]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^2-11]: [RS 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 [^2-12]: Introduit par l’annexe ch. 2 de l’O de Nagoya du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 
 #### Art. 3
@@ -268,7 +268,7 @@ Le fabricant qui met à disposition de tiers ou remet à des tiers des substance
 
 Les générateurs d’aérosol qui ne tombent pas sous le coup de la LDAl[^9-1] sont régis, en sus des dispositions de la présente ordonnance, par les art. 1 et 2 et par les ch. 2.1, 2.3, 3, 4, 5 et 6 de l’annexe de la directive 75/324/CEE[^9-2].
 
-[^9-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^9-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^9-2]: Cf. note relative à l’art. 2, al. 4.
 
 #### Art. 10
@@ -329,7 +329,7 @@ Les langues officielles sont l’allemand, le français et l’italien.
 
 <sup>2</sup> Les générateurs d’aérosols qui ne sont pas dangereux au sens de l’art. 3 doivent contenir le nom et l’adresse du fabricant. En cas d’importation de générateurs d’aérosols depuis un État-membre de l’EEE, il est possible de remplacer le nom du fabricant par le nom de la personneresponsable de la mise sur le marché dans l’EEE.
 
-[^11-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^11-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^11-2]: Cf. note de bas de page relative à l’art. 2, al. 4.
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 
@@ -785,7 +785,7 @@ L’organe de réception des notifications fixe le montant de l’indemnisation 
 - b. la durée de protection restante dont bénéficient les données visées.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^32-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^32-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 #### Art. 33
 
@@ -935,7 +935,7 @@ Si d’autres méthodes d’essai sont appliquées, le fabricant doit démontrer
 <sup>5</sup> Si certains essais ne respectent pas, ou ne respectent pas intégralement, les principes de BPL, la personne qui présente les rapports d’essais doit le justifier. L’organe de réception des notifications décide, en accord avec les organes d’évaluation, s’il accepte lesdits résultats d’essai.
 
 [^43-1]: Cf. note de bas de page relative à l’art. 2, al. 2, let. f.
-[^43-2]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^43-2]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 ## Titre 3 Obligations du fabricant subséquentes à la mise sur le marché
 
@@ -1007,7 +1007,7 @@ Le notifiant est tenu de soumettre à l’organe de réception des notifications
 
 <sup>5</sup> Si le notifiant omet de présenter dans les délais impartis les rapports d’essais supplémentaires, l’organe de réception des notifications peut faire exécuter les essais requis aux frais du notifiant et, le cas échéant, interdire à celui-ci de mettre sur le marché la substance considérée.
 
-[^47-1]: Le renvoi a été adapté au 1<sup>er</sup> mars 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^47-1]: Le renvoi a été adapté au 1<sup>er</sup> mars 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ### Chapitre 3 Obligation de communiquer
 
@@ -1113,7 +1113,7 @@ La communication et la communication élargie doivent être transmises:
 
 <sup>2</sup> Si, dans le cas des substances et des préparations dangereuses pour l’environnement, la quantité annuelle effectivement remise ne correspond pas à la catégorie quantitative préalablement annoncée, il y a lieu de communiquer, jusqu’au 31 mars de l’année suivante, la quantité effectivement remise durant l’année précédente ventilée selon les catégories précisées à l’art. 49, al. 1[^52-1], let. c, ch. 6, et d, ch. 6.
 
-[^52-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^52-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 53
 
@@ -1121,7 +1121,7 @@ La communication et la communication élargie doivent être transmises:
 
 L’obligation de communiquer les préparations conformément à l’art. 48 est réputée remplie lorsqu’une demande d’utilisation d’un nom chimique de remplacement a été déposée (art. 15) et que l’organe de réception des notifications dispose des informations requises à l’art. 49, al. 1[^53-1], let. a, b et d, et, le cas échéant, à l’art. 50.
 
-[^53-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^53-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 54
 
@@ -1174,7 +1174,7 @@ Sont soumis au régime de la communication au sens du présent chapitre:
 [^54-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-3]: Introduite par le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-4]: Abrogée par l’annexe 5 ch. II 1 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
-[^54-5]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+[^54-5]: [RS 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
 [^54-6]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^54-7]: Introduite par le ch. I de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-8]: Introduite par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
@@ -1354,7 +1354,7 @@ Le DFI peut régler:
 
 <sup>4</sup> L’al. 1 ne s’applique pas à la remise des carburants à moteur.
 
-[^66-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^66-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 67
 
@@ -1400,7 +1400,7 @@ Les substances et les préparations des groupes 1 et 2 ne peuvent être remises 
 <sup>2</sup> L’Office fédéral de l’environnement (OFEV) décide, en accord avec l’Office fédéral de la santé publique (OFSP) et le Secrétariat d’État à l’économie (SECO), si une substance de la liste des substances candidates répertoriée à l’annexe XIV du règlement UE-REACH doit être reprise à l’annexe 1.17 de l’ORRChim[^70-2].
 
 [^70-1]: Cf. note de bas de page relative à l’art. 2, al. 2, let. f.
-[^70-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^70-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 71
 
@@ -1445,11 +1445,11 @@ Le registre est établi en fonction des données:
 - a.[^72-7] qui ont été recueillies ou traitées par une autorité suisse dans le cadre d’une des ordonnances visées à l’al. 1 ou 1<sup>bis</sup>;
 - b. qui sont transmises par des autorités étrangères ou par des organismes internationaux.
 
-[^72-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^72-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^72-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^72-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^72-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^72-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 [^72-4]: Introduite par l’annexe 5 ch. II 1 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
-[^72-5]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^72-5]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 [^72-6]: Introduit par l’annexe 4 ch. II 5 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 [^72-7]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
@@ -1488,7 +1488,7 @@ Ne sont en aucun cas réputés confidentiels:
 
 <sup>6</sup> L’organe de réception des notifications et les organes d’évaluation peuvent publier les données qui figurent dans le registre des produits et qui ne sont en aucun cas réputées confidentielles.
 
-[^73-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^73-1]: Le renvoi a été adapté au 1<sup>er</sup> mai 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^73-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^73-3]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 
@@ -1514,13 +1514,13 @@ Ne sont en aucun cas réputés confidentiels:
 - g. les données recueillies par les cantons en application de la présente ordonnance ou de tout autre acte législatif régissant la protection de l’être humain ou de l’environnement contre les risques liés aux substances, aux préparations et aux objets.
 
 [^74-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-2]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^74-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^74-4]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^74-2]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^74-3]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^74-4]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 [^74-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-6]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
-[^74-7]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
-[^74-8]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^74-6]: [RS 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)
+[^74-7]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022.
+[^74-8]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 75
 
@@ -1691,7 +1691,7 @@ S’il y a lieu de supposer que l’évaluation ou la classification font défau
 
 <sup>7</sup> En ce qui concerne les cosmétiques ainsi que les matières premières et les additifs qui leur sont exclusivement destinés, le service compétent en la matière arrête les mesures à prendre. La collaboration de l’OFEV est régie par les art. 62*a* et 62*b* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^81-1].
 
-[^81-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^81-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 82
 
@@ -1755,7 +1755,7 @@ Pour ce qui est des dispositions sur la protection de la santé, ils ne peuvent 
 
 Le régime et le calcul des émoluments pour les actes administratifs auxquels les autorités fédérales d’exécution procèdent en vertu de la présente ordonnance sont régis par l’ordonnance du 18 mai 2005 sur les émoluments perçus en application de la législation sur les produits chimiques[^86-1].
 
-[^86-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+[^86-1]: [RS 813.153.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9404)
 
 ### Chapitre 2 Cantons
 
@@ -1858,7 +1858,7 @@ Pour les préparations étiquetées et emballées avant l’entrée en vigueur d
 
 [^93-1]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661)]
 [^93-2]: Règlement (UE) n<sup>o</sup> 1297/2014 de la Commission du 5 décembre 2014 modifiant, aux fins de son adaptation au progrès technique et scientifique, le règlement (CE) no 1272/2008 du Parlement européen et du Conseil relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, JO L 350 du 6.12.2014, p. 1.
-[^93-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^93-3]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 #### Art. 93a
 
@@ -1991,18 +1991,18 @@ Lorsque la présente ordonnance fait référence à des dispositions du règleme
 <tr><td>règlement (CE) n<sup>o</sup> 648/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux détergents, JO L 104 du 8.4.2004, p. 1</td><td>annexes 2.1 et 2.2 ORRChim</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl3-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^annex1-lvlu1-lvl3-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^annex1-lvlu1-lvl3-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^annex1-lvlu1-lvl3-4]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^annex1-lvlu1-lvl3-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^annex1-lvlu1-lvl3-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex1-lvlu1-lvl3-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annex1-lvlu1-lvl3-4]: [RS 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
 [^annex1-lvlu1-lvl3-5]: La liste des valeurs limites d’exposition aux postes de travail peut être téléchargée sur le site Internet de la CNA: [www.suva.ch](http://www.suva.ch) &gt; Prévention &gt; Travail &gt; Médecine du travail &gt; «Valeurs limites d’exposition aux postes de travail».
-[^annex1-lvlu1-lvl3-6]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
-[^annex1-lvlu1-lvl3-7]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
-[^annex1-lvlu1-lvl3-8]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^annex1-lvlu1-lvl3-9]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^annex1-lvlu1-lvl3-10]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
-[^annex1-lvlu1-lvl3-11]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^annex1-lvlu1-lvl3-12]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
+[^annex1-lvlu1-lvl3-6]: [RS 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
+[^annex1-lvlu1-lvl3-7]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
+[^annex1-lvlu1-lvl3-8]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^annex1-lvlu1-lvl3-9]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^annex1-lvlu1-lvl3-10]: [RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
+[^annex1-lvlu1-lvl3-11]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^annex1-lvlu1-lvl3-12]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
 
 Annexe 2[^t-2]
 
@@ -2010,25 +2010,57 @@ Annexe 2[^t-2]
 
 ## Liste des exigences techniques déterminantes
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFSP du 1<sup>er</sup> nov. 2016 ([RO 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Mise à jour par le ch. I des O de l’OFSP du 5 fév. 2018 ([RO 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), du 31 oct. 2018 ([RO 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), du 23 mai 2019 ([RO 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), du 21 fév. 2020 ([RO 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), l’annexe ch. 1 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) et le ch. I des O de l’OFSP du 19 nov. 2020 ([RO 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), du 4 août 2021([RO 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)), du 9 août 2022 ([RO 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)), du 5 sept. 2023 ([RO 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)) et du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFSP du 1<sup>er</sup> nov. 2016 ([RO 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Mise à jour par le ch. I des O de l’OFSP du 5 fév. 2018 ([RO 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), du 31 oct. 2018 ([RO 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), du 23 mai 2019 ([RO 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), du 21 fév. 2020 ([RO 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), l’annexe ch. 1 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I des O de l’OFSP du 19 nov. 2020 ([RO 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), du 4 août 2021([RO 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)), du 9 août 2022 ([RO 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)), du 5 sept. 2023 ([RO 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)), du 22 juil. 2024 ([RO 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)) et du 31 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 506](https://fedlex.data.admin.ch/eli/oc/2025/506)).
 
-### 1 Exigences techniques pour la classification, l’étiquetage et l’emballage des substances et des préparations
+### 1 Exigences techniques pour la classification, l’étiquetage et l’emballage des substance et des préparations
 
-Les annexes I à VII du règlement UE-CLP[^annex2-lvlu1-lvl1-1] s’appliquent à la classification, à l’étiquetage et à l’emballage des substances et des préparations.
+Les annexes I à VII du règlement UE-CLP[^annex2-lvlu1-lvl1-1] s’appliquent à la classification, à l’étiquetage et à l’emballage des substances et des préparations. Les modifications suivantes du règlement UE-CLP sont déterminantes pour la Suisse:
 
-[^annex2-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2024/197, JO L, 2024/197, 5.1.2024.
+<table>
+<tr><th>Modifications du règlement UE-CLP déterminantes pour la Suisse</th><th>Référence dans le Journal Officiel de l’Union européenne (JO)</th><th>Aperçu</th></tr>
+<tr><td>Règlement (CE) n<sup>o</sup> 790/2009 de la Commission du 10 août 2009</td><td>JO L 235 du 5.9.2009, p. 1</td><td>1<sup>re</sup> Adaptation du règlement UE-CLP au progrès technique(ATP)</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 286/2011 de la Commission du 10 mars 2011</td><td>JO L 83 du 30.3.2011, p. 1</td><td>2<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 618/2012 de la Commission du 10 juillet 2012</td><td>JO L 179 du 11.7.2012, p. 3</td><td>3<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 487/2013 de la Commission du 8 mai 2013</td><td>JO L 149 du 1.6.2013, p. 1</td><td>4<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 758/2013 de la Commission du 7 août 2013</td><td>JO L 216 du 10.8.2013, p. 1</td><td>Corrections de l’annexe VI (erreurs de la 1<sup>re</sup> ATP).</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 944/2013 de la Commission du 2 octobre 2013</td><td>JO L 261 du 3.10.2013, p. 5</td><td>5<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 605/2014 de la Commission du 5 juin 2014</td><td>JO L 167 du 6.6.2014, p. 36</td><td>6<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) n<sup>o</sup> 1297/2014 de la Commission du 5 décembre 2014</td><td>JO L 350 du 6.12.2014, p. 1</td><td>Capsules de lessive liquide</td></tr>
+<tr><td>Règlement (UE) 2015/1221 de la Commission du 24 juillet 2015</td><td>JO L 197 du 25.7.2015, p. 10</td><td>7<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) 2016/918 de la Commission du 19 mai 2016</td><td>JO L 156 du 14.6.2016, p. 1</td><td>8<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) 2016/1179 de la Commission du 19 juillet 2016</td><td>JO L 195 du 20.7.2016, p. 11</td><td>9<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) 2017/776 de la Commission du 4 mai 2017</td><td>JO L 116 du 5.5.2017, p. 1</td><td>10<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) 2018/669 de la Commission du 16 avril 2018</td><td>JO L 115 du 4.5.2018, p. 1</td><td>11<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) 2019/521 de la Commission du 27 mars 2019</td><td>JO L 86 du 28.3.2019, p. 1</td><td>12<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement (UE) 2018/1480 de la Commission du 4 octobre 2018</td><td>JO L 251 du 5.10.2018, p. 1</td><td>13<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2020/217 de la Commission du 4 octobre 2019</td><td>JO L 44 du 18.2.2020, p. 1</td><td>14<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2020/1182 de la Commission du 19 mai 2020</td><td>JO L 261 du 11.8.2020, p. 2</td><td>15<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2021/643 de la Commission du 3 février 2021</td><td>JO L 133 du 20.4.2021, p. 5</td><td>16<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2021/797 de la Commission du 8 mars 2021</td><td>JO L 176 du 19.5.2021, p. 1</td><td>Rectificatifs aux annexes II et VI (dioxyde de titane, TiO2)</td></tr>
+<tr><td>Règlement délégué (UE) 2021/849 de la Commission du 11 mars 2021</td><td>JO L 188 du 28.5.2021, p. 27</td><td>17<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2021/1962 de la Commission du 12 août 2021</td><td>JO L 400 du 12.11.2021, p. 16</td><td>Correction des entrées de substances à l’annexe VI</td></tr>
+<tr><td>Règlement délégué (UE) 2022/692 de la Commission du 16 février 2022</td><td>JO L 129 du 3.5.2022, p. 1</td><td>18<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2023/1434 de la Commission du 25 avril 2023</td><td>JO L 176 du 11.7.2023, p. 3</td><td>19<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2023/1435 de la Commission du 2 mai 2023</td><td>JO L 176 du 11.7.2023, p. 6</td><td>20<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2023/707 de la Commission du 19 décembre 2022</td><td>JO L 93 du 31.3.2023, p. 7</td><td>ATP «nouvelles classes de danger»</td></tr>
+<tr><td>Règlement délégué (UE) 2024/197 de la Commission du 19 octobre 2023</td><td>JO L, 2024/197, 5.1.2024</td><td>21<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2024/2564 de la Commission du 19 juin 2024</td><td>JO L, 2024/2564, 30.9.2024</td><td>22<sup>e</sup> ATP</td></tr>
+<tr><td>Règlement délégué (UE) 2025/1222 de la Commission du 2 avril 2025</td><td>JO L, 2025/1222, 20.6.2025</td><td>23<sup>e</sup> ATP</td></tr>
+</table>
+
+[^annex2-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006, JO L 353 du 31.12.2008, p. 1.
 
 ### 2 Méthodes d’essais relatives aux propriétés des substances et des préparations
 
 Les essais visant à déterminer les propriétés des substances et des préparations doivent être réalisés:
 
 - a. selon les méthodes d’essai définies dans le règlement (CE) n<sup>o</sup> 440/2008[^annex2-lvlu1-lvl2-1];
-- b. selon les Lignes directrices de l’OCDE relatives aux essais de produits chimiques (*OECD Guidelines for the Testings of Chemicals*) dans la version du 25 juin 2024[^annex2-lvlu1-lvl2-2], ou
+- b. selon les Lignes directrices de l’OCDE relatives aux essais de produits chimiques (*OECD Guidelines for the Testings of Chemicals*) dans la version du 25 juin 2025[^annex2-lvlu1-lvl2-2], ou
 - c. selon les méthodes d’essai du manuel d’épreuves et de critères des Nations Unies de classification des dangers physiques (*UN Manual of Tests and* *Criteria*)[^annex2-lvlu1-lvl2-3].
 
-[^annex2-lvlu1-lvl2-1]: Règlement (CE) n<sup>o</sup> 440/2008 de la Commission du 30 mai 2008 établissant des méthodes d’essai conformément au règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), JO L 142 du 31.5.2008, p. 1; modifié en dernier lieu par le règlement (UE) 2023/464, JO L 68 du 6.3.2023, p. 37.
-[^annex2-lvlu1-lvl2-2]: Les lignes directrices de l’OCDE relatives aux essais de produits chimiques peuvent être consultées gratuitement à l’adresse suivante: [www.oecd-ilibrary.org/environment/oecd-guidelines-for-the-testing-of-chemicals\_72d77764-en](http://www.oecd-ilibrary.org/environment/oecd-guidelines-for-the-testing-of-chemicals_72d77764-en).
-[^annex2-lvlu1-lvl2-3]: Le manuel (eighth revised edition 2023), peut être consulté gratuitement sur le site de l’ONU à l’adresse suivante: [www.unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023](http://www.unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023).
+[^annex2-lvlu1-lvl2-1]: Règlement (CE) n<sup>o</sup> 440/2008 de la Commission du 30 mai 2008 établissant des méthodes d’essai conformément au règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), JO L 142 du 31.5.2008, p. 1; modifié en dernier lieu par le règlement (UE) 2024/2492, JO L, 2024/2492, 24.9.2024.
+[^annex2-lvlu1-lvl2-2]: Les lignes directrices de l’OCDE relatives aux essais de produits chimiques peuvent être consultées gratuitement à l’adresse suivante: www.oecd.org/en/topics/sub-issues/testing-of-chemicals/test-guidelines.html.
+[^annex2-lvlu1-lvl2-3]: Le manuel (eighth revised edition 2023 und amendment 1 2025), peut être consulté gratuitement sur le site de l’ONU à l’adresse suivante: [www.unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023](http://www.unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023) et [www.unece.org/transport/documents/2025/02/reports/amendments-eighth-revised-edition-manual-tests-and-criteria](http://www.unece.org/transport/documents/2025/02/reports/amendments-eighth-revised-edition-manual-tests-and-criteria)
 
 ### 3 Exigences relatives à la fiche de données de sécurité
 
@@ -2129,6 +2161,15 @@ Les substances qui sont listées dans le règlement délégué (UE) 2023/1435[^a
 [^annex2-lvlu1-lvl15-1]: Règlement délégué (UE) 2023/707 de la Commission du 19 décembre 2022 modifiant le règlement (CE) n<sup>o</sup> 1272/2008 en ce qui concerne les classes de danger et les critères de classification, d’étiquetage et d’emballage des substances et des mélanges, JO L 93 du 31.3.2023, p. 7.
 [^annex2-lvlu1-lvl15-2]: Règlement délégué (UE) 2024/197 de la Commission du 19 octobre 2023 modifiant le règlement (CE) n<sup>o</sup> 1272/2008 en ce qui concerne la classification et l’étiquetage harmonisés de certaines substances, JO L, 2024/197, 5.1.2024
 
+### 16 Disposition transitoire de la modification du 31 juillet 2025
+
+16.1 Les substances qui sont listées dans le règlement délégué (UE) 2024/2564[^annex2-lvlu1-lvl16-1] (22<sup>e</sup> ATP), ainsi que les préparations qui en contiennent, dont la classification et l’étiquetage ne remplissent pas les exigences dudit règlement, peuvent être remises jusqu’au 30 avril 2026.
+
+16.2 Les substances qui sont listées dans le règlement délégué (UE) 2025/1222[^annex2-lvlu1-lvl16-2] (23<sup>e</sup> ATP), ainsi que les préparations qui en contiennent, dont la classification et l’étiquetage ne remplissent pas les exigences dudit règlement, peuvent être remises jusqu’au 31 janvier 2027.
+
+[^annex2-lvlu1-lvl16-1]: Règlement délégué (UE) 2024/2564 de la Commission du 19 juin 2024 modifiant le règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil en ce qui concerne la classification et l’étiquetage harmonisés de certaines substances; version du JO L, 2024/2564, 30.9.2024.
+[^annex2-lvlu1-lvl16-2]: Règlement délégué (UE) 2025/1222 de la Commission du 2 avril 2025 modifiant le règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil en ce qui concerne la classification et l’étiquetage harmonisés de certaines substances; version du JO L, 2025/1222, 20.6.2025.
+
 Annexe 3[^t-3]
 
 (art. 5, al. 2 et 3, 19, let. c et d, 70, al. 1, et 84, let. b)
@@ -2137,8 +2178,8 @@ Annexe 3[^t-3]
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 9 août 2022 ([RO 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)). Mise à jour par le ch. I de l’O de l’OFSP du 5 sept. 2023 ([RO 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)) et du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/404](https://fedlex.data.admin.ch/eli/oc/2024/404) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste des substances candidates a effet dans la version du 1<sup>er</sup> septembre 2024 et contient 240 substances et groupes de substances.
+[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 9 août 2022 ([RO 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)). Mise à jour par le ch. I des O de l’OFSP du 5 sept. 2023 ([RO 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)), du 22 juil. 2024 ([RO 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)) et du 31 juil. 2025, en vigueur depuis le 1<sup>er</sup> sept. 2025 ([RO 2025 506](https://fedlex.data.admin.ch/eli/oc/2025/506)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/506](https://fedlex.data.admin.ch/eli/oc/2025/506) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste des substances candidates a effet dans la version du 1<sup>er</sup> septembre 2025 et contient 247 substances et groupes de substances.
 
 Annexe 4[^t-4]
 
@@ -2300,24 +2341,24 @@ Annexe 5[^t-5]
 ### 1.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim[^annex5-lvlu1-lvl1-lvl11-2] étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Le numéro de la phrase H n’a pas besoin de figurer sur l’étiquette.
-[^annex5-lvlu1-lvl1-lvl11-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex5-lvlu1-lvl1-lvl11-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 1.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux. (Les préparations classées comme «Skin Corr. 1C» et étiquetées avec la mention H314 exclusivement en raison de leur teneur en acide lactique [n<sup>o</sup> CAS 79-33-4] ne font pas partie du groupe 2.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux. (Les préparations classées comme «Skin Corr. 1C» et étiquetées avec la mention H314 exclusivement en raison de leur teneur en acide lactique [n<sup>o</sup> CAS 79-33-4] ne font pas partie du groupe 2.)</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>H230: Peut exploser même en l’absence d’air, ou H231: Peut exploser même en l’absence d’air à une pression et/ou température élevée(s) ou EUH019: Peut former des peroxydes explosifs, ou EUH029: Au contact de l’eau, dégage des gaz toxiques, ou EUH031: Au contact d’un acide, dégage un gaz toxique, ou EUH032: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 
@@ -2326,10 +2367,10 @@ Annexe 5[^t-5]
 ### 2.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Le numéro de la phrase R n’a pas besoin de figurer sur l’étiquette.
@@ -2337,12 +2378,12 @@ Annexe 5[^t-5]
 ### 2.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241004/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>R6: Danger d’explosion en contact ou sans contact avec l’air, ou R19: Peut former des peroxydes explosifs, ou R29: Au contact de l’eau, dégage des gaz toxiques, ou R31: Au contact d’un acide, dégage un gaz toxique, ou R32: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 
