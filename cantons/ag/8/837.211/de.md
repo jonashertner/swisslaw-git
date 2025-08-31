@@ -4,13 +4,13 @@ number: "837.211"
 title: Verordnung zum Gesetz zum Bundesgesetz über die Krankenversicherung
 short: V KVGG
 language: de
-version: 2024-09-02
-valid_until: 2025-08-31
-version_adopted: 2024-08-28
+version: 2025-09-01
+valid_until: 2026-08-31
+version_adopted: 2025-08-27
 adopted: 2016-03-16
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3656/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3870/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3656/pdf_file"
 
 (V KVGG)
 
-Vom 16.03.2016 (Stand 02.09.2024)
+Vom 16.03.2016 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 5 Abs. 1, 6 Abs. 5, 9 Abs. 3 lit. a, 10 Abs. 5, 13 Abs. 3, 17 Abs. 5, 18 Abs. 8, 19 Abs. 3, 24 Abs. 2, 26 Abs. 4, 27 Abs. 5, 30 Abs. 2, 31 Abs. 2 und 44 des Gesetzes zum Bundesgesetz über die Krankenversicherung (KVGG) vom 15. Dezember 2015[^ingress-1],
+gestützt auf die §§ 5 Abs. 1, 6 Abs. 5, 9 Abs. 3 lit. a, 10 Abs. 5, 11 Abs. 5, 13 Abs. 3, 17 Abs. 5, 18 Abs. 8, 19 Abs. 3, 24 Abs. 2, 26 Abs. 4, 27 Abs. 5, 30 Abs. 2, 31 Abs. 2 und 44 des Gesetzes zum Bundesgesetz über die Krankenversicherung (KVGG) vom 15. Dezember 2015[^ingress-1],
 
 beschliesst:
 
@@ -64,7 +64,34 @@ beschliesst:
 
 <sup>2</sup> Für die Erstellung der Grundlagen zur Festlegung des Einkommenssatzes und der Einkommensabzüge für die verschiedenen Haushaltstypen gemäss Anhang 1 ist das kantonale Steueramt in Zusammenarbeit mit dem Statistischen Amt zuständig.
 
+<sup>3</sup> Die effektive Prämie gemäss § 7 Abs. 2 KVGG entspricht der effektiven KVG-Prämie am 1. Januar des Anspruchsjahres. Bei Versicherungsbeginn nach dem 1. Januar ist die Prämie ab Versicherungsbeginn im Anspruchsjahr massgebend.
+
+<sup>4</sup> Die Verteilung des Haushaltsanspruchs auf die Haushaltsmitglieder erfolgt anteilmässig im Verhältnis der Richtprämien.
+
+<sup>5</sup> Wird mit einem gemäss § 4 Abs. 4 bestimmten Prämienverbilligungsanteil der Mindestanspruch einer Person gemäss Art. 65 Abs. 1<sup>bis</sup> KVG nicht eingehalten, wird die Prämienverbilligung dieser Person entsprechend erhöht.
+
 [^4-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+
+#### § 4a
+
+**Einkommen**
+
+<sup>1</sup> Unter Einkommen gemäss § 11 Abs. 2 und 3 KVGG fallen liquiditätswirksame Einkommenspositionen zuzüglich abzugsfähiger Unterhaltsbeiträge. Es handelt sich namentlich um die Summe der nachfolgenden Positionen:
+
+- a) Einkommen und Vergütungen aus selbstständiger und unselbstständiger Erwerbstätigkeit,
+- b) Miet- und Pachtzinseinnahmen aus Liegenschaften,
+- c) Renteneinkommen,
+- d) Taggeldleistungen,
+- e) erhaltene Unterhaltsbeiträge,
+- f) andere Einkünfte,
+- g) Wertschriftenerträge,
+- h) Familienzulagen,
+- i) Einkommen aus dem vereinfachten Abrechnungsverfahren gemäss dem Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit (Bundesgesetz gegen die Schwarzarbeit, BGSA) vom 17. Juni 2005[^4a-1],
+- j) bezahlte Unterhaltsbeiträge,
+- k) Vermögenszuwachs gemäss § 14 Abs. 2 KVGG und
+- l) hypothetisches Einkommen bei einem freiwilligen Einkommensverzicht gemäss § 6 Abs. 1.
+
+[^4a-1]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de)
 
 #### § 5
 
