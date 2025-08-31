@@ -4,13 +4,12 @@ number: "414.313"
 title: "Verordnung über die Gebühren an der Hochschule Luzern, FH Zentralschweiz"
 short: "Gebührenverordnung HSLU, GebVo-HSLU"
 language: de
-version: 2025-03-01
-valid_until: 2025-08-31
+version: 2025-09-01
 version_adopted: 2024-12-13
 adopted: 2024-12-13
 in_force: 2025-03-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.313"
-pdf: "https://bgs.zg.ch/api/de/versions/2677/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2678/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2677/pdf_file"
 
 (Gebührenverordnung HSLU, GebVo-HSLU)
 
-Vom 13. Dezember 2024 (Stand 1. März 2025)
+Vom 13. Dezember 2024 (Stand 1. September 2025)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -69,6 +68,8 @@ beschliesst:
 
 - a. für immatrikulierte Studierende pro Semester Fr. 800.–
 - b. für Hörerinnen und Hörer, pro Semester mindestens Fr. 200.– bis maximal Fr. 800.–, abgestuft nach Zahl der ECTS-Punkte aller besuchten Veranstaltungen.
+
+<sup>1<sup>bis</sup></sup> Ausländische Studierende haben neben den allgemeinen Studiengebühren eine zusätzliche Studiengebühr von Fr. 500.– pro Semester zu entrichten. Dies gilt nicht für ausländische Studierende, deren Wohnsitzkanton für sie FHV-Beiträge leistet.
 
 <sup>2</sup> Weitere Kosten, namentlich für Lehrmittel, Arbeitsmaterialien oder Studienreisen, werden zusätzlich kostendeckend in Rechnung gestellt.
 
