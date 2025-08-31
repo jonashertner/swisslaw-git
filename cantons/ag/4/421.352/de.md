@@ -4,13 +4,13 @@ number: "421.352"
 title: Verordnung über die Laufbahnentscheide an der Volksschule
 short: Promotionsverordnung
 language: de
-version: 2022-01-01
-valid_until: 2025-08-31
-version_adopted: 2021-04-07
+version: 2025-09-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-18
 adopted: 2009-08-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.352"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3718/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3842/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3718/pdf_file"
 
 (Promotionsverordnung)
 
-Vom 19.08.2009 (Stand 01.01.2022)
+Vom 19.08.2009 (Stand 01.09.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -103,21 +103,27 @@ beschliesst:
 
 #### § 8
 
-**Übertritt in die Primarschule**
+**Schulische Laufbahn im Anschluss an das 2. Kindergartenjahr**
 
-<sup>1</sup> Die verantwortliche Kindergartenlehrperson gibt im 2. Halbjahr des 2. Kindergartenjahrs aufgrund des Beurteilungsdossiers und je nach Entwicklungsstand des Kinds eine Empfehlung für den Übertritt in die 1. Klasse der Primarschule oder in die Einschulungsklasse ab.
+<sup>1</sup> Die verantwortliche Kindergartenlehrperson gibt im 2. Halbjahr des 2. Kindergartenjahrs aufgrund des Beurteilungsdossiers sowie gemäss aktuellem Entwicklungs- und Sprachstand des Kinds eine Empfehlung für die weitere Beschulung ab.
 
 <sup>2</sup> …
 
-<sup>3</sup> Bedarf das Kind im 2. Schulhalbjahr des 2. Kindergartenjahrs einer besonderen schulischen Förderung, empfiehlt es die verantwortliche Kindergartenlehrperson für eine heilpädagogische Förderung im Rahmen der integrativen Schulung oder für die Einschulung in die Kleinklasse.
+<sup>3</sup> Für die weitere Beschulung sind folgende Optionen zu prüfen:
+
+- a) Übertritt in die Primarschule, bei Bedarf mit heilpädagogischer Förderung,
+- b) Übertritt in die Einschulungsklasse,
+- c) Übertritt in die Kleinklasse,
+- d) Übertritt in eine Sonderschulung,
+- e) Verbleib im Kindergarten für ein drittes Jahr.
 
 #### § 9
 
 **Verfahren**
 
-<sup>1</sup> Im Zeitraum Februar bis April findet ein Übertrittsgespräch zwischen der verantwortlichen Kindergartenlehrperson und den Eltern statt. Auf Wunsch der Eltern ist dabei auch das Kind anzuhören.
+<sup>1</sup> Im Zeitraum Februar bis April findet ein Übertrittsgespräch zwischen der verantwortlichen Kindergartenlehrperson und den Eltern statt. Das betroffene Kind ist in geeigneter Form einzubeziehen.
 
-<sup>2</sup> Kommt keine Einigung über den Übertritt zustande, entscheidet der Gemeinderat.
+<sup>2</sup> Kommt keine Einigung über die weitere Beschulung zustande, entscheidet der Gemeinderat.
 
 #### § 10
 
