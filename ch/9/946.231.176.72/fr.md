@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2025-08-12
+version: 2025-09-03
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250812/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250812-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250812/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250903/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250903-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250903/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 12 août 2025)
+du 4 mars 2022 (État le 3 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -3951,11 +3951,11 @@ Annexe 28[^t-33]
 
 ## Prix-plafond du pétrole et des produits pétroliers
 
-[^t-33]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. II al. 2 de l’O du 15 fév. 2023, en vigueur depuis le 15 fév. 2023 à 18 heures ([RO 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^t-33]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 11 août 2025, en vigueur depuis le 3 sept. 2025 ([RO 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th><th>Prix du baril (USD)</th></tr>
-<tr><td>2709 00</td><td>Huiles brutes de pétrole ou de minéraux bitumineux</td><td>60</td></tr>
+<tr><td>2709 00</td><td>Huiles brutes de pétrole ou de minéraux bitumineux</td><td>47.60</td></tr>
 <tr><td></td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base; déchets d’huiles</td><td></td></tr>
 <tr><td>2710 12</td><td>Huiles légères et préparations</td><td></td></tr>
 <tr><td></td><td>destinées à être utilisées comme carburant</td><td></td></tr>
