@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Traité du 17 décembre 1994 sur la Charte de l'énergie (avec annexes, décisions et acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: fr
-version: 2025-07-24
+version: 2025-09-03
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250724/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250724-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250724/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250903/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250903-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250903/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(État le 24 juillet 2025)
+(État le 3 septembre 2025)
 
 [^t-1]: [RO 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -1085,11 +1085,11 @@ Liste des équipements liés à l’énergie
 
 \4. Annexe EQ II
 
-Liste des équipements liés à l'énergie
+Liste des équipements liés à l’énergie
 
 \5. Annexe NI
 
-Matières et produits énergétiques non applicables aux investissements pour la définition de l’«activité économique du secteur de l’énergie»
+Matières et produits énergétiques à l’annexe EM I relevant des sous-positions 27.01–27.15, 2804.10 et 44.01–44.02, l’énergie électrique (sous-position 27.16) produite à partir de ceux-ci, les combustibles synthétiques et les activités exclus de la définition de l’activité économique du secteur de l’énergie
 
 \6. Annexe TRM
 
@@ -1117,7 +1117,7 @@ Procédure spéciale sous-nationale de règlement des différends
 
 \12. Annexe W
 
-Exceptions et règles régissant l’application des dispositions de l'accord OMC
+Exceptions et règles régissant l’application des dispositions de l’accord OMC
 
 \13. Annexe TFU
 
@@ -1147,7 +1147,7 @@ Liste des signataires qui n’acceptent pas l’application provisoire de l’ar
 
 Mesures transitoires adoptées par les Parties contractantes
 
-[^t-2]: Mise à jour selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-2]: Mise à jour par l’art. 2 de l’Am. du 24 avril 1998 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)) et l’art. 1 de l’Am. du 3 déc. 2024, en vigueur depuis le 3 sept. 2025 ([RO 2026 139](https://fedlex.data.admin.ch/eli/oc/2026/139)).
 
 \1. Annexe EM I[^t-3]
 
@@ -1483,17 +1483,80 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 
 \5. Annexe NI[^t-7]
 
-## Matières et produits énergétiques non applicables aux investissements pour la définition de l’«activité économique du secteur de l’énergie»
+## Matières et produits énergétiques à l’annexe EM I relevant des sous-positions 27.01–27.15, 2804.10 et 44.01–44.02, l’énergie électrique (sous-position 27.16) produite à partir de ceux-ci, les combustibles synthétiques et les activités exclus de la définition de l’activité économique du secteur de l’énergie
 
-[^t-7]: Anciennement 2.
+[^t-7]: Anciennement 2. Nouvelle teneur selon l’art. 1 de l’Am. du 3 déc. 2024, en vigueur depuis le 3 sept. 2025 ([RO 2026 139](https://fedlex.data.admin.ch/eli/oc/2026/139)).
 
-(conformément à l’art. 1, par. 5)
+(conformément à l’art. 1<sup>er</sup> par. 5)
 
-<table>
-<tr><td>27.07</td><td>Huiles et autres produits provenant de la distillation des goudrons de houille à haute température, produits analogues dans lesquels les constituants aromatiques prédominent en poids par rapport aux constituants non aromatiques (par exemple, les benzols, toluols, xylols, naphtalènes, autres mélanges d’hydrocarbures aromatiques, phénols, huiles de créosote et autres).</td></tr>
-<tr><td>44.01.10</td><td>Bois de chauffage en rondins, billettes, bûches, fagots ou sous formes similaires.</td></tr>
-<tr><td>44.02</td><td>Charbon de bois (y compris le charbon de coques ou de noix), même aggloméré.</td></tr>
-</table>
+### Section A
+
+En ce qui concerne toutes les parties contractantes, les matières et produits énergétiques et les activités énumérés dans la présente section sont exclus de la définition de l’activité économique du secteur de l’énergie.
+
+27.07 Huiles et autres produits provenant de la distillation des goudrons de houille à haute température; produits analogues dans lesquels les constituants aromatiques prédominent en poids par rapport aux constituants non aromatique.
+
+Ex 44.01 Bois de chauffage en rondins, bûches, ramilles, fagots ou sous formes similaires; bois en plaquettes ou en particules; sciures, déchets et débris de bois, même agglomérés sous forme de bûches, briquettes, boulettes ou sous formes similaires.
+
+4401.10 – Bois de chauffage en rondins, bûches, ramilles, fagots ou sous formes similaires.
+
+44.02 Charbon de bois (y compris le charbon de coques ou de noix), même aggloméré.
+
+### Section B
+
+(1) Pour ce qui est des investissements réalisés à partir du 3 septembre 2025 dans l’Union européenne et ses États membres qui sont parties contractantes au présent traité, les matières et produits énergétiques et les activités suivants sont exclus de la définition de l’activité économique du secteur de l’énergie uniquement en ce qui concerne la Partie III du présent traité:
+
+- [tab] a)
+  - i) Matières et produits énergétiques à l’annexe EM / EM I relevant des sous-positions 27.01 à 27.15 et l’énergie électrique (sous-position 27.16) produite à partir de ceux-ci.
+  - ii) 2804.10 Hydrogène, à l’exception de l’hydrogène à faible teneur en carbone et de l’hydrogène renouvelable, qui restent dans le champ de la définition de l’activité économique du secteur de l’énergie. Hydrogène à faible teneur en carbone désigne l’hydrogène produit à partir de sources non renouvelables, avec des émissions considérablement réduites sur l’ensemble du cycle de vie, soit moins de 3 t CO<sub>2</sub>eq/tH<sub>2</sub>. Hydrogène renouvelable désigne l’hydrogène produit à partir de sources renouvelables, à l’exception de la biomasse, entraînant des émissions sur l’ensemble du cycle de vie inférieures à 3 t CO<sub>2</sub>eq/tH<sub>2</sub>.
+  - iii) Combustibles synthétiques, à l’exception des combustibles à faible teneur en carbone, qui restent dans le champ de la définition de l’activité économique du secteur de l’énergie. Combustibles à faible teneur en carbone désignent les combustibles à base de carbone recyclé, l’hydrogène à faible teneur en carbone et les combustibles synthétiques gazeux et liquides produits à partir d’hydrogène à faible teneur en carbone, qui permettent de réduire de 70 % les émissions sur l’ensemble du cycle de vie. Combustibles à base de carbone recyclé désignent les combustibles liquides et gazeux produits à partir de déchets liquides ou solides d’origine non renouvelable ou à partir de gaz de traitement des déchets et de gaz d’échappement d’origine non renouvelable.
+  - iv) Et des activités économiques de captage, d’utilisation et de stockage du dioxyde de carbone.
+
+- b)
+
+  Nonobstant le pt. a):
+
+  - i) L’énergie électrique (sous-position 27.16) produite à partir de gaz de pétrole et d’autres hydrocarbures gazeux (sous-position 27.11) au moyen de centrales électriques et d’infrastructures permettant l’utilisation de gaz renouvelables et à faible teneur en carbone, et émettant moins de 380 g de CO<sub>2</sub> d’origine fossile par kWh d’électricité, est exclue de la définition de l’activité économique du secteur de l’énergie uniquement en ce qui concerne la partie III du présent traité après le 31 décembre 2030.
+  - ii) L’énergie électrique (sous-position 27.16) produite à partir de gaz de pétrole et d’autres hydrocarbures gazeux (sous-position 27.11) au moyen de centrales électriques et d’infrastructures permettant l’utilisation de gaz renouvelables et à faible teneur en carbone, et émettant moins de 380 g de CO<sub>2</sub> d’origine fossile par kWh d’électricité liés à des investissements qui remplacent des investissements existants produisant de l’énergie électrique (sous-position 27.16) à partir de matières et produits énergétiques relevant des sous-positions 27.01 à 27.10 est exclue de la définition de l’activité économique du secteur de l’énergie uniquement en ce qui concerne la Partie III du présent traité dix ans après la date d’entrée en vigueur des modifications de la section B de la présente annexe approuvées le 3 décembre 2024.
+  - iii) Le transport, la transmission, la distribution de gaz de pétrole et d’autres hydrocarbures gazeux (sous-position 27.11) par des conduites, à condition que ces dernières soient en mesure de transporter des gaz renouvelables et à faible teneur en carbone sûrs et durables, y compris l’hydrogène, sont exclus de la définition de l’activité économique du secteur de l’énergie uniquement en ce qui concerne la Partie III du présent traité dix ans après la date d’entrée en vigueur des modifications de la section B de la présente annexe approuvées le 3 décembre 2024.
+
+(2) Pour ce qui est des investissements réalisés à partir du 3 septembre 2025 en Suisse, les matières et produits énergétiques et les activités suivants sont exclus de la définition de l’activité économique du secteur de l’énergie uniquement en ce qui concerne la Partie III du présent traité:
+
+- a) 2804.10 Hydrogène, à l’exception de l’hydrogène à faible teneur en carbone et de l’hydrogène renouvelable, qui restent dans le champ de la définition de l’activité économique du secteur de l’énergie. Hydrogène à faible teneur en carbone désigne l’hydrogène d’origine fossile et l’hydrogène produit par l’électricité, avec des émissions de gaz à effet de serre considérablement réduites sur l’ensemble du cycle de vie, soit moins de 3 t CO<sub>2</sub>eq/tH<sub>2</sub>. Hydrogène renouvelable désigne l’hydrogène produit à partir de sources renouvelables et dont les émissions de gaz à effet de serre sur l’ensemble du cycle de vie sont inférieures à 3 t CO<sub>2</sub>eq/tH<sub>2</sub>.
+- b) Combustibles synthétiques dont les émissions de gaz à effet de serre sur le cycle de vie sont considérablement réduites par rapport aux combustibles synthétiques produits à partir de combustibles fossiles sans réduction des émissions. Par «considérablement», il faut entendre un seuil de 70 % ou plus.
+
+(3) Pour ce qui est des investissements réalisés à partir du 3 septembre 2025 au Royaume-Uni, les matières et produits énergétiques et les activités suivants sont exclus de la définition de l’activité économique du secteur de l’énergie uniquement en ce qui concerne la Partie III du présent traité:
+
+- a) Matières et produits énergétiques de l’annexe EM / EM I sous les sous-positions 27.01 à 27.15, et énergie électrique (sous-position 27.16) produite à partir de ceux-ci.
+- b)
+
+  2804.10 Hydrogène, à l’exception de l’hydrogène à faible teneur en carbone qui reste dans le champ d’application de la définition de l’activité économique du secteur de l’énergie:
+
+  - i) l’hydrogène d’origine fossile avec captage et stockage du carbone;
+  - ii) l’hydrogène produit à partir d’électricité, ou
+  - iii) l’hydrogène produit à partir d’autres méthodes de production;
+
+- qui satisfait à la norme britannique relative à l’hydrogène à faible teneur en carbone (*Low Carbon Hydrogen Standard*) telle que publiée au moment où l’investissement est réalisé.
+- c)
+
+  Les pt. a) et b) ne s’appliquent pas aux matières et produits énergétiques suivants, qui restent inclus dans le champ d’application de la définition de l’activité économique du secteur de l’énergie:
+
+  - i) L’énergie électrique (sous-position 27.16 de l’annexe EM / EM I) produite à partir de gaz de pétrole et d’autres hydrocarbures gazeux (sous-position 27.11 de l’annexe EM / EM I) au moyen de centrales électriques et d’infrastructures utilisant le captage et le stockage du carbone, lorsque les émissions de gaz à effet de serre sur le cycle de vie sont considérablement réduites.
+  - ii) Le transport, la transmission et la distribution de gaz de pétrole et d’autres hydrocarbures gazeux (sous-position 27.11 de l’annexe EM I) par des conduites, à condition que ces dernières soient capables de transporter des gaz renouvelables et à faible teneur en carbone.
+
+(4)
+
+- a)
+
+  Jusqu’à l’entrée en vigueur des amendements au présent traité adoptés le 3 décembre 2024, la Partie III du présent traité ne s’applique pas à une partie contractante énumérée ci-dessous en ce qui concerne un investissement dans sa zone d’un investisseur d’une autre partie contractante concernant des matières et produits énergétiques ou des activités exclus par cette dernière partie contractante à la Section B de la présente annexe:
+
+  - [tab] 1. Japon
+
+- b)
+
+  Jusqu’à l’entrée en vigueur des amendements au présent traité adoptés le 3 décembre 2024, une partie contractante énumérée ci-dessous ne donne pas son consentement inconditionnel conformément à l’art. 26 par. 3 pt. a) en ce qui concerne un différend relatif aux investissements d’un investisseur d’une autre partie contractante concernant des matières et produits énergétiques ou des activités exclus par cette dernière partie contractante dans la section B de la présente annexe:
+
+  - [tab] 1. Suisse
+  - [tab] 2. Turquie
 
 \6. Annexe TRM[^t-8]
 

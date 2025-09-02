@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Vertrag vom 17. Dezember 1994 über die Energiecharta (mit Anlagen, Beschlüssen und Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: de
-version: 2025-07-24
+version: 2025-09-03
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250724/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250724-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250724/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250903/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250903-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250903/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 24. Juli 2025)
+(Stand am 3. September 2025)
 
 [^t-1]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -1093,7 +1093,7 @@ Liste der energiebezogenen Ausrüstung
 
 \5. Anlage NI
 
-Primärenergieträger und Energieerzeungisse, die nicht unter den Begriff «Wirtschaftstätigkeit im Energiebereich» fallen
+Primärenergieträger und Energieerzeugnisse der Anlage EM I unter den Unterpositio-nen 27.01–27.15, 28.04 10 und 44.01–44.02, daraus hergestellter elektrischer Strom (Unterposition 27.16), synthetischen Brennstoffen und Tätigkeiten, die von dem Begriff Wirtschaftstätigkeit im Energiebereich ausgenommen sind (nach Artikel 1 Absatz 5)
 
 \6. Anlage TRM
 
@@ -1151,13 +1151,17 @@ Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung a
 
 Übergangsmassnahmen der Vertragsparteien
 
-[^t-2]: Bereinigt gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-2]: Bereinigt gemäss Art. 2 der Änd. vom 24. April 1998 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)) und gemäss Änd. vom 3. Dez. 2024, in Kraft seit 3. Sept. 2025 ([AS 2026 139](https://fedlex.data.admin.ch/eli/oc/2026/139)).
 
 \1. Anlage EM I[^t-3]
 
+## Primärenergieträger und Energieerzeugnisse
+
+[^t-3]: Ursprünglich Anlage EM.
+
+(nach Art. 1 Abs. 4)
+
 <table>
-<tr><td></td><td colspan="4">Primärenergieträger und Energieerzeugnisse</td></tr>
-<tr><td></td><td colspan="4">(nach Art. 1 Abs. 4)</td></tr>
 <tr><td>Kernenergie</td><td>26.12</td><td colspan="2">Uran- oder Thoriumerze und deren Konzentrate:</td></tr>
 <tr><td></td><td></td><td>26.12.10</td><td>Uranerze und ihre Konzentrate</td></tr>
 <tr><td></td><td></td><td>26.12.20</td><td>Thoriumerze und ihre Konzentrate</td></tr>
@@ -1193,8 +1197,6 @@ Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung a
 <tr><td>Andere Energien</td><td>44.01.10</td><td colspan="2">Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln und ähnlichen Formen</td></tr>
 <tr><td></td><td>44.02</td><td colspan="2">Holzkohle (einschliesslich Kohle aus Schalen oder Nüssen), auch zusammengepresst</td></tr>
 </table>
-
-[^t-3]: Ursprünglich Anlage EM.
 
 \2. Anlage EM II[^t-4]
 
@@ -1486,17 +1488,81 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 
 \5. Anlage NI[^t-7]
 
-## Primärenergieträger und Energieerzeugnisse, die nicht unter den Begriff «Wirtschaftstätigkeit im Energiebereich» fallen
+## Primärenergieträger und Energieerzeugnisse der Anlage EM I unter den Unterpositionen 27.01–27.15, 28.04 10 und 44.01–44.02, daraus hergestellter elektrischer Strom (Unterposition 27.16), synthetischen Brennstoffen und Tätigkeiten, die von dem Begriff Wirtschaftstätigkeit im Energiebereich ausgenommen sind
 
-[^t-7]: Ursprünglich 2. Anlage.
+[^t-7]: Ursprünglich 2. Anlage. Fassung gemäss Änd. vom 3. Dez. 2024, in Kraft seit 3. Sept. 2025 ([AS 2026 139](https://fedlex.data.admin.ch/eli/oc/2026/139)).
 
 (nach Art. 1 Abs. 5)
 
-<table>
-<tr><td>27.07</td><td>Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen das Gewicht der aromatischen Bestandteile grösser ist als das Gewicht der nichtaromatischen Bestandteile (z.B. Benzol, Toluol, Xylol, Naphthalin, andere Mischungen aromatischer Kohlenwasserstoffe, Phenole, Kreosotöle und andere)</td></tr>
-<tr><td>44.01.10</td><td>Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln und ähnlichen Formen</td></tr>
-<tr><td>44.02</td><td>Holzkohle (einschliesslich Kohle aus Schalen oder Nüssen), auch zusammengepresst</td></tr>
-</table>
+### Abschnitt A
+
+In Bezug auf alle Vertragsparteien sind die in diesem Abschnitt aufgeführten Primärenergieträger und Energieerzeugnisse sowie Tätigkeiten von der Definition der Wirtschaftstätigkeit im Energiebereich ausgenommen.
+
+27.07 Öle und andere Erzeugnisse der Destillation des Hochtemperatur-Steinkohlenteers; ähnliche Erzeugnisse, in denen das Gewicht der aromatischen Bestandteile grösser ist als das Gewicht der nichtaromatischen Bestandteile.
+
+Ex 44.01 Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln oder ähnlichen Formen; Holz in Form von Plättchen oder Schnitzeln; Sägespäne, Holzabfälle und Holzausschuss, auch zu Pellets, Briketts, Scheiten oder ähnlichen Formen zusammengepresst.
+
+4401.10 – Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln und ähnlichen Formen.
+
+44.02 Holzkohle (einschliesslich Kohle aus Schalen oder Nüssen), auch zusammengepresst.
+
+### Abschnitt B
+
+(1) In Bezug auf Investitionen, die am oder nach dem 3. September 2025 in der Europäischen Union und ihren Mitgliedstaaten, die Vertragsparteien dieses Vertrags sind, getätigt werden, sind die folgenden Primärenergieträger und Energieerzeugnisse sowie Tätigkeiten nur in Bezug auf Teil III dieses Vertrags von der Definition der Wirtschaftstätigkeit im Energiebereich ausgenommen:
+
+- [tab] a)
+  - i) Primärenergieträger und Energieerzeugnisse in Anlage EM I unter den Unterpositionen 27.01 bis 27.15 und daraus hergestellter elektrischer Strom (Unterposition 27.16).
+  - ii) 28.04.10 Wasserstoff, mit Ausnahme von kohlenstoffarmem und erneuerbarem Wasserstoff, die in den Anwendungsbereich der Definition der Wirtschaftstätigkeit im Energiebereich bleiben. Kohlenstoffarmer Wasserstoff ist Wasserstoff, der aus nicht erneuerbaren Quellen hergestellt wird und dessen Emissionen über den gesamten Lebenszyklus erheblich reduziert sind und weniger als 3 t CO<sub>2</sub>-Äq / t H<sub>2</sub> betragen. Erneuerbarer Wasserstoff ist Wasserstoff, der aus erneuerbaren Quellen, mit Ausnahme von Biomasse, hergestellt wird und dessen Emissionen über den gesamten Lebenszyklus weniger als 3 t CO<sub>2</sub>-Äq /tH<sub>2</sub> betragen.
+  - iii) Synthetische Kraftstoffe, mit Ausnahme von kohlenstoffarmen Kraftstoffen, die in den Anwendungsbereich der Definition der Wirtschaftstätigkeit im Energiebereich fallen. Kohlenstoffarme Kraftstoffe sind recycelte kohlenstoffhaltige Kraftstoffe, kohlenstoffarmer Wasserstoff und aus kohlenstoffarmem Wasserstoff hergestellte synthetische gasförmige und flüssige Kraftstoffe, die eine 70 % Reduzierung der Emissionen über den gesamten Lebenszyklus erreichen. Recycelte kohlenstoffhaltige Kraftstoffe sind flüssige und gasförmige Brennstoffe, die aus flüssigen oder festen Abfällen nicht erneuerbaren Ursprungs oder aus Abfallverarbeitungsgas und Abgas nicht erneuerbaren Ursprungs hergestellt werden.
+  - iv) Wirtschaftstätigkeiten in Zusammenhang mit der Binding, Nutzung und Speicherung von Kohlendioxid.
+
+- b)
+
+  Unbeschadet des Buchstabens a:
+
+  - i) Elektrischer Strom (Unterposition 27.16), der aus Erdgas und andere gasförmige Kohlenwasserstoffe (Unterposition 27.11) in Kraftwerken und Infrastrukturen erzeugt wird, die die Verwendung von erneuerbaren und kohlenstoffarmen Gasen ermöglichen, und die weniger als 380 g CO<sub>2</sub> fossilen Ursprungs je kWh Strom emittiert, ist nach dem 31. Dezember 2030 nur in Bezug auf Teil III dieses Vertrags von der Definition der Wirtschaftstätigkeit im Energiebereich ausgenommen.
+  - ii) Elektrischer Strom (Unterposition 27.16), der aus Erdgas und andere gasförmige Kohlenwasserstoffe (Unterposition 27.11) in Kraftwerken und Infrastrukturen erzeugt wird, die die Verwendung von erneuerbaren und kohlenstoffarmen Gasen ermöglichen, und die weniger als 380 g CO<sub>2</sub> fossilen Ursprungs je kWh Strom emittiert, im Zusammenhang mit Investitionen, die bestehende Investitionen zur Erzeugung elektrischer Strom (Unterposition 27.16) aus Primärenergieträger und Energieerzeugnisse unter der Unterpositionen 27.01 bis 27.10 ersetzen, sind zehn Jahre nach Inkrafttreten der am 3. Dezember 2024 genehmigten Änderungen in Abschnitt B dieser Anlage nur in Bezug auf Teil III dieses Vertrags von der Definition der Wirtschaftstätigkeit im Energiebereich ausgenommen.
+  - iii) Die Beförderung, die Übertragung und die Verteilung von Erdgas und andere gasförmige Kohlenwasserstoffe (Unterposition 27.11) durch Rohrfernleitungen, sofern die Rohrfernleitungen in der Lage sind, sichere und nachhaltige erneuerbare und kohlenstoffarme Gase, einschliesslich Wasserstoff, zu befördern, ist zehn Jahre nach dem Zeitpunkt des Inkrafttretens der am 3. Dezember 2024 genehmigten Änderungen in Abschnitt B dieser Anlage nur in Bezug auf Teil III dieses Vertrags von der Definition der Wirtschaftstätigkeit im Energiebereich ausgenommen.
+
+(2) In Bezug auf Investitionen, die am oder nach dem 3. September 2025 in der Schweiz getätigt werden, sind die folgenden Primärenergieträger und Energieerzeugnisse sowie Tätigkeiten nur in Bezug auf Teil III dieses Vertrags von der Definition der Wirtschaftstätigkeit im Energiebereich ausgenommen:
+
+- a) 28.04.10 Wasserstoff, mit Ausnahme von kohlenstoffarmem Wasserstoff und erneuerbarem Wasserstoff, die weiterhin unter die Definition der Wirtschaftstätigkeit im Energiebereich fallen. Kohlenstoffarmer Wasserstoff bedeutet Wasserstoff auf fossiler und Strom Basis mit deutlich reduzierten Treibhausgasemissionen über den gesamten Lebenszyklus, die weniger als 3 t CO<sub>2</sub>-Äq / t H<sub>2</sub> betragen. Erneuerbaren Wasserstoff bedeutet Wasserstoff, der aus erneuerbaren Quellen hergestellt wird und dessen Lebenszyklustreibhausgasemissionen weniger als 3 t CO<sub>2</sub>-Äq/t H<sub>2</sub> betragen.
+- b) Synthetische Kraftstoffe ohne erheblich reduzierte Lebenszyklustreibhausgasemissionen im Vergleich zu synthetischen Kraftstoffen, die aus fossilen Brennstoffen ohne Emissionsminderung hergestellt werden. Erheblich bedeutet, dass ein Schwellenwert von 70 Prozent oder mehr erreicht wird.
+
+(3) In Bezug auf Investitionen, die am oder nach dem 3. September 2025 im Vereinigten Königreich getätigt werden, sind die folgenden Primärenergieträger und Energieerzeugnisse sowie Tätigkeiten nur in Bezug auf Teil III dieses Vertrags von der Definition der Wirtschaftstätigkeit im Energiebereich ausgenommen:
+
+- a) Primärenergieträger und Energieerzeugnisse in Anlage EM I unter den Unterpositionen 27.01 bis 27.15 und daraus hergestellter elektrischer Strom (Unterposition 27.16).
+- b)
+
+  28.04.10 Wasserstoff, mit Ausnahme von kohlenstoffarmem und erneuerbarem Wasserstoff, die in den Anwendungsbereich der Definition der Wirtschaftstätigkeit im Energiebereich bleiben. Kohlenstoffarmer Wasserstoff bedeutet:
+
+  - i) Wasserstoff auf fossiler Basis mit Kohlenstoffbindung und -speicherung;
+  - ii) Wasserstoff auf Strombasis; oder
+  - iii) Wasserstoff, der mit anderen Produktionsmethoden hergestellt wird;
+
+die dem Low Carbon Hydrogen Standard des Vereinigten Königreichs in der zum Zeitpunkt der getätigten Investition veröffentlichten Fassung entspricht.
+
+- c)
+
+  Die Buchstaben a und b gelten nicht für die folgenden Primärenergieträger und Energieerzeugnisse, die weiterhin in den Geltungsbereich der Definition der Wirtschaftstätigkeit im Energiebereich bleiben:
+
+  - i) Elektrischer Strom (Unterposition 27.16 der Anlage EM I), der aus Erdgas und andere gasförmige Kohlenwasserstoffe (Unterposition 27.11 der Anlage EM I) in Kraftwerken und Infrastrukturen mit Kohlenstoffbindung und -speicherung erzeugt wird, wenn die Treibhausgasemissionen während des gesamten Lebenszyklus erheblich reduziert werden.
+  - ii) Die Beförderung, die Übertragung und die Verteilung von Erdgas und andere gasförmige Kohlenwasserstoffe (Unterposition 27.11 der Anlage EM I) durch Rohrfernleitungen, sofern die Rohrfernleitungen in der Lage sind, erneuerbare und kohlenstoffarme Gase zu befördern.
+
+(4)
+
+- a)
+
+  Bis zum Inkrafttreten der am 3. Dezember 2024 gebilligte Änderungen dieses Vertrags gilt Teil III dieses Vertrags nicht für eine nachstehend aufgeführte Vertragspartei in Bezug auf Investitionen in ihrem Gebiet eines Investors einer anderen Vertragspartei in Bezug auf Primärenergieträger und Energieerzeugnisse oder Tätigkeiten, die von der letztgenannten Vertragspartei in Abschnitt B diese Anlage ausgenommen werden:
+
+  - [tab] 1. Japan
+
+- b)
+
+  Bis zum Inkrafttreten der am 3. Dezember 2024 gebilligte Änderungen dieses Vertrags erteilt eine der nachstehend aufgeführten Vertragsparteien nicht ihre uneingeschränkte Zustimmung nach Artikel 26 Absatz 3 Buchstabe a hinsichtlich eine Streitigkeit, die sich im Zusammenhang mit Investitionen eines Investors einer anderen Vertragspartei in Bezug auf Primärenergieträger und Energieerzeugnisse oder Tätigkeiten ergibt, die von der letztgenannten Vertragspartei in Abschnitt B diese Anlage ausgenommen werden:
+
+  - [tab] 1. Schweiz
+  - [tab] 2. Türkei
 
 \6. Anlage TRM[^t-8]
 

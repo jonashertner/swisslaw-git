@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Trattato del 17 dicembre 1994 sulla Carta dell'energia (con allegati, decisioni e atto finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: it
-version: 2025-07-24
+version: 2025-09-03
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250724/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250724-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250724/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250903/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250903-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250903/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-(Stato 24 luglio 2025)
+(Stato 3 settembre 2025)
 
 [^t-1]: [RU 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -60,10 +60,10 @@ riconoscendo la necessità sempre più pressante di misure a protezione dell’a
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-2]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-3]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-4]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-1]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-2]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-3]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-4]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-5]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
 [^ingress-6]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 [^ingress-7]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
@@ -125,9 +125,9 @@ Si applicano, nel presente Trattato, le seguenti definizioni:
 
 - 14) «Valuta liberamente convertibile»: una valuta ampiamente trattata nei mercati valutari internazionali e ampiamente utilizzata per operazioni internazionali.
 
-[^1-1]: Nuovo testo giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^1-2]: Introdotto dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^1-3]: Nuovo testo giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^1-1]: Nuovo testo giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^1-2]: Introdotto dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^1-3]: Nuovo testo giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 2
 
@@ -143,7 +143,7 @@ Il presente Trattato istituisce un quadro giuridico al fine di promuovere una co
 
 Le Parti contraenti si adoperano per promuovere l’accesso ai mercati internazionali in termini commerciali e, in generale, per sviluppare un mercato aperto e competitivo per i materiali e prodotti energetici e attrezzature connesse[^3-1].
 
-[^3-1]: Espr. inserita dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^3-1]: Espr. inserita dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 4
 
@@ -151,8 +151,8 @@ Le Parti contraenti si adoperano per promuovere l’accesso ai mercati internazi
 
 Nessuna disposizione del presente Trattato deroga, nei rapporti tra Parti contraenti che sono membri dell’Organizzazione mondiale del commercio[^4-2], alle disposizioni dell’accordo OMC, quali applicate tra dette Parti contraenti.
 
-[^4-1]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Di detta modifica è tenuto conto in tutto il presente testo.
-[^4-2]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^4-1]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^4-2]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 5
 
@@ -175,7 +175,7 @@ Queste misure comprendono qualsiasi misura di investimento obbligatoria o esecut
 
 <sup>4.</sup> In deroga al paragrafo 1, una Parte contraente può temporaneamente continuare a mantenere misure relative agli investimenti che incidono sugli scambi commerciali che erano in atto più di 180 giorni prima della sua firma del presente Trattato, a condizione di osservare le disposizioni di notifica e di soppressione di cui all’allegato TRM.
 
-[^5-1]: Cifra inserita dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^5-1]: Cifra inserita dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 6
 
@@ -495,7 +495,7 @@ Ai fini del presente articolo, si intendono per:
 
 <sup>3.</sup> Ogni Parte contraente designa uno o più uffici informazioni presso cui rivolgersi per notizie riguardanti le leggi, i regolamenti, le decisioni giudiziarie e gli atti amministrativi di cui sopra e ne informa tempestivamente il Segretariato che comunica questi dati su richiesta.
 
-[^20-1]: Espr. inserita dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^20-1]: Espr. inserita dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 21
 
@@ -546,7 +546,7 @@ Ai fini del presente articolo:
 - c) «Autorità fiscale competente»: l’autorità competente conformemente ad un accordo in materia di doppia imposizione in vigore tra le Parti contraenti oppure, se tale accordo non è in vigore, il ministro o il ministero competente in materia fiscale o i loro rappresentanti autorizzati.
 - d) A fini di chiarezza, i termini «disposizioni fiscali» e «imposte» non comprendono i dazi doganali.
 
-[^21-1]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^21-1]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 22
 
@@ -760,7 +760,7 @@ tuttavia, l’allegato D non si applica alle controversie tra le Parti contraent
 - i) è stato notificato a norma del paragrafo 2, lettera b) e dell’allegato TFU e che soddisfa i requisiti ivi previsti, o
 - ii) istituisce una zona di libero scambio o un’unione doganale come descritto nell’articolo XXIV del GATT 1994.
 
-[^29-1]: Nuovo testo giusta l'art. 1 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^29-1]: Nuovo testo giusta l’art. 1 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^29-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235); allegato 1A
 
@@ -868,8 +868,8 @@ Le funzioni della Conferenza della Carta sono:
 
 <sup>7.</sup> Nel 1999 e successivamente ad intervalli (non superiori a cinque anni), che saranno decisi dalla Conferenza della Carta, quest’ultima riesamina accuratamente i compiti previsti dal presente Trattato rispetto al grado di attuazione delle disposizioni del Trattato e dei protocolli. A conclusione di ogni riesame, la Conferenza della Carta può modificare o abolire i compiti di cui al paragrafo 3 e può sollevare il Segretariato dalle sue funzioni.
 
-[^34-1]: Introdotta dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^34-2]: Introdotta dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^34-1]: Introdotta dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^34-2]: Introdotta dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^34-3]: Originaria lett. n).
 
 #### Art. 35
@@ -916,9 +916,9 @@ L’unanimità delle Parti contraenti presenti e votanti alla riunione è necess
 
 <sup>8.</sup> Qualora si verifichino persistenti ritardi nell’adempimento degli obblighi finanziari di una Parte contraente in base al presente Trattato, la Conferenza della Carta può sospendere in tutto o in parte i diritti di tale Parte contraente.
 
-[^36-1]: Nuova lett. giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^36-2]: Introdotta dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^36-3]: Nuova lett. giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^36-1]: Nuova lett. giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^36-2]: Introdotta dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^36-3]: Nuova lett. giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 37
 
@@ -1077,7 +1077,7 @@ Elenco delle attrezzature del settore energetico
 
 \5. Allegato NI
 
-Materiali e prodotti energetici non ricompresi nella definizione di «attività economica nel settore dell’energia»
+Materiali e prodotti energetici enumerati nell’allegato EM I alle voci 27.01–27.15, 28.04.10 e 44.01–44.02, energia elettrica (voce 27.16) da essi prodotta, combustibili sintetici e attività non ricompresi nella definizione di «attività economica nel settore dell’energia»
 
 \6. Allegato TRM
 
@@ -1135,13 +1135,17 @@ Elenco dei firmatari che non accettano l’obbligo di applicazione provvisoria d
 
 Misure transitorie delle Parti contraenti
 
-[^t-2]: Aggiornato dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-2]: Aggiornato dall’art. 2 dell’emendamento del 24 apr. 1998 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)) e dall’art. 1 dell’emendamento del 3 dic. 2024, in vigore dal 3 set. 2025 ([RU 2026 139](https://fedlex.data.admin.ch/eli/oc/2026/139)).
 
 \1. Allegato EM I[^t-3]
 
+## Materiali e prodotti energetici
+
+[^t-3]: Originario all. EM
+
+(ai sensi dell’articolo 1, paragrafo 4)
+
 <table>
-<tr><td></td><td colspan="5">Materiali e prodotti energetici</td></tr>
-<tr><td></td><td colspan="4">(ai sensi dell’articolo 1, paragrafo 4)</td></tr>
 <tr><td>Energia nucleare</td><td>26.12</td><td colspan="3">Minerali di uranio o di torio e loro concentrati.</td></tr>
 <tr><td></td><td></td><td colspan="2">26.12.10</td><td>Minerali di uranio e loro concentrati.</td></tr>
 <tr><td></td><td></td><td colspan="2">26.12.20</td><td>Minerali di torio e loro concentrati.</td></tr>
@@ -1178,13 +1182,11 @@ Misure transitorie delle Parti contraenti
 <tr><td></td><td>44.02</td><td colspan="3">Carbone di legna (compreso il carbone di gusci o di noci), anche agglomerato.</td></tr>
 </table>
 
-[^t-3]: Originario all. EM
-
 \2. Allegato EM II[^t-4]
 
 ## Materiali e prodotti energetici
 
-[^t-4]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-4]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 1, paragrafo 4)
 
@@ -1192,7 +1194,7 @@ Misure transitorie delle Parti contraenti
 
 ## Elenco delle attrezzature del settore energetico
 
-[^t-5]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-5]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 1, paragrafo 4<sup>bis</sup>)
 
@@ -1461,29 +1463,92 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 
 ## Elenco delle attrezzature del settore energetico
 
-[^t-6]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-6]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 1, paragrafo 4<sup>bis</sup>)
 
 \5. Allegato NI[^t-7]
 
-## Materiali e prodotti energetici non ricompresi nella definizione di «attività economica nel settore dell’energia»
+## Materiali e prodotti energetici enumerati nell’allegato EM I alle voci 27.01–27.15, 28.04.10 e 44.01–44.02, energia elettrica (voce 27.16) da essi prodotta, combustibili sintetici e attività non ricompresi nella definizione di «attività economica nel settore dell’energia»
 
-[^t-7]: Originario all. n. 2
+[^t-7]: Originario all. n. 2. Nuovo testo giusta l’art. 1 dell’emendamento del 3 dic. 2024, in vigore dal 3 set. 2025 ([RU 2026 139](https://fedlex.data.admin.ch/eli/oc/2026/139)).
 
-(ai sensi dell’articolo 1, paragrafo 5)
+(ai sensi dell’articolo 1 paragrafo 5)
 
-<table>
-<tr><td>27.07</td><td>Oli ed altri prodotti provenienti dalla distillazione di catrami di carbon fossile ottenuti ad alta temperatura; prodotti analoghi nei quali i costituenti aromatici predominano, in peso, rispetto ai costituenti non aromatici (ad es. benzoli, toluoli, xiloli, naftalene, altre miscele di idrocarburi aromatici, fenoli, oli di creosoto e altri).</td></tr>
-<tr><td>44.01.10</td><td>Legna da ardere in tondelli, ceppi, ramaglie, fascine o in forme simili.</td></tr>
-<tr><td>44.02</td><td>Carbone di legna (compreso il carbone di gusci o di noci), anche agglomerato.</td></tr>
-</table>
+### Sezione A
+
+Con riferimento a tutte le Parti contraenti, i materiali e prodotti energetici e le attività enumerati nella presente sezione non sono ricompresi nella definizione di «attività economica nel settore dell’energia».
+
+27.07 Oli ed altri prodotti provenienti dalla distillazione di catrami di carbon fossile ottenuti ad alta temperatura; prodotti analoghi nei quali i costituenti aromatici predominano, in peso, rispetto ai costituenti non aromatici.
+
+Ex 44.01 Legna da ardere in tondelli, ceppi, ramaglie, fascine o in forme simili; legno in piccole placche o in particelle; segatura, avanzi e cascami di legno, anche agglomerati in forma di pellets, tronchetti, ceppi o forme simili.
+
+4401.10 – Legna da ardere in tondelli, ceppi, ramaglie, fascine o in forme simili.
+
+44.02 Carbone di legna (compreso il carbone di gusci o di noci), anche agglomerato.
+
+### Sezione B
+
+(1) In relazione agli investimenti effettuati il 3 settembre 2025 o successivamente nell’Unione europea e nei suoi Stati membri che sono Parti contraenti del presente Trattato, i materiali e prodotti energetici e le attività di seguito indicati non sono ricompresi nella definizione di «attività economica nel settore dell’energia» solo per quel che concerne la parte III del Trattato:
+
+- [tab] a)
+  - i) Materiali e prodotti energetici enumerati nell’allegato EM I alle voci da 27.01 a 27.15 ed energia elettrica (voce 27.16) da essi prodotta.
+  - ii) 28.04.10 Idrogeno, a eccezione dell’idrogeno a basse emissioni di carbonio e dell’idrogeno rinnovabile, che rientrano nel campo di applicazione della definizione di «attività economica nel settore dell’energia». Per idrogeno a basse emissioni di carbonio si intende l’idrogeno prodotto da fonti non rinnovabili e caratterizzato da emissioni significativamente ridotte durante l’intero ciclo di vita, inferiori cioè a 3 t CO2 eq / t H2. Per idrogeno rinnovabile si intende l’idrogeno prodotto da fonti rinnovabili, a eccezione della biomassa, caratterizzato durante l’intero ciclo di vita da emissioni inferiori a 3 t CO2 eq / t H2.
+  - iii) Combustibili sintetici, a eccezione di quelli a basse emissioni di carbonio, che rientrano nel campo di applicazione della definizione di «attività economica nel settore dell’energia». Per combustibili a basse emissioni di carbonio si intendono i combustibili da carbonio riciclato, l’idrogeno a basse emissioni di carbonio e i combustibili sintetici gassosi e liquidi da esso prodotti, che consentono di ridurre del 70 per cento le emissioni durante l’intero ciclo di vita. Per combustibili da carbonio riciclato si intendono i combustibili liquidi e gassosi prodotti da rifiuti liquidi o solidi di origine non rinnovabile o da gas di trattamento dei rifiuti e gas di scarico di origine non rinnovabile.
+  - [tab] iv) Attività economiche riguardanti la cattura, l’utilizzo e lo stoccaggio di biossido di carbonio.
+
+- b)
+
+  In deroga alla lettera a):
+
+  - i) L’energia elettrica (voce 27.16) prodotta da gas di petrolio e altri idrocarburi gassosi (voce 27.11) mediante centrali elettriche e infrastrutture che consentono l’utilizzo di gas rinnovabili e a basse emissioni di carbonio e che emettono meno di 380 g di CO2 di origine fossile per kWh di elettricità generata non è ricompresa nella definizione di «attività economica nel settore dell’energia» solo per quel che concerne la parte III del presente Trattato dopo il 31 dicembre 2030.
+  - ii) Se in relazione con investimenti che sostituiscono investimenti esistenti per la produzione di energia elettrica (voce 27.16) a partire da materiali e prodotti energetici di cui alle voci da 27.01 a 27.10, l’energia elettrica (voce 27.16) prodotta da gas di petrolio e altri idrocarburi gassosi (voce 27.11) mediante centrali elettriche e infrastrutture che consentono l’utilizzo di gas rinnovabili e a basse emissioni di carbonio e che emettono meno di 380 g di CO2 di origine fossile per kWh di elettricità generata non è ricompresa nella definizione di «attività economica nel settore dell’energia» solo per quel che concerne la parte III del Trattato dieci anni dopo la data di entrata in vigore degli emendamenti di cui alla sezione B del presente allegato adottati il 3 dicembre 2024.
+  - iii) Il trasporto, la trasmissione e la distribuzione di gas di petrolio e altri idrocarburi gassosi (voce 27.11) mediante condotte, a condizione che tali condotte siano in grado di trasportare in modo sicuro e sostenibile gas rinnovabili e a basse emissioni di carbonio, compreso l’idrogeno, non sono ricompresi nella definizione di «attività economica nel settore dell’energia» solo per quel che concerne la parte III del Trattato dieci anni dopo la data di entrata in vigore degli emendamenti di cui alla sezione B del presente allegato adottati il 3 dicembre 2024.
+
+\2) In relazione agli investimenti effettuati in Svizzera il 3 settembre 2025 o successivamente, i materiali e prodotti energetici e le attività di seguito indicati non sono ricompresi nella definizione di «attività economica nel settore dell’energia» solo per quel che concerne la parte III del presente Trattato:
+
+- a) 28.04.10 Idrogeno, a eccezione dell’idrogeno a basse emissioni di carbonio e dell’idrogeno rinnovabile, che rientrano nella definizione di «attività economica nel settore dell’energia». Per idrogeno a basse emissioni di carbonio si intende l’idrogeno di origine fossile e l’idrogeno prodotto con l’elettricità, entrambi caratterizzati da emissioni di gas serra significativamente ridotte durante l’intero ciclo di vita, inferiori cioè a 3 t CO2 eq / t H2. Per idrogeno rinnovabile si intende l’idrogeno prodotto da fonti rinnovabili, con emissioni di gas serra durante l’intero ciclo di vita inferiori a 3 t CO2 eq / t H2.
+- b) Combustibili sintetici non caratterizzati da una significativa riduzione delle emissioni di gas serra durante l’intero ciclo di vita rispetto ai combustibili sintetici prodotti da combustibili fossili senza abbattimento delle emissioni. Per significativamente si intende il raggiungimento di una soglia pari o superiore al 70 per cento.
+
+(3) In relazione agli investimenti effettuati nel Regno Unito il 3 settembre 2025 o successivamente, i materiali e prodotti energetici e le attività di seguito indicati non sono ricompresi nella definizione di «attività economica nel settore dell’energia» solo per quel che concerne la parte III del presente Trattato:
+
+- a) Materiali e prodotti energetici enumerati nell’allegato EM I alle voci da 27.01 a 27.15 ed energia elettrica (voce 27.16) da essi prodotta.
+- b)
+
+  28.04.10 Idrogeno, a eccezione dell’idrogeno a basse emissioni di carbonio e dell’idrogeno rinnovabile, che rientrano nel campo di applicazione della definizione di «attività economica nel settore dell’energia». Per idrogeno a basse emissioni di carbonio si intende:
+
+  - i) idrogeno di origine fossile con cattura e stoccaggio del carbonio;
+  - ii) idrogeno prodotto con l’elettricità; o
+  - iii) idrogeno prodotto con altri metodi;
+
+- che soddisfa i requisiti del Regno Unito relativi all’idrogeno a basse emissioni di carbonio (*Low Carbon Hydrogen Standard*) nella versione pubblicata al momento in cui è effettuato l’investimento.
+- c)
+
+  Le lettere a) e b) non si applicano ai materiali e prodotti energetici di seguito indicati, che rientrano nel campo di applicazione della definizione di «attività economica nel settore dell’energia»:
+
+  - (i) Energia elettrica (voce 27.16 dell’allegato EM I) prodotta da gas di petrolio ed altri idrocarburi gassosi (voce 27.11 dell’allegato EM I) mediante centrali elettriche e infrastrutture che utilizzano la cattura e lo stoccaggio del carbonio e caratterizzata da una riduzione significativa delle emissioni di gas serra durante l’intero ciclo di vita.
+  - (ii) Trasporto, trasmissione e distribuzione di gas di petrolio ed altri idrocarburi gassosi (voce 27.11 dell’allegato EM I) mediante condotte, a condizione che tali condotte siano in grado di trasportare gas rinnovabili e a basse emissioni di carbonio.
+
+(4)
+
+- a)
+
+  Fino all’entrata in vigore degli emendamenti al presente Trattato adottati il 3 dicembre 2024 la parte III del Trattato non si applica alle Parti contraenti sottoelencate per un investimento eseguito nella sua area da un investitore di un’altra Parte contraente relativo a materiali e prodotti energetici o attività non ricompresi in quest’ultima Parte contraente nella sezione B del presente allegato:
+
+  - [tab] 1. Giappone
+
+- b)
+
+  Fino all’entrata in vigore degli emendamenti al presente Trattato adottati il 3 dicembre 2024 le Parti contraenti sottoelencate non prestano il proprio consenso incondizionato di cui all’articolo 26 paragrafo 3 lettera a) rispetto a una controversia sorta in relazione a un investimento effettuato da un investitore di un’altra Parte contraente relativo a materiali e prodotti energetici o attività non ricompresi in quest’ultima Parte contraente nella sezione B del presente allegato:
+
+  - [tab] 1. Svizzera
+  - [tab] 2. Turchia
 
 \6. Allegato TRM[^t-8]
 
 ## Notifica e soppressione (TRIM)
 
-[^t-8]: Originario all. n. 3. Aggiornato dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-8]: Originario all. n. 3. Aggiornato dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 5, paragrafo 4)
 
@@ -1642,7 +1707,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 ## Eccezioni e norme che disciplinano l’applicazione delle disposizioni dell’accordo OMC
 
-[^t-14]: Originario all. n. 9. Nuovo testo giusta l'art. 4 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-14]: Originario all. n. 9. Nuovo testo giusta l’art. 4 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29, paragrafo 2, lettera a))
 
@@ -1976,7 +2041,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 ## Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
-[^t-16]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-16]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29, paragrafo 7)
 
@@ -1984,7 +2049,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 ## Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
-[^t-17]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-17]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29 paragrafo 7)
 
@@ -1992,7 +2057,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 ## Disposizioni transitorie per la risoluzione di controversie commerciali
 
-[^t-18]: Originario all. n. 11. Aggiornato dall'art. 3 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-18]: Originario all. n. 11. Aggiornato dall’art. 3 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29, paragrafo 9)
 
@@ -2134,7 +2199,7 @@ Uzbekistan
 
 Segue l’elenco di deroghe transitorie di ciascun Paese[^annex19T-lvlu1-1].
 
-[^annex19T-lvlu1-1]: L’elenco di deroghe di ciascun Paese contenute nell’all. T sono ottenibili presso la Segreteria di Stato dell'economia, SECO, Effingerstrasse 31, 3003 Berna.
+[^annex19T-lvlu1-1]: L’elenco di deroghe di ciascun Paese contenute nell’all. T sono ottenibili presso la Segreteria di Stato dell’economia, SECO, Effingerstrasse 31, 3003 Berna.
 
 ## Decisioni riguardanti il Trattato sulla Carta dell’energia
 
@@ -2365,7 +2430,7 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 [^annex19T-lvlu4-1]
 
-[^annex19T-lvlu4-1]: Introdotta dall'art. 6 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Introdotta dall’art. 6 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 \1. I firmatari che applicano temporaneamente il trattato sulla Carta dell’energia ai sensi dell’articolo 45, paragrafo 1, e le parti contraenti decidono di applicare la presente modifica provvisoriamente, in attesa della sua entrata in vigore nei rispettivi territori, nella misura in cui tale applicazione provvisoria non è incompatibile con la loro costituzione o le loro leggi e i loro regolamenti.
 
@@ -2385,7 +2450,7 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 [^annex19T-lvlu5-1]
 
-[^annex19T-lvlu5-1]: Introdotta dall'art. 7 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu5-1]: Introdotta dall’art. 7 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Le decisioni adottate in relazione all’adozione della presente modifica costituiscono parte integrante del trattato sulla Carta dell’energia.
 
