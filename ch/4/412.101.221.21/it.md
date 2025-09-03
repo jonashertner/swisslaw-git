@@ -3,18 +3,18 @@ sr: "412.101.221.21"
 title: Ordinanza della SEFRI sulla formazione professionale di base delle professioni con AFC nel campo professionale «Progettazione nella tecnica della costruzione»
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/441"
 language: it
-version: 2025-01-01
+version: 2025-09-04
 adopted: 2024-08-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-441-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20250904/it/xml/fedlex-data-admin-ch-eli-cc-2024-441-20250904-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20250904/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base delle professioni con AFC nel campo professionale «Progettazione nella tecnica della costruzione»
 
-del 6 agosto 2024 (Stato 1° gennaio 2025)
+del 6 agosto 2024 (Stato 4 settembre 2025)
 
 <table>
 <tr><td>64619</td><td>Progettista nella tecnica della costruzione riscaldamento AFC</td></tr>
@@ -34,9 +34,9 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto, professioni e durata
 
@@ -196,7 +196,7 @@ Nei campi di competenze operative di cui al capoverso 1 lettere c–e competenze
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -353,7 +353,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>3</td><td>Colloquio professionale</td><td>20 %</td></tr>
 </table>
 
+- b. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^18-2]
+
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Correzione del 4 set. 2025 ([RU 2025 542](https://fedlex.data.admin.ch/eli/oc/2025/542)).
 
 #### Art. 19
 

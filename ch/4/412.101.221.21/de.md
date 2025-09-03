@@ -3,18 +3,18 @@ sr: "412.101.221.21"
 title: Verordnung des SBFI über die berufliche Grundbildung der Berufe mit EFZ im Berufsfeld Gebäudetechnikplanung
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/441"
 language: de
-version: 2025-01-01
+version: 2025-09-04
 adopted: 2024-08-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-441-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20250904/de/xml/fedlex-data-admin-ch-eli-cc-2024-441-20250904-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20250904/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung der Berufe mit EFZ im Berufsfeld Gebäudetechnikplanung
 
-vom 6. August 2024 (Stand am 1. Januar 2025)
+vom 6. August 2024 (Stand am 4. September 2025)
 
 <table>
 <tr><td>64619</td><td>Gebäudetechnikplanerin Heizung EFZ / Gebäudetechnikplaner Heizung EFZ</td></tr>
@@ -34,9 +34,9 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand, Berufe und Dauer
 
@@ -196,7 +196,7 @@ Die Handlungskompetenzen in den Handlungskompetenzbereichen nach Absatz 1 Buchst
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -353,7 +353,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>3</td><td>Fachgespräch</td><td>20 %</td></tr>
 </table>
 
+- b. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 27. April 2006[^18-1] über Mindestvorschriften für die Allge-meinbildung in der beruflichen Grundbildung.[^18-2]
+
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Berichtigung vom 4. Sept. 2025 ([AS 2025 542](https://fedlex.data.admin.ch/eli/oc/2025/542)).
 
 #### Art. 19
 

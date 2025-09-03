@@ -3,18 +3,18 @@ sr: "412.101.221.21"
 title: Ordonnance du SEFRI sur la formation professionnelle initiale dans les professions avec CFC du champ professionnel «planification en technique du bâtiment»
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/441"
 language: fr
-version: 2025-01-01
+version: 2025-09-04
 adopted: 2024-08-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-441-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/441/20250904/fr/xml/fedlex-data-admin-ch-eli-cc-2024-441-20250904-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/441/20250904/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale dans les professions avec CFC du champ professionnel «planification en technique du bâtiment»
 
-du 6 août 2024 (État le 1<sup>er</sup> janvier 2025)
+du 6 août 2024 (État le 4 septembre 2025)
 
 <table>
 <tr><td>64619</td><td>Projeteuse en technique du bâtiment chauffage CFC / Projeteur en technique du bâtiment chauffage CFC</td></tr>
@@ -34,9 +34,9 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet, professions et durée
 
@@ -179,7 +179,7 @@ Les compétences opérationnelles dans les domaines de compétences opérationne
 
 <table>
 <tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>3<sup>e</sup> année</th><th>4<sup>e</sup> année</th><th>Total</th></tr>
-<tr><td>a. Connaissances professionnelles</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Planification d’installations techniques du bâtiment</td><td>240</td><td>160</td><td>–</td><td>–</td><td>400</td></tr>
 <tr><td>– Modélisation et visualisation d’installations techniques du bâtiment; enseignement propre à la profession</td><td>80</td><td>160</td><td>200</td><td>200</td><td>640</td></tr>
 <tr><td>Total connaissances professionnelles</td><td>**320**</td><td>**320**</td><td>**200**</td><td>**200**</td><td>**1040**</td></tr>
@@ -196,7 +196,7 @@ Les compétences opérationnelles dans les domaines de compétences opérationne
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -353,7 +353,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>3</td><td>Entretien professionnel</td><td>20 %</td></tr>
 </table>
 
+- b. culture générale: ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la cul-ture générale dans la formation professionnelle initiale[^18-1].[^18-2]
+
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
+
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Erratum du 4 sept. 2025 ([RO 2025 542](https://fedlex.data.admin.ch/eli/oc/2025/542)).
 
 #### Art. 19
 
