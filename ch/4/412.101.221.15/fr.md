@@ -3,18 +3,18 @@ sr: "412.101.221.15"
 title: Ordonnance du SEFRI du 16 février 2023 sur la formation professionnelle initiale de dessinatrice CFC / dessinateur CFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/85"
 language: fr
-version: 2024-04-01
+version: 2025-09-05
 adopted: 2023-02-16
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/85/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2023-85-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/85/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/85/20250905/fr/xml/fedlex-data-admin-ch-eli-cc-2023-85-20250905-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/85/20250905/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de dessinatrice CFC / dessinateur CFC
 
-du 16 février 2023 (État le 1<sup>er</sup> avril 2024)
+du 16 février 2023 (État le 5 septembre 2025)
 
 <table>
 <tr><td>64013</td><td>Dessinatrice CFC / Dessinateur CFC Zeichnerin EFZ / Zeichner EFZ Disegnatrice AFC / Disegnatore AFC</td></tr>
@@ -27,10 +27,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet, orientations et durée
 
@@ -149,7 +149,7 @@ Les compétences opérationnelles dans les domaines de compétences opérationne
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -216,7 +216,7 @@ Orientations architecture, génie civil et architecture paysagère
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -425,7 +425,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>2</td><td>Création de modèles numériques et réalisation de plans Création de visualisations et de maquettes Assistance aux responsables de projet</td><td>60 min</td><td>25 %</td></tr>
 </table>
 
+- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-1].[^17-2]
+
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
+
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Erratum du 5 sept. 2025 ([RO 2025 545](https://fedlex.data.admin.ch/eli/oc/2025/545)).
 
 #### Art. 18
 

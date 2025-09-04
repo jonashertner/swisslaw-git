@@ -3,18 +3,18 @@ sr: "412.101.221.15"
 title: Ordinanza della SEFRI del 16 febbraio 2023 sulla formazione professionale di base Disegnatrice AFC / Disegnatore AFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/85"
 language: it
-version: 2024-04-01
+version: 2025-09-05
 adopted: 2023-02-16
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/85/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-85-20240401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/85/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/85/20250905/it/xml/fedlex-data-admin-ch-eli-cc-2023-85-20250905-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/85/20250905/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Disegnatrice AFC / Disegnatore AFC
 
-del 16 febbraio 2023 (Stato 1° aprile 2024)
+del 16 febbraio 2023 (Stato 5 settembre 2025)
 
 <table>
 <tr><td>64013</td><td>Disegnatrice AFC / Disegnatore AFC Zeichnerin EFZ / Zeichner EFZ Dessinatrice CFC / Dessinateur CFC</td></tr>
@@ -27,10 +27,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -149,7 +149,7 @@ Nei campi di competenze operative di cui al capoverso 1 lettere a, c e d le comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -216,7 +216,7 @@ Indirizzi professionali Architettura, Ingegneria civile e Architettura del paesa
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -425,7 +425,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>2</td><td>Realizzazione di modelli digitali e di piani Realizzazione di visualizzazioni e plastici Assistenza ai responsabili del progetto</td><td>60 min.</td><td>25 %</td></tr>
 </table>
 
+- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^17-2]
+
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Correzione del 5 set. 2025 ([RU 2025 545](https://fedlex.data.admin.ch/eli/oc/2025/545)).
 
 #### Art. 18
 
