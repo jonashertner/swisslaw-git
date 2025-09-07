@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sui tenori massimi di contaminant
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: it
-version: 2025-07-01
+version: 2025-09-08
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250908/it/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250908-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250908/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/it"
 
 (Ordinanza sui contaminanti, OCont)
 
-del 16 dicembre 2016 (Stato 1° luglio 2025)
+del 16 dicembre 2016 (Stato 8 settembre 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -278,7 +278,7 @@ Allegato 2[^t-2]
 
 ## Tenori massimi delle micotossine nelle derrate alimentari
 
-[^t-2]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-2]: Aggiornato dalla cifra II e III dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), dalla correzione del 12 nov. 2019 ([RU 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), dell’8 dic. 2023 ([RU 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) e dalla cifra II dell’O del USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)). La correzione dell’8 set. 2025 concerne soltanto il testo tedesco ([RU 2025 547](https://fedlex.data.admin.ch/eli/oc/2025/547)).
 
 ### *Parte A:* *spiegazioni*
 

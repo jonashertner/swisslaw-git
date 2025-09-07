@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les teneurs maximales en cont
 short: OCont
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: fr
-version: 2025-07-01
+version: 2025-09-08
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250908/fr/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250908-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250908/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/fr"
 
 (Ordonnance sur les contaminants, OCont)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 décembre 2016 (État le 8 septembre 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -278,7 +278,7 @@ Annexe 2[^t-2]
 
 ## Teneurs maximales en mycotoxines dans les denrées alimentaires
 
-[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-2]: Mise à jour par les ch. II et III de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), l’erratum du 12 nov. 2019 ([RO 2019 3527](https://fedlex.data.admin.ch/eli/oc/2019/648)), le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), du 8 déc. 2023 ([RO 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)). L’erratum du 8 sept. 2025 ne concerne que le texte allemand ([RO 2025 547](https://fedlex.data.admin.ch/eli/oc/2025/547)).
 
 ### Partie A: remarques
 

@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für K
 short: VHK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/156"
 language: de
-version: 2025-07-01
+version: 2025-09-08
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/156/20250908/de/xml/fedlex-data-admin-ch-eli-cc-2017-156-20250908-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250908/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/156/20250701/de"
 
 (Kontaminantenverordnung, VHK)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2025)
+vom 16. Dezember 2016 (Stand am 8. September 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -278,7 +278,7 @@ Anhang 2[^t-2]
 
 ## Höchstgehalte für Mykotoxine in Lebensmitteln
 
-[^t-2]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), vom 8. Dez. 2023 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)) und Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)).
+[^t-2]: Bereinigt gemäss Ziff. II und III der V des BLV vom 12. März 2018 ([AS 2018 1539](https://fedlex.data.admin.ch/eli/oc/2018/232)), Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2317](https://fedlex.data.admin.ch/eli/oc/2020/449)), vom 8. Dez. 2023 ([AS 2023 847](https://fedlex.data.admin.ch/eli/oc/2023/847)), Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 391](https://fedlex.data.admin.ch/eli/oc/2025/391)) und der Berichtigung vom 8. Sept. 2025 ([AS 2025 547](https://fedlex.data.admin.ch/eli/oc/2025/547)).
 
 ### Teil A: Erläuterungen
 
@@ -461,7 +461,9 @@ Bei der Untergrenze der Summe wird der Beitrag jedes nicht quantifizierten Epime
 <tr><td></td><td>Getreide, unverarbeitet</td><td>50 μg/kg</td><td>ausgenommen unverarbeitete Braugerste und übrige Gerste, unverarbeiteter Mais, unverarbeiteter Hartweizen, unverarbeiteter Hafer einschliesslich Spelzen, die nicht verzehrt werden; ausgenommen Mais, der zur Verarbeitung durch Nassmahlen bestimmt ist, und Reis</td></tr>
 <tr><td>"</td><td>Getreidebeikost und andere Beikost für Säuglinge und Kleinkinder</td><td>10 μg/kg</td><td>ausgenommen Reiserzeugnisse (Erzeugnisse, bei denen Reis oder Reisverarbeitungserzeugnisse die einzigen Cerealienbestandteile sind)</td></tr>
 <tr><td>"</td><td>Getreideerzeugnisse</td><td>20 μg/kg</td><td>zum unmittelbaren menschlichen Verzehr bestimmt; ausgenommen Hafer, Gerste, Mais und Hartweizen, die zum unmittelbaren menschlichen Verzehr bestimmt sind; ausgenommen Reis</td></tr>
+<tr><td>"</td><td>Getreide-Snacks und Frühstücksgetreide</td><td>20 μg/kg</td><td>ausgenommen Reiserzeugnisse (Erzeugnisse, bei denen Reis oder Reisverarbeitungserzeugnisse die einzigen Cerealienbestandteile sind); ausgenommen Haferflocken, Frühstücksgetreide mit einem Anteil von mindestens 50 % an Getreidekleie, Mahlerzeugnissen aus Haferkörnern, Mahlerzeugnissen aus Maiskörnern, Hafer-, Gerste-, Mais- oder Hartweizenvollkorngetreide, und zu weniger als oder zu mindestens 40 % bestehend aus Mahlerzeugnissen von Haferkörnern und Vollkornhafer</td></tr>
 <tr><td>"</td><td>Hafer</td><td>100 μg/kg</td><td>zum unmittelbaren menschlichen Verzehr bestimmt</td></tr>
+<tr><td>"</td><td>Hafer, unverarbeitet</td><td>1250 μg/kg</td><td>einschliesslich Spelzen, die nicht verzehrt werden</td></tr>
 <tr><td>"</td><td>Haferflocken</td><td>100 μg/kg</td><td></td></tr>
 <tr><td>"</td><td>Hartweizen</td><td>50 μg/kg</td><td>zum unmittelbaren menschlichen Verzehr bestimmt</td></tr>
 <tr><td>"</td><td>Hartweizen, unverarbeitet</td><td>100 μg/kg</td><td></td></tr>
