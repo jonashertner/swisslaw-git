@@ -4,11 +4,11 @@ title: Regolamento del Consiglio nazionale del 3 ottobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: it
-version: 2025-05-05
+version: 2025-09-08
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250908/it/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250908-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250908/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/it"
 
 (RCN)
 
-del 3 ottobre 2003 (Stato 5 maggio 2025)
+del 3 ottobre 2003 (Stato 8 settembre 2025)
 
 Il Consiglio nazionale,
 
@@ -25,7 +25,7 @@ visto l’articolo 36 della legge del 13 dicembre 2002[^ingress-1] sul Parlament
 
 decreta:
 
-[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^ingress-2]: [FF 2003 2961](https://fedlex.data.admin.ch/eli/fga/2003/511)
 
 ## Capitolo 1: Costituzione
@@ -163,7 +163,7 @@ L’Ufficio consta:
 
 <sup>4</sup> Il presidente partecipa alle votazioni nell’Ufficio. In caso di parità, il suo voto decide.
 
-[^8-1]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^8-1]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 
 #### Art. 9
 
@@ -271,7 +271,7 @@ I seggi seguenti sono ripartiti fra i gruppi parlamentari in applicazione analog
 
 <sup>3</sup> Di norma, un deputato non può appartenere contemporaneamente a più di due commissioni di cui all’articolo 10.[^15-5]
 
-[^15-1]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^15-1]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^15-2]: Nuovo testo giusta la cifra I del D del CN del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^15-3]: Introdotta dalla cifra I del D del CN del 3 ott. 2008, in vigore dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^15-4]: Abrogato dalla cifra I del D del CN del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1583](https://fedlex.data.admin.ch/eli/fga/2008/419)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -417,9 +417,13 @@ Gli oggetti in deliberazione ai sensi dell’articolo 71 LParl sono esaminati pr
 
 #### Art. 25
 
-**Presentazione**
+**Presentazione**[^25-1]
 
-Un deputato o un gruppo parlamentare può presentare per scritto un’iniziativa o un intervento durante una seduta della Camera.
+<sup>1</sup> Un deputato o un gruppo parlamentare può presentare per scritto un’iniziativa o un intervento durante una sessione ordinaria o straordinaria.
+
+<sup>2</sup> ...
+
+[^25-1]: Nuovo testo giusta la cifra I del D del CN del 21 mar. 2025 (Presentazione di interventi e iniziative parlamentari), in vigore dall’8 set. 2025 ([RU 2025 531](https://fedlex.data.admin.ch/eli/oc/2025/531); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799); [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)). Il cpv. 2 entra in vigore ulteriormente.
 
 #### Art. 26
 
@@ -708,7 +712,7 @@ Il presidente accerta se la Camera è in numero legale:
 - a. prima che si proceda ad elezioni, votazioni sul complesso o votazioni finali nonché a votazioni per cui è richiesto il consenso della maggioranza dei deputati conformemente all’articolo 159 capoverso 3 della Costituzione federale[^38-1];
 - b. a richiesta di un deputato.
 
-[^38-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -975,9 +979,9 @@ Sull’elenco nominativo si menziona per ogni deputato se:
 
 <sup>1</sup> In caso di deliberazione segreta o di difetto del sistema di voto elettronico, la votazione si svolge per alzata e seduta o mediante un segno oppure per appello nominale (art. 60 cpv. 1).
 
-[^58-1]: Nuovo testo giusta la cifra I del D del CN del 21 mar. 2025 (Consentire di nuovo la votazione senza appello nominale), in vigore dal 5 mag. 2025 ([RU 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [FF 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
+<sup>2</sup> Il numero di voti è accertato.
 
-### <sup>2</sup> Il numero di voti è accertato.
+[^58-1]: Nuovo testo giusta la cifra I del D del CN del 21 mar. 2025 (Consentire di nuovo la votazione senza appello nominale), in vigore dal 5 mag. 2025 ([RU 2025 183](https://fedlex.data.admin.ch/eli/oc/2025/183); [FF 2025 501](https://fedlex.data.admin.ch/eli/fga/2025/501)).
 
 #### Art. 58a
 
@@ -1069,7 +1073,7 @@ La Camera decide inoltre sui ricorsi:
 
 <sup>3</sup> Il deputato la cui elezione venga contestata si astiene dal partecipare ai lavori sia dell’Ufficio provvisorio sia della Camera durante l’esame del ricorso interposto contro la sua elezione.
 
-[^64-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404). Questo art. è entrato in vigore il 1° gen. 2007.
+[^64-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715). Questo art. è entrato in vigore il 1° gen. 2007.
 
 #### Art. 65
 

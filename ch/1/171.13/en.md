@@ -4,11 +4,11 @@ title: Standing Orders of the National Council of 3 October 2003 (SO-NC)
 short: SO-NC
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: en
-version: 2025-05-05
+version: 2025-09-08
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250908/en/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250908-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250908/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SO-NC)
 
-of 3 October 2003 (Status as of 5 May 2025)
+of 3 October 2003 (Last amended on 8 September 2025)
 
 The National Council,
 
@@ -27,7 +27,7 @@ on the basis of Article 36 of the Parliament Act of 13 December 2002[^ingress-1]
 
 decrees:
 
-[^ingress-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^ingress-2]: [BBl 2003 3468](https://fedlex.data.admin.ch/eli/fga/2003/511)
 
 ## Chapter 1 Constitution
@@ -165,7 +165,7 @@ The Office comprises:
 
 <sup>4</sup> The President participates in votes in the Office. In the event of a tie, he or she has the casting vote.
 
-[^8-1]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^8-1]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 
 #### Art. 9
 
@@ -273,7 +273,7 @@ The following seats are allocated among the parliamentary groups, in analogous a
 
 <sup>3</sup> In principle, a member of the Council may not sit on more than two of the committees listed under Article 10.[^15-5]
 
-[^15-1]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^15-1]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^15-2]: Amended by No I of the NC Decree of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^15-3]: Inserted by No I of the NC Decree of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^15-4]: Repealed by No I of the NC Decree of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423)[3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -419,9 +419,13 @@ Items of business under Article 71 ParlA are subject to preliminary examination 
 
 #### Art. 25
 
-**Submission**
+**Submission**[^25-1]
 
-A member of the Council or a group may submit a parliamentary initiative or a procedural request in writing during the Council sitting.
+<sup>1</sup> A member of the Council or a group may submit a parliamentary initiative or a procedural request in writing during an ordinary or extraordinary session.
+
+<sup>2</sup> ...
+
+[^25-1]: Amended by No I of the NC Decree of 21 March 2025 (Submission of Procedural Requests and Parliamentary Initiatives), in force since 8 Sept. 2025, para. 2 comes into force at a later date ([AS 2025 531](https://fedlex.data.admin.ch/eli/oc/2025/531); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 #### Art. 26
 
@@ -710,7 +714,7 @@ The President shall verify whether the Council is quorate:
 - a. before elections, votes on entire bills and final votes as well as votes on provisions that require the approval of a majority of the members of the Council in accordance with Article 159 paragraph 3 of the Federal Constitution[^38-1] in order to be accepted;
 - b. at the proposal of a member of the Council.
 
-[^38-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -1071,7 +1075,7 @@ The Council shall rule:
 
 <sup>3</sup> A member of the Council whose election is contested shall stand down both from the provisional office and from the Council while the appeal against his election is being heard.
 
-[^64-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404). This Art. came into force on 1 Jan. 2007.
+[^64-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715). This Art. came into force on 1 Jan. 2007.
 
 #### Art. 65
 
@@ -1097,6 +1101,6 @@ Articles 28*a* and 28*b* apply to parliamentary initiatives, motions and postula
 
 [^u2-1]
 
-[^u2-1]: [AS 2015 649](https://fedlex.data.admin.ch/eli/oc/2015/105).
+[^u2-1]: [AS 2015 649](https://fedlex.data.admin.ch/eli/oc/2015/105)
 
 Article 28 paragraph 2 second sentence applies to procedural requests that are opposed from the floor of the Council from the date on which the Amendment of 12 December 2014 comes into force.

@@ -4,11 +4,11 @@ title: Règlement du Conseil national du 3 octobre 2003 (RCN)
 short: RCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: fr
-version: 2025-05-05
+version: 2025-09-08
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250908/fr/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250908-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250908/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/fr"
 
 (RCN)
 
-du 3 octobre 2003 (État le 5 mai 2025)
+du 3 octobre 2003 (État le 8 septembre 2025)
 
 Le Conseil national,
 
@@ -25,7 +25,7 @@ vu l’art. 36 de la loi du 13 décembre 2002 sur l’Assemblée fédérale (loi
 
 arrête:
 
-[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^ingress-2]: [FF 2003 3062](https://fedlex.data.admin.ch/eli/fga/2003/511)
 
 ## Chapitre 1 Constitution du conseil
@@ -163,7 +163,7 @@ Le bureau se compose:
 
 <sup>4</sup> Le président prend part aux votes du bureau. Il départage en cas d’égalité des voix.
 
-[^8-1]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^8-1]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 
 #### Art. 9
 
@@ -271,7 +271,7 @@ Les sièges suivants sont répartis entre les groupes conformément aux art. 40 
 
 <sup>3</sup> Sauf exception, un député ne peut être membre simultanément de plus de deux des commissions visées à l’art. 10.[^15-5]
 
-[^15-1]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^15-1]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^15-2]: Nouvelle teneur selon le ch. I de l’A du CN du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^15-3]: Introduite par le ch. I de l’A du CN du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^15-4]: Abrogé par le ch. I de l’A du CN du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -417,9 +417,13 @@ Les commissions compétentes procèdent à l’examen préalable des objets soum
 
 #### Art. 25
 
-**Dépôt**
+**Dépôt**[^25-1]
 
-Tout député ou groupe peut déposer par écrit une initiative parlementaire ou une intervention pendant la séance du conseil.
+<sup>1</sup> Tout député ou groupe peut déposer par écrit une initiative parlementaire ou une intervention pendant une session ordinaire ou pendant une session extraordinaire.
+
+<sup>2</sup> …
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’A du CN du 21 mars 2025 (Dépôt des interventions et initiatives parlementaires), en vigueur depuis le 8 sept. 2025 et l’al. 2 entre en vigueur ultérieurement ([RO 2025 531](https://fedlex.data.admin.ch/eli/oc/2025/531); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 #### Art. 26
 
@@ -708,7 +712,7 @@ Le président vérifie que le quorum est atteint:
 - a. avant une élection, un vote sur l’ensemble ou un vote final, ou un vote sur une disposition dont l’adoption requiert l’approbation de la majorité des députés, conformément à l’art. 159, al. 3, de la Constitution[^38-1];
 - b. si un député le demande.
 
-[^38-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -1071,7 +1075,7 @@ Le conseil se prononce:
 
 <sup>3</sup> Lorsque le bureau provisoire ou le conseil examinent un recours déposé contre l’élection d’un député, celui-ci se retire.
 
-[^64-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404). Cet art. est entré en vigueur le 1<sup>er</sup> janv. 2007.
+[^64-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715). Cet art. est entré en vigueur le 1<sup>er</sup> janv. 2007.
 
 #### Art. 65
 

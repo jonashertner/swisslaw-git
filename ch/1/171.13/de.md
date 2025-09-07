@@ -4,11 +4,11 @@ title: Geschäftsreglement des Nationalrates vom 3. Oktober 2003 (GRN)
 short: GRN
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/514"
 language: de
-version: 2025-05-05
+version: 2025-09-08
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250505/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250505-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/514/20250908/de/xml/fedlex-data-admin-ch-eli-cc-2003-514-20250908-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250908/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/514/20250505/de"
 
 (GRN)
 
-vom 3. Oktober 2003 (Stand am 5. Mai 2025)
+vom 3. Oktober 2003 (Stand am 8. September 2025)
 
 Der Nationalrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 36 des Parlamentsgesetzes vom 13. Dezember 2002[^ingress-1
 
 beschliesst:
 
-[^ingress-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^ingress-2]: [BBl 2003 3468](https://fedlex.data.admin.ch/eli/fga/2003/511)
 
 ## 1. Kapitel: Konstituierung
@@ -163,7 +163,7 @@ Das Büro besteht aus:
 
 <sup>4</sup> Die Präsidentin oder der Präsident stimmt im Büro mit. Bei Stimmengleichheit fällt sie oder er den Stichentscheid.
 
-[^8-1]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^8-1]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 
 #### Art. 9
 
@@ -271,7 +271,7 @@ Folgende Sitze werden in sinngemässer Anwendung der Artikel 40 und 41 des Bunde
 
 <sup>3</sup> Ein Ratsmitglied darf in der Regel gleichzeitig nicht mehr als zwei Kommissionen nach Artikel 10 angehören.[^15-5]
 
-[^15-1]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^15-1]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^15-2]: Fassung gemäss Ziff. I des Beschlusses des N vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3473](https://fedlex.data.admin.ch/eli/oc/2018/564); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^15-3]: Eingefügt durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^15-4]: Aufgehoben durch Ziff. I des Beschlusses des N vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 733](https://fedlex.data.admin.ch/eli/oc/2009/125); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
@@ -417,9 +417,13 @@ Die Beratungsgegenstände nach Artikel 71 ParlG werden von den zuständigen Komm
 
 #### Art. 25
 
-**Einreichung**
+**Einreichung**[^25-1]
 
-Ein Ratsmitglied oder eine Fraktion kann eine parlamentarische Initiative oder einen Vorstoss während der Ratssitzung schriftlich einreichen.
+<sup>1</sup> Ein Ratsmitglied oder eine Fraktion kann eine parlamentarische Initiative oder einen Vorstoss während einer ordentlichen oder einer ausserordentlichen Session schriftlich einreichen.
+
+<sup>2</sup> …
+
+[^25-1]: Fassung gemäss Ziff. I des Beschlusses des N vom 21. März 2025 (Einreichung von Vorstössen und parlamentarischen Initiativen), in Kraft seit 8. Sept. 2025, Abs. 2 tritt zu einem späteren Zeitpunkt in Kraft ([AS 2025 531](https://fedlex.data.admin.ch/eli/oc/2025/531); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 #### Art. 26
 
@@ -708,7 +712,7 @@ Die Präsidentin oder der Präsident prüft, ob der Rat verhandlungsfähig ist:
 - a. vor Wahlen, Gesamt- und Schlussabstimmungen sowie Abstimmungen über Bestimmungen, für deren Annahme die Mehrheit der Ratsmitglieder gemäss Artikel 159 Absatz 3 der Bundesverfassung[^38-1] erforderlich ist;
 - b. auf Antrag eines Ratsmitglieds.
 
-[^38-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -1069,7 +1073,7 @@ Der Rat beschliesst:
 
 <sup>3</sup> Ein Ratsmitglied, dessen Wahl angefochten ist, tritt sowohl im provisorischen Büro als auch im Rat während der Behandlung der gegen seine Wahl erhobenen Beschwerde in den Ausstand.
 
-[^64-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404). Dieser Art. ist am 1. Jan. 2007 in Kraft getreten.
+[^64-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715). Dieser Art. ist am 1. Jan. 2007 in Kraft getreten.
 
 #### Art. 65
 
