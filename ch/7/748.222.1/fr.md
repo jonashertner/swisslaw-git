@@ -4,11 +4,11 @@ title: Ordonnance du DETEC du 14 janvier 2021 concernant les titres de vol du pe
 short: OPNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/63"
 language: fr
-version: 2021-03-01
+version: 2025-09-08
 adopted: 2021-01-14
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/63/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2021-63-20210301-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/63/20250908/fr/xml/fedlex-data-admin-ch-eli-cc-2021-63-20250908-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20250908/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20210301/fr"
 
 (OPNA)
 
-du 14 janvier 2021 (État le 1<sup>er</sup> mars 2021)
+du 14 janvier 2021 (État le 8 septembre 2025)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -25,7 +25,7 @@ vu les art. 24, al. 1, 25, al. 1, et 26 de l’ordonnance du 14 novembre 1973 su
 
 arrête:
 
-[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 ## Chapitre 1 Dispositions générales
 
@@ -40,10 +40,10 @@ La présente ordonnance règle les titres de vol nécessaires à l’activité d
 - c. règlement (UE) 2018/1976[^1-3];
 - d. règlement (UE) 2018/395[^1-4].
 
-[^1-1]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
-[^1-2]: Règlement (UE) n<sup>o</sup> 1178/2011 de la Commission du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l’aviation civile conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^1-3]: Règlement d’exécution (UE) 2018/1976 de la Commission du 14 décembre 2018 établissant des règles détaillées concernant l’exploitation de planeurs conformément au règlement (UE) 2018/1139 du Parlement européen et du Conseil, dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^1-4]: Règlement (UE) 2018/395 de la Commission du 13 mars 2018 établissant des règles détaillées concernant l’exploitation de ballons conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^1-1]: [RS 748.941](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9109)
+[^1-2]: Règlement (UE) n<sup>o</sup> 1178/2011 de la Commission du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l’aviation civile conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^1-3]: Règlement d’exécution (UE) 2018/1976 de la Commission du 14 décembre 2018 établissant des règles détaillées concernant l’exploitation de planeurs conformément au règlement (UE) 2018/1139 du Parlement européen et du Conseil, dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^1-4]: Règlement (UE) 2018/395 de la Commission du 13 mars 2018 établissant des règles détaillées concernant l’exploitation de ballons conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 
 #### Art. 2
 
@@ -64,9 +64,9 @@ La présente ordonnance règle les titres de vol nécessaires à l’activité d
 [^2-1]: Cf. note de bas de page relative à l’art. 1, let. b.
 [^2-2]: Cf. note de bas de page relative à l’art. 1, let. c.
 [^2-3]: Cf. note de bas de page relative à l’art. 1, let. d.
-[^2-4]: Decision 2011/016/R of the Executive Director of the European Aviation Safety Agency of 15 December 2011 on Acceptable Means of Compliance and Guidance Material to Commission Regulation (EU) No 1178/2011 of 3 November 2011 laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, telle que modifiée en dernier lieu par l’Executive Director Decision 2020/0005/R, en particulier son annexe I «AMC & GM to Part‑FCL – Issue 1, Amendment 9». www.easa.europa.eu/home &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions.
-[^2-5]: Executive Director Decision 2018/004/R of 23 March 2018 issuing Acceptable Means of Compliance and Guidance Material to the Articles and to Part-BOP of Commission Regulation (EU) 2018/3951, telle que modifiée par l’Executive Director Decision 2020/003/R, en particulier son annexe I «AMC & GM to Part‑BFCL – Issue 1». www.easa.europa.eu/home &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions.
-[^2-6]: Executive Director Decision 2020/004/R of 18 March 2020 issuing Acceptable Means of Compliance and Guidance Material to Annex III (Part-SFCL) to Commission Implement-ing Regulation (EU) 2018/1976, en particulier son annexe «AMC & GM to Part-SFCL – Issue 1». www.easa.europa.eu/home &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions
+[^2-4]: Decision 2011/016/R of the Executive Director of the European Aviation Safety Agency of 15 December 2011 on Acceptable Means of Compliance and Guidance Material to Commission Regulation (EU) No 1178/2011 of 3 November 2011 laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, telle que modifiée en dernier lieu par l’Executive Director Decision 2020/0005/R, en particulier son annexe I «AMC & GM to Part‑FCL – Issue 1, Amendment 9». [www.easa . europa.eu/home](http://www.easa.europa.eu/home) &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions.
+[^2-5]: Executive Director Decision 2018/004/R of 23 March 2018 issuing Acceptable Means of Compliance and Guidance Material to the Articles and to Part-BOP of Commission Regulation (EU) 2018/3951, telle que modifiée par l’Executive Director Decision 2020/003/R, en particulier son annexe I «AMC & GM to Part‑BFCL – Issue 1». [www.easa.europa.eu/home](http://www.easa.europa.eu/home) &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions.
+[^2-6]: Executive Director Decision 2020/004/R of 18 March 2020 issuing Acceptable Means of Compliance and Guidance Material to Annex III (Part-SFCL) to Commission Implement-ing Regulation (EU) 2018/1976, en particulier son annexe «AMC & GM to Part-SFCL – Issue 1». [www.easa.europa.eu/home](http://www.easa.europa.eu/home) &gt; Document Library &gt; Agency Decisions &gt; Agency Decisions
 
 #### Art. 3
 
@@ -116,7 +116,7 @@ La présente ordonnance règle les titres de vol nécessaires à l’activité d
 
 L’OFAC peut retirer un titre de vol délivré sur la base de la présente ordonnance ou restreindre son étendue pour une durée déterminée ou indéterminée ou définitivement en application de l’art. 92 de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^7-1] ou si des indices sérieux remettent en cause la faculté du titulaire d’un titre de vol à exercer ses droits en toute sécurité.
 
-[^7-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^7-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 #### Art. 8
 
@@ -154,8 +154,8 @@ Afin d’exercer leurs droits relatifs aux titres de vol délivrés sur la base 
 
 <sup>2</sup> L’al. 1, let. a, n’est pas applicable aux pilotes de planeurs et de ballons.
 
-[^11-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^11-2]: [RS 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^11-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^11-2]: [RS 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
 #### Art. 12
 
@@ -1008,7 +1008,7 @@ Le pilote peut exercer les droits que lui confère la qualification visée à l�
 - b. il effectue au cours des douze derniers mois, un vol de contrôle en double commande avec un instructeur sur hélicoptère qualifié pour les décollages par brouillard au sol ou brouillard élevé, en conditions réelles ou simulées;
 - c. il effectue au cours des douze derniers mois, un vol de contrôle avec un instructeur sur hélicoptère qualifié pour les décollages par brouillard au sol ou brouillard élevé sur un simulateur de vol hélicoptère de certification FFS level B ou supérieur avec un instructeur de vol.
 
-[^50-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^50-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 51
 
@@ -1023,7 +1023,7 @@ La qualification pour effectuer les décollages par brouillard au sol ou brouill
 
 <sup>2</sup> L’instructeur peut exercer les droits que lui confère la qualification visée à l’al. 1 uniquement lorsqu’il remplit les conditions visées à l’al. 1.
 
-[^51-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^51-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 52
 
@@ -1044,7 +1044,7 @@ Une qualification est nécessaire pour effectuer les décollages par brouillard 
 - a. il est titulaire d’une licence BPL établies en Suisse;
 - b. il a suivi l’instruction conformément à l’annexe 8.
 
-[^53-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^53-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 54
 
@@ -1060,7 +1060,7 @@ Une qualification est nécessaire pour exercer l’activité d’instructeur pou
 
 <sup>2</sup> L’instructeur peut exercer les droits que lui confère sa qualification uniquement lorsqu’il remplit les conditions visées à l’al. 1.
 
-[^54-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^54-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 55
 
@@ -1239,7 +1239,7 @@ Est puni conformément à l’art. 91, al. 1, let. i, de la loi fédérale du 21
 - b. en tant qu’instructeur de vol, enfreint l’art. 60, al. 1;
 - c. en tant qu’examinateur de vol, enfreint l’art. 65, al. 2.
 
-[^66-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^66-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 ## Chapitre 8 Dispositions finales
 
@@ -1343,11 +1343,13 @@ Annexe 1
 <tr><td>VOR</td><td>Very high frequency omni-directional range</td><td>Radiophare omnidirectionnel à très haute fréquence</td></tr>
 </table>
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 16, al. 4, 27, al. 4, et 39, al. 4)
 
 ## Instruction en vue de la délivrance d’une qualification de type de motorisation
+
+[^t-1]: Mise à jour par l’erratum du 8 sept. 2025 ([RO 2025 548](https://fedlex.data.admin.ch/eli/oc/2025/548)).
 
 ### 1 Généralités
 
@@ -1411,7 +1413,7 @@ Le cours d’instruction respecte les conditions de l’art. 60, a une durée de
 <tr><td>Démarrage des moteurs</td><td>– Fonctionnalité</td></tr>
 <tr><td>Inverseur de poussée</td><td>– Fonctionnalité – Types de construction / design – Limitations</td></tr>
 <tr><td>Fonctionnement et surveillance des moteurs</td><td>– Réglages de puissance, plages de puissance – Limites de fonctionnement – Instruments de suivi des performances – Réglages de puissance, plages de puissance – Développement de la puissance et dangers possibles</td></tr>
-<tr><td></td><td>– Poussée maximale – Effets de la poussée réduite au décollage – Effets de la purge d’air sur les performances des moteurs – Limitations en cas de panne de moteur</td></tr>
+<tr><td>Poussée, aspects liés aux performances de vol, limitations</td><td>– Poussée maximale – Effets de la poussée réduite au décollage – Effets de la purge d’air sur les performances des moteurs – Limitations en cas de panne de moteur</td></tr>
 </table>
 
 ### 2 Procédures opérationnelles

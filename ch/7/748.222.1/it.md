@@ -4,11 +4,11 @@ title: Ordinanza del DATEC del 14 gennaio 2021 concernente le licenze e le abili
 short: OLPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/63"
 language: it
-version: 2021-03-01
+version: 2025-09-08
 adopted: 2021-01-14
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/63/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2021-63-20210301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/63/20250908/it/xml/fedlex-data-admin-ch-eli-cc-2021-63-20250908-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20250908/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20210301/it"
 
 (OLAPA)
 
-del 14 gennaio 2021 (Stato 1° marzo 2021)
+del 14 gennaio 2021 (Stato 8 settembre 2025)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -25,7 +25,7 @@ visti gli articoli 24 capoverso 1, 25 capoverso 1 e 26 dell’ordinanza del 14 n
 
 ordina:
 
-[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^ingress-1]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -40,10 +40,10 @@ La presente ordinanza disciplina le licenze e le abilitazioni necessarie all’e
 - c. regolamento (UE) 2018/1976[^1-3];
 - d. regolamento (UE) 2018/395[^1-4].
 
-[^1-1]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
-[^1-2]: Regolamento (UE) n. 1178/2011 della Commissione, del 3 novembre 2011, che stabilisce i requisiti tecnici e le procedure amministrative relativamente agli equipaggi dell’aviazione civile ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera secondo il n. 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^1-3]: Regolamento di esecuzione (UE) 2018/1976 della Commissione, del 14 dicembre 2018, che stabilisce regole dettagliate per l’impiego di alianti a norma del regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera secondo il n. 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^1-4]: Regolamento (UE) 2018/395 della Commissione, del 13 marzo 2018, che stabilisce regole dettagliate per l’impiego di palloni a norma del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera secondo il n. 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^1-1]: [RS 748.941](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9109)
+[^1-2]: Regolamento (UE) n. 1178/2011 della Commissione, del 3 novembre 2011, che stabilisce i requisiti tecnici e le procedure amministrative relativamente agli equipaggi dell’aviazione civile ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera secondo il n. 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^1-3]: Regolamento di esecuzione (UE) 2018/1976 della Commissione, del 14 dicembre 2018, che stabilisce regole dettagliate per l’impiego di alianti a norma del regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera secondo il n. 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^1-4]: Regolamento (UE) 2018/395 della Commissione, del 13 marzo 2018, che stabilisce regole dettagliate per l’impiego di palloni a norma del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nella versione vincolante per la Svizzera secondo il n. 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 
 #### Art. 2
 
@@ -116,7 +116,7 @@ La presente ordinanza disciplina le licenze e le abilitazioni necessarie all’e
 
 L’UFAC può ritirare una licenza o un’abilitazione rilasciata sulla base della presente ordinanza o limitarne l’estensione a tempo determinato o indeterminato oppure in via definitiva in applicazione dell’articolo 92 della legge federale del 21 dicembre 1948[^7-1] sulla navigazione aerea (LNA) oppure se sussistono indizi seri che mettono in dubbio la facoltà del titolare della licenza o dell’abilitazione di esercitare i suoi diritti in piena sicurezza.
 
-[^7-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^7-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 #### Art. 8
 
@@ -154,8 +154,8 @@ All’interno delle zone in cui è obbligatoria una comunicazione radiotelefonic
 
 <sup>2</sup> Il capoverso 1 lettera a non si applica ai piloti di alianti e di palloni.
 
-[^11-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^11-2]: [RS 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^11-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^11-2]: [RS 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
 #### Art. 12
 
@@ -1008,7 +1008,7 @@ Il pilota può esercitare i diritti derivanti dall’abilitazione di cui al capo
 - b. nel corso degli ultimi dodici mesi ha effettuato un volo di controllo in elicottero in doppio comando con un istruttore abilitato ai decolli con nebbia alta o bassa, in condizioni reali o simulate;
 - c. nel corso degli ultimi dodici mesi ha effettuato un volo di controllo con un istruttore di volo in elicottero qualificato per i decolli con nebbia alta o bassa su un simulatore di volo in elicottero con certificazione FFS livello B oppure superiore con un istruttore di volo.
 
-[^50-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^50-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 51
 
@@ -1023,7 +1023,7 @@ Per esercitare l’attività di istruttore per i decolli in elicottero con nebbi
 
 <sup>2</sup> L’istruttore può esercitare i diritti derivanti dal certificato di cui al capoverso 1 unicamente se soddisfa le condizioni previste dal capoverso 1.
 
-[^51-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^51-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 52
 
@@ -1044,7 +1044,7 @@ Per effettuare i decolli in pallone con nebbia alta o bassa di cui all’articol
 - a. è titolare di una licenza BPL rilasciata in Svizzera;
 - b. ha seguito l’istruzione conformemente all’allegato 8.
 
-[^53-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^53-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 54
 
@@ -1060,7 +1060,7 @@ Per esercitare l’attività di istruttore per i decolli in pallone con nebbia a
 
 <sup>2</sup> L’istruttore può esercitare i diritti derivanti dal proprio certificato unicamente se soddisfa le condizioni di cui al capoverso 1.
 
-[^54-1]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^54-1]: [RS 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 55
 
@@ -1239,7 +1239,7 @@ Per effettuare l’esame agli istruttori d’atterraggi in elicottero in montagn
 - b. in qualità di istruttore di volo, viola l’articolo 60 capoverso 1;
 - c. in qualità di esaminatore di volo, viola l’articolo 65 capoverso 2.
 
-[^66-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^66-1]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 ## Capitolo 8: Disposizioni finali
 
@@ -1343,11 +1343,13 @@ Allegato 1
 <tr><td>VOR</td><td>Very high frequency omni-directional range</td><td>Radiofaro pluridirezionale ad altissime frequenze</td></tr>
 </table>
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 16 cpv. 4, 27 cpv. 4 e 39 cpv. 4)
 
 ## Istruzione per il conseguimento di un’abilitazione per tipo di propulsione
+
+[^t-1]: La correzione dell’8 set. 2025 concerne soltanto il testo francese ([RU 2025 548](https://fedlex.data.admin.ch/eli/oc/2025/548)).
 
 ### 1 Aspetti generali
 

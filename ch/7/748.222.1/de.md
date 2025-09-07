@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 14. Januar 2021 über die nicht europaweit gerege
 short: VABFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/63"
 language: de
-version: 2021-03-01
+version: 2025-09-08
 adopted: 2021-01-14
 in_force: 2021-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/63/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2021-63-20210301-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/63/20250908/de/xml/fedlex-data-admin-ch-eli-cc-2021-63-20250908-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20250908/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/63/20210301/de"
 
 (VABFP)
 
-vom 14. Januar 2021 (Stand am 1. März 2021)
+vom 14. Januar 2021 (Stand am 8. September 2025)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 24 Absatz 1, 25 Absatz 1 sowie 26 der Luftfahrtverordn
 
 verordnet:
 
-[^ingress-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^ingress-1]: [SR 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 ## 1. Kapitel Allgemeine Bestimmungen
 
@@ -40,10 +40,10 @@ Diese Verordnung regelt die Ausweise und Berechtigungen des Flugpersonals der Zi
 - c. Verordnung (EU) 2018/1976[^1-3];
 - d. Verordnung (EU) 2018/395[^1-4].
 
-[^1-1]: [SR 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
-[^1-2]: Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. November 2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^1-3]: Durchführungsverordnung (EU) 2018/1976 der Kommission vom 14. Dezember 2018 zur Festlegung detaillierter Vorschriften für den Flugbetrieb mit Segelflugzeugen gemäss der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^1-4]: Verordnung (EU) 2018/395 der Kommission vom 13. März 2018 zur Festlegung detaillierter Vorschriften für den Flugbetrieb mit Ballonen gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^1-1]: [SR 748.941](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9109)
+[^1-2]: Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. November 2011 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das fliegende Personal in der Zivilluftfahrt gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^1-3]: Durchführungsverordnung (EU) 2018/1976 der Kommission vom 14. Dezember 2018 zur Festlegung detaillierter Vorschriften für den Flugbetrieb mit Segelflugzeugen gemäss der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^1-4]: Verordnung (EU) 2018/395 der Kommission vom 13. März 2018 zur Festlegung detaillierter Vorschriften für den Flugbetrieb mit Ballonen gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, in der für die Schweiz jeweils verbindlichen Fassung gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
 
 #### Art. 2
 
@@ -116,7 +116,7 @@ Diese Verordnung regelt die Ausweise und Berechtigungen des Flugpersonals der Zi
 
 Das BAZL kann eine Pilotenlizenz oder eine Berechtigung im Sinne dieser Verordnung entziehen oder die damit verbundenen Rechte für eine bestimmte oder unbestimmte Zeit oder dauernd beschränken, falls die Voraussetzungen von Artikel 92 des Luftfahrtgesetzes vom 21. Dezember 1948[^7-1] (LFG) erfüllt sind oder aufgrund konkreter Anhaltspunkte in Frage gestellt wird, dass die Inhaberin oder der Inhaber einer Pilotenlizenz oder einer Berechtigung zur sicheren Ausübung ihrer oder seiner Rechte fähig ist.
 
-[^7-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^7-1]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 #### Art. 8
 
@@ -154,8 +154,8 @@ Innerhalb der Zonen, in denen Sprechfunkverkehr vorgeschrieben ist, dürfen Pilo
 
 <sup>2</sup> Absatz 1 Buchstabe a gilt nicht für Pilotinnen und Piloten von Segelflugzeugen und Ballonen.
 
-[^11-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^11-2]: [SR 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^11-1]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^11-2]: [SR 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
 #### Art. 12
 
@@ -1008,7 +1008,7 @@ Die Pilotinnen und Piloten dürfen die mit ihrer Berechtigung verbundenen Rechte
 - b. in den vergangenen 12 Monaten unter realen oder simulierten Bedingungen einen Kontrollflug am Doppelsteuer mit einer oder einem für Abflüge bei Boden- oder Hochnebel berechtigten Lehrberechtigten für Helikopter absolviert haben; oder
 - c. in den vergangenen 12 Monaten auf einem Helikopter-Flugsimulator mit FFS-Level-B-Zertifizierung («*Full Flight Simulator Level B*») oder höher einen Kontrollflug mit einer oder einem für Abflüge bei Boden- oder Hochnebel berechtigten Lehrberechtigten für Helikopter absolviert haben.
 
-[^50-1]: [SR 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^50-1]: [SR 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 51
 
@@ -1023,7 +1023,7 @@ Wer die Tätigkeit von Lehrberechtigten für Abflüge bei Boden- oder Hochnebel 
 
 <sup>2</sup> Lehrberechtigte dürfen die mit ihrer Berechtigung verbundenen Rechte nur ausüben, wenn sie die Voraussetzungen nach Absatz 1 erfüllen.
 
-[^51-1]: [SR 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^51-1]: [SR 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 52
 
@@ -1044,7 +1044,7 @@ Wer Abflüge bei Boden- oder Hochnebel mit dem Ballon nach Artikel 24 VRV-L[^53-
 - a. eine in der Schweiz ausgestellte BPL-Pilotenlizenz besitzt; und
 - b. die Ausbildung nach Anhang 8 absolviert hat.
 
-[^53-1]: [SR 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^53-1]: [SR 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 54
 
@@ -1060,7 +1060,7 @@ Wer die Tätigkeit von Lehrberechtigten für Abflüge bei Boden- oder Hochnebel 
 
 <sup>2</sup> Die Lehrberechtigten dürfen die mit ihrer Berechtigung verbundenen Rechte nur ausüben, wenn sie die Voraussetzungen nach Absatz 1 erfüllen.
 
-[^54-1]: [SR 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
+[^54-1]: [SR 748.121.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9051)
 
 #### Art. 55
 
@@ -1130,8 +1130,8 @@ Wer die Tätigkeit von Lehrberechtigten für Bordtechnik ausüben will, muss ein
 Bordtechnikerinnen und -techniker mit einer gültigen, ausländischen Lizenz oder einer Berechtigung, die eine Bordtechnikerlizenz mit Klassen- oder Musterberechtigung nach Artikel 56 erwerben wollen, müssen:
 
 - a. eine Ausbildung in den Sachgebieten Luftrecht und menschliches Leistungsvermögen absolviert haben, die Teil des ATPL-Ausbildungslehrgangs nach FCL.515 sind;
-- mindestens 100 Flugstunden auf dem entsprechenden Luftfahrzeugmuster absolviert haben; und
-- b. die Prüfung nach Anhang 9 bestanden haben.
+- b. mindestens 100 Flugstunden auf dem entsprechenden Luftfahrzeugmuster absolviert haben; und
+- c. die Prüfung nach Anhang 9 bestanden haben.
 
 <sup>2</sup>
 
@@ -1239,7 +1239,7 @@ Nach Artikel 91 Absatz 1 Buchstabe i LFG[^66-1] wird bestraft, wer:
 - b. als Lehrberechtigte oder Lehrberechtigter Artikel 60 Absatz 1 verletzt;
 - c. als Flugprüferin oder Flugprüfer Artikel 65 Absatz 2 verletzt.
 
-[^66-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^66-1]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -1343,11 +1343,13 @@ Anhang 1
 <tr><td>VOR</td><td>Very high frequency omni-directional range</td><td>Ultrakurzwellen-Drehfunkfeuer</td></tr>
 </table>
 
-Anhang 2
+aAnhang 2[^t-1]
 
 (Art. 16 Abs. 4, 27 Abs. 4 und 39 Abs. 4,)
 
 ## Ausbildung für den Erwerb einer Antriebsart
+
+[^t-1]: Die Berichtigung vom 8. Sept. 2025 betrifft nur den französischen Text ([AS 2025 548](https://fedlex.data.admin.ch/eli/oc/2025/548)).
 
 ### Allgemeines
 
