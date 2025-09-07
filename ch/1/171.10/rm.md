@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2024-12-02
+version: 2025-09-08
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 2 da december 2024)
+dals 13 da december 2002 (versiun dals 8 da settember 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 164 alinea 1 litera g da la Constituziun federala[^in
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)
 [^ingress-3]: [BBl 2001 5428](https://fedlex.data.admin.ch/eli/fga/2001/853)
 
@@ -134,11 +134,14 @@ Per proteger interess da segirezza impurtants u per garantir la protecziun da la
 
 <sup>2</sup> Els pon far propostas davart objects pendents e davart la procedura.
 
+<sup>2bis</sup> Ils reglaments da gestiun da las chombras pon prevair ch’ils dretgs tenor l’alinea 1 pon vegnir exequids cuminaivlamain da plirs parlamentaris.[^6-1]
+
 <sup>3</sup> Il dretg da prender il pled ed il temp da discurrer pon vegnir restrenschids tras reglaments da las chombras.
 
-<sup>4</sup> Davart ina iniziativa parlamentara, ina moziun u in postulat ch’è vegnì contestà dastgi mo vegnir votà, sche l’autur ha survegnì la chaschun da preschentar a bucca ses arguments. Il dretg da prender il pled ha plinavant almain quel che ha proponì sco emprim da refusar l’intervenziun.[^6-1]
+<sup>4</sup> Davart ina iniziativa parlamentara, ina moziun u in postulat ch’è vegnì contestà dastgi mo vegnir votà, sche l’autur ha survegnì la chaschun da preschentar a bucca ses arguments. Il dretg da prender il pled ha plinavant almain quel che ha proponì sco emprim da refusar l’intervenziun.[^6-2]
 
-[^6-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^6-1]: Integrà tras la cifra I da la LF dals 21 da mars 2025 (inoltraziun d’intervenziuns e d’iniziativas parlamentaras), en vigur dapi ils 8 da sett. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^6-2]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 7
 
@@ -176,7 +179,7 @@ Ils parlamentaris èn suttamess al secret d’uffizi, sch’els han – a basa d
 
 Per lur activitad parlamentara survegnan ils parlamentaris da la Confederaziun ina indemnisaziun sco er ina contribuziun per cuvrir ils custs che resultan da lur activitad parlamentara. Ils detagls vegnan reglads en la Lescha dals 18 da mars 1988[^9-1] davart las resursas dal parlament.
 
-[^9-1]: [SR 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^9-1]: [SR 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 #### Art. 10
 
@@ -231,7 +234,7 @@ Cura ch’el entra en uffizi ed al cumenzament da mintga onn infurmescha mintga 
 [^11-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2018, en vigur dapi ils 2 da dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-2]: Versiun tenor la cifra I da la LF dals 15 da zer. 2018, en vigur dapi ils 2 da dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-3]: Integrà tras la cifra I da la LF dals 15 da zer. 2018, en vigur dapi ils 2 da dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 11a
 
@@ -357,7 +360,7 @@ Per abolir il secret da posta e da telecommunicaziun en il senn da l’artitgel 
 
 <sup>4</sup> In’arrestaziun è inadmissibla senza questa autorisaziun.[^18-3]
 
-[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^18-2]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (dumondas d’abolir l’immunitad), en vigur dapi ils 5 da dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^18-3]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (dumondas d’abolir l’immunitad), en vigur dapi ils 5 da dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
@@ -407,7 +410,7 @@ Sch’igl è dispitaivel, schebain in’autorisaziun tenor ils artitgels 17–20
 
 <sup>3</sup> Il parlamentari po far recurs cunter la decisiun da la Delegaziun administrativa tar il Tribunal federal.
 
-[^21a-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21a-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ## 3. titel Incumbensas da l’Assamblea federala
 
@@ -443,7 +446,7 @@ L’Assamblea federala suttametta las midadas da la Constituziun federala a la v
 
 <sup>4</sup> Ella cooperescha a radunanzas parlamentaras internaziunalas e tgira las relaziuns cun parlaments esters.
 
-[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^24-2]: Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart las cumpetenzas per la conclusiun, la midada e la disditga da contracts internaziunals, en vigur dapi ils 2 da dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 [^24-3]: Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart las cumpetenzas per la conclusiun, la midada e la disditga da contracts internaziunals, en vigur dapi ils 2 da dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
@@ -481,7 +484,7 @@ L’Assamblea federala exequescha la surveglianza suprema tenor ils suandants cr
 <sup>4</sup> La surveglianza suprema na cumpiglia betg la cumpetenza d’abolir u da midar decisiuns. La controlla dal cuntegn da decisiuns giudizialas e da decisiuns da la Procura publica federala è exclusa.[^26-3]
 
 [^26-1]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^26-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^26-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^26-3]: Versiun da la segunda frasa tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 27
@@ -525,7 +528,7 @@ Ella cooperescha:
 
 <sup>4</sup> Sch’il Cussegl federal divergescha d’incumbensas u da conclus da princip e da conclus da planisaziun, sto el motivar quai.
 
-[^28-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^28-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^28-2]: Versiun tenor la cifra I 1 da la LF dals 17 da dec. 2010 davart la participaziun da l’AF a la determinaziun da l’orientaziun strategica da las unitads daventadas autonomas, en vigur dapi il 1. da schan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^28-3]: Integrà tras la cifra I 1 da la LF dals 17 da dec. 2010 davart la participaziun da l’AF a la determinaziun da l’orientaziun strategica da las unitads daventadas autonomas, en vigur dapi il 1. da schan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 
@@ -903,7 +906,7 @@ Las cumissiuns infurmeschan la populaziun davart ils resultats da lur tractativa
 <sup>6</sup> Ella decida cun la maioritad dals commembers votants.
 
 [^51-1]: Versiun tenor la cifra I 2 da la LF dals 17 da dec. 2010 davart il mantegniment da la democrazia, dal stadi da dretg e da l’abilitad d’agir en situaziuns extraordinarias, en vigur dapi il 1. da matg 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^51-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^51-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 ### 3. part Cumissiuns da gestiun
 
@@ -1033,7 +1036,7 @@ In’ordinaziun da l’Assamblea federala regla l’organisaziun, las incumbensa
 
 <sup>5</sup> Las fracziuns survegnan ina contribuziun per cuvrir ils custs da lur secretariats. Ils detagls vegnan reglads en la Lescha dals 18 da mars 1988[^62-1] davart las resursas dal parlament.
 
-[^62-1]: [SR 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^62-1]: [SR 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 ### 6. chapitel Gruppas parlamentaras
 
@@ -1659,7 +1662,7 @@ La furma da l’iniziativa parlamentara sto vegnir giuditgada sco cunvegnenta cu
 <sup>4</sup> Las obligaziuns da controlla tenor l’artitgel 4 e l’obligaziun da stimar ils custs da regulaziun tenor l’artitgel 5 da la Lescha dals 29 da settember 2023[^111-2] per distgargiar las interpresas valan tenor il senn.[^111-3]
 
 [^111-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40201)
 [^111-3]: Integrà tras l’art. 21 da la Lescha dals 29 da sett. 2023 per distgargiar las interpresas, en vigur dapi il 1. d’oct. 2024 ([AS 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [BBl 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
@@ -1676,7 +1679,7 @@ La furma da l’iniziativa parlamentara sto vegnir giuditgada sco cunvegnenta cu
 
 <sup>4</sup> Sch’il Cussegl federal propona ina midada, tracta la cumissiun la posiziun dal Cussegl federal avant che la tractativa dal sboz per in decret ha lieu en la chombra prioritara.
 
-[^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^112-1]: [SR 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
 [^112-2]: Versiun tenor l’art. 12 cifra 1 da la LF dals 18 da mars 2005 davart la procedura da consultaziun, en vigur dapi il 1. da sett. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^112-4]: Integrà tras la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1768,10 +1771,13 @@ Intervenziuns parlamentaras èn:
 
 <sup>4bis</sup> Ellas sa drizzan a l’Autoritad da surveglianza da la Procura publica federala, sch’ellas sa refereschan a la gestiun u a las finanzas da la Procura publica federala u da sia autoritad da surveglianza; moziuns èn exclusas.[^118-1]
 
-<sup>5</sup> Per las intervenziuns als biros da las chombras ed als tribunals da la Confederaziun valan ils artitgels 120–125 tenor il senn.[^118-2]
+<sup>4ter</sup> Ellas sa drizzan a l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT), sch’ellas sa refereschan a sia gestiun u a sias finanzas; moziuns èn exclusas.[^118-2]
+
+<sup>5</sup> Per las intervenziuns als biros da las chombras ed als tribunals da la Confederaziun valan ils artitgels 120–125 tenor il senn.[^118-3]
 
 [^118-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^118-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dal 15 da favr. 2018, publitgada il 27 da favr. 2018, concerna mo il text franzos ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
+[^118-2]: Integrà tras la cifra I da la LF dals 21 da mars 2025 (inoltraziun d’intervenziuns e d’iniziativas parlamentaras), en vigur dapi ils 8 da sett. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^118-3]: La rectificaziun da la Cumissiun da redacziun da l’AF dal 15 da favr. 2018, publitgada il 27 da favr. 2018, concerna mo il text franzos ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
 
 #### Art. 119
 
@@ -1779,25 +1785,26 @@ Intervenziuns parlamentaras èn:
 
 <sup>1</sup> Intervenziuns pon vegnir inoltradas da la maioritad d’ina cumissiun ubain durant la sessiun d’ina fracziun u d’in parlamentari.
 
-<sup>2</sup> Sch’il cuntegn d’ina intervenziun po vegnir dividì, po vegnir debattà e votà separadamain davart ils singuls puncts.
+<sup>2</sup> Sch’ina intervenziun è divisibla tematicamain e formalmain, poi vegnir debattà e votà separadamain davart ils singuls puncts.[^119-1]
 
-<sup>3</sup> Il text d’ina intervenziun inoltrada na po betg pli vegnir midà; resalvà resta l’artitgel 121 alinea 3 litera b.[^119-1]
+<sup>3</sup> Il text d’ina intervenziun inoltrada na po betg pli vegnir midà; resalvà resta l’artitgel 121 alinea 3 litera b.[^119-2]
 
-<sup>4</sup> ...[^119-2]
+<sup>4</sup> ...[^119-3]
 
 <sup>5</sup>
 
 L’intervenziun d’in parlamentari u d’ina fracziun vegn annullada senza ina decisiun da la chombra, sche:
 
 - a. la chombra n’ha betg tractà definitivamain l’intervenziun entaifer 2 onns suenter ch’ella è vegnida inoltrada; u
-- b. l’autur sorta da la chombra e nagin auter parlamentari na surpiglia l’intervenziun en l’emprima emna da la proxima sessiun.[^119-3]
+- b. l’autur sorta da la chombra e nagin auter parlamentari na surpiglia l’intervenziun en l’emprima emna da la proxima sessiun.[^119-4]
 
-<sup>6</sup> ...[^119-4]
+<sup>6</sup> ...[^119-5]
 
-[^119-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2008, en vigur dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-2]: Abolì tras la cifra I da la LF dals 3 d’oct. 2008, cun effect dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-3]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2008, en vigur dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-4]: Abolì tras la cifra I da la LF dals 3 d’oct. 2008, cun effect dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-1]: Versiun tenor la cifra I da la LF dals 21 da mars 2025 (inoltraziun d’intervenziuns e d’iniziativas parlamentaras), en vigur dapi ils 8 da sett. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^119-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2008, en vigur dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Abolì tras la cifra I da la LF dals 3 d’oct. 2008, cun effect dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2008, en vigur dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-5]: Abolì tras la cifra I da la LF dals 3 d’oct. 2008, cun effect dapi ils 2 da mars 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 2. part Moziun
 
@@ -2205,14 +2212,14 @@ Il Cussegl federal suttametta a l’Assamblea federala:
 - b. ils sbozs per ils supplements ordinaris e per ils credits supplementars: 2 mais avant il cumenzament da la sessiun, en la quala els duain vegnir tractads;
 - c. il quint dal stadi: mintga onn 2 mais avant il cumenzament da la sessiun, en la quala el duai vegnir tractà.
 
-<sup>2</sup> El integrescha ils sbozs per il preventiv sco er ils quints da l’Assamblea federala, dals tribunals da la Confederaziun, da la Controlla federala da finanzas, da la Procura publica federala, da l’Autoritad da surveglianza da la Procura publica federala e da l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) senza midadas en ses sboz per il preventiv ed en il quint da la Confederaziun.[^142-2]
+<sup>2</sup> El integrescha ils sbozs per il preventiv sco er ils quints da l’Assamblea federala, dals tribunals da la Confederaziun, da la Controlla federala da finanzas, da la Procura publica federala, da l’Autoritad da surveglianza da la Procura publica federala e dal IFPDT senza midadas en ses sboz per il preventiv ed en il quint da la Confederaziun.[^142-2]
 
 <sup>3</sup> Il Tribunal federal represchenta ils sbozs per ils preventivs ed ils quints dals tribunals da la Confederaziun davant l’Assamblea federala. Per l’Assamblea federala surpiglia questa incumbensa la Delegaziun administrativa da l’Assamblea federala, per la Controlla federala da finanzas la Delegaziun da finanzas, per l’Autoritad da surveglianza da la Procura publica federala e per la Procura publica federala l’Autoritad da surveglianza da la Procura publica federala. Il IFPDT represchenta ses sboz per il preventiv e ses quint davant l’Assamblea federala.[^142-3] [^142-4]
 
 <sup>4</sup> Il Cussegl federal lascha far calculaziuns approximativas davart il resultat annual previsibel, e quai mintgamai per ils 30 da zercladur e per ils 30 da settember. El orientescha las Cumissiuns da finanzas en chaussa.[^142-5]
 
 [^142-1]: Versiun tenor l’art. 65 cifra 1 da la Lescha da finanzas dals 7 d’oct. 2005, en vigur dapi il 1. da matg 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Versiun tenor la cifra II 12 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-2]: Versiun tenor la cifra I da la LF dals 21 da mars 2025 (inoltraziun d’intervenziuns e d’iniziativas parlamentaras), en vigur dapi ils 8 da sett. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 [^142-3]: Integrà la terza frasa tenor la cifra II 12 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^142-4]: Versiun tenor la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^142-5]: Integrà tras l’art. 65 cifra 1 da la Lescha da finanzas dals 7 d’oct. 2005, en vigur dapi il 1. da matg 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
@@ -2300,7 +2307,7 @@ Ils reglaments da las chombras pon prevair che:
 
 <sup>4</sup> L’Assamblea federala po prender conclus da princip e conclus da planisaziun davart ulteriuras planisaziuns impurtantas e davart auters rapports impurtants en la furma d’in conclus federal simpel u d’in conclus federal.
 
-[^148-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^148-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^148-2]: Integrà tras la cifra I 1 da la LF dals 17 da dec. 2010 davart la participaziun da l’AF tar la direcziun da las unitads daventadas autonomas, en vigur dapi il 1. da schan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^148-3]: Integrà tras la cifra I da la LF dals 22 da dec. 2023 (rapport da planisaziun), en vigur dapi il 1. da zer. 2024 ([AS 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [BBl 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
@@ -2410,8 +2417,8 @@ Las Cumissiuns da surveglianza decidan definitivamain davart l’execuziun da lu
 <sup>7</sup> Las Cumissiuns da surveglianza prendan las mesiras adattadas per proteger il secret tenor l’artitgel 150 alinea 3. Per quest intent sco er per il cas che lur dretg da survegnir infurmaziuns per pudair ademplir la surveglianza suprema na bastan betg, pon ellas incumbensar lur delegaziuns da sclerir ina dumonda concreta. Per lur sectur da cumpetenza fixeschan ellas directivas per proteger il secret. En quellas limiteschan ellas cunzunt l’access a cunrapports.
 
 [^153-1]: Versiun tenor la cifra I da la LF dals 17 da zer. 2011 (precisaziun dals dretgs da las cumissiuns da surveglianza da survegnir infurmaziuns), en vigur dapi il 1. da nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^153-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^153-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^153-2]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^153-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 154
 
@@ -2467,7 +2474,7 @@ Per ademplir lur incumbensas han las delegaziuns da las Cumissiuns da surveglian
 
 <sup>6</sup> Per la procedura e per ils dretgs da las persunas pertutgadas èn applitgabels ils artitgels 166–171.
 
-[^155-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^155-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 156
 
@@ -2481,7 +2488,7 @@ Per ademplir lur incumbensas han las delegaziuns da las Cumissiuns da surveglian
 
 <sup>4</sup> Persunas che lavuran tar la Confederaziun tenor questa lescha èn il persunal federal sco er las persunas incaricadas directamain cun incumbensas da dretg public da la Confederaziun. Il tip da la relaziun cun la Confederaziun n’è betg decisiv.
 
-[^156-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^156-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 157
 
@@ -2548,9 +2555,9 @@ Per la relaziun uffiziala tranter l’Assamblea federala ed ils tribunals da la 
 
 <sup>4</sup> Las cumissiuns dattan als tribunals da la Confederaziun l’occasiun da prender posiziun, sche sbozs per decrets ch’ellas predelibereschan pertutgan las cumpetenzas, l’organisaziun u l’administraziun dals tribunals da la Confederaziun.
 
-<sup>5</sup> Ils alineas 1–4 valan tenor il senn per l’Autoritad da surveglianza da la Procura publica federala.[^162-1]
+<sup>5</sup> Ils alineas 1–4 valan tenor il senn per l’Autoritad da surveglianza da la Procura publica federala e per il IFPDT.[^162-1]
 
-[^162-1]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^162-1]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Versiun tenor la cifra I da la LF dals 21 da mars 2025 (inoltraziun d’intervenziuns e d’iniziativas parlamentaras), en vigur dapi ils 8 da sett. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 ## 9. titel Cumissiun parlamentara d’inquisiziun
 
@@ -2596,7 +2603,7 @@ Per la relaziun uffiziala tranter l’Assamblea federala ed ils tribunals da la 
 
 <sup>5</sup> Per registrar las cumprovas vegnan applitgads tenor il senn ils artitgels 42–48 e 51–54 da la Lescha federala dals 4 da december 1947[^166-1] davart la procedura civila, uschenavant che questa lescha na dispona nagut auter.
 
-[^166-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^166-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 167
 
@@ -2634,7 +2641,7 @@ Per la relaziun uffiziala tranter l’Assamblea federala ed ils tribunals da la 
 
 <sup>3</sup> Davart las dumondas da prender invista da las actas durant il termin da protecziun tenor ils artitgels 9–12 da la Lescha d’archivaziun dals 26 da zercladur 1998[^169-1] decidan il president ed il vicepresident da la Cumissiun d’inquisiziun ubain – sche quels na fan betg pli part da la chombra – il president ed il vicepresident da la Delegaziun da las Cumissiuns da gestiun.
 
-[^169-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^169-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 170
 
@@ -2646,7 +2653,7 @@ Per la relaziun uffiziala tranter l’Assamblea federala ed ils tribunals da la 
 
 <sup>3</sup> Ils acts chastiabels, inclusiv la violaziun da l’obligaziun da discreziun tenor l’artitgel 169 alinea 1, suttastattan a la giurisdicziun federala.
 
-[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 171
 
@@ -2733,7 +2740,7 @@ Per las iniziativas federalas dal pievel ch’èn pendentas il mument che la mid
 Data da l’entrada en vigur: 1. da december 2003[^174-4]
 
 [^174-1]: 1. di da la sessiun d’enviern 2007 (3 da dec. 2007).
-[^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^174-2]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^174-3]: Ussa: Agiunta 1.
 [^174-4]: Decretà da la Conferenza da coordinaziun da la AF dals 16 da sett. 2002.
 
@@ -2802,9 +2809,9 @@ Las suandantas disposiziuns cuntegnan autorisaziuns legalas per dumagnar ina cri
 - 6\. artitgels 6 e 7 da la Lescha d’epidemias dals 28 da settember 2012[^t-8].
 
 [^t-2]: Integrà tras la cifra II da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 4 da dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^t-5]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^t-5]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)

@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2024-12-02
+version: 2025-09-08
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 2 dicembre 2024)
+del 13 dicembre 2002 (Stato 8 settembre 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 164 capoverso 1 lettera g della Costituzione federale[^ingres
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2001 3097](https://fedlex.data.admin.ch/eli/fga/2001/639)
 [^ingress-3]: [FF 2001 4887](https://fedlex.data.admin.ch/eli/fga/2001/853)
 
@@ -130,11 +130,14 @@ Per tutelare importanti interessi in materia di sicurezza o per motivi inerenti 
 
 <sup>2</sup> Possono presentare proposte in merito a oggetti in deliberazione e in merito a questioni procedurali.
 
+<sup>2bis</sup> I regolamenti delle Camere possono prevedere che i diritti di cui al capoverso 1 possano essere esercitati congiuntamente da più parlamentari.[^6-1]
+
 <sup>3</sup> Il diritto di parola e il tempo di parola possono essere limitati dai regolamenti delle Camere.
 
-<sup>4</sup> Se un’iniziativa, una mozione o un postulato sono controversi, una votazione può essere effettuata soltanto se l’autore ha avuto la possibilità di esporre oralmente le proprie motivazioni. Ha inoltre diritto di parola almeno chi per primo ha proposto la reiezione dell’intervento.[^6-1]
+<sup>4</sup> Se un’iniziativa, una mozione o un postulato sono controversi, una votazione può essere effettuata soltanto se l’autore ha avuto la possibilità di esporre oralmente le proprie motivazioni. Ha inoltre diritto di parola almeno chi per primo ha proposto la reiezione dell’intervento.[^6-2]
 
-[^6-1]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^6-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Presentazione di interventi e iniziative parlamentari), in vigore dall’8 set. 2025 ([RU 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^6-2]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 7
 
@@ -172,7 +175,7 @@ I parlamentari sono vincolati al segreto d’ufficio in quanto, nell’ambito de
 
 I parlamentari sono retribuiti dalla Confederazione per la loro attività ufficiale e ricevono dalla stessa un contributo a copertura delle relative spese. I particolari sono regolati dalla legge del 18 marzo 1988[^9-1] sulle indennità parlamentari.
 
-[^9-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^9-1]: [RS 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 #### Art. 10
 
@@ -228,7 +231,7 @@ All’entrata in funzione e all’inizio di ogni anno, ciascun parlamentare info
 [^11-2]: Nuovo testo giusta la cifra I della LF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-3]: Nuovo testo giusta la cifra I della LF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-4]: Introdotto dalla cifra I della LF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 5807](https://fedlex.data.admin.ch/eli/fga/2017/1995)[5873](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11-5]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 11a
 
@@ -354,7 +357,7 @@ Per togliere il segreto postale o il segreto delle telecomunicazioni a tenore de
 
 <sup>4</sup> L’incarcerazione è inammissibile senza l’autorizzazione delle commissioni competenti di ambo le Camere.[^18-3]
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^18-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^18-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Richieste di soppressione dell’immunità), in vigore dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
@@ -404,7 +407,7 @@ Se la necessità dell’autorizzazione secondo gli articoli 17–20 è controver
 
 <sup>3</sup> Il parlamentare può impugnare con ricorso al Tribunale federale la decisione della Delegazione amministrativa.
 
-[^21a-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21a-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ## Titolo terzo: Compiti dell’Assemblea federale
 
@@ -440,7 +443,7 @@ L’Assemblea federale sottopone le modifiche della Costituzione federale al vot
 
 <sup>4</sup> Collabora nelle associazioni parlamentari internazionali e cura le relazioni con i Parlamenti esteri.
 
-[^24-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^24-2]: Nuovo testo giusta la cifra I n. 1 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 [^24-3]: Nuovo testo giusta la cifra I n. 1 della LF del 21 giu. 2019 sulle competenze di concludere, modificare e denunciare trattati internazionali, in vigore dal 2 dic. 2019 ([RU 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 2929](https://fedlex.data.admin.ch/eli/fga/2018/1344)[4491](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
@@ -478,7 +481,7 @@ L’Assemblea federale esercita l’alta vigilanza attenendosi ai seguenti crite
 <sup>4</sup> L’alta vigilanza non include la competenza di abrogare o modificare decisioni. È escluso il controllo di merito delle decisioni giudiziarie e delle decisioni del Ministero pubblico della Confederazione.[^26-3]
 
 [^26-1]: Nuovo testo giusta l’all. cifra II n. 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^26-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^26-2]: [RS 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^26-3]: Nuovo testo del per. giusta l’all. cifra II n. 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 27
@@ -522,7 +525,7 @@ Essa coopera:
 
 <sup>4</sup> Qualora si scosti da mandati o decisioni di principio e programmatiche il Consiglio federale deve indicarne i motivi.
 
-[^28-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^28-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^28-2]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^28-3]: Introdotto dalla cifra I n. 1 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 
@@ -900,7 +903,7 @@ Le commissioni informano l’opinione pubblica sui risultati delle loro delibera
 <sup>6</sup> Decide a maggioranza dei membri votanti.
 
 [^51-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2010 concernente la salvaguardia della democrazia, dello Stato di diritto e della capacità di agire in situazioni straordinarie, in vigore dal 1° mag. 2011 ([RU 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1393](https://fedlex.data.admin.ch/eli/fga/2010/271)[2473](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^51-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^51-2]: [RS 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 ### Sezione 3: Commissioni della gestione
 
@@ -1030,7 +1033,7 @@ L’organizzazione, i compiti e la procedura di delegazioni che rappresentano l�
 
 <sup>5</sup> I gruppi ricevono un contributo a copertura delle spese di segreteria. I particolari sono disciplinati dalla legge del 18 marzo 1988[^62-1] sulle indennità parlamentari.
 
-[^62-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^62-1]: [RS 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 ### Capitolo 6: Intergruppi parlamentari
 
@@ -1657,7 +1660,7 @@ L’iter di un’iniziativa parlamentare è considerato appropriato segnatamente
 <sup>4</sup> Gli articoli 4 (obblighi di verifica) e 5 (stima dei costi della regolamentazione) della legge del 29 settembre 2023[^111-2] sullo sgravio delle imprese si applicano per analogia.[^111-3]
 
 [^111-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^111-2]: [RS 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-2]: [RS 930.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40201)
 [^111-3]: Introdotto dall’art. 21 della LF del 29 set. 2023 sullo sgravio delle imprese dai costi della regolamentazione, in vigore dal 1° ott. 2024 ([RU 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [FF 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
@@ -1674,7 +1677,7 @@ L’iter di un’iniziativa parlamentare è considerato appropriato segnatamente
 
 <sup>4</sup> Se il Consiglio federale propone una modifica, la commissione la esamina prima della trattazione del progetto nella Camera prioritaria.
 
-[^112-1]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^112-1]: [RS 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
 [^112-2]: Nuovo testo giusta l’art. 12 n. 1 della L del 18 mar. 2005 sulla consultazione, in vigore dal 1° set. 2005 ([RU 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [FF 2004 453](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^112-4]: Introdotto dalla cifra I della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1766,10 +1769,13 @@ Sono interventi parlamentari:
 
 <sup>4bis</sup> Sono rivolti all’autorità di vigilanza sul Ministero pubblico della Confederazione se si riferiscono alla gestione o alle finanze del Ministero pubblico della Confederazione e della sua autorità di vigilanza; le mozioni sono escluse.[^118-1]
 
-<sup>5</sup> In caso di interventi rivolti agli Uffici delle Camere e al Tribunale federale si applicano per analogia gli articoli 120–125.[^118-2]
+<sup>4ter</sup> Sono rivolti all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) se si riferiscono alla sua gestione o alle sue finanze; le mozioni sono escluse.[^118-2]
+
+<sup>5</sup> In caso di interventi rivolti agli Uffici delle Camere e al Tribunale federale si applicano per analogia gli articoli 120–125.[^118-3]
 
 [^118-1]: Introdotto dalla cifra I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^118-2]: La correzione della Commissione di redazione dell’AF del 15 feb. 2018, pubblicata il 27 feb. 2018, concerne soltanto il testo francese ([RU 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
+[^118-2]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Presentazione di interventi e iniziative parlamentari), in vigore dall’8 set. 2025 ([RU 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^118-3]: La correzione della Commissione di redazione dell’AF del 15 feb. 2018, pubblicata il 27 feb. 2018, concerne soltanto il testo francese ([RU 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
 
 #### Art. 119
 
@@ -1777,25 +1783,26 @@ Sono interventi parlamentari:
 
 <sup>1</sup> Gli interventi possono essere presentati dalla maggioranza di una commissione nonché, durante la sessione, da un gruppo o da un parlamentare.
 
-<sup>2</sup> Se un intervento è scindibile materialmente, i singoli punti possono essere discussi e votati separatamente.
+<sup>2</sup> Se un intervento è scindibile materialmente e formalmente, i singoli punti possono essere discussi e votati separatamente.[^119-1]
 
-<sup>3</sup> Il testo di un intervento depositato non può più essere modificato; è fatto salvo l’articolo 121 capoverso 3 lettera b.[^119-1]
+<sup>3</sup> Il testo di un intervento depositato non può più essere modificato; è fatto salvo l’articolo 121 capoverso 3 lettera b.[^119-2]
 
-<sup>4</sup> …[^119-2]
+<sup>4</sup> …[^119-3]
 
 <sup>5</sup>
 
 Un intervento di un parlamentare o di un gruppo parlamentare è tolto dal ruolo senza decisione della Camera se:
 
 - a. la Camera non lo ha trattato definitivamente entro due anni dalla sua presentazione; o
-- b. il suo autore non fa più parte della Camera e nessun altro parlamentare lo riprende nella prima settimana della sessione successiva.[^119-3]
+- b. il suo autore non fa più parte della Camera e nessun altro parlamentare lo riprende nella prima settimana della sessione successiva.[^119-4]
 
-<sup>6</sup> …[^119-4]
+<sup>6</sup> …[^119-5]
 
-[^119-1]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-2]: Abrogato dalla cifra I della LF del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-4]: Abrogato dalla cifra I della LF del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Presentazione di interventi e iniziative parlamentari), in vigore dall’8 set. 2025 ([RU 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^119-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Abrogato dalla cifra I della LF del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Diritto parlamentare. Diverse modifiche), in vigore dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-5]: Abrogato dalla cifra I della LF del 3 ott. 2008, con effetto dal 2 mar. 2009 ([RU 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1593](https://fedlex.data.admin.ch/eli/fga/2008/423)[2665](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Sezione 2: Mozione
 
@@ -2211,14 +2218,14 @@ Il Consiglio federale sottopone all’Assemblea federale:
 - b. i disegni di aggiunte ordinarie al preventivo e crediti aggiuntivi, due mesi prima della sessione in cui devono essere trattati;
 - c. il consuntivo della Confederazione, ogni anno due mesi prima della sessione in cui deve essere trattato.
 
-<sup>2</sup> Riprende nel suo disegno di preventivo e nel consuntivo della Confederazione, senza modificarli, i progetti di preventivo e i consuntivi dell’Assemblea federale, dei tribunali della Confederazione, del Controllo federale delle finanze, del Ministero pubblico della Confederazione, dell’autorità di vigilanza sul Ministero pubblico della Confederazione e dell’Incaricato federale della protezione dei dati e della trasparenza (IFPDT).[^142-2]
+<sup>2</sup> Riprende nel suo disegno di preventivo e nel consuntivo della Confederazione, senza modificarli, i progetti di preventivo e i consuntivi dell’Assemblea federale, dei tribunali della Confederazione, del Controllo federale delle finanze, del Ministero pubblico della Confederazione, dell’autorità di vigilanza sul Ministero pubblico della Confederazione e dell’IFPDT.[^142-2]
 
 <sup>3</sup> Il Tribunale federale difende i progetti di preventivo e il consuntivo dei tribunali della Confederazione dinnanzi all’Assemblea federale. Per l’Assemblea federale questo compito è assunto dalla Delegazione amministrativa, per il Controllo federale delle finanze dalla Delegazione delle finanze, per l’autorità di vigilanza sul Ministero pubblico della Confederazione e per il Ministero pubblico della Confederazione dall’autorità di vigilanza sul Ministero pubblico della Confederazione. L’IFPDT difende il suo progetto di preventivo e il suo consuntivo dinnanzi all’Assemblea federale.[^142-3] [^142-4]
 
 <sup>4</sup> Il Consiglio federale fa allestire entro il 30 giugno e il 30 settembre di ogni anno un calcolo approssimativo del risultato prevedibile dell’esercizio. Ne riferisce alle commissioni delle finanze.[^142-5]
 
 [^142-1]: Nuovo testo giusta l’art. 65 n. 1 della LF del 7 ott. 2005 sulle finanze della Confederazione, in vigore dal 1° mag. 2006 ([RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Nuovo testo giusta l’all. 1 cifra II n. 12 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Presentazione di interventi e iniziative parlamentari), in vigore dall’8 set. 2025 ([RU 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 [^142-3]: Terzo per. introdotto dall’all. 1 cifra II n. 12 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^142-4]: Nuovo testo giusta l’all. cifra II n. 2 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^142-5]: Introdotto dall’art. 65 n. 1 della LF del 7 ott. 2005 sulle finanze della Confederazione, in vigore dal 1° mag. 2006 ([RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
@@ -2306,7 +2313,7 @@ I regolamenti delle Camere possono prevedere che:
 
 <sup>4</sup> Su altre pianificazioni e rapporti importanti l’Assemblea federale può prendere decisioni di principio e programmatiche mediante decreto federale semplice o meno.
 
-[^148-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^148-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^148-2]: Introdotto cifra I n. 1 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^148-3]: Introdotto dalla cifra I della LF del 22 dic. 2023 (Rapporto d’indirizzo), in vigore dal 1° giu. 2024 ([RU 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [FF 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
@@ -2416,8 +2423,8 @@ Le commissioni di vigilanza decidono definitivamente sull’esercizio dei loro d
 <sup>7</sup> Prendono provvedimenti appropriati a tutela del segreto giusta l’articolo 150 capoverso 3. A tale scopo, nonché per il caso in cui i loro diritti d’informazione non fossero sufficienti per esercitare l’alta vigilanza, possono incaricare le loro delegazioni di chiarire una questione concreta. Emanano istruzioni sulla tutela del segreto applicabili nel loro settore di competenza. A tal fine limitano in particolare l’accesso ai corapporti.
 
 [^153-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Precisazione dei diritti d’informazione delle commissioni di vigilanza), in vigore dal 1° nov. 2011 ([RU 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1683](https://fedlex.data.admin.ch/eli/fga/2011/209)[1705](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^153-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^153-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^153-2]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^153-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 154
 
@@ -2473,7 +2480,7 @@ Per adempiere i loro compiti, le delegazioni delle commissioni di vigilanza hann
 
 <sup>6</sup> Alla procedura e ai diritti degli interessati sono applicabili gli articoli 166–171.
 
-[^155-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^155-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 156
 
@@ -2487,7 +2494,7 @@ Per adempiere i loro compiti, le delegazioni delle commissioni di vigilanza hann
 
 <sup>4</sup> Sono persone al servizio della Confederazione a tenore della presente legge il personale federale nonché le persone direttamente incaricate di compiti federali di diritto pubblico. Il rapporto di impiego non è determinante.
 
-[^156-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^156-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 157
 
@@ -2554,9 +2561,9 @@ Le relazioni di servizio tra l’Assemblea federale e i tribunali della Confeder
 
 <sup>4</sup> Le commissioni danno ai tribunali della Confederazione l’occasione di esprimersi su disegni di atti legislativi da esse esaminati e concernenti le competenze, l’organizzazione o l’amministrazione dei tribunali della Confederazione.
 
-<sup>5</sup> I capoversi 1–4 si applicano per analogia all’autorità di vigilanza sul Ministero pubblico della Confederazione.[^162-1]
+<sup>5</sup> I capoversi 1–4 si applicano per analogia all’autorità di vigilanza sul Ministero pubblico della Confederazione e all’IFPDT.[^162-1]
 
-[^162-1]: Introdotto dal’all. cifra II n. 2 della LF del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^162-1]: Introdotto dal’all. cifra II n. 2 della LF del 19 mar. 2010 sull’organizzazione delle autorità penali ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Presentazione di interventi e iniziative parlamentari), in vigore dall’8 set. 2025 ([RU 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 ## Titolo nono: Commissione parlamentare d’inchiesta
 
@@ -2578,7 +2585,7 @@ Le relazioni di servizio tra l’Assemblea federale e i tribunali della Confeder
 
 <sup>3</sup> La commissione d’inchiesta dispone di una propria segreteria. Il personale necessario è messo a disposizione dai Servizi del Parlamento. La commissione può assumere altro personale i cui rapporti di lavoro sono retti dal Codice delle obbligazioni[^164-1].
 
-[^164-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^164-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 165
 
@@ -2604,7 +2611,7 @@ Le relazioni di servizio tra l’Assemblea federale e i tribunali della Confeder
 
 <sup>5</sup> All’assunzione delle prove si applicano per analogia gli articoli 42–48 e 51–54 della legge federale del 4 dicembre 1947[^166-1] di procedura civile federale, sempre che la presente legge non disponga altrimenti.
 
-[^166-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^166-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 167
 
@@ -2642,7 +2649,7 @@ Le relazioni di servizio tra l’Assemblea federale e i tribunali della Confeder
 
 <sup>3</sup> Sulle domande di consultazione degli atti durante il termine di protezione secondo gli articoli 9–12 della legge sull’archiviazione del 26 giugno 1998[^169-1] decidono il presidente e il vicepresidente della commissione d’inchiesta o, se essi non fanno più parte della Camera, il presidente e il vicepresidente della Delegazione delle Commissioni della gestione.
 
-[^169-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^169-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 170
 
@@ -2654,7 +2661,7 @@ Le relazioni di servizio tra l’Assemblea federale e i tribunali della Confeder
 
 <sup>3</sup> I reati, compresa la violazione del segreto conformemente all’articolo 169 capoverso 1, sottostanno alla giurisdizione federale.
 
-[^170-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 171
 
@@ -2739,7 +2746,7 @@ Alle iniziative popolari federali pendenti al momento dell’entrata in vigore d
 Data dell’entrata in vigore: 1° dicembre 2003[^174-4]
 
 [^174-1]: I° giorno della sessione invernale del 2007, il 3 dic. 2007.
-[^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^174-2]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^174-3]: Ora: allegato 1
 [^174-4]: Dec. della Conferenza di coordinazione dell’AF del 16 set. 2002.
 
@@ -2808,9 +2815,9 @@ Le disposizioni seguenti conferiscono poteri di gestione delle crisi:
 - 6\. gli articoli 6 e 7 della legge del 28 settembre 2012[^t-8] sulle epidemie.
 
 [^t-2]: Introdotto dalla cifra II della LF del 17 mar. 2023 (Miglioramenti del funzionamento del Parlamento, in particolare in situazioni di crisi), in vigore dal 4 dic. 2023 ([RU 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^t-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^t-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^t-5]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^t-6]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^t-7]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^t-8]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^t-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^t-4]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^t-5]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^t-6]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^t-7]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^t-8]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)

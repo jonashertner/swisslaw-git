@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2024-12-02
+version: 2025-09-08
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 2 décembre 2024)
+du 13 décembre 2002 (État le 8 septembre 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 164, al. 1, let. g, de la Constitution[^ingress-1], vu le rapport de
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2001 3298](https://fedlex.data.admin.ch/eli/fga/2001/639)
 [^ingress-3]: [FF 2001 5181](https://fedlex.data.admin.ch/eli/fga/2001/853)
 
@@ -70,9 +70,9 @@ La session extraordinaire a lieu sans délai dans les cas suivants:
 
 <sup>4</sup> Les conseils se réunissent, en règle générale, au cours des mêmes semaines en session ordinaire ou en session extraordinaire.[^2-3]
 
-[^2-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^2-2]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^2-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^2-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 3
 
@@ -126,11 +126,14 @@ Si des intérêts majeurs relatifs à la sécurité du pays sont en jeu ou pour 
 
 <sup>2</sup> Il peut présenter des propositions concernant les objets pendants ou la procédure.
 
+<sup>2bis</sup> Les règlements des conseils peuvent prévoir que les droits visés à l’al. 1 peuvent être exercés conjointement par plusieurs députés.[^6-1]
+
 <sup>3</sup> Les règlements des conseils peuvent restreindre le droit de demander la parole et le temps de parole.
 
-<sup>4</sup> Une initiative parlementaire, une motion ou un postulat qui est contesté peut faire l’objet d’un vote uniquement si son auteur a eu l’occasion de développer oralement ses arguments. La parole est en outre accordée au moins à quiconque a été le premier à proposer le rejet du texte en question.[^6-1]
+<sup>4</sup> Une initiative parlementaire, une motion ou un postulat qui est contesté peut faire l’objet d’un vote uniquement si son auteur a eu l’occasion de développer oralement ses arguments. La parole est en outre accordée au moins à quiconque a été le premier à proposer le rejet du texte en question.[^6-2]
 
-[^6-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^6-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Dépôt des interventions et initiatives parlementaires), en vigueur depuis le 8 sept. 2025 ([RO 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^6-2]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 7
 
@@ -154,8 +157,8 @@ Un député peut se voir refuser des informations:
 
 <sup>6</sup> Pour préparer sa médiation, le collège présidentiel peut consulter tous les dossiers du Conseil fédéral et de l’administration fédérale qui lui sont utiles.
 
-[^7-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^7-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^7-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 8
 
@@ -169,7 +172,7 @@ Les députés sont tenus d’observer le secret de fonction sur tous les faits d
 
 La Confédération verse aux députés des indemnités journalières et des contributions destinées à couvrir les coûts qui résultent de leur activité parlementaire. Les modalités sont fixées dans la loi du 18 mars 1988 sur les moyens alloués aux parlementaires[^9-1].
 
-[^9-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^9-1]: [RS 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 #### Art. 10
 
@@ -221,10 +224,10 @@ Lorsqu’il entre en fonction et au début de chaque année civile, tout déput�
 
 <sup>4</sup> Le secret professionnel au sens du code pénal[^11-4] est réservé.
 
-[^11-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-3]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-3]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^11-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 11a
 
@@ -234,7 +237,7 @@ Lorsqu’il entre en fonction et au début de chaque année civile, tout déput�
 
 <sup>2</sup> Dans les cas litigieux, la commission ou la délégation concernée statue définitivement sur la récusation après avoir entendu le député concerné.
 
-[^11a-1]: Introduit par le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^11a-1]: Introduit par le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 12
 
@@ -309,9 +312,9 @@ Aucun député ne peut être tenu pour juridiquement responsable des propos qu�
 
 <sup>4</sup> Si une requête est manifestement infondée, les présidents des commissions compétentes peuvent, d’un commun accord, liquider l’affaire eux-mêmes. Ils en informent au préalable les commissions. Si la majorité d’une commission souhaite que la demande soit examinée, celle-ci est traitée selon la procédure ordinaire visée à l’art. 17*a*.[^17-3]
 
-[^17-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^17-2]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^17-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-2]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^17-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 17a
 
@@ -331,7 +334,7 @@ Aucun député ne peut être tenu pour juridiquement responsable des propos qu�
 
 <sup>7</sup> Si le député en cause est membre d’une des commissions compétentes, il se récuse.
 
-[^17a-1]: Introduit par le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17a-1]: Introduit par le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -350,9 +353,9 @@ La levée du secret des postes et des télécommunications au sens de l’art. 3
 
 <sup>4</sup> Aucune arrestation ne peut avoir lieu sans l’autorisation des commissions compétentes des deux conseils.[^18-3]
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^18-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^18-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^18-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 19
 
@@ -376,9 +379,9 @@ La levée du secret des postes et des télécommunications au sens de l’art. 3
 
 <sup>4</sup> Le droit de participer aux sessions ne peut être invoqué lorsqu’il s’agit d’une peine privative de liberté, prononcée par un jugement passé en force et dont l’exécution a été ordonnée hors session.
 
-[^20-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^20-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
-[^20-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^20-3]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), en vigueur depuis le 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 21
 
@@ -390,7 +393,7 @@ S’il y a désaccord sur la nécessité d’obtenir l’autorisation visée aux
 
 [^tit2-chap4-1]
 
-[^tit2-chap4-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit2-chap4-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 21a
 
@@ -400,7 +403,7 @@ S’il y a désaccord sur la nécessité d’obtenir l’autorisation visée aux
 
 <sup>3</sup> Le député peut contester la décision de la Délégation administrative auprès du Tribunal fédéral.
 
-[^21a-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21a-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ## Titre 3 Attributions de l’Assemblée fédérale
 
@@ -436,9 +439,9 @@ L’Assemblée fédérale soumet les modifications de la Constitution au vote du
 
 <sup>4</sup> Elle participe aux travaux d’assemblées parlementaires internationales et entretient des relations suivies avec les parlements étrangers.
 
-[^24-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^24-2]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
-[^24-3]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^24-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^24-2]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^24-3]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
 #### Art. 25
 
@@ -474,7 +477,7 @@ L’Assemblée fédérale exerce la haute surveillance dans le respect des crit�
 <sup>4</sup> La haute surveillance ne confère pas la compétence d’annuler ou de modifier une décision. Il ne peut être exercé aucun contrôle sur le fond des décisions judiciaires ni des décisions du Ministère public de la Confédération.[^26-3]
 
 [^26-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^26-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^26-2]: [RS 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^26-3]: Nouvelle teneur de la phrase selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 27
@@ -518,9 +521,9 @@ Dans ce cadre, l’Assemblée fédérale exerce les tâches suivantes:
 
 <sup>4</sup> Si le Conseil fédéral s’écarte d’un mandat ou d’un arrêté de principe et de planification, il doit en exposer les motifs.
 
-[^28-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^28-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
-[^28-3]: Introduit par le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^28-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^28-2]: Nouvelle teneur selon le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600), [3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^28-3]: Introduit par le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600), [3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 
 #### Art. 29
 
@@ -633,11 +636,11 @@ La Conférence de coordination exerce les attributions suivantes:
 
 <sup>5</sup> …[^37-5]
 
-[^37-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^37-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^37-2]: Abrogée par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), avec effet au 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^37-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^37-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^37-5]: Abrogé par le ch. I de la LF du 15 juin 2018, avec effet au 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^37-5]: Abrogé par le ch. I de la LF du 15 juin 2018, avec effet au 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 38
 
@@ -700,7 +703,7 @@ La Commission judiciaire est compétente pour préparer l’élection et la rév
 
 <sup>6</sup> Si les Commissions de gestion ou la Délégation des finances font des constatations qui mettent sérieusement en cause l’aptitude professionnelle ou personnelle du procureur général de la Confédération, d’un procureur général suppléant, d’un juge ou du préposé, elles les communiquent à la Commission judiciaire.[^40a-8]
 
-[^40a-1]: Introduit par le ch. II de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> août 2003 ([RO 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731), [2002 1128](https://fedlex.data.admin.ch/eli/fga/2002/147)).
+[^40a-1]: Introduit par le ch. II de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> août 2003 ([RO 2003 2119](https://fedlex.data.admin.ch/eli/oc/2003/310); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731); [2002 1128](https://fedlex.data.admin.ch/eli/fga/2002/147)).
 [^40a-2]: Introduite par l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^40a-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^40a-4]: Nouvelle teneur selon l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
@@ -745,7 +748,7 @@ La Commission judiciaire est compétente pour préparer l’élection et la rév
 
 <sup>4</sup> Les règlements des conseils précisent la durée du mandat des membres des commissions permanentes.
 
-[^43-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^43-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 44
 
@@ -764,7 +767,7 @@ Dans les limites des compétences qui leur sont conférées par la loi ou par le
 
 <sup>2</sup> Les commissions font rapport au conseil dont elles dépendent sur les objets qui leur ont été attribués et lui soumettent leurs propositions.
 
-[^44-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^44-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 45
 
@@ -825,7 +828,7 @@ Les personnes suivantes peuvent prendre part en ligne à une séance de commissi
 
 <sup>3</sup> En règle générale, les personnes au service de la Confédération soumettent à la commission concernée les documents écrits et les présentations visuelles en deux langues officielles. Dans l’invitation à la séance, il est précisé aux experts externes ainsi qu’aux représentants des cantons et des milieux intéressés qu’ils doivent tenir compte, dans la mesure du possible, du plurilinguisme au sein de la commission.[^46-1]
 
-[^46-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^46-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 47
 
@@ -843,7 +846,7 @@ Les personnes suivantes peuvent prendre part en ligne à une séance de commissi
 
 <sup>2</sup> Les commissions peuvent déclassifier leurs documents et les rendre accessibles au public, à l’exception des procès-verbaux de leurs séances. Les modalités de l’accès aux documents sont fixées par une ordonnance de l’Assemblée fédérale.
 
-[^47a-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^47a-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 48
 
@@ -865,7 +868,7 @@ Les commissions informent le public des résultats de leurs délibérations.
 
 <sup>5</sup> …[^49-1]
 
-[^49-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^49-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 2 Commissions des finances
 
@@ -879,7 +882,7 @@ Les commissions informent le public des résultats de leurs délibérations.
 
 <sup>3</sup> Les Commissions des finances sont invitées à présenter un co-rapport concernant les projets de crédits d’engagement et de plafonds de dépenses qui ne sont pas soumis à leur examen préalable. Elles disposent des mêmes droits que les commissions chargées de l’examen préalable s’agissant de la défense de leurs propositions devant les conseils.[^50-2]
 
-[^50-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^50-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^50-2]: Introduit par l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 51
@@ -898,8 +901,8 @@ Les commissions informent le public des résultats de leurs délibérations.
 
 <sup>6</sup> Elle prend ses décisions à la majorité des votants.
 
-[^51-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^51-2]: [RS 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^51-1]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271), [2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^51-2]: [RS 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 ### Section 3 Commissions de gestion
 
@@ -927,21 +930,21 @@ Les commissions informent le public des résultats de leurs délibérations.
 
 <sup>5</sup> Elle prend ses décisions à la majorité des votants.
 
-[^53-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^53-2]: Introduit par le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^53-3]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271)[2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^53-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^53-2]: Introduit par le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271), [2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
+[^53-3]: Nouvelle teneur selon le ch. I 2 de la LF du 17 déc. 2010 sur la sauvegarde de la démocratie, de l’État de droit et de la capacité d’action dans les situations extraordinaires, en vigueur depuis le 1<sup>er</sup> mai 2011 ([RO 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [FF 2010 1431](https://fedlex.data.admin.ch/eli/fga/2010/271), [2565](https://fedlex.data.admin.ch/eli/fga/2010/486)).
 
 ### Section 4 Rapport au conseil
 
 [^tit4-chap4-sec4-1]
 
-[^tit4-chap4-sec4-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit4-chap4-sec4-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 54
 
 [^54-1]
 
-[^54-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^54-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 55
 
@@ -949,7 +952,7 @@ Les commissions informent le public des résultats de leurs délibérations.
 
 Une fois par an, les Commissions des finances et les Commissions de gestion rendent compte au conseil dont elles dépendent des principaux résultats de leurs travaux.
 
-[^55-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^55-1]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 5 Commission de rédaction
 
@@ -1029,7 +1032,7 @@ Une ordonnance de l’Assemblée fédérale précise les attributions des délé
 
 <sup>5</sup> Il est alloué aux groupes une contribution destinée à couvrir leurs frais de secrétariat. Les modalités sont fixées par la loi du 18 mars 1988 sur les moyens alloués aux parlementaires[^62-1].
 
-[^62-1]: [RS 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^62-1]: [RS 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 ### Chapitre 6 Intergroupes parlementaires
 
@@ -1064,7 +1067,7 @@ Ils sont chargés:
 - f. d’assister l’Assemblée fédérale dans l’exercice de ses attributions en matière de relations internationales;
 - g. sous réserve des attributions des organes des conseils, d’assumer toutes les autres tâches relevant de l’administration du Parlement.
 
-[^64-1]: Introduite par le ch. I de la LF du 16 mars 2018 (Loi sur le parlement), en vigueur depuis le 26 nov. 2018 ([RO 2018 3547](https://fedlex.data.admin.ch/eli/oc/2018/582); [FF 2017 6503](https://fedlex.data.admin.ch/eli/fga/2017/2000)6517).
+[^64-1]: Introduite par le ch. I de la LF du 16 mars 2018 (Loi sur le parlement), en vigueur depuis le 26 nov. 2018 ([RO 2018 3547](https://fedlex.data.admin.ch/eli/oc/2018/582); [FF 2017 6503](https://fedlex.data.admin.ch/eli/fga/2017/2000), 6517).
 
 #### Art. 65
 
@@ -1178,8 +1181,8 @@ L’Assemblée fédérale délibère notamment:
 <sup>6</sup> Un projet d’acte qui a fait l’objet d’une décision d’entrée en matière peut être classé sur proposition de la commission chargée de l’examen préalable ou du Conseil fédéral s’il est devenu sans objet.[^74-3]
 
 [^74-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^74-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^74-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^74-2]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58 al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^74-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 75
 
@@ -1214,10 +1217,10 @@ Un projet d’acte peut être déposé sous forme de proposition uniquement si:
 
 <sup>4</sup> Une proposition rejetée par la majorité d’une commission peut néanmoins être déposée par une minorité (proposition de minorité).
 
-[^76-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^76-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^76-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^76-3]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^76-4]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-3]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^76-4]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 77
 
@@ -1229,7 +1232,7 @@ Un projet d’acte peut être déposé sous forme de proposition uniquement si:
 
 <sup>3</sup> Si la clause d’urgence est rejetée, la Commission de rédaction modifie, après avoir consulté les présidents des commissions chargées de l’examen préalable, la formulation des dispositions relatives au référendum et à l’entrée en vigueur.[^77-1]
 
-[^77-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^77-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 78
 
@@ -1252,7 +1255,7 @@ Les voix sont toujours comptées lorsqu’il s’agit:
 - c. d’un vote sur une disposition dont l’adoption requiert l’approbation de la majorité des membres de chaque conseil (art. 159, al. 3, de la Constitution);
 - d. d’un vote final.[^78-1]
 
-[^78-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^78-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 79
 
@@ -1266,7 +1269,7 @@ Les voix sont toujours comptées lorsqu’il s’agit:
 
 <sup>4</sup> Le dépôt d’une proposition subsidiaire ne modifie pas l’ordre des votes.[^79-1]
 
-[^79-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^79-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 80
 
@@ -1294,8 +1297,8 @@ Un vote final a lieu sur:
 
 <sup>3</sup> Si le projet est rejeté par un des conseils ou les deux, il est réputé avoir été refusé.
 
-[^81-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^81-2]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^81-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^81-2]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 82
 
@@ -1343,7 +1346,7 @@ Les règlements des conseils précisent dans quels cas le résultat des votes es
 
 <sup>4</sup> Tout arrêté fédéral concernant un contre-projet à une initiative populaire est transmis à l’autre conseil avec l’arrêté fédéral concernant l’initiative en question.[^86-1]
 
-[^86-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^86-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 87
 
@@ -1383,7 +1386,7 @@ Les règlements des conseils précisent dans quels cas le résultat des votes es
 
 Si les commissions des deux conseils chargées de l’examen préalable en font conjointement la proposition, les conseils peuvent décider de classer un projet d’acte pendant la procédure d’élimination des divergences ou après clôture de celle-ci.
 
-[^90-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^90-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 91
 
@@ -1395,7 +1398,7 @@ Si les commissions des deux conseils chargées de l’examen préalable en font 
 
 <sup>3</sup> La conférence est présidée par le président de la commission du conseil prioritaire. La suppléance du président et des membres de la conférence de conciliation est régie par les dispositions pertinentes des règlements des conseils.[^91-1]
 
-[^91-1]: Phrase introduite par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^91-1]: Phrase introduite par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 92
 
@@ -1431,7 +1434,7 @@ Si une proposition de conciliation portant sur l’arrêté fédéral relatif au
 
 <sup>3</sup> En cas de rejet d’une proposition de conciliation, la disposition concernée est biffée*.*
 
-[^94a-1]: Introduit par le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^94a-1]: Introduit par le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164), [1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 [^94a-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024 (Examen du budget), en vigueur depuis le 9 sept. 2024 ([RO 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [FF 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
 [^94a-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024 (Examen du budget), en vigueur depuis le 9 sept. 2024 ([RO 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [FF 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
 [^94a-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
@@ -1453,8 +1456,8 @@ Si les divergences entre les conseils se rapportent à un objet dans son entier,
 - i.[^95-2] …
 - j. le maintien en délibération d’un objet qu’il a été proposé de classer.
 
-[^95-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^95-2]: Abrogée par le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), avec effet au 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^95-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^95-2]: Abrogée par le ch. I de la LF du 17 juin 2011 (Examen des requêtes visant à lever l’immunité), avec effet au 5 déc. 2011 ([RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 ### Chapitre 3 Procédure applicable au traitement des initiatives populaires
 
@@ -1483,8 +1486,8 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 
 <sup>3</sup> Si le Conseil fédéral ne soumet pas un projet d’arrêté fédéral accompagné d’un message à l’Assemblée fédérale dans le délai imparti, une commission compétente peut élaborer le projet d’acte nécessaire.[^97-2]
 
-[^97-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^97-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^97-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^97-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 98
 
@@ -1496,7 +1499,7 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 
 <sup>3</sup> Si la proposition de conciliation portant sur la recommandation de vote est rejetée, seule la disposition concernée est biffée en dérogation à l’art. 93, al. 2.[^98-1]
 
-[^98-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^98-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 99
 
@@ -1506,7 +1509,7 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 
 <sup>2</sup> Est réservée la compétence de la Commission de rédaction de corriger les erreurs de traduction manifestes et de procéder aux adaptations formelles nécessaires afin d’intégrer la modification proposée dans la Constitution. La commission donne au comité d’initiative la possibilité de prendre position.[^99-1]
 
-[^99-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^99-1]: Introduit par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 ### b. Initiative populaire revêtant la forme d’un projet rédigé
 
@@ -1526,7 +1529,7 @@ Dans un délai de 30 mois à compter du dépôt d’une initiative revêtant la 
 
 <sup>3</sup> Le vote final sur l’arrêté fédéral concernant le contre-projet a lieu au plus tard huit jours avant la fin de la session qui précède l’expiration du délai dans lequel l’initiative doit être examinée. Si l’un des conseils rejette cet arrêté au vote final, la conférence de conciliation propose la recommandation de vote qui doit figurer dans l’arrêté fédéral concernant l’initiative. Aucun contre-projet ne peut plus être proposé.
 
-[^101-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^101-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 102
 
@@ -1541,7 +1544,7 @@ Lorsque l’Assemblée fédérale soumet au vote du peuple et des cantons une in
 
 <sup>2</sup> Lorsque l’Assemblée fédérale recommande d’accepter à la fois l’initiative et le contre-projet, elle recommande aussi de donner la préférence au contre-projet dans la question subsidiaire.
 
-[^102-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^102-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### c. Initiative populaire revêtant la forme d’une proposition conçue en termes généraux
 
@@ -1575,7 +1578,7 @@ Lorsque l’Assemblée fédérale soumet au vote du peuple et des cantons une in
 
 <sup>2</sup> Si les conseils ne parviennent pas à prendre de décision concordante sur la prorogation du délai, celui-ci n’est pas prorogé.
 
-[^105-1]: Introduit par le ch. II de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire) ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699)[3161](https://fedlex.data.admin.ch/eli/fga/2009/701)). Abrogé par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), avec effet au 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^105-1]: Introduit par le ch. II de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire) ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699), [3161](https://fedlex.data.admin.ch/eli/fga/2009/701)). Abrogé par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), avec effet au 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 106
 
@@ -1595,7 +1598,7 @@ Si les conseils ne parviennent pas à prendre de décision concordante dans le d
 
 <sup>3</sup> Une commission peut présenter un projet d’acte à son conseil au moyen d’une initiative parlementaire.
 
-[^107-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^107-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 108
 
@@ -1619,11 +1622,11 @@ Les initiatives parlementaires déposées par un député ou par un groupe sont 
 
 <sup>5</sup> Si l’auteur de l’initiative quitte le conseil et qu’aucun autre député n’a repris l’initiative à son compte pendant la première semaine de la session suivante, l’initiative est classée sans décision du conseil, sauf si la commission y avait déjà donné suite.[^109-5]
 
-[^109-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
-[^109-2]: Phrase introduite par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^109-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
-[^109-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^109-5]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^109-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
+[^109-2]: Phrase introduite par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^109-3]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
+[^109-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^109-5]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 110
 
@@ -1655,8 +1658,8 @@ La forme de l’initiative parlementaire est jugée appropriée, en particulier:
 
 <sup>4</sup> Les art. 4 (vérifications préalables) et 5 (estimation des coûts de la réglementation) de la loi fédérale du 29 septembre 2023 sur l’allégement des coûts de la réglementation pour les entreprises[^111-2] s’appliquent par analogie.[^111-3]
 
-[^111-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^111-2]: [RS 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-2]: [RS 930.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40201)
 [^111-3]: Introduit par l’art. 21 de la LF du 29 sept. 2023 sur l’allégement des coûts de la réglementation pour les entreprises, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [FF 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
@@ -1673,9 +1676,9 @@ La forme de l’initiative parlementaire est jugée appropriée, en particulier:
 
 <sup>4</sup> En cas de modification proposée par le Conseil fédéral, la commission l’examine avant que le projet d’acte ne soit traité par le premier conseil.
 
-[^112-1]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^112-1]: [RS 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
 [^112-2]: Nouvelle teneur selon l’art. 12 ch. 1 de la LF du 18 mars 2005 sur la consultation, en vigueur depuis le 1<sup>er</sup> sept. 2005 ([RO 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/127)).
-[^112-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^112-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^112-4]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 113
@@ -1701,8 +1704,8 @@ La commission peut proposer au conseil dont elle dépend de classer l’initiati
 
 <sup>2</sup> Le projet du conseil prioritaire est défendu devant la commission du second conseil par un membre de la commission qui l’a élaboré.
 
-[^114-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^114-2]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^114-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^114-2]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### Chapitre 5 Procédure applicable au traitement des initiatives déposées par un canton
 
@@ -1714,7 +1717,7 @@ La commission peut proposer au conseil dont elle dépend de classer l’initiati
 
 <sup>2</sup> L’initiative fait l’objet d’un développement. Celui-ci comporte notamment les objectifs de l’acte.
 
-[^115-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^115-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 116
 
@@ -1730,7 +1733,7 @@ La commission peut proposer au conseil dont elle dépend de classer l’initiati
 
 <sup>4</sup> Lorsqu’elle procède à l’examen préalable de l’initiative, la commission du conseil prioritaire entend une délégation du canton.
 
-[^116-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
+[^116-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)). Voir la disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 117
 
@@ -1765,10 +1768,13 @@ Les interventions parlementaires sont:
 
 <sup>4bis</sup> Lorsqu’elles se rapportent à la gestion des affaires ou à la gestion financière du Ministère public de la Confédération et de son autorité de surveillance, elles s’adressent à l’autorité de surveillance du Ministère public de la Confédération; le dépôt d’une motion est exclu.[^118-1]
 
-<sup>5</sup> Les art. 120 à 125 s’appliquent par analogie à la procédure relative aux interventions adressées aux Bureaux des conseils ou aux tribunaux fédéraux.[^118-2]
+<sup>4ter</sup> Lorsqu’elles se rapportent à sa gestion des affaires ou à sa gestion financière, elles s’adressent au Préposé fédéral à la protection des données et à la transparence (PFPDT); le dépôt d’une motion est exclu.[^118-2]
 
-[^118-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^118-2]: Erratum de la CdR de l’Ass. féd. du 15 fév. 2018, publié le 27 fév. 2018 ([RO 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
+<sup>5</sup> Les art. 120 à 125 s’appliquent par analogie à la procédure relative aux interventions adressées aux Bureaux des conseils ou aux tribunaux fédéraux.[^118-3]
+
+[^118-1]: Introduit par le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^118-2]: Introduit par le ch. I de la LF du 21 mars 2025 (Dépôt des interventions et initiatives parlementaires), en vigueur depuis le 8 sept. 2025 ([RO 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^118-3]: Erratum de la CdR de l’Ass. féd. du 15 fév. 2018, publié le 27 fév. 2018 ([RO 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
 
 #### Art. 119
 
@@ -1776,25 +1782,26 @@ Les interventions parlementaires sont:
 
 <sup>1</sup> Une intervention peut être déposée par la majorité d’une commission et, pendant les sessions uniquement, par un groupe parlementaire ou par un député.
 
-<sup>2</sup> Lorsqu’une intervention concerne plusieurs points matériellement distincts, chacun d’eux peut faire l’objet d’une délibération et d’un vote distincts.
+<sup>2</sup> Lorsqu’une intervention concerne plusieurs points matériellement et formellement distincts, chacun d’eux peut faire l’objet d’une délibération et d’un vote distincts.[^119-1]
 
-<sup>3</sup> Le libellé d’une intervention ne peut être modifié après le dépôt de celle-ci; l’art. 121, al. 3, let. b, est réservé.[^119-1]
+<sup>3</sup> Le libellé d’une intervention ne peut être modifié après le dépôt de celle-ci; l’art. 121, al. 3, let. b, est réservé.[^119-2]
 
-<sup>4</sup> …[^119-2]
+<sup>4</sup> …[^119-3]
 
 <sup>5</sup>
 
 Une intervention déposée par un député ou un groupe parlementaire est classée sans décision du conseil:
 
 - a. si le conseil n’a pas achevé son examen dans un délai de deux ans à compter de son dépôt;
-- b. si son auteur a quitté le conseil et qu’aucun autre député n’a repris l’intervention à son compte pendant la première semaine de la session suivante.[^119-3]
+- b. si son auteur a quitté le conseil et qu’aucun autre député n’a repris l’intervention à son compte pendant la première semaine de la session suivante.[^119-4]
 
-<sup>6</sup> …[^119-4]
+<sup>6</sup> …[^119-5]
 
-[^119-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-2]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-3]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-4]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dépôt des interventions et initiatives parlementaires), en vigueur depuis le 8 sept. 2025 ([RO 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^119-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-5]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 2 Motion
 
@@ -1844,7 +1851,7 @@ Une motion est définitivement adoptée par le conseil prioritaire sans être tr
 - a. si elle concerne l’organisation ou le fonctionnement du conseil où elle a été déposée;
 - b. si elle a été déposée par une commission et qu’une motion de teneur identique déposée par une commission est adoptée par l’autre conseil.
 
-[^121-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^121-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^121-2]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^121-3]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^121-4]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Procédure d’élimination des divergences pour les motions), en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 612](https://fedlex.data.admin.ch/eli/oc/2021/612); [FF 2020 9001](https://fedlex.data.admin.ch/eli/fga/2020/2508); [2021 138](https://fedlex.data.admin.ch/eli/fga/2021/138)).
@@ -1880,7 +1887,7 @@ Le classement d’une motion peut également être proposé si, bien que son obj
 
 <sup>6</sup> Si le Conseil fédéral ne respecte pas le délai fixé, les conseils, sur proposition de la commission compétente, décident à la session ordinaire suivante, soit de prolonger une nouvelle fois le délai, soit de classer la motion.
 
-[^122-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007 (Caractère contraignant de la motion), en vigueur depuis le 26 mai 2008 ([RO 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [FF 2007 1379](https://fedlex.data.admin.ch/eli/fga/2007/198)[2025](https://fedlex.data.admin.ch/eli/fga/2007/329)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^122-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007 (Caractère contraignant de la motion), en vigueur depuis le 26 mai 2008 ([RO 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [FF 2007 1379](https://fedlex.data.admin.ch/eli/fga/2007/198), [2025](https://fedlex.data.admin.ch/eli/fga/2007/329)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 [^122-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^122-3]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 [^122-4]: Introduit par le ch. I de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1907,7 +1914,7 @@ Le postulat charge le Conseil fédéral d’examiner l’opportunité, soit de d
 
 <sup>5</sup> Sur proposition motivée du Conseil fédéral ou d’une commission, un postulat est classé lorsque son objectif a été atteint ou qu’il n’est plus justifié de le maintenir. Le classement d’un postulat est soumis à l’approbation du conseil qui l’a adopté.
 
-[^124-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^124-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 4 Interpellation et question
 
@@ -1929,7 +1936,7 @@ Le postulat charge le Conseil fédéral d’examiner l’opportunité, soit de d
 
 [^tit5-chap7-sec1-1]
 
-[^tit5-chap7-sec1-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit5-chap7-sec1-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 126
 
@@ -1948,7 +1955,7 @@ Le président de la commission chargée de l’examen préalable peut répondre 
 - a. son objectif ne peut être atteint par une initiative ou une intervention parlementaires ou par une proposition;
 - b. son contenu est manifestement aberrant, abusif ou offensant.
 
-[^126-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^126-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 127
 
@@ -1956,7 +1963,7 @@ Le président de la commission chargée de l’examen préalable peut répondre 
 
 Si la commission donne suite à la pétition, elle reprend à son compte l’objectif visé et élabore une initiative ou une intervention parlementaires.
 
-[^127-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^127-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 128
 
@@ -1972,13 +1979,13 @@ La commission propose à son conseil de ne pas donner suite à la pétition dans
 
 <sup>2</sup> Si le conseil, s’écartant de la proposition de sa commission, donne suite à la pétition, il renvoie celle-ci à la commission et la charge de reprendre à son compte l’objectif de la pétition au moyen d’une initiative ou d’une intervention parlementaires.
 
-[^128-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^128-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 2 Requête
 
 [^tit5-chap7-sec2-1]
 
-[^tit5-chap7-sec2-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit5-chap7-sec2-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 129
 
@@ -2000,7 +2007,7 @@ La requête qui se rapporte à la gestion des affaires ou à la gestion financi�
 
 [^tit6-1]
 
-[^tit6-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit6-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Chapitre 1 Dispositions générales relatives aux élections
 
@@ -2059,7 +2066,7 @@ Est éliminée toute personne:
 
 <sup>3</sup> Si plusieurs sièges sont vacants, ils sont pourvus par ordre d’ancienneté des titulaires précédents.
 
-[^133-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^133-1]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 134
 
@@ -2130,7 +2137,7 @@ L’Assemblée fédérale procède aux autres élections prévues par la Constit
 
 [^tit6-chap6-1]
 
-[^tit6-chap6-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^tit6-chap6-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 #### Art. 140a
 
@@ -2181,14 +2188,14 @@ Dans son message, le Conseil fédéral motive son projet d’acte et en commente
 - j.[^141-9] les conséquences que le projet aura pour les Suisses de l’étranger.
 
 [^141-1]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-2]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-3]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-4]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-5]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^141-6]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-7]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-8]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^141-9]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-2]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-3]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-4]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-5]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^141-6]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-7]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-8]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^141-9]: Introduite par le ch. I de la LF du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 
 #### Art. 142
 
@@ -2202,14 +2209,14 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 - b. les projets de suppléments ordinaires et de crédits supplémentaires, au plus tard deux mois avant le début de la session au cours de laquelle ils doivent être traités;
 - c. le compte d’État, chaque année au plus tard deux mois avant le début de la session au cours de laquelle il doit être traité.
 
-<sup>2</sup> Il reprend tels quels dans son projet de budget et dans le compte d’État les projets de budget et les comptes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances, du Ministère public de la Confédération, de l’Autorité de surveillance du Ministère public de la Confédération et du Préposé fédéral à la protection des données et à la transparence (PFPDT).[^142-2]
+<sup>2</sup> Il reprend tels quels dans son projet de budget et dans le compte d’État les projets de budget et les comptes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances, du Ministère public de la Confédération, de l’Autorité de surveillance du Ministère public de la Confédération et du PFPDT.[^142-2]
 
 <sup>3</sup> Le Tribunal fédéral défend les projets de budget et les comptes des tribunaux fédéraux devant l’Assemblée fédérale. Le projet de budget et le compte de l’Assemblée fédérale sont défendus par la Délégation administrative de l’Assemblée fédérale, ceux du Contrôle fédéral des finances par la Délégation des finances, et ceux du Ministère public de la Confédération et de l’Autorité de surveillance du Ministère public de la Confédération, par l’autorité de surveillance du Ministère public de la Confédération. Le PFPDT défend son projet de budget et ses comptes devant l’Assemblée fédérale.[^142-3] [^142-4]
 
 <sup>4</sup> Le Conseil fédéral fait établir chaque année au 30 juin et au 30 septembre un calcul approximatif du résultat prévisible de l’exercice. Il en informe les Commissions des finances.[^142-5]
 
 [^142-1]: Nouvelle teneur selon l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Nouvelle teneur selon l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dépôt des interventions et initiatives parlementaires), en vigueur depuis le 8 sept. 2025 ([RO 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 [^142-3]: Phrase introduite par l’annexe 1 ch. II 12 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^142-4]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^142-5]: Introduit par l’art. 65 ch. 1 de la LF du 7 oct. 2005 sur les finances, en vigueur depuis le 1<sup>er</sup> mai 2006 ([RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [FF 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
@@ -2240,7 +2247,7 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 
 <sup>3</sup> Dans son rapport de gestion, le Conseil fédéral présente les points forts de son activité pour l’année sous revue. Il rend compte du degré de réalisation des principaux objectifs qui avaient été prévus pour l’année, de la mise en œuvre du programme de la législature et du programme législatif, et de l’état des indicateurs pertinents pour l’appréciation globale de la situation et l’évaluation du degré de réalisation des objectifs. Il justifie les écarts éventuellement survenus entre-temps ainsi que les projets qu’il n’avait pas prévus.[^144-1]
 
-[^144-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^144-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164), [1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 145
 
@@ -2264,7 +2271,7 @@ Le Conseil fédéral soumet à l’Assemblée fédérale:
 
 <sup>4</sup> Le message présente le plan financier de la législature. Celui-ci fixe les besoins financiers pour la législature et indique leur financement. Les objectifs et les mesures du programme de la législature et du plan financier de la législature sont coordonnés par objets et par échéances.
 
-[^146-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^146-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164), [1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 147
 
@@ -2279,7 +2286,7 @@ Les règlements des conseils peuvent prévoir:
 - a. que le conseil, lors de l’examen du programme de la législature, se prononce uniquement sur les propositions déposées par la majorité ou par une minorité de la commission chargée de l’examen préalable;
 - b. que les autres propositions doivent être déposées à la commission avant qu’elle entame la discussion par article sur le projet d’acte.
 
-[^147-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^147-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164), [1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
 
 #### Art. 148
 
@@ -2297,8 +2304,8 @@ Les règlements des conseils peuvent prévoir:
 
 <sup>4</sup> L’Assemblée fédérale peut prendre les arrêtés de principe et de planification concernant d’autres planifications ou rapports importants, sous la forme d’arrêtés fédéraux simples ou d’arrêtés fédéraux.
 
-[^148-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^148-2]: Introduit par le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600)[3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
+[^148-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^148-2]: Introduit par le ch. I 1 de la LF du 17 déc. 2010 relative à la participation de l’Ass. féd. au pilotage des entités devenues autonomes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807);[FF 2010 3057](https://fedlex.data.admin.ch/eli/fga/2010/600), [3095](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^148-3]: Introduit par le ch. I de la LF du 22 déc. 2023 (Rapport de planification), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [FF 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
 #### Art. 149
@@ -2340,7 +2347,7 @@ Elles peuvent se voir refuser des informations:
 
 <sup>7</sup> Pour préparer sa médiation, le collège présidentiel peut consulter tous dossiers utiles du Conseil fédéral et de l’administration fédérale.
 
-[^150-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^150-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 151
 
@@ -2380,8 +2387,8 @@ Le Conseil fédéral consulte les commissions compétentes avant:
 <sup>5</sup> Les commissions compétentes en matière de politique extérieure ou d’autres commissions compétentes peuvent demander au Conseil fédéral qu’il les informe ou les consulte.
 
 [^152-1]: Nouvelle teneur selon l’annexe ch. III 1 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^152-2]: Introduit par le ch. I 2 de la LF du 8 oct. 2004 sur l’application à titre provisoire de traités internationaux ([RO 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [FF 2004 703](https://fedlex.data.admin.ch/eli/fga/2004/149)[939](https://fedlex.data.admin.ch/eli/fga/2004/187)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
-[^152-3]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344)[5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^152-2]: Introduit par le ch. I 2 de la LF du 8 oct. 2004 sur l’application à titre provisoire de traités internationaux ([RO 2005 1245](https://fedlex.data.admin.ch/eli/oc/2005/184); [FF 2004 703](https://fedlex.data.admin.ch/eli/fga/2004/149)[939](https://fedlex.data.admin.ch/eli/fga/2004/187)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
+[^152-3]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur les compétences en matière de conclusion, de modification et de dénonciation des traités internationaux, en vigueur depuis le 2 déc. 2019 ([RO 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [FF 2018 3591](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5405](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
 #### Art. 153
 
@@ -2406,9 +2413,9 @@ Les commissions de surveillance statuent définitivement sur l’exercice de leu
 
 <sup>7</sup> Les commissions de surveillance prennent toutes mesures appropriées pour garantir le maintien du secret, conformément à l’art. 150, al. 3. À cet effet, ou si leur droit à l’information n’est pas suffisant pour leur permettre d’exercer leurs attributions en matière de haute surveillance, elles peuvent charger leurs délégations d’élucider une question particulière. Elles émettent des directives relatives au maintien du secret applicables dans leur domaine de compétences. Elles y restreignent en particulier l’accès aux co-rapports.
 
-[^153-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^153-2]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^153-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^153-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^153-2]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^153-3]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 154
 
@@ -2431,8 +2438,8 @@ Outre le droit à l’information prévu aux art. 150 et 153, les délégations 
 
 <sup>3</sup> Toutes les décisions du Conseil fédéral sont communiquées au fur et à mesure à la Délégation des finances et à la Délégation des Commissions de gestion, accompagnées des propositions et des co-rapports correspondants. Les délégations concernées fixent ensemble les modalités de la transmission, de la consultation et de l’archivage des documents.[^154-2]
 
-[^154-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^154-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209)[1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
+[^154-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011 (Précision du droit à l’information des commissions de surveillance), en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [FF 2011 1727](https://fedlex.data.admin.ch/eli/fga/2011/209), [1749](https://fedlex.data.admin.ch/eli/fga/2011/211)).
 
 #### Art. 154a
 
@@ -2464,7 +2471,7 @@ Outre le droit à l’information prévu aux art. 150 et 153, les délégations 
 
 <sup>6</sup> La procédure et les droits des personnes concernées sont régis par les art. 166 à 171.
 
-[^155-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^155-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 156
 
@@ -2478,7 +2485,7 @@ Outre le droit à l’information prévu aux art. 150 et 153, les délégations 
 
 <sup>4</sup> Les personnes au service de la Confédération sont, au sens de la présente loi, le personnel de la Confédération et les personnes qui sont chargées directement de tâches de droit public pour le compte de la Confédération. La nature du rapport de travail n’est pas déterminante.
 
-[^156-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^156-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 157
 
@@ -2545,9 +2552,9 @@ Les dispositions suivantes relatives aux relations entre l’Assemblée fédéra
 
 <sup>4</sup> Les commissions donnent aux tribunaux fédéraux la possibilité de se prononcer lorsqu’elles procèdent à l’examen préalable d’actes qui concernent les compétences, lon organisation ou l’administration de ceux-ci.
 
-<sup>5</sup> Les al. 1 à 4 s’appliquent par analogie à l’Autorité de surveillance du Ministère public de la Confédération.[^162-1]
+<sup>5</sup> Les al. 1 à 4 s’appliquent par analogie à l’Autorité de surveillance du Ministère public de la Confédération et au PFPDT.[^162-1]
 
-[^162-1]: Introduit par l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^162-1]: Introduit par l’annexe ch. II 2 de la LF du 19 mars 2010 sur l’organisation des autorités pénales ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Dépôt des interventions et initiatives parlementaires), en vigueur depuis le 8 sept. 2025 ([RO 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [FF 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 ## Titre 9 Commission d’enquête parlementaire
 
@@ -2569,7 +2576,7 @@ Les dispositions suivantes relatives aux relations entre l’Assemblée fédéra
 
 <sup>3</sup> La commission d’enquête dispose de son propre secrétariat. Les Services du Parlement mettent à sa disposition le personnel dont elle a besoin. La commission peut engager du personnel supplémentaire sur la base de rapports de travail régis par le code des obligations[^164-1].
 
-[^164-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^164-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 165
 
@@ -2595,7 +2602,7 @@ Les dispositions suivantes relatives aux relations entre l’Assemblée fédéra
 
 <sup>5</sup> Sauf disposition contraire de la présente loi, les art. 42 à 48 et 51 à 54 de la loi fédérale de procédure civile fédérale du 4 décembre 1947[^166-1] s’appliquent par analogie à l’administration des preuves.
 
-[^166-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^166-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 167
 
@@ -2633,7 +2640,7 @@ Les dispositions suivantes relatives aux relations entre l’Assemblée fédéra
 
 <sup>3</sup> Le président et le vice-président de la commission d’enquête, ou, s’ils ont quitté le conseil, le président et le vice-président de la délégation des Commissions de gestion, statuent sur les demandes de consultation des dossiers faites pendant les délais de protection prévus aux art. 9 à 12 de la loi du 26 juin 1998 sur l’archivage[^169-1].
 
-[^169-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^169-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 170
 
@@ -2645,7 +2652,7 @@ Les dispositions suivantes relatives aux relations entre l’Assemblée fédéra
 
 <sup>3</sup> Les actes punissables, y compris la violation de l’obligation de garder le secret visée à l’art. 169, al. 1, sont soumis à la juridiction pénale fédérale.
 
-[^170-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 171
 
@@ -2705,7 +2712,7 @@ Les art. 163 à 171 ne sont applicables qu’aux commissions instituées après 
 
 [^173-subdivu6-1]
 
-[^173-subdivu6-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423)[2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^173-subdivu6-1]: Introduit par le ch. I de la LF du 3 oct. 2008, en vigueur depuis le 2 mars 2009 ([RO 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [FF 2008 1687](https://fedlex.data.admin.ch/eli/fga/2008/423), [2813](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 Les modifications apportées aux art. 86, al. 4, 97, al. 2, et 101, al. 2 et 3, s’appliquent aux initiatives populaires pour lesquelles le Conseil fédéral, au moment de l’entrée en vigueur de la modification du 3 octobre 2008, n’a pas encore présenté à l’Assemblée fédérale de projet d’arrêté fédéral concernant l’initiative.
 
@@ -2713,7 +2720,7 @@ Les modifications apportées aux art. 86, al. 4, 97, al. 2, et 101, al. 2 et 3, 
 
 [^173-subdivu7-1]
 
-[^173-subdivu7-1]: Introduit par le ch. II de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire), en vigueur depuis le 1<sup>er</sup> fév. 2010 ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699)[3161](https://fedlex.data.admin.ch/eli/fga/2009/701)).
+[^173-subdivu7-1]: Introduit par le ch. II de la LF du 25 sept. 2009 (Retrait conditionnel d’une initiative populaire), en vigueur depuis le 1<sup>er</sup> fév. 2010 ([RO 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [FF 2009 3143](https://fedlex.data.admin.ch/eli/fga/2009/699), [3161](https://fedlex.data.admin.ch/eli/fga/2009/701)).
 
 Les initiatives populaires qui sont pendantes à l’entrée en vigueur de la modification du 25 septembre 2009 de la présente loi sont traitées conformément au nouveau droit.
 
@@ -2730,7 +2737,7 @@ Les initiatives populaires qui sont pendantes à l’entrée en vigueur de la mo
 Date de l’entrée en vigueur: 1<sup>er</sup> décembre 2003[^174-4]
 
 [^174-1]: Premier jour de la session d’hiver 2007, le 3 déc. 2007.
-[^174-2]: [RS 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^174-2]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^174-3]: Actuellement: annexe 1.
 [^174-4]: A de la Conférence de coordination de l’Ass. féd. du 16 sept. 2002
 
@@ -2738,7 +2745,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> décembre 2003[^174-4]
 
 [^u1-1]
 
-[^u1-1]: [RO 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [FF 2007 1379](https://fedlex.data.admin.ch/eli/fga/2007/198)[2025](https://fedlex.data.admin.ch/eli/fga/2007/329)
+[^u1-1]: [RO 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [FF 2007 1379](https://fedlex.data.admin.ch/eli/fga/2007/198), [2025](https://fedlex.data.admin.ch/eli/fga/2007/329)
 
 L’art. 122 dans sa version du 5 octobre 2007 ne s’applique qu’aux motions qui n’ont pas encore été adoptées par les deux conseils au moment de l’entrée en vigueur de la présente loi.
 
@@ -2746,7 +2753,7 @@ L’art. 122 dans sa version du 5 octobre 2007 ne s’applique qu’aux motions 
 
 [^u2-1]
 
-[^u2-1]: [RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)
+[^u2-1]: [RO 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6719](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6759](https://fedlex.data.admin.ch/eli/fga/2010/1297)
 
 Les requêtes visant à lever l’immunité, ainsi que les requêtes de nature analogue qui sont pendantes au moment de l’entrée en vigueur de la modification du 17 juin 2011 sont régies par l’ancien droit.
 
@@ -2754,7 +2761,7 @@ Les requêtes visant à lever l’immunité, ainsi que les requêtes de nature a
 
 [^u3-1]
 
-[^u3-1]: [RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)
+[^u3-1]: [RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)
 
 Les initiatives parlementaires et les initiatives des cantons qui, au moment de l’entrée en vigueur de la présente modification, avaient déjà été transmises à une commission aux fins d’examen préalable sont régies par l’ancien droit.
 
@@ -2780,9 +2787,9 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annex1-lvlu1-4]
 
-[^annex1-lvlu1-1]: [RS **1** 141; [RO 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 121, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 1 [414](https://fedlex.data.admin.ch/eli/oc/2000/91), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 3]
-[^annex1-lvlu1-2]: [RS **1** 433]
-[^annex1-lvlu1-3]: [[RO 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831), [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768), [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452), [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 ch. 3, [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257), [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642), [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
+[^annex1-lvlu1-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)141; [RO 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831)art. 60 al. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 121; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 1 [414](https://fedlex.data.admin.ch/eli/oc/2000/91); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 3]
+[^annex1-lvlu1-2]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)433]
+[^annex1-lvlu1-3]: [[RO 1962 811](https://fedlex.data.admin.ch/eli/oc/1962/773_811_831); [1984 768](https://fedlex.data.admin.ch/eli/oc/1984/768_768_768); [1985 452](https://fedlex.data.admin.ch/eli/oc/1985/452_452_452); [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 16 ch. 3; [1989 257](https://fedlex.data.admin.ch/eli/oc/1989/257_257_257); [1990 1642](https://fedlex.data.admin.ch/eli/oc/1990/1642_1642_1642); [1992 2344](https://fedlex.data.admin.ch/eli/oc/1992/2344_2344_2344); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)]
 [^annex1-lvlu1-4]: Les mod. peuvent être consultées au [RO 2003 3543](https://fedlex.data.admin.ch/eli/oc/2003/510).
 
 Annexe 2[^t-2]
@@ -2799,9 +2806,9 @@ Les dispositions suivantes prévoient une compétence relative à la gestion d�
 - 6\. art. 6 et 7 de la loi du 28 septembre 2012 sur les épidémies[^t-8].
 
 [^t-2]: Introduite par le ch. II de la LF du 17 mars 2023 (Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 4 déc. 2023 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^t-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^t-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^t-5]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^t-6]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^t-7]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^t-8]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^t-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^t-4]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^t-5]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^t-6]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^t-7]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^t-8]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)

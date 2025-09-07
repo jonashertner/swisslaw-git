@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2024-12-02
+version: 2025-09-08
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 2. Dezember 2024)
+vom 13. Dezember 2002 (Stand am 8. September 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 164 Absatz 1 Buchstabe g der Bundesverfassung[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)
 [^ingress-3]: [BBl 2001 5428](https://fedlex.data.admin.ch/eli/fga/2001/853)
 
@@ -130,11 +130,14 @@ Zum Schutze wichtiger Sicherheitsinteressen oder aus Gründen des Persönlichkei
 
 <sup>2</sup> Sie können zu hängigen Beratungsgegenständen und zum Verfahren Anträge stellen.
 
+<sup>2bis</sup> Die Geschäftsreglemente der Räte können vorsehen, dass die Rechte nach Absatz 1 von mehreren Ratsmitgliedern gemeinsam wahrgenommen werden können.[^6-1]
+
 <sup>3</sup> Das Recht auf Wortmeldung und die Redezeit können durch die Ratsreglemente eingeschränkt werden.
 
-<sup>4</sup> Wird eine parlamentarische Initiative, eine Motion oder ein Postulat bestritten, so darf eine Abstimmung nur durchgeführt werden, wenn die Urheberin oder der Urheber Gelegenheit zu einer mündlichen Begründung erhalten hat. Zudem erhält zumindest das Wort, wer zuerst die Ablehnung beantragt hat.[^6-1]
+<sup>4</sup> Wird eine parlamentarische Initiative, eine Motion oder ein Postulat bestritten, so darf eine Abstimmung nur durchgeführt werden, wenn die Urheberin oder der Urheber Gelegenheit zu einer mündlichen Begründung erhalten hat. Zudem erhält zumindest das Wort, wer zuerst die Ablehnung beantragt hat.[^6-2]
 
-[^6-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^6-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Einreichung von Vorstössen und parlamentarischen Initiativen), in Kraft seit 8. Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^6-2]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 7
 
@@ -172,7 +175,7 @@ Die Ratsmitglieder sind an das Amtsgeheimnis gebunden, sofern sie auf Grund ihre
 
 Die Ratsmitglieder erhalten für ihre parlamentarische Tätigkeit vom Bund ein Einkommen sowie einen Beitrag zur Deckung der Kosten, die ihnen bei der parlamentarischen Tätigkeit entstehen. Die Einzelheiten werden durch das Parlamentsressourcengesetz vom 18. März 1988[^9-1] geregelt.
 
-[^9-1]: [SR 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^9-1]: [SR 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 #### Art. 10
 
@@ -227,7 +230,7 @@ Beim Amtsantritt und jeweils auf Jahresbeginn unterrichtet jedes Ratsmitglied da
 [^11-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 11a
 
@@ -353,7 +356,7 @@ Für die Aufhebung des Post- und Fernmeldegeheimnisses im Sinne von Artikel 321<
 
 <sup>4</sup> Eine Verhaftung ohne diese Ermächtigung ist unzulässig.[^18-3]
 
-[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^18-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^18-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Gesuche um Aufhebung der Immunität), in Kraft seit 5. Dez. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
@@ -403,7 +406,7 @@ Ist streitig, ob eine Ermächtigung nach den Artikeln 17–20 erforderlich sei, 
 
 <sup>3</sup> Das Ratsmitglied kann den Entscheid der Verwaltungsdelegation mit Beschwerde beim Bundesgericht anfechten.
 
-[^21a-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21a-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ## 3. Titel: Aufgaben der Bundesversammlung
 
@@ -439,7 +442,7 @@ Die Bundesversammlung unterbreitet Änderungen der Bundesverfassung Volk und St�
 
 <sup>4</sup> Sie wirkt in internationalen parlamentarischen Versammlungen mit und pflegt die Beziehungen zu ausländischen Parlamenten.
 
-[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^24-2]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 [^24-3]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 über die Zuständigkeiten für den Abschluss, die Änderung und die Kündigung völkerrechtlicher Verträge, in Kraft seit 2. Dez. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
@@ -477,7 +480,7 @@ Die Bundesversammlung übt die Oberaufsicht nach den folgenden Kriterien aus:
 <sup>4</sup> Die Oberaufsicht umfasst nicht die Befugnis, Entscheide aufzuheben oder zu ändern. Die inhaltliche Kontrolle richterlicher Entscheide und von Entscheiden der Bundesanwaltschaft ist ausgeschlossen.[^26-3]
 
 [^26-1]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^26-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^26-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^26-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 27
@@ -521,7 +524,7 @@ Sie wirkt mit, indem sie:
 
 <sup>4</sup> Weicht der Bundesrat von Aufträgen oder Grundsatz- und Planungsbeschlüssen ab, so hat er dies zu begründen.
 
-[^28-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^28-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^28-2]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^28-3]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 
@@ -899,7 +902,7 @@ Die Kommissionen informieren die Öffentlichkeit über die Ergebnisse ihrer Bera
 <sup>6</sup> Sie entscheidet mit der Mehrheit ihrer stimmenden Mitglieder.
 
 [^51-1]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2010 über die Wahrung von Demokratie, Rechtsstaat und Handlungsfähigkeit in ausserordentlichen Lagen, in Kraft seit 1. Mai 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^51-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^51-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 ### 3. Abschnitt: Geschäftsprüfungskommissionen
 
@@ -1029,7 +1032,7 @@ Organisation, Aufgaben und Verfahren von Delegationen, welche die Bundesversamml
 
 <sup>5</sup> Die Fraktionen erhalten einen Beitrag zur Deckung der Kosten ihrer Sekretariate. Näheres regelt das Parlamentsressourcengesetz vom 18. März 1988[^62-1].
 
-[^62-1]: [SR 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^62-1]: [SR 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 ### 6. Kapitel: Parlamentarische Gruppen
 
@@ -1655,7 +1658,7 @@ Als zweckmässig ist der Weg der parlamentarischen Initiative insbesondere dann 
 <sup>4</sup> Die Prüfpflichten nach Artikel 4 und die Pflicht zur Regulierungskostenschätzung nach Artikel 5 des Unternehmensentlastungsgesetzes vom 29. September 2023[^111-2] gelten sinngemäss.[^111-3]
 
 [^111-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40201)
 [^111-3]: Eingefügt durch Art. 21 des Unternehmensentlastungsgesetzes vom 29. Sept. 2023, in Kraft seit 1. Okt. 2024 ([AS 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [BBl 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
@@ -1672,7 +1675,7 @@ Als zweckmässig ist der Weg der parlamentarischen Initiative insbesondere dann 
 
 <sup>4</sup> Beantragt der Bundesrat eine Änderung, so berät die Kommission die Stellungnahme des Bundesrates vor der Beratung des Erlassentwurfes im Erstrat.
 
-[^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^112-1]: [SR 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
 [^112-2]: Fassung gemäss Art. 12 Ziff. 1 des Vernehmlassungsgesetzes vom 18. März 2005, in Kraft seit 1. Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^112-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1764,10 +1767,13 @@ Parlamentarische Vorstösse sind:
 
 <sup>4bis</sup> Sie richten sich an die Aufsichtsbehörde über die Bundesanwaltschaft, wenn sie sich auf die Geschäftsführung oder den Finanzhaushalt der Bundesanwaltschaft oder ihrer Aufsichtsbehörde beziehen; Motionen sind ausgeschlossen.[^118-1]
 
-<sup>5</sup> Bei Vorstössen an die Ratsbüros und an die eidgenössischen Gerichte gelten die Artikel 120–125 sinngemäss.[^118-2]
+<sup>4ter</sup> Sie richten sich an den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB), wenn sie sich auf dessen Geschäftsführung oder dessen Finanzhaushalt beziehen; Motionen sind ausgeschlossen.[^118-2]
+
+<sup>5</sup> Bei Vorstössen an die Ratsbüros und an die eidgenössischen Gerichte gelten die Artikel 120–125 sinngemäss.[^118-3]
 
 [^118-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^118-2]: Die Berichtigung der RedK der BVers vom 15. Febr. 2018, veröffentlicht am 27. Febr. 2018, betrifft nur den französischen Text ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
+[^118-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Einreichung von Vorstössen und parlamentarischen Initiativen), in Kraft seit 8. Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^118-3]: Die Berichtigung der RedK der BVers vom 15. Febr. 2018, veröffentlicht am 27. Febr. 2018, betrifft nur den französischen Text ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
 
 #### Art. 119
 
@@ -1775,25 +1781,26 @@ Parlamentarische Vorstösse sind:
 
 <sup>1</sup> Vorstösse können von der Mehrheit einer Kommission sowie während einer Session von einer Fraktion oder einem Ratsmitglied eingereicht werden.
 
-<sup>2</sup> Ist ein Vorstoss inhaltlich teilbar, kann über die einzelnen Punkte getrennt beraten und abgestimmt werden.
+<sup>2</sup> Ist ein Vorstoss inhaltlich und formell teilbar, kann über die einzelnen Punkte getrennt beraten und abgestimmt werden.[^119-1]
 
-<sup>3</sup> Der Wortlaut eines Vorstosses kann nach der Einreichung nicht geändert werden; vorbehalten bleibt Artikel 121 Absatz 3 Buchstabe b.[^119-1]
+<sup>3</sup> Der Wortlaut eines Vorstosses kann nach der Einreichung nicht geändert werden; vorbehalten bleibt Artikel 121 Absatz 3 Buchstabe b.[^119-2]
 
-<sup>4</sup> …[^119-2]
+<sup>4</sup> …[^119-3]
 
 <sup>5</sup>
 
 Ein Vorstoss eines Ratsmitglieds oder einer Fraktion wird ohne Ratsbeschluss abgeschrieben, wenn:
 
 - a. der Rat den Vorstoss nicht innert zwei Jahren nach seiner Einreichung abschliessend behandelt hat; oder
-- b. die Urheberin oder der Urheber aus dem Rat ausscheidet und nicht ein anderes Ratsmitglied während der ersten Woche der folgenden Session den Vorstoss aufnimmt.[^119-3]
+- b. die Urheberin oder der Urheber aus dem Rat ausscheidet und nicht ein anderes Ratsmitglied während der ersten Woche der folgenden Session den Vorstoss aufnimmt.[^119-4]
 
-<sup>6</sup> …[^119-4]
+<sup>6</sup> …[^119-5]
 
-[^119-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-2]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-4]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Einreichung von Vorstössen und parlamentarischen Initiativen), in Kraft seit 8. Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^119-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-5]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 2. März 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### 2. Abschnitt: Motion
 
@@ -2201,14 +2208,14 @@ Der Bundesrat unterbreitet der Bundesversammlung:
 - b. die Entwürfe für die ordentlichen Nachträge und Zusatzkredite: zwei Monate vor Beginn der Session, in der sie behandelt werden sollen;
 - c. die Staatsrechnung: jährlich zwei Monate vor Beginn der Session, in der sie behandelt werden soll.
 
-<sup>2</sup> Er nimmt die Entwürfe für den Voranschlag sowie die Rechnungen der Bundesversammlung, der eidgenössischen Gerichte, der Eidgenössischen Finanzkontrolle, der Bundesanwaltschaft, der Aufsichtsbehörde über die Bundesanwaltschaft und des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) unverändert in seinen Entwurf für den Voranschlag und in die Rechnung des Bundes auf.[^142-2]
+<sup>2</sup> Er nimmt die Entwürfe für den Voranschlag sowie die Rechnungen der Bundesversammlung, der eidgenössischen Gerichte, der Eidgenössischen Finanzkontrolle, der Bundesanwaltschaft, der Aufsichtsbehörde über die Bundesanwaltschaft und des EDÖB unverändert in seinen Entwurf für den Voranschlag und in die Rechnung des Bundes auf.[^142-2]
 
 <sup>3</sup> Das Bundesgericht vertritt die Entwürfe für die Voranschläge und die Rechnungen der eidgenössischen Gerichte vor der Bundesversammlung. Für die Bundesversammlung übernimmt diese Aufgabe die Verwaltungsdelegation der Bundesversammlung, für die Eidgenössische Finanzkontrolle die Finanzdelegation, für die Aufsichtsbehörde über die Bundesanwaltschaft und die Bundesanwaltschaft die Aufsichtsbehörde über die Bundesanwaltschaft. Der EDÖB vertritt den Entwurf für seinen Voranschlag und seine Rechnung vor der Bundesversammlung.[^142-3] [^142-4]
 
 <sup>4</sup> Der Bundesrat lässt jeweils per 30. Juni und 30. September Hochrechnungen über das voraussichtliche Jahresergebnis erstellen. Er setzt die Finanzkommissionen davon in Kenntnis.[^142-5]
 
 [^142-1]: Fassung gemäss Art. 65 Ziff. 1 des Finanzhaushaltsgesetzes vom 7. Okt. 2005, in Kraft seit 1. Mai 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Fassung gemäss Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Einreichung von Vorstössen und parlamentarischen Initiativen), in Kraft seit 8. Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 [^142-3]: Dritter Satz eingefügt gemäss Anhang 1 Ziff. II 12 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^142-4]: Fassung gemäss Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^142-5]: Eingefügt durch Art. 65 Ziff. 1 des Finanzhaushaltsgesetzes vom 7. Okt. 2005, in Kraft seit 1. Mai 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
@@ -2296,7 +2303,7 @@ Die Ratsreglemente können vorsehen, dass:
 
 <sup>4</sup> Die Bundesversammlung kann zu weiteren wichtigen Planungen und Berichten Grundsatz- und Planungsbeschlüsse in der Form des einfachen Bundesbeschlusses oder des Bundesbeschlusses fassen.
 
-[^148-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^148-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^148-2]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^148-3]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023 (Planungsbericht), in Kraft seit 1. Juni 2024 ([AS 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [BBl 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
@@ -2406,8 +2413,8 @@ Sie entscheiden endgültig über die Ausübung ihrer Informationsrechte. Sie hab
 <sup>7</sup> Sie treffen geeignete Vorkehrungen für den Geheimnisschutz nach Artikel 150 Absatz 3. Zu diesem Zweck sowie für den Fall, dass ihre Informationsrechte zur Wahrnehmung der Oberaufsicht nicht ausreichen, können sie ihre Delegationen mit der Abklärung einer konkreten Frage beauftragen. Sie erlassen für ihren Zuständigkeitsbereich Weisungen zum Geheimnisschutz. Darin beschränken sie insbesondere den Zugang zu Mitberichten.
 
 [^153-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Präzisierung der Informationsrechte der Aufsichtskommissionen), in Kraft seit 1. Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^153-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^153-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^153-2]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^153-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 154
 
@@ -2463,7 +2470,7 @@ Die Delegationen der Aufsichtskommissionen haben zur Erfüllung ihrer Aufgaben n
 
 <sup>6</sup> Für das Verfahren und die Rechte der Betroffenen sind die Artikel 166–171 anwendbar.
 
-[^155-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^155-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 156
 
@@ -2477,7 +2484,7 @@ Die Delegationen der Aufsichtskommissionen haben zur Erfüllung ihrer Aufgaben n
 
 <sup>4</sup> Personen im Dienste des Bundes nach diesem Gesetz sind das Bundespersonal sowie Personen, die unmittelbar mit öffentlich-rechtlichen Aufgaben des Bundes betraut sind. Die Art der Beziehung zum Bund ist nicht massgebend.
 
-[^156-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^156-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 157
 
@@ -2544,9 +2551,9 @@ Auf den Geschäftsverkehr zwischen der Bundesversammlung und den eidgenössische
 
 <sup>4</sup> Die Kommissionen geben den eidgenössischen Gerichten Gelegenheit zur Stellungnahme, wenn von ihnen vorberatene Erlassentwürfe die Zuständigkeiten, die Organisation oder die Verwaltung der eidgenössischen Gerichte betreffen.
 
-<sup>5</sup> Die Absätze 1–4 gelten für die Aufsichtsbehörde über die Bundesanwaltschaft sinngemäss.[^162-1]
+<sup>5</sup> Die Absätze 1–4 gelten für die Aufsichtsbehörde über die Bundesanwaltschaft und den EDÖB sinngemäss.[^162-1]
 
-[^162-1]: Eingefügt durch Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^162-1]: Eingefügt durch Anhang Ziff. II 2 des Strafbehördenorganisationsgesetzes vom 19. März 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Fassung gemäss Ziff. I des BG vom 21. März 2025 (Einreichung von Vorstössen und parlamentarischen Initiativen), in Kraft seit 8. Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 ## 9. Titel: Parlamentarische Untersuchungskommission
 
@@ -2592,7 +2599,7 @@ Auf den Geschäftsverkehr zwischen der Bundesversammlung und den eidgenössische
 
 <sup>5</sup> Für die Beweiserhebungen finden die Artikel 42–48 und 51–54 des Bundesgesetzes vom 4. Dezember 1947[^166-1] über den Bundeszivilprozess sinngemäss Anwendung, soweit dieses Gesetz nichts anderes regelt.
 
-[^166-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^166-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 167
 
@@ -2630,7 +2637,7 @@ Auf den Geschäftsverkehr zwischen der Bundesversammlung und den eidgenössische
 
 <sup>3</sup> Über Akteneinsichtsgesuche während der Schutzfrist nach den Artikeln 9–12 des Archivierungsgesetzes vom 26. Juni 1998[^169-1] entscheiden die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident der Untersuchungskommission oder nach deren Ausscheiden aus dem Rat die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident der Geschäftsprüfungsdelegation.
 
-[^169-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^169-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 170
 
@@ -2642,7 +2649,7 @@ Auf den Geschäftsverkehr zwischen der Bundesversammlung und den eidgenössische
 
 <sup>3</sup> Die strafbaren Handlungen, einschliesslich der Verletzung der Schweigepflicht gemäss Artikel 169 Absatz 1, unterstehen der Bundesgerichtsbarkeit.
 
-[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 171
 
@@ -2729,7 +2736,7 @@ Für eidgenössische Volksinitiativen, die im Zeitpunkt des Inkrafttretens der �
 Datum des Inkrafttretens: 1. Dezember 2003[^174-4]
 
 [^174-1]: 1. Tag der Wintersession 2007 (3. Dez. 2007)
-[^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^174-2]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^174-3]: Heute: Anhang 1.
 [^174-4]: Verfügt durch die Koordinationskonferenz der BVers vom 16. Sept. 2002
 
@@ -2795,9 +2802,9 @@ In den nachfolgenden Bestimmungen sind gesetzliche Ermächtigungen zur Bewältig
 - 6\. Artikel 6 und 7 des Epidemiengesetzes vom 28. September 2012[^t-8].
 
 [^t-2]: Eingefügt durch Ziff. II des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 4. Dez. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^t-5]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^t-5]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)

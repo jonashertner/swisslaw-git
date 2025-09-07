@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2024-12-02
+version: 2025-09-08
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20250908/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20250908-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20250908/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 2 December 2024)
+of 13 December 2002 (Last amended on 8 September 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 164 paragraph 1 letter g of the Federal Constitution[^ingress-1
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2001 3467](https://fedlex.data.admin.ch/eli/fga/2001/639)
 [^ingress-3]: [BBl 2001 5428](https://fedlex.data.admin.ch/eli/fga/2001/853)
 
@@ -88,11 +88,11 @@ The extraordinary session shall be held immediately if:
 
 <sup>4</sup> The oath is as follows:
 
-“I swear by Almighty God to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.”
+«I swear by Almighty God to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.»
 
 <sup>5</sup> The solemn promise is as follows:
 
-“I solemnly promise to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.”
+«I solemnly promise to uphold the Constitution and the law and to fulfil the duties of my office to the best of my abilities.»
 
 #### Art. 4
 
@@ -116,9 +116,9 @@ For the protection of major security interests or for the protection of personal
 
 **Information**
 
-<sup>1</sup> The Councils and their organs shall provide comprehensive information in good time about their activities provided there are no overriding public or private interests that prevent this.
+<sup>1</sup> The councils and their organs shall provide comprehensive information in good time about their activities provided there are no overriding public or private interests that prevent this.
 
-<sup>2</sup> The use of sound or image broadcasts from the Assembly chambers, as well as the accreditation of journalists, is regulated in an ordinance of the Federal Assembly or by the respective Standing Orders of the Councils.
+<sup>2</sup> The use of sound or image broadcasts from the Assembly chambers, as well as the accreditation of journalists, is regulated in an ordinance of the Federal Assembly or by the respective standing orders of the councils.
 
 ## Title 2 Members the Federal Assembly
 
@@ -132,11 +132,14 @@ For the protection of major security interests or for the protection of personal
 
 <sup>2</sup> They may submit proposals relating to pending business and procedure.
 
-<sup>3</sup> The right to speak and the time allowed for speeches may be limited by the Standing Orders of the Councils.
+<sup>2bis</sup> The standing orders of the councils may provide that the rights in accordance with paragraph 1 may be exercised jointly by two or more council members.[^6-1]
 
-<sup>4</sup> If a parliamentary initiative, a motion or a postulate is opposed, a vote may be held only if the originator has been given the opportunity to provide verbal justification. In addition, the person who first requested rejection must at least be given the right to speak.[^6-1]
+<sup>3</sup> The right to speak and the time allowed for speeches may be limited by the standing orders of the councils.
 
-[^6-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+<sup>4</sup> If a parliamentary initiative, a motion or a postulate is opposed, a vote may be held only if the originator has been given the opportunity to provide verbal justification. In addition, the person who first requested rejection must at least be given the right to speak.[^6-2]
+
+[^6-1]: Inserted by No I of the FA of 21 March 2025 (Submission of Procedural Requests and Parliamentary Initiatives), in force since 8 Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^6-2]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 7
 
@@ -174,7 +177,7 @@ The assembly members are bound by official secrecy where, through their official
 
 Assembly members receive from the Confederation a salary in respect of their parliamentary activities and a contribution to cover the expenses that they incur in connection therewith. The details are regulated by the Parliamentary Resources Act of 18 March 1988[^9-1].
 
-[^9-1]: [SR 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^9-1]: [SR 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 #### Art. 10
 
@@ -229,7 +232,7 @@ On assuming office and at the start of every year, each assembly member must inf
 [^11-1]: Amended by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-2]: Amended by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^11-3]: Inserted by No I of the FA of 15 June 2018, in force since 2 Dec. 2019 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^11-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 11a
 
@@ -304,7 +307,7 @@ Assembly members may not be held legally accountable for statements they make in
 
 **Relative immunity**[^17-1]
 
-<sup>1</sup> Criminal proceedings may be brought against an assembly member for an offence that is directly related to his or her official position or activity only if authorised by the competent committees of both councils. The regulations of each council shall designate the competent committee.
+<sup>1</sup> Criminal proceedings may be brought against an assembly member for an offence that is directly related to his or her official position or activity only if authorised by the competent committees of both councils. The standing orders of each council shall designate the competent committee.
 
 <sup>2</sup> If it appears justified given the circumstances of the case, the competent committees may assign the prosecution and adjudication of an offence subject to cantonal jurisdiction to the prosecution authorities of the Confederation.
 
@@ -344,18 +347,18 @@ Assembly members may not be held legally accountable for statements they make in
 
 <sup>1</sup>
 
-The authorisation of the Presiding Colleges of the Councils is required for the suspension of postal and telecommunications secrecy in terms of Article 321<sup>ter</sup> of the Swiss Criminal Code[^18-1] if:
+The authorisation of the Presiding Colleges of the councils is required for the suspension of postal and telecommunications secrecy in terms of Article 321<sup>ter</sup> of the Swiss Criminal Code[^18-1] if:
 
 - a. it is intended to prosecute a criminal offence committed by an assembly member;
 - b. it is intended to order measures against an assembly member that permit the surveillance of a third party with which the assembly member has dealings by reason of his or her office.
 
 <sup>2</sup> Paragraph 1 also applies by analogy to those cases in which other inquiries or criminal investigation measures are required in respect of an assembly member for an initial clarification of the facts of the case or to secure evidence.
 
-<sup>3</sup> As soon as the measures authorised by Presiding Colleges of the Councils have been carried out, authorisation for prosecution must be obtained from the competent committees of both councils in accordance with Article 17, unless proceedings have already been dropped.[^18-2]
+<sup>3</sup> As soon as the measures authorised by Presiding Colleges of the councils have been carried out, authorisation for prosecution must be obtained from the competent committees of both councils in accordance with Article 17, unless proceedings have already been dropped.[^18-2]
 
 <sup>4</sup> Any arrest made without this authorisation is unlawful.[^18-3]
 
-[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^18-2]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 [^18-3]: Amended by No I of the FA of 17 June 2011 (Requests to lift Immunity), in force since 5 Dec. 2011 ([AS 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
@@ -363,7 +366,7 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 **Procedure by which the Presiding Colleges grant authorisation**
 
-<sup>1</sup> The Presiding Colleges of the Councils shall reach their decisions by joint deliberation in camera. The granting of authorisation in terms of Article 18 requires the agreement at least five members.
+<sup>1</sup> The Presiding Colleges of the councils shall reach their decisions by joint deliberation in camera. The granting of authorisation in terms of Article 18 requires the agreement at least five members.
 
 <sup>2</sup> Authorisation to suspend postal and telecommunications secrecy may only be granted if the relevant authority has approved the order for surveillance to be carried out.[^19-1]
 
@@ -373,7 +376,7 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 **Session attendance guarantee**
 
-<sup>1</sup> Criminal proceedings against an assembly member in respect of a felony or misdemeanour that is not connected with his or her official position or activities may only be initiated during a session with the written consent of the member or with the authorisation of the competent committee of the council to which the member belongs. The regulations of each council shall designate the competent committee.[^20-1]
+<sup>1</sup> Criminal proceedings against an assembly member in respect of a felony or misdemeanour that is not connected with his or her official position or activities may only be initiated during a session with the written consent of the member or with the authorisation of the competent committee of the council to which the member belongs. The standing orders of each council shall designate the competent committee.[^20-1]
 
 <sup>2</sup> The foregoing does not apply to a precautionary arrest due to a risk of absconding or where the member is caught in the act of committing a felony. The authority ordering the arrest must apply within 24 hours directly to the competent committee of the council to which the arrested member belongs for its consent, unless the person concerned has given his or her own consent to being arrested.[^20-2]
 
@@ -405,7 +408,7 @@ In the event of any dispute as to whether authorisation in terms of Articles 17�
 
 <sup>3</sup> The assembly member may contest the decision of the Administration Delegation by filing an appeal with the Federal Supreme Court.
 
-[^21a-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^21a-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ## Title 3 Duties of the Federal Assembly
 
@@ -441,7 +444,7 @@ The Federal Assembly submits amendments to the Federal Constitution to the vote 
 
 <sup>4</sup> It shall participate in international parliamentary conferences and cultivate relations with foreign parliaments.
 
-[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^24-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^24-2]: Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend or Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 [^24-3]: Amended by No I 1 of the FA of 21 June 2019 on the Authority to Conclude, Amend or Withdraw from International Treaties, in force since 2 Dec. 2019 ([AS 2019 3119](https://fedlex.data.admin.ch/eli/oc/2019/575); [BBl 2018 3471](https://fedlex.data.admin.ch/eli/fga/2018/1344), [5315](https://fedlex.data.admin.ch/eli/fga/2018/1972)).
 
@@ -479,7 +482,7 @@ The Federal Assembly shall exercise supervisory control according to the followi
 <sup>4</sup> Supervisory control shall not include the power to revoke or alter decisions. It shall not include control over the content of the judicial decisions of the Office of the Attorney General of Switzerland.[^26-3]
 
 [^26-1]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^26-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^26-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 [^26-3]: Second sentence amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
 #### Art. 27
@@ -523,7 +526,7 @@ It participates by:
 
 <sup>4</sup> If the Federal Council does not adhere to the mandates it has been given or general principle and planning decisions, it must provide justification for doing so.
 
-[^28-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^28-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^28-2]: Amended by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^28-3]: Inserted by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 
@@ -606,15 +609,15 @@ The Presiding College of each council comprises the President, the first Vice-Pr
 
 <sup>1</sup> Each council shall establish an office to deal with its administration and other related matters.
 
-<sup>2</sup> The office of each council comprises the members of the Presiding College and other members as determined by the respective regulations of the councils.
+<sup>2</sup> The office of each council comprises the members of the Presiding College and other members as determined by the respective standing orders of the councils.
 
 <sup>3</sup> The rights and duties assigned to the committees by this Act also apply to the Offices.
 
 #### Art. 36
 
-**Council regulations**
+**Council standing orders**
 
-Each council shall issue regulations with the implementing provisions relating to its organisation and procedure.
+Each council shall issue standing orders with the implementing provisions relating to its organisation and procedure.
 
 #### Art. 37
 
@@ -646,7 +649,7 @@ The Conference for Coordination has the following duties:
 
 **Administration Delegation**
 
-<sup>1</sup> The Administration Delegation comprises three members from each of the Offices of the Councils as appointed by the Conference for Coordination. The Administration Delegation shall appoint one of its members as its delegate. It constitutes itself.
+<sup>1</sup> The Administration Delegation comprises three members from each of the Offices of the councils as appointed by the Conference for Coordination. The Administration Delegation shall appoint one of its members as its delegate. It constitutes itself.
 
 <sup>2</sup> The Administration Delegation is responsible for the overall management of the administration of Parliament. Within the scope of its responsibilities for the draft budget of the Federal Assembly, it shall ensure in particular that the Federal Assembly and its bodies have the necessary resources and infrastructure at their disposal. It may issue directives on the allocation of human and financial resources.[^38-1]
 
@@ -660,7 +663,7 @@ The Conference for Coordination has the following duties:
 
 **Office of the United Federal Assembly**
 
-<sup>1</sup> The Office of the United Federal Assembly comprises the Presiding Colleges of both Councils.
+<sup>1</sup> The Office of the United Federal Assembly comprises the Presiding Colleges of both councils.
 
 <sup>2</sup> The chairperson is the President of the National Council or, in the event of his or her incapacity, the President of the Council of States.
 
@@ -715,11 +718,11 @@ The Judiciary Committee is responsible for the preparation for the appointment a
 
 **Procedure in the United Federal Assembly**
 
-<sup>1</sup> Unless otherwise provided in this Act, the provisions of the internal regulations of the National Council apply by analogy to the procedure in the United Federal Assembly.
+<sup>1</sup> Unless otherwise provided in this Act, the provisions of the standing orders of the National Council apply by analogy to the procedure in the United Federal Assembly.
 
 <sup>2</sup> The tellers and the substitute tellers of the two councils determine the results of elections and votes.
 
-<sup>3</sup> If the business regulations of the National Council do not apply, the United Federal Assembly may draw up its own regulations.
+<sup>3</sup> If the standing orders of the National Council do not apply, the United Federal Assembly may draw up its own regulations.
 
 ### Chapter 4 Committees
 
@@ -729,7 +732,7 @@ The Judiciary Committee is responsible for the preparation for the appointment a
 
 **Standing committees and special committees**
 
-<sup>1</sup> Each council shall appoint from its members the standing committees provided for by this Act and the internal regulations.
+<sup>1</sup> Each council shall appoint from its members the standing committees provided for by this Act and their respective standing orders.
 
 <sup>2</sup> In exceptional circumstances, the councils may appoint special committees.
 
@@ -745,7 +748,7 @@ The Judiciary Committee is responsible for the preparation for the appointment a
 
 <sup>3</sup> The composition of the committees and the allocation of seats among the committee chairpersons are determined by the strengths of the parliamentary groups in the relevant council. Wherever possible, appropriate account should be taken of the official languages and regions of the country.
 
-<sup>4</sup> The term of office of the members of the standing committees is determined by the respective regulations of the councils.
+<sup>4</sup> The term of office of the members of the standing committees is determined by the respective standing orders of the councils.
 
 [^43-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
@@ -755,7 +758,7 @@ The Judiciary Committee is responsible for the preparation for the appointment a
 
 <sup>1</sup>
 
-In accordance with the terms of reference under this Act or the rules of business, the committees have the following duties:
+In accordance with the terms of reference under this Act or the standing orders, the committees have the following duties:
 
 - a. they conduct a preliminary discussion of the business referred to them for the attention of their council;
 - b. they consider and decide on the business referred to them for final decision in terms of this Act;
@@ -821,7 +824,7 @@ The following persons may be connected virtually to a committee meeting taking p
 
 **Procedure in the committees**
 
-<sup>1</sup> The committees are governed by the procedural rules of their respective council, unless this Act or the respective regulations of the councils provide otherwise.
+<sup>1</sup> The committees are governed by the procedural rules of their respective council, unless this Act or the respective standing orders of the councils provide otherwise.
 
 <sup>2</sup> Resolutions of joint committees of both councils require the agreement of the majority of the voting members from each council, unless this Act provides otherwise.
 
@@ -901,7 +904,7 @@ The committees shall inform the general public of the results of their deliberat
 <sup>6</sup> It shall reach decisions by a simple majority of its voting members.
 
 [^51-1]: Amended by No I 2 of the FA of 17 Dec. 2010 on Safeguarding Democracy, the Rule of Law and the Capacity to Act in Extraordinary Situations, in force since 1 May 2011 ([AS 2011 1381](https://fedlex.data.admin.ch/eli/oc/2011/210); [BBl 2010 1563](https://fedlex.data.admin.ch/eli/fga/2010/271), [2803](https://fedlex.data.admin.ch/eli/fga/2010/486)).
-[^51-2]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^51-2]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 ### Section 3 Control Committees
 
@@ -1025,13 +1028,13 @@ The organisation, duties and procedures of delegations that represent the Federa
 
 <sup>2</sup> They have the right to submit parliamentary initiatives, parliamentary procedural requests, proposals and election nominations.
 
-<sup>3</sup> The rules of business may provide for further rights for parliamentary groups.
+<sup>3</sup> The standing orders may provide for further rights for parliamentary groups.
 
 <sup>4</sup> Parliamentary groups may establish their own secretariats. These receive the same documents as the assembly members and are subject to official secrecy in accordance with Article 8.
 
 <sup>5</sup> Parliamentary groups shall receive a subsidy to cover the costs of their secretariats. The details of the foregoing are regulated by the Parliamentary Resources Act of 18 March 1988[^62-1].
 
-[^62-1]: [SR 171.21](https://fedlex.data.admin.ch/eli/cc/1988/1162_1162_1162)
+[^62-1]: [SR 171.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5010)
 
 ### Chapter 6 Cross-Party Groups
 
@@ -1060,8 +1063,8 @@ They carry out the following tasks:
 - a. they plan and organise the sessions and the meetings of the committees;
 - b. they are responsible for providing secretarial services, carrying out translation work and taking the minutes of the resolutions and debates of the councils, the United Federal Assembly and the committees;
 - c. they keep records and offer services in relation to records and information technologies;
-- c<sup>bis</sup>.[^64-1] they operate information systems used to evaluate data for the fulfilment of the tasks of the Federal Assembly, its organs and the members of the Councils; this data processing may also include particularly sensitive personal data; a Federal Assembly ordinance shall specify the sources used for this purpose and regulate access authorisations and how this data may be disclosed;
-- d. they advise the assembly members, and in particular the Presiding Colleges of the Councils and the chairpersons of the committees on factual and procedural matters;
+- c<sup>bis</sup>.[^64-1] they operate information systems used to evaluate data for the fulfilment of the tasks of the Federal Assembly, its organs and the members of the councils; this data processing may also include particularly sensitive personal data; a Federal Assembly ordinance shall specify the sources used for this purpose and regulate access authorisations and how this data may be disclosed;
+- d. they advise the assembly members, and in particular the Presiding Colleges of the councils and the chairpersons of the committees on factual and procedural matters;
 - e. they inform the general public about the Federal Assembly and its activities;
 - f. they assist the Federal Assembly in its activities with regard to international relations;
 - g. subject to the reservation of the competencies of the organs of the councils, they are responsible for all other tasks relevant to the administration of Parliament.
@@ -1104,7 +1107,7 @@ The offices of the Parliamentary Services have the same rights to information as
 
 **Right to use Assembly chambers and access to the Parliament Building**
 
-<sup>1</sup> The right to use the Assembly chambers is regulated by the Presidents of the Councils, and the right to use the other premises of the Federal Assembly and the Parliamentary Services is regulated by the Administration Delegation.
+<sup>1</sup> The right to use the Assembly chambers is regulated by the Presidents of the councils, and the right to use the other premises of the Federal Assembly and the Parliamentary Services is regulated by the Administration Delegation.
 
 <sup>2</sup> Each assembly member may have an entry pass issued for a specified period to any two persons who wish to have access to the parts of the Parliament Building that are not accessible to the public. The details of these persons and their functions must be recorded in a register that is available for public inspection.
 
@@ -1302,11 +1305,11 @@ A final vote shall be held on:
 
 **Publication of the voting results**
 
-The Standing Orders of the Councils shall determine the cases in which the result of the vote is published in the form of a list of members’ names with the votes they cast.
+The standing orders of the councils shall determine the cases in which the result of the vote is published in the form of a list of members’ names with the votes they cast.
 
-### Chapter 2 Procedure between the Councils
+### Chapter 2 Procedure between the councils
 
-### Section 1 Cooperation between the Councils
+### Section 1 Cooperation between the councils
 
 #### Art. 83
 
@@ -1320,7 +1323,7 @@ The Standing Orders of the Councils shall determine the cases in which the resul
 
 **Designation of the first council**
 
-<sup>1</sup> Business that must be dealt with separately by the two councils shall be allocated to one of the Councils for prior consideration (the first council).
+<sup>1</sup> Business that must be dealt with separately by the two councils shall be allocated to one of the councils for prior consideration (the first council).
 
 <sup>2</sup> The presidents of the councils shall decide on the allocation of business. If they are unable to reach an agreement, the matter shall be decided by drawing lots.
 
@@ -1366,7 +1369,7 @@ The Standing Orders of the Councils shall determine the cases in which the resul
 
 <sup>3</sup> Where either of the two councils rejects the proposal to divide the bill and if the council that has rejected the division confirms its decision, the bill is passed on to the other council only after a vote has been taken on the bill in its entirety.
 
-### Section 2 Resolution of Differences between the Councils
+### Section 2 Resolution of Differences between the councils
 
 #### Art. 89
 
@@ -1394,7 +1397,7 @@ The councils may in response to a joint motion from their respective preliminary
 
 <sup>2</sup> The preliminary consultation committees shall each contribute 13 members to the conciliation committee. If the preliminary consultation committee of a council comprises fewer than 13 members, additional members must be added to reach this number. The composition of the delegations from each committee is governed by Article 43 paragraph 3.
 
-<sup>3</sup> The committee president of the first council shall chair the conciliation committee. The president's deputy and the members of the conciliation committee are appointed in accordance with the relevant provisions of the Standing Orders.[^91-1]
+<sup>3</sup> The committee president of the first council shall chair the conciliation committee. The president's deputy and the members of the conciliation committee are appointed in accordance with the relevant provisions of the standing orders.[^91-1]
 
 [^91-1]: Second sentence inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
@@ -1657,7 +1660,7 @@ A parliamentary initiative shall in particular be judged appropriate if:
 <sup>4</sup> The obligations to conduct an assessment under Article 4 and the obligation to estimate regulatory costs under Article 5 of the Business Cost Relief Act of 29 September 2023[^111-2] apply by analogy.[^111-3]
 
 [^111-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40201)
 [^111-3]: Inserted by Art. 21 of the Business Cost Relief Act of 29 Sept. 2023, in force since 1 Oct. 2024 ([AS 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [BBl 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
@@ -1674,7 +1677,7 @@ A parliamentary initiative shall in particular be judged appropriate if:
 
 <sup>4</sup> If the Federal Council requests any alteration, the committee shall discuss the opinion of the Federal Council before consideration of the bill in the first council.
 
-[^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^112-1]: [SR 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
 [^112-2]: Amended by Art. 12 No 1 of the Consultation Procedure Act of 18 March 2005, in force since 1 Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
 [^112-3]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^112-4]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1766,10 +1769,13 @@ Parliamentary procedural requests are:
 
 <sup>4bis</sup> They shall be addressed to the Supervisory Authority for the Office of the Attorney General of Switzerland if they relate to the management or budget of the Office of the Attorney General of Switzerland or its Supervisory Authority; motions are excluded.[^118-1]
 
-<sup>5</sup> In the case of procedural requests made to the offices of the councils and to the federal courts, Articles 120–125 apply by analogy.[^118-2]
+<sup>4ter</sup> They shall be addressed to the Federal Data Protection and Information Commissioner (FDPIC) if they relate to the FDPIC’s management or budget; motions are excluded.[^118-2]
+
+<sup>5</sup> In the case of procedural requests made to the offices of the councils and to the federal courts, Articles 120–125 apply by analogy.[^118-3]
 
 [^118-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^118-2]: The correction by the Federal Assembly Drafting Committee of 15 Feb. 2018, published 27 Feb. 2018, relates to the French text only ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
+[^118-2]: Inserted by No I of the FA of 21 March 2025 (f Procedural Requests and Parliamentary Initiatives), in force since 8 Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^118-3]: The correction by the Federal Assembly Drafting Committee of 15 Feb. 2018, published 27 Feb. 2018, relates to the French text only ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
 
 #### Art. 119
 
@@ -1777,25 +1783,26 @@ Parliamentary procedural requests are:
 
 <sup>1</sup> Procedural requests may be submitted by the majority of the members of a committee, as well as by a parliamentary group or an assembly member during a parliamentary session.
 
-<sup>2</sup> If a procedural request relates to more than one material point, a separate discussion and vote may be held on each point.
+<sup>2</sup> If a procedural request relates to more than one material or formal point, a separate discussion and vote may be held on each point.[^119-1]
 
-<sup>3</sup> The wording of a procedural request may not be altered after its submission; Article 121 paragraph 4 letter b is reserved.[^119-1]
+<sup>3</sup> The wording of a procedural request may not be altered after its submission; Article 121 paragraph 4 letter b is reserved.[^119-2]
 
-<sup>4</sup> ...[^119-2]
+<sup>4</sup> ...[^119-3]
 
 <sup>5</sup>
 
 A procedural request made by a council member or a parliamentary group shall be abandoned without a council decision if:
 
 - a. the council has not finished dealing with the procedural request within two years of its submission; or
-- b. the author leaves the council and no other assembly member takes up the procedural request during the first week of the following session.[^119-3]
+- b. the author leaves the council and no other assembly member takes up the procedural request during the first week of the following session.[^119-4]
 
-<sup>6</sup> ...[^119-4]
+<sup>6</sup> ...[^119-5]
 
-[^119-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-2]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-3]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
-[^119-4]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-1]: Amended by No I of the FA of 21 March 2025 (Submission of Procedural Requests and Parliamentary Initiatives), in force since 8 Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
+[^119-2]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-3]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-4]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
+[^119-5]: Repealed by No I of the FA of 3 Oct. 2008, with effect from 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
 ### Section 2 Motions
 
@@ -1815,7 +1822,7 @@ A procedural request made by a council member or a parliamentary group shall be 
 
 <sup>1</sup> The Federal Council shall normally propose the acceptance or rejection of a motion by the start of the next ordinary session following its submission. It shall submit its proposal in relation to a committee motion that is submitted less than a month before the start of the next ordinary session by the start of the session following the next session.
 
-<sup>1bis</sup> If identical motions have been submitted by committees of both Councils no later than one week before the next ordinary or extraordinary session, the Federal Council shall submit its proposal by the time the motion is discussed in that session.[^121-2]
+<sup>1bis</sup> If identical motions have been submitted by committees of both councils no later than one week before the next ordinary or extraordinary session, the Federal Council shall submit its proposal by the time the motion is discussed in that session.[^121-2]
 
 <sup>1ter</sup> Committee motions that request the Federal Council to enact or amend an ordinance based on Article 184 paragraph 3 or Article 185 paragraph 3 of the Federal Constitution or on a statutory authorisation to deal with a crisis in accordance with Annex 2 shall be placed on the agenda of the next or current ordinary or extraordinary session. The Federal Council shall submit its proposal in writing or orally.[^121-3]
 
@@ -2165,7 +2172,7 @@ Inability to discharge the duties of office must be presumed if the following re
 
 In the dispatch, the Federal Council shall provide justification for the bill and if necessary comment on the individual provisions. In addition, it shall explain the following points in particular, on condition that it is possible to provide a substantial amount of information thereon:
 
-- a. the legal background, the consequences for constitutional rights, compatibility with superior law and the relationship with European law;
+- the legal background, the consequences for constitutional rights, compatibility with superior law and the relationship with European law;
 - a<sup>bis</sup>.[^141-1] the use of Switzerland’s room for manoeuvre in adopting international law;
 - a<sup>ter</sup>.[^141-2] the observance of the principle of subsidiarity in the allocation and performance of state tasks and the impact of the bill on communes, towns and cities, urban agglomerations and mountain areas;
 - a<sup>quater</sup>.[^141-3] any examination of time limit on the bill;
@@ -2203,14 +2210,14 @@ The Federal Council shall submit to the Federal Assembly:
 - b. the drafts for the ordinary updates and additional credits, two months prior to the start of the session in which they are to be considered;
 - c. the state accounts, every year two months prior to the start of the session in which they are to be considered.
 
-<sup>2</sup> It shall accept the drafts for the budget as well as the accounts of the Federal Assembly, the federal courts, the Federal Audit Office, the Office of the Attorney General of Switzerland, the Supervisory Authority for the Office of the Attorney General of Switzerland and the Federal Data Protection and Information Commissioner (FDPIC) without modification and incorporate them into its draft budget and the state accounts.[^142-2]
+<sup>2</sup> It shall accept the drafts for the budget as well as the accounts of the Federal Assembly, the federal courts, the Federal Audit Office, the Office of the Attorney General of Switzerland, the Supervisory Authority for the Office of the Attorney General of Switzerland and the FDPIC without modification and incorporate them into its draft budget and the state accounts.[^142-2]
 
 <sup>3</sup> The Federal Supreme Court is responsible for presenting the draft budget and the draft accounts of the federal courts to the Federal Assembly. The Administration Delegation of the Federal Assembly is responsible for presenting the draft budget and accounts of the Federal Assembly, the Finance Delegation for presenting the draft budget and accounts of the Federal Audit Office, and the Supervisory Authority for the Office of the Attorney General of Switzerland for itself and for the Office of the Attorney General of Switzerland. The FDPIC shall present the draft of its budget and its accounts to the Federal Assembly.[^142-3] [^142-4]
 
 <sup>4</sup> The Federal Council shall arrange for projections on the expected annual return to be issued as per 30 June and 30 September. It shall notify the Finance Committees thereof.[^142-5]
 
 [^142-1]: Amended by Art. 65 No 1 of the Financial Budget Act of 7 Oct. 2005, in force since 1 May 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
-[^142-2]: Amended by Annex 1 No II 12 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^142-2]: Amended by No I of the FA of 21 March 2025 (Submission of Procedural Requests and Parliamentary Initiatives), in force since 8 Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 [^142-3]: Third sentence inserted by Annex 1 No II 12 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^142-4]: Amended by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^142-5]: Inserted by Art. 65 No 1 of the Financial Budget Act of 7 Oct. 2005, in force since 1 May 2006 ([AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227); [BBl 2005 5](https://fedlex.data.admin.ch/eli/fga/2005/2)).
@@ -2247,7 +2254,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 **Procedure for the annual report**
 
-<sup>1</sup> The President of the Confederation is responsible for presenting the report of the Federal Council on the conduct of its business to the Assembly, unless the Standing Orders of the Councils provide otherwise.[^145-1]
+<sup>1</sup> The President of the Confederation is responsible for presenting the report of the Federal Council on the conduct of its business to the Assembly, unless the standing orders of the councils provide otherwise.[^145-1]
 
 <sup>2</sup> The Federal Assembly shall approve the report by means of a simple Federal Decree.
 
@@ -2275,7 +2282,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>2</sup>
 
-The Standing Orders of the Councils may provide that:
+The standing orders of the councils may provide that:
 
 - a. a council, in considering the legislature plan, decides only on proposals and minority proposals made by the committee responsible for the preliminary examination; and
 - b. other persons entitled to submit proposals must submit their proposals to this committee before the start of the detailed discussion of the federal decree.
@@ -2298,7 +2305,7 @@ The Standing Orders of the Councils may provide that:
 
 <sup>4</sup> The Federal Assembly may also take decisions in principle and planning decisions on important plans and reports in the form of a simple federal decree or a federal decree.
 
-[^148-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^148-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^148-2]: Inserted by No I 1 of the FA of 17 Dec. 2010 on the Participation of the Federal Assembly in the Management of Autonomous Units, in force since 1 Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
 [^148-3]: Inserted by No I of the FA of 22 Dec. 2023 (Planning Report), in force since 1 June 2024 ([AS 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [BBl 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
@@ -2363,7 +2370,7 @@ They have no right to information:
 
 <sup>1</sup> The committees responsible for foreign policy and the Federal Council shall have regular contact with each other in order to exchange views.
 
-<sup>2</sup> The Federal Council shall inform the Presiding Colleges of the Councils and the committees responsible for foreign policy regularly, comprehensively and in good time of important foreign policy developments. The committees responsible for foreign policy shall also pass on this information to other committees involved in foreign policy related matters.
+<sup>2</sup> The Federal Council shall inform the Presiding Colleges of the councils and the committees responsible for foreign policy regularly, comprehensively and in good time of important foreign policy developments. The committees responsible for foreign policy shall also pass on this information to other committees involved in foreign policy related matters.
 
 <sup>3</sup> The Federal Council shall consult the committees responsible for foreign policy on important plans, on planned changes to the number of Switzerland’s diplomatic and consular representations abroad, and on the guidelines and directives relating to mandates for important international negotiations before it decides on or amends the same. It shall inform these committees of the status of its plans and of the progress made in negotiations.[^152-1]
 
@@ -2408,8 +2415,8 @@ Their decisions on exercising their rights to information are final. They have n
 <sup>7</sup> They shall take appropriate precautions to preserve secrecy in accordance with Article 150 paragraph 3. For this purpose, as well as in cases where their rights to information are insufficient for the proper exercise of supervisory control, they may mandate their delegations to investigate any specific issue. They shall issue directives on the preservation of secrecy in their area of responsibility, which shall in particular restrict access to accompanying reports.
 
 [^153-1]: Amended by No I of the FA of 17 June 2011 (Specification of the Information Rights of the Supervisory Committees), in force since 1 Nov. 2011 ([AS 2011 4537](https://fedlex.data.admin.ch/eli/oc/2011/633); [BBl 2011 1817](https://fedlex.data.admin.ch/eli/fga/2011/209), [1839](https://fedlex.data.admin.ch/eli/fga/2011/211)).
-[^153-2]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^153-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^153-2]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^153-3]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 #### Art. 154
 
@@ -2465,7 +2472,7 @@ For the purpose of fulfilling their duties, the delegations to the supervisory c
 
 <sup>6</sup> Articles 166–171 apply in respect of the procedure and the rights of the persons concerned.
 
-[^155-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^155-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 156
 
@@ -2479,7 +2486,7 @@ For the purpose of fulfilling their duties, the delegations to the supervisory c
 
 <sup>4</sup> Persons in the service of the Confederation in terms of this Act are the personnel of the Confederation and persons who are directly entrusted with public duties on behalf of the Confederation. The nature of their relationship with the Confederation is not decisive.
 
-[^156-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^156-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 157
 
@@ -2546,9 +2553,9 @@ The following provisions on procedural relations between the Federal Assembly an
 
 <sup>4</sup> The committees shall allow the federal courts the opportunity to express their views where a bill subject to their preliminary examination relates to the competencies, the organisation or the administration of the federal courts.
 
-<sup>5</sup> Paragraphs 1–4 apply by analogy to the Supervisory Authority for the Office of the Attorney General of Switzerland.[^162-1]
+<sup>5</sup> Paragraphs 1–4 apply by analogy to the Supervisory Authority for the Office of the Attorney General of Switzerland and the FDPIC.[^162-1]
 
-[^162-1]: Inserted by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^162-1]: Inserted by Annex No II 2 of the Law Enforcement Authorities Act of 19 March 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Amended by No I of the FA of 21 March 2025 (Submission of Procedural Requests and Parliamentary Initiatives), in force since 8 Sept. 2025 ([AS 2025 530](https://fedlex.data.admin.ch/eli/oc/2025/530); [BBl 2024 1799](https://fedlex.data.admin.ch/eli/fga/2024/1799), [2462](https://fedlex.data.admin.ch/eli/fga/2024/2462)).
 
 ## Title 9 Parliamentary Investigation Committee
 
@@ -2594,7 +2601,7 @@ The following provisions on procedural relations between the Federal Assembly an
 
 <sup>5</sup> For the gathering of evidence, Articles 42–48 and 51–54 of the Federal Act of 4 December 1947[^166-1] on Federal Civil Procedure apply by analogy, provided there is no provision to the contrary in this Act.
 
-[^166-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^166-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 167
 
@@ -2632,7 +2639,7 @@ The following provisions on procedural relations between the Federal Assembly an
 
 <sup>3</sup> The president and the vice-president of the investigation committee, or if they are no longer members of the council, the president and the vice-president of the Control Delegation shall decide on applications to inspect files during the protective period that applies in terms of Articles 9–12 of the Archiving Act of 26 June 1998[^169-1].
 
-[^169-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^169-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 170
 
@@ -2644,7 +2651,7 @@ The following provisions on procedural relations between the Federal Assembly an
 
 <sup>3</sup> Offences, including breach of the obligation of secrecy in terms of Article 169 paragraph 1, are subject to federal jurisdiction.
 
-[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 171
 
@@ -2731,7 +2738,7 @@ The new law applies to federal popular initiatives that are pending when the Ame
 Commencement Date: 1 Dec. 2003[^174-4]
 
 [^174-1]: First day of the winter session 2007 (3 Dec. 2007).
-[^174-2]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^174-2]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^174-3]: Today: Annex 1.
 [^174-4]: Ordained by the Coordination Conference of the FA of 16 Sept. 2002 (AS **2003** 3593).
 
@@ -2797,9 +2804,9 @@ The following provisions contain legal authorisations to deal with a crisis:
 - 6\. Articles 6 and 7 of the Epidemics Act of 28 September 2012[^t-8].
 
 [^t-2]: Inserted by No II of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
-[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^t-5]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^t-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^t-4]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^t-5]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^t-6]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^t-7]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^t-8]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)**..**
