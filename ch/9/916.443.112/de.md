@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2025-08-18
+version: 2025-09-09
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250818-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250818/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250909-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250909/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 18. August 2025)
+vom 17. Juli 2025 (Stand am 9. September 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -265,12 +265,13 @@ Anhang 2[^t-1]
 
 ## Überwachungszonen
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 28. Juli 2025, in Kraft seit 30. Juli 2025 ([AS 2025 485](https://fedlex.data.admin.ch/eli/oc/2025/485)).
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 9. Sept. 2025, in Kraft seit 9. Sept. 2025 um 18 Uhr ([AS 2025 549](https://fedlex.data.admin.ch/eli/oc/2025/549)).
 
 Als Überwachungszonen gelten:
 
 - – der Kanton Genf;
-- – folgende Gemeinden des Kantons Waadt: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
-- – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val‑d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
+- – folgende Gemeinden des Kantons Waadt: Arnex, Bogis-Bossey, Borex, Chavannes-de-Bogis, Chavannes-des-Bois, Chéserex, Commugny, Coppet, Crans, Crassier, Eysins, Founex, Gingins, Grens, La Rippe, Mies, Nyon, Signy-Avenex, Tannay;
+- – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
+- – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/de/xml/image/image1.png)

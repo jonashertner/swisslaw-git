@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2025-08-18
+version: 2025-09-09
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250818-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250818/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250909-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250909/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 18 agosto 2025)
+del 17 luglio 2025 (Stato 9 settembre 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -265,12 +265,13 @@ Allegato 2[^t-1]
 
 ## Zone di sorveglianza
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O dell’ USAV del 28 lug. 2025, in vigore dal 30 lug. 2025 ([RU 2025 485](https://fedlex.data.admin.ch/eli/oc/2025/485))
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’ USAV del 9 set. 2025, in vigore dal 9 set. 2025 alle 18.00 ([RU 2025 549](https://fedlex.data.admin.ch/eli/oc/2025/549))
 
-Sono considerate zone di sorveglianza:
+Sono considerati zone di sorveglianza:
 
 - – il Cantone di Ginevra;
-- – i seguenti Comuni del Cantone di Vaud: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
-- – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val‑d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
+- – i seguenti Comuni del Cantone di Vaud: Arnex, Bogis-Bossey, Borex, Chavannes-de-Bogis, Chavannes-des-Bois, Chéserex, Commugny, Coppet, Crans, Crassier, Eysins, Founex, Gingins, Grens, La Rippe, Mies, Nyon, Signy-Avenex, Tannay;
+- – la zona di La Pile Dessus del Comune di Saint-Cergue nel Cantone di Vaud;
+- – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/it/xml/image/image1.png)

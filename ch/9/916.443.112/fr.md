@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2025-08-18
+version: 2025-09-09
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250818-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250818/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250909-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250909/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 18 août 2025)
+du 17 juillet 2025 (État le 9 septembre 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -269,12 +269,13 @@ Annexe 2[^t-1]
 
 ## Zones de surveillance
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 28 juil. 2025, en vigueur depuis le 30 juil. 2025 ([RO 2025 485](https://fedlex.data.admin.ch/eli/oc/2025/485)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 9 sept. 2025, en vigueur depuis le 9 sept. 2025 à 18 heures ([RO 2025 549](https://fedlex.data.admin.ch/eli/oc/2025/549)).
 
 Sont réputées zones de surveillance:
 
 - – le canton de Genève;
-- – les communes suivantes du canton de Vaud: Bogis-Bossey, Chavannes-des-Bois, Chavannes-de-Bogis, Commugny, Coppet, Founex, Mies, Tannay;
+- – les communes suivantes du canton de Vaud: Arnex, Bogis-Bossey, Borex, Chavannes-de-Bogis, Chavannes-des-Bois, Chéserex, Commugny, Coppet, Crans, Crassier, Eysins, Founex, Gingins, Grens, La Rippe, Mies, Nyon, Signy-Avenex, Tannay;
+- – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250818/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/fr/xml/image/image1.png)
