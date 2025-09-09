@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2025-07-01
+version: 2025-09-10
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250910-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250910/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Juli 2025)
+vom 1. November 2017 (Stand am 10. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG),
 
 verordnet:
 
-[^ingress-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-1]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -49,7 +49,7 @@ In dieser Verordnung bedeuten:
 - f. *Wärme-Kraft-Kopplung (WKK):* gleichzeitige Bereitstellung von Kraft und Wärme aus dem Umwandlungsprozess von Brennstoff in Gasturbinen, Dampfturbinen, Verbrennungsmotoren, anderen thermischen Anlagen und Brennstoffzellen;
 - g.[^2-2] *steuerbare Wasserkraftanlage:* Wasserkraftanlage, die über einen Speicher verfügt, mit dessen Inhalt während mindestens sechs Volllaststunden Elektrizität produziert werden kann.
 
-[^2-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^2-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^2-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 3
@@ -82,7 +82,7 @@ Als Neuanlage gilt ebenfalls:
 
 <sup>2</sup> Bei Holzkraftwerken bestimmt sich die Leistung nach der vom Hersteller in der Liefervereinbarung genannten Leistung. Ist die Leistung unklar, so wird sie von der Vollzugsstelle nach Anhörung des BFE unter Berücksichtigung aller Anlagenkomponenten festgelegt.[^4-2]
 
-[^4-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^4-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^4-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 5
@@ -136,7 +136,7 @@ Als kleine Photovoltaikanlagen gelten:
 <sup>6</sup> Als Deponiegasanlagen gelten Anlagen zur Nutzung des Gases aus Deponien nach den Artikeln 35–43 VVEA zur Erzeugung von Elektrizität.
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^7a-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^7a-2]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 #### Art. 8
 
@@ -176,8 +176,8 @@ Nebst den Nebennutzungsanlagen nach Artikel 26 Absatz 4 EnG sind folgende Wasser
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^9-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^9-4]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^9-3]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^9-4]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 10
 
@@ -185,7 +185,7 @@ Nebst den Nebennutzungsanlagen nach Artikel 26 Absatz 4 EnG sind folgende Wasser
 
 Für den Eigenverbrauch und den Zusammenschluss zum Eigenverbrauch gelten die Bestimmungen des 4. Kapitels 2. Abschnitt der EnV[^10-1].
 
-[^10-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^10-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 ## 2. Kapitel: Einspeisevergütungssystem
 
@@ -197,7 +197,7 @@ Für den Eigenverbrauch und den Zusammenschluss zum Eigenverbrauch gelten die Be
 
 Die Anschlussbedingungen nach Artikel 10 EnV[^11-1] sowie die Bestimmung der zu vergütenden Elektrizitätsmenge nach Artikel 11 EnV gelten sinngemäss auch für Betreiber von Anlagen im Einspeisevergütungssystem.
 
-[^11-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^11-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 12
 
@@ -253,9 +253,9 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/de/xml/image/image1.png).[^16-2]
 
-[^16-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^16-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 17
@@ -515,7 +515,7 @@ Die Vollzugsstelle verfügt den Ausschluss eines Betreibers aus dem Einspeisever
 
 Für die Anschlussbedingungen und die zu vergütende Elektrizität gelten die Artikel 10 und 11 EnV[^30a-1] auch für Betreiber von Anlagen im System der gleitenden Marktprämie.
 
-[^30a-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^30a-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 30a<sup>bis</sup>
 
@@ -581,7 +581,7 @@ Der Prozentsatz beträgt:
 
 <sup>2</sup> Dies gilt nicht für Betreiber von Wasserkraftanlagen.
 
-[^30asexies-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^30asexies-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 30a<sup>septies</sup>
 
@@ -671,7 +671,7 @@ Die Erneuerung einer Anlage ist erheblich, wenn:
 
 <sup>2</sup> Die Gesuche sind jeweils bis zum zweijährlichen Stichtag einzureichen. Die Stichtage sind jeweils der 30. Juni der geraden Kalenderjahre, letztmals der 30. Juni 2034.
 
-[^30bter-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^30bter-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 30b<sup>quater</sup>
 
@@ -1060,7 +1060,7 @@ Die Inbetriebnahmemeldung hat mindestens folgende Angaben und Unterlagen zu enth
 - b. die Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 der Verordnung des UVEK vom 1. November 2017[^30edecies-1] über den Herkunftsnachweis und die Stromkennzeichnung (HKSV);
 - c. allfällige Änderungen gegenüber den im Gesuch gemachten Angaben.
 
-[^30edecies-1]: [SR 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^30edecies-1]: [SR 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 #### Art. 30e<sup>undecies</sup>
 
@@ -1144,7 +1144,7 @@ Eine Anlage, für die eine Einmalvergütung oder ein Investitionsbeitrag ausbeza
 <sup>3</sup> Die Einmalvergütung oder der Investitionsbeitrag wird zudem ganz oder teilweise zurückgefordert, wenn die Bedingungen des Energiemarkts zu einer übermässigen Rentabilität führen.
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^34-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^34-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 [^34-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^34-4]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
@@ -1832,7 +1832,7 @@ Für erhebliche Erneuerungen beträgt der Investitionsbeitrag:
 <sup>3</sup> Können alle bis zu einem Stichtag eingereichten Gesuche berücksichtigt werden und stehen danach noch Mittel zur Verfügung, so können auch später eingereichte Gesuche laufend berücksichtigt werden, bis die Mittel für diese zwei Jahre ausgeschöpft sind.
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^51-2]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^51-2]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 52
 
@@ -1980,8 +1980,8 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
 [^62-2]: Fassung gemäss Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^62-3]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^62-4]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^62-3]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^62-4]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 [^62-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 63
@@ -2657,22 +2657,23 @@ Ertragsseitig werden die Erlöse gemäss den nachfolgenden Quellen und Annahmen 
 Zur Berechnung der Gestehungskosten werden die für eine effiziente Produktion unmittelbar nötigen Betriebskosten berücksichtigt. Berücksichtigt werden auch:[^90-1]
 
 - a. der Wasserzins;
-- b. Mindererlöse aufgrund von Elektrizität, die dem Gemeinwesen kostenlos oder vergünstigt abzugeben ist;
+- b.[^90-2] Mindererlöse aufgrund von Elektrizität, die dem Gemeinwesen kostenlos oder vergünstigt abzugeben ist;
 - c. die direkten Steuern, die Gewinnsteuer jedoch nur, wenn sie einem tatsächlichen Gewinn entspricht, nicht aber, soweit sie zugunsten des lokalen Gemeinwesens, aufgrund einer Abmachung und gewinnunabhängig geschuldet ist;
-- d.[^90-2]
+- d.[^90-3]
 
   die Aufwendungen für gesamtbetriebliche Leistungen und die Vermarktung in der Höhe von:
 
   - 1\. 0,40 Rp./kWh für Laufwasserkraftwerke,
   - 2\. 0,55 Rp./kWh für Speicher-, Pumpspeicher- und Umwälzkraftwerke.
 
-<sup>2</sup> Als Gestehungskosten ebenfalls berücksichtigt werden die kalkulatorischen Kapitalkosten. Massgebend ist der Zinssatz nach Anhang 3. Abschreibungen sind grundsätzlich gemäss der bisherigen Praxis für die jeweilige Anlage vorzunehmen.[^90-3]
+<sup>2</sup> Als Gestehungskosten ebenfalls berücksichtigt werden die kalkulatorischen Kapitalkosten. Massgebend ist der Zinssatz nach Anhang 3. Abschreibungen sind grundsätzlich gemäss der bisherigen Praxis für die jeweilige Anlage vorzunehmen.[^90-4]
 
 <sup>3</sup> Das BFE legt in einer Richtlinie die anrechenbaren Betriebs- und Kapitalkosten fest.
 
 [^90-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^90-2]: Die Berichtigung vom 10. Sept. 2025 betrifft nur den italienischen Text ([AS 2025 552](https://fedlex.data.admin.ch/eli/oc/2025/552)).
+[^90-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^90-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 2. Abschnitt: Marktprämie und Grundversorgung
 
@@ -2757,7 +2758,7 @@ In den Fällen mit Grundversorgung ist ausserdem mindestens auszuweisen:
 
 <sup>4</sup> Es kann die Elektrizitätskommission (ElCom) zur Unterstützung beim Vollzug beiziehen. Die ElCom macht auf Anfrage des BFE Abgleiche zu den tatsächlichen Absätzen in der Grundversorgung, wobei sie die vom BFE gelieferten Daten mit ihren eigenen vergleicht.
 
-[^95-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^95-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 96
 
@@ -2765,7 +2766,7 @@ In den Fällen mit Grundversorgung ist ausserdem mindestens auszuweisen:
 
 Ergibt sich aus einer Überprüfung oder Kontrolle, dass jemand insbesondere wegen falscher Angaben zu Unrecht eine Marktprämie oder eine zu hohe Marktprämie erhalten hat, so fordert das BFE bis fünf Jahre ab der letzten Auszahlung die zu viel erhaltene Marktprämie aller Jahre zurück (Art. 30 Abs. 3 Subventionsgesetz vom 5. Okt. 1990[^96-1]).
 
-[^96-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^96-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## 7*a*. Kapitel: Betriebskostenbeitrag für Biomasseanlagen
 
@@ -2798,7 +2799,7 @@ Kein Betriebskostenbeitrag gewährt wird:
 
 <sup>4</sup> Der Betriebskostenbeitrag reduziert sich bei Betreibern, die nach den Artikeln 10–13 MWSTG[^96b-1] steuerpflichtig sind, um den Faktor nach Artikel 16 Absatz 4.[^96b-2]
 
-[^96b-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^96b-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^96b-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
@@ -2894,7 +2895,7 @@ Die Vollzugsstelle verfügt den Ausschluss einer Anlage von der Gewährung des B
 
 [^chap8-1]
 
-[^chap8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^chap8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 97
 
@@ -3011,7 +3012,7 @@ Das BFE gibt für den Vollzug des Mineralölsteuergesetzes vom 21. Juni 1996[^10
 - d. Angaben über die Elektrizität und die Wärme, die aus Treib- und Brennstoffen produziert werden;
 - e. Angaben zur Anlage, insbesondere Produktionsprozesse, Kapazität, Leistung, Wirkungsgrad und Datum der Inbetriebnahme.
 
-[^100-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^100-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 101
 
@@ -3163,7 +3164,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -3183,8 +3184,8 @@ Anhang 1.1[^t-1]
 - 2\.6.1 Die Vergütung wird per Ende des Kalenderjahres aufgrund des Vergütungssatzes für das betreffende Jahr und der erfassten Elektrizität abgerechnet.
 - 2\.6.2 Vorherige Teilzahlungen werden aufgrund des Vergütungssatzes des Vorjahres geleistet, bei Anlagen, die noch nicht ein volles Kalenderjahr in Betrieb sind, aufgrund der Planungswerte nach Ziffer 5.1.
 
-[^annex11-lvlu1-lvl2-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex11-lvlu1-lvl2-2]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex11-lvlu1-lvl2-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^annex11-lvlu1-lvl2-2]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### 3 Vergütungssatzberechnung bei nachträglicher Erweiterung oder Erneuerung
 
@@ -3333,8 +3334,8 @@ Anhang 1.2[^t-2]
   - c. allfällige Änderungen gegenüber den im Gesuch gemachten Angaben;
   - d. Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV[^annex12-lvlu1-lvl4-2].
 
-[^annex12-lvlu1-lvl4-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex12-lvlu1-lvl4-2]: [SR 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex12-lvlu1-lvl4-1]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex12-lvlu1-lvl4-2]: [SR 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 ### 5 Übergangsbestimmungen für Anlagen, die vor dem 1. Januar 2013 in Betrieb genommen wurden
 
@@ -3509,7 +3510,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -3581,7 +3582,7 @@ Anhang 1.4[^t-4]
   - b. allfällige Änderungen gegenüber den im Gesuch oder der Projektfortschrittsmeldung gemachten Angaben;
   - c. Bestätigung des Bundesamtes für Landestopographie, dass ihr die Projektantin oder der Projektant sämtliche Geodaten zur Bearbeitung gemäss dem Geoinformationsgesetz vom 5. Oktober 2007[^annex14-lvlu1-lvl6-1] zur Verfügung gestellt hat.
 
-[^annex14-lvlu1-lvl6-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^annex14-lvlu1-lvl6-1]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 ### 7 Übergangsbestimmungen
 
@@ -3633,7 +3634,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -3646,7 +3647,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/de/xml/image/image5.png)
 
 - b.
 
@@ -3662,7 +3663,7 @@ Anhang 1.5[^t-5]
 - 2\.3.4 Werden erneuerbare Treibstoffe für den Antrieb einer Elektrizitätsproduktionsanlage eingesetzt, so muss im Zeitpunkt der Treibstoffannahme für jeden einzusetzenden Treibstoff eine Nachweisnummer des Bundesamts für Zoll und Grenzsicherheit vorliegen.
 - 2\.3.5 Wird biogenes Gas aus dem Erdgasnetz bezogen, so gelten die ökologischen Mindestanforderungen als erfüllt, wenn der Gaslieferant mittels Herkunftsnachweisen belegt, dass die bezogene Gasmenge aus dem Erdgasnetz entnommen wurde.
 
-[^annex15-lvlu1-lvl2-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^annex15-lvlu1-lvl2-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ### 3 Vergütungssatz
 
@@ -3909,8 +3910,8 @@ Anhang 2.1[^t-6]
   - l. für Anlagen nach Artikel 7 Absatz 3: die Erklärung, dass der Betreiber auf die Vergütung des Leistungsbeitrags für die Leistung ab 100 kW verzichtet;
   - m. die Erklärung, ob die Anlage die gesamte produzierte Elektrizität einspeist oder ob vom Eigenverbrauch gemäss Artikel 16 EnG Gebrauch gemacht wird.
 
-[^annex21-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex21-lvlu1-lvl3-2]: [SR 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex21-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex21-lvlu1-lvl3-2]: [SR 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 ### 4 Gesuch und Inbetriebnahmemeldung für grosse Anlagen
 
@@ -4531,8 +4532,8 @@ Anhang 2.5[^t-10]
   - a. bei Prospektion: 24 Monate;
   - b. bei Erschliessung: 12 Monate.
 
-[^annex25-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex25-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^annex25-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^annex25-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
 Anhang 2.6[^t-11]
 
@@ -4593,7 +4594,7 @@ Anhang 3[^t-12]
 
 - Der kalkulatorische Zinssatz entspricht dem durchschnittlichen Kapitalkostensatz. Die Berechnung und die Bekanntgabe richten sich unter Vorbehalt der in Ziffer 3 genannten Abweichungen nach Artikel 13 Absätze 3 Buchstabe b und 3<sup>bis</sup> in Verbindung mit Anhang 1 der Stromversorgungsverordnung vom 14. März 2008[^annex3-lvlu1-lvl1-1] (StromVV).
 
-[^annex3-lvlu1-lvl1-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^annex3-lvlu1-lvl1-1]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 ### 1*a* Abweichung von Ziffer 1.1 Anhang 1 StromVV
 
@@ -4818,8 +4819,8 @@ Anhang 5[^t-14]
   - c. Abnahmeprotokoll mit detaillierter Beschreibung oder Sicherheitsnachweis nach Artikel 37 NIV[^annex5-lvlu1-lvl5-1] inklusive Mess- und Prüfprotokollen;
   - d. Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV[^annex5-lvlu1-lvl5-2].
 
-[^annex5-lvlu1-lvl5-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex5-lvlu1-lvl5-2]: [SR 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex5-lvlu1-lvl5-1]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex5-lvlu1-lvl5-2]: [SR 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 Anhang 6.1[^t-15]
 
@@ -5010,7 +5011,7 @@ Anhang 6.1[^t-15]
   - b. bei erheblichen Erweiterungen: die Nettoproduktion der erweiterten Anlage, von der die mittlere Nettoproduktion der letzten fünf Jahre vor der Erweiterung abgezogen wird;
   - c. bei erheblichen Erneuerungen: der Anteil an der Nettoproduktion, der dem Verhältnis der Mehrproduktion, die aufgrund der Erneuerung erzielt wird, zur Nettoproduktion nach der Erneuerung entspricht; für die Ermittlung der Mehrproduktion wird die Nettoproduktion der Anlage nach der Erneuerung mit der Produktion aus den nicht erneuerten Anlagenteilen verglichen, wobei davon ausgegangen wird, dass die erneuerten Anlagenteile vor der Erneuerung nicht mehr funktionstüchtig waren; das Verhältnis der Mehrproduktion aufgrund der Erneuerung zur Nettoproduktion nach der Erneuerung wird nach fünf Betriebsjahren überprüft und wenn notwendig neu festgesetzt.
 
-[^annex61-lvlu1-lvl4-1]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^annex61-lvlu1-lvl4-1]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 
 ### 5 Jährlich einzureichende Informationen für die Abrechnungsperiode
 

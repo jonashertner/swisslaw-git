@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2025-07-01
+version: 2025-09-10
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250910-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250910/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> juillet 2025)
+du 1<sup>er</sup> novembre 2017 (État le 10 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 30 septembre 2016 sur l’énergie (LEne)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ## Chapitre 1 Dispositions générales
 
@@ -49,7 +49,7 @@ Dans la présente ordonnance, on entend par:
 - f. *couplage chaleur-force* *(CCF):* production simultanée de force et de chaleur issues du processus de transformation du combustible dans les turbines à gaz, les turbines à vapeur, les moteurs à combustion, les autres installations thermiques et les piles à combustibles;
 - g.[^2-2] *installation hydroélectrique contrôlable:* installation hydroélectrique disposant d’un réservoir dont le contenu permet de produire de l’électricité pendant au moins six heures à pleine charge.
 
-[^2-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^2-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^2-2]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 3
@@ -82,7 +82,7 @@ Est aussi réputée nouvelle installation:
 
 <sup>2</sup> La puissance d’une centrale électrique à bois est déterminée en fonction de la puissance indiquée par le fabricant dans le contrat de livraison. Si la puissance ne peut pas être clairement déterminée, l’organe d’exécution fixe celle-ci après consultation de l’OFEN et en tenant compte de toutes les composantes de l’installation.[^4-2]
 
-[^4-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^4-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^4-2]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 5
@@ -136,7 +136,7 @@ Sont réputées petites installations photovoltaïques:
 <sup>6</sup> Sont réputées installations au gaz de décharge les installations destinées à utiliser du gaz provenant de décharges au sens des art. 35 à 43 OLED pour la production d’électricité.
 
 [^7a-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^7a-2]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^7a-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 #### Art. 8
 
@@ -176,8 +176,8 @@ En plus des installations d’exploitation accessoire visées à l’art. 26, al
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^9-2]: Introduite par le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^9-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^9-4]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^9-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^9-4]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 10
 
@@ -185,7 +185,7 @@ En plus des installations d’exploitation accessoire visées à l’art. 26, al
 
 Les dispositions du chap. 4, section 2, OEne[^10-1] s’appliquent à la consommation propre et au regroupement dans le cadre de la consommation propre.
 
-[^10-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^10-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 ## Chapitre 2 Système de rétribution de l’injection
 
@@ -197,7 +197,7 @@ Les dispositions du chap. 4, section 2, OEne[^10-1] s’appliquent à la consomm
 
 Les conditions de raccordement visées à l’art. 10 OEne[^11-1] et la disposition relative à la quantité d’électricité à rétribuer au sens de l’art. 11 OEne s’appliquent aussi par analogie aux exploitants d’installations participant au système de rétribution de l’injection.
 
-[^11-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^11-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 12
 
@@ -253,9 +253,9 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>4</sup> La prime d’injection est réduite du facteur du taux normal en vigueur fixé à l’art. 25, al. 1, de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1], arrondi à la quatrième décimale, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA; le facteur est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image1.png) .[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image1.png) .[^16-2]
 
-[^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^16-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 17
@@ -515,7 +515,7 @@ L’organe d’exécution décide l’exclusion d’un exploitant du système de
 
 Concernant les conditions de raccordement et la quantité d’électricité à rétribuer, les art. 10 et 11 OEne[^30a-1] s’appliquent aussi aux exploitants d’installations participant au système de la prime de marché flottante.
 
-[^30a-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^30a-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 30a<sup>bis</sup>
 
@@ -581,7 +581,7 @@ Le pourcentage est de:
 
 <sup>2</sup> Cette règle ne s’applique pas aux exploitants d’installations hydroélectriques.
 
-[^30asexies-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^30asexies-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 30a<sup>septies</sup>
 
@@ -671,7 +671,7 @@ La rénovation d’une installation est réputée notable:
 
 <sup>2</sup> Les demandes doivent être déposées jusqu’à une date de référence bisannuelle. La date de référence est le 30 juin de chaque année civile dont le chiffre est pair, la dernière étant le 30 juin 2034.
 
-[^30bter-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^30bter-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 30b<sup>quater</sup>
 
@@ -1060,7 +1060,7 @@ L’avis de mise en service doit comporter au moins les données et les document
 - b. certificat de conformité attestant les données de l’installation conformément à l’art. 2, al. 2, de l’ordonnance du DETEC du 1<sup>er</sup> novembre 2017 sur la garantie d’origine et le marquage de l’électricité (OGOM)[^30edecies-1];
 - c. modifications éventuelles par rapport aux données figurant dans la demande.
 
-[^30edecies-1]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^30edecies-1]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 #### Art. 30e<sup>undecies</sup>
 
@@ -1144,7 +1144,7 @@ Une installation pour laquelle une rétribution unique ou une contribution d’i
 <sup>3</sup> La restitution partielle ou intégrale de la rétribution unique ou de la contribution d’investissement est également exigée lorsque les conditions du marché de l’énergie entraînent une rentabilité excessive.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^34-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^34-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 [^34-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^34-4]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
@@ -1832,7 +1832,7 @@ Pour les rénovations notables, la contribution d’investissement s’élève �
 <sup>3</sup> Si toutes les demandes déposées jusqu’à une date de référence peuvent être prises en compte et que des moyens sont encore disponibles, les demandes déposées par la suite peuvent aussi être prises en compte au fur et à mesure jusqu’à ce que les moyens disponibles pour ces deux années soient épuisés.
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^51-2]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^51-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 52
 
@@ -1982,8 +1982,8 @@ Ne sont notamment pas imputables:
 
 [^62-1]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
 [^62-2]: Nouvelle teneur selon le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^62-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^62-4]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^62-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^62-4]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 [^62-5]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 63
@@ -2657,22 +2657,23 @@ Les recettes sont prises en compte conformément aux sources et aux hypothèses 
 Les coûts d’exploitation indispensables à une production efficace sont pris en compte dans le calcul des coûts de revient. Sont également pris en compte:[^90-1]
 
 - a. la redevance hydraulique;
-- b. les manques à gagner dus à l’électricité cédée à la collectivité publique à titre gratuit ou à prix réduit;
+- b.[^90-2] les manques à gagner dus à l’électricité cédée à la collectivité publique à titre gratuit ou à prix réduit;
 - c. les impôts directs, les impôts sur le bénéfice seulement s’ils correspondent à un bénéfice réel et ne sont pas dus à la collectivité publique locale sur la base d’un accord et indépendamment des bénéfices;
-- d.[^90-2]
+- d.[^90-3]
 
   les dépenses pour des prestations de services globales et la commercialisation à hauteur de:
 
   - 1\. 0,40 ct./kWh pour les centrales au fil de l’eau,
   - 2\. 0,55 ct./kWh pour les centrales à accumulation, les centrales à pompage-turbinage et les centrales à pompage-turbinage pur.
 
-<sup>2</sup> Les coûts de capital calculés sont également pris en compte en tant que coûts de revient. Le taux d’intérêt visé à l’annexe 3 s’applique. Les amortissements sont en principe effectués conformément à l’ancienne pratique pour l’installation concernée.[^90-3]
+<sup>2</sup> Les coûts de capital calculés sont également pris en compte en tant que coûts de revient. Le taux d’intérêt visé à l’annexe 3 s’applique. Les amortissements sont en principe effectués conformément à l’ancienne pratique pour l’installation concernée.[^90-4]
 
 <sup>3</sup> L’OFEN fixe dans une directive les coûts d’exploitation et de capital imputables.
 
 [^90-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-2]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^90-2]: Erratum du 10 sept. 2025, ne concerne que le texte italien ([RO 2025 552](https://fedlex.data.admin.ch/eli/oc/2025/552)).
+[^90-3]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^90-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Section 2 Prime de marché et approvisionnement de base
 
@@ -2757,7 +2758,7 @@ En outre, les éléments suivants doivent au moins être présentés dans les ca
 
 <sup>4</sup> Il peut faire appel au soutien de la Commission de l’électricité (ElCom) aux fins d’exécution. Sur demande de l’OFEN, l’ElCom effectue des recoupements relatifs aux ventes réalisées dans l’approvisionnement de base en comparant les données fournies par l’OFEN avec ses propres données.
 
-[^95-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^95-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 96
 
@@ -2765,7 +2766,7 @@ En outre, les éléments suivants doivent au moins être présentés dans les ca
 
 S’il résulte d’une vérification ou d’un contrôle qu’un bénéficiaire a perçu indûment une prime de marché ou une prime de marché trop élevée notamment en raison de fausses indications, l’OFEN exige, jusqu’à cinq ans après le dernier versement, la restitution de la prime perçue en trop pour toutes les années concernées (art. 30, al. 3, de la L du 5 oct. 1990 sur les subventions[^96-1]).
 
-[^96-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^96-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Chapitre 7*a* Contribution aux coûts d’exploitation allouée pour les installations de biomasse
 
@@ -2798,7 +2799,7 @@ Aucune contribution aux coûts d’exploitation n’est accordée:
 
 <sup>4</sup> La contribution aux coûts d’exploitation est réduite du facteur prévu à l’art. 16, al. 4, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA[^96b-1].[^96b-2]
 
-[^96b-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^96b-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^96b-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### Section 2 Ordre de prise en compte et liste d’attente
@@ -2894,7 +2895,7 @@ L’organe d’exécution décide l’exclusion d’une installation du soutien 
 
 [^chap8-1]
 
-[^chap8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^chap8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 97
 
@@ -3011,7 +3012,7 @@ Pour l’exécution de la loi du 21 juin 1996 sur l’imposition des huiles min�
 - d. indications sur l’électricité et la chaleur produites à partir de carburants et de combustibles;
 - e. indications sur l’installation, en particulier les procédés de production, la capacité, la puissance, le rendement et la date de mise en service.
 
-[^100-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^100-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 101
 
@@ -3163,7 +3164,7 @@ Annexe 1.1[^t-1]
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image2.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -3183,8 +3184,8 @@ Annexe 1.1[^t-1]
 - 2\.6.1 La rétribution est décomptée à la fin de l’année civile sur la base du taux de rétribution pour l’année concernée et de l’électricité enregistrée.
 - 2\.6.2 Les éventuels paiements partiels préalables sont effectués sur la base du taux de rétribution de l’année précédente ou, pour les installations qui ne sont pas en service depuis une année civile complète, sur la base des valeurs de planification du ch. 5.1.
 
-[^annex11-lvlu1-lvl2-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex11-lvlu1-lvl2-2]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex11-lvlu1-lvl2-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^annex11-lvlu1-lvl2-2]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### 3 Calcul du taux de rétribution en cas d’agrandissement ou de rénovation ultérieurs
 
@@ -3333,8 +3334,8 @@ Annexe 1.2[^t-2]
   - c. modifications éventuelles par rapport aux données figurant dans la demande;
   - d. certificat de conformité attestant les données de l’installation conformément à l’art. 2, al. 2, OGOM[^annex12-lvlu1-lvl4-2].
 
-[^annex12-lvlu1-lvl4-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex12-lvlu1-lvl4-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex12-lvlu1-lvl4-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex12-lvlu1-lvl4-2]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 ### 5 Dispositions transitoires relatives aux installations mises en service avant le 1<sup>er</sup> janvier 2013
 
@@ -3509,7 +3510,7 @@ Annexe 1.4[^t-4]
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image3.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -3581,7 +3582,7 @@ Annexe 1.4[^t-4]
   - b. modifications éventuelles par rapport aux données figurant dans la demande ou dans l’avis d’avancement du projet;
   - c. confirmation de l’Office fédéral de topographie que le responsable de projet lui a remis toutes les géodonnées utiles au traitement, conformément à la loi du 5 octobre 2007 sur la géoinformation[^annex14-lvlu1-lvl6-1].
 
-[^annex14-lvlu1-lvl6-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^annex14-lvlu1-lvl6-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 ### 7 Dispositions transitoires
 
@@ -3633,7 +3634,7 @@ Annexe 1.5[^t-5]
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image4.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -3646,7 +3647,7 @@ Annexe 1.5[^t-5]
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image5.png)
 
 - b.
 
@@ -3662,7 +3663,7 @@ Annexe 1.5[^t-5]
 - 2\.3.4 Si les carburants renouvelables sont utilisés pour la propulsion d’une installation de production d’électricité, il faut disposer, au moment de la réception des carburants, d’un numéro de preuve de l’Office fédéral de la douane et de la sécurité des frontières pour chaque carburant utilisé.
 - 2\.3.5 Lorsque du gaz biogène est prélevé sur le réseau de gaz naturel, les exigences écologiques minimales sont considérées comme remplies si le fournisseur de gaz apporte la preuve au moyen de garanties d’origine que le volume de gaz prélevé l’a été sur le réseau de gaz naturel.
 
-[^annex15-lvlu1-lvl2-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^annex15-lvlu1-lvl2-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ### 3 Taux de rétribution
 
@@ -3909,8 +3910,8 @@ Annexe 2.1[^t-6]
   - l. pour les installations visées à l’art. 7, al. 3: la déclaration que l’exploitant renonce à la rétribution de la contribution liée à la puissance pour la puissance égale ou supérieure à 100 kW;
   - m. déclaration selon laquelle l’installation injecte la totalité de l’électricité produite ou sert à la consommation propre au sens de l’art. 16 LEne.
 
-[^annex21-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex21-lvlu1-lvl3-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex21-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex21-lvlu1-lvl3-2]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 ### 4 Demande et avis de mise en service pour les grandes installations
 
@@ -4531,8 +4532,8 @@ Annexe 2.5[^t-10]
   - a. en cas de prospection: 24 mois;
   - b. en cas de mise en valeur: 12 mois.
 
-[^annex25-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex25-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^annex25-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^annex25-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
 Annexe 2.6[^t-11]
 
@@ -4593,7 +4594,7 @@ Annexe 3[^t-12]
 
 - Le taux d’intérêt calculé correspond au coût moyen pondéré du capital. Sous réserve des dérogations visées au ch. 3, le calcul et la communication de ce taux se fondent sur l’art. 13, al. 3, let. b, et 3<sup>bis</sup>, en relation avec l’annexe 1, de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité (OApEl)[^annex3-lvlu1-lvl1-1].
 
-[^annex3-lvlu1-lvl1-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^annex3-lvlu1-lvl1-1]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 ### 1*a* Dérogation au chiffre 1.1 de l’annexe 1 OApEl
 
@@ -4818,8 +4819,8 @@ Annexe 5[^t-14]
   - c. procès-verbal de reprise comprenant un descriptif technique détaillé ou un rapport de sécurité au sens de l’art. 37 OIBT[^annex5-lvlu1-lvl5-1], y compris les procès-verbaux de mesure et de contrôle;
   - d. certificat de conformité attestant les données de l’installation conformément à l’art. 2, al. 2, OGOM[^annex5-lvlu1-lvl5-2].
 
-[^annex5-lvlu1-lvl5-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex5-lvlu1-lvl5-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex5-lvlu1-lvl5-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex5-lvlu1-lvl5-2]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 Annexe 6.1[^t-15]
 
@@ -5010,7 +5011,7 @@ Annexe 6.1[^t-15]
   - b. dans le cas des agrandissements notables: la production nette de l’installation agrandie, après déduction de la production nette moyenne des cinq dernières années précédant l’agrandissement;
   - c. dans le cas des rénovations notables: la part de la production nette qui correspond au rapport entre la production supplémentaire réalisée en raison de la rénovation, d’une part, et la production nette après la rénovation, d’autre part; pour déterminer la production supplémentaire, la production nette de l’installation après la rénovation est comparée à la production des parties non rénovées de l’installation; on part donc du principe que les parties rénovées de l’installation n’étaient plus opérationnelles avant la rénovation; le rapport entre la production supplémentaire liée à la rénovation et la production nette après la rénovation est vérifié après cinq années d’exploitation et recalculé si nécessaire
 
-[^annex61-lvlu1-lvl4-1]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^annex61-lvlu1-lvl4-1]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 
 ### 5 Informations à remettre chaque année pour la période de décompte
 

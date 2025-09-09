@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2025-07-01
+version: 2025-09-10
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250910-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250910/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250701/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° luglio 2025)
+del 1° novembre 2017 (Stato 10 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 30 settembre 2016[^ingress-1] sull’energia (LEne),
 
 ordina:
 
-[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -49,7 +49,7 @@ Nella presente ordinanza s’intende per:
 - f. *cogenerazione:* la produzione simultanea di forza e calore attraverso processi di trasformazione di combustibile in turbine a gas, turbine a vapore, motori a combustione interna, altri impianti termici e celle a combustibile;
 - g.[^2-2] *impianto idroelettrico controllabile:* un impianto idroelettrico che dispone di un serbatoio di accumulo con il cui contenuto può essere prodotta elettricità durante almeno sei ore a pieno carico.
 
-[^2-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^2-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^2-2]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 3
@@ -82,7 +82,7 @@ Sono considerati parimenti nuovi impianti:
 
 <sup>2</sup> Per le centrali elettriche a legna, la potenza si determina in base alla potenza specificata dal produttore nell’accordo di fornitura. Se la potenza non è certa, l’organo d’esecuzione la stabilisce, sentito l’UFE, tenendo conto di tutte le componenti dell’impianto.[^4-2]
 
-[^4-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^4-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^4-2]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 5
@@ -136,7 +136,7 @@ Per impianti fotovoltaici di piccole dimensioni s’intendono:
 <sup>6</sup> Per impianti a gas di discarica s’intendono gli impianti per lo sfruttamento del gas delle discariche di cui agli articoli 35–43 OPSR per la produzione di elettricità.
 
 [^7a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^7a-2]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^7a-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 #### Art. 8
 
@@ -176,8 +176,8 @@ Oltre agli impianti accessori secondo l’articolo 26 capoverso 4 LEne, gli impi
 
 [^9-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^9-2]: Introdotta dalla cifra I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^9-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^9-4]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^9-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^9-4]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 10
 
@@ -185,7 +185,7 @@ Oltre agli impianti accessori secondo l’articolo 26 capoverso 4 LEne, gli impi
 
 Per il consumo proprio e il raggruppamento ai fini del consumo proprio si applicano le disposizioni del capitolo 4 sezione 2 OEn[^10-1].
 
-[^10-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^10-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 ## Capitolo 2: Sistema di rimunerazione per l’immissione di elettricità
 
@@ -197,7 +197,7 @@ Per il consumo proprio e il raggruppamento ai fini del consumo proprio si applic
 
 Le condizioni di raccordo di cui all’articolo 10 OEn[^11-1] e la determinazione della quantità di elettricità da rimunerare secondo l’articolo 11 OEn si applicano per analogia anche ai gestori di impianti nel sistema di rimunerazione per l’immissione di elettricità.
 
-[^11-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^11-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 12
 
@@ -253,9 +253,9 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image1.png).[^16-2]
 
-[^16-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^16-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Introdotto dalla cifra I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 #### Art. 17
@@ -515,7 +515,7 @@ L’organo d’esecuzione dispone l’esclusione di un gestore dal sistema di ri
 
 Per quanto riguarda le condizioni di raccordo e l’elettricità da rimunerare, gli articoli 10 e 11 OEn[^30a-1] si applicano anche ai gestori di impianti nel sistema dei premi di mercato fluttuanti.
 
-[^30a-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^30a-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 30a<sup>bis</sup>
 
@@ -581,7 +581,7 @@ La percentuale è la seguente:
 
 <sup>2</sup> Ciò non si applica ai gestori di impianti idroelettrici.
 
-[^30asexies-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^30asexies-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 #### Art. 30a<sup>septies</sup>
 
@@ -671,7 +671,7 @@ Il rinnovamento di un impianto è considerato considerevole se:
 
 <sup>2</sup> Le domande devono essere presentate entro un giorno di riferimento che ricorre a cadenza biennale. I giorni di riferimento sono il 30 giugno di ogni anno civile pari, l’ultima volta il 30 giugno 2034.
 
-[^30bter-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^30bter-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 30b<sup>quater</sup>
 
@@ -1060,7 +1060,7 @@ La notifica di messa in esercizio deve contenere almeno le indicazioni e i docum
 - b. la certificazione dei dati dell’impianto secondo l’articolo 2 capoverso 2 dell’ordinanza del DATEC del 1° novembre 2017[^30edecies-1] sulla garanzia di origine e l’etichettatura dell’elettricità (OGOE);
 - c. eventuali modifiche rispetto alle indicazioni fornite nella domanda.
 
-[^30edecies-1]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^30edecies-1]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 #### Art. 30e<sup>undecies</sup>
 
@@ -1144,7 +1144,7 @@ Un impianto per il quale sono stati versati una rimunerazione unica o un contrib
 <sup>3</sup> Viene inoltre richiesta la restituzione intera o parziale della rimunerazione unica o dei contributi d’investimento se le condizioni del mercato dell’energia determinano una redditività eccessiva.
 
 [^34-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^34-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^34-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 [^34-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^34-4]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
@@ -1833,7 +1833,7 @@ Per i rinnovamenti considerevoli il contributo d’investimento ammonta:
 <sup>3</sup> Se tutte le domande presentate entro un giorno di riferimento possono essere prese in considerazione e in seguito rimangono ancora disponibili risorse sufficienti, anche le domande presentate successivamente possono essere prese in considerazione fino a quando le risorse previste per tale biennio sono esaurite.
 
 [^51-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^51-2]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^51-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 52
 
@@ -1981,8 +1981,8 @@ Non sono computabili in particolare i costi:
 
 [^62-1]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
 [^62-2]: Nuovo testo giusta la cifra I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^62-3]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^62-4]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^62-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^62-4]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 [^62-5]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 63
@@ -2658,22 +2658,23 @@ Sotto il profilo del reddito vengono presi in considerazione i ricavi secondo le
 Per il calcolo dei costi di produzione vengono presi in considerazione i costi d’esercizio direttamente necessari per una produzione efficiente. Vengono considerati anche:[^90-1]
 
 - a. i canoni per i diritti d’acqua;
-- b. i ricavi minimi sulla base dell’elettricità da fornire all’ente pubblico a titolo gratuito o a un canone ridotto;
+- b.[^90-2] i minori ricavi sulla base dell’elettricità da fornire all’ente pubblico a titolo gratuito o a un canone ridotto;
 - c. le imposte dirette; le imposte sull’utile, tuttavia, soltanto se corrispondono a un utile effettivo ma non se sono dovute all’ente pubblico locale sulla scorta di un accordo e non vincolate all’utile;
-- d.[^90-2]
+- d.[^90-3]
 
   gli oneri per le prestazioni di servizio globali e la commercializzazione per un importo di:
 
   - 1\. 0,40 ct./kWh per centrali ad acqua fluente,
   - 2\. 0,55 ct./kWh per le centrali ad accumulazione, ad accumulazione con pompaggio e di pompaggio-turbinaggio.
 
-<sup>2</sup> In qualità di costi di produzione sono altresì presi in considerazione i costi del capitale calcolatori. È determinante il tasso d’interesse calcolatorio secondo l’allegato 3. Gli ammortamenti vanno effettuati in linea di principio rispettando l’attuale prassi per l’impianto pertinente.[^90-3]
+<sup>2</sup> In qualità di costi di produzione sono altresì presi in considerazione i costi del capitale calcolatori. È determinante il tasso d’interesse calcolatorio secondo l’allegato 3. Gli ammortamenti vanno effettuati in linea di principio rispettando l’attuale prassi per l’impianto pertinente.[^90-4]
 
 <sup>3</sup> L’UFE determina in una direttiva i costi d’esercizio e del capitale computabili.
 
 [^90-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-2]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^90-2]: Correzione del 10 set. 2025 ([RU 2025 552](https://fedlex.data.admin.ch/eli/oc/2025/552)).
+[^90-3]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^90-4]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Sezione 2: Premio di mercato e servizio universale
 
@@ -2685,12 +2686,10 @@ Per il calcolo dei costi di produzione vengono presi in considerazione i costi d
 
 <sup>2</sup>
 
-Al posto di tale deduzione, essi possono effettuare una deduzione rettificata per il servizio universale (art. 31 cpv. 2 LEne). Essi la generano riducendo la prima deduzione (cpv. 1) di altra elettricità derivante da energie rinnovabili che non è sostenuta né nel sistema di rimunerazione per l’immissione di elettricità né in altro modo. L’elettricità proveniente da impianti terzi può essere inserita nella quantità di energia oggetto di riduzione soltanto se:[^91-1]
+Al posto di tale deduzione, essi possono effettuare una deduzione rettificata per il servizio universale (art. 31 cpv. 2 LEne). Essi la generano riducendo la prima deduzione (cpv. 1) di altra elettricità derivante da energie rinnovabili che non è sostenuta né nel sistema di rimunerazione per l’immissione di elettricità né in altro modo. L’elettricità proveniente da impianti terzi può essere inserita nella quantità di energia oggetto di riduzione soltanto se:
 
 - a. l’acquisizione si basa su contratti conclusi a medio o a lungo termine e sussiste la garanzia d’origine relativa a tale acquisizione; o
 - b. l’elettricità è stata ritirata secondo l’articolo 15 LEne.
-
-[^91-1]: La correzione del 28 dic. 2017 concerne soltanto il testo francese ([RU 2017 7783](https://fedlex.data.admin.ch/eli/oc/2017/888)).
 
 #### Art. 92
 
@@ -2758,7 +2757,7 @@ Nei casi con servizio universale, occorre inoltre indicare almeno:
 
 <sup>4</sup> L’UFE può ricorrere al sostegno della Commissione federale dell’energia elettrica (ElCom) nell’esecuzione. Su richiesta dell’UFE, la ElCom effettua verifiche relative alle vendite effettive a titolo di servizio universale, paragonando i dati forniti dall’UFE con i propri.
 
-[^95-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^95-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 96
 
@@ -2766,7 +2765,7 @@ Nei casi con servizio universale, occorre inoltre indicare almeno:
 
 Se da una verifica o da un controllo risulta che qualcuno, in particolare a causa di indicazioni scorrette, ha indebitamente ottenuto un premio di mercato o un premio di mercato eccessivamente elevato, l’UFE esige la restituzione del premio ottenuto in eccesso di tutti gli anni passati fino a cinque anni dall’ultimo versamento (art. 30 cpv. 3 L del 5 ott. 1990[^96-1] sui sussidi).
 
-[^96-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^96-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Capitolo 7*a*: Contributi alle spese d’esercizio per gli impianti a biomassa
 
@@ -2799,7 +2798,7 @@ Non è accordato alcun contributo alle spese d’esercizio:
 
 <sup>4</sup> Il contributo alle spese d’esercizio si riduce, per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 LIVA[^96b-1], del fattore di cui all’articolo 16 capoverso 4.[^96b-2]
 
-[^96b-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^96b-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^96b-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
 
 ### Sezione 2: Ordine di presa in considerazione e lista d’attesa
@@ -2895,7 +2894,7 @@ L’organo d’esecuzione dispone l’esclusione di un impianto dalla concession
 
 [^chap8-1]
 
-[^chap8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^chap8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 97
 
@@ -3012,7 +3011,7 @@ L’UFE trasmette all’UDSC i seguenti dati dei gestori degli impianti che prod
 - d. indicazioni sull’elettricità e il calore generati a partire da carburanti e combustibili;
 - e. indicazioni sull’impianto, in particolare i processi di produzione, la capacità, la potenza, il grado di rendimento e la data di messa in esercizio.
 
-[^100-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^100-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 101
 
@@ -3164,7 +3163,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -3184,8 +3183,8 @@ Allegato 1.1[^t-1]
 - 2\.6.1 La rimunerazione è calcolata per la fine dell’anno civile sulla base del tasso di rimunerazione valido per quell’anno e dell’elettricità rilevata.
 - 2\.6.2 Vengono effettuati pagamenti parziali anticipati sulla base del tasso di rimunerazione dell’anno precedente in caso di impianti che non sono ancora in esercizio da un intero anno civile in base ai valori di progettazione di cui al numero 5.1.
 
-[^annex11-lvlu1-lvl2-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex11-lvlu1-lvl2-2]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex11-lvlu1-lvl2-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^annex11-lvlu1-lvl2-2]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### 3 Calcolo del tasso di rimunerazione in caso di ampliamento o rinnovamento successivi
 
@@ -3336,8 +3335,8 @@ Allegato 1.2[^t-2]
   - c. eventuali modifiche rispetto alle indicazioni fornite nella domanda;
   - d. certificazione dei dati dell’impianto secondo l’articolo 2 capoverso 2 OGOE[^annex12-lvlu1-lvl4-2].
 
-[^annex12-lvlu1-lvl4-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex12-lvlu1-lvl4-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex12-lvlu1-lvl4-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex12-lvlu1-lvl4-2]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 ### 5 Disposizioni transitorie per gli impianti messi in esercizio prima del 1° gennaio 2013
 
@@ -3512,7 +3511,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -3584,7 +3583,7 @@ Allegato 1.4[^t-4]
   - b. eventuali modifiche rispetto alle indicazioni fornite nella domanda o nella notifica dello stato di avanzamento del progetto;
   - c. attestazione da parte dell’Ufficio federale di topografia che il promotore del progetto ha messo a disposizione tutti i geodati per l’elaborazione secondo la legge federale del 5 ottobre 2007[^annex14-lvlu1-lvl6-1] sulla geoinformazione.
 
-[^annex14-lvlu1-lvl6-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^annex14-lvlu1-lvl6-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 ### 7 Disposizioni transitorie
 
@@ -3636,7 +3635,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -3648,7 +3647,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250701/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image5.png)
 
 - b.
 
@@ -3664,7 +3663,7 @@ Allegato 1.5[^t-5]
 - 2\.3.4 Se vengono impiegati carburanti rinnovabili per l’esercizio di un impianto di produzione di elettricità, al momento dell’assunzione della materia occorre per ciascun carburante da impiegare un numero di prova dell’Ufficio federale della dogana e della sicurezza dei confini.
 - 2\.3.5 Se viene acquisito gas biogeno dalla rete di distribuzione del gas naturale, i requisiti ecologici minimi sono considerati soddisfatti se il fornitore attesta mediante garanzie di origine che la quantità di gas acquisita proviene dalla rete di distribuzione del gas naturale.
 
-[^annex15-lvlu1-lvl2-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^annex15-lvlu1-lvl2-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 ### 3 Tasso di rimunerazione
 
@@ -3911,8 +3910,8 @@ Allegato 2.1[^t-6]
   - l. per impianti di cui all’articolo 7 capoverso 3: la dichiarazione che il gestore rinuncia alla rimunerazione del contributo legato alla potenza per la potenza a partire da 100 kW.
   - m. la dichiarazione che l’impianto immette in rete tutta l’elettricità prodotta oppure che si fa uso del consumo proprio secondo l’articolo 16 LEne.
 
-[^annex21-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex21-lvlu1-lvl3-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex21-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex21-lvlu1-lvl3-2]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 ### 4 Domanda e notifica di messa in esercizio per gli impianti di grandi dimensioni
 
@@ -3941,7 +3940,7 @@ Allegato 2.1[^t-6]
   - e. per gli impianti integrati messi in esercizio entro il 31 dicembre 2012 o a partire dal 1° aprile 2025: fotografie che mostrano il generatore solare durante la costruzione e dopo il completamento e dalle quali si può evincere che si tratta di un impianto integrato ai sensi dell’articolo 6;
   - f. per gli impianti per i quali viene chiesto il bonus per area di parcheggio: fotografie che mostrano che si tratta di un impianto su un’area all’aperto adibita permanentemente al parcheggio.
 
-[^annex21-lvlu1-lvl4-1]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex21-lvlu1-lvl4-1]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 ### 5 Domanda e notifica di messa in esercizio per gli impianti di cui all’articolo 71*a* LEne
 
@@ -4535,8 +4534,8 @@ Allegato 2.5[^t-10]
   - a. per la prospezione: 24 mesi;
   - b. per lo sfruttamento: 12 mesi.
 
-[^annex25-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex25-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^annex25-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^annex25-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
 Allegato 2.6[^t-11]
 
@@ -4597,7 +4596,7 @@ Allegato 3[^t-12]
 
 - Il tasso d’interesse calcolatorio corrisponde al costo medio ponderato del capitale. Il calcolo e la comunicazione si determinano, fatte salve le deroghe menzionate al numero 3, sulla scorta dell’articolo 13 capoversi 3 lettera b e 3<sup>bis</sup> in combinato disposto con l’allegato 1 dell’ordinanza del 14 marzo 2008[^annex3-lvlu1-lvl1-1] sull’approvvigionamento elettrico (OAEl).
 
-[^annex3-lvlu1-lvl1-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^annex3-lvlu1-lvl1-1]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 ### 1*a* Deroga al numero 1.1 allegato 1 OAEl
 
@@ -4682,7 +4681,7 @@ Allegato 5[^t-14]
 
 ## Contributi alle spese d’esercizio per gli impianti a biomassa
 
-[^t-14]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dalla cifra II cpv. 1 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383))..
+[^t-14]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dalla cifra II cpv. 1 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Definizione degli impianti
 
@@ -4822,8 +4821,8 @@ Allegato 5[^t-14]
   - c. verbale di collaudo con descrizione dettagliata o rapporto di sicurezza conformemente all’articolo 37 OIBT[^annex5-lvlu1-lvl5-1], inclusi verbali di misurazione e di verifica;
   - d. certificazione dei dati dell’impianto secondo l’articolo 2 capoverso 2 OGOE[^annex5-lvlu1-lvl5-2].
 
-[^annex5-lvlu1-lvl5-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^annex5-lvlu1-lvl5-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
+[^annex5-lvlu1-lvl5-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^annex5-lvlu1-lvl5-2]: [RS 730.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8497)
 
 Allegato 6.1[^t-15]
 
@@ -5014,7 +5013,7 @@ Allegato 6.1[^t-15]
   - b. per gli ampliamenti considerevoli: la produzione netta dell’impianto ampliato, dedotta la produzione netta media degli ultimi cinque anni prima dell’ampliamento;
   - c. per i rinnovamenti considerevoli: la quota della produzione netta corrispondente al rapporto tra la produzione supplementare ottenuta a seguito del rinnovamento e la produzione netta dopo il rinnovamento; per la determinazione della produzione supplementare, la produzione netta dell’impianto dopo il rinnovamento viene confrontata con la produzione delle parti dell’impianto non rinnovate, presumendo che le parti dell’impianto rinnovate non fossero più funzionanti prima del rinnovamento; il rapporto tra la produzione supplementare dovuta al rinnovamento e la produzione netta dopo il rinnovamento viene rivisto dopo cinque anni d’esercizio e, se necessario, rideterminato.
 
-[^annex61-lvlu1-lvl4-1]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^annex61-lvlu1-lvl4-1]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 
 ### 5 Informazioni da presentare annualmente per il periodo di rendiconto
 
