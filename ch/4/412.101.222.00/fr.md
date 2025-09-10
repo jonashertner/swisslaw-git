@@ -3,11 +3,11 @@ sr: "412.101.222.00"
 title: Ordonnance du SEFRI du 10 juillet 2023 sur la formation professionnelle initiale de designer en médias interactifs CFC (Interactive Media Designer CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/431"
 language: fr
-version: 2024-01-01
+version: 2025-09-11
 adopted: 2023-07-10
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-431-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20250911/fr/xml/fedlex-data-admin-ch-eli-cc-2023-431-20250911-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20250911/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20240101/fr"
 
 (Interactive Media Designer CFC)
 
-du 10 juillet 2023 (État le 1<sup>er</sup> janvier 2024)
+du 10 juillet 2023 (État le 11 septembre 2025)
 
 <table>
 <tr><td>47118</td><td>Interactive media designer CFC Interactive Media Designer EFZ Interactive media designer AFC</td></tr>
@@ -28,8 +28,8 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet et durée
 
@@ -155,7 +155,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>6</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -329,7 +329,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>2</td><td>Élaboration du contenu et du design de moyens de communication numériques interactifs Réalisation et suivi de projets de moyens de communication numériques interactifs</td><td>120 min</td><td>50 %</td></tr>
 </table>
 
+- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].[^18-2]
+
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
+
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Erratum du 11 sept. 2025 ([RO 2025 560](https://fedlex.data.admin.ch/eli/oc/2025/560)).
 
 #### Art. 19
 

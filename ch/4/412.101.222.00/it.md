@@ -3,11 +3,11 @@ sr: "412.101.222.00"
 title: Ordinanza della SEFRI del 10 luglio 2023 sulla formazione professionale di base Designer di media interattivi con attestato federale di capacità (AFC) (Interactive media designer AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/431"
 language: it
-version: 2024-01-01
+version: 2025-09-11
 adopted: 2023-07-10
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2023-431-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20250911/it/xml/fedlex-data-admin-ch-eli-cc-2023-431-20250911-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20250911/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20240101/it"
 
 (Interactive media designer AFC)
 
-del 10 luglio 2023 (Stato 1° gennaio 2024)
+del 10 luglio 2023 (Stato 11 settembre 2025)
 
 <table>
 <tr><td>47118</td><td>Interactive media designer AFC Interactive Media Designer EFZ Interactive media designer CFC</td></tr>
@@ -28,8 +28,8 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Oggetto e durata
 
@@ -155,7 +155,7 @@ La formazione professionale pratica in azienda comprende in media 3,5 giornate a
 
 <sup>6</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -329,7 +329,11 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>2</td><td>Realizzazione del contenuto e del design di media digitali interattivi Elaborazione e aggiornamento dei progetti per media digitali interattivi</td><td>120 Min.</td><td>50 %</td></tr>
 </table>
 
+- c.[^18-1] «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 20061 sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
+
+[^18-1]: Correzione del 11 set. 2025 ([RU 2025 560](https://fedlex.data.admin.ch/eli/oc/2025/560)).
 
 #### Art. 19
 

@@ -3,11 +3,11 @@ sr: "412.101.222.00"
 title: Verordnung des SBFI vom 10. Juli 2023 über die berufliche Grundbildung Interaktivmediendesignerin/Interaktivmediendesigner mit eidgenössischem Fähigkeitszeugnis (EFZ) (Interactive Media Designer EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/431"
 language: de
-version: 2024-01-01
+version: 2025-09-11
 adopted: 2023-07-10
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2023-431-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/431/20250911/de/xml/fedlex-data-admin-ch-eli-cc-2023-431-20250911-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20250911/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/431/20240101/de"
 
 (Interactive Media Designer EFZ)
 
-vom 10. Juli 2023 (Stand am 1. Januar 2024)
+vom 10. Juli 2023 (Stand am 11. September 2025)
 
 <table>
 <tr><td>47118</td><td>Interactive Media Designer EFZ Interactive media designer CFC Interactive media designer AFC</td></tr>
@@ -28,8 +28,8 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -155,7 +155,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>6</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -200,7 +200,7 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 10. Juli 2023 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter [www.bvz.admin.ch](https://www.becc.admin.ch/becc/public/bvz/) &gt; Berufe A–Z.
+[^9-1]: Der Bildungsplan vom 10. Juli 2023 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.becc.admin.ch/becc/public/bvz/) &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -329,7 +329,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>2</td><td>Erstellen von Inhalt und Design von interaktiven digitalen Kommunikationsmitteln Realisieren und Nachbereiten von Projekten für interaktive digitale Kommunikationsmittel</td><td>120 Min.</td><td>50 %</td></tr>
 </table>
 
+- c. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 27. April 2006[^18-1] über Mindestvorschriften für die Allge-meinbildung in der beruflichen Grundbildung.[^18-2]
+
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
+
+[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Berichtigung vom 11. Sept. 2025 ([AS 2025 560](https://fedlex.data.admin.ch/eli/oc/2025/560)).
 
 #### Art. 19
 
