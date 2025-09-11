@@ -4,13 +4,12 @@ number: "171.100"
 title: Règlement du Grand Conseil
 short: RGC
 language: fr
-version: 2023-01-01
-valid_until: 2025-09-11
-version_adopted: 2022-03-11
+version: 2025-09-12
+version_adopted: 2025-09-12
 adopted: 2001-09-13
 in_force: 2002-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/171.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3130/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3518/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3130/pdf_file"
 
 (RGC)
 
-du 13.09.2001 (état 01.01.2023)
+du 13.09.2001 (état 12.09.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -611,7 +610,13 @@ ordonne:
 
 <sup>1</sup> Le service parlementaire examine les actes législatifs quant à la linguistique, à la technique législative et à la systématique déjà après la première lecture. Il élimine les contradictions de pure forme et assure la concordance des textes dans les deux langues avant leur transmission au Conseil d'Etat; ses éventuelles propositions sont remises le cas échéant à la deuxième commission.
 
-<sup>2</sup> Il examine les actes qui ressortent du vote final avec le concours des présidents et rapporteurs des commissions ainsi que des représentants de la Chancellerie d'Etat et des départements concernés. Seules les modifications formelles du texte sont possibles sans nouvel examen par le Grand Conseil. Le caractère purement formel d'une modification doit être décidé à l'unanimité de la présidence du Grand Conseil, du président de la commission et de son ou de ses rapporteurs.
+<sup>2</sup> Il examine les actes qui ressortent du vote final avec le concours des présidents et rapporteurs des commissions ainsi que des représentants de la Chancellerie d'Etat et des départements concernés.
+
+<sup>3</sup> Le caractère purement formel d'une modification doit être décidé à l'unanimité du président de la commission et de son ou de ses rapporteurs.
+
+<sup>4</sup> Sur demande du contrôle de la rédaction, le Bureau du Grand Conseil peut apporter, à l'unanimité, des modifications à un acte adopté par le Grand Conseil lorsqu'il s'agit seulement de rectifier la formulation, notamment pour assurer la cohérence interne et la concordance des versions des deux langues. Il décide en même temps si un nouveau délai référendaire doit commencer à courir une fois que la rectification est publiée.
+
+<sup>5</sup> La rectification d'autres erreurs nécessite une nouvelle décision du Grand Conseil.
 
 #### Art. 53
 

@@ -4,13 +4,12 @@ number: "171.100"
 title: Reglement des Grossen Rates
 short: RGR
 language: de
-version: 2023-01-01
-valid_until: 2025-09-11
-version_adopted: 2022-03-11
+version: 2025-09-12
+version_adopted: 2025-09-12
 adopted: 2001-09-13
 in_force: 2002-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/171.100"
-pdf: "https://lex.vs.ch/api/de/versions/3130/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3130/pdf_file"
 
 (RGR)
 
-vom 13.09.2001 (Stand 01.01.2023)
+vom 13.09.2001 (Stand 12.09.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -611,7 +610,13 @@ verordnet:
 
 <sup>1</sup> Bereits nach der ersten Lesung prüft der Parlamentsdienst die gesetzgeberischen Erlasse in Bezug auf Sprache, Gesetzestechnik und Systematik. Er merzt die rein formellen Widersprüche aus und gewährleistet die Übereinstimmung der Texte der beiden Sprachen vor deren Überweisung an den Staatsrat; seine allfälligen Vorschläge werden an die zweite Kommission weitergeleitet.
 
-<sup>2</sup> Er überprüft die in der Schlussabstimmung angenommenen Erlasse. Zu diesem Zweck versichert er sich der Mitwirkung der Präsidenten und Berichterstatter der Kommission sowie der Vertreter der Staatskanzlei und der betroffenen Departemente. Ohne neue Prüfung durch den Grossen Rat dürfen nur formelle Änderungen des Textes vorgenommen werden. Eine Änderung rein formellen Charakters muss vom Präsidium des Grossen Rates sowie vom Präsidenten und vom Berichterstatter oder von den Berichterstattern der Kommission einstimmig beschlossen werden.
+<sup>2</sup> Er überprüft die in der Schlussabstimmung angenommenen Erlasse. Zu diesem Zweck versichert er sich der Mitwirkung der Präsidenten und Berichterstatter der Kommission sowie der Vertreter der Staatskanzlei und der betroffenen Departemente.
+
+<sup>3</sup> Eine Änderung rein formellen Charakters muss vom Präsidenten und vom Berichterstatter oder von den Berichterstattern der Kommission einstimmig beschlossen werden.
+
+<sup>4</sup> Das Büro des Grossen Rates kann auf Antrag der Redaktionskontrolle einstimmig Änderungen an einem vom Grossen Rat verabschiedeten Erlass vornehmen, wenn bloss die Formulierung berichtigt werden muss, insbesondere um die interne Kohärenz des Textes oder die Übereinstimmung der Sprachfassungen sicherzustellen. Es entscheidet zugleich, ob mit der Veröffentlichung der Berichtigung eine allfällige Referendumsfrist neu zu laufen beginnt.
+
+<sup>5</sup> Die Berichtigung anderer Fehler erfordert einen neuen Entscheid des Grossen Rates.
 
 #### Art. 53
 
