@@ -3,217 +3,188 @@ canton: ZG
 number: "416.21"
 title: Gesetz über Ausbildungsbeiträge
 language: de
-version: 2007-01-01
-valid_until: 2025-09-11
-version_adopted: 2006-08-31
+version: 2025-09-12
+version_adopted: 2025-07-02
 adopted: 2025-07-02
 in_force: 2025-09-12
 url: "https://bgs.zg.ch/app/de/texts_of_law/416.21"
-pdf: "https://bgs.zg.ch/api/de/versions/707/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2734/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über Ausbildungsbeiträge
 
-Vom 3. Mai 1984 (Stand 1. Januar 2007)
+Vom 2. Juli 2025 (Stand 12. September 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1] und auf die Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen vom 18. Juni 2009[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
+[^ingress-2]: BGS [416.212](https://bgs.zg.ch/data/416.212/de)
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Der Kanton leistet nach diesem Gesetz und dessen Ausführungsvorschriften Beiträge an die Schulungs- und Lebenshaltungskosten während der beruflichen Ausbildung.
+<sup>1</sup> Der Kanton leistet im Rahmen der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen[^1-1] und nach diesem Gesetz sowie dessen Ausführungsbestimmungen Beiträge an die Schulungs- und Lebenshaltungskosten während der beitragsberechtigten Ausbildungen.
+
+[^1-1]: BGS [416.212](https://bgs.zg.ch/data/416.212/de)
 
 #### § 2
 
 **Beitragsarten**
 
-<sup>1</sup> Beiträge werden als Stipendien und/oder Darlehen gewährt.
+<sup>1</sup> Beiträge werden als Stipendien bzw. Darlehen oder als Arbeitsmarktstipendien gewährt.
 
 <sup>2</sup> Stipendien sind einmalige oder wiederkehrende Beiträge ohne Rückzahlungspflicht.
 
 <sup>3</sup> Darlehen sind Beiträge, die nach Abschluss der Ausbildung verzinst und zurückbezahlt werden müssen.
 
+<sup>4</sup> Arbeitsmarktstipendien werden gewährt für Weiterbildungen, die dem Erwerb, dem Erhalt und der Stärkung der Arbeitsmarktfähigkeit dienen. Sie werden ausgerichtet als:
+
+- a) Beitrag an die anerkannten Kosten der Weiterbildung;
+- b) Erwerbsersatz an den weiterbildungsbedingten Erwerbsausfall.
+
 #### § 3
 
 **Subsidiarität**
 
-<sup>1</sup> Beiträge werden gewährt, wenn und soweit die finanzielle Leistungsfähigkeit des Bewerbers, seiner Eltern und anderer gesetzlich Verpflichteter nicht ausreicht.
+<sup>1</sup> Beiträge werden gewährt, wenn die finanzielle Leistungsfähigkeit der Person in Ausbildung, deren Eltern und anderer gesetzlich Verpflichteter nicht ausreicht.
 
-<sup>2</sup> Vorbehalten bleibt die Regelung von Darlehen bei Weiterbildung und Zweitausbildung.
+<sup>2</sup> Vorbehalten bleiben die Regelung von Darlehen bei Weiterbildung und Zweitausbildung bzw. zweitem Hochschulabschluss sowie die Regelung bei den Arbeitsmarktstipendien.
 
 #### § 4
 
-**Ausbildungsarten**
+**Beitragsberechtigte Ausbildungsarten**
 
-<sup>1</sup> Beiträge werden an die Kosten folgender Ausbildungsarten gewährt:
-
-- a) Vorbildung, d.h. der Besuch von Schulen und Lehrgängen, die nach erfüllter Schulpflicht auf eine nachfolgende Ausbildung vorbereiten;
-- b) Erstausbildung, d.h. der Besuch von Schulen und Lehrgängen nach erfüllter Schulpflicht, soweit sie für das angestrebte Berufsziel verlangt werden. Für den Besuch von Privat- oder Internatsschulen kann ausnahmsweise schon früher ein Stipendium gewährt werden;
-- c) Weiterbildung, d.h. der Besuch von Schulen und Lehrgängen, die das Erreichen einer höheren Stufe im Bereich des erlernten Berufs ermöglichen;
-- d) Zweitausbildung, d.h. der Besuch von Schulen und Lehrgängen nach abgeschlossener Erstausbildung gemäss Bst. b dieses Absatzes.
-
-<sup>2</sup> Die Ausbildungsstätten müssen vom Bund anerkannt oder vom Kanton Zug stipendienrechtlich anerkannt sein.
+<sup>1</sup> Die beitragsberechtigten Ausbildungen und Weiterbildungen legt der Regierungsrat durch Verordnung fest.
 
 #### § 5
 
-**Bezugsberechtigte Personen**
+**Beitragsberechtigte Personen**
 
-<sup>1</sup> Bezugsberechtigt sind:
+<sup>1</sup> Die Beitragsberechtigung für Stipendien und Darlehen richtet sich nach der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen[^5-1]. Der Regierungsrat regelt das Weitere durch Verordnung.
 
-- a) Schweizer Bürger, einschliesslich Auslandschweizer und Kinder einer Schweizerin, die nicht im Besitze eines Schweizerbürgerrechts sind, sowie Arbeitnehmer und ihre Kinder aus Staaten der Europäischen Union (EU) und der Europäischen Freihandelsvereinigung (EFTA),
-- b) Angehörige anderer Staaten, die mindestens fünf Jahre ununterbrochen bewilligten Aufenthalt in der Schweiz haben,
-- c) Flüchtlinge und Staatenlose mit schweizerischem Asylrecht oder kantonaler Aufenthaltsbewilligung,
+<sup>2</sup> Die Beitragsberechtigung für die Arbeitsmarktstipendien regelt der Regierungsrat durch Verordnung.
 
-<sup>2</sup> Bewerbern, die bei Beginn der Ausbildung das 40. Altersjahr erfüllt haben, können Beiträge nur noch als Darlehen gewährt werden. In Härtefällen können ausnahmsweise Stipendien gewährt werden.
+[^5-1]: BGS [416.212](https://bgs.zg.ch/data/416.212/de)
 
 #### § 6
 
 **Gesuche**
 
-<sup>1</sup> Der Bewerber hat der Direktion für Bildung und Kultur ein Gesuch mit den erforderlichen Unterlagen einzureichen.
+<sup>1</sup> Die Gesuche sind der Stipendienstelle mit den erforderlichen Unterlagen einzureichen.
 
-<sup>2</sup> Verspätet eingereichte Gesuche werden nur noch für die verbleibende Zeit eines Ausbildungsjahres berücksichtigt.
+<sup>2</sup> Verspätet eingereichte Gesuche für Stipendien und Darlehen werden einzig für die verbleibende Zeit eines Ausbildungsjahrs berücksichtigt.
 
 #### § 7
 
-**Stipendienrechtlicher Wohnsitz**
+**Massgebender Wohnsitz**
 
-<sup>1</sup> Der stipendienrechtliche Wohnsitz eines Bewerbers befindet sich am zivilrechtlichen Wohnsitz der Eltern oder am Sitz der zuletzt zuständigen Vormundschaftsbehörde.
+<sup>1</sup> Der stipendienrechtliche Wohnsitz für Stipendien und Darlehen bestimmt sich ​nach der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen[^7-1].
 
-<sup>2</sup> Zuger Bürger, deren Eltern nicht in der Schweiz Wohnsitz haben oder die elternlos im Ausland wohnen (Auslandschweizer), haben für Ausbildungen in der Schweiz ihren stipendienrechtlichen Wohnsitz im Kanton Zug. Bei mehreren Bürgerrechten in der Schweiz gilt das zuletzt erworbene.
+<sup>2</sup> Für die Bewilligung von Arbeitsmarktstipendien muss die gesuchstellende Person bei Beginn der Weiterbildung grundsätzlich seit zwei Jahren ununterbrochen im Kanton Zug wohnhaft sein. Ausnahmen von dieser Voraussetzung regelt der Regierungsrat durch Verordnung.
 
-<sup>3</sup> Mündige Flüchtlinge und Staatenlose, die elternlos sind oder deren Eltern im Ausland wohnen, haben den stipendienrechtlichen Wohnsitz im Kanton Zug, wenn sie ihm zugewiesen sind. Vorbehalten bleibt Absatz 5.
-
-<sup>4</sup> Mündige Ausländer, die elternlos sind oder deren Eltern im Ausland wohnen, haben den stipendienrechtlichen Wohnsitz im Kanton Zug, wenn sie hier ihren zivilrechtlichen Wohnsitz haben. Vorbehalten bleibt Absatz 5.
-
-<sup>5</sup> Mündige Bewerber, die nach Abschluss einer Erstausbildung ununterbrochen während zwei Jahren im Kanton Zug wohnhaft und aufgrund eigener Erwerbstätigkeit finanziell unabhängig gewesen sind, ohne gleichzeitig in Ausbildung zu sein, haben hier stipendienrechtlichen Wohnsitz. Als Erwerbstätigkeit gilt auch die Führung eines Familienhaushalts.
-
-<sup>6</sup> Heirat oder eine eingetragene Partnerschaft hat keine Änderung des stipendienrechtlichen Wohnsitzes zur Folge.
-
-<sup>7</sup> Ein einmal erworbener stipendienrechtlicher Wohnsitz bleibt bis zur Begründung eines neuen bestehen.
+[^7-1]: BGS [416.212](https://bgs.zg.ch/data/416.212/de)
 
 #### § 8
 
 **Dauer der Beitragsleistung**
 
-<sup>1</sup> Beiträge werden nur für den Zeitraum ausgerichtet, in dem eine Ausbildung ordentlicherweise absolviert und abgeschlossen werden kann. Ausnahmsweise können sie für eine längere Dauer gewährt werden.
+<sup>1</sup> Die Dauer ​der Beitragsleistung für Stipendien und Darlehen richtet sich nach der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen[^8-1]. Der Regierungsrat regelt das Weitere durch Verordnung.
 
-<sup>2</sup> Beim Wechsel der Ausbildungsrichtung oder bei Zweitausbildung kann die Leistung von Beiträgen verweigert, beschränkt, mit Auflagen verbunden oder unter besonderen Umständen angemessen erstreckt werden.
+<sup>2</sup> Die Beitragsdauer für Arbeitsmarktstipendien regelt der Regierungsrat durch Verordnung.
+
+[^8-1]: BGS [416.212](https://bgs.zg.ch/data/416.212/de)
 
 #### § 9
 
 **Form der Beitragsleistungen**
 
-<sup>1</sup> Beiträge werden in folgenden Formen gewährt:
+<sup>1</sup> Die Form der Beitragsleistungen für Stipendien und Darlehen regelt der Regierungsrat im Rahmen der Interkantonalen Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen[^9-1] durch Verordnung.
 
-- a) für die Vorbildung ausschliesslich als Stipendien;
-- b) für die Erstausbildung, Weiterbildung und Zweitausbildung als Stipendien; zusätzlich sind Darlehen möglich;
-- c) für eine zweite Hochschulausbildung in der Regel als Darlehen.
+<sup>2</sup> Die Form der Beitragsleistung für Arbeitsmarktstipendien regelt der Regierungsrat durch Verordnung.
 
-<sup>2</sup> …
+[^9-1]: BGS [416.212](https://bgs.zg.ch/data/416.212/de)
 
 #### § 10
 
-**Massgebende finanzielle Verhältnisse**
+**Berechnungsgrundsätze und -grundlagen**
 
-<sup>1</sup> Für die Beurteilung der Beitragsgesuche sind massgebend:
+<sup>1</sup> Der finanzielle Bedarf der Person in Ausbildung berechnet sich anhand einer Fehlbetragsrechnung.
 
-- a) die finanziellen Verhältnisse des Bewerbers, seiner Eltern und allenfalls seines Ehegatten bzw. des eingetragenen Partners sowie anderer gesetzlich Verpflichteter. Die Stipendienstelle ist berechtigt, die für die Berechnung der Ausbildungsbeiträge notwendigen Steuerdaten auf dem EDV-System der Steuerverwaltung abzurufen und im Entscheid offen zu legen, sofern technisch sicher gestellt ist, dass ein direkter Zugriff auf andere Steuerdaten ausgeschlossen ist.
-- b) allfällige weitere Ausbildungsbeiträge;
-- c) die Schulungs- und Lebenshaltungskosten.
-
-<sup>2</sup> Dem Gesuchsteller, den Eltern und seinem Ehegatten, dem eingetragenen Partner bzw. dem für die Ausbildung gesetzlich Verpflichteten wird eine den Verhältnissen entsprechende Eigenleistung zugemutet.
-
-<sup>3</sup> Bei einem verheirateten Bewerber, der für keine Kinder zu sorgen hat, dessen Ehegatte bzw. eingetragener Partner sich nicht in Ausbildung befindet und keiner Erwerbstätigkeit nachgeht, wird ein theoretisch erzielbares Einkommen berechnet, sofern nicht wichtige Gründe dies ausschliessen.
-
-<sup>4</sup> Wenn sich beide Ehegatten bzw. eingetragenen Partner um Beiträge bewerben, werden diese für jeden Einzelnen festgesetzt.
-
-<sup>5</sup> Über 25-jährigen ledigen Bewerbern in Zweitausbildung oder Weiterbildung sowie Verheirateten und eingetragenen Partnern, die das 25. Altersjahr erfüllt haben, werden Einkommen und Vermögen der Eltern nicht voll angerechnet.
-
-<sup>6</sup> Bei Bewerbern, die eine Erstausbildung abgeschlossen und danach durch eine regelmässige Erwerbstätigkeit während mindestens zwei Jahren eine finanzielle Unabhängigkeit erlangt haben, werden für die Gewährung von Darlehen nur die eigenen finanziellen Verhältnisse und allenfalls die des Ehegatten bzw. des eingetragenen Partners berücksichtigt.
+<sup>2</sup> Der Regierungsrat kann als Berechnungsgrundlagen Pauschalen festlegen und Ansätze vorsehen, insbesondere für die anerkannten Ausbildungs- und Lebenshaltungskosten sowie für die zumutbaren Eigen- und Fremdleistungen. Weiter kann er für Einkommen und Vermögen Freibeträge festlegen. Er regelt das Weitere durch Verordnung.
 
 #### § 11
 
 **Entzug und Rückzahlung der Ausbildungsbeiträge**
 
-<sup>1</sup> Zugesprochene Beiträge können jederzeit gekürzt oder entzogen werden, wenn sich die massgebenden finanziellen Verhältnisse verbessern oder wenn die Leistungen des Bezügers ungenügend sind.
+<sup>1</sup> Zugesprochene Beiträge können jederzeit gekürzt oder entzogen werden, wenn sich die massgebenden finanziellen Verhältnisse verbessern.
 
-<sup>2</sup> Ein Bezüger, der seine Ausbildung durch eigenes Verschulden oder ohne wichtigen Grund nicht beendet oder zu Unrecht Beiträge bezogen hat, ist verpflichtet, diese innert angemessener Frist zurückzuzahlen.
+<sup>2</sup> Eine Person in Ausbildung, die ihre Ausbildung durch eigenes Verschulden oder ohne wichtigen Grund nicht beendet oder zu Unrecht Beiträge bezogen hat, ist verpflichtet, diese innert angemessener Frist zurückzuzahlen.
+
+<sup>3</sup> In Härtefällen kann auf die Verzinsung und die Rückzahlung eines Darlehens ganz oder teilweise verzichtet werden.
 
 #### § 12
 
-**Verzicht auf Verzinsung und Rückzahlung**
+**Direktion für Bildung und Kultur**
 
-<sup>1</sup> In Härtefällen kann auf die Verzinsung und die Rückzahlung eines Darlehens ganz oder teilweise verzichtet werden.
+<sup>1</sup> Die Direktion für Bildung und Kultur entscheidet unter Berücksichtigung dieses Gesetzes und der entsprechenden Ausführungsbestimmungen über die Gewährung von Stipendien und Darlehen sowie Arbeitsmarktstipendien.
+
+<sup>2</sup> Der Stipendienstelle obliegt die Geschäftsführung.
 
 #### § 13
 
-**Direktion für Bildung und Kultur**
+**Erhebung, Bearbeitung und Weiterleitung von Personendaten**
 
-<sup>1</sup> Die Direktion für Bildung und Kultur entscheidet in Berücksichtigung dieses Gesetzes und der entsprechenden Ausführungsbestimmungen über die Gewährung von Stipendien und Darlehen.
+<sup>1</sup> Die Stipendienstelle ist berechtigt, zur Prüfung der Berechtigung erforderliche Daten über einen elektronischen Zugriff aus dem kantonalen Personenregister abzurufen.
+
+<sup>2</sup> Sie kann die erforderlichen Steuerdaten wie Einkommens- und Vermögenszahlen der Person in Ausbildung, von deren Eltern bzw. Erziehungsberechtigten sowie von weiteren gesetzlich Verpflichteten von der kantonalen Steuerdatenbank via Schnittstelle automatisiert beschaffen, soweit dies für die Beitragsverfügung notwendig ist.
+
+<sup>3</sup> Sie stellt dem Bund die notwendigen Daten für die Auslösung des Bundesbeitrags und für die Erstellung einer jährlichen gesamtschweizerischen Statistik zur Verfügung.
+
+<sup>4</sup> Sie darf die AHV-Versichertennummer für die Erfüllung ihrer gesetzlichen Aufgaben systematisch verwenden.
+
+<sup>5</sup> Der Regierungsrat regelt das Weitere durch Verordnung.
 
 #### § 14
 
-**Stipendienstelle**
+**Zusammenarbeit**
 
-<sup>1</sup> Der Stipendienstelle obliegt die Geschäftsführung.
+<sup>1</sup> Der Kanton Zug arbeitet im Hinblick auf die Harmonisierung der Ausbildungsbeiträge mit dem Bund, mit anderen Kantonen und mit schweizerischen Gremien zusammen.
 
-<sup>2</sup> Sie ist der Direktion für Bildung und Kultur unterstellt.
+<sup>2</sup> Er kann anderen Kantonen Amtshilfe leisten.
 
 #### § 15
 
-**Einsprache und Beschwerde**
+**Mitwirkungspflicht**
 
-<sup>1</sup> Gegen Verfügungen betreffend die Gewährung von Stipendien und Darlehen kann innert 20 Tagen seit der Mitteilung bei der Direktion für Bildung und Kultur Einsprache erhoben werden.
+<sup>1</sup> Wer Ausbildungsbeiträge beantragt, ist zur vollständigen und wahrheitsgetreuen Auskunft über die massgebenden Tatsachen verpflichtet. Wesentliche Änderungen sind der Stipendienstelle unaufgefordert und unverzüglich zu melden.
 
-<sup>2</sup> Im Übrigen richtet sich das Rechtsmittelverfahren nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^15-1].
+<sup>2</sup> Ausbildungsbeiträge können im Falle einer Verletzung der Mitwirkungspflicht gekürzt bzw. ganz oder teilweise widerrufen werden.
 
-[^15-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
+<sup>3</sup> Wer in grober Weise oder wiederholt gegen die Mitwirkungspflicht verstösst, kann die Beitragsberechtigung verwirken.
 
 #### § 16
 
-**Aufhebung widersprechenden Rechts**
+**Einsprache und Beschwerde**
 
-<sup>1</sup> Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes wird das Gesetz über Stipendien und Studiendarlehen vom 30. Mai 1963[^16-1] aufgehoben.
+<sup>1</sup> Gegen Entscheide der Direktion für Bildung und Kultur, die gestützt auf dieses Gesetz ergehen, kann innert 20 Tagen seit der Mitteilung bei der Direktion für Bildung und Kultur Einsprache erhoben werden.
 
-<sup>2</sup> Der gemäss bisherigem Stipendiengesetz gebildete Stipendienfonds wird aufgehoben.
+<sup>2</sup> Im Übrigen richtet sich das Rechtsmittelverfahren nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^16-1].
 
-[^16-1]: GS 18, 473
+[^16-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
 #### § 17
 
-**…**
+**Übergangsbestimmung**
 
-#### § 18
+<sup>1</sup> Dieses Gesetz ist auf alle Gesuche anzuwenden, die im Zeitpunkt des Inkrafttretens noch nicht entschieden sind. Hängige Rechtsmittelverfahren werden nach dem bisherigen Recht entschieden.
 
-**Vollzug**
+<sup>2</sup> Für die Verzinsung und Rückzahlung von Darlehen gilt das zum Zeitpunkt der Beitragsgewährung anwendbare Recht.
 
-<sup>1</sup> Der Regierungsrat bestimmt auf dem Verordnungsweg:
-
-- a) die stipendienrechtlich anerkannten Ausbildungsarten und -stätten,
-- b) die Beitragsbegrenzung,
-- c) die Berechnungsgrundsätze,
-- d) die Aufteilung in Darlehen und Stipendien,
-- e) die Einzelheiten der Verzinsung und Rückzahlung der Darlehen,
-- f) die Rückerstattungsgrundsätze,
-- g) die Anmeldetermine,
-- h) das Verfahren,
-- i) die Aufgaben der Stipendienstelle,
-- k) …
-
-#### § 19
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt unter dem Vorbehalt des Referendums nach § 34 der Kantonsverfassung am 1. Juli 1984 in Kraft.
-
-GS 22, 491
+GS 2025/042
