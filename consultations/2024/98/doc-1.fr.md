@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Consultation concernant l’intermédiation en réassurance (révision partielle de la LSA)
 document: Projet mis en consultation
 language: fr

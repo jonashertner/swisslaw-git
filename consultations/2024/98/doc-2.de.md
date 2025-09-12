@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Vernehmlassung betreffend die Rückversicherungsvermittlung (Teilrevision VAG)
 document: Vernehmlassungsvorlage-2
 language: de
