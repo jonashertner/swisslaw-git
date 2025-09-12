@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verkehrsregelnverordnung bezüglich Ausnahmen vom Sonntags- und Nachtfahrverbot, Bewilligungen für Ausnahmetransporte und motorsportliche Veranstaltungen sowie Teilinkraftsetzung einer Änderung des Strassenverkehrsgesetzes"
 document: Vernehmlassungsvorlage-2
 language: de

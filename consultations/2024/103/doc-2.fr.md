@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur les règles de la circulation routière en ce qui concerne les dérogations à l’interdiction de circuler le dimanche et de nuit, les autorisations pour les transports spéciaux et les manifestations sportives automobiles, ainsi qu’entrée en vigueur partielle d’une modification de la loi fédérale sur la circulation routière"
 document: Projet mis en consultation
 language: fr

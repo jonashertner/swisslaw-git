@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulle norme della circolazione stradale per quanto riguarda le deroghe al divieto di circolazione domenicale e notturna e i permessi per i trasporti eccezionali e le manifestazioni sportive motoristiche nonché messa in vigore parziale di una modifica della legge federale sulla circolazione stradale.
 document: Progetto posto in consultazione-2
 language: it
