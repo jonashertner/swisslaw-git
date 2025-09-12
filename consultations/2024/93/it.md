@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della LOGA (protezione dei dati concernenti persone giuridiche da parte di organi federali)
 document: Progetto posto in consultazione
 language: it

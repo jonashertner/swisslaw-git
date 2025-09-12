@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des RVOG (Schutz von Daten juristischer Personen durch Bundesorgane)
 document: Vernehmlassungsvorlage
 language: de

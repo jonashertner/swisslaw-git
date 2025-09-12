@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de la LOGA (protection des données concernant des personnes morales par les organes fédéraux)
 document: Projet mis en consultation
 language: fr
