@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Ordinanza del 28 giugno 2023 che istituisce provvedimenti concernenti la Moldova
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: it
-version: 2025-08-12
+version: 2025-09-15
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20250812/it/xml/fedlex-data-admin-ch-eli-cc-2023-335-20250812-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20250812/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2023-335-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti la Moldova
 
-del 28 giugno 2023 (Stato 12 agosto 2025)
+del 28 giugno 2023 (Stato 15 settembre 2025)
 
 Il Consiglio federale,
 
@@ -55,17 +55,42 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>4</sup>
 
-La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo o nel Regno Unito.[^2-1]
+
+<sup>5</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^2-2]
+
+<sup>6</sup>
+
+La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
+
+- a. tutelare interessi svizzeri;
+- b.
+
+  soddisfare crediti in applicazione di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito.[^2-3]
+
+<sup>7</sup>
+
+In via eccezionale può autorizzare la liberazione di determinati averi o risorse economiche bloccati oppure la messa a disposizione di determinati averi o risorse economiche alle persone fisiche, imprese o organizzazioni di cui al capoverso 1 per:
 
 - a. prevenire casi di rigore;
-- b. rispettare contratti esistenti;
-- c. rispettare crediti oggetto di una misura o di una sentenza giudiziaria, amministrativa o arbitrale;
-- d. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari oppure di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
-- e. tutelare interessi svizzeri.
+- b. svolgere attività umanitarie o altre attività volte a soddisfare bisogni umani fondamentali;
+- c. tutelare interessi svizzeri;
+- d. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari oppure di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale.[^2-4]
 
-<sup>5</sup> Può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per le transazioni finanziarie necessarie allo svolgimento di attività umanitarie in Moldova.
+<sup>8</sup> Autorizza le deroghe di cui ai capoversi 6 e 7 d’intesa con i servizi competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze.[^2-5]
 
-<sup>6</sup> D’intesa con i servizi competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze, autorizza deroghe ai divieti di cui ai capoversi 4 e 5.
+[^2-1]: Nuovo testo giusta la cifra I n. 9 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Nuovo testo giusta la cifra I n. 9 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Introdotto dalla cifra I n. 9 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Introdotto dalla cifra I n. 9 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
@@ -85,10 +110,16 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 **Divieto di soddisfare determinati crediti**
 
+<sup>1</sup>
+
 È vietato soddisfare crediti se sono riconducibili a un contratto o a un’attività la cui esecuzione è stata impedita o pregiudicata direttamente o indirettamente da misure previste dalla presente ordinanza; questo divieto si applica ai crediti:
 
 - a. delle persone fisiche, imprese e organizzazioni menzionate nell’allegato; oppure
 - b. delle persone fisiche, imprese e organizzazioni che agiscono per conto di persone, imprese e organizzazioni di cui alla lettera a.
+
+<sup>2</sup> Nelle procedure volte a far valere un credito, incombe alla persona fisica, all’impresa o all’organizzazione che fa valere la pretesa provare che il soddisfacimento della pretesa non è vietato secondo il capoverso 1.[^4-1]
+
+[^4-1]: Introdotto dalla cifra I n. 9 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Sezione 3: Esecuzione e disposizioni penali
 
@@ -106,11 +137,17 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 #### Art. 6
 
-**Dichiarazioni obbligatorie**
+**Dichiarazioni obbligatorie**[^6-1]
 
-<sup>1</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1 sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
+
+<sup>3</sup> Gli accrediti di cui all’articolo 2 capoverso 5 devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^6-1]: Nuovo testo giusta la cifra I n. 9 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 7
 
