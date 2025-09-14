@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2025-09-03
+version: 2025-09-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250903/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250903-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250903/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 3. September 2025)
+vom 4. März 2022 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1043,13 +1043,23 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder u
 
 <sup>2bis</sup> Absatz 1 gilt nicht, wenn die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen erforderlich ist für die Entgegennahme und die Gutschrift von Überweisungen in die Schweiz oder innerhalb der Schweiz, bei denen ein Unternehmen oder eine Organisation nach Absatz 1 als sendende oder zwischengeschaltete Bank an der Überweisung beteiligt ist, sofern die Überweisung zwischen natürlichen Personen, Unternehmen oder Organisationen erfolgt, die nicht unter Absatz 1 fallen.[^15-2]
 
+<sup>2ter</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem EWR oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^15-3]
+
+<sup>2quater</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfen gesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^15-4]
+
 <sup>3</sup>
 
 Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist:
 
 - a. zur Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine durch öffentliche Stellen oder Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten;
 - b. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes; oder
-- c.[^15-3] …[^15-4]
+- c.[^15-5] …[^15-6]
 
 <sup>3bis</sup>
 
@@ -1057,39 +1067,36 @@ Die Verbote nach den Absätzen 1 und 2 gelten zudem nicht, wenn die Freigabe ges
 
 - a. von Fernmeldediensten in der Russischen Föderation, in der Ukraine, in der Schweiz oder in einem Mitgliedstaat des EWR oder zwischen der Russischen Föderation und der Schweiz oder einem Mitgliedstaat des EWR oder zwischen der Ukraine und der Schweiz oder einem Mitgliedstaat des EWR durch eine Anbieterin mit Sitz in der Schweiz oder in einem Mitgliedstaat des EWR;
 - b. der für den Betrieb, die Wartung und die Sicherheit von Fernmeldediensten nach Buchstabe a erforderlichen zugehörigen Einrichtungen und Dienste;
-- c. von Rechenzentrumsdiensten in der Schweiz und in Mitgliedstaaten des EWR.[^15-5]
+- c. von Rechenzentrumsdiensten in der Schweiz und in Mitgliedstaaten des EWR.[^15-7]
 
 <sup>4</sup>
 
 Das SECO kann Ausnahmen von den Verboten nach Absatz 2 bewilligen, um:
 
 - a. die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine zu ermöglichen;
-- b. Zahlungen an «Seehandelshäfen Krim» für Dienstleistungen zu ermöglichen, die für die Häfen «Fischereihafen Kerch», «Handelshafen Yalta» und «Handelshafen Evpatoria» oder durch «Gosgidrografiya» und die Hafenterminal-Zweigstellen der «Seehandelshäfen Krim» erbracht werden.[^15-6]
+- b. Zahlungen an «Seehandelshäfen Krim» für Dienstleistungen zu ermöglichen, die für die Häfen «Fischereihafen Kerch», «Handelshafen Yalta» und «Handelshafen Evpatoria» oder durch «Gosgidrografiya» und die Hafenterminal-Zweigstellen der «Seehandelshäfen Krim» erbracht werden.[^15-8]
 
 <sup>5</sup>
 
 Das SECO kann ausnahmsweise Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:
 
-- a.[^15-7] …
-- b. Erfüllung bestehender Verträge;
-- c.[^15-8]
+- a. Erfüllung bestehender Verträge;
+- b.
 
   Erfüllung von Forderungen, die Gegenstand sind:
 
   - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
   - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, welche in der Schweiz, einem Mitgliedstaat des EWR oder dem Vereinigten Königreich ergangen oder vollstreckbar ist;
 
-- d.[^15-9] …
-- e.[^15-10] …
-- f. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine; oder
-- g.[^15-11] Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die menschliche Gesundheit und Sicherheit oder auf die Umwelt haben wird.[^15-12]
+- c. Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung im Zusammenhang mit der Situation in der Ukraine; oder
+- d. Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die menschliche Gesundheit und Sicherheit oder auf die Umwelt haben wird.[^15-9]
 
 <sup>5bis</sup>
 
 Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche oder juristische Person, ein Unternehmen oder eine Organisation gemäss Anhang 8 bewilligen, damit Eigentumsrechte an in der Schweiz oder in den EWR-Mitgliedstaaten niedergelassenen juristischen Personen, Unternehmen oder Organisationen bis zum 30. Juni 2023 oder, falls dies der spätere Zeitpunkt ist, bis sechs Monate nach der Aufnahme der Person, des Unternehmens oder der Organisationen in Anhang 8 verkauft oder übertragen werden können, sofern:
 
 - a. diese Eigentumsrechte sich unmittelbar oder mittelbar im Besitz einer natürlichen oder juristischen Person, eines Unternehmens oder einer Organisation gemäss Anhang 8 befinden; und
-- b. die Erlöse aus dem Verkauf oder der Übertragung eingefroren bleiben.[^15-13]
+- b. die Erlöse aus dem Verkauf oder der Übertragung eingefroren bleiben.[^15-10]
 
 <sup>5ter</sup>
 
@@ -1099,20 +1106,20 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 - b. dies zur Vermeidung von Härtefällen erforderlich ist;
 - c. dies zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, erforderlich ist;
 - d. es festgestellt hat, dass eine Justiz- oder Verwaltungsbehörde in der Schweiz, in einem Mitgliedstaat des EWR oder im Vereinigten Königreich unter den gesetzlich vorgesehenen Umständen einen Beschluss erlassen hat, einer natürlichen oder juristischen Person, einem Unternehmen oder einer Organisation gemäss Absatz 1 Gelder oder wirtschaftliche Ressourcen im öffentlichen Interesse zu entziehen, sofern der für die Entziehung an die natürliche oder juristische Person, das Unternehmen oder die Organisation gemäss Absatz 1 gezahlte Ausgleich eingefroren wird;
-- e. es festgestellt hat, dass dies erforderlich ist für die Zahlung einer vertraglich vereinbarten Gegenleistung oder eines von einer Justiz- oder Verwaltungsbehörde oder gesetzlich festgesetzten Ausgleichs im Zusammenhang mit einer durch die Regierung oder eine Behörde der Russischen Föderation erzwungenen Übertragung des Eigentums an oder der Kontrolle über eine juristische Person, Organisation oder Einrichtung, die zuvor im Eigentum oder unter der Kontrolle einer in der Schweiz, in einem Mitgliedstaat des EWR oder im Vereinigten Königreich niedergelassenen juristischen Person, Einrichtung oder Organisation stand, sofern die in der Russischen Föderation niedergelassene juristische Person, Organisation oder Einrichtung, die namentlich Gegenstand einer erzwungenen Übertragung wurde, gemäss Artikel 3 Absatz 1 Buchstabe j der Verordnung (EU) Nr. 269/2014[^15-14] in Anhang I ebendieser Verordnung aufgeführt ist; ausgenommen sind gesperrte Gelder oder wirtschaftliche Ressourcen, die von Zentralverwahrern gehalten werden.[^15-15]
+- e. es festgestellt hat, dass dies erforderlich ist für die Zahlung einer vertraglich vereinbarten Gegenleistung oder eines von einer Justiz- oder Verwaltungsbehörde oder gesetzlich festgesetzten Ausgleichs im Zusammenhang mit einer durch die Regierung oder eine Behörde der Russischen Föderation erzwungenen Übertragung des Eigentums an oder der Kontrolle über eine juristische Person, Organisation oder Einrichtung, die zuvor im Eigentum oder unter der Kontrolle einer in der Schweiz, in einem Mitgliedstaat des EWR oder im Vereinigten Königreich niedergelassenen juristischen Person, Einrichtung oder Organisation stand, sofern die in der Russischen Föderation niedergelassene juristische Person, Organisation oder Einrichtung, die namentlich Gegenstand einer erzwungenen Übertragung wurde, gemäss Artikel 3 Absatz 1 Buchstabe j der Verordnung (EU) Nr. 269/2014[^15-11] in Anhang I ebendieser Verordnung aufgeführt ist; ausgenommen sind gesperrte Gelder oder wirtschaftliche Ressourcen, die von Zentralverwahrern gehalten werden.[^15-12]
 
-<sup>6</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑48057, 175‑48067 und 175‑48076 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, spätestens am 24. August 2022 zu beenden, die mit diesen Organisationen vor dem 23. Februar 2022 abgeschlossen wurden.[^15-16]
+<sup>6</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑48057, 175‑48067 und 175‑48076 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, spätestens am 24. August 2022 zu beenden, die mit diesen Organisationen vor dem 23. Februar 2022 abgeschlossen wurden.[^15-13]
 
-<sup>7</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑54306, 175‑54319, 175‑54329 und 175-54340 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit diesen Organisationen vor dem 27. April 2022 abgeschlossen wurden, spätestens am 28. Oktober 2022 zu beenden.[^15-17]
+<sup>7</sup> Das SECO kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175‑54306, 175‑54319, 175‑54329 und 175-54340 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit diesen Organisationen vor dem 27. April 2022 abgeschlossen wurden, spätestens am 28. Oktober 2022 zu beenden.[^15-14]
 
 <sup>8</sup>
 
 Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-56580 genannten Organisation befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisation ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um:
 
 - a. Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit dieser Organisation vor dem 4. August 2022 abgeschlossen wurden, spätestens am 22. August 2023 zu beenden; oder
-- b.[^15-18] einen laufenden Verkauf oder eine laufende Übertragung von unmittelbar oder mittelbar im Besitz dieser Organisation befindlichen Eigentumsrechten an in der Schweiz oder einem EWR-Mitgliedstaat niedergelassenen juristischen Personen, Unternehmen oder Organisationen bis zum 26. Juli 2023 abzuschliessen.[^15-19]
+- b.[^15-15] einen laufenden Verkauf oder eine laufende Übertragung von unmittelbar oder mittelbar im Besitz dieser Organisation befindlichen Eigentumsrechten an in der Schweiz oder einem EWR-Mitgliedstaat niedergelassenen juristischen Personen, Unternehmen oder Organisationen bis zum 26. Juli 2023 abzuschliessen.[^15-16]
 
-<sup>8bis</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175-58307 und 175-58343 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit diesen Organisationen vor dem 24. Januar 2023 abgeschlossen wurden, spätestens am 26. Juli 2023 zu beenden.[^15-20]
+<sup>8bis</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175-58307 und 175-58343 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit diesen Organisationen vor dem 24. Januar 2023 abgeschlossen wurden, spätestens am 26. Juli 2023 zu beenden.[^15-17]
 
 <sup>8ter</sup>
 
@@ -1120,7 +1127,7 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 
 - a. diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind für einen laufenden Verkauf oder eine laufende Übertragung von Eigentumsrechten an in der Schweiz oder einem EWR-Mitgliedstaat niedergelassenen juristischen Personen, Unternehmen oder Organisation, die von der in Anhang 8 unter der SSID-Nummer 175-54340 genannten Organisation kontrolliert werden oder wurden;
 - b. der Verkauf oder die Übertragung bis zum 31. Dezember 2023 abgeschlossen ist; und
-- c. der Verkauf oder die Übertragung auf Grundlage von Geschäften, Verträgen oder sonstigen Vereinbarungen erfolgt, die mit der in Anhang 8 unter den SSID-Nummern 175-54340 und 175-55580 genannten Organisationen oder unter deren Beteiligung vor dem 3. Juni 2022 geschlossen wurden.[^15-21]
+- c. der Verkauf oder die Übertragung auf Grundlage von Geschäften, Verträgen oder sonstigen Vereinbarungen erfolgt, die mit der in Anhang 8 unter den SSID-Nummern 175-54340 und 175-55580 genannten Organisationen oder unter deren Beteiligung vor dem 3. Juni 2022 geschlossen wurden.[^15-18]
 
 <sup>8quater</sup>
 
@@ -1130,104 +1137,109 @@ Es kann im Hinblick auf den Verkauf einer russischen Effekte die Umwandlung eine
 - b. das Gesuch um Bewilligung einer Ausnahme bis zum 17. November 2023 gestellt wurde;
 - c. die Inhaberin oder der Inhaber des Aktienzertifikats nachweisen kann, dass die betreffende Umwandlung für den Verkauf der zugrunde liegenden Effekte notwendig ist;
 - d. der Verkauf der zugrunde liegenden Effekte mit den Verboten nach den Artikeln 18 und 23 vereinbar ist; und
-- e. keiner anderen Einrichtung nach Anhang 8 Gelder zur Verfügung gestellt werden.[^15-22]
+- e. keiner anderen Einrichtung nach Anhang 8 Gelder zur Verfügung gestellt werden.[^15-19]
 
-<sup>9</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175-48057, 175-48067, 175-48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175-56580, 175-58307, 175-58343, 175-60615, 175-60628, 175-60640, 175-62977, 175-62994 und 175-70058 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind für den Kauf, die Einfuhr oder den Transport von landwirtschaftlichen Erzeugnissen und Lebensmitteln, einschliesslich Weizen und Düngemitteln.[^15-23]
+<sup>9</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175-48057, 175-48067, 175-48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175-56580, 175-58307, 175-58343, 175-60615, 175-60628, 175-60640, 175-62977, 175-62994 und 175-70058 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind für den Kauf, die Einfuhr oder den Transport von landwirtschaftlichen Erzeugnissen und Lebensmitteln, einschliesslich Weizen und Düngemitteln.[^15-20]
 
-<sup>9bis</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum des in Anhang 8 unter der SSID-Nummer 175-55471 genannten Unternehmens befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für dieses Unternehmen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Transaktionen, einschliesslich Verkäufe, die für den Abschluss eines Joint Ventures oder eines Vorhabens mit ähnlicher Rechtsform, das vor dem 16. März 2022 eingegangen wurde und an dem eine in Anhang 15 genannte juristische Person, Organisation oder Einrichtung beteiligt ist, spätestens am 31. Dezember 2022 abzuschliessen.[^15-24]
+<sup>9bis</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum des in Anhang 8 unter der SSID-Nummer 175-55471 genannten Unternehmens befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für dieses Unternehmen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Transaktionen, einschliesslich Verkäufe, die für den Abschluss eines Joint Ventures oder eines Vorhabens mit ähnlicher Rechtsform, das vor dem 16. März 2022 eingegangen wurde und an dem eine in Anhang 15 genannte juristische Person, Organisation oder Einrichtung beteiligt ist, spätestens am 31. Dezember 2022 abzuschliessen.[^15-21]
 
-<sup>9ter</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-55580 genannten Organisation befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisation ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder andere Vereinbarungen, die mit dieser Organisation vor dem 3. Juni 2022 geschlossen wurden oder an denen sie in anderer Weise beteiligt ist, spätestens am 7. Januar 2023 zu beenden.[^15-25]
+<sup>9ter</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-55580 genannten Organisation befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisation ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder andere Vereinbarungen, die mit dieser Organisation vor dem 3. Juni 2022 geschlossen wurden oder an denen sie in anderer Weise beteiligt ist, spätestens am 7. Januar 2023 zu beenden.[^15-22]
 
-<sup>9quater</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 genannten natürlichen Personen befinden, die vor ihrer Aufnahme in die Liste eine wesentliche Rolle im internationalen Handel mit landwirtschaftlichen Erzeugnissen und Lebensmitteln, einschliesslich Weizen und Düngemitteln, gespielt haben, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Personen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen im Hinblick auf die Ernährungssicherheit erforderlich sind für den Kauf, die Lieferung, den Transport oder die Ausfuhr von landwirtschaftlichen Erzeugnissen und Lebensmitteln nach Drittstaaten, einschliesslich Weizen und Düngemitteln.[^15-26]
+<sup>9quater</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 genannten natürlichen Personen befinden, die vor ihrer Aufnahme in die Liste eine wesentliche Rolle im internationalen Handel mit landwirtschaftlichen Erzeugnissen und Lebensmitteln, einschliesslich Weizen und Düngemitteln, gespielt haben, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Personen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen im Hinblick auf die Ernährungssicherheit erforderlich sind für den Kauf, die Lieferung, den Transport oder die Ausfuhr von landwirtschaftlichen Erzeugnissen und Lebensmitteln nach Drittstaaten, einschliesslich Weizen und Düngemitteln.[^15-23]
 
 <sup>9quinquies</sup>
 
 Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175-60615, 175-60628 und 175-60640 genannten Organisationen, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind für:
 
 - a. die Beendigung von vor dem 29. März 2023 mit diesen Organisationen geschlossenen Geschäften, Verträgen oder sonstigen Vereinbarungen, einschliesslich Korrespondenzbankbeziehungen, bis zum 26. August 2023; oder
-- b.[^15-27] die in Anhang 8 unter der SSID-Nummer 175-60615 genannte Organisation im Zusammenhang mit Transaktionen für die Auszahlung von Geldern durch die Jewish Claims Conference an Empfänger in der Russischen Föderation bis zum 31. Dezember 2024, unabhängig davon, wann die Geschäfte, Verträge oder sonstigen Vereinbarungen abgeschlossen wurden.[^15-28]
+- b.[^15-24] die in Anhang 8 unter der SSID-Nummer 175-60615 genannte Organisation im Zusammenhang mit Transaktionen für die Auszahlung von Geldern durch die Jewish Claims Conference an Empfänger in der Russischen Föderation bis zum 31. Dezember 2024, unabhängig davon, wann die Geschäfte, Verträge oder sonstigen Vereinbarungen abgeschlossen wurden.[^15-25]
 
-<sup>9sexies</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-61336 genannten Organisation befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisation ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen im Hinblick auf die Beendigung von vor dem 29. März 2023 zumindest unter Beteiligung dieser Organisation geschlossenen Geschäften, Verträgen oder sonstigen Vereinbarungen bis zum 26. August 2023 erforderlich sind.[^15-29]
+<sup>9sexies</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-61336 genannten Organisation befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisation ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen im Hinblick auf die Beendigung von vor dem 29. März 2023 zumindest unter Beteiligung dieser Organisation geschlossenen Geschäften, Verträgen oder sonstigen Vereinbarungen bis zum 26. August 2023 erforderlich sind.[^15-26]
 
-<sup>9septies</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-50994 genannten natürlichen Person befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen an diese natürliche Person oder eine im Eigentum dieser natürlichen Person stehende Organisation bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen für den Abschluss von Transaktionen, einschliesslich Verkäufen, benötigt werden, die für den Abschluss eines in der Russischen Föderation niedergelassenen Joint Ventures oder Vorhabens mit einer ähnlichen Rechtsform, das vor dem 8. März 2022 im Eigentum dieser natürlichen Person oder einer im Eigentum dieser natürlichen Person stehenden Organisation stand, bis zum 31. August 2023 unbedingt erforderlich sind.[^15-30]
+<sup>9septies</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-50994 genannten natürlichen Person befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen an diese natürliche Person oder eine im Eigentum dieser natürlichen Person stehende Organisation bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen für den Abschluss von Transaktionen, einschliesslich Verkäufen, benötigt werden, die für den Abschluss eines in der Russischen Föderation niedergelassenen Joint Ventures oder Vorhabens mit einer ähnlichen Rechtsform, das vor dem 8. März 2022 im Eigentum dieser natürlichen Person oder einer im Eigentum dieser natürlichen Person stehenden Organisation stand, bis zum 31. August 2023 unbedingt erforderlich sind.[^15-27]
 
 <sup>9octies</sup>
 
 Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-70058 genannten Organisation befinden, ausnahmsweise bewilligen, wenn es festgestellt hat, dass:
 
 - a. diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind für eine Zahlung an eine in der Schweiz, in einem Mitgliedstaat des EWR oder im Vereinigten Königreich niedergelassene juristische Person oder Organisation oder an Schweizer Staatsangehörige oder Staatsangehörige eines EWR-Mitgliedstaats oder des Vereinigten Königreichs und an natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz, eines EWR-Mitgliedstaats oder des Vereinigten Königreichs verfügen; und
-- b. diese Zahlung eine Entschädigung oder Versicherungsleistung für das Eintreten eines Versicherungsfalles darstellt und nicht gegen Absatz 2 verstösst.[^15-31]
+- b. diese Zahlung eine Entschädigung oder Versicherungsleistung für das Eintreten eines Versicherungsfalles darstellt und nicht gegen Absatz 2 verstösst.[^15-28]
 
 <sup>9novies</sup>
 
-Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175-53092, 175-28544, 175-50978, 175-51272, 175-51290 und 175-52276 genannten natürlichen Personen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Personen ausnahmsweise bewilligen, wenn es festgestellt hat, dass:[^15-32]
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter den SSID-Nummern 175-53092, 175-28544, 175-50978, 175-51272, 175-51290 und 175-52276 genannten natürlichen Personen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Personen ausnahmsweise bewilligen, wenn es festgestellt hat, dass:[^15-29]
 
-- a.[^15-33] diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind für den Verkauf und die Übertragung von unmittelbar oder mittelbar im Eigentum einer der genannten Personen befindlichen Eigentumsrechten an einer in der Schweiz, in einem Mitgliedstaat des EWR oder im Vereinigten Königreich niedergelassenen juristischen Person oder Organisation bis zum 30. Juni 2025; und
-- b. die Erlöse aus dem Verkauf und der Übertragung gesperrt bleiben.[^15-34]
+- a.[^15-30] diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind für den Verkauf und die Übertragung von unmittelbar oder mittelbar im Eigentum einer der genannten Personen befindlichen Eigentumsrechten an einer in der Schweiz, in einem Mitgliedstaat des EWR oder im Vereinigten Königreich niedergelassenen juristischen Person oder Organisation bis zum 30. Juni 2025; und
+- b. die Erlöse aus dem Verkauf und der Übertragung gesperrt bleiben.[^15-31]
 
-<sup>9decies</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-70575 genannten Organisation befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisation ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit dieser Organisationen vor dem 1. Februar 2024 abgeschlossen wurden, spätestens am 20. Juni 2024 zu beenden.[^15-35]
+<sup>9decies</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 8 unter der SSID-Nummer 175-70575 genannten Organisation befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisation ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder wirtschaftlichen Ressourcen erforderlich sind, um Geschäfte, Verträge oder sonstige Vereinbarungen, einschliesslich der entsprechenden Bankbeziehungen, die mit dieser Organisationen vor dem 1. Februar 2024 abgeschlossen wurden, spätestens am 20. Juni 2024 zu beenden.[^15-32]
 
 <sup>10</sup>
 
 Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen und Organisationen nach Anhang 8 befinden, oder die Erbringung von Dienstleistungen für solche natürliche Personen, Unternehmen oder Organisationen bewilligen, wenn es festgestellt hat, dass dies unbedingt erforderlich ist für die Errichtung, Zertifizierung oder Bewertung eines Systems, mit dem:
 
 - a. die Kontrolle aufgehoben wird, die von einer natürlichen Person, einem Unternehmen oder einer Organisation gemäss Anhang 8 ausgeübt wird über die Vermögenswerte einer nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaates gegründeten oder eingetragenen Organisation oder eines Unternehmens, die oder das nicht in Anhang 8 aufgeführt ist und sich im Eigentum einer der Erstgenannten befindet oder von ihr kontrolliert wird; und
-- b. sichergestellt wird, dass der natürlichen Person, dem Unternehmen oder der Organisation nach Buchstabe a keine weiteren Gelder oder wirtschaftlichen Ressourcen zugutekommen.[^15-36]
+- b. sichergestellt wird, dass der natürlichen Person, dem Unternehmen oder der Organisation nach Buchstabe a keine weiteren Gelder oder wirtschaftlichen Ressourcen zugutekommen.[^15-33]
 
-<sup>11</sup> Es bewilligt Ausnahmen nach den Absätzen 4‒10 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD.[^15-37]
+<sup>11</sup> Es bewilligt Ausnahmen nach den Absätzen 4‒10 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD.[^15-34]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 31. Aug. 2022 um 18.00 Uhr ([AS 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^15-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-3]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Aufgehoben durch Ziff. I der V vom 31. Jan. 2024, mit Wirkung seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-4]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-5]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^15-6]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-7]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-8]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-9]: Aufgehoben durch Ziff. I der V vom 14. Mai 2025, mit Wirkung seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-10]: Aufgehoben durch Ziff. I der V vom 29. März 2023, mit Wirkung seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-11]: Eingefügt durch Ziff. I der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-12]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-13]: Eingefügt durch Ziff. I der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-14]: Verordnung (EU) Nr. 269/2014 des Rates vom 17. März 2014 über restriktive Massnahmen angesichts von Handlungen, die die territoriale Unversehrtheit, Souveränität und Unabhängigkeit der Ukraine untergraben oder bedrohen, ABl. L 78 vom 17.3.2014, geändert durch Verordnung (EU) 2023/2873 des Rates vom 18. Dezember 2023, ABl. L, 2023/2873, 18.12.2023.
-[^15-15]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-16]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-17]: Eingefügt durch Ziff. I der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-18]: Fassung gemäss Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-19]: Eingefügt durch Ziff. I der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. I der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-20]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-21]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-22]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-23]: Eingefügt durch Ziff. I der V vom 3. Aug. 2022 ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-24]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-25]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-26]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-27]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-28]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-29]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-30]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-3]: Eingefügt durch Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-4]: Eingefügt durch Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-5]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Aufgehoben durch Ziff. I der V vom 31. Jan. 2024, mit Wirkung seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-6]: Fassung gemäss Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-7]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^15-8]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-9]: Fassung gemäss Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-10]: Eingefügt durch Ziff. I der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-11]: Verordnung (EU) Nr. 269/2014 des Rates vom 17. März 2014 über restriktive Massnahmen angesichts von Handlungen, die die territoriale Unversehrtheit, Souveränität und Unabhängigkeit der Ukraine untergraben oder bedrohen, ABl. L 78 vom 17.3.2014, geändert durch Verordnung (EU) 2023/2873 des Rates vom 18. Dezember 2023, ABl. L, 2023/2873, 18.12.2023.
+[^15-12]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^15-13]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-14]: Eingefügt durch Ziff. I der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-15]: Fassung gemäss Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-16]: Eingefügt durch Ziff. I der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. I der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-17]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-18]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-19]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-20]: Eingefügt durch Ziff. I der V vom 3. Aug. 2022 ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-21]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-22]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-23]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 25. Jan. 2023 um 18.00 Uhr ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-24]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-25]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-26]: Eingefügt durch Ziff. I der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-27]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-28]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-29]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^15-30]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^15-31]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-32]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-33]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
-[^15-34]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-35]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-36]: Eingefügt durch Ziff. I der V vom 3. Aug. 2022 ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-37]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-32]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-33]: Eingefügt durch Ziff. I der V vom 3. Aug. 2022 ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Fassung gemäss Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-34]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 16
 
 **Meldepflichten betreffend die Sperrung von Geldern und wirtschaftlichen Ressourcen**
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 15 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 15 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^16-1]
 
-<sup>1bis</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, die im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen oder Organisationen sind, die in Anhang 8 aufgenommen wurden, müssen dem SECO sämtliche Transaktionen der zwei Wochen vor der Aufnahme dieser Personen, Unternehmen oder Organisationen in Anhang 8 unverzüglich melden.[^16-1]
+<sup>1bis</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, die im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen oder Organisationen sind, die in Anhang 8 aufgenommen wurden, müssen dem SECO sämtliche Transaktionen der zwei Wochen vor der Aufnahme dieser Personen, Unternehmen oder Organisationen in Anhang 8 unverzüglich melden.[^16-2]
 
-<sup>1ter</sup> Personen und Institutionen, die Gelder nach Artikel 15 Absatz 2<sup>bis</sup> entgegennehmen und gutschreiben, müssen dies dem SECO quartalsweise melden.[^16-2]
+<sup>1ter</sup> Personen und Institutionen, die Gelder nach Artikel 15 Absatz 2<sup>bis</sup> entgegennehmen und gutschreiben, müssen dies dem SECO quartalsweise melden.[^16-3]
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>1quater</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.[^16-4]
 
-[^16-1]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^16-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+<sup>1quinquies</sup> Gutschriften nach Artikel 15 Absatz 2<sup>quater</sup> müssen dem SECO unverzüglich gemeldet werden.[^16-5]
+
+<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.[^16-6]
+
+[^16-1]: Fassung gemäss Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-2]: Eingefügt durch Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^16-4]: Eingefügt durch Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-5]: Eingefügt durch Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-6]: Fassung gemäss Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 17
 
@@ -2095,6 +2107,8 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 **Verbot der Erfüllung bestimmter Forderungen**
 
+<sup>1</sup>
+
 Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, deren Durchführung direkt oder indirekt verhindert oder beeinträchtigt wurde durch Massnahmen nach dieser Verordnung, nach der Verordnung vom 27. August 2014[^30-1] über Massnahmen im Zusammenhang mit der Situation in der Ukraine oder nach der Verordnung vom 2. April 2014[^30-2] über Massnahmen zur Vermeidung der Umgehung internationaler Sanktionen im Zusammenhang mit der Situation in der Ukraine; dieses Verbot gilt für Forderungen von:
 
 - a.[^30-3] juristischen Personen, Unternehmen oder Organisationen nach den Anhängen dieser Verordnung;
@@ -2103,12 +2117,15 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 - b<sup>bis</sup>.[^30-5] natürlichen Personen, Unternehmen oder Organisationen in den in Anhang 6 bezeichneten Gebieten;
 - c.[^30-6] natürlichen Personen, Unternehmen oder Organisationen, die im Namen oder auf Anweisung einer natürlichen Person, eines Unternehmens oder einer Organisation nach den Buchstaben a–b<sup>bis</sup> handeln.
 
+<sup>2</sup> In Verfahren zur Durchsetzung einer Forderung trägt die natürliche Person, das Unternehmen oder die Organisation, die den Anspruch geltend macht, die Beweislast dafür, dass die Erfüllung des Anspruchs nicht nach Absatz 1 verboten ist.[^30-7]
+
 [^30-1]: [AS 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)
 [^30-2]: [AS 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
 [^30-3]: Fassung gemäss Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^30-4]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^30-5]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^30-6]: Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^30-7]: Eingefügt durch Ziff. I 13 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## 4*a*. Abschnitt: Ausnahmebewilligungen für den Abzug von Investitionen aus der Russischen Föderation
 

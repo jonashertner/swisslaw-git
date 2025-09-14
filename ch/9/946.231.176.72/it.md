@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2025-09-03
+version: 2025-09-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250903/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250903-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250903/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 3 settembre 2025)
+del 4 marzo 2022 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1043,13 +1043,23 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>2bis</sup> Il capoverso 1 non si applica se la liberazione di determinati averi o risorse economiche bloccati è necessaria per ricevere e accreditare bonifici verso o all’interno della Svizzera, in cui un’impresa o un’organizzazione di cui all’allegato 8 è coinvolta nel trasferimento in qualità di banca mittente o intermediaria, a condizione che il trasferimento avvenga tra persone fisiche, imprese o organizzazioni non soggette al capoverso 1.[^15-2]
 
+<sup>2ter</sup>
+
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello SEE o nel Regno Unito.[^15-3]
+
+<sup>2quater</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^15-4]
+
 <sup>3</sup>
 
 Il divieto di cui al capoverso 2 non si applica quando la fornitura di averi o la messa a disposizione di averi o risorse economiche è necessaria:
 
 - a. per lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina da parte di organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie o fornire aiuto alla popolazione civile;
 - b. per lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e l’adempimento di missioni ufficiali della Confederazione; oppure
-- c.[^15-3] …[^15-4]
+- c.[^15-5] …[^15-6]
 
 <sup>3bis</sup>
 
@@ -1057,39 +1067,36 @@ I divieti di cui ai capoversi 1 e 2 non si applicano inoltre se la liberazione d
 
 - a. di servizi di telecomunicazione nella Federazione Russa, in Ucraina, in Svizzera o in uno Stato membro dello SEE o tra la Federazione Russa e la Svizzera o uno Stato membro dello SEE o tra l’Ucraina e la Svizzera o uno Stato membro dello SEE da parte di un operatore con sede in Svizzera o in uno Stato membro dello SEE;
 - b. di risorse correlate e di servizi correlati necessari per il funzionamento, la manutenzione e la sicurezza dei servizi di telecomunicazione di cui alla lettera a;
-- c. di servizi dei centri di dati in Svizzera e negli Stati membri dello SEE.[^15-5]
+- c. di servizi dei centri di dati in Svizzera e negli Stati membri dello SEE.[^15-7]
 
 <sup>4</sup>
 
 La SECO può autorizzare deroghe ai divieti di cui al capoverso 2 per:
 
 - a. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina;
-- b. autorizzare i pagamenti a favore di porti marittimi di Crimea per i servizi forniti al porto peschereccio di Kerch, al porto commerciale di Yalt e al porto commerciale di Evpatoria, nonché per i servizi forniti da Gosgidrografiya e dalle filiali di porti marittimi di Crimea nei terminali portuali.[^15-6]
+- b. autorizzare i pagamenti a favore di porti marittimi di Crimea per i servizi forniti al porto peschereccio di Kerch, al porto commerciale di Yalt e al porto commerciale di Evpatoria, nonché per i servizi forniti da Gosgidrografiya e dalle filiali di porti marittimi di Crimea nei terminali portuali.[^15-8]
 
 <sup>5</sup>
 
-La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
 
-- a.[^15-7] ...
-- b. rispettare contratti esistenti;
-- c.[^15-8]
+- a. rispettare contratti esistenti;
+- b.
 
   soddisfare crediti in applicazione di:
 
-  - 1\. una decisione arbitrale, oppure
-  - 2\. una decisione amministrativa o giudiziaria che è stata emessa o è eseguibile in Svizzera, in uno Stato membro dello SEE o del Regno Unito;
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello SEE o nel Regno Unito;
 
-- d.[^15-9] ...
-- e.[^15-10] …
-- f. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina;
-- g.[^15-11] la prevenzione o la mitigazione di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.[^15-12]
+- c. svolgere attività umanitarie o di sostegno alla popolazione civile in relazione alla situazione in Ucraina; o
+- d. prevenire o mitigare un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.[^15-9]
 
 <sup>5bis</sup>
 
 La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati o la messa a disposizione di determinati averi o risorse economiche a una persona fisica o giuridica, un’impresa o un’organizzazione di cui all’allegato 8 per consentire la vendita e il trasferimento di diritti di proprietà detenuti in persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE fino al 30 giugno 2023 o, se posteriore, entro sei mesi dalla data di inserimento della persona, dell’impresa o dell’organizzazione nell’allegato 8, laddove:
 
 - a. tali diritti di proprietà sono direttamente o indirettamente detenuti da una persona fisica o giuridica, da un’impresa o da un’organizzazione elencate nell’allegato 8; e
-- b. il ricavato di tale vendita o trasferimento rimane congelato.[^15-13]
+- b. il ricavato di tale vendita o trasferimento rimane congelato.[^15-10]
 
 <sup>5ter</sup>
 
@@ -1099,20 +1106,20 @@ La SECO può, in via eccezionale, autorizzare la liberazione di determinati aver
 - b. ciò è necessario per prevenire casi di rigore;
 - c. ciò è necessario per svolgere attività ufficiali di rappresentanze diplomatiche o consolari o di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
 - d. si è accertato che un’autorità giudiziaria o amministrativa in Svizzera, in uno Stato membro dello SEE o nel Regno Unito ha adottato una decisione, alle condizioni previste dalla legge, volta a privare, nel pubblico interesse, una persona fisica o giuridica, un’impresa o un’organizzazione di cui al capoverso 1, di averi o risorse economiche, purché l’indennità compensativa versata per tale privazione di averi o risorse economiche sia congelata;
-- e. si è accertato che ciò è necessario ai fini del pagamento del corrispettivo concordato contrattualmente dalle parti o dell’indennità compensativa stabilita da una autorità giudiziaria o amministrativa o fissata per legge nei casi in cui il governo o un’autorità della Federazione Russa ha disposto il trasferimento obbligatorio della proprietà o del controllo di una persona giuridica, un’impresa o un’organizzazione precedentemente posseduta o controllata da una persona giuridica, un’impresa o un’organizzazione stabilita in Svizzera, in uno Stato membro dello SEE o nel Regno Unito, a condizione che la persona giuridica, l’impresa o l’organizzazione stabilita nella Federazione Russa oggetto del trasferimento obbligatorio sia elencata nell’allegato I del regolamento (UE) n. 269/2014[^15-14], conformemente all’articolo 3 paragrafo 1 lettera j di tale regolamento; fanno eccezione gli averi e le risorse economiche bloccati e detenuti da depositari centrali.[^15-15]
+- e. si è accertato che ciò è necessario ai fini del pagamento del corrispettivo concordato contrattualmente dalle parti o dell’indennità compensativa stabilita da una autorità giudiziaria o amministrativa o fissata per legge nei casi in cui il governo o un’autorità della Federazione Russa ha disposto il trasferimento obbligatorio della proprietà o del controllo di una persona giuridica, un’impresa o un’organizzazione precedentemente posseduta o controllata da una persona giuridica, un’impresa o un’organizzazione stabilita in Svizzera, in uno Stato membro dello SEE o nel Regno Unito, a condizione che la persona giuridica, l’impresa o l’organizzazione stabilita nella Federazione Russa oggetto del trasferimento obbligatorio sia elencata nell’allegato I del regolamento (UE) n. 269/2014[^15-11], conformemente all’articolo 3 paragrafo 1 lettera j di tale regolamento; fanno eccezione gli averi e le risorse economiche bloccati e detenuti da depositari centrali.[^15-12]
 
-<sup>6</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, SSID 175-48067 e SSID 175-48076, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 24 agosto 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 23 febbraio 2022.[^15-16]
+<sup>6</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, SSID 175-48067 e SSID 175-48076, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 24 agosto 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 23 febbraio 2022.[^15-13]
 
-<sup>7</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175‑54306, 175‑54319, 175‑54329 e 175-54340, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 28 ottobre 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 27 aprile 2022.[^15-17]
+<sup>7</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175‑54306, 175‑54319, 175‑54329 e 175-54340, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 28 ottobre 2022, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con queste organizzazioni prima del 27 aprile 2022.[^15-14]
 
 <sup>8</sup>
 
 La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-56580, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per:
 
 - a. porre fine, al più tardi entro il 22 agosto 2023, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie concluse con tale organizzazione prima del 4 agosto 2022; oppure
-- b.[^15-18] permettere la vendita o il trasferimento fino al 26 luglio 2023 di diritti di proprietà direttamente o indirettamente detenuti da tale organizzazione in persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE.[^15-19]
+- b.[^15-15] permettere la vendita o il trasferimento fino al 26 luglio 2023 di diritti di proprietà direttamente o indirettamente detenuti da tale organizzazione in persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE.[^15-16]
 
-<sup>8bis</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-58307 e 175-58343, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 26 luglio 2023, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie, conclusi con tali organizzazioni prima del 24 gennaio 2023.[^15-20]
+<sup>8bis</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-58307 e 175-58343, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 26 luglio 2023, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie, conclusi con tali organizzazioni prima del 24 gennaio 2023.[^15-17]
 
 <sup>8ter</sup>
 
@@ -1120,7 +1127,7 @@ La SECO può, in via eccezionale, autorizzare la liberazione di determinati aver
 
 - a. tali averi e risorse economiche sono necessari per una vendita in corso o per il trasferimento in corso di diritti di proprietà detenuti in persone giuridiche, imprese od organizzazioni stabilite in Svizzera o in uno Stato membro dello SEE attualmente o precedentemente controllate da un’organizzazione menzionata nell’allegato 8 al numero SSID 175-54340;
 - b. la vendita o il trasferimento si conclude entro il 31 dicembre 2023; e
-- c. la vendita o il trasferimento si effettua in virtù di operazioni, contratti o altri accordi conclusi prima del 3 giugno 2022 con l’organizzazione menzionata nell’allegato 8 ai numeri SSID 175-54340 e 175-55580 o in cui tale organizzazione è coinvolta.[^15-21]
+- c. la vendita o il trasferimento si effettua in virtù di operazioni, contratti o altri accordi conclusi prima del 3 giugno 2022 con l’organizzazione menzionata nell’allegato 8 ai numeri SSID 175-54340 e 175-55580 o in cui tale organizzazione è coinvolta.[^15-18]
 
 <sup>8quater</sup>
 
@@ -1130,105 +1137,110 @@ La SECO può autorizzare entro il 25 dicembre 2023 la conversione di un certific
 - b. la domanda di deroga sia stata presentata entro il 17 novembre 2023;
 - c. il titolare del certificato azionario sia in grado di dimostrare che la conversione è necessaria per la vendita del valore mobiliare sottostante;
 - d. la vendita del valore mobiliare sottostante sia compatibile con i divieti imposti dagli articoli 18 e 23; e
-- e. nessun avere sia messo a disposizione di qualsiasi altra organizzazione menzionata nell’allegato 8.[^15-22]
+- e. nessun avere sia messo a disposizione di qualsiasi altra organizzazione menzionata nell’allegato 8.[^15-19]
 
-<sup>9</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, 175-48067, 175-48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175-56580, 175-58307, 175-58343, 175-60615, 175-60628, 175-60640, 175-62977, 175-62994 e 175-70058 oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per l’acquisto, l’importazione o il trasporto di prodotti agricoli e alimentari, compresi il grano e i concimi.[^15-23]
+<sup>9</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-48057, 175-48067, 175-48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175-56580, 175-58307, 175-58343, 175-60615, 175-60628, 175-60640, 175-62977, 175-62994 e 175-70058 oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per l’acquisto, l’importazione o il trasporto di prodotti agricoli e alimentari, compresi il grano e i concimi.[^15-20]
 
-<sup>9bis</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-55471, oppure mettere a sua disposizione determinati averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per effettuare le transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2022, di una joint venture o di un istituto giuridico affine costituiti prima del 16 marzo 2022 e a cui partecipa una persona giuridica, un’organizzazione o un organismo di cui all’allegato 15.[^15-24]
+<sup>9bis</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-55471, oppure mettere a sua disposizione determinati averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per effettuare le transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2022, di una joint venture o di un istituto giuridico affine costituiti prima del 16 marzo 2022 e a cui partecipa una persona giuridica, un’organizzazione o un organismo di cui all’allegato 15.[^15-21]
 
-<sup>9ter</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-55580 oppure mettere a sua disposizione determinati averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine entro il 7 gennaio 2023 alle operazioni, contratti o altri accordi conclusi con tale organizzazione prima del 3 giugno 2022 o ai quali partecipa in altro modo.[^15-25]
+<sup>9ter</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-55580 oppure mettere a sua disposizione determinati averi e risorse economiche dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine entro il 7 gennaio 2023 alle operazioni, contratti o altri accordi conclusi con tale organizzazione prima del 3 giugno 2022 o ai quali partecipa in altro modo.[^15-22]
 
-<sup>9quater</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle persone fisiche di cui all’allegato 8 che, prima del loro inserimento nell’elenco, hanno svolto un ruolo significativo nel commercio internazionale di prodotti agricoli e alimentari, compresi il grano e i concimi, o la messa a disposizione di taluni averi o risorse economiche a favore di tali persone, dopo aver stabilito che tali averi e risorse economiche sono necessari per l’acquisto, la fornitura, il trasporto o l’esportazione di prodotti agricoli e alimentari, compresi il grano e i concimi, verso Paesi terzi al fine di garantire la sicurezza alimentare.[^15-26]
+<sup>9quater</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà delle persone fisiche di cui all’allegato 8 che, prima del loro inserimento nell’elenco, hanno svolto un ruolo significativo nel commercio internazionale di prodotti agricoli e alimentari, compresi il grano e i concimi, o la messa a disposizione di taluni averi o risorse economiche a favore di tali persone, dopo aver stabilito che tali averi e risorse economiche sono necessari per l’acquisto, la fornitura, il trasporto o l’esportazione di prodotti agricoli e alimentari, compresi il grano e i concimi, verso Paesi terzi al fine di garantire la sicurezza alimentare.[^15-23]
 
 <sup>9quinquies</sup>
 
 La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 8 ai numeri SSID 175-60615, 175-60628 e 175-60640, oppure mettere a loro disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per:
 
 - a. porre fine, al più tardi entro il 26 agosto 2023, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie, conclusi con tali organizzazioni prima del 29 marzo 2023; oppure
-- b.[^15-27] le organizzazioni menzionate nell’allegato 8 al numero SSID 175-60615 in relazione a transazioni concernenti il versamento di averi da parte della *Jewish Claims Conference* a beneficiari nella Federazione Russa entro il 31 dicembre 2024, indipendentemente da quando le operazioni, i contratti o altri accordi sono stati conclusi.[^15-28]
+- b.[^15-24] le organizzazioni menzionate nell’allegato 8 al numero SSID 175-60615 in relazione a transazioni concernenti il versamento di averi da parte della *Jewish Claims Conference* a beneficiari nella Federazione Russa entro il 31 dicembre 2024, indipendentemente da quando le operazioni, i contratti o altri accordi sono stati conclusi.[^15-25]
 
-<sup>9sexies</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-61336 oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 26 agosto 2023, a operazioni, contratti o altri accordi conclusi prima del 29 marzo 2023 in cui tale organizzazione è almeno coinvolta.[^15-29]
+<sup>9sexies</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-61336 oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi e risorse economiche sono necessari per porre fine, al più tardi entro il 26 agosto 2023, a operazioni, contratti o altri accordi conclusi prima del 29 marzo 2023 in cui tale organizzazione è almeno coinvolta.[^15-26]
 
-<sup>9septies</sup> La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà della persona fisica menzionata nell’allegato 8 al numero SSID 175-50994 oppure mettere determinati averi e risorse economiche a disposizione di questa persona fisica o di un’organizzazione posseduta da quest’ultima, dopo aver stabilito che tali averi o risorse economiche sono strettamente indispensabili per effettuare le transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 agosto 2023, di una joint venture o di un istituto giuridico affine stabiliti nella Federazione Russa e che prima dell’8 marzo 2022 erano posseduti da tale persona fisica o da un’organizzazione di proprietà di quest’ultima.[^15-30]
+<sup>9septies</sup> La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà della persona fisica menzionata nell’allegato 8 al numero SSID 175-50994 oppure mettere determinati averi e risorse economiche a disposizione di questa persona fisica o di un’organizzazione posseduta da quest’ultima, dopo aver stabilito che tali averi o risorse economiche sono strettamente indispensabili per effettuare le transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 agosto 2023, di una joint venture o di un istituto giuridico affine stabiliti nella Federazione Russa e che prima dell’8 marzo 2022 erano posseduti da tale persona fisica o da un’organizzazione di proprietà di quest’ultima.[^15-27]
 
 <sup>9octies</sup>
 
 La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-70058, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che:
 
 - a. tali averi e risorse economiche sono necessari per un pagamento a una persona giuridica o un’organizzazione stabilita in Svizzera, in uno Stato membro dello SEE o nel Regno Unito o a cittadini svizzeri o di uno Stato membro dello SEE o del Regno Unito e a persone fisiche titolari di un permesso di soggiorno temporaneo o permanente rilasciato dalla Svizzera, da uno Stato membro dello SEE o dal Regno Unito; e
-- b. tale pagamento costituisce l’indennizzo o la prestazione assicurativa concessi a seguito dell’avverarsi di un rischio e non viola il capoverso 2.[^15-31]
+- b. tale pagamento costituisce l’indennizzo o la prestazione assicurativa concessi a seguito dell’avverarsi di un rischio e non viola il capoverso 2.[^15-28]
 
 <sup>9novies</sup>
 
-La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle persone fisiche menzionate nell’allegato 8 ai numeri 175‑53092, 175‑28544, 175‑50978, 175‑51272, 175‑51290 e 175‑52276 oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che:[^15-32]
+La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle persone fisiche menzionate nell’allegato 8 ai numeri 175‑53092, 175‑28544, 175‑50978, 175‑51272, 175‑51290 e 175‑52276 oppure mettere a loro disposizione averi e risorse economiche dopo aver stabilito che:[^15-29]
 
-- a.[^15-33] tali averi e risorse economiche sono necessari per la vendita o il trasferimento entro il 30 giugno 2025 dei diritti di proprietà in una persona giuridica o un’organizzazione stabilita in Svizzera, in uno Stato membro del SEE o nel Regno Unito che appartengono, direttamente o indirettamente, a una di dette persone fisiche; e
-- b. il ricavato di tale vendita o trasferimento rimane bloccato.[^15-34]
+- a.[^15-30] tali averi e risorse economiche sono necessari per la vendita o il trasferimento entro il 30 giugno 2025 dei diritti di proprietà in una persona giuridica o un’organizzazione stabilita in Svizzera, in uno Stato membro del SEE o nel Regno Unito che appartengono, direttamente o indirettamente, a una di dette persone fisiche; e
+- b. il ricavato di tale vendita o trasferimento rimane bloccato.[^15-31]
 
-<sup>9decies</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-70575, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi o risorse economiche sono necessari per porre fine, al più tardi entro il 20 giugno 2024, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie, conclusi con tale organizzazione prima del 1° febbraio 2024.[^15-35]
+<sup>9decies</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccate di proprietà dell’organizzazione menzionata nell’allegato 8 al numero SSID 175-70575, oppure mettere a sua disposizione determinati averi e risorse economiche, dopo aver stabilito che tali averi o risorse economiche sono necessari per porre fine, al più tardi entro il 20 giugno 2024, alle operazioni, contratti o altri accordi, comprese le corrispondenti relazioni bancarie, conclusi con tale organizzazione prima del 1° febbraio 2024.[^15-32]
 
 <sup>10</sup>
 
 La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà o sotto il controllo di persone fisiche, imprese od organizzazioni elencate nell’allegato 8, o la fornitura di servizi per tali persone fisiche, imprese od organizzazioni, dopo aver stabilito che ciò è strettamente necessario per l’istituzione, la certificazione o la valutazione di un sistema che:
 
 - a. elimini il controllo, da parte di una persona fisica, di un’impresa o di un’organizzazione di cui all’allegato 8, sui valori patrimoniali di un’organizzazione o di un’impresa non elencata nell’allegato 8, che sia costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato dello SEE e posseduta o controllata da tale persona fisica, impresa od organizzazione; e
-- b. garantisca che nessun ulteriore avere o nessuna ulteriore risorsa economica vada a beneficio della persona fisica, dell’impresa o dell’organizzazione di cui alla lettera a.[^15-36]
+- b. garantisca che nessun ulteriore avere o nessuna ulteriore risorsa economica vada a beneficio della persona fisica, dell’impresa o dell’organizzazione di cui alla lettera a.[^15-33]
 
-<sup>11</sup> La SECO può autorizzare deroghe secondo i capoversi 4‒10 d’intesa con i servizi competenti del DFAE e del DFF.[^15-37]
+<sup>11</sup> La SECO può autorizzare deroghe secondo i capoversi 4‒10 d’intesa con i servizi competenti del DFAE e del DFF.[^15-34]
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^15-2]: Introdotto dalla cifra I dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-3]: Introdotta dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-4]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-5]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^15-6]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-7]: Abrogata dalla cifra I dell’O del 14 mag. 2025, con effetto dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-8]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-9]: Abrogata dalla cifra I dell’O del 14 mag. 2025, con effetto dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-10]: Abrogata dalla cifra I dell’O del 29 mar. 2023, con effetto dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-11]: Introdotta dalla cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-12]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-13]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-14]: Regolamento (UE) n. 269/2014 del Consiglio, del 17 mar. 2014, concernente misure restrittive relative ad azioni che compromettono o minacciano l’integrità territoriale, la sovranità e l’indipendenza dell’Ucraina, versione della GU L 78 del 17.3.2014, modificato dal regolamento (UE) 2023/2873 del Consiglio, del 18 dicembre 2023, versione della GU L, 2023/2873, 18.12.2023.
-[^15-15]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-16]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-17]: Introdotto dalla cifra I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-18]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-19]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-20]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-21]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-22]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-23]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-24]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-25]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-26]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-27]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-28]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-29]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-30]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-3]: Introdotto dalla cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di odinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-4]: Introdotto dalla cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di odinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-5]: Introdotta dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-6]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-7]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^15-8]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-9]: Nuovo testo giusta la cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-10]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-11]: Regolamento (UE) n. 269/2014 del Consiglio, del 17 mar. 2014, concernente misure restrittive relative ad azioni che compromettono o minacciano l’integrità territoriale, la sovranità e l’indipendenza dell’Ucraina, versione della GU L 78 del 17.3.2014, modificato dal regolamento (UE) 2023/2873 del Consiglio, del 18 dicembre 2023, versione della GU L, 2023/2873, 18.12.2023.
+[^15-12]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^15-13]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-14]: Introdotto dalla cifra I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-15]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-16]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-17]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-18]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-19]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-20]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-21]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-22]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-23]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-24]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-25]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-26]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-27]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-28]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-29]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^15-30]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^15-31]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-32]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-33]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
-[^15-34]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-35]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-36]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-37]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-32]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-33]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-34]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 16
 
 **Obbligo di notifica relativo al blocco degli averi e delle risorse economiche**
 
-<sup>1</sup> Le persone[^16-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente soggette al blocco di cui all’articolo 15 capoverso 1 devono notificarlo senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 15 capoverso 1 devono dichiararlo senza indugio alla SECO.[^16-1]
 
-<sup>1bis</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche di proprietà o sotto il controllo di persone, imprese od organizzazioni elencate nell’allegato 8 devono notificare senza indugio alla SECO tutte le transazioni effettuate nelle due settimane precedenti l’inserimento nell’allegato 8 di tali persone, imprese od organizzazioni.[^16-2]
+<sup>1bis</sup> Le persone[^16-2] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche di proprietà o sotto il controllo di persone, imprese od organizzazioni elencate nell’allegato 8 devono notificare senza indugio alla SECO tutte le transazioni effettuate nelle due settimane precedenti l’inserimento nell’allegato 8 di tali persone, imprese od organizzazioni.[^16-3]
 
-<sup>1ter</sup> Le persone e le istituzioni che ricevono e accreditano averi secondo l’articolo 15 capoverso 2<sup>bis</sup> devono notificarli alla SECO con cadenza trimestrale.[^16-3]
+<sup>1ter</sup> Le persone e le istituzioni che ricevono e accreditano averi secondo l’articolo 15 capoverso 2<sup>bis</sup> devono notificarli alla SECO con cadenza trimestrale.[^16-4]
 
-<sup>2</sup> Le notifiche devono indicare i nomi dei beneficiari, nonché il genere e il valore degli averi e delle risorse economiche bloccati.
+<sup>1quater</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.[^16-5]
 
-[^16-1]: N. 13 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^16-2]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^16-3]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+<sup>1quinquies</sup> Gli accrediti di cui all’articolo 15 capoverso 2<sup>quater</sup> devono essere dichiarati senza indugio alla SECO.[^16-6]
+
+<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.[^16-7]
+
+[^16-1]: Nuovo testo giusta la cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-2]: N. 13 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^16-3]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-4]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^16-5]: Introdotto dalla cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-6]: Introdotto dalla cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-7]: Nuovo testo giusta la cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 17
 
@@ -2091,6 +2103,8 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 **Divieto di soddisfare determinati crediti**
 
+<sup>1</sup>
+
 È vietato soddisfare i crediti su un contratto o un affare la cui esecuzione è stata impedita da o sulla quale hanno inciso, direttamente o indirettamente, misure imposte dalla presente ordinanza, dall’ordinanza del 27 agosto 2014[^30-1] che istituisce provvedimenti in relazione alla situazione in Ucraina o dall’ordinanza del 2 aprile 2014[^30-2] che istituisce provvedimenti per impedire l’aggiramento delle sanzioni internazionali in relazione alla situazione in Ucraina; questo divieto si applica ai crediti detenuti da:
 
 - a.[^30-3] persone giuridiche, imprese od organizzazioni elencate negli allegati della presente ordinanza;
@@ -2099,12 +2113,15 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - b<sup>bis</sup>.[^30-5] persone fisiche, imprese od organizzazioni nei territori designati di cui allegato 6;
 - c.[^30-6] persone fisiche, imprese od organizzazioni che agiscono per conto o sotto la direzione di una persona fisica, impresa od organizzazione di cui alle lettere a–b<sup>bis</sup>.
 
+<sup>2</sup> Nelle procedure volte a far valere un credito, incombe alla persona fisica, all’impresa o all’organizzazione che fa valere la pretesa provare che il soddisfacimento della pretesa non è vietato secondo il capoverso 1.[^30-7]
+
 [^30-1]: [[RU 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)]
 [^30-2]: [RU 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
 [^30-3]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^30-4]: Introdotta dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^30-5]: Introdotta dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^30-6]: Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^30-7]: Introdotto dalla cifra I n. 13 dell’O del 13 ago. 2025 concernente l’armonizzazione di odinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Sezione 4*a*: Deroghe riguardanti i disinvestimenti dalla Federazione Russa
 

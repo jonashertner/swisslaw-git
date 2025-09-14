@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2025-09-03
+version: 2025-09-15
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250903/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250903-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250903/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 3 septembre 2025)
+du 4 mars 2022 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1039,13 +1039,23 @@ Sont gelés les avoirs et les ressources économiques qui sont la propriété ou
 
 <sup>2bis</sup> L’al. 1 ne se s’applique pas lorsque le déblocage de certains avoirs ou ressources économiques est nécessaire pour recevoir et créditer des virements vers la Suisse ou en Suisse pour lesquels une entreprise ou une entité visée à l’al. 1 agit en tant que banque émettrice ou intermédiaire, si le virement a lieu entre des personnes physiques, des entreprises ou des entités qui ne sont pas visées à l’al. 1.[^15-2]
 
+<sup>2ter</sup>
+
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’EEE ou au Royaume-Uni.[^15-3]
+
+<sup>2quater</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^15-4]
+
 <sup>3</sup>
 
 L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire:
 
 - a. à la réalisation d’activités humanitaires ou à la fourniture d’une aide à la population civile en lien avec la situation en Ukraine par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile;
 - b. à l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et à l’accomplissement de missions officielles de la Confédération, ou
-- c.[^15-3] …[^15-4]
+- c.[^15-5] …[^15-6]
 
 <sup>3bis</sup>
 
@@ -1053,39 +1063,36 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas non plus lorsque
 
 - a. de services de télécommunication en Fédération de Russie, en Ukraine, en Suisse ou dans un État membre de l’EEE, ou entre la Fédération de Russie et la Suisse ou un État membre de l’EEE, ou encore entre l’Ukraine et la Suisse ou un État membre de l’EEE, par un opérateur sis en Suisse ou dans un État membre de l’EEE;
 - b. de ressources et services associés nécessaires au fonctionnement, à l’entretien et à la sécurité des services de télécommunication mentionnés à la let. a;
-- c. de services de centre de données en Suisse et dans des États membres de l’EEE.[^15-5]
+- c. de services de centre de données en Suisse et dans des États membres de l’EEE.[^15-7]
 
 <sup>4</sup>
 
 Le SECO peut autoriser des dérogations aux interdictions prévues à l’al. 2 pour:
 
 - a. permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en lien avec la situation en Ukraine;
-- b. permettre des paiements en faveur de Crimean Sea Ports pour les services fournis au port de pêche de Kerch, au port commercial de Yalta et au port commercial d’Evpatoria ainsi que pour les services fournis par Gosgidrografiya et par les succursales de Crimean Sea Ports situées dans des terminaux portuaires.[^15-6]
+- b. permettre des paiements en faveur de Crimean Sea Ports pour les services fournis au port de pêche de Kerch, au port commercial de Yalta et au port commercial d’Evpatoria ainsi que pour les services fournis par Gosgidrografiya et par les succursales de Crimean Sea Ports situées dans des terminaux portuaires.[^15-8]
 
 <sup>5</sup>
 
 Il peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
 
-- a.[^15-7] …
-- b. honorer des contrats existants;
-- c.[^15-8]
+- a. honorer des contrats existants;
+- b.
 
   honorer des créances en application:
 
-  - 1\. d’une décision arbitrale, ou
+  - 1\. d’une décision arbitrale existante, ou
   - 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’EEE ou au Royaume-Uni;
 
-- d.[^15-9] …
-- e.[^15-10] …
-- f. permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en lien avec la situation en Ukraine, ou
-- g.[^15-11] prévenir ou atténuer un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement.[^15-12]
+- c. permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en lien avec la situation en Ukraine, ou
+- d. prévenir ou atténuer un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement.[^15-9]
 
 <sup>5bis</sup>
 
 Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques à une personne physique ou morale, entreprise ou entité visée à l’annexe 8 afin de permettre la vente ou le transfert de droits de propriété dans une personne morale, une entreprise ou une entité établie en Suisse ou dans un État membre de l’EEE au plus tard jusqu’au 30 juin 2023 ou dans un délai de 6 mois à compter de la date de l’inscription de la personne, de l’entreprise ou de l’entité sur la liste figurant à l’annexe 8, la date la plus tardive étant retenue, si:
 
 - a. ces droits de propriété sont directement ou indirectement détenus par une personne physique ou morale, entreprise ou entité visée à l’annexe 8, et que
-- b. le produit de la vente ou du transfert reste gelé.[^15-13]
+- b. le produit de la vente ou du transfert reste gelé.[^15-10]
 
 <sup>5ter</sup>
 
@@ -1095,20 +1102,20 @@ Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou resso
 - b. lorsque cela est nécessaire pour prévenir des cas de rigueur;
 - c. lorsque cela nécessaire pour permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international;
 - d. lorsqu’il a établi qu’une autorité judiciaire ou administrative en Suisse, dans un État membre de l’EEE ou au Royaume-Uni a adopté une décision, dans les conditions prévues par la loi, visant à priver, dans l’intérêt public, une personne physique ou morale, une entreprise ou une entité visée à l’al. 1 d’avoirs ou de ressources économiques, pour autant que les indemnités versées à ladite personne physique ou morale, entreprise ou entité en contrepartie de cette privation d’avoirs ou de ressources économiques soient gelées;
-- e. lorsqu’il a établi que ces avoirs ou ressources économiques sont nécessaires au paiement d’une contrepartie contractuellement convenue ou d’indemnités fixées par une autorité judiciaire ou administrative ou prévues par la loi dans le cadre du transfert obligatoire, par le gouvernement ou une autorité de la Fédération de Russie, de la propriété ou du contrôle d’une personne morale, d’une entité ou d’un établissement qui étaient précédemment détenus ou contrôlés par une personne morale, une entité ou un établissement établis en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, pour autant que la personne morale, l’entité ou l’établissement établi en Fédération de Russie qui a notamment fait l’objet d’un transfert obligatoire soit visé à l’annexe I du règlement (UE) n<sup>o</sup> 269/2014[^15-14] conformément à l’art. 3, par. 3, let. j, dudit règlement; sont réservés les avoirs et ressources économiques gelés qui sont détenus par des dépositaires centraux.[^15-15]
+- e. lorsqu’il a établi que ces avoirs ou ressources économiques sont nécessaires au paiement d’une contrepartie contractuellement convenue ou d’indemnités fixées par une autorité judiciaire ou administrative ou prévues par la loi dans le cadre du transfert obligatoire, par le gouvernement ou une autorité de la Fédération de Russie, de la propriété ou du contrôle d’une personne morale, d’une entité ou d’un établissement qui étaient précédemment détenus ou contrôlés par une personne morale, une entité ou un établissement établis en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, pour autant que la personne morale, l’entité ou l’établissement établi en Fédération de Russie qui a notamment fait l’objet d’un transfert obligatoire soit visé à l’annexe I du règlement (UE) n<sup>o</sup> 269/2014[^15-11] conformément à l’art. 3, par. 3, let. j, dudit règlement; sont réservés les avoirs et ressources économiques gelés qui sont détenus par des dépositaires centraux.[^15-12]
 
-<sup>6</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-48057, SSID 175-48067 et SSID 175-48076, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 24 août 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 23 février 2022.[^15-16]
+<sup>6</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-48057, SSID 175-48067 et SSID 175-48076, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 24 août 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 23 février 2022.[^15-13]
 
-<sup>7</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑54306, SSID 175‑54319, SSID 175‑54329 et SSID 175-54340, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 28 octobre 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 27 avril 2022.[^15-17]
+<sup>7</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑54306, SSID 175‑54319, SSID 175‑54329 et SSID 175-54340, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 28 octobre 2022 aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 27 avril 2022.[^15-14]
 
 <sup>8</sup>
 
 Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-56580 ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires afin:
 
 - a. de mettre fin, le 22 août 2023 au plus tard, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec l’entité avant le 4 août 2022, ou
-- b.[^15-18] de permettre la vente ou le transfert, jusqu’au 26 juillet 2023, de droits de propriété qui sont directement ou indirectement détenus par l’entité dans une personne morale, une entreprise ou une entité établie en Suisse ou dans un État membre de l’EEE.[^15-19]
+- b.[^15-15] de permettre la vente ou le transfert, jusqu’au 26 juillet 2023, de droits de propriété qui sont directement ou indirectement détenus par l’entité dans une personne morale, une entreprise ou une entité établie en Suisse ou dans un État membre de l’EEE.[^15-16]
 
-<sup>8bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-58307 et SSID 175-58343, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 juillet 2023, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 24 janvier 2023.[^15-20]
+<sup>8bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-58307 et SSID 175-58343, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 juillet 2023, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec ces entités avant le 24 janvier 2023.[^15-17]
 
 <sup>8ter</sup>
 
@@ -1116,7 +1123,7 @@ Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou resso
 
 - a. que ces avoirs ou ressources économiques sont nécessaires à une vente ou un transfert en cours de droits de propriété d’une personne morale, entreprise ou entité établie en Suisse ou dans un État membre de l’EEE, actuellement ou précédemment contrôlée par l’entité visée à l’annexe 8 sous le numéro SSID 175-54340;
 - b. que la vente ou le transfert est achevé au plus tard le 31 décembre 2023, et
-- c. que la vente ou le transfert est effectué sur la base d’opérations, de contrats ou d’autres accords qui ont été conclus avec les entités visées à l’annexe 8 sous les numéros SSID 175-54340 et 175-55580, ou avec la participation de celles-ci, avant le 3 juin 2022.[^15-21]
+- c. que la vente ou le transfert est effectué sur la base d’opérations, de contrats ou d’autres accords qui ont été conclus avec les entités visées à l’annexe 8 sous les numéros SSID 175-54340 et 175-55580, ou avec la participation de celles-ci, avant le 3 juin 2022.[^15-18]
 
 <sup>8quater</sup>
 
@@ -1126,104 +1133,109 @@ Il peut autoriser, au plus tard le 25 décembre 2023, la conversion d’un certi
 - b. que la demande de dérogation a été déposée au plus tard le 17 novembre 2023;
 - c. que le titulaire du certificat d’actions est en mesure de démontrer que cette conversion est nécessaire pour vendre les valeurs mobilières sous-jacentes;
 - d. que la vente des valeurs sous-jacentes respecte les interdictions visées aux art. 18 et 23, et
-- e. qu’aucun avoir ne sera mis à la disposition d’une quelconque autre entité visée à l’annexe 8.[^15-22]
+- e. qu’aucun avoir ne sera mis à la disposition d’une quelconque autre entité visée à l’annexe 8.[^15-19]
 
-<sup>9</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑48057, 175‑48067, 175‑48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175‑56580, 175‑58307, 175‑58343, 175‑60615, 175‑60628, 175‑60640, 175-62977, 175‑62994 et 175‑70058, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, importer ou transporter des produits agricoles et alimentaires, y compris le blé et les engrais.[^15-23]
+<sup>9</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175‑48057, 175‑48067, 175‑48076, 175‑54306, 175‑54319, 175‑54329, 175-54340, 175‑56580, 175‑58307, 175‑58343, 175‑60615, 175‑60628, 175‑60640, 175-62977, 175‑62994 et 175‑70058, ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, importer ou transporter des produits agricoles et alimentaires, y compris le blé et les engrais.[^15-20]
 
-<sup>9bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entreprise visée à l’annexe 8 sous le numéro SSID 175-55471, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entreprise, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 31 décembre 2022, à des transactions, y compris des ventes, effectuées en vue de la liquidation d’une coentreprise ou d’une institution juridique similaire créée avant le 16 mars 2022 et associant une personne morale, une entité ou un établissement visé à l’annexe 15.[^15-24]
+<sup>9bis</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entreprise visée à l’annexe 8 sous le numéro SSID 175-55471, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entreprise, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 31 décembre 2022, à des transactions, y compris des ventes, effectuées en vue de la liquidation d’une coentreprise ou d’une institution juridique similaire créée avant le 16 mars 2022 et associant une personne morale, une entité ou un établissement visé à l’annexe 15.[^15-21]
 
-<sup>9ter</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-55580, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 7 janvier 2023, aux opérations, contrats ou autres accords conclus avec cette entité avant le 3 juin 2022 ou auxquels elle était associée d’une autre manière avant cette date.[^15-25]
+<sup>9ter</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-55580, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 7 janvier 2023, aux opérations, contrats ou autres accords conclus avec cette entité avant le 3 juin 2022 ou auxquels elle était associée d’une autre manière avant cette date.[^15-22]
 
-<sup>9quater</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux personnes physiques visées à l’annexe 8 qui jouaient un rôle important dans le commerce international de produits agricoles et alimentaires, y compris le blé et les engrais, avant leur inscription sur la liste, ou la mise de certains avoirs ou ressources économiques à la disposition de ces personnes, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, livrer, transporter ou exporter des produits agricoles et alimentaires, y compris le blé et les engrais, vers des pays tiers afin d’agir sur la sécurité alimentaire.[^15-26]
+<sup>9quater</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux personnes physiques visées à l’annexe 8 qui jouaient un rôle important dans le commerce international de produits agricoles et alimentaires, y compris le blé et les engrais, avant leur inscription sur la liste, ou la mise de certains avoirs ou ressources économiques à la disposition de ces personnes, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour acheter, livrer, transporter ou exporter des produits agricoles et alimentaires, y compris le blé et les engrais, vers des pays tiers afin d’agir sur la sécurité alimentaire.[^15-23]
 
 <sup>9quinquies</sup>
 
 Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 8 sous les numéros SSID 175-60615, 175-60628 et 175-60640 ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que ces avoirs ou ressources économiques sont nécessaires:
 
 - a. afin de mettre fin, au plus tard le 26 août 2023, aux opérations, contrats ou autres accords, y compris les relations de correspondant bancaire, conclus avec ces entités avant le 29 mars 2023, ou
-- b.[^15-27] pour l’entité visée à l’annexe 8 sous le numéro SSID 175-60615 en lien avec des transactions concernant le versement de fonds par la Jewish Claims Conference à des bénéficiaires en Fédération de Russie au plus tard le 31 décembre 2024, indépendamment du moment auquel ces opérations, contrats ou autres accords ont été conclus.[^15-28]
+- b.[^15-24] pour l’entité visée à l’annexe 8 sous le numéro SSID 175-60615 en lien avec des transactions concernant le versement de fonds par la Jewish Claims Conference à des bénéficiaires en Fédération de Russie au plus tard le 31 décembre 2024, indépendamment du moment auquel ces opérations, contrats ou autres accords ont été conclus.[^15-25]
 
-<sup>9sexies</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-61336 ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 août 2023, aux opérations, contrats ou autres accords qui ont été conclus avec cette entité ou avec la participation de celle-ci avant le 29 mars 2023.[^15-29]
+<sup>9sexies</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175-61336 ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 26 août 2023, aux opérations, contrats ou autres accords qui ont été conclus avec cette entité ou avec la participation de celle-ci avant le 29 mars 2023.[^15-26]
 
-<sup>9septies</sup> Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à la personne physique visée à l’annexe 8 sous le numéro SSID 175-50994 ou la mise de certains avoirs ou ressources économiques à la disposition de cette personne physique, ou d’une entité lui appartenant, après avoir établi que ces avoirs ou ressources économiques sont nécessaires à la réalisation de transactions, y compris de ventes, qui sont strictement nécessaires pour liquider, au plus tard le 31 août 2023, une coentreprise ou une construction juridique similaire appartenant avant le 8 mars 2022 à cette personne physique ou à une entité lui appartenant.[^15-30]
+<sup>9septies</sup> Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à la personne physique visée à l’annexe 8 sous le numéro SSID 175-50994 ou la mise de certains avoirs ou ressources économiques à la disposition de cette personne physique, ou d’une entité lui appartenant, après avoir établi que ces avoirs ou ressources économiques sont nécessaires à la réalisation de transactions, y compris de ventes, qui sont strictement nécessaires pour liquider, au plus tard le 31 août 2023, une coentreprise ou une construction juridique similaire appartenant avant le 8 mars 2022 à cette personne physique ou à une entité lui appartenant.[^15-27]
 
 <sup>9octies</sup>
 
 Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175‑70058, après avoir établi:
 
 - a. que ces avoirs ou ressources économiques sont nécessaires pour effectuer un paiement à une personne morale ou une entité établie en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, à un ressortissant suisse, à un ressortissant d’un État membre de l’EEE ou du Royaume-Uni, ou à une personne physique titulaire d’un titre de séjour temporaire ou permanent en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, et
-- b. que ce paiement constitue une indemnité ou une prestation d’assurance faisant suite à la réalisation d’un événement assuré et qu’il n’enfreint pas l’al. 2.[^15-31]
+- b. que ce paiement constitue une indemnité ou une prestation d’assurance faisant suite à la réalisation d’un événement assuré et qu’il n’enfreint pas l’al. 2.[^15-28]
 
 <sup>9novies</sup>
 
-Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux personnes physiques visées à l’annexe 8 sous les numéros SSID 175‑53092, 175‑28544, 175‑50978, 175‑51272, 175‑51290 et 175‑52276 ou la mise de certains avoirs ou ressources économiques à la disposition de ces personnes physiques, après avoir établi:[^15-32]
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux personnes physiques visées à l’annexe 8 sous les numéros SSID 175‑53092, 175‑28544, 175‑50978, 175‑51272, 175‑51290 et 175‑52276 ou la mise de certains avoirs ou ressources économiques à la disposition de ces personnes physiques, après avoir établi:[^15-29]
 
-- a.[^15-33] que ces avoirs ou ressources économiques sont nécessaires à la vente et au transfert, au plus tard le 30 juin 2025, des droits de propriété détenus, directement ou indirectement, par l’une de ces personnes dans une personne morale ou entité établie en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, et
-- b. que le produit de la vente et du transfert reste gelé.[^15-34]
+- a.[^15-30] que ces avoirs ou ressources économiques sont nécessaires à la vente et au transfert, au plus tard le 30 juin 2025, des droits de propriété détenus, directement ou indirectement, par l’une de ces personnes dans une personne morale ou entité établie en Suisse, dans un État membre de l’EEE ou au Royaume-Uni, et
+- b. que le produit de la vente et du transfert reste gelé.[^15-31]
 
-<sup>9decies</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175‑70575, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 20 juin 2024, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec cette entité avant le 1<sup>er</sup> février 2024.[^15-35]
+<sup>9decies</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entité visée à l’annexe 8 sous le numéro SSID 175‑70575, ou la mise de certains avoirs ou ressources économiques à la disposition de cette entité, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour mettre fin, au plus tard le 20 juin 2024, aux opérations, contrats ou autres accords, y compris les relations bancaires correspondantes, conclus avec cette entité avant le 1<sup>er</sup> février 2024.[^15-32]
 
 <sup>10</sup>
 
 Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à une personne physique, une entreprise ou une entité visée à l’annexe 8 ou contrôlés par cette personne physique, cette entreprise ou cette entité, ou la fourniture de services à cette personne physique, cette entreprise ou cette entité, après avoir établi que cela est strictement nécessaire à la mise en place, à la certification ou à l’évaluation d’un système:
 
 - a. qui supprime le contrôle qu’une personne physique, une entreprise ou une entité visée à l’annexe 8 exerce sur les actifs d’une entité ou d’une entreprise non visée à ladite annexe, établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE et qui est détenue ou contrôlée par la personne physique, l’entreprise ou l’entité précitée, et
-- b. qui garantit qu’aucun autre avoir ni ressource économique ne reviendra à la personne physique, à l’entreprise ou à l’entité visée à la let. a.[^15-36]
+- b. qui garantit qu’aucun autre avoir ni ressource économique ne reviendra à la personne physique, à l’entreprise ou à l’entité visée à la let. a.[^15-33]
 
-<sup>11</sup> Il autorise les dérogations visées aux al. 4 à 10 après avoir consulté les services compétents du DFAE et du DFF.[^15-37]
+<sup>11</sup> Il autorise les dérogations visées aux al. 4 à 10 après avoir consulté les services compétents du DFAE et du DFF.[^15-34]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^15-2]: Introduit par le ch. I de l’O du 16 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-3]: Introduite par le ch. I de l’O du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-4]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-5]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^15-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-7]: Abrogée par le ch. I de l’O du 14 mai 2025, avec effet au 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-8]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-9]: Abrogée par le ch. I de l’O du 14 mai 2025, avec effet au 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-10]: Abrogée par le ch. I de l’O du 29 mars 2023, avec effet au 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-11]: Introduite par le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-12]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-13]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-14]: Règlement (UE) n<sup>o</sup> 269/2014 du Conseil du 17 mars 2014 concernant des mesures restrictives eu égard aux actions compromettant ou menaçant l’intégrité territoriale, la souveraineté et l’indépendance de l’Ukraine; JO L 78 du 17.3.2014, modifié par le règlement (UE) 2023/2873 du Conseil du 18 décembre 2023, JO L, 2023/2873, 18.12.2023.
-[^15-15]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-16]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-17]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-18]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-19]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-20]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-21]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-22]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-23]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-24]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-25]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-26]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-27]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-28]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-29]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-30]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-3]: Introduit par le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-4]: Introduit par le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-5]: Introduite par le ch. I de l’O du 16 août 2023 ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-6]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-7]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^15-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-9]: Nouvelle teneur selon le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^15-10]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-11]: Règlement (UE) n<sup>o</sup> 269/2014 du Conseil du 17 mars 2014 concernant des mesures restrictives eu égard aux actions compromettant ou menaçant l’intégrité territoriale, la souveraineté et l’indépendance de l’Ukraine; JO L 78 du 17.3.2014, modifié par le règlement (UE) 2023/2873 du Conseil du 18 décembre 2023, JO L, 2023/2873, 18.12.2023.
+[^15-12]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^15-13]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-14]: Introduit par le ch. I de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-15]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-16]: Introduit par le ch. I de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-17]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-18]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-19]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-20]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-21]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-22]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-23]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 25 janv. 2023 à 18 heures ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-24]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-25]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-26]: Introduit par le ch. I de l’O du 29 mars 2023 ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-27]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-28]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-29]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^15-30]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2025, en vigueur depuis le 13 fév. 2025 ([RO 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
 [^15-31]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-32]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^15-33]: Nouvelle teneur selon le ch. I de l’O du 12 fév. 2025, en vigueur depuis le 13 fév. 2025 ([RO 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
-[^15-34]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-35]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-36]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-37]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-32]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-33]: Introduit par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-34]: Introduit par le ch. I de l’O du 16 août 2023, en vigueur depuis le 16 août 2023 à 18 heures ([RO 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 16
 
 **Déclaration obligatoire concernant le gel d’avoirs et de ressources économiques**
 
-<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 15, al. 1, doivent le déclarer sans délai au SECO.
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis au gel d’avoirs et de ressources économiques prévu à l’art. 15, al. 1, doivent le déclarer sans délai au SECO.[^16-1]
 
-<sup>1bis</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités inscrites sur la liste figurant à l’annexe 8 doivent communiquer sans délai au SECO toutes les transactions effectuées au cours des deux semaines précédant l’inscription de ces personnes, entreprises et entités sur la liste figurant à l’annexe 8.[^16-1]
+<sup>1bis</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques appartenant à ou sous contrôle des personnes physiques, entreprises et entités inscrites sur la liste figurant à l’annexe 8 doivent communiquer sans délai au SECO toutes les transactions effectuées au cours des deux semaines précédant l’inscription de ces personnes, entreprises et entités sur la liste figurant à l’annexe 8.[^16-2]
 
-<sup>1ter</sup> Les personnes et les institutions qui reçoivent et créditent des fonds selon l’art. 15, al. 2<sup>bis</sup>, le déclarent au SECO sur une base trimestrielle.[^16-2]
+<sup>1ter</sup> Les personnes et les institutions qui reçoivent et créditent des fonds selon l’art. 15, al. 2<sup>bis</sup>, le déclarent au SECO sur une base trimestrielle.[^16-3]
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des avoirs et des ressources économiques concernés.
+<sup>1quater</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.[^16-4]
 
-[^16-1]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^16-2]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+<sup>1quinquies</sup> Les versements visés à l’art. 15, al. 2<sup>quater</sup>, doivent être déclarés sans délai au SECO.[^16-5]
+
+<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.[^16-6]
+
+[^16-1]: Nouvelle teneur selon le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-2]: Introduit par le ch. I de l’O du 29 mars 2023, en vigueur depuis le 29 mars 2023 à 20 heures ([RO 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-3]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^16-4]: Introduit par le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-5]: Introduit par le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^16-6]: Nouvelle teneur selon le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 17
 
@@ -2086,6 +2098,8 @@ Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF,
 
 **Interdiction d’honorer certaines créances**
 
+<sup>1</sup>
+
 Il est interdit d’honorer les créances qui se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures imposées par la présente ordonnance, l’ordonnance du 27 août 2014 instituant des mesures en lien avec la situation en Ukraine[^30-1] ou l’ordonnance du 2 avril 2014 instituant des mesures visant à empêcher le contournement de sanctions internationales en lien avec la situation en Ukraine[^30-2]; cette interdiction s’applique aux créances détenues par:
 
 - a.[^30-3] des personnes morales, des entreprises ou des entités visées aux annexes de la présente ordonnance;
@@ -2094,12 +2108,15 @@ Il est interdit d’honorer les créances qui se fondent sur un contrat ou une a
 - b<sup>bis</sup>.[^30-5] des personnes physiques, des entreprises ou des entités dans les territoires désignés à l’annexe 6;
 - c.[^30-6] des personnes physiques, des entreprises ou des entités agissant au nom ou selon les instructions d’une personne physique, d’une entreprise ou d’une entité visée aux let. a à b<sup>bis</sup>.
 
+<sup>2</sup> Dans toute procédure visant à faire valoir une créance, la charge de la preuve que la satisfaction de la demande n’est pas interdite par l’al. 1 incombe à la personne physique, entreprise ou entité faisant valoir la créance.[^30-7]
+
 [^30-1]: [RO 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)
 [^30-2]: [RO 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
 [^30-3]: Nouvelle teneur selon le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^30-4]: Introduite par le ch. I de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^30-5]: Introduite par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^30-6]: Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^30-7]: Introduit par le ch. I 13 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Section 4*a* Autorisations exceptionnelles pour la cession d’actifs en Fédération de Russie
 
