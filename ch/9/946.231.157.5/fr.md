@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2025-05-14
+version: 2025-09-15
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250514/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250514-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250514/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (État le 14 mai 2025)
+du 17 octobre 2018 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -55,18 +55,54 @@ Sont gelés les avoirs et les ressources économiques qui sont la propriété ou
 
 <sup>3</sup>
 
-Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, après avoir consulté les services compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances (DFF), autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
+L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à l’exécution d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par:
 
-- a. de prévenir des cas de rigueur;
-- b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une mesure ou décision judiciaire, administrative ou arbitrale existante;
-- d. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires, ou
-- e. de sauvegarder des intérêts suisses.[^2-1]
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. des organismes publics ou des entreprises et entités qui reçoivent des contributions de la Confédération pour mener des activités humanitaires et qui ne sont pas visés aux let. a à d;
+- f. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à e, lorsqu’ils agissent en cette qualité.[^2-1]
 
-<sup>4</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, accorder des dérogations aux interdictions prévues aux al. 1 et 2 lorsque les transactions financières sont nécessaires pour la fourniture d’une aide humanitaire, telle que l’acheminement d’une assistance ou la facilitation de cet acheminement, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires ou le transfert de travailleurs humanitaires et de l’aide connexe, ou pour des évacuations hors du Myanmar.[^2-2]
+<sup>4</sup>
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 15 juin 2021 ([RO 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
-[^2-2]: Introduit par le ch. I de l’O du 19 mai 2021, en vigueur depuis le 15 juin 2021 ([RO 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’Espace économique européen ou au Royaume-Uni.[^2-2]
+
+<sup>5</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^2-3]
+
+<sup>6</sup>
+
+Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
+
+- a. honorer des contrats existants;
+- b. honorer des créances en application:
+- 1\. d’une décision arbitrale existante, ou
+- 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni.[^2-4]
+
+<sup>7</sup>
+
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques en faveur d’une personne physique, entreprise ou entité visée à l’al. 1 pour:
+
+- a. prévenir des cas de rigueur;
+- b. sauvegarder des intérêts suisses;
+- c. permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international;
+- d. mener ou faciliter des activités humanitaires, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires ou le transfert de travailleurs humanitaires et de l’aide connexe, ou pour des évacuations hors du Myanmar.[^2-5]
+
+<sup>8</sup> Le SECO peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à l’entreprise visée à l’annexe 1 sous le numéro SSID 145-90417 ou la mise de certains avoirs ou ressources économiques à la disposition de cette entreprise, après avoir établi que ces avoirs ou ressources économiques sont nécessaires pour exécuter des tâches en lien avec la mise hors service de puits de pétrole ou de gaz naturel selon les normes internationales.[^2-6]
+
+<sup>9</sup> Il délivre les autorisations prévues aux al. 6 à 8 après avoir consulté les services compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances (DFF).[^2-7]
+
+[^2-1]: Nouvelle teneur selon le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Introduit par le ch. I de l’O du 19 mai 2021 ([RO 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)). Nouvelle teneur selon le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Introduit par le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Introduit par le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Introduit par le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-6]: Introduit par le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-7]: Introduit par le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
@@ -104,8 +140,8 @@ Le SECO peut, après avoir consulté les services compétents du DFAE, autoriser
 
 <sup>5</sup> Les dispositions de la loi du 13 décembre 1996 sur le contrôle des biens[^4-1] et de la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^4-2] sont réservées.
 
-[^4-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^4-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^4-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^4-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 5
 
@@ -119,7 +155,7 @@ Le SECO peut, après avoir consulté les services compétents du DFAE, autoriser
 
 <sup>4</sup> Le SECO autorise des dérogations aux interdictions prévues aux al. 1 à 3 dans le cadre de la procédure fixée à l’art. 27 de l’ordonnance du 3 juin 2016 sur le contrôle des biens (OCB)[^5-1], dans la mesure où il est garanti que les biens et services concernés ne serviront pas à la surveillance ou à l’interception d’Internet ou de communications téléphoniques.
 
-[^5-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^5-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 6
 
@@ -134,11 +170,13 @@ La vente, la livraison, l’exportation, le transit et le transport au Myanmar d
 
 <sup>2</sup> La fourniture de services de toutes sortes, y compris les services financiers, les services de courtage et l’assistance technique en rapport avec la vente, la livraison, l’exportation, le transit, la mise à disposition, la fabrication, l’entretien ou l’utilisation des biens visés à l’al. 1, est interdite.
 
-[^6-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 2 OCB peut être consultée sur: [www.s e c o . a dmin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^6-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)L’annexe 2 OCB peut être consultée sur: [www.s e c o . a dmin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 #### Art. 7
 
 **Interdiction d’honorer certaines créances**
+
+<sup>1</sup>
 
 Il est interdit d’honorer les créances des personnes, des entreprises et des entités suivantes lorsque ces créances se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures imposées par la présente ordonnance ou par l’ordonnance du 28 juin 2006 instituant des mesures à l’encontre du Myanmar[^7-1]:
 
@@ -147,7 +185,10 @@ Il est interdit d’honorer les créances des personnes, des entreprises et des 
 - c. les personnes physiques, entreprises et entités au Myanmar;
 - d. les personnes physiques, entreprises et entités agissant selon les instructions ou pour le compte des personnes physiques, entreprises et entités visées aux let. a à c.
 
+<sup>2</sup> Dans toute procédure visant à faire valoir une créance, la charge de la preuve que la satisfaction de la demande n’est pas interdite par l’al. 1 incombe à la personne physique, entreprise ou entité faisant valoir la créance.[^7-2]
+
 [^7-1]: [RO 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637); [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)
+[^7-2]: Introduit par le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 8
 
@@ -171,15 +212,21 @@ Il est interdit d’honorer les créances des personnes, des entreprises et des 
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, telles que la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
 
-[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
-**Déclaration obligatoire**
+**Déclaration obligatoire**[^10-1]
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils sont soumis au gel des avoirs et des ressources économiques prévu à l’art. 2, al. 1, doivent les déclarer sans délai au SECO.
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis au gel prévu à l’art. 2, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+<sup>2</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
+
+<sup>3</sup> Les versements visés à l’art. 2, al. 5, doivent être déclarés sans délai au SECO.
+
+<sup>4</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.
+
+[^10-1]: Nouvelle teneur selon le ch. I 10 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 11
 
@@ -280,8 +327,8 @@ Annexe 2
 - 10 Équipements spécialement conçus pour la production des biens visés dans la présente liste.
 - 11 Technologies spécifiques requises pour le développement, la production ou l’utilisation des biens visés dans la présente liste.
 
-[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 3 de l’OCB peut être consultée sur [www. s e c o.admin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)L’annexe 3 de l’OCB peut être consultée sur [www. s e c o.admin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 Annexe 3
 

@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2025-05-14
+version: 2025-09-15
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250514/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250514-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250514/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 14 maggio 2025)
+del 17 ottobre 2018 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -55,18 +55,57 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>3</sup>
 
-La Segreteria di Stato dell’economia (SECO), d’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze (DFF), può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati nonché la liberazione delle risorse economiche bloccate per:
+Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche sono necessari per lo svolgimento di attività umanitarie o altre attività volte a soddisfare bisogni umani fondamentali da parte di:
 
-- a. evitare casi di rigore;
-- b. rispettare contratti esistenti;
-- c. onorare crediti oggetto di una misura o una sentenza giudiziaria, amministrativa o arbitrale;
-- d. adempiere agli scopi ufficiali di missioni diplomatiche o consolari; oppure
-- e. tutelare interessi svizzeri.[^2-1]
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, <sup>fondi e altri enti e organismi, nonché sue agenzie specializzate e or</sup><sup>ganizza</sup><sup>zioni collegate;</sup>
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie e non rientrano nel campo d’applicazione delle lettere a–d;
+- f. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–e nella misura in cui agiscono in tale veste.[^2-1]
 
-<sup>4</sup> La SECO, d’intesa con i competenti uffici del DFAE et del DFF, può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 quando le transazioni finanziarie sono necessarie per fornire aiuto umanitario, come fornire o facilitare la fornitura di assistenza, comprese forniture mediche, cibo o trasferimento di operatori umanitari e relativa assistenza o per evacuazioni dal Myanmar.[^2-2]
+<sup>4</sup>
 
-[^2-1]: Nuovo testo giusta la cifra I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
-[^2-2]: Introdotto dalla cifra I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo o nel Regno Unito.[^2-2]
+
+<sup>5</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^2-3]
+
+<sup>6</sup>
+
+La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
+
+- a. rispettare contratti esistenti;
+- b.
+
+  soddisfare crediti in applicazione di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito.[^2-4]
+
+<sup>7</sup>
+
+In via eccezionale può autorizzare la liberazione di determinati averi o risorse economiche bloccati oppure la messa a disposizione di determinati averi o risorse economiche alle persone fisiche, imprese o organizzazioni di cui al capoverso 1 per:
+
+- a. prevenire casi di rigore;
+- b. tutelare interessi svizzeri;
+- c. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari oppure di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
+- d. svolgere o agevolare lo svolgimento di attività umanitarie, tra cui forniture mediche e alimentari, il trasferimento di operatori umanitari e la relativa assistenza, o evacuazioni dal Myanmar.[^2-5]
+
+<sup>8</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà dell’impresa menzionata nell’allegato 1 al numero SSID 145-90417 oppure la messa a disposizione di determinati averi e risorse economiche a tale impresa, dopo aver stabilito che tali averi e risorse economiche sono necessari per svolgere compiti connessi allo smantellamento di pozzi di petrolio e di gas naturale conformemente alle norme internazionali.[^2-6]
+
+<sup>9</sup> Autorizza le deroghe di cui ai capoversi 6–8 d’intesa con i servizi competenti del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze (DFF).[^2-7]
+
+[^2-1]: Nuovo testo giusta la cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Introdotto dalla cifra I dell’O del 19 mag. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)). Nuovo testo giusta la cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Introdotto dalla cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Introdotto dalla cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Introdotto dalla cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-6]: Introdotto dalla cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-7]: Introdotto dalla cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
@@ -104,8 +143,8 @@ D’intesa con i competenti uffici del DFAE, la SECO può autorizzare deroghe ai
 
 <sup>5</sup> Sono fatte salve le disposizioni della legge del 13 dicembre 1996[^4-1] sul controllo dei beni a duplice impiego e della legge del 13 dicembre 1996[^4-2] sul materiale bellico.
 
-[^4-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^4-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^4-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^4-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 5
 
@@ -119,7 +158,7 @@ D’intesa con i competenti uffici del DFAE, la SECO può autorizzare deroghe ai
 
 <sup>4</sup> La SECO autorizza deroghe ai divieti di cui ai capoversi 1–3 procedendo secondo l’articolo 27 dell’ordinanza del 3 giugno 2016[^5-1] sul controllo dei beni a duplice impiego (OBDI), purché sia accertato che i beni e i servizi interessati non siano utilizzati per il controllo o l’intercettazione sulle comunicazioni via Internet o telefoniche.
 
-[^5-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^5-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
 
 #### Art. 6
 
@@ -140,6 +179,8 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 **Divieto di soddisfare determinati crediti**
 
+<sup>1</sup>
+
 È vietato adempiere richieste delle seguenti persone, imprese e organizzazioni se vi è correlazione tra queste e un contratto o un’attività la cui esecuzione viene direttamente o indirettamente impedita o pregiudicata da misure previste dalla presente ordinanza o dall’ordinanza del 28 giugno 2006[^7-1] che istituisce provvedimenti nei confronti del Myanmar:
 
 - a. persone fisiche, imprese e organizzazioni di cui all’allegato 1;
@@ -147,7 +188,10 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 - c. persone fisiche, imprese e organizzazioni in Myanmar;
 - d. persone fisiche, imprese e organizzazioni operanti su incarico o in favore di una persona, un’impresa o un’organizzazione di cui alle lettere a‒c.
 
+<sup>2</sup> Nelle procedure volte a far valere un credito, incombe alla persona fisica, all’impresa o all’organizzazione che fa valere la pretesa provare che il soddisfacimento della pretesa non è vietato secondo il capoverso 1.[^7-2]
+
 [^7-1]: [RU 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637); [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)
+[^7-2]: Introdotto dalla cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 8
 
@@ -171,15 +215,21 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^9-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^9-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
-**Dichiarazioni obbligatorie**
+**Dichiarazioni obbligatorie**[^10-1]
 
-<sup>1</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1 sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
+
+<sup>3</sup> Gli accrediti di cui all’articolo 2 capoverso 5 devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^10-1]: Nuovo testo giusta la cifra I n. 10 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 11
 
@@ -205,7 +255,7 @@ La pubblicazione delle voci di cui all’allegato 1 non è prevista né nella Ra
 
 L’ordinanza del 28 giugno 2006[^13-1] che istituisce provvedimenti nei confronti del Myanmar è abrogata.
 
-[^13-1]: [[RU 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637)n. II; [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
+[^13-1]: [[RU 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637)cifra II; [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
 
 #### Art. 14
 
@@ -280,7 +330,7 @@ Allegato 2
 - 10 Dispositivi specificamente progettati per la produzione degli articoli menzionati nel presente elenco.
 - 11 Tecnologia specifica destinata allo sviluppo, alla fabbricazione e all’utilizzo degli articoli menzionati nel presente elenco.
 
-[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+[^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
 [^annex2-lvlu1-2]: RS **946.202.1** L’all. 3 OBDI può essere consultato all’indirizzo: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home.html) &gt; Politica economica esterna e cooperazione economica &gt; Controlli alle esportazioni e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 
 Allegato 3
