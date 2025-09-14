@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2025-03-01
+version: 2025-09-15
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250301-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250301/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° marzo 2025)
+del 27 maggio 2020 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 20 giugno 2014[^ingress-1] sulle derrate alimentari 
 
 ordina:
 
-[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ## Titolo 1: Oggetto, definizioni e campo d’applicazione
 
@@ -56,12 +56,12 @@ Non si applica qualora siano applicabili i seguenti atti normativi e le disposiz
 - e. ordinanza del 18 novembre 2015[^1-5] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi;
 - f. ordinanza del 18 novembre 2015[^1-6] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia.
 
-[^1-1]: [RS 817.45](https://fedlex.data.admin.ch/eli/cc/1998/236_236_236)
-[^1-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^1-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^1-4]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
-[^1-5]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^1-6]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^1-1]: [RS 817.45](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9755)
+[^1-2]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^1-3]: [RS 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^1-4]: [RS 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
+[^1-5]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^1-6]: [RS 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 
 #### Art. 2
 
@@ -103,11 +103,11 @@ Nella presente ordinanza s’intende per:
 <sup>2</sup> Fatte salve le definizioni divergenti nel diritto svizzero sulle derrate alimentari, i restanti termini della presente ordinanza, nonché delle ordinanze del Dipartimento federale dell’interno (DFI) o dell’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) fondate su di essa sono utilizzati in base alle definizioni contenute nel regolamento (UE) n. 2017/625.
 
 [^2-1]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1, modificato da ultimo dal regolamento delegato (UE) 2019/2127, GU L 321 del 12.12.2019, pag. 111.
-[^2-2]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^2-3]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^2-4]: [RS 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
-[^2-5]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
-[^2-6]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^2-2]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^2-3]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^2-4]: [RS 910.19](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10421)
+[^2-5]: [RS 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
+[^2-6]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## Titolo 2: Controlli ufficiali
 
@@ -127,8 +127,8 @@ Nella presente ordinanza s’intende per:
 
 <sup>5</sup> Devono essere indipendenti dalle aziende che ispezionano o controllano. A esse si applicano i motivi di ricusazione di cui all’articolo 10 capoverso 1 della legge del 20 dicembre 1968[^3-2] sulla procedura amministrativa.
 
-[^3-1]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
-[^3-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^3-1]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
+[^3-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 4
 
@@ -183,7 +183,7 @@ Le autorità di esecuzione competenti possono eseguire i seguenti controlli uffi
 
 <sup>2</sup> Esse registrano regolarmente i risultati dei controlli nel sistema d’informazione per i risultati di controlli e analisi secondo l’ordinanza del 27 aprile 2022[^6-1] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare. L’USAV determina il tipo di registrazione dei dati dopo aver consultato le autorità cantonali di esecuzione.[^6-2]
 
-[^6-1]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-1]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^6-2]: Introdotto dall’all. 4 cifra II n. 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 7
@@ -202,7 +202,7 @@ Per l’adempimento del mandato di cui al capoverso 1, le autorità di esecuzion
 
 <sup>3</sup> Le informazioni di cui al capoverso 2 possono essere pubblicate insieme al rapporto annuale ai sensi dell’articolo 20 dell’OPCNP[^7-1].
 
-[^7-1]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^7-1]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 
 #### Art. 8
 
@@ -264,7 +264,7 @@ Le autorità notificano immediatamente all’USAV le contestazioni e i casi che 
 - a. le derrate alimentari o gli oggetti d’uso nocivi per la salute sono stati consegnati a un numero indeterminato di consumatori e la popolazione in numerosi Cantoni o all’estero è stata messa in pericolo o potrebbe esserlo; oppure
 - b. vi è un rischio per la salute.
 
-[^11-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^11-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 12
 
@@ -318,7 +318,7 @@ Metodi e tecniche per controlli ufficiali possono includere:
 
 <sup>2</sup> I controlli ufficiali delle derrate alimentari e degli oggetti d’uso possono anche comprendere una serie di controlli o di misurazioni pianificate per mantenere una visione d’insieme sullo stato di osservanza della legislazione sulle derrate alimentari.
 
-[^14-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^14-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^14-2]: Hazard analysis critical control points
 
 ### Sezione 2: Accertamenti di focolai di malattie connessi a derrate alimentari, acqua per docce o piscine
@@ -378,8 +378,8 @@ Le autorità cantonali assegnano alle aziende con l’autorizzazione un numero d
 
 <sup>4</sup> L’autorità cantonale inserisce il numero di autorizzazione, compresi i codici e le voci di complemento, nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione ai sensi dell’ordinanza del 27 aprile 2022[^19-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^19-3]
 
-[^19-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^19-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^19-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^19-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^19-3]: Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 4: Attività di controllo supplementari sui giocattoli
@@ -394,7 +394,7 @@ Le autorità cantonali assegnano alle aziende con l’autorizzazione un numero d
 
 <sup>3</sup> Se constatano che un giocattolo non soddisfa i requisiti generali di sicurezza secondo l’articolo 66 capoversi 1–3 ODerr[^20-1] e i requisiti particolari di sicurezza fissati dal DFI in virtù dell’articolo 66 capoverso 4 lettera b ODerr, le autorità cantonali di esecuzione possono ordinare all’organismo di valutazione della conformità di revocare il certificato di esame del tipo del giocattolo in questione.
 
-[^20-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^20-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 21
 
@@ -432,7 +432,7 @@ In caso di contestazione di giocattoli le autorità cantonali di esecuzione tras
 
 <sup>4</sup> Nei casi secondo il capoverso 3 è compito delle autorità cantonali di esecuzione determinare i parametri da analizzare, prendere la decisione definitiva, ordinare le misure necessarie e riscuotere gli emolumenti.
 
-[^23-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^23-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 24
 
@@ -539,7 +539,7 @@ Se le merci contestate sono trasferite per un esame approfondito all’autorità
 
 <sup>2</sup> Le partite che al momento dell’importazione sono prive dei documenti di accompagnamento necessari secondo l’articolo 86 capoverso 2 ODerr possono essere respinte alla frontiera secondo le disposizioni dell’articolo 30 capoverso 1 lettera c.
 
-[^31-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^31-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 32
 
@@ -607,7 +607,7 @@ Possono su richiesta subordinare il rilascio dell’attestazione secondo il capo
 
 <sup>4</sup> In deroga all’articolo 58, i campioni prelevati durante i controlli approfonditi non sono rimborsati.
 
-[^37-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^37-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 38
 
@@ -716,7 +716,7 @@ I Cantoni gestiscono o incaricano come ufficiali solo i laboratori che:
 <sup>3</sup> L’accreditamento e la valutazione dei laboratori di prova si basano sull’ordinanza del 17 giugno 1996[^44-2] sull’accreditamento e sulla designazione.
 
 [^44-1]: La norma può essere consultata gratuitamente o ottenuta a pagamento presso lʼAssociazione svizzera di normazione (SNV), Bürglistrasse 29, 8400 Winterthur; [www.snv.ch](https://www.snv.ch)
-[^44-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^44-2]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 45
 
@@ -1024,9 +1024,9 @@ L’istruzione dei minorenni comprende almeno:
 
 <sup>2</sup> Sono comunicati la data del test d’acquisto e il tipo di bevande alcoliche controllate specificate dal DFI ai sensi dell’articolo 14 capoverso 1 ODerr[^61f-3].
 
-[^61f-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^61f-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
-[^61f-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^61f-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^61f-2]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+[^61f-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 61g
 
@@ -1042,8 +1042,8 @@ L’autorità cantonale competente trasmette all’UFSP, una volta all’anno, a
   - 1\. tipo di prodotto,
   - 2\. luogo di vendita.
 
-[^61g-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^61g-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^61g-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^61g-2]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 ## Titolo 4: Formazione delle persone incaricate dei controlli ufficiali, attestati di capacità e diplomi
 
@@ -1066,8 +1066,8 @@ L’autorità cantonale competente trasmette all’UFSP, una volta all’anno, a
 <sup>5</sup> Le persone che controllano le aziende di sezionamento con un’autorizzazione di cui all’articolo 21 ODerr[^62-2], devono disporre di un attestato di capacità di veterinario ufficiale secondo l’ordinanza del 16 novembre 2011[^62-3] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.
 
 [^62-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
-[^62-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^62-3]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^62-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^62-3]: [RS 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 
 #### Art. 63
 
@@ -1110,7 +1110,7 @@ Chi intende esercitare una delle seguenti funzioni deve disporre del diploma cor
 
 <sup>2</sup> La CE è una commissione extraparlamentare ai sensi dell’ordinanza del 25 novembre 1998[^65-1] sull’organizzazione del Governo e dell’Amministrazione (OLOGA).
 
-[^65-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^65-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 #### Art. 66
 
@@ -1120,7 +1120,7 @@ Chi intende esercitare una delle seguenti funzioni deve disporre del diploma cor
 
 La CE ha in particolare i compiti e le competenze seguenti:
 
-- a. assicura le possibilità di formazione per gli esami di diploma;
+- assicura le possibilità di formazione per gli esami di diploma;
 - b. assiste l’USAV su richiesta, se il candidato soddisfa le condizioni condizioni per l’ammissione all’esame;
 - c. fissa gli obiettivi e i contenuti concernenti l’apprendimento delle materie di cui agli articoli 79 capoverso 2 e 89 capoverso 1;
 - d. prepara gli esami di cui agli articoli 80 e 90, fissa i compiti d’esame e conduce gli esami;
@@ -1466,8 +1466,8 @@ La comprova della formazione preliminare teorica può essere prodotta con:
 
 <sup>3</sup> In casi eccezionali la comprova della formazione preliminare teorica può essere prodotta anche con altri attestati di bachelor. L’USAV decide in merito al riconoscimento su richiesta della CE.
 
-[^88-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^88-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^88-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
+[^88-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 89
 
@@ -1598,7 +1598,7 @@ Chi è nominato chimico o suo sostituto dal Cantone senza essere ancora in posse
 
 <sup>2</sup> Se una persona intende far valere i propri diritti, deve comprovare la propria identità e presentare una domanda scritta all’USAV.
 
-[^95b-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^95b-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 95c
 
@@ -1622,7 +1622,7 @@ L’USAV può scambiare i dati seguenti:
 
 <sup>4</sup> L’archiviazione dei dati è retta dalle prescrizioni della legge del 26 giugno 1998[^95d-1] sull’archiviazione.
 
-[^95d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^95d-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Titolo 5: Trattamento dei dati di esecuzione
 
@@ -1653,7 +1653,7 @@ Le autorità cantonali di esecuzione trattano i dati personali:
 
 **Forma del trattamento**
 
-<sup>1</sup> e <sup>2</sup> *…*[^97-1]
+<sup>1 e <sup>2</sup></sup> *…*[^97-1]
 
 <sup>3</sup> I dati concernenti perseguimenti e sanzioni amministrativi o penali sono trattati in modo confidenziale, fatti salvi i casi in cui una base legale ne richieda la comunicazione.[^97-2]
 
@@ -1710,7 +1710,7 @@ Allo scopo di attuare gli obiettivi prefissati dalla legge sulle derrate aliment
 
 <sup>3</sup> L’USAV disciplina i requisiti per i dati e per gli aspetti tecnici della trasmissione dei dati.
 
-[^100-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^100-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 101
 
@@ -1740,7 +1740,7 @@ Le autorità federali, le autorità cantonali di esecuzione e i terzi scambiano 
   - 2\. una designazione relativa a prodotti agricoli, protetta in virtù di un trattato internazionale concluso con la Svizzera,
   - 3\. la dichiarazione dei prodotti ottenuti mediante metodi vietati in Svizzera di cui all’articolo 18 LAgr non sono conformi alle esigenze delle rispettive ordinanze o del rispettivo trattato internazionale.
 
-[^102-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^102-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 103
 
@@ -1769,7 +1769,7 @@ L’USAV scambia dati personali con le autorità competenti di altri Paesi o con
 
 <sup>3</sup> Sono fatte salve la legge del 26 giugno 1998[^104-1] sull’archiviazione e le legislazioni cantonali sull’archiviazione.
 
-[^104-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^104-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ### Capitolo 2: Trattamento di dati allo scopo di un’analisi dei rischi
 
@@ -1823,7 +1823,7 @@ I dati resi anonimi, trattati allo scopo di un’analisi dei rischi, possono ess
 
 <sup>4</sup> Sempre che la presente ordinanza non contenga un disciplinamento speciale, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^108-1] sugli emolumenti.
 
-[^108-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^108-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 109
 
@@ -1840,8 +1840,8 @@ Sono considerati esborsi i costi supplementari per i singoli controlli o le sing
 - a. degli onorari secondo gli articoli 8*l–*8*t* OLOGA[^110-2];
 - b. dei costi generati dalla raccolta di prove o da verifiche particolari.
 
-[^110-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^110-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^110-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^110-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 #### Art. 111
 
@@ -1875,7 +1875,7 @@ Applicano emolumenti fino ai seguenti importi massimi:
 
 <sup>7</sup> Gli esborsi per controlli ufficiali, prestazioni e controlli su richiesta possono essere fatturati separatamente.
 
-[^112-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^112-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 113
 
@@ -2001,6 +2001,17 @@ Le partite con semi di cumino dalla Turchia già inviate al momento dell’entra
 
 [^118f-1]: Introdotto dalla cifra I dell’O dell’USAV del 6 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100))
 
+#### Art. 118g
+
+**Disposizione transitoria della modifica del 26 agosto 2025**[^118g-1]
+
+Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 26 agosto 2025 possono essere importate fino al 15 novembre 2025 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
+
+- a. frutti della moringa (*Moringa oleifera*) dall’India;
+- b. fagioli asparago (Vigna unguiculata ssp. sesquipedalis, Vigna unguiculata ssp. unguiculata) dall’India.
+
+[^118g-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 ago. 2025, in vigore dal 15 set. 2025 ([RU 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
+
 #### Art. 119
 
 **Entrata in vigore**
@@ -2022,12 +2033,12 @@ Allegato 2[^t-1]
 
 ## Derrate alimentari non di origine animale provenienti da determinati Paesi che sono soggetti temporaneamente ai controlli ufficiali approfonditi secondo gli articoli 37−43
 
-[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 9 lug. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)) e del 6 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)).
+[^t-1]: Aggiornato dalla cifra II dell’O dell’USAV del 25. ago. 2025, in vigore dal 15 set. 2025 ([RU 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
 
 - 1\. Tutte le derrate alimentari iscritte nell’allegato I del regolamento di esecuzione (UE) 2019/1793[^annex2-lvlu1-1].
 - 2\. La campionatura e l’analisi si basano sull’allegato III del regolamento di esecuzione qualora allo stesso rimandi l’allegato I.
 
-[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2024/3153, GU L, 2024/3153, 19.12.2024.
+[^annex2-lvlu1-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89; modificato da ultimo dal regolamento di esecuzione (UE) 2025/1441, GU L, 2025/1441, 23.7.2025.
 
 Allegato 3[^t-2]
 
@@ -2068,7 +2079,7 @@ Allegato 4
 <tr><td>2.2</td><td>Autorizzazioni secondo le disposizioni del DFI sui nuovi tipi di derrate alimentari</td><td></td><td>200–50 000</td></tr>
 </table>
 
-[^annex4-lvlu1-lvl2-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex4-lvlu1-lvl2-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3. Esami
 
@@ -2128,7 +2139,7 @@ Allegato 5[^t-3]
 [^annex5-lvlu1-3]: Regolamento (CE) n. 401/2006 della Commissione, del 23 febbraio 2006, relativo ai metodi di campionamento e di analisi per il controllo ufficiale dei tenori di micotossine nei prodotti alimentari, GU L 70 del 9.3.2006, pag. 12; modificato da ultimo dal regolamento (UE) n. 519/2014, GU L 147 del 17.5.2014, pag. 29.
 [^annex5-lvlu1-4]: Regolamento (UE) 2015/705 della Commissione, del 30 aprile 2015, che stabilisce i metodi di campionamento e i criteri di rendimento per i metodi di analisi per il controllo ufficiale dei tenori di acido erucico negli alimenti e che abroga la direttiva 80/891/CEE della Commissione, versione della GU L 113 del 1.5.2015, pag. 29.
 [^annex5-lvlu1-5]: Regolamento di esecuzione (UE) 2019/627 della Commissione, del 15 marzo 2019, che stabilisce modalità pratiche uniformi per l’esecuzione dei controlli ufficiali sui prodotti di origine animale destinati al consumo umano in conformità al regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio e che modifica il regolamento (CE) n. 2074/2005 della Commissione per quanto riguarda i controlli ufficiali, versione della GU L 131 del 17.5.2019, pag. 51.
-[^annex5-lvlu1-6]: Le versioni originali della *Farmacopea europea* sono pubblicate dal Consiglio d’Europa. La versione originale in francese può essere ordinata presso l’Ufficio federale delle costruzioni e della logistica, Vendita pubblicazioni federali, 3003 Berna, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Fino alla pubblicazione della versione tedesca, bozze di singoli testi in lingua tedesca possono essere richieste presso la Divisione farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
+[^annex5-lvlu1-6]: Le versioni originali della *Farmacopea europea* sono pubblicate dal Consiglio d’Europa. La versione originale in francese può essere ordinata presso l’Ufficio federale delle costruzioni e della logistica, Vendita pubblicazioni federali, 3003 Berna, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Fino alla pubblicazione della versione tedesca, bozze di singoli testi in lingua tedesca possono essere richieste presso la Divisione farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
 [^annex5-lvlu1-7]: Direttiva 2002/63/CE della Commissione, dell’11 luglio 2002, che stabilisce metodi comunitari di campionamento ai fini del controllo ufficiale dei residui di antiparassitari sui e nei prodotti alimentari di origine vegetale e animali e che abroga la direttiva 79/700/CEE, versione della GU L 187 del 16.7.2002, pag. 30.
 [^annex5-lvlu1-8]: Regolamento (UE) 2017/644 della Commissione, del 5 aprile 2017, che stabilisce i metodi di campionamento e di analisi per il controllo dei livelli di diossine, PCB diossina-simili e PCB non diossina-simili in alcuni prodotti alimentari e che abroga il regolamento (UE) n. 589/2014, versione della GU L 92 del 6.4.2017, pag. 9.
 [^annex5-lvlu1-9]: Regolamento di esecuzione (UE) 2022/1428 della Commissione, del 24 agosto 2022, che stabilisce metodi di campionamento e di analisi per il controllo delle sostanze perfluoroalchiliche in alcuni prodotti alimentari, versione della GU L 221 del 26.8.2022, pag. 66.
@@ -2210,7 +2221,7 @@ Allegato 8
 - 7\. Tenere riunioni per lo scambio di esperienze e, se necessario, corsi di formazione per il personale dei laboratori ufficiali.
 - 8\. Assistere l’USAV nella diagnosi di malattie e zoonosi trasmesse per via alimentare e in caso di partite non a norma analizzando agenti patogeni isolati per la conferma delle diagnosi, la caratterizzazione e la classificazione tassonomica.
 
-[^annex8-lvlu1-1]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^annex8-lvlu1-1]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 
 Allegato 9[^t-4]
 

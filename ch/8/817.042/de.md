@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2025-03-01
+version: 2025-09-15
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250301-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250301/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. März 2025)
+vom 27. Mai 2020 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Lebensmittelgesetz vom 20. Juni 2014[^ingress-1] (LMG),
 
 verordnet:
 
-[^ingress-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ## 1. Titel: Gegenstand, Begriffe und Geltungsbereich
 
@@ -56,12 +56,12 @@ Sie gilt nicht, soweit die folgenden Erlasse und die gestützt darauf erlassenen
 - e. Verordnung vom 18. November 2015[^1-5] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten;
 - f. Verordnung vom 18. November 2015[^1-6] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen.
 
-[^1-1]: [SR 817.45](https://fedlex.data.admin.ch/eli/cc/1998/236_236_236)
-[^1-2]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^1-3]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^1-4]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
-[^1-5]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^1-6]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^1-1]: [SR 817.45](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9755)
+[^1-2]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^1-3]: [SR 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^1-4]: [SR 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
+[^1-5]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
+[^1-6]: [SR 916.443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10895)
 
 #### Art. 2
 
@@ -103,11 +103,11 @@ In dieser Verordnung bedeuten:
 <sup>2</sup> Die übrigen Begriffe dieser Verordnung sowie der vom Eidgenössischen Departement des Innern (EDI) oder vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) gestützt auf diese Verordnung erlassenen Verordnungen werden, unter dem Vorbehalt abweichender Definitionen im schweizerischen Lebensmittelrecht, gemäss den Definitionen verwendet, die in der Verordnung (EU) Nr. 2017/625 enthalten sind.
 
 [^2-1]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/ 608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2127 ABl. L 321 vom 12.12.2019, S. 111.
-[^2-2]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
-[^2-3]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^2-4]: [SR 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
-[^2-5]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
-[^2-6]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^2-2]: [SR 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
+[^2-3]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^2-4]: [SR 910.19](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10421)
+[^2-5]: [SR 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
+[^2-6]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## 2. Titel: Amtliche Kontrollen
 
@@ -127,8 +127,8 @@ In dieser Verordnung bedeuten:
 
 <sup>5</sup> Sie müssen von den Betrieben, die sie inspizieren oder kontrollieren, unabhängig sein. Für sie gelten die Ausstandsgründe nach Artikel 10 Absatz 1 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^3-2].
 
-[^3-1]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
-[^3-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^3-1]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
+[^3-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 4
 
@@ -186,7 +186,7 @@ Die zuständigen Vollzugsbehörden können die folgenden amtlichen Kontrollen du
 
 <sup>2</sup> Sie erfassen die Kontrollergebnisse regelmässig im Informationssystem für Resultate von Kontrollen und Untersuchungen nach der Verordnung vom 27. April 2022[^6-1] über Informationssysteme des BLV für die Lebensmittelkette. Das BLV bestimmt nach Absprache mit den kantonalen Vollzugsbehörden die Art der Datenerfassung.[^6-2]
 
-[^6-1]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^6-1]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^6-2]: Eingefügt durch Anhang 4 Ziff. II 5 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 7
@@ -205,7 +205,7 @@ Für die Erfüllung des Auftrags nach Absatz 1 liefern die Vollzugsbehörden dem
 
 <sup>3</sup> Die Informationen nach Absatz 2 können mit dem Jahresbericht nach Artikel 20 MNKPV[^7-1] veröffentlicht werden.
 
-[^7-1]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^7-1]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 
 #### Art. 8
 
@@ -267,7 +267,7 @@ Die Behörden melden dem BLV umgehend die Beanstandungen sowie die ihnen nach Ar
 - a. die gesundheitsschädigenden Lebensmittel oder Gebrauchsgegenstände an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben worden sind und die Bevölkerung mehrerer Kantone oder im Ausland dadurch gefährdet worden ist oder gefährdet werden könnte; oder
 - b. das Risiko einer Gesundheitsschädigung besteht.
 
-[^11-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^11-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 12
 
@@ -321,7 +321,7 @@ Methoden und Techniken für amtliche Kontrollen können umfassen:
 
 <sup>2</sup> Bei den amtlichen Kontrollen von Lebensmitteln und Gebrauchsgegenständen kann auch eine planmässige Abfolge von Kontrollen oder Messungen durchgeführt werden, um einen Überblick über den Stand der Einhaltung der Lebensmittelgesetzgebung zu erhalten.
 
-[^14-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^14-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^14-2]: Hazard analysis critical control points
 
 ### 2. Abschnitt: Abklärung von Krankheitsausbrüchen in Zusammenhang mit Lebensmitteln, Dusch- oder Badewasser
@@ -381,8 +381,8 @@ Die kantonalen Behörden teilen den Betrieben mit der Bewilligung eine Bewilligu
 
 <sup>4</sup> Die kantonale Behörde gibt die Bewilligungsnummern einschliesslich ergänzender Codes und Unternummern in das Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes nach der Verordnung vom 27. April 2022[^19-2] über Informationssysteme des BLV für die Lebensmittelkette ein.[^19-3]
 
-[^19-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^19-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^19-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^19-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^19-3]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### 4. Abschnitt: Zusätzliche Kontrolltätigkeiten bei Spielzeug
@@ -397,7 +397,7 @@ Die kantonalen Behörden teilen den Betrieben mit der Bewilligung eine Bewilligu
 
 <sup>3</sup> Stellen die kantonalen Vollzugsbehörden fest, dass ein Spielzeug die allgemeinen Sicherheitsanforderungen nach Artikel 66 Absätze 1–3 LGV[^20-1] und die vom EDI gestützt auf Artikel 66 Absatz 4 Buchstabe b LGV festgelegten besonderen Sicherheitsanforderungen nicht erfüllt, so können sie die Konformitätsbewertungsstelle anweisen, die Baumusterprüfbescheinigung für dieses Spielzeug zurückzunehmen.
 
-[^20-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^20-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 21
 
@@ -435,7 +435,7 @@ Die kantonalen Vollzugsbehörden übermitteln dem BLV im Falle einer Beanstandun
 
 <sup>4</sup> In Fällen nach Absatz 3 ist es die Aufgabe der kantonalen Vollzugsbehörde, die zu untersuchenden Parameter zu bestimmen, den abschliessenden Entscheid zu treffen, die erforderlichen Massnahmen anzuordnen und die Gebühren zu erheben.
 
-[^23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 24
 
@@ -542,7 +542,7 @@ Werden beanstandete Waren zur näheren Prüfung an die kantonale Vollzugsbehörd
 
 <sup>2</sup> Sendungen, denen bei der Einfuhr die nach Artikel 86 Absatz 2 LGV erforderlichen Begleitdokumente fehlen, können entsprechend den Vorgaben nach Artikel 30 Absatz 1 Buchstabe c zurückgewiesen werden.
 
-[^31-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^31-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 32
 
@@ -610,7 +610,7 @@ Sie können auf Anfrage die Bescheinigung nach Absatz 1 Buchstabe a oder b davon
 
 <sup>4</sup> In Abweichung von Artikel 58 werden die Proben der verstärkten Kontrollen nicht vergütet.
 
-[^37-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^37-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 38
 
@@ -719,7 +719,7 @@ Die Kantone betreiben oder beauftragen Laboratorien als amtliche Laboratorien, d
 <sup>3</sup> Die Akkreditierung und die Bewertung von Prüflaboratorien richtet sich nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^44-2].
 
 [^44-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8400 Winterthur, [www.snv.ch](http://www.snv.ch).
-[^44-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^44-2]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 45
 
@@ -1030,9 +1030,9 @@ Die Instruktion der Minderjährigen umfasst mindestens:
 
 <sup>2</sup> Gemeldet werden das Datum des Testkaufs und die Art der kontrollierten alkoholischen Getränke nach Bestimmungen des EDI nach Artikel 14 Absatz 1 LGV[^61f-3].
 
-[^61f-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^61f-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
-[^61f-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^61f-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^61f-2]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+[^61f-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 61g
 
@@ -1048,8 +1048,8 @@ Die zuständige kantonale Behörde übermittelt dem BAG einmal jährlich spätes
   - 1\. Art des Produkts,
   - 2\. Verkaufsstelle.
 
-[^61g-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^61g-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^61g-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^61g-2]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 ## 4. Titel: Ausbildung der mit der amtlichen Kontrolle betrauten Personen, Fähigkeitszeugnisse und Diplome
 
@@ -1072,8 +1072,8 @@ Die zuständige kantonale Behörde übermittelt dem BAG einmal jährlich spätes
 <sup>5</sup> Personen, die Zerlegebetriebe mit einer Bewilligung nach Artikel 21 LGV[^62-2] kontrollieren, müssen über ein Fähigkeitszeugnis als amtliche Tierärztin oder amtlicher Tierarzt nach der Verordnung vom 16. November 2011[^62-3] über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen verfügen.
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 587](https://fedlex.data.admin.ch/eli/oc/2024/587)).
-[^62-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^62-3]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^62-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^62-3]: [SR 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 
 #### Art. 63
 
@@ -1116,7 +1116,7 @@ Wer eine der folgenden Funktionen ausüben will, muss über die entsprechende ab
 
 <sup>2</sup> Die PK ist eine ausserparlamentarische Kommission nach der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^65-1] (RVOV).
 
-[^65-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^65-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 #### Art. 66
 
@@ -1472,8 +1472,8 @@ Der Nachweis der theoretischen Vorbildung kann erbracht werden durch:
 
 <sup>3</sup> In Ausnahmefällen kann der Nachweis der theoretischen Vorbildung auch durch andere Bachelor-Studienabschlüsse erbracht werden. Über die Anerkennung entscheidet das BLV auf Antrag der PK.
 
-[^88-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^88-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^88-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
+[^88-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 89
 
@@ -1604,7 +1604,7 @@ Wer vom Kanton als Kantonschemikerin oder Kantonschemiker oder dessen Stellvertr
 
 <sup>2</sup> Will eine Person ihre Rechte geltend machen, so muss sie sich über ihre Identität ausweisen und ein schriftliches Gesuch beim BLV einreichen.
 
-[^95b-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^95b-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 95c
 
@@ -1628,7 +1628,7 @@ Das BLV darf folgende Daten austauschen:
 
 <sup>4</sup> Die Archivierung der Daten richtet sich nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998[^95d-1].
 
-[^95d-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^95d-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 5. Titel: Bearbeitung von Vollzugsdaten
 
@@ -1659,7 +1659,7 @@ Die kantonalen Vollzugsbehörden bearbeiten Personendaten, die:
 
 **Form der Bearbeitung**
 
-<sup>1</sup> und <sup>2</sup> …[^97-1]
+<sup>1 und <sup>2</sup></sup> …[^97-1]
 
 <sup>3</sup> Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen werden vertraulich behandelt; vorbehalten sind Fälle, in denen eine gesetzliche Grundlage ihre Bekanntgabe fordert.[^97-2]
 
@@ -1716,7 +1716,7 @@ Zur Umsetzung der durch die Lebensmittelgesetzgebung vorgegebenen Ziele melden d
 
 <sup>3</sup> Das BLV regelt die Anforderungen an die Daten und an die technischen Aspekte der Datenübermittlung.
 
-[^100-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^100-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 101
 
@@ -1746,7 +1746,7 @@ Die Bundesbehörden, die kantonalen Vollzugsbehörden und die Dritten tauschen P
   - 2\. bei einer Kennzeichnung betreffend landwirtschaftliche Erzeugnisse, die nach einem völkerrechtlichen Vertrag mit der Schweiz geschützt ist,
   - 3\. bei der Deklaration von in der Schweiz verbotenen Produktions-methoden nach Artikel 18 LwG.
 
-[^102-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^102-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 103
 
@@ -1775,7 +1775,7 @@ Das BLV tauscht mit den zuständigen Behörden anderer Länder oder mit internat
 
 <sup>3</sup> Das Archivierungsgesetz vom 26. Juni 1998[^104-1] sowie die kantonalen Gesetzgebungen über die Archivierung bleiben vorbehalten.
 
-[^104-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^104-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ### 2. Kapitel: Bearbeitung von Daten zu Risikoanalysezwecken
 
@@ -1829,7 +1829,7 @@ Die zu Risikoanalysezwecken bearbeiteten anonymisierten Daten dürfen während u
 
 <sup>4</sup> Soweit die vorliegende Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^108-1].
 
-[^108-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^108-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 109
 
@@ -1846,8 +1846,8 @@ Als Auslagen gelten die Kosten, die für die einzelnen Kontrollen oder Dienstlei
 - a. Honorare nach den Artikeln 8*l–*8*t* RVOV[^110-2];
 - b. Kosten, die durch Beweiserhebung oder besondere Prüfungen verursacht werden.
 
-[^110-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
-[^110-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^110-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
+[^110-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 #### Art. 111
 
@@ -1881,7 +1881,7 @@ Sie erheben Gebühren bis zu folgenden Höchstbeträgen:
 
 <sup>7</sup> Auslagen für amtliche Kontrollen, Dienstleistungen und Kontrollen auf Antrag können gesondert verrechnet werden.
 
-[^112-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^112-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 113
 
@@ -2007,6 +2007,17 @@ Sendungen mit Kreuzkümmelfrüchten aus der Türkei, die zum Zeitpunkt des Inkra
 
 [^118f-1]: Eingefügt durch Ziff. I der V des BLV vom 6. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)).
 
+#### Art. 118g
+
+**Übergangsbestimmung zur Änderung vom 26. August 2025**[^118g-1]
+
+Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttretens der Änderung vom 26. August 2025 bereits versendet wurden, dürfen bis zum 15. November 2025 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden:
+
+- a. Schoten des Meerrettichbaums (*Moringa oleifera*) aus Indien;
+- b. Spargelbohnen (*Vigna unguiculata* ssp. *sesquipedalis, Vigna unguiculata* ssp. *unguiculata*) aus Indien.
+
+[^118g-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Aug. 2025, in Kraft seit 15. Sept. 2025 ([AS 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -2028,12 +2039,12 @@ Anhang 2[^t-1]
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 6. Febr. 2025, in Kraft seit 1. März 2025 ([AS 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 26. Aug. 2025, in Kraft seit 15. Sept. 2025 ([AS 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
 
 - 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2024/3153, ABl. L, 2024/3153, 19.12.2024.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2025/1441, ABl. L, 2025/1441, 23.07.2025.
 
 Anhang 3[^t-2]
 
@@ -2074,7 +2085,7 @@ Anhang 4
 <tr><td>2.2</td><td>Bewilligungen nach den Bestimmungen des EDI über neuartige Lebensmittel</td><td></td><td>200–50 000</td></tr>
 </table>
 
-[^annex4-lvlu1-lvl2-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex4-lvlu1-lvl2-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3. Prüfungen
 
@@ -2134,7 +2145,7 @@ Anhang 5[^t-3]
 [^annex5-lvlu1-3]: Verordnung (EG) Nr. 401/2006 der Kommission vom 23. Februar 2006 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Kontrolle des Mykotoxingehalts von Lebensmitteln, ABl. L 70 vom 9.3.2006, S. 12; zuletzt geändert durch Verordnung (EU) Nr. 519/2014 ABl. L 147 vom 17.5.2014, S. 29.
 [^annex5-lvlu1-4]: Verordnung (EU) 2015/705 der Kommission vom 30. April 2015 zur Festlegung von Probenahmeverfahren und Leistungskriterien für die Analysemethoden, die für die amtliche Kontrolle des Erucasäuregehalts in Lebensmitteln verwendet werden, und zur Aufhebung der Richtlinie 80/891/EWG der Kommission, Fassung gemäss ABl. L 113 vom 1.5.2015, S. 29.
 [^annex5-lvlu1-5]: Durchführungsverordnung (EU) 2019/627 der Kommission vom 15. März 2019 zur Festlegung einheitlicher praktischer Modalitäten für die Durchführung der amtlichen Kontrollen in Bezug auf für den menschlichen Verzehr bestimmte Erzeugnisse tierischen Ursprungs gemäss der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates und zur Änderung der Verordnung (EG) Nr. 2074/2005 der Kommission in Bezug auf amtliche Kontrollen; Fassung gemäss ABl. L 131 vom 17.5.2019, S. 51.
-[^annex5-lvlu1-6]: Die Pharmacopoea Europaea wird im Original vom Europarat herausgegeben. Die französische Originalausgabe kann beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch/), zu den in der Gebührenverordnung Publikationen vom 19. Nov. 2014 (GebV‑Publ; [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)) vorgesehenen Bedingungen bezogen werden. Bis zur Herausgabe der deutschen Fassung können einzelne Texte in deutscher Sprache als Druckfahne bei der Abteilung Pharmakopöe des Schweizerischen Heilmittelinstituts (Swissmedic) bezogen werden.
+[^annex5-lvlu1-6]: Die Pharmacopoea Europaea wird im Original vom Europarat herausgegeben. Die französische Originalausgabe kann beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch/), zu den in der Gebührenverordnung Publikationen vom 19. Nov. 2014 (GebV‑Publ; [SR 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)) vorgesehenen Bedingungen bezogen werden. Bis zur Herausgabe der deutschen Fassung können einzelne Texte in deutscher Sprache als Druckfahne bei der Abteilung Pharmakopöe des Schweizerischen Heilmittelinstituts (Swissmedic) bezogen werden.
 [^annex5-lvlu1-7]: Richtlinie 2002/63/EG der Kommission vom 11. Juli 2002 zur Festlegung gemeinschaftlicher Probenahmemethoden zur amtlichen Kontrolle von Pestizidrückständen in und auf Erzeugnissen pflanzlichen und tierischen Ursprungs und zur Aufhebung der Richtlinie 79/700/EWG; Fassung gemäss ABl. L 187 vom 16.7.2002, S. 30.
 [^annex5-lvlu1-8]: Verordnung (EU) 2017/644 der Kommission vom 5. April 2017 zur Festlegung der Probenahmeverfahren und Analysemethoden für die Kontrolle der Gehalte an Dioxinen, dioxinähnlichen PCB und nicht dioxinähnlichen PCB in bestimmten Lebensmitteln sowie zur Aufhebung der Verordnung (EU) Nr. 589/2014; Fassung gemäss ABl. L 92 vom 6.4.2017, S. 9.
 [^annex5-lvlu1-9]: Durchführungsverordnung (EU) 2022/1428 der Kommission vom 24. August 2022 zur Festlegung der Probenahmeverfahren und Analysemethoden für die Kontrolle auf Perfluoralkylsubstanzen in bestimmten Lebensmitteln; Fassung gemäss ABl. L 221 vom 26.8.2022, S. 66.
@@ -2216,7 +2227,7 @@ Anhang 8
 - 7\. Durchführung von Erfahrungsaustauschsitzungen sowie erforderlichenfalls Schulungen für das Personal der amtlichen Laboratorien;
 - 8\. gegebenenfalls Unterstützung des BLV bei der Diagnostizierung der Ausbrüche von durch Lebensmittel übertragenen Krankheiten und Zoonosen sowie im Falle nicht vorschriftsmässiger Sendungen durch Untersuchung von Erregerisolaten zur Diagnosebestätigung, zur Charakterisierung und taxonomischen Einordnung.
 
-[^annex8-lvlu1-1]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^annex8-lvlu1-1]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 
 Anhang 9[^t-4]
 
