@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Ordonnance du DFI du 23 novembre 2005 sur les objets destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire, et sur les bougies, les allumettes, les briquets et les articles de farces et attrapes (Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: fr
-version: 2024-02-01
+version: 2025-09-15
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/fr"
 
 (Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)[^t-1]
 
-du 23 novembre 2005 (État le 1<sup>er</sup> février 2024)
+du 23 novembre 2005 (État le 15 septembre 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -26,7 +26,7 @@ vu les art. 47, al. 5, 61, al. 3, 62, al. 2, 63, al. 2, 64, al. 2, 67 et 95, al.
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 ## Chapitre 1 Objet et champ d’application
@@ -93,7 +93,7 @@ La présente ordonnance fixe les exigences s’appliquant:
 
 [^2a-1]: Introduit par le ch. I de l’O du DFI du 13 oct. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Nouvelle teneur selon le ch. I de l’O du DFI du 21 déc. 2011, en vigueur depuis le 1<sup>er</sup> fév. 2012 ([RO 2012 401](https://fedlex.data.admin.ch/eli/oc/2012/41)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 [^2a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^2a-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^2a-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 2b
 
@@ -105,7 +105,7 @@ La présente ordonnance fixe les exigences s’appliquant:
 
 [^2b-1]: Introduit par le ch. I de l’O du DFI du 25 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 [^2b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^2b-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^2b-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 ### Section 2 Piercing, tatouage, maquillage permanent et pratiques apparentées
 
@@ -182,7 +182,7 @@ S’agissant de la limite de concentration, les dispositions ci-après s’appli
 
 [^5a-1]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^5a-2]: Règlement (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le règlement (CE) n<sup>o</sup> 1907/2006.
-[^5a-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^5a-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^5a-4]: Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n<sup>o</sup> 793/93 du Conseil, le règlement (CE) n<sup>o</sup> 1488/94 de la Commission, la directive 76/769/CEE du Conseil ainsi que les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1; modifié en dernier lieu par le règlement (UE) 2023/1464, JO L 180 du 17.7.2023, p. 12.
 
 #### Art. 6
@@ -233,7 +233,7 @@ L’emballage des bijoux piercing doit porter les indications suivantes:
 <sup>3</sup> Les informations visées aux al. 1 et 2 ainsi que la composition du matériau des bijoux piercing doivent être communiquées sur demande au consommateur.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^8-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^8-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
 [^8-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
@@ -321,7 +321,7 @@ Les bouteilles-biberons pour nourrissons et enfants en bas âge doivent porter u
 Les articles destinés aux nourrissons et aux enfants en bas âge ne peuvent être mis sur le marché si l’un de leurs composants en plastique ou en caoutchouc contient plus de 0,5 mg/kg d’un hydrocarbure aromatique polycyclique (HAP) figurant à l’annexe 2.9, ch. 2, al. 1, let. d, ch. 2, de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques (ORRChim)[^14c-2].
 
 [^14c-1]: Introduit par le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^14c-2]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^14c-2]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 15
 
@@ -644,7 +644,7 @@ Annexe 2[^t-4]
 
 ## Substances contenues dans les encres de tatouage et de maquillage permanent pour lesquelles des limites de concentration spécifiques ont été fixées
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-4]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)). Mise à jour par l’erratum du 15 sept. 2025, ne concerne que les textes allemand et italien ([RO 2025 563](https://fedlex.data.admin.ch/eli/oc/2025/563)).
 
 <table>
 <tr><th>Dénomination de la substance</th><th>N° CAS</th><th>Concentration maximale (mg/kg)</th></tr>

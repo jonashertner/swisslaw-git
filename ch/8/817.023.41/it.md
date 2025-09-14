@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Ordinanza del DFI del 23 novembre 2005 sugli oggetti che vengono a contatto con le mucose, la pelle e i capelli nonché sulle candele, sui fiammiferi, sugli accendini e sugli articoli per scherzi (Ordinanza sugli oggetti che vengono a contatto con il corpo umano, OCCU)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: it
-version: 2024-02-01
+version: 2025-09-15
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2005-811-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2005-811-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/it"
 
 (Ordinanza sugli oggetti che vengono a contatto con il corpo umano, OCCU)[^t-1]
 
-del 23 novembre 2005 (Stato 1° febbraio 2024)
+del 23 novembre 2005 (Stato 15 settembre 2025)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -26,8 +26,8 @@ visti gli articoli 47 capoverso 5, 61 capoverso 3, 62 capoverso 2, 63 capoverso 
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -42,7 +42,7 @@ La presente ordinanza disciplina i requisiti relativi a:
   - 1\.[^1-1] oggetti contenenti metallo che entrano in contatto con la pelle,
   - 2\. colori per tatuaggi e colori per il trucco permanente, nonché la loro caratterizzazione,
   - 3\. apparecchi e strumenti per piercing, tatuaggi e trucco permanente,
-  - 4\.[^1-2] …
+  - 4\.[^1-2] ...
   - 5\. oggetti d’uso per lattanti[^1-3] e bambini piccoli,
   - 6\.[^1-4] materiali tessili secondo l’articolo 64 capoverso 1 ODerr quanto alla loro infiammabilità e combustibilità, alle sostanze chimiche in essi contenute nonché alla loro caratterizzazione,
   - 7\.[^1-5] prodotti di pelletteria quanto alle sostanze chimiche in essi contenute,
@@ -50,12 +50,12 @@ La presente ordinanza disciplina i requisiti relativi a:
 
 - b. candele, fiammiferi, accendini e articoli per scherzi.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 [^1-2]: Abrogato <sup>d</sup>all’all. n. 4 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)<sup>).</sup>
-[^1-3]: Nuova espr. giusta il n. I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^1-4]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^1-5]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^1-6]: Introdotto dal n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^1-3]: Nuova espr. giusta la cifra I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-4]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^1-6]: Introdotto dalla cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 ## Capitolo 2: Oggetti d’uso che vengono a contatto con le mucose, la pelle e i capelli
 
@@ -63,7 +63,7 @@ La presente ordinanza disciplina i requisiti relativi a:
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 #### Art. 2
 
@@ -77,11 +77,11 @@ La presente ordinanza disciplina i requisiti relativi a:
 
 <sup>4</sup> Per gli oggetti dʼuso di cui ai capoversi 1–3 conformi alle norme tecniche menzionate nellʼallegato 1 si presume che adempiano i requisiti fissati in questa sezione se questi ultimi sono contemplati da tali norme.[^2-5]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
-[^2-2]: Introdotto dal n. I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^2-5]: Introdotto dal n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
+[^2-2]: Introdotto dalla cifra I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^2-5]: Introdotto dalla cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 #### Art. 2a
 
@@ -91,9 +91,9 @@ La presente ordinanza disciplina i requisiti relativi a:
 
 <sup>2</sup> Il capoverso 1 non si applica a oggetti usati di cui all’articolo 1 capoverso 4 lettera a della legge federale del 12 giugno 2009[^2a-3] sulla sicurezza dei prodotti.
 
-[^2a-1]: Introdotto dal n. I dell’O del DFI del 13 ott. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Nuovo testo giusta il n. I dell’O del DFI del 21 dic. 2011, in vigore dal 1° feb. 2012 ([RU 2012 401](https://fedlex.data.admin.ch/eli/oc/2012/41)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^2a-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^2a-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^2a-1]: Introdotto dalla cifra I dell’O del DFI del 13 ott. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Nuovo testo giusta la cifra I dell’O del DFI del 21 dic. 2011, in vigore dal 1° feb. 2012 ([RU 2012 401](https://fedlex.data.admin.ch/eli/oc/2012/41)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^2a-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^2a-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 2b
 
@@ -103,9 +103,9 @@ La presente ordinanza disciplina i requisiti relativi a:
 
 <sup>2</sup> Il capoverso 1 non si applica agli oggetti usati di cui allʼarticolo 1 capoverso 4 lettera a della legge federale del 12 giugno 2009[^2b-3] sulla sicurezza dei prodotti.
 
-[^2b-1]: Introdotto dal n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^2b-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^2b-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^2b-1]: Introdotto dalla cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^2b-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^2b-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 ### Sezione 2: Piercing, tatuaggi, trucco permanente e pratiche affini
 
@@ -133,7 +133,7 @@ Le persone che effettuano piercing, tatuaggi e trucchi permanenti a terzi devono
 
 I piercing non devono provocare colorazioni indelebili della pelle.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 #### Art. 5a
 
@@ -180,8 +180,8 @@ Per le sostanze di determinate categorie in merito al valore limite di concentra
 
 <sup>5</sup> In deroga alle disposizioni dei capoversi 1, 2 e 4, per le sostanze di cui all’allegato 2 si applicano le concentrazioni massime ivi stabilite.
 
-[^5a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^5a-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^5a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^5a-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^5a-3]: Regolamento (CE) N. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2088, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006
 [^5a-4]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2023/1464, GU L 180 del 17.7.2023, pag. 12.
 
@@ -193,8 +193,8 @@ Per le sostanze di determinate categorie in merito al valore limite di concentra
 
 <sup>2</sup> Al momento del primo impiego i perni destinati alla prima perforazione devono essere sterili.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
 
 #### Art. 7
 
@@ -202,7 +202,7 @@ Per le sostanze di determinate categorie in merito al valore limite di concentra
 
 Gli apparecchi e gli strumenti, o le parti di questi, utilizzati per il piercing, il tatuaggio e il trucco permanente devono essere sterili sempreché penetrino nella pelle dei consumatori.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)).
 
 #### Art. 8
 
@@ -232,14 +232,14 @@ Sugli imballaggi di gioielli per piercing devono figurare le seguenti indicazion
 
 <sup>3</sup> Le indicazioni di cui ai capoversi 1 e 2 nonché quelle relative alla composizione del materiale per i gioielli per il piercing devono essere rese accessibili ai consumatori su richiesta.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^8-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-4]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-5]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-6]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-7]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-8]: Introdotta dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^8-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-4]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-5]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-6]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-7]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^8-8]: Introdotta dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 #### Art. 9
 
@@ -247,7 +247,7 @@ Sugli imballaggi di gioielli per piercing devono figurare le seguenti indicazion
 
 LʼUfficio federale della sicurezza alimentare e di veterinaria (USAV) può esaminare direttive professionali specifiche di buona prassi di lavoro in materia di piercing, tatuaggio e trucco permanente e raccomandarne lʼapplicazione.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 
 ### Sezione 3: …
 
@@ -261,7 +261,7 @@ LʼUfficio federale della sicurezza alimentare e di veterinaria (USAV) può esam
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Nuova espr. giusta il n. I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^chap2-sec4-1]: Nuova espr. giusta la cifra I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 13
 
@@ -271,8 +271,8 @@ LʼUfficio federale della sicurezza alimentare e di veterinaria (USAV) può esam
 
 <sup>2</sup> Per «articolo di puericultura» ai sensi della presente sezione s’intende qualsiasi prodotto destinato a conciliare il sonno, il rilassamento, l’igiene o il nutrimento del lattante.[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
-[^13-2]: Introdotto dal n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
+[^13-2]: Introdotto dalla cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)).
 
 #### Art. 14
 
@@ -282,12 +282,12 @@ LʼUfficio federale della sicurezza alimentare e di veterinaria (USAV) può esam
 
 <sup>2</sup> Gli articoli di puericultura che possono essere messi in bocca da lattanti e bambini piccoli non devono contenere più dello 0,1 per cento in massa (valore limite addizionato) dei seguenti esteri dell’acido ftalico: ftalato di diisononile (DINP[^14-7]), ftalato di disodecile (DIDP[^14-8]) e ftalato di diottile (DNOP[^14-9]).
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^14-2]: <sup>N. Chemical Abstract Service (CAS) 117-81-7; n. European Inventory of Existing</sup> <sup>Commercial</sup> <sup>Chemical Substances (Einecs) 204-211-0</sup>
 [^14-3]: <sup>N. CAS 84-74-2; n. Einecs 201-557-4</sup>
 [^14-4]: <sup>N. CAS 84-69-5; n. Einecs 201-553-2</sup>
 [^14-5]: <sup>N. CAS 85-68-7; n. Einecs 201-622-7</sup>
-[^14-6]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
+[^14-6]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^14-7]: N. CAS 28553-12-0 e 68515-48-0; n. Einecs 249-079-5 e 271-090-9
 [^14-8]: N. CAS 26761-40-0 e 68515-49-1; n. Einecs 247-977-1 e 271-091-4
 [^14-9]: N. CAS 117-84-0; n. Einecs 204. 214-7
@@ -305,8 +305,8 @@ I poppatoi per biberon e le tettarelle possono cedere ad un simulatore di saliva
 
 <sup>2</sup> …[^14a-2]
 
-[^14a-1]: Introdotto dal n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^14a-2]: Abrogato dal n. I dell’O del DFI del 13 ott. 2010, con effetto dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^14a-1]: Introdotto dalla cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^14a-2]: Abrogato dalla cifra I dell’O del DFI del 13 ott. 2010, con effetto dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
 
 #### Art. 14b
 
@@ -314,8 +314,8 @@ I poppatoi per biberon e le tettarelle possono cedere ad un simulatore di saliva
 
 I biberon per lattanti e bambini piccoli devono recare un’avvertenza che metta in guardia dai danni ai denti dovuti al consumo prolungato (suzione continua) di bevande zuccherate o agrodolci. …[^14b-2]
 
-[^14b-1]: Introdotto dal n. I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^14b-2]: Abrogato dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^14b-1]: Introdotto dalla cifra I dell’O del DFI del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^14b-2]: Abrogato dalla cifra I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 #### Art. 14c
 
@@ -323,7 +323,7 @@ I biberon per lattanti e bambini piccoli devono recare un’avvertenza che metta
 
 Gli articoli per lattanti e bambini piccoli non possono essere immessi sul mercato se uno dei loro componenti di plastica o gomma contiene oltre 0,5 mg/kg di uno degli idrocarburi policiclici aromatici (IPA) elencati nell’allegato 2.9 numero 2 capoverso 1 lettera d numero 2 dell’ordinanza del 18 maggio 2005[^14c-2] sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim).
 
-[^14c-1]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^14c-1]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 [^14c-2]: **814.81**
 
 #### Art. 15
@@ -340,13 +340,13 @@ Si presume che gli oggetti d’uso per lattanti e bambini piccoli di cui alle no
 
 La presente sezione si applica ai materiali tessili di cui all’articolo 64 capoverso 1 ODerr.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O del DFI del 26 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6123](https://fedlex.data.admin.ch/eli/oc/2008/841)).
+[^17-1]: Abrogato dalla cifra I dell’O del DFI del 26 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6123](https://fedlex.data.admin.ch/eli/oc/2008/841)).
 
 #### Art. 18
 
@@ -358,26 +358,26 @@ La presente sezione si applica ai materiali tessili di cui all’articolo 64 cap
 
 <sup>3</sup> L’allegato 5 stabilisce norme tecniche atte a concretizzare i requisiti di cui ai capoversi 1 e 2. In occasione dell’adeguamento di questo allegato, l’USAV designa, per quanto possibile, norme armonizzate a livello internazionale.[^18-2]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del DFI del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6123](https://fedlex.data.admin.ch/eli/oc/2008/841)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DFI del 26 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6123](https://fedlex.data.admin.ch/eli/oc/2008/841)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 #### Art. 19
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. I dell’O del DFI del 26 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6123](https://fedlex.data.admin.ch/eli/oc/2008/841)).
+[^19-1]: Abrogato dalla cifra I dell’O del DFI del 26 nov. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6123](https://fedlex.data.admin.ch/eli/oc/2008/841)).
 
 #### Art. 20
 
 [^20-1]
 
-[^20-1]: Abrogato dal n. I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^20-1]: Abrogato dalla cifra I dell’O del DFI del 16 dic. 2016, con effetto dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 ### Sezione 6: Sostanze chimiche in materiali tessili, in prodotti di pelletteria e in altri oggetti che vengono a contatto con il corpo umano
 
 [^chap2-sec6-1]
 
-[^chap2-sec6-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^chap2-sec6-1]: Nuovo testo giusta la cifra I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
 
 #### Art. 21
 
@@ -387,7 +387,7 @@ La presente sezione si applica ai materiali tessili di cui all’articolo 64 cap
 
 <sup>2</sup> Al fine di determinare gli ammini aromatici secondo l’allegato 7 si applicano le norme tecniche enunciate nell’allegato 8.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
 
 #### Art. 22
 
@@ -417,18 +417,18 @@ Nei seguenti oggetti, la concentrazione di stagno proveniente da composti di dio
 
 <sup>2</sup> …[^22-6]
 
-[^22-1]: Abrogata dal n. I dell’O del DFI del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^22-2]: Introdotto dal n. I dell’O del DFI del 13 ott. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Abrogato dal n. I dell’O del DFI del 25 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^22-3]: Introdotto dal n. I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^22-1]: Abrogata dalla cifra I dell’O del DFI del 23 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
+[^22-2]: Introdotto dalla cifra I dell’O del DFI del 13 ott. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Abrogato dalla cifra I dell’O del DFI del 25 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^22-3]: Introdotto dalla cifra I dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
 [^22-4]: <sup>Regolamento (CE)</sup> n. <sup>1907/2006 del Parlamento europeo e del Consiglio,</sup> <sup>del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione</sup> <sup>e la</sup> <sup>restrizione</sup> <sup>delle sostanze chimiche (REACH), che istituisce un’</sup>A<sup>genzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento 2018/1513, GU L 256</sup> del <sup>12.10.2018, pag. 1.</sup>
-[^22-5]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
-[^22-6]: Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^22-5]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
+[^22-6]: Abrogato dalla cifra I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 ### Sezione 7: Cordoncini e lacci nell’abbigliamento per bambini
 
 [^chap2-sec7-1]
 
-[^chap2-sec7-1]: Introdotta dal n. I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)).
+[^chap2-sec7-1]: Introdotta dalla cifra I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)).
 
 #### Art. 22a
 
@@ -483,7 +483,7 @@ Gli accendini che assomigliano a oggetti in grado di attirare l’attenzione dei
 
 <sup>6</sup> Gli accendini devono soddisfare le norme menzionate nell’allegato 9.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del DFI del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)).
 [^25-2]: GU L 171 del 7.7.1999, pag. 12
 
 #### Art. 26
@@ -513,10 +513,10 @@ Gli articoli per scherzi e gli oggetti destinati a scopi simili non devono conte
 
 <sup>3</sup> In occasione degli adeguamenti può stabilire disposizioni transitorie.[^27-4]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^27-3]: Nuova espr. giusta il n. I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
-[^27-4]: Introdotto dal n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^27-3]: Nuova espr. giusta la cifra I dell’O del DFI del 25 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
+[^27-4]: Introdotto dalla cifra I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 #### Art. 28
 
@@ -539,7 +539,7 @@ In deroga all’articolo 80 capoverso 7 ODerr vale:
 
 <sup>3</sup> Gli oggetti non conformi alle altre disposizioni della modifica del 23 ottobre 2019 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 30 novembre 2020. Essi possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^28a-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
+[^28a-1]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^28a-2]: <sup>Regolamento (UE) 2018/1513 della Commissione, del 10 ottobre 2018, che modifica l’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH) per quanto riguarda talune sostanze classificate come cancerogene, mutagene o tossiche per la riproduzione (CMR), di categoria 1A o 1B, GU L 256 del 12.10.2018, pag. 1.</sup>
 
 #### Art. 28b
@@ -548,7 +548,7 @@ In deroga all’articolo 80 capoverso 7 ODerr vale:
 
 Gli oggetti non conformi alla modifica dell’8 dicembre 2023 della presente ordinanza possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore sino al 31 gennaio 2025 e consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^28b-1]: Introdotto <sup>d</sup>all’all. n. 4 dell’O del 29 set. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)<sup>).</sup> Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^28b-1]: Introdotto <sup>d</sup>all’all. n. 4 dell’O del 29 set. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)<sup>).</sup> Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 #### Art. 29
 
@@ -556,7 +556,7 @@ Gli oggetti non conformi alla modifica dell’8 dicembre 2023 della presente ord
 
 L’ordinanza del 26 giugno 1995[^29-1] sulla combustibilità dei materiali tessili è abrogata.
 
-[^29-1]: [[RU 1995 3424](https://fedlex.data.admin.ch/eli/oc/1995/3424_3424_3424), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)II 3]
+[^29-1]: [[RU 1995 3424](https://fedlex.data.admin.ch/eli/oc/1995/3424_3424_3424); [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)II 3]
 
 #### Art. 30
 
@@ -626,7 +626,7 @@ Allegato 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del DFI del 7 mar. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 7 mar. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex1-lvlu1-1]: I testi delle norme possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 
 <table>
@@ -638,7 +638,7 @@ Allegato 1[^t-2]
 
 Allegato 1a[^t-3]
 
-[^t-3]: Originario all. 1. Abrogato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-3]: Originario all. 1. Abrogato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 Allegato 2[^t-4]
 
@@ -646,21 +646,21 @@ Allegato 2[^t-4]
 
 ## Sostanze con valori limite di concentrazione specifici nei colori per tatuaggi e per il trucco permanente
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-4]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)). Aggiornato dalla correzione del 15 set. 2025 ([RU 2025 563](https://fedlex.data.admin.ch/eli/oc/2025/563)).
 
 <table>
 <tr><th>Denominazione della sostanza</th><th>Numero CAS</th><th>Limite massimo di concentrazione (mg/kg)</th></tr>
-<tr><td>Fenossietanolo</td><td>4129-84-4</td><td>1000</td></tr>
-<tr><td>Acido benzoico</td><td>1694-09-3</td><td>1000</td></tr>
-<tr><td>Alcol isopropilico</td><td>587-98-4</td><td>5000</td></tr>
-<tr><td>C.I. 51319</td><td>569-61-9</td><td>1000</td></tr>
-<tr><td>C.I. 73900</td><td>8004-87-3</td><td>1000</td></tr>
-<tr><td>C.I. 73915</td><td>81-88-9</td><td>1000</td></tr>
+<tr><td>Fenossietanolo</td><td>122-99-6</td><td>1000</td></tr>
+<tr><td>Acido benzoico</td><td>65-85-0</td><td>1000</td></tr>
+<tr><td>Alcol isopropilico</td><td>67-63-0</td><td>5000</td></tr>
+<tr><td>C.I. 51319</td><td>6358-30-1</td><td>1000</td></tr>
+<tr><td>C.I. 73900</td><td>1047-16-1</td><td>1000</td></tr>
+<tr><td>C.I. 73915</td><td>980-26-7</td><td>1000</td></tr>
 </table>
 
 Allegato 2a[^t-5]
 
-[^t-5]: Introdotto dal n. II cpv. 2 dell’O del DFI del 25 nov. 2013 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Abrogato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-5]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 25 nov. 2013 ([RU 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)). Abrogato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 
 Allegato 3[^t-6]
 
@@ -670,7 +670,7 @@ Allegato 3[^t-6]
 
 [^annex3-lvlu1-1]
 
-[^t-6]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex3-lvlu1-1]: I testi delle norme possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 <table>
@@ -687,7 +687,7 @@ Allegato 4[^t-7]
 
 [^annex4-lvlu1-1]
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex4-lvlu1-1]: I testi delle norme possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 <table>
@@ -706,7 +706,7 @@ Allegato 5[^t-8]
 
 [^annex5-lvlu1-1]
 
-[^t-8]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-8]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex5-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 <table>
@@ -723,7 +723,7 @@ Allegato 6[^t-9]
 
 ## Materiali tessili e prodotti di pelletteria che non possono contenere coloranti azoici di cui all’articolo 21 capoverso 1
 
-[^t-9]: Nuovo testo giusta il n. II dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^t-9]: Nuovo testo giusta la cifra II dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 I seguenti materiali tessili e prodotti di pelletteria nonché le loro parti colorate che rimangono in contatto per lungo tempo con il corpo umano non devono contenere coloranti azoici secondo l’articolo 21 capoverso 1:
 
@@ -772,7 +772,7 @@ Allegato 8[^t-10]
 
 [^annex8-lvlu1-1]
 
-[^t-10]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-10]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex8-lvlu1-1]: I testi delle norme possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 <table>
@@ -791,7 +791,7 @@ Allegato 8a[^t-11]
 
 [^annex8a-lvlu1-1]
 
-[^t-11]: Introdotto dal n. II cpv. 2 dell’O del DFI del 7 mar. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nuovo testo giusta il n. II dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
+[^t-11]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 7 mar. 2008 ([RU 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Nuovo testo giusta la cifra II dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 [^annex8a-lvlu1-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 <table>
@@ -807,7 +807,7 @@ Allegato 9[^t-12]
 
 [^annex9-lvlu1-1]
 
-[^t-12]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-12]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^annex9-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
 <table>

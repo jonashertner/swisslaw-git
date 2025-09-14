@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Verordnung des EDI vom 23. November 2005 über Gegenstände für den Schleimhaut-, Haut- und Haarkontakt sowie über Kerzen, Streichhölzer, Feuerzeuge und Scherzartikel (Verordnung über Gegenstände für den Humankontakt, HKV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: de
-version: 2024-02-01
+version: 2025-09-15
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20240201/de"
 
 (Verordnung über Gegenstände für den Humankontakt)[^t-1]
 
-vom 23. November 2005 (Stand am 1. Februar 2024)
+vom 23. November 2005 (Stand am 15. September 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 47 Absatz 5, 61 Absatz 3, 62 Absatz 2, 63 Absatz 2, 64
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^ingress-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
@@ -96,7 +96,7 @@ Diese Verordnung legt die Anforderungen fest an:
 
 [^2a-1]: Eingefügt durch Ziff. I der V des EDI vom 13. Okt. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Fassung gemäss Ziff. I der V des EDI vom 21. Dez. 2011, in Kraft seit 1. Febr. 2012 ([AS 2012 401](https://fedlex.data.admin.ch/eli/oc/2012/41)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 [^2a-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^2a-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^2a-3]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 2b
 
@@ -108,7 +108,7 @@ Diese Verordnung legt die Anforderungen fest an:
 
 [^2b-1]: Eingefügt durch Ziff. I der V des EDI vom 25. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5301](https://fedlex.data.admin.ch/eli/oc/2013/845)).
 [^2b-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^2b-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^2b-3]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 ### 2. Abschnitt: Piercing, Tätowierung, Permanent-Make-up und verwandte Praktiken
 
@@ -184,7 +184,7 @@ Für Stoffe bestimmter Kategorien gelten in Bezug auf den Konzentrationsgrenzwer
 <sup>5</sup> Abweichend von den Bestimmungen in den Absätzen 1, 2 und 4 gelten für die Stoffe nach Anhang 2 die dort festgelegten Höchstkonzentrationen.
 
 [^5a-1]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^5a-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^5a-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^5a-3]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006.
 [^5a-4]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2023/1464, ABl. L 180 vom 17.7.2023, S. 12.
 
@@ -236,7 +236,7 @@ Verpackungen von Piercing-Schmuck müssen folgende Angaben enthalten:
 <sup>3</sup> Die Angaben nach den Absätzen 1 und 2 sowie über die Materialzusammensetzung von Piercing-Schmuck sind der Konsumentin oder dem Konsumenten auf Verlangen zugänglich zu machen.
 
 [^8-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^8-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^8-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 [^8-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^8-4]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
 [^8-5]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
@@ -554,7 +554,7 @@ Gegenstände, die der Änderung vom 8. Dezember 2023 dieser Verordnung nicht ent
 
 Die Brennbarkeitsverordnung vom 26. Juni 1995[^29-1] wird aufgehoben.
 
-[^29-1]: [[AS 1995 3424](https://fedlex.data.admin.ch/eli/oc/1995/3424_3424_3424), [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)Ziff. II 3]
+[^29-1]: [[AS 1995 3424](https://fedlex.data.admin.ch/eli/oc/1995/3424_3424_3424); [2005 3389](https://fedlex.data.admin.ch/eli/oc/2005/493)Ziff. II 3]
 
 #### Art. 30
 
@@ -625,7 +625,7 @@ Anhang 1[^t-2]
 [^annex1-lvlu1-1]
 
 [^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 7. März 2008 ([AS 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^annex1-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex1-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
@@ -644,16 +644,16 @@ Anhang 2[^t-4]
 
 ## Substanzen mit spezifischen Konzentrationsgrenzwerten in Tätowier- und Permanent-Make-up-Farben
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
+[^t-4]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)). Bereinigt durch Berichtigung vom 15. Sept. 2025 ([AS 2025 563](https://fedlex.data.admin.ch/eli/oc/2025/563)).
 
 <table>
 <tr><th>Bezeichnung des Stoffs</th><th>CAS-Nummer</th><th>Konzentrationsgrenzwert (mg/kg)</th></tr>
-<tr><td>Phenoxyethanol</td><td>4129-84-4</td><td>1000</td></tr>
-<tr><td>Benzoesäure</td><td>1694-09-3</td><td>1000</td></tr>
-<tr><td>Isopropylalkohol</td><td>587-98-4</td><td>5000</td></tr>
-<tr><td>C.I. 51319</td><td>569-61-9</td><td>1000</td></tr>
-<tr><td>C.I. 73900</td><td>8004-87-3</td><td>1000</td></tr>
-<tr><td>C.I. 73915</td><td>81-88-9</td><td>1000</td></tr>
+<tr><td>Phenoxyethanol</td><td>122-99-6</td><td>1000</td></tr>
+<tr><td>Benzoesäure</td><td>65-85-0</td><td>1000</td></tr>
+<tr><td>Isopropylalkohol</td><td>67-63-0</td><td>5000</td></tr>
+<tr><td>C.I. 51319</td><td>6358-30-1</td><td>1000</td></tr>
+<tr><td>C.I. 73900</td><td>1047-16-1</td><td>1000</td></tr>
+<tr><td>C.I. 73915</td><td>980-26-7</td><td>1000</td></tr>
 </table>
 
 Anhang 2a[^t-5]
@@ -669,7 +669,7 @@ Anhang 3[^t-6]
 [^annex3-lvlu1-1]
 
 [^t-6]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^annex3-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
@@ -686,7 +686,7 @@ Anhang 4[^t-7]
 [^annex4-lvlu1-1]
 
 [^t-7]: Fassung gemäss Ziff. II der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^annex4-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex4-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
@@ -705,7 +705,7 @@ Anhang 5[^t-8]
 [^annex5-lvlu1-1]
 
 [^t-8]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^annex5-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
@@ -771,7 +771,7 @@ Anhang 8[^t-10]
 [^annex8-lvlu1-1]
 
 [^t-10]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^annex8-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex8-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
@@ -790,7 +790,7 @@ Anhang 8a[^t-11]
 [^annex8a-lvlu1-1]
 
 [^t-11]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 7. März 2008 ([AS 2008 1161](https://fedlex.data.admin.ch/eli/oc/2008/209)). Fassung gemäss Ziff. II der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
-[^annex8a-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex8a-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
@@ -806,7 +806,7 @@ Anhang 9[^t-12]
 [^annex9-lvlu1-1]
 
 [^t-12]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 837](https://fedlex.data.admin.ch/eli/oc/2023/837)).
-[^annex9-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex9-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
