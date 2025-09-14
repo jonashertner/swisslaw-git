@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: Verordnung vom 19. März 2002 über Massnahmen gegenüber Simbabwe
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: de
-version: 2025-03-05
+version: 2025-09-15
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20250305/de/xml/fedlex-data-admin-ch-eli-cc-2002-154-20250305-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20250305/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2002-154-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Simbabwe
 
-vom 19. März 2002 (Stand am 5. März 2025)
+vom 19. März 2002 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Bundesgesetzesvom 22. März 2002[^ingress-1] über d
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
 #### Art. 1
@@ -37,8 +37,8 @@ verordnet:
 
 <sup>4</sup> Die Absätze 1 und 2 gelten nur so weit, als nicht das Güterkontrollgesetz vom 13. Dezember 1996[^1-1] sowie das Kriegsmaterialgesetz vom 13. Dezember 1996[^1-2] und deren Ausführungsverordnungen anwendbar sind.
 
-[^1-1]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -48,15 +48,56 @@ verordnet:
 
 <sup>2</sup> Es ist verboten, den in Absatz 1 erwähnten Personen Gelder zu überweisen oder sonst wie direkt oder indirekt zur Verfügung zu stellen.
 
-<sup>3</sup> Zahlungen aus gesperrten Konten und Übertragungen aus gesperrten Vermögenswerten können zum Schutze schweizerischer Interessen ausnahmsweise bewilligt werden. Das Staatssekretariat für Wirtschaft (SECO) entscheidet nach Rücksprache mit der Politischen Direktion des Eidgenössischen Departementes für auswärtige Angelegenheiten und der Eidgenössischen Finanzverwaltung über solche Ausnahmen.
+<sup>3</sup>
+
+Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. öffentliche Stellen oder Unternehmen und Organisationen, die für die Durch-führung humanitärer Aktivitäten Beiträge des Bundes erhalten;
+- f. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a–e genannten Organisationen, soweit sie in dieser Eigenschaft handeln.[^2-1]
+
+<sup>4</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem Europäischen Wirtschaftsraum oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^2-2]
+
+<sup>5</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfengesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^2-3]
+
+<sup>6</sup>
+
+Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+
+- a. Wahrung schweizerischer Interessen;
+- b. Vermeidung von Härtefällen;
+- c. Überweisung von Geldern oder zum Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen, die für die Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse erforderlich sind.[^2-4]
+
+<sup>7</sup> Es bewilligt Ausnahmen nach Absatz 6 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements.[^2-5]
+
+[^2-1]: Fassung gemäss Ziff. I 1 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Eingefügt durch Ziff. I 1 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Eingefügt durch Ziff. I 1 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Eingefügt durch Ziff. I 1 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Eingefügt durch Ziff. I 1 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
-**Meldepflicht**
+**Meldepflicht**[^3-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten, von denen anzunehmen ist, dass sie unter die Sperre nach Artikel 2 Absatz 1 fallen, müssen diese dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Höhe der gesperrten Gelder enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
+
+<sup>3</sup> Gutschriften nach Artikel 2 Absatz 5 müssen dem SECO unverzüglich gemeldet werden.
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^3-1]: Fassung gemäss Ziff. I 1 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 4
 
@@ -88,7 +129,7 @@ In dieser Verordnung bedeuten:
 <sup>2</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5a-2].
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
-[^5a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -206,9 +247,9 @@ Anhang 1[^t-1]
 - 14 Ausrüstung, besonders konstruiert für die Herstellung der in dieser Liste aufgeführten Güter.
 - 15 Spezifische Technologie zur Entwicklung, Herstellung oder Verwendung der in dieser Liste aufgeführten Güter.
 
-[^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse des SECO: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
-[^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
+[^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). Anhang 3 GKV ist abrufbar unter folgender Internetadresse des SECO: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juli 2016 angepasst.
 
 Anhang 2[^t-2]
 

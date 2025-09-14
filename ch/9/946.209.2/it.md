@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: Ordinanza del 19 marzo 2002 che istituisce provvedimenti nei confronti dello Zimbabwe
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: it
-version: 2025-03-05
+version: 2025-09-15
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20250305/it/xml/fedlex-data-admin-ch-eli-cc-2002-154-20250305-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20250305/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2002-154-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti dello Zimbabwe
 
-del 19 marzo 2002 (Stato 5 marzo 2025)
+del 19 marzo 2002 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge federale del 22 marzo 2002[^ingress-1] sull’a
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
 #### Art. 1
@@ -37,8 +37,8 @@ ordina:
 
 <sup>4</sup> I capoversi 1 e 2 si applicano soltanto per quanto non siano applicabili la legge del 13 dicembre 1996[^1-1] sul controllo dei beni a duplice impiego e la legge federale del 13 dicembre 1996[^1-2] sul materiale bellico con le relative ordinanze d’esecuzione.
 
-[^1-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^1-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^1-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^1-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 
 #### Art. 2
 
@@ -48,17 +48,56 @@ ordina:
 
 <sup>2</sup> È vietato trasferire fondi alle persone menzionate nel capoverso 1 o metterli direttamente o indirettamente a loro disposizione.
 
-<sup>3</sup> Prelievi da conti bloccati e trasferimenti di valori patrimoniali bloccati possono essere eccezionalmente autorizzati se servono a tutelare interessi svizzeri. La Segreteria di Stato dell’economia (SECO)[^2-1] si pronuncia su queste eccezioni dopo aver consultato la Direzione politica del Dipartimento federale degli affari esteri e l’Amministrazione federale delle finanze.
+<sup>3</sup>
 
-[^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche sono necessari per lo svolgimento di attività umanitarie o altre attività volte a soddisfare bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie;
+- f. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–e nella misura in cui agiscono in tale veste.[^2-1]
+
+<sup>4</sup>
+
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo o nel Regno Unito.[^2-2]
+
+<sup>5</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^2-3]
+
+<sup>6</sup>
+
+La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
+
+- a. tutelare interessi svizzeri;
+- b. prevenire casi di rigore;
+- c. trasferire averi o mettere a disposizione gli averi o le risorse economiche necessari per lo svolgimento di attività umanitarie o altre attività volte a soddisfare bisogni umani fondamentali.[^2-4]
+
+<sup>7</sup> Autorizza le deroghe di cui al capoverso 6 d’intesa con i servizi competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze.[^2-5]
+
+[^2-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Introdotto dalla cifra I n. 1 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Introdotto dalla cifra I n. 1 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Introdotto dalla cifra I n. 1 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Introdotto dalla cifra I n. 1 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
-**Dichiarazione obbligatoria**
+**Dichiarazioni obbligatorie**[^3-1]
 
-<sup>1</sup> Le persone e le istituzioni che detengono o gestiscono averi che si deve presumere siano soggetti al blocco degli averi di cui all’articolo 2 capoverso 1 devono dichiararli senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Nella dichiarazione devono figurare i nomi dei beneficiari, l’oggetto e l’importo degli averi bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
+
+<sup>3</sup> Gli accrediti di cui all’articolo 2 capoverso 5 devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^3-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 4
 
@@ -90,7 +129,7 @@ Nella presente ordinanza s’intende per:
 <sup>2</sup> Il controllo al confine compete all’Ufficio federale della dogana e della sicurezza dei confini[^5a-2].
 
 [^5a-1]: Introdotto dalla cifra I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
-[^5a-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5a-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -210,9 +249,9 @@ Allegato 1[^t-1]
 - 14 Dispositivi specificamente progettati per la produzione degli articoli di cui al presente elenco.
 - 15 Tecnologia specifica destinata allo sviluppo, alla fabbricazione e all’utilizzo degli articoli di cui al presente elenco.
 
-[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352).L’all. 3 può essere consultato sul sito Internet seguente (SECO): www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
-[^annex1-lvlu1-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
+[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364).L’all. 3 può essere consultato sul sito Internet seguente (SECO): www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^annex1-lvlu1-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° lug. 2016.
 
 Allegato 2[^t-2]
 
