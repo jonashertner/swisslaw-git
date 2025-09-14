@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Ordinanza del 1° giugno 2012 che istituisce provvedimenti nei confronti della Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: it
-version: 2024-10-08
+version: 2025-09-15
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20241008/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20241008-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20241008/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea-Bissau
 
-del 1° giugno 2012 (Stato 8 ottobre 2024)
+del 1° giugno 2012 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Misure coercitive
 
@@ -36,17 +36,54 @@ ordina:
 
 <sup>3</sup>
 
-La Segreteria di Stato dell’economia (SECO) può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:
+Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche sono necessari per lo svolgimento di attività umanitarie o altre attività volte a soddisfare bisogni umani fondamentali da parte di:
+
+- a. Organizzazione delle Nazioni Unite, anche per il tramite dei suoi programmi, fondi e altri enti e organismi, nonché sue agenzie specializzate e organizzazioni collegate;
+- b. organizzazioni internazionali;
+- c. organizzazioni umanitarie aventi status di osservatore presso l’Assemblea generale delle Nazioni Unite e membri di tali organizzazioni;
+- d. organizzazioni non governative finanziate a livello bilaterale o multilaterale che partecipano ai piani di risposta umanitaria delle Nazioni Unite, ai piani di risposta per i rifugiati, ad altri appelli delle Nazioni Unite o a strutture umanitarie coordinate dall’Ufficio delle Nazioni Unite per il coordinamento degli affari umanitari (OCHA);
+- e. organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie e non rientrano nel campo d’applicazione delle lettere a–d;
+- f. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–e nella misura in cui agiscono in tale veste.[^1-2]
+
+<sup>4</sup>
+
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo o nel Regno Unito.[^1-3]
+
+<sup>5</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^1-4]
+
+<sup>6</sup>
+
+La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
+
+- a. rispettare contratti esistenti;
+- b.
+
+  soddisfare crediti in applicazione di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito.[^1-5]
+
+<sup>7</sup>
+
+In via eccezionale può autorizzare la liberazione di determinati averi o risorse economiche bloccati oppure la messa a disposizione di determinati averi o risorse economiche alle persone fisiche, imprese o organizzazioni di cui al capoverso 1 per:
 
 - a. prevenire casi di rigore;
-- b. rispettare contratti esistenti;
-- c. rispettare crediti oggetto di una sentenza esistente, giudiziaria, amministrativa o arbitrale; oppure
-- d. tutelare interessi svizzeri.
+- b. svolgere attività umanitarie o altre attività volte a soddisfare bisogni umani fondamentali;
+- c. tutelare interessi svizzeri.[^1-6]
 
-<sup>4</sup> La SECO autorizza le deroghe di cui al capoverso 3 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze e, se del caso, conformemente alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite[^1-2].
+<sup>8</sup> Autorizza le deroghe di cui ai capoversi 6 e 7 d’intesa con i servizi competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze.[^1-7]
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2012, in vigore dal 16 giu. 2012 ([RU 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
-[^1-2]: Nuova espressione giusta la cifra I n. 7 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-2]: Nuovo testo giusta la cifra I n. 7 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-3]: Nuovo testo giusta la cifra I n. 7 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-4]: Introdotto dalla cifra I n. 7 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-5]: Introdotto dalla cifra I n. 7 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-6]: Introdotto dalla cifra I n. 7 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-7]: Introdotto dalla cifra I n. 7 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 2
 
@@ -94,17 +131,21 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^4-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
-**Dichiarazioni obbligatorie**
+**Dichiarazioni obbligatorie**[^5-1]
 
-<sup>1</sup> Le persone[^5-1] e le istituzioni che detengono o amministrano averi, oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 1 capoverso 1, lo dichiarano senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 1 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
 
-[^5-1]: N. 7 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Gli accrediti di cui all’articolo 1 capoverso 5 devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^5-1]: Nuovo testo giusta la cifra I n. 7 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 6
 
@@ -175,4 +216,4 @@ Allegato 2[^t-2]
 [^annex2-lvlu1-1]
 
 [^t-2]: Aggiornato dalla cifra I n. 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dalle cifre I delle O del DEFR del 17 apr. 2013 ([RU 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)), del 23 ago. 2021 ([RU 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)), del 23 gen. 2023 ([RU 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) e dell’8 ott. 2024, in vigore dall’8 ott. 2024 alle ore 18.00 ([RU 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)).
-[^annex2-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2024/539 &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^annex2-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/539](https://fedlex.data.admin.ch/eli/oc/2024/539) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

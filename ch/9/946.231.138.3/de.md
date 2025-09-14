@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Verordnung vom 1. Juni 2012 über Massnahmen gegenüber Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: de
-version: 2024-10-08
+version: 2025-09-15
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20241008/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20241008-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20241008/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea-Bissau
 
-vom 1. Juni 2012 (Stand am 8. Oktober 2024)
+vom 1. Juni 2012 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Zwangsmassnahmen
 
@@ -36,17 +36,54 @@ verordnet:
 
 <sup>3</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. öffentliche Stellen oder Unternehmen und Organisationen, die für die Durch-führung humanitärer Aktivitäten Beiträge des Bundes erhalten und nicht unter die Buchstaben a–d fallen;
+- f. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−e genannten Organisationen, soweit sie in dieser Eigenschaft handeln.[^1-2]
+
+<sup>4</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem Europäischen Wirtschaftsraum oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^1-3]
+
+<sup>5</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfen gesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^1-4]
+
+<sup>6</sup>
+
+Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+
+- a. Erfüllung bestehender Verträge;
+- b.
+
+  Erfüllung von Forderungen, die Gegenstand sind:
+
+  - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
+  - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, welche in der Schweiz, einem Mitgliedstaat des Europäischen Wirtschaftsraums oder dem Vereinigten Königreich ergangen oder vollstreckbar ist.[^1-5]
+
+<sup>7</sup>
+
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder das Zurverfügungstellen bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche Person, ein Unternehmen oder eine Organisation nach Absatz 1 ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
-- b. Erfüllung bestehender Verträge;
-- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind; oder
-- d. Wahrung schweizerischer Interessen.
+- b. Durchführung humanitärer Aktivitäten oder anderer Tätigkeiten, sofern die Aktivitäten oder Tätigkeiten zur Deckung menschlicher Grundbedürfnisse erforderlich sind;
+- c. Wahrung schweizerischer Interessen.[^1-6]
 
-<sup>4</sup> Das SECO bewilligt Ausnahmen nach Absatz 3 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements und, falls anwendbar, gemäss den relevanten Resolutionen des Sicherheitsrats der Vereinten Nationen[^1-2].
+<sup>8</sup> Es bewilligt Ausnahmen nach den Absätzen 6 und 7 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements.[^1-7]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 15. Juni 2012, in Kraft seit 16. Juni 2012 ([AS 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
-[^1-2]: Ausdruck gemäss Ziff. I 7 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Diese Änd. wurde im ganzen Text vorgenommen.
+[^1-2]: Fassung gemäss Ziff. I 7 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-3]: Fassung gemäss Ziff. I 7 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-4]: Eingefügt durch Ziff. I 7 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-5]: Eingefügt durch Ziff. I 7 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-6]: Eingefügt durch Ziff. I 7 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^1-7]: Eingefügt durch Ziff. I 7 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 2
 
@@ -94,17 +131,21 @@ Das SEM kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
-[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
-**Meldepflichten**
+**Meldepflichten**[^5-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 1 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^5-1]
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 1 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
 
-[^5-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Gutschriften nach Artikel 1 Absatz 5 müssen dem SECO unverzüglich gemeldet werden.
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^5-1]: Fassung gemäss Ziff. I 7 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 6
 
