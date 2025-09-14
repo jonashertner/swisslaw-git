@@ -3,18 +3,18 @@ sr: "946.231.137.6"
 title: Verordnung vom 10. April 2024 über Massnahmen betreffend Guatemala
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/148"
 language: de
-version: 2025-06-26
+version: 2025-09-15
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250626/de/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250626-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Guatemala
 
-vom 10. April 2024 (Stand am 26. Juni 2025)
+vom 10. April 2024 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Begriffe
 
@@ -62,6 +62,16 @@ Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das 
 - e. öffentliche Stellen oder Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten;
 - f. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−e genannten Organisationen, soweit sie in dieser Eigenschaft handeln.
 
+<sup>3bis</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem Europäischen Wirtschaftsraum oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^2-1]
+
+<sup>3ter</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfen gesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^2-2]
+
 <sup>4</sup>
 
 Das Staatssekretariat für Wirtschaft (SECO) kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
@@ -85,6 +95,9 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 
 <sup>6</sup> Es bewilligt Ausnahmen nach den Absätzen 4 und 5 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Eidgenössischen Finanzdepartements.
 
+[^2-1]: Eingefügt durch Ziff. I 5 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Eingefügt durch Ziff. I 5 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+
 #### Art. 3
 
 **Ein- und Durchreiseverbot**
@@ -99,7 +112,7 @@ Das Staatssekretariat für Migration (SEM) sowie das EDA im Rahmen seiner Zustä
 - b. für die Teilnahme an internationalen Konferenzen oder an einem politischen Dialog betreffend die Situation in Guatemala; oder
 - c. zur Wahrung schweizerischer Interessen.
 
-[^3-1]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^3-1]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 4
 
@@ -134,7 +147,15 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 <sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung von Geldern und wirtschaftlichen Ressourcen nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.[^6-1]
+
+<sup>3</sup> Gutschriften nach Artikel 2 Absatz 3<sup>ter</sup> müssen dem SECO unverzüglich gemeldet werden.[^6-2]
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.[^6-3]
+
+[^6-1]: Fassung gemäss Ziff. I 5 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^6-2]: Eingefügt durch Ziff. I 5 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^6-3]: Eingefügt durch Ziff. I 5 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 7
 

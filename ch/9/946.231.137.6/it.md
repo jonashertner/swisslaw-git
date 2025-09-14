@@ -3,18 +3,18 @@ sr: "946.231.137.6"
 title: Ordinanza del 10 aprile 2024 che istituisce provvedimenti concernenti il Guatemala
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/148"
 language: it
-version: 2025-06-26
+version: 2025-09-15
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250626/it/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250626-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250626/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti concernenti il Guatemala
 
-del 10 aprile 2024 (Stato 26 giugno 2025)
+del 10 aprile 2024 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -62,6 +62,16 @@ Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi
 - e. organismi pubblici o imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie;
 - f. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a–e nella misura in cui agiscono in tale veste.
 
+<sup>3bis</sup>
+
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo o nel Regno Unito.[^2-1]
+
+<sup>3ter</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^2-2]
+
 <sup>4</sup>
 
 La Segreteria di Stato dell’economia (SECO) può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati per:
@@ -85,6 +95,9 @@ In via eccezionale può autorizzare la liberazione di determinati averi o risors
 
 <sup>6</sup> Autorizza le deroghe di cui ai capoversi 4 e 5 d’intesa con i servizi competenti del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze.
 
+[^2-1]: Introdotto dalla cifra I n. 5 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Introdotto dalla cifra I n. 5 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+
 #### Art. 3
 
 **Divieto di entrata e di transito**
@@ -99,7 +112,7 @@ La Segreteria di Stato della migrazione (SEM) e il DFAE possono concedere derogh
 - b. per la partecipazione a conferenze internazionali o a dialoghi politici riguardanti la situazione in Guatemala; oppure
 - c. per tutelare interessi svizzeri.
 
-[^3-1]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^3-1]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 4
 
@@ -134,7 +147,15 @@ La Segreteria di Stato della migrazione (SEM) e il DFAE possono concedere derogh
 
 <sup>1</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 2 capoverso 1 sono tenute a dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.[^6-1]
+
+<sup>3</sup> Gli accrediti di cui all’articolo 2 capoverso 3<sup>ter</sup> devono essere dichiarati senza indugio alla SECO.[^6-2]
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.[^6-3]
+
+[^6-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^6-2]: Introdotto dalla cifra I n. 5 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^6-3]: Introdotto dalla cifra I n. 5 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 7
 

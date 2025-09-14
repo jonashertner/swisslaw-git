@@ -3,18 +3,18 @@ sr: "946.231.137.6"
 title: Ordonnance du 10 avril 2024 instituant des mesures concernant le Guatemala
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/148"
 language: fr
-version: 2025-06-26
+version: 2025-09-15
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250626/fr/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250626-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/148/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2024-148-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/148/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures concernant le Guatemala
 
-du 10 avril 2024 (État le 26 juin 2025)
+du 10 avril 2024 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -62,6 +62,16 @@ L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture 
 - e. des organismes publics ou des entreprises et entités qui reçoivent des contributions de la Confédération pour mener des activités humanitaires;
 - f. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à e, lorsqu’ils agissent en cette qualité.
 
+<sup>3bis</sup>
+
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’Espace économique européen ou au Royaume-Uni.[^2-1]
+
+<sup>3ter</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^2-2]
+
 <sup>4</sup>
 
 Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés pour:
@@ -71,7 +81,7 @@ Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, auto
 
   honorer des créances en application:
 
-  - 1\. d’une décision arbitrale, ou
+  - 1\.[^2-3] d’une décision arbitrale existante, ou
   - 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni.
 
 <sup>5</sup>
@@ -84,6 +94,10 @@ Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou resso
 - d. permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international.
 
 <sup>6</sup> Il délivre les autorisations prévues aux al. 4 et 5 après avoir consulté les services compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances.
+
+[^2-1]: Introduit par le ch. I 5 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Introduit par le ch. I 5 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Nouvelle teneur selon le ch. I 5 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
@@ -99,7 +113,7 @@ Le Secrétariat d’État aux migrations (SEM) et le DFAE dans le cadre de sa co
 - b. si la personne se déplace pour assister à des conférences internationales ou pour prendre part à un dialogue politique concernant la situation au Guatemala, ou
 - c. si la sauvegarde d’intérêts suisses l’exige.
 
-[^3-1]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^3-1]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 4
 
@@ -134,7 +148,15 @@ Il est interdit d’honorer les créances qui se fondent sur un contrat ou une a
 
 <sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis au gel des avoirs et des ressources économiques prévu à l’art. 2, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+<sup>2</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.[^6-1]
+
+<sup>3</sup> Les versements visés à l’art. 2, al. 3<sup>ter</sup>, doivent être déclarés sans délai au SECO.[^6-2]
+
+<sup>4</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.[^6-3]
+
+[^6-1]: Nouvelle teneur selon le ch. I 5 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^6-2]: Introduit par le ch. I 5 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^6-3]: Introduit par le ch. I 5 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 7
 
