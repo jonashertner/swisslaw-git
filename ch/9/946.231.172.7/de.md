@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2025-06-20
+version: 2025-09-15
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250620/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250620-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250620/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 20. Juni 2025)
+vom 8. Juni 2012 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Begriffe
 
@@ -187,7 +187,7 @@ Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder die 
 - a. zur Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung in Syrien durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten oder zur Unterstützung der Zivilbevölkerung Beiträge des Bundes erhalten; oder
 - b. zur Ausübung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen der Schweiz und zur Erfüllung offizieller Missionen des Bundes.[^10-3]
 
-<sup>2ter</sup> Das SECO kann Ausnahmen von den Verboten nach Absatz 2 bewilligen, um die Durchführung humanitärer Aktivitäten oder die Unterstützung der Zivilbevölkerung in Syrien zu ermöglichen.[^10-4]
+<sup>2ter</sup> …[^10-4]
 
 <sup>2quater</sup>
 
@@ -201,38 +201,60 @@ Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder die 
 
 <sup>3</sup>
 
-Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem Europäischen Wirtschaftsraum oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^10-6]
+
+<sup>4</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfen gesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^10-7]
+
+<sup>5</sup>
+
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+
+- a. Erfüllung bestehender Verträge;
+- b.
+
+  Erfüllung von Forderungen, die Gegenstand sind:
+
+  - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
+  - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, die in der Schweiz, in einem Mitgliedstaat des Europäischen Wirtschaftsraums oder im Vereinigten Königreich ergangen oder vollstreckbar ist;
+
+- c. Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.[^10-8]
+
+<sup>6</sup>
+
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder das Zurverfügungstellen bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche Person, ein Unternehmen oder eine Organisation nach Absatz 1 ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
-- b. Erfüllung bestehender Verträge;
-- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind; oder
-- d. Wahrung schweizerischer Interessen;
-- e.[^10-6]
+- b. Wahrung schweizerischer Interessen;
+- c.
 
-  finanziellen Unterstützung syrischer Staatsbürger, die nicht in Anhang 7 aufgeführt sind und die in der Schweiz:
+  finanziellen Unterstützung syrischer Staatsbürgerinnen und Staatsbürger, die nicht in Anhang 7 aufgeführt sind und die in der Schweiz:
 
   - 1\. eine allgemeine oder berufliche Ausbildung durchlaufen, oder
   - 2\. in der akademischen Forschung tätig sind;
 
-- f.[^10-7] Verwendung für humanitäre Zwecke;
-- g.[^10-8] Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
-- h.[^10-9] Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen.
+- d. Vernichtung chemischer Waffen oder Zerstörung von Anlagen zur Herstellung chemischer Waffen;
+- e. Erfüllung der amtlichen Tätigkeit syrischer diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
+- f. Verwendung für humanitäre Zwecke, einschliesslich der Durchführung humanitärer Aktivitäten und der Unterstützung der Zivilbevölkerung in Syrien.[^10-9]
 
-<sup>4</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 7 unter den Nummern SSID 200-12560 und 200-12565 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder Ressourcen erforderlich sind für die Zusammenarbeit zwischen diesen Organisationen und einer öffentlichen Schweizer Organisation oder Einrichtung in den Bereichen Wiederaufbau, Kapazitätsaufbau, Terrorismusbekämpfung oder Migration.[^10-10]
+<sup>7</sup> Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum der in Anhang 7 unter den Nummern SSID 200-12560 und 200-12565 genannten Organisationen befinden, oder die Bereitstellung bestimmter Gelder oder wirtschaftlicher Ressourcen für diese Organisationen ausnahmsweise bewilligen, wenn es festgestellt hat, dass diese Gelder oder Ressourcen erforderlich sind für die Zusammenarbeit zwischen diesen Organisationen und einer öffentlichen Schweizer Organisation oder Einrichtung in den Bereichen Wiederaufbau, Kapazitätsaufbau, Terrorismusbekämpfung oder Migration.[^10-10]
 
-<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 2<sup>ter</sup>, 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements.[^10-11]
+<sup>8</sup> Es bewilligt Ausnahmen nach den Absätzen 5–7 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements.[^10-11]
 
 [^10-1]: Eingefügt durch Ziff. I der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aufgehoben durch Ziff. I der V vom 20. Juni 2025, mit Wirkung seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 7. März 2025 um 18.00 Uhr ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 3. März 2023 um 18.00 Uhr ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 3. März 2023 ([AS 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)). Aufgehoben durch Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, mit Wirkung seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 [^10-5]: Eingefügt durch Ziff. I der V vom 10. März 2023, in Kraft vom 10. März 2023 um 18.00 Uhr bis zum 11. Sept. 2023, verlängert bis zum 11. März 2024 und verlängert bis zum 12. Sept. 2024 ([AS 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88)), ab 13. Sept. 2024 unbefristet in Kraft ([AS 2024 483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
-[^10-6]: Eingefügt durch Ziff. I der V vom 19. Dez. 2012, in Kraft seit 21. Dez. 2012 ([AS 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-9]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-10]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
-[^10-11]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^10-6]: Fassung gemäss Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-7]: Fassung gemäss Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-8]: Fassung gemäss Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-9]: Eingefügt durch Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-10]: Eingefügt durch Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-11]: Eingefügt durch Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 11 und 12
 
@@ -276,6 +298,8 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
 
 **Verbot der Erfüllung bestimmter Forderungen**[^16-1]
 
+<sup>1</sup>
+
 Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde; dieses Verbot gilt für Forderungen:
 
 - a. der Regierung Syriens;
@@ -283,8 +307,11 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 - c. von natürlichen Personen, Unternehmen und Organisationen in Syrien;
 - d. von natürlichen Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten der syrischen Regierung oder von unter den Buchstaben b und c erwähnten Personen, Unternehmen und Organisationen handeln.
 
+<sup>2</sup> In Verfahren zur Durchsetzung einer Forderung trägt die natürliche Person, das Unternehmen oder die Organisation, die den Anspruch geltend macht, die Beweislast dafür, dass die Erfüllung des Anspruchs nicht nach Absatz 1 verboten ist.[^16-3]
+
 [^16-1]: Fassung gemäss Ziff. I der v vom 11. Febr. 2015, in Kraft seit 11. Febr. 2015 ([AS 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^16-3]: Eingefügt durch Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 17
 
@@ -321,17 +348,21 @@ Das Staatssekretariat für Migration (SEM)[^17-1] kann Ausnahmen gewähren:
 <sup>6</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^18-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^18-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 19
 
-**Meldepflichten**
+**Meldepflichten**[^19-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 10 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^19-1]
+<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 10 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Angaben zur Art und zum Wert der betreffenden Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
 
-[^19-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Gutschriften nach Artikel 10 Absatz 4 müssen dem SECO unverzüglich gemeldet werden.
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^19-1]: Fassung gemäss Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 20
 
@@ -451,9 +482,9 @@ Anhang 1
 - 14 Ausrüstung, besonders konstruiert für die Herstellung der in dieser Liste aufgeführten Güter.
 - 15 Spezifische Technologie zur Entwicklung, Herstellung oder Verwendung der in dieser Liste aufgeführten Güter.
 
-[^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
-[^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
+[^annex1-lvlu1-1]: [SR 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). Anhang 3 GKV ist abrufbar unter folgender Internetadresse: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
+[^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juli 2016 angepasst.
 
 Anhang 1a[^t-1]
 
@@ -564,13 +595,13 @@ Anhang 6[^t-4]
 
 Anhang 7[^t-5]
 
-(Art. 10 Abs. 1 und 3 Bst. e, 16 Bst. b sowie 17 Abs. 1)
+(Art. 10 Abs. 1, 6 Bst. c und 7 sowie Art. 17 Abs. 1)
 
 ## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen nach Artikel 10 Absatz 1 richten, sowie natürliche Personen mit Ein- und Durchreiseverbot
 
 [^annex7-lvlu1-1]
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Juni 2025, in Kraft seit 20. Juni 2025 um 18.00 Uhr ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Juni 2025 ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)) und Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 [^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/410](https://fedlex.data.admin.ch/eli/oc/2025/410)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7a[^t-6]

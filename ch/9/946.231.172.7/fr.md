@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2025-06-20
+version: 2025-09-15
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250620/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250620-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250620/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (État le 20 juin 2025)
+du 8 juin 2012 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -187,7 +187,7 @@ L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture 
 - a. à la réalisation d’activités humanitaires ou à la fourniture d’une aide à la population civile en Syrie par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile, ou
 - b. à l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération.[^10-3]
 
-<sup>2ter</sup> Le SECO peut, exceptionnellement, autoriser des dérogations aux interdictions prévues à l’al. 2 pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en Syrie.[^10-4]
+<sup>2ter</sup> ...[^10-4]
 
 <sup>2quater</sup>
 
@@ -201,38 +201,60 @@ L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture 
 
 <sup>3</sup>
 
-Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
 
-- a. d’éviter des cas de rigueur;
-- b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
-- d. de sauvegarder des intérêts suisses, ou
-- e.[^10-6]
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’Espace économique européen ou au Royaume-Uni.[^10-6]
 
-  de fournir un appui financier à des ressortissants syriens non inscrits sur la liste figurant à l’annexe 7 qui:
+<sup>4</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^10-7]
+
+<sup>5</sup>
+
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
+
+- a. honorer des contrats existants;
+- b.
+
+  honorer des créances en application:
+
+  - 1\. d’une décision arbitrale existante, ou
+  - 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni;
+
+- c. permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.[^10-8]
+
+<sup>6</sup>
+
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques en faveur d’une personne physique, entreprise ou entité visée à l’al. 1 pour:
+
+- a. prévenir des cas de rigueur;
+- b. sauvegarder des intérêts suisses;
+- c.
+
+  fournir un appui financier à des ressortissants syriens non inscrits sur la liste figurant à l’annexe 7 qui:
 
   - 1\. suivent un enseignement ou une formation professionnelle en Suisse, ou
   - 2\. y sont engagés dans la recherche universitaire;
 
-- f.[^10-7] de les utiliser à des fins humanitaires;
-- g.[^10-8] de détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
-- h.[^10-9] de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes.
+- d. détruire des armes chimiques ou des installations destinées à la fabrication d’armes chimiques;
+- e. permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires syriennes ou d’organisations internationales jouissant d’immunités conformément au droit international;
+- f. les utiliser à des fins humanitaires, y compris pour mener des activités humanitaires et soutenir la population civile en Syrie.[^10-9]
 
-<sup>4</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 7 sous les numéros SSID 200-12560 et 200-12565 ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que la fourniture de ces avoirs ou ressources est nécessaire à la coopération entre ces entités et une entité ou un organisme public suisse dans les domaines de la reconstruction, du renforcement des capacités, de la lutte contre le terrorisme ou de la migration.[^10-10]
+<sup>7</sup> Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant aux entités visées à l’annexe 7 sous les numéros SSID 200-12560 et 200-12565 ou la mise de certains avoirs ou ressources économiques à la disposition de ces entités, après avoir établi que la fourniture de ces avoirs ou ressources est nécessaire à la coopération entre ces entités et une entité ou un organisme public suisse dans les domaines de la reconstruction, du renforcement des capacités, de la lutte contre le terrorisme ou de la migration.[^10-10]
 
-<sup>5</sup> Il autorise les dérogations prévues aux al. 2<sup>ter</sup>, 3 et 4 après avoir consulté les services compétents du DFAE et du Département fédéral des finances.[^10-11]
+<sup>8</sup> Il délivre les autorisations prévues aux al. 5 à 7 après avoir consulté les services compétents du DFAE et du Département fédéral des finances.[^10-11]
 
 [^10-1]: Introduit par le ch. I de l’O du 7 mars 2025 ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Abrogé par le ch. I de l’O du 20 juin 2025, avec effet au 20 juin 2025 à 18 heures ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2025, en vigueur depuis le 7 mars 2025 à 18 heures ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 [^10-3]: Introduit par le ch. I de l’O du 16 oct. 2019 ([RO 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 3 mars 2023 à 18 heures ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Introduit par le ch. I de l’O du 3 mars 2023 ([RO 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)). Abrogé par le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 [^10-5]: Introduit par le ch. I de l’O du 10 mars 2023, en vigueur du 10 mars 2023 à 18 heures au 11 sept. 2023, prolongé jusqu’au 11 mars 2024 puis jusqu’au 12 sept. 2024 et pour une durée indéterminée à partir du 13 sept. 2024 ([RO 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88), [483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
-[^10-6]: Introduite par le ch. I de l’O du 19 déc. 2012, en vigueur depuis le 21 déc. 2012 ([RO 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-7]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-8]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-9]: Introduite par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-10]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 20 juin 2025 à 18 heures ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
-[^10-11]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 20 juin 2025 à 18 heures ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^10-6]: Nouvelle teneur selon le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-7]: Nouvelle teneur selon le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-8]: Nouvelle teneur selon le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-9]: Introduit par le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-10]: Introduit par le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-11]: Introduit par le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 11 et 12
 
@@ -276,6 +298,8 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 
 **Interdiction d’honorer certaines créances**[^16-1]
 
+<sup>1</sup>
+
 Il est interdit d’honorer les créances de personnes ou entités syriennes lorsque ces créances se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures imposées par la présente ordonnance; cette interdiction s’applique aux créances:
 
 - a. du gouvernement syrien;
@@ -283,8 +307,11 @@ Il est interdit d’honorer les créances de personnes ou entités syriennes lor
 - c. des personnes physiques, entreprises et entités sises en Syrie;
 - d. des personnes physiques, entreprises et entités agissant selon les instructions ou pour le compte du gouvernement syrien ou des personnes physiques, entreprises et entités visées aux let. b et c.
 
+<sup>2</sup> Dans toute procédure visant à faire valoir une créance, la charge de la preuve que la satisfaction de la demande n’est pas interdite par l’al. 1 incombe à la personne physique, entreprise ou entité faisant valoir la créance.[^16-3]
+
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 11 fév. 2015, en vigueur depuis le 11 fév. 2015 ([RO 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 20 juin 2025 à 18 heures ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^16-3]: Introduit par le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 17
 
@@ -321,17 +348,21 @@ Le Secrétariat d’État aux migrations (SEM)[^17-1] peut accorder des dérogat
 <sup>6</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage au registre foncier, ou la saisie ou la mise sous scellé d’articles de luxe.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^18-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^18-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 19
 
-**Déclaration obligatoire**
+**Déclaration obligatoire**[^19-1]
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 10, al. 1, doivent le déclarer sans délai au SECO.[^19-1]
+<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis prévu à l’art. 10, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire ainsi que la nature et la valeur des avoirs et des ressources économiques concernés.
+<sup>2</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
 
-[^19-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Les versements visés à l’art. 10, al. 4, doivent être déclarés sans délai au SECO.
+
+<sup>4</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.
+
+[^19-1]: Nouvelle teneur selon le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 20
 
@@ -451,9 +482,9 @@ Annexe 1
 - 14 Équipements spécialement conçus pour la production des biens cités dans la présente liste.
 - 15 Technologies spécifiques requises pour la mise au point, la production ou l’utilisation des biens cités dans la présente liste.
 
-[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site Internet suivant: [www.seco.admin.ch](http://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364). L’annexe 3 peut être consultée sur le site Internet suivant: [www.seco.admin.ch](http://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 Annexe 1a[^t-1]
 
@@ -564,13 +595,13 @@ Annexe 6[^t-4]
 
 Annexe 7[^t-5]
 
-(art. 10, al. 1 et 3, let. e, 16, let. b, et 17, al. 1)
+(art. 10, al. 1, 6, let. c, et 7, et 17, al. 1)
 
 ## Personnes physiques, entreprises et entités visées par les sanctions financières de l’art. 10, al. 1, et personnes physiques interdites d’entrée et de transit
 
 [^annex7-lvlu1-1]
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 mars 2025 ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Mise à jour par le ch. II al. 2 de l’O du 20 juin 2025, en vigueur depuis le 20 juin 2025 à 18 heures ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 mars 2025 ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Mise à jour par le ch. II al. 2 de l’O du 20 juin 2025 ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)) et le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 [^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/410](https://fedlex.data.admin.ch/eli/oc/2025/410)&gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7a[^t-6]

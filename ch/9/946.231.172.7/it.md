@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2025-06-20
+version: 2025-09-15
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250620/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250620-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250620/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 20 giugno 2025)
+dell’8 giugno 2012 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 2 della legge del 22 marzo 2002[^ingress-1] sugli embarghi (L
 
 ordina:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Sezione 1: Definizioni
 
@@ -189,7 +189,7 @@ Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi
 - a. svolgere attività umanitarie o di sostegno alla popolazione civile in Siria per il tramite di servizi pubblici o imprese e organizzazioni che ricevono contributi federali per svolgere attività umanitarie o di sostegno alla popolazione civile; oppure
 - b. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e adempiere missioni ufficiali della Confederazione.[^10-3]
 
-<sup>2ter</sup> La SECO può autorizzare deroghe ai divieti di cui al capoverso 2 per permettere lo svolgimento di attività umanitarie o di sostegno alla popolazione civile in Siria.[^10-4]
+<sup>2ter</sup> ...[^10-4]
 
 <sup>2quater</sup>
 
@@ -203,38 +203,60 @@ Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi
 
 <sup>3</sup>
 
-La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate per:
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo o nel Regno Unito.[^10-6]
+
+<sup>4</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^10-7]
+
+<sup>5</sup>
+
+La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
+
+- a. rispettare contratti esistenti;
+- b.
+
+  soddisfare crediti in applicazione di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito;
+
+- c. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari siriane.[^10-8]
+
+<sup>6</sup>
+
+In via eccezionale può autorizzare la liberazione di determinati averi o risorse economiche bloccati oppure la messa a disposizione di determinati averi o risorse economiche alle persone fisiche, imprese o organizzazioni di cui al capoverso 1 per:
 
 - a. prevenire casi di rigore;
-- b. rispettare contratti esistenti;
-- c. rispettare crediti oggetto di una sentenza giudiziaria, amministrativa o arbitrale; oppure
-- d. tutelare interessi svizzeri;
-- e.[^10-6]
+- b. tutelare interessi svizzeri;
+- c.
 
   sostenere finanziariamente i cittadini siriani non menzionati nell’allegato 7 che, in Svizzera:
 
-  - 1\. seguono una formazione generale o professionale, oppure
+  - 1\. seguono una formazione generale o professionale, o
   - 2\. effettuano attività di ricerca universitaria;
 
-- f.[^10-7] utilizzarli a scopi umanitari;
-- g.[^10-8] distruggere armi chimiche o impianti destinati alla fabbricazione di armi chimiche;
-- h.[^10-9] adempiere agli scopi ufficiali di missioni diplomatiche o consolari siriane.
+- d. distruggere armi chimiche o impianti destinati alla fabbricazione di armi chimiche;
+- e. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari siriane oppure di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
+- f. utilizzarli a scopi umanitari, incluso lo svolgimento di attività umanitarie e di sostegno alla popolazione civile in Siria.[^10-9]
 
-<sup>4</sup> La SECO può eccezionalmente autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 7 ai numeri SSID 200-12560 e 200-12565 oppure la messa a disposizione di determinati averi e risorse economiche a tali organizzazioni dopo aver stabilito che l’erogazione di tali averi o risorse è necessaria ai fini della cooperazione fra tali organizzazioni e organizzazioni o enti pubblici svizzeri nei settori della ricostruzione, dello sviluppo di capacità, della lotta al terrorismo o della migrazione.[^10-10]
+<sup>7</sup> La SECO può, in via eccezionale, autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà delle organizzazioni menzionate nell’allegato 7 ai numeri SSID 200-12560 und 200-12565 oppure la messa a disposizione di determinati averi e risorse economiche a tali organizzazioni, dopo aver stabilito che tali averi e risorse economiche sono necessari per la cooperazione fra tali organizzazioni e organizzazioni o enti pubblici svizzeri nei settori della ricostruzione, dello sviluppo di capacità, della lotta al terrorismo o della migrazione.[^10-10]
 
-<sup>5</sup> La SECO autorizza le deroghe di cui ai capoversi 2<sup>ter</sup>, 3 e 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze.[^10-11]
+<sup>8</sup> Autorizza le deroghe di cui ai capoversi 5–7 d’intesa con i servizi competenti del DFAE e del Dipartimento federale delle finanze.[^10-11]
 
 [^10-1]: Introdotto dalla cifra I dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Abrogato dalla cifra I dell’O del 20 giu. 2025, con effetto il 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
 [^10-2]: Nuovo testo giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 7 mar. 2025 alle ore 18.00 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)).
 [^10-3]: Introdotto dalla cifra I dell’O del 16 ott. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introdotto dalla cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Introdotto dalla cifra I dell’O del 3 mar. 2023 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)). Abrogato dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 [^10-5]: Introdotto dalla cifra I dell’O del 10 mar. 2023, in vigore dal 10 mar. 2023 alle 18.00 all’11 set. 2023, prolungato fino all’11 mar. 2024 e fino al 12 set. 2024 ([RU 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88)), effetto dal 13 set. 2024 la validità della mod. non è più limitata nel tempo ([RU 2024 483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
-[^10-6]: Introdotta dalla cifra I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-7]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-8]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-9]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-10]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
-[^10-11]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^10-6]: Nuovo testo giusta la cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-7]: Nuovo testo giusta la cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-8]: Nuovo testo giusta la cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-9]: Introdotto dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-10]: Introdotto dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^10-11]: Introdotto dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 11 e 12
 
@@ -278,6 +300,8 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 
 **Divieto di soddisfare determinati crediti**[^16-1]
 
+<sup>1</sup>
+
 È vietato soddisfare crediti se sono riconducibili a un contratto o a un’attività la cui esecuzione viene impedita o pregiudicata direttamente o indirettamente da misure previste dalla presente ordinanza. Questo divieto si applica ai crediti:
 
 - a. del governo della Siria;
@@ -285,8 +309,11 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 - c. delle persone fisiche, imprese e organizzazioni in Siria;
 - d. delle persone fisiche, imprese e organizzazioni che agiscono per conto o a favore del governo siriano oppure per conto di persone, imprese e organizzazioni di cui alle lettere b e c.
 
+<sup>2</sup> Nelle procedure volte a far valere un credito, incombe alla persona fisica, all’impresa o all’organizzazione che fa valere la pretesa provare che il soddisfacimento della pretesa non è vietato secondo il capoverso 1.[^16-3]
+
 [^16-1]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
 [^16-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^16-3]: Introdotto dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 17
 
@@ -323,17 +350,21 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 <sup>6</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^18-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^18-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 19
 
-**Dichiarazioni obbligatorie**
+**Dichiarazioni obbligatorie**[^19-1]
 
-<sup>1</sup> Le persone[^19-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 10 capoverso 1, sono tenute a dichiararlo senza indugio alla SECO.
+<sup>1</sup> Le persone e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche o averi presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 10 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
 
-[^19-1]: N. 12 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Gli accrediti di cui all’articolo 10 capoverso 4 devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^19-1]: Nuovo testo giusta la cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 20
 
@@ -453,9 +484,9 @@ Allegato 1
 - 14\. Dispositivi specificamente progettati per la produzione degli articoli di cui al presente elenco.
 - 15\. Tecnologia specifica destinata allo sviluppo, alla fabbricazione e all’utilizzo degli articoli di cui al presente elenco.
 
-[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352).L’all. 3 può essere consultato sul sito Internet seguente (SECO): [www.seco.admin.ch](http://www.seco.admin.ch)&gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
-[^annex1-lvlu1-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
+[^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7527)
+[^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364).L’all. 3 può essere consultato sul sito Internet seguente (SECO): [www.seco.admin.ch](http://www.seco.admin.ch)&gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^annex1-lvlu1-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° lug. 2016.
 
 Allegato 1a[^t-1]
 
@@ -566,13 +597,13 @@ Allegato 6[^t-4]
 
 Allegato 7[^t-5]
 
-(art. 10 cpv. 1 e 3 lett. e, 16 lett. b e 17 cpv. 1)
+(art. 10 cpv. 1, 6 lett. c e 7 nonché art. 17 cpv. 1)
 
 ## Persone fisiche, imprese e organizzazioni interessate dalle misure finanziarie di cui all’articolo 10 capoverso 1 e persone fisiche soggette al divieto di entrata e di transito
 
 [^annex7-lvlu1-1]
 
-[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aggiornato dalla cifra II cpv. 2 dell’O del 20 giu. 2025, in vigore dal 20 giu. 2025 alle ore 18.00 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aggiornato dalla cifra II cpv. 2 dell’O del 20 giu. 2025 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)) e dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 [^annex7-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/410](https://fedlex.data.admin.ch/eli/oc/2025/410) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7a[^t-6]
