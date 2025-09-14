@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: "Ordonnance du 24 juin 2020 instituant des mesures à l'encontre du Nicaragua"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: fr
-version: 2024-10-23
+version: 2025-09-15
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20241023/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20241023-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20241023/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Nicaragua
 
-du 24 juin 2020 (État le 23 octobre 2024)
+du 24 juin 2020 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Définitions
 
@@ -55,17 +55,54 @@ Sont gelés les avoirs et les ressources économiques qui sont la propriété ou
 
 <sup>3</sup>
 
-Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées, afin:
+L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à l’exécution d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par:
 
-- a. de prévenir des cas de rigueur;
-- b. d’honorer des contrats existants;
-- c. d’honorer des créances en application d’une mesure ou décision judiciaire, administrative ou arbitrale existante;
-- d. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires, ou
-- e. de sauvegarder des intérêts suisses.
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. des organismes publics ou des entreprises et entités qui reçoivent des contributions de la Confédération pour mener des activités humanitaires et qui ne sont pas visés aux let. a à d;
+- f. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à e, lorsqu’ils agissent en cette qualité.[^2-1]
 
-<sup>4</sup> Il peut accorder des dérogations aux interdictions prévues aux al. 1 et 2 lorsque les transactions financières sont nécessaires pour la fourniture d’une aide humanitaire, telle que l’acheminement d’une assistance ou la facilitation de cet acheminement, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires ou le transfert de travailleurs humanitaires et de l’aide connexe, ou pour des évacuations hors du Nicaragua.
+<sup>4</sup>
 
-<sup>5</sup> Il délivre les autorisations au sens des al. 3 et 4, après avoir consulté les offices compétents du Département fédéral des affaires étrangères et du Département fédéral des finances.
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’Espace économique européen ou au Royaume-Uni.[^2-2]
+
+<sup>5</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^2-3]
+
+<sup>6</sup>
+
+Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
+
+- a. honorer des contrats existants;
+- b.
+
+  honorer des créances en application:
+
+  - 1\. d’une décision arbitrale existante, ou
+  - 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni.[^2-4]
+
+<sup>7</sup>
+
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques en faveur d’une personne physique, entreprise ou entité visée à l’al. 1 pour:
+
+- a. prévenir des cas de rigueur;
+- b. mener des activités humanitaires ou d’autres activités, si ces activités sont nécessaires pour répondre aux besoins essentiels des personnes;
+- c. sauvegarder des intérêts suisses;
+- d. permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international.[^2-5]
+
+<sup>8</sup> Il délivre les autorisations prévues aux al. 6 et 7 après avoir consulté les services compétents du Département fédéral des affaires étrangères et du Département fédéral des finances.[^2-6]
+
+[^2-1]: Nouvelle teneur selon le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Nouvelle teneur selon le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Nouvelle teneur selon le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Introduit par le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Introduit par le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-6]: Introduit par le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
@@ -85,10 +122,16 @@ Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations:
 
 **Interdiction d’honorer certaines créances**
 
+<sup>1</sup>
+
 Il est interdit d’honorer les créances qui se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures imposées par la présente ordonnance; cette interdiction s’applique aux créances:
 
 - a. des personnes physiques, entreprises et entités citées dans l’annexe;
 - b. des personnes physiques, entreprises et entités agissant pour le compte des personnes physiques, entreprises et entités visées à la let. a.
+
+<sup>2</sup> Dans toute procédure visant à faire valoir une créance, la charge de la preuve que la satisfaction de la demande n’est pas interdite par l’al. 1 incombe à la personne physique, entreprise ou entité faisant valoir la créance.[^4-1]
+
+[^4-1]: Introduit par le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Section 3 Exécution et dispositions pénales
 
@@ -106,11 +149,17 @@ Il est interdit d’honorer les créances qui se fondent sur un contrat ou une a
 
 #### Art. 6
 
-**Déclaration obligatoire**
+**Déclaration obligatoire**[^6-1]
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils sont soumis au gel des avoirs et des ressources économiques prévu à l’art. 2, al. 1, doivent les déclarer sans délai au SECO.
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis au gel prévu à l’art. 2, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+<sup>2</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
+
+<sup>3</sup> Les versements visés à l’art. 2, al. 5, doivent être déclarés sans délai au SECO.
+
+<sup>4</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.
+
+[^6-1]: Nouvelle teneur selon le ch. I 11 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 7
 
@@ -144,5 +193,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 12 août 2021 ([RO 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), du 20 janv. 2022 ([RO 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)), du 23 janv. 2023 ([RO 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)), du 23 oct. 2023 ([RO 2023 601](https://fedlex.data.admin.ch/eli/oc/2023/601)) et du 22 oct. 2024, en vigueur depuis le 23 oct. 2024 à 18 heures (RO **202****4** 589).
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 12 août 2021 ([RO 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), du 20 janv. 2022 ([RO 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)), du 23 janv. 2023 ([RO 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)), du 23 oct. 2023 ([RO 2023 601](https://fedlex.data.admin.ch/eli/oc/2023/601)) et du 22 oct. 2024, en vigueur depuis le 23 oct. 2024 à 18 heures ([RO 2024 589](https://fedlex.data.admin.ch/eli/oc/2024/589)).
 [^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/589](https://fedlex.data.admin.ch/eli/oc/2024/589) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

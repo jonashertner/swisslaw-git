@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Verordnung vom 24. Juni 2020 über Massnahmen gegenüber Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: de
-version: 2024-10-23
+version: 2025-09-15
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20241023/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20241023-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20241023/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Nicaragua
 
-vom 24. Juni 2020 (Stand am 23. Oktober 2024)
+vom 24. Juni 2020 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 2 des Embargogesetzes vom 22. März 2002[^ingress-1] (EmbG
 
 verordnet:
 
-[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## 1. Abschnitt: Begriffe
 
@@ -55,17 +55,54 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder u
 
 <sup>3</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten oder für andere Tätigkeiten zur Deckung menschlicher Grundbedürfnisse durch:
+
+- a. die Vereinten Nationen, einschliesslich ihrer Programme, Fonds und sonstiger Einrichtungen und Stellen, sowie ihre Sonderorganisationen und verwandte Organisationen;
+- b. internationale Organisationen;
+- c. humanitäre Organisationen mit Beobachterstatus in der Generalversammlung der Vereinten Nationen und Mitglieder dieser Organisationen;
+- d. bilateral oder multilateral finanzierte nichtstaatliche Organisationen, die sich an den Plänen der Vereinten Nationen für humanitäre Hilfe, an den Plänen für Flüchtlingshilfemassnahmen, an anderen Appellen der Vereinten Nationen oder an vom Amt der Vereinten Nationen für die Koordinierung humanitärer Angelegenheiten (OCHA) koordinierten humanitären Strukturen beteiligen;
+- e. öffentliche Stellen oder Unternehmen und Organisationen, die für die Durch-führung humanitärer Aktivitäten Beiträge des Bundes erhalten und nicht unter die Buchstaben a–d fallen;
+- f. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−e genannten Organisationen, soweit sie in dieser Eigenschaft handeln.[^2-1]
+
+<sup>4</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem Europäischen Wirtschaftsraum oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^2-2]
+
+<sup>5</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfen gesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^2-3]
+
+<sup>6</sup>
+
+Das Staatssekretariat für Wirtschaft (SECO) kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+
+- a. Erfüllung bestehender Verträge;
+- b.
+
+  Erfüllung von Forderungen, die Gegenstand sind:
+
+  - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
+  - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, die in der Schweiz, in einem Mitgliedstaat des Europäischen Wirtschaftsraums oder im Vereinigten Königreich ergangen oder vollstreckbar ist.[^2-4]
+
+<sup>7</sup>
+
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder das Zurverfügungstellen bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche Person, ein Unternehmen oder eine Organisation nach Absatz 1 ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
-- b. Erfüllung bestehender Verträge;
-- c. Erfüllung von Forderungen, die Gegenstand einer bestehenden gerichtlichen, administrativen oder schiedsgerichtlichen Massnahme oder Entscheidung sind;
-- d. Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Missionen; oder
-- e. Wahrung schweizerischer Interessen.
+- b. Durchführung humanitärer Aktivitäten oder anderer Tätigkeiten, sofern die Aktivitäten oder Tätigkeiten zur Deckung menschlicher Grundbedürfnisse erforderlich sind;
+- c. Wahrung schweizerischer Interessen;
+- d. Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen.[^2-5]
 
-<sup>4</sup> Es kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Finanztransaktionen, die für humanitäre Zwecke wie die Durchführung oder Erleichterung von Hilfeleistungen, einschliesslich medizinischer Versorgung, Nahrungsmittellieferungen oder des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe, oder für Evakuierungen aus Nicaragua notwendig sind.
+<sup>8</sup> Es bewilligt Ausnahmen nach den Absätzen 6 und 7 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements.[^2-6]
 
-<sup>5</sup> Es erteilt Bewilligungen nach den Absätzen 3 und 4 nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartements.
+[^2-1]: Fassung gemäss Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Fassung gemäss Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Fassung gemäss Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Eingefügt durch Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Eingefügt durch Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-6]: Eingefügt durch Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
@@ -85,10 +122,16 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 **Verbot der Erfüllung bestimmter Forderungen**
 
+<sup>1</sup>
+
 Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde; dieses Verbot gilt für Forderungen:
 
 - a. von im Anhang aufgeführten natürlichen Personen, Unternehmen und Organisationen;
 - b. von natürlichen Personen, Unternehmen und Organisationen, die im Auftrag von unter Buchstabe a erwähnten Personen, Unternehmen oder Organisationen handeln.
+
+<sup>2</sup> In Verfahren zur Durchsetzung einer Forderung trägt die natürliche Person, das Unternehmen oder die Organisation, die den Anspruch geltend macht, die Beweislast dafür, dass die Erfüllung des Anspruchs nicht nach Absatz 1 verboten ist.[^4-1]
+
+[^4-1]: Eingefügt durch Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## 3. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -106,11 +149,17 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 #### Art. 6
 
-**Meldepflichten**
+**Meldepflichten**[^6-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 2 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
+
+<sup>3</sup> Gutschriften nach Artikel 2 Absatz 5 müssen dem SECO unverzüglich gemeldet werden.
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^6-1]: Fassung gemäss Ziff. I 11 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 7
 
@@ -144,5 +193,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 12. Aug. 2021 ([AS 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), vom 20. Jan. 2022 ([AS 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)) vom 23. Jan. 2023 ([AS 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)), vom 23. Okt. 2023 ([AS 2023 601](https://fedlex.data.admin.ch/eli/oc/2023/601)) und vom 22. Okt. 2024, in Kraft seit 23. Okt. 2024 um 18 Uhr (AS **202****4** 589).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 12. Aug. 2021 ([AS 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)), vom 20. Jan. 2022 ([AS 2022 27](https://fedlex.data.admin.ch/eli/oc/2022/27)) vom 23. Jan. 2023 ([AS 2023 25](https://fedlex.data.admin.ch/eli/oc/2023/25)), vom 23. Okt. 2023 ([AS 2023 601](https://fedlex.data.admin.ch/eli/oc/2023/601)) und vom 22. Okt. 2024, in Kraft seit 23. Okt. 2024 um 18 Uhr ([AS 2024 589](https://fedlex.data.admin.ch/eli/oc/2024/589)).
 [^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/589](https://fedlex.data.admin.ch/eli/oc/2024/589) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
