@@ -3,13 +3,12 @@ canton: TG
 number: "187.153"
 title: Verordnung des Evangelischen Kirchenrates des Kantons Thurgau zum kirchlichen Stimm- und Wahlrecht
 language: de
-version: 2018-01-01
-valid_until: 2025-09-14
-version_adopted: 2017-08-16
+version: 2025-09-15
+version_adopted: 2025-08-14
 adopted: 2003-08-20
 in_force: 2003-08-20
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.153"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2935/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2937/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2935/pdf_file"
 
 V des Evang. Kirchenrates - Kirchliches Stimm- und Wahlrecht
 
-vom 20.08.2003 (Stand 01.01.2018)
+vom 20.08.2003 (Stand 15.09.2025)
 
 Erlassen vom Kirchenrat gestützt auf § 5 Abs. 2 der Verfassung der Evangelischen Landeskirche des Kantons Thurgau[^ingress-1].
 
@@ -70,7 +69,7 @@ Erlassen vom Kirchenrat gestützt auf § 5 Abs. 2 der Verfassung der Evangelisch
 
 <sup>2</sup> Der Kirchenrat kann bei erfolgtem Wegzug in begründeten Ausnahmefällen auf Antrag der Kirchenvorsteherschaft beziehungsweise der Aufsichtskommission eine weitere Amtstätigkeit bis zum Ablauf der ordentlichen vierjährigen Amtsdauer bewilligen.
 
-<sup>3</sup> Abgeordnete der Synode, die in eine andere Kirchgemeinde des Kantons wegziehen, verbleiben bis zum Ende der Amtsdauer im Amt.
+<sup>3</sup> …
 
 #### § 5
 
