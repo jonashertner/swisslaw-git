@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2025-08-20
+version: 2025-09-15
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250820/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250820-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250820/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250915-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 20 août 2025)
+du 11 novembre 2015 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -228,6 +228,16 @@ L’interdiction prévue à l’al. 2 ne s’applique pas lorsque le transfert d
 - e. des organismes publics ou des entreprises et entités qui reçoivent des contributions de la Confédération pour mener des activités humanitaires;
 - f. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à e, lorsqu’ils agissent en cette qualité.
 
+<sup>3bis</sup>
+
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’Espace économique européen ou au Royaume-Uni.[^7-2]
+
+<sup>3ter</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^7-3]
+
 <sup>4</sup>
 
 Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées aux fins suivantes:
@@ -240,7 +250,7 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
   - 1\. une décision arbitrale existante,
   - 2\. une décision administrative ou judiciaire rendue en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni ou ayant force exécutoire dans ces États;
 
-- c. mettre en œuvre le Plan d’action global commun[^7-2].
+- c. mettre en œuvre le Plan d’action global commun[^7-4].
 
 <sup>5</sup>
 
@@ -254,7 +264,9 @@ Il peut, exceptionnellement, autoriser aux fins suivantes le déblocage de certa
 <sup>6</sup> Il accorde les dérogations prévues aux al. 4 et 5 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF).
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^7-2]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) peut être consultée en français et en anglais à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Comité des sanctions &gt; Résolutions.
+[^7-2]: Introduit par le ch. I 8 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^7-3]: Introduit par le ch. I 8 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^7-4]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. La résolution 2231 (2015) peut être consultée en français et en anglais à l’adresse suivante: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Comité des sanctions &gt; Résolutions.
 
 #### Art. 7a
 
@@ -299,16 +311,19 @@ L’interdiction prévue à l’al. 1 ne s’applique pas aux navires qui ont be
 
 #### Art. 8
 
-**Obligation de déclarer les valeurs patrimoniales gelées**
+**Déclaration obligatoire des valeurs patrimoniales gelées**[^8-1]
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des fonds ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des fonds prévu à l’art. 7, al. 1, doivent les déclarer sans délai au SECO.[^8-1]
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis au gel prévu à l’art. 7, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>1bis</sup> Les personnes ou les institutions qui mettent à disposition des avoirs ou des ressources économiques aux personnes ou entités visées à l’annexe 6*a* conformément à l’art. 7*a*, al. 1, doivent le déclarer sans délai au SECO.[^8-2]
+<sup>2</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des fonds et des ressources économiques.
+<sup>3</sup> Les versements visés à l’art. 7, al. 3<sup>ter</sup>, doivent être déclarés sans délai au SECO.
 
-[^8-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
-[^8-2]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+<sup>4</sup> Les personnes et les entités qui mettent à disposition des avoirs ou des ressources économiques aux personnes ou entités visées à l’annexe 6*a* conformément à l’art. 7*a*, al. 1, doivent le déclarer sans délai au SECO.
+
+<sup>5</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.
+
+[^8-1]: Nouvelle teneur selon le ch. I 8 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Section 5 Autres restrictions
 
@@ -344,15 +359,20 @@ Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations da
 
 **Interdiction d’honorer certaines créances**
 
+<sup>1</sup>
+
 Il est interdit d’honorer les créances des personnes physiques, entreprises et entités suivantes lorsque ces créances se fondent sur un contrat ou une affaire dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures imposées par la présente ordonnance, par l’ordonnance du 19 janvier 2011 instituant des mesures à l’encontre de la République islamique d’Iran[^11-1] ou par l’ordonnance du 14 février 2007 instituant des mesures à l’encontre de la République islamique d’Iran[^11-2]:
 
 - a. les personnes ou entités iraniennes;
 - b.[^11-3] les personnes physiques, entreprises et entités visées aux annexes 6 à 7;
 - c. les personnes physiques, entreprises et entités agissant selon les instructions ou pour le compte des personnes physiques ou entités visées aux let. a ou b.
 
+<sup>2</sup> Dans toute procédure visant à faire valoir une créance, la charge de la preuve que la satisfaction de la demande n’est pas interdite par l’al. 1 incombe à la personne physique, entreprise ou entité faisant valoir la créance.[^11-4]
+
 [^11-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519), [3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789); [2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 [^11-2]: [[RO 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80); [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270), [4101](https://fedlex.data.admin.ch/eli/oc/2008/574); [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381), [3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 3 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^11-4]: Introduit par le ch. I 8 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Section 6 Exécution et dispositions pénales
 
@@ -374,11 +394,13 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 **Dispositions pénales**
 
-<sup>1</sup> Quiconque enfreint les dispositions des art. 2 à 7 ou 9 à 11 est puni conformément à l’art. 9 LEmb.
+<sup>1</sup> Quiconque viole les dispositions des art. 2 à 7, 7*b* ou 9 à 11 est puni conformément à l’art. 9 LEmb.[^13-1]
 
 <sup>2</sup> Quiconque enfreint les dispositions de l’art. 8 est puni conformément à l’art. 10 LEmb.
 
 <sup>3</sup> Le SECO poursuit et juge les infractions aux art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
+
+[^13-1]: Nouvelle teneur selon le ch. I 8 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Section 7 Publication et entrée en vigueur
 

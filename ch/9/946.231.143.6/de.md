@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2025-08-20
+version: 2025-09-15
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250820/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250820-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250820/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250915-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 20. August 2025)
+vom 11. November 2015 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -228,6 +228,16 @@ Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das 
 - e. öffentliche Stellen oder Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten;
 - f. die Beschäftigten, Beitragsempfängerinnen und -empfänger, Tochtergesellschaften oder Durchführungspartner der in den Buchstaben a−e genannten Organisationen, soweit sie in dieser Eigenschaft handeln.
 
+<sup>3bis</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem Europäischen Wirtschaftsraum oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^7-2]
+
+<sup>3ter</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfen gesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^7-3]
+
 <sup>4</sup>
 
 Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
@@ -240,7 +250,7 @@ Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermög
   - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
   - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, die in der Schweiz, in einem Mitgliedstaat des Europäischen Wirtschaftsraums oder im Vereinigten Königreich ergangen ist oder in diesen Staaten vollstreckbar ist;
 
-- c. Umsetzung des JCPOA[^7-2].
+- c. Umsetzung des JCPOA[^7-4].
 
 <sup>5</sup>
 
@@ -254,7 +264,9 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 <sup>6</sup> Es bewilligt Ausnahmen nach den Absätzen 4 und 5 nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements (EFD).
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^7-2]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution 2231 (2015) ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^7-2]: Eingefügt durch Ziff. I 8 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^7-3]: Eingefügt durch Ziff. I 8 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^7-4]: Der Text des Gemeinsamen umfassenden Aktionsplans ist in Anhang A der Resolution 2231 (2015) des Sicherheitsrats der Vereinten Nationen enthalten. Die Resolution 2231 (2015) ist auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 
 #### Art. 7a
 
@@ -299,16 +311,19 @@ Das Verbot nach Absatz 1 gilt nicht für Schiffe, die Hilfe benötigen und aus f
 
 #### Art. 8
 
-**Meldepflicht für gesperrte Vermögenswerte**
+**Meldepflicht für gesperrte Vermögenswerte**[^8-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 7 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^8-1]
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 7 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>1bis</sup> Personen und Institutionen, die nach Artikel 7*a* Absatz 1 Personen und Organisationen nach Anhang 6*a* Gelder oder wirtschaftliche Ressourcen zur Verfügung stellen, müssen dies dem SECO unverzüglich melden.[^8-2]
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten sowie Gegenstand und Wert der Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>3</sup> Gutschriften nach Artikel 7 Absatz 3<sup>ter</sup> müssen dem SECO unverzüglich gemeldet werden.
 
-[^8-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
-[^8-2]: Eingefügt durch Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+<sup>4</sup> Personen und Organisationen, die nach Artikel 7*a* Absatz 1 Personen und Organisationen nach Anhang 6*a* Gelder oder wirtschaftliche Ressourcen zur Verfügung stellen, müssen dies dem SECO unverzüglich melden.
+
+<sup>5</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^8-1]: Fassung gemäss Ziff. I 8 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## 5. Abschnitt: Weitere Beschränkungen
 
@@ -344,15 +359,20 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 **Verbot der Erfüllung bestimmter Forderungen**
 
+<sup>1</sup>
+
 Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen und Organisationen zu erfüllen, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung direkt oder indirekt durch Massnahmen nach dieser Verordnung, nach der Verordnung vom 19. Januar 2011[^11-1] über Massnahmen gegenüber der Islamischen Republik Iran oder nach der Verordnung vom 14. Februar 2007[^11-2] über Massnahmen gegenüber der Islamischen Republik Iran verhindert oder beeinträchtigt wurden:
 
 - a. iranische Personen oder Organisationen;
 - b.[^11-3] natürliche Personen, Unternehmen und Organisationen nach den Anhängen 6–7;
 - c. natürliche Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten von Personen oder Organisationen nach Buchstabe a oder b handeln.
 
+<sup>2</sup> In Verfahren zur Durchsetzung einer Forderung trägt die natürliche Person, das Unternehmen oder die Organisation, die den Anspruch geltend macht, die Beweislast dafür, dass die Erfüllung des Anspruchs nicht nach Absatz 1 verboten ist.[^11-4]
+
 [^11-1]: [[AS 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)Ziff. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 [^11-2]: [[AS 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80); [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270), [4101](https://fedlex.data.admin.ch/eli/oc/2008/574); [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381), [3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
 [^11-3]: Fassung gemäss Ziff. I der V vom 2. April 2025, in Kraft seit 3. April 2025 ([AS 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^11-4]: Eingefügt durch Ziff. I 8 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## 6. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -374,11 +394,13 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer gegen die Artikel 2–7 oder 9–11 verstösst, wird nach Artikel 9 EmbG bestraft.
+<sup>1</sup> Wer gegen die Artikel 2–7, 7*b* oder 9–11 verstösst, wird nach Artikel 9 EmbG bestraft.[^13-1]
 
 <sup>2</sup> Wer gegen Artikel 8 verstösst, wird nach Artikel 10 EmbG bestraft.
 
 <sup>3</sup> Verstösse gegen die Artikel 9 und 10 EmbG werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
+
+[^13-1]: Fassung gemäss Ziff. I 8 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## 7. Abschnitt: Veröffentlichung und Inkrafttreten
 

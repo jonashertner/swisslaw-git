@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2025-08-20
+version: 2025-09-15
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250820/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250820-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250820/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250915-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 20 agosto 2025)
+dell’11 novembre 2015 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -228,6 +228,16 @@ Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi
 - e. organismi pubblici o imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie;
 - f. membri del personale, beneficiari di sovvenzioni, organismi affiliati o partner esecutivi delle organizzazioni di cui alle lettere a−e nella misura in cui agiscono in tale veste.
 
+<sup>3bis</sup>
+
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo o nel Regno Unito.[^7-2]
+
+<sup>3ter</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^7-3]
+
 <sup>4</sup>
 
 La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione di risorse economiche bloccate se servono a:
@@ -240,7 +250,7 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
   - 1\. una decisione esistente di un tribunale arbitrale, o
   - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello Spazio economico europeo o nel Regno Unito;
 
-- c*.* attuare il JCPOA[^7-2].
+- c*.* attuare il JCPOA[^7-4].
 
 <sup>5</sup>
 
@@ -254,7 +264,9 @@ La SECO può eccezionalmente autorizzare la liberazione di determinati averi o r
 <sup>6</sup> La SECO autorizza le deroghe di cui ai capoversi 4 e 5 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF).
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
-[^7-2]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
+[^7-2]: Introdotto dalla cifra I n. 8 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^7-3]: Introdotto dalla cifra I n. 8 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^7-4]: Il testo del piano d’azione congiunto globale è contenuto nell’all. A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
 
 #### Art. 7a
 
@@ -299,16 +311,19 @@ Il divieto di cui al capoverso 1 non si applica alle navi che necessitano di ass
 
 #### Art. 8
 
-**Obbligo di dichiarazione per i valori patrimoniali bloccati**
+**Dichiarazioni obbligatorie per i valori patrimoniali bloccati**[^8-1]
 
-<sup>1</sup> Le persone[^8-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 7 capoverso 1 li dichiarano senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 7 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>1bis</sup> Le persone e le istituzioni che secondo l’articolo 7*a* capoverso 1 mettono a disposizione averi o risorse economiche alle persone o alle organizzazioni di cui all’allegato 6*a* li dichiarano senza indugio alla SECO.[^8-2]
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
 
-<sup>2</sup> Le dichiarazioni indicano i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche.
+<sup>3</sup> Gli accrediti di cui all’articolo 7 capoverso 3<sup>ter</sup> devono essere dichiarati senza indugio alla SECO.
 
-[^8-1]: N. 8 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
-[^8-2]: Introdotto dalla cifra I dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+<sup>4</sup> Le persone e le organizzazioni che secondo l’articolo 7*a* capoverso 1 mettono a disposizione averi o risorse economiche alle persone o alle organizzazioni di cui all’allegato 6*a* li dichiarano senza indugio alla SECO.
+
+<sup>5</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^8-1]: Nuovo testo giusta la cifra I n. 8 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Sezione 5: Ulteriori restrizioni
 
@@ -344,15 +359,20 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 **Divieto di soddisfare determinati crediti**
 
+<sup>1</sup>
+
 È vietato soddisfare crediti delle seguenti persone fisiche, imprese e organizzazioni se vi è correlazione tra tali crediti e un contratto o un’attività la cui esecuzione viene direttamente o indirettamente impedita od ostacolata da misure previste dalla presente ordinanza, dall’ordinanza del 19 gennaio 2011[^11-1] che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran o dall’ordinanza del 14 febbraio 2007[^11-2] che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran:
 
 - a. persone od organizzazioni iraniane;
 - b.[^11-3] persone fisiche, imprese e organizzazioni di cui agli allegati 6–7;
 - c. persone fisiche, imprese e organizzazioni che operano su incarico o a favore di persone od organizzazioni di cui alla lettera a o b.
 
+<sup>2</sup> Nelle procedure volte a far valere un credito, incombe alla persona fisica, all’impresa o all’organizzazione che fa valere la pretesa provare che il soddisfacimento della pretesa non è vietato secondo il capoverso 1.[^11-4]
+
 [^11-1]: [[RU 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)cifra I n. 1, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 [^11-2]: [[RU 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80); [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270), [4101](https://fedlex.data.admin.ch/eli/oc/2008/574); [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381), [3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
 [^11-3]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2025, in vigore dal 3 apr. 2025 ([RU 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)).
+[^11-4]: Introdotto dalla cifra I n. 8 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Sezione 6: Esecuzione e disposizioni penali
 
@@ -374,11 +394,13 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 **Disposizioni penali**
 
-<sup>1</sup> Chiunque violi gli articoli 2−7 o 9−11 della presente ordinanza è punito conformemente all’articolo 9 LEmb.
+<sup>1</sup> Chiunque violi gli articoli 2–7, 7*b* o 9–11 della presente ordinanza è punito conformemente all’articolo 9 LEmb.[^13-1]
 
 <sup>2</sup> Chiunque violi l’articolo 8 della presente ordinanza è punito conformemente all’articolo 10 LEmb.
 
 <sup>3</sup> Le infrazioni agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può disporre sequestri o confische.
+
+[^13-1]: Nuovo testo giusta la cifra I n. 8 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Sezione 7: Pubblicazione ed entrata in vigore
 
