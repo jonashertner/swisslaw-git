@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2025-08-12
+version: 2025-09-15
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250812/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250812-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250812/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 12. August 2025)
+vom 16. März 2022 (Stand am 15. September 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -603,52 +603,80 @@ Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder unter direkter 
 
 <sup>2bis</sup> Absatz 1 gilt nicht, wenn die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen erforderlich ist für die Entgegennahme und die Gutschrift von Überweisungen in die Schweiz oder innerhalb der Schweiz, bei denen ein Unternehmen oder eine Organisation nach Absatz 1 als sendende oder zwischengeschaltete Bank an der Überweisung beteiligt ist, sofern die Überweisung zwischen natürlichen Personen, Unternehmen oder Organisationen erfolgt, die nicht unter Absatz 1 fallen.[^12-1]
 
+<sup>2ter</sup> Das Verbot nach Absatz 2 gilt nicht, wenn die Überweisung von Geldern oder das Zurverfügungstellen von Geldern oder wirtschaftlichen Ressourcen erforderlich ist zur Durchführung humanitärer Aktivitäten durch öffentliche Stellen oder durch Unternehmen und Organisationen, die für die Durchführung humanitärer Aktivitäten Beiträge des Bundes erhalten.[^12-2]
+
+<sup>2quater</sup>
+
+Sofern die gutgeschriebenen Beträge ebenfalls gesperrt werden, gilt das Verbot nach Absatz 2 nicht für die Gutschrift auf gesperrte Konten von:
+
+- a. Zinsen und sonstigen Erträgen dieser Konten;
+- b. Zahlungen aufgrund von bestehenden Verträgen;
+- c. Zahlungen aufgrund von schiedsgerichtlichen Entscheidungen oder von in der Schweiz, dem EWR oder dem Vereinigten Königreich ergangenen oder darin vollstreckbaren gerichtlichen oder behördlichen Entscheidungen.[^12-3]
+
+<sup>2quinquies</sup> Gelder, die von Dritten an natürliche Personen, Unternehmen oder Organisationen nach Absatz 1 überwiesen werden, dürfen gesperrten Konten gutgeschrieben werden, sofern die auf diesen Konten gutgeschriebenen Beträge ebenfalls gesperrt werden.[^12-4]
+
 <sup>3</sup>
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen bewilligen zur:[^12-2]
+Das SECO kann Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte und die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
-- a. Vermeidung von Härtefällen;
-- b. Erfüllung bestehender Verträge;
-- c. Erfüllung amtlicher Zwecke von belarussischen diplomatischen oder konsularischen Vertretungen;
-- d. Erfüllung von Forderungen, die Gegenstand einer bestehenden Entscheidung eines Gerichts, einer Verwaltungsstelle oder eines Schiedsgerichts sind;
-- e. Wahrung schweizerischer Interessen.
+- a. Erfüllung bestehender Verträge;
+- b.
+
+  Erfüllung von Forderungen, die Gegenstand sind:
+
+  - 1\. einer bestehenden Entscheidung eines Schiedsgerichts, oder
+  - 2\. einer Entscheidung einer Verwaltungsstelle oder eines Gerichts, welche in der Schweiz, einem Mitgliedstaat des EWR oder dem Vereinigten Königreich ergangen oder vollstreckbar ist.[^12-5]
 
 <sup>4</sup>
 
-Es kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für:
+Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen oder das Zurverfügungstellen bestimmter Gelder oder wirtschaftlicher Ressourcen an eine natürliche Person, ein Unternehmen oder eine Organisation nach Absatz 1 ausnahmsweise bewilligen:
 
-- a. humanitäre Zwecke, einschliesslich der Durchführung von Flügen zur Evakuierung oder Rückbeförderung von Personen oder zur Unterstützung von Opfern von Natur- oder Nuklearkatastrophen oder von Chemieunfällen;
-- b. Flüge im Rahmen internationaler Adoptionsverfahren;
-- c.
+- a. zur Vermeidung von Härtefällen;
+- b. zur Wahrung schweizerischer Interessen;
+- c. zur Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen;
+- d. für humanitäre Zwecke, einschliesslich der Durchführung von Flügen zur Evakuierung oder Rückführung von Personen sowie Aktivitäten zur Unterstützung von Opfern von Natur- oder Nuklearkatastrophen oder von Chemieunfällen;
+- e. für Flüge im Rahmen internationaler Adoptionsverfahren;
+- f.
 
-  Flüge, die für die Teilnahme an Treffen erforderlich sind, die zum Ziel haben:
+  für Flüge, die für die Teilnahme an Treffen erforderlich sind, die zum Ziel haben:
 
   - 1\. eine Lösung der Krise in Belarus zu erreichen, oder
   - 2\. die mit den Zwangsmassnahmen verfolgten politischen Ziele zu unterstützen;
 
-- d. Notlandungen, Notstarts oder Notüberflüge von Luftfahrzeugen eines Luftfahrtunternehmens aus der Schweiz oder der EU; oder
-- e. Angelegenheiten, welche die Flugsicherheit betreffen.
+- g. für Notlandungen, Notstarts oder Notüberflüge von Luftfahrzeugen eines Luftfahrtunternehmens aus der Schweiz oder der EU;
+- h für Angelegenheiten, welche die Flugsicherheit betreffen.[^12-6]
+
+<sup>4bis</sup> Es bewilligt Ausnahmen nach den Absätzen 3 und 4 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD.[^12-7]
 
 <sup>5</sup>
 
 Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourcen, die sich im Eigentum oder unter der Kontrolle von natürlichen Personen, Unternehmen und Organisationen nach Anhang 13 befinden, oder die Erbringung von Dienstleistungen für solche natürliche Personen, Unternehmen oder Organisationen bewilligen, wenn es festgestellt hat, dass dies unbedingt erforderlich ist für die Errichtung, Zertifizierung oder Bewertung eines Systems, mit dem:
 
 - a. die Kontrolle aufgehoben wird, die von einer natürlichen Person, einem Unternehmen oder einer Organisation gemäss Anhang 13 ausgeübt wird über die Vermögenswerte einer nach Schweizer Recht oder dem Recht eines EWR‑Mitgliedstaates gegründeten oder eingetragenen Organisation oder eines Unternehmens, die oder das nicht in Anhang 13 aufgeführt ist und sich im Eigentum einer der Erstgenannten befindet oder von ihr kontrolliert wird; und
-- b. sichergestellt wird, dass der natürlichen Person, dem Unternehmen oder der Organisation nach Buchstabe a keine weiteren Gelder oder wirtschaftlichen Ressourcen zugutekommen.[^12-3]
+- b. sichergestellt wird, dass der natürlichen Person, dem Unternehmen oder der Organisation nach Buchstabe a keine weiteren Gelder oder wirtschaftlichen Ressourcen zugutekommen.[^12-8]
 
 [^12-1]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 1. Juni 2025 ([AS 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^12-2]: Fassung gemäss Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^12-3]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^12-2]: Eingefügt durch Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-3]: Eingefügt durch Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-4]: Eingefügt durch Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-5]: Fassung gemäss Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-6]: Fassung gemäss Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-7]: Eingefügt durch Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-8]: Eingefügt durch Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 #### Art. 13
 
-**Meldepflichten betreffend die Sperrung von Geldern und wirtschaftlichen Ressourcen**
+**Meldepflichten betreffend die Sperrung von Geldern und wirtschaftlichen Ressourcen**[^13-1]
 
-<sup>1</sup> Personen und Institutionen, die Gelder halten oder verwalten oder von wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 12 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.[^13-1]
+<sup>1</sup> Personen und Organisationen, die Gelder halten oder verwalten oder von Geldern oder wirtschaftlichen Ressourcen wissen, von denen anzunehmen ist, dass sie unter die Sperrung nach Artikel 12 Absatz 1 fallen, müssen dies dem SECO unverzüglich melden.
 
-<sup>2</sup> Die Meldungen müssen die Namen der Begünstigten, die Art und den Wert der gesperrten Gelder und wirtschaftlichen Ressourcen enthalten.
+<sup>2</sup> Finanzinstitute, die dem SECO gemäss Absatz 1 von ihnen gehaltene oder verwaltete Gelder gemeldet haben, müssen dem SECO jährlich bis zum 15. Februar die Beträge per 31. Dezember des Vorjahres übermitteln.
 
-[^13-1]: Die Berichtigung vom 15. März 2024 betrifft nur den italienischen Text ([AS 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Gutschriften nach Artikel 12 Absatz 2<sup>quinquies</sup> müssen dem SECO unverzüglich gemeldet werden.
+
+<sup>4</sup> Die Meldungen müssen die Namen der Begünstigten, Gegenstand und Wert der gesperrten Gelder und wirtschaftlichen Ressourcen sowie bei Gutschriften die Namen der Aussteller enthalten.
+
+[^13-1]: Fassung gemäss Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 14
 
@@ -958,6 +986,8 @@ Das Staatssekretariat für Migration (SEM) kann Ausnahmen gewähren:
 
 **Verbot der Erfüllung bestimmter Forderungen[^27-1]**
 
+<sup>1</sup>
+
 Die Erfüllung von Forderungen folgender Institutionen, Personen, Unternehmen und Organisationen ist verboten, wenn sie auf einen Vertrag oder ein Geschäft zurückzuführen sind, dessen Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde:
 
 - a. Belarus, seiner Regierung oder seinen öffentlichen Einrichtungen, Unternehmen oder Agenturen;
@@ -965,7 +995,10 @@ Die Erfüllung von Forderungen folgender Institutionen, Personen, Unternehmen un
 - c. natürlichen Personen, Unternehmen und Organisationen gemäss Anhang 13;
 - d. natürlichen Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten einer Person, Unternehmung oder Organisation nach den Buchstaben a–c handeln.
 
+<sup>2</sup> In Verfahren zur Durchsetzung einer Forderung trägt die natürliche Person, das Unternehmen oder die Organisation, die den Anspruch geltend macht, die Beweislast dafür, dass die Erfüllung des Anspruchs nicht nach Absatz 1 verboten ist.[^27-2]
+
 [^27-1]: Fassung gemäss Ziff. I der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^27-2]: Eingefügt durch Ziff. I 3 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen, in Kraft seit 15. Sept. 2025 ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## 4*a*. Abschnitt: Ausnahmebewilligungen für den Abzug von Investitionen aus Belarus
 

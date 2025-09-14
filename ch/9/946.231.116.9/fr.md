@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2025-08-12
+version: 2025-09-15
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250812/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250812-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250812/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 12 août 2025)
+du 16 mars 2022 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -601,52 +601,80 @@ Les avoirs et les ressources économiques qui sont la propriété ou sous le con
 
 <sup>2bis</sup> L’al. 1 ne s’applique pas lorsque le déblocage de certains avoirs ou ressources économiques est nécessaire pour recevoir et créditer des virements vers la Suisse ou en Suisse pour lesquels une entreprise ou une entité visée à l’al. 1 agit en tant que banque émettrice ou intermédiaire, si le virement a lieu entre des personnes physiques, des entreprises ou des entités qui ne sont pas visées à l’al. 1.[^12-1]
 
+<sup>2ter</sup> L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à l’exécution d’activités humanitaires par des organismes publics ou des entreprises et entités qui reçoivent des contributions de la Confédération pour mener des activités humanitaires.[^12-2]
+
+<sup>2quater</sup>
+
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’EEE ou au Royaume-Uni.[^12-3]
+
+<sup>2quinquies</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^12-4]
+
 <sup>3</sup>
 
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin: [^12-2]
+Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
 
-- a. de prévenir des cas de rigueur;
-- b. d’honorer des contrats existants;
-- c. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires du Bélarus;
-- d. d’honorer des créances en application d’une décision judiciaire, administrative ou arbitrale;
-- e. de sauvegarder des intérêts suisses.
+- a. honorer des contrats existants;
+- b.
+
+  honorer des créances en application:
+
+  - 1\. d’une décision arbitrale existante, ou
+  - 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’EEE ou au Royaume-Uni.[^12-5]
 
 <sup>4</sup>
 
-Il peut, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations aux interdictions prévues aux al. 1 et 2 pour:
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques en faveur d’une personne physique, entreprise ou entité visée à l’al. 1 pour:
 
-- a. des activités humanitaires, y compris l’exploitation de vols pour l’évacuation ou le rapatriement de personnes ou l’assistance aux victimes de catastrophes naturelles, nucléaires ou chimiques;
-- b. des vols dans le cadre de procédures d’adoption internationales;
-- c.
+- a. prévenir des cas de rigueur;
+- b. sauvegarder des intérêts suisses;
+- c. permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires ou d’organisations internationales jouissant d’immunités conformément au droit international;
+- d. des activités humanitaires, y compris l’exploitation de vols pour l’évacuation ou le rapatriement de personnes ou l’assistance aux victimes de catastrophes naturelles, nucléaires ou chimiques;
+- e. des vols dans le cadre de procédures d’adoption internationales;
+- f.
 
   les vols qui sont nécessaires pour participer à des réunions visant:
 
-  - 1\. à trouver une solution à la crise au Bélarus ou
+  - 1\. à trouver une solution à la crise au Bélarus, ou
   - 2\. à servir les objectifs stratégiques des mesures de coercition;
 
-- d. des atterrissages, décollages ou survols d’urgence par un transporteur aérien de Suisse ou de l’UE, ou
-- e. des affaires en lien avec la sécurité aérienne.
+- g. des atterrissages, décollages ou survols d’urgence par un transporteur aérien de Suisse ou de l’UE;
+- h. des affaires en lien avec la sécurité aérienne.[^12-6]
+
+<sup>4bis</sup> Il délivre les autorisations prévues aux al. 3 et 4 après avoir consulté les services compétents du DFAE et du DFF.[^12-7]
 
 <sup>5</sup>
 
 Il peut autoriser le déblocage de certains avoirs ou ressources économiques gelés appartenant à une personne physique, une entreprise ou une entité visée à l’annexe 13 ou contrôlés par cette personne physique, cette entreprise ou cette entité, ou la fourniture de services à cette personne physique, cette entreprise ou cette entité, après avoir établi que cela est strictement nécessaire à la mise en place, à la certification ou à l’évaluation d’un système:
 
 - a. qui supprime le contrôle qu’une personne physique, une entreprise ou une entité visée à l’annexe 13 exerce sur les actifs d’une entité ou d’une entreprise non visée à ladite annexe, qui est établie ou constituée selon le droit suisse ou le droit d’un État membre de l’EEE et qui est détenue ou contrôlée par la personne physique, l’entreprise ou l’entité précitée, et
-- b. qui garantit qu’aucun autre avoir ni aucune autre ressource économique ne reviendra à la personne physique, à l’entreprise ou à l’entité visée à la let. a.[^12-3]
+- b. qui garantit qu’aucun autre avoir ni aucune autre ressource économique ne reviendra à la personne physique, à l’entreprise ou à l’entité visée à la let. a.[^12-8]
 
 [^12-1]: Introduit par le ch. I de l’O du 14 mai 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^12-3]: Introduit par le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^12-2]: Introduit par le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-3]: Introduit par le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-4]: Introduit par le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-5]: Nouvelle teneur selon le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-6]: Nouvelle teneur selon le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-7]: Introduit par le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-8]: Introduit par le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 #### Art. 13
 
-**Déclaration obligatoire concernant le gel d’avoirs et de ressources économiques**
+**Déclaration obligatoire concernant le gel d’avoirs et de ressources économiques**[^13-1]
 
-<sup>1</sup> Les personnes et les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il y a lieu de penser qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 12, al. 1, doivent le déclarer sans délai au SECO.[^13-1]
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis au gel d’avoirs et de ressources économiques prévu à l’art. 12, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, le type et la valeur des avoirs et des ressources économiques gelés.
+<sup>2</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
 
-[^13-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Les versements visés à l’art. 12, al. 2<sup>quinquies</sup>, doivent être déclarés sans délai au SECO.
+
+<sup>4</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.
+
+[^13-1]: Nouvelle teneur selon le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 14
 
@@ -956,6 +984,8 @@ Le Secrétariat d’État aux migrations (SEM) peut accorder des dérogations:
 
 **Interdiction d’honorer certaines créances[^27-1]**
 
+<sup>1</sup>
+
 L’acquittement de créances des institutions, personnes physiques, entreprises et entités suivantes est interdit lorsque ces créances se fondent sur un contrat ou une opération dont l’exécution a été empêchée ou affectée directement ou indirectement par des mesures imposées en vertu de la présente ordonnance:
 
 - a. le Bélarus, son gouvernement et ses organismes, entreprises et agences publics;
@@ -963,7 +993,10 @@ L’acquittement de créances des institutions, personnes physiques, entreprises
 - c. les personnes physiques, entreprises et entités visées à l’annexe 13;
 - d. les personnes physiques, entreprises et entités agissant au nom ou selon les instructions d’une personne physique, entreprise ou entité visée aux let. a à c.
 
+<sup>2</sup> Dans toute procédure visant à faire valoir une créance, la charge de la preuve que la satisfaction de la demande n’est pas interdite par l’al. 1 incombe à la personne physique, entreprise ou entité faisant valoir la créance.[^27-2]
+
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^27-2]: Introduit par le ch. I 3 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Section 4*a* Autorisations exceptionnelles pour la cession d’actifs au Bélarus
 

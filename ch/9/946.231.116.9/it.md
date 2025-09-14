@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2025-08-12
+version: 2025-09-15
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250812/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250812-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250812/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 12 agosto 2025)
+del 16 marzo 2022 (Stato 15 settembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -602,52 +602,80 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>2bis</sup> Il capoverso 1 non si applica se la liberazione di determinati averi o risorse economiche bloccati è necessaria per ricevere e accreditare bonifici verso la Svizzera o all’interno della Svizzera in cui un’impresa o un’organizzazione di cui al capoverso 1 è coinvolta nel trasferimento in qualità di banca mittente o intermediaria, a condizione che il trasferimento avvenga tra persone fisiche, imprese o organizzazioni non soggette al capoverso 1.[^12-1]
 
+<sup>2ter</sup> Il divieto di cui al capoverso 2 non si applica quando il trasferimento di averi o la messa a disposizione di averi o risorse economiche sono necessari per lo svolgimento di attività umanitarie da parte di organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione a tale scopo.[^12-2]
+
+<sup>2quater</sup>
+
+A condizione che anche gli importi accreditati siano bloccati, il divieto di cui al capoverso 2 non si applica all’accredito su conti bloccati di:
+
+- a. interessi e altri redditi di tali conti;
+- b. pagamenti effettuati in base a contratti esistenti;
+- c. pagamenti effettuati in base a decisioni arbitrali oppure a decisioni giudiziarie o amministrative emanate o eseguibili in Svizzera, nello Spazio economico europeo (SEE) o nel Regno Unito.[^12-3]
+
+<sup>2quinquies</sup> Gli averi trasferiti da terzi a persone fisiche, imprese o organizzazioni di cui al capoverso 1 possono essere accreditati su conti bloccati a condizione che anche gli importi accreditati su questi conti siano bloccati.[^12-4]
+
 <sup>3</sup>
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati, nonché la liberazione delle risorse economiche bloccate per:[^12-2]
+La SECO può, in via eccezionale, autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati e la liberazione delle risorse economiche bloccate per:
 
-- a. prevenire casi di rigore;
-- b. rispettare contratti esistenti;
-- c. adempiere gli scopi ufficiali di rappresentanze diplomatiche o consolari bielorusse;
-- d. soddisfare crediti in applicazione di una decisione giudiziaria, amministrativa o arbitrale;
-- e. tutelare interessi svizzeri.
+- a. rispettare contratti esistenti;
+- b.
+
+  soddisfare crediti in applicazione di:
+
+  - 1\. una decisione esistente di un tribunale arbitrale, oppure
+  - 2\. una decisione di un’autorità amministrativa o giudiziaria emanata o eseguibile in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.[^12-5]
 
 <sup>4</sup>
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per:
+In via eccezionale può autorizzare la liberazione di determinati averi o risorse economiche bloccati oppure la messa a disposizione di determinati averi o risorse economiche alle persone fisiche, imprese o organizzazioni di cui al capoverso 1 per:
 
-- a. scopi umanitari, inclusi i voli per l’evacuazione o il rimpatrio di persone, o per sostenere le vittime di disastri naturali, nucleari o chimici;
-- b. effettuare voli nell’ambito di procedure di adozione internazionali;
-- c.
+- a. prevenire casi di rigore;
+- b. tutelare interessi svizzeri;
+- c. svolgere attività ufficiali delle rappresentanze diplomatiche o consolari oppure di organizzazioni internazionali che godono di immunità conformemente al diritto internazionale;
+- d. perseguire scopi umanitari, inclusi i voli per l’evacuazione o il rimpatrio di persone, o attività di sostegno alle vittime di disastri naturali, nucleari o chimici;
+- e. effettuare voli nell’ambito di procedure di adozione internazionali;
+- f.
 
   effettuare voli necessari per partecipare a riunioni finalizzate a:
 
-  - 1\. risolvere la crisi in Bielorussia, oppure
+  - 1\. risolvere la crisi in Bielorussia, o
   - 2\. promuovere gli obiettivi politici perseguiti con le misure coercitive;
 
-- d. consentire, in situazioni d’emergenza, l’atterraggio, il decollo o il sorvolo di un vettore aereo della Svizzera o dell’UE; oppure
-- e. trattare questioni riguardanti la sicurezza aerea.
+- g. consentire, in situazioni d’emergenza, l’atterraggio, il decollo o il sorvolo di un vettore aereo della Svizzera o dell’UE;
+- h. trattare questioni riguardanti la sicurezza aerea.[^12-6]
+
+<sup>4bis</sup> Autorizza le deroghe di cui ai capoversi 3 e 4 d’intesa con i servizi competenti del DFAE e del DFF.[^12-7]
 
 <sup>5</sup>
 
 La SECO può autorizzare la liberazione di determinati averi o risorse economiche bloccati di proprietà o sotto il controllo di persone fisiche, imprese od organizzazioni elencate nell’allegato 13, o la fornitura di servizi per tali persone fisiche, imprese od organizzazioni, dopo aver stabilito che ciò è strettamente necessario per l’istituzione, la certificazione o la valutazione di un sistema che:
 
 - a. elimini il controllo, da parte di una persona fisica, di un’impresa o di un’organizzazione di cui all’allegato 13, sui valori patrimoniali di un’organizzazione o di un’impresa non elencata nell’allegato 13, che sia costituita o registrata secondo il diritto svizzero o il diritto di uno Stato dello SEE e posseduta o controllata da tale persona fisica, impresa od organizzazione; e
-- b. garantisca che nessun ulteriore avere o nessuna ulteriore risorsa economica vada a beneficio della persona fisica, dell’impresa o dell’organizzazione di cui alla lettera a.[^12-3]
+- b. garantisca che nessun ulteriore avere o nessuna ulteriore risorsa economica vada a beneficio della persona fisica, dell’impresa o dell’organizzazione di cui alla lettera a.[^12-8]
 
 [^12-1]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 1° giu. 2025 ([RU 2025 316](https://fedlex.data.admin.ch/eli/oc/2025/316)).
-[^12-2]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^12-3]: Introdotto dalla cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^12-2]: Introdotto dalla cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-3]: Introdotto dalla cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-4]: Introdotto dalla cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-5]: Nuovo testo giusta la cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-6]: Nuovo testo giusta la cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-7]: Introdotto dalla cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^12-8]: Introdotto dalla cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
 
 #### Art. 13
 
-**Obbligo di notifica relativo al blocco degli averi e delle risorse economiche**
+**Dichiarazioni obbligatorie per gli averi e le risorse economiche bloccati**[^13-1]
 
-<sup>1</sup> Le persone[^13-1] e le istituzioni che detengono o amministrano averi oppure sono a conoscenza di risorse economiche presumibilmente soggette al blocco di cui all’articolo 12 capoverso 1 devono notificarlo senza indugio alla SECO.
+<sup>1</sup> Le persone e le organizzazioni che detengono o amministrano averi oppure sono a conoscenza di averi o risorse economiche presumibilmente rientranti nel campo d’applicazione del blocco di cui all’articolo 12 capoverso 1 devono dichiararlo senza indugio alla SECO.
 
-<sup>2</sup> Le comunicazioni devono indicare i nomi dei beneficiari, nonché il genere e il valore degli averi e delle risorse economiche bloccati.
+<sup>2</sup> Gli istituti finanziari che, conformemente al capoverso 1, hanno dichiarato alla SECO averi da essi detenuti o amministrati, devono comunicare alla SECO entro il 15 febbraio di ogni anno gli importi registrati al 31 dicembre dell’anno precedente.
 
-[^13-1]: N. 2 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Gli accrediti di cui all’articolo 12 capoverso 2<sup>quinquies</sup> devono essere dichiarati senza indugio alla SECO.
+
+<sup>4</sup> Le dichiarazioni devono indicare i nomi dei beneficiari, l’oggetto e il valore degli averi e delle risorse economiche bloccati nonché, per gli accrediti, i nomi degli ordinanti.
+
+[^13-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 14
 
@@ -957,6 +985,8 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 
 **Divieto di soddisfare determinati crediti[^27-1]**
 
+<sup>1</sup>
+
 È vietato soddisfare crediti delle seguenti istituzioni, persone, imprese e organizzazioni se sono riconducibili a un contratto o a un’attività la cui esecuzione viene impedita o pregiudicata direttamente o indirettamente da misure previste dalla presente ordinanza:
 
 - a. la Bielorussia, il suo governo o i suoi enti, imprese o agenzie pubblici;
@@ -964,7 +994,10 @@ La Segreteria di Stato della migrazione (SEM) può concedere deroghe:
 - c. le persone fisiche, imprese e organizzazioni di cui all’allegato 13;
 - d. le persone fisiche, imprese e organizzazioni che agiscono su incarico o in favore delle persone, imprese e organizzazioni di cui alle lettere a–c.
 
+<sup>2</sup> Nelle procedure volte a far valere un credito, incombe alla persona fisica, all’impresa o all’organizzazione che fa valere la pretesa provare che il soddisfacimento della pretesa non è vietato secondo il capoverso 1.[^27-2]
+
 [^27-1]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
+[^27-2]: Introdotto dalla cifra I n. 3 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni, in vigore dal 15 set. 2025 ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 ## Sezione 4*a*: Deroghe per disinvestire dalla Bielorussia
 
