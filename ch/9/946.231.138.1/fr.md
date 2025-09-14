@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: "Ordonnance du 24 février 2010 instituant des mesures à l'encontre de la Guinée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: fr
-version: 2024-03-15
+version: 2025-09-15
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2010-117-20240315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20240315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2010-117-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Guinée
 
-du 24 février 2010 (État le 15 mars 2024)
+du 24 février 2010 (État le 15 septembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 2 de la loi du 22 mars 2002 sur les embargos (LEmb)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^ingress-1]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 ## Section 1 Mesures de coercition
 
@@ -40,7 +40,50 @@ arrête:
 
 <sup>2</sup> Il est interdit de fournir des avoirs aux personnes physiques, entreprises et entités visées par le gel des avoirs ou de mettre à leur disposition, directement ou indirectement, des avoirs ou des ressources économiques.
 
-<sup>3</sup> Le SECO peut, exceptionnellement, après avoir consulté les services compétents du DFAE et du Département fédéral des finances, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin de protéger des intérêts suisses ou de prévenir des cas de rigueur.
+<sup>3</sup>
+
+L’interdiction prévue à l’al. 2 ne s’applique pas lorsque la fourniture des avoirs ou la mise à disposition des avoirs ou des ressources économiques est nécessaire à l’exécution d’activités humanitaires ou à d’autres activités visant à répondre aux besoins essentiels des personnes par:
+
+- a. l’Organisation des Nations Unies, y compris ses programmes, fonds et autres entités et organes, ainsi que ses institutions spécialisées et organisations apparentées;
+- b. des organisations internationales;
+- c. les organisations humanitaires dotées du statut d’observateur auprès de l’Assemblée générale des Nations Unies et les membres de ces organisations;
+- d. les organisations non gouvernementales bénéficiant d’un financement bilatéral ou multilatéral qui participent aux plans d’aide humanitaire des Nations Unies, aux plans d’aide aux réfugiés, à d’autres appels à contributions des Nations Unies ou aux structures humanitaires coordonnées par le Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA);
+- e. des organismes publics ou des entreprises et entités qui reçoivent des contributions de la Confédération pour mener des activités humanitaires et qui ne sont pas visés aux let. a à d;
+- f. les employés, bénéficiaires, organes subsidiaires ou partenaires de réalisation des entités mentionnées aux let. a à e, lorsqu’ils agissent en cette qualité.[^2-1]
+
+<sup>4</sup>
+
+Pour autant que les montants crédités soient également bloqués, l’interdiction prévue à l’al. 2 ne s’applique pas au versement sur les comptes bloqués:
+
+- a. d’intérêts ou d’autres rémunérations de ces comptes;
+- b. de paiements dus en vertu de contrats existants;
+- c. de paiements dus en vertu de décisions arbitrales ou de décisions judiciaires ou administratives rendues ou exécutoires en Suisse, dans l’Espace économique européen ou au Royaume-Uni.[^2-2]
+
+<sup>5</sup> Les avoirs versés par des tiers à des personnes physiques, entreprises ou entités visées à l’al. 1 peuvent être portés au crédit de comptes bloqués, pour autant que les montants crédités sur ces comptes soient également bloqués.[^2-3]
+
+<sup>6</sup>
+
+Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour honorer des créances en application:
+
+- a. d’une décision arbitrale existante, ou
+- b. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni.[^2-4]
+
+<sup>7</sup>
+
+Il peut, exceptionnellement, autoriser le déblocage de certains avoirs ou ressources économiques gelés ou la mise à disposition de certains avoirs ou ressources économiques en faveur d’une personne physique, entreprise ou entité visée à l’al. 1 pour:
+
+- a. prévenir des cas de rigueur;
+- b. mener des activités humanitaires ou d’autres activités, si ces activités sont nécessaires pour répondre aux besoins essentiels des personnes;
+- c. sauvegarder des intérêts suisses.[^2-5]
+
+<sup>8</sup> Il délivre les autorisations prévues aux al. 6 et 7 après avoir consulté les services compétents du Département fédéral des affaires étrangères et du Département fédéral des finances.[^2-6]
+
+[^2-1]: Nouvelle teneur selon le ch. I 6 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-2]: Introduit par le ch. I 6 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-3]: Introduit par le ch. I 6 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-4]: Introduit par le ch. I 6 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-5]: Introduit par le ch. I 6 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
+[^2-6]: Introduit par le ch. I 6 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 3
 
@@ -80,17 +123,21 @@ Au sens de la présente ordonnance, on entend par:
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3709](https://fedlex.data.admin.ch/eli/oc/2014/644)).
-[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
-**Déclaration obligatoire**
+**Déclaration obligatoire**[^6-1]
 
-<sup>1</sup> Les personnes ou les institutions qui détiennent ou gèrent des avoirs ou qui ont connaissance de ressources économiques dont il faut admettre qu’ils tombent sous le coup du gel des avoirs prévu à l’art. 2, al. 1 doivent le déclarer sans délai au SECO.[^6-1]
+<sup>1</sup> Les personnes et les entités qui détiennent ou gèrent des avoirs ou qui ont connaissance d’avoirs ou de ressources économiques dont il faut admettre qu’ils sont soumis au gel prévu à l’art. 2, al. 1, doivent le déclarer sans délai au SECO.
 
-<sup>2</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés.
+<sup>2</sup> Les établissements financiers qui, conformément à l’al. 1, ont déclaré au SECO les avoirs qu’ils détiennent ou qu’ils gèrent doivent transmettre chaque année au SECO, au plus tard le 15 février, le montant de ces avoirs au 31 décembre de l’année précédente.
 
-[^6-1]: Erratum du 15 mars 2024, ne concerne que le texte italien ([RO 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)).
+<sup>3</sup> Les versements visés à l’art. 2, al. 5, doivent être déclarés sans délai au SECO.
+
+<sup>4</sup> La déclaration doit mentionner le nom du bénéficiaire, l’objet et la valeur des avoirs et des ressources économiques gelés, et, pour les versements, le nom de l’émetteur.
+
+[^6-1]: Nouvelle teneur selon le ch. I 6 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions, en vigueur depuis le 15 sept. 2025 ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)).
 
 #### Art. 7
 
