@@ -3,11 +3,11 @@ sr: "414.155"
 title: Ordinanza del Politecnico federale di Losanna del 2 agosto 2021 sulle borse di studio (Ordinanza del PFL sulle borse di studio)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/484"
 language: it
-version: 2021-09-15
+version: 2025-09-15
 adopted: 2021-08-02
 in_force: 2021-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20210915/it/xml/fedlex-data-admin-ch-eli-cc-2021-484-20210915-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20210915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2021-484-20250915-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20210915/it"
 
 (Ordinanza del PFL sulle borse di studio)
 
-del 2 agosto 2021 (Stato 15 settembre 2021)
+del 2 agosto 2021 (Stato 15 settembre 2025)
 
 La direzione del Politecnico federale di Losanna,
 
@@ -24,7 +24,7 @@ visto l’articolo 25 dell’ordinanza PFZ-PFL del 13 novembre 2003[^ingress-1]
 
 ordina:
 
-[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6696)
 
 ## Sezione 1: Disposizioni generali
 
@@ -93,8 +93,8 @@ Sono in seguito attribuite a partire dal terzo semestre di studio presso il PFL 
 - a. agli studenti che, prima di iniziare gli studi presso il PFL, risiedevano in un Paese beneficiario dell’aiuto pubblico allo sviluppo secondo l’elenco redatto dall’Organizzazione per la cooperazione e lo sviluppo economico (OCSE)[^6-2];
 - b. agli altri studenti.
 
-[^6-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
-[^6-2]: L’elenco può essere consultato al seguente indirizzo : [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD : pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
+[^6-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
+[^6-2]: L’elenco può essere consultato al seguente indirizzo: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD: pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
 
 #### Art. 7
 
@@ -134,9 +134,11 @@ Per attribuire le borse sociali, il vicepresidente per gli affari accademici si 
 
 <sup>1</sup> Il PFL determina ogni anno l’importo totale messo a disposizione per l’attribuzione delle borse sociali.
 
-<sup>2</sup> L’importo massimo mensile attribuito a un beneficiario ammonta a 2100 franchi.
+<sup>2</sup> L’importo massimo mensile attribuito a un beneficiario ammonta a 2600 franchi.[^11-1]
 
 <sup>3</sup> Il vicepresidente per gli affari accademici fissa l’importo in funzione della situazione sociale, famigliare e finanziaria del beneficiario e delle persone tenute al suo mantenimento.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del Direzione dell’PFL del 12 ago. 2025 sulle borse di studio, in vigore dal 15 set. 2025 ([RU 2025 519](https://fedlex.data.admin.ch/eli/oc/2025/519)).
 
 #### Art. 12
 
@@ -176,7 +178,7 @@ Le persone che hanno richiesto l’ammissione a un ciclo di studio bachelor del 
 
 <sup>2</sup> Le persone che hanno richiesto l’ammissione a un ciclo di studio master del PFL possono candidarsi a una borsa d’eccellenza per tale ciclo.
 
-[^14-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^14-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
 
 #### Art. 15
 

@@ -3,11 +3,11 @@ sr: "414.155"
 title: Verordnung der Eidgenössischen Technischen Hochschule Lausanne vom 2. August 2021 über die Stipendien (Stipendienverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/484"
 language: de
-version: 2021-09-15
+version: 2025-09-15
 adopted: 2021-08-02
 in_force: 2021-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20210915/de/xml/fedlex-data-admin-ch-eli-cc-2021-484-20210915-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20210915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2021-484-20250915-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20210915/de"
 
 (Stipendienverordnung ETHL)
 
-vom 2. August 2021 (Stand am 15. September 2021)
+vom 2. August 2021 (Stand am 15. September 2025)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne,
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 25 der ETHZ-ETHL-Verordnung vom 13. November 2003[^ingress
 
 verordnet:
 
-[^ingress-1]: [SR 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+[^ingress-1]: [SR 414.110.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6696)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -93,8 +93,8 @@ Danach werden die Sozialstipendien ab dem dritten Studiensemester an der ETHL na
 - a. an Studierende, die vor der Aufnahme ihres Studiums an der ETHL in einem Land wohnten, das gemäss der Liste der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung[^6-2] öffentliche Entwicklungshilfe erhält;
 - b. an andere Studierende.
 
-[^6-1]: [SR 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
-[^6-2]: Die Liste kann eingesehen werden unter: [www . oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD : pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
+[^6-1]: [SR 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
+[^6-2]: Die Liste kann eingesehen werden unter: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD : pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
 
 #### Art. 7
 
@@ -134,9 +134,11 @@ Bei der Vergabe der Sozialstipendien berücksichtigt die Vizepräsidentin oder d
 
 <sup>1</sup> Die ETHL legt jährlich den Gesamtbetrag fest, der für die Sozialstipendien zur Verfügung steht.
 
-<sup>2</sup> Der monatlich gewährte Höchstbetrag pro Empfängerin oder Empfänger beläuft sich auf 2100 Franken.
+<sup>2</sup> Der monatlich gewährte Höchstbetrag pro Empfängerin oder Empfänger beläuft sich auf 2600 Franken.[^11-1]
 
 <sup>3</sup> Die Vizepräsidentin oder der Vizepräsident für akademische Angelegenheiten legt den Betrag aufgrund der sozialen, familiären und finanziellen Situation der Empfängerin oder des Empfängers und der unterhaltspflichtigen Personen fest.
+
+[^11-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETHL vom 12. Aug. 2025, in Kraft seit 15. Sept. 2025 ([AS 2025 519](https://fedlex.data.admin.ch/eli/oc/2025/519)).
 
 #### Art. 12
 
@@ -176,7 +178,7 @@ Jede Person, die eine Zulassung zu einem Bachelorstudiengang an der ETHL beantra
 
 <sup>2</sup> Jede Person, die die Zulassung zu einem Masterstudiengang an der ETHL beantragt hat, kann sich um ein Exzellenzstipendium bewerben.
 
-[^14-1]: [SR 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^14-1]: [SR 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
 
 #### Art. 15
 

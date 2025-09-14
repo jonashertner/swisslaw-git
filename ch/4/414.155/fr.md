@@ -3,11 +3,11 @@ sr: "414.155"
 title: Ordonnance de l’École polytechnique fédérale de Lausanne du 2 août 2021 sur les bourses d’études (Ordonnance de l’EPFL sur les bourses d’études)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/484"
 language: fr
-version: 2021-09-15
+version: 2025-09-15
 adopted: 2021-08-02
 in_force: 2021-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20210915/fr/xml/fedlex-data-admin-ch-eli-cc-2021-484-20210915-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20210915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2021-484-20250915-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20210915/fr"
 
 (Ordonnance de l’EPFL sur les bourses d’études)
 
-du 2 août 2021 (État le 15 septembre 2021)
+du 2 août 2021 (État le 15 septembre 2025)
 
 La Direction de l’École polytechnique fédérale de Lausanne,
 
@@ -24,7 +24,7 @@ vu l’art. 25 de l’ordonnance du 13 novembre 2003 sur l’EPFZ et l’EPFL[^i
 
 arrête:
 
-[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6696)
 
 ## Section 1 Dispositions générales
 
@@ -93,8 +93,8 @@ Elles sont ensuite attribuées, par ordre de priorité, dès le troisième semes
 - a. aux étudiants qui résidaient dans un pays bénéficiaire de l’aide publique au développement selon la liste établie par l’Organisation de coopération et de développement économiques[^6-2] avant d’entamer leurs études à l’EPFL;
 - b. aux autres étudiants.
 
-[^6-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
-[^6-2]: La liste peut être consultée à l’adresse suivante: [www.oe c d.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD : pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
+[^6-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
+[^6-2]: La liste peut être consultée à l’adresse suivante: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD: pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
 
 #### Art. 7
 
@@ -134,9 +134,11 @@ Le vice-président académique prend notamment en considération les critères s
 
 <sup>1</sup> L’EPFL détermine chaque année le montant total mis à disposition pour l’attribution de bourses sociales.
 
-<sup>2</sup> Le montant maximum attribué mensuellement à un bénéficiaire s’élève à 2100 francs.
+<sup>2</sup> Le montant maximum attribué mensuellement à un bénéficiaire s’élève à 2600 francs.[^11-1]
 
 <sup>3</sup> Le vice-président académique fixe le montant en fonction de la situation sociale, familiale et financière du bénéficiaire et des personnes tenues de pourvoir à son entretien.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 12 août 2025, en vigueur depuis le 15 sept. 2025 ([RO 2025 519](https://fedlex.data.admin.ch/eli/oc/2025/519)).
 
 #### Art. 12
 
@@ -176,7 +178,7 @@ Toute personne qui a demandé son admission au cursus de bachelor à l’EPFL pe
 
 <sup>2</sup> Toute personne qui a demandé son admission au cursus de master à l’EPFL peut être candidate à une bourse d’excellence pour ces études.
 
-[^14-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^14-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
 
 #### Art. 15
 
