@@ -5,11 +5,12 @@ title: Energieverordnung
 short: kEnV
 language: de
 version: 2025-01-01
+corrected: 2025-09-16
 version_adopted: 2024-03-20
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/730.100"
-pdf: "https://lex.vs.ch/api/de/versions/3513/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -72,7 +73,7 @@ verordnet:
 - c) das Uran;
 - d) die Kohle.
 
-<sup>4</sup> Sekundärenergien werden durch die Umwandlung von Primärenergie gewonnen. Dazu gehören Strom, Biogas, Synthesegas (Wasserstoff, Methan, usw.), synthetische Flüssigbrennstoffe, Fernwärme und raffinierte Erdölprodukte. Gewisse Sekundärenergien können je nach der zu ihrer Erzeugung verwendeten Primärenergie aus erneuerbaren oder nicht erneuerbaren Quellen stammen.
+<sup>4</sup> Sekundärenergien werden durch die Umwandlung von Primärenergie gewonnen. Dazu gehören Strom, Biogas, Synthesegas (Wasserstoff, Methan usw.), synthetische Flüssigbrennstoffe, Fernwärme und raffinierte Erdölprodukte. Gewisse Sekundärenergien können je nach der zu ihrer Erzeugung verwendeten Primärenergie aus erneuerbaren oder nicht erneuerbaren Quellen stammen.
 
 <sup>5</sup> Im Sinne dieser Verordnung bedeuten:
 
@@ -106,7 +107,7 @@ verordnet:
 
 <sup>3</sup> Die externen Kosten der Nutzung von Energieträgern für wirtschaftliche Berechnungen werden von der für Energie zuständigen Dienststelle (nachstehend: Dienststelle) in regelmässigen Abständen veröffentlicht.
 
-<sup>4</sup> Steuern, die der Bund für Energie- oder Klimaschutzzwecke auf Energieträger erhebt, gelten als in den externen Kosten enthalten, solange sie nicht höher sind als diese. Dies betrifft insbesondere die CO<sub>2</sub>-Abgabe oder den Zuschlag auf die Stromübertragungskosten.
+<sup>4</sup> Steuern, die der Bund für Energie- oder Klimaschutzzwecke auf Energieträger erhebt, gelten als in den externen Kosten enthalten, solange sie nicht höher sind als diese. Dies betrifft insbesondere die CO₂-Abgabe oder den Zuschlag auf die Stromübertragungskosten.
 
 #### Art. 5
 
@@ -155,7 +156,7 @@ verordnet:
 
 <sup>1</sup> Die räumliche Energieplanung umfasst:
 
-- a) eine Diagnose, die auf der grafischen und kartografischen Erstellung der lokalen Energiesituation basiert, mit der Identifizierung des aktuellen Energieverbrauchs nach Energieträgern, der bestehenden und geplanten Infrastruktur (Gas, Fernwärme, usw.) und des Potenzials an erneuerbaren Energien und Abwärme, die lokal genutzt und verwertet werden können;
+- a) eine Diagnose, die auf der grafischen und kartografischen Erstellung der lokalen Energiesituation basiert, mit der Identifizierung des aktuellen Energieverbrauchs nach Energieträgern, der bestehenden und geplanten Infrastruktur (Gas, Fernwärme usw.) und des Potenzials an erneuerbaren Energien und Abwärme, die lokal genutzt und verwertet werden können;
 - b) Szenarien, die auf einer Bewertung des zukünftigen Verbrauchs basieren, der mit dem lokal ermittelten Energieerzeugungs- und -verwertungspotenzial in Beziehung gesetzt wird; ein Vergleich der Leistungen der verschiedenen Szenarien, zumindest im Hinblick auf die Energieeffizienz und den Anteil erneuerbarer Energien, ist erforderlich;
 - c) Empfehlungen, fundiert auf der Grundlage des Szenarienvergleichs.
 
@@ -165,7 +166,7 @@ verordnet:
 - b) höhere Anforderungen an die effiziente Energienutzung und die Nutzung erneuerbarer Energien;
 - c) Anschluss von Gebäuden an ein Fernwärme- oder Fernkältenetz, das hauptsächlich durch erneuerbare Energien und/oder Abwärme gespeist wird, einschliesslich Wärme aus Wärme-Kraft-Kopplungsanlagen.
 
-<sup>3</sup> Werden in einem spezifischen Reglement besondere Energieanforderungen für bestimmte Gebiete eingeführt, werden diese Gebiete mit hinweisendem Charakter in die Zonennutzungsplanung übertragen, z. B. ein Gebiet mit Anschlusspflicht an eine gemeinsame Heizzentrale für eine Gruppe von Gebäuden oder ein Quartier.
+<sup>3</sup> Werden in einem spezifischen Reglement besondere Energieanforderungen für bestimmte Gebiete eingeführt, werden diese Gebiete mit hinweisendem Charakter in die Zonennutzungsplanung übertragen, z.B. ein Gebiet mit Anschlusspflicht an eine gemeinsame Heizzentrale für eine Gruppe von Gebäuden oder ein Quartier.
 
 #### Art. 9
 
@@ -250,7 +251,7 @@ verordnet:
 
 <sup>2</sup> In graficher Form stellt sich das kantonale Interesse an der Energieeffizienz wie folgt dar:
 
-<sup>3</sup> Die Stromeinsparung wird mit dem Faktor 2 gewichtet. So entspricht eine eingesparte kWh Strom bei der Anwendung von Absatz 1 eingesparten kWh.
+<sup>3</sup> Die Stromeinsparung wird mit dem Faktor 2 gewichtet. So entspricht eine eingesparte kWh Strom bei der Anwendung von Absatz 1 2 eingesparten kWh.
 
 #### Art. 16
 
@@ -274,7 +275,7 @@ verordnet:
 
 - a) Baute / Gebäude: Bauten, Kleinbauten, Anbauten, unterirdische Bauten oder teilweise unterirdische Bauten im Sinne der Interkantonalen Vereinbarung zur Harmonisierung der Baubegriffe (IVHB). Diesen gleichgestellt sind mobile Bauten, sofern sie länger als drei Monate am selben Ort stationiert sind;
 - b) Installation / Anlage: Künstlich geschaffene und auf Dauer angelegte Einrichtung, die in fester Beziehung zum Erdboden steht und keine Baute darstellt, wie beispielsweise: Rampen, Parkplätze, Sportplätze, Schiessplätze, Seilbahnen, usw.;
-- c) Ausstattungen und Ausrüstungen/haustechnische Anlagen: Energierelevante Installationen, die im Zusammenhang mit einer Baute oder Anlage stehen, wie beispielsweise: Heizkessel, Lüftungsanlagen, Wärmepumpe, usw.;
+- c) Ausstattungen und Ausrüstungen/Haustechnische Anlagen: Energierelevante Installationen, die im Zusammenhang mit einer Baute oder Anlage stehen, wie beispielsweise: Heizkessel, Lüftungsanlagen, Wärmepumpe, usw.;
 - d) von einem Umbau betroffen: ein Bauteil gilt als "von einem Umbau betroffen", wenn an ihm mehr als blosse Oberflächen-Auffrischungs- oder Reparaturarbeiten vorgenommen werden;
 - e) von einer Änderung betroffen: eine haustechnische Anlage gilt als "von einer Änderung betroffen" wenn an ihr Arbeiten oder Einstellungen vorgenommen werden, welche über die Unterhalts- und Wartungsarbeiten oder Reparaturen gehen;
 - f) von einer Umnutzung betroffen: ein Bauteil gilt als "von einer Umnutzung betroffen", wenn daran durch die Umnutzung die Temperaturdifferenz aufgrund der Standardnutzung verändert wird (Norm SIA 380/1);
@@ -290,7 +291,7 @@ verordnet:
 
 <sup>2</sup> Die wichtigsten Labels, Zertifikate und Standards sind:
 
-- a) die MINERGIE® -Labels, die vom Verein MINERGIE® definiert sind;
+- a) die MINERGIE® -Labels, die vom Verein MINERGIE ® definiert sind;
 - b) der Gebäudeenergieausweis der Kantone (GEAK), der von der EnDK definiert ist;
 - c) die Norm SIA 180 "Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden" (Norm SIA 180);
 - d) die Norm SIA 380 "Grundlagen für die energetische Berechnung von Gebäuden" (Norm SIA 380);
@@ -347,10 +348,10 @@ verordnet:
 
 <sup>2</sup> In Bezug auf die Einhaltung der Einzelanforderungen für die Wärmedämmung jedes einzelnen Elements der Gebäudehülle von Neubauten und neue Bauteile bei Umbauten oder Nutzungsänderungen gelten die folgenden Grenzwerte sowie die in den Absätzen 3 und 4 genannten Grenzwerte:
 
-Grenzwerte U<sub>li</sub> in W/(m²·K) mit Wärmebrückennachweis
+Grenzwerte U<sub>li</sub> en W/(m²·K) mit Wärmebrückennachweis
 
 <table>
-<tr><th>Bauteil</th><th>Bauteil gegen Aussenklima oder weniger als 2 m im Erdreich</th><th>Bauteil gegen unbeheizte Räume oder mehr als 2 m im Erdreich</th></tr>
+<tr><th>Bauteil</th><th>Bauteil gegen Aussenklima oder weniger als 2 m im Erdreich</th><th>Bauteil gegen Unbeheizte Räume oder mehr als 2 m im Erdreich</th></tr>
 <tr><td>Opake Bauteile (Dach, Decke, Wand, Boden)</td><td>0,17</td><td>0,25</td></tr>
 <tr><td>Fenster, Fenstertüren</td><td>1,0</td><td>1,3</td></tr>
 <tr><td>Türen</td><td>1,2</td><td>1,5</td></tr>
@@ -371,10 +372,10 @@ Grenzwerte U<sub>li</sub> in W/(m²·K) mit Wärmebrückennachweis
 
 <sup>5</sup> In Bezug auf die Einhaltung der Einzelanforderungen für die Wärmedämmung jedes einzelnen Elements der Gebäudehülle, die für alle Bauteile von einem Umbau oder einer Nutzungsänderung betroffenen sind, gelten folgende Grenzwerte:
 
-Grenzwerte U<sub>li</sub> in W/(m²·K):
+Grenzwerte U<sub>li</sub> en W/(m²·K):
 
 <table>
-<tr><th>Bauteil</th><th>Bauteil gegen Aussenklima oder weniger als 2 m im Erdreich</th><th>Bauteil gegen unbeheizte Räume oder mehr als 2 m im Erdreich</th></tr>
+<tr><th>Bauteil</th><th>Bauteil gegen Aussenklima oder weniger als 2 m im Erdreich</th><th>Bauteil gegen Unbeheizte Räume oder mehr als 2 m im Erdreich</th></tr>
 <tr><td>Opake Bauteile (Dach, Decke,Wand, Boden)</td><td>0,25</td><td>0,28</td></tr>
 <tr><td>Fenster, Fenstertüren</td><td>1,0</td><td>1,3</td></tr>
 <tr><td>Türen</td><td>1,2</td><td>1,5</td></tr>
@@ -488,7 +489,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 - b) gegen Aussenklima: 20°C;
 - c) gegen Erdreich oder unbeheizte Räume: 10°C.
 
-<sup>3</sup> Für Kühlräume mit weniger als 30 m³ Nutzvolumen sind die Anforderungen auch erfüllt, wenn die umschliessenden Bauteile einen mittleren U-Wert von U kleiner oder gleich 0,15 W/(m² K) einhalten.
+<sup>3</sup> Für Kühlräume mit weniger als 30m³ Nutzvolumen sind die Anforderungen auch erfüllt, wenn die umschliessenden Bauteile einen mittleren U-Wert von U kleiner oder gleich 0,15W/(m² K) einhalten.
 
 #### Art. 31
 
@@ -508,9 +509,9 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 <sup>2</sup> Wenn technische Anlagen ersetzt werden, muss jedes neue Gerät unter Berücksichtigung der zuvor gesammelten Betriebs- und Verbrauchsdaten dimensioniert werden.
 
-<sup>3</sup> Bei der Installation eines Wärme- oder Kälteerzeugers (Heizkessel, Kühlaggregat, Wärmepumpe, thermische Solaranlage, usw.) muss dieser mit Energiezählern ausgestattet sein, die eine Kontrolle der Gesamtenergieeffizienz (Nutzanteil, JAZ, usw.) ermöglichen und es dem Betreiber erlauben, eine Energiebuchhaltung auf der Grundlage einer periodischen Ablesung zu erstellen.
+<sup>3</sup> Bei der Installation eines Wärme- oder Kälteerzeugers (Heizkessel, Kühlaggregat, Wärmepumpe, thermische Solaranlage usw.) muss dieser mit Energiezählern ausgestattet sein, die eine Kontrolle der Gesamtenergieeffizienz (Nutzanteil, JAZ usw.) ermöglichen und es dem Betreiber erlauben, eine Energiebuchhaltung auf der Grundlage einer periodischen Ablesung zu erstellen.
 
-<sup>4</sup> Bei der Installation einer Wasser-Wasser-Wärmepumpe mit einer thermischen Leistung von 100 kW oder mehr muss diese zusätzlich zu den in Absatz 3 vorgesehenen Ausrüstungen mit Vorrichtungen ausgestattet sein, die es ermöglichen, die der Umwelt (Grundwasser, See, usw.) entzogene Energie zu quantifizieren. Der Wasserdurchfluss und die Temperatur des entnommenen Wassers sowie die Temperatur des abgeleiteten Wassers müssen gemessen werden.
+<sup>4</sup> Bei der Installation einer Wasser-Wasser-Wärmepumpe mit einer thermischen Leistung von 100 kW oder mehr muss diese zusätzlich zu den in Absatz 3 vorgesehenen Ausrüstungen mit Vorrichtungen ausgestattet sein, die es ermöglichen, die der Umwelt (Grundwasser, See usw.) entzogene Energie zu quantifizieren. Der Wasserdurchfluss und die Temperatur des entnommenen Wassers sowie die Temperatur des abgeleiteten Wassers müssen gemessen werden.
 
 <sup>5</sup> Bei der Installation einer zentralen mechanischen Lüftungsanlage muss diese mit einem Elektrizitätszähler ausgestattet sein, die es dem Betreiber ermöglicht, eine Energiebuchhaltung auf der Grundlage einer periodischen Ablesung zu erstellen.
 
@@ -536,7 +537,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 - a) bei Wärmepumpen, insbesondere für Aussentemperaturen unter der Auslegetemperatur;
 - b) bei handbeschickten Holzheizungen, um befristete Abwesenheiten der Bewohner zu berücksichtigen, deren installierte elektrische Leistung nicht grösser als 50 Prozent des Heizleistungsbedarfs bei Auslegetemperatur ist;
-- c) bei bestimmten Räumen, für deren Nutzung ausserhalb der Heizperiode andernfalls die Inbetriebnahme des Hauptheizsystems nötig wäre (z. B. Therapiezimmer, Badezimmer);
+- c) bei bestimmten Räumen, für deren Nutzung ausserhalb der Heizperiode andernfalls die Inbetriebnahme des Hauptheizsystems nötig wäre (z.B. Therapiezimmer, Badezimmer);
 - d) bei Installationen welche an ein Nah-/Fernwärmenetz angeschlossen sind welches ausserhalb der Heizperiode abgeschaltet wird;
 - e) bei Installationen für die Bauaustrocknung.
 
@@ -562,7 +563,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 <tr><td>grösser als 2'000 Liter</td><td>160 mm</td><td>120 mm</td></tr>
 </table>
 
-<sup>2</sup> Wassererwärmer sind für eine Betriebstemperatur von max. 60°C auszulegen. Ausgenommen werden können Wassererwärmer, deren Temperatur permanent aus betrieblichen oder aus hygienischen Gründen höher sein muss (z. B. um die Vermehrung von Legionellen-Bakterien zu verhindern).
+<sup>2</sup> Wassererwärmer sind für eine Betriebstemperatur von max. 60°C auszulegen. Ausgenommen werden können Wassererwärmer, deren Temperatur permanent aus betrieblichen oder aus hygienischen Gründen höher sein muss (z.B. um die Vermehrung von Legionellen-Bakterien zu verhindern).
 
 <sup>3</sup> Der Neubau einer Direkt-Elektroheizung zur Erzeugung von Brauchwarmwasser ist in Wohnbauten nur erlaubt, wenn:
 
@@ -626,7 +627,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 **Regulierung der Heizung in zeitweise belegten Gebäuden**
 
-<sup>1</sup> In neu zu errichtenden Gebäuden, in denen einzelne Nutzungseinheiten nur zeitweise belegt werden, müssen mindestens 2 Raumtemperaturniveaus pro Nutzungseinheit ferngesteuert werden können (z. B. per Telefon, Internet, SMS).
+<sup>1</sup> In neu zu errichtenden Gebäuden, in denen einzelne Nutzungseinheiten nur zeitweise belegt werden, müssen mindestens 2 Raumtemperaturniveaus pro Nutzungseinheit ferngesteuert werden können (z.B. per Telefon, Internet, SMS).
 
 <sup>2</sup> Die gleiche Vorschrift ist bei der Sanierung des Heizverteilsystems in Gebäuden mit mehreren Nutzungseinheiten oder beim Austausch des Wärmeerzeugers in Gebäuden mit nur einer Nutzungseinheit.
 
@@ -640,12 +641,12 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 **Heizungen im Freien bei Veranstaltungen von begrenzter Dauer**
 
-<sup>1</sup> Eine Ausnahme für eine Freiluftheizung zur Gewährleistung eines Mindestkomforts für Personen, die im Rahmen einer Veranstaltung von begrenzter Dauer (Markt, Weihnachtsmarkt, usw.) im Freien arbeiten, kann unter den folgenden kumulativen Bedingungen erteilt werden:
+<sup>1</sup> Eine Ausnahme für eine Freiluftheizung zur Gewährleistung eines Mindestkomforts für Personen, die im Rahmen einer Veranstaltung von begrenzter Dauer (Markt, Weihnachtsmarkt usw.) im Freien arbeiten, kann unter den folgenden kumulativen Bedingungen erteilt werden:
 
 - a) die Heizung ist ausschliesslich für einen Arbeitsplatz und nicht für die Kundschaft vorgesehen;
 - b) die Anlage wird in einem überdachten Unterstand aufgestellt, der nach Möglichkeit auf mindestens 3 Seiten geschlossen ist;
 - c) der Betrieb ist auf die offiziellen Zeiten der Veranstaltung beschränkt;
-- d) das Gerät ist so ausgestattet, dass eine Regelung der Heizung (Ein- und Ausschalten, Temperaturniveau, usw.) möglich ist.
+- d) das Gerät ist so ausgestattet, dass eine Regelung der Heizung (Ein- und Ausschalten, Temperaturniveau usw.) möglich ist.
 
 <sup>2</sup> Die für die Bewilligung einer Veranstaltung zuständige Behörde achtet darauf, ihre Ausnahmebewilligung an die oben genannten Bedingungen zu knüpfen sowie die Einhaltung anderer Bedingungen zu kontrollieren, die sich insbesondere aus dem Umweltschutz (LRV, VLP, usw.) und dem Brandschutz ergeben.
 
@@ -658,17 +659,17 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 <sup>2</sup> Einfache Abluftanlagen in beheizten Räumen müssen ausgestattet sein:
 
 - a) entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung;
-- b) oder mit einer Vorrichtung zur Nutzung der Wärme aus der Abluft, sofern der Abluftvolumenstrom mehr als 1'000 m³/h beträgt und die Betriebsdauer mehr als 500 h/a beträgt.
+- b) oder mit einer Vorrichtung zur Nutzung der Wärme aus der Abluft, sofern der Abluftvolumenstrom mehr als 1'000 m³ /h beträgt und die Betriebsdauer mehr als 500 h/a beträgt.
 
 <sup>3</sup> Im Falle mehrerer getrennter einfacher Abluftanlagen, die sich in demselben Gebäude befinden, sind diese als eine einzige Anlage zu betrachten. Andere Lösungen als die in Absatz 2 genannten sind zulässig, wenn durch eine fachmännische Berechnung des Energieverbrauchs oder eine dynamische Simulation nachgewiesen werden kann, dass ein grösseres Luftvolumen und eine längere Betriebszeit nicht zu einem Mehrverbrauch führen.
 
 <sup>4</sup> Die Luftgeschwindigkeiten dürfen in Apparaten, bezogen auf die Nettofläche, 2 m/s und im massgebenden Strang der Kanäle folgende Werte nicht überschreiten:
 
-- a) bis 1’000 m³/h: 3 m/s;
-- b) bis 2’000 m³/h: 4 m/s;
-- c) bis 4’000 m³/h: 5 m/s;
-- d) bis 10’000 m³/h: 6 m/s;
-- e) über 10’000 m³/h: 7 m/s.
+- a) bis 1’000 m³ /h: 3 m/s;
+- b) bis 2’000 m³ /h: 4 m/s;
+- c) bis 4’000 m³ /h: 5 m/s;
+- d) bis 10’000 m³ /h: 6 m/s;
+- e) über 10’000 m³ /h: 7 m/s.
 
 <sup>5</sup> Grössere Luftgeschwindigkeiten sind zulässig, falls:
 
@@ -682,7 +683,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 **Wärmedämmung von lüftungstechnischen Anlagen**
 
-<sup>1</sup> Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegefall und λ-Wert des Dämmmaterials gemäss den Anforderungen der geltenden Norm SIA 382/1 gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden. In begründeten Fällen wie z. B. bei kurzen Abschnitten von Leitungen, Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Ersatz und Erneuerungen können die Dämmstärken reduziert werden.
+<sup>1</sup> Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegefall und λ-Wert des Dämmmaterials gemäss den Anforderungen der geltenden Norm SIA 382/1 gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden. In begründeten Fällen wie z.B. bei kurzen Abschnitten von Leitungen, Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Ersatz und Erneuerungen können die Dämmstärken reduziert werden.
 
 #### Art. 42
 
@@ -709,7 +710,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 **Leuchtreklamen im Aussenbereich**
 
-<sup>1</sup> Als Leuchtreklamen im Aussenbereich gelten Lichtwerbeanlage mit textlicher oder bildlicher Darstellung von Namen, Logos, Slogans, usw.
+<sup>1</sup> Als Leuchtreklamen im Aussenbereich gelten Lichtwerbeanlage mit textlicher oder bildlicher Darstellung von Namen, Logos, Slogans usw.
 
 <sup>2</sup> Leuchtreklamen im Aussenbereich werden zwischen Mitternacht und 6 Uhr ausgeschaltet, wenn die von der Reklame betroffene Aktivität eingestellt wurde.
 
@@ -795,7 +796,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 **Wärmedämmung bei Flächenheizungen**
 
-<sup>1</sup> Bei Flächenheizungen ist für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0,7 W/(m²·K) einzuhalten.
+<sup>1</sup> Bei Flächenheizungen ist für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0,7W/(m²·K) einzuhalten.
 
 #### Art. 53
 
@@ -828,7 +829,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 **Anforderungen an die Deckung des Wärmebedarfs bei Neubauten**
 
-<sup>1</sup> Der gewichtete jährliche Energiebedarf für Heizung, Warmwasserbereitung, Lüftung und Kühlung in neu zu errichtenden Gebäuden und Erweiterungen (Aufstockungen, Anbauten, usw.) darf die folgenden Werte nicht überschreiten:
+<sup>1</sup> Der gewichtete jährliche Energiebedarf für Heizung, Warmwasserbereitung, Lüftung und Kühlung in neu zu errichtenden Gebäuden und Erweiterungen (Aufstockungen, Anbauten usw.) darf die folgenden Werte nicht überschreiten:
 
 <table>
 <tr><th>Gebäudekategorie</th><th>Name</th><th>Grenzwerte für Neubauten EHWLK in kWh/m²</th></tr>
@@ -881,7 +882,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 <sup>1</sup> Für die Gebäudekategorien I (Mehrfamilienhaus) und II (Einfamilienhaus) gilt die Anforderung nach Artikel 55 als erfüllt, wenn das Projekt einer der nachfolgend aufgeführten Kombinationen von Standardlösungen entspricht, die nach den Regeln der Technik angewendet werden.
 
-<sup>2</sup> Bei neuen Gebäuden, deren opake Bauteile gegen aussen einen U<sub>w</sub>-Wert von 0,17 W/(m²·K) und deren Fenster einen U<sub>w</sub>-Wert von 1,00 W/(m²·K) einhalten, muss alternativ vorgesehen werden:
+<sup>2</sup> Bei neuen Gebäuden, deren opake Bauteile gegen aussen einen U-Wert von 0,17 W/(m²·K) und deren Fenster einen U-Wert von 1,00 W/(m²·K) einhalten, muss alternativ vorgesehen werden:
 
 - a) einer kontrollierten mechanischen Wohnungslüftung kombiniert mit:
   - 1\. einer elektrischen Wärmepumpe, Erdsonde/Wasser oder Wasser/Wasser,
@@ -895,13 +896,13 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
   - 4\. einer elektrischen Wärmepumpe Luft/Wasser,
   - 5\. einer Stückholzfeuerung.
 
-<sup>3</sup> Bei neuen Gebäuden, deren opake Bauteile gegen aussen einen U<sub>w</sub>-Wert von 0,15 W/(m²·K) einhalten, muss alternativ vorgesehen werden:
+<sup>3</sup> Bei neuen Gebäuden, deren opake Bauteile gegen aussen einen U-Wert von 0,15 W/(m²·K) einhalten, muss alternativ vorgesehen werden:
 
-- a) Fenster mit einem U<sub>w</sub> -Wert von 1,00 W/(m²·K) in Kombination mit:
+- a) Fenster mit einem U-Wert von 1,00 W/(m²·K) in Kombination mit:
   - 1\. einer elektrischen Wärmepumpe, Erdsonde/Wasser oder Wasser/Wasser,
   - 2\. einer automatischen Holzheizung,
   - 3\. einer Fernwärmeheizung (KVA, ARA oder erneuerbare Energien);
-- b) Fenster mit einem U<sub>w</sub> -Wert von 0,80 W/(m²·K) in Kombination mit;
+- b) Fenster mit einem U-Wert von 0,80 W/(m²·K) in Kombination mit;
   - 1\. einer elektrischen Wärmepumpe, Erdsonde/Wasser oder Wasser/Wasser,
   - 2\. einer automatischen Holzheizung,
   - 3\. einer Fernwärmeheizung (KVA, ARA oder erneuerbare Energien),
@@ -994,9 +995,9 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 <sup>3</sup> Mindestens zwei der folgenden Standardlösungen müssen ausgeführt sein oder innerhalb von 3 Jahren nach dem Wärmeerzeugerersatz ausgeführt werden:
 
-- a) kompletter Fensterersatz entlang der thermischen Gebäudehülle – Bedingung: U<sub>w</sub> ≤ 0,7 W/(m²·K) und Abstandhalter in Kunststoff oder Edelstahl;
-- b) Dämmung der Fassade – Bedingung: U<sub>w</sub> ≤ 0,20 W/(m²·K);
-- c) Dämmung des Dachs – Bedingung: U<sub>w</sub> ≤ 0,20 W/(m²·K);
+- a) kompletter Fensterersatz entlang der thermischen Gebäudehülle – Bedingung: Ug ≤ 0,7 W/(m²·K) und Abstandhalter in Kunststoff oder Edelstahl;
+- b) Dämmung der Fassade – Bedingung: U ≤ 0,20 W/(m²·K);
+- c) Dämmung des Dachs – Bedingung: U ≤ 0,20 W/(m²·K);
 - d) Einbau einer thermischen Solaranlage für die Wassererwärmung – Bedingung: Kollektorfläche ≥ 2 Prozent der Energiebezugsfläche;
 - e) Einbau einer kontrollierten Wohnungslüftungsanlage mit Wärmerückgewinnung. Der Wirkungsgrad der Wärmerückgewinnung muss mindestens 70 Prozent betragen;
 - f) Einbau eines Wärmepumpenboilers.
@@ -1079,7 +1080,7 @@ Grenzwerte U<sub>li</sub> in W/(m²·K):
 
 - a) denkmalgeschützte Gebäude;
 - b) Gebäude, deren Nutzung die Anwendung der festgelegten Standards nicht rechtfertigt;
-- c) neue oder renovierte Gebäude, bei denen das Erreichen der definierten Standards zu unüberwindbaren Problemen führen würde, z. B. die Notwendigkeit, bessere Dämmwerte als 60 Prozent der Grenzwerte der Norm SIA 380/1 zu verwenden.
+- c) neue oder renovierte Gebäude, bei denen das Erreichen der definierten Standards zu unüberwindbaren Problemen führen würde, z.B. die Notwendigkeit, bessere Dämmwerte als 60 Prozent der Grenzwerte der Norm SIA 380/1 zu verwenden.
 
 <sup>3</sup> Die für den Bau und den Unterhalt des Immobilienparks des Staates Wallis zuständige Dienststelle sorgt für die Einhaltung der oben erwähnten Vorschriften. Sie legt ein Programm zur energetischen Verbesserung des Immobilienparks des Staates Wallis fest und verfolgt den Energieverbrauch.
 

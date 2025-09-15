@@ -5,11 +5,12 @@ title: "Ordonnance sur l'énergie"
 short: OcEne
 language: fr
 version: 2025-01-01
+corrected: 2025-09-16
 version_adopted: 2024-03-20
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/730.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3513/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3371/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -272,13 +273,13 @@ ordonne:
 
 <sup>2</sup> En outre, on entend par:
 
-- a) construction / bâtiment: constructions, petites constructions, annexes, constructions souterraines ou constructions partiellement souterraines au sens de l'accord intercantonal harmonisant la terminologie dans le domaine des constructions (AIHC). Les constructions mobiles, pour autant qu’elles stationnent au même endroit pour une durée supérieure à trois mois, y sont assimilées;
-- b) installation / aménagement: objet de facture artificielle, fondé dans le sol ou reposant en surface, appelé à durer, mais ne constituant pas un bâtiment, comme par exemple: rampes, places de parc, terrains de sport, champs de tir, téléphériques, etc.;
+- a) construction / bâtiment: constructions, petites constructions, annexes, constructions souterraines ou constructions partiellement souterraine au sens de l'accord intercantonal harmonisant la terminologie dans le domaine des constructions (AIHC). Les constructions mobiles, pour autant qu’elles stationnent au même endroit pour une durée supérieure à trois mois, y sont assimilées;
+- b) installation / aménagement: objet de facture artificielle, fondé dans le sol ou reposant en surface, appelée à durer, mais ne constituant pas un bâtiment, comme par exemple: rampes, places de parc, terrains de sport, champs de tir, téléphériques, etc.;
 - c) équipements / installations techniques du bâtiment: dispositifs en rapport avec un bâtiment ou une installation et qui sont liés de façon significative à la consommation d’énergie, comme par exemple: chaudière, monobloc de ventilation, pompe à chaleur, etc.;
 - d) touché par les transformations: un élément de construction est dit "touché par les transformations" si l’on y entreprend des travaux plus importants qu’un simple rafraîchissement ou des réparations mineures;
 - e) touché par les modifications: une installation du bâtiment est dite "touchée par les modifications" si des travaux ou des réglages allant au-delà de l'entretien et de la maintenance ou des réparations mineures sont entrepris;
 - f) touché par le changement d’affectation: un élément de construction est dit "touché par le changement d’affectation" si celui-ci entraîne une modification de la température ambiante selon les conditions normales d’utilisation (norme SIA 380/1);
-- g) surface de référence énergétique (SRE): définie dans la norme SIA 380, il s'agit de la somme de toutes les surfaces de plancher des étages et des sous-sols inclues dans l’enveloppe thermique; la notion de surface brute chauffée définie dans la norme SIA 416 est identique;
+- g) surface de référence énergétique (SRE): définie dans la norme SIA 380, il s'agit de la somme de toutes les surfaces de planchers des étages et des sous-sols inclues dans l’enveloppe thermique; la notion de surface brute chauffée définie dans la norme SIA 416 est identique;
 - h) EnDK: Conférence des directeurs cantonaux de l’énergie;
 - i) EnFK: Conférence des services cantonaux de l’énergie.
 
@@ -292,7 +293,7 @@ ordonne:
 
 - a) les labels MINERGIE® définis par l’Association MINERGIE®;
 - b) le certificat énergétique cantonal des bâtiments (CECB) défini par l’EnDK;
-- c) la norme SIA 180 "Isolation thermique et protection contre l'humidité dans les bâtiments" (norme SIA 180);
+- c) la norme SIA 180 "Isolation thermique et protection contre humidité dans les bâtiments" (norme SIA 180);
 - d) la norme SIA 380 "Bases pour les calculs énergétiques des bâtiments" (norme SIA 380);
 - e) la norme SIA 380/1 "Besoins de chaleur pour le chauffage" (norme SIA 380/1);
 - f) la norme SIA 382/1 "Installations de ventilation et de climatisation - Bases générales et performances requises" (norme SIA 382/1);
@@ -418,7 +419,7 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 <sup>1</sup> Aucune correction climatique des valeurs limites n’est requise pour les performances ponctuelles.
 
-<sup>2</sup> Pour la performance globale, les valeurs limites pour les besoins de chaleur annuels et pour la puissance de chauffage spécifique, relatifs au chauffage des nouveaux bâtiments, des bâtiments transformés ou changeant d’affectation, valables pour une température moyenne annuelle de 9,4°C et pour une température de dimensionnement de -8°C, se calculent avec les valeurs mentionnées à l'article 22 alinéa 6.
+<sup>2</sup> Pour la performance globale, les valeurs limites pour les besoins de chaleur annuels et pour la puissance de chauffage spécifique, relatifs au chauffage des nouveau bâtiments, des bâtiments transformés ou changeant d’affectation, valables pour une température moyenne annuelle de 9,4°C et pour une température de dimensionnement de -8°C, se calculent avec les valeurs mentionnées à l'article 22 alinéa 6.
 
 <sup>3</sup> Ces valeurs limites sont majorées, respectivement réduites, de 6 pour cent lorsque la température moyenne annuelle est plus basse, respectivement plus élevée, d’un Kelvin.
 
@@ -466,7 +467,7 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 - a) les bâtiments dont l’autorisation de construire est limitée à 3 ans au maximum (constructions provisoires);
 - b) des changements d’affectation, pour autant qu’aucun local ne soit concerné par l’article 25;
-- c) des projets pour lesquels il est établi sur la base d'une procédure de calcul ou d’une simulation dynamique reconnue, établie dans les règles de l’art, qu'il n'y aura pas une consommation accrue d'énergie et que le confort sera garanti;
+- c) des projets pour lesquels il est établi sur la base d'une procédure de calcul ou d’une simulation dynamique reconnue, établie dans les règle de l’art, qu'il n'y aura pas une consommation accrue d'énergie et que le confort sera garanti;
 - d) les bâtiments de la catégorie XII et les locaux qui ne servent pas au séjour prolongé de personnes (moins d’une heure par jour);
 - e) des éléments de construction qui, pour des raisons d’exploitation, ne peuvent pas être adaptés.
 
@@ -564,7 +565,7 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 <sup>2</sup> Les chauffe-eau doivent être dimensionnés et réglés pour une température d’exploitation n’excédant pas 60°C. Peuvent être dispensés de cette exigence les chauffe-eau devant être réglés à une température plus élevée pour des raisons d’exploitation ou d’hygiène (p. ex. pour prévenir la multiplication des bactéries "légionnelles").
 
-<sup>3</sup> Dans les bâtiments d’habitation, la mise en place d’un corps de chauffe électrique pour la production d’eau chaude sanitaire n’est autorisé que:
+<sup>3</sup> Dans les bâtiments d’habitations, la mise en place d’un corps de chauffe électrique pour la production d’eau chaude sanitaire n’est autorisé que:
 
 - a) si pendant la période de chauffage, l’eau chaude sanitaire est chauffée ou préchauffée avec le générateur de chaleur exploité pour le chauffage, ou
 - b) si l’eau chaude sanitaire est chauffée au moins à 50 pour cent avec des énergies renouvelables ou des rejets thermiques qui ne sont pas utilisables autrement.
@@ -618,7 +619,7 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 <sup>6</sup> Lors du remplacement d’un producteur de chaleur ou d’un chauffe-eau, les conduites accessibles doivent être adaptées aux exigences indiquées à l’alinéa 2 dans la mesure où la place à disposition le permet.
 
-<sup>7</sup> Les locaux chauffés doivent être équipés de dispositifs permettant de fixer indépendamment pour chacun d'eux une température ambiante et de régler cette dernière automatiquement. Sont dispensés de ces exigences les locaux bénéficiant prioritairement d’un plancher / plafond chauffant avec une température de départ de 30°C maximum. En pareil cas, il est nécessaire d'installer au moins un dispositif de régulation par unité d'habitation ou unité d'occupation, dans un local de référence.
+<sup>7</sup> Les locaux chauffés doivent être équipés de dispositifs permettant de fixer pour chacun d'eux une température ambiante indépendamment et de régler cette dernière automatiquement. Sont dispensés de ces exigences les locaux bénéficiant prioritairement d’un plancher / plafond chauffant avec une température de départ de 30°C maximum. En pareil cas, il est nécessaire d'installer au moins un dispositif de régulation par unité d'habitation ou unité d'occupation, dans un local de référence.
 
 <sup>8</sup> Les systèmes de distribution d'eau chaude sanitaire peuvent être maintenus en température uniquement à l'aide de rubans chauffants autorégulants asservis à une horloge ou à l'aide d'une pompe de circulation asservie à une horloge et un thermostat de commande.
 
@@ -658,17 +659,17 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 <sup>2</sup> Les installations simples d’air repris des locaux chauffés doivent être équipées:
 
 - a) soit d’un dispositif d’amenée d’air neuf contrôlé et d’un récupérateur de chaleur;
-- b) soit d'un dispositif de valorisation de la chaleur de l'air repris, et ce pour autant que le volume d’air extrait représente plus de 1’000 m³/h et que le temps d’exploitation soit supérieur à 500 h/a.
+- b) soit d'un dispositif de valorisation de la chaleur de l'air repris, et ce pour autant que le volume d’air extrait représente plus de 1’000 m³ /h et que le temps d’exploitation soit supérieur à 500 h/a.
 
 <sup>3</sup> Dans le cas de plusieurs installations simples d’air repris, distinctes et situées dans un même bâtiment, celles-ci doivent être considérées comme une seule installation. D’autres solutions que celles prévues à l’alinéa 2 sont admises si un calcul de la consommation énergétique ou une simulation dynamique établis dans les règles de l’art permet de prouver qu’un volume d’air et un temps d’exploitation supérieurs n’entraînent pas de consommation supplémentaire.
 
 <sup>4</sup> La vitesse de l’air, rapportée à la section nette, doit être inférieure à 2 m/s dans les appareils et ne pas dépasser les valeurs suivantes dans les gaines de distribution:
 
-- a) jusqu’à 1’000 m³/h: 3 m/s;
-- b) jusqu’à 2’000 m³/h: 4 m/s;
-- c) jusqu’à 4’000 m³/h: 5 m/s;
-- d) jusqu’à 10’000 m³/h: 6 m/s;
-- e) au-delà de 10’000 m³/h: 7 m/s.
+- a) jusqu’à 1’000 m³ /h: 3 m/s;
+- b) jusqu’à 2’000 m³ /h: 4 m/s;
+- c) jusqu’à 4’000 m³ /h: 5 m/s;
+- d) jusqu’à 10’000 m³ /h: 6 m/s;
+- e) au-delà de 10’000 m³ /h: 7 m/s.
 
 <sup>5</sup> Des vitesses supérieures peuvent être admises:
 
@@ -711,7 +712,7 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 <sup>1</sup> Par enseignes lumineuses extérieures, on entend un dispositif publicitaire lumineux avec représentation textuelle ou visuelle de noms, logos, slogans etc.
 
-<sup>2</sup> Les enseignes lumineuses extérieures sont éteintes entre minuit et 6 heures si l'activité concernée par l’enseigne a cessé.
+<sup>2</sup> Les enseignes lumineuses extérieures sont éteintes entre minuit et 6 heures si l'activité concernées par l’enseigne a cessé.
 
 <sup>3</sup> Lorsque les activités concernées par l’enseigne se poursuivent au-delà de minuit, l'enseigne est éteinte au plus tard une heure après l'arrêt de l'activité.
 
@@ -877,11 +878,11 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 #### Art. 57
 
-**Justification à l’aide de combinaisons de solutions standards**
+**Justification à l’aide de combinaisons de solution standards**
 
 <sup>1</sup> Pour les catégories d'ouvrages I (habitat collectif) et II (habitat individuel), l'exigence requise à l'article 55 est considérée comme respectée si le projet répond à l'une des combinaisons de solutions standards ci-après, appliquée dans les règles de l’art.
 
-<sup>2</sup> Dans les nouveaux bâtiments dont les éléments de construction opaques contre l'extérieur respectent une valeur U<sub>w</sub> de 0,17 W/(m²·K) et les fenêtres une valeur U<sub>w</sub> de 1,00 W/(m²·K), il faut prévoir alternativement:
+<sup>2</sup> Dans les nouveaux bâtiments dont les éléments de construction opaques contre l'extérieur respectent une valeur U de 0,17 W/(m²·K) et les fenêtres une valeur U de 1,00 W/(m²·K), il faut prévoir alternativement:
 
 - a) une installation de ventilation mécanique contrôlée combinée à:
   - 1\. une pompe à chaleur électrique sol-eau ou eau-eau,
@@ -895,13 +896,13 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
   - 4\. une pompe à chaleur électrique air-eau,
   - 5\. une chaudière à bûches.
 
-<sup>3</sup> Dans les nouveaux bâtiments dont les éléments de construction opaques contre l'extérieur respectent une valeur U<sub>w</sub> de 0,15 W/(m²·K), il faut prévoir alternativement:
+<sup>3</sup> Dans les nouveaux bâtiments dont les éléments de construction opaques contre l'extérieur respectent une valeur U de 0,15 W/(m²·K), il faut prévoir alternativement:
 
-- a) des fenêtres respectant une valeur U<sub>w</sub> de 1,00 W/(m²·K) combinées à:
+- a) des fenêtres respectant une valeur U de 1,00 W/(m²·K) combinées à:
   - 1\. une pompe à chaleur électrique sol-eau ou eau-eau,
   - 2\. un chauffage à bois automatique,
   - 3\. un chauffage à distance (UIOM, STEP ou énergies renouvelables);
-- b) des fenêtres respectant une valeur U<sub>w</sub> de 0,80 W/(m²·K) combinées à:
+- b) des fenêtres respectant une valeur U 0,80 W/(m²·K) combinées à:
   - 1\. une pompe à chaleur électrique sol-eau ou eau-eau,
   - 2\. un chauffage à bois automatique,
   - 3\. un chauffage à distance (UIOM, STEP ou énergies renouvelables),
@@ -970,7 +971,7 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 <sup>2</sup> Les grands ensembles de bâtiments disposant d’un label Minergie-Quartier® ne doivent pas démontrer le respect des exigences individuelles des articles 32, 33 et 34 LcEne.
 
-### 4.3 Exigences concernant la couverture des besoins de chaleur et la production propre d’électricité pour les bâtiments existants
+### 4.3 Exigences concernant la couverture des besoins de chaleur et la production propre d’électricité les bâtiments existants
 
 #### Art. 62
 
@@ -994,9 +995,9 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 <sup>3</sup> Au minimum, deux des solutions standards suivantes ont été réalisées ou seront mises en œuvre dans les 3 ans suivant le changement de la chaudière:
 
-- a) remplacement de toutes les fenêtres de l'enveloppe thermique – conditions: U<sub>w</sub> ≤ 0,7 W/(m²·K) et intercalaires en matière synthétique ou en acier inoxydable;
-- b) isolation des façades – condition: U<sub>w</sub> ≤ 0,20 W/(m²·K);
-- c) isolation de la toiture – condition: U<sub>w</sub> ≤ 0,20 W/(m²·K);
+- a) remplacement de toutes les fenêtres de l'enveloppe thermique – conditions: Ug ≤ 0,7 W/(m²·K) et intercalaires en matière synthétique ou en acier inoxydable;
+- b) isolation des façades – condition: U ≤ 0,20 W/(m²·K);
+- c) isolation de la toiture – condition: U ≤ 0,20 W/(m²·K);
 - d) mise en place d'une installation solaire thermique pour la production d'eau chaude sanitaire – condition : surface des absorbeurs ≥ 2 pour cent de la surface de référence énergétique;
 - e) mise en place d'une installation de ventilation mécanique contrôlée à double-flux avec récupérateur de chaleur ayant un rendement minimal de 70 pour cent;
 - f) mise en place d'un chauffe-eau pompe à chaleur.
@@ -1140,8 +1141,8 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 <sup>3</sup> L’exécution de l’optimisation de l’exploitation doit faire l’objet d’un rapport donnant les informations sur les prestations d’optimisation réalisées et les indications sur:
 
 - a) l’état initial des réglages et des consignes des installations;
-- b) les éventuelles mesures d’adaptation mises en place visant à augmenter l’efficacité énergétique des installations;
-- c) l’évolution des consommations d’énergie;
+- b) les éventuelles mesures d’adaptations mises en place visant à augmenter l’efficacité énergétique des installations;
+- c) l’évolution des consommations d’énergies;
 - d) le plan de contrôles et de suivis temporels des installations;
 - e) les coûts et les retours sur investissement de chaque mesure.
 
@@ -1253,7 +1254,7 @@ Valeurs limites U<sub>li</sub> en W/(m²·K):
 
 <sup>2</sup> Les prétentions à la restitution s'éteignent par prescription un an après que les organes compétents du canton ont pris connaissance des faits, et en tous cas 10 ans après la naissance de la prétention. L'interruption de la prescription est régie par les dispositions du Code suisse des obligations (CO).
 
-<sup>3</sup> Pour les installations d'essai qui ne produisent pas les résultats escomptés, il est possible de renoncer à la restitution dans sa totalité ou en partie. Le département en charge de l'énergie prend les dispositions nécessaires à cet égard.
+<sup>3</sup> Pour les installations d'essai qui ne produisent pas les résultats escomptés, il est possible de renoncer à la restitution dans sa totalité ou en partie. Le département en charge de l'énergie prend les dispositions à cet égard.
 
 ### 5.2 Mesures d’encouragement et soutien
 
