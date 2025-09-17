@@ -3,13 +3,12 @@ canton: BS
 number: "154.112"
 title: Personalreglement der Gerichte
 language: de
-version: 2021-01-21
-valid_until: 2025-09-17
-version_adopted: 2020-10-26
+version: 2025-09-18
+version_adopted: 2025-08-19
 adopted: 2017-05-15
 in_force: 2017-10-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.112"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5164/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6751/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5164/pdf_file"
 
 Gerichte: Personalreglement | Gerichte / Staatsanwaltschaft
 
-Vom 15. Mai 2017 (Stand 21. Januar 2021)
+Vom 15. Mai 2017 (Stand 18. September 2025)
 
 Der Gerichtsrat des Kantons Basel-Stadt,
 
@@ -124,6 +123,18 @@ beschliesst:
 **Protokollführende Personen an Sitzungen der Einzelrichterinnen oder Einzelrichter für Zwangsmassnahmen im Ausländerrecht**
 
 <sup>1</sup> Das Appellationsgericht legt die Entschädigung der protokollführenden Personen an den Sitzungen der Einzelrichterinnen oder Einzelrichter für Zwangsmassnahmen im Ausländerrecht sowie die Entschädigung für einen entsprechenden Bereitschaftsdienst mit einer vom Gerichtsrat zu genehmigenden Richtlinie fest.
+
+#### § 8d
+
+**Arbeitszeit und Ferien für Gerichtspräsidien**
+
+<sup>1</sup> Die Gerichtspräsidien arbeiten im Modell der Vertrauensarbeitszeit.
+
+<sup>2</sup> Die Gerichtspräsidien beziehen ihre Ferien in Orientierung an der personalrechtlichen Regelung selbstverantwortlich und in Absprache mit ihren Kolleginnen und Kollegen. Ferien können grundsätzlich nicht ins Folgejahr übertragen werden. Es besteht kein Anspruch auf Auszahlung nicht bezogener Ferien.
+
+<sup>3</sup> Gerichtspräsidien sind im Umfang des personalrechtlichen Mutterschafts- und Vaterschaftsurlaubs von der Erfüllung ihrer Amtspflichten dispensiert.
+
+<sup>4</sup> Die jeweilige Präsidienkonferenz kann einem Präsidiumsmitglied auf entsprechendes Gesuch in besonderen Fällen unbezahlten Urlaub gewähren, soweit dies der Gerichtsbetrieb zulässt.
 
 ## 4. Instanzenzug
 
