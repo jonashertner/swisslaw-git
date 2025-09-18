@@ -3,11 +3,11 @@ sr: "0.818.103"
 title: Règlement sanitaire international (2005) du 23 mai 2005 (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: fr
-version: 2024-05-31
+version: 2025-09-19
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20240531/fr/xml/fedlex-data-admin-ch-eli-cc-2007-343-20240531-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20240531/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/fr/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250919-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250919/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,9 +22,9 @@ Adopté par la Cinquante-huitième Assemblée mondiale de la Santé le 23 mai 20
 
 Entré en vigueur pour la Suisse le 15 juin 2007
 
-(État le 31 mai 2024)
+(État le 19 septembre 2025)
 
-[^t-1]: Révision totale du Règlement sanitaire international du 25 juil. 1969 ([RS 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207))
+[^t-1]: Révision totale du Règlement sanitaire international du 25 juil. 1969 ([RS 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)). La présente version du règlement n’est encore valable pour la Suisse que dans les rapports avec les États contractants qui n’ont pas ratifié les Am. de la résolution WHA77.17 (2024) ([RS 0.818.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40417)).
 
 La Cinquante-huitième Assemblée mondiale de la Santé,
 
@@ -70,7 +70,7 @@ se félicitant du succès des travaux du groupe de travail intergouvernemental s
 - 9) de prendre immédiatement des mesures en vue de l’élaboration de lignes directrices concernant la mise en oeuvre et l’évaluation de l’instrument de décision contenu dans le Règlement sanitaire international (2005), notamment l’élaboration d’une procédure pour l’examen de son fonctionnement, qui seront soumises à l’examen de l’Assemblée de la Santé conformément au par. 3 de l’art. 54 dudit Règlement,
 - 10) de prendre des mesures pour établir une liste d’experts du RSI et de solliciter des candidatures, conformément à l’art. 47 du Règlement sanitaire international (2005).
 
-[^ingress-1]: [RS 0.810.1](https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976); Organisation mondiale de la Santé
+[^ingress-1]: [RS 0.810.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3408); Organisation mondiale de la Santé
 
 ## Titre I Définitions, objet et portée, principes et autorités responsables
 
@@ -236,7 +236,7 @@ L’objet et la portée du présent Règlement consistent à prévenir la propag
 
 <sup>4.</sup> En application de la Charte des Nations Unies et des principes du droit international, les États ont le droit souverain de légiférer et de promulguer la législation en vue de la mise en oeuvre de leurs politiques en matière de santé. Ce faisant, ils doivent favoriser les buts du présent Règlement.
 
-[^3-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^3-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 4
 
@@ -1099,8 +1099,8 @@ Sous réserve des dispositions de l’art. 62 et des exceptions prévues ci-apr�
 
 <sup>2.</sup> Le Code sanitaire panaméricain, signé à La Havane le 14 novembre 1924, reste en vigueur, à l’exception des art. 2, 9, 10, 11, 16 à 53 inclus, 61 et 62, auxquels s’appliquent les dispositions pertinentes du par. 1 du présent article.
 
-[^58-1]: [RS 0.818.101](https://fedlex.data.admin.ch/eli/cc/1952/841_861_857)
-[^58-2]: [RS 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207)
+[^58-1]: [RS 0.818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3571)
+[^58-2]: [RS 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)
 
 #### Art. 59
 
@@ -1203,7 +1203,7 @@ En application des dispositions du paragraphe 2 de l’article 65, le Directeur 
 
 <sup>3.</sup> Au moment de l’entrée en vigueur du présent Règlement, le Directeur général en transmet des copies certifiées conformes au Secrétaire général de l’Organisation des Nations Unies pour enregistrement, conformément à l’art. 102 de la Charte des Nations Unies[^66-1].
 
-[^66-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^66-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 Annexe 1
 
@@ -1301,7 +1301,7 @@ Les exemples figurant dans la présente annexe n’ont pas de caractère contrai
 
 ### L’événement répond-il a deux au moins des critères suivants?
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20240531/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/fr/xml/image/image1.png)
 
 <table>
 <tr><td>L’événement est-il inhabituel ou inattendu?</td><td></td></tr>
@@ -1329,20 +1329,20 @@ Les exemples figurant dans la présente annexe n’ont pas de caractère contrai
 <tr><td></td><td>Y a-t-il un risque important de restrictions aux echanges ou aux voyages internationaux? Répondre «oui» si l’on a répondu «oui» aux questions 8, 9, 10 ou 11 ci-dessus.</td></tr>
 </table>
 
-Les États Parties ayant répondu « oui » à la question de savoir si l’événement satisfait à deux des quatre critères (I–IV) énoncés ci-dessus doivent adresser une notification à l’OMS, en vertu de l’art. 6 du Règlement sanitaire international.
+Les États Parties ayant répondu «oui» à la question de savoir si l’événement satisfait à deux des quatre critères (I–IV) énoncés ci-dessus doivent adresser une notification à l’OMS, en vertu de l’art. 6 du Règlement sanitaire international.
 
 Annexe 3
 
 ## Modèle de certificat d’exemption de contrôle sanitaire de navire/certificat de contrôle sanitaire de navire
 
 <table>
-<tr><td>Port: …………….....…………… Date: ……...……………………</td></tr>
+<tr><td>Port: ………………..…………… Date: ……………………………</td></tr>
 <tr><td>Le présent certificat rend compte de l’inspection et:</td></tr>
 <tr><td>1. de l’exemption du contrôle ou</td></tr>
 <tr><td>2. des mesures appliquées</td></tr>
-<tr><td>Nom du navire ou du bateau de navigation intérieure: ……...………………… Pavillon: ……...………………… N<sup>o</sup>: d’immatriculation/OMI: ……...……………</td></tr>
-<tr><td>Au moment de l’inspection, les cales étaient déchargées/chargées de ......…..................... tonnes de cargaison</td></tr>
-<tr><td>Nom et adresse du bureau d’inspection ………….......………………</td></tr>
+<tr><td>Nom du navire ou du bateau de navigation intérieure: ………………………… Pavillon: ………………………… N<sup>o</sup>: d’immatriculation/OMI: ……………………</td></tr>
+<tr><td>Au moment de l’inspection, les cales étaient déchargées/chargées de ………………………… tonnes de cargaison</td></tr>
+<tr><td>Nom et adresse du bureau d’inspection ……………….………………</td></tr>
 </table>
 
 <table>
@@ -1355,11 +1355,11 @@ Annexe 3
 <tr><td colspan="2">Cambuse</td><td></td><td></td><td>Journal de bord</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Entrepôts de stockage</td><td></td><td></td><td>Autres</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Cale(s)/cargaison</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">[tab] Quartiers:</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– postes d’équipage</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– carré des officiers</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– cabines des passagers</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– pont</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="2">[tab] Quartiers:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">– postes d’équipage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">– carré des officiers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">– cabines des passagers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">– pont</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Eau potable</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Eaux usées</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Ballast</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1482,7 +1482,7 @@ Annexe 6
 
 Modèle de certificat international de vaccination ou de certificat attestant l’administration d’une prophylaxie
 
-Nous certifions que [nom] …..…………………………. né(e) le ………….………, de sexe .…………….. et de nationalité .……………………………………………, document d’identification national, le cas échéant ………... dont la signature suit ………………………………………
+Nous certifions que [nom] …..…………………………. né(e) le ………….………, de sexe .…………….. et de nationalité .……………………………………………, document d’identification national, le cas échéant ………… dont la signature suit ………………………………………
 
 a été vacciné(e) ou a reçu des agents prophylactiques à la date indiquée contre: (nom de la maladie ou de l’affection) ………………………………………………………
 
@@ -1587,11 +1587,11 @@ Effectif de l’équipage ……………….. Nombre de passagers à bord …�
 
 \3) Le nombre total de passagers malades au cours du voyage a-t-il été supérieur à la normale/au nombre escompté? oui ……… non ……… Quel a été le nombre de malades? ………….
 
-\4) Y a-t-il actuellement des malades à bord ? oui …… non …… Si oui, donner les détails dans le tableau ci-contre.
+\4) Y a-t-il actuellement des malades à bord? oui …… non …… Si oui, donner les détails dans le tableau ci-contre.
 
 \5) Un médecin a-t-il été consulté? oui …… non …… Si oui, donner les détails du traitement ou des avis médicaux dans le tableau ci-contre.
 
-\6) Avez-vous connaissance de l’existence à bord d’une affection susceptible d’être à l’origine d’une infection ou de la propagation d’une maladie ? oui …… non …… Si oui, donner les détails dans le tableau ci-contre.
+\6) Avez-vous connaissance de l’existence à bord d’une affection susceptible d’être à l’origine d’une infection ou de la propagation d’une maladie? oui …… non …… Si oui, donner les détails dans le tableau ci-contre.
 
 \7) Des mesures sanitaires quelconques (quarantaine, isolement, désinfection ou décontamination, par ex.) ont-elles été prises à bord? oui …..… non …….. Si oui, préciser lesquelles, le lieu et la date ………………………
 
@@ -1618,13 +1618,13 @@ Effectif de l’équipage ……………….. Nombre de passagers à bord …�
   - i) un érythème ou une éruption cutanée aigus;
   - ii) de forts vomissements (non provoqués par le mal de mer);
   - iii) une diarrhée sévère, ou
-  - a) des convulsions récurrentes.
+  - des convulsions récurrentes.
 
 Je déclare que les renseignements et réponses figurant dans la présente déclaration de santé (y compris le tableau) sont, à ma connaissance, exacts et conformes à la vérité.
 
 <table>
-<tr><td>Date ……………</td><td>Signé: …………..………...................………… Capitaine</td></tr>
-<tr><td></td><td>Contresigné: …………….….........…………..... Médecin de bord (s’il y a lieu)</td></tr>
+<tr><td>Date ……………</td><td>Signé: …………..……………………….…… Capitaine</td></tr>
+<tr><td></td><td>Contresigné: …………….…………………… Médecin de bord (s’il y a lieu)</td></tr>
 </table>
 
 ### Pièce jointe au modèle de déclaration maritime de santé
@@ -1651,7 +1651,7 @@ Nom et numéro de siège ou fonction des personnes à bord atteintes de maladies
 
 ………………………………………………………………………………………… …………………………………………………………………………………………
 
-Renseignements détaillés sur chaque désinsectisation ou autre opération sanitaire (lieu, date, heure, méthode) effectuée au cours du vol. S’il n’y a pas eu de désinsectisation en cours de vol, donner des précisions sur la désinsectisation la plus récente ………………………………………………………………………………... …………………………………………………………………………………………
+Renseignements détaillés sur chaque désinsectisation ou autre opération sanitaire (lieu, date, heure, méthode) effectuée au cours du vol. S’il n’y a pas eu de désinsectisation en cours de vol, donner des précisions sur la désinsectisation la plus récente ………………………………………………………………………………… …………………………………………………………………………………………
 
 Signature, s’il y a lieu, avec date et heure …………………………
 
@@ -1742,7 +1742,6 @@ Champ d’application le 11 août 2015[^t-4]
 <tr><td>Haïti</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Honduras</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Hongrie</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
-<tr><td>Îles Cook</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Îles Marshall</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Îles Salomon</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Inde\*</td><td></td><td></td><td>8 août</td><td>2007</td></tr>
@@ -1794,9 +1793,10 @@ Champ d’application le 11 août 2015[^t-4]
 <tr><td>Nicaragua</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Niger</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Nigéria</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
-<tr><td>Nioué</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Norvège</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Nouvelle-Zélande</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
+<tr><td>Îles Cook</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
+<tr><td>Nioué</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Oman</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Ouganda</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Ouzbékistan</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
@@ -1818,10 +1818,10 @@ Champ d’application le 11 août 2015[^t-4]
 <tr><td>Royaume-Uni</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Russie</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Rwanda</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
-<tr><td>Sainte-Lucie</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Saint-Marin</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
+<tr><td>Sainte-Lucie</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Samoa</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Sénégal</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
@@ -1859,11 +1859,10 @@ Champ d’application le 11 août 2015[^t-4]
 <tr><td>Yémen</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Zambie</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Zimbabwe</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la santé (OMS): [www.who.int/fr](https://www.who.int/fr) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Déclarations de la Présidence au nom des États parties à l’Union européenne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la santé (OMS): [www.who.int/fr](https://www.who.int/fr) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Déclarations de la Présidence au nom des États parties à l’Union européenne.</td></tr>
 </table>
 
-[^t-4]: [RO 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343), [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58), [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Amendements des art. 55, 59, 61, 62 et 63 du Règlement sanitaire international
 

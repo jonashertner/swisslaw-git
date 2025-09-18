@@ -3,11 +3,11 @@ sr: "0.818.103"
 title: Regolamento sanitario internazionale (2005) del 23 maggio 2005 (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: it
-version: 2024-05-31
+version: 2025-09-19
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20240531/it/xml/fedlex-data-admin-ch-eli-cc-2007-343-20240531-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20240531/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/it/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250919-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250919/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,9 +20,9 @@ Traduzione
 
 Adottato alla cinquantottesima Assemblea mondiale della Sanità il 23 maggio 2005 Entrato in vigore per la Svizzera il 15 giugno 2007
 
-(Stato 31 maggio 2024)
+(Stato 19 settembre 2025)
 
-[^t-1]: Revisione totale del R sanitario internazionale del 25 lug. 1969 ([RS 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207)).
+[^t-1]: Revisione totale del R sanitario internazionale del 25 lug. 1969 ([RS 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)). Il presente regolamento è ancora applicabile per la Svizzera nei suoi rapporti con le Parti contraenti che non hanno ratificato gli emendamenti della risoluzione WHA77.17 (2024) ([RS 0.818.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40417)).
 
 La cinquantottesima Assemblea mondiale della Sanità,
 
@@ -68,7 +68,7 @@ esprimendo apprezzamento per la conclusione positiva dei lavori del gruppo di la
 - 9) di attuare provvedimenti immediati per la preparazione di linee guida per l’implementazione e la valutazione dello strumento decisionale contenuto nel Regolamento sanitario internazionale (2005) inclusa l’elaborazione di una procedura per il riesame della sua efficacia, da sottoporre all’Assemblea mondiale della Sanità affinché venga presa in esame ai sensi del paragrafo 3 dell’articolo 54 del Regolamento;
 - 10) di attuare provvedimenti volti a istituire un Registro degli esperti del RSI ai sensi dell’articolo 47 del Regolamento sanitario internazionale (2005) e, a questo scopo, di invitare a presentare proposte di candidature in base a tale articolo.
 
-[^ingress-1]: [RS 0.810.1](https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976); Organizzazione Mondiale della Sanità.
+[^ingress-1]: [RS 0.810.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3408); Organizzazione Mondiale della Sanità.
 
 ## Parte I Definizioni, scopo e ambito, principi e autorità responsabili
 
@@ -238,7 +238,7 @@ Lo scopo e l’ambito del presente Regolamento mirano a prevenire, proteggere, t
 
 <sup>4.</sup> Gli Stati godono, ai sensi dello Statuto delle Nazioni Unite e dei principi del diritto internazionale, del diritto sovrano di legiferare e di implementare la legislazione in accordo con le loro politiche sanitarie. Nel fare ciò, dovrebbero appoggiare lo scopo del presente Regolamento.
 
-[^3-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^3-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 4
 
@@ -1096,8 +1096,8 @@ Il presente Regolamento, ai sensi delle disposizioni dell’articolo 62 e delle 
 
 <sup>2.</sup> Il Codice sanitario panamericano, firmato a L’Avana il 14 novembre 1924, resta in vigore con l’eccezione degli articoli 2, 9, 10, 11, 16–53 inclusi, 61 e 62, a cui si applica la parte relativa del paragrafo 1 del presente articolo.
 
-[^58-1]: [RS 0.818.101](https://fedlex.data.admin.ch/eli/cc/1952/841_861_857)
-[^58-2]: [RS 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207)
+[^58-1]: [RS 0.818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3571)
+[^58-2]: [RS 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)
 
 #### Art. 59
 
@@ -1200,7 +1200,7 @@ Il Direttore generale deve, nel rispetto del paragrafo 2 dell’articolo 65, dar
 
 <sup>3.</sup> Al momento dell’entrata in vigore del presente Regolamento, il Direttore generale deve consegnare copie certificate dello stesso al Segretario generale delle Nazioni Unite affinché vengano registrate ai sensi dell’articolo 102 dello Statuto delle Nazioni Unite.[^66-1]
 
-[^66-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^66-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 Allegato 1
 
@@ -1278,7 +1278,7 @@ Allegato 2
 
 <table>
 <tr><td colspan="32">**Eventi rilevati da un sistema di sorveglianza nazionale (vedere allegato 1)**</td></tr>
-<tr><td colspan="7">**Un caso di una delle seguenti malattie è insolito o inaspettato e può avere un grave impatto sulla sanità pubblica, per questo deve essere notificato****<sup>ab</sup>****:** **–** **Vaiolo** **–** **Poliomielite dovuta a un poliovirus selvaggio** **–** **Influenza umana causata da un nuovo sottotipo** **–** **Sindrome respiratoria acuta grave (SARS)**</td><td></td><td></td><td></td><td colspan="7">**Qualsiasi evento di potenziale interesse sanitario internazionale, inclusi quelli con causa o fonte sconosciuta e quelli relativi a eventi o malattie diversi da quelli elencati nel riquadro a sinistra e nel riquadro a destra richiedono l’utilizzo dell’algoritmo.**</td><td></td><td></td><td></td><td colspan="12">**Qualsiasi evento relativo** **alle seguenti malattie deve sempre determinare** **l’utilizzo dell’algoritmo, in quanto tali malattie hanno dimostrato la capacità di causare un grave impatto sanitario e di diffondersi rapidamente a livello internazionale****<sup>b</sup>****:** **–** **Colera** **–** **Peste polmonare** **–** **Febbre gialla** **–** **Febbri emorragiche** **virali (Ebola, Lassa, Marburg)** **–** **Febbre del Nilo Occidentale (West Nile Fever)** **–** **Altre malattie di speciale interesse nazionale o regionale, ad esempio dengue, febbre della** **Rift Valley e malattia meningococcica.** [tab]</td></tr>
+<tr><td colspan="7">**Un caso di una delle seguenti malattie è insolito o inaspettato e può avere un grave impatto sulla sanità pubblica, per questo deve essere notificato****<sup>ab</sup>****:** **–** **Vaiolo** **–** **Poliomielite dovuta a un poliovirus selvaggio** **–** **Influenza umana causata da un nuovo sottotipo** **–** **Sindrome respiratoria acuta grave (SARS)**</td><td></td><td></td><td></td><td colspan="7">**Qualsiasi evento di potenziale interesse sanitario internazionale, inclusi quelli con causa o fonte sconosciuta e quelli relativi a eventi o malattie diversi da quelli elencati nel riquadro a sinistra e nel riquadro a destra richiedono l’utilizzo dell’algoritmo.**</td><td></td><td></td><td></td><td colspan="12">**Qualsiasi evento relativo** **alle seguenti malattie deve sempre determinare** **l’utilizzo dell’algoritmo, in quanto tali malattie hanno dimostrato la capacità di causare un grave impatto sanitario e di diffondersi rapidamente a livello internazionale****<sup>b</sup>****:** **–** **Colera** **–** **Peste polmonare** **–** **Febbre gialla** **–** **Febbri emorragiche** **virali (Ebola, Lassa, Marburg)** **–** **Febbre del Nilo Occidentale (West Nile Fever)** **–** **Altre malattie di speciale interesse nazionale o regionale, ad esempio dengue, febbre della** **Rift Valley e malattia meningococcica.**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="9">**L’evento ha un impatto** **sanitario grave?**</td><td></td><td></td><td colspan="12"></td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="9">**L’evento è insolito o inaspettato?**</td><td></td><td></td><td></td><td></td><td colspan="12">**L’evento è insolito o inaspettato?**</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="8">**Esiste un rischio significativo** **di diffusione internazionale?**</td><td></td><td></td><td></td><td></td><td colspan="14">**Esiste un rischio significativo di diffusione internazionale?**</td></tr>
@@ -1371,10 +1371,10 @@ Allegato 3
 <tr><td>Scorte</td><td></td><td></td><td>Altri</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Stive/carico</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Alloggi:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– equipaggio</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– ufficiali</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– passeggeri</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– coperta</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– equipaggio</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– ufficiali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– passeggeri</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– coperta</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Acqua potabile</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Acque di scarico</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Casse di zavorra</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>

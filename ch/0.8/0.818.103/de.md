@@ -3,11 +3,11 @@ sr: "0.818.103"
 title: Internationale Gesundheitsvorschriften (2005) vom 23. Mai 2005 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: de
-version: 2024-05-31
+version: 2025-09-19
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20240531/de/xml/fedlex-data-admin-ch-eli-cc-2007-343-20240531-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20240531/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/de/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250919-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250919/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,9 +22,9 @@ Angenommen an der 58. Weltgesundheitsversammlung am 23. Mai 2005
 
 Für die Schweiz in Kraft getreten am 15. Juni 2007
 
-(Stand am 31. Mai 2024)
+(Stand am 19. September 2025)
 
-[^t-1]: Totalrevision des Internationalen Sanitätsreglements vom 25. Juli 1969 ([SR 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207)); Deutschland, Österreich und die Schweiz haben beschlossen, in Zukunft gemeinsam den Begriff «Internationale Gesundheitsvorschriften» (IGV) zu verwenden; diese Anpassung gilt für den ganzen Text der Vorschriften.
+[^t-1]: Totalrevision des Internationalen Sanitätsreglements vom 25. Juli 1969 ([SR 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)); Deutschland, Österreich und die Schweiz haben beschlossen, in Zukunft gemeinsam den Begriff «Internationale Gesundheitsvorschriften» (IGV) zu verwenden; diese Anpassung gilt für den ganzen Text der Vorschriften. Die vorliegende Fassung der Vorschriften gilt für die Schweiz nur noch im Verhältnis zu den Staaten, welche die Änd. der Internationalen Gesundheitsvorschriften (2005) durch Resolution WHA77.17 (2024) ([SR 0.818.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40417)) nicht ratifiziert haben.
 
 Die achtundfünfzigste Weltgesundheitsversammlung,
 
@@ -70,7 +70,7 @@ erfreut über den erfolgreichen Abschluss der Arbeiten der zwischenstaatlichen A
 - 9) sofort Massnahmen zu ergreifen für die Erarbeitung von Leitlinien zur Umsetzung und Bewertung des in den Internationalen Gesundheitsvorschriften (2005) vorgesehenen Entscheidungsschemas, welche der Weltgesundheitsversammlung nach Artikel 54 Absatz 3 der Vorschriften zur Prüfung vorgelegt werden, einschliesslich der Entwicklung eines Verfahrens, um die Wirksamkeit des Schemas zu überprüfen,
 - 10) Massnahmen zu ergreifen, um nach Artikel 47 der Internationalen Gesundheitsvorschriften (2005) eine IGV-Sachverständigenliste zu erstellen und Vorschläge für Mitglieder einzuholen.
 
-[^ingress-1]: [SR 0.810.1](https://fedlex.data.admin.ch/eli/cc/1948/1015_1002_976); Weltgesundheitsorganisation
+[^ingress-1]: [SR 0.810.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3408); Weltgesundheitsorganisation
 
 ## Teil I Begriffsbestimmungen, Zweck und Anwendungsbereich, Grundsätze und zuständige Behörden
 
@@ -242,7 +242,7 @@ Zweck und Anwendungsbereich dieser Vorschriften bestehen darin, die grenzübersc
 
 <sup>(4)</sup> Die Staaten haben im Einklang mit der Charta der Vereinten Nationen und den Grundsätzen des Völkerrechts das souveräne Recht, bei der Verfolgung ihrer jeweiligen Gesundheitspolitik Gesetze zu erlassen und durchzuführen. Dabei sollen sie dem Ziel dieser Vorschriften Rechnung tragen.
 
-[^3-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^3-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 4
 
@@ -1120,8 +1120,8 @@ Diese Vorschriften ersetzen vorbehaltlich des Artikels 62 und der nachstehend vo
 
 <sup>(2)</sup> Der in Havanna am 14. November 1924 unterzeichnete Panamerikanische Kodex des Gesundheitswesens bleibt mit Ausnahme der Artikel 2, 9, 10, 11, 16–53, 61 und 62, auf welche der einschlägige Teil des Absatzes 1 des vorliegenden Artikels Anwendung findet, in Kraft.
 
-[^58-1]: [SR 0.818.101](https://fedlex.data.admin.ch/eli/cc/1952/841_861_857)
-[^58-2]: [SR 0.818.102](https://fedlex.data.admin.ch/eli/cc/1971/1209_1207_1207)
+[^58-1]: [SR 0.818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3571)
+[^58-2]: [SR 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)
 
 #### Art. 59
 
@@ -1224,7 +1224,7 @@ Der Generaldirektor notifiziert in Übereinstimmung mit Artikel 65 Absatz 2 jede
 
 <sup>(3)</sup> Bei Inkrafttreten der Vorschriften übermittelt der Generaldirektor dem Generalsekretär der Vereinten Nationen beglaubigte Abschriften zur Registrierung nach Artikel 102 der Charta der Vereinten Nationen[^66-1].
 
-[^66-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^66-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 Anlage 1
 
@@ -1397,10 +1397,10 @@ Anlage 3
 <tr><td colspan="2">Lagerräume</td><td></td><td></td><td>andere</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Laderaum (-räume)/Fracht</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Unterkünfte:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">– Besatzungsmitglieder</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– Offiziere</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– Fahrgäste</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– Deck</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="2">– Besatzungsmitglieder</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">– Offiziere</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">– Fahrgäste</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">– Deck</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Trinkwasser</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Abwasser</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Ballasttanks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
