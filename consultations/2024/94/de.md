@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Obligationenrechts (Verlängerung des Urlaubs für ausserschulische Jugendarbeit)
 document: Vernehmlassungsvorlage
 language: de

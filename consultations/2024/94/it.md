@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica del Codice delle obbligazioni (Prolungamento del congedo per attività giovanili extrascolastiche)
 document: Progetto posto in consultazione
 language: it

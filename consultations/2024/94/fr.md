@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du code des obligations (Prolongation du congé pour les activités de jeunesse extrascolaire)
 document: Projet mis en consultation
 language: fr
