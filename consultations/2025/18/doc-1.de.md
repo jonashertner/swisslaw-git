@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderungen aufgrund der Übernahme und Umsetzung der Verordnung (EU) 2024/1717 zur Revision des Schengener Grenzkodex (Schengen-Weiterentwicklung) sowie aufgrund einer Änderung des Ausländer- und Integrationsgesetzes
 document: Vernehmlassungsvorlage VEV
 language: de

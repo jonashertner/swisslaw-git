@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche di ordinanze a seguito del recepimento e della trasposizione nel diritto svizzero del regolamento (UE) 2024/1717 relativo alla revisione del codice frontiere Schengen (Sviluppo dell’acquis di Schengen) nonché a seguito di una modifica della legge federale sugli stranieri e la loro integrazione
 document: Progetto posto in consultazione O SIMIC
 language: it

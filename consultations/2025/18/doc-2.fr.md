@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifications d’ordonnances liées à la reprise et à la mise en œuvre du règlement (UE) 2024/1717 modifiant le code frontières Schengen (développement de l’acquis de Schengen) et à une modification de la loi fédérale sur les étrangers et l’intégration
 document: Projet mis en consultation OASA
 language: fr
