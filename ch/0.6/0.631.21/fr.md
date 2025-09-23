@@ -3,11 +3,11 @@ sr: "0.631.21"
 title: "Protocole d'amendement du 26 juin 1999 à la Convention internationale du 18 mai 1973 pour la simplification et l'harmonisation des régimes douaniers (avec appendices)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/342"
 language: fr
-version: 2020-01-21
+version: 2025-09-24
 adopted: 1999-06-26
 in_force: 2006-02-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20200121/fr/xml/fedlex-data-admin-ch-eli-cc-2007-342-20200121-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/342/20200121/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20250924/fr/xml/fedlex-data-admin-ch-eli-cc-2007-342-20250924-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/342/20250924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,9 +26,9 @@ Instrument de ratification déposé par la Suisse le 26 juin 2004
 
 Entré en vigueur pour la Suisse le 3 février 2006
 
-(Etat le 21 janvier 2020)
+(État le 24 septembre 2025)
 
-Les Parties contractantes à la Convention internationale pour la simplification et l’harmonisation des régimes douaniers (faite à Kyoto le 18 mai 1973 et entrée en vigueur le 25 septembre 1974)*[^ingress-1]*,
+Les Parties contractantes à la Convention internationale pour la simplification et l’harmonisation des régimes douaniers (faite à Kyoto le 18 mai 1973 et entrée en vigueur le 25 septembre 1974)[^ingress-1],
 
 ci-après dénommée «la Convention»,
 
@@ -40,19 +40,19 @@ considérant que, en vue d’atteindre les objectifs qui consistent:
 
 - – à éliminer les disparités entre les régimes douaniers et les pratiques douanières des Parties contractantes, qui peuvent entraver le commerce international et les autres échanges internationaux;
 - – à répondre aux besoins du commerce international et de la douane en matière de facilitation, de simplification et d’harmonisation des régimes douaniers et des pratiques douanières;
-- – à assurer l’établissement de normes adéquates en matière de contrôle douanier; et
+- – à assurer l’établissement de normes adéquates en matière de contrôle douanier, et
 - – à permettre à la douane de faire face aux changements majeurs intervenus dans le commerce et dans les méthodes et techniques administratives,
 - [tab] la Convention doit être amendée,
 
 considérant également que la Convention amendée:
 
 - – doit assurer que les principes fondamentaux régissant cette simplification et cette harmonisation ont un caractère contraignant à l’égard des Parties contractantes à cette Convention;
-- – doit permettre à la douane de se doter de procédures efficaces appuyées par des méthodes de contrôle adéquates et efficaces; et
+- – doit permettre à la douane de se doter de procédures efficaces appuyées par des méthodes de contrôle adéquates et efficaces, et
 - – permettra de parvenir à un degré élevé de simplification et d’harmonisation des régimes douaniers et des pratiques douanières, ce qui est un objectif essentiel du Conseil, et d’apporter ainsi une contribution majeure à la facilitation du commerce international,
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.631.20](https://fedlex.data.admin.ch/eli/cc/1977/1437_1437_1437)
+[^ingress-1]: [RS 0.631.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2023)
 
 #### Art. 1
 
@@ -68,10 +68,10 @@ Les Annexes de la Convention sont remplacées par l’Annexe générale figurant
 
 <sup>1.</sup>
 
-Toute Partie contractante à la Convention peut exprimer son consentement à être liée par le présent Protocole, y compris les appendices I et II :
+Toute Partie contractante à la Convention peut exprimer son consentement à être liée par le présent Protocole, y compris les appendices I et II:
 
 - a) en le signant sans réserve de ratification;
-- b) en déposant un instrument de ratification après l’avoir signé sous réserve de ratification; ou
+- b) en déposant un instrument de ratification après l’avoir signé sous réserve de ratification, ou
 - c) en y adhérant.
 
 <sup>2.</sup> Le présent Protocole est ouvert jusqu’au 30 juin 2000, au siège du Conseil à Bruxelles, à la signature des Parties contractantes à la Convention. Après cette date, il sera ouvert à l’adhésion.
@@ -104,7 +104,7 @@ Le présent Protocole sera ouvert à la signature des Parties contractantes à l
 
 Conformément à l’art. 102 de la Charte des Nations Unies[^9-1], le présent Protocole et ses appendices sera enregistré au Secrétariat des Nations Unies à la requête du Secrétaire général du Conseil.
 
-[^9-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^9-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *En foi de quoi,* les soussignés à ce dûment autorisés ont signé le présent Protocole. Fait à Bruxelles, le vingt-six juin mil neuf cent quatre-vingt dix-neuf, en langues française et anglaise, les deux textes faisant également foi, en un seul exemplaire qui sera déposé auprès du Secrétaire général du Conseil qui en transmettra des copies certifiées conformes à toutes les entités visées au par. 1 de l’art. 8 figurant à l’appendice I du présent Protocole. (Suivent les signatures)
 
@@ -301,7 +301,7 @@ La douane exige le dépôt de la déclaration de marchandises originale et le no
 
 3.16. Norme
 
-A l’appui de la déclaration de marchandises, la douane n’exige que les documents indispensables pour permettre le contrôle de l’opération et pour s’assurer que toutes les prescriptions relatives à l’application de la législation douanière ont été observées.
+À l’appui de la déclaration de marchandises, la douane n’exige que les documents indispensables pour permettre le contrôle de l’opération et pour s’assurer que toutes les prescriptions relatives à l’application de la législation douanière ont été observées.
 
 3.17. Norme
 
@@ -426,7 +426,7 @@ La mainlevée est accordée pour les marchandises déclarées dès que la douane
 
 - – qu’aucune infraction n’ait été relevée;
 - – que la licence d’importation ou d’exportation ou les autres documents nécessaires aient été communiqués;
-- – que toutes les autorisations relatives au régime considéré aient été communiquées; et
+- – que toutes les autorisations relatives au régime considéré aient été communiquées, et
 - – que les droits et taxes aient été acquittés ou que les mesures nécessaires aient été prises en vue d’assurer leur recouvrement.
 
 3.41. Norme
@@ -539,7 +539,7 @@ Le remboursement est accordé lorsqu’il est établi que la prise en compte exc
 
 4.19. Norme
 
-Le remboursement est accordé pour les marchandises importées ou exportées dont il est reconnu, qu’au moment de l’importation ou de l’exportation, elles étaient défectueuses ou, pour toute autre cause, non conformes aux caractéristiques prévues et sont renvoyées au fournisseur ou à une autre personne désignée par ce dernier, à condition que :
+Le remboursement est accordé pour les marchandises importées ou exportées dont il est reconnu, qu’au moment de l’importation ou de l’exportation, elles étaient défectueuses ou, pour toute autre cause, non conformes aux caractéristiques prévues et sont renvoyées au fournisseur ou à une autre personne désignée par ce dernier, à condition que:
 
 - – les marchandises soient réexportées dans un délai raisonnable, sans avoir fait l’objet d’aucune ouvraison ni réparation et sans avoir été utilisées dans le pays d’importation;
 - – les marchandises soient réimportées dans un délai raisonnable, sans avoir fait l’objet d’aucune ouvraison ni réparation et sans avoir été utilisées dans le pays vers lequel elles avaient été exportées.
@@ -712,7 +712,7 @@ La douane utilise la technologie de l’information afin d’améliorer la commu
 
 9.4. Norme
 
-A la demande de la personne intéressée, la douane fournit, de manière aussi rapide et aussi exacte que possible, des renseignements relatifs aux points particuliers soulevés par cette personne et concernant la législation douanière.
+À la demande de la personne intéressée, la douane fournit, de manière aussi rapide et aussi exacte que possible, des renseignements relatifs aux points particuliers soulevés par cette personne et concernant la législation douanière.
 
 9.5. Norme
 
@@ -730,7 +730,7 @@ Lorsque la douane n’est pas en mesure de fournir des renseignements gratuiteme
 
 9.8. Norme
 
-A la demande écrite de la personne concernée, la douane communique sa décision par écrit, dans les délais fixés par la législation nationale. Lorsque cette décision est défavorable à l’intéressé, celui-ci est informé des motifs de cette décision et de la possibilité d’introduire un recours.
+À la demande écrite de la personne concernée, la douane communique sa décision par écrit, dans les délais fixés par la législation nationale. Lorsque cette décision est défavorable à l’intéressé, celui-ci est informé des motifs de cette décision et de la possibilité d’introduire un recours.
 
 9.9. Norme
 
@@ -792,7 +792,7 @@ Lorsqu’un recours adressé à la douane est rejeté, cette dernière notifie �
 
 Lorsqu’il a été fait droit au recours, la douane se conforme à sa décision ou au jugement des autorités indépendantes ou judiciaires dès que possible, sauf lorsqu’elle introduit elle-même un recours à l’égard de ce jugement.
 
-Appendice III*[^t-1]*
+Appendice III[^t-1]
 
 ## Annexes spécifiques
 
@@ -914,7 +914,7 @@ La douane précise les dispositions que le transporteur doit prendre, en cas d�
 
 1.14 Pratique recommandée
 
-A la demande du transporteur, et pour des raisons jugées valables par la douane, celle-ci devrait, dans la mesure du possible, permettre que les formalités douanières antérieures au dépôt de la déclaration de marchandises soient accomplies en dehors des heures d’ouverture fixées par l’administration des douanes.
+À la demande du transporteur, et pour des raisons jugées valables par la douane, celle-ci devrait, dans la mesure du possible, permettre que les formalités douanières antérieures au dépôt de la déclaration de marchandises soient accomplies en dehors des heures d’ouverture fixées par l’administration des douanes.
 
 ### Déchargement
 
@@ -926,7 +926,7 @@ La législation nationale détermine les emplacements où le déchargement est a
 
 1.16 Pratique recommandée
 
-A la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci devrait permettre que le déchargement soit effectué en dehors des emplacements autorisés à cet effet.
+À la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci devrait permettre que le déchargement soit effectué en dehors des emplacements autorisés à cet effet.
 
 b) Commencement du déchargement
 
@@ -936,7 +936,7 @@ Le commencement du déchargement est autorisé le plus tôt possible après l’
 
 1.18 Pratique recommandée
 
-A la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci devrait, dans la mesure du possible, autoriser le déchargement en dehors des heures d’ouverture fixées par l’administration des douanes.
+À la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci devrait, dans la mesure du possible, autoriser le déchargement en dehors des heures d’ouverture fixées par l’administration des douanes.
 
 ### Frais
 
@@ -945,7 +945,7 @@ A la demande de la personne intéressée, et pour des raisons jugées valables p
 Les frais à percevoir par la douane en ce qui concerne:
 
 - – l’accomplissement des formalités antérieures au dépôt de la déclaration de marchandises en dehors des heures d’ouverture fixées par la douane;
-- – le déchargement des marchandises en dehors des emplacements autorisés à cet effet; ou
+- – le déchargement des marchandises en dehors des emplacements autorisés à cet effet, ou
 - – le déchargement des marchandises en dehors des heures d’ouverture fixées par la douane;
 
 se limitent au coût approximatif des services rendus.
@@ -1007,7 +1007,7 @@ Lorsque la législation nationale prévoit un délai limite pour le dépôt temp
 
 2.10 Pratique recommandée
 
-A la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci devrait proroger le délai fixé initialement.
+À la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci devrait proroger le délai fixé initialement.
 
 ### Marchandises détériorées ou endommagées
 
@@ -1120,7 +1120,7 @@ La douane autorise, à la demande du déclarant, que les marchandises soient exp
 
 2.12 Norme
 
-La douane fixe les conditions à remplir aux fins de l’identification des marchandises exportées avec réserve de retour. A cet effet, elle tient compte de la nature des marchandises et de l’importance des intérêts en jeu.
+La douane fixe les conditions à remplir aux fins de l’identification des marchandises exportées avec réserve de retour. À cet effet, elle tient compte de la nature des marchandises et de l’importance des intérêts en jeu.
 
 2.13 Pratique recommandée
 
@@ -1128,7 +1128,7 @@ Les marchandises exportées avec réserve de retour devraient bénéficier de la
 
 2.14 Norme
 
-A la demande de la personne intéressée, la douane permet que l’exportation avec réserve de retour soit convertie en une exportation définitive, pour autant qu’il soit satisfait aux conditions et formalités applicables dans ce cas.
+À la demande de la personne intéressée, la douane permet que l’exportation avec réserve de retour soit convertie en une exportation définitive, pour autant qu’il soit satisfait aux conditions et formalités applicables dans ce cas.
 
 2.15 Pratique recommandée
 
@@ -1184,7 +1184,7 @@ L’admission en franchise des droits et taxes à l’importation, sans prohibit
 - g) récompenses décernées à des personnes ayant leur résidence dans le pays d’importation, sous réserve du dépôt des documents justificatifs jugés nécessaires par la douane;
 - h) matériels destinés à la construction, l’entretien ou la décoration de cimetières militaires; cercueils, urnes funéraires et objets d’ornement funéraires importés par des organisations agréées par les autorités compétentes;
 - ij) documents, formulaires, publications, rapports et autres articles sans valeur commerciale désignés par la législation nationale;
-- k) objets religieux utilisés dans l’exercice du culte; et
+- k) objets religieux utilisés dans l’exercice du culte, et
 - l) produits importés en vue de subir des essais, à condition que les quantités ne dépassent pas celles strictement nécessaires aux essais et que les produits soient entièrement consommés au cours des essais ou que les produits non consommés soient réexportés ou traités, sous le contrôle de la douane, de manière à leur ôter toute valeur commerciale.
 
 Annexe spécifique C
@@ -1245,7 +1245,7 @@ La législation nationale prévoit des entrepôts de douane ouverts à toute per
 
 La législation nationale prévoit des entrepôts de douane réservés à l’usage exclusif de certaines personnes déterminées (entrepôts de douane privés) lorsque les nécessités particulières du commerce le justifient.
 
-### Etablissement, gestion et contrôle
+### Établissement, gestion et contrôle
 
 1.4 Norme
 
@@ -1290,7 +1290,7 @@ Toute personne ayant le droit de disposer des marchandises entreposées est auto
 
 - a) à les examiner;
 - b) à en prélever des échantillons moyennant paiement, le cas échéant, des droits et taxes à l’importation;
-- c) à effectuer les opérations nécessaires pour en assurer la conservation; et
+- c) à effectuer les opérations nécessaires pour en assurer la conservation, et
 - d) à effectuer toute autre manipulation normale nécessaire pour améliorer leur présentation ou leur qualité marchande ou les conditionner pour le transport, telles que la division ou la réunion de colis, l’assortiment et le classement des marchandises, le changement d’emballage.
 
 ### Durée de séjour
@@ -1341,7 +1341,7 @@ Pour l’application du présent Chapitre, on entend par:
 
 Les prescriptions douanières applicables aux zones franches sont régies par les dispositions du présent Chapitre et, dans la mesure où elles s’appliquent, par les dispositions de l’Annexe générale.
 
-### Etablissement et contrôle
+### Établissement et contrôle
 
 2.2 Norme
 
@@ -1426,7 +1426,7 @@ Tout ou partie des marchandises admises ou produites dans une zone franche doive
 
 2.17 Norme
 
-A la sortie d’une zone franche, seule la déclaration de marchandises normalement exigée pour placer lesdites marchandises sous le régime douanier qui leur est assigné est requise.
+À la sortie d’une zone franche, seule la déclaration de marchandises normalement exigée pour placer lesdites marchandises sous le régime douanier qui leur est assigné est requise.
 
 2.18 Pratique recommandée
 
@@ -1472,7 +1472,7 @@ Pour l’application du présent Chapitre, on entend par:
   - a) les conteneurs d’une capacité d’un mètre cube ou plus, y compris les carrosseries amovibles;
   - b) les véhicules routiers, y compris les remorques et semi-remorques;
   - c) les wagons de chemin de fer;
-  - d) les allèges, péniches et autres embarcations; et
+  - d) les allèges, péniches et autres embarcations, et
   - e) les aéronefs.
 
 ### Principe
@@ -1489,7 +1489,7 @@ La douane autorise le transport en transit douanier, sur son territoire, de marc
 
 - a) d’un bureau d’entrée à un bureau de sortie;
 - b) d’un bureau d’entrée à un bureau intérieur;
-- c) d’un bureau intérieur à un bureau de sortie; et
+- c) d’un bureau intérieur à un bureau de sortie, et
 - d) d’un bureau intérieur à un autre bureau intérieur.
 
 1.3 Norme
@@ -1532,7 +1532,7 @@ Lorsqu’un envoi est acheminé dans une unité de transport et que des scelleme
 
 - a) que les scellements douaniers puissent y être apposés de manière simple et efficace;
 - b) qu’aucune marchandise ne puisse être extraite des parties scellées de l’unité de transport ou y être introduite sans laisser de traces visibles d’effraction ou sans rupture du scellement douanier;
-- c) qu’elle ne comporte aucun espace caché permettant de dissimuler des marchandises; et
+- c) qu’elle ne comporte aucun espace caché permettant de dissimuler des marchandises, et
 - d) que tous les espaces capables de contenir des marchandises soient facilement accessibles pour les visites douanières.
 
 La douane décide si les unités de transport sont sûres aux fins du transit douanier.
@@ -1542,7 +1542,7 @@ La douane décide si les unités de transport sont sûres aux fins du transit do
 Lorsque les documents d’accompagnement permettent une identification sûre des marchandises, le transport devrait être effectué en général sans scellement douanier. Toutefois, le scellement douanier peut être exigé:
 
 - – lorsque le bureau de douane de départ l’exige, compte tenu de la gestion des risques;
-- – lorsque l’opération de transit douanier s’en trouve facilitée dans son ensemble; ou
+- – lorsque l’opération de transit douanier s’en trouve facilitée dans son ensemble, ou
 - – lorsqu’un accord international le prévoit.
 
 1.12 Norme
@@ -1552,7 +1552,7 @@ Si un envoi doit en principe être acheminé sous scellement douanier et que l�
 - – la vérification complète des marchandises avec mention du résultat de la vérification sur le document de transit;
 - – l’apposition de scellements douaniers sur chaque colis;
 - – la description exacte des marchandises en se référant à des échantillons, plans, dessins, photographies ou tout autre moyen similaire, qui sont joints au document de transit;
-- – la fixation d’un itinéraire et de délais stricts; ou
+- – la fixation d’un itinéraire et de délais stricts, ou
 - – le transport sous escorte douanière.
 
 La décision de dispenser l’unité de transport du scellement est toutefois du ressort exclusif de la douane.
@@ -1569,7 +1569,7 @@ Sur demande de l’intéressé et pour des raisons jugées valables par la douan
 
 La douane impose les mesures suivantes uniquement dans les cas où elle les juge indispensables:
 
-- a) obligation de transporter les marchandises suivant un itinéraire déterminé; ou
+- a) obligation de transporter les marchandises suivant un itinéraire déterminé, ou
 - b) obligation d’acheminer les marchandises sous escorte de douane.
 
 ### Scellements douaniers
@@ -1583,7 +1583,7 @@ Les scellements douaniers utilisés pour le transit douanier doivent répondre a
 Les scellements douaniers et les marques d’identification apposés par la douane étrangère devraient être acceptés aux fins de l’opération de transit douanier, à moins:
 
 - – qu’ils ne soient jugés insuffisants;
-- – qu’ils n’offrent pas la sécurité voulue; ou
+- – qu’ils n’offrent pas la sécurité voulue, ou
 - – que la douane procède à la vérification des marchandises.
 
 Lorsque des scellements douaniers étrangers ont été acceptés sur un territoire douanier, ils devraient bénéficier sur ce territoire de la même protection juridique que les scellements nationaux.
@@ -1725,7 +1725,7 @@ b) Mesures d’identification
 
 2.7 Norme
 
-Les exigences relatives à l’identification des marchandises pour perfectionnement passif sont fixées par la douane. A cet effet, il est tenu dûment compte de la nature des marchandises, de l’opération à effectuer et de l’importance des intérêts en jeu.
+Les exigences relatives à l’identification des marchandises pour perfectionnement passif sont fixées par la douane. À cet effet, il est tenu dûment compte de la nature des marchandises, de l’opération à effectuer et de l’importance des intérêts en jeu.
 
 ### Séjour des marchandises hors du territoire douanier
 
@@ -1755,7 +1755,7 @@ Cette exonération n’est pas applicable aux droits et taxes à l’importation
 
 2.13 Norme
 
-A l’exception des cas dans lesquels la législation nationale impose la réimportation des marchandises exportées temporairement pour perfectionnement passif, l’apurement du perfectionnement passif doit pouvoir être obtenu par la déclaration des marchandises pour l’exportation définitive sous réserve qu’il soit satisfait aux conditions et aux formalités applicables dans ce cas.
+À l’exception des cas dans lesquels la législation nationale impose la réimportation des marchandises exportées temporairement pour perfectionnement passif, l’apurement du perfectionnement passif doit pouvoir être obtenu par la déclaration des marchandises pour l’exportation définitive sous réserve qu’il soit satisfait aux conditions et aux formalités applicables dans ce cas.
 
 ### Droits et taxes applicables aux produits compensateurs
 
@@ -1977,7 +1977,7 @@ b) Suspension partielle des droits et taxes à l’importation
 
 Les marchandises qui ne sont pas couvertes par la pratique recommandée 22 et les marchandises de la pratique recommandée 22 qui ne remplissent pas toutes les conditions nécessaires pour bénéficier d’une suspension totale, devraient bénéficier de l’admission temporaire pour le moins en suspension partielle des droits et taxes à l’importation.
 
-[^annexu1-lvlu1-chap1-lvlu9-1]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^annexu1-lvlu1-chap1-lvlu9-1]: [RS 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 
 Annexe spécifique J
 
@@ -2049,7 +2049,7 @@ La visite corporelle des voyageurs aux fins des contrôles que la douane est cha
 Dans les cas énoncés ci-après, les marchandises transportées par les voyageurs sont déposées ou retenues dans les conditions fixées par la douane en attendant d’être dédouanées selon le régime douanier approprié, d’être réexportées ou de recevoir toute autre destination conforme à la législation nationale:
 
 - – à la demande du voyageur;
-- – lorsque les marchandises en cause ne peuvent pas être immédiatement dédouanées; ou
+- – lorsque les marchandises en cause ne peuvent pas être immédiatement dédouanées, ou
 - – lorsque les autres dispositions du présent Chapitre ne leur sont pas applicables.
 
 1.12 Norme
@@ -2092,7 +2092,7 @@ Les résidents de retour dans leur pays sont autorisés à réimporter en franch
 
 La douane n’exige pas de document douanier ou de garantie pour l’admission temporaire des effets personnels des non-résidents, sauf:
 
-- – lorsque leur valeur ou leur quantité excède les limites fixées par la législation nationale; ou
+- – lorsque leur valeur ou leur quantité excède les limites fixées par la législation nationale, ou
 - – lorsque la douane estime qu’ils présentent un risque pour le Trésor public.
 
 1.20 Norme
@@ -2121,7 +2121,7 @@ Lorsqu’il est nécessaire de déposer une déclaration d’admission temporair
 
 1.22 Norme
 
-A la demande du voyageur, et pour des raisons jugées valables par la douane, celle-ci proroge le délai d’admission temporaire fixé initialement pour les effets personnels d’un non-résident, sans pouvoir excéder, le cas échéant, la limite fixée par la législation nationale.
+À la demande du voyageur, et pour des raisons jugées valables par la douane, celle-ci proroge le délai d’admission temporaire fixé initialement pour les effets personnels d’un non-résident, sans pouvoir excéder, le cas échéant, la limite fixée par la législation nationale.
 
 1.23 Norme
 
@@ -2149,7 +2149,7 @@ Lorsqu’il est nécessaire de déposer une déclaration d’admission temporair
 
 1.29 Norme
 
-A la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci proroge le délai d’admission temporaire fixé initialement pour le moyen de transport à usage privé d’un non-résident, sans pouvoir excéder, le cas échéant, la limite fixée par la législation nationale.
+À la demande de la personne intéressée, et pour des raisons jugées valables par la douane, celle-ci proroge le délai d’admission temporaire fixé initialement pour le moyen de transport à usage privé d’un non-résident, sans pouvoir excéder, le cas échéant, la limite fixée par la législation nationale.
 
 1.30 Norme
 
@@ -2177,7 +2177,7 @@ Les voyageurs sont autorisés à exporter des marchandises à des fins commercia
 
 1.35 Norme
 
-A la demande d’un résident qui quitte le pays, la douane prend des mesures d’identification à l’égard de certains articles lorsque cela est de nature à faciliter la réimportation en franchise des droits et taxes.
+À la demande d’un résident qui quitte le pays, la douane prend des mesures d’identification à l’égard de certains articles lorsque cela est de nature à faciliter la réimportation en franchise des droits et taxes.
 
 1.36 Norme
 
@@ -2249,7 +2249,7 @@ La douane n’exige pas que les envois postaux lui soient présentés à l’exp
 
 - – s’ils contiennent des marchandises dont l’exportation doit être attestée;
 - – s’ils contiennent des marchandises soumises à des prohibitions ou des restrictions à l’exportation ou passibles de droits et taxes à l’exportation;
-- – s’ils contiennent des marchandises d’une valeur supérieure à un montant fixé par la législation nationale; ou
+- – s’ils contiennent des marchandises d’une valeur supérieure à un montant fixé par la législation nationale, ou
 - – si les envois sont choisis pour faire l’objet d’un contrôle de la douane par sondage ou par larges épreuves.
 
 2.8 Pratique recommandée
@@ -2293,7 +2293,7 @@ Pour l’application du présent Chapitre, on entend par:
 
 F1./E1. «envois de secours»:
 
-- – les marchandises, y compris les véhicules ou autres moyens de transport, les denrées alimentaires, les médicaments, les vêtements, les couvertures, les tentes, les maisons préfabriquées, le matériel de purification ou de stockage de l’eau ou les autres marchandises de première nécessité, acheminées pour aider les victimes de catastrophes; et
+- – les marchandises, y compris les véhicules ou autres moyens de transport, les denrées alimentaires, les médicaments, les vêtements, les couvertures, les tentes, les maisons préfabriquées, le matériel de purification ou de stockage de l’eau ou les autres marchandises de première nécessité, acheminées pour aider les victimes de catastrophes, et
 - – tout le matériel, les véhicules et autres moyens de transport, les animaux dressés à des fins particulières, les vivres, les fournitures, les effets personnels et autres marchandises destinées au personnel de secours pour lui permettre de s’acquitter de sa mission ou l’aider à vivre et à travailler pendant la durée de sa mission dans le pays touché par la catastrophe.
 
 ### Principes
@@ -2314,7 +2314,7 @@ Dans le cas des envois de secours, la douane prévoit:
 
 - – le dépôt d’une déclaration de marchandises simplifiée, provisoire ou incomplète, sous réserve que la déclaration soit complétée dans un délai déterminé;
 - – le dépôt, l’enregistrement et l’examen de la déclaration de marchandises et des documents qui l’accompagnent avant l’arrivée des marchandises, et la mainlevée à l’arrivée de celles-ci;
-- – le dédouanement en dehors des heures d’ouverture fixées par l’administration ou dans un lieu autre que le bureau de douane, en renonçant à la perception de toute redevance normalement due à cet égard; et
+- – le dédouanement en dehors des heures d’ouverture fixées par l’administration ou dans un lieu autre que le bureau de douane, en renonçant à la perception de toute redevance normalement due à cet égard, et
 - – la vérification des marchandises ou le prélèvement d’échantillons, ou les deux à la fois, uniquement dans des circonstances exceptionnelles.
 
 5.4 Pratique recommandée
@@ -2452,8 +2452,8 @@ Une preuve documentaire de l’origine devrait être exigée uniquement lorsqu�
 
 Une preuve documentaire de l’origine ne devrait pas être exigée dans les cas suivants:
 
-- a) marchandises expédiées dans de petits envois adressés à des particuliers ou contenues dans les bagages des voyageurs pour autant qu’il s’agisse d’importations dépourvues de tout caractère commercial et que la valeur globale de l’importation ne dépasse pas un montant qui ne doit pas être inférieur à 100 dollars des Etats-Unis;
-- b) marchandises faisant l’objet d’envois commerciaux dont la valeur globale ne dépasse pas un montant qui ne doit pas être inférieur à 60 dollars des Etats-Unis;
+- a) marchandises expédiées dans de petits envois adressés à des particuliers ou contenues dans les bagages des voyageurs pour autant qu’il s’agisse d’importations dépourvues de tout caractère commercial et que la valeur globale de l’importation ne dépasse pas un montant qui ne doit pas être inférieur à 100 dollars des États-Unis;
+- b) marchandises faisant l’objet d’envois commerciaux dont la valeur globale ne dépasse pas un montant qui ne doit pas être inférieur à 60 dollars des États-Unis;
 - c) marchandises en admission temporaire;
 - d) marchandises transportées sous le régime du transit douanier;
 - e) marchandises accompagnées d’un certificat d’appellation régionale ainsi que certaines marchandises déterminées, lorsque les conditions imposées aux pays fournisseurs dans le cadre des accords bilatéraux ou multilatéraux visant ces marchandises permettent de ne pas exiger une preuve documentaire.
@@ -2510,8 +2510,8 @@ b) Preuves documentaires autres que le certificat d’origine
 
 Lorsqu’une preuve documentaire de l’origine est exigée, une déclaration d’origine devrait être acceptée dans les cas suivants:
 
-- a) marchandises expédiées dans de petits envois adressés à des particuliers ou contenues dans les bagages des voyageurs pour autant qu’il s’agisse d’importations dépourvues de tout caractère commercial et que la valeur globale de l’importation ne dépasse pas un montant qui ne doit pas être inférieur à 500 dollars des Etats-Unis;
-- b) marchandises faisant l’objet d’envois commerciaux dont la valeur globale ne dépasse pas un montant qui ne doit pas être inférieur à 300 dollars des Etats-Unis.
+- a) marchandises expédiées dans de petits envois adressés à des particuliers ou contenues dans les bagages des voyageurs pour autant qu’il s’agisse d’importations dépourvues de tout caractère commercial et que la valeur globale de l’importation ne dépasse pas un montant qui ne doit pas être inférieur à 500 dollars des États-Unis;
+- b) marchandises faisant l’objet d’envois commerciaux dont la valeur globale ne dépasse pas un montant qui ne doit pas être inférieur à 300 dollars des États-Unis.
 
 Lorsque plusieurs envois mentionnés dans les al. a) ou b) du paragraphe précédent sont expédiés simultanément, par la même voie, au même destinataire, par le même expéditeur, la valeur totale de ces envois constitue la valeur globale.
 
@@ -2605,14 +2605,14 @@ Les Parties contractantes qui acceptent le présent Chapitre spécifient quelles
 Appendice I
 
 <table>
-<tr><td></td><td>1. Exporter (name, address, country Exportateur (nom, adresse, pays) Exporteur (Name, Adresse, Land) [tab] [tab]</td><td></td><td></td><td colspan="4">2. Number – Numéro – Nummer CERTIFICATE OF ORIGIN CERTIFICAT D’ORIGINE URSPRUNGSZEUGNIS</td><td></td></tr>
-<tr><td></td><td>3. Consignee (name, address, country) Destinataire (nom, adresse, pays) Empfänger (Name, Adresse, Land) [tab] [tab]</td><td></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>4. Particulars of transport (where required) Renseignements relatifs au transport (le cas échéant) Angaben über die Beförderung (sofern verlangt) [tab] [tab]</td><td></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>5. Marks & Numbers: Number and kind of packages: Description of the goods Marques et numéros: Nombre et nature des colis: Désignation des marchandises Zeichen und Nummern: Anzahl und Art der Packstücke: Warenbezeichnung [tab] [tab]</td><td></td><td></td><td>6. Gross weight Poids brut Bruttogewicht</td><td></td><td></td><td>7.</td><td></td></tr>
+<tr><td></td><td>1. Exporter (name, address, country Exportateur (nom, adresse, pays) Exporteur (Name, Adresse, Land)</td><td></td><td></td><td colspan="4">2. Number – Numéro – Nummer CERTIFICATE OF ORIGIN CERTIFICAT D’ORIGINE URSPRUNGSZEUGNIS</td><td></td></tr>
+<tr><td></td><td>3. Consignee (name, address, country) Destinataire (nom, adresse, pays) Empfänger (Name, Adresse, Land)</td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>4. Particulars of transport (where required) Renseignements relatifs au transport (le cas échéant) Angaben über die Beförderung (sofern verlangt)</td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>5. Marks & Numbers: Number and kind of packages: Description of the goods Marques et numéros: Nombre et nature des colis: Désignation des marchandises Zeichen und Nummern: Anzahl und Art der Packstücke: Warenbezeichnung</td><td></td><td></td><td>6. Gross weight Poids brut Bruttogewicht</td><td></td><td></td><td>7.</td><td></td></tr>
 </table>
 
 <table>
-<tr><td></td><td>8. Other information Autres renseignements Weitere Angaben [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20200121/fr/xml/image/image1.png) [tab] Stamp – Timbre – Stempel</td><td></td><td></td><td colspan="4">It is hereby certified that the above-mentioned goods originate in: Il est certifié par la présente que les marchandises mentionnées ci-dessus sont originaires de: Hiermit wird bescheinigt, dass die oben erwähnten Waren folgenden Ursprung haben: …………………………………………… …………………………………………… CERTIFYING BODY ORGANISME AYANT DELIVRE LE CERTIFICAT AUSSTELLENDE BEHÖRDE …………………………………………… …………………………………………… Place and date of issue Lieu et date de délivrance Ausstellungsort und -datum …………………………………………… …………………………………………… Authorised signature Signature autorisée Rechtsgültige Unterschrift …………………………………………… ……………………………………………</td><td></td></tr>
+<tr><td></td><td>8. Other information Autres renseignements Weitere Angaben ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20250924/fr/xml/image/image1.png) [tab] Stamp – Timbre – Stempel</td><td></td><td></td><td colspan="4">It is hereby certified that the above-mentioned goods originate in: Il est certifié par la présente que les marchandises mentionnées ci-dessus sont originaires de: Hiermit wird bescheinigt, dass die oben erwähnten Waren folgenden Ursprung haben: …………………………………………… …………………………………………… CERTIFYING BODY ORGANISME AYANT DELIVRE LE CERTIFICAT AUSSTELLENDE BEHÖRDE …………………………………………… …………………………………………… Place and date of issue Lieu et date de délivrance Ausstellungsort und -datum …………………………………………… …………………………………………… Authorised signature Signature autorisée Rechtsgültige Unterschrift …………………………………………… ……………………………………………</td><td></td></tr>
 </table>
 
 Appendice II
@@ -2635,11 +2635,11 @@ Appendice II
 - Case n<sup>o</sup> 2: Il ne devrait y avoir qu’un seul exemplaire de certificat d’origine identifié par la mention «original» placée à côté du titre du document. En cas de perte du certificat original, l’exemplaire éventuellement établi pour remplacer ce document devra porter la mention «duplicata» à côté du titre du document. Sur les exemplaires supplémentaires de l’original ou du duplicata du certificat d’origine, la mention «copie» devra figurer à côté du titre du document. Cette case est destinée, d’autre part, à recevoir le nom (logotype, emblème, etc.) de l’autorité émettrice. Il y a lieu, en outre, de disposer d’un espace libre pour usage officiel.
 - Case n<sup>o</sup> 3: Les indications prévues dans cette case peuvent être remplacées par la mention «à ordre» suivie, éventuellement, du nom du pays de destination.
 - Case n<sup>o</sup> 4: Cette case peut être utilisée pour fournir des renseignements supplémentaires sur le moyen de transport, l’itinéraire, etc., qui peuvent être insérés, en cas de besoin, notamment par l’autorité émettrice.
-- Case n<sup>o</sup> 5: S’il est nécessaire de numéroter des articles différents, cette indication peut être insérée de préférence dans la marge ou au début de chaque ligne dans la case elle-même. Il est possible de prévoir une ligne verticale afin de séparer les «Marques et numéros des colis» du «Nombre et nature des colis» et «Désignation des marchandises». A défaut de ligne verticale, ces mentions devraient être séparées par des intervalles suffisants. La désignation des marchandises peut être complétée par le numéro de la position adéquate du Système harmonisé, de préférence dans la partie droite de la colonne. Lorsqu’elles sont requises, les indications relatives aux critères d’origine devraient figurer dans cette case. Ces indications devraient alors être séparées des autres indications par une ligne verticale.
+- Case n<sup>o</sup> 5: S’il est nécessaire de numéroter des articles différents, cette indication peut être insérée de préférence dans la marge ou au début de chaque ligne dans la case elle-même. Il est possible de prévoir une ligne verticale afin de séparer les «Marques et numéros des colis» du «Nombre et nature des colis» et «Désignation des marchandises». À défaut de ligne verticale, ces mentions devraient être séparées par des intervalles suffisants. La désignation des marchandises peut être complétée par le numéro de la position adéquate du Système harmonisé, de préférence dans la partie droite de la colonne. Lorsqu’elles sont requises, les indications relatives aux critères d’origine devraient figurer dans cette case. Ces indications devraient alors être séparées des autres indications par une ligne verticale.
 - Case n<sup>o</sup> 6: D’ordinaire, le poids brut devrait suffire pour assurer l’identification des marchandises.
 - Case n<sup>o</sup> 7: Cette colonne est laissée en blanc pour recevoir les indications complémentaires telles que le cubage, ou pour les renvois à d’autres documents (facture commerciale, par exemple).
 - Cases n<sup>os</sup> 6 et 7: Les autres quantités que l’exportateur peut indiquer en vue de faciliter l’identification des marchandises peuvent être portées dans l’une ou l’autre case, selon le cas.
-- Case n<sup>o</sup> 8: Cette partie est réservée à l’apposition de l’attestation de l’autorité compétente (libellé de l’attestation, cachets, signatures, date, lieu de délivrance, etc.). Le libellé exact des textes, etc. est laissé à l’appréciation de l’autorité émettrice, le libellé du modèle de formule n’étant donné qu’à titre d’exemple. Eventuellement, cette case peut contenir aussi une déclaration signée, faite par l’exportateur (ou le fournisseur ou le fabricant).
+- Case n<sup>o</sup> 8: Cette partie est réservée à l’apposition de l’attestation de l’autorité compétente (libellé de l’attestation, cachets, signatures, date, lieu de délivrance, etc.). Le libellé exact des textes, etc. est laissé à l’appréciation de l’autorité émettrice, le libellé du modèle de formule n’étant donné qu’à titre d’exemple. Éventuellement, cette case peut contenir aussi une déclaration signée, faite par l’exportateur (ou le fournisseur ou le fabricant).
 
 Appendice III
 
@@ -2652,10 +2652,10 @@ Les règles pour l’établissement du certificat d’origine et la demande éve
 - 3\. Un trait doit être tracé dans les espaces non utilisés de façon à rendre impossible toute adjonction ultérieure.
 - 4\. Si les nécessités du commerce d’exportation le requièrent, il peut être établi, en plus de l’original, une ou plusieurs copies.
 
-Champ d’application le 21 janvier 2021**[^t-2]**
+Champ d’application le 24 septembre 2025[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>18 mai</td><td>2004 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Albanie</td><td>4 juin</td><td>2013 A</td><td>4 septembre</td><td>2013</td></tr>
 <tr><td>Algérie</td><td>26 juin</td><td>1999 Si</td><td>3 février</td><td>2006</td></tr>
@@ -2674,6 +2674,7 @@ Champ d’application le 21 janvier 2021**[^t-2]**
 <tr><td>Bénin</td><td>5 janvier</td><td>2017 A</td><td>5 avril</td><td>2017</td></tr>
 <tr><td>Botswana</td><td>26 juin</td><td>2006 A</td><td>26 septembre</td><td>2006</td></tr>
 <tr><td>Bhoutan</td><td>15 septembre</td><td>2014 A</td><td>15 décembre</td><td>2014</td></tr>
+<tr><td>Brésil</td><td>5 septembre</td><td>2019 A</td><td>5 décembre</td><td>2019</td></tr>
 <tr><td>Bulgarie</td><td>17 mars</td><td>2004 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Burkina Faso</td><td>8 juillet</td><td>2017 A</td><td>8 octobre</td><td>2017</td></tr>
 <tr><td>Cambodge</td><td>28 juin</td><td>2014 A</td><td>28 septembre</td><td>2014</td></tr>
@@ -2682,23 +2683,31 @@ Champ d’application le 21 janvier 2021**[^t-2]**
 <tr><td>Cap-Vert</td><td>27 juin</td><td>2013 A</td><td>27 septembre</td><td>2013</td></tr>
 <tr><td>Chine</td><td>15 juin</td><td>2000 Si</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Chypre</td><td>25 octobre</td><td>2004</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Comores</td><td>9 mars</td><td>2022 A</td><td>12 mars</td><td>2022</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>14 décembre</td><td>2017 A</td><td>14 mars</td><td>2018</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>25 juin</td><td>2022</td><td>25 septembre</td><td>2022</td></tr>
 <tr><td>Corée (Sud)</td><td>19 février</td><td>2003 Si</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Côte d’Ivoire</td><td>27 juin</td><td>2013 A</td><td>27 septembre</td><td>2013</td></tr>
 <tr><td>Croatie</td><td>2 novembre</td><td>2005 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Cuba</td><td>26 juin</td><td>2009 A</td><td>26 septembre</td><td>2009</td></tr>
 <tr><td>Danemark</td><td>30 avril</td><td>2004 Si</td><td>3 février</td><td>2006</td></tr>
-<tr><td>Egypte</td><td>8 janvier</td><td>2008 A</td><td>8 avril</td><td>2008</td></tr>
-<tr><td>Emirats arabes unis</td><td>31 mai</td><td>2010 A</td><td>31 août</td><td>2010</td></tr>
+<tr><td>Égypte</td><td>8 janvier</td><td>2008 A</td><td>8 avril</td><td>2008</td></tr>
+<tr><td>El Salvador</td><td>6 novembre</td><td>2023 A</td><td>6 février</td><td>2024</td></tr>
+<tr><td>Émirats arabes unis</td><td>31 mai</td><td>2010 A</td><td>31 août</td><td>2010</td></tr>
 <tr><td>Espagne</td><td>30 avril</td><td>2004 Si</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Estonie</td><td>28 juillet</td><td>2006 A</td><td>28 octobre</td><td>2006</td></tr>
 <tr><td>Eswatini</td><td>31 octobre</td><td>2012 A</td><td>31 janvier</td><td>2013</td></tr>
-<tr><td>Etats-Unis</td><td>6 décembre</td><td>2005 A</td><td>3 février</td><td>2006</td></tr>
+<tr><td>États-Unis</td><td>6 décembre</td><td>2005 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Fidji</td><td>26 janvier</td><td>2010 A</td><td>26 avril</td><td>2010</td></tr>
 <tr><td>Finlande</td><td>30 avril</td><td>2004 Si</td><td>3 février</td><td>2006</td></tr>
 <tr><td>France</td><td>22 juillet</td><td>2004 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Gabon</td><td>15 novembre</td><td>2012 A</td><td>15 février</td><td>2013</td></tr>
+<tr><td>Gambie</td><td>24 juin</td><td>2023 A</td><td>24 septembre</td><td>2023</td></tr>
+<tr><td>Géorgie</td><td>7 novembre</td><td>2018 A</td><td>7 février</td><td>2019</td></tr>
+<tr><td>Ghana</td><td>29 août</td><td>2019 A</td><td>29 novembre</td><td>2019</td></tr>
 <tr><td>Grèce</td><td>30 avril</td><td>2004 Si</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Guatemala</td><td>10 mars</td><td>2022 A</td><td>10 juin</td><td>2022</td></tr>
+<tr><td>Honduras</td><td>29 juin</td><td>2024 A</td><td>29 septembre</td><td>2024</td></tr>
 <tr><td>Hongrie</td><td>29 avril</td><td>2004 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Inde</td><td>3 novembre</td><td>2005 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Indonésie</td><td>22 août</td><td>2014 A</td><td>22 novembre</td><td>2014</td></tr>
@@ -2707,20 +2716,25 @@ Champ d’application le 21 janvier 2021**[^t-2]**
 <tr><td>Islande</td><td>8 octobre</td><td>2015 A</td><td>8 janvier</td><td>2016</td></tr>
 <tr><td>Italie</td><td>30 avril</td><td>2004 Si</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Japon</td><td>26 juin</td><td>2001 Si</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Jamaïque</td><td>7 mai</td><td>2021 A</td><td>7 août</td><td>2021</td></tr>
 <tr><td>Jordanie</td><td>8 décembre</td><td>2006 A</td><td>8 mars</td><td>2007</td></tr>
 <tr><td>Kazakhstan</td><td>19 juin</td><td>2009 A</td><td>19 septembre</td><td>2009</td></tr>
 <tr><td>Kenya</td><td>25 juin</td><td>2010 A</td><td>25 septembre</td><td>2010</td></tr>
+<tr><td>Kirghizistan</td><td>17 novembre</td><td>2021 A</td><td>17 février</td><td>2022</td></tr>
 <tr><td>Kiribati</td><td>11 juin</td><td>2018 A</td><td>11 septembre</td><td>2018</td></tr>
+<tr><td>Kosovo</td><td>31 janvier</td><td>2020 A</td><td>30 avril</td><td>2020</td></tr>
 <tr><td>Koweït</td><td>14 avril</td><td>2017 A</td><td>14 juillet</td><td>2017</td></tr>
 <tr><td>Laos</td><td>16 juillet</td><td>2016 A</td><td>16 octobre</td><td>2016</td></tr>
 <tr><td>Lesotho</td><td>15 juin</td><td>2000 Si</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Lettonie</td><td>20 septembre</td><td>2001</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Libéria</td><td>14 décembre</td><td>2020 A</td><td>14 mars</td><td>2021</td></tr>
 <tr><td>Lituanie</td><td>27 avril</td><td>2004 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Luxembourg</td><td>26 janvier</td><td>2006 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Macédoine du Nord</td><td>28 juillet</td><td>2009 A</td><td>28 octobre</td><td>2009</td></tr>
 <tr><td>Madagascar</td><td>29 juin</td><td>2007 A</td><td>29 septembre</td><td>2007</td></tr>
 <tr><td>Malaisie</td><td>30 juin</td><td>2008 A</td><td>30 septembre</td><td>2008</td></tr>
 <tr><td>Malawi</td><td>6 septembre</td><td>2013 A</td><td>6 décembre</td><td>2013</td></tr>
+<tr><td>Maldives</td><td>19 octobre</td><td>2020 A</td><td>19 janvier</td><td>2021</td></tr>
 <tr><td>Mali</td><td>4 mai</td><td>2010 A</td><td>4 août</td><td>2010</td></tr>
 <tr><td>Malte</td><td>11 mai</td><td>2010 A</td><td>11 août</td><td>2010</td></tr>
 <tr><td>Maroc</td><td>16 juin</td><td>2000 Si</td><td>3 février</td><td>2006</td></tr>
@@ -2728,14 +2742,18 @@ Champ d’application le 21 janvier 2021**[^t-2]**
 <tr><td>Mongolie</td><td>1<sup>er</sup> juillet</td><td>2006 A</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
 <tr><td>Monténégro</td><td>23 juin</td><td>2008 A</td><td>23 septembre</td><td>2008</td></tr>
 <tr><td>Mozambique</td><td>11 juillet</td><td>2012 A</td><td>11 octobre</td><td>2012</td></tr>
+<tr><td>Myanmar</td><td>2 octobre</td><td>2020 A</td><td>2 janvier</td><td>2021</td></tr>
 <tr><td>Namibie</td><td>3 février</td><td>2006 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Népal</td><td>3 février</td><td>2017 A</td><td>3 mai</td><td>2017</td></tr>
+<tr><td>Nicaragua</td><td>15 février</td><td>2024 A</td><td>15 mai</td><td>2024</td></tr>
 <tr><td>Niger</td><td>13 février</td><td>2015 A</td><td>13 mai</td><td>2015</td></tr>
 <tr><td>Nigéria</td><td>28 juin</td><td>2012 A</td><td>28 septembre</td><td>2012</td></tr>
 <tr><td>Norvège</td><td>9 janvier</td><td>2007 A</td><td>9 avril</td><td>2007</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>7 juillet</td><td>2000 A</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Îles Cook</td><td>13 mai</td><td>2019 A</td><td>13 août</td><td>2019</td></tr>
 <tr><td>Oman</td><td>6 janvier</td><td>2015 A</td><td>6 avril</td><td>2015</td></tr>
 <tr><td>Ouganda</td><td>27 juin</td><td>2002 Si</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Ouzbékistan</td><td>16 février</td><td>2021 A</td><td>16 mai</td><td>2021</td></tr>
 <tr><td>Pakistan</td><td>1<sup>er</sup> octobre</td><td>2004</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>31 janvier</td><td>2014 A</td><td>30 avril</td><td>2014</td></tr>
 <tr><td>Pays-Bas</td><td>30 avril</td><td>2004 Si</td><td>3 février</td><td>2006</td></tr>
@@ -2753,17 +2771,22 @@ Champ d’application le 21 janvier 2021**[^t-2]**
 <tr><td>Sao Tomé-et-Principe</td><td>8 mai</td><td>2017 A</td><td>8 août</td><td>2017</td></tr>
 <tr><td>Sénégal</td><td>21 mars</td><td>2006 A</td><td>21 juin</td><td>2006</td></tr>
 <tr><td>Serbie</td><td>18 septembre</td><td>2007 A</td><td>18 décembre</td><td>2007</td></tr>
+<tr><td>Seychelles</td><td>29 avril</td><td>2025 A</td><td>29 juillet</td><td>2025</td></tr>
 <tr><td>Sierra Leone</td><td>12 juin</td><td>2015 A</td><td>12 septembre</td><td>2015</td></tr>
+<tr><td>Singapour</td><td>25 juin</td><td>2022 A</td><td>25 septembre</td><td>2022</td></tr>
 <tr><td>Slovaquie</td><td>19 septembre</td><td>2002</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Slovénie</td><td>27 avril</td><td>2004 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Soudan</td><td>16 août</td><td>2009 A</td><td>16 novembre</td><td>2009</td></tr>
 <tr><td>Sri Lanka</td><td>26 juin</td><td>2009</td><td>26 septembre</td><td>2009</td></tr>
 <tr><td>Suède</td><td>30 avril</td><td>2004 Si</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Suisse</td><td>26 juin</td><td>2004</td><td>3 février</td><td>2006</td></tr>
+<tr><td>Tadjikistan</td><td>14 mai</td><td>2020 A</td><td>14 août</td><td>2020</td></tr>
 <tr><td>Thaïlande</td><td>12 juin</td><td>2015 A</td><td>12 septembre</td><td>2015</td></tr>
 <tr><td>Togo</td><td>28 juin</td><td>2014 A</td><td>28 septembre</td><td>2014</td></tr>
 <tr><td>Tunisie</td><td>24 juillet</td><td>2017 A</td><td>24 octobre</td><td>2017</td></tr>
+<tr><td>Turkménistan</td><td>3 février</td><td>2021 A</td><td>3 mai</td><td>2021</td></tr>
 <tr><td>Turquie</td><td>3 mai</td><td>2006 A</td><td>3 août</td><td>2006</td></tr>
+<tr><td>Tuvalu</td><td>13 mai</td><td>2019 A</td><td>13 août</td><td>2019</td></tr>
 <tr><td>Ukraine</td><td>15 juin</td><td>2011 A</td><td>15 septembre</td><td>2011</td></tr>
 <tr><td>[tab] Union européenne (UE)</td><td>30 avril</td><td>2004 A</td><td>3 février</td><td>2006</td></tr>
 <tr><td>Vanuatu</td><td>30 juin</td><td>2018 A</td><td>30 septembre</td><td>2018</td></tr>
@@ -2771,7 +2794,7 @@ Champ d’application le 21 janvier 2021**[^t-2]**
 <tr><td>Yémen</td><td>27 juin</td><td>2013 A</td><td>27 septembre</td><td>2013</td></tr>
 <tr><td>Zambie</td><td>1<sup>er</sup> juillet</td><td>2006</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
 <tr><td>Zimbabwe</td><td>10 février</td><td>2003</td><td>3 février</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet de l’Organisation mondiale des douanes: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, ou obtenus auprès de la Direction générale des douanes, Section des affaires internationales, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale des douanes: [www.wcoom d .org](http://www.wcoomd.org) &gt; Français &gt; A notre propos &gt; Conventions et Accords, ou obtenus auprès de la Direction générale des douanes, Section des affaires internationales, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2007 2431](https://fedlex.data.admin.ch/eli/oc/2007/342), [2011 3551](https://fedlex.data.admin.ch/eli/oc/2011/484), [2012 411](https://fedlex.data.admin.ch/eli/oc/2012/44), [2014 93](https://fedlex.data.admin.ch/eli/oc/2014/8), [2016 2765](https://fedlex.data.admin.ch/eli/oc/2016/449)5075, [2020 283](https://fedlex.data.admin.ch/eli/oc/2020/51). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2007 2431](https://fedlex.data.admin.ch/eli/oc/2007/342); [2011 3551](https://fedlex.data.admin.ch/eli/oc/2011/484); [2012 411](https://fedlex.data.admin.ch/eli/oc/2012/44); [2014 93](https://fedlex.data.admin.ch/eli/oc/2014/8); [2016 2765](https://fedlex.data.admin.ch/eli/oc/2016/449), 5075; [2020 283](https://fedlex.data.admin.ch/eli/oc/2020/51); [2025 594](https://fedlex.data.admin.ch/eli/oc/2025/594). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

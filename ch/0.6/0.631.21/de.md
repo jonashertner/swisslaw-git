@@ -3,11 +3,11 @@ sr: "0.631.21"
 title: Protokoll vom 26. Juni 1999 zur Änderung des internationalen Übereinkommens vom 18. Mai 1973 zur Vereinfachung und Harmonisierung der Zollverfahren (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/342"
 language: de
-version: 2020-01-21
+version: 2025-09-24
 adopted: 1999-06-26
 in_force: 2006-02-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20200121/de/xml/fedlex-data-admin-ch-eli-cc-2007-342-20200121-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/342/20200121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20250924/de/xml/fedlex-data-admin-ch-eli-cc-2007-342-20250924-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/342/20250924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,9 +26,9 @@ Schweizerische Ratifikationsurkunde hinterlegt am 26. Juni 2004
 
 In Kraft getreten für die Schweiz am 3. Februar 2006
 
-(Stand am 21. Januar 2020)
+(Stand am 24. September 2025)
 
-Die Vertragsparteien des Internationalen Übereinkommens zur Vereinfachung und Harmonisierung der Zollverfahren (geschehen am 18. Mai 1973*[^ingress-1]* in Kyoto und in Kraft getreten am 25. September 1974),
+Die Vertragsparteien des Internationalen Übereinkommens zur Vereinfachung und Harmonisierung der Zollverfahren (geschehen am 18. Mai 1973[^ingress-1] in Kyoto und in Kraft getreten am 25. September 1974),
 
 im Folgenden «das Übereinkommen» genannt,
 
@@ -49,7 +49,7 @@ in der weiteren Erwägung*,* dass das geänderte Übereinkommen
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.631.20](https://fedlex.data.admin.ch/eli/cc/1977/1437_1437_1437)
+[^ingress-1]: [SR 0.631.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2023)
 
 #### Art. 1
 
@@ -101,7 +101,7 @@ Dieses Protokoll liegt ab dem 26. Juni 1999 in Brüssel am Sitz des Rates zur Un
 
 Nach Artikel 102 der Charta der Vereinten Nationen[^9-1] werden dieses Protokoll und seine Anhänge auf Antrag des Generalsekretärs des Rates beim Sekretariat der Vereinten Nationen registriert.
 
-[^9-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^9-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *Zu Urkund dessen* haben die hierzu gehörig Bevollmächtigten dieses Protokoll unterzeichnet. Geschehen zu Brüssel am sechsundzwanzigsten Juni neunzehnhundertneunundneunzig in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die beim Generalsekretär des Rates hinterlegt wird; dieser übermittelt allen in Artikel 8 Absatz 1 des Anhangs I dieses Protokolls bezeichneten Staaten beglaubigte Abschriften. *(Es folgen die Unterschriften)*
 
@@ -789,7 +789,7 @@ Wird der an den Zoll gerichtete Rechtsbehelf abgelehnt, so teilt der Zoll dem Re
 
 Wird einem Rechtsbehelf stattgegeben, so wendet der Zoll die einschlägige von ihm, von der unabhängigen Instanz oder von dem Gericht getroffene Entscheidung so schnell wie möglich an, sofern er nicht seinerseits ein Rechtsmittel gegen die Entscheidung oder das Urteil einlegt.
 
-Anhang III*[^t-1]*
+Anhang III[^t-1]
 
 ## Besondere Anlagen
 
@@ -1997,7 +1997,7 @@ b) Teilweise Befreiung von Einfuhrzöllen und -steuern
 
 Waren, die in der empfohlenen Praktik 22 nicht genannt werden, und Waren der empfohlenen Praktik 22, die nicht alle Voraussetzungen für eine vollständige Befreiung erfüllen, sollten mindestens unter teilweiser Befreiung von den Einfuhrzöllen und -steuern zur vorübergehenden Verwendung zugelassen werden.
 
-[^annexu1-lvlu1-chap1-lvlu9-1]: [SR 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^annexu1-lvlu1-chap1-lvlu9-1]: [SR 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 
 Besondere Anlage J
 
@@ -2621,14 +2621,14 @@ Die Vertragsparteien, die dieses Kapitel annehmen, bestimmen die Behörden, die 
 Anhang I
 
 <table>
-<tr><td></td><td>1. Exporter (name, address, country Exportateur (nom, adresse, pays) Exporteur (Name, Adresse, Land) [tab] [tab]</td><td></td><td></td><td colspan="4">2. Number – Numéro – Nummer CERTIFICATE OF ORIGIN CERTIFICAT D’ORIGINE URSPRUNGSZEUGNIS</td><td></td></tr>
-<tr><td></td><td>3. Consignee (name, address, country) Destinataire (nom, adresse, pays) Empfänger (Name, Adresse, Land) [tab] [tab]</td><td></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>4. Particulars of transport (where required) Renseignements relatifs au transport (le cas échéant) Angaben über die Beförderung (sofern verlangt) [tab] [tab]</td><td></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td>5. Marks & Numbers: Number and kind of packages: Description of the goods Marques et numéros: Nombre et nature des colis: Désignation des marchandises Zeichen und Nummern: Anzahl und Art der Packstücke: Warenbezeichnung [tab] [tab]</td><td></td><td></td><td>6. Gross weight Poids brut Bruttogewicht</td><td></td><td></td><td>7.</td><td></td></tr>
+<tr><td></td><td>1. Exporter (name, address, country Exportateur (nom, adresse, pays) Exporteur (Name, Adresse, Land)</td><td></td><td></td><td colspan="4">2. Number – Numéro – Nummer CERTIFICATE OF ORIGIN CERTIFICAT D’ORIGINE URSPRUNGSZEUGNIS</td><td></td></tr>
+<tr><td></td><td>3. Consignee (name, address, country) Destinataire (nom, adresse, pays) Empfänger (Name, Adresse, Land)</td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>4. Particulars of transport (where required) Renseignements relatifs au transport (le cas échéant) Angaben über die Beförderung (sofern verlangt)</td><td></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td></td><td>5. Marks & Numbers: Number and kind of packages: Description of the goods Marques et numéros: Nombre et nature des colis: Désignation des marchandises Zeichen und Nummern: Anzahl und Art der Packstücke: Warenbezeichnung</td><td></td><td></td><td>6. Gross weight Poids brut Bruttogewicht</td><td></td><td></td><td>7.</td><td></td></tr>
 </table>
 
 <table>
-<tr><td></td><td>8. Other information Autres renseignements Weitere Angaben [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20200121/de/xml/image/image1.png) [tab] Stamp – Timbre – Stempel</td><td></td><td></td><td colspan="4">It is hereby certified that the above-mentioned goods originate in: Il est certifié par la présente que les marchandises mentionnées ci-dessus sont originaires de: Hiermit wird bescheinigt, dass die oben erwähnten Waren folgenden Ursprung haben: …………………………………………… …………………………………………… CERTIFYING BODY ORGANISME AYANT DELIVRE LE CERTIFICAT AUSSTELLENDE BEHÖRDE …………………………………………… …………………………………………… Place and date of issue Lieu et date de délivrance Ausstellungsort und -datum …………………………………………… …………………………………………… Authorised signature Signature autorisée Rechtsgültige Unterschrift …………………………………………… ……………………………………………</td><td></td></tr>
+<tr><td></td><td>8. Other information Autres renseignements Weitere Angaben ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/342/20250924/de/xml/image/image1.png) [tab] Stamp – Timbre – Stempel</td><td></td><td></td><td colspan="4">It is hereby certified that the above-mentioned goods originate in: Il est certifié par la présente que les marchandises mentionnées ci-dessus sont originaires de: Hiermit wird bescheinigt, dass die oben erwähnten Waren folgenden Ursprung haben: …………………………………………… …………………………………………… CERTIFYING BODY ORGANISME AYANT DELIVRE LE CERTIFICAT AUSSTELLENDE BEHÖRDE …………………………………………… …………………………………………… Place and date of issue Lieu et date de délivrance Ausstellungsort und -datum …………………………………………… …………………………………………… Authorised signature Signature autorisée Rechtsgültige Unterschrift …………………………………………… ……………………………………………</td><td></td></tr>
 </table>
 
 Anhang II
@@ -2669,7 +2669,7 @@ Die Regeln für die Ausstellung des Ursprungszeugnisses und des allfälligen Ant
 - 3\. Nicht verwendete Felder müssen durchgestrichen werden, damit jede weitere Ergänzung verunmöglicht wird.
 - 4\. Falls es das Exportgeschäft verlangt, können neben dem Original eine oder mehrere Kopien erstellt werden.
 
-Geltungsbereich am 21. Januar 2020**[^t-2]**
+Geltungsbereich am 24. September 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2688,6 +2688,7 @@ Geltungsbereich am 21. Januar 2020**[^t-2]**
 <tr><td>Benin</td><td>5. Januar</td><td>2017 B</td><td>5. April</td><td>2017</td></tr>
 <tr><td>Bhutan</td><td>15. September</td><td>2014 B</td><td>15. Dezember</td><td>2014</td></tr>
 <tr><td>Botsuana</td><td>26. Juni</td><td>2006 B</td><td>26. September</td><td>2006</td></tr>
+<tr><td>Brasilien</td><td>5. September</td><td>2019 B</td><td>5. Dezember</td><td>2019</td></tr>
 <tr><td>Bulgarien</td><td>17. März</td><td>2004 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Burkina Faso</td><td>8. Juli</td><td>2017 B</td><td>8. Oktober</td><td>2017</td></tr>
 <tr><td>China</td><td>15. Juni</td><td>2000 U</td><td>3. Februar</td><td>2006</td></tr>
@@ -2695,6 +2696,7 @@ Geltungsbereich am 21. Januar 2020**[^t-2]**
 <tr><td>Dänemark</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Deutschland</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Dominikanische Republik</td><td>28. Juni</td><td>2012 B</td><td>28. September</td><td>2012</td></tr>
+<tr><td>El Salvador</td><td>6. November</td><td>2023 B</td><td>6. Februar</td><td>2024</td></tr>
 <tr><td>Estland</td><td>28. Juli</td><td>2006 B</td><td>28. Oktober</td><td>2006</td></tr>
 <tr><td>Eswatini</td><td>31. Oktober</td><td>2012 B</td><td>31. Januar</td><td>2013</td></tr>
 <tr><td>[tab] Europäische Union</td><td>30. April</td><td>2004 B</td><td>3. Februar</td><td>2006</td></tr>
@@ -2702,13 +2704,19 @@ Geltungsbereich am 21. Januar 2020**[^t-2]**
 <tr><td>Finnland</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Frankreich</td><td>22. Juli</td><td>2004 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Gabun</td><td>15. November</td><td>2012 B</td><td>15. Februar</td><td>2013</td></tr>
+<tr><td>Gambia</td><td>24. Juni</td><td>2023 B</td><td>24. September</td><td>2023</td></tr>
+<tr><td>Georgien</td><td>7. November</td><td>2018 B</td><td>7. Februar</td><td>2019</td></tr>
+<tr><td>Ghana</td><td>29. August</td><td>2019 B</td><td>29. November</td><td>2019</td></tr>
 <tr><td>Griechenland</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Guatemala</td><td>10. März</td><td>2022 B</td><td>10. Juni</td><td>2022</td></tr>
+<tr><td>Honduras</td><td>29. Juni</td><td>2024 B</td><td>29. September</td><td>2024</td></tr>
 <tr><td>Indien</td><td>3. November</td><td>2005 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Indonesien</td><td>22. August</td><td>2014 B</td><td>22. November</td><td>2014</td></tr>
 <tr><td>Iran</td><td>23. Februar</td><td>2016 B</td><td>23. Mai</td><td>2016</td></tr>
 <tr><td>Irland</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Island</td><td>8. Oktober</td><td>2015 B</td><td>8. Januar</td><td>2016</td></tr>
 <tr><td>Italien</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Jamaika</td><td>7. Mai</td><td>2021 B</td><td>7. August</td><td>2021</td></tr>
 <tr><td>Japan</td><td>26. Juni</td><td>2001 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Jemen</td><td>27. Juni</td><td>2013 B</td><td>27. September</td><td>2013</td></tr>
 <tr><td>Jordanien</td><td>8. Dezember</td><td>2006 B</td><td>8. März</td><td>2007</td></tr>
@@ -2719,20 +2727,26 @@ Geltungsbereich am 21. Januar 2020**[^t-2]**
 <tr><td>Kasachstan</td><td>19. Juni</td><td>2009 B</td><td>19. September</td><td>2009</td></tr>
 <tr><td>Katar</td><td>13. Juli</td><td>2009 B</td><td>13. Oktober</td><td>2009</td></tr>
 <tr><td>Kenia</td><td>25. Juni</td><td>2010 B</td><td>25. September</td><td>2010</td></tr>
+<tr><td>Kirgisistan</td><td>17. November</td><td>2021 B</td><td>17. Februar</td><td>2022</td></tr>
 <tr><td>Kiribati</td><td>11. Juni</td><td>2018 B</td><td>11. September</td><td>2018</td></tr>
+<tr><td>Komoren</td><td>9. März</td><td>2022 B</td><td>12. März</td><td>2022</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>14. Dezember</td><td>2017 B</td><td>14. März</td><td>2018</td></tr>
+<tr><td>Kongo (Kinshasa)</td><td>25. Juni</td><td>2022</td><td>25. September</td><td>2022</td></tr>
 <tr><td>Korea (Süd-)</td><td>19. Februar</td><td>2003 U</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Kosovo</td><td>31. Januar</td><td>2020 B</td><td>30. April</td><td>2020</td></tr>
 <tr><td>Kroatien</td><td>2. November</td><td>2005 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Kuba</td><td>26. Juni</td><td>2009 B</td><td>26. September</td><td>2009</td></tr>
 <tr><td>Kuwait</td><td>14. April</td><td>2017 B</td><td>14. Juli</td><td>2017</td></tr>
 <tr><td>Laos</td><td>16. Juli</td><td>2016 B</td><td>16. Oktober</td><td>2016</td></tr>
 <tr><td>Lesotho</td><td>15. Juni</td><td>2000 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Lettland</td><td>20. September</td><td>2001</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Liberia</td><td>14. Dezember</td><td>2020 B</td><td>14. März</td><td>2021</td></tr>
 <tr><td>Litauen</td><td>27. April</td><td>2004 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Luxemburg</td><td>26. Januar</td><td>2006 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Madagaskar</td><td>29. Juni</td><td>2007 B</td><td>29. September</td><td>2007</td></tr>
 <tr><td>Malawi</td><td>6. September</td><td>2013 B</td><td>6. Dezember</td><td>2013</td></tr>
 <tr><td>Malaysia</td><td>30. Juni</td><td>2008 B</td><td>30. September</td><td>2008</td></tr>
+<tr><td>Malediven</td><td>19. Oktober</td><td>2020 B</td><td>19. Januar</td><td>2021</td></tr>
 <tr><td>Mali</td><td>4. Mai</td><td>2010 B</td><td>4. August</td><td>2010</td></tr>
 <tr><td>Malta</td><td>11. Mai</td><td>2010 B</td><td>11. August</td><td>2010</td></tr>
 <tr><td>Marokko</td><td>16. Juni</td><td>2000 U</td><td>3. Februar</td><td>2006</td></tr>
@@ -2740,9 +2754,12 @@ Geltungsbereich am 21. Januar 2020**[^t-2]**
 <tr><td>Mongolei</td><td>1. Juli</td><td>2006 B</td><td>1. Oktober</td><td>2006</td></tr>
 <tr><td>Montenegro</td><td>23. Juni</td><td>2008 B</td><td>23. September</td><td>2008</td></tr>
 <tr><td>Mosambik</td><td>11. Juli</td><td>2012 B</td><td>11. Oktober</td><td>2012</td></tr>
+<tr><td>Myanmar</td><td>2. Oktober</td><td>2020 B</td><td>2. Januar</td><td>2021</td></tr>
 <tr><td>Namibia</td><td>3. Februar</td><td>2006 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Nepal</td><td>3. Februar</td><td>2017 B</td><td>3. Mai</td><td>2017</td></tr>
 <tr><td>Neuseeland</td><td>7. Juli</td><td>2000 B</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Cook-Inseln</td><td>13. Mai</td><td>2019 B</td><td>13. August</td><td>2019</td></tr>
+<tr><td>Nicaragua</td><td>15. Februar</td><td>2024 B</td><td>15. Mai</td><td>2024</td></tr>
 <tr><td>Niederlande</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Niger</td><td>13. Februar</td><td>2015 B</td><td>13. Mai</td><td>2015</td></tr>
 <tr><td>Nigeria</td><td>28. Juni</td><td>2012 B</td><td>28. September</td><td>2012</td></tr>
@@ -2766,29 +2783,35 @@ Geltungsbereich am 21. Januar 2020**[^t-2]**
 <tr><td>Schweiz</td><td>26. Juni</td><td>2004</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Senegal</td><td>21. März</td><td>2006 B</td><td>21. Juni</td><td>2006</td></tr>
 <tr><td>Serbien</td><td>18. September</td><td>2007 B</td><td>18. Dezember</td><td>2007</td></tr>
+<tr><td>Seychellen</td><td>29. April</td><td>2025 B</td><td>29. Juli</td><td>2025</td></tr>
 <tr><td>Sierra Leone</td><td>12. Juni</td><td>2015 B</td><td>12. September</td><td>2015</td></tr>
 <tr><td>Simbabwe</td><td>10. Februar</td><td>2003</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Singapur</td><td>25. Juni</td><td>2022 B</td><td>25. September</td><td>2022</td></tr>
 <tr><td>Slowakei</td><td>19. September</td><td>2002</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Slowenien</td><td>27. April</td><td>2004 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Spanien</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Sri Lanka</td><td>26. Juni</td><td>2009</td><td>26. September</td><td>2009</td></tr>
 <tr><td>Südafrika</td><td>18. Mai</td><td>2004 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Sudan</td><td>16. August</td><td>2009 B</td><td>16. November</td><td>2009</td></tr>
+<tr><td>Tadschikistan</td><td>14. Mai</td><td>2020 B</td><td>14. August</td><td>2020</td></tr>
 <tr><td>Thailand</td><td>12. Juni</td><td>2015 B</td><td>12. September</td><td>2015</td></tr>
 <tr><td>Togo</td><td>28. Juni</td><td>2014 B</td><td>28. September</td><td>2014</td></tr>
 <tr><td>Tschechische Republik</td><td>17. September</td><td>2001</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Tunesien</td><td>24. Juli</td><td>2017 B</td><td>24. Oktober</td><td>2017</td></tr>
 <tr><td>Türkei</td><td>3. Mai</td><td>2006 B</td><td>3. August</td><td>2006</td></tr>
+<tr><td>Turkmenistan</td><td>3. Februar</td><td>2021 B</td><td>3. Mai</td><td>2021</td></tr>
+<tr><td>Tuvalu</td><td>13. Mai</td><td>2019 B</td><td>13. August</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>27. Juni</td><td>2002 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Ukraine</td><td>15. Juni</td><td>2011 B</td><td>15. September</td><td>2011</td></tr>
 <tr><td>Ungarn</td><td>29. April</td><td>2004 B</td><td>3. Februar</td><td>2006</td></tr>
+<tr><td>Usbekistan</td><td>16. Februar</td><td>2021 B</td><td>16. Mai</td><td>2021</td></tr>
 <tr><td>Vanuatu</td><td>30. Juni</td><td>2018 B</td><td>30. September</td><td>2018</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>31. Mai</td><td>2010 B</td><td>31. August</td><td>2010</td></tr>
 <tr><td>Vereinigte Staaten</td><td>6. Dezember</td><td>2005 B</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>30. April</td><td>2004 U</td><td>3. Februar</td><td>2006</td></tr>
 <tr><td>Vietnam</td><td>8. Januar</td><td>2008 B</td><td>8. April</td><td>2008</td></tr>
 <tr><td>Zypern</td><td>25. Oktober</td><td>2004</td><td>3. Februar</td><td>2006</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltzollorganisation: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords eingesehen oder bei der Zollverwaltung, Sektion internationales Geschäft, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltzollorganisation: [www.wcoomd.org](http://www.wcoomd.org)/ &gt; Français &gt; A notre propos &gt; Conventions et Accords eingesehen oder bei der Zollverwaltung, Sektion internationales Geschäft, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2007 2431](https://fedlex.data.admin.ch/eli/oc/2007/342), [2011 3551](https://fedlex.data.admin.ch/eli/oc/2011/484), [2012 411](https://fedlex.data.admin.ch/eli/oc/2012/44), [2014 93](https://fedlex.data.admin.ch/eli/oc/2014/8), [2016 2765](https://fedlex.data.admin.ch/eli/oc/2016/449), [2017 5075](https://fedlex.data.admin.ch/eli/oc/2017/556)und [2020 283](https://fedlex.data.admin.ch/eli/oc/2020/51). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2011 3551](https://fedlex.data.admin.ch/eli/oc/2011/484); [2012 411](https://fedlex.data.admin.ch/eli/oc/2012/44); [2014 93](https://fedlex.data.admin.ch/eli/oc/2014/8); [2016 2765](https://fedlex.data.admin.ch/eli/oc/2016/449); [2017 5075](https://fedlex.data.admin.ch/eli/oc/2017/556); [2020 283](https://fedlex.data.admin.ch/eli/oc/2020/51); [2025 594](https://fedlex.data.admin.ch/eli/oc/2025/594). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
