@@ -3,11 +3,11 @@ sr: "0.631.244.57"
 title: "Convention douanière du 6 décembre 1961 sur le carnet A.T.A. pour l'admission temporaire de marchandises (Convention A.T.A.) (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/479_476_493"
 language: fr
-version: 2020-07-17
+version: 2025-09-24
 adopted: 1961-12-06
 in_force: 1963-07-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/479_476_493/20200717/fr/xml/fedlex-data-admin-ch-eli-cc-1963-479_476_493-20200717-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/479_476_493/20200717/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/479_476_493/20250924/fr/xml/fedlex-data-admin-ch-eli-cc-1963-479_476_493-20250924-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/479_476_493/20250924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 30 avril 1963
 
 Entrée en vigueur pour la Suisse le 30 juillet 1963
 
-(Etat le 17 juillet 2020)
+(État le 24 septembre 2025)
 
 [^t-1]: Art. 1 de l’AF du 7 mars 1963 ([RO 1963 439](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459))
 
@@ -44,7 +44,7 @@ convaincus que l’adoption de procédures communes relatives à l’importation
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 ## Chapitre I Définitions et agrément
 
@@ -61,7 +61,7 @@ Pour l’application de la présente Convention on entend:
 - (g) par «Conseil»: l’organisation instituée par la Convention portant création d’un Conseil de Coopération Douanière, conclue à Bruxelles, le 15 décembre 1950[^1-1];
 - (h) par «personne»: aussi bien une personne physique qu’une personne morale, à moins que le contexte n’en dispose autrement.
 
-[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 #### Art. 2
 
@@ -84,8 +84,8 @@ Chaque Partie Contractante accepte, aux lieu et place de ses documents douaniers
 
 <sup>4.</sup> Les marchandises devant faire l’objet d’une ouvraison ou d’une réparation ne peuvent être importées sous le couvert d’un carnet A.T.A.
 
-[^3-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/eli/cc/1963/453_449_468)
-[^3-2]: [RS 0.631.244.56](https://fedlex.data.admin.ch/eli/cc/1963/467_464_482)
+[^3-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2049)
+[^3-2]: [RS 0.631.244.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2052)
 
 ## Chapitre III Émission et utilisation des carnets A.T.A.
 
@@ -299,7 +299,7 @@ Si aucune objection à l’amendement recommandé n’a été formulée dans les
 Le Secrétaire Général du Conseil notifie à toutes les Parties Contractantes ainsi qu’aux autres États signataires ou adhérents, au Secrétaire Général des Nations Unies, aux Parties Contractantes du GATT et à l’UNESCO:
 
 - (a) les signatures, ratifications, adhésions visées à l’Art. 20 de la présente Convention;
-- (b) la date à laquelle la présente Convention entre en vigueur conformément à l’Art. 2 1 ;
+- (b) la date à laquelle la présente Convention entre en vigueur conformément à l’Art. 2 1;
 - (c) les dénonciations reçues conformément à l’Art. 22;
 - (d) les notifications reçues conformément à l’Art. 23;
 - (e) les amendements réputés acceptés conformément à l’Art. 24 ainsi que la date de leur entrée en vigueur;
@@ -310,52 +310,52 @@ Le Secrétaire Général du Conseil notifie à toutes les Parties Contractantes 
 
 Conformément à l’Art. 102 de la Charte des Nations Unies[^28-1], la présente Convention sera enregistrée au Secrétariat des Nations Unies à la requête du Secrétaire Général du Conseil.
 
-[^28-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^28-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *En foi de quoi,* les plénipotentiaires soussignés ont signé la présente Convention. Fait à Bruxelles, le six décembre mil neuf cent soixante et un, en langues française et anglaise, les deux textes faisant également foi, en un seul exemplaire qui sera déposé auprès du Secrétaire Général du Conseil qui en transmettra des copies certifiées conformes à tous les États visés au par. 1 de l’Art. 20 de la présente Convention. (Suivent les signatures)
 
 Annexe
 
-## Modèle de carnet A.T.A****
+## Modèle de carnet A.T.A
 
 [^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Ce carnet n’est pas publié au RO ([RO 1989 1812](https://fedlex.data.admin.ch/eli/oc/1989/1812_1812_1812), [2003 2428](https://fedlex.data.admin.ch/eli/oc/2003/351)). Il est imprimé en français ou en anglais et, au besoin, dans une deuxième langue. Consultation: Direction générale des douanes, section Franchises douanières et transits, 3003 Berne.
 
-Champ d’application le 17 juillet 2020**[^t-2]**
+Champ d’application le 24 septembre 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Afrique du Sud<sup>\*</sup></td><td>18 décembre</td><td>1975 A</td><td>18 mars</td><td>1976</td></tr>
+<tr><td>Afrique du Sud\*</td><td>18 décembre</td><td>1975 A</td><td>18 mars</td><td>1976</td></tr>
 <tr><td>Algérie</td><td>2 juillet</td><td>1973 A</td><td>2 octobre</td><td>1973</td></tr>
 <tr><td>Allemagne</td><td>15 octobre</td><td>1965</td><td>16 janvier</td><td>1966</td></tr>
 <tr><td>Andorre</td><td>2 septembre</td><td>1998 A</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
-<tr><td>Australie<sup>\*</sup></td><td>14 juin</td><td>1967</td><td>14 septembre</td><td>1967</td></tr>
+<tr><td>Australie\*</td><td>14 juin</td><td>1967</td><td>14 septembre</td><td>1967</td></tr>
 <tr><td>Autriche</td><td>20 mai</td><td>1963</td><td>21 août</td><td>1963</td></tr>
 <tr><td>Bélarus</td><td>7 mai</td><td>1998 A</td><td>5 août</td><td>1998</td></tr>
 <tr><td>Belgique</td><td>22 février</td><td>1966 A</td><td>22 mai</td><td>1966</td></tr>
 <tr><td>Bulgarie</td><td>31 juillet</td><td>1964 A</td><td>1<sup>er</sup> novembre</td><td>1964</td></tr>
 <tr><td>Canada</td><td>10 juillet</td><td>1972 A</td><td>10 octobre</td><td>1972</td></tr>
 <tr><td>Chine\*</td><td>27 août</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
-<tr><td>[tab] Hong Kong<sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Macao</td><td>15 juin</td><td>2010</td><td>15 juin</td><td>2010</td></tr>
 <tr><td>Chypre</td><td>25 octobre</td><td>1976 A</td><td>25 janvier</td><td>1977</td></tr>
 <tr><td>Corée (Sud)</td><td>4 avril</td><td>1978 A</td><td>4 juillet</td><td>1978</td></tr>
 <tr><td>Côte d’Ivoire</td><td>14 juin</td><td>1962 Si</td><td>30 juillet</td><td>1963</td></tr>
 <tr><td>Croatie</td><td>29 septembre</td><td>1994 A</td><td>29 décembre</td><td>1994</td></tr>
 <tr><td>Cuba</td><td>24 septembre</td><td>1963</td><td>25 décembre</td><td>1963</td></tr>
-<tr><td>Danemark<sup>\*</sup></td><td>14 avril</td><td>1965</td><td>15 juillet</td><td>1965</td></tr>
-<tr><td>[tab] Îles Féroé</td><td>14 avril</td><td>1965</td><td>15 juillet</td><td>1965</td></tr>
+<tr><td>Danemark\*</td><td>14 avril</td><td>1965</td><td>15 juillet</td><td>1965</td></tr>
+<tr><td>Îles Féroé</td><td>14 avril</td><td>1965</td><td>15 juillet</td><td>1965</td></tr>
 <tr><td>Égypte</td><td>11 janvier</td><td>1968 A</td><td>11 avril</td><td>1968</td></tr>
 <tr><td>Espagne</td><td>6 avril</td><td>1964</td><td>7 juillet</td><td>1964</td></tr>
-<tr><td>États-Unis<sup>\*</sup></td><td>3 décembre</td><td>1968 A</td><td>3 mars</td><td>1969</td></tr>
+<tr><td>États-Unis\*</td><td>3 décembre</td><td>1968 A</td><td>3 mars</td><td>1969</td></tr>
 <tr><td>Finlande</td><td>1<sup>er</sup> août</td><td>1964 A</td><td>2 novembre</td><td>1964</td></tr>
 <tr><td>France</td><td>20 décembre</td><td>1962 A</td><td>30 juillet</td><td>1963</td></tr>
 <tr><td>Grèce</td><td>23 octobre</td><td>1975 A</td><td>23 janvier</td><td>1976</td></tr>
 <tr><td>Hongrie</td><td>22 novembre</td><td>1965 A</td><td>23 février</td><td>1966</td></tr>
 <tr><td>Inde</td><td>5 juillet</td><td>1989 A</td><td>5 octobre</td><td>1989</td></tr>
 <tr><td>Iran</td><td>16 avril</td><td>1968 A</td><td>16 juillet</td><td>1968</td></tr>
-<tr><td>Irlande<sup>\*</sup></td><td>15 avril</td><td>1965 A</td><td>16 juillet</td><td>1965</td></tr>
+<tr><td>Irlande\*</td><td>15 avril</td><td>1965 A</td><td>16 juillet</td><td>1965</td></tr>
 <tr><td>Islande</td><td>16 juin</td><td>1970 A</td><td>16 septembre</td><td>1970</td></tr>
 <tr><td>Israël</td><td>25 août</td><td>1966 A</td><td>25 novembre</td><td>1966</td></tr>
 <tr><td>Italie</td><td>19 juin</td><td>1964</td><td>20 septembre</td><td>1964</td></tr>
@@ -373,38 +373,39 @@ Champ d’application le 17 juillet 2020**[^t-2]**
 <tr><td>Niger</td><td>8 décembre</td><td>1978 A</td><td>8 mars</td><td>1979</td></tr>
 <tr><td>Nigéria</td><td>1<sup>er</sup> octobre</td><td>1973 A</td><td>1<sup>er</sup> janvier</td><td>1974</td></tr>
 <tr><td>Norvège</td><td>29 octobre</td><td>1964 A</td><td>30 janvier</td><td>1965</td></tr>
-<tr><td>Nouvelle-Zélande<sup>\*</sup></td><td>28 novembre</td><td>1977 A</td><td>28 février</td><td>1978</td></tr>
+<tr><td>Nouvelle-Zélande\*</td><td>28 novembre</td><td>1977 A</td><td>28 février</td><td>1978</td></tr>
 <tr><td>Pays-Bas</td><td>17 janvier</td><td>1964 A</td><td>18 avril</td><td>1964</td></tr>
 <tr><td>Aruba</td><td>17 janvier</td><td>1964 A</td><td>18 avril</td><td>1964</td></tr>
 <tr><td>Curaçao</td><td>17 janvier</td><td>1964 A</td><td>18 avril</td><td>1964</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>17 janvier</td><td>1964 A</td><td>18 avril</td><td>1964</td></tr>
 <tr><td>Sint Maarten</td><td>17 janvier</td><td>1964 A</td><td>18 avril</td><td>1964</td></tr>
-<tr><td>Pologne<sup>\*</sup></td><td>19 juillet</td><td>1969 A</td><td>19 octobre</td><td>1969</td></tr>
+<tr><td>Pologne\*</td><td>19 juillet</td><td>1969 A</td><td>19 octobre</td><td>1969</td></tr>
 <tr><td>Portugal</td><td>20 avril</td><td>1966</td><td>20 juillet</td><td>1966</td></tr>
 <tr><td>République tchèque</td><td>1<sup>er</sup> janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>7 mars</td><td>1967 A</td><td>7 juin</td><td>1967</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup></td><td>19 juillet</td><td>1963</td><td>20 octobre</td><td>1963</td></tr>
-<tr><td>[tab] Gibraltar<sup>\*</sup></td><td>2 décembre</td><td>1968 A</td><td>2 mars</td><td>1969</td></tr>
-<tr><td>[tab] Guernesey</td><td>19 juillet</td><td>1963 A</td><td>20 octobre</td><td>1963</td></tr>
-<tr><td>[tab] Île de Man</td><td>19 juillet</td><td>1963 A</td><td>20 octobre</td><td>1963</td></tr>
-<tr><td>[tab] Jersey</td><td>19 juillet</td><td>1963 A</td><td>20 octobre</td><td>1963</td></tr>
+<tr><td>Royaume-Uni\*</td><td>19 juillet</td><td>1963</td><td>20 octobre</td><td>1963</td></tr>
+<tr><td>Gibraltar\*</td><td>2 décembre</td><td>1968 A</td><td>2 mars</td><td>1969</td></tr>
+<tr><td>Guernesey</td><td>19 juillet</td><td>1963 A</td><td>20 octobre</td><td>1963</td></tr>
+<tr><td>Île de Man</td><td>19 juillet</td><td>1963 A</td><td>20 octobre</td><td>1963</td></tr>
+<tr><td>Jersey</td><td>19 juillet</td><td>1963 A</td><td>20 octobre</td><td>1963</td></tr>
 <tr><td>Russie</td><td>18 avril</td><td>1996 A</td><td>18 juillet</td><td>1996</td></tr>
 <tr><td>Sénégal</td><td>14 octobre</td><td>1977 A</td><td>14 janvier</td><td>1978</td></tr>
 <tr><td>Serbie</td><td>27 décembre</td><td>2001 A</td><td>27 mars</td><td>2002</td></tr>
+<tr><td>Seychelles</td><td>15 novembre</td><td>2023 A</td><td>15 février</td><td>2024</td></tr>
 <tr><td>Singapour</td><td>14 novembre</td><td>1983 A</td><td>14 février</td><td>1984</td></tr>
 <tr><td>Slovaquie</td><td>5 février</td><td>1993 S</td><td>5 février</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>23 novembre</td><td>1992 A</td><td>23 février</td><td>1993</td></tr>
 <tr><td>Sri Lanka</td><td>14 juillet</td><td>1981 A</td><td>14 octobre</td><td>1981</td></tr>
 <tr><td>Suède</td><td>19 mars</td><td>1964</td><td>20 juin</td><td>1964</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>30 avril</td><td>1963</td><td>30 juillet</td><td>1963</td></tr>
+<tr><td>Suisse\*</td><td>30 avril</td><td>1963</td><td>30 juillet</td><td>1963</td></tr>
 <tr><td>Thaïlande</td><td>30 septembre</td><td>1994 A</td><td>30 décembre</td><td>1994</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>5 janvier</td><td>1981 A</td><td>5 avril</td><td>1981</td></tr>
 <tr><td>Tunisie</td><td>10 mars</td><td>1971 A</td><td>10 juin</td><td>1971</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>23 août</td><td>1974 A</td><td>23 novembre</td><td>1974</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale des douanes: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, ou obtenus auprès de la Direction générale des douanes, Section des affaires internationales, 3003 Berne. <sup>a</sup> Du 20 oct. 1963 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td>Turquie\*</td><td>23 août</td><td>1974 A</td><td>23 novembre</td><td>1974</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale des douanes: [www.wcoomd.org](http://www.wcoomd.org) &gt; Français &gt; A notre propos &gt; Conventions et Accords, ou obtenus auprès de la Direction générale des douanes, Section des affaires internationales, 3003 Berne. <sup>a</sup> Du 20 oct. 1963 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-2]: [RO 1963 476](https://fedlex.data.admin.ch/eli/oc/1963/479_476_493), [1974 1629](https://fedlex.data.admin.ch/eli/oc/1974/1629_1629_1629), [1981 1224](https://fedlex.data.admin.ch/eli/oc/1981/1224_1224_1224), [1984 267](https://fedlex.data.admin.ch/eli/oc/1984/267_267_267), [1990 1495](https://fedlex.data.admin.ch/eli/oc/1990/1495_1495_1495), [2005 2183](https://fedlex.data.admin.ch/eli/oc/2005/357), [2007 1905](https://fedlex.data.admin.ch/eli/oc/2007/273), [2017 5729](https://fedlex.data.admin.ch/eli/oc/2017/616), [2020 3481](https://fedlex.data.admin.ch/eli/oc/2020/604). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1963 476](https://fedlex.data.admin.ch/eli/oc/1963/479_476_493); [1974 1629](https://fedlex.data.admin.ch/eli/oc/1974/1629_1629_1629); [1981 1224](https://fedlex.data.admin.ch/eli/oc/1981/1224_1224_1224); [1984 267](https://fedlex.data.admin.ch/eli/oc/1984/267_267_267); [1990 1495](https://fedlex.data.admin.ch/eli/oc/1990/1495_1495_1495); [2005 2183](https://fedlex.data.admin.ch/eli/oc/2005/357); [2007 1905](https://fedlex.data.admin.ch/eli/oc/2007/273); [2017 5729](https://fedlex.data.admin.ch/eli/oc/2017/616); [2020 3481](https://fedlex.data.admin.ch/eli/oc/2020/604); [2025 596](https://fedlex.data.admin.ch/eli/oc/2025/596). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

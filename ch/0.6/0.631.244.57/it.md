@@ -3,11 +3,11 @@ sr: "0.631.244.57"
 title: "Convenzione doganale del 6 dicembre 1961 concernente libretti A.T.A. per l'ammissione temporanea delle merci (Convenzione A.T.A.) (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/479_476_493"
 language: it
-version: 2020-07-17
+version: 2025-09-24
 adopted: 1961-12-06
 in_force: 1963-07-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/479_476_493/20200717/it/xml/fedlex-data-admin-ch-eli-cc-1963-479_476_493-20200717-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/479_476_493/20200717/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/479_476_493/20250924/it/xml/fedlex-data-admin-ch-eli-cc-1963-479_476_493-20250924-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/479_476_493/20250924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Convenzione A.T.A.)
 
-Conchiusa a Bruxelles il 6 dicembre 1961
+Conchiusa a Bruxelles il 6 dicembre 1961 Approvata dall’Assemblea federale il 7 marzo 1963[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 30 luglio 1963 Entrata in vigore per la Svizzera il 31 luglio 1963
 
-Approvata dall’Assemblea federale il 7 marzo 1963[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 30 luglio 1963
-
-Entrata in vigore per la Svizzera il 31 luglio 1963
-
-(Stato 17 luglio 2020)
+(Stato 24 settembre 2025)
 
 [^t-1]: Art. 1 del DF del 7 mar. 1963 ([RU 1963 459](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459)).
 
@@ -44,7 +38,7 @@ persuasi che l’adozione di procedure comuni in materia siano di notevole vanta
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 ## Capo I Definizioni e riconoscimenti
 
@@ -61,7 +55,7 @@ Secondo la presente Convenzione, sono considerati:
 - (g) «Consiglio» il Consiglio di Cooperazione Doganale, istituito dalla Convenzione conchiusa a Bruxelles il 15 dicembre 1950[^1-1];
 - (h) «persone» le persone, sia fisiche sia giuridiche.
 
-[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 #### Art. 2
 
@@ -84,8 +78,8 @@ Ciascuna Parte Contraente accetta, invece dei documenti doganali nazionali e del
 
 <sup>4.</sup> Il libretto A.T.A. non può essere impiegato per l’importazione di merce destinata ad essere riparata o migliorata.
 
-[^3-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/eli/cc/1963/453_449_468)
-[^3-2]: [RS 0.631.244.56](https://fedlex.data.admin.ch/eli/cc/1963/467_464_482)
+[^3-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2049)
+[^3-2]: [RS 0.631.244.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2052)
 
 ## Capo III Emissione e impiego dei libretti A.T.A.
 
@@ -310,19 +304,19 @@ Il Segretario del Consiglio notifica alle Parti Contraenti come anche a tutti i 
 
 Giusta l’Articolo 102 della Carta delle Nazioni Unite[^28-1], la presente Convenzione sarà registrata presso la Segreteria delle Nazioni Unite, su richiesta del Segretario del Consiglio.
 
-[^28-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^28-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *In fede di che,* i plenipotenziari sottoscritti hanno firmato la presente Convenzione. *Fatto a Bruxelles,* il sei dicembre millenovecentosessantuno, nelle lingue inglese e francese, i cui testi fanno ugualmente fede, e in un solo esemplare depositato presso il Segretario del Consiglio, che trasmetterà una copia certificata conforme a tutti i paesi di cui all’Articolo 20, numero I. (Seguono le firme)
 
 Allegato
 
-## Modello dei libretti A.T.A.****
+## Modello dei libretti A.T.A.
 
 [^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Questo libretto non é pubblicato nella RU ([RU 1989 1812](https://fedlex.data.admin.ch/eli/oc/1989/1812_1812_1812), [2003 2428](https://fedlex.data.admin.ch/eli/oc/2003/351)). È stampato in francese o in inglese e, all’occasione, in una seconda lingua. Consultazione: Direzione generale delle dogane, Sezione Franchigia doganale e transiti, 3003 Berna.
 
-Campo d’applicazione il 17 luglio 2020**[^t-2]**
+Campo d’applicazione il 24 settembre 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -387,6 +381,7 @@ Campo d’applicazione il 17 luglio 2020**[^t-2]**
 <tr><td>Russia</td><td>18 aprile</td><td>1996 A</td><td>18 luglio</td><td>1996</td></tr>
 <tr><td>Senegal</td><td>14 ottobre</td><td>1977 A</td><td>14 gennaio</td><td>1978</td></tr>
 <tr><td>Serbia</td><td>27 dicembre</td><td>2001 A</td><td>27 marzo</td><td>2002</td></tr>
+<tr><td>Seycelles</td><td>15 novembre</td><td>2023 A</td><td>15 febbraio</td><td>2024</td></tr>
 <tr><td>Singapore</td><td>14 novembre</td><td>1983 A</td><td>14 febbraio</td><td>1984</td></tr>
 <tr><td>Slovacchia</td><td>5 febbraio</td><td>1993 S</td><td>5 febbraio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>23 novembre</td><td>1992 A</td><td>23 febbraio</td><td>1993</td></tr>
@@ -405,7 +400,7 @@ Campo d’applicazione il 17 luglio 2020**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Dal 20 ott. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-2]: [RU 1963 493](https://fedlex.data.admin.ch/eli/oc/1963/479_476_493), [1974 1629](https://fedlex.data.admin.ch/eli/oc/1974/1629_1629_1629), [1981 1224](https://fedlex.data.admin.ch/eli/oc/1981/1224_1224_1224), [1984 267](https://fedlex.data.admin.ch/eli/oc/1984/267_267_267), [1990 1495](https://fedlex.data.admin.ch/eli/oc/1990/1495_1495_1495),[2005 2183](https://fedlex.data.admin.ch/eli/oc/2005/357), [2007 1905](https://fedlex.data.admin.ch/eli/oc/2007/273), [2017 5729](https://fedlex.data.admin.ch/eli/oc/2017/616), [2020 3481](https://fedlex.data.admin.ch/eli/oc/2020/604). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1974 1629](https://fedlex.data.admin.ch/eli/oc/1974/1629_1629_1629); [1981 1224](https://fedlex.data.admin.ch/eli/oc/1981/1224_1224_1224); [1984 267](https://fedlex.data.admin.ch/eli/oc/1984/267_267_267); [1990 1495](https://fedlex.data.admin.ch/eli/oc/1990/1495_1495_1495); [2005 2183](https://fedlex.data.admin.ch/eli/oc/2005/357); [2007 1905](https://fedlex.data.admin.ch/eli/oc/2007/273); [2017 5729](https://fedlex.data.admin.ch/eli/oc/2017/616); [2020 3481](https://fedlex.data.admin.ch/eli/oc/2020/604); [2025 596](https://fedlex.data.admin.ch/eli/oc/2025/596). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

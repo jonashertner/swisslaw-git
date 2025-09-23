@@ -3,11 +3,11 @@ sr: "0.631.244.57"
 title: Zollabkommen vom 6. Dezember 1961 über das Carnet A.T.A für die vorübergehende Einfuhr von Waren (A.T.A.-Abkommen) (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/479_476_493"
 language: de
-version: 2020-07-17
+version: 2025-09-24
 adopted: 1961-12-06
 in_force: 1963-07-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/479_476_493/20200717/de/xml/fedlex-data-admin-ch-eli-cc-1963-479_476_493-20200717-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/479_476_493/20200717/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/479_476_493/20250924/de/xml/fedlex-data-admin-ch-eli-cc-1963-479_476_493-20250924-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/479_476_493/20250924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ AS **1963** 479; BBl **1962** II 1177
 
 Abgeschlossen in Brüssel am 6. Dezember 1961 Von der Bundesversammlung genehmigt am 7. März 1963[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 30. April 1963 In Kraft getreten für die Schweiz am 30. Juli 1963
 
-(Stand am 17. Juli 2020)
+(Stand am 24. September 2025)
 
 [^t-1]: Art. 1 des BB vom 7. März 1963 ([AS 1963 443](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459))
 
@@ -38,7 +38,7 @@ in der Überzeugung, dass die Einführung eines einheitlichen Verfahrens für di
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^ingress-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 ## Kapitel I Begriffsbestimmungen und Zulassung
 
@@ -55,7 +55,7 @@ Im Sinne dieses Abkommens bedeutet:
 - (g) «der Rat» die Organisation, die auf Grund der am 15. Dezember 1950[^1-1] in Brüssel geschlossenen Konvention betreffend die Gründung eines Rates für die Zusammenarbeit auf dem Gebiete des Zollwesens gebildet wurde;
 - (h) «Personen» sowohl natürliche als auch juristische Personen, soweit sich aus dem Zusammenhang nichts anderes ergibt.
 
-[^1-1]: [SR 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [SR 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 #### Art. 2
 
@@ -78,8 +78,8 @@ Jede Vertragspartei anerkennt anstelle ihrer innerstaatlichen Zollpapiere die f�
 
 <sup>4.</sup> Zur Veredlung oder Ausbesserung bestimmte Waren dürfen nicht unter Verwendung von Carnets A.T.A. eingeführt werden.
 
-[^3-1]: [SR 0.631.244.54](https://fedlex.data.admin.ch/eli/cc/1963/453_449_468)
-[^3-2]: [SR 0.631.244.56](https://fedlex.data.admin.ch/eli/cc/1963/467_464_482)
+[^3-1]: [SR 0.631.244.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2049)
+[^3-2]: [SR 0.631.244.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2052)
 
 ## Kapitel III Ausstellung und Verwendung von Carnets A.T.A.
 
@@ -302,13 +302,13 @@ Nach Artikel 102 der Satzung der Vereinten Nationen wird dieses Abkommen auf Ant
 
 Anlage
 
-## Vordruck des Carnet A.T.A.****
+## Vordruck des Carnet A.T.A.
 
 [^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Das Carnet A.T.A. wird in der AS nicht publiziert ([AS 1989 1812](https://fedlex.data.admin.ch/eli/oc/1989/1812_1812_1812), [2003 2428](https://fedlex.data.admin.ch/eli/oc/2003/351)). Der Vordruck des Carnet A.T.A. kann bei der Oberzolldirektion, Sektion Zollbefreiung und Transite, 3003 Bern eingesehen werden.
 
-Geltungsbereich am 17. Juli 2020**[^t-2]**
+Geltungsbereich am 24. September 2025[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -368,6 +368,7 @@ Geltungsbereich am 17. Juli 2020**[^t-2]**
 <tr><td>Schweiz\*</td><td>30. April</td><td>1963</td><td>30. Juli</td><td>1963</td></tr>
 <tr><td>Senegal</td><td>14. Oktober</td><td>1977 B</td><td>14. Januar</td><td>1978</td></tr>
 <tr><td>Serbien</td><td>27. Dezember</td><td>2001 B</td><td>27. März</td><td>2002</td></tr>
+<tr><td>Seychellen</td><td>15. November</td><td>2023 B</td><td>15. Februar</td><td>2024</td></tr>
 <tr><td>Singapur</td><td>14. November</td><td>1983 B</td><td>14. Februar</td><td>1984</td></tr>
 <tr><td>Slowakei</td><td>5. Februar</td><td>1993 N</td><td>5. Februar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>23. November</td><td>1992 B</td><td>23. Februar</td><td>1993</td></tr>
@@ -385,12 +386,12 @@ Geltungsbereich am 17. Juli 2020**[^t-2]**
 <tr><td>Gibraltar\*</td><td>2. Dezember</td><td>1968 B</td><td>2. März</td><td>1969</td></tr>
 <tr><td>Guernsey</td><td>19. Juli</td><td>1963 B</td><td>20. Oktober</td><td>1963</td></tr>
 <tr><td>Insel Man</td><td>19. Juli</td><td>1963 B</td><td>20. Oktober</td><td>1963</td></tr>
-<tr><td>Jersey</td><td>19. Juli</td><td>1963 B</td><td>20. Oktober</td><td>1963</td></tr>
+<tr><td>Jersey</td><td>19. Julii</td><td>1963 B</td><td>20. Oktober</td><td>1963</td></tr>
 <tr><td>Zypern</td><td>25. Oktober</td><td>1976 B</td><td>25. Januar</td><td>1977</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltzollorganisation: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords eingesehen oder bei der Zollverwaltung, Sektion internationales Geschäft, 3003 Bern, bezogen werden. <sup>a</sup> Vom 14. März 1974 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltzollorganisation: [www.wcoomd.org](http://www.wcoomd.org)/ &gt; Français &gt; A notre propos &gt; Conventions et Accords eingesehen oder bei der Zollverwaltung, Sektion internationales Geschäft, 3003 Bern, bezogen werden. <sup>a</sup> Vom 14. März 1974 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1963 479](https://fedlex.data.admin.ch/eli/oc/1963/479_476_493), [1974 1629](https://fedlex.data.admin.ch/eli/oc/1974/1629_1629_1629), [1981 1224](https://fedlex.data.admin.ch/eli/oc/1981/1224_1224_1224), [1984 267](https://fedlex.data.admin.ch/eli/oc/1984/267_267_267), [1990 1495](https://fedlex.data.admin.ch/eli/oc/1990/1495_1495_1495),[2005 2183](https://fedlex.data.admin.ch/eli/oc/2005/357), [2007 1905](https://fedlex.data.admin.ch/eli/oc/2007/273), [2017 5729](https://fedlex.data.admin.ch/eli/oc/2017/616), [2020 3481](https://fedlex.data.admin.ch/eli/oc/2020/604). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1974 1629](https://fedlex.data.admin.ch/eli/oc/1974/1629_1629_1629); [1981 1224](https://fedlex.data.admin.ch/eli/oc/1981/1224_1224_1224); [1984 267](https://fedlex.data.admin.ch/eli/oc/1984/267_267_267); [1990 1495](https://fedlex.data.admin.ch/eli/oc/1990/1495_1495_1495); [2005 2183](https://fedlex.data.admin.ch/eli/oc/2005/357); [2007 1905](https://fedlex.data.admin.ch/eli/oc/2007/273); [2017 5729](https://fedlex.data.admin.ch/eli/oc/2017/616); [2020 3481](https://fedlex.data.admin.ch/eli/oc/2020/604); [2025 596](https://fedlex.data.admin.ch/eli/oc/2025/596). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
