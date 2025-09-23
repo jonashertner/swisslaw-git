@@ -3,11 +3,11 @@ sr: "0.631.24"
 title: "Convention du 26 juin 1990 relative à l'admission temporaire (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685"
 language: fr
-version: 2020-01-29
+version: 2025-09-24
 adopted: 1990-06-26
 in_force: 1995-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685/20200129/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4685_4685_4685-20200129-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4685_4685_4685/20200129/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685/20250924/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4685_4685_4685-20250924-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4685_4685_4685/20250924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 mai 1995
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> août 1995
 
-(Etat le 29 janvier 2020)
+(État le 24 septembre 2025)
 
 [^t-1]: [RO 1995 4683](https://fedlex.data.admin.ch/eli/oc/1995/4683_4683_4683)
 
@@ -67,7 +67,7 @@ Pour l’application de la présente Convention, on entend par:
 - g) «Conseil»: l’organisation établie par la Convention portant création d’un Conseil de coopération douanière, Bruxelles, 15 décembre 1950[^1-1];
 - h) «ratification»: la ratification proprement dite, l’acceptation ou l’approbation
 
-[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 ## Chapitre II Champ d’application de la Convention
 
@@ -162,7 +162,7 @@ L’apurement de l’admission temporaire peut être obtenu par la mise à la co
 L’apurement de l’admission temporaire peut être obtenu si les marchandises (y compris les moyens de transport), qui ont été gravement endommagées par suite d’accident ou de force majeure sont, selon la décision des autorités douanières:
 
 - a) soumises aux droits et taxes à l’importation dus à la date à laquelle elles sont présentées endommagées à la douane aux fins de l’apurement de l’admission temporaire;
-- b) abandonnées, libres de tous frais, aux autorités compétentes du territoire d’admission temporaire; auquel cas le bénéficiaire de l’admission temporaire sera exonéré du paiement des droits et taxes à l’importation; ou
+- b) abandonnées, libres de tous frais, aux autorités compétentes du territoire d’admission temporaire; auquel cas le bénéficiaire de l’admission temporaire sera exonéré du paiement des droits et taxes à l’importation, ou
 - c) détruites, sous contrôle officiel, aux frais des intéressés, les déchets et les pièces récupérés étant soumis, en cas de mise à la consommation, aux droits et taxes à l’importation dus à la date et selon l’état dans lequel ils sont présentés à la douane après accident ou force majeure.
 
 <sup>2.</sup> L’apurement de l’admission temporaire peut être obtenu également si, sur demande de l’intéressé et selon la décision des autorités douanières, les marchandises (y compris les moyens de transport), reçoivent l’une des destinations prévues aux alinéas b) ou c) du paragraphe 1 ci‑dessus.
@@ -219,7 +219,7 @@ Les dispositions de la présente Convention ne mettent pas obstacle à l’appli
 
 Les Parties contractantes se communiquent mutuellement, sur demande et dans la mesure autorisée par la législation nationale, les informations nécessaires à l’application des dispositions de la présente Convention.
 
-### Techniques de traitement électronique des données****
+### Techniques de traitement électronique des données
 
 [^chapIV-lvlu8-1]
 
@@ -280,7 +280,7 @@ Toutes les formalités nécessaires à la mise en œuvre des dispositions de la 
 Tout Membre du Conseil et tout Membre de l’Organisation des Nations Unies ou de ses institutions spécialisées peut devenir Partie contractante à la présente Convention:
 
 - a) en la signant sans réserve de ratification;
-- b) en déposant un instrument de ratification après l’avoir signée sous réserve de ratification; ou
+- b) en déposant un instrument de ratification après l’avoir signée sous réserve de ratification, ou
 - c) en y adhérant.
 
 <sup>2.</sup> La présente Convention est ouverte à la signature des Membres visés au par. 1 du présent article, soit lors des sessions du Conseil pendant lesquelles elle aura été adoptée soit, par la suite, au siège du Conseil à Bruxelles, jusqu’au 30 juin 1991. Après cette date, la Convention sera ouverte à l’adhésion de ces Membres.
@@ -309,13 +309,16 @@ Le dépositaire:
 - b) établit des copies certifiées conformes aux textes originaux de la présente Convention et les communique aux Membres et Unions douanières ou économiques visés à l’art. 24, par. 1 et 7, de la présente Convention;
 - c) reçoit toute signature avec ou sans réserve de ratification, ratification ou adhésion à la présente Convention, reçoit et garde tous instruments, notifications et communications relatifs à la présente Convention;
 - d) examine si une signature, un instrument, une notification ou une communication se rapportant à la présente Convention est établi en bonne et due forme et, le cas échéant, porte la question à l’attention de la Partie en cause;
-- e) notifie aux Parties contractantes à la présente Convention, aux autres signataires, aux Membres du Conseil qui ne sont pas Parties contractantes à la présente Convention et au Secrétaire général de l’Organisation des Nations Unies:
-- – les signatures, ratifications, adhésions et acceptations d’Annexes visées à l’art. 24 de la présente Convention;
-- – les nouvelles Annexes que le Comité de gestion décide d’incorporer à la Convention;
-- – la date à laquelle la présente Convention et chacune de ses Annexes entrent en vigueur conformément à l’art. 26 de la présente Convention;
-- – les notifications reçues conformément aux art. 24, 29, 30 et 32 de la présente Convention;
-- – les dénonciations reçues conformément à l’art. 31 de la présente Convention;
-- – les amendements réputés acceptés conformément à l’art. 32 de la présente Convention ainsi que la date de leur entrée en vigueur.
+- e)
+
+  notifie aux Parties contractantes à la présente Convention, aux autres signataires, aux Membres du Conseil qui ne sont pas Parties contractantes à la présente Convention et au Secrétaire général de l’Organisation des Nations Unies:
+
+  - – les signatures, ratifications, adhésions et acceptations d’Annexes visées à l’art. 24 de la présente Convention;
+  - – les nouvelles Annexes que le Comité de gestion décide d’incorporer à la Convention;
+  - – la date à laquelle la présente Convention et chacune de ses Annexes entrent en vigueur conformément à l’art. 26 de la présente Convention;
+  - – les notifications reçues conformément aux art. 24, 29, 30 et 32 de la présente Convention;
+  - – les dénonciations reçues conformément à l’art. 31 de la présente Convention;
+  - – les amendements réputés acceptés conformément à l’art. 32 de la présente Convention ainsi que la date de leur entrée en vigueur.
 
 <sup>3.</sup> Lorsqu’une divergence apparaît entre une Partie contractante et le dépositaire au sujet de l’accomplissement des fonctions de ce dernier, le dépositaire ou cette Partie doit porter la question à l’attention des autres Parties contractantes et des signataires ou, le cas échéant, au Conseil.
 
@@ -403,7 +406,7 @@ Le dépositaire:
 
 Conformément à l’art. 102 de la Charte des Nations Unies[^34-1], la présente Convention sera enregistrée auprès du Secrétariat des Nations Unies, à la requête du dépositaire.
 
-[^34-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^34-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé la présente Convention. Fait à Istanbul, le vingt‑six juin mil neuf cent quatre‑vingt‑dix en un seul exemplaire original en anglais et en français, les deux textes faisant également foi. Le dépositaire est invité à établir et à diffuser des traductions faisant autorité de la présente Convention en arabe, en chinois, en espagnol et en russe. (Suivent les signatures)
 
@@ -467,7 +470,7 @@ Sur le titre d’admission temporaire doivent figurer:
 
 - – le nom de l’association émettrice;
 - – le nom de la chaîne de garantie internationale;
-- – les pays ou territoires douaniers dans lesquels le titre est valable; et
+- – les pays ou territoires douaniers dans lesquels le titre est valable, et
 - – le nom des associations garantes desdits pays ou territoires douaniers.
 
 #### Art. 7
@@ -571,7 +574,7 @@ Sont admis au bénéfice de la franchise des droits et taxes à l’importation 
 
 <sup>2.</sup> Nonobstant les dispositions du par. 1 du présent article, les carnets ATA ayant été délivrés en application de la Convention douanière sur le carnet ATA pour l’admission temporaire de marchandises, 1961, avant l’entrée en vigueur de la présente Annexe, seront acceptés jusqu’à l’accomplissement des opérations pour lesquelles ils ont été délivrés.
 
-[^annexA-lvlu1-chapVI-19-1]: [RS 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
+[^annexA-lvlu1-chapVI-19-1]: [RS 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
 
 Appendice I à l’Annexe A
 
@@ -626,7 +629,7 @@ Pour l’application de la présente Annexe, on entend par «manifestation»:
 - 1\. les expositions, foires, salons et manifestations similaires du commerce, de l’industrie, de l’agriculture et de l’artisanat;
 - 2\. les expositions ou manifestations organisées principalement dans un but philanthropique;
 - 3\. les expositions ou manifestations organisées principalement dans un but scientifique, technique, artisanal, artistique, éducatif ou culturel, sportif, religieux ou cultuel, pour promouvoir le tourisme ou encore en vue d’aider les peuples à mieux se comprendre;
-- 4\. les réunions de représentants d’organisations ou de groupements internationaux; ou
+- 4\. les réunions de représentants d’organisations ou de groupements internationaux, ou
 - 5\. les cérémonies et les manifestations de caractère officiel ou commémoratif;
 
 ### Chapitre II Champ d’application
@@ -655,7 +658,7 @@ Pour pouvoir bénéficier des facilités accordées par la présente Annexe:
 - a) le nombre ou la quantité de chaque article importé doit être raisonnable compte tenu de sa destination;
 - b) les conditions posées par la présente Convention doivent être remplies à la satisfaction des autorités douanières du territoire d’admission temporaire.
 
-[^annexu1-lvlu1-chapII-2-1]: [RS 0.631.145.141](https://fedlex.data.admin.ch/eli/cc/1953/463_463_475)
+[^annexu1-lvlu1-chapII-2-1]: [RS 0.631.145.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2012)
 
 ### Chapitre III Dispositions diverses
 
@@ -663,7 +666,7 @@ Pour pouvoir bénéficier des facilités accordées par la présente Annexe:
 
 Aussi longtemps qu’elles bénéficient des facilités prévues par la présente Convention et sauf si la législation nationale du territoire d’admission temporaire le permet, les marchandises placées en admission temporaire ne peuvent pas être:
 
-- a) prêtées, louées ou utilisées moyennant rétribution; ou
+- a) prêtées, louées ou utilisées moyennant rétribution, ou
 - b) transportées hors du lieu de la manifestation.
 
 #### Art. 4
@@ -719,9 +722,9 @@ Chaque Partie contractante a le droit de formuler une réserve, dans les conditi
 
 À son entrée en vigueur, la présente Annexe, abrogera et remplacera conformément à l’art. 27 de la présente Convention, la Convention douanière relative aux facilités accordées pour l’importation des marchandises destinées à être présentées ou utilisées à une exposition, une foire, un congrès ou une manifestation similaire, Bruxelles, 8 juin 1961[^annexu1-lvlu1-chapIII-9-1], dans les relations entre les Parties contractantes ayant accepté la présente Annexe et qui sont Parties contractantes à ladite Convention.
 
-[^annexu1-lvlu1-chapIII-9-1]: [RS 0.631.244.56](https://fedlex.data.admin.ch/eli/cc/1963/467_464_482)
+[^annexu1-lvlu1-chapIII-9-1]: [RS 0.631.244.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2052)
 
-Annexe B.2.*[^t-3]*
+Annexe B.2.[^t-3]
 
 ## Annexe relative au matériel professionnel
 
@@ -783,7 +786,7 @@ Les appendices à la présente Annexe font partie intégrante de celle‑ci.
 
 À son entrée en vigueur, la présente Annexe abrogera et remplacera conformément à l’art. 27 de la présente Convention, la Convention douanière relative à l’importation temporaire de matériel professionnel, Bruxelles, 8 juin 1961[^annexu1-lvlu1-chapIII-8-1], dans les relations entre les Parties contractantes ayant accepté la présente Annexe et qui sont Parties contractantes à ladite Convention.
 
-[^annexu1-lvlu1-chapIII-8-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/eli/cc/1963/453_449_468)
+[^annexu1-lvlu1-chapIII-8-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2049)
 
 Appendice I
 
@@ -898,7 +901,7 @@ J. Véhicules conçus ou spécialement adaptés pour être utilisés aux fins ci
 
 K. Attractions pour fêtes foraines, pour autant que le fonctionnement ou l’entretien de ce matériel requiert des techniques et des compétences ou des connaissances spécialisées.
 
-Annexe B.3. *[^t-4]*
+Annexe B.3. [^t-4]
 
 ## Annexe relative aux conteneurs, palettes, emballages, échantillons et autres marchandises importées dans le cadre d’une opération commerciale
 
@@ -1008,10 +1011,10 @@ dans les relations entre les Parties contractantes ayant accepté la présente A
 - – art. 2 à 11 et Annexes 1 (par. 1 et 2) à 3 de la Convention douanière relative aux conteneurs, Genève, 2 décembre 1972[^annexu1-lvlu1-chapII-9-3]
 - – art. 3, 5 et 6 (1.b et 2) de la Convention internationale pour faciliter l’importation des échantillons commerciaux et du matériel publicitaire, Genève, 7 novembre 1952[^annexu1-lvlu1-chapII-9-4]
 
-[^annexu1-lvlu1-chapII-9-1]: [RS 0.631.250.12](https://fedlex.data.admin.ch/eli/cc/1963/512_508_524)
-[^annexu1-lvlu1-chapII-9-2]: [RS 0.631.244.53](https://fedlex.data.admin.ch/eli/cc/1963/445_441_461)
-[^annexu1-lvlu1-chapII-9-3]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
-[^annexu1-lvlu1-chapII-9-4]: [RS 0.631.244.52](https://fedlex.data.admin.ch/eli/cc/1955/1005_1030_1038)
+[^annexu1-lvlu1-chapII-9-1]: [RS 0.631.250.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2056)
+[^annexu1-lvlu1-chapII-9-2]: [RS 0.631.244.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2048)
+[^annexu1-lvlu1-chapII-9-3]: [RS 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
+[^annexu1-lvlu1-chapII-9-4]: [RS 0.631.244.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2047)
 
 Appendice I
 
@@ -1036,7 +1039,7 @@ Appendice II
 \1. Les indications suivantes, inscrites de façon durable, devront être apposées en un endroit approprié et bien visible sur les conteneurs:
 
 - a) l’identification du propriétaire ou de l’exploitant principal, qui pourra être assurée soit par l’indication de ses nom et prénom, soit par un système d’identification consacré par l’usage, à l’exclusion des symboles tels qu’emblèmes ou drapeaux;
-- b) marques et numéros d’identification du conteneur adoptés par le propriétaire ou l’exploitant principal; et
+- b) marques et numéros d’identification du conteneur adoptés par le propriétaire ou l’exploitant principal, et
 - c) tare du conteneur, y compris tous les équipements fixés à demeure.
 
 \2. Pour les conteneurs destinés au transport des marchandises qui sont généralement prévus pour un usage maritime, ou pour tout autre conteneur utilisant un préfixe ISO normalisé (à savoir, quatre lettres majuscules se terminant par un U), l’identification du propriétaire ou de l’exploitant principal et le numéro d’identification de série du conteneur et le chiffre d’autocontrôle devront être conformes aux spécifications de la Norme internationale ISO 6346 et de ses annexes.
@@ -1060,7 +1063,7 @@ Pour l’application de la présente Annexe, on entend par «marchandises import
 
 - 1\. a) les matrices, clichés, moules, dessins, projets, modèles et autres objets similaires,
 - b) les instruments de mesure, de contrôles, de vérification et autres objets similaires,
-- c) les outils et instruments spéciaux; qui sont importés pour être utilisés pendant un procédé de fabrication de marchandises; et
+- c) les outils et instruments spéciaux; qui sont importés pour être utilisés pendant un procédé de fabrication de marchandises, et
 - 2\. les «moyens de production de remplacement»: les instruments, appareils et machines qui, dans l’attente de la livraison ou de la réparation de marchandises similaires, sont mis à la disposition d’un client par le fournisseur ou le réparateur, selon les cas.
 
 ### Chapitre II Champ d’application
@@ -1143,9 +1146,9 @@ Les appendices à la présente Annexe font partie intégrante de celle‑ci.
 
 À son entrée en vigueur, la présente Annexe, conformément à l’Art. 27 de la présente Convention, abrogera et remplacera la Convention douanière relative au matériel de bien‑être destiné aux gens de mer, Bruxelles, 1<sup>er</sup> décembre 1964[^annexu1-lvlu1-chapIII-8-2], la Convention douanière relative à l’importation temporaire de matériel scientifique, Bruxelles, 11 juin 1968[^annexu1-lvlu1-chapIII-8-3], et la Convention douanière relative à l’importation temporaire de matériel pédagogique, Bruxelles, 8 juin 1970[^annexu1-lvlu1-chapIII-8-4], dans les relations entre les Parties contractantes ayant accepté la présente Annexe et qui sont Parties contractantes auxdites Conventions.
 
-[^annexu1-lvlu1-chapIII-8-2]: [RS 0.631.145.273](https://fedlex.data.admin.ch/eli/cc/1968/1466_1514_1435)
-[^annexu1-lvlu1-chapIII-8-3]: [RS 0.631.242.011](https://fedlex.data.admin.ch/eli/cc/1974/608_608_608)
-[^annexu1-lvlu1-chapIII-8-4]: [RS 0.631.242.012](https://fedlex.data.admin.ch/eli/cc/1974/618_618_618)
+[^annexu1-lvlu1-chapIII-8-2]: [RS 0.631.145.273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2018)
+[^annexu1-lvlu1-chapIII-8-3]: [RS 0.631.242.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2026)
+[^annexu1-lvlu1-chapIII-8-4]: [RS 0.631.242.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2027)
 
 Appendice I
 
@@ -1294,7 +1297,7 @@ Les appendices à la présente Annexe font partie intégrante de celle‑ci.
 
 À son entrée en vigueur, la présente Annexe abrogera et remplacera, conformément à l’art. 27 de la présente Convention, les dispositions des art. 2 et 5 de la Convention sur les facilités douanières en faveur du tourisme, New York, 4 juin 1954[^annexu1-lvlu1-chapIII-7-1], dans les relations entre les Parties contractantes ayant accepté la présente Annexe et qui sont Parties contractantes à ladite Convention.
 
-[^annexu1-lvlu1-chapIII-7-1]: [RS 0.631.250.21](https://fedlex.data.admin.ch/eli/cc/1958/702_732_734)
+[^annexu1-lvlu1-chapIII-7-1]: [RS 0.631.250.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2057)
 
 Appendice I
 
@@ -1418,7 +1421,7 @@ L’appendice à la présente Annexe fait partie intégrante de celle‑ci.
 
 À son entrée en vigueur, la présente Annexe abrogera et remplacera, conformément à l’art. 27 de la présente Convention, le Protocole additionnel à la Convention sur les facilités douanières en faveur du tourisme, relatif à l’importation de documents et de matériel de propagande touristique, New York, 4 juin 1954[^annexu1-lvlu1-chapIII-7-2], dans les relations entre les Parties contractantes ayant accepté la présente Annexe et qui sont Parties contractantes audit Protocole.
 
-[^annexu1-lvlu1-chapIII-7-2]: [RS 0.631.250.211](https://fedlex.data.admin.ch/eli/cc/1958/710_740_743)
+[^annexu1-lvlu1-chapIII-7-2]: [RS 0.631.250.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2058)
 
 Appendice
 
@@ -1608,9 +1611,9 @@ Chaque Partie contractante a le droit de formuler une réserve, dans les conditi
 
 À son entrée en vigueur, cette Annexe abrogera et remplacera, conformément à l’Art. 27 de la présente Convention, la Convention douanière relative à l’importation temporaire des véhicules routiers privés, New York, 4 juin 1954[^annexC-lvlu1-chapIII-11-1], la Convention douanière relative à l’importation temporaire des véhicules routiers commerciaux, Genève, 18 mai 1956[^annexC-lvlu1-chapIII-11-2], et la Convention douanière relative à l’importation temporaire pour usage privé des embarcations de plaisance et des aéronefs, Genève, 18 mai 1956[^annexC-lvlu1-chapIII-11-3], dans les relations entre les Parties contractantes ayant accepté cette Annexe et qui sont Parties contractantes auxdites Conventions.
 
-[^annexC-lvlu1-chapIII-11-1]: [RS 0.631.251.4](https://fedlex.data.admin.ch/eli/cc/1958/719_749_752)
-[^annexC-lvlu1-chapIII-11-2]: [RS 0.631.252.52](https://fedlex.data.admin.ch/eli/cc/1960/1039_1087_1083)
-[^annexC-lvlu1-chapIII-11-3]: [RS 0.631.251.7](https://fedlex.data.admin.ch/eli/cc/1960/1062_1110_1107)
+[^annexC-lvlu1-chapIII-11-1]: [RS 0.631.251.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2059)
+[^annexC-lvlu1-chapIII-11-2]: [RS 0.631.252.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2063)
+[^annexC-lvlu1-chapIII-11-3]: [RS 0.631.251.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2060)
 
 Annexe D
 
@@ -1732,7 +1735,11 @@ Le délai de réexportation des marchandises importées en suspension partielle 
 
 Chaque Partie contractante a le droit de formuler une réserve, dans les conditions prévues à l’Art. 29 de la présente Convention, à l’égard de l’Art. 2 de la présente Annexe, en ce qui concerne la suspension partielle des taxes à l’importation.
 
-Champ d’application de la Convention le 29 janvier 2020**[^t-5]**
+## Champ d’application de la Convention le 24 septembre 2025
+
+[^annexE-lvlu2-1]
+
+[^annexE-lvlu2-1]: [RO 1995 4685](https://fedlex.data.admin.ch/eli/oc/1995/4685_4685_4685); [2006 2121](https://fedlex.data.admin.ch/eli/oc/2006/343); [2007 1901](https://fedlex.data.admin.ch/eli/oc/2007/271);[2012 413](https://fedlex.data.admin.ch/eli/oc/2012/45); [2015 2929](https://fedlex.data.admin.ch/eli/oc/2015/548); [2018 969](https://fedlex.data.admin.ch/eli/oc/2018/139); [2020 441](https://fedlex.data.admin.ch/eli/oc/2020/76); [2025 595](https://fedlex.data.admin.ch/eli/oc/2025/595). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1742,7 +1749,7 @@ Champ d’application de la Convention le 29 janvier 2020**[^t-5]**
 <tr><td>Allemagne\*</td><td>18 juin</td><td>1997</td><td>18 septembre</td><td>1997</td></tr>
 <tr><td>Andorre\*</td><td>2 septembre</td><td>1998 A</td><td>2 décembre</td><td>1998</td></tr>
 <tr><td>Arabie Saoudite</td><td>4 mai</td><td>2011</td><td>4 août</td><td>2011</td></tr>
-<tr><td>Arménie<sup>\*</sup></td><td>3 juillet</td><td>2018</td><td>3 juillet</td><td>2018</td></tr>
+<tr><td>Arménie\*</td><td>3 juillet</td><td>2018</td><td>3 juillet</td><td>2018</td></tr>
 <tr><td>Australie\*</td><td>9 janvier</td><td>1992 A</td><td>27 novembre</td><td>1993</td></tr>
 <tr><td>Autriche\*</td><td>29 septembre</td><td>1994 A</td><td>29 décembre</td><td>1994</td></tr>
 <tr><td>Bahreïn</td><td>31 mai</td><td>2012 A</td><td>31 août</td><td>2012</td></tr>
@@ -1786,8 +1793,11 @@ Champ d’application de la Convention le 29 janvier 2020**[^t-5]**
 <tr><td>Monténégro</td><td>23 juin</td><td>2008</td><td>23 septembre</td><td>2008</td></tr>
 <tr><td>Nigéria\*</td><td>10 juin</td><td>1993</td><td>27 novembre</td><td>1993</td></tr>
 <tr><td>Oman</td><td>11 janvier</td><td>2012 A</td><td>11 avril</td><td>2013</td></tr>
+<tr><td>Ouzbékistan</td><td>10 juin</td><td>2020 A</td><td>10 septembre</td><td>2020</td></tr>
 <tr><td>Pakistan\*</td><td>18 mai</td><td>2004</td><td>18 août</td><td>2004</td></tr>
 <tr><td>Pays-Bas\*</td><td>18 juin</td><td>1997</td><td>18 septembre</td><td>1997</td></tr>
+<tr><td>Pérou</td><td>27 juillet</td><td>2021 A</td><td>27 octobre</td><td>2021</td></tr>
+<tr><td>Philippines</td><td>17 janvier</td><td>2022 A</td><td>17 avril</td><td>2022</td></tr>
 <tr><td>Pologne\*</td><td>12 septembre</td><td>1995 A</td><td>12 décembre</td><td>1995</td></tr>
 <tr><td>Portugal\*</td><td>18 juin</td><td>1997</td><td>18 septembre</td><td>1997</td></tr>
 <tr><td>Qatar\*</td><td>10 septembre</td><td>2014 A</td><td>10 décembre</td><td>2014</td></tr>
@@ -1808,14 +1818,12 @@ Champ d’application de la Convention le 29 janvier 2020**[^t-5]**
 <tr><td>[tab] Union européenne (UE)\*</td><td>18 juin</td><td>1997</td><td>18 septembre</td><td>1997</td></tr>
 <tr><td>Vietnam</td><td>3 avril</td><td>2019 A</td><td>3 juillet</td><td>2019</td></tr>
 <tr><td>Zimbabwe\*</td><td>17 novembre</td><td>1992</td><td>27 novembre</td><td>1993</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale des douanes: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, ou obtenus auprès de la Direction générale des douanes, Section des affaires internationales, 3003 Berne. <sup>a</sup> Administration des douanes</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale des douanes: [www.wcoomd.org](http://www.wcoomd.org) &gt; Français &gt; A notre propos &gt; Conventions et Accords, ou obtenus auprès de la Direction générale des douanes, Section des affaires internationales, 3003 Berne. <sup>a</sup> Administration des douanes</td></tr>
 </table>
 
-[^t-5]: [RO 1995 4685](https://fedlex.data.admin.ch/eli/oc/1995/4685_4685_4685), [2006 2121](https://fedlex.data.admin.ch/eli/oc/2006/343), [2007 1901](https://fedlex.data.admin.ch/eli/oc/2007/271),[2012 413](https://fedlex.data.admin.ch/eli/oc/2012/45), [2015 2929](https://fedlex.data.admin.ch/eli/oc/2015/548), [2018 969](https://fedlex.data.admin.ch/eli/oc/2018/139), [2020 441](https://fedlex.data.admin.ch/eli/oc/2020/76). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+## Réserves et déclarations
 
-Réserves et déclarations
-
-**Suisse**[^t-6]
+**Suisse**[^annexE-lvlu3-1]
 
 La Suisse a accepté les annexes suivantes avec réserves:
 
@@ -1831,11 +1839,13 @@ La Suisse a accepté les annexes suivantes avec réserves:
 - Annexe C relative aux moyens de transport.
 - Annexe D relative aux animaux.
 
-La convention étend ses effets à la Principauté du Liechtenstein aussi longtemps que celle-ci est liée à la Confédération suisse par un traité d’union douanière[^t-7].
+La convention étend ses effets à la Principauté du Liechtenstein aussi longtemps que celle-ci est liée à la Confédération suisse par un traité d’union douanière[^annexE-lvlu3-2].
 
-[^t-6]: Art. 1, al. 1, let. b, de l’AF du 21 sept. 1994 ([RO 1995 4683](https://fedlex.data.admin.ch/eli/oc/1995/4683_4683_4683)).
-[^t-7]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^annexE-lvlu3-1]: Art. 1, al. 1, let. b, de l’AF du 21 sept. 1994 ([RO 1995 4683](https://fedlex.data.admin.ch/eli/oc/1995/4683_4683_4683)).
+[^annexE-lvlu3-2]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
-Champ d’application des annexes**[^t-8]**
+## Champ d’application des annexes
 
-[^t-8]: Le champ d’application des annexes n’est pas publié au RO. Il peut être consulté à l’adresse du Site Internet de l’Organisation mondiale des douanes: http://wcoomdpublications.org ou obtenu auprès de la Direction générale des douanes, section des affaires internationales, 3003 Berne.
+[^annexE-lvlu4-1]
+
+[^annexE-lvlu4-1]: Le champ d’application des annexes n’est pas publié au RO. Il peut être consulté à l’adresse du Site Internet de l’Organisation mondiale des douanes: http://wcoomdpublications.org ou obtenu auprès de la Direction générale des douanes, section des affaires internationales, 3003 Berne.

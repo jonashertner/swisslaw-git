@@ -3,11 +3,11 @@ sr: "0.631.24"
 title: Übereinkommen vom 26. Juni 1990 über die vorübergehende Verwendung (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685"
 language: de
-version: 2020-01-29
+version: 2025-09-24
 adopted: 1990-06-26
 in_force: 1995-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685/20200129/de/xml/fedlex-data-admin-ch-eli-cc-1995-4685_4685_4685-20200129-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4685_4685_4685/20200129/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685/20250924/de/xml/fedlex-data-admin-ch-eli-cc-1995-4685_4685_4685-20250924-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4685_4685_4685/20250924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1995** 4685; BBl **1994** II 1
 
 Abgeschlossen in Istanbul am 26. Juni 1990 Von der Bundesversammlung genehmigt am 21. September 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Mai 1995 In Kraft getreten für die Schweiz am 11. August 1995
 
-(Stand am 29. Januar 2020)
+(Stand am 24. September 2025)
 
 [^t-1]: [AS 1995 4683](https://fedlex.data.admin.ch/eli/oc/1995/4683_4683_4683)
 
@@ -59,7 +59,7 @@ Im Sinne dieses Übereinkommens bedeutet:
 - g) «Rat» die Organisation, die durch das am 15. Dezember 1950[^1-1] in Brüssel geschlossene Abkommen über die Gründung eines Rates für die Zusammenarbeit auf dem Gebiete des Zollwesens geschaffen worden ist;
 - h) «Ratifikation» die eigentliche Ratifikation, die Annahme oder die Genehmigung.
 
-[^1-1]: [SR 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [SR 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 ## Kapitel II Geltungsbereich des Übereinkommens
 
@@ -209,7 +209,7 @@ Dieses Übereinkommen hindert nicht die Anwendung von Verboten und Beschränkung
 
 Auf Ersuchen und im Rahmen der nationalen Rechtsvorschriften erteilen die Vertragsparteien einander die für die Durchführung dieses Übereinkommens erforderlichen Auskünfte.
 
-### Elektronische Datenverarbeitungstechniken****
+### Elektronische Datenverarbeitungstechniken
 
 [^chapIV-lvlu8-1]
 
@@ -392,7 +392,7 @@ Eine Anlage dieses Übereinkommens, die eine Ausserkraftsetzungsklausel enthält
 
 Nach Artikel 102 der Charta der Vereinten Nationen[^34-1] wird dieses Übereinkommen auf Antrag des Depositars beim Sekretariat der Vereinten Nationen registriert.
 
-[^34-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^34-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Istanbul am 26. Juni 1990 in einer Urschrift in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Der Depositar wird ersucht, verbindliche Übersetzungen in arabischer, chinesischer, russischer und spanischer Sprache anzufertigen und zu verteilen. (Es folgen die Unterschriften)
 
@@ -560,7 +560,7 @@ Zollpapiere für die vorübergehende Verwendung oder Teile davon, die in dem Geb
 
 <sup>(2)</sup> Unbeschadet der Bestimmungen des Absatzes 1 sind Carnets ATA, die vor Inkrafttreten dieser Anlage nach dem A.T.A.‑Abkommen ausgestellt worden sind, anzuerkennen, bis die Vorgänge, für die sie ausgestellt wurden, abgeschlossen sind.
 
-[^annexA-lvlu1-chapVI-19-1]: [SR 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
+[^annexA-lvlu1-chapVI-19-1]: [SR 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
 
 Anhang I zu Anlage A
 
@@ -578,7 +578,7 @@ The ATA carnet shall be printed in English or French and may also be printed in 
 
 The size of the ATA carnet shall be 396 × 210 mm and that of the vouchers 297 × 210 mm.
 
-Anhang II zu Anlage A*[^t-2]*
+Anhang II zu Anlage A[^t-2]
 
 Appendix Il to Annex A
 
@@ -641,7 +641,7 @@ Zur vorübergehenden Verwendung werden nach Artikel 2 des Übereinkommens zugela
 - a) muss Anzahl oder Menge jeder eingeführten Ware ihrer Zweckbestimmung angemessen sein;
 - b) muss den Zollbehörden des Gebietes der vorübergehenden Verwendung glaubhaft gemacht werden, dass die Bedingungen dieses Übereinkommens erfüllt werden.
 
-[^annexu1-lvlu1-chapII-2-1]: [SR 0.631.145.141](https://fedlex.data.admin.ch/eli/cc/1953/463_463_475)
+[^annexu1-lvlu1-chapII-2-1]: [SR 0.631.145.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2012)
 
 ### Kapitel III Verschiedene Bestimmungen
 
@@ -701,9 +701,9 @@ Jede Vertragspartei kann einen Vorbehalt nach Artikel 29 des Übereinkommens in 
 
 Diese Anlage setzt mit ihrem Inkrafttreten gemäss Artikel 27 des Übereinkommens das Zollabkommen über Erleichterungen für die Einfuhr von Waren, die auf Ausstellungen, Messen, Kongressen oder ähnlichen Veranstaltungen ausgestellt oder verwendet werden sollen, Brüssel, 8. Juni 1961[^annexu1-lvlu1-chapIII-9-1], in den Beziehungen zwischen den Vertragsparteien, die diese Anlage angenommen haben und die Vertragsparteien des genannten Zollabkommens sind, ausser Kraft und tritt an dessen Stelle.
 
-[^annexu1-lvlu1-chapIII-9-1]: [SR 0.631.244.56](https://fedlex.data.admin.ch/eli/cc/1963/467_464_482)
+[^annexu1-lvlu1-chapIII-9-1]: [SR 0.631.244.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2052)
 
-Anlage B.2.*[^t-3]*
+Anlage B.2.[^t-3]
 
 ## Anlage über Berufsausrüstung
 
@@ -765,7 +765,7 @@ Die Anhänge dieser Anlage sind Bestandteil dieser Anlage.
 
 Diese Anlage setzt mit ihrem Inkrafttreten gemäss Artikel 27 des Übereinkommens das Zollabkommen über die vorübergehende Einfuhr von Berufsausrüstung, Brüssel, 8. Juni 1961[^annexu1-lvlu1-chapIII-8-1], in den Beziehungen zwischen den Vertragsparteien, die diese Anlage angenommen haben und die Vertragsparteien des genannten Zollabkommens sind, ausser Kraft und tritt an dessen Stelle.
 
-[^annexu1-lvlu1-chapIII-8-1]: [SR 0.631.244.54](https://fedlex.data.admin.ch/eli/cc/1963/453_449_468)
+[^annexu1-lvlu1-chapIII-8-1]: [SR 0.631.244.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2049)
 
 Anhang I
 
@@ -878,7 +878,7 @@ J. Für die vorstehenden Zwecke gebaute oder besonders hergerichtete Fahrzeuge, 
 
 K. Ausrüstungen für das Schaustellergewerbe, vorausgesetzt ihr Betrieb oder ihre Wartung erfordert besondere Techniken sowie Fähigkeiten oder Kenntnisse.
 
-Anlage B.3.*[^t-4]*
+Anlage B.3.[^t-4]
 
 ## Anlage über Behälter, Paletten, Umschliessungen, Muster und andere im Rahmen eines Handelsgeschäfts eingeführte Waren
 
@@ -976,10 +976,10 @@ Diese Anlage setzt mit ihrem Inkrafttreten gemäss Artikel 27 des Übereinkommen
 - – Artikel 2 bis 11 und Anlagen 1 (Absätze 1 und 2) bis 3 des Zollabkommens über Behälter, Genf, 2. Dezember 1972[^annexu1-lvlu1-chapII-9-3];
 - – Artikel 3, 5 und 6 (1.b und 2) des Internationalen Abkommens zur Erleichterung der Einfuhr von Handelsmustern und Werbematerial, Genf, 7. November 1952[^annexu1-lvlu1-chapII-9-4].
 
-[^annexu1-lvlu1-chapII-9-1]: [SR 0.631.250.12](https://fedlex.data.admin.ch/eli/cc/1963/512_508_524)
-[^annexu1-lvlu1-chapII-9-2]: [SR 0.631.244.53](https://fedlex.data.admin.ch/eli/cc/1963/445_441_461)
-[^annexu1-lvlu1-chapII-9-3]: [SR 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
-[^annexu1-lvlu1-chapII-9-4]: [SR 0.631.244.52](https://fedlex.data.admin.ch/eli/cc/1955/1005_1030_1038)
+[^annexu1-lvlu1-chapII-9-1]: [SR 0.631.250.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2056)
+[^annexu1-lvlu1-chapII-9-2]: [SR 0.631.244.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2048)
+[^annexu1-lvlu1-chapII-9-3]: [SR 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
+[^annexu1-lvlu1-chapII-9-4]: [SR 0.631.244.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2047)
 
 Anhang I
 
@@ -1112,9 +1112,9 @@ Die Anhänge dieser Anlage sind Bestandteil dieser Anlage.
 
 Diese Anlage setzt mit ihrem Inkrafttreten gemäss Artikel 27 des Übereinkommens das Zollabkommen über Betreuungsgut für Seeleute, Brüssel, 1. Dezember 1964[^annexu1-lvlu1-chapIII-8-2], das Zollübereinkommen über die vorübergehende Einfuhr von wissenschaftlichem Gerät, Brüssel, 11. Juni 1968[^annexu1-lvlu1-chapIII-8-3], und das Zollübereinkommen über die vorübergehende Einfuhr von pädagogischem Material, Brüssel, 8. Juni 1970[^annexu1-lvlu1-chapIII-8-4], in den Beziehungen zwischen den Vertragsparteien, die diese Anlage angenommen haben und Vertragsparteien der genannten Zollabkommen sind, ausser Kraft und tritt an deren Stelle.
 
-[^annexu1-lvlu1-chapIII-8-2]: [SR 0.631.145.273](https://fedlex.data.admin.ch/eli/cc/1968/1466_1514_1435)
-[^annexu1-lvlu1-chapIII-8-3]: [SR 0.631.242.011](https://fedlex.data.admin.ch/eli/cc/1974/608_608_608)
-[^annexu1-lvlu1-chapIII-8-4]: [SR 0.631.242.012](https://fedlex.data.admin.ch/eli/cc/1974/618_618_618)
+[^annexu1-lvlu1-chapIII-8-2]: [SR 0.631.145.273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2018)
+[^annexu1-lvlu1-chapIII-8-3]: [SR 0.631.242.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2026)
+[^annexu1-lvlu1-chapIII-8-4]: [SR 0.631.242.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2027)
 
 Anhang I
 
@@ -1243,7 +1243,7 @@ Die Anhänge dieser Anlage sind Bestandteil dieser Anlage.
 
 Diese Anlage setzt mit ihrem Inkrafttreten nach Artikel 27 des Übereinkommens die Artikel 2 und 5 des Abkommens über die Zollerleichterungen im Reiseverkehr, New York, 4. Juni 1954[^annexu1-lvlu1-chapIII-7-1], in den Beziehungen zwischen den Vertragsparteien, die diese Anlage angenommen haben und Vertragsparteien des genannten Abkommens sind, ausser Kraft und tritt an deren Stelle.
 
-[^annexu1-lvlu1-chapIII-7-1]: [SR 0.631.250.21](https://fedlex.data.admin.ch/eli/cc/1958/702_732_734)
+[^annexu1-lvlu1-chapIII-7-1]: [SR 0.631.250.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2057)
 
 Anhang I
 
@@ -1373,7 +1373,7 @@ Der Anhang dieser Anlage ist Bestandteil dieser Anlage.
 
 Diese Anlage setzt mit ihrem Inkrafttreten gemäss Artikel 27 des Übereinkommens das Zusatzprotokoll zum Abkommen über die Zollerleichterungen im Reiseverkehr, betreffend die Einfuhr von Werbeschriften und Werbematerial für den Fremdenverkehr, New York, 4. Juni 1954[^annexu1-lvlu1-chapIII-7-2], in den Beziehungen zwischen den Vertragsparteien, die diese Anlage angenommen haben und Vertragsparteien des genannten Protokolls sind, ausser Kraft und tritt an dessen Stelle.
 
-[^annexu1-lvlu1-chapIII-7-2]: [SR 0.631.250.211](https://fedlex.data.admin.ch/eli/cc/1958/710_740_743)
+[^annexu1-lvlu1-chapIII-7-2]: [SR 0.631.250.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2058)
 
 Anhang
 
@@ -1559,9 +1559,9 @@ Jede Vertragspartei kann nach Artikel 29 des Übereinkommens einen Vorbehalt zu
 
 Diese Anlage setzt mit ihrem Inkrafttreten gemäss Artikel 27 des Übereinkommens das Zollabkommen über die vorübergehende Einfuhr privater Strassenfahrzeuge, New York, 4. Juni 1954[^annexC-lvlu1-chapIII-11-1], das Zollabkommen über die vorübergehende Einfuhr gewerblicher Strassenfahrzeuge, Genf, 18. Mai 1956[^annexC-lvlu1-chapIII-11-2] und das Zollabkommen über die vorübergehende Einfuhr von Wasserfahrzeugen und Luftfahrzeugen zum eigenen Gebrauch, Genf, 18. Mai 1956[^annexC-lvlu1-chapIII-11-3], in den Beziehungen zwischen den Vertragsparteien, die diese Anlage angenommen haben und Vertragsparteien der genannten Zollabkommen sind, ausser Kraft und tritt an deren Stelle.
 
-[^annexC-lvlu1-chapIII-11-1]: [SR 0.631.251.4](https://fedlex.data.admin.ch/eli/cc/1958/719_749_752)
-[^annexC-lvlu1-chapIII-11-2]: [SR 0.631.252.52](https://fedlex.data.admin.ch/eli/cc/1960/1039_1087_1083)
-[^annexC-lvlu1-chapIII-11-3]: [SR 0.631.251.7](https://fedlex.data.admin.ch/eli/cc/1960/1062_1110_1107)
+[^annexC-lvlu1-chapIII-11-1]: [SR 0.631.251.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2059)
+[^annexC-lvlu1-chapIII-11-2]: [SR 0.631.252.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2063)
+[^annexC-lvlu1-chapIII-11-3]: [SR 0.631.251.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2060)
 
 Anlage D
 
@@ -1681,7 +1681,7 @@ Die Wiederausfuhrfrist für die unter teilweiser Befreiung eingeführten Waren r
 
 Jede Vertragspartei kann nach Artikel 29 des Übereinkommens einen Vorbehalt zu Artikel 2 dieser Anlage in Bezug auf die teilweise Befreiung von den Eingangsabgaben einlegen.
 
-Geltungsbereich des Überinkommens am 29. Januar 2020**[^t-5]**
+Geltungsbereich am 24. September 2025[^t-5]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1733,6 +1733,8 @@ Geltungsbereich des Überinkommens am 29. Januar 2020**[^t-5]**
 <tr><td>Oman</td><td>11. Januar</td><td>2012 B</td><td>11. April</td><td>2013</td></tr>
 <tr><td>Österreich\*</td><td>29. September</td><td>1994 B</td><td>29. Dezember</td><td>1994</td></tr>
 <tr><td>Pakistan\*</td><td>18. Mai</td><td>2004</td><td>18. August</td><td>2004</td></tr>
+<tr><td>Peru</td><td>27. Juli</td><td>2021 B</td><td>27. Oktober</td><td>2021</td></tr>
+<tr><td>Philippinen</td><td>17. Januar</td><td>2022 B</td><td>17. April</td><td>2022</td></tr>
 <tr><td>Polen\*</td><td>12. September</td><td>1995 B</td><td>12. Dezember</td><td>1995</td></tr>
 <tr><td>Portugal\*</td><td>18. Juni</td><td>1997</td><td>18. September</td><td>1997</td></tr>
 <tr><td>Rumänien\*</td><td>26. November</td><td>2002 B</td><td>26. Februar</td><td>2003</td></tr>
@@ -1753,19 +1755,20 @@ Geltungsbereich des Überinkommens am 29. Januar 2020**[^t-5]**
 <tr><td>Türkei\*</td><td>15. Dezember</td><td>2004</td><td>15. März</td><td>2005</td></tr>
 <tr><td>Ukraine\*</td><td>22. Juni</td><td>2004 B</td><td>22. September</td><td>2004</td></tr>
 <tr><td>Ungarn\*</td><td>31. Januar</td><td>2005</td><td>30. April</td><td>2005</td></tr>
+<tr><td>Usbekistan</td><td>10. Juni</td><td>2020 B</td><td>10. September</td><td>2020</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>14. September</td><td>2010 B</td><td>14. Dezember</td><td>2010</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>18. Juni</td><td>1997</td><td>18. September</td><td>1997</td></tr>
 <tr><td>Vietnam</td><td>3. April</td><td>2019 B</td><td>3. Juli</td><td>2019</td></tr>
 <tr><td>Zypern\*</td><td>25. Oktober</td><td>2004 B</td><td>25. Januar</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltzollorganisation: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, eingesehen oder bei der Oberzolldirektion, Sektion für internationale Angelegenheiten, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltzollorganisation: [www.wc o omd.org](http://www.wcoomd.org)/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, eingesehen oder bei der Oberzolldirektion, Sektion für internationale Angelegenheiten, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Zollverwaltung</td></tr>
 </table>
 
-[^t-5]: [AS 1995 4685](https://fedlex.data.admin.ch/eli/oc/1995/4685_4685_4685), [2006 2121](https://fedlex.data.admin.ch/eli/oc/2006/343), [2007 1901](https://fedlex.data.admin.ch/eli/oc/2007/271), [2012 413](https://fedlex.data.admin.ch/eli/oc/2012/45), [2015 2929](https://fedlex.data.admin.ch/eli/oc/2015/548), [2018 969](https://fedlex.data.admin.ch/eli/oc/2018/139), [2020 441](https://fedlex.data.admin.ch/eli/oc/2020/76). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: [AS 2006 2121](https://fedlex.data.admin.ch/eli/oc/2006/343); [2007 1901](https://fedlex.data.admin.ch/eli/oc/2007/271); [2012 413](https://fedlex.data.admin.ch/eli/oc/2012/45); [2015 2929](https://fedlex.data.admin.ch/eli/oc/2015/548); [2018 969](https://fedlex.data.admin.ch/eli/oc/2018/139); [2020 441](https://fedlex.data.admin.ch/eli/oc/2020/76); [2025 595](https://fedlex.data.admin.ch/eli/oc/2025/595). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
-## Schweiz****
+## Schweiz
 
 [^declu2-lvlu1-1]
 
@@ -1787,8 +1790,8 @@ Die Schweiz hat folgende Anlagen mit Vorbehalten angenommen:
 
 Das Übereinkommen gilt für das Fürstentum Liechtenstein, solange dieses durch einen Zollanschlussvertrag[^declu2-lvlu1-2] an die Schweizerische Eidgenossenschaft gebunden ist.
 
-[^declu2-lvlu1-2]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^declu2-lvlu1-2]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
-Geltungsbereich der Anlagen**[^t-6]**
+Geltungsbereich der Anlagen[^t-6]
 
-[^t-6]: Der Geltungsbereich der Anlagen wird in der AS nicht veröffentlicht. Er kann auf der Internetseite der Weltzollorganisation (World Customs Organization) http://wcoomdpublications.org/ eingesehen oder bei der Oberzolldirektion, Sektion für internationale Angelegenheiten, 3003 Bern bezogen werden.
+[^t-6]: Der Geltungsbereich der Anlagen wird in der AS nicht veröffentlicht. Er kann auf der Internetseite der Weltzollorganisation (World Customs Organization) [[www.wcoomd.org](http://www.wcoomd.org) /](http://wcoomdpublications.org/) eingesehen oder bei der Oberzolldirektion, Sektion für internationale Angelegenheiten, 3003 Bern bezogen werden.

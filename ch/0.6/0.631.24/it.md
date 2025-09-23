@@ -3,11 +3,11 @@ sr: "0.631.24"
 title: "Convenzione del 26 giugno 1990 relativa all'ammissione temporanea (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685"
 language: it
-version: 2020-01-29
+version: 2025-09-24
 adopted: 1990-06-26
 in_force: 1995-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685/20200129/it/xml/fedlex-data-admin-ch-eli-cc-1995-4685_4685_4685-20200129-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4685_4685_4685/20200129/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685/20250924/it/xml/fedlex-data-admin-ch-eli-cc-1995-4685_4685_4685-20250924-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4685_4685_4685/20250924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1995** 4685; FF **1994** II 1
 
 Traduzione
 
-Conclusa a Istanbul il 26 giugno 1990
+Conclusa a Istanbul il 26 giugno 1990 Approvata dall’Assemblea federale il 21 settembre 1994[^t-1] Ratificata con strumento depositato dalla Svizzera l’11 maggio 1995 Entrata in vigore per la Svizzera l’11 agosto 1995
 
-Approvata dall’Assemblea federale il 21 settembre 1994[^t-1]
-
-Ratificata con strumento depositato dalla Svizzera l’11 maggio 1995
-
-Entrata in vigore per la Svizzera l’11 agosto 1995
-
-(Stato 29 gennaio 2020)
+(Stato 24 settembre 2025)
 
 [^t-1]: [RU 1995 4683](https://fedlex.data.admin.ch/eli/oc/1995/4683_4683_4683)
 
@@ -67,7 +61,7 @@ Ai fini dell’applicazione della presente convenzione si intendono per:
 - g) «Consiglio»: l’organizzazione istituita dalla convenzione sull’istituzione di un Consiglio di cooperazione doganale, adottata a Bruxelles il 15 dicembre 1950[^1-1];
 - h) «ratifica»: la ratifica vera e propria, l’accettazione o l’approvazione.
 
-[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/eli/cc/1953/42_42_42)
+[^1-1]: [RS 0.631.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2007)
 
 ## Capitolo II: Campo d’applicazione della convenzione
 
@@ -219,7 +213,7 @@ Le disposizioni della presente convenzione non ostano all’applicazione delle p
 
 Le Parti contraenti si comunicano mutualmente, a richiesta e nella misura autorizzata dalla normativa nazionale, le informazioni necessarie all’applicazione delle disposizioni della presente convenzione.
 
-### Tecniche di trattamento elettronico dei dati****
+### Tecniche di trattamento elettronico dei dati
 
 [^chapIV-lvlu8-1]
 
@@ -406,7 +400,7 @@ All’entrata in vigore di un allegato della presente convenzione recante una di
 
 Conformemente all’articolo 102 dello Statuto delle Nazioni Unite[^34-1] la presente convenzione è registrata presso il Segretariato delle Nazioni Unite, a richiesta del depositario.
 
-[^34-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^34-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 *In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato la presente convenzione. Fatto a Istanbul, il ventisei giugno millenovecentonovanta in un solo esemplare in inglese e in francese, i due testi facenti ugualmente fede. Il depositario è invitato a predisporre e a trasmettere traduzioni ufficiali della presente convenzione in arabo, cinese, spagnolo e russo. (Seguono le firme)
 
@@ -574,7 +568,7 @@ Sono ammessi al beneficio della franchigia sui dazi e sulle tasse all’importaz
 
 <sup>2.</sup> Nonostante le disposizioni del paragrafo 1, i carnet ATA che sono stati rilasciati in applicazione della convenzione doganale sul «carnet ATA» per l’ammissione temporanea delle merci del 1961 prima dell’entrata in vigore del presente allegato, sono accettati fino al termine delle operazioni per le quali sono stati rilasciati.
 
-[^annexA-lvlu1-chapVI-19-1]: [RS 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
+[^annexA-lvlu1-chapVI-19-1]: [RS 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
 
 Appendice I all’Allegato A
 
@@ -590,7 +584,7 @@ The ATA carnet shall be printed in English or French and may also be printed in 
 
 The size of the ATA carnet shall be 396 × 210 mm and that of the vouchers 297 × 210 mm.
 
-Appendice II all’Allegato A*[^t-2]*
+Appendice II all’Allegato A[^t-2]
 
 ## Modello di Carnet CPD
 
@@ -654,7 +648,7 @@ Per poter beneficiare delle facilitazioni concesse dal presente allegato:
 - a) i materiali debbono essere importati in quantità ragionevole tenuto conto della loro destinazione;
 - b) le condizioni stabilite dalla presente convenzione debbono essere soddisfatte a giudizio dell’autorità doganale del territorio di ammissione temporanea.
 
-[^annexu1-lvlu1-chapII-2-1]: [RS 0.631.145.141](https://fedlex.data.admin.ch/eli/cc/1953/463_463_475)
+[^annexu1-lvlu1-chapII-2-1]: [RS 0.631.145.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2012)
 
 ### Capitolo III: Disposizioni varie
 
@@ -718,9 +712,9 @@ Ciascuna Parte contraente ha il diritto di formulare una riserva, alle condizion
 
 Al momento della sua entrata in vigore il presente allegato abroga e sostituisce, conformemente all’articolo 27 della presente convenzione, la convenzione doganale per l’importazione di merci destinate a esposizioni, fiere e congressi (Bruxelles, 8 giugno 1961[^annexu1-lvlu1-chapIII-9-1] negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti della predetta convenzione.
 
-[^annexu1-lvlu1-chapIII-9-1]: [RS 0.631.244.56](https://fedlex.data.admin.ch/eli/cc/1963/467_464_482)
+[^annexu1-lvlu1-chapIII-9-1]: [RS 0.631.244.56](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2052)
 
-Allegato B. 2.*[^t-3]*
+Allegato B. 2.[^t-3]
 
 ## Allegato relativo al materiale professionale
 
@@ -784,7 +778,7 @@ Le appendici del presente allegato ne costituiscono parte integrante.
 
 Al momento della sua entrata in vigore il presente allegato abroga e sostituisce, conformemente all’articolo 27 della presente convenzione, la convenzione doganale relativa all’importazione temporanea di materiale professionale (Bruxelles, 8 giugno 1961[^annexu1-lvlu1-chapIII-8-1], negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti della predetta convenzione.
 
-[^annexu1-lvlu1-chapIII-8-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/eli/cc/1963/453_449_468)
+[^annexu1-lvlu1-chapIII-8-1]: [RS 0.631.244.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2049)
 
 Appendice I
 
@@ -836,7 +830,6 @@ D. Veicoli progettati o adattati appositamente per essere utilizzati ai fini sop
 - – la registrazione e la riproduzione del suono;
 - – la diffusione di immagini al rallentatore;
 - – l’illuminazione.
-- [tab]
 
 Appendice II
 
@@ -901,7 +894,7 @@ J. Veicoli progettati o adattati appositamente per essere utilizzati ai fini di 
 
 K. Attrazioni da fiera, per quanto il funzionamento o la manutenzione di tale materiale richiedano tecniche e competenze o conoscenze specialistiche.
 
-Allegato B.3.*[^t-4]*
+Allegato B.3.[^t-4]
 
 ## Allegato relativo ai contenitori, alle palette, agli imballaggi, ai campioni e alle altre merci importate nel quadro di un’operazione commerciale
 
@@ -1007,10 +1000,10 @@ Al momento della sua entrata in vigore il presente allegato abroga e sostituisce
 - – articoli da 2 a 11 e allegati 1, (paragrafi 1 e 2) 2 e 3 della convenzione doganale relativa ai contenitori, Ginevra, 2 dicembre 1972[^annexu1-lvlu1-chapII-9-3];
 - – articoli 3, 5 e 6 (1.b e 2) della convenzione internazionale per facilitare l’importazione dei campioni commerciali e del materiale pubblicitario, Ginevra, 7 novembre 1952[^annexu1-lvlu1-chapII-9-4],
 
-[^annexu1-lvlu1-chapII-9-1]: [RS 0.631.250.12](https://fedlex.data.admin.ch/eli/cc/1963/512_508_524)
-[^annexu1-lvlu1-chapII-9-2]: [RS 0.631.244.53](https://fedlex.data.admin.ch/eli/cc/1963/445_441_461)
-[^annexu1-lvlu1-chapII-9-3]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
-[^annexu1-lvlu1-chapII-9-4]: [RS 0.631.244.52](https://fedlex.data.admin.ch/eli/cc/1955/1005_1030_1038)
+[^annexu1-lvlu1-chapII-9-1]: [RS 0.631.250.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2056)
+[^annexu1-lvlu1-chapII-9-2]: [RS 0.631.244.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2048)
+[^annexu1-lvlu1-chapII-9-3]: [RS 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
+[^annexu1-lvlu1-chapII-9-4]: [RS 0.631.244.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2047)
 
 Appendice I
 
@@ -1143,9 +1136,9 @@ Le appendici del presente allegato ne costituiscono parte integrante.
 
 Al momento della sua entrata in vigore il presente allegato, conformemente all’articolo 27 della presente convenzione, abroga e sostituisce la convenzione doganale relativa al materiale ricreativo destinato alla gente di mare (Bruxelles, 1° dicembre 1964[^annexu1-lvlu1-chapIII-8-2], la convenzione doganale relativa all’importazione temporanea di materiale scientifico (Bruxelles, Il giugno 1968[^annexu1-lvlu1-chapIII-8-3], e la convenzione doganale relativa all’importazione temporanea di materiale pedagogico (Bruxelles, 8 giugno 1970[^annexu1-lvlu1-chapIII-8-4], negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti delle predette convenzioni.
 
-[^annexu1-lvlu1-chapIII-8-2]: [RS 0.631.145.273](https://fedlex.data.admin.ch/eli/cc/1968/1466_1514_1435)
-[^annexu1-lvlu1-chapIII-8-3]: [RS 0.631.242.011](https://fedlex.data.admin.ch/eli/cc/1974/608_608_608)
-[^annexu1-lvlu1-chapIII-8-4]: [RS 0.631.242.012](https://fedlex.data.admin.ch/eli/cc/1974/618_618_618)
+[^annexu1-lvlu1-chapIII-8-2]: [RS 0.631.145.273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2018)
+[^annexu1-lvlu1-chapIII-8-3]: [RS 0.631.242.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2026)
+[^annexu1-lvlu1-chapIII-8-4]: [RS 0.631.242.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2027)
 
 Appendice I
 
@@ -1190,7 +1183,6 @@ Appendice I
   - – collezioni di oggetti corredati di informazioni didattiche, visive o sonore, preparate per l’insegnamento di una materia («study kits»);
   - – strumenti, apparecchi, utensileria e macchine utensili per l’apprendimento di tecniche o di mestieri;
   - – materiali, compresi i veicoli progettati o adattati appositamente per esere utilizzati da soccorritori, destinati alla formazione di persone chiamate a prestare soccorso.
-  - [tab]
 
 Appendice II
 
@@ -1299,7 +1291,7 @@ Le appendici del presente allegato ne costituiscono parte integrante.
 
 Al momento della sua entrata in vigore il presente allegato abroga e sostituisce, conformemente all’articolo 27 della presente convenzione, le disposizioni degli articoli da 2 a 5 della convenzione sulle facilitazioni doganali a favore del turismo, (Nuova York, 4 giugno 1954[^annexu1-lvlu1-chapIII-7-1], negli scambi tra le Parti contraenti che hanno accettato il presente allegato che sono Parti contraenti della suddetta convenzione.
 
-[^annexu1-lvlu1-chapIII-7-1]: [RS 0.631.250.21](https://fedlex.data.admin.ch/eli/cc/1958/702_732_734)
+[^annexu1-lvlu1-chapIII-7-1]: [RS 0.631.250.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2057)
 
 Appendice I
 
@@ -1378,7 +1370,6 @@ H. Materiale ausiliario, quale:
 
 - – materiale di misurazione e affissione dei risultati,
 - – apparecchi per l’analisi del sangue e dell’urina.
-- [tab]
 
 Allegato B.7.
 
@@ -1424,7 +1415,7 @@ L’appendice del presente allegato ne costituisce parte integrante.
 
 Al momento della sua entrata in vigore il presente allegato abroga e sostituisce, conformemente all’articolo 27 della presente convenzione, il Protocollo aggiuntivo alla convenzione sulle facilitazioni doganali a favore del turismo, relativo all’importazione di documenti e di materiale di propaganda turistica, (Nuova York, 4 giugno 1954[^annexu1-lvlu1-chapIII-7-2], negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti del predetto Protocollo.
 
-[^annexu1-lvlu1-chapIII-7-2]: [RS 0.631.250.211](https://fedlex.data.admin.ch/eli/cc/1958/710_740_743)
+[^annexu1-lvlu1-chapIII-7-2]: [RS 0.631.250.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2058)
 
 Appendice
 
@@ -1613,9 +1604,9 @@ Ciascuna Parte contraente ha il diritto di formulare una riserva, alle condizion
 
 Al momento della sua entrata in vigore il presente allegato abroga e sostituisce, conformemente all’articolo 27 della presente convenzione, la convenzione doganale relativa all’importazione temporanea dei veicoli stradali privati (Nuova York, 4 giugno 1954[^annexC-lvlu1-chapIII-11-1]), la convenzione doganale relativa all’importazione temporanea dei veicoli stradali commerciali (Ginevra, 18 maggio 1956[^annexC-lvlu1-chapIII-11-2]) e la convenzione doganale relativa alla temporanea importazione per uso privato di aerei e delle imbarcazioni da diporto (Ginevra, 18 maggio 1956[^annexC-lvlu1-chapIII-11-3]), negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti delle predette convenzioni.
 
-[^annexC-lvlu1-chapIII-11-1]: [RS 0.631.251.4](https://fedlex.data.admin.ch/eli/cc/1958/719_749_752)
-[^annexC-lvlu1-chapIII-11-2]: [RS 0.631.252.52](https://fedlex.data.admin.ch/eli/cc/1960/1039_1087_1083)
-[^annexC-lvlu1-chapIII-11-3]: [RS 0.631.251.7](https://fedlex.data.admin.ch/eli/cc/1960/1062_1110_1107)
+[^annexC-lvlu1-chapIII-11-1]: [RS 0.631.251.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2059)
+[^annexC-lvlu1-chapIII-11-2]: [RS 0.631.252.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2063)
+[^annexC-lvlu1-chapIII-11-3]: [RS 0.631.251.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2060)
 
 Allegato D
 
@@ -1737,7 +1728,7 @@ Il termine per la riesportazione delle merci importate in sospensione parziale �
 
 Ciascuna Parte contraente ha il diritto di formulare una riserva, alle condizioni di cui all’articolo 29 della presente convenzione, nei confronti dell’articolo 2 del presente allegato, in merito alla sospensione parziale delle tasse all’importazione.
 
-Campo d’applicazione della Convenzione il 29 gennaio 2020**[^t-5]**
+Campo d’applicazione d’applicazione il 24 settembre 2025[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1762,6 +1753,7 @@ Campo d’applicazione della Convenzione il 29 gennaio 2020**[^t-5]**
 <tr><td>Danimarca\*</td><td>18 giugno</td><td>1997</td><td>18 settembre</td><td>1997</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>14 settembre</td><td>2010 A</td><td>14 dicembre</td><td>2010</td></tr>
 <tr><td>Estonia\*</td><td>17 gennaio</td><td>1996 A</td><td>17 aprile</td><td>1996</td></tr>
+<tr><td>Filippine</td><td>17 gennaio</td><td>2022 A</td><td>17 aprile</td><td>2022</td></tr>
 <tr><td>Finlandia\*</td><td>18 giugno</td><td>1997 A</td><td>18 settembre</td><td>1997</td></tr>
 <tr><td>Francia\*</td><td>18 giugno</td><td>1997</td><td>18 settembre</td><td>1997</td></tr>
 <tr><td>Georgia</td><td>1° aprile</td><td>2010 A</td><td>1° luglio</td><td>2010</td></tr>
@@ -1791,6 +1783,7 @@ Campo d’applicazione della Convenzione il 29 gennaio 2020**[^t-5]**
 <tr><td>Oman</td><td>11 gennaio</td><td>2012 A</td><td>11 aprile</td><td>2013</td></tr>
 <tr><td>Paesi Bassi\*</td><td>18 giugno</td><td>1997</td><td>18 settembre</td><td>1997</td></tr>
 <tr><td>Pakistan\*</td><td>18 maggio</td><td>2004</td><td>18 agosto</td><td>2004</td></tr>
+<tr><td>Perù</td><td>27 luglio</td><td>2021 A</td><td>27 ottobre</td><td>2021</td></tr>
 <tr><td>Polonia\*</td><td>12 settembre</td><td>1995 A</td><td>12 dicembre</td><td>1995</td></tr>
 <tr><td>Portogallo\*</td><td>18 giugno</td><td>1997</td><td>18 settembre</td><td>1997</td></tr>
 <tr><td>Qatar\*</td><td>10 settembre</td><td>2014 A</td><td>10 dicembre</td><td>2014</td></tr>
@@ -1811,17 +1804,18 @@ Campo d’applicazione della Convenzione il 29 gennaio 2020**[^t-5]**
 <tr><td>Ucraina\*</td><td>22 giugno</td><td>2004 A</td><td>22 settembre</td><td>2004</td></tr>
 <tr><td>Ungheria\*</td><td>31 gennaio</td><td>2005</td><td>30 aprile</td><td>2005</td></tr>
 <tr><td>Unione europea\*</td><td>18 giugno</td><td>1997</td><td>18 settembre</td><td>1997</td></tr>
+<tr><td>Uzbekistan</td><td>10 giugno</td><td>2020 A</td><td>10 settembre</td><td>2020</td></tr>
 <tr><td>Vietnam</td><td>3 aprile</td><td>2019 A</td><td>3 luglio</td><td>2019</td></tr>
 <tr><td>Zimbabwe\*</td><td>17 novembre</td><td>1992</td><td>27 novembre</td><td>1993</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU ad eccezione di quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organisation mondiale des douanes: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, o ottenute presso la Direzione generale delle dogane, Sezione affari internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU ad eccezione di quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organisation mondiale des douanes: [www.wcoomd.org](http://www.wcoomd.org)/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, o ottenute presso la Direzione generale delle dogane, Sezione affari internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Amministrazione doganale.</td></tr>
 </table>
 
-[^t-5]: [RU 1995 4685](https://fedlex.data.admin.ch/eli/oc/1995/4685_4685_4685), [2006 2121](https://fedlex.data.admin.ch/eli/oc/2006/343), [2007 1901](https://fedlex.data.admin.ch/eli/oc/2007/271), [2012 413](https://fedlex.data.admin.ch/eli/oc/2012/45), [2015 2929](https://fedlex.data.admin.ch/eli/oc/2015/548), [2018 969](https://fedlex.data.admin.ch/eli/oc/2018/139)e [2020 441](https://fedlex.data.admin.ch/eli/oc/2020/76). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-5]: Completa quelli in [RU 2006 2121](https://fedlex.data.admin.ch/eli/oc/2006/343); [2007 1901](https://fedlex.data.admin.ch/eli/oc/2007/271); [2012 413](https://fedlex.data.admin.ch/eli/oc/2012/45); [2015 2929](https://fedlex.data.admin.ch/eli/oc/2015/548); [2018 969](https://fedlex.data.admin.ch/eli/oc/2018/139); [2020 441](https://fedlex.data.admin.ch/eli/oc/2020/76); [2025 595](https://fedlex.data.admin.ch/eli/oc/2025/595). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
-## Svizzera****
+## Svizzera
 
 [^declu2-lvlu1-1]
 
@@ -1843,8 +1837,8 @@ La Svizzera ha accettato i seguenti allegati con riserve:
 
 La Convenzione si applica anche al Principato del Liechtenstein, finché esso rimane vincolato alla Confederazione Svizzera da un Trattato di unione doganale[^declu2-lvlu1-2].
 
-[^declu2-lvlu1-2]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^declu2-lvlu1-2]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
-Campo d’applicazione degli allegati**[^t-6]**
+Campo d’applicazione degli allegati[^t-6]
 
 [^t-6]: Il campo d’applicazione degli all. non è pubblicato nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione mondiale delle dogane: http://wcoomdpublications.org/ oppure ottenuti presso la Direzione generale delle dogane, Sezione degli affari internazionali, 3003 Berna.
