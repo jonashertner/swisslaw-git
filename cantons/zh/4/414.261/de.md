@@ -3,11 +3,10 @@ canton: ZH
 number: "414.261"
 title: Hochschulordnung der Zürcher Hochschule der Künste
 language: de
-version: "2020-02-01"
-nachtrag: "108"
-valid_until: 2025-09-25
+version: "2025-08-01"
+nachtrag: "130"
 adopted: 2008-01-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_261-2008_01_16-2008_04_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_261-2008_01_16-2008_04_01-130.html"
 text: pdf
 ---
 
@@ -70,7 +69,7 @@ Die Hochschulleitung erlässt Vorgaben für die interne Qualitätssicherung und 
 
 **1**
 
-- 1\. 4. 20 - 108 § 7.[^5-1] <sup>1</sup> Die Hochschule ist in das Rektorat, die Departemente, die Verwaltung und die Dossiers aufgeteilt.
+1.10. 25 - 130 § 7.[^5-1] <sup>1</sup> Die Hochschule ist in das Rektorat, die Departemente, die Verwaltung und die Dossiers aufgeteilt.
 
 **Struktur der Hochschule**
 
@@ -137,21 +136,17 @@ Die Hochschulleitung erlässt Vorgaben für die interne Qualitätssicherung und 
 
 - auf Mitwirkung in Gremien.
 
-<sup>2</sup> Als Mitwirkungsgremien bestehen:
-
-- Hochschulversammlung,
+<sup>2</sup> Als Mitwirkungsgremien bestehen:[^11-1] – Hochschulversammlung,
 
 - Studierendenrat,
 
-- Senat (Vertretung der Dozierenden und Lehrbeauftragten),
-
-- Mittelbaurat,
+- Delegiertenversammlung der Lehrenden und Forschenden,
 
 - Personalrat.
 
-<sup>3</sup> Die Mitwirkungsgremien vertreten ihre spezifischen Interessen.[^11-1]
+<sup>3</sup> Die Mitwirkungsgremien vertreten ihre spezifischen Interessen.[^11-2]
 
-<sup>4</sup> Die Mitwirkungsgremien erlassen Geschäftsordnungen, die von der Hochschulleitung zu genehmigen sind.[^11-1] § 12.[^11-1] <sup>1</sup> Die Grundsätze der Kommunikation sind im Kommunikationskonzept festgelegt, das von der Hochschulleitung erlassen wird.
+<sup>4</sup> Die Mitwirkungsgremien erlassen Geschäftsordnungen, die von der Hochschulleitung zu genehmigen sind.[^11-2] § 12.[^11-2] <sup>1</sup> Die Grundsätze der Kommunikation sind im Kommunikationskonzept festgelegt, das von der Hochschulleitung erlassen wird.
 
 **Kommunikation**
 
@@ -163,6 +158,7 @@ Die Hochschulleitung erlässt Vorgaben für die interne Qualitätssicherung und 
 
 **Inkraftsetzung**
 
-- 1\. 4. 20 - 108 § 13. Diese Hochschulordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. April 2008 in Kraft.
+1.10. 25 - 130 § 13. Diese Hochschulordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. April 2008 in Kraft.
 
-[^11-1]: Fassung gemäss B vom 6. November 2019 (OS 75, 120; ABl 2020-01-24). In Kraft seit 1. Februar 2020.
+[^11-1]: Fassung gemäss B vom 7. Mai 2025 (OS 80, 224; ABl 2025-07-18). In Kraft seit 1. August 2025.
+[^11-2]: Fassung gemäss B vom 6. November 2019 (OS 75, 120; ABl 2020-01-24). In Kraft seit 1. Februar 2020.
