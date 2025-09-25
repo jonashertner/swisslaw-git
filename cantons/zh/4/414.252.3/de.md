@@ -4,11 +4,10 @@ number: "414.252.3"
 title: Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (RPO ZHAW)
 short: RPO ZHAW
 language: de
-version: "2024-08-01"
-nachtrag: "126"
-valid_until: 2025-09-25
+version: "2025-09-01"
+nachtrag: "130"
 adopted: 2008-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-126.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-130.html"
 text: pdf
 ---
 
@@ -24,7 +23,7 @@ gestützt auf § 10 Abs. 3 lit. c des Fachhochschulgesetzes vom 2. April 2007[^t
 
 beschliesst:
 
-[^t-1]: Fassung gemäss B vom 9. Juli 2024 (OS 79, 316; ABl 2024-07-26). In Kraft seit 1. August 2024. 1.10. 24 - 126 15
+[^t-1]: Fassung gemäss B vom 9. Juli 2024 (OS 79, 316; ABl 2024-07-26). In Kraft seit 1. August 2024.
 [^t-2]: OS 63, 50.
 [^t-3]: LS 414.10.
 
@@ -42,7 +41,7 @@ beschliesst:
 
 § 2.[^1-1] Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die einzelnen Studiengänge und die Leistungsnachweise.
 
-[^1-1]: Fassung gemäss B vom 9. Juli 2024 (OS 79, 316; ABl 2024-07-26). In Kraft seit 1. August 2024. 1.10. 24 - 126 15
+[^1-1]: Fassung gemäss B vom 9. Juli 2024 (OS 79, 316; ABl 2024-07-26). In Kraft seit 1. August 2024.
 
 #### § 3
 
@@ -72,7 +71,7 @@ beschliesst:
 
 **1**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 <sup>2</sup> Für Modulgruppen wird auf Grund der in den Modulen erzielten Bewertungen die Modulgruppenbewertung errechnet.
 
@@ -193,7 +192,7 @@ Die Departementsleitung kann Regelstudienpläne festlegen.
 
 **3**
 
-1.10. 24 - 126 § 17.[^15-2] <sup>1</sup> Studierende können Antrag auf Dispensierung von einem Modul oder Kurs stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden a. ausreichende Kenntnisse vom Inhalt eines Moduls oder eines Kurses nachweisen oder b. andernorts entsprechende Studienleistungen erbracht haben.
+1.10. 25 - 130 § 17. <sup>1</sup> Die Studierenden können Antrag auf Dispensierung von einem Modul stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden[^15-2] a. ausreichende Kenntnisse vom Inhalt eines Moduls nachweisen oder b. andernorts entsprechende Studienleistungen erbracht haben.
 
 **Anrechnung von Vorkenntnissen, Studienleistungen**
 
@@ -207,11 +206,10 @@ Die Departementsleitung kann Regelstudienpläne festlegen.
 
 **Wechsel des Studiengangs**
 
-§ 18.[^15-3] Bei einem Wechsel des Studiengangs innerhalb der ZHAW werden die bereits erbrachten Studienleistungen nach den Bestimmungen desjenigen Studiengangs angerechnet, in den gewechselt wird. Die Noten von angerechneten Studienleistungen werden übernommen.
+§ 18.[^15-2] Bei einem Wechsel des Studiengangs innerhalb der ZHAW werden die bereits erbrachten Studienleistungen nach den Bestimmungen desjenigen Studiengangs angerechnet, in den gewechselt wird. Die Noten von bereits bestandenen Modulen werden übernommen.
 
 [^15-1]: Eingefügt durch B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
-[^15-2]: Fassung gemäss B vom 9. Dezember 2014 (OS 70, 55; ABl 2014-12-19). In Kraft seit 1. April 2015.
-[^15-3]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
+[^15-2]: Fassung gemäss B vom 8. Juli 2025 (OS 80, 222; ABl 2025-07-25). In Kraft seit 1. September 2025. 1.10. 25 - 130 15
 
 #### § 19
 
@@ -284,7 +282,7 @@ Die Studienleitung ist für Inhalt, Leistungsnachweise und Leistungsbeurteilung 
 
 **5**
 
-1.10. 24 - 126 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
+1.10. 25 - 130 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
 
 **b. Aufnahmeprüfungen**
 
@@ -399,7 +397,7 @@ Die ZHAW verleiht den Bachelortitel Studierenden, die a. mindestens 180 Credits 
 
 **7**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 <sup>3</sup> Leistungsnachweise können in elektronischer Form durchgeführt werden.[^34-1]
 
@@ -519,7 +517,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **9**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 <sup>2</sup> Die Modulbeschreibungen regeln die Gewichtung der Kursnoten innerhalb eines Moduls.
 
@@ -617,7 +615,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **11**
 
-1.10. 24 - 126
+1.10. 25 - 130
 
 [^51-1]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
 
@@ -708,16 +706,11 @@ Die Datenabschrift (Transcript of Records) umfasst alle an der ZHAW besuchten Mo
 
 <sup>1</sup> Die Diplomurkunde enthält keine Noten.
 
-<sup>2</sup> Sie wird von der Rektorin oder vom Rektor der ZHAW und einem weiteren Mitglied der Hochschulleitung unterzeichnet.
-
-[^60-1]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
-[^60-2]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
-
-#### § 61
+<sup>2</sup> Sie wird mit Name und Funktion der Rektorin oder des Rektors sowie eines Mitglieds der Hochschulleitung versehen.[^60-1]
 
 **Diplomzeugnis**
 
-<sup>1</sup> Das Diplomzeugnis enthält:[^60-1] a.[^60-2] sämtliche im Studiengang besuchten Module mit den erworbenen Credits,
+§ 61. <sup>1</sup> Das Diplomzeugnis enthält:[^60-2] a.[^60-3] sämtliche im Studiengang besuchten Module mit den erworbenen Credits,
 
 - b. die im Studiengang angerechneten, an einer anderen Hochschule oder in einem anderen Studiengang erbrachten Studienleistungen mit den übernommenen Credits,
 
@@ -725,17 +718,19 @@ Die Datenabschrift (Transcript of Records) umfasst alle an der ZHAW besuchten Mo
 
 - d. die Abschlussnote.
 
-<sup>2</sup> Das Diplomzeugnis wird von der Departementsleiterin oder dem Departementsleiter und der Studienleitung unterzeichnet.
-
-#### § 62
+<sup>2</sup> Das Diplomzeugnis wird mit Name und Funktion der Departementsleiterin oder des Departementsleiters sowie der Studienleitung versehen.[^60-1]
 
 **Diplomzusatz**
 
-Zu jedem Diplom wird ein Diplomzusatz (Diploma Supplement) ausgestellt, der Angaben in standardisierter Form über den Studiengang enthält.
+§ 62. Zu jedem Diplom wird ein Diplomzusatz (Diploma Supplement) ausgestellt, der Angaben in standardisierter Form über den Studiengang enthält.
 
 **13**
 
-1.10. 24 - 126
+1.10. 25 - 130
+
+[^60-1]: Fassung gemäss B vom 8. Juli 2025 (OS 80, 222; ABl 2025-07-25). In Kraft seit 1. September 2025. 1.10. 25 - 130 15
+[^60-2]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
+[^60-3]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 ### 5. Abschnitt: Rechtsschutz und Übergangsbestimmungen
 
@@ -758,3 +753,7 @@ Zu jedem Diplom wird ein Diplomzusatz (Diploma Supplement) ausgestellt, der Anga
 <sup>2</sup> Sie gilt für die einzelnen Studiengänge ab Inkrafttreten der Studienordnung.
 
 <sup>3</sup> Die Studienordnungen regeln die Übergangsbestimmungen.
+
+## Weitere Fussnoten
+
+- [8] Fassung gemäss B vom 9. Dezember 2014 (OS 70, 55; ABl 2014-12-19). In Kraft seit 1. April 2015.
