@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Controprogetto indiretto all’iniziativa sui fuochi d’artificio – Iniziativa parlamentare 25.402
 document: Progetto posto in consultazione
 language: it

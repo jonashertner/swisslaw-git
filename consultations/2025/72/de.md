@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Indirekter Gegenentwurf zur Feuerwerks-Initiative – Parlamentarische Initiative 25.402
 document: Vernehmlassungsvorlage
 language: de

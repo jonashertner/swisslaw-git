@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Contre-projet indirect à l’initiative sur les feux d’artifice – initiative parlementaire 25.402
 document: Projet mis en consultation
 language: fr
