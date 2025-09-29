@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les fonds propres (exécution des mesures du rapport du Conseil fédéral sur la stabilité des banques et du rapport de la commission d’enquête parlementaire)
 document: Projet mis en consultation
 language: fr

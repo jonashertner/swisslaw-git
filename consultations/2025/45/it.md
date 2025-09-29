@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sui fondi propri (attuazione delle misure previste dal rapporto del Consiglio federale sulla stabilità delle banche e dal rapporto della Commissione parlamentare d’inchiesta)
 document: Progetto posto in consultazione
 language: it

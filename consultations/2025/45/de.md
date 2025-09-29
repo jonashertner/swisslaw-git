@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Eigenmittelverordnung (Umsetzung der Massnahmen aus dem Bericht des Bundesrates zur Bankenstabilität und dem Bericht der parlamentarischen Untersuchungskommission)
 document: Vernehmlassungsvorlage
 language: de
