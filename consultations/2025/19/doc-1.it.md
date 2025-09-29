@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della Convenzione di domicilio tra la Svizzera e l’Iran
 document: Progetto posto in consultazione
 language: it

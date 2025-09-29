@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la convention d’établissement entre la Suisse et l’Iran
 document: Projet mis en consultation-2
 language: fr

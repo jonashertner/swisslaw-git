@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Niederlassungsabkommens zwischen der Schweiz und Iran
 document: Vernehmlassungsvorlage-2
 language: de
