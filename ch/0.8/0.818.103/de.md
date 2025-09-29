@@ -3,11 +3,11 @@ sr: "0.818.103"
 title: Internationale Gesundheitsvorschriften (2005) vom 23. Mai 2005 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: de
-version: 2025-09-19
+version: 2025-09-30
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/de/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250919-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250919/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250930/de/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250930-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250930/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Angenommen an der 58. Weltgesundheitsversammlung am 23. Mai 2005
 
 Für die Schweiz in Kraft getreten am 15. Juni 2007
 
-(Stand am 19. September 2025)
+(Stand am 30. September 2025)
 
 [^t-1]: Totalrevision des Internationalen Sanitätsreglements vom 25. Juli 1969 ([SR 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)); Deutschland, Österreich und die Schweiz haben beschlossen, in Zukunft gemeinsam den Begriff «Internationale Gesundheitsvorschriften» (IGV) zu verwenden; diese Anpassung gilt für den ganzen Text der Vorschriften. Die vorliegende Fassung der Vorschriften gilt für die Schweiz nur noch im Verhältnis zu den Staaten, welche die Änd. der Internationalen Gesundheitsvorschriften (2005) durch Resolution WHA77.17 (2024) ([SR 0.818.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40417)) nicht ratifiziert haben.
 
@@ -1682,8 +1682,8 @@ Hiermit erkläre ich, dass die in dieser Gesundheitserklärung (einschliesslich 
 ### Anhang zum Muster einer Seegesundheitserklärung
 
 <table>
-<tr><td colspan="2">Name</td><td>Klasse oder Tätigkeit an Bord</td><td>Alter</td><td>Geschlecht</td><td>Staatsangehörigkeit</td><td>Hafen/ Datum des Anbordgehens</td><td>Art der Krankheit</td><td>Datum des Einsetzens der Symptome</td><td>Einem Hafenarzt gemeldet?</td><td>Nachfolgende Ma*ss*nahmen\*</td><td>Dem Patienten verabreichte Arznei- und Heilmittel oder andere Behandlungen</td><td>Anmerkungen</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="12">Angeben, (1) ob die Person wiederhergestellt, noch krank oder verstorben ist und (2) ob die Person noch an Bord befindlich ist, ob sie evakuiert wurde (einschliesslich der Angabe des Hafens oder Flughafens) oder ob die Leiche auf See bestattet wurde.</td></tr>
+<tr><td>Name</td><td>Klasse oder Tätigkeit an Bord</td><td>Alter</td><td>Geschlecht</td><td>Staatsangehörigkeit</td><td>Hafen/ Datum des Anbordgehens</td><td>Art der Krankheit</td><td>Datum des Einsetzens der Symptome</td><td>Einem Hafenarzt gemeldet?</td><td>Nachfolgende Ma*ss*nahmen\*</td><td>Dem Patienten verabreichte Arznei- und Heilmittel oder andere Behandlungen</td><td>Anmerkungen</td></tr>
+<tr><td colspan="12">\* Angeben, (1) ob die Person wiederhergestellt, noch krank oder verstorben ist und (2) ob die Person noch an Bord befindlich ist, ob sie evakuiert wurde (einschliesslich der Angabe des Hafens oder Flughafens) oder ob die Leiche auf See bestattet wurde.</td></tr>
 </table>
 
 Anlage 9[^t-3]
@@ -1713,7 +1713,7 @@ Unterschrift, falls erforderlich, mit Uhrzeit und Datum
 <tr><td></td><td>zuständiges Besatzungsmitglied</td></tr>
 </table>
 
-Geltungsbereich am 11. August 2015[^t-4]
+Geltungsbereich am 30. September 2025[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th></th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1749,7 +1749,9 @@ Geltungsbereich am 11. August 2015[^t-4]
 <tr><td>Burundi</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Chile</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>China\*</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td>Cook-Inseln</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Hongkong</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Macau</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Taiwan (Chinesisches Taipei)</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Costa Rica</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Côte d’Ivoire</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Dänemark</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1776,6 +1778,7 @@ Geltungsbereich am 11. August 2015[^t-4]
 <tr><td>Guinea-Bissau</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Guyana</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Haiti</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Heiliger Stuhl</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Honduras</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Indien\*</td><td></td><td></td><td>8. Aug.</td><td>2007</td></tr>
 <tr><td>Indonesien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1837,11 +1840,12 @@ Geltungsbereich am 11. August 2015[^t-4]
 <tr><td>Nauru</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Nepal</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Neuseeland</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Cook-Inseln</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Niue</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Nicaragua</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Niederlande</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Niger</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Nigeria</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td>Niue</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Nordmazedonien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Norwegen</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Oman</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1854,7 +1858,7 @@ Geltungsbereich am 11. August 2015[^t-4]
 <tr><td>Peru</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Philippinen</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Polen</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td>Portugal\*</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
+<tr><td>Portugal <sup>a</sup> \*</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Ruanda</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Rumänien</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Russland</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
@@ -1911,11 +1915,11 @@ Geltungsbereich am 11. August 2015[^t-4]
 <tr><td>Vietnam</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
 <tr><td>Zypern</td><td></td><td></td><td>15. Juni</td><td>2007</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können eingesehen werden auf der Webseite der Weltgesundheitsorganisation: [www.who.int/fr](https://www.who.int/fr) oder bezogen werden bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können eingesehen werden auf der Webseite der Weltgesundheitsorganisation: [www.who.int/fr](https://www.who.int/fr) oder bezogen werden bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Erklärungen der Präsidentschaft im Namen der Mitgliedsstaaten der Europäischen Union.</td></tr>
 </table>
 
-[^t-4]: [AS 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552); [2025 606](https://fedlex.data.admin.ch/eli/oc/2025/606). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Änderung der Art. 55, 59, 61, 62 und 63 der Internationalen Gesundheitsvorschriften vom 28. Mai 2022[^t-5]
 

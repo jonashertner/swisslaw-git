@@ -3,11 +3,11 @@ sr: "0.818.103"
 title: Règlement sanitaire international (2005) du 23 mai 2005 (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: fr
-version: 2025-09-19
+version: 2025-09-30
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/fr/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250919-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250919/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250930/fr/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250930-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250930/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par la Cinquante-huitième Assemblée mondiale de la Santé le 23 mai 20
 
 Entré en vigueur pour la Suisse le 15 juin 2007
 
-(État le 19 septembre 2025)
+(État le 30 septembre 2025)
 
 [^t-1]: Révision totale du Règlement sanitaire international du 25 juil. 1969 ([RS 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)). La présente version du règlement n’est encore valable pour la Suisse que dans les rapports avec les États contractants qui n’ont pas ratifié les Am. de la résolution WHA77.17 (2024) ([RS 0.818.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40417)).
 
@@ -1301,7 +1301,7 @@ Les exemples figurant dans la présente annexe n’ont pas de caractère contrai
 
 ### L’événement répond-il a deux au moins des critères suivants?
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250930/fr/xml/image/image1.png)
 
 <table>
 <tr><td>L’événement est-il inhabituel ou inattendu?</td><td></td></tr>
@@ -1661,7 +1661,7 @@ Signature, s’il y a lieu, avec date et heure …………………………
 
 [^annex9-lvlCe-2]: On pourra trouver le document complet sur le site Web de l’Organisation de l’Aviation civile internationale, Direction de lanavigation aérienne (ANB), Section de médecine aéronautique (MED): [www.icao.int/safety/aviation-medicine/Pages/default.aspx](https://www.icao.int/safety/aviation-medicine/Pages/default.aspx)
 
-Champ d’application le 11 août 2015[^t-4]
+Champ d’application le 30 septembre 2025[^t-4]
 
 <table>
 <tr><th>États parties</th><th></th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1702,6 +1702,9 @@ Champ d’application le 11 août 2015[^t-4]
 <tr><td>Cap-Vert</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Chili</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Chine\*</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
+<tr><td>Hong Kong</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
+<tr><td>Macao</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
+<tr><td>Taïwan (Taipei chinois)</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Chypre</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Colombie</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Comores</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
@@ -1820,6 +1823,7 @@ Champ d’application le 11 août 2015[^t-4]
 <tr><td>Rwanda</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Saint-Marin</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
+<tr><td>Saint-Siège</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Sainte-Lucie</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
 <tr><td>Samoa</td><td></td><td></td><td>15 juin</td><td>2007</td></tr>
@@ -1862,7 +1866,7 @@ Champ d’application le 11 août 2015[^t-4]
 <tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la santé (OMS): [www.who.int/fr](https://www.who.int/fr) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Déclarations de la Présidence au nom des États parties à l’Union européenne.</td></tr>
 </table>
 
-[^t-4]: [RO 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552); [2025 606](https://fedlex.data.admin.ch/eli/oc/2025/606). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Amendements des art. 55, 59, 61, 62 et 63 du Règlement sanitaire international
 

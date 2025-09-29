@@ -3,11 +3,11 @@ sr: "0.818.103"
 title: Regolamento sanitario internazionale (2005) del 23 maggio 2005 (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/343"
 language: it
-version: 2025-09-19
+version: 2025-09-30
 adopted: 2005-05-23
 in_force: 2007-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250919/it/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250919-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250919/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/343/20250930/it/xml/fedlex-data-admin-ch-eli-cc-2007-343-20250930-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/343/20250930/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato alla cinquantottesima Assemblea mondiale della Sanità il 23 maggio 2005 Entrato in vigore per la Svizzera il 15 giugno 2007
 
-(Stato 19 settembre 2025)
+(Stato 30 settembre 2025)
 
 [^t-1]: Revisione totale del R sanitario internazionale del 25 lug. 1969 ([RS 0.818.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3572)). Il presente regolamento è ancora applicabile per la Svizzera nei suoi rapporti con le Parti contraenti che non hanno ratificato gli emendamenti della risoluzione WHA77.17 (2024) ([RS 0.818.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40417)).
 
@@ -1040,7 +1040,7 @@ Qualora il Direttore generale consideri una raccomandazione permanente necessari
 
 <sup>3.</sup> Gli emendamenti al presente Regolamento adottati dall’Assemblea mondiale della Sanità ai sensi del presente articolo entreranno in vigore in tutti gli Stati Parti in base alle stesse condizioni e soggetti agli stessi diritti e doveri, come stabilito dall’articolo 22 della Costituzione dell’OMS e dagli articoli 59–64 del presente Regolamento, a condizione che siano rispettati i periodi stabiliti da tali articoli per quanto riguarda gli emendamenti del presente Regolamento.
 
-[^55-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
+[^55-1]: Nuovo testo giusta l’em. del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 56
 
@@ -1118,7 +1118,7 @@ Il presente Regolamento entra in vigore 24 mesi dopo la data di notifica di cui 
 
 <sup>3.</sup> Nel caso in cui uno Stato non sia in grado di adeguare le proprie disposizioni legislative e amministrative interne nel pieno rispetto del presente Regolamento o di un emendamento dello stesso entro il periodo stabilito nel paragrafo 2 del presente articolo, a seconda dei casi, tale Stato deve presentare al Direttore generale, entro il periodo specificato nel paragrafo 1 o 1<sup>bis</sup> del presente articolo, una dichiarazione relativa ai procedimenti in sospeso e portarli a termine entro 12 mesi dall’entrata in vigore del presente Regolamento o di un emendamento dello stesso per tale Stato Parte.
 
-[^59-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
+[^59-1]: Nuovo testo giusta l’em. del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 60
 
@@ -1132,7 +1132,7 @@ Ogni Stato che diventi Membro dell’OMS dopo la data della notifica da parte de
 
 Se uno Stato notifica al Direttore generale il proprio rifiuto del presente Regolamento o di un emendamento dello stesso entro il periodo applicabile stabilito dal paragrafo 1 o 1<sup>bis</sup> dell’articolo 59, tale Regolamento o l’emendamento relativo non entrano in vigore in tale Stato. Qualsiasi accordo o regolamento sanitario internazionale elencato nell’articolo 58 di cui tale Stato faccia già parte rimane in vigore finché tale Stato ne sia interessato.
 
-[^61-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
+[^61-1]: Nuovo testo giusta l’em. del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 62
 
@@ -1162,7 +1162,7 @@ Il Direttore generale deve, nel rispetto del paragrafo 2 dell’articolo 65, dar
 
 <sup>9.</sup> Il Direttore generale deve presentare la riserva e il parere del Comitato di revisione, se applicabile, all’Assemblea mondiale della Sanità affinché vengano presi in esame. Se l’Assemblea mondiale della Sanità, a maggioranza dei voti, avanza obiezioni relativamente alla riserva adducendo la sua incompatibilità con il fine e lo scopo del presente Regolamento, la riserva non deve essere accettata e il presente Regolamento o un emendamento dello stesso deve entrare in vigore nello Stato che ha avanzato la riserva solo dopo che esso abbia ritirato la riserva ai sensi dell’articolo 63. Se l’Assemblea mondiale della Sanità accetta la riserva, il presente Regolamento o un emendamento dello stesso entra in vigore nello Stato che ha avanzato la riserva, fatta salva tale riserva.
 
-[^62-1]: Nuovo testo giusta l’emendamento del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
+[^62-1]: Nuovo testo giusta l’em. del 28 mag. 2022, in vigore dal 31 mag. 2024 ([RU 2024 329](https://fedlex.data.admin.ch/eli/oc/2024/329)).
 
 #### Art. 63
 
@@ -1522,7 +1522,7 @@ Allegato 7[^t-2]
 
 ## Requisiti relativi a vaccinazioni o a profilassi per specifiche malattie
 
-[^t-2]: Aggiornato dall’emendamento del 24 mag. 2014, in vigore dall’11 lug. 2016 ([RU 2016 5305](https://fedlex.data.admin.ch/eli/oc/2016/840)).
+[^t-2]: Aggiornato dall’em. del 24 mag. 2014, in vigore dall’11 lug. 2016 ([RU 2016 5305](https://fedlex.data.admin.ch/eli/oc/2016/840)).
 
 \1. In aggiunta a qualsiasi raccomandazione relativa a vaccinazione o a profilassi, ai sensi del presente Regolamento per le seguenti malattie può essere specificamente richiesto un certificato di vaccinazione o della profilassi come condizione per l’ingresso dei viaggiatori in uno Stato Parte:
 
@@ -1657,7 +1657,7 @@ Allegato 9[^t-3]
 
 ## Il presente documento è parte della Dichiarazione generale di aeromobile, promulgata dall’Organizzazione dell’aviazione civile internazionale
 
-[^t-3]: Nuovo testo giusta l’emendamento del 3 apr. 2008, in vigore dal 15 lug. 2007 ([RU 2009 1013](https://fedlex.data.admin.ch/eli/oc/2009/154)).
+[^t-3]: Nuovo testo giusta l’em. del 3 apr. 2008, in vigore dal 15 lug. 2007 ([RU 2009 1013](https://fedlex.data.admin.ch/eli/oc/2009/154)).
 
 ### Parte sanitaria della Dichiarazione generale di aeromobile
 
@@ -1677,7 +1677,7 @@ Firma, se del caso con orario e data: ……………………………………
 <tr><td></td><td>Membro dell’equipaggio responsabile</td></tr>
 </table>
 
-Campo d’applicazione l’11 agosto 2015[^t-4]
+Campo d’applicazione il 30 settembre 2025[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1717,7 +1717,10 @@ Campo d’applicazione l’11 agosto 2015[^t-4]
 <tr><td>Ceca, Repubblica</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Ciad</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Cile</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
-<tr><td>Cina\*</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hong Kong</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Macao</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Taiwan (Taipei cinese)</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Cipro</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Colombia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Comore</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
@@ -1767,7 +1770,6 @@ Campo d’applicazione l’11 agosto 2015[^t-4]
 <tr><td>Iraq</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Irlanda</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Islanda</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
-<tr><td>Isole Cook</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Isole Marshall</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Israele</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Italia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
@@ -1809,9 +1811,10 @@ Campo d’applicazione l’11 agosto 2015[^t-4]
 <tr><td>Nicaragua</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Niger</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Nigeria</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
-<tr><td>Niue</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Norvegia</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Nuova Zelanda</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Isole Cook</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Niue</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Oman</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Paesi Bassi</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Pakistan</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
@@ -1834,6 +1837,7 @@ Campo d’applicazione l’11 agosto 2015[^t-4]
 <tr><td>Salomone, Isole</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Samoa</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>San Marino</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
+<tr><td>Santa Sede</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>São Tomé e Príncipe</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Seicelle</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
 <tr><td>Senegal</td><td></td><td></td><td>15 giugno</td><td>2007</td></tr>
@@ -1879,7 +1883,7 @@ Campo d’applicazione l’11 agosto 2015[^t-4]
 <tr><td colspan="5"><sup>a</sup> Dichiarazioni della Presidenza nel nome degli Stati membri dell’Unione europea.</td></tr>
 </table>
 
-[^t-4]: [RU 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-4]: [RU 2007 2471](https://fedlex.data.admin.ch/eli/oc/2007/343); [2009 345](https://fedlex.data.admin.ch/eli/oc/2009/58); [2015 2937](https://fedlex.data.admin.ch/eli/oc/2015/552); [2025 606](https://fedlex.data.admin.ch/eli/oc/2025/606). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Emendamenti agli articoli 55, 59, 61, 62 e 63 del Regolamento sanitario internazionale del 28 maggio 2022[^t-5]
 
