@@ -4,12 +4,12 @@ number: "213.951"
 title: Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 language: de
 version: 2025-08-01
-valid_until: 2025-09-30
+corrected: 2025-09-30
 version_adopted: 2026-09-01
 adopted: 2015-02-03
 in_force: 2015-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.951"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3932/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3765/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -242,13 +242,9 @@ als Verordnung:[^ingress-2]
 
 #### Art. 20a
 
-**…**
-
-#### Art. 20b
-
 **Bereitstellung von zusätzlichen Sonderschulplätzen**
 
-<sup>1</sup> Erfordert die Nachfrage die Bereitstellung von zusätzlichen Sonderschulplätzen, kann der Kanton der Sonderschule zusätzlich zu den Pauschalen nach [Art. 22](https://www.gesetzessammlung.sg.ch/data/213.951/de/art22) dieses Erlasses einmalig die zur Gewährleistung eines ausreichenden Grundschulunterrichts pädagogisch und betrieblich nötigen Anschaffungen vergüten.
+<sup>1</sup> Erfordert die Nachfrage die Bereitstellung von zusätzlichen Sonderschulplätzen, kann der Kanton der Sonderschule zusätzlich zu den Pauschalen nach Art. [22](https://www.gesetzessammlung.sg.ch/data/213.951/de/art22) dieses Erlasses einmalig die zur Gewährleistung eines ausreichenden Grundschulunterrichts pädagogisch und betrieblich nötigen Anschaffungen vergüten.
 
 <sup>2</sup> Ein Beitrag des Kantons an die Anschaffungen nach Abs. 1 dieser Bestimmung setzt voraus, dass der Betriebsfonds der Sonderschule in der Bilanz der letzten Jahresrechnung zehn Prozent des kumulierten Betrags aus den Pauschalen Schule, Wohnen und Transport des vorangegangenen Kalenderjahres unterschreitet.
 
@@ -258,7 +254,7 @@ als Verordnung:[^ingress-2]
 
 - a) Grobkonzept für die Kapazitätserweiterung;
 - b) Bezeichnung der pädagogisch und betrieblich nötigen Anschaffungen;
-- c) c) Kostenvoranschlag für die geplanten Anschaffungen.
+- c) Kostenvoranschlag für die geplanten Anschaffungen.
 
 #### Art. 21
 
