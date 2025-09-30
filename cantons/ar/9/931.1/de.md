@@ -4,13 +4,12 @@ number: "931.1"
 title: Gesetz über den Wald
 short: Kantonales Waldgesetz
 language: de
-version: 2016-09-30
-valid_until: 2025-09-30
-version_adopted: 2016-09-27
+version: 2025-10-01
+version_adopted: 2025-06-16
 adopted: 1996-04-28
 in_force: 1997-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/931.1"
-pdf: "https://ar.clex.ch/api/de/versions/1461/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1643/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1461/pdf_file"
 
 (Kantonales Waldgesetz)
 
-vom 28.04.1996 (Stand 30.09.2016)
+vom 28.04.1996 (Stand 01.10.2025)
 
 Die Landsgemeinde des Kantons Appenzell A.Rh.,
 
@@ -38,6 +37,8 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz schützt den Wald mit seinen Pflanzen und Tieren als naturnahe Lebensgemeinschaft und sorgt für dessen Erhaltung in seinen vielfältigen Funktionen, namentlich der Schutz-, Nutz- und Erholungsfunktion.[^1-1]
 
+<sup>1<sup>bis</sup></sup> Es soll ausserdem Menschen und erhebliche Sachwerte vor Naturereignissen wie Lawinen, Rutschungen, Erosion und Steinschlag schützen.
+
 <sup>2</sup> Es regelt den Vollzug der Bundesgesetzgebung über den Wald.
 
 [^1-1]: vgl. Art. 44 Abs. 3 KV (bGS [111.1](https://ar.clex.ch/data/111.1/de))
@@ -46,7 +47,7 @@ beschliesst:
 
 **Geltungsbereich, Waldbegriff**
 
-<sup>1</sup> Das Gesetz findet Anwendung auf alle Wälder im Sinne des Bundesrechts.[^2-1]
+<sup>1</sup> Das Gesetz findet Anwendung auf alle Wälder im Sinne des Bundesrechts.[^2-1] Die Bestimmungen über den Schutz vor Naturereignissen gelten auch ausserhalb des Waldes.
 
 <sup>2</sup> Eine mit Waldbäumen oder -sträuchern bestockte Fläche gilt als Wald, wenn sie mit Einschluss eines zweckmässigen Waldsaumes mindestens eine Ausdehnung von 500 m² und eine Breite von 12 m aufweist und wenn die Bestockung einwachsender Flächen mindestens 15 Jahre alt ist.[^2-2]
 
@@ -180,12 +181,44 @@ beschliesst:
 
 **Waldabstand[^15-1]**
 
-<sup>1</sup> Der Mindestabstand von Bauten und Anlagen zum Wald richtet sich nach dem Einführungsgesetz zum Raumplanungsgesetz[^15-2].
+<sup>1</sup> Der Mindestabstand von Bauten und Anlagen zum Wald richtet sich nach dem Baugesetz[^15-2].
 
 <sup>2</sup> Der Abstand wird vom äusseren Rand des Waldsaumes aus gemessen.
 
 [^15-1]: vom eidg. Departement des Innern genehmigt am 6. Juni 1996
-[^15-2]: Heute: Baugesetz (bGS [721.1](https://ar.clex.ch/data/721.1/de))
+[^15-2]: bGS [721.1](https://ar.clex.ch/data/721.1/de)
+
+## IIa. Schutz vor Naturereignissen
+
+#### Art. 15a
+
+**Grundsätze**
+
+<sup>1</sup> Der Schutz vor Naturereignissen erfolgt in erster Linie durch raumplanerische und biologische Massnahmen. Reicht dies nicht aus, sind die notwendigen organisatorischen und technischen Massnahmen zu treffen.
+
+<sup>2</sup> Die Massnahmen sind risikobasiert und integral zu planen sowie mit jenen aus anderen Bereichen gesamthaft und in ihrem Zusammenwirken zu beurteilen.
+
+#### Art. 15b
+
+**Grundlagen**
+
+<sup>1</sup> Der Kanton erarbeitet die notwendigen Grundlagen und führt diese periodisch nach.
+
+<sup>2</sup> Kanton und Gemeinden berücksichtigen die Grundlagen in ihrer Richt- und Nutzungsplanung und bei ihrer übrigen raumwirksamen Tätigkeit.
+
+#### Art. 15c
+
+**Massnahmen**
+
+<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, obliegt der Schutz vor Naturereignissen den Eigentümerinnen und Eigentümern der betroffenen Grundstücke, Bauten und Anlagen.
+
+<sup>2</sup> Die Gemeinden treffen geeignete Massnahmen zur Vorsorge und Bewältigung von Schäden durch Naturereignisse wie Warneinrichtungen, Einsatzplanungen und technische Vorkehrungen für Notfalleinsätze.
+
+<sup>3</sup> Kann der Schutz vor Naturereignissen nicht anders hergestellt werden, treffen die Gemeinden die erforderlichen technischen Massnahmen nach der Bundesgesetzgebung über den Wald[^15c-1]. Nutzniessende können zur Mitfinanzierung herangezogen werden.
+
+<sup>4</sup> Der Kanton sorgt für eine koordinierte Planung der Massnahmen nach Abs. 2 und 3.
+
+[^15c-1]: vgl. Art. 19 WaG (SR [921.0](https://db.clex.ch/link/Bund/921.0/de)), Art. 17 WaV (SR [921.01](https://db.clex.ch/link/Bund/921.01/de))
 
 ## III. Pflege und Nutzung des Waldes
 
