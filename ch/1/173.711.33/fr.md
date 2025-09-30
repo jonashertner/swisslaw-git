@@ -3,18 +3,18 @@ sr: "173.711.33"
 title: "Règlement du Tribunal pénal fédéral du 24 janvier 2012 sur les principes de l'information"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/194"
 language: fr
-version: 2016-12-01
+version: 2025-10-01
 adopted: 2012-01-24
 in_force: 2012-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/194/20161201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-194-20161201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/194/20161201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/194/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-194-20251001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/194/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement du Tribunal pénal fédéral sur les principes de l’information
 
-du 24 janvier 2012 (État le 1<sup>er</sup> décembre 2016)
+du 24 janvier 2012 (État le 1<sup>er</sup> octobre 2025)
 
 Le Tribunal pénal fédéral (TPF),
 
@@ -22,7 +22,7 @@ vu l’art. 63, al. 3, de la loi du 19 mars 2010 sur l’organisation des autori
 
 arrête:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ## Section 1 Dispositions générales
 
@@ -58,18 +58,20 @@ Le présent règlement régit l’information du public sur l’activité du Tri
 
 <sup>6</sup> Dans des cas particuliers, le tribunal informe également par le biais de communiqués de presse ou, exceptionnellement, de conférences de presse.
 
-[^3-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^3-2]: Nouvelle teneur selon le ch. I du R du TPF du 27 sept. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3923](https://fedlex.data.admin.ch/eli/oc/2016/663)).
+[^3-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du TFP du 27 sept. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3923](https://fedlex.data.admin.ch/eli/oc/2016/663)).
 
 #### Art. 4
 
 **Banque de données des prononcés**
 
-<sup>1</sup> Le tribunal publie en principe toutes les décisions finales dans sa banque de données consultable sur Internet. Les autres prononcés ne sont publiés que s’ils se révèlent d’intérêt public.
+<sup>1</sup> Le tribunal publie en principe tous ses prononcés de clôture dans sa banque de données consultable sur Internet. Les autres prononcés ne sont publiés que s’ils se révèlent d’intérêt public.[^4-1]
 
 <sup>2</sup> Les prononcés sont consultables dans leur intégralité, sous réserve des dispositions relatives à l’anonymisation prévues à l’art. 6.
 
 <sup>3</sup> L’accès à la banque de données est gratuit.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du TFP du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 5
 
@@ -113,10 +115,10 @@ Les demandes de renseignements doivent être adressées au secrétariat généra
 
 <sup>2</sup> Le secrétariat général statue conformément à l’art. 194 CPP[^8-4] sur les demandes de consultation de dossiers émanant d’autres autorités; si la demande concerne un dossier relatif à une procédure pendante, il revient à la direction de la procédure de statuer conformément aux art. 101 et 102 CPP.
 
-[^8-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^8-2]: [RS 173.713.161](https://fedlex.data.admin.ch/eli/cc/2010/825)
-[^8-3]: [RS 152.12](https://fedlex.data.admin.ch/eli/cc/2006/186)
-[^8-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^8-2]: [RS 173.713.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5657)
+[^8-3]: [RS 152.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4933)
+[^8-4]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## Section 4 Chronique de l’activité judiciaire
 
@@ -132,7 +134,7 @@ La chronique de l’activité judiciaire du tribunal doit respecter les droits d
 
 Durant les débats, interdiction est faite aux personnes n’appartenant pas au tribunal d’effectuer des prises de son ou des prises de vue. L’interdiction est valable aussi bien dans le bâtiment du tribunal qu’en tout lieu où se tient une audience du tribunal (art. 71 CPP[^10-1]).
 
-[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## Section 5 Journalistes accrédités
 
@@ -146,11 +148,13 @@ Les dispositions de la présente section s’appliquent uniquement aux journalis
 
 **Accréditation**
 
-<sup>1</sup> Les journalistes qui désirent tenir régulièrement la chronique de l’activité judiciaire du tribunal pour les médias paraissant ou établis en Suisse et qui s’engagent à respecter les règles visées à l’art. 9 sont accrédités, sur requête, par le secrétariat général. Ils peuvent également être accrédités pour des procès particuliers.
+<sup>1</sup> Les journalistes qui désirent tenir régulièrement la chronique de l’activité judiciaire du tribunal et qui s’engagent à respecter les règles visées à l’art. 9 sont accrédités, sur requête, par le secrétariat général. Ils peuvent également être accrédités pour des procès particuliers.[^12-1]
 
 <sup>2</sup> Sont réputés journalistes les personnes qui remplissent les conditions d’inscription au registre professionnel.
 
 <sup>3</sup> Les journalistes bénéficiant déjà d’une accréditation auprès du Tribunal fédéral ou du Tribunal administratif fédéral sont, sur demande expresse, accrédités sans formalités particulières auprès du tribunal. Il leur suffit de joindre à leur demande une copie de leur accréditation auprès des autres tribunaux de la Confédération et un curriculum vitae avec photo.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du TFP du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 13
 
@@ -164,11 +168,13 @@ Les dispositions de la présente section s’appliquent uniquement aux journalis
 
 **Durée et révocation de l’accréditation**
 
-<sup>1</sup> L’accréditation est personnelle et non transmissible. Elle est valable pour une durée de quatre ans ou, lors d’une période de quatre ans en cours, pour le reste de celle-ci. Le renouvellement doit être demandé avant l’échéance.
+<sup>1</sup> L’accréditation est personnelle et non transmissible. Elle est valable pour une durée de quatre ans ou, lors d’une période de quatre ans en cours, pour le reste de celle-ci. Le renouvellement doit être demandé avant l’échéance; les art. 12 et 13 sont applicables par analogie.[^14-1]
 
 <sup>2</sup> Celui qui ne tient plus la chronique judiciaire du tribunal doit en informer sans délai le tribunal.
 
 <sup>3</sup> Le secrétariat général révoque l’accréditation lorsque les conditions ne sont plus réunies.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du TFP du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 15
 
@@ -179,14 +185,15 @@ Les dispositions de la présente section s’appliquent uniquement aux journalis
 Le tribunal fournit ce qui suit aux journalistes accrédités:
 
 - a.[^15-1] moyennant demande préalable, une copie de l’acte d’accusation; ce document est en règle générale distribué 14 jours avant le début des débats;
-- b. sur demande, une place réservée dans la salle d’audience, dans la mesure où les locaux le permettent;
+- b.[^15-2] …
 - c. l’accès à la salle de presse, dans la mesure où ce local existe au lieu des débats;
-- d. la possibilité d’effectuer des copies de documents pendant la durée des débats publics;
-- e. les dispositifs, sous forme non anonymisée, des jugements communiqués en audience publique;
+- d.[^15-3] …
+- e.[^15-4] une copie non anonymisée des dispositifs des jugements de la Cour des affaires pénales et de la Cour d’appel, qu’ils aient été notifiés oralement ou par écrit;
 - f. les prononcés destinés à la publication;
 - g. le rapport de gestion;
 - h. sur demande, d’autres informations sur l’état des procédures;
-- i. les communiqués de presse.
+- i. les communiqués de presse;
+- j.[^15-5] moyennant demande préalable, une copie non anonymisée des jugements de la Cour des affaires pénales et de la Cour d’appel; ce document peut être obtenu pendant 30 jours à compter de la notification du jugement et de la levée de l’embargo.
 
 <sup>2</sup> Les prononcés au sens de l’al. 1, let. f, sont envoyés avant la publication dans la base de données électronique; un embargo est fixé en cas de nécessité.
 
@@ -194,7 +201,11 @@ Le tribunal fournit ce qui suit aux journalistes accrédités:
 
 <sup>4</sup> L’envoi se fait en règle générale par voie électronique.
 
-[^15-1]: Nouvelle teneur selon le ch. I du R du TPF du 15 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5563](https://fedlex.data.admin.ch/eli/oc/2015/860)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du TFP du 15 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5563](https://fedlex.data.admin.ch/eli/oc/2015/860)).
+[^15-2]: Abrogée par le ch. I de l’O du TFP du 29 juil. 2025, avec effet au 1<sup>er</sup> oct. 2025 ([RO 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-3]: Abrogée par le ch. I de l’O du TFP du 29 juil. 2025, avec effet au 1<sup>er</sup> oct. 2025 ([RO 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-4]: Nouvelle teneur selon le ch. I de l’O du TFP du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-5]: Introduite par le ch. I de l’O du TFP du 29 juil. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 16
 

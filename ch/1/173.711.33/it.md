@@ -3,18 +3,18 @@ sr: "173.711.33"
 title: "Regolamento del Tribunale penale federale del 24 gennaio 2012 sui principi dell'informazione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/194"
 language: it
-version: 2016-12-01
+version: 2025-10-01
 adopted: 2012-01-24
 in_force: 2012-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/194/20161201/it/xml/fedlex-data-admin-ch-eli-cc-2012-194-20161201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/194/20161201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/194/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2012-194-20251001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/194/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento del Tribunale penale federale sui principi dell’informazione
 
-del 24 gennaio 2012 (Stato 1° dicembre 2016)
+del 24 gennaio 2012 (Stato 1° ottobre 2025)
 
 Il Tribunale penale federale (TPF),
 
@@ -22,7 +22,7 @@ visto l’articolo 63 capoverso 3 della legge federale del 19 marzo 2010[^ingres
 
 decreta:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ## Sezione 1: Disposizioni generali
 
@@ -58,8 +58,8 @@ Il presente regolamento disciplina l’informazione al pubblico in merito all’
 
 <sup>6</sup> Se necessario l’informazione può essere assicurata mediante comunicati stampa o, eccezionalmente, con apposite conferenze stampa.
 
-[^3-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^3-2]: Nuovo testo giusta il n. I del R del TPF del 27 set. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3923](https://fedlex.data.admin.ch/eli/oc/2016/663)).
+[^3-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^3-2]: Nuovo testo giusta la cifra I dell’O del TPF del 27 set. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3923](https://fedlex.data.admin.ch/eli/oc/2016/663)).
 
 #### Art. 4
 
@@ -113,10 +113,10 @@ Le domande di informazioni vanno rivolte al segretariato generale. Di norma le d
 
 <sup>2</sup> Il segretariato generale decide in merito alle domande di esame degli atti da parte di altre autorità conformemente all’articolo 194 CPP[^8-4]; se la domanda concerne atti relativi a un caso pendente, la decisione spetta alla direzione della procedura giusta gli articoli 101 e 102 CPP.
 
-[^8-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^8-2]: [RS 173.713.161](https://fedlex.data.admin.ch/eli/cc/2010/825)
-[^8-3]: [RS 152.12](https://fedlex.data.admin.ch/eli/cc/2006/186)
-[^8-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^8-2]: [RS 173.713.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5657)
+[^8-3]: [RS 152.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4933)
+[^8-4]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## Sezione 4: Cronaca giudiziaria
 
@@ -132,7 +132,7 @@ La cronaca giudiziaria deve rispettare i diritti della personalità delle parti 
 
 Durante le udienze sono vietate le riprese visive o sonore da parte di persone esterne al Tribunale. Il divieto è applicabile all’interno dell’edificio del Tribunale, nonché a tutti gli altri luoghi in cui si tiene un’udienza del Tribunale (art. 71 CPP[^10-1]).
 
-[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## Sezione 5: Giornalisti accreditati
 
@@ -146,11 +146,13 @@ Le seguenti disposizioni sono applicabili ai giornalisti accreditati presso il T
 
 **Accreditamento**
 
-<sup>1</sup> I giornalisti che intendono riferire sull’attività giudiziaria del Tribunale per media pubblicati o con sede in Svizzera e che s’impegnano a rispettare le disposizioni dell’articolo 9 sono accreditati, su domanda, dal segretariato generale. I giornalisti possono inoltre essere accreditati per singoli processi.
+<sup>1</sup> I giornalisti che intendono riferire sull’attività giudiziaria del Tribunale e che s’impegnano a rispettare le disposizioni dell’articolo 9 sono accreditati, su domanda, dal segretariato generale. I giornalisti possono inoltre essere accreditati per singoli processi.[^12-1]
 
 <sup>2</sup> Sono considerati giornalisti le persone che adempiono le condizioni per l’iscrizione nel registro professionale.
 
 <sup>3</sup> I giornalisti già accreditati presso il Tribunale federale o il Tribunale amministrativo federale sono, su loro richiesta, accreditati al Tribunale senza particolari formalità. Alla loro richiesta devono unicamente allegare una copia dell’accreditamento agli altri Tribunali federali, con curriculum vitae e una foto.
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° ott. 2025 ([RU 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 13
 
@@ -164,11 +166,13 @@ Le seguenti disposizioni sono applicabili ai giornalisti accreditati presso il T
 
 **Durata e revoca dell’accreditamento**
 
-<sup>1</sup> L’accreditamento è personale e non trasferibile. Esso ha validità quadriennale o, se concesso durante il quadriennio, fino alla fine di tale periodo. Una domanda di rinnovo deve essere presentata tempestivamente, prima dello scadere del periodo di accreditamento.
+<sup>1</sup> L’accreditamento è personale e non trasferibile. Esso ha validità quadriennale o, se concesso durante il quadriennio, fino alla fine di tale periodo. Una domanda di rinnovo deve essere presentata tempestivamente, prima dello scadere del periodo di accreditamento; gli articoli 12 e 13 si applicano per analogia.[^14-1]
 
 <sup>2</sup> Chi non riferisce più sull’attività del Tribunale deve prontamente comunicarlo al segretariato generale.
 
 <sup>3</sup> Il segretariato generale revoca l’accreditamento quando i presupposti dell’accreditamento non sono più dati.
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° ott. 2025 ([RU 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 15
 
@@ -179,14 +183,15 @@ Le seguenti disposizioni sono applicabili ai giornalisti accreditati presso il T
 I giornalisti accreditati ricevono dal Tribunale le seguenti prestazioni:
 
 - a.[^15-1] la consegna, previa domanda, di una copia dell’atto d’accusa; tale atto è consegnato di norma 14 giorni prima dell’inizio delle udienze;
-- b. la prenotazione, su domanda, di un posto nell’aula delle udienze nella misura in cui i locali lo permettono;
+- b.[^15-2] ...
 - c. l’accesso alla sala stampa, sempreché disponibile nel luogo in cui si tengono le udienze;
-- d. la possibilità di effettuare copie dei documenti durante le udienze pubbliche;
-- e. la consegna dei dispositivi non anonimizzati delle decisioni pronunciate durante le udienze pubbliche;
+- d.[^15-3] ...
+- e.[^15-4] la consegna di una copia non anonimizzata dei dispositivi delle sentenze della Corte penale e della Corte d’appello, indipendentemente dal fatto che siano notificate oralmente o per iscritto;
 - f. la consegna delle decisioni destinate alla pubblicazione;
 - g. la consegna del rapporto di gestione;
 - h. su domanda, altre eventuali informazioni concernenti lo stato del procedimento;
-- i. l’invio dei comunicati stampa.
+- i. l’invio dei comunicati stampa;
+- j.[^15-5] la consegna, previa domanda, di una copia non anonimizzata delle sentenze della Corte penale e della Corte d’appello; tale documento può essere ottenuto nei 30 giorni dopo la loro notificazione e la scadenza del periodo di attesa.
 
 <sup>2</sup> L’invio delle decisioni ai sensi del capoverso 1 lettera f avviene prima della loro pubblicazione nella banca dati elettronica; se necessario è fissato un periodo di attesa (embargo).
 
@@ -194,7 +199,11 @@ I giornalisti accreditati ricevono dal Tribunale le seguenti prestazioni:
 
 <sup>4</sup> Di regola, la trasmissione avviene per via elettronica.
 
-[^15-1]: Nuovo testo giusta il n. I del R del TPF del 15 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5563](https://fedlex.data.admin.ch/eli/oc/2015/860)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del TPF del 15 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5563](https://fedlex.data.admin.ch/eli/oc/2015/860)).
+[^15-2]: Abrogata dalla cifra la cifra I dell’O del 29 lug. 2025, con effetto dal 1° ott. 2025 ([RU 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-3]: Abrogata dalla cifra la cifra I dell’O del 29 lug. 2025, con effetto dal 1° ott. 2025 ([RU 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-4]: Nuovo testo giusta la cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° ott. 2025 ([RU 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-5]: Introdotta dalla cifra I dell’O del TPF del 29 lug. 2025, in vigore dal 1° ott. 2025 ([RU 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 16
 

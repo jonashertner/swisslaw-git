@@ -3,18 +3,18 @@ sr: "173.711.33"
 title: Reglement des Bundesstrafgerichts vom 24. Januar 2012 über die Grundsätze der Information
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/194"
 language: de
-version: 2016-12-01
+version: 2025-10-01
 adopted: 2012-01-24
 in_force: 2012-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/194/20161201/de/xml/fedlex-data-admin-ch-eli-cc-2012-194-20161201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/194/20161201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/194/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2012-194-20251001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/194/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement des Bundesstrafgerichts über die Grundsätze der Information
 
-vom 24. Januar 2012 (Stand am 1. Dezember 2016)
+vom 24. Januar 2012 (Stand am 1. Oktober 2025)
 
 Das Bundesstrafgericht (BStGer),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 63 Absatz 3 des Strafbehördenorganisatonsgesetzes vom 19.
 
 beschliesst:
 
-[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -58,8 +58,8 @@ Dieses Reglement regelt die Information der Öffentlichkeit über die Tätigkeit
 
 <sup>6</sup> Wenn nötig informiert das Gericht zudem mit Medienmitteilungen oder ausnahmsweise über Medienkonferenzen.
 
-[^3-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^3-2]: Fassung gemäss Ziff. I des R des BStGer vom 27. Sept. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3923](https://fedlex.data.admin.ch/eli/oc/2016/663)).
+[^3-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^3-2]: Fassung gemäss Ziff. I der V des BStGer vom 27. Sept. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3923](https://fedlex.data.admin.ch/eli/oc/2016/663)).
 
 #### Art. 4
 
@@ -113,10 +113,10 @@ Auskunftsanfragen sind an das Generalsekretariat zu richten. Sie sind grundsätz
 
 <sup>2</sup> Über Einsichtsbegehren von Amtsstellen entscheidet das Generalsekretariat gemäss Artikel 194 StPO[^8-4]; betrifft ein solches Begehren Akten aus einem hängigen Verfahren, so entscheidet die Verfahrensleitung gemäss den Artikeln 101 und 102 StPO.
 
-[^8-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^8-2]: [SR 173.713.161](https://fedlex.data.admin.ch/eli/cc/2010/825)
-[^8-3]: [SR 152.12](https://fedlex.data.admin.ch/eli/cc/2006/186)
-[^8-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^8-2]: [SR 173.713.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5657)
+[^8-3]: [SR 152.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4933)
+[^8-4]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## 4. Abschnitt: Gerichtsberichterstattung
 
@@ -132,7 +132,7 @@ Die Gerichtsberichterstattung hat die Persönlichkeitsrechte und insbesondere di
 
 Während der Verhandlungen ist es gerichtsexternen Personen untersagt, Ton- oder Bildaufzeichnungen zu erstellen. Das Verbot gilt sowohl innerhalb des Gerichtsgebäudes als auch für alle anderen Orte, an denen eine Verhandlung des Gerichts stattfindet (Art. 71 StPO[^10-1]).
 
-[^10-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^10-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## 5. Abschnitt: Akkreditierte Journalistinnen und Journalisten
 
@@ -146,11 +146,13 @@ Die Bestimmungen dieses Abschnitts gelten für die beim Gericht akkreditierten J
 
 **Akkreditierung**
 
-<sup>1</sup> Journalistinnen und Journalisten, die regelmässig für in der Schweiz erscheinende Medien oder für ein in der Schweiz niedergelassenes Medienunternehmen über die Rechtsprechung des Gerichts Bericht erstatten wollen und sich verpflichten, die Bestimmungen nach Artikel 9 einzuhalten, werden auf Gesuch hin vom Generalsekretariat akkreditiert. Sie können überdies für einzelne Prozesse akkreditiert werden.
+<sup>1</sup> Journalistinnen und Journalisten, die regelmässig über die Rechtsprechung des Gerichts Bericht erstatten wollen und sich verpflichten, die Bestimmungen nach Artikel 9 einzuhalten, werden auf Gesuch hin vom Generalsekretariat akkreditiert. Sie können überdies für einzelne Prozesse akkreditiert werden.[^12-1]
 
 <sup>2</sup> Als Journalistinnen und Journalisten gelten Personen, welche die Voraussetzungen für die Eintragung in das Berufsregister erfüllen.
 
 <sup>3</sup> Die bereits beim Bundesgericht oder beim Bundesverwaltungsgericht akkreditierten Journalistinnen und Journalisten werden beim Gericht auf Gesuch hin ohne besondere Formalitäten akkreditiert. Sie haben ihrem Gesuch lediglich eine Kopie der Akkreditierung bei den anderen Gerichten des Bundes und einen Lebenslauf mit Foto beizulegen.
+
+[^12-1]: Fassung gemäss Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 13
 
@@ -164,11 +166,13 @@ Die Bestimmungen dieses Abschnitts gelten für die beim Gericht akkreditierten J
 
 **Dauer und Aufhebung der Akkreditierung**
 
-<sup>1</sup> Die Akkreditierung ist persönlich und nicht übertragbar. Sie erfolgt für eine Dauer von vier Jahren oder während einer laufenden Vierjahresperiode für deren Rest. Das Gesuch um Erneuerung muss rechtzeitig vor Ablauf der Akkreditierungsdauer eingereicht werden.
+<sup>1</sup> Die Akkreditierung ist persönlich und nicht übertragbar. Sie erfolgt für eine Dauer von vier Jahren oder während einer laufenden Vierjahresperiode für deren Rest. Das Gesuch um Erneuerung muss rechtzeitig vor Ablauf der Akkreditierungsdauer eingereicht werden; die Artikel 12 und 13 gelten dabei sinngemäss.[^14-1]
 
 <sup>2</sup> Wer nicht mehr über die Tätigkeit des Gerichts Bericht erstattet, hat dies dem Gericht unverzüglich mitzuteilen.
 
 <sup>3</sup> Das Generalsekretariat hebt die Akkreditierung auf, wenn die Voraussetzungen für deren Erteilung nicht mehr erfüllt sind.
+
+[^14-1]: Fassung gemäss Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 15
 
@@ -179,14 +183,15 @@ Die Bestimmungen dieses Abschnitts gelten für die beim Gericht akkreditierten J
 Die akkreditierten Journalistinnen und Journalisten erhalten vom Gericht:
 
 - a.[^15-1] nach vorhergehender Anfrage eine Kopie der Anklageschrift; diese wird in der Regel 14 Tage vor Beginn der Hauptverhandlung zugestellt;
-- b. auf Anfrage einen reservierten Platz im Gerichtssaal, sofern die räumlichen Verhältnisse dies erlauben;
+- b.[^15-2] …
 - c. Zugang zum Presseraum, sofern am Ort der Verhandlung ein solcher verfügbar ist;
-- d. die Möglichkeit zur Erstellung von Kopien von Unterlagen während der öffentlichen Verhandlungen;
-- e. nicht anonymisierte Dispositive der in öffentlichen Verhandlungen eröffneten Urteile;
+- d.[^15-3] …
+- e.[^15-4] eine nicht anonymisierte Kopie der Dispositive der eröffneten Urteile der Strafkammer und der Berufungskammer, unabhängig davon, ob die Eröffnung mündlich oder schriftlich erfolgt;
 - f. die zur Veröffentlichung vorgesehenen Entscheide;
 - g. den Geschäftsbericht;
 - h. auf Anfrage allfällige weitere Informationen zum Stand des Verfahrens;
-- i. Medienmitteilungen.
+- i. Medienmitteilungen;
+- j.[^15-5] nach vorhergehender Anfrage eine nicht anonymisierte Kopie der Urteile der Strafkammer und der Berufungskammer; diese ist während 30 Tagen nach der Eröffnung und nach Ablauf der Sperrfrist erhältlich.
 
 <sup>2</sup> Der Versand der Entscheide nach Absatz 1 Buchstabe f erfolgt vor deren Veröffentlichung auf der Datenbank; falls nötig wird eine Sperrfrist festgesetzt.
 
@@ -194,7 +199,11 @@ Die akkreditierten Journalistinnen und Journalisten erhalten vom Gericht:
 
 <sup>4</sup> Der Versand erfolgt in der Regel auf elektronischem Weg.
 
-[^15-1]: Fassung gemäss Ziff. I des R des BStGer vom 15. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5563](https://fedlex.data.admin.ch/eli/oc/2015/860)).
+[^15-1]: Fassung gemäss Ziff. I der V des BStGer vom 15. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5563](https://fedlex.data.admin.ch/eli/oc/2015/860)).
+[^15-2]: Aufgehoben durch Ziff. I der V des BStGer vom 29. Juli 2025, mit Wirkung seit 1. Okt. 2025 ([AS 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-3]: Aufgehoben durch Ziff. I der V des BStGer vom 29. Juli 2025, mit Wirkung seit 1. Okt. 2025 ([AS 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-4]: Fassung gemäss Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
+[^15-5]: Eingefügt durch Ziff. I der V des BStGer vom 29. Juli 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 498](https://fedlex.data.admin.ch/eli/oc/2025/498)).
 
 #### Art. 16
 
