@@ -3,11 +3,11 @@ sr: "0.443.917.21"
 title: Accord du 17 mai 2008 entre le Conseil fédéral suisse et le Gouvernement de la Communauté française de Belgique dans le domaine du cinéma (Accord de coproduction entre la Suisse et la Communauté française de Belgique) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/689"
 language: fr
-version: 2008-05-17
+version: 2025-10-01
 adopted: 2008-05-17
 in_force: 2008-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/689/20080517/fr/xml/fedlex-data-admin-ch-eli-cc-2008-689-20080517-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20080517/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/689/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-689-20251001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Conclu le 17 mai 2008
 
 Appliqué provisoirement dès le 17 mai 2008
 
-(Etat le 17 mai 2008)
+(État le 1<sup>er</sup> octobre 2025)
 
 Le Conseil fédéral suisse et le Gouvernement de la Communauté française de Belgique,
 
@@ -44,7 +44,11 @@ sont convenues de ce qui suit:
 
 #### Art. 1
 
-Aux fins du présent Accord, le terme «œuvre cinématographique» désigne les films de toutes durées et sur tous les supports matériels, quel qu’en soit le genre (fictions, animation, documentaires) conformes aux dispositions législatives et réglementaires de chacune des deux Parties et dont la diffusion première a lieu dans les salles de spectacle cinématographique.
+[^1-1]
+
+Aux fins du présent Accord, le terme «œuvre cinématographique» désigne les films de toutes durées et sur tous les supports matériels, quel qu’en soit le genre (fictions, animation, documentaires) et le type d’exploitation, conformes aux dispositions législatives et réglementaires de chacune des deux Parties.
+
+[^1-1]: Nouvelle teneur selon le prot. du 24 avr. 2019, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 ## II. Coproductions
 
@@ -89,9 +93,9 @@ Les autorités compétentes sont:
 
 <sup>(2)</sup> Pour bénéficier des avantages de cet Accord, les entreprises de production doivent répondre aux exigences des dispositions respectives de chacune des parties.
 
-<sup>(3)</sup> Les collaborateurs artistiques et techniques doivent avoir soit la nationalité suisse, soit la nationalité belge ou être ressortissant d’un Etat de l’Union européenne ou de l’Association européenne de libre-échange.
+<sup>(3)</sup> Les collaborateurs artistiques et techniques doivent avoir soit la nationalité suisse, soit la nationalité belge ou être ressortissant d’un État de l’Union européenne ou de l’Association européenne de libre-échange.
 
-<sup>(4)</sup> Les ressortissants d’Etats autres que ceux mentionnés à l’al. 3 justifiant de la qualité de résident en Suisse ou en Belgique sont, pour l’application de l’al. 3, assimilés aux ressortissants suisses et belges.
+<sup>(4)</sup> Les ressortissants d’États autres que ceux mentionnés à l’al. 3 justifiant de la qualité de résident en Suisse ou en Belgique sont, pour l’application de l’al. 3, assimilés aux ressortissants suisses et belges.
 
 <sup>(5)</sup> Les autorités compétentes des deux Parties peuvent, d’un commun accord, autoriser des exceptions pour des collaborateurs en provenance d’autres pays.
 
@@ -125,21 +129,29 @@ La participation du coproducteur minoritaire doit comporter au minimum en tout �
 
 #### Art. 7
 
-**Droits sur l’œuvre cinématographique**
+**Propriété de l’œuvre cinématographique et archivage[^7-1]**
 
 <sup>(1)</sup> Chaque coproducteur est codétenteur des éléments matériels et immatériels de l’œuvre cinématographique.
 
 <sup>(2)</sup> Le matériel est déposé, aux noms conjoints des producteurs, dans un laboratoire choisi d’un commun accord.
 
+<sup>(3)</sup> La législation nationale relative au droit d’auteur des deux Parties est réservée.[^7-2]
+
+<sup>(4)</sup> Les Parties s’engagent à déployer tous les efforts nécessaires pour que les œuvres reconnues dans le cadre de cet accord soient déposées dans les archives nationales des deux Parties.[^7-3]
+
+[^7-1]: Nouvelle teneur selon le prot. du 24 avr. 2019, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+[^7-2]: Introduit par le prot. du 24 avr. 2019, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+[^7-3]: Introduit par le prot. du 24 avr. 2019, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+
 #### Art. 8
 
-**Circulation des œuvres et des personnes**
+[^8-1]
 
-Sous réserve de la législation et de la réglementation en vigueur, toutes facilités sont accordées pour la circulation et le séjour du personnel artistique et technique collaborant à la production de ces films ainsi que pour l’importation ou l’exportation dans le territoire de chacune des Parties du matériel nécessaire à la réalisation et à l’exploitation des films de coproduction (pellicule, matériel technique, costumes, éléments de décors, matériels de publicité, etc.).
+[^8-1]: Abrogé par le prot. du 24 avr. 2019, avec effet au 1<sup>er</sup> oct. 2025 ([RO 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 #### Art. 9
 
-**Equilibre entre les coproductions**
+**Équilibre entre les coproductions**
 
 <sup>(1)</sup> Un équilibre général doit être réalisé entre les Parties tant en ce qui concerne les apports artistiques et techniques que les apports financiers; tous les deux ans, cet équilibre est apprécié par la Commission mixte prévue à l’art. 14.
 
@@ -174,7 +186,7 @@ L’analyse de l’équilibre général se fait notamment:
 
 **Coproductions multilatérales**
 
-<sup>(1)</sup> Les autorités compétentes des deux Parties acceptent que les œuvres cinématographiques au bénéfice de l’Accord puissent être produites par un ou plusieurs producteurs en provenance d’Etats avec lesquels la Suisse ou la Communauté française de Belgique ont conclu un accord de coproduction dans le domaine du cinéma.
+<sup>(1)</sup> Les autorités compétentes des deux Parties acceptent que les œuvres cinématographiques au bénéfice de l’Accord puissent être produites par un ou plusieurs producteurs en provenance d’États avec lesquels la Suisse ou la Communauté française de Belgique ont conclu un accord de coproduction dans le domaine du cinéma.
 
 <sup>(2)</sup> Les conditions d’admission de telles œuvres cinématographiques doivent être examinées au cas par cas.
 
@@ -182,9 +194,11 @@ L’analyse de l’équilibre général se fait notamment:
 
 #### Art. 13
 
-<sup>(1)</sup> Les autorités compétentes des deux Parties reconnaissent la nécessité de promouvoir la diversité culturelle en facilitant la reconnaissance réciproque de leurs créations cinématographiques, notamment par le biais de programmes d’éducation à l’image ou de participation à des festivals de films.
+<sup>(1)</sup> Les autorités compétentes des deux Parties reconnaissent la nécessité de promouvoir la diversité culturelle en facilitant la reconnaissance réciproque de leurs créations cinématographiques, notamment par le biais de participation à des festivals de films.[^13-1]
 
 <sup>(2)</sup> Elles examinent les moyens propres à favoriser la distribution et la promotion réciproques des œuvres cinématographiques de chacune des deux Parties.
+
+[^13-1]: Nouvelle teneur selon le prot. du 24 avr. 2019, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 ## IV. Commission mixte
 
@@ -239,24 +253,27 @@ Annexe 1
 
 (6) L’admission d’une œuvre cinématographique en tant que coproduction peut être assortie de conditions et charges garantissant le respect des dispositions du présent Accord.
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 9)
 
 ## Tableau récapitulatif des aides, financements et investissements en Suisse
 
-### Titre de l’œuvre (Budget part suisse)
+[^t-1]: Mise à jour par le prot. du 24 avr. 2019, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
-### Aides:
+Titre de l’œuvre (Budget part suisse)
+
+Aides:
 
 Aides de la Confédération:
 
 - – aide sélective
 - – aide liée au succès
+- – aide liée au site (PiCS)
 
 Aides régionales et locales
 
-### Financements:
+Financements:
 
 Investissement des services de télévision:
 
@@ -277,9 +294,9 @@ Annexe 3
 
 ## Tableau récapitulatif des aides, financements et investissements en Communauté française de Belgique
 
-### Titre de l’œuvre (Budget part belge)
+Titre de l’œuvre (Budget part belge)
 
-### Aides:
+Aides:
 
 Soutien financier automatique investi:
 
@@ -292,19 +309,19 @@ Soutien financier sélectif à la production:
 
 Aides régionales à la production
 
-### Financements:
+Financements:
 
-Investissement des services de télévision
+Investissement des services de télévision:
 
 - – en coproduction
 - – en préachat
 
 Investissement par des sociétés privées via le mécanisme du Tax shelter
 
-A-valoir minimum garanti salles
+À-valoir minimum garanti salles
 
-A-valoir minimum garanti vidéo
+À-valoir minimum garanti vidéo
 
-A-valoir minimum garanti étranger
+À-valoir minimum garanti étranger
 
 Investissements et participations des producteurs

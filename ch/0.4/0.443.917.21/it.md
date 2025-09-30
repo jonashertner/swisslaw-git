@@ -3,11 +3,11 @@ sr: "0.443.917.21"
 title: Accordo del 17 maggio 2008 tra il Consiglio federale svizzero e il Governo della Comunità francese del Belgio nel settore cinematografico (Accordo di coproduzione tra la Svizzera e la Comunità francese del Belgio) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/689"
 language: it
-version: 2008-05-17
+version: 2025-10-01
 adopted: 2008-05-17
 in_force: 2008-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/689/20080517/it/xml/fedlex-data-admin-ch-eli-cc-2008-689-20080517-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20080517/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/689/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2008-689-20251001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20080517/it"
 
 RU **2008** 4901
 
-Traduzione*[^t-1]*
+Traduzione
 
 (Accordo di coproduzione tra la Svizzera e la Comunità francese del Belgio)
 
 Concluso il 17 maggio 2008 Applicato provvisoriamente dal 17 maggio 2008
 
-(Stato 17 maggio 2008)
-
-[^t-1]: Dal testo originale francese.
+(Stato 1° ottobre 2025)
 
 Il Consiglio federale svizzero e il Governo della Comunità francese del Belgio,
 
@@ -44,7 +42,11 @@ hanno convenuto quanto segue:
 
 #### Art. 1
 
-Ai fini del presente accordo il termine «opera cinematografica» designa opere cinematografiche di qualsiasi durata, su qualsiasi supporto e di qualsiasi genere (fiction, animazione, documentari) conformi alle disposizioni legislative e regolamentari di ciascuna delle due Parti la cui prima diffusione avviene nelle sale cinematografiche.
+[^1-1]
+
+Ai fini del presente accordo il termine «opera cinematografica» designa opere cinematografiche di qualsiasi durata, su qualsiasi supporto, di qualsiasi genere (fiction, animazione, documentari), a prescindere dal tipo di sfruttamento, conformi alle disposizioni legislative e regolamentari di ciascuna delle due Parti.
+
+[^1-1]: Nuovo testo giusta il Prot. del 24 apr. 2019, in vigore dal 1° ott. 2025 ([RU 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 ## II. Coproduzioni
 
@@ -125,17 +127,25 @@ La partecipazione della società di coproduzione minoritaria deve comportare al 
 
 #### Art. 7
 
-**Diritti sull’opera cinematografica**
+**Diritti sull’opera cinematografica e archiviazione[^7-1]**
 
 <sup>(1)</sup> Ogni società di coproduzione è codetentrice degli elementi materiali e immateriali dell’opera cinematografica.
 
 <sup>(2)</sup> Il materiale è depositato a nome di tutte le società di coproduzione in un laboratorio scelto di comune accordo.
 
+<sup>(3)</sup> È fatta salva la legislazione nazionale delle due Parti in materia di diritto d’autore.[^7-2]
+
+<sup>(4)</sup> Le Parti s’impegnano a intraprendere tutti gli sforzi necessari affinché le opere cinematografiche riconosciute in applicazione del presente accordo siano depositate negli archivi nazionali delle due Parti.[^7-3]
+
+[^7-1]: Nuovo testo giusta il Prot. del 24 apr. 2019, in vigore dal 1° ott. 2025 ([RU 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+[^7-2]: Introdotto dal Prot. del 24 apr. 2019, in vigore dal 1° ott. 2025 ([RU 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+[^7-3]: Introdotto dal Prot. del 24 apr. 2019, in vigore dal 1° ott. 2025 ([RU 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+
 #### Art. 8
 
-**Circolazione delle opere e delle persone**
+[^8-1]
 
-Fatte salve le disposizioni legislative e regolamentari vigenti, sono accordate tutte le agevolazioni necessarie per la circolazione e il soggiorno del personale artistico e tecnico che collabora alla produzione dei film nonché per l’importazione e l’esportazione nel territorio di entrambe le Parti del materiale necessario alla realizzazione e allo sfruttamento commerciale delle coproduzioni cinematografiche (pellicola, materiale tecnico, costumi, decorazioni, materiale pubblicitario ecc.).
+[^8-1]: Abrogato dal Prot. del 24 apr. 2019, con effetto dal 1° ott. 2025 ([RU 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 #### Art. 9
 
@@ -182,9 +192,11 @@ L’analisi dell’equilibrio generale è effettuata in particolare:
 
 #### Art. 13
 
-<sup>(1)</sup> Le autorità competenti delle due Parti riconoscono la necessità di promuovere la diversità culturale agevolando il reciproco riconoscimento delle rispettive cinematografie, in particolare mediante programmi d’educazione all’immagine o la partecipazione a festival cinematografici.
+<sup>(1)</sup> Le autorità competenti delle due Parti riconoscono la necessità di promuovere la diversità culturale agevolando il reciproco riconoscimento delle rispettive cinematografie, in particolare mediante la partecipazione a festival cinematografici.[^13-1]
 
 <sup>(2)</sup> Esse valutano i mezzi in grado di favorire la distribuzione e la promozione reciproche delle opere cinematografiche di ciascuna delle due Parti.
+
+[^13-1]: Nuovo testo giusta il Prot. del 24 apr. 2019, in vigore dal 1° ott. 2025 ([RU 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 ## IV. Commissione mista
 
@@ -239,13 +251,15 @@ Allegato 1
 
 (6) L’ammissione di un’opera cinematografica in quanto coproduzione può essere corredata di oneri e condizioni volti a garantire il rispetto delle disposizioni del presente Accordo.
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 9)
 
 ## Tabella riassuntiva degli aiuti, dei finanziamenti e degli investimenti in Svizzera
 
-### Titolo dell’opera (preventivo della parte svizzera)
+[^t-1]: Aggiornato dal Prot. del 24 apr. 2019, in vigore dal 1° ott. 2025 ([RU 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+
+Titolo dell’opera (preventivo della parte svizzera)
 
 Aiuti:
 
@@ -253,6 +267,7 @@ Aiuti della Confederazione:
 
 - – Aiuto selettivo
 - – Aiuto legato al successo
+- – Aiuto legato alla sede di produzione (PICS)
 
 Aiuti regionali e locali
 
@@ -277,7 +292,7 @@ Allegato 3
 
 ## Tabella riassuntiva degli aiuti, dei finanziamenti e degli investimenti nella Comunità francese del Belgio
 
-### Titolo dell’opera (preventivo della parte belga)
+Titolo dell’opera (preventivo della parte belga)
 
 Aiuti:
 

@@ -3,11 +3,11 @@ sr: "0.443.917.21"
 title: Abkommen vom 17. Mai 2008 zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Gemeinschaft Belgiens auf dem Gebiet des Films (Koproduktionsabkommen zwischen der Schweiz und der Französischen Gemeinschaft Belgiens) (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/689"
 language: de
-version: 2008-05-17
+version: 2025-10-01
 adopted: 2008-05-17
 in_force: 2008-05-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/689/20080517/de/xml/fedlex-data-admin-ch-eli-cc-2008-689-20080517-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20080517/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/689/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2008-689-20251001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/689/20080517/de"
 
 AS **2008** 4901
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 (Koproduktionsabkommen zwischen der Schweiz und der Französischen Gemeinschaft Belgiens)
 
@@ -24,9 +24,7 @@ Abgeschlossen am 17. Mai 2008
 
 Provisorisch angewendet ab 17. Mai 2008
 
-(Stand am 17. Mai 2008)
-
-[^t-1]: Übersetzung des französischen Originaltexts.
+(Stand am 1. Oktober 2025)
 
 Der Schweizerische Bundesrat und die Regierung der Französischen Gemeinschaft Belgiens
 
@@ -46,7 +44,11 @@ in Erwägung der ausschliesslichen Kompetenz der Gemeinschaften im Bereich Film 
 
 #### Art. 1
 
-Der Begriff «Film» bezeichnet im Sinne dieses Abkommens Filme jeglicher Länge auf jeglichen Trägern und jeglicher Sparten (Spiel-, Animations- und Dokumentarfilme), die den Rechts- und Verwaltungsvorschriften beider Vertragsparteien entsprechen und deren Erstaufführung im Kino stattfindet.
+[^1-1]
+
+Der Begriff «Film» bezeichnet im Sinne dieses Abkommens Filme jeglicher Länge auf jeglichen Trägern und jeglicher Sparten (Spiel-, Animations- und Dokumentarfilme) unabhängig von ihrer Verwertungsart, die den Rechts- und Verwaltungsvorschriften beider Vertragsparteien entsprechen.
+
+[^1-1]: Fassung gemäss Prot. vom 24. April 2019, in Kraft seit 1. Okt. 2025 ([AS 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 ## II. Koproduktionen
 
@@ -127,17 +129,25 @@ Die Beteiligung des Koproduktionsunternehmens mit Minderheitsbeteiligung umfasst
 
 #### Art. 7
 
-**Rechte an den Filmen**
+**Rechte an den Filmen und Archivierung[^7-1]**
 
 <sup>(1)</sup> Jedes Koproduktionsunternehmen ist Mitinhaber der materiellen und immateriellen Elemente des Films.
 
 <sup>(2)</sup> Das Material wird im gemeinsamen Namen der Koproduktionsunternehmen in einem gemeinsam bestimmten Labor hinterlegt.
 
+<sup>(3)</sup> Die nationale Gesetzgebung betreffend Urheberrecht beider Parteien bleibt vorbehalten.[^7-2]
+
+<sup>(4)</sup> Die Vertragsparteien verpflichten sich, alle Anstrengungen zu unternehmen, um sicherzustellen, dass die nach diesem Übereinkommen anerkannten Werke in den nationalen Archiven beider Vertragsparteien hinterlegt werden.[^7-3]
+
+[^7-1]: Fassung gemäss Prot. vom 24. April 2019, in Kraft seit 1. Okt. 2025 ([AS 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+[^7-2]: Eingefügt durch Prot. vom 24. April 2019, in Kraft seit 1. Okt. 2025 ([AS 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+[^7-3]: Eingefügt durch Prot. vom 24. April 2019, in Kraft seit 1. Okt. 2025 ([AS 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
+
 #### Art. 8
 
-**Verkehr von Personen und Gütern**
+[^8-1]
 
-Unter Vorbehalt der geltenden Rechts- und Verwaltungsvorschriften werden alle Erleichterungen gewährt für den Verkehr und den Aufenthalt des an der Produktion dieser Filme beteiligten künstlerischen und technischen Personals sowie für die Ein- oder Ausfuhr des für die Herstellung und Auswertung der koproduzierten Filme notwendigen Materials (Filmmaterial, technisches Material, Kostüme, Dekorteile, Werbematerial usw.) in jede und aus jeder Vertragspartei.
+[^8-1]: Aufgehoben durch Prot. vom 24. April 2019, mit Wirkung seit 1. Okt. 2025 ([AS 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 #### Art. 9
 
@@ -184,9 +194,11 @@ Die Analyse des allgemeinen Gleichgewichts erfolgt insbesondere:
 
 #### Art. 13
 
-<sup>(1)</sup> Die zuständigen Behörden der Vertragsparteien anerkennen die Notwendigkeit, die kulturelle Vielfalt zu fördern, indem sie die gegenseitige Anerkennung ihres Filmschaffens erleichtern, insbesondere durch Programme für die Ausbildung im Umgang mit Bildmedien oder durch die Teilnahme an Filmfestivals.
+<sup>(1)</sup> Die zuständigen Behörden der Vertragsparteien anerkennen die Notwendigkeit, die kulturelle Vielfalt zu fördern, indem sie die gegenseitige Anerkennung ihres Filmschaffens erleichtern, insbesondere durch die Teilnahme an Filmfestivals.[^13-1]
 
 <sup>(2)</sup> Sie prüfen geeignete Mittel zur Unterstützung des gegenseitigen Verleihs und der gegenseitigen Förderung der Filme jeder Vertragspartei.
+
+[^13-1]: Fassung gemäss Prot. vom 24. April 2019, in Kraft seit 1. Okt. 2025 ([AS 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 ## IV. Gemischte Kommission
 
@@ -241,11 +253,13 @@ Anhang 1
 
 (6) Die Zulassung eines Films als Koproduktion kann mit Bedingungen und Auflagen verbunden werden, die sicherstellen, dass die Bestimmungen dieses Abkommens eingehalten werden.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 9)
 
 ## Zusammenstellung der Unterstützungen, Finanzierungen und Investitionen in der Schweiz
+
+[^t-1]: Bereinigt gemäss Prot. vom 24. April 2019, in Kraft seit 1. Okt. 2025 ([AS 2025 561](https://fedlex.data.admin.ch/eli/oc/2025/561)).
 
 Filmtitel (Budget schweizerische Seite)
 
@@ -255,6 +269,7 @@ Bundesförderung:
 
 - – Selektive Filmförderung
 - – Erfolgsabhängige Filmförderung
+- – Filmstandortförderung Schweiz (FiSS).
 
 Regionale und lokale Förderung
 
