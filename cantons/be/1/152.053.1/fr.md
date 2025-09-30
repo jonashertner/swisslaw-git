@@ -4,13 +4,12 @@ number: "152.053.1"
 title: "Ordonnance de Direction sur les droits d'accès aux fichiers centralisés de données personnelles délivrés par la Direction des finances"
 short: FDP OD FIN
 language: fr
-version: 2021-10-01
-valid_until: 2025-09-30
-version_adopted: 2021-08-13
+version: 2025-10-01
+version_adopted: 2025-08-14
 adopted: 2021-08-13
 in_force: 2021-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.053.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2643/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3240/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2643/pdf_file"
 
 (FDP OD FIN)
 
-du 13.08.2021 (état au 01.10.2021)
+du 13.08.2021 (état au 01.10.2025)
 
 La Direction des finances du canton de Berne,
 

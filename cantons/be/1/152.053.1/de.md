@@ -4,13 +4,12 @@ number: "152.053.1"
 title: Direktionsverordnung über die Berechtigungen der Finanzdirektion für die zentralen Personendatensammlungen
 short: PDS DV FIN
 language: de
-version: 2021-10-01
-valid_until: 2025-09-30
-version_adopted: 2021-08-13
+version: 2025-10-01
+version_adopted: 2025-08-14
 adopted: 2021-08-13
 in_force: 2021-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.053.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2643/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3240/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2643/pdf_file"
 
 (PDS DV FIN)
 
-vom 13.08.2021 (Stand 01.10.2021)
+vom 13.08.2021 (Stand 01.10.2025)
 
 Die Finanzdirektion des Kantons Bern,
 
