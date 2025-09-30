@@ -3,20 +3,19 @@ canton: VS
 number: "211.612"
 title: Ordonnance sur la tenue du registre foncier informatisé
 language: fr
-version: 2024-03-01
-valid_until: 2025-09-30
-version_adopted: 2024-02-07
+version: 2025-10-01
+version_adopted: 2025-09-24
 adopted: 2012-10-17
 in_force: 2013-02-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.612"
-pdf: "https://lex.vs.ch/api/fr/versions/3291/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3519/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la tenue du registre foncier informatisé
 
-du 17.10.2012 (état 01.03.2024)
+du 17.10.2012 (état 01.10.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -135,7 +134,7 @@ ordonne:
 
 <sup>2</sup> Les utilisateurs ont l’obligation de conclure avec le service une convention qui règle les détails, notamment le cercle des bénéficiaires du droit d’accès et, cas échéant, les droits octroyés ou données qui sont rendues accessibles à ces personnes.
 
-<sup>3</sup> Les requêtes électroniques peuvent être transmises aux registres fonciers, conformément à l'article 40 alinéa 1 ORF, par l'intermédiaire de plateformes de messagerie, au sens des articles 2 et 4 OCEl-PCPP, ou par l’intermédiaire des pages Internet de la Confédération ou du Canton.
+<sup>3</sup> Les requêtes électroniques peuvent être transmises aux registres fonciers: soit conformément à l'article 40 alinéa 1 ORF, par l'intermédiaire de plateformes de messagerie, au sens des articles 2 et 4 de l'ordonnance sur la communication électronique dans le cadre de procédures civiles et pénales et de procédures en matière de poursuite pour dettes et de faillite (OCEl-PCPP), ou par l’intermédiaire des pages Internet de la Confédération ou du Canton; soit conformément à l'article 40 alinéa 2 ORF selon les règlements édictés par le Département fédéral de justice et police (DFJP).
 
 #### Art. 7d
 
@@ -248,11 +247,11 @@ ordonne:
 <table>
 <tr><th></th><th>Groupe</th><th>Canton</th><th>Suisse</th></tr>
 <tr><td>A</td><td>Personnes habilitées à dresser des actes authentiques et leurs auxiliaires</td><td>R6 avec D26 à D29</td><td>R1\*</td></tr>
-<tr><td>B</td><td>Ingénieurs géomètres inscrits au registre des géomètres et leurs auxiliaires</td><td>R1 ou R2 (limité à des travaux spécifiques : R5\*)</td><td>R0</td></tr>
+<tr><td>B</td><td>Ingénieurs géomètres inscrits au registre des géomètres et leurs auxiliaires</td><td>R1 ou R2 (limité à des travaux spécifiques : R5\*), avec D29 pour les ingénieurs géomètres (à l'exception des auxiliaires)</td><td>R0</td></tr>
 <tr><td>C</td><td>Autorités cantonales</td><td>R0 à R6 avec D24 à D29\*</td><td>idem</td></tr>
 <tr><td>D</td><td>Autorités communales</td><td>R0 à R6 avec D24 à D29 (limité au territoire de la commune concernée)\*</td><td>R0</td></tr>
 <tr><td>D1</td><td>Teneurs de registre</td><td>R1 ou R3 avec D26 à D28b (limité au territoire de la commune concernée)</td><td>R0</td></tr>
-<tr><td>E</td><td>Avocats inscrits au registre des avocats</td><td>R1</td><td>R0</td></tr>
+<tr><td>E</td><td>Avocats inscrits au registre des avocats</td><td>R5</td><td>R0</td></tr>
 <tr><td>F</td><td>Autorités fédérales</td><td>R0 à R6 avec D24 à D29\*</td><td>idem</td></tr>
 <tr><td>G-L</td><td>Banques, Société suisse de crédit hôtelier, Caisses de pension, Assurances, Institutions reconnues selon l’article 76 alinéa 1 lettre a LDFR</td><td>R1, R2 ou R5\*</td><td>idem</td></tr>
 <tr><td>M1</td><td>Propriétaires déterminés</td><td>R0, R1 ou/à R6 avec D24 et D29\*/\*\*</td><td>R0</td></tr>

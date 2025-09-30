@@ -3,20 +3,19 @@ canton: VS
 number: "211.612"
 title: Verordnung über die Führung des informatisierten Grundbuchs
 language: de
-version: 2024-03-01
-valid_until: 2025-09-30
-version_adopted: 2024-02-07
+version: 2025-10-01
+version_adopted: 2025-09-24
 adopted: 2012-10-17
 in_force: 2013-02-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.612"
-pdf: "https://lex.vs.ch/api/de/versions/3291/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3519/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Führung des informatisierten Grundbuchs
 
-vom 17.10.2012 (Stand 01.03.2024)
+vom 17.10.2012 (Stand 01.10.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -135,7 +134,7 @@ verordnet:
 
 <sup>2</sup> Die Benutzer sind verpflichtet, mit der Dienststelle eine Vereinbarung abzuschliessen, in der die Einzelheiten geregelt sind, insbesondere der Kreis der Begünstigten des Zugangsrechts und gegebenenfalls die gewährten Rechte oder Daten, die ihnen zugänglich gemacht werden.
 
-<sup>3</sup> Elektronische Eingaben an die Grundbuchämter können, gemäss Artikel 40 Absatz 1 GBV, über die Zustellplattformen nach den Artikeln 2 und 4 VeÜ-ZSSV oder über die Internetseiten des Bundes oder des Kantons erfolgen.
+<sup>3</sup> Elektronische Eingaben an die Grundbuchämter können erfolgen: entweder gemäss Artikel 40 Absatz 1 GBV, über die Zustellplattformen nach den Artikeln 2 und 4 der Verordnung über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (VeÜ-ZSSV) oder über die Internetseiten des Bundes oder des Kantons; oder nach Artikel 40 Absatz 2 GBV gemäss den vom Eidgenössischen Justiz- und Polizeideartement (EJPD) erlassenen Reglementen.
 
 #### Art. 7d
 
@@ -248,11 +247,11 @@ verordnet:
 <table>
 <tr><th></th><th>Gruppe</th><th>Kanton</th><th>Schweiz</th></tr>
 <tr><td>A</td><td>Personen, die befugt sind, öffentliche Urkunden zu erstellen und ihre Hilfspersonen</td><td>R6 mit RE26 bis RE29</td><td>R1\*</td></tr>
-<tr><td>B</td><td>Im Geometerregister eingetragene Ingenieur-Geometer und ihre Hilfspersonen</td><td>R1 oder R2 (auf bestimmte Aufgaben beschränkt: R5\*)</td><td>R0</td></tr>
+<tr><td>B</td><td>Im Geometerregister eingetragene Ingenieur-Geometer und ihre Hilfspersonen</td><td>R1 oder R2 (auf bestimmte Aufgaben beschränkt: R5\*), mit RE29 für Ingenieur-Geometer (ohne Hilfspersonen)</td><td>R0</td></tr>
 <tr><td>C</td><td>Kantonale Behörden</td><td>R0 bis R6 mit RE24 bis RE29\*</td><td>idem</td></tr>
 <tr><td>D</td><td>Kommunale Behörden</td><td>R0 bis R6 mit RE24 bis RE29 (begrenzt auf das Gebiet der betroffenen Gemeinde)\*</td><td>R0</td></tr>
 <tr><td>D1</td><td>Registerhalter</td><td>R1 oder R3 mit RE26 bis RE28b (begrenzt auf das Gebiet der betroffenen Gemeinde)</td><td>R0</td></tr>
-<tr><td>E</td><td>Im Anwaltsregister eingetragene Anwälte</td><td>R1</td><td>R0</td></tr>
+<tr><td>E</td><td>Im Anwaltsregister eingetragene Anwälte</td><td>R5</td><td>R0</td></tr>
 <tr><td>F</td><td>Bundesbehörden</td><td>R0 bis R6 mit RE24 bis RE29\*</td><td>idem</td></tr>
 <tr><td>G-L</td><td>Banken, Schweizerische Gesellschaft für Hotelkredit, Pensionskassen, Versicherungen, Anerkannte Institutionen nach Artikel 76 Absatz 1 Buchstabe a BGBB</td><td>R1, R2 oder R5\*</td><td>idem</td></tr>
 <tr><td>M1</td><td>Bestimmte Eigentümer</td><td>R0, R1 oder/bis R6 mit RE24 und RE29\*/\*\*</td><td>R0</td></tr>
