@@ -4,13 +4,13 @@ number: "210.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EG ZGB
 language: de
-version: 2022-06-01
-valid_until: 2025-09-30
-version_adopted: 2022-02-16
+version: 2025-10-01
+valid_until: 2027-12-31
+version_adopted: 2025-04-02
 adopted: 1991-07-03
 in_force: 1992-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/210.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2541/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2946/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ EG ZGB[^t-1]
 
 (EG ZGB)
 
-vom 03.07.1991 (Stand 01.06.2022)
+vom 03.07.1991 (Stand 01.10.2025)
 
 [^t-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -210,6 +210,18 @@ vom 03.07.1991 (Stand 01.06.2022)
 
 [^11c-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 [^11c-2]: SR [211.222.32](https://db.clex.ch/link/Bund/211.222.32/de)
+
+#### § 11d
+
+**Klageinstanzen nach Art. 454 ZGB**
+
+<sup>1</sup> Das Bezirksgericht am Sitz des vormundschaftlichen Organs beurteilt Klagen aus Verantwortlichkeit wegen widerrechtlichen Handelns oder Unterlassens der Beiständinnen und Beistände, der Berufsbeistandschaften und der Kindes- und Erwachsenenschutzbehörden.
+
+<sup>2</sup> Die Zuständigkeit für die Beurteilung von Klagen aus Verantwortlichkeit wegen widerrechtlichen Verhaltens des Obergerichts richtet sich nach dem Gesetz über die Verantwortlichkeit (Verantwortlichkeitsgesetz)[^11d-1], wobei das Verwaltungsgericht als erste Instanz und in anderer Zusammensetzung als Rechtsmittelinstanz entscheidet.
+
+<sup>3</sup> Für das Verfahren finden die Bestimmungen der ZPO Anwendung.
+
+[^11d-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
 
 #### § 12
 
