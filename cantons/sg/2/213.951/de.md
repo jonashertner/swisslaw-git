@@ -3,20 +3,19 @@ canton: SG
 number: "213.951"
 title: Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 language: de
-version: 2025-08-01
-corrected: 2025-09-30
-version_adopted: 2026-09-01
+version: 2025-10-01
+version_adopted: 2025-09-09
 adopted: 2015-02-03
 in_force: 2015-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.951"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3765/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3933/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
 
-vom 03.02.2015 (Stand 01.08.2025)
+vom 03.02.2015 (Stand 01.10.2025)
 
 Die Regierung des Kantons St.Gallen erlässt
 
@@ -242,9 +241,13 @@ als Verordnung:[^ingress-2]
 
 #### Art. 20a
 
+**…**
+
+#### Art. 20b
+
 **Bereitstellung von zusätzlichen Sonderschulplätzen**
 
-<sup>1</sup> Erfordert die Nachfrage die Bereitstellung von zusätzlichen Sonderschulplätzen, kann der Kanton der Sonderschule zusätzlich zu den Pauschalen nach Art. [22](https://www.gesetzessammlung.sg.ch/data/213.951/de/art22) dieses Erlasses einmalig die zur Gewährleistung eines ausreichenden Grundschulunterrichts pädagogisch und betrieblich nötigen Anschaffungen vergüten.
+<sup>1</sup> Erfordert die Nachfrage die Bereitstellung von zusätzlichen Sonderschulplätzen, kann der Kanton der Sonderschule zusätzlich zu den Pauschalen nach [Art. 22](https://www.gesetzessammlung.sg.ch/data/213.951/de/art22) dieses Erlasses einmalig die zur Gewährleistung eines ausreichenden Grundschulunterrichts pädagogisch und betrieblich nötigen Anschaffungen vergüten.
 
 <sup>2</sup> Ein Beitrag des Kantons an die Anschaffungen nach Abs. 1 dieser Bestimmung setzt voraus, dass der Betriebsfonds der Sonderschule in der Bilanz der letzten Jahresrechnung zehn Prozent des kumulierten Betrags aus den Pauschalen Schule, Wohnen und Transport des vorangegangenen Kalenderjahres unterschreitet.
 
@@ -254,7 +257,7 @@ als Verordnung:[^ingress-2]
 
 - a) Grobkonzept für die Kapazitätserweiterung;
 - b) Bezeichnung der pädagogisch und betrieblich nötigen Anschaffungen;
-- c) Kostenvoranschlag für die geplanten Anschaffungen.
+- c) c) Kostenvoranschlag für die geplanten Anschaffungen.
 
 #### Art. 21
 
@@ -274,7 +277,7 @@ als Verordnung:[^ingress-2]
 
 **Arten**
 
-<sup>1</sup> Die Leistungen der Sonderschule werden mit den Pauschalen Schule, Wohnen, Transport und Infrastruktur abgegolten.
+<sup>1</sup> Die Leistungen der Sonderschule werden mit den Pauschalen Schule, Wohnen, Transport, Infrastruktur Instandsetzung und Infrastruktur Erweiterung abgegolten.
 
 #### Art. 23
 
@@ -292,9 +295,15 @@ als Verordnung:[^ingress-2]
 
 #### Art. 24
 
-**b) Pauschale Infrastruktur**
+**b) Pauschale Infrastruktur Instandsetzung**
 
-<sup>1</sup> Das Bildungsdepartement legt die Pauschale Infrastruktur für die Sonderschule aufgrund einer statistischen Erhebung der Instandhaltungs- und Instandsetzungskosten fest. Die Pauschale Infrastruktur wird in der Regel nach zehn Jahren aktualisiert.
+<sup>1</sup> Das Bildungsdepartement legt die Pauschale Infrastruktur Instandsetzung für die Sonderschule aufgrund einer statistischen Erhebung der Instandhaltungs- und Instandsetzungskosten fest. Die Pauschale Infrastruktur Instandsetzung wird in der Regel nach zehn Jahren aktualisiert.
+
+#### Art. 24a
+
+**c) Pauschale Infrastruktur Erweiterung**
+
+<sup>1</sup> Das Bildungsdepartement kann der Sonderschule eine Pauschale zur Deckung der Amortisation und Verzinsung des Fremdkapitals für den Kauf einer Liegenschaft oder für einen Ersatz- oder Neubau ausrichten, wenn ein Bedarf im Raumprogramm ausgewiesen und seine Deckung zur Erfüllung der Leistungsvereinbarung notwendig ist.
 
 #### Art. 25
 
@@ -341,11 +350,21 @@ als Verordnung:[^ingress-2]
 
 #### Art. 28
 
-**d) Pauschale Infrastruktur**
+**d) Pauschale Infrastruktur Instandsetzung**
 
-<sup>1</sup> Die Pauschale Infrastruktur wird zur Instandhaltung und Instandsetzung der betriebsnotwendigen Infrastruktur ausgerichtet.
+<sup>1</sup> Die Pauschale Infrastruktur Instandsetzung wird zur Instandhaltung und Instandsetzung der betriebsnotwendigen Infrastruktur ausgerichtet.
 
-<sup>2</sup> Sie wird jährlich ausgerichtet.
+<sup>1<sup>bis</sup></sup> Notwendige Anpassungen der Infrastruktur können im begründeten Einzelfall dem Bildungsdepartement als ausserordentliche Instandsetzung beantragt werden.
+
+<sup>2</sup> Die Pauschale Infrastruktur Instandsetzung wird jährlich ausgerichtet.
+
+#### Art. 28a
+
+**e) Pauschale Infrastruktur Erweiterung**
+
+<sup>1</sup> Die Pauschale Infrastruktur Erweiterung wird während höchstens 25 Jahren jährlich ausgerichtet.
+
+<sup>2</sup> Das Bildungsdepartement kürzt die Pauschale Infrastruktur Erweiterung, soweit die erstellte Infrastruktur nicht mehr betriebsnotwendig ist.
 
 #### Art. 29
 
@@ -355,7 +374,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Bei den Personalkosten gelten die Gehaltsansätze nach anwendbarem Personalrecht[^29-1] und Sonderpädagogik-Konzept als zweckgebunden.
 
-<sup>3</sup> Die Pauschale Infrastruktur wird nicht verwendet für:
+<sup>3</sup> Die Pauschale Infrastruktur Instandsetzung wird nicht verwendet für:
 
 - a) kapazitätserweiternde Investitionen, die nicht durch die Leistungsvereinbarung gedeckt sind;
 - b) Investitionen, die nicht betriebsnotwendig sind.
@@ -411,18 +430,18 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Dem Infrastrukturfonds werden zugewiesen:
 
-- a) die Mittel aus der Pauschale Infrastruktur für die Instandsetzung;
+- a) die Mittel aus der Pauschale Infrastruktur Instandsetzung für die Instandsetzung;
 - b) der Erlös aus der Veräusserung von Immobilien, die ganz oder teilweise durch den Kanton finanziert wurden.
 
 <sup>2</sup> Die Verwendung der Mittel aus dem Infrastrukturfonds richtet sich nach Art. 29 und 30 dieses Erlasses.
 
-<sup>3</sup> Erreicht der Fonds das Fünffache der jährlichen Pauschale Infrastruktur, werden nicht verwendete Mittel aus der Pauschale Infrastruktur und Erlöse aus der Veräusserung von Immobilien, die ganz oder teilweise durch den Kanton finanziert wurden, dem Kanton zurückerstattet.
+<sup>3</sup> Erreicht der Fonds das Fünffache der jährlichen Pauschale Infrastruktur Instandsetzung, werden nicht verwendete Mittel aus der Pauschale Infrastruktur Instandsetzung und Erlöse aus der Veräusserung von Immobilien, die ganz oder teilweise durch den Kanton finanziert wurden, dem Kanton zurückerstattet.
 
 #### Art. 35
 
 **Ersatzinvestitionen**
 
-<sup>1</sup> Ersatzinvestitionen, die durch die Pauschale Infrastruktur oder den Infrastrukturfonds finanziert werden und den Betrag von Fr. 100 000.– je Objekt übersteigen, unterliegen der Genehmigung des Bildungsdepartementes.
+<sup>1</sup> Ersatzinvestitionen, die durch die Pauschale Infrastruktur Instandsetzung oder den Infrastrukturfonds finanziert werden und den Betrag von Fr. 100 000.– je Objekt übersteigen, unterliegen der Genehmigung des Bildungsdepartementes.
 
 <sup>2</sup> Das Bildungsdepartement prüft unter Beizug des Bau- und Umweltdepartementes die Betriebsnotwendigkeit und Zweckmässigkeit der Ersatzinvestitionen. Es verfügt Anpassungen am Bauprojekt, soweit dies zur Erfüllung der Leistungsvereinbarung nötig ist.
 
@@ -432,7 +451,7 @@ als Verordnung:[^ingress-2]
 
 **Darlehen**
 
-<sup>1</sup> Der Kanton kann der Trägerschaft Darlehen für die Instandsetzung der betriebsnotwendigen Infrastruktur gewähren.
+<sup>1</sup> Der Kanton kann der Trägerschaft Darlehen für die Instandsetzung und Erstellung der betriebsnotwendigen Infrastruktur gewähren.
 
 <sup>2</sup> Die Darlehen werden gesichert und innerhalb einer festgelegten Laufzeit in jährlichen Teilbeträgen zuzüglich eines marktüblichen Zinses zurückbezahlt.
 
