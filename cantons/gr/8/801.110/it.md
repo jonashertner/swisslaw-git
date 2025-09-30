@@ -4,13 +4,12 @@ number: "801.110"
 title: Ordinanza sulla pianificazione territoriale del Cantone dei Grigioni
 short: OPTC
 language: it
-version: 2023-09-01
-valid_until: 2025-09-30
-version_adopted: 2023-08-22
+version: 2025-10-01
+version_adopted: 2025-09-16
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3335/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3570/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3335/pdf_file"
 
 (OPTC)
 
-del 24.05.2005 (stato 01.09.2023)
+del 24.05.2005 (stato 01.10.2025)
 
 emanata dal Governo il 24 maggio 2005
 
@@ -770,6 +769,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 105 del
 
 <sup>1</sup> Una volta terminato l'esame provvisorio, l'autorità edilizia comunale espone pubblicamente la domanda di costruzione, rispettivamente la domanda EFZ, per 20 giorni nel comune. Se il progetto di costruzione richiede un EIA, viene al contempo esposto pubblicamente anche il RIA.
 
+<sup>1<sup>bis</sup></sup> L'esposizione può avvenire in forma elettronica.
+
 <sup>2</sup> L'esposizione della domanda di costruzione viene pubblicata nell'organo di pubblicazione ufficiale del comune. In caso di domande EFZ, domande con EIA, nonché domande con autorizzazioni supplementari che devono essere pubblicate nel Foglio ufficiale cantonale, l'esposizione pubblica deve contemporaneamente essere resa nota anche nel Foglio ufficiale cantonale.
 
 <sup>3</sup> La pubblicazione deve contenere indicazioni riguardo al committente, all'ubicazione del progetto di costruzione, alle zone di utilizzazione e agli inventari federali interessati secondo la legislazione in materia di protezione della natura e del paesaggio, alla durata e al luogo dell'esposizione, nonché alla possibilità d'opposizione.
@@ -891,6 +892,20 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 105 del
 <sup>1</sup> Nella propria richiesta motivata presentata all'atto della trasmissione della domanda al Servizio l'autorità edilizia comunale è autorizzata a richiedere che nell'autorizzazione venga integrata una condizione relativa alla garanzia dei costi per lo smantellamento e il ripristino.
 
 <sup>2</sup> Se l'autorità edilizia comunale avanza una tale richiesta, il Governo integra nella decisione una condizione corrispondente.
+
+#### Art. 51e
+
+**Procedura semplificata**
+
+<sup>1</sup> Modifiche minori di progetti di grandi impianti fotovoltaici già autorizzati secondo il presente capoverso possono essere autorizzate dal Servizio in una procedura semplificata se:
+
+- a) non hanno ripercussioni rilevanti sul territorio e sull'ambiente;
+- b) non richiedono adeguamenti del RIA; e
+- c) non necessitano di un'autorizzazione supplementare cantonale o comunale.
+
+<sup>2</sup> Si rinuncia alle modine e alla visualizzazione nonché all'esposizione pubblica e alla pubblicazione.
+
+<sup>3</sup> Il Servizio concede alle organizzazioni ambientaliste nonché agli opponenti coinvolti nella procedura del progetto autorizzato la presa in visione degli atti nonché la possibilità di prendere posizione in merito alla modifica del progetto entro 20 giorni.
 
 ### 6.3. Coordinamento
 
@@ -1014,7 +1029,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 105 del
 
 <sup>1</sup> Le organizzazioni ambientaliste annunciano per iscritto o in forma elettronica la loro partecipazione alla procedura mediante il modulo di annuncio messo a disposizione dal Servizio.
 
-<sup>2</sup> Il Servizio concede la possibilità alle organizzazioni di prendere visione delle domande e di inoltrare una presa di posizione scritta entro 7 giorni dalla data della presa in visione in caso di domande EFZ ed entro 20 giorni dalla data della presa in visione in caso di misure di pianificazione. Fa stato il timbro postale. Le organizzazioni inseriscono la data della presa in visione degli atti nel modulo di esposizione.
+<sup>2</sup> Il Servizio comunica alle organizzazioni che le domande sono disponibili per la presa in visione. Le organizzazioni hanno la possibilità di presentare una presa di posizione in merito al progetto di costruzione o alla pianificazione entro 20 giorni dalla comunicazione.
 
 <sup>3</sup> Il Servizio può differire la partecipazione delle organizzazioni a un periodo successivo alla disponibilità di eventuali prese di posizione o di autorizzazioni supplementari di autorità specializzate.
 

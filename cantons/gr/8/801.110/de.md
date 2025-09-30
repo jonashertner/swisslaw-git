@@ -4,13 +4,12 @@ number: "801.110"
 title: Raumplanungsverordnung für den Kanton Graubünden
 short: KRVO
 language: de
-version: 2023-09-01
-valid_until: 2025-09-30
-version_adopted: 2023-08-22
+version: 2025-10-01
+version_adopted: 2025-09-16
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3335/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3570/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3335/pdf_file"
 
 (KRVO)
 
-Vom 24.05.2005 (Stand 01.09.2023)
+Vom 24.05.2005 (Stand 01.10.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 105 des Raumplanungsgesetzes[^ingress-2] für den Kanton Graubünden
 
@@ -770,6 +769,8 @@ von der Regierung erlassen am 24. Mai 2005
 
 <sup>1</sup> Nach Abschluss der vorläufigen Prüfung legt die kommunale Baubehörde das Baugesuch beziehungsweise das BAB-Gesuch während 20 Tagen in der Gemeinde öffentlich auf. Erfordert das Bauvorhaben eine UVP, wird gleichzeitig der UVB aufgelegt.
 
+<sup>1<sup>bis</sup></sup> Die Auflage kann in elektronischer Form erfolgen.
+
 <sup>2</sup> Die Auflage des Baugesuchs wird im amtlichen Publikationsorgan der Gemeinde bekannt gegeben. Bei BAB-Gesuchen, Gesuchen mit UVP sowie Gesuchen mit Zusatzbewilligungen, die im Kantonsamtsblatt zu publizieren sind, ist die öffentliche Auflage gleichzeitig auch im Kantonsamtsblatt bekannt zu geben.
 
 <sup>3</sup> Die Publikation hat Angaben über die Bauherrschaft, den Standort des Bauvorhabens, die betroffenen Nutzungszonen und Bundesinventare nach der Natur- und Heimatschutzgesetzgebung, die Auflagezeit, den Auflageort und die Einsprachemöglichkeit zu enthalten.
@@ -891,6 +892,20 @@ von der Regierung erlassen am 24. Mai 2005
 <sup>1</sup> Die kommunale Baubehörde kann in ihrem begründeten Antrag bei der Weiterleitung des Gesuchs an die Fachstelle verlangen, dass in die Bewilligung eine Auflage zur Sicherstellung der Kosten für den Rückbau und die Wiederherstellung aufgenommen wird.
 
 <sup>2</sup> Stellt die kommunale Baubehörde einen solchen Antrag, nimmt die Regierung eine entsprechende Auflage in den Entscheid auf.
+
+#### Art. 51e
+
+**Vereinfachtes Verfahren**
+
+<sup>1</sup> Geringfügige Projektänderungen von bereits nach diesem Abschnitt bewilligten Photovoltaik-Grossanlagen können von der Fachstelle in einem vereinfachten Verfahren bewilligt werden, wenn sie:
+
+- a) keine massgeblichen Auswirkungen auf Raum und Umwelt haben;
+- b) keine Anpassungen des UVB erfordern; und
+- c) keiner kantonalen oder kommunalen Zusatzbewilligung bedürfen.
+
+<sup>2</sup> Auf das Baugespann und die Visualisierung sowie die öffentliche Auflage und Publikation wird verzichtet.
+
+<sup>3</sup> Die Fachstelle gewährt den Umweltorganisationen sowie den am Verfahren des bewilligten Projekts beteiligten Einsprechenden Akteneinsicht sowie die Möglichkeit, innert 20 Tagen zur Projektänderung Stellung zu nehmen.
 
 ### 6.3. Koordination
 
@@ -1014,7 +1029,7 @@ von der Regierung erlassen am 24. Mai 2005
 
 <sup>1</sup> Die Umweltorganisationen melden ihre Beteiligung am Verfahren schriftlich oder elektronisch mittels des von der Fachstelle zur Verfügung gestellten Anmeldeformulars an.
 
-<sup>2</sup> Die Fachstelle gewährt den Organisationen Gelegenheit zur Einsichtnahme in die Gesuche und gibt ihnen die Möglichkeit, bei BAB-Gesuchen innert 7 Tagen und bei Planungen innert 20 Tagen seit dem Datum der Einsichtnahme eine schriftliche Stellungnahme einzureichen. Massgebend ist der Poststempel. Die Organisationen tragen das Datum der Akteneinsicht in das Auflageformular ein.
+<sup>2</sup> Die Fachstelle teilt den Organisationen mit, dass die Gesuche zur Einsicht bereitliegen. Die Organisationen haben Gelegenheit, innert 20 Tagen ab der Mitteilung eine Stellungnahme zum Bauvorhaben oder zur Planung einzureichen.
 
 <sup>3</sup> Die Fachstelle kann die Beteiligung der Organisation auf einen Zeitraum nach Vorliegen allfälliger Stellungnahmen oder Zusatzbewilligungen von Fachbehörden hinausschieben.
 

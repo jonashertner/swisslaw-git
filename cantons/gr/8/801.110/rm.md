@@ -4,13 +4,12 @@ number: "801.110"
 title: Ordinaziun davart la planisaziun dal territori per il chantun Grischun
 short: OPTGR
 language: rm
-version: 2023-09-01
-valid_until: 2025-09-30
-version_adopted: 2023-08-22
+version: 2025-10-01
+version_adopted: 2025-09-16
 adopted: 2005-05-24
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/801.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3335/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3570/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3335/pdf_file"
 
 (OPTGR)
 
-dals 24-05-2005 (versiun dals 01-09-2023)
+dals 24-05-2005 (versiun dals 01-10-2025)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 105 da la lescha davart la planisaziun dal territori[^ingress-2] per il chantun Grischun
 
@@ -770,6 +769,8 @@ relaschada da la regenza ils 24 da matg 2005
 
 <sup>1</sup> Suenter la finiziun da l'examinaziun provisorica expona l'autoritad communala da construcziun publicamain la dumonda da construcziun respectivamain la dumonda EOZ durant 20 dis en la vischnanca. Sch'il project da construcziun basegna ina EE, vegn exponì a medem temp il RCE.
 
+<sup>1<sup>bis</sup></sup> L'exposiziun po vegnir realisada en furma electronica.
+
 <sup>2</sup> L'exposiziun da la dumonda da construcziun vegn publitgada en l'organ da publicaziun uffizial da la vischnanca. En cas da dumondas EOZ, en cas da dumondas cun ina EE sco er en cas da dumondas cun permissiuns supplementaras che ston vegnir publitgadas en il fegl uffizial dal chantun sto l'exposiziun publica vegnir communitgada a medem temp er en il fegl uffizial dal chantun.
 
 <sup>3</sup> La publicaziun sto cuntegnair indicaziuns davart la patruna u davart il patrun da construcziun, davart il lieu dal project da construcziun, davart las zonas d'utilisaziun pertutgadas e davart ils inventaris federals pertutgads tenor la legislaziun da la protecziun da la natira e da la patria, davart la durada da l'exposiziun, davart il lieu d'exposiziun e davart la pussaivladad da far protesta.
@@ -891,6 +892,20 @@ relaschada da la regenza ils 24 da matg 2005
 <sup>1</sup> En il rom da la surdada da la dumonda al post spezialisà po l'autoritad communala da construcziun pretender en sia proposta motivada, che la permissiun cuntegnia ina cundiziun per garantir ils custs da renatiralisaziun e da restabiliment.
 
 <sup>2</sup> Sche l'autoritad communala da construcziun fa ina tala pretensiun, integrescha la Regenza ina cundiziun correspundenta en il conclus.
+
+#### Art. 51e
+
+**Procedura simplifitgada**
+
+<sup>1</sup> Midadas da project minimalas d'implants fotovoltaics gronds gia permess tenor quest chapitel, pon vegnir approvadas dal post spezialisà en ina procedura simplifitgada, sch'ellas:
+
+- a) n'han naginas consequenzas considerablas per il territori e per l'ambient;
+- b) na pretendan naginas adattaziuns dal RCE; e
+- c) na dovran betg ina permissiun supplementara chantunala u communala.
+
+<sup>2</sup> I vegn desistì da la profilaziun e da la visualisaziun sco er da l'exposiziun publica e da la publicaziun.
+
+<sup>3</sup> Il post spezialisà conceda a las organisaziuns da l'ambient sco er a las protestadras ed als protestaders, ch'èn participads a la procedura dal project permess, il dretg da prender invista da las actas sco er la pussaivladad da prender posiziun entaifer 20 dis davart la midada da project.
 
 ### 6.3. Coordinaziun
 
@@ -1014,7 +1029,7 @@ relaschada da la regenza ils 24 da matg 2005
 
 <sup>1</sup> Las organisaziuns da l'ambient annunzian lur participaziun a la procedura en scrit u sin via electronica a maun dal formular d'annunzia ch'il post spezialisà metta a disposiziun.
 
-<sup>2</sup> Il post spezialisà dat a las organisaziuns la pussaivladad da prender invista da las dumondas e las permetta d'inoltrar ina posiziun en scrit tar dumondas EOZ entaifer 7 dis e tar planisaziuns entaifer 20 dis a partir da la data da l'invista. Decisiv è il bul postal. Las organisaziuns inditgeschan sin il formular d'annunzia la data da l'invista da las actas.
+<sup>2</sup> Il post spezialisà communitgescha a las organisaziuns, che las dumondas stettian a disposiziun per prender invista. Suenter la communicaziun han las organisaziuns la pussaivladad d'inoltrar entaifer 20 dis ina posiziun davart il project da construcziun u davart la planisaziun.
 
 <sup>3</sup> Il post spezialisà po spustar la participaziun da las organisaziuns sin in termin suenter l'entrada d'eventualas posiziuns u permissiuns supplementaras d'autoritads spezialisadas.
 
