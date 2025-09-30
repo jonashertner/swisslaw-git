@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordonnance du 16 mars 2007 fixant les droits de douane préférentiels en faveur des pays en développement (Ordonnance sur les préférences tarifaires)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: fr
-version: 2025-04-01
+version: 2025-10-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20250401-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20251001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/fr"
 
 (Ordonnance sur les préférences tarifaires)
 
-du 16 mars 2007 (État le 1<sup>er</sup> avril 2025)
+du 16 mars 2007 (État le 1<sup>er</sup> octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu l’art. 1, al. 1, de la loi du 9 octobre 1981 sur les préférences tarifair
 
 arrête:
 
-[^ingress-1]: [RS 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
+[^ingress-1]: [RS 632.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8065)
 
 #### Art. 1
 
@@ -32,7 +32,7 @@ arrête:
 
 La présente ordonnance régit les préférences tarifaires généralisées en faveur des pays en développement accordées sur les droits de douane de la loi fédérale du 9 octobre 1986 sur le tarif des douanes[^1-1]. Elle fixe le taux des droits de douane et les conditions auxquelles les droits sont abaissés.
 
-[^1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 2
 
@@ -50,7 +50,7 @@ Sont réputés pays en développement au sens de la présente ordonnance les pay
 
 <sup>3</sup> …[^3-2]
 
-[^3-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^3-1]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459). Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^3-2]: Introduit par l’annexe 2 ch. 1 de l’O du 18 nov. 2015 sur la réduction temporaire des droits de douane sur les textiles ([RO 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Abrogé par l’annexe 2 ch. II 6 de l’O du 15 fév. 2023 modifiant le tarif des douanes, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 #### Art. 4
@@ -74,7 +74,7 @@ Sont réputés pays en développement au sens de la présente ordonnance les pay
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2009, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^4-4]: Nouveaux numéros selon le ch. 11 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^4-4]: Nouveaux numéros selon l’annexe 3 ch. 11 de l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 [^4-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
 
 #### Art. 5
@@ -89,7 +89,7 @@ Sont réputés pays en développement au sens de la présente ordonnance les pay
 
 <sup>4</sup> Les préférences tarifaires suspendues en vertu de l’al. 1 sont mentionnées à l’annexe 1.
 
-[^5-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^5-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 6
 
@@ -107,7 +107,7 @@ Sont réputés pays en développement au sens de la présente ordonnance les pay
 
 <sup>2</sup> Le DEFR peut suspendre toutes les préférences tarifaires octroyées à un pays bénéficiaire si celui-ci n’accorde pas sa coopération administrative en matière de contrôle des preuves de l’origine et de lutte contre les pratiques frauduleuses.
 
-[^7-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^7-1]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459). Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 8
 
@@ -121,7 +121,7 @@ Sont réputés pays en développement au sens de la présente ordonnance les pay
 
 <sup>4</sup> Le Conseil fédéral présente un rapport à l’Assemblée fédérale sur les mesures prises au titre de l’al. 1. conformément à l’art. 10, al. 4, de la loi fédérale du 25 juin 1982 sur les mesures économiques extérieures[^8-1].
 
-[^8-1]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^8-1]: [RS 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
 
 #### Art. 9
 
@@ -135,7 +135,7 @@ L’ordonnance du 29 janvier 1997 fixant les droits de douane préférentiels en
 
 [^10-1]
 
-[^10-1]: Abrogé par le ch. 11 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^10-1]: Abrogé par l’annexe 3 ch. 11 de l’O du 22 juin 2011 modifiant le tarif des douanes, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
 
 #### Art. 11
 
@@ -149,7 +149,7 @@ Annexe 1[^t-1]
 
 ## Liste des pays et des territoires en développement
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour par les ch. I de l’O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), les ch. I de l’O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), du 18 sept. 2020 ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 24 sept. 2021 ([RO 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), l’annexe 2 ch. II 6 de l’O du 15 fév. 2023 modifiant le tarif des douanes ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)) et le ch. I de l’O du 14 mars 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour par les ch. I de l’O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), les ch. I de l’O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), du 18 sept. 2020 ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 24 sept. 2021 ([RO 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), l’annexe 2 ch. II 6 de l’O du 15 fév. 2023 modifiant le tarif des douanes ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)), le ch. I des O du 14 mars 2025 ([RO 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)) et du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
 
 Colonne A: Code ISO du pays
 
@@ -206,7 +206,6 @@ Colonne E: Suspension de préférences tarifaires (art. 5, al. 4; art. 2, al. 1 
 <tr><td>GY</td><td>Guyana</td><td></td><td></td><td></td></tr>
 <tr><td>HN</td><td>Honduras</td><td></td><td></td><td></td></tr>
 <tr><td>HT</td><td>Haïti</td><td>X</td><td></td><td></td></tr>
-<tr><td>IN</td><td>Inde</td><td></td><td></td><td></td></tr>
 <tr><td>IQ</td><td>Irak</td><td></td><td></td><td></td></tr>
 <tr><td>IR</td><td>Iran</td><td></td><td></td><td></td></tr>
 <tr><td>JM</td><td>Jamaïque</td><td></td><td></td><td></td></tr>
@@ -289,7 +288,7 @@ Annexe 2[^t-2]
 
 ## Liste des préférences tarifaires
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 25 mars 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Mise à jour par le ch. I al. 2 de l’O du 10 juin 2011 ([RO 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), le ch. 11 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), le ch. 8 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. 5 de l’annexe 2 de l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) et l’annexe 2 ch. II 6 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 25 mars 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Mise à jour par le ch. I al. 2 de l’O du 10 juin 2011 ([RO 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), l’annexe 3 ch. 11 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), l’annexe 3 ch. 8 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. 5 de l’annexe 2 de l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) et l’annexe 2 ch. II 6 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><th>N° du tarif[^annex2-lvlu1-1]</th><th></th><th colspan="2">Taux préférentiel</th><th></th><th>Contingents tarifaires; dispositions particulières</th></tr>
@@ -544,7 +543,7 @@ Annexe 2[^t-2]
 <tr><td>0808.10 11</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>10 21/10 22</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>10 31/10 32</td><td colspan="2">2.50</td><td></td><td></td><td></td></tr>
-<tr><td>30 11/40 11</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>30 11, 40 11</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>30 21/30 22</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>40 21/40 22</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>30 31/30 32</td><td colspan="2">2.50</td><td></td><td></td><td></td></tr>
@@ -813,7 +812,7 @@ Annexe 2[^t-2]
 <tr><td>99 91</td><td colspan="2"></td><td>2.—</td><td></td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
+[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)annexe
 [^annex2-lvlu1-2]: élément mobile
 
 Annexe 2a[^t-3]

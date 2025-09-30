@@ -3,11 +3,11 @@ sr: "632.911"
 title: Verordnung vom 16. März 2007 über die Präferenz-Zollansätze zugunsten der Entwicklungsländer (Zollpräferenzenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: de
-version: 2025-04-01
+version: 2025-10-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20250401-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20251001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/de"
 
 (Zollpräferenzenverordnung)
 
-vom 16. März 2007 (Stand am 1. April 2025)
+vom 16. März 2007 (Stand am 1. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 1 Absatz 1 des Zollpräferenzengesetzes vom 9. Oktober 198
 
 verordnet:
 
-[^ingress-1]: [SR 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
+[^ingress-1]: [SR 632.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8065)
 
 #### Art. 1
 
@@ -32,7 +32,7 @@ verordnet:
 
 Diese Verordnung regelt die allgemeinen Präferenzen auf den Zollansätzen des Zolltarifgesetzes vom 9. Oktober 1986[^1-1] zugunsten der Entwicklungsländer. Sie setzt die Zollansätze und die Bedingungen fest, unter denen die Zölle ermässigt werden.
 
-[^1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 2
 
@@ -50,7 +50,7 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 <sup>3</sup> …[^3-2]
 
-[^3-1]: [SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^3-1]: [SR 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
 [^3-2]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 18. Nov. 2015 über die vorübergehende Reduktion von Zollansätzen für Textilien ([AS 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Aufgehoben durch Anhang 2 Ziff. II 6 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, mit Wirkung seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 #### Art. 4
@@ -75,7 +75,7 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 [^4-2]: Fassung gemäss Ziff. I der V vom 25. März 2009, in Kraft seit 1. April 2009 ([AS 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^4-4]: Nummern gemäss Anhang 3 Ziff. 11 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^4-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -89,7 +89,7 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 <sup>4</sup> Die Aussetzungen der Zollpräferenzen gemäss Absatz 1 werden in Anhang 1 aufgeführt.
 
-[^5-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^5-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 6
 
@@ -107,7 +107,7 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 <sup>2</sup> Das WBF kann für ein begünstigtes Land, welches die Verwaltungszusammenarbeit bei der Kontrolle der Ursprungsnachweise oder bei der Bekämpfung betrügerischer Praktiken nicht gewährt, sämtliche Zollpräferenzen aussetzen.
 
-[^7-1]: [SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^7-1]: [SR 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
 
 #### Art. 8
 
@@ -121,7 +121,7 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 <sup>4</sup> Der Bundesrat erstattet der Bundesversammlung über die nach Absatz 1 getroffenen Massnahmen Bericht gemäss Artikel 10 Absatz 4 des Bundesgesetzes vom 25. Juni 1982[^8-1] über aussenwirtschaftliche Massnahmen.
 
-[^8-1]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^8-1]: [SR 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
 
 #### Art. 9
 
@@ -129,7 +129,7 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 Die Verordnung vom 29. Januar 1997[^9-1] über die Präferenz-Zollansätze zugunsten der Entwicklungsländer wird aufgehoben.
 
-[^9-1]: [[AS 1997 466](https://fedlex.data.admin.ch/eli/oc/1997/466_466_466), [1998 2679](https://fedlex.data.admin.ch/eli/oc/1998/2679_2679_2679), [1999 1694](https://fedlex.data.admin.ch/eli/oc/1999/256)[3584](https://fedlex.data.admin.ch/eli/oc/1999/509), [2001 720](https://fedlex.data.admin.ch/eli/oc/2001/108)[2387](https://fedlex.data.admin.ch/eli/oc/2001/343)[3380](https://fedlex.data.admin.ch/eli/oc/2001/504), [2002 740](https://fedlex.data.admin.ch/eli/oc/2002/142)Ziff. III 2, [2004 1427](https://fedlex.data.admin.ch/eli/oc/2004/180)[4707](https://fedlex.data.admin.ch/eli/oc/2004/721), [2005 581](https://fedlex.data.admin.ch/eli/oc/2005/67)[2291](https://fedlex.data.admin.ch/eli/oc/2005/387), [2006 797](https://fedlex.data.admin.ch/eli/oc/2006/120)[867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 4 [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 9 [5751](https://fedlex.data.admin.ch/eli/oc/2006/852)]
+[^9-1]: [[AS 1997 466](https://fedlex.data.admin.ch/eli/oc/1997/466_466_466); [1998 2679](https://fedlex.data.admin.ch/eli/oc/1998/2679_2679_2679); [1999 1694](https://fedlex.data.admin.ch/eli/oc/1999/256), [3584](https://fedlex.data.admin.ch/eli/oc/1999/509); [2001 720](https://fedlex.data.admin.ch/eli/oc/2001/108), [2387](https://fedlex.data.admin.ch/eli/oc/2001/343), [3380](https://fedlex.data.admin.ch/eli/oc/2001/504); [2002 740](https://fedlex.data.admin.ch/eli/oc/2002/142)Ziff. III 2; [2004 1427](https://fedlex.data.admin.ch/eli/oc/2004/180), [4707](https://fedlex.data.admin.ch/eli/oc/2004/721); [2005 581](https://fedlex.data.admin.ch/eli/oc/2005/67), [2291](https://fedlex.data.admin.ch/eli/oc/2005/387); [2006 797](https://fedlex.data.admin.ch/eli/oc/2006/120), [867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 4, [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 9, [5751](https://fedlex.data.admin.ch/eli/oc/2006/852)]
 
 #### Art. 10
 
@@ -149,7 +149,7 @@ Anhang 1[^t-1]
 
 ## Liste der Entwicklungsländer und ‑gebiete
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), vom 18. Sept. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 24. Sept. 2021 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), Anhang 2 Ziff. II 6 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)) und Ziff. I der V vom 14. März 2025, in Kraft seit 1. April 2025 ([AS 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), vom 18. Sept. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 24. Sept. 2021 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), Anhang 2 Ziff. II 6 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)), Ziff. I der V vom 14. März 2025 ([AS 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)) und Ziff. I vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
 
 Legende
 
@@ -218,7 +218,6 @@ Spalte E: Aussetzungen von Zollpräferenzen
 <tr><td>GY</td><td>Guyana</td><td></td><td></td><td></td></tr>
 <tr><td>HN</td><td>Honduras</td><td></td><td></td><td></td></tr>
 <tr><td>HT</td><td>Haiti</td><td>X</td><td></td><td></td></tr>
-<tr><td>IN</td><td>Indien</td><td></td><td></td><td></td></tr>
 <tr><td>IQ</td><td>Irak</td><td></td><td></td><td></td></tr>
 <tr><td>IR</td><td>Iran</td><td></td><td></td><td></td></tr>
 <tr><td>JM</td><td>Jamaika</td><td></td><td></td><td></td></tr>
@@ -826,7 +825,7 @@ Anhang 2[^t-2]
 <tr><td colspan="2">99 91</td><td></td><td>2.—</td><td colspan="2"></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 [^annex2-lvlu1-2]: beweglicher Teilbetrag
 
 Anhang 2a[^t-3]

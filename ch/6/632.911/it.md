@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordinanza del 16 marzo 2007 concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo (Ordinanza sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: it
-version: 2025-04-01
+version: 2025-10-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20250401-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20251001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20250401/it"
 
 (Ordinanza sulle preferenze tariffali)
 
-del 16 marzo 2007 (Stato 1° aprile 2025)
+del 16 marzo 2007 (Stato 1° ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visto l’articolo 1 capoverso 1 della legge del 9 ottobre 1981[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 632.91](https://fedlex.data.admin.ch/eli/cc/1982/164_164_164)
+[^ingress-1]: [RS 632.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8065)
 
 #### Art. 1
 
@@ -32,7 +32,7 @@ ordina:
 
 La presente ordinanza disciplina le preferenze tariffali generalizzate a favore dei Paesi in sviluppo concesse sulle aliquote di dazio della legge del 9 ottobre 1986[^1-1] sulla tariffa delle dogane. Essa stabilisce le aliquote di dazio e le condizioni di riduzione dei dazi.
 
-[^1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 2
 
@@ -50,7 +50,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>3</sup> ...[^3-2]
 
-[^3-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^3-1]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^3-2]: Introdotto dall’all. 2 n. 1 dell’O del 18 nov. 2015 sulla riduzione temporanea delle aliquote di dazio per tessili ([RU 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Abrogato dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, con effetto dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 #### Art. 4
@@ -75,7 +75,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-4]: Nuove voci di tariffa giusta l’all. 3 n. 11 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
-[^4-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -89,7 +89,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>4</sup> Le sospensioni delle preferenze tariffali di cui al capoverso 1 sono indicate nell’allegato 1.
 
-[^5-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^5-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 6
 
@@ -107,7 +107,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>2</sup> Il DEFR può sospendere tutte le preferenze tariffali concesse a un Paese beneficiario se tale Paese non fornisce la collaborazione amministrativa in materia di controllo delle prove dell’origine o di lotta contro le pratiche fraudolente.
 
-[^7-1]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^7-1]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459). Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 8
 
@@ -121,7 +121,7 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>4</sup> Conformemente all’articolo 10 capoverso 4 della legge federale del 25 giugno 1982[^8-1] sulle misure economiche esterne, il Consiglio federale presenta un rapporto all’Assemblea federale sulle misure adottate secondo il capoverso 1.
 
-[^8-1]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^8-1]: [RS 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
 
 #### Art. 9
 
@@ -149,7 +149,7 @@ Allegato 1[^t-1]
 
 ## Elenco dei Paesi e territori in sviluppo
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dalla cifra I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dalla cifra I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dalla cifra I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dalla cifra I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla cifra I dell’O del 24 set. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)) e dalla cifra I dell’O del 14 mar. 2025, in vigore dal 1° apr. 2025 ([RU 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dalla cifra I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dalla cifra I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dalla cifra I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dalla cifra I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla cifra I dell’O del 24 set. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), dall’all. 2 cifra II n. 6 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)), dalle cifre I delle O del 14 mar. 2025 ([RU 2025 188](https://fedlex.data.admin.ch/eli/oc/2025/188)) e del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 554](https://fedlex.data.admin.ch/eli/oc/2025/554)).
 
 Colonna A: Codice ISO del Paese
 
@@ -206,7 +206,6 @@ Colonna E: Sospensioni delle preferenze tariffali (art. 5 cpv. 4; art. 2 cpv. 1 
 <tr><td>GY</td><td>Guyana</td><td></td><td></td><td></td></tr>
 <tr><td>HN</td><td>Honduras</td><td></td><td></td><td></td></tr>
 <tr><td>HT</td><td>Haiti</td><td>X</td><td></td><td></td></tr>
-<tr><td>IN</td><td>India</td><td></td><td></td><td></td></tr>
 <tr><td>IQ</td><td>Iraq</td><td></td><td></td><td></td></tr>
 <tr><td>IR</td><td>Iran</td><td></td><td></td><td></td></tr>
 <tr><td>JM</td><td>Giamaica</td><td></td><td></td><td></td></tr>
@@ -815,7 +814,7 @@ Allegato 2[^t-2]
 <tr><td></td><td>99 91</td><td></td><td>2.—</td><td></td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
+[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), allegato
 [^annex2-lvlu1-2]: elemento mobile
 
 Allegato 2a[^t-3]
