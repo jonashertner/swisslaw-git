@@ -4,7 +4,7 @@ number: "810.03.1"
 title: RÈGLEMENT du 26.01.2011 sur les établissements sanitaires et les établissements apparentés de droit privé dans le Canton de Vaud (RES)
 short: RES
 language: fr
-version: 2020-12-16
+version: 2025-10-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.03.1?id=e38a7f07-4541-4efb-86c1-a26f325352f6"
 ---
 
@@ -429,7 +429,7 @@ arrête
 
 <sup>1</sup> La législation fédérale sur les stupéfiants[^32-1] et les dispositions cantonales d'exécution[^32-2] sont applicables . En particulier :
 
-- - les stupéfiants doivent être détenus sous clé séparément des autres médicaments ;
+- - les stupéfiants doivent être détenus sous clé ;
 - - une comptabilité des stupéfiants doit être tenue ;
 - - les pièces justificatives des acquisitions et des remises de stupéfiants sont à conserver pendant dix ans dans la pharmacie de l'établissement ou par le pharmacien fournisseur dans le cas des ordonnances nominatives ;
 - - les autres documents et données, notamment les relevés des prescriptions et des remises, sont à conserver pendant dix ans par l'établissement.
