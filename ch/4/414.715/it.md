@@ -3,18 +3,18 @@ sr: "414.715"
 title: Ordinanza del DEFR del 1° dicembre 2021 concernente l’ammissione a cicli di studio delle scuole universitarie professionali con pratica integrata
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/806"
 language: it
-version: 2022-01-01
+version: 2025-10-01
 adopted: 2021-12-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-806-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente l’ammissione a cicli di studio delle scuole universitarie professionali con pratica integrata
 
-del 1° dicembre 2021 (Stato 1° gennaio 2022)
+del 1° dicembre 2021 (Stato 1° ottobre 2025)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -22,8 +22,8 @@ visto l’articolo 73 capoverso 4 della legge federale del 30 settembre 2011[^in
 
 ordina:
 
-[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [RS 414.201](https://fedlex.data.admin.ch/eli/cc/2016/741)
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [RS 414.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6772)
 
 #### Art. 1
 
@@ -83,4 +83,8 @@ L’ordinanza del DEFR del 2 settembre 2005[^5-1] concernente l’ammissione agl
 
 **Entrata in vigore e durata di validità**
 
-La presente ordinanza entra in vigore il 1° gennaio 2022 ed è valida fino al 31 dicembre 2025.
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2022 ed è valida fino al 31 dicembre 2025.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2026.[^6-1]
+
+[^6-1]: Introdotto dalla cifra I dall’O del DEFR del 12 ago. 2025, in vigore dal 1° ott. 2025 ([RU 2025 501](https://fedlex.data.admin.ch/eli/oc/2025/501))

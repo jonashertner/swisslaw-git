@@ -3,18 +3,18 @@ sr: "414.715"
 title: "Ordonnance du DEFR du 1<sup>er</sup> décembre 2021 concernant l’admission aux études dans les hautes écoles spécialisées dans les filières intégrant une partie pratique"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/806"
 language: fr
-version: 2022-01-01
+version: 2025-10-01
 adopted: 2021-12-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-806-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR concernant l’admission aux études dans les hautes écoles spécialisées dans les filières intégrant une partie pratique
 
-du 1<sup>er</sup> décembre 2021 (État le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> décembre 2021 (État le 1<sup>er</sup> octobre 2025)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -22,8 +22,8 @@ vu l’art. 73, al. 4, de la loi du 30 septembre 2011 sur l’encouragement et l
 
 arrête:
 
-[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [RS 414.201](https://fedlex.data.admin.ch/eli/cc/2016/741)
+[^ingress-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [RS 414.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6772)
 
 #### Art. 1
 
@@ -83,4 +83,8 @@ L’ordonnance du DEFR du 2 septembre 2005 concernant l’admission aux études 
 
 **Entrée en vigueur et durée de validité**
 
-La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022 et a effet jusqu’au 31 décembre 2025.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022 et a effet jusqu’au 31 décembre 2025.
+
+<sup>2</sup> Elle est prorogée jusqu’au 31 décembre 2026.[^6-1]
+
+[^6-1]: Introduit par le ch. I de l’O du DEFR du 12 août 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 501](https://fedlex.data.admin.ch/eli/oc/2025/501)).

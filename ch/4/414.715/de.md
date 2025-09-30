@@ -3,18 +3,18 @@ sr: "414.715"
 title: Verordnung des WBF vom 1. Dezember 2021 über den Zugang zu Fachhochschulstudiengängen mit integrierter Praxis
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/806"
 language: de
-version: 2022-01-01
+version: 2025-10-01
 adopted: 2021-12-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-806-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über den Zugang zu Fachhochschulstudiengängen mit integrierter Praxis
 
-vom 1. Dezember 2021 (Stand am 1. Januar 2022)
+vom 1. Dezember 2021 (Stand am 1. Oktober 2025)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -22,8 +22,8 @@ gestützt auf Artikel 73 Absatz 4 des Hochschulförderungs- und -koordinationsge
 
 verordnet:
 
-[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^ingress-2]: [SR 414.201](https://fedlex.data.admin.ch/eli/cc/2016/741)
+[^ingress-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^ingress-2]: [SR 414.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6772)
 
 #### Art. 1
 
@@ -83,4 +83,8 @@ Die Verordnung des WBF vom 2. September 2005[^5-1] über die Zulassung zu Fachho
 
 **Inkrafttreten und Geltungsdauer**
 
-Diese Verordnung tritt am 1. Januar 2022 in Kraft und gilt bis zum 31. Dezember 2025.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2022 in Kraft und gilt bis zum 31. Dezember 2025.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2026 verlängert.[^6-1]
+
+[^6-1]: Eingefügt durch Ziff. I der V des WBF vom 12. Aug. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 501](https://fedlex.data.admin.ch/eli/oc/2025/501)).
