@@ -4,13 +4,13 @@ number: "177.223"
 title: Verordnung des Regierungsrates zur Besoldungsverordnung
 short: RRV BesVO
 language: de
-version: 2025-01-01
-valid_until: 2025-09-30
-version_adopted: 2025-02-25
+version: 2025-10-01
+valid_until: 2025-12-31
+version_adopted: 2025-09-16
 adopted: 1999-09-21
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.223"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2885/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2942/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV BesVO
 
 (RRV BesVO)
 
-vom 21.09.1999 (Stand 01.01.2025)
+vom 21.09.1999 (Stand 01.10.2025)
 
 ## 1. Vollzug der Allgemeinen Bestimmungen der Besoldungsverordnung
 
@@ -781,7 +781,7 @@ vom 21.09.1999 (Stand 01.01.2025)
 
 **…**
 
-## 2. Zentrale Justizinstanzen, Rekurskommissionen, Bezirksgerichte, Friedensrichter- und Betreibungsämter
+## 2. Zentrale Justizinstanzen, Rekurskommissionen, Bezirksgerichte und Betreibungsämter
 
 ### 2.1. Allgemeine Bestimmungen
 
@@ -831,7 +831,7 @@ vom 21.09.1999 (Stand 01.01.2025)
 
 **…**
 
-### 2.5. Friedensrichter- und Betreibungsämter
+### 2.5. Betreibungsämter
 
 #### § 82
 
@@ -841,17 +841,7 @@ vom 21.09.1999 (Stand 01.01.2025)
 
 <sup>2</sup> …
 
-#### § 83
-
-**Zuordnung Friedensrichteramt**
-
-<sup>1</sup> Friedensrichterinnen und Friedensrichter werden vom Departement für Justiz und Sicherheit im Rahmen der Richtpositionskette «Fachexperte» eingereiht.
-
-<sup>2</sup> Die Geschäftslast der Friedensrichterinnen und Friedensrichter richtet sich nach der Anzahl der Schlichtungsverfahren. Grundlage bildet der Jahresdurchschnitt der letzten Legislaturperiode. 340 Schlichtungsverfahren entsprechen 100 Stellenprozenten. Das Ergebnis wird auf 5 % auf- oder abgerundet. Die Geschäftslast wird alle vier Jahre zu Beginn einer neuen Legislaturperiode aufgrund der Durchschnittszahlen der letzten Legislaturperiode neu festgelegt.
-
-<sup>3</sup> …
-
-#### § 84–85
+#### § 83–85
 
 **…**
 
@@ -859,9 +849,9 @@ vom 21.09.1999 (Stand 01.01.2025)
 
 **Personal**
 
-<sup>1</sup> Das Personal der Betreibungsämter wird den einzelnen Ämtern vom Konkursamt und Betreibungsinspektorat zugeteilt und nach den gleichen Grundsätzen wie das Personal der Zentralverwaltung zugeordnet.
+<sup>1</sup> Das Personal der Betreibungsämter wird den einzelnen Ämtern vom Amt für Betreibungs- und Konkurswesen (ABK) zugeteilt und nach den gleichen Grundsätzen wie das Personal der Zentralverwaltung zugeordnet.
 
-<sup>2</sup> Die Besoldungsanpassungen gemäss § 12 BesVO werden auf Vorschlag der leitenden Amtspersonen der Betreibungsämter vom Inspektorat vorgenommen.
+<sup>2</sup> Die Besoldungsanpassungen gemäss § 12 BesVO werden auf Vorschlag der leitenden Amtspersonen der Betreibungsämter vom ABK vorgenommen.
 
 ## 3. Übergangs- und Schlussbestimmungen
 
@@ -883,13 +873,7 @@ vom 21.09.1999 (Stand 01.01.2025)
 
 #### § 90c
 
-**Übergangsrecht Friedensrichter- und Betreibungsämter**
-
-<sup>1</sup> Für die Betreibungsbeamtinnen und -beamten sowie die Friedensrichterinnen und ‑richter, die vor dem 1. Juni 2016 ein Betreibungsamt oder ein Friedensrichter- und Betreibungsamt geleitet haben, wird die bisherige Besoldung bis zum 31. Dezember 2021 als Besitzstand per 1. Januar 2016 gewährleistet, sofern sie ab dem 1. Juni 2016 keine Leitung eines Betreibungsamtes oder die Funktion als Friedensrichterin oder -richter übernehmen.
-
-<sup>2</sup> Bisherige Amtsinhaberinnen oder Amtsinhaber, die ab 1. Juni 2016 eine leitende Funktion übernehmen, werden für die Zeit vom 1. Januar 2017 bis zum 31. Dezember 2021 maximal in die Lohnklasse 22 bei 148 % eingereiht.
-
-<sup>3</sup> Ab dem 1. Januar 2022 erfolgt die Zuordnung gemäss der dannzumal ausgeübten Funktion und der allgemein gültigen Regelung.
+**…**
 
 #### § 90d
 
