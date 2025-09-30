@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 2020 sulla sicurezza delle informazioni (L
 short: LSIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/232"
 language: it
-version: 2025-04-01
+version: 2025-10-01
 adopted: 2020-12-18
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2022-232-20250401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2022-232-20251001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20250401/it"
 
 (LSIn) [^t-1]
 
-del 18 dicembre 2020 (Stato 1° aprile 2025)
+del 18 dicembre 2020 (Stato 1° ottobre 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
@@ -27,7 +27,7 @@ visti gli articoli 54 capoverso 1, 60 capoverso 1, 101, 102 capoverso 1 e 173 ca
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)
 
 ## Capitolo 1: Disposizioni generali
@@ -90,7 +90,7 @@ Il Consiglio federale può limitare il campo d’applicazione della presente leg
 
 <sup>5</sup> Alle organizzazioni di diritto pubblico o privato che gestiscono infrastrutture critiche ma che non sono contemplate ai capoversi 1‒3 si applicano gli articoli 73*a*–79.[^2-2] La legislazione speciale può dichiarare applicabili altre disposizioni della presente legge.
 
-[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^2-2]: Nuovo testo del per. giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 3
@@ -116,7 +116,7 @@ Ai Cantoni si applicano unicamente le disposizioni concernenti:
 
 <sup>2</sup> Nel caso di informazioni la cui protezione è disciplinata anche in altre leggi federali, le disposizioni della presente legge si applicano a titolo completivo.
 
-[^4-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^4-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 [^4-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 [^4-3]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168); [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
@@ -242,7 +242,7 @@ Se necessario per far fronte a violazioni della sicurezza delle informazioni o p
 <sup>8</sup> Il trattamento dei dati personali da parte del UFCS[^10a-3] nel quadro dell’adempimento dei suoi compiti è retto dagli articoli 75–79.
 
 [^10a-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^10a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^10a-3]: Nuova espressione giusta la cifra I dell’O del 7 mar. 2025, in vigore dal 1° apr. 2025 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Classificazione delle informazioni
@@ -355,7 +355,7 @@ Ai mezzi informatici si applica il livello di sicurezza «protezione molto eleva
 
 <sup>2</sup> Il trattamento di dati personali nell’ambito della sorveglianza delle reti è retto per analogia dagli articoli 57*i*‒57*q* LOGA[^19-1].
 
-[^19-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^19-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Sezione 4: Misure relative alle persone
 
@@ -376,7 +376,7 @@ Le autorità e organizzazioni assoggettate provvedono affinché le persone che h
 
 <sup>3</sup> Come identificatore di persone possono inoltre utilizzare sistematicamente il numero AVS di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^20-1] sull’assicurazione per la vecchiaia e per i superstiti.[^20-2]
 
-[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^20-2]: Nuovo testo giusta l’all. n. 40 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2024 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 21
@@ -419,7 +419,7 @@ Sono autorizzate a:
 
 <sup>4</sup> Sono fatte salve le prescrizioni particolari per le zone di sicurezza definite in virtù di trattati internazionali secondo l’articolo 87 nonché le prescrizioni applicabili alle zone di protezione di opere secondo la legislazione sulla protezione delle opere militari.
 
-[^23-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^23-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 ### Sezione 6: Sistemi di gestione delle identità
 
@@ -659,7 +659,7 @@ Il servizio specializzato CSP può comunicare la sua dichiarazione a un altro se
 
 <sup>4</sup> Se già prima della conclusione della valutazione dispone di indizi concreti secondo i quali potrebbe sussistere un rischio per la sicurezza, il servizio specializzato CSP può comunicare per scritto le constatazioni provvisorie ai servizi di cui ai capoversi 1‒3 nonché alla persona sottoposta al controllo.
 
-[^40-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^40-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### Sezione 4: Conseguenze della dichiarazione
 
@@ -719,10 +719,10 @@ Dopo aver ricevuto la dichiarazione secondo l’articolo 39 capoverso 1, la pers
 
 <sup>5</sup> Del rimanente, la procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
-[^44-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^44-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^44-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^44-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^44-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^44-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^44-4]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### Sezione 5: Trattamento di dati personali
 
@@ -774,16 +774,16 @@ I dati di cui al capoverso 4 possono essere raccolti automaticamente e sistemati
 - d.[^45-10] le banche dati dell’Ufficio centrale Armi secondo l’articolo 32*a* capoverso 1 della legge del 20 giugno 1997[^45-11] sulle armi.
 
 [^45-1]: Nuovo testo giusta la cifra II n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^45-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^45-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^45-3]: Nuovo testo giusta l’all. 2 n. 5, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^45-4]: Introdotto dalla cifra II n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^45-5]: Nuovo testo giusta l’all. n. 40 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2024 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^45-6]: Nuovo testo giusta l’all. 2 n. 4, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^45-7]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
-[^45-8]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^45-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^45-7]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^45-8]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^45-9]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^45-10]: Introdotta dalla cifra II n. 2 della LF del 17 giu. 2022, in vigore dal 1° gen. 2024 ([RU 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^45-11]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^45-11]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 46
 
@@ -818,7 +818,7 @@ I servizi seguenti hanno accesso, tramite un’interfaccia, ai dati qui appresso
 
 <sup>4</sup> Possono comunicare alle autorità e organizzazioni assoggettate elenchi e statistiche di cui all’articolo 45 capoverso 1 lettera g, sempre che sia necessario per l’adempimento dei rispettivi compiti di controllo secondo la presente legge.
 
-[^46-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^46-1]: [RS 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
 
 #### Art. 47
 
@@ -1077,7 +1077,7 @@ Dopo la notifica di una decisione del Servizio specializzato PSA, l’azienda ha
 
 <sup>2</sup> La restrizione del diritto d’accesso è retta dall’articolo 26 LPD[^69-1].[^69-2]
 
-[^69-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^69-2]: Nuovo testo giusta l’all. 2 n. 5, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Sezione 7: Trattamento dei dati personali
@@ -1104,7 +1104,7 @@ Il sistema d’informazione contiene i dati seguenti:
 
 <sup>4</sup> Il Servizio specializzato PSA è responsabile della sicurezza del sistema d’informazione e della liceità del trattamento dei dati personali.
 
-[^70-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^70-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^70-2]: Nuovo testo giusta l’all. 2 n. 5, in vigore dal 1° gen. 2024 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 71
@@ -1183,7 +1183,7 @@ Sulla base delle analisi, il UFCS svolge in particolare i seguenti compiti:
 <sup>3</sup> Se viene a conoscenza di vulnerabilità, il UFCS informa immediatamente il produttore dell’hardware o del software interessato e gli fissa un congruo termine per eliminarle. Gli indica che un’inosservanza può essere sanzionata secondo il diritto in materia di appalti pubblici (art. 44 cpv. 1 lett. f<sup>bis</sup> della legge federale del 21 giugno 2019[^73b-2] sugli appalti pubblici) e che il UFCS, allo scadere del termine, può rendere pubblica la vulnerabilità ai sensi dell’articolo 73*c* capoverso 2.
 
 [^73b-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^73b-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^73b-2]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 73c
 
@@ -1208,9 +1208,9 @@ Sulla base delle analisi, il UFCS svolge in particolare i seguenti compiti:
 <sup>4</sup> Il UFCS può inoltrare informazioni che rivelano segreti protetti dal diritto penale unicamente secondo quanto disposto dall’articolo 320 del Codice penale[^73d-4].
 
 [^73d-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^73d-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^73d-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^73d-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^73d-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^73d-3]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^73d-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 74
 
@@ -1236,7 +1236,7 @@ Mette loro a disposizione gratuitamente per l’utilizzo su base volontaria in p
 
 [^chap5-sec2-1]
 
-[^chap5-sec2-1]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^chap5-sec2-1]: Introdotta dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 e gli art. 74*g* e 74*h* dal 1° ott. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 74a
 
@@ -1289,21 +1289,21 @@ L’obbligo di segnalazione si applica:
 
 <sup>3</sup> L’obbligo di segnalazione di cui al capoverso 1 si applica a ciberattacchi che hanno ripercussioni in Svizzera anche se i mezzi informatici interessati si trovano all’estero.
 
-[^74b-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^74b-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^74b-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^74b-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^74b-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^74b-6]: [[RS 961.01](https://www.fedlex.admin.ch/eli/cc/2005/734/de)](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^74b-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^74b-8]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^74b-9]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^74b-10]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^74b-11]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^74b-12]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^74b-13]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^74b-14]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^74b-15]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^74b-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^74b-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^74b-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^74b-4]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^74b-5]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^74b-6]: [[RS 961.01](https://www.fedlex.admin.ch/eli/cc/2005/734/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^74b-7]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^74b-8]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^74b-9]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^74b-10]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^74b-11]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^74b-12]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^74b-13]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^74b-14]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^74b-15]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 74c
 
@@ -1346,6 +1346,28 @@ Un ciberattacco deve essere segnalato se:
 
 <sup>3</sup> Se per adempiere un obbligo di segnalazione nei confronti di altre autorità sono necessarie informazioni che vanno oltre quelle menzionate all’articolo 74*e*, il sistema deve permettere alle autorità e organizzazioni assoggettate a tale obbligo di trasmettere queste informazioni direttamente alle autorità interessate, senza che il UFCS vi acceda.
 
+#### Art. 74g
+
+**Violazione dell’obbligo di segnalazione**
+
+<sup>1</sup> Se vi sono indizi di una violazione dell’obbligo di segnalazione, il UFCS informa l’autorità o l’organizzazione assoggettata a tale obbligo e le impartisce un congruo termine entro il quale adempierlo.
+
+<sup>2</sup> Se l’autorità o l’organizzazione assoggettata all’obbligo di segnalazione non adempie il proprio obbligo entro il termine impartito, il UFCS emana una decisione fissando un nuovo termine, sotto la comminatoria della multa di cui all’articolo 74*h*.
+
+#### Art. 74h
+
+**Inosservanza di decisioni del UFCS**
+
+<sup>1</sup> Chi, intenzionalmente, non ottempera a una decisione del UFCS passata in giudicato intimatagli sotto la comminatoria prevista dal presente articolo o a una decisione dell’autorità di ricorso, è punito con la multa sino a 100 000 franchi.
+
+<sup>2</sup> In caso di infrazioni di cui al capoverso 1 commesse nell’azienda è applicabile l’articolo 6 della legge federale del 22 marzo 1974[^74h-1] sul diritto penale amministrativo (DPA).
+
+<sup>3</sup> Se l’importo presumibile della multa non supera i 20 000 franchi e se la determinazione delle persone punibili secondo l’articolo 6 DPA esige provvedimenti d’inchiesta sproporzionati all’entità della pena, l’autorità può prescindere dal perseguimento di dette persone e, in loro vece, condannare l’azienda al pagamento della multa.
+
+<sup>4</sup> In caso di inosservanza di una decisione del UFCS, il perseguimento e il giudizio competono ai Cantoni.
+
+[^74h-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
 ### Sezione 3: Protezione dei dati e scambio di informazioni
 
 [^chap5-sec3-1]
@@ -1366,7 +1388,7 @@ Per l’adempimento dei propri compiti, il UFCS può trattare dati personali, co
 <sup>2</sup> In caso di trattamento di dati personali o di indizi concreti di usurpazione d’identità o di utilizzazione non autorizzata di elementi di indirizzo, il UFCS informa le persone interessate, sempre che ciò non comporti un onere sproporzionato e nessun interesse pubblico preponderante vi si opponga.
 
 [^75-1]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^75-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^75-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 76
 
@@ -1391,7 +1413,7 @@ Per l’adempimento dei propri compiti, il UFCS può trattare dati personali, co
 <sup>4</sup> Concede ai servizi cantonali competenti per la cibersicurezza l’accesso alle informazioni necessarie alla protezione contro le ciberminacce.
 
 [^76a-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche), in vigore dal 1° apr. 2025 ([RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^76a-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^76a-2]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 77
 
@@ -1401,7 +1423,7 @@ Per l’adempimento dei propri compiti, il UFCS può trattare dati personali, co
 
 <sup>2</sup> Lo scambio di informazioni di cui al capoverso 1 è ammesso soltanto se i servizi esteri e internazionali garantiscono che i dati sono trattati per i fini previsti.
 
-[^77-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^77-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 78
 

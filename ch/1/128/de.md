@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 2020 über die Informationssicherheit (Inf
 short: ISG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/232"
 language: de
-version: 2025-04-01
+version: 2025-10-01
 adopted: 2020-12-18
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2022-232-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/232/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2022-232-20251001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/232/20250401/de"
 
 (Informationssicherheitsgesetz, ISG)[^t-1]
 
-vom 18. Dezember 2020 (Stand am 1. April 2025)
+vom 18. Dezember 2020 (Stand am 1. Oktober 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 54 Absatz 1, 60 Absatz 1, 101, 102 Absatz 1 und 173 Ab
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -90,7 +90,7 @@ Der Bundesrat kann für Organisationen nach Artikel 2 Absätze 3 und 4 RVOG die 
 
 <sup>5</sup> Für Organisationen des öffentlichen und privaten Rechts, die kritische Infrastrukturen betreiben, die aber nicht unter die Absätze 1–3 fallen, gelten die Artikel 73*a*–79.[^2-2] Die Spezialgesetzgebung kann weitere Teile dieses Gesetzes für anwendbar erklären.
 
-[^2-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^2-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^2-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 3
@@ -116,7 +116,7 @@ Für die Kantone gelten nur die Bestimmungen:
 
 <sup>2</sup> Für Informationen, deren Schutz auch in anderen Bundesgesetzen geregelt ist, finden die Bestimmungen dieses Gesetzes ergänzend Anwendung.
 
-[^4-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^4-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 [^4-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 [^4-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
@@ -242,7 +242,7 @@ Sofern dies für die Bewältigung von Verletzungen der Informationssicherheit od
 <sup>8</sup> Die Bearbeitung von Personendaten durch das BACS[^10a-3] zur Erfüllung seiner Aufgaben richtet sich nach den Artikeln 75–79.
 
 [^10a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^10a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^10a-3]: Ausdruck gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 1. April 2025 ([AS 2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 2. Abschnitt: Klassifizierung von Informationen
@@ -355,7 +355,7 @@ Die Sicherheitsstufe «sehr hoher Schutz» gilt für Informatikmittel, wenn:
 
 <sup>2</sup> Die Bearbeitung von Personendaten im Rahmen der Netzwerküberwachung richtet sich sinngemäss nach den Artikeln 57*i*–57*q* RVOG[^19-1].
 
-[^19-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^19-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 4. Abschnitt: Personelle Massnahmen
 
@@ -376,7 +376,7 @@ Die verpflichteten Behörden und Organisationen sorgen dafür, dass Personen, di
 
 <sup>3</sup> Sie können zudem die AHV-Nummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^20-1] über die Alters- und Hinterlassenenversicherung (AHV-Nummer) systematisch als Personenidentifikator verwenden.[^20-2]
 
-[^20-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^20-2]: Fassung gemäss Anhang Ziff. 40 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2024 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 21
@@ -419,7 +419,7 @@ Sie sind befugt:
 
 <sup>4</sup> Vorbehalten bleiben die besonderen Vorschriften für Sicherheitszonen gemäss völkerrechtlichen Verträgen nach Artikel 87 sowie für Schutzzonen von Anlagen nach der Gesetzgebung über den Schutz militärischer Anlagen.
 
-[^23-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^23-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 ### 6. Abschnitt: Identitätsverwaltungs-Systeme
 
@@ -659,7 +659,7 @@ Sie kann einer anderen entscheidenden Stelle die Erklärung mitteilen, wenn die 
 
 <sup>4</sup> Liegen der Fachstelle PSP bereits vor Abschluss der Beurteilung konkrete Anhaltspunkte vor, dass ein Sicherheitsrisiko bestehen könnte, so kann sie den Stellen nach den Absätzen 1–3 sowie der zu prüfenden Person die vorläufigen Erkenntnisse schriftlich mitteilen.
 
-[^40-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^40-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### 4. Abschnitt: Folgen der Erklärung
 
@@ -719,10 +719,10 @@ Die geprüfte Person hat nach Erhalt der Erklärung nach Artikel 39 Absatz 1 30 
 
 <sup>5</sup> Das Beschwerdeverfahren richtet sich im Übrigen nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
-[^44-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^44-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^44-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^44-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^44-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^44-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^44-4]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 5. Abschnitt: Bearbeitung von Personendaten
 
@@ -774,16 +774,16 @@ Die Daten nach Absatz 4 können automatisch und systematisch durch Abfrage der f
 - d.[^45-10] die Datenbanken der Zentralstelle Waffen nach Artikel 32*a* Absatz 1 des Waffengesetzes vom 20. Juni 1997[^45-11].
 
 [^45-1]: Fassung gemäss Ziff. II 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^45-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^45-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^45-3]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^45-4]: Eingefügt durch Ziff. II 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^45-5]: Fassung gemäss Anhang Ziff. 40 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2024 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^45-6]: Fassung gemäss Anhang 2 Ziff. 4, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^45-7]: [SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
-[^45-8]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^45-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^45-7]: [SR 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^45-8]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
+[^45-9]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^45-10]: Eingefügt durch Ziff. II 2 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^45-11]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^45-11]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 46
 
@@ -818,7 +818,7 @@ Die folgenden Stellen haben über eine Schnittstelle Zugriff auf die nachstehend
 
 <sup>4</sup> Sie können den verpflichteten Behörden und Organisationen Listen und Statistiken nach Artikel 45 Absatz 1 Buchstabe g bekanntgeben, sofern dies zur Erfüllung von deren Kontrollaufgaben nach diesem Gesetz erforderlich ist.
 
-[^46-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
+[^46-1]: [SR 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
 
 #### Art. 47
 
@@ -1077,7 +1077,7 @@ Der Betrieb hat nach Eröffnung einer Verfügung der Fachstelle BS 30 Tage Zeit,
 
 <sup>2</sup> Die Einschränkung des Auskunftsrechts richtet sich nach Artikel 26 DSG[^69-1].[^69-2]
 
-[^69-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^69-2]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### 7. Abschnitt: Bearbeitung von Personendaten
@@ -1104,7 +1104,7 @@ Das Informationssystem enthält folgende Daten:
 
 <sup>4</sup> Die Fachstelle BS ist für die Sicherheit des Informationssystems sowie die rechtmässige Bearbeitung der Personendaten verantwortlich.
 
-[^70-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^70-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^70-2]: Fassung gemäss Anhang 2 Ziff. 5, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 71
@@ -1183,7 +1183,7 @@ Gestützt auf die Analysen nimmt das BACS insbesondere folgende Aufgaben wahr:
 <sup>3</sup> Erhält das BACS Kenntnis von einer Schwachstelle, so informiert es umgehend die Herstellerin der betroffenen Hard- oder Software und setzt ihr zur Behebung der Schwachstelle eine angemessene Frist. Es weist sie darauf hin, dass eine Missachtung beschaffungsrechtlich sanktioniert werden kann (Art. 44 Abs. 1 Bst. f<sup>bis</sup> des Bundesgesetzes vom 21. Juni 2019[^73b-2] über das öffentliche Beschaffungswesen) und dass das BACS nach Fristablauf Informationen zur Schwachstelle nach Artikel 73*c* Absatz 2 veröffentlichen kann.
 
 [^73b-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^73b-2]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^73b-2]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 73c
 
@@ -1208,9 +1208,9 @@ Gestützt auf die Analysen nimmt das BACS insbesondere folgende Aufgaben wahr:
 <sup>4</sup> Strafrechtlich geschützte Geheimnisse darf das BACS nur nach den Vorgaben von Artikel 320 des Strafgesetzbuches[^73d-4] weiterleiten.
 
 [^73d-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^73d-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^73d-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^73d-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^73d-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^73d-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^73d-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 74
 
@@ -1236,7 +1236,7 @@ Es stellt ihnen insbesondere folgende Hilfsmittel unentgeltlich und zur freiwill
 
 [^chap5-sec2-1]
 
-[^chap5-sec2-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
+[^chap5-sec2-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025, Art. 74*g* und 74*h*, in Kraft seit 1. Okt. 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
 
 #### Art. 74a
 
@@ -1289,21 +1289,21 @@ Die Meldepflicht gilt für:
 
 <sup>3</sup> Die Meldepflicht nach Absatz 1 gilt für Cyberangriffe, die sich in der Schweiz auswirken, auch wenn sich die betroffenen Informatikmittel im Ausland befinden.
 
-[^74b-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^74b-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^74b-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^74b-4]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^74b-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^74b-6]: [[SR 961.01](https://www.fedlex.admin.ch/eli/cc/2005/734/de)](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^74b-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^74b-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^74b-9]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^74b-10]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^74b-11]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^74b-12]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^74b-13]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^74b-14]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^74b-15]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^74b-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^74b-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^74b-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^74b-4]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^74b-5]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^74b-6]: [[SR 961.01](https://www.fedlex.admin.ch/eli/cc/2005/734/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^74b-7]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^74b-8]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^74b-9]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^74b-10]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^74b-11]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^74b-12]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^74b-13]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^74b-14]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^74b-15]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 74c
 
@@ -1346,6 +1346,28 @@ Ein Cyberangriff muss gemeldet werden, wenn er:
 
 <sup>3</sup> Sind zur Erfüllung einer Meldepflicht gegenüber weiteren Behörden Informationen erforderlich, die über Artikel 74*e* hinausgehen, so muss das System den meldepflichtigen Behörden und Organisationen ermöglichen, diese Informationen direkt an die betreffenden Behörden zu übermitteln, ohne dass das BACS darauf Zugriff hat.
 
+#### Art. 74g
+
+**Verletzung der Meldepflicht**
+
+<sup>1</sup> Bestehen Anzeichen für eine Verletzung der Meldepflicht, so informiert das BACS die meldepflichtige Behörde oder Organisation darüber und setzt ihr eine angemessene Frist, um der Meldepflicht nachzukommen.
+
+<sup>2</sup> Kommt die meldepflichtige Behörde oder Organisation ihrer Pflicht innert dieser Frist nicht nach, so erlässt das BACS eine Verfügung, setzt darin eine neue Frist und verweist auf die Strafdrohung nach Artikel 74*h*.
+
+#### Art. 74h
+
+**Missachten von Verfügungen des BACS**
+
+<sup>1</sup> Mit Busse bis zu 100 000 Franken wird bestraft, wer einer vom BACS unter Hinweis auf die Strafdrohung dieses Artikels erlassenen rechtskräftigen Verfügung oder dem Entscheid einer Rechtsmittelinstanz vorsätzlich nicht Folge leistet.
+
+<sup>2</sup> Bei Widerhandlungen nach Absatz 1 in Geschäftsbetrieben ist Artikel 6 des Bundesgesetzes vom 22. März 1974[^74h-1] über das Verwaltungsstrafrecht (VStrR) anwendbar.
+
+<sup>3</sup> Fällt eine Busse von höchstens 20 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb zur Bezahlung der Busse verurteilen.
+
+<sup>4</sup> Bei einer Widerhandlung gegen eine Verfügung des BACS obliegt die Verfolgung und die Beurteilung den Kantonen.
+
+[^74h-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+
 ### 3. Abschnitt: Datenschutz und Informationsaustausch
 
 [^chap5-sec3-1]
@@ -1366,7 +1388,7 @@ Das BACS kann zur Erfüllung seiner Aufgaben Personendaten bearbeiten, einschlie
 <sup>2</sup> Bei der Bearbeitung von Personendaten oder bei konkreten Hinweisen auf den Missbrauch einer Identität oder auf die unberechtigte Verwendung von Adressierungselementen informiert das BACS die betroffenen Personen, sofern dies nicht mit unverhältnismässigem Aufwand verbunden ist und keine überwiegenden öffentlichen Interessen entgegenstehen.
 
 [^75-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^75-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^75-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 76
 
@@ -1391,7 +1413,7 @@ Das BACS kann zur Erfüllung seiner Aufgaben Personendaten bearbeiten, einschlie
 <sup>4</sup> Es gewährt den kantonalen Stellen, die für die Cybersicherheit zuständig sind, Zugriff auf Informationen, die für den Schutz vor Cyberbedrohungen erforderlich sind.
 
 [^76a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^76a-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^76a-2]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 77
 
@@ -1402,7 +1424,7 @@ Das BACS kann zur Erfüllung seiner Aufgaben Personendaten bearbeiten, einschlie
 <sup>2</sup> Der Informationsaustausch nach Absatz 1 ist nur dann zulässig, wenn die ausländischen und internationalen Stellen die bestimmungsgemässe Verwendung gewährleisten.
 
 [^77-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^77-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^77-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 78
 
