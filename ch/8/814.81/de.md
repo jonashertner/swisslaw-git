@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2025-09-01
+version: 2025-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251001-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. September 2025)
+vom 18. Mai 2005 (Stand am 1. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -120,11 +120,12 @@ Für folgende Anwendungen ist eine Bewilligung der nachstehenden Behörden nöti
 <tr><th>Anwendung</th><th>Bewilligungsbehörde</th></tr>
 <tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nagetiere (Rodentizide) bei überbetrieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
 <tr><td>b.[^4-2] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
-<tr><td>c. die Anwendung von Pflanzenschutzmitteln und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
+<tr><td>c.[^4-3] die Anwendung von Biozidprodukten, Pflanzenschutzmitteln und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
 </table>
 
 [^4-1]: Fassung gemäss Ziff. I 6 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen), in Kraft seit 1. Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 #### Art. 4a
 
@@ -1318,7 +1319,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -3227,7 +3228,7 @@ Anhang 2.4[^t-24]
 
 ## Biozidprodukte
 
-[^t-24]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Bereinigt gemäss Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Ziff. II der V vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 ### 1 Holzschutzmittel
 
@@ -3366,6 +3367,38 @@ Biozidprodukte gegen Algen und Moose dürfen nicht verwendet werden:
 <sup>1</sup> Die Inhaberinnen von Zulassungen nach Artikel 7 Absatz 1 VPB müssen die Abnehmerinnen von Biozidprodukten gegen Algen und Moose in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die Verbote nach Ziffer 4<sup>bis</sup>.2 informieren.
 
 <sup>2</sup> Die Information nach Absatz 1 muss folgende Angaben enthalten: «Die Verwendung auf Dächern und Terrassen, auf Lagerplätzen, auf und an Strassen, Wegen und Plätzen, auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen ist verboten».
+
+### 4<sup>ter</sup> Biozidprodukte gegen Arthropoden und Mikroorganismen
+
+### 4<sup>ter</sup>.1 Begriffe
+
+Als Biozidprodukte gegen Arthropoden und Mikroorganismen gelten:
+
+- a. Biozidprodukte der Produktart 2 (Desinfektionsmittel und Algenbekämpfungsmittel, die nicht für eine direkte Anwendung bei Menschen und Tieren bestimmt sind) nach Anhang 10 VBP, soweit sie zur Bekämpfung von krankheitserregenden oder -übertragenden Mikroorganismen bestimmt sind;
+- b. Biozidprodukte der Produktart 3 (Biozidprodukte für die Hygiene im Veterinärbereich) nach Anhang 10 VBP, soweit sie zur Bekämpfung von krankheitserregenden oder -übertragenden Mikroorganismen bestimmt sind;
+- c. Biozidprodukte der Produktart 18 (Insektizide, Akarizide und Produkte gegen andere Arthropoden) nach Anhang 10 VBP, soweit sie zur Bekämpfung von invasiven gebietsfremden oder von krankheitsübertragenden Arthropoden bestimmt sind.
+
+### 4<sup>ter</sup>.2 Bewilligung für die Anwendung im Wald
+
+<sup>1</sup> Die zuständige Behörde erteilt eine Anwendungsbewilligung nach den Artikeln 4–6 für die Anwendung von Biozidprodukten gegen Arthropoden und Mikroorganismen im Wald, wenn:
+
+- a. die zu bekämpfenden Arthropoden und Mikroorganismen eine erhebliche Gefährdung für die Gesundheit des Menschen oder von Nutztieren oder für die Umwelt darstellen;
+- b. keine anderen geeigneten Massnahmen zur Verfügung stehen, welche die Umwelt weniger belasten; und
+- c. die Anwendung eines Biozidprodukts unter Berücksichtigung der gegenwärtigen Befallslage in der Schweiz der Tilgung oder der Eindämmung dient.
+
+<sup>2</sup> Eignen sich für die Bekämpfung der Arthropoden und Mikroorganismen verschiedene Biozidprodukte, so ist jenes anzuwenden, welches die Umwelt am wenigsten belastet.
+
+### 4<sup>ter</sup>.3 Dokumentationspflicht und Berichterstattung
+
+<sup>1</sup> Wer über eine Bewilligung nach Ziffer 4<sup>ter</sup>.2 verfügt, muss für die einzelnen Anwendungen die folgenden Angaben erfassen und der zuständigen Behörde jeweils bis am 31. Dezember melden:
+
+- a. Zweck der Bekämpfung und bekämpfte Arthropoden und Mikroorganismen;
+- b. Handelsname der angewendeten Biozidprodukte und Nummer der eidgenössischen Zulassung;
+- c. die in den angewendeten Biozidprodukten enthaltenen Wirkstoffe und deren Konzentration;
+- d. Menge der angewendeten Biozidprodukte und Art der Anwendung;
+- e. Anwendungsdaten und -orte sowie Grösse der behandelten Flächen.
+
+<sup>2</sup> Die zuständige Behörde erstattet dem BAFU bis am 28. Februar Bericht über die im Vorjahr erfolgten Anwendungen von Biozidprodukten nach Ziffer 4<sup>ter</sup>.2. Der Bericht enthält die Angaben nach Absatz 1.
 
 ### 5 Rückgabepflicht
 
@@ -4254,7 +4287,7 @@ Anhang 2.9[^t-29]
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 

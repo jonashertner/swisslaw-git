@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2025-09-01
+version: 2025-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251001-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> septembre 2025)
+du 18 mai 2005 (État le 1<sup>er</sup> octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -119,11 +119,12 @@ Les usages suivants requièrent une autorisation délivrée par les autorités m
 <tr><th>Usage:</th><th>Autorité délivrant l’autorisation:</th></tr>
 <tr><td>a. l’usage, à titre professionnel ou commercial, de produits destinés à protéger les plantes contre les rongeurs (rodenticides), appliqués mécaniquement ou dans le cadre d’actions inter-entreprises</td><td>les autorités cantonales, d’entente avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), l’Office fédéral de l’agriculture (OFAG) et l’Office fédéral de l’environnement (OFEV) en cas d’usage régional ou suprarégional</td></tr>
 <tr><td>b.[^4-2] la pulvérisation et l’épandage de produits phytosanitaires, de produits biocides et d’engrais par voie aérienne</td><td>l’Office fédéral de l’aviation civile, en accord avec l’Office fédéral de la santé publique (OFSP), l’OSAV, l’OFAG, le Secrétariat d’État à l’économie (SECO) et l’OFEV</td></tr>
-<tr><td>c. l’usage de produits phytosanitaires et d’engrais en forêt, s’il n’est pas inclus dans une autorisation au sens de la lettre a ou b</td><td>les autorités cantonales</td></tr>
+<tr><td>c.[^4-3] l’usage de produits biocides, de produits phytosanitaires et d’engrais en forêt, s’il n’est pas inclus dans une autorisation au sens de la let. a ou b</td><td>les autorités cantonales</td></tr>
 </table>
 
 [^4-1]: Nouvelle teneur selon le ch. I 6 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires), en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 #### Art. 4a
 
@@ -1313,7 +1314,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -1899,7 +1900,7 @@ Sont considérées comme substances et préparations liquides dangereuses, les p
 - c. classe de danger 4.1;
 - d. classe de danger 5.1.
 
-[^annex111-lvlu1-lvl1-1]: Directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999 concernant le rapprochement des dispositions législatives, réglementaires et administratives des États membres relatives à la classification, à l’emballage et à l’étiquetage des préparations dangereuses, JO L 200 du 30.7.1999, p. 1; modifiée en dernier lieu par le R (CE) n<sup>o</sup> 1272/2008, JO L 353 du 31.12.2008, p. 1. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être consultés à l’adresse [http://eur-le x .europa.eu](http://eur-lex.europa.eu).
+[^annex111-lvlu1-lvl1-1]: Directive 1999/45/CE du Parlement européen et du Conseil du 31 mai 1999 concernant le rapprochement des dispositions législatives, réglementaires et administratives des États membres relatives à la classification, à l’emballage et à l’étiquetage des préparations dangereuses, JO L 200 du 30.7.1999, p. 1; modifiée en dernier lieu par le R (CE) n<sup>o</sup> 1272/2008, JO L 353 du 31.12.2008, p. 1. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être consultés à l’adresse [http://eur-lex.europa.eu](http://eur-lex.europa.eu).
 [^annex111-lvlu1-lvl1-2]: R (CE) n<sup>o</sup> 1272/2008 du Parlement européen et du Conseil du 16 déc. 2008 relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges, modifiant et abrogeant les directives 67/548/CEE et 1999/45/CE et modifiant le R (CE) n<sup>o</sup> 1907/2006 (JO L 353 du 31.12.2008, p. 1; modifié en dernier lieu par le R (UE) n<sup>o</sup> 618/2012, JO L 179 du 11.7.2012, p. 3.
 
 ### 2 Interdictions
@@ -3222,7 +3223,7 @@ Annexe 2.4[^t-24]
 
 ## Produits biocides
 
-[^t-24]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. 2 de l’O du 11 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Mise à jour par le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), l’annexe ch. 2 de l’O du 4 nov. 2015 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), l’annexe ch. 2 de l’O du 11 mars 2022 ([RO 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) et le ch. II de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 ### 1 Produits pour la conservation du bois
 
@@ -3361,6 +3362,38 @@ Il est interdit d’employer des produits biocides contre les algues et les mous
 <sup>1</sup> Les titulaires d’autorisations au sens de l’art. 7, al. 1, OPBio doivent informer les acquéreurs de produits biocides contre les algues et les mousses des interdictions au sens du ch. 4<sup>bis</sup>.2 par une inscription ou sous une forme écrite équivalente.
 
 <sup>2</sup> L’information au sens de l’al. 1 doit comporter la mention suivante: «Emploi interdit sur les toits et les terrasses, sur les aires d’entreposage, sur les routes, les chemins et les places, sur les talus et les bandes de verdure le long des routes et des voies ferrées».
+
+### 4<sup>ter</sup> Produits biocides contre les arthropodes et les microorganismes
+
+### 4<sup>ter</sup>.1 Définitions
+
+On entend par produits biocides contre les arthropodes et les microorganismes:
+
+- a. les produits biocides qui relèvent du type de produits 2 (désinfectants et produits algicides non destinés à l’application directe sur des êtres humains ou des animaux) au sens de l’annexe 10 OPBio, dans la mesure où ils sont destinés à lutter contre les microorganismes pathogènes ou susceptibles de transmettre des maladies;
+- b. les produits biocides qui relèvent du type de produits 3 (produits biocides destinés à l’hygiène vétérinaire) au sens de l’annexe 10 OPBio, dans la mesure où ils sont destinés à lutter contre les microorganismes pathogènes ou susceptibles de transmettre des maladies;
+- c. les produits biocides qui relèvent du type de produits 18 (insecticides, acaricides et produits utilisés pour lutter contre les autres arthropodes) au sens de l’annexe 10 OPBio, dans la mesure où ils sont destinés à lutter contre les arthropodes exotiques envahissants ou susceptibles de transmettre des maladies.
+
+### 4<sup>ter</sup>.2 Autorisation pour l’usage en forêt
+
+<sup>1</sup> L’autorité compétente accorde une autorisation au sens des art. 4 à 6 pour l’usage de produits biocides contre les arthropodes et les microorganismes en forêt si les conditions suivantes sont réunies:
+
+- a. les arthropodes et les microorganismes à combattre compromettent gravement la santé de l’homme ou des animaux de rente ou l’environnement;
+- b. aucune autre mesure appropriée polluant moins l’environnement ne peut être mise en œuvre;
+- c. l’utilisation de produits biocides en forêt sert, compte tenu de la situation actuelle en matière d’infestation en Suisse, à éradiquer les organismes concernés ou à endiguer leur propagation.
+
+<sup>2</sup> Si plusieurs produits biocides se prêtent à la lutte contre les arthropodes et les microorganismes, il convient d’utiliser celui polluant le moins l’environnement.
+
+### 4<sup>ter</sup>.3 Obligation de documenter et communication
+
+<sup>1</sup> Toute personne qui dispose d’une autorisation au sens du ch. 4<sup>ter</sup>.2 doit documenter, pour chaque usage, les informations suivantes et les communiquer à l’autorité compétente avant le 31 décembre:
+
+- a. le but de la lutte ainsi que les arthropodes et les microorganismes combattus;
+- b. le nom commercial du produit biocide utilisé et le numéro fédéral d’autorisation;
+- c. les substances actives contenues dans les produits biocides utilisés et leur concentration;
+- d. la quantité de produits biocides utilisés et le type d’usage;
+- e. les dates et les lieux d’usage ainsi que la superficie des surfaces traitées.
+
+<sup>2</sup> L’autorité compétente élabore avant le 28 février un rapport à l’intention de l’OFEV sur l’usage de produits biocides au sens du ch. 4<sup>ter</sup>.2 l’année précédente. Ce rapport doit contenir les informations visées à l’al. 1.
 
 ### 5 Obligation de rapporter
 
@@ -3824,7 +3857,7 @@ Les teneurs en polluants des amendements inorganiques du sol ne doivent pas dép
 <tr><th>Polluant</th><th>Valeur indicative</th></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
 <tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ<sup>2</sup> par kilogramme de matière sèche</td></tr>
-<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1 0 93/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
+<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 2.2.1.9 Biostimulant des végétaux PFC 6
@@ -3870,7 +3903,7 @@ Les teneurs en polluants des biostimulants des végétaux ne doivent pas dépass
 <tr><th>Polluant</th><th>Valeur indicative</th></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques (HAP)</td><td>4 milligrammes par kilogramme de matière sèche<sup>1</sup></td></tr>
 <tr><td>Dioxines (PCDD) et furanes (PCDF)</td><td>20 nanogrammes WHO<sub>2005</sub>-TEQ<sup>2</sup> par kilogramme de matière sèche</td></tr>
-<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10. 1 093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
+<tr><td colspan="2">1 Somme des 16 principaux composés de HAP (liste des Priority pollutants de l’EPA/USA): naphthalène, acénaphthylène, acénaphtène, fluorène, phénantrène, anthracène, fluoranthène, pyrène, benzo(a)anthracène, chrysène, benzo(b)fluoranthène, benzo(k)fluoranthène, benzo(a)pyrène, indéno(1,2,3-c,d)pyrène, dibenzo(a,h)anthracène et benzo(g,h,i)pérylène. <sup>2</sup> Équivalents toxiques selon les recommandations de l’Organisation mondiale de la santé (OMS) suite à une consultation d’expertes et d’experts en 2005. Référence: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-Like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 <sup>4</sup> Les dispositions de l’al. 1 ne s’appliquent pas aux engrais de ferme destinés à être utilisés dans l’exploitation de production, ni aux engrais provenant d’une exploitation pratiquant l’élevage d’animaux et qui sont remis directement aux utilisateurs finals. Les dispositions de l’art. 10, OEng, sont aussi réservées.
@@ -4145,7 +4178,7 @@ Annexe 2.9[^t-29]
 
 <sup>4</sup> Sont considérées comme des matières plastiques oxodégradablesles matières plastiques renfermant des additifs qui, sous l’effet de l’oxydation, conduisent à une microfragmentation ou à une décomposition chimique.
 
-[^annex29-lvlu1-lvl1-1]: Directive 2007/46/CE du Parlement européen et du Conseil du 5 sept. 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive cadre), JO L 263 du 9.10.2007, p. 1; modifiée en dernier lieu par le R (CE) n<sup>o</sup> 65/2012, JO L 28 du 31.1.2012, p. 24. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être consultés à l’adresse http://eur-lex.europa.eu.
+[^annex29-lvlu1-lvl1-1]: Directive 2007/46/CE du Parlement européen et du Conseil du 5 sept. 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive cadre), JO L 263 du 9.10.2007, p. 1; modifiée en dernier lieu par le R (CE) n<sup>o</sup> 65/2012, JO L 28 du 31.1.2012, p. 24. Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être consultés à l’adresse [http://eur-lex.e u ropa.eu](http://eur-lex.europa.eu).
 [^annex29-lvlu1-lvl1-2]: Directive 2003/37/CE du Parlement européen et du Conseil, du 26 mai 2003, concernant la réception par type des tracteurs agricoles ou forestiers, de leurs remorques et de leurs engins interchangeables tractés, ainsi que des systèmes, composants et entités techniques de ces véhicules, et abrogeant la directive 74/150/CEE, JO L 171 du 9.7.2003, p. 1; modifiée en dernier lieu par la directive 2010/62/UE, JO L 238 du 9.9.2010, p. 7.
 [^annex29-lvlu1-lvl1-3]: Directive 2002/24/CE du Parlement européen et du Conseil du 18 mars 2002 relative à la réception des véhicules à moteur à deux ou trois roues et abrogeant la directive 92/61/CEE du Conseil, JO L 124 du 9.5.2002, p. 1; modifiée en dernier lieu par le R (CE) n<sup>o</sup> 1137/2008, JO L 311 du 21.11.2008, p. 1.
 
@@ -4249,7 +4282,7 @@ Annexe 2.9[^t-29]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 

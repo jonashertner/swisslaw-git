@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2025-09-01
+version: 2025-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250901-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251001-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Last amended on 1 September 2025)
+of 18 May 2005 (Last amended on 1 October 2025)
 
 The Swiss Federal Council,
 
@@ -120,13 +120,14 @@ The following applications require an authorisation granted by the authorities m
 
 <table>
 <tr><th>Application</th><th>Authority granting authorisation</th></tr>
-<tr><td>a. application, on a professional or commercial basis, of products intended to protect plants against rodents (rodenticides), if applied on more than one farm or by machine</td><td>cantonal authority; with the agreement of the Federal Food Safety and Veterinary Office (FSVO), the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) in the case of regional or supraregional applications</td></tr>
+<tr><td>a. application, on a professional or commercial basis, of products intended to protect plants against rodents (rodenticides), if applied on more than one farm or by machine</td><td>cantonal authority; with the agreement of the Federal Food Safety and Veterinary Office (FSVO), the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) in the case of regional or supra-regional applications</td></tr>
 <tr><td>b.[^4-2] aerial spraying and spreading of plant protection products, biocidal products and fertilisers</td><td>Federal Office of Civil Aviation, with the agreement of the Federal Office of Public Health (FOPH), the FSVO, the FOAG, the State Secretariat for Economic Affairs (SECO) and the FOEN</td></tr>
-<tr><td>c. application of plant protection products and fertilisers in forests, unless covered by an authorisation under letter a or b</td><td>cantonal authority</td></tr>
+<tr><td>c.[^4-3] application of biocidal products, plant protection products and fertilisers in forests, unless covered by an authorisation under letter a or b</td><td>cantonal authority</td></tr>
 </table>
 
 [^4-1]: Amended by No I 6 of the O of 4 Sept. 2013 (Reorganisation in the field of Food Safety and Veterinary Medicine), in force since 1 Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^4-3]: Amended by No I of the O of 3 Sept. 2025, in force since 1 Oct. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 #### Art. 4a
 
@@ -1320,7 +1321,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -3231,7 +3232,7 @@ Annex 2.4[^t-24]
 
 ## Biocidal products
 
-[^t-24]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Revised by No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and No II of the O of 3 Sept. 2025, in force since 1 Oct. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 ### 1 Wood preservatives
 
@@ -3370,6 +3371,38 @@ Biocidal products used to control algae and mosses may not be used:
 <sup>1</sup> The holders of authorisation under Article 7 paragraph 1 OPB must inform purchasers of biocidal products used to control algae and mosses about the prohibitions specified in Number 4<sup>bis</sup>.2 by means of labelling or in an equivalent written form.
 
 <sup>2</sup> The information in accordance with paragraph 1 must contain the following statement: “Use is prohibited on roofs and terraces, on storage sites, on or along roads, paths and squares, and on embankments and verges along roads and railways”.
+
+### 4<sup>ter</sup> Biocidal products used to control arthropods and microorganisms
+
+### 4<sup>ter</sup>.1 Definitions
+
+Biocidal products used to control arthropods and microorganisms are:
+
+- a. biocidal products of product type 2 (disinfectants and algaecides not intended for direct application to humans and animals) in accordance with Annex 10 OBP, insofar as they are intended for the control of pathogenic or disease-transmitting microorganisms;
+- b. biocidal products of product type 3 (veterinary hygiene biocidal products) in accordance with Annex 10 OBP, insofar as they are intended for the control of pathogenic or disease-transmitting microorganisms;
+- c. biocidal products of product type 18 (insecticides, acaricides and products to control other arthropods) in accordance with Annex 10 OBP, insofar as they are intended for the control of invasive alien or disease-transmitting arthropods.
+
+### 4<sup>ter</sup>.2 Authorisation for use in forests
+
+<sup>1</sup> The competent authority shall grant authorisation in accordance with Articles 4–6 for the use of biocidal products used to control arthropods and microorganisms in forests if:
+
+- a. the arthropods and microorganisms to be controlled pose a significant risk to human health or the health of livestock or to the environment;
+- b. no other suitable measures are available that are less harmful to the environment; and
+- c. the use of a biocidal product serves the purpose of eradication or containment, taking into account the current infestation situation in Switzerland.
+
+<sup>2</sup> If multiple biocidal products are suitable for the control of arthropods and microorganisms, the one that is the least harmful to the environment must be used.
+
+### 4<sup>ter</sup>.3 Documentation and reporting requirements
+
+<sup>1</sup> Any person with authorisation in accordance with Number 4<sup>ter</sup>.2 must record the following information on individual applications and report it to the competent authority by 31 December of each year:
+
+- a. the purpose of control and arthropods and microorganisms controlled;
+- b. the trade name and Swiss authorisation number of the biocidal products used;
+- c. the active substances contained in the biocidal products used and their concentration;
+- d. the quantity of the biocidal products used and method of use;
+- e. the dates and locations of use as well as the size of the treated areas.
+
+<sup>2</sup> The competent authority shall report to the FOEN by 28 February on the uses of biocidal products in accordance with Number 4<sup>ter</sup>.2 made in the previous year. The report shall contain the information specified in paragraph 1.
 
 ### 5 Bring-back obligation
 
@@ -4258,7 +4291,7 @@ Annex 2.9[^t-29]
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 

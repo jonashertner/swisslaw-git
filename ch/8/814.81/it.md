@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2025-09-01
+version: 2025-10-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20250901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251001-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20250901/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° settembre 2025)
+del 18 maggio 2005 (Stato 1° ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -121,11 +121,12 @@ Per i seguenti impieghi è necessaria lʼautorizzazione delle autorità sottoind
 <tr><th>Impiego</th><th colspan="3">Autorità che rilascia lʼautorizzazione</th></tr>
 <tr><td colspan="2">a. lʼimpiego a titolo professionale o commerciale di prodotti fitosanitari per la lotta contro i roditori (rodenticidi) a livello interaziendale o con lʼuso di macchine</td><td colspan="2">autorità cantonale; per impieghi regionali e transregionali, dʼintesa con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), lʼUfficio federale dellʼagricoltura (UFAG) e lʼUfficio federale dellʼambiente (UFAM)</td></tr>
 <tr><td colspan="2">b.[^4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, biocidi e concimi dall’aria</td><td colspan="2">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
-<tr><td colspan="2">c. lʼimpiego di prodotti fitosanitari e di concimi nel bosco se essi non sono inclusi in unʼautorizzazione secondo le lettere a o b</td><td colspan="2">autorità cantonale</td></tr>
+<tr><td colspan="2">c.[^4-3] l’impiego di biocidi, prodotti fitosanitari e concimi nel bosco se essi non sono inclusi in un’autorizzazione secondo la lettera a o b</td><td colspan="2">autorità cantonale</td></tr>
 </table>
 
 [^4-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 #### Art. 4a
 
@@ -1317,7 +1318,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -3228,7 +3229,7 @@ Allegato 2.4[^t-24]
 
 ## Biocidi
 
-[^t-24]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-24]: Aggiornato dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla cifra I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
 
 ### 1 Prodotti per la protezione del legno
 
@@ -3367,6 +3368,38 @@ Sono considerati biocidi contro alghe e muschi:
 <sup>1</sup> I titolari di autorizzazioni secondo l’articolo 7 capoverso 1 OBioc devono fornire agli acquirenti di biocidi contro alghe e muschi informazioni sui divieti secondo il numero 4<sup>bis</sup> mediante un’etichetta o un’altra indicazione scritta equivalente.
 
 <sup>2</sup> L’informazione di cui al capoverso 1 deve contenere le seguenti indicazioni: «L’impiego su tetti e terrazze, su piazzali adibiti a deposito, su e lungo strade, sentieri e spiazzi, su scarpate e strisce verdi lungo le strade e i binari ferroviari è vietato».
+
+### 4<sup>ter</sup> Biocidi contro artropodi e microrganismi
+
+### 4<sup>ter</sup>.1 Definizioni
+
+Sono considerati biocidi contro artropodi e microrganismi:
+
+- a. i biocidi appartenenti al tipo di prodotto 2 (disinfettanti e alghicidi non destinati all’applicazione diretta sull’uomo o sugli animali) di cui all’allegato 10 OBioc, purché siano destinati al controllo di microrganismi patogeni o vettori di malattie;
+- b. i biocidi appartenenti al tipo di prodotto 3 (biocidi per l’igiene veterinaria) di cui all’allegato 10 OBioc, purché siano destinati al controllo di microrganismi patogeni o vettori di malattie;
+- c. i biocidi appartenenti al tipo di prodotto 18 (insetticidi, acaricidi e prodotti destinati al controllo degli altri artropodi) di cui all’allegato 10 OBioc, purché siano destinati al controllo di artropodi invasivi alloctoni o vettori di malattie.
+
+### 4<sup>ter</sup>.2 Autorizzazione per l’impiego nel bosco
+
+<sup>1</sup> L’autorità competente concede un’autorizzazione secondo gli articoli 4–6 per l’impiego di biocidi destinati al controllo di artropodi e microrganismi nel bosco se:
+
+- a. gli artropodi e i microrganismi da controllare costituiscono un grave pericolo per la salute delle persone o degli animali da reddito oppure per l’ambiente;
+- b. non sono disponibili altre misure adeguate meno inquinanti; e
+- c. l’impiego di un biocida serve a eliminare o contenere tali artropodi e microrganismi tenendo conto della situazione del momento in materia di infestazione in Svizzera.
+
+<sup>2</sup> Se diversi biocidi sono adatti al controllo degli artropodi e dei microrganismi, deve essere impiegato quello meno inquinante.
+
+### 4<sup>ter</sup>.3 Obbligo di documentazione e comunicazione di dati
+
+<sup>1</sup> Chi dispone di un’autorizzazione di cui al numero 4<sup>ter</sup>.2 deve, per ogni singolo impiego, registrare i dati seguenti e comunicarli entro il 31 dicembre all’autorità competente:
+
+- a. scopo del controllo e artropodi e microrganismi a esso soggetti;
+- b. nome commerciale dei biocidi impiegati e numero dell’omologazione federale;
+- c. principi attivi contenuti nei biocidi impiegati e rispettiva concentrazione;
+- d. quantità di biocidi impiegati e tipo di impiego;
+- e. date e luoghi dell’impiego nonché dimensione delle superfici trattate.
+
+<sup>2</sup> L’autorità competente presenta all’UFAM entro il 28 febbraio un rapporto sull’impiego di biocidi di cui al numero 4<sup>ter</sup>.2 avvenuto l’anno precedente. Il rapporto contiene i dati di cui al capoverso 1.
 
 ### 5 Obbligo di riconsegna
 
@@ -4255,7 +4288,7 @@ Allegato 2.9[^t-29]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20250901/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
