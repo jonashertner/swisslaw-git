@@ -4,317 +4,607 @@ number: "833.1"
 title: Gesetz über die BVG- und Stiftungsaufsicht (BSAG)
 short: BSAG
 language: de
-version: "2022-07-01"
-nachtrag: "117"
-valid_until: 2025-10-01
+nachtrag: "130"
 adopted: 2025-06-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-833_1-2011_07_11-2012_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-833_1-2025_06_30--130.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die BVG- und Stiftungsaufsicht (BVSG)
+# Gesetz über die BVG- und Stiftungsaufsicht (BSAG)
 
-(vom 11. Juli 2011)[^t-1],[^t-2]
+(vom 30. Juni 2025)[^t-1],[^t-2]
 
 Der Kantonsrat,
 
-nach Einsichtnahme in die Anträge des Regierungsrates vom 9. März 2011[^t-3] und der Kommission für Staat und Gemeinden vom 15. April 2011[^t-4],
+nach Einsichtnahme in die Anträge des Regierungsrates vom 5. Juni 2024[^t-3] und der Kommission für Staat und Gemeinden vom 21. Februar 2025[^t-4],
 
 beschliesst:
 
-[^t-1]: OS 66, 645.
-[^t-2]: Inkrafttreten: 1. Januar 2012.
-[^t-3]: ABl 2011, 696.
-[^t-4]: ABl 2011, 1316.
-
-### A. Allgemeine Bestimmungen
+[^t-1]: OS 80, 228; § 1 tritt am 1. Oktober 2025 in Kraft.
+[^t-2]: Inkrafttreten: 1. Januar 2026 (§§ 2–12 und Vereinbarung).
+[^t-3]: ABl 2024-06-21.
+[^t-4]: ABl 2025-03-21.
 
 #### § 1
 
-**Name, Rechtsform, Sitz**
+**Beitritt**
 
-Unter dem Namen «BVG- und Stiftungsaufsicht des Kantons Zürich (BVS)» besteht eine selbstständige öffentlich-rechtliche Anstalt mit Sitz in Zürich.
+Der Kanton Zürich tritt der Interkantonalen Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin vom 22. Mai 2024 (IVBSA) bei.
 
-**Zuständigkeit der Anstalt**
+#### § 2
 
-§ 2.[^1-1] <sup>1</sup> Die Anstalt ist kantonale Aufsichtsbehörde über folgende Einrichtungen mit Sitz im Kanton Zürich:
+**Aufgaben a. Anstalt**
 
-- a. Vorsorgeeinrichtungen sowie Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, gemäss Art. 61 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^1-2],
+<sup>1</sup> Die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin (Anstalt) beaufsichtigt folgende Einrichtungen mit Sitz im Kanton Zürich:
 
-- b. Personalfürsorgestiftungen nach Art. 89 a Abs. 6 ZGB[^1-3].
+- a. Vorsorgeeinrichtungen und Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen, gemäss Art. 61 des Bundesgesetzes vom 25. Juni 1982[^2-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge,
 
-<sup>2</sup> Sie ist Aufsichtsbehörde über Stiftungen nach Art. 84 ZGB, die nach ihrer Bestimmung dem Kanton oder mehreren Bezirken angehören. Sie nimmt weitere Aufgaben des Kantons im Bereich des Stiftungsrechts gemäss diesem Gesetz wahr.
+- b. Personalfürsorgestiftungen gemäss Art. 89 a des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^2-2].
 
-<sup>3</sup> Sie ist Aufsichtsbehörde über Stiftungen nach Art. 84 ZGB, die nach ihrer Bestimmung einer Gemeinde angehören. Ausgenommen sind Stiftungen, die nach § 2 a von der Gemeinde beaufsichtigt werden.
+<sup>2</sup> Sie beaufsichtigt klassische Stiftungen gemäss Art. 84 ZGB, die nach ihrer Bestimmung a. dem Kanton oder mehreren Bezirken angehören,
 
-<sup>4</sup> Die Anstalt nimmt gestützt auf interkantonale Verträge die Aufsicht über Einrichtungen im Sinne von Abs. 1 und über Stiftungen nach Art. 84 ZGB für andere Kantone wahr.
+- b. einer Gemeinde angehören und nicht von dieser beaufsichtigt werden.
 
-**Zuständigkeit der Gemeinde**
+<sup>3</sup> Sie ist überdies a. Kantonsbehörde gemäss Art. 85, 86 und 86 a ZGB,
 
-§ 2 a.[^1-4] <sup>1</sup> Der Gemeindevorstand kann für einzelne Stiftungen gemäss § 2 Abs. 3 beschliessen, die Aufsicht selber wahrzunehmen, wenn die Stiftung a. eine Bilanzsumme von weniger als 5 Mio. Franken ausweist und b. im Jahresdurchschnitt über weniger als fünf Vollzeitstellen verfügt.
+- b. Kantonsbehörde gemäss Art. 88 ZGB, ausser bei Stiftungen, die von einem Bezirk oder einer Gemeinde beaufsichtigt werden,
 
-**1**
+- c. Rekursinstanz gemäss § 9 Abs. 1 dieses Gesetzes.
 
-- 1\. 7. 22 - 117
-
-<sup>2</sup> Die Zuständigkeit für die Aufsicht wechselt auf den 1. Juli. Der Gemeindevorstand teilt seinen Beschluss der Anstalt bis zum Ende des Vorjahres mit.
-
-<sup>3</sup> Erfüllt eine Stiftung die Voraussetzungen gemäss Abs. 1 nicht mehr, hebt der Gemeindevorstand seinen Beschluss auf und teilt dies der Anstalt mit. Die Zuständigkeit für die Aufsicht wechselt auf den 1. Juli zur Anstalt.
-
-[^1-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
-[^1-2]: SR 831.40.
-[^1-3]: SR 210.
-[^1-4]: Eingefügt durch G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022.
-
-### B. Organisation
+[^2-1]: SR 831.40.
+[^2-2]: SR 210.
 
 #### § 3
 
-**Organe**
+**b. Bezirksrat**
 
-Die Organe der Anstalt sind a. der Verwaltungsrat,
+<sup>1</sup> Der Bezirksrat beaufsichtigt klassische Stiftungen, die nach ihrer Bestimmung dem Bezirk oder mehreren Gemeinden des Bezirks angehören.
 
-- b. die Direktorin oder der Direktor,
+<sup>2</sup> In diesen Fällen ist er Kantonsbehörde gemäss Art. 88 ZGB.
 
-- c. die Revisionsstelle.
+**1**
 
-#### § 4
+1.10. 25 - 130 § 4. <sup>1</sup> Der Gemeindevorstand kann beschliessen, einzelne klassische Stiftungen, die nach ihrer Bestimmung der Gemeinde angehören, selbst zu beaufsichtigen, wenn eine Stiftung a. eine Bilanzsumme von weniger als 5 Mio. Franken ausweist und b. im Jahresdurchschnitt über weniger als fünf Vollzeitstellen verfügt.
 
-**Verwaltungsrat a. Wahl**
+**c. Gemeindevorstand**
 
-<sup>1</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten und vier weitere Mitglieder des Verwaltungsrates auf eine Amtsdauer von vier Jahren. Er stellt dabei sicher, dass der Verwaltungsrat unabhängig ist und über die erforderlichen Fachkenntnisse in den Bereichen Recht, Wirtschaftsprüfung und Management verfügt.
+<sup>2</sup> In diesem Fall ist der Gemeindevorstand Kantonsbehörde gemäss Art. 88 ZGB.
 
-<sup>2</sup> Im Übrigen konstituiert sich der Verwaltungsrat selbst.
+<sup>3</sup> Die Zuständigkeit für die Aufsicht wechselt auf den 1. Juli. Der Gemeindevorstand teilt seinen Beschluss der Anstalt bis zum Ende des Vorjahres mit.
+
+<sup>4</sup> Erfüllt eine Stiftung die Voraussetzungen gemäss Abs. 1 nicht mehr, hebt der Gemeindevorstand seinen Beschluss auf und teilt dies der Anstalt mit. Die Zuständigkeit für die Aufsicht wechselt auf den 1. Juli zur Anstalt.
 
 #### § 5
 
-**b. Zuständigkeit**
+**Zuständigkeiten a. Kantonsrat**
 
-<sup>1</sup> Der Verwaltungsrat führt die Anstalt in strategischer Hinsicht.
+<sup>1</sup> Der Kantonsrat entscheidet über a. grundlegende Änderungen der Vereinbarung, insbesondere über den Beitritt weiterer Kantone,
 
-<sup>2</sup> Der Verwaltungsrat a. stellt die Direktorin oder den Direktor an,
+- b. den Austritt aus der Vereinbarung,
 
-- b. übt die unmittelbare Aufsicht über die Anstalt aus,
+- c. die einvernehmliche Auflösung der Vereinbarung.
 
-- c. setzt das Budget und die Finanzplanung fest,
-
-- d. verabschiedet die Jahresrechnung und den Geschäftsbericht und leitet diese zusammen mit dem Bericht der Revisionsstelle an den Regierungsrat weiter,
-
-- e. erlässt die Reglemente der Anstalt über die Organisation, das Personal, das Finanzwesen und die Gebühren,
-
-- f. genehmigt die von der Direktorin oder dem Direktor erlassene Geschäftsordnung.
+<sup>2</sup> Er nimmt den Geschäftsbericht und die Jahresrechnung der Anstalt zur Kenntnis.
 
 #### § 6
 
-**c. Beschlussfassung**
+**b. Regierungsrat**
 
-<sup>1</sup> Der Verwaltungsrat ist mit der Mehrheit seiner Mitglieder beschlussfähig. Es besteht Stimmzwang.
+<sup>1</sup> Der Regierungsrat bezeichnet a. dasjenige seiner Mitglieder, das den Kanton im Konkordatsrat der Anstalt vertritt,
 
-<sup>2</sup> Bei Stimmengleichheit entscheidet die Stimme der Präsidentin oder des Präsidenten.
+- b. die Mitglieder des Schiedsgerichts gemäss Art. 27 IVBSA.
 
-<sup>3</sup> Beschlüsse können auf dem Zirkularweg gefasst werden. Jedes Mitglied kann mündliche Beratung verlangen.
+<sup>2</sup> Er stellt dem Kantonsrat Antrag auf Kenntnisnahme des Geschäftsberichts und der Jahresrechnung der Anstalt. Dabei erstattet er Bericht über die beaufsichtigten Einrichtungen mit Sitz im Kanton.
+
+<sup>3</sup> Er kann nicht grundlegenden Änderungen der Vereinbarung in eigenem Namen zustimmen.
 
 #### § 7
 
-**Direktorin oder Direktor**
+**c. Vertreterin oder Vertreter im Konkordatsrat**
 
-<sup>1</sup> Die Direktorin oder der Direktor führt die Anstalt in operativer und personeller Hinsicht und vertritt sie gegen aussen.
+Das Mitglied des Regierungsrates, das den Kanton im Konkordatsrat vertritt, berichtet dem Kantonsrat und dem Regierungsrat jährlich über den Geschäftsbericht und die Jahresrechnung der Anstalt.
 
-<sup>2</sup> Ihr oder ihm stehen alle Befugnisse zu, die keinem anderen Organ zugewiesen sind. Sie oder er kann im Rahmen der Geschäftsordnung Befugnisse an Angestellte der Anstalt delegieren.
+#### § 8
 
-<sup>3</sup> Sie oder er nimmt an den Sitzungen des Verwaltungsrates mit beratender Stimme und Antragsrecht teil.
+**Amtliche Publikationen**
 
-**Revisionsstelle**
-
-§ 8.[^7-1] Die Finanzkontrolle des Kantons Zürich prüft die Rechnung der Anstalt nach Massgabe des Finanzkontrollgesetzes vom 30. Oktober 2000[^7-2].
-
-[^7-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
-[^7-2]: LS 614.
+Amtliche Publikationen der Anstalt werden im Amtsblatt veröffentlicht.
 
 #### § 9
 
-**Regierungsrat**
+**Rechtsschutz**
 
-<sup>1</sup> Der Regierungsrat übt die allgemeine Aufsicht über die Anstalt aus.
+<sup>1</sup> Anordnungen der Bezirke und Gemeinden im Bereich der klassischen Stiftungen sind mit Rekurs bei der Anstalt anfechtbar.
 
-<sup>2</sup> Der Regierungsrat[^9-1] a. legt die Entschädigung der Mitglieder des Verwaltungsrates fest,
+<sup>2</sup> Anordnungen und Rechtsmittelentscheide der Anstalt im Bereich der klassischen Stiftungen, die nach ihrer Bestimmung dem Kanton, seinen Bezirken oder seinen Gemeinden angehören, sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
 
-- b. verabschiedet die Jahresrechnung und den Geschäftsbericht und leitet diese zusammen mit dem Bericht der Revisionsstelle an den Kantonsrat weiter,
+<sup>3</sup> Der Rechtsschutz gegen Anordnungen der Anstalt im Bereich der beruflichen Vorsorge richtet sich nach Art. 7 IVBSA.
 
-- c. genehmigt die vom Verwaltungsrat beschlossenen Erlasse der Anstalt,
-
-- d. ist zuständig für den Abschluss interkantonaler Verträge betreffend die Übernahme der Aufsicht für andere Kantone.
-
-[^9-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
+<sup>4</sup> Die übrigen Anordnungen und die Erlasse der Anstalt sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
 
 #### § 10
 
-**Kantonsrat**
+**Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Der Kantonsrat übt die parlamentarische Kontrolle über die Anstalt aus. Die fachliche Aufsicht des Bundes bleibt vorbehalten.
+Das Gesetz über die BVG- und Stiftungsaufsicht vom 11. Juli 2011 wird aufgehoben.
 
-<sup>2</sup> Er genehmigt die Jahresrechnung und den Geschäftsbericht.
-
-### C. Tätigkeit
+[^10-1]: LS 230.
+[^10-2]: Text siehe OS 80, 228. 1.10. 25 - 130 3
 
 #### § 11
 
-**Vorsorgeeinrichtungen**
+**Änderung bisherigen Rechts**
 
-Im Bereich der Aufsicht über Einrichtungen nach § 2 Abs. 1 erfüllt die Anstalt alle Aufgaben, die gemäss dem Vorsorgerecht des Bundes von der kantonalen Aufsichtsbehörde wahrzunehmen sind.
-
-[^11-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
+Das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 2. April 1911[^10-1] wird wie folgt geändert: . . .[^10-2]
 
 #### § 12
 
-**Stiftungen a. Zuständigkeit**
+**Übergangsbestimmung**
 
-<sup>1</sup> Die Anstalt ist die zuständige Kantonsbehörde im Sinne von[^11-1] a. Art. 85, 86 und 86 a ZGB,
+<sup>1</sup> Verfahren, die bei Inkrafttreten des Gesetzes bei der BVG- und Stiftungsaufsicht des Kantons Zürich hängig sind, werden von der Anstalt weitergeführt und richten sich nach bisherigem Recht.
 
-- b. Art. 88 ZGB, wenn sie Aufsichtsbehörde im Sinne von § 2 Abs. 1–4 ist.
+<sup>2</sup> Stiftungen, die beim Inkrafttreten des Gesetzes von der Gemeinde beaufsichtigt werden, werden weiterhin von dieser beaufsichtigt.
 
-<sup>2</sup> Bei der Ausübung der Aufsicht über subventionierte Stiftungen berücksichtigt die Anstalt die Kontrolle derjenigen Direktion des Regierungsrates, die für die Ausrichtung der Beiträge zuständig ist.
+## Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin (IVBSA)
 
-**3**
+(vom 22. Mai 2024)
 
-- 1\. 7. 22 - 117 § 13. <sup>1</sup> Die Stiftungen reichen der Anstalt jährlich die Jahresrechnung, einen Tätigkeitsbericht und, sofern die Stiftung von der Pflicht zur Bezeichnung einer Revisionsstelle nicht befreit worden ist, den Bericht der Revisionsstelle ein.
+Die Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden,
 
-**b. Aufsicht**
+### Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin
 
-<sup>2</sup> Sie reichen neue oder geänderte Reglemente umgehend zur Prüfung ein.
+vereinbaren:
 
-<sup>3</sup> Sie benachrichtigen die Anstalt unverzüglich bei besonderen Vorkommnissen, welche die Beurteilung der Lage der Stiftung erheblich beeinflussen oder ein rasches Einschreiten erfordern.
+- 1\. Allgemeine Bestimmungen
 
-<sup>4</sup> Die Anstalt regelt das Nähere.
+#### Art. 1
 
-#### § 14
+**Gemeinsame Aufsichtsregion**
 
-**c. Eingriffsbefugnis**
+Die Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin («Vereinbarungskantone») bilden eine gemeinsame Aufsichtsregion für die Beaufsichtigung von a) Einrichtungen der beruflichen Vorsorge gemäss Art. 61 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG),
 
-Bei Rechtsverletzungen der Stiftungsorgane trifft die Anstalt die erforderlichen Anordnungen.
+- b) klassischen Stiftungen gemäss Art. 84 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB), soweit die Vereinbarungskantone diese Aufgabe der Anstalt übertragen haben.
 
-#### § 15
+#### Art. 2
 
-**d. Verzeichnis**
+**Anstalt a. Grundsatz**
 
-<sup>1</sup> Die Anstalt führt ein Verzeichnis der Stiftungen mit Sitz im Kanton Zürich. Sie kann von den Stiftungen die dafür erforderlichen Angaben einfordern.
+Unter dem Namen «BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin» besteht eine interkantonale öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit und Sitz in Zürich.
 
-<sup>2</sup> Das Verzeichnis wird auf informatikunterstützten Informationssystemen der Öffentlichkeit zugänglich gemacht.
+#### Art. 3
 
-### D. Personal und Finanzen
+**b. Sprachen**
 
-[^hDPersonalundFina-1]: LS 177.10 ff.
+<sup>1</sup> Amtssprache der Anstalt ist Deutsch.
 
-#### § 16
+<sup>2</sup> Die Anstalt stellt ihre Leistungen im Zusammenhang mit einer Einrichtung der beruflichen Vorsorge oder einer klassischen Stiftung in einer Amtssprache des Vereinbarungskantons zur Verfügung, in welchem die Einrichtung oder Stiftung ihren Sitz hat.
 
-**Personal**
+#### Art. 4
 
-<sup>1</sup> Für die Angestellten der Anstalt gilt das öffentliche Personalrecht des Kantons[^hDPersonalundFina-1]. Sie sind bei einer Personalvorsorgeeinrichtung versichert, die nicht der Aufsicht der Anstalt untersteht.
+**c. Aufgaben**
+
+<sup>1</sup> Die Anstalt
+
+- a) erfüllt die den Kantonen nach der Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge übertragenen Aufgaben,
+
+- b) übernimmt die Aufgaben im Bereich der klassischen Stiftungen, soweit ihr die Vereinbarungskantone diese Aufgaben gemäss Art. 35 übertragen haben.
+
+<sup>2</sup> Die Vereinbarungskantone können der Anstalt weitere Aufgaben im Bereich der klassischen Stiftungen übertragen, insbesondere die Funktionen als Kantonsbehörde gemäss Art. 85, 86, 86 a und 88 ZGB und die Behandlung von Rechtsmitteln.
+
+#### Art. 5
+
+**Anwendbares Recht**
+
+Soweit nichts anderes bestimmt ist, ist das Recht des Kantons Zürich anwendbar.
+
+#### Art. 6
+
+**Personalwesen**
+
+<sup>1</sup> Für die Angestellten der Anstalt gilt das öffentliche Per-
+
+sonalrecht des Kantons Zürich.
 
 <sup>2</sup> Der Verwaltungsrat kann im Personalreglement abweichende Bestimmungen erlassen, soweit dies aus betrieblichen Gründen erforderlich ist.
 
-#### § 17
+<sup>3</sup> Angestellte der Anstalt, die nach der Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge obligatorisch versichert sind, sind bei einer Personalvorsorgeeinrichtung zu versichern, die nicht der Aufsicht der Anstalt untersteht.
 
-**Haftung**
+#### Art. 7
 
-<sup>1</sup> Für Schäden, die Angestellte in Ausübung amtlicher Verrichtungen einem Dritten widerrechtlich zufügen, haftet ausschliesslich die Anstalt. Sie schliesst zu diesem Zweck eine Haftpflichtversicherung ab.
+**Rechtsschutz**
 
-<sup>2</sup> Im Übrigen gilt das Haftungsgesetz vom 14. September 1969[^17-1] sinngemäss.
+<sup>1</sup> Verfügungen der Anstalt im Bereich der beruflichen Vor-
 
-[^17-1]: LS 170.1.
+sorge können gemäss Art. 74 BVG angefochten werden.
 
-#### § 18
+<sup>2</sup> Verfügungen und Rechtsmittelentscheide der Anstalt im Bereich der klassischen Stiftungen können gemäss den Rechtspflegebestimmungen des Vereinbarungskantons angefochten werden, dem die Stiftung nach ihrer Bestimmung angehört.
 
-**Finanzierung a. Gebühren**
+<sup>3</sup> Die übrigen Verfügungen und Erlasse der Anstalt können gemäss den Rechtspflegebestimmungen des Kantons Zürich angefochten werden.
 
-<sup>1</sup> Die Anstalt wird nach kaufmännischen Grundsätzen selbsttragend geführt.
+<sup>4</sup> Rechtsmittel gegen Erlasse der Anstalt haben keine aufschiebende Wirkung.
 
-<sup>2</sup> Sie erhebt folgende Gebühren:
+#### Art. 8
 
-- a. jährliche Aufsichtsgebühren unabhängig vom Aufwand der Anstalt,
+**Amtliche Publikationen**
 
-- b. jährliche Abgabe gemäss Art. 64 c Abs. 2 lit. a BVG[^18-1],
-
-- c. Gebühren für die einzelnen Prüfungen, Verfügungen und weiteren Dienstleistungen.
-
-<sup>3</sup> Die Gebührenordnung legt fest, in welchen Fällen die Aufsichtsgebühr aufgrund des Bruttovermögens einschliesslich Rückkaufswerten oder aufgrund der reglementarischen Austrittsleistungen bemessen wird.
-
-<sup>4</sup> Die Gebühren nach Abs. 2 lit. c werden innerhalb des von der Gebührenordnung vorgegebenen Rahmens nach Aufwand bemessen.
-
-[^18-1]: SR 831.40.
-
-#### § 19
-
-**b. Darlehen**
-
-<sup>1</sup> Zur Finanzierung der Anfangsphase stellt der Kanton Zürich der Anstalt ein Darlehen von höchstens 5 Mio. Franken zu den Selbstkosten zur Verfügung.
-
-<sup>2</sup> Die Anstalt kann das Darlehen jederzeit teilweise oder ganz zurückzahlen.
-
-**Eigenkapital**
-
-§ 20.[^19-1] Die Zielgrösse des Eigenkapitals der Anstalt beträgt einen Jahresumsatz.
-
-[^19-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
-
-#### § 21
-
-**Finanzplanung und Rechnungslegung**
-
-Die Anstalt erstellt eine Finanzplanung, ein Budget und einen Geschäftsbericht. Sie führt eine Finanzbuchhaltung.
-
-### E. Rechtspflege
-
-§ 22.[^hERechtspflege-1] <sup>1</sup> Die Anfechtung von Verfügungen der Anstalt im Bereich der beruflichen Vorsorge im Sinne von § 2 Abs. 1 richtet sich nach Art. 74 Abs. 1 BVG[^hERechtspflege-2].
-
-<sup>2</sup> Erstinstanzliche Anordnungen und Rechtsmittelentscheide der Anstalt im Bereich der Stiftungen im Sinne von Art. 84 ZGB sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
-
-<sup>3</sup> Anordnungen des Verwaltungsrates sind mit Beschwerde beim Verwaltungsgericht anfechtbar.
-
-<sup>4</sup> Anordnungen der Bezirke und Gemeinden im Bereich der Stiftungen im Sinne von Art. 84 ZGB sind mit Rekurs bei der Anstalt anfechtbar.
+Amtliche Publikationen der Anstalt werden in den amtlichen Publikationsorganen der betroffenen Vereinbarungskantone veröffentlicht.
 
 **5**
 
-- 1\. 7. 22 - 117
+1.10. 25 - 130 2. Organisation
 
-[^hERechtspflege-1]: Fassung gemäss G vom 7. Februar 2022 (OS 77, 311; ABl 2020-09-04). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 7
-[^hERechtspflege-2]: SR 831.40.
+#### Art. 9
 
-### F. Schluss- und Übergangsbestimmungen
+**Organe**
 
-#### § 23
+**Die Organe der Anstalt sind**
 
-**Änderung bisherigen Rechts**
+- a) der Konkordatsrat,
 
-Das geltende Recht wird wie folgt geändert:
+- b) der Verwaltungsrat,
 
-- a. Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 2.April 1911[^23-1]: . . .[^23-2]
+- c) die Geschäftsleitung,
 
-- b. Gesetz über die Märkte und das Reisendengewerbe vom 11. April 2005[^23-3]: . . .[^23-2]
+- d) die Revisionsstelle.
 
-**Übergangsrecht**
+#### Art. 10
 
-§ 24. Bis zum Erlass der Gebührenordnung durch den Verwaltungsrat erhebt die Anstalt Gebühren nach §§ 3 und 10 der Verordnung über die berufliche Vorsorge und das Stiftungswesen vom 19. Juli 2000.
+**Konkordatsrat a. Zusammensetzung**
 
-[^23-1]: LS 230.
-[^23-2]: Text siehe OS 66, 645.
-[^23-3]: LS 935.31.
+<sup>1</sup> Der Konkordatsrat besteht aus je einem Mitglied der
 
-### Übergangsbestimmungen zur Änderung vom 7. Februar 2022
+Regierungen der Vereinbarungskantone.
 
-(OS 77, 311)
+<sup>2</sup> Er konstituiert sich selbst und wählt aus seiner Mitte die Vorsitzende oder den Vorsitzenden.
 
-I. Die Zuständigkeit für Verfahren, die bei Inkrafttreten der Änderung vom 7. Februar 2022 hängig sind, richtet sich nach bisherigem Recht.
+<sup>3</sup> Das Sekretariat des Konkordatsrates wird durch die Geschäftsleitung wahrgenommen.
 
-II. <sup>1</sup> Die Anstalt ist ab dem 1. Juli, der dem Inkrafttreten der Änderung vom 7. Februar 2022 folgt, für die Aufsicht gemäss § 2 Abs. 3 zuständig.
+#### Art. 11
 
-<sup>2</sup> Die Gemeinde und die Anstalt können den Wechsel der Zuständigkeit gemäss § 2 Abs. 3 auf einen früheren Zeitpunkt vereinbaren. Dieses Gesetz untersteht dem fakultativen Referendum. Es wird nach Art. 37 der Kantonsverfassung[^hÜbergangsbestimmunge-1] als dringlich erklärt und tritt am 1. Januar 2012 in Kraft.
+**b. Beschlussfassung**
 
-[^hÜbergangsbestimmunge-1]: LS 101.
+<sup>1</sup> Der Konkordatsrat ist beschlussfähig, wenn die Mehr-
 
-## Weitere Fussnoten
+heit seiner Mitglieder persönlich anwesend ist oder mit elektronischen Mitteln an der Sitzung teilnimmt.
 
-- [10] Obsolet.
-- [13] SR 221.302.
+<sup>2</sup> Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Die oder der Vorsitzende stimmt mit. Bei Stimmengleichheit gibt ihre oder seine Stimme den Ausschlag.
+
+<sup>3</sup> Beschlüsse können auf dem Zirkularweg gefasst werden. Jedes Mitglied kann eine Sitzung verlangen.
+
+<sup>4</sup> Die Präsidentin oder der Präsident des Verwaltungsrates und die Direktorin oder der Direktor nehmen an den Sitzungen mit beratender Stimme und Antragsrecht teil.
+
+#### Art. 12
+
+**c. Aufgaben**
+
+<sup>1</sup> Der Konkordatsrat
+
+- a) wählt die Präsidentin oder den Präsidenten und die übrigen Mitglieder des Verwaltungsrates,
+
+- b) legt die Entschädigung der Mitglieder des Verwaltungsrates fest,
+
+- c) genehmigt die Wahl oder Abberufung der Direktorin oder des Direktors,
+
+- d) wählt die Revisionsstelle,
+
+- e) genehmigt die Jahresrechnung und den Geschäftsbericht,
+
+- f) sorgt für eine angemessene Berichterstattung in den jeweiligen Vereinbarungskantonen,
+
+- g) genehmigt die Reglemente der Anstalt über die Organisation, das Personal, das Finanzwesen und die Gebühren,
+
+- h) regelt mit einem Vereinbarungskanton die Einzelheiten dessen Austritts aus der Vereinbarung,
+
+- i) legt bei Austritt des Kantons Zürich aus der Vereinbarung den Sitz der Anstalt, das anwendbare Recht und die Zuständigkeit der Gerichte neu fest,
+
+- j) entscheidet bei einvernehmlicher Auflösung der Vereinbarung über die Verwendung des Vermögens.
+
+<sup>2</sup> Er stellt bei der Wahl des Verwaltungsrates sicher, dass dessen Mitglieder unabhängig sind und über die erforderlichen Fähigkeiten verfügen.
+
+#### Art. 13
+
+**d. Entschädigung**
+
+Die Entschädigung der Mitglieder des Konkordatsrates ist Sache der Vereinbarungskantone.
+
+#### Art. 14
+
+**Verwaltungsrat a. Zusammensetzung und Amtsdauer**
+
+<sup>1</sup> Der Verwaltungsrat besteht aus der Präsidentin oder dem
+
+Präsidenten und vier weiteren Mitgliedern.
+
+<sup>2</sup> Die Amtsdauer beträgt vier Jahre. Zweimalige Wiederwahl ist möglich.
+
+<sup>3</sup> Im Übrigen konstituiert sich der Verwaltungsrat selbst.
+
+#### Art. 15
+
+**b. Beschlussfassung**
+
+<sup>1</sup> Der Verwaltungsrat ist beschlussfähig, wenn die Mehr-
+
+heit seiner Mitglieder persönlich anwesend ist oder mit elektronischen Mitteln an der Sitzung teilnimmt.
+
+<sup>2</sup> Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Die Präsidentin oder der Präsident stimmt mit. Bei Stimmengleichheit gibt ihre oder seine Stimme den Ausschlag.
+
+<sup>3</sup> Beschlüsse können auf dem Zirkularweg gefasst werden. Jedes Mitglied kann eine Sitzung verlangen.
+
+<sup>4</sup> Die Direktorin oder der Direktor nimmt an den Sitzungen mit beratender Stimme und Antragsrecht teil.
+
+#### Art. 16
+
+**c. Aufgaben**
+
+**Der Verwaltungsrat**
+
+- a) führt die Anstalt in strategischer und finanzieller Hinsicht,
+
+- b) übt die unmittelbare Aufsicht über die Geschäftstätigkeit der Anstalt aus,
+
+- c) wählt die Direktorin oder den Direktor und beruft sie oder ihn ab,
+
+- d) genehmigt die Wahl der Mitglieder der Geschäftsleitung,
+
+- e) setzt das Budget und die Finanzplanung fest,
+
+- f) beschliesst über die Gewinnverwendung,
+
+- g) nimmt den Bericht der Revisionsstelle zur Kenntnis,
+
+**7**
+
+1.10. 25 - 130 h) verabschiedet die Jahresrechnung und den Geschäftsbericht,
+
+- i) erlässt die Reglemente der Anstalt über die Organisation, das Personal, das Finanzwesen und die Gebühren,
+
+- j) genehmigt die Geschäftsordnung der Anstalt,
+
+- k) erlässt die Leitlinien über die Informationstätigkeit der Anstalt.
+
+#### Art. 17
+
+**Geschäftsleitung a. Zusammensetzung**
+
+<sup>1</sup> Die Geschäftsleitung besteht aus der Direktorin oder
+
+dem Direktor und weiteren von ihr bzw. ihm bestimmten Mitgliedern.
+
+<sup>2</sup> Im Übrigen konstituiert sich die Geschäftsleitung selbst.
+
+#### Art. 18
+
+**b. Aufgaben**
+
+**Die Geschäftsleitung**
+
+- a) führt die Anstalt in fachlicher, operativer und personeller Hinsicht,
+
+- b) erlässt die Geschäftsordnung der Anstalt,
+
+- c) erarbeitet die Entscheidungsgrundlagen des Verwaltungsrates und berichtet ihm regelmässig, bei besonderen Ereignissen unverzüglich,
+
+- d) erstellt die Jahresrechnung und verfasst den Geschäftsbericht,
+
+- e) erfüllt alle Aufgaben, die keinem anderen Organ zugewiesen sind.
+
+#### Art. 19
+
+**Revisionsstelle**
+
+Die Revisionsstelle prüft die Jahresrechnung und erstattet dem Verwaltungsrat Bericht über das Ergebnis.
+
+- 3\. Finanzen
+
+#### Art. 20
+
+**Rechnungslegung und Finanzplanung**
+
+<sup>1</sup> Die Rechnungslegung erfolgt nach den Grundsätzen der
+
+kaufmännischen Buchführung.
+
+<sup>2</sup> Die Anstalt erstellt eine Finanzplanung, ein Budget und einen Geschäftsbericht.
+
+#### Art. 21
+
+**Finanzierung**
+
+Die Anstalt finanziert sich durch kostendeckende Gebühren.
+
+#### Art. 22
+
+**Gebühren**
+
+<sup>1</sup> Die Anstalt erhebt
+
+- a) jährliche Aufsichtsgebühren,
+
+- b) Gebühren für einzelne Prüfungen, Verfügungen und weitere Dienstleistungen.
+
+<sup>2</sup> Die jährliche Aufsichtsgebühr bemisst sich nach der Bilanzsumme der beaufsichtigten Einrichtung einschliesslich Rückkaufswerte. Dabei werden folgende Tarife für folgende Einrichtungen unterschieden:
+
+- a) Sammel- und Gemeinschaftseinrichtungen,
+
+- b) übrige Vorsorgeeinrichtungen, einschliesslich Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen,
+
+- c) klassische Stiftungen.
+
+<sup>3</sup> Die übrigen Gebühren bemessen sich innerhalb des von der Gebührenordnung vorgegebenen Rahmens nach Aufwand.
+
+#### Art. 23
+
+**Eigenkapital**
+
+<sup>1</sup> Das Eigenkapital beträgt 80 bis 120 Prozent des Jahres-
+
+aufwands der Anstalt.
+
+<sup>2</sup> Wird diese Bandbreite unter- oder überschritten, erhöht bzw. senkt der Verwaltungsrat die Gebühren entsprechend.
+
+#### Art. 24
+
+**Darlehen**
+
+<sup>1</sup> Um die Zahlungsfähigkeit sicherzustellen, können die
+
+Vereinbarungskantone der Anstalt Darlehen gewähren.
+
+<sup>2</sup> Darlehen werden zu den Selbstkosten gewährt.
+
+<sup>3</sup> Die Anstalt kann Darlehen jederzeit ganz oder teilweise zurückzahlen.
+
+#### Art. 25
+
+**Steuerbefreiung**
+
+Die Anstalt ist von den Staats-, Bezirks- und Gemeindesteuern der Vereinbarungskantone befreit.
+
+#### Art. 26
+
+**Haftung**
+
+<sup>1</sup> Die Anstalt haftet für ihre Verbindlichkeiten und für
+
+Schäden, die ihre Organe und ihre Angestellten in Ausübung ihrer amtlichen Tätigkeit Dritten widerrechtlich zufügen.
+
+<sup>2</sup> Sie schliesst Haftpflichtversicherungen ab.
+
+- 4\. Streiterledigung
+
+#### Art. 27
+
+<sup>1</sup> Über Streitigkeiten zwischen den Vereinbarungskantonen
+
+oder zwischen Vereinbarungskantonen und der Anstalt entscheidet ein Schiedsgericht.
+
+<sup>2</sup> Jede Streitpartei bezeichnet ein Schiedsgerichtsmitglied.
+
+<sup>3</sup> Die Streitparteien bezeichnen gemeinsam a) eine Vorsitzende oder einen Vorsitzenden des Schiedsgerichts,
+
+- b) ein weiteres Schiedsgerichtsmitglied, falls das Schiedsgericht ansonsten eine gerade Mitgliederzahl aufweist.
+
+**9**
+
+1.10. 25 - 130
+
+<sup>4</sup> Können sich die Streitparteien nicht auf eine gemeinsame Bezeichnung einigen, bezeichnet die Präsidentin oder der Präsident des Verwaltungsgerichts des Kantons Zürich die Vorsitzende oder den Vorsitzenden und ein allfälliges weiteres Schiedsgerichtsmitglied.
+
+- 5\. Austritt aus und Auflösung der Vereinbarung
+
+#### Art. 28
+
+**Austritt a. im Allgemeinen**
+
+<sup>1</sup> Jeder Vereinbarungskanton kann unter Einhaltung einer
+
+Frist von zwei Jahren auf das Ende eines Kalenderjahres aus der Vereinbarung austreten. Ein Austritt kann erstmals fünf Jahre nach Inkrafttreten dieser Vereinbarung erfolgen.
+
+<sup>2</sup> Der austretende Vereinbarungskanton hat keinen Anspruch auf Anteile am Vermögen der Anstalt.
+
+<sup>3</sup> Der Konkordatsrat passt den Wortlaut des Titels sowie von Art. 1 und 2 der Vereinbarung an.
+
+<sup>4</sup> Im Übrigen wird der Austritt eines Vereinbarungskantons zwischen diesem und dem Konkordatsrat geregelt.
+
+#### Art. 29
+
+**b. des Kantons Zürich**
+
+<sup>1</sup> Tritt der Kanton Zürich aus der Vereinbarung aus, legt
+
+der Konkordatsrat den Sitz der Anstalt, das anwendbare Recht gemäss Art. 5 und 6 Abs. 1 und die Zuständigkeit der Gerichte gemäss Art. 7 Abs. 3 und 27 Abs. 4 neu fest.
+
+<sup>2</sup> Abs. 1 gilt für einen neuen Sitzkanton sinngemäss.
+
+#### Art. 30
+
+**Auflösung**
+
+<sup>1</sup> Die Vereinbarungskantone können die Vereinbarung
+
+durch übereinstimmenden Beschluss ihrer zuständigen Organe unter Einhaltung einer Frist von zwei Jahren auf das Ende eines Kalenderjahres einvernehmlich auflösen.
+
+<sup>2</sup> Der Konkordatsrat entscheidet über die Verwendung des Vermögens.
+
+- 6\. Übergangs- und Schlussbestimmungen
+
+#### Art. 31
+
+**Rechtsnachfolge**
+
+Auf den Zeitpunkt des Inkrafttretens dieser Vereinbarung gehen alle Aktiven und Passiven sowie sämtliche Verträge der BVG- und Stiftungsaufsicht des Kantons Zürich und der Ostschweizer BVG- und Stiftungsaufsicht auf die Anstalt über.
+
+#### Art. 32
+
+**Auflösung der bisherigen Anstalten**
+
+Die BVG- und Stiftungsaufsicht des Kantons Zürich und die Ostschweizer BVG- und Stiftungsaufsicht werden mit Inkrafttreten dieser Vereinbarung aufgelöst.
+
+#### Art. 33
+
+**Haftung für Ansprüche aus der Zeit vor Inkrafttreten**
+
+<sup>1</sup> Für nicht gedeckte Haftungsansprüche aus der früheren
+
+Tätigkeit der BVG- und Stiftungsaufsicht des Kantons Zürich und der Ostschweizer BVG- und Stiftungsaufsicht haftet die Anstalt während zehn Jahren ab Inkrafttreten dieser Vereinbarung bis zum Betrag des von der jeweiligen Anstalt eingebrachten Eigenkapitals.
+
+<sup>2</sup> Darüber hinaus haften für Ansprüche aus der früheren Tätigkeit der Ostschweizer BVG- und Stiftungsaufsicht subsidiär die Kantone Glarus, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin gemäss den Haftungsregeln der Interkantonalen Vereinbarung über die Ostschweizer BVG- und Stiftungsaufsicht vom 26. September 2005.
+
+<sup>3</sup> Die Haftung des Kantons Tessin beschränkt sich auf Ansprüche, die ab seinem Beitritt zur Ostschweizer BVG- und Stiftungsaufsicht entstanden sind.
+
+#### Art. 34
+
+**Eigenkapital**
+
+<sup>1</sup> Das Anfangskapital der Anstalt besteht aus dem Eigen-
+
+kapital, das von der BVG- und Stiftungsaufsicht des Kantons Zürich und der Ostschweizer BVG- und Stiftungsaufsicht eingebracht wurde.
+
+<sup>2</sup> Das Mindesteigenkapital gemäss Art. 23 Abs. 1 ist innert zehn Jahren vollständig zu äufnen.
+
+#### Art. 35
+
+**Aufgaben im Bereich der klassischen Stiftungen**
+
+Die Anstalt übernimmt mit Inkrafttreten dieser Vereinbarung für die nachstehenden Vereinbarungskantone folgende Aufgaben im Bereich der klassischen Stiftungen:
+
+- a) Kanton Zürich:
+
+- 1\. Aufsicht, soweit dafür nach dem kantonalen Recht nicht die Bezirke oder Gemeinden zuständig sind,
+
+- 2\. Entscheid über Rekurse gegen Anordnungen der Bezirke und Gemeinden,
+
+- 3\. Funktion als Kantonsbehörde gemäss Art. 85, 86 und 86 a ZGB,
+
+- 4\. Funktion als Kantonsbehörde gemäss Art. 88 ZGB, soweit dafür nach dem kantonalen Recht nicht die Bezirke oder Gemeinden zuständig sind,
+
+- b) Kanton St.Gallen:
+
+- 1\. Aufsicht,
+
+- 2\. Funktion als Kantonsbehörde gemäss Art. 85, 86, 86 a und 88 ZGB,
+
+- c) Kanton Thurgau: Alle Aufgaben des Kantons,
+
+**11**
+
+1.10. 25 - 130 d) Kanton Tessin:
+
+- 1\. Aufsicht,
+
+- 2\. Funktion als Kantonsbehörde gemäss Art. 85, 86, 86 a und 88 ZGB.
+
+#### Art. 36
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Vereinbarung tritt auf den 1. Januar des Jahres in
+
+Kraft, das auf das Jahr folgt, in dem sämtliche Vereinbarungskantone der Vereinbarung beigetreten sind.
+
+<sup>2</sup> Der Konkordatsrat nimmt seine Tätigkeit auf den ersten Tag des Monats auf, der auf den Monat folgt, in dem sämtliche Vereinbarungskantone der Vereinbarung beigetreten sind.
+
+<sup>3</sup> Der Verwaltungsrat nimmt seine Tätigkeit unmittelbar nach seiner Wahl durch den Konkordatsrat auf.
