@@ -4,13 +4,12 @@ number: "170.3"
 title: Gesetz über die Verantwortlichkeit
 short: Verantwortlichkeitsgesetz
 language: de
-version: 2022-01-01
-valid_until: 2025-09-30
-version_adopted: 2021-03-24
+version: 2025-10-01
+version_adopted: 2025-04-02
 adopted: 1979-02-14
 in_force: 1981-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/170.3"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2442/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2945/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Verantwortlichkeitsgesetz
 
 (Verantwortlichkeitsgesetz)
 
-vom 14.02.1979 (Stand 01.01.2022)
+vom 14.02.1979 (Stand 01.10.2025)
 
 ## 1. Allgemeines
 
@@ -48,6 +47,11 @@ vom 14.02.1979 (Stand 01.01.2022)
 <sup>1</sup> …
 
 <sup>2</sup> Die Haftung des Staates und der mit öffentlichen Aufgaben betrauten Personen für amtliche Verrichtungen kann durch den Grossen Rat in interkantonalen Vereinbarungen abweichend von diesem Gesetz geregelt werden.
+
+<sup>3</sup> Für Klagen aus Verantwortlichkeit nach Art. 454 des Schweizerischen Zivilgesetzbuches (ZGB)[^3-1] gilt § 11d des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^3-2].
+
+[^3-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^3-2]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
 
 ## 2. Die vermögensrechtliche Verantwortlichkeit
 
