@@ -4,11 +4,12 @@ number: "211.612"
 title: Ordonnance sur la tenue du registre foncier informatisé
 language: fr
 version: 2025-10-01
+corrected: 2025-09-26
 version_adopted: 2025-09-24
 adopted: 2012-10-17
 in_force: 2013-02-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.612"
-pdf: "https://lex.vs.ch/api/fr/versions/3519/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3514/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -134,7 +135,7 @@ ordonne:
 
 <sup>2</sup> Les utilisateurs ont l’obligation de conclure avec le service une convention qui règle les détails, notamment le cercle des bénéficiaires du droit d’accès et, cas échéant, les droits octroyés ou données qui sont rendues accessibles à ces personnes.
 
-<sup>3</sup> Les requêtes électroniques peuvent être transmises aux registres fonciers: soit conformément à l'article 40 alinéa 1 ORF, par l'intermédiaire de plateformes de messagerie, au sens des articles 2 et 4 de l'ordonnance sur la communication électronique dans le cadre de procédures civiles et pénales et de procédures en matière de poursuite pour dettes et de faillite (OCEl-PCPP), ou par l’intermédiaire des pages Internet de la Confédération ou du Canton; soit conformément à l'article 40 alinéa 2 ORF selon les règlements édictés par le Département fédéral de justice et police (DFJP).
+<sup>3</sup> Les requêtes électroniques peuvent être transmises aux registres fonciers, conformément à l'article 40 alinéa 1 ORF, par l'intermédiaire de plateformes de messagerie, au sens des articles 2 et 4 OCEl-PCPP, ou par l’intermédiaire des pages Internet de la Confédération ou du Canton.
 
 #### Art. 7d
 

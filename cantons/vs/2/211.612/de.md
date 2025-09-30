@@ -4,11 +4,12 @@ number: "211.612"
 title: Verordnung über die Führung des informatisierten Grundbuchs
 language: de
 version: 2025-10-01
+corrected: 2025-09-26
 version_adopted: 2025-09-24
 adopted: 2012-10-17
 in_force: 2013-02-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.612"
-pdf: "https://lex.vs.ch/api/de/versions/3519/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3514/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -134,7 +135,7 @@ verordnet:
 
 <sup>2</sup> Die Benutzer sind verpflichtet, mit der Dienststelle eine Vereinbarung abzuschliessen, in der die Einzelheiten geregelt sind, insbesondere der Kreis der Begünstigten des Zugangsrechts und gegebenenfalls die gewährten Rechte oder Daten, die ihnen zugänglich gemacht werden.
 
-<sup>3</sup> Elektronische Eingaben an die Grundbuchämter können erfolgen: entweder gemäss Artikel 40 Absatz 1 GBV, über die Zustellplattformen nach den Artikeln 2 und 4 der Verordnung über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren (VeÜ-ZSSV) oder über die Internetseiten des Bundes oder des Kantons; oder nach Artikel 40 Absatz 2 GBV gemäss den vom Eidgenössischen Justiz- und Polizeideartement (EJPD) erlassenen Reglementen.
+<sup>3</sup> Elektronische Eingaben an die Grundbuchämter können, gemäss Artikel 40 Absatz 1 GBV, über die Zustellplattformen nach den Artikeln 2 und 4 VeÜ-ZSSV oder über die Internetseiten des Bundes oder des Kantons erfolgen.
 
 #### Art. 7d
 
