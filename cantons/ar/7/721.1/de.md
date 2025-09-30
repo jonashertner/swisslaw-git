@@ -4,13 +4,12 @@ number: "721.1"
 title: Gesetz über die Raumplanung und das Baurecht
 short: Baugesetz
 language: de
-version: 2019-01-01
-valid_until: 2025-09-30
-version_adopted: 2018-06-11
+version: 2025-10-01
+version_adopted: 2025-06-16
 adopted: 2003-05-12
 in_force: 2004-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/721.1"
-pdf: "https://ar.clex.ch/api/de/versions/1237/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1237/pdf_file"
 
 (Baugesetz)
 
-vom 12.05.2003 (Stand 01.01.2019)
+vom 12.05.2003 (Stand 01.10.2025)
 
 Die Stimmberechtigten des Kantons Appenzell A.Rh.,
 
@@ -137,7 +136,7 @@ beschliessen:
 
 - a) die räumliche Entwicklung des Kantons;
 - b) diejenigen Gebiete, die sich für die Landwirtschaft eignen, sowie jene, die besonders schön, wertvoll oder für die Erholung oder als natürliche Lebensgrundlage bedeutsam sind;
-- c) diejenigen Gebiete, die durch Naturgefahren oder schädliche Einwirkungen erheblich bedroht sind;
+- c) diejenigen Gebiete, die durch Naturgefahren oder schädliche Einwirkungen erheblich bedroht sind (Gefahrenhinweiskarten);
 - d) den Stand und die anzustrebende Entwicklung der Besiedlung, des Verkehrs, der Ver- und Entsorgung sowie der öffentlichen Bauten und Anlagen;
 - e) den Raumbedarf der Gewässer bezüglich der Sicherstellung des Hochwasserschutzes und der ökologischen Funktionen;
 - f) Aufwertungsgebiete mit Defiziten im Bereich des Natur- und Landschaftsschutzes und mit einem hohen Aufwertungspotenzial.
@@ -176,6 +175,8 @@ beschliessen:
 
 #### Art. 11
 
+**Kantonale Nutzungszonen**
+
 <sup>1</sup> Soweit kantonale oder regionale Interessen es erfordern, kann das Departement Bau und Volkswirtschaft kantonale Nutzungszonen zur längerfristigen Festlegung von Abbaugebieten für Rohmaterialien (Abbauzonen), zur Erstellung von Deponien (Deponiezonen) sowie zur Gewinnung von erneuerbaren Energien (Energiezonen) ausscheiden.
 
 <sup>2</sup> In kantonalen Nutzungszonen besteht Sondernutzungsplanpflicht. Die Sondernutzungspläne regeln in Abbauzonen mindestens den Abbau, die Erschliessung sowie die Grundzüge der Endgestaltung; in Deponiezonen enthalten sie mindestens Aussagen über den Deponietyp nach der Abfallverordnung[^11-1], das Deponie- oder Ablagerungsvolumen, die Etappierung, die Endgestaltung des Geländes sowie die Erschliessung; in Energiezonen enthalten sie mindestens Aussagen über die Art, Lage und Dimensionierung der Anlagen, die Bau- und Installationsbereiche, die Erschliessung sowie die Mindestabstände.
@@ -189,6 +190,20 @@ beschliessen:
 <sup>6</sup> In Energiezonen sind die für die Gewinnung von erneuerbaren Energien notwendigen Bauten und Anlagen zulässig.
 
 [^11-1]: VVEA (SR [814.600](https://db.clex.ch/link/Bund/814.600/de))
+
+#### Art. 11a
+
+**Gewässerraum**
+
+<sup>1</sup> Der Kanton erlässt Gewässerraumlinien, die den Raumbedarf der oberirdischen Gewässer allgemeinverbindlich festlegen.
+
+<sup>2</sup> Die Festlegung erfolgt für ein Gewässer, einen Gewässerabschnitt oder gemeindeweise.
+
+<sup>3</sup> Die Gemeinden berücksichtigen den Gewässerraum in ihrer Richt- und Nutzungsplanung.
+
+<sup>4</sup> Die zulässige Gestaltung und Bewirtschaftung des Gewässerraums richtet sich nach Bundesrecht[^11a-1].
+
+[^11a-1]: vgl. Art. 41c Gewässerschutzverordnung (GSchV; SR [814.201](https://db.clex.ch/link/Bund/814.201/de))
 
 ### III. Erlass und Änderung der kantonalen Pläne
 
@@ -214,15 +229,31 @@ beschliessen:
 
 #### Art. 14
 
-**Erlass und Änderung kantonaler Nutzungspläne**
+**Erlass und Änderung kantonaler Nutzungspläne a) Erlass und öffentliche Auflage**
 
-<sup>1</sup> Die kantonalen Nutzungspläne werden nach Anhörung des Gemeinderates der betroffenen Gemeinde durch das Departement Bau und Volkswirtschaft erlassen. Sie sind nach dem Beschluss während 30 Tagen in der betreffenden Gemeinde öffentlich aufzulegen. Die Auflage ist im kantonalen Amtsblatt bekannt zu machen.
+<sup>1</sup> Kantonale Nutzungszonen und Gewässerraumlinien werden nach Anhörung der betroffenen Kreise durch das Departement Bau und Volkswirtschaft erlassen. Sie treten mit der rechtskräftigen Genehmigung durch den Regierungsrat in Kraft.
 
-<sup>2</sup> Innerhalb der Auflagefrist können Berechtigte gemäss Art. 111 sowie der Gemeinderat beim Departement Bau und Volkswirtschaft Einsprache erheben. Die Einsprachen werden vom Departement Bau und Volkswirtschaft soweit als möglich auf dem Wege der Verständigung erledigt. Über unerledigt gebliebene Einsprachen entscheidet das Departement Bau und Volkswirtschaft.
+<sup>2</sup> Die Pläne sind während 30 Tagen in der Gemeinde öffentlich aufzulegen. Die Auflage ist im kantonalen Amtsblatt bekannt zu machen.
 
-<sup>3</sup> Die kantonalen Nutzungspläne sind vom Regierungsrat zu genehmigen. Gegen Einspracheentscheide des Departements Bau und Volkswirtschaft kann innert 20 Tagen beim Regierungsrat rekurriert werden. Für das Einspracheverfahren gilt im Übrigen Art. 47 analog. Über den Genehmigungsantrag und allfällige Rekurse entscheidet der Regierungsrat in einem Beschluss.
+<sup>3</sup> Betroffene Grundeigentümerinnen und Grundeigentümer sind schriftlich über die Planauflage zu benachrichtigen.
 
-<sup>4</sup> Die Voraussetzungen und das Verfahren zur Änderung kantonaler Nutzungspläne richten sich sinngemäss nach den Art. 51 und 52. Das Inkrafttreten bestimmt sich nach Art. 50.
+<sup>4</sup> …
+
+#### Art. 14a
+
+**b) Einsprache und Rekurs**
+
+<sup>1</sup> Innerhalb der Auflagefrist kann gegen kantonale Nutzungszonen und Gewässerraumlinien schriftlich Einsprache beim Departement Bau und Volkswirtschaft erhoben werden. Die Einsprache hat ein bestimmtes Begehren und eine Begründung zu enthalten.
+
+<sup>2</sup> Einsprachen werden soweit möglich auf dem Wege der Verständigung erledigt. Über Einsprachen, die nicht gütlich erledigt werden können, entscheidet das Departement Bau und Volkswirtschaft. Bei wesentlichen Änderungen ist die öffentliche Auflage zu wiederholen.
+
+<sup>3</sup> Gegen den Einspracheentscheid kann innert 20 Tagen Rekurs beim Regierungsrat erhoben werden. Über Rekurse entscheidet der Regierungsrat gleichzeitig mit der Plangenehmigung.
+
+#### Art. 14b
+
+**c) Überprüfung und Änderung**
+
+<sup>1</sup> Kantonale Nutzungszonen und Gewässerraumlinien werden unter den Voraussetzungen von Art. 51 überprüft und allenfalls angepasst. Für Änderungen gilt das gleiche Verfahren wie für den Erlass.
 
 ### 3. Abschnitt: Raumplanung der Gemeinden
 
@@ -534,9 +565,9 @@ beschliessen:
 
 **Gefahrenzonen**
 
-<sup>1</sup> Gefahrenzonen umfassen Gebiete, die aus Sicherheitsgründen, namentlich wegen Rutsch-, Steinschlag-, Lawinen- oder Hochwassergefahr, nur unter sichernden Massnahmen überbaut werden dürfen.
+<sup>1</sup> Gefahrenzonen umfassen Gebiete, die aus Sicherheitsgründen nur beschränkt und unter sichernden Massnahmen überbaut werden dürfen. Es gelten die Bestimmungen von Art. 115a.
 
-<sup>2</sup> In Gefahrenzonen können generelle Bauverbote erlassen und Auflagen verfügt werden.
+<sup>2</sup> Die Gemeinden legen die Gefahrenzonen auf der Grundlage der kantonalen Gefahrenkarten fest und weisen im Zonenplan die Gefahrenstufen aus.
 
 ### IV. Sondernutzungsplanung der Gemeinden
 
@@ -1633,7 +1664,9 @@ beschliessen:
 
 <sup>1</sup> Zu Einsprachen und Rekursen nach diesem Gesetz und den Ausführungserlassen ist befugt, wer durch den angefochtenen Gegenstand berührt ist und ein eigenes schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
 
-<sup>2</sup> Zu Einsprachen und Rekursen gegen Schutzzonenpläne und Schutzverordnungen nach Art. 79 ff. und Zonenpläne nach Art. 14 oder 18 sind auch ideelle Vereinigungen im Kanton legitimiert, die sich nach ihren Statuten mit den Aufgaben des Natur- und Heimatschutzes befassen und mindestens fünf Jahre vor Einreichung des Rechtsmittels gegründet wurden.
+<sup>1<sup>bis</sup></sup> Zur Wahrung eigener öffentlicher lnteressen steht das Einsprache- und Rekursrecht auch den Gemeinden zu.
+
+<sup>2</sup> Zu Einsprachen und Rekursen gegen Schutzzonenpläne und Schutzverordnungen nach Art. 79 ff. und Nutzungspläne nach Art. 14 oder 18 sind auch ideelle Vereinigungen im Kanton legitimiert, die sich nach ihren Statuten mit den Aufgaben des Natur- und Heimatschutzes befassen und mindestens fünf Jahre vor Einreichung des Rechtsmittels gegründet wurden.
 
 <sup>3</sup> Zu Eingaben mit blosser Bedeutung von kritischen Hinweisen oder Verbesserungsvorschlägen ist jede Person befugt.
 
@@ -1671,17 +1704,17 @@ beschliessen:
 
 #### Art. 114
 
-**Verhältnis zu Gewässern**
+**Gewässerabstand**
 
-<sup>1</sup> Der Raum entlang den öffentlichen Gewässern steht primär zur Gewährleistung des Hochwasserschutzes und der natürlichen Funktionen des Gewässers zur Verfügung. Andere Nutzungen sind zulässig, sofern sie gewässerverträglich ausgeübt werden. Die Zugänglichkeit für Unterhaltszwecke muss gewährleistet sein.
+<sup>1</sup> Ist kein Gewässerraum festgelegt, gilt für Bauten und Anlagen ein beidseitiger Gewässerabstand von fünf Metern. Der Abstand bemisst sich ab der Uferlinie des Gewässers.
 
-<sup>2</sup> Bauten und Anlagen haben, soweit das Tiefbauamt aufgrund besonderer Gefahrensituationen oder grosser Gewässerbreiten keinen grösseren Abstand vorschreibt, gegenüber offenen öffentlichen Gewässern einen Abstand von mindestens sechs Metern einzuhalten; ausgenommen sind Querungen durch Erschliessungsanlagen und standortgebundene Bauten und Anlagen. Der Abstand bemisst sich ab jener Linie, bis zu welcher der Boden regelmässig überflutet wird (Art. 199 Abs. 4 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches[^114-1]). Das kantonale Tiefbauamt kann Ausnahmen bewilligen.
+<sup>2</sup> Die Unterschreitung des Abstandes ist zulässig, wenn:
 
-<sup>3</sup> Den Gewässerabstand gegenüber eingedolten Gewässern bestimmt das kantonale Tiefbauamt im Einzelfall.
+- a) die Hochwassersicherheit gewährleistet ist;
+- b) der Zugang und die ungehinderte Zufahrt zum Gewässer für den Unterhalt sichergestellt oder nicht erforderlich sind;
+- c) keine ökologischen Interessen entgegenstehen.
 
-<sup>4</sup> Die Gewässerabstandsfläche soll in der Regel nicht in die ausnützungsfähige Bauzone eingeschlossen werden.
-
-[^114-1]: EG zum ZGB (bGS [211.1](https://ar.clex.ch/data/211.1/de))
+<sup>3–4</sup> …
 
 #### Art. 115
 
@@ -1693,7 +1726,31 @@ beschliessen:
 - b) Ablagerungen und Aufschichtungen;
 - c) Abfall- und Düngergruben.
 
-### II. Technische Ausgestaltung
+### II. Schutz vor Naturereignissen und technische Ausgestaltung
+
+#### Art. 115a
+
+**Bauvorhaben in Gefahrengebieten**
+
+<sup>1</sup> Als Gefahrengebiete gelten alle Standorte, an denen Menschen oder erhebliche Sachwerte durch Überschwemmungen, Lawinen, Rutschungen, Erosion oder Steinschlag bedroht sind.
+
+<sup>2</sup> Bei Bauvorhaben in Gefahrengebieten haben Bauwillige nachzuweisen, dass die für den Personen- und Sachwertschutz notwendigen Massnahmen getroffen werden (Objektschutznachweis).
+
+<sup>3</sup> Nach dem Grad der Gefährdung gelten in Gefahrengebieten folgende Baubeschränkungen:
+
+- a) Gebiete mit erheblicher Gefährdung (Gefahrenstufe rot): Die Errichtung oder Erweiterung von Bauten und Anlagen ist verboten. Umbauten und Zweckänderungen sind zulässig, wenn sie das Schadenpotenzial mindern. Standortgebundene Bauten und Anlagen können bewilligt werden, wenn die für den Personen- und Sachwertschutz notwendigen Massnahmen getroffen werden.
+- b) Gebiete mit mittlerer Gefährdung (Gefahrenstufe blau): Bauvorhaben können nur bewilligt werden, wenn die für den Personen- und Sachwertschutz notwendigen Massnahmen getroffen werden.
+- c) Gebiete mit geringer Gefährdung (Gefahrenstufe gelb): Bauvorhaben für grössere Menschenansammlungen oder hohe Sachwerte können nur bewilligt werden, wenn die für den Personen- und Sachwertschutz notwendigen Massnahmen getroffen werden.
+
+<sup>4</sup> Massgebend sind die tatsächlichen Verhältnisse. Im Baubewilligungsverfahren kann der Nachweis erbracht werden, dass eine in Zonenplan oder Gefahrenkarte ausgewiesene Gefahrenstufe unzutreffend ist.
+
+#### Art. 115b
+
+**Kantonale Gefahrenkarten**
+
+<sup>1</sup> Das Departement Bau und Volkswirtschaft erlässt Gefahrenkarten, die für Gefahrengebiete im Siedlungsbereich die Art der Gefahr, die räumliche Ausdehnung und den Grad der Gefährdung (Gefahrenstufe) ausweisen.
+
+<sup>2</sup> Kanton und Gemeinden berücksichtigen die Gefahrenkarten in ihrer Richt- und Nutzungsplanung sowie bei ihrer übrigen raumwirksamen Tätigkeit.
 
 #### Art. 116
 
@@ -1776,6 +1833,8 @@ beschliessen:
 <sup>3</sup> Altrechtliche Weilerzonen gelten als Weilerzonen gemäss Art. 33a.
 
 <sup>4</sup> Altrechtliche Quartier- und Gestaltungspläne gelten als Überbauungspläne gemäss Art. 39.
+
+<sup>5</sup> Altrechtliche Gewässerraumkarten bleiben bis zum rechtskräftigen Erlass von Gewässerraumlinien in Kraft. Die Gemeinden berücksichtigen sie in ihrer Richt- und Nutzungsplanung.
 
 #### Art. 124
 
