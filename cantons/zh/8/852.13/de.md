@@ -4,11 +4,10 @@ number: "852.13"
 title: Verordnung über die Alimentenhilfe (AlimV)
 short: AlimV
 language: de
-version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2025-10-01
+version: "2025-10-01"
+nachtrag: "130"
 adopted: 2012-11-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_13-2012_11_21-2013_01_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_13-2012_11_21-2013_01_01-130.html"
 text: pdf
 ---
 
@@ -67,7 +66,7 @@ Die gesuchstellende Person teilt der Jugendhilfestelle Veränderungen, die sich 
 
 **1**
 
-1.10. 22 - 118 § 4.[^3-1] <sup>1</sup> Die Jugendhilfestelle bevorschusst Leistungen Dritter gemäss Art. 18 der Verordnung vom 6. Dezember 2019 über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (InkHV)[^3-2].
+1.10. 25 - 130 § 4.[^3-1] <sup>1</sup> Die Jugendhilfestelle bevorschusst Leistungen Dritter gemäss Art. 18 der Verordnung vom 6. Dezember 2019 über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (InkHV)[^3-2].
 
 **Kosten**
 
@@ -164,7 +163,7 @@ Die finanziellen Leistungen entsprechen der Differenz zwischen den anerkannten L
 
 **3**
 
-1.10. 22 - 118 § 17. Von der Ermittlung des Anspruchs gemäss §§ 13–25 kann ausnahmsweise abgewichen werden, insbesondere a. bei einem ausserordentlich hohen Vermögensverzehr,
+1.10. 25 - 130 § 17. Von der Ermittlung des Anspruchs gemäss §§ 13–25 kann ausnahmsweise abgewichen werden, insbesondere a. bei einem ausserordentlich hohen Vermögensverzehr,
 
 **Sonderfälle**
 
@@ -198,29 +197,29 @@ Die finanziellen Leistungen entsprechen der Differenz zwischen den anerkannten L
 
 § 19.[^16-2] <sup>1</sup> Die Vermögensgrenze beträgt:
 
-- a. Fr. 120 800, wenn zusätzlich zu einer Person gemäss § 18 Abs. 1 eine Person gemäss § 18 Abs. 2 lit. b oder c massgebend ist,
+- a. Fr. 127 100, wenn zusätzlich zu einer Person gemäss § 18 Abs. 1 eine Person gemäss § 18 Abs. 2 lit. b oder c massgebend ist,
 
-- b. Fr. 40 300 in den Fällen gemäss § 18 Abs. 1 lit. a und b ohne zusätzlich massgebende Person gemäss § 18 Abs. 2 lit. b oder c,
+- b. Fr. 42 400 in den Fällen gemäss § 18 Abs. 1 lit. a und b ohne zusätzlich massgebende Person gemäss § 18 Abs. 2 lit. b oder c,
 
-- c. Fr. 75 500 in den übrigen Fällen.
+- c. Fr. 79 400 in den übrigen Fällen.
 
-<sup>2</sup> Der Betrag gemäss Abs. 1 erhöht sich um Fr. 30 200 für jedes Kind und Enkelkind gemäss § 18 Abs. 2.
+<sup>2</sup> Der Betrag gemäss Abs. 1 erhöht sich um Fr. 31 800 für jedes Kind und Enkelkind gemäss § 18 Abs. 2.
 
 § 19 a.[^16-3] § 20.[^16-2] <sup>1</sup> Die anerkannten Lebenskosten betragen:
 
 **Anerkannte Lebenskosten**
 
-- a. Fr. 57 700 pro Jahr, wenn zusätzlich zu einer Person gemäss § 18 Abs. 1 eine Person gemäss § 18 Abs. 2 lit. b oder c massgebend ist,
+- a. Fr. 60 700 pro Jahr, wenn zusätzlich zu einer Person gemäss § 18 Abs. 1 eine Person gemäss § 18 Abs. 2 lit. b oder c massgebend ist,
 
-- b. Fr. 25 200 pro Jahr in den Fällen gemäss § 18 Abs. 1 lit. a und b ohne zusätzlich massgebende Person gemäss § 18 Abs. 2 lit. b oder c,
+- b. Fr. 26 500 pro Jahr in den Fällen gemäss § 18 Abs. 1 lit. a und b ohne zusätzlich massgebende Person gemäss § 18 Abs. 2 lit. b oder c,
 
-- c. Fr. 41 800 pro Jahr in den übrigen Fällen.
+- c. Fr. 44 000 pro Jahr in den übrigen Fällen.
 
-<sup>2</sup> Der Betrag gemäss Abs. 1 erhöht sich für jedes Kind um a. Fr. 12 500 pro Jahr für das erste und zweite Kind oder Enkelkind gemäss § 18 Abs. 2,
+<sup>2</sup> Der Betrag gemäss Abs. 1 erhöht sich für jedes Kind um a. Fr. 13 200 pro Jahr für das erste und zweite Kind oder Enkelkind gemäss § 18 Abs. 2,
 
-- b. Fr. 9200 pro Jahr für das dritte und vierte Kind oder Enkelkind gemäss § 18 Abs. 2,
+- b. Fr. 9700 pro Jahr für das dritte und vierte Kind oder Enkelkind gemäss § 18 Abs. 2,
 
-- c. Fr. 5900 pro Jahr für weitere Kinder oder Enkelkinder gemäss § 18 Abs. 2.
+- c. Fr. 6200 pro Jahr für weitere Kinder oder Enkelkinder gemäss § 18 Abs. 2.
 
 § 20 a.[^16-3]
 
@@ -252,7 +251,7 @@ Die finanziellen Leistungen entsprechen der Differenz zwischen den anerkannten L
 
 **5**
 
-1.10. 22 - 118 c. Einkünfte, die an die Stelle der Einkünfte aus Erwerbstätigkeit treten, abzüglich der einkommensabhängigen Beiträge an die obligatorischen Sozialversicherungen,
+1.10. 25 - 130 c. Einkünfte, die an die Stelle der Einkünfte aus Erwerbstätigkeit treten, abzüglich der einkommensabhängigen Beiträge an die obligatorischen Sozialversicherungen,
 
 - d. gemäss kantonalem Recht steuerbare Erträge aus beweglichem Vermögen,
 
@@ -272,13 +271,13 @@ Die finanziellen Leistungen entsprechen der Differenz zwischen den anerkannten L
 
 § 23.[^16-2] <sup>1</sup> Als Einnahme angerechnet wird[^16-6]/[^16-2] des anrechenbaren Vermögens, soweit das Vermögen die folgenden Beträge überschreitet:
 
-- a. Fr. 20 200 in den Fällen gemäss § 18 Abs. 1 lit. a und b ohne zusätzlich massgebende Person gemäss § 18 Abs. 2 lit. b oder c,
+- a. Fr. 21 200 in den Fällen gemäss § 18 Abs. 1 lit. a und b ohne zusätzlich massgebende Person gemäss § 18 Abs. 2 lit. b oder c,
 
-- b. Fr. 60 400, wenn zusätzlich zu einer Person gemäss § 18 Abs. 1 eine Person gemäss § 18 Abs. 2 lit. b oder c massgebend ist,
+- b. Fr. 63 300, wenn zusätzlich zu einer Person gemäss § 18 Abs. 1 eine Person gemäss § 18 Abs. 2 lit. b oder c massgebend ist,
 
-- c. Fr. 37 800 in den übrigen Fällen.
+- c. Fr. 39 700 in den übrigen Fällen.
 
-<sup>2</sup> Der Betrag gemäss Abs. 1 lit. a–c erhöht sich um Fr. 15 100 für jedes Kind oder Enkelkind gemäss § 18 Abs. 2.
+<sup>2</sup> Der Betrag gemäss Abs. 1 lit. a–c erhöht sich um Fr. 15 900 für jedes Kind oder Enkelkind gemäss § 18 Abs. 2.
 
 **d. Abzüge**
 
@@ -295,7 +294,7 @@ Die finanziellen Leistungen entsprechen der Differenz zwischen den anerkannten L
 <sup>3</sup> Bei einem Bezug von Arbeitslosenentschädigung werden die Kosten gemäss § 21 Abs. 1 lit. d abgezogen, soweit die Betreuung für den Nachweis der Vermittlungsfähigkeit notwendig ist.
 
 [^16-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 657; ABl 2021-10-22). In Kraft seit 1. Januar 2022.
-[^16-2]: Fassung gemäss Vfg. der Bildungsdirektion vom 23. März 2022 (OS 77, 247; ABl 2022-04-01). In Kraft seit 1. Oktober 2022.
+[^16-2]: Fassung gemäss Vfg. der Bildungsdirektion vom 20. März 2025 (OS 80, 181; ABl 2025-04-17). In Kraft seit 1. Oktober 2025.
 [^16-3]: Aufgehoben durch RRB vom 9. März 2016 (OS 71, 111; ABl 2016-03-18). In Kraft seit 1. April 2016.
 [^16-4]: Fassung gemäss RRB vom 9. März 2016 (OS 71, 111; ABl 2016-03-18). In Kraft seit 1. April 2016.
 [^16-5]: LS 631.1.
@@ -351,7 +350,7 @@ Die finanziellen Leistungen entsprechen der Differenz zwischen den anerkannten L
 
 **7**
 
-1.10. 22 - 118
+1.10. 25 - 130
 
 <sup>2</sup> Sie fällt die Entscheide im Zusammenhang mit den finanziellen Leistungen, die nicht ausdrücklich einer anderen Stelle übertragen sind.
 
@@ -437,7 +436,7 @@ Wechselt die anspruchsberechtigte Person ihren Wohnsitz innerhalb des Kantons, g
 
 **9**
 
-1.10. 22 - 118 § 36. <sup>1</sup> Der Anspruch auf Bevorschussung entsteht frühestens im Monat, in dem das Gesuch bei der Jugendhilfestelle eingereicht wird.
+1.10. 25 - 130 § 36. <sup>1</sup> Der Anspruch auf Bevorschussung entsteht frühestens im Monat, in dem das Gesuch bei der Jugendhilfestelle eingereicht wird.
 
 **Beginn und Ende des Anspruchs**
 
@@ -510,4 +509,4 @@ Gesuche werden nach dem bisherigen Recht behandelt, wenn der Anspruch vor dem 1.
 ## Weitere Fussnoten
 
 - [4] LS 211.1.
-- [9] SR 311.0. 1.10. 22 - 118 11
+- [9] SR 311.0. 1.10. 25 - 130 11
