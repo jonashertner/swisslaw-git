@@ -3,20 +3,20 @@ canton: NW
 number: "611.113"
 title: Regierungsratsbeschluss zur Anwendbarkeit des Gewässerraumabstands
 language: de
-version: 2025-03-01
-valid_until: 2025-09-30
-version_adopted: 2025-02-18
+version: 2025-10-01
+valid_until: 2026-04-30
+version_adopted: 2025-09-09
 adopted: 2025-02-18
 in_force: 2025-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.113"
-pdf: "https://gesetze.nw.ch/api/de/versions/1346/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss zur Anwendbarkeit des Gewässerraumabstands
 
-vom 18.02.2025 (Stand 01.03.2025)
+vom 18.02.2025 (Stand 01.10.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -33,7 +33,7 @@ beschliesst:
 <table>
 <tr><th>Gemeinde</th><th>Anwendbarkeit des Gewässerraumabstands</th></tr>
 <tr><td>Beckenried</td><td>noch anwendbar</td></tr>
-<tr><td>Buochs</td><td>noch anwendbar</td></tr>
+<tr><td>Buochs</td><td>ab 1. Oktober 2025 nicht mehr anwendbar</td></tr>
 <tr><td>Dallenwil</td><td>noch anwendbar</td></tr>
 <tr><td>Emmetten</td><td>noch anwendbar</td></tr>
 <tr><td>Ennetbürgen</td><td>noch anwendbar</td></tr>
