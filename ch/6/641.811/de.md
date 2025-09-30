@@ -4,11 +4,11 @@ title: "Verordnung vom 27. März 2024 über die Schwerverkehrsabgabe (Schwerverk
 short: SVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: de
-version: 2025-01-01
+version: 2025-10-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-150-20250101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2024-150-20251001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/de"
 
 (Schwerverkehrsabgabeverordnung, SVAV)
 
-vom 27. März 2024 (Stand am 1. Januar 2025)
+vom 27. März 2024 (Stand am 1. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -676,7 +676,7 @@ Kommt es zu einem Defekt oder Ausfall des fahrzeugseitigen Erfassungssystems (Ar
 
 ### 3. Abschnitt: Korrektur der Anmeldung
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/de/xml/image/image2.png) Art. 43
+#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/de/xml/image/image2.png) Art. 43
 
 Die im Hinblick auf die Anmeldung erfassten Daten können bis zum Zeitpunkt, zu dem die Anmeldung verbindlich wird, korrigiert werden.
 
@@ -717,13 +717,24 @@ Werden die Kilometer aufgrund eines Ausfalls oder Defekts des fahrzeugseitigen E
 - a. für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines NETS-Anbieters: fünf Tage nach Ablauf der Anmeldefrist;
 - b. für Motorfahrzeuge mit einem fahrzeugseitigen Erfassungssystem eines EETS-Anbieters: mit Ablauf der Anmeldefrist.
 
-### 5. Kapitel: …
+### 5. Kapitel: Sonderregelungen für von der Abgabe befreite Fahrzeuge
 
-#### Art. 45 und 46
+### 1. Abschnitt: Ermittlung der gefahrenen Kilometer und Anmeldung für Motorfahrzeuge mit elektrischem Antrieb für den Warentransport
 
-[^4546-1]
+#### Art. 45
 
-[^4546-1]: Tritt am 1. Okt. 2025 in Kraft.
+<sup>1</sup> Die Pflicht zur Ermittlung der gefahrenen Kilometer und zur Anmeldung gilt auch für Motorfahrzeuge mit elektrischem Antrieb für den Warentransport (Art. 2 Abs. 1 Bst. k).
+
+<sup>2</sup> Die gefahrenen Kilometer müssen austomatisiert ermittelt werden. In Fällen nach Artikel 22 erfolgt die Ermittlung manuell.
+
+### 2. Abschnitt: Meldepflicht für von der Abgabe befreite ausländische Fahrzeuge
+
+#### Art. 46
+
+Für ausländische Motorfahrzeuge mit elektrischem Antrieb für den Personentransport (Art. 2 Abs. 1 Bst. k) und für ausländische Motorfahrzeuge nach Artikel 2 Absatz 1 Buchstaben d–g, i–k und o und Absatz 2 sind dem BAZG vor der Einfahrt die folgenden Daten zu übermitteln:
+
+- a. Kontrollschild mit Landeszeichen;
+- b. Datum der Einfahrt ins Zollgebiet und voraussichtliches Datum der Ausfahrt aus dem Zollgebiet.
 
 ### 6. Kapitel: Veranlagung und Bezug der Abgabe
 
@@ -1494,7 +1505,7 @@ Bewilligungen, mit denen des BAZG vor Inkrafttreten dieser Verordnung gestützt 
 
 **Bewilligungen für Befreiung von der Pflicht zur Entrichtung der Abgabe**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/de/xml/image/image4.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/de/xml/image/image4.png)</sup>
 
 Bewilligungen, mit denen das BAZG vor Inkrafttreten dieser Verordnung Fahrzeuge von der Abgabepflicht ausgenommen hat (Art. 3 Abs. 2 bisherige SVAV), sind längstens gültig bis zum:
 

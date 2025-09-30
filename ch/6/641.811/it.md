@@ -4,11 +4,11 @@ title: "Ordinanza del 27 marzo 2024 concernente la tassa sul traffico pesante (O
 short: OTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: it
-version: 2025-01-01
+version: 2025-10-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-150-20250101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2024-150-20251001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/it"
 
 (Ordinanza sul traffico pesante, OTTP)
 
-del 27 marzo 2024 (Stato 1° gennaio 2025)
+del 27 marzo 2024 (Stato 1° ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -676,7 +676,7 @@ In caso di guasto o difetto al sistema di rilevazione nel veicolo (art. 28) la p
 
 ### Sezione 3: Correzione della dichiarazione
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/it/xml/image/image2.png) Art. 43
+#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/it/xml/image/image2.png) Art. 43
 
 I dati rilevati ai fini della dichiarazione possono essere corretti fino al momento in cui la dichiarazione diventa vincolante.
 
@@ -717,13 +717,24 @@ Se i chilometri sono determinati manualmente a causa di un guasto o difetto al s
 - a. per i veicoli a motore con un sistema di rilevazione nel veicolo di un fornitore del NETS: cinque giorni dopo la scadenza del termine di dichiarazione;
 - b. per i veicoli a motore con un sistema di rilevazione nel veicolo di un fornitore del SET: alla scadenza del termine di dichiarazione.
 
-### Capitolo 5: ...
+### Capitolo 5: Disciplinamenti speciali per veicoli esentati dalla tassa
 
-#### Art. 45 e 46
+### Sezione 1: Determinazione dei chilometri percorsi e dichiarazione per i veicoli a motore a propulsione elettrica per il trasporto di merci
 
-[^4546-1]
+#### Art. 45
 
-[^4546-1]: Entrano in vigore il 1° ottobre 2025.
+<sup>1</sup> L’obbligo di determinazione dei chilometri percorsi e di dichiarazione vale anche per i veicoli a motore a propulsione elettrica per il trasporto di merci (art. 2 cpv. 1 lett. k).
+
+<sup>2</sup> I chilometri percorsi devono essere determinati in modo automatizzato. Nei casi secondo l’articolo 22 la determinazione avviene in modo manuale.
+
+### Sezione 2: Obbligo di dichiarazione per i veicoli esteri esentati dalla tassa
+
+#### Art. 46
+
+Per i veicoli a motore esteri a propulsione elettrica per il trasporto di persone (art. 2 cpv. 1 lett. k) e per i veicoli a motore esteri secondo l’articolo 2 capoverso 1 lettere d–g, i–k ed o nonché capoverso 2 i seguenti dati devono essere trasmessi all’UDSC prima dell’entrata:
+
+- a. la targa di controllo con la sigla distintiva di nazionalità;
+- b. la data dell’entrata nel territorio doganale e la prevista data dell’uscita dallo stesso.
 
 ### Capitolo 6: Determinazione e riscossione della tassa
 
@@ -1494,7 +1505,7 @@ Le autorizzazioni con le quali l’UDSC, sulla base dell’articolo 15 capoverso
 
 **Autorizzazione per l’esenzione dall’obbligo di pagare la tassa**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/it/xml/image/image3.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/it/xml/image/image3.png)</sup>
 
 Le autorizzazioni con le quali l’UDSC, prima dell’entrata in vigore della presente ordinanza, ha esentato i veicoli dall’obbligo della tassa (art. 3 cpv. 2 OTTP anteriore) sono valide al massimo fino al:
 

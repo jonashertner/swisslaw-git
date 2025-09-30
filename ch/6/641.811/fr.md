@@ -4,11 +4,11 @@ title: Ordonnance du 27 mars 2024 concernant la redevance sur le trafic des poid
 short: ORPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/150"
 language: fr
-version: 2025-01-01
+version: 2025-10-01
 adopted: 2024-03-27
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-150-20250101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2024-150-20251001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/150/20250101/fr"
 
 (ORPL)
 
-du 27 mars 2024 (État le 1<sup>er</sup> janvier 2025)
+du 27 mars 2024 (État le 1<sup>er</sup> octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -676,7 +676,7 @@ En cas de défectuosité ou de panne du système de saisie embarqué (art. 28), 
 
 ### Section 3 Correction de la déclaration
 
-#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/fr/xml/image/image1.png) Art. 43
+#### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/fr/xml/image/image1.png) Art. 43
 
 Les données saisies pour la déclaration peuvent être corrigées jusqu’au moment où la déclaration devient contraignante.
 
@@ -717,13 +717,24 @@ Si les kilomètres sont établis manuellement en raison d’une défectuosité o
 - a. pour les véhicules à moteur équipés d’un système de saisie embarqué d’un prestataire du NETS: cinq jours suivant l’échéance du délai de remise de la déclaration;
 - b. pour les véhicules à moteur équipés d’un système de saisie embarqué d’un prestataire du SET: à l’échéance du délai de remise de la déclaration.
 
-### Chapitre 5 ...
+### Chapitre 5 Dispositions particulières applicables aux véhicules exonérés de la redevance
 
-#### Art. 45 et 46
+### Section 1 Établissement des kilomètres parcourus et déclaration pour les voitures automobiles à propulsion électrique destinées au transport de marchandises
 
-[^4546-1]
+#### Art. 45
 
-[^4546-1]: En vigueur le 1<sup>er</sup> oct. 2025.
+<sup>1</sup> L’obligation d’établir les kilomètres parcourus et de déclarer s’applique également aux voitures automobiles à propulsion électrique destinées au transport de marchandises (art. 2, al. 1, let. k).
+
+<sup>2</sup> Les kilomètres parcourus sont établis de manière automatisée. Dans les cas visés à l’art. 22, ils sont établis manuellement.
+
+### Section 2 Obligation de déclarer les véhicules étrangers exonérés de la redevance
+
+#### Art. 46
+
+Pour les voitures automobiles étrangères à propulsion électrique destinées au transport de personnes (art. 2, al. 1, let. k) et pour les voitures automobiles étrangères visées à l’art. 2, al. 1, let. d à g, i à k et o, et 2, les données suivantes doivent être transmises à l’OFDF avant l’entrée sur le territoire douanier:
+
+- a. la plaque de contrôle avec le signe distinctif de nationalité;
+- b. la date d’entrée sur le territoire douanier et la date prévue de sortie du territoire douanier.
 
 ### Chapitre 6 Détermination et perception de la redevance
 
@@ -1494,7 +1505,7 @@ Les autorisations par lesquelles l’OFDF, avant l’entrée en vigueur de la pr
 
 **Autorisations de déroger à l’obligation de payer la redevance**
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20250101/fr/xml/image/image20.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/150/20251001/fr/xml/image/image20.png)</sup>
 
 Les autorisations par lesquelles l’OFDF, avant l’entrée en vigueur de la présente ordonnance, a exempté des véhicules de l’assujettissement à la redevance (art. 3, al. 2, de l’ancienne ORPL) sont valables au plus tard jusqu’au:
 
