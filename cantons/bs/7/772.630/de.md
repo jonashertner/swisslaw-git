@@ -3,13 +3,12 @@ canton: BS
 number: "772.630"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend Fernwärme
 language: de
-version: 2022-10-01
-valid_until: 2025-09-30
-version_adopted: 2022-09-01
+version: 2025-10-01
+version_adopted: 2025-09-05
 adopted: 2010-09-06
 in_force: 2010-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5657/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5657/pdf_file"
 
 Energie- und Wasserversorgung[^t-1]
 
-Vom 6. September 2010 (Stand 1. Oktober 2022)
+Vom 6. September 2010 (Stand 1. Oktober 2025)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -39,13 +38,15 @@ Vorbehalten bleibt die Verrechnung nach § 2 (Spezialtarife).
 
 <sup>2</sup> Der Energiepreis besteht aus einem Einheitspreis pro bezogene Kilowattstunde und aus einem Grundpreis, der sich nach der Netzbelastung der angeschlossenen Apparate richtet. Es gilt:
 
-- a) Einheitspreis = 11,05 Rp./kWh, inkl. Kosten für die Teilnahme am Emissionshandelssystem gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011.
-- b) Grundpreis = CHF 15/kW/Jahr, im Minimum CHF 180/Jahr.
+- a) Einheitspreis = 11,60 Rp. / kWh, inkl. Kosten für die Teilnahme am Emissionshandelssystem gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Gesetz) vom 23. Dezember 2011[^1-1].
+- b) Grundpreis = CHF 20 / kW / Jahr, im Minimum CHF 180 / Jahr.
 
 <sup>3</sup> Besondere Bestimmungen:
 
 - a) Die Abrechnung erfolgt in der Regel jährlich.
 - b) Zusätzlich sind Akontozahlungen zu leisten.
+
+[^1-1]: [SR 641.71](https://db.clex.ch/link/Bund/641.71/de)
 
 #### § 2
 
