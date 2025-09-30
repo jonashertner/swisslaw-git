@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2025-01-01
+version: 2025-10-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20250101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20251001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20250101/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. Januar 2025)
+vom 30. September 2016 (Stand am 1. Oktober 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ nach Einsicht in die Botschaft des Bundesrates vom 4. September 2013[^ingress-2]
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)
 
 ## 1. Kapitel: Zweck, Ziele und Grundsätze
@@ -71,7 +71,7 @@ Es bezweckt:
 Der Bundesrat kann bei einer drohenden Mangellage die Betreiber von Wasserkraftwerken, bei denen die Restwassermenge gestützt auf die Artikel 31 Absatz 2 und 33 des Gewässerschutzgesetzes vom 24. Januar 1991[^2a-2] (GSchG) erhöht wurde, verpflichten, unter Einhaltung der minimalen Restwassermengen nach Artikel 31 Absatz 1 GSchG ihre Stromproduktion befristet zu erhöhen, sofern dies technisch machbar ist.
 
 [^2a-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^2a-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^2a-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 3
 
@@ -141,6 +141,24 @@ Behörden, Unternehmen der Energieversorgung, Planerinnen und Planer, Hersteller
 
 <sup>4</sup> Sofern nötig, stellt der Bund die Zusammenarbeit mit dem Ausland sicher.
 
+#### Art. 8a
+
+**Angeordnete Massnahmen zur Sicherstellung der Gasversorgung**[^8a-1]
+
+<sup>1</sup> Werden Unternehmen oder Organisationen der Gaswirtschaft gestützt auf das Landesversorgungsgesetz vom 17. Juni 2016[^8a-2] verpflichtet, Massnahmen zur Sicherstellung der Gasversorgung zu ergreifen, so gelten die entsprechenden Kosten als anrechenbare Kosten des Transportnetzes und können von den Betreibern des Transportnetzes diskriminierungsfrei auf die Endverbraucherinnen und Endverbraucher überwälzt werden.
+
+<sup>2</sup> Das Bundesamt für wirtschaftliche Landesversorgung entscheidet über die Angemessenheit der geltend gemachten Kosten.
+
+<sup>3</sup>
+
+Der Bundesrat kann Vorschriften erlassen über:
+
+- a. die Aufteilung der Kosten unter den Betreibern des Transportnetzes und die weitere Überwälzung der Kosten auf die Endverbraucherinnen und Endverbraucher;
+- b. den transparenten Ausweis der Kosten im Netznutzungsentgelt.
+
+[^8a-1]: Eingefügt durch den Anhang des BB vom 21. März 2025 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz, Deutschland und Italien über Solidaritätsmassnahmen zur Gewährleistung der sicheren Gasversorgung, in Kraft seit 1. Okt. 2025 ([AS 2025 589](https://fedlex.data.admin.ch/eli/oc/2025/589); [BBl 2024 2318](https://fedlex.data.admin.ch/eli/fga/2024/2318)).
+[^8a-2]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+
 #### Art. 9
 
 **Herkunftsnachweis, Elektrizitätsbuchhaltung und Kennzeichnung**
@@ -174,7 +192,7 @@ Wer Endverbraucherinnen und Endverbraucher beliefert, muss:
 
 <sup>2</sup> Soweit nötig, sorgen sie dafür, dass Nutzungspläne erstellt oder bestehende Nutzungspläne angepasst werden.
 
-[^10-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -211,10 +229,10 @@ In Biotopen von nationaler Bedeutung nach Artikel 18*a* NHG und in Wasser- und Z
 
 <sup>5</sup> Er berücksichtigt bei der Festlegung nach Absatz 4 Kriterien wie Leistung, Produktion oder Produktion im Winter sowie die Fähigkeit, zeitlich flexibel und marktorientiert zu produzieren.[^12-9]
 
-[^12-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^12-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^12-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^12-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^12-4]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^12-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^12-4]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^12-5]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^12-6]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^12-7]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -253,7 +271,7 @@ Solange die Ziele für den Ausbau der Produktion von Elektrizität aus erneuerba
 
 <sup>4</sup> Für andere Stellungnahmen und Bewilligungen, für die der Bund zuständig ist, bezeichnet der Bundesrat eine Verwaltungseinheit, die für die Koordination dieser Stellungnahmen und der Bewilligungsverfahren sorgt. Er gibt Ordnungsfristen vor, innert welchen die Stellungnahmen an die Koordinationsstelle einzureichen und die Bewilligungsverfahren abzuschliessen sind.
 
-[^14-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^14-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ## 3. Kapitel: Einspeisung netzgebundener Energie und Eigenverbrauch
 
@@ -306,7 +324,7 @@ Können sich Netzbetreiber und Produzent über die Vergütung nicht einigen, so 
 <sup>4</sup> Die Grundeigentümerinnen und Grundeigentümer haben die mit der Einführung des gemeinsamen Eigenverbrauchs verbundenen Kosten selber zu tragen, soweit sie nicht durch das Netznutzungsentgelt gedeckt sind (Art. 14 StromVG). Sie dürfen diese Kosten nicht unmittelbar auf Mieterinnen und Mieter oder Pächterinnen und Pächter überwälzen.[^17-4]
 
 [^17-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^17-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^17-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^17-3]: Fassung des dritten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^17-4]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -390,7 +408,7 @@ Er regelt die weiteren Einzelheiten zum Einspeisevergütungssystem, insbesondere
 - f. die rechnerische Weiterverteilung der eingespeisten Elektrizität durch die als Mess- und Abrechnungseinheiten tätigen Bilanzgruppen;
 - g. weitere Aufgaben der Bilanzgruppen und der Netzbetreiber, insbesondere eine Pflicht zur Abnahme und Vergütung im Rahmen von Artikel 21 sowie eine allfällige damit zusammenhängende Vorleistungspflicht.
 
-[^19-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^19-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 20
@@ -756,7 +774,7 @@ Der Bundesrat regelt die Einzelheiten, insbesondere:
 
 <sup>4</sup> Der Bundesrat kann Vorgaben für die Grundversorgungstarife machen.
 
-[^31-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^31-1]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 32
 
@@ -821,8 +839,8 @@ Kein Betriebskostenbeitrag kann in Anspruch genommen werden für:
 Dem Inhaber einer Wasserkraftanlage (Wasserkraftwerk im Sinne der Gewässerschutzgesetzgebung) sind die vollständigen Kosten für die Massnahmen nach Artikel 83*a* GschG[^34-2] oder nach Artikel 10 des Bundesgesetzes vom 21. Juni 1991[^34-3] über die Fischerei zu erstatten.
 
 [^34-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^34-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^34-3]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^34-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^34-3]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ## 7. Kapitel: Netzzuschlag
 
@@ -905,7 +923,7 @@ Beim Einsatz der Mittel für die einzelnen Verwendungen sind die folgenden Höch
 
 <sup>6</sup> Über die Einlagen und Entnahmen sowie den Stand des Fondsvermögens ist jährlich ein Bericht zu erstellen.
 
-[^37-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^37-1]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 [^37-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^37-3]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -1040,7 +1058,7 @@ Zur Reduktion des Energieverbrauchs erlässt der Bundesrat für serienmässig he
 [^44-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^44-3]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^44-4]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^44-5]: [SR 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^44-5]: [SR 933.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11043)
 
 #### Art. 45
 
@@ -1149,7 +1167,7 @@ Der Bundesrat regelt die Einzelheiten, insbesondere:
 <sup>6</sup> Der Bundesrat kann Ausnahmen oder Erleichterungen bei der Zielvorgabe für Elektrizitätslieferanten vorsehen, sofern diese stromintensive Unternehmen beliefern.
 
 [^46b-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^46b-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^46b-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 ## 9. Kapitel: Förderung
 
@@ -1213,7 +1231,7 @@ Der Bund kann im Bereich der Energie- und Abwärmenutzung Massnahmen unterstütz
 <sup>5</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss einen zehnjährigen Verpflichtungskredit.
 
 [^50a-1]: Eingefügt durch Anhang des BG vom 30. Sept. 2022 über die Ziele im Klimaschutz, die Innovation und die Stärkung der Energiesicherheit, in Kraft seit 1. Jan. 2025 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^50a-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^50a-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### 2. Abschnitt: Finanzierung
 
@@ -1234,8 +1252,8 @@ Der Bund kann die Massnahmen nach den Artikeln 47, 48 und 50 entweder in der For
 
 <sup>4</sup> Die Unterstützung nach Artikel 49 Absatz 2 erfolgt in der Form von Finanzhilfen nach Artikel 53.
 
-[^51-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^51-2]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^51-1]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^51-2]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 52
 
@@ -1324,7 +1342,7 @@ Die für die Untersuchungen und das Monitoring nach Artikel 55 sowie für statis
 <sup>2</sup> Der Bundesrat legt die notwendigen Informationen und Daten fest.
 
 [^56-1]: Fassung gemäss Anhang 1 Ziff. II 56 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^56-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^56-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 57
 
@@ -1397,7 +1415,7 @@ Die zuständigen Bundesbehörden können die anonymisierten Daten nach Absatz 1 
 
 <sup>3</sup> Ausgenommen von der Gebührenerhebung sind insbesondere die Informations- und Beratungstätigkeiten des BFE nach Artikel 47 Absatz 1.
 
-[^61-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^61-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 62
 
@@ -1519,7 +1537,7 @@ Alle Personen, die mit dem Vollzug dieses Gesetzes betraut sind, unterliegen dem
 
 <sup>3</sup> Für Anlagen nach Absatz 1, die auf dem Gebiet mehrerer Kantone liegen, kann das Enteignungsrecht nach dem Bundesgesetz vom 20. Juni 1930 über die Enteignung beansprucht werden.
 
-[^69-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^69-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^69-2]: Aufgehoben durch Anhang Ziff. 10 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ## 13. Kapitel: Strafbestimmungen
@@ -1552,7 +1570,7 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Fällt eine Busse von höchstens 20 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen.
 
-[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 14. Kapitel: Schlussbestimmungen
 
@@ -1592,8 +1610,8 @@ Die Photovoltaik-Grossanlagen müssen folgende Voraussetzungen erfüllen:
 <sup>6</sup> Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
 
 [^71a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 71b
 
@@ -1638,7 +1656,7 @@ Diese Regeln kommen auch bei einem rechtskräftigen Nutzungsplan, der vom Kanton
 <sup>4</sup> Dieser Artikel bleibt auf Gesuche, die vor Erreichung des Ziels nach Absatz 1 öffentlich aufgelegt werden, sowie auf allfällige Beschwerdeverfahren auch nach Erreichung des Ziels anwendbar.
 
 [^71c-1]: Eingefügt durch Ziff. I 1 des BG vom 16. Juni 2023 über die Beschleunigung der Bewilligungsverfahren für Windenergieanlagen, in Kraft seit 1. Febr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
-[^71c-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^71c-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 72
 
@@ -1675,7 +1693,7 @@ Für Betreiber, denen die Vergütung vor dem Inkrafttreten dieses Gesetzes zuges
 
 **Übergangsbestimmungen zu anderen Netzzuschlags-Verwendungen**
 
-<sup>1</sup> und <sup>2</sup> …[^73-1]
+<sup>1 und <sup>2</sup></sup> …[^73-1]
 
 <sup>3</sup> Wer zwischen dem 1. August 2013 und dem Inkrafttreten dieses Gesetzes einen verbindlichen Grundsatzbescheid betreffend Gewährung einer Bürgschaft zur Risikoabsicherung von Geothermie-Anlagen in der Höhe von 50 Prozent der Investitionskosten erhalten hat, kann beim BFE bis sechs Monate nach Inkrafttreten dieses Gesetzes eine Neubeurteilung des Grundsatzbescheids nach neuem Recht beantragen. Es besteht kein Rechtsanspruch auf Erhöhung der Garantie.
 

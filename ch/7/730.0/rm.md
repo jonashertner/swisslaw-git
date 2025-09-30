@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2025-01-01
+version: 2025-10-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20250101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20251001/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20251001-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20251001/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dal 1. da schaner 2025)
+dals 30 da settember 2016 (versiun dal 1. d’october 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -29,7 +29,7 @@ suenter avair gì invista da la missiva dal Cussegl federal dals 4 da settember 
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)
 
 ## 1. chapitel Intent, finamiras e princips
@@ -73,7 +73,7 @@ Ella ha l’intent:
 Sch’i smanatscha ina situaziun da mancanza, po il Cussegl federal obligar ils gestiunaris da las ovras idraulicas, tar las qualas la quantitad da l’aua restanta è vegnida augmentada sin basa dals artitgels 31 alinea 2 e 33 da la Lescha dals 24 da schaner 1991[^2a-2] davart la protecziun da las auas (LPAuas), d’augmentar temporarmain lur producziun d’electricitad, observond las quantitads minimalas d’aua restanta tenor l’artitgel 31 alinea 1 LPAuas, sche quai è pussaivel tecnicamain.
 
 [^2a-1]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^2a-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^2a-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 3
 
@@ -143,6 +143,24 @@ Autoritads, interpresas dal provediment d’energia, planisaders, producents ed 
 
 <sup>4</sup> Sche necessari, garantescha la Confederaziun la collavuraziun cun l’exteriur.
 
+#### Art. 8a
+
+**Mesiras ordinadas per garantir il provediment da gas**[^8a-1]
+
+<sup>1</sup> Sche interpresas u organisaziuns da l’economia da gas vegnan obligadas da prender mesiras per garantir il provediment da gas sin basa da la Lescha dals 17 da zercladur 2016[^8a-2] davart il provediment dal pajais, valan ils custs respectivs sco custs imputabels da la rait da transport, ch’ils gestiunaris da la rait da transport pon adossar en moda nundiscriminanta als consuments finals.
+
+<sup>2</sup> L’Uffizi federal per il provediment economic dal pajais decida, sch’ils custs adossads èn commensurads.
+
+<sup>3</sup>
+
+Il Cussegl federal po decretar prescripziuns davart:
+
+- a. la repartiziun dals custs tranter ils gestiunaris da la rait da transport e l’ulteriur adossament dals custs als consuments finals;
+- b. l’indicaziun transparenta dals custs en l’indemnisaziun per il diever da la rait.
+
+[^8a-1]: Integrà tras l’agiunta dal COF dals 21 da mars 2025 davart l’approvaziun e la realisaziun da la Cunvegna tranter la Svizra, la Germania e l’Italia davart mesiras da solidaritad per garantir la segirezza dal provediment da gas, en vigur dapi il 1. d’oct. 2025 ([AS 2025 589](https://fedlex.data.admin.ch/eli/oc/2025/589); [BBl 2024 2318](https://fedlex.data.admin.ch/eli/fga/2024/2318)).
+[^8a-2]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+
 #### Art. 9
 
 **Garanzia d’origin, contabilitad d’electricitad e designaziun**
@@ -176,7 +194,7 @@ Tgi che furnescha electricitad a consuments finals sto:
 
 <sup>2</sup> Sche necessari, procuran els ch’i vegnian etablids plans d’utilisaziun u ch’i vegnian adattads plans d’utilisaziun existents.
 
-[^10-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-3]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-4]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -213,10 +231,10 @@ En biotops d’impurtanza naziunala tenor l’artitgel 18*a* LPNP ed en reservat
 
 <sup>5</sup> Cura ch’el fixescha la grondezza e l’impurtanza necessaria tenor l’alinea 4, resguarda el criteris sco la prestaziun, la producziun u la producziun durant l’enviern sco er l’abilitad da producir en moda flexibla areguard il temp ed en moda orientada al martgà.[^12-9]
 
-[^12-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^12-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^12-2]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^12-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^12-4]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^12-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^12-4]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^12-5]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^12-6]: Versiun da la segunda frasa tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^12-7]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -255,7 +273,7 @@ Uschè ditg che las finamiras per augmentar la producziun d’electricitad or d�
 
 <sup>4</sup> Per autras posiziuns e permissiuns ch’èn chaussa da la Confederaziun, designescha il Cussegl federal in’unitad administrativa che procura per la coordinaziun da questas posiziuns e da questas proceduras da permissiun. El fixescha ils termins regulars, entaifer ils quals las posiziuns ston vegnir inoltradas al post da coordinaziun e las proceduras da permissiun ston vegnir terminadas.
 
-[^14-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^14-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ## 3. chapitel Furniziun d’energia da rait ed agen consum
 
@@ -308,7 +326,7 @@ Sch’il gestiunari da la rait ed il producent na pon betg sa cunvegnir, valan l
 <sup>4</sup> Ils proprietaris da bains immobigliars ston surpigliar sezs ils custs che derivan da l’introducziun da l’agen consum cuminaivel, nun che quests custs sajan cuvrids tras l’indemnisaziun per l’utilisaziun da la rait (art. 14 LPrEl). Els na dastgan betg adossar quests custs directamain a locataris u a fittadins.[^17-4]
 
 [^17-1]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^17-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^17-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^17-3]: Versiun da la terza frasa tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^17-4]: Versiun da la segunda frasa tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -392,7 +410,7 @@ Il Cussegl federal regla ils ulteriurs detagls pertutgant il sistem d’indemnis
 - f. l’ulteriura distribuziun calculabla da l’electricitad furnida, tras las gruppas da bilantscha activas sco unitads da mesiraziun e da calculaziun;
 - g. ulteriuras incumbensas da las gruppas da bilantscha e dals gestiunaris da las raits, particularmain l’obligaziun da surpigliar e d’indemnisar l’electricitad en il rom da l’artitgel 21 sco er l’eventuala obligaziun da pajar prestaziuns preliminaras.
 
-[^19-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^19-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 20
@@ -758,7 +776,7 @@ Il Cussegl federal regla ils detagls, en spezial:
 
 <sup>4</sup> Il Cussegl federal po far prescripziuns per las tariffas dal provediment da basa.
 
-[^31-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^31-1]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 32
 
@@ -823,8 +841,8 @@ I n’è betg pussaivel da pretender ina contribuziun als custs da manaschi per:
 Al possessur d’ina ovra idraulica (ovra idraulica en il senn da la legislaziun davart la protecziun da las auas) vegnan pajads tut ils custs per las mesiras tenor l’artitgel 83*a* LPAuas[^34-2] u tenor l’artitgel 10 da la Lescha federala dals 21 da zercladur 1991[^34-3] davart la pestga.
 
 [^34-1]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^34-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^34-3]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^34-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^34-3]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ## 7. chapitel Supplement da rait
 
@@ -907,7 +925,7 @@ Per impunder ils meds finanzials per las singulas utilisaziuns ston vegnir resgu
 
 <sup>6</sup> Davart ils apports e las prelevaziuns sco er davart il stadi da la facultad dal Fond stoi vegnir fatg mintga onn in rapport.
 
-[^37-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^37-1]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 [^37-2]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^37-3]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -1042,7 +1060,7 @@ Per reducir il consum d’energia decretescha il Cussegl federal per indrizs, ve
 [^44-2]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^44-3]: Versiun da la segunda frasa tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^44-4]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^44-5]: [SR 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^44-5]: [SR 933.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11043)
 
 #### Art. 45
 
@@ -1153,7 +1171,7 @@ Il Cussegl federal regla ils detagls, en spezial:
 <sup>6</sup> Il Cussegl federal po prevair excepziuns u facilitaziuns da la finamira per ils furniturs d’electricitad che furneschan ad interpresas che dovran blera electricitad.
 
 [^46b-1]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^46b-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^46b-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 ## 9. chapitel Promoziun
 
@@ -1202,6 +1220,23 @@ En il sectur da l’utilisaziun da l’energia e da la chalur persa po la Confed
 - b. l’utilisaziun d’energias regenerablas;
 - c. l’utilisaziun da la chalur persa, en spezial d’ovras electricas, da stabiliments per arder ruments, da sereneras, d’implants da servetsch e da stabiliments industrials, sco er la distribuziun da chalur persa en raits da chalur locala e da chalur a distanza.
 
+#### Art. 50a
+
+**Program d’impuls per remplazzar indrizs che produceschan chalur e per prender mesiras en il sectur da l’effizienza energetica**[^50a-1]
+
+<sup>1</sup> En il rom d’in program d’impuls promova la Confederaziun – cun in import da 200 milliuns francs per onn durant 10 onns – il remplazzament da stgaudaments a material dad arder fossil e da stgaudaments electrics da resistenza fixs tras ina producziun da chalur ord energias regenerablas e mesiras en il sectur da l’effizienza energetica.
+
+<sup>2</sup> L’execuziun vegn fatga dals chantuns en il rom da las structuras existentas tenor l’artitgel 34 da la Lescha da CO<sub>2</sub> dals 23 da december 2011[^50a-2].
+
+<sup>3</sup> Ils meds finanzials vegnan concedids als chantuns en ina contribuziun da basa per abitant. Per conceder ils meds finanzials po il Cussegl federal resguardar las stentas ch’ils chantuns han fatg fin ussa en il sectur dals edifizis.
+
+<sup>4</sup> Il Cussegl federal regla ils detagls, particularmain l’autezza da las contribuziuns da promoziun, quai resguardond la mancanza da sistems per distribuir chalur. En connex cun il remplazzament da stgaudaments a material dad arder fossil sustegna el indrizs dal sectur da prestaziun mesaun e pli aut e fixescha las pretensiuns minimalas al program d’impuls.
+
+<sup>5</sup> L’Assamblea federala permetta in credit d’impegn da 10 onns tras in conclus federal simpel.
+
+[^50a-1]: Integrà tras l’agiunta da la LF dals 30 da sett. 2022 davart las finamiras en la protecziun dal clima, davart l’innovaziun e davart il rinforzament da la segirezza energetica, en vigur dapi il 1. da schan. 2025 ([AS 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^50a-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+
 ### 2. secziun Finanziaziun
 
 #### Art. 51
@@ -1221,8 +1256,8 @@ La Confederaziun po promover las mesiras tenor ils artitgels 47, 48 e 50 ubain e
 
 <sup>4</sup> Il sustegn tenor l’artitgel 49 alinea 2 ha lieu en furma d’agids finanzials tenor l’artitgel 53.
 
-[^51-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^51-2]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^51-1]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^51-2]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 52
 
@@ -1311,7 +1346,7 @@ Las infurmaziuns sco er las datas persunalas e las datas da persunas giuridicas 
 <sup>2</sup> Il Cussegl federal fixescha las infurmaziuns e las datas necessarias.
 
 [^56-1]: Versiun tenor la cifra II 56 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^56-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^56-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 57
 
@@ -1384,7 +1419,7 @@ Las autoritads federalas cumpetentas pon publitgar en furma adattada las datas a
 
 <sup>3</sup> Exceptadas da l’incassament da taxas èn en spezial las activitads d’infurmaziun e da cussegliaziun dal UFE tenor l’artitgel 47 alinea 1.
 
-[^61-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^61-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 62
 
@@ -1506,7 +1541,7 @@ Tut las persunas ch’èn incaricadas cun l’execuziun da questa lescha èn sut
 
 <sup>3</sup> Per stabiliments tenor l’alinea 1 che sa chattan sin il territori da plirs chantuns, po il dretg d’expropriaziun vegnir dumandà tenor la Lescha federala dals 20 da zercladur 1930 davart l’expropriaziun.
 
-[^69-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^69-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^69-2]: Abolì tras la cifra 10 da l’agiunta da la LF dals 19 da zer. 2020, cun effect dapi il 1. da schan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ## 13. chapitel Disposiziuns penalas
@@ -1539,7 +1574,7 @@ Cun ina multa fin a 100 000 francs vegn chastià, tgi che fa intenziunadamain il
 
 <sup>2</sup> Sch’ina multa da maximalmain 20 000 francs vegn en consideraziun e sche la retschertga da las persunas chastiablas tenor l’artitgel 6 DPA pretendess mesiras d’inquisiziun che fissan sproporziunadas en vista al chasti scadì, po l’autoritad desister da persequitar questas persunas e sentenziar – empè dad ellas – l’interpresa (art. 7 DPA) da pajar la multa.
 
-[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 14. chapitel Disposiziuns finalas
 
@@ -1579,8 +1614,8 @@ Ils implants fotovoltaics gronds ston ademplir las suandantas premissas:
 <sup>6</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain fin ils 31 da december 2025 sco er per eventualas proceduras da recurs.
 
 [^71a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 71b
 
@@ -1625,7 +1660,7 @@ Questas reglas vegnan applitgadas er, en cas ch’il chantun aveva concludì in 
 <sup>4</sup> Quest artitgel resta applitgabel per dumondas che vegnan exponidas publicamain avant che la finamira tenor l’alinea 1 è vegnida cuntanschida, sco er per eventualas proceduras da recurs, e quai er suenter che la finamira è vegnida cuntanschida.
 
 [^71c-1]: Integrà tras la cifra I 1 da la LF dals 16 da zer. 2023 davart l’acceleraziun da las proceduras da permissiun per implants d’energia da vent, en vigur dapi il 1. da favr. 2024 ([AS 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [BBl 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
-[^71c-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^71c-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 72
 
@@ -1662,7 +1697,7 @@ Per gestiunaris, als quals l’indemnisaziun è vegnida garantida avant l’entr
 
 **Disposiziuns transitoricas tar autras utilisaziuns dal supplement da rait**
 
-<sup>1</sup> e <sup>2</sup> …[^73-1]
+<sup>1 e <sup>2</sup></sup> …[^73-1]
 
 <sup>3</sup> Tgi che ha survegnì, tranter il 1. d’avust 2013 e l’entrada en vigur da questa lescha, ina decisiun da princip lianta concernent la concessiun d’ina garanzia en l’autezza da 50 pertschient dals custs d’investiziun per segirar las ristgas da stabiliments da geotermia, po dumandar il UFE, entaifer 6 mais suenter l’entrada en vigur da questa lescha, che la decisiun da princip vegnia giuditgada da nov tenor il dretg nov. I n’exista nagin dretg sin in augment da la garanzia.
 

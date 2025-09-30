@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2025-01-01
+version: 2025-10-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20250101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20251001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20250101/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2025)
+du 30 septembre 2016 (État le 1<sup>er</sup> octobre 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu les art. 64, 74 à 76, 89 et 91 de la Constitution[^ingress-1], vu le message
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)
 
 ## Chapitre 1 But, objectifs et principes
@@ -71,7 +71,7 @@ Elle a pour but:
 En cas de pénurie imminente, le Conseil fédéral peut obliger les exploitants de centrales hydroélectriques pour lesquelles le débit résiduel a été augmenté conformément aux art. 31, al. 2, et 33 de la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)[^2a-2] à augmenter temporairement leur production d’électricité en respectant les débits résiduels minimaux visés à l’art. 31, al. 1, LEaux, pour autant que cela soit techniquement réalisable.
 
 [^2a-1]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^2a-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^2a-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 #### Art. 3
 
@@ -141,6 +141,24 @@ Les autorités, les entreprises d’approvisionnement en énergie, les concepteu
 
 <sup>4</sup> Si nécessaire, la Confédération assure la coopération avec l’étranger.
 
+#### Art. 8a
+
+**Mesures ordonnées pour garantir l’approvisionnement en gaz**[^8a-1]
+
+<sup>1</sup> Si des entreprises ou des organisations du secteur gazier sont obligées de prendre des mesures pour garantir l’approvisionnement en gaz en vertu de la loi du 17 juin 2016 sur l’approvisionnement du pays[^8a-2], les coûts occasionnés sont considérés comme des coûts imputables du réseau de transport et peuvent être répercutés de manière non discriminatoire par les gestionnaires du réseau de transport sur les consommateurs finaux.
+
+<sup>2</sup> L’Office fédéral pour l’approvisionnement économique du pays détermine si les coûts imputés sont appropriés.
+
+<sup>3</sup>
+
+Le Conseil fédéral peut édicter des dispositions concernant:
+
+- a. la répartition des coûts entre les gestionnaires du réseau de transport et leur répercussion ultérieure sur les consommateurs finaux;
+- b. l’indication transparente des coûts dans la rémunération pour l’utilisation du réseau.
+
+[^8a-1]: Introduit par l’annexe de l’AF du 21 mars 2025 portant approbation et mise en œuvre de l’accord entre la Suisse, l’Allemagne et l’Italie concernant des mesures de solidarité visant à assurer la sécurité de l’approvisionnement en gaz, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 589](https://fedlex.data.admin.ch/eli/oc/2025/589); [FF 2024 2318](https://fedlex.data.admin.ch/eli/fga/2024/2318)).
+[^8a-2]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+
 #### Art. 9
 
 **Garantie d’origine, comptabilité électrique et marquage**
@@ -174,7 +192,7 @@ Quiconque approvisionne des utilisateurs finaux, est tenu d’effectuer les tâc
 
 <sup>2</sup> Si nécessaire, ils veillent à ce que des plans d’affectation soient établis ou que les plans d’affectation existants soient adaptés.
 
-[^10-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^10-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-3]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-4]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -211,10 +229,10 @@ Dans les biotopes d’importance nationale au sens de l’art. 18*a* LPN et les 
 
 <sup>5</sup> Lorsqu’il fixe la taille et l’importance requises selon l’al. 4, il tient compte de critères tels que la puissance, la production ou la production hivernale, ainsi que la flexibilité de production dans le temps et en fonction des besoins du marché.[^12-9]
 
-[^12-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^12-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^12-2]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^12-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^12-4]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^12-3]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^12-4]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^12-5]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^12-6]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^12-7]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -253,7 +271,7 @@ Tant que les objectifs de développement de la production d’électricité issu
 
 <sup>4</sup> Pour les autres prises de position et autorisations relevant de la Confédération, le Conseil fédéral désigne une unité administrative qui aura pour charge de coordonner ces prises de position et les procédures d’autorisation. Il prévoit des délais d’ordre pour le dépôt des prises de position auprès de l’organe de coordination et pour la clôture des procédures d’autorisation.
 
-[^14-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^14-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ## Chapitre 3 Injection d’énergie de réseau et consommation propre
 
@@ -306,7 +324,7 @@ Si le gestionnaire de réseau et le producteur ne peuvent pas convenir d’une r
 <sup>4</sup> Les propriétaires fonciers prennent eux-mêmes en charge les coûts liés à l’introduction de la consommation propre commune, dans la mesure où ils ne sont pas couverts par la rémunération pour l’utilisation du réseau (art. 14 LApEl). Ils ne peuvent pas les répercuter directement sur les locataires ou les fermiers.[^17-4]
 
 [^17-1]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^17-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^17-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^17-3]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^17-4]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -740,7 +758,7 @@ Le Conseil fédéral règle les modalités, en particulier:
 
 <sup>5</sup> …[^30-3]
 
-[^30-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^30-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^30-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^30-3]: Abrogé par le ch. I de la LF du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
@@ -756,7 +774,7 @@ Le Conseil fédéral règle les modalités, en particulier:
 
 <sup>4</sup> Le Conseil fédéral peut fixer des conditions pour les tarifs de l’approvisionnement de base.
 
-[^31-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^31-1]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 32
 
@@ -821,8 +839,8 @@ Aucune contribution aux coûts d’exploitation ne peut être sollicitée pour:
 Le coût total des mesures prises en vertu de l’art. 83*a* LEaux[^34-2] ou de l’art. 10 de la loi fédérale du 21 juin 1991 sur la pêche[^34-3] doit être remboursé au détenteur d’une installation hydroélectrique (centrale hydroélectrique au sens de la législation sur la protection des eaux).
 
 [^34-1]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^34-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^34-3]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^34-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^34-3]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ## Chapitre 7 Supplément perçu sur le réseau
 
@@ -854,7 +872,7 @@ Le supplément permet de financer:
 
 <sup>3</sup> Le montant du supplément est de 2,3 ct./kWh au maximum. Le Conseil fédéral le détermine en fonction des besoins.
 
-[^35-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^35-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^35-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 [^35-3]: Introduite par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 [^35-4]: Introduite par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -906,7 +924,7 @@ L’allocation des ressources entre les diverses affectations est soumise à:
 
 <sup>6</sup> Un rapport annuel est établi pour présenter les apports, les retraits et l’état de la fortune du Fonds.
 
-[^37-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^37-1]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 [^37-2]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^37-3]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -1041,7 +1059,7 @@ Afin de réduire la consommation énergétique, le Conseil fédéral édicte pou
 [^44-2]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^44-3]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^44-4]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^44-5]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^44-5]: [RS 933.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11043)
 
 #### Art. 45
 
@@ -1149,7 +1167,7 @@ Le Conseil fédéral règle les modalités, notamment:
 <sup>6</sup> Le Conseil fédéral peut prévoir des exceptions ou des allègements des objectifs des fournisseurs d’électricité qui approvisionnent des entreprises grandes consommatrices d’électricité.
 
 [^46b-1]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^46b-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^46b-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 ## Chapitre 9 Mesures d’encouragement
 
@@ -1213,7 +1231,7 @@ Dans le domaine de l’utilisation de l’énergie et des rejets de chaleur, la 
 <sup>5</sup> L’Assemblée fédérale accorde un crédit d’engagement de dix ans par voie d’arrêté fédéral simple.
 
 [^50a-1]: Introduit par l’annexe de la LF du 30 sept. 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 655](https://fedlex.data.admin.ch/eli/oc/2023/655); [2024 771](https://fedlex.data.admin.ch/eli/oc/2024/771); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^50a-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^50a-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Section 2 Financement
 
@@ -1234,8 +1252,8 @@ La Confédération peut encourager les mesures visées aux art. 47, 48 et 50 soi
 
 <sup>4</sup> Le soutien visé à l’art. 49, al. 2, est apporté sous forme d’aides financières au sens de l’art. 53.
 
-[^51-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^51-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^51-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^51-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 #### Art. 52
 
@@ -1324,7 +1342,7 @@ Les informations, les données personnelles et les données concernant des perso
 <sup>2</sup> Le Conseil fédéral détermine les informations et données nécessaires.
 
 [^56-1]: Nouvelle teneur selon l’annexe 1 ch. II 56 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^56-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^56-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 57
 
@@ -1397,7 +1415,7 @@ Les autorités fédérales compétentes peuvent publier les données anonymisée
 
 <sup>3</sup> L’activité d’information et de conseil effectuée par l’OFEN en vertu de l’art. 47, al. 1, n’est pas soumise à la perception d’émoluments.
 
-[^61-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^61-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 62
 
@@ -1437,7 +1455,7 @@ L’organe d’exécution visé à l’art. 64 est compétent pour l’exécutio
 
 <sup>3</sup> S’agissant d’affaires de grande importance, de façon générale ou pour un cas précis, l’organe d’exécution statue de concert avec l’OFEN.
 
-[^63-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^63-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 64
 
@@ -1521,7 +1539,7 @@ Toute personne chargée de la mise en œuvre de la présente loi est soumise au 
 
 <sup>3</sup> Lorsque les installations visées à l’al. 1 s’étendent sur le territoire de plusieurs cantons, il est possible de demander l’application de la loi fédérale du 20 juin 1930 sur l’expropriation.
 
-[^69-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^69-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^69-2]: Abrogée par l’annexe ch. 10 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ## Chapitre 13 Dispositions pénales
@@ -1554,7 +1572,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 <sup>2</sup> Lorsque l’amende entrant en ligne de compte ne dépasse pas 20 000 francs et que l’enquête rendrait nécessaires à l’égard des personnes punissables conformément à l’art. 6 DPA des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut renoncer à poursuivre ces personnes et condamner à leur place l’entreprise au paiement de l’amende (art. 7 DPA).
 
-[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 14 Dispositions finales
 
@@ -1594,8 +1612,8 @@ Les grandes installations photovoltaïques sont celles qui remplissent les exige
 <sup>6</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
 
 [^71a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^71a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^71a-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 71b
 
@@ -1640,7 +1658,7 @@ Ces règles s’appliquent également si le plan d’affectation entré en force
 <sup>4</sup> Le présent article s’applique aux demandes mises à l’enquête publique avant que l’objectif visé à l’al. 1 soit atteint, ainsi qu’aux éventuelles procédures de recours, même après que l’objectif a été atteint.
 
 [^71c-1]: Introduit par le ch. I 1 de la LF du 16 juin 2023 sur l’accélération des procédures d’autorisation pour les installations éoliennes, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 804](https://fedlex.data.admin.ch/eli/oc/2023/804); [FF 2023 344](https://fedlex.data.admin.ch/eli/fga/2023/344), [588](https://fedlex.data.admin.ch/eli/fga/2023/588)).
-[^71c-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^71c-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 72
 
@@ -1677,7 +1695,7 @@ Lorsqu’un exploitant a reçu une décision positive garantissant l’octroi d�
 
 **Dispositions transitoires relatives aux autres affectations du supplément**
 
-<sup>1</sup> et <sup>2</sup> …[^73-1]
+<sup>1 et <sup>2</sup></sup> …[^73-1]
 
 <sup>3</sup> Quiconque a reçu, entre le 1<sup>er</sup> août 2013 et l’entrée en vigueur de la présente loi, une décision de principe contraignante quant à l’octroi d’une caution couvrant à hauteur de 50 % des coûts d’investissement les risques des installations géothermiques, peut demander auprès de l’OFEN, pendant une période de six mois au plus à compter de l’entrée en vigueur de la présente loi, un réexamen de ladite décision de principe fondé sur le nouveau droit. Nul ne peut prétendre à une augmentation de la garantie.
 
@@ -1691,7 +1709,7 @@ En ce qui concerne les contrats existants liant les gestionnaires de réseau à 
 <sup>5</sup> S’agissant des contrats au sens de l’al. 4 qui portent sur la reprise de l’électricité produite par les centrales hydroélectriques, l’ElCom peut réduire dans certains cas la rétribution de manière appropriée, lorsqu’il existe un décalage manifeste entre le prix de reprise et le coût de revient.
 
 [^73-1]: Abrogés par le ch. I de la LF du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
-[^73-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^73-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^73-3]: [RO 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
 
 #### Art. 74
