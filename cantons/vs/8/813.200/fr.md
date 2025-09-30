@@ -1,49 +1,45 @@
 ---
 canton: VS
 number: "813.200"
-title: "Règlement d'application de la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à l'exploitation de l'établissement"
+title: "Règlement d'application de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à l'exploitation de l'établissement du 17 décembre 2008"
 language: fr
-version: 2016-11-02
-corrected: 2017-07-27
-version_adopted: 2016-11-02
+version: 2025-10-01
+version_adopted: 2025-09-17
 adopted: 2016-11-02
 in_force: 2016-11-02
 url: "https://lex.vs.ch/app/fr/texts_of_law/813.200"
-pdf: "https://lex.vs.ch/api/fr/versions/227/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3516/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement d'application de la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à l'exploitation de l'établissement
+# Règlement d'application de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à l'exploitation de l'établissement du 17 décembre 2008
 
-du 2 novembre 2016
+du 02.11.2016 (état 01.10.2025)
 
-Le Conseil d'Etat du canton de Vaud
+Le Conseil d'Etat du canton de Vaud et le Conseil d'Etat du canton du Valais
 
-Le Conseil d'Etat du canton du Valais
+vu la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais du 17 décembre 2008 (ci-après: la Convention);
 
-vu la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais (ci-après: la Convention);
+vu que l'Hôpital Riviera-Chablais, Vaud-Valais exploite, depuis le 1<sup>er</sup> janvier 2014, des sites de soins aigus et de réadaptation situés respectivement sur les cantons de Vaud et du Valais;
 
-vu que l'Hôpital Riviera-Chablais, Vaud-Valais exploite, depuis le 1er janvier 2014, six sites de soins aigus et de réadaptation (le Samaritain à Vevey, Aigle, Montreux, la Providence à Vevey, Mottex à Blonay et Monthey), situés respectivement sur les cantons de Vaud et du Valais et qu'à terme, l'HRC exploitera trois sites (le site de soins aigus à Rennaz et deux antennes qui seront situées au Samaritain à Vevey et à Monthey) répartis sur les deux cantons précités;
-
-vu les préavis du Département de la santé et de l'action sociale du Canton de Vaud et du Département de la santé, des affaires sociales et de la culture du Canton du Valais (ci-après: les départements),
+vu les préavis du Département de la santé et de l'action sociale du canton de Vaud et du Département de la santé, des affaires sociales et de la culture du canton du Valais (ci-après: les départements),
 
 arrêtent:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Objet, but et champ d'application**
 
-Le présent règlement fixe les dispositions d'application de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais (ci-après: l'HRC) du 17 décembre 2008 relatives au fonctionnement de l'HRC.
+<sup>1</sup> Le présent règlement fixe les dispositions d'application de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais (ci-après: l'HRC) du 17 décembre 2008 relatives au fonctionnement de l'HRC.
 
 #### Art. 2
 
 **Principe**
 
-A défaut de dispositions contraires dans la Convention, le présent règlement ou une législation spécifique, le droit du lieu du site est applicable.
+<sup>1</sup> A défaut de dispositions contraires dans la Convention, le présent règlement ou une législation spécifique, le droit du lieu du site est applicable.
 
 #### Art. 3
 
@@ -51,9 +47,9 @@ A défaut de dispositions contraires dans la Convention, le présent règlement 
 
 <sup>1</sup> Sous réserve des compétences des Conseils d'Etat vaudois et valaisan, les départements sont chargés de l'exécution du présent règlement. Ils édictent à cet effet les directives nécessaires.
 
-<sup>2</sup> Les Chefs de département rencontrent le Conseil d'Etablissement une fois par an au moins.
+<sup>2</sup> Les chefs de département rencontrent le Conseil d'Etablissement une fois par an au moins, ainsi que trois fois par année la présidence et la vice-présidence du Conseil d’Etablissement.
 
-### Chapitre 2: Autorisations
+## 2 Autorisations
 
 #### Art. 4
 
@@ -75,35 +71,55 @@ A défaut de dispositions contraires dans la Convention, le présent règlement 
 
 <sup>3</sup> Le canton de Vaud informe régulièrement le canton du Valais des autorisations délivrées.
 
+<sup>4</sup> Les médecins cadres au bénéfice d’une autorisation de pratique du canton du Valais bénéficient d’une procédure d’autorisation simplifiée pour leur activité à l’HRC. Les modalités sont fixées par les deux départements.
+
 #### Art. 6
 
 **Autres autorisations**
 
-Les autres autorisations nécessaires sont délivrées par l'autorité compétente au lieu du site conformément à sa propre législation.
+<sup>1</sup> Les autres autorisations nécessaires sont délivrées par l'autorité compétente au lieu du site conformément à sa propre législation.
 
-### Chapitre 3: Relations contractuelles
+## 3 Relations contractuelles
 
 #### Art. 7
 
 **Prestations**
 
-<sup>1</sup> Les listes et mandats de prestations LAMal de l'établissement sont définis par les deux Conseils d'Etat selon la procédure respective de chaque canton.
+<sup>1</sup> Les listes hospitalières et les mandats de prestations LAMal de l’établissement sont définis par les deux Conseils d’Etat selon la procédure respective de chaque canton.
+
+<sup>1<sup>bis</sup></sup> Les cantons veillent à la coordination de l’attribution des prestations dans le but d’assurer une cohérence des prestations de l’HRC.
 
 <sup>2</sup> Le contrat de prestations fixe les modalités d'exécution des mandats de prestations LAMal. Les départements concluent annuellement avec l'HRC un contrat de prestations tripartite.
 
-### Chapitre 4: Système de financement
+#### Art. 7a
+
+**Conseil d'Etablissement**
+
+<sup>1</sup> La nomination des membres du Conseil d'Etablissement est soumise aux conditions suivantes:
+
+- a) les membres sont nommés pour la durée du mandat prévue par leur canton respectif;
+- b) les membres ne peuvent pas exercer plus de 3 mandats;
+- c) les membres ne sont pas soumis à une limitation d'âge.
+
+<sup>2</sup> Les deux Conseils d’Etat fixent la rémunération des membres du Conseil d’Etablissement. La rémunération des membres du Conseil d’Etablissement est composée d’une part fixe différenciée pour la présidence, la vice-présidence et les autres membres et d’une part variable. Les modalités et les forfaits sont fixés par les deux départements.
+
+<sup>3</sup> Les deux départements définissent les modalités de nomination des membres du Conseil d’Etablissement, y compris pour la présidence et la vice-présidence.
+
+<sup>4</sup> Les dispositions cantonales concernant les relations entre les membres d’un Conseil d’Etablissement et les autorités cantonales sont réservées.
+
+## 4 Système de financement
 
 #### Art. 8
 
 **Prestations LAMal**
 
-Les cantons participent au financement des prestations stationnaires LAMal de leurs assurés relevant de l'assurance obligatoire des soins selon les modalités définies dans le contrat de prestations. Les deux départements édictent des règles communes.
+<sup>1</sup> Les cantons participent au financement des prestations stationnaires LAMal de leurs assurés relevant de l'assurance obligatoire des soins selon les modalités définies dans le contrat de prestations. Les deux départements édictent des règles communes.
 
 #### Art. 9
 
 **Prestations relevant d'autres assurances sociales**
 
-Les cantons de Vaud et du Valais participent au financement des prestations stationnaires de leurs assurés relevant d'autres assurances sociales (LAA, LAM, LAI) selon les modalités définies dans le contrat de prestations. Les deux départements édictent des règles communes.
+<sup>1</sup> Les cantons de Vaud et du Valais participent au financement des prestations stationnaires de leurs assurés relevant d'autres assurances sociales (LAA, LAM, LAI) selon les modalités définies dans le contrat de prestations. Les deux départements édictent des règles communes.
 
 #### Art. 10
 
@@ -113,9 +129,21 @@ Les cantons de Vaud et du Valais participent au financement des prestations stat
 
 <sup>2</sup> Les coûts de formation universitaire et de recherche de l'HRC au sens de l'article 49 alinéa 3 LAMal sont financés par les cantons conformément aux modalités édictées par les deux départements.
 
-<sup>3</sup> Les deux départements déterminent annuellement par voie budgétaire les montants retenus pour les PIG communes. Le financement est en principe réparti à raison de 75 pour cent pour le Canton de Vaud et 25 pour cent pour le Canton du Valais.
+<sup>3</sup> Les deux départements déterminent annuellement par voie budgétaire les montants retenus pour les PIG communes. Le financement est réparti entre le Canton de Vaud et le Canton du Valais selon les taux et les modalités de répartition définis à l’article 18 alinéa 2 de la Convention.
 
-<sup>4</sup> Chaque département peut demander et financer des PIG particulières.
+<sup>4</sup> Les deux départements confirment annuellement les modalités de financement retenues respectivement par les deux cantons pour les prestations d’intérêt général dans le contrat de prestations tripartite conclu avec l’HRC.
+
+#### Art. 10a
+
+**Formation non universitaire**
+
+<sup>1</sup> L’HRC met à disposition des places de stage et d’apprentissage pour les formations non universitaires de la santé.
+
+<sup>2</sup> Les objectifs y relatifs sont définis conjointement avec les deux départements et fixés annuellement dans le contrat de prestations.
+
+<sup>3</sup> Les départements veillent à une répartition des places de stage et d’apprentissage entre les deux cantons proportionnellement conformes à celle de l’activité globale de l’HRC.
+
+<sup>4</sup> Le financement est assuré conformément aux dispositions légales et aux accords en vigueurs des deux cantons.
 
 #### Art. 11
 
@@ -131,7 +159,7 @@ Les cantons de Vaud et du Valais participent au financement des prestations stat
 
 <sup>1</sup> Toutes les prestations sont facturées avec des tarifs identiques pour les patients valaisans et vaudois conformément aux articles 16 et 17 de la Convention.
 
-<sup>2</sup> Les conventions tarifaires, au sens de la LAMal, signées par l'HRC sont soumises à l'approbation du Conseil d'Etat vaudois. Le Département de la santé du Canton du Valais est consulté.
+<sup>2</sup> Les conventions tarifaires, au sens de la LAMal, signées par l'HRC sont soumises à l'approbation du Conseil d'Etat vaudois. Le Département de la santé du canton du Valais est consulté.
 
 <sup>3</sup> En cas d'absence de convention tarifaire au sens de la LAMal, les deux Conseils d'Etat fixent le tarif.
 
@@ -139,11 +167,11 @@ Les cantons de Vaud et du Valais participent au financement des prestations stat
 
 **Contrôle des investissements**
 
-<sup>1</sup> L'HRC soumet, pour approbation, aux deux Conseils d'Etat, au minimum chaque deux ans, un plan quadriennal de ses investissements. Ce plan doit être transmis pour la première fois, le 31 août 2020.
+<sup>1</sup> L'HRC soumet pour approbation aux deux Conseils d'Etat un plan pluriannuel de ses investissements. Ce plan est transmis pour la première fois en 2023. Les départements précisent les modalités, notamment sa périodicité ainsi que le cadre financier des objets d’investissements devant figurer dans ce plan.
 
-<sup>2</sup> L'HRC peut décider d'investissements non approuvés dans le plan quadriennal, mais justifiés par des événements exceptionnels. Ces investissements sont soumis aux deux Conseils d'Etat pour approbation si leur montant, par objet, est supérieur à deux millions de francs.
+<sup>2</sup> …
 
-<sup>3</sup> L'acquisition d'équipements médico-techniques est soumise aux dispositions légales en vigueur dans le canton de Vaud en particulier au Décret du 29 septembre 2015 sur la régulation des équipements médico-techniques lourds pour sa durée de validité. Avant de rendre sa décision, l'autorité vaudoise compétente prend l'avis du département de la santé valaisan.
+<sup>3</sup> L'acquisition d'équipements médico-techniques est soumise aux dispositions légales en vigueur sur le site d’implantation du dispositif. Avant de rendre sa décision, l'autorité compétente prend l'avis du département de l’autre canton.
 
 #### Art. 14
 
@@ -153,7 +181,7 @@ Les cantons de Vaud et du Valais participent au financement des prestations stat
 
 <sup>2</sup> La part de la rémunération des prestations liées aux investissements excédant les charges d'investissement est comptabilisée dans un fonds affecté aux investissements au passif du bilan.
 
-<sup>3</sup> Les principes de comptabilisation relatifs aux investissements sont réévalués périodiquement et font l'objet d'une directive des départements.
+<sup>3</sup> Les principes de comptabilisation relatifs aux investissements sont réévalués périodiquement et sont définis par les deux départements.
 
 #### Art. 15
 
@@ -169,17 +197,17 @@ Les cantons de Vaud et du Valais participent au financement des prestations stat
 
 **Approbation des budgets et des comptes**
 
-<sup>1</sup> L'HRC établit annuellement un budget d'exploitation et un budget d'investissements conformément aux modalités et calendriers définis dans le contrat de prestations en vue de leur approbation par les Conseils d'Etat.
+<sup>1</sup> L'HRC établit annuellement un budget d'exploitation et un budget d'investissements conformément aux modalités et calendriers définis dans le contrat de prestations en vue de leur approbation par les deux départements.
 
 <sup>2</sup> Le Conseil d'Etablissement arrête les budgets et les comptes. Il transmet les budgets, les comptes audités, le rapport de l'organe de révision et le rapport d'activité simultanément aux départements vaudois et valaisan.
 
-<sup>3</sup> Les deux départements transmettent à leur Conseil d'Etat les comptes et budgets de l'HRC pour ratification. Les Conseils d'Etat donnent décharge au Conseil d'établissement de sa gestion annuelle.
+<sup>3</sup> Les deux départements transmettent à leur Conseil d'Etat les comptes de l'HRC pour approbation. Les Conseils d'Etat donnent décharge au Conseil d'Etablissement de sa gestion annuelle.
 
 #### Art. 17
 
 **Organe de révision de l'HRC**
 
-<sup>1</sup> L'organe de révision est ratifié par les deux Conseils d'Etat sur proposition du Conseil d'Etablissement de l'HRC.
+<sup>1</sup> L'organe de révision est désigné par les deux Conseils d'Etat sur proposition du Conseil d'Etablissement de l'HRC.
 
 <sup>2</sup> Il effectue un examen des états financiers de l'HRC visant à vérifier leur exactitude et leur pertinence conformément aux normes en vigueur concernant le contrôle ordinaire et au présent accord.
 
@@ -193,7 +221,7 @@ Les cantons de Vaud et du Valais participent au financement des prestations stat
 
 <sup>1</sup> L'HRC dispose d'un service d'audit interne chargé notamment d'évaluer, par une approche systématique et méthodique, ses processus de management des risques, de contrôle et de gouvernement d'entreprise, ainsi que d'élaborer des propositions pour renforcer leur efficacité.
 
-<sup>2</sup> L'HRC informe régulièrement les départements des constatations et propositions du service d'audit interne.
+<sup>2</sup> L'HRC informe au moins une fois par année les départements des constatations et propositions du service d'audit interne.
 
 #### Art. 19
 
@@ -203,11 +231,11 @@ Les cantons de Vaud et du Valais participent au financement des prestations stat
 
 <sup>2</sup> L'HRC précise dans des règlements à quelles conditions et selon quelles modalités des fonds peuvent être créés et financés.
 
-### Chapitre 5: Sécurité des patients et qualité des soins
+## 5 Sécurité des patients et qualité des soins
 
 #### Art. 20
 
-Démarche sécurité patients, qualité des soins et gestion des réclamations
+**Démarche sécurité patients, qualité des soins et gestion des réclamations**
 
 <sup>1</sup> L'établissement s'engage à tout mettre en oeuvre pour disposer d'une démarche active en matière de sécurité patients et qualité des soins.
 
@@ -219,13 +247,11 @@ Démarche sécurité patients, qualité des soins et gestion des réclamations
 
 <sup>1</sup> L'HRC est tenu de mettre en place un système de déclaration et de gestion des incidents.
 
-<sup>2</sup> Les annonces d'événements graves ou incidents critiques s'effectuent selon les règles et la procédure prévue par la législation du siège social de l'établissement, soit le Canton de Vaud.
+<sup>2</sup> Les annonces d'événements graves ou incidents critiques s'effectuent selon les règles et la procédure prévue par la législation du siège social de l'établissement, soit le canton de Vaud.
 
-<sup>3</sup> Le Canton de Vaud informe immédiatement le canton du Valais de l'annonce d'un événement grave ou incident critique et des suites données.
+<sup>3</sup> Le canton de Vaud informe immédiatement le canton du Valais de l'annonce d'un événement grave ou incident critique et des suites données.
 
-### Chapitre 6: Droit des patients et devoirs des professionnels de la
-
-santé
+## 6 Droit des patients et devoirs des professionnels de la santé
 
 #### Art. 22
 
@@ -237,7 +263,9 @@ santé
 
 <sup>3</sup> La procédure d'assistance au suicide est celle du droit du lieu du site.
 
-### Chapitre 7: Surveillance de l'établissement
+<sup>4</sup> Pour toute question ayant trait à la protection des données et à la transparence, l'HRC est soumis à la législation en la matière du siège social de l’établissement, soit le Canton de Vaud.
+
+## 7 Surveillance de l'établissement
 
 #### Art. 23
 
@@ -259,32 +287,18 @@ santé
 
 <sup>3</sup> Les décisions prises au titre de la surveillance découlant de la planification relèvent de la compétence conjointe des deux départements, voire des deux Conseils d'Etat, en fonction de leurs attributions respectives.
 
-### Chapitre 8: Dispositions finales
+## 8 Dispositions finales
 
 #### Art. 25
 
 **Abrogation**
 
-L'arrêté d'application du 15 septembre 2010 de la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais est abrogé.
+<sup>1</sup> L'arrêté d'application du 15 septembre 2010 de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais du 17 décembre 2008 est abrogé.
 
 #### Art. 26
 
 **Entrée en vigueur**
 
-Le présent règlement entre en vigueur dès son adoption par les deux Conseils d'Etat.
+<sup>1</sup> Le présent règlement entre en vigueur dès son adoption par les deux Conseils d'Etat.
 
-Ainsi arrêté en Conseil d'Etat, à Sion, le 2 novembre 2016.
-
-La présidente du Conseil d'Etat: Esther Waeber-Kalbermatten Le chancelier d'Etat: Philipp Spörri
-
-Ce règlement a été adopté par le Conseil d'Etat du Canton de Vaud le 2 novembre 2016.
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Règlement d'application de la Convention BO No 47/2016 02.11.2016 intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais relatif à l'exploitation de l'établissement du
-
-## Autres notes
-
-- [2] novembre 2016
+RCV BO/Abl. 47/2016

@@ -1,47 +1,45 @@
 ---
 canton: VS
 number: "813.200"
-title: Anwendungsreglement zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis vom 17. Dezember 2008 betreffend den Betrieb des Spitals
+title: Anwendungsreglement zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis betreffend den Betrieb des Spitals vom 17. Dezember 2008
 language: de
-version: 2016-11-02
-corrected: 2017-07-27
-version_adopted: 2016-11-02
+version: 2025-10-01
+version_adopted: 2025-09-17
 adopted: 2016-11-02
 in_force: 2016-11-02
 url: "https://lex.vs.ch/app/de/texts_of_law/813.200"
-pdf: "https://lex.vs.ch/api/de/versions/227/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3516/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Anwendungsreglement zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis vom 17. Dezember 2008 betreffend den Betrieb des Spitals
+# Anwendungsreglement zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis betreffend den Betrieb des Spitals vom 17. Dezember 2008
 
-vom 2. November 2016
+vom 02.11.2016 (Stand 01.10.2025)
 
-Der Staatsrat des Kantons Waadt
+Der Staatsrat des Kantons Waadt und Der Staatsrat des Kantons Wallis
 
-Der Staatsrat des Kantons Wallis
+eingesehen die interkantonale Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis vom 17. Dezember 2008 (nachstehend: die Vereinbarung);
 
-eingesehen die interkantonale Vereinbarung vom 17. Dezember 2008 über das Spital Riviera-Chablais Waadt-Wallis (nachstehend die Vereinbarung); eingesehen, dass das Spital Riviera-Chablais Waadt-Wallis seit dem 1. Januar 2014 sechs Standorte für Akutpflege und für Rehabilitation (le Samaritain in Vevey, Aigle, Montreux, la Providence in Vevey, Mottex in Blonay und Monthey) in den Kantonen Waadt und Wallis betreibt und dass letztlich das Spital auf drei Standorte (Standort für Akutpflege in Rennaz und zwei Antennen, die sich im Samaritain in Vevey und in Monthey befinden) in den eben genannten Kantonen betreiben wird;
+eingesehen, dass das Spital Riviera-Chablais Waadt-Wallis seit dem 1. Januar 2014 die Standorte für Akutpflege und Rehabilitation, die sich in den Kantonen Waadt beziehungsweise Wallis befinden, betreibt;
 
-eingesehen die Vormeinung des Departements für Gesundheit und Sozialwesen des Kantons Waadt und des Departements für Gesundheit, Soziales und Kultur des Kantons Wallis (nachstehend die Departemente),
+eingesehen die Vormeinung des Departements für Gesundheit und Sozialwesen des Kantons Waadt und des Departements für Gesundheit, Soziales und Kultur des Kantons Wallis (nachstehend: die Departemente),
 
 verordnen:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand, Zweck und Anwendungsbereich**
 
-Das vorliegende Reglement legt die Anwendungsbestimmungen zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis (nachstehend Spital Riviera-Chablais) vom 17. Dezember 2008 betreffend den Betrieb des Spitals fest.
+<sup>1</sup> Das vorliegende Reglement legt die Anwendungsbestimmungen zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis (nachstehend: Spital Riviera-Chablais) vom 17. Dezember 2008 betreffend den Betrieb des Spitals fest.
 
 #### Art. 2
 
 **Grundsatz**
 
-Ohne gegenteilige Bestimmungen in der Vereinbarung, in dem vorliegenden Reglement oder in einer spezifischen Gesetzgebung ist das Recht des Standortes anwendbar.
+<sup>1</sup> Ohne gegenteilige Bestimmungen in der Vereinbarung, in dem vorliegenden Reglement oder in einer spezifischen Gesetzgebung ist das Recht des Standortes anwendbar.
 
 #### Art. 3
 
@@ -49,9 +47,9 @@ Ohne gegenteilige Bestimmungen in der Vereinbarung, in dem vorliegenden Reglemen
 
 <sup>1</sup> Unter Vorbehalt der Zuständigkeiten des Staatsrates der Kantone Waadt und Wallis sind die Departemente beauftragt, das vorliegende Reglement zu vollziehen. Sie erlassen hierzu die notwendigen Richtlinien.
 
-<sup>2</sup> Die Departementsvorsteher treffen sich mindestens einmal im Jahr mit dem Spitalrat.
+<sup>2</sup> Die Departementschefs treffen sich mindestens einmal pro Jahr mit dem Anstaltsrat sowie dreimal pro Jahr mit dem Präsidenten und dem Vizepräsidenten des Anstaltsrates.
 
-### 2. Abschnitt: Bewilligungen
+## 2 Bewilligungen
 
 #### Art. 4
 
@@ -73,35 +71,55 @@ Ohne gegenteilige Bestimmungen in der Vereinbarung, in dem vorliegenden Reglemen
 
 <sup>3</sup> Der Kanton Waadt informiert regelmässig den Kanton Wallis über die ausgestellten Bewilligungen.
 
+<sup>4</sup> Die Kaderärzte mit einer Praxisbewilligung des Kantons Wallis profitieren für ihre Tätigkeit im Spital Riviera-Chablais von einem vereinfachten Bewilligungsverfahren. Die Modalitäten werden von beiden Departementen festgelegt.
+
 #### Art. 6
 
 **Andere Bewilligungen**
 
-Die anderen notwendigen Bewilligungen werden von der zuständigen Behörde des Standortes nach seiner eigenen Gesetzgebung ausgestellt.
+<sup>1</sup> Die anderen notwendigen Bewilligungen werden von der zuständigen Behörde des Standortes nach seiner eigenen Gesetzgebung ausgestellt.
 
-### 3. Abschnitt: Vertragsverhältnisse
+## 3 Vertragsverhältnisse
 
 #### Art. 7
 
 **Leistungen**
 
-<sup>1</sup> Die Listen und Leistungsaufträge KVG des Spitals werden von beiden Staatsräten nach dem entsprechenden Verfahren des jeweiligen Kantons definiert.
+<sup>1</sup> Die Spitallisten und Leistungsaufträge KVG des Spitals werden von beiden Staatsräten nach dem entsprechenden Verfahren des jeweiligen Kantons definiert.
+
+<sup>1<sup>bis</sup></sup> Die Kantone sorgen für eine koordinierte Zuteilung der Leistungen mit dem Ziel, die Kohärenz der Leistungen des Spital Riviera-Chablais zu gewährleisten.
 
 <sup>2</sup> Der Leistungsvertrag bestimmt die Ausführungsmodalitäten des Leistungsauftrages KVG. Die Departemente schliessen jährlich mit dem Spital Riviera-Chablais einen Leistungsvertrag ab.
 
-### 4. Abschnitt: Finanzierungssystem
+#### Art. 7a
+
+**Anstaltsrat**
+
+<sup>1</sup> Die Ernennung der Mitglieder des Anstaltsrates unterliegt folgenden Bedingungen:
+
+- a) die Mitglieder werden für die in ihrem jeweiligen Kanton vorgesehene Amtsdauer ernannt;
+- b) die Mitglieder dürfen nicht mehr als drei Mandate ausüben;
+- c) die Mitglieder unterliegen keiner Altersbeschränkung.
+
+<sup>2</sup> Die beiden Staatsräte legen die Vergütung der Mitglieder des Anstaltsrates fest. Die Vergütung der Ratsmitglieder besteht aus einem differenzierten fixen Anteil für den Präsidenten, den Vizepräsidenten und die übrigen Mitglieder sowie einem variablen Anteil. Die Modalitäten und Pauschalen werden von den beiden Departementen festgelegt
+
+<sup>3</sup> Die beiden Departemente legen die Modalitäten für die Ernennung der Mitglieder des Anstaltsrates, einschliesslich des Präsidenten und des Vizepräsidenten, fest.
+
+<sup>4</sup> Die kantonalen Bestimmungen über die Beziehungen zwischen den Mitgliedern eines Anstaltsrates und den kantonalen Behörden bleiben vorbehalten.
+
+## 4 Finanzierungssystem
 
 #### Art. 8
 
 **KVG-Leistungen**
 
-Die Kantone beteiligen sich an der Finanzierung der stationären KVG-Leistungen für seine Versicherten laut der obligatorischen Krankenpflegeversicherung gemäss den Modalitäten, die im Leistungsvertrag definiert sind. Die beiden Departemente erlassen gemeinsame Regeln.
+<sup>1</sup> Die Kantone beteiligen sich an der Finanzierung der stationären KVG-Leistungen für seine Versicherten laut der obligatorischen Krankenpflegeversicherung gemäss den Modalitäten, die im Leistungsvertrag definiert sind. Die beiden Departemente erlassen gemeinsame Regeln.
 
 #### Art. 9
 
 **Leistungen anderer Sozialversicherungen**
 
-Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationären Leistung seiner Versicherten laut den anderen Sozialversicherungen (UVG, MVG, IVG) gemäss den Modalitäten, die im Leistungsvertrag definiert sind. Die beiden Departemente erlassen gemeinsame Regeln.
+<sup>1</sup> Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationären Leistung seiner Versicherten laut den anderen Sozialversicherungen (UVG, MVG, IVG) gemäss den Modalitäten, die im Leistungsvertrag definiert sind. Die beiden Departemente erlassen gemeinsame Regeln.
 
 #### Art. 10
 
@@ -111,9 +129,21 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 <sup>2</sup> Die Kosten für universitäre Lehre und Forschung im Sinne von Artikel 49 Absatz 3 KVG werden durch die Kantone nach den von beiden Departementen erlassenen Modalitäten finanziert.
 
-<sup>3</sup> Die beiden Departemente bestimmen jährlich über das Budget die berücksichtigten Ausgaben für die gemeinsamen gemeinwirtschaftlichen Leistungen. Die Finanzierung wird grundsätzlich zu 75 Prozent für den Kanton Waadt und zu 25 Prozent für den Kanton Wallis aufgeteilt.
+<sup>3</sup> Die beiden Departemente bestimmen jährlich das Budget der berücksichtigen Beträge für die gemeinsamen gemeinwirtschaftlichen Leistungen. Die Finanzierung wird zwischen dem Kanton Waadt und dem Kanton Wallis gemäss den in Artikel 18 Absatz 2 der Vereinbarung festgelegten Verteilungssätzen und -modalitäten aufgeteilt.
 
-<sup>4</sup> Jedes Departement kann spezifische gemeinwirtschaftliche Leistungen verlangen und finanzieren.
+<sup>4</sup> Die beiden Departemente bestätigen jährlich die Finanzierungsmodalitäten der beiden Kantone für die gemeinwirtschaftlichen Leistungen in dem tripartiten Leistungsvertrag mit dem Spital Riviera-Chablais.
+
+#### Art. 10a
+
+**Nicht-universitäre Ausbildung**
+
+<sup>1</sup> Das Spital Riviera-Chablais stellt Praktikums- und Ausbildungsplätze für die nicht-universitären Gesundheitsberufe zur Verfügung.
+
+<sup>2</sup> Die diesbezüglichen Ziele werden gemeinsam mit den beiden Departementen bestimmt und jährlich im Leistungsvertrag festgelegt.
+
+<sup>3</sup> Die Departemente sorgen für eine Verteilung der Praktikums- und Ausbildungsplätze auf die beiden Kantone, die mit derjenigen der Gesamttätigkeit des Spitals Riviera-Chablais übereinstimmt.
+
+<sup>4</sup> Die Finanzierung erfolgt nach den jeweiligen kantonalen gesetzlichen Bestimmungen und geltenden Vereinbarungen der beiden Kantone.
 
 #### Art. 11
 
@@ -137,11 +167,11 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 **Kontrolle der Investitionen**
 
-<sup>1</sup> Das Spital Riviera-Chablais unterbreitet den beiden Staatsräten zur Genehmigung mindestens alle zwei Jahre ein Vierjahresplan seiner Investitionen. Dieser Plan muss erstmals am 31. August 2020 abgegeben werden.
+<sup>1</sup> Das Spital Riviera-Chablais unterbreitet den beiden Staatsräten einen Mehrjahresplan für seine Investitionen zur Genehmigung. Dieser Plan ist erstmals im Jahr 2023 vorzulegen. Die Departemente präzisieren die Modalitäten, insbesondere die Periodizität, sowie den finanziellen Rahmen der Investitionsobjekte, die in diesem Plan enthalten sein müssen.
 
-<sup>2</sup> Das Spital Riviera-Chablais kann Investitionen beschliessen, die nicht im Vierjahresplan genehmigt wurden, aber durch ausserordentliche Begebenheiten begründet sind. Diese Investitionen sind den beiden Staatsräten zur Genehmigung zu unterbreiten, wenn deren Betrag pro Objekt höher als zwei Millionen Franken ist.
+<sup>2</sup> …
 
-<sup>3</sup> Die Anschaffung von medizin-technischen Einrichtungen ist den im Kanton Waadt geltenden Gesetzesbestimmungen, namentlich dem Dekret vom 29. September 2015 über die Regulierung der grossen medizin-technischen Einrichtungen für dessen Geltungsdauer unterstellt. Vor der Beschlussfassung hört die zuständige Behörde des Kantons Waadt die Meinung des Gesundheitsdepartements des Kantons Wallis an.
+<sup>3</sup> Die Beschaffung von medizinisch-technischen Geräten unterliegt den gesetzlichen Bestimmungen, die je nach Standort des Geräts gelten. Bevor die zuständige Behörde ihren Entscheid trifft, holt sie die Stellungnahme des Departements des anderen Kantons ein.
 
 #### Art. 14
 
@@ -151,7 +181,7 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 <sup>2</sup> Der Anteil der Leistungsvergütung für die Investitionen, der die Anlagenutzungskosten übersteigt, wird auf einen Fonds für Investitionen auf der Passivseite der Bilanz verbucht.
 
-<sup>3</sup> Die Buchungsgrundsätze betreffend die Investitionen werden periodisch neu evaluiert und sind Gegenstand einer Richtlinie der Departemente.
+<sup>3</sup> Die Grundsätze zur Verbuchung der Investitionen werden regelmässig neu bewertet und von den beiden Departementen festgelegt.
 
 #### Art. 15
 
@@ -167,33 +197,31 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 **Genehmigung der Budgets und der Rechnung**
 
-<sup>1</sup> Das Spital Riviera-Chablais erstellt jährlich ein Betriebs- und Investitionsbudget gemäss den Modalitäten und Terminen, die im Leistungsvertrag hinsichtlich der Genehmigung durch die Staatsräte bestimmt sind.
+<sup>1</sup> Das Spital Riviera-Chablais erstellt jährlich ein Betriebs- und ein Investitionsbudget gemäss den in der Leistungsvereinbarung festgelegten Modalitäten und Zeitplänen zur Genehmigung durch die beiden Departemente.
 
 <sup>2</sup> Der Spitalrat verabschiedet die Budgets und die Rechnung. Er übermittelt die Budgets, die revidierte Rechnung, den Bericht der Revisionsstelle und den Tätigkeitsbericht gleichzeitig den Departementen der Kantone Waadt und Wallis.
 
-<sup>3</sup> Die beiden Departemente übermitteln ihrem Staatsrat die Rechnung und Budgets des Spital Riviera-Chablais zur Ratifizierung. Die Staatsräte geben dem Spitalrat die Entlastung für seine jährliche Geschäftsführung.
+<sup>3</sup> Die beiden Departemente übermitteln ihren Staatsräten die Rechnung des Spital Riviera-Chablais zur Genehmigung. Die Staatsräte erteilen dem Anstaltsrat Entlastung für seine jährliche Geschäftsführung.
 
 #### Art. 17
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Revisionsstelle wird von den beiden Staatsräten auf Vorschlag des Spitalrates des Spitals Riviera-Chablais ratifiziert.
+<sup>1</sup> Die Revisionsstelle wird auf Vorschlag des Anstaltsrates des Spital Riviera-Chablais von den beiden Staatsräten bestimmt.
 
 <sup>2</sup> Sie prüft die Rechnungslegung des Spitals Riviera-Chablais hinsichtlich seiner Genauigkeit und seiner Richtigkeit gemäss den geltenden Normen betreffend die ordentliche Revision und das vorliegende Abkommen.
 
 <sup>3</sup> Sie erstellt jährlich einen detaillierten Bericht zuhanden des Spitalrats des Spital Riviera-Chablais, der namentlich die Feststellungen betreffend die Rechnungslegung, das interne Kontrollsystem sowie die Ausführung und das Ergebnis der Kontrolle enthält.
 
-<sup>4</sup> Sie erstellt jährlich einen schriftlichen Bericht zuhanden des Spitalrates sowie der beiden Staatsräte. Darin sind die Revisionsergebnisse zusammenfasst und seine Auffassung zur Geschäftsführung des Spitals Riviera-Chablais und zur Rechnungslegung und seine Legalität in Bezug auf die geltende Gesetzgebung aufgeführt. Sie empfiehlt die Genehmigung, ohne oder mit Vorbehalt, oder die Rückweisung der Jahresrechnung.
+<sup>4</sup> Sie erstellt jährlich einen schriftlichen Bericht zuhanden des Anstaltsrates sowie der beiden Staatsräte. Darin sind die Revisionsergebnisse zusammenfasst und seine Auffassung zur Geschäftsführung des Spitals Riviera-Chablais und zur Rechnungslegung und seine Legalität in Bezug auf die geltende Gesetzgebung aufgeführt. Sie empfiehlt die Genehmigung, ohne oder mit Vorbehalt, oder die Rückweisung der Jahresrechnung.
 
 #### Art. 18
 
 **Internes Audit**
 
-<sup>1</sup> Das Spital Riviera-Chablais verfügt über eine interne Revisionsstelle, die namentlich beauftragt ist, mittels eines systematischen und methodischen Vorgehens, seine Risikomanagements-, Unternehmensführungsprozesse zu evaluieren sowie Vorschläge zu erarbeiten, um deren Wirksamkeit zu verstärken.
+<sup>1</sup> Das Spital Riviera-Chablais verfügt über eine interne Revisionsstelle, die namentlich beauftragt ist, mittels eines systematischen und methodischen Vorgehens, seine Risikomanagements-, Kontroll- und Unternehmensführungsprozesse zu evaluieren sowie Vorschläge zu erarbeiten, um deren Wirksamkeit zu verstärken.
 
-**Kontroll- und**
-
-<sup>2</sup> Das Spital Riviera-Chablais informiert regelmässig die Departemente über die Feststellungen und Vorschläge der internen Revisionsstelle.
+<sup>2</sup> Das Spital Riviera-Chablais informiert die Departemente mindestens einmal jährlich über die Feststellungen und Vorschläge der internen Auditstelle.
 
 #### Art. 19
 
@@ -203,7 +231,7 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 <sup>2</sup> Das Spital Riviera-Chablais präzisiert in einem Reglement, zu welchen Bedingungen und gemäss welchen Modalitäten Fonds gebildet und finanziert werden können.
 
-### 5. Abschnitt: Patientensicherheit und Pflegequalität
+## 5 Patientensicherheit und Pflegequalität
 
 #### Art. 20
 
@@ -223,7 +251,7 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 <sup>3</sup> Der Kanton Waadt informiert umgehend den Kanton Wallis über die Meldung eines schwerwiegenden Ereignisses oder kritischen Vorfalles und über die Folgemassnahmen.
 
-### 6. Abschnitt: Patientenrecht und Pflichten der Gesundheitsfachpersonen
+## 6 Patientenrecht und Pflichten der Gesundheitsfachpersonen
 
 #### Art. 22
 
@@ -235,7 +263,9 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 <sup>3</sup> Das Sterbehilfeverfahren ist dasjenige des Gesetzes des Standortes.
 
-### 7. Abschnitt: Aufsicht des Spitals
+<sup>4</sup> In allen Fragen, die den Datenschutz und die Transparenz betreffen, unterliegt das Spital Riviera-Chablais der entsprechenden Gesetzgebung des Geschäftssitzes, d.h. dem Kanton Waadt.
+
+## 7 Aufsicht des Spitals
 
 #### Art. 23
 
@@ -257,28 +287,18 @@ Die Kantone Waadt und Wallis beteiligen sich an der Finanzierung der stationäre
 
 <sup>3</sup> Die getroffenen Entscheide betreffend die Planungsaufsicht obliegen anhand der entsprechenden Kompetenzbereiche der gemeinsamen Zuständigkeit der beiden Departemente, sogar der beiden Staatsräte.
 
-### 8. Abschnitt: Schlussbestimmungen
+## 8 Schlussbestimmungen
 
 #### Art. 25
 
 **Aufhebung**
 
-Der Anwendungsbeschluss vom 15. September 2008 zur interkantonalen Vereinbarung vom 17. Dezember 2008 über das Spital Riviera-Chablais Waadt-Wallis wird aufgehoben.
+<sup>1</sup> Der Anwendungsbeschluss vom 15. September 2008 zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis vom 17. Dezember 2008 wird aufgehoben.
 
 #### Art. 26
 
 **Inkrafttreten**
 
-Das vorliegende Reglement tritt ab seiner Annahme durch die beiden Staatsräte in Kraft.
+<sup>1</sup> Das vorliegende Reglement tritt ab seiner Annahme durch die beiden Staatsräte in Kraft.
 
-So angenommen im Staatsrat zu Sitten, am 2. November 2016.
-
-Die Präsidentin des Staatsrates: Esther Waeber-Kalbermatten Der Staatskanzler: Philipp Spörri
-
-Dieses Reglement ist vom Staatsrat des Kantons Waadt am 2. November 2016 angenommen worden.
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Anwendungsreglement zur interkantonalen Abl. Nr. 47/2016 02.11.2016
-
-### Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis vom 17. Dezember 2008 betreffend den Betrieb des Spitals vom 2. November 2016
+CSW BO/Abl. 47/2016
