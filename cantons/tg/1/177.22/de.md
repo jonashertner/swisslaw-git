@@ -4,13 +4,12 @@ number: "177.22"
 title: Verordnung des Grossen Rates über die Besoldung des Staatspersonals
 short: Besoldungsverordnung; BesVO
 language: de
-version: 2025-01-01
-valid_until: 2025-09-30
-version_adopted: 2022-08-31
+version: 2025-10-01
+version_adopted: 2025-04-02
 adopted: 1998-11-18
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.22"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2872/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3004/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ BesVO
 
 (Besoldungsverordnung; BesVO)
 
-vom 18.11.1998 (Stand 01.01.2025)
+vom 18.11.1998 (Stand 01.10.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -416,12 +415,12 @@ vom 18.11.1998 (Stand 01.01.2025)
 <sup>1</sup> Es beziehen als Grundbesoldung in Prozenten des Maximums der obersten Besoldungsklasse:
 
 - 1\. die Präsidentin oder der Präsident des Obergerichtes — 115 %
-- 2\. die Vizepräsidentin oder der Vizepräsident des Obergerichtes — 110 %
+- 2\. die Vizepräsidentinnen und die Vizepräsidenten des Obergerichtes — 110 %
 - 3\. die übrigen Mitglieder des Obergerichtes — 105 %
 - 4\. …
 - 5\. die Präsidentin oder der Präsident des Verwaltungsgerichtes — 115 %
 - 6\. die Vizepräsidentin oder der Vizepräsident des Verwaltungsgerichtes — 110 %
-- 7\. die übrigen Mitglieder des Verwaltungsgerichtes (Anstellungsgrad 35 % bis 60 %) — 100 %
+- 7\. die übrigen Mitglieder des Verwaltungsgerichtes — 105 %
 
 ### 2.2. Zentrale Justizinstanzen, Rekurskommissionen, Bezirksgerichte, Kindes- und Erwachsenenschutzbehörden sowie Friedensrichter- und Betreibungsämter
 
