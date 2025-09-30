@@ -4,13 +4,12 @@ number: "211.611"
 title: Ordonnance cantonale sur le registre foncier
 short: OcRF
 language: fr
-version: 2021-03-01
-valid_until: 2025-09-30
-version_adopted: 2020-12-23
+version: 2025-10-01
+version_adopted: 2025-09-17
 adopted: 2014-11-05
 in_force: 2015-01-02
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.611"
-pdf: "https://lex.vs.ch/api/fr/versions/2788/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3515/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2788/pdf_file"
 
 (OcRF)
 
-du 05.11.2014 (état 01.03.2021)
+du 05.11.2014 (état 01.10.2025)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -177,11 +176,11 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Si la réquisition au registre foncier concerne plusieurs arrondissements, elle est adressée à chaque office du registre foncier concerné, munie des pièces justificatives.
 
-<sup>2</sup> La personne habilitée à dresser des actes authentiques doit déposer la minute ainsi qu'une copie certifiée conforme valant pièce justificative.
+<sup>2</sup> La personne habilitée à dresser des actes authentiques doit déposer une expédition certifiée conforme de la minute et une copie certifiée conforme de ses annexes valant pièces justificatives ainsi que tous compléments nécessaires.
 
 <sup>3</sup> Les actes sous seing privé et les décisions officielles doivent être présentés à l'office du registre foncier en original ou en copie certifiée conforme. Pour les actes sous seing privé, les signatures doivent être légalisées, à l'exception des réquisitions des banques, des assurances, des administrations et des tribunaux.
 
-<sup>4</sup> Pour les réquisitions concernant des personnes agissant par le biais d'un représentant, la justification du pouvoir de représentation ou le document relatif au rapport de représentation doit être présenté. Ces documents sont conservés avec les pièces justificatives.
+<sup>4</sup> Pour les réquisitions concernant des personnes agissant par le biais d’un officier public, la justification du pouvoir de représentation ou le document relatif au rapport de représentation ne doit pas être présenté au registre foncier.
 
 <sup>5</sup> Pour les réquisitions concernant les justificatifs relatifs au titre qui doivent être reçus en la forme authentique, les personnes habilitées à dresser des actes authentiques sont tenues d'effectuer les réquisitions.
 

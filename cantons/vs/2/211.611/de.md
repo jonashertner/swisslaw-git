@@ -4,13 +4,12 @@ number: "211.611"
 title: Kantonale Grundbuchverordnung
 short: kGBV
 language: de
-version: 2021-03-01
-valid_until: 2025-09-30
-version_adopted: 2020-12-23
+version: 2025-10-01
+version_adopted: 2025-09-17
 adopted: 2014-11-05
 in_force: 2015-01-02
 url: "https://lex.vs.ch/app/de/texts_of_law/211.611"
-pdf: "https://lex.vs.ch/api/de/versions/2788/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2788/pdf_file"
 
 (kGBV)
 
-vom 05.11.2014 (Stand 01.03.2021)
+vom 05.11.2014 (Stand 01.10.2025)
 
 Der Staatsrat des Kantons Wallis
 
@@ -177,11 +176,11 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Betrifft die Grundbuchanmeldung Grundstücke in mehreren Grundbuchkreisen, erfolgt die Anmeldung mit den Belegen in jedem betroffenen Grundbuchamt.
 
-<sup>2</sup> Als Beleg für den Rechtsgrundausweis hat die Urkundsperson die Urschrift und eine beglaubigte Abschrift einzureichen.
+<sup>2</sup> Die Urkundsperson hat eine getreue Abschrift der Urschrift und getreue Kopien der Beilagen für den Rechtsgrundausweis sowie alle notwendigen zusätzlichen Unterlagen einzureichen.
 
 <sup>3</sup> Privaturkunden und behördliche Verfügungen sind dem Grundbuchamt im Original oder in beglaubigter Abschrift vorzulegen. Bei Privaturkunden müssen die Unterschriften beglaubigt sein; ausgenommen sind Anmeldungen von Banken, Versicherungen, Behörden und Gerichten.
 
-<sup>4</sup> Bei der Anmeldung durch Vertretung ist der Nachweis der Vertretungsmacht oder ein Ausweis über das Vertretungsverhältnis der berechtigten Personen einzureichen. Diese Unterlagen werden zusammen mit den Belegen aufbewahrt.
+<sup>4</sup> Bei Anmeldungen durch die Urkundsperson muss der Nachweis der Vertretungsbefugnis oder das Dokument über das Vertretungsverhältnis dem Grundbuchamt nicht vorgelegt werden.
 
 <sup>5</sup> Bei Anmeldungen, in denen der Rechtsgrundausweis öffentlich beurkundet wird, sind die Urkundspersonen verpflichtet, die Anmeldungen vorzunehmen.
 
