@@ -10,7 +10,7 @@ version_adopted: 2025-07-29
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3794/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3795/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1075,17 +1075,22 @@ als Gesetz:[^ingress-2]
 
 **b) Schulkommission**
 
-<sup>1</sup> Die Gemeindeordnung kann:
+<sup>1</sup> Die Gemeinde kann:
 
-- a) eine Schulkommission vorsehen, die Schulrat heissen kann. Sie legt Grösse und Wahlorgan fest;
-- b) den Vorsitz in der Schulkommission einem Ratsmitglied vorbehalten.
+- a) eine Schulkommission vorsehen, die Schulrat heissen kann;
+- b) …
 
-<sup>2</sup> Der Schulkommission gehört von Amtes wegen ein Mitglied des Rates an.
+<sup>2</sup> …
 
-<sup>3</sup> Wird der Schulkommission die unmittelbare Führung der Schule übertragen:
+<sup>3</sup> Die Gemeinde kann durch allgemein verbindliches Reglement vorsehen, dass die Schulkommission in der Rechtspflege in Schulangelegenheiten oberste Verwaltungsbehörde der Gemeinde ist.
 
-- 1\. stellt sie in Schulangelegenheiten, für die Bürgerschaft oder Parlament zuständig sind, dem Rat Antrag.
-- 2\. kann die Gemeindeordnung vorsehen, dass sie in der Rechtspflege in Schulangelegenheiten oberste Verwaltungsbehörde der Gemeinde ist.
+- 1\. …
+- 2\. …
+
+<sup>4</sup> In der Gemeindeordnung kann:
+
+- a) die Wahl der Schulkommission durch die Bürgerschaft vorgesehen werden;
+- b) vorgesehen werden, dass die Schulkommission für unvorhersehbare neue Ausgaben bis zu einer bestimmten Höhe zuständig sein soll.
 
 #### Art. 95
 
