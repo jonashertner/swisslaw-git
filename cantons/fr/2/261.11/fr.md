@@ -4,13 +4,12 @@ number: "261.11"
 title: "Règlement d'exécution de la loi du 20 septembre 1967 sur le notariat"
 short: RN
 language: fr
-version: 2023-05-01
-valid_until: 2025-09-30
-version_adopted: 2023-02-28
+version: 2025-10-01
+version_adopted: 2025-09-23
 adopted: 1986-10-07
 in_force: 1986-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/261.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7746/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8479/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Notariat – R
 
 (RN)
 
-du 07.10.1986 (version entrée en vigueur le 01.05.2023)
+du 07.10.1986 (version entrée en vigueur le 01.10.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,7 +38,7 @@ Arrête:
 
 #### Art. 1
 
-**Octroi de la patente (art. 4 LN)**
+**Octroi de la patente (art. 4 LN[^1-1])**
 
 <sup>1</sup> Le candidat qui requiert l'octroi d'une patente de notaire doit produire à la Commission du notariat (ci-après: la Commission) les pièces suivantes:
 
@@ -51,19 +50,15 @@ Arrête:
 
 <sup>2</sup> Il doit en outre indiquer le lieu où il ouvrira son étude ainsi que prouver qu'il s'est assuré en responsabilité civile conformément à l'article 6 et qu'il a demandé son admission à l'Association fribourgeoise des notaires.
 
+[^1-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 1a
 
-**Société commerciale (art. 6 al. 1 let. e et 7 LN)**
-
-<sup>1</sup> Le notaire peut exploiter son étude sous forme de société commerciale, sur autorisation de la Commission.
-
-<sup>2</sup> La Commission s'assure que l'indépendance structurelle du notaire soit garantie.
-
-<sup>3</sup> La Commission règle par directives la procédure d'autorisation prévue à l'alinéa 1 et précise les exigences pour que la condition fixée à l'alinéa 2 soit remplie.
+**…**
 
 #### Art. 2
 
-**Serment (art. 8 LN)**
+**Serment (art. 8 LN[^2-1])**
 
 <sup>1</sup> La formule du serment est la suivante:
 
@@ -73,13 +68,17 @@ Arrête:
 
 «Je promets sur mon honneur et ma conscience d'être fidèle à la Constitution du canton de Fribourg, de respecter les droits et les libertés du peuple et des citoyens, d'observer avec exactitude les lois de l'Etat et de remplir fidèlement et consciencieusement les devoirs de ma charge».
 
+[^2-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 3
 
-**Bureau (art. 9 LN)**
+**Bureau (art. 9 LN[^3-1])**
 
 <sup>1</sup> En plus de son étude, le notaire ne peut avoir qu'un seul bureau secondaire, sur autorisation de la Commission.
 
 <sup>2</sup> Cette limitation vaut également en cas d'association de notaires.
+
+[^3-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
 
 #### Art. 4
 
@@ -89,13 +88,15 @@ Arrête:
 
 #### Art. 5
 
-**Sceau et signature (art. 10 LN)**
+**Sceau et signature (art. 10 LN[^5-1])**
 
 <sup>1</sup> Lors de son assermentation, le notaire dépose l'empreinte de son sceau avec sa signature auprès du Service de la justice.
 
+[^5-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 6
 
-**Assurance-responsabilité civile (art. 11 LN)**
+**Assurance-responsabilité civile (art. 11 LN[^6-1])**
 
 <sup>1</sup> Le notaire doit conclure une assurance-responsabilité civile pour un montant minimal de 5 millions de francs. La Direction de la sécurité, de la justice et du sport peut adapter ce montant à l'évolution du coût de la vie.
 
@@ -103,29 +104,38 @@ Arrête:
 
 <sup>3</sup> La couverture d'assurance doit être garantie pour la période de dix ans qui suit l'expiration de l'office du notaire concerné.
 
+[^6-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 7
 
-**Dépôts (art. 27 LN)**
+**Dépôts (art. 27 LN[^7-1])**
 
 <sup>1</sup> Le notaire a l'obligation de conserver séparément de ses propres deniers les fonds et valeurs de clients ou de tiers qui lui ont été confiés ou qui se trouvent en ses mains à un titre quelconque par le fait de son activité professionnelle.
 
 <sup>2</sup> Le notaire remet les fonds confiés à leur destinataire ou les place en banque sur un compte client, à moins qu'ils ne doivent être à disposition en vue de paiements à brève échéance.
 
-<sup>3</sup> L'intérêt du capital placé appartient au client; le notaire doit en outre l'intérêt des sommes pour le versement desquelles il est en retard (art. 27 al. 2 et 32 al. 2 LN, 400 al. 2 CO).
+<sup>3</sup> L'intérêt du capital placé appartient au client; le notaire doit en outre l'intérêt des sommes pour le versement desquelles il est en retard (art. 27 al. 2 et 32 al. 2 LN[^7-2], 400 al. 2 CO[^7-3]).
+
+[^7-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+[^7-2]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+[^7-3]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 8
 
-**Comptabilité (art. 28 LN)**
+**Comptabilité (art. 28 LN[^8-1])**
 
 <sup>1</sup> Le notaire tient une comptabilité en la forme commerciale indiquant les créances et les dettes qu'il a à l'égard de clients ou de tiers et qui résultent de son office.
 
 <sup>2</sup> Il tient également une comptabilité auxiliaire relative à ses émoluments, honoraires, débours et aux provisions versées par les clients.
 
-<sup>2<sup>bis</sup></sup> Il établit trimestriellement un document comptable permettant de constater si les fonds de clients ou de tiers qui lui sont confiés sont couverts par des liquidités destinées à en assurer le paiement immédiat. Ce document peut être vérifié par les inspecteurs, conformément à l'article 37 LN.
+<sup>2<sup>bis</sup></sup> Il établit trimestriellement un document comptable permettant de constater si les fonds de clients ou de tiers qui lui sont confiés sont couverts par des liquidités destinées à en assurer le paiement immédiat. Ce document peut être vérifié par les inspecteurs, conformément à l'article 37 LN[^8-2].
 
 <sup>3</sup> Les livres doivent être tenus constamment à jour.
 
 <sup>4</sup> Les inspecteurs peuvent donner des instructions à ce sujet.
+
+[^8-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+[^8-2]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
 
 #### Art. 9
 
@@ -139,15 +149,17 @@ Arrête:
 
 #### Art. 10
 
-**Contrôle de l'identité et de la capacité (art. 24, 49 al. 4 LN)**
+**Contrôle de l'identité et de la capacité (art. 24, 49 al. 4 LN[^10-1])**
 
 <sup>1</sup> Le notaire doit indiquer dans l'acte comment il a contrôlé l'identité des parties (par exemple: connaissance personnelle, témoignage d'un tiers connu du notaire, pièce de légitimation).
 
 <sup>2</sup> Il mentionne comment il s'est assuré de la validité et de l'étendue des pouvoirs de toute personne intervenant comme mandataire, autorisant ou à un autre titre (par exemple: acte de nomination, extrait du registre du commerce).
 
+[^10-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 11
 
-**Procurations (art. 56 LN)**
+**Procurations (art. 56 LN[^11-1])**
 
 <sup>1</sup> Le notaire ne doit accepter que des procurations qui:
 
@@ -157,13 +169,15 @@ Arrête:
 
 <sup>2</sup> Les procurations doivent rester annexées à la minute. S'il s'agit de procurations générales devant être restituées, le notaire en dresse une copie (de préférence une photocopie) légalisée et l'annexe à la minute.
 
+[^11-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 11a
 
 **…**
 
 #### Art. 12
 
-**Forme des minutes (art. 50 LN)**
+**Forme des minutes (art. 50 LN[^12-1])**
 
 <sup>1</sup> Les minutes sont écrites ou imprimées sur des feuilles volantes de format A4. Les formules imprimées des établissements de crédit sont admises. La Commission est compétente pour fixer des normes relatives à la qualité du papier.
 
@@ -173,15 +187,19 @@ Arrête:
 
 <sup>4</sup> Si, au lieu de recopier le contenu d'un extrait du registre foncier dans la minute, le notaire renvoie à un extrait annexé, il doit mentionner les articles des immeubles dans le texte de la minute, sans description détaillée, et faire signer l'extrait par les parties. Il procède de la même façon pour d'autres annexes importantes, telles que les statuts de société.
 
+[^12-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 13
 
-**Expéditions (art. 73-74 LN)**
+**Expéditions (art. 73-74 LN[^13-1])**
 
 <sup>1</sup> Les expéditions sont faites sous forme de copie manuscrite, dactylographiée en première frappe ou imprimée. Elles peuvent aussi être délivrées en double ou en photocopie.
 
 <sup>2</sup> Les expéditions sont établies sur papier de format A4. La Commission est compétente pour fixer des normes relatives à la qualité du papier.
 
 <sup>3</sup> Le notaire veille à la sauvegarde du secret professionnel lors de l'établissement des expéditions.
+
+[^13-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
 
 #### Art. 14
 
@@ -195,7 +213,7 @@ Arrête:
 
 #### Art. 15
 
-**Registres (art. 76 LN) – Enumération**
+**Registres (art. 76 LN[^15-1]) – Enumération**
 
 <sup>1</sup> Le notaire tient les registres suivants:
 
@@ -203,27 +221,32 @@ Arrête:
 - b) registre B: pour les actes concernant les dispositions pour cause de mort;
 - c) registre C: pour les titres déposés.
 
+[^15-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 16
 
-**Registres (art. 76 LN) – Contenu**
+**Registres (art. 76 LN[^16-1]) – Contenu**
 
 <sup>1</sup> Le notaire inscrit dans le registre approprié, jour par jour, sans blanc ni interligne, et par ordre de numérotation, tous les actes et titres qu'il reçoit.
 
-<sup>2</sup> Le registre B contient la mention des testaments et pactes successoraux reçus par le notaire, des testaments olographes déposés chez lui (art. 15 LACC) et des actes concernant leur ouverture ou leur retrait.
+<sup>2</sup> Le registre B contient la mention des testaments et pactes successoraux reçus par le notaire, des testaments olographes déposés chez lui (art. 15 LACC[^16-2]) et des actes concernant leur ouverture ou leur retrait.
 
 <sup>3</sup> Les registres sont munis de répertoires alphabétiques.
 
 <sup>4</sup> La Commission peut donner des instructions au sujet du contenu des registres.
 
+[^16-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+[^16-2]: RSF [210.1](https://bdlf.fr.ch/data/210.1/fr)
+
 #### Art. 17
 
-**Conservation des actes (art. 70, 76 LN)**
+**Conservation des actes (art. 70, 76 LN[^17-1])**
 
 <sup>1</sup> Les minutes et leurs annexes sont reliées ou classées selon un système agréé par la Commission.
 
 <sup>2</sup> Il en est de même pour les copies des actes délivrés en brevet.
 
-<sup>3</sup> La procuration concernant un cautionnement (art. 493 al. 6 CO) reste annexée à l'acte et une copie en est gardée avec la copie de l'acte de cautionnement.
+<sup>3</sup> La procuration concernant un cautionnement (art. 493 al. 6 CO[^17-2]) reste annexée à l'acte et une copie en est gardée avec la copie de l'acte de cautionnement.
 
 <sup>4</sup> Les copies des actes en brevet doivent être déclarées conformes à l'original par le notaire.
 
@@ -231,11 +254,16 @@ Arrête:
 
 <sup>6</sup> Les actes doivent être conservés avec soin. Les testaments et pactes successoraux non encore ouverts ou dont le disposant vit encore, les minutes pour lesquelles il n'existe pas encore d'expédition, ainsi que les titres déposés doivent être conservés à l'abri du feu et du vol.
 
+[^17-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+[^17-2]: RS [220](https://db.clex.ch/link/Bund/220/fr)
+
 #### Art. 18
 
-**Numérotation (art. 76 LN)**
+**Numérotation (art. 76 LN[^18-1])**
 
 <sup>1</sup> Les actes doivent porter l'indication du registre ainsi que le numéro sous lequel ils y figurent.
+
+[^18-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
 
 #### Art. 19
 
@@ -261,23 +289,27 @@ Arrête:
 
 #### Art. 21
 
-**Fermeture d'une étude (art. 76 LN) – Inventaire**
+**Fermeture d'une étude (art. 76 LN[^21-1]) – Inventaire**
 
 <sup>1</sup> Lorsqu'une étude doit être fermée, la Commission fait procéder par les inspecteurs à l'inventaire des actes, registres et autres pièces.
 
 <sup>2</sup> En cas de décès ou de retrait de la patente, les scellés sont apposés immédiatement par le juge de paix.
 
+[^21-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 22
 
-**Fermeture d'une étude (art. 76 LN) – Dépôt des actes**
+**Fermeture d'une étude (art. 76 LN[^22-1]) – Dépôt des actes**
 
 <sup>1</sup> Les registres, les actes et le sceau sont déposés aux Archives de l'Etat, à l'exception des testaments et des pactes successoraux non encore ouverts ou dont les disposants vivent encore, ainsi que du registre qui les concerne.
 
 <sup>2</sup> Les pièces qui ne doivent pas être déposées aux Archives sont remises à un notaire désigné par la Commission.
 
+[^22-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 23
 
-**Fermeture d'une étude (art. 76 LN) – Liquidation**
+**Fermeture d'une étude (art. 76 LN[^23-1]) – Liquidation**
 
 <sup>1</sup> Le notaire désigné prend toutes les autres mesures appropriées en vue de la liquidation de l'étude.
 
@@ -287,17 +319,23 @@ Arrête:
 
 <sup>4</sup> Le notaire désigné est compétent pour établir les expéditions ultérieures qui pourraient être demandées.
 
+[^23-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 24
 
-**Suspension d'un notaire (art. 13b et 42 LN)**
+**Suspension d'un notaire (art. 13b et 42 LN[^24-1])**
 
 <sup>1</sup> Lorsque la Commission suspend un notaire de ses fonctions, elle indique dans sa décision si et dans quelle mesure les dispositions des articles 21 à 23 ci-dessus sont applicables.
 
+[^24-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
+
 #### Art. 25
 
-**Restitution des actes (art. 14 LN)**
+**Restitution des actes (art. 14 LN[^25-1])**
 
 <sup>1</sup> Le notaire à qui une nouvelle patente a été accordée peut reprendre les pièces déposées aux Archives ou chez le notaire désigné.
+
+[^25-1]: RSF [261.1](https://bdlf.fr.ch/data/261.1/fr)
 
 ## 5 Dispositions diverses
 
