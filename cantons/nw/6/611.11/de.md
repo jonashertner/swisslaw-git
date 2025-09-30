@@ -1,25 +1,24 @@
 ---
 canton: NW
 number: "611.11"
-title: Vollzugsverordnung zum Planungs- und Baugesetz
+title: Verordnung zum Planungs- und Baugesetz
 short: "Planungs- und Bauverordnung, PBV"
 language: de
-version: 2024-10-01
-corrected: 2025-07-14
-version_adopted: 2024-08-27
+version: 2025-10-01
+version_adopted: 2025-08-19
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1300/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1541/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Planungs- und Baugesetz
+# Verordnung zum Planungs- und Baugesetz
 
 (Planungs- und Bauverordnung, PBV)[^t-1]
 
-vom 25.11.2014 (Stand 01.10.2024)
+vom 25.11.2014 (Stand 01.10.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -252,11 +251,28 @@ beschliesst:
 - 1\. Wasser möglichst ungehindert abfliessen kann; und
 - 2\. keine unerwünschte Aufstauung oder Ablenkung des Abflusses erfolgt.
 
+#### § 19a
+
+**6. Schutzwirkung von geplanten baulichen Schutzmassnahmen**
+
+<sup>1</sup> Bei Bauvorhaben in den Gefahrenzonen darf die künftige Schutzwirkung von geplanten baulichen Schutzmassnahmen berücksichtigt werden, wenn:
+
+- 1\. diese Schutzmassnahmen bewilligt und im Bau sind;
+- 2\. die angepasste Gefahrenkarte unter Berücksichtigung der künftigen Schutzwirkung verabschiedet und das Inkrafttreten auf den Zeitpunkt des Eintritts der Schutzwirkung festgelegt ist;
+- 3\. der Bezug beziehungsweise die Nutzung der Bauten und Anlagen erst nach Eintritt der Schutzwirkung erfolgt;
+- 4\. die Gefährdung von Menschen und Tieren während der Bauphase gering ist;
+- 5\. die Baugesuchstellerinnen und Baugesuchsteller eine ausreichende Gebäude- und Mobiliarversicherung für die Bauphase nachweisen können; und
+- 6\. die Zustimmung der Fachkommission Naturgefahren vorliegt.
+
+<sup>2</sup> Mit dem Bau darf unter Vorbehalt abweichender Anordnungen in der Baubewilligung vor Eintritt der Schutzwirkung begonnen werden.
+
+<sup>3</sup> Die Gemeinden und der Kanton können für Schäden infolge Verzögerungen oder notwendiger Anpassungen bei der Realisierung der baulichen Schutzmassnahmen oder eines Naturereignisses vor Eintritt der Schutzwirkung nicht haftbar gemacht werden. Die Baugesuchstellerinnen und Baugesuchsteller tragen für ihr Bauprojekt die entsprechenden Risiken, wie Mehrkosten für erforderliche Projektanpassungen, Verzögerungen oder finanzielle Schäden Dritter.
+
 #### § 20
 
 **Gefahrenzone 1**
 
-<sup>1</sup> In der Gefahrenzone 1 ist die Errichtung neuer Bauten und Anlagen verboten.
+<sup>1</sup> In der Gefahrenzone 1 ist die Errichtung neuer Bauten und Anlagen verboten. Vorbehalten bleibt § 19a.
 
 <sup>2</sup> Die massvolle Erweiterung, die teilweise Änderung sowie der Wiederaufbau von Bauten und Anlagen kann bewilligt werden, wenn:
 
@@ -960,7 +976,7 @@ beschliesst:
 
 <sup>2</sup> Abgrabungen, Hauszugänge und Garagenzufahrten (Art. 3 Abs. 3 i.V.m. Art. 102 Abs. 3 PBG; § 32 PBV):
 
-<sup>3</sup> Giebeldach (Art. 103 PBG; § 32 PBV):
+<sup>3</sup> Giebeldach (Art. 103 PBG; § 33 PBV):
 
 <sup>4</sup> Überbauungsziffer (Art. 104 Abs. 1 Ziff. 2 und 104a PBG):
 
