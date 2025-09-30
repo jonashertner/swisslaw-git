@@ -4,13 +4,12 @@ number: "814.0"
 title: Gesetz über die Einführung der Bundesgesetze über den Umweltschutz und über den Schutz der Gewässer
 short: Umwelt- und Gewässerschutzgesetz; UGsG
 language: de
-version: 2023-06-01
-valid_until: 2025-09-30
-version_adopted: 2022-10-31
+version: 2025-10-01
+version_adopted: 2025-06-16
 adopted: 2004-02-16
 in_force: 2005-10-01
 url: "https://ar.clex.ch/app/de/texts_of_law/814.0"
-pdf: "https://ar.clex.ch/api/de/versions/1589/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1589/pdf_file"
 
 (Umwelt- und Gewässerschutzgesetz; UGsG)
 
-vom 16.02.2004 (Stand 01.06.2023)
+vom 16.02.2004 (Stand 01.10.2025)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -694,21 +693,7 @@ beschliesst:
 
 #### Art. 63
 
-**Eingriffe in Fliessgewässer**
-
-<sup>1</sup> Das Tiefbauamt vollzieht die Bestimmungen des Bundesgesetzes über den Schutz der Gewässer betreffend:
-
-- a) Die Verbauung, die Korrektion, das Überdecken und das Eindolen von Fliessgewässern;[^63-1]
-- b) das Spülen und Entleeren von Stauräumen sowie die Rückgabe von Treibgut ins Gewässer;[^63-2]
-- c) das Ausbeuten von Kies, Sand und anderem Material in Fliessgewässern;[^63-3]
-- d) die Sicherung angemessener Restwassermengen;[^63-4]
-- e) die Entnahme und Einleitung von Wasser oder Abwasser.[^63-5]
-
-[^63-1]: Art. 37 f. GSchG
-[^63-2]: Art. 40 f. GSchG
-[^63-3]: Art. 44 GSchG
-[^63-4]: Art. 29 ff. GSchG
-[^63-5]: Art. 42 GSchG
+**…**
 
 ### II. Finanzierung
 
