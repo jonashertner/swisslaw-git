@@ -4,11 +4,11 @@ title: Ordinanza del 27 febbraio 1991 sulla protezione contro gli incidenti rile
 short: OPIR
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: it
-version: 2024-07-01
+version: 2025-10-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20251001/it/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20251001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240701/it"
 
 (OPIR)
 
-del 27 febbraio 1991 (Stato 1° luglio 2024)
+del 27 febbraio 1991 (Stato 1° ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 10 capoverso 4 e 39 capoverso 1 della legge del 7 ottobre 198
 
 ordina:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -68,23 +68,23 @@ L’autorità esecutiva può, in singoli casi, sottoporre alla presente ordinanz
 
 <sup>5</sup> Alle aziende o alle vie di comunicazione che, in caso di eventi straordinari, potrebbero danneggiare gravemente la popolazione o l’ambiente in altro modo che con le loro sostanze, i loro preparati, i rifiuti speciali nonché le merci pericolose o gli organismi geneticamente modificati, patogeni o alloctoni soggetti a impiego confinato, sono applicabili direttamente le prescrizioni dell’articolo 10 LPAmb.[^1-17]
 
-[^1-1]: Nuovo testo giusta il n. II 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^1-4]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-5]: [[RU 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [RU 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)art. 7]. Ora: ai sensi dell’O del 18 dic. 1991 ([RS 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)).
-[^1-6]: [[RU 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620), [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482), [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006)art. 36 n. 3, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 n. II 11 [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)n. II, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 18 e art. 6, **1999** 751 n. II, **2002** 419 1183. [RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 1]. Vedi ora l’O del 29 nov. 2002 ([RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
-[^1-7]: [RU **1971** 1965, [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Vedi ora: l’O del 2 mar. 2010 ([RS 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)).
-[^1-8]: Introdotta dal n. I dell’O del 13 feb. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Nuovo testo giusta l’all. n. 2 dell’O del 26 giu. 2019 sugli impianti di trasporto in condotta, in vigore dal 1° ago. 2019 ([RU 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
-[^1-9]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
-[^1-10]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-11]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^1-12]: Nuovo testo giusta il n. II 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
-[^1-13]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-14]: Introdotta dal n. I dell’O del 13 feb. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Nuovo testo giusta l’all. n. 2 dell’O del 26 giu. 2019 sugli impianti di trasporto in condotta, in vigore dal 1° ago. 2019 ([RU 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
+[^1-1]: Nuovo testo giusta la cifra II n. 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^1-3]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^1-5]: [[RU 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [RU 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)art. 7]. Ora: ai sensi dell’O del 18 dic. 1991 ([RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)).
+[^1-6]: [[RU 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620), [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482), [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006)art. 36 n. 3, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 11 [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)cifra II, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 18 e art. 6, **1999** 751 cifra II, **2002** 419 1183. [RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 1]. Vedi ora l’O del 29 nov. 2002 ([RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)).
+[^1-7]: [RU **1971** 1965, [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Vedi ora: l’O del 2 mar. 2010 ([RS 747.224.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8993)).
+[^1-8]: Introdotta dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Nuovo testo giusta l’all. n. 2 dell’O del 26 giu. 2019 sugli impianti di trasporto in condotta, in vigore dal 1° ago. 2019 ([RU 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
+[^1-9]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
+[^1-10]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^1-11]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^1-12]: Nuovo testo giusta la cifra II n. 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^1-13]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^1-14]: Introdotta dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Nuovo testo giusta l’all. n. 2 dell’O del 26 giu. 2019 sugli impianti di trasporto in condotta, in vigore dal 1° ago. 2019 ([RU 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
 [^1-15]: Nuovo testo giusta il n. 2 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato, in vigore dal 1° nov. 1999 ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)).
-[^1-16]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^1-17]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^1-16]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^1-17]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 2
 
@@ -106,10 +106,10 @@ Per incidente rilevante si intende un evento straordinario in un’azienda, su u
 
 <sup>5</sup> Il rischio è determinato dall’entità dei danni che un incidente rilevante può provocare alla popolazione o all’ambiente e dalla probabilità che tale incidente capiti.
 
-[^2-1]: Abrogato dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^2-4]: Introdotta dal n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^2-1]: Abrogato dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^2-4]: Introdotta dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 ## Sezione 2: Principi per la prevenzione
 
@@ -123,15 +123,15 @@ Per incidente rilevante si intende un evento straordinario in un’azienda, su u
 
 <sup>3</sup> Nella messa in opera delle misure occorre procedere secondo le indicazioni dell’allegato 2.1 e tener conto in particolare delle misure previste negli allegati 2.2–2.5.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Abrogato dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^4-1]: Abrogato dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 5
 
@@ -170,12 +170,12 @@ Il detentore di un impianto di trasporto in condotta deve inviare all’autorit�
 
 <sup>5</sup> L’autorità esecutiva esonera il detentore di una strada di grande transito dall’obbligo di inoltrare il breve rapporto se, in base ai dati in suo possesso, anche senza il breve rapporto può ritenere ammissibile l’ipotesi che la probabilità di incidenti rilevanti con gravi danni sia sufficientemente piccola.[^5-6]
 
-[^5-1]: Nuovo testo giusta il n. II 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^5-1]: Nuovo testo giusta la cifra II n. 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^5-2]: Nuovo testo giusta il n. 7 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^5-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^5-4]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^5-5]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Abrogato dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^5-6]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^5-3]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^5-4]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^5-5]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Abrogato dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^5-6]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 6
 
@@ -203,10 +203,10 @@ Essa valuta, se necessario dopo un sopralluogo, se sia ammissibile l’ipotesi c
 
 <sup>4</sup> Se l’ipotesi di cui al capoverso 3 non è ammissibile, essa ordina al detentore di eseguire e inoltrarle un’analisi dei rischi conformemente all’allegato 4.[^6-4]
 
-[^6-1]: Introdotta dal n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^6-2]: Introdotta dal n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^6-3]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^6-4]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^6-1]: Introdotta dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^6-2]: Introdotta dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^6-3]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 7
 
@@ -221,8 +221,8 @@ Nella valutazione della sopportabilità del rischio essa tiene conto anche dei r
 - a.[^7-2] la necessità di proteggere la popolazione o l’ambiente da gravi danni in seguito a incidente rilevante rispetto all’interesse pubblico o privato per un’azienda, una via di comunicazione o un impianto di trasporto in condotta;
 - b. l’entità degli eventuali danni alla popolazione o all’ambiente.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 #### Art. 8
 
@@ -250,7 +250,7 @@ Qualora le circostanze subiscano un mutamento sostanziale o emergano nuove conos
   - 1\. si possono ormai escludere gravi danni alla popolazione o all’ambiente in seguito a incidenti rilevanti,
   - 2\. per le vie di comunicazione e gli impianti di trasporto in condotta, la probabilità di incidenti rilevanti con gravi danni è sufficientemente piccola.
 
-[^8a-1]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 8b
 
@@ -260,13 +260,13 @@ Qualora le circostanze subiscano un mutamento sostanziale o emergano nuove conos
 
 <sup>2</sup> L’autorità esecutiva stabilisce la frequenza dei controlli in funzione del potenziale di pericoli, del genere e della complessità dell’azienda, della via di comunicazione o dell’impianto di trasporto in condotta nonché dei risultati di controlli precedenti.
 
-[^8b-1]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^8b-1]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 9 e 10
 
 [^910-1]
 
-[^910-1]: Abrogati dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^910-1]: Abrogati dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 ## Sezione 3: Comportamento in caso di incidente rilevante
 
@@ -297,7 +297,7 @@ Entro tre mesi dall’incidente deve inviare all’autorità esecutiva un rappor
 [^sec3a-1][^sec3a-2]
 
 [^sec3a-1]: Originaria Sez. 4.
-[^sec3a-2]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^sec3a-2]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 
 #### Art. 11a
 
@@ -309,9 +309,9 @@ Entro tre mesi dall’incidente deve inviare all’autorità esecutiva un rappor
 
 <sup>3</sup> Prima di decidere in merito alla modifica di un piano direttore o di utilizzazione nel settore di cui al capoverso 2, l’autorità competente chiede il parere dell’autorità esecutiva allo scopo di valutare il rischio.
 
-[^11a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
-[^11a-2]: Abrogata dal n. I dell’O del 21 set. 2018, con effetto dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
-[^11a-3]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^11a-2]: Abrogata dalla cifra I dell’O del 21 set. 2018, con effetto dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^11a-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 
 ## Sezione 4: Compiti dei Cantoni
 
@@ -327,7 +327,7 @@ Entro tre mesi dall’incidente deve inviare all’autorità esecutiva un rappor
 
 <sup>2</sup> I Cantoni provvedono inoltre affinché venga designata una centrale che trasmetta immediatamente l’annuncio dell’incidente rilevante al posto d’allarme della CENAL (PA) presso la Centrale nazionale d’allarme (CENAL).[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 #### Art. 13
 
@@ -344,7 +344,7 @@ I Cantoni informano il pubblico su:
 
 <sup>3</sup> Inoltre essi provvedono affinché Cantoni e Stati limitrofi vengano informati tempestivamente e, se del caso, allarmati qualora l’incidente rilevante possa avere effetti seri sul territorio di questi ultimi.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 14
 
@@ -358,7 +358,7 @@ I Cantoni coordinano l’organizzazione di catastrofe con il piano d’intervent
 
 Nella misura del possibile, i Cantoni coordinano i controlli che sono chiamati a effettuare nelle aziende e sulle vie di comunicazione in virtù della presente ordinanza e di altri atti normativi.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 16
 
@@ -370,8 +370,8 @@ Nella misura del possibile, i Cantoni coordinano i controlli che sono chiamati a
 
 <sup>3</sup> Restano salvi gli obblighi legali di tutela del segreto.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 ## Sezione 5: Compiti della Confederazione
 
@@ -385,13 +385,13 @@ Nella misura del possibile, i Cantoni coordinano i controlli che sono chiamati a
 
 <sup>3</sup> Restano salvi gli obblighi legali di tutela del segreto.
 
-[^17-1]: Nuova espr. giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Di detta mod. é tenuto conto in tutto il presente testo. La mod. giusta l’all. 2 n. II 17 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)), concerne soltanto il testo tedesco ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^17-1]: Nuova espr. giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Di detta mod. é tenuto conto in tutto il presente testo. La mod. giusta l’all. 2 cifra II n. 17 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)), concerne soltanto il testo tedesco ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 18 e 19
 
 [^1819-1]
 
-[^1819-1]: Abrogati dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^1819-1]: Abrogati dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 20
 
@@ -406,13 +406,13 @@ I competenti uffici della Confederazione informano il pubblico su:
 
 <sup>2</sup> In caso di incidenti rilevanti che possano avere effetti seri oltre frontiera, i competenti uffici della Confederazione informano le rappresentanze svizzere all’estero e le autorità estere interessate.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 21
 
 [^21-1]
 
-[^21-1]: Abrogato dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^21-1]: Abrogato dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 22
 
@@ -432,8 +432,8 @@ Se necessario, l’UFAM pubblica direttive per commentare le disposizioni princi
 
 <sup>3</sup> L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^23-2] sulla geoinformazione.[^23-3]
 
-[^23-1]: Nuovo testo giusta il n. II 8 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^23-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^23-1]: Nuovo testo giusta la cifra II n. 8 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^23-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 [^23-3]: Introdotto dal n. 5 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 23a
@@ -444,7 +444,7 @@ Se necessario, l’UFAM pubblica direttive per commentare le disposizioni princi
 
 <sup>2</sup> Il DATEC, d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca e il Dipartimento federale dell’interno e previa consultazione della CFSB, adegua l’elenco dell’allegato 1.4 se acquisisce nuove conoscenze sulle proprietà di determinati organismi.
 
-[^23a-1]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 24
 
@@ -458,7 +458,7 @@ Se necessario, l’UFAM pubblica direttive per commentare le disposizioni princi
 
 [^25-1]
 
-[^25-1]: Abrogato dal n. I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^25-1]: Abrogato dalla cifra I dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 25a
 
@@ -468,7 +468,7 @@ Se necessario, l’UFAM pubblica direttive per commentare le disposizioni princi
 
 <sup>2</sup> Se dispone già delle relative indicazioni, l’autorità esecutiva lo esonera dall’obbligo di fornire informazioni secondo il capoverso 1.
 
-[^25a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^25a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 #### Art. 25b
 
@@ -476,7 +476,7 @@ Se necessario, l’UFAM pubblica direttive per commentare le disposizioni princi
 
 I detentori di aziende che rientrano nel campo d’applicazione della presente ordinanza in seguito alla modifica del 29 aprile 2015 devono inoltrare il breve rapporto all’autorità esecutiva entro tre anni dall’entrata in vigore della modifica dell’ordinanza.
 
-[^25b-1]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^25b-1]: Introdotto dalla cifra I dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 #### Art. 26
 
@@ -494,7 +494,7 @@ Allegato 1.1[^t-1]
 
 ## Quantitativi soglia per sostanze, preparati o rifiuti speciali
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Aggiornato dal n. II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)),e dal n. I dell’O del DATEC del 22 mag. 2024, in vigore dal 1° lug. 2014 ([RU 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Aggiornato dalla cifra II cpv. 1 dell’O del 21 set. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)), dalle cifre I delle O del DATEC del 22 mag. 2024 ([RU 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)) e del 1° set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555)).
 
 ### 1 …
 
@@ -519,7 +519,7 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 - c. pericoli per l’ambiente;
 - d. altri pericoli.
 
-[^annex11-lvlu1-lvl2-lvl22-1]: [RS 814.610.1](https://fedlex.data.admin.ch/eli/cc/2005/714)
+[^annex11-lvlu1-lvl2-lvl22-1]: [RS 814.610.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9576)
 
 ### 3 Sostanze e preparati per i quali è stato fissato il quantitativo soglia
 
@@ -543,14 +543,15 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 <tr><td>16</td><td>Acido esametilfosforico triammide<sup>3</sup></td><td>680‑31‑9</td><td>500</td></tr>
 <tr><td>17</td><td>Idrazina<sup>3</sup></td><td>302‑01‑2</td><td>500</td></tr>
 <tr><td>18</td><td>Cherosene</td><td></td><td>200 000</td></tr>
-<tr><td>19</td><td>Metilisocianato</td><td>624‑83‑9</td><td>150</td></tr>
-<tr><td>20</td><td>2-naftilammina e i suoi sali<sup>3</sup></td><td></td><td>500</td></tr>
-<tr><td>21</td><td>Composti di nichel in polvere per inalazione</td><td></td><td>1000</td></tr>
-<tr><td>22</td><td>4-nitrodifenile<sup>3</sup></td><td>92‑93‑3</td><td>500</td></tr>
-<tr><td>23</td><td>1,3-propansultone<sup>3</sup></td><td>1120‑71‑4</td><td>500</td></tr>
-<tr><td>24</td><td>Dicloruro di zolfo</td><td>10545‑99‑0</td><td>1000</td></tr>
-<tr><td>25</td><td>Idrogeno</td><td>1333‑74‑0</td><td>5000</td></tr>
-<tr><td>26</td><td>Acido nitrico da ≥10 % fino a &lt;65 %</td><td>7697‑37‑2</td><td>20 000</td></tr>
+<tr><td>19</td><td>Metanolo</td><td>67-56-1</td><td>20 000</td></tr>
+<tr><td>20</td><td>Metilisocianato</td><td>624-83-9</td><td>150</td></tr>
+<tr><td>21</td><td>2-naftilammina e i suoi sali<sup>3</sup></td><td></td><td>500</td></tr>
+<tr><td>22</td><td>Composti di nichel in polvere per inalazione</td><td></td><td>1 000</td></tr>
+<tr><td>23</td><td>4-nitrodifenile<sup>3</sup></td><td>92-93-3</td><td>500</td></tr>
+<tr><td>24</td><td>1,3-propansultone<sup>3</sup></td><td>1120-71-4</td><td>500</td></tr>
+<tr><td>25</td><td>Dicloruro di zolfo</td><td>10545-99-0</td><td>1 000</td></tr>
+<tr><td>26</td><td>Idrogeno</td><td>1333-74-0</td><td>5 000</td></tr>
+<tr><td>27</td><td>Acido nitrico da ≥10 % fino a &lt;65 %</td><td>7697-37-2</td><td>20 000</td></tr>
 <tr><td colspan="4"><sup>1</sup> Numero d’identificazione di una sostanza secondo il *Chemical Abstract System* <sup>2</sup> QS (kg) = quantitativo soglia in kg <sup>3</sup> Cancerogeni o preparati contenenti questi cancerogeni in concentrazioni superiori al 5 % in peso <sup>4</sup> Carburanti a base di etanolo con vari tenori di etanolo nella benzina</td></tr>
 </table>
 
@@ -613,7 +614,7 @@ Allegato 1.2a[^t-3]
 
 ## Campo d’applicazione per gli impianti ferroviari
 
-[^t-3]: Introdotto dal n. II cpv. 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Nuovo testo giusta il n. I dell’O del DATEC del 22 mag. 2024, in vigore dal 1° lug. 2014 ([RU 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-3]: Introdotto dalla cifra II cpv. 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Nuovo testo giusta la cifra I dell’O del DATEC del 22 mag. 2024 ([RU 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)). Aggiornato dalla cifra I dell’O del DATEC del 1° set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555)).
 
 ### 1 Tratte
 
@@ -725,7 +726,7 @@ Sono sottoposte all’ordinanza sulla protezione contro gli incidenti rilevanti 
 <tr><td>751</td><td>HUER</td><td>WNO</td><td>ZH Langstr. – Wallisellen – Winterthur</td></tr>
 <tr><td>752</td><td>ZOEN</td><td>HUER</td><td>Zürich Oerlikon Nord – Hürlistein (Abzw)</td></tr>
 <tr><td>757</td><td>KL</td><td>DORF</td><td>Kloten – Dorfnest (Überwerfung)</td></tr>
-<tr><td>760</td><td>ZHDB</td><td>BUE</td><td>Zürich Hardbrücke – Bülach</td></tr>
+<tr><td>760</td><td>HRD</td><td>BUE</td><td>Zürich Hardbrücke – Bülach</td></tr>
 <tr><td>762</td><td>NH</td><td>SH</td><td>Winterthur Nord – Schaffhausen RB Ost</td></tr>
 <tr><td>763</td><td>BAD</td><td>GRLX</td><td>Basel Bad Bhf – Waldshut – Schaffhausen</td></tr>
 <tr><td>764</td><td>SH</td><td>EULG</td><td>Schaffhausen – Singen – Konstanz</td></tr>
@@ -740,7 +741,7 @@ Sono sottoposte all’ordinanza sulla protezione contro gli incidenti rilevanti 
 <tr><td>900</td><td>SASO</td><td>CHW</td><td>Sargans Ost – Chur West (Gleisende)</td></tr>
 </table>
 
-[^annex12a-lvlu1-lvl1-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^annex12a-lvlu1-lvl1-1]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### 2 Impianti del traffico merci
 
@@ -758,7 +759,7 @@ Allegato 1.3[^t-4]
 
 ## Criteri per gli impianti di trasporto in condotta
 
-[^t-4]: Introdotto dal n. II dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^t-4]: Introdotto dalla cifra II dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 <sup>1</sup> Gli impianti di trasporto in condotta di combustibili e carburanti gassosi rientrano nel campo d’applicazione della presente ordinanza se soddisfano i seguenti criteri:
 
@@ -773,7 +774,7 @@ Allegato 1.4[^t-5]
 
 ## Elenco degli organismi che in virtù delle loro proprietà non possono propagarsi in modo incontrollabile tra la popolazione o nell’ambiente
 
-[^t-5]: Introdotto dal n. II cpv. 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Nuovo testo giusta il n. II cpv. 2 giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
+[^t-5]: Introdotto dalla cifra II cpv. 1 dell’O del 29 apr. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Nuovo testo giusta la cifra II cpv. 2 giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)).
 
 <table>
 <tr><th>Deutscher Name</th><th>Nom français</th><th>Nome italiano</th><th>English name</th><th>Osservazioni</th></tr>
@@ -798,7 +799,7 @@ Allegato 2[^t-6]
 
 ## Principi per prendere le misure generali di sicurezza
 
-[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 Allegato 2.1
 
@@ -885,9 +886,7 @@ Nell’adottare le misure di sicurezza, i detentori di impianti di trasporto in 
 
 Allegato 3[^t-7]
 
-## ...
-
-[^t-7]: Abrogato dal n. II cpv. 3 dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^t-7]: Abrogato dalla cifra II cpv. 3 dell’O del 29 apr. 2015, con effetto dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 Allegato 4
 
@@ -899,7 +898,7 @@ Allegato 4.1[^t-8]
 
 ## Aziende con sostanze, preparati o rifiuti speciali
 
-[^t-8]: Aggiornato dal n. II 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
+[^t-8]: Aggiornato dalla cifra II n. 8 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 
 ### 1 Principi
 
@@ -989,7 +988,7 @@ Allegato 4.2[^t-9]
 
 ## Aziende con organismi
 
-[^t-9]: Aggiornato giusta il n. 2 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), dal n. 7 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)) e dal n. II cpv. 2 dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^t-9]: Aggiornato giusta il n. 2 dell’all. 5 dell’O del 25 ago. 1999 sull’impiego confinato ([RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443)), dal n. 7 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)) e dalla cifra II cpv. 2 dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 
 ### 1 Principi
 
@@ -1005,21 +1004,21 @@ Allegato 4.2[^t-9]
 
 ### 21 Azienda e adiacenze
 
-- – Determinazione e valutazione del rischio secondo gli articoli 6 e 7 dell’ordinanza del 9 maggio 2012[^annex43-lvlu1-lvl2-lvl21-1] sull’impiego confinato, segnatamente identità e proprietà dei microrganismi, nonché tipo e portata dell’attività
+- – Determinazione e valutazione del rischio secondo gli articoli 6 e 7 dell’ordinanza del 9 maggio 2012[^annex42-lvlu1-lvl2-lvl21-1] sull’impiego confinato, segnatamente identità e proprietà dei microrganismi, nonché tipo e portata dell’attività
 - – Descrizione dell’azienda
 - – Nome e cognome delle persone responsabili
 - – Informazioni sulle adiacenze con piano della situazione
 
-[^annex43-lvlu1-lvl2-lvl21-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^annex42-lvlu1-lvl2-lvl21-1]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 ### 22 Attività con organismi
 
-- – Analisi e valutazione dei rischi secondo gli articoli 6 e 7 dell’ordinanza del 9 maggio 2012[^annex43-lvlu1-lvl2-lvl22-1] sull’impiego confinato, segnatamente identità e proprietà degli organismi, nonché tipo e portata dell’attività
+- – Analisi e valutazione dei rischi secondo gli articoli 6 e 7 dell’ordinanza del 9 maggio 2012[^annex42-lvlu1-lvl2-lvl22-1] sull’impiego confinato, segnatamente identità e proprietà degli organismi, nonché tipo e portata dell’attività
 - – Scopo dell’impiego in sistema chiuso
 - – Volumi di coltura
 - \* Natura del prodotto desiderato nonché dei sottoprodotti che si sviluppano o possono svilupparsi durante l’attività
 
-[^annex43-lvlu1-lvl2-lvl22-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^annex42-lvlu1-lvl2-lvl22-1]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 ### 23 Impianti
 
@@ -1141,7 +1140,7 @@ Allegato 4.4[^t-10]
 
 ## Impianti di trasporto in condotta
 
-[^t-10]: Introdotto dal n. II dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
+[^t-10]: Introdotto dalla cifra II dell’O del 13 feb. 2013, in vigore dal 1° apr. 2013 ([RU 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 ### 1 Principi
 

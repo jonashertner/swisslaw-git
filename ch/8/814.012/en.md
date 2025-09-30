@@ -4,11 +4,11 @@ title: "Ordinance of 27 February 1991 on Protection against Major Accidents (Maj
 short: MAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: en
-version: 2024-07-01
+version: 2025-10-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240701/en/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20251001/en/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20251001-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20251001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Major Accidents Ordinance, MAO)
 
-of 27 February 1991 (Status as of 1 July 2024)
+of 27 February 1991 (Last amended on 1 October 2025)
 
 The Swiss Federal Council,
 
@@ -27,8 +27,8 @@ on the basis of Articles 10 paragraph 4 and 39 paragraph 1 of the Federal Act of
 
 ordains:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^ingress-3]: Amended by No I of the O of 13 Feb. 2013, in force since 1 April 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 ## Section 1 General Provisions
@@ -72,13 +72,13 @@ In individual cases, the enforcement authority may make the following establishm
 
 [^1-1]: Amended by No II 8 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act, in force since 1 Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^1-2]: Amended by No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^1-3]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^1-4]: Amended by No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-5]: [[AS 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [AS 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)Art. 7]. Now: Transit Roads Ordinance of 18 Dec. 1991 ([SR 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)).
-[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620); [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482); [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 11, [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866);[1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)No II; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 No 18 and Art. 6; **1999** 751 No II; **2002** 419, 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 para. 1]. Now: the O of 29 Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
-[^1-7]: [[AS 1971 1957](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Now: O of 2 March 2010 ([SR 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)).
+[^1-5]: [[AS 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [AS 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)Art. 7]. Now: Transit Roads Ordinance of 18 Dec. 1991 ([SR 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)).
+[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620); [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482); [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 11, [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866);[1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)No II; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 No 18 and Art. 6; **1999** 751 No II; **2002** 419, 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 para. 1]. Now: the O of 29 Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)).
+[^1-7]: [[AS 1971 1957](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Now: O of 2 March 2010 ([SR 747.224.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8993)).
 [^1-8]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Amended by Annex No 2 of the Pipelines Ordinance of 26 June 2019, in force since 1 Aug. 2019 ([AS 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
-[^1-9]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^1-9]: [SR 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^1-10]: Inserted by No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^1-11]: Amended by No I of the O of 13 Feb. 2013, in force since 1 April 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 [^1-12]: Amended by No II 8 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act, in force since 1 Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
@@ -174,7 +174,7 @@ The person responsible for a pipeline installation shall submit a summary report
 
 [^5-1]: Amended by No II 8 of the O of 18 May 2005 on the Repeal and Amendment of Ordinances in connection with the Commencement of the Chemicals Act, in force since 1 Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^5-2]: Amended by Annex 5 No 7 of the Containment O of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^5-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^5-3]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^5-4]: Amended by No I of the O of 13 Feb. 2013, in force since 1 April 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 [^5-5]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Repealed by No I of the O of 29 April 2015, with effect from 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^5-6]: Inserted by No I of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
@@ -435,7 +435,7 @@ The FOEN shall, as required, publish guidelines which explain the essential prov
 <sup>3</sup> The FOEN shall specify the minimal geodata models and presentation models for official geodata in accordance with this Ordinance for which it is designated as the competent federal authority in Annex 1 of the Ordinance of 21 May 2008[^23-2] on Geoinformation.[^23-3]
 
 [^23-1]: Amended by No II 8 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, with effect from 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^23-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^23-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 [^23-3]: Inserted by Annex 2 No 5 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 23a
@@ -496,7 +496,7 @@ Annex 1.1[^t-1]
 
 ## Threshold quantities for substances, preparations or special wastes
 
-[^t-1]: Amended by No II para. 2 of the O of 29 April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Revised by No II para. 1 of the O of 21 Sept. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)) and No I of the DETEC O of 22 May 2024, in force since 1 July 2024 ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-1]: Amended by No II para. 2 of the O of 29 April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Revised by No II para. 1 of the O of 21 Sept. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)), No I of the DETEC O of 22 May 2024, ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)) and of 1 Sept. 2025, in force since 1 Oct. 2025 ([AS 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555)).
 
 ### 1 …
 
@@ -521,16 +521,16 @@ The Federal Department of the Environment, Transport, Energy and Communications 
 - c. environmental risks;
 - d. other risks.
 
-[^annex11-lvlu1-lvl2-lvl22-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex11-lvlu1-lvl2-lvl22-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 3 Substances and preparations with specified threshold quantities
 
 <table>
 <tr><th>No</th><th>Substance name</th><th>CAS No<sup>1</sup></th><th>TQ (kg)<sup>2</sup></th></tr>
-<tr><td>1</td><td>Acetylene</td><td>74-86-2</td><td>5000</td></tr>
+<tr><td>1</td><td>Acetylene</td><td>74-86-2</td><td>5 000</td></tr>
 <tr><td>2</td><td>4-Aminodiphenyl and its salts <sup>3</sup></td><td></td><td>500</td></tr>
-<tr><td>3</td><td>Arsenic(III) oxide, arsenic(III) acid and their salts</td><td>1327-53-3</td><td>100</td></tr>
-<tr><td>4</td><td>Arsenic(V) oxide, arsenic(V) acid and/or their salts</td><td>1303-28-2</td><td>1000</td></tr>
+<tr><td>3</td><td>Arsenic( III ) oxide, arsenic( III ) acid and their salts</td><td>1327-53-3</td><td>100</td></tr>
+<tr><td>4</td><td>Arsenic(V) oxide, arsenic(V) acid and/or their salts</td><td>1303-28-2</td><td>1 000</td></tr>
 <tr><td>5</td><td>Benzidine and its salts <sup>3</sup></td><td></td><td>500</td></tr>
 <tr><td>6</td><td>Gasoline (regular, super)</td><td></td><td>200 000</td></tr>
 <tr><td>7</td><td>Chlorine</td><td>7782-50-5</td><td>200</td></tr>
@@ -545,14 +545,15 @@ The Federal Department of the Environment, Transport, Energy and Communications 
 <tr><td>16</td><td>Hexamethylphosphoric triamide <sup>3</sup></td><td>680-31-9</td><td>500</td></tr>
 <tr><td>17</td><td>Hydrazine<sup>3</sup></td><td>302-01-2</td><td>500</td></tr>
 <tr><td>18</td><td>Kerosene</td><td></td><td>200 000</td></tr>
-<tr><td>19</td><td>Methyl isocyanate</td><td>624-83-9</td><td>150</td></tr>
-<tr><td>20</td><td>2-Naphthylamine and its salts <sup>3</sup></td><td></td><td>500</td></tr>
-<tr><td>21</td><td>Nickel compounds in inhalable powder form</td><td></td><td>1000</td></tr>
-<tr><td>22</td><td>4-Nitrodiphenyl<sup>3</sup></td><td>92-93-3</td><td>500</td></tr>
-<tr><td>23</td><td>1,3-Propane sultone <sup>3</sup></td><td>1120-71-4</td><td>500</td></tr>
-<tr><td>24</td><td>Sulphur dichloride</td><td>10545-99-0</td><td>1000</td></tr>
-<tr><td>25</td><td>Hydrogen</td><td>1333-74-0</td><td>5000</td></tr>
-<tr><td>26</td><td>Nitric acid ≥10 % to &lt;65 %</td><td>7697‑37‑2</td><td>20 000</td></tr>
+<tr><td>19</td><td>Methanol</td><td>67-56-1</td><td>20 000</td></tr>
+<tr><td>20</td><td>Methyl isocyanate</td><td>624-83-9</td><td>150</td></tr>
+<tr><td>21</td><td>2-Naphthylamine and its salts <sup>3</sup></td><td></td><td>500</td></tr>
+<tr><td>22</td><td>Nickel compounds in inhalable powder form</td><td></td><td>1 000</td></tr>
+<tr><td>23</td><td>4-Nitrodiphenyl<sup>3</sup></td><td>92-93-3</td><td>500</td></tr>
+<tr><td>24</td><td>1,3-Propane sultone<sup>3</sup></td><td>1120-71-4</td><td>500</td></tr>
+<tr><td>25</td><td>Sulphur dichloride</td><td>10545-99-0</td><td>1 000</td></tr>
+<tr><td>26</td><td>Hydrogen</td><td>1333-74-0</td><td>5 000</td></tr>
+<tr><td>27</td><td>Nitric acid ≥10 % to &lt;65 %</td><td>7697‑37‑2</td><td>20 000</td></tr>
 <tr><td colspan="4"><sup>1</sup> Substance identifier in the Chemical Abstract system <sup>2</sup> TQ (kg)=Threshold quantity in kg <sup>3</sup> Carcinogens or preparations that contain these carcinogens in concentrations of over 5 per cent by weight <sup>4</sup> Ethanol fuels with various percentages of ethanol in gasoline</td></tr>
 </table>
 
@@ -615,7 +616,7 @@ Annex 1.2a[^t-3]
 
 ## Scope for railway installations
 
-[^t-3]: Inserted by No II para. 1 of the O of 29 April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Amended by No I of the DETEC O of 22 May 2024, in force since 1 July 2024. ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-3]: Inserted by No II para. 1 of the O of 29 April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Amended by No I of the DETEC O of 22 May 2024 ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)). Revised by No I of the DETEC O of 1 Sept. 2025, in force since 1 Oct. 2025 ([AS 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555)).
 
 ### 1 Track sections
 
@@ -728,7 +729,7 @@ The Major Accidents Ordinance applies to the track sections between the followin
 <tr><td>751</td><td>HUER</td><td>WNO</td><td>ZH Langstr. – Wallisellen – Winterthur</td></tr>
 <tr><td>752</td><td>ZOEN</td><td>HUER</td><td>Zurich Oerlikon Nord – Hürlistein (Abzw)</td></tr>
 <tr><td>757</td><td>KL</td><td>DORF</td><td>Kloten – Dorfnest (Überwerfung)</td></tr>
-<tr><td>760</td><td>ZHDB</td><td>BUE</td><td>Zurich Hardbrücke – Bülach</td></tr>
+<tr><td>760</td><td>HRD</td><td>BUE</td><td>Zurich Hardbrücke – Bülach</td></tr>
 <tr><td>762</td><td>NH</td><td>SH</td><td>Winterthur Nord – Schaffhausen RB Ost</td></tr>
 <tr><td>763</td><td>BAD</td><td>GRLX</td><td>Basel Bad Bhf – Waldshut – Schaffhausen</td></tr>
 <tr><td>764</td><td>SH</td><td>EULG</td><td>Schaffhausen – Singen – Konstanz</td></tr>
@@ -743,7 +744,7 @@ The Major Accidents Ordinance applies to the track sections between the followin
 <tr><td>900</td><td>SASO</td><td>CHW</td><td>Sargans Ost – Chur West (Gleisende)</td></tr>
 </table>
 
-[^annex12a-lvlu1-lvl1-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^annex12a-lvlu1-lvl1-1]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### 2 Freight installations
 
@@ -1018,7 +1019,7 @@ Annex 4.2[^t-9]
 - – the culture volumes,
 - \* the nature of the intended product and of any by-products which are or may be produced in the course of the activity.
 
-[^annex42-lvlu1-lvl2-lvl22-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^annex42-lvlu1-lvl2-lvl22-1]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 ### 23 Installation
 

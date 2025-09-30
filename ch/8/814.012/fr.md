@@ -4,11 +4,11 @@ title: "Ordonnance du 27 février 1991 sur la protection contre les accidents ma
 short: OPAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: fr
-version: 2024-07-01
+version: 2025-10-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20251001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240701/fr"
 
 (Ordonnance sur les accidents majeurs, OPAM)
 
-du 27 février 1991 (État le 1<sup>er</sup> juillet 2024)
+du 27 février 1991 (État le 1<sup>er</sup> octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 10, al. 4, et 39, al. 1, de la loi du 7 octobre 1983 sur la protecti
 
 arrête:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 ## Section 1 Dispositions générales
@@ -70,13 +70,13 @@ L’autorité d’exécution est habilitée à appliquer de cas en cas la prése
 
 [^1-1]: Nouvelle teneur selon le ch. II 8 de l’O du 18 mai 2005 sur l’abrogation et la modification du droit en vigueur du fait de la loi sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^1-3]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-5]: [[RO 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [RO 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)art. 7]. Actuellement de l’O du 18 déc. 1991 ([RS 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)).
-[^1-6]: [[RO 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620), [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482), [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006)art. 36 ch. 3, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 11 [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)ch. II, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 18 et art. 6, **1999** 751 ch. II, **2002** 419 1183. [RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 al. 1]. Voir actuellement l’O du 29 nov. 2002 ([RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
-[^1-7]: [[RO 1971 1965](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Voir actuellement l’O du du 2 mars 2010 ([RS 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)).
+[^1-5]: [[RO 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [RO 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)art. 7]. Actuellement de l’O du 18 déc. 1991 ([RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)).
+[^1-6]: [[RO 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620), [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482), [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006)art. 36 ch. 3, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)annexe 1 ch. II 11 [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)ch. II, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 18 et art. 6, **1999** 751 ch. II, **2002** 419 1183. [RO 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 al. 1]. Voir actuellement l’O du 29 nov. 2002 ([RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)).
+[^1-7]: [[RO 1971 1965](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Voir actuellement l’O du du 2 mars 2010 ([RS 747.224.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8993)).
 [^1-8]: Introduite par le ch. I de l’O du 13 fév. 2013 ([RO 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 26 juin 2019 sur les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> août 2019 ([RO 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
-[^1-9]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^1-9]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^1-10]: Introduit par le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^1-11]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 [^1-12]: Nouvelle teneur selon le ch. II 8 de l’O du 18 mai 2005 sur l’abrogation et la modification du droit en vigueur du fait de la loi sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
@@ -172,7 +172,7 @@ Le détenteur d’une installation de transport par conduites est tenu de remett
 
 [^5-1]: Nouvelle teneur selon le ch. II 8 de l’O du 18 mai 2005 sur l’abrogation et la modification du droit en vigueur du fait de la loi sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^5-2]: Nouvelle teneur selon l’annexe 5 ch. 7 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^5-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^5-3]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 [^5-5]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Abrogé par le ch. I de l’O du 29 avr. 2015, avec effet au 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^5-6]: Introduit par le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
@@ -429,7 +429,7 @@ L’OFEV élabore au besoin des directives expliquant les principales dispositio
 <sup>3</sup> L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^23-2].[^23-3]
 
 [^23-1]: Nouvelle teneur selon le ch. II 8 de l’O du 2 fév. 2000 relative à la loi fédérale sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^23-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^23-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 [^23-3]: Introduit par l’annexe 2 ch. 5 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 23a
@@ -490,7 +490,7 @@ Annexe 1.1[^t-1]
 
 ## Seuils quantitatifs des substances, des préparations et des déchets spéciaux
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Mise à jour par le ch. II al. 1 de l’O du 21 sept. 2018 ([RO 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)), l’erratum du 8 mars 2024 ([RO 2024 103](https://fedlex.data.admin.ch/eli/oc/2024/103)) et le ch. I de l’O du DETEC du 22 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Mise à jour par le ch. II al. 1 de l’O du 21 sept. 2018 ([RO 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)), l’erratum du 8 mars 2024 ([RO 2024 103](https://fedlex.data.admin.ch/eli/oc/2024/103)), le ch. I des O du DETEC du 22 mai 2024 ([RO 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)) et du 1<sup>er</sup> sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555)).
 
 ### 1 …
 
@@ -515,7 +515,7 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 - c. les dangers pour l’environnement;
 - d. les autres dangers.
 
-[^annex11-lvlu1-lvl2-lvl22-1]: [RS 814.610.1](https://fedlex.data.admin.ch/eli/cc/2005/714)
+[^annex11-lvlu1-lvl2-lvl22-1]: [RS 814.610.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9576)
 
 ### 3 Substances et préparations avec leur seuil quantitatif
 
@@ -539,14 +539,15 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 <tr><td>16</td><td>Hexaméthylphosphotriamide<sup>3</sup></td><td>680‑31‑9</td><td>500</td></tr>
 <tr><td>17</td><td>Hydrazine<sup>3</sup></td><td>302‑01‑2</td><td>500</td></tr>
 <tr><td>18</td><td>Kérosène</td><td></td><td>200 000</td></tr>
-<tr><td>19</td><td>Isocyanate de méthyle</td><td>624‑83‑9</td><td>150</td></tr>
-<tr><td>20</td><td>2-naphtylamine et ses sels<sup>3</sup></td><td></td><td>500</td></tr>
-<tr><td>21</td><td>Composés du nickel sous forme pulvérulente</td><td></td><td>1000</td></tr>
-<tr><td>22</td><td>4-nitrodiphényle<sup>3</sup></td><td>92‑93‑3</td><td>500</td></tr>
-<tr><td>23</td><td>1,3-propanesultone<sup>3</sup></td><td>1120‑71‑4</td><td>500</td></tr>
-<tr><td>24</td><td>Dichlorure de soufre</td><td>10545‑99‑0</td><td>1000</td></tr>
-<tr><td>25</td><td>Hydrogène</td><td>1333‑74‑0</td><td>5000</td></tr>
-<tr><td>26</td><td>Acide nitrique ≥10 % et &lt;65 %</td><td>7697‑37‑2</td><td>20 000</td></tr>
+<tr><td>19</td><td>Méthanol</td><td>67‑56‑1</td><td>20 000</td></tr>
+<tr><td>20</td><td>Isocyanate de méthyle</td><td>624‑83‑9</td><td>150</td></tr>
+<tr><td>21</td><td>2-naphtylamine et ses sels<sup>3</sup></td><td></td><td>500</td></tr>
+<tr><td>22</td><td>Composés du nickel sous forme pulvérulente</td><td></td><td>1 000</td></tr>
+<tr><td>23</td><td>4-nitrodiphényle<sup>3</sup></td><td>92‑93‑3</td><td>500</td></tr>
+<tr><td>24</td><td>1,3-propanesultone<sup>3</sup></td><td>1120‑71‑4</td><td>500</td></tr>
+<tr><td>25</td><td>Dichlorure de soufre</td><td>10545‑99‑0</td><td>1 000</td></tr>
+<tr><td>26</td><td>Hydrogène</td><td>1333‑74‑0</td><td>5 000</td></tr>
+<tr><td>27</td><td>Acide nitrique ≥ 10 % et &lt; 65 %</td><td>7697‑37‑2</td><td>20 000</td></tr>
 <tr><td colspan="4"><sup>1</sup> Numéro d’identification d’après le *Chemical Abstract System* <sup>2</sup> SQ(kg) = seuil quantitatif en kg <sup>3</sup> Substances cancérogènes ou préparations contenant de telles substances dans des concentrations supérieures à 5 % de leur poids <sup>4</sup> Carburants à l’éthanol, avec des pourcentages variables d’éthanol dans l’essence</td></tr>
 </table>
 
@@ -609,7 +610,7 @@ Annexe 1.2a[^t-3]
 
 ## Champ d’application pour les installations ferroviaires
 
-[^t-3]: Introduite par le ch. II al. 1 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Nouvelle teneur selon le ch. I de l’O du DETEC du 22 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-3]: Introduite par le ch. II al. 1 de l’O du 29 avr. 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Nouvelle teneur selon le ch. I de l’O du DETEC du 22 mai 2024 ([RO 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)). Mise à jour par le ch. I de l’O du DETEC du 1<sup>er</sup> sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555))
 
 ### 1 Tronçons de lignes
 
@@ -721,7 +722,7 @@ Les tronçons de lignes entre les points d’exploitation suivants (sans les tro
 <tr><td>751</td><td>HUER</td><td>WNO</td><td>ZH Langstr. – Wallisellen – Winterthur</td></tr>
 <tr><td>752</td><td>ZOEN</td><td>HUER</td><td>Zürich Oerlikon Nord – Hürlistein (bif.)</td></tr>
 <tr><td>757</td><td>KL</td><td>DORF</td><td>Kloten – Dorfnest (Überwerfung)</td></tr>
-<tr><td>760</td><td>ZHDB</td><td>BUE</td><td>Zürich Hardbrücke – Bülach</td></tr>
+<tr><td>760</td><td>HRD</td><td>BUE</td><td>Zürich Hardbrücke – Bülach</td></tr>
 <tr><td>762</td><td>NH</td><td>SH</td><td>Winterthur Nord – Schaffhausen RB Ost</td></tr>
 <tr><td>763</td><td>BAD</td><td>GRLX</td><td>Basel Bad Bhf – Waldshut – Schaffhausen</td></tr>
 <tr><td>764</td><td>SH</td><td>EULG</td><td>Schaffhausen – Singen – Konstanz</td></tr>
@@ -736,7 +737,7 @@ Les tronçons de lignes entre les points d’exploitation suivants (sans les tro
 <tr><td>900</td><td>SASO</td><td>CHW</td><td>Sargans Ost – Chur West (Gleisende)</td></tr>
 </table>
 
-[^annex12a-lvlu1-lvl1-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^annex12a-lvlu1-lvl1-1]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### 2 Installations de trafic marchandises
 
@@ -1011,7 +1012,7 @@ Annexe 4.2[^t-9]
 - – volumes des cultures;
 - \* nature du produit recherché ainsi que des sous-produits qui sont ou qui peuvent être générés par l’activité.
 
-[^annex41-lvlu1-lvl2-lvl22-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^annex41-lvlu1-lvl2-lvl22-1]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 ### 23 Installations
 

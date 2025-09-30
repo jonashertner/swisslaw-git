@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Februar 1991 über den Schutz vor Störfällen (Stör
 short: StFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/748_748_748"
 language: de
-version: 2024-07-01
+version: 2025-10-01
 adopted: 1991-02-27
 in_force: 1991-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/748_748_748/20251001/de/xml/fedlex-data-admin-ch-eli-cc-1991-748_748_748-20251001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/748_748_748/20240701/de"
 
 (Störfallverordnung, StFV)
 
-vom 27. Februar 1991 (Stand am 1. Juli 2024)
+vom 27. Februar 1991 (Stand am 1. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 10 Absatz 4 und 39 Absatz 1 des Bundesgesetzes vom 7. 
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. April 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -70,13 +70,13 @@ Die Vollzugsbehörde kann folgende Betriebe, Verkehrswege oder Rohrleitungsanlag
 
 [^1-1]: Fassung gemäss Ziff. II 8 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^1-3]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^1-4]: Fassung gemäss Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^1-5]: [[AS 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [AS 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)Art. 7]. Heute: die Durchgangsstrassenverordnung vom 18. Dez. 1991 ([SR 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)).
-[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620); [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482); [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 11, [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866); [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)Ziff. II; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 18 und Art. 6; **1999** 751 Ziff. II; **2002** 419, 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 1]. Heute: die V vom 29. Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
-[^1-7]: [[AS 1971 1957](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Heute: die V vom 2. März 2010 ([SR 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)).
+[^1-5]: [[AS 1983 678](https://fedlex.data.admin.ch/eli/oc/1983/678_678_678). [AS 1992 341](https://fedlex.data.admin.ch/eli/oc/1992/341_341_341)Art. 7]. Heute: die Durchgangsstrassenverordnung vom 18. Dez. 1991 ([SR 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)).
+[^1-6]: [[AS 1985 620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620); [1989 2482](https://fedlex.data.admin.ch/eli/oc/1989/2482_2482_2482); [1994 3006](https://fedlex.data.admin.ch/eli/oc/1994/3006_3006_3006); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 11, [4866](https://fedlex.data.admin.ch/eli/oc/1995/4866_4866_4866); [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422)Ziff. II; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 18 und Art. 6; **1999** 751 Ziff. II; **2002** 419, 1183. [AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)Art. 29 Abs. 1]. Heute: die V vom 29. Nov. 2002 ([SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)).
+[^1-7]: [[AS 1971 1957](https://fedlex.data.admin.ch/eli/oc/1971/1957_1965_1964), [1977 768](https://fedlex.data.admin.ch/eli/oc/1977/768_768_768), [1983 486](https://fedlex.data.admin.ch/eli/oc/1983/486_486_486), [1987 1454](https://fedlex.data.admin.ch/eli/oc/1987/1454_1454_1454), [1990 1356](https://fedlex.data.admin.ch/eli/oc/1990/1356_1356_1356)]. Heute: die V vom 2. März 2010 ([SR 747.224.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8993)).
 [^1-8]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Fassung gemäss Anhang Ziff. 2 der Rohrleitungsverordnung vom 26. Juni 2019, in Kraft seit 1. Aug. 2019 ([AS 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)).
-[^1-9]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^1-9]: [SR 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^1-10]: Eingefügt durch Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
 [^1-11]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. April 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 [^1-12]: Fassung gemäss Ziff. II 8 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
@@ -172,7 +172,7 @@ Der Inhaber einer Rohrleitungsanlage muss der Vollzugsbehörde einen Kurzbericht
 
 [^5-1]: Fassung gemäss Ziff. II 8 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^5-2]: Fassung gemäss Anhang 5 Ziff. 7 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^5-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^5-3]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^5-4]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. April 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)).
 [^5-5]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)). Aufgehoben durch Ziff. I der V vom 29. April 2015, mit Wirkung seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280))
 [^5-6]: Eingefügt durch Ziff. I der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
@@ -433,7 +433,7 @@ Das BAFU veröffentlicht bei Bedarf Richtlinien, welche die wesentlichen Bestimm
 <sup>3</sup> Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^23-2] als Fachstelle des Bundes bezeichnet ist.[^23-3]
 
 [^23-1]: Fassung gemäss Ziff. II 8 der V vom 2. Febr. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^23-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^23-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 [^23-3]: Eingefügt durch Anhang 2 Ziff. 5 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 23a
@@ -494,7 +494,7 @@ Anhang 1.1[^t-1]
 
 ## Mengenschwellen für Stoffe, Zubereitungen oder Sonderabfälle
 
-[^t-1]: Fassung gemäass Ziff. II Abs. 2 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)) und Ziff. I der V des UVEK vom 22. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 21. Sept. 2018 ([AS 2018 3505](https://fedlex.data.admin.ch/eli/oc/2018/570)), Ziff. I der V des UVEK vom 22. Mai 2024 ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)) und vom 1. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555)).
 
 ### 1 …
 
@@ -519,7 +519,7 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 - c. Umweltgefahren;
 - d. andere Gefahren.
 
-[^annex11-lvlu1-lvl2-lvl22-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+[^annex11-lvlu1-lvl2-lvl22-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
 
 ### 3 Stoffe und Zubereitungen mit festgelegten Mengenschwellen
 
@@ -543,14 +543,15 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 <tr><td>16</td><td>Hexamethylphosphortriamid<sup>3</sup></td><td>680‑31‑9</td><td>500</td></tr>
 <tr><td>17</td><td>Hydrazin<sup>3</sup></td><td>302‑01‑2</td><td>500</td></tr>
 <tr><td>18</td><td>Kerosin</td><td></td><td>200 000</td></tr>
-<tr><td>19</td><td>Methylisocyanat</td><td>624‑83‑9</td><td>150</td></tr>
-<tr><td>20</td><td>2-Naphtylamin und seine Salze<sup>3</sup></td><td></td><td>500</td></tr>
-<tr><td>21</td><td>Nickelverbindungen; atemgängig, pulverförmig</td><td></td><td>1000</td></tr>
-<tr><td>22</td><td>4-Nitrodiphenyl<sup>3</sup></td><td>92‑93‑3</td><td>500</td></tr>
-<tr><td>23</td><td>1,3-Propansulton<sup>3</sup></td><td>1120‑71‑4</td><td>500</td></tr>
-<tr><td>24</td><td>Schwefeldichlorid</td><td>10545‑99‑0</td><td>1000</td></tr>
-<tr><td>25</td><td>Wasserstoff</td><td>1333‑74‑0</td><td>5000</td></tr>
-<tr><td>26</td><td>Salpetersäure ≥10 % bis &lt;65 %</td><td>7697‑37‑2</td><td>20 000</td></tr>
+<tr><td>19</td><td>Methanol</td><td>67‑56‑1</td><td>20 000</td></tr>
+<tr><td>20</td><td>Methylisocyanat</td><td>624‑83‑9</td><td>150</td></tr>
+<tr><td>21</td><td>2-Naphtylamin und seine Salze<sup>3</sup></td><td></td><td>500</td></tr>
+<tr><td>22</td><td>Nickelverbindungen; atemgängig, pulverförmig</td><td></td><td>1 000</td></tr>
+<tr><td>23</td><td>4-Nitrodiphenyl<sup>3</sup></td><td>92‑93‑3</td><td>500</td></tr>
+<tr><td>24</td><td>1,3-Propansulton<sup>3</sup></td><td>1120‑71‑4</td><td>500</td></tr>
+<tr><td>25</td><td>Schwefeldichlorid</td><td>10545‑99‑0</td><td>1 000</td></tr>
+<tr><td>26</td><td>Wasserstoff</td><td>1333‑74‑0</td><td>5 000</td></tr>
+<tr><td>27</td><td>Salpetersäure ≥ 10 % bis &lt; 65 %</td><td>7697‑37‑2</td><td>20 000</td></tr>
 <tr><td colspan="4"><sup>1</sup> Identifikationsnummer eines Stoffes im *Chemical Abstract System* <sup>2</sup> MS(kg) = Mengenschwelle in kg <sup>3</sup> Karzinogene oder Zubereitungen, welche diese Karzinogene in Konzentrationen von über 5 Gewichtsprozent enthalten <sup>4</sup> Ethanol-Kraftstoffe mit unterschiedlichen Anteilen Ethanol im Benzin</td></tr>
 </table>
 
@@ -613,7 +614,7 @@ Anhang 1.2a[^t-3]
 
 ## Geltungsbereich für Eisenbahnanlagen
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 1 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Fassung gemäss Ziff. I der V des UVEK vom 22. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 1 der V vom 29. April 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)). Fassung gemäss Ziff. I der V des UVEK vom 22. Mai 2024 ([AS 2024 227](https://fedlex.data.admin.ch/eli/oc/2024/227)). Bereinigt gemäss Ziff. I der V des UVEK vom 1. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 555](https://fedlex.data.admin.ch/eli/oc/2025/555)).
 
 ### 1 Streckenabschnitte
 
@@ -725,7 +726,7 @@ Der Störfallverordnung unterstellt sind die Streckenabschnitte zwischen den fol
 <tr><td>751</td><td>HUER</td><td>WNO</td><td>ZH Langstr. – Wallisellen – Winterthur</td></tr>
 <tr><td>752</td><td>ZOEN</td><td>HUER</td><td>Zürich Oerlikon Nord – Hürlistein (Abzw)</td></tr>
 <tr><td>757</td><td>KL</td><td>DORF</td><td>Kloten – Dorfnest (Überwerfung)</td></tr>
-<tr><td>760</td><td>ZHDB</td><td>BUE</td><td>Zürich Hardbrücke – Bülach</td></tr>
+<tr><td>760</td><td>HRD</td><td>BUE</td><td>Zürich Hardbrücke – Bülach</td></tr>
 <tr><td>762</td><td>NH</td><td>SH</td><td>Winterthur Nord – Schaffhausen RB Ost</td></tr>
 <tr><td>763</td><td>BAD</td><td>GRLX</td><td>Basel Bad Bhf – Waldshut – Schaffhausen</td></tr>
 <tr><td>764</td><td>SH</td><td>EULG</td><td>Schaffhausen – Singen – Konstanz</td></tr>
@@ -740,7 +741,7 @@ Der Störfallverordnung unterstellt sind die Streckenabschnitte zwischen den fol
 <tr><td>900</td><td>SASO</td><td>CHW</td><td>Sargans Ost – Chur West (Gleisende)</td></tr>
 </table>
 
-[^annex12a-lvlu1-lvl1-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^annex12a-lvlu1-lvl1-1]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### 2 Güterverkehrsanlagen
 
@@ -1015,7 +1016,7 @@ Anhang 4.2[^t-9]
 - – Kulturvolumina,
 - \* Art des angestrebten Produkts sowie der Nebenprodukte, die bei der Tätigkeit erzeugt werden oder werden können.
 
-[^annex42-lvlu1-lvl2-lvl22-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^annex42-lvlu1-lvl2-lvl22-1]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 ### 23 Anlagen
 
