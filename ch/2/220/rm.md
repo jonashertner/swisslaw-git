@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2025-07-08
+version: 2025-10-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 8 da fanadur 2025)
+dals 30 da mars 1911 (versiun dal 1. d'october 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -3369,6 +3369,13 @@ L’augment dal tschains da locaziun è nunvalaivel, sch’il locatur:
 - c. smanatscha en la communicaziun cun la disditga dal contract u pronunzia quella en la communicaziun.
 
 <sup>3</sup> Ils alineas 1 e 2 valan er, sch’il locatur ha l’intenziun da midar autramain il contract da locaziun mo sin donn e cust dal locatari, spezialmain cun reducir sias prestaziuns vertentas u cun introducir novs custs accessorics.
+
+<sup>4</sup> Per communitgar in augment dal tschains da locaziun ed autras midadas unilateralas dal contract basta ina suttascripziun reproducida mecanicamain sin il formular prescrit.[^269d-1]
+
+<sup>5</sup> Per communitgar augments dal tschains da locaziun ch’èn previs en ina cunvegna tenor l’artitgel 269*c*, basta la furma scritta.[^269d-2]
+
+[^269d-1]: Integrà tras la cifra I da la LF dals 29 da sett. 2023 (dretg da locaziun: prescripziuns formalas), en vigur dapi il 1. d’oct. 2025 ([AS 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); [BBl 2022 2100](https://fedlex.data.admin.ch/eli/fga/2022/2100), [2624](https://fedlex.data.admin.ch/eli/fga/2022/2624)).
+[^269d-2]: Integrà tras la cifra I da la LF dals 29 da sett. 2023 (dretg da locaziun: prescripziuns formalas), en vigur dapi il 1. d’oct. 2025 ([AS 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); [BBl 2022 2100](https://fedlex.data.admin.ch/eli/fga/2022/2100), [2624](https://fedlex.data.admin.ch/eli/fga/2022/2624)).
 
 ### E. Contestaziun dal tschains da locaziun
 
@@ -10062,7 +10069,7 @@ Ils statuts pon conceder als participants il dretg d’avair in represchentant e
 
 [^part3-tit26-chap1-lvlK-1]
 
-[^part3-tit26-chap1-lvlK-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). La rectificaziun da la CdR da la AF dals 2 da fanadur 2025, publitgada ils 8 da fanadur 2025, concerna mo il text talian ([AS 2025 447](https://fedlex.data.admin.ch/eli/oc/2025/447)).
+[^part3-tit26-chap1-lvlK-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 657
 

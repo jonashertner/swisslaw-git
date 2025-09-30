@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2025-07-08
+version: 2025-10-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 8 luglio 2025)
+del 30 marzo 1911 (Stato 1° ottobre 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2350,8 +2350,8 @@ Qualunque patto che riduca il termine di prescrizione è nullo se:
 
 <sup>3</sup> I patti di prelazione che non fissano il prezzo sono validi nella forma scritta.[^216-2]
 
-[^216-1]: Nuovo testo giusta il. cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^216-2]: Nuovo testo giusta il. cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216-1]: Nuovo testo giusta la cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216-2]: Nuovo testo giusta la cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### A<sup>bis</sup>. Durata e annotazione
 
@@ -2361,7 +2361,7 @@ Qualunque patto che riduca il termine di prescrizione è nullo se:
 
 I diritti di prelazione e di ricupera possono essere convenuti per una durata di 25 anni al massimo, i diritti di compera per dieci anni al massimo, ed essere annotati nel registro fondiario.
 
-[^216a-1]: Introdotto dal. cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216a-1]: Introdotto dalla cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### A<sup>ter</sup>. Trasmissibilità per successione e cessione
 
@@ -2373,7 +2373,7 @@ I diritti di prelazione e di ricupera possono essere convenuti per una durata di
 
 <sup>2</sup> La cessione ammessa per contratto deve avere la stessa forma di quella richiesta per la costituzione del diritto.
 
-[^216b-1]: Introdotto dal. cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216b-1]: Introdotto dalla cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### A<sup>quater</sup>. Diritti di prelazione
 
@@ -2387,7 +2387,7 @@ I diritti di prelazione e di ricupera possono essere convenuti per una durata di
 
 <sup>2</sup> Non costituiscono casi di prelazione segnatamente l’attribuzione a un erede nella divisione successoria, l’incanto forzato e l’acquisto per l’adempimento di un compito pubblico.
 
-[^216c-1]: Introdotto dal. cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216c-1]: Introdotto dalla cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### II. Effetti del caso di prelazione, condizioni
 
@@ -2401,7 +2401,7 @@ I diritti di prelazione e di ricupera possono essere convenuti per una durata di
 
 <sup>3</sup> Salvo clausola contraria del patto di prelazione, il titolare del diritto di prelazione può acquistare il fondo alle condizioni che il venditore ha convenuto con il terzo.
 
-[^216d-1]: Introdotto dal. cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216d-1]: Introdotto dalla cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### III. Esercizio, perenzione
 
@@ -2411,7 +2411,7 @@ I diritti di prelazione e di ricupera possono essere convenuti per una durata di
 
 Il titolare del diritto di prelazione, se intende esercitare il suo diritto, deve farlo valere entro tre mesi nei confronti del venditore o, se il diritto è annotato nel registro fondiario, nei confronti del proprietario. Il termine decorre dal giorno nel quale il titolare ha avuto conoscenza della conclusione del contratto e del suo contenuto.
 
-[^216e-1]: Introdotto dal. cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216e-1]: Introdotto dalla cifra II della LF del 4 ott. 1991, in vigore dal 1° gen. 1994 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### B. Vendita sotto condizione e riserva della proprietà
 
@@ -2510,7 +2510,7 @@ Nel rimanente, alla vendita dei fondi si applicano per analogia le disposizioni 
 
 [^226e-1]
 
-[^226e-1]: Introdotto dalla cifra I della LF del 23 mar. 1962 ([RU 1962 1085](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); FF **1962** 593). Abrogato dal cifra I della LF del 14 dic. 1990, con effetto dal 1° lug. 1991 ([RU 1991 974](https://fedlex.data.admin.ch/eli/oc/1991/974_974_974); [FF 1989 III 1121](https://fedlex.data.admin.ch/eli/fga/1989/3___1121), [1990 I 103](https://fedlex.data.admin.ch/eli/fga/1990/1_120_108_103)).
+[^226e-1]: Introdotto dalla cifra I della LF del 23 mar. 1962 ([RU 1962 1085](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); FF **1962** 593). Abrogato dalla cifra I della LF del 14 dic. 1990, con effetto dal 1° lug. 1991 ([RU 1991 974](https://fedlex.data.admin.ch/eli/oc/1991/974_974_974); [FF 1989 III 1121](https://fedlex.data.admin.ch/eli/fga/1989/3___1121), [1990 I 103](https://fedlex.data.admin.ch/eli/fga/1990/1_120_108_103)).
 
 #### Art. 226f a 226k
 
@@ -3370,6 +3370,13 @@ L’aumento è nullo se il locatore:
 - c. lo comunica con la minaccia di disdetta o dando la disdetta.
 
 <sup>3</sup> I capoversi 1 e 2 si applicano anche se il locatore intende in altro modo modificare unilateralmente il contratto a svantaggio del conduttore, segnatamente diminuendo le sue prestazioni o introducendo nuove spese accessorie.
+
+<sup>4</sup> Per la comunicazione di un aumento di pigione e di altre modificazioni unilaterali del contratto è sufficiente la firma riprodotta meccanicamente sul modulo prescritto.[^269d-1]
+
+<sup>5</sup> Per la comunicazione di aumenti di pigioni scalari pattuite secondo l’articolo 269*c* è sufficiente la forma scritta.[^269d-2]
+
+[^269d-1]: Introdotto dalla cifra I della LF del 29 set. 2023 (Diritto di locazione: prescrizioni formali), in vigore dal 1° ott. 2025 ([RU 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); FF **2002** 2100, 2624).
+[^269d-2]: Introdotto dalla cifra I della LF del 29 set. 2023 (Diritto di locazione: prescrizioni formali), in vigore dal 1° ott. 2025 ([RU 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); FF **2002** 2100, 2624).
 
 ### E. Contestazione della pigione
 
@@ -6719,7 +6726,7 @@ Se per indicare l’occasione di conchiudere un contratto individuale di lavoro 
 
 <sup>2</sup> …[^418b-1]
 
-[^418b-1]: Abrogato dall’all.n. I lett. b della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^418b-1]: Abrogato dall’all. cifra I lett. b della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ### B. Obblighi dell’agente
 
@@ -10156,7 +10163,7 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^662a-1]
 
-[^662a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal n. I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^662a-1]: Introdotto dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal cifra I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 663
 
@@ -10188,7 +10195,7 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^663d663h-1]
 
-[^663d663h-1]: Introdotti dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal n. I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^663d663h-1]: Introdotti dalla cifra I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dalla cifra I n. 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 664 e 665
 
@@ -11018,7 +11025,7 @@ Se l’assemblea generale non accede alla proposta, entro tre mesi azionisti che
 
 [^697i-1]
 
-[^697i-1]: Introdotto dalla cifra I n. 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogato cifra I n. 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, con effetto dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^697i-1]: Introdotto dalla cifra I n. 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogato dalla cifra I n. 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, con effetto dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 ### K. Obbligo di annunciare dell’azionista
 
@@ -11044,7 +11051,7 @@ Se l’assemblea generale non accede alla proposta, entro tre mesi azionisti che
 
 [^697k-1]
 
-[^697k-1]: Introdotto dalla cifra I n. 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogato cifra I n. 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, con effetto dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^697k-1]: Introdotto dalla cifra I n. 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogato dalla cifra I n. 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, con effetto dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 ### II. Elenco degli aventi economicamente diritto
 
@@ -12237,7 +12244,7 @@ Il giudice può segnatamente:
 
 <sup>4</sup> Tosto che si accorgano che l’attivo non è sufficiente a coprire i debiti della società, i liquidatori incaricati di liquidare la società conformemente alle disposizioni sul fallimento devono darne notizia al giudice; questi pronuncerà il fallimento.[^731b-3]
 
-[^731b-1]: Nuovo testo giusta la cifra II della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° gen. 2021, il n. 4 è in vigore dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)
+[^731b-1]: Nuovo testo giusta la cifra II della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° gen. 2021, il n. 4 è in vigore dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-2]: Introdotto dalla cifra I della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-3]: Introdotto dalla cifra I n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
@@ -16157,7 +16164,7 @@ Nell’ambito di un processo coordinato sul piano internazionale, il Consiglio f
 
 [^part4-tit32-chap8-1]
 
-[^part4-tit32-chap8-1]: Introdotto dai cifra I e III 1 della LF del 19 giu. 2020 (controprogetto indiretto all’iniziativa popolare «Per imprese responsabili – a tutela dell’essere umano e dell’ambiente»), in vigore dal 1° gen. 2022 ([RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Vedi anche la disp. trans. alla fine del presente testo.
+[^part4-tit32-chap8-1]: Introdotto dalle cifre I e III 1 della LF del 19 giu. 2020 (controprogetto indiretto all’iniziativa popolare «Per imprese responsabili – a tutela dell’essere umano e dell’ambiente»), in vigore dal 1° gen. 2022 ([RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Vedi anche la disp. trans. alla fine del presente testo.
 
 ### A. Principio
 
@@ -19391,7 +19398,7 @@ Le disposizioni dell’ordinanza del 20 febbraio 1918[^u16-13-1] concernente la 
 
 [^u16-14-1]
 
-[^u16-14-1]: Abrogato dall’all. cifra I lett. *c* della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^u16-14-1]: Abrogato dall’all. cifra I lett. c della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ### J. Modificazioni della legge sulla esecuzione e sul fallimento
 

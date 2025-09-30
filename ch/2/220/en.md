@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2025-07-08
+version: 2025-10-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 8 July 2025)
+of 30 March 1911 (Last amended on 1 October 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -165,7 +165,7 @@ Where the law requires that a contract be done in writing, the requirement also 
 
 #### Art. 13
 
-<sup>1</sup> A contract required by law to be in writing must be signed by all persons on whom it imposes obligations.
+<sup>1</sup> A contract required by law to be done in writing must be signed by all persons on whom it imposes obligations.
 
 <sup>2</sup> ...[^13-1]
 
@@ -3368,9 +3368,16 @@ The rent increase is void where:
 
 - a. it is not communicated using the prescribed form;
 - b. no reasons are given;
-- c. notification of the increase is accompanied by notice to terminate or a threat of termination.
+- c. notice of the increase is accompanied by notice to terminate or a threat of termination.
 
 <sup>3</sup> Paragraphs 1 and 2 also apply where the landlord intends to make other unilateral amendments to the lease to the detriment of the tenant, for example by reducing the services provided or adding new accessory charges.
+
+<sup>4</sup> Notice of a rent increase and other unilateral contract amendments may be given by appending a signature reproduced by mechanical means to the prescribed form.[^269d-1]
+
+<sup>5</sup> In the case of a rent increase in accordance with an agreement under Article 269*c*, it is sufficient that notice be given in writing.[^269d-2]
+
+[^269d-1]: Inserted by No I of the FA of 29 Sept. 2023 (Tenancy Law: Formal Requirements), in force since 1 Oct. 2025 ([AS 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); [BBl 2022 2100](https://fedlex.data.admin.ch/eli/fga/2022/2100), [2624](https://fedlex.data.admin.ch/eli/fga/2022/2624)).
+[^269d-2]: Inserted by No I of the FA of 29 Sept. 2023 (Tenancy Law: Formal Requirements), in force since 1 Oct. 2025 ([AS 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); [BBl 2022 2100](https://fedlex.data.admin.ch/eli/fga/2022/2100), [2624](https://fedlex.data.admin.ch/eli/fga/2022/2624)).
 
 ### E. Challenge to rent
 
@@ -14354,7 +14361,7 @@ Any provisions made in the articles of association which limit liability to a sp
 
 <sup>2</sup> Irrecoverable amounts must be spread equally among the other members, and surpluses repaid once the final distribution plan has been formulated. The members’ right of recourse against each other is reserved.
 
-<sup>3</sup> The provisional determination of members’ obligations and the distribution plan are subject to challenge by appeal on procedural grounds pursuant to the Debt Enforcement and Bankruptcy Act of 11 April 1889[^873-1].
+<sup>3</sup> The provisional determination of members’ obligations and the distribution plan are subject to challenge by appeal pursuant to the Debt Enforcement and Bankruptcy Act of 11 April 1889[^873-1].
 
 <sup>4</sup> The procedure is determined by Federal Council ordinance.[^873-2]
 

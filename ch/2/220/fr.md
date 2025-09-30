@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2025-07-08
+version: 2025-10-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20250708/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20250708-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20250708/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 8 juillet 2025)
+du 30 mars 1911 (État le 1<sup>er</sup> octobre 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -3379,6 +3379,13 @@ Les majorations de loyer sont nulles lorsque:
 - c. elles sont assorties d’une résiliation ou d’une menace de résiliation.
 
 <sup>3</sup> Les al. 1 et 2 sont aussi applicables lorsque le bailleur envisage d’apporter unilatéralement au contrat d’autres modifications au détriment du locataire, par exemple en diminuant ses prestations ou en introduisant de nouveaux frais accessoires.
+
+<sup>4</sup> Pour la notification d’une majoration de loyer et d’autres modifications unilatérales du contrat, une signature reproduite sur la formule officielle par un moyen mécanique suffit.[^269d-1]
+
+<sup>5</sup> Pour la notification des majorations de loyer prévues dans une convention au sens de l’art. 269*c*, la forme écrite suffit.[^269d-2]
+
+[^269d-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Droit du bail: règles de forme), en vigueur depuis le 1<sup>er</sup> oct. 2025 (RO **20****2****5** 197; FF **20****22** 2100, 2624).
+[^269d-2]: Introduit par le ch. I de la LF du 29 sept. 2023 (Droit du bail: règles de forme), en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); [FF 2022 2100](https://fedlex.data.admin.ch/eli/fga/2022/2100), [2624](https://fedlex.data.admin.ch/eli/fga/2022/2624)).
 
 ### E. Contestation du loyer
 
@@ -10067,7 +10074,7 @@ Les statuts peuvent reconnaître aux participants le droit à un représentant a
 
 [^part3-tit26-chap1-lvlK-1]
 
-[^part3-tit26-chap1-lvlK-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Erratum de la CdR de l'Ass. féd. du 2 juil. 2025, publié le 8 juil. 2025, ne concerne que le texte italien ([RO 2025 447](https://fedlex.data.admin.ch/eli/oc/2025/447)).
+[^part3-tit26-chap1-lvlK-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746);[2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 657
 
