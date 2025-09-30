@@ -1,33 +1,34 @@
 ---
 canton: SG
 number: "381.181"
-title: Regierungsbeschluss über die Pflegeheimliste
+title: Beschluss über die Pflegeheimliste
 language: de
-version: 2025-01-01
-valid_until: 2025-09-30
-version_adopted: 2024-11-26
+version: 2025-10-01
+valid_until: 2025-12-31
+version_adopted: 2025-09-01
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.181"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3741/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsbeschluss über die Pflegeheimliste
+# Beschluss über die Pflegeheimliste
 
-vom 20.12.2011 (Stand 01.01.2025)
+vom 20.12.2011 (Stand 01.10.2025)
 
-Die Regierung des Kantons St.Gallen
+Die Regierung des Kantons St.Gallen[^ingress-1]
 
 erlässt
 
-gestützt auf Art. 39 Abs. 1 Bst. e in Verbindung mit Abs. 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^ingress-1]
+gestützt auf Art. 39 Abs. 1 Bst. e in Verbindung mit Abs. 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^ingress-2]
 
-als Beschluss:[^ingress-2]
+als Beschluss:[^ingress-3]
 
-[^ingress-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^ingress-2]: Im Amtsblatt veröffentlicht am 2. Januar 2012, ABl 2012, 22 ff.; in Vollzug ab 1. Januar 2012.
+[^ingress-1]: Seit 1. Januar 2025 (Vollzugsbeginn des VII. Nachtrags zum Sozialhilfegesetz vom 24. November 2024, nGS 2024-051) ist das zuständige Departement für die Führung des Beschlusses über die Pflegeheimliste zuständig. Nach [Art. 26<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/141.3/de/art26bis) Bst. a<sup>bis</sup> des Geschäftsreglements der Regierung und der Staatskanzlei vom 7. Dezember 1951, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de), handelt es sich dabei um das Gesundheitsdepartement.
+[^ingress-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^ingress-3]: Im Amtsblatt veröffentlicht am 2. Januar 2012, ABl 2012, 22 ff.; in Vollzug ab 1. Januar 2012.
 
 #### Art. 1
 
