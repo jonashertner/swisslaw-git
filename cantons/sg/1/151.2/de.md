@@ -10,7 +10,7 @@ version_adopted: 2025-07-29
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3793/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3794/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -944,6 +944,19 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Die Gemeindeordnung kann die Volksmotion vorsehen.
 
 <sup>2</sup> Mit der Volksmotion kann die in der Gemeindeordnung festgelegte Zahl der Stimmberechtigten verlangen, dass der Rat eine Vorlage über einen Gegenstand ausarbeitet, der in die Zuständigkeit der Bürgerschaft fällt.
+
+#### Art. 82a
+
+**Zulässigkeit**
+
+<sup>1</sup> Eine Volksmotion darf der Bürgerversammlung oder dem Parlament nur unterbreitet werden, wenn sie zulässig ist. Die Zulässigkeit bestimmt sich sachgemäss nach [Art. 44](https://www.gesetzessammlung.sg.ch/data/111.1/de/art44) der Kantonsverfassung vom 10. Juni 2001[^82a-1] in Verbindung mit [Art. 34](https://www.gesetzessammlung.sg.ch/data/125.1/de/art34) des Gesetzes über Referendum und Initiative vom 27. November 1967[^82a-2].
+
+<sup>2</sup> Die Volksmotion kann vor Beginn der Unterschriftensammlung dem Rat zur Vorprüfung unterbreitet werden.
+
+<sup>3</sup> Stellt der Rat im Rahmen der Vorprüfung oder nach Einreichung der Volksmotion Unzulässigkeit fest, erlässt er eine Verfügung.
+
+[^82a-1]: sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
+[^82a-2]: sGS [125.1](https://www.gesetzessammlung.sg.ch/data/125.1/de).
 
 #### Art. 83
 
