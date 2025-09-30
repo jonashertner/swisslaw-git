@@ -4,13 +4,12 @@ number: V A/11/1
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2023-01-01
-valid_until: 2025-09-30
-version_adopted: 2021-09-05
+version: 2025-10-01
+version_adopted: 2025-05-04
 adopted: 2007-05-06
 in_force: 2008-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-A.11.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2536/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2571/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2536/pdf_file"
 
 (PolG)
 
-Vom 06.05.2007 (Stand 01.01.2023)
+Vom 06.05.2007 (Stand 01.10.2025)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -197,43 +196,62 @@ Vom 06.05.2007 (Stand 01.01.2023)
 
 #### Art. 16
 
-**Wegweisung und Zutrittsverbot bei häuslicher Gewalt**
+**Gewalt in Beziehungen**
 
-<sup>1</sup> Die Kantonspolizei darf eine Person, zum Schutz von anderen Personen gegen Gewalt, Drohungen oder Nachstellungen vorläufig aus deren Wohnung und deren unmittelbaren Umgebung wegweisen oder ihr den Zutritt verbieten.
+<sup>1</sup> Die Kantonspolizei kann eine Person, die im Rahmen einer bestehenden oder aufgelösten familiären oder partnerschaftlichen Beziehung eine andere Person ernsthaft und unmittelbar gefährdet, bedroht oder ihr nachstellt, aus der Wohnung oder aus dem Haus und der unmittelbaren Umgebung wegweisen und ihr die Rückkehr dorthin verbieten.
 
-<sup>2</sup> Nachdem der weggewiesenen Person die Gelegenheit gegeben wurde, die notwendigen Gegenstände des persönlichen Bedarfs mitzunehmen, nimmt die Polizei ihr nötigenfalls die Haus- bzw. Wohnungsschlüssel oder dergleichen ab. Die weggewiesene Person hat der Polizei eine Zustelladresse anzugeben.
+<sup>2</sup> Ausserdem kann sie ihr verbieten, sich der gefährdeten Person zu nähern (Annäherungsverbot), mit bestimmten Personen Kontakt aufzunehmen (Kontaktverbot) oder sich an bestimmten Orten, namentlich bestimmten Strassen, Plätzen oder Quartieren, aufzuhalten (Rayonverbot).
 
-<sup>3</sup> Die Polizei informiert die weggewiesene Person über den räumlichen Bereich, auf welchen sich Wegweisung und Zutrittsverbot beziehen und über die Folgen der Missachtung der Wegweisung und des Zutrittsverbotes gemäss Artikel 292 Strafgesetzbuch. Des Weiteren hat die Polizei die gefährdete Person über den unmittelbaren Fortgang des Verfahrens und über geeignete Beratungsstellen aufzuklären.
+<sup>3</sup> Die Kantonspolizei ist berechtigt, die jeweils geeignete Fachstelle über den Sachverhalt und die getroffenen polizeilichen Anordnungen zu orientieren.
 
 <sup>4</sup> …
 
+<sup>5</sup> Die Kantonspolizei orientiert eine der in Absatz 3 aufgeführten Stellen über den Sachverhalt und die getroffenen polizeilichen Anordnungen immer dann, wenn Kinder oder Jugendliche im gleichen Haushalt leben.
+
 #### Art. 16a
 
-**Verfahren in Fällen häuslicher Gewalt**
+**Vorgehen**
 
-<sup>1</sup> Jede weggewiesene Person ist innert fünf Tagen nach der polizeilichen Wegweisung vom Zwangsmassnahmengericht einzuvernehmen, welches bis zum Ablauf dieser Frist über Aufhebung, Abänderung oder Verlängerung der Wegweisungsmassnahmen zu entscheiden hat. Die Wegweisung kann höchstens um zehn Tage verlängert werden.
+<sup>1</sup> Die Kantonspolizei ermittelt den Sachverhalt und trifft umgehend die zum Schutz der gefährdeten Personen notwendigen polizeilichen Anordnungen, namentlich:
 
-<sup>2</sup> Das Zwangsmassnahmengericht erlässt unter Hinweis auf die Straffolgen nach Artikel 292 StGB einen schriftlich begründeten Entscheid und informiert die weggewiesene Person über geeignete Beratungs- und Therapieangebote. Erscheint diese nicht zur Einvernahme, ist aufgrund der Aktenlage zu entscheiden. Fallen Kindes- oder Erwachsenenschutzmassnahmen in Betracht, bringt das Zwangsmassnahmengericht die Wegweisung der zuständigen KESB unverzüglich zur Kenntnis.
+- a. Verfügung betreffend Wegweisung, Rückkehrverbot, Annäherungsverbot, Kontaktverbot und/oder Rayonverbot, unter Strafandrohung nach Artikel 292 des Schweizerischen Strafgesetzbuches (StGB)[^16a-1] samt Hinweis auf die Artikel 16c und 16d;
+- b. Abnahme der Wohnungsschlüssel der weggewiesenen Person bzw. Veranlassung einer Sperre bei Zutrittssystemen;
+- c. Orientierung der gefährdeten Person über die Zuständigkeit zur Anordnung von zivilrechtlichen Massnahmen;
+- d. Orientierung der geeigneten Fachstelle.
 
-<sup>3</sup> Das Zwangsmassnahmengericht informiert die gefährdete Person und die Kantonspolizei umgehend über den Inhalt und die Dauer der Wegweisungsverfügung, über die Folgen von deren Missachtung durch die weggewiesene Person, über geeignete Beratungsstellen und über die rechtlichen Möglichkeiten, insbesondere über die Möglichkeit der Anrufung des Zivilrichters.
+<sup>2</sup> Eine nach Artikel 16 weggewiesene Person erhält Gelegenheit, die nötigen Gegenstände des persönlichen Bedarfs mitzunehmen. Sie hat eine Zustelladresse zu bezeichnen. Unterlässt sie dies, können behördliche Zustellungen während der Dauer der Wegweisung durch Hinterlegung bei der Kantonspolizei erfolgen.
 
-<sup>3a</sup> Das Verfahren und der Entscheid sind nicht öffentlich.
+<sup>3–4</sup> …
 
-<sup>4</sup> Einer allfälligen Beschwerde gegen die Entscheidung des Zwangsmassnahmengerichts betreffend die Wegweisungsmassnahmen kommt keine aufschiebende Wirkung zu.
+[^16a-1]: SR 311.0
 
 #### Art. 16b
 
-**Verlängerung der Wegweisung und des Zutrittsverbotes bei häuslicher Gewalt**
+**Zusammenarbeit mit der Kindes- und Erwachsenenschutzbehörde**
 
-<sup>1</sup> Ersucht die gefährdete Person vor Ablauf der vom Zwangsmassnahmengericht angesetzten Wegweisungsdauer, längstens jedoch innert fünf Tagen nach Zustellung der Wegweisungsverfügung des Zwangsmassnahmengerichts, auf dem zivilrechtlichen Weg um Anordnung von Schutzmassnahmen nach den Artikeln 28 ff., 137 oder 175 ff. ZGB, verlängern sich die Wegweisung und das Zutrittsverbot bis zum zivilrichterlichen Entscheid, längstens jedoch um zehn Tage.
+<sup>1</sup> Kommen Kindesschutz- oder Erwachsenenschutzmassnahmen in Betracht, meldet die Kantonspolizei den Sachverhalt sowie die getroffenen polizeilichen Anordnungen der zuständigen Kindes- und Erwachsenenschutzbehörde.
 
-<sup>2</sup> Der Zivilrichter teilt den Betroffenen, dem Zwangsmassnahmengericht und der Kantonspolizei unverzüglich den Eingang des Gesuches und die Verlängerung der Wegweisung mit.
+<sup>2</sup> …
 
 #### Art. 16c
 
-**Anwendbares Verfahrensrecht**
+**Dauer**
 
-<sup>1</sup> Für das Verfahren bei der Wegweisung kommen im Übrigen die Bestimmungen der StPO sinngemäss zur Anwendung.
+<sup>1</sup> Die polizeilichen Anordnungen gelten für die Dauer von 20 Tagen.
+
+<sup>2</sup> Beantragt die gefährdete Person innert zehn Tagen seit Erlass der polizeilichen Anordnungen zivilrechtliche vorsorgliche Massnahmen, verlängert sich die Dauer der polizeilichen Anordnungen bis zur Erledigung des zivilrechtlichen Verfahrens, unter dem Vorbehalt anderer zivilrechtlicher Anordnungen. Das Kantonsgericht orientiert die Parteien und die Kantonspolizei über den Eingang des Begehrens und die Verlängerung.
+
+<sup>3</sup> Die Kantonspolizei kann die polizeilichen Anordnungen in Wiedererwägung ziehen, wenn die gefährdete Person deren Aufhebung ausdrücklich und aus freiem Willen verlangt und sofern anzunehmen ist, dass von der weggewiesenen Person keine Gefährdung mehr ausgeht.
+
+#### Art. 16d
+
+**Gerichtliche Überprüfung**
+
+<sup>1</sup> Während der Gültigkeitsdauer kann die weggewiesene Person die polizeilichen Anordnungen vom Kantonsgericht gerichtlich überprüfen lassen. Einem solchen Gesuch kommt keine aufschiebende Wirkung zu.
+
+<sup>2</sup> Das Kantonsgericht entscheidet im summarischen Verfahren gemäss der Schweizerischen Zivilprozessordnung (ZPO)[^16d-1]. Es hört die Beteiligten innert dreier Arbeitstage an. Der Entscheid ist innerhalb dreier Arbeitstage nach Anhörung der Beteiligten zu eröffnen.
+
+[^16d-1]: SR 272
 
 #### Art. 17
 
@@ -697,6 +715,12 @@ Vom 06.05.2007 (Stand 01.01.2023)
 #### Art. 45
 
 **…**
+
+#### Art. 45a
+
+**Übergangsbestimmung zur Änderung vom 4. Mai 2025**
+
+<sup>1</sup> Für Verfahren nach Artikel 16, 16a–16d, welche bei Inkrafttreten dieser Bestimmungen rechtshängig sind, findet das bisherige Recht bis zum rechtskräftigen Abschluss des Verfahrens Anwendung.
 
 #### Art. 46
 
