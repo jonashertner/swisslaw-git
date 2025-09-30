@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Internationales Übereinkommen von 2004 vom 13. Februar 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: de
-version: 2025-02-01
+version: 2025-10-01
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20250201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20251001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013
 
 In Kraft getreten für die Schweiz am 8. September 2017
 
-(Stand am 1. Februar 2025)
+(Stand am 1. Oktober 2025)
 
 [^t-1]: [AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -524,7 +524,7 @@ Geltungsbereich am 18. Juli 2024[^t-3]
 <tr><td>Bermudas</td><td>8. Mai</td><td>2024</td><td>8. Mai</td><td>2024</td></tr>
 <tr><td>Vietnam</td><td>24. Januar</td><td>2024 B</td><td>24. April</td><td>2024</td></tr>
 <tr><td>Zypern</td><td>8. August</td><td>2018 B</td><td>8. November</td><td>2018</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 [^t-3]: [AS 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

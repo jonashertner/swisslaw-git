@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convention internationale de 2004 du 13 février 2004 pour le contrôle et la gestion des eaux de ballast et sédiments des navires (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: fr
-version: 2025-02-01
+version: 2025-10-01
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20250201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20251001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 13 février 2004 Approuvée par l’Assemblée fédérale le 22 mars 2013[^t-1] Instrument d’adhésion déposé par la Suisse le 24 septembre 2013 Entrée en vigueur pour la Suisse le 8 septembre 2017
 
-(État le 1<sup>er</sup> février 2025)
+(État le 1<sup>er</sup> octobre 2025)
 
 [^t-1]: [RO 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 

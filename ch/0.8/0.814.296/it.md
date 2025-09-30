@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convenzione internazionale del 2004 del 13 febbraio 2004 per il controllo e la gestione delle acque di zavorra e dei sedimenti delle navi (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: it
-version: 2025-02-01
+version: 2025-10-01
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20250201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20251001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Londra il 13 febbraio 2004 Approvata dall’Assemblea federale il 22 marzo 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 24 settembre 2013 Entrata in vigore per la Svizzera l’8 settembre 2017
 
-(Stato 1° febbraio 2025)
+(Stato 1° ottobre 2025)
 
 [^t-1]: [RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -409,7 +409,7 @@ La presente Convenzione è redatta in un unico originale in lingua araba, cinese
 
 Allegato[^t-2]
 
-[^t-2]: L’all. e i suoi emendamenti non sono più pubblicati nella RU e nella RS ([RU 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì vengono aggiornati nelle risoluzioni del comitato competente dell’OMI. I testi in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
+[^t-2]: Aggiornato dalle mod. dei 13 apr. 2018, 20 nov. 2020, 7 lug. 2023 e 22 mar. 2024, in vigore dal 1° ott. 2025 ([RU 2025 286](https://www.fedlex.admin.ch/eli/oc/2025/286/it)). L’all. e i suoi emendamenti non sono pubblicati nella RU e nella RS. Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì vengono aggiornati nelle risoluzioni del comitato competente dell’OMI. I testi in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 Campo d’applicazione il 18 luglio 2024[^t-3]
 
@@ -521,4 +521,4 @@ Campo d’applicazione il 18 luglio 2024[^t-3]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024](https://fedlex.data.admin.ch/eli/oc/2021/2024)[380](https://fedlex.data.admin.ch/eli/oc/2021/380). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-3]: [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
