@@ -3,18 +3,18 @@ sr: "531.215.251"
 title: Verordnung des WBF vom 20. Mai 2019 über die Pflichtlagerhaltung von Dünger
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/350"
 language: de
-version: 2019-07-01
+version: 2025-10-01
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/350/20190701/de/xml/fedlex-data-admin-ch-eli-cc-2019-350-20190701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/350/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/350/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2019-350-20251001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/350/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die Pflichtlagerhaltung von Dünger
 
-vom 20. Mai 2019 (Stand am 1. Juli 2019)
+vom 20. Mai 2019 (Stand am 1. Oktober 2025)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 4 Absatz 1 der Düngerpflichtlagerverordnung vom 10. Mai 2
 
 verordnet:
 
-[^ingress-1]: [SR 531.215.25](https://fedlex.data.admin.ch/eli/cc/2017/311)
+[^ingress-1]: [SR 531.215.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7695)
 
 #### Art. 1
 
@@ -36,13 +36,15 @@ Die im Anhang aufgeführten Waren müssen in einem Pflichtlager gelagert werden.
 
 Die Qualität der eingelagerten Waren muss jederzeit den Vorgaben der Genossenschaft Agricura (Agricura)[^2-1] zum handelsüblichen Standard und zur Lagerfähigkeit entsprechen.
 
-[^2-1]: Die Vorgaben sind auf der Website der Agricura unter folgender Adresse abrufbar: www.agricura.ch &gt; Rechtsgrundlagen.
+[^2-1]: Die Vorgaben sind auf der Website der Agricura unter folgender Adresse abrufbar: [www.agricura.ch](http://www.agricura.ch) &gt; Rechtsgrundlagen.
 
 #### Art. 3
 
-**Pflichtlagermenge**
+**Pflichtlagermenge**[^3-1]
 
-Die Pflichtlagerhalter müssen insgesamt 17 000 Tonnen reinen Stickstoff lagern.
+Die Gesamtmenge des in Pflichtlagern gelagerten reinen Stickstoffs muss einen Drittel des durchschnittlichen jährlichen Bedarfs der Schweiz decken.
+
+[^3-1]: Fassung gemäss Ziff. I der V des WBF vom 1. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 562](https://fedlex.data.admin.ch/eli/oc/2025/562)).
 
 #### Art. 4
 
@@ -73,9 +75,11 @@ Die Agricura legt die Pflichtlagermenge proportional zur Gesamtmenge pro Halter 
 
 **Stellvertretende und gemeinsame Pflichtlagerhaltung**
 
-<sup>1</sup> Es dürfen höchstens zwei Drittel der Gesamtmenge in stellvertretender oder gemeinsamer Pflichtlagerhaltung gehalten werden.
+<sup>1</sup> Die Pflichtlagerhalter können die vorgeschriebene Warenmenge teilweise oder vollständig in stellvertretender oder in gemeinsamer Pflichtlagerhaltung halten.[^6-1]
 
 <sup>2</sup> Die Gründung und Ausgestaltung einer Lagergesellschaft zur gemeinsamen Pflichtlagerhaltung bedürfen der Genehmigung des BWL.
+
+[^6-1]: Fassung gemäss Ziff. I der V des WBF vom 1. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 562](https://fedlex.data.admin.ch/eli/oc/2025/562)).
 
 #### Art. 7
 

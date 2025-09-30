@@ -3,18 +3,18 @@ sr: "531.215.251"
 title: Ordinanza del DEFR del 20 maggio 2019 concernente la costituzione di scorte obbligatorie di concimi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/350"
 language: it
-version: 2019-07-01
+version: 2025-10-01
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/350/20190701/it/xml/fedlex-data-admin-ch-eli-cc-2019-350-20190701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/350/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/350/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2019-350-20251001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/350/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente la costituzione di scorte obbligatorie di concimi
 
-del 20 maggio 2019 (Stato 1° luglio 2019)
+del 20 maggio 2019 (Stato 1° ottobre 2025)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -22,7 +22,7 @@ visto l’articolo 4 capoverso 1 dell’ordinanza del 10 maggio 2017[^ingress-1]
 
 ordina:
 
-[^ingress-1]: [RS 531.215.25](https://fedlex.data.admin.ch/eli/cc/2017/311)
+[^ingress-1]: [RS 531.215.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7695)
 
 #### Art. 1
 
@@ -40,9 +40,11 @@ La qualità delle merci depositate rispetta sempre le prescrizioni della coopera
 
 #### Art. 3
 
-**Volume delle scorte obbligatorie**
+**Volume delle scorte obbligatorie**[^3-1]
 
-I proprietari delle scorte obbligatorie depositano complessivamente 17 000 tonnellate di azoto puro.
+Il quantitativo totale di scorte obbligatorie di azoto puro deve coprire un terzo del fabbisogno medio annuo della Svizzera.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 1° set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 562](https://fedlex.data.admin.ch/eli/oc/2025/562)).
 
 #### Art. 4
 
@@ -73,9 +75,11 @@ Agricura stabilisce il quantitativo di scorte obbligatorie per ogni proprietario
 
 **Costituzione di scorte obbligatorie da parte di terzi e in comune**
 
-<sup>1</sup> Possono essere costituite scorte obbligatorie da parte di terzi o in comune per al massimo due terzi del quantitativo totale.
+<sup>1</sup> I proprietari delle scorte obbligatorie possono detenere sotto forma di scorte obbligatorie da parte di terzi o in comune una parte o la totalità dei quantitativi di merci prescritti.[^6-1]
 
 <sup>2</sup> La fondazione e l’organizzazione di una società per la costituzione di scorte obbligatorie in comune richiedono l’approvazione dell’UFAE.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 1° set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 562](https://fedlex.data.admin.ch/eli/oc/2025/562)).
 
 #### Art. 7
 
@@ -90,18 +94,3 @@ Agricura stabilisce il quantitativo di scorte obbligatorie per ogni proprietario
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° luglio 2019.
-
-Allegato
-
-(art. 1)
-
-## Merci secondo l’articolo 1
-
-### Concimi azotati
-
-<table>
-<tr><td>Urea 46 % azoto</td></tr>
-<tr><td>Azoto puro, sotto forma di:</td></tr>
-<tr><td>– concimi con almeno il 12 % di azoto</td></tr>
-<tr><td>– concimi con almeno il 12 % di azoto, esclusi tutti i tipi di urea</td></tr>
-</table>

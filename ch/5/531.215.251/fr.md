@@ -3,18 +3,18 @@ sr: "531.215.251"
 title: "Ordonnance du DEFR du 20 mai 2019 sur le stockage obligatoire d'engrais"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/350"
 language: fr
-version: 2019-07-01
+version: 2025-10-01
 adopted: 2019-05-20
 in_force: 2019-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/350/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-350-20190701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/350/20190701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/350/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2019-350-20251001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/350/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR sur le stockage obligatoire d’engrais
 
-du 20 mai 2019 (Etat le 1<sup>er</sup> juillet 2019)
+du 20 mai 2019 (État le 1<sup>er</sup> octobre 2025)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -22,7 +22,7 @@ vu l’art. 4, al. 1, de l’ordonnance du 10 mai 2017 sur le stockage obligatoi
 
 arrête:
 
-[^ingress-1]: [RS 531.215.25](https://fedlex.data.admin.ch/eli/cc/2017/311)
+[^ingress-1]: [RS 531.215.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7695)
 
 #### Art. 1
 
@@ -36,13 +36,15 @@ Les marchandises listées dans l’annexe font l’objet d’un stockage obligat
 
 La qualité des marchandises doit remplir en permanence les critères de la coopérative Agricura (Agricura)[^2-1] quant aux usages commerciaux et à la stockabilité.
 
-[^2-1]: Ces critères se trouvent sur le site d’Agricura à l’adresse suivante: www.agricura.ch/fr &gt; Bases juridiques
+[^2-1]: Ces critères se trouvent sur le site d’Agricura à l’adresse suivante: [www . agricura.ch/fr](http://www.agricura.ch/fr) &gt; Bases juridiques
 
 #### Art. 3
 
-**Quantité à stocker**
+**Quantité à stocker**[^3-1]
 
-Les propriétaires de réserves obligatoires doivent stocker, au total, 17 000 tonnes d’azote pur.
+La quantité totale d’azote pur stocké à titre obligatoire doit couvrir un tiers des besoins annuels moyens de la Suisse.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 562](https://fedlex.data.admin.ch/eli/oc/2025/562)).
 
 #### Art. 4
 
@@ -73,9 +75,11 @@ Agricura fixe les quantités à stocker pour chaque propriétaire, proportionnel
 
 **Stockage obligatoire par délégation ou en commun**
 
-<sup>1</sup> Un propriétaire peut procéder au transfert des deux tiers au maximum de la quantité totale fixée pour ses réserves au titre du stockage obligatoire par délégation ou en commun.
+<sup>1</sup> Les propriétaires peuvent procéder au transfert de tout ou partie des réserves prescrites au titre du stockage obligatoire par délégation ou en commun.[^6-1]
 
 <sup>2</sup> La création et l’organisation d’une société de stockage obligatoire en commun requièrent l’accord préalable de l’OFAE.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 562](https://fedlex.data.admin.ch/eli/oc/2025/562)).
 
 #### Art. 7
 
