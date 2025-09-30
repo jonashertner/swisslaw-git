@@ -3,11 +3,10 @@ canton: ZH
 number: "732.11"
 title: Verordnung über die Organisation und Verwaltung der Elektrizitätswerke des Kantons Zürich (EKZ-Verordnung)
 language: de
-version: "2019-07-01"
-nachtrag: "105"
-valid_until: 2025-10-01
+version: "2025-10-01"
+nachtrag: "132"
 adopted: 1985-02-13
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_11-1985_02_13-1985_10_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_11-1985_02_13-1985_10_01-132.html"
 text: pdf
 ---
 
@@ -38,15 +37,13 @@ beschliesst:
 
 <sup>3</sup> Über die Verhandlungen und die Beschlüsse wird ein Protokoll geführt, das der Präsident und der Sekretär unterzeichnen.
 
-#### § 2
-
 **b. Aufgaben**
 
-<sup>1</sup> Dem Verwaltungsrat stehen insbesondere zu:
+§ 2.[^1-1] <sup>1</sup> Dem Verwaltungsrat stehen insbesondere zu:
 
-- a. Wahl des Leitenden Ausschusses,
+- a. Einsetzung von Ausschüssen,
 
-- b. Wahl der Direktion,
+- b. Wahl der Geschäftsleitung,
 
 - c. Bezeichnung der Revisionsstelle,
 
@@ -54,54 +51,42 @@ beschliesst:
 
 - e. Erlass eines Reglementes über die Anstellungsbedingungen des Personals,
 
-- f. Wahl der Abteilungsleiter und Erteilung der Unterschriftsberechtigung,
+- f. Festsetzung der allgemeinverbindlichen Gebühren für Anschluss und Lieferung sowie der Bedingungen für die Energieabgabe,
 
-- g. Festsetzung der allgemeinverbindlichen Gebühren für Anschluss und Lieferung sowie der Bedingungen für die Energieabgabe,
+- g. Erlass von Richtlinien über den sparsamen Umgang mit Energie gemäss § 4 EKZ-Gesetz[^1-2],
 
-- h. Erlass von Richtlinien über den sparsamen Umgang mit Energie gemäss § 4 EKZ-Gesetz[^2-1],
+- h. Erlass weiterer allgemein verbindlicher Reglemente,
 
-- i. Erlass weiterer allgemein verbindlicher Reglemente,
+- i. Beschlussfassung über die Beteiligung an andern Unternehmungen gemäss § 11 EKZ-Gesetz[^1-2],
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 4. 26 - 132
 
-- k. Beschlussfassung über die Beteiligung an andern Unternehmungen gemäss § 11 EKZ-Gesetz[^2-1],
+- k. Festsetzung des jährlichen Voranschlags,
 
-- l. Festsetzung des jährlichen Voranschlags,
+- l. Verabschiedung von Geschäftsbericht und Jahresrechnung zuhanden des Kantonsrates, m.[^1-3] Beschluss über die Gewinnverwendung,
 
-- m. Verabschiedung von Geschäftsbericht und Jahresrechnung zuhanden des Kantonsrates, n.[^2-2] Beschluss über die Gewinnverwendung,
+- n. Vertretung der EKZ gegenüber dem Regierungsrat und dem Kantonsrat.
 
-- o. Vertretung der EKZ gegenüber dem Regierungsrat und dem Kantonsrat.
+<sup>2</sup> Andere Aufgaben kann er seinen Ausschüssen oder der Geschäftsleitung übertragen.
 
-<sup>2</sup> Andere Aufgaben kann er dem Leitenden Ausschuss oder der Direktion übertragen.
+§§ 3 und 4.[^1-4]
 
-[^2-1]: LS 732.1.
-[^2-2]: Eingefügt durch RRB vom 29. Juni 2016 (OS 74, 299; ABl 2016-07-08). In Kraft seit 1. Juli 2019 (ABl 2019-04-18).
+**2. Geschäftsleitung**
 
-#### § 3
+§ 5.[^1-1] Der Geschäftsleitung obliegt die unmittelbare Leitung der EKZ im Rahmen der ihr vom Geschäftsreglement übertragenen Zuständigkeiten. Sie hat im Verwaltungsrat beratende Stimme. Sie bereitet die Geschäfte des Verwaltungsrates vor, führt dessen Beschlüsse aus und vertritt die EKZ im Verkehr nach aussen.
 
-**2. Leitender Ausschuss a. Zusammensetzung b. Aufgaben**
-
-Der Leitende Ausschuss besteht aus dem Präsidenten, dem Vizepräsidenten und drei weiteren Mitgliedern des Verwaltungsrates.
-
-#### § 4
-
-Der Leitende Ausschuss nimmt die ihm im Geschäftsreglement übertragenen Aufgaben wahr. Er bereitet alle Geschäfte des Verwaltungsrates vor und stellt diesem Antrag.
-
-#### § 5
-
-**3. Direktion**
-
-Der Direktion obliegt die unmittelbare Leitung der EKZ im Rahmen der ihr vom Geschäftsreglement übertragenen Zuständigkeiten. Sie hat im Leitenden Ausschuss und im Verwaltungsrat beratende Stimme. Sie bereitet die Geschäfte des Leitenden Ausschusses und des Verwaltungsrates vor, führt deren Beschlüsse aus und vertritt die EKZ im Verkehr nach aussen.
-
-[^5-1]: LS 732.1.
+[^1-1]: Fassung gemäss RRB vom 5. März 2025 (OS 81, 54; ABl 2025-03-21). In Kraft seit 1. Oktober 2025.
+[^1-2]: LS 732.1.
+[^1-3]: Eingefügt durch RRB vom 29. Juni 2016 (OS 74, 299; ABl 2016-07-08). In Kraft seit 1. Juli 2019 (ABl 2019-04-18).
+[^1-4]: Aufgehoben durch RRB vom 5. März 2025 (OS 81, 54; ABl 2025-03-21). In Kraft seit 1. Oktober 2025.
 
 #### § 6
 
-**4. Revisionsstelle**
+**3. Revisionsstelle6**
 
-<sup>1</sup> Die von den EKZ und ihren Organen unabhängige Revisionsstelle prüft, ob die Buchführung und die Jahresrechnung sowie der Antrag über die Verwendung des Gewinns dem EKZ-Gesetz[^5-1] und dieser Verordnung entsprechen.
+<sup>1</sup> Die von den EKZ und ihren Organen unabhängige Revisionsstelle prüft, ob die Buchführung und die Jahresrechnung sowie der Antrag über die Verwendung des Gewinns dem EKZ-Gesetz[^1-2] und dieser Verordnung entsprechen.
 
 <sup>2</sup> Die Revisionsstelle muss besondere fachliche Voraussetzungen erfüllen und gemäss dem Schweizerischen Obligationenrecht anerkannt sein.
 
@@ -151,10 +136,6 @@ Der Direktion obliegt die unmittelbare Leitung der EKZ im Rahmen der ihr vom Ges
 
 <sup>5</sup> Der Kanton verwendet die Gewinnausschüttung zunächst zur Bestreitung der Kapitalkosten für die Refinanzierung des Grundkapitals.
 
-**3**
-
-- 1\. 7. 19 - 105
-
 [^8-1]: Fassung gemäss RRB vom 29. Juni 2016 (OS 74, 299; ABl 2016-07-08). In Kraft seit 1. Juli 2019 (ABl 2019-04-18).
 
 ### III. Schlussbestimmungen
@@ -165,10 +146,10 @@ Der Direktion obliegt die unmittelbare Leitung der EKZ im Rahmen der ihr vom Ges
 
 Das Organisationsstatut der Elektrizitätswerke des Kantons Zürich vom 30. September 1940 wird aufgehoben.
 
-[^11-1]: In Kraft seit 1. Oktober 1985 (OS 49, 435).
-
-#### § 12
+**3**
 
 **Inkrafttreten**
 
-Diese Verordnung tritt nach der Genehmigung durch den Kantonsrat auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^11-1].
+- 1\. 4. 26 - 132 § 12. Diese Verordnung tritt nach der Genehmigung durch den Kantonsrat auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^11-1].
+
+[^11-1]: In Kraft seit 1. Oktober 1985 (OS 49, 435).
