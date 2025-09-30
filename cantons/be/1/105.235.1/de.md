@@ -3,20 +3,20 @@ canton: BE
 number: "105.235.1"
 title: Regierungsratsbeschluss über den Beitritt zu den Vollzugsvereinbarungen zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
 language: de
-version: 2025-07-01
-valid_until: 2025-09-30
-version_adopted: 2025-05-28
+version: 2025-10-01
+valid_until: 2025-10-31
+version_adopted: 2025-08-27
 adopted: 2024-11-27
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/105.235.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3193/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3207/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über den Beitritt zu den Vollzugsvereinbarungen zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
 
-vom 27.11.2024 (Stand 01.07.2025)
+vom 27.11.2024 (Stand 01.10.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -46,6 +46,12 @@ beschliesst:
 <tr><td>Vollzugsvereinbarung Nr. 8 betreffend das Bürgerrecht</td><td>28.05.2025</td><td>01.10.2025</td><td>25-048</td><td>[105.235.1-8](https://www.belex.sites.be.ch/data/105.235.1-8/de)</td></tr>
 <tr><td>Vollzugsvereinbarung Nr. 9 betreffend die Verwaltung der in der Gemeinde Moutier gelegenen belasteten Standorte</td><td>28.05.2025</td><td>01.10.2025</td><td>25-049</td><td>[105.235.1-9](https://www.belex.sites.be.ch/data/105.235.1-9/de)</td></tr>
 <tr><td>Vollzugsvereinbarung Nr. 10 betreffend die Besteuerung und Zulassungsänderung von Fahrzeugen</td><td>28.05.2025</td><td>01.01.2026</td><td>25-050</td><td>[105.235.1-10](https://www.belex.sites.be.ch/data/105.235.1-10/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 11 betreffend die Übertragung der Kantonsstrassen und den Winterdienst</td><td>27.08.2025</td><td>01.10.2025</td><td>25-065</td><td>[105.235.1-11](https://www.belex.sites.be.ch/data/105.235.1-11/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 12 betreffend die Modalitäten der Übertragung an den Kanton Jura von Grundstücken des Kantons Bern</td><td>27.08.2025</td><td>01.10.2025</td><td>25-066</td><td>[105.235.1-12](https://www.belex.sites.be.ch/data/105.235.1-12/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 13 betreffend archäologische Objekte und Baudenkmäler</td><td>27.08.2025</td><td>01.10.2025</td><td>25-067</td><td>[105.235.1-13](https://www.belex.sites.be.ch/data/105.235.1-13/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 14 betreffend das Zivilstandswesen</td><td>27.08.2025</td><td>01.10.2025</td><td>25-068</td><td>[105.235.1-14](https://www.belex.sites.be.ch/data/105.235.1-14/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 15 betreffend die Anerkennung von Konzessionen für Wasserkraft- und Gebrauchswassernutzungen in der Gemeinde Moutier</td><td>27.08.2025</td><td>01.01.2026</td><td>25-069</td><td>[105.235.1-15](https://www.belex.sites.be.ch/data/105.235.1-15/de)</td></tr>
+<tr><td>Vollzugsvereinbarung Nr. 16 betreffend die Übertragung von Archiven</td><td>27.08.2025</td><td>01.01.2026</td><td>25-070</td><td>[105.235.1-16](https://www.belex.sites.be.ch/data/105.235.1-16/de)</td></tr>
 </table>
 
 #### Art. 2
