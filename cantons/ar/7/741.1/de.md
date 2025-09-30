@@ -4,13 +4,12 @@ number: "741.1"
 title: Gesetz über den Wasserbau und die Gewässernutzung
 short: Wasserbaugesetz; WBauG
 language: de
-version: 2016-01-01
-valid_until: 2025-09-30
-version_adopted: 2015-05-11
+version: 2025-10-01
+version_adopted: 2025-06-16
 adopted: 2006-09-25
 in_force: 2007-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/741.1"
-pdf: "https://ar.clex.ch/api/de/versions/1026/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1026/pdf_file"
 
 (Wasserbaugesetz; WBauG)
 
-vom 25.09.2006 (Stand 01.01.2016)
+vom 25.09.2006 (Stand 01.10.2025)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -34,13 +33,13 @@ beschliesst:
 
 #### Art. 1
 
-**Zweck**
+**Gegenstand und Zweck**
 
 <sup>1</sup> Dieses Gesetz regelt die wasserbaulichen Massnahmen, die Wasserbaupolizei und die Nutzung der Gewässer sowie den Vollzug der einschlägigen Bundesgesetzgebung[^1-1].
 
-<sup>2</sup> Es bezweckt, Menschen, Tiere und Sachwerte vor den Gefahren des Wassers zu schützen, die Gewässer natürlich zu erhalten oder naturnah zu gestalten sowie sinnvoll zu nutzen.
+<sup>2</sup> Es soll Menschen und erhebliche Sachwerte vor den schädigenden Einwirkungen des Wassers auf der Erdoberfläche schützen, insbesondere vor Überschwemmungen, Erosionen und Feststoffablagerungen.
 
-<sup>3</sup> Es teilt die Aufgaben der Bereiche Wasserbau und Gewässernutzung zwischen dem Kanton, den Gemeinden und den Privaten auf.
+<sup>3</sup> Es bezweckt die Erhaltung und Wiederherstellung naturnaher Gewässer.
 
 [^1-1]: WBG und Bundesgesetz über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG; SR [814.20](https://db.clex.ch/link/Bund/814.20/de))
 
@@ -61,7 +60,9 @@ beschliesst:
 
 <sup>2</sup> Private Gewässer sind insbesondere Quellen mit Ausnahme der Bach- und Flussquellen. Teiche, Kanäle, Staubecken und andere künstlich geschaffene Wasserableitungen und Wasserfassungsanlagen stehen in der Regel im privaten Eigentum. Die Nutzung des Wassers, das aus öffentlichen Gewässern abgeleitet ist, richtet sich nach dem öffentlichen Recht.
 
-<sup>3</sup> Bei Streitigkeiten über die Rechtsnatur von Gewässern entscheidet das Departement Bau und Volkswirtschaft. Der Regierungsrat legt in der Verordnung die rechtliche Bedeutung des Gewässerkatasters fest.
+<sup>3</sup> Bei Streitigkeiten über die Rechtsnatur von Gewässern entscheidet das Departement Bau und Volkswirtschaft.
+
+<sup>4</sup> Der Kanton führt ein öffentliches Informationssystem über die oberirdischen öffentlichen Gewässer (Gewässerkataster).
 
 #### Art. 4
 
@@ -83,17 +84,13 @@ beschliesst:
 
 <sup>3</sup> Vollzugsaufgaben können gemeinsam mit anderen Kantonen erfüllt oder an diese übertragen werden. Der Regierungsrat kann zu diesem Zweck Vereinbarungen abschliessen.
 
+<sup>4</sup> Der Regierungsrat ist für den Abschluss von Programmvereinbarungen mit dem Bund zuständig. Er kann die Zuständigkeit für die Fortschreibung von Programmvereinbarungen an das Departement Bau und Volkswirtschaft delegieren.
+
 #### Art. 6
 
-**Überwachung und Hochwasserbewältigung**
+**…**
 
-<sup>1</sup> Die Fachstelle überwacht die Gewässer und ordnet im Rahmen ihrer Zuständigkeiten die erforderlichen Massnahmen an. Die Verordnung regelt die Befugnisse der Fachstelle.
-
-<sup>2</sup> Bei drohendem Hochwasser oder bei Überschwemmungen treffen die Gemeindeorgane in ihrem Zuständigkeitsbereich die nötigen Sofortmassnahmen (Gefahrenabwehr und Gefahrenbegrenzung). Sie arbeiten dabei mit der Fachstelle und gegebenenfalls mit dem kantonalen Führungsstab (KFS) zusammen[^6-1]. Wiederinstandstellungsmassnahmen erfolgen stets in Absprachemit der Fachstelle.
-
-[^6-1]: Bevölkerungsschutzgesetz (bGS [511.1](https://ar.clex.ch/data/511.1/de))
-
-## 2. Abschnitt: Wasserbau
+## 2. Abschnitt: Hochwasserschutz und Revitalisierungen
 
 ### I. Allgemeines
 
@@ -101,99 +98,141 @@ beschliesst:
 
 **Hochwasserschutz**
 
-<sup>1</sup> Der Hochwasserschutz ist in erster Linie durch den sachgerechten Unterhalt der Gewässer und durch raumplanerische Massnahmen zu gewährleisten. Reicht dies nicht aus, sind die notwendigen baulichen bzw. technischen Vorkehren zu treffen[^7-1].
+<sup>1</sup> Das Hochwasserrisiko ist in erster Linie durch den Unterhalt der Gewässer und durch raumplanerische Massnahmen zu begrenzen. Reicht dies nicht aus, sind die notwendigen organisatorischen, ingenieurbiologischen und technischen Massnahmen zu treffen[^7-1].
 
-<sup>2</sup> Wegleitend für die Schutzziele sind die Vorschriften und Richtlinien des Bundes.
+<sup>2</sup> Die Massnahmen sind risikobasiert und integral zu planen sowie mit jenen aus anderen Bereichen gesamthaft und in ihrem Zusammenwirken zu beurteilen. Die Schutzziele richten sich nach den einschlägigen Empfehlungen des Bundes.
 
-<sup>3</sup> Die Erhaltung und Wiederherstellung naturnaher Gewässer ist grundsätzlich bei allen wasserbaulichen Massnahmen anzustreben[^7-2]. Revitalisierungen können unabhängig von Hochwasserschutzmassnahmen erfolgen, sofern sie verhältnismässig sind.
+<sup>3</sup> Der natürliche Verlauf der Gewässer ist bei allen Massnahmen möglichst beizubehalten oder wiederherzustellen. Die Gewässer und der Gewässerraum sind möglichst naturnah zu gestalten und zu unterhalten[^7-2].
 
-[^7-1]: Art. 4 WBG
-[^7-2]: Art. 37 und 38 GSchG, Art. 4 WBG
+[^7-1]: Art. 3 WBG (SR [721.100](https://db.clex.ch/link/Bund/721.100/de))
+[^7-2]: Art. 4 WBG (SR [721.100](https://db.clex.ch/link/Bund/721.100/de)), Art. 37 GSchG (SR [814.20](https://db.clex.ch/link/Bund/814.20/de))
 
 #### Art. 8
 
-**Planerische Grundlagen**
+**Revitalisierungen**
 
-<sup>1</sup> Die Fachstelle
+<sup>1</sup> Der Kanton sorgt für eine ökologische und landschaftliche Aufwertung der Gewässer und der Gewässerräume durch Revitalisierung.
 
-- a) führt einen Gewässerkataster;
-- b) führt einen Ereigniskataster und dokumentiert grössere Schadensereignisse;
-- c) erstellt Gefahrenhinweis- und Gefahrenkarten betreffend die Gewässer;
-- d) kann Messstellen betreiben.
+<sup>2</sup> Massnahmen zur Revitalisierung sind insbesondere die Wiederherstellung des natürlichen Verlaufs und die naturnahe Gestaltung von Gewässern und Gewässerräumen.
+
+<sup>3</sup> Nutzen und Kosten der Revitalisierungen müssen in einem ausgewogenen Verhältnis stehen.
 
 #### Art. 9
 
-**Gefahrenkarten und Raumbedarf der Gewässer**
+**Grundlagen und Planung**
 
-<sup>1</sup> Die Gefahrenkarten werden nach den Richtlinien des Bundes festgelegt. Der Raumbedarf der Gewässer bestimmt sich nach Art. 114 Baugesetz[^9-1].
+<sup>1</sup> Der Kanton erarbeitet die notwendigen Grundlagen für den Hochwasserschutz und die Revitalisierungen und führt sie periodisch nach.
 
-<sup>2</sup> Die Gemeinden berücksichtigen die Ergebnisse der Gefahrenkarten und des Raumbedarfs der Gewässer in ihrer Richt- und Nutzungsplanung.
+<sup>2</sup> Der Regierungsrat erlässt eine Revitalisierungsplanung nach Massgabe des Bundesrechts[^9-1].
 
-[^9-1]: Gesetz über die Raumplanung und das Baurecht (Baugesetz; bGS [721.1](https://ar.clex.ch/data/721.1/de))
+<sup>3</sup> Kanton und Gemeinden berücksichtigen die Grundlagen des Hochwasserschutzes und die Revitalisierungsplanung in ihrer Richt- und Nutzungsplanung und bei ihrer übrigen raumwirksamen Tätigkeit.
 
-### II. Unterhalt und Ausbau
+[^9-1]: Art. 41d Abs. 2 Gewässerschutzverordnung (GSchV; SR [814.201](https://db.clex.ch/link/Bund/814.201/de))
+
+#### Art. 9a
+
+**Wasserbauprogramm**
+
+<sup>1</sup> Der Regierungsrat erlässt ein mehrjähriges Wasserbauprogramm mit Hochwasserschutz- und Revitalisierungsmassnahmen. Die Gemeinden sind vorgängig anzuhören.
+
+<sup>2</sup> Massnahmen, die im Wasserbauprogramm nicht enthalten sind, können beschlossen werden, wenn sie dringlich sind.
+
+#### Art. 9b
+
+**Überwachung und Hochwasserbewältigung**
+
+<sup>1</sup> Der Kanton überwacht die Gewässer und kontrolliert periodisch die risikorelevanten Schutzbauten.
+
+<sup>2</sup> Die Gemeinden treffen vorsorglich organisatorische Massnahmen zur Hochwasserbewältigung wie Warneinrichtungen und Einsatzplanungen sowie technische Vorkehrungen für Notfalleinsätze. Bundesbeiträge für solche Massnahmen stehen der Gemeinde zu.
+
+<sup>3</sup> Bei einem drohenden oder eingetretenen Hochwasserereignis ergreifen die Gemeinden die erforderlichen Sofortmassnahmen zur Gefahrenabwehr und Schadenbegrenzung. Sie arbeiten mit den zuständigen kantonalen Stellen zusammen.
+
+### II. Gewässerunterhalt und Wasserbauprojekte
 
 #### Art. 10
 
-**Grundsatz**
+**Gewässerunterhalt**
 
-<sup>1</sup> Der sachgerechte Gewässerunterhalt gewährleistet die Abflusskapazität von Flüssen und Bächen und stellt die Funktion der Schutzbauten sicher.
+<sup>1</sup> Der Gewässerunterhalt gewährleistet die Abflusskapazität, stellt die Funktion der Schutzbauten sicher und trägt dazu bei, die natürlichen Funktionen der Gewässer zu erhalten und wiederherzustellen.
 
-<sup>2</sup> Als Unterhaltsmassnahmen sind das Zurückschneiden von einengenden Gehölzen, die Entfernung von Fallholz und hinderlichen Ablagerungen, die Leerung von Rückhaltebauten, die Behebung kleinerer Schäden an Schutzbauten und der Ersatz von fehlender oder beschädigter Uferbestockung zu bezeichnen.
+<sup>2</sup> Als Gewässerunterhalt gelten alle regelmässig oder nach Schadenereignissen erforderlichen Massnahmen wie das Zurückschneiden von einengenden Gehölzen, die Entfernung von Fallholz und hinderlichen Ablagerungen, die Leerung von Rückhaltebauten, die Behebung kleinerer Schäden an Schutzbauten und der Ersatz von fehlender oder beschädigter Uferbestockung.
 
-<sup>3</sup> Als Ausbaumassnahmen gelten alle über den Unterhalt hinausgehenden Arbeiten, beispielsweise Kapazitätserweiterungen (Gerinnevergrösserungen), Rückhaltebauten, Entlastungsgerinne, altersbedingte Erneuerung oder Ersatz von Schutzbauten, Sicherungen von Sohle und Ufer und Vorkehrungen gegen Sohlenbewegungen.
+<sup>3</sup> Die Eigentümerinnen und Eigentümer der an die Gewässer angrenzenden Grundstücke sind zum Gewässerunterhalt verpflichtet. Vorbehalten bleiben spezielle Regelungen in Unterhaltsperimetern.
 
-<sup>4</sup> Die Unterhalts- und Ausbaumassnahmen sind möglichst nach ökologischen Grundsätzen durchzuführen. Die Ufergehölze sind grundsätzlich geschützt[^10-1].
-
-[^10-1]: Art. 21 des Bundesgesetzes über den Natur- und Heimatschutz (NHG; SR [451](https://db.clex.ch/link/Bund/451/de))
+<sup>4</sup> Massnahmen des Gewässerunterhalts werden durch den Kanton ausgeführt, wenn dies aus technischen oder wirtschaftlichen Gründen angezeigt ist. Unterhaltsverpflichtete sind an den Kosten angemessen zu beteiligen. Die Kostenanteile der öffentlichen Hand gelten als gebundene Ausgaben und richten sich sinngemäss nach Art. 16 Abs. 1.
 
 #### Art. 11
 
-**Zuständigkeiten**
+**Wasserbauprojekte**
 
-<sup>1</sup> Die Eigentümerinnen und Eigentümer der an die öffentlichen Gewässer angrenzenden Grundstücke sind zum Unterhalt der Gewässer verpflichtet, soweit dies technisch möglich und wirtschaftlich tragbar ist. Die Ufer sind in gutem Zustand zu halten. Der freie Wasserlauf darf nicht behindert werden. Spezielle Regelungen in Unterhaltsperimetern bleiben vorbehalten.
+<sup>1</sup> Wasserbauprojekte umfassen alle über den Unterhalt hinausgehenden Massnahmen, insbesondere Kapazitätserweiterungen (Gerinnevergrösserungen), Rückhaltebauten, Entlastungsgerinne, altersbedingte Erneuerung von Schutzbauten oder deren Ersatz, Sicherungen von Sohle und Ufer, Vorkehrungen gegen Sohlebewegungen sowie Massnahmen zur Revitalisierung.
 
-<sup>2</sup> Unterhaltsmassnahmen, die für Grundeigentümerinnen und Grundeigentümer im Sinne von Abs. 1 weder technisch möglich noch wirtschaftlich tragbar sind sowie Ausbaumassnahmen beschliesst der Regierungsrat. Bei Wasserbauprojekten von untergeordneter Bedeutung liegt diese Zuständigkeit beim Departement Bau und Volkswirtschaft. Der Regierungsrat verfügt über eine Ausgabenkompetenz von Fr. 1.0 Mio. für nicht gebundene Ausgaben. Das Departement Bau und Volkswirtschaft verfügt über eine Ausgabenkompetenz von Fr. 250 000.– sowohl für gebundene als auch für nicht gebundene Ausgaben.
+<sup>2</sup> Die Realisierung von Wasserbauprojekten obliegt dem Kanton. Er kann die Projektierung und Umsetzung auf Gemeinden oder Dritte übertragen.
 
-<sup>3</sup> Träger entsprechender Projekte können auch die Gemeinden sein. Die Gemeinde spricht sich vor Projektierungsbeginn mit der Fachstelle ab. Das Departement Bau und Volkswirtschaft legt die einzuhaltenden Projektierungsbedingungen fest. Vor Baubeginn ist die Bewilligung des Departements einzuholen.
+<sup>3</sup> Gemeinden, betroffene Grundeigentümerinnen und Grundeigentümer sowie Werke sind jeweils rechtzeitig über anstehende Wasserbauprojekte zu informieren. Es ist ihnen Gelegenheit zur Mitwirkung einzuräumen.
 
-<sup>4</sup> Für mehrjährige Programmvereinbarungen mit dem Bund bis zur Höhe von Fr. 5.0 Mio. ist der Regierungsrat abschliessend zuständig.
+<sup>4</sup> …
 
-### III. Verfahren
+### III. Planauflageverfahren
 
 #### Art. 12
 
-**Planungsmassnahmen**
+**Projektbeschluss**
 
-<sup>1</sup> Die Gefahrenhinweiskarte wird im Rahmen der kantonalen Richtplanung[^12-1] erstellt und in den Richtplan integriert. Sie orientiert über mutmassliche, von Gewässern ausgehende Gefahrenpotenziale.
+<sup>1</sup> Wasserbauprojekte werden durch den Regierungsrat beschlossen. Er kann die Kompetenz für untergeordnete Projekte an das Departement Bau und Volkswirtschaft delegieren.
 
-<sup>2</sup> Die Gefahrenkarte wird durch das Departement Bau und Volkswirtschaft erlassen. Art. 6 Baugesetz ist sinngemäss anzuwenden. Die Gefahrenkarte weist behördenverbindlichen Charakter auf.
+<sup>2</sup> Für Projekte mit neuen Ausgaben von mehr als 1'000'000 Franken ist ein Verpflichtungskredit[^12-1] des zuständigen Organs erforderlich.
 
-<sup>3</sup> Die weiteren planerischen Massnahmen erfolgen mit den üblichen raumplanerischen Instrumenten und Verfahren.
+<sup>3</sup> Mit dem Projektbeschluss ist das Projekt zur Durchführung des Auflageverfahrens freigegeben.
 
-[^12-1]: Art. 7 ff. und Art. 12 ff. Baugesetz
+<sup>4</sup> Für den in Ausnahmefällen vorsorglichen Landerwerb zugunsten von Wasserbauprojekten ist der Regierungsrat abschliessend zuständig.
+
+[^12-1]: vgl. Art. 17 Finanzhaushaltsgesetz (FHG; bGS [612.0](https://ar.clex.ch/data/612.0/de))
 
 #### Art. 13
 
-**Wasserbauprojekte**
+**Auflageverfahren**
 
-<sup>1</sup> Der Regierungsrat, oder in den Fällen von Art. 11 Abs. 2 das Departement Bau und Volkswirtschaft, beschliesst über die Projekt- und die Kreditgenehmigung von Wasserbauprojekten und erteilt die Freigabe zur öffentlichen Auflage. Betroffene Grundeigentümerinnen und Grundeigentümer sowie die betroffenen Gemeinden sind in geeigneter Weise rechtzeitig über das Projekt zu informieren und einzubeziehen. Neubau- und Korrektionsprojekte sind dem Gemeinderat zur Vernehmlassung zuzustellen.
+<sup>1</sup> Das Projekt ist während 30 Tagen in der Gemeinde öffentlich aufzulegen. Wo technisch möglich, ist das Projekt während der Auflage zu visieren.
 
-<sup>2</sup> Die Projektpläne von Wasserbauprojekten gemäss Art. 11 Abs. 2 oder 3 sind während 20 Tagen auf der Gemeinde öffentlich aufzulegen. Der Bau- und Unterhaltsperimeter wird in der Regel gleichzeitig aufgelegt. Die Projekte sind, wo technisch möglich, während dieser Zeit zu visieren.
+<sup>2</sup> Die Auflage ist im kantonalen Amtsblatt bekannt zu machen. Betroffene Grundeigentümerinnen und Grundeigentümer sind schriftlich über die Auflage zu informieren.
 
-<sup>3</sup> Die Auflage wird im Amtsblatt angezeigt. Direkt anstossende Grundeigentümerinnen und Grundeigentümer werden schriftlich benachrichtigt. Die Verordnung bestimmt, in welchen Fällen auf die öffentliche Auflage verzichtet werden kann.
+<sup>3</sup> Wer private Rechte abtreten muss, wird gleichzeitig über das Enteignungsbegehren informiert. Die schriftliche Anzeige gilt als Einleitung des Enteignungsverfahrens.
 
-<sup>4</sup> Innerhalb der Auflagefrist können Einsprachen schriftlich, mit bestimmten Begehren und begründet beim Departement Bau und Volkswirtschaft eingereicht werden. Die Legitimation zur Einsprache richtet sich nach Art. 111 Baugesetz.
+<sup>4</sup> …
 
 #### Art. 14
 
 **Einspracheverfahren**
 
-<sup>1</sup> Erfüllt die Einsprache die formellen Voraussetzungen, so versucht die Fachstelle, sich mit der Einsprecherin oder dem Einsprecher zu verständigen. Falls die Verständigung wesentliche Änderungen zur Folge hat, ist die öffentliche Auflage zu wiederholen.
+<sup>1</sup> Gegen Projekt und Enteignungsbegehren kann innerhalb der Auflagefrist schriftlich Einsprache erhoben werden. Die Einsprache hat ein bestimmtes Begehren und eine Begründung zu enthalten. Die Legitimation richtet sich nach Art. 111 des Baugesetzes[^14-1].
 
-<sup>2</sup> Kann die Einsprache nicht gütlich erledigt werden, entscheidet der Regierungsrat, oder in den Fällen von Art. 11 Abs. 2 das Departement, über die Einsprache.
+<sup>2</sup> Einsprachen werden soweit möglich auf dem Weg der Verständigung erledigt. Über Einsprachen, die nicht gütlich erledigt werden können, entscheidet die für den Projektbeschluss zuständige Behörde. Bei wesentlichen Änderungen ist die öffentliche Auflage zu wiederholen.
 
-<sup>3</sup> Einsprache- und Projektbeschlüsse des Departements sind mit Rekurs beim Regierungsrat anfechtbar.
+<sup>3</sup> Der weitere Rechtsweg richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^14-2].
+
+[^14-1]: bGS [721.1](https://ar.clex.ch/data/721.1/de)
+[^14-2]: VRPG (bGS [143.1](https://ar.clex.ch/data/143.1/de))
+
+#### Art. 14a
+
+**Enteignungsrecht**
+
+<sup>1</sup> Mit der rechtskräftigen Erledigung des Planauflageverfahrens steht dem Kanton das Enteignungsrecht für das benötigte Land sowie die übrigen Rechte zu.
+
+<sup>2</sup> Das Enteignungsrecht kann auf Gemeinden oder Dritte übertragen werden.
+
+<sup>3</sup> Soweit dieses Gesetz nichts anderes bestimmt, richtet sich das Enteignungsverfahren nach dem Enteignungsgesetz[^14a-1].
+
+[^14a-1]: bGS [711.1](https://ar.clex.ch/data/711.1/de)
+
+#### Art. 14b
+
+**Vereinfachtes Verfahren**
+
+<sup>1</sup> Bei untergeordneten Wasserbauprojekten mit wenigen Einspracheberechtigten kann auf die öffentliche Auflage und Visierung verzichtet werden. Vorbehalten bleiben die Bestimmungen über Enteignungs- und Perimeterverfahren.
+
+<sup>2</sup> Einspracheberechtigte sind unter Ansetzung einer Einsprachefrist von 30 Tagen über das Projekt sowie über den Verzicht auf Auflage und Visierung zu informieren.
 
 ### IV. Finanzierung
 
@@ -201,25 +240,25 @@ beschliesst:
 
 **Kostentragung**
 
-<sup>1</sup> Die Kosten von Wasserbauprojekten sind, soweit nicht durch Beiträge der öffentlichen Hand gedeckt, von den Eigentümerinnen und Eigentümern perimeterpflichtiger Grundstücke und Werkanlagen zu tragen. Perimeterpflichtig sind Grundstücke und Anlagen, wenn sie im Schutzbereich (Perimeter) des Wasserbauprojekts liegen.
+<sup>1</sup> Die Kosten von Wasserbauprojekten sind, soweit nicht durch Beiträge der öffentlichen Hand gedeckt, von den Eigentümerinnen und Eigentümern perimeterpflichtiger Grundstücke und Werkanlagen zu tragen. Vorbehalten bleibt die Erhebung von Beiträgen nach Abs. 4.
 
-<sup>2</sup> Die Beiträge der Perimeterpflichtigen werden nach Massgabe der Vorteile berechnet, welche den pflichtigen Grundstücken und Anlagen aus den Ausbaumassnahmen erwachsen.
+<sup>2</sup> Perimeterpflichtig sind Grundstücke und Anlagen, wenn sie im Schutzbereich (Perimeter) des Wasserbauprojekts liegen. Die Beiträge werden nach Massgabe der Vorteile berechnet, die den Grundstücken und Anlagen aus den Massnahmen erwachsen.
 
-<sup>3</sup> Die Eigentümerinnen und Eigentümer sind verpflichtet, ihre privaten Nutzungsanlagen wie Einleitungen, Werkleitungen, Dämme, Brücken, Stege, Mauern usw. auf eigene Kosten zu unterhalten, zu ersetzen oder anzupassen.
+<sup>3</sup> Die Eigentümerinnen und Eigentümer sind verpflichtet, ihre Nutzungsanlagen wie Einleitungen, Werkleitungen, Dämme, Brücken, Stege, Durchlässe, Mauern usw. auf eigene Kosten zu unterhalten, zu ersetzen oder anzupassen.
 
-<sup>4</sup> Die Gefahrenkarten werden durch den Kanton finanziert. Die Aufwendungen für deren raumplanerische Umsetzung trägt die betroffene Gemeinde. Der Kanton finanziert ausserdem die Messstellen.
+<sup>4</sup> Durch Wasserbauprojekte erlangte Sondervorteile sind auszugleichen. Als Sondervorteile gelten Vorteile, die über den Nutzen im Sinne von Abs. 2 hinausgehen. Die Beitragspflicht ist nicht an den Perimeter gebunden.
 
-<sup>5</sup> Für den in Ausnahmefällen vorsorglichen Landerwerb zugunsten von Wasserbauprojekten ist der Regierungsrat abschliessend zuständig.
+<sup>5</sup> …
 
 #### Art. 16
 
 **Beiträge der öffentlichen Hand**
 
-<sup>1</sup> Werden Wasserbauprojekte durch den Bund mitfinanziert, ergänzt der Kanton die Bundesbeiträge auf 72 % der gesamten Kosten. Die Gemeinde übernimmt mindestens 14 % der Gesamtkosten. Die Perimeterpflichtigen tragen die restlichen Kosten. Die Gemeinde kann ihren Anteil erhöhen. Die Gemeindebeiträge gelten als gebundene Ausgaben.
+<sup>1</sup> Der Kanton übernimmt 72 % und die Gemeinde 14 % der Gesamtkosten von Hochwasserschutzmassnahmen in Wasserbauprojekten. Die Kantonsbeiträge werden um allfällige Bundesbeiträge gekürzt. Die Gemeinde kann ihren Anteil erhöhen. Die Gemeindebeiträge gelten als gebundene Ausgaben.
 
-<sup>2</sup> Spricht der Bund keine Beiträge, werden die Kosten von Wasserbauprojekten zu 72 % vom Kanton getragen. Die verbleibenden Kosten werden gemäss Abs. 1 aufgeteilt.
+<sup>2</sup> Der Kanton übernimmt 80 % und die Gemeinde 20 % der nicht anderweitig gedeckten Kosten von Revitalisierungsmassnahmen in Wasserbauprojekten. Allfällige Beiträge des Bundes und Dritter werden vorab von den Gesamtkosten abgezogen.
 
-<sup>3</sup> Durch Wasserbauprojekte erlangte Sondervorteile sind bei der Festsetzung der Beiträge auszugleichen. Als Sondervorteile gelten Vorteile, die über den wasserbaulichen Nutzen hinausgehen.
+<sup>3</sup> …
 
 <sup>4</sup> Die Finanzierung im Falle von Hochwasserereignissen bemisst sich nach Art. 25 des Bevölkerungsschutzgesetzes.
 
@@ -229,7 +268,7 @@ beschliesst:
 
 <sup>1</sup> Die anteilsmässige Höhe der Perimeterbeiträge wird auf Basis der Grundstücksfläche oder eines Schätzungswertes durch die Perimeterkommission festgelegt. Sie setzt die Beitragsanteile für Anstösser, denen der ordentliche Unterhalt der Ufer obliegt, nach der Anstosslänge fest. Für alle beitragspflichtigen Grundstücke und Anlagen definiert die Perimeterkommission zudem nach Gefährdung abgestufte Beitragsquoten.
 
-<sup>2</sup> Das Perimeterverfahren wird durch die Perimeterkommission durchgeführt. Diese erstellt einen Kostenverteiler, der während 20 Tagen öffentlich aufgelegt wird. Beitragspflichtige können dagegen Einsprache erheben. Die Kommisssion entscheidet über nicht gütlich bereinigte Einsprachen. Rekursinstanz ist der Regierungsrat.
+<sup>2</sup> Das Perimeterverfahren wird durch die Perimeterkommission durchgeführt. Diese erstellt einen Kostenverteiler, der zusammen mit dem Wasserbauprojekt unter schriftlicher Anzeige an die Beitragspflichtigen während 30 Tagen öffentlich aufgelegt wird. Die Beitragspflichtigen können während der Auflage Einsprache erheben. Die Kommission entscheidet über nicht gütlich bereinigte Einsprachen. Rekursinstanz ist der Regierungsrat.
 
 <sup>3</sup> Der Kantonsrat erlässt eine Perimeterverordnung[^17-1], in der er die Bestellung und Aufgabe der Perimeterkommission, die Einzelheiten der Beitragspflicht und -berechnung sowie das Perimeterverfahren regelt.
 
@@ -245,34 +284,29 @@ beschliesst:
 
 <sup>2</sup> Der freie Abfluss öffentlicher Gewässer darf nicht durch Bauten, Anlagen, Ablagerung von Material oder sonstwie behindert oder gefährdet werden.
 
-<sup>3</sup> Der Abstand, den Bauten und Anlagen gegenüber öffentlichen Gewässern einzuhalten haben, bemisst sich nach Art. 114 Baugesetz.
+<sup>3</sup> …
 
 #### Art. 19
 
-**Bewilligungspflicht**
+**Wasserbaupolizeiliche Bewilligung**
 
-<sup>1</sup> Die Erstellung, Änderung und Beseitigung von Bauten und Anlagen innerhalb des Gewässerabstandes gemäss Art. 114 Baugesetz sind bewilligungspflichtig.
+<sup>1</sup> Einer wasserbaupolizeilichen Bewilligung bedürfen:
 
-<sup>2</sup> Die Bewilligungspflicht gilt ausserdem für bauliche Massnahmen in wasserbaulich relevanten Gefahrenzonen[^19-1] und in Gebieten, für die in der Gefahrenhinweiskarte eine Hochwassergefahr bezeichnet wird.
+- a) Bauvorhaben im Gewässerraum;
+- b) Bauvorhaben, die den Gewässerabstand nach Art. 114 Abs. 1 des Baugesetzes[^19-1] unterschreiten;
+- c) Bauvorhaben in Gefahrengebieten mit Hochwasserrisiko.
+
+<sup>2</sup> Der Regierungsrat kann Ausnahmen vorsehen.
 
 <sup>3</sup> Ordentliche Unterhaltsarbeiten und Wasserbauprojekte sind nicht im Sinne dieser Bestimmung bewilligungspflichtig.
 
-<sup>4</sup> Bewilligungspflichten aufgrund anderer Gesetze bleiben vorbehalten.
+<sup>4</sup> …
 
-[^19-1]: Art. 36 Baugesetz
+[^19-1]: bGS [721.1](https://ar.clex.ch/data/721.1/de)
 
 #### Art. 20
 
-**Zuständigkeit und Verfahren**
-
-<sup>1</sup> Gesuche sind bei der Gemeinde einzureichen. Das Verfahren wird nach den formellen Bauvorschriften des Baugesetzes[^20-1] und der Bauverordnung[^20-2] abgewickelt.
-
-<sup>2</sup> Wasserbaupolizeiliche Bewilligungen werden durch die Fachstelle erteilt.
-
-<sup>3</sup> Die Entfernung vorschriftswidriger Bauten oder Anlagen richtet sich nach Art. 108 Baugesetz. Auch die Fachstelle kann Baueinstellungen verfügen, wenn noch keine Bewilligung erteilt wurde.
-
-[^20-1]: Art. 97 ff. Baugesetz
-[^20-2]: bGS [721.11](https://ar.clex.ch/data/721.11/de)
+**…**
 
 ## 4. Abschnitt: Gewässernutzung
 
@@ -362,6 +396,12 @@ beschliesst:
 <sup>2</sup> Zur Beurteilung von Streitigkeiten zwischen Nutzungsberechtigten unter sich über den Bestand, Inhalt und Umfang ihrer Rechte ist grundsätzlich das Kantonsgericht zuständig. Bei direkter Beteiligung von Konzessions- oder Bewilligungsnehmenden gemäss Art. 26 liegt die Zuständigkeit beim Regierungsrat.
 
 ## 5. Abschnitt: Schluss- und Übergangsbestimmungen
+
+#### Art. 28a
+
+**Zutrittsrecht**
+
+<sup>1</sup> Mit dem Vollzug betraute Stellen dürfen private Grundstücke zur Erfüllung gesetzlicher Aufgaben betreten und vorübergehend nutzen.
 
 #### Art. 29
 
