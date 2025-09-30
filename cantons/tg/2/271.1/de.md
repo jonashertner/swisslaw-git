@@ -4,13 +4,12 @@ number: "271.1"
 title: Gesetz über die Zivil- und Strafrechtspflege
 short: ZSRG
 language: de
-version: 2022-01-01
-valid_until: 2025-09-30
-version_adopted: 2021-03-24
+version: 2025-10-01
+version_adopted: 2025-04-02
 adopted: 2009-06-17
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2091/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2941/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ ZSRG
 
 (ZSRG)
 
-vom 17.06.2009 (Stand 01.01.2022)
+vom 17.06.2009 (Stand 01.10.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -163,11 +162,13 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 **Friedensrichterin oder Friedensrichter**
 
-<sup>1</sup> Jeder Bezirk hat eine Friedensrichterin oder einen Friedensrichter. Sie oder er kann in mehreren Bezirken tätig sein und ist administrativ dem Betreibungsamt angegliedert.
+<sup>1</sup> Jeder Bezirk hat eine Friedensrichterin oder einen Friedensrichter. Sie oder er kann in mehreren Bezirken tätig sein.
 
 <sup>2</sup> …
 
-<sup>3</sup> Das Obergericht regelt die Stellvertretung und die Wählbarkeitsvoraussetzungen.
+<sup>3</sup> Das Obergericht regelt die Organisation, die Wählbarkeitsvoraussetzungen und die Stellvertretung. Es bestimmt nach Rücksprache mit den Bezirksgerichtspräsidentinnen oder Bezirksgerichtspräsidenten das Pensum der Friedensrichterinnen und Friedensrichter.
+
+<sup>3<sup>bis</sup></sup> Bei längerer Abwesenheit einer Friedensrichterin oder eines Friedensrichters gilt § 22a ZSRG analog, wenn eine Stellvertretung durch eine gewählte Friedensrichterin oder einen gewählten Friedensrichter nicht möglich ist.
 
 <sup>4</sup> Ein Mitglied oder Ersatzmitglied eines Bezirksgerichtes oder des Obergerichtes kann nicht Friedensrichterin oder Friedensrichter sein.
 
@@ -254,16 +255,28 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 #### § 22
 
-**Ersatzlösungen**
+**Vorgehen bei Beschlussunfähigkeit wegen Ausstands**
 
-<sup>1</sup> Muss die Gesamtheit oder müssen so viele Mitglieder eines Bezirksgerichtes den Ausstand wahren, dass eine genügende Besetzung auch unter Zuzug der Ersatzmitglieder nicht möglich ist, bezeichnet das Obergericht ein anderes Bezirksgericht als Ersatzgericht.
+<sup>1</sup> Tritt die Gesamtheit oder treten so viele Mitglieder eines Bezirksgerichtes in den Ausstand oder wird der Ausstand der Gesamtheit oder von so vielen Mitgliedern eines Bezirksgerichtes verlangt, dass eine genügende Besetzung auch unter Zuzug der Ersatzmitglieder nicht möglich ist, entscheidet darüber ein anderes, vom Obergericht bestimmtes Bezirksgericht.
 
-<sup>2</sup> Ist bei einem Bezirksgericht ein ordentlicher Betrieb wegen längerer Abwesenheit von Berufsrichterinnen oder Berufsrichtern infolge Schwangerschaft und Mutterschaft, Erfüllung gesetzlicher Pflichten, Krankheit, Unfall oder wegen Überbelastung mit ausserordentlich aufwendigen Verfahren nicht mehr gewährleistet, kann das Obergericht:
+<sup>2</sup> Der Entscheid jenes Bezirksgerichtes ist mit Beschwerde nach Art. 319 ff. ZPO beim Obergericht anfechtbar.
 
-- 1\. die Pensen der Mitglieder und Mitarbeiterinnen oder Mitarbeiter des Bezirksgerichtes erhöhen und die befristete Anstellung ausserordentlicher Gerichtsschreiberinnen oder Gerichtsschreiber bewilligen
-- 2\. für einzelne Fälle ein anderes Bezirksgericht als Ersatzgericht bezeichnen.
+<sup>3</sup> Bei Bejahung des Ausstands wird das vom Obergericht bestimmte Bezirksgericht als Ersatzgericht eingesetzt.
 
-<sup>3</sup> Unter den Voraussetzungen von Abs. 2 kann der Grosse Rat auf Antrag des Obergerichtes für maximal zwei Jahre eine ausserordentliche Berufsrichterin oder einen ausserordentlichen Berufsrichter wählen.
+<sup>4</sup> Das Obergericht regelt die Einzelheiten in der Verordnung.
+
+#### § 22a
+
+**Massnahmen, wenn ein ordentlicher Betrieb nicht mehr möglich ist**
+
+<sup>1</sup> Ist bei einem Bezirksgericht ein ordentlicher Betrieb wegen längerer Abwesenheit von Berufsrichterinnen oder Berufsrichtern infolge Schwangerschaft und Mutterschaft, Erfüllung gesetzlicher Pflichten, Krankheit, Unfall oder wegen Überbelastung mit ausserordentlich aufwendigen Verfahren nicht mehr gewährleistet, kann das Obergericht
+
+- 1\. die Pensen der Mitglieder und Mitarbeiterinnen oder Mitarbeiter des Bezirksgerichtes erhöhen und die befristete Anstellung ausserordentlicher Gerichtsschreiberinnen oder Gerichtsschreiber bewilligen oder
+- 2\. für einzelne Fälle im Einverständnis mit den Parteien ein anderes Bezirksgericht als Ersatzgericht bezeichnen.
+
+<sup>2</sup> Unter den Voraussetzungen von Abs. 1 kann der Grosse Rat auf Antrag des Obergerichtes für maximal zwei Jahre eine ausserordentliche Berufsrichterin oder einen ausserordentlichen Berufsrichter wählen.
+
+<sup>3</sup> Die ausserordentliche Berufsrichterin oder der ausserordentliche Berufsrichter darf ausserhalb des Bezirks eine berufsmässige Tätigkeit als Anwältin oder Anwalt ausüben. Sie oder er darf weder beim Obergericht noch beim Zwangsmassnahmengericht angestellt sein oder einer Schlichtungsbehörde im gleichen Bezirk angehören.
 
 ### 2.3. Zwangsmassnahmengericht
 
@@ -273,7 +286,7 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 <sup>1</sup> Das Zwangsmassnahmengericht besteht aus einer Berufsrichterin als Präsidentin oder einem Berufsrichter als Präsident sowie zwei bis drei nebenamtlichen Mitgliedern, die als Einzelrichterin oder Einzelrichter tätig sind.
 
-<sup>2</sup> Müssen alle Mitglieder des Gerichtes den Ausstand wahren, bezeichnet das Obergericht das Präsidium eines unbeteiligten Bezirksgerichtes als ausserordentliche Stellvertretung.
+<sup>2</sup> Treten alle Mitglieder des Gerichtes in den Ausstand oder wird ein Ausstand aller Mitglieder verlangt, entscheidet darüber ein vom Obergericht bestimmtes Bezirksgericht. Dieser Entscheid ist mit Beschwerde nach Art. 319 ff. ZPO beim Obergericht anfechtbar. Bei Bejahung des Ausstands wird das vom Obergericht bestimmte Bezirksgerichtspräsidium als Ersatzgericht eingesetzt.
 
 #### § 24
 
@@ -287,13 +300,13 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 **Zusammensetzung, Ersatzgericht**
 
-<sup>1</sup> Das Obergericht besteht aus einer Berufsrichterin als Präsidentin oder einem Berufsrichter als Präsidenten, einer Berufsrichterin als Vizepräsidentin oder einem Berufsrichter als Vizepräsidenten und drei bis sechs Berufsrichterinnen oder Berufsrichtern sowie drei bis sechs Ersatzmitgliedern.
+<sup>1</sup> Das Obergericht besteht aus fünf bis acht Berufsrichterinnen oder Berufsrichtern sowie drei bis sechs Ersatzmitgliedern. Das Präsidium und das doppelte Vizepräsidium werden durch Berufsrichterinnen oder Berufsrichter besetzt.
 
 <sup>1<sup>bis</sup></sup> Der Grosse Rat wählt die Obergerichtspräsidentin oder den Obergerichtspräsidenten aus der Mitte der Oberrichterinnen und Oberrichter für längstens zwei Amtsperioden. Erfolgt die Wahl während der laufenden Amtsperiode, sind zwei Wiederwahlen zulässig. Eine bisherige Präsidentin oder ein bisheriger Präsident ist nach einem Unterbruch wieder wählbar.
 
 <sup>2</sup> Müssen so viele Mitglieder oder Ersatzmitglieder den Ausstand wahren, dass eine genügende Besetzung des Gerichtes nicht mehr möglich ist, werden unbeteiligte Berufsrichterinnen oder Berufsrichter der Bezirksgerichte zugezogen.
 
-<sup>3</sup> Das Obergericht regelt in einer Geschäftsordnung die Aufgabenverteilung und die interne Organisation.
+<sup>3</sup> Das Obergericht regelt in einer Geschäftsordnung die Aufgabenverteilung und die interne Organisation. Es kann einzelne Befugnisse, die nach diesem Gesetz der oder dem Vorsitzenden zufallen, einer Instruktionsrichterin oder einem Instruktionsrichter übertragen.
 
 #### § 26
 
@@ -325,7 +338,9 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 **Kompetenzen**
 
-<sup>1</sup> Die Generalstaatsanwältin oder der Generalstaatsanwalt, die Oberstaatsanwältinnen oder Oberstaatsanwälte, die Staatsanwältinnen oder Staatsanwälte, die Jugendanwältinnen oder Jugendanwälte haben in ihrem Zuständigkeitsbereich alle gesetzlichen Rechte und Pflichten, einschliesslich zur Sistierung oder Einstellung von Verfahren. Sie erlassen die Strafbefehle auch in Übertretungsstrafsachen. Sie sind berechtigt, im ganzen Kanton Amtshandlungen vorzunehmen.
+<sup>1</sup> Die Generalstaatsanwältin oder der Generalstaatsanwalt, die Oberstaatsanwältinnen oder Oberstaatsanwälte, die Leitende Jugendanwältin oder der Leitende Jugendanwalt, die Staatsanwältinnen oder Staatsanwälte, die Jugendanwältinnen oder Jugendanwälte, die Assistenzstaatsanwältinnen oder Assistenzstaatsanwälte haben in ihren Zuständigkeitsbereichen alle gesetzlichen Rechte und Pflichten, einschliesslich Sistierung oder Einstellung von Verfahren. Sie können Strafbefehle auch in Übertretungsstrafsachen erlassen. Sie sind berechtigt, im ganzen Kanton Amtshandlungen vorzunehmen.
+
+<sup>1<sup>bis</sup></sup> Bei Übertretungsstrafsachen können unter der Leitung einer Staatsanwältin oder eines Staatsanwaltes auch Untersuchungsbeauftragte Strafverfahren führen und zum Abschluss bringen.
 
 <sup>2</sup> Die Generalstaatsanwaltschaft regelt die Vertretung, die Berechtigung zur Anklageerhebung und Anklagevertretung sowie die Zuständigkeit, Rechtsmittel einzureichen oder zurückzuziehen.
 
@@ -611,9 +626,9 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 **Betreibungsamt**
 
-<sup>1</sup> Jeder Bezirk hat ein Betreibungsamt. Die Betreibungsämter können Aussenstellen führen.
+<sup>1</sup> Jeder Bezirk hat ein Betreibungsamt.
 
-<sup>2</sup> Der Regierungsrat regelt nach Anhörung des Obergerichtes die fachlichen Voraussetzungen für die Führung eines Betreibungsamtes und bestimmt die Aussenstellen sowie deren Kompetenzen.
+<sup>2</sup> Der Regierungsrat regelt nach Anhörung des Obergerichtes die fachlichen Voraussetzungen für die Führung eines Betreibungsamtes.
 
 <sup>3</sup> Das Obergericht regelt die Stellvertretung.
 
@@ -655,11 +670,7 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 #### § 62
 
-**Neue Zuständigkeiten bei Strafuntersuchungen**
-
-<sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes bei den Bezirksämtern, dem Kantonalen Untersuchungsrichteramt und der Jugendanwaltschaft oder der Staatsanwaltschaft hängigen Verfahren werden von den nach diesem Gesetz zuständigen Behörden übernommen. Die Generalstaatsanwaltschaft regelt die Einzelheiten.
-
-<sup>2–4</sup> …
+**…**
 
 #### § 62a
 
@@ -667,34 +678,8 @@ vom 17.06.2009 (Stand 01.01.2022)
 
 <sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes bei den Strafgerichten, der Staatsanwaltschaft oder der Jugendanwaltschaft hängigen Opferhilfeverfahren werden von den bisher zuständigen Behörden bis zum rechtskräftigen Abschluss erledigt.
 
-#### § 63
-
-**Neue Zuständigkeiten bei Gerichtsverfahren**
-
-<sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes hängigen Gerichtsverfahren werden von jenen örtlich und sachlich zuständigen neuen Behörden zum Abschluss gebracht, die in diesem Gesetz vorgesehen sind. Diese sind auch für sämtliche nachträglichen Entscheide zuständig.
-
-#### § 64
-
-**Nachträgliche Entscheide altrechtlicher Urteile**
-
-<sup>1</sup> Für nachträgliche Entscheide bei Urteilen des Kriminalgerichtes und der Kriminalkammer ist das Obergericht zuständig.
-
-#### § 65–66
+#### § 63–68
 
 **…**
-
-#### § 67
-
-**...[^67-1]**
-
-[^67-1]: Aufhebung bisherigen Rechtes, ABl. 2009, Seite 1598.
-
-#### § 68
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^68-1].
-
-[^68-1]: In Kraft gesetzt auf den 1. Januar 2011.
 
 keine Angabe
