@@ -4,13 +4,13 @@ number: "151.2"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2023-06-01
-corrected: 2024-02-29
-version_adopted: 2022-11-15
+version: 2025-10-01
+valid_until: 2025-12-31
+version_adopted: 2025-07-29
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3472/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3796/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3472/pdf_file"
 
 (GG)
 
-vom 21.04.2009 (Stand 01.06.2023)
+vom 21.04.2009 (Stand 01.10.2025)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -596,6 +596,12 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Finden nicht alle teilnahmewilligen Stimmberechtigten im Versammlungsraum und in den Nebenräumen Platz, ordnet der Rat die Urnenabstimmung über die unaufschiebbaren Geschäfte an. Für die Behandlung der übrigen Geschäfte ordnet er eine neue Bürgerversammlung an.
 
+<sup>3</sup> Verhindern ausserordentliche Verhältnisse in mehreren Gemeinden die Durchführung von Bürgerversammlungen und ist nicht absehbar, wann die Bürgerversammlungen durchgeführt werden können, kann die Regierung durch Verordnung Vorschriften für die Beschlussfassung über Geschäfte der Bürgerversammlung an der Urne erlassen. Dabei kann von den Vorschriften dieses Erlasses und des Gesetzes über Wahlen und Abstimmungen vom 5. Dezember 2018[^52-1] abgewichen werden.
+
+<sup>4</sup> Die Verordnung nach Abs. 3 dieser Bestimmung wird während höchstens sechs Monaten angewendet.
+
+[^52-1]: sGS [125.3](https://www.gesetzessammlung.sg.ch/data/125.3/de).
+
 ### c) Geschäftsprüfung
 
 #### Art. 53
@@ -613,6 +619,8 @@ als Gesetz:[^ingress-2]
 **b) Aufgaben 1. Prüfung von Amts- und Haushaltsführung**
 
 <sup>1</sup> Die Geschäftsprüfungskommission handelt ohne Weisungen des Rates und erfüllt ihre Aufgaben selbständig und unabhängig.
+
+<sup>1<sup>bis</sup></sup> Sie fasst und vertritt ihre Beschlüsse als Kollegium.
 
 <sup>2</sup> Sie prüft die Amts- und Haushaltsführung des Rates und der Verwaltung im abgelaufenen Jahr sowie die Anträge des Rates über Budget und Steuerfuss für das nächste Jahr.
 
@@ -712,7 +720,7 @@ als Gesetz:[^ingress-2]
 
 **e) Geschäftsprüfung**
 
-<sup>1</sup> Das Parlament wählt aus seiner Mitte eine Kommission, welche die Aufgaben der Geschäftsprüfungskommission wahrnimmt. Art. 54 bis 56 dieses Erlasses werden sachgemäss angewendet.
+<sup>1</sup> Das Parlament wählt aus seiner Mitte eine Kommission, welche die Aufgaben der Geschäftsprüfungskommission wahrnimmt. Die Bestimmungen von Art. 54 bis 56 dieses Erlasses mit Ausnahme von Art. 54 Abs. 1<sup>bis</sup> werden sachgemäss angewendet.
 
 <sup>2</sup> Die Gemeindeordnung kann vorsehen, dass die Kontrolle des Finanzhaushalts anstelle eines aussenstehenden Revisionsunternehmens durch eine interne und unabhängige Kontrollstelle erfolgt. Die Kontrollstelle ist durch eine in Revisionsfragen ausgewiesene Fachperson zu leiten, die durch das Parlament gewählt wird.
 
@@ -937,6 +945,19 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Mit der Volksmotion kann die in der Gemeindeordnung festgelegte Zahl der Stimmberechtigten verlangen, dass der Rat eine Vorlage über einen Gegenstand ausarbeitet, der in die Zuständigkeit der Bürgerschaft fällt.
 
+#### Art. 82a
+
+**Zulässigkeit**
+
+<sup>1</sup> Eine Volksmotion darf der Bürgerversammlung oder dem Parlament nur unterbreitet werden, wenn sie zulässig ist. Die Zulässigkeit bestimmt sich sachgemäss nach [Art. 44](https://www.gesetzessammlung.sg.ch/data/111.1/de/art44) der Kantonsverfassung vom 10. Juni 2001[^82a-1] in Verbindung mit [Art. 34](https://www.gesetzessammlung.sg.ch/data/125.1/de/art34) des Gesetzes über Referendum und Initiative vom 27. November 1967[^82a-2].
+
+<sup>2</sup> Die Volksmotion kann vor Beginn der Unterschriftensammlung dem Rat zur Vorprüfung unterbreitet werden.
+
+<sup>3</sup> Stellt der Rat im Rahmen der Vorprüfung oder nach Einreichung der Volksmotion Unzulässigkeit fest, erlässt er eine Verfügung.
+
+[^82a-1]: sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
+[^82a-2]: sGS [125.1](https://www.gesetzessammlung.sg.ch/data/125.1/de).
+
 #### Art. 83
 
 **Verfahren**
@@ -1054,17 +1075,22 @@ als Gesetz:[^ingress-2]
 
 **b) Schulkommission**
 
-<sup>1</sup> Die Gemeindeordnung kann:
+<sup>1</sup> Die Gemeinde kann:
 
-- a) eine Schulkommission vorsehen, die Schulrat heissen kann. Sie legt Grösse und Wahlorgan fest;
-- b) den Vorsitz in der Schulkommission einem Ratsmitglied vorbehalten.
+- a) eine Schulkommission vorsehen, die Schulrat heissen kann;
+- b) …
 
-<sup>2</sup> Der Schulkommission gehört von Amtes wegen ein Mitglied des Rates an.
+<sup>2</sup> …
 
-<sup>3</sup> Wird der Schulkommission die unmittelbare Führung der Schule übertragen:
+<sup>3</sup> Die Gemeinde kann durch allgemein verbindliches Reglement vorsehen, dass die Schulkommission in der Rechtspflege in Schulangelegenheiten oberste Verwaltungsbehörde der Gemeinde ist.
 
-- 1\. stellt sie in Schulangelegenheiten, für die Bürgerschaft oder Parlament zuständig sind, dem Rat Antrag.
-- 2\. kann die Gemeindeordnung vorsehen, dass sie in der Rechtspflege in Schulangelegenheiten oberste Verwaltungsbehörde der Gemeinde ist.
+- 1\. …
+- 2\. …
+
+<sup>4</sup> In der Gemeindeordnung kann:
+
+- a) die Wahl der Schulkommission durch die Bürgerschaft vorgesehen werden;
+- b) vorgesehen werden, dass die Schulkommission für unvorhersehbare neue Ausgaben bis zu einer bestimmten Höhe zuständig sein soll.
 
 #### Art. 95
 
@@ -1769,21 +1795,21 @@ als Gesetz:[^ingress-2]
 
 #### Art. 136
 
-**Vereinbarungen a) Grundsatz**
+**Vereinbarungen**
 
-<sup>1</sup> Die Gemeinde kann durch Vereinbarung:
+<sup>1</sup> Die Gemeinde kann in ihrem Zuständigkeitsbereich Vereinbarungen mit anderen Gemeinwesen abschliessen. Insbesondere kann sie:
 
 - a) Verwaltungspersonal und Einrichtungen einer anderen Gemeinde zur Verfügung stellen;
 - b) gemeinsame Kommissionen und Verwaltungspersonal einsetzen oder gemeinsame Einrichtungen schaffen;
 - c) Gemeindeverbände und Zweckverbände gründen.
 
+<sup>2</sup> Vereinbarungen mit ausserkantonalen Gemeinwesen, die über den alleinigen Zuständigkeitsbereich der Gemeinde hinausgehen, bedürfen einer interkantonalen Vereinbarung oder, soweit ausreichend, einer besonderen gesetzlichen Vorschrift.
+
+<sup>3</sup> Vereinbarungen mit ausländischen Gemeinwesen, die über den alleinigen Zuständigkeitsbereich der Gemeinde hinausgehen, bedürfen eines Staatsvertrags oder, soweit ausreichend, einer besonderen gesetzlichen Vorschrift.
+
 #### Art. 137
 
-**b) Vereinbarung mit ausserkantonalen Gemeinwesen**
-
-<sup>1</sup> Allgemein verbindliche Vereinbarungen mit ausserkantonalen Gemeinwesen sind nur gemäss besonderer gesetzlicher Vorschrift oder aufgrund einer interkantonalen Vereinbarung zulässig.
-
-<sup>2</sup> Ein Gemeindeverband oder Zweckverband mit ausserkantonalen Gemeinwesen darf nur gegründet werden, wenn eine interkantonale Vereinbarung über das anwendbare Recht, die Aufsicht und den Rechtsschutz abgeschlossen wurde.
+**…**
 
 #### Art. 138
 
