@@ -4,13 +4,12 @@ number: "741.11"
 title: Wasserbauverordnung
 short: WBauV
 language: de
-version: 2016-01-01
-valid_until: 2025-09-30
-version_adopted: 2015-05-11
+version: 2025-10-01
+version_adopted: 2025-09-16
 adopted: 2006-12-05
 in_force: 2007-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/741.11"
-pdf: "https://ar.clex.ch/api/de/versions/1028/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1028/pdf_file"
 
 (WBauV)
 
-vom 05.12.2006 (Stand 01.01.2016)
+vom 05.12.2006 (Stand 01.10.2025)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -35,22 +34,27 @@ beschliesst:
 
 **Gewässerkataster**
 
-<sup>1</sup> Der Gewässerkataster[^1-1] bildet den Verlauf der öffentlichen Gewässer ab; die Darstellung entspricht jener in den Grundbuchplänen.
+<sup>1</sup> Der Gewässerkataster bildet den Verlauf der öffentlichen Gewässer ab; die Darstellung entspricht jener in den Grundbuchplänen.
 
-<sup>2</sup> Im Gewässerkataster enthaltene Gewässer gelten, soweit die Rechtsnatur noch nicht rechtskräftig festgelegt worden ist, vermutungsweise als öffentliche Gewässer. Ist die Rechtsnatur eines Gewässers umstritten, können betroffene Grundeigentümerinnen und Grundeigentümer vom Departement Bau und Volkswirtschaft einen Entscheid verlangen[^1-2].
+<sup>2</sup> Im Gewässerkataster enthaltene Gewässer gelten, soweit die Rechtsnatur noch nicht rechtskräftig festgelegt worden ist, vermutungsweise als öffentliche Gewässer.
 
-[^1-1]: Art. 8 lit. a WBauG
-[^1-2]: Art. 3 Abs. 3 WBauG
+#### Art. 1a
+
+**Programmvereinbarungen**
+
+<sup>1</sup> Das Departement Bau und Volkswirtschaft ist zuständig für die Fortschreibung von Programmvereinbarungen mit dem Bund, soweit sie nicht zusätzliche Leistungen des Kantons zur Folge haben.
 
 #### Art. 2
 
-**Überwachung der Gewässer**
+**Vorübergehende Nutzung privater Grundstücke**
 
-<sup>1</sup> Für periodische Kontrollen, aber auch für Kontrollen und Massnahmen im Einzelfall ist es der Fachstelle oder deren Beauftragten gestattet, soweit notwendig private Grundstücke zu betreten und private Strassen und Wege zubefahren.
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümer werden über bevorstehende Unterhaltsmassnahmen auf ihren Grundstücken rechtzeitig informiert.
 
-<sup>2</sup> Dabei verursachte Schäden sind vollumfänglich zu beheben.
+<sup>2</sup> Für Kontrollaufgaben ist die vorübergehende Nutzung privater Grundstücke, Strassen und Wege jederzeit auch ohne vorgängige Information gestattet.
 
-## II. Wasserbau
+<sup>3</sup> Schäden aus der vorübergehenden Nutzung privater Grundstücke sind vollumfänglich zu beheben oder zu entschädigen.
+
+## II. Gewässerunterhalt und Wasserbauprojekte
 
 #### Art. 3
 
@@ -60,15 +64,65 @@ beschliesst:
 
 [^3-1]: Art. 28 Perimeterverordnung (bGS [742.1](https://ar.clex.ch/data/742.1/de))
 
+#### Art. 3a
+
+**Projektbeschluss**
+
+<sup>1</sup> Das Departement Bau und Umwelt beschliesst Wasserbauprojekte mit neuen Ausgaben bis 250'000 Franken sowie mit gebundenen Ausgaben bis 1'000'000 Franken.
+
+#### Art. 3b
+
+**Projektunterlagen**
+
+<sup>1</sup> Die Projektunterlagen für die öffentliche Auflage enthalten in der Regel:
+
+- a) einen technischen Bericht;
+- b) Situationsplan, Bepflanzungsplan, Längen-, Quer- und Normalprofile;
+- c) einen Kostenvoranschlag;
+- d) aktualisierte Gefahrengrundlagen mit der Gefahrensituation vor und nach der Ausführung des Projekts (informativ);
+- e) aktualisierte Gewässerraumlinien (informativ);
+- f) Pläne über die dauernde und vorübergehende Beanspruchung von privaten Rechten.
+
+#### Art. 3c
+
+**Visierung**
+
+<sup>1</sup> Das Projekt wird während der öffentlichen Auflage im Gelände abgesteckt bei:
+
+- a) Änderung der Linienführung eines Gewässers;
+- b) Offenlegung eines Gewässers;
+- c) Änderung des Ufers.
+
+#### Art. 3d
+
+**Anmerkungen im Grundbuch**
+
+<sup>1</sup> Verwaltungsrechtliche Verträge mit Eigentümerinnen und Eigentümern der an die Gewässer angrenzenden Grundstücke können im Grundbuch angemerkt werden.
+
 #### Art. 4
 
 **Vereinfachtes Verfahren**
 
-<sup>1</sup> Bei kleineren Projekten, welche nur wenige Grundeigentümerinnen und Grundeigentümer betreffen und weder das Privateigentum noch die Interessendes Umwelt-, Natur- und Heimatschutzes erheblich beeinträchtigen, wie Einzelbauwerke zur Behebung lokaler Schäden und Engpässe, Sofortmassnahmen zur Schadensbegrenzung sowie Instandstellung oder Ersatz von bestehenden Bauwerken, erfolgt keine öffentliche Auflage. Direktanstossende Grundeigentümerinnen und Grundeigentümer werden schriftlich benachrichtigt.
+<sup>1</sup> Auf die öffentliche Auflage und die Visierung kann verzichtet werden bei:
 
-<sup>2</sup> Erklären sich alle direktanstossenden Grundeigentümerinnen und Grundeigentümer mit dem Projekt einverstanden, kann zudem auf die schriftliche Anzeige und die Einsprachefrist verzichtet werden.
+- a) kleineren Ausbaumassnahmen und Offenlegungen;
+- b) Behebung von grösseren Schäden an Schutzbauten;
+- c) Ersatz von bestehenden Schutzbauten;
+- d) Sofortmassnahmen zur Schadensbegrenzung.
 
-## III. Konzessionierungsverfahren
+<sup>2</sup> Erklären sich alle Einspracheberechtigten damit einverstanden, kann vor Ablauf der Einsprachefristen mit dem Projekt begonnen werden.
+
+## III. Wasserbaupolizei
+
+#### Art. 4b
+
+<sup>1</sup> Keiner wasserbaupolizeilichen Bewilligung bedürfen:
+
+- a) geringfügige Unterhaltsarbeiten an bestehenden Werkanlagen (z.B. Werkleitungen, Mauern, Durchlässe, Brücken);
+- b) geringfügige Bauvorhaben, die dem normalen Unterhalt dienen, wie Reparaturen oder Renovationen;
+- c) Bauvorhaben in Gefahrengebieten mit geringer Gefährdung, die nicht gefahrensensible Objekte betreffen.
+
+## IV. Gewässernutzung
 
 #### Art. 5
 
@@ -137,9 +191,9 @@ beschliesst:
 
 <sup>1</sup> Die Abgabe für bewilligungspflichtige Wasserentnahmen aus Gewässern beträgt Fr. 0.40/m³.
 
-## IV. Bewilligungsverfahren
-
 #### Art. 12
+
+**Bewilligungen der Fachstelle**
 
 <sup>1</sup> Gesuche gemäss Art. 26 Abs. 2 des Gesetzes werden nur öffentlich aufgelegt, wenn Dritte betroffen sind. In diesen Fällen gilt eine Einsprachefrist von 20 Tagen.
 
