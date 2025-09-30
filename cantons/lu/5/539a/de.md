@@ -3,20 +3,20 @@ canton: LU
 number: 539a
 title: Personalverordnung der Universität Luzern
 language: de
-version: 2024-01-01
-valid_until: 2025-09-30
-version_adopted: 2023-12-12
+version: 2025-10-01
+valid_until: 2025-12-31
+version_adopted: 2025-09-16
 adopted: 2005-10-25
 in_force: 2006-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539a"
-pdf: "https://srl.lu.ch/api/de/versions/4166/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4530/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung der Universität Luzern
 
-vom 25.10.2005 (Stand 01.01.2024)
+vom 25.10.2005 (Stand 01.10.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -134,7 +134,7 @@ beschliesst:
 
 <sup>1</sup> Das Arbeitsverhältnis der Professorinnen und Professoren und des übrigen in der Lehre tätigen wissenschaftlichen Personals endet mit dem Semester, in dem sie das 65. Altersjahr erfüllen.
 
-<sup>2</sup> Der Rektor oder die Rektorin kann das Alter, mit dem das Arbeitsverhältnis endet, für nebenamtliche Lehrbeauftragte im Einzelfall auf 75 Jahre anheben.
+<sup>2</sup> Die zuständigen Organe der Universität können das Alter, mit dem das Arbeitsverhältnis endet, für nebenamtliche Lehrbeauftragte im Einzelfall bis auf 75 Jahre anheben.
 
 <sup>3</sup> Das Arbeitsverhältnis des Rektors oder der Rektorin endet mit dem akademischen Jahr, in welchem er oder sie das 70. Altersjahr erreicht.
 
@@ -184,7 +184,7 @@ beschliesst:
 
 **Ausserordentliche Zulagen**
 
-<sup>1</sup> Ausserordentliche Zulagen zur Gewinnung oder Erhaltung von Personen gemäss § 35 Absatz 2 des Personalgesetzes[^11d-1] können ganz oder teilweise in Form von Einkaufsbeiträgen an die Luzerner Pensionskasse ausgerichtet werden. Diese sind auf insgesamt höchstens 100 000 Franken innert fünf Jahren pro Person beschränkt und werden maximal in der Höhe der eigenen Einkaufsbeiträge der betreffenden Person ausgerichtet.
+<sup>1</sup> Ausserordentliche Zulagen zur Gewinnung oder Erhaltung von Personen gemäss § 35 Absatz 2 des Personalgesetzes[^11d-1] können ganz oder teilweise in Form von Einkaufsbeiträgen an die Luzerner Pensionskasse ausgerichtet werden. Diese sind auf insgesamt höchstens 100 000 Franken innert zehn Jahren pro Person beschränkt und werden maximal in der Höhe der eigenen Einkaufsbeiträge der betreffenden Person ausgerichtet.
 
 [^11d-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
 
@@ -276,6 +276,12 @@ beschliesst:
 
 [^18-1]: G 2001 118 (SRL Nr. 539a)
 [^18-2]: G 2001 432 (SRL Nr. 539b)
+
+#### § 18a
+
+**Übergangsbestimmung der Änderung vom 16. September 2025**
+
+<sup>1</sup> Bei Arbeitsverhältnissen, die vor Inkrafttreten der Änderung vom 16. September 2025 abgeschlossen wurden, kann der Rektor die Frist für die Ausrichtung von ausserordentlichen Zulagen gemäss § 11d um maximal weitere fünf Jahre verlängern.
 
 #### § 19
 
