@@ -4,11 +4,11 @@ title: Verordnung vom 9. Mai 1990 über die Miete und Pacht von Wohn- und Gesch�
 short: VMWG
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/835_835_835"
 language: de
-version: 2025-01-01
+version: 2025-10-01
 adopted: 1990-05-09
 in_force: 1990-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20251001/de/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20251001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/de"
 
 (VMWG)
 
-vom 9. Mai 1990 (Stand am 1. Januar 2025)
+vom 9. Mai 1990 (Stand am 1. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -371,17 +371,30 @@ Das Formular für die Mitteilung von Mietzinserhöhungen und anderen einseitigen
 
 <sup>1bis</sup> Erfolgt die Begründung in einem Begleitschreiben, so hat der Vermieter im Formular ausdrücklich darauf hinzuweisen.[^19-3]
 
-<sup>2</sup> Die Absätze 1 und 1<sup>bis</sup> gelten ferner sinngemäss, wenn der Vermieter den Mietzins einem vereinbarten Index anpasst oder ihn aufgrund der vereinbarten Staffelung erhöht. Bei indexgebundenen Mietverhältnissen darf die Mitteilung frühestens nach der öffentlichen Bekanntgabe des neuen Indexstandes erfolgen. Bei gestaffelten Mietzinsen darf die Mitteilung frühestens vier Monate vor Eintritt jeder Mietzinserhöhung erfolgen. Die Kantone können als rechtsgenügendes Formular in diesem Fall die Kopie der Mietzinsvereinbarung bezeichnen.[^19-4]
+<sup>2</sup> Die Absätze 1 und 1<sup>bis</sup> gelten ferner sinngemäss, wenn der Vermieter den Mietzins einem vereinbarten Index anpasst. Bei indexgebundenen Mietverhältnissen darf die Mitteilung frühestens nach der öffentlichen Bekanntgabe des neuen Indexstandes erfolgen.[^19-4]
 
-<sup>3</sup> Die Absätze 1 und 1<sup>bis</sup> sind sinngemäss anzuwenden, wenn die Kantone im Sinne von Artikel 270 Absatz 2 OR die Verwendung des Formulars beim Abschluss eines neuen Mietvertrags obligatorisch erklären.[^19-5]
+<sup>3</sup>
+
+Die Absätze 1 und 1<sup>bis</sup> sind sinngemäss anzuwenden, wenn die Kantone im Sinne von Artikel 270 Absatz 2 OR die Verwendung des Formulars beim Abschluss eines neuen Mietvertrags für obligatorisch erklären. Zusätzlich muss dieses Formular enthalten:
+
+- a. den für den bisherigen Mietzins geltenden Stand des Referenzzinssatzes;
+- b. den für den bisherigen Mietzins geltenden Stand des Landesindexes der Konsumentenpreise.[^19-5]
 
 <sup>4</sup> Die Kantone sorgen dafür, dass in den Gemeinden Formulare in genügender Zahl zur Verfügung stehen. Sie können zu diesem Zweck eigene Formulare in den Gemeindekanzleien auflegen.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
 [^19-2]: Eingefügt durch Ziff. I der V vom 15. Jan. 2014, in Kraft seit 1. Juli 2014 ([AS 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).
 [^19-3]: Eingefügt durch Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-4]: Fassung gemäss Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-5]: Fassung gemäss Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^19-4]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
+[^19-5]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
+
+#### Art. 19a
+
+**Mitteilung bei gestaffelten Mietzinsen**[^19a-1]
+
+Bei gestaffelten Mietzinsen darf die schriftliche Mitteilung frühestens vier Monate vor Eintritt jeder Mietzinserhöhung erfolgen.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 21. März 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
 
 #### Art. 20
 

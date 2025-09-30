@@ -4,11 +4,11 @@ title: "Ordonnance du 9 mai 1990 sur le bail à loyer et le bail à ferme d'habi
 short: OBLF
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/835_835_835"
 language: fr
-version: 2025-01-01
+version: 2025-10-01
 adopted: 1990-05-09
 in_force: 1990-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20251001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/fr"
 
 (OBLF)
 
-du 9 mai 1990 (État le 1<sup>er</sup> janvier 2025)
+du 9 mai 1990 (État le 1<sup>er</sup> octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -371,17 +371,30 @@ La formule destinée à communiquer au locataire les hausses de loyer et autres 
 
 <sup>1bis</sup> Si le motif figure dans une lettre d’accompagnement, le bailleur doit se référer expressément à cette lettre dans la formule officielle.[^19-3]
 
-<sup>2</sup> En outre, les al. 1 et 1<sup>bis</sup> s’appliquent par analogie lorsque le bailleur augmente le loyer selon un indice ou un échelonnement convenus. Lorsque le loyer est indexé, la hausse ne peut être notifiée qu’à partir du moment où le nouvel indice est publié officiellement. Lorsque la hausse est fixée selon un échelonnement convenu, chaque augmentation sera communiquée au plus tôt quatre mois avant son entrée en vigueur. Les cantons peuvent décréter dans ce cas que la copie de la convention est admise comme formule au sens du présent article.[^19-4]
+<sup>2</sup> En outre, les al. 1 et 1<sup>bis</sup> s’appliquent par analogie lorsque le bailleur adapte le loyer selon un indice convenu. Lorsque le loyer est indexé, la hausse ne peut être notifiée qu’à partir du moment où le nouvel indice est publié officiellement.[^19-4]
 
-<sup>3</sup> Les al. 1 et 1<sup>bis</sup> sont applicables par analogie lorsque les cantons rendent obligatoire, au sens de l’art. 270, al. 2, CO, l’utilisation de la formule lors de la conclusion d’un nouveau contrat de bail.[^19-5]
+<sup>3</sup>
+
+Les al. 1 et 1<sup>bis</sup> sont applicables par analogie lorsque les cantons rendent obligatoire, au sens de l’art. 270, al. 2, CO, l’utilisation de la formule lors de la conclusion d’un nouveau contrat de bail. En outre, la formule doit contenir:
+
+- a. le niveau du taux d’intérêt de référence déterminant pour l’ancien loyer;
+- b. le niveau de l’indice suisse des prix à la consommation déterminant pour l’ancien loyer.[^19-5]
 
 <sup>4</sup> Les cantons veillent à ce qu’un nombre suffisant de formules soit disponible dans les communes. À cette fin, ils peuvent déposer les formules établies par leurs soins auprès des secrétariats communaux.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
 [^19-2]: Introduit par le ch. I de l’O du 15 janv. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).
 [^19-3]: Introduit par le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-4]: Nouvelle teneur selon le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-5]: Nouvelle teneur selon le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^19-4]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
+[^19-5]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
+
+#### Art. 19a
+
+**Communication en cas d’échelonnement du loyer**[^19a-1]
+
+Lorsque la hausse est fixée selon un échelonnement convenu, chaque augmentation doit être communiquée par écrit au plus tôt quatre mois avant son entrée en vigueur.
+
+[^19a-1]: Introduit par le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
 
 #### Art. 20
 

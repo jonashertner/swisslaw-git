@@ -4,11 +4,11 @@ title: "Ordinanza del 9 maggio 1990 concernente la locazione e l'affitto di loca
 short: OLAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/835_835_835"
 language: it
-version: 2025-01-01
+version: 2025-10-01
 adopted: 1990-05-09
 in_force: 1990-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/835_835_835/20251001/it/xml/fedlex-data-admin-ch-eli-cc-1990-835_835_835-20251001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/20250101/it"
 
 (OLAL)
 
-del 9 maggio 1990 (Stato 1° gennaio 2025)
+del 9 maggio 1990 (Stato 1° ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -45,7 +45,7 @@ Sono cose locate concesse in uso al conduttore dal locatore con i locali d’abi
 
 <sup>2</sup> Agli appartamenti costruiti con l’aiuto dell’ente pubblico e le cui pigioni sono sottoposte al controllo dell’autorità si applicano soltanto gli articoli 253–268*b*, 269, 269*d* capoverso 3, 270*e* e 271–273*c* CO, nonché gli articoli 3–10 e 20–23 della presente ordinanza.[^2-1]
 
-[^2-1]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^2-1]: Nuovo testo giusta la cifra II n. 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 3
 
@@ -118,7 +118,7 @@ Se il locatore si procura energia per il riscaldamento o acqua calda da una cent
 
 Nell’ambito di un raggruppamento secondo l’articolo 17 della legge del 30 settembre 2016[^6b-2] sull’energia il locatore può addebitare come spese accessorie i costi di cui agli articoli 16*a* e 16*b* dell’ordinanza del 1° novembre 2017[^6b-3] sull’energia.
 
-[^6b-1]: Introdotto dalla cifra II 1 dell’all. 7 all’O del 1° nov. 2017 sull’energia ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)). Nuovo testo giusta l’all. n. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^6b-1]: Introdotto dalla cifra II n. 1 dell’all. 7 all’O del 1° nov. 2017 sull’energia ([RU 2017 6889](https://fedlex.data.admin.ch/eli/oc/2017/763)). Nuovo testo giusta l’all. n. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 [^6b-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 [^6b-3]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 
@@ -239,7 +239,7 @@ Il modulo per la notificazione della disdetta previsto dall’articolo 266*l* ca
 
 [^12a-1]: Introdotto dalla cifra I dell’O del 28 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7021](https://fedlex.data.admin.ch/eli/oc/2007/909)).
 [^12a-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° dic. 2011 ([RU 2011 4907](https://fedlex.data.admin.ch/eli/oc/2011/702)).
-[^12a-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali (RU**2004** 4937), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^12a-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 [^12a-4]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° dic. 2011 ([RU 2011 4907](https://fedlex.data.admin.ch/eli/oc/2011/702)).
 
 #### Art. 13
@@ -369,17 +369,30 @@ Il modulo previsto dall’articolo 269*d* CO per la notificazione al conduttore 
 
 <sup>1bis</sup> Se i motivi sono esposti in uno scritto accompagatorio, il locatore lo indica espressamente sul modulo.[^19-3]
 
-<sup>2</sup> Inoltre, i capoversi 1 e 1<sup>bis</sup> si applicano per analogia se il locatore adegua la pigione a un indice pattuito o l’aumenta in base a una scala pattuita. Per le pigioni indicizzate, la notificazione può essere fatta solo dopo la pubblicazione del nuovo valore dell’indice. Per le pigioni scalari, la notificazione può essere fatta al più presto quattro mesi prima dell’inizio dell’aumento di pigione. In questo caso i Cantoni possono dichiarare modulo legalmente sufficiente ai sensi del presente articolo la copia delle pattuizioni di pigione.[^19-4]
+<sup>2</sup> Inoltre, i capoversi 1 e 1<sup>bis</sup> si applicano per analogia se il locatore adegua la pigione a un indice pattuito. Per le pigioni indicizzate, la notificazione può essere fatta solo dopo la pubblicazione del nuovo valore dell’indice.[^19-4]
 
-<sup>3</sup> I capoversi 1 e 1<sup>bis</sup> si applica per analogia qualora i Cantoni dichiarino obbligatorio ai sensi dell’articolo 270 capoverso 2 CO l’uso del modulo ufficiale per la conclusione di un nuovo contratto di locazione.[^19-5]
+<sup>3</sup>
+
+I capoversi 1 e 1<sup>bis</sup> si applicano per analogia qualora i Cantoni dichiarino obbligatorio ai sensi dell’articolo 270 capoverso 2 CO l’uso del modulo ufficiale per la conclusione di un nuovo contratto di locazione. Il modulo deve inoltre contenere:
+
+- a. il tasso d’interesse di riferimento applicabile alla pigione precedente;
+- b. l’indice nazionale dei prezzi al consumo applicabile alla pigione precedente.[^19-5]
 
 <sup>4</sup> I Cantoni provvedono affinché nei Comuni vi siano a disposizione moduli in numero sufficiente. A tal fine, possono depositare presso le cancellerie comunali i propri moduli.
 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
 [^19-2]: Introdotto dalla cifra I dell’O del 15 gen. 2014, in vigore dal 1° lug. 2014 ([RU 2014 417](https://fedlex.data.admin.ch/eli/oc/2014/68)).
 [^19-3]: Introdotto dalla cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-4]: Nuovo testo giusta la cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
-[^19-5]: Nuovo testo giusta la cifra I dell’O del 26 giu. 1996, in vigore dal 1° ago 1996 ([RU 1996 2120](https://fedlex.data.admin.ch/eli/oc/1996/2120_2120_2120)).
+[^19-4]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° ott. 2025 ([RU 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
+[^19-5]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° ott. 2025 ([RU 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
+
+#### Art. 19a
+
+**Notificazione di pigioni scalari**[^19a-1]
+
+Per le pigioni scalari, la notificazione scritta può essere fatta al più presto quattro mesi prima dell’inizio dell’aumento di pigione.
+
+[^19a-1]: Introdotto dalla cifra I dell’O del 21 mar. 2025, in vigore dal 1° ott. 2025 ([RU 2025 191](https://fedlex.data.admin.ch/eli/oc/2025/191)).
 
 #### Art. 20
 
@@ -406,8 +419,8 @@ Il modulo previsto dall’articolo 269*d* CO per la notificazione al conduttore 
 <sup>3</sup> Essa può affidare questi compiti a singoli membri o alla segreteria.
 
 [^21-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262). Codice di diritto processuale civile svizzero del 19 dic. 2008.
-[^21-2]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
-[^21-3]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^21-2]: Nuovo testo giusta la cifra II n. 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^21-3]: Nuovo testo giusta la cifra II n. 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 
 #### Art. 22
 
@@ -419,7 +432,7 @@ Il modulo previsto dall’articolo 269*d* CO per la notificazione al conduttore 
 
 I Cantoni sono tenuti a pubblicare periodicamente la composizione delle autorità di conciliazione e la loro competenza territoriale.
 
-[^22-1]: Nuovo testo giusta la cifra II 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^22-1]: Nuovo testo giusta la cifra II n. 4 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, in vigore dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
 [^22-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 
 #### Art. 23
