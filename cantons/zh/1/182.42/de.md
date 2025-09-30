@@ -3,291 +3,357 @@ canton: ZH
 number: "182.42"
 title: Reglement über den Einsatz der Informatikmittel in der Römisch-katholischen Körperschaft des Kantons Zürich (ICT-Reglement)
 language: de
-version: "2021-01-18"
-nachtrag: "112"
-valid_until: 2025-10-01
+nachtrag: "130"
 adopted: 2025-07-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_42-2019_05_20-2019_10_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_42-2025_07_07-2025_10_01-130.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Nutzung der Informations- und Kommunikationstechnik (ICT-Nutzungsreglement)
+# Reglement über den Einsatz der Informatikmittel in der Römisch-katholischen Körperschaft des Kantons Zürich (ICT-Reglement)
 
-(vom 20. Mai 2019)[^t-1]
+(vom 7. Juli 2025)[^t-1]
 
 Der Synodalrat,
 
-gestützt auf Art. 41 lit. g und k der Kirchenordnung der Römisch-katholischen Körperschaft des Kantons Zürich vom 29. Januar 2009[^t-2], § 7 des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^t-3] sowie §§ 39 und 60 der Anstellungsordnung der Römisch-katholischen Körperschaft des Kantons Zürich vom 22. März 2007[^t-4],
+gestützt auf Art. 7 der Kirchenordnung (KO)[^t-2], § 7 des Gesetzes über die Information und den Datenschutz (IDG)[^t-3] sowie §§ 39 und 60 der Anstellungsordnung (AO)[^t-4],
 
-beschliesst:
+beschliesst folgendes Reglement:
 
-[^t-1]: OS 74, 488; Begründung siehe ABl 2019-06-14.
+I Grundlagen
+
+**Gegenstand und Zweck**
+
+§ 1. Dieses Reglement regelt:
+
+- a. die Nutzungsbedingungen für den Einsatz der Informatikmittel der Körperschaft,
+
+- b. die Organisation und Verantwortung innerhalb der Körperschaft für den gesetzeskonformen Betrieb und die Nutzung von Informatikmitteln der Körperschaft,
+
+- c. die Überwachung der Informatikmittel der Körperschaft zur Verhinderung von Missbrauch, zur Gewährleistung des sicheren Betriebs und zur Ressourcenplanung,
+
+- d. die Massnahmen zur Gewährleistung der IT-Sicherheit,
+
+- e. die Nutzung von Künstlicher Intelligenz (KI),
+
+- f. die Massnahmen und das Verfahren im Falle von Missbrauch von Informatikmitteln der Körperschaft,
+
+- g. die anonymisierten Auswertungen und die Bearbeitung von personenbezogenen Daten im Rahmen der Überwachung von Informatikmitteln der Körperschaft oder bei Verdacht auf Nichteinhaltung dieses Reglements.
+
+[^t-1]: OS 80, 211; Begründung siehe ABl 2025-07-18.
 [^t-2]: LS 182.10.
 [^t-3]: LS 170.4.
 [^t-4]: LS 182.41.
 
-### I. Gegenstand
+#### § 2
 
-[^hIGegenstand-1]: Fassung gemäss B vom 18. Januar 2021 (OS 76, 65; ABl 2021-02-05). In Kraft seit 18. Januar 2021.
+**Geltungsbereich**
 
-#### § 1
+<sup>1</sup> Dieses Reglement sowie die dazugehörigen Anhänge sind für alle Mitarbeitenden und Mitglieder der Römisch-katholischen Körperschaft des Kantons Zürich verbindlich.
 
-**Zweck**
-
-<sup>1</sup> Dieses Reglement regelt für alle Mitarbeitenden und die Mitglieder des Synodalrats der Römisch-katholischen Körperschaft des Kantons Zürich die Nutzung der elektronischen Infrastrukturen und die Nutzung von Internet mit Informatikmitteln der Organisation sowie die Nutzung von E-Mail und Sozialen Medien.[^hIGegenstand-1]
-
-<sup>2</sup> Das Interesse der Körperschaft liegt dabei in der Sicherstellung der Datensicherheit und im Datenschutz, in einer möglichst wenig belasteten betrieblichen Informatikinfrastruktur (Speicherplatz, Netzwerkbandbreite) sowie in finanziellen (der Arbeitnehmer schuldet dem Arbeitgeber seine Arbeitszeit) und ideellen Interessen (Schutz vor Reputationsschäden). Dem stehen das Informations- und Kommunikationsinteresse sowie der Persönlichkeitsschutz der Arbeitnehmenden gegenüber.
-
-<sup>3</sup> Für Dritte, welche die Informatikmittel der Körperschaft nutzen, wird dieses Reglement auf vertraglicher Basis für verbindlich erklärt.
+<sup>2</sup> Für Dritte, welche die Informatikmittel der Körperschaft nutzen, wird dieses Reglement auf vertraglicher Basis für verbindlich erklärt. Zuständig ist die Generalsekretärin oder der Generalsekretär.
 
 **1**
 
-- 1\. 4. 21 - 112
+1.10. 25 - 130
 
-### II. Nutzungsvorschriften
-
-#### § 2
-
-**Arbeitsinstrumente und Arbeitsergebnis**
-
-<sup>1</sup> Die geschäftlich anfallenden Daten (Dokumente, E-Mails) sind mit der von der Körperschaft zur Verfügung gestellten Hard- und Software zu bearbeiten und in der betrieblichen Informatikstruktur (Server, Cloud) aufzubewahren.
-
-<sup>2</sup> Nicht ausdrücklich zugelassene Plattformen und Collaboration Tools sind verboten.
-
-<sup>3</sup> Nicht erlaubt sind unverschlüsselte USB-Sticks oder unverschlüsselte externe Festplatten.
-
-<sup>4</sup> Die Installation von Hard- und Software sowie Kommunikationseinrichtungen durch Mitarbeitende ausser den ICT-Verantwortlichen ist untersagt.
-
-<sup>5</sup> Informatiksysteme, die am Netzwerk angeschlossen sind, dürfen nicht gleichzeitig mit einem Netz oder System ausserhalb des internen Netzwerks verbunden werden.
+### II Nutzungsvorschriften
 
 #### § 3
 
-**Sicherheitsmassnahmen**
+**Einsatz von Informatikmitteln und Installation von Software**
 
-<sup>1</sup> Das Passwort ist persönlich und darf nicht weitergegeben werden. Passwörter müssen aus mindestens acht Stellen bestehen und sollen eine Kombination von Klein- und Grossbuchstaben, Ziffern und Sonderzeichen enthalten. Leicht zu erratende Passwörter und solche, die einen Bezug zur eigenen Person aufweisen (z.B. Name, Name von Angehörigen, Geburtsdatum usw.), sind nicht erlaubt. Geschäftlich genutzte Passwörter dürfen nicht privat verwendet werden. Passwörter sollten regelmässig gewechselt werden. Sie sind sofort zu ändern, wenn ein Verdacht besteht, dass sie Dritten zur Kenntnis gelangt sind. Ein früher bereits benutztes Passwort darf nicht erneut verwendet werden.
+<sup>1</sup> Die geschäftlich anfallenden Daten sind mit der von der Körperschaft zur Verfügung gestellten Hard- und Software zu bearbeiten. Vorbehalten bleiben § 7 Abs. 1 und 2 sowie § 8.
 
-<sup>2</sup> Die Mitarbeitenden dürfen nur ihre persönlichen Benutzerkennungen oder die ihnen zugeteilten funktionellen Kennungen verwenden. Sie sind für die mit ihren Kennungen erfolgten Zugriffe verantwortlich. Der Zugriff auf Daten, die nicht zur Aufgabenerfüllung benötigt werden, ist verboten.
+<sup>2</sup> Die Installation von Hard- und Software sowie Kommunikationseinrichtungen erfolgt ausschliesslich durch die ICT-Verantwortlichen der Körperschaft.
 
-<sup>3</sup> Beim Verlassen des Arbeitsplatzes für längere Zeit ist die Arbeitsstation zu sperren, oder die Benutzerin bzw. der Benutzer meldet sich vom System ab. Laptops und Smartphones sind entsprechend zu sichern, schutzbedürftige Unterlagen vor Zugang zu schützen.
+<sup>3</sup> Zusätzliche Datensicherungen oder Kopien auf externen Festplatten und USB-Sticks sind verboten.
 
-<sup>4</sup> Es ist dafür zu sorgen, dass keine Unbefugten Zutritt zu den Arbeitsräumlichkeiten haben. Halten sich externe Personen in den Büroräumlichkeiten auf, sind Massnahmen zu treffen, die Unbefugten einen Zugang zu Informationen verhindern.
-
-<sup>5</sup> USB-Sticks und externe Festplatten von Dritten sind vor dem Öffnen durch einen Virenschutz zu überprüfen. Es dürfen nur Geräte aus bekannten Quellen verwendet werden.
-
-<sup>6</sup> Die Mitarbeitenden dürfen die Sicherheitssoftware (Virenschutz, Firewall usw.) nicht ausschalten, blockieren oder ihre Konfiguration verändern. E-Mails mit unbekanntem Absender, verdächtigem Betreff oder unüblichem Inhalt sind vorsichtig zu behandeln, da sie von der Virenschutzsoftware nicht erkannte Viren enthalten könnten. Ihre Anhänge sowie Links auf Websites sollen keinesfalls geöffnet werden. Jeder Verdacht auf Virenbefall muss sofort den ICT-Verantwortlichen gemeldet werden.
+<sup>4</sup> Nicht ausdrücklich zugelassene Plattformen und Collaboration Tools sowie Cloud-Dienste sind verboten.
 
 #### § 4
 
-**Daten- und Anwendungssicherheit**
+**Passwörter und Benutzerberechtigungen**
 
-Zur Wahrung der Daten- und Anwendungssicherheit (Verfügbarkeit, Integrität, Vertraulichkeit) dürfen nur von den ICT-Verantwortlichen der Körperschaft zugelassene Programme installiert werden.
+<sup>1</sup> Das Passwort ist persönlich und darf nicht weitergegeben werden.
+
+<sup>2</sup> Passwörter müssen aus mindestens zehn Stellen bestehen und sollen eine Kombination von Klein- und Grossbuchstaben, Ziffern und Sonderzeichen enthalten. Leicht zu erratende Passwörter und solche, die einen Bezug zur eigenen Person aufweisen (z.B. Name, Name von Angehörigen, Geburtsdatum usw.), sind nicht erlaubt. Geschäftlich genutzte Passwörter dürfen nicht privat verwendet werden.
+
+<sup>3</sup> Passwörter sollten regelmässig gewechselt werden. Sie sind sofort zu ändern, wenn ein Verdacht besteht, dass sie Dritten zur Kenntnis gelangt sind. Ein früher bereits benutztes Passwort darf nicht erneut verwendet werden.
+
+<sup>4</sup> Die Mitarbeitenden dürfen nur ihre persönlichen Benutzerkennungen oder die ihnen zugeteilten funktionellen Kennungen verwenden. Sie sind für die mit ihren Kennungen erfolgten Zugriffe verantwortlich. Der Zugriff auf Daten, die nicht zur Aufgabenerfüllung benötigt werden, ist verboten.
 
 #### § 5
 
-**Personendaten und vertrauliche Sachdaten**
+**Sicherheitsmassnahmen**
 
-<sup>1</sup> Personendaten und vertrauliche Sachdaten dürfen ausserhalb des körperschaftseigenen Netzwerks oder der iKath-Cloud nur verschlüsselt aufbewahrt werden. Sie dürfen online nicht genannt werden, also nicht im Internet, auch nicht in Sozialen Medien, unverschlüsselten E-Mails oder sonstigen unverschlüsselten Kommunikationsmitteln.
+<sup>1</sup> Beim Verlassen des Arbeitsplatzes ist die Arbeitsstation zu sperren oder die Benutzerin oder der Benutzer meldet sich vom System ab. Laptops und Smartphones sind entsprechend zu sichern, schutzbedürftige Unterlagen vor Zugang zu schützen.
 
-<sup>2</sup> Sie dürfen unverschlüsselt nur im körperschaftseigenen Netzwerk oder innerhalb der iKath-Cloud übertragen werden.
+<sup>2</sup> Es ist dafür zu sorgen, dass keine Unbefugten Zutritt zu den Arbeitsräumlichkeiten haben. Halten sich Unbefugte in den Büroräumlichkeiten auf, sind Massnahmen zu treffen, die ihnen einen Zugang zu Informationen verwehren.
+
+<sup>3</sup> USB-Sticks und externe Festplatten von Dritten sind vor dem Öffnen durch den auf den Informatikmitteln des Synodalrates installierten Virenschutz zu überprüfen. Es dürfen nur Datenträger aus bekannten Quellen verwendet werden.
+
+<sup>4</sup> Die Mitarbeitenden dürfen die Sicherheitssoftware (Virenschutz, Firewall usw.) nicht ausschalten, blockieren oder deren Konfiguration verändern. E-Mails mit unbekannter Absenderadresse, verdächtigem Betreff oder unüblichem Inhalt sind vorsichtig zu behandeln, da sie von der Virenschutzsoftware nicht erkannte Viren enthalten könnten. Ihre Anhänge sowie Links auf Webseiten sollen keinesfalls geöffnet werden.
 
 #### § 6
 
-**Verwendung von privaten Geräten**
+**Meldepflicht**
 
-<sup>1</sup> Geschäftliche Daten dürfen nicht auf privaten PCs, Laptops und Tablets gespeichert oder aufbewahrt werden.
+<sup>1</sup> Verlorene oder gestohlene Informatikmittel der Körperschaft sind unverzüglich dem Bereich ICT zu melden. Dieser entscheidet über weitere Massnahmen.
 
-<sup>2</sup> Ausnahmen bewilligt die Generalsekretärin bzw. der Generalsekretär nach Rücksprache mit der Leitung ICT.
-
-<sup>3</sup> Die Bewilligung für private Geräte wird nur erteilt, wenn es unzumutbar ist, ein geschäftliches Gerät zu benutzen und wenn die Sicherheitsmassnahmen gemäss Arbeitsplatzvorgaben erfüllt sind.
-
-<sup>4</sup> Werden Smartphones zu geschäftlichen Zwecken genutzt, müssen sie mit sechsstelligem Passwort, Fingerprint oder Gesichtserkennung gesichert werden. Dokumente mit vertraulichem bzw. schützenswertem Inhalt dürfen nicht gespeichert werden. Enthalten die Geräte schützenswerte Daten, dürfen sie nicht unbeaufsichtigt gelassen oder Dritten zur Nutzung überlassen werden.
+<sup>2</sup> Bei Verdacht auf Schwachstellen und mögliche IT-Sicherheitsvorfälle (z.B. Virenbefall, Datensicherheit) ist der Bereich ICT zwingend zu informieren. Im Übrigen sind alle beobachteten oder vermuteten IT-Notfälle und Informationssicherheitsvorfälle unverzüglich dem Bereich ICT zu melden.
 
 #### § 7
 
-**Private Nutzung**
+**Personendaten und vertrauliche Sachdaten**
 
-<sup>1</sup> Die private Nutzung von Internet, E-Mail und Sozialen Medien ist während der Arbeitszeit auf ein Minimum zu beschränken und sollte grundsätzlich nur während Pausen erfolgen.
+<sup>1</sup> Personendaten und vertrauliche Sachdaten dürfen mit Ausnahme der eigenen Personendaten nur innerhalb des körperschaftseigenen Netzwerks oder der von der Körperschaft bewilligten Cloud aufbewahrt werden.
 
-<sup>2</sup> Nicht erlaubt ist das Herunterladen und/oder Speichern von privaten Dateien in grosser Menge / mit grosser Netzwerkbelastung auf den Server (Foto-, Video- und Musikdateien).
+<sup>2</sup> Ausgenommen von Abs. 1 sind Personendaten und vertrauliche Sachdaten von Spitalseelsorgenden, welche die spitaleigene Infrastruktur für ihre Tätigkeit benutzen müssen.
 
-<sup>3</sup> Der Zugang zum Internet mit privaten Geräten ist nur im Gästebereich des WLAN erlaubt.
+<sup>3</sup> Personendaten und vertrauliche Sachdaten dürfen online (Internet, soziale Medien, unverschlüsselte E-Mails oder sonstige unverschlüsselten Kommunikationsmittel) nicht genannt werden.
+
+#### § 8
+
+**Verwendung von privaten Geräten zu geschäftlichen Zwecken**
+
+<sup>1</sup> Werden private Smartphones und Tablets zu geschäftlichen Zwecken genutzt, müssen sie mit sechsstelligem Passwort, Fingerprint oder Gesichtserkennung gesichert werden. PCs und Laptops müssen mit mindestens zehnstelligem Passwort geschützt werden. Die Geräte dürfen nicht unbeaufsichtigt gelassen oder Dritten zur Nutzung überlassen werden.
+
+<sup>2</sup> Der Zugriff auf geschäftliche Daten sowie deren Verarbeitung darf ausschliesslich über browserbasierte Webanwendungen (z.B. Outlook Webaccess, iKath, onegovGEVER) erfolgen.
+
+<sup>3</sup> Das Herunterladen oder Speichern von geschäftlichen Daten auf private Geräte ist mit Ausnahme der eigenen Personendaten nicht zulässig.
 
 **3**
 
-- 1\. 4. 21 - 112 § 8. Dokumente, Videos und Bilder sowie E-Mails, Webseiten und andere Webinhalte mit rassistischen, pornografischen, sexistischen, gewaltverherrlichenden oder ganz allgemein rechtswidrigen Inhalten dürfen weder konsumiert noch heruntergeladen oder weiterverbreitet werden. Ganz allgemein sind Handlungen, die nach Schweizerischem Strafgesetzbuch unter Strafe stehen, zu unterlassen.
+1.10. 25 - 130 § 9. <sup>1</sup> Die private nicht kommerzielle Nutzung der IT-Infrastruktur der Körperschaft ist erlaubt. Sie ist jedoch während der Arbeitszeit auf ein Minimum zu beschränken und sollte grundsätzlich nur während Pausen erfolgen.
 
-#### § 9
+**Private Nutzung der Informatikmittel und der Infrastruktur der Körperschaft**
 
-**Rechtswidriges**
+<sup>2</sup> Das Herunterladen von privaten Dateien in grosser Menge oder mit grosser Netzwerkbelastung sowie deren Speicherung in der Datenablage (Foto-, Video- und Musikdateien) sind nicht erlaubt.
 
-**Private E-Mails und Weiterleitung von E-Mails**
-
-<sup>1</sup> Das Versenden und Empfangen privater E-Mails über das Mail-Konto der Organisation ist erlaubt. Entsprechende E-Mails müssen in einem als «privat» bezeichneten Ordner abgelegt werden. Bei der automatischen Sicherung (Backup) der E-Mails der Arbeitnehmenden werden auch die privaten E-Mails gesichert.
-
-<sup>2</sup> Private E-Mails, die nicht als solche gekennzeichnet sind, gelten als geschäftliche E-Mails.
-
-<sup>3</sup> Nicht erlaubt ist das Publizieren der dienstlichen E-Mail-Adresse auf Webseiten zu privaten Zwecken.
-
-<sup>4</sup> Das automatische Weiterleiten (Forwarding) von E-Mails an die private sowie weitere externe E-Mail-Adressen braucht die Bewilligung der Generalsekretärin bzw. des Generalsekretärs.
-
-<sup>5</sup> Die vorgesetzte Stelle ist bei längerer Abwesenheit (Unfall, Krankheit oder sonstigen ausserordentlichen Ereignissen) einer bzw. eines Mitarbeitenden nach Rücksprache oder versuchter Rücksprache mit der bzw. dem Mitarbeitenden berechtigt, auf deren bzw. dessen E-Mail-Konto zuzugreifen. Sie macht es unter Mitwirkung der Bereichsleiterin bzw. des Bereichsleiters Personal und der bzw. des Datenschutzverantwortlichen.
+<sup>3</sup> Der Zugang zum Internet mit privaten Geräten ist nur im Gäste- oder Mitarbeitendenbereich des WLAN erlaubt.
 
 #### § 10
 
-**Respekt**
+**Private E-Mails und Weiterleitung von E-Mails**
 
-Alle Mitarbeitenden der Körperschaft zeigen sich jederzeit respektvoll gegenüber ihren Kommunikationspartnern. Das gilt auch für jene, über die sie allenfalls online schreiben wie Freunde, Arbeitskollegen, Kunden, Kritiker usw., aber auch die katholische Kirche als solche.
+<sup>1</sup> Das Versenden und Empfangen privater E-Mails über das Mail-Konto der Körperschaft ist erlaubt. Entsprechende E-Mails müssen in einem als «privat» bezeichneten Ordner abgelegt werden. Bei der automatischen Sicherung (Backup) der E-Mails der Arbeitnehmenden werden auch die privaten E-Mails gesichert.
+
+<sup>2</sup> Private E-Mails, welche nicht als solche gekennzeichnet sind, gelten als geschäftliche E-Mails.
+
+<sup>3</sup> Nicht erlaubt ist das Publizieren der dienstlichen E-Mail-Adresse auf Webseiten zu privaten Zwecken.
+
+<sup>4</sup> Das automatische Weiterleiten (Forwarding) von E-Mails an die private sowie weitere interne und externe E-Mail-Adressen ist verboten. Bei mehrtägiger Abwesenheit ist im E-Mail-Konto eine entsprechende Abwesenheitsnotiz zu erstellen.
 
 #### § 11
 
-**Soziale Medien**
+**Nutzung von Künstlicher Intelligenz (KI)**
 
-Die Online-Präsenz der Mitarbeitenden beeinflusst auch das Image der Katholischen Kirche im Kanton Zürich. In persönlichen Blogs oder Einträgen und Profilen in Sozialen Netzwerken wie z.B. Facebook soll aus den Umständen klar ersichtlich werden, dass hier die Privatperson ihre eigene Meinung vertritt. Sofern das nicht sowieso aus den Umständen deutlich erkennbar ist, müssen die Mitarbeitenden einen Hinweis darauf anbringen, dass die geäusserten Meinungen alleine jene der Autorin bzw. des Autors sind und nicht die Sicht der Katholischen Kirche im Kanton Zürich repräsentieren.
+<sup>1</sup> Die Mitarbeitenden und Mitglieder der Körperschaft dürfen bei ihrer geschäftlichen Tätigkeit Technologien und Systeme nutzen, die auf Künstlicher Intelligenz basieren (KI-basierte Technologien und Systeme oder kurz: KI).
 
-### III. Organisation
+<sup>2</sup> Um einen ethischen, rechtskonformen und sicheren Einsatz von KI-basierten Technologien und Systemen zu gewährleisten, gelten die folgenden Vorgaben:
+
+- a. der Einsatz von KI-basierten Technologien und Systemen muss durch den Bereich ICT genehmigt werden. Die zugelassenen KI-Systeme werden in einem Anhang zu diesem Reglement festgelegt. Nicht zugelassene KI-basierte Technologien und Systeme sind verboten,
+
+- b. KI darf nur für Zwecke eingesetzt werden, die dem Geschäftszweck der Körperschaft entsprechen und rechtskonform sind,
+
+- c. der Einsatz von KI darf nicht zu Diskriminierung («Bias»), Verletzung des Datenschutzes oder unethischen, rechtswidrigen oder strafbaren Handlungen führen,
+
+- d. die Ergebnisse aus der KI-Nutzung dürfen nicht unvoreingenommen und ohne menschliches Monitoring übernommen werden (Plausibilitätskontrolle),
+
+- e. bei der Nutzung von KI-Systemen dürfen Personendaten, einschliesslich besonderer Personendaten, sowie vertrauliche Sachdaten der Körperschaft nur im Rahmen der kirchlichen Aufgabenerfüllung und in vom Bereich ICT bewilligten geschlossenen KI-Systemen (keine Open Source AI) verwendet werden; die Datensicherheit ist stets zu gewährleisten,
+
+- f. werden besondere Personendaten in KI-Systemen bearbeitet, ist vorab eine datenschutzrechtliche Risikoabwägung des entsprechenden KI-Systems durch die Beauftragte oder den Beauftragten für den Datenschutz vorzunehmen. Ergibt sich daraus ein hohes Risiko für die betroffenen Personen, ist eine Datenschutz-Folgenabschätzung gemäss den geltenden datenschutzrechtlichen Vorgaben durchzuführen. Ist die Bearbeitung und Verwendung von besonderen Personendaten rechtlich notwendig, sind angemessene datenschutzrechtliche Schutzmassnahmen wie Anonymisierung oder Pseudonymisierung zu treffen,
+
+- g. der Einsatz von KI muss für Betroffene transparent sein; bei der Verwendung von KI in Arbeitsergebnissen ist entsprechend darauf hinzuweisen,
+
+- h. sofern Entscheidungen auf Basis von KI getroffen werden, ist dieser Prozess nachvollziehbar zu dokumentieren,
+
+- i. KI darf nicht für automatisierte Entscheidungen verwendet werden, die für die Betroffenen erhebliche rechtliche oder ethische Konsequenzen haben können.
+
+<sup>3</sup> Weiterführende Vorgaben und konkrete Anwendungsrichtlinien können in einem gesonderten Merkblatt festgelegt werden.
+
+<sup>4</sup> Der Bereich ICT kann die Einhaltung der Vorgaben zur KI-Nutzung eigenständig überprüfen und bei Bedarf oder missbräuchlicher Verwendung die Nutzung einschränken oder verbieten.
 
 #### § 12
 
-**ICT-Verantwortung**
+**Zugang zu geschäftlichen Daten bei Abwesenheiten**
 
-<sup>1</sup> Die ICT-Verantwortung obliegt dem Synodalrat.
+<sup>1</sup> Der Zugang zu geschäftlichen Daten bei Abwesenheiten darf grundsätzlich nur mit Zustimmung der betreffenden Mitarbeiterin oder des betreffenden Mitarbeiters erfolgen.
 
-<sup>2</sup> Die operative Verantwortung obliegt der Generalsekretärin bzw. dem Generalsekretär, technisch zuständig ist die ICT-Stabsstelle.
-
-<sup>3</sup> Verwaltung, Generalvikariat, Fach- und Dienststellen und Missionen haben je eine Ansprechperson für Informations- und Kommunikationstechnik (ICT). Wird keine bezeichnet, ist diese die Stellenleiterin bzw. der Stellenleiter.
-
-<sup>4</sup> Die ICT-Stabsstelle der Verwaltung unterstützt die Ansprechpersonen und hat einen Überblick über die Verwendung der Hard- und Software in der Körperschaft. Die Einzelheiten regelt der Synodalrat in einem ICT-Konzept.
-
-#### § 13
-
-**Betreiberstelle**
-
-<sup>1</sup> Als Betreiberstellen gelten die Informatikdienste, die für den Betrieb der elektronischen Infrastruktur und der Dienste der Körperschaft zuständig sind.
-
-<sup>2</sup> Durch Vertrag oder Weisung wird sichergestellt, dass die Betreiberstellen die rechtskonforme und sichere Nutzung der elektronischen Infrastruktur und der Dienste der Körperschaft ermöglichen.
-
-[^13-1]: Fassung gemäss B vom 18. Januar 2021 (OS 76, 65; ABl 2021-02-05). In Kraft seit 18. Januar 2021.
-
-#### § 14
-
-**Zuständigkeit Bereich ICT der Verwaltung**
-
-Der Bereich ICT der Verwaltung ist zuständig für den Betrieb des körperschaftseigenen Servers, die körperschaftseigene Netzwerkinfrastruktur in den Fach- und Dienststellen und Missionen sowie alle Clients (Desktop-PCs und Laptops) der Körperschaft.[^13-1]
-
-<sup>2</sup> Sie ist mithilfe der Betreiberstelle insbesondere zuständig für:
-
-- a. die Installation eines Spam-Filters und die Löschung als Spam erkannter Daten,
-
-- b. das Speichern sämtlicher E-Mails im E-Mail-Journal,
-
-- c. die Bewilligung von Software gemäss §§ 2 und 4,
-
-- d. das Sperren und Freischalten von Internetseiten im Einvernehmen mit der Generalsekretärin bzw. dem Generalsekretär,
-
-- e. bei Bedarf anonyme Auswertungen gemäss § 16,
-
-- f. bei Bedarf personenbezogene Auswertungen gemäss § 21.
-
-<sup>3</sup> Bei ausserordentlichen Ereignissen (wie technische Störung oder Netzwerküberlastung) kann die ICT-Stabsstelle den Datenverkehr vorübergehend einschränken. Eine solche Massnahme wird im Intranet mitgeteilt.
+<sup>2</sup> Sofern betrieblich notwendig, ist die Bereichsleiterin oder der Bereichsleiter Personal bei längerer Abwesenheit (aufgrund von Unfall, Krankheit oder sonstigen ausserordentlichen Ereignissen) einer oder eines Mitarbeitenden nach mehrmalig versuchter Rücksprache mit der
 
 **5**
 
-- 1\. 4. 21 - 112 § 15. <sup>1</sup> Die vorgesetzte Stelle ist bei längerer Abwesenheit einer bzw. eines Mitarbeitenden (Unfall, Krankheit oder sonstigen ausserordentlichen Ereignissen) berechtigt, nach Rücksprache oder versuchter Rücksprache auf deren bzw. dessen geschäftliche Daten zuzugreifen. Sie macht es unter Mitwirkung der Bereichsleiterin bzw. des Bereichsleiters Personal und der bzw. des Datenschutzverantwortlichen.
+1.10. 25 - 130 oder dem Mitarbeitenden berechtigt, auf deren oder dessen geschäftliche Daten (persönliches Laufwerk, Datenablage und E-Mail-Konto) zuzugreifen. Sie oder er macht es mit Zustimmung und unter Mitwirkung der oder des Beauftragten für den Datenschutz.
 
-**Zugang zu geschäftlichen Daten bei Abwesenheiten**
+<sup>3</sup> Die als privat gekennzeichneten Daten bleiben in der Datenablage der betroffenen Person. Die Vertraulichkeit und der Schutz der nicht als privat gekennzeichneten Daten kann nicht gewährleistet werden.
 
-<sup>2</sup> Geschäftliche Daten werden der vorgesetzten Stelle ausgehändigt, private Dateien bleiben in der Datenablage der betroffenen Person. Die Vertraulichkeit und der Schutz privater Dateien kann nicht gewährleistet werden.
+<sup>4</sup> Der Zugang und die Datenverarbeitung werden genau festgehalten und protokolliert.
+
+#### § 13
+
+**Rechtswidrige Nutzung**
+
+Dokumente, Videos und Bilder sowie E-Mails, Webseiten und andere Webinhalte mit rassistischen, pornografischen, sexistischen, gewaltverherrlichenden oder rechtswidrigen Inhalten dürfen weder konsumiert noch heruntergeladen oder weiterverbreitet werden.
+
+### III Organisation und Verantwortung
+
+#### § 14
+
+**Synodalrat**
+
+Der Synodalrat ist verantwortlich für den Betrieb der körperschaftseigenen IT-Infrastruktur. Er gewährleistet die rechtskonforme Nutzung, die Datensicherheit sowie den Daten- und Persönlichkeitsschutz der Angestellten und Behördenmitglieder der Körperschaft.
+
+#### § 15
+
+**Bereich ICT**
+
+<sup>1</sup> Der Bereich ICT ist verantwortlich für die Erstellung der IT-Konzepte der Körperschaft, deren Umsetzung und Überwachung. Er trifft die notwendigen technischen Massnahmen zur Gewährleistung der Datensicherheit und des Datenschutzes.
+
+<sup>2</sup> Er ist insbesondere zuständig für:
+
+- a. die Installation von Software und Programmen gemäss § 3,
+
+- b. das Sperren und Freischalten von Internetseiten sowie sozialer Medien und Plattformen,
+
+- c. die Anordnung und Umsetzung von angemessenen technischen Massnahmen, wie z.B. Firewalls, Spamfilter, Virenschutz usw.,
+
+- d. die Löschung von als Spam erkannten Daten,
+
+- e. die technische Behebung von Verstössen gegen Nutzungsvorschriften dieses Reglements, insbesondere das unverzügliche Entfernen von widerrechtlicher oder missbräuchlicher Hard- und Software,
+
+- f. Notfallmassnahmen, welche schnell getroffen werden müssen (z.B. für kompromittierte Dienste),
+
+- g. Massnahmen zur Gewährleistung der IT-Sicherheit gemäss §§ 18 und 19,
+
+- h. Massnahmen gemäss § 21.
 
 #### § 16
 
-**Anonymisierte Berichte**
+**Beauftragte oder Beauftragter für den Datenschutz in der Körperschaft**
 
-<sup>1</sup> Die Betreiberstellen erstellen auf Verlangen der Generalsekretärin bzw. des Generalsekretärs anonymisierte Berichte, die Aufschluss über die angewählten Internetadressen und soweit möglich über Zeitpunkt und Anzahl der Zugriffe und übertragenen Datenmengen geben.
+<sup>1</sup> Die oder der Beauftragte für den Datenschutz in der Körperschaft ist eine Stelle des Bereichs ICT der Körperschaft.
 
-<sup>2</sup> Die Berichte dürfen keine Rückschlüsse auf einzelne Mitarbeitende zulassen. Insbesondere dürfen sich aus ihnen weder die einzelnen Mitarbeitenden noch die einzelnen Arbeitsplätze ergeben.
+<sup>2</sup> Die oder der Beauftragte für den Datenschutz in der Körperschaft ist die zuständige Ansprechperson in Datenschutzfragen im Sinne von Art. 7 Abs. 1 der Kirchenordnung. Sie oder er ist verantwortlich für die Überprüfung und Überwachung der Datensicherheit und des Datenschutzes der IT-Konzepte und der IT-Infrastruktur der Körperschaft, insbesondere was das Feststellen und Beheben von IT-Sicherheitsmängeln betrifft. Sie oder er schlägt Sicherheitsmassnahmen vor und gibt Sicherheitsempfehlungen ab, um die IT-Anwendungen und -Systeme vor unbefugten Einwirkungen und vor unbefugtem Zugriff zu schützen. Sie kann zur Abklärung und Behebung von Sicherheitsmängeln externe Fachpersonen beiziehen.
 
-### IV. Missbrauch der elektronischen Infrastrukturen und Dienste
+<sup>3</sup> Die oder der Beauftragte für den Datenschutz ist im Weiteren verantwortlich für:
 
-der Körperschaft
+- a. die Überprüfung der Einhaltung von datenschutzrechtlichen Vorschriften und Richtlinien sowie die Einhaltung der Nutzungsvorschriften dieses Reglements,
 
-**Überwachungsmassnahmen**
+- b. Massnahmen gemäss § 21,
 
-§ 17. Gegen Missbrauch und technische Schäden setzt die Körperschaft technische Schutzmassnahmen (z.B. Sperren bestimmter Webdienste, Installieren von Anti-Virensoftware usw.) ein. Auch die anonymisierte technische Überwachung des Internetverkehrs ist gemäss § 16 zulässig. Besteht der begründete Verdacht, dass trotz technischen Schutzmassnahmen gegen dieses Reglement verstossen wird, erfolgt eine personenbezogene Überwachung und Auswertung der Internet- und E-Mail-Protokollierungen. Der Einsatz von Spionageprogrammen ist dabei verboten.
+- c. die Auswertung der periodischen anonymisierten Berichte gemäss § 19,
 
-#### § 18
+- d. die Einleitung des Verfahrens einer personenbezogenen Auswertung sowie die Auswertung der Daten gemäss § 22.
 
-**Definition**
+#### § 17
 
-Ein Missbrauch im Sinne dieses Reglements besteht bei einem Verstoss gegen §§ 2–8.
+**Betreiberstelle**
 
-#### § 19
+<sup>1</sup> Als Betreiberstellen gelten die Informatikdienste, die für den Betrieb der IT-Infrastruktur und der Dienste der Körperschaft zuständig sind.
 
-**Entscheid über personenbezogene Berichte**
-
-<sup>1</sup> Zuständig für die Anordnung einer personenbezogenen Auswertung ist die Generalsekretärin bzw. der Generalsekretär. Sie bzw. er trifft den Entscheid zusammen mit der Bereichsleiterin bzw. dem Bereichsleiter Personal und der bzw. dem Datenschutzverantwortlichen der Körperschaft.
-
-<sup>2</sup> Die Voraussetzungen für die Anordnung einer personenbezogenen Auswertung sind erfüllt, wenn – bei Internetzugriffen Missbräuche von erheblicher Tragweite vorliegen oder – beim E-Mail-Verkehr ein konkreter Verdacht auf Missbrauch besteht.
-
-#### § 20
-
-**Ankündigung der personenbezogenen Berichte**
-
-Die Generalsekretärin bzw. der Generalsekretär weist die betroffenen Mitarbeitenden darauf hin, dass für einen bestimmten Zeitraum die Internetzugriffe oder der E-Mail-Verkehr personenbezogen protokolliert und ausgewertet werden.
-
-#### § 21
-
-**Durchführung**
-
-<sup>1</sup> Nach erfolgter Ankündigung kann die Generalsekretärin bzw. der Generalsekretär die Betreiberstellen beauftragen, personenbezogene Berichte über die Internetzugriffe oder den E-Mail-Verkehr zu erstellen.
-
-<sup>2</sup> Personenbezogene Berichte dürfen für höchstens drei Monate erstellt werden. Über den Zeitraum vor der Ankündigung durch die Generalsekretärin bzw. den Generalsekretär dürfen keine personenbezogenen Berichte erstellt oder ausgewertet werden.
-
-<sup>3</sup> Die Betreiberstelle stellt die als vertraulich deklarierten Berichte der Generalsekretärin bzw. dem Generalsekretär zu.
-
-#### § 22
-
-**Inhalt**
-
-<sup>1</sup> Personenbezogene Berichte über den Internetzugriff enthalten – den Namen der Internetnutzerin oder des Internetnutzers,
-
-- die angewählten Internetadressen,
-
-- soweit möglich den Zeitpunkt und die Anzahl der Zugriffe sowie die übertragene Datenmenge.
-
-<sup>2</sup> Personenbezogene Berichte über den E-Mail-Verkehr enthalten – den Namen der E-Mail-Nutzerin oder des E-Mail-Nutzers,
-
-- die angewählten Adressen,
-
-- den Versandzeitpunkt,
-
-- die Datenmenge der ausgehenden E-Mails.
-
-#### § 23
-
-**Einleitung von Massnahmen**
-
-<sup>1</sup> Die Generalsekretärin bzw. der Generalsekretär entscheidet zusammen mit der Bereichsleiterin bzw. dem Bereichsleiter Personal und der bzw. dem Datenschutzverantwortlichen der Körperschaft aufgrund der personenbezogenen Berichte, ob dem Personalausschuss beantragt wird, gegen die betreffende Person eine Administrativuntersuchung durchzuführen, oder ob andere Massnahmen zu treffen sind.
-
-<sup>2</sup> Die Generalsekretärin bzw. der Generalsekretär teilt der betreffenden Person den Entscheid mit.
+<sup>2</sup> Durch Vertrag des Synodalrates oder Weisung des Bereichs ICT wird sichergestellt, dass die Betreiberstellen die rechtskonforme und sichere Nutzung der IT-Infrastruktur und der Dienste der Körperschaft ermöglichen.
 
 **7**
 
-- 1\. 4. 21 - 112 § 24. Wird keine Administrativuntersuchung eingeleitet, werden die personenbezogenen Berichte und Protokolle nach 30 Tagen vernichtet und die Mitarbeitenden informiert.
+1.10. 25 - 130
 
-**Prüfung und Vernichtung der Unterlagen**
+### IV Massnahmen zur Gewährleistung der IT-Sicherheit
 
-### V. Schlussbestimmungen
+#### § 18
+
+**Technische Schutzvorkehrungen und Nutzungsrichtlinien**
+
+Der Bereich ICT sorgt dafür, dass die IT-Infrastruktur rechtskonform genutzt wird. Er trifft die dazu nötigen technischen Schutzvorkehrungen, erlässt Nutzungsrichtlinien für Mitarbeitende sowie Drittnutzende und überwacht die Einhaltung dieses Reglements.
+
+#### § 19
+
+**Aufzeichnung undAuswertung von Randdaten**
+
+<sup>1</sup> Der Bereich ICT zeichnet bestimmte Randdaten auf und wertet diese periodisch anonymisiert aus. Die Randdaten werden für höchstens zwölf Monate aufgezeichnet und beschränken sich auf folgende Informationen:
+
+- a. interner Speicher (Homedrive, Teamfolder, s2Drive),
+
+- b. Telefonie pro Hauptnummer zuhanden der Finanzbuchhaltung zum Zweck der Weiterverrechnung an die Kostenstellen (allgemeine Kosten, kostenpflichtige Telefonnummern und Auslandstelefonie),
+
+- c. Webtraffic (externer Datenfluss), Überwachung von Zieladressen,
+
+- d. Netzwerktraffic (interner Datenfluss) oder Datenvolumen,
+
+- e. letztmalige Systemanmeldungen der PCs und Laptops in der Körperschaft,
+
+- f. Installation von illegaler Software auf der IT-Infrastruktur der Körperschaft.
+
+<sup>2</sup> Die Auswertungen dürfen keine Rückschlüsse auf einzelne Mitarbeitende zulassen. Insbesondere dürfen sich aus ihnen weder die einzelnen Mitarbeitenden noch die einzelnen Arbeitsplätze ergeben.
+
+<sup>3</sup> Besteht aufgrund der anonymisierten Auswertungen ein erheblicher Verdacht auf Missbrauch im Sinne von § 20, erstellt die oder der Beauftragte für den Datenschutz einen Bericht zuhanden der Generalsekretärin oder des Generalsekretärs und leitet damit das Verfahren der personenbezogenen Auswertung gemäss § 22 ein.
+
+### V Verfahren und Folgen bei Missbrauch oder erheblichem Verdacht
+
+auf Missbrauch
+
+**Missbrauch**
+
+§ 20. Ein Missbrauch im Sinne dieses Reglements liegt bei einem Verstoss gegen die Nutzungsvorschriften gemäss §§ 3–11 und 13 sowie 15 Abs. 2 vor.
+
+#### § 21
+
+**Weisungen, Ersatzvornahmen und vorsorgliche Massnahmen**
+
+<sup>1</sup> Stellt der Bereich ICT oder die oder der Beauftragte für den Datenschutz im Rahmen ihrer Aufgabenerfüllung Verstösse gegen dieses Reglement fest oder werden dem Bereich ICT oder der oder dem Beauftragten für den Datenschutz solche gemeldet, ergreift die Bereichsleiterin oder der Bereichsleiter ICT insbesondere die folgenden Massnahmen:
+
+- a. Anweisung an die Mitarbeiterin oder den Mitarbeiter, die missbräuchliche Nutzung innert Frist zu beseitigen und künftig zu unterlassen,
+
+- b. die eigenmächtige Beseitigung des rechtswidrigen Zustands, sofern dieser entgegen der Anweisung nicht innert Frist durch die Mitarbeiterin oder den Mitarbeiter selber erfolgt oder erfolgen kann,
+
+- c. vorsorgliche Sicherung von Daten sowie missbräuchlicher Hard- und Software zu Beweiszwecken bei erheblichem Verdacht auf eine Straftat nach dem Schweizerischen Strafgesetzbuch[^21-1] nach Rücksprache mit der Generalsekretärin oder dem Generalsekretär sowie der Bereichsleiterin oder dem Bereichsleiter Personal. Wird kein Strafverfahren eingeleitet, wird das gesicherte Beweismaterial vernichtet.
+
+<sup>2</sup> Der Bereich ICT oder die oder der Beauftragte für den Datenschutz informiert die zuständige Bereichsleiterin oder den zuständigen Bereichsleiter, die linienvorgesetzte Person sowie die Bereichsleiterin oder den Bereichsleiter Personal über die getroffenen Massnahmen.
+
+[^21-1]: SR 311.0.
+
+#### § 22
+
+**Verfahren der personenbezogenen Auswertungen**
+
+<sup>1</sup> Gestützt auf den Bericht der anonymisierten Auswertung gemäss § 19 ordnet die Generalsekretärin oder der Generalsekretär eine personenbezogene Auswertung an. Sie oder er informiert die Bereichsleiterin oder den Bereichsleiter Personal vorgängig über die Anordnung.
+
+<sup>2</sup> Die Generalsekretärin oder der Generalsekretär informiert die betroffene Mitarbeiterin oder den betroffenen Mitarbeiter über Inhalt und Dauer der personenbezogenen Auswertung.
+
+<sup>3</sup> Die personenbezogenen Auswertungen beziehen sich auf die missbrauchsrelevanten Bereiche der anonymisierten Auswertungen unter Angabe des Namens der oder des Nutzenden.
+
+<sup>4</sup> Die Betreiberstelle stellt die als vertraulich deklarierten Auswertungen der oder dem Beauftragten für den Datenschutz zu.
+
+<sup>5</sup> Die Generalsekretärin oder der Generalsekretär entscheidet zusammen mit der Bereichsleiterin oder dem Bereichsleiter Personal aufgrund der personenbezogenen Auswertung, ob der Personalkommission beantragt wird, eine Massnahme gemäss §§ 21 und 23 (weitere Folgen des Missbrauchs) einzuleiten sowie andere Massnahmen zu treffen.
+
+**9**
+
+1.10. 25 - 130
+
+<sup>6</sup> Die Generalsekretärin oder der Generalsekretär teilt der Mitarbeiterin oder dem Mitarbeiter den Entscheid mit.
+
+<sup>7</sup> Die Protokolle der personenbezogenen Auswertungen werden spätestens nach zwölf Monaten gelöscht, wenn sich der Verdacht auf Missbrauch nicht bestätigt oder sämtliche Verfahren rechtskräftig abgeschlossen sind. Die betreffende Mitarbeiterin oder der betreffende Mitarbeiter wird über die Löschung informiert.
+
+#### § 23
+
+**Weitere Folgen des Missbrauchs**
+
+<sup>1</sup> Bei Missbrauch, wiederholtem Missbrauch im Sinne von § 20 oder Nichtbefolgung der Weisungen des Bereichs ICT sowie der oder des Beauftragten für den Datenschutz werden zudem personalrechtliche Massnahmen nach der Anstellungsordnung geprüft und eingeleitet. Zuständig für den Entscheid über personalrechtliche Massnahmen ist die Personalkommission.
+
+<sup>2</sup> Vorbehalten bleibt die Einleitung eines Strafverfahrens und die Geltendmachung von Schadenersatzansprüchen durch den Synodalrat. Zuständig ist die Generalsekretärin oder der Generalsekretär.
+
+### VI Schlussbestimmungen
+
+#### § 24
+
+**Bestätigung der Kenntnisnahme des Reglements**
+
+Jede Mitarbeiterin und jeder Mitarbeiter sowie jedes Mitglied der Körperschaft unterzeichnet das Reglement als Erklärung, dass sie oder er das Reglement gelesen und den Inhalt zur Kenntnis genommen hat.
 
 #### § 25
 
-**Kenntnisnahme des Reglements**
-
-Jede Mitarbeiterin und jeder Mitarbeiter unterzeichnet das Reglement als Erklärung, dass sie bzw. er das Reglement gelesen und verstanden hat und die Nutzungsvorschriften einhalten wird.
-
-#### § 26
-
 **Inkrafttreten**
 
-Dieses Reglement tritt am 1. Oktober 2019 in Kraft.
+Dieses Reglement tritt am 1. Oktober 2025 in Kraft. Es ersetzt das ICT-Nutzungsreglement vom 20. Mai 2019.
