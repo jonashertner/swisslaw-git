@@ -4,10 +4,10 @@ number: "813.182"
 title: Personalreglement der Integrierten Psychiatrie Winterthur – Zürcher Unterland (PR-ipw)
 short: PR-ipw
 language: de
-nachtrag: "118"
-valid_until: 2025-10-01
+version: "2025-10-01"
+nachtrag: "130"
 adopted: 2022-03-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_182-2022_03_11-2022_07_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_182-2022_03_11-2022_07_01-130.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 **1**
 
-1.10. 22 - 118 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+1.10. 25 - 130 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
 - f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal der ipw,
 
@@ -145,7 +145,7 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 **3**
 
-1.10. 22 - 118 § 8. <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
+1.10. 25 - 130 § 8. <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
 
 **Sachlich zureichende Kündigungsgründe a. allgemein**
 
@@ -237,9 +237,19 @@ Der Spitalrat bestimmt die Personalpolitik im Rahmen der Eigentümerstrategie so
 
 **5**
 
-1.10. 22 - 118 § 16. <sup>1</sup> Die ipw kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
+1.10. 25 - 130 § 15 a.[^15-1] <sup>1</sup> Die Wochenarbeitszeit für Assistenzärztinnen und -ärzte beträgt 46 Stunden.
+
+**Arbeitszeit Assistenzärztinnen und -ärzte**
+
+<sup>2</sup> Assistenzärztinnen und -ärzte können davon durchschnittlich vier Stunden für strukturierte Weiterbildung nutzen.
+
+[^15-1]: Eingefügt durch B vom 27. Juni 2025 (OS 80, 227; ABl 2025-08-29). In Kraft seit 1. Oktober 2025.
+
+#### § 16
 
 **Versicherungen**
+
+<sup>1</sup> Die ipw kann für das Personal eine die gesetzlichen Lohnfortzahlungspflichten ersetzende Krankentaggeldversicherung abschliessen.
 
 <sup>2</sup> Die Leistungen müssen für das Personal mindestens gleichwertig zur Regelung gemäss kantonalem Personalrecht und für die ipw wirtschaftlich sein.
 
@@ -321,17 +331,21 @@ Die ipw unterstützt die Entwicklung und Verwertung von Erfindungen und setzt si
 
 <sup>1</sup> Erfindungen, die Angestellte der ipw bei Ausübung ihrer dienstlichen Tätigkeit machen oder an denen sie mitwirken, stehen im Eigentum der ipw, soweit keine anderslautenden Vereinbarungen getroffen wurden.
 
-<sup>2</sup> Die Geschäftsleitung kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^25-1] gilt sinngemäss.
-
 **7**
 
-1.10. 22 - 118 § 26. <sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen der ipw zu, soweit keine anderslautenden Vereinbarungen getroffen wurden.
+1.10. 25 - 130
+
+<sup>2</sup> Die Geschäftsleitung kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^25-1] gilt sinngemäss.
+
+[^25-1]: SR 220.
+
+#### § 26
 
 **Urheberrechtlich geschützte Werke**
 
-<sup>2</sup> Die Geschäftsleitung kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
+<sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen der ipw zu, soweit keine anderslautenden Vereinbarungen getroffen wurden.
 
-[^25-1]: SR 220.
+<sup>2</sup> Die Geschäftsleitung kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
 #### § 27
 
