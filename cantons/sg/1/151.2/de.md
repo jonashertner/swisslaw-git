@@ -10,7 +10,7 @@ version_adopted: 2025-07-29
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3792/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3793/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -620,6 +620,8 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die Geschäftsprüfungskommission handelt ohne Weisungen des Rates und erfüllt ihre Aufgaben selbständig und unabhängig.
 
+<sup>1<sup>bis</sup></sup> Sie fasst und vertritt ihre Beschlüsse als Kollegium.
+
 <sup>2</sup> Sie prüft die Amts- und Haushaltsführung des Rates und der Verwaltung im abgelaufenen Jahr sowie die Anträge des Rates über Budget und Steuerfuss für das nächste Jahr.
 
 <sup>3</sup> Sie kann während des Jahres angekündigte Zwischenrevisionen vornehmen.
@@ -718,7 +720,7 @@ als Gesetz:[^ingress-2]
 
 **e) Geschäftsprüfung**
 
-<sup>1</sup> Das Parlament wählt aus seiner Mitte eine Kommission, welche die Aufgaben der Geschäftsprüfungskommission wahrnimmt. Art. 54 bis 56 dieses Erlasses werden sachgemäss angewendet.
+<sup>1</sup> Das Parlament wählt aus seiner Mitte eine Kommission, welche die Aufgaben der Geschäftsprüfungskommission wahrnimmt. Die Bestimmungen von Art. 54 bis 56 dieses Erlasses mit Ausnahme von Art. 54 Abs. 1<sup>bis</sup> werden sachgemäss angewendet.
 
 <sup>2</sup> Die Gemeindeordnung kann vorsehen, dass die Kontrolle des Finanzhaushalts anstelle eines aussenstehenden Revisionsunternehmens durch eine interne und unabhängige Kontrollstelle erfolgt. Die Kontrollstelle ist durch eine in Revisionsfragen ausgewiesene Fachperson zu leiten, die durch das Parlament gewählt wird.
 
