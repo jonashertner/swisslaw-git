@@ -4,13 +4,13 @@ number: "861.520"
 title: Verordnung über die Wohnraumförderung
 short: "Wohnraumförderungsverordnung, WRFV"
 language: de
-version: 2022-05-28
-valid_until: 2025-09-30
-version_adopted: 2022-04-26
+version: 2025-10-01
+valid_until: 2026-07-01
+version_adopted: 2025-10-14
 adopted: 2014-06-17
 in_force: 2014-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/861.520"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5551/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6662/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Wohnraumförderungsverordnung | Sozialer Wohnungsbau / Erhaltung von Wohnraum
 
 (Wohnraumförderungsverordnung, WRFV)
 
-Vom 17. Juni 2014 (Stand 28. Mai 2022)
+Vom 17. Juni 2014 (Stand 1. Oktober 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -147,7 +147,7 @@ beschliesst:
 
 ## B. Weitere Fördermassnahmen
 
-### III. Bereitstellung von günstigem Mietwohnraum für besonders benachteiligte Personen
+### III. Bereitstellung von günstigem Mietwohnraum für besonders benachteiligte Personen und Massnahmen im Bereich des Sozialen Wohnens
 
 #### § 12
 
@@ -226,6 +226,22 @@ beschliesst:
 **Ersatzangebot**
 
 <sup>1</sup> Kündigt die Sozialhilfe Basel ein Mietverhältnis wegen Unterbelegung, baulicher Massnahmen oder im Hinblick auf einen Verkauf der Liegenschaft, so macht sie den betroffenen Mieterinnen und Mietern, welche die in § 16 Abs. 2 des Gesetzes festgelegten Kriterien erfüllen, nach Möglichkeit ein Ersatzangebot.
+
+#### § 20a
+
+**Kompetenzstelle Soziales Wohnen**
+
+<sup>1</sup> Die Sozialhilfe Basel betreibt die Kompetenzstelle Soziales Wohnen.
+
+<sup>2</sup> Zielgruppen der Kompetenzstelle sind besonders benachteiligte Personen sowie Vermieterschaften von günstigem Wohnraum für diesen Personenkreis.
+
+<sup>3</sup> Die Kompetenzstelle kann namentlich:
+
+- a) besonders benachteiligte Personen beraten und sie an geeignete Organisationen vermitteln;
+- b) Massnahmen zum Schutz vor Wohnungslosigkeit einleiten und finanzieren;
+- c) Vermieterschaften bei Problemen mit der Mieterschaft beraten;
+- d) bei Konflikten zwischen Vermieter- und Mieterschaft Vermittlung und Mediation anbieten;
+- e) niederschwellige Wohnbegleitungen in Liegenschaften einrichten und finanzieren.
 
 ### IV. Massnahmen im Hinblick auf private Investitionen
 
