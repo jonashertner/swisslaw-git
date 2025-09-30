@@ -3,18 +3,18 @@ sr: "814.610.1"
 title: Ordinanza del DATEC del 18 ottobre 2005 sulle liste per il traffico di rifiuti
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/714"
 language: it
-version: 2018-01-01
+version: 2025-10-01
 adopted: 2005-10-18
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/714/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2005-714-20180101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/714/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/714/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2005-714-20251001-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/714/20251001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC sulle liste per il traffico di rifiuti
 
-del 18 ottobre 2005 (Stato 1° gennaio 2018)
+del 18 ottobre 2005 (Stato 1° ottobre 2025)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -22,8 +22,8 @@ visti gli articoli 2, 12 capoverso 2 e 15 capoverso 3 dell’ordinanza del 22 gi
 
 ordina:
 
-[^ingress-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^ingress-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^ingress-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^ingress-2]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 
 ## **Articolo unico**
 
@@ -39,7 +39,7 @@ Allegato 1[^t-1]
 
 ## Elenco dei rifiuti
 
-[^t-1]: Aggiornato dai n. I delle O del DATEC dell’11 nov. 2009 ([RU 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), del 23 mar. 2016 ([RU 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)), del 3 mar. 2017 ([RU 2017 721](https://fedlex.data.admin.ch/eli/oc/2017/137)) e del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5961](https://fedlex.data.admin.ch/eli/oc/2017/652)).
+[^t-1]: Aggiornato dalle cifre I delle O del DATEC dell’11 nov. 2009 ([RU 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), del 23 mar. 2016 ([RU 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)), del 3 mar. 2017 ([RU 2017 721](https://fedlex.data.admin.ch/eli/oc/2017/137)), del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5961](https://fedlex.data.admin.ch/eli/oc/2017/652)) e del 1° set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 556](https://fedlex.data.admin.ch/eli/oc/2025/556)).
 
 ### 1 Osservazioni generali
 
@@ -55,7 +55,7 @@ Allegato 1[^t-1]
 
 <sup>3</sup> L’Ufficio federale dell’ambiente (UFAM) emana un aiuto all’esecuzione destinato alle autorità esecutive per permettere loro di valutare se un rifiuto è speciale o meno. In tale ambito prende in considerazione in particolare l’articolo 2 OTRif e l’allegato III della Convenzione di Basilea del 22 marzo 1989[^annex1-lvlu1-lvl1-lvl11-1] sul controllo dei movimenti oltre frontiera di rifiuti pericolosi e sulla loro eliminazione.
 
-[^annex1-lvlu1-lvl1-lvl11-1]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+[^annex1-lvlu1-lvl1-lvl11-1]: [RS 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
 
 ### 1.2 Codifica
 
@@ -880,7 +880,7 @@ Allegato 1[^t-1]
 <tr><td>17 02 97</td><td>rc</td><td>Legno usato proveniente da cantieri, demolizioni, rinnovi e ristrutturazioni</td></tr>
 <tr><td>17 02 98</td><td>rs</td><td>Rifiuti di legno problematici</td></tr>
 <tr><td>17 03</td><td></td><td>Rifiuti edili di origine minerale (asfalto di demolizione) e altri rifiuti contenenti catrame</td></tr>
-<tr><td>17 03 01</td><td>rc</td><td>Asfalto di demolizione con un tenore di PAH compreso tra 250 e 1000 mg/kg</td></tr>
+<tr><td>17 03 01</td><td>rc</td><td>Asfalto di demolizione con un tenore di PAH superiore a 250 e fino a 1000 mg/kg</td></tr>
 <tr><td>17 03 02</td><td></td><td>Asfalto di demolizione con un tenore di PAH che non superi i 250 mg/kg</td></tr>
 <tr><td>17 03 03</td><td>rs</td><td>Asfalto di demolizione con un tenore di PAH superiore a 1000 mg/kg nonché rifiuti contenenti catrame e catrame di carbone</td></tr>
 <tr><td>17 04</td><td></td><td>Metalli (incluse le loro leghe)</td></tr>
@@ -928,7 +928,7 @@ Allegato 1[^t-1]
 <tr><td colspan="3">Capitolo 18 Rifiuti prodotti dal settore sanitario e veterinario o da attività di ricerca collegate</td></tr>
 <tr><td>18 01</td><td></td><td>Rifiuti prodotti dalla ricerca, dall’ostetricia, dalla diagnosi, dal trattamento o dalla prevenzione di malattie nell’uomo</td></tr>
 <tr><td>18 01 01</td><td>rs</td><td>Rifiuti con pericolo di lesione (oggetti aguzzi o taglienti – «sharps») eccetto quelli di cui al codice 18 01 03</td></tr>
-<tr><td>18 01 02</td><td>rs</td><td>Rifiuti che presentano rischi di contaminazione (ad es. residui di tessuti, rifiuti contenenti sangue, secreti ed escreti, sacche per il sangue e sangue conservato)</td></tr>
+<tr><td>18 01 02</td><td>rs</td><td>Rifiuti che presentano rischi di contaminazione (ad es. residui di tessuti, rifiuti contenenti sangue, secreti ed escreti, sacche per il sangue e sangue conservato) eccetto quelli di cui al codice 18 01 03</td></tr>
 <tr><td>18 01 03</td><td>rs</td><td>Rifiuti infettivi</td></tr>
 <tr><td>18 01 04</td><td></td><td>Rifiuti che non devono essere raccolti e smaltiti applicando precauzioni particolari per evitare infezioni (ad es. bende, ingessature, biancheria, indumenti monouso, pannolini)</td></tr>
 <tr><td>18 01 06</td><td>rs</td><td>Prodotti chimici contenenti o costituiti da sostanze pericolose</td></tr>
@@ -944,7 +944,7 @@ Allegato 1[^t-1]
 <tr><td>18 02 06</td><td></td><td>Prodotti chimici eccetto quelli di cui al codice 18 02 05</td></tr>
 <tr><td>18 02 07</td><td>rs</td><td>Rifiuti citostatici</td></tr>
 <tr><td>18 02 08</td><td>rs</td><td>Medicamenti scaduti eccetto quelli di cui al codice 18 02 07</td></tr>
-<tr><td>18 02 98</td><td>rs</td><td>Rifiuti di origine animale con pericolo di contaminazione (ad es. residui di tessuti, rifiuti sporchi contenenti sangue, secreti ed escreti, sacche per il sangue e sangue conservato, carcasse di animali)</td></tr>
+<tr><td>18 02 98</td><td>rs</td><td>Rifiuti di origine animale con pericolo di contaminazione (ad es. residui di tessuti, rifiuti sporchi contenenti sangue, secreti ed escreti, sacche per il sangue e sangue conservato, carcasse di animali) eccetto quelli di cui al codice 18 02 02</td></tr>
 <tr><td colspan="3">Capitolo 19 Rifiuti prodotti da impianti di trattamento dei rifiuti, impianti publicci di depurazione delle acque di scarico nonché dalla potabilizzazione dell’acqua e dalla sua preparazione per uso industriale</td></tr>
 <tr><td>19 01</td><td></td><td>Rifiuti da incenerimento o pirolisi di rifiuti</td></tr>
 <tr><td>19 01 02</td><td></td><td>Materiali ferrosi estratti da ceneri pesanti</td></tr>
@@ -953,7 +953,7 @@ Allegato 1[^t-1]
 <tr><td>19 01 07</td><td>rs</td><td>Rifiuti solidi prodotti dal trattamento dei fumi</td></tr>
 <tr><td>19 01 10</td><td>rs</td><td>Carbone attivo esaurito impiegato per il trattamento dei fumi</td></tr>
 <tr><td>19 01 11</td><td>rs</td><td>Ceneri pesanti e scorie contenenti sostanze pericolose</td></tr>
-<tr><td>19 01 12</td><td></td><td>Ceneri pesanti e scorie (ad es. scorie IIRU incluse scorie IIRU miste a polveri di filtri lavate con acidi) eccetto quelle di cui al codice 19 01 11</td></tr>
+<tr><td>19 01 12</td><td></td><td>Scorie provenienti da impianti in cui vengono inceneriti rifiuti urbani o rifiuti di composizione analoga nonché ceneri pesanti eccetto quelle di cui al codice 19 01 11</td></tr>
 <tr><td>19 01 13</td><td>rs</td><td>Ceneri leggere contenenti sostanze pericolose</td></tr>
 <tr><td>19 01 14</td><td></td><td>Ceneri leggere eccetto quelle di cui al codice 19 01 13</td></tr>
 <tr><td>19 01 15</td><td>rs</td><td>Ceneri di caldaia contenenti sostanze pericolose</td></tr>
@@ -1178,7 +1178,7 @@ Allegato 3[^t-2]
 
 ## Quantitativi soglia per rifiuti speciali
 
-[^t-2]: Aggiornato dai n. I delle O del DATEC dell’11 nov. 2009 ([RU 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)) e del 23 mar. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)).
+[^t-2]: Aggiornato dalle cifre I delle O del DATEC dell’11 nov. 2009 ([RU 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), del 23 mar. 2016 ([RU 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)) e del 1° set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 556](https://fedlex.data.admin.ch/eli/oc/2025/556)).
 
 ### 1 In generale
 
@@ -1203,6 +1203,10 @@ Allegato 3[^t-2]
 <tr><td>03 02 04</td><td>Prodotti per i trattamenti conservativi del legno contenenti composti inorganici, a patto che si tratti di fanghi</td><td>2 000</td></tr>
 <tr><td>03 02 05 A</td><td>Altri prodotti per i trattamenti conservativi del legno, a patto che contengano cresoli</td><td>2 000</td></tr>
 <tr><td>03 02 05 B</td><td>Altri prodotti per i trattamenti conservativi del legno, a patto che contengano pentaclorofenolo</td><td>200</td></tr>
+</table>
+
+<table>
+<tr><th>Codice</th><th>Descrizione del rifiuto speciale</th><th>QS (kg)</th></tr>
 <tr><td colspan="3">Capitolo 04 Rifiuti della lavorazione di pelli e pellicce, nonché dell’industria tessile</td></tr>
 <tr><td>04 01</td><td>Rifiuti della lavorazione di pelli e pellicce</td><td></td></tr>
 <tr><td>04 01 04</td><td>Liquido di concia contenente cromo</td><td>20 000</td></tr>
@@ -1428,6 +1432,7 @@ Allegato 3[^t-2]
 <tr><td>16 05 98</td><td>Resti di sostanze chimiche di composizione ignota</td><td>200</td></tr>
 <tr><td>16 06</td><td>Batterie e accumulatori</td><td></td></tr>
 <tr><td>16 06 06</td><td>Elettroliti di batterie e accumulatori, oggetto di raccolta separata</td><td>2 000</td></tr>
+<tr><td>16 06 97</td><td>Batterie al litio e accumulatori al litio</td><td>100 000</td></tr>
 <tr><td>16 07</td><td>Rifiuti della pulizia di serbatoi per trasporto e stoccaggio e di fusti (eccetto quelli di cui ai capitoli 05 e 13)</td><td></td></tr>
 <tr><td>16 07 08</td><td>Rifiuti contenenti olio</td><td>200 000</td></tr>
 <tr><td>16 08</td><td>Catalizzatori esauriti</td><td></td></tr>
@@ -1455,6 +1460,8 @@ Allegato 3[^t-2]
 <tr><td>19 08 14</td><td>...</td><td></td></tr>
 <tr><td>19 11</td><td>Rifiuti prodotti dalla rigenerazione dell’olio esausto</td><td></td></tr>
 <tr><td>19 11 02</td><td>Catrami acidi</td><td>20 000</td></tr>
+<tr><td>19 12</td><td>Rifiuti prodotti dal trattamento meccanico dei rifiuti (ad es. selezione, triturazione, compattazione, riduzione in pellet) non specificati altrimenti</td><td></td></tr>
+<tr><td>19 12 11 A</td><td>Altri rifiuti (compresi materiali misti) prodotti dal trattamento meccanico dei rifiuti, contenenti sostanze pericolose, a patto che si tratti di massa nera derivante dalla lavorazione di batterie al litio e accumulatori al litio</td><td>20 000</td></tr>
 <tr><td colspan="3">Capitolo 20 Rifiuti urbani e assimilabili prodotti da attività industriali e commerciali (rifiuti domestici e assimilabili prodotti da attività commerciali e industriali nonché dalle istituzioni) inclusi i rifiuti della raccolta separata</td></tr>
 <tr><td>20 01</td><td>Frazioni oggetto di raccolta separata (eccetto quelli di cui al codice 15 01)</td><td></td></tr>
 <tr><td>20 01 13 A</td><td>Solventi</td><td>20 000</td></tr>

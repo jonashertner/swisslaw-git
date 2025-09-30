@@ -3,18 +3,18 @@ sr: "814.610.1"
 title: Verordnung des UVEK vom 18. Oktober 2005 über Listen zum Verkehr mit Abfällen
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/714"
 language: de
-version: 2018-01-01
+version: 2025-10-01
 adopted: 2005-10-18
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/714/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2005-714-20180101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/714/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/714/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2005-714-20251001-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/714/20251001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über Listen zum Verkehr mit Abfällen
 
-vom 18. Oktober 2005 (Stand am 1. Januar 2018)
+vom 18. Oktober 2005 (Stand am 1. Oktober 2025)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -22,8 +22,8 @@ gestützt auf die Artikel 2, 12 Absatz 2 und 15 Absatz 3 der Verordnung vom 22. 
 
 verordnet:
 
-[^ingress-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^ingress-2]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^ingress-1]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^ingress-2]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 
 ## **Einziger Artikel**
 
@@ -39,7 +39,7 @@ Anhang 1[^t-1]
 
 ## Abfallverzeichnis
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des UVEK vom 11. Nov. 2009 ([AS 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), vom 23. März 2016 ([AS 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)), vom 3. März 2017 ([AS 2017 721](https://fedlex.data.admin.ch/eli/oc/2017/137)) und vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5961](https://fedlex.data.admin.ch/eli/oc/2017/652)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des UVEK vom 11. Nov. 2009 ([AS 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), vom 23. März 2016 ([AS 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)), vom 3. März 2017 ([AS 2017 721](https://fedlex.data.admin.ch/eli/oc/2017/137)), vom 25. Okt. 2017 ([AS 2017 5961](https://fedlex.data.admin.ch/eli/oc/2017/652)) und vom 1. Sept. 2025, in Kraft seit 1. Okt. 2025 (AS **20****25** 556).
 
 ### 1 Allgemeine Hinweise
 
@@ -55,7 +55,7 @@ Anhang 1[^t-1]
 
 <sup>3</sup> Das Bundesamt für Umwelt (BAFU) erlässt eine Vollzugshilfe zu Handen der Vollzugsbehörden zur Beurteilung der Frage, ob ein Abfall Sonderabfall ist oder nicht. Es berücksichtigt dabei insbesondere Artikel 2 VeVA sowie Anlage III des Basler Übereinkommens vom 22. März 1989[^annex1-lvlu1-lvl1-lvl11-1] über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung.
 
-[^annex1-lvlu1-lvl1-lvl11-1]: [SR 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+[^annex1-lvlu1-lvl1-lvl11-1]: [SR 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
 
 ### 1.2 Codierung
 
@@ -881,7 +881,7 @@ Anhang 1[^t-1]
 <tr><td>17 02 97</td><td>ak</td><td>Altholz von Baustellen, Abbrüchen, Renovationen und Umbauten</td></tr>
 <tr><td>17 02 98</td><td>S</td><td>Problematische Holzabfälle</td></tr>
 <tr><td>17 03</td><td></td><td>Mineralische Bauabfälle (Ausbauasphalt) und andere teerhaltige Abfälle</td></tr>
-<tr><td>17 03 01</td><td>ak</td><td>Ausbauasphalt mit einem Gehalt von 250 bis 1000 mg PAK pro kg</td></tr>
+<tr><td>17 03 01</td><td>ak</td><td>Ausbauasphalt mit einem Gehalt von mehr als 250 bis zu 1000 mg PAK pro kg</td></tr>
 <tr><td>17 03 02</td><td></td><td>Ausbauasphalt mit einem Gehalt von bis zu 250 mg PAK pro kg</td></tr>
 <tr><td>17 03 03</td><td>S</td><td>Ausbauasphalt mit einem Gehalt von mehr als 1000 mg PAK pro kg sowie andere teerhaltige Abfälle und Kohlenteer</td></tr>
 <tr><td>17 04</td><td></td><td>Metalle (einschliesslich Legierungen)</td></tr>
@@ -930,7 +930,7 @@ Anhang 1[^t-1]
 <tr><td colspan="3">Kapitel 18 Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und Forschung</td></tr>
 <tr><td>18 01</td><td></td><td>Abfälle aus Forschung, Geburtshilfe, Diagnose, Behandlung oder Vorbeugung von Krankheiten beim Menschen</td></tr>
 <tr><td>18 01 01</td><td>S</td><td>Abfälle mit Verletzungsgefahr (spitze oder scharfe Gegenstände – „sharps“) mit Ausnahme derjenigen, die unter 18 01 03 fallen</td></tr>
-<tr><td>18 01 02</td><td>S</td><td>Abfälle mit Kontaminationsgefahr (z.B. Gewebeabfälle, Abfälle mit Blut, Sekreten und Exkreten, Blutbeutel und Blutkonserven)</td></tr>
+<tr><td>18 01 02</td><td>S</td><td>Abfälle mit Kontaminationsgefahr (z. B. Gewebeabfälle, Abfälle mit Blut, Sekreten und Exkreten, Blutbeutel und Blutkonserven) mit Ausnahme derjenigen, die unter 18 01 03 fallen</td></tr>
 <tr><td>18 01 03</td><td>S</td><td>Infektiöse Abfälle</td></tr>
 <tr><td>18 01 04</td><td></td><td>Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht keine besonderen Anforderungen gestellt werden (z.B. Wund- und Gipsverbände, Wäsche, Einwegkleidung, Windeln)</td></tr>
 <tr><td>18 01 06</td><td>S</td><td>Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten</td></tr>
@@ -946,7 +946,7 @@ Anhang 1[^t-1]
 <tr><td>18 02 06</td><td></td><td>Chemikalien mit Ausnahme derjenigen, die unter 18 02 05 fallen</td></tr>
 <tr><td>18 02 07</td><td>S</td><td>Zytostatika-Abfälle</td></tr>
 <tr><td>18 02 08</td><td>S</td><td>Altmedikamente mit Ausnahme derjenigen, die unter 18 02 07 fallen</td></tr>
-<tr><td>18 02 98</td><td>S</td><td>Tierische Abfälle mit Kontaminationsgefahr (z.B. Gewebeabfälle, Abfälle mit Blut, Sekreten und Exkreten, Blutbeutel und Blut-konserven, kontaminierte Kadaver von Tieren)</td></tr>
+<tr><td>18 02 98</td><td>S</td><td>Tierische Abfälle mit Kontaminationsgefahr (z. B. Gewebeabfälle, Abfälle mit Blut, Sekreten und Exkreten, Blutbeutel und Blutkonserven, kontaminierte Kadaver von Tieren) mit Ausnahme derjenigen, die unter 18 02 02 fallen</td></tr>
 <tr><td colspan="3">Kapitel 19 Abfälle aus Abfallbehandlungsanlagen, öffentlichen Abwasserbehandlungsanlagen sowie der Aufbereitung von Wasser für den menschlichen Gebrauch und Wasser für industrielle Zwecke</td></tr>
 <tr><td>19 01</td><td></td><td>Abfälle aus der Verbrennung oder Pyrolyse von Abfällen</td></tr>
 <tr><td>19 01 02</td><td></td><td>Eisenteile, aus der Rost- und Kesselasche entfernt</td></tr>
@@ -955,7 +955,7 @@ Anhang 1[^t-1]
 <tr><td>19 01 07</td><td>S</td><td>Feste Abfälle aus der Abgasbehandlung</td></tr>
 <tr><td>19 01 10</td><td>S</td><td>Gebrauchte Aktivkohle aus der Abgasbehandlung</td></tr>
 <tr><td>19 01 11</td><td>S</td><td>Rost- und Kesselaschen sowie Schlacken, die gefährliche Stoffe enthalten</td></tr>
-<tr><td>19 01 12</td><td></td><td>Rost- und Kesselaschen sowie Schlacken (z.B. KVA-Schlacken einschliesslich KVA-Schlacken vermischt mit sauer gewaschenen Filterstäuben) mit Ausnahme derjenigen, die unter 19 01 11 fallen</td></tr>
+<tr><td>19 01 12</td><td></td><td>Schlacke aus Anlagen, in denen Siedlungsabfälle oder Abfälle vergleichbarer Zusammensetzung verbrannt werden sowie Rost- und Kesselasche mit Ausnahme derjenigen, die unter 19 01 11 fallen</td></tr>
 <tr><td>19 01 13</td><td>S</td><td>Filterstaub, der gefährliche Stoffe enthält</td></tr>
 <tr><td>19 01 14</td><td></td><td>Filterstaub mit Ausnahme desjenigen, der unter 19 01 13 fällt</td></tr>
 <tr><td>19 01 15</td><td>S</td><td>Kesselstaub, der gefährliche Stoffe enthält</td></tr>
@@ -1180,7 +1180,7 @@ Anhang 3[^t-2]
 
 ## Mengenschwellen für Sonderabfälle
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des UVEK vom 11. Nov. 2009 ([AS 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)) und vom 23. März 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des UVEK vom 11. Nov. 2009 ([AS 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), vom 23. März 2016 ([AS 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)) und vom 1. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 556](https://fedlex.data.admin.ch/eli/oc/2025/556)).
 
 ### 1 Allgemeines
 
@@ -1430,6 +1430,7 @@ Anhang 3[^t-2]
 <tr><td>16 05 98</td><td>Chemikalienreste unbekannter Zusammensetzung</td><td>200</td></tr>
 <tr><td>16 06</td><td>Batterien und Akkumulatoren</td><td></td></tr>
 <tr><td>16 06 06</td><td>Getrennt gesammelte Elektrolyte aus Batterien und Akkumulatoren</td><td>2 000</td></tr>
+<tr><td>16 06 97</td><td>Lithium-Batterien und Lithium-Akkumulatoren</td><td>100 000</td></tr>
 <tr><td>16 07</td><td>Abfälle aus der Reinigung von Transport- und Lagertanks und Fässern (mit Ausnahme derjenigen, die unter die Kapitel 05 und 13 fallen)</td><td></td></tr>
 <tr><td>16 07 08</td><td>Ölhaltige Abfälle</td><td>200 000</td></tr>
 <tr><td>16 08</td><td>Gebrauchte Katalysatoren</td><td></td></tr>
@@ -1457,6 +1458,8 @@ Anhang 3[^t-2]
 <tr><td>19 08 14</td><td>*…*</td><td></td></tr>
 <tr><td>19 11</td><td>Abfälle aus der Altölaufbereitung</td><td></td></tr>
 <tr><td>19 11 02</td><td>Säureteere</td><td>20 000</td></tr>
+<tr><td>19 12</td><td>Abfälle aus der mechanischen Behandlung von Abfällen (z. B. Sortieren, Zerkleinern, Verdichten, Pelletieren) anderswo nicht genannt</td><td></td></tr>
+<tr><td>19 12 11 A</td><td>Sonstige Abfälle (einschliesslich Materialmischungen) aus der mechanischen Behandlung von Abfällen, die gefährliche Stoffe enthalten, falls es sich um Schwarzmasse aus der Verarbeitung von Lithium-Batterien und Lithium-Akkumulatoren handelt.</td><td>20 000</td></tr>
 <tr><td colspan="3">Kapitel 20 Siedlungsabfälle und siedlungsabfallähnliche Abfälle aus Industrie und Gewerbe (Haushaltabfälle und ähnliche gewerbliche und industrielle Abfälle sowie Abfälle aus Einrichtungen), einschliesslich getrennt gesammelte Fraktionen</td></tr>
 <tr><td>20 01</td><td>Getrennt gesammelte Fraktionen (mit Ausnahme derjenigen, die unter 15 01 fallen)</td><td></td></tr>
 <tr><td>20 01 13 A</td><td>Lösungsmittel</td><td>20 000</td></tr>

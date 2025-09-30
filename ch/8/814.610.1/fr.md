@@ -3,18 +3,18 @@ sr: "814.610.1"
 title: Ordonnance du DETEC du 18 octobre 2005 concernant les listes pour les mouvements de déchets
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/714"
 language: fr
-version: 2018-01-01
+version: 2025-10-01
 adopted: 2005-10-18
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/714/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-714-20180101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/714/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/714/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-714-20251001-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/714/20251001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC concernant les listes pour les mouvements de déchets
 
-du 18 octobre 2005 (État le 1<sup>er</sup> janvier 2018)
+du 18 octobre 2005 (État le 1<sup>er</sup> octobre 2025)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -22,8 +22,8 @@ vu les art. 2, 12, al. 2, et 15, al. 3, de l’ordonnance du 22 juin 2005 sur le
 
 arrête:
 
-[^ingress-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^ingress-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^ingress-1]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^ingress-2]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 
 ## **Article unique**
 
@@ -39,13 +39,13 @@ Annexe 1[^t-1]
 
 ## Liste des déchets
 
-[^t-1]: Mise à jour selon le ch. I des O du DETEC du 11 nov. 2009 ([RO 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), du 23 mars 2016 ([RO 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)), du 3 mars 2017 ([RO 2017 721](https://fedlex.data.admin.ch/eli/oc/2017/137)) et du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5961](https://fedlex.data.admin.ch/eli/oc/2017/652)).
+[^t-1]: Mise à jour selon le ch. I des O du DETEC du 11 nov. 2009 ([RO 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), du 23 mars 2016 ([RO 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)), du 3 mars 2017 ([RO 2017 721](https://fedlex.data.admin.ch/eli/oc/2017/137)), du 25 oct. 2017 ([RO 2017 5961](https://fedlex.data.admin.ch/eli/oc/2017/652)) et du 1<sup>er</sup> sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 556](https://fedlex.data.admin.ch/eli/oc/2025/556)).
 
 ### 1 Indications générales
 
 ### 1.1 Classification des déchets
 
-<sup>1</sup> Sont désignés dans la liste des déchets
+<sup>1</sup> Sont désignés dans la liste des déchets:
 
 - a. par les lettres *ds:* les déchets spéciaux;
 - b. par les lettres *sc:* les autres déchets soumis à contrôle;
@@ -55,7 +55,7 @@ Annexe 1[^t-1]
 
 <sup>3</sup> L’Office fédéral de l’environnement (OFEV) publie à l’intention des autorités concernées une aide à l’exécution permettant d’établir si des déchets sont des déchets spéciaux. Il tient compte en particulier de l’art. 2 OMoD et de l’annexe III de la Convention de Bâle du 22 mars 1989 sur le contrôle des mouvements transfrontières de déchets spéciaux et de leur élimination[^annex1-lvlu1-lvl1-lvl11-1].
 
-[^annex1-lvlu1-lvl1-lvl11-1]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+[^annex1-lvlu1-lvl1-lvl11-1]: [RS 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
 
 ### 1.2 Mode d’encodage
 
@@ -806,7 +806,7 @@ Annexe 1[^t-1]
 <tr><td>16 02 10</td><td>ds</td><td>Appareils hors d’usage contenant des PCB ou contaminés par de telles substances, autres que ceux visés à la rubrique 16 02 09</td></tr>
 <tr><td>16 02 11</td><td>sc</td><td>Appareils hors d’usage contenant des chlorofluorocarbures, des HCFC ou des HFC</td></tr>
 <tr><td>16 02 12</td><td>ds</td><td>Appareils hors d’usage contenant de l’amiante libre</td></tr>
-<tr><td>16 02 13</td><td>sc</td><td>Appareils hors d’usage contenant des composants dangereux, autres que ceux visés aux rubriques 16 02 09 à 16 02 12 ou 20 01 21</td></tr>
+<tr><td>16 02 13</td><td>sc</td><td>Appareils hors d’usage, autres que ceux visés aux rubriques 16 02 09 à 16 02 12 ou 20 01 21</td></tr>
 <tr><td>16 02 15</td><td>ds</td><td>Composants dangereux retirés des appareils hors d’usage</td></tr>
 <tr><td>16 02 16</td><td></td><td>Composants retirés des appareils hors d’usage, autres que ceux visés aux rubriques 16 02 15 ou 16 02 97</td></tr>
 <tr><td>16 02 97</td><td>sc</td><td>Composants électroniques retirés des appareils hors d’usage, autres que ceux visés à la rubrique 16 02 15</td></tr>
@@ -881,7 +881,7 @@ Annexe 1[^t-1]
 <tr><td>17 02 97</td><td>sc</td><td>Bois usagé issu de chantiers, de démolitions, de rénovations et de transformations</td></tr>
 <tr><td>17 02 98</td><td>ds</td><td>Déchets de bois problématiques</td></tr>
 <tr><td>17 03</td><td></td><td>Déchets de chantier minéraux (matériaux bitumineux de démolition) et autres déchets goudronnés</td></tr>
-<tr><td>17 03 01</td><td>sc</td><td>Matériaux bitumineux de démolition dont la teneur en HAP se situe entre 250 et 1000 mg/kg</td></tr>
+<tr><td>17 03 01</td><td>sc</td><td>Matériaux bitumineux de démolition dont la teneur en HAP se situe entre plus de 250 et 1000 mg/kg</td></tr>
 <tr><td>17 03 02</td><td></td><td>Matériaux bitumineux de démolition dont la teneur en HAP ne dépasse pas 250 mg/kg</td></tr>
 <tr><td>17 03 03</td><td>ds</td><td>Matériaux bitumineux de démolition dont la teneur en HAP dépasse 1000 mg/kg, autres déchets goudronnés et goudron de houille</td></tr>
 <tr><td>17 04</td><td></td><td>Métaux (y compris leurs alliages)</td></tr>
@@ -930,7 +930,7 @@ Annexe 1[^t-1]
 <tr><td colspan="3">Chapitre 18 Déchets provenant des soins médicaux ou vétérinaires et de la recherche associée</td></tr>
 <tr><td>18 01</td><td></td><td>Déchets provenant de la recherche, des maternités, du diagnostic, du traitement ou de la prévention des maladies humaines</td></tr>
 <tr><td>18 01 01</td><td>ds</td><td>Déchets présentant un danger de blessure (objets piquants ou coupants – « sharps »), autres que ceux visés à la rubrique 18 01 03</td></tr>
-<tr><td>18 01 02</td><td>ds</td><td>Déchets présentant un danger de contamination (par exemple déchets de tissus, déchets contenant du sang, des sécrétions ou des excrétions, sacs de sang et réserves de sang)</td></tr>
+<tr><td>18 01 02</td><td>ds</td><td>Déchets présentant un danger de contamination (par exemple déchets de tissus, déchets contenant du sang, des sécrétions ou des excrétions, sacs de sang et réserves de sang), autres que ceux visés à la rubrique 18 01 03</td></tr>
 <tr><td>18 01 03</td><td>ds</td><td>Déchets infectieux</td></tr>
 <tr><td>18 01 04</td><td></td><td>Déchets dont la collecte et l’élimination ne font pas l’objet de prescriptions particulières ’pour prévenir les infections (par exemple pansements, plâtres, draps, vêtements jetables, langes)</td></tr>
 <tr><td>18 01 06</td><td>ds</td><td>Produits chimiques composés de substances dangereuses ou contenant de telles substances</td></tr>
@@ -946,7 +946,7 @@ Annexe 1[^t-1]
 <tr><td>18 02 06</td><td></td><td>Produits chimiques autres que ceux visés à la rubrique 18 02 05</td></tr>
 <tr><td>18 02 07</td><td>ds</td><td>Déchets cytostatiques</td></tr>
 <tr><td>18 02 08</td><td>ds</td><td>Médicaments périmés autres que ceux visés à la rubrique 18 02 07</td></tr>
-<tr><td>18 02 98</td><td>ds</td><td>Déchets animaux présentant un danger de contamination (par exemple déchets de tissus, déchets contenant du sang, des sécrétions ou des excrétions, sacs de sang et réserves de sang, cadavres contaminés d’animaux)</td></tr>
+<tr><td>18 02 98</td><td>ds</td><td>Déchets animaux présentant un danger de contamination (par exemple déchets de tissus, déchets contenant du sang, des sécrétions ou des excrétions, sacs de sang et réserves de sang, cadavres contaminés d’animaux), autres que ceux visés à la rubrique 18 02 02</td></tr>
 <tr><td colspan="3">Chapitre 19 Déchets provenant des installations de traitement des déchets, des installations publiques de traitement des eaux usées et de la préparation d’eau destinée à la consommation humaine ou à l’usage industriel</td></tr>
 <tr><td>19 01</td><td></td><td>Déchets de l’incinération ou de la pyrolyse de déchets</td></tr>
 <tr><td>19 01 02</td><td></td><td>Déchets de déferraillage des mâchefers</td></tr>
@@ -955,7 +955,7 @@ Annexe 1[^t-1]
 <tr><td>19 01 07</td><td>ds</td><td>Déchets solides de l’épuration des fumées</td></tr>
 <tr><td>19 01 10</td><td>ds</td><td>Charbon actif usé provenant de l’épuration des fumées</td></tr>
 <tr><td>19 01 11</td><td>ds</td><td>Mâchefers et scories contenant des substances dangereuses</td></tr>
-<tr><td>19 01 12</td><td></td><td>Mâchefers et scories (par exemple mâchefers d’UIOM, y compris ceux mélangés avec des cendres volantes traitées par lavage acide), autres que ceux visés à la rubrique 19 01 11</td></tr>
+<tr><td>19 01 12</td><td></td><td>Scories provenant d’installations où sont incinérés des déchets urbains ou des déchets de composition analogue ainsi que mâchefers et scories autres que ceux visés à la rubrique 19 01 11</td></tr>
 <tr><td>19 01 13</td><td>ds</td><td>Cendres volantes contenant des substances dangereuses</td></tr>
 <tr><td>19 01 14</td><td></td><td>Cendres volantes autres que celles visées à la rubrique 19 01 13</td></tr>
 <tr><td>19 01 15</td><td>ds</td><td>Cendres sous chaudière contenant des substances dangereuses</td></tr>
@@ -1180,7 +1180,7 @@ Annexe 3[^t-2]
 
 ## Déchets spéciaux assortis d’un seuil quantitatif
 
-[^t-2]: Mise à jour selon le ch. I des O du DETEC du 11 nov. 2009 ([RO 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)) et du 23 mars 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)).
+[^t-2]: Mise à jour selon le ch. I des O du DETEC du 11 nov. 2009 ([RO 2009 6279](https://fedlex.data.admin.ch/eli/oc/2009/765)), du 23 mars 2016 ([RO 2016 1125](https://fedlex.data.admin.ch/eli/oc/2016/208)) et du 1<sup>er</sup> sept. 2025, en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 556](https://fedlex.data.admin.ch/eli/oc/2025/556)).
 
 ### 1 Généralités
 
@@ -1431,6 +1431,7 @@ Annexe 3[^t-2]
 <tr><td>16 05 98</td><td colspan="2">Déchets de produits chimiques dont la composition n’est pas connue</td><td>200</td></tr>
 <tr><td>16 06</td><td colspan="2">Piles et accumulateurs</td><td></td></tr>
 <tr><td>16 06 06</td><td colspan="2">Électrolytes de piles et accumulateurs collectés séparément</td><td>2 000</td></tr>
+<tr><td>16 06 97</td><td colspan="2">Piles au lithium et accumulateurs au lithium</td><td>100 000</td></tr>
 <tr><td>16 07</td><td colspan="2">Déchets provenant du nettoyage de cuves et de fûts de stockage et de transport (autres que ceux visés aux chapitres 05 et 13)</td><td></td></tr>
 <tr><td>16 07 08</td><td colspan="2">Déchets contenant des hydrocarbures</td><td>200 000</td></tr>
 <tr><td>16 08</td><td colspan="2">Catalyseurs usés</td><td></td></tr>
@@ -1458,6 +1459,8 @@ Annexe 3[^t-2]
 <tr><td>19 08 14</td><td>…</td><td colspan="2"></td></tr>
 <tr><td>19 11</td><td>Déchets provenant de la régénération des huiles usagées</td><td colspan="2"></td></tr>
 <tr><td>19 11 02</td><td>Goudrons acides</td><td colspan="2">20 000</td></tr>
+<tr><td>19 12</td><td>Déchets provenant du traitement mécanique des déchets (par exemple tri, broyage, compactage, granulation), non spécifiés ailleurs</td><td colspan="2"></td></tr>
+<tr><td>19 12 11 A</td><td>Autres déchets (y compris mélanges) provenant du traitement mécanique des déchets et contenant des substances dangereuses, s’il s’agit de masse noire issue du traitement de piles au lithium ou d’accumulateurs au lithium</td><td colspan="2">20 000</td></tr>
 <tr><td colspan="4">Chapitre 20 Déchets urbains et déchets assimilés provenant des industries et des commerces (déchets ménagers et déchets assimilés provenant des commerces, des industries et des administrations), y compris les fractions collectées séparément</td></tr>
 <tr><td>20 01</td><td>Fractions collectées séparément (autres que celles visées à la rubrique 15 01)</td><td colspan="2"></td></tr>
 <tr><td>20 01 13 A</td><td>Solvants</td><td colspan="2">20 000</td></tr>
