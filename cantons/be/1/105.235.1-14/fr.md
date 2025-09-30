@@ -1,0 +1,78 @@
+---
+canton: BE
+number: 105.235.1-14
+title: Accord d’exécution entre le canton de Berne et la République et Canton du Jura relatif au transfert de la commune municipale de Moutier dans le canton du Jura concernant le domaine de l’état civil
+short: "Accord d'exécution n° 14"
+language: fr
+version: 2025-10-01
+version_adopted: 2025-08-27
+adopted: 2025-08-27
+in_force: 2025-10-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/105.235.1-14"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3215/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Accord d’exécution entre le canton de Berne et la République et Canton du Jura relatif au transfert de la commune municipale de Moutier dans le canton du Jura concernant le domaine de l’état civil
+
+(Accord d'exécution n° 14)
+
+du 27.08.2025 (état au 01.10.2025)
+
+Le Conseil-exécutif du canton de Berne et le Gouvernement de la République et Canton du Jura,
+
+vu les articles 30 et 32 du concordat des 14 et 15 novembre 2023 entre le canton de Berne et la République et Canton du Jura concernant le transfert de la commune municipale de Moutier dans le canton du Jura (concordat sur le transfert de Moutier)[^ingress-1],
+
+conviennent :
+
+[^ingress-1]: RSB [105.234-1](https://www.belex.sites.be.ch/data/105.234-1/fr)
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> Le présent accord règle le transfert, la conservation et la mise à disposition d’informations relatives aux registres de l’état civil ainsi que la conservation des dossiers relatifs à des procédures de changements de nom.
+
+#### Art. 2
+
+**Registres de l’état civil**
+
+<sup>1</sup> L'autorité bernoise de l'état civil remet à l'autorité jurassienne de l'état civil
+
+- a les registres des familles de la commune de Moutier avec les pièces justificatives s'y rapportant ;
+- b le registre des événements tenu sur papier par l'arrondissement de l'état civil de Moutier avec les pièces justificatives s'y rapportant.
+
+<sup>2</sup> L’autorité jurassienne de l’état civil est chargée de récupérer les registres prévus à l’alinéa 1.
+
+<sup>3</sup> Les pièces justificatives se rapportant à des saisies dans le registre électronique de l'état civil sont conservées par l'autorité bernoise de l'état civil.
+
+<sup>4</sup> La mise à disposition réciproque de copies d'extraits des registres des événements tenus sur papier, ainsi que de copies de pièces justificatives a lieu sans frais. En cas de besoin, les originaux sont également transmis sans frais.
+
+#### Art. 3
+
+**Archives des changements de nom**
+
+<sup>1</sup> Les dossiers relatifs à des procédures de changements de nom concernant la commune de Moutier qui ont été archivés jusqu'au 31 décembre 2025 sont conservés par les autorités bernoises.
+
+#### Art. 4
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent accord entre en vigueur le 1<sup>er</sup> octobre 2025.
+
+Berne, le 27 août 2025 / Delémont, le 26 août 2025
+
+Au nom du Conseil-exécutif du canton de Berne,
+
+le président: Neuhaus
+
+le chancelier: Auer
+
+Au nom du Gouvernement de la République et Canton du Jura,
+
+le président: Courtet
+
+le chancelier: Maître
+
+25-068
