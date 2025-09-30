@@ -1,186 +1,142 @@
 ---
 canton: TG
 number: "551.41"
-title: Verordnung des Regierungsrates über die Beförderungen der Kantonspolizei
-short: Beförderungsverordnung
+title: Verordnung über die Beförderungen der Polizistinnen und Polizisten
+short: "Beförderungsverordnung, BefV"
 language: de
-version: 2012-01-01
-valid_until: 2025-09-30
-version_adopted: 2011-12-06
+version: 2025-10-01
+version_adopted: 2025-09-16
 adopted: 2025-09-16
 in_force: 2025-10-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/551.41"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2503/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2940/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Beförderungen der Kantonspolizei
+# Verordnung über die Beförderungen der Polizistinnen und Polizisten
 
-Beförderungsverordnung
+BefV
 
-(Beförderungsverordnung)
+(Beförderungsverordnung, BefV)
 
-vom 25.03.2008 (Stand 01.01.2012)
-
-## 1. Allgemeine Bestimmungen
+vom 16.09.2025 (Stand 01.10.2025)
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Beförderungen der Polizistinnen und Polizisten im Sinne von § 2 Ziff. 1 und Ziff. 2 des Dienstreglements der Kantonspolizei[^1-1].
+<sup>1</sup> Diese Verordnung regelt die Dienstgrade und Beförderungen der Polizistinnen und Polizisten der Kantonspolizei Thurgau.
 
-<sup>2</sup> Als Beförderung gilt die Einweisung in eine höhere Lohnklasse mittels Aufstieg in den Dienstgraden.
-
-[^1-1]: Aufgehoben per 1. Juni 2012.
+<sup>2</sup> Soweit diese Verordnung nichts anderes regelt, gelten die Bestimmungen der Rechtsstellungsverordnung (RSV) und der Verordnung des Regierungsrates zur Besoldungsverordnung (RRV BesVO) sinngemäss.
 
 #### § 2
 
-**Zuständigkeit**
+**Begriffe**
 
-<sup>1</sup> Die Beförderungen werden vom Departement für Justiz und Sicherheit auf Antrag der Kantonspolizei und nach vorgängiger Stellungnahme des Personalamtes vorgenommen.
+<sup>1</sup> Als Beförderung gilt, wenn Polizistinnen oder Polizisten in eine höher eingereihte Funktion gemäss Anhang 1 zur Verordnung des Grossen Rates über die Besoldung des Staatspersonals (Besoldungsverordnung, BesVO) eingewiesen und zum dafür vorgesehenen Dienstgrad ernannt werden.
+
+<sup>2</sup> Als Ernennung gilt die Zuweisung zu einem Dienstgrad.
 
 #### § 3
 
-**Grundlagen**
+**Anrechenbarkeit für die Ernennung**
 
-<sup>1</sup> Beförderungen richten sich nach dem Bedarf des Betriebes und setzen berufliche Erfahrung, Eignung und wo nichts anderes vermerkt ist, die Erfüllung besonderer Aufgaben voraus.
-
-<sup>2</sup> Es können nur Polizistinnen und Polizisten befördert werden, welche während drei aufeinander folgenden Jahren vor der Beförderung mit der Gesamtbeurteilung „A“ oder „B“ beurteilt worden sind.
+<sup>1</sup> Dienstjahre und Tätigkeiten in einer anderen Polizeibehörde in der Schweiz können angerechnet werden.
 
 #### § 4
 
-**Zeitpunkt**
+**Dienstgrade**
 
-<sup>1</sup> Die Beförderungen erfolgen auf den 1. Januar.
+<sup>1</sup> Für Polizistinnen und Polizisten bestehen folgende Dienstgrade:
 
-## 2. Besondere Bestimmungen
+- 1\. Oberst
+- 2\. Oberstleutnant (Oberstlt)
+- 3\. Major (Maj)
+- 4\. Hauptmann (Hptm)
+- 5\. Oberleutnant (Oblt)
+- 6\. Leutnant (Lt)
+- 7\. Adjutant mit besonderen Aufgaben (AdjmbA)
+- 8\. Adjutant (Adj)
+- 9\. Feldweibel mit besonderen Aufgaben (FwmbA)
+- 10\. Feldweibel (Fw)
+- 11\. Wachtmeister mit besonderen Aufgaben (WmmbA)
+- 12\. Wachtmeister (Wm)
+- 13\. Korporal (Kpl)
+- 14\. Gefreiter (Gfr)
+- 15\. Polizistin oder Polizist (Pol)
+
+<sup>2</sup> Die Dienstgrade werden den einzelnen Funktionen gemäss § 5 bis § 9 zugewiesen.
+
+<sup>3</sup> Die Ernennung zu einem Dienstgrad erfolgt nach dem organisatorischen Bedarf der Kantonspolizei und ordentlich zum Zeitpunkt der Vereidigung.
+
+<sup>4</sup> Die Ernennung und Anrechnung gemäss § 3 erfolgen durch die Polizeikommandantin oder den Polizeikommandanten. Die Ernennung der Offiziere ist vorgängig vom Departement für Justiz und Sicherheit und nach vorgängiger Stellungnahme des Personalamtes zu genehmigen.
 
 #### § 5
 
-**Dienstgrade**
+**Polizeiliche Sachbearbeiterinnen und Sachbearbeiter**
 
-<sup>1</sup> Bei der Kantonspolizei bestehen folgende Dienstgrade:
+<sup>1</sup> Polizeiliche Sachbearbeiterinnen und Sachbearbeiter umfassen die Dienstgrade Polizistin oder Polizist, Gefreiter, Korporal und Wachtmeister.
 
-- 1\. Oberst;
-- 2\. Polizei-Oberstleutnant (Pol-Oberstlt);
-- 3\. Polizei-Major (Pol-Maj);
-- 4\. Polizei-Hauptmann (Pol-Hptm);
-- 5\. Polizei-Oberleutnant (Pol-Oblt);
-- 6\. Polizei-Leutnant (Pol-Lt);
-- 7\. Polizei-Adjudant (Pol-Adj);
-- 8\. Polizei-Feldweibel (Pol-Fw);
-- 9\. Polizei-Wachtmeister mit besonderen Aufgaben (Pol-WmmbA);
-- 10\. Polizei-Wachtmeister (Pol-Wm);
-- 11\. Polizei-Korporal (Pol-Kpl);
-- 12\. Polizei-Gefreiter (Pol-Gfr);
-- 13\. Polizistin oder Polizist (Pol).
-
-<sup>2</sup> Die Einreihung der Dienstgrade in die Lohnklassen richtet sich nach Anhang 1 zur Verordnung des Grossen Rates über die Besoldung des Staatspersonals (Besoldungsverordnung)[^5-1] .
-
-[^5-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+<sup>2</sup> Die Ernennung zum Gefreiten, Korporal oder Wachtmeister sowie die Zuordnung in die dafür vorgesehene Besoldungsklasse erfolgen jeweils nach vier Dienstjahren. Sie ist nicht an die Erfüllung von besonderen Aufgaben gebunden.
 
 #### § 6
 
-**Grundsatz**
+**Polizeiliche Fachspezialistinnen und Fachspezialisten und Polizeiliche Fachexpertinnen oder Fachexperten**
 
-<sup>1</sup> Die Beförderungen zum Pol-Gfr, Pol-Kpl und Pol-Wm sind nicht an die Erfüllung von bestimmten Aufgaben gebunden.
+<sup>1</sup> Die Polizeilichen Fachspezialistinnen und Fachspezialisten umfassen die Dienstgrade Wachtmeister mit besonderen Aufgaben, Feldweibel, Feldweibel mit besonderen Aufgaben, Adjutant und Adjutant mit besonderen Aufgaben.
 
-<sup>2</sup> Alle anderen Beförderungen setzen nebst der erforderlichen Erfahrung und Eignung die Erfüllung einer besonderen Aufgabe im Sinne dieses Reglements voraus. Fallen die besonderen Aufgaben beziehungsweise die für den Dienstgrad erforderliche Funktion weg, können gradmässige Rückstufungen erfolgen.
+<sup>2</sup> Die Polizeilichen Fachexpertinnen und Fachexperten umfassen die Dienstgrade Adjutant, Adjutant mit besonderen Aufgaben, Leutnant und Oberleutnant.
 
 #### § 7
 
-**Polizei-Gefreiter, Polizei-Korporal, Polizei-Wachtmeister**
+**Polizeiliche Führungskräfte der Stufe 1**
 
-<sup>1</sup> Die Beförderung zum Pol-Gfr kann nach vier Dienstjahren erfolgen.
+<sup>1</sup> Die Polizeilichen Führungskräfte der Stufe 1 umfassen die Dienstgrade Wachtmeister mit besonderen Aufgaben, Feldweibel, Feldweibel mit besonderen Aufgaben, Adjutant und Adjutant mit besonderen Aufgaben.
 
-<sup>2</sup> Die Beförderung zum Pol-Kpl kann nach weiteren vier Dienstjahren erfolgen.
+<sup>2</sup> Sie sind:
 
-<sup>3</sup> Die Beförderung zum Pol-Wm kann nach weiteren vier Dienstjahren erfolgen.
-
-<sup>4</sup> Die Dienstgrade Pol-Gfr, Pol-Kpl und Pol-Wm werden nicht übersprungen. Ausgenommen bleibt die Wahl zum Polizeioffizier.
-
-<sup>5</sup> Dienstjahre in anderen gleichwertigen Polizeikorps können angerechnet werden.
+- 1\. Dienstgruppenchefinnen und Dienstgruppenchefs
+- 2\. Postenchefinnen und Postenchefs
+- 3\. Dienstzweigchefinnen und Dienstzweigchefs
+- 4\. Stv. der Dienstzweigschefinnen und Dienstzweigchefs
+- 5\. Dienstchefinnen und Dienstchefs
+- 6\. Stv. der Dienstchefinnen und Dienstchefs
+- 7\. Hauptpostenchefinnen und Hauptpostenchefs
+- 8\. Stv. der Hauptpostenchefinnen und Hauptpostenchefs
+- 9\. Stv. der Abteilungsleiterinnen und Abteilungsleiter
 
 #### § 8
 
-**Neubeurteilung**
+**Polizeiliche Führungskräfte der Stufe 2**
 
-<sup>1</sup> Die Beförderungen führen zu einer Neubeurteilung des Leistungsanteils in der höheren Lohnklasse.
+<sup>1</sup> Die Polizeilichen Führungskräfte der Stufe 2 umfassen die Dienstgrade Adjutant, Adjutant mit besonderen Aufgaben, Leutnant und Oberleutnant.
+
+<sup>2</sup> Sie sind:
+
+- 1\. Dienstchefinnen und Dienstchefs
+- 2\. Hauptpostenchefinnen und Hauptpostenchefs
+- 3\. Regionenchefinnen und Regionenchefs
+- 4\. Stv. der Abteilungsleiterinnen und Abteilungsleiter
 
 #### § 9
 
-**Polizei-Wachtmeister mit besonderen Aufgaben**
+**Polizeiliche Führungskräfte der Stufe 3 und Amtsleitung**
 
-<sup>1</sup> Zum Pol-WmmbA können befördert werden:
+<sup>1</sup> Die Polizeilichen Führungskräfte der Stufe 3 umfassen die Dienstgrade Hauptmann und Major. Sie sind die Abteilungsleiterinnen und Abteilungsleiter.
 
-- 1\. Chefinnen und Chefs der Polizeiposten;
-- 2\. Dienstgruppenchefinnen und Dienstgruppenchefs;
-- 3\. Stellvertreterinnen und Stellvertreter von Pol-Fw;
-- 4\. Polizistinnen und Polizisten mit besonderen hauptamtlichen Aufgaben.
+<sup>2</sup> Die Amtsleitung umfasst die Dienstgrade Oberstleutnant und Oberst. Sie besteht aus der Polizeikommandantin oder dem Polizeikommandanten sowie der stv. Polizeikommandantin oder dem stv. Polizeikommandanten.
 
 #### § 10
 
-**Polizei-Feldweibel**
+**Beförderung in eine höhere Funktion, Besoldungsanpassung und Rückstufung**
 
-<sup>1</sup> Zum Pol-Fw können befördert werden:
+<sup>1</sup> Die Beförderung setzt insbesondere die berufliche Erfahrung, die erforderliche Leistung, die persönliche Eignung und, wo nichts anderes vermerkt, die Erfüllung besonderer Aufgaben voraus.
 
-- 1\. Chefinnen und Chefs der Polizeiposten und der Polizeihauptposten mit vier bis zehn Mitarbeiterinnen und Mitarbeitern;
-- 2\. Dienstzweigchefinnen und Dienstzweigchefs;
-- 3\. Stellvertreterinnen und Stellvertreter von Pol-Adj;
-- 4\. Polizistinnen und Polizisten mit besonderen hauptamtlichen Aufgaben und einer höheren Fachausbildung oder vergleichbarem Fachwissen, die während zwei aufeinander folgenden Jahren mit der Gesamt-beurteilung „A“ als WmmbA beurteilt worden sind.
+<sup>2</sup> Beförderungen und Besoldungsanpassungen sind, in Einzelfällen und soweit betrieblich begründet, mit Ausnahme per 1. Dezember und 1. Februar, auch unterjährig möglich.
 
-#### § 11
+<sup>3</sup> Die Beförderung führt zu einer Neubeurteilung des Leistungsanteils in der höheren Besoldungsklasse.
 
-**Polizei-Adjutant**
+<sup>4</sup> Die Übernahme einer tiefer eingereihten Funktion führt in der Regel zur Anpassung des Dienstgrades und der Besoldungsklasse.
 
-<sup>1</sup> Zum Pol-Adj können befördert werden:
-
-- 1\. Chefinnen und Chefs von Polizeihauptposten mit über zehn Mitarbeiterinnen und Mitarbeitern;
-- 2\. Dienstchefinnen und Dienstchefs;
-- 3\. Stellvertreterinnen und Stellvertreter von Abteilungsleiterinnen und Abteilungsleitern.
-
-#### § 12
-
-**Polizei-Leutnant, Polizei-Oberleutnant**
-
-<sup>1</sup> Zum Pol-Lt können die Inhaberinnen und Inhaber der von der Kommandantin oder dem Kommandanten bezeichneten Offiziersfunktionen befördert werden.
-
-<sup>2</sup> Die Beförderung zum Pol-Oblt kann nach vier Dienstjahren als Pol-Lt erfolgen.
-
-#### § 13
-
-**Pol-Hauptmann, Polizei-Major**
-
-<sup>1</sup> Zum Pol-Hptm können die Abteilungsleiterinnen und Abteilungsleiter befördert werden.
-
-<sup>2</sup> Die Beförderung zum Pol-Maj kann nach vier Dienstjahren als Pol-Hptm erfolgen.
-
-#### § 14
-
-**Polizei-Oberstleutnant**
-
-<sup>1</sup> Zum Pol-Oberstlt kann die Stellvertreterin oder der Stellvertreter der Kommandantin oder des Kommandanten befördert werden.
-
-#### § 15
-
-**Oberst**
-
-<sup>1</sup> Zum Oberst kann die Kommandantin oder der Kommandant befördert werden.
-
-## 3. Schlussbestimmungen
-
-#### § 16
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates über die Beförderungen der Kantonspolizei vom 19. Mai 1992 wird aufgehoben.
-
-#### § 17
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Mai 2008 in Kraft.
-
-ABl. 13/2008
+​‍‍38/2025
