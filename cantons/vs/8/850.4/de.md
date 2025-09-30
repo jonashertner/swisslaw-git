@@ -4,13 +4,12 @@ number: "850.4"
 title: Jugendgesetz
 short: JG
 language: de
-version: 2023-05-01
-valid_until: 2025-09-30
-version_adopted: 2022-12-15
+version: 2025-10-01
+version_adopted: 2025-05-08
 adopted: 2000-05-11
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.4"
-pdf: "https://lex.vs.ch/api/de/versions/3217/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3547/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3217/pdf_file"
 
 (JG)
 
-vom 11.05.2000 (Stand 01.05.2023)
+vom 11.05.2000 (Stand 01.10.2025)
 
 Der Grosse Rat des Kantons Wallis,
 
@@ -660,7 +659,7 @@ verordnet:
 
 **Meldepflicht**
 
-<sup>1</sup> Jede Person, die in Ausübung ihres Berufs, aufgrund eines Auftrags oder einer Funktion in Verbindung mit Kindern, sei es hauptberuflich, nebenberuflich oder aushilfsweise, Kenntnis von einer Situation hat, welche die Entwicklung eines Kindes gefährdet, und nicht selber Abhilfe schaffen kann, muss ihren Vorgesetzten oder fehlendenfalls die Kindes- und Erwachsenenschutzbehörde benachrichtigen.
+<sup>1</sup> Jede Person, die in Ausübung ihrer beruflichen Tätigkeit, aufgrund eines Auftrags oder einer Funktion Kontakt zu Kindern hat, unabhängig davon, ob sie dem Berufsgeheimnis nach dem Strafgesetzbuch untersteht oder nicht, namentlich die Mitglieder von Gerichts- und Strafverfolgungsbehörden, die Mitglieder von Gemeindebehörden und Gemeindeangestellte, die Mitglieder von Bildungseinrichtungen und des Lehrkörpers, die Mitarbeitenden von Tagesbetreuungsstrukturen und Pflegeeltern, Gesundheitsfachpersonen, die Mitglieder von religiösen Behörden und die Leiter religiöser Organisationen, die Akteure in den Bereichen Religion, Sport oder Musik, Sozialarbeiter, Erzieher, Psychomotoriker und Logopäden, sei es hauptberuflich, nebenberuflich oder aushilfsweise, Kenntnis von einer Situation hat, welche die Entwicklung eines Kindes gefährdet, und nicht selbst Abhilfe schaffen kann, muss ihren Vorgesetzten oder, falls es keinen Vorgesetzten gibt, die Kindes- und Erwachsenenschutzbehörde benachrichtigen.
 
 <sup>2</sup> Falls eine Meldung beim Vorgesetzten erfolgt, ist dieser gehalten, unverzüglich zu handeln, insbesondere um die Gefahrensituation zu beenden, um alle notwendigen Massnahmen im Interesse des Kindes zu treffen und um Beweise zu sichern.
 
@@ -668,7 +667,7 @@ verordnet:
 
 <sup>4</sup> Die Person, die den Fall angezeigt hat, wird über den Verlauf des Verfahrens angemessen informiert.
 
-<sup>5</sup> Vorbehalten bleiben die bundesrechtlichen oder kantonalrechtlichen Sonderbestimmungen.
+<sup>5</sup> Diese Bestimmung stellt eine Erweiterung der Meldepflicht im Sinne von Artikel 314d Absatz 3 ZGB dar. Vorbehalten bleiben die bundes- oder kantonalrechtlichen Sonderbestimmungen.
 
 #### Art. 55
 
@@ -710,7 +709,7 @@ verordnet:
 
 <sup>3</sup> Während der Strafverfolgung, bei der Kinder involviert sind oder das Kindeswohl gefährdet ist, können die Strafverfolgungsbehörden, wenn diese feststellen, dass andere Massnahmen notwendig sind, das Departement oder die zuständigen kantonalen und kommunalen Dienste über die Strafverfolgung und die getroffenen Massnahmen informieren. Wenn es das Kindeswohl erfordert, können die Verantwortlichen der Strafverfolgung zulassen, dass das Amt für Kindesschutz an der Kindsbefragung anwesend ist.
 
-<sup>4</sup> Wenn es das Kindeswohl erfordert, kann die zuständige Dienststelle dem Gericht, der Staatsanwaltschaft, der Kindes- und Erwachsenenschutzbehörde sowie dem Kommandanten der Kantonspolizei nützliche Informationen, die in ihren Kompetenzbereich fallen, übermitteln, ohne dass sie durch den Staatsrat vom Amtsgeheimnis entbunden werden muss.
+<sup>4</sup> Wenn es das Kindeswohl erfordert, kann die zuständige Dienststelle den Gerichten, den Kindes- und Erwachsenenschutzbehörden, den Strafverfolgungsbehörden, den für die Bildung und Berufsbildung zuständigen Verwaltungsbehörden und öffentlich-rechtlichen Einrichtungen, den Fachpersonen für Gesundheit und psychische Gesundheit, der kantonalen IV-Stelle und den privat- oder öffentlich-rechtlichen spezialisierten Einrichtungen, die sich um Kinder kümmern, nützliche Informationen, die in ihren Kompetenzbereich fallen, übermitteln, ohne dass sie durch den Staatsrat vom Amtsgeheimnis oder durch die betroffene Person oder den Kantonsarzt vom Berufsgeheimnis entbunden werden muss.
 
 #### Art. 59
 

@@ -4,13 +4,12 @@ number: "850.4"
 title: Loi en faveur de la jeunesse
 short: LJe
 language: fr
-version: 2023-05-01
-valid_until: 2025-09-30
-version_adopted: 2022-12-15
+version: 2025-10-01
+version_adopted: 2025-05-08
 adopted: 2000-05-11
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.4"
-pdf: "https://lex.vs.ch/api/fr/versions/3217/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3547/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3217/pdf_file"
 
 (LJe)
 
-du 11.05.2000 (état 01.05.2023)
+du 11.05.2000 (état 01.10.2025)
 
 Le Grand Conseil du canton du Valais,
 
@@ -660,7 +659,7 @@ ordonne:
 
 **Devoir de signalement**
 
-<sup>1</sup> Toute personne qui, dans le cadre de l'exercice d'une profession, d'une charge ou d'une fonction en relation avec des enfants, qu'elle soit exercée à titre principal, accessoire ou auxiliaire, a connaissance d'une situation de mise en danger du développement d'un enfant, et qui ne peut y remédier par son action, doit aviser son supérieur ou, à défaut, l'autorité de protection de l'enfant et de l'adulte.
+<sup>1</sup> Toute personne qui est en contact avec des enfants dans l'exercice de son activité professionnelle, d'une charge ou d'une fonction, qu'elle soit ou non soumise au secret professionnel en vertu du code pénal, notamment les membres des autorités judiciaires et de poursuite pénale, les membres des autorités communales et les employés communaux, les membres des institutions scolaires et du corps enseignant, le personnel des structures d'accueil à la journée et les parents nourriciers, les professionnels de la santé, les membres des autorités religieuses et les responsables des organisations religieuses, les intervenants dans les domaines de la religion, du sport ou de la musique, les travailleurs sociaux, les éducateurs, les psychomotriciens et les logopédistes, que cette activité soit exercée à titre principal, accessoire ou auxiliaire, a connaissance d'une situation de mise en danger du développement d'un enfant, et qui ne peut y remédier par son action, doit aviser son supérieur ou, à défaut, l'autorité de protection de l'enfant et de l'adulte.
 
 <sup>2</sup> En cas d'avis au supérieur, ce dernier est tenu d'agir dans les meilleurs délais, notamment pour faire cesser la situation de mise en danger, pour prendre toutes mesures utiles à l'intérêt de l'enfant et pour sauvegarder les preuves.
 
@@ -668,7 +667,7 @@ ordonne:
 
 <sup>4</sup> La personne avisante est informée de la suite donnée de manière appropriée.
 
-<sup>5</sup> Demeurent réservées les dispositions spéciales de droit fédéral et cantonal.
+<sup>5</sup> La présente disposition prévoit une extension de l'obligation d'aviser au sens de l'article 314d alinéa 3 CC. Demeurent réservées les dispositions spéciales de droit fédéral et cantonal.
 
 #### Art. 55
 
@@ -710,7 +709,7 @@ ordonne:
 
 <sup>3</sup> Lors de la poursuite d'infractions impliquant des enfants ou lorsque les intérêts d'un enfant sont menacés, les autorités de poursuite pénale, si elles constatent que d'autres mesures s'imposent, peuvent informer le département ou les services administratifs cantonaux ou communaux compétents des procédures pénales engagées et des décisions rendues. Lorsque l'intérêt de l'enfant l'exige, la direction de la procédure pénale peut autoriser l'office de la protection de l'enfant à assister à l'audition de ce dernier.
 
-<sup>4</sup> Lorsque l'intérêt de l'enfant l'exige, le service compétent peut transmettre aux tribunaux, au Ministère public, aux autorités de protection de l'enfant et de l'adulte ainsi qu'au commandement de la police cantonale des informations utiles qui relèvent de leurs compétences sans devoir requérir le déliement du secret de fonction auprès du Conseil d'Etat.
+<sup>4</sup> Lorsque l'intérêt de l'enfant l'exige, le service compétent peut transmettre aux tribunaux, aux autorités de protection de l'enfant et de l'adulte, aux autorités de poursuite pénale, aux autorités administratives et aux établissements publics en charge de l'éducation et de la formation professionnelle, aux professionnels de la santé et de la santé mentale, à l'office cantonal AI et aux institutions spécialisées de droit privé ou public s'occupant d'enfants des informations utiles qui relèvent de leurs compétences sans devoir requérir le déliement du secret de fonction auprès du Conseil d'Etat ou le déliement du secret professionnel auprès de la personne concernée ou du médecin cantonal.
 
 #### Art. 59
 
