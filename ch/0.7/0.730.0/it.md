@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Trattato del 17 dicembre 1994 sulla Carta dell'energia (con allegati, decisioni e atto finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: it
-version: 2025-09-03
+version: 2025-10-02
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250903/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250903-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250903/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251002/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251002-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251002/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-(Stato 3 settembre 2025)
+(Stato 2 ottobre 2025)
 
 [^t-1]: [RU 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -60,10 +60,10 @@ riconoscendo la necessità sempre più pressante di misure a protezione dell’a
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-2]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-3]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-4]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-1]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-2]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-3]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-4]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-5]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
 [^ingress-6]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 [^ingress-7]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
@@ -125,9 +125,9 @@ Si applicano, nel presente Trattato, le seguenti definizioni:
 
 - 14) «Valuta liberamente convertibile»: una valuta ampiamente trattata nei mercati valutari internazionali e ampiamente utilizzata per operazioni internazionali.
 
-[^1-1]: Nuovo testo giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^1-2]: Introdotto dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^1-3]: Nuovo testo giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^1-1]: Nuovo testo giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^1-2]: Introdotto dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^1-3]: Nuovo testo giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 2
 
@@ -143,7 +143,7 @@ Il presente Trattato istituisce un quadro giuridico al fine di promuovere una co
 
 Le Parti contraenti si adoperano per promuovere l’accesso ai mercati internazionali in termini commerciali e, in generale, per sviluppare un mercato aperto e competitivo per i materiali e prodotti energetici e attrezzature connesse[^3-1].
 
-[^3-1]: Espr. inserita dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^3-1]: Espr. inserita dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 4
 
@@ -151,8 +151,8 @@ Le Parti contraenti si adoperano per promuovere l’accesso ai mercati internazi
 
 Nessuna disposizione del presente Trattato deroga, nei rapporti tra Parti contraenti che sono membri dell’Organizzazione mondiale del commercio[^4-2], alle disposizioni dell’accordo OMC, quali applicate tra dette Parti contraenti.
 
-[^4-1]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Di detta modifica è tenuto conto in tutto il presente testo.
-[^4-2]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^4-1]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^4-2]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 5
 
@@ -175,7 +175,7 @@ Queste misure comprendono qualsiasi misura di investimento obbligatoria o esecut
 
 <sup>4.</sup> In deroga al paragrafo 1, una Parte contraente può temporaneamente continuare a mantenere misure relative agli investimenti che incidono sugli scambi commerciali che erano in atto più di 180 giorni prima della sua firma del presente Trattato, a condizione di osservare le disposizioni di notifica e di soppressione di cui all’allegato TRM.
 
-[^5-1]: Cifra inserita dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^5-1]: Cifra inserita dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 6
 
@@ -495,7 +495,7 @@ Ai fini del presente articolo, si intendono per:
 
 <sup>3.</sup> Ogni Parte contraente designa uno o più uffici informazioni presso cui rivolgersi per notizie riguardanti le leggi, i regolamenti, le decisioni giudiziarie e gli atti amministrativi di cui sopra e ne informa tempestivamente il Segretariato che comunica questi dati su richiesta.
 
-[^20-1]: Espr. inserita dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^20-1]: Espr. inserita dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 21
 
@@ -546,7 +546,7 @@ Ai fini del presente articolo:
 - c) «Autorità fiscale competente»: l’autorità competente conformemente ad un accordo in materia di doppia imposizione in vigore tra le Parti contraenti oppure, se tale accordo non è in vigore, il ministro o il ministero competente in materia fiscale o i loro rappresentanti autorizzati.
 - d) A fini di chiarezza, i termini «disposizioni fiscali» e «imposte» non comprendono i dazi doganali.
 
-[^21-1]: Nuovo testo della parte di frase giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^21-1]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 22
 
@@ -760,7 +760,7 @@ tuttavia, l’allegato D non si applica alle controversie tra le Parti contraent
 - i) è stato notificato a norma del paragrafo 2, lettera b) e dell’allegato TFU e che soddisfa i requisiti ivi previsti, o
 - ii) istituisce una zona di libero scambio o un’unione doganale come descritto nell’articolo XXIV del GATT 1994.
 
-[^29-1]: Nuovo testo giusta l’art. 1 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^29-1]: Nuovo testo giusta l'art. 1 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^29-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235); allegato 1A
 
@@ -868,8 +868,8 @@ Le funzioni della Conferenza della Carta sono:
 
 <sup>7.</sup> Nel 1999 e successivamente ad intervalli (non superiori a cinque anni), che saranno decisi dalla Conferenza della Carta, quest’ultima riesamina accuratamente i compiti previsti dal presente Trattato rispetto al grado di attuazione delle disposizioni del Trattato e dei protocolli. A conclusione di ogni riesame, la Conferenza della Carta può modificare o abolire i compiti di cui al paragrafo 3 e può sollevare il Segretariato dalle sue funzioni.
 
-[^34-1]: Introdotta dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^34-2]: Introdotta dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^34-1]: Introdotta dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^34-2]: Introdotta dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^34-3]: Originaria lett. n).
 
 #### Art. 35
@@ -916,9 +916,9 @@ L’unanimità delle Parti contraenti presenti e votanti alla riunione è necess
 
 <sup>8.</sup> Qualora si verifichino persistenti ritardi nell’adempimento degli obblighi finanziari di una Parte contraente in base al presente Trattato, la Conferenza della Carta può sospendere in tutto o in parte i diritti di tale Parte contraente.
 
-[^36-1]: Nuova lett. giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^36-2]: Introdotta dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^36-3]: Nuova lett. giusta l’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^36-1]: Nuova lett. giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^36-2]: Introdotta dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^36-3]: Nuova lett. giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 37
 
@@ -1186,7 +1186,7 @@ Misure transitorie delle Parti contraenti
 
 ## Materiali e prodotti energetici
 
-[^t-4]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-4]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 1, paragrafo 4)
 
@@ -1194,7 +1194,7 @@ Misure transitorie delle Parti contraenti
 
 ## Elenco delle attrezzature del settore energetico
 
-[^t-5]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-5]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 1, paragrafo 4<sup>bis</sup>)
 
@@ -1463,7 +1463,7 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 
 ## Elenco delle attrezzature del settore energetico
 
-[^t-6]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-6]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 1, paragrafo 4<sup>bis</sup>)
 
@@ -1548,7 +1548,7 @@ Ex 44.01 Legna da ardere in tondelli, ceppi, ramaglie, fascine o in forme simili
 
 ## Notifica e soppressione (TRIM)
 
-[^t-8]: Originario all. n. 3. Aggiornato dall’art. 2 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-8]: Originario all. n. 3. Aggiornato dall'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 5, paragrafo 4)
 
@@ -1707,7 +1707,7 @@ Qualsiasi misura relativa agli investimenti che incide sugli scambi commerciali,
 
 ## Eccezioni e norme che disciplinano l’applicazione delle disposizioni dell’accordo OMC
 
-[^t-14]: Originario all. n. 9. Nuovo testo giusta l’art. 4 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-14]: Originario all. n. 9. Nuovo testo giusta l'art. 4 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29, paragrafo 2, lettera a))
 
@@ -2041,7 +2041,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 ## Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
-[^t-16]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-16]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29, paragrafo 7)
 
@@ -2049,7 +2049,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 ## Elenco delle parti contraenti che non possono aumentare i dazi doganali o gli altri oneri oltre il livello risultante dai loro impegni o da disposizioni loro applicabili ai sensi dell’accordo OMC
 
-[^t-17]: Introdotto dall’art. 5 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-17]: Introdotto dall'art. 5 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29 paragrafo 7)
 
@@ -2057,7 +2057,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 ## Disposizioni transitorie per la risoluzione di controversie commerciali
 
-[^t-18]: Originario all. n. 11. Aggiornato dall’art. 3 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-18]: Originario all. n. 11. Aggiornato dall'art. 3 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (ai sensi dell’articolo 29, paragrafo 9)
 
@@ -2199,7 +2199,7 @@ Uzbekistan
 
 Segue l’elenco di deroghe transitorie di ciascun Paese[^annex19T-lvlu1-1].
 
-[^annex19T-lvlu1-1]: L’elenco di deroghe di ciascun Paese contenute nell’all. T sono ottenibili presso la Segreteria di Stato dell’economia, SECO, Effingerstrasse 31, 3003 Berna.
+[^annex19T-lvlu1-1]: L’elenco di deroghe di ciascun Paese contenute nell’all. T sono ottenibili presso la Segreteria di Stato dell'economia, SECO, Effingerstrasse 31, 3003 Berna.
 
 ## Decisioni riguardanti il Trattato sulla Carta dell’energia
 
@@ -2430,7 +2430,7 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 [^annex19T-lvlu4-1]
 
-[^annex19T-lvlu4-1]: Introdotta dall’art. 6 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Introdotta dall'art. 6 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 \1. I firmatari che applicano temporaneamente il trattato sulla Carta dell’energia ai sensi dell’articolo 45, paragrafo 1, e le parti contraenti decidono di applicare la presente modifica provvisoriamente, in attesa della sua entrata in vigore nei rispettivi territori, nella misura in cui tale applicazione provvisoria non è incompatibile con la loro costituzione o le loro leggi e i loro regolamenti.
 
@@ -2450,11 +2450,11 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 [^annex19T-lvlu5-1]
 
-[^annex19T-lvlu5-1]: Introdotta dall’art. 7 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu5-1]: Introdotta dall'art. 7 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Le decisioni adottate in relazione all’adozione della presente modifica costituiscono parte integrante del trattato sulla Carta dell’energia.
 
-Campo d’applicazione il 24 luglio 2025[^t-22]
+Campo d’applicazione il 2 ottobre 2025[^t-22]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2481,7 +2481,6 @@ Campo d’applicazione il 24 luglio 2025[^t-22]
 <tr><td>Kirghizistan</td><td>7 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Lettonia</td><td>15 gennaio</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Liechtenstein</td><td>12 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Lituania</td><td>14 settembre</td><td>1998</td><td>13 dicembre</td><td>1998</td></tr>
 <tr><td>Macedonia del Nord</td><td>27 marzo</td><td>1998 A</td><td>25 giugno</td><td>1998</td></tr>
 <tr><td>Malta</td><td>30 maggio</td><td>2001</td><td>28 agosto</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>22 giugno</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
@@ -2490,7 +2489,7 @@ Campo d’applicazione il 24 luglio 2025[^t-22]
 <tr><td>Romania</td><td>12 agosto</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Slovacchia</td><td>16 ottobre</td><td>1995</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Svezia</td><td>16 dicembre</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
-<tr><td>Svizzera</td><td>19 settembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
+<tr><td>Svizzera\*</td><td>19 settembre</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Tagikistan</td><td>25 giugno</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Turchia</td><td>5 aprile</td><td>2001</td><td>4 luglio</td><td>2001</td></tr>
 <tr><td>Turkmenistan</td><td>17 luglio</td><td>1997</td><td>16 aprile</td><td>1998</td></tr>
@@ -2498,6 +2497,20 @@ Campo d’applicazione il 24 luglio 2025[^t-22]
 <tr><td>Ungheria</td><td>8 aprile</td><td>1998</td><td>7 luglio</td><td>1998</td></tr>
 <tr><td>Uzbekistan</td><td>12 marzo</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Yemen</td><td>31 ottobre</td><td>2018 A</td><td>29 gennaio</td><td>2019</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Il testo, in inglese, può essere consultato sul sito Internet del Segretariato della Carta dell’energia: [www.energycharter.org/media/all-news](https://www.energycharter.org/media/all-news/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-22]: [RU 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-22]: [RU 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482), [668](https://fedlex.data.admin.ch/eli/oc/2025/668). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
+
+Dichiarazione[^t-23]
+
+Svizzera
+
+Con la dichiarazione del 29 settembre 2025, pervenuta il 2 ottobre 2025, la Svizzera ha informato il Segretariato della Carta dell’energia, per motivi di buon ordine, che intende esercitare i diritti di cui all’articolo 17 del Trattato sulla Carta dell’energia, e rifiutare i vantaggi della parte III del suddetto Trattato:
+
+- 1\. a una persona giuridica se essa è di proprietà o controllata da persone aventi la cittadinanza o la nazionalità della Federazione Russa o della Repubblica di Bielorussia e se detta persona non ha attività commerciali rilevanti nell’area della Parte contraente, o di una ex Parte contraente, in cui è organizzata, secondo l’articolo 17 paragrafo 1 del Trattato sulla Carta dell’energia; e
+- 2\. a un investimento di un investitore della Federazione Russa o della Repubblica di Bielorussia secondo l’articolo 17 paragrafo 2 lettera b del Trattato.
+
+La Confederazione Svizzera ha adottato e mantiene misure nei confronti sia della Federazione Russa per la sua aggressione militare contro l’Ucraina e sia della Repubblica di Bielorussia per il suo sostegno a tale aggressione. Tali misure (i) vietano operazioni con investitori della Federazione Russa e della Repubblica di Bielorussia; e (ii) sarebbero violate o aggirate se i vantaggi previsti dalla parte III del Trattato venissero estesi a investitori della Federazione Russa e della Repubblica di Bielorussia o ai loro investimenti.
+
+[^t-23]: [RU 2025 668](https://fedlex.data.admin.ch/eli/oc/2025/668)

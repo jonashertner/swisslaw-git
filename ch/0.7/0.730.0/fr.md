@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Traité du 17 décembre 1994 sur la Charte de l'énergie (avec annexes, décisions et acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: fr
-version: 2025-09-03
+version: 2025-10-02
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250903/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250903-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250903/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251002/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251002-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251002/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(État le 3 septembre 2025)
+(État le 2 octobre 2025)
 
 [^t-1]: [RO 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -2420,7 +2420,7 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 Les décisions adoptées en liaison avec l’adoption de la présente modification font partie intégrante du traité sur la Charte de l’énergie.
 
-Champ d’application le 24 juillet 2025[^t-21]
+Champ d’application le 2 octobre 2025[^t-21]
 
 <table>
 <tr><th>États parties</th><th colspan="2">Ratification Adhésion (A)</th><th colspan="2">Entrée en vigueur</th></tr>
@@ -2447,7 +2447,6 @@ Champ d’application le 24 juillet 2025[^t-21]
 <tr><td>Kirghizistan</td><td>7 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Lettonie</td><td>15 janvier</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Liechtenstein</td><td>12 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Lituanie</td><td>14 septembre</td><td>1998</td><td>13 décembre</td><td>1998</td></tr>
 <tr><td>Macédoine du Nord</td><td>27 mars</td><td>1998 A</td><td>25 juin</td><td>1998</td></tr>
 <tr><td>Malte</td><td>30 mai</td><td>2001</td><td>28 août</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>22 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
@@ -2458,12 +2457,24 @@ Champ d’application le 24 juillet 2025[^t-21]
 <tr><td>Roumanie</td><td>12 août</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Slovaquie</td><td>16 octobre</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Suède</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>Suisse</td><td>19 septembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Suisse\*</td><td>19 septembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Tadjikistan</td><td>25 juin</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Turkménistan</td><td>17 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Turquie</td><td>5 avril</td><td>2001</td><td>4 juillet</td><td>2001</td></tr>
 <tr><td>Ukraine</td><td>29 octobre</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
 <tr><td>Yémen</td><td>31 octobre</td><td>2018 A</td><td>29 janvier</td><td>2019</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais pourront être consultés à l’adresse du site Internet du Secrétariat de la Charte de l’énergie: [www.energycharter.org/media/all-news/](https://www.energycharter.org/media/all-news/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-21]: [RO 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-21]: [RO 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482), [668](https://fedlex.data.admin.ch/eli/oc/2025/668). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+
+Déclaration
+
+Suisse
+
+Par déclaration du 29 septembre 2025, reçue le 2 octobre 2025, la Suisse a informé le Secrétariat de la Charte de l’énergie, pour le bon ordre, qu’elle exerce ses droits découlant de l’art. 17 du Traité sur la Charte de l’énergie et qu’elle refuse le bénéfice de la partie III du Traité sur la Charte de l’énergie:
+
+- 1\. à toute entité juridique qui est propriété ou sous le contrôle de citoyens ou ressortissants de la Fédération de Russie ou de la République de Biélorussie et qui n’exerce pas d’activités commerciales substantielles dans la zone de la partie contractante, ou de l’ancienne partie contractante, dans laquelle elle est constituée, conformément à l’art. 17 par. 1 du Traité sur la Charte de l’énergie, et
+- 2\. à tout investissement d’un investisseur de la Fédération de Russie ou de la République de Biélorussie, conformément à l’art. 17 par. 2 lettre b) du Traité sur la Charte de l’énergie.
+
+La Confédération suisse a adopté et maintient des mesures à l’égard de la Fédération de Russie en raison de son agression militaire contre l’Ukraine, et à l’égard de la République de Biélorussie en raison de son soutien à cette agression militaire. Ces mesures (i) interdisent les transactions avec des investisseurs de la Fédération de Russie ou de la République de Biélorussie ou (ii) seraient enfreintes ou contournées si les avantages prévus dans la partie III du Traité sur la Charte de l’énergie étaient accordés aux investisseurs de la Fédération de Russie ou de la République de Biélorussie ou à leurs investissements.

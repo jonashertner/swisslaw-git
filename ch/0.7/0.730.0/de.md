@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Vertrag vom 17. Dezember 1994 über die Energiecharta (mit Anlagen, Beschlüssen und Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: de
-version: 2025-09-03
+version: 2025-10-02
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20250903/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20250903-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20250903/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251002/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251002-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 3. September 2025)
+(Stand am 2. Oktober 2025)
 
 [^t-1]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -2467,7 +2467,7 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 Die im Zusammenhang mit der Annahme dieser Änderung angenommenen Beschlüsse sind Bestandteil des Vertrags über die Energiecharta.
 
-Geltungsbereich am 24. Juli 2025[^t-22]
+Geltungsbereich am 2. Oktober 2025[^t-22]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2492,7 +2492,6 @@ Geltungsbereich am 24. Juli 2025[^t-22]
 <tr><td>Kroatien</td><td>9. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Lettland</td><td>15. Januar</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Liechtenstein</td><td>12. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td>Litauen</td><td>14. September</td><td>1998</td><td>13. Dezember</td><td>1998</td></tr>
 <tr><td>Malta</td><td>30. Mai</td><td>2001</td><td>28. August</td><td>2001</td></tr>
 <tr><td>Moldau</td><td>22. Juni</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Mongolei</td><td>19. November</td><td>1999 B</td><td>17. Februar</td><td>2000</td></tr>
@@ -2501,7 +2500,7 @@ Geltungsbereich am 24. Juli 2025[^t-22]
 <tr><td>Österreich</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Rumänien</td><td>12. August</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Schweden</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
-<tr><td>Schweiz</td><td>19. September</td><td>1996</td><td>16. April</td><td>1998</td></tr>
+<tr><td>Schweiz\*</td><td>19. September</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Slowakei</td><td>16. Oktober</td><td>1995</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Tadschikistan</td><td>25. Juni</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Tschechische Republik</td><td>17. Juni</td><td>1996</td><td>16. April</td><td>1998</td></tr>
@@ -2511,6 +2510,20 @@ Geltungsbereich am 24. Juli 2025[^t-22]
 <tr><td>Ungarn</td><td>8. April</td><td>1998</td><td>7. Juli</td><td>1998</td></tr>
 <tr><td>Usbekistan</td><td>12. März</td><td>1996</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Zypern</td><td>16. Januar</td><td>1998</td><td>16. April</td><td>1998</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite des Sekretariats der Energiecharta: [www.energycharter.org/media/all-news/](https://www.energycharter.org/media/all-news/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-22]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-22]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158); [2025 482](https://fedlex.data.admin.ch/eli/oc/2025/482), [668](https://fedlex.data.admin.ch/eli/oc/2025/668). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+
+Erklärung[^t-23]
+
+Schweiz
+
+Mit der Erklärung vom 29. September 2025, die am 2. Oktober 2025 eingegangen ist, hat die Schweiz dem Sekretariat der Energiecharta der guten Ordnung halber mitgeteilt, dass sie ihre Rechte gemäss Artikel 17 des Vertrags über die Energiecharta ausübt und die Vorteile aus Teil III des Vertrags über die Energiecharta verweigert:
+
+- 1\. einer juristischen Person, wenn Staatsbürger oder Staatsangehörige der Russischen Föderation oder der Republik Belarus Eigentümer dieser juristischen Person sind oder diese kontrollieren und wenn diese juristische Person keine nennenswerte Geschäftstätigkeit im Gebiet der Vertragspartei oder vormaligen Vertragspartei ausübt, in der sie gegründet wurde, gemäss Artikel 17 Absatz 1 des Vertrags über die Energiecharta; und
+- 2\. einer Investition eines Investors aus der Russischen Föderation oder aus der Republik Belarus, gemäss Artikel 17 Absatz 2 lit. b) des Vertrags über die Energiecharta.
+
+Die Schweizerische Eidgenossenschaft hat im Zusammenhang mit der militärischen Aggression der Russischen Föderation gegen die Ukraine, und im Zusammenhang der belarussischen Unterstützung dieser militärischen Aggression, Massnahmen beschlossen und behält diese bei. Diese Massnahmen (i) verbieten Transaktionen mit Investoren aus der Russischen Föderation und der Republik Belarus oder (ii) würden verletzt oder umgangen, falls die Vorteile aus Teil III des Vertrags über die Energiecharta Investoren aus der Russischen Föderation und der Republik Belarus oder deren Investitionen gewährt würden.
+
+[^t-23]: [AS 2025 668](https://fedlex.data.admin.ch/eli/oc/2025/668)
