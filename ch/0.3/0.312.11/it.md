@@ -3,11 +3,11 @@ sr: "0.312.11"
 title: "Emendamenti allo Statuto di Roma dell' 11 giugno 2010 della Corte penale internazionale relativi al crimine di aggressione"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/644"
 language: it
-version: 2022-10-25
+version: 2025-10-03
 adopted: 2010-06-11
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20221025/it/xml/fedlex-data-admin-ch-eli-cc-2015-644-20221025-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20221025/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20251003/it/xml/fedlex-data-admin-ch-eli-cc-2015-644-20251003-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20251003/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottati a Kampala l’11 giugno 2010[^t-1] Approvati dall’Assemblea federale il 20 marzo 2015[^t-2] Strumenti di ratifica depositati dalla Svizzera il 10 settembre 2015 Entrati in vigore per la Svizzera il 10 settembre 2016
 
-(Stato 25 ottobre 2022)
+(Stato 3 ottobre 2025)
 
 [^t-1]: Risoluzione RC/Res.6; cfr. notifica del depositario C.N.651.2010.TREATIES-8 in data 29 novembre 2010, disponibile al seguente indirizzo: http://treaties.un.org.
 [^t-2]: Art. 1 cpv. 1 lett. a del DF del 20 mar. 2015 ([RU 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).
@@ -49,6 +49,142 @@ risoluta ad attivare quanto prima la competenza della Corte in relazione al crim
 
 \5. *esorta* tutti gli Stati Parte a ratificare o ad accettare gli emendamenti che figurano nell’allegato I.
 
-[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
+[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
 [^ingress-2]: L’all. II non viene pubblicato nella RU. Il testo è disponibile nelle sue lingue originali su www.icc-cpi.int &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.6.
 [^ingress-3]: L’all. III non viene pubblicato nella RU. Il testo è disponibile nelle sue lingue originali su www.icc-cpi.int &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.6.
+
+Allegato I
+
+## Emendamenti allo Statuto di Roma della Corte penale internazionale relativi al crimine di aggressione
+
+**1. L’articolo 5 paragrafo 2 è abrogato.**
+
+**2. Il seguente testo è inserito dopo l’articolo 8:**
+
+***Art. 8**<sup>bis</sup>* Crimine di aggressione**
+
+<sup>1.</sup> Ai fini del presente Statuto, «per crimine di aggressione» s’intende la pianificazione, la preparazione, l’inizio o l’esecuzione, da parte di una persona in grado di esercitare effettivamente il controllo o di dirigere l’azione politica o militare di uno Stato, di un atto di aggressione che per carattere, gravità e portata costituisce una manifesta violazione della Carta delle Nazioni Unite del 26 giugno 1945[^annexI-lvlu1-1].
+
+<sup>2.</sup>
+
+Ai fini del paragrafo 1, «per atto di aggressione» s’intende l’uso della forza armata da parte di uno Stato contro la sovranità, l’integrità territoriale o l’indipendenza politica di un altro Stato, o in qualunque altro modo contrario alla Carta delle Nazioni Unite. Indipendentemente dall’esistenza di una dichiarazione di guerra, in conformità alla risoluzione 3314 (XXIX) dell’Assemblea generale delle Nazioni Unite del 14 dicembre 1974, i seguenti atti sono atti di aggressione:
+
+- a) l’invasione o l’attacco da parte di forze armate di uno Stato del territorio di un altro Stato o qualunque occupazione militare, anche temporanea, che risulti da detta invasione o attacco o qualunque annessione, mediante l’uso della forza, del territorio di un altro Stato o di parte dello stesso;
+- b) il bombardamento da parte delle forze armate di uno Stato contro il territorio di un altro Stato o l’impiego di qualsiasi altra arma da parte di uno Stato contro il territorio di un altro Stato;
+- c) il blocco dei porti o delle coste di uno Stato da parte delle forze armate di un altro Stato;
+- d) l’attacco da parte delle forze armate di uno Stato contro le forze armate terrestri, navali o aeree di un altro Stato o contro la sua flotta navale o aerea;
+- e) l’utilizzo delle forze armate di uno Stato che si trovano nel territorio di un altro Stato con l’accordo di quest’ultimo, in violazione delle condizioni stabilite nell’accordo, o qualunque prolungamento della loro presenza in detto territorio dopo il termine dell’accordo;
+- f) il fatto che uno Stato permetta che il suo territorio, messo a disposizione di un altro Stato, sia utilizzato da quest’ultimo per commettere un atto di aggressione contro uno Stato terzo;
+- g) l’invio da parte di uno Stato, o in suo nome, di bande, gruppi, forze irregolari o mercenari armati che compiano atti di forza armata contro un altro Stato di gravità tale da essere equiparabili agli atti sopra citati o che partecipino in modo sostanziale a detti atti.
+
+**3. Il seguente testo è inserito dopo l’articolo 15:**
+
+***Art. 15**<sup>bis</sup>*Esercizio del potere giurisdizionale in relazione al crimine di aggressione (Segnalazione da parte di uno Stato o di propria iniziativa)**
+
+<sup>1.</sup> La Corte può esercitare il proprio potere giurisdizionale in relazione al crimine di aggressione conformemente all’articolo 13 lettere a) e c), fermo restando le disposizioni qui di seguito.
+
+<sup>2.</sup> La Corte può esercitare il proprio potere giurisdizionale esclusivamente in relazione ai crimini di aggressione commessi un anno dopo la ratifica o l’accettazione degli emendamenti da parte di 30 Stati Parte.
+
+<sup>3.</sup> La Corte esercita il proprio potere giurisdizionale in relazione al crimine di aggressione conformemente al presente articolo, con riserva di una decisione che sarà adottata dopo il 1° gennaio 2017 dalla stessa maggioranza degli Stati Parte richiesta per l’adozione di un emendamento allo Statuto.
+
+<sup>4.</sup> La Corte può, in conformità all’articolo 12, esercitare il proprio potere giurisdizionale in relazione a un crimine di aggressione risultante da un atto di aggressione commesso da uno Stato parte, salvo il caso in cui tale Stato parte abbia in precedenza dichiarato di non accettare un simile potere giurisdizionale depositando un’apposita dichiarazione presso il Cancelliere. Il ritiro di tale dichiarazione può essere effettuato in qualsiasi momento ed essere valutato dallo Stato Parte entro una scadenza di tre anni.
+
+<sup>5.</sup> Con riferimento a uno Stato non Parte del presente Statuto, la Corte non esercita il proprio potere giurisdizionale su un crimine di aggressione quando quest’ultimo è commesso da cittadini di tale Stato o sul suo territorio.
+
+<sup>6.</sup> Se conclude che v’è un ragionevole fondamento per avviare un’indagine su un crimine di aggressione, il Procuratore verifica in primo luogo se il Consiglio di sicurezza ha constatato l’esistenza di un atto di aggressione commesso dallo Stato in causa. Il Procuratore notifica al Segretario generale dell’Organizzazione delle Nazioni Unite la situazione portata dinanzi alla Corte, aggiungendo ogni informazione e documento utili.
+
+<sup>7.</sup> Quando il Consiglio di sicurezza ha constatato un atto di aggressione, il Procuratore può avviare un’indagine su tale crimine.
+
+<sup>8.</sup> Nel caso in cui una simile constatazione non venga effettuata entro sei mesi dalla data della notifica, il Procuratore può avviare un’indagine per crimine di aggressione, a condizione che la Sezione preliminare abbia autorizzato l’apertura di un’indagine per crimine di aggressione secondo la procedura fissata dall’articolo 15 e che il Consiglio di sicurezza non abbia deciso diversamente conformemente all’articolo 16.
+
+<sup>9.</sup> La constatazione di un atto di aggressione da parte di un organo esterno alla Corte non pregiudica le constatazioni che la Corte effettua in virtù del presente Statuto.
+
+<sup>10.</sup> Il presente articolo non pregiudica le disposizioni relative all’esercizio del potere giurisdizionale in relazione agli altri crimini elencati all’articolo 5.
+
+**4. Il seguente testo è inserito dopo l’articolo 15bis:**
+
+***Art. 15**<sup>ter</sup>* Esercizio del potere giurisdizionale in relazione al crimine di aggressione (Segnalazione da parte del Consiglio di sicurezza)**
+
+<sup>1.</sup> La Corte può esercitare il proprio potere giurisdizionale in relazione al crimine di aggressione conformemente all’articolo 13 lettera b), fermo restando le disposizioni qui di seguito.
+
+<sup>2.</sup> La Corte può esercitare il proprio potere giurisdizionale esclusivamente sui crimini di aggressione commessi un anno dopo la ratifica o l’accettazione degli emendamenti da parte di 30 Stati Parte.
+
+<sup>3.</sup> La Corte esercita il proprio potere giurisdizionale sul crimine di aggressione conformemente al presente articolo, con riserva di una decisione che sarà adottata dopo il 1° gennaio 2017 dalla stessa maggioranza degli Stati Parte richiesta per l’adozione di un emendamento allo Statuto.
+
+<sup>4.</sup> La constatazione di un atto di aggressione da parte di un organo esterno alla Corte non pregiudica le constatazioni che la Corte effettua in virtù del presente Statuto.
+
+<sup>5.</sup> Il presente articolo non pregiudica le disposizioni relative all’esercizio del potere giurisdizionale in relazione agli altri crimini elencati all’articolo 5. ...
+
+**5. Il seguente testo è inserito dopo il paragrafo 3 dell’articolo 25:**
+
+3<sup>bis</sup>. Con riferimento al crimine di aggressione, le disposizioni del presente articolo trovano applicazione solo per le persone in grado di esercitare effettivamente il controllo o di dirigere l’azione politica o militare di uno Stato.
+
+**6. Il primo periodo del paragrafo 1 dell’articolo 9 è sostituito come segue:**
+
+<sup>1.</sup> Gli elementi dei crimini sono di ausilio per la Corte nell’interpretazione e nell’applicazione degli articoli 6, 7, 8 e 8<sup>bis</sup>.
+
+**7. La frase introduttiva del paragrafo 3 dell’articolo 20 è sostituita come segue, il resto del paragrafo rimane invariato:**
+
+<sup>3.</sup> Chiunque sia stato precedentemente giudicato da una diversa giurisdizione per condotte punibili anche ai sensi degli articoli 6, 7, 8 o 8<sup>bis</sup>, può essere giudicato dalla Corte solo se il procedimento di fronte all’altra giurisdizione:
+
+[^annexI-lvlu1-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+
+Campo d’applicazione il 3 ottobre 2025[^t-3]
+
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Andorra</td><td>26 settembre</td><td>2013</td><td>26 settembre</td><td>2014</td></tr>
+<tr><td>Argentina</td><td>28 aprile</td><td>2017</td><td>28 aprile</td><td>2018</td></tr>
+<tr><td>Austria</td><td>17 luglio</td><td>2014</td><td>17 luglio</td><td>2015</td></tr>
+<tr><td>Belgio</td><td>26 novembre</td><td>2013</td><td>26 novembre</td><td>2014</td></tr>
+<tr><td>Bolivia</td><td>10 dicembre</td><td>2020</td><td>10 dicembre</td><td>2021</td></tr>
+<tr><td>Botswana</td><td>4 giugno</td><td>2013</td><td>4 giugno</td><td>2014</td></tr>
+<tr><td>Ceca, Repubblica</td><td>12 marzo</td><td>2015</td><td>12 marzo</td><td>2016</td></tr>
+<tr><td>Cile</td><td>23 settembre</td><td>2016</td><td>23 settembre</td><td>2017</td></tr>
+<tr><td>Cipro</td><td>25 settembre</td><td>2013</td><td>25 settembre</td><td>2014</td></tr>
+<tr><td>Costa Rica</td><td>5 febbraio</td><td>2015</td><td>5 febbraio</td><td>2016</td></tr>
+<tr><td>Croazia</td><td>20 dicembre</td><td>2013</td><td>20 dicembre</td><td>2014</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>1° gennaio</td><td>2025</td><td>1° gennaio</td><td>2026</td></tr>
+<tr><td>Ecuador</td><td>25 settembre</td><td>2019</td><td>25 settembre</td><td>2020</td></tr>
+<tr><td>El Salvador</td><td>3 marzo</td><td>2016</td><td>3 marzo</td><td>2017</td></tr>
+<tr><td>Estonia</td><td>27 marzo</td><td>2013</td><td>27 marzo</td><td>2014</td></tr>
+<tr><td>Finlandia</td><td>30 dicembre</td><td>2015</td><td>30 dicembre</td><td>2016</td></tr>
+<tr><td>Georgia</td><td>5 dicembre</td><td>2014</td><td>5 dicembre</td><td>2015</td></tr>
+<tr><td>Germania</td><td>3 giugno</td><td>2013</td><td>3 giugno</td><td>2014</td></tr>
+<tr><td>Guyana</td><td>28 settembre</td><td>2018</td><td>28 settembre</td><td>2019</td></tr>
+<tr><td>Irlanda</td><td>27 settembre</td><td>2018</td><td>27 settembre</td><td>2019</td></tr>
+<tr><td>Islanda</td><td>17 giugno</td><td>2016</td><td>17 giugno</td><td>2017</td></tr>
+<tr><td>Italia</td><td>26 gennaio</td><td>2022</td><td>26 gennaio</td><td>2023</td></tr>
+<tr><td>Lettonia</td><td>25 settembre</td><td>2014</td><td>25 settembre</td><td>2015</td></tr>
+<tr><td>Liechtenstein</td><td>8 maggio</td><td>2012</td><td>8 maggio</td><td>2013</td></tr>
+<tr><td>Lituania</td><td>7 dicembre</td><td>2015</td><td>7 dicembre</td><td>2016</td></tr>
+<tr><td>Lussemburgo</td><td>15 gennaio</td><td>2013</td><td>15 gennaio</td><td>2014</td></tr>
+<tr><td>Macedonia del Nord</td><td>1° marzo</td><td>2016</td><td>1° marzo</td><td>2017</td></tr>
+<tr><td>Malta</td><td>30 gennaio</td><td>2015</td><td>30 gennaio</td><td>2016</td></tr>
+<tr><td>Mongolia</td><td>18 gennaio</td><td>2021</td><td>18 gennaio</td><td>2022</td></tr>
+<tr><td>Niger</td><td>14 aprile</td><td>2023</td><td>14 aprile</td><td>2024</td></tr>
+<tr><td>Paesi Bassi</td><td>23 settembre</td><td>2016</td><td>23 settembre</td><td>2017</td></tr>
+<tr><td>Aruba</td><td>21 dicembre</td><td>2017</td><td>21 dicembre</td><td>2017</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>23 settembre</td><td>2016</td><td>23 settembre</td><td>2017</td></tr>
+<tr><td>Palestina</td><td>26 giugno</td><td>2016</td><td>26 giugno</td><td>2017</td></tr>
+<tr><td>Panama</td><td>6 dicembre</td><td>2017</td><td>6 dicembre</td><td>2018</td></tr>
+<tr><td>Paraguay</td><td>5 aprile</td><td>2019</td><td>5 aprile</td><td>2020</td></tr>
+<tr><td>Perù</td><td>14 ottobre</td><td>2022</td><td>14 ottobre</td><td>2023</td></tr>
+<tr><td>Polonia</td><td>25 settembre</td><td>2014</td><td>25 settembre</td><td>2015</td></tr>
+<tr><td>Portogallo</td><td>11 aprile</td><td>2017</td><td>11 aprile</td><td>2018</td></tr>
+<tr><td>Samoa</td><td>25 settembre</td><td>2012</td><td>25 settembre</td><td>2013</td></tr>
+<tr><td>San Marino</td><td>14 novembre</td><td>2014</td><td>14 novembre</td><td>2015</td></tr>
+<tr><td>Seychelles</td><td>1° luglio</td><td>2025</td><td>1° luglio</td><td>2026</td></tr>
+<tr><td>Slovacchia</td><td>28 aprile</td><td>2014</td><td>28 aprile</td><td>2015</td></tr>
+<tr><td>Slovenia</td><td>25 settembre</td><td>2013</td><td>25 settembre</td><td>2014</td></tr>
+<tr><td>Spagna</td><td>25 settembre</td><td>2014</td><td>25 settembre</td><td>2015</td></tr>
+<tr><td>Svezia</td><td>26 gennaio</td><td>2022</td><td>26 gennaio</td><td>2023</td></tr>
+<tr><td>Svizzera</td><td>10 settembre</td><td>2015</td><td>10 settembre</td><td>2016</td></tr>
+<tr><td>Timor Est</td><td>30 maggio</td><td>2025</td><td>30 maggio</td><td>2026</td></tr>
+<tr><td>Trinidad e Tobago</td><td>13 novembre</td><td>2012</td><td>13 novembre</td><td>2013</td></tr>
+<tr><td>Ucraina</td><td>25 ottobre</td><td>2024</td><td>25 ottobre</td><td>2025</td></tr>
+<tr><td>Uruguay</td><td>26 settembre</td><td>2013</td><td>26 settembre</td><td>2014</td></tr>
+<tr><td colspan="5"><sup>a</sup> Gli Emendamenti non si applicano alle Isole Faroe e alla Groenlandia.</td></tr>
+</table>
+
+[^t-3]: [RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [2016 2849](https://fedlex.data.admin.ch/eli/oc/2016/466); [2017 2893](https://fedlex.data.admin.ch/eli/oc/2017/299); [2018 3005](https://fedlex.data.admin.ch/eli/oc/2018/464); [2020 1375](https://fedlex.data.admin.ch/eli/oc/2020/264); [2022 620](https://fedlex.data.admin.ch/eli/oc/2022/620); [2025 613](https://fedlex.data.admin.ch/eli/oc/2025/613). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

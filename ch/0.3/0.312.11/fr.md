@@ -3,11 +3,11 @@ sr: "0.312.11"
 title: "Amendements au Statut de Rome du 11 juin 2010 de la Cour pénale internationale relatifs au crime d'agression"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/644"
 language: fr
-version: 2022-10-25
+version: 2025-10-03
 adopted: 2010-06-11
 in_force: 2016-09-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20221025/fr/xml/fedlex-data-admin-ch-eli-cc-2015-644-20221025-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20221025/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/644/20251003/fr/xml/fedlex-data-admin-ch-eli-cc-2015-644-20251003-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/644/20251003/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,9 +26,9 @@ Instrument de ratification déposé par la Suisse le 10 septembre 2015
 
 Entrés en vigueur pour la Suisse le 10 septembre 2016
 
-(État le 25 octobre 2022)
+(État le 3 octobre 2025)
 
-[^t-1]: Résolution RC/Res.6; voir C.N.651.2010.TREATIES-8 (Notification dépositaire), en date du 29 novembre 2010, disponible à l’adresse suivante: http://treaties.un.org.
+[^t-1]: Résolution RC/Res.6; voir C.N.651.2010.TREATIES-8 (Notification dépositaire), en date du 29 novembre 2010, disponible à l’adresse suivante: [http://treaties.un.org](http://treaties.un.org).
 [^t-2]: Art. 1, al.1, let. a, de l’AF du 20 mars 2015 ([RO 2015 3823](https://fedlex.data.admin.ch/eli/oc/2015/643)).
 
 La Conférence de révision,
@@ -55,6 +55,142 @@ résolue à déclencher la compétence de la Cour à l’égard du crime d’agr
 
 \5. Demande à tous les États Parties de ratifier ou d’accepter les amendements figurant à l’annexe I.
 
-[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
-[^ingress-2]: L’annexe II n’est pas publiée dans le RO. Le texte est disponible dans ses langues originales sous www.icc-cpi.int &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.6.
-[^ingress-3]: L’annexe III n’est pas publiée au RO. Le texte est disponible dans ses langues originales sous www.icc-cpi.int &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.6.
+[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
+[^ingress-2]: L’annexe II n’est pas publiée dans le RO. Le texte est disponible dans ses langues originales sous [www.icc-cpi.int](http://www.icc-cpi.int) &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.6.
+[^ingress-3]: L’annexe III n’est pas publiée au RO. Le texte est disponible dans ses langues originales sous [www.icc-cpi.int](http://www.icc-cpi.int) &gt; Français &gt; Assemblée des Etats Parties &gt; Résolutions &gt; Conférence de révision &gt; RC/Res.6.
+
+Annexe I
+
+## Amendements au Statut de Rome de la Cour pénale internationale relatifs au crime d’agression
+
+**1. Supprimer le par. 2 de l’art. 5.**
+
+**2. Ajouter après l’art. 8 le texte qui suit:**
+
+***Art. 8**<sup>bis</sup>* Crime d’agression**
+
+<sup>1.</sup> Aux fins du présent Statut, on entend par «crime d’agression» la planification, la préparation, le lancement ou l’exécution par une personne effectivement en mesure de contrôler ou de diriger l’action politique ou militaire d’un État, d’un acte d’agression qui, par sa nature, sa gravité et son ampleur, constitue une violation manifeste de la Charte des Nations Unies du 26 juin 1945[^annexI-lvlu1-1].
+
+<sup>2.</sup>
+
+Aux fins du par. 1, on entend par «acte d’agression» l’emploi par un État de la force armée contre la souveraineté, l’intégrité territoriale ou l’indépendance politique d’un autre État, ou de toute autre manière incompatible avec la Charte des Nations Unies. Qu’il y ait ou non déclaration de guerre, les actes suivants sont des actes d’agression au regard de la résolution 3314 (XXIX) de l’Assemblée générale des Nations Unies en date du 14 décembre 1974:
+
+- a) l’invasion ou l’attaque par les forces armées d’un État du territoire d’un autre État ou l’occupation militaire, même temporaire, résultant d’une telle invasion ou d’une telle attaque, ou l’annexion par la force de la totalité ou d’une partie du territoire d’un autre État;
+- b) le bombardement par les forces armées d’un État du territoire d’un autre État, ou l’utilisation d’une arme quelconque par un État contre le territoire d’un autre État;
+- c) le blocus des ports ou des côtes d’un État par les forces armées d’un autre État;
+- d) l’attaque par les forces armées d’un État des forces terrestres, maritimes ou aériennes, ou des flottes aériennes et maritimes d’un autre État;
+- e) l’emploi des forces armées d’un État qui se trouvent dans le territoire d’un autre État avec l’agrément de celui-ci en contravention avec les conditions fixées dans l’accord pertinent, ou la prolongation de la présence de ces forces sur ce territoire après l’échéance de l’accord pertinent;
+- f) le fait pour un État de permettre que son territoire, qu’il a mis à la disposition d’un autre État, serve à la commission par cet autre État d’un acte d’agression contre un État tiers;
+- g) l’envoi par un État ou au nom d’un État de bandes, groupes, troupes irrégulières ou mercenaires armés qui exécutent contre un autre État des actes assimilables à ceux de forces armées d’une gravité égale à celle des actes énumérés ci-dessus, ou qui apportent un concours substantiel à de tels actes.
+
+**3. Insérer le texte suivant après l’art. 15:**
+
+***Art. 15**<sup>bis</sup>* Exercice de la compétence à l’égard du crime d’agression (Renvoi par un État, de sa propre initiative)**
+
+<sup>1.</sup> La Cour peut exercer sa compétence à l’égard du crime d’agression conformément aux par. a) et c) de l’art. 13, sous réserve des dispositions qui suivent.
+
+<sup>2.</sup> La Cour peut exercer sa compétence uniquement à l’égard de crimes d’agression commis un an après la ratification ou l’acceptation des amendements par 30 États Parties.
+
+<sup>3.</sup> La Cour exerce sa compétence à l’égard du crime d’agression conformément à cet article, sous réserve d’une décision qui sera prise après le 1<sup>er</sup> janvier 2017 par la même majorité d’États Parties que celle requise pour l’adoption d’un amendement au Statut.
+
+<sup>4.</sup> La Cour peut, conformément à l’art. 12, exercer sa compétence à l’égard d’un crime d’agression résultant d’un acte d’agression commis par un État Partie à moins que cet État Partie n’ait préalablement déclaré qu’il n’acceptait pas une telle compétence en déposant une déclaration auprès du Greffier. Le retrait d’une telle déclaration peut être effectué à tout moment et sera envisagé par l’État Partie dans un délai de trois ans.
+
+<sup>5.</sup> En ce qui concerne un État qui n’est pas Partie au présent Statut, la Cour n’exerce pas sa compétence à l’égard du crime d’agression quand celui-ci est commis par des ressortissants de cet État ou sur son territoire.
+
+<sup>6.</sup> Lorsque le Procureur conclut qu’il y a une base raisonnable pour mener une enquête pour crime d’agression, il s’assure d’abord que le Conseil de sécurité a constaté qu’un acte d’agression avait été commis par l’État en cause. Il avise le Secrétaire général de l’Organisation des Nations Unies de la situation portée devant la Cour et lui communique toute information et tout document utiles.
+
+<sup>7.</sup> Lorsque le Conseil de sécurité a constaté un acte d’agression, le Procureur peut mener l’enquête sur ce crime.
+
+<sup>8.</sup> Lorsqu’un tel constat n’est pas fait dans les six mois suivant la date de l’avis, le Procureur peut mener une enquête pour crime d’agression, à condition que la Section préliminaire ait autorisé l’ouverture d’une enquête pour crime d’agression selon la procédure fixée à l’art. 15, et que le Conseil de sécurité n’en ait pas décidé autrement, conformément à l’art. 16.
+
+<sup>9.</sup> Le constat d’un acte d’agression par un organe extérieur à la Cour est sans préjudice des constatations que fait la Cour elle-même en vertu du présent Statut.
+
+<sup>10.</sup> Le présent article est sans préjudice des dispositions relatives à l’exercice de la compétence à l’égard des autres crimes visés à l’art. 5.
+
+**4. Insérer le texte suivant après l’art. 15<sup>bis</sup>:**
+
+***Art. 15**<sup>ter</sup>*Exercice de la compétence à l’égard du crime d’agression (Renvoi par le Conseil de sécurité)**
+
+<sup>1.</sup> La Cour peut exercer sa compétence à l’égard du crime d’agression conformément au par. b) de l’art. 13, sous réserve des dispositions qui suivent.
+
+<sup>2.</sup> La Cour peut exercer sa compétence uniquement à l’égard de crimes d’agression commis un an après la ratification ou l’acceptation des amendements par 30 États Parties.
+
+<sup>3.</sup> La Cour exerce sa compétence à l’égard du crime d’agression conformément à cet article, sous réserve d’une décision qui sera prise après le 1<sup>er</sup> janvier 2017 par la même majorité d’États Parties que celle requise pour l’adoption d’un amendement au Statut.
+
+<sup>4.</sup> Le constat d’un acte d’agression par un organe extérieur à la Cour est sans préjudice des constatations que fait la Cour elle-même en vertu du présent Statut.
+
+<sup>5.</sup> Le présent article est sans préjudice des dispositions relatives à l’exercice de la compétence à l’égard des autres crimes visés à l’art. 5.
+
+**5. Ajouter le texte suivant après le par. 3 de l’art. 25:**
+
+3<sup>bis</sup>. S’agissant du crime d’agression, les dispositions du présent article ne s’appliquent qu’aux personnes effectivement en mesure de contrôler ou de diriger l’action politique ou militaire d’un État.
+
+**6. Remplacer la première phrase du par. 1 de l’art. 9 par la phrase suivante:**
+
+<sup>1.</sup> Les éléments des crimes aident la Cour à interpréter et appliquer les art. 6, 7, 8 et 8<sup>bis</sup>. …
+
+**7. Remplacer le chapeau du par. 3 de l’art. 20 par le texte suivant, le reste du paragraphe restant inchangé:**
+
+<sup>3.</sup> Quiconque a été jugé par une autre juridiction pour un comportement tombant aussi sous le coup des art. 6, 7, 8 ou 8<sup>bis</sup> ne peut être jugé par la Cour pour les mêmes faits que si la procédure devant l’autre juridiction:
+
+[^annexI-lvlu1-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+
+Champ d’application le 3 octobre 2025[^t-3]
+
+<table>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>3 juin</td><td>2013</td><td>3 juin</td><td>2014</td></tr>
+<tr><td>Andorre</td><td>26 septembre</td><td>2013</td><td>26 septembre</td><td>2014</td></tr>
+<tr><td>Argentine</td><td>28 avril</td><td>2017</td><td>28 avril</td><td>2018</td></tr>
+<tr><td>Autriche</td><td>17 juillet</td><td>2014</td><td>17 juillet</td><td>2015</td></tr>
+<tr><td>Belgique</td><td>26 novembre</td><td>2013</td><td>26 novembre</td><td>2014</td></tr>
+<tr><td>Bolivie</td><td>10 décembre</td><td>2020</td><td>10 décembre</td><td>2021</td></tr>
+<tr><td>Botswana</td><td>4 juin</td><td>2013</td><td>4 juin</td><td>2014</td></tr>
+<tr><td>Chili</td><td>23 septembre</td><td>2016</td><td>23 septembre</td><td>2017</td></tr>
+<tr><td>Chypre</td><td>25 septembre</td><td>2013</td><td>25 septembre</td><td>2014</td></tr>
+<tr><td>Costa Rica</td><td>5 février</td><td>2015</td><td>5 février</td><td>2016</td></tr>
+<tr><td>Croatie</td><td>20 décembre</td><td>2013</td><td>20 décembre</td><td>2014</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>1<sup>er</sup> janvier</td><td>2025</td><td>1<sup>er</sup> janvier</td><td>2026</td></tr>
+<tr><td>El Salvador</td><td>3 mars</td><td>2016</td><td>3 mars</td><td>2017</td></tr>
+<tr><td>Équateur</td><td>25 septembre</td><td>2019</td><td>25 septembre</td><td>2020</td></tr>
+<tr><td>Espagne</td><td>25 septembre</td><td>2014</td><td>25 septembre</td><td>2015</td></tr>
+<tr><td>Estonie</td><td>27 mars</td><td>2013</td><td>27 mars</td><td>2014</td></tr>
+<tr><td>Finlande</td><td>30 décembre</td><td>2015</td><td>30 décembre</td><td>2016</td></tr>
+<tr><td>Géorgie</td><td>5 décembre</td><td>2014</td><td>5 décembre</td><td>2015</td></tr>
+<tr><td>Guyana</td><td>28 septembre</td><td>2018</td><td>28 septembre</td><td>2019</td></tr>
+<tr><td>Irlande</td><td>27 septembre</td><td>2018</td><td>27 septembre</td><td>2019</td></tr>
+<tr><td>Islande</td><td>17 juin</td><td>2016</td><td>17 juin</td><td>2017</td></tr>
+<tr><td>Italie</td><td>26 janvier</td><td>2022</td><td>26 janvier</td><td>2023</td></tr>
+<tr><td>Lettonie</td><td>25 septembre</td><td>2014</td><td>25 septembre</td><td>2015</td></tr>
+<tr><td>Liechtenstein</td><td>8 mai</td><td>2012</td><td>8 mai</td><td>2013</td></tr>
+<tr><td>Lituanie</td><td>7 décembre</td><td>2015</td><td>7 décembre</td><td>2016</td></tr>
+<tr><td>Luxembourg</td><td>15 janvier</td><td>2013</td><td>15 janvier</td><td>2014</td></tr>
+<tr><td>Macédoine du Nord</td><td>1<sup>er</sup> mars</td><td>2016</td><td>1<sup>er</sup> mars</td><td>2017</td></tr>
+<tr><td>Malte</td><td>30 janvier</td><td>2015</td><td>30 janvier</td><td>2016</td></tr>
+<tr><td>Mongolie</td><td>18 janvier</td><td>2021</td><td>18 janvier</td><td>2022</td></tr>
+<tr><td>Niger</td><td>14 avril</td><td>2023</td><td>14 avril</td><td>2024</td></tr>
+<tr><td>Palestine</td><td>26 juin</td><td>2016</td><td>26 juin</td><td>2017</td></tr>
+<tr><td>Panama</td><td>6 décembre</td><td>2017</td><td>6 décembre</td><td>2018</td></tr>
+<tr><td>Paraguay</td><td>5 avril</td><td>2019</td><td>5 avril</td><td>2020</td></tr>
+<tr><td>Pays-Bas</td><td>23 septembre</td><td>2016</td><td>23 septembre</td><td>2017</td></tr>
+<tr><td>Aruba</td><td>21 décembre</td><td>2017</td><td>21 décembre</td><td>2017</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>23 septembre</td><td>2016</td><td>23 septembre</td><td>2017</td></tr>
+<tr><td>Pérou</td><td>14 octobre</td><td>2022</td><td>14 octobre</td><td>2023</td></tr>
+<tr><td>Pologne</td><td>25 septembre</td><td>2014</td><td>25 septembre</td><td>2015</td></tr>
+<tr><td>Portugal</td><td>11 avril</td><td>2017</td><td>11 avril</td><td>2018</td></tr>
+<tr><td>République tchèque</td><td>12 mars</td><td>2015</td><td>12 mars</td><td>2016</td></tr>
+<tr><td>Saint-Marin</td><td>14 novembre</td><td>2014</td><td>14 novembre</td><td>2015</td></tr>
+<tr><td>Samoa</td><td>25 septembre</td><td>2012</td><td>25 septembre</td><td>2013</td></tr>
+<tr><td>Seychelles</td><td>1<sup>er</sup> juillet</td><td>2025</td><td>1<sup>er</sup> juillet</td><td>2026</td></tr>
+<tr><td>Slovaquie</td><td>28 avril</td><td>2014</td><td>28 avril</td><td>2015</td></tr>
+<tr><td>Slovénie</td><td>25 septembre</td><td>2013</td><td>25 septembre</td><td>2014</td></tr>
+<tr><td>Suède</td><td>26 janvier</td><td>2022</td><td>26 janvier</td><td>2023</td></tr>
+<tr><td>Suisse</td><td>10 septembre</td><td>2015</td><td>10 septembre</td><td>2016</td></tr>
+<tr><td>Timor-Leste</td><td>30 mai</td><td>2025</td><td>30 mai</td><td>2026</td></tr>
+<tr><td>Trinité-et-Tobago</td><td>13 novembre</td><td>2012</td><td>13 novembre</td><td>2013</td></tr>
+<tr><td>Ukraine</td><td>25 octobre</td><td>2024</td><td>25 octobre</td><td>2025</td></tr>
+<tr><td>Uruguay</td><td>26 septembre</td><td>2013</td><td>26 septembre</td><td>2014</td></tr>
+<tr><td colspan="5"><sup>a</sup> Les Amendements ne s’appliquent pas aux îles Féroé et au Groenland.</td></tr>
+</table>
+
+[^t-3]: [RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [2016 2849](https://fedlex.data.admin.ch/eli/oc/2016/466); [2017 2893](https://fedlex.data.admin.ch/eli/oc/2017/299); [2018 3005](https://fedlex.data.admin.ch/eli/oc/2018/464); [2020 1375](https://fedlex.data.admin.ch/eli/oc/2020/264); [2022 620](https://fedlex.data.admin.ch/eli/oc/2022/620); [2025 613](https://fedlex.data.admin.ch/eli/oc/2025/613). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
