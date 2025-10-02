@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Convenzione di Minamata del 10 ottobre 2013 sul mercurio
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: it
-version: 2025-04-25
+version: 2025-10-03
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20250425/it/xml/fedlex-data-admin-ch-eli-cc-2017-467-20250425-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20250425/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20251003/it/xml/fedlex-data-admin-ch-eli-cc-2017-467-20251003-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20251003/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa il 10 ottobre 2013 Approvata dall’Assemblea federale il 18 dicembre 2015[^t-1] Strumento di ratifica depositato dalla Svizzera il 25 maggio 2016[^t-2] Entrata in vigore per la Svizzera il 16 agosto 2017
 
-(Stato 25 aprile 2025)
+(Stato 3 ottobre 2025)
 
 [^t-1]: [RU 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)
 [^t-2]: Correzione del 5 nov. 2019 ([RU 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -55,8 +55,8 @@ constatando che nessuna delle disposizioni della presente convenzione impedisce 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
-[^ingress-2]: [RS 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)
+[^ingress-1]: [RS 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
+[^ingress-2]: [RS 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
 
 #### Art. 1
 
@@ -1085,7 +1085,7 @@ In caso di disaccordo sulla competenza della commissione di conciliazione, è qu
 
 Se non altrimenti concordato, le spese della commissione di conciliazione sono a carico in ugual misura delle parti della disputa. La commissione tiene un registro delle proprie spese e fornisce alle parti un rendiconto conclusivo.
 
-Campo d’applicazione il 22 febbraio 2024[^t-5]
+Campo d’applicazione il 3 ottobre 2025[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1129,12 +1129,14 @@ Campo d’applicazione il 22 febbraio 2024[^t-5]
 <tr><td>Croazia</td><td>25 settembre</td><td>2017</td><td>24 dicembre</td><td>2017</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>30 gennaio</td><td>2018 A</td><td>30 aprile</td><td>2018</td></tr>
 <tr><td>Danimarca</td><td>18 maggio</td><td>2017</td><td>16 agosto</td><td>2017</td></tr>
+<tr><td>Groenlandia</td><td>10 febbraio</td><td>2021</td><td>10 febbraio</td><td>2021</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>20 marzo</td><td>2018</td><td>18 giugno</td><td>2018</td></tr>
 <tr><td>Ecuador</td><td>29 luglio</td><td>2016</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>El Salvador</td><td>20 giugno</td><td>2017 A</td><td>18 settembre</td><td>2017</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>27 aprile</td><td>2015</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Eritrea</td><td>7 febbraio</td><td>2023 A</td><td>8 maggio</td><td>2023</td></tr>
 <tr><td>Estonia</td><td>21 giugno</td><td>2017 A</td><td>19 settembre</td><td>2017</td></tr>
+<tr><td>Etiopia</td><td>19 agosto</td><td>2024</td><td>17 novembre</td><td>2024</td></tr>
 <tr><td>Eswatini</td><td>21 settembre</td><td>2016 A</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Filippine</td><td>8 luglio</td><td>2020</td><td>6 ottobre</td><td>2020</td></tr>
 <tr><td>Finlandia</td><td>1° giugno</td><td>2017</td><td>30 agosto</td><td>2017</td></tr>
@@ -1149,7 +1151,6 @@ Campo d’applicazione il 22 febbraio 2024[^t-5]
 <tr><td>Gibuti</td><td>23 settembre</td><td>2014</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Giordania</td><td>12 novembre</td><td>2015</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Grecia</td><td>10 giugno</td><td>2020</td><td>8 settembre</td><td>2020</td></tr>
-<tr><td>Groenlandia</td><td>10 febbraio</td><td>2021</td><td>10 febbraio</td><td>2021</td></tr>
 <tr><td>Guinea</td><td>21 ottobre</td><td>2014</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Guinea Equatoriale</td><td>24 dicembre</td><td>2019 A</td><td>23 marzo</td><td>2020</td></tr>
 <tr><td>Guinea-Bissau</td><td>22 ottobre</td><td>2018</td><td>20 gennaio</td><td>2019</td></tr>
@@ -1161,6 +1162,7 @@ Campo d’applicazione il 22 febbraio 2024[^t-5]
 <tr><td>Iraq</td><td>16 settembre</td><td>2021</td><td>15 dicembre</td><td>2021</td></tr>
 <tr><td>Irlanda</td><td>18 marzo</td><td>2019</td><td>16 giugno</td><td>2019</td></tr>
 <tr><td>Islanda</td><td>3 maggio</td><td>2018 A</td><td>1° agosto</td><td>2018</td></tr>
+<tr><td>Israele\*</td><td>26 settembre</td><td>2025</td><td>25 dicembre</td><td>2025</td></tr>
 <tr><td>Italia</td><td>5 gennaio</td><td>2021</td><td>5 aprile</td><td>2021</td></tr>
 <tr><td>Kenya</td><td>22 settembre</td><td>2023</td><td>21 dicembre</td><td>2023</td></tr>
 <tr><td>Kiribati</td><td>28 luglio</td><td>2017 A</td><td>26 ottobre</td><td>2017</td></tr>
@@ -1169,12 +1171,14 @@ Campo d’applicazione il 22 febbraio 2024[^t-5]
 <tr><td>Lesotho</td><td>12 novembre</td><td>2014 A</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Lettonia</td><td>20 giugno</td><td>2017</td><td>18 settembre</td><td>2017</td></tr>
 <tr><td>Libano</td><td>13 ottobre</td><td>2017 A</td><td>11 gennaio</td><td>2018</td></tr>
+<tr><td>Liberia\*</td><td>24 settembre</td><td>2024</td><td>23 dicembre</td><td>2024</td></tr>
 <tr><td>Liechtenstein</td><td>1° febbraio</td><td>2017 A</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Lituania</td><td>15 gennaio</td><td>2018</td><td>15 aprile</td><td>2018</td></tr>
 <tr><td>Lussemburgo</td><td>21 settembre</td><td>2017</td><td>20 dicembre</td><td>2017</td></tr>
 <tr><td>Macedonia del Nord</td><td>12 marzo</td><td>2020</td><td>10 giugno</td><td>2020</td></tr>
 <tr><td>Madagascar</td><td>13 maggio</td><td>2015</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Malawi<sup>\*</sup></td><td>23 giugno</td><td>2023</td><td>21 settembre</td><td>2023</td></tr>
+<tr><td>Maldive</td><td>24 settembre</td><td>2024 A</td><td>23 dicembre</td><td>2024</td></tr>
 <tr><td>Mali</td><td>27 maggio</td><td>2016</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Malta</td><td>18 maggio</td><td>2017</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Marshall, Isole</td><td>29 gennaio</td><td>2019 A</td><td>29 aprile</td><td>2019</td></tr>
@@ -1213,6 +1217,7 @@ Campo d’applicazione il 22 febbraio 2024[^t-5]
 <tr><td>São Tomé e Príncipe</td><td>30 agosto</td><td>2018 A</td><td>28 novembre</td><td>2018</td></tr>
 <tr><td>Seicelle\*</td><td>13 gennaio</td><td>2015</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Senegal</td><td>3 marzo</td><td>2016</td><td>16 agosto</td><td>2017</td></tr>
+<tr><td>Serbia</td><td>10 gennaio</td><td>2025</td><td>10 aprile</td><td>2025</td></tr>
 <tr><td>Sierra Leone</td><td>1° novembre</td><td>2016</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Singapore</td><td>22 settembre</td><td>2017</td><td>21 dicembre</td><td>2017</td></tr>
 <tr><td>Siria</td><td>26 luglio</td><td>2017</td><td>24 ottobre</td><td>2017</td></tr>
@@ -1239,7 +1244,7 @@ Campo d’applicazione il 22 febbraio 2024[^t-5]
 <tr><td>Vietnam</td><td>23 giugno</td><td>2017</td><td>21 settembre</td><td>2017</td></tr>
 <tr><td>Zambia</td><td>11 marzo</td><td>2016</td><td>16 agosto</td><td>2017</td></tr>
 <tr><td>Zimbabwe</td><td>19 agosto</td><td>2021</td><td>17 novembre</td><td>2021</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-5]: [RU 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342); [2024 91](https://fedlex.data.admin.ch/eli/oc/2024/91). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-5]: [RU 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342); [2024 91](https://fedlex.data.admin.ch/eli/oc/2024/91); [2025 614](https://fedlex.data.admin.ch/eli/oc/2025/614). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

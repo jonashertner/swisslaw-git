@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Übereinkommen von Minamata vom 10. Oktober 2013 über Quecksilber
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: de
-version: 2025-04-25
+version: 2025-10-03
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20250425/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20250425-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20250425/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20251003/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20251003-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20251003/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 25. Mai 2016[^t-2]
 
 In Kraft getreten für die Schweiz am 16. August 2017
 
-(Stand am 25. April 2025)
+(Stand am 3. Oktober 2025)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 18. Dez. 2015 ([AS 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)).
 [^t-2]: Berichtigung vom 5. Nov. 2019 ([AS 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -61,8 +61,8 @@ unter Hinweis darauf, dass dieses Übereinkommen eine Vertragspartei nicht daran
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
-[^ingress-2]: [SR 0.916.21](https://fedlex.data.admin.ch/eli/cc/2004/466)FürÖsterreich: Rotterdamer Übereinkommen über das Verfahren der vorherigen Zustimmung nach Inkenntnissetzung für bestimmte gefährliche Chemikalien sowie Pestizide im internationalen Handel.
+[^ingress-1]: [SR 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
+[^ingress-2]: [SR 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)FürÖsterreich: Rotterdamer Übereinkommen über das Verfahren der vorherigen Zustimmung nach Inkenntnissetzung für bestimmte gefährliche Chemikalien sowie Pestizide im internationalen Handel.
 
 #### Art. 1
 
@@ -1094,7 +1094,7 @@ Bei Uneinigkeit darüber, ob die Vergleichskommission für die Prüfung einer ih
 
 Die Kosten der Vergleichskommission werden von den Streitparteien zu gleichen Teilen getragen, wenn sie nichts anderes vereinbaren. Die Kommission führt über alle ihre Kosten Buch und legt den Parteien eine Schlussabrechnung vor.
 
-Geltungsbereich am 22. Februar 2024[^t-5]
+Geltungsbereich am 3. Oktober 2025[^t-5]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1105,6 +1105,7 @@ Geltungsbereich am 22. Februar 2024[^t-5]
 <tr><td>Äquatorialguinea</td><td>24. Dezember</td><td>2019 B</td><td>23. März</td><td>2020</td></tr>
 <tr><td>Argentinien<sup>\*</sup></td><td>25. September</td><td>2017</td><td>24. Dezember</td><td>2017</td></tr>
 <tr><td>Armenien<sup>\*</sup></td><td>13. Dezember</td><td>2017</td><td>13. März</td><td>2018</td></tr>
+<tr><td>Äthiopien</td><td>19. August</td><td>2024</td><td>17. November</td><td>2024</td></tr>
 <tr><td>Australien</td><td>7. Dezember</td><td>2021</td><td>7. März</td><td>2022</td></tr>
 <tr><td>Bahamas</td><td>12. Februar</td><td>2020 B</td><td>12. Mai</td><td>2020</td></tr>
 <tr><td>Bahrain</td><td>6. Juli</td><td>2021 B</td><td>4. Oktober</td><td>2021</td></tr>
@@ -1152,6 +1153,7 @@ Geltungsbereich am 22. Februar 2024[^t-5]
 <tr><td>Iran\*</td><td>16. Juni</td><td>2017</td><td>14. September</td><td>2017</td></tr>
 <tr><td>Irland</td><td>18. März</td><td>2019</td><td>16. Juni</td><td>2019</td></tr>
 <tr><td>Island</td><td>3. Mai</td><td>2018 B</td><td>1. August</td><td>2018</td></tr>
+<tr><td>Israel\*</td><td>26. September</td><td>2025</td><td>25. Dezember</td><td>2025</td></tr>
 <tr><td>Italien</td><td>5. Januar</td><td>2021</td><td>5. April</td><td>2021</td></tr>
 <tr><td>Jamaika<sup>\*</sup></td><td>19. Juli</td><td>2017</td><td>17. Oktober</td><td>2017</td></tr>
 <tr><td>Japan</td><td>2. Februar</td><td>2016</td><td>16. August</td><td>2017</td></tr>
@@ -1173,11 +1175,13 @@ Geltungsbereich am 22. Februar 2024[^t-5]
 <tr><td>Lesotho</td><td>12. November</td><td>2014 B</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Lettland</td><td>20. Juni</td><td>2017</td><td>18. September</td><td>2017</td></tr>
 <tr><td>Libanon</td><td>13. Oktober</td><td>2017 B</td><td>11. Januar</td><td>2018</td></tr>
+<tr><td>Liberia\*</td><td>24. September</td><td>2024</td><td>23. Dezember</td><td>2024</td></tr>
 <tr><td>Liechtenstein</td><td>1. Februar</td><td>2017 B</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Litauen</td><td>15. Januar</td><td>2018</td><td>15. April</td><td>2018</td></tr>
 <tr><td>Luxemburg</td><td>21. September</td><td>2017</td><td>20. Dezember</td><td>2017</td></tr>
 <tr><td>Madagaskar</td><td>13. Mai</td><td>2015</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Malawi\*</td><td>23. Juni</td><td>2023</td><td>21. September</td><td>2023</td></tr>
+<tr><td>Malediven</td><td>24. September</td><td>2024 B</td><td>23. Dezember</td><td>2024</td></tr>
 <tr><td>Mali</td><td>27. Mai</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Malta</td><td>18. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Marshallinseln</td><td>29. Januar</td><td>2019 B</td><td>29. April</td><td>2019</td></tr>
@@ -1215,6 +1219,7 @@ Geltungsbereich am 22. Februar 2024[^t-5]
 <tr><td>Saudi-Arabien</td><td>27. Februar</td><td>2019 B</td><td>28. Mai</td><td>2019</td></tr>
 <tr><td>Schweden</td><td>18. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Schweiz</td><td>25. Mai</td><td>2016</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Serbien</td><td>10. Januar</td><td>2025</td><td>10. April</td><td>2025</td></tr>
 <tr><td>Senegal</td><td>3. März</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Seychellen\*</td><td>13. Januar</td><td>2015</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Sierra Leone</td><td>1. November</td><td>2016</td><td>16. August</td><td>2017</td></tr>
@@ -1248,7 +1253,7 @@ Geltungsbereich am 22. Februar 2024[^t-5]
 <tr><td>Vietnam</td><td>23. Juni</td><td>2017</td><td>21. September</td><td>2017</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>31. März</td><td>2021</td><td>29. Juni</td><td>2021</td></tr>
 <tr><td>Zypern</td><td>25. Februar</td><td>2020</td><td>25. Mai</td><td>2020</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org/](https://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-5]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342); [2024 91](https://fedlex.data.admin.ch/eli/oc/2024/91). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-5]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540); [2022 589](https://fedlex.data.admin.ch/eli/oc/2022/589); [2023 342](https://fedlex.data.admin.ch/eli/oc/2023/342); [2024 91](https://fedlex.data.admin.ch/eli/oc/2024/91); [2025 614](https://fedlex.data.admin.ch/eli/oc/2025/614). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
