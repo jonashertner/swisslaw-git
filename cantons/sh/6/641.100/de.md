@@ -4,12 +4,12 @@ number: "641.100"
 title: Gesetz über die direkten Steuern
 language: de
 version: 2025-01-01
-corrected: 2025-01-27
+corrected: 2025-10-06
 version_adopted: 2025-05-05
 adopted: 2000-03-20
 in_force: 2001-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/641.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1969/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1971/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1044,7 +1044,7 @@ beschliesst:
 
 <sup>2</sup> Der Reingewinn aus Patenten und vergleichbaren Rechten, die in Produkten enthalten sind, ermittelt sich, indem der Reingewinn aus diesen Produkten jeweils um 6 Prozent der diesen Produkten zugewiesenen Kosten sowie um das Markenentgelt vermindert wird.
 
-<sup>3</sup> Die ermässigte Besteuerung der Reingewinne aus Patenten und vergleichbaren Rechten erfolgt, soweit diese Reingewinne den gesamten für diese Rechte bis zur Einbringung entstandenen und steuerwirksam abgezogenen Forschungs- und Entwicklungsaufwand übersteigen. Am Ende des fünften Jahres seit der Einbringung ist der noch nicht verrechnete Forschungs- und Entwicklungsaufwand zum steuerbaren Gewinn hinzuzurechnen. Die steuerpflichtige Person hat jederzeit das Recht, den noch nicht verrechneten Forschungs- und Entwicklungsaufwand sofort zum steuerbaren Reingewinn hinzuzurechnen. Im Umfang des hinzugerechneten Betrags ist eine versteuerte stille Reserve zu bilden.
+<sup>3</sup> Die ermässigte Besteuerung der Reingewinne aus Patenten und vergleichbaren Rechten erfolgt, soweit diese Reingewinne den gesamten für diese Rechte bis zur Einbringung entstandenen und steuerwirksam abgezogenen Forschungs- und Entwicklungsaufwand sowie die nach Art. 66a vorgenommenen Abzüge übersteigen. Am Ende des fünften Jahres seit der Einbringung sind der noch nicht verrechnete Forschungs- und Entwicklungsaufwand und die noch nicht verrechneten Abzüge nach Art. 66a zum steuerbaren Gewinn hinzuzurechnen. Die steuerpflichtige Person hat jederzeit das Recht, den noch nicht verrechneten Forschungs- und Entwicklungsaufwand und die nach Art. 66a vorgenommenen Abzüge sofort zum steuerbaren Reingewinn hinzuzurechnen. Im Umfang des hinzugerechneten Betrags ist eine versteuerte stille Reserve zu bilden.
 
 <sup>4</sup> Im Übrigen gelten die vom Bundesrat gestützt auf Art. 24b Abs. 4 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden erlassenen Bestimmungen.
 
@@ -1202,12 +1202,13 @@ beschliesst:
 
 **Entlastungsbegrenzung**
 
-<sup>1</sup> Die gesamte steuerliche Ermässigung nach Art. 65a Abs. 1 und 2 darf nicht höher sein als 70 Prozent des steuerbaren Gewinns vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach Art. 76 und 77 ausgeklammert wird, und vor Abzug der vorgenommenen Ermässigungen; es dürfen weder aus den einzelnen Ermässigungen noch aus der gesamten steuerlichen Ermässigung Verlustvorträge resultieren.
+<sup>1</sup> Die gesamte steuerliche Ermässigung nach Art. 65a Abs. 1 und 2 und Art. 66a darf nicht höher sein als 70 Prozent des steuerbaren Gewinns vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach Art. 76 und 77 ausgeklammert wird, und vor Abzug der vorgenommenen Ermässigungen; es dürfen weder aus den einzelnen Ermässigungen noch aus der gesamten steuerlichen Ermässigung Verlustvorträge resultieren.
 
 <sup>2</sup> Allfällige Abzugsüberschüsse gemäss Abs. 1 sind in folgender Reihenfolge zu kürzen:
 
-- 1\. Abschreibungen auf aufgedeckten stillen Reserven (Art. 238 Abs. 4)
-- 2\. Ermässigung des Reingewinns aus Patenten und vergleichbaren Rechten (Art. 65a)
+- 1\. Zusätzlicher Abzug für Forschungs- und Entwicklungsaufwand (Art. 66a)
+- 2\. Abschreibungen auf aufgedeckten stillen Reserven (Art. 238 Abs. 4)
+- 3\. Ermässigung des Reingewinns aus Patenten und vergleichbaren Rechten (Art. 65a)
 
 ### 1.3.2.2 Steuerberechnung
 
