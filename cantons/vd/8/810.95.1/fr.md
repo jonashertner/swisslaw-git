@@ -1,0 +1,253 @@
+---
+canton: VD
+number: "810.95.1"
+title: "RÈGLEMENT du 17.09.2025 d'application de la Convention intercantonale du 21 août 2013 sur l'Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg, relatif à l'exploitation de l'établissement (RC-HIB)"
+short: RC-HIB
+language: fr
+version: 2025-10-06
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.95.1?id=b22d5d5e-4d70-4273-b46e-37428a3b5788"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# RÈGLEMENT d'application de la Convention intercantonale du 21 août 2013 sur l'Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg, relatif à l'exploitation de l'établissement (RC-HIB)
+
+du 17 septembre 2025
+
+LE CONSEIL D’ETAT DU CANTON DE VAUD ET LE CONSEIL D’ETAT DU CANTON DE FRIBOURG
+
+vu la Convention intercantonale du 21 août 2013 sur l'Hôpital intercantonal de la Broye Vaud-Fribourg (ci-après : la Convention)
+
+vu les préavis du Département de la santé et de l'action sociale du Canton de Vaud et de la Direction de la santé et des affaires sociales du Canton de Fribourg (ci-après : les départements)
+
+arrêtent
+
+## Chapitre I Dispositions générales
+
+#### Art. 1
+
+**Objet, but et champ d'application**
+
+<sup>1</sup> Le présent règlement fixe les dispositions d'application de la Convention intercantonale du 21 août 2013 sur l'Hôpital intercantonal de la Broye Vaud-Fribourg (ci-après : l'HIB) relatives au fonctionnement de l'HIB, qui bénéficie d'un statut juridique autonome de droit public.
+
+#### Art. 2
+
+**Principe**
+
+<sup>1</sup> A défaut de dispositions contraires dans la Convention, le présent règlement ou une législation spécifique, le droit du lieu du site est applicable.
+
+#### Art. 3
+
+**Mise en oeuvre du règlement**
+
+<sup>1</sup> Sous réserve des compétences des Conseils d'Etat vaudois et fribourgeois, les départements sont chargés de l'exécution du présent règlement. Ils édictent à cet effet les directives nécessaires.
+
+## Chapitre II Autorisations
+
+#### Art. 4
+
+**Autorisation d'exploiter et de diriger**
+
+<sup>1</sup> L'HIB doit être au bénéfice d'une autorisation d'exploiter. Sa direction doit être au bénéfice d'une autorisation de diriger; ces autorisations valent pour les différents sites de l'établissement.
+
+<sup>2</sup> Les autorisations sont délivrées par le Canton de Vaud, conformément à sa législation.
+
+#### Art. 5
+
+**Autorisation de pratiquer des professionnels de la santé**
+
+<sup>1</sup> Les professionnels de la santé travaillant à l'HIB sont appelés à exercer sur les différents sites vaudois et fribourgeois de l'établissement.
+
+<sup>2</sup> L'autorisation de pratiquer des professionnels est délivrée par l'autorité compétente au siège social de l'établissement, soit le Canton de Vaud, conformément à sa législation.
+
+<sup>3</sup> Les médecins cadres au bénéfice d'une autorisation de pratique du canton de Fribourg bénéficient d'une procédure d'autorisation simplifiée pour leur activité à l'HIB. Les modalités sont fixées par les deux départements.
+
+#### Art. 6
+
+**Autres autorisations**
+
+<sup>1</sup> Les autres autorisations nécessaires sont délivrées par l'autorité compétente au lieu du site conformément à sa propre législation.
+
+## Chapitre III Relations contractuelles
+
+#### Art. 7
+
+**Prestations**
+
+<sup>1</sup> Les listes hospitalières et les mandats de prestations LAMal de l'établissement sont définis par les deux Conseils d'Etat selon la procédure respective de chaque canton, selon l'art. 15 de la Convention.
+
+<sup>2</sup> Les cantons coordonnent l'attribution des prestations afin d'assurer une cohérence des prestations de l'HIB.
+
+#### Art. 8
+
+**Conseil d'Etablissement**
+
+<sup>1</sup> Les deux départements définissent les modalités de nomination des membres du Conseil d'Etablissement.
+
+<sup>2</sup> Les dispositions cantonales concernant les relations entre les membres d'un Conseil d'Etablissement et les autorités cantonales sont réservées.
+
+## Chapitre IV Système de financement
+
+#### Art. 9
+
+**Prestations LAMal**
+
+<sup>1</sup> Les cantons participent au financement des prestations stationnaires LAMal de leurs assurés relevant de l'assurance obligatoire des soins selon les modalités définies dans le contrat de prestations. Les deux départements édictent des règles communes.
+
+#### Art. 10
+
+**Prestations relevant d'autres assurances sociales**
+
+<sup>1</sup> Les Cantons de Vaud et de Fribourg participent au financement des prestations stationnaires de leurs assurés relevant d'autres assurances sociales (LAA, LAM, LAI) selon les modalités définies dans le contrat de prestations. Les deux départements édictent des règles communes.
+
+#### Art. 11
+
+**Prestations d'intérêt général**
+
+<sup>1</sup> Le terme prestations d'intérêt général employé dans le présent règlement fait référence aux prestations d'intérêt général (PIG) prévues dans le Canton de Vaud et aux prestations d'intérêt général (PIG) et autres prestations (AP) prévues dans le Canton de Fribourg.
+
+<sup>2</sup> Les Cantons de Vaud et de Fribourg financent des prestations d'intérêt général dans la limite de leurs disponibilités budgétaires.
+
+<sup>3</sup> Les deux départements confirment annuellement les montants retenus respectivement par les deux cantons pour les prestations d'intérêt général dans le contrat de prestations tripartite conclu avec le HIB.
+
+#### Art. 12
+
+**Conventions tarifaires au sens de la LAMal**
+
+<sup>1</sup> Les conventions tarifaires signées par l'HIB sont soumises à l'approbation du canton concerné.
+
+<sup>2</sup> En cas d'absence de convention tarifaire, le Conseil d'Etat concerné fixe le tarif.
+
+#### Art. 13
+
+**Contrôle des investissements**
+
+<sup>1</sup> L'HIB soumet tous les cinq ans au Conseil d'Etat du canton de Vaud pour approbation un programme pluriannuel des investissements prévus, conformément à l'article 4h al. 3, let. a de la loi sur la planification et le financement des établissements sanitaires d'intérêt public.
+
+<sup>2</sup> L'HIB soumet tous les cinq ans au canton de Fribourg un programme pluriannuel des investissements prévus, conformément à l'article 3 al. 1, let. b de la loi concernant le financement des hôpitaux et des maisons des naissances.
+
+<sup>3</sup> Les demandes de cautionnement (garantie financière) demandées par l'HIB sont accordées par voie de décret par les Grands Conseils des deux cantons.
+
+<sup>4</sup> Les Conseils d'Etat des deux cantons s'entendent sur la répartition des garanties demandées avant de les soumettre à leurs Grand Conseils respectifs.
+
+<sup>5</sup> Les départements s'informent mutuellement des processus en cours tels que décrits ci-dessus dans leurs cantons respectifs.
+
+<sup>6</sup> L'acquisition d'équipements médico-techniques lourds est soumise aux dispositions légales en vigueur dans le canton de Vaud.
+
+#### Art. 14
+
+**Principes de comptabilisation relatifs aux investissements**
+
+<sup>1</sup> Les investissements de l'HIB sont activés au bilan.
+
+<sup>2</sup> La part de la rémunération des prestations liées aux investissements excédant les charges d'investissement est comptabilisée dans un fonds affecté aux investissements au passif du bilan.
+
+<sup>3</sup> Les principes de comptabilisation relatifs aux investissements sont réévalués périodiquement et sont définis par les deux départements.
+
+#### Art. 15
+
+**Plan comptable et principes comptables**
+
+<sup>1</sup> Les comptes financiers et analytiques de l'HIB répondent aux exigences du présent règlement, de la législation fédérale et aux recommandations de l'association faitière des hôpitaux H+, notamment Swiss GAAP RPC et REKOLE.
+
+<sup>2</sup> Les financements cantonaux doivent être comptabilisés distinctement.
+
+<sup>3</sup> Chaque département peut préciser certaines exigences cantonales dans une directive.
+
+#### Art. 16
+
+**Approbation des budgets et des comptes**
+
+<sup>1</sup> L'HIB établit annuellement un budget d'exploitation et un budget d'investissements conformément aux modalités et calendriers définis dans le contrat de prestations en vue de leur approbation par les Conseils d'Etat.
+
+<sup>2</sup> Le Conseil d'Etablissement arrête les budgets et les comptes. Il transmet les budgets, les comptes audités, le rapport de l'organe de révision et le rapport d'activité simultanément aux départements vaudois et fribourgeois.
+
+<sup>3</sup> Les deux départements transmettent à leur Conseil d'Etat les comptes et budgets de l'HIB pour ratification. Les Conseils d'Etat donnent décharge au Conseil d'Etablissement de sa gestion annuelle.
+
+#### Art. 17
+
+**Organe de révision**
+
+<sup>1</sup> L'organe de révision est ratifié par les deux Conseils d'Etat sur proposition du Conseil d'Etablissement de l'HIB.
+
+<sup>2</sup> Il effectue un examen des états financiers de l'HIB visant à vérifier leur exactitude et leur pertinence conformément aux normes en vigueur concernant le contrôle ordinaire et au présent accord.
+
+<sup>3</sup> Il établit annuellement un rapport détaillé à l'attention du Conseil d'Etablissement et de la commission interparlementaire de contrôle de l'HIB contenant notamment les constatations relatives à l'établissement des comptes, au système de contrôle interne ainsi qu'à l'exécution et au résultat du contrôle.
+
+<sup>4</sup> Il établit annuellement un rapport écrit à l'attention du Conseil d'Etablissement, des deux Conseils d'Etat, ainsi qu'à la commission interparlementaire de contrôle de l'HIB qui résume le résultat de la révision et qui exprime son opinion sur la gestion de l'HIB et sur les états financiers et leur légalité par rapport à la législation en vigueur. Il recommande l'approbation sans réserve, avec réserve ou le renvoi des comptes annuels.
+
+#### Art. 18
+
+**Système de contrôle interne**
+
+<sup>1</sup> L'HIB dispose d'un système de contrôle interne (SCI) permettant notamment de formaliser ses processus de gestion des risques, de contrôle et de gouvernement d'entreprise, ainsi que d'identifier des propositions pour renforcer leur efficacité.
+
+<sup>2</sup> L'HIB informe au moins une fois par année les départements des constatations et propositions issues du système de contrôle interne.
+
+#### Art. 19
+
+**Gestions des fonds et donations**
+
+<sup>1</sup> Tous les fonds et donations résultant de l'activité de l'HIB sont intégrés dans sa comptabilité.
+
+<sup>2</sup> L'HIB précise dans des règlements à quelles conditions et selon quelles modalités des fonds peuvent être créés et financés.
+
+## Chapitre V Sécurité des patients et qualité des soins
+
+#### Art. 20
+
+**Démarche sécurité patients, qualité des soins et gestion des réclamations**
+
+<sup>1</sup> L'HIB s'engage à tout mettre en œuvre pour disposer d'une démarche active d'amélioration continue en matière de sécurité patients et qualité des soins intégrant les patients.
+
+<sup>2</sup> Il édicte une directive interne fixant la procédure de gestion des réclamations de patients.
+
+#### Art. 21
+
+**Déclaration et gestion des incidents**
+
+<sup>1</sup> L'HIB est tenu de mettre en place un système de déclaration et de gestion des incidents.
+
+<sup>2</sup> Les annonces d'événements graves ou incidents critiques s'effectuent selon les règles et la procédure prévue par la législation du siège social de l'établissement, soit le Canton de Vaud.
+
+<sup>3</sup> Le Canton de Vaud informe sans délai le Canton de Fribourg d'un événement grave ou incident critique et des suites données.
+
+## Chapitre VI Droits des patients et devoirs des professionnels de la santé
+
+#### Art. 22
+
+**Obligation et droit applicable**
+
+<sup>1</sup> L'HIB veille à ce que les droits des patients découlant des législations fédérales et cantonales applicables soient respectés.
+
+<sup>2</sup> Les professionnels de la santé respectent les devoirs professionnels prévus par les législations fédérales et cantonales notamment celles relatives à l'établissement des constats de décès, au signalement d'un mineur en danger et à l'annonce des maladies obligatoires selon la loi fédérale sur les épidémies.
+
+## Chapitre VII Surveillance de l'établissement
+
+#### Art. 23
+
+**Surveillance administrative et disciplinaire**
+
+<sup>1</sup> La surveillance administrative et disciplinaire relève de l'autorité compétente au siège social de l'établissement, soit le Canton de Vaud, conformément à sa législation.
+
+<sup>2</sup> L'autorité compétente vaudoise informe le Service en charge de la santé publique fribourgeois sans délai de toute procédure administrative ou disciplinaire engagée à l'encontre des professionnels de la santé travaillant à l'HIB
+
+<sup>3</sup> La surveillance découlant d'autres autorisations (art. 6) relève de l'autorité du canton qui a délivré l'autorisation, conformément à sa législation
+
+#### Art. 24
+
+**Surveillance découlant de la planification**
+
+<sup>1</sup> L'HIB fait l'objet de contrôles par les deux départements portant sur le respect de la planification, des mandats et contrats de prestations, de l'économicité des prestations, du budget, des comptes et de l'affectation du financement LAMal et des subventions cantonales.
+
+<sup>2</sup> Les cantons s'informent mutuellement, dans les meilleurs délais, des actes de surveillance effectués conformément à l'alinéa précédent.
+
+<sup>3</sup> Les décisions prises au titre de la surveillance découlant de la planification relèvent de la compétence conjointe des deux départements, voire des deux Conseils d'Etat, en fonction de leurs attributions respectives.
+
+## Chapitre VIII Dispositions finales
+
+#### Art. 25
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent règlement entre en vigueur dès son adoption par les deux Conseils d'Etat.
