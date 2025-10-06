@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les cartels (réforme des autorités en matière de concurrence)
 document: Projet mis en consultation
 language: fr

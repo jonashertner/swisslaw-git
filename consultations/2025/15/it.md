@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sui cartelli (Riforma delle autorità in materia di concorrenza)
 document: Progetto posto in consultazione
 language: it

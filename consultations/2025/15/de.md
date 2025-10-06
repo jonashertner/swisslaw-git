@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Kartellgesetzes (Reform Wettbewerbsbehörden)
 document: Vernehmlassungsvorlage
 language: de
