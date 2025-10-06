@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza contro l’inquinamento fonico
 document: Progetto posto in consultazione
 language: it

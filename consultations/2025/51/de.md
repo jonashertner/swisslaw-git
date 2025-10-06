@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Lärmschutzverordnung (LSV)
 document: Vernehmlassungsvorlage
 language: de
