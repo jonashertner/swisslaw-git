@@ -3,11 +3,11 @@ sr: "0.814.290"
 title: "Convention internationale de 1990 du 30 novembre 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016"
 language: fr
-version: 2023-03-28
+version: 2025-10-08
 adopted: 1990-11-30
 in_force: 1996-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20230328/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20230328-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20230328/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20251008/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20251008-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20251008/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 4 juillet 1996
 
 Entrée en vigueur pour la Suisse le 4 octobre 1996
 
-(État le 28 mars 2023)
+(État le 8 octobre 2025)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 11 déc. 1995 ([RO 1998 1015](https://fedlex.data.admin.ch/eli/oc/1998/1015_1015_1015)).
 
@@ -58,11 +58,11 @@ considérant que la meilleure façon d’atteindre ces objectifs est de conclure
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^ingress-2]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
+[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^ingress-2]: [RS 0.747.363.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3099)
 [^ingress-3]: RO **1988** 1656
-[^ingress-4]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
-[^ingress-5]: [RS 0.814.291](https://fedlex.data.admin.ch/eli/cc/1988/1444_1444_1444)
+[^ingress-4]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
+[^ingress-5]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526)
 [^ingress-6]: [[RO 1998 1046](https://fedlex.data.admin.ch/eli/oc/1998/1046_1046_1046). [RO 1999 740](https://fedlex.data.admin.ch/eli/oc/1999/109)]
 
 #### Art. 1
@@ -362,7 +362,7 @@ Les Parties évaluent au sein de l’Organisation l’efficacité de la Conventi
 
 - b) transmet des copies certifiées conformes de la présente Convention aux gouvernements de tous les États qui l’ont signée ou qui y ont adhéré.
 
-[^18-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^18-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 19
 
@@ -388,7 +388,7 @@ Annexe
 
 \4) Les dispositions de la présente Convention ne doivent pas être interprétées comme portant atteinte de quelque manière que ce soit aux droits des Parties de recouvrer auprès de tiers le coût des mesures prises pour faire face à une pollution ou à une menace de pollution en vertu d’autres dispositions et règles applicables du droit national et international. Une attention particulière doit être accordée à la Convention internationale de 1969 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures et à la Convention internationale de 1971 portant création d’un Fonds international d’indemnisation pour les dommages dus à la pollution par les hydrocarbures ou à tout amendement apporté ultérieurement à ces conventions.
 
-Champ d’application le 28 mars 2023[^t-2]
+Champ d’application le 8 octobre 2025[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -399,7 +399,7 @@ Champ d’application le 28 mars 2023[^t-2]
 <tr><td>Angola</td><td>4 octobre</td><td>2001 A</td><td>4 janvier</td><td>2002</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>5 janvier</td><td>1999 A</td><td>5 avril</td><td>1999</td></tr>
 <tr><td>Arabie Saoudite</td><td>30 juillet</td><td>2009 A</td><td>30 octobre</td><td>2009</td></tr>
-<tr><td>Argentine</td><td>13 juillet</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
+<tr><td>Argentine\*</td><td>13 juillet</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Australie</td><td>6 juillet</td><td>1992 A</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Azerbaïdjan</td><td>16 juillet</td><td>2004 A</td><td>16 octobre</td><td>2004</td></tr>
 <tr><td>Bahamas</td><td>4 octobre</td><td>2001 A</td><td>4 janvier</td><td>2002</td></tr>
@@ -415,8 +415,8 @@ Champ d’application le 28 mars 2023[^t-2]
 <tr><td>Cap-Vert</td><td>4 juillet</td><td>2003 A</td><td>4 octobre</td><td>2003</td></tr>
 <tr><td>Chili</td><td>15 octobre</td><td>1997 A</td><td>15 janvier</td><td>1998</td></tr>
 <tr><td>Chine\*</td><td>30 mars</td><td>1998 A</td><td>30 juin</td><td>1998</td></tr>
-<tr><td>[tab] Hong Kong</td><td>1<sup>er</sup> mai</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
-<tr><td>[tab] Macao</td><td>1<sup>er</sup> mai</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
+<tr><td>Hong Kong</td><td>1<sup>er</sup> mai</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
+<tr><td>Macao</td><td>1<sup>er</sup> mai</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
 <tr><td>Colombie</td><td>11 juin</td><td>2008 A</td><td>11 septembre</td><td>2008</td></tr>
 <tr><td>Comores</td><td>5 janvier</td><td>2000 A</td><td>5 avril</td><td>2000</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>7 décembre</td><td>2004 A</td><td>7 décembre</td><td>2004</td></tr>
@@ -425,11 +425,12 @@ Champ d’application le 28 mars 2023[^t-2]
 <tr><td>Croatie</td><td>12 janvier</td><td>1998 A</td><td>12 avril</td><td>1998</td></tr>
 <tr><td>Cuba</td><td>10 avril</td><td>2008 A</td><td>10 juillet</td><td>2008</td></tr>
 <tr><td>Danemark</td><td>22 octobre</td><td>1996</td><td>22 janvier</td><td>1997</td></tr>
-<tr><td>[tab] Îles Féroé</td><td>18 février</td><td>2003</td><td>18 février</td><td>2003</td></tr>
+<tr><td>Îles Féroé</td><td>18 février</td><td>2003</td><td>18 février</td><td>2003</td></tr>
 <tr><td>Djibouti</td><td>19 janvier</td><td>1998 A</td><td>19 avril</td><td>1998</td></tr>
 <tr><td>Dominique</td><td>31 août</td><td>2001 A</td><td>30 novembre</td><td>2001</td></tr>
 <tr><td>Égypte</td><td>29 juin</td><td>1992</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>El Salvador</td><td>9 octobre</td><td>1995 A</td><td>9 janvier</td><td>1996</td></tr>
+<tr><td>Émirats arabes unis</td><td>24 septembre</td><td>2025 A</td><td>24 décembre</td><td>2025</td></tr>
 <tr><td>Équateur</td><td>29 janvier</td><td>2002</td><td>29 avril</td><td>2002</td></tr>
 <tr><td>Espagne</td><td>12 janvier</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Estonie</td><td>16 mai</td><td>2008 A</td><td>16 août</td><td>2008</td></tr>
@@ -444,6 +445,8 @@ Champ d’application le 28 mars 2023[^t-2]
 <tr><td>Guinée</td><td>2 octobre</td><td>2002</td><td>2 janvier</td><td>2003</td></tr>
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 mars</td><td>1998</td></tr>
 <tr><td>Honduras</td><td>16 novembre</td><td>2016 A</td><td>16 février</td><td>2017</td></tr>
+<tr><td>Îles Marshall</td><td>16 octobre</td><td>1995 A</td><td>16 janvier</td><td>1996</td></tr>
+<tr><td>Îles Salomon</td><td>30 septembre</td><td>2024 A</td><td>30 décembre</td><td>2024</td></tr>
 <tr><td>Inde</td><td>17 novembre</td><td>1997 A</td><td>17 février</td><td>1998</td></tr>
 <tr><td>Indonésie</td><td>13 décembre</td><td>2022 A</td><td>13 mars</td><td>2023</td></tr>
 <tr><td>Iran</td><td>25 février</td><td>1998 A</td><td>25 mai</td><td>1998</td></tr>
@@ -465,7 +468,6 @@ Champ d’application le 28 mars 2023[^t-2]
 <tr><td>Malaisie</td><td>30 juillet</td><td>1997 A</td><td>30 octobre</td><td>1997</td></tr>
 <tr><td>Malte</td><td>21 janvier</td><td>2003</td><td>21 avril</td><td>2003</td></tr>
 <tr><td>Maroc</td><td>29 avril</td><td>2003</td><td>29 juillet</td><td>2003</td></tr>
-<tr><td>Marshall, Îles</td><td>16 octobre</td><td>1995 A</td><td>16 janvier</td><td>1996</td></tr>
 <tr><td>Maurice</td><td>2 décembre</td><td>1999 A</td><td>2 mars</td><td>2000</td></tr>
 <tr><td>Mauritanie</td><td>22 novembre</td><td>1999 A</td><td>22 février</td><td>2000</td></tr>
 <tr><td>Mexique</td><td>13 mai</td><td>1994 A</td><td>13 mai</td><td>1995</td></tr>
@@ -492,7 +494,9 @@ Champ d’application le 28 mars 2023[^t-2]
 <tr><td>Qatar</td><td>8 mai</td><td>2007 A</td><td>8 août</td><td>2007</td></tr>
 <tr><td>Roumanie</td><td>17 novembre</td><td>2000 A</td><td>17 février</td><td>2001</td></tr>
 <tr><td>Royaume-Uni</td><td>16 septembre</td><td>1997 A</td><td>16 décembre</td><td>1997</td></tr>
-<tr><td>[tab] Île de Man</td><td>16 mai</td><td>2003</td><td>16 mai</td><td>2003</td></tr>
+<tr><td>Bermudes</td><td>2 août</td><td>2023</td><td>2 août</td><td>2023</td></tr>
+<tr><td>Île de Man</td><td>16 mai</td><td>2003</td><td>16 mai</td><td>2003</td></tr>
+<tr><td>Îles Falkland</td><td>2 novembre</td><td>2023</td><td>2 novembre</td><td>2023</td></tr>
 <tr><td>Russie</td><td>18 septembre</td><td>2009 A</td><td>18 décembre</td><td>2009</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 octobre</td><td>2004 A</td><td>7 janvier</td><td>2005</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>20 août</td><td>2004</td></tr>
@@ -517,7 +521,7 @@ Champ d’application le 28 mars 2023[^t-2]
 <tr><td>Vanuatu</td><td>18 février</td><td>1999 A</td><td>18 mai</td><td>1999</td></tr>
 <tr><td>Venezuela</td><td>12 décembre</td><td>1994</td><td>13 mai</td><td>1995</td></tr>
 <tr><td>Yémen</td><td>10 mai</td><td>2013 A</td><td>10 août</td><td>2013</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; Statut des conventions &gt; Status Book ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1998 1016](https://fedlex.data.admin.ch/eli/oc/1998/1016_1016_1016); [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355); [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268); [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9), [4135](https://fedlex.data.admin.ch/eli/oc/2008/584); [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226); [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551); [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204); [2023 172](https://fedlex.data.admin.ch/eli/oc/2023/172). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 1998 1016](https://fedlex.data.admin.ch/eli/oc/1998/1016_1016_1016); [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355); [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268); [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9), [4135](https://fedlex.data.admin.ch/eli/oc/2008/584); [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226); [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551); [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204); [2023 172](https://fedlex.data.admin.ch/eli/oc/2023/172); [2025 612](https://fedlex.data.admin.ch/eli/oc/2025/612). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

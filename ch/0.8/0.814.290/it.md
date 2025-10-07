@@ -3,11 +3,11 @@ sr: "0.814.290"
 title: "Convenzione internazionale del 1990 del 30 novembre 1990 sulla preparazione, la lotta e la cooperazione in materia di inquinamento da idrocarburi (con annesso)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016"
 language: it
-version: 2023-03-28
+version: 2025-10-08
 adopted: 1990-11-30
 in_force: 1996-10-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20230328/it/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20230328-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20230328/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1016_1016_1016/20251008/it/xml/fedlex-data-admin-ch-eli-cc-1998-1016_1016_1016-20251008-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1016_1016_1016/20251008/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ Traduzione
 
 Conclusa a Londra il 30 novembre 1990 Approvata dall’Assemblea federale l’11 dicembre 1995[^t-1] Ratificata dalla Svizzera con strumento depositato il 4 luglio 1996 Entrato in vigore per la Svizzera il 4 ottobre 1996
 
-(Stato 28 marzo 2023)
+(Stato 8 ottobre 2025)
 
 [^t-1]: RU **1998** 1016; FF **1995** IV 229 Art. 1 cpv. 1 lett. a del DF dell’11 dic. 1995 (RU **1998** 1015).
 
@@ -50,11 +50,11 @@ considerando che il modo migliore di conseguire tali obiettivi consiste nella co
 
 hanno stabilito quanto segue:
 
-[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^ingress-2]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
+[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^ingress-2]: [RS 0.747.363.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3099)
 [^ingress-3]: [RU 1988 1652](https://fedlex.data.admin.ch/eli/oc/1988/1652_1652_1652)
-[^ingress-4]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
-[^ingress-5]: [RS 0.814.291](https://fedlex.data.admin.ch/eli/cc/1988/1444_1444_1444)
+[^ingress-4]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
+[^ingress-5]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526)
 [^ingress-6]: [[RU 1998 1046](https://fedlex.data.admin.ch/eli/oc/1998/1046_1046_1046). [RU 1999 740](https://fedlex.data.admin.ch/eli/oc/1999/109)]
 
 #### Art. 1
@@ -373,7 +373,7 @@ Il Segretario generale:
 
 <sup>(3)</sup> All’atto dell’entrata in vigore della presente Convenzione, una copia conforme di essa sarà fatta pervenire dal Depositario al Segretario generale delle Nazioni Unite per essere registrata e pubblicata in conformità con l’articolo 102 dello Statuto delle Nazioni Unite[^18-1].
 
-[^18-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^18-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 19
 
@@ -399,16 +399,17 @@ Annesso
 
 (4) Le disposizioni della presente Convenzione non saranno interpretate nel senso di pregiudicare in alcun modo i diritti delle Parti di ricuperare da terzi il costo dei provvedimenti adottati per far fronte all’inquinamento o alle minacce di inquinamento in base ad altre disposizioni e regole applicabili del diritto nazionale ed internazionale. Si terranno particolarmente in considerazione la Convenzione internazionale del 1969 sulla responsabilità civile per i danni derivanti da inquinamento da idrocarburi e la Convenzione internazionale del 1971 sull’istituzione di un fondo internazionale per l’indennizzo dei danni derivanti da inquinamento da idrocarburi o ogni successivo emendamento a tali Convenzioni.
 
-Campo d’applicazione il 28 marzo 2023[^t-2]
+Campo d’applicazione l’8 ottobre 2025[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Africa del sud</td><td>4 luglio</td><td>2008 A</td><td>4 ottobre</td><td>2008</td></tr>
 <tr><td>Albania</td><td>2 gennaio</td><td>2008 A</td><td>2 aprile</td><td>2008</td></tr>
 <tr><td>Algeria</td><td>8 marzo</td><td>2005 A</td><td>8 giugno</td><td>2005</td></tr>
 <tr><td>Angola</td><td>4 ottobre</td><td>2001 A</td><td>4 gennaio</td><td>2002</td></tr>
 <tr><td>Antigua e Barbuda</td><td>5 gennaio</td><td>1999 A</td><td>5 aprile</td><td>1999</td></tr>
 <tr><td>Arabia Saudita</td><td>30 luglio</td><td>2009 A</td><td>30 ottobre</td><td>2009</td></tr>
-<tr><td>Argentina</td><td>13 luglio</td><td>1994</td><td>13 maggio</td><td>1995</td></tr>
+<tr><td>Argentina\*[^t-3]</td><td>13 luglio</td><td>1994</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Australia</td><td>6 luglio</td><td>1992 A</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Azerbaigian</td><td>16 luglio</td><td>2004 A</td><td>16 ottobre</td><td>2004</td></tr>
 <tr><td>Bahamas</td><td>4 ottobre</td><td>2001 A</td><td>4 gennaio</td><td>2002</td></tr>
@@ -438,6 +439,7 @@ Campo d’applicazione il 28 marzo 2023[^t-2]
 <tr><td>Dominica</td><td>31 agosto</td><td>2001 A</td><td>30 novembre</td><td>2001</td></tr>
 <tr><td>Ecuador</td><td>29 gennaio</td><td>2002</td><td>29 aprile</td><td>2002</td></tr>
 <tr><td>Egitto</td><td>29 giugno</td><td>1992</td><td>13 maggio</td><td>1995</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>24 settembre</td><td>2025 A</td><td>24 dicembre</td><td>2025</td></tr>
 <tr><td>El Salvador</td><td>9 ottobre</td><td>1995 A</td><td>9 gennaio</td><td>1996</td></tr>
 <tr><td>Estonia</td><td>16 maggio</td><td>2008</td><td>16 agosto</td><td>2008</td></tr>
 <tr><td>Filippine</td><td>6 febbraio</td><td>2014 A</td><td>6 maggio</td><td>2014</td></tr>
@@ -462,6 +464,7 @@ Campo d’applicazione il 28 marzo 2023[^t-2]
 <tr><td>Iraq</td><td>19 luglio</td><td>2021 A</td><td>19 ottobre</td><td>2021</td></tr>
 <tr><td>Irlanda</td><td>26 aprile</td><td>2001 A</td><td>26 luglio</td><td>2001</td></tr>
 <tr><td>Islanda</td><td>21 giugno</td><td>1993</td><td>13 maggio</td><td>1995</td></tr>
+<tr><td>Isole Salomone</td><td>30 settembre</td><td>2024 A</td><td>30 dicembre</td><td>2024</td></tr>
 <tr><td>Israele</td><td>24 marzo</td><td>1999</td><td>24 giugno</td><td>1999</td></tr>
 <tr><td>Italia</td><td>2 marzo</td><td>1999</td><td>2 giugno</td><td>1999</td></tr>
 <tr><td>Kenya</td><td>21 luglio</td><td>1999 A</td><td>21 ottobre</td><td>1999</td></tr>
@@ -498,8 +501,9 @@ Campo d’applicazione il 28 marzo 2023[^t-2]
 <tr><td>Polonia</td><td>12 giugno</td><td>2003</td><td>12 settembre</td><td>2003</td></tr>
 <tr><td>Portogallo</td><td>27 febbraio</td><td>2006 A</td><td>27 maggio</td><td>2006</td></tr>
 <tr><td>Qatar</td><td>8 maggio</td><td>2007 A</td><td>8 agosto</td><td>2007</td></tr>
-<tr><td>Regno Unito</td><td>16 settembre</td><td>1997 A</td><td>16 dicembre</td><td>1997</td></tr>
-<tr><td>Isola di Man</td><td>16 maggio</td><td>2003</td><td>16 maggio</td><td>2003</td></tr>
+<tr><td>Regno Unito</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bermuda</td><td>2 agosto</td><td>2023</td><td>2 agosto</td><td>2023</td></tr>
+<tr><td>Isole Falkland</td><td>2 novembre</td><td>2023</td><td>2 novembre</td><td>2023</td></tr>
 <tr><td>Romania</td><td>17 novembre</td><td>2000 A</td><td>17 febbraio</td><td>2001</td></tr>
 <tr><td>Russia</td><td>18 settembre</td><td>2009 A</td><td>18 dicembre</td><td>2009</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>7 ottobre</td><td>2004 A</td><td>7 gennaio</td><td>2005</td></tr>
@@ -528,7 +532,8 @@ Campo d’applicazione il 28 marzo 2023[^t-2]
 <tr><td>Vanuatu</td><td>18 febbraio</td><td>1999 A</td><td>18 maggio</td><td>1999</td></tr>
 <tr><td>Venezuela</td><td>12 dicembre</td><td>1994</td><td>13 maggio</td><td>1995</td></tr>
 <tr><td>Yemen</td><td>10 maggio</td><td>2013 A</td><td>10 agosto</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; Statut des conventions &gt; Status Book oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1998 1016](https://fedlex.data.admin.ch/eli/oc/1998/1016_1016_1016); [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355); [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268); [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9), [4135](https://fedlex.data.admin.ch/eli/oc/2008/584); [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226); [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551); [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204); [2023 172](https://fedlex.data.admin.ch/eli/oc/2023/172). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 1998 1016](https://fedlex.data.admin.ch/eli/oc/1998/1016_1016_1016); [2003 2448](https://fedlex.data.admin.ch/eli/oc/2003/355); [2005 1671](https://fedlex.data.admin.ch/eli/oc/2005/268); [2008 23](https://fedlex.data.admin.ch/eli/oc/2008/9), [4135](https://fedlex.data.admin.ch/eli/oc/2008/584); [2012 1575](https://fedlex.data.admin.ch/eli/oc/2012/226); [2015 2935](https://fedlex.data.admin.ch/eli/oc/2015/551); [2019 1079](https://fedlex.data.admin.ch/eli/oc/2019/204); [2023 172](https://fedlex.data.admin.ch/eli/oc/2023/172); [2025 612](https://fedlex.data.admin.ch/eli/oc/2025/612). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-3]: Questo Stato ha formulato una riserva.
