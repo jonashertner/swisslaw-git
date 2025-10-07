@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Verordnung vom 1. Juni 2012 über Massnahmen gegenüber Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: de
-version: 2025-09-15
+version: 2025-10-08
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20250915-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20250915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20251008/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20251008-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20251008/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea-Bissau
 
-vom 1. Juni 2012 (Stand am 15. September 2025)
+vom 1. Juni 2012 (Stand am 8. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -195,8 +195,8 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I 11 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Bereinigt gemäss Ziff. I der V des WBF vom 23. Jan. 2023 ([AS 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) und vom 7. Okt. 2024, in Kraft seit 8. Okt. 2024 um 18 Uhr ([AS 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)).
-[^annex1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/539](https://fedlex.data.admin.ch/eli/oc/2024/539) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I 11 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Bereinigt gemäss Ziff. I der V des WBF vom 23. Jan. 2023 ([AS 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)), vom 7. Okt. 2024 ([AS 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)) und vom 6. Okt. 2025, in Kraft seit 8. Okt. 2025 um 23 Uhr (AS **202****5** 604).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/604](https://fedlex.data.admin.ch/eli/oc/2025/604) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 **Anmerkung**
 

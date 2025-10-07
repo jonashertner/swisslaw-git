@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Ordinanza del 1° giugno 2012 che istituisce provvedimenti nei confronti della Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: it
-version: 2025-09-15
+version: 2025-10-08
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20250915-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20250915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20251008/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20251008-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20251008/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea-Bissau
 
-del 1° giugno 2012 (Stato 15 settembre 2025)
+del 1° giugno 2012 (Stato 8 ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -195,8 +195,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra I n. 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Aggiornato dalle cifre I delle O del DEFR del 23 gen. 2023 ([RU 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) e dell’8 ott. 2024, in vigore dall’8 ott. 2024 alle ore 18.00 ([RU 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)).
-[^annex1-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/539](https://fedlex.data.admin.ch/eli/oc/2024/539) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I n. 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Aggiornato dalle cifre I delle O del DEFR del 23 gen. 2023 ([RU 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) e dell’8 ott. 2024 ([RU 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)) e del 6 ott. 2025, in vigore dall’8 ott. 2025 alle ore 23.00 ([RU 2025 604](https://fedlex.data.admin.ch/eli/oc/2025/604)).
+[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/604](https://fedlex.data.admin.ch/eli/oc/2025/604) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 **Nota bene**
 
