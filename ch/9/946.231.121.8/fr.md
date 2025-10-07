@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: "Ordonnance du 4 décembre 2015 instituant des mesures à l'encontre du Burundi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: fr
-version: 2025-09-15
+version: 2025-10-08
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2015-849-20250915-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20250915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20251008/fr/xml/fedlex-data-admin-ch-eli-cc-2015-849-20251008-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20251008/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Burundi
 
-du 4 décembre 2015 (État le 15 septembre 2025)
+du 4 décembre 2015 (État le 8 octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -178,5 +178,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 7 nov. 2018 ([RO 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), du 7 nov. 2019 ([RO 2019 3441](https://fedlex.data.admin.ch/eli/oc/2019/627)), du 11 nov. 2020 ([RO 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) et du 3 nov. 2022, en vigueur depuis le 4 nov. 2022 à 18 heures ([RO 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
-[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/202 2/644](https://fedlex.data.admin.ch/eli/oc/2022/644) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 7 nov. 2018 ([RO 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), du 7 nov. 2019 ([RO 2019 3441](https://fedlex.data.admin.ch/eli/oc/2019/627)), du 11 nov. 2020 ([RO 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)), du 3 nov. 2022 ([RO 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)) et du 6 oct. 2025, en vigueur depuis le 8 oct. 2025 à 23 heures ([RO 2025 603](https://fedlex.data.admin.ch/eli/oc/2025/603)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/603](https://fedlex.data.admin.ch/eli/oc/2025/603) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

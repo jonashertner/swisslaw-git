@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: Verordnung vom 4. Dezember 2015 über Massnahmen gegenüber Burundi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: de
-version: 2025-09-15
+version: 2025-10-08
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2015-849-20250915-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20250915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20251008/de/xml/fedlex-data-admin-ch-eli-cc-2015-849-20251008-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20251008/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Burundi
 
-vom 4. Dezember 2015 (Stand am 15. September 2025)
+vom 4. Dezember 2015 (Stand am 8. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -178,5 +178,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 7. Nov. 2018 ([AS 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), vom 7. Nov. 2019 ([AS 2019 3441](https://fedlex.data.admin.ch/eli/oc/2019/627)), vom 11. Nov. 2020 ([AS 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) und vom 3. Nov. 2022, in Kraft seit 4. Nov. 2022 um 18.00 Uhr ([AS 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/644](https://fedlex.data.admin.ch/eli/oc/2022/644) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 7. Nov. 2018 ([AS 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), vom 7. Nov. 2019 ([AS 2019 3441](https://fedlex.data.admin.ch/eli/oc/2019/627)), vom 11. Nov. 2020 ([AS 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)), vom 3. Nov. 2022 ([AS 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)) und vom 6. Okt. 2025, in Kraft seit 8. Okt. 2025 um 23.00 Uhr (AS **202****5** 603).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/603](https://fedlex.data.admin.ch/eli/oc/2025/603) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
