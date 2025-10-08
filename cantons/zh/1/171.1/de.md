@@ -5,10 +5,10 @@ title: Kantonsratsgesetz (KRG)
 short: KRG
 language: de
 version: "2024-05-01"
-nachtrag: "125"
-valid_until: 2025-10-08
+nachtrag: "126"
+valid_until: 2026-07-01
 adopted: 2019-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_1-2019_03_25-2020_05_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_1-2019_03_25-2020_05_01-126.html"
 text: pdf
 ---
 
@@ -126,11 +126,11 @@ Die Mitglieder des Kantonsrates und des Regierungsrates äussern sich an den Sit
 
 **d. berufliche Vorsorge**
 
-§ 10 a.[^10-2] <sup>1</sup> Der Kanton versichert die Kantonsratsmitglieder bis zum vollendeten 65. Altersjahr gegen die wirtschaftlichen Folgen von Alter, Tod und Invalidität bei der BVK Personalvorsorge des Kantons Zürich (BVK). Die Versicherung ist freiwillig für Kantonsratsmitglieder, die einen selbstständigen Haupterwerb ausüben.
+§ 10 a.[^10-2] <sup>1</sup> Der Kanton versichert die Kantonsratsmitglieder bis zum vollendeten 65.Altersjahr gegen die wirtschaftlichen Folgen von Alter, Tod und Invalidität bei der BVK Personalvorsorge des Kantons Zürich (BVK). Die Versicherung ist freiwillig für Kantonsratsmitglieder, die einen selbstständigen Haupterwerb ausüben.
 
 <sup>2</sup> Der Kanton finanziert drei Fünftel der Spar- und Risikobeiträge und fünf Siebtel allfälliger Sanierungsbeiträge.
 
-<sup>3</sup> Ein Ausscheiden aus dem Kantonsrat vor der Vollendung des 65. Altersjahres hat keine besonderen Leistungen zur Folge.
+<sup>3</sup> Ein Ausscheiden aus dem Kantonsrat vor der Vollendung des 65.Altersjahres hat keine besonderen Leistungen zur Folge.
 
 <sup>4</sup> Die Leistungen gemäss Abs. 2 beziehen sich auf den AHV-pflichtigen Jahreslohn unter Einbezug der Sitzungsgelder, sofern dieser Lohn mehr als die Hälfte der maximalen jährlichen AHV-Altersrente gemäss Bundesgesetzgebung über die Alters- und Hinterlassenenversicherung[^10-3] beträgt. Die Leistungen beziehen sich auch auf den Koordinationsabzug, der den pauschal bestimmten Zeitaufwand für das parlamentarische Mandat berücksichtigt.
 
@@ -1438,7 +1438,7 @@ Folgende Wahlen werden im geheimen Verfahren durchgeführt:
 
 - d. Mitglieder des Bankpräsidiums der Kantonalbank,
 
-- e. Beauftragte oder Beauftragter für den Datenschutz, Leiterin oder Leiter der Finanzkontrolle, Ombudsperon.
+- e. Beauftragte oder Beauftragter für den Datenschutz, Leiterin oder Leiter der Finanzkontrolle, Ombudsperson.
 
 #### § 126
 
@@ -1654,7 +1654,7 @@ Der Kantonsrat erlässt die ausführenden Bestimmungen zu diesem Gesetz.
 
 <sup>2</sup> Vor dem Inkrafttreten einer gesetzlichen Regelung ist eine Erhöhung der Entschädigungen nicht zulässig.
 
-[^142-1]: Eingefügt durch G vom 17. April 2023 (OS 79, 80; ABl 2023-02-03.). In Kraft seit 1. Mai 2024.
+[^142-1]: Eingefügt durch G vom 17.April 2023 (OS 79, 80; ABl 2023-02-03.). In Kraft seit 1. Mai 2024.
 [^142-2]: OS 74, 387.
 
 #### § 143
