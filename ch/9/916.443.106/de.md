@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausf
 short: EDAV-DS-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: de
-version: 2025-08-26
+version: 2025-10-09
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20250826/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20250826-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20250826/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20251009/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20251009-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20251009/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20250826/de"
 
 (EDAV-DS-EDI)
 
-vom 18. November 2015 (Stand am 26. August 2025)
+vom 18. November 2015 (Stand am 9. Oktober 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -158,7 +158,7 @@ Anhang 1[^t-1]
 
 ## Massgebende Erlasse der EU über die harmonisierten Ein- und Durchfuhrbedingungen
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 31. Mai 2024 ([AS 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Bereinigt gemäss Ziff. I der V des BLV vom 5. Aug. 2024 ([AS 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)), vom 13. Nov. 2024 ([AS 2024 644](https://fedlex.data.admin.ch/eli/oc/2024/644)), vom 23. Mai 2025 ([AS 2025 338](https://fedlex.data.admin.ch/eli/oc/2025/338)) und vom 21. Aug. 2025, in Kraft seit 26. Aug. 2025 ([AS 2025 526](https://fedlex.data.admin.ch/eli/oc/2025/526)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 31. Mai 2024 ([AS 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Bereinigt gemäss Ziff. I der V des BLV vom 5. Aug. 2024 ([AS 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)), vom 13. Nov. 2024 ([AS 2024 644](https://fedlex.data.admin.ch/eli/oc/2024/644)), vom 23. Mai 2025 ([AS 2025 338](https://fedlex.data.admin.ch/eli/oc/2025/338)), vom 21. Aug. 2025 ([AS 2025 526](https://fedlex.data.admin.ch/eli/oc/2025/526)) und vom 7. Okt. 2025, in Kraft seit 9. Okt. 2025 ([AS 2025 608](https://fedlex.data.admin.ch/eli/oc/2025/608)).
 
 <table>
 <tr><th>EU-Grunderlass</th><th colspan="2">Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
@@ -195,8 +195,8 @@ Anhang 1[^t-1]
 <tr><td>31. Durchführungsverordnung (EU) 2020/2235</td><td colspan="2">Durchführungsverordnung (EU) 2020/2235 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Tieren und Waren und für deren Verbringungen innerhalb der Union, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung der Verordnung (EG) Nr. 599/2004, der Durchführungsverordnungen (EU) Nr. 636/2014 und (EU) 2019/628, der Richtlinie 98/68/EG und der Entscheidungen 2000/572/EG, 2003/779/EG und 2007/240/EG, ABl. L 442 vom 30.12.2020, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2025/636, ABl. L, 2025/636, 30.4.2025.</td></tr>
 <tr><td>32. Durchführungsverordnung (EU) 2020/2236</td><td colspan="2">Durchführungsverordnung (EU) 2020/2236 der Kommission vom 16. Dezember 2020 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen für den Eingang in die Union von Sendungen von Wassertieren und von bestimmten Erzeugnissen tierischen Ursprungs aus Wassertieren und für deren Verbringungen innerhalb der Union sowie hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen und zur Aufhebung der Verordnung (EG) Nr. 1251/2008, ABl. L 442 vom 30.12.2020, S. 410; zuletzt geändert durch Durchführungsverordnung (EU) 2023/516, ABl. L 71 vom 9.3.2023, S. 27.</td></tr>
 <tr><td>33. Durchführungsverordnung (EU) 2021/403</td><td colspan="2">Durchführungsverordnung (EU) 2021/403 der Kommission vom 24. März 2021 mit Durchführungsbestimmungen zu den Verordnungen (EU) 2016/429 und (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich der Muster für Veterinärbescheinigungen, der Muster für amtliche Bescheinigungen und der Muster für Veterinär-/amtliche Bescheinigungen für den Eingang in die Union von Sendungen bestimmter Kategorien von Landtieren und ihres Zuchtmaterials und für deren Verbringungen zwischen Mitgliedstaaten, hinsichtlich der amtlichen Bescheinigungstätigkeit im Zusammenhang mit derartigen Bescheinigungen sowie zur Aufhebung des Beschlusses 2010/470/EU, ABl. L 113 vom 31.3.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2025/544, ABl. L, 2025/544, 22.4.2025.</td></tr>
-<tr><td>34. Durchführungsverordnung (EU) 2021/404</td><td colspan="2">Durchführungsverordnung (EU) 2021/404 der Kommission vom 24. März 2021 zur Festlegung der Listen von Drittländern, Gebieten und Zonen derselben, aus denen der Eingang in die Union von Tieren, Zuchtmaterial und Erzeugnissen tierischen Ursprungs gemäss der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates zulässig ist, ABl. L 114 vom 31.3.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2025/1510, ABl. L, 2025/1510, 18.7.2025.</td></tr>
-<tr><td>35. Durchführungsverordnung (EU) 2021/405</td><td colspan="2">Durchführungsverordnung (EU) 2021/405 der Kommission vom 24. März 2021 zur Festlegung der Listen der Drittländer oder Drittlandsgebiete, aus denen gemäss der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates der Eingang bestimmter für den menschlichen Verzehr bestimmter Tiere und Waren in die Union zulässig ist, ABl. L 114 vom 31.3.2021, S. 118; zuletzt geändert durch Durchführungsverordnung (EU) 2024/334, ABl. L, 2024/334, 22.1.2024.</td></tr>
+<tr><td>34. Durchführungsverordnung (EU) 2021/404</td><td colspan="2">Durchführungsverordnung (EU) 2021/404 der Kommission vom 24. März 2021 zur Festlegung der Listen von Drittländern, Gebieten und Zonen derselben, aus denen der Eingang in die Union von Tieren, Zuchtmaterial und Erzeugnissen tierischen Ursprungs gemäss der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates zulässig ist, ABl. L 114 vom 31.3.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2025/1934, ABl. L, 2025/1934, 22.9.2025.</td></tr>
+<tr><td>35. Durchführungsverordnung (EU) 2021/405</td><td colspan="2">Durchführungsverordnung (EU) 2021/405 der Kommission vom 24. März 2021 zur Festlegung der Listen der Drittländer oder Drittlandsgebiete, aus denen gemäss der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates der Eingang bestimmter für den menschlichen Verzehr bestimmter Tiere und Waren in die Union zulässig ist, ABl. L 114 vom 31.3.2021, S. 118; zuletzt geändert durch Durchführungsverordnung (EU) 2025/354, ABl. L, 2025/354, 24.2.2025.</td></tr>
 <tr><td>36. Durchführungsverordnung (EU) 2021/1938</td><td colspan="2">Durchführungsverordnung (EU) 2021/1938 der Kommission vom 9. November 2021 zur Festlegung des Musterausweises für die Verbringung von Heimvögeln zu anderen als Handelszwecken aus einem Gebiet oder Drittland in einen Mitgliedstaat und zur Aufhebung der Entscheidung 2007/25/EG, Fassung gemäss ABl. L 396 vom 10.11.2021, S. 47.</td></tr>
 <tr><td>37. Durchführungsverordnung (EU) 2022/478</td><td colspan="2">Durchführungsverordnung (EU) 2022/478 der Kommission vom 24. März 2022 über die Beibehaltung von Schutzmassnahmen in Bezug auf die Einfuhr von zum menschlichen Verzehr bestimmten Muscheln aus der Türkei, ABl. L 98 vom 25.3.2022, S. 54; geändert durch Durchführungsverordnung (EU) 2024/360, ABl. L, 2024/360, 25.1.2024.</td></tr>
 <tr><td>38. Durchführungsbeschluss (EU) 2022/575</td><td colspan="2">Durchführungsbeschluss (EU) 2022/575 der Kommission vom 6. April 2022 bezüglich Sofortmassnahmen zum Schutz der Union gegen die Einschleppung der Maul- und Klauenseuche durch Sendungen mit Heu und Stroh aus Drittländern oder Drittlandsgebieten und zur Aufhebung der Durchführungsverordnung (EU) 2020/2208, Fassung gemäss ABl. L 109 vom 8.4.2022, S. 69.</td></tr>

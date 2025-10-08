@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 18 novembre 2015 réglant les échanges d'importati
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: fr
-version: 2025-08-26
+version: 2025-10-09
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20250826/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20250826-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20250826/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20251009/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20251009-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20251009/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20250826/fr"
 
 (OITE-PT-DFI)
 
-du 18 novembre 2015 (État le 26 août 2025)
+du 18 novembre 2015 (État le 9 octobre 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -158,7 +158,7 @@ Annexe 1[^t-1]
 
 ## Actes législatifs de l’UE relatifs aux conditions d’importation et de transit harmonisées
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 31 mai 2024 ([RO 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Mise à jour par le ch. I des O de l’OSAV du 5 août 2024 ([RO 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)), du 13 nov. 2024 ([RO 2024 644](https://fedlex.data.admin.ch/eli/oc/2024/644)), du 23 mai 2025 ([RO 2025 338](https://fedlex.data.admin.ch/eli/oc/2025/338)) et du 21 août 2025, en vigueur depuis le 26 août 2025 ([RO 2025 526](https://fedlex.data.admin.ch/eli/oc/2025/526)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 31 mai 2024 ([RO 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Mise à jour par le ch. I des O de l’OSAV du 5 août 2024 ([RO 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)), du 13 nov. 2024 ([RO 2024 644](https://fedlex.data.admin.ch/eli/oc/2024/644)), du 23 mai 2025 ([RO 2025 338](https://fedlex.data.admin.ch/eli/oc/2025/338)), du 21 août 2025, en vigueur depuis le 26 août 2025 ([RO 2025 526](https://fedlex.data.admin.ch/eli/oc/2025/526)) et du 7 oct. 2025, en vigueur depuis le 9 oct. 2025 ([RO 2025 608](https://fedlex.data.admin.ch/eli/oc/2025/608)).
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication de l’acte législatif et de l’acte modificateur</th></tr>
@@ -195,8 +195,8 @@ Annexe 1[^t-1]
 <tr><td>31. Règlement d’exécution (UE) 2020/2235</td><td>Règlement d’exécution (UE) 2020/2235 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire, les modèles de certificat officiel et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois de certaines catégories d’animaux et de biens, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 599/2004, les règlements d’exécution (UE) n<sup>o</sup> 636/2014 et (UE) 2019/628, la directive 98/68/CE et les décisions 2000/572/CE, 2003/779/CE et 2007/240/CE, JO L 442 du 30.12.2020, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2025/636, JO L, 2025/636, 30.4.2025.</td></tr>
 <tr><td>32. Règlement d’exécution (UE) 2020/2236</td><td>Règlement d’exécution (UE) 2020/2236 de la Commission du 16 décembre 2020 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire pour l’entrée dans l’Union et les mouvements au sein de l’Union d’envois d’animaux aquatiques et de certains produits d’origine animale issus d’animaux aquatiques, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant le règlement (CE) n<sup>o</sup> 1251/2008, JO L 442 du 30.12.2020, p. 410; modifié en dernier lieu par le règlement d’exécution (UE) 2023/516, JO L 71 du 9.3.2023, p. 27.</td></tr>
 <tr><td>33. Règlement d’exécution (UE) 2021/403</td><td>Règlement d’exécution (UE) 2021/403 de la Commission du 24 mars 2021 portant modalités d’application des règlements (UE) 2016/429 et (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les modèles de certificat zoosanitaire et les modèles de certificat zoosanitaire/officiel pour l’entrée dans l’Union et les mouvements entre les États membres d’envois de certaines catégories d’animaux terrestres et de leurs produits germinaux, ainsi qu’en ce qui concerne la certification officielle relative à ces certificats, et abrogeant la décision 2010/470/UE, JO L 113 du 31.3.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2025/544, JO L, 2025/544, 22.4.2025.</td></tr>
-<tr><td>34. Règlement d’exécution (UE) 2021/404</td><td>Règlement d’exécution (UE) 2021/404 de la Commission du 24 mars 2021 établissant les listes des pays tiers, territoires et zones de pays tiers et territoires en provenance desquels l’entrée dans l’Union d’animaux, de produits germinaux et de produits d’origine animale est autorisée conformément au règlement (UE) 2016/429 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2025/1510, JO L, 2025/1510, 18.7.2025.</td></tr>
-<tr><td>35. Règlement d’exécution (UE) 2021/405</td><td>Règlement d’exécution (UE) 2021/405 de la Commission du 24 mars 2021 établissant les listes des pays tiers ou régions de pays tiers en provenance desquels l’entrée dans l’Union de certains animaux et biens destinés à la consommation humaine est autorisée conformément au règlement (UE) 2017/625 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 118; modifié en dernier lieu par le règlement d’exécution (UE) 2024/334, JO L, 2024/334, 22.1.2024.</td></tr>
+<tr><td>34. Règlement d’exécution (UE) 2021/404</td><td>Règlement d’exécution (UE) 2021/404 de la Commission du 24 mars 2021 établissant les listes des pays tiers, territoires et zones de pays tiers et territoires en provenance desquels l’entrée dans l’Union d’animaux, de produits germinaux et de produits d’origine animale est autorisée conformément au règlement (UE) 2016/429 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2025/1934, JO L, 2025/1934, 22.9.2025.</td></tr>
+<tr><td>35. Règlement d’exécution (UE) 2021/405</td><td>Règlement d’exécution (UE) 2021/405 de la Commission du 24 mars 2021 établissant les listes des pays tiers ou régions de pays tiers en provenance desquels l’entrée dans l’Union de certains animaux et biens destinés à la consommation humaine est autorisée conformément au règlement (UE) 2017/625 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 118; modifié en dernier lieu par le règlement d’exécution (UE) 2025/354, JO L, 2025/354, 24.2.2025.</td></tr>
 <tr><td>[tab] 36. Règlement d’exécution (UE) 2021/1938</td><td>Règlement d’exécution (UE) 2021/1938 de la Commission du 9 novembre 2021 établissant le modèle de document d’identification relatif aux mouvements non commerciaux d’oiseaux de compagnie depuis un territoire ou un pays tiers à destination d’un État membre et abrogeant la décision 2007/25/CE, version du JO L 396 du 10.11.2021, p. 47.</td></tr>
 <tr><td>37. Règlement d’exécution (UE) 2022/478</td><td>Règlement d’exécution (UE) 2022/478 de la Commission du 24 mars 2022 concernant le maintien de mesures de protection sur les importations de mollusques bivalves de Turquie destinés à la consommation humaine, JO L 98 du 25.3.2022, p. 54; modifié par le règlement d’exécution (UE) 2024/360, JO L, 2024/360, 25.1.2024.</td></tr>
 <tr><td>38. Décision d’exécution (UE) 2022/575</td><td>Décision d’exécution (UE) 2022/575 de la Commission du 6 avril 2022 concernant des mesures d’urgence destinées à prévenir l’introduction dans l’Union de la fièvre aphteuse par des lots de foin et de paille en provenance de certains pays tiers ou territoires et abrogeant le règlement d’exécution (UE) 2020/2208, version du JO L 109 du 8.4.2022, p. 69.</td></tr>
