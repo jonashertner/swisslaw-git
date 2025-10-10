@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Controprogetto diretto all’iniziativa popolare « Sì alla sicurezza dell'approvvigionamento medico»"
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Direkter Gegenentwurf zur Volksinitiative «Ja zur medizinischen Versorgungssicherheit»
 document: Vernehmlassungsvorlage
 language: de

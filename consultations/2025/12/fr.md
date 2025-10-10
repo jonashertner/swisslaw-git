@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Contre-projet direct à l’initiative populaire «Oui à la sécurité de l'approvisionnement médical»"
 document: Projet mis en consultation
 language: fr
