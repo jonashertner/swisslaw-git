@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica delle ordinanze relative alla legge sui trapianti
 document: Progetto posto in consultazione-4
 language: it

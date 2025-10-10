@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification des ordonnances relatives à la loi sur la transplantation
 document: Projet mis en consultation
 language: fr
