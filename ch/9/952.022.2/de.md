@@ -4,11 +4,11 @@ title: Verordnung der FINMA vom 6. März 2024 über die Offenlegungspflichten de
 short: OffV-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: de
-version: 2025-01-01
+version: 2025-10-14
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-138-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20251014/de/xml/fedlex-data-admin-ch-eli-cc-2024-138-20251014-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20250101/de"
 
 (OffV-FINMA)
 
-vom 6. März 2024 (Stand am 1. Januar 2025)
+vom 6. März 2024 (Stand am 14. Oktober 2025)
 
 Die Eidgenössische Finanzmarktaufsicht (FINMA),
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 12 Absatz 5 und 42 Buchstabe c der Bankenverordnung vo
 
 verordnet:
 
-[^ingress-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^ingress-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^ingress-3]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
-[^ingress-4]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^ingress-1]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^ingress-2]: [SR 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^ingress-3]: [SR 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
+[^ingress-4]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -59,8 +59,8 @@ Diese Verordnung gilt nicht für:
 - a. Privatbankiers nach Artikel 16 Absatz 2 ERV;
 - b. schweizerische Zweigniederlassungen von ausländischen Banken und Wertpapierhäusern.
 
-[^2-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^2-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^2-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 3
 
@@ -418,11 +418,13 @@ Grau hinterlegte Zellen kennzeichnen die nach Artikel 4 Absatz 4 zwingend zu pub
 <tr><td>77</td><td>Klimabezogene Finanzrisiken</td><td>Anhang 5</td><td>Offenlegung zu klimabezogenen Finanzrisiken</td><td>QL</td><td>FL</td><td>UA</td><td>J</td><td>J</td><td>n.a.</td><td>n.a.</td></tr>
 </table>
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 4 Abs. 2–4, 7 Abs. 1–3, 9 Abs. 1, 11 Abs. 2, 12 Abs. 4 und 5, 13 Abs. 2–5, 17 Abs. 1 sowie Anhang 1 Ziff. 3.1)
 
 ## Offenlegung zu Eigenmitteln, Liquidität, Vergütungen und Risiken
+
+[^t-1]: Bereinigt durch Berichtigung vom 14. Okt. 2025 ([AS 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)).
 
 ### 1 Tabelle KM1: Grundlegende aufsichtsrechtliche Kennzahlen
 
@@ -980,7 +982,7 @@ Es sind alle Bedingungen und Klauseln aller Instrumente zu beschreiben, die in d
 - c. Zeile 14: Banken ohne aufsichtsrechtliche Bewilligung zur Anwendung der Fair-Value-Option müssen alle Anpassungen nach den Artikeln 51–57 der Verordnung der FINMA vom 6. März 2024[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1] über das Handels- und das Bankenbuch sowie die anrechenbaren Eigenmittel der Banken und Wertpapierhäuser (HBEV-FINMA) vornehmen.
 - d. Zeilen 68a–68g: Diese Zeilen sind für systemrelevante Banken nicht anwendbar.
 
-[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1]: [SR 952.031.11](https://fedlex.data.admin.ch/eli/cc/2024/139)
+[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1]: [SR 952.031.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40197)
 
 ### 8.2 Tabelle
 
@@ -1349,7 +1351,7 @@ Die erforderliche Kommentierung erfolgt in der Tabelle LIA.
 
 Übersicht über die verschiedenen Arten der vorsichtigen Bewertung nach den Artikeln 16–24 HBEV-FINMA[^annex2-lvlu1-lvl16-lvl161-lvl1611-1].
 
-[^annex2-lvlu1-lvl16-lvl161-lvl1611-1]: [SR 952.031.11](https://fedlex.data.admin.ch/eli/cc/2024/139)
+[^annex2-lvlu1-lvl16-lvl161-lvl1611-1]: [SR 952.031.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40197)
 
 ### 16.1.2 Mindestens erforderliche Kommentierung
 
@@ -1876,8 +1878,8 @@ Alle wesentlichen Änderungen während der Berichtsperiode und ihre Gründe sind
 <tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th><th>i</th><th>j</th><th>k</th></tr>
 <tr><th></th><th>Positionsklasse / Risikogewichtung</th><th>20 %</th><th>50 %</th><th>65 %</th><th>75 %</th><th>80 %</th><th>85 %</th><th>100 %</th><th>130 %</th><th>150 %</th><th>Andere</th><th>Total der Kreditrisikopositionen nach Anwendung von Kreditumrechnungsfaktoren und risikomindernden Massnahmen</th></tr>
 <tr><td>6</td><td>Unternehmen</td><td></td><td></td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– Davon: Wertpapierhäuser und Finanzinstitute, soweit nicht in Zeile 4 erfasst</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– Davon: Spezialfinanzierungen</td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td></td></tr>
+<tr><td></td><td>– Davon: Wertpapierhäuser und Finanzinstitute, soweit nicht in Zeile 4 erfasst</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– Davon: Spezialfinanzierungen</td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td></td></tr>
 </table>
 
 <table>
@@ -1929,7 +1931,7 @@ Alle wesentlichen Änderungen während der Berichtsperiode und ihre Gründe sind
 <tr><th></th><th>Positionsklasse ↓</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>1</td><td>Zentralregierungen, Zentralbanken und supranationale Organisationen</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>2</td><td>Öffentlich-rechtliche Körperschaften</td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
-<tr><td>3</td><td>Multilaterale Entwicklungsbanken</td><td>n.a.</td><td></td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
+<tr><td>3</td><td>Multilaterale Entwicklungsbanken</td><td></td><td></td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>4</td><td>Banken</td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td></td><td>– Davon: kontoführende Wertpapierhäuser und andere Finanzinstitute ohne Bankbewilligung, jedoch mit gleichwertiger Regulierung und Aufsicht</td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>5</td><td>Gedeckte Schuldverschreibungen</td><td></td><td></td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
@@ -2084,7 +2086,7 @@ Alle wesentlichen Änderungen während der Berichtsperiode und ihre Gründe sind
 - c. Spalte c: Es gilt Ziffer 53.13 des Basler Mindeststandards zur Berechnung der nach Risiko gewichteten Positionen für Kreditrisiken (CRE) in der Fassung nach Anhang 1 ERV.
 - d. Spalte e: Das Kreditäquivalent (*Exposure at Default*, EAD) nach Anwendung der Risikominderung (CRM) entspricht dem für die Berechnung der Mindesteigenmittel massgebenden Betrag, nach Berücksichtigung von Risikominderungstechniken, von Kreditbewertungsanpassungen bei Derivaten und Wertpapierfinanzierungsgeschäften (*Credit Valuation Adjustments,* CVA) und von Anpassungen für spezifisches Wrong-Way-Risiko.
 
-[^annex2-lvlu1-lvl38-lvl381-lvl3812-lvl38122-1]: [SR 952.033.21](https://fedlex.data.admin.ch/eli/cc/2024/141)
+[^annex2-lvlu1-lvl38-lvl381-lvl3812-lvl38122-1]: [SR 952.033.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40199)
 
 ### 38.2 Tabelle
 
@@ -2144,7 +2146,7 @@ Alle wesentlichen Änderungen während der Berichtsperiode und ihre Gründe sind
 
 <table>
 <tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th></tr>
-<tr><th></th><th>Positionsklasse / Risikogewichtung (%)</th><th>0 10 15</th><th>20 25</th><th>30 35</th><th>40 45 50</th><th>75 80 85</th><th>90 100</th><th>130 150</th><th>Total der Positionen mit Gegenpartei-Kreditrisiko</th></tr>
+<tr><th></th><th>Positionsklasse / Risikogewichtung (%)</th><th>0 10 15</th><th>20 25</th><th>30 35</th><th>40 45 50</th><th>60 75 80 85</th><th>90 100</th><th>130 150</th><th>Total der Positionen mit Gegenpartei-Kreditrisiko</th></tr>
 <tr><td>1</td><td>Zentralregierungen, Zentralbanken und supranationale Organisationen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>Öffentlich-rechtliche Körperschaften</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3</td><td>Multilaterale Entwicklungsbanken</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -2303,7 +2305,7 @@ Alle wesentlichen Änderungen während der Berichtsperiode und ihre Gründe sind
 - e. Zeilen 9 und 19: Anzugeben sind die effektiven vorfinanzierten Beiträge oder die Beteiligung an solchen Beiträgen im Rahmen von Mechanismen zur Verlustteilung.
 - f. Zeilen 10 und 20: Anzugeben sind die Beiträge gemäss Zeile 9 beziehungsweise 19 mit dem Unterschied, dass diese nicht vor Eintritt eines Verlustereignisses einbezahlt werden.
 
-[^annex2-lvlu1-lvl44-lvl441-lvl4412-lvl44122-1]: [SR 952.033.21](https://fedlex.data.admin.ch/eli/cc/2024/141)
+[^annex2-lvlu1-lvl44-lvl441-lvl4412-lvl44122-1]: [SR 952.033.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40199)
 
 ### 44.2 Tabelle
 
@@ -2877,7 +2879,7 @@ Abgleich des Totals der Aktiven nach Rechnungslegung und des Gesamtengagements.
 - a. Die Gründe für wesentliche Abweichungen zwischen dem Total der nach Rechnungslegung ermittelten Aktiven und dem Gesamtengagement für die Leverage Ratio sind zu erläutern.
 - b. Die Berechnungsbasis für die Werte ist zu präzisieren. Falls die Bank die Zustimmung der FINMA erhalten hat, für die Berechnung des Gesamtengagements Durchschnittswerte nach Artikel 4 Absatz 3 der Verordnung der FINMA vom 6. März 2024[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1] über die Leverage Ratio und die operationellen Risiken der Banken und Wertpapierhäuser (LROV-FINMA) zu verwenden, ist die Berechnung zu kommentieren.
 
-[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1]: [SR 952.033.11](https://fedlex.data.admin.ch/eli/cc/2024/140)
+[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1]: [SR 952.033.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40195)
 
 ### 70.1.2.2 Berechnungs- und Darstellungsregeln
 
@@ -2920,7 +2922,7 @@ Detaillierte Aufteilung der Komponenten des Gesamtengagements.
 - a. Die Bank muss die wesentlichen Umstände beschreiben, die einen wesentlichen Einfluss auf die Leverage Ratio per Stichtag im Vergleich zum Stichtag der Vorperiode hatten. Die Berechnungsbasis für die Werte ist zu präzisieren.
 - b. Die Bank muss die Schlüsselfaktoren beschreiben, die die wesentlichen Unterschiede erklären zwischen den Werten für SFT, die im Gesamtengagement enthalten sind, und den Mittelwerten der SFT, die in Zeile 28 offengelegt werden. Die Berechnungsbasis für die Werte ist zu präzisieren. Falls die Bank die Zustimmung der FINMA erhalten hat, für die Berechnung des Gesamtengagements Durchschnittswerte zu verwenden (Art. 4 Abs. 3 LROV-FINMA[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]), ist die Berechnung zu kommentieren.
 
-[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]: [SR 952.033.11](https://fedlex.data.admin.ch/eli/cc/2024/140)
+[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]: [SR 952.033.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40195)
 
 ### 71.1.2.2 Berechnungs- und Darstellungsregeln
 

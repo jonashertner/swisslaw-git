@@ -4,11 +4,11 @@ title: Ordinanza della FINMA del 6 marzo 2024 sugli obblighi di pubblicazione de
 short: OPub-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: it
-version: 2025-01-01
+version: 2025-10-14
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-138-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20251014/it/xml/fedlex-data-admin-ch-eli-cc-2024-138-20251014-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20250101/it"
 
 (OPub-FINMA)
 
-del 6 marzo 2024 (Stato 1° gennaio 2025)
+del 6 marzo 2024 (Stato 14 ottobre 2025)
 
 L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
 
@@ -25,10 +25,10 @@ visti gli articoli 12 capoverso 5 e 42 lettera c dell’ordinanza del 30 aprile 
 
 ordina:
 
-[^ingress-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^ingress-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^ingress-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
-[^ingress-4]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^ingress-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^ingress-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^ingress-3]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
+[^ingress-4]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 ## Sezione 1: Disposizioni generali
 
@@ -59,8 +59,8 @@ La presente ordinanza non si applica:
 - a. ai banchieri privati di cui all’articolo 16 capoverso 2 OFoP;
 - b. alle succursali svizzere di banche e società di intermediazione mobiliare estere.
 
-[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^2-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^2-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 3
 
@@ -418,11 +418,13 @@ Le righe con sfondo grigio indicano le tabelle che devono essere obbligatoriamen
 <tr><td>77</td><td>Rischi finanziari legati al clima</td><td>Allegato 5</td><td>Pubblicazione concernente i rischi finanziari legati al clima</td><td>QUAL</td><td>FL</td><td>IND</td><td>A</td><td>A</td><td>n.a.</td><td>n.a.</td></tr>
 </table>
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 4 cpv. 2–4, 7 cpv. 1–3, 9 cpv. 1, 11 cpv. 2, 12 cpv. 4 e 5, 13 cpv. 2–5, 17 cpv. 1 nonché allegato 1 n. 3.1)
 
 ## Pubblicazione concernente i fondi propri, la liquidità, le remunerazioni e i rischi
+
+[^t-1]: Aggiornato dalla correzione del 14 ott. 2025 ([RU 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)).
 
 ### 1 Tabella KM1: Indicatori prudenziali fondamentali
 
@@ -980,7 +982,7 @@ Visione d’insieme delle differenti componenti dei fondi propri computabili sec
 - c. Riga 14: le banche prive di autorizzazione regolamentare per l’applicazione dell’opzione al «fair value» devono indicare tutti gli adeguamenti di cui agli articoli 51–57 dell’ordinanza della FINMA del 6 marzo 2024[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1] sul portafoglio di negoziazione e sul portafoglio della banca nonché sui fondi propri computabili delle banche e delle società di intermediazione mobiliare (OPFP-FINMA).
 - d. Righe 68a–68g: queste righe non si applicano alle banche di rilevanza sistemica.
 
-[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1]: [RS 952.031.11](https://fedlex.data.admin.ch/eli/cc/2024/139)
+[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1]: [RS 952.031.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40197)
 
 ### 8.2 Tabella
 
@@ -1349,7 +1351,7 @@ I commenti richiesti sono riportati nella tabella LIA.
 
 Visione d’insieme dei vari tipi di valutazioni prudenti secondo gli articoli 16–24 OPFP-FINMA[^annex2-lvlu1-lvl16-lvl161-lvl1611-1].
 
-[^annex2-lvlu1-lvl16-lvl161-lvl1611-1]: [RS 952.031.11](https://fedlex.data.admin.ch/eli/cc/2024/139)
+[^annex2-lvlu1-lvl16-lvl161-lvl1611-1]: [RS 952.031.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40197)
 
 ### 16.1.2 Commento minimo richiesto
 
@@ -1929,7 +1931,7 @@ Tutte le variazioni significative durante il periodo di rendiconto e i relativi 
 <tr><th></th><th>Classe di posizione ↓</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>1</td><td>Governi centrali, banche centrali e organizzazioni sovranazionali</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>2</td><td>Enti di diritto pubblico</td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
-<tr><td>3</td><td>Banche multilaterali di sviluppo</td><td>n.a.</td><td></td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
+<tr><td>3</td><td>Banche multilaterali di sviluppo</td><td></td><td></td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>4</td><td>Banche</td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td></td><td>– Di cui: società di intermediazione mobiliare che tengono conti e altri istituti finanziari senza autorizzazione bancaria, ma sottoposti a una regolamentazione e a una vigilanza equivalenti</td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>5</td><td>Titoli di credito coperti</td><td></td><td></td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
@@ -2084,7 +2086,7 @@ Tutte le variazioni significative durante il periodo di rendiconto e i relativi 
 - c. Colonna c: si applica il numero 53.13 sullo standard minimo di Basilea per il calcolo delle posizioni ponderate in funzione dei rischi di credito (CRE) nella versione secondo l’allegato 1 OFoP.
 - d. Colonna e: l’equivalente di credito («Exposure at Default», EAD) dopo l’applicazione della riduzione del rischio (CRM) corrisponde all’importo determinante per il calcolo dei fondi propri minimi dopo aver considerato le tecniche di riduzione del rischio, gli adeguamenti della valutazione del credito in relazione ai derivati e alle operazioni di finanziamento in titoli («Credit Valuation Adjustments», CVA) e gli adeguamenti per il «wrong way risk» specifico.
 
-[^annex2-lvlu1-lvl38-lvl381-lvl3812-lvl38122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/eli/cc/2024/141)
+[^annex2-lvlu1-lvl38-lvl381-lvl3812-lvl38122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40199)
 
 ### 38.2 Tabella
 
@@ -2144,7 +2146,7 @@ Tutte le variazioni significative durante il periodo di rendiconto e i relativi 
 
 <table>
 <tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th></tr>
-<tr><th></th><th>Classe di posizione / ponderazione del rischio (%)</th><th>0 10 15</th><th>20 25</th><th>30 35</th><th>40 45 50</th><th>75 80 85</th><th>90 100</th><th>130 150</th><th>Totale delle posizioni esposte al rischio di credito della controparte</th></tr>
+<tr><th></th><th>Classe di posizione / ponderazione del rischio (%)</th><th>0 10 15</th><th>20 25</th><th>30 35</th><th>40 45 50</th><th>60 75 80 85</th><th>90 100</th><th>130 150</th><th>Totale delle posizioni esposte al rischio di credito della controparte</th></tr>
 <tr><td>1</td><td>Governi centrali, banche centrali e organizzazioni sovranazionali</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>Enti di diritto pubblico</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3</td><td>Banche multilaterali di sviluppo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -2303,7 +2305,7 @@ Tutte le variazioni significative durante il periodo di rendiconto e i relativi 
 - e. Righe 9 e 19: devono essere riportati gli effettivi contributi prefinanziati o la partecipazione a tali contributi nel quadro di meccanismi di ripartizione delle perdite.
 - f. Righe 10 e 20: devono essere riportati i contributi in conformità alla riga 9 rispettivamente alla riga 19, con la differenza che non vengono versati prima che si verifichi un evento di perdita.
 
-[^annex2-lvlu1-lvl44-lvl441-lvl4412-lvl44122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/eli/cc/2024/141)
+[^annex2-lvlu1-lvl44-lvl441-lvl4412-lvl44122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40199)
 
 ### 44.2 Tabella
 
@@ -2877,7 +2879,7 @@ Riconciliazione fra il totale degli attivi pubblicati in conformità alla presen
 - a. I motivi che comportano divergenze significative tra il totale degli attivi pubblicati in conformità alla presentazione dei conti e l’esposizione totale per il «leverage ratio» devono essere spiegati.
 - b. La base di calcolo per tali valori deve essere precisata. Se la banca ha ottenuto il consenso della FINMA per calcolare l’esposizione totale sulla base dei valori medi secondo l’articolo 4 capoverso 3 dell’ordinanza della FINMA del 6 marzo 2024[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1] sul «leverage ratio» e i rischi operativi delle banche e delle società di intermediazione mobiliare (OLRO-FINMA), deve riportare un commento sul calcolo.
 
-[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/eli/cc/2024/140)
+[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40195)
 
 ### 70.1.2.2 Regole per il calcolo e la presentazione
 
@@ -2920,7 +2922,7 @@ Ripartizione dettagliata dell’esposizione totale.
 - a. La banca deve descrivere i fattori principali che hanno un impatto materiale sul «leverage ratio» al giorno di riferimento rispetto al giorno di riferimento del periodo precedente. La base di calcolo per tali valori deve essere precisata.
 - b. La banca deve descrivere i fattori chiave che spiegano le differenze significative tra i valori per le operazioni di finanziamento in titoli (SFT) contenuti nell’esposizione totale e i valori medi delle SFT pubblicati alla riga 28. La base di calcolo per tali valori deve essere precisata. Se la banca ha ottenuto il consenso della FINMA per calcolare l’esposizione totale sulla base dei valori medi (art. 4 cpv. 3 OLRO-FINMA[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]), deve riportare un commento sul calcolo.
 
-[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/eli/cc/2024/140)
+[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40195)
 
 ### 71.1.2.2 Regole per il calcolo e la presentazione
 

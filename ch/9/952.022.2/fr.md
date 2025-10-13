@@ -4,11 +4,11 @@ title: Ordonnance de la FINMA du 6 mars 2024 sur les obligations des banques et 
 short: OPub-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/138"
 language: fr
-version: 2025-01-01
+version: 2025-10-14
 adopted: 2024-03-06
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-138-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/138/20251014/fr/xml/fedlex-data-admin-ch-eli-cc-2024-138-20251014-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20251014/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/138/20250101/fr"
 
 (OPub-FINMA)
 
-du 6 mars 2024 (État le 1<sup>er</sup> janvier 2025)
+du 6 mars 2024 (État le 14 octobre 2025)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -25,10 +25,10 @@ vu les art. 12, al. 5, et 42, let. c, de l’ordonnance du 30 avril 2014 sur les
 
 arrête:
 
-[^ingress-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^ingress-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^ingress-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
-[^ingress-4]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^ingress-1]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^ingress-2]: [RS 952.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11567)
+[^ingress-3]: [RS 952.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11570)
+[^ingress-4]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 ## Section 1 Dispositions générales
 
@@ -59,8 +59,8 @@ La présente ordonnance ne s’applique pas:
 - a. aux banquiers privés d’après l’art. 16, al. 2, OFR;
 - b. aux succursales suisses de banques et de maisons de titres étrangères.
 
-[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^2-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^2-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 3
 
@@ -418,11 +418,13 @@ Les cellules grisées désignent les tableaux devant obligatoirement être publi
 <tr><td>77</td><td>Risques financiers liés au climat</td><td>Annexe 5</td><td>Publication sur les risques financiers liés au climat</td><td>QUAL</td><td>FL</td><td>IND</td><td>A</td><td>A</td><td>n.a.</td><td>n.a.</td></tr>
 </table>
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 4, al. 2 à 4, 7, al. 1 à 3, 9, al. 1, 11, al. 2, 12, al. 4 et 5, 13 al. 2 à 5, 17, al. 1, ainsi qu’annexe 1, ch. 3.1)
 
 ## Publication concernant les fonds propres, les liquidités, les rémunérations et les risques
+
+[^t-1]: Mise à jour par l’erratum du 14 oct. 2025 ([RO 2025 616](https://fedlex.data.admin.ch/eli/oc/2025/616)).
 
 ### 1 Tableau KM1: chiffres-clés essentiels prudentiels
 
@@ -980,7 +982,7 @@ Fournir un aperçu des différents éléments constitutifs des fonds propres pri
 - c. Ligne 14: les banques dépourvues d’autorisation prudentielle pour utiliser l’option de juste valeur doivent procéder à tous les ajustements selon les art. 51 à 57 de l’ordonnance de la FINMA du 6 mars 2024 sur le portefeuille de négociation et le portefeuille de la banque ainsi que les fonds propres pris en compte des banques et des maisons de titres (OPFP-FINMA)[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1].
 - d. Lignes 68a à 68g: ces lignes ne sont pas applicables aux banques d’importance systémique.
 
-[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1]: [RS 952.031.11](https://fedlex.data.admin.ch/eli/cc/2024/139)
+[^annex2-lvlu1-lvl8-lvl81-lvl812-lvl8122-1]: [RS 952.031.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40197)
 
 ### 8.2 Tableau
 
@@ -1349,7 +1351,7 @@ Les commentaires nécessaires sont indiqués dans le tableau LIA.
 
 Aperçu des différents types d’évaluation prudente effectuée en vertu des art. 16 à 24 OPFP-FINMA[^annex2-lvlu1-lvl16-lvl161-lvl1611-1].
 
-[^annex2-lvlu1-lvl16-lvl161-lvl1611-1]: [RS 952.031.11](https://fedlex.data.admin.ch/eli/cc/2024/139)
+[^annex2-lvlu1-lvl16-lvl161-lvl1611-1]: [RS 952.031.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40197)
 
 ### 16.1.2 Commentaires minimaux requis
 
@@ -1869,7 +1871,7 @@ Tout changement significatif survenu durant la période sous revue ainsi que les
 <tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th><th>i</th></tr>
 <tr><th></th><th>Classe de positions / pondération en fonction des risques</th><th>10 %</th><th>15 %</th><th>20 %</th><th>25 %</th><th>35 %</th><th>50 %</th><th>100 %</th><th>Autres</th><th>Somme des positions exposées au risque de crédit après application de facteurs de conversion en équivalent-crédit et mesures visant à atténuer le risque</th></tr>
 <tr><td>5</td><td>Titres de créance couverts</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– Dont lettres de gage suisses</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
+<tr><td></td><td>– Dont lettres de gage suisses</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
 </table>
 
 <table>
@@ -1896,12 +1898,12 @@ Tout changement significatif survenu durant la période sous revue ainsi que les
 <tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th><th>i</th><th>j</th><th>k</th><th>l</th><th>m</th><th>n</th><th>o</th><th>p</th><th>q</th><th>r</th><th>s</th><th>t</th><th>u</th><th>v</th></tr>
 <tr><th></th><th>Classe de positions / pondération en fonction des risques (%)</th><th>0</th><th>20</th><th>25</th><th>30</th><th>35</th><th>40</th><th>45</th><th>50</th><th>55</th><th>60</th><th>65</th><th>70</th><th>75</th><th>85</th><th>90</th><th>100</th><th>105</th><th>110</th><th>115</th><th>150</th><th>Autres</th><th>Somme des positions exposées au risque de crédit après application de facteurs de conversion en équivalent-crédit et mesures visant à atténuer le risque</th></tr>
 <tr><td>9</td><td>Positions garanties directement ou indirectement par des gages immobiliers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td></td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– Dont immeubles d’habitation à usage propre</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– Dont immeubles d’habitation à usage propre</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– Dont aucun *splitting* de financement</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– Dont *splitting* de financement couvert</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
 <tr><td></td><td>– Dont *splitting* de financement non couvert</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
-<tr><td>[tab]</td><td>– Dont autres immeubles d’habitation</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>– Dont immeubles commerciaux à usage propre</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– Dont autres immeubles d’habitation</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– Dont immeubles commerciaux à usage propre</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– Dont aucun *splitting* de financement</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– Dont *splitting* de financement couvert</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
 <tr><td></td><td>– Dont *splitting* de financement non couvert</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
@@ -1929,7 +1931,7 @@ Tout changement significatif survenu durant la période sous revue ainsi que les
 <tr><th></th><th>Classe de positions ↓</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td>1</td><td>Gouvernements centraux, banques centrales et organisations supranationales</td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>2</td><td>Collectivités de droit public</td><td>n.a.</td><td></td><td>n.a.</td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
-<tr><td>3</td><td>Banques multilatérales de développement</td><td>n.a.</td><td></td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
+<tr><td>3</td><td>Banques multilatérales de développement</td><td></td><td></td><td></td><td></td><td>n.a.</td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>4</td><td>Banques</td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td></td><td>– Dont maisons de titres gérant des comptes et autres établissements financiers sans autorisation bancaire mais soumis à une réglementation et à une surveillance équivalentes</td><td>n.a.</td><td></td><td></td><td></td><td></td><td></td><td></td><td>n.a.</td><td>n.a.</td><td></td></tr>
 <tr><td>5</td><td>Titres de créance couverts</td><td></td><td></td><td></td><td></td><td>n.a.</td><td></td><td>n.a.</td><td>n.a.</td><td>n.a.</td><td></td></tr>
@@ -2084,7 +2086,7 @@ Tout changement significatif survenu durant la période sous revue ainsi que les
 - c. Colonne c: le ch. 53.13 des normes minimales de Bâle relatifs au calcul des positions pondérées en fonction du risque pour les risques de crédit (CRE) dans la version selon l’annexe 1 de l’OFR est applicable.
 - d. Colonne e: l’équivalent-crédit (*exposure at default,* EAD) après mesures d’atténuation du risque (CRM) correspond au montant pertinent pour le calcul des fonds propres minimaux après avoir pris en compte les mesures d’atténuation des risques, les ajustements de valeur de crédit en lien avec les dérivés et les opérations de financement de titres (*credit valuation adjustments,* CVA) et les ajustements pour le risque spécifique de type *wrong-way*.
 
-[^annex2-lvlu1-lvl38-lvl381-lvl3812-lvl38122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/eli/cc/2024/141)
+[^annex2-lvlu1-lvl38-lvl381-lvl3812-lvl38122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40199)
 
 ### 38.2 Tableau
 
@@ -2144,7 +2146,7 @@ Tout changement significatif survenu durant la période sous revue ainsi que les
 
 <table>
 <tr><th></th><th></th><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th></tr>
-<tr><th></th><th>Classe de positions / pondération en fonction des risques (%)</th><th>0 10 15</th><th>20 25</th><th>30 35</th><th>40 45 50</th><th>75 80 85</th><th>90 100</th><th>130 150</th><th>Somme des positions exposées au risque de crédit de contrepartie</th></tr>
+<tr><th></th><th>Classe de positions / pondération en fonction des risques (%)</th><th>0 10 15</th><th>20 25</th><th>30 35</th><th>40 45 50</th><th>60 75 80 85</th><th>90 100</th><th>130 150</th><th>Somme des positions exposées au risque de crédit de contrepartie</th></tr>
 <tr><td>1</td><td>Gouvernements centraux, banques centrales et organisations supranationales</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>Collectivités de droit public</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3</td><td>Banques multilatérales de développement</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -2303,7 +2305,7 @@ Tout changement significatif survenu durant la période sous revue ainsi que les
 - e. Lignes 9 et 19: indiquer les contributions préfinancées effectives ou les participations à de telles contributions dans le cadre de mécanismes de répartition des pertes.
 - f. Lignes 10 et 20: indiquer les contributions selon la ligne 9, ou 19, à la différence qu’elles ne sont pas versées avant la survenance d’un événement générateur de pertes.
 
-[^annex2-lvlu1-lvl44-lvl441-lvl4412-lvl44122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/eli/cc/2024/141)
+[^annex2-lvlu1-lvl44-lvl441-lvl4412-lvl44122-1]: [RS 952.033.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40199)
 
 ### 44.2 Tableau
 
@@ -2877,7 +2879,7 @@ Réconciliation entre le total des actifs publiés dans les états financiers et
 - a. Expliquer les causes des différences significatives entre le total des actifs ressortant des comptes et l’engagement total relatif au ratio de levier.
 - b. Indiquer la base de calcul afférente à ces valeurs. Si la banque a obtenu l’accord de la FINMA pour calculer l’engagement total sur la base des valeurs moyennes selon l’art. 4, al. 3, de l’ordonnance de la FINMA du 6 mars 2024 sur le *leverage ratio* et les risques opérationnels des banques et des maisons de titres (OLRO-FINMA)[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1], elle doit ensuite commenter le calcul.
 
-[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/eli/cc/2024/140)
+[^annex2-lvlu1-lvl70-lvl701-lvl7012-lvl70121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40195)
 
 ### 70.1.2.2 Règles de calcul et de présentation
 
@@ -2920,7 +2922,7 @@ Présentation détaillée des composantes de l’engagement total.
 - a. La banque doit décrire les facteurs clés qui ont eu un impact significatif sur le ratio de levier au jour de référence par rapport au jour de référence de la période précédente. La banque doit indiquer la base de calcul afférente à ces valeurs.
 - b. La banque doit décrire les facteurs clés qui expliquent les différences significatives entre les valeurs pour les SFT, qui figurent dans l’engagement total, et les valeurs moyennes des SFT, qui sont indiquées à la ligne 28. La base de calcul afférente à ces valeurs doit être indiquée. Si la banque a obtenu l’accord de la FINMA pour calculer l’engagement total sur la base des valeurs moyennes (art. 4, al. 3, OLRO-FINMA[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]), elle doit ensuite commenter le calcul.
 
-[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/eli/cc/2024/140)
+[^annex2-lvlu1-lvl71-lvl711-lvl7112-lvl71121-1]: [RS 952.033.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40195)
 
 ### 71.1.2.2 Règles de calcul et de présentation
 
