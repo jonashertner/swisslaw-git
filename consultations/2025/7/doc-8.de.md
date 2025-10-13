@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsanpassungen aufgrund der Übernahme des EU-Migrations- und Asylpakts
 document: Vernehmlassungsvorlage-3
 language: de
