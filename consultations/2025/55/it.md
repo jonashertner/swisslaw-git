@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge sulla protezione dell’ambiente: misure per combattere gli organismi alloctoni invasivi"
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Umweltschutzgesetzes: Massnahmen zur Bekämpfung von invasiven gebietsfremden Organismen"
 document: Vernehmlassungsvorlage
 language: de
