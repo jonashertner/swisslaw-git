@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Proroga e modifica dell’ordinanza sul contratto normale di lavoro per il personale domestico
 document: Progetto posto in consultazione
 language: it
