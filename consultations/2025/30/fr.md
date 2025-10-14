@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 document: Projet mis en consultation
 language: fr

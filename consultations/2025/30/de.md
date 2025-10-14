@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 document: Vernehmlassungsvorlage
 language: de
