@@ -3,11 +3,11 @@ sr: "0.732.11"
 title: Gemeinsames Übereinkommen vom 5. September 1997 über die Sicherheit der Behandlung abgebrannter Brennelemente und über die Sicherheit der Behandlung radioaktiver Abfälle
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/12"
 language: de
-version: 2023-02-01
+version: 2025-10-15
 adopted: 1997-09-05
 in_force: 2001-06-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/12/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2005-12-20230201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/12/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/12/20251015/de/xml/fedlex-data-admin-ch-eli-cc-2005-12-20251015-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/12/20251015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen in Wien am 5. September 1997
 
 Von der Bundesversammlung genehmigt am 14. Dezember 1999[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 5. April 2000 In Kraft getreten für die Schweiz am 18. Juni 2001
 
-(Stand am 1. Februar 2023)
+(Stand am 15. Oktober 2025)
 
 [^t-1]: Zwischen Deutschland, Österreich und der Schweiz abgestimmte Übersetzung auf der Basis des englischen und des französischen Originaltextes.
 [^t-2]: [AS 2005 31](https://fedlex.data.admin.ch/eli/oc/2005/11)
@@ -50,14 +50,14 @@ Die Vertragsparteien,
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.732.020](https://fedlex.data.admin.ch/eli/cc/1997/2380_2380_2380)
-[^ingress-2]: [SR 0.732.321.1](https://fedlex.data.admin.ch/eli/cc/1988/1360_1360_1360)
-[^ingress-3]: [SR 0.732.321.2](https://fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371)
-[^ingress-4]: [SR 0.732.031](https://fedlex.data.admin.ch/eli/cc/1987/505_505_505)
-[^ingress-5]: [SR 0.814.287](https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335)
+[^ingress-1]: [SR 0.732.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2760)
+[^ingress-2]: [SR 0.732.321.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2770)
+[^ingress-3]: [SR 0.732.321.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2771)
+[^ingress-4]: [SR 0.732.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2764)
+[^ingress-5]: [SR 0.814.287](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3518)
 [^ingress-6]: Englischer Titel: International Basic Safety Standards for Protection against Ionizing Radiation and for the Safety of Radiation Sources.
 [^ingress-7]: Englischer Titel: The Principles of Radioactive Waste Management.
-[^ingress-8]: [SR 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+[^ingress-8]: [SR 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
 
 ## Kapitel 1 Ziele, Begriffsbestimmungen und Anwendungsbereich
 
@@ -604,7 +604,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die Unterzeichner, die hierzu gebührend bevollmächtigt sind, das vorliegende Übereinkommen unterzeichnet. Geschehen zu Wien, am 5. September 1997. (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. Februar 2023[^t-3]
+Geltungsbereich am 15. Oktober 2025[^t-3]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -612,6 +612,7 @@ Geltungsbereich am 1. Februar 2023[^t-3]
 <tr><td colspan="2">Argentinien</td><td colspan="2">14. November</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Armenien</td><td colspan="2">22. Mai</td><td colspan="2">2013 B</td><td>20. August</td><td>2013</td></tr>
 <tr><td colspan="2">Australien</td><td colspan="2">5. August</td><td colspan="2">2003</td><td>3. November</td><td>2003</td></tr>
+<tr><td colspan="2">Bangladesch</td><td colspan="2">17. September</td><td colspan="2">2025 B</td><td>16. Dezember</td><td>2025</td></tr>
 <tr><td colspan="2">Belarus</td><td colspan="2">26. November</td><td colspan="2">2002</td><td>24. Februar</td><td>2003</td></tr>
 <tr><td colspan="2">Belgien</td><td colspan="2">5. September</td><td colspan="2">2002</td><td>4. Dezember</td><td>2002</td></tr>
 <tr><td colspan="2">Benin</td><td colspan="2">18. September</td><td colspan="2">2019 B</td><td>17. Dezember</td><td>2019</td></tr>
@@ -635,6 +636,7 @@ Geltungsbereich am 1. Februar 2023[^t-3]
 <tr><td colspan="2">Ghana</td><td colspan="2">1. Juni</td><td colspan="2">2011 B</td><td>30. August</td><td>2011</td></tr>
 <tr><td colspan="2">Griechenland</td><td colspan="2">18. Juli</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Indonesien</td><td colspan="2">1. April</td><td colspan="2">2011</td><td>30. Juni</td><td>2011</td></tr>
+<tr><td colspan="2">Irak</td><td colspan="2">21. November</td><td colspan="2">2023</td><td>19. Februar</td><td>2024</td></tr>
 <tr><td colspan="2">Irland</td><td colspan="2">20. März</td><td colspan="2">2001</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Island</td><td colspan="2">27. Januar</td><td colspan="2">2006 B</td><td>27. April</td><td>2006</td></tr>
 <tr><td colspan="2">Italien</td><td colspan="2">8. Februar</td><td colspan="2">2006</td><td>9. Mai</td><td>2006</td></tr>
@@ -649,6 +651,7 @@ Geltungsbereich am 1. Februar 2023[^t-3]
 <tr><td colspan="2">Kuba</td><td colspan="2">3. Juli</td><td colspan="2">2017 B</td><td>1. Oktober</td><td>2017</td></tr>
 <tr><td colspan="2">Lesotho</td><td colspan="2">26. September</td><td colspan="2">2016 B</td><td>25. Dezember</td><td>2016</td></tr>
 <tr><td colspan="2">Lettland</td><td colspan="2">27. März</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
+<tr><td colspan="2">Libanon</td><td colspan="2">18. Juni</td><td colspan="2">2025</td><td>16. September</td><td>2025</td></tr>
 <tr><td colspan="2">Litauen</td><td colspan="2">16. März</td><td colspan="2">2004</td><td>14. Juni</td><td>2004</td></tr>
 <tr><td colspan="2">Luxemburg</td><td colspan="2">21. August</td><td colspan="2">2001</td><td>19. November</td><td>2001</td></tr>
 <tr><td colspan="2">Madagaskar</td><td colspan="2">3. März</td><td colspan="2">2017 B</td><td>1. Juni</td><td>2017</td></tr>
@@ -688,6 +691,7 @@ Geltungsbereich am 1. Februar 2023[^t-3]
 <tr><td colspan="2">Syrien</td><td colspan="2">25. November</td><td colspan="2">2021 B</td><td>23. Februar</td><td>2022</td></tr>
 <tr><td colspan="2">Thailand</td><td colspan="2">3. Juli</td><td colspan="2">2018 B</td><td>1. Oktober</td><td>2018</td></tr>
 <tr><td colspan="2">Tschechische Republik</td><td colspan="2">25. März</td><td colspan="2">1999</td><td>18. Juni</td><td>2001</td></tr>
+<tr><td colspan="2">Türkei\*</td><td colspan="2">20. Februar</td><td colspan="2">2023 B</td><td>21. Mai</td><td>2023</td></tr>
 <tr><td colspan="2">Ukraine</td><td colspan="2">24. Juli</td><td colspan="2">2000</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Ungarn</td><td colspan="2">2. Juni</td><td colspan="2">1998</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Uruguay</td><td colspan="2">28. Dezember</td><td colspan="2">2005 B</td><td>28. März</td><td>2006</td></tr>
@@ -696,12 +700,12 @@ Geltungsbereich am 1. Februar 2023[^t-3]
 <tr><td colspan="2">Vereinigte Staaten</td><td colspan="2">15. April</td><td colspan="2">2003</td><td>14. Juli</td><td>2003</td></tr>
 <tr><td colspan="2">Vereinigtes Königreich</td><td colspan="2">12. März</td><td colspan="2">2001</td><td>18. Juni</td><td>2001</td></tr>
 <tr><td colspan="2">Vietnam</td><td colspan="2">9. Oktober</td><td colspan="2">2013 B</td><td>7. Januar</td><td>2014</td></tr>
-<tr><td colspan="2">Zypern</td><td colspan="2">21. Oktober</td><td colspan="2">2009 B</td><td>19. Januar</td><td>2010</td></tr>
+<tr><td colspan="2">Zypern\*</td><td colspan="2">21. Oktober</td><td colspan="2">2009 B</td><td>19. Januar</td><td>2010</td></tr>
 <tr><td colspan="8">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="8">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="8">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEO): [www.iaea.org/resources/treaties/treaties-under-IAEA-auspices](https://www.iaea.org/resources/treaties/treaties-under-IAEA-auspices%20) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="8"><sup>a</sup> Das Übereinkommen gilt nicht für die Besondere Verwaltungsregion (SAR) Macau der Volksrepublik China</td></tr>
 <tr><td colspan="8"><sup>b</sup> Das Übereinkommen gilt nicht für die Färöer.</td></tr>
 <tr><td colspan="8"><sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2005 33](https://fedlex.data.admin.ch/eli/oc/2005/12); [2007 3935](https://fedlex.data.admin.ch/eli/oc/2007/524); [2010 1627](https://fedlex.data.admin.ch/eli/oc/2010/237); [2011 4905](https://fedlex.data.admin.ch/eli/oc/2011/701); [2014 125](https://fedlex.data.admin.ch/eli/oc/2014/14); [2016 4191](https://fedlex.data.admin.ch/eli/oc/2016/702); [2018 3009](https://fedlex.data.admin.ch/eli/oc/2018/466); [2020 2173](https://fedlex.data.admin.ch/eli/oc/2020/429); [2023 51](https://fedlex.data.admin.ch/eli/oc/2023/51). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 2005 33](https://fedlex.data.admin.ch/eli/oc/2005/12); [2007 3935](https://fedlex.data.admin.ch/eli/oc/2007/524); [2010 1627](https://fedlex.data.admin.ch/eli/oc/2010/237); [2011 4905](https://fedlex.data.admin.ch/eli/oc/2011/701); [2014 125](https://fedlex.data.admin.ch/eli/oc/2014/14); [2016 4191](https://fedlex.data.admin.ch/eli/oc/2016/702); [2018 3009](https://fedlex.data.admin.ch/eli/oc/2018/466); [2020 2173](https://fedlex.data.admin.ch/eli/oc/2020/429); [2023 51](https://fedlex.data.admin.ch/eli/oc/2023/51); [2025 638](https://fedlex.data.admin.ch/eli/oc/2025/638). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
