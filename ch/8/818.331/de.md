@@ -4,11 +4,11 @@ title: "Verordnung vom 11. April 2018 über die Registrierung von Krebserkrankun
 short: KRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: de
-version: 2025-06-01
+version: 2025-10-15
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20251015/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20251015-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20251015/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/de"
 
 (Krebsregistrierungsverordnung, KRV)
 
-vom 11. April 2018 (Stand am 1. Juni 2025)
+vom 11. April 2018 (Stand am 15. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Krebsregistrierungsgesetz vom 18. März 2016[^ingress-1] (KRG)
 
 verordnet:
 
-[^ingress-1]: [SR 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^ingress-1]: [SR 818.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9832)
 
 ## 1. Abschnitt: Meldung von Krebserkrankungen
 
@@ -227,7 +227,7 @@ Bekanntgegeben werden die folgenden Daten:
 <sup>4</sup> Die Spitäler verwenden für die Bekanntgabe dieselben Datenquellen, die sie für die medizinische Statistik der Krankenhäuser nach Anhang 1 der Bundesstatistikverordnung vom 30. April 2025[^11-2] beigezogen haben.[^11-3]
 
 [^11-1]: Ausdruck gemäss Anhang Ziff. II 33 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^11-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^11-3]: Fassung gemäss Anhang 3 Ziff. 15 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
@@ -588,7 +588,9 @@ Das BAG kann fachliche Stellungnahmen zur Bedeutung der Daten des Registers für
 
 <sup>1</sup> Das BAG schliesst das Verfahren mit einer Verfügung ab.
 
-<sup>2</sup> Ein Betriebsbeitrag wird während längstens fünf Jahren ausgerichtet.
+<sup>2</sup> …[^35-1]
+
+[^35-1]: Aufgehoben durch Ziff. I der V vom 12. Sept. 2025, mit Wirkung seit 15. Okt. 2025 ([AS 2025 567](https://fedlex.data.admin.ch/eli/oc/2025/567)).
 
 ## 10. Abschnitt: Übertragung von Aufgaben
 

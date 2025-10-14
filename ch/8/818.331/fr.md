@@ -4,11 +4,11 @@ title: "Ordonnance du 11 avril 2018 sur l'enregistrement des maladies oncologiqu
 short: OEMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: fr
-version: 2025-06-01
+version: 2025-10-15
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20251015/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20251015-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20251015/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/fr"
 
 (OEMO)
 
-du 11 avril 2018 (État le 1<sup>er</sup> juin 2025)
+du 11 avril 2018 (État le 15 octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncolog
 
 arrête:
 
-[^ingress-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^ingress-1]: [RS 818.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9832)
 
 ## Section 1 Déclaration des maladies oncologiques
 
@@ -226,7 +226,7 @@ Les données suivantes sont communiquées:
 
 <sup>4</sup> Les hôpitaux utilisent les mêmes sources de données que lors du relevé pour la statistique des services de santé visé à l’annexe 1, ch. 05.03. de l’ordonnance du 30 avril 2025 sur la statistique fédérale[^11-1].[^11-2]
 
-[^11-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^11-2]: Nouvelle teneur selon l’annexe 3 ch. 15 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
@@ -587,7 +587,9 @@ L’OFSP peut demander à des experts de se prononcer sur la pertinence des donn
 
 <sup>1</sup> L’OFSP clôt la procédure en rendant sa décision.
 
-<sup>2</sup> Une contribution d’exploitation est versée durant cinq ans au plus.
+<sup>2</sup> …[^35-1]
+
+[^35-1]: Abrogé par le ch. I de l’O du 12 sept. 2025, avec effet au 15 oct. 2025 ([RO 2025 567](https://fedlex.data.admin.ch/eli/oc/2025/567)).
 
 ## Section 10 Délégation de tâches
 

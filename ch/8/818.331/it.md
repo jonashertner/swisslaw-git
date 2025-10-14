@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 aprile 2018 sulla registrazione delle malattie tumoral
 short: ORMT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: it
-version: 2025-06-01
+version: 2025-10-15
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20251015/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20251015-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20251015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20250601/it"
 
 (ORMT)
 
-dell’11 aprile 2018 (Stato 1° giugno 2025)
+dell’11 aprile 2018 (Stato 15 ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 18 marzo 2016[^ingress-1] sulla registrazione delle 
 
 ordina:
 
-[^ingress-1]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^ingress-1]: [RS 818.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9832)
 
 ## Sezione 1: Notifica delle malattie tumorali
 
@@ -227,7 +227,7 @@ Sono comunicati i seguenti dati:
 <sup>4</sup> Per la comunicazione dei dati, gli ospedali utilizzano le stesse fonti di dati che hanno consultato per la statistica dell’assistenza sanitaria di cui al numero 05.03 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^11-2] sulla statistica federale.[^11-3]
 
 [^11-1]: Nuovo espr. giusta l’all. cifra II n. 33 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta modifica è tenuto conto in tutto il presente testo.
-[^11-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^11-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^11-3]: Nuovo testo giusta l’all. 3 n. 15 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 12
@@ -588,7 +588,9 @@ L’UFSP può chiedere pareri tecnici sulla pertinenza dei dati del registro per
 
 <sup>1</sup> L’UFSP conclude la procedura con una decisione.
 
-<sup>2</sup> Un contributo d’esercizio è versato al massimo per cinque anni.
+<sup>2</sup> ...[^35-1]
+
+[^35-1]: Abrogato dalla cifra I dell’O del 12 set. 2025, con effetto dal 15 ott. 2025 ([RU 2025 567](https://fedlex.data.admin.ch/eli/oc/2025/567)).
 
 ## Sezione 10: Delega di compiti
 
