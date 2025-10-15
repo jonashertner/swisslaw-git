@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordonnance relative à la loi fédérale sur l’identité électronique et d’autres moyens de preuves électroniques (ordonnance sur l’e-ID, OeID)"
 document: Projet mis en consultation
 language: fr

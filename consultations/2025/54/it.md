@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza concernente la legge federale sul mezzo d’identificazione elettronico e altri mezzi di autenticazione elettronici (ordinanza sull’Id-e; OIdE)
 document: Progetto posto in consultazione
 language: it
