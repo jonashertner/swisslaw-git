@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.449 n Iv. Pa. Kamerzin. Favorire la custodia alternata in caso di autorità parentale congiunta
 document: Progetto posto in consultazione
 language: it

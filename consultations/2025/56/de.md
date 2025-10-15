@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.449 n Pa. Iv. Kamerzin. Bei gemeinsamer elterlicher Sorge die alternierende Obhut fördern
 document: Vernehmlassungsvorlage
 language: de

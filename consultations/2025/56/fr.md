@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.449 n Iv. pa. Kamerzin. Favoriser la garde alternée en cas d’autorité parentale conjointe
 document: Projet mis en consultation
 language: fr
