@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sule forze idriche (attuazione della mozione 23.3498)
 document: Progetto posto in consultazione
 language: it

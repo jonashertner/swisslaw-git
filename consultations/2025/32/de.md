@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Wasserrechtsgesetzes (Umsetzung Motion 23.3498)
 document: Vernehmlassungsvorlage
 language: de

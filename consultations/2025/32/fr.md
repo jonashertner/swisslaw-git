@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les forces hydrauliques (mise en œuvre de la motion 23.3498)
 document: Projet mis en consultation
 language: fr
