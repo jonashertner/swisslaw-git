@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2016 concernant l'abattage d'animaux et le co
 short: OAbCV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: fr
-version: 2024-02-01
+version: 2025-10-16
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20240201-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20251016/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20251016-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/fr"
 
 (OAbCV)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 16 octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 9, al. 2 et 3, 10, al. 3 et 4, 31, al. 3 et 4, 32, al. 1, 44 et 58, 
 
 arrête:
 
-[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-2]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-2]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ## Chapitre 1 Objet, champ d’application et définitions
@@ -75,7 +75,7 @@ Elle ne s’applique pas:
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^1-3]: Abrogée par le ch. I de l’O du 8 déc. 2023, avec effet au 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-5]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 2
 
@@ -83,7 +83,7 @@ Elle ne s’applique pas:
 
 Les dispositions de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers[^2-1] sont également applicables lorsqu’un pays de destination pose des exigences particulières pour l’exportation de viandes et exige que les établissements d’exportation soient agréés.
 
-[^2-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^2-1]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 ### Section 2 Définitions
 
@@ -130,16 +130,16 @@ Au sens de la présente ordonnance, on entend par:
 - r.[^3-17] *mise à mort au pré pour la production de viande:* tir et saignée d’animaux sur un pré de l’exploitation de provenance pour la production de viande.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-5]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-7]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-8]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^3-9]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-8]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^3-9]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^3-10]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-11]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^3-11]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 [^3-12]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-13]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-14]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
@@ -204,8 +204,8 @@ L’autorisation d’exploiter peut être retirée si:
 - c. les non-conformités ne sont pas corrigées dans les délais impartis;
 - d.[^6-4] des infractions graves et répétées à la législation sur la protection des animaux ont été commises.
 
-[^6-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^6-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^6-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^6-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^6-4]: Introduite par le ch. I de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
@@ -333,7 +333,7 @@ Le détenteur d’animaux doit garantir le respect des exigences de la législat
 <sup>7</sup> En cas de mise à mort au pré pour la production de viande, un vétérinaire officiel doit surveiller le tir et la saignée des animaux.
 
 [^9a-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^9a-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### Section 3 Bétail de boucherie malade ou accidenté et gibier sauvage accidenté
 
@@ -390,8 +390,8 @@ L’établissement doit veiller à ce qu’aucune personne étrangère à l’é
 <sup>3</sup> Une fois déchargés dans un abattoir, les animaux doivent y être abattus. À titre exceptionnel, le vétérinaire cantonal peut autoriser leur déplacement vers une autre destination.
 
 [^14-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^14-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^14-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^14-3]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^14-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 15
@@ -416,7 +416,7 @@ Toutes les mesures doivent être prises pour préserver des nuisibles, tels les 
 
 <sup>5</sup> Le DFI fixe les règles d’hygiène dans les abattoirs, les établissements de traitement du gibier et les exploitations qui pratiquent des abattages occasionnels.[^16-2]
 
-[^16-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^16-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 17
@@ -455,7 +455,7 @@ Aucun traitement d’ordre chimique ou physique des animaux, des carcasses et de
 <sup>2</sup> Les procédures réglementées par le DFI selon l’art. 29 ODAlOUs sont réservées.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^18-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^18-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 19
 
@@ -480,7 +480,7 @@ Les abattoirs et les établissements de traitement du gibier doivent surveiller 
 <sup>6</sup> Pour le reste, les dispositions relatives à l’autocontrôle prévues aux art. 73 à 85 ODAlOUs s’appliquent.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^19-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^19-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^19-3]: Le texte de cette norme peut être consulté gratuitement et commandé contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, case postale, CH-8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 19a
@@ -554,7 +554,7 @@ Concernant le bétail de boucherie, la volaille domestique, les lapins domestiqu
 
 <sup>2</sup> Les organes d’exécution officiels peuvent exiger du détenteur d’animaux qu’il complète les informations visées à l’al. 1.[^22-2]
 
-[^22-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^22-1]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^22-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 23
@@ -612,10 +612,10 @@ La déclaration sanitaire pour la volaille domestique doit être faite entre 72 
 <sup>5</sup> Dans les cas où un document d’accompagnement est prescrit par l’art. 12 OFE, la déclaration sanitaire effectuée par le détenteur doit figurer sur ce document, et sur le passeport équin pour les animaux de l’espèce équine. Pour les animaux de l’espèce équine qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 27, al. 2, Old-BDTA.[^24-6]
 
 [^24-1]: Nouvelle teneur selon l’annexe 3 ch. II 6 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^24-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^24-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^24-6]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
@@ -797,7 +797,7 @@ Des échantillons en vue de l’examen de recherche des trichinelles doivent êt
 <sup>8</sup> L’établissement est tenu d’informer les destinataires de la viande de porc issue de ses abattages que la viande et les préparations et produits à base de viande de sa provenance ne sont destinés qu’au marché national. Il doit tenir à jour un registre des destinataires de la viande de porc issue de ses abattages.
 
 [^31-1]: Introduite par le ch. II 1 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^31-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^31-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 32
 
@@ -888,7 +888,7 @@ L’autorité cantonale compétente peut ordonner au besoin:
 
 <sup>4</sup> En cas de non-respect des dispositions relatives à l’enregistrement, l’identification et les mouvements des animaux à onglons, l’art. 15 OFE[^37-1] est applicable.
 
-[^37-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^37-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 38
 
@@ -1013,7 +1013,7 @@ Les délais de conservation suivants s’appliquent:
 
 <sup>3</sup> L’archivage des données est régi par les dispositions de la loi fédérale du 26 juin 1998 sur l’archivage[^40d-1].
 
-[^40d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^40d-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Chapitre 5 Contrôle des animaux autres que les mammifères et les oiseaux
 
@@ -1039,7 +1039,7 @@ Le canton fixe les compétences du vétérinaire officiel et de l’assistant of
 
 Les organes de contrôle doivent être indépendants des établissements où ils effectuent leurs contrôles. Ils sont tenus de se récuser lorsqu’ils se trouvent dans l’une des situations prévues à l’art. 10 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^43-1].
 
-[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 44
 
@@ -1082,10 +1082,10 @@ Les organes de contrôle sont rémunérés par le canton ou par la commune.
 
 <sup>3</sup> L’accréditation et l’évaluation des laboratoires d’essais sont régies par l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^47-4].
 
-[^47-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^47-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^47-2]: Nouvelle teneur selon le ch. II 1 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^47-3]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^47-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^47-4]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ### Section 2 Tâches de l’OSAV
 
@@ -1317,7 +1317,7 @@ Quant à l’établissement, le vétérinaire officiel vérifie régulièrement 
 <sup>3</sup> Les résultats des contrôles doivent être saisis dans le système d’information pour les données de contrôle visés aux art. 6 à 9 de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture[^55-2].[^55-3]
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^55-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^55-3]: Introduit par l’annexe 4 ch. II 6 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 56
@@ -1352,7 +1352,7 @@ Dans des cas particuliers, le vétérinaire cantonal peut charger le vétérinai
 <sup>3</sup> Les pièces mentionnées à l’al. 2 doivent être conservées durant trois années civiles.
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^57-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^57-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 
 ### Section 5 Notifications
 
@@ -1497,10 +1497,11 @@ Les personnes ayant achevé la formation de chasseur à la date d’entrée en v
 
 Les délais transitoires suivants sont applicables:
 
-- a. pour l’annonce visée à l’art. 5*a*, la mise en place d’un système d’autocontrôle et d’un registre des abattages visée à l’art. 19, al. 5 et 6: jusqu’au 31 janvier 2025;
+- a.[^63a-2] pour l’annonce visée à l’art. 6*a*, la mise en place d’un système d’autocontrôle et d’un registre des abattages visée à l’art. 19, al. 5 et 6: jusqu’au 31 janvier 2025;
 - b. pour les adaptations organisationnelles et opérationnelles nécessaires du contrôle des viandes élargi visées à l’art. 30*a*: jusqu’au 31 janvier 2029.
 
 [^63a-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^63a-2]: Erratum du 16 oct. 2025 ([RO 2025 619](https://fedlex.data.admin.ch/eli/oc/2025/619)).
 
 #### Art. 64
 

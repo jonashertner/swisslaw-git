@@ -4,11 +4,11 @@ title: Ordinanza del 16 dicembre 2016 concernente la macellazione e il controllo
 short: OMCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: it
-version: 2024-02-01
+version: 2025-10-16
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20240201-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20251016/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20251016-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/it"
 
 (OMCC)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 16 ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,22 +25,22 @@ visti gli articoli 9 capoversi 2 e 3, 10 capoversi 3 e 4, 31 capoversi 3 e 4, 32
 
 ordina:
 
-[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-2]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-2]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ## Capitolo 1: Oggetto, campo d’applicazione e definizioni
 
 [^chap1-1]
 
-[^chap1-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^chap1-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 ### Sezione 1: Oggetto e campo d’applicazione
 
 [^chap1-sec1-1]
 
-[^chap1-sec1-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^chap1-sec1-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 #### Art. 1
 
@@ -71,11 +71,11 @@ Non si applica:
 
 <sup>3</sup> Se la presente ordinanza non dispone altrimenti, si applicano le disposizioni dell’ordinanza del 16 dicembre 2016[^1-5] sulle derrate alimentari e gli oggetti d’uso (ODerr).
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^1-3]: Abrogata dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^1-4]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-5]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-3]: Abrogata dalla cifra I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^1-5]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 2
 
@@ -83,7 +83,7 @@ Non si applica:
 
 Qualora un Paese destinatario ponga esigenze particolari in merito all’esportazione di carni ed esiga il riconoscimento delle imprese esportatrici, si applicano inoltre le disposizioni dell’ordinanza del 18 novembre 2015[^2-1] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.
 
-[^2-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^2-1]: [RS 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 ### Sezione 2: Definizioni
 
@@ -129,21 +129,21 @@ Nella presente ordinanza si intende per:
 - q.[^3-14] *uccisione in azienda per la produzione di carne*: stordimento e dissanguamento di animali nell’effettivo di provenienza per la produzione di carne;
 - r.[^3-15] *uccisione al pascolo per la produzione di carne*: abbattimento e dissanguamento di animali in un pascolo nell’effettivo di provenienza per la produzione di carne.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-5]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-6]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-7]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^3-8]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^3-9]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-10]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
-[^3-11]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-12]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-13]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-14]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-15]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^3-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-5]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-6]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-7]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^3-8]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^3-9]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-10]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
+[^3-11]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-12]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-13]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^3-14]: Introdotta dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^3-15]: Introdotta dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 ## Capitolo 2: Macelli e stabilimenti per la lavorazione della selvaggina
 
@@ -200,16 +200,16 @@ L’autorizzazione d’esercizio può essere revocata, qualora:
 - c. non sia stato posto rimedio alle carenze entro il termine fissato;
 - d.[^6-4] sia stata ripetutamente e gravemente violata la legislazione sulla protezione degli animali.
 
-[^6-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^6-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^6-3]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^6-4]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^6-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^6-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^6-4]: Introdotta dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 ## Capitolo 2*a*: Obblighi di notifica e di autorizzazione per i detentori di animali
 
 [^chap2a-1]
 
-[^chap2a-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^chap2a-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 6a
 
@@ -231,7 +231,7 @@ I detentori di animali che eseguono uccisioni in azienda di bestiame da macello 
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^chap3-sec1-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 #### Art. 7
 
@@ -274,7 +274,7 @@ Non possono essere macellati né uccisi per produrre derrate alimentari:[^8-1]
 
 <sup>5</sup> Per la macellazione o l’uccisione di animali secondo i capoversi 3 e 4 fanno stato le disposizioni di cui all’articolo 10.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### Sezione 2: Luogo di macellazione
 
@@ -296,16 +296,16 @@ Al di fuori dei macelli autorizzati sono ammessi:[^9-1]
 
 <sup>5</sup> Dopo l’abbattimento, la selvaggina cacciata, a eccezione delle lepri e della selvaggina da penna, deve essere trasferita in uno stabilimento per la lavorazione della selvaggina. Questa disposizione non si applica alla selvaggina che non presenta caratteristiche indicanti che la carne può presentare un rischio per la salute umana e che il cacciatore consegna direttamente al consumatore o a un’azienda nazionale di vendita al dettaglio che rifornisce direttamente il consumatore.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^9-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^9-4]: Introdotta dal n. I dell’O del 27 mag. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9-4]: Introdotta dalla cifra I dell’O del 27 mag. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### Sezione 2*a*: Uccisione in azienda e uccisione al pascolo per la produzione di carne
 
 [^chap3-sec2a-1]
 
-[^chap3-sec2a-1]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^chap3-sec2a-1]: Introdotta dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 #### Art. 9a
 
@@ -331,8 +331,8 @@ Il detentore di animali garantisce che siano rispettati i requisiti della legisl
 
 <sup>7</sup> In caso di uccisione al pascolo per la produzione di carne, l’abbattimento e il dissanguamento degli animali devono essere sorvegliati da un veterinario ufficiale.
 
-[^9a-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^9a-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^9a-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### Sezione 3: Bestiame da macello malato o infortunato e selvaggina infortunata
 
@@ -386,10 +386,10 @@ L’azienda deve provvedere affinché persone estranee all’azienda non accedan
 
 <sup>3</sup> Gli animali scaricati in un determinato macello devono esservi macellati. Il veterinario cantonale può, in via eccezionale, autorizzarne il trasporto in un altro luogo.
 
-[^14-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^14-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^14-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^14-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^14-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^14-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^14-3]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^14-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 15
 
@@ -397,7 +397,7 @@ L’azienda deve provvedere affinché persone estranee all’azienda non accedan
 
 Gli animali infestanti, come gli insetti e i roditori, devono essere tenuti lontani dai macelli, dagli stabilimenti per la lavorazione della selvaggina e dai locali di macellazione delle aziende nelle quali si eseguono macellazioni occasionali con misure adeguate.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 16
 
@@ -413,8 +413,8 @@ Gli animali infestanti, come gli insetti e i roditori, devono essere tenuti lont
 
 <sup>5</sup> Il DFI disciplina le misure d’igiene nei macelli, negli stabilimenti per la lavorazione della selvaggina e nelle aziende nelle quali si eseguono macellazioni occasionali.[^16-2]
 
-[^16-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^16-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^16-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^16-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 17
 
@@ -433,8 +433,8 @@ Le carcasse e i prodotti della macellazione devono essere refrigerati, semprech�
 
 <sup>3</sup> Le carcasse e i prodotti della macellazione a temperatura di macellazione possono essere trasportati non refrigerati dal macello o dallo stabilimento per la lavorazione della selvaggina al luogo in cui saranno trasformati a condizione che il trasporto non duri più di due ore.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^17-2]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^17-2]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 18
 
@@ -451,8 +451,8 @@ Gli animali, le carcasse e i prodotti della macellazione non possono subire un t
 
 <sup>2</sup> Sono fatti salvi i procedimenti disciplinati dal DFI ai sensi dell’articolo 29 ODerr.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^18-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^18-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^18-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 19
 
@@ -476,8 +476,8 @@ I macelli e gli stabilimenti per la lavorazione della selvaggina devono assicura
 
 <sup>6</sup> Per il resto si applicano le disposizioni in materia di controllo autonomo di cui agli articoli 73–85 ODerr.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^19-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^19-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^19-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^19-3]: Il testo di questa norma può essere consultato e richiesto presso il Centro svizzero d’informazione sulle regole tecniche (SNV), Sulzerallee 70, Casella postale, CH-8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 19a
@@ -488,7 +488,7 @@ I macelli e gli stabilimenti per la lavorazione della selvaggina devono assicura
 
 <sup>2</sup> Il laboratorio di riferimento utilizza i campioni per la sorveglianza delle resistenze agli antibiotici.
 
-[^19a-1]: Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 #### Art. 20
 
@@ -528,7 +528,7 @@ Una persona esperta è colui che ha frequentato un corso in cui ha acquisito noz
 
 [^chap3-sec5-1]
 
-[^chap3-sec5-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^chap3-sec5-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 22
 
@@ -549,8 +549,8 @@ I detentori di animali da macello, volatili da cortile, conigli domestici, selva
 
 <sup>2</sup> Gli organi di esecuzione ufficiali possono chiedere ai detentori di animali di completare con ulteriori dati le informazioni di cui al capoverso 1.[^22-2]
 
-[^22-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^22-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^22-1]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^22-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 23
 
@@ -573,7 +573,7 @@ La notifica degli animali al macello deve riportare almeno le seguenti informazi
 
 <sup>5</sup> Il macello deve coordinare la consegna degli animali in modo da non ammetterne più di quanti possano essere macellati o accolti.
 
-[^23-1]: Nuova espressione giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^23-1]: Nuova espressione giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 
 #### Art. 24
 
@@ -606,12 +606,12 @@ La dichiarazione sanitaria per i volatili da cortile deve essere effettuata da 7
 
 <sup>5</sup> Se è prescritto un certificato d’accompagnamento secondo l’articolo 12 OFE, la dichiarazione sanitaria deve essere effettuata dal detentore di animali su tale documento. Per gli animali della specie equina la dichiarazione deve avvenire nel passaporto per equide. Per gli animali della specie equina macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 27 capoverso 2 OIBDTA.[^24-6]
 
-[^24-1]: Nuovo testo giusta l’all. 3 n. II 6 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^24-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24-6]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-1]: Nuovo testo giusta l’all. 3 cifra II n. 6 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^24-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^24-6]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
 
@@ -680,7 +680,7 @@ Il DFI fissa:
 - a. le modalità del controllo;
 - b. le misure da adottare in base ai risultati del controllo.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 28
 
@@ -698,10 +698,10 @@ Il DFI fissa:
 
 <sup>5</sup> La selvaggina d’allevamento può essere macellata entro 60 giorni dal rilascio del certificato sanitario, a condizione che gli animali siano nuovamente controllati nell’arco dei tre giorni precedenti la macellazione da una persona esperta ai sensi dell’articolo 21 capoverso 1. I risultati del controllo vengono fissati per scritto dalla persona esperta nel modulo rilasciato dal DFI secondo l’articolo 40. Il certificato deve essere consegnato all’acquirente.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^28-2]: Originario cpv. 2<sup>bis</sup>. Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^28-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^28-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-2]: Originario cpv. 2<sup>bis</sup>. Introdotto dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^28-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^28-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ### Sezione 2: Controllo delle carni
 
@@ -719,10 +719,10 @@ Il DFI fissa:
 
 <sup>4</sup> Se la selvaggina cacciata viene sottoposta a un controllo da parte del veterinario ufficiale e la presentazione per il controllo delle carni risulta incompleta secondo le disposizioni emanate dal DFI in virtù dell’articolo 38 capoverso 3, per le parti mancanti della presentazione è determinante il certificato rilasciato dalla persona esperta secondo il modulo emesso dal DFI in conformità con l’articolo 40.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^29-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^29-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^29-4]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^29-4]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 30
 
@@ -741,9 +741,9 @@ Durante il controllo delle carni, devono essere esaminate le carcasse e le parti
 
 <sup>2</sup> Il DFI disciplina l’esecuzione del controllo delle carni e le modalità di certificazione dell’idoneità al consumo.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^30-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^30-3]: Abrogata dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30-3]: Abrogata dalla cifra I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 30a
 
@@ -753,7 +753,7 @@ Durante il controllo delle carni, devono essere esaminate le carcasse e le parti
 
 <sup>2</sup> Il DFI disciplina l’esecuzione del controllo esteso delle carni.
 
-[^30a-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^30a-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 31
 
@@ -791,8 +791,8 @@ Vanno prelevati campioni ai fini dell’esame trichinoscopico da tutte le carcas
 
 <sup>8</sup> L’azienda è tenuta a informare i destinatari della carne suina da essa prodotta che la carne, i preparati e i prodotti a base di carne provenienti dal suo macello sono destinati soltanto al mercato nazionale. L’azienda deve tenere un registro in cui annota regolarmente i destinatari della carne suina da essa prodotta.
 
-[^31-1]: Introdotto dal n. II 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^31-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^31-1]: Introdotto dalla cifra II n. 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^31-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 32
 
@@ -814,7 +814,7 @@ Al termine del controllo delle carni, sono dichiarati idonei al consumo la carca
 
 <sup>2</sup> Le carcasse sono in ogni caso non idonee al consumo se costituiscono un rischio per la salute dell’uomo e dell’animale.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 33
 
@@ -883,7 +883,7 @@ In caso di necessità, l’autorità cantonale competente può ordinare che:
 
 <sup>4</sup> Qualora le prescrizioni in materia di registrazione, identificazione e traffico di animali a unghia fessa siano disattese, si applica l’articolo 15 OFE[^37-1].
 
-[^37-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^37-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 38
 
@@ -909,7 +909,7 @@ In particolare devono:
 
 <sup>4</sup> Qualora il controllo delle carni non sia obbligatorio, i macelli e gli stabilimenti per la lavorazione della selvaggina procedono al controllo autonomo delle derrate alimentari prodotte e alla loro eliminazione se non soddisfano le prescrizioni.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 #### Art. 39
 
@@ -927,7 +927,7 @@ Il DFI stabilisce l’allestimento dei moduli e dei timbri.
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^chap4-sec4-1]: Introdotta dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 40a
 
@@ -1008,7 +1008,7 @@ Si applicano i seguenti termini di conservazione:
 
 <sup>3</sup> L’archiviazione dei dati è retta dalle disposizioni della legge del 26 giugno 1998[^40d-1] sull’archiviazione.
 
-[^40d-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^40d-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Capitolo 5: Controllo di animali diversi dai mammiferi e dagli uccelli
 
@@ -1032,7 +1032,7 @@ Il Cantone disciplina le competenze del veterinario ufficiale e dell’assistent
 
 Gli organi di controllo devono essere indipendenti dalle aziende da essi controllate. Essi devono ricusarsi nei casi previsti dall’articolo 10 della legge federale del 20 dicembre 1968[^43-1] sulla procedura amministrativa.
 
-[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 44
 
@@ -1047,7 +1047,7 @@ L’autorità cantonale competente può consentire ai macelli per volatili da co
 - e. il personale dell’azienda interessato abbia assolto con successo la formazione di assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni o sia istruito e aggiornato regolarmente, per i compiti specifici che svolge, dal veterinario ufficiale competente; e
 - f. i compiti siano svolti sotto la sorveglianza del veterinario ufficiale o dell’assistente specializzato ufficiale addetto al controllo degli animali da macello e al controllo delle carni.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 45
 
@@ -1057,7 +1057,7 @@ L’autorità cantonale competente può consentire ai macelli per volatili da co
 
 <sup>2</sup> I veterinari ufficiali si occupano della formazione di tali persone e ne dirigono e supervisionano l’attività. Possono ritirare temporaneamente l’autorizzazione se le analisi e i prelievi di campioni non sono svolti correttamente.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 46
 
@@ -1075,10 +1075,10 @@ Gli organi di controllo sono rimunerati dal Cantone o dal Comune.
 
 <sup>3</sup> L’accreditamento e la valutazione dei laboratori di prova sono retti dall’ordinanza del 17 giugno 1996[^47-4] sull’accreditamento e sulla designazione.
 
-[^47-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^47-2]: Nuovo testo giusta il n. II 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^47-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^47-2]: Nuovo testo giusta la cifra II n. 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^47-3]: Il testo di questa norma può essere consultato gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
-[^47-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^47-4]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ### Sezione 2: Compiti dell’USAV
 
@@ -1141,7 +1141,7 @@ La natura e l’intensità dei controlli nei singoli macelli e stabilimenti per 
 - b. del tipo e del volume delle macellazioni;
 - c.[^51-1] dei precedenti dell’azienda in materia di rispetto della legislazione sulle derrate alimentari, sulle epizoozie e sulla protezione degli animali.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
 ### Sezione 4: Compiti dei veterinari ufficiali e degli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni
 
@@ -1172,11 +1172,11 @@ Il Cantone può inoltre:
   - 1\. controllare gli animali da macello e le carni in aziende con un’esigua capacità produttiva,
   - 2\.[^52-5] controllare gli animali da macello in caso di uccisione in azienda e al pascolo per la produzione di carne e, in caso di uccisione al pascolo, presenziare durante l’abbattimento e il dissanguamento.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^52-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^52-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^52-4]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^52-5]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^52-4]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^52-5]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 53
 
@@ -1220,13 +1220,13 @@ I veterinari ufficiali:
 
 <sup>4</sup> Sono responsabili della formazione e della formazione continua del personale dell’azienda che assume i compiti degli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni.[^53-7]
 
-[^53-1]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^53-2]: Nuovo testo giusta il n. II 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^53-3]: Introdotta dal n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^53-4]: Introdotta dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^53-5]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^53-6]: Introdotto dal n. I dell’O del 27 mag. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Abrogato dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^53-7]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-1]: Introdotta dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-2]: Nuovo testo giusta la cifra II n. 1 dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^53-3]: Introdotta dalla cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^53-4]: Introdotta dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-5]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-6]: Introdotto dalla cifra I dell’O del 27 mag. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Abrogato dalla cifra I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^53-7]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 54
 
@@ -1270,7 +1270,7 @@ Possono prendere la decisione finale riguardo al controllo delle carni se non vi
 
 <sup>3</sup> In singoli casi, possono dichiarare non idonee al consumo anche carcasse intere di volatili da cortile e di conigli domestici.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 55
 
@@ -1305,9 +1305,9 @@ Gli organi di esecuzione ufficiali verificano regolarmente e in funzione dei ris
 
 <sup>3</sup> I risultati dei controlli devono essere registrati nel sistema d’informazione per i dati sui controlli secondo gli articoli 6–9 dell’ordinanza del 23 ottobre 2013[^55-2] sui sistemi d’informazione nel campo dell’agricoltura.[^55-3]
 
-[^55-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^55-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^55-3]: Introdotto dall’all. 4 n. II 6 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^55-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^55-3]: Introdotto dall’all. 4 cifra II n. 6 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 56
 
@@ -1340,8 +1340,8 @@ Nel singolo caso, il veterinario cantonale può incaricare il veterinario uffici
 
 <sup>3</sup> La documentazione di cui al capoverso 2 deve essere conservata per tre anni civili.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^57-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^57-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^57-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 
 ### Sezione 5: Notifiche
 
@@ -1383,7 +1383,7 @@ Il veterinario cantonale mette a disposizione dell’USAV, su richiesta:
 - d. le autorizzazioni di cui all’articolo 6;
 - e. le dichiarazioni sanitarie.
 
-<sup>4</sup> …[^59-1]
+<sup>4</sup> ...[^59-1]
 
 [^59-1]: Abrogato dall’all. n. 1 dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
@@ -1436,9 +1436,9 @@ Indipendentemente dalla specie animale, l’emolumento in funzione del tempo imp
 - a. per le attività dei veterinari ufficiali, da 100 a 160 franchi all’ora;
 - b. per le attività degli assistenti specializzati ufficiali addetti al controllo degli animali da macello e al controllo delle carni, da 60 a 100 franchi all’ora.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^60-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^60-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^60-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^60-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 61
 
@@ -1454,8 +1454,8 @@ Indipendentemente dalla specie animale, l’emolumento in funzione del tempo imp
 
 <sup>5</sup> Gli emolumenti per i controlli, le prestazioni e le autorizzazioni di cui all’articolo 58 capoverso 2 lettere a nonché g–i LDerr sono calcolati in funzione del tempo impiegato. I Cantoni stabiliscono la tariffa oraria. Le spese sono fatturate separatamente.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^61-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^61-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -1469,7 +1469,7 @@ Indipendentemente dalla specie animale, l’emolumento in funzione del tempo imp
 
 …[^62-2]
 
-[^62-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3]
+[^62-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. cifra II n. 3]
 [^62-2]: La mod. può essere consultata alla [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66).
 
 #### Art. 63
@@ -1478,7 +1478,7 @@ Indipendentemente dalla specie animale, l’emolumento in funzione del tempo imp
 
 Le persone che all’entrata in vigore della presente ordinanza hanno terminato la formazione per cacciatori o la terminano entro il 30 aprile 2018 sono considerate persone esperte ai sensi dell’articolo 21.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 719](https://fedlex.data.admin.ch/eli/oc/2018/89)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 719](https://fedlex.data.admin.ch/eli/oc/2018/89)).
 
 #### Art. 63a
 
@@ -1486,10 +1486,11 @@ Le persone che all’entrata in vigore della presente ordinanza hanno terminato 
 
 Si applicano i seguenti termini transitori:
 
-- a. per la notifica di cui all’articolo 5*a*, l’allestimento di un sistema di controllo autonomo e di un registro di macellazione secondo l’articolo 19 capoversi 5 e 6: sino al 31 gennaio 2025;
+- a.[^63a-2] per la notifica di cui all’articolo 6*a*, l’allestimento di un sistema di controllo autonomo e di un registro di macellazione secondo l’articolo 19 capoversi 5 e 6: sino al 31 gennaio 2025;
 - b. per gli adeguamenti organizzativi e aziendali necessari per il controllo esteso delle carni di cui all’articolo 30*a*: sino al 31 gennaio 2029.
 
-[^63a-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^63a-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^63a-2]: Correzione del 16 ott. 2025 ([RU 2025 619](https://fedlex.data.admin.ch/eli/oc/2025/619)).
 
 #### Art. 64
 

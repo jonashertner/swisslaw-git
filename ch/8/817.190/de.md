@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkont
 short: VSFK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: de
-version: 2024-02-01
+version: 2025-10-16
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20240201-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20251016/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20251016-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20240201/de"
 
 (VSFK)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 16. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 9 Absätze 2 und 3, 10 Absätze 3 und 4, 31 Absätze 3
 
 verordnet:
 
-[^ingress-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-2]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-2]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 ## 1. Kapitel: Gegenstand, Geltungsbereich und Begriffe
@@ -75,7 +75,7 @@ Sie gilt nicht für:
 [^1-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^1-3]: Aufgehoben durch Ziff. I der V vom 8. Dez. 2023, mit Wirkung seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^1-4]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^1-5]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-5]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 2
 
@@ -83,7 +83,7 @@ Sie gilt nicht für:
 
 Sofern ein Bestimmungsstaat für die Ausfuhr von Fleisch besondere Anforderungen stellt und die Anerkennung von Ausfuhrbetrieben verlangt, gelten zusätzlich die Bestimmungen der Verordnung vom 18. November 2015[^2-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten.
 
-[^2-1]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^2-1]: [SR 916.443.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10875)
 
 ### 2. Abschnitt: Begriffe
 
@@ -130,15 +130,15 @@ In dieser Verordnung bedeuten:
 - r.[^3-15] *Weidetötung zur Fleischgewinnung:* Schiessen und Entbluten von Tieren auf einer Weide im Herkunftsbestand zur Fleischgewinnung.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^3-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^3-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-5]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-6]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^3-7]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^3-8]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^3-7]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^3-8]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^3-9]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
-[^3-10]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^3-10]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 [^3-11]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-12]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^3-13]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
@@ -200,8 +200,8 @@ Die Betriebsbewilligung kann entzogen werden, wenn:
 - c. Mängel nicht innert der festgesetzten Frist behoben werden;
 - d.[^6-4] wiederholt in schwerwiegender Weise gegen die Tierschutzgesetzgebung verstossen wurde.
 
-[^6-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^6-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^6-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^6-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^6-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 [^6-4]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
 
@@ -331,7 +331,7 @@ Die Tierhalterin oder der Tierhalter muss gewährleisten, dass die Anforderungen
 <sup>7</sup> Bei der Weidetötung zur Fleischgewinnung müssen der Abschuss und das Entbluten der Tiere von einer amtlichen Tierärztin oder einem amtlichen Tierarzt überwacht werden.
 
 [^9a-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^9a-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^9a-2]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### 3. Abschnitt: Krankes oder verunfalltes Schlachtvieh und verunfalltes Jagdwild
 
@@ -388,8 +388,8 @@ Der einzelne Betrieb muss dafür sorgen, dass betriebsfremde Personen nicht ohne
 <sup>3</sup> Tiere, die in einem Schlachtbetrieb ausgeladen worden sind, müssen dort geschlachtet werden. Die Kantonstierärztin oder der Kantonstierarzt kann ausnahmsweise bewilligen, dass die Tiere wieder wegtransportiert werden.
 
 [^14-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^14-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^14-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^14-2]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^14-3]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^14-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 15
@@ -414,7 +414,7 @@ Ungeziefer, wie Insekten und Nagetiere, müssen mit geeigneten Massnahmen von Sc
 
 <sup>5</sup> Das EDI regelt die Hygienemassnahmen in den Schlacht- und Wildbearbeitungsbetrieben sowie in Betrieben, in denen gelegentliche Schlachtungen durchgeführt werden.[^16-2]
 
-[^16-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^16-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^16-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 17
@@ -453,7 +453,7 @@ Tiere, Schlachttierkörper und Schlachterzeugnisse dürfen vor der Fleischunters
 <sup>2</sup> Vorbehalten bleiben die gestützt auf Artikel 29 LGV vom EDI geregelten Verfahren.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^18-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^18-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 19
 
@@ -478,7 +478,7 @@ Schlacht- und Wildbearbeitungsbetriebe müssen die Hygiene systematisch überwac
 <sup>6</sup> Im Übrigen gelten die Bestimmungen über die Selbstkontrolle nach den Artikeln 73–85 LGV.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^19-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^19-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^19-3]: Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, Postfach, CH-8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 19a
@@ -552,7 +552,7 @@ Für Schlachtvieh, Hausgeflügel, Hauskaninchen, Gehegewild und Laufvögel, die 
 
 <sup>2</sup> Die amtlichen Vollzugsorgane können von den Tierhalterinnen und Tierhaltern Auskünfte zu den Informationen nach Absatz 1 verlangen.[^22-2]
 
-[^22-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^22-1]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^22-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 23
@@ -610,10 +610,10 @@ Die Gesundheitsmeldung für Hausgeflügel muss 72 bis 12 Stunden vor der Schlach
 <sup>5</sup> Ist ein Begleitdokument nach Artikel 12 TSV vorgeschrieben, so ist die Gesundheitsmeldung durch die Tierhalterin oder den Tierhalter auf diesem Dokument zu machen. Für Tiere der Pferdegattung hat die Meldung im Equidenpass zu erfolgen. Bei Tieren der Pferdegattung, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 27 Absatz 2 der IdTVD-V zu machen.[^24-7]
 
 [^24-1]: Fassung gemäss Anhang 3 Ziff. II 6 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^24-2]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^24-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-2]: [SR 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^24-3]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^24-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^24-5]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24-5]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^24-6]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^24-7]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
@@ -796,7 +796,7 @@ Von allen Schlachttierkörpern der folgenden Tiere sind Proben zu erheben und au
 <sup>8</sup> Der Betrieb ist verpflichtet, die Empfänger von Schweinefleisch aus seinen Schlachtungen darüber zu informieren, dass Fleisch, daraus hergestellte Fleischzubereitungen und -erzeugnisse aus seinem Betrieb nur für den nationalen Markt bestimmt sind. Der Betrieb hat laufend ein Verzeichnis der Empfänger von Schweinefleisch aus seinen Schlachtungen zu führen.
 
 [^31-1]: Eingefügt durch Ziff. II 1 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^31-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^31-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 32
 
@@ -888,7 +888,7 @@ Die zuständige kantonale Behörde kann nötigenfalls anordnen, dass:
 
 <sup>4</sup> Werden die Vorschriften über Registrierung, Kennzeichnung und Verkehr mit Klauentieren missachtet, gilt Artikel 15 TSV[^37-1].
 
-[^37-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^37-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 38
 
@@ -1013,7 +1013,7 @@ Es gelten folgende Aufbewahrungsfristen:
 
 <sup>3</sup> Die Archivierung der Daten richtet sich nach den Vorschriften des Archivierungsgesetzes vom 26. Juni 1998[^40d-1].
 
-[^40d-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^40d-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 5. Kapitel: Kontrolle anderer Tiere als Säugetiere und Vögel
 
@@ -1037,7 +1037,7 @@ Der Kanton regelt die Zuständigkeit der amtlichen Tierärztin oder des amtliche
 
 Die Kontrollorgane müssen von den Betrieben, die sie kontrollieren, unabhängig sein. In den Fällen nach Artikel 10 des Bundesgesetzes vom 20. Dezember 1968[^43-1] über das Verwaltungsverfahren müssen sie in den Ausstand treten.
 
-[^43-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^43-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 44
 
@@ -1081,10 +1081,10 @@ Die Kontrollorgane werden durch den Kanton oder die Gemeinde entlöhnt.
 
 <sup>3</sup> Die Akkreditierung und Bewertung von Prüflaboratorien richtet sich nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^47-4].
 
-[^47-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^47-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^47-2]: Fassung gemäss Ziff. II 1 der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^47-3]: Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^47-4]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^47-3]: Der Text dieser Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
+[^47-4]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ### 2. Abschnitt: Aufgaben des BLV
 
@@ -1312,7 +1312,7 @@ Die amtlichen Vollzugsorgane kontrollieren regelmässig und entsprechend den Ris
 <sup>3</sup> Die Kontrollbefunde sind im Informationssystem für Kontrolldaten nach den Artikeln 6–9 der Verordnung vom 23. Oktober 2013[^55-2] über Informationssysteme im Bereich der Landwirtschaft zu erfassen.[^55-3]
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^55-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^55-2]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^55-3]: Eingefügt durch Anhang 4 Ziff. II 6 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 56
@@ -1347,7 +1347,7 @@ Die Kantonstierärztin oder der Kantonstierarzt kann die amtliche Tierärztin od
 <sup>3</sup> Die Unterlagen nach Absatz 2 sind während drei Kalenderjahren aufzubewahren.
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^57-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^57-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 
 ### 5. Abschnitt: Meldungen
 
@@ -1492,10 +1492,11 @@ Personen, die bei Inkrafttreten dieser Verordnung die Ausbildung zur Jägerin od
 
 Es gelten die folgenden Übergangsfristen:
 
-- a. für die Meldung nach Artikel 5*a*, die Erstellung eines Selbstkontrollsystems und eines Schlachtverzeichnisses nach Artikel 19 Absätze 5 und 6: bis 31. Januar 2025;
+- a.[^63a-2] für die Meldung nach Artikel 6*a*, die Erstellung eines Selbstkontrollsystems und eines Schlachtverzeichnisses nach Artikel 19 Absätze 5 und 6: bis 31. Januar 2025;
 - b. für die notwendigen organisatorischen und betrieblichen Anpassungen für die erweiterte Fleischuntersuchung nach Artikel 30*a*: bis 31. Januar 2029.
 
 [^63a-1]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^63a-2]: Berichtigung vom 16. Okt. 2025 ([AS 2025 619](https://fedlex.data.admin.ch/eli/oc/2025/619)).
 
 #### Art. 64
 
