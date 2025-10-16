@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sull’intervento precoce intensivo in caso di disturbi dello spettro autistico (OIPIA)
 document: Progetto posto in consultazione
 language: it

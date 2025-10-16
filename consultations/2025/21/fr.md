@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance relative à l’intervention précoce intensive en cas de troubles du spectre de l’autisme (OIPIA)
 document: Projet mis en consultation
 language: fr

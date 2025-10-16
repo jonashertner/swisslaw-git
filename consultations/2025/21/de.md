@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die intensive Frühintervention bei Autismus-Spektrum-Störungen (IFIAV)
 document: Vernehmlassungsvorlage
 language: de
