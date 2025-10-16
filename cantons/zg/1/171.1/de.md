@@ -4,13 +4,12 @@ number: "171.1"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
 short: "Gemeindegesetz, GG"
 language: de
-version: 2020-09-01
-valid_until: 2025-10-16
-version_adopted: 2020-04-30
+version: 2025-10-17
+version_adopted: 2025-06-05
 adopted: 1980-09-04
 in_force: 1982-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/171.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2127/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2127/pdf_file"
 
 (Gemeindegesetz, GG)
 
-Vom 4. September 1980 (Stand 1. September 2020)
+Vom 4. September 1980 (Stand 17. Oktober 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -104,6 +103,10 @@ beschliesst:
 
 - 1\. …
 - 2\. …
+
+<sup>2</sup> Eine gewählte Person hat während ihrer gesamten Amtsdauer die Voraussetzungen für die Eintragung im Stimmregister (§ 4 Abs. 2 des Gesetzes über die Wahlen und Abstimmungen vom 28. September 2006 [Wahl- und Abstimmungsgesetz, WAG][^6-1]) im massgebenden Wirkungskreis zu erfüllen. Mit dem Wegfall einer Voraussetzung scheidet sie aus ihrem Amt aus.
+
+[^6-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 #### § 7
 
@@ -656,7 +659,7 @@ beschliesst:
 
 <sup>2</sup> Angemeldete Personen haben sich innert 14 Tagen nach Beendigung der Niederlassung oder des Aufenthalts abzumelden.
 
-<sup>3</sup> Wer sich niederlässt, muss einen Heimatschein, wer Aufenthalt nimmt, einen Heimatausweis hinterlegen. Verheiratete Personen oder Personen in eingetragener Partnerschaft erbringen den Nachweis über die Familienverhältnisse. Zudem ist eine Kopie der Versicherungspolice über die obligatorische Krankenversicherung beizubringen.
+<sup>3</sup> Wer Aufenthalt nimmt, muss einen Heimatausweis hinterlegen. Verheiratete Personen oder Personen in eingetragener Partnerschaft erbringen den Nachweis über die Familienverhältnisse. Zudem ist eine Kopie der Versicherungspolice über die obligatorische Krankenversicherung beizubringen.
 
 <sup>4</sup> Vorbehalten bleiben die besonderen Vorschriften für die Ausländerinnen und Ausländer.
 
