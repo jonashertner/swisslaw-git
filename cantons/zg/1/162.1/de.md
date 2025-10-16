@@ -4,13 +4,12 @@ number: "162.1"
 title: Gesetz über den Rechtsschutz in Verwaltungssachen
 short: "Verwaltungsrechtspflegegesetz, VRG"
 language: de
-version: 2024-11-08
-valid_until: 2025-10-16
-version_adopted: 2024-08-29
+version: 2025-10-17
+version_adopted: 2025-06-05
 adopted: 1976-04-01
 in_force: 1977-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/162.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2631/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2740/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2631/pdf_file"
 
 (Verwaltungsrechtspflegegesetz, VRG)
 
-Vom 1. April 1976 (Stand 8. November 2024)
+Vom 1. April 1976 (Stand 17. Oktober 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -626,6 +625,15 @@ beschliesst:
 
 [^53-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
+#### § 53a
+
+**Wählbarkeitsvoraussetzungen**
+
+<sup>1</sup> Für die Wahl bzw. Anstellung von haupt- und nebenamtlichen Mitgliedern sind folgende fachliche Voraussetzungen erforderlich:
+
+- a) abgeschlossenes juristisches Universitätsstudium (Lizenziat oder Master);
+- b) danach mindestens fünf Jahre Berufserfahrung in der Rechtsprechung, Advokatur, Verwaltung oder im Rechtsdienst einer Unternehmung.
+
 #### § 54
 
 **Wahl**
@@ -642,9 +650,12 @@ beschliesst:
 
 - 1\. Für einzelne Verfahren, wenn sämtliche Ersatzmitglieder zu einer ordnungsgemässen Besetzung des Gerichtes nicht ausreichen;
 - 2\. für die Dauer der Verhinderung, wenn ein hauptamtliches Mitglied infolge Krankheit oder aus anderen Gründen voraussichtlich für mehrere Monate an der Ausübung seines Amtes verhindert sein wird;
-- 3\. für die Dauer von höchstens zwei Jahren, wenn ein Gericht wegen einer ausserordentlichen Zunahme der Arbeitslast nicht mehr in der Lage ist, seine Aufgaben innert angemessener Frist zu erfüllen.
+- 3\. für die Dauer von höchstens zwei Jahren, wenn ein Gericht wegen einer ausserordentlichen Zunahme der Arbeitslast nicht mehr in der Lage ist, seine Aufgaben innert angemessener Frist zu erfüllen;
+- 4\. für den Rest der Amtsperiode, wenn gemäss § 57 Abs. 3 WAG[^54a-1] keine Ergänzungswahl durchgeführt wird.
 
 <sup>2</sup> Gerichtsschreiberinnen und Gerichtsschreiber sind in diesen Fällen als Ersatzmitglieder wählbar.
+
+[^54a-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 #### § 55
 
@@ -1148,6 +1159,12 @@ beschliesst:
 **Volksabstimmung[^104-1]**
 
 [^104-1]: Gegenstandslose UeB.
+
+#### § 105
+
+**Wählbarkeitsvoraussetzungen**
+
+<sup>1</sup> Auf Personen, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes gewählt bzw. angestellt sind, finden die Wählbarkeitsvoraussetzungen (§ 53a) keine Anwendung, auch nicht für die Wiederwahl.
 
 Angenommen in der Volksabstimmung vom 13. Juni 1976 (GS 20, 726).
 
