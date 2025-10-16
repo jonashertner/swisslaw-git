@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Iniziativa popolare «Per l'uguaglianza delle persone con disabilità (Iniziativa per l'inclusione)» e controprogetto indiretto"
 document: Progetto posto in consultazione-2
 language: it

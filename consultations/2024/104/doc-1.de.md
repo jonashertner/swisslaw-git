@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Volksinitiative «Für die Gleichstellung von Menschen mit Behinderungen (Inklusions-Initiative)» und indirekter Gegenvorschlag
 document: Vernehmlassungsvorlage-2
 language: de

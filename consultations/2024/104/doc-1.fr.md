@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Initiative populaire «Pour l'égalité des personnes handicapées (initiative pour l’inclusion)» et contre-projet indirect"
 document: Projet mis en consultation-2
 language: fr
