@@ -4,13 +4,13 @@ number: "131.1"
 title: Gesetz über die Wahlen und Abstimmungen
 short: "Wahl- und Abstimmungsgesetz, WAG"
 language: de
-version: 2023-01-01
-valid_until: 2025-10-16
-version_adopted: 2022-08-25
+version: 2025-10-17
+valid_until: 2025-12-31
+version_adopted: 2025-06-05
 adopted: 2006-09-28
 in_force: 2006-12-16
 url: "https://bgs.zg.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2386/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2738/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2386/pdf_file"
 
 (Wahl- und Abstimmungsgesetz, WAG)
 
-Vom 28. September 2006 (Stand 1. Januar 2023)
+Vom 28. September 2006 (Stand 17. Oktober 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 29 der Kantonsverfassung[^ingress-1],
+gestützt auf § 29 der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -49,13 +49,15 @@ beschliesst:
 
 <sup>2</sup> Das Stimmrecht schliesst die Wählbarkeit ein, soweit das Gesetz keine besonderen Wählbarkeitserfordernisse aufstellt.
 
+<sup>3</sup> Eine gewählte Person hat während ihrer gesamten Amtsdauer die Voraussetzungen für die Eintragung im Stimmregister (§ 4 Abs. 2) im massgebenden Wirkungskreis zu erfüllen. Mit dem Wegfall einer Voraussetzung erlischt ihr Amt.
+
 #### § 3
 
 **Politischer Wohnsitz**
 
 <sup>1</sup> Die Stimmabgabe erfolgt am politischen Wohnsitz, nämlich in der Gemeinde, wo die oder der Stimmberechtigte wohnt und angemeldet ist. Fahrende stimmen in ihrer Heimatgemeinde.
 
-<sup>2</sup> Wer statt des Heimatscheins einen anderen Ausweis (Heimatausweis, Interimsschein usw.) hinterlegt, erwirbt nur politischen Wohnsitz, wenn sie oder er nachweist, dass sie oder er am Ort, wo der Heimatschein liegt, nicht im Stimmregister eingetragen ist.
+<sup>2</sup> Wer einen Heimatausweis, Interimsschein und dergleichen hinterlegt, erwirbt nur politischen Wohnsitz, wenn sie oder er nachweist, dass sie oder er in der Niederlassungsgemeinde nicht im Stimmregister eingetragen ist.
 
 ### 1.3. Organisatorische Bestimmungen
 
@@ -63,9 +65,9 @@ beschliesst:
 
 **Stimmregister**
 
-<sup>1</sup> Jede Einwohnergemeinde führt unter der Aufsicht des Gemeinderates ein Stimmregister. Stimmberechtigt ist nur, wer im Stimmregister eingetragen ist.
+<sup>1</sup> Jede Einwohnergemeinde führt unter der Aufsicht des Gemeinderats ein Stimmregister. Stimmberechtigt ist nur, wer im Stimmregister eingetragen ist.
 
-<sup>2</sup> Im Stimmregister wird eingetragen, wer die Voraussetzungen von § 3 erfüllt und nicht vom Stimmrecht ausgeschlossen ist (§ 27 Abs. 3 KV).
+<sup>2</sup> Im Stimmregister wird eingetragen, wer die Voraussetzungen von § 3 erfüllt und nicht vom Stimmrecht ausgeschlossen ist (§ 27 Abs. 3 KV[^4-1]).
 
 <sup>3</sup> Eintragungen und Streichungen werden laufend, spätestens jedoch beim Abschluss des Stimmregisters vor einer Abstimmung oder Wahl von Amtes wegen vorgenommen.
 
@@ -73,19 +75,24 @@ beschliesst:
 
 <sup>5</sup> Das Stimmregister steht den Stimmberechtigten zur Einsicht offen.
 
+[^4-1]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
+
 #### § 5
 
 **Stimmbüro**
 
 <sup>1</sup> In jeder Gemeinde wählt der Gemeinderat ein Stimmbüro von mindestens sieben Mitgliedern und regelt den Vorsitz und die Protokollführung. Er kann das Stimmbüro nötigenfalls mit Hilfskräften erweitern.
 
-<sup>2</sup> Die politischen Parteien sollen im Stimmbüro entsprechend ihrer Stärke im Gemeinderat vertreten sein.
+<sup>2</sup> Die Mitglieder des Stimmbüros müssen mit Ausnahme der Gemeindeschreiberin bzw. des Gemeindeschreibers und deren bzw. dessen Stellvertretung im Wahlkreis stimmberechtigt sein. Im Stimmbüro der Einwohnergemeinde sollen mindestens alle Ortsparteien angemessen vertreten sein, die in der entsprechenden Gemeinde im Kantonsrat oder im Gemeinderat vertreten sind.
 
 <sup>3</sup> Das Stimmbüro überwacht die Stimmabgabe und ermittelt die Wahl- und Abstimmungsergebnisse.
 
-<sup>4</sup> Wer selber in der Wahl steht, tritt in den Ausstand.
+<sup>4</sup> Die Mitglieder des Stimmbüros und Hilfskräfte treten in den Ausstand, wenn sie
 
-<sup>5</sup> Eine Bürger- oder Kirchgemeinde kann im Einverständnis mit der Einwohnergemeinde deren Stimmbüro anerkennen.
+- a) selbst in der Wahl stehen;
+- b) mit einer kandidierenden Person im Wahlkreis verheiratet sind, in eingetragener Partnerschaft leben, eine dauernde Lebensgemeinschaft führen oder in gerader Linie verwandt sind.
+
+<sup>5</sup> Eine Bürger-, Kirch- oder Korporationsgemeinde kann im Einverständnis mit der Einwohnergemeinde deren Stimmbüro anerkennen.
 
 #### § 6
 
@@ -97,7 +104,7 @@ beschliesst:
 
 #### § 7
 
-**Wahl- und Abstimmungslokale, Urnenöffnungszeiten und vorzeitige Stimmabgabe**
+**Wahl- und Abstimmungslokale, Urnenöffnungszeiten**
 
 <sup>1</sup> Der Gemeinderat bestimmt die Wahl- und Abstimmungslokale und die Urnenöffnungszeiten.
 
@@ -105,7 +112,7 @@ beschliesst:
 
 <sup>3</sup> Nach Ablauf jeder Öffnungszeit sind die Urnen zu verschliessen und mit den Stimmrechtsausweisen an einem sicheren Ort aufzubewahren.
 
-<sup>4</sup> Die Gemeinden haben mindestens an zwei der letzten vier Tage vor dem Abstimmungssonntag alle oder einzelne Abstimmungslokale während wenigstens je einer Stunde zu öffnen oder den Stimmberechtigten die Stimmabgabe während der Bürostunden auf der Gemeindeverwaltung zu ermöglichen.
+<sup>4</sup> …
 
 ### 1.4. Stimmmaterial und Stimmabgabe
 
@@ -115,7 +122,7 @@ beschliesst:
 
 **Zustellung**
 
-<sup>1</sup> Das Stimmmaterial besteht aus dem Stimmrechtsausweis, der Abstimmungsvorlage mit Erläuterung, den Wahl- oder Stimmzetteln und dem verschliessbaren Stimmzettelkuvert. Es wird den Stimmberechtigten in einem Kuvert zugestellt, das als Rücksendekuvert für die briefliche Stimmabgabe verwendet werden kann.
+<sup>1</sup> Das Stimmmaterial besteht aus dem Stimmrechtsausweis, der Abstimmungsvorlage mit Erläuterung, den Wahl- oder Stimmzetteln und dem verschliessbaren Stimmzettelkuvert. Es wird den Stimmberechtigten in einem Kuvert zugestellt, das als Rücksendekuvert für die briefliche Stimmabgabe verwendet werden muss.
 
 <sup>2</sup> Bei Wahlen erhalten die Stimmberechtigten in jedem Fall auch einen leeren Wahlzettel.
 
@@ -125,13 +132,19 @@ beschliesst:
 
 <sup>5</sup> Die Einwohnergemeinden tragen die Kosten für den Versand des Stimmmaterials.
 
-<sup>6</sup> Der Kanton und die Gemeinden können Private finanziell unterstützen und ihnen die Adressen zur Verfügung stellen, damit diese den Stimmberechtigten zwischen dem 18. und dem vollendeten 25. Lebensjahr separat zum Stimmmaterial private Wahl- und Abstimmungshilfen zustellen können. Die Wahl- und Abstimmungshilfen müssen die Grundsätze der Neutralität und der Sachlichkeit gewährleisten. Der Regierungsrat regelt die Einzelheiten.
+<sup>6</sup> Der Kanton und die Gemeinden können Private finanziell unterstützen und ihnen die Adressen zur Verfügung stellen, damit diese den Stimmberechtigten zwischen dem 18. und dem vollendeten 25. Lebensjahr separat zum Stimmmaterial private Wahl- und Abstimmungshilfen zustellen können. Die Wahl- und Abstimmungshilfen müssen die Grundsätze der Neutralität und der Sachlichkeit gewährleisten. Sie sind auf Anfrage auch weiteren Stimmberechtigten zuzustellen. Der Regierungsrat regelt die Einzelheiten.
 
 #### § 9
 
 **Bereitstellung**
 
 <sup>1</sup> Für eidgenössische und kantonale Wahlen und Abstimmungen stellt die Staatskanzlei den Gemeinden das Stimmmaterial zur Verfügung.
+
+#### § 9a
+
+**Ausgestaltung der Wahl- und Abstimmungsunterlagen**
+
+<sup>1</sup> Bei der Ausgestaltung von Wahl- und Abstimmungsunterlagen ist auf die Bedürfnisse von Menschen mit Behinderungen Rücksicht zu nehmen.
 
 ### 1.4.2. Stimmabgabe
 
@@ -176,8 +189,8 @@ beschliesst:
 <sup>1</sup> Die briefliche Stimmabgabe ist ungültig, wenn
 
 - a) der Stimmrechtsausweis nicht beiliegt oder nicht unterzeichnet ist;
-- b) das Rücksendekuvert mehr als ein Stimmzettelkuvert enthält;
-- c) sich die Stimm- oder Wahlzettel nicht im Stimmzettelkuvert befinden oder dieses nicht verschlossen ist;
+- b) das Rücksendekuvert mehr Stimmzettelkuverts als gültige Stimmrechtsausweise enthält;
+- c) …
 - d) das Stimmzettelkuvert Angaben über die Person der oder des Stimmberechtigten oder offensichtliche Kennzeichnungen enthält;
 - e) das Rücksendekuvert nicht verschlossen ist;
 - f) nicht das amtliche Rücksendekuvert verwendet wird;
@@ -192,7 +205,7 @@ beschliesst:
 
 <sup>2</sup> Rücksendekuverts, bei denen ein Ungültigkeitsgrund im Sinne von § 14 vorliegt, werden ausgesondert und fallen für den Urnengang ausser Betracht.
 
-<sup>3</sup> Am Abstimmungssonntag öffnet das Stimmbüro die Stimmzettelkuverts unter Wahrung des Stimmgeheimnisses. Die Wahl- und Stimmzettel werden abgestempelt oder sonst in geeigneter Weise amtlich gekennzeichnet.
+<sup>3</sup> Am Abstimmungssonntag öffnet das Stimmbüro die Stimmzettelkuverts unter Wahrung des Stimmgeheimnisses.
 
 <sup>4</sup> …
 
@@ -200,11 +213,15 @@ beschliesst:
 
 #### § 16
 
-**Stimmabgabe behinderter Menschen**
+**Stimmabgabe von Menschen mit Behinderung**
 
-<sup>1</sup> Urteilsfähige Stimmberechtigte, die wegen einer Behinderung dauernd unfähig sind, die für die Stimmabgabe nötigen Handlungen selbst vorzunehmen, können ihr Stimmrecht mit Hilfe der Gemeindeschreiberin bzw. des Gemeindeschreibers oder einer Stellvertretung ausüben. Ein entsprechendes Begehren ist bis spätestens zum drittletzten Tag vor dem Abstimmungssonntag einzureichen.
+<sup>1</sup> Stimmberechtigte, die wegen einer Behinderung unfähig sind, die für die Stimmabgabe nötigen Handlungen selbst vorzunehmen, können der Gemeinde ein Begehren stellen, ihr Stimmrecht mit Hilfe der Gemeindeschreiberin bzw. des Gemeindeschreibers oder mit Hilfe einer anderen bei der Gemeindeverwaltung tätigen Person auszuüben.
 
-<sup>2</sup> Die Gemeindeschreiberin bzw. der Gemeindeschreiber oder eine Stellvertretung ist der oder dem Behinderten bei der Stimmabgabe, nötigenfalls auch beim Ausfüllen der Stimm- und Wahlzettel, behilflich. Sie bzw. er hat jegliche Beeinflussung zu unterlassen und unterliegt der Geheimhaltungspflicht.
+<sup>2</sup> Sie können der Gemeinde auch ein Begehren stellen, dass in der Schweiz stimmberechtigte Personen ihres Vertrauens ihnen künftig diese Hilfe leisten können.
+
+<sup>3</sup> Ein Begehren nach Abs. 1 ist spätestens drei Tage und ein Begehren nach Abs. 2 spätestens zwanzig Tage vor dem Abstimmungssonntag einzureichen.
+
+<sup>4</sup> Die Hilfe leistenden Personen unterstützen die Person mit Behinderung bei der Stimmabgabe, nötigenfalls auch beim Ausfüllen der Stimm- und Wahlzettel. Sie haben jegliche Beeinflussung zu unterlassen und unterliegen der Geheimhaltungspflicht.
 
 #### § 17
 
@@ -233,10 +250,11 @@ beschliesst:
 <sup>1</sup> Stimm- und Wahlzettel sind ungültig, wenn sie
 
 - a) nicht amtlich sind;
-- b) nicht im Sinne von § 11 Abs. 1 oder von § 15 Abs. 3 gekennzeichnet sind;
+- b) nicht im Sinne von § 11 Abs. 1 gekennzeichnet sind;
 - c) anders als handschriftlich ausgefüllt oder geändert wurden;
 - d) den Willen der stimmberechtigten Person nicht eindeutig erkennen lassen;
-- e) ehrverletzende Äusserungen oder offensichtliche Kennzeichnungen enthalten.
+- e) ehrverletzende Äusserungen oder offensichtliche Kennzeichnungen enthalten;
+- f) sich nicht im Stimmzettelkuvert befinden.
 
 <sup>2</sup> Wahlzettel sind ausserdem ungültig, wenn sie keinen gültigen Kandidatennamen enthalten.
 
@@ -303,13 +321,21 @@ beschliesst:
 
 <sup>6</sup> In den übrigen Fällen übernimmt der Kanton den Support und die Kosten des elektronischen Erfassungs- und Auswertungssystems.
 
+#### § 23b
+
+**Elektronische Einreichung von Wahlvorschlägen**
+
+<sup>1</sup> Die Staatskanzlei kann die elektronische Einreichung von Wahlvorschlägen zulassen, sofern die technischen, sicherheitstechnischen und organisatorischen Voraussetzungen erfüllt sind.
+
+<sup>2</sup> Die Staatskanzlei regelt die Einzelheiten.
+
 ## 2. Abstimmungen
 
 #### § 24
 
 **Ausschreibung**
 
-<sup>1</sup> Volksabstimmungen werden im Kanton vom Regierungsrat, in den Gemeinden vom Gemeinderat angeordnet. Sie sind acht Wochen vor dem Abstimmungstag durch die Staatskanzlei bzw. den Gemeinderat im Amtsblatt auszuschreiben.
+<sup>1</sup> Abstimmungen werden im Kanton vom Regierungsrat, in den Gemeinden vom Gemeinderat angeordnet. Sie sind acht Wochen vor dem Abstimmungstag durch die Staatskanzlei bzw. den Gemeinderat im Amtsblatt auszuschreiben.
 
 #### § 25
 
@@ -344,6 +370,18 @@ beschliesst:
 
 <sup>2</sup> Paragraph 27 ist sinngemäss anwendbar.
 
+#### § 28a
+
+**Rückzug der Initiative**
+
+<sup>1</sup> Das Initiativkomitee muss den Rückzug einer Verfassungs- oder Gesetzesinitiative innert einer Woche seit der Schlussabstimmung im Kantonsrat gegenüber der Staatskanzlei erklären (bis 24.00 Uhr am letzten Tag der Frist).
+
+<sup>2</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer ausformulierten Initiative beschlossen und wird die Initiative zurückgezogen, gilt der Gegenvorschlag als Beschluss des Kantonsrats, der nach der Massgabe der Kantonsverfassung dem Referendum unterliegt.
+
+<sup>3</sup> Hat der Kantonsrat einen Gegenvorschlag zu einer Initiative in der Form der allgemeinen Anregung beschlossen und wird die Initiative zurückgezogen, arbeitet der Regierungsrat eine Vorlage aus, die dem Gegenvorschlag entspricht.
+
+<sup>4</sup> Liegt bei einer Gesetzesinitiative ein Gegenvorschlag vor, kann die Initiative unter der Bedingung zurückgezogen werden, dass kein Referendum zustande kommt.
+
 ## 3. Wahlen
 
 ### 3.1. Kantonale Wahlen
@@ -354,19 +392,21 @@ beschliesst:
 
 **Ausschreibung**
 
-<sup>1</sup> Sämtliche Wahlen sind von der Staatskanzlei zwölf Wochen vor dem Wahltag unter Angabe des Termins für allfällige Ergänzungswahlen und zweite Wahlgänge im Majorzverfahren im Amtsblatt auszuschreiben. Allfällige Ergänzungswahlen und zweite Wahlgänge im Majorzverfahren sind am Freitag nach dem Wahltag im Amtsblatt auszuschreiben. Die Gemeinden reichen den Ausschreibungstext bis spätestens am Dienstag nach dem Wahltag, 17.00 Uhr, der Staatskanzlei ein.
+<sup>1</sup> Sämtliche Wahlen sind von der Staatskanzlei zwölf Wochen vor dem Wahltag unter Angabe des Termins für allfällige Ergänzungswahlen und zweite Wahlgänge im Majorzverfahren im Amtsblatt auszuschreiben. Allfällige Ergänzungswahlen und zweite Wahlgänge im Majorzverfahren sind am Donnerstag nach dem Wahltag im Amtsblatt auszuschreiben.
 
 #### § 30
 
 **Termin der Gesamterneuerungswahlen**
 
-<sup>1</sup> Die Gesamterneuerungswahlen der Mitglieder des Regierungsrates und des Kantonsrates finden jeweils am ersten Oktobersonntag, diejenigen der richterlichen Behörden am letzten Sonntag im Juni, diejenigen der Mitglieder des Ständerates gleichzeitig mit den Nationalratswahlen statt.
+<sup>1</sup> Die Gesamterneuerungswahlen der Mitglieder des Regierungsrats und des Kantonsrats finden jeweils am ersten Oktobersonntag, diejenigen der richterlichen Behörden am letzten Sonntag im Juni, diejenigen der Mitglieder des Ständerats gleichzeitig mit den Nationalratswahlen statt.
 
 <sup>2</sup> …
 
-<sup>3</sup> Der Regierungsrat kann die Wahltermine verschieben, wenn besondere Verhältnisse es nahe legen.
+<sup>3</sup> Der Regierungsrat kann die Wahltermine verschieben, wenn besondere Verhältnisse es nahelegen.
 
-<sup>4</sup> Die Amtsdauer der Mitglieder des Ständerates beginnt mit Beginn der Wintersession des Ständerates.
+<sup>3a</sup> Die Staatkanzlei kann die Fristen für die Bereinigung (§ 35) sowie für die Ergänzung von Wahlvorschlägen (§ 36) verkürzen, wenn besondere Verhältnisse es nahelegen.
+
+<sup>4</sup> Die Amtsdauer der Mitglieder des Ständerats beginnt mit Beginn der Wintersession des Ständerats.
 
 #### § 30a
 
@@ -384,8 +424,8 @@ beschliesst:
 
 <sup>1</sup> Die Wahlvorschläge sind bis zum zehntletzten Montag vor dem Wahltag, 17.00 Uhr, einzureichen, und zwar
 
-- a) für die Wahlen der Mitglieder des Ständerates, des Regierungsrates, des Verwaltungs-, Ober-, Kantons- und Strafgerichtes der Staatskanzlei;
-- b) für die Mitglieder des Kantonsrates der Gemeindekanzlei.
+- a) der Staatskanzlei für die Wahlen der Mitglieder des Ständerats, des Regierungsrats, des Verwaltungs-, Ober-, Kantons- und Strafgerichts;
+- b) der Gemeindekanzlei für die Mitglieder des Kantonsrats.
 
 <sup>2</sup> …
 
@@ -419,15 +459,19 @@ beschliesst:
 
 #### § 33
 
-**Unterzeichnung**
+**Unterzeichnung und Vertretung**
 
-<sup>1</sup> Jeder Wahlvorschlag muss von zehn Stimmberechtigten des betreffenden Wahlkreises unterzeichnet sein. Die Unterschrift kann nicht zurückgezogen werden.
+<sup>1</sup> Jeder Wahlvorschlag muss nebst der kandidierenden Person (§ 32 Abs. 4 und § 32a Abs. 3) von mindestens zehn Stimmberechtigten des betreffenden Wahlkreises unterzeichnet sein. Die Unterschrift kann nicht zurückgezogen werden.
 
-<sup>2</sup> Die erstunterzeichnende Person gilt als Vertreterin des betreffenden Wahlvorschlages, sofern nicht ausdrücklich etwas anderes festgelegt wurde. Wer den Wahlvorschlag vertritt, ist berechtigt und verpflichtet, die zur Beseitigung von Mängeln erforderlichen Erklärungen rechtsverbindlich abzugeben.
+<sup>1a</sup> Die Unterzeichnenden der Wahlvorschläge müssen am Tag, an dem die Wahlvorschläge eingereicht werden, im Stimmregister eingetragen sein.
+
+<sup>2</sup> Die erste Unterzeichnerin bzw. der erste Unterzeichner gilt als Vertreterin bzw. Vertreter des betreffenden Wahlvorschlags, sofern nicht ausdrücklich etwas anderes festgelegt wurde. Die Vertreterin bzw. der Vertreter des Wahlvorschlags muss im betreffenden Wahlkreis stimmberechtigt sein. Wer den Wahlvorschlag vertritt, ist berechtigt und verpflichtet, die zur Beseitigung von Mängeln erforderlichen Erklärungen rechtsverbindlich abzugeben.
 
 <sup>2a</sup> Die Vertretung des betreffenden Wahlvorschlags führt auf dem Wahlvorschlag die Erreichbarkeit auf (Telefonnummer und E-Mail-Adresse).
 
-<sup>3</sup> Hat eine Person mehr als einen Wahlvorschlag pro Wahlart unterzeichnet, werden ihre Unterschriften von allen Wahlvorschlägen für diese Wahlart gestrichen. Das ist den Vertreterinnen oder Vertretern des Wahlvorschlags mitzuteilen, damit allenfalls Ersatzunterschriften beigebracht werden können. Diese sind bis am Mittwoch nach dem Wahlanmeldeschluss, 17.00 Uhr, einzureichen.
+<sup>3</sup> Hat eine Person mehr als einen Wahlvorschlag pro Wahlart unterzeichnet, werden ihre Unterschriften von allen Wahlvorschlägen für diese Wahlart gestrichen.
+
+<sup>4</sup> Mangelhafte Unterzeichnungen sind den Vertreterinnen oder Vertretern des Wahlvorschlags mitzuteilen, damit allenfalls Ersatzunterschriften beigebracht werden können. Diese sind bis am Mittwoch nach dem Wahlanmeldeschluss, 17.00 Uhr, einzureichen.
 
 #### § 34
 
@@ -459,7 +503,7 @@ beschliesst:
 
 <sup>3</sup> Die für den Ersatz Vorgeschlagenen müssen schriftlich bestätigen, dass sie den Wahlvorschlag annehmen. Fehlt diese Bestätigung, wird der Ersatzvorschlag gestrichen.
 
-<sup>4</sup> Verlangt die Vertreterin oder der Vertreter des Wahlvorschlages nichts anderes, werden die Ersatzvorschläge am Ende des Wahlvorschlages angereiht.
+<sup>4</sup> Verlangt die Vertreterin oder der Vertreter des Wahlvorschlags nichts anderes, werden die Ersatzvorschläge am Ende des Wahlvorschlags angereiht.
 
 #### § 36a
 
@@ -475,7 +519,11 @@ beschliesst:
 
 <sup>1</sup> Die bereinigten Wahlvorschläge heissen Listen.
 
-<sup>2</sup> Die Listen werden in alphabetischer Reihenfolge nach den Anfangsbuchstaben der Titel aufgeführt.
+<sup>2</sup> Die Listen werden mit arabischen Zahlen nummeriert. Die Nummerierung der Listen erfolgt entsprechend der Zahl der für die Sitzzuteilung im Rat massgebenden Stimmen, die bei der letzten Gesamterneuerungswahl auf die Listen entfallen sind, wobei die Liste mit der höchsten Stimmenzahl die Nummer 1 erhält. Bei mehreren Listen mit gleicher Stimmenzahl erfolgt die Reihenfolge der Listennummern für diese Listen alphabetisch nach den Anfangsbuchstaben ihrer Titel.
+
+<sup>2a</sup> Neu eingereichte Listen erhalten die durch die bisherigen Listen noch nicht belegten Nummern und werden in alphabetischer Reihenfolge nach den Anfangsbuchstaben ihrer Titel im Anschluss an die gemäss Abs. 2 geordneten Listen aufgeführt.
+
+<sup>2b</sup> Weicht die Nummerierung beim Grossen Gemeinderat von der kantonalen Nummerierung ab, richtet sich die Nummerierung für den Grossen Gemeinderat nach der kantonalen Nummerierung.
 
 <sup>3</sup> Die Listen werden mit den Bezeichnungen im Amtsblatt veröffentlicht.
 
@@ -483,7 +531,7 @@ beschliesst:
 
 **Bereinigte Wahlvorschläge bei Majorzwahlen**
 
-<sup>1</sup> Bei Majorzwahlen werden die bereinigten Wahlvorschläge in alphabetischer Reihenfolge der Nachnamen der kandidierenden Amtsinhaberinnen und Amtsinhaber und danach der neu Kandidierenden samt einer allfälligen Partei oder Gruppierung, die den Wahlvorschlag eingereicht hat, im Amtsblatt veröffentlicht.
+<sup>1</sup> Bei Majorzwahlen werden im Falle eines Urnengangs die bereinigten Wahlvorschläge in alphabetischer Reihenfolge der Nachnamen der kandidierenden Amtsinhaberinnen und Amtsinhaber und danach der neu Kandidierenden samt einer allfälligen Partei oder Gruppierung, die den Wahlvorschlag eingereicht hat, im Amtsblatt veröffentlicht.
 
 #### § 38
 
@@ -493,9 +541,9 @@ beschliesst:
 
 **Erstellung und Zustellung der Wahlzettel**
 
-<sup>1</sup> Bei Proporzwahlen werden für sämtliche Listen Wahlzettel, auf denen die Listenbezeichnung und Kandidatenangaben (Nach- und Vornamen, Jahrgang, Berufsbezeichnung, Wohnadresse, gegebenenfalls der Zusatz "bisher") vorgedruckt sind, sowie Wahlzettel ohne Vordruck erstellt.
+<sup>1</sup> Bei Proporzwahlen werden für sämtliche Listen Wahlzettel, auf denen die Listenbezeichnung und Kandidatenangaben (Nach- und Vornamen, Jahrgang, Berufsbezeichnung, Wohnort, gegebenenfalls der Zusatz «bisher») vorgedruckt sind, sowie Wahlzettel ohne Vordruck erstellt.
 
-<sup>1a</sup> Bei Majorzwahlen wird pro Wahl ein einziger leerer Wahlzettel erstellt, der so viele leere Linien enthält, wie Personen in die betreffende Behörde zu wählen sind. Diesem Wahlzettel wird ein Beiblatt zur Information beigelegt, auf dem zuerst alle kandidierenden Amtsinhaberinnen und Amtsinhaber und danach alle neu Kandidierenden in alphabetischer Reihenfolge der Nachnamen aufgeführt sind. Das Beiblatt enthält Nach- und Vornamen, Jahrgang, Berufsbezeichnung, Wohnadresse, gegebenenfalls den Zusatz "bisher" sowie eine allfällige Partei oder Gruppierung, die den Wahlvorschlag eingereicht hat.
+<sup>1a</sup> Bei Majorzwahlen wird pro Wahl ein einziger leerer Wahlzettel erstellt, der so viele leere Linien enthält, wie Personen in die betreffende Behörde zu wählen sind. Diesem Wahlzettel wird ein Beiblatt zur Information beigelegt, auf dem zuerst alle kandidierenden Amtsinhaberinnen und Amtsinhaber und danach alle neu Kandidierenden in alphabetischer Reihenfolge der Nachnamen aufgeführt sind. Das Beiblatt enthält Nach- und Vornamen, Jahrgang, Berufsbezeichnung, Wohnort, gegebenenfalls den Zusatz «bisher» sowie eine allfällige Partei oder Gruppierung, die den Wahlvorschlag eingereicht hat.
 
 <sup>2</sup> Den Stimmberechtigten wird ein vollständiger Satz aller Wahlzettel ihres Wahlkreises zugestellt.
 
@@ -541,7 +589,7 @@ beschliesst:
 
 <sup>2</sup> Wurden im Sinne von § 44 Abs. 1 Namen gestrichen und verbleiben weniger Namen, als Personen zu wählen sind, so werden die auf sie entfallenden Stimmen als Zusatzstimmen gezählt, wenn der Wahlzettel eine Listenbezeichnung trägt. Fehlt eine solche, zählen diese Stimmen nicht (leere Stimmen).
 
-<sup>3</sup> Leere Wahlzettel können mit einer Listenbezeichnung versehen und ganz oder teilweise mit Namen von Vorgeschlagenen ausgefüllt werden.
+<sup>3</sup> …
 
 <sup>4</sup> Die auf dem Wahlzettel aufgeführten Kandidatinnen und Kandidaten erhalten je eine Kandidatenstimme.
 
@@ -632,19 +680,19 @@ beschliesst:
 
 <sup>2</sup> Kandidatinnen und Kandidaten, die im Hauptwahlgang zugunsten einer Mitkandidatin oder eines Mitkandidaten zurückgetreten sind, dürfen für die betreffende Amtsdauer nicht mehr vorgeschlagen werden.
 
-<sup>3</sup> Ergänzungswahlen sind, wenn nicht besondere Verhältnisse eine Verschiebung nahe legen, innert vier Monaten seit Freiwerden des Sitzes durchzuführen.
+<sup>3</sup> Ergänzungswahlen sind, wenn nicht besondere Verhältnisse eine Verschiebung nahelegen, innert vier Monaten durchzuführen, nachdem das Freiwerden eines Sitzes bekannt geworden ist. Für zweite Wahlgänge ist § 56 dieses Gesetzes sinngemäss anwendbar.
 
 <sup>4</sup> Die Wahlvorschläge für Ergänzungswahlen sind bis zum achtletzten Montag vor dem Wahltag, 17.00 Uhr, einzureichen.
 
 <sup>5</sup> Keine Ergänzungswahl wird durchgeführt, wenn im betreffenden Jahr Gesamterneuerungswahlen stattfinden und die Vakanz bis zum Ende der laufenden Amtsperiode nicht mehr als sechs Monate beträgt.
 
-### 3.1.2.a Wahl des Kantonsrates
+### 3.1.2.a Wahl des Kantonsrats
 
 #### § 52a
 
 **Verfahren**
 
-<sup>1</sup> Soweit die nachfolgenden Bestimmungen (§§ 52b–52f) nichts anderes regeln, richtet sich die Wahl des Kantonsrats nach den §§ 1–23 sowie den §§ 29–52 dieses Gesetzes. Ausgenommen sind die §§ 46–49. Die stille Wahl (§ 40) von einzelnen Kandidierenden oder in einzelnen Wahlkreisen ist bei den Kantonsratswahlen nur bei Ergänzungswahlen möglich.
+<sup>1</sup> Soweit die nachfolgenden Bestimmungen (§ 52b–52g) nichts anderes regeln, richtet sich die Wahl des Kantonsrats nach § 1–23a sowie § 29–52 dieses Gesetzes. Ausgenommen sind § 46–49. Die stille Wahl (§ 40) von einzelnen Kandidierenden oder in einzelnen Wahlkreisen ist bei den Kantonsratswahlen nur bei Ergänzungswahlen möglich.
 
 <sup>2</sup> Die Wahl des Kantonsrats wird nach dem doppelt-proportionalen Sitzzuteilungsverfahren durchgeführt.
 
@@ -662,7 +710,7 @@ beschliesst:
 
 <sup>2</sup> Wurde eine Liste nur in einem Wahlkreis eingereicht, gilt diese Liste ebenfalls als Listengruppe.
 
-<sup>3</sup> Eine Listengruppe nimmt an der Sitzverteilung nur teil, wenn ihre Liste wenigstens in einem Wahlkreis mindestens 5 % aller Parteistimmen des betreffenden Wahlkreises oder im gesamten Kanton mindestens 3 % aller Parteistimmen erhält.
+<sup>3</sup> Eine Listengruppe nimmt an der Sitzverteilung nur teil, wenn ihre Liste wenigstens in einem Wahlkreis mindestens 5 % aller Parteistimmen des betreffenden Wahlkreises erhält oder wenn sie eine Wählerzahl erreicht, die gesamtkantonal einem Wähleranteil von mindestens 3 % entspricht.
 
 <sup>4</sup> Listenverbindungen sind ausgeschlossen.
 
@@ -670,7 +718,7 @@ beschliesst:
 
 **Oberzuteilung auf die Listengruppen**
 
-<sup>1</sup> Die Parteistimmenzahl einer Liste wird durch die Zahl der im betreffenden Wahlkreis zu vergebenden Sitze geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis heisst Wählerzahl der Liste.
+<sup>1</sup> Die Parteistimmenzahl einer Liste wird durch die Zahl der im betreffenden Wahlkreis zu vergebenden Sitze geteilt. Das Ergebnis heisst Wählerzahl der Liste.
 
 <sup>2</sup> In jeder Listengruppe werden die Wählerzahlen der Listen zusammengezählt. Die Summe wird durch den Kantons-Wahlschlüssel geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis bezeichnet die Zahl der Sitze der betreffenden Listengruppe.
 
@@ -683,6 +731,10 @@ beschliesst:
 **Unterzuteilung auf die Listen**
 
 <sup>1</sup> Die Parteistimmenzahl einer Liste wird durch den Wahlkreis-Divisor und den Listengruppen-Divisor geteilt und zur nächstgelegenen ganzen Zahl gerundet. Das Ergebnis bezeichnet die Zahl der Sitze dieser Liste.
+
+<sup>1a</sup> Falls die Zahl der Sitze der stimmenstärksten Liste in einem Wahlkreis nicht mindestens eins beträgt, wird diese auf eins erhöht (Majorzbedingung).
+
+<sup>1b</sup> Führt die Anwendung der Majorzbedingung zu einem Widerspruch mit Abs. 2, so werden in möglichst wenigen Wahlkreisen die Majorzbedingung deaktiviert, sodass die Bedingungen von Abs. 2 eingehalten werden können. Gibt es dafür mehrere gleichwertige Möglichkeiten, entscheidet das Los.
 
 <sup>2</sup> Die Staatskanzlei legt für jeden Wahlkreis einen Wahlkreis-Divisor fest und für jede Listengruppe einen Listengruppen-Divisor so fest, dass beim Vorgehen gemäss Abs. 1
 
@@ -697,11 +749,19 @@ beschliesst:
 
 <sup>1</sup> Die einer Liste zugewiesenen Sitze werden nach Massgabe der Kandidatinnen- bzw. Kandidatenstimmen auf die kandidierenden Personen verteilt. Bei gleicher Stimmenzahl erhält die auf der Liste zuerst genannte Person den Sitz.
 
-<sup>1a</sup> In jedem Wahlkreis bekommt die stimmenstärkste Liste mindestens einen Sitz.
+<sup>1a</sup> …
 
 <sup>2</sup> Die nicht gewählten Personen sind Ersatzleute in der Reihenfolge der erzielten Kandidatinnen- bzw. Kandidatenstimmen.
 
 <sup>3</sup> Werden einer Liste mehr Sitze zugeteilt, als sie Kandidatinnen- bzw. Kandidaten enthält, gelten die Bestimmungen über die Ergänzungswahl (§ 52).
+
+#### § 52g
+
+**Sitzzuteilung im Spezialfall**
+
+<sup>1</sup> Kommt es bei der Anwendung des doppelt-proportionalen Sitzzuteilungsverfahrens zu einer Konstellation, bei der keine Sitzzuteilung gemäss § 52d–52f möglich ist, werden die Sitze in jedem Wahlkreis separat in analoger Anwendung von Art. 40 ff. des Bundesgesetzes über die politischen Rechte[^52g-1] verteilt.
+
+[^52g-1]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
 
 ### 3.1.3. Majorzwahlen
 
@@ -755,9 +815,13 @@ beschliesst:
 
 **Ergänzungswahlen**
 
-<sup>1</sup> Ergänzungswahlen für Sitze, die während der Amtsdauer frei geworden sind, werden vom Regierungsrat festgesetzt. Sie sind, wenn nicht besondere Verhältnisse eine Verschiebung nahe legen, innert vier Monaten seit Freiwerden des Sitzes durchzuführen.
+<sup>1</sup> Ergänzungswahlen für Sitze, die während der Amtsdauer frei werden, werden vom Regierungsrat festgesetzt. Sie sind, wenn nicht besondere Verhältnisse eine Verschiebung nahelegen, innert vier Monaten durchzuführen, nachdem das Freiwerden eines Sitzes bekannt geworden ist. Für zweite Wahlgänge ist § 56 dieses Gesetzes sinngemäss anwendbar.
+
+<sup>1a</sup> Die Wahlvorschläge für Ergänzungswahlen sind bis zum achtletzten Montag vor dem Wahltag, 17.00 Uhr, einzureichen.
 
 <sup>2</sup> Keine Ergänzungswahl wird durchgeführt, wenn im betreffenden Jahr Gesamterneuerungswahlen stattfinden und die Vakanz bis zum Ende der laufenden Amtsperiode nicht mehr als sechs Monate beträgt.
+
+<sup>3</sup> Für die Gerichte wird keine Ergänzungswahl durchgeführt, wenn im Jahr, in welchem die Vakanz entsteht, Gesamterneuerungswahlen stattfinden.
 
 ### 3.1.4. Wahlprüfung
 
@@ -765,7 +829,9 @@ beschliesst:
 
 **Zuständigkeit, Verfahren**
 
-<sup>1</sup> Der Kantonsrat stellt die Gültigkeit der Kantonsrats-, Regierungsrats-, Ständerats- und Richterwahlen fest.
+<sup>1</sup> Der Kantonsrat stellt die Gültigkeit der Kantonsrats-, Regierungsrats-, Ständerats- und Richterwahlen abschliessend und verbindlich fest.
+
+<sup>1a</sup> Dieser Beschluss wird im Amtsblatt publiziert. Er ist deklaratorischer Natur.
 
 <sup>2</sup> Ratsmitglieder, deren Wahl bestritten ist, treten in den Ausstand.
 
@@ -799,19 +865,21 @@ beschliesst:
 
 <sup>2</sup> Ergänzungswahlen finden am achten Sonntag nach der Hauptwahl statt. Wahlvorschläge sind bis zum siebtletzten Montag vor dem Wahltag, 17.00 Uhr, einzureichen.
 
-<sup>3</sup> Der Regierungsrat kann die Wahltermine verschieben, wenn besondere Verhältnisse es nahe legen.
+<sup>3</sup> Der Regierungsrat kann die Wahltermine verschieben, wenn besondere Verhältnisse es nahelegen.
 
 #### § 61
 
 **Ausschreibung**
 
-<sup>1</sup> Die Staatskanzlei schreibt die Gesamterneuerungswahlen zwölf Wochen vor dem Wahltag im Amtsblatt aus. Gleichzeitig ist der Termin für allfällige Ergänzungswahlen und zweite Wahlgänge im Majorzverfahren anzugeben. Diese sind am Freitag nach dem Wahltag im Amtsblatt auszuschreiben. Die Gemeinden reichen den Ausschreibungstext bis spätestens am Dienstag nach dem Wahltag, 17.00 Uhr, der Staatskanzlei ein.
+<sup>1</sup> Die Staatskanzlei schreibt die Gesamterneuerungswahlen zwölf Wochen vor dem Wahltag im Amtsblatt aus. Gleichzeitig ist der Termin für allfällige Ergänzungswahlen und zweite Wahlgänge im Majorzverfahren anzugeben. Diese sind am Donnerstag nach dem Wahltag im Amtsblatt auszuschreiben.
 
 #### § 62
 
 **Ergänzungswahlen**
 
-<sup>1</sup> Ergänzungswahlen für Sitze, die während der Amtsperiode frei geworden sind, werden vom Gemeinderat festgesetzt und im Amtsblatt ausgeschrieben. Sie sind, wenn nicht besondere Verhältnisse eine Verschiebung nahe legen, innert vier Monaten seit Freiwerden des Sitzes durchzuführen.
+<sup>1</sup> Ergänzungswahlen für Sitze, die während der Amtsperiode frei werden, werden vom Gemeinderat festgesetzt und im Amtsblatt ausgeschrieben. Sie sind, wenn nicht besondere Verhältnisse eine Verschiebung nahelegen, innert vier Monaten durchzuführen, nachdem das Freiwerden eines Sitzes bekannt geworden ist. Für zweite Wahlgänge ist § 56 dieses Gesetzes sinngemäss anwendbar.
+
+<sup>1a</sup> Die Wahlvorschläge für Ergänzungswahlen sind bis zum achtletzten Montag vor dem Wahltag, 17.00 Uhr, einzureichen.
 
 <sup>2</sup> Keine Ergänzungswahl wird durchgeführt, wenn im betreffenden Jahr Gesamterneuerungswahlen stattfinden und die Vakanz bis zum Ende der laufenden Amtsperiode nicht mehr als sechs Monate beträgt.
 
@@ -846,7 +914,7 @@ beschliesst:
 - a) sind die Wahlvorschläge einzureichen (Art. 21 Abs.1 des Bundesgesetzes über die politischen Rechte[^64-1]; BPR);
 - b) können die Wahlvorschläge und die Namen der Unterzeichnerinnen und Unterzeichner eingesehen werden (Art. 26 BPR).
 
-<sup>4</sup> Die Staatskanzlei prüft die Wahlvorschläge und setzt der Vertreterin oder dem Vertreter der Unterzeichnerinnen und Unterzeichner eine Frist an, innert welcher Mängel des Wahlvorschlages behoben, Bezeichnungen, die zu Verwechslungen Anlass geben, geändert und für Vorgeschlagene, deren Namen amtlich gestrichen wurden, Ersatzvorschläge eingereicht werden können (Art. 29 Abs. 1 BPR).
+<sup>4</sup> Die Staatskanzlei prüft die Wahlvorschläge und setzt der Vertreterin oder dem Vertreter der Unterzeichnerinnen und Unterzeichner eine Frist an, innert welcher Mängel des Wahlvorschlags behoben, Bezeichnungen, die zu Verwechslungen Anlass geben, geändert und für Vorgeschlagene, deren Namen amtlich gestrichen wurden, Ersatzvorschläge eingereicht werden können (Art. 29 Abs. 1 BPR).
 
 [^64-1]: SR [161.1](https://db.clex.ch/link/Bund/161.1/de)
 
@@ -855,6 +923,16 @@ beschliesst:
 **Wahlanmeldeschluss**
 
 <sup>1</sup> Wahlanmeldeschluss gemäss Art. 21 BPR ist der zehntletzte Montag vor dem ordentlichen Wahltag. Die Wahlvorschläge müssen an diesem Tag spätestens um 17.00 Uhr bei der Staatskanzlei eintreffen.
+
+#### § 65a
+
+**Vergabe von Listennummern**
+
+<sup>1</sup> Die Listen werden mit arabischen Zahlen nummeriert. Die Nummerierung der Listen erfolgt entsprechend der Zahl der für die Sitzzuteilung im Rat massgebenden Stimmen, die bei der letzten Gesamterneuerungswahl auf die Listen entfallen sind, wobei die Liste mit der höchsten Stimmenzahl die Nummer 1 erhält. Die Stimmen von Listen, für die Unterlistenverbindungen bestehen, werden zusammengezählt. Bei mehreren Listen mit gleicher Stimmenzahl erfolgt die Reihenfolge der Listennummern für diese Listen alphabetisch nach den Anfangsbuchstaben ihrer Titel.
+
+<sup>2</sup> Wird eine Liste gleichen Namens nach Geschlecht, Flügel einer Gruppierung, Region oder Alter aufgeteilt, so erhalten diese weiteren Listen die gleiche Ordnungsnummer und werden zusätzlich durch einen Buchstaben gekennzeichnet. Die Stammliste erhält stets den Buchstaben a.
+
+<sup>3</sup> Neu eingereichte Listen erhalten die durch die bisherigen Listen noch nicht belegten Nummern und werden in alphabetischer Reihenfolge nach den Anfangsbuchstaben ihrer Titel im Anschluss an die gemäss Abs. 1 geordneten Listen aufgeführt.
 
 ## 4. Strafbestimmungen
 
@@ -916,35 +994,24 @@ beschliesst:
 
 [^69-1]: Delegation an die zuständige Direktion für genau umschriebene Entscheide bei Stimmrechtsbeschwerden (§ 3 Abs. 4 und 5 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)).
 
-## 6. Schluss- und Übergangsbestimmungen
+## 6. Übergangsbestimmungen
 
 #### § 70
 
-**Änderung bisherigen Rechts[^70-1]**
+**Verbleib gewählter Mitglieder des Stimmbüros**
 
-[^70-1]: Die Änderungen sind in den entsprechenden Erlassen abgedruckt und werden hier nicht publiziert.
+<sup>1</sup> Personen, die gemäss § 5 Abs. 1 für eine feste Amtsdauer in das Stimmbüro gewählt wurden, dürfen bis zum Ablauf ihrer Amtsdauer im Stimmbüro verbleiben, auch wenn sie die Anforderungen von § 5 Abs. 2 in der neuen Fassung nicht mehr erfüllen.
 
 #### § 71
 
-**Aufgehobenes Recht**
-
-<sup>1</sup> Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes wird das Gesetz über die Wahlen und Abstimmungen[^71-1] vom 23. Januar 1969 aufgehoben.
-
-[^71-1]: GS 19, 543
+**…**
 
 #### § 72
 
-**Vollzug**
-
-<sup>1</sup> Der Regierungsrat erlässt die Vollzugsbestimmungen.
+**…**
 
 #### § 73
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum gemäss § 34 der Kantonsverfassung. Dieses Gesetz bedarf der Genehmigung des Bundes.[^73-1] Es tritt nach Genehmigung durch den Bund und nach unbenutzter Referendumsfrist (§ 34 der Kantonsverfassung) oder nach der Annahme durch das Volk am Tage nach der Veröffentlichung im Amtsblatt in Kraft[^73-2].
-
-[^73-1]: Vom Bund genehmigt am 6. Dez. 2006
-[^73-2]: Inkrafttreten am 16. Dez. 2006
+**…**
 
 GS 28, 883
