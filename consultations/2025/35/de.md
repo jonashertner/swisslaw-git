@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neues Bundesgesetz über die Förderung von Landesausstellungen (LaFG)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Legge federale sul sostegno alle esposizioni nazionali (LSEN) (Originario : Nuova legge federale sulla promozione delle esposizioni nazionali [LPEN])"
 document: Progetto posto in consultazione
 language: it

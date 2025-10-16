@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouvelle loi fédérale sur le soutien aux expositions nationales (LSEN)
 document: Projet mis en consultation
 language: fr
