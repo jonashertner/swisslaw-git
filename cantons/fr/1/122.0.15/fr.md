@@ -3,13 +3,12 @@ canton: FR
 number: "122.0.15"
 title: Règlement protocolaire
 language: fr
-version: 2023-09-04
-valid_until: 2025-10-16
-version_adopted: 2023-09-04
+version: 2025-10-17
+version_adopted: 2025-10-15
 adopted: 2023-09-04
 in_force: 2023-09-04
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7914/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8424/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7914/pdf_file"
 
 Règlement protocolaire
 
-du 04.09.2023 (version entrée en vigueur le 04.09.2023)
+du 04.09.2023 (version entrée en vigueur le 17.10.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -92,7 +91,7 @@ Arrête:
 
 <sup>1</sup> La Chancellerie d'Etat est responsable du pavoisement. Elle peut déléguer cette tâche au Service des bâtiments.
 
-<sup>2</sup> Le drapeau fribourgeois est hissé sur l'Hôtel cantonal, le bâtiment de la Chancellerie d'Etat sis à la rue des Chanoines 17 et sur certains édifices administratifs cantonaux importants aux occasions suivantes:
+<sup>2</sup> Le drapeau fribourgeois est hissé sur l'Hôtel cantonal, le bâtiment historique de la Chancellerie d'Etat sis à la rue des Chanoines 17 et sur certains édifices administratifs cantonaux importants aux occasions suivantes:
 
 - a) la Fête nationale du 1<sup>er</sup> août;
 - b) la Fête-Dieu;

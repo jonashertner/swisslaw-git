@@ -3,13 +3,12 @@ canton: FR
 number: "122.0.15"
 title: Protokollreglement
 language: de
-version: 2023-09-04
-valid_until: 2025-10-16
-version_adopted: 2023-09-04
+version: 2025-10-17
+version_adopted: 2025-10-15
 adopted: 2023-09-04
 in_force: 2023-09-04
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/7914/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7914/pdf_file"
 
 Protokollreglement
 
-vom 04.09.2023 (Fassung in Kraft getreten am 04.09.2023)
+vom 04.09.2023 (Fassung in Kraft getreten am 17.10.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -90,7 +89,7 @@ beschliesst:
 
 <sup>1</sup> Die Staatskanzlei ist für die Beflaggung verantwortlich. Sie kann diese Aufgabe dem Hochbauamt übertragen.
 
-<sup>2</sup> Die Freiburger Fahne wird bei folgenden Gelegenheiten auf dem Rathaus, auf dem Gebäude der Staatskanzlei an der Chorherrengasse 17 und auf gewissen wichtigen kantonalen Verwaltungsgebäuden gehisst:
+<sup>2</sup> Die Freiburger Fahne wird bei folgenden Gelegenheiten auf dem Rathaus, auf dem historischen Gebäude der Staatskanzlei an der Chorherrengasse 17 und auf gewissen wichtigen kantonalen Verwaltungsgebäuden gehisst:
 
 - a) am Nationalfeiertag am 1. August;
 - b) an Fronleichnam;
