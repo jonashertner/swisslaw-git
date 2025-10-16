@@ -4,13 +4,12 @@ number: "161.1"
 title: Gesetz über die Organisation der Zivil- und Strafrechtspflege
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2025-01-03
-valid_until: 2025-10-16
-version_adopted: 2024-08-29
+version: 2025-10-17
+version_adopted: 2025-06-05
 adopted: 2010-08-26
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2673/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2739/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2673/pdf_file"
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 26. August 2010 (Stand 3. Januar 2025)
+Vom 26. August 2010 (Stand 17. Oktober 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -212,9 +211,12 @@ beschliesst:
 
 - a) für einzelne Verfahren, wenn sämtliche Ersatzmitglieder zu einer ordnungsgemässen Besetzung des Gerichts nicht ausreichen;
 - b) für die Dauer der Verhinderung, wenn eine voll- oder teilamtliche Richterin oder ein voll- oder teilamtlicher Richter infolge Krankheit oder aus anderen Gründen voraussichtlich für mehrere Monate an der Ausübung des Amtes verhindert sein wird;
-- c) für die Dauer von höchstens zwei Jahren, wenn ein Gericht wegen einer ausserordentlichen Zunahme der Arbeitslast nicht mehr in der Lage ist, seine Aufgaben innert angemessener Frist zu erfüllen.
+- c) für die Dauer von höchstens zwei Jahren, wenn ein Gericht wegen einer ausserordentlichen Zunahme der Arbeitslast nicht mehr in der Lage ist, seine Aufgaben innert angemessener Frist zu erfüllen;
+- d) für den Rest der Amtsperiode, wenn gemäss § 57 Abs. 3 WAG[^16-1] keine Ergänzungswahl durchgeführt wird.
 
 <sup>2</sup> Wählbar sind die in schweizerischen Angelegenheiten Stimmberechtigten.
+
+[^16-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 ### 2.1.2. Obergericht
 
