@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die gemeinsame Staatsgrenze von Konstanz bis Basel
 document: Vernehmlassungsvorlage-2
 language: de

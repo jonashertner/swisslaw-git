@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Traité entre la République fédérale d’Allemagne et la Confédération suisse relatif à la frontière commune entre Constance et Bâle
 document: Projet mis en consultation-2
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Trattato tra la Repubblica Federale di Germania e la Confederazione Svizzera riguardo al confine comune da Costanza a Basilea
 document: Progetto posto in consultazione-2
 language: it
