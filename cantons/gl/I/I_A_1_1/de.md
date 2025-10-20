@@ -3,20 +3,20 @@ canton: GL
 number: I A/1/1
 title: Verfassung des Kantons Glarus
 language: de
-version: 2025-05-04
-valid_until: 2025-10-20
-version_adopted: 2025-05-04
+version: 2025-10-21
+valid_until: 2025-12-31
+version_adopted: 2010-05-02
 adopted: 1988-05-01
 in_force: 1988-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-A.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2572/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Glarus
 
-Vom 01.05.1988 (Stand 04.05.2025)
+Vom 01.05.1988 (Stand 21.10.2025)
 
 Das Volk des Landes Glarus, eingedenk seiner Verantwortung vor Gott, den Menschen und der Schweizerischen Eidgenossenschaft, gibt sich folgende
 
@@ -906,7 +906,7 @@ Verfassung:
 - a. die Festsetzung des Budgets, die Prüfung und Abnahme der Jahresrechnung und die Kenntnisnahme des Integrierten Aufgaben- und Finanzplans;
 - b. Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck, die 1 Million Franken, und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck, die 200 000 Franken im Jahr nicht übersteigen;
 - c. der freie Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 600 000 Franken bis zu 5 Millionen Franken;
-- d. Beschlüsse über die Aufnahme und Erneuerung langfristiger Anleihen.
+- d. …
 
 #### Art. 91
 
@@ -923,7 +923,7 @@ Verfassung:
 - g. der Entscheid von Kompetenzstreitigkeiten zwischen dem Regierungsrat und den Gerichten;
 - h. das Recht der Begnadigung in den durch Gesetz vorgesehenen Fällen;
 - i. die Anordnung kantonaler Truppenaufgebote, wenn die öffentliche Ordnung im Kanton gestört ist oder Gefahr von aussen droht;
-- k. die Abnahme der Rechnungen und Geschäftsberichte der Kantonalen Sachversicherung.
+- k. …
 
 #### Art. 92
 
