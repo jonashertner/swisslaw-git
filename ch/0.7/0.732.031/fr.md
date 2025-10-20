@@ -3,34 +3,35 @@ sr: "0.732.031"
 title: Convention du 26 octobre 1979 sur la protection physique des matières nucléaires et des installations nucléaires (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/505_505_505"
 language: fr
-version: 2022-04-07
+version: 2025-10-21
 adopted: 1979-10-26
 in_force: 1987-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20220407/fr/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20220407-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20220407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20251021/fr/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20251021-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20251021/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention sur la protection physique des matières nucléaires et des installations nucléaires**** ****
+# Convention sur la protection physique des matières nucléaires et des installations nucléaires
 
 RO **1987** 505; FF **1985** II 353[^t-1][^t-2]
 
 Texte original
 
-Conclue à Vienne le 3 mars 1980
+Conclue à Vienne le 26 octobre 1979[^t-3]
 
-Approuvée par l’Assemblée fédérale le 30 septembre 1986[^t-3]
+Approuvée par l’Assemblée fédérale le 30 septembre 1986[^t-4]
 
 Instrument de ratification déposé par la Suisse le 9 janvier 1987
 
 Entrée en vigueur pour la Suisse le 8 février 1987
 
-(Etat le 7 avril 2022)
+(État le 21 octobre 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. 1 de l’Am. du 8 juil. 2005, approuvé par l’Ass. féd. le 13 juin 2008, en vigueur pour la Suisse depuis le 8 mai 2016 ([RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 1041](https://fedlex.data.admin.ch/eli/fga/2008/278)).
-[^t-2]: L’Am. du 8 juil. 2005 ([RS 0.732.031.1](https://fedlex.data.admin.ch/eli/cc/2016/286); [RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) est inséré dans ce texte mais n’est applicable que pour les Etats l’ayant ratifié. Voir en conséquence son propre champ d’application.
-[^t-3]: [RO 1987 504](https://fedlex.data.admin.ch/eli/oc/1987/504_504_504)
+[^t-2]: L’Am. du 8 juil. 2005 ([RS 0.732.031.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2765); [RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) est inséré dans ce texte mais n’est applicable que pour les Etats l’ayant ratifié. Voir en conséquence son propre champ d’application.
+[^t-3]: Erratum du 21 oct. 2025 ([RO 2025 628](https://fedlex.data.admin.ch/eli/oc/2025/628)).
+[^t-4]: [RO 1987 504](https://fedlex.data.admin.ch/eli/oc/1987/504_504_504)
 
 Les États parties à la présente Convention,
 
@@ -64,9 +65,9 @@ reconnaissant qu’il existe des recommandations formulées au niveau internatio
 
 reconnaissant également que la protection physique efficace des matières nucléaires et des installations nucléaires utilisées à des fins militaires relève de la responsabilité de l’État possédant de telles matières nucléaires et installations nucléaires, et étant entendu que lesdites matières et installations font et continueront de faire l’objet d’une protection physique rigoureuse,
 
-sont convenus de ce qui suit:*[^ingress-2]*
+sont convenus de ce qui suit:[^ingress-2]
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^ingress-2]: Nouvelle teneur du préamb. selon le ch. 2 de l’Am. du 8 juil. 2005, approuvé par l’Ass. féd. le 13 juin 2008, en vigueur pour la Suisse depuis le 8 mai 2016 ([RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 1041](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 
 #### Art. 1
@@ -450,11 +451,11 @@ Annexe I
 - b) pour les matières de la catégorie I, le transport s’effectue avec les précautions particulières énoncées plus haut pour le transport des matières des catégories II et III, et, en outre, sous la surveillance constante d’une escorte et dans des conditions assurant une liaison étroite avec des forces d’intervention appropriées,
 - c) pour l’uranium naturel se présentant autrement que sous forme de minerais ou de résidus de minerais, la protection pour le transport de quantités dépassant 500 kg d’uranium comporte la notification préalable de l’expédition spécifiant le mode de transport, l’heure d’arrivée prévue et la confirmation que les matières ont bien été reçues.
 
-Annexe II*[^t-4]*
+Annexe II[^t-5]
 
 ## Tableau: Catégorisation des matières nucléaires
 
-[^t-4]: Mise à jour selon les ch. 14 et 15 de l’Am. du 8 juil. 2005, approuvé par l’Ass. féd. le 13 juin 2008, en vigueur pour la Suisse depuis le 8 mai 2016 ([RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 1041](https://fedlex.data.admin.ch/eli/fga/2008/278)).
+[^t-5]: Mise à jour selon les ch. 14 et 15 de l’Am. du 8 juil. 2005, approuvé par l’Ass. féd. le 13 juin 2008, en vigueur pour la Suisse depuis le 8 mai 2016 ([RO 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 1041](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 
 <table>
 <tr><td>Matière</td><td></td><td colspan="3">Catégorie</td></tr>
@@ -473,29 +474,29 @@ Annexe II*[^t-4]*
 <tr><td colspan="5"><sup>e)</sup> Les autres combustibles qui en vertu de leur teneur originelle en matières fissiles sont classés dans la catégorie I ou dans la catégorie II avant irradiation peuvent entrer dans la catégorie directement inférieure si le niveau de rayonnement du combustible dépasse 1 gray/heure (100 rads/heure) à 1 mètre de distance sans écran.</td></tr>
 </table>
 
-Champ d’application le 7 avril 2022**[^t-5]**
+Champ d’application le 7 avril 2022[^t-6]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>12 septembre</td><td>2003 A</td><td>12 octobre</td><td>2003</td></tr>
-<tr><td>Afrique du Sud<sup>\*</sup></td><td>17 septembre</td><td>2007</td><td>17 octobre</td><td>2007</td></tr>
+<tr><td>Afrique du Sud\*</td><td>17 septembre</td><td>2007</td><td>17 octobre</td><td>2007</td></tr>
 <tr><td>Albanie</td><td>5 mars</td><td>2002 A</td><td>4 avril</td><td>2002</td></tr>
-<tr><td>Algérie<sup>\*</sup></td><td>30 avril</td><td>2003 A</td><td>30 mai</td><td>2003</td></tr>
-<tr><td>Allemagne<sup>\*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
-<tr><td>Andorre<sup>\*</sup></td><td>27 juin</td><td>2006 A</td><td>27 juillet</td><td>2006</td></tr>
+<tr><td>Algérie\*</td><td>30 avril</td><td>2003 A</td><td>30 mai</td><td>2003</td></tr>
+<tr><td>Allemagne\*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Andorre\*</td><td>27 juin</td><td>2006 A</td><td>27 juillet</td><td>2006</td></tr>
 <tr><td>Angola</td><td>21 septembre</td><td>2020 A</td><td>21 octobre</td><td>2020</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>4 août</td><td>1993 A</td><td>3 septembre</td><td>1993</td></tr>
-<tr><td>Arabie Saoudite<sup>\*</sup></td><td>7 janvier</td><td>2009 A</td><td>6 février</td><td>2009</td></tr>
-<tr><td>Argentine<sup>\*</sup></td><td>6 avril</td><td>1989</td><td>6 mai</td><td>1989</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>7 janvier</td><td>2009 A</td><td>6 février</td><td>2009</td></tr>
+<tr><td>Argentine\*</td><td>6 avril</td><td>1989</td><td>6 mai</td><td>1989</td></tr>
 <tr><td>Arménie</td><td>24 août</td><td>1993 A</td><td>23 septembre</td><td>1993</td></tr>
 <tr><td>Australie</td><td>22 septembre</td><td>1987</td><td>22 octobre</td><td>1987</td></tr>
-<tr><td>Autriche<sup>\*\*</sup></td><td>22 décembre</td><td>1988</td><td>21 janvier</td><td>1989</td></tr>
-<tr><td>Azerbaïdjan<sup>\*</sup></td><td>19 janvier</td><td>2004 A</td><td>18 février</td><td>2004</td></tr>
-<tr><td>Bahamas<sup>\*</sup></td><td>21 mai</td><td>2008 A</td><td>20 juin</td><td>2008</td></tr>
-<tr><td>Bahreïn<sup>\*</sup></td><td>10 mai</td><td>2010 A</td><td>9 juin</td><td>2010</td></tr>
+<tr><td>Autriche\*\*</td><td>22 décembre</td><td>1988</td><td>21 janvier</td><td>1989</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>19 janvier</td><td>2004 A</td><td>18 février</td><td>2004</td></tr>
+<tr><td>Bahamas\*</td><td>21 mai</td><td>2008 A</td><td>20 juin</td><td>2008</td></tr>
+<tr><td>Bahreïn\*</td><td>10 mai</td><td>2010 A</td><td>9 juin</td><td>2010</td></tr>
 <tr><td>Bangladesh</td><td>11 mai</td><td>2005 A</td><td>10 juin</td><td>2005</td></tr>
-<tr><td>Bélarus<sup>\*</sup></td><td>9 septembre</td><td>1993 S</td><td>14 juin</td><td>1993</td></tr>
-<tr><td>Belgique<sup>\*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Bélarus\*</td><td>9 septembre</td><td>1993 S</td><td>14 juin</td><td>1993</td></tr>
+<tr><td>Belgique\*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Bénin</td><td>18 septembre</td><td>2019 A</td><td>18 octobre</td><td>2019</td></tr>
 <tr><td>Bolivie</td><td>24 janvier</td><td>2002 A</td><td>23 février</td><td>2002</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>30 juin</td><td>1998 S</td><td>1<sup>er</sup> mars</td><td>1992</td></tr>
@@ -508,38 +509,38 @@ Champ d’application le 7 avril 2022**[^t-5]**
 <tr><td>Canada</td><td>21 mars</td><td>1986</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Cap-Vert</td><td>23 février</td><td>2007 A</td><td>25 mars</td><td>2007</td></tr>
 <tr><td>Chili</td><td>27 avril</td><td>1994 A</td><td>27 mai</td><td>1994</td></tr>
-<tr><td>Chine<sup>\*</sup></td><td>10 janvier</td><td>1989 A</td><td>9 février</td><td>1989</td></tr>
-<tr><td>Chypre<sup>\*</sup></td><td>23 juillet</td><td>1998 A</td><td>22 août</td><td>1998</td></tr>
+<tr><td>Chine\*</td><td>10 janvier</td><td>1989 A</td><td>9 février</td><td>1989</td></tr>
+<tr><td>Chypre\*</td><td>23 juillet</td><td>1998 A</td><td>22 août</td><td>1998</td></tr>
 <tr><td>Colombie</td><td>28 mars</td><td>2003 A</td><td>27 avril</td><td>2003</td></tr>
-<tr><td>Communauté européenne de l’énergie atomique (CEEA/EURATOM)<sup>\* \*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Communauté européenne de l’énergie atomique (CEEA/EURATOM)\* \*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Comores</td><td>18 mai</td><td>2007 A</td><td>17 juin</td><td>2007</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>3 septembre</td><td>2021</td><td>3 octobre</td><td>2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>21 septembre</td><td>2004 A</td><td>21 octobre</td><td>2004</td></tr>
-<tr><td>Corée (Sud)<sup>\*</sup></td><td>7 avril</td><td>1982</td><td>8 février</td><td>1987</td></tr>
+<tr><td>Corée (Sud)\*</td><td>7 avril</td><td>1982</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Costa Rica</td><td>2 mai</td><td>2003 A</td><td>1<sup>er</sup> juin</td><td>2003</td></tr>
 <tr><td>Côte d’Ivoire</td><td>17 octobre</td><td>2012 A</td><td>16 novembre</td><td>2012</td></tr>
 <tr><td>Croatie</td><td>29 septembre</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td>26 septembre</td><td>1997 A</td><td>26 octobre</td><td>1997</td></tr>
+<tr><td>Cuba\*</td><td>26 septembre</td><td>1997 A</td><td>26 octobre</td><td>1997</td></tr>
 <tr><td>Danemark</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Djibouti</td><td>22 juin</td><td>2004 A</td><td>22 juillet</td><td>2004</td></tr>
 <tr><td>Dominique</td><td>8 novembre</td><td>2004 A</td><td>8 décembre</td><td>2004</td></tr>
-<tr><td>El Salvador<sup>\*</sup></td><td>15 décembre</td><td>2006 A</td><td>14 janvier</td><td>2007</td></tr>
+<tr><td>El Salvador\*</td><td>15 décembre</td><td>2006 A</td><td>14 janvier</td><td>2007</td></tr>
 <tr><td>Émirats arabes unis</td><td>16 octobre</td><td>2003 A</td><td>15 novembre</td><td>2003</td></tr>
 <tr><td>Équateur</td><td>17 janvier</td><td>1996</td><td>16 février</td><td>1996</td></tr>
-<tr><td>Érythrée<sup>\*</sup></td><td>13 mars</td><td>2020 A</td><td>12 avril</td><td>2020</td></tr>
-<tr><td>Espagne<sup>\* \*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Érythrée\*</td><td>13 mars</td><td>2020 A</td><td>12 avril</td><td>2020</td></tr>
+<tr><td>Espagne\* \*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Estonie</td><td>9 mai</td><td>1994 A</td><td>8 juin</td><td>1994</td></tr>
 <tr><td>Eswatini</td><td>17 avril</td><td>2003 A</td><td>17 mai</td><td>2003</td></tr>
 <tr><td>États-Unis</td><td>13 décembre</td><td>1982</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Fidji</td><td>23 mai</td><td>2008 A</td><td>22 juin</td><td>2008</td></tr>
-<tr><td>Finlande<sup>\*\*</sup></td><td>22 septembre</td><td>1989</td><td>22 octobre</td><td>1989</td></tr>
-<tr><td>France<sup>\* \*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Finlande\*\*</td><td>22 septembre</td><td>1989</td><td>22 octobre</td><td>1989</td></tr>
+<tr><td>France\* \*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Gabon</td><td>19 février</td><td>2008 A</td><td>20 mars</td><td>2008</td></tr>
 <tr><td>Géorgie</td><td>7 septembre</td><td>2006 A</td><td>7 octobre</td><td>2006</td></tr>
 <tr><td>Ghana</td><td>16 octobre</td><td>2002 A</td><td>15 novembre</td><td>2002</td></tr>
-<tr><td>Grèce<sup>\*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Grèce\*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Grenade</td><td>9 janvier</td><td>2002 A</td><td>8 février</td><td>2002</td></tr>
-<tr><td>Guatemala<sup>\*</sup></td><td>23 avril</td><td>1985</td><td>8 février</td><td>1987</td></tr>
+<tr><td>Guatemala\*</td><td>23 avril</td><td>1985</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Guinée</td><td>29 novembre</td><td>2005 A</td><td>29 décembre</td><td>2005</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 novembre</td><td>2003 A</td><td>24 décembre</td><td>2003</td></tr>
 <tr><td>Guinée-Bissau</td><td>8 octobre</td><td>2008</td><td>7 novembre</td><td>2008</td></tr>
@@ -547,28 +548,28 @@ Champ d’application le 7 avril 2022**[^t-5]**
 <tr><td>Honduras</td><td>28 janvier</td><td>2004 A</td><td>27 février</td><td>2004</td></tr>
 <tr><td>Hongrie</td><td>4 mai</td><td>1984</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Îles Marshall</td><td>7 février</td><td>2003 A</td><td>9 mars</td><td>2003</td></tr>
-<tr><td>Inde<sup>\*</sup></td><td>12 mars</td><td>2002 A</td><td>11 avril</td><td>2002</td></tr>
-<tr><td>Indonésie<sup>\*</sup></td><td>5 novembre</td><td>1986</td><td>8 février</td><td>1987</td></tr>
+<tr><td>Inde\*</td><td>12 mars</td><td>2002 A</td><td>11 avril</td><td>2002</td></tr>
+<tr><td>Indonésie\*</td><td>5 novembre</td><td>1986</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Iraq</td><td>7 juillet</td><td>2014 A</td><td>6 août</td><td>2014</td></tr>
-<tr><td>Irlande<sup>\*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Irlande\*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Islande</td><td>18 juin</td><td>2002 A</td><td>18 juillet</td><td>2002</td></tr>
-<tr><td>Israël<sup>\*</sup></td><td>22 janvier</td><td>2002</td><td>21 février</td><td>2002</td></tr>
-<tr><td>Italie<sup>\* \*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Israël\*</td><td>22 janvier</td><td>2002</td><td>21 février</td><td>2002</td></tr>
+<tr><td>Italie\* \*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Jamaïque</td><td>16 août</td><td>2005 A</td><td>15 septembre</td><td>2005</td></tr>
 <tr><td>Japon</td><td>28 octobre</td><td>1988 A</td><td>27 novembre</td><td>1988</td></tr>
-<tr><td>Jordanie<sup>\*</sup></td><td>7 septembre</td><td>2009 A</td><td>7 octobre</td><td>2009</td></tr>
+<tr><td>Jordanie\*</td><td>7 septembre</td><td>2009 A</td><td>7 octobre</td><td>2009</td></tr>
 <tr><td>Kazakhstan</td><td>2 septembre</td><td>2005 A</td><td>2 octobre</td><td>2005</td></tr>
 <tr><td>Kenya</td><td>11 février</td><td>2002 A</td><td>13 mars</td><td>2002</td></tr>
 <tr><td>Kirghizistan</td><td>15 septembre</td><td>2015 A</td><td>15 octobre</td><td>2015</td></tr>
-<tr><td>Koweït<sup>\*</sup></td><td>23 avril</td><td>2004 A</td><td>23 mai</td><td>2004</td></tr>
-<tr><td>Laos<sup>\*</sup></td><td>29 septembre</td><td>2010 A</td><td>29 septembre</td><td>2010</td></tr>
+<tr><td>Koweït\*</td><td>23 avril</td><td>2004 A</td><td>23 mai</td><td>2004</td></tr>
+<tr><td>Laos\*</td><td>29 septembre</td><td>2010 A</td><td>29 septembre</td><td>2010</td></tr>
 <tr><td>Lesotho</td><td>29 septembre</td><td>2010 A</td><td>29 octobre</td><td>2010</td></tr>
 <tr><td>Lettonie</td><td>6 novembre</td><td>2002 A</td><td>6 décembre</td><td>2002</td></tr>
 <tr><td>Liban</td><td>16 décembre</td><td>1997 A</td><td>15 janvier</td><td>1998</td></tr>
 <tr><td>Libye</td><td>18 octobre</td><td>2000 A</td><td>17 novembre</td><td>2000</td></tr>
 <tr><td>Liechtenstein</td><td>25 novembre</td><td>1986</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Lituanie</td><td>7 décembre</td><td>1993 A</td><td>6 janvier</td><td>1994</td></tr>
-<tr><td>Luxembourg<sup>\*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Luxembourg\*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Macédoine du Nord</td><td>20 septembre</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>28 octobre</td><td>2003 A</td><td>27 novembre</td><td>2003</td></tr>
 <tr><td>Malawi</td><td>17 décembre</td><td>2013 A</td><td>16 janvier</td><td>2014</td></tr>
@@ -581,54 +582,54 @@ Champ d’application le 7 avril 2022**[^t-5]**
 <tr><td>Monaco</td><td>9 août</td><td>1996 A</td><td>8 septembre</td><td>1996</td></tr>
 <tr><td>Mongolie</td><td>28 mai</td><td>1986</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Monténégro</td><td>21 mars</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
-<tr><td>Mozambique<sup>\*</sup></td><td>3 mars</td><td>2003 A</td><td>2 mars</td><td>2003</td></tr>
-<tr><td>Myanmar<sup>\*</sup></td><td>6 décembre</td><td>2016 A</td><td>5 janvier</td><td>2017</td></tr>
+<tr><td>Mozambique\*</td><td>3 mars</td><td>2003 A</td><td>2 mars</td><td>2003</td></tr>
+<tr><td>Myanmar\*</td><td>6 décembre</td><td>2016 A</td><td>5 janvier</td><td>2017</td></tr>
 <tr><td>Namibie</td><td>2 octobre</td><td>2002 A</td><td>1<sup>er</sup> novembre</td><td>2002</td></tr>
 <tr><td>Nauru</td><td>12 août</td><td>2005 A</td><td>11 septembre</td><td>2005</td></tr>
 <tr><td>Nicaragua</td><td>10 décembre</td><td>2004 A</td><td>9 janvier</td><td>2005</td></tr>
 <tr><td>Niger</td><td>19 août</td><td>2004</td><td>18 septembre</td><td>2004</td></tr>
 <tr><td>Nigéria</td><td>4 avril</td><td>2007 A</td><td>4 mai</td><td>2007</td></tr>
 <tr><td>Nioué</td><td>19 juin</td><td>2009 A</td><td>19 juillet</td><td>2009</td></tr>
-<tr><td>Norvège<sup>\*\*</sup></td><td>15 août</td><td>1985</td><td>8 février</td><td>1987</td></tr>
+<tr><td>Norvège\*\*</td><td>15 août</td><td>1985</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>19 décembre</td><td>2003 A</td><td>18 janvier</td><td>2004</td></tr>
-<tr><td>Oman<sup>\*</sup></td><td>11 juin</td><td>2003 A</td><td>11 juillet</td><td>2003</td></tr>
+<tr><td>Oman\*</td><td>11 juin</td><td>2003 A</td><td>11 juillet</td><td>2003</td></tr>
 <tr><td>Ouganda</td><td>10 décembre</td><td>2003 A</td><td>10 janvier</td><td>2004</td></tr>
 <tr><td>Ouzbékistan</td><td>9 février</td><td>1998 A</td><td>11 mars</td><td>1998</td></tr>
-<tr><td>Pakistan<sup>\*</sup></td><td>12 septembre</td><td>2000 A</td><td>12 octobre</td><td>2000</td></tr>
+<tr><td>Pakistan\*</td><td>12 septembre</td><td>2000 A</td><td>12 octobre</td><td>2000</td></tr>
 <tr><td>Palaos</td><td>24 avril</td><td>2007 A</td><td>24 mai</td><td>2007</td></tr>
 <tr><td>Palestine</td><td>11 janvier</td><td>2018 A</td><td>10 février</td><td>2018</td></tr>
 <tr><td>Panama</td><td>1<sup>er</sup> avril</td><td>1999</td><td>1<sup>er</sup> mai</td><td>1999</td></tr>
 <tr><td>Paraguay</td><td>6 février</td><td>1985</td><td>8 février</td><td>1987</td></tr>
-<tr><td>Pays-Bas<sup>\* \*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Pays-Bas\* \*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Aruba</td><td>2 décembre</td><td>2005</td><td>2 décembre</td><td>2005</td></tr>
-<tr><td>Pérou<sup>\*</sup></td><td>11 janvier</td><td>1995 A</td><td>10 février</td><td>1995</td></tr>
+<tr><td>Pérou\*</td><td>11 janvier</td><td>1995 A</td><td>10 février</td><td>1995</td></tr>
 <tr><td>Philippines</td><td>22 septembre</td><td>1981</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Pologne</td><td>5 octobre</td><td>1983</td><td>8 février</td><td>1987</td></tr>
-<tr><td>Portugal<sup>\*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
-<tr><td>Qatar<sup>\*</sup></td><td>9 mars</td><td>2004 A</td><td>8 avril</td><td>2004</td></tr>
+<tr><td>Portugal\*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Qatar\*</td><td>9 mars</td><td>2004 A</td><td>8 avril</td><td>2004</td></tr>
 <tr><td>République centrafricaine</td><td>20 février</td><td>2008 A</td><td>21 mars</td><td>2008</td></tr>
 <tr><td>République dominicaine</td><td>30 avril</td><td>2009</td><td>30 mai</td><td>2009</td></tr>
 <tr><td>République tchèque</td><td>24 mars</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td>Roumanie<sup>\*</sup></td><td>23 novembre</td><td>1993</td><td>23 décembre</td><td>1993</td></tr>
-<tr><td>Royaume-Uni<sup>\* \*\*</sup></td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
-<tr><td>[tab] Guernesey</td><td>11 décembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
-<tr><td>[tab] Île de Man</td><td>11 décembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
-<tr><td>[tab] Jersey</td><td>11 décembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Roumanie\*</td><td>23 novembre</td><td>1993</td><td>23 décembre</td><td>1993</td></tr>
+<tr><td>Royaume-Uni\* \*\*</td><td>6 septembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Guernesey</td><td>11 décembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Île de Man</td><td>11 décembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
+<tr><td>Jersey</td><td>11 décembre</td><td>1991</td><td>6 octobre</td><td>1991</td></tr>
 <tr><td>Russie</td><td>25 mai</td><td>1983</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Rwanda</td><td>28 juin</td><td>2002 A</td><td>28 juillet</td><td>2002</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>29 août</td><td>2008 A</td><td>28 septembre</td><td>2008</td></tr>
-<tr><td>Sainte-Lucie<sup>\*</sup></td><td>14 septembre</td><td>2012 A</td><td>14 octobre</td><td>2012</td></tr>
+<tr><td>Sainte-Lucie\*</td><td>14 septembre</td><td>2012 A</td><td>14 octobre</td><td>2012</td></tr>
 <tr><td>Saint-Marin</td><td>19 janvier</td><td>2015 A</td><td>18 février</td><td>2015</td></tr>
 <tr><td>Sénégal</td><td>3 novembre</td><td>2003 A</td><td>3 décembre</td><td>2003</td></tr>
 <tr><td>Serbie</td><td>5 février</td><td>2002 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Seychelles</td><td>13 août</td><td>2003 A</td><td>12 septembre</td><td>2003</td></tr>
-<tr><td>Singapour<sup>\*</sup></td><td>22 septembre</td><td>2014 A</td><td>22 octobre</td><td>2014</td></tr>
+<tr><td>Singapour\*</td><td>22 septembre</td><td>2014 A</td><td>22 octobre</td><td>2014</td></tr>
 <tr><td>Slovaquie</td><td>10 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>7 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Soudan</td><td>18 mai</td><td>2000 A</td><td>17 juin</td><td>2000</td></tr>
-<tr><td>Suède<sup>\*\*</sup></td><td>1<sup>er</sup> août</td><td>1980</td><td>8 février</td><td>1987</td></tr>
-<tr><td>Suisse<sup>\*\*</sup></td><td>9 janvier</td><td>1987</td><td>8 février</td><td>1987</td></tr>
-<tr><td>Syrie<sup>\*</sup></td><td>5 décembre</td><td>2019 A</td><td>4 janvier</td><td>2020</td></tr>
+<tr><td>Suède\*\*</td><td>1<sup>er</sup> août</td><td>1980</td><td>8 février</td><td>1987</td></tr>
+<tr><td>Suisse\*\*</td><td>9 janvier</td><td>1987</td><td>8 février</td><td>1987</td></tr>
+<tr><td>Syrie\*</td><td>5 décembre</td><td>2019 A</td><td>4 janvier</td><td>2020</td></tr>
 <tr><td>Tadjikistan</td><td>11 juillet</td><td>1996 A</td><td>10 août</td><td>1996</td></tr>
 <tr><td>Tanzanie</td><td>24 mai</td><td>2006 A</td><td>23 juin</td><td>2006</td></tr>
 <tr><td>Tchad</td><td>16 septembre</td><td>2019 A</td><td>16 octobre</td><td>2019</td></tr>
@@ -638,14 +639,14 @@ Champ d’application le 7 avril 2022**[^t-5]**
 <tr><td>Trinité-et-Tobago</td><td>25 avril</td><td>2001 A</td><td>25 mai</td><td>2001</td></tr>
 <tr><td>Tunisie</td><td>8 avril</td><td>1993 A</td><td>8 mai</td><td>1993</td></tr>
 <tr><td>Turkménistan</td><td>7 janvier</td><td>2005 A</td><td>6 février</td><td>2005</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>27 février</td><td>1985</td><td>8 février</td><td>1987</td></tr>
+<tr><td>Turquie\*</td><td>27 février</td><td>1985</td><td>8 février</td><td>1987</td></tr>
 <tr><td>Ukraine</td><td>9 août</td><td>1996 A</td><td>8 septembre</td><td>1996</td></tr>
 <tr><td>Uruguay</td><td>24 octobre</td><td>2003 A</td><td>23 novembre</td><td>2003</td></tr>
-<tr><td>Vietnam<sup>\*</sup></td><td>4 octobre</td><td>2012 A</td><td>3 novembre</td><td>2012</td></tr>
+<tr><td>Vietnam\*</td><td>4 octobre</td><td>2012 A</td><td>3 novembre</td><td>2012</td></tr>
 <tr><td>Yémen</td><td>31 mai</td><td>2007 A</td><td>30 juin</td><td>2007</td></tr>
 <tr><td>Zambie</td><td>7 novembre</td><td>2016 A</td><td>7 décembre</td><td>2016</td></tr>
 <tr><td>Zimbabwe</td><td>20 septembre</td><td>2021 A</td><td>20 octobre</td><td>2021</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): www.iaea.org/ &gt; Français &gt; Ressources &gt; Traités &gt; Traités adoptés sous les auspices de l’AIEA, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): [www.iaea.org/](http://www.iaea.org/) &gt; Français &gt; Ressources &gt; Traités &gt; Traités adoptés sous les auspices de l’AIEA, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-5]: [RO 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (www.fedlex.admin.ch/fr/treaty).
+[^t-6]: [RO 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty)

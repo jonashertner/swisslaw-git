@@ -3,28 +3,29 @@ sr: "0.732.031"
 title: Convenzione del 26 ottobre 1979 sulla protezione fisica delle materie nucleari e degli impianti nucleari (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/505_505_505"
 language: it
-version: 2022-04-07
+version: 2025-10-21
 adopted: 1979-10-26
 in_force: 1987-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20220407/it/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20220407-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20220407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20251021/it/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20251021-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20251021/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione sulla protezione fisica delle materie nucleari e degli impianti nucleari**** ****
+# Convenzione sulla protezione fisica delle materie nucleari e degli impianti nucleari
 
 RU **1987** 505; FF **1985** II 329[^t-1][^t-2]
 
 Traduzione
 
-Conclusa a Vienna il 3 marzo 1980 Approvata dall’Assemblea federale il 30 settembre 1986[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 9 gennaio 1987 Entrata in vigore per la Svizzera l’8 febbraio 1987
+Conclusa a Vienna il 26 ottobre 1979[^t-3] Approvata dall’Assemblea federale il 30 settembre 1986[^t-4] Istrumento di ratificazione depositato dalla Svizzera il 9 gennaio 1987 Entrata in vigore per la Svizzera l’8 febbraio 1987
 
-(Stato 7 aprile 2022)
+(Stato 21 ottobre 2025)
 
 [^t-1]: Nuovo testo giusta il n. 1 della mod. dell’8 lug. 2005, approvata dall’AF il 13 giu. 2008 ed in vigore per la Svizzera dall’8 mag. 2016 ([RU 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 985](https://fedlex.data.admin.ch/eli/fga/2008/278)).
-[^t-2]: La mod. dell’8 lug. 2005 ([RS 0.732.031.1](https://fedlex.data.admin.ch/eli/cc/2016/286); [RU 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) é inserita nel presente testo ma é applicabile unicamente agli Stati che l’hanno ratificata, vedi dunque il relativo campo d’applicazione.
-[^t-3]: [RU 1987 504](https://fedlex.data.admin.ch/eli/oc/1987/504_504_504)
+[^t-2]: La mod. dell’8 lug. 2005 ([RS 0.732.031.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2765); [RU 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) é inserita nel presente testo ma é applicabile unicamente agli Stati che l’hanno ratificata, vedi dunque il relativo campo d’applicazione.
+[^t-3]: Correzione del 21 ott. 2025 ([RU 2025 628](https://fedlex.data.admin.ch/eli/oc/2025/628))
+[^t-4]: [RU 1987 504](https://fedlex.data.admin.ch/eli/oc/1987/504_504_504)
 
 Gli Stati partecipanti alla presente Convenzione,
 
@@ -58,9 +59,9 @@ prendendo atto delle raccomandazioni elaborate a livello internazionale in mater
 
 riconoscendo che una efficace protezione fisica delle materie nucleari e degli impianti nucleari impiegati a fini militari è di competenza dello Stato che possiede tali materie e impianti, e nella certezza che tali materie e impianti sono, e continueranno a essere, oggetto di una protezione fisica rigorosa,
 
-hanno convenuto quanto segue*[^ingress-2]*
+hanno convenuto quanto segue[^ingress-2]
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^ingress-2]: Nuovo testo giusta il n. 2 della mod. dell’8 lug. 2005, approvata dall’AF il 13 giu. 2008 ed in vigore per la Svizzera dall’8 mag. 2016 ([RU 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 985](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 
 #### Art. 1
@@ -444,11 +445,11 @@ Allegato I
 - b) Per le materie della categoria I, il trasporto va effettuato con le precauzioni prescritte per le categorie II e III nonché, inoltre, con la sorveglianza costante d’una scorta in condizioni tali da assicurare uno stretto collegamento con appropriate forze d’intervento;
 - c) Per l’uranio naturale in forme diverse da minerale o residui di minerale, la protezione per il trasporto di quantità superiori a 500 kg d’uranio comporta la previa notifica del mittente specificante il modo di trasporto e la prevista ora d’arrivo, nonché la conferma che le materie sono state recapitate in ordine.
 
-Allegato II*[^t-4]*
+Allegato II[^t-5]
 
 ## Tavola della distribuzione in categorie delle materie nucleari
 
-[^t-4]: Aggiornato dai n. 14 e 15 della mod. dell’8 lug. 2005, approvata dall’AF il 13 giu. 2008 ed in vigore per la Svizzera dall’8 mag. 2016 ([RU 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 985](https://fedlex.data.admin.ch/eli/fga/2008/278)).
+[^t-5]: Aggiornato dai n. 14 e 15 della mod. dell’8 lug. 2005, approvata dall’AF il 13 giu. 2008 ed in vigore per la Svizzera dall’8 mag. 2016 ([RU 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [FF 2008 985](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 
 <table>
 <tr><td>Materia</td><td></td><td colspan="3">Categoria</td></tr>
@@ -467,7 +468,7 @@ Allegato II*[^t-4]*
 <tr><td colspan="5"><sup>e)</sup> Gli altri combustibili che, dato il loro tenore originario in materie fissili, sono classificati in categoria I o II prima dell’irradiazione possono passare nella categoria immediatamente inferiore qualora il livello d’irraggiamento del combustibile non superi 1 gray/ora (100 rads/ora) a 1 metro di distanza e senza schermo.</td></tr>
 </table>
 
-Campo d’applicazione il 7 aprile 2022**[^t-5]**
+Campo d’applicazione il 7 aprile 2022[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -642,4 +643,4 @@ Campo d’applicazione il 7 aprile 2022**[^t-5]**
 <tr><td colspan="6">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito internet dell’Agenzia internazionale per l’energia atomica (AIEA) www.iaea.org/resources/treaties/treaties-under-IAEA-auspices oppure ottenuto presso Direzione del diritto internazionale pubblico (DDIP), Sezione dei Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-5]: [RU 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-6]: [RU 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty

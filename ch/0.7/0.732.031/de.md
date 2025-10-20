@@ -3,28 +3,29 @@ sr: "0.732.031"
 title: Übereinkommen vom 26. Oktober 1979 über den physischen Schutz von Kernmaterial und Kernanlagen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/505_505_505"
 language: de
-version: 2022-04-07
+version: 2025-10-21
 adopted: 1979-10-26
 in_force: 1987-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20220407/de/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20220407-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20220407/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/505_505_505/20251021/de/xml/fedlex-data-admin-ch-eli-cc-1987-505_505_505-20251021-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/505_505_505/20251021/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über den physischen Schutz von Kernmaterial und Kernanlagen**** ****
+# Übereinkommen über den physischen Schutz von Kernmaterial und Kernanlagen
 
 AS **1987** 505; BBl **1985** II 361[^t-1][^t-2]
 
 Übersetzung
 
-Abgeschlossen in Wien am 3. März 1980 Von der Bundesversammlung genehmigt am 30. September 1986[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 9. Januar 1987 In Kraft getreten für die Schweiz am 8. Februar 1987
+Abgeschlossen in Wien am 26. Oktober 1979[^t-3] Von der Bundesversammlung genehmigt am 30. September 1986[^t-4] Schweizerische Ratifikationsurkunde hinterlegt am 9. Januar 1987 In Kraft getreten für die Schweiz am 8. Februar 1987
 
-(Stand am 7. April 2022)
+(Stand am 21. Oktober 2025)
 
 [^t-1]: Fassung gemäss Ziff. 1 der Änd. vom 8. Juli 2005, von der BVers genehmigt am 13. Juni 2008 und in Kraft für die Schweiz seit 8. Mai 2016 ([AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [BBl 2008 1153](https://fedlex.data.admin.ch/eli/fga/2008/278)).
-[^t-2]: Die Änd. vom 8. Juli 2005 ([SR 0.732.031.1](https://fedlex.data.admin.ch/eli/cc/2016/286); [AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
-[^t-3]: [AS 1987 504](https://fedlex.data.admin.ch/eli/oc/1987/504_504_504)
+[^t-2]: Die Änd. vom 8. Juli 2005 ([SR 0.732.031.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2765); [AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
+[^t-3]: Berichtigung vom 21. Okt. 2025 ([AS 2025 628](https://fedlex.data.admin.ch/eli/oc/2025/628)).
+[^t-4]: [AS 1987 504](https://fedlex.data.admin.ch/eli/oc/1987/504_504_504)
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -58,9 +59,9 @@ in Anerkennung dessen, dass es auf internationaler Ebene ausgearbeitete Empfehlu
 
 ebenfalls in Anerkennung dessen, dass der wirksame physische Schutz von militärischen Zwecken dienendem Kernmaterial und Kernanlagen in der Verantwortung des Staates liegt, der solches Kernmaterial und solche Kernanlagen besitzt und davon ausgehend, dass solches Material und solche Anlagen einem strikten physischen Schutz untersteht und weiterhin unterstehen wird,
 
-sind wie folgt übereingekommen:*[^ingress-4]*
+sind wie folgt übereingekommen:[^ingress-4]
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160), A: «Satzung».
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41), A: «Satzung».
 [^ingress-2]: A: «rechtswidrigen Handels».
 [^ingress-3]: A, D: «soll».
 [^ingress-4]: Fassung gemäss Ziff. 2 der Änd. vom 8. Juli 2005, von der BVers genehmigt am 13. Juni 2008 und in Kraft für die Schweiz seit 8. Mai 2016 ([AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [BBl 2008 1153](https://fedlex.data.admin.ch/eli/fga/2008/278)).
@@ -452,21 +453,21 @@ Anhang I
 - b) Bei Material der Kategorie I findet der Transport unter den besonderen Vorsichtsmassnahmen der für den Transport von Material der Kategorien II und III beschriebenen Art sowie zusätzlich unter ständiger Überwachung durch Begleitpersonal und unter Bedingungen statt, die eine enge Verbindung zu angemessenen Interventionskräften gewährleisten.
 - c) Bei Natururan, sofern es sich nicht um Erz oder Erzrückstände handelt, umfasst der Transportschutz für Mengen über 500 kg Uran die vorherige Ankündigung der Sendung, unter Angabe des Transportmittels und der voraussichtlichen Ankunftszeit, sowie die Bestätigung des Empfangs der Sendung.
 
-Anhang II[^t-4]
+Anhang II[^t-5]
 
 ## Tabelle: Kategorisierung von Kernmaterial
 
-[^t-4]: Bereinigt gemäss Ziff. 14 und 15 der Änd. vom 8. Juli 2005, von der BVers genehmigt am 13. Juni 2008 und in Kraft für die Schweiz seit 8. Mai 2016 ([AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [BBl 2008 1153](https://fedlex.data.admin.ch/eli/fga/2008/278)).
+[^t-5]: Bereinigt gemäss Ziff. 14 und 15 der Änd. vom 8. Juli 2005, von der BVers genehmigt am 13. Juni 2008 und in Kraft für die Schweiz seit 8. Mai 2016 ([AS 2016 1487](https://fedlex.data.admin.ch/eli/oc/2016/286); [BBl 2008 1153](https://fedlex.data.admin.ch/eli/fga/2008/278)).
 
 <table>
 <tr><td>Material</td><td>Form</td><td colspan="3">Kategorie</td></tr>
 <tr><td>1. Plutonium<sup>a)</sup></td><td>[tab] Unbestrahlt<sup>b)</sup></td><td>2 kg und mehr</td><td>Weniger als 2 kg jedoch mehr als 500 g</td><td>500 g und weniger, jedoch mehr als 15 g</td></tr>
-<tr><td>2. Uran 235</td><td>[tab] Unbestrahlt<sup>b)</sup></td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>2. Uran 235</td><td>[tab] Unbestrahlt<sup>b)</sup></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– Uran angereichert auf 20 % <sup>235</sup> U und mehr</td><td>5 kg und mehr</td><td>Weniger als 5 kg jedoch mehr als 1 kg</td><td>1 kg und weni-ger, jedoch mehr als 15 g</td></tr>
 <tr><td></td><td>– Uran angereichert auf 10 % <sup>235</sup> U und mehr, jedoch weniger als 20 %</td><td>–</td><td>10 kg und mehr</td><td>weniger als 10 kg, jedoch mehr als 1 kg</td></tr>
 <tr><td></td><td>– Uran angereichert auf mehr als den natürlichen Gehalt, jedoch weniger als 10 % <sup>235</sup> U</td><td>–</td><td>–</td><td>10 kg und mehr</td></tr>
 <tr><td>3. Uran 233</td><td>[tab] Unbestrahlt<sup>b)</sup></td><td>2 kg und mehr</td><td>weniger als 2 kg jedoch mehr als 500 g</td><td>500 g und weniger, jedoch mehr als 15 g</td></tr>
-<tr><td>4. Bestrahlter Brennstoff</td><td>[tab]</td><td></td><td>Abgereichertes Uran oder Natururan, Thorium oder schwach angereicherter Brennstoff (weniger als 10 % spaltbarer Anteil) <sup>d) e)</sup></td><td></td></tr>
+<tr><td>4. Bestrahlter Brennstoff</td><td></td><td></td><td>Abgereichertes Uran oder Natururan, Thorium oder schwach angereicherter Brennstoff (weniger als 10 % spaltbarer Anteil) <sup>d) e)</sup></td><td></td></tr>
 <tr><td colspan="5"><sup>a)</sup> Plutonium mit Ausnahme von Plutonium mit einer mehr als 80-prozentigen Konzentration des Isotops Plutonium 238.</td></tr>
 <tr><td colspan="5"><sup>b)</sup> Material, das nicht in einem Reaktor bestrahlt wurde, oder in einem Reaktor bestrahltes Material, dessen Strahlung unabgeschirmt in einem Meter Abstand 1 Gray/Stunde (100 rad/h) oder weniger beträgt.</td></tr>
 <tr><td colspan="5"><sup>c)</sup> Mengen, die nicht in die Kategorie III fallen, und Natururan sollen entsprechend den Grundsätzen einer umsichtigen Betriebsführung geschützt werden.</td></tr>
@@ -474,7 +475,7 @@ Anhang II[^t-4]
 <tr><td colspan="5"><sup>e)</sup> Sonstiger Brennstoff, der aufgrund seines ursprünglichen Gehalts an spaltbarem Material unbestrahlt in Kategorie I oder II eingestuft wurde, kann um eine Kategorie heruntergestuft werden, wenn die Strahlung des Brennstoffs unabgeschirmt in einem Meter Abstand mehr als 1 Gray/Stunde (100 rad/h) beträgt.</td></tr>
 </table>
 
-Geltungsbereich am 7. April 2022**[^t-5]**
+Geltungsbereich am 7. April 2022[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -514,7 +515,6 @@ Geltungsbereich am 7. April 2022**[^t-5]**
 <tr><td>El Salvador\*</td><td>15. Dezember</td><td>2006 B</td><td>14. Januar</td><td>2007</td></tr>
 <tr><td>Eritrea\*</td><td>13. März</td><td>2020 B</td><td>12. April</td><td>2020</td></tr>
 <tr><td>Estland</td><td>9. Mai</td><td>1994 B</td><td>8. Juni</td><td>1994</td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Europäische Atomgemeinschaft (EURATOM)\* \*\*</td><td>6. September</td><td>1991</td><td>6. Oktober</td><td>1991</td></tr>
 <tr><td>Eswatini</td><td>17. April</td><td>2003 B</td><td>17. Mai</td><td>2003</td></tr>
 <tr><td>Fidschi</td><td>23. Mai</td><td>2008 B</td><td>22. Juni</td><td>2008</td></tr>
@@ -647,7 +647,7 @@ Geltungsbereich am 7. April 2022**[^t-5]**
 <tr><td>Vietnam\*</td><td>4. Oktober</td><td>2012 B</td><td>3. November</td><td>2012</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>20. Februar</td><td>2008 B</td><td>21. März</td><td>2008</td></tr>
 <tr><td>Zypern\*</td><td>23. Juli</td><td>1998 B</td><td>22. August</td><td>1998</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): www.iaea.org/ &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Atomenergie-Organisation (IAEA): [www.iaea.org/](http://www.iaea.org/) &gt; Resources &gt; Treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-5]: [AS 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).
+[^t-6]: [AS 2005 1225](https://fedlex.data.admin.ch/eli/oc/2005/176); [2007 3933](https://fedlex.data.admin.ch/eli/oc/2007/523), [5429](https://fedlex.data.admin.ch/eli/oc/2007/754); [2008 4493](https://fedlex.data.admin.ch/eli/oc/2008/627); [2009 3709](https://fedlex.data.admin.ch/eli/oc/2009/465); [2011 4903](https://fedlex.data.admin.ch/eli/oc/2011/700); [2014 123](https://fedlex.data.admin.ch/eli/oc/2014/13); [2015 5985](https://fedlex.data.admin.ch/eli/oc/2015/926); [2016 503](https://fedlex.data.admin.ch/eli/oc/2016/88); [2017 2539](https://fedlex.data.admin.ch/eli/oc/2017/235); [2018 1201](https://fedlex.data.admin.ch/eli/oc/2018/185); [2020 1867](https://fedlex.data.admin.ch/eli/oc/2020/382); [2022 234](https://fedlex.data.admin.ch/eli/oc/2022/234). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
