@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2025-09-15
+version: 2025-10-21
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20250915-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20250915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20251021/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20251021-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20251021/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 15 septembre 2025)
+du 11 novembre 2015 (État le 21 octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -889,8 +889,8 @@ Annexe 6[^t-4]
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), du 15 août 2024 ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)), le ch. II al. 2 de l’O du 2 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)) et le ch. I de l’O du DEFR du 18 août 2025, en vigueur depuis le 20 août 2025 ([RO 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)).
-[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/514](https://fedlex.data.admin.ch/eli/oc/2025/514) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)), du 15 août 2024 ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)), le ch. II al. 2 de l’O du 2 avr. 2025 ([RO 2025 222](https://fedlex.data.admin.ch/eli/oc/2025/222)), le ch. I des O du DEFR du 18 août 2025 ([RO 2025 514](https://fedlex.data.admin.ch/eli/oc/2025/514)) et du 20 oct. 2025, en vigueur depuis le 21 oct. 2025 à 23 heures ([RO 2025 627](https://fedlex.data.admin.ch/eli/oc/2025/627)).
+[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: : [https://fedlex.data.admin.ch/eli/oc/2025/627](https://fedlex.data.admin.ch/eli/oc/2025/627) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 6a[^t-5]
 
