@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Vertrag vom 17. Dezember 1994 über die Energiecharta (mit Anlagen, Beschlüssen und Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: de
-version: 2025-10-02
+version: 2025-10-22
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251002/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251002-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251002/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251022/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251022-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251022/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 2. Oktober 2025)
+(Stand am 22. Oktober 2025)
 
 [^t-1]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -36,37 +36,38 @@ eingedenk dessen, dass sich alle Unterzeichner des Abschlussdokuments der Haager
 
 ferner in dem Wunsch, einen festen Rahmen zu schaffen, der für die Verwirklichung der in der Europäischen Energiecharta verkündeten Grundsätze erforderlich ist;
 
-von dem Wunsch geleitet, den Grundgedanken der Europäischen Energiecharta-Initiative zu verwirklichen, der darin besteht, das Wirtschaftswachstum durch Massnahmen zur Liberalisierung der Investitionen und des Handels mit Primärenergieträgern und Energieerzeugnissen zu fördern;
+von dem Wunsch geleitet, den Grundgedanken der Europäischen Energiecharta-Initiative zu verwirklichen, der darin besteht, das Wirtschaftswachstum durch Massnahmen zur Liberalisierung der Investitionen und des Handels mit Energie zu fördern;[^ingress-1]
 
 in Bekräftigung dessen, dass die Vertragsparteien einer wirksamen Anwendung der vollen Inländerbehandlung und der Meistbegünstigungsbehandlung grösste Bedeutung beimessen und dass diese Verpflichtungen auf die Vornahme von Investitionen entsprechend einem Zusatzvertrag angewandt werden;
 
-im Hinblick auf das Ziel einer schrittweisen Liberalisierung des Welthandels und auf den Grundsatz, Diskriminierungen im Welthandel zu vermeiden, der im Übereinkommen zur Errichtung der Welthandelsorganisation[^ingress-1] und seinen dazugehörigen Rechtsinstrumenten niedergelegt und in diesem Vertrag im übrigen vorgesehen ist;
+im Hinblick auf das Ziel einer schrittweisen Liberalisierung des Welthandels und auf den Grundsatz, Diskriminierungen im Welthandel zu vermeiden, der im Übereinkommen zur Errichtung der Welthandelsorganisation[^ingress-2] und seinen dazugehörigen Rechtsinstrumenten niedergelegt und in diesem Vertrag im übrigen vorgesehen ist;
 
-entschlossen, technische, verwaltungsrechtliche und sonstige Hemmnisse im Handel mit Primärenergieträgern und Energieerzeugnissen und damit zusammenhängenden energiebezogenen Ausrüstungen[^ingress-2], Technologien und Dienstleistungen schrittweise zu beseitigen;
+entschlossen, technische, verwaltungsrechtliche und sonstige Hemmnisse im Handel mit Primärenergieträgern und Energieerzeugnissen und damit zusammenhängenden energiebezogenen Ausrüstungen[^ingress-3], Technologien und Dienstleistungen schrittweise zu beseitigen;
 
-in der Erwartung, dass die Vertragsparteien, die derzeit noch nicht Mitglied der Welthandelsorganisation sind, schliesslich Mitglied werden werden, und in dem Bestreben, vorläufige Handelsvereinbarungen zu treffen, welche diese Vertragsparteien unterstützen und ihrer Vorbereitung auf diese Mitgliedschaft[^ingress-3] nicht im Wege stehen;
+in der Erwartung, dass die Vertragsparteien, die derzeit noch nicht Mitglied der Welthandelsorganisation sind, schliesslich Mitglied werden werden, und in dem Bestreben, vorläufige Handelsvereinbarungen zu treffen, welche diese Vertragsparteien unterstützen und ihrer Vorbereitung auf diese Mitgliedschaft[^ingress-4] nicht im Wege stehen;
 
-eingedenk der Rechte und Pflichten derjenigen Vertragsparteien, die auch Mitglied der Welthandelsorganisation[^ingress-4] sind;
+eingedenk der Rechte und Pflichten derjenigen Vertragsparteien, die auch Mitglied der Welthandelsorganisation[^ingress-5] sind;
 
 im Hinblick auf Wettbewerbsbestimmungen über Fusionen, Monopole, wettbewerbswidrige Verhaltensweisen und Missbrauch einer beherrschenden Stellung;
 
-ferner im Hinblick auf den Vertrag über die Nichtverbreitung von Kernwaffen[^ingress-5], die Richtlinien der Gruppe der Nuklearlieferländer und sonstige internationale Verpflichtungen und Absprachen über die Nichtverbreitung im Nuklearbereich;
+ferner im Hinblick auf den Vertrag über die Nichtverbreitung von Kernwaffen[^ingress-6], die Richtlinien der Gruppe der Nuklearlieferländer und sonstige internationale Verpflichtungen und Absprachen über die Nichtverbreitung im Nuklearbereich;
 
 in Anerkennung der Notwendigkeit einer höchst effizienten Aufsuchung, Produktion, Umwandlung, Speicherung, Beförderung, Verteilung und Nutzung von Energie;
 
-eingedenk des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen[^ingress-6], des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung[^ingress-7] und seiner Protokolle sowie anderer internationaler Umweltübereinkünfte mit energiebezogenen Aspekten; und
+eingedenk des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen[^ingress-7], des Übereinkommens über weiträumige grenzüberschreitende Luftverunreinigung[^ingress-8] und seiner Protokolle sowie anderer internationaler Umweltübereinkünfte mit energiebezogenen Aspekten; und
 
 in der Erkenntnis, dass Massnahmen zum Schutz der Umwelt, einschliesslich der Stilllegung energietechnischer Anlagen und der Abfallentsorgung, sowie international vereinbarte Ziele und Kriterien für diesen Zweck immer grössere Dringlichkeit erlangen –
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-1]: Berichtigung vom 22. Okt. 2025 ([AS 2025 633](https://fedlex.data.admin.ch/eli/oc/2025/633)).
 [^ingress-2]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-3]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-4]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-5]: [SR 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
-[^ingress-6]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
-[^ingress-7]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-5]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-6]: [SR 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^ingress-7]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-8]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 ## Teil I Begriffsbestimmungen und Zweck
 
@@ -79,7 +80,7 @@ Im Sinne dieses Vertrags:
 - 1\. bedeutet «Charta» die im Abschlussdokument der Haager Konferenz über die Europäische Energiecharta angenommene Europäische Energiecharta, das am 17. Dezember 1991 in Den Haag unterzeichnet wurde; die Unterzeichnung des Abschlussdokuments gilt als Unterzeichnung der Charta;
 - 2\. bedeutet «Vertragspartei» einen Staat oder eine Organisation der regionalen Wirtschaftsintegration, die zugestimmt haben, durch diesen Vertrag gebunden zu sein und für die der Vertrag in Kraft ist;
 - 3\. bedeutet «Organisation der regionalen Wirtschaftsintegration» eine Organisation, die von Staaten gebildet wird, welche ihr die Zuständigkeit für eine Reihe bestimmter unter diesen Vertrag fallender Angelegenheiten übertragen haben, einschliesslich der Befugnis, in diesen Angelegenheiten für sie bindende Entscheidungen zu treffen;
-- 4\.[^1-1] bedeutet «Energieerzeugnisse» die auf der Grundlage des Harmonisierten Systems der Weltzollorganisation und der Kombinierten Nomenklatur der Europäischen Gemeinschaften in Anlage EM I oder Anlage EM II aufgenommenen Positionen;
+- 4\.[^1-1] bedeutet «Primärenergieträger und Energieerzeugnisse» auf der Grundlage des Harmonisierten Systems des Rates für die Zusammenarbeit auf dem Gebiet des Zollwesens und der Kombinierten Nomenklatur der Europäischen Gemeinschaften in die Anlage EM aufgenommene Positionen;
 - 4a.[^1-2] bedeutet «energiebezogene Ausrüstung» die auf der Grundlage des Harmonisierten Systems der Weltzollorganisation in Anlage EQ I oder Anlage EQ II aufgenommenen Positionen;
 - 5\. bedeutet «Wirtschaftstätigkeit im Energiebereich» eine Wirtschaftstätigkeit betreffend die Aufsuchung, Gewinnung, Veredelung, Produktion, Lagerung, Beförderung über Land, Übertragung, Verteilung sowie den Handel und die Vermarktung oder den Verkauf von Primärenergieträgern und Energieerzeugnissen mit Ausnahme derjenigen, die in Anlage NI enthalten sind, oder betreffend die Verteilung von Wärme auf mehrere Abnahmestellen;
 - 6\.
@@ -128,7 +129,7 @@ Im Sinne dieses Vertrags:
 
 - 14\. bedeutet «frei konvertierbare Währung» eine Währung, die in erheblichem Umfang an den internationalen Devisenmärkten gehandelt und in erheblichem Umfang bei internationalen Transaktionen verwendet wird.
 
-[^1-1]: Fassung gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^1-1]: Fassung gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Berichtigung vom 22. Okt. 2025 ([AS 2025 633](https://fedlex.data.admin.ch/eli/oc/2025/633)).
 [^1-2]: Eingefügt durch Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^1-3]: Fassung gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
@@ -717,21 +718,21 @@ Eine Streitigkeit zwischen Vertragsparteien über die Anwendung oder Auslegung d
 
 **Vorläufige Bestimmungen über Handelsfragen**[^29-1]
 
-<sup>(1)</sup> Dieser Artikel findet auf den Handel mit Energieerzeugnissen und energiebezogener Ausrüstung Anwendung, solange eine Vertragspartei nicht Mitglied der WTO[^29-2] ist.
+<sup>(1)</sup> Dieser Artikel findet auf den Handel mit Primärenergieträgern und Energieerzeugnissen und energiebezogener Ausrüstung Anwendung, solange eine Vertragspartei nicht Mitglied der WTO[^29-2] ist.
 
 Änderungen dieser bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr erhobenen Zölle oder sonstigen Abgaben sind dem Sekretariat zu notifizieren; dieses unterrichtet die Vertragsparteien.
 
-- (2) a) Der Handel mit Energieerzeugnissen und energiebezogener Ausrüstung zwischen Vertragsparteien, von denen mindestens eine nicht Mitglied der WTO ist, wird vorbehaltlich des Buchstaben b und der in Anlage W vorgesehenen Ausnahmen und Regeln durch das WTO-Übereinkommen geregelt, wie es in der Praxis von den Mitgliedern der WTO untereinander auf Energieerzeugnisse und energiebezogene Ausrüstung angewandt wird, als seien alle Vertragsparteien Mitglieder der WTO.
-- b) Der Handel einer Vertragspartei, die zu den Nachfolgestaaten der Union der Sozialistischen Sowjetrepubliken gehört, kann stattdessen vorbehaltlich der Anlage TFU bis zum 1. Dezember 1999 oder bis zur Zulassung dieser Vertragspartei zur WTO, wenn dies der frühere Zeitpunkt ist, durch eine Übereinkunft zwischen zwei oder mehr dieser Staaten geregelt werden.
-- (3) a) Die Unterzeichner dieses Vertrags sowie die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag vor dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Unterzeichnung oder bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Energieerzeugnisse erhoben werden, und notifizieren damit die am Tag der Unterzeichnung oder Hinterlegung geltenden Zoll- und Abgabensätze. Die Unterzeichner dieses Vertrags sowie die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag vor dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Unterzeichnung oder bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf energiebezogene Ausrüstung erhoben werden, und notifizieren damit die am Tag der Unterzeichnung oder Hinterlegung geltenden Zoll- und Abgabensätze.
-- b) Die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag am oder nach dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Energieerzeugnisse und energiebezogene Ausrüstung erhoben werden, und notifizieren damit die am Tag der Hinterlegung geltenden Zoll- und Abgabensätze.
+- (2) a) Der Handel mit Primärenergieträgern und Energieerzeugnissen und energiebezogener Ausrüstung zwischen Vertragsparteien, von denen mindestens eine nicht Mitglied der WTO ist, wird vorbehaltlich des Buchstaben b und der in Anlage W vorgesehenen Ausnahmen und Regeln durch das WTO-Übereinkommen geregelt, wie es in der Praxis von den Mitgliedern der WTO untereinander auf Primärenergieträger und Energieerzeugnisse und energiebezogener Ausrüstung angewandt wird, als seien alle Vertragsparteien Mitglieder der WTO.
+- b) Der Handel einer Vertragspartei, die zu den Nachfolgestaaten der Union der Sozialistischen Sowjetrepubliken gehört, kann statt dessen vorbehaltlich der Anlage TFU bis zum 1. Dezember 1999 oder bis zur Zulassung dieser Vertragspartei zur WTO, wenn dies der frühere Zeitpunkt ist, durch eine Übereinkunft zwischen zwei oder mehr dieser Staaten geregelt werden.
+- (3) a) Die Unterzeichner dieses Vertrags sowie die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag vor dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Unterzeichnung oder bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Primärenergieträger und Energieerzeugnisse erhoben werden, und notifizieren damit die am Tag der Unterzeichnung oder Hinterlegung geltenden Zoll- und Abgabensätze. Die Unterzeichner dieses Vertrags sowie die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag vor dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Unterzeichnung oder bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf energiebezogene Ausrüstung erhoben werden, und notifizieren damit die am Tag der Unterzeichnung oder Hinterlegung geltenden Zoll- und Abgabensätze.
+- b) Die Staaten und die Organisationen für regionale wirtschaftliche Integration, die diesem Vertrag am oder nach dem 24. April 1998 beitreten, übergeben dem Sekretariat bei der Hinterlegung ihrer Beitrittsurkunde eine Liste sämtlicher Zölle und sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Primärenergieträger und Energieerzeugnisse und energiebezogener Ausrüstung erhoben werden, und notifizieren damit die am Tag der Hinterlegung geltenden Zoll- und Abgabensätze.
 
 <sup>(4)</sup>
 
 Die Vertragsparteien bemühen sich, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr erhobenen Zölle und sonstigen Abgaben:
 
-- a) die in Teil I der in Artikel II GATT 1994[^29-3] genannten Liste für die betreffende Vertragspartei beschrieben sind, bei der Einfuhr der in Anlage EM I aufgeführten Energieerzeugnisse oder der in Anlage EQ I aufgeführten energiebezogenen Ausrüstung nicht über die in der Liste festgelegten Sätze hinaus zu erhöhen, falls die Vertragspartei Mitglied der WTO ist;
-- b) bei der Ausfuhr und – falls die betreffende Vertragspartei nicht Mitglied der WTO ist – bei der Einfuhr der in Anlage EM I aufgeführten Energieerzeugnisse oder der in Anlage EQ I aufgeführten energiebezogenen Ausrüstung nicht über die dem Sekretariat zuletzt notifizierten Sätze hinaus zu erhöhen, es sei denn, dass dies nach den gemäss Absatz 2 Buchstabe a anwendbaren Bestimmungen zulässig ist.
+- a) die in Teil I der in Artikel II GATT 1994[^29-3] genannten Liste für die betreffende Vertragspartei beschrieben sind, bei der Einfuhr der in Anlage EM I aufgeführten Primärenergieträger und Energieerzeugnisse oder der in Anlage EQ I aufgeführten energiebezogenen Ausrüstung nicht über die in der Liste festgelegten Sätze hinaus zu erhöhen, falls die Vertragspartei Mitglied der WTO ist;
+- b) bei der Ausfuhr und – falls die betreffende Vertragspartei nicht Mitglied der WTO ist – bei der Einfuhr der in Anlage EM I aufgeführten Primärenergieträger und Energieerzeugnisse oder der in Anlage EQ I aufgeführten energiebezogenen Ausrüstung nicht über die dem Sekretariat zuletzt notifizierten Sätze hinaus zu erhöhen, es sei denn, dass dies nach den gemäss Absatz 2 Buchstabe a anwendbaren Bestimmungen zulässig ist.
 
 <sup>(5)</sup>
 
@@ -740,16 +741,16 @@ Eine Vertragspartei darf die Zölle und sonstigen Abgaben über die in Absatz 4 
 - a) sofern dies bei den bei oder im Zusammenhang mit der Einfuhr erhobenen Zöllen und sonstigen Abgaben mit den geltenden Bestimmungen des WTO-Übereinkommens mit Ausnahme der in Anlage W aufgeführten Bestimmungen des WTO-Übereinkommens vereinbar ist; oder
 - b) sofern sie ihren Vorschlag für die Erhöhung dem Sekretariat soweit wie nach ihrem Gesetzgebungsverfahren praktisch möglich notifiziert, anderen interessierten Vertragsparteien hinreichend Gelegenheit zur Konsultation über den Vorschlag gegeben und die von diesen erhobenen Vorstellungen geprüft hat.
 
-<sup>(6)</sup> Im Handel zwischen Vertragsparteien, von denen mindestens eine nicht Mitglied der WTO ist, erhöht eine solche Vertragspartei die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf die in Anlage EM II aufgeführten Energieerzeugnisse oder die in Anlage EQ II aufgeführte energiebezogene Ausrüstung erhobenen Zölle und sonstigen Abgaben nicht über den niedrigsten Satz hinaus, der an dem Tag gilt, an dem die Chartakonferenz beschliesst, die betreffende Ware in die einschlägige Anlage aufzunehmen.
+<sup>(6)</sup> Im Handel zwischen Vertragsparteien, von denen mindestens eine nicht Mitglied der WTO ist, erhöht eine solche Vertragspartei die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf die in Anlage EM II aufgeführten Primärenergieträger und Energieerzeugnisse oder die in Anlage EQ II aufgeführte energiebezogene Ausrüstung erhobenen Zölle und sonstigen Abgaben nicht über den niedrigsten Satz hinaus, der an dem Tag gilt, an dem die Chartakonferenz beschliesst, die betreffende Ware in die einschlägige Anlage aufzunehmen.
 
 Eine Vertragspartei darf die Zölle und sonstigen Abgaben über diesen Satz hinaus nur erhöhen:
 
 - a) sofern dies bei den bei oder im Zusammenhang mit der Einfuhr erhobenen Zöllen und sonstigen Abgaben mit den geltenden Bestimmungen des WTO-Übereinkommens mit Ausnahme der in Anlage W aufgeführten Bestimmungen des WTO-Übereinkommens vereinbar ist; oder
 - b) sofern die Chartakonferenz in an anderer Stelle in diesem Vertrag nicht geregelten Ausnahmefällen beschliesst, die Vertragspartei von der ihr durch diesen Absatz auferlegten Verpflichtung zu befreien und der Erhöhung eines Zolls unter den von ihr auferlegten Bedingungen zuzustimmen.
 
-<sup>(7)</sup> Abweichend von Absatz 6 erhöhen im Falle der in Anlage EM II aufgeführten Energieerzeugnisse die in Anlage BR aufgeführten Vertragsparteien und im Falle der in Anlage EQ II aufgeführten energiebezogenen Ausrüstung die in Anlage BRQ aufgeführten Vertragsparteien die Zölle und sonstigen Abgaben in dem in Absatz 6 genannten Handel nicht über die sich aus ihren Verpflichtungen im Rahmen des WTO-Übereinkommens oder dessen für sie geltenden Bestimmungen ergebenden Sätze hinaus.
+<sup>(7)</sup> Abweichend von Absatz 6 erhöhen im Falle der in Anlage EM II aufgeführten Primärenergieträger und Energieerzeugnisse die in Anlage BR aufgeführten Vertragsparteien und im Falle der in Anlage EQ II aufgeführten energiebezogenen Ausrüstung die in Anlage BRQ aufgeführten Vertragsparteien die Zölle und sonstigen Abgaben in dem in Absatz 6 genannten Handel nicht über die sich aus ihren Verpflichtungen im Rahmen des WTO-Übereinkommens oder dessen für sie geltenden Bestimmungen ergebenden Sätze hinaus.
 
-<sup>(8)</sup> Auf die sonstigen Zölle und Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Energieerzeugnisse oder energiebezogene Ausrüstung erhoben werden, findet die Vereinbarung zur Auslegung des Artikels II Absatz 1 Buchstabe b GATT 1994 in der Fassung der Anlage W Anwendung.
+<sup>(8)</sup> Auf die sonstigen Zölle und Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr auf Primärenergieträger und Energieerzeugnisse oder energiebezogene Ausrüstung erhoben werden, findet die Vereinbarung zur Auslegung des Artikels II Absatz 1 Buchstabe b GATT 1994 in der Fassung der Anlage W Anwendung.
 
 <sup>(9)</sup>
 
@@ -764,7 +765,7 @@ Anlage D findet jedoch keine Anwendung auf Streitigkeiten zwischen Vertragsparte
 - i) die nach Absatz 2 Buchstabe b und Anlage TFU notifiziert worden ist und deren übrigen Anforderungen gerecht wird; oder
 - ii) durch die eine Freihandelszone oder eine Zollunion im Sinne des Artikels XXIV GATT 1994 errichtet wird.
 
-[^29-1]: Fassung gemäss Art. 1 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^29-1]: Fassung gemäss Art. 1 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Berichtigung vom 22. Okt. 2025 ([AS 2025 633](https://fedlex.data.admin.ch/eli/oc/2025/633)).
 [^29-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 [^29-3]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235); Anhang 1A
 
@@ -1200,9 +1201,9 @@ Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung a
 
 \2. Anlage EM II[^t-4]
 
-## Energieerzeugnisse
+## Primärenergieträger und Energieerzeugnisse
 
-[^t-4]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-4]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Berichtigung vom 22. Okt. 2025 ([AS 2025 633](https://fedlex.data.admin.ch/eli/oc/2025/633)).
 
 (nach Art. 1 Abs. 4)
 
@@ -1210,7 +1211,7 @@ Liste der Unterzeichner, welche die Verpflichtungen zur vorläufigen Anwendung a
 
 ## Liste der energiebezogenen Ausrüstung
 
-[^t-5]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-5]: Eingefügt durch Art. 5 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Berichtigung vom 22. Okt. 2025 ([AS 2025 633](https://fedlex.data.admin.ch/eli/oc/2025/633)).
 
 (nach Art. 1 Abs. 4a)
 
@@ -1402,7 +1403,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td>Ex 85.44</td><td colspan="2">Isolierte (auch lackisolierte oder elektrolytisch oxidierte) Drähte, Kabel (einschliesslich Koaxialkabel) und andere isolierte elektrische Leiter, auch mit Anschlussstücken; Kabel aus optischen, einzeln umhüllten Fasern, auch elektrische Leiter enthaltend oder mit Anschlussstücken versehen:</td></tr>
 <tr><td></td><td></td><td>8544.60</td><td>– andere elektrische Leiter, für eine Spannung von mehr als 1.000 V</td></tr>
 <tr><td></td><td></td><td>8544.70</td><td>– Kabel aus optischen Fasern</td></tr>
-<tr><td></td><td>Ex 85.45</td><td colspan="2">Kohleelektroden, Kohlebürsten, Lampenkohlen, Batterie- und Elementekohlen und andere Waren für elektrotechnische Zwecke, aus Grafit oder anderem Kohlenstoff, auch in Verbindung mit Metall:</td></tr>
+<tr><td></td><td>Ex 85.45</td><td colspan="2">Kohlenstoffelektroden, Kohlebürsten, Lampenkohlen, Batteriekohlen und andere Waren aus Graphit oder anderem Kohlenstoff, mit oder ohne Metall, zur Verwendung für elektrische Zwecke:</td></tr>
 <tr><td></td><td></td><td>8545.20</td><td>– Kohlebürsten</td></tr>
 <tr><td></td><td>85.46</td><td colspan="2">Elektrische Isolatoren aus Stoffen aller Art</td></tr>
 <tr><td></td><td>85.47</td><td colspan="2">Isolierteile, ganz aus Isolierstoffen oder nur mit in die Masse eingepressten einfachen Metallteilen zum Befestigen (z. B. mit eingepressten Hülsen mit Innengewinde), für elektrische Maschinen, Apparate, Geräte oder Installationen, ausgenommen Isolatoren der Position 85.46; Isolierrohre und Verbindungsstücke dazu, aus unedlen Metallen, mit Innenisolierung</td></tr>
@@ -1540,8 +1541,7 @@ Ex 44.01 Brennholz in Form von Rundlingen, Scheiten, Zweigen, Reisigbündeln ode
   - ii) Wasserstoff auf Strombasis; oder
   - iii) Wasserstoff, der mit anderen Produktionsmethoden hergestellt wird;
 
-die dem Low Carbon Hydrogen Standard des Vereinigten Königreichs in der zum Zeitpunkt der getätigten Investition veröffentlichten Fassung entspricht.
-
+- die dem Low Carbon Hydrogen Standard des Vereinigten Königreichs in der zum Zeitpunkt der getätigten Investition veröffentlichten Fassung entspricht.
 - c)
 
   Die Buchstaben a und b gelten nicht für die folgenden Primärenergieträger und Energieerzeugnisse, die weiterhin in den Geltungsbereich der Definition der Wirtschaftstätigkeit im Energiebereich bleiben:
@@ -1727,7 +1727,7 @@ Alle solchen für neue Investitionen geltenden handelsbezogenen Investitionsmass
 
 ## Ausnahmen und Regeln für die Anwendung des WTO-Übereinkommens
 
-[^t-14]: Ursprünglich 9. Anlage G. Fassung gemäss Art. 4 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-14]: Ursprünglich 9. Anlage G. Fassung gemäss Art. 4 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Berichtigung vom 22. Okt. 2025 ([AS 2025 633](https://fedlex.data.admin.ch/eli/oc/2025/633)).
 
 (nach Art. 29 Abs. 2 Bst. a)
 
@@ -1987,7 +1987,7 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 
 (4) Die Bestimmungen des Artikels II GATT 1994, deren Anwendung nicht ausgesetzt ist, werden unbeschadet des Artikels 29 Absätze 4, 5 und 7 wie folgt geändert:
 
-- i) Die in Anlage EM II aufgeführten Energieerzeugnisse und die in Anlage EQ II aufgeführte energiebezogene Ausrüstung, die aus einer Vertragspartei eingeführt oder in eine Vertragspartei ausgeführt werden, sind auch von allen anderen Abgaben und Belastungen jeder Art befreit, die anlässlich oder im Zusammenhang mit der Einfuhr oder Ausfuhr auferlegt werden, soweit sie die Abgaben und Belastungen übersteigen, die an dem in der Stillhalteklausel des Artikels 29 Absatz 6 Satz 1 und Absatz 7 genannten Stichtag auferlegt werden oder nach diesem Zeitpunkt auf Grund der an dem in Artikel 29 Absatz 6 Satz 1 genannten Stichtag im Einfuhr- bzw. Ausfuhrland geltenden Rechtsvorschriften unmittelbar oder zwangsläufig aufzuerlegen sind.
+- i) Die in Anlage EM II aufgeführten Primärenergieträger und Energieerzeugnisse und die in Anlage EQ II aufgeführte energiebezogene Ausrüstung, die aus einer Vertragspartei eingeführt oder in eine Vertragspartei ausgeführt werden, sind auch von allen anderen Abgaben und Belastungen jeder Art befreit, die anlässlich oder im Zusammenhang mit der Einfuhr oder Ausfuhr auferlegt werden, soweit sie die Abgaben und Belastungen übersteigen, die an dem in der Stillhalteklausel des Artikels 29 Absatz 6 Satz 1 und Absatz 7 genannten Stichtag auferlegt werden oder nach diesem Zeitpunkt auf Grund der an dem in Artikel 29 Absatz 6 Satz 1 genannten Stichtag im Einfuhr- bzw. Ausfuhrland geltenden Rechtsvorschriften unmittelbar oder zwangsläufig aufzuerlegen sind.
 - ii)
 
   Die Bestimmungen des Artikels II GATT 1994 schliessen nicht aus, dass eine Vertragspartei einer Ware bei der Einfuhr oder Ausfuhr jederzeit folgende Belastungen auferlegt:
@@ -2006,8 +2006,8 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 
 (5) Die Entscheidung vom 26. März 1980 zur «Einführung einer Loseblattsammlung für die Listen der Zollzugeständnisse» (BISD 27S/24) findet im Rahmen des Artikels 29 Absatz 2 Buchstabe a keine Anwendung. Die anwendbaren Bestimmungen der Vereinbarung zur Auslegung des Artikels II Absatz 1 Buchstabe b GATT 1994 gelten unbeschadet des Artikels 29 Absätze 4, 5 und 7 mit folgenden Änderungen:
 
-- i) Zur Gewährleistung der Transparenz der aus Artikel II Absatz 1 Buchstabe b GATT 1994 hergeleiteten Rechte und Verpflichtungen werden Art und Höhe der bei der Einfuhr oder Ausfuhr auf die in Anlage EM II aufgeführten Energieerzeugnisse und die in Anlage EQ II aufgeführte energiebezogene Ausrüstung erhobenen «anderen Abgaben und Belastungen» im Sinne der genannten Bestimmung im Tarifregister bei der betreffenden Zolltarifposition mit dem Satz angegeben, der an dem in der Stillhalteklausel des Artikels 29 Absatz 6 Satz 1 und Absatz 7 genannten Stichtag gilt. Es besteht Einvernehmen darüber, dass diese Angabe den gesetzlichen Charakter der «anderen Abgaben und Belastungen» nicht ändert.
-- ii) Die «anderen Abgaben und Belastungen» werden für alle in Anlage EM II aufgeführten Energieerzeugnisse und alle in Anlage EQ II aufgeführte energiebezogene Ausrüstung angegeben.
+- i) Zur Gewährleistung der Transparenz der aus Artikel II Absatz 1 Buchstabe b GATT 1994 hergeleiteten Rechte und Verpflichtungen werden Art und Höhe der bei der Einfuhr oder Ausfuhr auf die in Anlage EM II aufgeführten Primärenergieträger und Energieerzeugnisse und die in Anlage EQ II aufgeführte energiebezogene Ausrüstung erhobenen «anderen Abgaben und Belastungen» im Sinne der genannten Bestimmung im Tarifregister bei der betreffenden Zolltarifposition mit dem Satz angegeben, der an dem in der Stillhalteklausel des Artikels 29 Absatz 6 Satz 1 und Absatz 7 genannten Stichtag gilt. Es besteht Einvernehmen darüber, dass diese Angabe den gesetzlichen Charakter der «anderen Abgaben und Belastungen» nicht ändert.
+- ii) Die «anderen Abgaben und Belastungen» werden für alle in Anlage EM II aufgeführten Primärenergieträger und Energieerzeugnisse und alle in Anlage EQ II aufgeführte energiebezogene Ausrüstung angegeben.
 - iii) Es steht den Vertragsparteien frei, das Bestehen einer solchen «anderen Abgabe oder Belastung» mit der Begründung anzufechten, dass an dem in der Stillhalteklausel des Artikels 29 Absatz 6 Satz 1 und Absatz 7 genannten Stichtag für die betreffende Zolltarifposition keine solchen «anderen Abgaben und Belastungen» bestanden, oder die Vereinbarkeit des angegebenen Satzes solcher «anderen Abgaben und Belastungen» mit der Stillhalteverpflichtung des Artikels 29 Absatz 6 und 7 anzufechten, und zwar während eines Zeitraums von einem Jahr nach dem Inkrafttreten der von der Chartakonferenz am 24. April 1998 angenommenen Änderung der handelsbezogenen Bestimmungen dieses Vertrags oder einem Jahr nach der Notifikation der in Artikel 29 Absatz 6 Satz 1 und Absatz 7 genannten Zoll- und Abgabensätze an das Sekretariat, wenn dies der spätere Zeitpunkt ist.
 - iv) Die Eintragung der «anderen Abgaben und Belastungen» in das Tarifregister erfolgt ohne Rücksicht auf ihre Vereinbarkeit mit den Rechten und Pflichten aus dem GATT 1994 mit Ausnahme der unter Ziffer iii genannten Rechte und Pflichten. Die Vertragsparteien haben das Recht, die Vereinbarkeit der «anderen Abgaben und Belastungen» mit diesen Verpflichtungen jederzeit anzufechten.
 - v) «Andere Abgaben und Belastungen», die in einer Notifikation an das Sekretariat nicht angegeben sind, dürfen nicht nachträglich aufgenommen werden, und «andere Abgaben und Belastungen», die mit einem niedrigeren als dem am Stichtag geltenden Satz angegeben sind, dürfen nicht auf den tatsächlichen Satz geändert werden, es sei denn, solche Zusätze oder Änderungen werden innerhalb von sechs Monaten nach der Notifikation an das Sekretariat vorgenommen.

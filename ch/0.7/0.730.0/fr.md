@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Traité du 17 décembre 1994 sur la Charte de l'énergie (avec annexes, décisions et acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: fr
-version: 2025-10-02
+version: 2025-10-22
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251002/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251002-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251002/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251022/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251022-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251022/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(État le 2 octobre 2025)
+(État le 22 octobre 2025)
 
 [^t-1]: [RO 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -34,39 +34,40 @@ considérant la Charte européenne de l’énergie adoptée par le moyen du docu
 
 rappelant que toutes les parties signataires du document de clôture de la Conférence de La Haye se sont engagées à poursuivre les objectifs et à respecter les principes de la Charte européenne de l’énergie ainsi qu’à mettre en œuvre et à élargir leur coopération, le plus rapidement possible, en négociant de bonne foi un traité et des protocoles sur la Charte de l’énergie, et désireuses de donner aux engagements contenus dans cette charte une base juridique internationale sûre et contraignante,
 
-désireuses également d’établir le cadre structurel nécessaire à la mise en œuvre des principes énoncés dans la Charte européenne de l’énergie,
+désireuses également d’établir le cadre structurel nécessaire à la mise en œuvre des principes énoncés dans la Charte européenne de l’énergie,[^ingress-1]
 
 souhaitant mettre en œuvre le concept de base de l’initiative de la Charte européenne de l’énergie, qui est de catalyser la croissance économique par des mesures destinées à libéraliser les investissements et les échanges en matière d’énergie,
 
 affirmant que les parties contractantes attachent la plus grande importance à l’application effective et complète du traitement national et du traitement de la nation la plus favorisée et que ces engagements seront appliqués à la réalisation des investissements conformément à un traité complémentaire,
 
-considérant l’objectif de libéralisation progressive des échanges internationaux et le principe de non-discrimination dans les échanges internationaux tels qu’énoncés dans l’accord instituant l’Organisation mondiale du commerce[^ingress-1] et tels que prévus par ailleurs dans le présent traité,
+considérant l’objectif de libéralisation progressive des échanges internationaux et le principe de non-discrimination dans les échanges internationaux tels qu’énoncés dans l’accord instituant l’Organisation mondiale du commerce[^ingress-2] et tels que prévus par ailleurs dans le présent traité,
 
-déterminées à éliminer progressivement les obstacles techniques, administratifs et autres au commerce de matières et de produits énergétiques et des équipements liés à l’énergie[^ingress-2],
+déterminées à éliminer progressivement les obstacles techniques, administratifs et autres au commerce de matières et de produits énergétiques et des équipements liés à l’énergie[^ingress-3],
 
-envisageant l’adhésion future à l’Organisation mondiale du commerce des parties contractantes qui n’en sont actuellement pas membres[^ingress-3], et soucieuses de prévoir un régime commercial transitoire qui aide ces parties contractantes et n’entrave pas leur préparation à cette adhésion,
+envisageant l’adhésion future à l’Organisation mondiale du commerce des parties contractantes qui n’en sont actuellement pas membres[^ingress-4], et soucieuses de prévoir un régime commercial transitoire qui aide ces parties contractantes et n’entrave pas leur préparation à cette adhésion,
 
-conscientes des droits et obligations de certaines parties contractantes qui sont également membres de l’Organisation mondiale du commerce[^ingress-4],
+conscientes des droits et obligations de certaines parties contractantes qui sont également membres de l’Organisation mondiale du commerce[^ingress-5],
 
 considérant les règles de concurrence concernant les fusions, les monopoles, les pratiques contraires à la concurrence et l’abus de position dominante,
 
-considérant également le Traité sur la non-prolifération des armes nucléaires[^ingress-5], les directives applicables à l’exportation de matières, d’équipements et de technologies nucléaires et les autres obligations ou clauses interprétatives relatives à la non-prolifération internationale en matière de nucléaire,
+considérant également le Traité sur la non-prolifération des armes nucléaires[^ingress-6], les directives applicables à l’exportation de matières, d’équipements et de technologies nucléaires et les autres obligations ou clauses interprétatives relatives à la non-prolifération internationale en matière de nucléaire,
 
 reconnaissant la nécessité d’accroître au maximum l’efficacité de l’exploration, de la production, de la conversion, du stockage, du transport, de la distribution et de l’utilisation de l’énergie,
 
-rappelant la Convention-cadre des Nations Unies sur les changements climatiques[^ingress-6], la Convention sur la pollution atmosphérique transfrontière à longue distance[^ingress-7] et ses protocoles, ainsi que d’autres accords internationaux en matière d’environnement comportant des aspects liés à l’énergie, et
+rappelant la Convention-cadre des Nations Unies sur les changements climatiques[^ingress-7], la Convention sur la pollution atmosphérique transfrontière à longue distance[^ingress-8] et ses protocoles, ainsi que d’autres accords internationaux en matière d’environnement comportant des aspects liés à l’énergie, et
 
 reconnaissant qu’il est de plus en plus urgent de prendre des mesures visant à protéger l’environnement, y compris des mesures concernant le déclassement des installations énergétiques et l’élimination des déchets, et d’adopter, à l’échelon international, des objectifs et des critères à ces fins,
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-1]: Erratum du 22 oct. 2025, ne concerne que le texte allemand ([RO 2025 633](https://fedlex.data.admin.ch/eli/oc/2025/633)).
 [^ingress-2]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-3]: Nouvelles expressions selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-4]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-5]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
-[^ingress-6]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
-[^ingress-7]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-3]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-4]: Nouvelles expressions selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-5]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^ingress-6]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^ingress-7]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-8]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 ## Partie I Définitions et objet
 
