@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protocollo del 1<sup>o</sup> marzo 1973 sulla segnaletica sul piano stradale aggiuntivo all'Accordo europeo completante la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: it
-version: 2023-06-23
+version: 2025-10-23
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20230623/it/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20230623-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20230623/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20251023/it/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20251023-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20251023/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 1° marzo 1973 Approvato dall’Assemblea federale il 15 dicembre 1978[^t-1] Strumento di ratifica depositato dalla Svizzera l’11 dicembre 1991 Entrato in vigore per la Svizzera l’11 dicembre 1992
 
-(Stato 23 giugno 2023)
+(Stato 23 ottobre 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. e del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -32,8 +32,8 @@ in vista di stabilire una maggiore uniformità in Europa delle norme concernenti
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
-[^ingress-2]: [RS 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
+[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
+[^ingress-2]: [RS 0.741.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2827)
 
 #### Art. 1
 
@@ -109,7 +109,7 @@ Il presente Protocollo cesserà di essere in vigore se il numero delle Parti con
 
 Nessuna disposizione del presente Protocollo sarà interpretata nel senso di vietare ad una Parte contraente di adottare misure compatibili con le disposizioni dello Statuto delle Nazioni Unite[^10-1] e limitate alle esigenze della situazione, che essa ritiene necessarie per la sua sicurezza esterna o interna.
 
-[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 11
 

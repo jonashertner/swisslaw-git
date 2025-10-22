@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protokoll vom 1. März 1973 über Strassenmarkierungen zum Europäischen Zusatzübereinkommen zum Übereinkommen über Strassenverkehrszeichen, das in Wien am 8. November 1968 zur Unterzeichnung aufgelegt wurde (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: de
-version: 2023-06-23
+version: 2025-10-23
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20230623/de/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20230623-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20230623/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20251023/de/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20251023-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20251023/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ zum Europäischen Zusatzübereinkommen zum Übereinkommen über Strassenverkehrs
 
 Abgeschlossen in Genf am 1. März 1973 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 23. Juni 2023)
+(Stand am 23. Oktober 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. e des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400))
 
@@ -34,8 +34,8 @@ in dem Wunsch, eine grössere Einheitlichkeit der Vorschriften über Strassenmar
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
-[^ingress-2]: [SR 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
+[^ingress-1]: [SR 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
+[^ingress-2]: [SR 0.741.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2827)
 
 #### Art. 1
 
@@ -105,7 +105,7 @@ Dieses Protokoll tritt ausser Kraft, wenn zu irgendeinem Zeitpunkt die Zahl der 
 
 Dieses Protokoll ist nicht so auszulegen, als hindere es eine Vertragspartei, Massnahmen zu ergreifen, die sie für ihre innere oder äussere Sicherheit als notwendig erachtet und die mit der Charta der Vereinten Nationen[^10-1] vereinbar und auf die Erfordernisse der Lage beschränkt sind.
 
-[^10-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^10-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 11
 
@@ -553,7 +553,7 @@ Zeichnung A-56
 
 Markierung eines Parkverbots
 
-Geltungsbereich am 23. Juni 2023[^t-4]
+Geltungsbereich am 23. Oktober 2025[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -567,7 +567,7 @@ Geltungsbereich am 23. Juni 2023[^t-4]
 <tr><td>Deutschland\*</td><td>3. August</td><td>1978</td><td>25. April</td><td>1985</td></tr>
 <tr><td>Finnland\*</td><td>1. April</td><td>1985 B</td><td>1. April</td><td>1986</td></tr>
 <tr><td>Georgien</td><td>15. Mai</td><td>2001 B</td><td>15. Mai</td><td>2002</td></tr>
-<tr><td>Griechenland</td><td>18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
+<tr><td>Griechenland\*\*</td><td>18. Dezember</td><td>1986 B</td><td>18. Dezember</td><td>1987</td></tr>
 <tr><td>Italien</td><td>7. Februar</td><td>1997 B</td><td>7. Februar</td><td>1998</td></tr>
 <tr><td>Kasachstan</td><td>7. Juni</td><td>2011 B</td><td>7. Juni</td><td>2012</td></tr>
 <tr><td>Liechtenstein\*</td><td>2. März</td><td>2020 B</td><td>2. März</td><td>2021</td></tr>
@@ -588,11 +588,11 @@ Geltungsbereich am 23. Juni 2023[^t-4]
 <tr><td>Türkei\*</td><td>17. Mai</td><td>2023 B</td><td>17. Mai</td><td>2024</td></tr>
 <tr><td>Ukraine\*</td><td>9. Mai</td><td>1984 B</td><td>9. Mai</td><td>1985</td></tr>
 <tr><td>Ungarn\*</td><td>16. März</td><td>1976</td><td>25. April</td><td>1985</td></tr>
-<tr><td>Zypern\*</td><td>16. August</td><td>2016 B</td><td>16. August</td><td>2017</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td>Zypern\* \*\*</td><td>16. August</td><td>2016 B</td><td>16. August</td><td>2017</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38); [2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch).
+[^t-4]: [AS 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38); [2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329); [2025 656](https://fedlex.data.admin.ch/eli/oc/2025/656). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

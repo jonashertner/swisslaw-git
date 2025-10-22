@@ -3,11 +3,11 @@ sr: "0.741.201.2"
 title: "Protocole du 1<sup>er</sup> mars 1973 sur les marques routières, additionnel à l'Accord européen complétant la Convention sur la signalisation routière ouverte à la signature à Vienne le 8 novembre 1968 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/626_626_626"
 language: fr
-version: 2023-06-23
+version: 2025-10-23
 adopted: 1973-03-01
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20230623/fr/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20230623-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20230623/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/626_626_626/20251023/fr/xml/fedlex-data-admin-ch-eli-cc-1993-626_626_626-20251023-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/626_626_626/20251023/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 1<sup>er</sup> mars 1973 Approuvé par l’Assemblée fédérale le 15 décembre 1978[^t-1] Instrument de ratification déposé par la Suisse le 11 décembre 1991 Entré en vigueur pour la Suisse le 11 décembre 1992
 
-(État le 23 juin 2023)
+(État le 23 octobre 2025)
 
 [^t-1]: Art. 1 al. 1 let. e de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -32,8 +32,8 @@ Parties à la Convention sur la signalisation routière ouverte à la signature 
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
-[^ingress-2]: [RS 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
+[^ingress-1]: [RS 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
+[^ingress-2]: [RS 0.741.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2827)
 
 #### Art. 1
 
@@ -103,7 +103,7 @@ Le présent Protocole cessera d’être en vigueur si le nombre des Parties cont
 
 Aucune disposition du présent Protocole ne sera interprétée comme interdisant à une Partie contractante de prendre les mesures compatibles avec les dispositions de la Charte des Nations Unies[^10-1] et limitées aux exigences de la situation qu’elle estime nécessaire pour sa sécurité extérieure ou intérieure.
 
-[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^10-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 11
 
@@ -630,7 +630,7 @@ Diagramme A-56
 
 Marquage signalant l’interdiction du stationnement
 
-Champ d’application le le 23 juin 2023[^t-4]
+Champ d’application le 23 octobre 2025[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -642,11 +642,11 @@ Champ d’application le le 23 juin 2023[^t-4]
 <tr><td>Belgique</td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td>1989</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>12 janvier</td><td>1994 S</td><td>6 mars</td><td>1992</td></tr>
 <tr><td>Bulgarie\*</td><td>28 décembre</td><td>1978 A</td><td>25 avril</td><td>1985</td></tr>
-<tr><td>Chypre<sup>\*</sup></td><td>16 août</td><td>2016 A</td><td>16 août</td><td>2017</td></tr>
+<tr><td>Chypre\* \*\*</td><td>16 août</td><td>2016 A</td><td>16 août</td><td>2017</td></tr>
 <tr><td>Danemark\*</td><td>3 novembre</td><td>1986 A</td><td>3 novembre</td><td>1987</td></tr>
 <tr><td>Finlande\*</td><td>1<sup>er</sup> avril</td><td>1985 A</td><td>1<sup>er</sup> avril</td><td>1986</td></tr>
 <tr><td>Géorgie</td><td>15 mai</td><td>2001 A</td><td>15 mai</td><td>2002</td></tr>
-<tr><td>Grèce</td><td>18 décembre</td><td>1986 A</td><td>18 décembre</td><td>1987</td></tr>
+<tr><td>Grèce\*\*</td><td>18 décembre</td><td>1986 A</td><td>18 décembre</td><td>1987</td></tr>
 <tr><td>Hongrie\*</td><td>16 mars</td><td>1976</td><td>25 avril</td><td>1985</td></tr>
 <tr><td>Italie</td><td>7 février</td><td>1997 A</td><td>7 février</td><td>1998</td></tr>
 <tr><td>Kazakhstan</td><td>7 juin</td><td>2011 A</td><td>7 juin</td><td>2012</td></tr>
@@ -666,10 +666,10 @@ Champ d’application le le 23 juin 2023[^t-4]
 <tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>31 août</td><td>2021</td></tr>
 <tr><td>Turquie\*</td><td>17 mai</td><td>2023 A</td><td>17 mai</td><td>2024</td></tr>
 <tr><td>Ukraine\*</td><td>9 mai</td><td>1984 A</td><td>9 mai</td><td>1985</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-4]: [RO 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38);[2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 1993 626](https://fedlex.data.admin.ch/eli/oc/1993/626_626_626); [1996 502](https://fedlex.data.admin.ch/eli/oc/1996/502_502_502); [2004 3991](https://fedlex.data.admin.ch/eli/oc/2004/576); [2009 615](https://fedlex.data.admin.ch/eli/oc/2009/110); [2014 1423](https://fedlex.data.admin.ch/eli/oc/2014/305); [2017 129](https://fedlex.data.admin.ch/eli/oc/2017/38);[2023 329](https://fedlex.data.admin.ch/eli/oc/2023/329); [2025 656](https://fedlex.data.admin.ch/eli/oc/2025/656). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
