@@ -4,13 +4,12 @@ number: "133.300"
 title: Verordnung über das Vernehmlassungsverfahren
 short: Vernehmlassungsverordnung
 language: de
-version: 2020-07-02
-valid_until: 2025-10-22
-version_adopted: 2020-06-23
+version: 2025-10-23
+version_adopted: 2025-10-14
 adopted: 2007-02-13
 in_force: 2007-02-18
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/133.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4944/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6664/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Vernehmlassungsverordnung | Rechtsetzungsverfahren
 
 (Vernehmlassungsverordnung)
 
-Vom 13. Februar 2007 (Stand 2. Juli 2020)
+Vom 13. Februar 2007 (Stand 23. Oktober 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -49,11 +48,11 @@ beschliesst:
 
 **Form**
 
-<sup>1</sup> Die Vernehmlassung wird grundsätzlich schriftlich durchgeführt.
+<sup>1</sup> Die Vernehmlassung wird grundsätzlich elektronisch durchgeführt. Stellungnahmen in Papierform sind möglich.
 
-<sup>2</sup> Das zur Vernehmlassung ermächtigte Departement stellt den Adressaten die Unterlagen für die Vernehmlassung zu, unter Mitteilung der Frist für die Stellungnahme. Den Unterlagen wird eine Liste aller Adressaten beigelegt.
+<sup>2</sup> Das zur Vernehmlassung ermächtigte Departement informiert die Adressatinnen und Adressaten über die Eröffnung der Vernehmlassung sowie über die Frist für die Stellungnahme.
 
-<sup>3</sup> Das Departement kann anstelle des schriftlichen Verfahrens eine konferenzielle Anhörung anordnen. Über die Anhörung wird ein Protokoll geführt.
+<sup>3</sup> Das Departement kann anstelle des elektronischen Verfahrens eine konferenzielle Anhörung anordnen. Über die Anhörung wird ein Protokoll geführt.
 
 #### § 4
 
@@ -67,20 +66,24 @@ beschliesst:
 
 **Bekanntgabe**
 
-<sup>1</sup> Die Staatskanzlei gibt die Vernehmlassungsverfahren im Kantonsblatt und im Internet bekannt.
+<sup>1</sup> Die Staatskanzlei gibt die Vernehmlassungsverfahren im Kantonsblatt und auf der Internetseite des Kantons bekannt.
 
 <sup>2</sup> Die Bekanntgabe enthält:
 
 - a) den wesentlichen Inhalt der Vorhabens
 - b) die Vernehmlassungsfrist
 - c) die für die Bearbeitung und für Rückfragen zuständige Behörde
-- d) die elektronische Bezugsquelle für die Vernehmlassungsunterlagen.
+- d) eine elektronische Verknüpfung mit einer digitalen Vernehmlassungsplattform, welche eine Liste der Adressatinnen und Adressaten, die zur jeweiligen Vernehmlassung eingeladen werden, enthält.
+
+<sup>3</sup> Die Staatskanzlei veröffentlicht eine Liste der Adressatinnen und Adressaten, die in jedem Vernehmlassungsverfahren zur Stellungnahme einzuladen sind.
 
 #### § 6
 
-**Auswertung**
+**Auswertung und Veröffentlichung**
 
-<sup>1</sup> Das mit dem Vorhaben befasste Departement stellt die Ergebnisse der Vernehmlassung oder der konferenziellen Anhörung zusammen, wertet sie aus und entscheidet über eine allfällige Veröffentlichung.
+<sup>1</sup> Das mit dem Vorhaben befasste Departement stellt die Ergebnisse der Vernehmlassung oder der konferenziellen Anhörung zusammen und wertet sie aus.
+
+<sup>2</sup> Nach Ablauf der Vernehmlassungsfrist werden die Stellungnahmen auf der Internetseite des Kantons veröffentlicht. In begründeten Fällen werden Stellungnahmen von natürlichen Personen anonymisiert veröffentlicht oder es wird auf die Veröffentlichung verzichtet.
 
 #### § 7
 
