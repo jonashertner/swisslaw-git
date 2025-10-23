@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2025-09-09
+version: 2025-10-24
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250909-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250909/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20251024-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20251024/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 9 septembre 2025)
+du 17 juillet 2025 (État le 24 octobre 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -116,11 +116,13 @@ Les sous-produits animaux issus d’animaux des espèces réceptives provenant d
 
 #### Art. 10
 
-**Obligation de vacciner**
+**Zones de vaccination et obligation de vacciner**[^10-1]
 
-<sup>1</sup> La zone de surveillance correspond à la zone de vaccination.
+<sup>1</sup> Les animaux des espèces réceptives détenus dans une zone de vaccination doivent être vaccinés contre la DNC.
 
-<sup>2</sup> Les animaux des espèces réceptives détenus dans la zone de surveillance doivent être vaccinés contre la DNC.
+<sup>2</sup> L’étendue des zones de vaccination est fixée dans l’annexe 3.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 11
 
@@ -201,13 +203,15 @@ Les animaux vivants des espèces réceptives peuvent être déplacés hors de la
 - a.[^17-1] s’ils sont vaccinés depuis au moins 28 jours;
 - b.[^17-2] si tous les autres animaux du même troupeau sont vaccinés depuis au moins 28 jours;
 - c. si tous les autres animaux du même troupeau ont été soumis à un examen clinique et, le cas échéant, à un examen de laboratoire dont le résultat est négatif;
-- d. si les animaux ont été détenus depuis leur naissance ou pendant une période ininterrompue d’au moins 28 jours avant la date du déplacement dans leur exploitation de provenance, et
-- e. si tous les animaux des espèces réceptives présents dans un rayon de 50 km ont reçu un vaccin ou une dose de rappel au moins dans les 60 jours qui précèdent.
+- d.[^17-3] si les animaux ont été détenus dans leur exploitation d’origine depuis leur naissance ou pendant une période ininterrompue d’au moins 28 jours avant la date du déplacement, et
+- e.[^17-4] si tous les animaux des espèces réceptives présents dans un rayon de 50 km autour de l’exploitation d’origine à partir de laquelle ont lieu les déplacements ont reçu un vaccin ou une dose de rappel 60 jours au moins avant la date du déplacement.
 
 <sup>2</sup> Ne sont pas concernés par l’al. 1 les animaux directement menés à l’abattage sur autorisation du vétérinaire cantonal.
 
 [^17-1]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 [^17-2]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
+[^17-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^17-4]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 18
 
@@ -239,13 +243,28 @@ Les animaux vivants des espèces réceptives peuvent être déplacés à l’int
 
 <sup>3</sup> Le colostrum, le lait et les produits laitiers utilisés comme sous-produits animaux peuvent être transportés hors de la zone de vaccination après avoir été pasteurisés.
 
+<sup>4</sup> Les restrictions visées aux al. 1 à 3 ne s’appliquent pas aux sous-produits animaux issus d’un animal respectant les exigences de l’art. 17, al. 1.[^20-2]
+
 [^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^20-2]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 21
 
 **Exigences applicables aux véhicules**
 
-Les véhicules utilisés pour le transport d’animaux des espèces réceptives ou de sous-produits animaux qui en sont issus doivent être étanches, et nettoyés, désinfectés et traités avec un insecticide avant et après chaque trajet.
+<sup>1</sup> Les véhicules utilisés pour le transport d’animaux des espèces réceptives ou de sous-produits animaux qui en sont issus doivent être étanches, et nettoyés, désinfectés et traités avec un insecticide avant et après chaque trajet.
+
+<sup>2</sup> Un nettoyage suffit après un transport d’animaux des espèces réceptives directement vers un abattoir ou après tout transport de sous-produits animaux issus de ces espèces.[^21-1]
+
+[^21-1]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+
+#### Art. 21a
+
+**Mesures de surveillance**[^21a-1]
+
+Dans les zones de vaccination, le vétérinaire cantonal ordonne les examens nécessaires à la surveillance des troupeaux d’animaux des espèces réceptives.
+
+[^21a-1]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 ## Section 6 Entrée en vigueur et durée de validité
 
@@ -254,6 +273,10 @@ Les véhicules utilisés pour le transport d’animaux des espèces réceptives 
 <sup>1</sup> La présente ordonnance entre en vigueur le 18 juillet 2025 à 18 heures.
 
 <sup>2</sup> Elle a effet jusqu’au 31 décembre 2025.
+
+<sup>3</sup> La présente ordonnance est prorogée jusqu’au 16 mai 2026.[^22-1]
+
+[^22-1]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 Annexe 1
 
@@ -269,13 +292,23 @@ Annexe 2[^t-1]
 
 ## Zones de surveillance
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 9 sept. 2025, en vigueur depuis le 9 sept. 2025 à 18 heures ([RO 2025 549](https://fedlex.data.admin.ch/eli/oc/2025/549)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
-Sont réputées zones de surveillance:
+La présente annexe ne comporte aucune entrée.
+
+Annexe 3[^t-2]
+
+(art. 10, al. 2)
+
+## Zones de vaccination
+
+[^t-2]: Introduite par le ch. II al. 2 de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+
+Sont des zones de vaccination:
 
 - – le canton de Genève;
 - – les communes suivantes du canton de Vaud: Arnex, Bogis-Bossey, Borex, Chavannes-de-Bogis, Chavannes-des-Bois, Chéserex, Commugny, Coppet, Crans, Crassier, Eysins, Founex, Gingins, Grens, La Rippe, Mies, Nyon, Signy-Avenex, Tannay;
 - – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/fr/xml/image/image1.png)

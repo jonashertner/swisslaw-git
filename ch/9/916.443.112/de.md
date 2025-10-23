@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2025-09-09
+version: 2025-10-24
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250909-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250909/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20251024-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20251024/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 9. September 2025)
+vom 17. Juli 2025 (Stand am 24. Oktober 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -116,11 +116,13 @@ Tierische Nebenprodukte von Tieren empfänglicher Arten aus der Überwachungszon
 
 #### Art. 10
 
-**Impfpflicht**
+**Impfzonen und Impfpflicht**[^10-1]
 
-<sup>1</sup> Die Überwachungszone ist zugleich Impfzone.
+<sup>1</sup> Tiere empfänglicher Arten, die in den Impfzonen gehalten werden, müssen gegen LSD geimpft werden.
 
-<sup>2</sup> Tiere empfänglicher Arten, die in der Überwachungszone gehalten werden, müssen gegen LSD geimpft werden.
+<sup>2</sup> Der Umfang der Impfzonen ist in Anhang 3 festgelegt.
+
+[^10-1]: Fassung gemäss Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 11
 
@@ -201,12 +203,14 @@ Aus der Impfzone dürfen lebende Tiere empfänglicher Arten verstellt werden, we
 - a.[^17-1] sie mindestens 28 Tage zuvor geimpft wurden;
 - b. alle anderen Tiere des gleichen Bestandes mindestens 28 Tage zuvor geimpft wurden;
 - c. alle anderen Tiere des gleichen Bestandes einer klinischen und nötigenfalls einer Laboruntersuchung mit negativem Ergebnis unterzogen wurden;
-- d. die Tiere seit ihrer Geburt oder während eines ununterbrochenen Zeitraumes von mindestens 28 Tagen vor dem Verstelldatum in ihrem Herkunftsbetrieb gehalten wurden; und
-- e. alle Tiere empfänglicher Arten im Umkreis von 50 Kilometern vor mindestens 60 Tagen geimpft oder wiedergeimpft wurden.
+- d.[^17-2] die Tiere seit ihrer Geburt oder während eines ununterbrochenen Zeitraumes von mindestens 28 Tagen vor dem Verstelldatum in ihrem Ursprungsbetrieb gehalten wurden; und
+- e.[^17-3] alle Tiere empfänglicher Arten im Umkreis von 50 Kilometern um den Ursprungsbetrieb der Verstellung mindestens 60 Tage vor dem Verstelldatum geimpft oder wiedergeimpft wurden.
 
 <sup>2</sup> Von Absatz 1 ausgenommen sind Tiere, die nach der Genehmigung der Kantonstierärztin oder des Kantonstierarztes direkt zur Schlachtung verbracht werden.
 
 [^17-1]: Die Berichtigung vom 18. Aug. 2025 betrifft nur den französischen Text ([AS 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
+[^17-2]: Fassung gemäss Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^17-3]: Fassung gemäss Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 18
 
@@ -235,13 +239,28 @@ Innerhalb der Impfzone und zwischen Impfzonen dürfen lebende Tiere empfänglich
 
 <sup>3</sup> Kolostrum, Milch oder Milcherzeugnisse, die als tierische Nebenprodukte verwendet werden, dürfen nach der Pasteurisation aus der Impfzone heraus transportiert werden.
 
+<sup>4</sup> Die Einschränkungen nach den Absätzen 1–3 finden keine Anwendung auf die tierischen Nebenprodukte eines Tieres, bei dem die Bedingungen von Artikel 17 Absatz 1 erfüllt sind.[^20-2]
+
 [^20-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^20-2]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 21
 
 **Anforderungen an die Fahrzeuge**
 
-Fahrzeuge, die für den Transport von Tieren empfänglicher Arten oder von tierischen Nebenprodukten solcher Tiere verwendet werden, müssen dicht sein und sowohl vor als auch nach jeder Fahrt gereinigt, desinfiziert und mit einem Insektenbekämpfungsmittel behandelt werden.
+<sup>1</sup> Fahrzeuge, die für den Transport von Tieren empfänglicher Arten oder von tierischen Nebenprodukten solcher Tiere verwendet werden, müssen dicht sein und sowohl vor als auch nach jeder Fahrt gereinigt, desinfiziert und mit einem Insektenbekämpfungsmittel behandelt werden.
+
+<sup>2</sup> Beim Transport von Tieren empfänglicher Arten direkt zu einem Schlachthof oder bei jeglichem Transport von tierischen Nebenprodukten solcher Tiere genügt die Reinigung nach dem Transport.[^21-1]
+
+[^21-1]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+
+#### Art. 21a
+
+**Überwachungsmassnahmen**[^21a-1]
+
+Die Kantonstierärztin oder der Kantonstierarzt ordnet in den Impfzonen für die Bestände mit Tieren empfänglicher Arten die für die Überwachung nötigen Untersuchungen an.
+
+[^21a-1]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 ## 6. Abschnitt: Inkrafttreten und Geltungsdauer
 
@@ -250,6 +269,10 @@ Fahrzeuge, die für den Transport von Tieren empfänglicher Arten oder von tieri
 <sup>1</sup> Diese Verordnung tritt am 18. Juli 2025 um 18.00 Uhr in Kraft.
 
 <sup>2</sup> Sie gilt bis zum 31. Dezember 2025.
+
+<sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 16. Mai 2026 verlängert.[^22-1]
+
+[^22-1]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 Anhang 1
 
@@ -265,13 +288,23 @@ Anhang 2[^t-1]
 
 ## Überwachungszonen
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 9. Sept. 2025, in Kraft seit 9. Sept. 2025 um 18 Uhr ([AS 2025 549](https://fedlex.data.admin.ch/eli/oc/2025/549)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
-Als Überwachungszonen gelten:
+Dieser Anhang enthält keine Einträge.
+
+Anhang 3[^t-2]
+
+(Art. 10 Abs. 2)
+
+## Impfzonen
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+
+Als Impfzonen gelten:
 
 - – der Kanton Genf;
 - – folgende Gemeinden des Kantons Waadt: Arnex, Bogis-Bossey, Borex, Chavannes-de-Bogis, Chavannes-des-Bois, Chéserex, Commugny, Coppet, Crans, Crassier, Eysins, Founex, Gingins, Grens, La Rippe, Mies, Nyon, Signy-Avenex, Tannay;
 - – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/de/xml/image/image1.png)

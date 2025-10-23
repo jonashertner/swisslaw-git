@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2025-09-09
+version: 2025-10-24
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20250909-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20250909/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20251024-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20251024/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 9 settembre 2025)
+del 17 luglio 2025 (Stato 24 ottobre 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -116,11 +116,13 @@ I sottoprodotti di animali delle specie ricettive provenienti dalla zona di sorv
 
 #### Art. 10
 
-**Obbligo di vaccinazione**
+**Zone di vaccinazione e obbligo di vaccinazione**[^10-1]
 
-<sup>1</sup> La zona di sorveglianza è anche zona di vaccinazione.
+<sup>1</sup> Gli animali delle specie ricettive tenuti nelle zone di vaccinazione devono essere vaccinati contro la LSD.
 
-<sup>2</sup> Gli animali delle specie ricettive tenuti nella zona di sorveglianza devono essere vaccinati contro la LSD.
+<sup>2</sup> L’estensione delle zone di vaccinazione è definita nell’allegato 3.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 11
 
@@ -201,12 +203,14 @@ Gli animali vivi delle specie ricettive possono essere trasferiti dalla zona di 
 - a.[^17-1] sono stati vaccinati almeno 28 giorni prima;
 - b. tutti gli altri animali dello stesso effettivo sono stati vaccinati almeno 28 giorni prima;
 - c. tutti gli altri animali dello stesso effettivo sono stati sottoposti a un esame clinico e, se necessario, a un esame di laboratorio con esito negativo;
-- d. gli animali sono stati tenuti nell’azienda di provenienza dalla nascita o per un periodo ininterrotto di almeno 28 giorni prima della data del trasferimento; e
-- e. tutti gli animali delle specie ricettive nel raggio di 50 chilometri sono stati vaccinati o rivaccinati almeno 60 giorni prima.
+- d.[^17-2] gli animali sono stati tenuti nell’azienda di origine dalla nascita o per un periodo ininterrotto di almeno 28 giorni prima della data del trasferimento; e
+- e.[^17-3] tutti gli animali delle specie ricettive nel raggio di 50 chilometri intorno all’azienda di origine del trasferimento sono stati vaccinati o rivaccinati almeno 60 giorni prima della data di trasferimento.
 
 <sup>2</sup> Il capoverso 1 non si applica agli animali trasportati direttamente per la macellazione previa autorizzazione del veterinario cantonale.
 
 [^17-1]: Correzione del 18 ago. 2025, concerne soltanto il testo francese ([RU 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^17-3]: Nuovo testo giusta la cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 18
 
@@ -235,13 +239,28 @@ All’interno della zona di vaccinazione e tra le zone di vaccinazione gli anima
 
 <sup>3</sup> Il colostro, il latte o i prodotti a base di latte utilizzati come sottoprodotti di origine animale possono essere trasportati fuori dalla zona di vaccinazione dopo la pastorizzazione.
 
+<sup>4</sup> Le restrizioni di cui ai capoversi 1–3 non si applicano ai sottoprodotti di origine animale di un animale che soddisfa le condizioni di cui all’articolo 17 capoverso 1.[^20-2]
+
 [^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^20-2]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 #### Art. 21
 
 **Requisiti dei veicoli**
 
-I veicoli utilizzati per il trasporto di animali delle specie ricettive o dei sottoprodotti di origine animale di tali animali devono essere a tenuta stagna e devono essere puliti, disinfettati e trattati con un insetticida sia prima sia dopo ogni trasporto.
+<sup>1</sup> I veicoli utilizzati per il trasporto di animali delle specie ricettive o dei sottoprodotti di origine animale di tali animali devono essere a tenuta stagna e devono essere puliti, disinfettati e trattati con un insetticida sia prima sia dopo ogni trasporto.
+
+<sup>2</sup> Per il trasporto di animali di specie ricettive direttamente a un macello o per qualsiasi trasporto di sottoprodotti di tali animali è sufficiente effettuare la pulizia dopo il trasporto.[^21-1]
+
+[^21-1]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+
+#### Art. 21a
+
+**Misure di sorveglianza**[^21a-1]
+
+Il veterinario cantonale ordina nelle zone di vaccinazione le analisi necessarie per sorvegliare gli effettivi delle specie ricettive.
+
+[^21a-1]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 ## Sezione 6: Entrata in vigore e durata di validità
 
@@ -250,6 +269,10 @@ I veicoli utilizzati per il trasporto di animali delle specie ricettive o dei so
 <sup>1</sup> La presente ordinanza entra in vigore il 18 luglio 2025 alle ore 18.00.
 
 <sup>2</sup> Ha effetto sino al 31 dicembre 2025.
+
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 16 maggio 2026.[^22-1]
+
+[^22-1]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
 Allegato 1
 
@@ -265,13 +288,23 @@ Allegato 2[^t-1]
 
 ## Zone di sorveglianza
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O dell’ USAV del 9 set. 2025, in vigore dal 9 set. 2025 alle 18.00 ([RU 2025 549](https://fedlex.data.admin.ch/eli/oc/2025/549))
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
 
-Sono considerati zone di sorveglianza:
+Il presente allegato non contiene alcuna iscrizione.
+
+Allegato 3[^t-2]
+
+(art. 10 cpv. 2)
+
+## Zone di vaccinazione
+
+[^t-2]: Introdotto dalla cifra II cpv. 2 dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+
+Sono zone di vaccinazione:
 
 - – il Cantone di Ginevra;
 - – i seguenti Comuni del Cantone di Vaud: Arnex, Bogis-Bossey, Borex, Chavannes-de-Bogis, Chavannes-des-Bois, Chéserex, Commugny, Coppet, Crans, Crassier, Eysins, Founex, Gingins, Grens, La Rippe, Mies, Nyon, Signy-Avenex, Tannay;
 - – la zona di La Pile Dessus del Comune di Saint-Cergue nel Cantone di Vaud;
 - – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20250909/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20251024/it/xml/image/image1.png)
