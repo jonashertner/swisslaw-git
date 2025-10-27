@@ -5,12 +5,12 @@ title: Legge sulla polizia del Cantone dei Grigioni
 short: LPol
 language: it
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-10-28
 version_adopted: 2022-06-14
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3585/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3410/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.

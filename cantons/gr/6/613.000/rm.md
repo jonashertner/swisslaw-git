@@ -5,12 +5,12 @@ title: Lescha da polizia dal chantun Grischun
 short: LPol
 language: rm
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2025-10-28
 version_adopted: 2022-06-14
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3585/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
