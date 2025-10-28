@@ -4,13 +4,12 @@ number: "651.821"
 title: Verordnung über elektronische Verfahren im Steuerbereich
 short: VeVSt
 language: de
-version: 2025-01-01
-valid_until: 2025-10-28
-version_adopted: 2024-11-20
+version: 2025-10-29
+version_adopted: 2025-09-24
 adopted: 2024-11-20
 in_force: 2025-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.821"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3706/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3872/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3706/pdf_file"
 
 (VeVSt)
 
-Vom 20.11.2024 (Stand 01.01.2025)
+Vom 20.11.2024 (Stand 29.10.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -210,6 +209,8 @@ beschliesst:
 <sup>1</sup> eTAX AARGAU steht den steuerpflichtigen Personen ab 1. Februar 2026 für die Steuerperiode 2025 zur Verfügung.
 
 <sup>2</sup> Die elektronische Einreichung von Eingaben durch die steuerpflichtige Person sowie die elektronische Zustellung von Verfügungen, Entscheiden, Mitteilungen und Rechnungen stehen den steuerpflichtigen Personen frühestens ab 1. Februar 2026 zur Verfügung.
+
+<sup>3</sup> Die Authentifizierung der steuerpflichtigen Person für die elektronische Einsichtnahme im eSteuerkonto von Steuerrechnungs-, Steuerüberweisungs- und Steuergutschriftsbeträgen ohne Veranlagungsdetails erfolgt mittels AGOV‑aq200. Diese Authentifizierungsmethode fällt dahin, sobald weitere Dienstleistungen im eSteuerkonto freigeschaltet werden, jedoch spätestens am 31. Dezember 2026.
 
 #### § 20
 
