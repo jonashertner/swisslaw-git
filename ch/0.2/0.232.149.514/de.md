@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: Vertrag vom 22. Dezember 1978 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über den Schutz der Erfindungspatente (Patentschutzvertrag) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: de
-version: 2025-04-02
+version: 2025-10-29
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20250402/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20250402-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20250402/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20251029/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20251029-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20251029/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen am 22. Dezember 1978 Von der Bundesversammlung genehmigt am 4. Dezember 1979[^t-1] Ratifikationsurkunden ausgetauscht am 24. Januar 1980 In Kraft getreten am 1. April 1980
 
-(Stand am 2. April 2025)
+(Stand am 29. Oktober 2025)
 
 [^t-1]: [AS 1980 283](https://fedlex.data.admin.ch/eli/oc/1980/283_284_284)
 
@@ -42,9 +42,9 @@ zu diesem Zweck einen Vertrag zu schliessen, der ein besonderes Übereinkommen i
 
 die, nachdem sie ihre Vollmachten in guter und gehöriger Form befunden haben, über folgende Bestimmungen übereingekommen sind:
 
-[^ingress-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
-[^ingress-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
-[^ingress-3]: [SR 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
+[^ingress-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
+[^ingress-2]: [SR 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+[^ingress-3]: [SR 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -101,7 +101,7 @@ Ein europäisches Patent kann für die Schweiz und das Fürstentum Liechtenstein
 
 <sup>4</sup> Das Fürstentum Liechtenstein verzichtet während der Vertragsdauer, zweiseitige Verträge über Erfindungspatente mit Drittstaaten selbständig abzuschliessen.
 
-[^6-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^6-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 ## 2. Kapitel: Verwaltungsaufgaben
 
@@ -219,7 +219,7 @@ Dieser Vertrag ist auch anwendbar auf die vor seinem Inkrafttreten mit Wirkung f
 
 <sup>2</sup> Soweit erforderlich erlassen die Vertragsstaaten Ausführungsbestimmungen.
 
-[^18-1]: [SR 0.232.149.514.1](https://fedlex.data.admin.ch/eli/cc/1980/293_293_293)
+[^18-1]: [SR 0.232.149.514.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1105)
 
 #### Art. 19
 
@@ -254,4 +254,4 @@ Anlagen[^t-2]
 <tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-2]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 2. April 2025 (Stand: 31. Dezember 2024), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253)). Die bereinigten Anlagen können auf der Internetseite: www.gesetze.li &gt; [LR-Nr. 170.551.232](https://www.gesetze.li/chrono/2025254000) konsultiert werden.
+[^t-2]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich letztmals auf den 29. Oktober 2025 (Stand: 30. Juni 2025), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253), [705](https://fedlex.data.admin.ch/eli/oc/2025/705)). Die bereinigten Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite www.gesetze.li &gt; [LR-Nr. 170.5 5 1.232](https://www.gesetze.li/chrono/2025504000) konsultiert werden.

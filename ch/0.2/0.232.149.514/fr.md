@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: "Traité du 22 décembre 1978 entre la Confédération suisse et la Principauté de Liechtenstein sur la protection conférée par les brevets d'invention (Traité sur les brevets) (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: fr
-version: 2025-04-02
+version: 2025-10-29
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20250402/fr/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20250402-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20250402/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20251029/fr/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20251029-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20251029/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 22 décembre 1978 Approuvé par l’Assemblée fédérale le 4 décembre 1979[^t-1] Instruments de ratification échangés le 24 janvier 1980 Entré en vigueur le 1<sup>er</sup> avril 1980
 
-(État le 2 avril 2025)
+(État le 29 octobre 2025)
 
 [^t-1]: [RO 1980 284](https://fedlex.data.admin.ch/eli/oc/1980/283_284_284)
 
@@ -42,9 +42,9 @@ qui, après avoir reconnu leurs pouvoirs en bonne et due forme,
 
 sont convenus des dispositions suivantes:
 
-[^ingress-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
-[^ingress-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)
-[^ingress-3]: [RS 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
+[^ingress-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
+[^ingress-2]: [RS 0.232.142.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1089)
+[^ingress-3]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
 
 ## Chapitre 1: Dispositions générales
 
@@ -101,7 +101,7 @@ Un brevet européen ne peut être obtenu que pour la Suisse et la Principauté d
 
 <sup>4</sup> Pour la durée du présent traité, la Principauté de Liechtenstein renonce à conclure séparément avec des États tiers des traités bilatéraux en matière de brevets d’invention.
 
-[^6-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
+[^6-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028), [0.232.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1029), [0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
 
 ## Chapitre 2: Tâches administratives
 
@@ -219,7 +219,7 @@ Le présent traité s’applique également aux brevets d’invention valablemen
 
 <sup>2</sup> Autant qu’il est nécessaire, les États contractants édictent des dispositions d’exécution.
 
-[^18-1]: [RS 0.232.149.514.1](https://fedlex.data.admin.ch/eli/cc/1980/293_293_293)
+[^18-1]: [RS 0.232.149.514.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1105)
 
 #### Art. 19
 
@@ -254,4 +254,4 @@ Annexes[^t-2]
 <tr><td>**Annexe II**</td><td>– Liste des traités internationaux applicables dans la Principauté de Liechtenstein</td></tr>
 </table>
 
-[^t-2]: Les annexes I et II ont été mises à jour régulièrement dès le 27 oct. 1998, deux fois par an dès le 21 juin 2005 et pour la dernière fois le 2 avr. 2025 (état au 31 déc. 2024). Ces annexes mises à jour ne sont pas publiées dans le RO ([RO 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253)) mais peuvent être consultées sur le site Internet [www.gesetze.li](http://www.gesetze.li) &gt; [LR ‑Nr. 170.551.232](https://www.gesetze.li/chrono/2025254000).
+[^t-2]: Les annexes I et II ont été mises à jour régulièrement dès le 27 oct. 1998, deux fois par an dès le 21 juin 2005 et pour la dernière fois le 29 octobre 2025 (état au 30 juin 2025). Ces annexes mises à jour ne sont pas publiées dans le RO ([RO 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307), [710](https://fedlex.data.admin.ch/eli/oc/2021/710); [2022 209](https://fedlex.data.admin.ch/eli/oc/2022/209), [625](https://fedlex.data.admin.ch/eli/oc/2022/625); [2023 222](https://fedlex.data.admin.ch/eli/oc/2023/222), [623](https://fedlex.data.admin.ch/eli/oc/2023/623); [2024 166](https://fedlex.data.admin.ch/eli/oc/2024/166), [495](https://fedlex.data.admin.ch/eli/oc/2024/495); [2025 253](https://fedlex.data.admin.ch/eli/oc/2025/253), [705](https://fedlex.data.admin.ch/eli/oc/2025/705)) mais peuvent être consultées sur le site Internet www.gesetze.li &gt; [LR-Nr. 170.551.232](https://www.gesetze.li/chrono/2025504000).
