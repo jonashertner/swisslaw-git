@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (mit Schlussprotokoll und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: de
-version: 2025-04-02
+version: 2025-10-29
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20250402/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20250402-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20250402/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20251029/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20251029-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20251029/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 29. März 1923 Von der Bundesversammlung genehmigt am 21. Dezember 1923[^t-1] Ratifikationsurkunden ausgetauscht am 28. Dezember 1923 In Kraft getreten am 1. Januar 1924
 
-(Stand am 2. April 2025)
+(Stand am 29. Oktober 2025)
 
 [^t-1]: AS **39** 550
 
@@ -235,9 +235,9 @@ Widerhandlungen gegen die kraft dieses Vertrages im Gebiete des Fürstentums Lie
 
 Als Appellationsinstanz nach Artikel 17 Absatz 5[^27-2] des Bundesgesetzes vom 30. Juni 1849 wird das Kantonsgericht des Kantons St. Gallen als Kassationsgericht nach Artikel 18[^27-3] der Kassationshof des schweizerischen Bundesgerichtes bestimmt.
 
-[^27-1]: [AS **I** 87; **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
-[^27-2]: Heute gilt Art. 80 VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
-[^27-3]: Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^27-1]: [AS **I** 87; **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)).
+[^27-2]: Heute gilt Art. 80 VStrR ([SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)).
+[^27-3]: Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 28
 
@@ -247,9 +247,9 @@ Gegen die vom fürstlichen Landgericht ausgefällten Urteile findet die Appellat
 
 Das Rechtsmittel der Kassationsbeschwerde nach Artikel 160ff. des Bundesgesetzes vom 22. März 1893/6. Oktober 1911 betreffend die Organisation der Bundesrechtspflege[^28-3] bleibt vorbehalten.
 
-[^28-1]: [AS **I** 87; **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
-[^28-2]: Ab 1. Jan. 2011 gilt die Schweizerische Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
-[^28-3]: [AS **28** 129 408; **37** 717; [43 439](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)Art. 80 Abs. 2; [44 711](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 509](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)Art. 16 Bst. c und am Schluss, SchlB Änd. vom 20. Juni 1947, 685 Art. 342 Abs. 2 Ziff. 4. BS **3** 531 Art.169]. Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^28-1]: [AS **I** 87; **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)).
+[^28-2]: Ab 1. Jan. 2011 gilt die Schweizerische Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)).
+[^28-3]: [AS **28** 129 408; **37** 717; [43 439](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)Art. 80 Abs. 2; [44 711](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 509](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)Art. 16 Bst. c und am Schluss, SchlB Änd. vom 20. Juni 1947, 685 Art. 342 Abs. 2 Ziff. 4. BS **3** 531 Art.169]. Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 29
 
@@ -271,7 +271,7 @@ Das Recht der Begnadigung steht hinsichtlich der Strafen, welche in Anwendung de
 
 [^chapVI-1]
 
-[^chapVI-1]: Siehe auch den Rahmenvertrag 3. Dez. 2008 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über die Zusammenarbeit im Bereich des Visumverfahrens, der Einreise und des Aufenthalts sowie über die polizeiliche Zusammenarbeit im Grenzraum ([SR 0.360.514.2](https://fedlex.data.admin.ch/eli/cc/2009/151)).
+[^chapVI-1]: Siehe auch den Rahmenvertrag 3. Dez. 2008 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über die Zusammenarbeit im Bereich des Visumverfahrens, der Einreise und des Aufenthalts sowie über die polizeiliche Zusammenarbeit im Grenzraum ([SR 0.360.514.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1496)).
 
 #### Art. 33
 
@@ -323,7 +323,7 @@ Die in Artikel 35 Absatz 1 vorgesehene Berechnungsweise des liechtensteinischen 
 Über die aus dem Fürstentum Liechtenstein aufgrund des Bundesgesetzes vom 27. Juni 1973[^37-2] über die Stempelabgaben eingehenden Einnahmen führt die Eidgenössische Steuerverwaltung besondere Rechnung. Alljährlich wird auf Schluss des Kalenderjahres über diese Einnahmen abgerechnet und der Fürstlichen Regierung der Betrag der reinen Einnahmen, vermindert um den Verwaltungskostenanteil, ausbezahlt. Der Verwaltungskostenanteil der Schweizerischen Eidgenossenschaft setzt sich zusammen aus 1 Prozent der reinen Einnahmen sowie einer fixen Jahrespauschale von 30 000 Franken.
 
 [^37-1]: Fassung gemäss Art. 1 des Vertrages vom 2. Nov. 1994, von der BVers genehmigt am 12. Dez. 1994 und in Kraft seit 1. Mai 1995 ([AS 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [BBl 1994 V 661](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
-[^37-2]: [SR 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+[^37-2]: [SR 641.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8072)
 
 ## Achter Abschnitt Übergangs- und Schlussbestimmungen
 
@@ -384,13 +384,13 @@ Bern, den neunundzwanzigsten März neunzehnhundertunddreiundzwanzig (29. März 1
 </table>
 
 [^t-2]: Aufgehoben durch Notenaustausch vom 29. Juni 2009/10. Dez. 2010, in Kraft seit 10. Dez. 2010 ([AS 2010 6409](https://fedlex.data.admin.ch/eli/oc/2010/903)).
-[^t-3]: [BS **9** 273; [AS 1948 731](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676); **1949** II 1058; **1950** II 1523; [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10); [1954 252](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144); [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)Art. 6 Abs. 2; [1959 2178](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)Art. 7 Abs. 2 Ziff. 2; [1961 399](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420); [1964 142](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [AS 1967 2042](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)Art. 62.6 Abs. 1]. Siehe heute die Tierseuchenverordnung vom 27. Juni 1995 ([SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)).
+[^t-3]: [BS **9** 273; [AS 1948 731](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676); **1949** II 1058; **1950** II 1523; [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10); [1954 252](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144); [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)Art. 6 Abs. 2; [1959 2178](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)Art. 7 Abs. 2 Ziff. 2; [1961 399](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420); [1964 142](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [AS 1967 2042](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)Art. 62.6 Abs. 1]. Siehe heute die Tierseuchenverordnung vom 27. Juni 1995 ([SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)).
 
 Anlagen[^t-4]
 
 <table>
-<tr><td>**Anlage I**</td><td>– Liste der bundesrechtlichen Erlasse,</td></tr>
-<tr><td>**Anlage II**</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
+<tr><td>Anlage I</td><td>– Liste der bundesrechtlichen Erlasse,</td></tr>
+<tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-4]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 2. April 2025 (Stand: 31. Dezember 2024), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266)). Die bereinigten Anlagen können auf der Internetseite: [www.gesetze.li](http://www.gesetze.li) &gt; [LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2025252000) konsultiert werden.
+[^t-4]: Die Anlagen I und II sind seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 29. Oktober 2025 (Stand: 30. Juni 2025), bereinigt worden. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266), [702](https://fedlex.data.admin.ch/eli/oc/2025/702)). Die bereinigten Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite www.gesetze.li &gt;[LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2025502000) konsultiert werden.

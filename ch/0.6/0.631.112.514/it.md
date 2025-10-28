@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Trattato di unione doganale conchiuso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein (con Protocollo finale e allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: it
-version: 2025-04-02
+version: 2025-10-29
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20250402/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20250402-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20250402/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20251029/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20251029-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20251029/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso il 29 marzo 1923 Approvato dall’Assemblea federale il 21 dicembre 1923[^t-1] Istrumenti di ratificazione scambiati il 28 dicembre 1923 Entrato in vigore il 1° gennaio 1924
 
-(Stato 2 aprile 2025)
+(Stato 29 ottobre 2025)
 
 [^t-1]: RU **39** 575
 
@@ -235,9 +235,9 @@ Le contravvenzioni alla legislazione federale applicabile nel territorio del Pri
 
 Il tribunale cantonale del Cantone di San Gallo è designato come istanza d’appello ai sensi dell’articolo 17, capoverso 5[^27-2] della legge federale del 30 giugno 1849 e la Corte di Cassazione del Tribunale svizzero è designata come tribunale di cassazione ai sensi dell’articolo 18[^27-3] della stessa legge.
 
-[^27-1]: [RU **I** 88, **28** 127 art. 227 cpv. 2. CS **3** 286 art. 342 cpv. 2 n. 1]. Ora: conformemente al DPA ([RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
-[^27-2]: Ora: ai sensi dell’art. 78 sgg. LTF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
-[^27-3]: Ora: ai sensi dell’art. 83 DPA ([RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
+[^27-1]: [RU **I** 88, **28** 127 art. 227 cpv. 2. CS **3** 286 art. 342 cpv. 2 n. 1]. Ora: conformemente al DPA ([RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)).
+[^27-2]: Ora: ai sensi dell’art. 78 sgg. LTF ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
+[^27-3]: Ora: ai sensi dell’art. 83 DPA ([RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)).
 
 #### Art. 28
 
@@ -247,8 +247,8 @@ Il ricorso in appello contro le sentenze pronunciate dal tribunale di prima ista
 
 Resta riservato il diritto di ricorso in cassazione previsto dagli articoli 160 e seguenti della legge federale sull’organizzazione giudiziaria federale del 22 marzo 1893/ 6 ottobre 1911[^28-2].
 
-[^28-1]: [RU **I** 88, **28** 127 art. 227 cpv. 2. CS **3** 286 art. 342 cpv. 2 n. 1]. Ora: conformemente al DPA ([RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
-[^28-2]: [RU **28** 127, 393; [37 802](https://fedlex.data.admin.ch/eli/oc/37/716_718_802); [43 453](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)art. 80 cpv. 2; [44 749](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 583](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)art. 16 lett. c e in fine, disp. fin. mod. del 20 giu. 1947, 769 art. 342 cpv. 2 n. 4. CS **3** 499 art. 169]. Ora: ai sensi dell’art. 78 sgg. LTF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^28-1]: [RU **I** 88, **28** 127 art. 227 cpv. 2. CS **3** 286 art. 342 cpv. 2 n. 1]. Ora: conformemente al DPA ([RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)).
+[^28-2]: [RU **28** 127, 393; [37 802](https://fedlex.data.admin.ch/eli/oc/37/716_718_802); [43 453](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)art. 80 cpv. 2; [44 749](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 583](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)art. 16 lett. c e in fine, disp. fin. mod. del 20 giu. 1947, 769 art. 342 cpv. 2 n. 4. CS **3** 499 art. 169]. Ora: ai sensi dell’art. 78 sgg. LTF ([RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)).
 
 #### Art. 29
 
@@ -270,7 +270,7 @@ Il diritto di grazia per le pene, applicate in virtù della legislazione federal
 
 [^chapVI-1]
 
-[^chapVI-1]: Vedi anche l’Acc. quadro del 3 dic. 2008 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla cooperazione in materia di rilascio del visto, di entrata e di soggiorno nonché sulla cooperazione di polizia nell’area di confine ([RS 0.360.514.2](https://fedlex.data.admin.ch/eli/cc/2009/151)).
+[^chapVI-1]: Vedi anche l’Acc. quadro del 3 dic. 2008 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla cooperazione in materia di rilascio del visto, di entrata e di soggiorno nonché sulla cooperazione di polizia nell’area di confine ([RS 0.360.514.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1496)).
 
 #### Art. 33
 
@@ -321,7 +321,7 @@ La norma prevista nell’articolo 35, primo capoverso, per il calcolo della quot
 L’Amministrazione federale delle contribuzioni terrà un conto speciale dei proventi riscossi nel Principato del Liechtenstein in applicazione della legge federale del 27 giugno 1973[^37-2]<sup>©RS\_641.10\_®</sup> sulle tasse di bollo. Il conto sarà chiuso ogni anno alla fine dell’anno civile e l’importo dei proventi netti, dedotta la parte delle spese amministrative, sarà versato al Governo del Principato. La parte delle spese amministrative della Confederazione Svizzera si compone dell’1 per cento degli introiti netti e di un forfait annuo fisso di 30i000 franchi.
 
 [^37-1]: Nuovo testo giusta l’art. 1 dell’Acc. del 2 nov. 1994, approvato dall’AF il 12 dic. 1994 e in vigore dal 1° mag. 1995 ([RU 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [FF 1994 V 601](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
-[^37-2]: [RS 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+[^37-2]: [RS 641.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8072)
 
 ## Capo VIII: Disposizioni transitorie e finali
 
@@ -382,7 +382,7 @@ Berna, ventinove marzo millenovecentoventitrè (29 marzo 1923).
 </table>
 
 [^t-2]: Abrogato dallo scambio di note dei 29 giu. 2009/10 dic. 2010, con effetto dal 10 dic. 2010 ([RU 2010 6409](https://fedlex.data.admin.ch/eli/oc/2010/903)).
-[^t-3]: [CS **9** 276; [RU 1948 676](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676), **1949** II 1080, **1950** II 1527, [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10), [1954 144](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144), [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)art. 6 cpv. 2, [1959 2274](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)art. 7 cpv. 2 n. 2, [1961 420](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420), [1964 138](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [RU 1967 2100](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)art. 62.6 cpv. 1]. Vedi ora l’O del 27 giu. 1995 sulle epizoozie ([RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)).
+[^t-3]: [CS **9** 276; [RU 1948 676](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676), **1949** II 1080, **1950** II 1527, [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10), [1954 144](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144), [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)art. 6 cpv. 2, [1959 2274](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)art. 7 cpv. 2 n. 2, [1961 420](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420), [1964 138](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [RU 1967 2100](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)art. 62.6 cpv. 1]. Vedi ora l’O del 27 giu. 1995 sulle epizoozie ([RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)).
 
 Allegati[^t-4]
 
@@ -391,4 +391,4 @@ Allegati[^t-4]
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 2 apr. 2025 (stato: 31 dicembre 2024). Questi all. aggiornati non sono più pubblicati nella RU ([RU 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266)), ma possono essere consultate sul sito Internet www.gesetze.li &gt; [LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2025252000).
+[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 29 ott. 2025 (stato: 30 giugno 2025). Questi all. aggiornati non sono pubblicati nella RU ([RU 2021 303](https://fedlex.data.admin.ch/eli/oc/2021/303), [711](https://fedlex.data.admin.ch/eli/oc/2021/711); [2022 210](https://fedlex.data.admin.ch/eli/oc/2022/210), [626](https://fedlex.data.admin.ch/eli/oc/2022/626); [2023 223](https://fedlex.data.admin.ch/eli/oc/2023/223), [624](https://fedlex.data.admin.ch/eli/oc/2023/624); [2024 164](https://fedlex.data.admin.ch/eli/oc/2024/164), [496](https://fedlex.data.admin.ch/eli/oc/2024/496); [2025 266](https://fedlex.data.admin.ch/eli/oc/2025/266), [702](https://fedlex.data.admin.ch/eli/oc/2025/702)). Possono essere consultati sul sito Internet www.gesetze.li &gt; [LR-Nr. 170.551.631](https://www.gesetze.li/chrono/2025502000).
