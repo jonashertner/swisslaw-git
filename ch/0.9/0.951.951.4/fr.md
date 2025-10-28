@@ -3,11 +3,11 @@ sr: "0.951.951.4"
 title: Accord monétaire du 19 juin 1980 entre la Confédération suisse et la Principauté de Liechtenstein (avec annexe et échange de lettres)
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715"
 language: fr
-version: 2025-04-02
+version: 2025-10-29
 adopted: 1980-06-19
 in_force: 1981-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20250402/fr/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20250402-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20250402/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20251029/fr/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20251029-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20251029/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification échangés le 26 octobre 1981
 
 Entré en vigueur le 25 novembre 1981
 
-(État le 2 avril 2025)
+(État le 29 octobre 2025)
 
 [^t-1]: [RO 1981 1714](https://fedlex.data.admin.ch/eli/oc/1981/1714_1714_1714)
 
@@ -52,7 +52,7 @@ sont convenus de ce qui suit:
 
 <sup>(4)</sup> La Banque nationale communique au Gouvernement de la Principauté de Liechtenstein les modifications et les compléments apportés aux prescriptions administratives.
 
-[^1-1]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^1-1]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 
 #### Art. 2
 
@@ -78,7 +78,7 @@ sont convenus de ce qui suit:
 
 <sup>(6)</sup> Les frais de procédure et d’enquête sont assumés par la Banque nationale pour autant qu’ils ne puissent être mis à la charge des banques ou des autres personnes et sociétés.
 
-[^3-1]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^3-1]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^3-2]: Actuellement «un recour au Tribunal administratif fédéral».
 
 #### Art. 4
@@ -227,4 +227,4 @@ Annexe[^t-2]
 <tr><td>Annexe I</td><td>– Liste des lois et autres prescriptions fédérales applicables dans la Principauté de Liechtenstein</td></tr>
 </table>
 
-[^t-2]: L’annexe I a été mise à jour régulièrement dès le 3 nov. 1998 deux fois par an dès le 21 juin 2005 et pour la dernière fois le 2 avr. 2025 (état au 31 déc. 2024). Cette annexe mise à jour n’est pas publiée dans le RO ([RO 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808);[2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212), [629](https://fedlex.data.admin.ch/eli/oc/2022/629); [2023 229](https://fedlex.data.admin.ch/eli/oc/2023/229), [626](https://fedlex.data.admin.ch/eli/oc/2023/626); [2024 165](https://fedlex.data.admin.ch/eli/oc/2024/165), [499](https://fedlex.data.admin.ch/eli/oc/2024/499); [2025 254](https://fedlex.data.admin.ch/eli/oc/2025/254)) mais peut être consultée sur le site Internet [www.gesetze.li](http://www.gesetze.li) &gt; [LR-Nr. 170.551.95](https://www.gesetze.li/chrono/2025253000).
+[^t-2]: L’annexe I a été mise à jour régulièrement dès le 3 nov. 1998 deux fois par an dès le 21 juin 2005 et pour la dernière fois le 29 octobre 2025 (état au 30 juin 2025). Cette annexe mise à jour n’est pas publiée dans le RO ([RO 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808);[2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212), [629](https://fedlex.data.admin.ch/eli/oc/2022/629); [2023 229](https://fedlex.data.admin.ch/eli/oc/2023/229), [626](https://fedlex.data.admin.ch/eli/oc/2023/626); [2024 165](https://fedlex.data.admin.ch/eli/oc/2024/165), [499](https://fedlex.data.admin.ch/eli/oc/2024/499); [2025 254](https://fedlex.data.admin.ch/eli/oc/2025/254), [707](https://fedlex.data.admin.ch/eli/oc/2025/707)) mais peut être consultée sur le site Internet www.gesetze.li &gt; [LR-Nr. 170.551.95](https://www.gesetze.li/chrono/2025503000).
