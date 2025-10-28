@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Scambio di note del 27 gennaio 2003 tra la Svizzera e il Liechtenstein relativo alla collaborazione tra le autorità svizzere e liechtensteinensi in materia di aviazione civile (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: it
-version: 2025-04-02
+version: 2025-10-29
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20250402/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20250402-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20250402/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20251029/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20251029-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20251029/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2003** 3431
 
 Entrato in vigore il 27 gennaio 2003
 
-(Stato 2 aprile 2025)
+(Stato 29 ottobre 2025)
 
 Traduzione
 
@@ -81,16 +81,16 @@ L’Ambasciata del Principato del Liechtenstein si pregia di rendere nota al Dip
 
 L’Ambasciata del Principato del Liechtenstein coglie questa occasione per rinnovare al Dipartimento federale degli affari esteri l’espressione della sua alta considerazione.
 
-[^t-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
-[^t-2]: Nuovo testo giusta il dello scambio di note del 22 dic. 2010, in vigore dal 22 dic. 2010 ([RU 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
-[^t-3]: Nuovo testo giusta il dello scambio di note del 22 dic. 2010, in vigore dal 22 dic. 2010 ([RU 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
-[^t-4]: [RS 0.748.095.141](https://fedlex.data.admin.ch/eli/cc/2001/434)
+[^t-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
+[^t-2]: Nuovo testo giusta lo scambio di note del 22 dic. 2010, in vigore dal 22 dic. 2010 ([RU 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
+[^t-3]: Nuovo testo giusta lo scambio di note del 22 dic. 2010, in vigore dal 22 dic. 2010 ([RU 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
+[^t-4]: [RS 0.748.095.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3115)
 
 Allegati[^t-5]
 
 <table>
-<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
-<tr><td>**Allegato II**</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-5]: Gli all. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 2 apr. 2025 (stato: 31 dicembre 2024). Questi all. non sono pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247)), ma essere consultati sul sito Internet: www.gesetze.li &gt;[LR-Nr. 170.551.748](https://www.gesetze.li/chrono/2025256000).
+[^t-5]: Gli all. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 29 ott. 2025 (stato: 30 giugno 2025). Questi all. non sono pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247), [706](https://fedlex.data.admin.ch/eli/oc/2025/706)). Possono essere consultati sul sito Internet: www.gesetze.li &gt;[LR ‑Nr. 170.551.748](https://www.gesetze.li/chrono/2025506000).

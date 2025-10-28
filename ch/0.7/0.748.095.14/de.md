@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Notenaustausch vom 27. Januar 2003 zwischen der Schweiz und Liechtenstein betreffend die Zusammenarbeit der schweizerischen und der liechtensteinischen Behörden im Bereich der Zivilluftfahrt (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: de
-version: 2025-04-02
+version: 2025-10-29
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20250402/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20250402-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20250402/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20251029/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20251029-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20251029/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **2003** 3431
 
 In Kraft getreten am 27. Januar 2003
 
-(Stand am 2. April 2025)
+(Stand am 29. Oktober 2025)
 
 Originaltext
 
@@ -81,10 +81,10 @@ Die Botschaft beehrt sich, dem Eidgenössischen Departement für auswärtige Ang
 
 Gerne benützt die Botschaft des Fürstentums Liechtenstein auch diesen Anlass, um das Eidgenössische Departement für auswärtige Angelegenheiten ihrer ausgezeichneten Hochachtung zu versichern.
 
-[^t-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^t-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 [^t-2]: Fassung gemäss Notenaustausch vom 22. Dez. 2010, in Kraft seit 22. Dez. 2010 ([AS 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
 [^t-3]: Fassung gemäss Notenaustausch vom 22. Dez. 2010, in Kraft seit 22. Dez. 2010 ([AS 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
-[^t-4]: [SR 0.748.095.141](https://fedlex.data.admin.ch/eli/cc/2001/434)
+[^t-4]: [SR 0.748.095.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3115)
 
 Anlagen[^t-5]
 
@@ -93,4 +93,4 @@ Anlagen[^t-5]
 <tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-5]: Die Anlagen I und II sind seit dem 27. Januar 2003 halbjährlich, letztmals auf den 2. April 2025 (Stand: 31. Dezember 2024), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247)). Diese Anlagen werden in der AS nicht publiziert. Sie können auf der Internetseite www.gesetze.li &gt; [LR-Nr. 170.551.748](https://www.gesetze.li/chrono/2025256000) konsultiert werden.
+[^t-5]: Die Anlagen I und II sind seit dem 27. Januar 2003 halbjährlich, letztmals auf den 29. Oktober 2025 (Stand: 30. Juni 2025), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247), [706](https://fedlex.data.admin.ch/eli/oc/2025/706)). Sie können auf der Internetseite www.gesetze.li &gt; [LR-Nr. 170.55 1 .748](https://www.gesetze.li/chrono/2025506000) konsultiert werden.
