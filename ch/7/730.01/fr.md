@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2025-05-01
+version: 2025-10-30
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20251030/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20251030-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250501/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> mai 2025)
+du 1<sup>er</sup> novembre 2017 (État le 30 octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi du 30 septembre 2016 sur l’énergie (LEne)[^ingress-1], vu la loi du
 
 arrête:
 
-[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^ingress-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Chapitre 1 Objet
@@ -86,9 +86,9 @@ Ne sont pas soumis à ces obligations les producteurs d’électricité dont les
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^2-4]: Nouvelle teneur selon l’annexe 2 ch. II 36 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^2-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^2-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^2-6]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
-[^2-7]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^2-7]: [RS 510.518.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7326)
 
 #### Art. 3
 
@@ -156,7 +156,7 @@ La présente section s’applique aux combustibles et aux carburants suivants:
 - b. à l’hydrogène qui n’est issu ni de la biomasse, ni de l’utilisation d’autres agents énergétiques renouvelables (hydrogène non renouvelable);
 - c. aux carburants d’aviation à faible taux d’émission (art. 28*f* de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^4a-1]).
 
-[^4a-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^4a-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 #### Art. 4b
 
@@ -213,7 +213,7 @@ Doit en outre annuler une garantie d’origine ou la faire annuler par un tiers 
 
 <sup>4</sup> Quiconque utilise, pour le marché volontaire de la chaleur, une garantie d’origine établie sur la base de certificats étrangers pour du gaz renouvelable doit l’annuler dans un délai d’une année.
 
-[^4c-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^4c-1]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Section 3 Exigences techniques, procédure et obligation d’annoncer
 
@@ -245,7 +245,7 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 - a. ni d’un système de mesure intelligent au sens de l’art. 8*a* de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité (OApEl)[^6-1];
 - b. ni d’un dispositif de mesure de la courbe de charge avec transmission automatique des données au sens de l’art. 8, al. 5, de l’ordonnance sur l’approvisionnement en électricité dans sa version du 14 mars 2008.
 
-[^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^6-1]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 ## Chapitre 3 Aménagement du territoire dans le cadre du développement des énergies renouvelables
 
@@ -275,7 +275,7 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 
 <sup>2</sup> Les installations hydroélectriques qui n’ont pas d’incidences importantes sur le territoire et l’environnement ne doivent pas nécessairement avoir été prévues dans le plan directeur, même lorsqu’elles revêtent un intérêt national.
 
-[^7a-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^7a-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### Section 1*b* Délimitation de zones appropriées pour des installations éoliennes ou solaires
 
@@ -330,7 +330,7 @@ Si l’agrandissement ou la rénovation provoque une nouvelle altération grave 
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^8-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^8-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^8-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^8-4]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^8-5]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
@@ -373,7 +373,7 @@ S’agissant de la détermination de l’intérêt national d’une éolienne, p
 
 Il est possible de renoncer aux mesures de protection, de reconstitution, de remplacement ou de compensation en particulier lorsque leur mise en œuvre dans des objets d’importance nationale inscrits dans un inventaire visé à l’art. 5 LPN[^9abis-1] empêcherait la réalisation d’un projet ou entraverait de manière excessive sa mise en œuvre ou son exploitation.
 
-[^9abis-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^9abis-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9a<sup>ter</sup>
 
@@ -464,7 +464,7 @@ Si le droit cantonal ou communal ne fixe pas d’autres compétences, l’accord
 
 Si le droit cantonal ne prévoit pas d’autres compétences, l’autorisation cantonale est octroyée par l’autorité visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^9g-1].
 
-[^9g-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9g-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 9h
 
@@ -507,7 +507,7 @@ La puissance installée supplémentaire des installations éoliennes d’intér�
 
 Si le droit cantonal ne prévoit pas d’autres compétences, l’autorité désignée par l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^9j-1] est compétente pour l’autorisation à octroyer sur la base de l’art. 71*c*, al. 1, let. a, LEne.
 
-[^9j-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9j-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 9k
 
@@ -580,8 +580,8 @@ Les gestionnaires de réseau sont tenus de reprendre et de rétribuer:
 
 <sup>3</sup> Pour une installation produisant de l’électricité et dont les travaux d’installation ne sont pas soumis au régime de l’autorisation visé à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^12-1] et qui n’est pas équipée d’un système de mesure intelligent au sens de l’art. 8*a* OApEl[^12-2], le gestionnaire de réseau peut prévoir, en dérogation à l’art. 11 et aux al. 1 et 2, un forfait annuel approprié pour rétribuer l’électricité injectée.[^12-3]
 
-[^12-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^12-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^12-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-2]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 [^12-3]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
@@ -595,7 +595,7 @@ Les gestionnaires de réseau sont tenus de reprendre et de rétribuer:
 <sup>3</sup> La puissance des installations de biomasse, des éoliennes et des installations de géothermie est calculée en fonction de la puissance nominale du générateur d’électricité.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^13-2]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^13-2]: [RS 721.80](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8436)
 
 ### Section 2 Consommation propre
 
@@ -648,7 +648,7 @@ Les locataires et les preneurs à bail peuvent seulement mettre fin à la partic
 <sup>4</sup> Les propriétaires fonciers auxquels incombe l’approvisionnement en électricité de locataires et de preneurs à bail sont libérés de l’obligation de publier les tarifs et de tenir une comptabilité par unité d’imputation au sens de l’art. 4 OApEl[^16-2].
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^16-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-2]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 16a
 
@@ -703,7 +703,7 @@ Le propriétaire foncier peut facturer aux locataires et aux preneurs à bail le
 
 <sup>4</sup> Le gestionnaire de réseau doit exploiter les appareils de mesure au point de mesure visé à l’art. 2, al. 1, let. c, OApEl[^17-1] en cumulant toutes les phases.
 
-[^17-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^17-1]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 18
 
@@ -878,7 +878,7 @@ Avant une éventuelle modification d’utilisation ou une cession, il convient d
 - c. les gains éventuellement réalisés, et leur importance.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 3 Indemnisation de mesures d’assainissement dans le cas d’installations hydroélectriques
 
@@ -892,9 +892,9 @@ Avant une éventuelle modification d’utilisation ou une cession, il convient d
 
 <sup>3</sup> Les conditions requises sont régies par l’annexe 3, ch. 1.
 
-[^28-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^28-2]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^28-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^28-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^28-2]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^28-3]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 29
 
@@ -965,7 +965,7 @@ Après réception de la demande, l’autorité cantonale communique immédiateme
 
 Pour le reste, le chap. 3 LSu[^34-1] est applicable par analogie.
 
-[^34-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^34-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Chapitre 6 Supplément
 
@@ -1104,7 +1104,7 @@ Dans le cas des consommateurs finaux visés à l’art. 39, al. 3, 2<sup>e</sup>
 <sup>3</sup> La valeur ajoutée brute est calculée en vertu de l’annexe 5.
 
 [^43-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^43-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^43-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 44
 
@@ -1435,7 +1435,7 @@ La Confédération encourage les mesures visées à l’art. 50*a* LEne qui remp
 <sup>4</sup> Les cantons peuvent exclure de l’encouragement tout au plus l’une des mesures prévues à l’annexe 6*a*, ch. 1 et 2.
 
 [^54a-1]: Introduit par l’annexe 3 de l’O du 27 nov. 2024 sur la protection du climat, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
-[^54a-2]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^54a-2]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 #### Art. 54b
 
@@ -1502,8 +1502,8 @@ La procédure et l’exécution de l’encouragement sont régies par analogie p
 <sup>4</sup> La Confédération est chargée de l’exécution de l’encouragement du conseil pour le remplacement de chauffage (art. 54*c*).
 
 [^54d-1]: Introduit par l’annexe 3 de l’O du 27 nov. 2024 sur la protection du climat, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
-[^54d-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^54d-3]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^54d-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^54d-3]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ### Section 2 Contributions globales
 
@@ -1734,7 +1734,7 @@ Lorsqu’une demande d’aide financière liée à un objet présente pour les c
 
 <sup>3</sup> L’organe d’exécution représente la Suisse au niveau international dans le domaine des garanties d’origine lors de la collaboration avec les autorités partenaires concernées, en particulier auprès de l’Association des organismes émetteurs (Association of Issuing Bodies, AIB).
 
-[^68-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^68-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Chapitre 10 Analyses des impacts, géodonnées et traitement des données
 
@@ -1847,11 +1847,11 @@ L’organe d’exécution octroie l’accès aux données personnelles ainsi qu�
 - e. les cantons, dans la mesure où l’exécution des dispositions cantonales dans le domaine des bâtiments le requiert (art. 45 LEne et art. 9 de la loi sur le CO<sub>2</sub>).[^70-7]
 
 [^70-1]: Nouvelle teneur selon l’annexe 2 ch. II 74 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^70-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^70-3]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^70-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^70-3]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 [^70-4]: Introduit par l’art. 10 ch. 1 de l’O du 2 avr. 2025 concernant la mise sur le marché de combustibles et carburants renouvelables ou à faible taux d’émission, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)).
-[^70-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^70-6]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^70-5]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^70-6]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^70-7]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Chapitre 11 Exécution
@@ -1904,7 +1904,7 @@ L’organe d’exécution octroie l’accès aux données personnelles ainsi qu�
 
 <sup>2</sup> Les comptes annuels doivent être établis conformément aux dispositions du CO[^75-1] relatives à la comptabilité commerciale et à la présentation des comptes ainsi que conformément aux «Recommandations relatives à la présentation des comptes» (Swiss GAAP RPC)[^75-2] de la Fondation pour les recommandations relatives à la présentation des comptes.
 
-[^75-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^75-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^75-2]: [www.fer.ch](http://www.fer.ch/)
 
 #### Art. 76
@@ -1972,7 +1972,7 @@ Pour les consommateurs finaux visés à l’art. 39, al. 3, 1<sup>re</sup> phras
 <sup>5</sup> Il établit des garanties d’origine pour les certificats étrangers pour du gaz renouvelable qui n’ont pas encore été enregistrés par le service de clearing au 31 décembre 2024 et qui portent sur des substances produites entre le 1<sup>er</sup> avril 2021 et le 31 décembre 2024 si les détenteurs peuvent attester du respect des exigences écologiques fixées dans les principes directeurs de l’Industrie gazière suisse pour le biogaz et autres gaz renouvelables. Les garanties d’origine sont valables dès l’importation des certificats et jusqu’au 31 décembre 2026.
 
 [^80a-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^80a-2]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^80a-2]: [RS 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
 [^80a-3]: [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)
 [^80a-4]: [www.gazenergie.ch](https://gazenergie.ch/fr/savoir/detail/knowledge-topic/3-les-principes-du-biogaz/) &gt; Savoir &gt; Biogaz / gaz renouvelables &gt; 3. Les principes du biogaz &gt; Principes du biogaz – base du projet d’ordonnance sur l’énergie
 
@@ -1980,13 +1980,14 @@ Pour les consommateurs finaux visés à l’art. 39, al. 3, 1<sup>re</sup> phras
 
 **Dispositions transitoires concernant la modification du 20 novembre 2024: gains d’efficacité par les fournisseurs d’électricité**[^80b-1]
 
-<sup>1</sup> Les fournisseurs d’électricité ont jusqu’au 30 avril 2025 pour demander à l’OFEN si les mesures mises en œuvre du 1<sup>er</sup> janvier 2022 au 31 décembre 2024 qui remplissent les exigences visées à l’art. 51*b* et qui ne sont pas des mesures non prises en compte visées à l’art. 51*c* peuvent être prises en compte. Les mesures mises en œuvre antérieurement ne sont pas prises en compte.
+<sup>1</sup> Les fournisseurs d’électricité ont jusqu’au 30 avril 2025 pour demander à l’OFEN si les mesures mises en œuvre du 1<sup>er</sup> janvier 2022 au 31 décembre 2024 qui remplissent les exigences visées à l’art. 51*b* et qui ne sont pas des mesures non prises en compte visées à l’art. 51*c* peuvent être prises en compte. Les mesures mises en œuvre antérieurement ne sont pas prises en compte.[^80b-2]
 
 <sup>2</sup> Si l’OFEN déclare que les mesures peuvent être prises en compte, les économies d’électricité ainsi réalisées peuvent être prises en compte au plus tard dans le cadre du troisième objectif après l’entrée en vigueur de la modification du 20 novembre 2024 concernant la réalisation des objectifs.
 
 <sup>3</sup> Les livraisons de fournisseurs d’électricité au titre de contrats conclus avant le 1<sup>er</sup> janvier 2024 avec des consommateurs finaux ayant fait usage de leur droit d’accès au réseau ne sont pas prises en compte dans le calcul du volume de référence en matière de vente d’électricité jusqu’au 31 décembre 2027. Les fournisseurs d’électricité annoncent à l’OFEN, au plus tard le 30 avril de chaque année, les livraisons correspondantes de l’année précédente.
 
 [^80b-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^80b-2]: Erratum du 30 oct. 2025, ne concerne que le texte italien ([RO 2025 664](https://fedlex.data.admin.ch/eli/oc/2025/664)).
 
 #### Art. 81
 
@@ -2010,7 +2011,7 @@ Annexe 2[^t-2]
 
 - Les garanties pour la géothermie peuvent seulement être accordées si l’installation planifiée satisfait vraisemblablement aux exigences minimales de l’annexe 1.4, ch. 3, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^annex2-lvlu1-lvl1-1].
 
-[^annex2-lvlu1-lvl1-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^annex2-lvlu1-lvl1-1]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 ### 2 Coûts d’investissement imputables
 
@@ -2098,7 +2099,7 @@ Annexe 2[^t-2]
 - 3\.5.1 En cas de versement au prorata, l’OFEN calcule le montant du versement à effectuer sur la base d’une évaluation de la valeur actuelle nette de toutes les entrées et sorties de trésorerie escomptées.
 - 3\.5.2 Les intérêts du capital calculés s’obtiennent en multipliant le capital nécessaire à l’exploitation par le taux d’intérêt calculé, conformément à l’annexe 3 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^annex2-lvlu1-lvl3-1].
 
-[^annex2-lvlu1-lvl3-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^annex2-lvlu1-lvl3-1]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 ### 4 Géodonnées
 
@@ -2106,8 +2107,8 @@ Annexe 2[^t-2]
 - 4\.2 swisstopo peut utiliser et adapter ces géodonnées conformément aux objectifs de la loi du 5 octobre 2007 sur la géoinformation[^annex2-lvlu1-lvl4-1] et de l’ordonnance du 21 mai 2008 sur la géologie nationale[^annex2-lvlu1-lvl4-2]; les cantons d’implantation peuvent le faire conformément à leur propre réglementation cantonale.
 - 4\.3 Lorsque la garantie pour la géothermie est payée, swisstopo met les géodonnées primaires et les géodonnées primaires traitées à la disposition du public.
 
-[^annex2-lvlu1-lvl4-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex2-lvlu1-lvl4-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^annex2-lvlu1-lvl4-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^annex2-lvlu1-lvl4-2]: [RS 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
 Annexe 3
 
@@ -2147,8 +2148,8 @@ Annexe 3
   - a. le respect des exigences selon les art. 39*a* et 43*a* LEaux[^annex3-lvlu1-lvl2-1] et selon l’art. 10 LFSP[^annex3-lvlu1-lvl2-2];
   - b. le caractère économique des mesures.
 
-[^annex3-lvlu1-lvl2-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex3-lvlu1-lvl2-2]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex3-lvlu1-lvl2-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^annex3-lvlu1-lvl2-2]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### 3 Coûts imputables
 
@@ -2211,7 +2212,7 @@ Dans le cas des entreprises qui répondent aux exigences de la révision ordinai
 <tr><td>= valeur ajoutée brute</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex5-lvlu1-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 Annexe 6
 
@@ -2268,7 +2269,7 @@ Le remplacement est encouragé si les conditions suivantes sont remplies:
 - e. le chauffage au bois automatique est équipé d’un système de mesure dans les règles de l’art de la consommation d’électricité et de la production de chaleur.
 
 [^annex6a-lvlu1-lvl1-lvl11-lvl111-1]: La norme peut être obtenue gratuitement sur [www.qm-chauffage-bois.ch](https://www.qm-chauffage-bois.ch/publications.html) &gt; Publications &gt; Tome 1: Guide QM, version 2011.
-[^annex6a-lvlu1-lvl1-lvl11-lvl111-2]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^annex6a-lvlu1-lvl1-lvl11-lvl111-2]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 
 ### 1.1.2 Restrictions
 

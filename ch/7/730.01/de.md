@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2025-05-01
+version: 2025-10-30
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20251030/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20251030-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20250501/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Mai 2025)
+vom 1. November 2017 (Stand am 30. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG) und auf
 
 verordnet:
 
-[^ingress-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-1]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^ingress-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 1. Kapitel: Gegenstand
@@ -86,9 +86,9 @@ Von diesen Pflichten ausgenommen sind Produzentinnen und Produzenten, deren Anla
 [^2-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
 [^2-3]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^2-4]: Fassung gemäss Anhang 2 Ziff. II 36 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^2-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^2-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^2-6]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6121](https://fedlex.data.admin.ch/eli/oc/2020/1011)).
-[^2-7]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^2-7]: [SR 510.518.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7326)
 
 #### Art. 3
 
@@ -156,7 +156,7 @@ Dieser Abschnitt gilt für folgende Brenn- und Treibstoffe:
 - b. Wasserstoff, der nicht aus Biomasse und nicht unter Verwendung anderer erneuerbarer Energieträger hergestellt wird (nicht erneuerbarer Wasserstoff);
 - c. emissionsarme Flugtreibstoffe (Art. 28*f* des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^4a-1]).
 
-[^4a-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^4a-1]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 #### Art. 4b
 
@@ -213,7 +213,7 @@ Einen Herkunftsnachweis hat zudem zu entwerten oder von einem beauftragten Dritt
 
 <sup>4</sup> Wer einen Herkunftsnachweis, der auf der Basis ausländischer Zertifikate für erneuerbarer Gase ausgestellt worden ist, im freiwilligen Wärmemarkt einsetzt, muss ihn innerhalb eines Jahres entwerten.
 
-[^4c-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^4c-1]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### 3. Abschnitt: Technische Anforderungen, Verfahren und Meldepflicht
 
@@ -246,7 +246,7 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 - a. weder über ein intelligentes Messsystem nach Artikel 8*a* der Stromversorgungsverordnung vom 14. März 2008[^6-1] (StromVV) verfügt; noch
 - b. über eine Lastgangmessung mit automatischer Datenübermittlung nach Artikel 8 Absatz 5 der Stromversorgungsverordnung in der Fassung vom 1. März 2008 verfügt.
 
-[^6-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^6-1]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 ## 3. Kapitel: Raumplanung im Zusammenhang mit dem Ausbau erneuerbarer Energien
 
@@ -276,7 +276,7 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 
 <sup>2</sup> Wasserkraftanlagen ohne gewichtige Auswirkungen auf Raum und Umwelt bedürfen keiner Grundlage im Richtplan, auch wenn sie von nationalem Interesse sind.
 
-[^7a-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^7a-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### 1*b*. Abschnitt: Ausscheidung von geeigneten Gebieten für Windkraft- und Solaranlagen
 
@@ -331,7 +331,7 @@ Bewirkt eine Erweiterung oder eine Erneuerung eine neue schwerwiegende Beeinträ
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^8-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^8-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^8-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^8-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^8-5]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
@@ -374,7 +374,7 @@ Für die Beurteilung, ob eine Windkraftanlage von nationalem Interesse ist, kön
 
 Auf Schutz-, Wiederherstellungs-, Ersatz- oder Ausgleichsmassnahmen kann insbesondere verzichtet werden, wenn ihre Umsetzung ein Vorhaben in inventarisierten Objekten von nationaler Bedeutung nach Artikel 5 NHG[^9abis-1] verhindern oder dessen Erstellung oder Betrieb übermässig beeinträchtigen würde.
 
-[^9abis-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^9abis-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9a<sup>ter</sup>
 
@@ -465,7 +465,7 @@ Legt das kantonale oder das kommunale Recht keine andere Zuständigkeit fest, so
 
 Ergibt sich aus dem kantonalen Recht keine andere Zuständigkeit, so wird die kantonale Bewilligung durch die Behörde nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^9g-1] erteilt.
 
-[^9g-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9g-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 9h
 
@@ -508,7 +508,7 @@ Massgebend für die Berechnung der zusätzlich installierten Leistung von 600 MW
 
 Ergibt sich aus dem kantonalen Recht keine andere Zuständigkeit, so ist die Behörde nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^9j-1] für die gestützt auf Artikel 71*c* Absatz 1 Buchstabe a EnG zu erteilende Bewilligung zuständig.
 
-[^9j-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^9j-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 9k
 
@@ -581,8 +581,8 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 
 <sup>3</sup> Für Elektrizitätserzeugungsanlagen, deren Installation nicht der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^12-1] unterliegen und die nicht mit einem intelligenten Messsystem nach Artikel 8*a* StromVV[^12-2] ausgestattet sind, kann der Netzbetreiber abweichend von Artikel 11 und den Absätzen 1 und 2 eine angemessene jährliche Pauschale für die Vergütung der eingespeisten Elektrizität vorsehen.[^12-3]
 
-[^12-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^12-2]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^12-1]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-2]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 [^12-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
@@ -596,7 +596,7 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 <sup>3</sup> Die Leistung von Biomasse-, Windenergie- und Geothermieanlagen bemisst sich nach der Nennleistung des Stromgenerators.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^13-2]: [SR 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^13-2]: [SR 721.80](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8436)
 
 ### 2. Abschnitt: Eigenverbrauch
 
@@ -649,7 +649,7 @@ Mieterinnen und Mieter sowie Pächterinnen und Pächter können ihre Teilnahme a
 <sup>4</sup> Grundeigentümerinnen und Grundeigentümer, die für die Versorgung von Mieterinnen und Mietern sowie von Pächterinnen und Pächtern zuständig sind, sind von der Pflicht, die Tarife zu veröffentlichen und eine Kostenträgerrechnung nach Artikel 4 StromVV[^16-2] zu führen, befreit.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^16-2]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-2]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 16a
 
@@ -704,7 +704,7 @@ Die Grundeigentümerin oder der Grundeigentümer kann der Mieterin oder dem Miet
 
 <sup>4</sup> Der Netzbetreiber hat die Messgeräte am Messpunkt nach Artikel 2 Absatz 1 Buchstabe c StromVV[^17-1] saldierend über alle Phasen zu betreiben.
 
-[^17-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^17-1]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 18
 
@@ -879,7 +879,7 @@ Das BFE ist vor einer anderweitigen Nutzung oder einer Veräusserung zu informie
 - c. allfällige Gewinne und deren Umfang.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^27-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 3. Abschnitt: Entschädigung für Sanierungsmassnahmen bei Wasserkraftanlagen
 
@@ -893,9 +893,9 @@ Das BFE ist vor einer anderweitigen Nutzung oder einer Veräusserung zu informie
 
 <sup>3</sup> Die Anforderungen an das Gesuch richten sich nach Anhang 3 Ziffer 1.
 
-[^28-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^28-2]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^28-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^28-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^28-2]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^28-3]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 29
 
@@ -966,7 +966,7 @@ Nach Eingang des Gesuchs meldet die kantonale Behörde dem Bundesamt für Umwelt
 
 Im Übrigen ist das 3. Kapitel des SuG[^34-1] sinngemäss anwendbar.
 
-[^34-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^34-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## 6. Kapitel: Netzzuschlag
 
@@ -1105,7 +1105,7 @@ Bei Endverbraucherinnen und Endverbrauchern nach Artikel 39 Absatz 3 zweiter Sat
 <sup>3</sup> Die Bruttowertschöpfung berechnet sich nach Anhang 5.
 
 [^43-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^43-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^43-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 44
 
@@ -1266,7 +1266,7 @@ Nicht anrechenbar sind Massnahmen:
 - e. die nicht dauerhaft sind;
 - f. welche die Stromeinsparung durch eine Verhaltensänderung der Endverbraucherinnen und Endverbraucher erzielen.
 
-[^51c-1]: [www.endk.ch](https://www.endk.ch/de/dokumentation/gebaude_muken) &gt; Dokumentation/Archiv &gt; Gebäude/MuKEn
+[^51c-1]: [www .endk.ch](https://www.endk.ch/de/dokumentation/gebaude_muken) &gt; Dokumentation/Archiv &gt; Gebäude/MuKEn
 
 #### Art. 51d
 
@@ -1436,7 +1436,7 @@ Der Bund fördert Massnahmen nach Artikel 50*a* EnG, wenn sie die folgenden Vora
 <sup>4</sup> Die Kantone können höchstens eine der Massnahmen nach Anhang 6*a* Ziffern 1 und 2 von der Förderung ausschliessen.
 
 [^54a-1]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
-[^54a-2]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^54a-2]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 #### Art. 54b
 
@@ -1503,8 +1503,8 @@ Das Verfahren und der Vollzug der Förderung richten sich sinngemäss nach:
 <sup>4</sup> Der Vollzug der Förderung der Beratung für den Heizungsersatz (Art. 54*c*) erfolgt durch den Bund.
 
 [^54d-1]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
-[^54d-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^54d-3]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^54d-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^54d-3]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ### 2. Abschnitt: Globalbeiträge
 
@@ -1735,7 +1735,7 @@ Das BFE unterbreitet Gesuche um Finanzhilfen an Einzelprojekte, die für die Kan
 
 <sup>3</sup> Die Vollzugsstelle vertritt die Schweiz im Bereich des Herkunftsnachweiswesens bei der Zusammenarbeit mit den entsprechenden Partnerbehörden auf internationaler Ebene, insbesondere bei der *Association of Issuing Bodies* (AIB).
 
-[^68-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^68-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 10. Kapitel: Untersuchung der Wirkungen, Geodaten und Datenbearbeitung
 
@@ -1849,11 +1849,11 @@ Die Vollzugstelle gewährt Zugang zu den im Rahmen der Artikel 4*b* und 4*c* erh
 
 [^70-1]: Fassung gemäss Anhang 2 Ziff. II 74 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^70-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^70-3]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^70-4]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^70-3]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^70-4]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 [^70-5]: Eingefügt durch Art. 10 Ziff. 1 der V vom 2. April 2025 über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen, in Kraft seit 1. Mai 2025 ([AS 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)).
-[^70-6]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^70-7]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^70-6]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^70-7]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^70-8]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 11. Kapitel: Vollzug
@@ -1906,7 +1906,7 @@ Die Vollzugstelle gewährt Zugang zu den im Rahmen der Artikel 4*b* und 4*c* erh
 
 <sup>2</sup> Die Jahresrechnung ist nach den Vorschriften des OR[^75-1] über die kaufmännische Buchführung und Rechnungslegung und zusätzlich nach den Fachempfehlungen zur Rechnungslegung Swiss GAAP FER[^75-2] der Stiftung für Fachempfehlungen zur Rechnungslegung zu erstellen.
 
-[^75-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^75-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^75-2]: www.fer.ch
 
 #### Art. 76
@@ -1974,7 +1974,7 @@ Für nicht rückerstattungsberechtigte Endverbraucherinnen und Endverbraucher na
 <sup>5</sup> Sie stellt für ausländische Zertifikate für erneuerbare Gase, die am 31. Dezember 2024 noch nicht in der Clearingstelle erfasst und deren zugrunde liegenden Stoffe zwischen dem 1. April 2021 und dem 31. Dezember 2024 produziert worden sind, Herkunftsnachweise aus, wenn die Eigentümerinnen und Eigentümer nachweisen, dass die geltenden ökologischen Anforderungen nach den Grundsätzen der Schweizer Gasindustrie für Biogas und andere erneuerbare Gase eingehalten wurden. Die Herkunftsnachweise sind ab dem Import der Zertifikate bis zum 31. Dezember 2026 gültig.
 
 [^80a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^80a-2]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^80a-2]: [SR 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
 [^80a-3]: [[AS 2021 589](https://www.fedlex.admin.ch/eli/oc/2021/589/de)](https://fedlex.data.admin.ch/eli/oc/2021/589)
 [^80a-4]: [www.gazenergie.ch](https://gazenergie.ch/de/wissen/detail/knowledge-topic/3-biogas-grundsaetze/) &gt; Wissen &gt; Biogas / Erneuerbare Gase &gt; 3. Biogas-Grundsätze &gt; Biogas-Grundsätze – Basis für den Entwurf der Energieverordnung
 
@@ -1982,13 +1982,14 @@ Für nicht rückerstattungsberechtigte Endverbraucherinnen und Endverbraucher na
 
 **Übergangsbestimmung zur Änderung vom 20. November 2024: Effizienzsteigerung durch Elektrizitätslieferanten**[^80b-1]
 
-<sup>1</sup> Elektrizitätslieferanten können beim BFE bis zum 30. April 2025 für Massnahmen, die sie vom 1. Januar 2022 bis zum 31. Dezember 2024 umgesetzt haben und welche die Anforderungen nach Artikel 51*b* erfüllen und keine nicht anrechenbare Massnahmen nach Artikel 51*c* sind, die Anrechenbarkeit beantragen. Früher durchgeführte Massnahmen sind nicht anrechenbar.
+<sup>1</sup> Elektrizitätslieferanten können beim BFE bis zum 30. April 2025 für Massnahmen, die sie vom 1. Januar 2022 bis zum 31. Dezember 2024 umgesetzt haben und welche die Anforderungen nach Artikel 51*b* erfüllen und keine nicht anrechenbare Massnahmen nach Artikel 51*c* sind, die Anrechenbarkeit beantragen. Früher durchgeführte Massnahmen sind nicht anrechenbar.[^80b-2]
 
 <sup>2</sup> Werden die Massnahmen für anrechenbar erklärt, so können die damit erreichten Stromeinsparungen bis längstens der dritten Zielvorgabe nach Inkrafttreten der Änderung vom 20. November 2024 zur Erfüllung der Zielvorgaben angerechnet werden.
 
 <sup>3</sup> Lieferungen aus geltenden Verträgen von Elektrizitätslieferanten mit Endverbraucherinnen und Endverbrauchern, die von ihrem Anspruch auf Netzzugang Gebrauch gemacht haben und deren Vertragsabschluss vor dem 1. Januar 2024 liegt, sind bis zum 31. Dezember 2027 von der Berechnung des Referenzstromabsatzes ausgenommen. Die Elektrizitätslieferanten melden dem BFE die entsprechenden Lieferungen des Vorjahres jeweils bis zum 30. April.
 
 [^80b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^80b-2]: Die Berichtigung vom 30. Okt. 2025 betrifft nur den italienischen Text ([AS 2025 664](https://fedlex.data.admin.ch/eli/oc/2025/664)).
 
 #### Art. 81
 
@@ -2012,7 +2013,7 @@ Anhang 2[^t-2]
 
 - Geothermie-Garantien können nur gewährt werden, wenn die geplante Anlage voraussichtlich die Mindestanforderungen nach Anhang 1.4 Ziffer 3 der Energieförderungsverordnung vom 1. November 2017[^annex2-lvlu1-lvl1-1] einhalten wird.
 
-[^annex2-lvlu1-lvl1-1]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^annex2-lvlu1-lvl1-1]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 ### 2 Anrechenbare Investitionskosten
 
@@ -2100,7 +2101,7 @@ Anhang 2[^t-2]
 - 3\.5.1 Bei einer anteilsmässigen Auszahlung berechnet das BFE die Höhe des auszuzahlenden Betrags aufgrund einer Nettobarwertbetrachtung aller diskontierten Geldzuflüsse und Geldabflüsse.
 - 3\.5.2 Die kalkulatorischen Kapitalzinsen berechnen sich aus der Multiplikation des betriebsnotwendigen Kapitals mit dem kalkulatorischen Zinssatz gemäss Anhang 3 der Energieförderungsverordnung vom 1. November 2017[^annex2-lvlu1-lvl3-1].
 
-[^annex2-lvlu1-lvl3-1]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^annex2-lvlu1-lvl3-1]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 ### 4 Geodaten
 
@@ -2108,8 +2109,8 @@ Anhang 2[^t-2]
 - 4\.2 Das swisstopo darf diese Geodaten gemäss den Zielsetzungen des Geoinformationsgesetzes vom 5. Oktober 2007[^annex2-lvlu1-lvl4-1] und der Landesgeologieverordnung vom 21. Mai 2008[^annex2-lvlu1-lvl4-2] nutzen und bearbeiten, die Standortkantone gemäss ihren jeweiligen kantonalen Regelungen.
 - 4\.3 Wird die Geothermie-Garantie ausbezahlt, so stellt das swisstopo die primären und prozessierten primären Geodaten der Öffentlichkeit zur Verfügung.
 
-[^annex2-lvlu1-lvl4-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex2-lvlu1-lvl4-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^annex2-lvlu1-lvl4-1]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^annex2-lvlu1-lvl4-2]: [SR 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
 Anhang 3
 
@@ -2149,8 +2150,8 @@ Anhang 3
   - a. der Erfüllung der Anforderungen nach den Artikeln 39*a* und 43*a* GSchG[^annex3-lvlu1-lvl2-1] sowie nach Artikel 10 BGF[^annex3-lvlu1-lvl2-2];
   - b. der Wirtschaftlichkeit der Massnahmen.
 
-[^annex3-lvlu1-lvl2-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annex3-lvlu1-lvl2-2]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex3-lvlu1-lvl2-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^annex3-lvlu1-lvl2-2]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 ### 3 Anrechenbare Kosten
 
@@ -2213,7 +2214,7 @@ Bei Unternehmen, die der ordentlichen Revision nach Artikel 727 Absatz 1 OR[^ann
 <tr><td>= Bruttowertschöpfung</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex5-lvlu1-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 Anhang 6
 
@@ -2270,7 +2271,7 @@ Der Ersatz wird gefördert, wenn die folgenden Voraussetzungen erfüllt sind:
 - e. Die automatische Holzfeuerung verfügt über eine fachgerechte Strom- und Wärmemessung.
 
 [^annex6a-lvlu1-lvl1-lvl11-lvl111-1]: Der Standard kann kostenlos bezogen werden unter: [www.qmholzheizwerke.ch](https://www.qmholzheizwerke.ch/publikationen.html) &gt; Publikationen &gt; Band 1: Q‑Leitfaden, Version 2011.
-[^annex6a-lvlu1-lvl1-lvl11-lvl111-2]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^annex6a-lvlu1-lvl1-lvl11-lvl111-2]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 
 ### 1.1.2 Einschränkungen
 
