@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: it
-version: 2024-07-01
+version: 2025-10-31
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20251031/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20251031-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20251031/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/it"
 
 (Ordinanza sugli impianti a bassa tensione, OIBT)
 
-del 7 novembre 2001 (Stato 1° luglio 2024)
+del 7 novembre 2001 (Stato 31 ottobre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 3, 3*a*, 3*b* e 55 capoverso 3 della legge del 24 giugno 1902
 
 ordina:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1375](https://fedlex.data.admin.ch/eli/oc/2019/268)).
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1375](https://fedlex.data.admin.ch/eli/oc/2019/268)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -55,11 +55,11 @@ La presente ordinanza non si applica:
 - b. agli impianti elettrici degli impianti a fune secondo l’ordinanza del 21 dicembre 2006[^1-4] sugli impianti a fune;
 - c. all’illuminazione di strade e piazze pubbliche.[^1-5]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^1-2]: Nuova espressione giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^1-3]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^1-4]: [RS 743.011](https://fedlex.data.admin.ch/eli/cc/2007/14)
-[^1-5]: Nuovo testo giusta il n. II 3 dell’annesso 2 all’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^1-2]: Nuova espressione giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-3]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^1-4]: [RS 743.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8835)
+[^1-5]: Nuovo testo giusta la cifra II n. 3 dell’annesso 2 all’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 2
 
@@ -91,9 +91,9 @@ Sono considerati impianti elettrici:
 
 <sup>3</sup> I gestori di rete sono imprese di diritto privato o pubblico che gestiscono una rete di distribuzione di elettricità per la fornitura ai consumatori finali.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^2-3]: Nuova espressione giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^2-3]: Nuova espressione giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -105,7 +105,7 @@ Sono considerati impianti elettrici:
 
 <sup>3</sup> Se non esistono norme tecniche specifiche, si prendono in considerazione le norme applicabili per analogia o eventuali istruzioni tecniche.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^3-2]: International Elettronical Commission (Commissione elettrotecnica internazionale).
 [^3-3]: Comité Européen de Normalisation ELECtrotechnique (Comitato europeo di normalizzazione elettrotecnica).
 [^3-4]: Il testo di tali norme può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
@@ -124,10 +124,10 @@ Sono considerati impianti elettrici:
 
 <sup>5</sup> Se, nonostante l’osservanza delle regole riconosciute della tecnica, si manifestano interferenze intollerabili ed eliminabili solo con grande dispendio, gli interessati cercano di accordarsi. Se non pervengono a un accordo, decide il DATEC, previa consultazione degli organi di controllo interessati (art. 21 LIE).
 
-[^4-1]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^4-1]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 [^4-2]: Nuova espr. giusta l’art. 30 cpv. 2 lett. d dell’O del 25 nov. 2015 sulla compatibilità elettromagnetica, in vigore dal 20 apr. 2016 ([RU 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)).
-[^4-3]: Nuovo testo giusta il n. II 5 dell’all. 3 all’O del 18 nov. 2009 sulla compatibilità elettromagnetica, in vigore dal 1° gen. 2010 ([RU 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)).
-[^4-4]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^4-3]: Nuovo testo giusta la cifra II n. 5 dell’all. 3 all’O del 18 nov. 2009 sulla compatibilità elettromagnetica, in vigore dal 1° gen. 2010 ([RU 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)).
+[^4-4]: [RS 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 
 #### Art. 5
 
@@ -161,7 +161,7 @@ Le persone fisiche che eseguono lavori d’installazione sotto la propria respon
 - b. il loro livello di formazione corrisponde allo stato della tecnica più recente ed è assicurata la loro formazione continua; e
 - c. offrono la garanzia di rispettare le prescrizioni della presente ordinanza.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 8
 
@@ -181,8 +181,8 @@ Le persone fisiche che eseguono lavori d’installazione sotto la propria respon
 
 <sup>4</sup> L’Ispettorato decide circa l’equivalenza delle qualifiche professionali estere e riguardo alle professioni affini a quelle di installatore elettricista AFC, applicando per analogia le disposizioni dell’ordinanza del 19 novembre 2003[^8-2] sulla formazione professionale.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^8-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^8-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 #### Art. 9
 
@@ -206,7 +206,7 @@ Se un’impresa occupa il responsabile tecnico a tempo parziale, l’autorizzazi
 - b. l’onere di lavoro corrisponde al tasso di occupazione; e
 - c. il responsabile in questione non si occupa complessivamente di più di due imprese.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 10
 
@@ -218,8 +218,8 @@ Se un’impresa occupa il responsabile tecnico a tempo parziale, l’autorizzazi
 
 <sup>3</sup> Le succursali devono soddisfare i requisiti di cui al capoverso 1 come l’impresa stessa. Possono organizzarsi conformemente al capoverso 2.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 800](https://fedlex.data.admin.ch/eli/oc/2022/800)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 800](https://fedlex.data.admin.ch/eli/oc/2022/800)).
 
 #### Art. 10a
 
@@ -244,7 +244,7 @@ Le imprese possono affidare l’esecuzione di lavori d’installazione solamente
 
 <sup>7</sup> L’Ispettorato decide circa l’equivalenza dei diplomi.
 
-[^10a-1]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 10b
 
@@ -261,7 +261,7 @@ Le imprese titolari di un’autorizzazione d’installazione secondo l’articol
 
 <sup>3</sup> Le persone del mestiere e le persone autorizzate a eseguire il controllo secondo l’articolo 10 capoverso 2 dell’impresa che ha affidato i lavori fanno in modo che i lavori di installazione eseguiti da imprese o persone di cui al capoverso 1 siano controllati regolarmente.
 
-[^10b-1]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^10b-1]: Introdotto dalla cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 11
 
@@ -273,13 +273,13 @@ Le imprese titolari di un’autorizzazione d’installazione secondo l’articol
 
 <sup>3</sup> Per tutto il tempo in cui l’impresa dispone di un’autorizzazione sostitutiva, l’Ispettorato controlla particolarmente i suoi lavori d’installazione. Le spese sono a carico del titolare dell’autorizzazione sostitutiva.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ### Sezione 3: Autorizzazione d’installazione limitata
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 12
 
@@ -325,7 +325,7 @@ Il titolare dell’autorizzazione provvede affinché:
 - b. le persone di cui alla lettera a portino a termine la necessaria formazione continua; e
 - c. sia garantita senza interruzioni l’assistenza tecnica professionale delle persone di cui alla lettera a da parte di un servizio d’ispezione accreditato.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 #### Art. 14
 
@@ -349,8 +349,8 @@ Un’autorizzazione per lavori d’installazione su impianti la cui esecuzione r
 
 <sup>4</sup> I dipendenti dell’impresa non menzionati nell’autorizzazione possono eseguire lavori di manutenzione e riparazione ad impianti di allarme, montacarichi, nastri trasportatori e battelli se hanno seguito un corso riconosciuto dall’Ispettorato per simili lavori su relativi impianti, comprendente almeno 40 lezioni di sicurezza elettrica, nell’impresa o presso un centro di formazione riconosciuto. I lavori devono concludersi con un controllo dei lavori eseguiti. Il risultato di questo controllo deve essere documentato.[^14-3]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 [^14-3]: Correzione del 31 ott. 2017 ([RU 2017 5761](https://fedlex.data.admin.ch/eli/oc/2017/620)).
 
 #### Art. 15
@@ -394,8 +394,8 @@ Non necessitano inoltre di un’autorizzazione d’installazione le persone che:
 
 <sup>3</sup> Gli impianti elettrici di cui ai capoversi 1 e 2 lettera a devono essere controllati dal titolare di un’autorizzazione di controllo. La persona che esegue il controllo deve consegnare un rapporto di sicurezza al proprietario dell’impianto.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ### Sezione 5: Disposizioni comuni
 
@@ -421,8 +421,8 @@ Le autorizzazioni d’installazione limitate indicano:
 
 <sup>3</sup> Le autorizzazioni per i lavori d’installazione interni all’impresa indicano inoltre il titolare dell’autorizzazione di controllo che garantisce l’assistenza tecnica conformemente all’articolo 13 capoverso 4.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 18
 
@@ -447,7 +447,7 @@ L’autorizzazione d’installazione è revocata se:
 
 <sup>3</sup> L’Ispettorato rende pubblica la revoca di un’autorizzazione d’installazione.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 20
 
@@ -465,7 +465,7 @@ L’autorizzazione d’installazione è revocata se:
 
 <sup>2</sup> Il DATEC disciplina le condizioni d’esame in collaborazione con le organizzazioni del mondo del lavoro.[^21-1]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ## Capitolo 3: Esecuzione dei lavori d’installazione
 
@@ -487,7 +487,7 @@ I lavori agli impianti elettrici devono di regola essere effettuati solo se non 
 
 <sup>3</sup> Per i lavori agli impianti elettrici sotto tensione, devono sempre essere impiegate due persone. Una di esse è designata quale responsabile.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 23
 
@@ -497,7 +497,7 @@ I lavori agli impianti elettrici devono di regola essere effettuati solo se non 
 
 <sup>2</sup> L’Ispettorato può concedere o ordinare deroghe all’obbligo di notifica.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 24
 
@@ -520,8 +520,8 @@ Prima della consegna di un impianto elettrico al proprietario deve essere effett
 
 <sup>6</sup> Dopo il controllo finale, il proprietario notifica al gestore della rete la conclusione dei lavori d’installazione e gli consegna il rapporto di sicurezza.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 25
 
@@ -537,10 +537,10 @@ Prima della consegna di un impianto elettrico al proprietario deve essere effett
 
 <sup>4</sup> Il titolare di un’autorizzazione d’installazione limitata consegna al proprietario dell’impianto il verbale della prima verifica o il verbale del controllo dei lavori eseguiti.[^25-4]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
-[^25-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
-[^25-4]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-3]: Introdotto dalla cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 ## Capitolo 4: Controllo degli impianti
 
@@ -570,7 +570,7 @@ I gestori di rete possono assumere i compiti di un organo di controllo indipende
 
 <sup>4</sup> L’accreditamento dei servizi d’ispezione è retto dall’ordinanza del 17 giugno 1996[^26-1] sull’accreditamento e sulla designazione. Il DATEC può stabilire i requisiti tecnici dell’accreditamento; a tale scopo sente l’Ispettorato e le organizzazioni professionali.
 
-[^26-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^26-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 27
 
@@ -598,8 +598,8 @@ L’autorizzazione di controllo è accordata a un’impresa se:
 
 <sup>4</sup> Nell’autorizzazione sono menzionate le persone autorizzate a eseguire il controllo degli impianti.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
 
 #### Art. 28
 
@@ -618,8 +618,8 @@ L’autorizzazione di controllo è revocata se:
 
 <sup>4</sup> L’Ispettorato rende pubblica la revoca di un’autorizzazione di controllo.[^28-2]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^28-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 29
 
@@ -660,7 +660,7 @@ Le attività secondo il capoverso 1 devono essere effettuate solo da servizi d�
 
 <sup>4</sup> Le competenze di controllo degli impianti elettrici e i periodi di controllo sono stabiliti nell’allegato.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 33
 
@@ -689,9 +689,9 @@ Tengono un registro degli impianti elettrici che alimentano; questo registro ind
 
 <sup>5</sup> Informano l’Ispettorato se constatano che i titolari di autorizzazioni d’installazione o di autorizzazioni di controllo contravvengono gravemente ai loro obblighi oppure se sono effettuati senza autorizzazione lavori d’installazione o controlli di impianti.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^33-2]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
-[^33-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^33-2]: Introdotto dalla cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^33-3]: Introdotto dalla cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 34
 
@@ -707,9 +707,9 @@ Tengono un registro degli impianti elettrici che alimentano; questo registro ind
 
 <sup>4</sup> Nei casi controversi, l’Ispettorato decide se un impianto soddisfa le prescrizioni della presente ordinanza.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^34-3]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 766](https://fedlex.data.admin.ch/eli/oc/2023/766)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^34-3]: Introdotto dalla cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ### Sezione 3: Rapporto di sicurezza
 
@@ -730,9 +730,9 @@ Il proprietario che riprende dal realizzatore un impianto elettrico con un perio
 
 <sup>4</sup> *...*[^35-3]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
-[^35-3]: Introdotto dal n. I dell’O del 4 giu. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)). Abrogato dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
+[^35-3]: Introdotto dalla cifra I dell’O del 4 giu. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)). Abrogato dalla cifra I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
 
 #### Art. 36
 
@@ -750,10 +750,10 @@ Il proprietario che riprende dal realizzatore un impianto elettrico con un perio
 
 <sup>4</sup> La periodicità dei controlli per i diversi impianti è stabilita nell’allegato. In casi eccezionali, l’Ispettorato può autorizzare deroghe a questi controlli periodici.
 
-[^36-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
-[^36-2]: Introdotto dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^36-3]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^36-4]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^36-2]: Introdotto dalla cifra II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^36-3]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-4]: Introdotto dalla cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 37
 
@@ -779,8 +779,8 @@ Il rapporto di sicurezza deve essere è firmato:
 
 <sup>3</sup> Il DATEC stabilisce il contenuto tecnico del rapporto di sicurezza. Sente al riguardo l’Ispettorato e le organizzazioni professionali.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 38
 
@@ -814,14 +814,14 @@ Il rapporto di sicurezza deve essere è firmato:
 
 <sup>4</sup> Può informare altri organi interessati, in particolare le autorità cantonali competenti in materia di protezione contro gli incendi o la competente assicurazione immobiliare, sui difetti degli impianti elettrici e sul rifiuto del proprietario dell’impianto di eliminarli.[^40-2]
 
-[^40-1]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^40-1]: Introdotto dalla cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ## Capitolo 5: Tasse, disposizioni penali
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^chap5-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 41
 
@@ -829,7 +829,7 @@ Il rapporto di sicurezza deve essere è firmato:
 
 Per l’attività di controllo e per le decisioni secondo la presente ordinanza, l’Ispettorato preleva tasse conformemente agli articoli 9 e 10 dell’ordinanza del 7 dicembre 1992[^41-1] sull’Ispettorato federale degli impianti a corrente forte.
 
-[^41-1]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+[^41-1]: [RS 734.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8579)
 
 #### Art. 42
 
@@ -851,7 +851,7 @@ Per l’attività di controllo e per le decisioni secondo la presente ordinanza,
   - 6\. viola il principio dell’indipendenza dei controlli (art. 31), o
   - 7\. consegna al proprietario impianti elettrici con difetti pericolosi (art. 3).
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -861,13 +861,13 @@ Per l’attività di controllo e per le decisioni secondo la presente ordinanza,
 
 L’ordinanza del 6 settembre 1989[^43-1] concernente gli impianti elettrici a bassa tensione è abrogata.
 
-[^43-1]: [[RU 1989 1834](https://fedlex.data.admin.ch/eli/oc/1989/1834_1834_1834), [1990 924](https://fedlex.data.admin.ch/eli/oc/1990/924_924_924), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)art. 15 n. 1, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 3, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 4, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)n. II 20, [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. I 4]
+[^43-1]: [[RU 1989 1834](https://fedlex.data.admin.ch/eli/oc/1989/1834_1834_1834), [1990 924](https://fedlex.data.admin.ch/eli/oc/1990/924_924_924), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)art. 15 n. 1, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 3, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 4, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)cifra II n. 20, [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)cifra I n. 4]
 
 #### Art. 44
 
 **Disposizioni transitorie**
 
-<sup>1</sup> e <sup>2</sup> …[^44-1]
+<sup>1 e <sup>2</sup></sup> …[^44-1]
 
 <sup>3</sup> Gli attestati di competenza rilasciati secondo il diritto anteriore rimangono validi.
 
@@ -886,7 +886,7 @@ I periodi di controllo fissati in base al diritto anteriore sono mantenuti. Se i
 
 <sup>8</sup> I gestori di rete che non rispondono ai requisiti di cui all’articolo 26 capoverso 3 possono assumere i compiti di un organo di controllo indipendente o di un servizio d’ispezione accreditato per sei mesi al massimo dall’entrata in vigore della presente ordinanza.
 
-[^44-1]: Abrogati dal n. IV 24 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^44-1]: Abrogati dalla cifra IV n. 24 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 44a
 
@@ -898,8 +898,8 @@ I periodi di controllo fissati in base al diritto anteriore sono mantenuti. Se i
 
 <sup>3</sup> Le persone titolari di un attestato federale di capacità quale elettricista di montaggio AFC o di un diploma equivalente, che hanno iniziato la loro formazione professionale di base prima del 2015, possono mettere in servizio impianti secondo l’articolo 10*a* capoverso 3 solamente se dimostrano di aver svolto un’attività pratica sotto la sorveglianza di una persona del mestiere per un periodo di un anno e di disporre di una formazione supplementare definita dall’USIE che li autorizza a eseguire la prima verifica.
 
-[^44a-1]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^44a-2]: La designazione dell’unione è stata adattata in applicazione dell’art. 12 cpv. 2 della Legge del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 22 giu. 2019. Di detta modifica è tenuto conto in tutto il presente testo.
+[^44a-1]: Introdotto dalla cifra I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^44a-2]: La designazione dell’unione è stata adattata in applicazione dell’art. 12 cpv. 2 della Legge del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 22 giu. 2019. Di detta modifica è tenuto conto in tutto il presente testo.
 
 #### Art. 45
 
@@ -913,7 +913,7 @@ Allegato[^t-1]
 
 ## Controlli periodici
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 23 ago. 2017 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Aggiornato dai n. I delle O del 4 giu. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 23 ago. 2017 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Aggiornato dalle cifre I delle O del 4 giu. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)). La correzione del 31 ott. 2025, concerne soltanto il testo francese ([RU 2025 671](https://fedlex.data.admin.ch/eli/oc/2025/671)).
 
 ### 1 Impianti elettrici che sottostanno al controllo da parte di un servizio d’ispezione accreditato (impianti speciali, art. 32 cpv. 2)
 

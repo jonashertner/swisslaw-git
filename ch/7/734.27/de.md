@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2001 über elektrische Niederspannungsinstall
 short: NIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: de
-version: 2024-07-01
+version: 2025-10-31
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20251031/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20251031-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20251031/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/de"
 
 (Niederspannungs-Installationsverordnung, NIV)
 
-vom 7. November 2001 (Stand am 1. Juli 2024)
+vom 7. November 2001 (Stand am 31. Oktober 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 3, 3*a*, 3*b* und 55 Absatz 3 des Elektrizitätsgesetz
 
 verordnet:
 
-[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1375](https://fedlex.data.admin.ch/eli/oc/2019/268)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -56,8 +56,8 @@ Die Verordnung gilt nicht für:
 - c. die Beleuchtung von Strassen und öffentlichen Plätzen.[^1-4]
 
 [^1-1]: Ausdruck gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Die Änd. wurde im ganzen Text berücksichtigt.
-[^1-2]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^1-3]: [SR 743.011](https://fedlex.data.admin.ch/eli/cc/2007/14)
+[^1-2]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^1-3]: [SR 743.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8835)
 [^1-4]: Fassung gemäss Beilage 2 Ziff. II 3 der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 2
@@ -105,7 +105,7 @@ Elektrische Installationen sind:
 [^3-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^3-2]: International Electrotechnical Commission
 [^3-3]: Comité Européen de Normalisation ELECtrotechnique
-[^3-4]: Die Liste der Titel der Normen sowie deren Texte können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3-4]: Die Liste der Titel der Normen sowie deren Texte können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 4
 
@@ -121,10 +121,10 @@ Elektrische Installationen sind:
 
 <sup>5</sup> Treten trotz Beachtung der anerkannten Regeln der Technik unzumutbare Beeinflussungen auf, die nur mit grossem Aufwand beseitigt werden können, so suchen sich die Beteiligten zu verständigen. Können sie sich nicht einigen, so entscheidet das UVEK; es hört zuvor die beteiligten Kontrollstellen (Art. 21 EleG) an.
 
-[^4-1]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^4-1]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 [^4-2]: Fassung gemäss Art. 30 Abs. 2 Bst. d der V vom 25. Nov. 2015 über die elektromagnetische Verträglichkeit, in Kraft seit 20. April 2016 ([AS 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)).
 [^4-3]: Bezeichnung gemäss Anhang 3 Ziff. II 5 der V vom 18. Nov. 2009 über die elektromagnetische Verträglichkeit, in Kraft seit 1. Jan. 2010 ([AS 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)).
-[^4-4]: [SR 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^4-4]: [SR 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 
 #### Art. 5
 
@@ -181,7 +181,7 @@ Fachkundige Person ist im Weiteren auch, wer drei Jahre Praxis im Installieren u
 <sup>4</sup> Über die Gleichwertigkeit ausländischer Berufsqualifikationen und über die dem Elektroinstallateur EFZ nahe verwandten Berufe entscheidet das Inspektorat in analoger Anwendung der Berufsbildungsverordnung vom 19. November 2003[^8-2].
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^8-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^8-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 #### Art. 9
 
@@ -569,7 +569,7 @@ Netzbetreiberinnen dürfen die Aufgaben eines unabhängigen Kontrollorganes oder
 
 <sup>4</sup> Die Akkreditierung der Inspektionsstellen richtet sich nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^26-1]. Das UVEK kann die fachlichen Anforderungen für die Akkreditierung festlegen; es hört hiefür das Inspektorat und die Fachorganisationen an.
 
-[^26-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^26-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 27
 
@@ -749,7 +749,7 @@ Sie führen ein Verzeichnis der von ihnen versorgten elektrischen Installationen
 
 <sup>4</sup> Die Kontrollperioden für die einzelnen elektrischen Installationen sind im Anhang festgelegt. Das Inspektorat kann in Ausnahmefällen Abweichungen von diesen Kontrollperioden bewilligen.
 
-[^36-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^36-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^36-2]: Eingefügt durch Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^36-3]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^36-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
@@ -828,7 +828,7 @@ Der Sicherheitsnachweis muss unterzeichnet werden:
 
 Für die Kontrolltätigkeit und für Verfügungen nach dieser Verordnung erhebt das Inspektorat Gebühren nach den Artikeln 9 und 10 der Verordnung vom 7. Dezember 1992[^41-1] über das Eidgenössische Starkstrominspektorat.
 
-[^41-1]: [SR 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+[^41-1]: [SR 734.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8579)
 
 #### Art. 42
 
@@ -866,7 +866,7 @@ Die Verordnung vom 6. September 1989[^43-1] über elektrische Niederspannungsins
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> und <sup>2</sup> …[^44-1]
+<sup>1 und <sup>2</sup></sup> …[^44-1]
 
 <sup>3</sup> Nach bisherigem Recht ausgestellte Anerkennungen der Fachkundigkeit behalten ihre Gültigkeit.
 
@@ -898,7 +898,7 @@ Die laufenden Kontrollperioden auf Grund des bisherigen Rechts werden unverände
 <sup>3</sup> Personen mit einem eidgenössischen Fähigkeitszeugnis «Montage-Elektriker EFZ» oder einem gleichwertigen Abschluss, die ihre berufliche Grundbildung vor 2015 begonnen haben, dürfen elektrische Installationen gemäss Artikel 10*a* Absatz 3 nur in Betrieb nehmen, wenn sie ein Jahr Praxis unter Aufsicht einer fachkundigen Person und eine vom EIT.swiss definierte Zusatzausbildung aufweisen, die sie befähigt die Erstprüfung durchzuführen.
 
 [^44a-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^44a-2]: Die Bezeichnung des Verbands wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 22. Juni 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^44a-2]: Die Bezeichnung des Verbands wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 22. Juni 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 45
 
@@ -912,7 +912,7 @@ Anhang[^t-1]
 
 ## Periodische Kontrolle
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 23. Aug. 2017 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Bereinigt gemäss Ziff. I der V vom 4. Juni 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) und vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 23. Aug. 2017 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Bereinigt gemäss Ziff. I der V vom 4. Juni 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) und vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)). Die Berichtigung vom 31. Okt. 2025 betrifft nur den französischen Text ([AS 2025 671](https://fedlex.data.admin.ch/eli/oc/2025/671)).
 
 ### 1 Elektrische Installationen, die der Kontrolle durch eine akkreditierte Inspektionsstelle unterliegen (Spezialinstallationen, Art. 32 Abs. 2)
 

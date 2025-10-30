@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2001 sur les installations électriques à bass
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: fr
-version: 2024-07-01
+version: 2025-10-31
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20240701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20251031/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20251031-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20251031/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20240701/fr"
 
 (Ordonnance sur les installations à basse tension, OIBT)
 
-du 7 novembre 2001 (État le 1<sup>er</sup> juillet 2024)
+du 7 novembre 2001 (État le 31 octobre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 3, 3*a*, 3*b* et 55, al. 3, de la loi du 24 juin 1902 sur les instal
 
 arrête:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1375](https://fedlex.data.admin.ch/eli/oc/2019/268)).
 
 ## Chapitre 1 Dispositions générales
@@ -56,8 +56,8 @@ La présente ordonnance n’est pas applicable:
 - c. à l’éclairage des routes et des places publiques.[^1-4]
 
 [^1-1]: Nouvelle expression selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^1-3]: [RS 743.011](https://fedlex.data.admin.ch/eli/cc/2007/14)
+[^1-2]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^1-3]: [RS 743.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8835)
 [^1-4]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 2
@@ -121,9 +121,9 @@ Par installations électriques, on entend:
 
 <sup>5</sup> S’il se produit, malgré le respect des règles techniques reconnues, des interférences inadmissibles ne pouvant être éliminées qu’à grands frais, les intéressés cherchent à s’entendre. S’ils n’y parviennent pas, le DETEC tranche après avoir consulté les organes de contrôle compétents (art. 21 LIE).
 
-[^4-1]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18). Nouvelle expression selon l’art. 30 al. 2 let. d de l’O du 25 nov. 2015 sur la compatibilité électromagnétique, en vigueur depuis le 20 avr. 2016 ([RO 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)).
+[^4-1]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590). Nouvelle expression selon l’art. 30 al. 2 let. d de l’O du 25 nov. 2015 sur la compatibilité électromagnétique, en vigueur depuis le 20 avr. 2016 ([RO 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)).
 [^4-2]: Nouvelle teneur selon l’annexe 3 ch. II 5 de l’O du 18 nov. 2009 sur la compatibilité électromagnétique, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)).
-[^4-3]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^4-3]: [RS 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 
 #### Art. 5
 
@@ -178,7 +178,7 @@ Est également du métier la personne qui peut justifier de trois ans de pratiqu
 <sup>4</sup> L’Inspection statue sur les équivalences de qualifications professionnelles étrangères et sur les professions apparentées à celle d’installateur-électricien CFC en appliquant par analogie l’ordonnance du 19 novembre 2003 sur la formation professionnelle[^8-2].
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^8-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^8-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 #### Art. 9
 
@@ -567,7 +567,7 @@ Les exploitants de réseaux peuvent assumer les tâches des organes de contrôle
 
 <sup>4</sup> L’accréditation des organismes d’inspection est régie par l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^26-1]. Le DETEC peut fixer les exigences techniques relatives à l’accréditation; il consulte à cet effet l’Inspection et les organisations professionnelles.
 
-[^26-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^26-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 27
 
@@ -725,7 +725,7 @@ Lorsque le propriétaire reprend du constructeur une installation dont la pério
 
 <sup>3</sup> Lorsque le propriétaire reprend du constructeur une installation de production d’énergie reliée à un réseau de distribution à basse tension ou une installation électrique dont la période de contrôle selon l’annexe est inférieure à 20 ans, il fait faire, dans les 6 mois suivant la réception de l’installation, un contrôle de réception par un organisme indépendant ou par un organisme d’inspection accrédité. Il remet dans le même délai le rapport de sécurité au gestionnaire de réseau ou, dans le cas des installations visées l’art. 32, al. 2, à l’Inspection.[^35-2]
 
-<sup>4</sup> ...[^35-3]
+<sup>4</sup> …[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 281](https://fedlex.data.admin.ch/eli/oc/2024/281)).
@@ -747,7 +747,7 @@ Lorsque le propriétaire reprend du constructeur une installation dont la pério
 
 <sup>4</sup> La périodicité des contrôles pour les différentes installations est réglée dans l’annexe. L’Inspection peut autoriser des exceptions.
 
-[^36-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^36-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^36-2]: Introduit par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 [^36-3]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^36-4]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
@@ -827,7 +827,7 @@ Le rapport de sécurité doit être signé:
 
 L’Inspection perçoit des émoluments pour les contrôles et les décisions prises en vertu de la présente ordonnance selon les art. 9 et 10 de l’ordonnance du 7 décembre 1992 sur l’Inspection fédérale des installations à courant fort[^41-1].
 
-[^41-1]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+[^41-1]: [RS 734.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8579)
 
 #### Art. 42
 
@@ -866,7 +866,7 @@ L’ordonnance du 6 septembre 1989 sur les installations électriques à basse t
 
 **Dispositions transitoires**
 
-<sup>1</sup> et <sup>2</sup> …[^44-1]
+<sup>1 et <sup>2</sup></sup> …[^44-1]
 
 <sup>3</sup> Les attestations de personnes du métier délivrées restent valables.
 
@@ -898,7 +898,7 @@ Les périodes de contrôle en cours selon l’ancien droit sont maintenues. Si l
 <sup>3</sup> Les personnes titulaires d’un certificat fédéral de capacité d’«électricien de montage CFC» ou d’un diplôme équivalent ayant débuté leur formation professionnelle de base avant 2015 ne peuvent mettre en service des installations électriques selon l’art. 10*a*, al. 2, que si elles peuvent justifier d’une année de pratique sous la surveillance d’une personne du métier et d’une formation complémentaire définie par l’EIT.swiss qui les habilite à procéder à la première vérification.
 
 [^44a-1]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^44a-2]: La désignation de l’union a été adaptée au 22 juin 2019 en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^44a-2]: La désignation de l’union a été adaptée au 22 juin 2019 en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 45
 
@@ -912,7 +912,7 @@ Annexe[^t-1]
 
 ## Contrôles périodiques
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 août 2017 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Mise à jour par le ch. I des O du 4 juin 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) et du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 août 2017 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Mise à jour par le ch. I des O du 4 juin 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)) et du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 358](https://fedlex.data.admin.ch/eli/oc/2022/358)). Erratum du 31 oct. 2025 ([RO 2025 671](https://fedlex.data.admin.ch/eli/oc/2025/671)).
 
 ### 1 Installations électriques soumises au contrôle d’un organisme d’inspection accrédité (installations spéciales, art. 32, al. 2)
 
@@ -972,7 +972,7 @@ Annexe[^t-1]
 
 ### 3 Installations électriques soumises au contrôle tous les 10 ou 20 ans
 
-- Les installations électriques soumises au contrôle tous les 10 ou 20 ans doivent en outre être contrôlées après tout changement de propriétaire, si le dernier contrôle effectué date de cinq ans.
+- Les installations électriques soumises au contrôle tous les 10 ou 20 ans doivent en outre être contrôlées à chaque changement de propriétaire, si le dernier contrôle effectué date de cinq ans.
 
 ### 4 Installations de production d’énergie
 
