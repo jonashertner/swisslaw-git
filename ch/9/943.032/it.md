@@ -4,11 +4,11 @@ title: "Ordinanza del 23 novembre 2016 sui servizi di certificazione nel campo d
 short: OFiEle
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/753"
 language: it
-version: 2020-10-02
+version: 2025-11-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/753/20201002/it/xml/fedlex-data-admin-ch-eli-cc-2016-753-20201002-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20201002/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/753/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2016-753-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20201002/it"
 
 (Ordinanza sulla firma elettronica, OFiEle)
 
-del 23 novembre 2016 (Stato 2 ottobre 2020)
+del 23 novembre 2016 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,18 +25,21 @@ visti gli articoli 4, 6 capoverso 1, 7 capoverso 4, 9 capoverso 4, 10 capoverso 
 
 ordina:
 
-[^ingress-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1
 
 **Organismi di riconoscimento**
 
-<sup>1</sup> Il Servizio di accreditamento svizzero (SAS) della Segreteria di Stato dell’economia accredita gli organismi che riconoscono i prestatori di servizi di certificazione conformemente alle disposizioni dell’ordinanza del 17 giugno 1996[^1-1] sull’accreditamento e la designazione.
+<sup>1</sup> Il Servizio di accreditamento svizzero (SAS) della Segreteria di Stato dell’economia accredita gli organismi che riconoscono i prestatori di servizi di certificazione per l’audit e la certificazione di prodotti, processi e servizi. A tal fine si basa sulle disposizioni dell’ordinanza del 17 giugno 1996[^1-1] sull’accreditamento e sulla designazione, sulla norma ISO/IEC 17065[^1-2] e sullo standard ETSI EN 319 403‑1[^1-3].[^1-4]
 
 <sup>2</sup> Se non esiste alcun organismo di riconoscimento accreditato, l’Ufficio federale delle comunicazioni (UFCOM) riconosce i prestatori di servizi di certificazione.
 
-[^1-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^1-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^1-2]: ISO/IEC 17065:2012 Conformity assessment – Requirements for bodies certifying products, processes and services. Questa norma è disponibile a pagamento su Internet presso il Segretariato centrale dell’Organizzazione internazionale per la normazione (ISO), 1 Rue de Varembé, 1211 Ginevra, all’indirizzo [www.iso.ch](https://www.iso.org/).
+[^1-3]: ETSI EN 319 403-1 V2.3.1 (2020-06) Electronic Signatures and Infrastructures (ESI); Trust Service Provider Conformity Assessment; Part 1: Requirements for conformity assessment bodies assessing Trust Service Providers. Questa norma è disponibile a pagamento presso l’Istituto europeo delle norme di telecomunicazione, 650 route des Lucioles, 06921 Sophia Antipolis, Francia, all’indirizzo [www.etsi.org](https://www.etsi.org/).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 2
 
@@ -68,7 +71,7 @@ L’UFCOM disciplina il formato dei certificati regolamentati per le applicazion
 
 <sup>2</sup> I certificati regolamentati contenenti l’indicazione che, con la propria firma elettronica, il titolare può contrarre un obbligo per sé o per l’unità IDI di cui è rappresentante possono essere rilasciati soltanto a persone fisiche.
 
-[^4-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 5
 
@@ -82,11 +85,12 @@ L’UFCOM disciplina il formato dei certificati regolamentati per le applicazion
 
 <sup>4</sup> Se l’unità IDI rappresentata è iscritta nel registro di commercio, per menzionare nel certificato un potere di rappresentanza non iscritto nel registro di commercio è necessaria la firma di una persona autorizzata a rappresentare l’unità IDI secondo il registro di commercio.
 
-<sup>5</sup> I prestatori di servizi di certificazione riconosciuti verificano inoltre i dati relativi alle caratteristiche di base dell’unità IDI rappresentata consultando il registro IDI (art. 11 cpv. 1 LIDI[^5-1]). Se l’unità IDI non ha autorizzato la pubblicazione dei propri dati relativi alle caratteristiche di base (art. 11 cpv. 3 LIDI), devono esigere la presentazione di un estratto del registro IDI attuale e autenticato.
+<sup>5</sup> I prestatori di servizi di certificazione riconosciuti verificano inoltre i dati relativi alle caratteristiche di base dell’unità IDI rappresentata consultando il registro IDI (art. 11 cpv. 1 LIDI[^5-1]). Se l’unità IDI non ha autorizzato la pubblicazione dei propri dati relativi alle caratteristiche di base (art. 11 cpv. 3 LIDI), devono esigere la presentazione di un estratto attuale del registro IDI.[^5-2]
 
 <sup>6</sup> I capoversi 1–5 si applicano anche al rilascio di un certificato regolamentato a una persona fisica che utilizza uno pseudonimo.
 
-[^5-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^5-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^5-2]: Nuovo testo del per. giusta la cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 6
 
@@ -94,11 +98,12 @@ L’UFCOM disciplina il formato dei certificati regolamentati per le applicazion
 
 <sup>1</sup> L’identità della persona che chiede il rilascio di un certificato regolamentato per un’unità IDI che non è una persona fisica deve essere verificata conformemente all’articolo 5 capoverso 1. Il potere di rappresentanza di questa persona dev’essere giustificato con una procura scritta, salvo se è iscritto nel registro di commercio.
 
-<sup>2</sup> I prestatori di servizi di certificazione riconosciuti devono verificare i dati relativi alle caratteristiche di base dell’unità IDI consultando il registro IDI (art. 11 cpv. 1 LIDI[^6-1]). Se l’unità IDI non ha autorizzato la pubblicazione dei propri dati relativi alle caratteristiche di base (art. 11 cpv. 3 LIDI), devono esigere la presentazione di un estratto attuale e autenticato del registro IDI.
+<sup>2</sup> I prestatori di servizi di certificazione riconosciuti devono verificare i dati relativi alle caratteristiche di base dell’unità IDI consultando il registro IDI (art. 11 cpv. 1 LIDI[^6-1]). Se l’unità IDI non ha autorizzato la pubblicazione dei propri dati relativi alle caratteristiche di base (art. 11 cpv. 3 LIDI), devono esigere la presentazione di un estratto attuale del registro IDI.[^6-2]
 
 <sup>3</sup> Se l’unità IDI è iscritta nel registro di commercio, deve essere richiesta la presentazione di un estratto attuale e autenticato di quest’ultimo.
 
-[^6-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^6-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^6-2]: Nuovo testo del per. giusta la cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 7
 
@@ -110,18 +115,19 @@ L’UFCOM disciplina il formato dei certificati regolamentati per le applicazion
 
 <sup>3</sup>
 
-I prestatori di servizi di certificazione riconosciuti possono accettare una domanda corredata di firma elettronica qualificata per il rilascio di un certificato regolamentato:
+I prestatori di servizi di certificazione riconosciuti possono basarsi sulla firma elettronica regolamentata e sul relativo certificato per:
 
-- a. a un’unità IDI che non è una persona fisica, a condizione che un registro pubblico attesti il potere di rappresentanza del richiedente;
-- b. a una persona fisica senza qualità specifiche né potere di rappresentanza, a condizione che questa persona sia già stata identificata dal prestatore di servizi di certificazione conformemente all’articolo 5 o ai capoversi 1 e 2 del presente articolo.
+- a. identificare la persona che richiede un certificato regolamentato per un’unità IDI che non è una persona fisica, a condizione che il potere di rappresentanza del richiedente sia iscritto nel registro di commercio o giustificato con una procura scritta;
+- b. identificare la persona fisica senza qualità specifiche né potere di rappresentanza che richiede un certificato regolamentato per sé stessa.[^7-2]
 
-[^7-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^7-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 7a
 
 [^7a-1]
 
-[^7a-1]: Introdotto dal n. I dell’O del 1° aprile 2020, in vigore dal 2 aprile al 1° ottobre 2020 ([RU 2020 1149](https://fedlex.data.admin.ch/eli/oc/2020/210)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 1° aprile 2020, in vigore dal 2 aprile al 1° ottobre 2020 ([RU 2020 1149](https://fedlex.data.admin.ch/eli/oc/2020/210)).
 
 #### Art. 8
 
@@ -135,9 +141,21 @@ I prestatori di servizi di certificazione riconosciuti possono realizzare e cons
 
 <sup>1</sup> I prestatori riconosciuti informano i loro clienti sulla modalità di richiesta dell’annullamento dei certificati regolamentati. Essi devono essere in grado di ricevere in qualsiasi momento le domande di annullamento.
 
-<sup>2</sup> Essi devono garantire a terzi l’accesso online alle informazioni relative all’annullamento dei certificati regolamentati sino alla scadenza della loro validità. Le informazioni comprendono il numero di serie del certificato, la menzione relativa all’annullamento, nonché la data e l’ora dell’annullamento. Devono essere autenticate mediante il sigillo elettronico regolamentato del prestatore riconosciuto.
+<sup>2</sup>
 
-<sup>3</sup> I prestatori di servizi di certificazione riconosciuti devono essere in grado di dare informazioni che permettano la verifica dei certificati regolamentati non più validi anche durante gli undici anni successivi alla loro scadenza.
+Devono garantire a terzi l’accesso online alle seguenti informazioni concernenti l’annullamento di un certificato regolamentato per almeno undici anni a partire dalla data di scadenza del certificato utilizzato per il rilascio dei certificati regolamentati:
+
+- a. il numero di serie del certificato;
+- b. la menzione dell’annullamento;
+- c. la data e l’ora dell’annullamento.[^9-1]
+
+<sup>3</sup> Le informazioni di cui al capoverso 2 devono essere autenticate mediante il sigillo elettronico regolamentato del prestatore di servizi di certificazione riconosciuto.[^9-2]
+
+<sup>4</sup> Il capoverso 2 non si applica ai certificati elettronici la cui durata di validità è più breve del periodo di cui necessita il prestatore di servizi di certificazione per trattare la domanda di annullamento del certificato. Il capoverso 2 non si applica nemmeno ai certificati su cui si basano le firme con informazioni di convalida a lungo termine.[^9-3]
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+[^9-3]: Introdotto dalla cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 10
 
@@ -166,10 +184,12 @@ L’UFCOM definisce i requisiti che devono adempiere i prestatori di servizi di 
 Se non vi è alcun altro prestatore di servizi di certificazione riconosciuto cui il SAS può trasferire i compiti conformemente all’articolo 14 capoverso 2 FiEle, l’UFCOM assume le mansioni seguenti:
 
 - a. continua a trattare le domande di annullamento dei certificati regolamentati;
-- b. assicura che le informazioni relative all’annullamento dei certificati regolamentati possano essere consultate da terzi su supporto elettronico sino alla scadenza;
+- b.[^12-1] assicura che le informazioni concernenti l’annullamento dei certificati regolamentati conformemente all’articolo 9 capoverso 2 possano essere consultate da terzi su supporto elettronico;
 - c. aggiorna il libro giornale delle attività e lo conserva unitamente ai relativi documenti giustificativi.
 
 <sup>3</sup> Può annullare di propria volontà i certificati ancora validi.
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 13
 
@@ -193,7 +213,7 @@ Se non vi è alcun altro prestatore di servizi di certificazione riconosciuto cu
 
 <sup>2</sup> Solo l’iscrizione nel registro di commercio è determinante quale prova delle qualità specifiche e del potere di rappresentanza del titolare del certificato regolamentato.
 
-[^14-1]: [RS 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
+[^14-1]: [RS 221.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5930)
 
 #### Art. 15
 
@@ -214,6 +234,16 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 <sup>1</sup> I certificati qualificati rilasciati prima del 1° gennaio 2017 restano validi sino alla loro scadenza, ma al massimo fino al 31 dicembre 2019.
 
 <sup>2</sup> I prestatori di servizi di certificazione riconosciuti secondo il diritto anteriore possono rilasciare certificati regolamentati ai sensi del nuovo diritto finché non avranno ottenuto il riconoscimento secondo il nuovo diritto o fino a quando sarà ritirato loro il riconoscimento, ma non oltre il 31 dicembre 2018. I certificati regolamentati che rilasciano prima di aver ottenuto il nuovo riconoscimento sono validi al massimo fino al 31 dicembre 2019.
+
+#### Art. 17a
+
+**Disposizioni transitorie della modifica del 20 agosto 2025**[^17a-1]
+
+<sup>1</sup> I requisiti di cui all’articolo 1 capoverso 1 vanno attuati al più tardi entro il 1° febbraio 2026.
+
+<sup>2</sup> I requisiti di cui all’articolo 9 capoverso 2 vanno attuati al più tardi entro il 1° luglio 2027.
+
+[^17a-1]: Introdotto dalla cifra I dell’O del 20 ago. 2025, in vigore dal 1° nov. 2025 ([RU 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 18
 

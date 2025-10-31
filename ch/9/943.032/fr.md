@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 2016 sur les services de certification dans le
 short: OSCSE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/753"
 language: fr
-version: 2020-10-02
+version: 2025-11-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/753/20201002/fr/xml/fedlex-data-admin-ch-eli-cc-2016-753-20201002-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20201002/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/753/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-753-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20201002/fr"
 
 (Ordonnance sur la signature électronique, OSCSE)
 
-du 23 novembre 2016 (État le 2 octobre 2020)
+du 23 novembre 2016 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,18 +25,21 @@ vu les art. 4, 6, al. 1, 7, al. 4, 9, al. 4, 10, al. 3, 12, al. 4, 14, al. 2, et
 
 arrête:
 
-[^ingress-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1
 
 **Organismes de reconnaissance**
 
-<sup>1</sup> Le Service d’accréditation suisse (SAS) du Secrétariat d’État à l’économie accrédite les organismes de reconnaissance des fournisseurs de services de certification conformément aux dispositions de l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^1-1].
+<sup>1</sup> Le Service d’accréditation suisse (SAS) du Secrétariat d’État à l’économie accrédite les organismes de reconnaissance des fournisseurs de services de certification pour l’audit et la certification de produits, de procédés et de services. Il s’appuie pour ce faire sur les dispositions de l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^1-1], sur la norme ISO/IEC 17065[^1-2] et sur la norme ETSI EN 319 403‑1[^1-3].[^1-4]
 
 <sup>2</sup> S’il n’existe aucun organisme de reconnaissance accrédité, c’est l’Office fédéral de la communication (OFCOM) qui reconnaît les fournisseurs de services de certification (fournisseurs).
 
-[^1-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^1-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^1-2]: ISO/IEC 17065:2012 Évaluation de la conformité – Exigences pour les organismes certifiant les produits, les procédés et les services. Cette norme peut être obtenue sur internet, contre paiement, auprès du Secrétariat central de l’Organisation internationale de normalisation (ISO), 1, Rue de Varembé, 1211 Genève, à l’adresse [www.iso.ch](https://www.iso.org/fr/home.html).
+[^1-3]: ETSI EN 319 403-1 V2.3.1 (2020-06) Electronic Signatures and Infrastructures (ESI); Trust Service Provider Conformity Assessment; Part 1: Requirements for conformity assessment bodies assessing Trust Service Providers. Cette norme peut être obtenue sur internet, auprès de l’Institut européen des normes de télécommunications, 650, Route des Lucioles, 06921 Sophia Antipolis, France, à l’adresse [www.etsi.org](https://www.etsi.org/).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 2
 
@@ -68,7 +71,7 @@ L’OFCOM règle le format des certificats réglementés pour les applications s
 
 <sup>2</sup> Les certificats réglementés qui contiennent la mention que leur titulaire peut, par sa signature électronique, s’obliger ou obliger l’entité IDE qu’il représente ne peuvent être délivrés qu’à des personnes physiques.
 
-[^4-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 5
 
@@ -76,17 +79,19 @@ L’OFCOM règle le format des certificats réglementés pour les applications s
 
 <sup>1</sup> Les fournisseurs reconnus doivent exiger des personnes qui demandent un certificat réglementé qu’elles présentent personnellement un passeport, une carte d’identité suisse ou une carte d’identité reconnue pour entrer en Suisse.
 
-<sup>2</sup> Lorsque des qualités spécifiques (art. 7, al. 3, let. a, SCSE), des pouvoirs de représentation ou l’entité IDE représentée (art. 7, al. 3, let. b, SCSE) sont inscrits au registre du commerce, les fournisseurs reconnus doivent exiger la production d’un extrait de celui-ci, actuel et certifié conforme. Les qualités spécifiques et les pouvoirs de représentation mentionnés dans l’extrait ne requièrent ni confirmation de l’organisme compétent ni approbation de l’identité IDE représentée au sens de l’art. 9, al. 2 et 3, SCSE.
+<sup>2</sup> Lorsque des qualités spécifiques (art. 7, al. 3, let. a, SCSE), des pouvoirs de représentation ou l’entité IDE représentée (art. 7, al. 3, let. b, SCSE) sont inscrits au registre du commerce, les fournisseurs reconnus doivent exiger la production d’un extrait de celui-ci, actuel et certifié conforme. Les qualités spécifiques et les pouvoirs de représentation mentionnés dans l’extrait ne requièrent ni confirmation de l’organisme compétent ni approbation de l’entité IDE représentée au sens de l’art. 9, al. 2 et 3, SCSE.[^5-1]
 
 <sup>3</sup> Les fournisseurs reconnus doivent s’assurer que les inscriptions dans le certificat ne sont pas contraires à celles du registre du commerce. En particulier, pour une personne qui, d’après le registre du commerce, est habilitée à représenter une entité juridique ou qui y exerce une fonction, ils ne peuvent mentionner dans le certificat, par rapport à l’entité juridique concernée, que les mêmes pouvoirs de représentation ou la même fonction.
 
 <sup>4</sup> Lorsque l’entité IDE représentée est inscrite au registre du commerce, l’approbation de la mention dans le certificat de pouvoirs de représentation non inscrits au registre du commerce doit être signée par une personne habilitée à représenter l’entité IDE selon le registre du commerce.
 
-<sup>5</sup> Les fournisseurs reconnus vérifient en outre les données relatives aux caractères clés de l’entité IDE représentée en consultant le registre IDE (art. 11, al. 1, LIDE[^5-1]). Si l’entité IDE n’a pas donné son accord à la publication de ses données relatives aux caractères clés (art. 11, al. 3, LIDE), ils doivent exiger la présentation d’un extrait du registre IDE actuel et certifié conforme.
+<sup>5</sup> Les fournisseurs reconnus vérifient en outre les données relatives aux caractères clés de l’entité IDE représentée en consultant le registre IDE (art. 11, al. 1, LIDE[^5-2]). Si l’entité IDE n’a pas donné son accord à la publication de ses données relatives aux caractères clés (art. 11, al. 3, LIDE), ils doivent exiger la présentation d’un extrait actuel du registre IDE.[^5-3]
 
 <sup>6</sup> Les al. 1 à 5 s’appliquent également à la délivrance d’un certificat réglementé à une personne physique utilisant un pseudonyme.
 
-[^5-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^5-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+[^5-2]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^5-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 6
 
@@ -94,11 +99,12 @@ L’OFCOM règle le format des certificats réglementés pour les applications s
 
 <sup>1</sup> L’identité de la personne qui demande la délivrance d’un certificat réglementé pour une entité IDE qui n’est pas une personne physique doit être vérifiée conformément à l’art. 5, al. 1. Les pouvoirs de représentation de cette personne doivent être justifiés par une procuration écrite, à moins qu’ils ne soient inscrits dans le registre du commerce.
 
-<sup>2</sup> Les fournisseurs reconnus doivent vérifier les données relatives aux caractères clés de l’entité IDE en consultant le registre IDE (art. 11, al. 1, LIDE[^6-1]). Si l’entité IDE n’a pas donné son accord à la publication de ses données relatives aux caractères clés (art. 11, al. 3, LIDE), ils doivent exiger la présentation d’un extrait du registre IDE actuel et certifié conforme.
+<sup>2</sup> Les fournisseurs reconnus doivent vérifier les données relatives aux caractères clés de l’entité IDE en consultant le registre IDE (art. 11, al. 1, LIDE[^6-1]). Si l’entité IDE n’a pas donné son accord à la publication de ses données relatives aux caractères clés (art. 11, al. 3, LIDE), ils doivent exiger la présentation d’un extrait actuel du registre IDE.[^6-2]
 
 <sup>3</sup> Lorsque l’entité IDE est inscrite au registre du commerce, la production d’un extrait de celui-ci, actuel et certifié conforme, doit être exigée.
 
-[^6-1]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^6-1]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^6-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 7
 
@@ -110,12 +116,13 @@ L’OFCOM règle le format des certificats réglementés pour les applications s
 
 <sup>3</sup>
 
-Les fournisseurs reconnus peuvent accepter une demande munie d’une signature électronique qualifiée pour la délivrance d’un certificat réglementé:
+Les fournisseurs reconnus peuvent s’appuyer sur la signature électronique réglementée et le certificat correspondant, pour:
 
-- a. à une entité IDE qui n’est pas une personne physique, pour autant que les pouvoirs de représentation du requérant soient inscrits dans un registre public;
-- b. à une personne physique sans qualités spécifiques ni pouvoirs de représentation, pour autant que cette personne ait déjà été identifiée par le fournisseur conformément à l’art. 5 ou aux al. 1 et 2 du présent article.
+- a. déterminer l’identité de la personne demandant un certificat réglementé pour une entité IDE qui n’est pas une personne physique, pour autant que les pouvoirs de représentation du requérant soient inscrits dans le registre du commerce ou justifiés par une procuration écrite;
+- b. déterminer l’identité de la personne physique sans qualités spécifiques ni pouvoirs de représentation qui demande un certificat réglementé pour elle-même.[^7-2]
 
-[^7-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^7-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 7a
 
@@ -135,9 +142,21 @@ Les fournisseurs reconnus peuvent établir et conserver des doubles des clés cr
 
 <sup>1</sup> Les fournisseurs reconnus informent leurs clients sur la manière de demander l’annulation des certificats réglementés. Ils doivent être en mesure de recevoir les demandes d’annulation en tout temps.
 
-<sup>2</sup> Ils doivent garantir aux tiers l’accès en ligne aux informations relatives à l’annulation d’un certificat réglementé jusqu’à l’expiration de la validité de ce dernier. Ces informations comprennent le numéro de série du certificat, la mention qu’il est annulé, ainsi que la date et l’heure de l’annulation. Elles doivent être authentifiées par le cachet électronique réglementé du fournisseur reconnu.
+<sup>2</sup>
 
-<sup>3</sup> Les fournisseurs reconnus doivent être en mesure de fournir les informations permettant la vérification des certificats réglementés qui ne sont plus valables pendant onze ans à partir de l’échéance des certificats.
+Ils doivent garantir aux tiers l’accès en ligne aux informations ci-après relatives à l’annulation d’un certificat réglementé pendant au moins onze ans à partir de l’expiration de la validité du certificat qui a été utilisé pour la délivrance de certificats réglementés:
+
+- a. le numéro de série du certificat;
+- b. la mention qu’il est annulé;
+- c. la date et l’heure de l’annulation.[^9-1]
+
+<sup>3</sup> Les informations mentionnées à l’al. 2 doivent être authentifiées par le cachet électronique réglementé du fournisseur reconnu.[^9-2]
+
+<sup>4</sup> L’al. 2 ne s’applique pas aux certificats électroniques dont la durée de validité est inférieure au délai nécessaire à un fournisseur pour le traitement d’une demande d’annulation d’un tel certificat. Il ne s’applique pas non plus aux certificats sur lesquels se fondent des signatures dotées d’informations de validation à long terme.[^9-3]
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+[^9-3]: Introduit par le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 10
 
@@ -166,10 +185,12 @@ L’OFCOM détermine les exigences auxquelles doivent satisfaire les fournisseur
 Lorsqu’il n’existe aucun autre fournisseur reconnu auquel le SAS pourrait transférer les tâches conformément à l’art. 14, al. 2, SCSE, l’OFCOM se charge des tâches suivantes:
 
 - a. il continue de traiter les demandes d’annulation des certificats réglementés;
-- b. il garantit aux tiers l’accès en ligne aux informations relatives à l’annulation des certificats réglementés jusqu’à l’échéance de ces derniers;
+- b.[^12-1] il garantit aux tiers l’accès en ligne aux informations relatives à l’annulation des certificats réglementés selon l’art. 9, al. 2;
 - c. il tient à jour et conserve le journal des activités et les pièces justificatives correspondantes.
 
 <sup>3</sup> Il peut annuler de lui-même les certificats encore valables.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 13
 
@@ -193,7 +214,7 @@ Lorsqu’il n’existe aucun autre fournisseur reconnu auquel le SAS pourrait tr
 
 <sup>2</sup> Seules les inscriptions du registre du commerce font foi des qualités spécifiques et des pouvoirs de représentation des personnes titulaires de certificats réglementés.
 
-[^14-1]: [RS 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
+[^14-1]: [RS 221.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5930)
 
 #### Art. 15
 
@@ -214,6 +235,16 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 <sup>1</sup> Les certificats qualifiés délivrés avant le 1<sup>er</sup> janvier 2017 restent valables jusqu’à leur échéance, mais au plus tard jusqu’au 31 décembre 2019.
 
 <sup>2</sup> Les fournisseurs reconnus selon l’ancien droit peuvent délivrer des certificats réglementés au sens du nouveau droit jusqu’à ce qu’ils aient été reconnus selon le nouveau droit ou que la reconnaissance leur ait été retirée, mais au plus tard jusqu’au 31 décembre 2018. Jusqu’à l’obtention de la nouvelle reconnaissance, la durée de validité des certificats réglementés qu’ils délivrent ne peut excéder le 31 décembre 2019.
+
+#### Art. 17a
+
+**Dispositions transitoires relatives à la modification du 20 août 2025**[^17a-1]
+
+<sup>1</sup> Les exigences prévue à l’art. 1, al. 1, doivent être mises en œuvre au plus tard le 1<sup>er</sup> février 2026.
+
+<sup>2</sup> Les exigences prévue à l’art. 9, al. 2, doivent être mises en œuvre au plus tard le 1<sup>er</sup> juillet 2027.
+
+[^17a-1]: Introduit par le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 18
 
@@ -237,5 +268,5 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 2004 5101](https://fedlex.data.admin.ch/eli/oc/2004/789), [2011 3457](https://fedlex.data.admin.ch/eli/oc/2011/465)]
+[^annexu1-lvlu1-1]: [[RO 2004 5101](https://fedlex.data.admin.ch/eli/oc/2004/789); [2011 3457](https://fedlex.data.admin.ch/eli/oc/2011/465)]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753).

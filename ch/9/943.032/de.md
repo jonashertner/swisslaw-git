@@ -4,11 +4,11 @@ title: "Verordnung vom 23. November 2016 über Zertifizierungsdienste im Bereich
 short: VZertES
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/753"
 language: de
-version: 2020-10-02
+version: 2025-11-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/753/20201002/de/xml/fedlex-data-admin-ch-eli-cc-2016-753-20201002-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20201002/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/753/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2016-753-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/753/20201002/de"
 
 (Verordnung über die elektronische Signatur, VZertES)
 
-vom 23. November 2016 (Stand am 2. Oktober 2020)
+vom 23. November 2016 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,18 +25,21 @@ gestützt auf die Artikel 4, 6 Absatz 1, 7 Absatz 4, 9 Absatz 4, 10 Absatz 3, 12
 
 verordnet:
 
-[^ingress-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^ingress-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^ingress-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 1
 
 **Anerkennungsstellen**
 
-<sup>1</sup> Die Schweizerische Akkreditierungsstelle (SAS) des Staatssekretariats für Wirtschaft akkreditiert gemäss den Bestimmungen der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^1-1] die Stellen, die die Anbieterinnen von Zertifizierungsdiensten anerkennen.
+<sup>1</sup> Die Schweizerische Akkreditierungsstelle (SAS) des Staatssekretariats für Wirtschaft akkreditiert die Stellen, die die Anbieterinnen von Zertifizierungsdiensten für die Auditierung und Zertifizierung von Produkten, Prozessen und Dienstleistungen anerkennen. Sie stützt sich dabei auf die Bestimmungen der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^1-1], die Norm ISO/IEC 17065[^1-2] sowie den Standard ETSI EN 319 403‑1[^1-3].[^1-4]
 
 <sup>2</sup> Besteht keine akkreditierte Anerkennungsstelle, so anerkennt das Bundesamt für Kommunikation (BAKOM) die Anbieterinnen von Zertifizierungsdiensten (Anbieterinnen).
 
-[^1-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^1-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^1-2]: ISO/IEC 17065:2012 Conformity assessment – Requirements for bodies certifying products, processes and services. Diese Norm kann im Internet beim Zentralsekretariat der Internationalen Organisation für Normung (ISO), 1, Rue de Varembé, 1211 Genf, unter: [www.iso.ch](https://www.iso.org/), gegen Bezahlung abgerufen werden.
+[^1-3]: ETSI EN 319 403-1 V2.3.1 (2020-06) Electronic Signatures and Infrastructures (ESI); Trust Service Provider Conformity Assessment; Part 1: Requirements for conformity assessment bodies assessing Trust Service Providers. Diese Norm kann im Internet beim Europäischen Institut für Telekommunikationsnormen, 650, route des Lucioles, 06921 Sophia Antipolis, Frankreich, unter: [www.etsi.org](https://www.etsi.org/), abgerufen werden.
+[^1-4]: Fassung gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 2
 
@@ -68,7 +71,7 @@ Das BAKOM regelt das Format der geregelten Zertifikate für die folgenden Anwend
 
 <sup>2</sup> Geregelte Zertifikate mit dem Hinweis, dass deren Inhaberin oder deren Inhaber sich selber oder die UID-Einheit, die sie oder er vertritt, durch ihre oder seine elektronische Signatur verpflichten kann, dürfen nur auf natürliche Personen ausgestellt werden.
 
-[^4-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 #### Art. 5
 
@@ -82,11 +85,12 @@ Das BAKOM regelt das Format der geregelten Zertifikate für die folgenden Anwend
 
 <sup>4</sup> Ist die vertretene UID-Einheit im Handelsregister eingetragen, muss die Zustimmung zur Aufnahme von nicht im Handelsregister eingetragenen Vertretungsbefugnissen in das Zertifikat von einer Person, die laut Handelsregister zur Vertretung der UID-Einheit befugt ist, unterzeichnet werden.
 
-<sup>5</sup> Die anerkannten Anbieterinnen überprüfen ausserdem die Daten zu den Kernmerkmalen der vertretenen UID-Einheiten anhand des UID-Registers (Art. 11 Abs. 1 UIDG[^5-1]). Hat die UID-Einheit der Veröffentlichung ihrer Daten zu den Kernmerkmalen nicht zugstimmt (Art. 11 Abs. 3 UIDG), müssen sie einen aktuellen beglaubigten Auszug aus dem UID-Register verlangen.
+<sup>5</sup> Die anerkannten Anbieterinnen überprüfen ausserdem die Daten zu den Kernmerkmalen der vertretenen UID-Einheiten anhand des UID-Registers (Art. 11 Abs. 1 UIDG[^5-1]). Hat die UID-Einheit der Veröffentlichung ihrer Daten zu den Kernmerkmalen nicht zugestimmt (Art. 11 Abs. 3 UIDG), so müssen sie einen aktuellen Auszug aus dem UID-Register verlangen.[^5-2]
 
 <sup>6</sup> Die Absätze 1–5 gelten auch für die Ausstellung eines geregelten Zertifikats auf eine natürliche Person, die ein Pseudonym verwendet.
 
-[^5-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^5-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^5-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 6
 
@@ -94,11 +98,12 @@ Das BAKOM regelt das Format der geregelten Zertifikate für die folgenden Anwend
 
 <sup>1</sup> Die Identität einer Person, die ein geregeltes Zertifikat für eine UID-Einheit beantragt, die keine natürliche Person ist, muss nach Artikel 5 Absatz 1 überprüft werden. Die Vertretungsbefugnisse dieser Person müssen mit einer schriftlichen Vollmacht begründet werden, sofern sie nicht im Handelsregister eingetragen sind.
 
-<sup>2</sup> Die anerkannten Anbieterinnen müssen die Daten zu den Kernmerkmalen der UID-Einheiten anhand des UID-Registers überprüfen (Art. 11 Abs. 1 UIDG[^6-1]). Hat die UID-Einheit der Veröffentlichung ihrer Daten zu den Kernmerkmalen nicht zugestimmt (Art. 11 Abs. 3 UIDG), müssen sie einen aktuellen beglaubigten Auszug aus dem UID-Register verlangen.
+<sup>2</sup> Die anerkannten Anbieterinnen müssen die Daten zu den Kernmerkmalen der UID-Einheiten anhand des UID-Registers überprüfen (Art. 11 Abs. 1 UIDG[^6-1]). Hat die UID-Einheit der Veröffentlichung ihrer Daten zu den Kernmerkmalen nicht zugestimmt (Art. 11 Abs. 3 UIDG), so müssen sie einen aktuellen Auszug aus dem UID-Register verlangen.[^6-2]
 
 <sup>3</sup> Ist die UID-Einheit im Handelsregister eingetragen, muss ein aktueller beglaubigter Auszug verlangt werden.
 
-[^6-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^6-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^6-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 7
 
@@ -110,12 +115,13 @@ Das BAKOM regelt das Format der geregelten Zertifikate für die folgenden Anwend
 
 <sup>3</sup>
 
-Die anerkannten Anbieterinnen können einen mit einer qualifizierten elektronischen Signatur versehenen Antrag entgegennehmen, der die Ausstellung eines geregelten Zertifikats an die folgende Einheit oder Person betrifft:
+Die anerkannten Anbieterinnen können sich auf die geregelte elektronische Signatur und das dazugehörende Zertifikat stützen, um:
 
-- a. an eine UID-Einheit, die keine natürliche Person ist, sofern die Vertretungsbefugnisse der antragstellenden Person in einem öffentlichen Register eingetragen sind;
-- b. an eine natürliche Person ohne spezifische Attribute und Vertretungsbefugnisse, sofern deren Identität bereits von der Anbieterin nach Artikel 5 oder nach den Absätzen 1 und 2 dieses Artikels festgestellt worden ist.
+- a. die Identität der Person festzustellen, die ein geregeltes Zertifikat für eine UID-Einheit beantragt, die keine natürliche Person ist, sofern die Vertretungsbefugnisse der antragstellenden Person im Handelsregister eingetragen sind oder mit einer schriftlichen Vollmacht begründet wurden;
+- b. die Identität der natürlichen Person ohne spezifische Attribute und Vertretungsbefugnisse festzustellen, die ein geregeltes Zertifikat für sich selber beantragt.[^7-2]
 
-[^7-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^7-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^7-2]: Fassung gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 7a
 
@@ -135,9 +141,21 @@ Die anerkannten Anbieterinnen dürfen die privaten kryptografischen Schlüssel i
 
 <sup>1</sup> Die anerkannten Anbieterinnen informieren ihre Kundinnen und Kunden darüber, wie letztere die Ungültigerklärung von geregelten Zertifikaten verlangen können. Sie müssen in der Lage sein, die Anträge zur Ungültigerklärung jederzeit entgegenzunehmen.
 
-<sup>2</sup> Sie müssen Dritten bis zum Ablauf der Gültigkeit eines geregelten Zertifikats Online-Zugang zu den Informationen zur Ungültigerklärung desselben gewähren. Diese Informationen umfassen die Seriennummer des Zertifikats, den Hinweis auf die Ungültigerklärung sowie das Datum und die Uhrzeit der Ungültigerklärung. Sie müssen durch das geregelte elektronische Siegel der anerkannten Anbieterin authentifiziert werden.
+<sup>2</sup>
 
-<sup>3</sup> Die anerkannten Anbieterinnen müssen die Informationen zur Überprüfung von nicht mehr gültigen geregelten Zertifikaten während elf Jahren ab Ablauf der Zertifikate angeben können.
+Sie müssen Dritten während mindestens elf Jahren ab Ablauf der Gültigkeit des Zertifikats, das für die Ausstellung geregelter Zertifikate verwendet wurde, Online-Zugang zu den folgenden Informationen zur Ungültigerklärung eines geregelten Zertifikats gewähren:
+
+- a. die Seriennummer des Zertifikats;
+- b. den Hinweis auf die Ungültigerklärung;
+- c. das Datum und die Uhrzeit der Ungültigerklärung.[^9-1]
+
+<sup>3</sup> Die Informationen nach Absatz 2 müssen durch das geregelte elektronische Siegel der anerkannten Anbieterin authentifiziert werden.[^9-2]
+
+<sup>4</sup> Absatz 2 gilt nicht für elektronische Zertifikate, deren Laufzeiten kürzer sind als die Frist, die eine Anbieterin für die Bearbeitung eines Antrags um Ungültigkeitserklärung eines solchen Zertifikats benötigt. Absatz 2 gilt auch nicht für Zertifikate, auf denen Signaturen mit Langzeitvalidierungsinformationen beruhen.[^9-3]
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+[^9-3]: Eingefügt durch Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 10
 
@@ -166,10 +184,12 @@ Das BAKOM legt die Anforderungen fest, die anerkannte Anbieterinnen erfüllen m�
 Gibt es keine andere anerkannte Anbieterin, der die SAS die Aufgaben nach Artikel 14 Absatz 2 ZertES übertragen kann, so übernimmt das BAKOM folgende Aufgaben:
 
 - a. Es bearbeitet die Anträge auf Ungültigerklärung der geregelten Zertifikate weiter.
-- b. Es stellt sicher, dass Dritte die Informationen zur Ungültigerklärung der geregelten Zertifikate bis zu deren Ablauf elektronisch abrufen können.
+- b.[^12-1] Es stellt sicher, dass Dritte die Informationen zur Ungültigerklärung der geregelten Zertifikate gemäss Artikel 9 Absatz 2 elektronisch abrufen können.
 - c. Es führt das Tätigkeitsjournal nach und bewahrt dieses sowie die dazugehörenden Belege auf.
 
 <sup>3</sup> Es kann die noch gültigen Zertifikate von sich aus für ungültig erklären.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
 
 #### Art. 13
 
@@ -193,7 +213,7 @@ Gibt es keine andere anerkannte Anbieterin, der die SAS die Aufgaben nach Artike
 
 <sup>2</sup> Der Handelsregistereintrag ist für den Beweis der spezifischen Attribute und Vertretungsbefugnisse der Inhaberinnen oder Inhaber geregelter Zertifikate allein massgebend.
 
-[^14-1]: [SR 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
+[^14-1]: [SR 221.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5930)
 
 #### Art. 15
 
@@ -215,6 +235,16 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 
 <sup>2</sup> Die nach altem Recht anerkannten Anbieterinnen können geregelte Zertifikate im Sinne des neuen Rechts ausstellen, bis sie nach dem neuen Recht anerkannt worden sind oder ihnen die Anerkennung entzogen worden ist, jedoch längstens bis am 31. Dezember 2018. Bis zur Erlangung der neuen Anerkennung sind die von ihnen ausgestellten geregelten Zertifikate längstens bis zum 31. Dezember 2019 gültig.
 
+#### Art. 17a
+
+**Übergangsbestimmungen zur Änderung vom 20. August 2025**[^17a-1]
+
+<sup>1</sup> Die Anforderungen nach Artikel 1 Absatz 1 sind spätestens bis zum 1. Februar 2026 umzusetzen.
+
+<sup>2</sup> Die Anforderungen nach Artikel 9 Absatz 2 sind spätestens bis zum 1. Juli 2027 umzusetzen.
+
+[^17a-1]: Eingefügt durch Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 533](https://fedlex.data.admin.ch/eli/oc/2025/533)).
+
 #### Art. 18
 
 **Inkrafttreten**
@@ -235,7 +265,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 2004 5101](https://fedlex.data.admin.ch/eli/oc/2004/789), [2011 3457](https://fedlex.data.admin.ch/eli/oc/2011/465)]
+[^annexu1-lvlu1-1]: [[AS 2004 5101](https://fedlex.data.admin.ch/eli/oc/2004/789); [2011 3457](https://fedlex.data.admin.ch/eli/oc/2011/465)]
 [^annexu1-lvlu1-2]: Die Änd. können unter [AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)konsultiert werden.
