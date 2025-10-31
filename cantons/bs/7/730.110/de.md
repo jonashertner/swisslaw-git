@@ -4,13 +4,13 @@ number: "730.110"
 title: Bau- und Planungsverordnung
 short: BPV
 language: de
-version: 2023-09-28
-valid_until: 2025-10-31
-version_adopted: 2023-09-19
+version: 2025-11-01
+valid_until: 2026-02-04
+version_adopted: 2025-10-28
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6571/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6681/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung | Hochbauten
 
 (BPV)
 
-Vom 19. Dezember 2000 (Stand 28. September 2023)
+Vom 19. Dezember 2000 (Stand 1. November 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -1307,13 +1307,13 @@ beschliesst:
 
 #### § 103
 
-<sup>1</sup> Bei Schnee und Eis müssen Trottoirs, für die Grundstückserschliessung nötige Wege und vom Fussgängerverkehr beanspruchte Randzonen von Strassen von den Eigentümerinnen und Eigentümern der angrenzenden Grundstücke oder ihren Beauftragten begehbar gehalten werden.
+<sup>1</sup> Bei Schnee und Eis müssen Trottoirs begehbar gehalten werden. Für Trottoirs auf dem Gebiet der Stadt Basel ist das Tiefbauamt zuständig.
 
-<sup>2</sup> Begehbar zu halten ist die dem Fussgängerverkehr durchgehend zur Verfügung stehende Breite der Wege, Trottoirs und Fahrbahnrandzonen, soweit sie nicht zur Ablagerung der weggeräumten Schnee- und Eismasse benötigt wird, mindestens aber 1 m und höchstens 3 m.
+<sup>2</sup> Begehbar zu halten ist die dem Fussgängerverkehr durchgehend zur Verfügung stehende Breite der Trottoirs, soweit sie nicht zur Ablagerung der weggeräumten Schnee- und Eismasse benötigt wird, mindestens aber 1 m.
 
 <sup>3</sup> Der Abfluss von Schmelzwasser in die Strassenschale und in die Einlaufschächte darf nicht erschwert werden.
 
-<sup>4</sup> Bei Schneefall oder Glatteisbildung in der Nacht nach 20.00 Uhr muss die Begehbarkeit am folgenden Morgen um 7.30 Uhr gewährleistet sein.
+<sup>4</sup> …
 
 ## 3. Teil: Übergangs- und Schlussbestimmungen
 
