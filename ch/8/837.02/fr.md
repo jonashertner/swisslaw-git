@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2025-08-01
+version: 2025-11-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20250801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 1<sup>er</sup> août 2025)
+du 31 août 1983 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 ## Titre 1 Applicabilité de la LPGA
@@ -48,7 +48,7 @@ arrête:
 <sup>2</sup> La communication électronique s’effectue jusqu’à la décision sur opposition via la plateforme d’accès aux services en ligne (art. 83, al. 1<sup>bis</sup>, let. d, LACI).
 
 [^1-1]: Introduit par le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^1-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^1-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 1a
 
@@ -109,7 +109,7 @@ Sur leurs cotisations d’assurance-chômage, les employeurs et les travailleurs
 
 <sup>2</sup> Les prescriptions spéciales concernant les travailleurs à domicile sont appliquées lorsque l’assuré a obtenu par du travail à domicile son dernier gain avant le début du délai-cadre applicable à la période d’indemnisation.
 
-[^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 3a
 
@@ -144,7 +144,7 @@ Sur leurs cotisations d’assurance-chômage, les employeurs et les travailleurs
 <sup>6</sup> Les al. 1 à 5 s’appliquent par analogie lorsque l’enfant est placé en vue de son adoption selon l’art. 264 du code civil[^3b-2] ou lorsque la période éducative est consacrée à l’enfant du conjoint.
 
 [^3b-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^3b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 4
 
@@ -305,7 +305,7 @@ Sont réputées prestations volontaires de l’employeur les prestations alloué
 Les montants affectés à la prévoyance professionnelle sont déduits des prestations volontaires à prendre en compte selon l’art. 11*a*, al. 2, LACI jusqu’à concurrence du montant limite supérieur fixé à l’art. 8, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^10b-2].
 
 [^10b-1]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^10b-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10b-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10c
 
@@ -330,7 +330,7 @@ Les montants affectés à la prévoyance professionnelle sont déduits des prest
 <sup>2</sup> Si aucune période n’a été fixée, le calcul visé à l’al. 1 est effectué sur la base du nombre de mois qui précèdent l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^10d-2].[^10d-3]
 
 [^10d-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^10d-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10d-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^10d-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 10e
@@ -524,10 +524,10 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^18-5]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-6]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-7]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, dans la version qui lie la Suisse en vertu l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) (une version consolidée, non contraignante, de ce règlement figure sous [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)) ainsi que dans la version qui lie la Suisse en vertu de l’appendice 2 de l’annexe K de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE) ([RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)).
+[^18-7]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, dans la version qui lie la Suisse en vertu l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) (une version consolidée, non contraignante, de ce règlement figure sous [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)) ainsi que dans la version qui lie la Suisse en vertu de l’appendice 2 de l’annexe K de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE) ([RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
 [^18-8]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19
@@ -807,7 +807,7 @@ L’assuré a droit à une avance convenable correspondant aux jours contrôlés
 Sont considérées comme prestations de vieillesse de la prévoyance professionnelle à déduire de l’indemnité de chômage les prestations de la prévoyance professionnelle obligatoire et de la prévoyance professionnelle surobligatoire qui sont versées à l’assuré avant qu’il atteigne l’âge de référence fixé à l’art. 21, al. 1, LAVS[^32-2].
 
 [^32-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 33
 
@@ -834,9 +834,9 @@ Sont prises en considération au sens de l’art. 22, al. 2, let. c, LACI les re
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^33-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^33-4]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^33-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^33-6]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^33-7]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -888,7 +888,7 @@ Sont prises en considération au sens de l’art. 22, al. 2, let. c, LACI les re
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^36-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^36-3]: RS **832.2**
+[^36-3]: [RS 832.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10189)
 [^36-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 9 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^36-5]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -1069,7 +1069,7 @@ Lorsque les mêmes parties reprennent les rapports de travail dans un délai d�
 
 [^41b-1]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^41b-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^41b-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^41b-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^41b-4]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 41c
@@ -1427,9 +1427,9 @@ Lorsque le salaire du dernier mois de cotisation s’écarte d’au moins 10 % d
 
 ### (art. 35, al. 2, LACI)
 
-La durée maximum de l’indemnisation en cas de réduction de l’horaire de travail est prolongée de six périodes de décompte.
+La durée maximum de l’indemnisation en cas de réduction de l’horaire de travail est prolongée de douze périodes de décompte.
 
-[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 14 mai 2025, en vigueur du 1<sup>er</sup> août 2025 au 31 juil. 2026 ([RO 2025 337](https://fedlex.data.admin.ch/eli/oc/2025/337)).
+[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 8 oct. 2025, en vigueur du 1<sup>er</sup> nov. 2025 au 31 juil. 2026 ([RO 2025 617](https://fedlex.data.admin.ch/eli/oc/2025/617)).
 
 #### Art. 58
 
@@ -1768,7 +1768,7 @@ L’assuré qui prétend à une indemnité pour insolvabilité doit fournir à l
 [^77-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^77-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^77-4]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^77-5]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^77-5]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^77-6]: Introduit par le ch. I de l’O du 28 août 1991 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 78
@@ -2073,7 +2073,7 @@ Le placement d’un assuré est réputé difficile lorsque, compte tenu de la si
 
 [^90a-1]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^90a-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^90a-3]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^90a-3]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
 [^90a-4]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^90a-5]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^90a-6]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
@@ -2202,7 +2202,7 @@ La demande doit contenir au moins:
 <sup>4</sup> Si un cautionnement est accordé en vertu de la loi du 6 octobre 2006 sur les aides financières aux organisations de cautionnement en faveur des petites et moyennes entreprises[^95c-2], le fonds de compensation prend à sa charge la couverture de 20 % supplémentaires des risques de perte au profit de l’organisation de cautionnement. L’autorité cantonale rend une décision sur le montant garanti par le fonds de compensation.
 
 [^95c-1]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^95c-2]: [RS 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
+[^95c-2]: [RS 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
 
 #### Art. 95d
 
@@ -2920,7 +2920,7 @@ La commission de surveillance peut déléguer à une sous-commission des tâches
 <sup>9</sup> L’autorité cantonale tient un inventaire des objets achetés à l’aide des subventions de l’assurance-chômage. De tels objets ne peuvent être aliénés ou affectés à un autre usage qu’avec l’approbation de l’organe de compensation. Leur valeur résiduelle sera portée en déduction dans le décompte final.
 
 [^122a-1]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
-[^122a-2]: [RS 837.023.3](https://fedlex.data.admin.ch/eli/cc/2001/326)
+[^122a-2]: [RS 837.023.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10290)
 [^122a-3]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
 #### Art. 122b
@@ -2948,7 +2948,7 @@ L’accord de prestations selon l’art. 92, al. 6, LACI régit la coopération 
 <sup>4</sup> Le DEFR définit la structure minimale propre à garantir le service minimal des caisses de chômage. Il fixe le coût de ce service minimal en tenant compte de la nécessité de préserver le niveau de qualification du personnel et de garantir un agrandissement rapide des structures en cas d’augmentation du nombre de demandeurs d’emploi.
 
 [^122b-1]: Introduit par le ch. I de l’O du 6 nov. 1996 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^122b-2]: [RS 837.12](https://fedlex.data.admin.ch/eli/cc/1986/332_332_332)
+[^122b-2]: [RS 837.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10315)
 
 #### Art. 122c
 
@@ -3072,7 +3072,7 @@ La personne concernée peut exiger des services qui traitent les données qu’i
 <sup>3</sup> L’émolument peut être réduit ou remis si la personne assujettie est dans la gêne ou pour d’autres justes motifs.
 
 [^126a-1]: Introduit par le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^126a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^126a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 [^126a-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 127
@@ -3195,7 +3195,7 @@ L’ordonnance du 25 février 1986 sur les décisions en cas de recours concerna
 L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norvège jusqu’à l’entrée en vigueur de la modification du 12 novembre 2015[^u3-2] de l’annexe K de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange[^u3-3].
 
 [^u3-2]: [RO 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
-[^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Dispositions transitoires de la modification du 30 août 2023
 
@@ -3210,7 +3210,7 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 <sup>3</sup> L’assurée pour laquelle un délai-cadre d’indemnisation fondé sur l’art. 13 LACI a été ouvert dans les quatre ans précédant l’âge de référence fixé à la let. a, let. a à d, des dispositions transitoires de la modification du 17 décembre 2021 de la LAVS a droit à 120 indemnités journalières supplémentaires.
 
 [^u4-2]: [RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^u4-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u4-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 Annexe[^t-1]
 

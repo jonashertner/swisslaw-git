@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2025-08-01
+version: 2025-11-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20250801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20251101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° agosto 2025)
+del 31 agosto 1983 (Stato 1° novembre 2025)
 
 [^t-1]: Nuova abbreviazione giusta la cifra I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -27,9 +27,9 @@ visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-4]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 ## Titolo 1: Applicabilità della LPGA
@@ -50,7 +50,7 @@ ordina:
 <sup>2</sup> Le relazioni elettroniche avvengono, fino alla decisione su opposizione, tramite la piattaforma di accesso ai servizi online (art. 83 cpv. 1<sup>bis</sup> lett. d LADI).
 
 [^1-1]: Introdotto dalla cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^1-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^1-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 1a
 
@@ -111,7 +111,7 @@ I datori di lavoro ed i lavoratori non devono pagare sui loro contributi all’a
 
 <sup>2</sup> Le prescrizioni speciali concernenti i lavoratori a domicilio sono applicate qualora l’assicurato abbia ottenuto, mediante lavoro a domicilio, l’ultimo guadagno prima dell’inizio del termine quadro per la riscossione della prestazione.
 
-[^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 3a
 
@@ -146,7 +146,7 @@ I datori di lavoro ed i lavoratori non devono pagare sui loro contributi all’a
 <sup>6</sup> I capoversi 1–5 si applicano per analogia se il fanciullo è collocato in vista dell’adozione secondo l’articolo 264 del Codice civile[^3b-2] o se il periodo educativo è dedicato al figlio del coniuge.
 
 [^3b-1]: Introdotto dalla cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^3b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 4
 
@@ -307,7 +307,7 @@ Sono considerate prestazioni volontarie del datore di lavoro le prestazioni acco
 Gli importi destinati alla previdenza professionale sono dedotti dalle prestazioni volontarie da considerare secondo l’articolo 11*a* capoverso 2 LADI sino a concorrenza dell’importo limite superiore di cui all’articolo 8 capoverso 1 della legge federale del 25 giugno 1982[^10b-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità.
 
 [^10b-1]: Introdotto dalla cifra I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^10b-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10b-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10c
 
@@ -332,7 +332,7 @@ Gli importi destinati alla previdenza professionale sono dedotti dalle prestazio
 <sup>2</sup> Se non è stato stabilito alcun periodo, il calcolo di cui al capoverso 1 è effettuato sulla base del numero di mesi che precedono il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 della legge federale del 20 dicembre 1946[^10d-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS).[^10d-3]
 
 [^10d-1]: Introdotto dalla cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^10d-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10d-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^10d-3]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 10e
@@ -526,10 +526,10 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 [^18-2]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-3]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^18-5]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-6]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-7]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, nella versione che vincola la Svizzera in virtù dell’Allegato II all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) (una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)) nonché nella versione che vincola la Svizzera in virtù dell’appendice 2 dell’allegato K della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) ([RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)).
+[^18-7]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, nella versione che vincola la Svizzera in virtù dell’Allegato II all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) (una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)) nonché nella versione che vincola la Svizzera in virtù dell’appendice 2 dell’allegato K della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) ([RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)).
 [^18-8]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19
@@ -545,7 +545,7 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 <sup>3</sup> La data dell’annuncio è confermata all’assicurato per scritto.
 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^19-2]: Nuova espr. giusta l’all. cifra II 41 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^19-2]: Nuova espr. giusta l’all. cifra II n. 41 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 19a
 
@@ -808,7 +808,7 @@ L’assicurato ha diritto a un’adeguata anticipazione per i giorni controllati
 Sono considerate prestazioni di vecchiaia della previdenza professionale, che vanno dedotte dall’indennità di disoccupazione, le prestazioni della previdenza professionale obbligatoria e sovraobbligatoria versate all’assicurato prima del raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^32-2].
 
 [^32-1]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 33
 
@@ -835,9 +835,9 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 [^33-1]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^33-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^33-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^33-4]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^33-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^33-6]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^33-7]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -888,7 +888,7 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^36-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^36-3]: RS **832.2**
+[^36-3]: [RS 832.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10189)
 [^36-4]: Nuovo testo giusta l’all. n. 4 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^36-5]: Introdotto dalla cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -1069,7 +1069,7 @@ Nel caso in cui le due parti riprendano i rapporti di lavoro entro un anno o li 
 
 [^41b-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^41b-2]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^41b-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^41b-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^41b-4]: Nuovo testo giusta l’all. n. 12 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 41c
@@ -1416,7 +1416,7 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 <sup>2</sup> L’orario normale di lavoro dell’azienda è definito nell’articolo 46.
 
-[^57a-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^57a-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
 #### Art. 57b
 
@@ -1424,9 +1424,9 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 ### (art. 35 cpv. 2 LADI)
 
-La durata massima dell’indennità per lavoro ridotto è prolungata di sei periodi di conteggio.
+La durata massima dell’indennità per lavoro ridotto è prolungata di 12 periodi di conteggio.
 
-[^57b-1]: Introdotto dalla cifra I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta la cifra I dell’O del 14 mag. 2025, in vigore dal 1° ago. 2025 al 31 lug. 2026 ([RU 2025 337](https://fedlex.data.admin.ch/eli/oc/2025/337)).
+[^57b-1]: Introdotto dalla cifra I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta la cifra I dell’O dell’8 ott. 2025, in vigore dal 1° nov. 2025 al 31 lug. 2026 ([RU 2025 617](https://fedlex.data.admin.ch/eli/oc/2025/617)).
 
 #### Art. 58
 
@@ -1738,7 +1738,7 @@ La cassa preleva dall’indennità per insolvenza i contributi (quota del lavora
 
 <sup>5</sup> L’articolo 35 capoverso 3 è applicabile per analogia alla verifica delle deduzioni.
 
-[^76-1]: Nuovo testo giusta la cifra IV 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^76-1]: Nuovo testo giusta la cifra IV n. 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 77
 
@@ -1767,7 +1767,7 @@ L’assicurato che fa valere il diritto all’indennità per insolvenza deve pre
 [^77-2]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^77-3]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^77-4]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^77-5]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^77-5]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^77-6]: Introdotto dalla cifra I dell’O del 28 ago. 1991 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 78
@@ -2072,7 +2072,7 @@ Un assicurato è considerato difficilmente collocabile se, tenuto conto della si
 
 [^90a-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^90a-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^90a-3]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1; **1998** 1822 art. 2; **1999** 2374 cifra I 2; **2003** 187 all. cifra II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra I 1]. Vedi ora la LF del 13 dic. 2002, in vigore dal 1° gen. 2004 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^90a-3]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1; **1998** 1822 art. 2; **1999** 2374 cifra I n. 2; **2003** 187 all. cifra II n. 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra I n. 1]. Vedi ora la LF del 13 dic. 2002, in vigore dal 1° gen. 2004 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
 [^90a-4]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^90a-5]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^90a-6]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
@@ -2204,7 +2204,7 @@ La domanda deve contenere almeno:
 <sup>4</sup> Se è concessa una fideiussione in virtù della legge federale del 6 ottobre 2006[^95c-2] sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese, il fondo di compensazione prende ulteriormente a carico il 20 per cento dei rischi di perdita a beneficio dell’organizzazione di fideiussione. Il servizio cantonale emana una decisione concernente l’importo garantito dal fondo di compensazione.
 
 [^95c-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^95c-2]: [RS 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
+[^95c-2]: [RS 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
 
 #### Art. 95d
 
@@ -2252,7 +2252,7 @@ La domanda deve contenere almeno:
 
 [^96a-1]
 
-[^96a-1]: Introdotto dalla cifra I 6 dell’O dell’11 ago. 1999 sul programma di stabilizzazione 1998 ([RU 1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)). Abrogato dalla cifra I dell’O dell’11 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^96a-1]: Introdotto dalla cifra I n. 6 dell’O dell’11 ago. 1999 sul programma di stabilizzazione 1998 ([RU 1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)). Abrogato dalla cifra I dell’O dell’11 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 97
 
@@ -2912,7 +2912,7 @@ La Commissione di sorveglianza può delegare a un comitato i compiti di cui all�
 <sup>9</sup> Il servizio cantonale tiene un inventario degli oggetti acquistati con i sussidi dell’assicurazione contro la disoccupazione. Siffatti oggetti possono essere alienati o destinati a un altro uso soltanto con l’approvazione dell’ufficio di compensazione. Il loro valore residuo deve essere dedotto dal conteggio.
 
 [^122a-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nuovo testo giusta la cifra I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
-[^122a-2]: [RS 837.023.3](https://fedlex.data.admin.ch/eli/cc/2001/326)
+[^122a-2]: [RS 837.023.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10290)
 [^122a-3]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
 #### Art. 122b
@@ -2940,7 +2940,7 @@ La convenzione sulle prestazioni secondo l’articolo 92 capoverso 6 LADI discip
 <sup>4</sup> Il DEFR definisce la struttura minima necessaria per garantire la disponibilità a intervenire delle casse di disoccupazione. Stabilisce il costo di questa disponibilità a intervenire, tenuto conto della necessità di preservare il livello della qualifica del personale e di garantire un rapido ingrandimento delle strutture nel caso di un nuovo aumento del numero dei disoccupati.
 
 [^122b-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^122b-2]: [RS 837.12](https://fedlex.data.admin.ch/eli/cc/1986/332_332_332)
+[^122b-2]: [RS 837.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10315)
 
 #### Art. 122c
 
@@ -3047,7 +3047,7 @@ La persona interessata può esigere dai servizi d’elaborazione dei dati che:
 <sup>5</sup> Se diversi organi esecutivi partecipano a un sistema d’informazione comune, uno di essi è designato quale responsabile dell’intero sistema.[^126-4]
 
 [^126-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^126-2]: Nuovo testo giusta l’all. 2 cifra II 122 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^126-2]: Nuovo testo giusta l’all. 2 cifra II n. 122 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^126-3]: Abrogato dalla cifra I dell’O del 22 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 [^126-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 
@@ -3064,7 +3064,7 @@ La persona interessata può esigere dai servizi d’elaborazione dei dati che:
 <sup>3</sup> L’emolumento può essere ridotto o condonato in caso di indigenza o per altri gravi motivi.
 
 [^126a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^126a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^126a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 [^126a-3]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 127
@@ -3118,7 +3118,7 @@ All’ufficio di compensazione dell’assicurazione contro la disoccupazione son
 
 [^129-1]
 
-[^129-1]: Abrogato dalla cifra II 100 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^129-1]: Abrogato dalla cifra II n. 100 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 129a
 
@@ -3168,13 +3168,13 @@ L’ordinanza 25 febbraio 1986[^130-2] sui ricorsi delle casse di disoccupazione
 
 [^u1-1]
 
-[^u1-1]: [RU 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogata dalla cifra IV 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u1-1]: [RU 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogata dalla cifra IV n. 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizione finale della modifica del 6 novembre 1996
 
 [^u2-1]
 
-[^u2-1]: [RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Abrogata dalla cifra IV 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^u2-1]: [RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Abrogata dalla cifra IV n. 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ## Disposizione transitoria della modifica del 2 marzo 2012
 
@@ -3185,7 +3185,7 @@ L’ordinanza 25 febbraio 1986[^130-2] sui ricorsi delle casse di disoccupazione
 Per quanto riguarda l’Islanda, il Lichtenstein e la Norvegia, fino all’entrata in vigore della modifica del 12 novembre 2015[^u3-2] dell’Allegato K della Convenzione del 4 gennaio 1960[^u3-3] istitutiva dell’Associazione europea di libero scambio rimane valido il diritto vigente.
 
 [^u3-2]: [RU 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
-[^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Disposizioni transitorie della modifica del 30 agosto 2023
 
@@ -3200,7 +3200,7 @@ Per quanto riguarda l’Islanda, il Lichtenstein e la Norvegia, fino all’entra
 <sup>3</sup> Le assicurate che hanno aperto un termine quadro per la riscossione della prestazione in base all’articolo 13 LADI durante gli ultimi quattro anni precedenti il raggiungimento dell’età di riferimento stabilita alla lettera a delle disposizioni transitorie della modifica del 17 dicembre 2021 della LAVS hanno diritto a 120 indennità giornaliere supplementari.
 
 [^u4-2]: [RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^u4-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u4-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 Allegato[^t-2]
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2025-08-01
+version: 2025-11-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20250801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20251101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20250801/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. August 2025)
+vom 31. August 1983 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^ingress-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^ingress-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 ## Erster Titel: Anwendbarkeit des ATSG
@@ -48,7 +48,7 @@ verordnet:
 <sup>2</sup> Der elektronische Verkehr erfolgt bis zum Einspracheentscheid über die Zugangsplattform für elektronische Dienstleistungen (Art. 83 Abs. 1<sup>bis</sup> Bst. d AVIG).
 
 [^1-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^1-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^1-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 1a
 
@@ -109,7 +109,7 @@ Arbeitgeber und Arbeitnehmer müssen auf ihren Arbeitslosenversicherungsbeiträg
 
 <sup>2</sup> Die besonderen Vorschriften über die Heimarbeitnehmer werden angewendet, wenn der Versicherte seinen letzten Verdienst vor Beginn der Rahmenfrist für den Leistungsbezug durch Heimarbeit erzielt hat.
 
-[^3-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^3-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 3a
 
@@ -144,7 +144,7 @@ Arbeitgeber und Arbeitnehmer müssen auf ihren Arbeitslosenversicherungsbeiträg
 <sup>6</sup> Im Fall der Pflege von Kindern im Hinblick auf eine Adoption nach Artikel 264 des Zivilgesetzbuches[^3b-2] und der Erziehungszeiten zu Gunsten von Kindern des Ehegatten finden die Absätze 1–5 sinngemäss Anwendung.
 
 [^3b-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^3b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3b-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 4
 
@@ -305,7 +305,7 @@ Als freiwillige Leistungen des Arbeitgebers bei der Auflösung des privatrechtli
 Die für die berufliche Vorsorge verwendeten Beträge werden von den zu berücksichtigenden freiwilligen Leistungen nach Artikel 11*a* Absatz 2 AVIG bis höchstens zum oberen Grenzbetrag nach Artikel 8 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^10b-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge abgezogen.
 
 [^10b-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^10b-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10b-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 10c
 
@@ -330,7 +330,7 @@ Die für die berufliche Vorsorge verwendeten Beträge werden von den zu berücks
 <sup>2</sup> Wurde kein Zeitraum festgelegt, so erfolgt die Berechnung nach Absatz 1 aufgrund der Anzahl Monate bis zum Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^10d-2] über die Alters- und Hinterlassenenversicherung (AHVG).[^10d-3]
 
 [^10d-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^10d-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^10d-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^10d-3]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 10e
@@ -524,10 +524,10 @@ Ausnahmefälle nach Artikel 16 Absatz 2 Buchstabe i AVIG liegen insbesondere vor
 [^18-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 [^18-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^18-5]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^18-6]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^18-7]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, in der für die Schweiz gemäss Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) jeweils verbindlichen Fassung (eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)) sowie in der für die Schweiz gemäss Anlage 2 Anhang K des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ([SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)) jeweils verbindlichen Fassung.
+[^18-7]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, in der für die Schweiz gemäss Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) jeweils verbindlichen Fassung (eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)) sowie in der für die Schweiz gemäss Anlage 2 Anhang K des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ([SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)) jeweils verbindlichen Fassung.
 [^18-8]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19
@@ -802,7 +802,7 @@ Der Versicherte hat Anspruch auf einen angemessenen Vorschuss für kontrollierte
 Als Altersleistungen der beruflichen Vorsorge, die von der Arbeitslosenentschädigung abzuziehen sind, gelten Leistungen der obligatorischen und der überobligatorischen beruflichen Vorsorge, die der versicherten Person vor Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^32-2] ausbezahlt werden.
 
 [^32-1]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^32-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^32-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 33
 
@@ -829,9 +829,9 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^33-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^33-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^33-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^33-6]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^33-7]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -882,7 +882,7 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^36-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^36-3]: SR **832.2**
+[^36-3]: [SR 832.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10189)
 [^36-4]: Fassung gemäss Anhang Ziff. 4 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^36-5]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -1065,7 +1065,7 @@ Wird das Arbeitsverhältnis innerhalb eines Jahres zwischen den gleichen Parteie
 
 [^41b-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^41b-2]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^41b-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^41b-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^41b-4]: Fassung gemäss Anhang Ziff. 12 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 41c
@@ -1420,9 +1420,9 @@ Weicht der Lohn im letzten Beitragsmonat um mindestens 10 Prozent vom Durchschni
 
 ### (Art. 35 Abs. 2 AVIG)
 
-Die Höchstdauer der Kurzarbeitsentschädigung wird um sechs Abrechnungsperioden verlängert.
+Die Höchstdauer der Kurzarbeitsentschädigung wird um zwölf Abrechnungsperioden verlängert.
 
-[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 14. Mai 2025, in Kraft vom 1. Aug. 2025 bis zum 31. Juli 2026 ([AS 2025 337](https://fedlex.data.admin.ch/eli/oc/2025/337)).
+[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 8. Okt. 2025, in Kraft vom 1. Nov. 2025 bis zum 31. Juli 2026 ([AS 2025 617](https://fedlex.data.admin.ch/eli/oc/2025/617)).
 
 #### Art. 58
 
@@ -1759,7 +1759,7 @@ Die versicherte Person, die Insolvenzentschädigung beansprucht, muss der zustä
 [^77-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^77-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^77-4]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^77-5]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^77-5]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^77-6]: Eingefügt durch Ziff. I der V vom 28. Aug. 1991 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 78
@@ -2065,7 +2065,7 @@ Die Vermittlung einer versicherten Person gilt als erschwert, wenn sie bei der h
 
 [^90a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^90a-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^90a-3]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Heute: das Berufsbildungsgesetz vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^90a-3]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Heute: das Berufsbildungsgesetz vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
 [^90a-4]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^90a-5]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^90a-6]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
@@ -2197,7 +2197,7 @@ Das Gesuch muss mindestens enthalten:
 <sup>4</sup> Wird eine Bürgschaft nach dem Bundesgesetz vom 6. Oktober 2006[^95c-2] über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen gewährt, so übernimmt der Ausgleichsfonds zugunsten der Bürgschaftsorganisation zusätzlich 20 Prozent des Verlustrisikos. Die kantonale Amtsstelle erlässt eine Verfügung über den vom Ausgleichsfonds garantierten Betrag.
 
 [^95c-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^95c-2]: [SR 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
+[^95c-2]: [SR 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
 
 #### Art. 95d
 
@@ -2905,7 +2905,7 @@ Die Aufsichtskommission kann Aufgaben nach Artikel 89 AVIG einem Ausschuss über
 <sup>9</sup> Die kantonale Amtsstelle führt über die mit Beiträgen der Arbeitslosenversicherung angeschafften Objekte ein Inventar. Solche Objekte dürfen nur mit Zustimmung der Ausgleichsstelle veräussert oder zweckentfremdet werden. Ihr Restwert muss bei der Abrechnung abgezogen werden.
 
 [^122a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
-[^122a-2]: [SR 837.023.3](https://fedlex.data.admin.ch/eli/cc/2001/326)
+[^122a-2]: [SR 837.023.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10290)
 [^122a-3]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
 #### Art. 122b
@@ -2933,7 +2933,7 @@ Die Vereinbarung nach Artikel 92 Absatz 6 AVIG regelt die Zusammenarbeit zwische
 <sup>4</sup> Das WBF definiert die erforderliche Minimalstruktur für die Bereitschaftsfunktion der Arbeitslosenkassen. Es legt die Bereitschaftskosten so fest, dass die bestehende Qualifikation des Personals erhalten bleibt und ein rascher Aufbau der Strukturen bei einem Wiederanstieg der Anzahl der Arbeitslosen gewährleistet ist.
 
 [^122b-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 1996 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)). Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^122b-2]: [SR 837.12](https://fedlex.data.admin.ch/eli/cc/1986/332_332_332)
+[^122b-2]: [SR 837.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10315)
 
 #### Art. 122c
 
@@ -3057,7 +3057,7 @@ Die betroffene Person kann von den Stellen, welche die Daten bearbeiten, verlang
 <sup>3</sup> Die Gebühr kann wegen Bedürftigkeit der gebührenpflichtigen Person oder aus anderen wichtigen Gründen ermässigt oder erlassen werden.
 
 [^126a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^126a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^126a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 [^126a-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 127
@@ -3178,7 +3178,7 @@ Die Verordnung vom 25. Februar 1986[^130-2] über die Verwaltungskostenbeschwerd
 In Bezug auf Island, Liechtenstein, und Norwegen gilt bis zum Inkrafttreten der Änderung vom 12. November 2015[^u3-2] von Anhang K des Übereinkommens vom 4. Januar 1960[^u3-3] zur Errichtung der Europäischen Freihandelsassoziation das bisherige Recht.
 
 [^u3-2]: [AS 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
-[^u3-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u3-3]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Übergangsbestimmung zur Änderung vom 30. August 2023
 
@@ -3193,7 +3193,7 @@ In Bezug auf Island, Liechtenstein, und Norwegen gilt bis zum Inkrafttreten der 
 <sup>3</sup> Weibliche Versicherte, denen innerhalb der letzten vier Jahre vor Erreichen des in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom 17. Dezember 2021 des AHVG festgelegten Referenzalters aufgrund von Artikel 13 AVIG eine Rahmenfrist für den Leistungsbezug eröffnet wird, haben Anspruch auf zusätzliche 120 Taggelder.
 
 [^u4-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^u4-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u4-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 Anhang[^t-1]
 
