@@ -3,22 +3,28 @@ canton: BL
 number: "721.12"
 title: Verordnung über das militärische Disziplinarwesen
 language: de
-version: 2025-07-01
-valid_until: 2025-10-31
-version_adopted: 2025-03-25
+version: 2025-11-01
+version_adopted: 2025-09-23
 adopted: 1980-04-01
 in_force: 1980-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/721.12"
-pdf: "https://bl.clex.ch/api/de/versions/4254/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4355/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das militärische Disziplinarwesen
 
-Vom 01.04.1980 (Stand 01.07.2025)
+Vom 01.04.1980 (Stand 01.11.2025)
 
-Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Militärstrafgesetz (MStG) vom 13. Juni 1927[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SR 321.0](https://db.clex.ch/link/Bund/321.0/de)
 
 #### § 1
 
@@ -55,9 +61,9 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Beschwerdeinstanz**
 
-<sup>1</sup> Die Sicherheitsdirektion ist die Beschwerdeinstanz im Sinne von Artikel 206 Absatz 2 Buchstabe d MStG[^6-1].
+<sup>1</sup> Der Regierungsrat ist die Beschwerdeinstanz im Sinne von Art. 206 Abs. 2 Bst. d MStG[^6-1].
 
-[^6-1]: SR 321.0
+[^6-1]: [SR 321.0](https://db.clex.ch/link/Bund/321.0/de)
 
 #### § 7
 
