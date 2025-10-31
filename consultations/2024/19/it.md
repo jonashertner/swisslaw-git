@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sul sistema d’informazione sui controlli della circolazione stradale (OSICC)
 document: Progetto posto in consultazione
 language: it

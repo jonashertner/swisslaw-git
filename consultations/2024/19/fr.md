@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur le système d’information relatif aux contrôles de la circulation routière (OSICCR)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über das Informationssystem Strassenverkehrskontrollen (ISKV)
 document: Vernehmlassungsvorlage
 language: de
