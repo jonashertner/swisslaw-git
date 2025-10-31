@@ -4,10 +4,10 @@ number: "172.110.6"
 title: Organisationsverordnung der Bildungsdirektion (OV BI)
 short: OV BI
 language: de
-nachtrag: "120"
-valid_until: 2025-11-01
+version: "2025-11-01"
+nachtrag: "131"
 adopted: 2022-09-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_6-2022_09_14-2023_02_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_6-2022_09_14-2023_02_01-131.html"
 text: pdf
 ---
 
@@ -69,7 +69,7 @@ verfügt:
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Sie oder er a. stellt die Umsetzung der Legislaturziele des Regierungsrates in der Direktion sicher,
 
@@ -113,11 +113,9 @@ verfügt:
 
 - g. nimmt die Rechtspflegefunktion der Direktion wahr.
 
-<sup>3</sup> Das Generalsekretariat besteht aus den folgenden Organisationseinheiten:
+<sup>3</sup> Das Generalsekretariat besteht aus folgenden Organisationseinheiten:[^4-2] a. Bildungsplanung (BP),
 
-- a. Bildungsplanung (BP),
-
-- b. Finanzen und Informatik (F&I),
+- b. Finanzen und Digitales (F&D),
 
 - c. Personal und Dienste (P&D),
 
@@ -125,9 +123,12 @@ verfügt:
 
 - e. Politische Planung und Kommunikation (PPKomm),
 
-- f. Bauten (Bau).
+- f. Bauten (Bau),
+
+- g. Rekursabteilung (Reka).
 
 [^4-1]: LS 170.4.
+[^4-2]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
 
 #### § 5
 
@@ -135,13 +136,25 @@ verfügt:
 
 <sup>1</sup> Die Generalsekretärin oder der Generalsekretär unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher im gesamten Aufgabenbereich. Sie oder er vertritt die Vorsteherin oder den Vorsteher direktionsintern.
 
-<sup>2</sup> Sie oder er a. leitet das Generalsekretariat,
+<sup>2</sup> Sie oder er[^5-1] a. leitet das Generalsekretariat,
 
 - b. informiert die Mitarbeitenden der Direktion und die Verwaltungseinheiten zusammen mit der PPKomm über Belange der Direktion,
 
 - c. koordiniert die Zusammenarbeit unter den Verwaltungseinheiten der Direktion und mit den anderen Direktionen und der Staatskanzlei,
 
-- d. wirkt bei Gesetzgebungsvorhaben und anderen Projekten oder der Leitung solcher mit.
+- d. wirkt bei Gesetzgebungsvorhaben und anderen Projekten oder der Leitung solcher mit,
+
+- e. führt die Koordinationsstelle für Geschäfte der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK),
+
+- f. bearbeitet und koordiniert die interkantonalen Geschäfte im Rahmen der EDK sowie ihrer regionalen Konferenzen, einschliesslich der Vorbereitung zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers,
+
+- g. vertritt den Kanton Zürich in der Konferenz der Departementssekretäre sowie in der Departementssekretäre-Konferenz der Ostschweizer Kantone und des Fürstentums Liechtenstein,
+
+- h. koordiniert die Informationssicherheit innerhalb der Direktion und entwickelt diese weiter.
+
+**3**
+
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Im Rahmen der Leitung des Generalsekretariats nimmt sie oder er im Einvernehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher insbesondere folgende Aufgaben wahr:
 
@@ -157,11 +170,13 @@ verfügt:
 
 <sup>4</sup> Sie oder er kann im Einvernehmen mit der Direktionsvorsteherin oder dem Direktionsvorsteher bestimmte Aufgaben an ihre oder seine Stellvertretung sowie andere Mitarbeitende des Generalsekretariats zur selbstständigen Erledigung übertragen.
 
-**3**
+[^5-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
 
-- 1\. 4. 23 - 120 § 6. Die Organisationseinheit Bildungsplanung nimmt insbesondere folgende Aufgaben wahr:
+#### § 6
 
 **Bildungsplanung**
+
+Die Organisationseinheit Bildungsplanung nimmt insbesondere folgende Aufgaben wahr:
 
 - a. Bildungsstatistik, insbesondere Erhebung, Bearbeitung und Veröffentlichung von Bildungsdaten des Kantons Zürich,
 
@@ -183,38 +198,38 @@ verfügt:
 
 - d. Unterstützung der Direktion und der Verwaltungseinheiten mit Amtsstruktur bei besonderen Projekten.
 
+[^6-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
+[^6-2]: LS 611.
+
 #### § 7
 
-**Finanzen und Informatik**
+**Finanzen und Digitales**
 
-<sup>1</sup> Die Organisationseinheit Finanzen und Informatik nimmt insbesondere folgende Aufgaben wahr:
-
-- a. Durchführung und Koordination der Prozesse gemäss Gesetz über Controlling und Rechnungslegung vom 9. Januar 2006[^7-1], einschliesslich Mittel- und Investitionsplanung auf Direktionsstufe,
+<sup>1</sup> Die Organisationseinheit Finanzen und Digitales nimmt insbesondere folgende Aufgaben wahr:[^6-1] a. Durchführung und Koordination der Prozesse gemäss Gesetz über Controlling und Rechnungslegung vom 9. Januar 2006[^6-2], einschliesslich Mittel- und Investitionsplanung auf Direktionsstufe,
 
 - b. fachliche Beratung bei Finanzfragen sowie finanzrechtliche Vorprüfung der Direktionsgeschäfte,
 
-- c. Durchführung des Controllings im Generalsekretariat sowie Abwicklung des Rechnungswesens für einzelne Verwaltungseinheiten,
+- c. Durchführung des Controllings im Generalsekretariat und bei der Hochschulfinanzierung sowie Abwicklung des Rechnungswesens für einzelne Verwaltungseinheiten,
 
-- d. Koordination und Weiterentwicklung der Informationssicherheit sowie des internen Kontrollsystems (IKS), einschliesslich Risikomanagement und Compliance auf Direktionsstufe,
+- d. Koordination und Weiterentwicklung des Internen Kontrollsystems (IKS), einschliesslich Risikomanagement und Compliance auf Direktionsstufe,
 
-- e. Interessenvertretung bei der Informatik-Grundversorgung und Erbringung der mit den Verwaltungseinheiten abgestimmten Fachapplikationsleistungen,
+- e. fachliche Beratung, Koordination und Unterstützung der digitalen Entwicklung in der Direktion,
 
-- f. Organisation der Informatikprozesse innerhalb der Direktion und zum Amt für Informatik,
+- f. Organisation der Informatikgrundversorungs- und Digitalisierungsprozesse innerhalb der Direktion und zu den zuständigen Stellen im Kanton,
 
-- g. Koordination und Unterstützung der digitalen Transformation in der Direktion,
+- g. Erbringung der mit den Verwaltungseinheiten abgestimmten Fachapplikationsleistungen,
 
-- h. Mitwirken in kantonalen oder direktionalen Gremien sowie bei Finanz- und Informatikprojekten.
+- h. Mitwirken in direktionsinternen oder direktionsübergreifenden Arbeitsgruppen und Kommissionen sowie bei Finanz-, Digitalisierungs- und Informatikprojekten.
 
 <sup>2</sup> Sie kann für die Aufgabenerfüllung den Verwaltungseinheiten Aufträge mit Erledigungsvorgaben erteilen.
 
-[^7-1]: LS 611.
-[^7-2]: LS 177.111.
+[^7-1]: LS 177.111.
 
 #### § 8
 
 **Personal und Dienste a. im Allgemeinen**
 
-Die Organisationseinheit Personal und Dienste nimmt die ihr gemäss § 152 Abs. 2 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999[^7-2] zugewiesenen und weitere Aufgaben wahr, insbesondere:
+Die Organisationseinheit Personal und Dienste nimmt die ihr gemäss § 152 Abs. 2 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999[^7-1] zugewiesenen und weitere Aufgaben wahr, insbesondere:
 
 - a. Entwicklung und Umsetzung der Personalmanagementstrategie der Direktion,
 
@@ -238,45 +253,49 @@ Die Organisationseinheit Personal und Dienste nimmt die ihr gemäss § 152 Abs. 
 
 - k. Bereitstellung und Bewirtschaftung von Büro- und Betriebsräumlichkeiten sowie weiterer Infrastruktur für das Generalsekretariat.
 
-#### § 9
+**5**
+
+**Politische Planung und Kommunikation a. im Allgemeinen**
+
+- 1\. 1. 26 - 131 § 9. <sup>1</sup> Die Leiterin oder der Leiter der Organisationseinheit Personal und Dienste erledigt Personalgeschäfte von Mitarbeiterinnen oder Mitarbeitern der Direktion. Vorbehalten bleibt die Zuständigkeit
 
 **b. personalrechtliche Entscheide**
 
-<sup>1</sup> Die Leiterin oder der Leiter der Organisationseinheit Personal und Dienste erledigt Personalgeschäfte von Mitarbeiterinnen oder Mitarbeitern der Direktion. Vorbehalten bleibt die Zuständigkeit a. der Direktionsvorsteherin oder des Direktionsvorstehers für die ihr oder ihm direkt Unterstellten,
-
-- b. der Generalsekretärin oder des Generalsekretärs für die ihr oder ihm direkt unterstellten Mitarbeitenden des Generalsekretariats,
+- a. der Direktionsvorsteherin oder des Direktionsvorstehers für die ihr oder ihm direkt Unterstellten, b.[^8-1] der Generalsekretärin oder des Generalsekretärs für die ihr oder ihm direkt unterstellten Mitarbeitenden des Generalsekretariats und für die Mitarbeitenden der Organisationseinheit Personal und Dienste,
 
 - c. der Verwaltungseinheiten, soweit sie gestützt auf § 66 Abs. 1 lit. b in Verbindung mit Anhang 3 VOG RR an diese delegiert ist.
 
 <sup>2</sup> Die Leiterin oder der Leiter der Organisationseinheit Personal und Dienste entscheidet auf Antrag oder nach Rücksprache mit der Leiterin oder dem Leiter einer Verwaltungseinheit. Bei wichtigen Personalgeschäften von Mitarbeiterinnen und Mitarbeitern in Schlüsselpositionen nimmt sie oder er Rücksprache mit der Generalsekretärin oder dem Generalsekretär.
 
-**5**
+[^8-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
 
-- 1\. 4. 23 - 120 § 10. Die Organisationseinheit Fach- und Rechtsdienst nimmt insbesondere folgende Aufgaben wahr:
+#### § 10
 
-**Fach- und Rechtsdienst a. im Allgemeinen**
+**Fach- und Rechtsdienst**
 
-- a. formelle und materielle Vorprüfung der Direktionsgeschäfte, soweit sie keiner anderen Organisationseinheit zugewiesen sind,
+Die Organisationseinheit Fach- und Rechtsdienst nimmt insbesondere folgende Aufgaben wahr:[^8-1] a. formelle und materielle Vorprüfung der Direktionsgeschäfte, soweit sie keiner anderen Organisationseinheit zugewiesen sind,
 
 - b. systematische Beobachtung der rechtlichen und politischen Entwicklungen, soweit sie die Direktion betreffen,
 
 - c. juristische und fachliche Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers sowie der Verwaltungseinheiten,
 
-- d. Rechtspflege namens der Direktion.
+- d. Mitwirkung in direktionsinternen und direktionsübergreifenden Projekten und Vertretung der Direktion in Arbeitsgruppen und Kommissionen,
 
-#### § 11
+- e. Mitwirkung oder Leitung von Rechtsetzungsvorhaben.
 
-**b. Rekursabteilung**
+**Rekursabteilung**
 
-Die Rekursabteilung erlässt zu den in ihren Zuständigkeitsbereich fallenden Geschäften die verfahrensleitenden Anordnungen und Entscheide im Namen der Direktion.
+§ 11.[^10-1] Die Organisationseinheit Rekursabteilung nimmt insbesondere folgende Aufgaben wahr:
+
+- a. Erlass von verfahrensleitenden Anordnungen, vorsorglichen Massnahmen und Entscheiden im Namen der Direktion,
+
+- b. Bearbeitung von Aufsichtsbeschwerden, soweit diese nicht durch das Amt zu bearbeiten sind.
+
+[^10-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
 
 #### § 12
 
-**Politische Planung und Kommunikation a. im Allgemeinen**
-
-Die Organisationseinheit Politische Planung und Kommunikation behandelt insbesondere politische, direktionsübergreifende und interkantonale Themen, welche die Direktion betreffen, und sorgt für die Planung und Koordination sowie die Information innerhalb der Direktion. Sie nimmt insbesondere folgende Aufgaben wahr:
-
-- a. Koordination und Bearbeitung von amts- und direktionsübergreifenden Geschäften mit besonderer bildungspolitischer Bedeutung,
+Die Organisationseinheit Politische Planung und Kommunikation behandelt insbesondere politische, direktionsübergreifende und interkantonale Themen, welche die Direktion betreffen, und sorgt für die Planung und Koordination sowie die Information innerhalb der Direktion. Sie nimmt insbesondere folgende Aufgaben wahr:[^10-1] a. Koordination und Bearbeitung von amts- und direktionsübergreifenden Geschäften mit besonderer bildungspolitischer Bedeutung,
 
 - b. Bearbeiten und Durchführung der Legislaturplanung,
 
@@ -284,11 +303,11 @@ Die Organisationseinheit Politische Planung und Kommunikation behandelt insbeson
 
 - d. Führen des Aktuariats des Bildungsrates,
 
-- e. Führen der Koordinationsstelle für Geschäfte der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK),
+- e. administratives Führen der Fachstelle für Schulbeurteilung,
 
-- f. Bearbeitung und Koordination der interkantonalen Geschäfte im Rahmen der EDK sowie ihrer regionalen Konferenzen, einschliesslich der Vorbereitung zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers,
+- f. Führen der Direktionsassistenz,
 
-- g. Vertretung des Kantons Zürich in der Konferenz der Departementssekretäre sowie in der Departementssekretäre-Konferenz der Ostschweizer Kantone und des Fürstentums Liechtenstein.
+- g. Führen der oder des Beauftragten für Gewaltprävention im schulischen Umfeld.
 
 #### § 13
 
@@ -319,6 +338,10 @@ Die Organisationseinheit Bauten nimmt die Aufgaben gemäss Immobilienverordnung 
 
 - e. Verantwortung für die Investitionsmittel für Immobilien im Bereich der Universität Zürich.
 
+**7**
+
+- 1\. 1. 26 - 131
+
 ### C. Verwaltungseinheiten mit Amtsstruktur
 
 #### § 15
@@ -344,10 +367,6 @@ Die Verwaltungseinheiten mit Amtsstruktur a. bearbeiten die ihnen von der Rechts
 - a. Umsetzung der Legislaturziele des Regierungsrates und der Direktion,
 
 - b. Festlegung der Ziele und Planung,
-
-**7**
-
-- 1\. 4. 23 - 120
 
 - c. Steuerung der Aufgabenerfüllung mit den von der Rechtsordnung vorgesehenen und der Direktion zur Verfügung gestellten Führungsinstrumenten,
 
@@ -405,35 +424,39 @@ Die Verwaltungseinheiten mit Amtsstruktur a. bearbeiten die ihnen von der Rechts
 
 ### 3. Abschnitt: Ausgaben
 
+[^h3AbschnittAusgab-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
+
 #### § 19
 
 **Ausgabenkompetenz**
 
-<sup>1</sup> Die Ausgabenkompetenzen der Verwaltungseinheiten sind im Anhang geregelt.
+<sup>1</sup> Die Ausgabenkompetenzen der Verwaltungseinheiten sind im Anhang 1 geregelt.[^h3AbschnittAusgab-1]
 
 <sup>2</sup> In Bereichen, die nicht der Direktionsvorsteherin oder dem Direktionsvorsteher vorbehalten sind, ist die Subdelegation der Ausgabenkompetenz zulässig.
 
-<sup>3</sup> Die Subdelegation bedarf der Genehmigung durch die Generalsekretärin oder den Generalsekretär.
-
-#### § 20
+<sup>3</sup> . . .[^19-1] § 20. <sup>1</sup> Einmalige und wiederkehrende Ausgaben von Fr. 50 000 und höher werden durch Verfügung der berechtigten Person bewilligt. In den übrigen Fällen kann die Ausgabenbewilligung durch Unterzeichnung des Rechnungsbelegs erfolgen.
 
 **Formen der Ausgabenbewilligung**
 
-<sup>1</sup> Einmalige und wiederkehrende Ausgaben von Fr. 50 000 und höher werden durch Verfügung der berechtigten Person bewilligt. In den übrigen Fällen kann die Ausgabenbewilligung durch Unterzeichnung des Rechnungsbelegs erfolgen.
-
 <sup>2</sup> Die Verwaltungseinheiten mit Amtsstruktur können einen tieferen Betrag bestimmen, ab dem eine Verfügung erstellt werden muss.
 
-<sup>3</sup> Unabhängig vom Betrag werden durch Unterzeichnung des Rechnungsbelegs bewilligt:
+**9**
 
-- a. Betriebsbeiträge an zu konsolidierende Einheiten,
+- 1\. 1. 26 - 131
 
-- b. Betriebsbeiträge an Konkordate gemäss Anhang 2 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^20-1],
+<sup>3</sup> Unabhängig vom Betrag werden durch Unterzeichnung des Rechnungsbelegs bewilligt:[^19-2] a. Beiträge an zu konsolidierende Einheiten,
 
-- c. Beiträge an die Ausbildungskosten der Studierenden gemäss der Interkantonalen Fachhochschulvereinbarung ab 2005 vom 12. Juni 2003[^20-2] und der Interkantonalen Universitätsvereinbarung vom 27. Juni 2019[^20-3].
+- b. Beiträge an Konkordate gemäss Anhang 2 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^19-3],
 
-[^20-1]: LS 611.2.
-[^20-2]: LS 414.12.
-[^20-3]: LS 415.17.
+- c. Beiträge an die Ausbildungskosten der Studierenden gemäss der Interkantonalen Fachhochschulvereinbarung ab 2005 vom 12. Juni 2003[^19-4] und der Interkantonalen Universitätsvereinbarung vom 27. Juni 2019[^19-5],
+
+- d. Ausgaben in weiteren Bereichen, soweit die Genehmigung der Generalsekretärin oder des Generalsekretärs vorliegt.
+
+[^19-1]: Aufgehoben durch Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
+[^19-2]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
+[^19-3]: LS 611.2.
+[^19-4]: LS 414.12.
+[^19-5]: LS 415.17.
 
 #### § 21
 
@@ -441,15 +464,9 @@ Die Verwaltungseinheiten mit Amtsstruktur a. bearbeiten die ihnen von der Rechts
 
 Verträge zur Umsetzung von Ausgabenbewilligungen können durch die Verwaltungseinheiten mit Amtsstruktur im Rahmen ihrer Ausgabenkompetenz für gebundene Ausgaben abgeschlossen werden.
 
-**9**
-
-- 1\. 4. 23 - 120
-
 ### 4. Abschnitt: Informationspflicht und Unterschriftenregelung
 
-#### § 22
-
-<sup>1</sup> Die Organisationseinheiten und Verwaltungseinheiten mit Amtsstruktur informieren die Direktionsvorsteherin oder den Direktionsvorsteher über Angelegenheiten von grundsätzlicher Bedeutung oder grosser politischer Tragweite.
+§ 22.[^h4AbschnittInform-1] <sup>1</sup> Die Organisationseinheiten und Verwaltungseinheiten mit Amtsstruktur informieren die Direktionsvorsteherin oder den Direktionsvorsteher über Angelegenheiten von grundsätzlicher Bedeutung oder grosser politischer Tragweite.
 
 <sup>2</sup> Sie legen der Direktionsvorsteherin oder dem Direktionsvorsteher unabhängig von der Aufgabenzuteilung und der Ausgabenkompetenz gemäss Anhang zur Unterschrift vor:
 
@@ -457,9 +474,13 @@ Verträge zur Umsetzung von Ausgabenbewilligungen können durch die Verwaltungse
 
 - b. Dokumente mit brisantem oder umstrittenem politischem Inhalt,
 
-- c. Beantwortung der Korrespondenz, die an die Direktionsvorsteherin oder den Direktionsvorsteher gerichtet ist.
+- c. Beantwortung der Korrespondenz, die an die Direktionsvorsteherin oder den Direktionsvorsteher gerichtet ist, soweit die Beantwortung nicht an eine Organisationseinheit oder Verwaltungseinheit mit Amtsstruktur zur direkten Erledigung delegiert ist.
 
 <sup>3</sup> Verpflichtungen in Form von Verträgen sind mit Doppelunterschrift zu unterzeichnen. Die linienvorgesetzte Person unterzeichnet links, die sachverantwortliche Person rechts.
+
+<sup>4</sup> Im Bereich Werterhaltung der Abteilung Bauten gilt die Unterschriftenregelung gemäss Anhang 2.
+
+[^h4AbschnittInform-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
 
 ### 5. Abschnitt: Kommunikation
 
@@ -471,17 +492,13 @@ Verträge zur Umsetzung von Ausgabenbewilligungen können durch die Verwaltungse
 
 <sup>2</sup> Zur Sicherstellung einer kohärenten Kommunikation kann die Leiterin oder der Leiter der Abteilung Kommunikation den Verwaltungseinheiten mit Amtsstruktur Weisungen erteilen.
 
-<sup>3</sup> Medienanfragen beantworten a. die Direktionsvorsteherin oder der Direktionsvorsteher,
+<sup>3</sup> Medienanfragen beantworten[^23-1] a. die Direktionsvorsteherin oder der Direktionsvorsteher,
 
 - b. die Generalsekretärin oder der Generalsekretär,
 
-- c. die Leiterin oder der Leiter einer Verwaltungseinheit mit Amtsstruktur,
+- c. die Leiterin oder der Leiter der Abteilung Kommunikation,
 
-- d. die Leiterin oder der Leiter der Organisationseinheit Bildungsplanung,
-
-- e. die Leiterin oder der Leiter der Organisationseinheit Finanzen und Informatik oder
-
-- f. die Leiterin oder der Leiter der Organisationseinheit Personal und Dienste.
+- d. die Leiterin oder der Leiter einer Verwaltungseinheit mit Amtsstruktur,
 
 <sup>4</sup> Die Verwaltungseinheiten mit Amtsstruktur nehmen die Öffentlichkeitsarbeit und ihren gesetzlichen Informationsauftrag in ihrem Aufgabengebiet vorbehältlich abweichender Bestimmungen in dieser Verordnung selbst wahr. Sie äussern sich insbesondere gegenüber Medien zu reinen Fachfragen in ihrem Zuständigkeitsbereich. In Zweifelsfällen nehmen sie vor der Erteilung von Auskünften an Medien und Dritte Rücksprache mit der Abteilung Kommunikation.
 
@@ -490,6 +507,8 @@ Verträge zur Umsetzung von Ausgabenbewilligungen können durch die Verwaltungse
 <sup>6</sup> Die Verwaltungseinheiten mit Amtsstruktur erfüllen und regeln ihre Öffentlichkeitsarbeit nach den Vorgaben des Öffentlichkeitsprinzips sowie im Rahmen der Leitlinien des Regierungsrates.
 
 <sup>7</sup> Sie informieren die Leiterin oder den Leiter der Abteilung Kommunikation rechtzeitig über eingegangene Medienanfragen oder anstehende Öffentlichkeitsarbeiten.
+
+[^23-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
 
 #### § 24
 
@@ -500,6 +519,10 @@ Verträge zur Umsetzung von Ausgabenbewilligungen können durch die Verwaltungse
 <sup>2</sup> Eine Absprache mit der Abteilung Kommunikation ist zwingend, wenn Auskünfte a. über das eigene Fachgebiet hinausgehen oder die Direktion betreffen,
 
 - b. voraussichtlich politische Tragweite entfalten,
+
+**11**
+
+- 1\. 1. 26 - 131
 
 - c. betreffend die politische oder fachliche Bedeutung nicht eingeschätzt werden können,
 
@@ -519,13 +542,13 @@ Die Kommunikation mit dem Kantonsrat und den politischen Parteien erfolgt aussch
 
 <sup>1</sup> Medienmitteilungen werden durch die Abteilung Kommunikation verfasst oder visiert. Sie werden über die Kommunikationsabteilung des Regierungsrates verbreitet.
 
-**11**
-
-- 1\. 4. 23 - 120
-
 <sup>2</sup> Medienkonferenzen werden durch die Abteilung Kommunikation in Zusammenarbeit mit der zuständigen Verwaltungseinheit organisiert. Die Einladung erfolgt durch die Staatskanzlei.
 
-### Anhang
+[^26-1]: Fassung gemäss Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
+
+### Anhang 1
+
+[^26-1]
 
 ### Ausgabenkompetenzen (§ 19)
 
@@ -551,38 +574,47 @@ Tätigung von Ausgaben, Übernahme von Verpflichtungen, Vergabe von Arbeiten und
 
 **(cid:2)1 Mio.**
 
-Tätigung von Ausgaben, Übernahme von Verpflichtungen, Vergabe von Arbeiten und Lieferungen, bei einer Gesamtinvestition im Einzelfall von Investitionsausgaben im Hochbau- (cid:2)1 Mio.
-
-**(cid:2)1 Mio.**
-
-bereich (nur Generalsekretärin oder Generalsekretär)
+Tätigung von Ausgaben, Übernahme von Verpflichtungen, Vergabe von Arbeiten und Lieferungen, bei einer Gesamtinvestition im Einzelfall von
 
 **13**
 
-- 1\. 4. 23 - 120 Die Ausgabenkompetenz der Leitung der Verwaltungseinheiten erstreckt sich auch auf die zugehörigen Leistungsgruppen:
+- 1\. 1. 26 - 131 Die Ausgabenkompetenz der Leitung der Verwaltungseinheiten erstreckt sich auch auf die zugehörigen Leistungsgruppen:
 
-7001 Generalsekretariat:
+7001 Generalsekretariat mit folgenden Leistungsgruppen:
 
-7050 Hochbauinvestitionen Bildungsdirektion
+7050 Hochbauinvestitionen Bildungsdirektion 7401 Universität (Beiträge) 7402 Sonstige universitäre Leistungen 7406 Fachhochschulen (Beiträge) 7407 Ausserkantonale Fachhochschulen und Höhere Fachschulen 7002 Volksschulamt mit folgender Leistungsgruppe:
 
-7002 Volksschulamt mit folgender Leistungsgruppe:
+7200 Volksschulen 7003 Mittelschul- und Berufsbildungsamt mit folgenden Leistungsgruppen:
 
-7200 Volksschulen
+7301 Mittelschulen 7306 Berufsbildung 7004 Hochschulamt 7005 Amt für Jugend und Berufsberatung mit folgenden Leistungsgruppen:
 
-7003 Mittelschul- und Berufsbildungsamt mit folgenden Leistungsgruppen:
+7501 Kinder- und Jugendhilfe 7502 Berufs-, Studien- und Laufbahnberatung 7100 Lehrmittelverlag
 
-7301 Mittelschulen 7306 Berufsbildung
-
-7004 Hochschulamt mit folgenden Leistungsgruppen:
-
-7401 Universität (Beiträge und Liegenschaften) 7402 Sonstige universitäre Leistungen 7406 Zürcher Fachhochschule (Beiträge und Liegenschaften) 7407 Ausserkantonale Fachhochschulen und Höhere Fachschulen
-
-7005 Amt für Jugend und Berufsberatung mit folgenden Leistungsgruppen:
-
-7501 Kinder- und Jugendhilfe 7502 Berufsberatung und Ausbildungsbeiträge
-
-7100 Lehrmittelverlag
-
-Die selbstständigen Anstalten (Leistungsgruppen Nrn. 9600, 9710, 9720 und 9740) sind von dieser Regelung ausgenommen.
+Die selbstständigen Anstalten (Leistungsgruppen 9600, 9690, 9710, 9720 und 9740) sind von dieser Regelung ausgenommen.
 
 [^h1Erfolgsrechnung-1]: LS 611.2.
+[^h1Erfolgsrechnung-2]: Eingefügt durch Vfg. vom 11. August 2025 (OS 80, 243; ABl 2025-08-29). In Kraft seit 1. November 2025.
+
+### Anhang 2
+
+[^h1Erfolgsrechnung-2]
+
+### Unterschriftenregelung (§ 22 Abs. 3)
+
+### Bauten
+
+### Werterhaltung – Unterhalt und Einzelposten von Kleinprojekten (bis Fr. 50 000)
+
+bis Fr. 10 000 mündlicher Vertrag Projektleitung bis Fr. 25 000 schriftlicher Vertrag Einzelunterschrift: Projektleitung bis Fr. 50 000 schriftlicher Vertrag Doppelunterschrift: Projektleitung und Teamleitung bzw. zweite
+
+Projektleitung
+
+### Werterhaltung – Kleinprojekte (Fr. 50 000 bis Fr. 300 000)
+
+bis Fr. 100 000 schriftlicher Vertrag Doppelunterschrift: Projektleitung und Leitung der Organisationseinheit Bauten bis Fr. 300 000 schriftlicher Vertrag Doppelunterschrift: Projektleitung und Generalsekretärin oder
+
+Generalsekretär
+
+**15**
+
+- 1\. 1. 26 - 131
