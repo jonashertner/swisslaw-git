@@ -4,7 +4,7 @@ number: "831.21.1"
 title: "RÈGLEMENT du 01.05.2019 d'application de la loi du 13 novembre 2007 sur les prestations complémentaires à l'assurance vieillesse, survivants et invalidité et sur le remboursement des frais de maladie et d'invalidité en matière de prestations complémentaires (RLVPC-RFM)"
 short: RLVPC-RFM
 language: fr
-version: 2021-01-01
+version: 2025-11-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/831.21.1?id=13acafab-b588-438d-8102-268d29418d70"
 ---
 
@@ -457,14 +457,13 @@ arrête
 
 #### Art. 38
 
-**Prestations fournies dans les logements protégés [^37-2]**
+**Prestations fournies dans les logements adaptés avec accompagnement [^37-2]**
 
-<sup>1</sup> Une participation est accordée au titre de frais de maladie et d'invalidité pour les frais inhérents aux prestations fournies dans les logements protégés au sens de l'article 16 LAPRAMS[^38-1], notamment l'animation, la jouissance des locaux communs, l'encadrement sécurisant, avec lesquels le Département a conclu une convention et aux modalités prévues par celle-ci.
+<sup>1</sup> Une participation est accordée au locataire au titre de frais de maladie et d'invalidité pour les frais inhérents aux prestations fournies par les propriétaires et si distincts, les prestataires de services, dans les logements adaptés avec accompagnement (ci-après LADA) au sens de l'article 16 LAPRAMS, notamment l'accompagnement sécurisant et social, l'animation et la jouissance du local communautaire, avec lesquels le Département a conclu une convention et aux modalités prévues par celle-ci.
 
 <sup>2</sup> En l'absence de convention, le Département fixe dans la directive départementale les conditions, les modalités et les montants maximaux des remboursements.
 
 [^37-2]: Modif. 3 du 12.11.2025: Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1; entrée en vigueur au 01.11.2025
-[^38-1]: Loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98))
 
 #### Art. 39
 
