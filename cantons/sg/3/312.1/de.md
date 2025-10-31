@@ -4,13 +4,12 @@ number: "312.1"
 title: Verordnung über die Ausübung von Berufen der Gesundheitspflege
 short: VBG
 language: de
-version: 2025-01-01
-valid_until: 2025-10-31
-version_adopted: 2024-11-19
+version: 2025-11-01
+version_adopted: 2025-09-23
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3692/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3807/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3692/pdf_file"
 
 (VBG)
 
-vom 21.06.2011 (Stand 01.01.2025)
+vom 21.06.2011 (Stand 01.11.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -142,6 +141,24 @@ als Verordnung:[^ingress-2]
 - c) der Abschluss der Ausbildung zur selbständigen Ausübung eines Berufs der Gesundheitspflege befähigt.
 
 <sup>2</sup> Vorbehalten bleiben besondere Bestimmungen, die eine Bewilligungspflicht festlegen.
+
+#### Art. 7b
+
+**Überbrückungsbewilligung**
+
+<sup>1</sup> Wer über einen ausländischen Bildungsabschluss oder Weiterbildungstitel für einen Beruf der Gesundheitspflege verfügt, kann eine Überbrückungsbewilligung zum Ausüben des Berufs unter fachlicher Aufsicht erhalten.
+
+<sup>2</sup> Die Überbrückungsbewilligung wird für höchstens zwei Jahre erteilt. Eine Verlängerung ist ausgeschlossen.
+
+<sup>3</sup> Die Erteilung der Überbrückungsbewilligung setzt voraus, dass die Gesuchstellerin oder der Gesuchsteller:
+
+- a) bei der zuständigen schweizerischen Stelle[^7b-1] ein Gesuch um Anerkennung des ausländischen Bildungsabschlusses oder Weiterbildungstitels eingereicht hat und dieses nicht offensichtlich aussichtslos ist;
+- b) vertrauenswürdig ist;
+- c) physisch und psychisch Gewähr für eine einwandfreie Berufsausübung unter Aufsicht bietet;
+- d) genügende Kenntnisse der deutschen Sprache hat;
+- e) von einer Person fachlich beaufsichtigt wird, die eine Berufsausübungsbewilligung für den entsprechenden Beruf hat.
+
+[^7b-1]: Schweizerisches Rotes Kreuz (vgl. [Art. 2](https://db.clex.ch/link/Bund/811.214/de) Abs. 1 der eidgenössischen Gesundheitsberufeanerkennungsverordnung vom 13. Dezember 2019, SR [811.214](https://db.clex.ch/link/Bund/811.214/de)) und Psychologieberufekommission (vgl. [Art. 3](https://db.clex.ch/link/Bund/935.81/de) Abs. 3 des Bundesgesetzes über die Psychologieberufe vom 18. März 2011, SR [935.81](https://db.clex.ch/link/Bund/935.81/de)).
 
 #### Art. 8
 
