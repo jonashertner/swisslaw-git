@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2007 concernente l'utilizzazione dell'imposta s
 short: OUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: it
-version: 2025-08-01
+version: 2025-11-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2007-797-20250801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2007-797-20251101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/it"
 
 (OUMin)[^t-1]
 
-del 7 novembre 2007 (Stato 1° agosto 2025)
+del 7 novembre 2007 (Stato 1° novembre 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -426,25 +426,26 @@ La partecipazione della Confederazione a un programma d’agglomerato non supera
 
 **Convenzione sulle prestazioni**
 
-<sup>1</sup> D’intesa con l’Amministrazione federale delle finanze, il DATEC conclude una convenzione sulle prestazioni con l’ente responsabile, in base ai programmi d’agglomerato e al decreto finanziario dell’Assemblea federale.
+<sup>1</sup> Il DATEC conclude una convenzione sulle prestazioni con l’ente responsabile, in base ai programmi d’agglomerato e al decreto finanziario dell’Assemblea federale.[^24-1]
 
 <sup>2</sup> Nella convenzione sulle prestazioni vanno disciplinati in particolare: i provvedimenti e i pacchetti di provvedimenti da realizzare, lo scadenzario, il contributo federale, le esigenze per l’allestimento dei rapporti, le competenze e le responsabilità, le modalità d’adeguamento, le composizioni in caso di mancato adempimento della convenzione, come anche la durata di validità.
 
-<sup>3</sup> ...[^24-1]
+<sup>3</sup> ...[^24-2]
 
-<sup>4</sup> In base alla convenzione sulle prestazioni, l’Ufficio federale competente stabilisce con l’ente responsabile, nell’accordo sul finanziamento, le modalità di pagamento dei provvedimenti pronti per essere realizzati. Può convenire con l’ente responsabile che quest’ultimo realizzi i provvedimenti e che il contributo federale sia versato in un secondo tempo (prefinanziamento da parte dell’ente responsabile). Al momento della conclusione dell’accordo sul finanziamento non è necessario che i provvedimenti con contributo federale forfetario e i provvedimenti di modesta entità siano già pronti per essere realizzati.[^24-2]
+<sup>4</sup> In base alla convenzione sulle prestazioni, l’Ufficio federale competente stabilisce con l’ente responsabile, nell’accordo sul finanziamento, le modalità di pagamento dei provvedimenti pronti per essere realizzati. Può convenire con l’ente responsabile che quest’ultimo realizzi i provvedimenti e che il contributo federale sia versato in un secondo tempo (prefinanziamento da parte dell’ente responsabile). Al momento della conclusione dell’accordo sul finanziamento non è necessario che i provvedimenti con contributo federale forfetario e i provvedimenti di modesta entità siano già pronti per essere realizzati.[^24-3]
 
-<sup>4bis</sup> L’ultimo versamento dei contributi federali per pacchetti di provvedimenti di modesta entità deve essere richiesto entro il 30 novembre del nono anno dopo l’approvazione del relativo decreto federale concernente il programma Traffico d’agglomerato.[^24-3]
+<sup>4bis</sup> L’ultimo versamento dei contributi federali per pacchetti di provvedimenti di modesta entità deve essere richiesto entro il 30 novembre del nono anno dopo l’approvazione del relativo decreto federale concernente il programma Traffico d’agglomerato.[^24-4]
 
-<sup>5</sup> Se a ricevere il pagamento è un’impresa ai sensi della legge federale del 20 dicembre 1957[^24-4] sulle ferrovie, possono essere accordati prestiti rimborsabili condizionalmente, senza interessi.
+<sup>5</sup> Se a ricevere il pagamento è un’impresa ai sensi della legge federale del 20 dicembre 1957[^24-5] sulle ferrovie, possono essere accordati prestiti rimborsabili condizionalmente, senza interessi.
 
-<sup>6</sup> ...[^24-5]
+<sup>6</sup> ...[^24-6]
 
-[^24-1]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-2]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
-[^24-3]: Introdotto dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
-[^24-4]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
-[^24-5]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, in vigore dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
+[^24-2]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-3]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-4]: Introdotto dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-5]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^24-6]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 24a
 
@@ -632,7 +633,7 @@ Sono abrogate le seguenti ordinanze:
 - 5\. Ordinanza del 6 novembre 1991[^34-5] sulla separazione dei modi di traffico.
 
 [^34-1]: [[RU 1965 1007](https://fedlex.data.admin.ch/eli/oc/1965/1009_1021_1007)]
-[^34-2]: [[RU 1987 725](https://fedlex.data.admin.ch/eli/oc/1987/725_725_725), [1278](https://fedlex.data.admin.ch/eli/oc/1987/1278_1278_1278); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243), [3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. a; [1999 2204](https://fedlex.data.admin.ch/eli/oc/1999/349)cifra II, [2387](https://fedlex.data.admin.ch/eli/oc/1999/364)cifra I 3]
+[^34-2]: [[RU 1987 725](https://fedlex.data.admin.ch/eli/oc/1987/725_725_725), [1278](https://fedlex.data.admin.ch/eli/oc/1987/1278_1278_1278); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243), [3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. a; [1999 2204](https://fedlex.data.admin.ch/eli/oc/1999/349)cifra II, [2387](https://fedlex.data.admin.ch/eli/oc/1999/364)cifra I n. 3]
 [^34-3]: [[RU 1990 695](https://fedlex.data.admin.ch/eli/oc/1990/695_695_695); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. b; [1997 1586](https://fedlex.data.admin.ch/eli/oc/1997/1586_1586_1586); [2004 4623](https://fedlex.data.admin.ch/eli/oc/2004/706)cifra II]
 [^34-4]: [[RU 1985 1967](https://fedlex.data.admin.ch/eli/oc/1985/1967_1967_1967); [1995 1327](https://fedlex.data.admin.ch/eli/oc/1995/1327_1327_1327); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. c]
 [^34-5]: [[RU 1991 2404](https://fedlex.data.admin.ch/eli/oc/1991/2404_2404_2404); [1996 3393](https://fedlex.data.admin.ch/eli/oc/1996/3393_3393_3393)app. n. 6 lett. d; [1997 1599](https://fedlex.data.admin.ch/eli/oc/1997/1599_1599_1599); [2004 4625](https://fedlex.data.admin.ch/eli/oc/2004/707)]

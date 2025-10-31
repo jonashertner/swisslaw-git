@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2007 concernant l'utilisation de l'impôt sur l
 short: OUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: fr
-version: 2025-08-01
+version: 2025-11-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-797-20250801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-797-20251101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/fr"
 
 (OUMin)[^t-1]
 
-du 7 novembre 2007 (État le 1<sup>er</sup> août 2025)
+du 7 novembre 2007 (État le 1<sup>er</sup> novembre 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -328,7 +328,9 @@ Les demandes de contributions destinées aux infrastructures de transport dans l
 
 **Frais imputables**
 
-<sup>1</sup> Pour le calcul des contributions fédérales, sont imputables
+<sup>1</sup>
+
+Pour le calcul des contributions fédérales, sont imputables:
 
 - a. les frais dus à la planification, à la direction des travaux et à la surveillance;
 - b. les frais d’acquisition de terrain et ceux de remembrement à imputer sur le projet;
@@ -420,25 +422,26 @@ La participation de la Confédération à un projet d’agglomération est limit
 
 **Accord sur les prestations**
 
-<sup>1</sup> S’appuyant sur les projets d’agglomération et l’arrêté financier de l’Assemblée fédérale, le DETEC conclut un accord sur les prestations avec l’organisme responsable après avoir consulté l’Administration fédérale des finances.
+<sup>1</sup> S’appuyant sur les projets d’agglomération et l’arrêté financier de l’Assemblée fédérale, le DETEC conclut un accord sur les prestations avec l’organisme responsable.[^24-1]
 
 <sup>2</sup> Les points suivants doivent notamment être réglés dans l’accord sur les prestations: mesures et ensembles de mesures à prendre, calendrier, contribution fédérale, exigences liées aux rapports, compétences et responsabilités, modalités d’adaptation, réglementation en cas de violation de l’accord et durée de validité.
 
-<sup>3</sup> …[^24-1]
+<sup>3</sup> …[^24-2]
 
-<sup>4</sup> Sur la base de l’accord sur les prestations, l’office fédéral compétent convient avec l’organisme responsable, dans la convention de financement, des modalités de paiement pour les mesures de construction prêtes à être réalisées. Il peut convenir avec l’organisme responsable que celui-ci réalise les mesures et que la contribution fédérale soit versée ultérieurement (préfinancement par l’organisme responsable). Les mesures bénéficiant d’une contribution fédérale forfaitaire et les mesures modestes ne doivent pas nécessairement être prêtes à être réalisées au moment de la conclusion de la convention de financement.[^24-2]
+<sup>4</sup> Sur la base de l’accord sur les prestations, l’office fédéral compétent convient avec l’organisme responsable, dans la convention de financement, des modalités de paiement pour les mesures de construction prêtes à être réalisées. Il peut convenir avec l’organisme responsable que celui-ci réalise les mesures et que la contribution fédérale soit versée ultérieurement (préfinancement par l’organisme responsable). Les mesures bénéficiant d’une contribution fédérale forfaitaire et les mesures modestes ne doivent pas nécessairement être prêtes à être réalisées au moment de la conclusion de la convention de financement.[^24-3]
 
-<sup>4bis</sup> Le dernier versement des contributions fédérales destinées aux paquets de mesures modestes doit être demandé au plus tard jusqu’au 30 novembre de la neuvième année suivant l’adoption de l’arrêté fédéral correspondant au programme en faveur du trafic d’agglomération.[^24-3]
+<sup>4bis</sup> Le dernier versement des contributions fédérales destinées aux paquets de mesures modestes doit être demandé au plus tard jusqu’au 30 novembre de la neuvième année suivant l’adoption de l’arrêté fédéral correspondant au programme en faveur du trafic d’agglomération.[^24-4]
 
-<sup>5</sup> Si la contribution est versée à une entreprise au sens de loi du 20 décembre 1957 sur les chemins de fer[^24-4], il est possible d’octroyer des prêts sans intérêts et remboursables sous certaines conditions.
+<sup>5</sup> Si la contribution est versée à une entreprise au sens de loi du 20 décembre 1957 sur les chemins de fer[^24-5], il est possible d’octroyer des prêts sans intérêts et remboursables sous certaines conditions.
 
-<sup>6</sup> …[^24-5]
+<sup>6</sup> …[^24-6]
 
-[^24-1]: Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
-[^24-3]: Introduit par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
-[^24-4]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
-[^24-5]: Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-1]: Nouvelle teneur selon le ch. I 4 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
+[^24-2]: Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-4]: Introduit par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-5]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^24-6]: Abrogé par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 24a
 
@@ -516,7 +519,8 @@ Les ressources disponibles pour des contributions générales dans le secteur ro
   - 2\. 30 % d’après la longueur des routes cantonales et des autres routes ouvertes aux véhicules à moteur,
 
 - b. 40 % d’après les charges routières.
-- [tab] <sup>2</sup> Le calcul de la part de chaque canton visée à l’al. 1, let. b, se fait selon le modèle de l’annexe 5.
+
+<sup>2</sup> Le calcul de la part de chaque canton visée à l’al. 1, let. b, se fait selon le modèle de l’annexe 5.
 
 #### Art. 29
 

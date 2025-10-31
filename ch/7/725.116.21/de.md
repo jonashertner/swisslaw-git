@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2007 über die Verwendung der zweckgebundenen 
 short: MinVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/797"
 language: de
-version: 2025-08-01
+version: 2025-11-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20250801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/797/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2007-797-20251101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/797/20250801/de"
 
 (MinVV)[^t-1]
 
-vom 7. November 2007 (Stand am 1. August 2025)
+vom 7. November 2007 (Stand am 1. November 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
@@ -426,25 +426,26 @@ Die Beteiligung des Bundes an einem Agglomerationsprogramm ist auf den von der B
 
 **Leistungsvereinbarung**
 
-<sup>1</sup> Das UVEK schliesst, gestützt auf die Agglomerationsprogramme und den Finanzbeschluss der Bundesversammlung, nach Anhörung der Eidgenössischen Finanzverwaltung mit der Trägerschaft eine Leistungsvereinbarung ab.
+<sup>1</sup> Das UVEK schliesst, gestützt auf die Agglomerationsprogramme und den Finanzbeschluss der Bundesversammlung, mit der Trägerschaft eine Leistungsvereinbarung ab.[^24-1]
 
 <sup>2</sup> In der Leistungsvereinbarung sind insbesondere zu regeln: umzusetzende Massnahmen und Massnahmenpakete, Zeitplan, Bundesbeitrag, Anforderungen an die Berichterstattung, Zuständigkeiten und Verantwortlichkeiten, Anpassungsmodalitäten, Regelungen bei Nichterfüllung der Vereinbarung sowie Geltungsdauer.
 
-<sup>3</sup> …[^24-1]
+<sup>3</sup> …[^24-2]
 
-<sup>4</sup> Gestützt auf die Leistungsvereinbarung vereinbart das zuständige Bundesamt mit der Trägerschaft die Auszahlungsmodalitäten für die baureifen Massnahmen in der Finanzierungsvereinbarung. Es kann mit der Trägerschaft vereinbaren, dass diese die Massnahmen realisiert und der Bundesbeitrag später ausgerichtet wird (Vorfinanzierung durch die Trägerschaft). Massnahmen mit pauschalem Bundesbeitrag und Kleinmassnahmen müssen zum Zeitpunkt des Abschlusses der Finanzierungsvereinbarung noch nicht baureif sein.[^24-2]
+<sup>4</sup> Gestützt auf die Leistungsvereinbarung vereinbart das zuständige Bundesamt mit der Trägerschaft die Auszahlungsmodalitäten für die baureifen Massnahmen in der Finanzierungsvereinbarung. Es kann mit der Trägerschaft vereinbaren, dass diese die Massnahmen realisiert und der Bundesbeitrag später ausgerichtet wird (Vorfinanzierung durch die Trägerschaft). Massnahmen mit pauschalem Bundesbeitrag und Kleinmassnahmen müssen zum Zeitpunkt des Abschlusses der Finanzierungsvereinbarung noch nicht baureif sein.[^24-3]
 
-<sup>4bis</sup> Die letzte Auszahlung der Bundesbeiträge für Pakete von Kleinmassnahmen muss spätestens am 30. November des neunten Jahres nach der Verabschiedung des entsprechenden Bundesbeschlusses zum Programm Agglomerationsverkehr beantragt werden.[^24-3]
+<sup>4bis</sup> Die letzte Auszahlung der Bundesbeiträge für Pakete von Kleinmassnahmen muss spätestens am 30. November des neunten Jahres nach der Verabschiedung des entsprechenden Bundesbeschlusses zum Programm Agglomerationsverkehr beantragt werden.[^24-4]
 
-<sup>5</sup> Geht die Zahlung an ein Unternehmen im Sinne des Eisenbahngesetzes vom 20. Dezember 1957[^24-4], so können bedingt rückzahlbare, zinslose Darlehen gewährt werden.
+<sup>5</sup> Geht die Zahlung an ein Unternehmen im Sinne des Eisenbahngesetzes vom 20. Dezember 1957[^24-5], so können bedingt rückzahlbare, zinslose Darlehen gewährt werden.
 
-<sup>6</sup> …[^24-5]
+<sup>6</sup> …[^24-6]
 
-[^24-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
-[^24-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
-[^24-3]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
-[^24-4]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
-[^24-5]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-1]: Fassung gemäss Ziff. I 4 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
+[^24-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
+[^24-3]: Fassung gemäss Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-4]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 445](https://fedlex.data.admin.ch/eli/oc/2025/445)).
+[^24-5]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^24-6]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6801](https://fedlex.data.admin.ch/eli/oc/2017/760)).
 
 #### Art. 24a
 
