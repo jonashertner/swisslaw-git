@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Juni 2025 über den Wasserbau (Wasserbauverordnung, W
 short: WBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/450"
 language: de
-version: 2025-08-01
+version: 2025-11-01
 adopted: 2025-06-25
 in_force: 2025-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/450/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2025-450-20250801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/450/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2025-450-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20250801/de"
 
 (Wasserbauverordnung, WBV)
 
-vom 25. Juni 2025 (Stand am 1. August 2025)
+vom 25. Juni 2025 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 11 des Wasserbaugesetzes vom 21. Juni 1991[^ingress-1] üb
 
 verordnet:
 
-[^ingress-1]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^ingress-1]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -321,7 +321,7 @@ Das BAFU hält die Tranchenzahlungen während der Programmdauer ganz oder teilwe
 
 <sup>4</sup> Werden die Mängel nicht behoben oder wird die Zweckentfremdung nicht unterlassen oder nicht rückgängig gemacht, so richtet sich die Rückforderung nach den Artikeln 28 und 29 des Subventionsgesetzes vom 5. Oktober 1990[^18-1] (SuG).
 
-[^18-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^18-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### 3. Abschnitt: Verfahren bei der Gewährung von Abgeltungen im Einzelfall
 
@@ -351,9 +351,11 @@ Das Gesuch enthält folgende Unterlagen:
 
 <sup>1</sup> Das BAFU legt die Höhe der Abgeltung mittels Verfügung fest.
 
-<sup>2</sup> Über Abgeltungen, die 10 Millionen Franken übersteigen, entscheidet das BAFU im Einvernehmen mit der Eidgenössischen Finanzverwaltung.
+<sup>2</sup> …[^20-1]
 
 <sup>3</sup> Es richtet die Beiträge nach Fortschritt des Projektes aus.
+
+[^20-1]: Aufgehoben durch Ziff. I 3 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 21
 
@@ -450,7 +452,7 @@ Das BAFU erlässt Vollzugshilfen namentlich über:
 
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^29-1] als Fachstelle des Bundes bezeichnet ist, vor.
 
-[^29-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^29-1]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## 5. Kapitel: Vollzug durch die Kantone
 

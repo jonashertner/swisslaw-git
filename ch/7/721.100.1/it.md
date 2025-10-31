@@ -4,11 +4,11 @@ title: Ordinanza del 25 giugno 2025 sulla sistemazione dei corsi d’acqua (OSCA
 short: OSCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/450"
 language: it
-version: 2025-08-01
+version: 2025-11-01
 adopted: 2025-06-25
 in_force: 2025-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/450/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2025-450-20250801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/450/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2025-450-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20250801/it"
 
 (OSCA)
 
-del 25 giugno 2025 (Stato 1° agosto 2025)
+del 25 giugno 2025 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 11 della legge federale del 21 giugno 1991[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^ingress-1]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -321,7 +321,7 @@ L’UFAM sospende totalmente o in parte i pagamenti rateali nel corso del progra
 
 <sup>4</sup> Se le lacune non vengono colmate o la sottrazione allo scopo non cessa o non è annullata, la restituzione è disciplinata dagli articoli 28 e 29 della legge del 5 ottobre 1990[^18-1] sui sussidi (LSu).
 
-[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Sezione 3: Procedura per la concessione di indennità nel singolo caso
 
@@ -351,9 +351,11 @@ La domanda contiene i seguenti documenti:
 
 <sup>1</sup> L’UFAM fissa l’ammontare dell’indennità mediante decisione.
 
-<sup>2</sup> D’intesa con l’Amministrazione federale delle finanze (AFF), decide la concessione di indennità superiori a dieci milioni di franchi.
+<sup>2</sup> ...[^20-1]
 
 <sup>3</sup> Paga i contributi a seconda dello stato di avanzamento del progetto.
+
+[^20-1]: Abrogato dalla cifra I n. 3 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 21
 
@@ -450,7 +452,7 @@ L’UFAM elabora aiuti all’esecuzione segnatamente in materia di:
 
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^29-1] sulla geoinformazione (OGI).
 
-[^29-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^29-1]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## Capitolo 5: Esecuzione da parte dei Cantoni
 

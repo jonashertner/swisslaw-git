@@ -4,11 +4,11 @@ title: Ordonnance du 25 juin 2025 sur l’aménagement des cours d’eau (OACE)
 short: OACE
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/450"
 language: fr
-version: 2025-08-01
+version: 2025-11-01
 adopted: 2025-06-25
 in_force: 2025-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/450/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2025-450-20250801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/450/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-450-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/450/20250801/fr"
 
 (OACE)
 
-du 25 juin 2025 (État le 1<sup>er</sup> août 2025)
+du 25 juin 2025 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 11 de la loi du 21 juin 1991 sur l’aménagement des cours d’eau 
 
 arrête:
 
-[^ingress-1]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^ingress-1]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 
 ## Chapitre 1 Dispositions générales
 
@@ -321,7 +321,7 @@ L’OFEV retient tout ou partie des paiements échelonnés pendant la durée du 
 
 <sup>4</sup> Si le canton n’exécute pas correctement la prestation malgré l’injonction de l’OFEV ou s’il ne renonce pas à la désaffectation ou ne l’annule pas, la restitution est régie par les art. 28 et 29 de la loi du 5 octobre 1990 sur les subventions (LSu)[^18-1].
 
-[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 3 Procédure pour l’allocation d’indemnités
 
@@ -351,9 +351,11 @@ Les demandes contiennent les documents suivants:
 
 <sup>1</sup> L’OFEV fixe le montant des indemnités par voie de décision.
 
-<sup>2</sup> Il décide de l’allocation des indemnités supérieures à 10 millions de francs en accord avec l’Administration fédérale des finances.
+<sup>2</sup> …[^20-1]
 
 <sup>3</sup> Il verse les contributions en fonction de l’avancement du projet.
+
+[^20-1]: Abrogé par le ch. I 3 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 21
 
@@ -450,7 +452,7 @@ L’OFEV met à disposition des aides à l’exécution relatives en particulier
 
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^29-1].
 
-[^29-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^29-1]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ## Chapitre 5 Exécution par les cantons
 
