@@ -4,13 +4,13 @@ number: "152.110"
 title: Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates
 short: AB
 language: de
-version: 2025-02-01
-valid_until: 2025-10-31
-version_adopted: 2023-02-08
+version: 2025-11-01
+valid_until: 2025-12-17
+version_adopted: 2025-03-26
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5897/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6676/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates: Ausführungsbestimmungen | Grosser Rat / Om
 
 (AB)
 
-Vom 29. Juni 2006 (Stand 1. Februar 2025)
+Vom 29. Juni 2006 (Stand 1. November 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -152,6 +152,24 @@ Für jede halbtägige Sitzung im Plenum:
 - c) übrige Ratsmitglieder — CHF 200.
 
 <sup>5</sup> Die genannten Ansätze sind die netto ausbezahlten Beträge.
+
+#### § 11a
+
+**Zuständigkeiten berufliche Vorsorge**
+
+<sup>1</sup> Das Ratsbüro des Grossen Rates erteilt der Vorsorgeeinrichtung die Auskünfte über die versicherungspflichtigen Mitglieder des Grossen Rates, die nötig sind für die Durchführung derer Vorsorge, insbesondere für die Führung der Alterskonten und die Berechnung der Beiträge.
+
+<sup>2</sup> Das Ratsbüro legt auf Beginn einer neuen Legislatur den Zeitaufwand für das parlamentarische Mandat fest.
+
+#### § 11b
+
+**Vorsorgebeitrag**
+
+<sup>1</sup> Das Ratsbüro entscheidet über die Auszahlung eines Vorsorgebeitrags gemäss § 9b GO auf begründetes Gesuch hin.
+
+<sup>2</sup> Die Mitglieder des Grossen Rates informieren das Ratsbüro über Aufnahme oder Beendigung einer selbstständigen Erwerbstätigkeit während der Legislatur.
+
+<sup>3</sup> Der Vorsorgebeitrag wird am Ende jedes Amtsjahres ausbezahlt.
 
 #### § 12
 
