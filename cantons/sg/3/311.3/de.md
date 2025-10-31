@@ -4,13 +4,12 @@ number: "311.3"
 title: Gebührentarif für das Gesundheitsrecht
 short: GebTG
 language: de
-version: 2024-12-01
-valid_until: 2025-10-31
-version_adopted: 2024-11-19
+version: 2025-11-01
+version_adopted: 2025-09-23
 adopted: 1993-05-25
 in_force: 1993-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/311.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3717/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3809/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +17,7 @@ text: pdf
 
 # Gebührentarif für das Gesundheitsrecht
 
-vom 25. Mai 1993 (Stand 1. Dezember 2024)[^t-1]
+vom 25. Mai 1993 (Stand 1. November 2025)[^t-1]
 
 Landammann und Regierungsrat des Kantons St.Gallen erlässt in Anwendung von Art. 100 des Gesetzes über die Verwaltungsrechtspflege vom 16. Mai 1965[^t-2], in Ausführung von Art. 3 der Verwaltungsgebührenverordnung vom 27. April 1971[^t-3] als Gebührentarif:[^t-4]
 
@@ -29,7 +28,7 @@ Ziff.
 [^t-1]: Geändert durch V. Nachtrag
 [^t-2]: sGS 951.1.
 [^t-3]: sGS 821.1.
-[^t-4]: nGS 28–45. In Vollzug ab 1. Juli 1993. Geändert durch Nachtrag vom 7. März 1995, nGS 30–37; Art. 5 der V über die Lebensmittelkontrolle vom 29. Mai 1996, nGS 31–80 (sGS 315.11); II. Nachtrag vom 3. Juni 1997, nGS 32–55; Abschnitt II des III. Nachtrags zur Verordnung über die Ausübung von Berufen der Gesundheitspflege vom 30. August 2005, nGS 40–70 (sGS 312.1); Art. 42 der Heilmittelverordnung vom 21. Juni 2011, nGS 46–93 (sGS 314.3); Art. 28 der V über die Ausübung der medizinischen Berufe vom 21. Juni 2011, nGS 46–90 (sGS 312.0); Art. 62 der V über die Ausübung von Berufen der Gesundheitspflege vom 21. Juni 2011, nGS 46–91 (sGS 312.1); Art. 33 der V über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21. Juni 2011, nGS 46–95 (sGS 325.11); III. Nachtrag vom 18. Januar 2022, nGS 2022-006; IV. Nachtrag vom 20. Dezember 2022, nGS 2022-079; V. Nachtrag vom 19. November 2024, nGS 2024-049.
+[^t-4]: nGS 28–45. In Vollzug ab 1. Juli 1993. Geändert durch Nachtrag vom 7. März 1995, nGS 30–37; Art. 5 der V über die Lebensmittelkontrolle vom 29. Mai 1996, nGS 31–80 (sGS 315.11); II. Nachtrag vom 3. Juni 1997, nGS 32–55; Abschnitt II des III. Nachtrags zur Verordnung über die Ausübung von Berufen der Gesundheitspflege vom 30. August 2005, nGS 40–70 (sGS 312.1); Art. 42 der Heilmittelverordnung vom 21. Juni 2011, nGS 46–93 (sGS 314.3); Art. 28 der V über die Ausübung der medizinischen Berufe vom 21. Juni 2011, nGS 46–90 (sGS 312.0); Art. 62 der V über die Ausübung von Berufen der Gesundheitspflege vom 21. Juni 2011, nGS 46–91 (sGS 312.1); Art. 33 der V über den Betrieb privater Einrichtungen der Gesundheitspflege vom 21. Juni 2011, nGS 46–95 (sGS 325.11); III. Nachtrag vom 18. Januar 2022, nGS 2022-006; IV. Nachtrag vom 20. Dezember 2022, nGS 2022-079; V. Nachtrag vom 19. November 2024, nGS 2024-049; VI. Nachtrag vom 23. September 2025, nGS 2025-040.
 [^t-5]: sGS 311.1.
 
 ### 0 Gesundheitsgesetz vom 28. Juni 1979
@@ -42,11 +41,15 @@ Ziff.
 
 nGS 28–45
 
-022[^h0Gesundheitsgesetz-5] Bewilligung für Psychotherapeutinnen und Psychotherapeuten sowie Psychologinnen und Psychologen … 300.– bis 800.– 022.0[^h0Gesundheitsgesetz-6] Assistenzbewilligung für Psychotherapeutinnen und Psychotherapeuten … 200.– bis 500.– 022.1 und 022.2[^h0Gesundheitsgesetz-7]
+022[^h0Gesundheitsgesetz-5] Bewilligung für Psychotherapeutinnen und Psychotherapeuten sowie Psychologinnen und Psychologen … 300.– bis 800.– 022.0[^h0Gesundheitsgesetz-6] Assistenzbewilligung für Psychotherapeutinnen und Psychotherapeuten … 200.– bis 500.– 022.1 und 022.2[^h0Gesundheitsgesetz-7] 023.1[^h0Gesundheitsgesetz-8] Überbrückungsbewilligung für einen medizinischen Beruf … 500.– bis 1000.– Die Gebühr nach dieser Ziffer wird an die Gebühr nach Ziff. 00 dieses Erlasses angerechnet, wenn die Bewilligung zur Ausübung eines medizinischen Berufs nahtlos an die Überbrückungsbewilligung anschliesst.
 
-03[^h0Gesundheitsgesetz-8] Bewilligung zum Betrieb einer privaten Einrichtung der Gesundheitspflege (Art. 51) … 500.– bis 5000.–
+023.2[^h0Gesundheitsgesetz-9] Überbrückungsbewilligung für einen Beruf der Gesundheitspflege … 300.– bis 800.– Die Gebühr nach dieser Ziffer wird an die Gebühr nach Ziff. 02 dieses Erlasses angerechnet, wenn die Bewilligung zur Ausübung eines Berufs der Gesundheitspflege nahtlos an die Überbrückungsbewilligung anschliesst.
 
-04[^h0Gesundheitsgesetz-9] Berufsausübungsbewilligung im vereinfachten Verfahren (Listengesuche) … 200.– bis 300.–
+023.3[^h0Gesundheitsgesetz-10] Überbrückungsbewilligung für den Beruf der Psychotherapeutin oder des Psychotherapeuten … 300.– bis 800.– Die Gebühr nach dieser Ziffer wird an die Gebühr nach Ziff. 022 dieses Erlasses angerechnet, wenn die Bewilligung zur Ausübung des Berufs der Psychotherapeutin oder des Psychotherapeuten nahtlos an die Überbrückungsbewilligung anschliesst.
+
+03[^h0Gesundheitsgesetz-11] Bewilligung zum Betrieb einer privaten Einrichtung der Gesundheitspflege (Art. 51) … 500.– bis 5000.–
+
+04[^h0Gesundheitsgesetz-12] Berufsausübungsbewilligung im vereinfachten Verfahren (Listengesuche) … 200.– bis 300.–
 
 [^h0Gesundheitsgesetz-1]: Geändert durch VMB.
 [^h0Gesundheitsgesetz-2]: Aufgehoben durch VMB.
@@ -55,13 +58,16 @@ nGS 28–45
 [^h0Gesundheitsgesetz-5]: Geändert durch IV. Nachtrag.
 [^h0Gesundheitsgesetz-6]: Geändert durch IV. Nachtrag.
 [^h0Gesundheitsgesetz-7]: Aufgehoben durch VBG.
-[^h0Gesundheitsgesetz-8]: Geändert durch VEG.
-[^h0Gesundheitsgesetz-9]: Eingefügt durch V. Nachtrag.
-[^h0Gesundheitsgesetz-10]: Geändert durch VMB.
+[^h0Gesundheitsgesetz-8]: Eingefügt durch VI. Nachtrag.
+[^h0Gesundheitsgesetz-9]: Eingefügt durch VI. Nachtrag.
+[^h0Gesundheitsgesetz-10]: Eingefügt durch VI. Nachtrag.
+[^h0Gesundheitsgesetz-11]: Geändert durch VEG.
+[^h0Gesundheitsgesetz-12]: Eingefügt durch V. Nachtrag.
+[^h0Gesundheitsgesetz-13]: Geändert durch VMB.
 
 ### 1 Verordnung über die Ausübung der
 
-[^h0Gesundheitsgesetz-10]
+[^h0Gesundheitsgesetz-13]
 
 medizinischen Berufe vom 21. Juni 2011[^h1h0Gesundheitsgese-1] 11 bis 15[^h1h0Gesundheitsgese-2]
 
@@ -80,11 +86,11 @@ medizinischen Berufe vom 21. Juni 2011[^h1h0Gesundheitsgese-1] 11 bis 15[^h1h0Ge
 [^h1h0Gesundheitsgese-5]: Geändert durch IV. Nachtrag.
 [^h1h0Gesundheitsgese-6]: Aufgehoben durch VBG.
 
-### 2 2<sup>bis</sup> <sup>22</sup> Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Kranken-
+### 2 2<sup>bis</sup> <sup>25</sup> Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Kranken-
 
 [^h1h0Gesundheitsgese-6]
 
-versicherung vom 12. Dezember 1995[^h2h1h0Gesundheitsge-1] 21<sup>bis</sup> <sup>24</sup> Zulassung als Leistungserbringer zulasten der obligatorischen Krankenpflegeversicherung (Art. 36 des Bundesgesetzes über die Krankenversicherung) 100.– bis 2000.–
+versicherung vom 12. Dezember 1995[^h2h1h0Gesundheitsge-1] 21<sup>bis</sup> <sup>27</sup> Zulassung als Leistungserbringer zulasten der obligatorischen Krankenpflegeversicherung (Art. 36 des Bundesgesetzes über die Krankenversicherung) 100.– bis 2000.–
 
 [^h2h1h0Gesundheitsge-1]: sGS 331.111.
 [^h2h1h0Gesundheitsge-2]: sGS 313.1.
@@ -125,8 +131,6 @@ versicherung vom 12. Dezember 1995[^h2h1h0Gesundheitsge-1] 21<sup>bis</sup> <sup
 
 58[^h5h4h3Vollzugsveror-8] Bewilligung zum Versandhandel mit Arzneimitteln (Art. 27 des Bundesgesetzes über Arzneimittel und Medizinprodukte [Heilmittelgesetz] vom 15. Dezember 2000[^h5h4h3Vollzugsveror-9] … 500.– bis 2500.– 59[^h5h4h3Vollzugsveror-10] übrige Inspektionen einschliesslich Protokoll und Korrespondenz, je Inspektorin oder Inspektor und Stunde …
 
-**150.–**
-
 [^h5h4h3Vollzugsveror-1]: Geändert durch Heilmittelverordnung.
 [^h5h4h3Vollzugsveror-2]: Geändert durch Heilmittelverordnung.
 [^h5h4h3Vollzugsveror-3]: Geändert durch Heilmittelverordnung.
@@ -164,11 +168,13 @@ zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege vom 1
 
 Der Gebührentarif für die Gesundheitspolizei vom 25. Januar 1983[^hSchlussbestimmungen-1] wird aufgehoben.
 
+**150.–**
+
 Dieser Tarif wird ab 1. Juli 1993 angewendet.
 
 [^hSchlussbestimmungen-1]: nGS 18–14 (sGS 311.3).
 
 ## Weitere Fussnoten
 
-- [22] Eingefügt durch III. Nachtrag.
-- [24] Eingefügt durch III. Nachtrag.
+- [25] Eingefügt durch III. Nachtrag.
+- [27] Eingefügt durch III. Nachtrag.
