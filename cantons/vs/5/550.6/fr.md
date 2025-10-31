@@ -4,64 +4,68 @@ number: "550.6"
 title: Loi sur les violences domestiques
 short: LVD
 language: fr
-version: 2017-01-01
-corrected: 2017-09-13
-version_adopted: 2015-12-18
+version: 2025-11-01
+valid_until: 2026-04-30
+version_adopted: 2024-11-14
 adopted: 2015-12-18
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.6"
-pdf: "https://lex.vs.ch/api/fr/versions/379/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3526/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur les violences domestiques (LVD)
+# Loi sur les violences domestiques
 
-du 18 décembre 2015
+(LVD)
+
+du 18.12.2015 (état 01.11.2025)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 13bis, 31 alinéa 1 chiffre 1 et 42 alinéa 1 de la Constitution cantonale;
+vu les articles 13a, 31 alinéa 1 lettre a et 42 alinéa 1 de la Constitution cantonale;
+
+vu la Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique du 11 mai 2011 (Convention d'Istanbul);
 
 sur la proposition du Conseil d'Etat,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **But**
 
-<sup>1</sup> La présente loi a pour but de renforcer et de coordonner les mesures visant à prévenir et à lutter contre les violences domestiques.
+<sup>1</sup> La présente loi a pour but de renforcer et de coordonner les mesures visant à prévenir et à lutter contre les violences domestiques en adoptant une approche intégrée.
 
-<sup>2</sup> Elle vise à protéger les personnes qui en sont les victimes et à soutenir les mesures destinées à l'accompagnement des auteurs.
+<sup>2</sup> Elle vise à protéger les personnes qui subissent des violences domestiques et à soutenir les mesures destinées à l’accompagnement des personnes qui les exercent.
+
+<sup>3</sup> L’approche intégrée consiste à venir en aide à toutes les personnes concernées, à créer une coordination effective entre toutes les institutions concernées par la problématique des violences domestiques et à optimiser leur collaboration et leurs interventions.
+
+<sup>4</sup> L’Etat prend les mesures nécessaires pour adopter et mettre en œuvre des politiques effectives, globales et coordonnées, incluant toutes les mesures pertinentes pour prévenir et combattre toutes les formes de violence couvertes par la présente loi.
 
 #### Art. 2
 
 **Définitions**
 
-On entend par:
+<sup>1</sup> On entend par:
 
-- a) violences domestiques: toutes atteintes ou menaces d'atteintes à l'intégrité corporelle, sexuelle, psychique ou économique à l'encontre d'une personne entrainant un préjudice réel ou potentiel pour sa santé, sa survie, son développement ou sa dignité, exercées par une autre personne à laquelle elle est liée par un rapport familial, conjugal, de partenariat enregistré ou d'union libre, durant la vie commune ou dans l'année qui suit le divorce, la dissolution judiciaire ou la séparation;
+- a) violences domestiques: tous les actes de violence physique, sexuelle, psychologique ou économique, y compris les actes de harcèlement, qui surviennent au sein de la famille ou du foyer ou entre des anciens ou actuels conjoints ou partenaires, indépendamment d'un domicile commun actuel ou antérieur;
+- b) personnes concernées par les violences domestiques: les personnes qui subissent des violences domestiques, y compris les enfants exposés, celles qui les exercent, ainsi que les proches des uns et des autres.
 
-- b) personnes concernées par les violences domestiques: les victimes et les auteurs de violences domestiques ainsi que les enfants et les proches vivant dans le cercle domestique.
-
-### Section 2: Organisation et autorités
+## 2 Organisation et autorités
 
 #### Art. 3
 
 **Conseil d'Etat**
 
-Le Conseil d'Etat:
+<sup>1</sup> Le Conseil d'Etat:
 
 - a) détermine les lignes directrices en matière de lutte contre les violences domestiques;
-
 - b) octroie des aides financières dans le cade de ses compétences financières ordinaires;
-
 - c) édicte les dispositions d'exécution.
 
 #### Art. 4
@@ -73,34 +77,28 @@ Le Conseil d'Etat:
 <sup>2</sup> Il a pour tâche:
 
 - a) de coordonner et de mettre en oeuvre des actions de lutte contre les violences domestiques;
-
 - b) d'octroyer des aides financières dans le cadre de ses compétences financières ordinaires.
 
 #### Art. 5
 
 **Office cantonal de l'égalité et de la famille**
 
-<sup>1</sup> L'Office cantonal de l'égalité et de la famille (ci-après: Office) est l'organe de coordination au sens de la présente loi et a notamment pour tâches:
+<sup>1</sup> L'Office cantonal de l'égalité et de la famille (ci-après: Office) est l'organe de coordination au sens de la présente loi et de la Convention d’Istanbul et a notamment pour tâches:
 
-- a) d'exécuter les tâches en matière de lutte contre les violences domestiques confiées par le Conseil d'Etat et le Département;
-
+- a) d'exécuter les tâches en matière de lutte contre les violences domestiques confiées par le Conseil d'Etat et le Département et de mettre en place au niveau du canton les recommandations nationales;
 - b) d'encourager le travail en réseau et de coordonner la collaboration efficace entre les différentes autorités et institutions publiques ou privées luttant contre les violences domestiques;
-
 - c) de participer aux projets législatifs et aux décisions importantes en matière de lutte contre les violences domestiques;
-
 - d) d'initier des programmes de prévention et de sensibilisation;
-
 - e) d'octroyer des aides financières dans le cadre de ses compétences financières ordinaires;
-
 - f) de se tenir à disposition des professionnels pour leur fournir aide et information et les orienter vers les organismes spécialisés.
 
 <sup>2</sup> Le Conseil d'Etat précise par voie d'ordonnance ses tâches et compétences.
 
 #### Art. 6
 
-Commission cantonale consultative contre les violences domestiques
+**Commission cantonale consultative de lutte contre les violences domestiques**
 
-<sup>1</sup> Le Conseil d'Etat nomme une commission cantonale consultative contre les violences domestiques (ci-après: Commission) composée de 9 à 15 membres représentant les milieux professionnels concernés par la thématique.
+<sup>1</sup> Le Conseil d'Etat nomme une commission cantonale consultative de lutte contre les violences domestiques (ci-après: Commission) composée de personnes représentant les milieux concernés par la thématique.
 
 <sup>2</sup> La Commission a pour tâche d'apporter un soutien à l'Office, notamment en préavisant des projets et en élaborant des recommandations.
 
@@ -108,11 +106,11 @@ Commission cantonale consultative contre les violences domestiques
 
 #### Art. 7
 
-**Groupes régionaux contre les violences domestiques**
+**Groupes régionaux de lutte contre les violences domestiques**
 
-<sup>1</sup> Le Conseil d'Etat nomme, sur proposition de la Commission, les membres de trois Groupes régionaux contre les violences domestiques (ci-après: Groupes régionaux) composés de professionnels du terrain travaillant avec les personnes concernées par les violences domestiques. Il peut déléguer sa compétence à l'Office.
+<sup>1</sup> Le Conseil d'Etat nomme les membres de trois Groupes régionaux de lutte contre les violences domestiques (ci-après: Groupes régionaux) composés de professionnels du terrain travaillant avec les personnes concernées par les violences domestiques. Il peut déléguer sa compétence à l'Office.
 
-<sup>2</sup> Ils ont notamment pour tâche de développer des stratégies d'intervention coordonnées et d'apporter un soutien pluridisciplinaire aux professionnels.
+<sup>2</sup> Les Groupes régionaux ont notamment pour tâche de développer des stratégies d'intervention coordonnées et d'apporter un soutien pluridisciplinaire aux professionnels.
 
 <sup>3</sup> Le Conseil d'Etat précise par voie d'ordonnance la composition, les attributions et le fonctionnement des Groupes régionaux.
 
@@ -124,31 +122,37 @@ Commission cantonale consultative contre les violences domestiques
 
 <sup>2</sup> Elles sont représentées au sein des Groupes régionaux.
 
-### Section 3: Collaboration entre autorités
+## 3 Collaboration entre autorités
 
 #### Art. 9
 
-**Evaluation des risques et gestion coordonnée des menaces**
+**Echange d’informations et détection précoce des risques**
 
-<sup>1</sup> Le Département veille à ce qu'une évaluation des risques et une gestion coordonnée des menaces soient assurées.
+<sup>1</sup> Les collaborateurs des services de l'Etat et des partenaires listés ci-après qui, dans l'exercice de leurs fonctions, sont amenés à traiter de situations de violences domestiques peuvent échanger des informations, y compris les données personnelles et sensibles, pour l’appréciation de la situation, la détection précoce d’actes de violence et une prise en charge coordonnée des personnes concernées par les violences domestiques. Les partenaires sont:
 
-<sup>2</sup> Toute personne qui, dans l'exercice de sa fonction officielle, constate un risque important de commission d'un acte de violence domestique mettant en danger une personne, doit le signaler à l'autorité de protection de l'enfant et de l'adulte (ci-après: APEA) compétente, qui en informe sans délai l'Office. Ces personnes sont déliées du secret de fonction.
+- a) les communes, les autres corporations de droit public ainsi que les établissements de droit public;
+- b) les autorités judiciaires et administratives pénales et civiles;
+- c) les institutions privées, lorsqu’elles accomplissent des tâches de droit public;
+- d) les professionnels de la santé et les partenaires préhospitaliers.
 
-<sup>3</sup> Toute personne qui, dans l'exercice de sa profession, constate un tel risque, peut le signaler à l'APEA compétente, qui en informe sans délai l'Office. Ces personnes sont déliées du secret professionnel.
+<sup>2</sup> Les employés au sens de la loi sur le personnel de l’Etat du Valais (LcPers) et les membres des autorités sont déliés de leur secret de fonction.
 
-<sup>4</sup> En présence d'un risque important de commission d'un acte de violence domestique mettant en danger une personne, l'Office peut, d'entente avec l'APEA compétente:
+<sup>3</sup> Les données personnelles et sensibles sont traitées conformément à la législation fédérale et cantonale en matière de protection des données.
 
-- a) demander à l'APEA compétente et aux services concernés toute information utile à la gestion coordonnée du cas;
+<sup>3<sup>bis</sup></sup> Les professionnels de la santé sont déliés de leur secret professionnel aux conditions fixées par la loi sur la santé (LS).
 
-- b) convoquer une discussion de cas en invitant l'APEA compétente, les services et les professionnels concernés par le dit cas afin d'évaluer les risques et de s'assurer que des mesures coordonnées soient prises.
+<sup>4</sup> Les dispositions de la loi fédérale sur l'aide aux victimes d'infraction et de la loi cantonale sur la police sont réservées.
 
-<sup>5</sup> Les personnes amenées à participer à la discussion d'un cas sont déliées du secret de fonction ou du secret professionnel afin de communiquer les informations nécessaires à l'évaluation des risques.
+- a) …
+- b) …
 
-<sup>6</sup> Les données personnelles et sensibles recueillies pour l'évaluation des risques et la gestion coordonnée du cas sont traitées par l'Office conformément à la législation fédérale et cantonale en matière de protection des données.
+<sup>5</sup> Dans les cas où une évaluation approfondie des risques est nécessaire, les services de l’Etat et les partenaires concernés par la situation peuvent solliciter l’unité de la Police cantonale en charge de la gestion des menaces.
 
-<sup>7</sup> Les dispositions de la loi fédérale sur l'aide aux victimes d'infraction sont réservées.
+<sup>6</sup> Les Départements en charge des violences domestiques et de la gestion des menaces veillent à la formation des autorités et des services spécialisés à la détection précoce et à une compréhension commune de la gestion des menaces.
 
-<sup>8</sup> Le Conseil d'Etat précise par voie d'ordonnance la procédure applicable.
+<sup>7</sup> Le Conseil d’Etat précise par voie d’ordonnance les modalités d’application.
+
+<sup>8</sup> …
 
 #### Art. 10
 
@@ -162,15 +166,21 @@ Commission cantonale consultative contre les violences domestiques
 
 **Polices municipales et cantonale**
 
-<sup>1</sup> Lorsque les polices municipales interviennent dans des situations de violences domestiques poursuivies d'office, elles avisent immédiatement la Police cantonale.
+<sup>1</sup> Lorsque les polices municipales interviennent dans des situations de violences domestiques, elles avisent dans tous les cas la Police cantonale. Un signalement est effectué à l’autorité de protection de l'enfant et de l'adulte (APEA) compétente.
 
 <sup>2</sup> Lors d'interventions poursuivies sur plainte, elles transmettent une copie du rapport d'intervention à la Police cantonale.
 
-### Section 4: Mesures
+#### Art. 11a
+
+**Échange d’informations entre les autorités judiciaires et administratives pénales et civiles**
+
+<sup>1</sup> Les autorités judiciaires et administratives pénales et civiles échangent sur demande les informations nécessaires pour assurer la protection des personnes subissant de la violence, le bon déroulement de l’enquête et pour réduire le risque de récidive.
+
+## 4 Mesures
 
 #### Art. 12
 
-Soutien à des projets et à des organismes luttant contre les violences domestiques
+**Soutien à des projets et à des organismes luttant contre les violences domestiques**
 
 <sup>1</sup> L'Etat soutient les projets et organismes luttant contre les violences domestiques.
 
@@ -184,127 +194,123 @@ Soutien à des projets et à des organismes luttant contre les violences domesti
 
 **Information et prévention**
 
-L'Office mène des campagnes d'information et de prévention relatives aux violences domestiques auprès de la population et des professionnels en contact avec les personnes concernées par les violences domestiques.
+<sup>1</sup> L'Office mène des campagnes d'information et de prévention relatives aux violences domestiques auprès de la population et des professionnels en contact avec les personnes concernées par les violences domestiques.
 
 #### Art. 14
 
 **Formation**
 
-L'Office soutient la formation et le perfectionnement des professionnels en contact avec les personnes concernées par les violences domestiques.
+<sup>1</sup> L’Office soutient la formation et le perfectionnement dans les milieux professionnels en contact avec les personnes concernées par les violences domestiques.
+
+<sup>2</sup> Les questions de lutte contre les violences domestiques sont intégrées aux formations des milieux concernés dont le canton a la responsabilité ou qui concernent son personnel.
+
+<sup>3</sup> Le Conseil d’Etat précise par voie d’ordonnance les milieux professionnels concernés.
 
 #### Art. 15
 
-**Accompagnement des victimes**
+**Accompagnement des personnes qui subissent des violences**
 
-<sup>1</sup> Les départements en charge des violences domestiques, de l'action sociale et de la jeunesse veillent à ce que l'offre disponible en matière de structures d'accueil d'urgence et d'accompagnement des victimes et de leurs enfants réponde aux besoins.
+<sup>1</sup> Les Départements en charge des violences domestiques, de l'action sociale et de la jeunesse veillent à ce que l'offre disponible en matière de structures d'accueil d'urgence et d'accompagnement des personnes qui subissent des violences, adultes ou enfants, réponde aux besoins.
 
 <sup>2</sup> A cet effet, ils peuvent établir des mandats de prestations avec des organismes publics ou privés.
 
-<sup>3</sup> Le département en charge de la santé veille à ce qu'une prise en charge spécifique en milieu hospitalier soit assurée.
+<sup>3</sup> Le Département en charge de la santé veille à ce qu'une prise en charge spécifique en milieu hospitalier soit assurée.
 
 #### Art. 16
 
 **Protection de l'enfant**
 
-Le département en charge de la jeunesse veille à prendre les mesures nécessaires à la protection des enfants impliqués dans des situations de violences domestiques conformément aux dispositions de la loi en faveur de la jeunesse.
+<sup>1</sup> L’enfant, qu’il subisse ou soit exposé aux violences domestiques, est une victime et doit être protégé, également au-delà de la séparation de ses parents.
+
+<sup>2</sup> Un signalement est adressé à l’APEA compétente suite à toute intervention de police pour des violences domestiques incluant des enfants.
+
+<sup>3</sup> Les autorités judiciaires et administratives pénales et civiles échangent sur demande les informations nécessaires pour assurer la protection des enfants subissant des violences, le bon déroulement de l’enquête et pour réduire le risque de récidive.
 
 #### Art. 17
 
-**Expulsion de l'auteur**
+**Expulsion de la personne présumée avoir exercé des violences**
 
-<sup>1</sup> L'officier de service de la Police cantonale est l'autorité compétente au sens de l'article 28b du Code civil suisse (CC) pour ordonner l'expulsion immédiate du logement commun de l'auteur de l'atteinte.
+<sup>1</sup> L’officier de service de la Police cantonale est l'autorité compétente au sens de l'article 28b du Code civil suisse (CC) pour ordonner l'expulsion immédiate du logement commun de la personne présumée avoir exercé des violences. Il peut prononcer une interdiction de contact et de périmètre, en plus ou indépendamment d'une mesure d'expulsion.
 
-<sup>2</sup> Lorsqu'un enfant vit dans le cercle familial, la Police cantonale informe le Service cantonal de la jeunesse si l'intérêt de l'enfant l'exige.
+<sup>2</sup> La décision est prononcée sous menace des sanctions prévues à l’article 292 du Code pénal suisse (CP).
 
 <sup>3</sup> Le Conseil d'Etat précise par voie d'ordonnance la procédure applicable.
 
 #### Art. 18
 
-**Entretien socio-thérapeutique**
+**Entretiens socio-thérapeutiques obligatoires**
 
-<sup>1</sup> La personne expulsée au sens de l'article 28b CC est tenue dans un délai de trois jours ouvrables après notification de la décision d'expulsion de prendre contact et de convenir d'un entretien avec un organisme ou un professionnel habilité à recevoir les auteurs de violences domestiques.
+<sup>1</sup> La personne expulsée par la police au sens de l’article 17 de la présente loi ou sous le coup d’une mesure de protection prononcée par le tribunal civil au sens de l’article 28b CC est astreinte à trois entretiens au moins avec un organisme habilité à recevoir les personnes exerçant des violences.
 
-<sup>2</sup> Elle est tenue de se présenter à cet entretien. Cette obligation est mentionnée dans la décision d'expulsion sous menace des sanctions prévues à l'article 292 du Code pénal suisse.
+<sup>2</sup> Elle est tenue de se présenter à ces entretiens. Cette obligation est mentionnée dans la décision sous menace des sanctions prévues à l’article 292 CP.
 
-<sup>3</sup> L'entretien est destiné à aider la personne expulsée à évaluer sa situation. Elle reçoit à cette occasion des informations socio-thérapeutiques.
+<sup>3</sup> Les entretiens sont destinés à aider la personne qui exerce les violences à évaluer sa situation et à initier un travail axé sur l’arrêt de la violence. Elle reçoit à cette occasion des informations socio-thérapeutiques.
 
-<sup>4</sup> Les frais occasionnés par l'entretien socio-thérapeutique sont à la charge de l'auteur, sauf exceptions définies dans l'ordonnance. Subsidiairement, le Département peut financer la prestation.
+<sup>4</sup> En principe, le Département en charge des violences domestiques prend en charge les frais occasionnés par les trois premiers entretiens socio-thérapeutiques. Les entretiens suivants peuvent être subventionnés en fonction de la situation financière des personnes exerçant des violences. Le Conseil d'Etat règle par voie d'ordonnance les conditions du subventionnement.
 
 <sup>5</sup> Le Département peut établir des mandats de prestations avec des organismes publics ou privés.
 
-<sup>6</sup> Le Conseil d'Etat établit la liste des organismes et des professionnels habilités à recevoir des auteurs de violences domestiques et précise par voie d'ordonnance la procédure applicable.
+<sup>6</sup> Le Conseil d’Etat établit la liste des organismes et des professionnels habilités à recevoir les personnes exerçant des violences domestiques et précise par voie d’ordonnance la procédure applicable.
 
 #### Art. 19
 
-**Accompagnement des auteurs**
+**Accompagnement des personnes recourant aux violences**
 
-<sup>1</sup> Les départements en charge des violences domestiques, de la santé et de l'action sociale veillent à prendre les mesures nécessaires pour accompagner les auteurs de violences domestiques.
+<sup>1</sup> Les Départements en charge des violences domestiques, de la santé et de l'action sociale veillent à prendre les mesures nécessaires pour accompagner les personnes recourant à la violence.
 
-<sup>2</sup> Ils veillent notamment à ce que l'offre en matière d'hébergement d'urgence des personnes expulsées au sens de l'article 28b CC et de suivi thérapeutique des auteurs réponde aux besoins.
+<sup>2</sup> Ils veillent notamment à ce que l’offre en matière d’hébergement d’urgence des personnes expulsées au sens de l’article 28b CC et de suivi thérapeutique réponde aux besoins.
 
 #### Art. 20
 
 **Prise en charge des violences intrafamiliales**
 
-Afin d'assurer une prise en charge spécialisée des familles, les départements en charge des violences domestiques, de la santé et de la jeunesse veillent à ce que l'offre en matière de thérapies familiales réponde aux besoins.
+<sup>1</sup> Afin d'assurer une prise en charge spécialisée des familles, les Départements en charge des violences domestiques, de la santé et de la jeunesse veillent à ce que l'offre en matière de thérapies familiales réponde aux besoins.
 
 #### Art. 21
 
-Financement de l'accompagnement des auteurs et de la prise en charge spécialisée des familles
+**Financement de l'accompagnement des personnes recourant aux violences et de la prise en charge spécialisée des familles**
 
-<sup>1</sup> Tous les frais non couverts par la loi fédérale sur l'assurance-maladie (LAMal) découlant des mesures prévues aux articles 19 et 20 sont à la charge des bénéficiaires.
+<sup>1</sup> L’Etat soutient financièrement les mesures prévues aux articles 19 et 20 lorsqu’il s’agit de prestations non couvertes par la LAMal.
 
-<sup>2</sup> L'Etat peut soutenir ces mesures.
+<sup>2</sup> …
 
-<sup>3</sup> A cet effet, les départements en charge des violences domestiques, de la santé, de l'action sociale et de la jeunesse peuvent établir des mandats de prestations avec des organismes publics ou privés.
+<sup>3</sup> A cet effet, les Départements en charge des violences domestiques, de la santé, de l'action sociale et de la jeunesse peuvent établir des mandats de prestations avec des organismes publics ou privés.
 
-<sup>4</sup> Le Conseil d'Etat précise par voie d'ordonnance la procédure applicable.
+<sup>4</sup> Le Conseil d’Etat précise par voie d’ordonnance les modalités d’application.
 
 #### Art. 22
 
-**Registre des événements**
+**Récolte de données à but statistique**
 
-<sup>1</sup> Afin de permettre l'identification et la mise en oeuvre de mesures utiles et efficaces, l'Office tient un registre centralisé et anonyme des événements de violences domestiques. Il coordonne la récolte et le traitement des informations.
+<sup>1</sup> Afin de permettre l'identification et la mise en œuvre de mesures utiles et efficaces, l'Office organise la récolte centralisée et anonyme des données concernant les violences domestiques. Il coordonne la collecte et le traitement des informations. Les données collectées sont publiées de manière périodique.
 
-<sup>2</sup> Les institutions publiques ou privées en contact avec des personnes concernées par les violences domestiques doivent transmettre les informations nécessaires à la tenue du registre des événements.
+<sup>2</sup> Les institutions publiques ou privées en contact avec des personnes concernées par les violences domestiques doivent transmettre les informations nécessaires à la tenue des statistiques.
+
+<sup>2<sup>bis</sup></sup> Le numéro AVS peut être utilisé afin d’effectuer des analyses statistiques transversales et longitudinales qui permettent notamment d’évaluer le fonctionnement de l’ensemble du réseau de prise en charge, ce dans le respect des normes en matière de protection des données prévues par la législation cantonale et fédérale.
 
 <sup>3</sup> Le Conseil d'Etat précise par voie d'ordonnance la liste des institutions publiques ou privées concernées.
 
-### Section 5: Dispositions finales
+## 5 Dispositions finales
 
 #### Art. 23
 
 **Evaluation de la loi**
 
-Dans les cinq ans suivant l'entrée en vigueur de la présente loi, le Conseil d'Etat soumet au Grand Conseil un rapport d'évaluation sur la mise en oeuvre de la loi.
+<sup>1</sup> Dans les cinq ans suivant l'entrée en vigueur de la présente loi, le Conseil d'Etat soumet au Grand Conseil un rapport d'évaluation sur la mise en oeuvre de la loi.
 
 #### Art. 24
 
 **Dispositions d'application**
 
-Le Conseil d'Etat édicte les dispositions d'application de la présente loi.
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions d'application de la présente loi.
 
 #### Art. 25
 
 **Modification du droit en vigueur**
 
-Les lois ci-après sont modifiées comme il suit:
+<sup>1</sup> la loi concernant les dossiers de police judiciaire du 28 juin 1984 est modifiée.
 
-- 1\. Loi concernant les dossiers de police judiciaire du 28 juin 1984
-
-#### Art. 10
-
-**al. 2 let. j Destinataires**
-
-- j) au chef du service cantonal en charge de la jeunesse dans le cadre de la loi sur les violences domestiques.
-
-- 2\. Loi sur la police cantonale du 20 janvier 1953
-
-#### Art. 1a
-
-**Violence domestique**
-
-Abrogé.
+<sup>2</sup> La loi sur la police cantonale du 20 janvier 1953 est modifiée.
 
 #### Art. 26
 
@@ -314,16 +320,4 @@ Abrogé.
 
 <sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.
 
-Ainsi adopté en lecture unique (art. 101 RGC) en séance du Grand Conseil, à Sion, le 18 décembre 2015.
-
-Le président du Grand Conseil: Nicolas Voide Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi sur les violences domestiques (LVD) du BO No 4/2016; BO 01.01.2017
-
-## Autres notes
-
-- [18] décembre 2015 No 39/2016
+RCV BO/Abl. 4/2016, 39/2016
