@@ -3,35 +3,36 @@ canton: SH
 number: "120.100"
 title: Gemeindegesetz
 language: de
-version: 2024-01-01
-corrected: 2024-06-18
-version_adopted: 2023-05-15
+version: 2025-11-01
+valid_until: 2025-12-31
+version_adopted: 2025-05-19
 adopted: 1998-08-17
 in_force: 2000-02-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/120.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/15/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2028/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gemeindegesetz
 
-vom 17. August 1998
+Vom 17.08.1998 (Stand 01.11.2025)
 
 Der Grosse Rat des Kantons Schaffhausen,
 
-in Ausführung von Art. 90 ff. der Kantonsverfassung vom 24. März 1876 <sup>1)</sup>,
+in Ausführung von Art. 90 ff. der Kantonsverfassung vom 24. März 1876[^ingress-1],
 
-beschliesst als Gesetz:
+beschliesst:
 
-## I. Allgemeine Bestimmungen
+[^ingress-1]: SHR [101.100](https://rechtsbuch.sh.ch/data/101.100/de).
 
-- 1\. Begriff und Aufgaben der Einwohnergemeinden
+## 1 Allgemeine Bestimmungen
+
+### 1.1 Begriff und Aufgaben der Einwohnergemeinden
 
 #### Art. 1
 
-**Einwohnergemeinde 1. Begriff**
+**Einwohnergemeinde: Begriff**
 
 <sup>1</sup> Die Einwohnergemeinden sind Gebietskörperschaften des öffentlichen Rechts mit allgemeinem Zweck und eigener Rechtspersönlichkeit.
 
@@ -41,43 +42,27 @@ beschliesst als Gesetz:
 
 #### Art. 2
 
-**2. Aufgaben**
+**Einwohnergemeinde: Aufgaben**
 
 <sup>1</sup> Gemeindeaufgaben können alle dem Wohl der Gemeinde dienenden Angelegenheiten sein, die nicht ausschliesslich Aufgaben des Bundes oder des Kantons sind.
 
 <sup>2</sup> Insbesondere obliegen der Gemeinde im Rahmen der Gesetze:
 
-- a) die Durchführung von Wahlen und Abstimmungen;
-
-- b) die Erteilung des Gemeindebürgerrechts;
-
-- c) die Besorgung der kommunalpolizeilichen Aufgaben; <sup>16)</sup>
-
-- d) die Bau-, Flur-, Forst-, Handels- und Gewerbe-, Gesundheits-, Lebensmittel- und Sittenpolizei. <sup>19)</sup>
-
-Amtsblatt 1999, S. 1123.
-
-- e) ... <sup>18)</sup>
-
-- f) das Bestattungswesen;
-
-- g) die Feuerwehr;
-
-- h) … <sup>30)</sup>
-
-- i) die Sicherstellung der elementaren Lebensbedürfnisse, insbesondere die Versorgung und die Entsorgung, sowie der Schutz der Umwelt;
-
-- k) das Sozialhilfewesen, die Führung von Berufsbeistandschaften, das Erbschaftswesen; <sup>28)</sup>
-
-- l) das Schulwesen;
-
-- m) die Förderung des kulturellen Lebens und der Volksgesundheit;
-
-- n) die Raumplanung;
-
-- o) der öffentliche Verkehr;
-
-- p) die Förderung der Volkswirtschaft.
+- a) die Durchführung von Wahlen und Abstimmungen
+- b) die Erteilung des Gemeindebürgerrechts
+- c) die Besorgung der kommunalpolizeilichen Aufgaben
+- d) die Bau-, Flur-, Forst-, Handels- und Gewerbe-, Gesundheits-, Lebensmittel- und Sittenpolizei
+- e) …
+- f) das Bestattungswesen
+- g) die Feuerwehr
+- h) …
+- i) die Sicherstellung der elementaren Lebensbedürfnisse, insbesondere die Versorgung und die Entsorgung, sowie der Schutz der Umwelt
+- k) das Sozialhilfewesen, die Führung von Berufsbeistandschaften, das Erbschaftswesen
+- l) das Schulwesen
+- m) die Förderung des kulturellen Lebens und der Volksgesundheit
+- n) die Raumplanung
+- o) der öffentliche Verkehr
+- p) die Förderung der Volkswirtschaft
 
 #### Art. 3
 
@@ -91,7 +76,7 @@ Amtsblatt 1999, S. 1123.
 
 **Steuern und weitere Abgaben**
 
-<sup>1</sup> Die Gemeinden erheben Steuern. Der Gemeindesteuerfuss wird mit dem Budget <sup>31)</sup> festgesetzt.
+<sup>1</sup> Die Gemeinden erheben Steuern. Der Gemeindesteuerfuss wird mit dem Budget festgesetzt.
 
 <sup>2</sup> Die Gemeinde kann Gebühren und Beiträge erheben.
 
@@ -105,35 +90,33 @@ Amtsblatt 1999, S. 1123.
 
 <sup>3</sup> Der Kanton beteiligt sich am Finanzausgleich zwischen den Gemeinden.
 
-- 2\. Wahlen
+### 1.2 Wahlen
 
 #### Art. 6
 
 **Wahlverfahren**
 
-<sup>1</sup> Die Wahlen an der Urne oder in der Gemeindeversammlung werden, unter Vorbehalt von Art. 36, nach den Bestimmungen des Wahlgesetzes <sup>2)</sup> durchgeführt, Wahlen durch Behörden nach deren Geschäftsordnung.
+<sup>1</sup> Die Wahlen an der Urne oder in der Gemeindeversammlung werden, unter Vorbehalt von Art. 36, nach den Bestimmungen des Wahlgesetzes[^6-1] durchgeführt, Wahlen durch Behörden nach deren Geschäftsordnung.
 
 <sup>2</sup> An der Urne werden gewählt:
 
-- a) die Gemeindepräsidentin oder der Gemeindepräsident und die weiteren Mitglieder des Gemeinderates;
-
-- b) die Präsidentin oder der Präsident der Gemeindeversammlung;
-
-- c) der Einwohnerrat;
-
-- d) die Präsidentin oder der Präsident und die weiteren Mitglieder der Schulbehörde.
+- a) die Gemeindepräsidentin oder der Gemeindepräsident und die weiteren Mitglieder des Gemeinderates
+- b) die Präsidentin oder der Präsident der Gemeindeversammlung
+- c) der Einwohnerrat
+- d) die Präsidentin oder der Präsident und die weiteren Mitglieder der Schulbehörde
 
 <sup>3</sup> Die Gemeinden können vorsehen, dass als Präsidentin oder Präsident, Vizepräsidentin oder Vizepräsident einer Kollegialbehörde nur wählbar ist, wer auch als Mitglied der Behörde gewählt worden ist. In diesem Fall sind die entsprechenden Funktionen durch die Stimmberechtigten auf dem Wahlzettel zusätzlich zu bezeichnen. Die Gemeindeverfassung regelt das Weitere.
+
+[^6-1]: SHR [160.100](https://rechtsbuch.sh.ch/data/160.100/de).
 
 #### Art. 7
 
 **Wahlfähigkeit**
 
-Wählbar ist:
+<sup>1</sup> Wählbar ist:
 
-- a) in den Gemeinderat, den Einwohnerrat und die Schulbehörde, als Präsidentin oder Präsident und Vizepräsidentin oder Vizepräsident der Gemeindeversammlung sowie als Stimmenzählerin oder Stimmenzähler jede in der Gemeinde stimmberechtigte Person;
-
-- b) für alle übrigen auf Amtsdauer gewählte Personen oder als Mitglied einer Kommission, unter Vorbehalt von Art. 66, jede Person, die nicht unter umfassender Beistandschaft ist. <sup>28)</sup>
+- a) in den Gemeinderat, den Einwohnerrat und die Schulbehörde, als Präsidentin oder Präsident und Vizepräsidentin oder Vizepräsident der Gemeindeversammlung sowie als Stimmenzählerin oder Stimmenzähler jede in der Gemeinde stimmberechtigte Person
+- b) für alle übrigen auf Amtsdauer gewählte Personen oder als Mitglied einer Kommission, unter Vorbehalt von Art. 66, jede Person, die nicht unter umfassender Beistandschaft ist
 
 #### Art. 8
 
@@ -145,15 +128,13 @@ Wählbar ist:
 
 #### Art. 9a
 
-<sup>24)</sup>
-
 **Gemeindezusammenschluss**
 
 <sup>1</sup> Schliessen sich Gemeinden zusammen, so können sie im Vertrag über den Zusammenschluss vorsehen, für die laufende und eine weitere Amtsperiode von den in diesem Gesetz oder im Gemeinderecht festgelegten Obergrenzen für die Zahl von Behördemitglieder abzuweichen.
 
 <sup>2</sup> Für die gleiche Zeit können sie im Vertrag den vor dem Zusammenschluss selbständigen Gemeinden feste Sitzansprüche im Gemeinderat, der Schulbehörde sowie der Bürgerkommission einräumen. In diesem Fall ist als Mitglied in die Behörde für den festen Sitz nur wählbar, wer in den entsprechenden Ortsteilen Wohnsitz hat.
 
-- 3\. Grundsätze der Geschäftsführung
+### 1.3 Grundsätze der Geschäftsführung
 
 #### Art. 10
 
@@ -161,7 +142,9 @@ Wählbar ist:
 
 <sup>1</sup> Ein Mitglied des Einwohnerrates oder seiner Kommissionen tritt bei der Behandlung von Geschäften, die es persönlich betreffen, in den Ausstand. Die Gemeindeverfassung kann weitere Ausstandsgründe vorsehen.
 
-<sup>2</sup> Der Ausstand eines Mitglieds der Gemeindebehörden und Kommissionen sowie der im Dienst der Gemeinde stehenden Personen richtet sich nach dem Verwaltungsrechtspflegegesetz <sup>3)</sup>.
+<sup>2</sup> Der Ausstand eines Mitglieds der Gemeindebehörden und Kommissionen sowie der im Dienst der Gemeinde stehenden Personen richtet sich nach dem Verwaltungsrechtspflegegesetz[^10-1].
+
+[^10-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 11
 
@@ -171,15 +154,11 @@ Wählbar ist:
 
 <sup>2</sup> Im Protokoll der Gemeindeversammlung, des Einwohnerrates und der Sitzungen der Gemeindebehörden sind mindestens festzuhalten:
 
-- a) Ort und Zeit der Versammlung;
-
-- b) der Name der vorsitzenden Person, bei Gemeindeversammlungen und bei Sitzungen des Einwohnerrates die Zahl der anwesenden Personen; bei anderen Sitzungen die Namen aller Anwesenden;
-
-- c) die Namen der Antragstellerinnen und Antragsteller und die Anträge;
-
-- d) die Verhandlungen summarisch, die Beschlüsse im Wortlaut, bei Abstimmungen und Wahlen auch das Ergebnis;
-
-- e) die Erwägungen, soweit ein Beschluss der Begründung bedarf.
+- a) Ort und Zeit der Versammlung
+- b) der Name der vorsitzenden Person, bei Gemeindeversammlungen und bei Sitzungen des Einwohnerrates die Zahl der anwesenden Personen; bei anderen Sitzungen die Namen aller Anwesenden
+- c) die Namen der Antragstellerinnen und Antragsteller und die Anträge
+- d) die Verhandlungen summarisch, die Beschlüsse im Wortlaut, bei Abstimmungen und Wahlen auch das Ergebnis
+- e) die Erwägungen, soweit ein Beschluss der Begründung bedarf
 
 <sup>3</sup> Die Mitglieder der Gemeindebehörden und die stimmberechtigten Teilnehmerinnen und Teilnehmer der Gemeindeversammlung können kurze Erklärungen zu Protokoll geben.
 
@@ -191,7 +170,7 @@ Wählbar ist:
 
 **Einsicht in Protokolle**
 
-Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Einwohnerrates stehen den Stimmberechtigten zur Einsicht auf der Gemeindekanzlei oder dem von der Gemeinde bestimmten Ort offen.
+<sup>1</sup> Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Einwohnerrates stehen den Stimmberechtigten zur Einsicht auf der Gemeindekanzlei oder dem von der Gemeinde bestimmten Ort offen.
 
 #### Art. 13
 
@@ -233,9 +212,11 @@ Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Einwo
 
 <sup>1</sup> Die Gemeinde ordnet die Dienst- und Besoldungsverhältnisse ihrer Behördemitglieder und der in ihrem Dienst stehenden Personen.
 
-<sup>2</sup> Soweit Vorschriften fehlen, gelten die Bestimmungen über das Dienstverhältnis des Staatspersonals <sup>4)</sup> sinngemäss.
+<sup>2</sup> Soweit Vorschriften fehlen, gelten die Bestimmungen über das Dienstverhältnis des Staatspersonals[^17-1] sinngemäss.
 
-<sup>3</sup> Der Kanton kann den Gemeinden einen Beitrag an die Besoldung des Gemeindepräsidiums ausrichten. Das Nähere regelt der Kantonsrat <sup>21)</sup> .
+<sup>3</sup> Der Kanton kann den Gemeinden einen Beitrag an die Besoldung des Gemeindepräsidiums ausrichten. Das Nähere regelt der Kantonsrat.
+
+[^17-1]: SHR [180.100](https://rechtsbuch.sh.ch/data/180.100/de).
 
 #### Art. 18
 
@@ -243,11 +224,13 @@ Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Einwo
 
 <sup>1</sup> Die Behörden und die im Dienst der Gemeinde stehenden Personen sind für ihre Amtshandlungen verantwortlich.
 
-<sup>2</sup> Die vermögensrechtliche Verantwortung richtet sich nach dem Haftungsgesetz <sup>5)</sup>.
+<sup>2</sup> Die vermögensrechtliche Verantwortung richtet sich nach dem Haftungsgesetz[^18-1].
 
-## II. Organisation der Gemeinde
+[^18-1]: SHR [170.300](https://rechtsbuch.sh.ch/data/170.300/de).
 
-### 1. Allgemeines
+## 2 Organisation der Gemeinde
+
+### 2.1 Allgemeines
 
 #### Art. 19
 
@@ -257,15 +240,11 @@ Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Einwo
 
 <sup>2</sup> Weitere Organe der Gemeinde sind:
 
-- a) der Gemeinderat;
-
-- b) die Gemeindepräsidentin oder der Gemeindepräsident;
-
-- c) die Gemeindeschreiberin oder der Gemeindeschreiber;
-
-- d) die Rechnungs- oder Geschäftsprüfungskommission;
-
-- e) die Bürgerversammlung, die Bürgerkommission oder die Einbürgerungskommission. <sup>29)</sup>
+- a) der Gemeinderat
+- b) die Gemeindepräsidentin oder der Gemeindepräsident
+- c) die Gemeindeschreiberin oder der Gemeindeschreiber
+- d) die Rechnungs- oder Geschäftsprüfungskommission
+- e) die Bürgerversammlung, die Bürgerkommission oder die Einbürgerungskommission
 
 <sup>3</sup> Bei Gemeinden mit Einwohnerrat tritt dieser als Organ an die Stelle der Gemeindeversammlung. Vorbehalten bleiben Art. 49 f.
 
@@ -273,7 +252,7 @@ Die Protokolle der Gemeindeversammlung und der öffentlichen Sitzungen des Einwo
 
 **Stimmrecht**
 
-Die Stimmberechtigung in Gemeindeangelegenheiten richtet sich nach dem kantonalen Recht.
+<sup>1</sup> Die Stimmberechtigung in Gemeindeangelegenheiten richtet sich nach dem kantonalen Recht.
 
 #### Art. 21
 
@@ -283,23 +262,18 @@ Die Stimmberechtigung in Gemeindeangelegenheiten richtet sich nach dem kantonale
 
 <sup>2</sup> Sie hat Vorschriften zu enthalten über:
 
-- a) die von der Gemeinde festzusetzende Zahl von Behörde- und Kommissionsmitgliedern;
-
-- b) die Durchführung von Wahlen oder Abstimmungen;
-
-- c) die Art der vorgeschriebenen Veröffentlichungen;
-
-- d) die Zuständigkeit bei Erwerb, Veräusserung und Tausch von Grundstücken oder bei Einräumung eines Baurechts;
-
-- e) die Finanzkompetenzen;
-
-- f) weitere Zuständigkeiten der Gemeindeorgane.
+- a) die von der Gemeinde festzusetzende Zahl von Behörde- und Kommissionsmitgliedern
+- b) die Durchführung von Wahlen oder Abstimmungen
+- c) die Art der vorgeschriebenen Veröffentlichungen
+- d) die Zuständigkeit bei Erwerb, Veräusserung und Tausch von Grundstücken oder bei Einräumung eines Baurechts
+- e) die Finanzkompetenzen
+- f) weitere Zuständigkeiten der Gemeindeorgane
 
 <sup>3</sup> Die Gemeinden können für bestimmte Wahlen in der Gemeindeverfassung das stille Wahlverfahren vorsehen.
 
 #### Art. 22
 
-**Büro der Einwohnergemeinde 1. Zusammensetzung**
+**Büro der Einwohnergemeinde: Zusammensetzung**
 
 <sup>1</sup> Die Präsidentin oder der Präsident, ein weiteres vom Gemeinderat aus seiner Mitte bestimmtes Mitglied sowie die Stimmenzählerinnen und Stimmenzähler bilden das Büro der Einwohnergemeinde. Vorbehalten bleibt Art. 25 Abs. 3.
 
@@ -307,23 +281,25 @@ Die Stimmberechtigung in Gemeindeangelegenheiten richtet sich nach dem kantonale
 
 #### Art. 23
 
-**2. Aufgaben**
+**Büro der Einwohnergemeinde: Aufgaben**
 
-<sup>1</sup> Dem Büro kommen die in diesem Gesetz sowie im Wahlgesetz <sup>2)</sup> bestimmten Aufgaben zu.
+<sup>1</sup> Dem Büro kommen die in diesem Gesetz sowie im Wahlgesetz[^23-1] bestimmten Aufgaben zu.
 
 <sup>2</sup> Es ist zugleich Büro der Gemeindeversammlung.
 
-- 2\. Organisation mit Gemeindeversammlung
+[^23-1]: SHR [160.100](https://rechtsbuch.sh.ch/data/160.100/de).
+
+### 2.2 Organisation mit Gemeindeversammlung
 
 #### Art. 24
 
-**Gemeindeversammlung 1. Zusammensetzung**
+**Gemeindeversammlung: Zusammensetzung**
 
-Die Gemeindeversammlung wird gebildet aus den in der Gemeinde wohnhaften Stimmberechtigten.
+<sup>1</sup> Die Gemeindeversammlung wird gebildet aus den in der Gemeinde wohnhaften Stimmberechtigten.
 
 #### Art. 25
 
-**2. Versammlungsleitung**
+**Gemeindeversammlung: Versammlungsleitung**
 
 <sup>1</sup> Die Gemeindepräsidentin oder der Gemeindepräsident leitet die Gemeindeversammlung.
 
@@ -337,41 +313,27 @@ Die Gemeindeversammlung wird gebildet aus den in der Gemeinde wohnhaften Stimmbe
 
 <sup>1</sup> Der Gemeindeversammlung kommen folgende Befugnisse zu:
 
-- a) die Wahl der Stimmenzählerinnen und Stimmenzähler auf die verfassungsmässige Amtsdauer;
-
-- b) Beschlussfassung über die Änderung des Gemeindenamens und des Gemeindewappens;
-
-- c) Beschlussfassung über den Zusammenschluss mit einer anderen Gemeinde, die Teilung der Gemeinde sowie über die Änderung von Gemeindegrenzen mit Ausnahme von Grenzkorrekturen;
-
-- d) Erlass und Änderung der Gemeindeverfassung;
-
-- e) Erlass und Änderung von allgemeinverbindlichen Gemeindereglementen;
-
-- f) Festlegung des Budgets <sup>31)</sup> zusammen mit dem Steuerfuss;
-
-- g) Beschlussfassung über andere Gemeindesteuern und Erlass oder Änderung von allgemeinverbindlichen Reglementen, in denen Gebühren und Beiträge festgelegt werden;
-
-- h) Genehmigung der Gemeinderechnung und allfälliger Separatrechnungen sowie gegebenenfalls des Rechenschaftsberichtes des Gemeinderates;
-
-- i) Beschlussfassung über neue Ausgaben und Kredite, soweit nicht der Gemeinderat zuständig ist;
-
-- k) Beschlussfassung über den Beitritt zu einem Zweckverband, einen allfälligen Austritt sowie über die Auflösung eines Verbandes; <sup>23)</sup>
-
-- l) Beschlussfassung über die Errichtung öffentlichrechtlicher Anstalten und Beteiligung an solchen;
-
-- m) Beschlussfassung über die Gründung oder die Beteiligung an privatrechtlichen oder gemischtwirtschaftlichen Unternehmungen oder Organisationen sowie über die Gewährung von Darlehen an solche;
-
-- n) Oberaufsicht über die Gemeindebehörden und über die Gemeindeverwaltung, einschliesslich Gemeindeanstalten;
-
-- o) Beschlussfassung über Geschäfte des Gemeinderates, die dieser ihrer besonderen Bedeutung wegen der Gemeindeversammlung unterbreitet;
-
-- p) die in weiteren Gesetzen und in der Gemeindeverfassung umschriebenen zusätzlichen Befugnisse.
+- a) die Wahl der Stimmenzählerinnen und Stimmenzähler auf die verfassungsmässige Amtsdauer
+- b) Beschlussfassung über die Änderung des Gemeindenamens und des Gemeindewappens
+- c) Beschlussfassung über den Zusammenschluss mit einer anderen Gemeinde, die Teilung der Gemeinde sowie über die Änderung von Gemeindegrenzen mit Ausnahme von Grenzkorrekturen
+- d) Erlass und Änderung der Gemeindeverfassung
+- e) Erlass und Änderung von allgemeinverbindlichen Gemeindereglementen
+- f) Festlegung des Budgets zusammen mit dem Steuerfuss
+- g) Beschlussfassung über andere Gemeindesteuern und Erlass oder Änderung von allgemeinverbindlichen Reglementen, in denen Gebühren und Beiträge festgelegt werden
+- h) Genehmigung der Gemeinderechnung und allfälliger Separatrechnungen sowie gegebenenfalls des Rechenschaftsberichtes des Gemeinderates
+- i) Beschlussfassung über neue Ausgaben und Kredite, soweit nicht der Gemeinderat zuständig ist
+- k) Beschlussfassung über den Beitritt zu einem Zweckverband, einen allfälligen Austritt sowie über die Auflösung eines Verbandes
+- l) Beschlussfassung über die Errichtung öffentlichrechtlicher Anstalten und Beteiligung an solchen
+- m) Beschlussfassung über die Gründung oder die Beteiligung an privatrechtlichen oder gemischtwirtschaftlichen Unternehmungen oder Organisationen sowie über die Gewährung von Darlehen an solche
+- n) Oberaufsicht über die Gemeindebehörden und über die Gemeindeverwaltung, einschliesslich Gemeindeanstalten
+- o) Beschlussfassung über Geschäfte des Gemeinderates, die dieser ihrer besonderen Bedeutung wegen der Gemeindeversammlung unterbreitet
+- p) die in weiteren Gesetzen und in der Gemeindeverfassung umschriebenen zusätzlichen Befugnisse
 
 <sup>2</sup> In der Gemeindeverfassung kann vorgesehen werden, dass die Stimmenzählerinnen und Stimmenzähler an der Urne gewählt werden.
 
 <sup>3</sup> Im Weiteren kann festgelegt werden, dass die Schlussabstimmung über bestimmte Geschäfte an der Urne stattfindet, sofern es ein Drittel der anwesenden Stimmberechtigten in der Gemeindeversammlung verlangt.
 
-<sup>4</sup> Der Entscheid der Gemeindeversammlung gemäss Abs. 1 lit. c unterliegt der Gemeindeabstimmung an der Urne. <sup>24)</sup>
+<sup>4</sup> Der Entscheid der Gemeindeversammlung gemäss Abs. 1 lit. c unterliegt der Gemeindeabstimmung an der Urne.
 
 #### Art. 27
 
@@ -379,11 +341,9 @@ Die Gemeindeversammlung wird gebildet aus den in der Gemeinde wohnhaften Stimmbe
 
 <sup>1</sup> Die Gemeindeversammlung tritt zusammen:
 
-- a) auf Einladung des Gemeinderates;
-
-- b) auf Antrag eines Sechstels der Stimmberechtigten;
-
-- c) auf Anordnung des Regierungsrates.
+- a) auf Einladung des Gemeinderates
+- b) auf Antrag eines Sechstels der Stimmberechtigten
+- c) auf Anordnung des Regierungsrates
 
 <sup>2</sup> Begehren gemäss Abs. 1 lit. b sind der Gemeindekanzlei mit den notwendigen Unterschriften und unter Angabe der Anträge schriftlich einzureichen. Der Gemeinderat hat die Versammlung innert zwei Monaten durchzuführen.
 
@@ -391,7 +351,7 @@ Die Gemeindeversammlung wird gebildet aus den in der Gemeinde wohnhaften Stimmbe
 
 **Vorbereitung der Geschäfte**
 
-Der Gemeinderat bereitet die Geschäfte der Gemeindeversammlung vor und stellt ihr Antrag.
+<sup>1</sup> Der Gemeinderat bereitet die Geschäfte der Gemeindeversammlung vor und stellt ihr Antrag.
 
 #### Art. 29
 
@@ -401,7 +361,7 @@ Der Gemeinderat bereitet die Geschäfte der Gemeindeversammlung vor und stellt i
 
 <sup>2</sup> Gleichzeitig sind die Anträge und die dazugehörenden Akten in der Gemeindekanzlei oder dem von der Gemeinde bestimmten Ort zur Einsicht aufzulegen.
 
-<sup>3</sup> Über wichtige Geschäfte, insbesondere das Budget <sup>31)</sup> mit dem Antrag zur Festsetzung des Steuerfusses, die Jahresrechnung unter Einschluss des Revisorenberichtes, die Vorlagen zum Erlass oder zur Änderung der Gemeindeverfassung und von allgemeinverbindlichen Reglementen sowie zu bedeutenden Kreditbegehren, legt der Gemeinderat den Stimmberechtigten spätestens zehn Tage vor der Versammlung schriftlich Bericht und Antrag vor.
+<sup>3</sup> Über wichtige Geschäfte, insbesondere das Budget mit dem Antrag zur Festsetzung des Steuerfusses, die Jahresrechnung unter Einschluss des Revisorenberichtes, die Vorlagen zum Erlass oder zur Änderung der Gemeindeverfassung und von allgemeinverbindlichen Reglementen sowie zu bedeutenden Kreditbegehren, legt der Gemeinderat den Stimmberechtigten spätestens zehn Tage vor der Versammlung schriftlich Bericht und Antrag vor.
 
 #### Art. 30
 
@@ -415,7 +375,7 @@ Der Gemeinderat bereitet die Geschäfte der Gemeindeversammlung vor und stellt i
 
 **Ton- und Bildaufnahmen**
 
-Tonaufnahmen, soweit sie nicht zur Unterstützung der Protokollführung dienen, und Bildaufnahmen sind nur gestattet, wenn die Versammlung zustimmt.
+<sup>1</sup> Tonaufnahmen, soweit sie nicht zur Unterstützung der Protokollführung dienen, und Bildaufnahmen sind nur gestattet, wenn die Versammlung zustimmt.
 
 #### Art. 32
 
@@ -427,7 +387,7 @@ Tonaufnahmen, soweit sie nicht zur Unterstützung der Protokollführung dienen, 
 
 <sup>3</sup> Sofern es die Aufrechterhaltung der Ordnung erfordert, kann die Versammlung unterbrochen oder aufgelöst werden.
 
-<sup>4</sup> In schweren Fällen kann das Büro Ordnungsbussen bis Fr. 1'000.-- aussprechen oder Strafanzeige erstatten.
+<sup>4</sup> In schweren Fällen kann das Büro Ordnungsbussen bis Fr. 1'000.00 aussprechen oder Strafanzeige erstatten.
 
 #### Art. 33
 
@@ -465,7 +425,9 @@ Tonaufnahmen, soweit sie nicht zur Unterstützung der Protokollführung dienen, 
 
 <sup>4</sup> Wenn es ein Sechstel der anwesenden Stimmberechtigten verlangt, ist geheim zu wählen oder abzustimmen.
 
-<sup>5</sup> Stehen sich mehrere Anträge gegenüber, bestimmt die Versammlungsleitung die Abstimmungsfolge. Die Regelung über das Abstimmungsverfahren im Kantonsrat <sup>6)</sup> <sup>21)</sup> gilt sinngemäss. Wird ein Einwand erhoben, entscheidet die Versammlung.
+<sup>5</sup> Stehen sich mehrere Anträge gegenüber, bestimmt die Versammlungsleitung die Abstimmungsfolge. Die Regelung über das Abstimmungsverfahren im Kantonsrat[^36-1] gilt sinngemäss. Wird ein Einwand erhoben, entscheidet die Versammlung.
+
+[^36-1]: SHR [171.110](https://rechtsbuch.sh.ch/data/171.110/de).
 
 #### Art. 37
 
@@ -487,9 +449,9 @@ Tonaufnahmen, soweit sie nicht zur Unterstützung der Protokollführung dienen, 
 
 <sup>4</sup> Der Gemeinderat kann auf das Vorprüfungsrecht verzichten. In diesem Fall wird der Antrag in der Versammlung behandelt.
 
-- 3\. Organisation mit Einwohnerrat
+### 2.3 Organisation mit Einwohnerrat
 
-### a) Ordentliche Organisation
+### 2.3.1 Ordentliche Organisation
 
 #### Art. 39
 
@@ -507,15 +469,17 @@ Tonaufnahmen, soweit sie nicht zur Unterstützung der Protokollführung dienen, 
 
 <sup>1</sup> Die Wahl des Einwohnerrates erfolgt nach dem proportionalen Wahlverfahren in einem Wahlkreis.
 
-<sup>2</sup> Das Verfahren richtet sich sinngemäss nach dem kantonalen Recht über die Wahl des Kantonsrates <sup>7)</sup> <sup>21)</sup> .
+<sup>2</sup> Das Verfahren richtet sich sinngemäss nach dem kantonalen Recht über die Wahl des Kantonsrates[^40-1].
 
 <sup>3</sup> Durch die Gemeindeverfassung kann bestimmt werden, dass die Wahl des Einwohnerrates nach dem Majorzverfahren oder in mehreren Wahlkreisen durchgeführt wird.
+
+[^40-1]: SHR [161.111](https://rechtsbuch.sh.ch/data/161.111/de).
 
 #### Art. 41
 
 **Befugnisse**
 
-Dem Einwohnerrat kommen unter Vorbehalt des Referendums die Befugnisse der Gemeindeversammlung zu.
+<sup>1</sup> Dem Einwohnerrat kommen unter Vorbehalt des Referendums die Befugnisse der Gemeindeversammlung zu.
 
 #### Art. 42
 
@@ -527,25 +491,31 @@ Dem Einwohnerrat kommen unter Vorbehalt des Referendums die Befugnisse der Gemei
 
 #### Art. 43
 
-**Fakultatives Referendum 1. Allgemeines**
+**Fakultatives Referendum: Allgemeines**
 
 <sup>1</sup> Beschlüsse des Einwohnerrates gemäss Art. 26 Abs. 1 lit. e, g und k unterliegen der Gemeindeabstimmung, wenn eine in der Gemeindeverfassung festzusetzende Zahl von Stimmberechtigten eine Abstimmung verlangt.
 
 <sup>2</sup> Die Gemeinden können für weitere Bereiche das fakultative Referendum vorsehen oder solche, die dem fakultativen Referendum unterliegen, dem obligatorischen Referendum unterstellen.
 
-<sup>3</sup> Die Gemeindeverfassung bestimmt, innert welcher Frist das Referendum ergriffen werden kann. Für die Form des Referendums gilt das Wahlgesetz <sup>2)</sup>.
+<sup>3</sup> Die Gemeindeverfassung bestimmt, innert welcher Frist das Referendum ergriffen werden kann. Für die Form des Referendums gilt das Wahlgesetz[^43-1].
+
+[^43-1]: SHR [160.100](https://rechtsbuch.sh.ch/data/160.100/de).
 
 #### Art. 44
 
-**2. Bei Festsetzung des Voranschlages und des Steuerfusses**
+**Fakultatives Referendum: Bei Festsetzung des Voranschlages und des Steuerfusses**
 
-<sup>1</sup> Das Budget <sup>31)</sup> mit der Festsetzung des Steuerfusses unterliegt dem fakultativen Referendum. In der Gemeindeverfassung kann das obligatorische Referendum vorgesehen werden.
+<sup>1</sup> Das Budget und der Steuerfuss werden mit separatem Beschluss festgesetzt.
 
-<sup>2</sup> Die Gemeindeverfassung kann vorsehen, dass nur die Festsetzung des Steuerfusses dem Referendum untersteht. Wird der Steuerfuss verworfen, so gilt auch der Voranschlag als verworfen.
+<sup>2</sup> Die Beschlüsse über das Budget und den Steuerfuss unterliegen dem fakultativen Referendum. Die Gemeindeverfassung kann vorsehen, dass nur die Festsetzung des Steuerfusses dem fakultativen Referendum unterstellt ist.
+
+<sup>3</sup> Die Gemeindeverfassung kann sowohl gegen das Budget als auch gegen den Steuerfuss ein obligatorisches Referendum vorsehen.
+
+<sup>4</sup> Wird der Steuerfuss verworfen, so gilt auch das Budget als verworfen. Wird das Budget verworfen, so gilt auch der Steuerfuss als verworfen.
 
 #### Art. 45
 
-**Initiative 1. Gegenstand**
+**Initiative: Gegenstand**
 
 <sup>1</sup> Einer in der Gemeindeverfassung festzulegenden Zahl von Stimmberechtigten steht das Recht zu, Vorschläge für die Übernahme neuer Gemeindeaufgaben und für die Ergänzung und Änderung der Gemeindeverfassung sowie der allgemeinverbindlichen Gemeindereglemente einzureichen.
 
@@ -555,9 +525,11 @@ Dem Einwohnerrat kommen unter Vorbehalt des Referendums die Befugnisse der Gemei
 
 #### Art. 46
 
-**2. Verfahren**
+**Initiative: Verfahren**
 
-Für das Verfahren bei Initiativen gilt das Wahlgesetz <sup>2)</sup>, soweit in der Gemeindeverfassung keine besonderen Regelungen vorgesehen werden.
+<sup>1</sup> Für das Verfahren bei Initiativen gilt das Wahlgesetz[^46-1], soweit in der Gemeindeverfassung keine besonderen Regelungen vorgesehen werden.
+
+[^46-1]: SHR [160.100](https://rechtsbuch.sh.ch/data/160.100/de).
 
 #### Art. 47
 
@@ -577,9 +549,9 @@ Für das Verfahren bei Initiativen gilt das Wahlgesetz <sup>2)</sup>, soweit in 
 
 **Rechnungs- oder Geschäftsprüfungskommission**
 
-Der Einwohnerrat wählt die Rechnungs- oder Geschäftsprüfungskommission gemäss Art. 66 ff.
+<sup>1</sup> Der Einwohnerrat wählt die Rechnungs- oder Geschäftsprüfungskommission gemäss Art. 66 ff.
 
-### b) Ausserordentliche Organisation
+### 2.3.2 Ausserordentliche Organisation
 
 #### Art. 49
 
@@ -597,17 +569,17 @@ Der Einwohnerrat wählt die Rechnungs- oder Geschäftsprüfungskommission gemäs
 
 <sup>2</sup> In der Gemeindeverfassung kann vorgesehen werden, dass nur die Schlussabstimmung in der Gemeindeversammlung stattfindet.
 
-<sup>3</sup> Im übrigen sind die Art. 39 ff., mit Ausnahme der Bestimmungen über das Referendum und die Wahl der Rechnungs- oder Geschäftsprüfungskommission, anwendbar.
+<sup>3</sup> Im Übrigen sind die Art. 39 ff., mit Ausnahme der Bestimmungen über das Referendum und die Wahl der Rechnungs- oder Geschäftsprüfungskommission, anwendbar.
 
 <sup>4</sup> Neue Anträge gemäss Art. 38 können nur zu Geschäften gestellt werden, die in der Befugnis der Gemeindeversammlung liegen.
 
-- 4\. Der Gemeinderat
+### 2.4 Der Gemeinderat
 
 #### Art. 51
 
 **Mitgliederzahl**
 
-Die Zahl der Mitglieder des Gemeinderates wird durch die Gemeindeverfassung festgelegt; sie beträgt jedoch mindestens drei und höchstens sieben.
+<sup>1</sup> Die Zahl der Mitglieder des Gemeinderates wird durch die Gemeindeverfassung festgelegt; sie beträgt jedoch mindestens drei und höchstens sieben.
 
 #### Art. 52
 
@@ -645,21 +617,17 @@ Die Zahl der Mitglieder des Gemeinderates wird durch die Gemeindeverfassung fest
 
 **Geschäftsordnung**
 
-Der Gemeinderat verhandelt nach folgender Geschäftsordnung:
+<sup>1</sup> Der Gemeinderat verhandelt nach folgender Geschäftsordnung:
 
 - a) Die Präsidentin oder der Präsident beruft den Gemeinderat ein, so oft es die Geschäfte erfordern oder wenn mindestens ein Mitglied es verlangt
+- b) Kein Mitglied darf ohne wichtigen Grund einer Sitzung fernbleiben
+- c) Die Mitglieder sind bei Abstimmungen und Wahlen zur Stimmabgabe verpflichtet
+- d) Der Rat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend und stimmberechtigt ist
+- e) Der Ausstand richtet sich nach dem Verwaltungsrechtspflegegesetz[^55-1]; ein ausstandspflichtiges Mitglied hat den Sitzungsraum vor Behandlung des Geschäftes zu verlassen
+- f) Die Präsidentin oder der Präsident setzt die Traktanden fest, leitet die Verhandlungen und wacht über die Einhaltung der Geschäftsordnung
+- g) Auf ein Geschäft, das den Mitgliedern vor der Sitzung nicht bekannt war, darf nur eingetreten werden, wenn kein Mitglied Einsprache erhebt oder wenn der Rat die Behandlung als dringlich erklärt
 
-- b) Kein Mitglied darf ohne wichtigen Grund einer Sitzung fernbleiben.
-
-- c) Die Mitglieder sind bei Abstimmungen und Wahlen zur Stimmabgabe verpflichtet.
-
-- d) Der Rat ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.
-
-- e) Der Ausstand richtet sich nach dem Verwaltungsrechtspflegegesetz <sup>3)</sup>; ein ausstandspflichtiges Mitglied hat den Sitzungsraum vor Behandlung des Geschäftes zu verlassen.
-
-- f) Die Präsidentin oder der Präsident setzt die Traktanden fest, leitet die Verhandlungen und wacht über die Einhaltung der Geschäftsordnung.
-
-- g) Auf ein Geschäft, das den Mitgliedern vor der Sitzung nicht bekannt war, darf nur eingetreten werden, wenn kein Mitglied Einsprache erhebt oder wenn der Rat die Behandlung als dringlich erklärt.
+[^55-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 56
 
@@ -677,23 +645,19 @@ Der Gemeinderat verhandelt nach folgender Geschäftsordnung:
 
 <sup>2</sup> Wer eine Sitzung ohne gültige Entschuldigung versäumt hat, haftet dennoch für die in derselben gefassten Beschlüsse, sofern er sich nicht in der nächsten Sitzung verwahrt.
 
-- 5\. Gemeindepräsidium
+### 2.5 Gemeindepräsidium
 
 #### Art. 58
 
 **Aufgaben und Befugnisse**
 
-Die Gemeindepräsidentin oder der Gemeindepräsident hat insbesondere folgende Aufgaben und Befugnisse:
+<sup>1</sup> Die Gemeindepräsidentin oder der Gemeindepräsident hat insbesondere folgende Aufgaben und Befugnisse:
 
-- a) Leitung der Sitzungen des Gemeinderates;
-
-- b) Überwachung des Vollzugs der Beschlüsse der Gemeindeversammlung, des Einwohnerrates und des Gemeinderates, der Anordnungen des Regierungsrates sowie der Gesetze und Verordnungen des Bundes und des Kantons, soweit sie von der Gemeinde zu vollziehen sind;
-
-- c) Überwachung der Tätigkeit der im Dienst der Gemeinde stehenden Personen, soweit diese nicht einem anderen Mitglied des Gemeinderates oder einem anderen Organ unterstellt sind;
-
-- d) In Absprache mit dem Gemeinderat Sicherstellung der Information der Öffentlichkeit über die Tätigkeit des Gemeinderates und der Gemeindeverwaltung;
-
-- e) Vertretung des Gemeinderates nach aussen.
+- a) Leitung der Sitzungen des Gemeinderates
+- b) Überwachung des Vollzugs der Beschlüsse der Gemeindeversammlung, des Einwohnerrates und des Gemeinderates, der Anordnungen des Regierungsrates sowie der Gesetze und Verordnungen des Bundes und des Kantons, soweit sie von der Gemeinde zu vollziehen sind
+- c) Überwachung der Tätigkeit der im Dienst der Gemeinde stehenden Personen, soweit diese nicht einem anderen Mitglied des Gemeinderates oder einem anderen Organ unterstellt sind
+- d) In Absprache mit dem Gemeinderat Sicherstellung der Information der Öffentlichkeit über die Tätigkeit des Gemeinderates und der Gemeindeverwaltung
+- e) Vertretung des Gemeinderates nach aussen
 
 #### Art. 59
 
@@ -719,35 +683,31 @@ Die Gemeindepräsidentin oder der Gemeindepräsident hat insbesondere folgende A
 
 <sup>2</sup> Bei Verhinderung der ordentlichen Stellvertreterin oder des Stellvertreters vertritt das amtsälteste Mitglied die Gemeindepräsidentin oder den Gemeindepräsidenten.
 
-- 6\. Gemeindeschreiberin oder Gemeindeschreiber
+### 2.6 Gemeindeschreiberin oder Gemeindeschreiber
 
 #### Art. 62
 
 **Aufgaben**
 
-Die Gemeindeschreiberin oder der Gemeindeschreiber hat folgende Aufgaben:
+<sup>1</sup> Die Gemeindeschreiberin oder der Gemeindeschreiber hat folgende Aufgaben:
 
-- a) Führung des Protokolls der Gemeindeversammlung und des Gemeinderates;
-
-- b) Leitung der Gemeindekanzlei;
-
-- c) Führung der Sammlung des Gemeinderechts;
-
-- d) Führung des Stimmregisters, des Einwohnerregisters sowie der weiteren Register und des Gemeindearchivs, soweit der Gemeinderat die Führung nicht einem Behördenmitglied oder einer anderen im Dienst der Gemeinde stehenden Person übertragen hat; <sup>26)</sup>
-
-- e) Besorgung der weiteren Geschäfte, die der Gemeindeschreiberin oder dem Gemeindeschreiber durch Gesetz oder vom Gemeinderat übertragen sind.
+- a) Führung des Protokolls der Gemeindeversammlung und des Gemeinderates
+- b) Leitung der Gemeindekanzlei
+- c) Führung der Sammlung des Gemeinderechts
+- d) Führung des Stimmregisters, des Einwohnerregisters sowie der weiteren Register und des Gemeindearchivs, soweit der Gemeinderat die Führung nicht einem Behördenmitglied oder einer anderen im Dienst der Gemeinde stehenden Person übertragen hat
+- e) Besorgung der weiteren Geschäfte, die der Gemeindeschreiberin oder dem Gemeindeschreiber durch Gesetz oder vom Gemeinderat übertragen sind
 
 #### Art. 63
 
 **Antragsrecht**
 
-Die Gemeindeschreiberin oder der Gemeindeschreiber hat im Gemeinderat sowie bei Behördesitzungen, in denen sie oder er das Protokoll führt, beratende Stimme und das Recht, Anträge zu stellen.
+<sup>1</sup> Die Gemeindeschreiberin oder der Gemeindeschreiber hat im Gemeinderat sowie bei Behördesitzungen, in denen sie oder er das Protokoll führt, beratende Stimme und das Recht, Anträge zu stellen.
 
 #### Art. 64
 
 **Besondere Schreiberinnen oder Schreiber**
 
-<sup>1</sup> Die Gemeindeverfassung kann vorsehen, dass für bestimmte Geschäftsbereiche, insbesondere für das Erbschaftswesen, besondere Schreiberinnen oder Schreiber bestimmt werden. <sup>28)</sup>
+<sup>1</sup> Die Gemeindeverfassung kann vorsehen, dass für bestimmte Geschäftsbereiche, insbesondere für das Erbschaftswesen, besondere Schreiberinnen oder Schreiber bestimmt werden.
 
 <sup>2</sup> Im Rahmen ihres Aufgabenbereichs kommen ihnen die Rechte und Pflichten der Gemeindeschreiberin oder des Gemeindeschreibers zu.
 
@@ -755,11 +715,9 @@ Die Gemeindeschreiberin oder der Gemeindeschreiber hat im Gemeinderat sowie bei 
 
 **Stellvertretung**
 
-Der Gemeinderat regelt die Stellvertretung.
+<sup>1</sup> Der Gemeinderat regelt die Stellvertretung.
 
-- 7\. Rechnungs- oder Geschäftsprüfungs-
-
-### kommission
+### 2.7 Rechnungs- oder Geschäftsprüfungskommission
 
 #### Art. 66
 
@@ -773,11 +731,10 @@ Der Gemeinderat regelt die Stellvertretung.
 
 **Aufgaben**
 
-Die Rechnungsprüfungskommission hat folgende Aufgaben:
+<sup>1</sup> Die Rechnungsprüfungskommission hat folgende Aufgaben:
 
-- a) sie prüft die Rechnungsführung der Gemeinde und ihrer unselbständigen Anstalten; sie kann dem Gemeinderat zusätzliche Revisionen durch Fachpersonen beantragen;
-
-- b) sie prüft, ob das Budget <sup>31)</sup> den Vorschriften über den Gemeindehaushalt und das Rechnungswesen entspricht.
+- a) sie prüft die Rechnungsführung der Gemeinde und ihrer unselbständigen Anstalten; sie kann dem Gemeinderat zusätzliche Revisionen durch Fachpersonen beantragen
+- b) sie prüft, ob das Budget den Vorschriften über den Gemeindehaushalt und das Rechnungswesen entspricht
 
 #### Art. 68
 
@@ -791,17 +748,15 @@ Die Rechnungsprüfungskommission hat folgende Aufgaben:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Rechnungsprüfungskommission erstattet der Gemeindeversammlung oder dem Einwohnerrat Bericht. Sie stellt Antrag auf Genehmigung oder Rückweisung der Rechnung und des Budgets <sup>31)</sup>. Mängel der Rechnungsführung sowie eine gesetzwidrige Verwendung öffentlicher Mittel sind im Bericht an die Gemeindeversammlung oder den Einwohnerrat festzuhalten.
+<sup>1</sup> Die Rechnungsprüfungskommission erstattet der Gemeindeversammlung oder dem Einwohnerrat Bericht. Sie stellt Antrag auf Genehmigung oder Rückweisung der Rechnung und des Budgets. Mängel der Rechnungsführung sowie eine gesetzwidrige Verwendung öffentlicher Mittel sind im Bericht an die Gemeindeversammlung oder den Einwohnerrat festzuhalten.
 
-<sup>2</sup> Die Mitglieder der Rechnungsprüfungskommission nehmen an den Gemeindeversammlungen beziehungsweise den Sitzungen des Einwohnerrates, an denen die Rechnung beziehungsweise das Budget <sup>31)</sup> behandelt werden, mit beratender Stimme teil. Der Kommission steht das Recht der Antragstellung zu.
+<sup>2</sup> Die Mitglieder der Rechnungsprüfungskommission nehmen an den Gemeindeversammlungen beziehungsweise den Sitzungen des Einwohnerrates, an denen die Rechnung beziehungsweise das Budget behandelt werden, mit beratender Stimme teil. Der Kommission steht das Recht der Antragstellung zu.
 
 <sup>3</sup> Stellt die Rechnungsprüfungskommission Fehler oder Ordnungswidrigkeiten fest, teilt sie dies dem Gemeinderat mit. Werden diese nicht behoben, erstattet sie der Gemeindeversammlung oder dem Einwohnerrat und dem für Gemeindeangelegenheiten zuständigen Departement Bericht.
 
 <sup>4</sup> Bei erheblichen Mängeln, Pflichtverletzungen, Missständen oder strafbaren Handlungen erstattet die Rechnungsprüfungskommission dem Gemeinderat sowie dem für Gemeindeangelegenheiten zuständigen Departement unverzüglich Bericht.
 
 #### Art. 69a
-
-<sup>32)</sup>
 
 **Fachrevision**
 
@@ -821,39 +776,39 @@ Die Rechnungsprüfungskommission hat folgende Aufgaben:
 
 <sup>2</sup> Bei der Organisation mit Einwohnerrat bestimmt die Geschäftsordnung ihre weiteren Aufgaben.
 
-## III. Gemeindeverwaltung
+## 3 Gemeindeverwaltung
 
-### 1. Gemeindehaushalt
+### 3.1 Gemeindehaushalt
 
-### a) Allgemeine Bestimmungen
+### 3.1.1 Allgemeine Bestimmungen
 
 #### Art. 71
 
 **Grundsatz**
 
-Unter dem Vorbehalt der nachfolgenden Vorschriften ist das Finanzhaushaltgesetz <sup>8)</sup> anwendbar.
+<sup>1</sup> Unter dem Vorbehalt der nachfolgenden Vorschriften ist das Finanzhaushaltgesetz[^71-1] anwendbar.
+
+[^71-1]: SHR [611.100](https://rechtsbuch.sh.ch/data/611.100/de).
 
 #### Art. 72
 
 **Ausgabenbewilligung**
 
-Die Gemeindeverfassung bestimmt, welche Ausgaben durch die Gemeindeversammlung oder die Stimmberechtigten an der Urne, den Einwohnerrat, allenfalls unter Vorbehalt des fakultativen Referendums, und durch die Gemeindebehörden bewilligt werden.
+<sup>1</sup> Die Gemeindeverfassung bestimmt, welche Ausgaben durch die Gemeindeversammlung oder die Stimmberechtigten an der Urne, den Einwohnerrat, allenfalls unter Vorbehalt des fakultativen Referendums, und durch die Gemeindebehörden bewilligt werden.
 
 #### Art. 73
 
 **Rechnungsablage**
 
-<sup>1</sup> … <sup>33)</sup>
-
-<sup>2</sup> … <sup>33)</sup>
+<sup>1–2</sup> …
 
 <sup>3</sup> Wird die Rechnung nicht genehmigt, so hat sie der Gemeinderat mit einem ergänzenden Bericht der Rechnungs- oder Geschäftsprüfungskommission innert zwei Monaten nochmals zur Genehmigung vorzulegen. Bei nochmaliger Rückweisung entscheidet der Regierungsrat.
 
-### b) Haupt- und Sonderrechnungen
+### 3.1.2 Haupt- und Sonderrechnungen
 
 #### Art. 74
 
-<sup>33)</sup>
+**…**
 
 #### Art. 75
 
@@ -861,23 +816,19 @@ Die Gemeindeverfassung bestimmt, welche Ausgaben durch die Gemeindeversammlung o
 
 <sup>1</sup> Für einzelne Gemeindebetriebe wird eine besondere Betriebsrechnung geführt, wenn die Gemeinde durch übergeordnetes Recht dazu verpflichtet ist oder wenn sie es für die Überprüfung der Wirtschaftlichkeit als notwendig erachtet.
 
-**Gemeindesteuerfuss**
+<sup>2</sup> Die Betriebsrechnung wird beim Jahresabschluss in die allgemeine Gemeinderechnung einbezogen. Betriebsgewinne und ‑verluste können auf Spezialfinanzierungskonten vorgetragen werden. Sie dürfen eine für die Bedürfnisse des Betriebes angemessene Höhe nicht übersteigen. Dasselbe gilt auch für Aufgaben, die aufgrund des übergeordneten Rechts oder eines allgemein verbindlichen Gemeindereglements vollständig durch Abgaben finanziert werden und für die keine separate Betriebsrechnung geführt wird.
 
-<sup>2</sup> Die Betriebsrechnung wird beim Jahresabschluss in die allgemeine Gemeinderechnung einbezogen. Betriebsgewinne und -verluste können auf Spezialfinanzierungskonten vorgetragen werden. Sie dürfen eine für die Bedürfnisse des Betriebes angemessene Höhe nicht übersteigen. Dasselbe gilt auch für Aufgaben, die aufgrund des übergeordneten Rechts oder eines allgemein verbindlichen Gemeindereglements vollständig durch Abgaben finanziert werden und für die keine separate Betriebsrechnung geführt wird. <sup>23)</sup>
-
-<sup>3</sup> … <sup>33)</sup>
+<sup>3</sup> …
 
 #### Art. 76
 
 **Spezialfinanzierungen**
 
-Die Zweckbindung von Mitteln der Gemeinde ist wie eine Ausgabe zu beschliessen. Sie ist nur zulässig:
+<sup>1</sup> Die Zweckbindung von Mitteln der Gemeinde ist wie eine Ausgabe zu beschliessen. Sie ist nur zulässig:
 
-- a) zur Speisung von Fonds, die das übergeordnete Recht vorschreibt;
-
-- b) … <sup>36)</sup>
-
-- c) zur Speisung eines Fonds des Gemeinderechts, mit dem ausserordentliche Einnahmen wie Mittel aus Devestitionen einem besonderen Zweck gewidmet werden. Fonds mit allgemeiner Zweckbestimmung sind unzulässig. <sup>24)</sup>
+- a) zur Speisung von Fonds, die das übergeordnete Recht vorschreibt
+- b) …
+- c) zur Speisung eines Fonds des Gemeinderechts, mit dem ausserordentliche Einnahmen wie Mittel aus Devestitionen einem besonderen Zweck gewidmet werden. Fonds mit allgemeiner Zweckbestimmung sind unzulässig
 
 #### Art. 77
 
@@ -889,7 +840,7 @@ Die Zweckbindung von Mitteln der Gemeinde ist wie eine Ausgabe zu beschliessen. 
 
 #### Art. 78
 
-<sup>33)</sup>
+**…**
 
 #### Art. 79
 
@@ -897,75 +848,59 @@ Die Zweckbindung von Mitteln der Gemeinde ist wie eine Ausgabe zu beschliessen. 
 
 <sup>1</sup> Erfüllt eine Gemeinde öffentliche Aufgaben gemeinsam mit anderen Gemeinden, stellt sie ihren Anteil jährlich in die Rechnung ein.
 
-<sup>2</sup> Zweckverbände teilen die Betriebsgewinne oder -verluste sowie die Investitionslasten auf die Gemeinden auf. <sup>23)</sup>
+<sup>2</sup> Zweckverbände teilen die Betriebsgewinne oder ‑verluste sowie die Investitionslasten auf die Gemeinden auf.
 
-### c) Haushaltsführung
+### 3.1.3 Haushaltsführung
 
 #### Art. 80
 
-<sup>33)</sup>
+**…**
 
 #### Art. 81
 
-Der Gemeindesteuerfuss wird so angesetzt, dass er die Laufende Rechnung mittelfristig ausgleicht. Er kann niedriger angesetzt werden, wenn der Ausfall durch Eigenkapital oder Vorfinanzierungen gedeckt ist.
+**Gemeindesteuerfuss**
+
+<sup>1</sup> Der Gemeindesteuerfuss wird so angesetzt, dass er die Laufende Rechnung mittelfristig ausgleicht. Er kann niedriger angesetzt werden, wenn der Ausfall durch Eigenkapital oder Vorfinanzierungen gedeckt ist.
 
 #### Art. 82
 
 **Zeitpunkt der Festsetzung**
 
-<sup>1</sup> Budget <sup>31)</sup> und Steuerfuss müssen vor Beginn des Rechnungsjahres festgesetzt werden.
+<sup>1</sup> Budget und Steuerfuss müssen vor Beginn des Rechnungsjahres festgesetzt werden.
 
-<sup>2</sup> … <sup>33)</sup>
+<sup>2</sup> …
 
-<sup>3</sup> Wird das Budget <sup>31)</sup> mit dem Steuerfuss nicht genehmigt, so legt der Gemeinderat innert zwei Monaten nach der Verwerfung einen neuen Voranschlag vor. Bei abermaliger Verwerfung entscheidet der Regierungsrat und setzt den Steuerfuss fest.
+<sup>3</sup> Wird das Budget mit dem Steuerfuss nicht genehmigt, so legt der Gemeinderat innert zwei Monaten nach der Verwerfung einen neuen Voranschlag vor. Bei abermaliger Verwerfung entscheidet der Regierungsrat und setzt den Steuerfuss fest.
 
-#### Art. 83
+#### Art. 83–85
 
-<sup>33)</sup>
+**…**
 
-#### Art. 84
+### 3.1.4 Finanzausgleich
 
-<sup>33)</sup>
+#### Art. 86–87
 
-#### Art. 85
+**…**
 
-<sup>33)</sup>
-
-### d) Finanzausgleich
-
-#### Art. 86
-
-**-87 <sup>22)</sup>**
-
-- 2\. Einwohnerregister <sup>26)</sup>
+### 3.2 Einwohnerregister
 
 #### Art. 88
 
-<sup>26)</sup>
-
-**Grundsatz 26)**
+**Grundsatz**
 
 <sup>1</sup> Die Gemeinden führen das Einwohnerregister in elektronischer Form.
 
 <sup>2</sup> Der Inhalt des Einwohnerregisters richtet sich nach Art. 6 des Registerharmonisierungsgesetzes. Im Weiteren werden im Einwohnerregister geführt:
 
-- a) Andere Vor- und Nachnamen;
-
-- b) Name und Vornamen der Eltern;
-
-- c) Beschränkungen der Handlungsfähigkeit;
-
-- d) gesetzliche Vertreterin oder gesetzlicher Vertreter mit Zustelladresse;
-
-- e) Krankenversicherung oder Befreiung von der Krankenversicherungspflicht;
-
-- f) Feuerwehrpflicht;
-
-- g) Haushalt- und/oder Familiennummer;
-
-- h) bei Ausländerinnen und Ausländern: Nummer im Ausländerregister;
-
-- i) Beruf und Art der Erwerbstätigkeit.
+- a) Andere Vor- und Nachnamen
+- b) Name und Vornamen der Eltern
+- c) Beschränkungen der Handlungsfähigkeit
+- d) gesetzliche Vertreterin oder gesetzlicher Vertreter mit Zustelladresse
+- e) Krankenversicherung oder Befreiung von der Krankenversicherungspflicht
+- f) Feuerwehrpflicht
+- g) Haushalt- und/oder Familiennummer
+- h) bei Ausländerinnen und Ausländern: Nummer im Ausländerregister
+- i) Beruf und Art der Erwerbstätigkeit
 
 <sup>3</sup> Das für das Gemeindewesen zuständige Departement bestimmt die Merkmale, die Merkmalsausprägungen sowie die Nomenklaturen und Kodierschlüssel, soweit diese nicht durch das Bundesamt für Statistik festgelegt worden sind, sowie die erforderliche Historisierung der Daten.
 
@@ -973,9 +908,7 @@ Der Gemeindesteuerfuss wird so angesetzt, dass er die Laufende Rechnung mittelfr
 
 #### Art. 89
 
-<sup>26)</sup>
-
-**Meldepflicht 26)**
+**Meldepflicht**
 
 <sup>1</sup> Wer in eine Gemeinde zuzieht, in ihr umzieht oder aus der Gemeinde wegzieht, hat dies innert 14 Tagen der zur Führung des Einwohnerregisters zuständigen Stelle zu melden.
 
@@ -987,17 +920,13 @@ Der Gemeindesteuerfuss wird so angesetzt, dass er die Laufende Rechnung mittelfr
 
 #### Art. 89a
 
-<sup>27)</sup>
+**Wirkung der Meldung**
 
-**Wirkung der Meldung 27)**
-
-Wer verpflichtet ist, kommunalen oder kantonalen Stellen den Wohn- oder Aufenthaltsort beziehungsweise die Änderung der im Einwohnerregister geführten Daten mitzuteilen, hat seine Pflicht mit der Meldung gemäss Art. 89 gegenüber allen kommunalen Stellen sowie den kantonalen Stellen erfüllt, welche berechtigt sind, die kantonale Plattform «Personendaten» zu nutzen.
+<sup>1</sup> Wer verpflichtet ist, kommunalen oder kantonalen Stellen den Wohn- oder Aufenthaltsort beziehungsweise die Änderung der im Einwohnerregister geführten Daten mitzuteilen, hat seine Pflicht mit der Meldung gemäss Art. 89 gegenüber allen kommunalen Stellen sowie den kantonalen Stellen erfüllt, welche berechtigt sind, die kantonale Plattform «Personendaten» zu nutzen.
 
 #### Art. 90
 
-<sup>26)</sup>
-
-**Wahrheitspflicht 26)**
+**Wahrheitspflicht**
 
 <sup>1</sup> Die meldepflichtigen Personen sind zur wahrheitsgetreuen Auskunft über die im Einwohnerregister geführten Daten verpflichtet.
 
@@ -1005,23 +934,17 @@ Wer verpflichtet ist, kommunalen oder kantonalen Stellen den Wohn- oder Aufentha
 
 #### Art. 91
 
-<sup>26)</sup>
+**Auskunftspflicht**
 
-**Auskunftspflicht 26)**
+<sup>1</sup> Die nachfolgenden Personen erteilen auf Anfrage der zur Führung des Einwohnerregisters zuständigen Stelle unentgeltlich Auskunft über die meldepflichtige Person, wenn diese ihre Meldepflicht innert Frist nicht erfüllt hat:
 
-Die nachfolgenden Personen erteilen auf Anfrage der zur Führung des Einwohnerregisters zuständigen Stelle unentgeltlich Auskunft über die meldepflichtige Person, wenn diese ihre Meldepflicht innert Frist nicht erfüllt hat:
-
-- a) Arbeitgeber über die bei ihnen beschäftigten Personen;
-
-- b) Personen, die Liegenschaften vermieten, verpachten oder verwalten über einziehende, ausziehende und wohnhafte Mieterinnen und Mieter oder Pächterinnen und Pächter;
-
-- c) Logisgeber über die in ihrem Haushalt wohnenden Personen.
+- a) Arbeitgeber über die bei ihnen beschäftigten Personen
+- b) Personen, die Liegenschaften vermieten, verpachten oder verwalten über einziehende, ausziehende und wohnhafte Mieterinnen und Mieter oder Pächterinnen und Pächter
+- c) Logisgeber über die in ihrem Haushalt wohnenden Personen
 
 #### Art. 92
 
-<sup>26)</sup>
-
-**Wohnungsidentifikator und nummerierung 26)**
+**Wohnungsidentifikator und ‑nummerierung**
 
 <sup>1</sup> Industrielle Werke und andere Stellen, die über Daten zur Bestimmung oder Nachführung des Wohnungsidentifikators einer Person im Einwohnerregister verfügen, sind verpflichtet, diese auf Anfrage der registerführenden Stelle unentgeltlich zur Verfügung zu stellen.
 
@@ -1029,25 +952,19 @@ Die nachfolgenden Personen erteilen auf Anfrage der zur Führung des Einwohnerre
 
 #### Art. 93
 
-<sup>26)</sup>
+**Strafbestimmung**
 
-**Strafbestimmung 26)**
-
-Wer seine Melde-, die Wahrheits- oder Auskunftspflicht verletzt, wird im Rahmen der Strafbefugnis des Gemeinderates mit Busse bestraft.
+<sup>1</sup> Wer seine Melde-, die Wahrheits- oder Auskunftspflicht verletzt, wird im Rahmen der Strafbefugnis des Gemeinderates mit Busse bestraft.
 
 #### Art. 94
 
-<sup>26)</sup>
+**Übermittlung der Einwohnerregisterdaten bei Wegzug**
 
-**Übermittlung der Einwohnerregisterdaten bei Wegzug 26)**
-
-Zieht eine Person aus der Gemeinde weg, übermittelt die registerführende Stelle die Daten auf elektronischem Weg und in verschlüsselter Form der kantonalen Plattform «Personendaten» zur Weiterleitung an die neue registerführende Stelle nach Massgabe der vom Bundesrat erlassenen Modalitäten und Schnittstellen für den Datenaustausch.
+<sup>1</sup> Zieht eine Person aus der Gemeinde weg, übermittelt die registerführende Stelle die Daten auf elektronischem Weg und in verschlüsselter Form der kantonalen Plattform «Personendaten» zur Weiterleitung an die neue registerführende Stelle nach Massgabe der vom Bundesrat erlassenen Modalitäten und Schnittstellen für den Datenaustausch.
 
 #### Art. 95
 
-<sup>26)</sup>
-
-**Bekanntgabe von Einwohnerregisterdaten 26)**
+**Bekanntgabe von Einwohnerregisterdaten**
 
 <sup>1</sup> Der Gemeinderat bestimmt in einem allgemein verbindlichen Reglement die Bekanntgabe der Einwohnerregisterdaten an kommunale Stellen. Die Daten können in elektronischer Form zur Verfügung gestellt werden, wenn die Datensicherheit gewährleistet ist.
 
@@ -1059,9 +976,7 @@ Zieht eine Person aus der Gemeinde weg, übermittelt die registerführende Stell
 
 #### Art. 96
 
-<sup>26)</sup>
-
-**Personendatenplattform; Bezüger und Datenverknüpfung 34)**
+**Personendatenplattform; Bezüger und Datenverknüpfung**
 
 <sup>1</sup> Der Kanton führt die elektronische Plattform «Personendaten».
 
@@ -1071,35 +986,35 @@ Zieht eine Person aus der Gemeinde weg, übermittelt die registerführende Stell
 
 <sup>4</sup> Der Gemeinderat bezeichnet in einem allgemein verbindlichen Reglement die kommunalen Stellen, die für die Erfüllung ihrer Aufgaben die Personendaten der entsprechenden Gemeinden unentgeltlich nutzen können, und den Umfang der Nutzung.
 
-<sup>5</sup> Zum Abgleich der Daten einer Person kann auf der kantonalen Personendatenplattform der Personenidentifikator der Datensammlung des jeweiligen Datenbezügers als technisches Hilfsmittel geführt und der entsprechenden AHV-Nummer zugeordnet werden. Die Verknüpfung darf für die Datenbezüger nicht erkennbar sein. <sup>35)</sup>
+<sup>5</sup> Zum Abgleich der Daten einer Person kann auf der kantonalen Personendatenplattform der Personenidentifikator der Datensammlung des jeweiligen Datenbezügers als technisches Hilfsmittel geführt und der entsprechenden AHV-Nummer zugeordnet werden. Die Verknüpfung darf für die Datenbezüger nicht erkennbar sein.
 
 #### Art. 96a
 
-<sup>27)</sup>
+**Verordnung**
 
-**Verordnung 27)**
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Abschnittes und des Registerharmonisierungsgesetzes erforderlichen näheren Bestimmungen.
 
-Der Regierungsrat erlässt die zum Vollzug dieses Abschnittes und des Registerharmonisierungsgesetzes erforderlichen näheren Bestimmungen.
-
-- 3\. Erteilung des Gemeindebürgerrechts
+### 3.3 Erteilung des Gemeindebürgerrechts
 
 #### Art. 97
 
 **Erteilung des Bürgerrechts**
 
-Der Entscheid über die Erteilung des Gemeindebürgerrechts auf Antrag des Gemeinderates obliegt dem durch die Gemeindeverfassung bestimmten Organ der Einwohnergemeinde.
+<sup>1</sup> Der Entscheid über die Erteilung des Gemeindebürgerrechts auf Antrag des Gemeinderates obliegt dem durch die Gemeindeverfassung bestimmten Organ der Einwohnergemeinde.
 
 #### Art. 98
 
-**Einbürgerungskommission, Bürgerversammlung und Bürgerkommission 29)**
+**Einbürgerungskommission, Bürgerversammlung und Bürgerkommission**
 
-<sup>1</sup> Die Einbürgerungskommission besteht aus der in der Gemeindeverfassung bestimmten Anzahl von Stimmberechtigten. <sup>29)</sup> Die Bürgerversammlung besteht aus den Stimmberechtigten der 2 Gemeinde, die das Gemeindebürgerrecht besitzen. Sie wählt die Versammlungspräsidentin oder den -präsidenten, die Vizepräsidentin oder den -präsidenten sowie die erforderlichen Stimmenzählerinnen und Stimmenzähler.
+<sup>1</sup> Die Einbürgerungskommission besteht aus der in der Gemeindeverfassung bestimmten Anzahl von Stimmberechtigten.
+
+<sup>2</sup> Die Bürgerversammlung besteht aus den Stimmberechtigten der Gemeinde, die das Gemeindebürgerrecht besitzen. Sie wählt die Versammlungspräsidentin oder den ‑präsidenten, die Vizepräsidentin oder den ‑präsidenten sowie die erforderlichen Stimmenzählerinnen und Stimmenzähler.
 
 <sup>3</sup> Die Bürgerkommission besteht aus der in der Gemeindeverfassung bestimmten Anzahl von Stimmberechtigten, die das Gemeindebürgerrecht besitzen.
 
-<sup>4</sup> Die Gemeindeschreiberin oder der Gemeindeschreiber ist zuständig für das Protokoll. <sup>29)</sup>
+<sup>4</sup> Die Gemeindeschreiberin oder der Gemeindeschreiber ist zuständig für das Protokoll.
 
-- 4\. Gemeindearchiv
+### 3.4 Gemeindearchiv
 
 #### Art. 99
 
@@ -1109,9 +1024,9 @@ Der Entscheid über die Erteilung des Gemeindebürgerrechts auf Antrag des Gemei
 
 <sup>2</sup> Der Regierungsrat erlässt Vorschriften über die Einrichtung und Ordnung der Archive sowie die Aufsicht darüber und legt die Mindestdauer für die Aufbewahrung von Verwaltungsakten fest.
 
-## IV. Zusammenarbeit der Gemeinden
+## 4 Zusammenarbeit der Gemeinden
 
-### 1. Allgemeine Bestimmungen
+### 4.1 Allgemeine Bestimmungen
 
 #### Art. 100
 
@@ -1119,15 +1034,11 @@ Der Entscheid über die Erteilung des Gemeindebürgerrechts auf Antrag des Gemei
 
 <sup>1</sup> Die Gemeinden können zur gemeinsamen Erfüllung ihrer Aufgaben:
 
-- a) Zweckverbände errichten; <sup>23)</sup>
-
-- b) Aufgaben anderen Gemeinden übertragen;
-
-- c) gemeinsame Verwaltungsstellen, Einrichtungen und öffentlichrechtliche Anstalten schaffen;
-
-- d) Einrichtungen anderer Gemeinden benützen und deren Personal beanspruchen;
-
-- e) sich an Unternehmen des privaten Rechts beteiligen.
+- a) Zweckverbände errichten
+- b) Aufgaben anderen Gemeinden übertragen
+- c) gemeinsame Verwaltungsstellen, Einrichtungen und öffentlichrechtliche Anstalten schaffen
+- d) Einrichtungen anderer Gemeinden benützen und deren Personal beanspruchen
+- e) sich an Unternehmen des privaten Rechts beteiligen
 
 <sup>2</sup> Die Gemeinden begründen eine solche Zusammenarbeit durch den Abschluss entsprechender Verträge beziehungsweise mit der Zustimmung zur Verbandsordnung.
 
@@ -1145,23 +1056,21 @@ Der Entscheid über die Erteilung des Gemeindebürgerrechts auf Antrag des Gemei
 
 **Beteiligung weiterer Gemeinden**
 
-An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Gemeinden ausserhalb des Kantons beteiligen. Die Rechte der Aufsichtsorgane werden dadurch nicht berührt.
+<sup>1</sup> An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Gemeinden ausserhalb des Kantons beteiligen. Die Rechte der Aufsichtsorgane werden dadurch nicht berührt.
 
 #### Art. 103
 
 **Beteiligung an ausserkantonalen Einrichtungen**
 
-<sup>1</sup> Die Gemeinden können sich an Zweck- beziehungsweise Gemeindeverbänden von Gemeinden ausserhalb des Kantons beteiligen und Verträge über die Benützung von Einrichtungen und die Beanspruchung von Personal ausserkantonaler Gemeinden abschliessen. <sup>23)</sup>
+<sup>1</sup> Die Gemeinden können sich an Zweck- beziehungsweise Gemeindeverbänden von Gemeinden ausserhalb des Kantons beteiligen und Verträge über die Benützung von Einrichtungen und die Beanspruchung von Personal ausserkantonaler Gemeinden abschliessen.
 
 <sup>2</sup> Die entsprechenden Vereinbarungen bedürfen der Genehmigung des Regierungsrates.
 
 <sup>3</sup> Vorbehalten bleiben staatsvertragliche Regelungen.
 
-- 2\. Zweckverband <sup>23)</sup>
+### 4.2 Zweckverband
 
 #### Art. 104
-
-<sup>23)</sup>
 
 **Rechtsnatur**
 
@@ -1173,8 +1082,6 @@ An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Ge
 
 #### Art. 105
 
-<sup>23)</sup>
-
 **Gründung**
 
 <sup>1</sup> Der Zweckverband wird durch Vereinbarung zwischen den beteiligten Gemeinden und durch Genehmigung der Verbandsordnung begründet.
@@ -1185,31 +1092,20 @@ An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Ge
 
 #### Art. 106
 
-<sup>23)</sup>
-
 **Verbandsordnung**
 
 <sup>1</sup> Die Verbandsordnung hat Bestimmungen zu enthalten über:
 
-- a) Name, Sitz und Zweck des Verbandes;
-
-- b) angeschlossene Gemeinden und deren Rechte und Pflichten;
-
-- c) Bezeichnung, Zusammensetzung, Wahl und Einberufung der Verbandsorgane;
-
-- d) Befugnisse der Verbandsorgane und Mitwirkungsrechte der Vertragsparteien;
-
-- e) Beschlussfassung innerhalb der Verbandsorgane;
-
-- f) Beschaffung der finanziellen Mittel;
-
-- g) die Mitwirkungsrechte der Stimmberechtigen;
-
-- h) Voraussetzungen und Verfahren für Beitritt und Austritt;
-
-- i) Verfahren bei Auflösung des Verbandes und ihre Folgen;
-
-- j) Verfahren zur Änderung der Verbandsordnung.
+- a) Name, Sitz und Zweck des Verbandes
+- b) angeschlossene Gemeinden und deren Rechte und Pflichten
+- c) Bezeichnung, Zusammensetzung, Wahl und Einberufung der Verbandsorgane
+- d) Befugnisse der Verbandsorgane und Mitwirkungsrechte der Vertragsparteien
+- e) Beschlussfassung innerhalb der Verbandsorgane
+- f) Beschaffung der finanziellen Mittel
+- g) die Mitwirkungsrechte der Stimmberechtigen
+- h) Voraussetzungen und Verfahren für Beitritt und Austritt
+- i) Verfahren bei Auflösung des Verbandes und ihre Folgen
+- j) Verfahren zur Änderung der Verbandsordnung
 
 <sup>2</sup> Der Aufbau des Verbandes richtet sich nach dem Grundsatz der Gewaltenteilung (Art. 8 KV). Unter Vorbehalt der Verbandsordnung gilt für das Exekutivorgan Art. 52 Abs. 3 sinngemäss.
 
@@ -1219,8 +1115,6 @@ An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Ge
 
 #### Art. 107
 
-<sup>23)</sup>
-
 **Mittelbeschaffung und Haushalt**
 
 <sup>1</sup> Der Zweckverband erhebt von den beteiligten Gemeinden gemäss der Verbandsordnung Beiträge, soweit er seine Ausgaben nicht aus Gebühren oder anderen Einnahmen decken kann.
@@ -1228,8 +1122,6 @@ An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Ge
 <sup>2</sup> Der Zweckverband untersteht den Vorschriften über den Gemeindehaushalt und das Rechnungswesen.
 
 #### Art. 108
-
-<sup>23)</sup>
 
 **Haftung**
 
@@ -1241,8 +1133,6 @@ An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Ge
 
 #### Art. 109
 
-<sup>23)</sup>
-
 **Reglemente und Verfügungen**
 
 <sup>1</sup> Der Zweckverband erlässt die zur Erfüllung seiner Aufgaben notwendigen Reglemente und trifft die entsprechenden Verfügungen.
@@ -1251,15 +1141,11 @@ An der Zusammenarbeit können sich nach den Grundsätzen dieses Gesetzes auch Ge
 
 #### Art. 110
 
-<sup>23)</sup>
-
 **Anschluss weiterer Gemeinden**
 
-Der Zweckverband ist nach Möglichkeit als offener Verband einzurichten.
+<sup>1</sup> Der Zweckverband ist nach Möglichkeit als offener Verband einzurichten.
 
 #### Art. 110a
-
-<sup>24)</sup>
 
 **Gemeindezusammenschluss**
 
@@ -1269,8 +1155,6 @@ Der Zweckverband ist nach Möglichkeit als offener Verband einzurichten.
 
 #### Art. 111
 
-<sup>23)</sup>
-
 **Austritt**
 
 <sup>1</sup> Eine Gemeinde kann aus dem Zweckverband austreten, wenn dies die Erfüllung der Verbandsaufgaben nicht übermässig erschwert.
@@ -1279,31 +1163,26 @@ Der Zweckverband ist nach Möglichkeit als offener Verband einzurichten.
 
 #### Art. 112
 
-<sup>23)</sup>
-
 **Auflösung**
 
 <sup>1</sup> Der Zweckverband wird aufgelöst:
 
-- a) nach den Bestimmungen der Verbandsordnung;
-
-- b) durch Beschluss des Regierungsrates, wenn die Aufgaben des Verbandes unbedeutend geworden sind, zweckmässiger ohne Verband erfüllt werden können, oder wenn er funktionsunfähig geworden ist und sich der rechtmässige Zustand innert angemessener Frist nicht erreichen lässt. Der Beschluss bedarf der Genehmigung durch den Kantonsrat.
+- a) nach den Bestimmungen der Verbandsordnung
+- b) durch Beschluss des Regierungsrates, wenn die Aufgaben des Verbandes unbedeutend geworden sind, zweckmässiger ohne Verband erfüllt werden können, oder wenn er funktionsunfähig geworden ist und sich der rechtmässige Zustand innert angemessener Frist nicht erreichen lässt. Der Beschluss bedarf der Genehmigung durch den Kantonsrat
 
 <sup>2</sup> Die Liquidation obliegt den Verbandsorganen.
 
-- 3\. Andere Formen der Zusammenarbeit
+### 4.3 Andere Formen der Zusammenarbeit
 
 #### Art. 113
 
 **Gemeindevertrag**
 
-Der zwischen den beteiligten Gemeinden abgeschlossene Vertrag hat Bestimmungen zu enthalten über:
+<sup>1</sup> Der zwischen den beteiligten Gemeinden abgeschlossene Vertrag hat Bestimmungen zu enthalten über:
 
-Art und Umfang der Zusammenarbeit;
-
-die Finanzierung;
-
-die Auflösung.
+- a) Art und Umfang der Zusammenarbeit
+- b) die Finanzierung
+- c) die Auflösung
 
 #### Art. 114
 
@@ -1315,9 +1194,9 @@ die Auflösung.
 
 <sup>3</sup> Bei der Benützung von Einrichtungen und der Beanspruchung von Personal einer anderen Gemeinde bleibt die auftraggebende Gemeinde verantwortlich.
 
-## V. Aufsicht und Rechtsschutz
+## 5 Aufsicht und Rechtsschutz
 
-### 1. Aufsicht
+### 5.1 Aufsicht
 
 #### Art. 115
 
@@ -1327,11 +1206,9 @@ die Auflösung.
 
 <sup>2</sup> Aufsichtsorgane sind:
 
-- a) der Kantonsrat <sup>21)</sup> ; in den vom Gesetz vorgesehenen Fällen;
-
-- b) der Regierungsrat;
-
-- c) das für Gemeindeangelegenheiten zuständige Departement, sofern kein anderes Departement sachlich zuständig ist.
+- a) der Kantonsrat; in den vom Gesetz vorgesehenen Fällen
+- b) der Regierungsrat
+- c) das für Gemeindeangelegenheiten zuständige Departement, sofern kein anderes Departement sachlich zuständig ist
 
 <sup>3</sup> Das für Gemeindeangelegenheiten zuständige Departement kontrolliert regelmässig die Amts- und Verwaltungsführung der Gemeinden.
 
@@ -1339,7 +1216,7 @@ die Auflösung.
 
 **Auskunftspflicht der Gemeinde**
 
-Den Aufsichtsorganen sind alle verlangten Akten vorzulegen und Auskünfte zu erteilen.
+<sup>1</sup> Den Aufsichtsorganen sind alle verlangten Akten vorzulegen und Auskünfte zu erteilen.
 
 #### Art. 117
 
@@ -1353,7 +1230,7 @@ Den Aufsichtsorganen sind alle verlangten Akten vorzulegen und Auskünfte zu ert
 
 #### Art. 118
 
-**Genehmigungsvorbehalt 1. Allgemeines**
+**Genehmigungsvorbehalt: Allgemeines**
 
 <sup>1</sup> Die Gemeindeverfassung bedarf zu ihrer Gültigkeit der Genehmigung des Regierungsrates.
 
@@ -1363,21 +1240,19 @@ Den Aufsichtsorganen sind alle verlangten Akten vorzulegen und Auskünfte zu ert
 
 #### Art. 119
 
-**2. Besondere Genehmigungen**
+**Genehmigungsvorbehalt: Besondere Genehmigungen**
 
-Eine Genehmigung durch das für Gemeindeangelegenheiten zuständige Departement ist erforderlich für:
+<sup>1</sup> Eine Genehmigung durch das für Gemeindeangelegenheiten zuständige Departement ist erforderlich für:
 
-- a) das Budget <sup>31)</sup> mit der Festsetzung des Steuerfusses;
-
-- b) die Gemeinderechnung;
-
-- c) Reglemente über Gemeindeanstalten.
+- a) das Budget mit der Festsetzung des Steuerfusses
+- b) die Gemeinderechnung
+- c) Reglemente über Gemeindeanstalten
 
 #### Art. 120
 
 **Ermahnung**
 
-Wird ein Missstand in der Gemeindeverwaltung oder eine Vernachlässigung öffentlicher Aufgaben festgestellt, mahnt der Regierungsrat den Gemeinderat, Abhilfe zu schaffen.
+<sup>1</sup> Wird ein Missstand in der Gemeindeverwaltung oder eine Vernachlässigung öffentlicher Aufgaben festgestellt, mahnt der Regierungsrat den Gemeinderat, Abhilfe zu schaffen.
 
 #### Art. 121
 
@@ -1391,27 +1266,24 @@ Wird ein Missstand in der Gemeindeverwaltung oder eine Vernachlässigung öffent
 
 **Massnahmen des Regierungsrates**
 
-Der Regierungsrat kann nach fruchtloser Mahnung oder nach Abschluss der Untersuchung, in dringenden oder offenkundigen Fällen auch ohne Verzug, die folgenden Massnahmen treffen:
+<sup>1</sup> Der Regierungsrat kann nach fruchtloser Mahnung oder nach Abschluss der Untersuchung, in dringenden oder offenkundigen Fällen auch ohne Verzug, die folgenden Massnahmen treffen:
 
-- a) Aufhebung von Beschlüssen, Verfügungen oder Wahlen;
-
-- b) Erteilung verbindlicher Weisungen;
-
-- c) ersatzweiser Erlass von Beschlüssen, Reglementen, Verfügungen und ersatzweise Durchführung von Wahlen;
-
-- d) Suspendierung von Gemeindeorganen oder Behördemitgliedern im Amt.
+- a) Aufhebung von Beschlüssen, Verfügungen oder Wahlen
+- b) Erteilung verbindlicher Weisungen
+- c) ersatzweiser Erlass von Beschlüssen, Reglementen, Verfügungen und ersatzweise Durchführung von Wahlen
+- d) Suspendierung von Gemeindeorganen oder Behördemitgliedern im Amt
 
 #### Art. 123
 
-**Entzug der Selbstverwaltung 1. Zuständigkeit**
+**Entzug der Selbstverwaltung: Zuständigkeit**
 
-<sup>1</sup> In besonders schweren Fällen kann der Kantonsrat <sup>21)</sup> einer Gemeinde vorübergehend das Recht auf Selbstverwaltung ganz oder teilweise entziehen.
+<sup>1</sup> In besonders schweren Fällen kann der Kantonsrat einer Gemeinde vorübergehend das Recht auf Selbstverwaltung ganz oder teilweise entziehen.
 
-<sup>2</sup> Der Regierungsrat kann die nötigen vorsorglichen Massnahmen bis zum Entscheid des Kantonsrates <sup>21)</sup> treffen.
+<sup>2</sup> Der Regierungsrat kann die nötigen vorsorglichen Massnahmen bis zum Entscheid des Kantonsrates treffen.
 
 #### Art. 124
 
-**2. Sachwalterin und Sachwalter**
+**Entzug der Selbstverwaltung: Sachwalterin und Sachwalter**
 
 <sup>1</sup> Der Regierungsrat bestellt für die Gemeinde eine oder mehrere Sachwalterinnen oder einen oder mehrere Sachwalter, welche anstelle der Gemeindebehörden die Gemeindeverwaltung besorgen.
 
@@ -1421,17 +1293,15 @@ Der Regierungsrat kann nach fruchtloser Mahnung oder nach Abschluss der Untersuc
 
 **Kosten**
 
-Die Kosten der Untersuchung sowie der angeordneten Massnahmen hat die Gemeinde zu tragen, die hierfür Anlass gegeben hat.
+<sup>1</sup> Die Kosten der Untersuchung sowie der angeordneten Massnahmen hat die Gemeinde zu tragen, die hierfür Anlass gegeben hat.
 
 #### Art. 126
 
-<sup>23)</sup>
-
 **Aufsicht über interkommunale Organisationen**
 
-Der Zweckverband und die übrigen der Zusammenarbeit der Gemeinden dienenden öffentlichrechtlichen Organisationen unterliegen wie die Gemeinden der Staatsaufsicht.
+<sup>1</sup> Der Zweckverband und die übrigen der Zusammenarbeit der Gemeinden dienenden öffentlichrechtlichen Organisationen unterliegen wie die Gemeinden der Staatsaufsicht.
 
-- 2\. Rechtsschutz
+### 5.2 Rechtsschutz
 
 #### Art. 127
 
@@ -1439,13 +1309,16 @@ Der Zweckverband und die übrigen der Zusammenarbeit der Gemeinden dienenden öf
 
 <sup>1</sup> Beschlüsse der Gemeinde und des Einwohnerrates können innert 20 Tagen von den Gemeindebehörden, von Stimmberechtigten und von Personen, die ein schutzwürdiges Interesse daran haben, mit Beschwerde beim Regierungsrat angefochten werden:
 
-- a) wenn sie gegen gesetzliche Bestimmungen verstossen oder wenn Beschlüsse des Einwohnerrates mit einem Gemeindebeschluss in Widerspruch stehen;
+- a) wenn sie gegen gesetzliche Bestimmungen verstossen oder wenn Beschlüsse des Einwohnerrates mit einem Gemeindebeschluss in Widerspruch stehen
+- b) wenn sie offenbar über die Zwecke der Gemeinde hinausgehen und zugleich eine erhebliche Belastung der Steuerpflichtigen zur Folge haben
 
-- b) wenn sie offenbar über die Zwecke der Gemeinde hinausgehen und zugleich eine erhebliche Belastung der Steuerpflichtigen zur Folge haben.
+<sup>2</sup> Vorbehalten bleiben Art. 82<sup>bis</sup> des Wahlgesetzes[^127-1] und Art. 51 des Verwaltungsrechtspflegegesetzes[^127-2].
 
-<sup>2</sup> Vorbehalten bleiben Art. 82<sup>bis</sup> des Wahlgesetzes <sup>2)</sup> und Art. 51 des Verwaltungsrechtspflegegesetzes <sup>3)</sup>.
+<sup>3</sup> Das Verfahren richtet sich nach den Art. 16 ff. des Verwaltungsrechtspflegegesetzes[^127-3].
 
-<sup>3</sup> Das Verfahren richtet sich nach den Art. 16 ff. des Verwaltungsrechtspflegegesetzes <sup>3)</sup>.
+[^127-1]: SHR [160.100](https://rechtsbuch.sh.ch/data/160.100/de).
+[^127-2]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
+[^127-3]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 128
 
@@ -1453,7 +1326,9 @@ Der Zweckverband und die übrigen der Zusammenarbeit der Gemeinden dienenden öf
 
 <sup>1</sup> Anordnungen einer unteren Gemeindebehörde können bei dem in der Sache zuständigen obersten Gemeindeorgan angefochten werden.
 
-<sup>2</sup> Gegen die Anordnungen und Entscheide des obersten zuständigen Gemeindeorgans kann Rekurs gemäss Art. 16 Abs. 2 des Verwaltungsrechtspflegegesetzes <sup>3)</sup> an den Regierungsrat erhoben werden.
+<sup>2</sup> Gegen die Anordnungen und Entscheide des obersten zuständigen Gemeindeorgans kann Rekurs gemäss Art. 16 Abs. 2 des Verwaltungsrechtspflegegesetzes[^128-1] an den Regierungsrat erhoben werden.
+
+[^128-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 129
 
@@ -1463,163 +1338,50 @@ Der Zweckverband und die übrigen der Zusammenarbeit der Gemeinden dienenden öf
 
 <sup>2</sup> Jedermann kann zudem Tatsachen, die im öffentlichen Interesse ein Einschreiten gegen eine Gemeindebehörde von Amtes wegen erfordern, dem Regierungsrat anzeigen.
 
-<sup>3</sup> Das Verfahren richtet sich nach dem Verwaltungsrechtspflegegesetz <sup>3)</sup>.
+<sup>3</sup> Das Verfahren richtet sich nach dem Verwaltungsrechtspflegegesetz[^129-1].
+
+[^129-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 130
 
-<sup>23)</sup>
-
 **Entscheide der interkommunalen Organisationen**
 
-Die Anordnungen und Entscheide der Zweckverbände sowie der übrigen der Zusammenarbeit dienenden öffentlichrechtlichen Organisationen sind nach den Vorschriften dieses Abschnittes anfechtbar.
+<sup>1</sup> Die Anordnungen und Entscheide der Zweckverbände sowie der übrigen der Zusammenarbeit dienenden öffentlichrechtlichen Organisationen sind nach den Vorschriften dieses Abschnittes anfechtbar.
 
 #### Art. 131
 
 **Sonderregelungen**
 
-Abweichende Bestimmungen über besondere Gegenstände und Zuständigkeiten bleiben vorbehalten.
+<sup>1</sup> Abweichende Bestimmungen über besondere Gegenstände und Zuständigkeiten bleiben vorbehalten.
 
-## VI. Schlussbestimmungen
+## 6 Schlussbestimmungen
 
-### 1. Änderung bisherigen Rechts
+### 6.1 Änderung bisherigen Rechts
 
 #### Art. 132
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^132-1]**
 
-Die nachstehenden Gesetze werden wie folgt geändert:
+[^132-1]: Gegenstandslos.
 
-- a) das Gesetz über die vom Volke vorzunehmenden Abstimmungen und Wahlen sowie über die Ausübung der Volksrechte (Wahlgesetz) vom 15. März 1904 <sup>2)</sup>:
-
-#### Art. 2
-
-**lit. c**
-
-Dieses Gesetz ist massgebend für das Verfahren bei:
-
-- c) den Abstimmungen und Wahlen in der Einwohnergemeinde.
-
-#### Art. 6
-
-**lit. a**
-
-Unter Vorbehalt von Art. 5 der Kantonsverfassung sind stimm- und wahlberechtigt:
-
-- a) bei Abstimmungen und Wahlen in der Bürgerversammlung: die am Heimatort wohnhaften Bürger;
-
-#### Art. 9
-
-**Satz 1**
-
-Die Teilnahme an den eidgenössischen, kantonalen und Gemeindeabstimmungen und Wahlen sowie an den Versammlungen der Einwohnergemeinde ist bis zum 65. Altersjahr obligatorisch.
-
-#### Art. 17
-
-Die Einwohnergemeinde dient zur Ausübung der eidgenössischen, kantonalen und örtlichen politischen Rechte.
-
-#### Art. 30
-
-**Abs. 2**
-
-<sup>2</sup> Die Abstimmungen in der Gemeinde finden in der Gemeindeversammlung statt, soweit nicht das Gesetz oder die Gemeindeverfassung die Urnenabstimmung vorsieht.
-
-#### Art. 31
-
-**Aufgehoben**
-
-#### Art. 32
-
-**Abs. 1 und 2**
-
-Aufgehoben
-
-#### Art. 33
-
-**- Art. 42**
-
-Aufgehoben
-
-#### Art. 45
-
-Unter Vorbehalt von Art. 6 Gemeindegesetz regelt die Gemeindeverfassung, welche Wahlen in der Gemeindeversammlung oder an der Urne erfolgen.
-
-#### Art. 64
-
-Die Wahlen in den Gemeinden gemäss Art. 6 Gemeindegesetz sowie die Bezirkswahlen sind der Staatskanzlei zur Kenntnis zu bringen.
-
-- b) das Gesetz über die Durchführung von Wahlen ohne Wahlgang (stille Wahlen) vom 19. November 1956 <sup>9)</sup>:
-
-#### Art. 7
-
-Die Gemeinden können durch die Gemeindeverfassung auch für bestimmte Gemeindewahlen die Wahl ohne Wahlgang nach den Vorschriften dieses Gesetzes einführen.
-
-- c) das Bürgerrechtsgesetz vom 23. September 1991 <sup>10)</sup>:
-
-#### Art. 6
-
-Die Gemeinde regelt die Zuständigkeit zur Erteilung des Gemeindebürgerrechts. Das Kantonsbürgerrecht wird durch den Kantonsrat <sup>21)</sup> erteilt.
-
-#### Art. 7
-
-**Abs. 3**
-
-<sup>3</sup> Besitzen die Bewerberinnen oder Bewerber bereits das Kantonsbürgerrecht, so wird das Gemeindebürgerrecht mit dessen Verleihung rechtswirksam.
-
-#### Art. 13
-
-**Marginalie und Abs. 1**
-
-**Reglement**
-
-<sup>1</sup> Die Einwohnergemeinde stellt innerhalb der Schranken der eidgenössischen und kantonalen Gesetze ein Reglement über den Erwerb des Gemeindebürgerrechts auf.
-
-#### Art. 17
-
-**Abs. 2**
-
-<sup>2</sup> Die Einbürgerungsgebühren werden durch Dekret des Kantonsrates <sup>21)</sup> geregelt. Darin wird auch der Rahmen für die von den Einwohnergemeinden zu erhebenden Einbürgerungsgebühren festgesetzt, welche im einzelnen im von der Einwohnergemeinde zu erlassenden Reglement festzulegen sind.
-
-- d) das Gesetz über die direkten Steuern vom 17. Dezember 1956 <sup>11)</sup>:
-
-#### Art. 23
-
-**Ziff. I lit. e**
-
-Vom rohen Einkommen werden abgezogen I. bei allen steuerpflichtigen Personen
-
-- e) Zuwendungen an den Kanton und die Schaffhauser Einwohner- und Kirchgemeinden und deren Anstalten;
-
-### Dritter Teil
-
-Ausgleichsfonds für finanz- und steuerschwache Gemeinden
-
-Aufgehoben
-
-#### Art. 159
-
-**und Art. 160**
-
-Aufgehoben
-
-- 2\. Aufhebung bisherigen Rechts
+### 6.2 Aufhebung bisherigen Rechts
 
 #### Art. 133
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 
-- a) das Gesetz über das Gemeindewesen für den Kanton Schaffhausen (Gemeindegesetz) vom 9. Juli 1892 <sup>12)</sup>;
+- a) das Gesetz über das Gemeindewesen für den Kanton Schaffhausen (Gemeindegesetz) vom 9. Juli 1892
+- b) das Gesetz betreffend die Schaffung von römisch-katholischen Kirchgemeinden vom 13. November 1967
 
-- b) das Gesetz betreffend die Schaffung von römisch-katholischen Kirchgemeinden vom 13. November 1967 <sup>13)</sup>.
-
-- 3\. Übergangsbestimmungen
+### 6.3 Übergangsbestimmungen
 
 #### Art. 134
 
 **Anpassung der Gemeindeverfassung**
 
-Die Gemeinden haben ihre Verfassungen innert drei Jahren seit dem Inkrafttreten diesem Gesetz anzupassen.
+<sup>1</sup> Die Gemeinden haben ihre Verfassungen innert drei Jahren seit dem Inkrafttreten diesem Gesetz anzupassen.
 
 #### Art. 135
 
@@ -1635,7 +1397,7 @@ Die Gemeinden haben ihre Verfassungen innert drei Jahren seit dem Inkrafttreten 
 
 **Bestimmungen über Wahlen**
 
-Die Bestimmungen dieses Gesetzes über die Wahlfähigkeit und die Unvereinbarkeiten bei der Wahl von Organen, Behörden und Kommissionen gelangen erstmals bei deren ganzer oder teilweiser Neubestellung zur Anwendung; diejenigen über die Zahl der Mitglieder bei der nächsten Gesamterneuerung.
+<sup>1</sup> Die Bestimmungen dieses Gesetzes über die Wahlfähigkeit und die Unvereinbarkeiten bei der Wahl von Organen, Behörden und Kommissionen gelangen erstmals bei deren ganzer oder teilweiser Neubestellung zur Anwendung; diejenigen über die Zahl der Mitglieder bei der nächsten Gesamterneuerung.
 
 #### Art. 137
 
@@ -1645,92 +1407,31 @@ Die Bestimmungen dieses Gesetzes über die Wahlfähigkeit und die Unvereinbarkei
 
 <sup>2</sup> Der Abschreibungssatz vom Restbuchwert beträgt jedoch mindestens:
 
-**5 Prozent 6 Prozent 7 Prozent 8 Prozent 9 Prozent.**
-
-im ersten Jahr nach dem Inkrafttreten im zweiten Jahr nach dem Inkrafttreten im dritten Jahr nach dem Inkrafttreten im vierten Jahr nach dem Inkrafttreten im fünften Jahr nach dem Inkrafttreten
+- a) im ersten Jahr nach dem Inkrafttreten: — 5 Prozent
+- b) im zweiten Jahr nach dem Inkrafttreten: — 6 Prozent
+- c) im dritten Jahr nach dem Inkrafttreten: — 7 Prozent
+- d) im vierten Jahr nach dem Inkrafttreten: — 8 Prozent
+- e) im fünften Jahr nach dem Inkrafttreten: — 9 Prozent
 
 #### Art. 138
 
 **Kirchen**
 
-Die Benützungsrechte der Kirchgemeinden an den im Eigentum der Gemeinden stehenden Kirchen und deren Zubehör bleiben im bisherigen Umfang gewahrt.
+<sup>1</sup> Die Benützungsrechte der Kirchgemeinden an den im Eigentum der Gemeinden stehenden Kirchen und deren Zubehör bleiben im bisherigen Umfang gewahrt.
 
-- 4\. Inkrafttreten
+### 6.4 Inkrafttreten
 
 #### Art. 139
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz wird nach der Annahme durch das Volk vom Regierungsrat in Kraft gesetzt. <sup>14)</sup>
+<sup>1</sup> Dieses Gesetz wird nach der Annahme durch das Volk vom Regierungsrat in Kraft gesetzt[^139-1].
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen <sup>15)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^139-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
 <sup>3</sup> Sofern das gleichzeitig mit diesem Gesetz der Volksabstimmung unterbreitete Verfassungsgesetz über die Änderung der Kantonsverfassung (Gemeindewesen) vom 17. August 1998 verworfen wird, fällt es dahin.
 
-Fussnoten:
+[^139-1]: In Kraft getreten am 1. Februar 2000 (Amtsblatt 1999, S. 1119).
+[^139-2]: Amtsblatt 1999, S. 1123.
 
-- 1) SHR 101.100.
-
-- 2) SHR 160.100.
-
-- 3) SHR 172.200.
-
-- 4) SHR 180.100.
-
-- 5) SHR 170.300.
-
-- 6) SHR 171.110.
-
-- 7) SHR 161.111.
-
-- 8) SHR 611.100.
-
-- 9) SHR 160.200.
-
-- 10) SHR 141.100.
-
-- 11) SHR 641.100.
-
-- 12) SHR 120.100.
-
-- 13) SHR 132.300.
-
-- 14) In Kraft getreten am 1. Februar 2000 (Amtsblatt 1999, S. 1119).
-
-- 15) Amtsblatt 1999, S. 1123.
-
-- 16) Fassung gemäss G vom 21. Februar 2000, in Kraft getreten am 1. Januar 2001 (Amtsblatt 2000, S. 1354, 1355).
-
-- 18) Aufgehoben durch G vom 22. September 2003, in Kraft getreten am 1. Januar 2004 (Amtsblatt 2003, S. 1387; 2004, S. 33).
-
-- 19) Fassung gemäss G vom 8. Dezember 2003, in Kraft getreten am 1. Januar 2005 (Amtsblatt 2003, S. 1747; 2004, S. 1918).
-
-- 21) Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-
-- 22) Aufgehoben durch G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 735, S. 1263).
-
-- 23) Fassung gemäss G vom 22. Januar 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 115, S. 900).
-
-- 24) Eingefügt durch G vom 22. Januar 2007, in Kraft getreten am 1. Juli 2007 (Amtsblatt 2007, S. 115, S. 900).
-
-- 26) Fassung gemäss G vom 27. Oktober 2008, in Kraft getreten am 1. April 2009 (Amtsblatt 2008, S. 1591, 2009, S. 290); von der Bundeskanzlei genehmigt am 16. März 2009.
-
-- 27) Eingefügt durch G vom 27. Oktober 2008, in Kraft getreten am 1. April 2009 (Amtsblatt 2008, S. 1591, 2009, S. 290); von der Bundeskanzlei genehmigt am 16. März 2009.
-
-- 28) Fassung gemäss G vom 21. November 2011, in Kraft getreten am 1. Januar 2013 (Amtsblatt 2011, S. 1591, Amtsblatt 2012, S. 320).
-
-- 29) Fassung gemäss G vom 21. Januar 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 137, S. 670).
-
-- 30) Aufgehoben durch G vom 22. August 2016, in Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1301, S. 1900).
-
-- 31) Fassung gemäss G vom 20. Februar 2017, in Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 335, S. 866).
-
-- 32) Eingefügt durch G vom 20. Februar 2017, in Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 335, S. 866).
-
-- 33) Aufgehoben durch G vom 20. Februar 2017, in Kraft getreten am 1. Januar 2018 (Amtsblatt 2017, S. 335, S. 866).
-
-- 34) Fassung gemäss G vom 8. März 2021, in Kraft getreten am 1. August 2021 (Amtsblatt 2021, S. 462, S. 1304).
-
-- 35) Eingefügt durch G vom 8. März 2021, in Kraft getreten am 1. August 2021 (Amtsblatt 2021, S. 462, S. 1304).
-
-- 36) Aufgehoben durch G vom 15. Mai 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 902, S. 2119).
+Abl. 1999, S. 1123
