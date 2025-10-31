@@ -4,11 +4,11 @@ title: "Ordonnance du 2 novembre 2022 sur les améliorations structurelles dans 
 short: OAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: fr
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/fr"
 
 (Ordonnance sur les améliorations structurelles, OAS)
 
-du 2 novembre 2022 (État le 1<sup>er</sup> janvier 2025)
+du 2 novembre 2022 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 89, al. 2, 93, al. 4, 95, al. 2, 96, al. 3, 97, al. 6, 104, al. 3, 1
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Chapitre 1 Objet et formes des aides financières
 
@@ -150,8 +150,8 @@ Dans les cas suivants, une taille d’au moins 0,60 UMOS est suffisante:
 <sup>5</sup> En complément des facteurs UMOS fixés à l’art. 3 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^6-2], les facteurs UMOS fixés à l’art. 2*a* de l’ordonnance du 4 octobre 1993 sur le droit foncier rural[^6-3] s’appliquent également pour déterminer la taille de l’exploitation.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^6-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6-3]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+[^6-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^6-3]: [RS 211.412.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5758)
 
 #### Art. 7
 
@@ -273,7 +273,7 @@ Des crédits d’investissement sont octroyés pour:
 
 <sup>5</sup> Le canton peut compenser les remboursements annuels par les contributions visées dans la présente ordonnance et dans l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^13-1].
 
-[^13-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^13-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ## Chapitre 3 Mesures de génie rural
 
@@ -320,8 +320,8 @@ Afin d’accompagner les mesures visées à l’art. 14, des aides financières 
 - a. les mesures de reconstitution ou de remplacement en cas d’atteintes aux biotopes dignes de protection visées à l’art. 18, al. 1<sup>ter</sup>, de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^15-1] et les mesures de remplacement visées à l’art. 7 de la loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les chemins de randonnée pédestre[^15-2];
 - b. d’autres mesures visant à revaloriser la nature et le paysage ou à remplir d’autres exigences de la législation sur la protection de l’environnement, sur la protection de la nature et du paysage, et sur la chasse, notamment la promotion de la biodiversité, de la qualité du paysage et de la gestion des grands prédateurs.
 
-[^15-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^15-2]: [RS 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
+[^15-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^15-2]: [RS 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
 
 #### Art. 16
 
@@ -381,7 +381,7 @@ La remise en état périodique visée à l’al. 1, let. c, comprend:
 
 Des contributions sont octroyées pour les mesures individuelles si les conditions liées au versement des paiements directs fixées dans l’OPD[^19-1] sont remplies.
 
-[^19-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -449,7 +449,7 @@ Ne sont notamment pas imputables:
 
 [^23-1]: Introduite par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^23-3]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^23-3]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 
 #### Art. 24
 
@@ -471,8 +471,8 @@ Ne sont notamment pas imputables:
 <tr><td>b. drainages agricoles, par km</td><td>5 000</td></tr>
 <tr><td>c. murs de pierres sèches qui ont un usage agricole, par m<sup>2</sup> de mur:</td><td></td></tr>
 <tr><td>1. murs de pierre sèche de terrasses:</td><td></td></tr>
-<tr><td>[tab] – mur jusqu’à 1,5 m de haut</td><td>650</td></tr>
-<tr><td>[tab] – mur entre 1,5 m et 3 m de haut</td><td>1 000</td></tr>
+<tr><td>– mur jusqu’à 1,5 m de haut</td><td>650</td></tr>
+<tr><td>– mur entre 1,5 m et 3 m de haut</td><td>1 000</td></tr>
 <tr><td>2. autres murs de pierres sèches</td><td>200</td></tr>
 <tr><td>d. bisses, par m de canal</td><td>100</td></tr>
 </table>
@@ -640,7 +640,7 @@ Les exploitants d’une exploitation agricole doivent disposer de l’une des qu
 
 <sup>8</sup> L’OFAG fixe les contenus et les critères d’évaluation pour une gestion performante de l’exploitation.
 
-[^31-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^31-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 32
 
@@ -899,7 +899,7 @@ Des aides financières sont octroyées pour les PDR s’ils satisfont aux exigen
 <sup>3</sup> Si des mesures de génie rural visées au chap. 3, des mesures de bâtiments ruraux visées au chap. 4 ou des mesures supplémentaires d’améliorations structurelles visées au chap. 5 sont mises en œuvre dans le cadre d’un PDR, les conditions mentionnées dans les chapitres correspondants sont valables.
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^48-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^48-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### Section 2 Montant des contributions et des crédits d’investissement
 
@@ -974,8 +974,8 @@ Un avis de l’OFAG n’est pas requis:
 - a. lorsque le projet n’affecte pas un objet appartenant à un inventaire fédéral d’importance nationale;
 - b. lorsque le projet n’est pas soumis à une obligation de coordination ou de collaboration à l’échelon fédéral.
 
-[^52-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^52-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^52-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^52-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^52-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 53
@@ -1008,7 +1008,7 @@ Elle doit contenir tous les documents nécessaires et les indications pertinente
 
 <sup>5</sup> …[^54-3]
 
-[^54-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^54-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^54-2]: Nouvelle expression selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)). Il a été tenu compte de cette mod. dans tout le texte.
 [^54-3]: Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
@@ -1026,7 +1026,9 @@ Elle doit contenir tous les documents nécessaires et les indications pertinente
 
 <sup>5</sup> Pour les projets réalisés par étapes ou sur demande du canton, l’OFAG établit au préalable une décision de principe. Il y précise si le projet remplit les exigences relatives aux aides financières. La décision de contributions est établie pour les différentes étapes. La décision de principe n’est pas considérée comme une décision de contributions.
 
-<sup>6</sup> Si la contribution fédérale prévue dépasse les 5 millions de francs, la décision de principe, la décision de contributions ou la convention sont établies en accord avec l’Administration fédérale des finances.
+<sup>6</sup> …[^55-1]
+
+[^55-1]: Abrogé par le ch. I 9 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 56
 
@@ -1098,7 +1100,7 @@ Les modifications majeures du projet requièrent l’accord préalable de l’OF
 
 <sup>3</sup> Le solde de la contribution est versé pour chaque projet sur demande du canton.
 
-[^59-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^59-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### Section 3 Préservation des mesures
 
@@ -1176,7 +1178,7 @@ Les cantons présentent à la Confédération, avant le 30 avril de chaque anné
 - b. le montant de la contribution à rembourser;
 - c. une copie de la décision de restitution.
 
-[^65-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^65-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 #### Art. 66
 
@@ -1190,7 +1192,7 @@ Les exceptions à l’interdiction de désaffecter peuvent être autorisées pou
 - d. l’inutilité, du point de vue de l’agriculture ou des coûts disproportionnés de la remise en état de bâtiments agricoles, d’installations ou de surfaces agricoles utiles détruits par un incendie ou une catastrophe naturelle;
 - e. le besoin de constructions et installations d’intérêt public de la Confédération, du canton ou de la commune, ainsi que de chemins de fer fédéraux ou de routes nationales.
 
-[^66-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^66-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 67
 
@@ -1241,7 +1243,7 @@ Les exceptions à l’interdiction de morceler peuvent être autorisées pour le
 - k. le besoin de constructions et installations d’intérêt public de la Confédération, du canton ou de la commune.
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^68-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^68-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 69
 
@@ -1259,7 +1261,7 @@ Les exceptions à l’interdiction de morceler peuvent être autorisées pour le
 
 <sup>6</sup> L’autorité cantonale compétente visée dans la loi fédérale du 4 octobre 1991 sur le droit foncier rural (LDFR)[^69-1] ne peut autoriser des exceptions à l’interdiction de morceler selon l’art. 60 LDFR que s’il existe une décision exécutoire selon la présente ordonnance.
 
-[^69-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^69-1]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 70
 
@@ -1322,7 +1324,7 @@ Il annonce à l’OFAG au plus tard le 15 juillet, via le système d’informati
 - a. les liquidités;
 - b. la somme des prêts alloués au titre de crédits d’investissement, mais non encore versés.
 
-[^71-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^71-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^71-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^71-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^71-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
@@ -1717,7 +1719,7 @@ Les installations d’épuration des effluents gazeux et d’acidification du li
 - k. Les variétés robustes font l’objet d’un encouragement jusqu’à la fin 2034.
 - l. Les robots utilisés dans les champs font l’objet d’un encouragement jusqu’à la fin 2030.
 
-[^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 ### 3.3 Mesures de protection du patrimoine et du paysage
 

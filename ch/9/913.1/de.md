@@ -4,11 +4,11 @@ title: "Verordnung vom 2. November 2022 über die Strukturverbesserungen in der 
 short: SVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: de
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/de"
 
 (Strukturverbesserungsverordnung, SVV)
 
-vom 2. November 2022 (Stand am 1. Januar 2025)
+vom 2. November 2022 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 89 Absatz 2, 93 Absatz 4, 95 Absatz 2, 96 Absatz 3, 97
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## 1. Kapitel: Gegenstand sowie Formen der Finanzhilfen
 
@@ -150,8 +150,8 @@ In den folgenden Fällen genügt eine Betriebsgrösse von mindestens 0,60 SAK:
 <sup>5</sup> Für die Bestimmung der Betriebsgrösse gelten zusätzlich zu den SAK-Faktoren nach Artikel 3 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^6-2] auch die SAK-Faktoren nach Artikel 2*a* der Verordnung vom 4. Oktober 1993[^6-3] über das bäuerliche Bodenrecht.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^6-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6-3]: [SR 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+[^6-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^6-3]: [SR 211.412.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5758)
 
 #### Art. 7
 
@@ -273,7 +273,7 @@ Investitionskredite werden gewährt zur:
 
 <sup>5</sup> Der Kanton kann die jährlichen Rückzahlungen mit Beiträgen nach dieser Verordnung und der Direktzahlungsverordnung vom 23. Oktober 2013[^13-1] (DZV) verrechnen.
 
-[^13-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^13-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ## 3. Kapitel: Tiefbaumassnahmen
 
@@ -320,8 +320,8 @@ Zur Begleitung der Massnahmen nach Artikel 14 werden Finanzhilfen gewährt für:
 - a. Massnahmen für die Wiederherstellung oder für den Ersatz bei Beeinträchtigung schützenswerter Lebensräume nach Artikel 18 Absatz 1<sup>ter</sup> des Bundesgesetzes vom 1. Juli 1966[^15-1] über den Natur- und Heimatschutz sowie Ersatzmassnahmen nach Artikel 7 des Bundesgesetzes vom 4. Oktober 1985[^15-2] über Fuss- und Wanderwege;
 - b. weitere Massnahmen zur Aufwertung von Natur und Landschaft oder zur Erfüllung anderer Anforderungen der Umweltschutz-, der Natur- und Heimatschutz- und der Jagdgesetzgebung, insbesondere die Förderung der Biodiversität, der Landschaftsqualität und des Umgangs mit Grossraubtieren.
 
-[^15-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^15-2]: [SR 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
+[^15-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^15-2]: [SR 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
 
 #### Art. 16
 
@@ -381,7 +381,7 @@ Die periodische Wiederinstandstellung nach Absatz 1 Buchstabe c umfasst:
 
 Für einzelbetriebliche Massnahmen werden Beiträge gewährt, wenn die Voraussetzungen zum Bezug von Direktzahlungen nach der DZV[^19-1] erfüllt sind.
 
-[^19-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -449,7 +449,7 @@ Nicht anrechenbar sind insbesondere:
 
 [^23-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^23-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^23-3]: [SR 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^23-3]: [SR 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 
 #### Art. 24
 
@@ -641,7 +641,7 @@ Der Bewirtschafter oder die Bewirtschafterin des landwirtschaftlichen Betriebs m
 
 <sup>8</sup> Das BLW legt die Inhalte und Beurteilungskriterien für die erfolgreiche Betriebsführung fest.
 
-[^31-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^31-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 32
 
@@ -901,7 +901,7 @@ Finanzhilfen für PRE werden gewährt, wenn folgende Voraussetzungen erfüllt si
 <sup>3</sup> Werden Massnahmen im Tiefbau nach dem 3. Kapitel, im Hochbau nach dem 4. Kapitel oder zusätzliche Strukturverbesserungsmassnahmen nach dem 5. Kapitel dieser Verordnung im Rahmen eines PRE umgesetzt, so gelten für sie die Voraussetzungen nach den entsprechenden Kapiteln.
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^48-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^48-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 2. Abschnitt: Höhe der Beiträge und der Investitionskredite
 
@@ -976,8 +976,8 @@ Keine Stellungnahme des BLW ist erforderlich, wenn:
 - a. durch das Vorhaben kein Objekt eines Bundesinventars von nationaler Bedeutung betroffen ist;
 - b. das Vorhaben keiner gesetzlichen Koordinations- oder Mitwirkungspflicht auf Bundesebene unterliegt.
 
-[^52-1]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^52-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^52-1]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^52-2]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^52-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 53
@@ -1010,7 +1010,7 @@ Er muss alle sachdienlichen Angaben und Unterlagen enthalten, mindestens jedoch 
 
 <sup>5</sup> …[^54-3]
 
-[^54-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^54-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^54-2]: Ausdruck gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^54-3]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
@@ -1028,7 +1028,9 @@ Er muss alle sachdienlichen Angaben und Unterlagen enthalten, mindestens jedoch 
 
 <sup>5</sup> Zu Vorhaben, die in Etappen ausgeführt werden, oder auf Antrag des Kantons erlässt das BLW vorgängig eine Grundsatzverfügung. Es hält darin fest, ob das Vorhaben die Anforderungen für Finanzhilfen erfüllt. Die Beitragsverfügung erfolgt für die einzelnen Etappen. Die Grundsatzverfügung gilt nicht als Beitragsverfügung.
 
-<sup>6</sup> Übersteigt der Bundesbeitrag voraussichtlich 5 Millionen Franken, so werden die Grundsatzverfügung, die Beitragsverfügung oder die Vereinbarung im Einvernehmen mit der Eidgenössischen Finanzverwaltung erlassen.
+<sup>6</sup> ... [^55-1]
+
+[^55-1]: Aufgehoben durch Ziff. I 9 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 56
 
@@ -1100,7 +1102,7 @@ Wesentliche Änderungen des Vorhabens bedürfen der vorgängigen Genehmigung dur
 
 <sup>3</sup> Die Schlusszahlung erfolgt projektbezogen auf Antrag des Kantons.
 
-[^59-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^59-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### 3. Abschnitt: Sicherung der Massnahmen
 
@@ -1178,7 +1180,7 @@ Die Kantone rechnen mit dem Bund jährlich bis zum 30. April über die im Vorjah
 - b. der Betrag des zurückgeforderten Beitrags;
 - c. eine Kopie der Rückforderungsverfügungen.
 
-[^65-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^65-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 #### Art. 66
 
@@ -1192,7 +1194,7 @@ Ausnahmen vom Zweckentfremdungsverbot können aus folgenden Gründen bewilligt w
 - d. der fehlende landwirtschaftliche Bedarf oder unverhältnismässige Kosten als Grund für den Verzicht einer Wiederherstellung von landwirtschaftlichen Gebäuden, Anlagen oder Nutzflächen, die durch Feuer oder Elementarereignisse zerstört worden sind;
 - e. der Bedarf für Bauten und Anlagen im öffentlichen Interesse des Bundes, des Kantons oder der Gemeinde sowie für Bundesbahnen oder für Nationalstrassen.
 
-[^66-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^66-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 67
 
@@ -1243,7 +1245,7 @@ Ausnahmen vom Zerstückelungsverbot können aus folgenden Gründen bewilligt wer
 - k. der Bedarf für Bauten und Anlagen im öffentlichen Interesse des Bundes, des Kantons oder der Gemeinde.
 
 [^68-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^68-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^68-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 69
 
@@ -1261,7 +1263,7 @@ Ausnahmen vom Zerstückelungsverbot können aus folgenden Gründen bewilligt wer
 
 <sup>6</sup> Die kantonale Bewilligungsbehörde nach dem Bundesgesetz vom 4. Oktober 1991[^69-1] über das bäuerliche Bodenrecht (BGBB) darf Ausnahmen vom Zerstückelungsverbot nach Artikel 60 BGBB erst bewilligen, wenn eine rechtskräftige Verfügung nach dieser Verordnung vorliegt.
 
-[^69-1]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^69-1]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 70
 
@@ -1324,7 +1326,7 @@ Er meldet dem BLW über das Informationssystem nach Artikel 17 ISLV jeweils bis 
 - a. die liquiden Mittel;
 - b. die Summe der gewährten, jedoch noch nicht ausbezahlten Investitionskredite.
 
-[^71-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^71-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^71-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^71-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^71-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
@@ -1719,7 +1721,7 @@ Anlagen zur Reinigung der Abluft und zur Ansäuerung der Gülle werden nur unter
 - k. Robuste Sorten werden bis Ende 2034 gefördert.
 - l. Feldroboter werden bis Ende 2030 gefördert.
 
-[^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 ### 3.3 Massnahmen des Heimat- und Landschaftsschutzes
 

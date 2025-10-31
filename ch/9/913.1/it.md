@@ -4,11 +4,11 @@ title: "Ordinanza del 2 novembre 2022 sui miglioramenti strutturali nell’agric
 short: OMSt
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: it
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-754-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2022-754-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20250101/it"
 
 (Ordinanza sui miglioramenti strutturali, OMSt)
 
-del 2 novembre 2022 (Stato 1° gennaio 2025)
+del 2 novembre 2022 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 89 capoverso 2, 93 capoverso 4, 95 capoverso 2, 96 capoverso 
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Capitolo 1: Oggetto e forme degli aiuti finanziari
 
@@ -150,8 +150,8 @@ Nei seguenti casi sono sufficienti dimensioni dell’azienda di almeno 0,60 USM:
 <sup>5</sup> Per determinare le dimensioni dell’azienda, oltre ai coefficienti USM di cui all’articolo 3 dell’ordinanza del 7 dicembre 1998[^6-2] sulla terminologia agricola si applicano anche i coefficienti USM di cui all’articolo 2*a* dell’ordinanza del 4 ottobre 1993[^6-3] sul diritto fondiario rurale.
 
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^6-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6-3]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+[^6-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^6-3]: [RS 211.412.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5758)
 
 #### Art. 7
 
@@ -273,7 +273,7 @@ I crediti di investimento sono concessi per:
 
 <sup>5</sup> Il Cantone può computare i rimborsi annui nei contributi di cui alla presente ordinanza e all’ordinanza del 23 ottobre 2013[^13-1] sui pagamenti diretti (OPD).
 
-[^13-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^13-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ## Capitolo 3: Provvedimenti del genio rurale
 
@@ -320,8 +320,8 @@ Ad accompagnamento dei provvedimenti di cui all’articolo 14 sono concessi aiut
 - a. provvedimenti di ripristino o di sostituzione in caso di pregiudizio a biotopi degni di protezione secondo l’articolo 18 capoverso 1<sup>ter</sup> della legge del 1° luglio 1966[^15-1] sulla protezione della natura e del paesaggio nonché provvedimenti di sostituzione di cui all’articolo 7 della legge del 4 ottobre 1985[^15-2] sui percorsi pedonali e i sentieri;
 - b. altri provvedimenti per la valorizzazione della natura e del paesaggio o per l’adempimento di altre esigenze della legislazione sulla protezione dell’ambiente, sulla protezione della natura e del paesaggio nonché sulla caccia, in particolare la promozione della biodiversità, della qualità del paesaggio e della gestione dei grandi predatori.
 
-[^15-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^15-2]: [RS 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
+[^15-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^15-2]: [RS 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
 
 #### Art. 16
 
@@ -381,7 +381,7 @@ Il ripristino periodico di cui al capoverso 1 lettera c comprende:
 
 Nel caso di provvedimenti individuali, sono concessi contributi se sono adempiute le condizioni per ricevere pagamenti diretti ai sensi dell’OPD[^19-1].
 
-[^19-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^19-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 20
 
@@ -449,7 +449,7 @@ Non sono computabili in particolare:
 
 [^23-1]: Introdotta dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^23-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^23-3]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^23-3]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 
 #### Art. 24
 
@@ -638,7 +638,7 @@ Il gestore di un’azienda agricola deve possedere una delle seguenti qualifiche
 
 <sup>8</sup> L’UFAG stabilisce i contenuti e i criteri di valutazione per la gestione efficace dell’azienda.
 
-[^31-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^31-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 32
 
@@ -897,7 +897,7 @@ Vengono concessi aiuti finanziari per PSR se sono adempiute le seguenti condizio
 <sup>3</sup> Se nel quadro di un PSR vengono attuati provvedimenti del genio rurale secondo il capitolo 3, provvedimenti edilizi secondo il capitolo 4 o provvedimenti supplementari nell’ambito dei miglioramenti strutturali secondo il capitolo 5, si applicano le condizioni dei rispettivi capitoli.
 
 [^48-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^48-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^48-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### Sezione 2: Importo dei contributi e dei crediti di investimento
 
@@ -972,8 +972,8 @@ Un parere dell’UFAG non è necessario se:
 - a. il progetto non tange alcun oggetto di un inventario federale d’importanza nazionale;
 - b. il progetto non sottostà ad alcun obbligo di coordinamento o di compartecipazione a livello federale.
 
-[^52-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^52-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^52-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^52-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^52-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
 #### Art. 53
@@ -1006,7 +1006,7 @@ Deve contenere tutta la documentazione e le informazioni utili, tuttavia almeno 
 
 <sup>5</sup> ...[^54-3]
 
-[^54-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^54-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^54-2]: Nuova espr. giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^54-3]: Abrogato dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 
@@ -1024,7 +1024,9 @@ Deve contenere tutta la documentazione e le informazioni utili, tuttavia almeno 
 
 <sup>5</sup> Nel caso di progetti eseguiti a tappe, o su proposta del Cantone, l’UFAG emette previamente una decisione di principio. In quest’ultima stabilisce se il progetto adempie le esigenze per gli aiuti finanziari. La decisione di contribuzione avviene per le singole tappe. La decisione di principio non è considerata una decisione di contribuzione.
 
-<sup>6</sup> Se il contributo federale supera presumibilmente 5 milioni di franchi, la decisione di principio, la decisione di contribuzione o la convenzione è emessa d’intesa con l’Amministrazione federale delle finanze.
+<sup>6</sup> ...[^55-1]
+
+[^55-1]: Abrogato dalla cifra I n. 9 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto al 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 56
 
@@ -1096,7 +1098,7 @@ Le modifiche progettuali sostanziali necessitano dell’approvazione preliminare
 
 <sup>3</sup> Il pagamento finale è effettuato per ogni progetto su richiesta del Cantone.
 
-[^59-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^59-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ### Sezione 3: Garanzia dei provvedimenti
 
@@ -1174,7 +1176,7 @@ Ogni anno, entro il 30 aprile, i Cantoni effettuano con la Confederazione il con
 - b. l’importo del contributo di cui è stata richiesta la restituzione;
 - c. una copia delle decisioni concernenti la richiesta di restituzione.
 
-[^65-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^65-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 #### Art. 66
 
@@ -1188,7 +1190,7 @@ Possono essere autorizzate eccezioni al divieto di modificare la destinazione pe
 - d. assenza del fabbisogno agricolo o costi sproporzionati come motivo della rinuncia al ripristino di edifici e impianti agricoli o di superfici agricole utili distrutti da incendi o dalla furia degli elementi;
 - e. fabbisogno in edifici e impianti nell’interesse pubblico della Confederazione, del Cantone o del Comune, nonché per le Ferrovie federali o per le strade nazionali.
 
-[^66-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^66-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 67
 
@@ -1239,7 +1241,7 @@ Possono essere autorizzate eccezioni al divieto di frazionare per i motivi segue
 - k. fabbisogno in edifici e impianti nell’interesse pubblico della Confederazione, del Cantone o del Comune.
 
 [^68-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^68-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^68-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 69
 
@@ -1257,7 +1259,7 @@ Possono essere autorizzate eccezioni al divieto di frazionare per i motivi segue
 
 <sup>6</sup> L’autorità cantonale competente ad accordare l’autorizzazione secondo la legge del 4 ottobre 1991[^69-1] sul diritto fondiario rurale (LDFR) può autorizzare eccezioni al divieto di frazionare ai sensi dell’articolo 60 LDFR soltanto se esiste una decisione passata in giudicato ai sensi della presente ordinanza.
 
-[^69-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^69-1]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 70
 
@@ -1320,7 +1322,7 @@ Notifica all’UFAG entro il 15 luglio, tramite il sistema d’informazione seco
 - a. la liquidità;
 - b. la somma dei crediti di investimento concessi ma non ancora versati.
 
-[^71-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^71-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^71-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^71-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
 [^71-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
@@ -1605,11 +1607,6 @@ Allegato 5[^t-2]
 - 4\.1.1 Il credito di investimento per l’abitazione del capoazienda ammonta al massimo al 50 per cento dei costi computabili, tuttavia al massimo a 200 000 franchi.
 - 4\.1.2 Il sostegno finanziario è limitato a un’abitazione del capoazienda per azienda. Nel caso delle comunità aziendali il sostegno finanziario è limitato a un’abitazione del capoazienda per azienda interessata.
 
-### 4.2 Disposizioni specifiche
-
-- 4\.2.1 Il credito di investimento ammonta al massimo al 50 per cento dei costi computabili, tuttavia al massimo all’importo forfettario in caso di nuova costruzione.
-- 4\.2.2 Il sostegno finanziario è limitato al massimo a due abitazioni per azienda (abitazione del capoazienda e alloggio per anziani).
-
 ### 5. Aiuti finanziari per la trasformazione, lo stoccaggio o la commercializzazione
 
 ### 5.1 Aliquote
@@ -1720,7 +1717,7 @@ Gli impianti di depurazione dell’aria di scarico e per l’acidificazione del 
 - k. Le varietà robuste sono promosse sino a fine 2034.
 - l. I robot per i campi sono promossi sino a fine 2030.
 
-[^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 ### 3.3 Provvedimenti per la protezione del patrimonio culturale e del paesaggio
 
