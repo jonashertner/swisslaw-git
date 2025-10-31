@@ -2,24 +2,23 @@
 canton: BL
 number: "180.10"
 title: Verordnung über die Rechnungslegung der Einwohnergemeinden
-short: Gemeinderechnungsverordnung
+short: "Gemeinderechnungsverordnung, GRV"
 language: de
-version: 2025-01-01
-valid_until: 2025-10-31
-version_adopted: 2024-12-03
+version: 2025-11-01
+version_adopted: 2025-10-28
 adopted: 2012-02-14
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180.10"
-pdf: "https://bl.clex.ch/api/de/versions/4325/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Rechnungslegung der Einwohnergemeinden
 
-(Gemeinderechnungsverordnung)
+(Gemeinderechnungsverordnung, GRV)
 
-Vom 14.02.2012 (Stand 01.01.2025)
+Vom 14.02.2012 (Stand 01.11.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -263,9 +262,11 @@ beschliesst:
 - a. die Ersatzabgaben für nicht erstellte Schutzraumbauten,
 - b. die Ersatzabgaben für nicht erstellte Fahrzeugabstellplätze,
 - c. die Mehrwertabgabe,
-- d. die Überschüsse aus dem Asyl- und Flüchtlingsbereich.
+- d. …
 
-<sup>3</sup> Die Gemeinden können durch Reglement weitere Fonds vorsehen. Deren mittel- oder unmittelbare Finanzierung durch Steuern ist unzulässig.
+<sup>3</sup> Die Gemeinden können durch Reglement weitere Fonds vorsehen. Deren mittel- oder unmittelbare Finanzierung durch Steuern ist unzulässig. Vorbehalten bleibt Abs. 4.
+
+<sup>4</sup> Fonds gemäss Abs. 3 zur kommunalen Standortförderung dürfen mit den Steuereinnahmen von juristischen Personen geäufnet werden.
 
 #### § 23
 
