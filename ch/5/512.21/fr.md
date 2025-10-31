@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)
 short: OMi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: fr
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/fr"
 
 (OMi)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2025)
+du 22 novembre 2017 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -2762,7 +2762,7 @@ Annexe 5[^t-5]
 
 ## Spécialistes
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 16 oct. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Mise à jour par l’annexe 3 ch. II 3 de l’O du 11 nov. 2020 sur la protection de la population ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) et le ch. II al. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 16 oct. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Mise à jour par l’annexe 3 ch. II 3 de l’O du 11 nov. 2020 sur la protection de la population ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)), le ch. II al. 2 de l’O du 23 nov. 2022 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)) et l’art. 12 de l’O du 26 sept. 2025 sur l’état-major Appui à l’engagement du gouvernement, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 610](https://fedlex.data.admin.ch/eli/oc/2025/610)).
 
 Peuvent être nommés et incorporés militairement en tant que spécialistes les militaires qui:
 
@@ -2803,7 +2803,8 @@ Peuvent être nommés et incorporés militairement en tant que spécialistes les
 - 4\.26 cybersécurité, cyberprotection, cyberdéfense et cryptologie,
 - 4\.27 police,
 - 4\.28 musique, avec la théorie musicale comme domaine principal;
-- 5\. appartiennent à l’état-major Centrale nationale d’alarme du Conseil fédéral.
+- 5\. appartiennent à l’état-major Centrale nationale d’alarme du Conseil fédéral;
+- 6\. appartiennent à l’état-major Appui à l’engagement du gouvernement.
 
 Annexe 6[^t-6]
 

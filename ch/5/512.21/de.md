@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Militärdienstpflicht (VMDP)
 short: VMDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: de
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/de"
 
 (VMDP)
 
-vom 22. November 2017 (Stand am 1. Januar 2025)
+vom 22. November 2017 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1864,7 +1864,7 @@ Die Angehörigen der Armee werden zu Ausbildungsdiensten aufgeboten:
 
 <sup>4</sup> Das VBS kann insbesondere für ausserordentliche Massnahmen und zur Erhöhung der Bereitschaft Formationen oder Teile davon früher oder später einberufen oder später entlassen, als dies im öffentlichen militärischen Aufgebot publiziert ist.
 
-[^84-1]: www.vtg.admin.ch &gt; Mein Militärdienst &gt; Aufgebotsdaten
+[^84-1]: [www.vtg.admin.ch](http://www.vtg.admin.ch) &gt; Mein Militärdienst &gt; Aufgebotsdaten
 
 #### Art. 85
 
@@ -2745,9 +2745,9 @@ Anhang 5[^t-5]
 
 ## Spezialisten und Spezialistinnen
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 16. Okt. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Bereinigt gemäss Anhang 3 Ziff. II 3 der Bevölkerungsschutzverordnung vom 11. Nov. 2020 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) und Ziff. II Abs. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 16. Okt. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Bereinigt gemäss Anhang 3 Ziff. II 3 der Bevölkerungsschutzverordnung vom 11. Nov. 2020 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)), Ziff. II Abs. 2 der V vom 23. Nov. 2022 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)) und Art. 12 der V vom 26. Sept. 2025 über den Stab Einsatzunterstützung Landesregierung, in Kraft seit 1. Nov. 2025 (AS **202****5** 610).
 
-Folgende Angehörige der Armee können zu Spezialisten oder Spezialistinnen ernannt und militärisch entsprechend eingeteilt werden, wenn sie:
+Angehörige der Armee können zu Spezialisten oder Spezialistinnen ernannt und militärisch entsprechend eingeteilt werden, wenn sie:
 
 - 1\. in ihrer zivilen Tätigkeit bei der Swisscom im technischen Betrieb (Planung/Entwicklung, Steuerung, Unterhalt, Einsatz und Schutz) in folgenden Bereichen tätig sind:
 - 1\.1 System «Information der Bevölkerung durch den Bund in Krisenlagen mit Radio (IBBK)»,
@@ -2786,7 +2786,8 @@ Folgende Angehörige der Armee können zu Spezialisten oder Spezialistinnen erna
 - 4\.26 Cybersicherheit, Cyberschutz, Cyberabwehr und Kryptologie,
 - 4\.27 Polizeiwesen,
 - 4\.28 Musik mit Schwerpunkt Musiktheorie;
-- 5\. dem Stab Bundesrat Nationale Alarmzentrale angehören.
+- 5\. dem Stab Bundesrat Nationale Alarmzentrale angehören;
+- 6\. dem Stab Einsatzunterstützung Landesregierung angehören.
 
 Anhang 6[^t-6]
 

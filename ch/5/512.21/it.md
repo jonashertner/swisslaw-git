@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 concernente l'obbligo di prestare servizi
 short: OOPSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: it
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20250101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/it"
 
 (OOPSM)
 
-del 22 novembre 2017 (Stato 1° gennaio 2025)
+del 22 novembre 2017 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## **Capitolo 1:** **Scopo**
 
@@ -72,7 +72,7 @@ Il Cdo Istr accetta l’annuncio se:
 
 - c. sussiste una necessità da parte dell’esercito.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 3
 
@@ -139,12 +139,12 @@ I richiedenti sono attribuiti o assegnati se:
 
 <sup>5</sup> Le condizioni per le persone che intendono prestare un servizio nel Servizio della Croce Rossa sono rette dall’ordinanza del 29 settembre 2006[^4-7] sul Servizio della Croce Rossa.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^4-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
-[^4-3]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^4-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^4-6]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-3]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-6]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-7]: [RS 513.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7477)
 
 #### Art. 5
@@ -170,10 +170,10 @@ Alle persone attribuite e alle persone assegnate si applicano i principi seguent
 
 <sup>3</sup> Le persone che hanno prestato un servizio di promovimento della pace possono prestare servizio secondo i principi indicati nel capoverso 1 oppure assolvere una carriera di milizia secondo l’allegato 2.[^5-4]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^5-3]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^5-4]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^5-3]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^5-4]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 6
 
@@ -206,15 +206,15 @@ Le persone attribuite o assegnate prestano in qualità di:
   - 1\. che assolvono una carriera di milizia secondo l’allegato 2: servizio d’istruzione secondo l’articolo 47,
   - 2\. che non assolvono una carriera di milizia secondo l’allegato 2: servizio d’istruzione secondo la lettera c.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^6-3]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6-3]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 3: Attestato di adempimento dell’obbligo di prestare servizio militare
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 6a
 
@@ -224,7 +224,7 @@ Le persone attribuite o assegnate prestano in qualità di:
 
 L’attestato di adempimento dell’obbligo di prestare servizio militare può essere consegnato elettronicamente, quale libretto di servizio o in altra forma.
 
-[^6a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 7
 
@@ -245,7 +245,7 @@ L’attestato di adempimento dell’obbligo di prestare servizio militare contie
 - i. domicilio e indirizzo postale;
 - j. disposizioni per la chiamata in servizio, in particolare per la chiamata in servizio di militari delle formazioni con obblighi permanenti di prontezza e per l’esecuzione della chiamata in servizio d’appoggio o in servizio attivo.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 8
 
@@ -261,7 +261,7 @@ L’attestato di adempimento dell’obbligo di prestare servizio militare contie
 
 <sup>4</sup> Lo smarrimento dell’attestato dev’essere comunicato immediatamente al comandante di circondario per il rilascio di un nuovo attestato.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 9
 
@@ -275,7 +275,7 @@ L’attestato di adempimento dell’obbligo di prestare servizio militare contie
 
 <sup>3</sup> In caso di contraddizioni tra le iscrizioni nell’attestato e le iscrizioni nei controlli, per le iscrizioni di cui al capoverso 1 è presunta la correttezza dell’attestato, in tutti gli altri casi è presunta la correttezza dei controlli.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 4: Obbligo di leva e reclutamento
 
@@ -295,7 +295,7 @@ Nell’anno in cui compiono i 17 anni, tutti gli Svizzeri e tutte le Svizzere do
 - e<sup>bis</sup>.[^10-1] alle possibilità di partecipare ad attività volontarie fuori del servizio;
 - f. agli organi della Confederazione e dei Cantoni che possono fornire ulteriori informazioni.
 
-[^10-1]: Introdotta dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^10-1]: Introdotta dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 11
 
@@ -336,10 +336,10 @@ Alla manifestazione informativa sono raccolti i dati relativi alle persone sogge
 
 <sup>5</sup> Le persone convocate e le persone invitate che si sono annunciate ricevono un documento per l’utilizzo gratuito dei mezzi di trasporto pubblici per il viaggio di andata e di ritorno.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^11-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-4]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^11-2]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^11-4]: Nuovo testo giusta l’all. 8 cifra II n. 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 [^11-5]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 12
@@ -356,7 +356,7 @@ Alla manifestazione informativa sono raccolti i dati relativi alle persone sogge
 
 <sup>4</sup> Il reclutamento dura al massimo tre giorni. Se entro questo termine non è possibile prendere alcuna decisione in merito all’idoneità, le persone soggette all’obbligo di leva interessate sono chiamate a un reclutamento complementare. Per gli esami attitudinali è possibile protrarre il reclutamento di due giorni al massimo.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
 
 #### Art. 13
 
@@ -394,7 +394,7 @@ Per l’accertamento del profilo attitudinale le persone soggette all’obbligo 
 
 [^14-1]: [RS 511.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7387)
 [^14-2]: [RS 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
-[^14-3]: Nuovo testo giusta l’all. 6 n. II 1 dell’O dell’11 nov. 2020 sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
+[^14-3]: Nuovo testo giusta l’all. 6 cifra II n. 1 dell’O dell’11 nov. 2020 sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 15
 
@@ -439,9 +439,9 @@ Una persona idonea al servizio militare è attribuita provvisoriamente a una fun
 - a.[^16-2] è tenuta a superare un esame attitudinale per la funzione di specialista di montagna, di granatiere, di esploratore paracadutista, di conducente di cani o per una funzione nella musica militare; oppure
 - b.[^16-3] è necessario un controllo di sicurezza relativo alle persone, ma non vi è ancora alcuna decisione secondo l’articolo 24 OCSP[^16-4] o alcuna informazione secondo l’articolo 23 capoverso 2 OCSP.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^16-3]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^16-3]: Nuovo testo giusta l’all. 8 cifra II n. 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 [^16-4]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 17
@@ -472,7 +472,7 @@ L’organo competente per il reclutamento può procedere a una nuova attribuzion
 
 <sup>2</sup> Comunica, con la notifica della nuova attribuzione, la data d’inizio e il luogo dell’istruzione.
 
-[^18-1]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^18-1]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 5: Limiti d’età dell’obbligo di prestare servizio militare
 
@@ -488,7 +488,7 @@ L’organo competente per il reclutamento può procedere a una nuova attribuzion
 
 <sup>3</sup> L’obbligo di prestare servizio militare di reclutati che sono prosciolti dall’esercito conformemente all’articolo 49 capoverso 2 LM dura fino alla fine del dodicesimo anno civile dopo il proscioglimento.[^19-1]
 
-[^19-1]: Introdotto dal n. I dell’O del 16 ott. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^19-1]: Introdotto dalla cifra I dell’O del 16 ott. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 20
 
@@ -524,9 +524,9 @@ Su domanda congiunta della persona interessata e del comando competente, gli uff
 
 <sup>2</sup> Il Cdo Istr decide in merito alle domande.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^21-3]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^21-3]: Nuovo testo giusta l’all. 8 cifra II n. 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 [^21-4]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 ### Sezione 6: Servizio militare non armato
@@ -563,9 +563,9 @@ La persona che presenta una domanda deve:
 
 <sup>4</sup> La persona che ha presentato la sua domanda entro il termine stabilito presta servizio militare non armato e, su ordine dell’organo incaricato della tenuta dei controlli, è dispensata dal tiro obbligatorio fuori del servizio fintanto che la decisione sulla sua domanda non è passata in giudicato.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^22-2]: Nuovo testo giusta l’all. 10 n. II 18 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^22-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^22-2]: Nuovo testo giusta l’all. 10 cifra II n. 18 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 23
 
@@ -612,7 +612,7 @@ Per una formazione in vista di un’attività indispensabile non è concessa alc
 - b. la formazione di agente di custodia;
 - c. il corso per specialista dogana e sicurezza dei confini.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 26
 
@@ -633,7 +633,7 @@ Il Cdo Istr:
 - c. per questo controllo, può farsi consegnare atti, effettuare ispezioni oculari o sentire testimoni;
 - d. decide in merito alla reincorporazione nell’esercito al venir meno del motivo dell’esenzione dal servizio.
 
-[^26-1]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^26-1]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 27
 
@@ -677,7 +677,7 @@ Sono considerati personale indispensabile per garantire il funzionamento di tali
 - d. gli specialisti medico-terapeuti e medico-tecnici con formazione universitaria e in possesso di un diploma professionale rilasciato o riconosciuto dall’istituto di formazione cantonale.
 
 [^28-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^28-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 29
 
@@ -693,9 +693,9 @@ Sono considerati membri dei servizi di salvataggio, dei servizi di polizia, dei 
 - b.[^29-3] gli impiegati dei servizi di polizia della Confederazione, dei Cantoni, delle città o dei Comuni, che sono necessari per l’adempimento dei compiti di polizia giudiziaria, di polizia di sicurezza e di polizia stradale e che dispongono almeno di un esame federale di professione quali agenti di polizia;
 - c. gli impiegati dei corpi di pompieri professionisti e delle basi di pompieri nonché le persone che esercitano la funzione di comandante dei pompieri, di sostituto del comandante dei pompieri, di ufficiale dei pompieri, di operatore di apparecchi, di capo delle divisioni speciali, di portatore di apparecchi per la protezione della respirazione, di custode di apparecchi per la protezione della respirazione, di specialista della difesa C e di specialista della difesa contro le radiazioni dei corpi di pompieri e dei servizi di difesa riconosciuti dallo Stato.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^29-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
-[^29-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 30
 
@@ -715,8 +715,8 @@ In situazioni straordinarie sono indispensabili alla Rete integrata Svizzera per
 
 <sup>2</sup> Il DDPS designa le persone di cui al capoverso 1 d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, il Dipartimento federale dell’interno e La Posta Svizzera.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^30-3]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 31
@@ -743,7 +743,7 @@ Sono considerati personale indispensabile di tali servizi gli impiegati:
 
 <sup>3</sup> Il DDPS designa le persone d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni e con Skyguide.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^31-2]: [RS 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
 ### Sezione 8: Non reclutamento, esclusione dall’esercito, degradazione, riammissione e cambiamento di funzione
@@ -767,7 +767,7 @@ Nella valutazione dell’insostenibilità secondo gli articoli 21 capoverso 1 le
 - c. la liceità di imporre ad altri militari di prestare servizio con la persona interessata;
 - d. l’immagine dell’esercito nell’opinione pubblica.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 33
 
@@ -832,8 +832,8 @@ Nel caso di pene e misure non menzionate al capoverso 1, il consenso a prestare 
 
 <sup>3</sup> A una persona la cui condanna secondo il diritto penale minorile per un crimine o un delitto è passata in giudicato, il consenso a prestare servizio militare secondo l’articolo 33 è accordato a titolo eccezionale dopo l’esame del singolo caso.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^35-2]: Abrogati dal n. I dell’O del 23 nov. 2022, con effeto dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^35-2]: Abrogati dalla cifra I dell’O del 23 nov. 2022, con effeto dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 36
 
@@ -882,8 +882,8 @@ Sono competenti per il cambiamento di funzione:
 - b. per i gradi di capitano e di ufficiale superiore: l’Aggruppamento Difesa*;*
 - c. per tutti gli altri gradi: il Cdo Istr.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^39-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^39-2]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 9: Obblighi fuori del servizio
 
@@ -896,7 +896,7 @@ Sono competenti per il cambiamento di funzione:
 L’obbligo di custodire al sicuro e di mantenere in buono stato l’equipaggiamento personale è retto dal Regolamento di servizio dell’esercito svizzero del 22 giugno 1994[^40-1] e dall’ordinanza del 5 dicembre 2003[^40-2] sull’equipaggiamento personale dei militari.
 
 [^40-1]: [RS 510.107.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7253)
-[^40-2]: [[RU 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)all. 7 n. II 5. [RU 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)art. 37 n. 1]. Vedi ora l’O del 21 nov. 2018 ([RS 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)).
+[^40-2]: [[RU 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755); [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209); [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733); [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)cifra I n. 12; [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748); [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)all. 7 cifra II n. 5. [RU 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)art. 37 n. 1]. Vedi ora l’O del 21 nov. 2018 ([RS 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)).
 
 #### Art. 41
 
@@ -984,15 +984,15 @@ Il tiro obbligatorio è retto dall’ordinanza del 5 dicembre 2003[^45-1] sul ti
 
 Le convocazioni ufficiali sono rilasciate:
 
-- dal Cdo Istr per audizioni personali nel caso di controlli di sicurezza relativi alle persone concernenti le persone soggette all’obbligo di leva e i militari;
-- dal Servizio medico militare per visite mediche nel caso di un nuovo esame dell’idoneità al servizio.
+- a. dal Cdo Istr per audizioni personali nel caso di controlli di sicurezza relativi alle persone concernenti le persone soggette all’obbligo di leva e i militari;
+- b. dal Servizio medico militare per visite mediche nel caso di un nuovo esame dell’idoneità al servizio.
 
 <sup>2</sup> Le convocazioni ufficiali non danno diritto al soldo e non vengono computate sul totale obbligatorio di giorni di servizio d’istruzione.
 
 <sup>3</sup> Le persone convocate ricevono un documento per l’utilizzo gratuito dei mezzi di trasporto pubblici per il viaggio di andata e di ritorno.[^45a-2]
 
-[^45a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^45a-2]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 654](https://fedlex.data.admin.ch/eli/oc/2023/654)).
+[^45a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^45a-2]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 654](https://fedlex.data.admin.ch/eli/oc/2023/654)).
 
 ## Capitolo 3: Istruzione nell’esercito
 
@@ -1085,19 +1085,19 @@ Gli specialisti prestano il seguente numero massimo di giorni supplementari di s
 - a. come militari di truppa: 35 giorni;
 - b. come sottufficiali, sottufficiali superiori e ufficiali: 50 giorni.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-4]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-6]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-7]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-8]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-9]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-10]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-11]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-12]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^47-13]: Abrogato dal n. I dell’O del 16 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-4]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-5]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-6]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-7]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-8]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-9]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-10]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-11]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-12]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-13]: Abrogato dalla cifra I dell’O del 16 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^47-14]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 
 ### Sezione 2: Computo sul totale obbligatorio di giorni di servizio d’istruzione
@@ -1210,8 +1210,8 @@ Ai militari di professione il cui rapporto di lavoro termina prima del raggiungi
   - 1\. tenente: 98 giorni,
   - 2\. capitano: 98 giorni.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^53-2]: Nuova espr. giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^53-2]: Nuova espr. giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 53a
 
@@ -1226,7 +1226,7 @@ Ai militari che prestano servizio di promovimento della pace è computato sul to
 - a. ai militari di truppa e ai sottufficiali: un corso di ripetizione di 19 giorni;
 - b. ai sottufficiali superiori e agli ufficiali: un corso preparatorio dei quadri e un corso di ripetizione di complessivi 26 giorni.
 
-[^53a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^53a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 3: Servizi volontari
 
@@ -1248,8 +1248,8 @@ Presentando domanda al Cdo Istr, i militari possono essere chiamati a prestare s
 
 <sup>3</sup> I capitani, gli ufficiali superiori e i membri del servizio di stato maggiore generale che hanno adempiuto il loro totale obbligatorio di giorni di servizio d’istruzione secondo l’articolo 47 capoverso 3 o che lo adempirebbero nel corso di un servizio d’istruzione dei quadri possono essere ammessi a prestare a titolo volontario servizi d’istruzione dei quadri.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^54-2]: Abrogate dal n. I dell’O del 16 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^54-2]: Abrogate dalla cifra I dell’O del 16 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 55
 
@@ -1279,8 +1279,8 @@ La domanda è autorizzata se:
 <sup>4</sup> I militari possono prestare annualmente 38 giorni di servizio d’istruzione volontario al massimo.
 
 [^55-1]: [RS 512.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7440)
-[^55-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^55-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^55-2]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^55-3]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 4: Istruzione di base
 
@@ -1298,7 +1298,7 @@ La domanda è autorizzata se:
 
 <sup>4</sup> La durata delle scuole reclute è disciplinata nell’allegato 2.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
 
 #### Art. 57
 
@@ -1312,7 +1312,7 @@ La domanda è autorizzata se:
 
 <sup>3</sup> I militari che non hanno compiuto il servizio d’istruzione di base, sono chiamati in servizio alla prossima scadenza possibile per prestare il resto della durata.
 
-[^57-1]: Nuova espr. giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^57-1]: Nuova espr. giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### Sezione 5: Servizi d’istruzione delle formazioni e servizi speciali dei quadri
 
@@ -1341,9 +1341,9 @@ In caso di particolari esigenze concernenti l’istruzione vi sono le possibilit
 
 <sup>3</sup> I militari che in un anno civile assolvono complessivamente per almeno 4 settimane un’istruzione a un grado superiore o un perfezionamento per l’assunzione di una nuova funzione con lo stesso grado possono essere chiamati a prestare nel medesimo anno corsi preparatori dei quadri e corsi di ripetizione unicamente con il loro consenso.[^58-3]
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^58-2]: Introdotta dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^58-3]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^58-2]: Introdotta dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^58-3]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 59
 
@@ -1385,7 +1385,7 @@ I militari possono essere chiamati a prestare i seguenti servizi al di fuori del
 - g. parte pratica del corso di riconversione per droni: 26 giorni;
 - h. corso d’introduzione, corso per specialisti e corso di base: al massimo 19 giorni.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^60-2]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 #### Art. 61
@@ -1420,7 +1420,7 @@ I sottufficiali, i sottufficiali superiori e gli ufficiali possono essere chiama
 
 <sup>3</sup> I futuri sottufficiali e ufficiali di professione possono essere chiamati in servizio per selezioni per complessivi quattro giorni di servizio d’istruzione al massimo.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 62
 
@@ -1439,8 +1439,8 @@ In un periodo di due anni consecutivi i militari seguenti prestano complessivame
 
 <sup>2</sup> I servizi d’istruzione volontari non sono computati nel numero massimo di giorni di servizio d’istruzione da prestare in un periodo di due anni.[^62-2]
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^62-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^62-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 6: Istruzione dei militari in ferma continuata
 
@@ -1466,7 +1466,7 @@ I militari in ferma continuata proposti per un avanzamento prestano i corrispond
 - a. di regola senza interruzioni dopo il servizio che stanno prestando;
 - b. in caso di impellenti motivi personali, in un secondo momento, senza interruzioni, sempre che le necessità dell’esercito lo consentano.
 
-[^63-1]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^63-1]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 ### Sezione 7: Istruzione dei sottufficiali, dei sottufficiali superiori e degli ufficiali
 
@@ -1484,7 +1484,7 @@ I militari in ferma continuata proposti per un avanzamento prestano i corrispond
 
 <sup>4</sup> I militari che non hanno assolto un servizio d’istruzione dei quadri, sono chiamati in servizio alla prossima scadenza possibile per il resto della durata secondo il capoverso 2.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 65
 
@@ -1503,8 +1503,8 @@ Gli aspiranti a una funzione di sottufficiale, di sottufficiale superiore e di u
 
 <sup>3</sup> Se non viene assegnata una nuova proposta d’avanzamento, prestano i servizi d’istruzione corrispondenti al loro grado.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^65-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^65-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 ### Sezione 8: Servizi in scuole e in corsi nonché nell’amministrazione militare
 
@@ -1553,7 +1553,7 @@ Non sono ammessi:
 - e. i servizi consecutivi prestati per lungo tempo allo stesso posto e per gli stessi scopi, indipendentemente dal fatto che a tal fine siano chiamati in servizio il medesimo militare o vari militari;
 - f. i servizi aventi il solo fine di accorciare o impedire un periodo di disoccupazione del militare interessato.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 67
 
@@ -1594,7 +1594,7 @@ Per il compito di cui all’articolo 61 capoverso 3 LM possono essere messi a di
 
 [^chap3-sec10-1]
 
-[^chap3-sec10-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^chap3-sec10-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 70
 
@@ -1611,8 +1611,8 @@ Il comandante licenzia anticipatamente i militari dai servizi d’istruzione, qu
 
 <sup>2</sup> I comandanti dei centri di reclutamento licenziano anticipatamente dal reclutamento le persone soggette all’obbligo di leva se è stata avviata una procedura di non reclutamento.[^70-2]
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^70-2]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^70-2]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 ## Capitolo 4: Grado e funzione
 
@@ -1662,7 +1662,7 @@ Per l’incorporazione in una determinata funzione o la promozione a un grado su
 
 <sup>3</sup> Per l’incorporazione in una determinata funzione o la promozione a un grado superiore occorre tenere conto, per quanto possibile, delle conoscenze acquisite dai militari nella vita civile e nell’esercito.
 
-[^72-1]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^72-1]: Nuovo testo giusta l’all. 8 cifra II n. 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 [^72-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 73
@@ -1751,7 +1751,7 @@ L’Aggruppamento Difesa conferisce per la durata dell’impiego il grado milita
 
 <sup>2</sup> I militari con una funzione di quadro *ad interim* che non concludono i propri servizi d’istruzione entro tre anni sono di nuovo incorporati dal Cdo Istr in una funzione corrispondente al loro grado.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 79
 
@@ -1795,9 +1795,9 @@ Soldati, appuntati, sottufficiali e sottufficiali superiori possono essere nomin
 
 <sup>5</sup> Il comandante competente per l’occupazione di una funzione di ufficiale presenta al Cdo Istr la domanda per la nomina a ufficiale specialista unitamente al militare interessato. Il Cdo Istr decide in merito alle domande e procede, se del caso, alla nomina a ufficiale specialista.
 
-[^80-1]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^80-1]: Nuovo testo giusta l’all. 8 cifra II n. 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 [^80-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
-[^80-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^80-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
 
@@ -1866,7 +1866,7 @@ I militari sono chiamati ai servizi d’istruzione:
 <sup>4</sup> Il DDPS può, in particolare per misure straordinarie e per incrementare la prontezza, chiamare in servizio formazioni o loro parti prima o dopo la data indicata nella chiamata pubblica in servizio militare oppure licenziarle dopo tale data*.*[^84-2]
 
 [^84-1]: [www.vtg.admin.ch](http://www.vtg.admin.ch) &gt; Il mio servizio militare &gt; Date di chiamata in servizio
-[^84-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^84-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 85
 
@@ -1886,7 +1886,7 @@ I militari il cui servizio d’istruzione non figura nella chiamata pubblica in 
 
 <sup>2</sup> Se dopo il recapito dell’avviso di servizio vi è una modifica della chiamata pubblica o personale in servizio militare, l’informazione sulla modifica ha valore di avviso di servizio.
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 87
 
@@ -2017,8 +2017,8 @@ Per i militari il cui obbligo di prestare servizio militare è stato prorogato v
 
 <sup>4</sup> Il Cdo Istr provvede a un’esecuzione uniforme.
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^94-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^94-2]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 95
 
@@ -2187,8 +2187,8 @@ I singoli corpi di truppa e le singole formazioni dell’esercito sono assegnati
 - b. sono consultati in occasione dell’occupazione di funzioni di comando;
 - c. hanno il diritto di visitare i servizi d’istruzione.
 
-[^102-1]: Nuova espr. giusta l’all. n. II 19 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^102-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^102-1]: Nuova espr. giusta l’all. cifra II n. 19 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^102-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 103
 
@@ -2220,8 +2220,8 @@ Il Cdo Istr è competente per:
 - g. l’inserimento nei controlli militari di persone attribuite o assegnate all’esercito;
 - h. l’emanazione di istruzioni nell’ambito del Servizio dei caduti e dei dispersi dell’esercito.
 
-[^105-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^105-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^105-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^105-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -2319,17 +2319,17 @@ I seguenti membri del servizio di volo militare promossi al loro grado attuale p
 
 <sup>3</sup> I capitani e gli ufficiali superiori promossi al loro grado attuale o attribuiti alla loro funzione attuale prima del 1° gennaio 2018 e per i quali non è previsto alcun avanzamento, prestano servizi d’istruzione durante un periodo da quattro a otto anni.[^109-11]
 
-[^109-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-3]: Introdotta dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-3]: Introdotta dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-4]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 [^109-5]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 [^109-6]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 [^109-7]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^109-8]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^109-9]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-8]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^109-9]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-10]: Introdotto dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^109-11]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-11]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 109a
 
@@ -2339,7 +2339,7 @@ I seguenti membri del servizio di volo militare promossi al loro grado attuale p
 
 Ai militari che prima del 31 dicembre 2017 non avevano ancora adempiuto il totale obbligatorio di giorni di servizio d’istruzione e che per motivi d’effettivo non erano incorporati nell’esercito attivo sono computati per ogni anno civile della mancata incorporazione 19 giorni sul totale obbligatorio di giorni di servizio d’istruzione, dedotti i giorni di servizio d’istruzione effettivamente prestati o differiti per motivi personali nel corrispondente anno.
 
-[^109a-1]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109a-1]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 110
 
@@ -2367,7 +2367,7 @@ Per i sottufficiali, i sottufficiali superiori e gli ufficiali subalterni in fer
 
 <sup>3</sup> I militari in ferma continuata di cui ai capoversi 1 e 2 non sono più chiamati a prestare servizi d’istruzione e il loro totale obbligatorio di giorni di servizio d’istruzione è considerato adempiuto ai sensi dell’articolo 54*a* LM se devono prestare ancora al massimo la percentuale indicata all’articolo 63 capoverso 2<sup>bis</sup> del numero complessivo di giorni di servizio d’istruzione da prestare computabili.[^111-1]
 
-[^111-1]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^111-1]: Introdotto dalla cifra I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 112
 
@@ -2431,7 +2431,7 @@ Allegato 1[^t-1]
 
 ## Servizi d’istruzione
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-1]: Nuovo testo giusta la cifra I I cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
 <tr><th colspan="2">Servizi d’istruzione di base</th><th colspan="2">Servizi di perfezionamento della truppa</th></tr>
@@ -2450,7 +2450,7 @@ Allegato 2[^t-2]
 
 ## Durata delle scuole reclute e durata massima dell’istruzione dei quadri e dei servizi d’istruzione in giorni
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-2]: Nuovo testo giusta la cifra I I cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
 <tr><th>Carriere nell’ambito dell’istruzione di base e dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th></th><th colspan="3">Istruzione di base</th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th colspan="3">Servizi d’istruzione dei quadri</th><th colspan="2"></th></tr>
@@ -2544,7 +2544,7 @@ Allegato 3[^t-3]
 
 ## Premesse temporali per la proposta e la promozione nonché competenze per le promozioni
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-3]: Nuovo testo giusta la cifra I I cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
 <tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th colspan="8">Assegnazione della proposta1</th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2">Promozione</th><th></th><th colspan="2"></th><th>Osservazioni</th></tr>
@@ -2601,7 +2601,7 @@ Allegato 4[^t-4]
 
 ## Disposizioni derogatorie concernenti l’istruzione dei quadri e la promozione
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-4]: Nuovo testo giusta la cifra I I cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 1. Ufficiali di professione (uff prof), ad eccezione dei membri del servizio di volo militare\*
 
@@ -2744,7 +2744,7 @@ Allegato 5[^t-5]
 
 ## Specialisti
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 16 ott. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Aggiornato dall’all. 3 n. II 3 dell’O dell’11 nov. 2020 sulla protezione della popolazione ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) e dal n. II cpv. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 16 ott. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Aggiornato dall’all. 3 cifra II n. 3 dell’O dell’11 nov. 2020 sulla protezione della popolazione ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)), dalla cifra II cpv. 2 dell’O del 23 nov. 2022 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)) e dall’art. 12 dell’O del 26 set. 2025 sullo Stato maggiore d’appoggio all’impiego Governo federale, in vigore dal 1° nov. 2025 ([RU 2025 610](https://fedlex.data.admin.ch/eli/oc/2025/610)).
 
 I seguenti militari possono essere nominati specialisti e incorporati militarmente in modo corrispondente qualora:
 
@@ -2785,7 +2785,8 @@ I seguenti militari possono essere nominati specialisti e incorporati militarmen
 - 4\.26 cibersicurezza, ciberprotezione, ciberdifesa e crittologia,
 - 4\.27 polizia,
 - 4\.28 musica con teoria musicale come campo principale;
-- 5\. siano membri dello Stato maggiore del Consiglio federale Centrale nazionale d’allarme.
+- 5\. siano membri dello Stato maggiore del Consiglio federale Centrale nazionale d’allarme;
+- 6\. siano membri dello Stato maggiore d’appoggio all’impiego Governo federale.
 
 Allegato 6[^t-6]
 
@@ -2793,7 +2794,7 @@ Allegato 6[^t-6]
 
 ## Competenze in materia di differimenti
 
-[^t-6]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^t-6]: Nuovo testo giusta la cifra I I cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
 <tr><th>Genere di servizio</th><th>Richiedente</th><th>Destinatario della domanda</th><th>Decisione</th></tr>
@@ -2831,10 +2832,10 @@ I seguenti atti normativi sono modificati come segue:
 
 …[^annex7-lvlu1-7]
 
-[^annex7-lvlu1-1]: [[RU 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141), [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)art. 9 n. 1 [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)art. 24, [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)art. 7 [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)all. 3 [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)art. 44, [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)n. III 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 35, [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 6, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 2]
-[^annex7-lvlu1-2]: [[RU 2002 892](https://fedlex.data.admin.ch/eli/oc/2002/158), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)n. I 2]
-[^annex7-lvlu1-3]: [[RU 2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659),[2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 8]
-[^annex7-lvlu1-4]: [[RU 2004 5299](https://fedlex.data.admin.ch/eli/oc/2004/817); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)appendice 2 n. 2; [[2008 4943](http://intranet.admin.ch/ch/d/as/2008/4943.pdf)](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 15; [[2009 4291](http://intranet.admin.ch/ch/d/as/2009/4291.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 4, [[6667](http://intranet.admin.ch/ch/d/as/2009/6667.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 5; [[2010 5971](http://intranet.admin.ch/ch/d/as/2010/5971.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 9]
-[^annex7-lvlu1-5]: [[RU 2003 4609](https://fedlex.data.admin.ch/eli/oc/2003/680); [2004 5319](https://fedlex.data.admin.ch/eli/oc/2004/818); [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870); [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 9; [2009 5887](https://fedlex.data.admin.ch/eli/oc/2009/720); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 10; [2011 6183](https://fedlex.data.admin.ch/eli/oc/2011/864); [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383), [6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 2; [2013 2735](https://fedlex.data.admin.ch/eli/oc/2013/566), [2761](https://fedlex.data.admin.ch/eli/oc/2013/567)n. II, [3037](https://fedlex.data.admin.ch/eli/oc/2013/593); [2014 2849](https://fedlex.data.admin.ch/eli/oc/2014/492); [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 3]
+[^annex7-lvlu1-1]: [[RU 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141); [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)art. 9 n. 1, [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)art. 24; [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)art. 7, [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)all. 3, [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)art. 44; [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)cifra III n. 2; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 35; [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)cifra II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 3; [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)cifra I n. 6; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3); [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)cifra I n. 2]
+[^annex7-lvlu1-2]: [[RU 2002 892](https://fedlex.data.admin.ch/eli/oc/2002/158); [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)cifra I n. 2]
+[^annex7-lvlu1-3]: [[RU 2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659);[2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 3; [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)cifra I n. 8]
+[^annex7-lvlu1-4]: [[RU 2004 5299](https://fedlex.data.admin.ch/eli/oc/2004/817); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870)appendice 2 n. 2; [[2008 4943](http://intranet.admin.ch/ch/d/as/2008/4943.pdf)](https://fedlex.data.admin.ch/eli/oc/2008/694)cifra I n. 15; [[2009 4291](http://intranet.admin.ch/ch/d/as/2009/4291.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 4, [[6667](http://intranet.admin.ch/ch/d/as/2009/6667.pdf)](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 5; [[2010 5971](http://intranet.admin.ch/ch/d/as/2010/5971.pdf)](https://fedlex.data.admin.ch/eli/oc/2010/858)cifra I n. 9]
+[^annex7-lvlu1-5]: [[RU 2003 4609](https://fedlex.data.admin.ch/eli/oc/2003/680); [2004 5319](https://fedlex.data.admin.ch/eli/oc/2004/818); [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709); [2007 6751](https://fedlex.data.admin.ch/eli/oc/2007/870); [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 9; [2009 5887](https://fedlex.data.admin.ch/eli/oc/2009/720); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)cifra I n. 10; [2011 6183](https://fedlex.data.admin.ch/eli/oc/2011/864); [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383), [6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 2; [2013 2735](https://fedlex.data.admin.ch/eli/oc/2013/566), [2761](https://fedlex.data.admin.ch/eli/oc/2013/567)cifra II, [3037](https://fedlex.data.admin.ch/eli/oc/2013/593); [2014 2849](https://fedlex.data.admin.ch/eli/oc/2014/492); [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)cifra I n. 3]
 [^annex7-lvlu1-6]: [[RU 2013 3023](https://fedlex.data.admin.ch/eli/oc/2013/588)]
 [^annex7-lvlu1-7]: Le mod. possono essere consultate alla [RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810).
