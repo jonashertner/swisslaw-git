@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2024-11-01
+version: 2025-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20241101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20241101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in vigore il 1° febbraio 2020
 
-(Stato 1° novembre 2024)
+(Stato 1° novembre 2025)
 
 [^t-1]: Correzione del 12 apr. 2022 ([RU 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -170,7 +170,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 - c) Quando uno studio od un ufficio legale, oppure un ufficio di consulenza per brevetti o marchi, è stato indicato all’Ufficio internazionale come mandatario, esso è considerato come unico mandatario.
 - d) ...
 
-- a)[^3-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o dal nuovo titolare della registrazione internazionale in una domanda di cui alla regola 25.1)a)i), che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del mandatario.
+- a)[^3-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o dal nuovo titolare della registrazione internazionale in una domanda di cui alla regola 25.1)a)i), che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché gli indirizzi di posta elettronica del mandatario e del depositante o del titolare quando l’indirizzo di posta elettronica del depositante o del titolare non è indicato nella domanda internazionale o in una domanda di iscrizione anteriore.
 - b)[^3-2]
 
   La costituzione di un mandatario può anche essere fatta in una comunicazione separata, purché sia utilizzato il modulo ufficiale previsto, e può riferirsi ad una o a più domande internazionali specifiche o ad una o più registrazioni internazionali specifiche del medesimo depositante o titolare. Tale modulo deve essere presentato all’Ufficio internazionale:
@@ -205,7 +205,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 - e) Non appena è nota la data di entrata in vigore della radiazione, l’Ufficio internazionale notifica la radiazione e la data in cui essa entra in vigore al mandatario la cui iscrizione è stata radiata, al depositante o titolare e, se la costituzione del mandatario è stata presentata attraverso un Ufficio, a tale Ufficio.
 - f) Le radiazioni richieste dal titolare o dal suo mandatario sono notificate anche agli Uffici delle parti contraenti designate.
 
-[^3-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 [^3-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 [^3-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^3-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
@@ -805,7 +805,7 @@ Quando l’Ufficio internazionale è stato informato, in conformità dell’alin
 
 **Licenze**
 
-\1) [Domanda d’iscrizione di una licenza]
+\1) [Domanda di iscrizione di una licenza]
 
 \2) [Domanda irregolare]
 
@@ -813,22 +813,24 @@ Quando l’Ufficio internazionale è stato informato, in conformità dell’alin
 
 \4) [Modifica o radiazione dell’iscrizione di una licenza]
 
-Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o di radiazione dell’iscrizione di una licenza.
+Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o di radiazione dell’iscrizione di una licenza.[^20bis-1]
 
 \5) [Dichiarazione in base alla quale l’iscrizione di una data licenza è priva di effetto]
 
 \6) [Dichiarazione in base alla quale l’iscrizione delle licenze nel registro internazionale è priva di effetto in una parte contraente]
 
-- a) Una domanda d’iscrizione di una licenza deve essere presentata all’Ufficio internazionale tramite l’apposito formulario ufficiale, dal titolare o, se l’Ufficio ammette tale presentazione, dall’Ufficio della parte contraente del titolare o dall’Ufficio di una parte contraente nei confronti della quale la licenza è accordata.
+- a) Una domanda di iscrizione di una licenza deve essere presentata all’Ufficio internazionale tramite l’apposito formulario ufficiale, dal titolare o, se l’Ufficio ammette tale presentazione, dall’Ufficio della parte contraente del titolare o dall’Ufficio di una parte contraente nei confronti della quale la licenza è accordata.
 - b)
 
   La domanda deve indicare:
 
-  - i) il numero della registrazione internazionale considerata;
+  - i) il numero della registrazione internazionale interessata;
   - ii) il nome del titolare;
-  - iii) il nome e l’indirizzo del titolare della licenza indicati conformemente alle istruzioni amministrative;
+  - iii) il nome e l’indirizzo del titolare della licenza indicati conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
   - iv) le parti contraenti designate per le quali è accordata la licenza;
-  - v) il fatto che la licenza è accordata per tutti i prodotti e servizi coperti dalla registrazione internazionale, o i prodotti e servizi per i quali è accordata la licenza, raggruppati secondo le classi appropriate della classificazione internazionale dei prodotti e dei servizi.
+  - v) il fatto che la licenza è accordata per tutti i prodotti e servizi coperti dalla registrazione internazionale, o i prodotti e servizi per i quali è accordata la licenza, raggruppati secondo le classi appropriate della classificazione internazionale dei prodotti e dei servizi;
+  - vi) l’indirizzo di posta elettronica del titolare, quando non è indicato nella domanda internazionale o in una domanda di iscrizione anteriore;
+  - vii) all’occorrenza, l’indirizzo di posta elettronica del mandatario, quando non è indicato come tale nella domanda di iscrizione della costituzione del mandatario.
 
 - c)
 
@@ -836,19 +838,19 @@ Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o d
 
   - i) quando la persona cui è concessa la licenza è una persona fisica, lo Stato di cui il titolare della licenza è cittadino;
   - ii) quando il titolare della licenza è una persona giuridica, la forma giuridica di tale persona giuridica nonché lo Stato e, all’occorrenza, l’entità territoriale all’interno di tale Stato, in conformità della cui legislazione la suddetta persona giuridica è stata costituita;
-  - iii) il fatto che la licenza concerne solo una parte del territorio di una parte contraente determinata;
-  - iv) quando il titolare della licenza ha un mandatario, il nome e l’indirizzo del mandatario, indicati conformemente alle istruzioni amministrative;
+  - iii) il fatto che la licenza concerne solo una parte del territorio di una determinata parte contraente;
+  - iv) quando il titolare della licenza ha un mandatario, il nome e l’indirizzo del mandatario, indicati conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
   - v) quando la licenza è una licenza esclusiva o una licenza unica, questo fatto;
   - vi) all’occorrenza, la durata della licenza.
 
-- d) La domanda deve essere firmata dal titolare o dall’Ufficio tramite il quale è stata presentata.
+- d) La domanda deve essere firmata dal titolare o dall’Ufficio tramite il quale è stata presentata.[^20bis-2]
 
-- a) Se la domanda d’iscrizione di una licenza non soddisfa le condizioni previste all’alinea 1)a), b) e d), l’Ufficio internazionale notifica tale fatto al titolare e, se la domanda è stata presentata da un Ufficio, a tale Ufficio.
-- b) Se l’irregolarità non è corretta entro tre mesi a decorrere dalla data della notifica dell’irregolarità da parte dell’Ufficio internazionale, la domanda è considerata abbandonata e l’Ufficio internazionale notifica tale fatto contemporaneamente al titolare e, se la domanda è stata presentata da un Ufficio, a tale Ufficio e rimborsa tutte le tasse pagate all’autore del pagamento di queste tasse, dopo aver dedotto un importo corrispondente alla metà delle relative tasse di cui al punto 7 della tabella degli emolumenti e tasse.
+- a) Se la domanda di iscrizione di una licenza non soddisfa le condizioni previste all’alinea 1) a), b) e d), l’Ufficio internazionale notifica tale fatto al titolare, al titolare della licenza o, all’occorrenza, al suo mandatario e, se la domanda è stata presentata da un Ufficio, a tale Ufficio.
+- b) Se l’irregolarità non è corretta entro tre mesi a decorrere dalla data della notifica dell’irregolarità da parte dell’Ufficio internazionale, la domanda è considerata abbandonata e l’Ufficio internazionale notifica tale fatto contemporaneamente al titolare, al titolare della licenza o, all’occorrenza, al suo mandatario e, se la domanda è stata presentata da un Ufficio, a tale Ufficio, e rimborsa tutte le tasse pagate all’autore del pagamento di queste tasse, dopo aver dedotto un importo corrispondente alla metà delle relative tasse di cui al punto 7 della tabella degli emolumenti e tasse.[^20bis-3]
 
-- a) Quando la domanda soddisfa le condizioni previste all’alinea 1) a), b) e d), l’Ufficio internazionale iscrive la licenza nel registro internazionale, con le informazioni contenute nella domanda, notifica questo fatto all’Ufficio delle parti contraenti designate per le quali è accordata la licenza e informa contemporaneamente il titolare e, se la domanda è stata presentata da un Ufficio, tale Ufficio.
+- a) Quando la domanda soddisfa le condizioni previste all’alinea 1) a), b) e d), l’Ufficio internazionale iscrive la licenza nel registro internazionale, con le informazioni contenute nella domanda, notifica questo fatto all’Ufficio delle parti contraenti designate per le quali è accordata la licenza e informa contemporaneamente il titolare, il titolare della licenza o, all’occorrenza, il suo mandatario e, se la domanda è stata presentata da un Ufficio, tale Ufficio.
 - b) La licenza è iscritta alla data di ricezione da parte dell’Ufficio internazionale di una domanda che soddisfi le condizioni richieste.
-- c) Nonostante il punto b), quando il proseguimento della procedura è stato iscritto in virtù della regola 5<sup>bis</sup>, la licenza è iscritta nel registro internazionale alla data in cui scade il termine previsto al punto 2)b).
+- c) Nonostante il punto b), quando il proseguimento della procedura è stato iscritto in virtù della regola 5<sup>bis</sup>, la licenza è iscritta nel registro internazionale alla data in cui scade il termine previsto al punto 2)b).[^20bis-4]
 
 - a) L’Ufficio di una parte contraente designata a cui l’Ufficio internazionale notifica l’iscrizione di una licenza riguardante tale parte contraente può dichiarare che questa iscrizione è priva di effetto nella suddetta parte contraente.
 - b)
@@ -856,16 +858,22 @@ Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o d
   La dichiarazione di cui al punto a) deve indicare:
 
   - i) i motivi per i quali l’iscrizione della licenza è priva di effetto;
-  - ii) quando la dichiarazione non riguarda tutti i prodotti e servizi cui si riferisce la licenza, i prodotti e servizi che sono considerati, o quelli che non sono considerati, dalla dichiarazione;
+  - ii) quando la dichiarazione non riguarda tutti i prodotti e servizi cui si riferisce la licenza, i prodotti e servizi che sono interessati, o quelli che non sono interessati, dalla dichiarazione;
   - iii) le disposizioni essenziali corrispondenti della legge; e
   - iv) se questa dichiarazione può essere oggetto di riesame o di ricorso.
 
 - c) La dichiarazione di cui al punto a) è inviata all’Ufficio internazionale prima della scadenza di 18 mesi a decorrere dalla data in cui la notifica di cui all’alinea 3) è stata inviata all’Ufficio interessato.
-- d) L’Ufficio internazionale iscrive nel registro internazionale qualsiasi dichiarazione fatta conformemente al punto c), e la notifica, a seconda che la domanda d’iscrizione della licenza sia stata presentata dal titolare o dall’Ufficio, al suddetto titolare o al suddetto Ufficio. La dichiarazione è iscritta alla data di ricezione da parte dell’Ufficio internazionale di una comunicazione che soddisfi le condizioni richieste.
-- e) Qualsiasi decisione definitiva riguardante una dichiarazione fatta conformemente al punto a) è notificata all’Ufficio internazionale, il quale la iscrive nel registro internazionale e la notifica, a seconda che la domanda di iscrizione della licenza sia stata presentata dal titolare o da un Ufficio, al suddetto titolare o al suddetto Ufficio.
+- d) L’Ufficio internazionale iscrive nel registro internazionale qualsiasi dichiarazione fatta conformemente al punto c) e la notifica, a seconda che la domanda di iscrizione della licenza sia stata presentata dal titolare o dall’Ufficio, al suddetto titolare o al suddetto Ufficio e al titolare della licenza o, all’occorrenza, al suo mandatario. La dichiarazione è iscritta alla data di ricezione da parte dell’Ufficio internazionale di una comunicazione che soddisfi le condizioni richieste.
+- e) Qualsiasi decisione definitiva riguardante una dichiarazione fatta conformemente al punto c) è notificata all’Ufficio internazionale, il quale la iscrive nel registro internazionale e la notifica, a seconda che la domanda di iscrizione della licenza sia stata presentata dal titolare o da un Ufficio, al suddetto titolare o al suddetto Ufficio, nonché al titolare della licenza o, all’occorrenza, al suo mandatario.[^20bis-5]
 
 - a) L’Ufficio di una parte contraente la cui legislazione non prevede l’iscrizione di licenze di marchi può notificare al Direttore generale che l’iscrizione delle licenze nel registro internazionale è priva di effetto in questa parte contraente.
 - b) L’Ufficio di una parte contraente la cui legislazione prevede l’iscrizione di licenze di marchi può, prima della data in cui la presente regola entra in vigore o alla data in cui la suddetta parte contraente diventa vincolata dal Protocollo, notificare al Direttore generale che l’iscrizione delle licenze nel registro internazionale è priva di effetto in questa parte contraente. Tale notifica può essere ritirata in ogni momento.
+
+[^20bis-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-5]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regola 21
 
@@ -1026,7 +1034,7 @@ Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione succes
 
 - a) Una parte contraente può essere oggetto di una designazione successiva alla registrazione internazionale (in seguito detta «designazione successiva») quando, all’atto di tale designazione, il titolare soddisfa le condizioni previste all’articolo 2 del Protocollo per essere il titolare di una registrazione internazionale.
 - b) ...
-- c) ...
+- c) ...[^24-1]
 
 - a)
 
@@ -1036,18 +1044,20 @@ Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione succes
   - ii) ...
   - iii) quando si applica l’alinea 7), la designazione successiva risultante da una conversione deve essere presentata dall’Ufficio dell’organizzazione contraente.
 
-- b) La designazione successiva deve essere presentata sul modulo ufficiale. Quando essa è presentata dal titolare, deve essere firmata dal titolare. Quando è presentata da un Ufficio, deve essere firmata da tale Ufficio e, quando l’Ufficio lo pretende, anche dal titolare. Quando essa è presentata da un Ufficio e quando questo Ufficio, senza pretendere che la designazione successiva sia firmata dal titolare, consente che sia anche firmata dal titolare, il titolare può firmare la designazione successiva.
+- b) La designazione successiva deve essere presentata sul modulo ufficiale. Quando essa è presentata dal titolare, deve essere firmata dal titolare. Quando è presentata da un Ufficio, deve essere firmata da tale Ufficio e, quando l’Ufficio lo pretende, anche dal titolare. Quando essa è presentata da un Ufficio e quando questo Ufficio, senza pretendere che la designazione successiva sia firmata dal titolare, consente che sia anche firmata dal titolare, il titolare può firmare la designazione successiva.[^24-2]
 
 - a)
 
   Fatto salvo l’alinea 7)b), la designazione successiva deve contenere o indicare:
 
-  - i) il numero di registrazione internazionale considerata;
-  - ii)[^24-1] il nome del titolare;
+  - i) il numero di registrazione internazionale interessata;
+  - ii) il nome del titolare;
   - iii) la parte contraente che è designata;
-  - iv) se la designazione successiva si riferisce a tutti i prodotti e servizi elencati nella registrazione internazionale considerata, tale fatto, oppure, se la designazione successiva si riferisce soltanto a una parte dei prodotti e servizi elencati nella registrazione internazionale considerata, tali prodotti e servizi;
-  - v) l’ammontare degli emolumenti e tasse pagati e le modalità di pagamento, o le direttive per prelevare l’ammontare richiesto degli emolumenti e tasse da un conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle direttive; e
-  - vi) se la designazione successiva è presentata da un Ufficio, la data in cui essa è stata ricevuta da tale Ufficio.
+  - iv) se la designazione successiva si riferisce a tutti i prodotti e servizi elencati nella registrazione internazionale interessata, tale fatto, oppure, se la designazione successiva si riferisce soltanto a una parte dei prodotti e servizi elencati nella registrazione internazionale interessata, tali prodotti e servizi;
+  - v) l’ammontare degli emolumenti e tasse pagati e le modalità di pagamento, o le direttive per prelevare l’ammontare richiesto degli emolumenti e tasse da un conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle direttive;
+  - vi) se la designazione successiva è presentata da un Ufficio, la data in cui essa è stata ricevuta da tale Ufficio;
+  - vii) l’indirizzo di posta elettronica del titolare quando non indicato nella domanda internazionale o in una domanda di iscrizione anteriore; e
+  - viii) all’occorrenza, l’indirizzo di posta elettronica del mandatario, quando non è indicato come tale nella domanda di iscrizione della costituzione del mandatario.[^24-3]
 
 - b)
 
@@ -1090,7 +1100,9 @@ Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione succes
   - i) l’organizzazione contraente la cui designazione deve essere convertita; e
   - ii) il fatto che la designazione successiva di uno Stato membro risultante dalla conversione concerne tutti i prodotti e servizi coperti dalla designazione dell’organizzazione contraente o, se la designazione successiva di tale Stato membro riguarda solo una parte di questi prodotti e servizi, tali prodotti e servizi.
 
-[^24-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^24-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^24-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^24-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regola 25
 
@@ -1110,28 +1122,30 @@ Quando la domanda di iscrizione di un cambiamento di titolare della registrazion
 
   Una domanda di iscrizione deve essere presentata all’Ufficio internazionale sul modulo ufficiale pertinente quando tale domanda si riferisce a:
 
-  - i) un cambiamento di titolare della registrazione internazionale per la totalità o una parte dei prodotti e servizi e riguardante l<sup>’</sup>insieme o talune delle parti contraenti designate;
+  - i) un cambiamento di titolare della registrazione internazionale per la totalità o una parte dei prodotti e servizi e riguardante l’insieme o talune delle parti contraenti designate;
   - ii) una limitazione dell’elenco dei prodotti e servizi riguardanti l’insieme o talune delle parti contraenti designate;
   - iii) una rinuncia riguardante talune parti contraenti designate per tutti i prodotti e servizi;
   - iv) una modifica del nome o dell’indirizzo del titolare o, quando il titolare è una persona giuridica, all’introduzione o a una modifica delle indicazioni relative alla forma giuridica del titolare, nonché allo Stato e, all’occorrenza, all’entità territoriale all’interno di questo Stato in base alla cui legislazione la suddetta persona giuridica è stata costituita;
   - v) la radiazione della registrazione internazionale riguardante tutte le parti contraenti designate per la totalità o per una parte dei prodotti e servizi;
   - vi) una modifica del nome o dell’indirizzo del mandatario.
 
-- b) La domanda deve essere presentata dal titolare o dall’Ufficio della parte contraente del titolare; ciononostante, la domanda d’iscrizione di un cambiamento di titolare può essere presentata per il tramite dell’Ufficio della parte contraente o di una delle parti contraenti indicate in questa domanda conformemente all’alinea 2)a)iv).
+- b) La domanda deve essere presentata dal titolare o dall’Ufficio della parte contraente del titolare; ciononostante, la domanda di iscrizione di un cambiamento di titolare può essere presentata per il tramite dell’Ufficio della parte contraente o di una delle parti contraenti indicate in questa domanda conformemente all’alinea 2)a)iv).
 - c) ...
-- d) Quando la domanda è presentata dal titolare, essa deve essere firmata dal titolare. Quando è presentata da un Ufficio, deve essere firmata da questo Ufficio e, quando l’Ufficio lo pretende, anche dal titolare. Quando la domanda è presentata da un Ufficio e quando questo Ufficio, senza pretendere che la domanda sia firmata dal titolare, consente che sia firmata anche dal titolare, il titolare può firmare la domanda.
+- d) Quando la domanda è presentata dal titolare, essa deve essere firmata dal titolare. Quando è presentata da un Ufficio, deve essere firmata da questo Ufficio e, quando l’Ufficio lo pretende, anche dal titolare. Quando la domanda è presentata da un Ufficio e quando questo Ufficio, senza pretendere che la domanda sia firmata dal titolare, consente che sia firmata anche dal titolare, il titolare può firmare la domanda.[^25-1]
 
-- a)
+- a)[^25-2]
 
-  La domanda di iscrizione di una modifica o la domanda di iscrizione di una radiazione deve contenere o indicare, oltre all’iscrizione o alla radiazione richiesta:
+  La domanda di cui all’alinea 1)a) deve contenere o indicare, oltre all’iscrizione richiesta:
 
-  - i) il numero della registrazione internazionale considerata;
+  - i) il numero della registrazione internazionale interessata;
   - ii) il nome del titolare o il nome del mandatario, quando la modifica si riferisce al nome o all’indirizzo del mandatario;
-  - iii)[^25-1] nel caso di un cambiamento di titolare della registrazione internazionale, il nome e l’indirizzo, indicati in conformità delle istruzioni amministrative, nonché l’indirizzo di posta elettronica della persona fisica o giuridica indicata nella domanda come nuovo titolare della registrazione internazionale (più avanti chiamato «nuovo titolare»);
+  - iii) nel caso di un cambiamento di titolare della registrazione internazionale, il nome e l’indirizzo, indicati in conformità delle istruzioni amministrative, nonché l’indirizzo di posta elettronica della persona fisica o giuridica indicata nella domanda come nuovo titolare della registrazione internazionale (più avanti chiamato «nuovo titolare»);
   - iv) nel caso di un cambiamento di titolare della registrazione internazionale, la parte contraente o le parti contraenti nei cui confronti il nuovo titolare soddisfa le condizioni previste nell’articolo 2 del Protocollo per essere il titolare di una registrazione internazionale;
   - v) nel caso di un cambiamento di titolare della registrazione internazionale, quando l’indirizzo del nuovo titolare indicato in conformità del punto iii) non è sul territorio della parte contraente o di una delle parti contraenti, indicato in conformità del punto iv), e a meno che il nuovo titolare non abbia indicato di essere cittadino di uno Stato contraente o di uno Stato membro di un’organizzazione contraente, l’indirizzo dell’azienda, o il domicilio, del nuovo titolare nella parte contraente o in una delle parti contraenti nei confronti della quale costui soddisfa le condizioni richieste per essere titolare della registrazione internazionale;
-  - vi) nel caso di un cambiamento di titolare della registrazione internazionale che non riguarda tutti i prodotti e servizi e neppure tutte le parti contraenti designate, i prodotti e servizi e le parti contraenti designate che sono interessate dal cambiamento di titolare; e
-  - vii) l’ammontare delle tasse pagate e le modalità di pagamento, o le direttive per prelevare l’ammontare richiesto degli emolumenti e tasse da un conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle direttive.
+  - vi) nel caso di un cambiamento di titolare della registrazione internazionale che non riguarda tutti i prodotti e servizi e neppure tutte le parti contraenti designate, i prodotti e servizi e le parti contraenti designate che sono interessate dal cambiamento di titolare;
+  - vii) l’ammontare delle tasse pagate e le modalità di pagamento, o le direttive per prelevare l’ammontare richiesto degli emolumenti e tasse da un conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle direttive;
+  - viii) l’indirizzo di posta elettronica del titolare quando non è indicato nella domanda internazionale o in una domanda di iscrizione anteriore;
+  - ix) all’occorrenza, l’indirizzo di posta elettronica del mandatario, quando non è indicato come tale nella domanda di iscrizione della costituzione del mandatario.
 
 - b)
 
@@ -1143,7 +1157,8 @@ Quando la domanda di iscrizione di un cambiamento di titolare della registrazion
 - c) La domanda di iscrizione di una modifica o di una radiazione può anche contenere una richiesta intesa a far sì che questa iscrizione sia effettuata prima o dopo quella di un’altra modifica o radiazione o di una designazione successiva concernente la registrazione internazionale in questione o dopo il rinnovo della registrazione internazionale.
 - d) La domanda di iscrizione di una limitazione deve raggruppare unicamente i prodotti e i servizi limitati secondo i numeri corrispondenti delle classi della classificazione internazionale dei prodotti e dei servizi che figurano nella registrazione internazionale o, quando la limitazione riguarda tutti i prodotti e i servizi in una o più di tali classi, deve indicare le classi da sopprimere.
 
-[^25-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^25-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^25-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regola 26
 
@@ -1475,7 +1490,7 @@ Al momento del pagamento di un emolumento o di una tassa all’Ufficio internazi
 
 #### Regola 35
 
-**Valuta di pagamento**
+**Valuta di pagamento**[^35-1]
 
 \1) [Obbligo di utilizzare la valuta svizzera]
 
@@ -1483,10 +1498,15 @@ Tutti i pagamenti dovuti in conformità di questo regolamento di esecuzione devo
 
 \2) [Determinazione dell’ammontare delle tasse individuali in valuta svizzera]
 
+d) Quando, per più di tre mesi consecutivi, il tasso ufficiale di cambio delle Nazioni Unite tra la valuta svizzera ed un’altra valuta nella quale l’ammontare di una tassa individuale è stato indicato da una parte contraente è inferiore di almeno il 5 % rispetto all’ultimo tasso di cambio applicato per la determinazione dell’ammontare della tassa individuale in valuta svizzera, il Direttore generale stabilisce un nuovo ammontare della tassa individuale in valuta svizzera, sulla base del tasso attuale ufficiale di cambio delle Nazioni Unite. Il nuovo ammontare è applicabile a decorrere dalla data stabilita dal Direttore generale, fermo restando che tale data è situata al più presto un mese e al più tardi due mesi dopo la data della pubblicazione del suddetto ammontare sul bollettino.
+
 - a) Quando una parte contraente fa, in virtù dell’articolo 8.7)a) del Protocollo, una dichiarazione in base alla quale desidera ricevere una tassa individuale, tale parte indica all’Ufficio internazionale l’ammontare di questa tassa espresso nella valuta utilizzata dal suo Ufficio.
-- b) Quando, nella dichiarazione di cui al punto a), la tassa è indicata in una valuta diversa dalla svizzera, il Direttore generale stabilisce l<sup>’</sup>ammontare della tassa individuale in valuta svizzera, dopo una consultazione con l’Ufficio della parte contraente interessata, sulla base del tasso ufficiale di cambio delle Nazioni Unite.
-- c) Quando, durante più di tre mesi consecutivi, il tasso ufficiale di cambio delle Nazioni Unite tra la valuta svizzera ed un’altra valuta nella quale l’ammontare di una tassa individuale è stato indicato da una parte contraente, è superiore o inferiore di almeno il 5 % in rapporto all’ultimo tasso di cambio applicato per la determinazione dell’ammontare della tassa individuale in valuta svizzera, l’Ufficio di questa parte contraente può chiedere al Direttore generale di stabilire un nuovo ammontare della tassa individuale in valuta svizzera sulla base del tasso ufficiale di cambio delle Nazioni Unite applicabile il giorno che precede quello in cui questa domanda è presentata. Il Direttore generale prende le disposizioni necessarie in tal senso. Il nuovo ammontare è applicabile a decorrere dalla data fissata dal Direttore generale, essendo convenuto che questa data è situata al più presto un mese ed al più tardi due mesi dopo la data della pubblicazione del suddetto ammontare sul bollettino.
-- d) Quando, durante più di tre mesi consecutivi, il tasso ufficiale di cambio delle Nazioni Unite tra la valuta svizzera ed un’altra valuta nella quale l’ammontare di una tassa individuale è stato indicato da una parte contraente, è inferiore di almeno il 10 % in rapporto all’ultimo tasso di cambio applicato per la determinazione dell’ammontare della tassa individuale in valuta svizzera, il Direttore generale stabilisce un nuovo ammontare della tassa individuale in valuta svizzera, sulla base del tasso attuale ufficiale di cambio delle Nazioni Unite. Il nuovo ammontare è applicabile a decorrere dalla data stabilita dal Direttore generale, essendo convenuto che tale data è situata al più presto un mese e al più tardi due mesi dopo la data della pubblicazione del suddetto ammontare sul bollettino.
+- b) Quando, nella dichiarazione di cui al punto a), la tassa è indicata in una valuta diversa da quella svizzera, il Direttore generale stabilisce l’ammontare della tassa individuale in valuta svizzera, dopo aver consultato l’Ufficio della parte contraente interessata, sulla base del tasso ufficiale di cambio delle Nazioni Unite.
+- c) Quando, per più di tre mesi consecutivi, il tasso ufficiale di cambio delle Nazioni Unite tra la valuta svizzera ed un’altra valuta nella quale l’ammontare di una tassa individuale è stato indicato da una parte contraente è superiore di almeno il 5 % rispetto all’ultimo tasso di cambio applicato per la determinazione dell’ammontare della tassa individuale in valuta svizzera, l’Ufficio di questa parte contraente può chiedere al Direttore generale di stabilire un nuovo ammontare della tassa individuale in valuta svizzera sulla base del tasso ufficiale di cambio delle Nazioni Unite applicabile il giorno che precede quello in cui questa domanda è presentata. Il Direttore generale prende le disposizioni necessarie a tal fine. Il nuovo ammontare è applicabile a decorrere dalla data fissata dal Direttore generale, fermo restando che questa data è situata al più presto un mese ed al più tardi due mesi dopo la data della pubblicazione del suddetto ammontare sul bollettino.
+
+- e) Se le condizioni previste all’alinea c) sopraindicata sono soddisfatte, l’Ufficio internazionale informa in proposito l’Ufficio della parte contraente interessata.
+
+[^35-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2025 ([RU 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regola 36
 
@@ -1836,4 +1856,4 @@ Gli emolumenti e le tasse sono pagati all’Ufficio internazionale:
 
 - i) per mezzo di un prelievo da un conto corrente aperto presso l’Ufficio internazionale; o
 - ii) per mezzo di un versamento sul conto corrente postale svizzero dell’Ufficio internazionale o su qualsiasi conto bancario dell’Ufficio internazionale indicato allo scopo; o
-- iii) per mezzo di una carta di credito quando, nel caso di una comunicazione elettronica menzionata nell’istruzione 11, un’interfaccia elettronica è stata messa a disposizione dall’Ufficio internazionale per un pagamento in linea.
+- iii) per mezzo di una carta di credito quando, nel caso di una comunicazione elettronica menzionata nell’istruzione 11, un’interfaccia elettronica è stata messa a disposizione dall’Ufficio internazionale per un pagamento in linea..

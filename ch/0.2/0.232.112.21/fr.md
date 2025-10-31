@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2024-11-01
+version: 2025-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20241101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20241101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(État le 1<sup>er</sup> novembre 2024)
+(État le 1<sup>er</sup> novembre 2025)
 
 [^t-1]: Erratum du 12 avr. 2022 ([RO 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -65,7 +65,7 @@ Entré en vigueur le 1<sup>er</sup> février 2020
 <tr><td>Chapitre 5:</td><td>Désignations postérieures; modifications</td></tr>
 <tr><td>Règle 23<sup>bis</sup></td><td>Communications des Offices des parties contractantes désignées envoyées par l’intermédiaire du Bureau international</td></tr>
 <tr><td>Règle 24</td><td>Désignation postérieure à l’enregistrement international</td></tr>
-<tr><td>Règle 25</td><td>Demande d’inscription d’une modification; demande d’inscription d’une radiation</td></tr>
+<tr><td>Règle 25</td><td>Demande d’inscription</td></tr>
 <tr><td>Règle 26</td><td>Irrégularités dans les demandes d’inscription en vertu de la règle 25</td></tr>
 <tr><td>Règle 27</td><td>Inscription et notification d’une modification ou d’une radiation; déclaration selon laquelle un changement de titulaire ou une limitation est sans effet</td></tr>
 <tr><td>Règle 27<sup>bis</sup></td><td>Division d’un enregistrement international</td></tr>
@@ -172,7 +172,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 - c) Lorsqu’un cabinet ou bureau d’avocats, ou de conseils en brevets ou en marques, a été indiqué au Bureau international comme mandataire, il est considéré comme constituant un seul mandataire.
 - d) …
 
-- a)[^3-1] La constitution d’un mandataire peut être faite dans la demande internationale ou par le nouveau titulaire de l’enregistrement international dans une demande visée à la règle 25.1)a)i) qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
+- a)[^3-1] La constitution d’un mandataire peut être faite dans la demande internationale ou par le nouveau titulaire de l’enregistrement international dans une demande visée à la règle 25.1)a)i) qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que les adresses électroniques du mandataire et du déposant ou du titulaire lorsque l’adresse électronique du déposant ou du titulaire n’était pas indiquée dans la demande internationale ou dans une demande d’inscription antérieure.
 - b)[^3-2]
 
   La constitution d’un mandataire peut aussi être faite dans une communication distincte, à condition d’utiliser le formulaire officiel prévu, et elle peut se rapporter à une ou plusieurs demandes internationales spécifiées ou à un ou plusieurs enregistrements internationaux spécifiés du même déposant ou titulaire. Ce formulaire doit être présentée au Bureau international:
@@ -207,7 +207,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 - e) Dès l’instant où la date de prise d’effet de la radiation est connue, le Bureau international notifie la radiation et la date à laquelle elle prend effet au mandataire dont l’inscription a été radiée, au déposant ou titulaire et, si la constitution du mandataire a été présentée par l’intermédiaire d’un Office, à cet Office.
 - f) Les radiations à la demande du titulaire ou du mandataire du titulaire sont également notifiées aux Offices des parties contractantes désignées.
 
-[^3-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 [^3-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2022 ([RO 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 [^3-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^3-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
@@ -815,7 +815,7 @@ Lorsque le Bureau international a été informé, conformément à l’al. 1), d
 
 \4) [Modification ou radiation de l’inscription d’une licence]
 
-Les al. 1) à 3) s’appliquent mutatis mutandis à une demande de modification ou de radiation de l’inscription d’une licence.
+Les al. 1) à 3) s’appliquent *mutatis mutandis* à une demande de modification ou de radiation de l’inscription d’une licence.[^20bis-1]
 
 \5) [Déclaration selon laquelle l’inscription d’une licence donnée est sans effet]
 
@@ -828,9 +828,11 @@ Les al. 1) à 3) s’appliquent mutatis mutandis à une demande de modification 
 
   - i) le numéro de l’enregistrement international concerné;
   - ii) le nom du titulaire;
-  - iii) le nom et l’adresse du preneur de licence indiqués conformément aux instructions administratives;
+  - iii) le nom et l’adresse du preneur de licence indiqués conformément aux instructions administratives, ainsi que son adresse électronique;
   - iv) les parties contractantes désignées pour lesquelles la licence est accordée;
-  - v) le fait que la licence est accordée pour tous les produits et services couverts par l’enregistrement international, ou les produits et services pour lesquels la licence est accordée, groupés selon les classes appropriées de la classification internationale des produits et des services.
+  - v) le fait que la licence est accordée pour tous les produits et services couverts par l’enregistrement international, ou les produits et services pour lesquels la licence est accordée, groupés selon les classes appropriées de la classification internationale des produits et des services;
+  - vi) l’adresse électronique du titulaire lorsque celle-ci n’était pas indiquée dans la demande internationale ou dans une demande d’inscription antérieure;
+  - vii) l’adresse électronique du mandataire, le cas échéant, lorsque celle-ci n’était pas indiquée dans la demande d’inscription de la constitution du mandataire comme telle.
 
 - c)
 
@@ -839,18 +841,18 @@ Les al. 1) à 3) s’appliquent mutatis mutandis à une demande de modification 
   - i) lorsque le preneur de licence est une personne physique, l’État dont le preneur de licence est ressortissant;
   - ii) lorsque le preneur de licence est une personne morale, la forme juridique de cette personne morale ainsi que l’État et, le cas échéant, l’entité territoriale à l’intérieur de cet État, selon la législation duquel ou desquels ladite personne morale a été constituée;
   - iii) le fait que la licence ne concerne qu’une partie du territoire d’une partie contractante déterminée;
-  - iv) lorsque le preneur de licence a un mandataire, le nom et l’adresse du mandataire, indiqués conformément aux instructions administratives;
+  - iv) lorsque le preneur de licence a un mandataire, le nom et l’adresse du mandataire, indiqués conformément aux instructions administratives, ainsi que son adresse électronique;
   - v) lorsque la licence est une licence exclusive ou une licence unique, ce fait;
   - vi) le cas échéant, la durée de la licence.
 
-- d) La demande doit être signée par le titulaire ou par l’Office par l’intermédiaire duquel elle est présentée.
+- d) La demande doit être signée par le titulaire ou par l’Office par l’intermédiaire duquel elle est présentée.[^20bis-2]
 
-- a) Si la demande d’inscription d’une licence ne remplit pas les conditions prévues à l’al. 1)a), b) et d), le Bureau international notifie ce fait au titulaire et, si la demande a été présentée par un Office, à cet Office.
-- b) Si l’irrégularité n’est pas corrigée dans un délai de trois mois à compter de la date de la notification de l’irrégularité par le Bureau international, la demande est réputée abandonnée et le Bureau international notifie ce fait en même temps au titulaire et, si la demande a été présentée par un Office, à cet Office, et il rembourse toutes les taxes payées à l’auteur du paiement de ces taxes, après déduction d’un montant correspondant à la moitié des taxes pertinentes visées au point 7 du barème des émoluments et taxes.
+- a) Si la demande d’inscription d’une licence ne remplit pas les conditions prévues à l’al. 1)a), b) et d), le Bureau international notifie ce fait au titulaire, au preneur de licence ou à son mandataire, le cas échéant, et, si la demande a été présentée par un Office, à cet Office.
+- b) Si l’irrégularité n’est pas corrigée dans un délai de trois mois à compter de la date de la notification de l’irrégularité par le Bureau international, la demande est réputée abandonnée et le Bureau international notifie ce fait en même temps au titulaire, au preneur de licence ou à son mandataire, le cas échéant, et, si la demande a été présentée par un Office, à cet Office, et il rembourse toutes les taxes payées à l’auteur du paiement de ces taxes, après déduction d’un montant correspondant à la moitié des taxes pertinentes visées au point 7 du barème des émoluments et taxes.[^20bis-3]
 
-- a) Lorsque la demande remplit les conditions prévues à l’al 1)a), b) et d), le Bureau international inscrit la licence au registre international, avec les informations contenues dans la demande, notifie ce fait à l’Office des parties contractantes désignées pour lesquelles la licence est accordée et informe en même temps le titulaire et, si la demande a été présentée par un Office, cet Office.
+- a) Lorsque la demande remplit les conditions prévues à l’al 1)a), b) et d), le Bureau international inscrit la licence au registre international, avec les informations contenues dans la demande, notifie ce fait à l’Office des parties contractantes désignées pour lesquelles la licence est accordée et informe en même temps le titulaire, le preneur de licence ou son mandataire, le cas échéant, et, si la demande a été présentée par un Office, cet Office.
 - b) La licence est inscrite à la date de réception par le Bureau international d’une demande remplissant les conditions requises.
-- c) Nonobstant le sous‑alinéa b), lorsque la poursuite de la procédure a été inscrite en vertu de la règle 5<sup>bis</sup>, la licence est inscrite au registre international à la date d’expiration du délai prescrit à l’al. 2)b).
+- c) Nonobstant le sous‑alinéa b), lorsque la poursuite de la procédure a été inscrite en vertu de la règle 5<sup>bis</sup>, la licence est inscrite au registre international à la date d’expiration du délai prescrit à l’al. 2)b).[^20bis-4]
 
 - a) L’Office d’une partie contractante désignée à qui le Bureau international notifie l’inscription d’une licence concernant cette partie contractante peut déclarer que cette inscription est sans effet dans ladite partie contractante.
 - b)
@@ -863,11 +865,17 @@ Les al. 1) à 3) s’appliquent mutatis mutandis à une demande de modification 
   - iv) si cette déclaration peut faire l’objet d’un réexamen ou d’un recours.
 
 - c) La déclaration visée au sous-alinéa a) est envoyée au Bureau international avant l’expiration d’un délai de 18 mois à compter de la date à laquelle la notification visée à l’al. 3) a été envoyée à l’Office concerné.
-- d) Le Bureau international inscrit au registre international toute déclaration faite conformément au sous-alinéa c), et la notifie, selon que la demande d’inscription de la licence a été présentée par le titulaire ou par l’Office, audit titulaire ou audit Office. La déclaration est inscrite à la date de réception par le Bureau international d’une communication remplissant les conditions requises.
-- e) Toute décision définitive relative à une déclaration faite conformément au sous-alinéa c) est notifiée au Bureau international, qui l’inscrit au registre international et la notifie, selon que la demande d’inscription de la licence a été présentée par le titulaire ou par un Office, audit titulaire ou audit Office.
+- d) Le Bureau international inscrit au registre international toute déclaration faite conformément au sous-alinéa c), et la notifie, selon que la demande d’inscription de la licence a été présentée par le titulaire ou par l’Office, audit titulaire ou audit Office, ainsi qu’au preneur de licence ou à son mandataire, le cas échéant. La déclaration est inscrite à la date de réception par le Bureau international d’une communication remplissant les conditions requises.
+- e) Toute décision définitive relative à une déclaration faite conformément au sous-alinéa c) est notifiée au Bureau international, qui l’inscrit au registre international et la notifie, selon que la demande d’inscription de la licence a été présentée par le titulaire ou par un Office, audit titulaire ou audit Office, ainsi qu’au preneur de licence ou à son mandataire, le cas échéant.[^20bis-5]
 
 - a) L’Office d’une partie contractante dont la législation ne prévoit pas l’inscription de licences de marques peut notifier au Directeur général que l’inscription des licences au registre international est sans effet dans cette partie contractante.
 - b) L’Office d’une partie contractante dont la législation prévoit l’inscription de licences de marques peut, avant la date à laquelle la présente règle entre en vigueur ou la date à laquelle ladite partie contractante devient liée par le Protocole, notifier au Directeur général que l’inscription des licences au registre international est sans effet dans cette partie contractante. Une telle notification peut être retirée en tout temps.
+
+[^20bis-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-5]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Règle 21
 
@@ -1028,7 +1036,7 @@ Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postéri
 
 - a) Une partie contractante peut faire l’objet d’une désignation postérieurement à l’enregistrement international (ci-après dénommée «désignation postérieure») lorsque, au moment de cette désignation, le titulaire remplit les conditions prévues à l’art. 2 du Protocole pour être le titulaire d’un enregistrement international.
 - b) …
-- c) …
+- c) …[^24-1]
 
 - a)
 
@@ -1036,20 +1044,22 @@ Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postéri
 
   - i) …
   - ii) …
-  - iii) lorsque l’al. 7) s’applique, la désignation postérieure issue d’une conversion doit être présentée par l’Office de l’organisation contractante.
+  - [tab] iii) lorsque l’al. 7) s’applique, la désignation postérieure issue d’une conversion doit être présentée par l’Office de l’organisation contractante.
 
-- b) La désignation postérieure doit être présentée sur le formulaire officiel en un exemplaire. Lorsqu’elle est présentée par le titulaire, elle doit être signée par le titulaire. Lorsqu’elle est présentée par un Office, elle doit être signée par cet Office et, lorsque l’Office l’exige, aussi par le titulaire. Lorsqu’elle est présentée par un Office et que cet Office, sans exiger que la désignation postérieure soit signée par le titulaire, autorise qu’elle soit aussi signée par le titulaire, le titulaire peut signer la désignation postérieure.
+- b) La désignation postérieure doit être présentée sur le formulaire officiel en un exemplaire. Lorsqu’elle est présentée par le titulaire, elle doit être signée par le titulaire. Lorsqu’elle est présentée par un Office, elle doit être signée par cet Office et, lorsque l’Office l’exige, aussi par le titulaire. Lorsqu’elle est présentée par un Office et que cet Office, sans exiger que la désignation postérieure soit signée par le titulaire, autorise qu’elle soit aussi signée par le titulaire, le titulaire peut signer la désignation postérieure.[^24-2]
 
-- a)
+- a)[^24-3]
 
   Sous réserve de l’al. 7)b), la désignation postérieure doit contenir ou indiquer:
 
   - i) le numéro de l’enregistrement international concerné;
-  - ii)[^24-1] le nom du titulaire;
+  - ii) le nom du titulaire;
   - iii) la partie contractante qui est désignée;
   - iv) si la désignation postérieure se rapporte à tous les produits et services énumérés dans l’enregistrement international concerné, ce fait, ou, si la désignation postérieure ne se rapporte qu’à une partie des produits et services énumérés dans l’enregistrement international concerné, ces produits et services;
-  - v) le montant des émoluments et taxes payés et le mode de paiement, ou des instructions à l’effet de prélever le montant requis des émoluments et taxes sur un compte ouvert auprès du Bureau international, et l’identité de l’auteur du paiement ou des instructions, et
-  - vi) si la désignation postérieure est présentée par un Office, la date à laquelle elle a été reçue par cet Office.
+  - v) le montant des émoluments et taxes payés et le mode de paiement, ou des instructions à l’effet de prélever le montant requis des émoluments et taxes sur un compte ouvert auprès du Bureau international, et l’identité de l’auteur du paiement ou des instructions;
+  - vi) si la désignation postérieure est présentée par un Office, la date à laquelle elle a été reçue par cet Office;
+  - vii) l’adresse électronique du titulaire lorsque celle-ci n’était pas indiquée dans la demande internationale ou dans une demande d’inscription antérieure, et
+  - viii) l’adresse électronique du mandataire, le cas échéant, lorsque celle-ci n’était pas indiquée dans la demande d’inscription de la constitution du mandataire comme telle.
 
 - b)
 
@@ -1092,7 +1102,9 @@ Si les conditions de l’al. 2)a) ne sont pas remplies, la désignation postéri
   - i) l’organisation contractante dont la désignation doit être convertie, et
   - ii) le fait que la désignation postérieure d’un État membre issue de la conversion concerne tous les produits et services couverts par la désignation de l’organisation contractante ou, si la désignation postérieure de cet État membre concerne une partie seulement de ces produits et services, ces produits et services.
 
-[^24-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^24-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^24-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^24-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Règle 25
 
@@ -1121,19 +1133,21 @@ Lorsque la demande d’inscription d’un changement de titulaire de l’enregis
 
 - b) La demande doit être présentée par le titulaire ou par l’Office de la partie contractante du titulaire; toutefois, la demande d’inscription d’un changement de titulaire peut être présentée par l’intermédiaire de l’Office de la partie contractante ou de l’une des parties contractantes indiquées dans cette demande conformément à l’al. 2)a)iv).
 - c) …
-- d) Lorsque la demande est présentée par le titulaire, elle doit être signée par le titulaire. Lorsqu’elle est présentée par un Office, elle doit être signée par cet Office et, lorsque l’Office l’exige, aussi par le titulaire. Lorsqu’elle est présentée par un Office et que cet Office, sans exiger que la demande soit signée par le titulaire, autorise qu’elle soit aussi signée par le titulaire, le titulaire peut signer la demande.
+- d) Lorsque la demande est présentée par le titulaire, elle doit être signée par le titulaire. Lorsqu’elle est présentée par un Office, elle doit être signée par cet Office et, lorsque l’Office l’exige, aussi par le titulaire. Lorsqu’elle est présentée par un Office et que cet Office, sans exiger que la demande soit signée par le titulaire, autorise qu’elle soit aussi signée par le titulaire, le titulaire peut signer la demande.[^25-1]
 
-- a)
+- a)[^25-2]
 
   Une demande en vertu de l’al. 1)a) doit contenir ou indiquer, en sus de l’inscription demandée:
 
   - i) le numéro de l’enregistrement international concerné;
   - ii) le nom du titulaire ou le nom du mandataire lorsque la modification se rapporte au nom ou à l’adresse du mandataire;
-  - iii)[^25-1] dans le cas d’un changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique, de la personne physique ou morale mentionnée dans la demande comme étant le nouveau titulaire de l’enregistrement international (ci-après dénommé le «nouveau titulaire»);
+  - iii) dans le cas d’un changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique, de la personne physique ou morale mentionnée dans la demande comme étant le nouveau titulaire de l’enregistrement international (ci-après dénommé le «nouveau titulaire»);
   - iv) dans le cas d’un changement de titulaire de l’enregistrement international, la partie contractante ou les parties contractantes à l’égard de laquelle ou desquelles le nouveau titulaire remplit les conditions prévues à l’art. 2 du Protocole pour être le titulaire d’un enregistrement international;
   - v) dans le cas d’un changement de titulaire de l’enregistrement international, lorsque l’adresse du nouveau titulaire indiquée conformément au point iii) n’est pas sur le territoire de la partie contractante ou de l’une des parties contractantes, indiquée conformément au point iv), et sauf si le nouveau titulaire a indiqué être ressortissant d’un État contractant ou d’un État membre d’une organisation contractante, l’adresse de l’établissement, ou le domicile, du nouveau titulaire dans la partie contractante ou dans l’une des parties contractantes à l’égard desquelles celui-ci remplit les conditions requises pour être le titulaire d’un enregistrement international;
-  - vi) dans le cas d’un changement de titulaire de l’enregistrement international qui ne concerne pas tous les produits et services ni toutes les parties contractantes désignées, les produits et services et les parties contractantes désignées que le changement de titulaire concerne, et
-  - vii) le montant des taxes payées et le mode de paiement ou des instructions à l’effet de prélever le montant requis des émoluments et taxes sur un compte ouvert auprès du Bureau international, et l’identité de l’auteur du paiement ou des instructions.
+  - vi) dans le cas d’un changement de titulaire de l’enregistrement international qui ne concerne pas tous les produits et services ni toutes les parties contractantes désignées, les produits et services et les parties contractantes désignées que le changement de titulaire concerne;
+  - vii) le montant des taxes payées et le mode de paiement ou des instructions à l’effet de prélever le montant requis des émoluments et taxes sur un compte ouvert auprès du Bureau international, et l’identité de l’auteur du paiement ou des instructions;
+  - viii) l’adresse électronique du titulaire lorsque celle-ci n’était pas indiquée dans la demande internationale ou dans une demande d’inscription antérieure;
+  - ix) l’adresse électronique du mandataire, le cas échéant, lorsque celle-ci n’était pas indiquée dans la demande d’inscription de la constitution du mandataire comme telle.
 
 - b)
 
@@ -1145,7 +1159,8 @@ Lorsque la demande d’inscription d’un changement de titulaire de l’enregis
 - c) La demande d’inscription d’une modification ou d’une radiation peut aussi contenir une requête tendant à ce que cette inscription soit effectuée avant, ou après, celle d’une autre modification ou radiation ou d’une désignation postérieure concernant l’enregistrement international en cause ou après le renouvellement de l’enregistrement international.
 - d) La demande d’inscription d’une limitation doit grouper uniquement les produits et services limités selon les numéros correspondants des classes de la classification internationale des produits et des services figurant dans l’enregistrement international ou, lorsque la limitation vise tous les produits et services dans une ou plusieurs de ces classes, indiquer les classes à supprimer.
 
-[^25-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^25-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^25-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Règle 26
 
@@ -1478,7 +1493,7 @@ Lors du paiement d’un émolument ou d’une taxe au Bureau international, il y
 
 #### Règle 35
 
-**Monnaie de paiement**
+**Monnaie de paiement**[^35-1]
 
 \1) [Obligation d’utiliser la monnaie suisse]
 
@@ -1488,8 +1503,11 @@ Tous les paiements dus aux termes du présent règlement d’exécution doivent 
 
 - a) Lorsqu’une partie contractante fait, en vertu de l’art. 8.7)a) du Protocole, une déclaration selon laquelle elle désire recevoir une taxe individuelle, elle indique au Bureau international le montant de cette taxe exprimé dans la monnaie utilisée par son Office.
 - b) Lorsque, dans la déclaration visée au sous-alinéa a), la taxe est indiquée dans une monnaie autre que la monnaie suisse, le Directeur général établit le montant de la taxe individuelle en monnaie suisse, après consultation de l’Office de la partie contractante intéressée, sur la base du taux de change officiel des Nations Unies.
-- c) Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et une autre monnaie dans laquelle le montant d’une taxe individuelle a été indiqué par une partie contractante est supérieur ou inférieur d’au moins 5 % au dernier taux de change appliqué pour la détermination du montant de la taxe individuelle en monnaie suisse, l’Office de cette partie contractante peut demander au Directeur général d’établir un nouveau montant de la taxe individuelle en monnaie suisse sur la base du taux de change officiel des Nations Unies applicable le jour précédant celui où cette demande est faite. Le Directeur général prend les dispositions nécessaires à cet effet. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant dans la gazette.
-- d) Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et une autre monnaie dans laquelle le montant d’une taxe individuelle a été indiqué par une partie contractante est inférieur d’au moins 10 % au dernier taux de change appliqué pour la détermination du montant de la taxe individuelle en monnaie suisse, le Directeur général établit un nouveau montant de la taxe individuelle en monnaie suisse sur la base du taux de change officiel actuel des Nations Unies. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant dans la gazette.
+- c) Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et une autre monnaie dans laquelle le montant d’une taxe individuelle a été indiqué par une partie contractante est supérieur d’au moins 5 % au dernier taux de change appliqué pour la détermination du montant de la taxe individuelle en monnaie suisse, l’Office de cette partie contractante peut demander au Directeur général d’établir un nouveau montant de la taxe individuelle en monnaie suisse sur la base du taux de change officiel des Nations Unies applicable le jour précédant celui où cette demande est faite. Le Directeur général prend les dispositions nécessaires à cet effet. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant dans la gazette.
+- d) Lorsque, pendant plus de trois mois consécutifs, le taux de change officiel des Nations Unies entre la monnaie suisse et une autre monnaie dans laquelle le montant d’une taxe individuelle a été indiqué par une partie contractante est inférieur d’au moins 5 % au dernier taux de change appliqué pour la détermination du montant de la taxe individuelle en monnaie suisse, le Directeur général établit un nouveau montant de la taxe individuelle en monnaie suisse sur la base du taux de change officiel actuel des Nations Unies. Le nouveau montant est applicable à partir de la date fixée par le Directeur général, étant entendu que cette date est située au plus tôt un mois et au plus tard deux mois après la date de la publication dudit montant dans la gazette.
+- e) Lorsque les conditions énoncées à l’al. c) ci-dessus sont remplies, le Bureau international en informe l’Office de la partie contractante concernée.
+
+[^35-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2025 ([RO 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Règle 36
 

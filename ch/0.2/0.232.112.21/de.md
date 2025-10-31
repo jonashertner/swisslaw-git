@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: Ausführungsordnung von 2. Oktober 2018 betreffend das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: de
-version: 2024-11-01
+version: 2025-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20241101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20241101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2020** 1667[^t-1]
 
 Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft getreten am 1. Februar 2020
 
-(Stand am 1. November 2024)
+(Stand am 1. November 2025)
 
 [^t-1]: Berichtigung vom 12. April 2022 ([AS 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -42,7 +42,7 @@ Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft
 <tr><td>Regel 9</td><td>Erfordernisse bezüglich des internationalen Gesuchs</td></tr>
 <tr><td>Regel 10</td><td>Gebühren für das internationale Gesuch</td></tr>
 <tr><td>Regel 11</td><td>Andere als die Klassifikation der Waren und Dienstleistungen betreffende Mängel</td></tr>
-<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und Dienstleistungen</td></tr>
+<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und D (Stand am 1. November 2025)ienstleistungen</td></tr>
 <tr><td>Regel 13</td><td>Mängel in bezog auf die Angabe der Waren und Dienstleistungen</td></tr>
 <tr><td>Kapitel 3:</td><td>Internationale Registrierungen</td></tr>
 <tr><td>Regel 14</td><td>Eintragung der Marke im internationalen Register</td></tr>
@@ -63,7 +63,7 @@ Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft
 <tr><td>Kapitel 5:</td><td>Nachträgliche Benennungen; Änderungen</td></tr>
 <tr><td>Regel 23<sup>bis</sup></td><td>Durch das Internationale Büro übersandte Mitteilungen der Behörden der benannten Vertragsparteien</td></tr>
 <tr><td>Regel 24</td><td>Benennung im Anschluss an die internationale Registrierung</td></tr>
-<tr><td>Regel 25</td><td>Antrag auf Eintragung einer Änderung; Antrag auf Eintragung einer Löschung</td></tr>
+<tr><td>Regel 25</td><td>Antrag auf Eintragung</td></tr>
 <tr><td>Regel 26</td><td>Mängel in den Anträgen auf Eintragung nach Regel 25</td></tr>
 <tr><td>Regel 27</td><td>Eintragung und Mitteilung einer Änderung oder einer Löschung; Erklärung über die Unwirksamkeit einer Änderung des Inhabers oder einer Einschränkung</td></tr>
 <tr><td>Regel 27<sup>bis</sup></td><td>Teilung einer internationalen Registrierung</td></tr>
@@ -170,7 +170,7 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
 - c) Ist eine Kanzlei oder Kanzleigemeinschaft von Rechtsanwälten, Patentanwälten oder Markenanwälten als Vertreterin beim Internationalen Büro angegeben worden, so gilt diese als ein Vertreter.
 - d) …
 
-- a)[^3-1] Die Bestellung eines Vertreters kann in dem internationalen Gesuch oder vom neuen Inhaber der internationalen Registrierung in einem Antrag nach Regel 25 Absatz 1 Buchstabe a Ziffer i erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse des Vertreters anzugeben.
+- a)[^3-1] Die Bestellung eines Vertreters kann in dem internationalen Gesuch oder vom neuen Inhaber der internationalen Registrierung in einem Antrag nach Regel 25 Absatz 1 Buchstabe a Ziffer i erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adressen des Vertreters und des Hinterlegers oder des Inhabers anzugeben, wenn die E-Mail-Adresse des Hinterlegers oder des Inhabers im internationalen Gesuch oder bei einem früheren Antrag auf Eintragung nicht angegeben wurde.
 - b)[^3-2]
 
   Die Bestellung eines Vertreters kann auch in einer getrennten Mitteilung erfolgen, sofern das dafür vorgesehene amtliche Formblatt verwendet wird, und sie kann sich auf eine oder mehrere bestimmte internationale Gesuche oder internationale Registrierungen desselben Hinterlegers oder Inhabers beziehen. Einzureichen ist dieses Formblatt beim Internationalen Büro:
@@ -205,7 +205,7 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
 - e) Sobald der Zeitpunkt des Wirksamwerdens der Löschung bekannt ist, unterrichtet das Internationale Büro den Vertreter, dessen Eintragung gelöscht worden ist, den Hinterleger oder den Inhaber, und, wenn die Bestellung des Vertreters über eine Behörde eingereicht worden ist, diese Behörde über die Löschung und das Datum des Wirksamwerdens.
 - f) Über Löschungen auf Antrag des Inhabers oder des Vertreters des Inhabers sind auch die Ämter der benannten Vertragsparteien zu unterrichten.
 
-[^3-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-1]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 [^3-2]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 [^3-3]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^3-4]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
@@ -811,7 +811,7 @@ Wurde dem Internationalen Büro eine Einschränkung des Verfügungsrechts des In
 
 \4) [Änderung oder Löschung der Eintragung einer Lizenz]
 
-Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Löschung der Eintragung einer Lizenz.
+Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Löschung der Eintragung einer Lizenz.[^20bis-1]
 
 \5) [Erklärung über die Unwirksamkeit der Eintragung einer bestimmten Lizenz]
 
@@ -824,9 +824,11 @@ Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Lösc
 
   - i) die Nummer der betroffenen internationalen Registrierung;
   - ii) den Namen des Inhabers;
-  - iii) den Namen und die Anschrift des Lizenznehmers nach den Verwaltungsvorschriften;
+  - iii) den Namen und die Anschrift des Lizenznehmers nach den Verwaltungsvorschriften sowie seine E-Mail-Adresse;
   - iv) die benannte Vertragspartei, in Bezug auf welche die Lizenz gewährt wird;
-  - v) dass die Lizenz für alle Waren und Dienstleistungen gewährt wird, die durch die internationale Registrierung erfasst werden, oder die Waren und Dienstleistungen, für die die Lizenz gewährt wird, gruppiert in die entsprechenden Klassen der internationalen Klassifikation der Waren und Dienstleistungen.
+  - v) dass die Lizenz für alle Waren und Dienstleistungen gewährt wird, die durch die internationale Registrierung erfasst werden, oder die Waren und Dienstleistungen, für die die Lizenz gewährt wird, gruppiert in die entsprechenden Klassen der internationalen Klassifikation der Waren und Dienstleistungen;
+  - vi) die E-Mail-Adresse des Inhabers, wenn diese im internationalen Gesuch oder bei einem früheren Antrag auf Eintragung nicht angegeben wurde;
+  - vii) gegebenenfalls die E-Mail-Adresse des Vertreters, wenn diese im Antrag auf Eintragung bei der Bestellung des Vertreters nicht als solche angegeben wurde.
 
 - c)
 
@@ -835,18 +837,18 @@ Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Lösc
   - i) ist der Lizenznehmer eine natürliche Person, die Angabe des Staates, dessen Angehöriger der Lizenznehmer ist;
   - ii) ist der Lizenznehmer eine juristische Person, Angaben über die Rechtsnatur der juristischen Person sowie den Staat und gegebenenfalls die Gebietseinheit innerhalb des Staates, nach dessen oder deren Recht die juristische Person gegründet ist;
   - iii) dass die Lizenz nur einen Teil des Gebietes einer angegebenen benannten Vertragspartei betrifft;
-  - iv) hat der Lizenznehmer einen Vertreter, den Namen und die Anschrift des Vertreters nach den Verwaltungsvorschriften;
-  - v) gegebenenfalls die Tatsache, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist;[^20bis-1]
+  - iv) hat der Lizenznehmer einen Vertreter, den Namen und die Anschrift des Vertreters nach den Verwaltungsvorschriften sowie seine E-Mail-Adresse,
+  - v) gegebenenfalls die Tatsache, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist;
   - vi) gegebenenfalls die Laufzeit der Lizenz.
 
-- d) Der Antrag ist vom Inhaber oder der Behörde, über die er eingereicht wird, zu unterschreiben.
+- d) Der Antrag ist vom Inhaber oder der Behörde, über die er eingereicht wird, zu unterschreiben.[^20bis-2]
 
-- a) Entspricht der Antrag auf Eintragung einer Lizenz nicht den Erfordernissen des Absatzes 1 Buchstaben a, b und d, so teilt das Internationale Büro dies dem Inhaber und, falls der Antrag von einer Behörde eingereicht wurde, dieser Behörde mit.
-- b) Wird der Mangel nicht innerhalb von drei Monaten nach dem Datum der Mitteilung des Internationalen Büros über den Mangel behoben, so gilt der Antrag als zurückgenommen, und das Internationale Büro teilt dies gleichzeitig dem Inhaber und, falls der Antrag auf Eintragung einer Lizenz von einer Behörde eingereicht wurde, dieser Behörde mit und erstattet dem Einzahler die entrichteten Gebühren nach Abzug eines Betrags in Höhe der Hälfte der entsprechenden unter Nummer 7 des Gebührenverzeichnisses genannten Gebühren.
+- a) Entspricht der Antrag auf Eintragung einer Lizenz nicht den Erfordernissen des Absatzes 1 Buchstaben a, b und d, so teilt das Internationale Büro dies dem Inhaber, dem Lizenznehmer oder gegebenenfalls seinem Vertreter und, falls der Antrag von einer Behörde eingereicht wurde, dieser Behörde mit.
+- b) Wird der Mangel nicht innerhalb von drei Monaten nach dem Datum der Mitteilung des Internationalen Büros über den Mangel behoben, so gilt der Antrag als zurückgenommen, und das Internationale Büro teilt dies gleichzeitig dem Inhaber, dem Lizenznehmer oder gegebenenfalls seinem Vertreter und, falls der Antrag auf Eintragung einer Lizenz von einer Behörde eingereicht wurde, dieser Behörde mit und erstattet dem Einzahler die entrichteten Gebühren nach Abzug eines Betrags in Höhe der Hälfte der entsprechenden unter Nummer 7 des Gebührenverzeichnisses genannten Gebühren.[^20bis-3]
 
-- a) Entspricht der Antrag den Erfordernissen des Absatzes 1 Buchstaben a, b und d, trägt das Internationale Büro die Lizenz sowie die im Antrag enthaltenen Angaben in das internationale Register ein, teilt dies den Behörden der benannten Vertragsparteien, in Bezug auf welche die Lizenz gewährt wird, mit und benachrichtigt gleichzeitig den Inhaber und, falls der Antrag von einer Behörde eingereicht wurde, diese Behörde.
+- a) Entspricht der Antrag den Erfordernissen des Absatzes 1 Buchstaben a, b und d, trägt das Internationale Büro die Lizenz sowie die im Antrag enthaltenen Angaben in das internationale Register ein, teilt dies den Behörden der benannten Vertragsparteien, in Bezug auf welche die Lizenz gewährt wird, mit und benachrichtigt gleichzeitig den Inhaber, den Lizenznehmer oder gegebenenfalls seinen Vertreter und, falls der Antrag von einer Behörde eingereicht wurde, diese Behörde.
 - b) Die Lizenz wird mit dem Datum des Tages eingetragen, an dem ein den geltenden Erfordernissen entsprechender Antrag beim Internationalen Büro eingeht.
-- c) Ungeachtet des Buchstabens b wird die Lizenz in das internationale Register mit dem Datum des Tages eingetragen, an dem die in Absatz 2 Buchstabe b angegebene Frist abgelaufen ist, wenn eine Weiterbehandlung nach Regel 5<sup>bis</sup> eingetragen worden ist.
+- c) Ungeachtet des Buchstabens b wird die Lizenz in das internationale Register mit dem Datum des Tages eingetragen, an dem die in Absatz 2 Buchstabe b angegebene Frist abgelaufen ist, wenn eine Weiterbehandlung nach Regel 5<sup>bis</sup> eingetragen worden ist.[^20bis-4]
 
 - a) Die Behörde einer benannten Vertragspartei, die vom Internationalen Büro über die Eintragung einer Lizenz in Bezug auf diese Vertragspartei benachrichtigt wird, kann erklären, dass die Eintragung für diese Vertragspartei unwirksam ist.
 - b)
@@ -859,13 +861,17 @@ Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Lösc
   - iv) ob die Erklärung Gegenstand einer Überprüfung oder Beschwerde sein kann.
 
 - c) Die in Buchstabe a genannte Erklärung ist an das Internationale Büro vor Ablauf von 18 Monaten ab dem Datum, an dem die in Absatz 3 genannte Mitteilung an die betroffene Behörde abgesandt wurde, zu übersenden.
-- d) Das Internationale Büro trägt in das internationale Register jede Erklärung ein, die nach Buchstabe c abgegeben wurde, und unterrichtet, je nachdem, ob der Inhaber oder die Behörde den Antrag auf Eintragung der Lizenz eingereicht hat, diesen Inhaber oder diese Behörde entsprechend. Die Erklärung wird mit dem Datum des Tages eingetragen, an dem eine den geltenden Erfordernissen entsprechende Mitteilung beim Internationalen Büro eingeht.
-- e) Jede rechtskräftige Entscheidung, die eine nach Buchstabe c abgegebene Erklärung betrifft, ist dem Internationalen Büro mitzuteilen, das diese in das internationale Register einträgt und die Partei (Inhaber oder Behörde), die den Antrag auf Eintragung der Lizenz eingereicht hat, entsprechend unterrichtet.
+- d) Das Internationale Büro trägt in das internationale Register jede Erklärung ein, die nach Buchstabe c abgegeben wurde, und unterrichtet, je nachdem, ob der Inhaber oder die Behörde den Antrag auf Eintragung der Lizenz eingereicht hat, diesen Inhaber oder diese Behörde sowie den Lizenznehmer oder gegebenenfalls seinen Vertreter entsprechend. Die Erklärung wird mit dem Datum des Tages eingetragen, an dem eine den geltenden Erfordernissen entsprechende Mitteilung beim Internationalen Büro eingeht.
+- e) Jede rechtskräftige Entscheidung, die eine nach Buchstabe c abgegebene Erklärung betrifft, ist dem Internationalen Büro mitzuteilen, das diese in das internationale Register einträgt und die Partei (Inhaber, Behörde, Lizenznehmer oder gegebenenfalls seinen Vertreter), die den Antrag auf Eintragung der Lizenz eingereicht hat, entsprechend unterrichtet.[^20bis-5]
 
 - a) Die Behörde einer Vertragspartei, nach deren Recht die Eintragung von Lizenzen für Marken nicht vorgesehen ist, kann dem Generaldirektor mitteilen, dass die Eintragung von Lizenzen in das internationale Register in dieser Vertragspartei unwirksam ist.
 - b) Die Behörde einer Vertragspartei, nach deren Recht die Eintragung von Lizenzen für Marken vorgesehen ist, kann vor dem Datum, an dem die vorliegende Regel in Kraft tritt, oder dem Datum, an dem diese Vertragspartei durch das Protokoll gebunden wird, dem Generaldirektor mitteilen, dass die Eintragung von Lizenzen in das internationale Register in dieser Vertragspartei unwirksam ist. Diese Mitteilung kann jederzeit zurückgenommen werden.
 
-[^20bis-1]: Von der Versammlung des Madrider Verbands gebilligte Auslegungserklärung: «Wenn der Antrag auf Eintragung einer Lizenz keine Angaben gemäss Regel 20<sup>bis</sup>.1)c), zu der Tatsache enthält, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist, wird angenommen, dass es sich um eine nicht exklusive Lizenz handelt.»
+[^20bis-1]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-2]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-3]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-4]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^20bis-5]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regel 21
 
@@ -1024,9 +1030,9 @@ Die Regeln 16 bis 18<sup>ter</sup> gelten sinngemäss.
 
 Werden die Erfordernisse des Absatzes 2 Buchstabe a) nicht erfüllt, so wird die nachträgliche Benennung nicht als solche betrachtet und das Internationale Büro teilt dies dem Einsender mit.
 
-- a) Eine Vertragspartei kann Gegenstand einer Benennung im Anschluss an die internationale Registrierung (im folgenden als «nachträgliche Benennung» bezeichnet) sein, sofern der Inhaber zum Zeitpunkt der Benennung nach Artikel 2 des Protokolls die Voraussetzungen für die Inhaberschaft einer internationalen Registrierung erfüllt.
+- a) Eine Vertragspartei kann Gegenstand einer Benennung im Anschluss an die internationale Registrierung (im Folgenden als «nachträgliche Benennung» bezeichnet) sein, sofern der Inhaber zum Zeitpunkt der Benennung nach Artikel 2 des Protokolls die Voraussetzungen für die Inhaberschaft einer internationalen Registrierung erfüllt.
 - b) …
-- c) …
+- c) …[^24-1]
 
 - a)
 
@@ -1036,18 +1042,20 @@ Werden die Erfordernisse des Absatzes 2 Buchstabe a) nicht erfüllt, so wird die
   - ii) …
   - iii) Absatz 7 Anwendung findet, muss die sich aus einer Umwandlung ergebende nachträgliche Benennung von der Behörde der Vertragsorganisation eingereicht werden.
 
-- b) Die nachträgliche Benennung ist auf dem amtlichen Formblatt einzureichen. Wird sie von dem Inhaber eingereicht, so ist sie vom Inhaber zu unterschreiben. Wird sie von einer Behörde eingereicht, so ist sie von der betreffenden Behörde und auf Verlangen der Behörde ebenfalls vom Inhaber zu unterschreiben. Wird sie von einer Behörde eingereicht, die nicht verlangt, dass der Inhaber sie unterschreibt, die aber gestattet, dass der Inhaber sie auch unterschreibt, so kann der Inhaber so verfahren.
+- b) Die nachträgliche Benennung ist auf dem amtlichen Formblatt einzureichen. Wird sie von dem Inhaber eingereicht, so ist sie vom Inhaber zu unterschreiben. Wird sie von einer Behörde eingereicht, so ist sie von der betreffenden Behörde und auf Verlangen der Behörde ebenfalls vom Inhaber zu unterschreiben. Wird sie von einer Behörde eingereicht, die nicht verlangt, dass der Inhaber sie unterschreibt, die aber gestattet, dass der Inhaber sie auch unterschreibt, so kann der Inhaber so verfahren.[^24-2]
 
-- a)
+- a)[^24-3]
 
   Vorbehaltlich des Absatzes 7) Buchstabe b) hat die nachträgliche Benennung Folgendes zu enthalten oder anzugeben:
 
   - i) die Nummer der betreffenden internationalen Registrierung;
-  - ii)[^24-1] den Namen des Inhabers;
+  - ii) den Namen des Inhabers;
   - iii) die Vertragspartei, die benannt worden ist;
-  - iv) falls die nachträgliche Benennung für alle in der betreffenden internationalen Registrierung angegebenen Waren und Dienstleistungen gilt, diese Tatsache, oder, wenn die nachträgliche Benennung lediglich für einen Teil der in der betreffenden internationalen Registrierung angegebenen Waren und Dienstleistungen gilt, diese Waren und Dienstleistungen;
-  - v) die Höhe der zu zahlenden Gebühren und die gewählte Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrags von einem beim Internationalen Büro eröffneten Konto sowie die Bezeichnung des Einzahlers oder Auftraggebers; und
-  - vi) falls die nachträgliche Benennung von einer Behörde eingereicht wird, das Datum, an dem diese bei der Behörde eingegangen ist.
+  - iv) falls die nachträgliche Benennung für alle in der betreffenden internationalen Registrierung angegebenen Waren und Dienstleistungen gilt, diese Tatsache, oder, wenn die nachträgliche Benennung lediglich für einen Teil, der in der betreffenden internationalen Registrierung angegebenen Waren und Dienstleistungen gilt, diese Waren und Dienstleistungen;
+  - v) die Höhe der zu zahlenden Gebühren und die gewählte Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrags von einem beim Internationalen Büro eröffneten Konto sowie die Bezeichnung des Einzahlers oder Auftraggebers;
+  - vi) falls die nachträgliche Benennung von einer Behörde eingereicht wird, das Datum, an dem diese bei der Behörde eingegangen ist;
+  - vii) die E-Mail-Adresse des Inhabers, wenn diese im internationalen Gesuch oder bei einem früheren Antrag auf Eintragung nicht angegeben wurde; und
+  - viii) gegebenenfalls die E-Mail-Adresse des Vertreters, wenn diese im Antrag auf Eintragung bei der Bestellung des Vertreters nicht als solche angegeben wurde.
 
 - b)
 
@@ -1090,7 +1098,9 @@ Werden die Erfordernisse des Absatzes 2 Buchstabe a) nicht erfüllt, so wird die
   - i) die Vertragsorganisation, deren Benennung umgewandelt werden soll; und
   - ii) wenn die sich aus einer Umwandlung ergebende nachträgliche Benennung eines Vertragsstaates alle in Bezug auf die Benennung der Vertragsorganisation angegebenen Waren und Dienstleistungen betrifft, diese Tatsache, oder, wenn die nachträgliche Benennung dieses Vertragsstaates nur einen Teil der in der Benennung dieser Vertragsorganisation angegebenen Waren und Dienstleistungen betrifft, diese Waren und Dienstleistungen.
 
-[^24-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^24-1]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^24-2]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^24-3]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regel 25
 
@@ -1119,19 +1129,21 @@ Sind in dem Antrag auf Eintragung einer Änderung des Inhabers der international
 
 - b) Der Antrag ist von dem Inhaber oder von der Behörde der Vertragspartei des Inhabers einzureichen; jedoch kann der Antrag auf Eintragung einer Änderung des Inhabers über die Behörde der Vertragspartei oder eine der in diesem Antrag nach Absatz 2 Buchstabe a Ziffer iv angegebenen Vertragsparteien eingereicht werden.
 - c) …
-- d) Wird der Antrag vom Inhaber eingereicht, so ist er vom Inhaber zu unterschreiben. Wird er von einer Behörde eingereicht, so ist er von dieser Behörde und auf Verlangen der Behörde ebenfalls vom Inhaber zu unterschreiben. Wird der Antrag von einer Behörde eingereicht, die nicht verlangt, dass der Inhaber ihn unterschreibt, die aber gestattet, dass der Inhaber ihn auch unterschreibt, so kann der Inhaber so verfahren.
+- d) Wird der Antrag vom Inhaber eingereicht, so ist er vom Inhaber zu unterschreiben. Wird er von einer Behörde eingereicht, so ist er von dieser Behörde und auf Verlangen der Behörde ebenfalls vom Inhaber zu unterschreiben. Wird der Antrag von einer Behörde eingereicht, die nicht verlangt, dass der Inhaber ihn unterschreibt, die aber gestattet, dass der Inhaber ihn auch unterschreibt, so kann der Inhaber so verfahren.[^25-1]
 
-- a)
+- a)[^25-2]
 
-  Ein Antrag nach Absatz 1 Buchstabe a hat neben der beantragten Eintragung Folgendes zu enthalten oder anzugeben:[^25-1]
+  Ein Antrag nach Absatz 1 Buchstabe a hat neben der beantragten Eintragung Folgendes zu enthalten oder anzugeben:
 
   - i) die Nummer der betreffenden internationalen Registrierung;
   - ii) den Namen des Inhabers oder den Namen des Vertreters, wenn die Änderung den Namen oder die Anschrift des Vertreters betrifft;
-  - iii)[^25-2] im Fall einer Änderung des Inhabers der internationalen Registrierung den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse der natürlichen oder juristischen Person, die im Antrag als neuer Inhaber der internationalen Registrierung genannt wird (im Folgenden als «Erwerber» bezeichnet);
+  - iii) im Fall einer Änderung des Inhabers der internationalen Registrierung den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse der natürlichen oder juristischen Person, die im Antrag als neuer Inhaber der internationalen Registrierung genannt wird (im Folgenden als «Erwerber» bezeichnet);
   - iv) im Fall einer Änderung des Inhabers der internationalen Registrierung die Vertragspartei oder die Vertragsparteien, für die der Erwerber die Voraussetzungen nach Artikel 2 des Protokolls für die Inhaberschaft einer internationalen Registrierung erfüllt;
   - v) im Fall einer Änderung des Inhabers der internationalen Registrierung, wenn die nach Ziffer iii angegebene Anschrift des Erwerbers nicht im Gebiet der nach Ziffer iv angegebenen Vertragspartei oder einer der Vertragsparteien liegt und sofern der Erwerber nicht angegeben hat, Angehöriger eines Vertragsstaats oder eines Staates zu sein, der Mitglied einer Vertragsorganisation ist, die Anschrift der Niederlassung oder des Wohnsitzes des Erwerbers in der Vertragspartei oder in einer der Vertragsparteien, für die der Erwerber die Voraussetzungen für die Inhaberschaft einer internationalen Registrierung erfüllt;
-  - vi) im Fall einer Änderung des Inhabers der internationalen Registrierung, die nicht alle Waren und Dienstleistungen und nicht alte benannten Vertragsparteien betrifft, die Waren und Dienstleistungen und die benannten Vertragsparteien, auf die sich die Änderung des Inhabers bezieht; und
-  - vii) die Höhe der zu zahlenden Gebühren und die gewählte Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrags von einem beim Internationalen Büro eröffneten Konto und die Bezeichnung des Einzahlers oder Auftraggebers.
+  - vi) im Fall einer Änderung des Inhabers der internationalen Registrierung, die nicht alle Waren und Dienstleistungen und nicht alte benannten Vertragsparteien betrifft, die Waren und Dienstleistungen und die benannten Vertragsparteien, auf die sich die Änderung des Inhabers bezieht;
+  - vii) die Höhe der zu zahlenden Gebühren und die gewählte Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrags von einem beim Internationalen Büro eröffneten Konto und die Bezeichnung des Einzahlers oder Auftraggebers;
+  - viii) die E-Mail-Adresse des Inhabers, wenn diese im internationalen Gesuch oder bei einem früheren Antrag auf Eintragung nicht angegeben wurde;
+  - ix) gegebenenfalls die E-Mail-Adresse des Vertreters, wenn diese im Antrag auf Eintragung bei der Bestellung des Vertreters nicht als solche angegeben wurde.
 
 - b)
 
@@ -1143,8 +1155,8 @@ Sind in dem Antrag auf Eintragung einer Änderung des Inhabers der international
 - c) Der Antrag auf Eintragung einer Änderung oder einer Löschung kann auch einen Antrag enthalten, diese Eintragung vor oder nach der Eintragung einer anderen Änderung oder Löschung oder einer nachträglichen Benennung in Bezug auf die betreffende internationale Registrierung oder nach der Erneuerung der internationalen Registrierung vorzunehmen.
 - d) Im Antrag auf Eintragung einer Einschränkung sind die eingeschränkten Waren und Dienstleistungen nur unter den entsprechenden Nummern der in der internationalen Registrierung vorkommenden Klassen der internationalen Klassifikation von Waren und Dienstleistungen zu gruppieren oder, falls die Einschränkung alle Waren und Dienstleistungen einer oder mehrerer dieser Klassen betrifft, die zu streichenden Klassen anzugeben.
 
-[^25-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^25-2]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^25-1]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
+[^25-2]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regel 26
 
@@ -1476,7 +1488,7 @@ Bei jeder Gebührenzahlung an das Internationale Büro ist folgendes anzugeben:
 
 #### Regel 35
 
-**Währung, in der die Zahlungen zu entrichten sind**
+**Währung, in der die Zahlungen zu entrichten sind**[^35-1]
 
 \1) [Verpflichtung zur Zahlung in Schweizer Währung]
 
@@ -1486,8 +1498,11 @@ Alle aufgrund dieser Ausführungsordnung fälligen Zahlungen sind in Schweizer W
 
 - a) Erklärt eine Vertragspartei nach Artikel 8 Absatz 7 Buchstabe a des Protokolls, dass sie eine individuelle Gebühr zu erhalten wünscht, so ist der gegenüber dem Internationalen Büro genannte Betrag der individuellen Gebühr in der von ihrer Behörde verwendeten Währung anzugeben.
 - b) Ist die Gebühr in der unter Buchstabe a genannten Erklärung nicht in Schweizer Währung angegeben, so legt der Generaldirektor nach Beratung mit der Behörde der beteiligten Vertragspartei den Betrag der individuellen Gebühr in Schweizer Währung auf der Grundlage des amtlichen Wechselkurses der Vereinten Nationen fest.
-- c) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die andere Währung, in der eine Vertragspartei den Betrag der individuellen Gebühr angegeben hat, während eines Zeitraums von mehr als drei aufeinander folgenden Monaten mindestens 5 v. H. über oder unter dem letzten Wechselkurs, der bei der Festsetzung des Betrags der individuellen Gebühr in Schweizer Währung zu Grunde gelegt wurde, so kann die Behörde dieser Vertragspartei den Generaldirektor ersuchen, den Betrag der individuellen Gebühr in Schweizer Währung auf der Grundlage des am Tag vor der Einreichung des Antrags geltenden amtlichen Wechselkurses der Vereinten Nationen erneut festzulegen. Der Generaldirektor handelt entsprechend. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, das jedoch zwischen einem Monat und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrags im Blatt liegen muss.
-- d) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die andere Währung, in der eine Vertragspartei den Betrag der individuellen Gebühr angegeben hat, während eines Zeitraums von mehr als drei aufeinanderfolgenden Monaten mindestens 10 v. H. unter dem letzten Wechselkurs, der bei der Festsetzung des Betrags der individuellen Gebühr in Schweizer Währung zu Grunde gelegt wurde, so legt der Generaldirektor einen neuen Betrag der individuellen Gebühr in Schweizer Währung nach dem gegenwärtigen amtlichen Wechselkurs der Vereinten Nationen fest. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, das jedoch zwischen einem Monat und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrags im Blatt liegen muss.
+- c) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die andere Währung, in der eine Vertragspartei den Betrag der individuellen Gebühr angegeben hat, während eines Zeitraums von mehr als drei aufeinander folgenden Monaten mindestens 5 v. H. über dem letzten Wechselkurs, der bei der Festsetzung des Betrags der individuellen Gebühr in Schweizer Währung zu Grunde gelegt wurde, so kann die Behörde dieser Vertragspartei den Generaldirektor ersuchen, den Betrag der individuellen Gebühr in Schweizer Währung auf der Grundlage des am Tag vor der Einreichung des Antrags geltenden amtlichen Wechselkurses der Vereinten Nationen erneut festzulegen. Der Generaldirektor handelt entsprechend. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, das jedoch zwischen einem Monat und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrags im Blatt liegen muss.
+- d) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die andere Währung, in der eine Vertragspartei den Betrag der individuellen Gebühr angegeben hat, während eines Zeitraums von mehr als drei aufeinanderfolgenden Monaten mindestens 5 v. H. unter dem letzten Wechselkurs, der bei der Festsetzung des Betrags der individuellen Gebühr in Schweizer Währung zu Grunde gelegt wurde, so legt der Generaldirektor einen neuen Betrag der individuellen Gebühr in Schweizer Währung nach dem gegenwärtigen amtlichen Wechselkurs der Vereinten Nationen fest. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, das jedoch zwischen einem Monat und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrags im Blatt liegen muss.
+- e) Wenn die in Buchstabe c oben genannten Bedingungen erfüllt sind, informiert das Internationale Büro die Behörde der betreffenden Vertragspartei.
+
+[^35-1]: Fassung gemäss der am 1. Nov. 2025 in Kraft getretenen Änd. ([AS 2026 33](https://fedlex.data.admin.ch/eli/oc/2026/33)).
 
 #### Regel 36
 
