@@ -3,18 +3,18 @@ sr: "414.123"
 title: Verordnung vom 5. Dezember 2014 über das Finanz- und Rechnungswesen des ETH-Bereichs
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/770"
 language: de
-version: 2022-01-01
+version: 2025-11-01
 adopted: 2014-12-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-770-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2014-770-20251101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Finanz- und Rechnungswesen des ETH-Bereichs
 
-vom 5. Dezember 2014 (Stand am 1. Januar 2022)
+vom 5. Dezember 2014 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 35*a* Absatz 5, 35*b* und 39 Absatz 2 des ETH-Gesetzes
 
 verordnet:
 
-[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [SR 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -147,7 +147,7 @@ Vermögensteile werden als Aktiven in der Bilanz aufgeführt, wenn:
 
 <sup>1</sup> Die Bewertungsgrundsätze richten sich nach den Vorgaben der IPSAS.
 
-<sup>2</sup> Kulturobjekte wie Kunst- und Lehrsammlungen, historische Sammlungen und Bibliotheken sind nicht zu aktivieren.
+<sup>2</sup> ...[^9-1]
 
 <sup>3</sup> Gleichartige Vermögensteile und Verpflichtungen sind zu Klassen zusammenzufassen. Innerhalb einer Klasse gelten die gleichen Bewertungsgrundsätze.
 
@@ -157,6 +157,8 @@ Der ETH-Rat legt in Weisungen fest:
 
 - a. die für die einzelnen Klassen anzuwendenden Bewertungsgrundsätze;
 - b. die Anlageklassen und deren Abschreibungssätze.
+
+[^9-1]: Aufgehoben durch Ziff. I der V vom 19. Sept. 2025, mit Wirkung seit 1. Nov. 2025 ([AS 2025 584](https://fedlex.data.admin.ch/eli/oc/2025/584)).
 
 #### Art. 10
 
@@ -508,7 +510,7 @@ Die ETH und die Forschungsanstalten dürfen ausserhalb ihrer Aufgabenerfüllung 
 
 Benötigen die ETH und die Forschungsanstalten bundeseigene Grundstücke nicht mehr zur Eigennutzung oder zu Nutzung nach Artikel 33*b* oder 33*c*, so sind diese Grundstücke gemäss der Verordnung vom 5. Dezember 2008[^33d-1] über das Immobilienmanagement und die Logistik des Bundes zu verkaufen. Bis zum Vollzug des Verkaufs dürfen die Grundstücke Dritten zur Zwischennutzung überlassen werden.
 
-[^33d-1]: [SR 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^33d-1]: [SR 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 #### Art. 33e
 

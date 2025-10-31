@@ -3,18 +3,18 @@ sr: "414.123"
 title: Ordonnance du 5 décembre 2014 sur les finances et la comptabilité du domaine des EPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/770"
 language: fr
-version: 2022-01-01
+version: 2025-11-01
 adopted: 2014-12-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-770-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-770-20251101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les finances et la comptabilité du domaine des EPF
 
-du 5 décembre 2014 (État le 1<sup>er</sup> janvier 2022)
+du 5 décembre 2014 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 35*a*, al. 5, 35*b* et 39, al. 2, de la loi du 4 octobre 1991 sur le
 
 arrête:
 
-[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
 
 ## Chapitre 1 Dispositions générales
@@ -147,7 +147,7 @@ Les éléments de fortune sont inscrits à l’actif si les conditions suivantes
 
 <sup>1</sup> Les principes d’évaluation reposent sur les dispositions des normes IPSAS.
 
-<sup>2</sup> Les biens culturels, tels que les collections artistiques, didactiques et historiques ainsi que les bibliothèques, ne doivent pas être inscrits à l’actif.
+<sup>2</sup> …[^9-1]
 
 <sup>3</sup> Les éléments de fortune et les engagements similaires doivent être regroupés dans des classes. Les mêmes principes d’évaluation s’appliquent au sein d’une classe.
 
@@ -157,6 +157,8 @@ Le Conseil des EPF définit dans des directives:
 
 - a. les principes d’évaluation applicables aux différentes classes;
 - b. les catégories de placement et leur taux d’amortissement.
+
+[^9-1]: Abrogé par le ch. I de l’O du 19 sept. 2025, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 584](https://fedlex.data.admin.ch/eli/oc/2025/584)).
 
 #### Art. 10
 
@@ -508,7 +510,7 @@ Les EPF et les établissements de recherche peuvent céder à des tiers l’usag
 
 Lorsque les EPF et les établissements de recherche n’ont pas besoin de biens-fonds propriété de la Confédération pour l’usage prévu aux art. 33*b* ou 33*c*, ces biens sont vendus conformément à l’ordonnance du 5 décembre 2008 concernant la gestion de l’immobilier et la logistique de la Confédération[^33d-1]. Leur usage peut être cédé temporairement à des tiers jusqu’à la conclusion de la vente.
 
-[^33d-1]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^33d-1]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 #### Art. 33e
 

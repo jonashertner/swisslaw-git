@@ -3,18 +3,18 @@ sr: "414.123"
 title: Ordinanza del 5 dicembre 2014 sulle finanze e sulla contabilità nel settore dei PF
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/770"
 language: it
-version: 2022-01-01
+version: 2025-11-01
 adopted: 2014-12-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-770-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2014-770-20251101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle finanze e sulla contabilità nel settore dei PF
 
-del 5 dicembre 2014 (Stato 1° gennaio 2022)
+del 5 dicembre 2014 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,8 +22,8 @@ visti gli articoli 35*a* capoverso 5, 35*b* e 39 capoverso 2 della legge del 4 o
 
 ordina:
 
-[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -58,7 +58,7 @@ I mezzi di terzi sono tutti i mezzi che non provengono da contributi finanziari 
 
 Se la destinazione di una liberalità (eredità, legato o donazione) vincolata a condizioni non può più essere realizzata, il servizio competente per l’amministrazione dei mezzi decide sul loro impiego.
 
-[^2a-1]: Introdotto dal n. I dell’O del 7 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3227](https://fedlex.data.admin.ch/eli/oc/2016/540)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 7 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3227](https://fedlex.data.admin.ch/eli/oc/2016/540)).
 
 #### Art. 2b
 
@@ -68,7 +68,7 @@ Se la destinazione di una liberalità (eredità, legato o donazione) vincolata a
 
 <sup>2</sup> Il Consiglio dei PF iscrive e motiva nel preventivo i previsti ricavi derivanti dalla vendita di energia.
 
-[^2b-1]: Introdotto dal n. II dell’O del 5 apr. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 605](https://fedlex.data.admin.ch/eli/oc/2021/605)).
+[^2b-1]: Introdotto dalla cifra II dell’O del 5 apr. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Nuovo testo giusta la cifra I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 605](https://fedlex.data.admin.ch/eli/oc/2021/605)).
 
 ## Capitolo 2: Presentazione dei conti
 
@@ -147,7 +147,7 @@ Gli elementi patrimoniali sono iscritti a bilancio come attivi se:
 
 <sup>1</sup> I principi di valutazione si basano sulle prescrizioni dell’IPSAS.
 
-<sup>2</sup> Non sono da iscrivere all’attivo i beni culturali come le collezioni d’arte e didattiche, le collezioni storiche e le biblioteche.
+<sup>2</sup> ...[^9-1]
 
 <sup>3</sup> Secondo il loro genere, gli elementi patrimoniali e gli impegni sono riuniti in classi. All’interno di una classe si applicano gli stessi principi di valutazione.
 
@@ -157,6 +157,8 @@ Il Consiglio dei PF stabilisce in istruzioni:
 
 - a. i principi di valutazione applicabili alle singole classi;
 - b. le classi di investimento e i loro tassi di ammortamento.
+
+[^9-1]: Abrogato dalla cifra I dell’O del 19 set. 2025, con effetto dal 1° nov. 2025 ([RU 2025 584](https://fedlex.data.admin.ch/eli/oc/2025/584)).
 
 #### Art. 10
 
@@ -419,7 +421,7 @@ Qualora nel Consiglio dei PF, nei PF o negli istituti di ricerca sopravvenga un 
 - a. un adeguamento degli obiettivi strategici; o
 - b. un aumento del contributo finanziario della Confederazione ed eventualmente del limite di spesa.
 
-[^30-1]: Nuova espr. giusta il n. II dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^30-1]: Nuova espr. giusta la cifra II dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 31
 
@@ -453,7 +455,7 @@ Il Consiglio dei PF informa la Segreteria generale del DEFR e l’AFF in caso di
 
 [^chap4-chap4a-1]
 
-[^chap4-chap4a-1]: Introdotto dal n. I dell’O del 4 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
+[^chap4-chap4a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
 
 ### (art. 34*b*<sup>bis</sup> e 35*b* legge sui PF)
 
@@ -508,7 +510,7 @@ Al di fuori dell’adempimento dei propri compiti e obiettivi strategici, i PF e
 
 I fondi di proprietà della Confederazione di cui i PF e gli istituti di ricerca non necessitano più né per uso proprio né per un’utilizzazione secondo l’articolo 33*b* o 33*c* sono venduti conformemente all’ordinanza del 5 dicembre 2008[^33d-1] sulla gestione immobiliare e la logistica della Confederazione. Fino al completamento della vendita possono essere trasferiti a terzi per uso temporaneo.
 
-[^33d-1]: [RS 172.010.21](https://fedlex.data.admin.ch/eli/cc/2008/857)
+[^33d-1]: [RS 172.010.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5021)
 
 #### Art. 33e
 
@@ -548,7 +550,7 @@ Le prestazioni fornite dai servizi della Confederazione al settore dei PF e le p
 
 [^36-1]
 
-[^36-1]: Abrogato dal n. II dell’O del 5 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^36-1]: Abrogato dalla cifra II dell’O del 5 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 
 #### Art. 37
 
@@ -599,7 +601,7 @@ Il Consiglio dei PF può stabilire deroghe agli IPSAS per la presentazione dei c
 
 Per il 2017 non sono versati ricavi secondo l’articolo 2*b* capoverso 1.
 
-[^40a-1]: Introdotto dal n. II dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
+[^40a-1]: Introdotto dalla cifra II dell’O del 5 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)).
 
 #### Art. 40b
 
@@ -611,7 +613,7 @@ Per il 2017 non sono versati ricavi secondo l’articolo 2*b* capoverso 1.
 
 <sup>3</sup> I contratti di diritto di superficie esistenti di durata superiore a 30 anni possono essere modificati durante il loro periodo di validità, previa approvazione dell’UFCL, purché la modifica sia nell’interesse della Confederazione. Dopo la scadenza dei contratti i fondi devono essere utilizzati per uso proprio o secondo l’articolo 33*b* oppure venduti secondo l’articolo 33*d*.
 
-[^40b-1]: Introdotto dal n. I dell’O del 4 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
+[^40b-1]: Introdotto dalla cifra I dell’O del 4 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
 
 #### Art. 41
 
@@ -636,7 +638,7 @@ Allegato 2[^t-1]
 
 ## Specifiche IPSAS riguardanti il consolidamento dei conti annuali nel settore dei PF, del Consiglio dei PF, dei PF e degli istituti di ricerca
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 7 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3227](https://fedlex.data.admin.ch/eli/oc/2016/540)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 7 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3227](https://fedlex.data.admin.ch/eli/oc/2016/540)).
 
 <table>
 <tr><th>N. IPSAS</th><th>Specifiche</th></tr>
