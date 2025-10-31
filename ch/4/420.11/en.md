@@ -4,11 +4,11 @@ title: "Ordinance of 29 November 2013 the Federal Act on the Promotion of Resear
 short: RIPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: en
-version: 2023-09-01
+version: 2025-11-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Research and Innovation Promotion Ordinance, RIPO)
 
-of 29 November 2013 (Status as of 1 September 2023)
+of 29 November 2013 (Status as of 1 November 2025)
 
 The Swiss Federal Council,
 
@@ -27,8 +27,8 @@ based on Articles 10 paragraph 4 second sentence and paragraph 6 third sentence,
 
 ordains:
 
-[^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
-[^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^ingress-3]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Chapter 1 Special Programmes and Topic-Specific Funding Programmes of the Research Funding Institutions and the Swiss Innovation Agency
@@ -638,7 +638,7 @@ Should the funding bodies decide to follow paragraph 1, the following rules shal
 
 <sup>3</sup> Should an employer higher education research centre or non-commercial research centre outside the higher education sector not comply with the measures for the promotion of the utilisation of research findings on which its funding is contingent, the funding bodies may reduce the promised contributions or demand the repayment of contributions already made.
 
-[^40-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 41
 
@@ -689,7 +689,7 @@ Employer institutions shall only have access to data concerning research project
 
 <sup>3</sup> No sensitive personal data within the meaning of Article 5 letter c of the Data Protection Act of 25 September 2020[^41a-1] shall be accessible through the call procedure.[^41a-2]
 
-[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^41a-2]: Amended by Annex 2 No II 50 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapter 6 International Cooperation
@@ -708,7 +708,7 @@ Employer institutions shall only have access to data concerning research project
 
 <sup>3</sup> It may transfer its competencies under paragraphs 1 and 2 to SERI.
 
-[^42-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^42-2]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
@@ -788,11 +788,12 @@ SERI shall consult other departments or research bodies that may be affected by,
 
 <sup>2</sup> The EAER makes decisions on funding over CHF 3 million. SERI shall submit applications.
 
-<sup>3</sup> For funding over CHF 5 million, the prior approval of the Federal Department of Finance is required. Should no agreement be reached in such a case, the Federal Council shall make the decision based on the EAER’s application.
+<sup>3</sup> …[^49-2]
 
 <sup>4</sup> Funding may be guaranteed in a ruling or as part of a treaty.
 
 [^49-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^49-2]: Repealed by No I 2 of the O of 27 Aug. 2025 on the Repeal of the Requirement of Approval or Consultation with the FDF or FTA for Twelve Subsidies, with effect from 1 Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 50
 
@@ -900,7 +901,7 @@ SERI shall produce, periodically or as necessary, a report for the EAER on the s
 <sup>5</sup> Any requests for funding of research infrastructures shall be made within the framework of periodic ERI dispatches.
 
 [^55-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 56
 
@@ -987,7 +988,7 @@ In their multi-year programmes, the research bodies provide information on their
 <sup>3</sup> The resources for the SSTC’s operations shall be set in the SERI budget.
 
 [^61-1]: Name in accordance with No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). This amendment has been made throughout the text.
-[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Chapter 9 Final Provisions
 
@@ -1015,7 +1016,7 @@ In their multi-year programmes, the research bodies provide information on their
 ...[^63-3]
 
 [^63-1]: [AS 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)
-[^63-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^63-3]: Included in the provision mentioned until 31 Dec. 2014.
 
 #### Art. 64
@@ -1028,4 +1029,4 @@ In their multi-year programmes, the research bodies provide information on their
 
 <sup>3</sup> Articles 37 and 38 shall enter into force at the same time as the provisions on funding and federal funding contributions under Chapters 7 and 8 HEdA, but not later than 1 January 2017.
 
-[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)

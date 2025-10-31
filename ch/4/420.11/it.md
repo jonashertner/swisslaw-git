@@ -4,11 +4,11 @@ title: "Ordinanza del 29 novembre 2013 relativa alla legge federale sulla promoz
 short: O-LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: it
-version: 2023-09-01
+version: 2025-11-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/it"
 
 (Ordinanza sulla promozione della ricerca e dell’innovazione, O-LPRI)
 
-del 29 novembre 2013 (Stato 1° settembre 2023)
+del 29 novembre 2013 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,15 +25,15 @@ visti gli articoli 10 capoverso 4 secondo periodo e capoverso 6 terzo periodo, 1
 
 ordina:
 
-[^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
-[^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Capitolo 1: Programmi speciali e programmi di promozione tematici delle istituzioni di promozione della ricerca e dell’Agenzia svizzera per la promozione dell’innovazione
 
 [^chap1-1]
 
-[^chap1-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^chap1-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Sezione 1: Disposizioni generali
 
@@ -62,7 +62,7 @@ La realizzazione dei programmi speciali e dei programmi di promozione tematici p
 
 <sup>4</sup> Se necessario saranno stabilite le misure da applicare ai singoli casi per la valutazione dei programmi, in particolare per la verifica dell’efficacia.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 2
 
@@ -72,7 +72,7 @@ La realizzazione dei programmi speciali e dei programmi di promozione tematici p
 
 <sup>2</sup> In casi urgenti, segnatamente per i programmi speciali, il decreto di finanziamento per un mandato può essere richiesto anche nell’ambito di un messaggio specifico sulla promozione della ricerca e dell’innovazione secondo l’articolo 35 capoverso 1 lettera b LPRI.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Sezione 2: Programmi nazionali di ricerca del Fondo nazionale svizzero
 
@@ -111,7 +111,7 @@ Per la scelta è considerato anche se:
 
 <sup>3</sup> Elabora per i temi aventi priorità elevata alcune proposte di programma che specificano le relative questioni e indicano il mandato di ricerca determinante e ulteriori disposizioni sul programma.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 5
 
@@ -123,7 +123,7 @@ Per la scelta è considerato anche se:
 
 <sup>3</sup> In casi specifici, segnatamente di fronte a temi d’attualità rilevanti per la società e d’importanza nazionale, su mandato del Consiglio federale o del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e in deroga alla procedura di cui all’articolo 4 capoversi 2 e 3, la SEFRI può incaricare direttamente il FNS di verificare la fattibilità e di redigere un concetto di programma. A tale scopo la SEFRI comunica al FNS le problematiche e le ulteriori disposizioni relative al programma oggetto di verifica.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 6
 
@@ -135,7 +135,7 @@ Per la scelta è considerato anche se:
 
 <sup>3</sup> Il DEFR propone al Consiglio federale di realizzare i PNR. A tale proposito considera la quantità di fondi per periodo di sussidio stabilita nel messaggio ERI e prevista nella convenzione sulle prestazioni con il FNS.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 7
 
@@ -151,8 +151,8 @@ Per la scelta è considerato anche se:
 
 <sup>5</sup> Il FNS pubblica il bando di concorso, valuta le proposte di progetto presentate e decide in merito ai progetti da realizzare nell’ambito dei programmi.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 30 set. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 30 set. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 8
 
@@ -251,9 +251,9 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 <sup>7</sup> Il DEFR decide in merito ai PRN da istituire stabilendo per ciascuno di essi gli oneri e il quadro finanziario per il primo periodo di sussidio.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-[^13-2]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^13-3]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^13-2]: Nuova espr. giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 14
 
@@ -271,7 +271,7 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 <sup>2</sup> Prima di sottoscrivere il contratto PRN, il FNS lo sottopone per approvazione alla SEFRI. Quest'ultima verifica le disposizioni previste concernenti il rispetto del quadro finanziario stabilito, gli oneri e i relativi diritti e doveri dei partecipanti.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 16
 
@@ -283,8 +283,8 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 <sup>3</sup> Se il FNS approva una domanda di proroga è concluso un nuovo contratto per il nuovo periodo di finanziamento secondo l’articolo 15.[^16-2]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 17
 
@@ -296,7 +296,7 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 <sup>3</sup> La SEFRI decide, dopo aver consultato il FNS, se un PRN concluso, una serie di PRN conclusi o lo strumento PRN in quanto tale devono essere sottoposti a una verifica completa dell’efficacia incentrata sul raggiungimento degli obiettivi. Dopo aver consultato il FNS, decide le modalità della verifica e assegna i relativi mandati.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 18
 
@@ -320,7 +320,7 @@ Il DEFR disciplina in un’ordinanza i dettagli della procedura per il bando di 
 
 [^chap1-sec4-1]
 
-[^chap1-sec4-1]: Introdotta dal n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^chap1-sec4-1]: Introdotta dalla cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### (art. 10 cpv. 6 LPRI)
 
@@ -375,7 +375,7 @@ La domanda deve includere:
 
 <sup>4</sup> Eventuali prestazioni in natura devono essere chiaramente identificate e iscritte a bilancio come entrate dell’infrastruttura o dell’istituzione di ricerca.[^21-1]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 22
 
@@ -393,7 +393,7 @@ La domanda deve includere:
 
 <sup>6</sup> In caso di sviluppo di nuovi settori d’attività, nel calcolo del finanziamento di base possono essere considerati al massimo per due periodi ERI gli eventuali mezzi finanziari acquisiti su base competitiva. Per il loro conteggio, i mezzi finanziari corrispondenti devono poter essere assegnati al nuovo settore d’attività.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 23
 
@@ -440,8 +440,8 @@ Per la concessione di sussidi ai centri di competenza per la tecnologia che, nel
 
 <sup>2</sup> Coordina tale attività con Innosuisse e altri servizi federali, e garantisce un coinvolgimento adeguato del settore economico e degli organi delle scuole universitarie.[^26-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^26-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
 #### Art. 26a
 
@@ -451,7 +451,7 @@ Per la concessione di sussidi ai centri di competenza per la tecnologia che, nel
 
 Innosuisse ha sede a Berna.
 
-[^26a-1]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^26a-1]: Introdotto dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
 #### Art. 27
 
@@ -467,13 +467,13 @@ Innosuisse ha sede a Berna.
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^28-1]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
 #### Art. 29 e 30
 
 [^2930-1]
 
-[^2930-1]: Abrogati dal n. I dell’O del 26 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^2930-1]: Abrogati dalla cifra I dell’O del 26 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 31
 
@@ -497,7 +497,7 @@ Sono considerati costi computabili:
 
 <sup>6</sup> Rimborsa esclusivamente i costi effettivamente sostenuti e comprovati. I fondi eventualmente non utilizzati del contributo federale di un determinato anno sono compensati con il contributo federale dell’anno successivo dopo presentazione del bilancio annuale dell’istituzione responsabile.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 15 apr. 2021 ([RU 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 19 mar. 2021, in vigore dal 15 apr. 2021 ([RU 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
 [^31-2]: [FF 2021 705](https://fedlex.data.admin.ch/eli/fga/2021/705)
 
 #### Art. 32
@@ -513,7 +513,7 @@ La domanda deve contenere in particolare gli elementi seguenti:
 - a. il preventivo dell’istituzione responsabile;
 - b. un elenco delle attività e delle misure previste per adempiere i compiti definiti nella convenzione sulle prestazioni di cui all’articolo 31 capoverso 3 lettera b.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 15 apr. 2021 ([RU 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 19 mar. 2021, in vigore dal 15 apr. 2021 ([RU 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
 
 ## Capitolo 4: Sussidi per la compensazione di overhead
 
@@ -525,7 +525,7 @@ La domanda deve contenere in particolare gli elementi seguenti:
 
 I sussidi per i costi indiretti di ricerca (overhead) rappresentano un contributo ai costi delle istituzioni derivanti dai progetti di ricerca sostenuti da FNS, Innosuisse e Amministrazione federale nell’ambito della promozione della ricerca e dell’innovazione.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 34
 
@@ -588,7 +588,7 @@ Innosuisse calcola i sussidi overhead sulla base dei sussidi per progetti di ric
 
 <sup>3</sup> Il versamento dei sussidi overhead avviene nell’ambito del versamento dei sussidi per i costi diretti di ricerca.
 
-[^chap4-sec3-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^chap4-sec3-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 [^37-1]: In vigore dal 1° gen. 2017.
 
 #### Art. 38
@@ -597,7 +597,7 @@ Innosuisse calcola i sussidi overhead sulla base dei sussidi per progetti di ric
 
 Innosuisse stabilisce i dettagli della concessione di sussidi overhead nella sua ordinanza sui sussidi.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2018, in vigore dal 1° gen. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2018, in vigore dal 1° gen. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
 ### Sezione 4: Sussidi overhead nella ricerca del settore pubblico
 
@@ -611,7 +611,7 @@ Innosuisse stabilisce i dettagli della concessione di sussidi overhead nella sua
 
 <sup>3</sup> Il versamento dei sussidi overhead avviene nell’ambito del versamento dei sussidi per i costi diretti di ricerca.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Capitolo 5: Provvedimenti per la promozione della valorizzazione dei risultati della ricerca come condizioni di promozione supplementari
 
@@ -635,7 +635,7 @@ In caso di decisione conforme al capoverso 1, valgono le seguenti condizioni:
 
 <sup>3</sup> Se il centro di ricerca universitario o il centro di ricerca extrauniversitario a scopo non lucrativo per il quale i ricercatori lavorano non adempie agli obblighi di valorizzazione dei risultati della ricerca cui è subordinata la concessione di aiuti federali, gli organi di promozione possono ridurre i sussidi approvati o chiedere la restituzione di quelli già versati.
 
-[^40-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 41
 
@@ -668,7 +668,7 @@ Per stabilire un’indennità per l’esclusiva utilizzazione e valorizzazione d
 
 [^chap5a-1]
 
-[^chap5a-1]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
+[^chap5a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)).
 
 (art. 9 LPRI)
 
@@ -686,8 +686,8 @@ L’istituzione che impiega i ricercatori ha accesso esclusivamente ai dati rigu
 
 <sup>3</sup> La procedura di richiamo non rende accessibili dati personali degni di particolare protezione ai sensi dell’articolo 5 lettera c della legge federale del 25 settembre 2020[^41a-1] sulla protezione dei dati.[^41a-2]
 
-[^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^41a-2]: Nuovo testo giusta l’all. 2 n. II 50 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^41a-2]: Nuovo testo giusta l’all. 2 cifra II n. 50 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 6: Cooperazione internazionale
 
@@ -705,8 +705,8 @@ L’istituzione che impiega i ricercatori ha accesso esclusivamente ai dati rigu
 
 <sup>3</sup> Può attribuire le competenze di cui ai capoversi 1 e 2 alla SEFRI.
 
-[^42-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^42-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^42-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^42-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
 
@@ -720,7 +720,7 @@ L’istituzione che impiega i ricercatori ha accesso esclusivamente ai dati rigu
 
 [^44-1]
 
-[^44-1]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)
+[^44-1]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733))
 
 ### Sezione 2: Sussidi per la promozione della collaborazione svizzera a progetti di organizzazioni e programmi internazionali; informazione e consulenza
 
@@ -756,7 +756,7 @@ I sussidi possono essere concessi alle istituzioni e alle organizzazioni se:
 
 <sup>2</sup> I sussidi sono concessi al massimo per cinque anni. È possibile rinnovare il sostegno di volta in volta per un periodo massimo di cinque anni. Prima di ogni proroga viene verificato il diritto al sostegno.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 47
 
@@ -785,11 +785,12 @@ La SEFRI consulta altri uffici o organi di ricerca che potrebbero essere interes
 
 <sup>2</sup> Il DEFR decide per i sussidi superiori a 3 milioni di franchi. La SEFRI presenta la proposta.
 
-<sup>3</sup> Per i sussidi superiori a 5 milioni di franchi è prima necessario ottenere il consenso del Dipartimento federale delle finanze. In tal caso, qualora non si giunga a un accordo, la decisione spetta al Consiglio federale su richiesta del DEFR.
+<sup>3</sup> ...[^49-2]
 
 <sup>4</sup> I sussidi possono essere concessi tramite decisioni o nell’ambito di contratti.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^49-2]: Abrogato dalla cifra I n. 2 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 50
 
@@ -803,7 +804,7 @@ La SEFRI consulta altri uffici o organi di ricerca che potrebbero essere interes
 
 <sup>4</sup> I sussidi sono concessi al massimo per quattro anni. È possibile rinnovare il sostegno di volta in volta per un periodo massimo di quattro anni. Prima di ogni proroga viene verificato il diritto al sostegno.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Sezione 3: Sussidi per la cooperazione scientifica bilaterale al di fuori di programmi e organizzazioni internazionali
 
@@ -821,7 +822,7 @@ La SEFRI consulta altri uffici o organi di ricerca che potrebbero essere interes
 
 <sup>4</sup> Qualora l’interesse per la politica scientifica nazionale e l’eccellenza scientifica di un progetto lo giustifichino, è possibile prescindere dal principio di reciprocità a condizione che i promotori dei progetti o le istituzioni di promozione della ricerca mettano a disposizione mezzi adeguati.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 52
 
@@ -837,7 +838,7 @@ La SEFRI consulta altri uffici o organi di ricerca che potrebbero essere interes
 
 <sup>5</sup> Il DEFR stabilisce in un’ordinanza i rappresentanti all’interno del comitato direttivo nazionale e le modalità di lavoro del comitato.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 53
 
@@ -849,7 +850,7 @@ La SEFRI consulta altri uffici o organi di ricerca che potrebbero essere interes
 
 <sup>3</sup> I dettagli dei compiti del FNS e i relativi sussidi sono stabiliti nella convenzione sulle prestazioni con il FNS.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Capitolo 7: Coordinamento, pianificazione e sviluppo sostenibile
 
@@ -873,7 +874,7 @@ La SEFRI elabora per il Consiglio federale, periodicamente o all’occorrenza, u
 
 <sup>3</sup> Il Consiglio federale prende atto del rapporto di cui al capoverso 1 e decide in merito ai provvedimenti di coordinamento necessari.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
 #### Art. 55
 
@@ -896,8 +897,8 @@ La SEFRI elabora per il DEFR, periodicamente o all’occorrenza, un rapporto sul
 
 <sup>5</sup> Eventuali proposte di finanziamento delle infrastrutture di ricerca sono presentate nell’ambito dei periodici messaggi ERI.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-[^55-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^55-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 56
 
@@ -957,7 +958,7 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 <sup>3</sup> Il piano annuale di promozione è approvato dalla SEFRI.[^59-1]
 
-[^59-1]: Introdotto dal n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^59-1]: Introdotto dalla cifra I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Sezione 3: Sviluppo sostenibile
 
@@ -969,7 +970,7 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 <sup>2</sup> Conformemente all’obbligo di rapporto di cui all’articolo 52 LPRI le istituzioni di promozione della ricerca e l’Amministrazione federale, così come Innosuisse nel suo rapporto di gestione secondo l’articolo 7 capoverso 1 lettera o LASPI, illustrano in che modo hanno rispettato gli obiettivi della Confederazione per uno sviluppo sostenibile della società, dell’economia e dell’ambiente nell’ambito della loro attività di promozione.[^60-1]
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
 ## Capitolo 8: Consiglio svizzero della scienza
 
@@ -983,8 +984,8 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 <sup>3</sup> I fondi per l’esercizio del CSS sono inseriti nel preventivo della SEFRI.
 
-[^61-1]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^61-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-1]: Nuova espr. giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^61-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Capitolo 9: Disposizioni finali
 
@@ -998,7 +999,7 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 ...[^62-2]
 
-[^62-1]: [[RU 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 8; [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)n. I 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
+[^62-1]: [[RU 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 8; [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)cifra I n. 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
 [^62-2]: Le mod. possono essere consultate alla [RU 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814).
 
 #### Art. 63
@@ -1011,7 +1012,7 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 ...[^63-3]
 
-[^63-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^63-2]: [RU 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)
 [^63-3]: Testoinserito nel disp. menzionata al 31 dic. 2014.
 
@@ -1025,4 +1026,4 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 <sup>3</sup> Gli articoli 37 e 38 entrano in vigore contemporaneamente alle disposizioni sul finanziamento e i sussidi federali secondo i capitoli 7 e 8 LPSU, ma non oltre il 1° gennaio 2017.
 
-[^64-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^64-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)

@@ -4,11 +4,11 @@ title: "Ordonnance du 29 novembre 2013 relative à la loi fédérale sur l'encou
 short: O-LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: fr
-version: 2023-09-01
+version: 2025-11-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/fr"
 
 (Ordonnance sur l’encouragement de la recherche et de l’innovation, O-LERI)
 
-du 29 novembre 2013 (État le 1<sup>er</sup> septembre 2023)
+du 29 novembre 2013 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 10, al. 4, 2<sup>e</sup> phrase et al. 6, 3<sup>e</sup> phrase, 15, 
 
 arrête:
 
-[^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
-[^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Chapitre 1 Programmes spéciaux et programmes d’encouragement thématiques des institutions chargées d’encourager la recherche et de l’Agence suisse pour l’encouragement de l’innovation
@@ -639,7 +639,7 @@ Si les organes d’encouragement prennent un décision au sens de l’al. 1, les
 
 <sup>3</sup> Si un établissement de recherche du domaine des hautes écoles ou un établissement de recherche sans but lucratif situé en dehors du domaine des hautes écoles ne remplit pas les obligations liées à l’octroi de la contribution fédérale pour l’exploitation des résultats de recherches, les organes d’encouragement peuvent réduire les contributions octroyées ou exiger le remboursement des contributions déjà versées.
 
-[^40-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 41
 
@@ -690,7 +690,7 @@ Les institutions qui emploient des chercheurs ont uniquement accès aux données
 
 <sup>3</sup> Les données sensibles au sens de l’art. 5, let. c de la loi fédérale du 25 septembre 2020 la protection des données[^41a-1] ne sont pas rendues accessibles en ligne.[^41a-2]
 
-[^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^41a-2]: Nouvelle teneur selon l’annexe 2 ch. II 50 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Chapitre 6 Coopération internationale
@@ -709,7 +709,7 @@ Les institutions qui emploient des chercheurs ont uniquement accès aux données
 
 <sup>3</sup> Il peut déléguer au SEFRI les compétences visées aux al. 1 et 2.
 
-[^42-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
@@ -789,11 +789,12 @@ Le SEFRI consulte les autres services de la Confédération et les organes de re
 
 <sup>2</sup> Le DEFR décide des contributions de plus de 3 millions de francs. Le SEFRI dépose une demande.
 
-<sup>3</sup> Pour les contributions dépassant 5 millions de francs, l’approbation préalable du Département fédéral des finances doit être obtenue. Si un accord ne peut être trouvé, le Conseil fédéral statue, à la demande du DEFR.
+<sup>3</sup> …[^49-2]
 
 <sup>4</sup> Les contributions peuvent être octroyées par voie de décision ou dans le cadre d’accords.
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^49-2]: Abrogé par le ch. I 2 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 50
 
@@ -901,7 +902,7 @@ Le SEFRI rédige périodiquement ou au besoin un rapport à l’intention du DEF
 <sup>5</sup> D’éventuelles propositions de financement d’infrastructures de recherche sont présentées dans le cadre des messages FRI périodiques.
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-[^55-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^55-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 56
 
@@ -988,7 +989,7 @@ Les organes de recherche renseignent, dans leurs programmes pluriannuels, sur le
 <sup>3</sup> Les charges de fonctionnement du CSS sont inscrites au budget du SEFRI.
 
 [^61-1]: Nouvelle expression selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Il a été tenu compte de cette mod. dans tout le texte.
-[^61-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-2]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## Chapitre 9 Dispositions finales
 
@@ -1015,7 +1016,7 @@ Les organes de recherche renseignent, dans leurs programmes pluriannuels, sur le
 
 ...[^63-3]
 
-[^63-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^63-2]: [RO 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)
 [^63-3]: Phrase insérée dans ledit art. jusqu’au 31 déc. 2014.
 
@@ -1029,4 +1030,4 @@ Les organes de recherche renseignent, dans leurs programmes pluriannuels, sur le
 
 <sup>3</sup> Les art. 37 et 38 entrent en vigueur en même temps que les dispositions concernant le financement et les contributions fédérales selon les chap. 7 et 8 LEHE, mais au plus tard le 1<sup>er</sup> janvier 2017.
 
-[^64-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691);en vigueur depuis le 1<sup>er</sup> janv. 2015.
+[^64-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771);en vigueur depuis le 1<sup>er</sup> janv. 2015.

@@ -4,11 +4,11 @@ title: "Verordnung vom 29. November 2013 zum Bundesgesetz über die Förderung d
 short: V-FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: de
-version: 2023-09-01
+version: 2025-11-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/de"
 
 (Forschungs- und Innovationsförderungsverordnung, V-FIFG)
 
-vom 29. November 2013 (Stand am 1. September 2023)
+vom 29. November 2013 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 10 Absatz 4 zweiter Satz und 6 dritter Satz, 15 Absatz
 
 verordnet:
 
-[^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
-[^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## 1. Kapitel: Sonderprogramme und themenorientierte Förderprogramme der Forschungsförderungsinstitutionen und der Schweizerischen Agentur für Innovationsförderung
@@ -636,7 +636,7 @@ Entscheiden die Förderorgane im Sinne von Absatz 1, so gelten die folgenden Reg
 
 <sup>3</sup> Kommt eine arbeitgebende Hochschulforschungsstätte oder nichtkommerzielle Forschungsstätte ausserhalb des Hochschulbereichs ihren an die Gewährung von Bundesmitteln geknüpften Verpflichtungen zur Verwertung der Forschungsresultate nicht nach, so können die Förderorgane die zugesagten Beiträge kürzen oder die ausbezahlten Beiträge zurückfordern.
 
-[^40-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 41
 
@@ -687,7 +687,7 @@ Die arbeitgebende Institution hat Zugriff ausschliesslich auf Daten über Forsch
 
 <sup>3</sup> Über das Abrufverfahren sind keine besonders schützenswerten Personendaten im Sinne von Artikel 5 Buchstabe c des Datenschutzgesetzes vom 25. September 2020[^41a-1] zugänglich.[^41a-2]
 
-[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^41a-2]: Fassung gemäss Anhang 2 Ziff. II 50 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 6. Kapitel: Internationale Zusammenarbeit
@@ -706,7 +706,7 @@ Die arbeitgebende Institution hat Zugriff ausschliesslich auf Daten über Forsch
 
 <sup>3</sup> Es kann die Kompetenzen nach den Absätzen 1 und 2 dem SBFI übertragen.
 
-[^42-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^42-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
@@ -786,11 +786,12 @@ Das SBFI konsultiert andere Ämter oder Forschungsorgane, die durch das Vorhaben
 
 <sup>2</sup> Über Beiträge von mehr als 3 Millionen Franken entscheidet das WBF. Das SBFI stellt Antrag.
 
-<sup>3</sup> Für Beiträge von mehr als 5 Millionen Franken muss vorgängig die Zustimmung des Eidgenössischen Finanzdepartementes eingeholt werden. Kommt in einem solchen Fall keine Einigung zustande, so entscheidet der Bundesrat auf Antrag des WBF.
+<sup>3</sup> …[^49-2]
 
 <sup>4</sup> Die Beiträge können durch Verfügungen oder im Rahmen von Verträgen gewährt werden.
 
 [^49-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^49-2]: Aufgehoben durch Ziff. I 2 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 50
 
@@ -898,7 +899,7 @@ Das SBFI erarbeitet zuhanden des WBF periodisch oder nach Bedarf einen Bericht z
 <sup>5</sup> Allfällige Anträge zur Finanzierung der Forschungsinfrastrukturen erfolgen im Rahmen der periodischen BFI-Botschaften.
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 56
 
@@ -985,7 +986,7 @@ Mit ihren Mehrjahresprogrammen geben die Forschungsorgane Auskunft über die bea
 <sup>3</sup> Die Mittel für den Betrieb des SWR werden im Voranschlag des SBFI eingestellt.
 
 [^61-1]: Ausdruck gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## 9. Kapitel: Schlussbestimmungen
 
@@ -1012,7 +1013,7 @@ Mit ihren Mehrjahresprogrammen geben die Forschungsorgane Auskunft über die bea
 
 …[^63-3]
 
-[^63-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^63-2]: [AS 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)
 [^63-3]: Eingefügt in der genannten Bestimmung bis 31. Dez. 2014
 
@@ -1026,4 +1027,4 @@ Mit ihren Mehrjahresprogrammen geben die Forschungsorgane Auskunft über die bea
 
 <sup>3</sup> Die Artikel 37 und 38 treten gleichzeitig mit den Bestimmungen über die Finanzierung und die Bundesbeiträge nach dem 7. und dem 8. Kapitel HFKG, spätestens jedoch am 1. Januar 2017 in Kraft.
 
-[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)

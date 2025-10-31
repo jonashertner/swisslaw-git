@@ -4,11 +4,11 @@ title: "Ordinaziun dals 29 da november 2013 tar la Lescha federala davart la pro
 short: O-LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: rm
-version: 2023-09-01
+version: 2025-11-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230901-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20251101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20251101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20251101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da perscrutaziun e d’innovaziun, O-LPPI)
 
-dals 29 da november 2013 (versiun dal 1. da settember 2023)
+dals 29 da november 2013 (versiun dal 1. da november 2025)
 
 Il Cussegl federal svizzer,
 
@@ -27,8 +27,8 @@ sa basond sin ils artitgels 10 alinea 4 segunda frasa ed alinea 6 terza frasa, 1
 
 decretescha:
 
-[^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
-[^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
+[^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6877)
 [^ingress-3]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2022, en vigur dapi il 1. da schan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## 1. chapitel Programs spezials e programs da promoziun tematics da las instituziuns da promoziun da la perscrutaziun e da l’Agentura svizra per la promoziun da l’innovaziun
@@ -638,7 +638,7 @@ Sch’ils organs da perscrutaziun decidan en il senn da l’alinea 1, vegnan app
 
 <sup>3</sup> Sch’in institut patrun da la perscrutaziun en scolas autas u in institut da perscrutaziun betg commerzial situà ordaifer il sectur da las scolas autas n’ademplescha betg las obligaziuns ch’èn liadas a la concessiun da meds finanzials federals per l’utilisaziun dals resultats da perscrutaziun, pon ils organs da promoziun reducir las contribuziuns garantidas u pretender enavos las contribuziuns gia pajadas.
 
-[^40-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 41
 
@@ -689,7 +689,7 @@ L’instituziun emploianta ha unicamain access a datas davart projects da perscr
 
 <sup>3</sup> Sur la procedura d’invista n’èn accessiblas naginas datas persunalas spezialmain sensiblas en il senn da l’artitgel 5 litera c da la Lescha federala dals 25 da settember 2020[^41a-1] davart la protecziun da datas.[^41a-2]
 
-[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^41a-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^41a-2]: Versiun tenor la cifra II 50 da l’agiunta 2 da l’O dals 31 d’avust 2022 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 6. chapitel Collavuraziun internaziunala
@@ -708,7 +708,7 @@ L’instituziun emploianta ha unicamain access a datas davart projects da perscr
 
 <sup>3</sup> El po surdar las cumpetenzas tenor ils alineas 1 e 2 al SEFRI.
 
-[^42-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^42-2]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2022, en vigur dapi il 1. da schan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
@@ -788,11 +788,12 @@ Il SEFRI consultescha auters uffizis u organs da perscrutaziun che pon esser per
 
 <sup>2</sup> Il DEFR decida davart contribuziuns da passa 3 milliun francs. Il SEFRI fa ina proposta.
 
-<sup>3</sup> Per contribuziuns da passa 5 milliuns francs sto vegnir dumandà ordavant il consentiment dal Departament federal da finanzas. Sch’i na dat nagina cunvegnientscha, decida il Cussegl federal sin proposta dal DEFR.
+<sup>3</sup> …[^49-2]
 
 <sup>4</sup> Las contribuziuns pon vegnir concedidas tras disposiziuns u en il rom da contracts.
 
 [^49-1]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2022, en vigur dapi il 1. da schan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^49-2]: Abolì tras la cifra I 2 da l’O dals 27 d’avust 2025 davart l’aboliziun da la necessitad dal consentiment u da l’audiziun dal DFF u da la AFT concernent 12 subvenziuns, cun effect dapi il 1. da nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 50
 
@@ -900,7 +901,7 @@ Il SEFRI elavura periodicamain u tenor basegn in rapport per mauns dal DEFR dava
 <sup>5</sup> Eventualas propostas per finanziar las infrastructuras da perscrutaziun vegnan fatgas en il rom da las missivas FPI periodicas.
 
 [^55-1]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2022, en vigur dapi il 1. da schan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
-[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 56
 
@@ -987,7 +988,7 @@ Ils organs da perscrutaziun infurmeschan, cun lur programs da plirs onns, davart
 <sup>3</sup> Ils meds finanzials per la gestiun dal CSS vegnan inscrits en il preventiv dal SEFRI.
 
 [^61-1]: Expressiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Questa midada è vegnida resguardada en l’entir decret.
-[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ## 9. chapitel Disposiziuns finalas
 
@@ -1014,7 +1015,7 @@ Ils organs da perscrutaziun infurmeschan, cun lur programs da plirs onns, davart
 
 ...[^63-3]
 
-[^63-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^63-2]: [AS 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)
 [^63-3]: Integrà en la disposiziun menziunada fin ils 31 da dec. 2014.
 
@@ -1028,4 +1029,4 @@ Ils organs da perscrutaziun infurmeschan, cun lur programs da plirs onns, davart
 
 <sup>3</sup> Ils artitgels 37 e 38 entran en vigur a medem temp cun las disposiziuns davart la finanziaziun e davart las contribuziuns federalas tenor il 7. ed il 8. chapitel da la LASA, il pli tard però il 1. da schaner 2017.
 
-[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
