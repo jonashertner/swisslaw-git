@@ -4,11 +4,11 @@ title: Ordinanza del 14 novembre 2012 concernente il rilascio di documenti di vi
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: it
-version: 2023-10-15
+version: 2025-11-01
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20231015-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2012-713-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/it"
 
 (ODV)
 
-del 14 novembre 2012 (Stato 15 ottobre 2023)
+del 14 novembre 2012 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,10 +25,10 @@ visti gli articoli 59*a* capoverso 2, 59*b* capoverso 3 e 111 capoverso 6 della 
 
 ordina:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-3]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^ingress-4]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-3]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^ingress-4]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 [^ingress-5]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1475](https://fedlex.data.admin.ch/eli/oc/2019/283)).
 
 #### Art. 1
@@ -48,9 +48,9 @@ La Segreteria di Stato della migrazione (SEM)[^1-1] rilascia i seguenti document
 
 [^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
 [^1-2]: Abrogata dalla cifra I dell’O del 15 ago. 2018, con effetto dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^1-3]: Nuovo testo giusta la cifra I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^1-3]: Nuovo testo giusta la cifra I n. 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^1-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^1-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 2
 
@@ -101,7 +101,7 @@ Ha diritto a un titolo di viaggio per rifugiati:
 <sup>2</sup> Nel titolo di viaggio per rifugiati è menzionata la cittadinanza o l’apolidia.
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^3-2]: [RS 0.142.305](https://fedlex.data.admin.ch/eli/cc/1986/464_464_464)
+[^3-2]: [RS 0.142.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/434)
 
 #### Art. 4
 
@@ -122,7 +122,7 @@ Può essere rilasciato un passaporto per stranieri:
 <sup>4</sup> Nel passaporto rilasciato conformemente al capoverso 2 lettera b sono menzionati la durata del viaggio e lo statuto di soggiorno del titolare. Possono esservi menzionati anche il motivo del viaggio e la destinazione.
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^4-2]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^4-2]: [RS 192.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5677)
 
 #### Art. 5
 
@@ -136,7 +136,7 @@ Può essere rilasciato un passaporto per stranieri:
 
 Per l’esecuzione dell’allontanamento, dell’espulsione o dell’espulsione giudiziaria, a uno straniero può essere rilasciato un documento di viaggio sostitutivo se tale documento rende possibile il rientro nello Stato d’origine o di provenienza e un altro documento di viaggio non può o non può più essere ottenuto entro il termine di partenza stabilito.
 
-[^6-1]: Nuovo testo giusta la cifra I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^6-1]: Nuovo testo giusta la cifra I n. 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 7
 
@@ -191,11 +191,11 @@ Una persona ammessa provvisoriamente può ottenere un documento di viaggio o un 
 
 <sup>7</sup> I capoversi 1–6 si applicano per analogia alle persone bisognose di protezione.
 
-<sup>8</sup> Le persone bisognose di protezione secondo la decisione di portata generale del Consiglio federale dell’11 marzo 2022[^9-2] concernente la concessione della protezione provvisoria in relazione alla situazione in Ucraina possono recarsi all’estero e tornare in Svizzera senza autorizzazione di viaggio.[^9-3]
+<sup>8</sup> Le persone bisognose di protezione secondo la decisione di portata generale del Consiglio federale dell’8 ottobre 2025[^9-2] concernente la concessione della protezione provvisoria in relazione alla situazione in Ucraina possono recarsi all’estero e tornare in Svizzera senza autorizzazione di viaggio.[^9-3]
 
 [^9-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^9-2]: [FF 2022 586](https://fedlex.data.admin.ch/eli/fga/2022/586)
-[^9-3]: Introdotto dalla cifra I dell’O dell’11 mar. 2022, in vigore dal 12 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
+[^9-2]: [FF 2025 3074](https://fedlex.data.admin.ch/eli/fga/2025/3074)
+[^9-3]: Introdotto dalla cifra I dell’O dell’11 mar. 2022 ([RU 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Nuovo testo giusta la cifra I l’O dell’8 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 625](https://fedlex.data.admin.ch/eli/oc/2025/625)).
 
 #### Art. 9a
 
@@ -325,7 +325,7 @@ I documenti di viaggio sono validi:
 <sup>7</sup> Il Cantone è indennizzato per l’onere occasionato dal rilevamento biometrico.[^15-5]
 
 [^15-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
-[^15-2]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
+[^15-2]: [RS 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 [^15-3]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 [^15-4]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 [^15-5]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 20 nov. 2015 ([RU 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
@@ -379,7 +379,7 @@ La SEM rifiuta il rilascio di un documento di viaggio o di un visto di ritorno, 
 
 <sup>2</sup> Se da una perizia o da una sentenza del tribunale risulta che lo straniero ha contraffatto, alterato o lasciato per uso a terzi non autorizzati il suo vecchio documento di viaggio, la SEM rifiuta, per due anni al massimo, il rilascio di un nuovo documento di viaggio o di un nuovo visto di ritorno.
 
-[^19-1]: Introdotta dalla cifra I 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^19-1]: Introdotta dalla cifra I n. 8 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 20
 
@@ -449,7 +449,7 @@ Se si applica l’articolo 19 capoverso 2, la SEM può prelevare un emolumento f
 
 Per accertamenti approfonditi all’estero, la SEM calcola l’emolumento in base al dispendio di tempo. Allo scopo applica la tariffa dell’ordinanza del 29 novembre 2006[^25-1] sulle tasse delle rappresentanze diplomatiche e consolari svizzere.
 
-[^25-1]: [[RU 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [RU 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)art. 17]. Vedi ora: l’O del 7 ott. 2015 sugli emolumenti del DFAE ([RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)).
+[^25-1]: [[RU 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [RU 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)art. 17]. Vedi ora: l’O del 7 ott. 2015 sugli emolumenti del DFAE ([RS 191.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5669)).
 
 #### Art. 26
 
@@ -463,7 +463,7 @@ Eccezion fatta per l’emolumento riscosso dai Cantoni per la ricezione della do
 
 Nella misura in cui la presente ordinanza non comporta disciplinamenti speciali, vigono le disposizioni dell’ordinanza generale dell’8 settembre 2004[^27-1] sugli emolumenti.
 
-[^27-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^27-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 28 a 30
 
@@ -537,8 +537,8 @@ Allegato 2[^t-2]
 <tr><td>4.2 Emolumento per la notifica di una decisione di rifiuto della domanda (art. 2 dell’O generale dell’8 set. 2004[^annex2-lvlu1-2] sugli emolumenti)</td><td>150.–</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
-[^annex2-lvlu1-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^annex2-lvlu1-1]: [RS 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
+[^annex2-lvlu1-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 Allegato 3[^t-3]
 

@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2012 über die Ausstellung von Reisedokumente
 short: RDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: de
-version: 2023-10-15
+version: 2025-11-01
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20231015-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2012-713-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/de"
 
 (RDV)
 
-vom 14. November 2012 (Stand am 15. Oktober 2023)
+vom 14. November 2012 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 59*a* Absatz 2, 59*b* Absatz 3 und 111 Absatz 6 des Bu
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-3]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^ingress-4]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-3]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^ingress-4]: [SR 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1475](https://fedlex.data.admin.ch/eli/oc/2019/283)).
 
 #### Art. 1
@@ -49,8 +49,8 @@ Das Staatssekretariat für Migration (SEM)[^1-1] stellt folgende Reisedokumente 
 [^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^1-2]: Aufgehoben durch Ziff. I der V vom 15. Aug. 2018, mit Wirkung seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 [^1-3]: Fassung gemäss Ziff. I 8 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^1-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^1-5]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 2
 
@@ -101,7 +101,7 @@ Anspruch auf einen Reiseausweis für Flüchtlinge hat:
 <sup>2</sup> Im Reiseausweis für Flüchtlinge wird die Staatsangehörigkeit oder die Staatenlosigkeit vermerkt.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^3-2]: [SR 0.142.305](https://fedlex.data.admin.ch/eli/cc/1986/464_464_464)
+[^3-2]: [SR 0.142.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/434)
 
 #### Art. 4
 
@@ -122,7 +122,7 @@ Ein Pass für eine ausländische Person kann abgegeben werden:
 <sup>4</sup> In einem nach Absatz 2 Buchstabe b abgegebenen Pass werden die Dauer der Reise und der aufenthaltsrechtliche Status der Person vermerkt. Auch der Reisegrund und das Reiseziel können vermerkt werden.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^4-2]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^4-2]: [SR 192.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5677)
 
 #### Art. 5
 
@@ -191,11 +191,11 @@ Eine vorläufig aufgenommene Person kann ein Reisedokument oder ein Rückreisevi
 
 <sup>7</sup> Für schutzbedürftige Personen gelten die Absätze 1–6 sinngemäss.
 
-<sup>8</sup> Schutzbedürftige Personen gemäss der Allgemeinverfügung des Bundesrates vom 11. März 2022[^9-2] zur Gewährung des vorübergehenden Schutzes im Zusammenhang mit der Situation in der Ukraine können ohne Reisebewilligung ins Ausland reisen und in die Schweiz zurückkehren.[^9-3]
+<sup>8</sup> Schutzbedürftige Personen gemäss der Allgemeinverfügung des Bundesrates vom 8. Oktober 2025[^9-2] zur Gewährung des vorübergehenden Schutzes im Zusammenhang mit der Situation in der Ukraine können ohne Reisebewilligung ins Ausland reisen und in die Schweiz zurückkehren.[^9-3]
 
 [^9-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^9-2]: [BBl 2022 586](https://fedlex.data.admin.ch/eli/fga/2022/586)
-[^9-3]: Eingefügt durch Ziff. I der V vom 11. März 2022, in Kraft seit 12. März 2022 ([AS 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
+[^9-2]: [BBl 2025 3074](https://fedlex.data.admin.ch/eli/fga/2025/3074)
+[^9-3]: Eingefügt durch Ziff. I der V vom 11. März 2022 ([AS 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Fassung gemäss Ziff. I der V vom 8. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 625](https://fedlex.data.admin.ch/eli/oc/2025/625)).
 
 #### Art. 9a
 
@@ -325,7 +325,7 @@ Die Reisedokumente sind gültig:
 <sup>7</sup> Der Kanton wird für den Aufwand, der ihm bei der biometrischen Erfassung entstanden ist, entschädigt.[^15-5]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 20. Nov. 2015 ([AS 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
-[^15-2]: [SR 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
+[^15-2]: [SR 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 [^15-3]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 20. Nov. 2015 ([AS 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 [^15-4]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 20. Nov. 2015 ([AS 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 [^15-5]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 20. Nov. 2015 ([AS 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
@@ -449,7 +449,7 @@ Findet Artikel 19 Absatz 2 Anwendung, so kann das SEM für die erfolgten notwend
 
 Umfangreiche Abklärungen im Ausland werden vom SEM nach Aufwand in Rechnung gestellt. Es gelten die Ansätze der Verordnung vom 29. November 2006[^25-1] über die Gebühren der diplomatischen und konsularischen Vertretungen der Schweiz.
 
-[^25-1]: [[AS 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [AS 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)Art. 17]. Siehe heute: die Gebührenverordnung vom 7. Okt. 2015 ([SR 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)).
+[^25-1]: [[AS 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [AS 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)Art. 17]. Siehe heute: die Gebührenverordnung vom 7. Okt. 2015 ([SR 191.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5669)).
 
 #### Art. 26
 
@@ -463,7 +463,7 @@ Mit Ausnahme der vom Kanton erhobenen Gebühr für die Entgegennahme des Gesuchs
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^27-1].
 
-[^27-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^27-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 28–30
 
@@ -535,8 +535,8 @@ Anhang 2[^t-2]
 <tr><td>4.2 Gebühr für die Zustellung einer Ablehnungsverfügung (Art. 2 der Allgemeinen Gebührenverordnung vom 8. Sept. 2004[^annex2-lvlu1-2])</td><td>150.–</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
-[^annex2-lvlu1-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^annex2-lvlu1-1]: [SR 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
+[^annex2-lvlu1-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 Anhang 3[^t-3]
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 2012 sur l'établissement de documents de voya
 short: ODV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/713"
 language: fr
-version: 2023-10-15
+version: 2025-11-01
 adopted: 2012-11-14
 in_force: 2012-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20231015-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/713/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-713-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/713/20231015/fr"
 
 (ODV)
 
-du 14 novembre 2012 (État le 15 octobre 2023)
+du 14 novembre 2012 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu les art. 59*a*, al. 2, 59*b*, al. 3, et 111, al. 6, de la loi fédérale du 1
 
 arrête:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-3]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^ingress-4]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-3]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^ingress-4]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1475](https://fedlex.data.admin.ch/eli/oc/2019/283)).
 
 #### Art. 1
@@ -49,8 +49,8 @@ Le Secrétariat d’État aux migrations (SEM)[^1-1] établit les documents de v
 [^1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-2]: Abrogée par le ch. I de l’O du 15 août 2018, avec effet au 15 sept. 2018 ([RO 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
 [^1-3]: Nouvelle teneur selon le ch. I 8 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^1-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^1-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 2
 
@@ -101,7 +101,7 @@ A droit à un titre de voyage pour réfugiés:
 <sup>2</sup> Le titre de voyage pour réfugiés mentionne la nationalité ou le statut d’apatride du titulaire.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^3-2]: [RS 0.142.305](https://fedlex.data.admin.ch/eli/cc/1986/464_464_464)
+[^3-2]: [RS 0.142.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/434)
 
 #### Art. 4
 
@@ -122,7 +122,7 @@ Peut bénéficier d’un passeport pour étrangers:
 <sup>4</sup> La durée du voyage et le statut de séjour du titulaire sont mentionnés dans le passeport établi conformément à l’al. 2, let. b. Le motif du voyage et la destination peuvent également y figurer.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^4-2]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^4-2]: [RS 192.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5677)
 
 #### Art. 5
 
@@ -191,11 +191,11 @@ Un document de voyage ou un visa de retour peut être remis à une personne admi
 
 <sup>7</sup> Les al. 1 à 6 s’appliquent par analogie aux personnes à protéger.
 
-<sup>8</sup> Les personnes à protéger visées par la décision de portée générale du Conseil fédéral du 11 mars 2022 concernant l’octroi de la protection provisoire en lien avec la situation en Ukraine[^9-2] peuvent se rendre à l’étranger et revenir en Suisse sans autorisation de voyage.[^9-3]
+<sup>8</sup> Les personnes à protéger visées par la décision de portée générale du Conseil fédéral du 8 octobre 2025 concernant l’octroi de la protection provisoire en lien avec la situation en Ukraine[^9-2] peuvent se rendre à l’étranger et revenir en Suisse sans autorisation de voyage.[^9-3]
 
 [^9-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3129](https://fedlex.data.admin.ch/eli/oc/2018/495)).
-[^9-2]: [FF 2022 586](https://fedlex.data.admin.ch/eli/fga/2022/586)
-[^9-3]: Introduit par le ch. I de l’O du 11 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)).
+[^9-2]: [FF 2025 3074](https://fedlex.data.admin.ch/eli/fga/2025/3074)
+[^9-3]: Introduit par le ch. I de l’O du 11 mars 2022 ([RO 2022 168](https://fedlex.data.admin.ch/eli/oc/2022/168)). Nouvelle teneur selon le ch. I de l’O du 8 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 625](https://fedlex.data.admin.ch/eli/oc/2025/625)).
 
 #### Art. 9a
 
@@ -325,7 +325,7 @@ La durée de validité des documents de voyage est fixée comme suit:
 <sup>7</sup> Le canton est dédommagé des frais que lui occasionne la saisie biométrique.[^15-5]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 20 nov. 2015 ([RO 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
-[^15-2]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
+[^15-2]: [RS 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 [^15-3]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 20 nov. 2015 ([RO 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 [^15-4]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 20 nov. 2015 ([RO 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
 [^15-5]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 20 nov. 2015 ([RO 2015 4237](https://fedlex.data.admin.ch/eli/oc/2015/709)).
@@ -449,7 +449,7 @@ Lorsque l’art. 19, al. 2, est applicable, le SEM peut percevoir un émolument 
 
 S’il doit mener des investigations approfondies à l’étranger, le SEM facture les frais effectifs correspondants. Le tarif de ces émoluments est régi par l’ordonnance du 29 novembre 2006 sur les émoluments à percevoir par les représentations diplomatiques et consulaires suisses[^25-1].
 
-[^25-1]: [[RO 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [RO 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)art. 17]. Voir actuellement l’O du 7 oct. 2015 sur les émoluments du DFAE ([RS 191.11](https://fedlex.data.admin.ch/eli/cc/2015/652)).
+[^25-1]: [[RO 2006 5321](https://fedlex.data.admin.ch/eli/oc/2006/803). [RO 2015 3849](https://fedlex.data.admin.ch/eli/oc/2015/652)art. 17]. Voir actuellement l’O du 7 oct. 2015 sur les émoluments du DFAE ([RS 191.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5669)).
 
 #### Art. 26
 
@@ -463,7 +463,7 @@ S’il doit mener des investigations approfondies à l’étranger, le SEM factu
 
 Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^27-1] s’appliquent dans la mesure où la présente ordonnance ne prévoit pas de réglementation particulière.
 
-[^27-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^27-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 28-30
 
@@ -535,8 +535,8 @@ Annexe 2[^t-2]
 <tr><td>4.2 Émolument pour l’établissement d’une décision de refus (art. 2 de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^annex2-lvlu1-2])</td><td>150.–</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
-[^annex2-lvlu1-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^annex2-lvlu1-1]: [RS 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
+[^annex2-lvlu1-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 Annexe 3[^t-3]
 
