@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2024-10-01
+version: 2025-11-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20241001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (État le 1<sup>er</sup> octobre 2024)
+du 21 septembre 2018 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapitre 1 Objet et champ d’application
 
@@ -54,8 +54,8 @@ La présente ordonnance règle:
 
 <sup>4</sup> Les définitions de l’art. 2 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments (OAMéd)[^1-2] sont applicables.
 
-[^1-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
-[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^1-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
+[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 
 ## Chapitre 2 Procédure d’autorisation de mise sur le marché
 
@@ -74,7 +74,7 @@ Une autorisation est nécessaire dans tous les cas:
 - a. pour les médicaments prêts à l’emploi qui contiennent des organismes génétiquement modifiés (OGM);
 - b. pour les transplants standardisés au sens de l’art. 2, al. 1, let. c, de l’ordonnance du 16 mars 2007 sur la transplantation[^2-1].
 
-[^2-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^2-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ Une autorisation est nécessaire dans tous les cas:
 
 <sup>4</sup> Il peut impartir un délai de 60 jours au plus pour remédier aux défauts.
 
-[^3-1]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^3-1]: [RS 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 4
 
@@ -153,7 +153,7 @@ Avant le dépôt d’une demande d’autorisation de mise sur le marché, il peu
 
 <sup>2</sup> L’autorité compétente dirige et coordonne la procédure d’autorisation de mise sur le marché en tenant compte de l’ordonnance sur la dissémination dans l’environnement.
 
-[^6-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^6-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 7
 
@@ -187,9 +187,9 @@ Le requérant peut déposer auprès de Swissmedic une demande de procédure rapi
 
 <sup>5</sup> Sur demande, il précise dans la décision d’autorisation que l’information sur le médicament reproduit les résultats des études pertinentes réalisées conformément au plan d’investigation pédiatrique approuvé selon l’art. 54*a* LPTh.
 
-[^9-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^9-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^9-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^9-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^9-3]: [RS 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 10
 
@@ -211,7 +211,7 @@ L’autorisation est transmissible.
 
 <sup>5</sup> Swissmedic publie les notifications visées aux al. 2 à 4. S’agissant d’un arrêt de distribution selon l’al. 3, il précise que la documentation relative à l’autorisation du médicament pour l’utilisation pédiatrique peut être obtenue gratuitement auprès du titulaire de l’autorisation.
 
-[^11-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^11-1]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 #### Art. 12
 
@@ -599,7 +599,7 @@ Pour la classification dans une catégorie de remise, il tient compte en particu
 
 <sup>5</sup> Les stupéfiants et les substances psychotropes sont soumis aux dispositions particulières de l’ordonnance du 25 mai 2011 sur le contrôle des stupéfiants[^40-1].
 
-[^40-1]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+[^40-1]: [RS 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)
 
 ### Section 2 Catégories de médicaments soumis à ordonnance
 
@@ -686,7 +686,7 @@ Les pharmaciens peuvent, sans présentation d’une ordonnance, remettre les mé
 
 Les pharmaciens peuvent remettre les médicaments visés à l’art. 4, let. b, de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins[^46-1] qui ont été prescrits par un chiropraticien.
 
-[^46-1]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
+[^46-1]: [RS 832.112.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10157)
 
 #### Art. 47
 
@@ -714,8 +714,8 @@ Les informations suivantes doivent être consignées:
 
 <sup>3</sup> Si les informations sont enregistrées dans le dossier électronique du patient selon la loi fédérale du 19 juin 2015 sur le dossier électronique du patient (LDEP)[^48-1], les formats d’échange prévus par le Département fédéral de l’intérieur (DFI) en vertu de l’art. 10, al. 3, let. b, de l’ordonnance du 22 mars 2017 sur le dossier électronique du patient (ODEP)[^48-2] doivent être respectés.
 
-[^48-1]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^48-2]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^48-1]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^48-2]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 49
 
@@ -752,8 +752,8 @@ L’ordonnance d’un médecin ou d’un chiropraticien prescrivant un médicame
 <sup>4</sup> Si l’ordonnance électronique est enregistrée dans le dossier électronique du patient au sens de la LDEP[^51-2], les formats d’échange prévus par le DFI en vertu de l’art. 10, al. 3, let. b, ODEP[^51-3] doivent être respectés.
 
 [^51-1]: GLN = *Global Location Number*
-[^51-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^51-3]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^51-2]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^51-3]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 ## Chapitre 5 Administration de médicaments soumis à ordonnance
 
@@ -818,7 +818,7 @@ De surcroît, le requérant doit, à l’aide d’un système d’assurance-qual
 
 <sup>3</sup> Les exigences concernant la prescription, la remise et l’utilisation de médicaments vétérinaires doivent être respectées conformément à l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^55-1].
 
-[^55-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^55-1]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 56
 
@@ -881,7 +881,7 @@ De plus, il contrôle régulièrement, en vertu de l’art. 58, al. 2, LPTh, si 
 
 <sup>2</sup> Les inspections à l’étranger et les attributions des inspecteurs sont régies par les art. 60, al. 2 et 3, et 62 OAMéd[^59-1].
 
-[^59-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^59-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 
 ### Section 2 Rapport périodique sur la sécurité et le rapport bénéfice-risque des médicaments
 
@@ -926,7 +926,7 @@ Le fabricant ou le titulaire de l’autorisation doit déclarer à Swissmedic:
 
 <sup>7</sup> Pour les produits sanguins labiles, la déclaration des défauts de qualité est régie par l’art. 37 OAMéd[^61-1].
 
-[^61-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^61-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 
 #### Art. 62
 
@@ -997,7 +997,7 @@ L’obligation de déclarer les événements et les effets indésirables liés �
 
 <sup>4</sup> Les établissements qui utilisent des produits sanguins labiles mettent en place à cet effet un système d’assurance-qualité conformément à l’état des connaissances scientifiques et techniques. Ils désignent un responsable chargé d’assumer l’obligation de déclarer.
 
-[^65-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^65-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 
 #### Art. 66
 
@@ -1019,7 +1019,7 @@ L’obligation de déclarer les événements et les effets indésirables liés �
 
 <sup>4</sup> Si le requérant ne peut respecter tout ou partie des exigences visées à l’al. 2 pour certains essais, il le justifie envers Swissmedic. Dans les cas dûment justifiés, Swissmedic évalue la qualité et la fiabilité de l’essai et vérifie si les exigences visées à l’al. 1 sont respectées; il décide de la prise en compte des essais non cliniques correspondants.
 
-[^67-1]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^67-1]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 ## Chapitre 10 Information
 
@@ -1186,7 +1186,7 @@ Swissmedic peut préciser les exigences techniques et les modalités nécessaire
 
 <sup>4</sup> Le DFI peut faire appel à des experts pour adapter l’annexe 2.
 
-[^79-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^79-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 80
 
@@ -1205,7 +1205,7 @@ Swissmedic peut préciser les exigences techniques et les modalités nécessaire
 <sup>3</sup> Pour l’exécution des dispositions concernant des médicaments contenant des OGM, la collaboration est régie par l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^81-2].
 
 [^81-1]: EMEA/CHMP/SWP/4447/00 du 1<sup>er</sup> juin 2006. Ce document peut être obtenu auprès de l’EMA à l’adresse: [www.ema.europa.eu](https://www.ema.europa.eu).
-[^81-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^81-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 82
 
@@ -1221,7 +1221,7 @@ Swissmedic communique sur demande à l’OFSP:
 <sup>2</sup> Les données visées à l’al. 1 ne doivent pas contenir de données sensibles.
 
 [^82-1]: Nouvelle teneur selon le ch. III de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^82-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^82-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### Section 2 Abrogation et modification d’autres actes, dispositions transitoires
 
@@ -1338,8 +1338,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I des O du DFI du 7 juin 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), du 28 avr. 2023 ([RO 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)) et du 12 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/426](https://fedlex.data.admin.ch/eli/oc/2024/426) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I des O du DFI du 7 juin 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), du 28 avr. 2023 ([RO 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)), du 12 août 2024 ([RO 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)) et du 25 sept. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 602](https://fedlex.data.admin.ch/eli/oc/2025/602)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/602](https://fedlex.data.admin.ch/eli/oc/2025/602) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 

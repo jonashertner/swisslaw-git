@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2024-10-01
+version: 2025-11-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20241001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. Oktober 2024)
+vom 21. September 2018 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf das Heilmittelgesetz vom 15. Dezember 2000[^ingress-1] (HMG), auf 
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-4]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-4]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
 
@@ -54,8 +54,8 @@ Diese Verordnung regelt:
 
 <sup>4</sup> Die Begriffe richten sich nach Artikel 2 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^1-2] (AMBV).
 
-[^1-1]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
-[^1-2]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^1-1]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
+[^1-2]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 ## 2. Kapitel: Zulassungsverfahren
 
@@ -74,7 +74,7 @@ Eine Zulassung ist auf jeden Fall erforderlich:
 - a. für ein verwendungsfertiges Arzneimittel, das gentechnisch veränderte Organismen (GVO) enthält;
 - b. für ein Transplantatprodukt nach Artikel 2 Absatz 1 Buchstabe c der Transplantationsverordnung vom 16. März 2007[^2-1].
 
-[^2-1]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^2-1]: [SR 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ Eine Zulassung ist auf jeden Fall erforderlich:
 
 <sup>4</sup> Sie kann eine Frist von höchstens 60 Tagen zur Nachbesserung ansetzen.
 
-[^3-1]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^3-1]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 4
 
@@ -153,7 +153,7 @@ Auf Gesuch hin kann die Swissmedic bereits vor der Einreichung eines Zulassungsg
 
 <sup>2</sup> Unter Berücksichtigung der Freisetzungsverordnung leitet und koordiniert die zuständige Behörde das Zulassungsverfahren.
 
-[^6-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^6-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 7
 
@@ -187,9 +187,9 @@ Eine Gesuchstellerin kann bei der Swissmedic für ein Humanarzneimittel oder fü
 
 <sup>5</sup> Sie vermerkt auf Gesuch hin in der Zulassungsverfügung, dass die Arzneimittelinformation die relevanten Ergebnisse der Studien wiedergibt, die in Übereinstimmung mit dem genehmigten pädiatrischen Prüfkonzept nach Artikel 54*a* HMG durchgeführt wurden.
 
-[^9-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^9-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^9-2]: Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^9-3]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^9-3]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 10
 
@@ -211,7 +211,7 @@ Die Zulassung ist übertragbar.
 
 <sup>5</sup> Die Swissmedic publiziert die nach den Absätzen 2–4 eingegangenen Meldungen. Handelt es sich um eine Vertriebseinstellung nach Absatz 3, so gibt die Swissmedic zugleich bekannt, dass die für die pädiatrische Anwendung erforderliche Zulassungsdokumentation bei der Zulassungsinhaberin unentgeltlich erworben werden kann.
 
-[^11-1]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^11-1]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 #### Art. 12
 
@@ -599,7 +599,7 @@ Bei der Einteilung berücksichtigt sie insbesondere folgende Aspekte:
 
 <sup>5</sup> Für Betäubungsmittel und psychotrope Stoffe gelten die besonderen Bestimmungen der Betäubungsmittelkontrollverordnung vom 25. Mai 2011[^40-1].
 
-[^40-1]: [SR 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+[^40-1]: [SR 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)
 
 ### 2. Abschnitt: Kategorien mit Verschreibungspflicht
 
@@ -686,7 +686,7 @@ Ohne Vorliegen einer ärztlichen Verschreibung können Apothekerinnen und Apothe
 
 Apothekerinnen und Apotheker können die von einer Chiropraktorin oder einem Chiropraktoren nach Artikel 4 Buchstabe b der Krankenpflege-Leistungsverordnung vom 29. September 1995[^46-1] verschriebene Arzneimittel abgeben.
 
-[^46-1]: [SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
+[^46-1]: [SR 832.112.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10157)
 
 #### Art. 47
 
@@ -714,8 +714,8 @@ Die Dokumentation muss folgende Informationen enthalten:
 
 <sup>3</sup> Wird die Dokumentation in das elektronische Patientendossier nach dem Bundesgesetz vom 19. Juni 2015[^48-1] über das elektronische Patientendossier (EPDG) integriert, so sind die vom Eidgenössischen Departement des Innern (EDI) gestützt auf Artikel 10 Absatz 3 Buchstabe b der Verordnung vom 22. März 2017[^48-2] über das elektronische Patientendossier (EPDV) geregelten Austauschformate zu verwenden.
 
-[^48-1]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^48-2]: [SR 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^48-1]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^48-2]: [SR 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 49
 
@@ -752,8 +752,8 @@ Die ärztliche und die chiropraktische Verschreibung eines Humanarzneimittels m�
 <sup>4</sup> Wird die elektronische Verschreibung ins elektronische Patientendossier nach dem EPDG[^51-2] integriert, so sind die vom EDI gestützt auf Artikel 10 Absatz 3 Buchstabe b EPDV[^51-3] geregelten Austauschformate zu verwenden.
 
 [^51-1]: GLN = Global Location Number
-[^51-2]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^51-3]: [SR 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^51-2]: [SR 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^51-3]: [SR 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 ## 5. Kapitel: Anwendung verschreibungspflichtiger Arzneimittel
 
@@ -818,7 +818,7 @@ Ausserdem muss die Gesuchstellerin durch ein Qualitätssicherungssystem sicherst
 
 <sup>3</sup> Die für die Verschreibung, Abgabe und Anwendung von Tierarzneimitteln geltenden Anforderungen nach der Tierarzneimittelverordnung vom 18. August 2004[^55-1] müssen eingehalten werden.
 
-[^55-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^55-1]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 56
 
@@ -881,7 +881,7 @@ Im Weiteren überprüft sie nach Artikel 58 Absatz 2 HMG die zugelassenen Arznei
 
 <sup>2</sup> Die Durchführung von Inspektionen im Ausland sowie die Befugnisse der Inspektorinnen und Inspektoren richten sich nach den Artikeln 60 Absätze 2 und 3 und 62 AMBV[^59-1].
 
-[^59-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^59-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 ### 2. Abschnitt: Periodischer Bericht über die Sicherheit und das Nutzen-Risiko-Verhältnis des Arzneimittels
 
@@ -926,7 +926,7 @@ Die Herstellerin oder die Zulassungsinhaberin muss der Swissmedic melden:
 
 <sup>7</sup> Die Meldung von Qualitätsmängeln richtet sich bei labilen Blutprodukten nach Artikel 37 AMBV[^61-1].
 
-[^61-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^61-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 #### Art. 62
 
@@ -997,7 +997,7 @@ Die Pflicht, unerwünschte Ereignisse und Arzneimittelwirkungen sowie Qualitäts
 
 <sup>4</sup> Institutionen, die labile Blutprodukte anwenden, richten ein System der Qualitätssicherung für die Anwendung von labilen Blutprodukten nach dem aktuellen Stand der medizinischen Wissenschaft und Technik ein. Sie bezeichnen eine Person, die für die Erfüllung der Meldepflichten verantwortlich ist.
 
-[^65-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^65-1]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 #### Art. 66
 
@@ -1019,7 +1019,7 @@ Die Pflicht, unerwünschte Ereignisse und Arzneimittelwirkungen sowie Qualitäts
 
 <sup>4</sup> Kann die Gesuchstellerin für einzelne Prüfungen die Anforderungen nach Absatz 2 nicht oder nicht vollständig einhalten, so begründet sie das gegenüber der Swissmedic. In begründeten Fällen bewertet die Swissmedic die Qualität und die Zuverlässigkeit der Prüfung sowie die Einhaltung der Anforderungen nach Absatz 1 und entscheidet über den Einbezug der entsprechenden nichtklinischen Prüfungen zur Begutachtung.
 
-[^67-1]: [SR 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^67-1]: [SR 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 ## 10. Kapitel: Information
 
@@ -1186,7 +1186,7 @@ Die Swissmedic kann technische Anforderungen und Einzelheiten zum Vollzug dieser
 
 <sup>4</sup> Für die Anpassung von Anhang 2 kann es Expertinnen und Experten zur Beratung beiziehen.
 
-[^79-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^79-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 80
 
@@ -1204,8 +1204,8 @@ Die Swissmedic kann technische Anforderungen und Einzelheiten zum Vollzug dieser
 
 <sup>3</sup> Beim Vollzug von Bestimmungen über Arzneimittel mit GVO richtet sich die Mitwirkung nach der Freisetzungsverordnung vom 10. September 2008[^81-2].
 
-[^81-1]: Doc.Ref.EMEA/CHMP/SWP/4447/00 vom 1. Juni 2006. Der Text kann bei der EMA bezogen werden: www.ema.europa.eu.
-[^81-2]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^81-1]: Doc.Ref.EMEA/CHMP/SWP/4447/00 vom 1. Juni 2006. Der Text kann bei der EMA bezogen werden: www.ema.europa.eu .
+[^81-2]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 82
 
@@ -1221,7 +1221,7 @@ Die Swissmedic gibt dem BAG auf Anfrage bekannt:
 <sup>2</sup> Die Daten nach Absatz 1 dürfen keine besonders schützenswerten Personendaten enthalten.
 
 [^82-1]: Fassung gemäss Ziff. III der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^82-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^82-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### 2. Abschnitt: Aufhebung und Änderung anderer Erlasse und Übergangsbestimmungen
 
@@ -1338,8 +1338,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), vom 28. April 2023 ([AS 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)) und vom 12. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/426](https://fedlex.data.admin.ch/eli/oc/2024/426) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils.
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), vom 28. April 2023 ([AS 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)), vom 12. Aug. 2024 ([AS 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)) und vom 25. Sept. 2025, in Kraft seit 1. Nov. 2025 (AS **202****5** 602).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/602](https://fedlex.data.admin.ch/eli/oc/2025/602) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 
@@ -1367,17 +1367,17 @@ Anhang 3[^t-3]
   - a<sup>bis</sup>. für den periodischen Bericht über die Tierarzneimittelsicherheit in Form eines Jahresberichts: Durchführungsverordnung (EU) 2021/1281[^annex3-lvlu1-10];
   - b. für die Pharmacovigilance: VICH GL 24 (Pharmacovigilance) der Leitlinie der VICH in der Fassung vom Oktober 2007[^annex3-lvlu1-11].
 
-[^annex3-lvlu1-1]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-2]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-3]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-4]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-5]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-6]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-7]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-8]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
-[^annex3-lvlu1-9]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-1]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-2]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-3]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-4]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-5]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-6]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-7]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-8]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
+[^annex3-lvlu1-9]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
 [^annex3-lvlu1-10]: Durchführungsverordnung (EU) 2021/1281 der Kommission vom 2. August 2021 mit Bestimmungen zur Anwendung der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates in Bezug auf die gute Pharmakovigilanz-Praxis sowie das Format, den Inhalt und die Zusammenfassung der Pharmakovigilanz-Stammdokumentation für Tierarzneimittel; Fassung gemäss ABl. L 279 vom 3.8.2021, S. 15.
-[^annex3-lvlu1-11]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-11]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch .
 
 Anhang 4
 

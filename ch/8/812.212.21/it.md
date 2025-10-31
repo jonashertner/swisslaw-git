@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2024-10-01
+version: 2025-11-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20241001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° ottobre 2024)
+del 21 settembre 2018 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,10 +25,10 @@ vista la legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer)
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -54,8 +54,8 @@ La presente ordinanza disciplina:
 
 <sup>4</sup> Le definizioni sono riprese dall’articolo 2 dell’ordinanza del 14 novembre 2018[^1-2] sull’autorizzazione dei medicamenti (OAMed).
 
-[^1-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
-[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^1-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
+[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
 
 ## Capitolo 2: Procedura di omologazione
 
@@ -74,7 +74,7 @@ L’omologazione è necessaria in ogni caso:
 - a. per un medicamento pronto per l’uso che contiene organismi geneticamente modificati (OGM);
 - b. per un espianto standardizzato di cui all’articolo 2 capoverso 1 lettera c dell’ordinanza del 16 marzo 2007[^2-1] sui trapianti.
 
-[^2-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^2-1]: [RS 810.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9240)
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ L’omologazione è necessaria in ogni caso:
 
 <sup>4</sup> Può concedere un termine di 60 giorni al massimo per i correttivi da apportare.
 
-[^3-1]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^3-1]: [RS 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 4
 
@@ -153,7 +153,7 @@ Su richiesta Swissmedic può, già prima della presentazione di una domanda di o
 
 <sup>2</sup> L’autorità competente dirige e coordina la procedura di omologazione in osservanza dell’ordinanza sull’emissione deliberata nell’ambiente.
 
-[^6-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^6-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 7
 
@@ -187,9 +187,9 @@ Il richiedente può chiedere a Swissmedic lo svolgimento di una procedura di omo
 
 <sup>5</sup> Su richiesta, annota nella decisione di omologazione che l’informazione relativa al medicamento riporta i risultati rilevanti degli studi eseguiti in conformità con il piano d’indagine pediatrica approvato di cui all’articolo 54*a* LATer.
 
-[^9-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^9-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^9-2]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
-[^9-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^9-3]: [RS 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 10
 
@@ -211,7 +211,7 @@ L’omologazione è trasferibile.
 
 <sup>5</sup> Swissmedic pubblica le notificazioni di cui ai capoversi 2–4. Se si tratta di una cessazione della commercializzazione di cui al capoverso 3, Swissmedic rende noto nel contempo che la documentazione concernente l’omologazione necessaria per l’uso pediatrico può essere ottenuta gratuitamente presso il titolare dell’omologazione.
 
-[^11-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^11-1]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 #### Art. 12
 
@@ -326,7 +326,7 @@ Esegue una propria perizia scientifica se:
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^chap2-sec3-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 21
 
@@ -367,13 +367,13 @@ Le modifiche del medicamento classificate come estensioni dell’omologazione de
 <sup>2</sup> Stabilisce le modalità affinché in un’unica domanda possano essere richieste più modifiche.
 
 [^25-1]: Regolamento (CE) n.1234/2008 della Commissione, del 24 novembre 2008, concernente lʼesame delle variazioni dei termini delle autorizzazioni allʼimmissione in commercio di medicinali per uso umano e di medicinali veterinari, GU L 334 del 12.12.2008, pag. 7; modificato da ultimo dal regolamento delegato (UE) 2021/756, GU L 162 del 10.5.2021, pag. 1.
-[^25-2]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^25-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ### Sezione 3*a*: Modifiche dell’omologazione dei medicamenti veterinari
 
 [^chap2-sec3a-1]
 
-[^chap2-sec3a-1]: Introdotta dal n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^chap2-sec3a-1]: Introdotta dalla cifra I n. 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 25a
 
@@ -427,7 +427,7 @@ Le modifiche del medicamento che richiedono una valutazione poiché possono aver
 
 Il titolare dell’omologazione è tenuto ad adeguare costantemente e spontaneamente l’informazione relativa al medicamento allo stato attuale della scienza e della tecnica come pure ai nuovi eventi e alle nuove valutazioni. Gli articoli 21–24, 25*a* e 25*b* sono applicabili.
 
-[^28-1]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^28-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 #### Art. 29
 
@@ -479,7 +479,7 @@ Se per il medicamento già omologato è stata autorizzata una nuova indicazione,
 
 Gli espianti non standardizzabili il cui procedimento di fabbricazione è standardizzabile possono essere immessi in commercio o trapiantati in maniera autologa soltanto se il procedimento di fabbricazione è omologato da Swissmedic.
 
-[^32-1]: Nuovo testo giusta il n. III dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
+[^32-1]: Nuovo testo giusta la cifra III dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 306](https://fedlex.data.admin.ch/eli/oc/2023/306)).
 
 #### Art. 33
 
@@ -599,7 +599,7 @@ Nella classificazione tiene conto in particolare dei seguenti aspetti:
 
 <sup>5</sup> Gli stupefacenti e le sostanze psicotrope soggiacciono alle disposizioni speciali dell’ordinanza del 25 maggio 2011[^40-1] sul controllo degli stupefacenti.
 
-[^40-1]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+[^40-1]: [RS 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)
 
 ### Sezione 2: Categorie soggette a prescrizione medica
 
@@ -686,7 +686,7 @@ In assenza di prescrizione medica, i farmacisti possono dispensare i seguenti me
 
 I farmacisti possono dispensare medicamenti prescritti da un chiropratico ai sensi dell’articolo 4 lettera b dell’ordinanza del 29 settembre 1995[^46-1] sulle prestazioni.
 
-[^46-1]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
+[^46-1]: [RS 832.112.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10157)
 
 #### Art. 47
 
@@ -714,8 +714,8 @@ La documentazione deve contenere le seguenti informazioni:
 
 <sup>3</sup> Se la documentazione è integrata nella cartella informatizzata del paziente secondo la legge federale del 19 giugno 2015[^48-1] sulla cartella informatizzata del paziente (LCIP), devono essere utilizzati i formati di scambio stabiliti dal Dipartimento federale dell’interno (DFI) in virtù dell’articolo 10 capoverso 3 lettera b dell’ordinanza del 22 marzo 2017[^48-2] sulla cartella informatizzata del paziente (OCIP).
 
-[^48-1]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^48-2]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^48-1]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^48-2]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 #### Art. 49
 
@@ -752,8 +752,8 @@ La prescrizione medica e chiropratica di un medicamento per uso umano deve conte
 <sup>4</sup> Se la prescrizione elettronica viene integrata nella cartella informatizzata del paziente ai sensi della LCIP[^51-2], devono essere utilizzati i formati di scambio stabiliti dal DFI in virtù dell’articolo 10 capoverso 3 lettera b OCIP[^51-3].
 
 [^51-1]: GLN = *Global Location Number.*
-[^51-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^51-3]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
+[^51-2]: [RS 816.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9640)
+[^51-3]: [RS 816.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9641)
 
 ## Capitolo 5: Uso di medicamenti soggetti a prescrizione medica
 
@@ -778,7 +778,7 @@ Tale autorizzazione può essere rilasciata, oltre che agli operatori sanitari, a
 
 <sup>4</sup> Esso provvede a una vigilanza regolare da parte delle autorità cantonali o di un operatore sanitario idoneo.
 
-[^52-1]: Introdotta dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 41](https://fedlex.data.admin.ch/eli/oc/2023/41)).
+[^52-1]: Introdotta dalla cifra I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 41](https://fedlex.data.admin.ch/eli/oc/2023/41)).
 
 #### Art. 53
 
@@ -794,7 +794,7 @@ Il Cantone può autorizzare i dentisti titolari di un’abilitazione cantonale a
 
 Il titolare dell’omologazione può smerciare medicamenti immunologici ad uso veterinario, ad eccezione degli allergeni, soltanto ai veterinari o alle autorità competenti.
 
-[^54-1]: Nuovo testo giusta l’all. 8 n. II 3 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^54-1]: Nuovo testo giusta l’all. 8 cifra II n. 3 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 
 ## Capitolo 7: Autorizzazione della vendita per corrispondenza di medicamenti
 
@@ -818,7 +818,7 @@ Il richiedente deve inoltre assicurare, mediante un sistema di garanzia della qu
 
 <sup>3</sup> I requisiti validi in materia di prescrizione, dispensazione e uso di medicamenti veterinari conformemente all’ordinanza del 18 agosto 2004[^55-1] sui medicamenti veterinari devono essere rispettati.
 
-[^55-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^55-1]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 56
 
@@ -881,7 +881,7 @@ Verifica inoltre periodicamente, conformemente all’articolo 58 capoverso 2 LAT
 
 <sup>2</sup> L’esecuzione di ispezioni all’estero, come pure le competenze degli ispettori sono disciplinate conformemente agli articoli 60 capoversi 2 e 3 e 62 OAMed[^59-1].
 
-[^59-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^59-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
 
 ### Sezione 2: Rapporto periodico sulla sicurezza e sul rapporto rischi-benefici del medicamento
 
@@ -893,8 +893,8 @@ Verifica inoltre periodicamente, conformemente all’articolo 58 capoverso 2 LAT
 
 <sup>2</sup> I rapporti devono essere allestiti secondo le norme riconosciute della buona prassi di vigilanza conformemente all’allegato 3.[^60-2]
 
-[^60-1]: Introdotto dal n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
-[^60-2]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^60-1]: Introdotto dalla cifra I n. 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^60-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 ### Sezione 3: Vigilanza
 
@@ -926,7 +926,7 @@ Il fabbricante o il titolare dell’omologazione deve notificare a Swissmedic:
 
 <sup>7</sup> La notificazione di vizi di qualità è retta, per gli emoderivati labili, dall’articolo 37 OAMed[^61-1].
 
-[^61-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^61-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
 
 #### Art. 62
 
@@ -960,7 +960,7 @@ Una volta constatati, i segnali di sicurezza devono essere notificati:
 
 Chi fabbrica o immette in commercio medicamenti deve notificare a Swissmedic, immediatamente o al più tardi entro 5 giorni, ogni sospetto di commercio illegale di medicamenti da parte di terzi che sia in relazione con la sua attività, con uno dei suoi prodotti o con un componente degli stessi.
 
-[^62a-1]: Introdotto dall’all. 8 n. II 3 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^62a-1]: Introdotto dall’all. 8 cifra II n. 3 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 
 #### Art. 63
 
@@ -997,7 +997,7 @@ L’obbligo di notificare gli eventi e gli effetti indesiderati di medicamenti, 
 
 <sup>4</sup> Gli stabilimenti che utilizzano emoderivati labili istituiscono un sistema di garanzia della qualità per l’uso di emoderivati labili conformemente allo stato attuale della scienza e della tecnica medica. Designano la persona cui compete l’adempimento dell’obbligo di notificazione.
 
-[^65-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^65-1]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
 
 #### Art. 66
 
@@ -1019,7 +1019,7 @@ L’obbligo di notificare gli eventi e gli effetti indesiderati di medicamenti, 
 
 <sup>4</sup> Il richiedente che non può adempiere interamente o in parte le condizioni di cui al capoverso 2 per determinati esami ne dà giustificazione a Swissmedic. In casi giustificati, Swissmedic valuta la qualità e l’affidabilità dell’esame, nonché l’osservanza delle condizioni di cui al capoverso 1 e decide sulla presa in considerazione di tali esami non clinici ai fini della perizia.
 
-[^67-1]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+[^67-1]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 ## Capitolo 10: Informazione
 
@@ -1149,7 +1149,7 @@ Gli organi e le persone seguenti ottengono l’accesso online ai sistemi d’inf
 
 <sup>2</sup> Gli accessi ai sistemi d’informazione sono verbalizzati. I dati verbalizzati sono conservati per due anni separatamente dal sistema in cui sono trattati i dati personali.[^76-1]
 
-[^76-1]: Nuovo testo del per. giusta l’all. 2 n. II 99 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^76-1]: Nuovo testo del per. giusta l’all. 2 cifra II n. 99 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 77
 
@@ -1186,7 +1186,7 @@ Swissmedic può specificare i requisiti tecnici e i dettagli necessari all’ese
 
 <sup>4</sup> Per l’adeguamento dell’allegato 2 può far capo alla consulenza di esperti.
 
-[^79-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^79-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 80
 
@@ -1205,7 +1205,7 @@ Swissmedic può specificare i requisiti tecnici e i dettagli necessari all’ese
 <sup>3</sup> Per l’esecuzione di disposizioni relative a medicamenti contenenti OGM, la collaborazione è retta dall’ordinanza del 10 settembre 2008[^81-2] sull’emissione deliberata nell’ambiente.
 
 [^81-1]: Rif. EMEA/CHMP/SWP/4447/00, 1° giugno 2006. Il testo può essere richiesto presso l’EMA: www.ema.europa.eu
-[^81-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^81-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 82
 
@@ -1220,8 +1220,8 @@ Swissmedic comunica su richiesta all’UFSP:
 
 <sup>2</sup> I dati di cui al capoverso 1 non possono contenere dati personali degni di particolare protezione.
 
-[^82-1]: Nuovo testo giusta il n. III dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^82-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^82-1]: Nuovo testo giusta la cifra III dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^82-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### Sezione 2: Abrogazione e modifica di altri atti normativi e disposizioni transitorie
 
@@ -1289,7 +1289,7 @@ Allegato 1[^t-1]
 
 ## Principi attivi ammessi per la fabbricazione di radiofarmaci di cui all’articolo 9 capoversi 2 lettere a–c<sup>bis</sup> e 2<sup>bis</sup> LATer
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 23 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 40](https://fedlex.data.admin.ch/eli/oc/2021/40)).
+[^t-1]: Aggiornato dalla cifra I dell’O del DFI del 23 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 40](https://fedlex.data.admin.ch/eli/oc/2021/40)).
 
 ### 1 Principi
 
@@ -1338,8 +1338,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dai n. I delle O del DFI del 7 giu. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), del 28 apr. 2023 ([RU 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)) e del 12 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/426](https://fedlex.data.admin.ch/eli/oc/2024/426) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta la cifra I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dalle cifre I delle O del DFI del 7 giu. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), del 28 apr. 2023 ([RU 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)), del 12 ago. 2024 ([RU 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)) e del 25 set. 2025, in vigore dal 1° nov. 2025 ([RU 2025 602](https://fedlex.data.admin.ch/eli/oc/2025/602)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/602](https://fedlex.data.admin.ch/eli/oc/2025/602) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 
@@ -1347,7 +1347,7 @@ Allegato 3[^t-3]
 
 ## Norme della buona prassi di vigilanza
 
-[^t-3]: Aggiornato dal n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^t-3]: Aggiornato dalla cifra I n. 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
 - 1
 - 2
@@ -1436,7 +1436,7 @@ I seguenti atti normativi sono modificati come segue:
 
 ...[^annex6-lvlu1-4]
 
-[^annex6-lvlu1-1]: [[RU 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 3, [4057](https://fedlex.data.admin.ch/eli/oc/2004/592)all. 3 n. 1; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 6; [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 2; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 1; [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354); [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187), [4039](https://fedlex.data.admin.ch/eli/oc/2010/585); [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 1; [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)n. I 4; [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)n. II]
-[^annex6-lvlu1-2]: [[RU 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 79, [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)all. n. 2, [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283), [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)n. I 3]
+[^annex6-lvlu1-1]: [[RU 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)cifra I n. 3, [4057](https://fedlex.data.admin.ch/eli/oc/2004/592)all. 3 n. 1; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 6; [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)all. 7 n. 2; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 1; [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354); [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187), [4039](https://fedlex.data.admin.ch/eli/oc/2010/585); [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 1; [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)cifra I n. 4; [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)cifra II]
+[^annex6-lvlu1-2]: [[RU 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 79, [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)all. n. 2, [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283), [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)cifra I n. 3]
 [^annex6-lvlu1-3]: [[RU 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)]
 [^annex6-lvlu1-4]: Le mod. possono essere consultate alla [RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588).
