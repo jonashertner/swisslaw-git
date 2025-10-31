@@ -4,13 +4,12 @@ number: "150.300"
 title: Unvereinbarkeitsgesetz
 short: UG
 language: de
-version: 2020-04-01
-valid_until: 2025-10-31
-version_adopted: 2019-09-17
+version: 2025-11-01
+version_adopted: 2025-04-29
 adopted: 1983-11-29
 in_force: 1984-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3565/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3863/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3565/pdf_file"
 
 (UG)
 
-Vom 29.11.1983 (Stand 01.04.2020)
+Vom 29.11.1983 (Stand 01.11.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -42,7 +41,7 @@ beschliesst:
 - c) …
 - d) Departementsvorstehern und ihnen unmittelbar unterstellten Mitarbeitern des Kantons,
 - e) Richtern und Gerichtsschreibern sowie deren Stellvertretern,
-- f) Mitgliedern des Gemeinderates und der Finanzkommission,
+- f) Mitgliedern des Gemeinderats und der Finanzkommission sowie der Geschäftsprüfungskommission,
 - g) Gemeindeammann und Gemeindeschreiberin oder Gemeindeschreiber sowie der Stellvertreterin oder des Stellvertreters.
 
 <sup>3</sup> Die Auflösung der Ehe oder der eingetragenen Partnerschaft hebt den Ausschlussgrund der Schwägerschaft nicht auf.
@@ -90,32 +89,22 @@ beschliesst:
 <sup>1</sup> Das Amt als Gemeinderätin oder Gemeinderat sowie die Tätigkeit der Gemeindeschreiberin oder des Gemeindeschreibers und deren Stellvertreterin beziehungsweise dessen Stellvertreters können nicht gleichzeitig ausüben:
 
 - a) die Mitglieder des Regierungsrates und der Staatsschreiber,
-- b) die hauptamtlichen Mitglieder des Obergerichts, des Spezialverwaltungsgerichts und der Bezirksgerichte, die Präsidentinnen und Präsidenten der Schlichtungsbehörden für Miete und Pacht sowie die hauptamtlichen Fachrichterinnen und Fachrichter des Kindes- und Erwachsenenschutzes,
+- b) die hauptamtlichen Mitglieder des Obergerichts, des Spezialverwaltungsgerichts und der Bezirksgerichte sowie die hauptamtlichen Fachrichterinnen und Fachrichter des Kindes- und Erwachsenenschutzes,
 - b<sup>bis</sup>) die nebenamtlichen Mitglieder der Bezirksgerichte, wenn die betreffende Gemeinde im selben Bezirk liegt,
+- b<sup>ter</sup>) die Präsidentinnen und Präsidenten der Schlichtungsbehörden für Miete und Pacht, wenn die betreffende Gemeinde im selben Bezirk liegt,
 - c) die Friedensrichterin und der Friedensrichter, wenn die betreffende Gemeinde im selben Friedensrichterkreis liegt.
 
-<sup>2</sup> Mit dem Amt eines Mitgliedes des Gemeinderates sind zusätzlich nicht vereinbar die Tätigkeit als Leiterin oder Leiter Finanzen sowie Arbeitsverhältnisse von Mitarbeitenden der Gemeinde und von unselbstständigen öffentlich-rechtlichen Gemeindeanstalten mit einem Pensum von mehr als 20 %.
+<sup>2</sup> Mit dem Amt eines Mitglieds des Gemeinderats sind zusätzlich nicht vereinbar die Tätigkeit als Leiterin oder Leiter Finanzen und als Mitglied der Schulleitung einer öffentlichen Schule derselben Gemeinde sowie Arbeitsverhältnisse von Mitarbeitenden der Gemeinde und von unselbstständigen öffentlich-rechtlichen Gemeindeanstalten mit einem Pensum von mehr als 20 %.
 
 #### § 6
 
-**b) Finanzkommission**
+**b) Finanz- und Geschäftsprüfungskommission**
 
-<sup>1</sup> Die Mitglieder der Finanzkommission dürfen nicht gleichzeitig Mitglieder des Gemeinderates, Mitarbeitende der Gemeinde oder von unselbstständigen öffentlich-rechtlichen Gemeindeanstalten sein. Die Führung des Aktuariats durch eine Mitarbeiterin oder einen Mitarbeiter ist zulässig.
+<sup>1</sup> Die Mitglieder der Finanz- und der Geschäftsprüfungskommission dürfen nicht gleichzeitig Mitglieder des Gemeinderats, Mitarbeitende der Gemeinde oder von unselbstständigen öffentlich-rechtlichen Gemeindeanstalten sein. Die Führung des Aktuariats durch eine Mitarbeiterin oder einen Mitarbeiter ist zulässig.
 
 #### § 7
 
-**c) Schulbehörden**
-
-<sup>1</sup> Die gleiche Person darf nicht gleichzeitig Mitglied von Schulbehörden sein, die einander unter- oder übergeordnet sind.
-
-<sup>2</sup> Die Mitglieder des Erziehungsrates dürfen keiner anderen Schulbehörde angehören.
-
-<sup>3</sup> Die Unvereinbarkeit gilt nicht für den Vorsteher des Erziehungsdepartementes[^7-1], soweit er anderen Schulbehörden von Amtes wegen angehört.
-
-<sup>4</sup> Die Lehrer aller Stufen, eingeschlossen die Hilfslehrer[^7-2], dürfen nicht Mitglieder der ihnen unmittelbar vorgesetzten Schulbehörde sein.
-
-[^7-1]: Heute: Departement Bildung, Kultur und Sport
-[^7-2]: Heute: Fachlehrer und Lehrbeauftragte
+**…**
 
 #### § 8
 
