@@ -4,13 +4,12 @@ number: "312.2"
 title: "Loi d'application de la loi sur les amendes d'ordre"
 short: LALAO
 language: fr
-version: 2025-01-01
-valid_until: 2025-10-31
-version_adopted: 2024-09-12
+version: 2025-11-01
+version_adopted: 2025-06-12
 adopted: 2019-09-13
 in_force: 2020-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/312.2"
-pdf: "https://lex.vs.ch/api/fr/versions/3420/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3524/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3420/pdf_file"
 
 (LALAO)
 
-du 13.09.2019 (état 01.01.2025)
+du 13.09.2019 (état 01.11.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -48,13 +47,13 @@ ordonne:
 
 <sup>1</sup> Les organes suivants sont compétents pour percevoir l'amende d'ordre et procéder aux actes prévus par la procédure dite de l'amende d'ordre:
 
-- a) loi fédérale sur la circulation routière du 19 décembre 1958 (LCR): les autorités compétentes selon l'article 15 de la loi d'application de la loi sur la circulation routière du 30 septembre 1987 (LALCR);
+- a) loi fédérale sur la circulation routière du 19 décembre 1958 (LCR): les autorités compétentes selon l'article 10 de la loi d'application de la loi sur la circulation routière (LALCR);
 - b) loi fédérale sur les étrangers et l'intégration du 16 décembre 2005 (LEI): la police cantonale et les polices municipales;
 - c) loi sur l'asile du 26 juin 1998 (LAsi): la police cantonale et les polices municipales;
 - d) loi fédérale contre la concurrence déloyale du 19 décembre 1986 (LCD): l'inspecteur de la section commerce, patentes et main-d'œuvre étrangère du service de l'industrie, du commerce et du travail;
 - e) loi fédérale sur la protection de la nature et du paysage du 1<sup>er</sup> juillet 1966 (LPN): la police cantonale et les polices municipales; les gardes-chasse; les gardes-pêche; les gardes forestiers;
 - f) loi fédérale sur les armes, les accessoires d'arme et les munitions du 20 juin 1997 (LArm): la police cantonale;
-- g) loi fédérale concernant la redevance pour l'utilisation des routes nationales du 19 mars 2010 (LVA): la police cantonale et les polices municipales;
+- g) loi fédérale concernant la redevance pour l'utilisation des routes nationales du 19 mars 2010 (LVA): la police cantonale;
 - h) loi fédérale sur la navigation intérieure du 3 octobre 1975 (LNI): la police cantonale;
 - i) loi fédérale sur les stupéfiants et les substances psychotropes du 3 octobre 1951 (LStup): les autorités compétentes selon l'article 16 alinéa 3 de l'ordonnance sur les addictions du 30 mai 2012;
 - j) loi sur la protection de l'environnement du 7 octobre 1983 (LPE): la police cantonale et les polices municipales;

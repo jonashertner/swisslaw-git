@@ -4,13 +4,12 @@ number: "312.2"
 title: Einführungsgesetz zum Ordnungsbussengesetz
 short: EGOBG
 language: de
-version: 2025-01-01
-valid_until: 2025-10-31
-version_adopted: 2024-09-12
+version: 2025-11-01
+version_adopted: 2025-06-12
 adopted: 2019-09-13
 in_force: 2020-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/312.2"
-pdf: "https://lex.vs.ch/api/de/versions/3420/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3524/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3420/pdf_file"
 
 (EGOBG)
 
-vom 13.09.2019 (Stand 01.01.2025)
+vom 13.09.2019 (Stand 01.11.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -48,13 +47,13 @@ verordnet:
 
 <sup>1</sup> Folgende Organe sind zuständig, Ordnungsbussen zu erheben und das für die Ordnungsbusse vorgesehene Verfahren durchzuführen:
 
-- a) Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG): die zuständigen Behörden gemäss Artikel 15 des Ausführungsgesetzes über die Bundesgesetzgebung betreffend den Strassenverkehr vom 30. September 1987 (AGSVG);
+- a) Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG): die zuständigen Behörden gemäss Artikel 10 des Ausführungsgesetzes über die Bundesgesetzgebung betreffend den Strassenverkehr (AGSVG);
 - b) Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration vom 16. Dezember 2005 (AIG): die Kantonspolizei und die Gemeindepolizeien;
 - c) Asylgesetz vom 26. Juni 1998 (AsylG): die Kantonspolizei und die Gemeindepolizeien;
 - d) Bundesgesetz gegen den unlauteren Wettbewerb vom 19. Dezember 1986 (UWG): der Inspektor der Sektion Handel, Patente und ausländische Arbeitskräfte der Dienststelle für Industrie, Handel und Arbeit;
 - e) Bundesgesetz über den Natur- und Heimatschutz vom 1. Juli 1966 (NHG): die Kantonspolizei und die Gemeindepolizeien, die Wildhüter, die Fischereiaufseher, die Revierförster;
 - f) Bundesgesetz über Waffen, Waffenzubehör und Munition vom 20. Juni 1997 (WG): die Kantonspolizei;
-- g) Bundesgesetz über die Abgabe für die Benützung von Nationalstrassen vom 19. März 2010 (NSAG): die Kantonspolizei und die Gemeindepolizeien;
+- g) Bundesgesetz über die Abgabe für die Benützung von Nationalstrassen vom 19. März 2010 (NSAG): die Kantonspolizei;
 - h) Bundesgesetz über die Binnenschifffahrt vom 3. Oktober 1975 (BSG): die Kantonspolizei;
 - i) Bundesgesetz über die Betäubungsmittel und die psyhotropen Stoffe vom 3. Oktober 1951 (BetmG): die zuständigen Behörden gemäss Artikel 16 Absatz 3 der Verordnung über suchtbedingte Abhängigkeiten vom 30. Mai 2012;
 - j) Bundesgesetz über den Umweltschutz vom 7. Oktober 1983 (USG): die Kantonspolizei und die Gemeindepolizeien;
