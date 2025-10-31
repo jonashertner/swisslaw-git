@@ -4,11 +4,11 @@ title: "Ordinanza del 29 giugno 2011 concernente l'utilizzazione dell'imposta su
 short: OMinTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/470"
 language: it
-version: 2016-01-01
+version: 2025-11-01
 adopted: 2011-06-29
 in_force: 2011-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/470/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2011-470-20160101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/470/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2011-470-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20160101/it"
 
 (OMinTA)
 
-del 29 giugno 2011 (Stato 1° gennaio 2016)
+del 29 giugno 2011 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -42,7 +42,7 @@ Gli articoli 6, 7, 8, 9, 10 capoversi 1, 3 e 4 non si applicano:
 - a. ai contributi alle istruzioni elencate nell’ordinanza del 1° luglio 2015[^1-2] sugli aiuti finanziari all’istruzione aeronautica (OAFA);
 - b. ai contributi della Confederazione per la sicurezza di avvicinamento e di decollo negli aerodromi regionali di cui agli articoli 29–30 dell’ordinanza del 18 dicembre 1995[^1-3] concernente il servizio della sicurezza aerea.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 [^1-2]: [RS 748.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9035)
 [^1-3]: [RS 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
@@ -71,7 +71,7 @@ L’Ufficio federale dell’aviazione civile (UFAC) può derogare temporaneament
 
 <sup>3</sup> In caso di deroga alla chiave di ripartizione, occorre assicurare che questa sia rispettata durante il periodo di cui al capoverso 1.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
 #### Art. 4
 
@@ -87,14 +87,15 @@ L’Ufficio federale dell’aviazione civile (UFAC) può derogare temporaneament
 
 **Programma pluriennale**
 
-<sup>1</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni definisce il programma pluriennale d’intesa con il Dipartimento federale delle finanze e previa consultazione delle cerchie interessate. Il programma pluriennale contiene una pianificazione finanziaria a medio termine e definisce le priorità di cui all’articolo 37*a* capoverso 3 LUMin.
+<sup>1</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni definisce il programma pluriennale previa consultazione delle cerchie interessate. Il programma pluriennale contiene una pianificazione finanziaria a medio termine e definisce le priorità di cui all’articolo 37a capoverso 3 LUMin.[^5-1]
 
-<sup>2</sup> Il programma pluriennale definisce aliquote massime comprese fra il 40 e l’80 per cento per il calcolo dei contributi ai provvedimenti di cui agli articoli 37*d*, 37*e* e 37*f* lettere b–e LUMin, sempreché ai contributi di cui all’articolo 37*f* lettera e LUMin non sia applicabile il tasso massimo previsto nell’articolo 4 capoverso 1 OAFA[^5-1].[^5-2]
+<sup>2</sup> Il programma pluriennale definisce aliquote massime comprese fra il 40 e l’80 per cento per il calcolo dei contributi ai provvedimenti di cui agli articoli 37*d*, 37*e* e 37*f* lettere b–e LUMin, sempreché ai contributi di cui all’articolo 37*f* lettera e LUMin non sia applicabile il tasso massimo previsto nell’articolo 4 capoverso 1 OAFA[^5-2].[^5-3]
 
 <sup>3</sup> La durata del programma pluriennale è di quattro anni.
 
-[^5-1]: [RS 748.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9035)
-[^5-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^5-1]: Nuovo testo giusta la cifra I n. 5 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, in vigore dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
+[^5-2]: [RS 748.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9035)
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
 #### Art. 6
 
@@ -157,7 +158,7 @@ La richiesta di contributo deve contenere i seguenti dati:
 
 <sup>5</sup> Se un provvedimento per il quale è già stato chiesto o assegnato un contributo subisce modifiche sostanziali, le modifiche devono essere comunicate all’UFAC.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
 #### Art. 9
 
@@ -173,7 +174,7 @@ La richiesta di contributo deve contenere i seguenti dati:
 
 <sup>1</sup> L’UFAC si pronuncia sulla richiesta di contributo mediante decisione.
 
-<sup>2</sup> Se il contributo richiesto supera i cinque milioni di franchi, l’UFAC decide d’intesa con l’Amministrazione federale delle finanze.[^10-1]
+<sup>2</sup> ...[^10-1]
 
 <sup>3</sup>
 
@@ -187,9 +188,9 @@ La decisione indica:
 
 <sup>4</sup> Se l’attuazione del provvedimento non inizia entro il termine definito nella decisione di assegnazione e se la conclusione non può più avvenire entro il termine stabilito, l’UFAC revoca l’assegnazione del contributo.[^10-3]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^10-1]: Abrogato dalla cifra I n. 5 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
 #### Art. 11
 
@@ -217,7 +218,7 @@ La decisione indica:
 
 <sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni può, d’intesa con il Dipartimento federale delle finanze, prolungare fino a sei anni al massimo la durata del programma pluriennale in corso al momento dell’entrata in vigore della modifica del 18 novembre 2015.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
 #### Art. 14
 

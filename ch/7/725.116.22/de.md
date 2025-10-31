@@ -4,11 +4,11 @@ title: Verordnung vom 29. Juni 2011 über die Verwendung der zweckgebundenen Min
 short: MinLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/470"
 language: de
-version: 2016-01-01
+version: 2025-11-01
 adopted: 2011-06-29
 in_force: 2011-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/470/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2011-470-20160101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/470/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2011-470-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20160101/de"
 
 (MinLV)
 
-vom 29. Juni 2011 (Stand am 1. Januar 2016)
+vom 29. Juni 2011 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -87,14 +87,15 @@ Das Bundesamt für Zivilluftfahrt (BAZL) kann vom Verteilschlüssel vorübergehe
 
 **Mehrjahresprogramm**
 
-<sup>1</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation legt im Einvernehmen mit dem Eidgenössischen Finanzdepartement und nach Anhörung der interessierten Kreise das Mehrjahresprogramm fest. Dieses enthält eine mittelfristige Finanzplanung und legt die Schwerpunkte nach Artikel 37*a* Absatz 3 MinVG fest.
+<sup>1</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation legt nach Anhörung der interessierten Kreise das Mehrjahresprogramm fest. Dieses enthält eine mittelfristige Finanzplanung und legt die Schwerpunkte nach Artikel 37*a* Absatz 3 MinVG fest.[^5-1]
 
-<sup>2</sup> Das Mehrjahresprogramm legt für die Bemessung der Beiträge an Massnahmen nach den Artikeln 37*d*, 37*e* und 37*f* Buchstaben b–e MinVG Höchstsätze zwischen 40 und 80 Prozent der anrechenbaren Kosten fest, soweit der Höchstsatz nach Artikel 4 Absatz 1 VFAL[^5-1] auf die Beiträge nach Artikel 37*f* Buchstabe e MinVG nicht anwendbar ist.[^5-2]
+<sup>2</sup> Das Mehrjahresprogramm legt für die Bemessung der Beiträge an Massnahmen nach den Artikeln 37*d*, 37*e* und 37*f* Buchstaben b–e MinVG Höchstsätze zwischen 40 und 80 Prozent der anrechenbaren Kosten fest, soweit der Höchstsatz nach Artikel 4 Absatz 1 VFAL[^5-2] auf die Beiträge nach Artikel 37*f* Buchstabe e MinVG nicht anwendbar ist.[^5-3]
 
 <sup>3</sup> Die Dauer eines Mehrjahresprogramms beträgt vier Jahre.
 
-[^5-1]: [SR 748.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9035)
-[^5-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^5-1]: Fassung gemäss Ziff. I 5 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
+[^5-2]: [SR 748.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9035)
+[^5-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
 #### Art. 6
 
@@ -173,7 +174,7 @@ Das Beitragsgesuch muss die folgenden Angaben enthalten:
 
 <sup>1</sup> Das BAZL entscheidet mit Verfügung über das Gesuch.
 
-<sup>2</sup> Übersteigt der beantragte Beitrag fünf Millionen Franken, so entscheidet es im Einvernehmen mit der Eidgenössischen Finanzverwaltung.[^10-1]
+<sup>2</sup> …[^10-1]
 
 <sup>3</sup>
 
@@ -187,7 +188,7 @@ Die Verfügung bezeichnet:
 
 <sup>4</sup> Wird mit der Durchführung der Massnahme nicht innerhalb der in der Zusicherungsverfügung festgelegten Frist begonnen und ist ein fristgerechter Abschluss nicht mehr möglich, so widerruft das BAZL die Zusicherung des Beitrags.[^10-3]
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^10-1]: Aufgehoben durch Ziff. I 5 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 [^10-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 

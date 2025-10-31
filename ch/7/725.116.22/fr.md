@@ -4,11 +4,11 @@ title: "Ordonnance du 29 juin 2011 concernant l'utilisation de l'impôt sur les 
 short: OMinTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/470"
 language: fr
-version: 2016-01-01
+version: 2025-11-01
 adopted: 2011-06-29
 in_force: 2011-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/470/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-470-20160101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/470/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-470-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/470/20160101/fr"
 
 (OMinTA)
 
-du 29 juin 2011 (État le 1<sup>er</sup> janvier 2016)
+du 29 juin 2011 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -89,14 +89,15 @@ L’Office fédéral de l’aviation civile (OFAC) peut provisoirement déroger 
 
 **Programme pluriannuel**
 
-<sup>1</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication définit le programme pluriannuel en accord avec le Département fédéral des finances et après avoir entendu les milieux intéressés. Le programme comprend une planification financière à moyen terme et établit les priorités selon l’art. 37*a*, al. 3, LUMin.
+<sup>1</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication définit le programme pluriannuel après avoir entendu les milieux intéressés. Le programme comprend une planification financière à moyen terme et établit les priorités selon l’art. 37*a*, al. 3, LUMin.[^5-1]
 
-<sup>2</sup> Le programme pluriannuel fixe pour le calcul des contributions aux mesures visées aux art. 37*d*, 37*e* et 37*f*, let. b à e, LUMin des taux maximums compris entre 40 et 80 % des frais imputables, dans la mesure où le taux maximal prévu à l’art. 4, al. 1, OAFA[^5-1] n’est pas applicable aux cas visés à l’art. 37*f*, let. e, LUMin.[^5-2]
+<sup>2</sup> Le programme pluriannuel fixe pour le calcul des contributions aux mesures visées aux art. 37*d*, 37*e* et 37*f*, let. b à e, LUMin des taux maximums compris entre 40 et 80 % des frais imputables, dans la mesure où le taux maximal prévu à l’art. 4, al. 1, OAFA[^5-2] n’est pas applicable aux cas visés à l’art. 37*f*, let. e, LUMin.[^5-3]
 
 <sup>3</sup> La durée d’un programme pluriannuel est de quatre ans.
 
-[^5-1]: [RS 748.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9035); [RO 2015 2479](https://fedlex.data.admin.ch/eli/oc/2015/464)
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^5-1]: Nouvelle teneur selon le ch. I 5 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
+[^5-2]: [RS 748.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9035); [RO 2015 2479](https://fedlex.data.admin.ch/eli/oc/2015/464)
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
 #### Art. 6
 
@@ -175,7 +176,7 @@ La demande de contribution doit mentionner:
 
 <sup>1</sup> L’OFAC statue sur la demande de contribution par voie de décision.
 
-<sup>2</sup> Si la contribution demandée excède cinq millions de francs, l’OFAC statue en accord avec l’Administration fédérale des finances.[^10-1]
+<sup>2</sup> …[^10-1]
 
 <sup>3</sup>
 
@@ -189,7 +190,7 @@ La décision précise:
 
 <sup>4</sup> Si la réalisation de la mesure ne commence pas ou ne peut s’achever dans les délais fixés par la décision d’allocation, l’OFAC révoque l’allocation de la contribution.[^10-3]
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
+[^10-1]: Abrogé par le ch. I 5 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4941](https://fedlex.data.admin.ch/eli/oc/2015/809)).
 
