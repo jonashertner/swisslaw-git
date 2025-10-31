@@ -4,11 +4,11 @@ title: Verordnung vom 10. Mai 2017 über die wirtschaftliche Landesversorgung (V
 short: VWLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/309"
 language: de
-version: 2022-01-01
+version: 2025-11-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-309-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2017-309-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/de"
 
 (VWLV)
 
-vom 10. Mai 2017 (Stand am 1. Januar 2022)
+vom 10. Mai 2017 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Landesversorgungsgesetz vom 17. Juni 2016[^ingress-1] (LVG),
 
 verordnet:
 
-[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 ## 1. Kapitel: Organisation der wirtschaftlichen Landesversorgung
 
@@ -33,29 +33,28 @@ verordnet:
 
 #### Art. 1
 
-**Hierarchische Unterstellung**
+**Hierarchische Unterstellung**[^1-1]
 
-Die Organisation der wirtschaftlichen Landesversorgung ist dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) unterstellt.
+Die Organisation der wirtschaftlichen Landesversorgung (WL) ist dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) unterstellt.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 2
 
-**Organisation**
+**Organisation**[^2-1]
 
-<sup>1</sup> Die oder der Delegierte für wirtschaftliche Landesversorgung (Delegierte/r) leitet die Organisation im Nebenamt.
+<sup>1</sup>
 
-<sup>2</sup>
+Die oder der Delegierte für wirtschaftliche Landesversorgung (Delegierte/-r) leitet:
 
-Ihr oder ihm sind unterstellt:
+- a. das Bundesamt für wirtschaftliche Landesversorgung (BWL);
+- b. die Fachbereiche (Art. 7 Abs. 3).
 
-- a. das Bundesamt für wirtschaftliche Landesversorgung (BWL) als vollamtliches Stabsorgan;
-- b. die Fachbereiche (Art. 7 Abs. 3);
-- c. andere Bundesstellen, soweit sie Aufgaben der wirtschaftlichen Landesversorgung erfüllen (Art. 8 Abs. 1).
+<sup>2</sup> Das BWL stellt den Fachbereichen zur Erfüllung ihrer Aufgaben Geschäftsstellen zur Verfügung.
 
-<sup>3</sup> Zur Erfüllung ihrer Aufgaben stehen den Fachbereichen vollamtliche Geschäftsstellen zur Verfügung.
+<sup>3</sup> Die Fachbereichsleiterinnen und Fachbereichsleiter organisieren und führen ihre Fachbereiche.
 
-<sup>4</sup> Die Geschäftsstellen sind administrativ dem BWL zugeordnet; sie unterstehen den Fachbereichsleiterinnen und Fachbereichsleitern.
-
-<sup>5</sup> Die Fachbereichsleiterinnen und Fachbereichsleiter erarbeiten eine Geschäftsordnung und unterbreiten diese der oder dem Delegierten zur Genehmigung.
+[^2-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 3
 
@@ -82,13 +81,17 @@ Das WBF regelt nach Anhören des Eidgenössischen Finanzdepartements die finanzi
 
 #### Art. 5
 
-**Aufgaben der oder des Delegierten**
+**Aufgaben der oder des Delegierten**[^5-1]
 
-<sup>1</sup> Die oder der Delegierte legt die Ziele und Prioritäten der Organisation der wirtschaftlichen Landesversorgung fest; sie oder er koordiniert die Tätigkeit der Vollzugsorgane und erteilt ihnen Weisungen.
+<sup>1</sup> Die oder der Delegierte legt die Ziele und Prioritäten der WL fest; sie oder er koordiniert die Tätigkeit der Vollzugsorgane und erteilt ihnen Weisungen.
 
-<sup>2</sup> Sie oder er stellt die Verbindungen zwischen den Organen der wirtschaftlichen Landesversorgung, den Organisationen der Wirtschaft und den Unternehmen sicher.
+<sup>2</sup> Sie oder er stellt die Verbindung zwischen der WL, den Organisationen der Wirtschaft und den Unternehmen sicher.
 
-<sup>3</sup> Sie oder er legt die Organisation des BWL und der Fachbereiche fest. Die Fachbereichsleiterinnen und Fachbereichsleiter sind vorgängig anzuhören.
+<sup>3</sup> Sie oder er legt die Organisation der WL fest; sie oder er hört vorgängig die Fachbereichsleiterinnen und Fachbereichsleiter an.
+
+<sup>4</sup> Bei der Beobachtung der Versorgungslage stützt sie oder er sich auf das Fachwissen und die Erfahrung der Fachbereiche sowie auf die Daten und Erkenntnisse anderer Behörden, der Wirtschaft und der Wissenschaft.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 6
 
@@ -98,19 +101,28 @@ Das WBF regelt nach Anhören des Eidgenössischen Finanzdepartements die finanzi
 
 Das BWL ist zuständig für:
 
-- a. die Leitung und Koordination der Rechtsetzungsarbeiten;
-- b. den Erlass von Verfügungen, soweit dies vom Gesetz und den Ausführungsbestimmungen nicht den Organisationen der Wirtschaft oder den Fachbereichen übertragen ist;
-- c. die Behandlung von Beschwerden gegen Verfügungen nach Artikel 46 Absätze 1 und 3 LVG sowie die Führung von Rechtsstreitigkeiten;
-- d. das Pflichtlagerwesen;
-- e. alle finanziellen und administrativen Angelegenheiten der wirtschaftlichen Landesversorgung;
-- f. die Öffentlichkeitsarbeit;
-- g. die Planung von Massnahmen der wirtschaftlichen Landesversorgung;
+- a.[^6-1] die Vorbereitung von Vorschriften und Massnahmen der WL, gemeinsam mit den Fachbereichen;
+- b.[^6-2] die Leitung und Koordination der Rechtsetzungsarbeiten;
+- c.[^6-3] den Erlass von Verfügungen, soweit dies vom Gesetz und den Ausführungsbestimmungen nicht den Organisationen der Wirtschaft oder den Fachbereichen übertragen ist;
+- d.[^6-4] die Behandlung von Beschwerden gegen Verfügungen nach Artikel 46 Absätze 1 und 3 LVG sowie die Führung von Rechtsstreitigkeiten;
+- e.[^6-5] das Pflichtlagerwesen;
+- f.[^6-6] alle finanziellen und administrativen Angelegenheiten der WL;
+- g.[^6-7] die Öffentlichkeitsarbeit;
 - h. die Ausbildung von Personen, die an der wirtschaftlichen Landesversorgung mitwirken;
-- i. die Koordination der Zusammenarbeit mit anderen Stellen des Bundes, namentlich der Armee, dem Bevölkerungsschutz und anderen Organen der Sicherheitspolitik;
+- i.[^6-8] die Koordination der Zusammenarbeit innerhalb der WL sowie mit anderen Stellen des Bundes, namentlich der Armee, dem Bevölkerungsschutz und anderen Organen der Sicherheitspolitik;
 - j. die Koordination internationaler Angelegenheiten im Bereich der wirtschaftlichen Landesversorgung;
 - k. die Aufsicht über die Vorbereitungen und den Vollzug von Massnahmen durch die Kantone und die Organisationen der Wirtschaft.
 
 <sup>2</sup> Es unterstützt die Fachbereiche insbesondere durch administrative Dienstleistungen und die Vermittlung von Informationen.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^6-2]: Ursprünglich: Bst. a.
+[^6-3]: Ursprünglich: Bst. b.
+[^6-4]: Ursprünglich: Bst. c.
+[^6-5]: Ursprünglich: Bst. d.
+[^6-6]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^6-7]: Ursprünglich: Bst. f.
+[^6-8]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 7
 
@@ -123,7 +135,8 @@ Die Fachbereiche sind zuständig für:
 - a. das Einbringen und Nutzen von Fachwissen und Erfahrungen aus der Wirtschaft sowie wirtschaftlichen Beziehungen für die wirtschaftliche Landesversorgung;
 - b. die Vermittlung von Fachwissen;
 - c. die periodische Lagebeurteilung;
-- d. die Vorbereitung und den Vollzug von Vorschriften und Massnahmen der Organisation der wirtschaftlichen Landesversorgung.
+- d.[^7-1] die Vorbereitung von Vorschriften und Massnahmen der WL, gemeinsam mit dem BWL;
+- e.[^7-2] den Vollzug von Vorschriften und Massnahmen der WL, sofern ihnen dieser übertragen wurde.
 
 <sup>2</sup> Sie beobachten und analysieren laufend die Entwicklung der wirtschaftlichen Landesversorgung.
 
@@ -137,6 +150,9 @@ Für die folgenden Fachbereiche gelten die nachstehenden Zuständigkeiten:
 - d. Logistik: Land-, Wasser- und Lufttransporte sowie Logistiksysteme;
 - e. Industrie: industrielle Hilfsstoffe, namentlich Verpackungsmaterialien;
 - f. Informations- und Kommunikationstechnologie: Datenübertragung, ‑sicherheit und -verfügbarkeit.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 8
 
@@ -166,7 +182,7 @@ Die oder der Delegierte kann folgende Bundesstellen mit Aufgaben der wirtschaftl
 
 <sup>3</sup> Die oder der Delegierte kann weitere Bundesstellen zur Mitarbeit heranziehen.
 
-[^8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^8-2]: Fassung gemäss Anhang Ziff. 15 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 9
@@ -255,7 +271,7 @@ Die Pflichtlagerhalter müssen:
 
 <sup>3</sup> Die Pflichtlagerhalter müssen über den Warenbestand sowie die Warenein- und ‑ausgänge pro Lagerort mengenmässig Buch führen.
 
-[^16-1]: [SR 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
+[^16-1]: [SR 221.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5930)
 
 #### Art. 17
 
@@ -368,11 +384,13 @@ Das WBF bestimmt die maximal zulässige Höhe der tarifizierten Garantiefondsbei
 
 **Freiwillig angelegte Vorräte**
 
-<sup>1</sup> Freiwillig angelegte Vorräte unterstehen keiner vertraglichen Regelung mit Organen der Organisation der wirtschaftlichen Landesversorgung.
+<sup>1</sup> Freiwillig angelegte Vorräte unterstehen keiner vertraglichen Regelung mit der WL.[^26-1]
 
 <sup>2</sup> Die Verwendung der Vorräte richtet sich nach den allgemeinen Bewirtschaftungsvorschriften.
 
 <sup>3</sup> Vorbehalten bleiben Interventionsmassnahmen nach Artikel 31 LVG.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 27
 
@@ -465,7 +483,7 @@ Die Forderungen werden in der folgenden Reihenfolge befriedigt:
 - c. Forderungen der Garantiefonds und ähnlicher Einrichtungen mit einem dem Anspruch des BWL oder des Drittunternehmens unmittelbar nachgehenden Vorzugsrecht;
 - d. Forderungen anderer Gläubiger mit einem den vorerwähnten Ansprüchen nachgehenden Pfand- oder Retentionsrecht.
 
-[^34-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^34-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 35
 

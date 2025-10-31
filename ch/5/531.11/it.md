@@ -4,11 +4,11 @@ title: "Ordinanza del 10 maggio 2017 sull'approvvigionamento economico del Paese
 short: OAEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/309"
 language: it
-version: 2022-01-01
+version: 2025-11-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-309-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2017-309-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/it"
 
 (OAEP)
 
-del 10 maggio 2017 (Stato 1° gennaio 2022)
+del 10 maggio 2017 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 17 giugno 2016[^ingress-1] sull’approvvigionamento del Paes
 
 ordina:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 ## Capitolo 1: Organizzazione dell’approvvigionamento economico del Paese
 
@@ -33,29 +33,28 @@ ordina:
 
 #### Art. 1
 
-**Subordinazione gerarchica**
+**Subordinazione gerarchica**[^1-1]
 
-L’organizzazione dell’approvvigionamento economico del Paese è subordinata al Dipartimento federale dell’economia, della formazione e della ricerca (DEFR).
+L’organizzazione dell’approvvigionamento economico del Paese (AEP) è subordinata al Dipartimento federale dell’economia, della formazione e della ricerca (DEFR).
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 2
 
-**Organizzazione**
+**Organizzazione**[^2-1]
 
-<sup>1</sup> Il delegato all’approvvigionamento economico del Paese (delegato) dirige l’organizzazione a titolo accessorio.
+<sup>1</sup>
 
-<sup>2</sup>
+Il delegato all’approvvigionamento economico del Paese (delegato) dirige:
 
-Sono sottoposti al delegato:
+- a. l’Ufficio federale per l’approvvigionamento economico del Paese (UFAE);
+- b. i settori specializzati (art. 7 cpv. 3).
 
-- a. l’Ufficio federale per l’approvvigionamento economico del Paese (UFAE), in quanto organo di stato maggiore permanente;
-- b. i settori specializzati (art. 7 cpv. 3);
-- c. altri servizi federali, se adempiono compiti di approvvigionamento economico del Paese (art. 8 cpv. 1).
+<sup>2</sup> L’UFAE mette a disposizione dei settori specializzati delle segreterie per l’adempimento dei loro compiti.
 
-<sup>3</sup> Per l’adempimento dei loro compiti i settori specializzati dispongono di segreterie permanenti.
+<sup>3</sup> I responsabili dei settori specializzati organizzano e dirigono i rispettivi settori.
 
-<sup>4</sup> Le segreterie sono aggregate amministrativamente all’UFAE; sono subordinate ai responsabili dei settori specializzati.
-
-<sup>5</sup> I responsabili dei settori specializzati elaborano un regolamento interno che sottopongono per approvazione al delegato.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 3
 
@@ -82,13 +81,17 @@ Il DEFR disciplina le indennità finanziarie per i quadri che non sono impiegati
 
 #### Art. 5
 
-**Compiti del delegato**
+**Compiti del delegato**[^5-1]
 
-<sup>1</sup> Il delegato fissa gli obiettivi e le priorità dell’approvvigionamento economico del Paese; coordina l’attività degli organi d’esecuzione e impartisce loro istruzioni.
+<sup>1</sup> Il delegato fissa gli obiettivi e le priorità dell’AEP; coordina l’attività degli organi d’esecuzione e impartisce loro istruzioni.
 
-<sup>2</sup> Garantisce i collegamenti tra gli organi dell’approvvigionamento economico del Paese, le organizzazioni dell’economia e le imprese.
+<sup>2</sup> Garantisce il collegamento tra l’AEP, le organizzazioni dell’economia e le imprese.
 
-<sup>3</sup> Definisce l’organizzazione dell’UFAE e dei settori specializzati. I responsabili dei settori specializzati devono essere preventivamente consultati.
+<sup>3</sup> Definisce l’organizzazione dell’AEP; consulta preventivamente i responsabili dei settori specializzati.
+
+<sup>4</sup> Nell’osservazione della situazione dell’approvvigionamento si basa sulle competenze e sull’esperienza dei settori specializzati nonché sui dati e sulle informazioni provenienti da altre autorità e dalle cerchie economiche e scientifiche.
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 6
 
@@ -98,19 +101,28 @@ Il DEFR disciplina le indennità finanziarie per i quadri che non sono impiegati
 
 L’UFAE è competente per:
 
-- a. dirigere e coordinare i lavori legislativi;
-- b. emanare decisioni, per quanto la legge e le disposizioni d’esecuzione non trasferiscano questo compito alle organizzazioni dell’economia o ai settori specializzati;
-- c. trattare ricorsi contro le decisioni secondo l’articolo 46 capoversi 1 e 3 LAP e stare in giudizio in caso di controversie;
-- d. trattare gli affari concernenti le scorte obbligatorie;
-- e. trattare tutte le questioni finanziarie e amministrative concernenti l’approvvigionamento economico del Paese;
-- f. gestire le pubbliche relazioni;
-- g. pianificare le misure di approvvigionamento economico del Paese;
+- a.[^6-1] preparare prescrizioni e misure dell’AEP insieme ai settori specializzati;
+- b.[^6-2] dirigere e coordinare i lavori legislativi;
+- c.[^6-3] emanare decisioni, per quanto la legge e le disposizioni d’esecuzione non trasferiscano questo compito alle organizzazioni dell’economia o ai settori specializzati;
+- d.[^6-4] trattare ricorsi contro le decisioni secondo l’articolo 46 capoversi 1 e 3 LAP e stare in giudizio in caso di controversie;
+- e.[^6-5] trattare gli affari concernenti le scorte obbligatorie;
+- f.[^6-6] trattare tutte le questioni finanziarie e amministrative concernenti l’AEP;
+- g.[^6-7] gestire le pubbliche relazioni;
 - h. formare le persone che partecipano all’approvvigionamento economico del Paese;
-- i. coordinare la collaborazione con altri servizi della Confederazione, in particolare l’esercito, la protezione della popolazione e altri organi incaricati della politica di sicurezza;
+- i.[^6-8] coordinare la collaborazione all’interno dell’AEP e con altri servizi della Confederazione, in particolare l’esercito, la protezione della popolazione e altri organi incaricati della politica di sicurezza;
 - j. coordinare gli affari internazionali nel settore dell’approvvigionamento economico del Paese;
 - k. vigilare sui preparativi e sull’esecuzione delle misure da parte dei Cantoni e delle organizzazioni dell’economia.
 
 <sup>2</sup> Sostiene i settori specializzati, in particolare assistendoli sul piano amministrativo e fornendo loro informazioni.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^6-2]: Originaria lett. a.
+[^6-3]: Originaria lett. b.
+[^6-4]: Originaria lett. c.
+[^6-5]: Originaria lett. d.
+[^6-6]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^6-7]: Originaria lett. f.
+[^6-8]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 7
 
@@ -123,7 +135,8 @@ I settori specializzati sono competenti per:
 - a. apportare e sfruttare le competenze e l’esperienza dell’economia e la rete di relazioni delle cerchie economiche a favore dell’approvvigionamento economico del Paese;
 - b. garantire la trasmissione di conoscenze;
 - c. valutare periodicamente la situazione;
-- d. preparare ed eseguire prescrizioni e misure decise dall’organizzazione dell’approvvigionamento economico del Paese.
+- d.[^7-1] preparare prescrizioni e misure dell’AEP insieme all’UFAE;
+- e.[^7-2] eseguire prescrizioni e misure dell’AEP, se questo compito è stato loro affidato.
 
 <sup>2</sup> Osservano e analizzano regolarmente l’evoluzione dell’approvvigionamento economico del Paese.
 
@@ -137,6 +150,9 @@ I settori specializzati qui elencati hanno le seguenti competenze:
 - d. logistica: trasporti per via terrestre, fluviale/marittima e aerea nonché sistemi logistici;
 - e. industria: materie ausiliarie industriali, in particolare materiali d’imballaggio;
 - f. tecnologie dell’informazione e della comunicazione: trasmissione, sicurezza e disponibilità dei dati.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^7-2]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 8
 
@@ -166,7 +182,7 @@ Il delegato può affidare compiti di approvvigionamento economico del Paese ai s
 
 <sup>3</sup> Il delegato può far capo alla collaborazione di altri servizi federali.
 
-[^8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^8-2]: Nuovo testo giusta l’all. n. 15 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 9
@@ -255,7 +271,7 @@ I proprietari delle scorte obbligatorie devono:
 
 <sup>3</sup> I proprietari delle scorte obbligatorie devono tenere una contabilità che registra la merce in magazzino nonché l’entrata e l’uscita della merce per ogni luogo di deposito.
 
-[^16-1]: [RS 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
+[^16-1]: [RS 221.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5930)
 
 #### Art. 17
 
@@ -368,11 +384,13 @@ Il DEFR fissa il limite massimo dei contributi ai fondi di garanzia tariffati, i
 
 **Scorte costituite volontariamente**
 
-<sup>1</sup> Le scorte costituite volontariamente non sottostanno ad alcun regolamento contrattuale con gli organi dell’organizzazione dell’approvvigionamento economico del Paese.
+<sup>1</sup> Le scorte costituite volontariamente non sottostanno ad alcun regolamento contrattuale con l’AEP.[^26-1]
 
 <sup>2</sup> L’utilizzo delle scorte si basa sulle prescrizioni generali in materia di gestione.
 
 <sup>3</sup> Sono fatte salve le misure d’intervento di cui all’articolo 31 LAP.
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° nov. 2025 ([RU 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 27
 
@@ -465,7 +483,7 @@ I crediti sono soddisfatti nell’ordine seguente:
 - c. crediti dei fondi di garanzia e di istituzioni analoghe con diritto di prelazione immediatamente successivo alla pretesa dell’UFAE o dell’impresa terza;
 - d. crediti di altri creditori con diritto di pegno o di ritenzione successivo alle summenzionate pretese.
 
-[^34-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^34-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 35
 
@@ -566,16 +584,16 @@ Sono abrogati:
 - 4\. l’ordinanza del 6 luglio 1983[^46-4] sul diritto di separazione e di pegno della Confederazione per le scorte obbligatorie;
 - 5\. il decreto del Consiglio federale del 12 aprile 1957[^46-5] concernente misure preventive di protezione delle persone giuridiche, società di persone e ditte individuali;
 - 6\. l’ordinanza d’esecuzione del 12 aprile 1957[^46-6] del decreto del Consiglio federale concernente misure preventive di protezione delle persone giuridiche, società di persone e ditte individuali;
-- 7\. la [tariffa del 30 aprile 1957[^46-7] delle tasse applicabili al decreto del Consiglio federale concernente misure preventive di protezione delle persone giuridiche, società di persone e ditte individuali](https://www.admin.ch/opc/de/classified-compilation/19570075/index.html);
+- 7\. la [tariffa del 30 aprile 1957 [^46-7] delle tasse applicabili al decreto del Consiglio federale concernente misure preventive di protezione delle persone giuridiche, società di persone e ditte individuali](https://www.admin.ch/opc/de/classified-compilation/19570075/index.html);
 - 8\. il decreto del Consiglio federale del 12 aprile 1957[^46-8] concernente misure preventive di protezione delle persone giuridiche, società di persone e ditte individuali.
 
-[^46-1]: [[RU 1983 950](https://fedlex.data.admin.ch/eli/oc/1983/950_950_950), [2000 2041](https://fedlex.data.admin.ch/eli/oc/2000/308), [2001 1443](https://fedlex.data.admin.ch/eli/oc/2001/206), [2002 1514](https://fedlex.data.admin.ch/eli/oc/2002/238), [2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)all. n. 1]
+[^46-1]: [[RU 1983 950](https://fedlex.data.admin.ch/eli/oc/1983/950_950_950); [2000 2041](https://fedlex.data.admin.ch/eli/oc/2000/308); [2001 1443](https://fedlex.data.admin.ch/eli/oc/2001/206); [2002 1514](https://fedlex.data.admin.ch/eli/oc/2002/238); [2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)all. n. 1]
 [^46-2]: [[RU 2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)]
-[^46-3]: [[RU 1983 956](https://fedlex.data.admin.ch/eli/oc/1983/956_956_956), [1995 1796](https://fedlex.data.admin.ch/eli/oc/1995/1796_1796_1796), [1996 3279](https://fedlex.data.admin.ch/eli/oc/1996/3279_3279_3279), [2001 1448](https://fedlex.data.admin.ch/eli/oc/2001/207), [2006 5341](https://fedlex.data.admin.ch/eli/oc/2006/811), [2012 2579](https://fedlex.data.admin.ch/eli/oc/2012/311)]
+[^46-3]: [[RU 1983 956](https://fedlex.data.admin.ch/eli/oc/1983/956_956_956); [1995 1796](https://fedlex.data.admin.ch/eli/oc/1995/1796_1796_1796); [1996 3279](https://fedlex.data.admin.ch/eli/oc/1996/3279_3279_3279); [2001 1448](https://fedlex.data.admin.ch/eli/oc/2001/207); [2006 5341](https://fedlex.data.admin.ch/eli/oc/2006/811); [2012 2579](https://fedlex.data.admin.ch/eli/oc/2012/311)]
 [^46-4]: [[RU 1983 963](https://fedlex.data.admin.ch/eli/oc/1983/963_963_963)]
-[^46-5]: [[RU 1957 351](https://fedlex.data.admin.ch/eli/oc/1957/337_337_351), [1958 424](https://fedlex.data.admin.ch/eli/oc/1958/409_424_424), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 43, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)all. 1 n. 6]
+[^46-5]: [[RU 1957 351](https://fedlex.data.admin.ch/eli/oc/1957/337_337_351); [1958 424](https://fedlex.data.admin.ch/eli/oc/1958/409_424_424); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 43; [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)all. 1 n. 6]
 [^46-6]: [[RU 1957 364](https://fedlex.data.admin.ch/eli/oc/1957/349_350_364)]
-[^46-7]: [[RU 1957 393](https://fedlex.data.admin.ch/eli/oc/1957/379_379_393), [1983 476](https://fedlex.data.admin.ch/eli/oc/1983/476_476_476)]
+[^46-7]: [[RU 1957 393](https://fedlex.data.admin.ch/eli/oc/1957/379_379_393); [1983 476](https://fedlex.data.admin.ch/eli/oc/1983/476_476_476)]
 [^46-8]: [[RU 1957 369](https://fedlex.data.admin.ch/eli/oc/1957/354_355_369)]
 
 #### Art. 47

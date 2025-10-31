@@ -4,11 +4,11 @@ title: "Ordonnance du 10 mai 2017 sur l'approvisionnement économique du pays (O
 short: OAEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/309"
 language: fr
-version: 2022-01-01
+version: 2025-11-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-309-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/309/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-309-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/309/20220101/fr"
 
 (OAEP)
 
-du 10 mai 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 mai 2017 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 17 juin 2016 sur l’approvisionnement du pays (LAP)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 ## Chapitre 1 L’Approvisionnement économique du pays en tant qu’organisation
 
@@ -33,29 +33,28 @@ arrête:
 
 #### Art. 1
 
-**Subordination hiérarchique**
+**Subordination hiérarchique**[^1-1]
 
-L’Approvisionnement économique du pays est subordonné au Département fédéral de l’économie, de la formation et de la recherche (DEFR).
+L’organisation de l’approvisionnement économique du pays (AEP) est subordonnée au Département fédéral de l’économie, de la formation et de la recherche (DEFR).
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 2
 
-**Organisation**
+**Organisation**[^2-1]
 
-<sup>1</sup> Le Délégué à l’approvisionnement économique du pays (délégué) dirige l’organisation à temps partiel.
+<sup>1</sup>
 
-<sup>2</sup>
+Le délégué à l’approvisionnement économique du pays (délégué) dirige:
 
-Lui sont subordonnés:
+- a. l’Office fédéral pour l’approvisionnement économique du pays (OFAE);
+- b. les domaines (art. 7, al. 3).
 
-- a. l’Office fédéral pour l’approvisionnement économique du pays (OFAE), comme organe d’état-major à plein temps;
-- b. les domaines (art. 7, al. 3);
-- c. d’autres entités fédérales, pour autant qu’elles assument des tâches d’approvisionnement économique du pays (art. 8, al. 1).
+<sup>2</sup> L’OFAE met à la disposition des domaines des secrétariats pour accomplir leurs tâches.
 
-<sup>3</sup> Les domaines disposent de secrétariats à plein temps pour accomplir leurs tâches.
+<sup>3</sup> Les responsables de domaine organisent et dirigent leurs domaines.
 
-<sup>4</sup> Les secrétariats sont rattachés à l’OFAE sur le plan administratif; ils sont subordonnés au responsable du domaine concerné.
-
-<sup>5</sup> Les responsables de domaine élaborent un règlement et le font approuver par le délégué.
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 3
 
@@ -82,13 +81,17 @@ Le DEFR règle les indemnités des cadres qui ne sont pas salariés par la Conf�
 
 #### Art. 5
 
-**Tâches du délégué**
+**Tâches du délégué**[^5-1]
 
-<sup>1</sup> Le délégué fixe les objectifs et les priorités de l’Approvisionnement économique du pays; il coordonne l’activité des organes d’exécution et il leur donne des instructions.
+<sup>1</sup> Le délégué fixe les objectifs et les priorités de l’AEP; il coordonne l’activité des organes d’exécution et il leur donne des instructions.
 
-<sup>2</sup> Il sert de pont entre les organes de l’Approvisionnement économique du pays, les organisations des milieux économiques et les entreprises.
+<sup>2</sup> Il sert de pont entre l’AEP, les organisations des milieux économiques et les entreprises.
 
-<sup>3</sup> Il règle l’organisation de l’OFAE et des domaines. Les responsables de domaine doivent être entendus au préalable.
+<sup>3</sup> Il règle l’organisation de l’AEP; il entend au préalable les responsables de domaine.
+
+<sup>4</sup> En suivant la situation en matière d’approvisionnement, il s’appuie sur le savoir-faire et l’expérience des domaines ainsi que sur les données et connaissances d’autres autorités, des milieux économiques et des milieux scientifiques.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 6
 
@@ -98,19 +101,28 @@ Le DEFR règle les indemnités des cadres qui ne sont pas salariés par la Conf�
 
 L’OFAE est chargé:
 
-- a. de diriger et de coordonner les travaux législatifs;
-- b. de rendre des décisions, à moins que la loi et les dispositions d’exécution n’en chargent les organisations des milieux économiques ou les domaines;
-- c. de statuer sur les recours contre des décisions en vertu de l’art. 46, al. 1 et 3, LAP et d’ester en justice lors de litiges;
-- d. d’encadrer le stockage obligatoire;
-- e. de traiter toutes les questions financières et administratives concernant l’approvisionnement économique du pays;
-- f. d’assurer les relations publiques;
-- g. de planifier les mesures d’approvisionnement économique du pays;
+- a.[^6-1] de préparer des prescriptions et des mesures de l’AEP en collaboration avec les domaines;
+- b.[^6-2] de diriger et de coordonner les travaux législatifs;
+- c.[^6-3] de rendre des décisions, à moins que la loi et les dispositions d’exécution n’en chargent les organisations des milieux économiques ou les domaines;
+- d.[^6-4] de statuer sur les recours contre des décisions en vertu de l’art. 46, al. 1 et 3, LAP et d’ester en justice lors de litiges;
+- e.[^6-5] d’encadrer le stockage obligatoire;
+- f.[^6-6] de traiter toutes les questions financières et administratives concernant l’AEP;
+- g.[^6-7] d’assurer les relations publiques;
 - h. de former les personnes qui œuvrent pour l’approvisionnement économique du pays;
-- i. de coordonner les activités nécessitant une collaboration avec d’autres entités fédérales, notamment l’armée, la protection de la population et d’autres organes chargés de la politique de sécurité;
+- i.[^6-8] de coordonner la collaboration au sein de l’AEP et avec d’autres entités fédérales, notamment l’armée, la protection de la population et d’autres organes chargés de la politique de sécurité;
 - j. de coordonner les affaires internationales en matière d’approvisionnement économique du pays;
 - k. de veiller à ce que les cantons et les organisations des milieux économiques préparent et appliquent les mesures.
 
 <sup>2</sup> Il soutient les domaines, notamment en leur fournissant des prestations de nature administrative et en leur livrant des informations.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^6-2]: Anciennement let. a
+[^6-3]: Anciennement let. b
+[^6-4]: Anciennement let. c
+[^6-5]: Anciennement let. d
+[^6-6]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^6-7]: Anciennement let. f.
+[^6-8]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 7
 
@@ -123,7 +135,8 @@ Les domaines ont les compétences suivantes:
 - a. apporter et exploiter le savoir-faire et l’expérience du secteur privé ainsi que le réseau relationnel des milieux économiques pour en faire bénéficier l’approvisionnement économique du pays;
 - b. assurer un transfert de connaissances;
 - c. évaluer périodiquement la situation;
-- d. préparer et exécuter des prescriptions et des mesures décidées par l’approvisionnement économique du pays.
+- d.[^7-1] préparer des prescriptions et des mesures de l’AEP en collaboration avec l’OFAE;
+- e.[^7-2] exécuter des prescriptions et des mesures de l’AEP, pour autant qu’ils en aient été chargés.
 
 <sup>2</sup> Ils observent et analysent régulièrement l’évolution de l’approvisionnement économique du pays.
 
@@ -137,6 +150,9 @@ Les domaines ci-après ont les compétences suivantes:
 - d. logistique: transports par voies terrestre, fluviale/maritime et aérienne ainsi que circuits logistiques;
 - e. industrie: matières auxiliaires, notamment les matériaux d’emballage;
 - f. technologies de l’information et de la communication: transfert, sécurité et disponibilité des données.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
+[^7-2]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 8
 
@@ -166,7 +182,7 @@ Le délégué peut confier des tâches d’approvisionnement économique du pays
 
 <sup>3</sup> Le délégué peut faire appel à d’autres entités fédérales.
 
-[^8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^8-2]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 9
@@ -255,7 +271,7 @@ Les propriétaires de réserves obligatoires doivent:
 
 <sup>3</sup> Tout propriétaire doit tenir une comptabilité précisant l’ampleur de la réserve ainsi que les entrées et sorties de marchandises pour chaque lieu de stockage.
 
-[^16-1]: [RS 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
+[^16-1]: [RS 221.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5930)
 
 #### Art. 17
 
@@ -368,11 +384,13 @@ Le DEFR fixe des maxima pour les contributions aux fonds de garantie tarifées, 
 
 **Stocks constitués volontairement**
 
-<sup>1</sup> Les stocks constitués volontairement ne font l’objet d’aucun règlement contractuel passé avec les organes de l’Approvisionnement économique du pays.
+<sup>1</sup> Les stocks constitués volontairement ne font l’objet d’aucun règlement contractuel avec l’AEP.[^26-1]
 
 <sup>2</sup> L’utilisation des stocks se fonde sur les prescriptions générales d’une gestion réglementée.
 
 <sup>3</sup> Les mesures d’intervention prévues à l’art. 31 LAP sont réservées.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 624](https://fedlex.data.admin.ch/eli/oc/2025/624)).
 
 #### Art. 27
 
@@ -465,7 +483,7 @@ Les créances sont présentées, selon leur rang, de la manière suivante:
 - c. créances des fonds de garantie et des institutions analogues, titulaires d’un droit préférentiel faisant immédiatement suite au droit de l’OFAE ou du tiers;
 - d. créances d’autres créanciers garanties par un droit de gage ou de rétention faisant suite aux droits énumérés ci-dessus.
 
-[^34-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^34-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 35
 
@@ -569,13 +587,13 @@ Sont abrogés:
 - 7\. le tarif des émoluments du 30 avril 1957 relatif à l’arrêté du Conseil fédéral protégeant par des mesures conservatoires les personnes morales, sociétés de personnes et raisons individuelles[^46-7];
 - 8\. l’arrêté du Conseil fédéral du 12 avril 1957 concernant la protection des papiers-valeurs et titres analogues par des mesures conservatoires[^46-8].
 
-[^46-1]: [[RO 1983 950](https://fedlex.data.admin.ch/eli/oc/1983/950_950_950), [2000 2041](https://fedlex.data.admin.ch/eli/oc/2000/308), [2001 1443](https://fedlex.data.admin.ch/eli/oc/2001/206), [2002 1514](https://fedlex.data.admin.ch/eli/oc/2002/238), [2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)annexe ch. 1]
+[^46-1]: [[RO 1983 950](https://fedlex.data.admin.ch/eli/oc/1983/950_950_950); [2000 2041](https://fedlex.data.admin.ch/eli/oc/2000/308); [2001 1443](https://fedlex.data.admin.ch/eli/oc/2001/206); [2002 1514](https://fedlex.data.admin.ch/eli/oc/2002/238); [2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)annexe ch. 1]
 [^46-2]: [[RO 2003 2167](https://fedlex.data.admin.ch/eli/oc/2003/318)]
-[^46-3]: [[RO 1983 956](https://fedlex.data.admin.ch/eli/oc/1983/956_956_956), [1995 1796](https://fedlex.data.admin.ch/eli/oc/1995/1796_1796_1796), [1996 3279](https://fedlex.data.admin.ch/eli/oc/1996/3279_3279_3279), [2001 1448](https://fedlex.data.admin.ch/eli/oc/2001/207), [2006 5341](https://fedlex.data.admin.ch/eli/oc/2006/811), [2012 2579](https://fedlex.data.admin.ch/eli/oc/2012/311)]
+[^46-3]: [[RO 1983 956](https://fedlex.data.admin.ch/eli/oc/1983/956_956_956); [1995 1796](https://fedlex.data.admin.ch/eli/oc/1995/1796_1796_1796); [1996 3279](https://fedlex.data.admin.ch/eli/oc/1996/3279_3279_3279); [2001 1448](https://fedlex.data.admin.ch/eli/oc/2001/207); [2006 5341](https://fedlex.data.admin.ch/eli/oc/2006/811); [2012 2579](https://fedlex.data.admin.ch/eli/oc/2012/311)]
 [^46-4]: [[RO 1983 963](https://fedlex.data.admin.ch/eli/oc/1983/963_963_963)]
-[^46-5]: [[RO 1957 337](https://fedlex.data.admin.ch/eli/oc/1957/337_337_351), [1958 424](https://fedlex.data.admin.ch/eli/oc/1958/409_424_424), [1982 1108](https://fedlex.data.admin.ch/eli/oc/1982/_1108_), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 43, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)annexe 1 ch. 6]
+[^46-5]: [[RO 1957 337](https://fedlex.data.admin.ch/eli/oc/1957/337_337_351); [1958 424](https://fedlex.data.admin.ch/eli/oc/1958/409_424_424); [1982 1108](https://fedlex.data.admin.ch/eli/oc/1982/_1108_); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 43; [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)annexe 1 ch. 6]
 [^46-6]: [[RO 1957 350](https://fedlex.data.admin.ch/eli/oc/1957/349_350_364)]
-[^46-7]: [[RO 1957 379](https://fedlex.data.admin.ch/eli/oc/1957/379_379_393), [1983 476](https://fedlex.data.admin.ch/eli/oc/1983/476_476_476)]
+[^46-7]: [[RO 1957 379](https://fedlex.data.admin.ch/eli/oc/1957/379_379_393); [1983 476](https://fedlex.data.admin.ch/eli/oc/1983/476_476_476)]
 [^46-8]: [[RO 1957 355](https://fedlex.data.admin.ch/eli/oc/1957/354_355_369)]
 
 #### Art. 47
