@@ -4,11 +4,11 @@ title: Ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs a
 short: OCSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/736"
 language: fr
-version: 2025-04-15
+version: 2025-11-01
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20250415/fr/xml/fedlex-data-admin-ch-eli-cc-2023-736-20250415-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20250415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/736/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-736-20251101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/736/20250415/fr"
 
 (OCSP)
 
-du 8 novembre 2023 (État le 15 avril 2025)
+du 8 novembre 2023 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,14 +25,14 @@ vu les art. 48, 83, al. 3, 84, al. 1, et 86, al. 4, de la loi du 18 décembre 20
 
 arrête:
 
-[^ingress-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-4]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^ingress-5]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-7]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^ingress-8]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-1]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^ingress-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-4]: [RS 143.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4903)
+[^ingress-5]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-6]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-7]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^ingress-8]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 ## Section 1 Dispositions générales
 
@@ -93,9 +93,9 @@ Sont réservées les dispositions d’exécution visées à l’art. 84, al. 1, 
 - b. l’attribution d’un degré de contrôle aux activités sensibles;
 - c. les services chargés de demander le contrôle et les instances décisionnelles.
 
-[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^2-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^2-3]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^2-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^2-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^2-3]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 ## Section 2 Listes des fonctions
 
@@ -124,7 +124,7 @@ Les listes des fonctions suivantes s’appliquent à l’armée:
 
 <sup>4</sup> Les responsables de projet d’une nouvelle installation nucléaire, les titulaires d’une autorisation générale, d’une autorisation de construire ou d’une autorisation d’exploiter une installation nucléaire et les destinataires d’une décision de désaffectation tiennent une liste des fonctions requérant un contrôle de fiabilité visé à l’art. 24, al. 1, LENu. L’Inspection fédérale de la sécurité nucléaire (IFSN) fixe dans des directives les exigences auxquelles doivent répondre ces listes et leur mise à jour.
 
-[^3-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^3-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 4
 
@@ -140,7 +140,7 @@ Sur demande des départements ou de la Chancellerie fédérale, le Département 
 
 <sup>2</sup> Le DDPS conserve les listes des fonctions figurant dans les annexes 1, 4 et 6 et les communique aux services et aux personnes accomplissant des tâches prévues par la présente ordonnance.
 
-[^5-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^5-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 #### Art. 6
 
@@ -189,7 +189,7 @@ Avant de soumettre un tiers à un contrôle de sécurité relatif aux personnes,
 [^8-1]: Introduit par le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
-[^8-4]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^8-4]: [RS 172.056.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5202)
 
 #### Art. 9
 
@@ -237,10 +237,10 @@ Les activités sensibles visées dans la LSI suivantes requièrent un contrôle 
 - e. les activités sensibles des collaborateurs des autorités d’exécution cantonales visées à l’art. 9, al. 1, de loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^10-4];
 - f. les activités soumises à un contrôle correspondant à ce degré de contrôle en vertu d’un traité international.
 
-[^10-1]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
-[^10-2]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^10-1]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
+[^10-2]: [RS 510.518.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7326)
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
-[^10-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^10-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 11
 
@@ -265,7 +265,7 @@ Les activités visées à l’art. 20*b* LPers suivantes requièrent un contrôl
 - e. les activités visées à l’art. 20*b*, al. 1, let. c, LPers du personnel de fedpol dont l’exercice inadéquat ou contraire aux prescriptions est susceptible de compromettre gravement la lutte contre la grande criminalité relevant de la compétence de la Confédération;
 - f. les activités des employés des services spécialisés CSP.
 
-[^11-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^11-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 12
 
@@ -315,7 +315,7 @@ Les contrôles de fiabilité visés à l’art. 24, al. 1, LENu des personnes su
 
 <sup>2</sup> Les contrôles de fiabilité des personnes qui ont accès à des informations classifiées «secret» relatives à des installations ou à des matières nucléaires requièrent un contrôle de sécurité élargi.
 
-[^13-1]: [RS 732.112.2](https://fedlex.data.admin.ch/eli/cc/2009/444)
+[^13-1]: [RS 732.112.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8535)
 
 #### Art. 14
 
@@ -380,7 +380,7 @@ Le Service spécialisé CSP ChF est chargé de contrôler les personnes suivante
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
-[^16-3]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^16-4]: Introduit par le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
 #### Art. 17
@@ -468,7 +468,7 @@ Les tiers suivants peuvent être auditionnés en vertu de l’art. 34, al. 3, LS
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 [^19-3]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
-[^19-4]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^19-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^19-5]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2025, en vigueur depuis le 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 [^19-6]: Abrogé par le ch. I de l’O du 14 mars 2025, avec effet au 15 avr. 2025 ([RO 2025 195](https://fedlex.data.admin.ch/eli/oc/2025/195)).
 
@@ -696,7 +696,7 @@ Le DDPS et la Chancellerie fédérale veillent à ce qu’un organe indépendant
 
 <sup>4</sup> Pour le reste, l’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^34-1] s’applique.
 
-[^34-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^34-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 35
 
@@ -722,7 +722,7 @@ La convention de prestations visée à l’al. 1, let. c, règle notamment:
 
 <sup>3</sup> Le montant des émoluments est calculé en fonction du temps consacré. Le tarif horaire est de 100 à 400 francs. Il dépend de l’urgence du mandat et de la fonction occupée par le personnel qui conduit le contrôle. Pour le reste, l’OGEmol[^35-1] s’applique.
 
-[^35-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^35-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Section 9 Dispositions finales
 
@@ -767,7 +767,10 @@ Annexe 1[^t-1]
 
 ## Fonctions de l’administration fédérale requérant un contrôle de sécurité relatif aux personnes visé dans la LSI
 
-[^t-1]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le texte de la présente annexe n’est pas publié dans le RO.
+[^annex1-lvlu1-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 1<sup>er</sup> oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 601](https://fedlex.data.admin.ch/eli/oc/2025/601)).
+[^annex1-lvlu1-1]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), le texte de la présente annexe n’est pas publié dans le RO.
 
 Cette liste n’est pas publiée
 
@@ -783,287 +786,636 @@ Annexe 2
 <tr><td>SEM, Dom. dir. AS/ Div. Analyses et services</td><td>Traducteurs</td><td>x</td></tr>
 </table>
 
-Annexe 3
+Annexe 3[^t-2]
 
 (art. 3, al. 1, let. c)
 
 ## Fonctions de l’administration fédérale requérant un contrôle de loyauté visé dans la LPers
 
-### 1. Degré de contrôle «contrôle de sécurité de base»:
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 1<sup>er</sup> oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 601](https://fedlex.data.admin.ch/eli/oc/2025/601)).
+
+Légende: CSB: contrôle de sécurité de base CSE: contrôle de sécurité élargi
+
+### I. Chancellerie fédérale (ChF)
 
 <table>
-<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">Contrôle de sécurité de base (art. 11, al. 1, OCSP)</th></tr>
-<tr><td></td><td></td><td>Let. a</td><td>Let. b</td><td>Let. c</td></tr>
-<tr><td colspan="5">1. Chancellerie fédérale</td></tr>
-<tr><td>*Aucune*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="5">2. DFAE</td></tr>
-<tr><td>Secrétariat d’État du DFAE, Représentations à l’étranger</td><td>Carrière diplomatique</td><td>x</td><td></td><td></td></tr>
-<tr><td></td><td>Carrière CGF</td><td>x</td><td></td><td></td></tr>
-<tr><td></td><td>Carrière de coopération internationale</td><td>x</td><td></td><td></td></tr>
-<tr><td></td><td>Personnel spécialisé transférable</td><td>x</td><td></td><td></td></tr>
-<tr><td colspan="5">3. DFI</td></tr>
-<tr><td>*Aucune*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="5">4. DFJP</td></tr>
-<tr><td>OFJ, Extraditions</td><td>Co-chef/Co-cheffe AUSL</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste pour les recherches internationales de personnes</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Juriste</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Collaborateur spécialisé / Collaboratrice spécialisée</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. AUSL</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Entraide judiciaire internationale</td><td>Chef/Cheffe IRH, sous-directeur/sous-directrice</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Assistant/Assistante de domaine de direction</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Procureur/e de liaison de la Suisse auprès d’Eurojust (NL)</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Traités internationaux</td><td>Chef/Cheffe INTV</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Juriste</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. INTV</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Entraide judiciaire I</td><td>Chef/Cheffe RH I</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. RH I</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/Experte en économie et finances</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Juriste</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Collaborateur spécialisé/ Collaboratrice spécialisée, assistant/assistante</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Entraide judiciaire II</td><td>Chef/Cheffe RH II, chef/cheffe suppl. IRH</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. RH II</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Responsable des demandes d’entraide judiciaire</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Juriste</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Protection internationale des droits de l’homme</td><td>Chef/Cheffe IMRS, agent du gouvernement</td><td>x</td><td></td><td></td></tr>
-<tr><td>OFJ, Trova Services (TS)</td><td>Intérim/Intérimaire</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste TROVA I</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste TROVA I</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe TS</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Collaborateur spécialisé/ Collaboratrice spécialisée</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. TS, spécialiste TROVA I</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Infostar</td><td>Chef/Cheffe FIS</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Collaborateur spécialisé/ Collaboratrice spécialisée II</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. FIS / Manager des exigences</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Casier judiciaire</td><td>Chef/Cheffe SSR</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. SSR</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Juriste</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Collaborateur spécialisé/ Collaboratrice spécialisée I VOSTRA</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Collaborateur spécialisé/ Collaboratrice spécialisée II VOSTRA</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste I VOSTRA</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste II VOSTRA</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFJ, Informatique juridique</td><td>Responsable de l’application VOSTRA</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Responsable de l’application VOSTRA interfaces</td><td></td><td></td><td>x</td></tr>
-<tr><td colspan="5">5. DDPS</td></tr>
-<tr><td>*Aucune*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="5">6. DFF</td></tr>
-<tr><td>*AFF,* *Trésorerie fédérale*</td><td>*Collaborateur/Collaboratrice Front Office Trésorerie*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Collaborateur/Collaboratrice Back Office Trésorerie*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Collaborateur/Collaboratrice caisse d’épargne du personnel fédéral*</td><td></td><td>x</td><td></td></tr>
-<tr><td>*AFF,* *Finances et comptabilité de la Confédération*</td><td>*Chef/Cheffe Comptabilité centrale*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Collaborateur /Collaboratrice Gestion des paiements*</td><td></td><td>x</td><td></td></tr>
-<tr><td>*AFF,* *Monnaie fédérale Swissmint*</td><td>*Directeur/Directrice*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Chef/Cheffe Systèmes de gestion*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Chef/Cheffe Marketing et ventes*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Spécialiste administration / ventes*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Spécialiste design de pièces de monnaie / atelier de gravure*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Chef/Cheffe technique*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Spécialiste production d’outils*</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>*Spécialiste production*</td><td></td><td>x</td><td></td></tr>
-<tr><td>*OFPER,* *Service financier*</td><td>*Chef/Cheffe service financier*</td><td></td><td>x</td><td></td></tr>
-<tr><td>OFDF, P+P</td><td>Chef/Cheffe planification et pilotage</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, P+P, Programmes/DaziT/ Informatique</td><td>Chef/Cheffe ICT COO</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, P+P, Développement d’entreprise et gestion du portefeuille</td><td>Chef/Cheffe de division + rempl</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commissaire à la protection des données OFDF</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Préposés à la sécurité de l’information OFDF (ISBO)</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF. Bases</td><td>Chef/Cheffe Bases</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Bases, aide à la conduite</td><td>Chef/Cheffe aide à la conduite</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Bases, sécurité de la frontière</td><td>Chef/Cheffe sécurité de la frontière</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe sécurité des personnes et collaboration nationale en matière de sécurité</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste sécurité des personnes et collaboration nationale en matière de sécurité</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe systèmes de contrôle aux frontières</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste systèmes de contrôle aux frontières</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe sécurité des marchandises</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/e attaché/e Frontex</td><td>x</td><td></td><td>x</td></tr>
-<tr><td>OFDF, Analyse des données et des risques, Business Intelligence/Analytics</td><td>Chef/Cheffe Business Intelligence & Analytics</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Analyse des données et des risques, Datenservices</td><td>Chef/Cheffe Datenservices</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Analyse des données et des risques, information et situation</td><td>Chef/Cheffe Information et situation et suppl.</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Gestion de l’information</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/e Gestion de l’information</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Situation et suppl.</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/e Situation</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Réseau de renseignements</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Attaché/e OFDF</td><td>x</td><td></td><td>x</td></tr>
-<tr><td></td><td>Officier/Officière de liaison fedpol</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Officier/Officière de liaison Réseau de renseignements</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Officier/Officière de liaison SRC</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Analyse des données et des risques, Analyse des données et des risques</td><td>Chef/Cheffe Analyse des données et des risques</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Analyse des risques</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Money</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/e Money</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Security</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/e Security</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Safety</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/e Safety</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Analyse des risques Niveaux régionaux</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste Analyse des risques Niveaux régionaux</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste Analyse des risques Niveaux régionaux et suppl.</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Poursuites pénales</td><td>Chef/Cheffe Poursuites pénales</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Poursuites pénales, Recherche d’informations et Enquêtes préliminaires</td><td>Chef/Cheffe Recherche d’informations et Enquêtes préliminaires</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Expert/e coopération douanière policière</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Officier/Officière de liaison OFDF (Europol)</td><td>x</td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Recherche d’informations</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Inspecteur/Inpsectrice Digital forensics</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Inspecteur/Inspectrice OSINT et Analyse de réseau</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Enquêtes préliminaires</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Enquêtes préliminaires et suppl.</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Inspecteur/Inspectrice Enquêtes préliminaires</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Poursuites pénales, MEK</td><td>Chef/Cheffe Commandement d’intervention mobile (MEK) Helvetia</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Suppl.</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Coordination engagement MEK</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe groupe MEK</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe d’équipe MEK</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste Observation MEK</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe groupe Technique MEK</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Spécialiste Technique MEK</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Poursuites pénales, Antifraude douanière</td><td>Chef/Cheffe Antifraude douanière</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Antifraude douanière et suppl.</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Assistant/e Antifraude douanière</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Groupe d’enquêtes Antifraude douanière</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Groupe d’enquêtes Antifraude douanière et suppl.</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Inspecteur/Inspectrice Antifraude douanière</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, Soutien,</td><td>Chef/Cheffe Soutien</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, OP, Niveau direction</td><td>Chef/Cheffe Opérations</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe État-major Opérations</td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Coordinateur/Coordinatrice Tiger/ Fox Opérations</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, OP, Niveau région</td><td>Chef/Cheffe Niveau région NR</td><td></td><td></td><td>x</td></tr>
-<tr><td>OFDF, OP, Niveau Local</td><td>Chef/Cheffe Niveau Local NL</td><td></td><td></td><td>x</td></tr>
-<tr><td>PUBLICA, Comptabilité</td><td>Spécialiste Comptabilité</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Chef/Cheffe suppl. Comptabilité</td><td></td><td>x</td><td></td></tr>
-<tr><td>PUBLICA, Immobilier</td><td>Chef/Cheffe Immobilier</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Stv. Chef/Cheffe Immobilier</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Portfolio Manager</td><td></td><td>x</td><td></td></tr>
-<tr><td>PUBLICA, Gestion de portefeuille</td><td>Portfolio Manager</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Senior Portfolio Manager</td><td></td><td>x</td><td></td></tr>
-<tr><td>PUBLICA, Private Markets</td><td>Private Markets Specialist</td><td></td><td>x</td><td></td></tr>
-<tr><td>PUBLICA, Operations, Risk & Compliance</td><td>Collaborateur spécialisé/Collaboratrice spécialisée ORC</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Chef/Cheffe suppl ORC</td><td></td><td>x</td><td></td></tr>
-<tr><td>PUBLICA, Asset Management</td><td>Chef/Cheffe Asset Management</td><td></td><td>x</td><td></td></tr>
-<tr><td colspan="5">7. DEFR</td></tr>
-<tr><td>SEFRI</td><td>Détaché/e</td><td>x</td><td></td><td></td></tr>
-<tr><td>SEFRI, Division Affaires spatiales</td><td>Chef/Cheffe</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Responsable du groupe</td><td></td><td>x</td><td></td></tr>
-<tr><td></td><td>Conseiller/Conseillère scientifique, responsable de programme</td><td></td><td>x</td><td></td></tr>
-<tr><td colspan="5">8. DETEC</td></tr>
-<tr><td>*Aucune*</td><td></td><td></td><td></td><td></td></tr>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19, al. 2</th><th></th></tr>
+<tr><td>Service spécialisé CSP</td><td>Chef/Cheffe du Service spécialisé CSP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td></td></tr>
+<tr><td></td><td>Risk Profiler</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td></td></tr>
+<tr><td>Secteur TNI</td><td>Délégué/e à la transformation numérique et à la gouvernance de l’informatique</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td></tr>
+<tr><td>Secteur Conseil fédéral</td><td>Vice-chancelier/Vice-chancelière de la Confédération</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td></tr>
+<tr><td>Secteur communication et stratégie</td><td>Vice-chancelier/Vice-chancelière de la Confédération</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td></tr>
 </table>
 
-### 2. Degré de contrôle «contrôle de sécurité élargi»:
+### II. Département fédéral des affaires étrangères (DFAE)
 
 <table>
-<tr><th>Unité administrative</th><th>Fonction</th><th colspan="6">Contrôle de sécurité élargi (art. 11, al. 2, OCSP)</th><th>Audition (art. 19, al. 2)</th></tr>
-<tr><td></td><td></td><td>Let. a</td><td>Let. b</td><td>Let. c</td><td>Let. d</td><td>Let. e</td><td>Let. f</td><td></td></tr>
-<tr><td colspan="9">1. Chancellerie fédérale</td></tr>
-<tr><td>ChF, Service spécialisé CSP</td><td>Chef/Cheffe du Service spécialisé CSP</td><td></td><td></td><td></td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>ChF, Service spécialisé CSP</td><td>Risk Profiler/in</td><td></td><td></td><td></td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td>ChF, Secteur TNI</td><td>Délégué à la transformation numérique et à la gouvernance de l’informatique</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>ChF, Secteur Conseil fédéral</td><td>Vice-chancelier de la Confédération</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>ChF, Secteur communication et stratégie</td><td>Vice-chancelier de la Confédération</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td colspan="9">2. DFAE</td></tr>
-<tr><td>Généralités</td><td>Secrétaire général, Secrétaire d’État, Directeur d’office</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire général suppl., secrétaire d’État suppl., directeur d’office suppl.</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe de mission</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td colspan="9">3. DFI</td></tr>
-<tr><td>Généralités</td><td>Secrétaire général, directeur d’office</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire général suppl. et directeur d’office suppl.</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td colspan="8">4. DFJP</td><td></td></tr>
-<tr><td>Généralités</td><td>Secrétaire général, secrétaire d’État, directeur d’office</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire général suppl., secrétaire d’État suppl., directeur d’office suppl.</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>SCPT</td><td>Directeur/Directrice</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>ISDC</td><td>Directeur/Directrice</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>IPI</td><td>Directeur/Directrice</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>ASR</td><td>Directeur/Directrice</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>METAS</td><td>Directeur/Directrice</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="9">5. DDPS</td></tr>
-<tr><td>Généralités</td><td>Secrétaire général, secrétaire d’État, directeur d’office</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire général suppl., secrétaire d’État suppl. et directeur d’office suppl.</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>Office de l’auditeur en chef</td><td>Auditeur en chef</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Chef/Cheffe Services centraux</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>SEPOS</td><td>Personnel du Service spécialisé CSP DDPS</td><td></td><td></td><td></td><td></td><td></td><td>x</td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Stratégie et coopération</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>Groupement Défense, EM A</td><td>CdA</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe EM A</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>CEM CdA</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>CEMIO</td><td></td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Planification armée, rempl chef/cheffe EM A</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>OSA CdA</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe projet cdmt Cyber</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Of gén Centre de politique de sécurité</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Coll spéc Engagements, cons mil chef/cheffe DDPS</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Représentant/e mil senior auprès de l’OTAN</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Relations internationales Défense</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>AD (of gén)</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>Groupement Défense, cdmt Opérations</td><td>Chef/Cheffe cdmt Opérations</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Rempl chef/cheffe cdmt Opérations</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe EM cdmt Opérations</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe RM & SPPA</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e Forces terrestres</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e brigade mécanisée 1</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e brigade mécanisée 4</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e brigade mécanisée 11</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e div ter 1</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Rempl commandant/e div ter 1, commandant/e PdG</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>CEM QG, chef/cheffe instruction div ter 1</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e bur coord 1</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e div ter 2</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Rempl commandant/e div ter 2</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e div ter 3</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Rempl commandant/e div ter 3</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e div ter 4</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Rempl commandant/e div ter 4</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e LW</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Rempl commandant/e FA</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e br DSA 33</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e Police militaire</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>CEM</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe délégation</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>Groupement Défense, Base logistique de l’armée</td><td>Chef/Cheffe BLA</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Rempl chef/cheffe BLA</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Affaires sanitaires / Médecin en chef de l’armée</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>Groupement Défense, cdmt Cyber</td><td>Chef/Cheffe cdmt Cyber</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e br aide cdmt 41</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>Groupement Défense, cdmt Instruction</td><td>Commandant/e école d’état-major</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e FSCA / rempl chef/cheffe Instruction</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e Académie militaire</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e école centrale</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e FOAP génie/sauv/NBC</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e FOAP logistique</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Commandant/e FOAP blindés/artillerie</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe Personnel de l’armée</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Chef/Cheffe cdmt Instruction / rempl CdA</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>AS-Rens</td><td>Chef/Cheffe de l’AS-Rens</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td colspan="9">6. DFF</td></tr>
-<tr><td>Généralités</td><td>Secrétaire général, secrétaire d’État, directeur d’office</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire général suppl., secrétaire d’État suppl., directeur d’office suppl.</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>OFPER, Gestion du personnel</td><td>Chef/Cheffe Gestion du personnel et budgétisation</td><td></td><td></td><td></td><td>x</td><td></td><td></td><td></td></tr>
-<tr><td>CDF</td><td>Directeur/Directrice</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>PUBLICA</td><td>Directeur/ Directrice</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="9">7. DEFR</td></tr>
-<tr><td>Généralités</td><td>Secrétaire général, secrétaire d’État, directeur d’office</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire général suppl., secrétaire d’État suppl., directeur d’office suppl.</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>OFAG</td><td>Personnes travaillant en permanence à l’étranger pour l’OFAG</td><td></td><td></td><td></td><td>x</td><td></td><td></td><td></td></tr>
-<tr><td>SECO, Direction de la promotion économique</td><td>Chef/Cheffe</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td>Domaine des EPF, CEPF</td><td>Présidente/Président</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Domaine des EPF, EPFZ</td><td>Présidente/Président</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Domaine des EPF, EPFL</td><td>Présidente/Président</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Domaine des EPF, PSI</td><td>Directrice/Directeur</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Domaine des EPF, EMPA</td><td>Directrice/Directeur</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Domaine des EPF, WSL</td><td>Directrice/Directeur</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Domaine des EPF, Eawag</td><td>Directrice/Directeur</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="9">8. DETEC</td></tr>
-<tr><td>Généralités</td><td>Secrétaire général, Secrétaire d’État, Directeur d’office</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
-<tr><td></td><td>Secrétaire général suppl., Secrétaire d’État suppl., Directeur d’office suppl.</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td>x</td></tr>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19, al. 2</th><th></th></tr>
+<tr><td colspan="13">a. Secrétariat d’État du DFAE (SEE-DFAE)</td></tr>
+<tr><td></td><td>Secrétaire d’État</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire d’État suppléant/e</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Délégué/e du Conseil fédéral pour la reconstruction de l’Ukraine (DFAE)</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Représentation officielle à l’étranger</td><td>Carrière diplomatique</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Carrière ACGF</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Carrière Coopération internationale</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Personnel spécialisé transférable</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Personnel OPers-PDHH</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Personnel affecté à l’étranger – Services généraux</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/fe de poste</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/fe de poste suppléant/e</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/fe de mission</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/fe de mission suppléant/e</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">b. Secrétariat général (SG-DFAE)</td></tr>
+<tr><td></td><td>Secrétaire général/e</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire général/e suppléant/e</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">c. Direction consulaire (DC)</td></tr>
+<tr><td></td><td>Directeur/trice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/trice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">d. Direction du droit international public (DDIP)</td></tr>
+<tr><td></td><td>Directeur/trice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/trice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">e. Direction du développement et de la coopération (DDC)</td></tr>
+<tr><td></td><td>Directeur/trice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/trice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">f. Direction des ressources (DR)</td></tr>
+<tr><td></td><td>Directeur/trice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/trice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Annexe 4[^t-2]
+### III. Département fédéral de l’intérieur (DFI)
+
+<table>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19 al. 2</th><th></th></tr>
+<tr><td colspan="13">a. Secrétariat général du (DFI)</td></tr>
+<tr><td></td><td>Secrétaire général/e</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire général/e suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">b. Bureau fédéral de l’égalité entre femmes et hommes (BFEG)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">c. Office fédéral de la culture (OFC)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">d. Archives fédérales suisses (AFS)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">e. Office fédéral de météorologie et de climatologie (MétéoSuisse)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">f. Office fédéral de la santé publique (OFSP)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">g. Office fédéral de la statistique (OFS)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">h. Office fédéral des assurances sociales (OFAS)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">i. Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+</table>
+
+### IV. Département fédéral de justice et police (DFJP)
+
+<table>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19 al. 2</th><th></th></tr>
+<tr><td colspan="13">a. Commissions extraparlementaires et unités de l’administration fédérale décentralisée</td></tr>
+<tr><td>ISDC</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>IPI</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>ASR</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>METAS</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>Service SCPT</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td colspan="13">b. Secrétariat général du (DFJP)</td></tr>
+<tr><td></td><td>Secrétaire général/Secrétaire générale</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire général/Secrétaire générale suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">c. Office fédéral de la justice (OFJ)</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Extraditions</td><td>Co-chef/Co-cheffe AUSL</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. AUSL</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste pour les recherches internationales de personnes</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Juriste</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur spécialisé/Collaboratrice spécialisée</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Secrétaire</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Entraide judiciaire internationale</td><td>Chef/Cheffe IRH / Sous‑directeur/Sous‑directrice</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. IRH</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Assistant/Assistante de domaine de direction</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Procureur/e de liaison de la Suisse auprès d’Eurojust</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Procureur/e de liaison suppl. de la Suisse auprès d’Eurojust</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Stagiaire scientifique IRH</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Traités internationaux</td><td>Chef/Cheffe INTV</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. INTV</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Juriste</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Entraide judiciaire I</td><td>Chef/Cheffe RH I</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. RH I</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte en économie et finances</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Juriste</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur spécialisé/Collaboratrice spécialisée / Assistant/Assistante</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Entraide judiciaire II</td><td>Chef/Cheffe RH II</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. RH II</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Responsable des demandes d’entraide judiciaire</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Juriste</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Secrétaire</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Protection internationale des droits de l’homme</td><td>Chef/Cheffe IMRS / Agent/e du gouvernement</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. IMRS / Agent/e suppléant/e du gouvernement</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Trova Services (TS)</td><td>Chef/Cheffe TS</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. TS / Spécialiste TROVA II</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Intérimaire</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste TROVA I</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste TROVA II</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur spécialisé/Collaboratrice spécialisée</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Infostar</td><td>Chef/Cheffe FIS</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. FIS / Manager des exigences</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur spécialisé/Collaboratrice spécialisée II</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Casier judiciaire</td><td>Chef/Cheffe SSR</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. SSR</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Juriste</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur spécialisé/Collaboratrice spécialisée I VOSTRA</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur spécialisé/Collaboratrice spécialisée II VOSTRA</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Secrétaire</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste I VOSTRA</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste II VOSTRA</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">d. Secrétariat d’État aux migrations (SEM)</td></tr>
+<tr><td>Direction/Stabsbereiche</td><td>Secrétaire d’État aux migrations</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice suppléant/e du SEM</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">e. Office fédéral de la police (fedpol)</td></tr>
+<tr><td>Direction / CEM</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Division Communication et état-major de direction</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>État-major de direction</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de domaine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de domaine suppl. / Conseiller spécialisé/Conseillère spécialisée II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Communication</td><td>Chef/Cheffe Communication</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine de direction PCD</td><td>Chef/Cheffe du Domaine de direction PCD</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division MROS</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine Affaires internationales</td><td>Chef/Cheffe de division suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine Coordination et stratégie</td><td>Chef/Cheffe de division suppl. (co‑direction) / Chef/Cheffe de domaine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Droit</td><td>Chef/Cheffe suppl. PCD / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine de direction GRS</td><td>Chef/Cheffe du Domaine de direction GRS</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>État-major GRS</td><td>Chef/Cheffe suppl. GRS / Chef/Cheffe d’état-major GRS</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Gouvernance numérique</td><td>Chef/Cheffe de division / CIO</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine de direction SFS</td><td>Chef/Cheffe du Domaine de direction SFS</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Gestion, situation et état-major SFS</td><td>Chef/Cheffe suppl. SFS / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Sécurité des personnes et des biens immobiliers</td><td>Chef/Cheffe suppl. SFS / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Engagement, formation et planification</td><td>Chef/Cheffe suppl. SFS / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>SPO 1 Commissariat Gestion des menaces et sécurité des biens immobiliers</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Commissaire SPO</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>SPO 2 Commissariat Protection des personnes et des biens immobiliers</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Commissaire SPO</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine Évaluation de la menace</td><td>Chef/Cheffe de domaine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de domaine suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat Gardes de sûreté dans l’aviation</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine spécialisé Engagement</td><td>Chef/Cheffe de commissariat suppl. / Chef/Cheffe de domaine spécialisé</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine de direction PJF</td><td>Chef/Cheffe du Domaine de direction PJF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Opérations</td><td>Chef/Cheffe suppl. PJF / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat COP</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat ZS OKBM</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat ZS MM</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat ZS CYC</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Gestion, planification et état-major PJF</td><td>Chef/Cheffe suppl. PJF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine Administration et ressources</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de domaine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de domaine suppl. / Spécialiste de police II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Enquêteur fédéral/Enquêtrice fédérale II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine Innovation et appui TI</td><td>Chef/Cheffe de domaine</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de domaine suppl. / Spécialiste de police II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine Formation police judiciaire</td><td>Chef/Cheffe du Domaine Formation police judiciaire</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Protection de l’État, organisations criminelles</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat SK 1 Berne</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat SK 2 Berne</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat SK 3 Lugano</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Criminalité économique</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat WK 1 Berne</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat WK 2 Lausanne</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat WK 3 Lugano</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat WK 4 Zurich</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Entraide judiciaire, terrorisme, droit pénal international</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat RTV 1</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat RTV 2</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat RTV 3</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Forensique TI, communication</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat IFC 1 Soutien numérique aux enquêtes</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Spécialiste en forensique TI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat IFC 2 Forensique numérique</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Spécialiste en forensique TI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat IFC 3 Surveillance des télécommunications et police scientifique</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Spécialiste en forensique TI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Enquêteur fédéral/Enquêtrice fédérale II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Engagements opérationnels spéciaux</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat OSE 1</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat OSE 2</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. a.i. / Enquêteur fédéral/Enquêtrice fédérale II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat OSE 3</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Enquêteur fédéral/Enquêtrice fédérale II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat OSE 4</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Enquêteur fédéral/Enquêtrice fédérale II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat OSE 5</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Enquêteur fédéral/Enquêtrice fédérale II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Analyse criminelle</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat KA 1</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Analyste de police</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat KA 2</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Analyste de police</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat KA 3</td><td>Chef/Cheffe de commissariat / Chef/Cheffe de commissariat suppl.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat KA 4</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de commissariat suppl. / Analyste de police</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine de direction SPI</td><td>Chef/Cheffe du Domaine de direction SPI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Gestion, planification et état-major SPI</td><td>Chef/Cheffe suppl. SPI / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Domaine de direction CPI</td><td>Chef/Cheffe du Domaine de direction CPI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Centrale d’engagement et d’alarme – SIRENE CH</td><td>Chef/Cheffe suppl. CPI / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat Centrale d’engagement et d’alarme fedpol 1</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat Centrale d’engagement et d’alarme fedpol 2</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Coopération policière opérationnelle</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat Europol et INTERPOL</td><td>Chef/Cheffe de division suppl. / Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Commissariat Situations spéciales</td><td>Chef/Cheffe de commissariat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Affaires internationales</td><td>Chef/Cheffe suppl. CPI / Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>Division Gestion et planification</td><td>Chef/Cheffe de division</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td></tr>
+<tr><td>fedpol</td><td>Collaborateur/Collaboratrice</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Apprenti/Apprentie</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Stagiaire</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+### V. Département fédéral de la défense, de la protection de la population et des sports (DDPS)
+
+<table>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19 al. 2</th><th></th></tr>
+<tr><td colspan="13">a. Secrétariat général (SG-DDPS)</td></tr>
+<tr><td>Conduite</td><td>Secrétaire général/e</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Ressources</td><td>Chef/Cheffe ress / Secrétaire général/e suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">b. Office de l’auditeur en chef (OAC)</td></tr>
+<tr><td></td><td>Auditeur/trice en chef</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">c. Service de renseignement de la Confédération (SRC)</td></tr>
+<tr><td></td><td>Directeur/trice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/trice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">d. Secrétariat d’État à la politique de sécurité (SEPOS)</td></tr>
+<tr><td>Conduite</td><td>Secrétaire d’État</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Stratégie et coopération</td><td>Secrétaire d’État suppl. / Chef/Cheffe Stratégie et coopération</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Service spécialisé de la Confédération pour la sécurité de l’information</td><td>Chef/Cheffe service spécialisé de la Confédération pour la sécurité de l’information</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Réseau national de sécurité (RNS)</td><td>Délégué/e Réseau national de sécurité (RNS)</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Service spécialisé CSP</td><td>Chef/Cheffe Service spécialisé CSP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe Support de la gestion</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe de projet</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe Processus et systèmes</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Gestionnaire de processus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe Service d’état-major Droit</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Juriste CSP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe Collecte des données Service spécialisé CSP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Spécialiste collecte des données</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Co-chef/Co-cheffe Centrale CSP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Spécialiste CSP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe Centre de recrutement</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Stagiaire universitaire</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">e. Office fédéral de l’armement (armasuisse)</td></tr>
+<tr><td></td><td>Chef/Cheffe de l’armement / Directeur/trice d’armasuisse</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Science et technologies</td><td>Chef/Cheffe de l’armement suppl. / Chef/Cheffe de domaine de compétence</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">f. Office fédéral de topographie (swisstopo)</td></tr>
+<tr><td>DIR</td><td>Directeur/trice de swisstopo</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Coordination, services et informations géographiques (COSIG)</td><td>Directeur/trice suppl. et responsable du domaine COSIG</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">g. Office fédéral de la protection de la population (OFPP)</td></tr>
+<tr><td>Direction</td><td>Directeur/trice de l’OFPP</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Division Ressources RES, direction</td><td>Chef/Cheffe Division Ressources / Chef/Cheffe Personnel, Directeur/trice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">h. Office fédéral du sport (OFSPO)</td></tr>
+<tr><td>DIR</td><td>Directeur/trice de l’OFSPO</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>PSAJ</td><td>Directeur/trice suppl. de l’OFSPO</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">i. Office fédéral de la cybersécurité (OFCS)</td></tr>
+<tr><td>Direction</td><td>Directeur/trice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>État-major de direction</td><td>Chef/Cheffe État-major de direction, directeur/trice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">j. Autorité de surveillance indépendante des activités de renseignement (AS-Rens)</td></tr>
+<tr><td></td><td>Chef/Cheffe AS-Rens.</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">k. Groupement Défense (D)</td></tr>
+<tr><td colspan="13">**État-major de l’armée (EM A)**</td></tr>
+<tr><td>EM A</td><td>CdA</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe EM A</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Planification de l’armée</td><td>Chef/Cheffe Planification de l’armée</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Relations internationales Défense</td><td>Chef/Cheffe Relations internationales D</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>AD (of. gén.)</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe délégation NNSC en Corée</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Of. gén. Centres de politique de paix et de sécurité, Genève</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Of. gén. Centre de politique de sécurité, Genève</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Personnel Défense / Pool D</td><td>OGA CdA</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Coll. engagements spéciaux / Cons. mil. chef/cheffe DDPS</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe de projet cdmt Cyber</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Of. gén. Centre de politique de sécurité, Genève</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Représentant/e mil. senior auprès de l’OTAN à Bruxelles</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>RISU</td><td>Chef/Cheffe RISU / Rempl. chef/cheffe EM A</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>EM CdA</td><td>Chef/Cheffe d’état-major du chef/de la cheffe de l’armée (CEM CdA)</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>EM Instruction opérative</td><td>Chef/Cheffe d’état-major de l’instruction opérative (CEMIO)</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">**Commandement des Opérations (Cdmt Op)**</td></tr>
+<tr><td>Chef cdmt Op</td><td>Chef/Cheffe cdmt Opérations</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Rempl chef cdmt Op</td><td>Rempl. chef/cheffe cdmt Opérations</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>CEM cdmt Op</td><td>CEM cdmt Opérations</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>RM & SPPA</td><td>Chef/Cheffe RM & SPPA</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Forces terrestres (FT)</td><td>Commandant/e FT</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Br méc 1</td><td>Commandant/e brigade mécanisée 1</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Br méc 4</td><td>Commandant/e brigade mécanisée 4</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Br méc 11</td><td>Commandant/e brigade mécanisée 11</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Div ter 1</td><td>Cdt div. ter. 1</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Rempl. cdt div. ter. 1 / Cdt PdG</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>CEM QG / Chef/Cheffe instr. div. ter. 1</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Cdt office de coordination 1</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Div ter 2</td><td>Commandant/e division territoriale 2</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Rempl. commandant/e div. ter. 2</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Div ter 3</td><td>Commandant/e division territoriale 3</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Rempl. commandant/e div. ter. 3</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Div ter 4</td><td>Commandant/e division territoriale 4</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Rempl. commandant/e div. ter. 4</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Forces aériennes (FA)</td><td>Cdt FA</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Rempl. cdt FA</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Cdmt br DSA 33</td><td>Commandant/e br. DSA 33</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Police militaire (PM)</td><td>Commandant/e PM</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>UNTSO</td><td>Chief of Staff</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>NNSC</td><td>Chef/Cheffe de délégation</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">**Base logistique de l’armée (BLA)**</td></tr>
+<tr><td>Direction</td><td>Chef/Cheffe BLA</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Développement et ress log</td><td>Chef/Cheffe développement et ress. log. / Rempl. chef/cheffe</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Affaires sanitaires</td><td>Chef/Cheffe Affaires sanitaires / Médecin en chef de l’armée</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">**Commandement Cyber (Cdmt Cyber)**</td></tr>
+<tr><td>Chef cdmt Cyber</td><td>Chef/Cheffe cdmt Cyber</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Br aide cdmt 41</td><td>Cdt br. aide cdmt 41</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">**Commandement de l’Instruction (Cdmt Instr)**</td></tr>
+<tr><td></td><td>Commandant/e École d’état-major général</td><td></td><td></td><td></td><td>×</td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e FSCA / Rempl. chef/cheffe Instruction</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e Académie militaire</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e École centrale</td><td></td><td></td><td></td><td>×</td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e FOAP aide cdmt</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e FOAP génie/sauv./NBC</td><td></td><td></td><td></td><td>×</td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e FOAP infanterie</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e FOAP logistique</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Commandant/e FOAP blindés/artillerie</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Personnel de l’armée, CEM Pers A</td><td>Chef/Cheffe Personnel de l’armée</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe cdmt Instruction / Rempl. CdA</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>CEM cdmt Instruction</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+</table>
+
+### VI. Département fédéral des finances (DFF)
+
+<table>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19 al. 2</th><th></th></tr>
+<tr><td colspan="13">a. Secrétariat général (SG-DFF)</td></tr>
+<tr><td>Direction</td><td>Secrétaire général/e</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>État-major</td><td>Secrétaire général/e suppl. / chef/cheffe division État-major</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">b. Secrétariat d’État aux questions financières internationales (SFI)</td></tr>
+<tr><td>Direction</td><td>Secrétaire d’État</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire d’État suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Représentant/Représentante de la Suisse au Conseil d’administration du FMI</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">c. Administration fédérale des finances (AFF)</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Trésorerie fédérale</td><td>Collaborateur/Collaboratrice Front Office Trésorerie</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur/Collaboratrice Back Office Trésorerie</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur/Collaboratrice Caisse d’épargne du personnel fédéral</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur/Collaboratrice Risk Control Trésorerie</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Finances et comptabilité de la Confédération</td><td>Chef/Cheffe Comptabilité centrale</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur/Collaboratrice Gestion des paiements</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Collaborateur/Collaboratrice Gestion de l’intégration (responsable des applications techniques)</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">**Swissmint**</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Systèmes de management</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Marketing et ventes</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Technique</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Swissmint</td><td>Spécialiste en administration et ventes</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Production d’outils</td><td>Spécialiste en design de pièces de monnaie et atelier de gravure</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste en production d’outils</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Production</td><td>Spécialiste en production</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">d. Office fédéral du personnel (OFPER)</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice de l’OFPER</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Gestion du personnel et controlling</td><td>Directeur/Directrice suppl., chef/cheffe Gestion du personnel et controlling</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Gestion du personnel</td><td>Chef/Cheffe Gestion du personnel et budgétisation</td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Service financier</td><td>Chef/Cheffe Service financier OFPER</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">e. Administration fédérale des contributions (AFC)</td></tr>
+<tr><td></td><td>Directeur/Directrice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>DAT</td><td>Chef/Cheffe de division principale, directeur/directrice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">f. Office fédéral de la douane et de la sécurité des frontières (OFDF)</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>État-major de direction</td><td>Chef/Cheffe État-major de direction</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>PP, direction du DD</td><td>Chef/Cheffe Planification et pilotage</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>SD, direction du DD</td><td>Chef/Cheffe Services numériques</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>SD, Exploitation informatique</td><td>Chef/Cheffe Exploitation informatique / COO</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>SD, Achitecture, sécurité de l’information et protection des données</td><td>Chef/Cheffe Achitecture, sécurité de l’information et protection des données</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Commissaire à la protection des données OFDF</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Préposé/Préposée à la sécurité de l’information OFDF</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Responsable de la cybersécurité</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Révision interne</td><td>Chef/Cheffe Révision interne</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bases, direction du DD</td><td>Chef/Cheffe Bases</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bases, Aide à la conduite</td><td>Chef/Cheffe Aide à la conduite</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bases, Sécurité de la frontière</td><td>Chef/Cheffe Sécurité de la frontière</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Sécurité des personnes et collaboration nationale en matière de sécurité</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Sécurité des personnes et collaboration nationale en matière de sécurité</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Sécurité des personnes et collaboration nationale en matière de sécurité</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Systèmes de contrôle aux frontières</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Systèmes de contrôle aux frontières</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Sécurité des marchandises</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert attaché/Experte attachée Frontex</td><td>×</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Contrôle de la frontière, migration et coopération internationale en matière de police</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Frontex</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Frontex</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Airline Liaison Officer (ALO)</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Bases, Circulation des marchandises</td><td>Chef/Cheffe Circulation des marchandises</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Accords de libre-échange et accords douaniers</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>ADR, direction du DD</td><td>Chef/Cheffe Analyse des données et des risques</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>ADR, Information et situation</td><td>Chef/Cheffe Information et situation</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Gestion de l’information</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Gestion de l’information</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Situation</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Situation</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Réseau de renseignements</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Attaché/Attachée OFDF</td><td>×</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Officier/Officière de liaison fedpol</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Officier/Officière de liaison Réseau de renseignements</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Officier/Officière de liaison SRC</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>ADR, Analyse des risques</td><td>Co-chef/Co-cheffe Analyse des risques et chef/cheffe Analyse des risques Niveau national</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Money</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Money</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Security</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Security</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Safety</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Safety</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Co-chef/Co-cheffe Analyse des risques et chef/cheffe Analyse des risques Niveaux régionaux</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Analyse des risques Niveau régional</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Analyse des risques Niveau régional</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Analyse des risques Niveau régional et suppl.</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Import Control System</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Import Control System</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>ADR, Service des données et analyses</td><td>Chef/Cheffe Service des données et analyses</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Données</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Données 1</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Données 2</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Données 3</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Personnes</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Personnes 1</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Personnes 2</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Données 4</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Analytics</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste des données</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste des données senior</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Ingénieur/Ingénieure des données senior</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Business Intelligence</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Business Intelligence</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Marchandises</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Marchandises 1</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Marchandises 2</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Marchandises 3</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Poursuites pénales, direction du DD</td><td>Chef/Cheffe Poursuites pénales</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Poursuites pénales, INVE</td><td>Chef/Cheffe Recherche d’informations et enquêtes préliminaires</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Expert/Experte Coopération douanière et policière</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Agent/Agente de liaison OFDF (Europol)</td><td>×</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Recherche d’informations</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Inspecteur/Inspectrice forensique numérique</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Inspecteur/Inspectrice OSINT et analyse de réseau</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Enquêtes préliminaires (Sud‑Ouest)</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Enquêtes préliminaires (Nord-Est)</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Inspecteur/Inspectrice Enquêtes préliminaires</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Poursuites pénales, MEK</td><td>Chef/Cheffe Commando d’engagement mobile (MEK) Helvetia</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. MEK</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Coordination d’engagement MEK</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe groupe MEK</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe d’équipe MEK</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste en observation MEK</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe groupe Technique MEK</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Technique MEK</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Poursuites pénales, Antifraude douanière</td><td>Chef/Cheffe Antifraude douanière</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Antifraude douanière et suppl.</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Assistant/Assistante Antifraude douanière</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Groupe d’enquêtes Antifraude douanière</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Groupe d’enquêtes Antifraude douanière et suppl.</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Inspecteur/Inspectrice Antifraude douanière</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>SOUT, direction du DD</td><td>Chef/Cheffe Soutien</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>SOUT, Infrastructure</td><td>Chef/Cheffe Gestion des documents</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Spécialiste Gestion des documents</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>OP, niveau de la direction</td><td>Chef/Cheffe Opérations</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe État-major Opérations</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Coordinateur/Coordinatrice Opérations Tiger/Fox</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Coordinateur/Coordinatrice Opérations Frontex</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe Engagements Opérations</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>OP, Niveau régional</td><td>Chef/Cheffe Niveau régional</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>OP, Niveau local</td><td>Chef/Cheffe Niveau local</td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">g. Office fédéral de l’informatique et de la télécommunication (OFIT)</td></tr>
+<tr><td>État-major de direction</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Strategy & Innovation</td><td>Directeur/Directrice suppl., chef/cheffe</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">h. Office fédéral des constructions et de la logistique (OFCL)</td></tr>
+<tr><td>RH</td><td>Directeur/Directrice de l’OFCL</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Gestion du portefeuille</td><td>Directeur/Directrice suppl., responsable Constructions</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">i. Contrôle fédéral des finances (CDF)</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td colspan="13">j. PUBLICA</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice suppl.</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Comptabilité</td><td>Spécialiste Comptabilité</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. Comptabilité</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Immobilier</td><td>Chef/Cheffe Immobilier</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Gestionnaire de portefeuille</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. Immobilier</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Operations, Risk & Compliance</td><td>Collaborateur spécialisé/Collaboratrice spécialisée ORC</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. ORC</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Gestion de portefeuille</td><td>Gestionnaire de portefeuille</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Gestionnaire de portefeuille senior</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Private Markets</td><td>Spécialiste Private Markets</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Asset Management</td><td>Chef/Cheffe Asset Management</td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td>×</td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe suppl. Asset Management</td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td>×</td><td></td></tr>
+</table>
+
+### VII. Département fédéral de l’économie, de la formation et de la recherche (DEFR)
+
+<table>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19 al. 2</th><th></th></tr>
+<tr><td colspan="13">a. Secrétariat général (SG-DEFR)</td></tr>
+<tr><td>SG-DEFR</td><td>Secrétaire général/générale</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire général/générale suppl., ressources</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire général/générale suppl., état‑major</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">b. Secrétariat d’État à l’économie (SECO)</td></tr>
+<tr><td>Direction</td><td>Secrétaire d’État</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire d’État suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>SECO</td><td>Détaché/Détachée</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td></tr>
+<tr><td colspan="13">c. Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)</td></tr>
+<tr><td></td><td>Secrétaire d’État</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire d’État suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Chef/Cheffe de la division Organisations et programmes internationaux</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de la division Affaires spatiales</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de l’unité Politique spatiale et affaires administratives</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de l’unité Sciences et innovation espace</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Chef/Cheffe de l’unité Affaires spatiales internationales</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Conseiller/Conseillère scientifique et responsable de programme de la division Affaires spatiales</td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Détaché/Détachée</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">d. Office fédéral de l’agriculture (OFAG) / Agroscope</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Personnes travaillant en permanence à l’étranger pour l’OFAG</td><td>×</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="13">e. Office fédéral pour l’approvisionnement économique du pays (OFAE)</td></tr>
+<tr><td>Approvisionnement économique du pays AEP</td><td>Délégué/Déléguée</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Délégué/Déléguée suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">f. Office fédéral du logement (OFL)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">g. Office fédéral du service civil (CIVI)</td></tr>
+<tr><td>Direction</td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td>Unité de direction Exécution</td><td>Directeur/Directrice d’office suppl., Chef/cheffe de l’unité de direction Exécution</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">h. Domaine des EPF</td></tr>
+<tr><td>Conseil des EPF</td><td>Président/Présidente</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>EPFZ</td><td>Président/Présidente</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>EPFL</td><td>Président/Présidente</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>PSI</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>Empa</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>WSL</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+<tr><td>Eawag</td><td>Directeur/Directrice</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td></tr>
+</table>
+
+### VIII. Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC)
+
+<table>
+<tr><th>Unité administrative</th><th>Fonction</th><th colspan="3">CSB art. 11, al. 1, OCSP</th><th colspan="6">CSE art. 11, al. 2, OCSP</th><th>Audition</th><th>CSP ChF</th></tr>
+<tr><th></th><th></th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. a</th><th>let. b</th><th>let. c</th><th>let. d</th><th>let. e</th><th>let. f</th><th>art. 19 al. 2</th><th></th></tr>
+<tr><td colspan="13">a. Secrétariat général (SG-DETEC)</td></tr>
+<tr><td></td><td>Secrétaire général/e</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td>×</td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Secrétaire général/e suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td>×</td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">b. Office fédéral des routes (OFROU)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">c. Office fédéral des transports (OFT)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">d. Office fédéral de l’aviation civile (OFAC)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">e. Office fédéral de l’énergie (OFEN)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">f. Office fédéral de l’environnement (OFEV)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td colspan="13">g. Office fédéral de la communication (OFCOM)</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office</td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+<tr><td></td><td>Directeur/Directrice d’office suppl.</td><td></td><td></td><td></td><td></td><td>×</td><td></td><td></td><td></td><td></td><td>×</td><td>×</td></tr>
+</table>
+
+Annexe 4[^t-3]
 
 (art. 3, al. 2, let. a)
 
 ## Fonctions de l’armée requérant un contrôle de sécurité relatif aux personnes visé dans la LSI
 
-[^t-2]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le texte de la présente annexe n’est pas publié dans le RO.
+[^annex4-lvlu1-1]
+
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 1<sup>er</sup> oct. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 601](https://fedlex.data.admin.ch/eli/oc/2025/601)).
+[^annex4-lvlu1-1]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), le texte de la présente annexe n’est pas publié dans le RO.
 
 Cette liste n’est pas publiée
 
@@ -1082,13 +1434,13 @@ Annexe 5
 <tr><td></td><td>Attaché de défense & suppl.</td><td>x</td><td></td></tr>
 </table>
 
-Annexe 6[^t-3]
+Annexe 6[^t-4]
 
 (art. 3, al. 3)
 
 ## Fonctions visées à l’art. 20*a*, al. 1, LApEl
 
-[^t-3]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le texte de la présente annexe n’est pas publié dans le RO.
+[^t-4]: En application de l’art. 6 de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), le texte de la présente annexe n’est pas publié dans le RO.
 
 Cette liste n’est pas publiée
 
@@ -1261,29 +1613,29 @@ I
 
 Sont abrogées:
 
-- 1\. l’ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-1];
-- 2\. l’ordonnance de la Chancellerie fédérale du 30 novembre 2011 sur les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-2];
-- 3\. l’ordonnance du DEFR du 2 novembre 2011 sur les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-3];
-- 4\. l’ordonnance du DDPS du 12 mars 2012 concernant les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-4];
-- 5\. l’ordonnance du DFAE du 14 août 2012 sur les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-5];
-- 6\. l’ordonnance du DETEC du 15 février 2013 sur les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-6];
-- 7\. l’ordonnance du DFJP du 26 juin 2013 sur les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-7];
-- 8\. l’ordonnance du DFI du 12 août 2013 sur les contrôles de sécurité relatifs aux personnes[^annex8-lvlu1-8];
-- 9\. l’ordonnance du 9 juin 2006 sur les contrôles de sécurité relatifs aux personnes dans le domaine des installations nucléaires[^annex8-lvlu1-9].
+- 1\. l’ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-1];
+- 2\. l’ordonnance de la Chancellerie fédérale du 30 novembre 2011 sur les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-2];
+- 3\. l’ordonnance du DEFR du 2 novembre 2011 sur les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-3];
+- 4\. l’ordonnance du DDPS du 12 mars 2012 concernant les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-4];
+- 5\. l’ordonnance du DFAE du 14 août 2012 sur les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-5];
+- 6\. l’ordonnance du DETEC du 15 février 2013 sur les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-6];
+- 7\. l’ordonnance du DFJP du 26 juin 2013 sur les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-7];
+- 8\. l’ordonnance du DFI du 12 août 2013 sur les contrôles de sécurité relatifs aux personnes[^annex7-lvlu1-8];
+- 9\. l’ordonnance du 9 juin 2006 sur les contrôles de sécurité relatifs aux personnes dans le domaine des installations nucléaires[^annex7-lvlu1-9].
 
 II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-…[^annex8-lvlu1-10]
+…[^annex7-lvlu1-10]
 
-[^annex8-lvlu1-1]: [[RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155), [5903](https://fedlex.data.admin.ch/eli/oc/2011/817)ch. III 1; [2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171), [3631](https://fedlex.data.admin.ch/eli/oc/2012/418)ch. I 1, [3765](https://fedlex.data.admin.ch/eli/oc/2012/429), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 ch. 1, [6669](https://fedlex.data.admin.ch/eli/oc/2012/808)art. 25 ch. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 1; [2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)ch. II; [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)annexe ch. 1; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 1, [4231](https://fedlex.data.admin.ch/eli/oc/2017/497)annexe ch. 1; [2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)annexe ch. 1; [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589); [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)annexe 2 ch. II 1, [698](https://fedlex.data.admin.ch/eli/oc/2022/698)annexe 10 ch. II 1; [2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)annexe ch. 1]
-[^annex8-lvlu1-2]: [[RO 2011 6077](https://fedlex.data.admin.ch/eli/oc/2011/838); [2022 118](https://fedlex.data.admin.ch/eli/oc/2022/118)]
-[^annex8-lvlu1-3]: [[RO 2011 4999](https://fedlex.data.admin.ch/eli/oc/2011/726); [2013 1335](https://fedlex.data.admin.ch/eli/oc/2013/311)]
-[^annex8-lvlu1-4]: [[RO 2012 1161](https://fedlex.data.admin.ch/eli/oc/2012/172), [1597](https://fedlex.data.admin.ch/eli/oc/2012/229)]
-[^annex8-lvlu1-5]: [[RO 2012 4241](https://fedlex.data.admin.ch/eli/oc/2012/505)]
-[^annex8-lvlu1-6]: [[RO 2013 765](https://fedlex.data.admin.ch/eli/oc/2013/153)]
-[^annex8-lvlu1-7]: [[RO 2013 2633](https://fedlex.data.admin.ch/eli/oc/2013/531)]
-[^annex8-lvlu1-8]: [[RO 2013 2675](https://fedlex.data.admin.ch/eli/oc/2013/545)]
-[^annex8-lvlu1-9]: [[RO 2006 2481](https://fedlex.data.admin.ch/eli/oc/2006/379); [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 16; [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)annexe 3 ch. 6]
-[^annex8-lvlu1-10]: Les mod. peuvent être consultées au [RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736).
+[^annex7-lvlu1-1]: [[RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155), [5903](https://fedlex.data.admin.ch/eli/oc/2011/817)ch. III 1; [2012 1153](https://fedlex.data.admin.ch/eli/oc/2012/171), [3631](https://fedlex.data.admin.ch/eli/oc/2012/418)ch. I 1, [3765](https://fedlex.data.admin.ch/eli/oc/2012/429), [5527](https://fedlex.data.admin.ch/eli/oc/2012/638)art. 15 ch. 1, [6669](https://fedlex.data.admin.ch/eli/oc/2012/808)art. 25 ch. 1; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 1; [2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)ch. II; [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)annexe ch. 1; [2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)annexe 4 ch. II 1, [4231](https://fedlex.data.admin.ch/eli/oc/2017/497)annexe ch. 1; [2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)annexe ch. 1; [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589); [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)annexe 2 ch. II 1, [698](https://fedlex.data.admin.ch/eli/oc/2022/698)annexe 10 ch. II 1; [2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)annexe ch. 1]
+[^annex7-lvlu1-2]: [[RO 2011 6077](https://fedlex.data.admin.ch/eli/oc/2011/838); [2022 118](https://fedlex.data.admin.ch/eli/oc/2022/118)]
+[^annex7-lvlu1-3]: [[RO 2011 4999](https://fedlex.data.admin.ch/eli/oc/2011/726); [2013 1335](https://fedlex.data.admin.ch/eli/oc/2013/311)]
+[^annex7-lvlu1-4]: [[RO 2012 1161](https://fedlex.data.admin.ch/eli/oc/2012/172), [1597](https://fedlex.data.admin.ch/eli/oc/2012/229)]
+[^annex7-lvlu1-5]: [[RO 2012 4241](https://fedlex.data.admin.ch/eli/oc/2012/505)]
+[^annex7-lvlu1-6]: [[RO 2013 765](https://fedlex.data.admin.ch/eli/oc/2013/153)]
+[^annex7-lvlu1-7]: [[RO 2013 2633](https://fedlex.data.admin.ch/eli/oc/2013/531)]
+[^annex7-lvlu1-8]: [[RO 2013 2675](https://fedlex.data.admin.ch/eli/oc/2013/545)]
+[^annex7-lvlu1-9]: [[RO 2006 2481](https://fedlex.data.admin.ch/eli/oc/2006/379); [2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 16; [2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)annexe 3 ch. 6]
+[^annex7-lvlu1-10]: Les mod. peuvent être consultées au [RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736).
