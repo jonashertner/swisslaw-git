@@ -4,13 +4,13 @@ number: "730.100"
 title: Bau- und Planungsgesetz
 short: BPG
 language: de
-version: 2025-02-17
-valid_until: 2025-10-31
-version_adopted: 2024-05-15
+version: 2025-11-01
+valid_until: 2026-08-17
+version_adopted: 2024-12-11
 adopted: 1999-11-17
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6566/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6680/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsgesetz | Hochbauten
 
 (BPG)
 
-Vom 17. November 1999 (Stand 17. Februar 2025)
+Vom 17. November 1999 (Stand 1. November 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -2128,7 +2128,7 @@ In den Zonen 2 und 2a 8 m
 - a) soweit sie für den Verkehr nötig sind;
 - b) soweit es technisch und betrieblich möglich und wirtschaftlich tragbar ist.
 
-<sup>2</sup> Zur Grundstückserschliessung nötige Trottoirs, Wege und vom Fussgängerverkehr beanspruchte Randzonen von Strassen und Plätzen sind von den Eigentümerinnen und Eigentümern der angrenzenden Grundstücke gangbar zu machen und nach dem Auftauen von Streumittelresten zu befreien. Zuwiderhandlungen werden mit Busse bestraft.
+<sup>2</sup> Der Winterdienst des Kantons beschränkt sich auf die Freihaltung der Fahrbahnen der Kantonsstrassen. Die Gemeinden sind zur Schneeräumung und zur Glatteisbekämpfung auf den Trottoirs an Kantonsstrassen innerhalb des Baugebietes verpflichtet. Die Abfuhr des Schnees von Fahrbahnen und Trottoirs ist Sache der Gemeinden. Die Gemeinden können die Schneeräumung und Glatteisbekämpfung auf den Trottoirs durch Gemeindereglement den Anstösserinnen und Anstössern überbinden.
 
 <sup>3</sup> Gefahren und Verunreinigungen auf Strassen hat zu beseitigen, wer sie verursacht hat.
 
