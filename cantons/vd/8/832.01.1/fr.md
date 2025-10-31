@@ -4,7 +4,7 @@ number: "832.01.1"
 title: "RÈGLEMENT du 18.09.1996 concernant la loi du 25 juin 1996 d'application vaudoise de la loi fédérale sur l'assurance-maladie (RLVLAMal)"
 short: RLVLAMal
 language: fr
-version: 2019-01-01
+version: 2025-11-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01.1?id=46700a0c-559b-4844-b64a-1496d6a0ba61"
 ---
 
@@ -503,9 +503,9 @@ arrête
 
 **Naissance du droit au subside et décision d'octroi (art. 15 et 21 loi) [^chapterChapitreIII-2]**
 
-<sup>1</sup> Le droit au subside prend naissance le premier jour du mois suivant celui où la demande de subside est déposée, sous réserve de l'alinéa 1bis. Lorsque le requérant établit avoir été empêché sans sa faute de déposer plus tôt sa demande, ou lorsqu'il dépose sa demande à la suite d'une information périodique au sens de l'article 10 de la loi, il peut être accordé exceptionnellement un subside avec effet rétroactif, mais au plus tôt dès le début de la période de subside en cours.
+<sup>1</sup> Le droit au subside prend naissance le premier jour du deuxième mois suivant celui où la demande de subside est déposée, sous réserve de l'alinéa 1bis. Lorsque le requérant établit avoir été empêché sans sa faute de déposer plus tôt sa demande, ou lorsqu'il dépose sa demande à la suite d'une information périodique au sens de l'article 10 de la loi, il peut être accordé exceptionnellement un subside avec effet rétroactif, mais au plus tôt dès le début de la période de subside en cours.
 
-<sup>1bis</sup> Lorsqu'une personne devient bénéficiaire de l'une des catégories particulières de subside au sens de l'article 18, alinéas 1, lettre b et 2 de la loi [^25-1] , le droit au subside prend naissance le premier jour du mois au cours duquel la modification de la condition de l'assuré donnant droit au subside est survenue.
+<sup>1bis</sup> Lorsqu'une personne devient bénéficiaire de l'une des catégories particulières de subside au sens de l'article 18, alinéa 1 et 2 de la loi, le droit au subside prend naissance le premier jour du mois au cours duquel la modification de la condition de l'assuré donnant droit au subside est survenue.
 
 <sup>2</sup> …
 
@@ -513,12 +513,11 @@ arrête
 
 <sup>4</sup> Le requérant en provenance d'un autre canton au cours de l'année ne peut bénéficier d'un subside pour l'année considérée, à moins qu'il bénéficie de prestations complémentaires à l'AVS/AI ou du revenu d'insertion.
 
-[^chapterChapitreIII-2]: Modif. 6 du 01.05.2013: Modification Al. t,1; entrée en vigueur au 01.01.2012; Introduction Al. 3-4; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016; Abrogation Al. 2; entrée en vigueur au 01.12.2016 · Modif. 10 du 09.05.2018: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 12 du 01.10.2025: Modification Al. 1,1bis; entrée en vigueur au 01.11.2025; Introduction Art. 28, Al. 4; entrée en vigueur au 01.11.2025; Introduction Art. 33b; entrée en vigueur au 01.11.2025 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1,4; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
-[^25-1]: Loi du 25.06.1996 d'application vaudoise de la loi fédérale du 18.03.1994 sur l'assurance-maladie ([BLV 832.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01?id=604dfd14-925f-4149-ba81-bf2d4ecb9284))
+[^chapterChapitreIII-2]: Modif. 6 du 01.05.2013: Modification Al. t,1; entrée en vigueur au 01.01.2012; Introduction Al. 3-4; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016; Abrogation Al. 2; entrée en vigueur au 01.12.2016 · Modif. 10 du 09.05.2018: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 12 du 01.10.2025: Modification Al. 1,1bis; entrée en vigueur au 01.11.2025 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1,4; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
 
 #### Art. 25a
 
-**Modification en cours d'année (art. 21a loi) [^25-2]**
+**Modification en cours d'année (art. 21a loi) [^25-1]**
 
 <sup>1</sup> Toute modification du droit au subside entraînant une augmentation du montant de ce dernier prend effet le premier jour du mois suivant celui où le requérant en a fait la demande, sous réserve de l'alinéa 1bis.
 
@@ -526,7 +525,7 @@ arrête
 
 <sup>2</sup> Toute modification entraînant une réduction du montant du subside prend effet le premier jour du mois qui suit le nouvel état de fait modifiant le droit au subside.
 
-[^25-2]: Modif. 6 du 01.05.2013: Introduction Art. 25a; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1-2; entrée en vigueur au 01.01.2027; Introduction Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
+[^25-1]: Modif. 6 du 01.05.2013: Introduction Art. 25a; entrée en vigueur au 01.01.2012 · Modif. 9 du 28.09.2016: Modification Al. 1; entrée en vigueur au 01.12.2016; Introduction Al. 1bis; entrée en vigueur au 01.12.2016 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Modification tArt; entrée en vigueur au 01.01.2027; Modification Al. 1-2; entrée en vigueur au 01.01.2027; Introduction Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
 [^25a-1]: Loi du 25.06.1996 d'application vaudoise de la loi fédérale du 18.03.1994 sur l'assurance-maladie ([BLV 832.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01?id=604dfd14-925f-4149-ba81-bf2d4ecb9284))
 
 #### Art. 26
@@ -553,13 +552,15 @@ arrête
 
 **Montant de la prime subsidiable (art. 16 loi) [^27-1]**
 
-<sup>1</sup> A réception du prononcé d'octroi d'un subside, l'assureur communique sans retard à l'OVAM le montant de la prime subsidiable, ainsi que toute modification ultérieure de celle-ci. En outre, il communique également toute modification d'éléments figurant sur la décision de l'OVAM.
+<sup>1</sup> A réception de la décision d'octroi de subside, l'assureur transmet sans retard à l'OVAM le montant de la prime approuvée par l'Office fédéral de la santé publique (OFSP) et celui du versement de compensation résultant d'une réduction volontaire de ses réserves. L'assureur communique aussi toute modification ultérieure de ces montants et d'éléments figurant sur la décision de l'OVAM.
 
 <sup>2</sup> S'il appert qu'un subside a été accordé à tort par l'OVAM, sans faute de l'assuré, la rectification est faite, en principe, pour les seules primes futures. Cette rectification intervient dès le mois qui suit la connaissance de ce fait.
 
-<sup>3</sup> Les taxes fédérales redistribuées à la population par l'intermédiaire des assureurs ne sont pas déduites de la prime subsidiable communiquée à l'OVAM.
+<sup>3</sup> Les taxes fédérales redistribuées à la population par l'intermédiaire des assureurs ne sont pas déduites de la prime communiquée à l'OVAM par l'assureur.
 
-[^27-1]: Modif. 1 du 10.09.2001: Modification Al. 1; entrée en vigueur au 01.01.2002 · Modif. 6 du 01.05.2013: Modification Al. 1,2; entrée en vigueur au 01.01.2012; Introduction Al. 3; entrée en vigueur au 01.01.2012 · Modif. 12 du 01.10.2025: Modification Al. 1,3; entrée en vigueur au 01.11.2025; Introduction Al. 4; entrée en vigueur au 01.11.2025; Introduction Art. 33b; entrée en vigueur au 01.11.2025
+<sup>4</sup> La prime subsidiable correspond à la prime facturée par l'assureur, soit après les déductions et les versements de compensation opérés par l'assureur.
+
+[^27-1]: Modif. 1 du 10.09.2001: Modification Al. 1; entrée en vigueur au 01.01.2002 · Modif. 6 du 01.05.2013: Modification Al. 1,2; entrée en vigueur au 01.01.2012; Introduction Al. 3; entrée en vigueur au 01.01.2012 · Modif. 12 du 01.10.2025: Modification Al. 1,3; entrée en vigueur au 01.11.2025; Introduction Al. 4; entrée en vigueur au 01.11.2025
 
 #### Art. 29
 
@@ -705,6 +706,14 @@ arrête
 <sup>3</sup> Les créances dues qui concernent une période d'assurance antérieure à l'entrée du bénéficiaire dans le régime du revenu d'insertion font partie du décompte au sens de l'alinéa 1.
 
 [^33-1]: Modif. 10 du 09.05.2018: Introduction Art. 33a; entrée en vigueur au 01.01.2018
+
+#### Art. 33b
+
+**Disposition transitoire de la modification du 1 octobre 2025 [^33a-1]**
+
+<sup>1</sup> Pour les demandes de subside déposées jusqu'au 31 octobre 2025, le droit au subside prend naissance le premier jour du mois suivant celui où la demande de subside est déposée, sous réserve de l'article 25, alinéa 1bis. Pour les demandes de subside déposées dès le 1<sup>er</sup> novembre 2025, le nouveau droit s'applique.
+
+[^33a-1]: Modif. 12 du 01.10.2025: Introduction tArt; entrée en vigueur au 01.11.2025; Introduction Al. 1; entrée en vigueur au 01.11.2025; Introduction Art. 33b; entrée en vigueur au 01.11.2025 · Modif. 13 du 07.10.2026: Introduction Art. 17, Al. 2-3; entrée en vigueur au 01.01.2027; Introduction Art. 21a; entrée en vigueur au 01.01.2027; Introduction Art. 21b; entrée en vigueur au 01.01.2027; Introduction Art. 21c; entrée en vigueur au 01.01.2027; Introduction Art. 21d; entrée en vigueur au 01.01.2027; Introduction Art. 22a; entrée en vigueur au 01.01.2027; Introduction Art. 24b; entrée en vigueur au 01.01.2027; Introduction Art. 25a, Al. 3; entrée en vigueur au 01.01.2027; Introduction Art. 25b; entrée en vigueur au 01.01.2027; Abrogation tArt; entrée en vigueur au 01.01.2027; Abrogation Al. 1; entrée en vigueur au 01.01.2027; Introduction Art. 33c; entrée en vigueur au 01.01.2027
 
 ## Titre III Dispositions finales
 
