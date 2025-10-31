@@ -4,13 +4,13 @@ number: "610.11"
 title: Ausführungsreglement zum Gesetz über den Finanzhaushalt des Staates
 short: FHR
 language: de
-version: 2024-12-01
-valid_until: 2025-10-31
-version_adopted: 2024-12-10
+version: 2025-11-01
+valid_until: 2025-12-31
+version_adopted: 2025-10-06
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8094/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8264/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Finanzhaushalt des Staates – R
 
 (FHR)
 
-vom 12.03.1996 (Fassung in Kraft getreten am 01.12.2024)
+vom 12.03.1996 (Fassung in Kraft getreten am 01.11.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -518,6 +518,12 @@ beschliesst:
 - a) vom Staatsrat, wenn der Betrag 100'000 Franken übersteigt;
 - b) von den Direktionen sowie Anstalten, wenn der Betrag zwischen 50'000 und 100'000 Franken liegt;
 - c) von den Dienststellen, wenn der Betrag 50'000 Franken nicht übersteigt.
+
+<sup>2</sup> Werden Investitionsausgaben im Rahmen eines Projekts getätigt, für das der Grosse Rat einen Verpflichtungskredit genehmigt hat, so obliegen die Vergabeentscheidungen grundsätzlich der zuständigen Dienststelle. In den folgenden Fällen müssen sie jedoch vorab vom Staatsrat genehmigt werden:
+
+- a) Vergaben von Liefer- und Dienstleistungsaufträgen ab 500'000 Franken inkl. MwSt;
+- b) Vergaben von Bauaufträgen ab 2'000'000 Franken inkl. MwSt;
+- c) Nachträge oder kumulierte Nachträge, die zu einer Überschreitung des ursprünglich vergebenen Betrags um mehr als 50 % führen.
 
 #### Art. 30
 

@@ -4,13 +4,13 @@ number: "610.11"
 title: "Règlement d'exécution de la loi sur les finances de l'Etat"
 short: RFE
 language: fr
-version: 2024-12-01
-valid_until: 2025-10-31
-version_adopted: 2024-12-10
+version: 2025-11-01
+valid_until: 2025-12-31
+version_adopted: 2025-10-06
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8094/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8264/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Finances de l'Etat – R
 
 (RFE)
 
-du 12.03.1996 (version entrée en vigueur le 01.12.2024)
+du 12.03.1996 (version entrée en vigueur le 01.11.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -518,6 +518,12 @@ Arrête:
 - a) au Conseil d'Etat, lorsque la somme est supérieure à 100'000 francs;
 - b) aux Directions et établissements lorsque la somme est supérieure à 50'000 et égale ou inférieure à 100'000 francs;
 - c) aux services, lorsque la somme est égale ou inférieure à 50'000 francs.
+
+<sup>2</sup> Lorsque les dépenses d'investissement sont effectuées dans le cadre d'un projet bénéficiant d'un crédit d'engagement octroyé par le Grand Conseil, les décisions d'adjudication appartiennent en principe au service compétent. Toutefois, elles doivent être soumises à la validation préalable du Conseil d'Etat dans les cas suivants:
+
+- a) adjudications de marchés de fournitures et de services dès 500'000 francs TTC;
+- b) adjudications de marchés de construction dès 2'000'000 francs TTC;
+- c) avenants ou avenants cumulés entraînant un dépassement de plus de 50 % du montant initialement adjugé.
 
 #### Art. 30
 
