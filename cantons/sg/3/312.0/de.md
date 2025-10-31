@@ -4,13 +4,12 @@ number: "312.0"
 title: Verordnung über die Ausübung der medizinischen Berufe
 short: VMB
 language: de
-version: 2023-03-01
-valid_until: 2025-10-31
-version_adopted: 2022-12-20
+version: 2025-11-01
+version_adopted: 2025-09-23
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.0"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3436/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3808/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3436/pdf_file"
 
 (VMB)
 
-vom 21.06.2011 (Stand 01.03.2023)
+vom 21.06.2011 (Stand 01.11.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -140,6 +139,26 @@ als Verordnung:[^ingress-3]
 <sup>3</sup> Die Vollzugsbehörde bescheinigt das Vorliegen der Voraussetzungen für die zeitlich begrenzte selbständige Berufsausübung.
 
 [^8-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
+
+#### Art. 8a
+
+**Überbrückungsbewilligung**
+
+<sup>1</sup> Wer über einen ausländischen Bildungsabschluss oder Weiterbildungstitel für einen medizinischen Beruf verfügt, kann eine Überbrückungsbewilligung zum Ausüben des Berufs unter fachlicher Aufsicht erhalten.
+
+<sup>2</sup> Die Überbrückungsbewilligung wird für höchstens zwei Jahre erteilt. Eine Verlängerung ist ausgeschlossen.
+
+<sup>3</sup> Die Erteilung der Überbrückungsbewilligung setzt voraus, dass die Gesuchstellerin oder der Gesuchsteller:
+
+- a) im Register nach [Art. 51](https://db.clex.ch/link/Bund/811.11/de) des Bundesgesetzes über die universitären Medizinalberufe vom 23. Juni 2006[^8a-1] eingetragen ist;
+- b) bei der zuständigen schweizerischen Stelle[^8a-2] ein Gesuch um Anerkennung des ausländischen Bildungsabschlusses oder Weiterbildungstitels eingereicht hat und dieses nicht offensichtlich aussichtslos ist;
+- c) vertrauenswürdig ist;
+- d) physisch und psychisch Gewähr für eine einwandfreie Berufsausübung unter Aufsicht bietet;
+- e) genügende Kenntnisse der deutschen Sprache hat;
+- f) von einer Person fachlich beaufsichtigt wird, die eine Berufsausübungsbewilligung für den entsprechenden Beruf hat.
+
+[^8a-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de); abgekürzt MedBG.
+[^8a-2]: Medizinalberufekommission, vgl. Art. [21](https://db.clex.ch/link/Bund/811.11/de) Abs. 3 MedBG.
 
 #### Art. 9
 
