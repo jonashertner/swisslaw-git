@@ -4,13 +4,12 @@ number: "780.300"
 title: Verordnung über den Mobilitätsfonds
 short: Mobilitätsfondsverordnung
 language: de
-version: 2023-07-06
-valid_until: 2025-10-31
-version_adopted: 2023-06-27
+version: 2025-11-01
+version_adopted: 2025-10-14
 adopted: 2023-06-27
 in_force: 2023-07-06
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/780.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6049/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6665/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6049/pdf_file"
 
 (Mobilitätsfondsverordnung)
 
-Vom 27. Juni 2023 (Stand 6. Juli 2023)
+Vom 27. Juni 2023 (Stand 1. November 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -36,6 +35,8 @@ beschliesst:
 **Zweck des Mobilitätsfonds**
 
 <sup>1</sup> Mit Mitteln aus dem Mobilitätsfonds können im Perimeter der trinationalen Agglomeration Basel[^1-1] Projekte und Projektideen zugunsten einer umweltfreundlichen Mobilität mitfinanziert werden.
+
+<sup>1<sup>bis</sup></sup> Fondsmittel können subsidiär für die Mitfinanzierung von Anwohnendenparkplätzen in Quartierparkings verwendet werden.
 
 <sup>2</sup> Es können Beiträge an Planungs-, Investitions- und Betriebskosten geleistet werden.
 
@@ -78,6 +79,16 @@ beschliesst:
 <sup>1</sup> Die Beitragshöhe richtet sich nach dem erwarteten Nutzen für das Gesamtverkehrssystem im Kanton.
 
 <sup>2</sup> Bei Projekten zur Verkehrsvermeidung können bis zu 60 %, bei Projekten zur Verkehrsverlagerung auf umweltfreundliche Verkehrsmittel und Fortbewegungsarten bis zu 40 % und bei Projekten zur Verkehrsverbesserung bis zu 20 % der Gesamtkosten mitfinanziert werden.
+
+#### § 6a
+
+**Höhe der Beiträge an Anwohnendenparkplätze in Quartierparkings**
+
+<sup>1</sup> Die Beitragshöhe richtet sich nach den zu erwartenden Kosten und Erlösen und soll einen wirtschaftlichen Betrieb ermöglichen.
+
+<sup>2</sup> Anwohnendenparkplätze in Quartierparkings können bis maximal 40 % der Erstellungskosten mitfinanziert werden.
+
+<sup>3</sup> Aus den gesamten Einnahmen des Mobilitätsfonds dürfen maximal 25 % für die Mitfinanzierung von Anwohnendenparkplätzen in Quartierparkings verwendet werden.
 
 ## 3. Projekte Basel-Stadt
 
