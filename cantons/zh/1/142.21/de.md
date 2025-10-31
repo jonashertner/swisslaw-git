@@ -3,11 +3,10 @@ canton: ZH
 number: "142.21"
 title: Ausländerrechtliche Gebührenordnung
 language: de
-version: "2020-02-01"
-nachtrag: "108"
-valid_until: 2025-11-01
+version: "2025-11-01"
+nachtrag: "131"
 adopted: 2011-01-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-142_21-2011_01_07-2011_01_24-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-142_21-2011_01_07-2011_01_24-131.html"
 text: pdf
 ---
 
@@ -37,7 +36,7 @@ verfügt:
 
 **1**
 
-- 1\. 4. 20 - 108 Auslagen/Spesen
+- 1\. 1. 26 - 131 Auslagen/Spesen
 
 **1.614**
 
@@ -73,9 +72,11 @@ Herabsetzung und Erlass von Gebühren 1.9.1 Allgemeines In begründeten Fällen 
 
 <sup>1</sup> Gebührenfreie Bewilligungen erhalten 1.9.2.1 Inhaber eines Diplomaten-, Dienst- oder Sonderpasses, ohne Rücksicht auf den Aufenthalts- oder Reisezweck.
 
+**1.9.3**
+
 1.9.2.2 Bundesstipendiaten oder Stipendiaten internationaler Organisationen und der bilateralen oder multilateralen technischen Zusammenarbeit (vgl. Art. 13 Abs. 1 lit. d–f GebV-AIG[^t-3]. 1.9.2.3 Arbeitskräfte im freiwilligen Landdienst, sofern die Vermittlung durch Agriviva, Postfach 1538, 8401 Winterthur, erfolgt.
 
-1.9.2.4 Personen, die in offizieller Mission in die Schweiz kommen (z. B. Angehörige ausländischer Verwaltungen für die Dauer der dienstlichen Tätigkeit, wie Abnahmebeamte, Lehrer mit dem ausdrücklichen Auftrag, Kinder von ausländischen Arbeitskräften gleicher Staatsangehörigkeit, die in die Schweiz zugezogen sind, zu unterrichten usw.). Ihre Ehegatten und ledigen Kinder unter 18 Jahren sind von den Gebühren befreit, wenn sie keiner Erwerbstätigkeit nachgehen.
+1.9.2.4[^t-6] Personen, die in offizieller Mission in die Schweiz kommen (z.B. Angehörige ausländischer Verwaltungen für die Dauer der dienstlichen Tätigkeit). Ihre Ehegatten und ledigen Kinder unter 18 Jahren sind von den Gebühren befreit, wenn sie keiner Erwerbstätigkeit nachgehen.
 
 1.9.2.5 Neueingereiste Asylsuchende in den ersten sechs Monaten.
 
@@ -91,9 +92,9 @@ eingetragener Partnerschaft leben.
 
 mäss Ziff. 2.1 nachstehend vorliegt.
 
-<sup>2</sup> Die Gebührenbefreiung bezieht sich auf die Bewilligungsgebühr (Ziff. 2) und die Erfassung der Daten für den Ausländerausweis (Ziff. 5.2). Personen, die einen Ausländerausweis in Kreditkartenformat erhalten, haben die Gebühr für die Ausstellung des Ausländerausweises (Ziff. 5.1) sowie die Zustellungsgebühr (Ziff. 5.11.6) zu entrichten.[^t-3]
+<sup>2</sup> Die Gebührenbefreiung bezieht sich auf die Bewilligungsgebühr (Ziff. 2) und die Erfassung der Daten für den Ausländerausweis (Ziff. 5.2). Personen, die einen Ausländerausweis in Kreditkartenformat erhalten, haben die Gebühr für die Ausstellung des Ausländerausweises (Ziff. 5.1) sowie die Zustellungsgebühr (Ziff. 5.11.6) zu entrichten.[^t-3] Herabsetzung Bei ledigen Kindern unter 18 Jahren wird in der Regel eine reduzierte Gebühr erhoben.
 
-**1. 4. 20 - 108**
+**1. 1. 26 - 131**
 
 **Fr. 95.00**
 
@@ -101,13 +102,13 @@ mäss Ziff. 2.1 nachstehend vorliegt.
 
 **Fr. 65.00 Fr. 30.00**
 
-3 1.9.3 Herabsetzung Bei ledigen Kindern unter 18 Jahren wird in der Regel eine reduzierte Gebühr erhoben.
+**Fr. 95.00 Fr. 40.00**
 
-1.10[^t-6] Familienangehörige von Schweizerinnen und Schweizern aus Staaten, die nicht Mitgliedstaat der EU oder der EFTA sind und die Gebrauch von ihrem Recht auf Freizügigkeit machen, erhalten einen biometrischen Ausländerausweis. Es gelten die gleichen Gebührenansätze wie für Ausländerinnen und Ausländer, die sich auf das Freizügigkeitsabkommen berufen können. 1.11[^t-6] Die Gebühr für Datenbearbeitungen im Zentralen Migrationssystem (ZEMIS; Art. 10 Abs. 2 GebV-AIG[^t-3] ist in den Gebührenansätzen der Ziff. 2–5 enthalten.
+3 1.10[^t-7] Familienangehörige von Schweizerinnen und Schweizern aus Staaten, die nicht Mitgliedstaat der EU oder der EFTA sind und die Gebrauch von ihrem Recht auf Freizügigkeit machen, erhalten einen biometrischen Ausländerausweis. Es gelten die gleichen Gebührenansätze wie für Ausländerinnen und Ausländer, die sich auf das Freizügigkeitsabkommen berufen können. 1.11[^t-7] Die Gebühr für Datenbearbeitungen im Zentralen Migrationssystem (ZEMIS; Art. 10 Abs. 2 GebV-AIG[^t-3] ist in den Gebührenansätzen der Ziff. 2–5 enthalten.
 
 - 2\. Einreise/Aufenthalt/Niederlassung
 
-2.1 Zusicherung einer Bewilligung, Ermächtigung zur Visumerteilung 2.1.1 AIG[^t-3] Ledige Kinder unter 18 Jahren 2.1.2 EU/EFTA[^t-7] Ledige Kinder unter 18 Jahren 2.1.3[^t-8] Verlängerung der Zusicherung einer
+2.1 Zusicherung einer Bewilligung, Ermächtigung zur Visumerteilung 2.1.1 AIG[^t-3] Ledige Kinder unter 18 Jahren 2.1.2 EU/EFTA[^t-8] Ledige Kinder unter 18 Jahren 2.1.3[^t-9] Verlängerung der Zusicherung einer
 
 **Fr. 95.00 Fr. 40.00 Fr. 65.00 Fr. 30.00**
 
@@ -115,13 +116,13 @@ Bewilligung, Ermächtigung zur Visum-
 
 **Fr. 40.00**
 
-erteilung 2.2[^t-7] Behandlung von Gesuchen um Bewilligung der Einreise,
+erteilung 2.2[^t-8] Behandlung von Gesuchen um Bewilligung der Einreise,
 
 wenn die Einreisebewilligung vom SEM zu erteilen ist:
 
 **Fr. 95.00 Fr. 40.00 Fr. 65.00 Fr. 30.00**
 
-2.2.1 AIG[^t-3] Ledige Kinder unter 18 Jahren 2.2.2 EU/EFTA[^t-7] Ledige Kinder unter 18 Jahren 2.3[^t-7] Niederlassungsbewilligung (AIG[^t-3] und EU/EFTA) 2.3.1[^t-9] Erteilung:
+2.2.1 AIG[^t-3] Ledige Kinder unter 18 Jahren 2.2.2 EU/EFTA[^t-8] Ledige Kinder unter 18 Jahren 2.3[^t-8] Niederlassungsbewilligung (AIG[^t-3] und EU/EFTA) 2.3.1[^t-10] Erteilung:
 
 **Fr. 65.00**
 
@@ -137,9 +138,7 @@ wenn die Einreisebewilligung vom SEM zu erteilen ist:
 
 **Fr. 95.00 Fr. 40.00 Fr. 75.00 Fr. 40.00**
 
-2.3.1.1 AIG[^t-3] Ledige Kinder unter 18 Jahren Fr. 40.00 2.3.1.2 EU/EFTA[^t-7] Ledige Kinder unter 18 Jahren Fr. 30.00 2.3.2 Verlängerung der Kontrollfrist Ledige Kinder unter 18 Jahren 2.3.3 Aufrechterhaltung der Niederlassungsbewilligung Ledige Kinder unter 18 Jahren 2.3.4 Verlängerung der Frist, während der die Niederlassungsbewilligung bei Auslandabwesenheit bestehen bleibt Ledige Kinder unter 18 Jahren Kurzaufenthalts-, Aufenthalts- und Grenzgängerbewilligung 2.4.1 Erteilung:
-
-**Fr. 95.00 Fr. 40.00**
+2.3.1.1 AIG[^t-3] Ledige Kinder unter 18 Jahren Fr. 40.00 2.3.1.2 EU/EFTA[^t-8] Ledige Kinder unter 18 Jahren Fr. 30.00 2.3.2 Verlängerung der Kontrollfrist Ledige Kinder unter 18 Jahren 2.3.3 Aufrechterhaltung der Niederlassungsbewilligung Ledige Kinder unter 18 Jahren 2.3.4 Verlängerung der Frist, während der die Niederlassungsbewilligung bei Auslandabwesenheit bestehen bleibt Ledige Kinder unter 18 Jahren Kurzaufenthalts-, Aufenthalts- und Grenzgängerbewilligung 2.4.1 Erteilung:
 
 **Fr. 65.00 Fr. 30.00**
 
@@ -147,7 +146,7 @@ wenn die Einreisebewilligung vom SEM zu erteilen ist:
 
 **Fr. 95.00**
 
-2.4.1.1 AIG[^t-3] Ledige Kinder unter 18 Jahren Fr. 40.00 2.4.1.2 EU/EFTA[^t-7] Ledige Kinder unter 18 Jahren Fr. 30.00 2.4.1.3 EU/EFTA[^t-7], sofern Zusicherung (Ziff. 2.1) vorliegt 2.4.2 Verlängerung:
+2.4.1.1 AIG[^t-3] Ledige Kinder unter 18 Jahren Fr. 40.00 2.4.1.2 EU/EFTA[^t-8] Ledige Kinder unter 18 Jahren Fr. 30.00 2.4.1.3 EU/EFTA[^t-8], sofern Zusicherung (Ziff. 2.1) vorliegt 2.4.2 Verlängerung:
 
 **Fr. 65.00**
 
@@ -155,23 +154,25 @@ wenn die Einreisebewilligung vom SEM zu erteilen ist:
 
 **Fr. 75.00**
 
-2.4.2.1 AIG[^t-3] Ledige Kinder unter 18 Jahren Fr. 40.00 2.4.2.2 EU/EFTA[^t-7] Ledige Kinder unter 18 Jahren Fr. 30.00 Stellenantritt, Einverständnis, Kantons-, Stellen- und Berufswechsel 2.5.1 AIG[^t-3] Ledige Kinder unter 18 Jahren 2.5.2[^t-3] EU/EFTA Arbeitsbestätigung für Künstler Ausweis Ci für erwerbstätige Ehepartner und Kinder von Angehörigen ausländischer Vertretungen oder intergouvernementaler Organisationen (IO) 2.7.1 Erteilung AIG[^t-3] und EU/EFTA Ledige Kinder unter 18 Jahren 2.7.2 Verlängerung AIG[^t-3] und EU/EFTA Ledige Kinder unter 18 Jahren 2.7.3 Kantons-, Stellen- und Berufswechsel AIG[^t-3] Fr. 95.00 Ledige Kinder unter 18 Jahren
+2.4.2.1 AIG[^t-3] Ledige Kinder unter 18 Jahren Fr. 40.00 2.4.2.2 EU/EFTA[^t-8] Ledige Kinder unter 18 Jahren Fr. 30.00 Stellenantritt, Einverständnis, Kantons-, Stellen- und Berufswechsel 2.5.1 AIG[^t-3] Ledige Kinder unter 18 Jahren 2.5.2[^t-3] EU/EFTA Arbeitsbestätigung für Künstler Ausweis Ci für erwerbstätige Ehepartner und Kinder von Angehörigen ausländischer Vertretungen oder intergouvernementaler Organisationen (IO) 2.7.1 Erteilung AIG[^t-3] und EU/EFTA Ledige Kinder unter 18 Jahren 2.7.2 Verlängerung AIG[^t-3] und EU/EFTA Ledige Kinder unter 18 Jahren 2.7.3 Kantons-, Stellen- und Berufswechsel AIG[^t-3] Fr. 95.00 Ledige Kinder unter 18 Jahren
 
 **Fr. 40.00**
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 26 - 131
 
 - 3\. Verwarnung, Androhung, Widerruf der Bewilligung
 
-3.1[^t-7] Verwarnungen bzw. Androhung des Widerrufs der Aufenthalts- oder Niederlassungsbewilligung Fr. 300.00 3.2[^t-7] Widerruf der Aufenthalts- oder Niederlassungsbewilligung 3.3–3.5[^t-10]
+3.1[^t-8] Verwarnungen bzw. Androhung des Widerrufs der Aufenthalts- oder Niederlassungsbewilligung Fr. 300.00 3.2[^t-8] Widerruf der Aufenthalts- oder Niederlassungsbewilligung 3.3[^t-11] Rückstufung von einer Niederlassungsbewilligung auf eine Aufenthaltsbewilligung 3.4 und 3.5[^t-12]
+
+**Fr. 500.00**
 
 **Fr. 500.00**
 
 - 4\. Ausweis N für Asylsuchende, Ausweis F für vorläufig Aufgenommene und Ausweis S für Schutzbedürftige
 
-4.1[^t-7] Ausweis N für Asylsuchende
+4.1[^t-8] Ausweis N für Asylsuchende
 
 <sup>1</sup> Die Ausweise N können jeweils längstens für ein Jahr ausgestellt bzw. um ein Jahr verlängert werden.[^t-3]
 
@@ -193,7 +194,7 @@ Arbeitgeber/in bzw. deren Eintrag usw.
 
 Wenn nicht erwerbstätig: Gebühren zulasten
 
-des Kantonalen Sozialamts) 4.1.5 Ausstellung eines Duplikatausweises (wenn nicht erwerbstätig: Gebühren zulasten des Kantonalen Sozialamts) 4.1.6–4.1.9[^t-10] 4.2[^t-7] Ausweis F für vorläufig Aufgenommene und S für Schutzbedürftige Die Ausweise F und S können jeweils längstens für zwölf Monate
+des Kantonalen Sozialamts) 4.1.5 Ausstellung eines Duplikatausweises (wenn nicht erwerbstätig: Gebühren zulasten des Kantonalen Sozialamts) 4.1.6–4.1.9[^t-12] 4.2[^t-8] Ausweis F für vorläufig Aufgenommene und S für Schutzbedürftige Die Ausweise F und S können jeweils längstens für zwölf Monate
 
 **Fr. 22.00**
 
@@ -201,9 +202,7 @@ ausgestellt bzw. um zwölf Monate verlängert werden.
 
 **Fr. 65.00 Fr. 40.00**
 
-**Fr. 20.00**
-
-4.2.1 Erstausstellung (Ausweis F für vorläufig Aufgenommene) Ledige Kinder unter 18 Jahren 4.2.2 Erstausstellung (Ausweis F für vorläufig aufgenommene Flüchtlinge und S) 4.2.3 Verlängerung (Erwachsene und Kinder) Fr. 40.00 4.2.4[^t-11] 4.2.5 Bewilligung des Kantonswechsels Ledige Kinder unter 18 Jahren 4.2.6 Änderung des Ausweises F und S
+4.2.1 Erstausstellung (Ausweis F für vorläufig Aufgenommene) Ledige Kinder unter 18 Jahren 4.2.2 Erstausstellung (Ausweis F für vorläufig aufgenommene Flüchtlinge und S) 4.2.3 Verlängerung (Erwachsene und Kinder) Fr. 40.00 4.2.4[^t-13] 4.2.5 Bewilligung des Kantonswechsels Ledige Kinder unter 18 Jahren 4.2.6 Änderung des Ausweises F und S
 
 **kostenlos**
 
@@ -225,17 +224,17 @@ Ausstellung des Ausländerausweises 5.1.1 AIG[^t-3] Diese Gebühr ist zusätzlic
 
 **Fr. 10.00**
 
-5.1.2 EU/EFTA[^t-7] Diese Gebühr ist zusätzlich zu entrichten zur Gebühr für die Niederlassungsbewilligung (Ziff. 2.3), für die Änderung des Ausländerausweises (Ziff. 5.3.1.2) und für die Ausstellung eines Duplikatausweises (Ziff. 5.4.2). Bei ledigen Kindern unter 18 Jahren ist die Ausweisgebühr inbegriffen.
+5.1.2 EU/EFTA[^t-8] Diese Gebühr ist zusätzlich zu entrichten zur Gebühr für die Niederlassungsbewilligung (Ziff. 2.3), für die Änderung des Ausländerausweises (Ziff. 5.3.1.2) und für die Ausstellung eines Duplikatausweises (Ziff. 5.4.2). Bei ledigen Kindern unter 18 Jahren ist die Ausweisgebühr inbegriffen.
 
 **Fr. 10.00**
 
-5.1.3[^t-6] Ausweise N, F und Ci Diese Gebühr ist zusätzlich zu den übrigen Gebühren zu entrichten. Bei nicht erwerbstätigen Asylsuchenden (Ausweis N):
+5.1.3[^t-6] Ausweise N, F, S und Ci Diese Gebühr ist zusätzlich zu den übrigen Gebühren zu entrichten. Bei nicht erwerbstätigen Asylsuchenden (Ausweis N):
 
-Gebühr zulasten des Kantonalen Sozialamts
+Gebühr zulasten des Kantonalen Sozialamts Abnahme und Erfassung der Daten 5.2.1[^t-9] Abnahme und Erfassung der biometrischen Daten für den biometrischen Ausländerausweis
 
 **5.217**
 
-Abnahme und Erfassung der Daten 5.2.1[^t-8] Abnahme und Erfassung der biometrischen Daten für den biometrischen Ausländerausweis
+**Fr. 20.00**
 
 **7**
 
@@ -253,7 +252,7 @@ Abnahme und Erfassung der Daten 5.2.1[^t-8] Abnahme und Erfassung der biometrisc
 
 **Fr. 25.00 Fr. 12.50**
 
-- 1\. 4. 20 - 108 5.2.2[^t-8] Abnahme und Erfassung der Fotografie und der Unterschrift für den nicht biometrischen Ausländerausweis Bei EU/EFTA-Bewilligungen ist diese Gebühr nur zur Gebühr für die Niederlassungsbewilligung (Ziff. 2.3), für die Änderung des Ausländerausweises (Ziff. 5.3.1.2) und für die Ausstellung eines Duplikatausweises (Ziff. 5.4.2) zusätzlich zu entrichten. Bei ledigen Kindern unter 18 Jahren wird diese Gebühr nicht erhoben.
+- 1\. 1. 26 - 131 5.2.2[^t-9] Abnahme und Erfassung der Fotografie und der Unterschrift für den nicht biometrischen Ausländerausweis Bei EU/EFTA-Bewilligungen ist diese Gebühr nur zur Gebühr für die Niederlassungsbewilligung (Ziff. 2.3), für die Änderung des Ausländerausweises (Ziff. 5.3.1.2) und für die Ausstellung eines Duplikatausweises (Ziff. 5.4.2) zusätzlich zu entrichten. Bei ledigen Kindern unter 18 Jahren wird diese Gebühr nicht erhoben.
 
 **Fr. 15.00**
 
@@ -265,7 +264,7 @@ Mutationen 5.3.1 Änderung des Ausländerausweises
 
 Geburtsdatum, Staatsangehörigkeit, Einreise-
 
-datum, Tätigkeit und/oder Arbeitgeber/in bzw. deren Eintrag usw.) 5.3.1.1 AIG[^t-3] (Erwachsene und Kinder) Fr. 40.00 5.3.1.2 EU/EFTA[^t-7] Ledige Kinder unter 18 Jahren Fr. 30.00 5.3.1.3 Ci-Ausweis
+datum, Tätigkeit und/oder Arbeitgeber/in bzw. deren Eintrag usw.) 5.3.1.1 AIG[^t-3] (Erwachsene und Kinder) Fr. 40.00 5.3.1.2 EU/EFTA[^t-8] Ledige Kinder unter 18 Jahren Fr. 30.00 5.3.1.3 Ci-Ausweis
 
 **Fr. 40.00**
 
@@ -273,13 +272,13 @@ datum, Tätigkeit und/oder Arbeitgeber/in bzw. deren Eintrag usw.) 5.3.1.1 AIG[^
 
 (Erwachsene und Kinder)
 
-5.3.2[^t-3] Änderung der Adresse innerhalb Kanton oder Gemeinde 5.3.2.1 AIG (Erwachsene und Kinder) Fr. 30.00 5.3.2.2 EU/EFTA Ledige Kinder unter 18 Jahren Fr. 20.00 5.3.2.3 Ci-Ausweis (Erwachsene und Kinder) 5.3.3[^t-3] Änderung der Auslandadresse der Grenzgänger 5.3.3.1 AIG (Erwachsene und Kinder) Fr. 30.00 5.3.3.2 EU/EFTA Ledige Kinder unter 18 Jahren Fr. 20.00 Ausstellung eines Duplikatausweises 5.4.1 AIG[^t-3] (Erwachsene und Kinder) 5.4.2 EU/EFTA[^t-7] Ledige Kinder unter 18 Jahren 5.4.3[^t-6] Ci-Ausweis (Erwachsene und Kinder) Einholen eines Strafregisterauszugs des Heimatstaates Ledige Kinder unter 18 Jahren 5.6 Visum 5.6.1 Verlängerung eines Schengenvisums Kinder unter 6 Jahren
+5.3.2[^t-3] Änderung der Adresse innerhalb Kanton oder Gemeinde 5.3.2.1 AIG (Erwachsene und Kinder) Fr. 30.00 5.3.2.2 EU/EFTA Ledige Kinder unter 18 Jahren Fr. 20.00 5.3.2.3 Ci-Ausweis (Erwachsene und Kinder) 5.3.3[^t-3] Änderung der Auslandadresse der Grenzgänger 5.3.3.1 AIG (Erwachsene und Kinder) Fr. 30.00 5.3.3.2 EU/EFTA Ledige Kinder unter 18 Jahren Fr. 20.00 Ausstellung eines Duplikatausweises 5.4.1 AIG[^t-3] (Erwachsene und Kinder) 5.4.2 EU/EFTA[^t-8] Ledige Kinder unter 18 Jahren 5.4.3[^t-7] Ci-Ausweis (Erwachsene und Kinder) Einholen eines Strafregisterauszugs des Heimatstaates Ledige Kinder unter 18 Jahren 5.6 Visum 5.6.1 Verlängerung eines Schengenvisums Kinder unter 6 Jahren
 
 **Fr. 45.00 gebührenfrei**
 
 5.6.2 Prüfung des Visumantrags bzw. des Antrags
 
-auf Visumverlängerung durch Migrationsamt Fr. 45.00 5.6.3 Erteilung des Rückreisevisums Kinder zwischen 6 und 12 Jahren Kinder unter 6 Jahren 5.7[^t-7] Verpflichtungserklärung für visumpflichtige Ausländer 5.7.1 Bestätigung durch die Gemeinde (Solvenzprüfung) 5.7.2 Bestätigung durch das Migrationsamt (Visierung, Weiterleitung an SEM).
+auf Visumverlängerung durch Migrationsamt Fr. 45.00 5.6.3 Erteilung des Rückreisevisums Kinder zwischen 6 und 12 Jahren Kinder unter 6 Jahren 5.7[^t-8] Verpflichtungserklärung für visumpflichtige Ausländer 5.7.1 Bestätigung durch die Gemeinde (Solvenzprüfung) 5.7.2 Bestätigung durch das Migrationsamt (Visierung, Weiterleitung an SEM).
 
 **Fr. 90.00 Fr. 50.00 gebührenfrei**
 
@@ -313,35 +312,27 @@ erstinstanzliche Verfügung an einem Mangel leidet,
 
 den der Gesuchsteller mehrheitlich zu vertreten hat
 
-(vgl. § 13 Abs. 2 Satz 2 des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^t-12].
+(vgl. § 13 Abs. 2 Satz 2 des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^t-14].
 
-5.10 Bestätigungen und Auskünfte ausserhalb einer Gesuchsbehandlung für auf besonderes Begehren erteilte Bestätigungen oder für im privaten Interesse des Gesuchstellers liegende schriftliche Auskünfte bis 5.11 Dringlichbehandlung, Porti, Mahnung, Fotokopien 5.11.1 Zuschlag, wenn dringliche Behandlung eines Geschäfts gewünscht wird 5.11.2 Express-Zuschlag (Porto)
+5.10 Bestätigungen und Auskünfte ausserhalb einer Gesuchsbehandlung für auf besonderes Begehren erteilte Bestätigungen oder für im privaten Interesse des Gesuchstellers liegende schriftliche Auskünfte bis 5.11[^t-6] Dringlichkeitsbehandlung, Porti, Fotokopien 5.11.1 Zuschlag, wenn dringliche Behandlung eines Geschäfts gewünscht wird 50% der Gebühr 5.11.2 Express-Zuschlag (Porto)
 
-**50% der Gebühr nach Aufwand**
+**Fr. 200.00**
+
+**nach Aufwand**
 
 **9**
 
-- 1\. 4. 20 - 108 5.11.3 Orientierungskopie an Arbeitgeber (einschliesslich Porto und Versand) 5.11.4 Mahnung einer fälligen Zahlung (einschliesslich Porto und Versand)
+- 1\. 1. 26 - 131 5.11.3 Orientierungskopie an Arbeitgeber (einschliesslich Porto und Versand) 5.11.4[^t-15] 5.11.5 Fotokopien oder Ausdruck aus dem elektronischen Dossier
 
 **Fr. 10.00**
-
-**Fr. 10.00 Fr. 20.00 Fr. 30.00**
-
-- 1\. Zahlungsaufforderung
-
-- 2\. Zahlungsaufforderung
-
-- 3\. Zahlungsaufforderung 5.11.5 Fotokopien oder Ausdruck aus dem elektronischen Dossier
 
 **Fr. 1.00 Fr. 0.50**
 
 - Stückpreis bis zu zehn Kopien
 
-- jede weitere Kopie 5.11.6 Zustellung des Ausländerausweises (Porto und Versand) Bearbeitung von Anträgen um Ausstellung von schweizerischen Reisedokumenten und Weiterleitung an Bund (einschliesslich Porto) Bestätigung des Aufenthaltsstatus und der Personalien zuhanden Zivilstandsamt
+- jede weitere Kopie 5.11.6[^t-6] Zustellung des Ausländerausweises (Porto und Versand) Bearbeitung von Anträgen um Ausstellung von schweizerischen Reisedokumenten und Weiterleitung an Bund (einschliesslich Porto) Bestätigung des Aufenthaltsstatus und der Personalien zuhanden Zivilstandsamt
 
-**Fr. 200.00**
-
-**Fr. 5.00**
+**Fr. 7.00**
 
 **5.12**
 
@@ -358,17 +349,20 @@ den der Gesuchsteller mehrheitlich zu vertreten hat
 [^t-3]: Fassung gemäss Vfg. vom 25. November 2019 (OS 75, 1; ABl 2019-11-29). In Kraft seit 1. Februar 2020.
 [^t-4]: SR 142.209.
 [^t-5]: LS 682.
-[^t-6]: Eingefügt durch Vfg. vom 20. Juni 2016 (OS 71, 359; ABl 2016-07-01). In Kraft seit 1. November 2016.
-[^t-7]: Fassung gemäss Vfg. vom 20. Juni 2016 (OS 71, 359; ABl 2016-07-01). In Kraft seit 1. November 2016.
-[^t-8]: Eingefügt durch Vfg. vom 25. November 2019 (OS 75, 1; ABl 2019-11-29). In Kraft seit 1. Februar 2020.
-[^t-9]: Fassung gemäss Vfg. vom 16. Februar 2011 (OS 66, 231; ABl 2011, 547). In Kraft seit 1. März 2011.
-[^t-10]: Aufgehoben durch Vfg. vom 20. Juni 2016 (OS 71, 359; ABl 2016-07-01). In Kraft seit 1. November 2016.
-[^t-11]: Aufgehoben durch Vfg. vom 25. November 2019 (OS 75, 1; ABl 2019-11-29). In Kraft seit 1. Februar 2020. 1. 4. 20 - 108 11
-[^t-12]: LS 175.2.
+[^t-6]: Fassung gemäss Vfg. vom 19. August 2025 (OS 80, 241; ABl 2025-08-29). In Kraft seit 1. November 2025.
+[^t-7]: Eingefügt durch Vfg. vom 20. Juni 2016 (OS 71, 359; ABl 2016-07-01). In Kraft seit 1. November 2016.
+[^t-8]: Fassung gemäss Vfg. vom 20. Juni 2016 (OS 71, 359; ABl 2016-07-01). In Kraft seit 1. November 2016.
+[^t-9]: Eingefügt durch Vfg. vom 25. November 2019 (OS 75, 1; ABl 2019-11-29). In Kraft seit 1. Februar 2020.
+[^t-10]: Fassung gemäss Vfg. vom 16. Februar 2011 (OS 66, 231; ABl 2011, 547). In Kraft seit 1. März 2011.
+[^t-11]: Eingefügt durch Vfg. vom 19. August 2025 (OS 80, 241; ABl 2025-08-29). In Kraft seit 1. November 2025.
+[^t-12]: Aufgehoben durch Vfg. vom 20. Juni 2016 (OS 71, 359; ABl 2016-07-01). In Kraft seit 1. November 2016.
+[^t-13]: Aufgehoben durch Vfg. vom 25. November 2019 (OS 75, 1; ABl 2019-11-29). In Kraft seit 1. Februar 2020.
+[^t-14]: LS 175.2.
+[^t-15]: Aufgehoben durch Vfg. vom 19. August 2025 (OS 80, 241; ABl 2025-08-29). In Kraft seit 1. November 2025. 1. 1. 26 - 131 11
 
 ### Anhang I und II
 
-[^t-10]
+[^t-12]
 
 ## Weitere Fussnoten
 
