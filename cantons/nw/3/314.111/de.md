@@ -1,225 +1,185 @@
 ---
 canton: NW
 number: "314.111"
-title: Reglement über die Maturaarbeit an der kantonalen Mittelschule
-short: "Maturaarbeitsreglement, MR"
+title: Reglement über die Maturitätsarbeit an der kantonalen Mittelschule
+short: "Maturitätsarbeitsreglement, MR"
 language: de
-version: 2014-08-01
-corrected: 2021-09-07
-version_adopted: 2013-11-04
+version: 2025-11-01
+version_adopted: 2025-10-17
 adopted: 2025-10-17
 in_force: 2025-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/314.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/152/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1411/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Maturaarbeit an der kantonalen Mittelschule (Maturaarbeitsreglement, MR)
+# Reglement über die Maturitätsarbeit an der kantonalen Mittelschule
 
-vom 4. November 2013[^t-1]
+(Maturitätsarbeitsreglement, MR)
 
-Der Mittelschulrat,
+vom 17.10.2025 (Stand 01.11.2025)
 
-gestützt auf § 48 der Vollzugsverordnung vom 12. Juni 2007 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung)[^t-2] sowie Art. 10 und 15 Abs. 2 des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 16. Januar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsreglement, MAR)[^t-3]
+Der Mittelschulrat von Nidwalden,
+
+gestützt auf § 48 der Vollzugsverordnung vom 12. Juni 2007 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung, MSV)[^ingress-1] sowie Art. 17 und 25 Abs. 2 des Reglements der EDK vom 22. Juni 2023 über die Anerkennung von gymnasialen Maturitätszeugnissen (Maturitätsanerkennungsreglement, MAR)[^ingress-2],
 
 beschliesst:
 
-[^t-1]: A 2014, 1248
-[^t-2]: NG 314.11
-[^t-3]: http://www.edk.ch/dyn/11670.php
+[^ingress-1]: NG 314.11
+[^ingress-2]: NG 311.52
 
 #### § 1
 
-**Erstellungspflicht und Ziel**
+**Lernziel**
 
-Die Schülerinnen und Schüler verfassen eine Maturaarbeit und lernen damit:
+<sup>1</sup> Die Schülerinnen und Schüler verfassen eine Maturitätsarbeit und lernen damit:
 
-- 1\. ein selbst gewähltes Thema aufzuarbeiten;
-
-- 2\. innerhalb eines Themas relevante Fragestellungen beziehungsweise Gestaltungsideen zu formulieren;
-
+- 1\. ein selbst gewähltes Thema wissenschaftspropädeutisch zu bearbeiten;
+- 2\. innerhalb eines Themas relevante Fragestellungen zu formulieren;
 - 3\. den ausgewählten Stoff gedanklich zu durchdringen und zu strukturieren;
-
-- 4\. sich Informationen selbständig zu beschaffen, sich mit diesen auseinander zu setzen und differenzierte, eigenständige Aussagen zu machen, die belegt und nachvollziehbar sind;
-
+- 4\. Informationen selbständig zu beschaffen, sich mit diesen auseinanderzusetzen und differenzierte, eigenständige Aussagen zu machen, die mit Quellenangaben belegt und nachvollziehbar sind;
 - 5\. die Aussagen sprachlich und formal korrekt zu präsentieren.
 
 #### § 2
 
-**Wahl des Themas, Einzelarbeit, Teamarbeit**
+**Maturitätsarbeitskommission**
 
-<sup>1</sup> Die Schülerinnen und Schüler bestimmen das Thema ihrer Maturaarbeit grundsätzlich selbst. Bedingung für die Durchführung der Arbeit ist, dass eine Lehrperson bereit ist, sie zu betreuen.
+<sup>1</sup> Die Maturitätsarbeitskommission besteht aus vier Mitgliedern. Ein Mitglied der Schulleitung gehört ihr von Amtes wegen als Vorsitzende oder Vorsitzender an; die Rektorin beziehungsweise der Rektor bestimmt dieses Mitglied. Drei Mitglieder werden von der Lehrerkonferenz aus ihrem Kreis gewählt.
 
-<sup>2</sup> Die Maturaarbeit kann als Einzel- oder Teamarbeit durchgeführt werden. Teamarbeiten können von höchstens drei Schülerinnen und Schülern erstellt werden und müssen entsprechend umfangreicher sein.
+<sup>2</sup> Die Maturitätsarbeitskommission ist zuständig für:
+
+- 1\. die Herausgabe eines Leitfadens, der insbesondere die Anforderungen an die einzelnen Bestandteile der Maturitätsarbeit festlegt;
+- 2\. die Festsetzung des zeitlichen Ablaufs der Maturitätsarbeit;
+- 3\. die Festlegung der unterrichtsfreien Tage gemäss § 8 Abs. 2 in Absprache mit der Schulleitung;
+- 4\. die Organisation der Themenwahl und der Zuteilung der Betreuungspersonen;
+- 5\. die Bestimmung der jeweils zweitbeurteilenden Lehrperson;
+- 6\. die Beratung der Betreuungspersonen;
+- 7\. die Organisation der mündlichen Präsentationen;
+- 8\. die Organisation der Fachgespräche.
 
 #### § 3
 
-**Form, Umfang und Präsentation**
+**Wahl des Themas, Arbeitsweise**
 
-<sup>1</sup> Die Maturaarbeit besteht aus:
+<sup>1</sup> Die Schülerinnen und Schüler bestimmen das Thema ihrer Maturitätsarbeit grundsätzlich selbst, sofern eine Lehrperson bereit ist, dieses Thema zu betreuen.
 
-- 1\. der Dokumentation (Behandlung des Themas) im Umfange von 15 bis 40 Seiten A4 (Richtwert bei Arial 11);
-
-- 2\. dem Produkt (Mittel für die Bekanntgabe der Arbeit an weiteren Personenkreis wie z. B. Zeitungsartikel, Kunstwerk, Film, Unterrichtseinheit, Wegleitung, Gerät usw.).
-
-<sup>2</sup> Die Arbeit kann zusätzlich einen umfangreicheren praktischen Teil aufweisen. Dieser soll von einem Text begleitet sein, der das Konzept, die Entstehung und den Prozess dokumentiert und Inhalt und Ergebnis des praktischen Teils in einen grösseren Zusammenhang stellt.
-
-<sup>3</sup> Alle Arbeiten werden im Rahmen eines öffentlichen Präsentationstages mündlich vorgestellt.
+<sup>2</sup> Die Maturitätsarbeit kann als Einzel- oder Teamarbeit durchgeführt werden. Teamarbeiten können von höchstens zwei Schülerinnen und Schülern erstellt werden.
 
 #### § 4
 
-**Selbständigkeitserklärung**
+**Form und Umfang**
 
-Die Arbeit muss im Anhang eine Selbständigkeitserklärung enthalten.
+<sup>1</sup> Die Maturitätsarbeit umfasst:
+
+- 1\. eine schriftliche Dokumentation;
+- 2\. ein Arbeitsjournal, das den Prozess der Erarbeitung der Dokumentation nachvollziehbar beschreibt;
+- 3\. eine mündliche Präsentation;
+- 4\. ein Fachgespräch (Verteidigung).
+
+<sup>2</sup> Bei gestalterisch-musischen oder technischen Maturitätsarbeiten muss zusätzlich ein Produkt erstellt werden. Bei sozial- und geisteswissenschaftlichen sowie naturwissenschaftlichen Maturitätsarbeiten kann zusätzlich ein Produkt erstellt werden. Wird ein Produkt erstellt, muss es benotet werden.
+
+<sup>3</sup> Die Anforderungen an die einzelnen Bestandteile der Maturitätsarbeit werden im Leitfaden der Maturitätsarbeitskommission festgelegt.
 
 #### § 5
 
-**Vereinbarung über die Benotung**
+**Selbständigkeitserklärung**
 
-<sup>1</sup> Die Schülerin oder der Schüler bzw. das Team schliesst mit der Betreuungsperson bis Mitte Juni des zweiten Semesters der 5. Klasse eine schriftliche Vereinbarung ab über:
+<sup>1</sup> Die Schülerinnen und Schüler verfassen eine Selbständigkeitserklärung.
 
-- 1\. die Beurteilungskriterien für Prozess, Dokumentation und Produkt;
-
-- 2\. die allfällige Benotung des Produktes;
-
-- 3\. die Gewichtungen der Noten für die Dokumentation und das Produkt im Rahmen von § 10 Abs. 2 Ziff. 3 und Abs. 3.
-
-<sup>2</sup> Der genaue Zeitpunkt wird spätestens zu Beginn des zweiten Semesters durch die Maturaarbeitskommission festgelegt.
+<sup>2</sup> Sie deklarieren die Verwendung von Künstlicher Intelligenz gemäss Vorgabe im Leitfaden.
 
 #### § 6
 
-**Maturaarbeitskommission**
+**Vereinbarung über die Benotung**
 
-<sup>1</sup> Ein Mitglied der Schulleitung ist von Amtes wegen Vorsitzender oder Vorsitzende der Maturaarbeitskommission. Die Lehrerkonferenz wählt aus ihrem Kreis drei weitere Mitglieder in die Maturaarbeitskommission.
+<sup>1</sup> Die Schülerin oder der Schüler beziehungsweise das Team schliesst mit der Betreuungsperson bis 1. Juli der 5. Klasse eine schriftliche Vereinbarung ab über:
 
-<sup>2</sup> Die Maturaarbeitskommission hat folgende Aufgaben:
-
-- 1\. Festsetzung des zeitlichen Ablaufes;
-
-- 2\. Festlegung der Daten der unterrichtsfreien Tage gemäss § 9 Abs. 2 in Zusammenarbeit mit der Schulleitung;
-
-- 3\. Organisation der Wahl des Themas und der Betreuungsperson durch die Schülerinnen und Schüler;
-
-- 4\. Beratung der Betreuungspersonen;
-
-- 5\. Organisation des öffentlichen Präsentationstages;
-
-- 6\. Herausgabe eines Leitfadens.
+- 1\. die Kriterien zur Beurteilung der Dokumentation und des allfälligen Produkts;
+- 2\. die Gewichtung der Noten für die Dokumentation und das allfällige Produkt im Rahmen von § 9 Abs. 3 Ziff. 1.
 
 #### § 7
 
 **Betreuung**
 
-<sup>1</sup> Jede Maturaarbeit muss von einer Lehrperson (Betreuungsperson) fachlich und arbeitstechnisch betreut werden. Zur Betreuung stehen alle Lehrpersonen der Mittelschule zur Verfügung.
+<sup>1</sup> Jede Maturitätsarbeit muss von einer Lehrperson (Betreuungsperson) wissenschaftspropädeutisch und arbeitstechnisch betreut werden. Zur Betreuung stehen alle Lehrpersonen der Mittelschule zur Verfügung.
 
-<sup>2</sup> Jede Lehrperson mit Vollpensum kann zur Betreuung von höchstens drei Einzelarbeiten oder zwei Teamarbeiten, jede Lehrperson mit Teilpensum zur Betreuung von höchstens zwei Einzelarbeiten oder einer Teamarbeit verpflichtet werden. Eine Lehrperson darf nicht mehr als fünf Arbeiten betreuen.
+<sup>2</sup> Jede Lehrperson mit einem Unterrichtspensum von mindestens 80 Prozent kann zur Betreuung von höchstens drei Einzelarbeiten oder zwei Teamarbeiten, jede Lehrperson mit einem Unterrichtspensum zwischen 20 und 80 Prozent zur Betreuung von höchstens zwei Einzelarbeiten oder einer Teamarbeit verpflichtet werden. Eine Lehrperson darf nicht mehr als fünf Arbeiten betreuen.
 
 <sup>3</sup> Die Betreuung umfasst:
 
-- 1\. Erstellen eines Zeitplanes;
-
-- 2\. Hilfestellung bei der Ideen-, Material- und Literatursuche;
-
-- 3\. Besprechen der Zwischenergebnisse;
-
-- 4\. Begutachtung der Schlussfassung;
-
-- 5\. Abgabe und Präsentation der Arbeit.
+- 1\. die Unterstützung beim Entwickeln der Leitfragen und beim Erstellen eines Zeitplans;
+- 2\. die Hilfestellung bei der Ideen-, Material- und Literatursuche;
+- 3\. das Ausfüllen und Besprechen der von der Maturitätsarbeitskommission vorgegebenen Formulare;
+- 4\. die Begutachtung der Schlussfassung und Bewertung der Dokumentation sowie des allfälligen Produkts;
+- 5\. die Unterstützung bei der Vorbereitung der mündlichen Präsentation und des Fachgesprächs;
+- 6\. die Bewertung der mündlichen Präsentation;
+- 7\. die Bewertung des Fachgesprächs.
 
 #### § 8
 
-**Zeitlicher Rahmen, unterrichtsfreie Tage**
+**Unterrichtsfreie Tage**
 
-<sup>1</sup> Die Maturaarbeit wird während des 2. Semesters der 5. Klasse und des 1. Semesters der 6. Klasse erstellt.
+<sup>1</sup> Zur Erstellung der Maturitätsarbeit werden den Schülerinnen und Schülern elf Tage ohne Regelunterricht zur Verfügung gestellt. Diese decken nicht den ganzen Arbeitsaufwand ab.
 
-<sup>2</sup> Zur Erstellung der Maturaarbeit erhalten die Schülerinnen und Schüler acht freie Unterrichtstage. Diese decken nicht den ganzen Arbeitsaufwand.
-
-<sup>3</sup> Im ersten Semester der 5. Klasse werden die Schülerinnen und Schüler über den zeitlichen Rahmen, die einzelnen Arbeitsschritte und die Daten der unterrichtsfreien Tage informiert.
+<sup>2</sup> Im ersten Semester der 5. Klasse werden die Schülerinnen und Schüler über den zeitlichen Rahmen, die einzelnen Arbeitsschritte und die Daten der zur Verfügung gestellten Tage ohne Regelunterricht informiert.
 
 #### § 9
 
-**Beurteilung und Bewertung**
+**Benotung**
 
-<sup>1</sup> Die Maturaarbeit wird von der Betreuungsperson bezüglich Inhalt und Form beurteilt. Die Dokumentation und die mündliche Präsentation zur Maturaarbeit werden von einer zweiten Lehrperson begutachtet. Die Note für die Dokumentation, die Präsentation und das Produkt, sofern dieses mitgezählt wird, setzt die Betreuungsperson nach Absprache mit der zweitbeurteilenden Lehrperson fest. Die Bewertung der Dokumentation durch die Betreuungsperson erfolgt schriftlich.
+<sup>1</sup> Die Betreuungsperson und eine zweite Lehrperson legen die Note der Maturitätsarbeit fest, wobei mindestens eine der beiden Personen über das Lehrdiplom für Maturitätsschulen verfügen muss. Bei Uneinigkeit entscheidet die Maturitätsarbeitskommission.
 
-<sup>2</sup> Zur Berechnung der Gesamtnote werden gewichtet:
+<sup>2</sup> Die Betreuungsperson verfasst zur Dokumentation sowie zum allfälligen Produkt einen schriftlichen Bewertungsbericht, der durch die Betreuungsperson und die zweite Lehrperson unterzeichnet wird.
 
-- 1\. 10% der Arbeitsprozess;
+<sup>3</sup> Zur Berechnung der Gesamtnote werden gewichtet:
 
-- 2\. 25% die mündliche Präsentation;
-
-- 3\. 65% die Dokumentation und das Produkt, wobei die Dokumentation mit mindestens 40% gewichtet sein muss, sofern es sich nicht um eine Arbeit im gestalterisch-musischen Bereich handelt.
-
-<sup>3</sup> Die Benotung des Produktes ist freiwillig, ausser es handelt sich um eine gestalterisch-musische Arbeit. In diesem Fall muss das Produkt mit 20-40% gewichtet werden. Der Entscheid über die Benotung und die Gewichtung dieser Note und derjenigen für die Dokumentation sind im Rahmen der Vereinbarung gemäss § 5 festzulegen.
-
-<sup>4</sup> Die Bewertung der Maturaarbeit erscheint im Zeugnis des ersten Semesters der 6. Klasse als eigenständige Note und ist promotionsrelevant.
+- 1\. die Dokumentation und das allfällige Produkt zu 65 Prozent, wobei die Gewichtung des allfälligen Produkts:
+  - a) bei sozial- und geistes- sowie naturwissenschaftlichen Maturitätsarbeiten mindestens 10 und höchstens 20 Prozent beträgt;
+  - b) bei gestalterisch-musischen oder technischen Maturitätsarbeiten mindestens 20 und höchstens 30 Prozent beträgt;
+- 2\. die mündliche Präsentation zu 15 Prozent;
+- 3\. das Fachgespräch zu 20 Prozent.
 
 #### § 10
 
-**Gesichtspunkte für die Beurteilung**
+**Kriterien für die Beurteilung**
 
-<sup>1</sup> Grundsätzlich kommt es darauf an, dass die dargestellten Gedanken auch von Drittpersonen nachvollzogen werden können und einen persönlichen Beitrag zu einer Frage oder Problemstellung bilden.
+<sup>1</sup> Die dargestellten Gedanken müssen von Drittpersonen grundsätzlich nachvollziehbar sein und einen persönlichen Beitrag zu einer Frage oder Problemstellung bilden.
 
-<sup>2</sup> Im Einzelnen wird bei der Beurteilung auf die im Leitfaden aufgeführten Gesichtspunkte und auf die gemäss § 5 festgelegten besonderen Beurteilungskriterien Bezug genommen. Je nach Thema kommt nur ein Teil der im Leitfaden angeführten Beurteilungskriterien zur Anwendung.
+<sup>2</sup> Bei der Beurteilung wird auf die im Leitfaden aufgeführten Anforderungen und die gemäss § 6 festgelegten Beurteilungskriterien Bezug genommen. Je nach Thema kommt nur ein Teil der im Leitfaden aufgeführten Beurteilungskriterien zur Anwendung.
 
 #### § 11
 
-**Unregelmässigkeiten**
+**Regelverstösse**
 
-<sup>1</sup> Das nicht selbstständige Verfassen oder systematische Unterschlagen von Quellenangaben hat die Ablehnung der Maturaarbeit zur Folge. Die Schülerin oder der Schüler muss die Maturaarbeit und die zwei letzten Semester wiederholen.
+<sup>1</sup> Das nicht selbständige Verfassen oder systematische Unterschlagen von Quellenangaben hat die Ablehnung der Maturitätsarbeit zur Folge. Die Schülerin oder der Schüler muss die Maturitätsarbeit und die zwei letzten Semester wiederholen.
 
 <sup>2</sup> Bei Unregelmässigkeiten von geringerem Umfang befindet die Schulleitung über Sanktionen wie Notenabzug oder Nichteinbezug von einzelnen Passagen oder Kapiteln in die Bewertung.
 
 #### § 12
 
-**Verspätete Abgabe der Maturaarbeit**
+**Verspätete Abgabe der Maturitätsarbeit**
 
-<sup>1</sup> Eine verspätete Abgabe der Maturaarbeit hat grundsätzlich die Ablehnung der Maturaarbeit zur Folge. Die Schülerin oder der Schüler muss die Maturaarbeit und die zwei letzten Semester wiederholen.
+<sup>1</sup> Eine verspätete Abgabe der Maturitätsarbeit hat deren Ablehnung zur Folge. Die Schülerin oder der Schüler muss die Maturitätsarbeit und die zwei letzten Semester wiederholen.
 
 <sup>2</sup> In begründeten Fällen kann die Schulleitung eine Fristerstreckung gewähren.
 
 #### § 13
 
-**Repetition während der Durchführung der Maturaarbeit**
+**Repetition während der Durchführung der Maturitätsarbeit**
 
-<sup>1</sup> Repetition nach dem 1. Semester der 5. Klasse:
+<sup>1</sup> Repetition nach dem 1. Semester der 5. Klasse: Wenn ein Projektvorschlag eingereicht und begonnen wurde, das Vorprojekt zu entwickeln, hat die Schülerin oder der Schüler in der neuen Klassenstufe neu zu beginnen. Die bereits entwickelten Ideen können wieder aufgegriffen beziehungsweise die bereits erarbeiteten Unterlagen weiterverwendet werden. Bei einer Gruppenarbeit müssen die verbleibenden Gruppenmitglieder ihr Projekt anpassen oder ein neues Thema wählen.
 
-Wenn ein Projektvorschlag eingereicht und begonnen wurde, das Vorprojekt zu entwickeln, hat der Schüler oder die Schülerin in der neuen Klassestufe neu zu beginnen. Die bereits entwickelten Ideen können wieder aufgegriffen bzw. die bereits erarbeiteten Unterlagen weiter verwendet werden. Bei einer Gruppenarbeit müssen die verbleibenden Gruppenmitglieder ihr Projekt anpassen oder ein neues Thema wählen.
+<sup>2</sup> Repetition nach dem 2. Semester der 5. Klasse: Wenn bis zum Zeitpunkt des Repetitionsentscheids ein Projektvorschlag für eine Maturitätsarbeit eingereicht, das Vorprojekt und das Konzept entwickelt und an dessen Umsetzung gearbeitet wurde, hat die repetierende Schülerin oder der repetierende Schüler drei Möglichkeiten:
 
-<sup>2</sup> Repetition nach dem 2. Semester der 5. Klasse:
+- 1\. Weiterführung und Beendigung der Maturitätsarbeit im Rahmen des Zeitplans der 6. Klasse;
+- 2\. Festhalten am bereits gewählten Thema und Neustart der Maturitätsarbeit in der 5. Klasse;
+- 3\. Wahl eines neuen Themas und Neustart der Maturitätsarbeit in der 5. Klasse.
 
-Wenn bis zum Zeitpunkt des Repetitionsentscheids ein Projektvorschlag für eine Maturaarbeit eingereicht, das Vorprojekt und das Konzept entwickelt und an dessen Umsetzung gearbeitet wurde, hat der repetierende Schüler oder die repetierende Schülerin drei Möglichkeiten:
+<sup>3</sup> Repetition nach dem 1. Semester der 6. Klasse: Wenn die Schülerin oder der Schüler die Maturitätsarbeit abgeschlossen hat und diese mit einer Note bewertet wurde, kann die repetierende Schülerin oder der repetierende Schüler entscheiden, ob sie oder er die Maturitätsarbeit wiederholen will oder nicht. Führt sie oder er eine neue Maturitätsarbeit durch, so zählt im Zeugnis des 1. Semesters der 6. Klasse die Bewertung der neuen Maturitätsarbeit. Verfasst sie oder er keine neue Maturitätsarbeit, so erhält sie oder er im Repetitionsjahr im Zeugnis des 1. Semesters der 6. Klasse nochmals die gleiche Note für die Maturitätsarbeit wie ein Jahr zuvor.
 
-- 1\. Er oder sie führt die Maturaarbeit weiter und beendet sie im Rahmen des Zeitplans der 6. Klasse;
+<sup>4</sup> Repetition nach nicht bestandener Maturitätsprüfung: Wenn die Schülerin oder der Schüler die Maturitätsarbeit abgeschlossen hat und diese mit einer Note bewertet wurde, verfasst die repetierende Schülerin oder der repetierende Schüler keine neue Maturitätsarbeit. Sie oder er erhält im Zeugnis des 1. Semesters der 6. Klasse nochmals die gleiche Note wie ein Jahr zuvor.
 
-- 2\. Er oder sie bleibt beim bereits gewählten Thema und startet mit der Maturaarbeit in der 5. Klasse nochmals neu;
+<sup>5</sup> Die Schulleitung kann in begründeten Fällen Abweichungen von diesen Regelungen bewilligen.
 
-- 3\. Er oder sie wählt ein neues Thema und startet mit der Maturaarbeit in der 5. Klasse neu.
-
-<sup>3</sup> Repetition nach dem 1. Semester der 6. Klasse:
-
-Wenn der Schüler oder die Schülerin die Maturaarbeit abgeschlossen hat und diese mit einer Note bewertet wurde, kann der repetierende Schüler oder die repetierende Schülerin entscheiden, ob er oder sie die Maturaarbeit wiederholen will oder nicht. Führt er oder sie eine neue Arbeit durch, so zählt im Zeugnis des 1. Semesters der 6. Klasse die Bewertung der neuen Arbeit; verfasst er oder sie keine neue Arbeit, so erhält er oder sie im Repetitionsjahr im Zeugnis des 1. Semesters der 6. Klasse nochmals die gleiche Note für die Maturaarbeit wie ein Jahr zuvor.
-
-<sup>4</sup> Repetition nach nicht bestandener Maturaprüfung:
-
-Wenn der Schüler oder die Schülerin die Maturaarbeit abgeschlossen hat und diese mit einer Note bewertet wurde, verfasst der repetierende Schüler oder die repetierende Schülerin keine neue Maturaarbeit. Er oder sie erhält im Zeugnis des 1. Semesters der 6. Klasse nochmals die gleiche Note wie ein Jahr zuvor.
-
-**5**
-
-Die Maturaarbeitskommission kann in begründeten Fällen Abweichungen von diesen Regelungen bewilligen.
-
-#### § 14
-
-**Inkrafttreten, Aufhebung bisherigen Rechts**
-
-**1**
-
-Dieses Reglement tritt am 1. August 2014 in Kraft.
-
-**2**
-
-Das bisherige Reglement vom 9. Juli 2009[^14-1] wird aufgehoben.
-
-[^14-1]: A 2009, 1347
+2025-040
