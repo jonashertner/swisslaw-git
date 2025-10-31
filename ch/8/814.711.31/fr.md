@@ -3,18 +3,18 @@ sr: "814.711.31"
 title: Ordonnance du DFI du 26 juin 2020 sur les validations de compétences et les attestations de compétences requises pour les manifestations avec rayonnement laser
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/501"
 language: fr
-version: 2022-12-01
+version: 2025-11-01
 adopted: 2020-06-26
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-501-20221201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-501-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les validations de compétences et les attestations de compétences requises pour les manifestations avec rayonnement laser
 
-du 26 juin 2020 (État le 1<sup>er</sup> décembre 2022)
+du 26 juin 2020 (État le 1<sup>er</sup> novembre 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -22,7 +22,7 @@ vu l’art. 16, al. 4, de l’ordonnance du 27 février 2019 relative à la loi 
 
 arrête:
 
-[^ingress-1]: [RS 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
+[^ingress-1]: [RS 814.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9587)
 
 #### Art. 1
 
@@ -48,11 +48,13 @@ Quiconque souhaite délivrer une validation de compétences ou une attestation d
 Les organismes responsables de l’examen habilités à délivrer les validations de compétences et les attestations de compétences en vertu de l’annexe transmettent à l’OFSP chaque année, au plus tard le 31 octobre:
 
 - a. la statistique des examens indiquant les pourcentages de réussite et d’échec;
-- b. les dates des formations et des examens fixées pour l’année suivante.
+- b.[^3-1] …
 
 <sup>2</sup> Après chaque session d’examen, ils communiquent à l’OFSP dans un délai d’un mois le nom, le prénom et la date de naissance des personnes à qui une validation de compétences ou une attestation de compétences a été délivrée.
 
 <sup>3</sup> Ils informent l’OFSP des adaptations à l’état des connaissances et de la technique apportées aux documents de formation et d’examen ainsi qu’aux qualifications techniques.
+
+[^3-1]: Abrogée par le ch. III de l’O du DFI du 19 sept. 2025, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 #### Art. 4
 

@@ -3,18 +3,18 @@ sr: "814.711.31"
 title: Verordnung des EDI vom 26. Juni 2020 über die Sachkundebestätigungen und Sachkundenachweise für Veranstaltungen mit Laserstrahlung
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/501"
 language: de
-version: 2022-12-01
+version: 2025-11-01
 adopted: 2020-06-26
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2020-501-20221201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2020-501-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Sachkundebestätigungen und Sachkundenachweise für Veranstaltungen mit Laserstrahlung
 
-vom 26. Juni 2020 (Stand am 1. Dezember 2022)
+vom 26. Juni 2020 (Stand am 1. November 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 16 Absatz 4 der Verordnung vom 27. Februar 2019[^ingress-1
 
 verordnet:
 
-[^ingress-1]: [SR 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
+[^ingress-1]: [SR 814.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9587)
 
 #### Art. 1
 
@@ -48,11 +48,13 @@ Wer Sachkundebestätigungen oder Sachkundenachweise nach Artikel 1 beantragen wi
 Die zur Ausstellung von Sachkundebestätigungen und Sachkundenachweisen nach dem Anhang berechtigten Prüfungsstellen melden dem BAG jährlich bis spätestens 31. Oktober:
 
 - a. eine Prüfungsstatistik, die Aufschluss gibt über die Anteile der erfolgreich und erfolglos abgeschlossenen Prüfungen;
-- b. die Daten der geplanten Ausbildungen und Prüfungen für das Folgejahr.
+- b. ...[^3-1]
 
 <sup>2</sup> Sie melden dem BAG jeweils nach abgeschlossenen Prüfungen innert einem Monat die Personen mit Vor- und Nachnamen sowie Geburtsdatum, denen eine Sachkundebestätigung oder ein Sachkundenachweis ausgestellt wurde.
 
 <sup>3</sup> Sie melden dem BAG Anpassungen der Ausbildungs- und Prüfungsunterlagen sowie der fachlichen Qualifikationen an den Stand des Wissens und der Technik.
+
+[^3-1]: Aufgehoben durch Ziff. III der V des EDI vom 19. Sept. 2025, mit Wirkung seit 1. Nov. 2025 ([AS 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 #### Art. 4
 

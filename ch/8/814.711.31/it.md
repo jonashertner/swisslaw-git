@@ -3,18 +3,18 @@ sr: "814.711.31"
 title: "Ordinanza del DFI del 26 giugno 2020 sulle conferme di competenza e gli attestati di competenza per le manifestazioni che prevedono l'impiego di radiazione laser"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/501"
 language: it
-version: 2022-12-01
+version: 2025-11-01
 adopted: 2020-06-26
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2020-501-20221201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2020-501-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle conferme di competenza e gli attestati di competenza per le manifestazioni che prevedono l’impiego di radiazione laser
 
-del 26 giugno 2020 (Stato 1° dicembre 2022) (Stato 1° dicembre 2022)
+del 26 giugno 2020 (Stato 1° novembre 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -22,7 +22,7 @@ visto l’articolo 16 capoverso 4 dell’ordinanza del 27 febbraio 2019[^ingress
 
 ordina:
 
-[^ingress-1]: [RS 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
+[^ingress-1]: [RS 814.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9587)
 
 #### Art. 1
 
@@ -48,11 +48,13 @@ Chi intende richiedere conferme di competenza o attestati di competenza di cui a
 Gli organi d’esame autorizzati a rilasciare le conferme di competenza e gli attestati di competenza di cui nell’allegato notificano ogni anno all’UFSP, al più tardi entro il 31 ottobre:
 
 - a. una statistica degli esami che indichi le quote di esami superati e non superati;
-- b. le date delle formazioni e degli esami previsti per l’anno successivo.
+- b.[^3-1] ...
 
 <sup>2</sup> Essi notificano all’UFSP, entro un mese dal termine degli esami, le persone a cui hanno rilasciato una conferma di competenza o un attestato di competenza, indicando il nome e il cognome nonché la data di nascita.
 
 <sup>3</sup> Essi notificano all’UFSP eventuali adeguamenti dei documenti relativi alla formazione e agli esami nonché delle qualifiche professionali allo stato della scienza e della tecnica.
+
+[^3-1]: Abrogata dalla cifra III dell’O del DFI del 19 set. 2025, con effetto dal 1° nov. 2025 ([RU 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 #### Art. 4
 
@@ -72,7 +74,7 @@ Allegato[^t-1]
 
 ## Conferme di competenza e attestati di competenza
 
-[^t-1]: Aggiornato dal n. I dell’O del DFI del 19 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 594](https://fedlex.data.admin.ch/eli/oc/2022/594)).
+[^t-1]: Aggiornato dalla cifra I dell’O del DFI del 19 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 594](https://fedlex.data.admin.ch/eli/oc/2022/594)).
 
 - 1\. Le conferme di competenza secondo l’articolo 16 capoverso 1 lettera a O-LRNIS (CC) e gli attestati di competenza secondo l’articolo 16 capoverso 1 lettera b O-LRNIS (AC) menzionati qui di seguito autorizzano a utilizzare apparecchi laser delle classi 1M, 2M, 3R, 3B e 4 durante manifestazioni che prevedono l’impiego di radiazione laser:
 
