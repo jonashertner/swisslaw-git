@@ -4,7 +4,7 @@ number: "850.11.1"
 title: "RÈGLEMENT du 28.06.2006 d'application de la loi du 24 janvier 2006 d'aide aux personnes recourant à l'action médico-sociale (RLAPRAMS)"
 short: RLAPRAMS
 language: fr
-version: 2021-01-01
+version: 2025-11-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8"
 ---
 
@@ -54,20 +54,20 @@ arrête
 
 <sup>1</sup> Les conventions tarifaires définissent notamment :
 
-- a. les fournisseurs de prestations;
+- a. les fournisseurs de prestations, pour les logements adaptés avec accompagnement (ci-après LADA), les propriétaires et si distincts, les prestataires de services ;
 - b. les bénéficiaires;
 - c. les prestations et leurs tarifs;
 - d. les sources de financement (participation financière des régimes sociaux, subventions);
 - e. les éléments constitutifs du contrôle et de la surveillance;
 - f. les modalités de facturation et de remboursement.
 
-[^1-6]: Modif. 8 du 12.11.2025: Modification Al. 1, a; entrée en vigueur au 01.11.2025; Introduction Art. 3, Al. 5; entrée en vigueur au 01.11.2025; Introduction Art. 15a; entrée en vigueur au 01.07.2026; Introduction Art. 18, Al. 2; entrée en vigueur au 01.11.2025; Introduction Art. 18a; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025; Introduction Art. 18c; entrée en vigueur au 01.11.2025; Introduction Art. 19, Al. 4-6; entrée en vigueur au 01.11.2025; Introduction Art. 22, Al. 2; entrée en vigueur au 01.11.2025
+[^1-6]: Modif. 8 du 12.11.2025: Modification Al. 1, a; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
 
 #### Art. 3
 
 **Objet et exercice du contrôle (Art. 7 loi) [^2-1]**
 
-<sup>1</sup> Le SASH contrôle que les aides individuelles octroyées aux bénéficiaires des régimes sociaux, notamment les prestations complémentaires à l'AVS/AI (ci-après : PC AVS/AI) et les aides individuelles versées au titre de la loi[^3-1] , soient bien affectées à leurs destinations, soit en cas de maintien à domicile, en Centre d'accueil temporaire (ci-après : CAT), en logements protégés ou supervisés, lors de courts séjours ou d'hébergement.
+<sup>1</sup> La direction en charge de l'octroi des prestations au sens de la loi (ci-après: la direction) contrôle que les aides individuelles octroyées aux bénéficiaires des régimes sociaux, notamment les prestations complémentaires à l'AVS/AI (ci-après : PC AVS/AI) et les aides individuelles versées au titre de la loi, soient bien affectées à leurs destinations, soit en cas de maintien à domicile, en Centre d'accueil temporaire (ci-après : CAT), en LADA labelisés au sens de l'article 16a de la loi, ou logements supervisés, lors de courts séjours ou d'hébergement.
 
 <sup>2</sup> Il contrôle également l'affectation conforme des subventions octroyées aux organismes de maintien à domicile et aux établissements médico-sociaux (ci-après : EMS) pour les prestations de maintien à domicile.
 
@@ -75,12 +75,13 @@ arrête
 
 <sup>4</sup> Il peut contrôler la gestion des biens propres et des montants pour dépenses personnelles des résidents, lorsqu'elle est effectuée par les établissements. Il peut procéder à des contrôles ponctuels et plus approfondis auprès des établissements, ou mandater des organismes compétents.
 
-[^2-1]: Modif. 2 du 12.10.2011: Modification Al. 2; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. 1,2,3; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 5; entrée en vigueur au 01.11.2025; Introduction Art. 15a; entrée en vigueur au 01.07.2026; Introduction Art. 18, Al. 2; entrée en vigueur au 01.11.2025; Introduction Art. 18a; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025; Introduction Art. 18c; entrée en vigueur au 01.11.2025; Introduction Art. 19, Al. 4-6; entrée en vigueur au 01.11.2025; Introduction Art. 22, Al. 2; entrée en vigueur au 01.11.2025
-[^3-1]: Loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98))
+<sup>5</sup> S'agissant des LADA labelisés au sens de l'article 16a de la loi, la direction évalue périodiquement la qualité et le suivi des prestations fournies au sein des LADA, conformément à une directive de la direction précitée.
+
+[^2-1]: Modif. 2 du 12.10.2011: Modification Al. 2; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. 1,2,3; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 5; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
 
 #### Art. 4
 
-**Objet et exercice de la surveillance (Art. 7 loi) [^3-2]**
+**Objet et exercice de la surveillance (Art. 7 loi) [^3-1]**
 
 <sup>1</sup> La surveillance des EMS, des HNM, des PPS et des CAT est exercée par la Coordination interservices des visites en EMS (ci-après : CIVEMS), en collaboration avec le SSP.
 
@@ -90,7 +91,7 @@ arrête
 
 <sup>4</sup> Lors de constat de carence, le fournisseur de prestations concerné au sens de l'alinéa précédent, est tenu de prendre les mesures adéquates. En cas d'inobservation de ces mesures, le SASH peut prendre les dispositions nécessaires pour assurer le bien-être des résidents, le cas échéant en collaboration avec le SSP.
 
-[^3-2]: Modif. 2 du 12.10.2011: Modification Al. 1,3; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. 1,3; entrée en vigueur au 01.01.2018
+[^3-1]: Modif. 2 du 12.10.2011: Modification Al. 1,3; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. 1,3; entrée en vigueur au 01.01.2018
 
 ## Titre II Maintien À domicile
 
@@ -267,29 +268,80 @@ arrête
 [^17-1]: Loi du 02.12.2003 sur l'action sociale vaudoise ([BLV 850.051](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051?id=8b71b9d3-03d0-4865-8475-19e60cc46a73))
 [^17-2]: Modif. 6 du 27.06.2018: Modification ; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification ; entrée en vigueur au 01.11.2025
 
-### Section III Logement protégé et supervisé
+### Section III Logement adapté avec accompagnement et logement supervisé
 
 [^17-2]
 
 #### Art. 18
 
-**Bénéficiaires de logements protégés (Art. 16 loi) [^sectionSectionIII-1]**
+**Bénéficiaires de logement adapté avec accompagnement (Art. 16 loi) [^sectionSectionIII-1]**
 
-<sup>1</sup> Le logement protégé est en principe réservé aux personnes dépendantes, qui le nécessitent, sur la base d'une évaluation de leur situation par une commission d'attribution et de suivi des locataires composée des partenaires concernés de la région, parmi lesquels le Bureau régional d'information et d'orientation (ci-après : BRIO) ou le CMS.
+<sup>1</sup> Les bénéficiaires de LADA sont des locataires qui le nécessitent en raison notamment de l'âge, d'un handicap, de difficultés motrices, de besoin de soutien social et de contact ou de besoin de sécurité.
 
-[^sectionSectionIII-1]: Modif. 2 du 12.10.2011: Modification Al. 1; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. t,1; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Introduction Art. 3, Al. 5; entrée en vigueur au 01.11.2025; Introduction Art. 15a; entrée en vigueur au 01.07.2026; Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 2; entrée en vigueur au 01.11.2025; Introduction Art. 18a; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025; Introduction Art. 18c; entrée en vigueur au 01.11.2025; Introduction Art. 19, Al. 4-6; entrée en vigueur au 01.11.2025; Introduction Art. 22, Al. 2; entrée en vigueur au 01.11.2025
+<sup>2</sup> Une directive peut préciser d'autres critères médico-sociaux pertinents.
+
+[^sectionSectionIII-1]: Modif. 2 du 12.10.2011: Modification Al. 1; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. t,1; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 2; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+
+#### Art. 18a
+
+**Procédure d'attribution et de suivi des LADA [^18-1]**
+
+<sup>1</sup> Les LADA sont attribués, sur la base d'une évaluation de la situation du bénéficiaire, par une commission d'attribution et de suivi des locataires (ci-après COMAT) composée notamment du Bureau régional d'information et d'orientation (ci-après BRIO), du propriétaire du LADA ou son représentant et, si distinct, du prestataire de service.
+
+<sup>2</sup> Les personnes intéressées à intégrer un LADA remplissent un formulaire d'inscription type établi par la direction.
+
+<sup>3</sup> La COMAT s'assure du suivi des locataires en LADA, en particulier de l'adéquation entre leurs besoins et les prestations fournies. Au besoin, la COMAT propose notamment des alternatives au LADA ou des compléments de prestations.
+
+<sup>4</sup> Une directive précise notamment les modalités d'évaluation et la procédure d'attribution du LADA au locataire.
+
+[^18-1]: Modif. 8 du 12.11.2025: Introduction Art. 18a; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+
+#### Art. 18b
+
+**Tâches des BRIO (Art. 16b loi) [^18a-1]**
+
+<sup>1</sup> Les tâches des BRIO et le financement de celles-ci sont précisés dans une directive. Afin d'alimenter le suivi et le monitoring du dispositif des LADA, le BRIO utilise un formulaire d'évaluation validé par la direction.
+
+<sup>2</sup> Un accord de collaboration portant sur le fonctionnement de la COMAT est signé entre le BRIO, le propriétaire et, si distinct, le prestataire de services et la direction. Cette dernière établit un accord type minimal de collaboration.
+
+<sup>3</sup> Le BRIO analyse la situation globale de la personne, en collaborant étroitement avec tous les partenaires déjà actifs dans la situation, notamment avec l'AVASAD, les OSAD privées et les infirmières indépendantes.
+
+<sup>4</sup> Les BRIO collaborent avec des partenaires non labelisés au sens de l'article 16a de la loi, qui en font la demande. Cette collaboration volontaire s'effectue notamment aux conditions suivantes :
+
+- a. le partenaire privé est actif dans une mission similaire aux LADA ;
+- b. le partenaire privé intègre le BRIO au sein de sa COMAT et signe un accord de collaboration tel que défini à l'alinéa 2.
+
+<sup>5</sup> Les modalités de la collaboration citées à l'alinéa 3 sont précisées dans une directive.
+
+[^18a-1]: Modif. 8 du 12.11.2025: Introduction tArt; entrée en vigueur au 01.11.2025; Introduction Al. 1-5; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+
+#### Art. 18c
+
+**Formation continue des professionnels travaillant dans les LADA (art. 16a al. 1er lettre d loi) [^18b-1]**
+
+<sup>1</sup> Afin de délivrer des prestations adéquates et de qualité, les professionnels travaillant dans les LADA, en particulier les référents sociaux bénéficient de formations continues.
+
+<sup>2</sup> La direction développe un catalogue de formation en collaboration avec les partenaires du dispositif LADA.
+
+[^18b-1]: Modif. 8 du 12.11.2025: Introduction Art. 18c; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
 
 #### Art. 19
 
-**Prestations spécifiques au logement protégé (Art. 16 loi) [^18-1]**
+**Prestations spécifiques au LADA (Art. 16 loi) [^18c-1]**
 
-<sup>1</sup> Les prestations spécifiques au logement protégé sont la mise à disposition d'un encadrement sécuritaire ou socio-éducatif de proximité, de locaux communautaires, l'accompagnement social et l'animation, ainsi que les prestations courantes à domicile (aide au ménage, repas).
+<sup>1</sup> Le référent social propose un accompagnement sécurisant, social et des animations au sein d'espaces communautaires accessibles aux locataires en tout temps.
 
-<sup>2</sup> L'aide et les soins fournis aux locataires sont dispensés par une OSAD.
+<sup>2</sup> Le cahier des charges minimal du référent social est précisé dans une directive.
 
-<sup>3</sup> Un contrat entre l'OSAD, le locataire et, le cas échéant, le bailleur, précise les modalités de fourniture des prestations ainsi que les droits et les devoirs des parties.
+<sup>3</sup> L'aide et les soins sont dispensés par l'AVASAD, une OSAD privée ou une infirmière indépendante reconnue par le département et librement choisie par le locataire.
 
-[^18-1]: Modif. 6 du 27.06.2018: Modification Al. t; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Introduction Art. 3, Al. 5; entrée en vigueur au 01.11.2025; Introduction Art. 15a; entrée en vigueur au 01.07.2026; Introduction Art. 18, Al. 2; entrée en vigueur au 01.11.2025; Introduction Art. 18a; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025; Introduction Art. 18c; entrée en vigueur au 01.11.2025; Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1-3; entrée en vigueur au 01.11.2025; Introduction Al. 4-6; entrée en vigueur au 01.11.2025; Introduction Art. 22, Al. 2; entrée en vigueur au 01.11.2025
+<sup>4</sup> Des échanges d'informations entre le prestataire de services en LADA et l'AVASAD, les OSAD privées ou les infirmières indépendantes sont réalisés avec le consentement du locataire.
+
+<sup>5</sup> Le locataire signe un bail à loyer couplé à un contrat de prestations qui précise notamment les prestations délivrées au sein du LADA, les coûts, les modalités de fourniture des prestations, de facturation et de remboursement par les régimes sociaux, ainsi que les droits et les devoirs des parties.
+
+<sup>6</sup> Une directive précise notamment les prestations précitées, les modalités de calcul du coût reconnu à la charge du locataire autonome financièrement ou des régimes sociaux ainsi que les modalités de facturation.
+
+[^18c-1]: Modif. 6 du 27.06.2018: Modification Al. t; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1-3; entrée en vigueur au 01.11.2025; Introduction Al. 4-6; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
 
 #### Art. 19a
 
@@ -323,11 +375,11 @@ arrête
 
 #### Art. 21
 
-**L'encadrement sécuritaire [^20-1]**
+**... [^20-1]**
 
-<sup>1</sup> Les prestations d'encadrement sécuritaire consistent principalement en un équipement adéquat et une surveillance régulière assurée par une personne de référence, responsable de mobiliser le service compétent en cas de besoin.
+<sup>1</sup> ...
 
-[^20-1]: Modif. 8 du 12.11.2025: Introduction Art. 3, Al. 5; entrée en vigueur au 01.11.2025; Introduction Art. 15a; entrée en vigueur au 01.07.2026; Introduction Art. 18, Al. 2; entrée en vigueur au 01.11.2025; Introduction Art. 18a; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025; Introduction Art. 18c; entrée en vigueur au 01.11.2025; Introduction Art. 19, Al. 4-6; entrée en vigueur au 01.11.2025; Abrogation tArt; entrée en vigueur au 01.11.2025; Abrogation Al. 1; entrée en vigueur au 01.11.2025; Introduction Art. 22, Al. 2; entrée en vigueur au 01.11.2025
+[^20-1]: Modif. 8 du 12.11.2025: Abrogation tArt; entrée en vigueur au 01.11.2025; Abrogation Al. 1; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
 
 #### Art. 22
 
@@ -335,7 +387,9 @@ arrête
 
 <sup>1</sup> L'octroi de l'aide individuelle par les PC AVS/AI ou au titre de la loi[^22-1] , s'effectue sur la base d'une convention dans laquelle sont précisées les tarifs des prestations reconnues au sens des articles 19 et suivants.
 
-[^21-1]: Modif. 8 du 12.11.2025: Introduction Art. 3, Al. 5; entrée en vigueur au 01.11.2025; Introduction Art. 15a; entrée en vigueur au 01.07.2026; Introduction Art. 18, Al. 2; entrée en vigueur au 01.11.2025; Introduction Art. 18a; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025; Introduction Art. 18c; entrée en vigueur au 01.11.2025; Introduction Art. 19, Al. 4-6; entrée en vigueur au 01.11.2025; Introduction Al. 2; entrée en vigueur au 01.11.2025
+<sup>2</sup> Des directives fixent notamment les modalités d'octroi de l'aide et de remboursement par les régimes sociaux des prestations délivrées en LADA.
+
+[^21-1]: Modif. 8 du 12.11.2025: Introduction Al. 2; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
 [^22-1]: Loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98))
 
 ### Section IV Court séjour
