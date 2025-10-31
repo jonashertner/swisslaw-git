@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2007 über die Leistungen des Bundes für den
 short: LSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: de
-version: 2024-01-01
+version: 2025-11-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-862-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2007-862-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/de"
 
 (LSMV)
 
-vom 21. November 2007 (Stand am 1. Januar 2024)
+vom 21. November 2007 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 3 Absatz 1 Buchstabe a, 4 Absatz 2, 6, 7 Absätze 2 un
 
 verordnet:
 
-[^ingress-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^ingress-1]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 ## 1. Kapitel: Betriebsbeiträge an Erziehungseinrichtungen
 
@@ -100,7 +100,7 @@ Als Kinder und Jugendliche, die in ihrem Sozialverhalten erheblich gestört sind
 - c. deren Verhaltensstörung eine stationäre Abklärung erfordert.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^4-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^4-3]: Fassung gemäss Ziff. I der V vom 19. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 5
@@ -168,11 +168,11 @@ Sie endet:
 
 <table>
 <tr><th></th><th>pro Einheit:</th><th>massgebliche Personaldotation in Stellenprozenten:</th></tr>
-<tr><td>a. Grundangebot</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Grundangebot</td><td></td><td></td></tr>
 <tr><td>1. stationäre sozialpädagogische Wohngruppe</td><td>Gruppe</td><td>460 %</td></tr>
 <tr><td>2. Kleinsteinrichtung (eine Wohngruppe)</td><td>Einrichtung</td><td>100 %</td></tr>
 <tr><td>3. erhöhte Gruppengrösse der Kleinsteinrichtung</td><td>Platz, ab 11. Platz</td><td>10 %</td></tr>
-<tr><td>b. Zusatzangebot</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>b. Zusatzangebot</td><td></td><td></td></tr>
 <tr><td>1. Notaufnahmegruppe/Abklärung</td><td>Gruppe</td><td>200 %</td></tr>
 <tr><td>2. Geschlossenheit</td><td>Gruppe</td><td>150 %</td></tr>
 <tr><td>3. Disziplinarabteilung</td><td>Platz</td><td>10 %</td></tr>
@@ -284,7 +284,7 @@ Bundesbeiträge von weniger als 100 000 Franken werden nicht ausgerichtet (Art. 
 
 <sup>3</sup> Im Einzelfall passt das BJ bei der Schlusszahlung nach Ende des Neu-, Aus- oder Umbaus die anerkannten Kosten nach seinen Richtlinien (Art. 13 Abs. 4) der Teuerung an.[^15-2]
 
-[^15-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^15-1]: [SR 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
 [^15-2]: Fassung gemäss Ziff. II der V vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### 2. Abschnitt: Erziehungseinrichtungen
@@ -404,7 +404,7 @@ Für die notwendige minimale Infrastruktur folgender kleiner Anstalten wird ein 
 <sup>4</sup> Für gewerbliche Betriebe, die aufgrund ihrer Ausrichtung einen grösseren Flächenbedarf aufweisen, wird der Modellflächenwert für den Bereich «Arbeit» erhöht.
 
 [^20c-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^20c-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20c-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 20d
 
@@ -444,7 +444,7 @@ Der Bund kann Beiträge an Modellversuche (Art. 8 LSMG) gewähren, insbesondere 
 
 [^chap4-1]
 
-[^chap4-1]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 25. April 2017 angepasst. Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^chap4-1]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 25. April 2017 angepasst. Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 24
 
@@ -460,14 +460,11 @@ Der Bund kann Beiträge an Modellversuche (Art. 8 LSMG) gewähren, insbesondere 
 
 <sup>1</sup> Das BJ trifft die Verfügungen über die Anerkennung der Beitragsberechtigung und über die Zusprechung und Ausrichtung von Beiträgen.
 
-<sup>2</sup>
-
-Finanzhilfen werden im Einzelfall zugesprochen und ausbezahlt:
-
-- a. bis 3 Millionen Franken: vom BJ allein;
-- b. über 3 Millionen Franken: vom BJ im Einvernehmen mit der Eidgenössischen Finanzverwaltung.
+<sup>2</sup> …[^25-1]
 
 <sup>3</sup> Das BJ unterzeichnet die Leistungsvereinbarungen mit der zuständigen kantonalen Behörde.
+
+[^25-1]: Aufgehoben durch Ziff. I 1 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 26
 

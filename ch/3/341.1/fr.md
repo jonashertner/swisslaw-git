@@ -4,11 +4,11 @@ title: "Ordonnance du 21 novembre 2007 sur les prestations de la Confédération
 short: OPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: fr
-version: 2024-01-01
+version: 2025-11-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-862-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-862-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/fr"
 
 (OPPM)
 
-du 21 novembre 2007 (État le 1<sup>er</sup> janvier 2024)
+du 21 novembre 2007 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 3, al. 1, let. a, 4, al. 2, 6, 7, al. 2 et 3, 9, al. 2 et 18, al. 1,
 
 arrête:
 
-[^ingress-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^ingress-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 ## Chapitre 1 Subventions d’exploitation allouées aux établissements d’éducation
 
@@ -100,7 +100,7 @@ Sont considérés comme enfants et adolescents dont le comportement social est g
 - c. dont le trouble du comportement appelle une mise en observation dans un établissement d’éducation.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^4-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 5
@@ -168,11 +168,11 @@ Il prend fin:
 
 <table>
 <tr><th></th><th>par unité:</th><th>dotation en personnel déterminante:</th></tr>
-<tr><td>a. Offre de base</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Offre de base</td><td></td><td></td></tr>
 <tr><td>1. groupe de vie socio-éducatif en internat</td><td>groupe</td><td>460 %</td></tr>
 <tr><td>2. micro-établissement (un groupe de vie)</td><td>établissement</td><td>100 %</td></tr>
 <tr><td>3. nombre accru de pensionnaires dans un micro-établissement</td><td>place, dès la 11<sup>e</sup> place</td><td>10 %</td></tr>
-<tr><td>b. Offre supplémentaire</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>b. Offre supplémentaire</td><td></td><td></td></tr>
 <tr><td>1. admission en urgence, observation</td><td>groupe</td><td>200 %</td></tr>
 <tr><td>2. section fermée</td><td>groupe</td><td>150 %</td></tr>
 <tr><td>3. section disciplinaire</td><td>place</td><td>10 %</td></tr>
@@ -180,7 +180,7 @@ Il prend fin:
 <tr><td>5. formation professionnelle sans école professionnelle interne</td><td>place</td><td>40 %</td></tr>
 <tr><td>6. structure de jour, forfait</td><td>groupe</td><td>200 %</td></tr>
 <tr><td>7. phase de progression</td><td>place</td><td>25 %</td></tr>
-<tr><td>[tab]</td><td></td><td>.[^9-3]</td></tr>
+<tr><td></td><td></td><td>.[^9-3]</td></tr>
 </table>
 
 <sup>5</sup> La subvention d’exploitation se calcule en fonction des journées de séjour déterminantes qui ont été enregistrées entre le 1<sup>er</sup> janvier et le 31 décembre de l’année civile précédente. Ces journées sont comprises dans des fourchettes et déterminent le facteur appliqué dans le calcul du montant de la subvention selon les degrés suivants:
@@ -285,7 +285,7 @@ La Confédération ne verse pas de subventions de moins de 100 000 francs (art. 
 
 <sup>3</sup> Dans certains cas, l’OFJ adapte les frais reconnus au renchérissement selon les directives qu’il a édictées (art. 13, al. 4), à la faveur du dernier paiement effectué au terme de la construction, de l’agrandissement ou de la transformation.[^15-2]
 
-[^15-1]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
+[^15-1]: [RS 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
 [^15-2]: Nouvelle teneur selon le ch. II de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### Section 2 Etablissements d’éducation
@@ -405,7 +405,7 @@ Un supplément calculé en pour-cent du prix des secteurs est alloué aux établ
 <sup>4</sup> La surface de référence correspondant au secteur «travail» est augmentée pour la construction d’exploitations affectées à certains types d’activités nécessitant une plus grande surface.
 
 [^20c-1]: Introduit par le ch. I de l’O du 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^20c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 20d
 
@@ -445,7 +445,7 @@ La Confédération peut allouer des subventions pour des projets pilotes (art. 8
 
 [^chap4-1]
 
-[^chap4-1]: La dénomination a été adaptée au 25 avr. 2017 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^chap4-1]: La dénomination a été adaptée au 25 avr. 2017 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 24
 
@@ -461,14 +461,11 @@ La Confédération peut allouer des subventions pour des projets pilotes (art. 8
 
 <sup>1</sup> L’OFJ arrête les décisions relatives à la reconnaissance du droit aux subventions ainsi qu’à l’octroi et au versement de subventions.
 
-<sup>2</sup>
-
-Les contributions financières sont allouées et versées au cas par cas:
-
-- a. par l’OFJ, si leur montant ne dépasse pas trois millions de francs;
-- b. par l’OFJ en accord avec l’Administration fédérale des finances, si leur montant dépasse trois millions de francs.
+<sup>2</sup> …[^25-1]
 
 <sup>3</sup> L’OFJ signe les conventions de prestations avec l’autorité cantonale compétente.
+
+[^25-1]: Abrogé par le ch. I 1 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 26
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 21 novembre 2007 sulle prestazioni della Confederazione ne
 short: OPPM
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/862"
 language: it
-version: 2024-01-01
+version: 2025-11-01
 adopted: 2007-11-21
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2007-862-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/862/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2007-862-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/862/20240101/it"
 
 (OPPM)
 
-del 21 novembre 2007 (Stato 1° gennaio 2024)
+del 21 novembre 2007 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 3 capoverso 1 lettera a, 4 capoverso 2, 6, 7 capoversi 2 e 3,
 
 ordina:
 
-[^ingress-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^ingress-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 ## Capitolo 1: Sussidi d’esercizio agli istituti d’educazione
 
@@ -59,9 +59,9 @@ Un singolo gruppo abitativo ha diritto ai sussidi se:
 
 <sup>4</sup> Gli istituti d’educazione con scuole speciali, la cui clientela è principalmente stata collocata per una formazione speciale, non sono riconosciuti.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 740).
-[^1-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
+[^1-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 2
 
@@ -99,9 +99,9 @@ Sono considerati fanciulli e adolescenti il cui comportamento sociale è partico
 - b.[^4-3] che sono collocati durevolmente dai genitori in un istituto d’educazione, a condizione che una perizia raccomandi la collocazione stazionaria per ragioni familiari o sociali e un’autorità attiva nel campo dell’aiuto alla gioventù abbia approvato tale collocazione; o
 - c. il cui disturbo di comportamento necessita dell’osservazione e diagnosi in un istituto d’educazione.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^4-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^4-3]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^4-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 5
 
@@ -133,9 +133,9 @@ L’UFG subordina il riconoscimento a condizioni e lo vincola a oneri che assicu
 
 <sup>5</sup> ...[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^7-3]: Abrogato dal n. I dell’O del 19 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^7-3]: Abrogato dalla cifra I dell’O del 19 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 8
 
@@ -150,7 +150,7 @@ Il diritto al sussidio termina:
 - a. per i singoli gruppi abitativi, con la loro soppressione;
 - b. per gli istituti d’educazione, con la chiusura dell’istituto o con la revoca del riconoscimento.[^8-1]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 ### Sezione 2: Calcolo
 
@@ -168,11 +168,11 @@ Il diritto al sussidio termina:
 
 <table>
 <tr><th></th><th>per unità:</th><th colspan="2">Effettivo di personale determinante in percentuale di occupazione:</th></tr>
-<tr><td>a. Offerta di base</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>1. gruppo abitativo socio-pedagogico stazionario</td><td>gruppo</td><td>460 %</td><td>[tab]</td></tr>
-<tr><td>2. istituto di piccole dimensioni (un gruppo abitativo)</td><td>istituto</td><td>100 %</td><td>[tab]</td></tr>
-<tr><td>3. gruppo più numeroso in un istituto di piccole dimensioni</td><td>posto, dall’11° posto</td><td>10 %</td><td>[tab]</td></tr>
-<tr><td>b. Offerta supplementare</td><td>[tab]</td><td></td><td></td></tr>
+<tr><td>a. Offerta di base</td><td></td><td></td><td></td></tr>
+<tr><td>1. gruppo abitativo socio-pedagogico stazionario</td><td>gruppo</td><td>460 %</td><td></td></tr>
+<tr><td>2. istituto di piccole dimensioni (un gruppo abitativo)</td><td>istituto</td><td>100 %</td><td></td></tr>
+<tr><td>3. gruppo più numeroso in un istituto di piccole dimensioni</td><td>posto, dall’11° posto</td><td>10 %</td><td></td></tr>
+<tr><td>b. Offerta supplementare</td><td></td><td></td><td></td></tr>
 <tr><td>1. gruppo ammissione d’urgenza/diagnosi</td><td>gruppo</td><td>200 %</td><td></td></tr>
 <tr><td>2. carattere chiuso</td><td>gruppo</td><td>150 %</td><td></td></tr>
 <tr><td>3. reparto disciplinare</td><td>posto</td><td>10 %</td><td></td></tr>
@@ -197,11 +197,11 @@ ecc.[^9-4]
 
 <sup>6</sup> Se la quota di tre quarti di cui all’articolo 1 capoverso 2 lettera f non è raggiunta, i costi del personale determinanti sono ridotti del 10 per cento per il periodo effettivo durante il quale la quota non è stata raggiunta.[^9-5]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^9-4]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 ### Sezione 3: Accordo di prestazione
 
@@ -222,11 +222,11 @@ L’UFG e l’autorità cantonale competente concludono un accordo di prestazion
 
 <sup>3</sup> ...[^10-5]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^10-5]: Abrogato dal n. I dell’O del 19 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^10-5]: Abrogato dalla cifra I dell’O del 19 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 ## Capitolo 2: Sussidi di costruzione
 
@@ -266,7 +266,7 @@ Sono considerati costi di costruzione riconosciuti (art. 4 cpv. 1 LPPM) le spese
 
 <sup>4</sup> L’UFG emana direttive per il calcolo dei costi di costruzione riconosciuti.[^13-1]
 
-[^13-1]: Nuovo testo giusta il n. II dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+[^13-1]: Nuovo testo giusta la cifra II dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 #### Art. 14
 
@@ -284,8 +284,8 @@ Non sono concessi sussidi federali inferiori a 100 000 franchi (art. 4 cpv. 4 LP
 
 <sup>3</sup> Nel singolo caso, l’UFG al momento del deposito del conteggio finale, al termine dei lavori di costruzione, d’ampliamento o di trasformazione, adatta i costi riconosciuti al rincaro secondo le proprie direttive (art. 13 cpv. 4).[^15-2]
 
-[^15-1]: [RS 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
-[^15-2]: Nuovo testo giusta il n. II dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
+[^15-1]: [RS 172.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5216)
+[^15-2]: Nuovo testo giusta la cifra II dell’O del 25 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
 ### Sezione 2: Istituti d’educazione
 
@@ -329,7 +329,7 @@ Il DFGP fissa supplementi per:
 
 <sup>3</sup> In caso di istituti d’educazione, che adempiono soltanto in parte i compiti previsti dall’articolo 2 LPPM, il sussidio forfetario è ridotto proporzionalmente al numero di giorni di permanenza non riconosciuti (art. 1 cpv. 2 lett. i e art. 4 cpv. 3 LPPM).
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 ### Sezione 3: Stabilimenti per adulti
 
@@ -353,8 +353,8 @@ Il DFGP determina i sussidi forfetari per singolo posto per i tre stabilimenti t
 
 <sup>4</sup> In caso di costruzione di un nuovo stabilimento i sussidi forfetari per singolo posto sono versati soltanto se i limiti di superficie definiti dal DFGP sono raggiunti.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^19-2]: Introdotto dal n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^19-2]: Introdotto dalla cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 20
 
@@ -364,7 +364,7 @@ Il DFGP determina i sussidi forfetari per singolo posto per i tre stabilimenti t
 
 <sup>2</sup> Per i posti del massimo livello di sicurezza è concesso un ulteriore supplemento per la sicurezza.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 20a
 
@@ -379,7 +379,7 @@ Il DFGP determina i sussidi forfetari per singolo posto per i tre stabilimenti t
 
 <sup>2</sup> Per gli stabilimenti con oltre 200 posti i prezzi di settore sono ridotti percentualmente.
 
-[^20a-1]: Introdotto dal n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 20b
 
@@ -389,7 +389,7 @@ Il DFGP determina i sussidi forfetari per singolo posto per i tre stabilimenti t
 
 <sup>2</sup> In caso di trasformazione di uno stabilimento, i sussidi forfetari sono ridotti secondo un coefficiente di correzione. Il coefficiente di correzione prende in considerazione il grado d’intervento e la parte oggetto di rinnovamento. I sussidi per le sistemazioni esterne e per le attrezzature mobili sono calcolati in base ai costi effettivi riconosciuti.
 
-[^20b-1]: Introdotto dal n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^20b-1]: Introdotto dalla cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 #### Art. 20c
 
@@ -403,8 +403,8 @@ Il DFGP determina i sussidi forfetari per singolo posto per i tre stabilimenti t
 
 <sup>4</sup> Per le aziende industriali che a causa del loro orientamento necessitano di una superficie maggiore, il valore di superficie tipo per il settore «lavoro» è aumentato.
 
-[^20c-1]: Introdotto dal n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
-[^20c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20c-1]: Introdotto dalla cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^20c-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 20d
 
@@ -412,7 +412,7 @@ Il DFGP determina i sussidi forfetari per singolo posto per i tre stabilimenti t
 
 In caso di stabilimenti che adempiono soltanto in parte i compiti previsti dall’articolo 2 LPPM, il sussidio forfetario è ridotto proporzionalmente al numero di giorni di permanenza dei collocati penalmente (art. 4 cpv. 3 LPPM).
 
-[^20d-1]: Introdotto dal n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
+[^20d-1]: Introdotto dalla cifra I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4725](https://fedlex.data.admin.ch/eli/oc/2011/668)).
 
 ## Capitolo 3: Progetti sperimentali
 
@@ -444,7 +444,7 @@ La Confederazione può concedere sussidi per progetti sperimentali (art. 8 LPPM)
 
 [^chap4-1]
 
-[^chap4-1]: La denominazione è stata adeguata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 25 apr. 2017. Di questo adeguamento è stato tenuto conto in tutto il presente testo.
+[^chap4-1]: La denominazione è stata adeguata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 25 apr. 2017. Di questo adeguamento è stato tenuto conto in tutto il presente testo.
 
 #### Art. 24
 
@@ -460,14 +460,11 @@ La Confederazione può concedere sussidi per progetti sperimentali (art. 8 LPPM)
 
 <sup>1</sup> L’UFG prende le decisioni per il riconoscimento del diritto ai sussidi nonché per l’assegnazione e il versamento dei sussidi.
 
-<sup>2</sup>
-
-Gli aiuti finanziari sono assegnati e versati nel singolo caso:
-
-- a. dall’UFG, fino a 3 milioni di franchi;
-- b. dall’UFG d’intesa con l’Amministrazione federale delle finanze, oltre i 3 milioni di franchi.
+<sup>2</sup> ...[^25-1]
 
 <sup>3</sup> L’UFG firma gli accordi di prestazione con l’autorità cantonale competente.
+
+[^25-1]: Abrogato dalla cifra I n. 1 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 26
 
@@ -561,7 +558,7 @@ Se i crediti annui relativi sono insufficienti, l’UFG può ripartire su parecc
 
 L’ordinanza del 29 ottobre 1986[^34-1] sulle prestazioni della Confederazione nel campo dell’esecuzione delle pene e delle misure è abrogata.
 
-[^34-1]: [[RU 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941), [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857), [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 37, [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)I 1, [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344), [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)].
+[^34-1]: [[RU 1986 1941](https://fedlex.data.admin.ch/eli/oc/1986/1941_1941_1941); [1989 1857](https://fedlex.data.admin.ch/eli/oc/1989/1857_1857_1857); [1995 217](https://fedlex.data.admin.ch/eli/oc/1995/217_217_217); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)I 37; [1999 2387](https://fedlex.data.admin.ch/eli/oc/1999/364)I 1; [2001 2393](https://fedlex.data.admin.ch/eli/oc/2001/344); [2004 1419](https://fedlex.data.admin.ch/eli/oc/2004/178)].
 
 #### Art. 35
 
@@ -569,7 +566,7 @@ L’ordinanza del 29 ottobre 1986[^34-1] sulle prestazioni della Confederazione 
 
 La modifica del 22 novembre 2023 si applica a tutte le domande di riconoscimento pendenti al momento della sua entrata in vigore e al calcolo dei sussidi d’esercizio per il 2024.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 740](https://fedlex.data.admin.ch/eli/oc/2023/740)).
 
 #### Art. 36
 
