@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'approvisionnement économique du pa
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: fr
-version: 2023-07-01
+version: 2025-11-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-308-20251101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/fr"
 
 (Loi sur l’approvisionnement du pays, LAP)
 
-du 17 juin 2016 (État le 1<sup>er</sup> juillet 2023)
+du 17 juin 2016 (État le 1<sup>er</sup> novembre 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 102 de la Constitution[^ingress-1], vu le message du Conseil fédér
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2014 6859](https://fedlex.data.admin.ch/eli/fga/2014/1571)
 
 ## Chapitre 1 Dispositions générales
@@ -44,8 +44,10 @@ Dans la présente loi, on entend par:
 
 - a*.* *approvisionnement économique du pays:* approvisionnement du pays en biens et services vitaux;
 - b. *pénurie grave:* menace considérable pour l’approvisionnement économique du pays risquant de causer, de manière imminente, de graves dommages économiques ou de perturber considérablement l’approvisionnement économique du pays;
-- c. *domaines:* unités organisationnelles, composées de spécialistes des milieux économiques, de la Confédération, des cantons et des communes, qui sont chargées de l’exécution de la présente loi;
+- c.[^2-1] …
 - d. *mise sur le marché:* remise, à titre onéreux ou gratuit, de biens vitaux dont le stockage a été rendu obligatoire.
+
+[^2-1]: Abrogée par le ch. I de la L du 20 juin 2025, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 3
 
@@ -92,15 +94,18 @@ Sont des services vitaux, notamment:
 
 **Mandat**
 
-<sup>1</sup> Le Conseil fédéral charge les domaines d’effectuer les préparatifs nécessaires pour garantir l’approvisionnement économique du pays en cas de pénurie grave, déclarée ou imminente.
+<sup>1</sup> Le Conseil fédéral charge l’organisation de l’approvisionnement économique du pays (Approvisionnement économique du pays) d’effectuer des préparatifs pour garantir l’approvisionnement du pays en cas de pénurie grave, déclarée ou imminente.[^5-1]
 
-<sup>2</sup> Les domaines veillent à ce que ces préparatifs ne provoquent pas une distorsion de la concurrence.
+<sup>2</sup> Les préparatifs ne doivent pas provoquer une distorsion de la concurrence.[^5-2]
 
 <sup>3</sup> Le Conseil fédéral veille à la coordination entre les départements. Le Département fédéral de l’économie, de la formation et de la recherche (DEFR) est le département responsable.
 
 <sup>4</sup> Si les mesures que les milieux économiques ont prises de leur plein gré ne sont pas suffisantes, le Conseil fédéral peut obliger les entreprises qui ont une importance particulière pour l’approvisionnement économique du pays à prendre des dispositions pour assurer leurs capacités de production, de transformation et de livraison, notamment à préparer des mesures techniques et administratives.
 
 <sup>5</sup> Les activités d’autres autorités destinées à garantir l’approvisionnement en biens et services vitaux sont réservées.
+
+[^5-1]: Nouvelle teneur selon le ch. I de la L du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+[^5-2]: Nouvelle teneur selon le ch. I de la L du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 6
 
@@ -166,7 +171,7 @@ Le contrat de stockage obligatoire règle notamment:
 
 <sup>3</sup> Lorsque l’utilisation des capacités existantes ou la construction d’entrepôts ou d’installations destinés aux réserves obligatoires requièrent une expropriation, le DEFR délivre les droits nécessaires. La procédure est régie par la loi fédérale du 20 juin 1930 sur l’expropriation[^11-1].
 
-[^11-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^11-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 12
 
@@ -281,7 +286,7 @@ L’assiette des impôts directs prélevés par la Confédération et les canton
 
 <sup>2</sup> Les droits de tiers, de nature civile ou publique, résultant de contrats ou de dispositions légales, ne sont pas opposables si la Confédération dispose d’un droit de disjonction ou de gage. Le droit de rétention dont les entrepositaires peuvent se prévaloir pour garantir leurs créances au sens de l’art. 485 du code des obligations[^23-1] est réservé.
 
-[^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24
 
@@ -299,8 +304,8 @@ Lorsque la Confédération ou une entreprise tierce reprend les obligations que 
 
 <sup>3</sup> Si, après déduction de tous les frais, la Confédération ou l’entreprise tierce n’est pas entièrement dédommagée par les marchandises qu’elle a reprises ou réalisées, elle participe à la faillite ou au concordat. En cas d’ajournement de la faillite ou de sursis extraordinaire, elle obtient une créance imprescriptible et productive d’intérêts contre le débiteur.
 
-[^24-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^24-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 25
 
@@ -318,7 +323,7 @@ Lorsque la Confédération ou une entreprise tierce reprend les obligations que 
 
 Les prétentions en matière de révocation visées aux art. 285 à 292 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^26-1] qui découlent de décisions concernant des marchandises sur lesquelles la Confédération ou une entreprise tierce a un droit de disjonction au sens de l’art. 24 de la présente loi ou un droit de gage au sens de l’art. 25 ne peuvent être cédées à un créancier que si la Confédération ou l’entreprise tierce a renoncé à faire valoir ses prétentions.
 
-[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Section 5 Transports et autres prestations
 
@@ -524,7 +529,7 @@ En cas de violation des dispositions de la présente loi, de ses ordonnances d�
 
 <sup>5</sup> La restitution et la dévolution au sens du présent article priment la confiscation au sens des art. 70 à 72 du code pénal[^41-1].
 
-[^41-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -624,7 +629,7 @@ Est puni d’une peine privative de liberté d’un an au plus ou d’une peine 
 
 Les art. 14 à 16 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^51-1] s’appliquent à l’escroquerie en matière de prestations et de contributions, au faux dans les titres, à l’obtention frauduleuse d’une constatation fausse et à la suppression de titres. La peine est cependant une peine privative de liberté de cinq ans au plus ou une peine pécuniaire.
 
-[^51-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^51-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 52
 
@@ -682,7 +687,7 @@ Dans la procédure, l’OFAE peut exercer les mêmes droits qu’une partie plai
 
 <sup>1</sup> Le Conseil fédéral édicte les dispositions d’exécution et prend les mesures nécessaires.
 
-<sup>2</sup> Il détermine les différents domaines. Ceux-ci peuvent se doter de secrétariats à plein temps.
+<sup>2</sup> …[^57-1]
 
 <sup>3</sup> Pour maîtriser une pénurie grave, il peut transférer au DEFR, à titre de précaution, la compétence de libérer des réserves obligatoires.
 
@@ -690,13 +695,49 @@ Dans la procédure, l’OFAE peut exercer les mêmes droits qu’une partie plai
 
 <sup>5</sup> Il veille à informer la population, les entreprises et les autorités de façon adéquate sur la situation en matière d’approvisionnement et il édicte des recommandations pour accroître la sécurité de l’approvisionnement.
 
+[^57-1]: Abrogé par le ch. I de la L du 20 juin 2025, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
 #### Art. 58
 
-**Délégué à l’approvisionnement économique du pays**
+**Approvisionnement économique du pays**[^58-1]
 
-<sup>1</sup> Le Conseil fédéral nomme un délégué à l’approvisionnement économique du pays. Ce délégué doit être issu des milieux économiques.
+<sup>1</sup> L’Approvisionnement économique du pays est composé du délégué, des domaines et de l’OFAE.
 
-<sup>2</sup> Le délégué dirige à titre accessoire l’OFAE et les domaines.
+<sup>2</sup> Le Conseil fédéral peut désigner d’autres services de la Confédération pour exécuter les tâches de l’Approvisionnement économique du pays.
+
+[^58-1]: Nouvelle teneur selon le ch. I de la L du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58a
+
+**Délégué**[^58a-1]
+
+<sup>1</sup> Le Conseil fédéral nomme un délégué à l’approvisionnement économique du pays (délégué). Le délégué doit avoir acquis une vaste expérience dans les milieux économiques.
+
+<sup>2</sup> Le délégué dirige l’Approvisionnement économique du pays.
+
+<sup>3</sup> Il peut faire appel aux services visés à l’art. 58, al. 2.
+
+<sup>4</sup> Il suit avec les domaines la situation en matière d’approvisionnement et réalise les relevés statistiques requis pour garantir l’approvisionnement économique du pays. Il tient compte dans ces activités des relevés effectués par d’autres autorités et par les milieux économiques.
+
+<sup>5</sup> Il veille à ce que le traitement des données statistiques ne provoque pas une distorsion de la concurrence.
+
+[^58a-1]: Introduit par le ch. I de la L du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58b
+
+**Domaines**[^58b-1]
+
+<sup>1</sup> Le Conseil fédéral détermine les différents domaines. Ceux-ci peuvent se doter de secrétariats à plein temps.
+
+<sup>2</sup> Les domaines se composent majoritairement de spécialistes des milieux économiques, mais aussi de spécialistes de la Confédération, des cantons, des villes et des communes. Les membres des domaines rendent publics leurs liens d’intérêts.
+
+<sup>3</sup> Les domaines mettent à disposition leurs connaissances techniques et leurs réseaux professionnels pour garantir l’approvisionnement économique du pays.
+
+<sup>4</sup> Ils planifient et élaborent avec l’OFAE les préparatifs visés à l’art. 5, al. 1.
+
+<sup>5</sup> Le Conseil fédéral peut confier aux domaines des tâches qui s’inscrivent dans les mesures prévues aux art. 31 à 33. Il peut les habiliter à rendre des décisions.
+
+[^58b-1]: Introduit par le ch. I de la L du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 59
 
@@ -740,11 +781,9 @@ Pour garantir l’approvisionnement économique du pays, le Conseil fédéral pe
 
 #### Art. 62
 
-**Suivi de la situation en matière d’approvisionnement et enquêtes statistiques**
+[^62-1]
 
-<sup>1</sup> Le Conseil fédéral suit en permanence la situation en matière d’approvisionnement et ordonne les enquêtes statistiques requises pour garantir l’approvisionnement économique du pays.
-
-<sup>2</sup> Il s’appuie à cet effet sur les relevés effectués par d’autres autorités et par les milieux économiques. Il veille à ce que le relevé et le traitement des données statistiques ne provoquent pas de distorsion de la concurrence.
+[^62-1]: Abrogé par le ch. I de la L du 20 juin 2025, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 63
 
@@ -762,7 +801,7 @@ Quiconque concourt à l’exécution de la présente loi est tenu de garder le s
 
 <sup>3</sup> Indépendamment de l’obligation de garder le secret, l’OFDF met les justificatifs et les données à la disposition de l’OFAE, des domaines, des organismes chargés de gérer les fonds de garantie et des organisations des milieux économiques, pour autant qu’ils soient indispensables à l’exécution la présente loi.[^64-2]
 
-[^64-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^64-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^64-2]: Nouvelle teneur selon le ch. I 14 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapitre 9 Dispositions finales
@@ -803,7 +842,7 @@ Le Conseil fédéral peut suspendre les dispositions suivantes:
 - 7\.[^annex1-lvlu1-8] …
 - 8\.[^annex1-lvlu1-9] …
 
-[^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^annex1-lvlu1-2]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-3]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur du 24 sept. 2022 au 31 mai 2023 ([RO 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-4]: Introduit par le ch. I de l’O du 30 sept. 2022, en vigueur du 1<sup>er</sup> oct. 2022 au 30 avr. 2023 ([RO 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
@@ -829,5 +868,5 @@ Les actes ci-après sont modifiés comme suit:
 
 …[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[RO 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 15]
+[^annex2-lvlu1-1]: [[RO 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)annexe 1 ch. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 15]
 [^annex2-lvlu1-2]: Les mod. peuvent être consultées au [RO 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).

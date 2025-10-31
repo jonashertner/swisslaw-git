@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2016 über die wirtschaftliche Landesversorgun
 short: LVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: de
-version: 2023-07-01
+version: 2025-11-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2017-308-20251101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/de"
 
 (Landesversorgungsgesetz, LVG)
 
-vom 17. Juni 2016 (Stand am 1. Juli 2023)
+vom 17. Juni 2016 (Stand am 1. November 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 102 der Bundesverfassung[^ingress-1], nach Einsicht in die
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2014 7119](https://fedlex.data.admin.ch/eli/fga/2014/1571)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -44,8 +44,10 @@ In diesem Gesetz bedeuten:
 
 - a. *wirtschaftliche Landesversorgung:* Versorgung des Landes mit lebenswichtigen Gütern und Dienstleistungen;
 - b. *schwere Mangellage:* erhebliche Gefährdung der wirtschaftlichen Landesversorgung mit unmittelbar drohenden, grossen volkswirtschaftlichen Schäden oder erhebliche Störung der wirtschaftlichen Landesversorgung;
-- c. *Fachbereiche:* aus Fachleuten der Wirtschaft, des Bundes, der Kantone und der Gemeinden zusammengesetzte Organisationseinheiten zum Vollzug dieses Gesetzes;
+- c.[^2-1] …
 - d. *Inverkehrbringen:* das entgeltliche oder unentgeltliche Überlassen von Pflichtlagergütern.
+
+[^2-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 3
 
@@ -92,15 +94,18 @@ Lebenswichtige Dienstleistungen sind insbesondere:
 
 **Auftrag**
 
-<sup>1</sup> Der Bundesrat beauftragt die Fachbereiche, Vorbereitungsmassnahmen zu treffen, damit die wirtschaftliche Landesversorgung im Fall einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage sichergestellt werden kann.
+<sup>1</sup> Der Bundesrat beauftragt die Organisation der wirtschaftlichen Landesversorgung (Wirtschaftliche Landesversorgung), Vorbereitungsmassnahmen zu treffen, damit die Versorgung des Landes im Fall einer unmittelbar drohenden oder bereits bestehenden schweren Mangellage sichergestellt werden kann.[^5-1]
 
-<sup>2</sup> Die Fachbereiche sorgen dafür, dass die Vorbereitungsmassnahmen den Wettbewerb nicht verzerren.
+<sup>2</sup> Die Vorbereitungsmassnahmen dürfen den Wettbewerb nicht verzerren.[^5-2]
 
 <sup>3</sup> Der Bundesrat sorgt für die Koordination zwischen den Departementen. Die Federführung liegt beim Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF).
 
 <sup>4</sup> Reichen die freiwilligen Massnahmen der Wirtschaft nicht aus, so kann der Bundesrat Unternehmen, die für die wirtschaftliche Landesversorgung von besonderer Bedeutung sind, verpflichten, Vorkehrungen zur Sicherstellung ihrer Produktions-, Verarbeitungs- und Lieferbereitschaft zu treffen, insbesondere technische und administrative Massnahmen vorzubereiten.
 
 <sup>5</sup> Vorbehalten bleiben Tätigkeiten anderer Behörden zur Gewährleistung der Versorgung mit lebenswichtigen Gütern und Dienstleistungen.
+
+[^5-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+[^5-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 6
 
@@ -166,7 +171,7 @@ Im Pflichtlagervertrag sind insbesondere zu regeln:
 
 <sup>3</sup> Ist es zur Nutzung bestehender Kapazitäten oder zum Bau von Lagerraum oder von Anlagen für Pflichtlagerwaren notwendig, so erteilt das WBF das Enteignungsrecht. Das Verfahren richtet sich nach dem Enteignungsgesetz vom 20. Juni 1930[^11-1].
 
-[^11-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^11-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 12
 
@@ -281,7 +286,7 @@ Bei der Veranlagung der direkten Steuern des Bundes und der Kantone sind bei Gü
 
 <sup>2</sup> Zivilrechtliche und öffentlich-rechtliche Ansprüche Dritter aus Gesetz oder Vertrag bleiben unwirksam, soweit dem Bund ein Aussonderungs- oder Pfandrecht zusteht. Ausgenommen bleibt das Retentionsrecht der Besitzer von Lagerräumen für Forderungen nach Artikel 485 des Obligationenrechts[^23-1].
 
-[^23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24
 
@@ -299,8 +304,8 @@ Bei der Veranlagung der direkten Steuern des Bundes und der Kantone sind bei Gü
 
 <sup>3</sup> Wird der Bund oder das Drittunternehmen durch die Waren, die er oder es übernommen oder verwertet hat, nach Abzug aller Kosten nicht voll befriedigt, so nimmt er oder es am Konkurs oder am Nachlassvertrag teil. Bei Konkursaufschub und Notstundung erhält er oder es eine verzinsliche und unverjährbare Forderung gegen den Schuldner.
 
-[^24-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^24-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 25
 
@@ -318,7 +323,7 @@ Bei der Veranlagung der direkten Steuern des Bundes und der Kantone sind bei Gü
 
 Anfechtungsansprüche nach den Artikeln 285–292 des Bundesgesetzes vom 11. April 1889[^26-1] über Schuldbetreibung und Konkurs, die sich aus Verfügungen über Waren ergeben, für die dem Bund oder einem Drittunternehmen ein Aussonderungsrecht nach Artikel 24 dieses Gesetzes oder ein Pfandrecht nach Artikel 25 zusteht, können erst an einen Gläubiger abgetreten werden, wenn der Bund oder das Drittunternehmen auf die Geltendmachung der Ansprüche verzichtet hat.
 
-[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 5. Abschnitt: Transporte und andere Dienstleistungen
 
@@ -524,7 +529,7 @@ Werden Bestimmungen dieses Gesetzes, der ausführenden Verordnungen, Verfügunge
 
 <sup>5</sup> Rückforderungen und Verfall nach dieser Bestimmung gehen der strafrechtlichen Einziehung nach den Artikeln 70–72 des Strafgesetzbuches[^41-1] vor.
 
-[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -624,7 +629,7 @@ Wer aufgrund von Artikel 64, einer darauf beruhenden Ausführungsbestimmung, ein
 
 Für Leistungs- und Abgabebetrug, Urkundenfälschung, Erschleichen einer falschen Beurkundung und Unterdrückung von Urkunden gelten die Artikel 14–16 des Bundesgesetzes vom 22. März 1974[^51-1] über das Verwaltungsstrafrecht. Die Strafe ist jedoch Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
-[^51-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^51-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 52
 
@@ -682,7 +687,7 @@ Das BWL kann im Verfahren die Rechte einer Privatklägerschaft wahrnehmen und au
 
 <sup>1</sup> Der Bundesrat erlässt die Ausführungsbestimmungen und trifft die erforderlichen Massnahmen.
 
-<sup>2</sup> Er bestimmt die einzelnen Fachbereiche. Diese können vollamtliche Geschäftsstellen unterhalten.
+<sup>2</sup> …[^57-1]
 
 <sup>3</sup> Er kann zur Behebung schwerer Mangellagen die Kompetenz zur Freigabe von Pflichtlagern vorsorglich dem WBF übertragen.
 
@@ -690,13 +695,49 @@ Das BWL kann im Verfahren die Rechte einer Privatklägerschaft wahrnehmen und au
 
 <sup>5</sup> Er sorgt für eine angemessene Information der Bevölkerung, der Unternehmen und der Behörden über die Versorgungslage und erteilt Empfehlungen zur Erhöhung der Versorgungssicherheit.
 
+[^57-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
 #### Art. 58
 
-**Delegierte oder Delegierter für wirtschaftliche Landesversorgung**
+**Wirtschaftliche Landesversorgung**[^58-1]
 
-<sup>1</sup> Der Bundesrat ernennt eine Delegierte oder einen Delegierten für wirtschaftliche Landesversorgung. Die oder der Delegierte stammt aus der Wirtschaft.
+<sup>1</sup> Die Wirtschaftliche Landesversorgung besteht aus der Stelle der oder des Delegierten, Fachbereichen und dem BWL.
 
-<sup>2</sup> Die oder der Delegierte leitet das BWL und die Fachbereiche im Nebenamt.
+<sup>2</sup> Der Bundesrat kann zur Erfüllung von Aufgaben der Wirtschaftlichen Landesversorgung weitere Stellen des Bundes bezeichnen.
+
+[^58-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58a
+
+**Delegierte oder Delegierter**[^58a-1]
+
+<sup>1</sup> Der Bundesrat ernennt eine Delegierte oder einen Delegierten für wirtschaftliche Landesversorgung (Delegierte/-r). Diese oder dieser muss über breite Erfahrung aus der Wirtschaft verfügen.
+
+<sup>2</sup> Die oder der Delegierte leitet die Wirtschaftliche Landesversorgung.
+
+<sup>3</sup> Sie oder er kann die Stellen nach Artikel 58 Absatz 2 beiziehen.
+
+<sup>4</sup> Sie oder er beobachtet gemeinsam mit den Fachbereichen die Versorgungslage und führt die für die Sicherstellung der wirtschaftlichen Landesversorgung erforderlichen statistischen Erhebungen durch. Sie oder er berücksichtigt dabei die Erhebungen anderer Behörden und der Wirtschaft.
+
+<sup>5</sup> Sie oder er sorgt dafür, dass die Bearbeitung der statistischen Daten nicht zu Wettbewerbsverzerrungen führt.
+
+[^58a-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58b
+
+**Fachbereiche**[^58b-1]
+
+<sup>1</sup> Der Bundesrat bestimmt die Fachbereiche. Diese können vollamtliche Geschäftsstellen unterhalten.
+
+<sup>2</sup> Die Fachbereiche setzen sich mehrheitlich aus Fachleuten der Wirtschaft sowie aus Fachleuten des Bundes, der Kantone, der Städte und der Gemeinden zusammen. Die Mitglieder der Fachbereiche legen ihre Interessenbindungen offen.
+
+<sup>3</sup> Die Fachbereiche stellen ihr Fachwissen und ihr berufliches Netzwerk zur Sicherstellung der wirtschaftlichen Landesversorgung zur Verfügung.
+
+<sup>4</sup> Sie planen und entwickeln gemeinsam mit dem BWL die Vorbereitungsmassnahmen nach Artikel 5 Absatz 1.
+
+<sup>5</sup> Der Bundesrat kann den Fachbereichen im Fall von Massnahmen nach den Artikeln 31–33 Aufgaben übertragen. Er kann die Fachbereiche zum Erlass von Verfügungen ermächtigen.
+
+[^58b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 59
 
@@ -740,11 +781,9 @@ Der Bundesrat kann zur Sicherstellung der wirtschaftlichen Landesversorgung völ
 
 #### Art. 62
 
-**Beobachtung der Versorgungslage und statistische Erhebungen**
+[^62-1]
 
-<sup>1</sup> Der Bundesrat beobachtet dauernd die Versorgungslage und ordnet die für die Sicherstellung der wirtschaftlichen Landesversorgung erforderlichen statistischen Erhebungen an.
-
-<sup>2</sup> Dabei stützt er sich auf Erhebungen anderer Behörden und der Wirtschaft. Er stellt sicher, dass die Erhebung und Bearbeitung der statistischen Daten nicht zu Wettbewerbsverzerrungen führt.
+[^62-1]: Aufgehoben durch Ziff. I des BG vom 20. Juni 2025, mit Wirkung seit 1. Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 63
 
@@ -762,7 +801,7 @@ Wer beim Vollzug des Gesetzes mitwirkt, ist zur Verschwiegenheit verpflichtet.
 
 <sup>3</sup> Ungeachtet der Geheimhaltungspflicht stellt das BAZG dem BWL, den Fachbereichen, den die Garantiefonds verwaltenden Trägerschaften und den Organisationen der Wirtschaft Belege und Daten zur Verfügung, soweit dies für den Vollzug dieses Gesetzes unerlässlich ist.[^64-2]
 
-[^64-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^64-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^64-2]: Fassung gemäss Ziff. I 14 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 9. Kapitel: Schlussbestimmungen
@@ -803,7 +842,7 @@ Der Bundesrat kann folgende Bestimmungen vorübergehend für nicht anwendbar erk
 - 7\.[^annex1-lvlu1-8] …
 - 8\.[^annex1-lvlu1-9] …
 
-[^annex1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annex1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^annex1-lvlu1-2]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-3]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft vom 24. Sept. 2022 bis zum 31. Mai 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-4]: Eingefügt durch Ziff. I der V vom 30. Sept. 2022, in Kraft vom 1. Okt. 2022 bis zum 30. April 2023 ([AS 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).

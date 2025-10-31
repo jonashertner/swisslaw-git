@@ -4,22 +4,22 @@ title: "Federal Act of 8 October 1982 on the National Economic Supply (National 
 short: NESA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: en
-version: 2023-07-01
+version: 2025-11-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20251101/en/xml/fedlex-data-admin-ch-eli-cc-2017-308-20251101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20251101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Federal Act on National Economic Supply
+# Federal Act on the National Economic Supply
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
 (National Economic Supply Act, NESA)
 
-of 17 June 2016 (Status as of 1 July 2023)
+of 17 June 2016 (Status as of 1 November 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 102 of the Federal Constitution[^ingress-1], and having conside
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2014 7119](https://fedlex.data.admin.ch/eli/fga/2014/1571)
 
 ## Chapter 1 General Provisions
@@ -44,20 +44,22 @@ This Act regulates the measures designed to guarantee the country’s supply of 
 
 In this Act:
 
-- a. *national economic supply* means supplying the country with essential goods and services;
-- b. *severe shortages* is a supply situation in which there is an extreme risk of immediate, major damage to the economy or considerable disruption to national economic supply;
-- c. *specialist divisions* are organisational units composed of specialists from the private sector and the Confederation, cantons and communes responsible for implementing this Act;
+- a. *the national economic supply* means supplying the country with essential goods and services;
+- b. *severe shortages* is a supply situation in which there is an extreme risk of immediate, major damage to the economy or considerable disruption to the national economic supply;
+- c.[^2-1] ...
 - d. *placing on the market* is the release, free of charge or in return for payment, of compulsory stocks.
+
+[^2-1]: Repealed by No I of the FA of 20 June 2025, with effect from 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 3
 
 **Principles**
 
-<sup>1</sup> National economic supply is the responsibility of the private sector.
+<sup>1</sup> The national economic supply is the responsibility of the private sector.
 
-<sup>2</sup> If the private sector is unable to guarantee national economic supply in times of severe shortages, the Confederation and, if necessary, the cantons shall take any measures required.
+<sup>2</sup> If the private sector is unable to guarantee the national economic supply in times of severe shortages, the Confederation and, if necessary, the cantons shall take any measures required.
 
-<sup>3</sup> The private sector and the public sector shall cooperate. Before any implementing provisions are issued, it should first be ensured that the private sector is unable to ensure national economic supply through voluntary measures.
+<sup>3</sup> The private sector and the public sector shall cooperate. Before any implementing provisions are issued, it should first be ensured that the private sector is unable to guarantee the national economic supply through voluntary measures.
 
 #### Art. 4
 
@@ -69,10 +71,10 @@ In this Act:
 
 Essential goods are, in particular:
 
-- a. energy sources, together with all the means of production and processing required therefor;
-- b. foodstuffs, feedstuffs, therapeutic products, seed and plants;
-- c. other indispensable goods that meet day-to-day needs;
-- d. raw materials and auxiliary agents for agriculture, trade and industry.
+- energy sources, together with all the means of production and processing required therefor;
+- foodstuffs, feedstuffs, therapeutic products, seed and plants;
+- other indispensable goods that meet day-to-day needs;
+- raw materials and auxiliary agents for agriculture, trade and industry.
 
 <sup>3</sup>
 
@@ -94,21 +96,24 @@ Essential services are, in particular:
 
 **Mandate**
 
-<sup>1</sup> The Federal Council shall mandate the specialist divisions to take preparatory measures to ensure that national economic supply can be ensured in the event of imminent or already existing serious shortages.
+<sup>1</sup> The Federal Council shall mandate the organisation responsible for the national economic supply (National Economic Supply) to take preparatory measures to guarantee the national economic supply in the event of imminent or already existing serious shortages.[^5-1]
 
-<sup>2</sup> The specialist divisions shall ensure that the preparatory measures do not distort competition.
+<sup>2</sup> The preparatory measures must not distort competition.[^5-2]
 
 <sup>3</sup> The Federal Council is responsible for coordination between the departments. The Federal Department of Economic Affairs, Education and Research (EAER) has overall responsibility.
 
-<sup>4</sup> If the voluntary measures taken by the private sector are insufficient, the Federal Council may require companies that are of particular importance to national economic supply to ensure that they are in a position to continue production, processing and delivery, and in particular to have technical and administrative measures in place.
+<sup>4</sup> If the voluntary measures taken by the private sector are insufficient, the Federal Council may require companies that are of particular importance to the national economic supply to ensure that they are in a position to continue production, processing and delivery, and in particular to have technical and administrative measures in place.
 
 <sup>5</sup> The foregoing applies without prejudice to the activities of other public authorities to ensure the supply of essential goods and services.
+
+[^5-1]: Amended by No I of the FA of 20 June 2025, in force since 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+[^5-2]: Amended by No I of the FA of 20 June 2025, in force since 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 6
 
 **Industry agreements**
 
-The Federal Council may decree that industry agreements on ensuring national economic supply in times of severe shortages shall be generally binding provided:
+The Federal Council may decree that industry agreements on guaranteeing the national economic supply in times of severe shortages shall be generally binding provided:
 
 - a. a qualified majority of the businesses in the industry concerned has approved them;
 - b. they are in accordance with the federal supply targets;
@@ -168,7 +173,7 @@ The compulsory stocks agreement regulates in particular the following:
 
 <sup>3</sup> The EAER may issue a compulsory purchase order if this is necessary in order to exploit existing capacity or to construct warehouses or storage facilities for compulsory stocks. This shall be done in accordance with the Compulsory Purchase Act of 20 June 1930[^11-1].
 
-[^11-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^11-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 12
 
@@ -283,7 +288,7 @@ In the assessment of direct federal and cantonal taxation, the following value a
 
 <sup>2</sup> Private or public law rights to such compulsory stocks and indemnity rights that are held by third parties in terms of the law or the agreement shall remain ineffective in the event that the Confederation holds a right of separation settlement or of lien. The sole exception to the foregoing is the lien held by the owner of storage depots in respect of claims under Article 485 of the Code of Obligations[^23-1].
 
-[^23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24
 
@@ -301,8 +306,8 @@ If the Confederation or a third-party undertaking adopts the obligations of the 
 
 <sup>3</sup> If the Confederation or third-party undertaking, after deduction of all the costs, is not repaid in full by taking ownership of or selling the goods, it shall participate in the bankruptcy proceedings or in the composition agreement. In the case of a stay of bankruptcy or an emergency moratorium on debt enforcement, the Confederation or third-party undertaking shall acquire an interest-bearing claim against the debtor that is not subject to prescription.
 
-[^24-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^24-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 25
 
@@ -320,7 +325,7 @@ If the Confederation or a third-party undertaking adopts the obligations of the 
 
 Avoidance claims in accordance with Articles 285–292 of the Federal Act of 11 April 1889[^26-1] on Debt Enforcement and Bankruptcy resulting from rulings on goods for which the Confederation or a third party have a right of separation in accordance with Article 24 of this act or a lien in accordance with Article 25 can only be assigned to a creditor once the Confederation or third party has waived the claims.
 
-[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Section 5 Transport and Other Services
 
@@ -334,7 +339,7 @@ The Federal Council shall take the measures required to guarantee adequate means
 
 **Forestry**
 
-<sup>1</sup> In order to guarantee national economic supply, the Federal Council may order the increased exploitation of the forests.
+<sup>1</sup> In order to guarantee the national economic supply, the Federal Council may order the increased exploitation of the forests.
 
 <sup>2</sup>
 
@@ -427,12 +432,12 @@ It may issue regulations on:
 
 <sup>1</sup>
 
-The Confederation may support measures undertaken by private and public entities to secure national economic supply within the bounds of the funds approved therefor, provided the measures:
+The Confederation may support measures undertaken by private and public entities to guarantee the national economic supply within the bounds of the funds approved therefor, provided the measures:
 
-- a. help to considerably strengthen essential supply systems and infrastructure during preparations for a situation severe shortages; or
-- b. contribute significantly to the supply of essential goods and services in the case of imminent or existing severe shortages.
+- help to considerably strengthen essential supply systems and infrastructure during preparations for a situation of severe shortages; or
+- contribute significantly to the supply of essential goods and services in the case of imminent or existing severe shortages.
 
-<sup>2</sup> The Confederation shall determine the measures that may receive support, the amount of funds and guarantees and the conditions under which support is given. In doing so it shall take account of the interests of national economic supply, the cost-effectiveness of each measure and the interests of the entities involved.
+<sup>2</sup> The Confederation shall determine the measures that may receive support, the amount of funds and guarantees and the conditions under which support is given. In doing so it shall take account of the interests of the national economic supply, the cost-effectiveness of each measure and the interests of the entities involved.
 
 #### Art. 36
 
@@ -440,7 +445,7 @@ The Confederation may support measures undertaken by private and public entities
 
 The Federal Council may grant guarantees to Swiss transport and logistics companies to finance means of transport in as far as:
 
-- a. the vehicles are essential for national economic supply;
+- the vehicles are essential for the national economic supply;
 - b. the vehicles are registered or matriculated in Switzerland; and
 - c. the vehicles have not already been acquired with funds provided by the Confederation under other legislation.
 
@@ -454,7 +459,7 @@ The Federal Council may grant guarantees to Swiss transport and logistics compan
 
 <sup>3</sup> The provisions concerning the right of separation and lien over compulsory stocks (Art. 24–26) apply mutatis mutandis.
 
-<sup>4</sup> The FONES can demand additional security if the value of the means of transport and the indemnity rights are insufficient or uncertain to cover the guarantee claim.
+<sup>4</sup> The FONES can demand additional security if the value of the means of transport and the indemnity rights is insufficient or uncertain to cover the guarantee claim.
 
 <sup>5</sup> The Federal Council shall regulate the details of granting guarantees and the technical requirements for the means of transport.
 
@@ -487,7 +492,7 @@ The Confederation may provide insurance and reinsurance cover if such cover is n
 
 <sup>2</sup> It may provide insurance cover against the risk of war and other risks such as piracy, insurgency and terrorism.
 
-<sup>3</sup> The Federal Council shall regulate the scope and application of insurance and reinsurance cover, and determine the date from which such insurance may come into force and the date on which cover may be granted.
+<sup>3</sup> The Federal Council shall regulate the scope and application of insurance and reinsurance cover and determine the date from which such insurance may come into force and the date on which cover may be granted.
 
 <sup>4</sup> The Confederation shall provide cover in accordance with the principles customary for private insurance and against payment of a premium. It may deviate from this only to the extent that these principles would make the insurance cover which is necessary for the economic provision of the country impossible.
 
@@ -526,7 +531,7 @@ If any of the provisions in this Act, the implementing ordinances, rulings or co
 
 <sup>5</sup> Recovery and forfeiture pursuant to this provision take precedence over the provisions on forfeiture in Articles 70–72 of the Swiss Criminal Code[^41-1].
 
-[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -602,52 +607,52 @@ The civil courts have jurisdiction in disputes over:
 
 #### Art. 49
 
-**Violation of national economic supply measures**
+**Violation of the national economic supply measures**
 
-<sup>1</sup> is liable to a custodial sentence not exceeding three years or a monetary penalty.
+<sup>1</sup>
 
-Any person who wilfully:
+A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who intentionally:
 
 - a. violates regulations on measures based on Articles 5 paragraph 4, 28 paragraph 1, 29, 31 paragraph 1, 32 paragraph 1 and 33 paragraph 2;
 - b. ignores a ruling based on this Act or related implementing provisions despite being notified of the penalties that may be imposed under this Article;
 - c. breaches a contract entered into on the basis of this Act or related implementing provisions despite being notified of the penalties that may be imposed under this Article
 
-<sup>2</sup> If the offender acts negligently, the penalty shall be a monetary penalty not exceeding 180 daily penalty units.
+<sup>2</sup> If the offender acts through negligence, the penalty shall be a monetary penalty not exceeding 180 daily penalty units.
 
 #### Art. 50
 
 **Violation of the obligation to provide information**
 
-Any person who is required to provide information under Article 64, a related implementing provision, a ruling or agreement but provides untrue or incomplete information is liable to a custodial sentence not exceeding one year or to a monetary penalty.
+Any person who is required to provide information under Article 64, a related implementing provision, a ruling or agreement but provides untrue or incomplete information shall be liable to a custodial sentence not exceeding one year or to a monetary penalty.
 
 #### Art. 51
 
 **Fraud in respect of payments and services**
 
-In cases of fraud in respect of payment and services, forgery of documents, obtaining a false certificate by fraud, and suppression of documents, Articles 14–16 of the Federal Act on Administrative Criminal Law of 22 March 1974[^51-1] apply. The penalty is however a custodial sentence not exceeding five years or a monetary penalty.
+In cases of fraud in respect of payment and services, forgery of documents, obtaining a false certificate by fraud, and suppression of documents, Articles 14–16 of the Federal Act on Administrative Criminal Law of 22 March 1974[^51-1] apply. The penalty shall however be a custodial sentence not exceeding five years or a monetary penalty.
 
-[^51-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^51-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 52
 
 **Handling stolen goods**
 
-<sup>1</sup> Any person who takes possession of, accepts as a gift or as the subject of a pledge, conceals, or assists in the disposal of goods which he knows or must believe to have been acquired by way of an offence under this Act is liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who takes possession of, accepts as a gift or as the subject of a pledge, conceals, or assists in the disposal of goods which they know or must believe were acquired by way of an offence under this Act shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>2</sup> The person in receipt of stolen goods is liable to the penalties that may be imposed in respect of the principal offence if they are less severe.
+<sup>2</sup> The person in receipt of stolen goods shall be liable to the penalties that may be imposed in respect of the principal offence if they are less severe.
 
 #### Art. 53
 
 **Assisting offenders**[^53-1]
 
-<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1</sup>
 
-Any person who:
+A custodial sentence not exceeding three years or to a monetary penalty shall be imposed on any person who:
 
-- a. in relation to criminal proceedings for an offence under Articles 49–52 assists another in evading prosecution or the execution of a penalty; or
-- b. assists by unlawful means in making the implementation of a measure under this Act or its implementing provisions impossible
+- in relation to criminal proceedings for an offence under Articles 49–52, assists another in evading prosecution or the execution of a penalty; or
+- assists by unlawful means in making the implementation of a measure under this Act or its implementing provisions impossible.
 
-<sup>2</sup> If the offender assists a close relative or another person to whom he or she is so closely related that the offender’s conduct is excusable, no penalty shall be imposed.
+<sup>2</sup> If the offender assists a close relative or another person to whom they are so closely related that the offender’s conduct is excusable, no penalty shall be imposed.
 
 [^53-1]: Amended by No I 19 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -655,15 +660,15 @@ Any person who:
 
 **Spreading rumours**
 
-Any person who in times of impending threat or existing severe shortages knowingly spreads false or distorting allegations in relation to measures relating to national economic supply with the intention of obtaining undue advantage for himself or another is liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who in times of impending threat or existing severe shortages knowingly spreads false or distorting allegations in relation to measures relating to the national economic supply with the intention of obtaining undue advantage for themselves or another shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 #### Art. 55
 
 **Prosecution**
 
-<sup>1</sup> The cantons prosecute and judge offences under this Act.
+<sup>1</sup> The cantons shall prosecute and judge offences under this Act.
 
-<sup>2</sup> Offences against the provisions of this Act relating to authorisation requirements for the import of goods (Art. 7 para. 3) and on restricting exports (Art. 31 para. 2 let. i) are prosecuted and judged by the Federal Office for Customs and Border Security (FOCBS).[^55-1]
+<sup>2</sup> Offences against the provisions of this Act relating to authorisation requirements for the import of goods (Art. 7 para. 3) and on restricting exports (Art. 31 para. 2 let. i) shall be prosecuted and judged by the Federal Office for Customs and Border Security (FOCBS).[^55-1]
 
 <sup>3</sup> If an offence both contravenes paragraph 2 and constitutes an offence prosecuted by the FOCBS, the penalty for the more serious offence applies. The FOCBS may increase the penalty appropriately.[^55-2]
 
@@ -684,7 +689,7 @@ The FONES may exercise the rights of a private plaintiff in proceedings and may 
 
 <sup>1</sup> The Federal Council shall issue the implementing provisions and order all necessary measures.
 
-<sup>2</sup> It shall appoint the individual specialist divisions. These may maintain full-time offices.
+<sup>2</sup> …[^57-1]
 
 <sup>3</sup> To mitigate severe shortages, it may transfer the authority to release compulsory stocks to the EAER as a precautionary measure.
 
@@ -692,13 +697,49 @@ The FONES may exercise the rights of a private plaintiff in proceedings and may 
 
 <sup>5</sup> It shall ensure that the general public, private sector and public authorities are sufficiently informed about the supply situation and issues recommendations on increasing security of supply.
 
+[^57-1]: Repealed by No I of the FA of 20 June 2025, with effect from 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
 #### Art. 58
 
-**Delegate for National Economic Supply**
+**National Economic Supply system**[^58-1]
 
-<sup>1</sup> The Federal Council shall appoint a Delegate for National Economic Supply from the private sector.
+<sup>1</sup> The National Economic Supply system comprises the Office of the Delegate, the specialist divisions and the FONES.
 
-<sup>2</sup> The Delegate heads the FONES and the specialist divisions on a part-time basis.
+<sup>2</sup> The Federal Council may designate further federal offices to fulfil the tasks of the National Economic Supply system.
+
+[^58-1]: Amended by No I of the FA of 20 June 2025, in force since 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58a
+
+**Delegate**[^58a-1]
+
+<sup>1</sup> The Federal Council shall appoint a Delegate for the National Economic Supply. This person must have extensive experience in the private sector.
+
+<sup>2</sup> The Delegate heads the National Economic Supply system.
+
+<sup>3</sup> The Delegate may consult the offices mentioned in Article 58 paragraph 2.
+
+<sup>4</sup> The Delegate and the specialist divisions shall monitor the supply situation and conduct the statistical surveys required to guarantee the national economic supply. The Delegate shall also take account of surveys conducted by other authorities or the private sector.
+
+<sup>5</sup> The Delegate shall ensure that the processing of statistical data does not distort competition.
+
+[^58a-1]: Inserted by No I of the FA of 20 June 2025, in force since 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58b
+
+**Specialist divisions**[^58b-1]
+
+<sup>1</sup> The Federal Council shall appoint the specialist divisions. These may maintain full-time offices.
+
+<sup>2</sup> The specialist divisions shall comprise as a majority experts from the private sector as well as experts from the Federal Administration, the cantons, the cities and the communes. The members of the specialist divisions shall disclose their vested interests.
+
+<sup>3</sup> The specialist divisions shall provide their expertise and professional network to guarantee the national economic supply.
+
+<sup>4</sup> They shall work with the FONES to plan and develop the preparatory measures in accordance with Article 5 paragraph 1.
+
+<sup>5</sup> The Federal Council may delegate tasks to the specialist divisions in the event of measures being taken under Articles 31–33. It may authorise the specialist divisions to issue ordinances.
+
+[^58b-1]: Inserted by No I of the FA of 20 June 2025, in force since 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 59
 
@@ -732,7 +773,7 @@ The Federal Council may transfer public tasks to private-sector organisations in
 
 <sup>1</sup>
 
-In order to ensure national economic supply, the Federal Council may conclude international agreements on:
+In order to guarantee the national economic supply, the Federal Council may conclude international agreements on:
 
 - a. the exchange of information and cooperation;
 - b. participation in international bodies in the field of economic supply;
@@ -742,11 +783,9 @@ In order to ensure national economic supply, the Federal Council may conclude in
 
 #### Art. 62
 
-**Monitoring of supply situation and statistical surveys**
+[^62-1]
 
-<sup>1</sup> The Federal Council shall constantly monitor the supply situation and commission statistical surveys required to guarantee national economic supply.
-
-<sup>2</sup> In this it refers to surveys conducted by other authorities and by the private sector. It ensures that the gathering and processing of statistical data does not distort competition.
+[^62-1]: Repealed by No I of the FA of 20 June 2025, with effect from 1 Nov. 2025 ([AS 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [BBl 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 63
 
@@ -764,7 +803,7 @@ Any person involved in the implementation of this Act is required to preserve pr
 
 <sup>3</sup> Irrespective of any duty of confidentiality, the FOCBS shall provide the FONES, the specialist divisions, the private entities managing the guarantee funds and the private-sector organisations with receipts and data, insofar as these are essential for the implementation of the Act.[^64-2]
 
-[^64-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^64-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^64-2]: Amended by No I 14 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapter 9 Final provisions
@@ -795,7 +834,7 @@ Annex 1
 
 The Federal Council may declare the following provisions to be temporarily inapplicable:
 
-- 1\. Article 2 paragraph 2 of the Road Traffic Act of 19 December 1958[^annex1-lvlu1-1];
+- Article 2 paragraph 2 of the Road Traffic Act of 19 December 1958[^annex1-lvlu1-1];
 - 2\.[^annex1-lvlu1-2] ...
 - 3\.[^annex1-lvlu1-3] ...
 - 3<sup>bis</sup>*.*[^annex1-lvlu1-4] ...
@@ -805,7 +844,7 @@ The Federal Council may declare the following provisions to be temporarily inapp
 - 7\.[^annex1-lvlu1-8] …
 - 8\.[^annex1-lvlu1-9] …
 
-[^annex1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annex1-lvlu1-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^annex1-lvlu1-2]: Inserted by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-3]: Inserted by No I of the O of 23 Sept. 2022, in force from 24 Sept. 2022 to 31 May 2023 ([AS 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528)).
 [^annex1-lvlu1-4]: Inserted by No I of the O of 30 Sept. 2022, in force from 1 Oct. 2022 to 30 April 2023 ([AS 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
@@ -829,7 +868,7 @@ II
 
 The following legislation is amended as follows:
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Annex 1 No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 15]
 [^annex2-lvlu1-2]: The amendment may be consulted under [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)..

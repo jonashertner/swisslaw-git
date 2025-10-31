@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'approvvigionamento economico del 
 short: LAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/308"
 language: it
-version: 2023-07-01
+version: 2025-11-01
 adopted: 2016-06-17
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20230701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/308/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2017-308-20251101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/308/20230701/it"
 
 (Legge sull’approvvigionamento del Paese, LAP)
 
-del 17 giugno 2016 (Stato 1° luglio 2023)
+del 17 giugno 2016 (Stato 1° novembre 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 102 della Costituzione federale[^ingress-1]; visto il messagg
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2014 6105](https://fedlex.data.admin.ch/eli/fga/2014/1571)
 
 ## Capitolo 1: Disposizioni generali
@@ -44,8 +44,10 @@ Nella presente legge s’intende per:
 
 - a. *approvvigionamento economico del Paese:* approvvigionamento del Paese in beni e servizi d’importanza vitale;
 - b. *situazione di grave penuria:* forte minaccia per l’approvvigionamento economico del Paese, con il pericolo imminente di considerevoli danni economici o di forti perturbazioni dell’approvvigionamento economico del Paese;
-- c. *settori specializzati:* unità organizzative composte da specialisti dell’economia, della Confederazione, dei Cantoni e dei Comuni incaricate dell’esecuzione della presente legge;
+- c.[^2-1] *...*
 - d. *immissione in commercio:* cessione a titolo gratuito od oneroso di beni per i quali è prevista la costituzione di scorte obbligatorie.
+
+[^2-1]: Abrogata dalla cifra I della LF del 20 giu. 2025, con effetto dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 3
 
@@ -92,15 +94,18 @@ Sono servizi d’importanza vitale in particolare:
 
 **Mandato**
 
-<sup>1</sup> Il Consiglio federale incarica i settori specializzati di prendere le misure preparatorie necessarie per garantire l’approvvigionamento economico del Paese in una situazione di grave penuria, sia essa già sopraggiunta o imminente.
+<sup>1</sup> Il Consiglio federale incarica l’organizzazione dell’approvvigionamento economico del Paese (Approvvigionamento economico del Paese) di prendere le misure preparatorie necessarie per garantire l’approvvigionamento del Paese in una situazione di grave penuria, sia essa già sopraggiunta o imminente.[^5-1]
 
-<sup>2</sup> I settori specializzati provvedono affinché le misure preparatorie non provochino una distorsione della concorrenza.
+<sup>2</sup> Le misure preparatorie non devono provocare una distorsione della concorrenza.[^5-2]
 
 <sup>3</sup> Il Consiglio federale provvede al coordinamento tra i dipartimenti. Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) è il dipartimento responsabile.
 
 <sup>4</sup> Se le misure volontarie prese dall’economia non sono sufficienti, il Consiglio federale può obbligare le imprese che hanno un’importanza particolare per l’approvvigionamento economico del Paese ad adottare provvedimenti per garantire la loro capacità di produzione, trasformazione e fornitura, segnatamente a preparare misure tecniche e amministrative.
 
 <sup>5</sup> Sono fatte salve le attività di altre autorità destinate a garantire l’approvvigionamento in beni e servizi d’importanza vitale.
+
+[^5-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+[^5-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 6
 
@@ -166,7 +171,7 @@ Il contratto per la costituzione di scorte obbligatorie disciplina in particolar
 
 <sup>3</sup> Se l’utilizzazione delle capacità esistenti o la costruzione di depositi o impianti destinati al deposito di scorte obbligatorie richiedono un’espropriazione, il DEFR conferisce il diritto d’espropriazione. La procedura è retta dalla legge federale del 20 giugno 1930[^11-1] sull’espropriazione.
 
-[^11-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^11-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 12
 
@@ -281,7 +286,7 @@ Nella tassazione per le imposte dirette riscosse dalla Confederazione e dai Cant
 
 <sup>2</sup> Le pretese di terzi, di natura civile o pubblica, contrattuali o legali non sono opponibili al diritto della Confederazione di separazione dalla massa fallimentare o al suo diritto di pegno. È fatto salvo il diritto di ritenzione di cui i possessori dei locali di deposito possono prevalersi per garantire i loro crediti ai sensi dell’articolo 485 del Codice delle obbligazioni[^23-1].
 
-[^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 24
 
@@ -299,8 +304,8 @@ Se assume gli obblighi contratti dal proprietario della scorta obbligatoria per 
 
 <sup>3</sup> Se, dedotte tutte le spese, non è interamente tacitata con le merci che ha ritirato o realizzato in virtù del proprio diritto di separazione dalla massa fallimentare, la Confederazione o l’impresa terza partecipa al fallimento o al concordato. In caso di differimento del fallimento o di moratoria straordinaria, essa vanta nei confronti del debitore un credito imprescrittibile e rimunerato d’interesse.
 
-[^24-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^24-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 25
 
@@ -318,7 +323,7 @@ Se assume gli obblighi contratti dal proprietario della scorta obbligatoria per 
 
 Le pretese revocatorie fondate sugli articoli 285–292 della legge federale dell’11 aprile 1889[^26-1] sulla esecuzione e sul fallimento che derivano da decisioni concernenti merci sulle quali la Confederazione o un’impresa terza ha un diritto di separazione dalla massa secondo l’articolo 24 o un diritto di pegno secondo l’articolo 25 della presente legge, possono essere cedute a un creditore unicamente se la Confederazione o l’impresa terza ha rinunciato a farle valere.
 
-[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Sezione 5: Trasporti e altri servizi
 
@@ -524,7 +529,7 @@ In caso di violazione delle disposizioni della presente legge o delle sue ordina
 
 <sup>5</sup> La restituzione e la devoluzione ai sensi della presente disposizione prevalgono sulla confisca ai sensi degli articoli 70–72 del Codice penale[^41-1].
 
-[^41-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -624,7 +629,7 @@ I tribunali civili giudicano in merito alle controversie concernenti:
 
 Gli articoli 14–16 della legge federale del 22 marzo 1974[^51-1] sul diritto penale amministrativo si applicano alla truffa in materia di prestazioni e di tasse, alla falsità in documenti, al conseguimento fraudolento di una falsa attestazione e alla soppressione di documenti. La pena è tuttavia una pena detentiva sino a cinque anni o una pena pecuniaria.
 
-[^51-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^51-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 52
 
@@ -647,7 +652,7 @@ Gli articoli 14–16 della legge federale del 22 marzo 1974[^51-1] sul diritto p
 
 <sup>2</sup> Se l’autore favorisce un congiunto o un’altra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta, il giudice prescinde da ogni pena.
 
-[^53-1]: Nuovo testo giusta il n. I 19 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^53-1]: Nuovo testo giusta la cifra I n. 19 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 54
 
@@ -665,8 +670,8 @@ Chiunque, in una situazione di grave penuria già sopraggiunta o imminente, espr
 
 <sup>3</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 2 e un’infrazione perseguibile dall’UDSC, si applica la pena comminata per l’infrazione più grave. L’UDSC può aumentare adeguatamente la pena.[^55-2]
 
-[^55-1]: Nuovo testo giusta il n. I 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^55-2]: Nuovo testo giusta il n. I 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^55-1]: Nuovo testo giusta la cifra I n. 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^55-2]: Nuovo testo giusta la cifra I n. 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 56
 
@@ -682,7 +687,7 @@ Nel procedimento, l’UFAE può assumere i diritti dell’accusatore privato e i
 
 <sup>1</sup> Il Consiglio federale emana le disposizioni d’esecuzione e prende le misure necessarie.
 
-<sup>2</sup> Definisce i singoli settori specializzati. Essi possono disporre di segreterie a tempo pieno.
+<sup>2</sup> ...[^57-1]
 
 <sup>3</sup> Per rimediare a situazioni di grave penuria, il Consiglio federale può delegare al DEFR a titolo cautelare la competenza di liberare le scorte obbligatorie.
 
@@ -690,13 +695,49 @@ Nel procedimento, l’UFAE può assumere i diritti dell’accusatore privato e i
 
 <sup>5</sup> Si adopera per informare in modo adeguato la popolazione, le imprese e le autorità sulla situazione dell’approvvigionamento ed emana raccomandazioni per accrescere la sicurezza dell’approvvigionamento.
 
+[^57-1]: Abrogato dalla cifra I della LF del 20 giu. 2025, con effetto dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
 #### Art. 58
 
-**Delegato all’approvvigionamento economico del Paese**
+**Approvvigionamento economico del Paese**[^58-1]
 
-<sup>1</sup> Il Consiglio federale nomina un delegato all’approvvigionamento economico del Paese. Il delegato è un esponente del mondo economico.
+<sup>1</sup> L’Approvvigionamento economico del Paese è composto dal Delegato, dai settori specializzati e dall’UFAE.
 
-<sup>2</sup> Il delegato dirige a titolo accessorio l’UFAE e i settori specializzati.
+<sup>2</sup> Il Consiglio federale può designare altri organi della Confederazione per adempiere i compiti dell’Approvvigionamento economico del Paese.
+
+[^58-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025, in vigore dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58a
+
+**Delegato**[^58a-1]
+
+<sup>1</sup> Il Consiglio federale nomina un Delegato all’approvvigionamento economico del Paese (Delegato). Il Delegato deve aver acquisito una vasta esperienza nel settore dell’economia.
+
+<sup>2</sup> Il Delegato dirige l’Approvvigionamento economico del Paese.
+
+<sup>3</sup> Può far capo agli organi di cui all’articolo 58 capoverso 2.
+
+<sup>4</sup> In collaborazione con i settori specializzati, osserva la situazione in materia di approvvigionamento e svolge le rilevazioni statistiche necessarie per garantire l’approvvigionamento economico del Paese. A tal fine tiene conto delle rilevazioni effettuate da altre autorità e dall’economia.
+
+<sup>5</sup> Si assicura che il trattamento dei dati statistici non provochi distorsioni della concorrenza.
+
+[^58a-1]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
+
+#### Art. 58b
+
+**Settori specializzati**[^58b-1]
+
+<sup>1</sup> Il Consiglio federale definisce i settori specializzati. Questi possono disporre di segreterie a tempo pieno.
+
+<sup>2</sup> I settori specializzati sono composti prevalentemente da specialisti dell’economia, nonché da specialisti della Confederazione, dei Cantoni, delle Città e dei Comuni. I membri dei settori specializzati rendono pubblici i loro legami con gruppi d’interesse.
+
+<sup>3</sup> Al fine di garantire l’approvvigionamento economico del Paese, i settori specializzati mettono a disposizione le loro competenze e la loro rete professionale.
+
+<sup>4</sup> In collaborazione con l’UFAE, pianificano e sviluppano le misure preparatorie di cui all’articolo 5 capoverso 1.
+
+<sup>5</sup> Il Consiglio federale può delegare compiti ai settori specializzati nel caso in cui vengano adottate misure previste agli articoli 31–33. Può autorizzare i settori specializzati a emanare decisioni.
+
+[^58b-1]: Introdotto dalla cifra I della LF del 20 giu. 2025, in vigore dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 59
 
@@ -740,11 +781,9 @@ Per garantire l’approvvigionamento economico del Paese, il Consiglio federale 
 
 #### Art. 62
 
-**Osservazione della situazione in materia di approvvigionamento e rilevazioni statistiche**
+[^62-1]
 
-<sup>1</sup> Il Consiglio federale osserva costantemente la situazione in materia di approvvigionamento e ordina le rilevazioni statistiche necessarie per garantire l’approvvigionamento economico del Paese.
-
-<sup>2</sup> Al riguardo, si fonda sulle rilevazioni effettuate da altre autorità e dall’economia. Garantisce che la rilevazione e il trattamento dei dati statistici non provochino distorsioni della concorrenza.
+[^62-1]: Abrogato dalla cifra I della LF del 20 giu. 2025, con effetto dal 1° nov. 2025 ([RU 2025 618](https://fedlex.data.admin.ch/eli/oc/2025/618); [FF 2025 812](https://fedlex.data.admin.ch/eli/fga/2025/812)).
 
 #### Art. 63
 
@@ -762,8 +801,8 @@ Chi collabora all’esecuzione della presente legge è tenuto al segreto.
 
 <sup>3</sup> Nonostante l’obbligo del segreto, l’UDSC mette gli atti e i dati a disposizione dell’UFAE, dei settori specializzati, degli enti incaricati di amministrare i fondi di garanzia e delle organizzazioni dell’economia, nella misura indispensabile per l’esecuzione della presente legge.[^64-2]
 
-[^64-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^64-2]: Nuovo testo giusta il n. I 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^64-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^64-2]: Nuovo testo giusta la cifra I n. 14 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Capitolo 9: Disposizioni finali
 
@@ -803,15 +842,15 @@ Il Consiglio federale può dichiarare temporaneamente inapplicabili le seguenti 
 - 7\.[^annex1-lvlu1-8] ...
 - 8\.[^annex1-lvlu1-9] ...
 
-[^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^annex1-lvlu1-2]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-3]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-4]: Introdotto dal n. I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
-[^annex1-lvlu1-5]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-6]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-7]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
-[^annex1-lvlu1-8]: Introdotto dal n. I dell’O del 30 set. 2022 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogato dal n. I dell’O del 17 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
-[^annex1-lvlu1-9]: Introdotto dal n. I dell’O del 30 set. 2022 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogato dal n. I dell’O del 17 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^annex1-lvlu1-2]: Introdotto dalla cifra I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-3]: Introdotto dalla cifra I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-4]: Introdotto dalla cifra I dell’O del 30 set. 2022, in vigore dal 1° ott. 2022 al 30 apr. 2023 ([RU 2022 545](https://fedlex.data.admin.ch/eli/oc/2022/545)).
+[^annex1-lvlu1-5]: Introdotto dalla cifra I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-6]: Introdotto dalla cifra I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-7]: Introdotto dalla cifra I dell’O del 23 set. 2022, in vigore dal 24 set. 2022 al 31 mag. 2023 ([RU 2022 528](https://fedlex.data.admin.ch/eli/oc/2022/528))
+[^annex1-lvlu1-8]: Introdotto dalla cifra I dell’O del 30 set. 2022 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogato dalla cifra I dell’O del 17 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
+[^annex1-lvlu1-9]: Introdotto dalla cifra I dell’O del 30 set. 2022 ([RU 2022 546](https://fedlex.data.admin.ch/eli/oc/2022/546)). Abrogato dalla cifra I dell’O del 17 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 151](https://fedlex.data.admin.ch/eli/oc/2023/151)).
 
 Allegato 2
 
@@ -829,5 +868,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annex2-lvlu1-2]
 
-[^annex2-lvlu1-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15]
+[^annex2-lvlu1-1]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 cifra II n. 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 15]
 [^annex2-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308).
