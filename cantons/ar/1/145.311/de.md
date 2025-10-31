@@ -3,20 +3,19 @@ canton: AR
 number: "145.311"
 title: Beschluss über die Zahl der Vizepräsidenten oder Vizepräsidentinnen des Kantonsgerichts
 language: de
-version: 2024-06-01
-valid_until: 2025-10-31
-version_adopted: 2024-05-06
+version: 2025-11-01
+version_adopted: 2025-06-16
 adopted: 2024-05-06
 in_force: 2024-06-01
 url: "https://ar.clex.ch/app/de/texts_of_law/145.311"
-pdf: "https://ar.clex.ch/api/de/versions/1534/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1571/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Zahl der Vizepräsidenten oder Vizepräsidentinnen des Kantonsgerichts
 
-vom 06.05.2024 (Stand 01.06.2024)
+vom 06.05.2024 (Stand 01.11.2025)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -28,6 +27,6 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Die Zahl der Vizepräsidenten oder Vizepräsidentinnen des Kantonsgerichts wird von zwei auf drei erhöht.
+<sup>1</sup> Die Zahl der Vizepräsidenten oder Vizepräsidentinnen des Kantonsgerichts wird auf vier Stellen festgesetzt.
 
 Lf. Nr. / Abl. 1504 / 10.05.2024
