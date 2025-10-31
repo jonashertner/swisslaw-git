@@ -3,18 +3,18 @@ sr: "974.01"
 title: "Ordinanza del 12 dicembre 1977 su la cooperazione allo sviluppo e l'aiuto umanitario internazionali"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: it
-version: 2025-01-01
+version: 2025-11-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20251101/it/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza su la cooperazione allo sviluppo e l’aiuto umanitario internazionali
 
-del 12 dicembre 1977 (Stato 1° gennaio 2025)
+del 12 dicembre 1977 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 15 della legge federale del 19 marzo 1976[^ingress-1] su la c
 
 ordina:
 
-[^ingress-1]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+[^ingress-1]: [RS 974.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11701)
 
 ## Sezione 1: In generale
 
@@ -185,7 +185,7 @@ La DSC e l’Amministrazione federale delle finanze elaborano in comune la conce
 
 [^14-1]: Nuovo testo giusta la cifra I dell’O del 29 apr. 1987, in vigore dal 1° lug. 1988 ([RU 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
 [^14-2]: Nuovo testo giusta la cifra I dell’O del 29 apr. 1987, in vigore dal 1° lug. 1988 ([RU 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
-[^14-3]: [[RU 1972 243](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243); [1973 2056](https://fedlex.data.admin.ch/eli/oc/1973/__2056); [RU 1983 1055](https://fedlex.data.admin.ch/eli/oc/1983/1055_1055_1055)art. 14. [RU 1989 72](https://fedlex.data.admin.ch/eli/oc/1989/72_72_72)art. 6 cpv. 1]. Ora: secondo l’O del 21 dic. 1988 per l’applicazione della Conv. concernente l’aiuto alimentare dell’Acc. internazionale sul grano del 1986 ([RS 916.111.311.2](https://fedlex.data.admin.ch/eli/cc/1989/72_72_72)).
+[^14-3]: [[RU 1972 243](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243); [1973 2056](https://fedlex.data.admin.ch/eli/oc/1973/__2056); [RU 1983 1055](https://fedlex.data.admin.ch/eli/oc/1983/1055_1055_1055)art. 14. [RU 1989 72](https://fedlex.data.admin.ch/eli/oc/1989/72_72_72)art. 6 cpv. 1]. Ora: secondo l’O del 21 dic. 1988 per l’applicazione della Conv. concernente l’aiuto alimentare dell’Acc. internazionale sul grano del 1986 ([RS 916.111.311.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10508)).
 [^14-4]: Nuova denominazione giusta l’art. 1 del DCF del 23 apr. 1980 concernente l’adattamento delle disposizioni di diritto federale alle nuove denominazioni dei dipartimenti e uffici (non pubblicato). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 4: Competenze finanziarie, controllo dell’impiego dei fondi
@@ -206,10 +206,10 @@ La DSC e l’Amministrazione federale delle finanze elaborano in comune la conce
 
 <sup>1</sup> Il Consiglio federale decide circa i provvedimenti il cui costo prevedibile supera 20 milioni di franchi.[^16-1]
 
-<sup>2</sup> Le competenze finanziarie dei singoli dipartimenti e della OSA sono stabilite nell’allegato 2.[^16-2]
+<sup>2</sup> I provvedimenti il cui costo prevedibile ammonta fino a 20 milioni di franchi sono decisi dalla DSC.[^16-2]
 
 [^16-1]: Nuovo testo giusta la cifra I n. 13 dell’O del 26 giu. 1996 sulla nuova attribuzione delle competenze decisionali nell’Amministrazione federale, in vigore dal 1° ago. 1996 ([RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
-[^16-2]: Nuovo testo giusta la cifra I dell’O del 29 apr. 1987, in vigore dal 1° lug. 1988 ([RU 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^16-2]: Nuovo testo giusta la cifra I n. 10 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto al 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 17
 
@@ -265,7 +265,7 @@ I servizi federali competenti possono assumere, in virtù di contratti di diritt
 
 All’acquisto di materiale è applicabile l’ordinanza dell’8 dicembre 1975[^23-1] sugli acquisti. Occorre tener conto delle condizioni esistenti nello Stato compartecipante e dell’effetto generale sullo sviluppo.
 
-[^23-1]: [[RU 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373); [1976 504](https://fedlex.data.admin.ch/eli/oc/1976/__504); [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206); [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [RU 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)art. 71. let. b]. Vedi ora l’O dell’11 dic. 1995 sugli acquisti pubblici ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
+[^23-1]: [[RU 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373); [1976 504](https://fedlex.data.admin.ch/eli/oc/1976/__504); [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206); [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [RU 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)art. 71. let. b]. Vedi ora l’O dell’11 dic. 1995 sugli acquisti pubblici ([RS 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)).
 
 ## Sezione 6: Organi particolari
 
@@ -390,30 +390,18 @@ La presente ordinanza entra in vigore il 1° gennaio 1978.
 
 Allegato 1[^t-1]
 
-(art. 15)
+(art. 15 cpv. 2)
 
-## Competenze finanziarie nel settore della cooperazione allo sviluppo
+## Competenze finanziarie dei dipartimenti e degli uffici federali nel settore della cooperazione allo sviluppo
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O del 15 feb. 2012, in vigore dal 1° apr. 2012 ([RU 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155)).
+[^t-1]: Nuovo testo giusta la cifra I n. 10 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, in vigore dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 <table>
 <tr><td>Importo degli impegni</td><td>Competenza finanziaria per provvedimenti di cooperazione tecnica (art. 6)</td><td>Competenza finanziaria per provvedimenti d’aiuto finanziario bilaterale, per i quali è competente la DSC (art. 7 cpv. 1)</td><td>Competenza finanziaria per provvedimenti d’aiuto finanziario bilaterale, per i quali è competente la SECO (art. 7 cpv. 2)</td><td>Competenza finanziaria per provvedimenti d’aiuto finanziario multilaterale, per i quali la DSC assicura la coordinazione (art. 8 cpv. 4)</td><td>Competenza finanziaria per provvedimenti d’aiuto finanziario multilaterale, per i quali la SECO assicura la coordinazione (art. 8 cpv. 4)</td><td>Competenza finanziaria per provvedimenti di politica commerciale e per promuovere l’impiego di mezzi dell’economia privata (art. 9 e 10)</td></tr>
-<tr><td>oltre 20 milioni di franchi</td><td>Consiglio federale</td><td>Consiglio federale</td><td>Consiglio federale</td><td>Consiglio federale</td><td>Consiglio federale</td><td>Consiglio federale</td></tr>
-<tr><td>oltre 10 milioni fino a 20 milioni di franchi</td><td>Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale delle finanze</td><td>Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale dell’economia, della formazione e della ricerca e del Dipartimento federale delle finanze</td><td>Dipartimento federale dell’economia, della formazione e della ricerca, con l’accordo del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze</td><td>Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale dell’economia, della formazione e della ricerca e del Dipartimento federale delle finanze</td><td>Dipartimento federale dell’economia, della formazione e della ricerca, con l’accordo del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze</td><td>Dipartimento federale dell’economia, della formazione e della ricerca, con l’accordo del Dipartimento federale delle finanze</td></tr>
+<tr><td>oltre 10 milioni fino a 20 milioni di franchi</td><td>Dipartimento federale degli affari esteri</td><td>Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale dell’economia, della formazione e della ricerca</td><td>Dipartimento federale dell’economia, della formazione e della ricerca, con l’accordo del Dipartimento federale degli affari esteri</td><td>Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale dell’economia, della formazione e della ricerca</td><td>Dipartimento federale dell’economia, della formazione e della ricerca, con l’accordo del Dipartimento federale degli affari esteri</td><td>Dipartimento federale dell’economia, della formazione e della ricerca</td></tr>
 <tr><td>fino a 10 milioni di franchi</td><td>DSC</td><td>DSC</td><td>SECO</td><td>DSC, con l’accordo della SECO</td><td>SECO, con l’accordo della DSC</td><td>SECO</td></tr>
 </table>
 
 Allegato 2[^t-2]
 
-(art. 16)
-
-## Competenze finanziarie nel settore dell’aiuto umanitario
-
-[^t-2]: Nuovo testo giusta la cifra II dell’O del 15 feb. 2012, in vigore dal 1° apr. 2012 ([RU 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155)).
-
-<table>
-<tr><td>Importo degli impegni</td><td>Competenza finanziaria per provvedimenti d’aiuto umanitario (compresi i provvedimenti d’aiuto in caso di catastrofe all’estero)</td></tr>
-<tr><td>oltre 20 milioni di franchi</td><td>Consiglio federale</td></tr>
-<tr><td>oltre 10 milioni fino a 20 milioni di franchi</td><td>Dipartimento federale degli affari esteri, con l’accordo del Dipartimento federale delle finanze</td></tr>
-<tr><td>fino a 10 milioni di franchi</td><td>DSC</td></tr>
-</table>
+[^t-2]: Abrogato dalla cifra I n. 10 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto al 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).

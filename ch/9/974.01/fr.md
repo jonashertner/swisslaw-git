@@ -3,18 +3,18 @@ sr: "974.01"
 title: "Ordonnance du 12 décembre 1977 concernant la coopération au développement et l'aide humanitaire internationales"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: fr
-version: 2025-01-01
+version: 2025-11-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la coopération au développement et l’aide humanitaire internationales
 
-du 12 décembre 1977 (État le 1<sup>er</sup> janvier 2025)
+du 12 décembre 1977 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 15 de la loi fédérale du 19 mars 1976[^ingress-1] sur la coopérat
 
 arrête:
 
-[^ingress-1]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+[^ingress-1]: [RS 974.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11701)
 
 ## Section 1 Dispositions générales
 
@@ -186,7 +186,7 @@ La DDC et l’Administration fédérale des finances élaborent en commun la con
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
-[^14-3]: [[RO 1972 243](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243), [1983 1055](https://fedlex.data.admin.ch/eli/oc/1983/1055_1055_1055)art. 14. [RO 1989 72](https://fedlex.data.admin.ch/eli/oc/1989/72_72_72)art. 6 al. 1]. Actuellement «par l’O du 21 déc. 1988 concernant l’application de la convention de 1986 relative à l’aide alimentaire de l’accord international sur le blé» ([RS 916.111.311.2](https://fedlex.data.admin.ch/eli/cc/1989/72_72_72)).
+[^14-3]: [[RO 1972 243](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243), [1983 1055](https://fedlex.data.admin.ch/eli/oc/1983/1055_1055_1055)art. 14. [RO 1989 72](https://fedlex.data.admin.ch/eli/oc/1989/72_72_72)art. 6 al. 1]. Actuellement «par l’O du 21 déc. 1988 concernant l’application de la convention de 1986 relative à l’aide alimentaire de l’accord international sur le blé» ([RS 916.111.311.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10508)).
 [^14-4]: Nouvelle dénomination selon l’art. 1<sup>er</sup> de l’ACF du 23 avril 1980 concernant l’adaptation des dispositions du droit fédéral aux nouvelles dénominations des départements et des offices (non publié). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 4 Compétence financière, contrôle de l’emploi des moyens financiers
@@ -207,10 +207,10 @@ La DDC et l’Administration fédérale des finances élaborent en commun la con
 
 <sup>1</sup> Le Conseil fédéral décide des mesures dont le coût prévisible dépasse 20 millions de francs.[^16-1]
 
-<sup>2</sup> La compétence financière des départements et de la DDC est établie à l’annexe 2.[^16-2]
+<sup>2</sup> Les mesures dont le coût prévisible est inférieur ou égal à 20 millions de francs au maximum sont décidées par la DDC.[^16-2]
 
 [^16-1]: Nouvelle teneur selon le ch. I 13 de l’O du 26 juin 1996 sur l’attribution de nouvelles compétences de décision dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
-[^16-2]: Nouvelle teneur selon le ch. I de l’O du 29 avril 1987, en vigueur depuis le 1<sup>er</sup> juil. 1988 ([RO 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^16-2]: Nouvelle teneur selon le ch. I 10 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 17
 
@@ -266,7 +266,7 @@ Pour l’exécution de mesures de coopération au développement et d’aide hum
 
 L’ordonnance du 8 décembre 1975[^23-1] sur les achats s’applique à l’acquisition de matériel. Il y a lieu de prendre en considération les conditions existant dans le pays partenaire et les effets généraux des achats sur le développement.
 
-[^23-1]: [[RO 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373), [1976 504](https://fedlex.data.admin.ch/eli/oc/1976/_504_), [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206), [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [RO 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)art.71 let. b]. Voir actuellement l’O du 11 déc. 1995 sur les marchés publics ([RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
+[^23-1]: [[RO 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373), [1976 504](https://fedlex.data.admin.ch/eli/oc/1976/_504_), [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206), [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [RO 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)art.71 let. b]. Voir actuellement l’O du 11 déc. 1995 sur les marchés publics ([RS 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)).
 
 ## Section 6 Organes particuliers
 
@@ -391,30 +391,18 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1978.
 
 Annexe 1[^t-1]
 
-(art. 15)
+(art. 15, al. 2)
 
-## Compétence financière dans le domaine de la coopération au développement
+## Compétence financière des départements et des offices fédéraux dans le domaine de la coopération au développement
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 fév. 2012, en vigueur depuis le 1<sup>er</sup> avril 2012 ([RO 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155))
+[^t-1]: Nouvelle teneur selon le ch. I 10 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 <table>
-<tr><td>Montant des engagements</td><td>Compétence financière pour des mesures de coopération technique (Art. 6)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles la DDC est compétente (Art. 7, al. 1)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles le SECO est compétent (Art. 7, al. 2)</td><td>Compétence financière pour des mesures d’aide financière multilatérale, pour lesquelles la DDC assure la coordination (Art. 8, al. 4)</td><td>Compétence financière pour des mesures d’aide financière multilatérale, pour lesquelles le SECO assure la coordination (Art. 8, al. 4)</td><td>Compétence financière pour des mesures de politique commerciale et des mesures en vue d’encourager l’engagement de ressources du secteur privé (Art. 9 et 10)</td></tr>
-<tr><td>plus de 20 millions de francs</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td><td>Conseil fédéral</td></tr>
-<tr><td>plus de 10 millions à 20 millions de francs</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral des finances</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral de l’économie, de la formation et de la recherche et du Département fédéral des finances</td><td>Département fédéral de l’économie,de la formation et de la recherche, avec l’accord du Département fédéral des affaires étrangères et du Département fédéral des finances</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral de l’économie, de la formation et de la recherche et du Département fédéral des finances</td><td>Département fédéral de l’économie,de la formation et de la recherche, avec l’accord du Département fédéral des affaires étrangères et du Département fédéral des finances</td><td>Département fédéral de l’économie, de la formation et de la recherche, avec l’accord du Département fédéral des finances</td></tr>
+<tr><td>Montant des engagements</td><td>Compétence financière pour des mesures de coopération technique (art. 6)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles la DDC est compétente (art. 7, al. 1)</td><td>Compétence financière pour des mesures d’aide financière bilatérale pour lesquelles le SECO est compétent (art. 7, al. 2)</td><td>Compétence financière pour des mesures d’aide financière multilatérale pour lesquelles la DDC assure la coordination (art. 8, al. 4)</td><td>Compétence financière pour des mesures d’aide financière multilatérale pour lesquelles le SECO assure la coordination (art. 8, al. 4)</td><td>Compétence financière pour des mesures de politique commerciale et des mesures en vue d’encourager l’engage- ment de ressources du secteur privé (art. 9 et 10)</td></tr>
+<tr><td>plus de 10 millions à 20 millions de francs</td><td>Département fédéral des affaires étrangères</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral de l’économie, de la formation et de la recherche</td><td>Département fédéral de l’économie, de la formation et de la recherche, avec l’accord du Département fédéral des affaires étrangères</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral de l’économie, de la formation et de la recherche</td><td>Département fédéral de l’économie, de la formation et de la recherche, avec l’accord du Département fédéral des affaires étrangères</td><td>Département fédéral de l’économie, de la formation et de la recherche</td></tr>
 <tr><td>jusqu’à 10 millions de francs</td><td>DDC</td><td>DDC</td><td>SECO</td><td>DDC, avec l’accord du SECO</td><td>SECO, avec l’accord de la DDC</td><td>SECO</td></tr>
 </table>
 
 Annexe 2[^t-2]
 
-(art. 16)
-
-## Compétence financière dans le domaine de l’aide humanitaire
-
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 15 fév. 2012, en vigueur depuis le 1<sup>er</sup> avril 2012 ([RO 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155))
-
-<table>
-<tr><td>Montant des engagements</td><td>Compétence financière pour des mesures d’aide humanitaire (y compris les mesures d’aide en cas de catastrophe à l’étranger)</td></tr>
-<tr><td>plus de 20 millions de francs</td><td>Conseil fédéral</td></tr>
-<tr><td>plus de 10 millions à 20 millions de francs</td><td>Département fédéral des affaires étrangères, avec l’accord du Département fédéral des finances</td></tr>
-<tr><td>jusqu’à 10 millions de francs</td><td>DDC</td></tr>
-</table>
+[^t-2]: Abrogée par le ch. I 10 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).

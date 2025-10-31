@@ -3,18 +3,18 @@ sr: "974.01"
 title: Verordnung vom 12. Dezember 1977 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/25_25_25"
 language: de
-version: 2025-01-01
+version: 2025-11-01
 adopted: 1977-12-12
 in_force: 1978-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/25_25_25/20251101/de/xml/fedlex-data-admin-ch-eli-cc-1978-25_25_25-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/25_25_25/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe
 
-vom 12. Dezember 1977 (Stand am 1. Januar 2025)
+vom 12. Dezember 1977 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 15 des Bundesgesetzes vom 19. März 1976[^ingress-1] über
 
 verordnet:
 
-[^ingress-1]: [SR 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
+[^ingress-1]: [SR 974.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11701)
 
 ## 1. Abschnitt: Allgemeines
 
@@ -187,7 +187,7 @@ Die DEZA und die Eidgenössische Finanzverwaltung erarbeiten gemeinsam die Gesam
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 29. April 1987, in Kraft seit 1. Juli 1988 ([AS 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
 [^14-2]: Fassung gemäss Ziff. I der V vom 29. April 1987, in Kraft seit 1. Juli 1988 ([AS 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
-[^14-3]: [[AS 1972 239](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243); [AS 1983 1055](https://fedlex.data.admin.ch/eli/oc/1983/1055_1055_1055)Art. 14. [AS 1989 72](https://fedlex.data.admin.ch/eli/oc/1989/72_72_72)Art. 6 Abs. 1]. Heute: nach der V vom 21. Dez. 1988 über die Anwendung des Übereink. betreffend Nahrungsmittelhilfe des Internationalen Weizenabk. von 1986 ([SR 916.111.311.2](https://fedlex.data.admin.ch/eli/cc/1989/72_72_72)).
+[^14-3]: [[AS 1972 239](https://fedlex.data.admin.ch/eli/oc/1972/239_243_243); [AS 1983 1055](https://fedlex.data.admin.ch/eli/oc/1983/1055_1055_1055)Art. 14. [AS 1989 72](https://fedlex.data.admin.ch/eli/oc/1989/72_72_72)Art. 6 Abs. 1]. Heute: nach der V vom 21. Dez. 1988 über die Anwendung des Übereink. betreffend Nahrungsmittelhilfe des Internationalen Weizenabk. von 1986 ([SR 916.111.311.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10508)).
 [^14-4]: Bezeichnung gemäss Art. 1 des nicht veröffentlichten BRB vom 23. April 1980 über die Anpassung von bundesrechtlichen Erlassen an die neuen Bezeichnungen der Departemente und Ämter. Diese Änderung ist im ganzen Erlass berücksichtigt.
 
 ## 4. Abschnitt: Finanzkompetenzen, Kontrolle der Verwendung der Mittel
@@ -208,10 +208,10 @@ Die DEZA und die Eidgenössische Finanzverwaltung erarbeiten gemeinsam die Gesam
 
 <sup>1</sup> Der Bundesrat beschliesst Massnahmen, die voraussichtlich mehr als 20 Millionen Franken kosten.[^16-1]
 
-<sup>2</sup> Die Finanzkompetenzen der einzelnen Departemente und der DEZA werden durch Anhang 2 bestimmt.[^16-2]
+<sup>2</sup> Massnahmen, die voraussichtlich bis 20 Millionen Franken kosten, werden von der DEZA beschlossen.[^16-2]
 
 [^16-1]: Fassung gemäss Ziff. I 13 der V vom 26. Juni 1996 über die Neuzuordnung von Entscheidungsbefugnissen in der Bundesverwaltung, in Kraft seit 1. Aug. 1996 ([AS 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
-[^16-2]: Fassung gemäss Ziff. I der V vom 29. April 1987, in Kraft seit 1. Juli 1988 ([AS 1988 959](https://fedlex.data.admin.ch/eli/oc/1988/959_959_959)).
+[^16-2]: Fassung gemäss Ziff. I 10 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 17
 
@@ -267,7 +267,7 @@ Die zuständigen Bundesstellen können für die Durchführung von Massnahmen der
 
 Für die Materialbeschaffung gilt die Einkaufsverordnung vom 8. Dezember 1975[^23-1]. Dabei sind die Verhältnisse im Partnerland und der allgemeine Entwicklungseffekt zu berücksichtigen.
 
-[^23-1]: [[AS 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373); [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206); [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 71 Bst. b]. Siehe heute die V vom 11. Dez. 1995 über das öffentliche Beschaffungswesen ([SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)).
+[^23-1]: [[AS 1975 2373](https://fedlex.data.admin.ch/eli/oc/1975/2373_2373_2373); [1988 1206](https://fedlex.data.admin.ch/eli/oc/1988/1206_1206_1206); [1993 2525](https://fedlex.data.admin.ch/eli/oc/1993/2525_2525_2525). [AS 1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 71 Bst. b]. Siehe heute die V vom 11. Dez. 1995 über das öffentliche Beschaffungswesen ([SR 172.056.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5198)).
 
 ## 6. Abschnitt: Besondere Organe
 
@@ -388,34 +388,22 @@ Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 
 [^u1-1]
 
-[^u1-1]: [AS 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145). Gegenstandslos durch die Änd. vom 27. Nov. 2024 (AS **202****4** 737).
+[^u1-1]: [AS 2010 933](https://fedlex.data.admin.ch/eli/oc/2010/145). Gegenstandslos durch die Änd. vom 27. Nov. 2024 ([AS 2024 737](https://fedlex.data.admin.ch/eli/oc/2024/737)).
 
 Anhang 1[^t-1]
 
-(Art. 15)
+(Art. 15 Abs. 2)
 
-## Finanzkompetenzen im Bereich der Entwicklungszusammenarbeit
+## Finanzkompetenzen der Departemente und Bundesämter im Bereich der Entwicklungszusammenarbeit
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 15. Febr. 2012, in Kraft seit 1. April 2012 ([AS 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155)).
+[^t-1]: Fassung gemäss Ziff. I 10 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 <table>
-<tr><td>Verpflichtungsbetrag</td><td>Finanzkompetenz für Massnahmen der technischen Zusammenarbeit (Art. 6)</td><td>Finanzkompetenz für Massnahmen der bilateralen Finanzhilfe, für die die DEZA zuständig ist (Art. 7 Abs. 1)</td><td>Finanzkompetenz für Massnahmen der bilateralen Finanzhilfe, für die das SECO zuständig ist (Art. 7 Abs. 2)</td><td>Finanzkompetenz für Massnahmen der multilateralen Finanzhilfe, für welche die DEZA die Koordination hat (Art. 8 Abs. 4)</td><td>Finanzkompetenz für Massnahmen der multilateralen Finanzhilfe, für welche das SECO die Koordination hat (Art. 8 Abs. 4)</td><td>Finanzkompetenz für handelspolitische Massnahmen und Massnahmen zur Förderung des Einsatzes privatwirtschaftlicher Mittel (Art. 9 und 10)</td></tr>
-<tr><td>über 20 Mio. Fr.</td><td>Bundesrat</td><td>Bundesrat</td><td>Bundesrat</td><td>Bundesrat</td><td>Bundesrat</td><td>Bundesrat</td></tr>
-<tr><td>über 10 Mio. Fr. bis 20 Mio. Fr.</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten mit Zustimmung des Eidgenössischen Finanzdepartementes</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten mit Zustimmung des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung und des Eidgenössischen Finanzdepartementes</td><td>Eidgenössisches Departement für Wirtschaft, Bildung und Forschung mit Zustimmung des Eidgenössischen Departementes für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartementes</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten mit Zustimmung des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung und des Eidgenössischen Finanzdepartementes</td><td>Eidgenössisches Departement für Wirtschaft, Bildung und Forschung mit Zustimmung des Eidgenössischen Departementes für auswärtige Angelegenheiten und des Eidgenössischen Finanzdepartementes</td><td>Eidgenössisches Departement für Wirtschaft, Bildung und Forschung mit Zustimmung des Eidgenössischen Finanzdepartementes</td></tr>
+<tr><td>Verpflich- tungsbetrag</td><td>Finanzkompetenz für Massnahmen der technischen Zusammenarbeit (Art. 6)</td><td>Finanzkompetenz für Massnahmen der bilateralen Finanzhilfe, für die die DEZA zuständig ist (Art. 7 Abs. 1)</td><td>Finanzkompetenz für Massnahmen der bilateralen Finanzhilfe, für die das SECO zuständig ist (Art. 7 Abs. 2)</td><td>Finanzkompetenz für Massnahmen der multilateralen Finanzhilfe, für welche die DEZA die Koordination hat (Art. 8 Abs. 4)</td><td>Finanzkompetenz für Massnahmen der multilateralen Finanzhilfe, für welche das SECO die Koordination hat (Art. 8 Abs. 4)</td><td>Finanzkompetenz für handelspolitische Massnahmen und Massnahmen zur Förderung des Einsatzes privatwirtschaftlicher Mittel (Art. 9 und 10)</td></tr>
+<tr><td>über 10 Mio. Fr. bis 20 Mio. Fr.</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten</td><td>Eidgenössisches Departement für auswärtige Angelegen- heiten mit Zustimmung des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung</td><td>Eidgenössisches Departement für Wirtschaft, Bildung und Forschung mit Zustimmung des Eidgenössischen Departementes für auswärtige Angelegenheiten</td><td>Eidgenössisches Departement für auswärtige Angelegen- heiten mit Zustimmung des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung</td><td>Eidgenössisches Departement für Wirtschaft, Bildung und Forschung mit Zustimmung des Eidgenössischen Departementes für auswärtige Angelegenheiten</td><td>Eidgenössisches Departement für Wirtschaft, Bildung und Forschung</td></tr>
 <tr><td>bis 10 Mio. Fr.</td><td>DEZA</td><td>DEZA</td><td>SECO</td><td>DEZA mit Zustimmung des SECO</td><td>SECO mit Zustimmung der DEZA</td><td>SECO</td></tr>
 </table>
 
 Anhang 2[^t-2]
 
-(Art. 16)
-
-## Finanzkompetenzen im Bereich der humanitären Hilfe
-
-[^t-2]: Fassung gemäss Ziff. II der V vom 15. Febr. 2012, in Kraft seit 1. April 2012 ([AS 2012 931](https://fedlex.data.admin.ch/eli/oc/2012/155)).
-
-<table>
-<tr><td>Verpflichtungsbetrag</td><td>Finanzkompetenz für Massnahmen der humanitären Hilfe (inkl. Massnahmen der Katastrophenhilfe im Ausland)</td></tr>
-<tr><td>über 20 Mio. Fr.</td><td>Bundesrat</td></tr>
-<tr><td>über 10 Mio. Fr. bis 20 Mio. Fr.</td><td>Eidgenössisches Departement für auswärtige Angelegenheiten mit Zustimmung des Eidgenössischen Finanzdepartementes</td></tr>
-<tr><td>bis 10 Mio. Fr.</td><td>DEZA</td></tr>
-</table>
+[^t-2]: Aufgehoben durch Ziff. I 10 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
