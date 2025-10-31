@@ -3,18 +3,18 @@ sr: "943.032.1"
 title: "Ordonnance de l'OFCOM du 23 novembre 2016 sur les services de certification dans le domaine de la signature électronique et des autres applications des certificats numériques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/754"
 language: fr
-version: 2022-03-15
+version: 2025-11-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/754/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2016-754-20220315-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/754/20220315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/754/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-754-20251101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/754/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFCOM sur les services de certification dans le domaine de la signature électronique et des autres applications des certificats numériques
 
-du 23 novembre 2016 (État le 15 mars 2022)
+du 23 novembre 2016 (État le 1<sup>er</sup> novembre 2025)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -22,7 +22,7 @@ vu les art. 3, al. 2, 4, al. 1, 10 et 15 de l’ordonnance du 23 novembre 2016 s
 
 arrête:
 
-[^ingress-1]: [RS 943.032](https://fedlex.data.admin.ch/eli/cc/2016/753)
+[^ingress-1]: [RS 943.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11302)
 
 #### Art. 1
 
@@ -32,7 +32,7 @@ Les prescriptions techniques et administratives concernant les services de certi
 
 L’ordonnance de l’OFCOM du 6 décembre 2004 sur les services de certification dans le domaine de la signature électronique[^2-1] est abrogée.
 
-[^2-1]: [[RO 2004 5107](https://fedlex.data.admin.ch/eli/oc/2004/790), [2006 4557](https://fedlex.data.admin.ch/eli/oc/2006/699), [2011 3459](https://fedlex.data.admin.ch/eli/oc/2011/466)]
+[^2-1]: [[RO 2004 5107](https://fedlex.data.admin.ch/eli/oc/2004/790); [2006 4557](https://fedlex.data.admin.ch/eli/oc/2006/699); [2011 3459](https://fedlex.data.admin.ch/eli/oc/2011/466)]
 
 #### Art. 3
 
@@ -42,9 +42,9 @@ Annexe[^t-1]
 
 (art. 1)
 
-## Prescriptions techniques et administratives concernant les services de certification dans le domaine de la signature électronique et des autres applications des certificats numériques (2<sup>e</sup> édition)
+## Prescriptions techniques et administratives concernant les services de certification dans le domaine de la signature électronique et des autres applications des certificats numériques (3<sup>e</sup> édition)
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 17 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 155](https://fedlex.data.admin.ch/eli/oc/2022/155)).
-[^annexu1-lvlu1-1]: Le texte de ces prescriptions n’est pas publié dans le RO. Il peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou téléchargé à l’adresse www.ofcom.admin.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Internet.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 17 fév. 2022 ([RO 2022 155](https://fedlex.data.admin.ch/eli/oc/2022/155)). Mise à jour par le ch. I de l’O de l’OFCOM du 20 août 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 534](https://fedlex.data.admin.ch/eli/oc/2025/534)).
+[^annexu1-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/534](https://fedlex.data.admin.ch/eli/oc/2025/534) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
