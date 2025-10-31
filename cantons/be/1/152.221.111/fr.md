@@ -4,13 +4,12 @@ number: "152.221.111"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'économie, de l'énergie et de l'environnement *"
 short: "Ordonnance d'organisation DEEE, OO DEEE"
 language: fr
-version: 2025-01-01
-valid_until: 2025-10-31
-version_adopted: 2024-11-20
+version: 2025-11-01
+version_adopted: 2025-09-10
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3092/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3219/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3092/pdf_file"
 
 (Ordonnance d'organisation DEEE, OO DEEE)
 
-du 18.10.1995 (état au 01.01.2025)
+du 18.10.1995 (état au 01.11.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -198,6 +197,7 @@ arrête:
 - c1 la vulgarisation en matière d'économie laitière;
 - d la culture des champs, l'arboriculture, la culture maraîchère et la viticulture;
 - d1 les mesures phytosanitaires agricoles;
+- d2 la coordination de l’utilisation par le canton d'organismes exotiques envahissants en vertu des dispositions de l’ordonnance fédérale du 10 septembre 2008 sur l’utilisation d’organismes dans l’environnement (ordonnance sur la dissémination dans l’environnement, ODE)[^8-1];
 - e …
 - f la production animale;
 - g …
@@ -218,6 +218,8 @@ arrête:
 <sup>2</sup> Les centres de formation et de vulgarisation en matière d'agriculture et d'économie ménagère rurale sont subordonnés à l'Office de l'agriculture et de la nature.
 
 <sup>3</sup> …
+
+[^8-1]: RS [814.911](https://db.clex.ch/link/Bund/814.911/fr)
 
 #### Art. 8a
 
@@ -316,8 +318,8 @@ arrête:
 - b l'exécution de la législation fédérale sur les produits chimiques conformément aux dispositions de l'ordonnance du 24 mai 2006 portant introduction à la loi fédérale sur les produits chimiques (OiLChim)[^11a-2];
 - c l'exécution de l'ordonnance fédérale du 27 février 1991 sur la protection contre les accidents majeurs (ordonnance sur les accidents majeurs, OPAM)[^11a-3], conformément aux dispositions de l'ordonnance du 22 septembre 1993 d'introduction de l'ordonnance fédérale sur les accidents majeurs (OiOPAM)[^11a-4];
 - d l'exécution de la législation fédérale sur la radioprotection, pour autant qu'elle ne relève pas de la Confédération;
-- d1 l'exécution de la section 1 (Utilisation de solariums) et - si des personnes disposant d'une attestation de compétences sanctionnant un examen sont concernées - de la section 2 (Utilisation de produits à visées esthétiques) de l'ordonnance du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son (O-LRNIS)[^11a-5];
-- e l’exécution de l’ordonnance fédérale du 5 juillet 2000 sur les emballages pour boissons (OEB)[^11a-6], de l’ordonnance fédérale du 15 juin 2001 sur les conseillers à la sécurité pour le transport de marchandises dangereuses par route, par rail ou par voie navigable (ordonnance sur les conseillers à la sécurité, OCS)[^11a-7], de l’ordonnance fédérale du 9 mai 2012 sur l’utilisation des organismes en milieu confiné (ordonnance sur l’utilisation confinée, OUC)[^11a-8] ainsi que de l’ordonnance fédérale du 10 septembre 2008 sur l’utilisation d’organismes dans l’environnement (ordonnance sur la dissémination dans l’environnement, ODE)[^11a-9];
+- d1 l'exécution de la section 1 (Utilisation de solariums) et - si des personnes disposant d'une attestation de compétences sanctionnant un examen sont concernées - de la section 2 (Utilisation de produits à visées esthétiques) de l'ordonnance fédérale du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son (O-LRNIS)[^11a-5];
+- e l’exécution de l’ordonnance fédérale du 5 juillet 2000 sur les emballages pour boissons (OEB)[^11a-6], de l’ordonnance fédérale du 15 juin 2001 sur les conseillers à la sécurité pour le transport de marchandises dangereuses par route, par rail ou par voie navigable (ordonnance sur les conseillers à la sécurité, OCS)[^11a-7], de l’ordonnance fédérale du 9 mai 2012 sur l’utilisation des organismes en milieu confiné (ordonnance sur l’utilisation confinée, OUC)[^11a-8] ainsi que de l’ordonnance fédérale du 10 septembre 2008 sur l’utilisation d’organismes dans l’environnement (ordonnance sur la dissémination dans l’environnement, ODE)[^11a-9], excepté pour ce qui touche à l'utilisation d'organismes exotiques envahissants;
 - f l'exécution de l'ordonnance fédérale du 26 novembre 2003 relative à la déclaration de produits agricoles issus de modes de production interdits en Suisse (ordonnance agricole sur la déclaration, OAgrD)[^11a-10];
 - g l'exécution de la surveillance du marché en vertu de l'ordonnance fédérale du 1<sup>er</sup> novembre 2023 sur la mise en circulation des engrais (ordonnance sur les engrais, OEng)[^11a-11];
 - h les autorisations relevant de son domaine;

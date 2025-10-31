@@ -4,13 +4,12 @@ number: "152.221.111"
 title: "Verordnung über die Organisation und die Aufgaben der Wirtschafts-, Energie- und Umweltdirektion"
 short: "Organisationsverordnung WEU, OrV WEU"
 language: de
-version: 2025-01-01
-valid_until: 2025-10-31
-version_adopted: 2024-11-20
+version: 2025-11-01
+version_adopted: 2025-09-10
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3092/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3219/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3092/pdf_file"
 
 (Organisationsverordnung WEU, OrV WEU)
 
-vom 18.10.1995 (Stand 01.01.2025)
+vom 18.10.1995 (Stand 01.11.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -198,6 +197,7 @@ beschliesst:
 - c1 das milchwirtschaftliche Beratungswesen,
 - d den Acker-, Obst-, Gemüse- und Rebbau,
 - d1 den landwirtschaftlichen Pflanzenschutz,
+- d2 die Koordination des kantonalen Umgangs mit invasiven gebietsfremden Organismen nach den Bestimmungen der Verordnung des Bundesrates vom 10. September 2008 über den Umgang mit Organismen in der Umwelt (Freisetzungsverordnung, FrSV)[^8-1],
 - e …
 - f die Tierproduktion,
 - g …
@@ -218,6 +218,8 @@ beschliesst:
 <sup>2</sup> Dem Amt für Landwirtschaft und Natur sind die landwirtschaftlichen und bäuerlich-hauswirtschaftlichen Bildungs- und Beratungszentren unterstellt.
 
 <sup>3</sup> …
+
+[^8-1]: SR [814.911](https://db.clex.ch/link/Bund/814.911/de)
 
 #### Art. 8a
 
@@ -316,8 +318,8 @@ beschliesst:
 - b den Vollzug der eidgenössischen Chemikaliengesetzgebung nach den Bestimmungen der Einführungsverordnung vom 24. Mai 2006 zur eidgenössischen Chemikaliengesetzgebung (EV ChemG)[^11a-2],
 - c den Vollzug der Verordnung des Bundesrates vom 27. Februar 1991 über den Schutz vor Störfällen (Störfallverordnung, StFV)[^11a-3] nach den Bestimmungen der Einführungsverordnung vom 22. September 1993 zur eidgenössischen Störfallverordnung (EV StFV)[^11a-4],
 - d den Vollzug der eidgenössischen Strahlenschutzgesetzgebung, soweit der Vollzug nicht dem Bund vorbehalten ist,
-- d1 den Vollzug des ersten Abschnitts (Verwendung von Solarien) und - soweit Personen mit einem Sachkundenachweis mit Prüfung betroffen sind - des zweiten Abschnitts (Verwendung von Produkten für kosmetische Zwecke) der Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG)[^11a-5],
-- e den Vollzug der Verordnung des Bundesrates vom 5. Juli 2000 über Getränkeverpackungen (VGV)[^11a-6], der Verordnung des Bundesrates vom 15. Juni 2001 über Gefahrgutbeauftragte für die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässern (Gefahrgutbeauftragtenverordnung, GGBV)[^11a-7], der Verordnung des Bundesrates vom 9. Mai 2012 über den Umgang mit Organismen in geschlossenen Systemen (Einschliessungsverordnung, ESV)[^11a-8] sowie der Verordnung des Bundesrates vom 10. September 2008 über den Umgang mit Organismen in der Umwelt (Freisetzungsverordnung, FrSV)[^11a-9],
+- d1 den Vollzug des ersten Abschnitts (Verwendung von Solarien) und - soweit Personen mit einem Sachkundenachweis mit Prüfung betroffen sind - des zweiten Abschnitts (Verwendung von Produkten für kosmetische Zwecke) der Verordnung des Bundesrates vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG)[^11a-5],
+- e den Vollzug der Verordnung des Bundesrates vom 5. Juli 2000 über Getränkeverpackungen (VGV)[^11a-6], der Verordnung des Bundesrates vom 15. Juni 2001 über Gefahrgutbeauftragte für die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässern (Gefahrgutbeauftragtenverordnung, GGBV)[^11a-7], der Verordnung des Bundesrates vom 9. Mai 2012 über den Umgang mit Organismen in geschlossenen Systemen (Einschliessungsverordnung, ESV)[^11a-8] sowie der Verordnung des Bundesrates vom 10. September 2008 über den Umgang mit Organismen in der Umwelt (Freisetzungsverordnung, FrSV)[^11a-9] mit Ausnahme des Umgangs mit invasiven gebietsfremden Organismen,
 - f den Vollzug der Verordnung des Bundesrates vom 26. November 2003 über die Deklaration für landwirtschaftliche Erzeugnisse aus in der Schweiz verbotener Produktion (Landwirtschaftliche Deklarationsverordnung, LDV)[^11a-10],
 - g den Vollzug der Marktüberwachung nach der Verordnung des Bundesrates vom 1. November 2023 über das Inverkehrbringen von Düngern (Düngerverordnung, DüV)[^11a-11],
 - h das Bewilligungswesen in seinem Bereich,
