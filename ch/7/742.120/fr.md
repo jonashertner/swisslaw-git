@@ -4,11 +4,11 @@ title: "Ordonnance du 14 octobre 2015 sur les concessions, la planification et l
 short: OCPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/697"
 language: fr
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2015-10-14
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-697-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-697-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/fr"
 
 (OCPF)
 
-du 14 octobre 2015 (État le 1<sup>er</sup> janvier 2025)
+du 14 octobre 2015 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 1, al. 3, 6, 8, 9*b*, 57, al. 3, et 97 de la loi fédérale du 20 d�
 
 arrête:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^ingress-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 1 Dispositions générales
@@ -213,7 +213,7 @@ Les demandes d’octroi ou d’extension de la concession doivent comprendre:
 
 <sup>5</sup> Lorsque les documents joints à la demande sont incomplets ou imprécis, l’OFT fixe un délai pour les compléter. Si ce délai n’est pas utilisé, il n’entre pas en matière sur la demande.
 
-[^8-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^8-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 #### Art. 9
 
@@ -288,7 +288,7 @@ Sont notamment déterminants:
 - d. le taux d’utilisation des lignes aux heures de pointe;
 - e. les effets sur la qualité de la desserte en transport de voyageurs et de marchandises.
 
-[^14-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^14-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 ## Section 4 Planification de l’aménagement
 
@@ -421,7 +421,7 @@ Peuvent également faire l’objet du financement:
 
 <sup>3</sup> Les ressources sont prélevées sur le fonds d’infrastructure ferroviaire conformément à la loi du 21 juin 2013 sur le fonds d’infrastructure ferroviaire[^21-1]. Les projets déjà commencés ont priorité sur les nouveaux projets.
 
-[^21-1]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^21-1]: [RS 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
 
 #### Art. 22
 
@@ -437,8 +437,8 @@ Sont considérés comme tronçons de desserte capillaire exclus des prestations 
 <sup>2</sup> Les tronçons de desserte capillaire sont déterminés lors de l’octroi de la concession ou sur demande d’un canton avant la conclusion de la convention de prestations.
 
 [^22-1]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^22-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^22-3]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^22-3]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^22-4]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 23
@@ -451,7 +451,7 @@ Sont considérés comme tronçons de desserte capillaire exclus des prestations 
 
 <sup>3</sup> Une fois par trimestre, la mise de fond est portée au débit du compte courant du canton concerné auprès de la Banque nationale suisse.
 
-[^23-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^23-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 24
 
@@ -482,9 +482,10 @@ Sont considérés comme tronçons de desserte capillaire exclus des prestations 
 
 <sup>2</sup> L’OFT exige le remboursement des prêts dans les cas prévus par l’art. 51*b*, al. 2, LCdF et par l’art. 29 de la loi du 5 octobre 1990 sur les subventions[^25-1].
 
-<sup>3</sup> L’OFT décide s’il veut renoncer à des remboursements de prêts ou à leur conversion en capital propre dans les conditions visées à l’art. 51*b*, al. 3, LCdF. Lorsque les montants dépassent dix millions de francs, il agit après accord avec l’Administration fédérale des finances.
+<sup>3</sup> L’OFT décide s’il veut renoncer à des remboursements de prêts ou à leur conversion en capital propre dans les conditions visées à l’art. 51*b*, al. 3, LCdF.[^25-2]
 
-[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: Nouvelle teneur selon le ch. I 6 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 26
 
@@ -494,7 +495,7 @@ Sont considérés comme tronçons de desserte capillaire exclus des prestations 
 
 <sup>2</sup> Elles conviennent de compensations qui couvrent intégralement les coûts visés à l’art. 64 LCdF et qui ne peuvent pas contenir d’intérêt calculé.[^26-2]
 
-[^26-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^26-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^26-2]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 6 Financement de l’exploitation et du maintien de la qualité des infrastructures
@@ -589,7 +590,7 @@ Les cantons ou des tiers peuvent convenir avec une entreprise ferroviaire d’an
 
 **Conventions de mise en œuvre**
 
-<sup>1</sup> Après avoir consulté le Département fédéral des finances, le DETEC conclut, avec les gestionnaires d’infrastructure ou avec les sociétés de construction, des conventions de mise en œuvre de l’aménagement de l’infrastructure ferroviaire conformément à l’art. 48*f* LCdF. Les phases de planification et de réalisation sont en principe réglées dans des conventions de mise en œuvre séparées.
+<sup>1</sup> Le DETEC conclut, avec les gestionnaires d’infrastructure ou avec les sociétés de construction, des conventions de mise en œuvre de l’aménagement de l’infrastructure ferroviaire conformément à l’art. 48*f* LCdF. Les phases de planification et de réalisation sont en principe réglées dans des conventions de mise en œuvre séparées.[^33-1]
 
 <sup>2</sup>
 
@@ -602,6 +603,8 @@ Les conventions de mise en œuvre contiennent:
 - e. des exigences techniques spécifiques;
 - f. l’organisation du projet en vue de la mise en œuvre et de la collaboration avec l’OFT;
 - g. les indications sur les contributions d’investissements allouées par la Confédération, sur les éventuelles contributions de tiers et sur la prise en compte du renchérissement attesté.
+
+[^33-1]: Nouvelle teneur selon le ch. I 6 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 34
 
@@ -708,7 +711,7 @@ Dans le secteur Infrastructure, les indemnités et les éventuels bénéfices d�
 
 Les simples gestionnaires d’infrastructure sont régis par les dispositions relatives à la présentation des comptes des art. 2, 32, al. 1 et 5, 35, 59, 60, al. 3, 5 et 6, 61 à 63, 64, al. 2 à 3, et 66 OITRV[^37d-1].
 
-[^37d-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^37d-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 
 ## Section 8 Investissements dans les installations de transport à câbles
 
@@ -718,8 +721,8 @@ Les simples gestionnaires d’infrastructure sont régis par les dispositions re
 
 <sup>2</sup> Sont considérés comme investissements dans l’infrastructure des entreprises de transport à câbles au sens de l’art. 16, al. 3, de la loi du 23 juin 2006 sur les installations à câbles (LICa)[^38-2] 50 % d’un investissement global. Les contributions d’investissement sont versées à fonds perdu.[^38-3]
 
-[^38-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^38-2]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^38-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^38-2]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
 [^38-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 9 Dégâts dus aux phénomènes naturels
@@ -761,7 +764,7 @@ Les contributions allouées par la Confédération en vertu d’autres actes lé
 <sup>3</sup> Les principes généraux d’encouragement énoncés à l’art. 9 de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation[^42-2] sont applicables.
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
-[^42-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^42-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 ## Section 11 Dispositions finales
 

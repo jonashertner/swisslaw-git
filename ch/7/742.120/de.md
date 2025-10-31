@@ -4,11 +4,11 @@ title: "Verordnung vom 14. Oktober 2015 über die Konzessionierung, Planung und 
 short: KPFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/697"
 language: de
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2015-10-14
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-697-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2015-697-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/de"
 
 (KPFV)
 
-vom 14. Oktober 2015 (Stand am 1. Januar 2025)
+vom 14. Oktober 2015 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 1 Absatz 3, 6, 8, 9*b*, 57 Absatz 3 und 97 des Eisenba
 
 verordnet:
 
-[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^ingress-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -212,7 +212,7 @@ Die Gesuche um Erteilung oder Ausdehnung der Konzession müssen enthalten:
 
 <sup>5</sup> Werden Gesuche mit unvollständigen oder mangelhaften Unterlagen eingereicht, so setzt das BAV eine Frist für deren Ergänzung. Wird diese Frist nicht genutzt, so tritt das BAV auf das Gesuch nicht ein.
 
-[^8-1]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^8-1]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 #### Art. 9
 
@@ -287,7 +287,7 @@ Massgeblich sind insbesondere:
 - d. die Auslastung der Linien während den Hauptverkehrszeiten;
 - e. die Auswirkungen auf die Qualität der Erschliessung im Personenverkehr und im Gütertransport[^14-2].
 
-[^14-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^14-1]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^14-2]: Ausdruck gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ## 4. Abschnitt: Planung des Ausbaus
@@ -421,7 +421,7 @@ Ebenfalls Gegenstand der Finanzierung können sein:
 
 <sup>3</sup> Die Mittel werden dem Bahninfrastrukturfonds nach dem Bahninfrastrukturfondsgesetz vom 21. Juni 2013[^21-1] entnommen. Bereits begonnene Projekte haben Vorrang vor neuen Projekten.
 
-[^21-1]: [SR 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^21-1]: [SR 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
 
 #### Art. 22
 
@@ -437,8 +437,8 @@ Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundeslei
 <sup>2</sup> Ob es sich um eine Strecke für die Feinerschliessung handelt, wird bei der Erteilung der Konzession oder auf Gesuch eines Kantons vor Abschluss der Leistungsvereinbarung geprüft.
 
 [^22-1]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^22-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^22-3]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^22-2]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^22-3]: [SR 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^22-4]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 23
@@ -451,7 +451,7 @@ Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundeslei
 
 <sup>3</sup> Die Einlage wird dem Kanton quartalsweise seinem Kontokorrent bei der Schweizerischen Nationalbank belastet.
 
-[^23-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^23-1]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 24
 
@@ -482,9 +482,10 @@ Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundeslei
 
 <sup>2</sup> In den nach Artikel 51*b* Absatz 2 EBG und Artikel 29 des Subventionsgesetzes vom 5. Oktober 1990[^25-1] vorgesehenen Fällen fordert das BAV die Rückzahlung der Darlehen.
 
-<sup>3</sup> Das BAV entscheidet über den Verzicht auf die Rückzahlung von Darlehen oder deren Umwandlung in Eigenkapital nach Artikel 51*b* Absatz 3 EBG. Bei Beträgen über 10 Millionen Franken handelt es im Einvernehmen mit der Eidgenössischen Finanzverwaltung (EFV).
+<sup>3</sup> Das BAV entscheidet über den Verzicht auf die Rückzahlung von Darlehen oder deren Umwandlung in Eigenkapital nach Artikel 51*b* Absatz 3 EBG.[^25-2]
 
-[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: Fassung gemäss Ziff. I 6 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 26
 
@@ -494,7 +495,7 @@ Als Strecken für die Feinerschliessung, die nach Artikel 49 EBG keine Bundeslei
 
 <sup>2</sup> Sie vereinbaren Vergütungen, welche die vollen Kosten nach Artikel 64 EBG decken. Die Vergütungen dürfen keine kalkulatorische Verzinsung enthalten.[^26-2]
 
-[^26-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^26-1]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^26-2]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 6. Abschnitt: Finanzierung des Betriebs und des Substanzerhalts
@@ -589,7 +590,7 @@ Kantone oder Dritte können mit einem Eisenbahnunternehmen vereinbaren, eine Mas
 
 **Umsetzungsvereinbarungen**
 
-<sup>1</sup> Das UVEK schliesst nach Rücksprache mit dem Eidgenössischen Finanzdepartement (EFD) mit den Infrastrukturbetreiberinnen oder den Erstellergesellschaften Umsetzungsvereinbarungen nach Artikel 48*f* EBG über den Ausbau der Infrastruktur ab. Die Phasen Projektierung und Realisierung werden in der Regel in separaten Umsetzungsvereinbarungen geregelt.
+<sup>1</sup> Das UVEK schliesst mit den Infrastrukturbetreiberinnen oder den Erstellergesellschaften Umsetzungsvereinbarungen nach Artikel 48*f* EBG über den Ausbau der Infrastruktur ab. Die Phasen Projektierung und Realisierung werden in der Regel in separaten Umsetzungsvereinbarungen geregelt.[^33-1]
 
 <sup>2</sup>
 
@@ -602,6 +603,8 @@ Die Umsetzungsvereinbarungen enthalten:
 - e. spezifische technische Anforderungen;
 - f. die Projektorganisation für die Umsetzung und die Zusammenarbeit mit dem BAV;
 - g. die Angaben über die zugesicherten Investitionsbeiträge des Bundes, allfällige Beiträge der Kantone oder Dritter sowie über die Berücksichtigung der ausgewiesenen Teuerung.
+
+[^33-1]: Fassung gemäss Ziff. I 6 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 34
 
@@ -708,7 +711,7 @@ In der Sparte Infrastruktur sind die Abgeltungen und allfällige der Infrastrukt
 
 Für reine Infrastrukturbetreiberinnen gelten die Bestimmungen zur Rechnungslegung nach den Artikeln 2, 32 Absätze 1 und 5, 35, 59, 60 Absätze 3, 5 und 6, 61–63, 64 Absätze 2–3 und 66 ARPV[^37d-1].
 
-[^37d-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^37d-1]: [SR 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 
 ## 8. Abschnitt: Investitionen in Seilbahnen
 
@@ -718,8 +721,8 @@ Für reine Infrastrukturbetreiberinnen gelten die Bestimmungen zur Rechnungslegu
 
 <sup>2</sup> Als Investitionen in die Infrastruktur der Seilbahnunternehmen im Sinne von Artikel 16 Absatz 3 des Seilbahngesetzes vom 23. Juni 2006[^38-2] gelten 50 Prozent der Gesamtinvestition. Die Investitionsbeiträge werden à fonds perdu gewährt.[^38-3]
 
-[^38-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^38-2]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^38-1]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^38-2]: [SR 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
 [^38-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 9. Abschnitt: Schäden durch Naturereignisse
@@ -761,7 +764,7 @@ Die Beiträge, die der Bund aufgrund anderer Erlasse leistet, und die Leistungen
 <sup>3</sup> Die allgemeinen Fördergrundsätze nach Artikel 9 des Bundesgesetzes vom 14. Dezember 2012[^42-2] über die Förderung der Forschung und der Innovation sind anwendbar.
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
-[^42-2]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^42-2]: [SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 ## 11. Abschnitt: Schlussbestimmungen
 

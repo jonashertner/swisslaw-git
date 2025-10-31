@@ -4,11 +4,11 @@ title: "Ordinanza del 14 ottobre 2015 sulle concessioni, sulla pianificazione e 
 short: OCPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/697"
 language: it
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2015-10-14
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-697-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/697/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2015-697-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/697/20250101/it"
 
 (OCPF)
 
-del 14 ottobre 2015 (Stato 1° gennaio 2025)
+del 14 ottobre 2015 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,9 +27,9 @@ visto l’articolo 35 capoverso 3 della legge del 20 marzo 2009[^ingress-2] sul 
 
 ordina:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^ingress-3]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-3]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -49,8 +49,8 @@ La presente ordinanza disciplina:
 - g. la concessione di aiuti finanziari per gravi danni causati da calamità naturali;
 - h.[^1-2] il finanziamento della ricerca.
 
-[^1-1]: Introdotta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^1-1]: Introdotta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 2
 
@@ -68,11 +68,11 @@ La presente ordinanza disciplina:
 
 <sup>6</sup> Il conto delle immobilizzazioni e degli ammortamenti deve essere strutturato almeno secondo i generi d’impianto e i tipi d’impianto principali.[^2-5]
 
-[^2-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^2-2]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^2-3]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^2-4]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^2-5]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-1]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-2]: Introdotto dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-3]: Introdotto dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-4]: Introdotto dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^2-5]: Introdotto dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 3
 
@@ -88,8 +88,8 @@ La presente ordinanza disciplina:
 
 <sup>4</sup> L’UFT può esonerare i gestori dell’infrastruttura esteri dall’obbligo di tenere un conto per settori, se i costi non coperti delle tratte interessate possono essere documentati in altro modo.
 
-[^3-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^3-2]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^3-1]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^3-2]: Introdotto dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 4
 
@@ -132,8 +132,8 @@ Gli investimenti nell’ampliamento servono:
 
 <sup>3</sup> Se le misure previste per il flusso degli utenti in una delle stazioni indicate nell’allegato richiedono investimenti superiori a dieci milioni di franchi, tali misure sono considerate un ampliamento.
 
-[^5-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^5-2]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^5-1]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^5-2]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 6
 
@@ -162,7 +162,7 @@ Il processo di gestione comprende in particolare:
 
 <sup>3</sup> Può pubblicare gli atti e i documenti di cui agli articoli 27 e 31.
 
-[^7-1]: Per. introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^7-1]: Per. introdotto dalla cifra I n. 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 ## Sezione 2: Concessioni
 
@@ -214,7 +214,7 @@ Le domande per il rilascio o l’estensione della concessione devono comprendere
 
 <sup>5</sup> Se i documenti allegati alla domanda sono incompleti o lacunosi, l’UFT impartisce un termine per completarli. Se questo termine trascorre inutilizzato, l’UFT non entra nel merito della domanda.
 
-[^8-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^8-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 #### Art. 9
 
@@ -289,7 +289,7 @@ Sono determinanti in particolare:
 - d. il grado di sfruttamento delle linee negli orari di punta;
 - e. le ripercussioni sulla qualità del collegamento nel traffico viaggiatori e nel trasporto di merci.
 
-[^14-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^14-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 ## Sezione 4: Pianificazione dell’ampliamento
 
@@ -315,7 +315,7 @@ Sono determinanti in particolare:
 
 <sup>5</sup> Sulla base di misure scelte dal primo livello di urgenza, elabora un programma d’offerta per il traffico viaggiatori e il trasporto di merci. Le necessarie misure infrastrutturali rappresentano la relativa fase di ampliamento.[^16-1]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 17
 
@@ -334,13 +334,13 @@ Il rapporto sulla successiva fase di ampliamento pianificata comprende in partic
 - c. dati sull’evoluzione del traffico a lunga distanza, regionale e del trasporto di merci;
 - d. un elenco delle misure di ampliamento dell’infrastruttura con dati su costi e utilità.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 ## Sezione 4*a*: Programma di utilizzazione della rete
 
 [^sec4a-1]
 
-[^sec4a-1]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^sec4a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 19
 
@@ -348,7 +348,7 @@ Il rapporto sulla successiva fase di ampliamento pianificata comprende in partic
 
 Il programma di utilizzazione della rete di cui all’articolo 9*b* Lferr si fonda sulle fasi di ampliamento stabilite.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 19a
 
@@ -371,7 +371,7 @@ Distingue l’utilizzazione delle tracce da parte dei seguenti tipi di trasporto
 
 <sup>5</sup> Può altresì contenere per determinate tratte istruzioni specifiche importanti per l’utilizzazione di una traccia.
 
-[^19a-1]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 19b
 
@@ -379,7 +379,7 @@ Distingue l’utilizzazione delle tracce da parte dei seguenti tipi di trasporto
 
 Il programma di utilizzazione della rete è vincolante per i gestori dell’infrastruttura e per le autorità.
 
-[^19b-1]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^19b-1]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 19c
 
@@ -387,7 +387,7 @@ Il programma di utilizzazione della rete è vincolante per i gestori dell’infr
 
 L’UFT può apportare adeguamenti di ampiezza limitata al programma di utilizzazione della rete.
 
-[^19c-1]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^19c-1]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 19d
 
@@ -395,7 +395,7 @@ L’UFT può apportare adeguamenti di ampiezza limitata al programma di utilizza
 
 L’UFT pubblica il programma di utilizzazione della rete in forma elettronica.
 
-[^19d-1]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^19d-1]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 ## Sezione 5: Principi di finanziamento
 
@@ -422,7 +422,7 @@ Possono essere altresì oggetto del finanziamento:
 
 <sup>3</sup> I fondi sono prelevati dal Fondo per l’infrastruttura ferroviaria secondo la legge del 21 giugno 2013[^21-1] sul Fondo per l’infrastruttura ferroviaria. I progetti i cui lavori di costruzione sono già iniziati sono prioritari rispetto ai nuovi progetti.
 
-[^21-1]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^21-1]: [RS 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
 
 #### Art. 22
 
@@ -437,9 +437,9 @@ Sono considerate tratte per il collegamento capillare, e come tali escluse dalle
 
 <sup>2</sup> Le tratte per il collegamento capillare sono determinate al rilascio della concessione o, su domanda di un Cantone, prima della stipula della convenzione sulle prestazioni.
 
-[^22-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^22-2]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^22-3]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^22-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^22-2]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
+[^22-3]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 23
 
@@ -451,7 +451,7 @@ Sono considerate tratte per il collegamento capillare, e come tali escluse dalle
 
 <sup>3</sup> Il versamento viene addebitato trimestralmente sul conto corrente di ogni Cantone presso la Banca nazionale svizzera.
 
-[^23-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^23-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 24
 
@@ -469,10 +469,10 @@ Sono considerate tratte per il collegamento capillare, e come tali escluse dalle
 
 <sup>6</sup> Se la controversia verte sulla violazione del diritto di partecipazione, è escluso l’esame di merito dei progetti d’investimento. La Commissione del trasporto ferroviario (ComFerr) decide definitivamente.[^24-4]
 
-[^24-1]: Nuovo testo giusta il n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^24-2]: Introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^24-3]: Introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^24-4]: Introdotto dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^24-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^24-2]: Introdotto dalla cifra I n. 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^24-3]: Introdotto dalla cifra I n. 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^24-4]: Introdotto dalla cifra I n. 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 25
 
@@ -482,9 +482,10 @@ Sono considerate tratte per il collegamento capillare, e come tali escluse dalle
 
 <sup>2</sup> Nei casi previsti dall’articolo 51*b* capoverso 2 Lferr e dall’articolo 29 della legge del 5 ottobre 1990[^25-1] sui sussidi, l’UFT esige il rimborso dei mutui.
 
-<sup>3</sup> L’UFT decide sulla rinuncia al rimborso dei mutui o alla loro conversione in capitale proprio di cui all’articolo 51*b* capoverso 3 Lferr. In caso di importi superiori a dieci milioni di franchi l’UFT agisce d’intesa con l’Amministrazione federale delle finanze (AFF).
+<sup>3</sup> L’UFT decide sulla rinuncia al rimborso dei mutui o alla loro conversione in capitale proprio di cui all’articolo 51*b* capoverso 3 Lferr.[^25-2]
 
-[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^25-2]: Nuovo testo giusta la cifra I n. 6 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, in vigore dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 26
 
@@ -494,8 +495,8 @@ Sono considerate tratte per il collegamento capillare, e come tali escluse dalle
 
 <sup>2</sup> Convengono rimunerazioni che coprono i costi integrali secondo l’articolo 64 Lferr. Le rimunerazioni non devono comprendere un interesse calcolato.[^26-2]
 
-[^26-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^26-2]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^26-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^26-2]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 6: Finanziamento dell’esercizio e del mantenimento della qualità
 
@@ -521,9 +522,9 @@ All’offerta vanno allegati in particolare i seguenti documenti:
 
 <sup>4</sup> L’UFT disciplina il grado di dettaglio dei documenti. Nel singolo caso può esigere una strutturazione più dettagliata o concedere agevolazioni.[^27-3]
 
-[^27-1]: Abrogata l’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^27-2]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
-[^27-3]: Introdotto dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-1]: Abrogata l’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-2]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^27-3]: Introdotto dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 28
 
@@ -568,7 +569,7 @@ I Cantoni o terzi possono convenire con un’impresa ferroviaria di anticipare u
 
 <sup>5</sup> Se un progetto comporta rischi notevoli, in particolare geologici, l’UFT può esigere un rendiconto specifico secondo l’articolo 37 capoverso 1.
 
-[^31-1]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^31-1]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 7: Finanziamento dell’ampliamento
 
@@ -586,7 +587,7 @@ I Cantoni o terzi possono convenire con un’impresa ferroviaria di anticipare u
 
 **Convenzioni di attuazione**
 
-<sup>1</sup> Dopo aver consultato il Dipartimento federale delle finanze (DFF), il DATEC conclude convenzioni di attuazione sull’ampliamento dell’infrastruttura ferroviaria di cui all’articolo 48*f* Lferr con i gestori dell’infrastruttura o le società costruttrici. Le fasi di progettazione e realizzazione sono di regola disciplinate in convenzioni di attuazione separate.
+<sup>1</sup> Il DATEC conclude convenzioni di attuazione sull’ampliamento dell’infrastruttura ferroviaria di cui all’articolo 48*f* Lferr con i gestori dell’infrastruttura o le società costruttrici. Le fasi di progettazione e realizzazione sono di regola disciplinate in convenzioni di attuazione separate.[^33-1]
 
 <sup>2</sup>
 
@@ -599,6 +600,8 @@ Le convenzioni di attuazione comprendono:
 - e. i requisiti tecnici specifici;
 - f. l’organizzazione di progetto per l’attuazione e la collaborazione con l’UFT;
 - g. i dati sui contributi agli investimenti assegnati dalla Confederazione, eventuali contributi dei Cantoni o di terzi e la considerazione del rincaro attestato.
+
+[^33-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, in vigore dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 34
 
@@ -662,7 +665,7 @@ Le convenzioni per il prefinanziamento di misure già decise devono rispettare i
 
 [^sec7a-1]
 
-[^sec7a-1]: Introdotta dal n. I 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^sec7a-1]: Introdotta dalla cifra I n. 3 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 37a
 
@@ -672,7 +675,7 @@ La convenzione su compiti sistemici di cui all’articolo 37 Lferr ha durata ill
 
 [^sec7b-1]
 
-[^sec7b-1]: Introdotta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^sec7b-1]: Introdotta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 37b
 
@@ -705,7 +708,7 @@ Nel settore dell’infrastruttura le indennità e gli eventuali utili da attivit
 
 Per i gestori dell’infrastruttura in senso stretto si applicano le disposizioni sulla presentazione dei conti di cui agli articoli 2, 32 capoversi 1 e 5, 35, 59, 60 capoversi 3, 5 e 6, 61–63, 64 capoversi 2–3 e 66 OITRV[^37d-1].
 
-[^37d-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^37d-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 
 ## Sezione 8: Investimenti in impianti a fune
 
@@ -715,9 +718,9 @@ Per i gestori dell’infrastruttura in senso stretto si applicano le disposizion
 
 <sup>2</sup> Sono considerati investimenti nell’infrastruttura di imprese di trasporto a fune ai sensi dell’articolo 16 capoverso 3 della legge del 23 giugno 2006[^38-2] sugli impianti a fune il 50 per cento degli investimenti complessivi. I contributi agli investimenti sono concessi a fondo perso.[^38-3]
 
-[^38-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^38-2]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^38-3]: Nuovo testo giusta dall’all. 4 n. II 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^38-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^38-2]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^38-3]: Nuovo testo giusta dall’all. 4 cifra II n. 2 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 9: Danni causati dalle forze della natura
 
@@ -747,7 +750,7 @@ Nel determinare l’importo dell’aiuto finanziario si tiene conto dei contribu
 
 [^sec10-1]
 
-[^sec10-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^sec10-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
 
 #### Art. 42
 
@@ -757,8 +760,8 @@ Nel determinare l’importo dell’aiuto finanziario si tiene conto dei contribu
 
 <sup>3</sup> Sono applicabili i principi generali di promozione di cui all’articolo 9 della legge federale del 14 dicembre 2012[^42-2] sulla promozione della ricerca e dell’innovazione.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
-[^42-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4159](https://fedlex.data.admin.ch/eli/oc/2016/692)).
+[^42-2]: [RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)
 
 ## Sezione 11: Disposizioni finali
 
