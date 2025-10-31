@@ -4,13 +4,12 @@ number: "817.191"
 title: Fleischkontrollverordnung
 short: FlKV
 language: de
-version: 2021-08-01
-valid_until: 2025-10-31
-version_adopted: 2021-06-30
+version: 2025-11-01
+version_adopted: 2025-09-10
 adopted: 1996-10-23
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/817.191"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2325/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3220/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2325/pdf_file"
 
 (FlKV)
 
-vom 23.10.1996 (Stand 01.08.2021)
+vom 23.10.1996 (Stand 01.11.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -43,11 +42,11 @@ beschliesst:
 
 #### Art. 2
 
-**Aufsicht und Koordination**
+**Vollzug und Koordination**
 
 <sup>1</sup> Das Amt für Veterinärwesen vollzieht die Bestimmungen der Lebensmittelgesetzgebung im Geltungsbereich dieser Verordnung.
 
-<sup>2</sup> Der Kantonale Veterinärdienst, das Kantonale Laboratorium und das Gesundheitsamt koordinieren ihre Vollzugstätigkeit.
+<sup>2</sup> Das Amt für Veterinärwesen, das Kantonale Laboratorium und das Gesundheitsamt koordinieren ihre Vollzugstätigkeit.
 
 <sup>3</sup> Für besondere Kontrollaufgaben können weitere Behörden beigezogen werden.
 
@@ -81,7 +80,9 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Veterinärwesen bestimmt für jeden Schlacht- und Wildbearbeitungsbetrieb die zur Schlachttier- und Fleischuntersuchung erforderliche Anzahl amtlicher Tierärztinnen und Tierärzte, amtlicher Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung sowie Stellvertreterinnen und Stellvertreter. Es legt deren Aufgabenbereich fest.
 
-<sup>2</sup> Er kann in Kleinbetrieben oder Betrieben in Berg- und Randregionen nichtamtliche Tierärztinnen und Tierärzte mit der Schlachttier- und Fleischuntersuchung betrauen.
+<sup>2</sup> Es kann in Kleinbetrieben oder Betrieben in Berg- und Randregionen Tierärztinnen und Tierärzte mit der Schlachttier- und Fleischuntersuchung betrauen.
+
+<sup>2a</sup> Es legt die Entschädigung für die Tierärztinnen und Tierärzte nach Absatz 2 fest. Diese sind nebenamtlich tätig.
 
 <sup>3–5</sup> …
 

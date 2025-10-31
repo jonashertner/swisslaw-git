@@ -4,13 +4,12 @@ number: "817.191"
 title: Ordonnance sur le contrôle des viandes
 short: OCoV
 language: fr
-version: 2021-08-01
-valid_until: 2025-10-31
-version_adopted: 2021-06-30
+version: 2025-11-01
+version_adopted: 2025-09-10
 adopted: 1996-10-23
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/817.191"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2325/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3220/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2325/pdf_file"
 
 (OCoV)
 
-du 23.10.1996 (état au 01.08.2021)
+du 23.10.1996 (état au 01.11.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -43,11 +42,11 @@ arrête:
 
 #### Art. 2
 
-**Surveillance et coordination**
+**Exécution et coordination**
 
 <sup>1</sup> L'Office des affaires vétérinaires exécute les dispositions de la législation sur les denrées alimentaires relevant du champ d'application de la présente ordonnance.
 
-<sup>2</sup> Le Service vétérinaire cantonal, le Laboratoire cantonal et l'Office de la santé coordonnent leur activité d'exécution.
+<sup>2</sup> L'Office des affaires vétérinaires, le Laboratoire cantonal et l'Office de la santé coordonnent leur activité d'exécution.
 
 <sup>3</sup> Pour des tâches de contrôle spéciales, il peut être fait appel à la collaboration d'autres autorités.
 
@@ -81,7 +80,9 @@ arrête:
 
 <sup>1</sup> Afin d'assurer l’inspection du bétail de boucherie et des viandes, l'Office des affaires vétérinaires fixe pour chaque abattoir et établissement de traitement du gibier l’effectif nécessaire de vétérinaires officiels et d’auxiliaires officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes ainsi que de suppléants et suppléantes. Il définit leur cahier des charges.
 
-<sup>2</sup> Dans les petits établissements ou les établissements situés dans les régions de montagne et les régions périphériques, il peut charger de l’inspection du bétail de boucherie et des viandes des vétérinaires qui ne sont pas officiels.
+<sup>2</sup> Dans les petits établissements ou les établissements situés dans les régions de montagne et les régions périphériques, il peut confier l’inspection du bétail de boucherie et des viandes à des vétérinaires.
+
+<sup>2a</sup> Il fixe l'indemnisation des vétérinaires visés à l'alinéa 2. Ces personnes exercent cette activité à titre accessoire.
 
 <sup>3–5</sup> …
 
