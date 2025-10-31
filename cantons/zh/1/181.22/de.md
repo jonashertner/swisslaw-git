@@ -4,11 +4,10 @@ number: "181.22"
 title: Geschäftsordnung des Kirchenrates (GO KR)
 short: GO KR
 language: de
-version: "2023-02-01"
-nachtrag: "121"
-valid_until: 2025-11-01
+version: "2025-11-01"
+nachtrag: "131"
 adopted: 2020-06-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_22-2020_06_10-2020_11_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_22-2020_06_10-2020_11_01-131.html"
 text: pdf
 ---
 
@@ -66,7 +65,7 @@ Der Kirchenrat konstituiert sich zu Beginn jeder Amtsdauer und nach Ersatzwahlen
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Die Ressorts des Kirchenrates sind:
 
@@ -174,7 +173,7 @@ Der Kirchenrat kann beschliessen, wenn mindestens vier Mitglieder anwesend sind.
 
 **3**
 
-- 1\. 4. 23 - 120 § 15. <sup>1</sup> Die Sitzungen des Kirchenrates finden in der Regel mittwochs statt.
+- 1\. 1. 26 - 131 § 15. <sup>1</sup> Die Sitzungen des Kirchenrates finden in der Regel mittwochs statt.
 
 **Sitzungsordnung**
 
@@ -278,7 +277,7 @@ Für die Beratungen des Kirchenrates gilt:
 
 **5**
 
-- 1\. 4. 23 - 120 § 27. <sup>1</sup> Der Kirchenrat fasst seine Beschlüsse namentlich als Zwischenentscheide, Endentscheide, Vorentscheide und Kenntnisnahmen.
+- 1\. 1. 26 - 131 § 27. <sup>1</sup> Der Kirchenrat fasst seine Beschlüsse namentlich als Zwischenentscheide, Endentscheide, Vorentscheide und Kenntnisnahmen.
 
 **Beschlüsse**
 
@@ -378,7 +377,7 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 **7**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 26 - 131
 
 <sup>4</sup> Beschlüsse gestützt auf schriftliche Anträge, die der Kirchenrat nicht abändert, werden nach der Sitzung unverzüglich ausgefertigt. Im Übrigen werden Beschlüsse unverzüglich ausgefertigt, sobald sie der Kirchenrat oder die von ihm bezeichnete Person freigibt. Vorbehalten bleiben abweichende Weisungen des Kirchenrates.
 
@@ -452,7 +451,7 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 **9**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 26 - 131
 
 - f. leitet die Sitzungen der Geschäftsleitung,
 
@@ -480,10 +479,11 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 <sup>4</sup> Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers werden durch Protokollauszug und ausnahmsweise durch besondere Mitteilung eröffnet. Sie tragen den Namen der zuständigen Person der Kirchenratskanzlei und werden von dieser unterzeichnet.
 
-<sup>5</sup> Gegen Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers kann Neubeurteilung beim Kirchenrat verlangt werden. Das Verfahren richtet sich nach den Bestimmungen des Gemeindegesetzes vom 20. April 2015[^41-2] über die Neubeurteilung.
+<sup>5</sup> Gegen Verfügungen der Kirchenratsschreiberin oder des Kirchenratsschreibers kann Neubeurteilung beim Kirchenrat verlangt werden. Das Verfahren richtet sich nach den Bestimmungen des Gemeindegesetzes vom 20. April 2015[^41-2] über die Neubeurteilung. Dem Lauf der Frist zur Neubeurteilung und der Einreichung des Begehrens kommt in personalrechtlichen Angelegenheiten bei einer Kündigung, einer Einstellung im Dienst, einer vorzeitigen Entlassung oder einer Freistellung keine aufschiebende Wirkung zu.[^41-3]
 
 [^41-1]: Fassung gemäss B vom 16. Juni 2021 (OS 76, 283; ABl 2021-06-25). In Kraft seit 1. Oktober 2021.
 [^41-2]: LS 131.1.
+[^41-3]: Fassung gemäss B vom 20. August 2025 (OS 80, 251; ABl 2025-08-22). In Kraft seit 1. November 2025. 1. 1. 26 - 131 13
 
 ### F. Ausschüsse und Kommissionen
 
@@ -531,7 +531,7 @@ In jeder Sitzung findet eine Umfrage statt. Sie dient der gegenseitigen Informat
 
 **11**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Verträge über wiederkehrende Verpflichtungen benötigen eine Doppelunterschrift. Unter Vorbehalt von Abs. 1 unterzeichnen je in ihrem Zuständigkeitsbereich:
 
@@ -571,7 +571,7 @@ Die Befugnis der Kirchenratspräsidentin oder des Kirchenratspräsidenten, der M
 
 Ausschüsse und Kommissionen des Kirchenrates, die im Zeitpunkt des Inkrafttretens dieser Verordnung bestehen, sowie deren Aufträge, Zuständigkeiten und Organisation bleiben bis zu einer Neuregelung durch den Kirchenrat gemäss §§ 42–44 unverändert.
 
-[^48-1]: Fassung gemäss B vom 2. November 2022 (OS 78, 26; ABl 2022-11-04). In Kraft seit 1. Februar 2023. 1. 4. 23 - 120 13
+[^48-1]: Fassung gemäss B vom 2. November 2022 (OS 78, 26; ABl 2022-11-04). In Kraft seit 1. Februar 2023.
 
 ### Anhang 1
 
@@ -597,21 +597,21 @@ oder des Kirchenratsschreibers gemäss § 41 Abs. 1
 
 - 8\. Entlassung von Pfarrerinnen und Pfarrern aus dem Amt (Art. 132 KO[^hSelbstständigeVerfü-3], soweit einem Gesuch vollumfänglich entsprochen wird oder sie von Gesetzes wegen erfolgt.
 
-- 9\. Entscheid über die Beendigung des Arbeitsverhältnisses von Pfarrerinnen und Pfarrern in Institutionen sowie von Angestellten der Gesamtkirchlichen Dienste in den vom Kirchenrat bezeichneten Funktionen gemäss Einreihungsplan (§§ 26 ff. Personalverordnung).
+9.[^hSelbstständigeVerfü-4] Entscheid über die Beendigung des Arbeitsverhältnisses von Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 KO[^hSelbstständigeVerfü-3], von Pfarrerinnen und Pfarrern in Institutionen sowie von Angestellten der Gesamtkirchlichen Dienste in den vom Kirchenrat bezeichneten Funktionen gemäss Einreihungsplan (§§ 26 ff. Personalverordnung[^hSelbstständigeVerfü-1].
 
 - 10\. Entscheid über die Gewährung eines Weiterbildungsurlaubs (§ 80 Personalverordnung).
 
-- 11\. Empfehlung von Pfarrerinnen und Pfarrern für die Aufnahme in den Weiterbildungsstudiengang zur Ausbildungspfarrerin oder zum Ausbildungpfarrer, unter Einbezug der Kirchenratspräsidentin oder des Kirchenratspräsidenten.
+11.[^hSelbstständigeVerfü-5] Empfehlung von Pfarrerinnen und Pfarrern für die Aufnahme in den Weiterbildungsstudiengang zur Ausbildungspfarrerin oder zum Ausbildungpfarrer, unter Einbezug der Kirchenratspräsidentin oder des Kirchenratspräsidenten.
 
 - 12\. Empfehlung von Personen, die sich um den Quereinstieg in das Pfarramt bewerben, unter Einbezug der Kirchenratspräsidentin oder des Kirchenratspräsidenten.
 
 - 13\. Empfehlung für das Lernvikariat von Anwärterinnen und Anwärtern für das Pfarramt sowie Bezeichnung der Kirchgemeinde, in der diese das Lernvikariat absolvieren, und der zuständigen Vikariatsleiterinnen und Vikariatsleiter, unter Einbezug der Kirchenratspräsidentin oder des Kirchenratspräsidenten.
 
-- 14\. Erstreckung der Frist für die Einberufung einer Kirchgemeindeversammlung zur Wahl einer Pfarrwahlkommission oder zum Entscheid über einen Wahlvorschlag ohne Einsetzung einer Pfarrwahlkommission (§ 9 Abs. 1 Verordnung über das Pfarramt in der Landeskirche[^hSelbstständigeVerfü-4], unter Einbezug der Kirchenratspräsidentin oder des Kirchenratspräsidenten.
+- 14\. Erstreckung der Frist für die Einberufung einer Kirchgemeindeversammlung zur Wahl einer Pfarrwahlkommission oder zum Entscheid über einen Wahlvorschlag ohne Einsetzung einer Pfarrwahlkommission (§ 9 Abs. 1 Verordnung über das Pfarramt in der Landeskirche[^hSelbstständigeVerfü-6], unter Einbezug der Kirchenratspräsidentin oder des Kirchenratspräsidenten.
 
 - 15\. Erteilung der Wählbarkeit für Pfarrerinnen und Pfarrer (Art. 129 KO).
 
-- 16\. Entscheid über die Zulassung zum Kolloquium (§ 37 Verordnung über das Pfarramt in der Landeskirche[^hSelbstständigeVerfü-4].
+- 16\. Entscheid über die Zulassung zum Kolloquium (§ 37 Verordnung über das Pfarramt in der Landeskirche[^hSelbstständigeVerfü-6].
 
 - 17\. Abordnung von Stellvertreterinnen und Stellvertretern (Art. 121 KO).
 
@@ -621,18 +621,23 @@ oder des Kirchenratsschreibers gemäss § 41 Abs. 1
 
 - 20\. Gewährung von bezahltem und unbezahltem Urlaub (§§ 92 ff. Vollzugsverordnung zur Personalverordnung).
 
-- 21\. Gewährung von Urlaub bei Elternschaft (§§ 104 ff. Vollzugsverordnung zur Personalverordnung).
-
-- 22\. Entscheid über die Genehmigung von Kirchgemeindeordnungen (Art. 153 Abs. 3 KO).
-
 **15**
 
-- 1\. 4. 23 - 120
+- 1\. 1. 26 - 131
+
+- 21\. Gewährung von Urlaub bei Elternschaft (§§ 104 ff. Vollzugsverordnung zur Personalverordnung).
+
+22.[^hSelbstständigeVerfü-7] Befreiung von Pfarrerinnen und Pfarrern in Institutionen sowie von Angestellten der Gesamtkirchlichen Dienste von der Pflicht, eine persönliche Zeitbuchhaltung zu führen (§ 150 a Abs. 1 Vollzugsverordnung zur Personalverordnung[^hSelbstständigeVerfü-2].
+
+- 23\. Entscheid über die Genehmigung von Kirchgemeindeordnungen (Art. 153 Abs. 3 KO).
 
 [^hSelbstständigeVerfü-1]: LS 181.40.
 [^hSelbstständigeVerfü-2]: LS 181.401.
 [^hSelbstständigeVerfü-3]: LS 181.10.
-[^hSelbstständigeVerfü-4]: LS 181.402.
+[^hSelbstständigeVerfü-4]: Fassung gemäss B vom 20. August 2025 (OS 80, 251; ABl 2025-08-22). In Kraft seit 1. November 2025. 1. 1. 26 - 131 13
+[^hSelbstständigeVerfü-5]: Fassung gemäss B vom 2. November 2022 (OS 78, 26; ABl 2022-11-04). In Kraft seit 1. Februar 2023.
+[^hSelbstständigeVerfü-6]: LS 181.402.
+[^hSelbstständigeVerfü-7]: Eingefügt durch B vom 20. August 2025 (OS 80, 251; ABl 2025-08-22). In Kraft seit 1. November 2025.
 
 ### Anhang 2
 
@@ -672,6 +677,10 @@ Abteilungsleiterinnen und Abteilungsleiter der Gesamtkirchlichen Dienste a. Im R
 
 - gebundene Ausgaben.
 
+**17**
+
+- 1\. 1. 26 - 131
+
 - b. Im eigenen Verantwortungsbereich Freigabe von in Rechnung gestellten Ausgaben im Rahmen der bewilligten Verpflichtungskredite.
 
 - 4\. Bereichsleiterinnen und Bereichsleiter der Gesamtkirchlichen Dienste Im Rahmen des Budgets und bewilligter Nachtragskredite Ausgaben oder entsprechende Einnahmeausfälle im eigenen Verantwortungsbereich bis Fr. 5000 im Einzelfall für einmalige Ausgaben.
@@ -682,9 +691,5 @@ Abteilungsleiterinnen und Abteilungsleiter der Gesamtkirchlichen Dienste a. Im R
 
 7.[^hAusgabenbefugnisseg-2] Leiterin oder Leiter der kirchlichen Fachstelle bei Arbeitslosigkeit DFA Im Rahmen des Budgets und bewilligter Nachtragskredite sowie der Beschlüsse des Kirchenrates Ausgaben oder entsprechende Einnahmeausfälle im eigenen Verantwortungsbereich.
 
-**17**
-
-- 1\. 4. 23 - 120
-
-[^hAusgabenbefugnisseg-1]: Fassung gemäss B vom 2. November 2022 (OS 78, 26; ABl 2022-11-04). In Kraft seit 1. Februar 2023. 1. 4. 23 - 120 13
+[^hAusgabenbefugnisseg-1]: Fassung gemäss B vom 2. November 2022 (OS 78, 26; ABl 2022-11-04). In Kraft seit 1. Februar 2023.
 [^hAusgabenbefugnisseg-2]: Eingefügt durch B vom 2. November 2022 (OS 78, 26; ABl 2022-11-04). In Kraft seit 1. Februar 2023.
