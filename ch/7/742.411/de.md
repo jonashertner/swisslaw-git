@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Mai 2016 über den Gütertransport durch Bahn- und Sc
 short: GüTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: de
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-329-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2016-329-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/de"
 
 (Gütertransportverordnung, GüTV)
 
-vom 25. Mai 2016 (Stand am 1. Januar 2025)
+vom 25. Mai 2016 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 2 Absatz 3, 5 Absatz 1, 6 Absatz 2, 14 Absatz 3, 18 Ab
 
 verordnet:
 
-[^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^ingress-3]: [SR 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^ingress-3]: [SR 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -55,7 +55,7 @@ In dieser Verordnung gelten als:
 - d. *Anschlussvorrichtung:* Vorrichtungen, die zum Anschluss des Anschlussgleises an die Eisenbahninfrastruktur dienen, wie Anschlussweichen, Schutzweichen, Entgleisungsvorrichtungen, Fahrleitungs-, Bahnrückstrom- und Erdungsanlagen sowie Signale einschliesslich deren Einbindung in die Sicherungsanlage;
 - e. *Einzelwagenladungsverkehr:* Transport von Gütern auf der Schiene in Einzelwagen oder Wagengruppen mit mindestens einer Rangierbewegung.
 
-[^2-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^2-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 3
 
@@ -227,11 +227,13 @@ Das Gesuch für ein Projekt mit einem Investitionsvolumen von über fünf Millio
 
 <sup>1</sup> Das BAV sichert die Investitionsbeiträge mittels Verfügung zu. Es legt darin insbesondere den Beitragssatz, die anrechenbaren Kosten und den Höchstbetrag der Finanzhilfe fest.
 
-<sup>2</sup> Übersteigen die Investitionsbeiträge fünf Millionen Franken, so entscheidet es im Einvernehmen mit der Eidgenössischen Finanzverwaltung (EFV).
+<sup>2</sup> …[^11-1]
 
 <sup>3</sup> Die Frist für den Baubeginn wird in der Regel auf drei Jahre nach Eintritt der Rechtskraft der Zusicherungsverfügung festgelegt. Die Beitragszusicherung verfällt, wenn die Gesuchstellerin nicht innerhalb der Frist mit dem Bau beginnt. Das BAV kann die Frist in begründeten Fällen um höchstens zwei Jahre verlängern.
 
 <sup>4</sup> Nach dem Baubeginn werden keine Investitionsbeiträge mehr zugesichert, es sei denn, das BAV habe nach Eingang des Gesuchs um Finanzhilfe den vorzeitigen Baubeginn bewilligt.
+
+[^11-1]: Aufgehoben durch Ziff. I 7 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 12
 
@@ -257,9 +259,11 @@ Die Investitionsbeiträge werden sechs Monate nach der Einreichung der Schlussab
 
 <sup>3</sup> Das BAV fordert Investitionsbeiträge ganz oder teilweise zurück, wenn die geförderte Anlage nicht diskriminierungsfrei zur Verfügung gestellt wird.
 
-<sup>4</sup> In Härtefällen kann es im Einvernehmen mit der EFV ganz oder teilweise auf eine Rückforderung verzichten.
+<sup>4</sup> In Härtefällen kann es im Einvernehmen mit der Eidgenössischen Finanzverwaltung ganz oder teilweise auf eine Rückforderung verzichten.[^14-1]
 
 <sup>5</sup> Rückzahlungen sind für die Bedürfnisse des Strassenverkehrs zu verwenden. Die Verwendung richtet sich nach Artikel 3 MinVG.
+
+[^14-1]: Fassung gemäss Ziff. I 7 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 ## 3. Abschnitt: Betriebsbeiträge
 
@@ -307,7 +311,7 @@ Bestellt ein Kanton ein Angebot des Gütertransports auf der Schiene und ersucht
 
 <sup>3</sup> Das BAV schliesst gemeinsam mit dem Kanton eine Vereinbarung mit der Leistungserbringerin ab.
 
-[^16-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^16-1]: [SR 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^16-2]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 17
@@ -401,7 +405,7 @@ Es muss folgende Unterlagen enthalten:
 
 <sup>2</sup> Die Inhalte des Berichts gelten nicht als Berufs-, Geschäfts- oder Fabrikationsgeheimnis im Sinne des Öffentlichkeitsgesetzes vom 17. Dezember 2004[^23-1].
 
-[^23-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^23-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## 5. Abschnitt: Investitions- und Betriebsbeiträge an den Transport begleiteter Motorfahrzeuge
 
@@ -411,7 +415,7 @@ Es muss folgende Unterlagen enthalten:
 
 <sup>2</sup> Das Bestell- und Beitragsverfahren für die Ausrichtung der Betriebsbeiträge richtet sich nach den Artikeln 30–32 und 36–41 ARPV[^24-1].[^24-2]
 
-[^24-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^24-1]: [SR 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^24-2]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## 6. Abschnitt: Anschlussgewährung, Planung und Bau von Anschlussgleisen
@@ -475,7 +479,7 @@ Die Infrastrukturbetreiberin muss dem Anschliesser unter Kündigung des Anschlus
 
 <sup>5</sup> Es teilt der Gesuchstellerin und der Leitbehörde das Prüfungsergebnis innerhalb von sechs Monaten ab dem Eingang der vollständigen Unterlagen mit.
 
-[^30-1]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^30-1]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## 7. Abschnitt: Betrieb und Instandhaltung von Anschlussgleisen
 
@@ -499,7 +503,7 @@ Die Infrastrukturbetreiberin muss dem Anschliesser unter Kündigung des Anschlus
 
 <sup>3</sup> Ist keine Betriebsbewilligung erforderlich, so kann das BAV jederzeit den Anschliesser zur Bestätigung der Rechtskonformität auffordern oder die Rechtskonformität der Anlage selbst überprüfen oder durch Sachverständige überprüfen lassen.
 
-[^32-1]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^32-1]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 33
 
@@ -513,8 +517,8 @@ Die Infrastrukturbetreiberin muss dem Anschliesser unter Kündigung des Anschlus
 
 <sup>4</sup> Die Anschliesser müssen ihre Betriebsvorschriften frühzeitig, spätestens aber drei Monate vor der beabsichtigten Inkraftsetzung, dem BAV als Grundlage für dessen Aufsichtstätigkeit zur Verfügung stellen. Betriebsvorschriften, die von den gestützt auf Artikel 17 Absatz 3 EBG[^33-2] vom BAV erlassenen Fahrdienstvorschriften abweichen, sind spätestens drei Monate vor der beabsichtigten Inkraftsetzung dem BAV zur Genehmigung zu unterbreiten.
 
-[^33-1]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^33-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-1]: [SR 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
+[^33-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 34
 
@@ -528,7 +532,7 @@ Die Infrastrukturbetreiberin muss dem Anschliesser unter Kündigung des Anschlus
 
 <sup>4</sup> Für Personen, die auf Anschlussgleisen Triebfahrzeuge führen oder sicherheitsrelevante Tätigkeiten ausüben, gelten die gestützt auf die Verordnung vom 4. November 2009[^34-1] über die sicherheitsrelevanten Tätigkeiten im Eisenbahnbereich vom UVEK erlassenen Ausführungsbestimmungen.
 
-[^34-1]: [SR 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+[^34-1]: [SR 742.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8752)
 
 #### Art. 35
 
@@ -538,7 +542,7 @@ Die Infrastrukturbetreiberin muss dem Anschliesser unter Kündigung des Anschlus
 
 <sup>2</sup> Diese Fahrzeuge bedürfen keiner Betriebsbewilligung.
 
-[^35-1]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^35-1]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 ## 8. Abschnitt: Abweichungen von den Vorschriften für Bau, Betrieb und Instandhaltung von Anschlussgleisen
 
@@ -565,7 +569,7 @@ Es kann in Einzelfällen Abweichungen von den technischen und betrieblichen sowi
 
 <sup>3</sup> Bei elektrischen Anlagen gilt der Anschliesser als Betriebsinhaber im Sinne von Artikel 46 EBV[^37-1].
 
-[^37-1]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^37-1]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 38
 

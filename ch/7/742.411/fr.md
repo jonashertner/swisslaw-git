@@ -4,11 +4,11 @@ title: "Ordonnance du 25 mai 2016 sur le transport de marchandises par des entre
 short: OTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: fr
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-329-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-329-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/fr"
 
 (Ordonnance sur le transport de marchandises, OTM)
 
-du 25 mai 2016 (État le 1<sup>er</sup> janvier 2025)
+du 25 mai 2016 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 2, al. 3, 5, al. 1, 6, al. 2, 14, al. 3, 18, al. 4, 19, al. 4, 20, a
 
 arrête:
 
-[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
 
 ## Section 1 Dispositions générales
@@ -55,7 +55,7 @@ On entend par:
 - d. *dispositif de raccordement:* les dispositifs qui servent au raccordement d’une voie de raccordement à l’infrastructure ferroviaire telles que les aiguilles de raccordement, les aiguilles de protection, les dispositifs de déraillement, les installations de la ligne de contact, de retour du courant de traction et de mise à la terre, ainsi que les signaux, y compris leur intégration à l’installation de sécurité;
 - e. *trafic par wagons complets isolés:* le transport ferroviaire de marchandises dans des wagons, isolés ou groupés, avec au moins un mouvement de manœuvre.
 
-[^2-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^2-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 3
 
@@ -227,11 +227,13 @@ Pour les projets dont le volume d’investissement dépasse cinq millions de fra
 
 <sup>1</sup> L’OFT alloue les contributions d’investissement par voie de décision. Il y fixe notamment le taux de la contribution, les coûts imputables et le montant maximal de l’aide financière.
 
-<sup>2</sup> Lorsque les contributions d’investissement sont supérieures à cinq millions de francs, il décide de l’allocation en accord avec l’Administration fédérale des finances (AFF).
+<sup>2</sup> …[^11-1]
 
 <sup>3</sup> En règle générale, le délai fixé pour le début des travaux est de trois ans à compter de l’entrée en force de la décision d’allocation. L’allocation de contribution est caduque si le requérant ne commence pas les travaux de construction dans le délai fixé. Dans des cas motivés, l’OFT peut prolonger le délai de deux ans au plus.
 
 <sup>4</sup> Une fois les travaux de construction commencés, il n’est plus alloué de contribution d’investissement sauf si l’OFT a approuvé un début anticipé des travaux après réception de la demande d’aide financière.
+
+[^11-1]: Abrogé par le ch. I 7 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 12
 
@@ -257,9 +259,11 @@ Le versement des contributions d’investissement est exigible six mois après r
 
 <sup>3</sup> L’OFT exige le remboursement complet ou partiel des contributions d’investissement si l’installation subventionnée n’est pas mise à disposition de manière non discriminatoire.
 
-<sup>4</sup> Dans les cas de rigueur, il peut, en accord avec l’AFF, renoncer entièrement ou partiellement au remboursement.
+<sup>4</sup> Dans les cas de rigueur, il peut, en accord avec l’Administration fédérale des finances, renoncer entièrement ou partiellement au remboursement.[^14-1]
 
 <sup>5</sup> Les remboursements sont affectés aux besoins du trafic routier. Leur utilisation est régie par l’art. 3 LUMin.
+
+[^14-1]: Nouvelle teneur selon le ch. I 7 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 ## Section 3 Contributions d’exploitation
 
@@ -307,7 +311,7 @@ Lorsqu’un canton commande une offre de transport ferroviaire de marchandises e
 
 <sup>3</sup> L’OFT conclut, conjointement avec le canton, une convention avec le prestataire.
 
-[^16-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^16-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^16-2]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 17
@@ -401,7 +405,7 @@ Elle doit contenir les documents suivants:
 
 <sup>2</sup> Le contenu du rapport n’est pas considéré comme un secret professionnel, d’affaires ou de fabrication au sens de la loi du 17 décembre 2004 sur la transparence[^23-1].
 
-[^23-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^23-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## Section 5 Contributions d’investissement ou d’exploitation pour le transport de véhicules routiers accompagnés
 
@@ -411,7 +415,7 @@ Elle doit contenir les documents suivants:
 
 <sup>2</sup> La procédure de commande et de demande de contribution d’exploitation est régie par les art. 30 à 32 et 36 à 41 OITRV[^24-1].[^24-2]
 
-[^24-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^24-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^24-2]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Section 6 Octroi du raccordement, planification et construction de voies de raccordement
@@ -475,7 +479,7 @@ Le gestionnaire d’infrastructure communique au raccordé et motive par écrit,
 
 <sup>5</sup> Il communique le résultat des vérifications au requérant et à l’autorité dirigeante dans les six mois qui suivent la réception de l’intégralité des documents.
 
-[^30-1]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^30-1]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## Section 7 Exploitation et maintenance des voies de raccordement
 
@@ -499,7 +503,7 @@ Le gestionnaire d’infrastructure communique au raccordé et motive par écrit,
 
 <sup>3</sup> Si une autorisation d’exploiter n’est pas requise, il peut, en tout temps, demander au raccordé de confirmer que l’installation est conforme au droit, vérifier cette conformité lui-même ou en charger un expert.
 
-[^32-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^32-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 33
 
@@ -513,8 +517,8 @@ Le gestionnaire d’infrastructure communique au raccordé et motive par écrit,
 
 <sup>4</sup> Les raccordés mettent leurs prescriptions d’exploitation suffisamment tôt, mais au plus tard trois mois avant la mise en vigueur prévue, à la disposition de l’OFT en vue de son activité de surveillance. Les prescriptions d’exploitation qui dérogent aux prescriptions de circulation des trains édictées par l’OFT en vertu de l’art. 17, al. 3, LCdF[^33-2] doivent être présentées à l’OFT pour approbation au plus tard trois mois avant la mise en vigueur prévue.
 
-[^33-1]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^33-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-1]: [RS 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
+[^33-2]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 34
 
@@ -528,7 +532,7 @@ Le gestionnaire d’infrastructure communique au raccordé et motive par écrit,
 
 <sup>4</sup> Les personnes qui conduisent des véhicules moteurs ou exercent des activités déterminantes pour la sécurité sur les voies de raccordement sont soumises aux dispositions d’exécution, édictées par le DETEC, de l’ordonnance du 4 novembre 2009 sur les activités déterminantes pour la sécurité dans le domaine ferroviaire[^34-1].
 
-[^34-1]: [RS 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+[^34-1]: [RS 742.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8752)
 
 #### Art. 35
 
@@ -538,7 +542,7 @@ Le gestionnaire d’infrastructure communique au raccordé et motive par écrit,
 
 <sup>2</sup> Ces véhicules ne sont pas soumis au régime de l’autorisation d’exploiter.
 
-[^35-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^35-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 ## Section 8 Dérogations aux prescriptions sur la construction, l’exploitation et la maintenance des voies de raccordement
 
@@ -565,7 +569,7 @@ Il peut, dans des cas particuliers, autoriser des dérogations aux dispositions 
 
 <sup>3</sup> En ce qui concerne les installations électriques, le raccordé est considéré comme l’exploitant conformément à l’art. 46 OCF[^37-1].
 
-[^37-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^37-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 38
 

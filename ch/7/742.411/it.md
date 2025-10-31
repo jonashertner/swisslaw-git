@@ -4,11 +4,11 @@ title: "Ordinanza del 25 maggio 2016 concernente il trasporto di merci da parte 
 short: OTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/329"
 language: it
-version: 2025-01-01
+version: 2025-11-01
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-329-20250101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/329/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2016-329-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/329/20250101/it"
 
 (Ordinanza sul trasporto di merci, OTM)
 
-del 25 maggio 2016 (Stato 1° gennaio 2025)
+del 25 maggio 2016 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,10 +25,10 @@ visti gli articoli 2 capoverso 3, 5 capoverso 1, 6 capoverso 2, 14 capoverso 3, 
 
 ordina:
 
-[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^ingress-3]: [RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -55,7 +55,7 @@ Ai sensi della presente ordinanza si intende per:
 - d. *dispositivo di raccordo:* installazioni che servono a raccordare il binario di raccordo all’infrastruttura ferroviaria, quali scambi di raccordo, scambi di protezione, apparecchi di sviamento, impianti delle linee di contatto, per la corrente di trazione e per la messa a terra, e i segnali, compreso il loro collegamento all’impianto di sicurezza;
 - e. *traffico a carro completo isolato*: trasporto di merci in carri ferroviari isolati o in gruppi di vagoni con almeno un movimento di manovra.
 
-[^2-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^2-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 3
 
@@ -122,7 +122,7 @@ Le imprese che forniscono servizi nel quadro dell’invio di convogli, carri o g
 - b. riservando a terzi uguali condizioni e trattamento nella fornitura dei servizi, nell’attribuzione delle risorse e nel calcolo dei prezzi;
 - c. pubblicando le condizioni fondamentali per la fornitura dei servizi, per la pianificazione e l’attribuzione delle risorse nonché per il calcolo dei prezzi.
 
-[^6a-1]: Introdotto dal n. I 6 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^6a-1]: Introdotto dalla cifra I n. 6 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 7
 
@@ -227,11 +227,13 @@ Le domande concernenti progetti con un volume di investimenti superiore a cinque
 
 <sup>1</sup> L’UFT assegna i contributi d’investimento mediante decisione. Nella decisione stabilisce l’aliquota del contributo, i costi computabili e l’importo massimo dell’aiuto finanziario.
 
-<sup>2</sup> Se i contributi d’investimento superano i cinque milioni di franchi, l’UFT decide d’intesa con l’Amministrazione federale delle finanze (AFF).
+<sup>2</sup> ...[^11-1]
 
 <sup>3</sup> Il termine per l’inizio dei lavori è fissato di regola a tre anni dopo il passaggio in giudicato della decisione di assegnazione. L’assegnazione decade se il richiedente non inizia i lavori entro il termine fissato. In casi motivati, l’UFT può prorogare il termine di due anni al massimo.
 
 <sup>4</sup> A costruzione iniziata non vengono più assegnati contributi d’investimento, eccetto che l’UFT abbia autorizzato l’inizio anticipato dei lavori dopo la presentazione della domanda di aiuto finanziario.
+
+[^11-1]: Abrogato dalla cifra I n. 7 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto al 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 12
 
@@ -257,9 +259,11 @@ I contributi d’investimento sono esigibili sei mesi dopo la presentazione del 
 
 <sup>3</sup> L’UFT esige la restituzione integrale o parziale dei contributi d’investimento se non è garantito l’accesso non discriminatorio all’impianto sovvenzionato.
 
-<sup>4</sup> In casi di rigore, d’intesa con l’AFF, può rinunciare integralmente o parzialmente a esigere la restituzione.
+<sup>4</sup> In casi di rigore, d’intesa con l’Amministrazione federale delle finanze, può rinunciare integralmente o parzialmente a esigere la restituzione.[^14-1]
 
 <sup>5</sup> Gli importi restituiti devono essere impiegati per le esigenze del traffico stradale. La loro destinazione è stabilita conformemente all’articolo 3 LUMin.
+
+[^14-1]: Nuovo testo giusta la cifra I n. 7 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, in vigore dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 ## Sezione 3: Contributi d’esercizio
 
@@ -288,8 +292,8 @@ L’offerta deve contenere in particolare le seguenti indicazioni:
 
 <sup>6</sup> Se accetta un’offerta, l’UFT conclude una convenzione con il fornitore di prestazioni. La convenzione stabilisce in particolare l’offerta di trasporto ordinata e l’importo dei contributi d’esercizio nonché le modalità di comunicazione dei dati da parte del fornitore di prestazioni e di versamento dei contributi d’esercizio.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
-[^15-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^15-2]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
 
 #### Art. 16
 
@@ -307,8 +311,8 @@ Se un Cantone ordina un’offerta del trasporto di merci per ferrovia e presenta
 
 <sup>3</sup> L’UFT conclude insieme al Cantone una convenzione con il fornitore delle prestazioni.
 
-[^16-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^16-2]: Nuovo testo giusta dall’all. 4 n. II 3 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^16-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
+[^16-2]: Nuovo testo giusta dall’all. 4 cifra II n. 3 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 17
 
@@ -334,9 +338,9 @@ Se un Cantone ordina un’offerta del trasporto di merci per ferrovia e presenta
 
 <sup>3</sup> Può promuovere nuove offerte del trasporto di merci per ferrovia al più tardi sino alla fine del 2027.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2025 ([RU 2023 805](https://fedlex.data.admin.ch/eli/oc/2023/805)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4379](https://fedlex.data.admin.ch/eli/oc/2019/754)).
 
 ## Sezione 4: Contributi d’investimento per innovazioni tecniche nel settore del trasporto di merci per ferrovia
 
@@ -401,7 +405,7 @@ La domanda deve essere corredata delle seguenti informazioni:
 
 <sup>2</sup> I contenuti del rapporto non sono considerati segreti professionali, di fabbricazione o d’affari ai sensi della legge del 17 dicembre 2004[^23-1] sulla trasparenza.
 
-[^23-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^23-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 ## Sezione 5: Contributi d’investimento e d’esercizio per il trasporto di veicoli stradali accompagnati
 
@@ -411,8 +415,8 @@ La domanda deve essere corredata delle seguenti informazioni:
 
 <sup>2</sup> La procedura di ordinazione e di determinazione dei contributi d’esercizio è retta dagli articoli 30–32 e 36–41 OITRV[^24-1].[^24-2]
 
-[^24-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^24-2]: Nuovo testo giusta dall’all. 4 n. II 3 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^24-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
+[^24-2]: Nuovo testo giusta dall’all. 4 cifra II n. 3 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ## Sezione 6: Concessione del raccordo, pianificazione e costruzione di binari di raccordo
 
@@ -475,7 +479,7 @@ Il gestore dell’infrastruttura comunica al raccordato e motiva per scritto med
 
 <sup>5</sup> Comunica il risultato della verifica al richiedente e all’autorità direttiva entro sei mesi dalla ricezione della documentazione completa.
 
-[^30-1]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^30-1]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## Sezione 7: Esercizio e manutenzione dei binari di raccordo
 
@@ -487,7 +491,7 @@ Il gestore dell’infrastruttura comunica al raccordato e motiva per scritto med
 
 <sup>2</sup> Per l’esercizio dei binari di raccordo non sono necessari né un’autorizzazione di sicurezza né un certificato di sicurezza né un sistema di gestione della sicurezza.[^31-1]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 183](https://fedlex.data.admin.ch/eli/oc/2024/183)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 183](https://fedlex.data.admin.ch/eli/oc/2024/183)).
 
 #### Art. 32
 
@@ -499,7 +503,7 @@ Il gestore dell’infrastruttura comunica al raccordato e motiva per scritto med
 
 <sup>3</sup> Se non è necessaria un’autorizzazione d’esercizio, l’UFT può in qualsiasi momento ingiungere al raccordato di attestare la conformità dell’impianto al diritto o verificarla direttamente oppure incaricarne un perito.
 
-[^32-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^32-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 33
 
@@ -513,8 +517,8 @@ Il gestore dell’infrastruttura comunica al raccordato e motiva per scritto med
 
 <sup>4</sup> I raccordati mettono a disposizione dell’UFT le loro prescrizioni d’esercizio tempestivamente, ma almeno tre mesi prima della data prevista per l’entrata in vigore, quale base per l’attività di vigilanza dell’UFT. Le prescrizioni d’esercizio che derogano alle prescrizioni sulla circolazione dei treni emanate dall’UFT in virtù dell’articolo 17 capoverso 3 Lferr[^33-2] devono essere sottoposte all’UFT per approvazione al più tardi tre mesi prima della data prevista per l’entrata in vigore.
 
-[^33-1]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
-[^33-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-1]: [RS 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
+[^33-2]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 34
 
@@ -528,7 +532,7 @@ Il gestore dell’infrastruttura comunica al raccordato e motiva per scritto med
 
 <sup>4</sup> Le persone che guidano veicoli motore delle ferrovie o che svolgono attività rilevanti per la sicurezza su binari di raccordo sottostanno alle disposizioni d’esecuzione emanate dal DATEC in virtù dell’ordinanza del 4 novembre 2009[^34-1] sulle attività rilevanti per la sicurezza nel settore ferroviario.
 
-[^34-1]: [RS 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+[^34-1]: [RS 742.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8752)
 
 #### Art. 35
 
@@ -538,7 +542,7 @@ Il gestore dell’infrastruttura comunica al raccordato e motiva per scritto med
 
 <sup>2</sup> Per tali veicoli non è necessaria un’autorizzazione d’esercizio.
 
-[^35-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^35-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 ## Sezione 8: Deroghe alle prescrizioni concernenti la costruzione, l’esercizio e la manutenzione dei binari di raccordo
 
@@ -565,7 +569,7 @@ In casi singoli può accordare deroghe alle prescrizioni tecniche e d’esercizi
 
 <sup>3</sup> Nel caso degli impianti elettrici, il raccordato è considerato titolare dell’esercizio ai sensi dell’articolo 46 Oferr[^37-1].
 
-[^37-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^37-1]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 38
 
