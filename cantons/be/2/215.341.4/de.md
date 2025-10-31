@@ -4,13 +4,12 @@ number: "215.341.4"
 title: Einführungsverordnung zur eidgenössischen Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
 short: EV ÖREBKV
 language: de
-version: 2022-04-01
-valid_until: 2025-10-31
-version_adopted: 2022-02-23
+version: 2025-11-01
+version_adopted: 2025-09-10
 adopted: 2013-09-18
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.4"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2568/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2568/pdf_file"
 
 (EV ÖREBKV)
 
-vom 18.09.2013 (Stand 01.04.2022)
+vom 18.09.2013 (Stand 01.11.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -98,7 +97,7 @@ beschliesst:
 
 #### Art. 8a
 
-**Zusätzliche Informationen**
+**Zusatzinformationen**
 
 <sup>1</sup> Die kantonalen zuständigen Stellen bzw. die kantonalen Fachstellen nach Anhang 1 und 2 KGeoIV können dem Amt für Geoinformation melden, dass laufende oder geplante Änderungen von öffentlich-rechtlichen Eigentumsbeschränkungen im Kataster darzustellen sind.
 
@@ -107,6 +106,8 @@ beschliesst:
 - a. laufende oder geplante Änderungen an öffentlich-rechtlichen Eigentumsbeschränkungen abbilden, die vom zuständigen Organ in dem von der Fachgesetzgebung vorgeschriebenen Verfahren beantragt worden sind,
 - b. öffentlich aufliegen,
 - c. auf die Übereinstimmung mit der öffentlichen Auflage unter der Verantwortung des zuständigen Organs überprüft worden sind.
+
+<sup>3</sup> Als unverbindliche Informationen können weitere Geobasisdaten im Kataster dargestellt werden.
 
 #### Art. 9
 

@@ -4,13 +4,12 @@ number: "215.341.4"
 title: Ordonnance portant introduction de l’ordonnance fédérale sur le cadastre des restrictions de droit public à la propriété foncière
 short: OiOCRDP
 language: fr
-version: 2022-04-01
-valid_until: 2025-10-31
-version_adopted: 2022-02-23
+version: 2025-11-01
+version_adopted: 2025-09-10
 adopted: 2013-09-18
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.4"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2568/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3226/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2568/pdf_file"
 
 (OiOCRDP)
 
-du 18.09.2013 (état au 01.04.2022)
+du 18.09.2013 (état au 01.11.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -107,6 +106,8 @@ arrête:
 - a. constituent des modifications en cours ou prévues de restrictions de droit public à la propriété foncière qui ont été demandées par l’organe compétent dans le respect de la procédure prescrite par la législation spécialisée;
 - b. font l’objet d’un dépôt public;
 - c. ont été vérifiées, pour ce qui concerne leur conformité avec les documents déposés publiquement, sous la responsabilité de l’organe compétent.
+
+<sup>3</sup> Le cadastre peut comprendre d’autres géodonnées de base, ces informations n’étant pas contraignantes.
 
 #### Art. 9
 
