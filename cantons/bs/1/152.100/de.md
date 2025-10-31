@@ -4,13 +4,12 @@ number: "152.100"
 title: Gesetz über die Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2025-08-11
-valid_until: 2025-10-31
-version_adopted: 2025-06-11
+version: 2025-11-01
+version_adopted: 2025-03-26
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6641/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6677/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Geschäftsordnung des Grossen Rates | Grosser Rat / Ombudsman
 
 (GO)
 
-Vom 29. Juni 2006 (Stand 11. August 2025)
+Vom 29. Juni 2006 (Stand 1. November 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -130,9 +129,31 @@ erlässt folgendes Gesetz:
 
 <sup>2</sup> Die Grossratspräsidentin oder der Grossratspräsident erhält überdies eine einmalige Repräsentationsentschädigung.
 
-<sup>3</sup> Die Mitglieder des Grossen Rates erhalten zusätzlich einen jährlichen Grundbetrag. Mit dem jährlichen Grundbetrag werden die Aufwendungen für Aktenstudium, Partei- und Öffentlichkeitsarbeit, Verpflegung, Erwerbsausfall, Betreuungsaufgaben, sonstige Inkonvenienzen, Vorsorgeaufwand, Versicherung und dergleichen abgegolten.
+<sup>3</sup> Die Mitglieder des Grossen Rates erhalten zusätzlich einen jährlichen Grundbetrag. Mit dem jährlichen Grundbetrag werden die Aufwendungen für Aktenstudium, Partei- und Öffentlichkeitsarbeit, Verpflegung, Erwerbsausfall, Betreuungsaufgaben, sonstige Inkonvenienzen, Versicherung und dergleichen abgegolten.
 
 <sup>4</sup> Der Grosse Rat kann den Mitgliedern der Oberaufsichtskommissionen und der besonderen Kommission eine zusätzliche pauschale Aufwandentschädigung ausrichten.
+
+#### § 9a
+
+**Berufliche Vorsorge**
+
+<sup>1</sup> Der Kanton versichert die Mitglieder des Grossen Rates bis zum vollendeten 70. Altersjahr gegen die wirtschaftlichen Folgen von Alter, Tod und Invalidität bei einer Vorsorgeeinrichtung. Die Versicherung ist freiwillig für Mitglieder des Grossen Rates, die einen selbstständigen Haupterwerb ausüben.
+
+<sup>2</sup> Der Kanton finanziert drei Fünftel der Spar- und Risikobeiträge und fünf Siebtel allfälliger Sanierungsbeiträge.
+
+<sup>3</sup> Ein Ausscheiden aus dem Grossen Rat vor der Vollendung des 70. Altersjahres hat keine besonderen Leistungen zur Folge.
+
+<sup>4</sup> Die Leistungen gemäss Abs. 2 beziehen sich auf die jährlichen Sitzungsgelder, sofern diese Sitzungsgelder mehr als die Hälfte der maximalen jährlichen AHV-Altersrente gemäss Bundesgesetzgebung über die Alters- und Hinterlassenenversicherung betragen. Die Leistungen beziehen sich auch auf den Koordinationsabzug, der den pauschal bestimmten Zeitaufwand für das parlamentarische Mandat berücksichtigt.
+
+<sup>5</sup> Das Ratsbüro des Grossen Rates bestimmt die entsprechende Vorsorgeeinrichtung.
+
+#### § 9b
+
+**Ausnahmen von der beruflichen Vorsorge**
+
+<sup>1</sup> Mitglieder des Grossen Rates, die der Versicherung nicht angehören, erhalten am Ende jedes Amtsjahres anstelle der Leistungen gemäss § 9a einen Vorsorgebeitrag in der Höhe des Arbeitgeberbeitrags gemäss § 9a Abs. 2 auf den jährlichen Sitzungsgelderbetrag gemäss § 9a Abs. 4.
+
+<sup>2</sup> Mitglieder des Grossen Rates, deren jährliche Sitzungsgelder die Hälfte der maximalen jährlichen AHV-Altersrente nicht übersteigen, die aber aufgrund einer anderen versicherten Tätigkeit der vom Ratsbüro bestimmten Vorsorgeeinrichtung angehören, werden gemäss § 9a versichert.
 
 #### § 10
 
@@ -229,7 +250,8 @@ erlässt folgendes Gesetz:
 - i) es entscheidet über die Einreihung der Stellen sowie ad personam-Einreihungen der dem Grossen Rat unterstellten oder zugeordneten Dienste,
 - j) es entscheidet über die Teilnahme der Gerichte an den Grossratssitzungen gemäss § 27a,
 - k) es vertritt den Grossen Rat in allen ihn betreffenden rechtlichen Verfahren,
-- l) es ergreift Massnahmen zum Schutz der persönlichen Integrität der Ratsmitglieder und legt in einem Reglement die Einzelheiten wie Anwendungsbereich, Massnahmen und Verfahren fest.
+- l) es ergreift Massnahmen zum Schutz der persönlichen Integrität der Ratsmitglieder und legt in einem Reglement die Einzelheiten wie Anwendungsbereich, Massnahmen und Verfahren fest,
+- m) es ist für die Ausgestaltung und Wahl der Vorsorgeeinrichtung der beruflichen Vorsorge zuständig.
 
 #### § 19
 
