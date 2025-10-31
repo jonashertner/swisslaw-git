@@ -4,7 +4,7 @@ number: "415.01"
 title: "LOI du 18.12.2012 sur l'éducation physique et le sport (LEPS)"
 short: LEPS
 language: fr
-version: 2021-01-01
+version: 2025-11-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/415.01?id=7f3fa7e4-95f9-46da-a3ab-7dbc9961db41"
 ---
 
@@ -39,21 +39,29 @@ décrète
 
 **But de la loi [^chapterChapitreI-1]**
 
-<sup>1</sup> La présente loi vise à encourager l'éducation physique et sportive et la pratique du sport à tous les niveaux et pour l'ensemble de la population, dans le respect des valeurs éthiques et en favorisant les principes du développement durable.
+<sup>1</sup> La présente loi vise à encourager l'éducation physique et sportive, l'activité physique ainsi qu'une pratique favorable à la santé et éthique du sport à tous les niveaux et pour l'ensemble de la population, respectueuse des valeurs d'inclusion et d'intégrité et du principe de durabilité.
 
-<sup>2</sup> Elle contribue en particulier à un développement harmonieux des enfants et des jeunes, au maintien de la santé, à l'intégration et à la cohésion sociale. Elle concourt à la promotion de l'image du canton.
+<sup>2</sup> Elle contribue en particulier à un développement harmonieux des enfants et des jeunes, à la promotion et au maintien de la santé, à l'inclusion et à la cohésion sociale. Elle concourt à la promotion de l'image du canton et au développement de son économie.
 
 <sup>3</sup> A cet effet, l'Etat, en coordonnant son action avec celles de la Confédération et des communes :
 
-- a. contribue au développement d'activités physiques adaptées à chacun ;
-- b. dispense l'enseignement de l'éducation physique et sportive dans l'école publique ;
-- c. encourage le sport dans l'enseignement supérieur ;
-- d. organise et surveille le mouvement "Jeunesse+Sport" ;
-- e. contrôle la conformité des infrastructures sportives et en favorise l'utilisation ;
-- f. encourage la réalisation d'infrastuctures sportives ;
-- g. soutient les organisations internationales de sport ainsi que les manifestations sportives internationales.
+- a. contribue au développement d'activités physiques adaptées et ouvertes à chacun, respectueuses de l'intégrité de tous ;
+- b. favorise le développement du sport populaire et associatif et soutient l'organisation de manifestations sportives ;
+- c. dispense l'enseignement de l'éducation physique et sportive dans l'école publique ;
+- d. favorise le développement du sport scolaire facultatif ;
+- e. organise et surveille le mouvement « Jeunesse+Sport » ;
+- f. encourage le sport dans l'enseignement supérieur et les liens entre les milieux académiques, économiques et les milieux sportifs locaux et internationaux ;
+- g. soutient l'accueil de fédérations sportives internationales, de congrès sportifs internationaux ;
+- gbis. soutient l'accueil de manifestations sportives d'envergure internationale ;
+- h. soutient la relève et le sport d'élite ;
+- i. favorise et soutient l'établissement de centres régionaux et nationaux de performance ;
+- j. développe et pilote le dispositif sport-études en collaboration avec les associations sportives cantonales et les centres régionaux et nationaux de performance ;
+- k. soutient la construction d'infrastructures sportives ;
+- kbis. soutient la réalisation d'espaces en principe inclusifs favorisant l'activité physique libre ;
+- l. contrôle la conformité des infrastructures sportives et en favorise l'utilisation ;
+- m. appuie les communes dans l'élaboration et le développement de leur politique en faveur du sport, de l'activité physique et du mouvement.
 
-<sup>4</sup> L'Etat encourage les mesures destinées à favoriser l'égal accès des femmes et des hommes aux pratiques physiques et sportives.
+<sup>4</sup> Les subventions cantonales accordées en vertu des alinéa 3 lettre gbis et alinéa 3 lettre k du présent article de loi sont en principe couvertes par des crédits-cadres spéciaux quadriennaux votés par le Grand Conseil. Le Conseil d'Etat présente au moins un crédit-cadre par législature pour l'alinéa 3 lettre gbis et pour l'alinéa 3 lettre k.
 
 [^chapterChapitreI-1]: Modif. 2 du 03.06.2025: Modification Al. 1-3; entrée en vigueur au 01.11.2025; Modification Al. 3, a-g; entrée en vigueur au 01.11.2025; Introduction Al. 3, gbis,h,i,j,k,kbis,l,m; entrée en vigueur au 01.11.2025; Modification Al. 4; entrée en vigueur au 01.11.2025
 
