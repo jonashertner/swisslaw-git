@@ -4,53 +4,53 @@ number: "550.600"
 title: Verordnung über häusliche Gewalt
 short: VhG
 language: de
-version: 2017-01-01
-corrected: 2017-09-13
-version_adopted: 2016-09-14
+version: 2025-11-01
+valid_until: 2026-04-30
+version_adopted: 2025-10-29
 adopted: 2016-09-14
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.600"
-pdf: "https://lex.vs.ch/api/de/versions/378/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3527/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über häusliche Gewalt (VhG)
+# Verordnung über häusliche Gewalt
 
-vom 14. September 2016
+(VhG)
+
+vom 14.09.2016 (Stand 01.11.2025)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen das Gesetz über häusliche Gewalt vom 18. Dezember 2015; auf Antrag des Departements für Finanzen und Institutionen,
+eingesehen das Gesetz über häusliche Gewalt vom 18. Dezember 2015;
 
-verordnet:[^t-1]
+auf Antrag des für das Sozialwesen zuständigen Departements,
 
-[^t-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+verordnet:[^ingress-1]
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck und Anwendungsbereich**
 
-Die vorliegende Verordnung präzisiert die Bestimmungen des Gesetzes über häusliche Gewalt vom 18. Dezember 2015 (nachstehend: Gesetz) und regelt:
+<sup>1</sup> Die vorliegende Verordnung präzisiert die Bestimmungen des Gesetzes über häusliche Gewalt vom 18. Dezember 2015 (nachstehend: Gesetz) und regelt:
 
-- a) die Aufgaben und Kompetenzen des kantonalen Amts für Gleichstellung und Familie (nachstehend: Amt), die Zusammensetzung, die Zuständigkeiten und die Funktionsweise der kantonalen Konsultativkommission gegen häusliche Gewalt (nachstehend: Kommission) und der regionalen Gruppen gegen häusliche Gewalt (nachstehend: regionale Gruppen);
+- a) die Aufgaben und Kompetenzen des Kantonalen Amts für Gleichstellung und Familie (nachstehend: Amt), die Zusammensetzung, die Zuständigkeiten und die Funktionsweise der Konsultativkommission (nachstehend: Kommission) und der regionalen Gruppen (nachstehend: regionale Gruppen) zur Bekämpfung häuslicher Gewalt;
+- b) die Ausführungsmodalitäten des Informationsaustauschs und der Risikofrüherkennung;
+- b <sup>bis</sup>) die Kontaktaufnahme nach einem Polizeieinsatz;
+- c) das Verfahren und die Voraussetzungen für die Ausrichtung der finanziellen Hilfen;
+- d) die Modalitäten zur Durchführung der obligatorischen sozialtherapeutischen Gespräche;
+- e) die Modalitäten zur Finanzierung der Betreuung der gewaltausübenden Personen und der spezialisierten Betreuung der Familien;
+- f) die Liste der von der Datensammlung zu statistischen Zwecken betroffenen Institutionen;
+- g) die zuständige kantonale Stelle im Sinne von Artikel 55a Absatz 2 des Schweizerischen Strafgesetzbuches (StGB).
 
-- b) das Verfahren zur Risikoeinschätzung und zum koordinierten Bedrohungsmanagement;
-
-- c) das Verfahren und die Voraussetzungen für die Ausrichtung von finanziellen Hilfen;
-
-- d) die Modalitäten der Durchführung des sozialtherapeutischen Gesprächs;
-
-- e) die Modalitäten der Finanzierung der Betreuung der Urheber und der spezialisierten Betreuung der Familien;
-
-- f) die Liste der vom Ereignisregister betroffenen Institutionen.
-
-### 2. Abschnitt: Organisation und Kompetenzen
+## 2 Organisation und Kompetenzen
 
 #### Art. 2
 
@@ -60,127 +60,111 @@ Die vorliegende Verordnung präzisiert die Bestimmungen des Gesetzes über häus
 
 <sup>2</sup> Sein Auftrag besteht namentlich darin:
 
+- aa) die Umsetzung einer ganzheitlichen Herangehensweise zu unterstützen;
 - a) Präventions- und Sensibilisierungsprogramme einzuführen;
-
 - b) Projekte und Organisationen zur Bekämpfung häuslicher Gewalt zu unterstützen;
-
 - c) das Walliser Netzwerk gegen häusliche Gewalt (nachstehend: Netzwerk) zu unterstützen und auszubauen;
-
 - d) den Fachleuten, die mit Situationen häuslicher Gewalt konfrontiert sind, Hilfe zu bieten und Informationen zu liefern.
 
 <sup>3</sup> Das Amt kann im Rahmen seiner Finanzkompetenzen finanzielle Hilfen gewähren.
 
 #### Art. 3
 
-**Konsultativkommission gegen häusliche Gewalt**
+**Konsultativkommission zur Bekämpfung häuslicher Gewalt**
 
 <sup>1</sup> Auf Vorschlag des Departements ernennt der Staatsrat zu Beginn jeder Verwaltungsperiode den Präsidenten und die Mitglieder der Kommission, wobei darauf geachtet wird, dass die wichtigsten betroffenen Kreise vertreten sind.
 
-<sup>2</sup> Die Kommission besteht aus neun bis fünfzehn Mitgliedern, die aufgrund ihrer Fachkenntnisse und Berufserfahrung in den folgenden Bereichen ausgewählt werden:
+<sup>2</sup> Die Kommission besteht aus neun bis sechzehn Mitgliedern, die aufgrund ihrer Fachkenntnisse und Berufserfahrung in den folgenden Bereichen ausgewählt werden:
 
 - a) häusliche Gewalt;
-
-- b) Opferhilfe;
-
+- b) Unterstützung der von häuslicher Gewalt betroffenen Personen im Sinne von Artikel 2 Absatz 1 Buchstabe b des Gesetzes;
 - c) Kindesschutz;
-
-- d) Arbeit mit den Urhebern häuslicher Gewalt;
-
+- d) …
 - e) Gesundheitswesen;
-
 - f) Sozialwesen;
-
+- f<sup>bis</sup>) Integration;
 - g) Schutz und Sicherheit (Polizei);
-
-- h) Justiz.
+- h) Justiz;
+- i) Rechtsmedizin;
+- j) Strafvollzug.
 
 <sup>3</sup> Alle Kommissionsmitglieder sind an das Amtsgeheimnis gebunden.
 
-<sup>4</sup> Der Präsident legt die zu behandelnden Themen und die Traktandenliste der Sitzungen fest. Er beruft die Mitglieder mindestens einmal jährlich ein. Die Kommission kann bei Bedarf externe Experten beiziehen. Im Übrigen organisiert sie sich selbstständig. Ihr Sekretariat wird vom Amt besorgt.
+<sup>4</sup> Das vom Amt übernommene Präsidium legt die zu behandelnden Themen und die Traktandenliste der Sitzungen fest. Die Mitglieder werden mindestens einmal jährlich einberufen. Die Kommission kann bei Bedarf externe Experten beiziehen. Im Übrigen organisiert sie sich selbstständig. Ihr Sekretariat wird vom Amt besorgt.
 
 <sup>5</sup> Die Kommission ist ein unterstützendes Organ bei der Umsetzung des Gesetzes. Sie gibt ihre Vormeinung zu Projekten ab und arbeitet Empfehlungen aus. Sie ist dafür zuständig, eine koordinierte Aktion der verschiedenen Organisationen und Fachleute, die in die Bekämpfung häuslicher Gewalt involviert sind, sicherzustellen.
 
 #### Art. 4
 
-**Regionale Gruppen gegen häusliche Gewalt**
+**Regionale Gruppen zur Bekämpfung häuslicher Gewalt**
 
-<sup>1</sup> Der Staatsrat überträgt dem Amt die Zuständigkeit, auf Vorschlag der Kommission die Mitglieder der drei regionalen Gruppen zu ernennen: Unterwallis, Mittelwallis und Oberwallis.
+<sup>1</sup> Der Staatsrat überträgt dem Amt die Zuständigkeit, die Mitglieder der drei regionalen Gruppen zu ernennen: Unterwallis, Mittelwallis und Oberwallis.
 
-<sup>2</sup> Die regionalen Gruppen sind aus Fachleuten aus der Praxis zusammengesetzt, namentlich aus den Bereichen Opferhilfe, Notunterkunft, Polizei, Kindesschutz, Kindes- und Erwachsenenschutzbehörden, sozialmedizinische Zentren, SIPE-Zentren, Justiz und Integration.
+<sup>2</sup> Die regionalen Gruppen sind aus Fachleuten aus der Praxis zusammengesetzt, namentlich aus den Bereichen Unterstützung der von häuslicher Gewalt betroffenen Personen, Notunterkunft, Polizei, Kindesschutz, Kindes- und Erwachsenenschutzbehörden (nachstehend: KESB), sozialmedizinische Zentren, SIPE-Zentren, Justiz und Integration.
 
-<sup>3</sup> Die regionalen Gruppen treten mindestens zweimal pro Jahr zusammen. Sie sollen die Koordination der multidisziplinären Interventionen optimieren, um den Opfern zu helfen und generell um häusliche Gewalt in ihrer Region zu bekämpfen.
+<sup>3</sup> Die regionalen Gruppen treten mindestens zweimal pro Jahr zusammen. Sie sollen die Koordination der multidisziplinären Interventionen optimieren, um gewaltbetroffenen Personen zu helfen und generell, um häusliche Gewalt in ihrer Region zu bekämpfen.
 
-### 3. Abschnitt: Risikoeinschätzung und koordiniertes Bedrohungsmanagement
+## 3 Zusammenarbeit zwischen den Behörden und Risikoeinschätzung
 
 #### Art. 5
 
-**Meldung eines erhöhten Risikos**
+**…**
 
-<sup>1</sup> Man spricht von einem erhöhten Risiko zum Begehen einer Tat von häuslicher Gewalt, die eine Person gefährdet und die der zuständigen Kindes- und Erwachsenenschutzbehörde (nachstehend: KESB) zu melden ist, in folgenden Situationen:
+#### Art. 5a
 
-- a) es bestehen ernsthafte Gründe anzunehmen, dass eine Tat häuslicher Gewalt, die eine Person gefährdet, begangen wurde und dass neue Gewalttaten zu befürchten sind;
+**Risikofrüherkennung und Bedrohungsmanagement**
 
-- b) ein Fall von häuslicher Gewalt, die eine Person gefährdet, ist bekannt, doch die getroffenen Massnahmen scheinen nicht ausreichend zu sein, um das Risiko zu vermindern.
+<sup>1</sup> Die Dienststellen des Staates und die Partner im Sinne von Artikel 9 des Gesetzes werden über den Prozess zum Beizug der für das Bedrohungsmanagement zuständigen Einheit der Kantonspolizei informiert.
 
-<sup>2</sup> Wenn eine KESB eine Meldung erhält, informiert sie sofort, jedoch spätestens am folgenden Werktag, das Amt darüber.
+<sup>2</sup> Das Netzwerk wird für die Früherkennung von Gewalthandlungen geschult und die interdisziplinäre Zusammenarbeit wird ausgebaut, um koordinierte und effiziente Massnahmen zu gewährleisten.
 
-<sup>3</sup> Nach einer ersten Analyse der Situation muss das Amt, in Zusammenarbeit mit der KESB, spätestens innert zehn Arbeitstagen:
+#### Art. 5b
 
-- a) das Dossier schliessen, nachdem festgestellt wurde, dass die Intervention der KESB, der betroffenen Stellen und Fachleute ausreichend ist;oder
+**Zuständige kantonale Stelle im Sinne von Artikel 55a Absatz 2 StGB**
 
-- b) die Person, welche die Situation gemeldet hat, die KESB, die betroffenen Stellen und Fachleute zu einer Fallbesprechung einladen, um die Betreuung zu optimieren.
-
-<sup>4</sup> Eine Situation unmittelbarer Gefahr fällt nicht unter den vorliegenden Artikel und ist unverzüglich der Polizei zu melden.
-
-<sup>5</sup> Eine Situation häuslicher Gewalt, die von den betroffenen Fachleuten bereits angemessen betreut wurde, soll grundsätzlich nicht Gegenstand einer Meldung im Sinne des vorliegenden Artikels bilden.
+<sup>1</sup> Die Dienststelle für Straf- und Massnahmenvollzug (DSMV) ist über ihr Amt für Sanktionen und Begleitmassnahmen (ASB) die für Fälle häuslicher Gewalt zuständige kantonale Stelle im Sinne von Artikel 55a Absatz 2 StGB, wenn eine Sistierung des Verfahrens angeordnet wird.
 
 #### Art. 6
 
-**Fallbesprechung**
-
-<sup>1</sup> Die Fallbesprechung ist darauf ausgerichtet, die Risiken zu beurteilen und koordinierte Massnahmen zu ergreifen. Sie findet sobald als möglich statt, spätestens jedoch innert einer Frist von 15 Werktagen nachdem die KESB das Amt informiert hat.
-
-<sup>2</sup> Das Amt kann einen Experten einladen, um sich an der Beurteilung der Situation zu beteiligen.
-
-<sup>3</sup> Das Amt protokolliert die Besprechung und die ergriffenen Massnahmen und versichert sich, dass diese befolgt werden. Wenn nötig kann es eine neue Besprechung organisieren. Die Person, welche die Situation gemeldet hat, wird angemessen informiert.
+**…**
 
 #### Art. 7
 
 **Bearbeitung von Personendaten**
 
-<sup>1</sup> Die vom Amt erfassten Daten werden ausschliesslich für die Bearbeitung der gemeldeten Situation verwendet, im Interesse der betroffenen Personen im Sinne von Artikel 2 Buchstabe b des Gesetzes.
+<sup>1</sup> …
 
-<sup>2</sup> Das Opfer und der Urheber werden in zwei separaten Schreiben, die persönlich überreicht werden, darüber informiert, dass Daten erhoben wurden und zu welchem Zweck dies gemacht wurde. Diese Information muss spätestens ein Jahr nach der Meldung erfolgen, ausser wenn damit eine Strafuntersuchung oder ein anderes Instruktionsverfahren beeinträchtigt werden könnte.
+<sup>1<sup>bis</sup></sup> Bei der Mitteilung von Personendaten in Anwendung der Artikel 9 und 11 des Gesetzes wird die betroffene Person über ihr Recht auf Einsprache, Behandlung und Übermittlung informiert, wenn sie in Anwendung des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) ein schutzwürdiges Interesse glaubhaft macht. Wird ihre Einsprache abgelehnt, kann sie sich an den kantonalen Datenschutzbeauftragten wenden.
 
-<sup>3</sup> Die Daten über persönliche Situationen werden unter Verschluss oder elektronisch aufbewahrt, wobei einzig die für dieses Dossier zuständigen Personen darauf Zugriff haben und die elektronischen Zugriffe protokolliert werden.
+<sup>2</sup> …
 
-<sup>4</sup> Die Personendaten sind während mindestens zehn Jahren aufzubewahren.
+<sup>2<sup>bis</sup></sup> Die Information der betroffenen Person kann aufgeschoben werden, wenn sich die Gewaltsituation durch diese Information verschlimmern könnte oder wenn dadurch ein laufendes Strafverfahren oder ein anderes laufendes Verfahren beeinträchtigt werden könnte.
 
-<sup>5</sup> Die Bestimmungen des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (nachstehend: GIDA) bleiben vorbehalten.
+<sup>3</sup> …
 
-### 4. Abschnitt: Finanzielle Hilfen
+<sup>4</sup> …
+
+<sup>5</sup> Die Bestimmungen des GIDA bleiben vorbehalten.
+
+## 4 Finanzielle Hilfen und Ausbildung
 
 #### Art. 8
 
-**Gewährungsbedingungen**
+**Bedingungen zur Gewährung einer finanziellen Hilfe**
 
 <sup>1</sup> Die in der Bekämpfung häuslicher Gewalt tätigen Vereinigungen, Organisationen oder Institutionen können unter folgenden kumulativ erfüllten Voraussetzungen eine finanzielle Hilfe erhalten:
 
 - a) das Gesuch wird für ein spezifisches Projekt gestellt;
-
 - b) das Gesuch wird vor der Projektrealisierung eingereicht;
+- c) das Projekt entspricht dem in Artikel 1 des Gesetzes genannten Zweck.
 
-<sup>c)</sup> das Projekt entspricht dem in Artikel 1 des Gesetzes genannten Zweck.
+<sup>2</sup> Die Beträge werden anhand folgender drei Punkte gewährt:
 
-<sup>2</sup> Die Beträge werden anhand folgender Punkte gewährt:
-
-- a) Art und Bedeutung des Projekt; und
-
-- b) von der betroffenen Vereinigung, Organisation oder Institution geleistete Selbstfinanzierung; und
-
+- a) Art und Bedeutung des Projekts;
+- b) von der betroffenen Vereinigung, Organisation oder Institution geleistete Selbstfinanzierung, und
 - c) Anzahl begünstigter Personen.
 
-<sup>3</sup> Nicht berücksichtigt werden können Projekte, mit denen ein kommerzieller Zweck verfolgt wird, oder Projekte von kommerziell ausgerichteten Strukturen.
+<sup>3</sup> Projekte, mit denen ein kommerzieller Zweck verfolgt wird, oder Projekte von kommerziell ausgerichteten Strukturen können nicht berücksichtigt werden.
 
 #### Art. 9
 
@@ -191,14 +175,12 @@ Die vorliegende Verordnung präzisiert die Bestimmungen des Gesetzes über häus
 <sup>2</sup> Es enthält mindestens:
 
 - a) die nützlichen Informationen zur gesuchstellenden Organisation (Gesellschaftsform, Statuten und Tätigkeitsbericht);
-
 - b) eine detaillierte Beschreibung des Projekts mit Präzisierung seines Zwecks;
-
-- c) ein detailliertes Budget und der erforderliche Betrag.
+- c) ein detailliertes Budget und den erforderlichen Betrag.
 
 <sup>3</sup> Das Amt kann jede weitere Information verlangen, die für eine Entscheidungsfindung nötig ist, und von der Kommission eine Vormeinung einholen.
 
-<sup>4</sup> Die Entscheide zur Gewährung oder Verweigerung einer finanziellen Hilfe können innert 30 Tagen seit ihrer Eröffnung beim Staatsrat angefochten werden. Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (nachstehend: VVRG) sind anwendbar.
+<sup>4</sup> Die Entscheide zur Gewährung oder Verweigerung einer finanziellen Hilfe können innert 30 Tagen seit ihrer Eröffnung beim Staatsrat angefochten werden. Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) sind anwendbar.
 
 #### Art. 10
 
@@ -208,119 +190,138 @@ Die vorliegende Verordnung präzisiert die Bestimmungen des Gesetzes über häus
 
 <sup>2</sup> Das Amt vergewissert sich, dass die finanzielle Hilfe zweckgemäss verwendet wird und kontrolliert die Abrechnungen.
 
-### 5. Abschnitt: Ausweisung von Urhebern von Taten
+#### Art. 10a
 
-häuslicher Gewalt
+**Ausbildungsmassnahmen**
+
+<sup>1</sup> Die im Sinne von Artikel 14 Absatz 3 des Gesetzes betroffenen Fachkreise sind namentlich:
+
+- a) die Polizei;
+- b) die richterliche Gewalt;
+- c) der Kindesschutz;
+- d) der medizinische Bereich (privat, Spital sowie Hilfe und Pflege zu Hause);
+- e) das Schulwesen und die Berufsbildung;
+- f) das Erziehungswesen (Kleinkinderbereich bis Jugend);
+- g) das Sonderschulwesen und die Betreuung von Menschen mit Behinderung;
+- h) das Sozialwesen und die Strukturen für Personen mit Migrationshintergrund.
+
+## 4a Information der Involvierten infolge eines Polizeieinsatzes
+
+## 5 Fernhaltemassnahmen für Personen, die mutmasslich häusliche Gewalt ausgeübt haben
 
 #### Art. 11
 
-**Ausweisungsentscheid**
+**Ausweisungsentscheid sowie polizeilich angeordnetes Kontakt- und Rayonverbot**
 
-<sup>1</sup> Der diensthabende Offizier ordnet die Anhörung des Opfers und des Urhebers häuslicher Gewalt an. Es wird ihnen die Gelegenheit gegeben, sich zur Massnahme einer sofortigen Ausweisung zu äussern.
+<sup>1</sup> Der diensthabende Beamte der Kantonspolizei ordnet die Anhörung der gewaltbetroffenen Person und der mutmasslich gewaltausübenden Person an. Es wird ihnen die Gelegenheit geboten, sich zu den Massnahmen einer sofortigen Ausweisung, eines Kontaktverbots und eines Rayonverbots zu äussern. Diese Massnahmen können zusammen oder einzeln angeordnet werden.
 
-<sup>2</sup> Die Ausweisung wird unverzüglich schriftlich für mindestens 7 und höchstens 14 Tage verfügt. Diese Dauer kann nicht verlängert werden.
+<sup>2</sup> Die Massnahmen werden unverzüglich schriftlich für mindestens 14 und höchstens 21 Tage verfügt. Die festgelegte Dauer kann von der Polizei nicht geändert werden.
 
-<sup>3</sup> Der Betroffene kann gegen den Ausweisungsentscheid beim Kantonsgericht Beschwerde einreichen. Anwendbar ist das VVRG. Die Verwaltungsgerichtsbeschwerde hat jedoch keine aufschiebende Wirkung, ausser bei gegenteiligem Entscheid des angerufenen Richters.
+<sup>3</sup> Die von der Massnahme betroffene Person kann gegen den Entscheid beim Kantonsgericht Beschwerde einreichen. Anwendbar ist das VVRG. Die Verwaltungsgerichtsbeschwerde hat jedoch keine aufschiebende Wirkung, ausser bei gegenteiligem Entscheid des angerufenen Richters.
 
 <sup>4</sup> Die Kantonspolizei:
 
-- a) übermittelt dem Opfer unverzüglich ein Doppel ihres Entscheids;
+- a) übermittelt der gewaltbetroffenen Person unverzüglich ein Doppel ihres Entscheids;
+- b) macht sie darauf aufmerksam, dass die Massnahme nach Ablauf der festgesetzten Frist endet;
+- c) informiert sie über ihr Recht, beim Zivilgericht innerhalb der Gültigkeit der Massnahmenfrist eine Schutzmassnahme im Sinne von Artikel 28b und folgenden des Schweizerischen Zivilgesetzbuches (ZGB) zu beantragen;
+- d) übermittelt dem für die Schutzmassnahmen zuständigen Zivilrichter innerhalb von 24 Stunden ein Doppel ihres Entscheids;
+- e) eröffnet der von der Massnahme oder den Massnahmen betroffenen Person, dass sie verpflichtet ist, bei einer zur Betreuung von gewaltausübenden Personen befugten Organisation zu drei sozialtherapeutischen Gesprächen zu gehen, und weist sie auf die strafrechtlichen Folgen einer Verletzung dieser Auflage hin. Die Polizei übermittelt der befugten Organisation eine Kopie des Entscheids.
 
-- b) macht es darauf aufmerksam, dass die Ausweisungsmassnahme nach Ablauf der festgesetzten Frist endet;
+#### Art. 11a
 
-- c) informiert es über sein Recht, beim Zivilgericht innerhalb der Gültigkeit der Ausweisungsfrist eine Schutzmassnahme im Sinne von Artikel 28 b und folgenden des Schweizerischen Zivilgesetzbuches zu beantragen;
+**Von einem Zivilgericht angeordnete Schutzmassnahme**
 
-- d) übermittelt dem zuständigen Zivilgericht innerhalb von 24 Stunden ein Doppel ihres Entscheides über die Schutzmassnahme;
+<sup>1</sup> In der von einem Zivilgericht gestützt auf Artikel 28b ZGB erlassenen Verfügung der Ausweisung, des Kontaktverbots, Rayonverbots und/oder Verbots, sich an bestimmten Orten aufzuhalten, wird die betroffene Person auf ihre Pflicht, bei einer im Sinne von Artikel 18 des Gesetzes befugten Organisation zu drei sozialtherapeutischen Gesprächen zu gehen, sowie auf die strafrechtlichen Folgen einer Verletzung dieser Auflage hingewiesen.
 
-- e) eröffnet der ausgewiesenen Person, dass sie verpflichtet ist, innert 3 Werktagen eine Organisation oder Fachperson zu kontaktieren, die zur Betreuung von Urhebern häuslicher Gewalt befugt ist, um ein sozialtherapeutisches Gespräch zu vereinbaren, und weist sie auf die strafrechtlichen Folgen hin, sollte sie diese Auflage verletzen.
+<sup>2</sup> Der befugten Organisation wird eine Kopie der Verfügung zugestellt.
 
 #### Art. 12
 
 **Ausführung des Ausweisungsentscheids**
 
-<sup>1</sup> Unter Aufsicht eines Polizeibeamten kann der Urheber die für ihn absolut notwendigen Sachen mitnehmen.
+<sup>1</sup> Unter Aufsicht eines Polizeibeamten kann die ausgewiesene Person die für sie absolut notwendigen Sachen mitnehmen.
 
-<sup>2</sup> Er muss alle Schlüssel, die Zugang zur Wohnung ermöglichen, beim Polizeibeamten hinterlegen.
+<sup>2</sup> Sie muss dem Polizeibeamten sämtliche Mittel, die Zugang zur Wohnung ermöglichen, abgeben.
 
-<sup>3</sup> Er muss eine Adresse angeben, an die ihm Eröffnungen zugestellt werden können.
+<sup>3</sup> Sie muss eine Adresse angeben, an die ihr Eröffnungen zugestellt werden können.
 
-<sup>4</sup> Falls nötig, wird ihm eine Unterkunft vorgeschlagen.
+<sup>4</sup> Falls nötig, wird ihr eine Unterkunft vorgeschlagen.
 
-<sup>5</sup> Er wird über den Nutzen und die Möglichkeiten geeigneter Hilfsangebote zur Verhinderung einer Wiederholungstat informiert.
+<sup>5</sup> Sie wird über den Nutzen und die Möglichkeiten der Hilfsangebote zur Verhinderung von Wiederholungstaten informiert.
 
 <sup>6</sup> Im Falle der Widersetzung gegen den Ausweisungsentscheid ist die Polizei befugt, Gewalt anzuwenden.
 
 #### Art. 13
 
-**Hilfe an Opfer von Straftaten**
+**Hilfe für von häuslicher Gewalt betroffene Personen**
 
-<sup>1</sup> Die Polizei informiert das Opfer unverzüglich über die ihm zur Verfügung stehende Hilfe durch eine Opferhilfe-Beratungsstelle.
+<sup>1</sup> Die Polizei oder das Zivilgericht informiert die von häuslicher Gewalt betroffene Person unverzüglich über die verfügbaren Hilfsangebote.
 
-<sup>2</sup> Sollte sich eine Ausweisungsmassnahme als unpassend herausstellen, so ergreift die Polizei unverzüglich die notwendigen dringenden Massnahmen, insbesondere indem sie den Urheber bei der Staatsanwaltschaft anzeigt oder indem sie die zuständige KESB einschaltet.
+<sup>2</sup> …
 
-### 6. Abschnitt: Sozialtherapeutisches Gespräch
+## 6 Obligatorische sozialtherapeutische Gespräche im Sinne von Artikel 18 des Gesetzes
 
 #### Art. 14
 
-**Befugte Organisation oder Fachperson**
+**Befugte Organisation**
 
-<sup>1</sup> Der Staatsrat ermächtigt auf Vorschlag des Departements Organisationen und/oder Fachpersonen, welche die Urheber häuslicher Gewalt für ein sozialtherapeutisches Gespräch empfangen.
+<sup>1</sup> Auf Vorschlag des Departements ermächtigt der Staatsrat Organisationen dazu, die Personen, die mutmasslich häusliche Gewalt ausgeübt haben, zu den obligatorischen sozialtherapeutischen Gesprächen zu empfangen.
 
-<sup>2</sup> Das Departement kann mit einer befugten Organisation oder befugten Fachleuten einen Leistungsauftrag abschliessen, wenn sie die folgenden Voraussetzungen kumulativ erfüllen:
+<sup>2</sup> Das Departement kann mit einer befugten Organisation einen Leistungsauftrag abschliessen, wenn sie die folgenden Voraussetzungen kumulativ erfüllt:
 
-- a) sie verfügen über eine Fachausbildung;
-
+- a) die für die Gespräche zuständigen Personen verfügen über eine Fachausbildung;
 - b) sie weisen die nötige praktische Erfahrung auf;
-
 - c) sie waren nicht von einer Verwaltungssanktion oder einer strafrechtlichen Verurteilung betroffen, was ihre Vertrauenswürdigkeit zur Mandatsausübung anzweifeln liesse.
 
 #### Art. 15
 
 **Zweck und Inhalt**
 
-<sup>1</sup> Mit dem sozialtherapeutischen Gespräch soll der ausgewiesenen Person ermöglicht werden, ihre Situation einzuschätzen, und sie soll über die Folgen häuslicher Gewalt für das Opfer, die Angehörigen und sich selbst informiert werden.
+<sup>1</sup> Mit den sozialtherapeutischen Gesprächen soll der betroffenen Person ermöglicht werden, ihre Situation zu beurteilen. Das Ziel besteht darin, sie über die Folgen der Gewalt für die betroffenen Personen zu informieren und daran zu arbeiten, dass sie sich ihres Verhaltens bewusst wird, um mit der Gewalt aufzuhören.
 
-<sup>2</sup> Das Gespräch muss rasch, jedoch spätestens sieben Werktage nach der Ausweisung, geführt werden.
+<sup>2</sup> Das Erstgespräch muss rasch, jedoch spätestens 7 Werktage nach der Ausweisung oder der Verfügung der Fernhaltemassnahme geführt werden. Die beiden Folgegespräche sind innert 3 Monaten zu führen.
+
+<sup>3</sup> Die befugte Organisation informiert die Polizei unverzüglich darüber, wenn sie die betroffene Person nicht kontaktieren kann oder wenn diese einem Gespräch unbegründet fernbleibt.
 
 #### Art. 16
 
 **Verletzung**
 
-Hält sich der Urheber nicht an seine Verpflichtung, zu einem sozialtherapeutischen Gespräch zu gehen, zeigt ihn die zur Betreuung von Urhebern häuslicher Gewalt befugte Organisation oder Fachperson am ersten folgenden Werktag schriftlich bei der Kantonspolizei an.
+<sup>1</sup> Hält sich die betroffene Person nicht an ihre Verpflichtung, zu den sozialtherapeutischen Gesprächen zu gehen, zeigt die befugte Organisation sie spätestens innert 7 Tagen nach dem letzten Kontakt oder Kontaktversuch schriftlich mit Kopie an das Zivilgericht, wenn dieses die Massnahme verfügt hat, bei der Kantonspolizei an.
 
 #### Art. 17
 
 **Kosten**
 
-<sup>1</sup> Das sozialtherapeutische Gespräch wird dem Urheber zum Tarif und gemäss den im Leistungsauftrag zwischen dem Departement und der befugten Organisation oder Fachperson festgelegten Modalitäten in Rechnung gestellt.
+<sup>1</sup> Die drei ersten obligatorischen Gespräche werden dem Departement in Rechnung gestellt.
 
-<sup>2</sup> Befindet sich der Urheber in der Grundausbildung oder ist er Bezüger von Sozialhilfeleistungen oder AHV/IV-Ergänzungsleistungen, so wird das Gespräch dem Departement fakturiert.
+<sup>2</sup> …
 
-### 7. Abschnitt: Finanzierung der Betreuung der Urheber und
+<sup>3</sup> Ist dieselbe Person innerhalb von 12 Monaten von einer erneuten polizeilich oder zivilgerichtlich verfügten Fernhaltemassnahme betroffen, werden die drei neuen obligatorischen Gespräche gemäss den im Leistungsauftrag zwischen dem Departement und der befugten Organisation festgelegten Modalitäten ihr selbst in Rechnung gestellt. In diesen Modalitäten sind Bedingungen zur Berücksichtigung der finanziellen Situation der Person festgelegt, namentlich wenn sie sich in der Erstausbildung befindet oder Sozialhilfe oder Ergänzungsleistungen zur AHV/IV bezieht.
 
-der spezialisierten Betreuung der Familien
+## 7 Finanzierung der Betreuung der gewaltausübenden Personen und der spezialisierten Betreuung der Familien
 
 #### Art. 18
 
 **Staatliche Unterstützung**
 
-Um die Umsetzung von Massnahmen zur Betreuung der Urheber und die spezialisierte Betreuung der Familien zu unterstützen, kann das Departement mit Organisationen und/oder Fachleuten Leistungsaufträge zu einem maximalen Satz von 80 Prozent der anerkannten Kosten abschliessen.
+<sup>1</sup> Um die Umsetzung von Massnahmen zur Betreuung der gewaltausübenden Personen und die spezialisierte Betreuung der Familien zu unterstützen, kann das Departement mit Organisationen Leistungsaufträge abschliessen.
 
 #### Art. 19
 
 **Kosten**
 
-<sup>1</sup> Das Departement legt eine Skala der finanziellen Beteiligung anhand des monatlichen Einkommens des Begünstigten und unter Berücksichtigung der Kosten, die er für seine Kinder trägt, fest, die auf alle nicht von dessen Grundversicherung (KVG) übernommenen Kosten angewandt wird. Das erste Gespräch ist kostenlos.
+<sup>1</sup> Das Departement legt für die nicht von der Grundversicherung (KVG) übernommenen Leistungen eine finanzielle Beteiligung des Begünstigten fest, die den Zugang zu einem niederschwelligen Angebot gewährleistet. Das erste freiwillige Gespräch ist kostenlos, wenn es nicht auf drei bereits vom Departement übernommene obligatorische Gespräche folgt.
 
-<sup>2</sup> Befindet sich der Begünstigte (Urheber, Familie) in der Grundausbildung oder ist er Bezüger von Sozialhilfeleistungen oder AHV/IV-Ergänzungsleistungen, so kommt der Mindesttarif zur Anwendung.
+<sup>2</sup> …
 
-### 8. Abschnitt: Ereignisregister
+## 8 Datensammlung zu statistischen Zwecken
 
 #### Art. 20
 
-**Zweck**
+**Organisation**
 
-<sup>1</sup> Das zentralisierte und anonyme Register der Ereignisse von häuslicher Gewalt wird vom Amt geführt und dient der Erstellung von Statistiken.
+<sup>1</sup> Die zentralisierte und anonyme Sammlung der Daten über häusliche Gewalt wird vom Amt koordiniert und dient der Erstellung von Statistiken.
 
 <sup>2</sup> Die Regeln des GIDA kommen zur Anwendung.
 
@@ -328,35 +329,27 @@ Um die Umsetzung von Massnahmen zur Betreuung der Urheber und die spezialisierte
 
 **Betroffene Institutionen**
 
-Die öffentlichen oder privaten Institutionen, welche die nötigen Informationen für die Führung des Ereignisregisters übermitteln müssen, sind insbesondere:
+<sup>1</sup> Die öffentlichen oder privaten Institutionen, welche die nötigen Informationen zur Erstellung der Statistiken übermitteln müssen, sind insbesondere:
 
 - a) die Opferhilfe-Beratungsstellen;
-
 - b) die Kantonspolizei;
-
-- c) die Justiz- und Strafverfolgungsbehörden;
-
+- c) die zivilgerichtlichen Behörden sowie die Strafverfolgungs-und Strafvollzugsbehörden;
+- c<sup>bis</sup>) die KESB;
 - d) die Spitäler;
-
-- e) die psychiatrischen Einrichtungen;
-
-- f) die kantonale Dienststelle für die Jugend;
-
-- g) die Betreuungsstrukturen für Opfer und Urheber;
-
+- e) …
+- f) die Kantonale Dienststelle für die Jugend;
+- g) die Betreuungsstrukturen und Notunterkünfte für gewaltbetroffene Personen;
 - h) die sozialmedizinischen Zentren;
+- i) …
+- j) die Beratungsstellen für Personen, die in der Beziehung oder innerhalb ihrer Familie Gewalt ausüben.
 
-- i) die KESB;
-
-- j) die zur Betreuung von Urhebern befugten Organisationen.
-
-### 9. Abschnitt: Schlussbestimmungen
+## 9 Schlussbestimmungen
 
 #### Art. 22
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten der vorliegenden Verordnung werden alle ihr widersprechenden Bestimmungen sowie die Artikel 25a, 25b und 25c der Verordnung zum Gesetz über die Kantonspolizei vom 1. Oktober 1986 aufgehoben.
+<sup>1</sup> Mit dem Inkrafttreten der vorliegenden Verordnung werden alle ihr widersprechenden Bestimmungen sowie die Artikel 25a, 25b und 25c der Verordnung zum Gesetz über die Kantonspolizei vom 1. Oktober 1986 aufgehoben.
 
 #### Art. 23
 
@@ -366,10 +359,4 @@ Mit dem Inkrafttreten der vorliegenden Verordnung werden alle ihr widersprechend
 
 <sup>2</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt gleichzeitig mit dem Gesetz in Kraft.
 
-So beschlossen im Staatsrat zu Sitten, den 14. September 2016.
-
-Die Präsidentin des Staatsrates: Esther Waeber-Kalbermatten Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Verordnung über häusliche Gewalt vom 14. Abl. Nr. 39/2016; 01.01.2017 September 2014 (VhG) Abl. Nr. 4/2016
+CSW BO/Abl. 4/2016, 39/2016

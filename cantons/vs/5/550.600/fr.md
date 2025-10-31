@@ -4,53 +4,53 @@ number: "550.600"
 title: Ordonnance sur les violences domestiques
 short: OVD
 language: fr
-version: 2017-01-01
-corrected: 2017-09-13
-version_adopted: 2016-09-14
+version: 2025-11-01
+valid_until: 2026-04-30
+version_adopted: 2025-10-29
 adopted: 2016-09-14
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.600"
-pdf: "https://lex.vs.ch/api/fr/versions/378/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3527/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur les violences domestiques (OVD)
+# Ordonnance sur les violences domestiques
 
-du 14 septembre 2016
+(OVD)
+
+du 14.09.2016 (état 01.11.2025)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 57 alinéa 2 de la Constitution cantonale, vu les dispositions de la loi sur les violences domestiques du 18 décembre 2015;
+vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-sur proposition du Département des finances et des institutions,
+vu les dispositions de la loi sur les violences domestiques du 18 décembre 2015;
 
-ordonne:[^t-1]
+sur proposition du département en charge des affaires sociales,
 
-[^t-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+ordonne:[^ingress-1]
 
-### Section 1: Dispositions générales
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Objet et champ d'application**
 
-La présente ordonnance précise les dispositions de la loi sur les violences domestiques du 18 décembre 2015 (ci-après: loi) et règle:
+<sup>1</sup> La présente ordonnance précise les dispositions de la loi sur les violences domestiques du 18 décembre 2015 (ci-après: loi) et règle:
 
-- a) les tâches et compétences de l'Office cantonal de l'égalité et de la famille (ci-après: Office), la composition, les attributions et le fonctionnement de la Commission consultative contre les violences domestiques (ci-après: Commission) et des Groupes régionaux contre les violences domestiques (ci-après: Groupes régionaux);
-
-- b) la procédure d'évaluation des risques et de gestion coordonnée des menaces;
-
+- a) les tâches et compétences de l'Office cantonal de l'égalité et de la famille (ci-après: Office), la composition, les attributions et le fonctionnement de la Commission consultative (ci-après: Commission) et des Groupes régionaux de lutte contre les violences domestiques (ci-après: Groupes régionaux);
+- b) les modalités d'application de l'échange d'informations et de la détection précoce des risques;
+- b <sup>bis</sup>) la prise de contact après une intervention de police;
 - c) la procédure et les conditions d'attribution des aides financières;
+- d) les modalités d'exécution des entretiens socio-thérapeutiques obligatoires;
+- e) les modalités du financement de l'accompagnement des personnes exerçant des violences et de la prise en charge spécialisée des familles;
+- f) la liste des institutions concernées par la récolte de données à but statistique;
+- g) le service cantonal compétent au sens de l'article 55a alinéa 2 du Code pénal (CP).
 
-- d) les modalités d'exécution de l'entretien socio-thérapeutique;
-
-- e) les modalités du financement de l'accompagnement des auteurs et de la prise en charge spécialisée des familles;
-
-- f) la liste des institutions concernées par le registre des évènements.
-
-### Section 2: Organisation et compétences
+## 2 Organisation et compétences
 
 #### Art. 2
 
@@ -60,127 +60,109 @@ La présente ordonnance précise les dispositions de la loi sur les violences do
 
 <sup>2</sup> Sa mission est notamment:
 
+- aa) de soutenir la mise en oeuvre d'une approche intégrée;
 - a) d'initier des programmes de prévention et de sensibilisation;
-
 - b) de soutenir des projets et organismes luttant contre les violences domestiques;
-
 - c) de soutenir et développer le réseau valaisan d'intervention contre les violences domestiques (ci-après: réseau);
-
 - d) de fournir aide et information aux professionnels confrontés à des situations de violences domestiques.
 
 <sup>3</sup> L'Office peut octroyer des aides financières dans le cadre de ses compétences financières.
 
 #### Art. 3
 
-**Commission consultative contre les violences domestiques**
+**Commission consultative de lutte contre les violences domestiques**
 
 <sup>1</sup> Sur proposition du Département, le Conseil d'Etat nomme, au début de chaque période administrative, le président et les membres de la Commission, en veillant à ce que les principaux milieux concernés soient représentés.
 
-<sup>2</sup> La Commission comprend neuf à quinze membres choisis pour leurs compétences et leur expérience dans les domaines suivants:
+<sup>2</sup> La Commission comprend neuf à seize membres choisis pour leurs compétences et leur expérience dans les domaines suivants:
 
 - a) violences domestiques;
-
-- b) soutien aux victimes;
-
+- b) soutien aux personnes concernées par les violences domestiques au sens de l'artcile 2 alinéa1 lettre b de la loi;
 - c) protection de l'enfant;
-
-- d) travail avec les auteurs de violences domestiques;
-
+- d) …
 - e) santé;
-
 - f) social;
-
+- f<sup>bis</sup>) intégration;
 - g) protection et sécurité (Police);
-
-- h) justice.
+- h) justice;
+- i) médecine légale;
+- j) exécution des peines.
 
 <sup>3</sup> Tous les membres de la Commission sont tenus au secret de fonction.
 
-<sup>4</sup> Le président définit les sujets à traiter ainsi que l'ordre du jour des séances. Il convoque les membres au minimum une fois par an. La Commission peut au besoin faire appel à des experts externes. Pour le surplus, elle s'organise elle-même de façon indépendante. Son secrétariat est assuré par l'Office.
+<sup>4</sup> La présidence, assurée par l'Office, définit les sujets à traiter ainsi que l'ordre du jour des séances. Les membres sont convoqués au minimum une fois par an. La Commission peut au besoin faire appel à des experts externes. Pour le surplus, elle s'organise elle-même de façon indépendante. Son secrétariat est assuré par l'Office.
 
 <sup>5</sup> La Commission est un organe d'appui pour la mise en oeuvre de la loi. Elle préavise des projets et élabore des recommandations. Elle est chargée d'assurer une action coordonnée des différents organismes et professionnels impliqués dans la lutte contre les violences domestiques.
 
 #### Art. 4
 
-**Groupes régionaux contre les violences domestiques**
+**Groupes régionaux de lutte contre les violences domestiques**
 
-<sup>1</sup> Le Conseil d'Etat délègue à l'Office la compétence de nommer, sur proposition de la Commission, les membres des trois Groupes régionaux: Bas-Valais, Valais central et Haut-Valais.
+<sup>1</sup> Le Conseil d'Etat délègue à l'Office la compétence de nommer les membres des trois Groupes régionaux: Bas-Valais, Valais central et Haut-Valais.
 
-<sup>2</sup> Les Groupes régionaux se composent de professionnels du terrain, notamment issus de l'aide aux victimes, des hébergements d'urgence, de la police, de la protection de l'enfant, des autorités de protection de l'enfant et de l'adulte, des centres médico-sociaux, des centres SIPE, de la justice et de l'intégration.
+<sup>2</sup> Les Groupes régionaux se composent de professionnels du terrain, notamment issus de l'aide aux personnes concernées par les violences domestiques, des hébergements d'urgence, de la police, de la protection de l'enfant, des autorités de protection de l'enfant et de l'adulte (ci-après: APEA), des centres médico-sociaux, des centres SIPE, de la justice et de l'intégration.
 
-<sup>3</sup> Les Groupes régionaux se réunissent au moins deux fois par an. Ils cherchent à optimiser la coordination des interventions pluridisciplinaires pour soutenir les victimes et plus généralement pour lutter contre les violences domestiques dans leur région.
+<sup>3</sup> Les Groupes régionaux se réunissent au moins deux fois par an. Ils cherchent à optimiser la coordination des interventions pluridisciplinaires pour soutenir les personnes concernées et plus généralement pour lutter contre les violences domestiques dans leur région.
 
-### Section 3: Evaluation des risques et gestion coordonnée des
-
-menaces
+## 3 Collaboration entre autorités et évaluation des risques
 
 #### Art. 5
 
-**Signalement d'un risque important**
+**…**
 
-<sup>1</sup> On parle de risque important de commission d'un acte de violences domestiques mettant en danger une personne, à signaler à l'autorité de protection de l'enfant et de l'adulte (ci-après: APEA) compétente, dans les situations suivantes:
+#### Art. 5a
 
-- a) il y a de sérieuses raisons de croire qu'un acte de violence domestique mettant en danger une personne a été commis et que de nouveaux actes de violence sont à craindre;
+**Détection précoce des risques et gestion des menaces**
 
-- b) un cas de violences domestiques mettant en danger une personne est connu, mais les mesures mises en place semblent insuffisantes pour réduire le risque.
+<sup>1</sup> Les services des l'Etat et les partenaires au sens de l'article 9 de la loi sont informés du processus pour solliciter l'unité de la Police cantonale en charge de la gestion des menaces.
 
-<sup>2</sup> Lorsqu'une APEA reçoit un signalement, elle en informe l'Office immédiatement, mais au plus tard dans le jour ouvrable suivant.
+<sup>2</sup> Le réseau est formé à la détection précoce d'actes de violences, et la collaboration interdisciplinaire est renforcée pour assurer des mesures coordonnées et efficaces.
 
-<sup>3</sup> Après une première analyse de la situation, en collaboration avec l'APEA, l'Office doit, au plus tard dans les dix jours ouvrables:
+#### Art. 5b
 
-- a) clore le dossier après avoir constaté que l'intervention de l'APEA, des services et des professionnels concernés est suffisant; ou
+**Service cantonal compétent au sens de l'article 55a alinéa 2 CP**
 
-- b) inviter la personne qui a signalé la situation, l'APEA, les services et les professionnels concernés à discuter du cas afin d'optimiser la prise en charge.
-
-<sup>4</sup> Une situation de danger imminent ne relève pas du présent article et doit être immédiatement signalée à la police.
-
-<sup>5</sup> Une situation de violence domestique déjà prise en charge de manière adéquate par les professionnels concernés ne doit en principe pas faire l'objet d'un signalement au sens du présent article.
+<sup>1</sup> Le service de l'application des peines et mesures (SAPEM), par son office des sanctions et des mesures d'accompagnement (OSAMA), est le service cantonal chargé des problèmes de violence domestique au sens de l'article 55a alinéa 2 CP lorsqu'une suspension de la procédure est ordonnée.
 
 #### Art. 6
 
-**Discussion de cas**
-
-<sup>1</sup> La discussion de cas vise à évaluer les risques et à prendre des mesures coordonnées. Elle a lieu aussitôt que possible, mais au plus tard dans un délai de 15 jours ouvrables après l'information de l'Office par l'APEA.
-
-<sup>2</sup> L'Office peut inviter un expert pour participer à l'évaluation de la situation.
-
-<sup>3</sup> L'Office protocole la discussion et les mesures prises et s'assure de leur suivi. Il peut organiser une nouvelle discussion si nécessaire. La personne qui a signalé la situation est informée de manière appropriée.
+**…**
 
 #### Art. 7
 
 **Traitement des données personnelles**
 
-<sup>1</sup> Les données recueillies par l'Office sont utilisées exclusivement pour le suivi de la situation signalée, dans l'intérêt des personnes concernées au sens de l'article 2 lettre b de la loi.
+<sup>1</sup> …
 
-<sup>2</sup> La victime et la personne auteure sont informées, dans deux courriers séparés et remis en mains propres, du fait que des données ont été recueillies et dans quel but. Cette information doit avoir lieu au plus tard un an après le signalement, sauf si elle risque de compromettre une instruction pénale ou une autre procédure d'instruction.
+<sup>1<sup>bis</sup></sup> Lors de la communication de données personnelles en application des articles 9 et 11 de la loi, la personne concernée est informée de son droit d'opposition, de traitement et de transmission si elle rend vraisemblable un intérêt digne de protection en application de la loi sur l'information du public, la protection des données et l'archivage (LIPDA). Si son opposition est rejetée, elle peut saisir le Préposé cantonal à la protection des données.
 
-<sup>3</sup> Les données concernant les situations personnelles sont conservées sous clé ou électroniquement avec un accès restreint aux seules personnes en charge de ces dossiers et une journalisation des accès électroniques est implémentée.
+<sup>2</sup> …
 
-<sup>4</sup> Les données personnelles sont conservées au moins pendant dix ans.
+<sup>2<sup>bis</sup></sup> L'information de la personne concernée peut être reportée tant que cela est susceptible d'aggraver la situation de violence ou de compromettre une procédure pénale ou une autre procédure en cours.
 
-<sup>5</sup> Les dispositions de la loi sur l'information du public, la protection des données et l'archivage du 9 octobre 2008 (ci-après: LIPDA) sont réservées.
+<sup>3</sup> …
 
-### Section 4: Aides financières
+<sup>4</sup> …
+
+<sup>5</sup> Les dispositions de la LIPDA sont réservées.
+
+## 4 Aides financières et formation
 
 #### Art. 8
 
-**Conditions d'octroi**
+**Conditions d'octroi d'une aide financière**
 
 <sup>1</sup> Les associations, organismes ou institutions luttant contre les violences domestiques peuvent bénéficier d'une aide financière aux conditions cumulatives suivantes:
 
 - a) la demande est effectuée pour un projet spécifique;
-
 - b) la demande est introduite avant la réalisation du projet;
+- c) le projet répond au but énoncé à l'article 1 de la loi.
 
-<sup>c)</sup> le projet répond au but énoncé à l'article 1 de la loi.
+<sup>2</sup> Les montants sont alloués en fonction des éléments suivants:
 
-<sup>2</sup> Les montants sont alloués en fonction:
-
-- a) de la nature et de l'importance du projet et
-
-- b) de l'autofinancement apporté par l'association, l'organisme ou l'institution concernée; et
-
-- c) du nombre de personnes bénéficiaires.
+- a) la nature et l'importance du projet,
+- b) l'autofinancement apporté par l'association, l'organisme ou l'institution concernée, et
+- c) le nombre de personnes bénéficiaires.
 
 <sup>3</sup> Ne peuvent être pris en compte les projets ayant un but commercial ou proposés par des structures poursuivant un tel but.
 
@@ -193,14 +175,12 @@ menaces
 <sup>2</sup> Elle comporte au minimum:
 
 - a) les informations utiles sur l'organisme requérant (raison sociale, statuts et rapport d'activité);
-
 - b) une description détaillée du projet précisant son but;
-
 - c) un budget détaillé et le montant requis.
 
 <sup>3</sup> L'Office peut requérir toute autre information supplémentaire nécessaire à la prise de décision et demander un préavis à la Commission.
 
-<sup>4</sup> Les décisions d'octroi ou de refus d'aides financières sont susceptibles de recours au Conseil d'Etat dans les 30 jours à compter de leur notification. Les dispositions de la loi sur la procédure et la juridiction administratives du 6 octobre 1976 (ci-après: LPJA) sont applicables.
+<sup>4</sup> Les décisions d'octroi ou de refus d'aides financières sont susceptibles de recours au Conseil d'Etat dans les 30 jours à compter de leur notification. Les dispositions de la loi sur la procédure et la juridiction administratives (LPJA) sont applicables.
 
 #### Art. 10
 
@@ -210,119 +190,138 @@ menaces
 
 <sup>2</sup> L'Office s'assure que l'aide financière soit utilisée conformément à son but et procède aux contrôles des comptes.
 
-### Section 5: Expulsion des auteurs d'actes de violences
+#### Art. 10a
 
-domestiques
+**Mesures de formation**
+
+<sup>1</sup> Les milieux professionnels concernés au sens de l'article 14 alinéa 3 de la loi sont notamment:
+
+- a) la police;
+- b) le pouvoir judiciaire;
+- c) la protection de l'enfant;
+- d) le milieu médical (privé, hospitalier et soins à domicile);
+- e) l'enseignement et la formation professionnelle;
+- f) l'éducation (petite enfance à l'adolescence);
+- g) l'éducation spécialisée et l'accompagnement des personnes en situation de handicap;
+- h) l'action sociale et les structures en faveur des personnes migrantes.
+
+## 4a Information des personnes à la suite d'une intervention de police
+
+## 5 Mesures d'éloignement des personnes présumées avoir exercé un acte de violences domestiques
 
 #### Art. 11
 
-**Décision d'expulsion**
+**Décision d'expulsion et mesures d'interdiction de contact et d'accès à un périmètre prononcées par la police**
 
-<sup>1</sup> L'officier de service ordonne l'audition de la victime et de l'auteur d'un acte de violences domestiques; l'occasion leur est donnée de s'exprimer sur une mesure d'expulsion immédiate.
+<sup>1</sup> L'officier de service de la Police cantonale ordonne l'audition de la personne ayant subi des violences et de celle présumée les avoir exercées; l'occasion leur est donnée de s'exprimer sur une mesure d'expulsion immédiate, une mesure d'interdiction de contact et une mesure d'interdiction d'accéder à un périmètre déterminé. Ces mesures peuvent être ordonnées ensemble ou séparément.
 
-<sup>2</sup> L'expulsion est prononcée séance tenante par écrit, pour 7 jours au moins et 14 jours au plus. Cette durée ne peut pas être prolongée.
+<sup>2</sup> Les mesures sont prononcées séance tenante par écrit, pour 14 jours au moins et 21 jours au plus. La durée prononcée ne peut pas être modifiée par la police.
 
-<sup>3</sup> L'intéressé peut faire recours contre la décision d'expulsion auprès d'un juge du Tribunal cantonal. La LPJA est applicable; toutefois, le recours de droit administratif n'a pas d'effet suspensif sauf décision contraire du juge saisi.
+<sup>3</sup> La personne sous le coup d'une mesure peut faire recours contre la décision auprès d'un juge du Tribunal cantonal. La LPJA est applicable; toutefois, le recours de droit administratif n'a pas d'effet suspensif sauf décision contraire du juge saisi.
 
 <sup>4</sup> La police cantonale:
 
-- a) communique séance tenante à la victime un double de sa décision;
+- a) communique séance tenante à la personne ayant subi des violences un double de sa décision;
+- b) la rend attentive au fait que la mesure prend fin à l'expiration de la durée fixée;
+- c) l'informe de son droit de requérir du juge civil une mesure de protection au sens des articles 28b et suivants du Code civil (CC) dans un délai n'excédant pas la durée de validité de la ou des mesures;
+- d) communique, dans les 24 heures, un double de sa décision au juge civil compétent pour les mesures de protection;
+- e) notifie à la personne sous le coup de la ou des mesures son obligation de suivre trois entretiens socio-thérapeutiques auprès d'un organisme habilité à recevoir des personnes exerçant des violences domestiques et la rend attentive aux conséquences pénales en cas de non-respect. La police communique une copie de la décision à l'organisme habilité.
 
-- b) la rend attentive au fait que la mesure d'expulsion prend fin à l'expiration de la durée fixée;
+#### Art. 11a
 
-- c) l'informe de son droit de requérir du juge civil une mesure de protection au sens des articles 28 b et suivants du code civil suisse dans un délai n'excédant pas la durée de validité de l'expulsion;
+**Mesure de protection prononcée par un tribunal civil**
 
-- d) communique, dans les 24 heures, un double de sa décision au juge civil compétent pour la mesure de protection;
+<sup>1</sup> La décision d'interdiction de contact, de périmètre et/ou de fréquenter certains lieux prononcée par un tribunal civil sur la base de l'article 28b CC indique à la personne éloignée son obligation de suivre trois entretiens socio-thérapeutiques avec un organisme habilité au sens de l'article 18 de la loi et la rend attentive aux conséquences pénales en cas de non-respect.
 
-- e) notifie à la personne expulsée son obligation de prendre contact, dans les 3 jours ouvrables, avec un organisme ou un professionnel habilité à recevoir des auteurs de violences domestiques pour convenir d'un entretien socio-thérapeutique et la rend attentive aux conséquences pénales en cas de non-respect.
+<sup>2</sup> Une copie de la décision est communiquée à l'organisme habilité.
 
 #### Art. 12
 
 **Exécution de la décision d'expulsion**
 
-<sup>1</sup> Sous la surveillance d'un agent de la police, l'auteur peut emporter les objets dont il a absolument besoin.
+<sup>1</sup> Sous la surveillance d'un agent de la police, la personne expulsée peut emporter les objets dont elle a absolument besoin.
 
-<sup>2</sup> Il doit déposer toutes les clés donnant accès au logement auprès de l'agent de la police.
+<sup>2</sup> Elle doit se dessaisir de tous les moyens d'accès au logement auprès de l'agent de la police.
 
-<sup>3</sup> Il doit fournir une adresse à laquelle des notifications peuvent lui être adressées.
+<sup>3</sup> Elle doit fournir une adresse à laquelle des notifications peuvent lui être adressées.
 
 <sup>4</sup> Au besoin, un lieu d'hébergement lui est proposé.
 
-<sup>5</sup> Il est informé de l'utilité et des possibilités d'aides appropriées afin de prévenir la récidive.
+<sup>5</sup> Elle est informée de l'utilité et des possibilités d'aides appropriées afin de prévenir la récidive.
 
 <sup>6</sup> En cas d'opposition à la décision d'expulsion, la police peut faire usage de la force.
 
 #### Art. 13
 
-**Aide aux victimes d'infractions**
+**Aide aux personnes ayant subi des violences domestiques**
 
-<sup>1</sup> La police informe sans délai la victime des aides dont elle peut bénéficier auprès d'un centre de consultation pour les victimes d'infraction (centre LAVI).
+<sup>1</sup> La police ou le tribunal civil informe sans délai la personne ayant subi des violences des aides dont elle peut bénéficier.
 
-<sup>2</sup> Si une mesure d'expulsion s'avère inappropriée, la police prend sans délai les mesures urgentes nécessaires, notamment en dénonçant l'auteur au ministère public ou en intervenant auprès de l'APEA compétente.
+<sup>2</sup> …
 
-### Section 6: Entretien socio-thérapeutique
+## 6 Entretiens socio-thérapeutiques obligatoires au sens de l'article 18 de la loi
 
 #### Art. 14
 
-**Organisme ou professionnel habilité**
+**Organisme habilité**
 
-<sup>1</sup> Le Conseil d'Etat, sur proposition du Département, habilite des organismes et/ou professionnels à recevoir les auteurs de violences domestiques pour un entretien socio-thérapeutique.
+<sup>1</sup> Le Conseil d'Etat, sur proposition du Département, habilite des organismes à recevoir les personnes présumées avoir exercé des violences domestiques pour les entretiens socio-thérapeutiques obligatoires.
 
-<sup>2</sup> Le Département peut établir un mandat de prestations avec un organisme ou des professionnels habilités lorsqu'ils répondent aux conditions cumulatives suivantes:
+<sup>2</sup> Le Département peut établir un mandat de prestations avec un organisme habilité lorsqu'il répond aux conditions cumulatives suivantes:
 
-- a) être au bénéfice d'une formation spécialisée;
-
-- b) posséder l'expérience pratique nécessaire;
-
-- c) ne pas avoir fait l'objet de sanction administrative ou de condamnation pénale pouvant mettre en doute sa fiabilité pour l'exécution du mandat.
+- a) les personnes en charge des entretiens sont au bénéfice d'une formation spécialisée;
+- b) elles possèdent l'expérience pratique nécessaire;
+- c) elles n'ont pas fait l'objet de sanction administrative ou de condamnation pénale pouvant mettre en doute leur fiabilité pour l'exécution du mandat.
 
 #### Art. 15
 
 **But et contenu**
 
-<sup>1</sup> L'entretien socio-thérapeutique a pour objectif de permettre à la personne expulsée d'évaluer sa situation et de l'informer des conséquences de la violence pour la victime, leurs proches et pour elle-même.
+<sup>1</sup> Les entretiens socio-thérapeutiques visent à permettre à la personne d'évaluer sa situation. Les objectifs sont de l'informer des conséquences de la violence pour les personnes concernées et d'initier un travail de responsabilisation axé sur l'arrêt de la violence.
 
-<sup>2</sup> L'entretien doit avoir lieu rapidement, mais au plus tard dans les sept jours ouvrables suivant l'expulsion.
+<sup>2</sup> Le premier entretien doit avoir lieu rapidement, mais au plus tard dans les 7 jours ouvrables suivant l'expulsion ou la mesure d'éloignement. Les deux entretiens suivants ont lieu dans un délai de 3 mois.
+
+<sup>3</sup> L'organisme habilité informe sans délai la police s'il ne parvient pas à contacter la personne ou si cette dernière ne se présente pas à un entretien sans explication.
 
 #### Art. 16
 
 **Violation**
 
-Si l'auteur ne respecte pas son obligation de se rendre à un entretien socio-thérapeutique, l'organisme ou le professionnel habilité à recevoir les auteurs de violence domestique le dénonce par écrit à la police cantonale le premier jour ouvrable suivant.
+<sup>1</sup> Si la personne ne respecte pas son obligation de se rendre aux entretiens socio-thérapeutiques, l'organisme habilité la dénonce par écrit à la police cantonale, en copie au tribunal civil si ce dernier a prononcé la mesure, au plus tard ans les 7 jours après le dernier contact ou la dernière tentative de contact.
 
 #### Art. 17
 
 **Frais**
 
-<sup>1</sup> L'entretien est facturé à l'auteur au tarif et selon les modalités définies dans le mandat de prestations entre le Département et l'organisme ou les professionnels habilités.
+<sup>1</sup> Les trois premiers entretiens obligatoires sont facturés au Département.
 
-<sup>2</sup> Lorsque l'auteur est en formation initiale, au bénéfice de l'aide sociale ou de prestations complémentaires AVS/AI, l'entretien est facturé au Département.
+<sup>2</sup> …
 
-### Section 7: Financement de l'accompagnement des auteurs et de
+<sup>3</sup> Lorsque la même personne fait l'objet d'une nouvelle mesure d'éloignement prononcée par la police ou un tribunal civil dans un délai de 12 mois suivant la précédente, les trois nouveaux entretiens obligatoires lui sont facturés selon les modalités définies dans le mandat de prestations entre le Département et l'organisme habilité. Ces modalités prévoient des conditions tenant compte de la situation financière de la personne, notamment si elle est en formation initiale, au bénéfice de l'aide sociale ou de prestations complémentaires AVS/AI
 
-la prise en charge spécialisée des familles
+## 7 Financement de l'accompagnement des personnes exerçant des violences et de la prise en charge spécialisée des familles
 
 #### Art. 18
 
 **Soutien de l'Etat**
 
-Afin de soutenir la mise en place de mesures d'accompagnement des auteurs et la prise en charge spécialisées des familles, le Département peut établir des mandats de prestations au taux maximum de 80 pour cent des frais reconnus avec des organismes et/ou professionnels.
+<sup>1</sup> Afin de soutenir la mise en place de mesures d'accompagnement des personnes exerçant des violences et la prise en charge spécialisées des familles, le Département peut établir des mandats de prestations avec des organismes.
 
 #### Art. 19
 
 **Frais**
 
-<sup>1</sup> Un barème de participation financière en fonction du revenu mensuel net du bénéficiaire et tenant compte des charges qu'il assume pour ses enfants est fixé par le Département et appliqué à tous les frais non pris en charge par son assurance-maladie de base (LAMal). Le premier entretien est gratuit.
+<sup>1</sup> Une participation financière du bénéficiaire garantissant un accès à bas seuil est fixée par le Département pour les prestations non prises en charge par l'assurance-maladie de base (LAMal). Le premier entretien volontaire est gratuit s'il ne fait pas suite à trois entretiens obligatoires déjà pris en charge par le Département.
 
-<sup>2</sup> Lorsque le bénéficiaire (auteur, famille) est en formation initiale, au bénéfice de l'aide sociale ou de prestations complémentaires AVS/AI, le tarif minimum lui est appliqué.
+<sup>2</sup> …
 
-### Section 8: Registre des évènements
+## 8 Récolte de données à but statistique
 
 #### Art. 20
 
-**Objectif**
+**Organisation**
 
-<sup>1</sup> Le registre centralisé et anonyme des évènements de violences domestiques est tenu par l'Office et a pour objectif d'établir des statistiques.
+<sup>1</sup> La récolte centralisée et anonyme des données concernant les violences domestiques est coordonnée par l'Office et a pour objectif d'établir des statistiques.
 
 <sup>2</sup> Les règles de la LIPDA s'appliquent.
 
@@ -330,35 +329,27 @@ Afin de soutenir la mise en place de mesures d'accompagnement des auteurs et la 
 
 **Institutions concernées**
 
-Les institutions publiques ou privées tenues de transmettre les informations nécessaires à la tenue du registre des événements, sont notamment:
+<sup>1</sup> Les institutions publiques ou privées tenues de transmettre les informations nécessaires à l'établissement des statistiques, sont notamment:
 
-- a) les centres de consultation pour les victimes d'infraction (centres LAVI);
-
+- a) les centres LAVI;
 - b) la police cantonale;
-
-- c) les autorités judiciaires et de poursuites pénales;
-
+- c) les autorités judiciaires civiles et de poursuites et d'exécution pénales;
+- c<sup>bis</sup>) les APEA;
 - d) les hôpitaux;
-
-- e) les Institutions psychiatriques;
-
+- e) …
 - f) le Service cantonal de la jeunesse;
-
-- g) les centres d'accueil pour victimes et auteurs;
-
+- g) les centres d'accueil et d'hébergement d'urgence pour les personnes ayant subi des violences domestiques;
 - h) les centres médico-sociaux;
+- i) …
+- j) les consultations pour les personnes exerçant des violences au sein du couple ou de la famille.
 
-- i) les APEA;
-
-- j) les organismes habilités à recevoir les auteurs.
-
-### Section 9: Dispositions finales
+## 9 Dispositions finales
 
 #### Art. 22
 
 **Abrogation**
 
-Dès l'entrée en vigueur de la présente ordonnance, toutes les dispositions contraires à celle-ci sont abrogées ainsi que les articles 25a, 25b et 25c de l'ordonnance de la loi sur la police cantonale du 1<sup>er</sup> octobre 1986.
+<sup>1</sup> Dès l'entrée en vigueur de la présente ordonnance, toutes les dispositions contraires à celle-ci sont abrogées ainsi que les articles 25a, 25b et 25c de l'ordonnance de la loi sur la police cantonale du 1<sup>er</sup> octobre 1986.
 
 #### Art. 23
 
@@ -368,14 +359,4 @@ Dès l'entrée en vigueur de la présente ordonnance, toutes les dispositions co
 
 <sup>2</sup> La présente ordonnance est publiée au Bulletin officiel pour entrer en vigueur à la même date que la loi.
 
-Ainsi décidé en Conseil d'Etat, à Sion, le 14 septembre 2016.
-
-La présidente du Conseil d'Etat: Esther Waeber-Kalbermatten Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**No 4/2016**
-
-vigueur Ordonnance sur les violences domestiques BO No 39/2016; BO 01.01.2017 du 14 septembre 2016 (OVD)
+RCV BO/Abl. 4/2016, 39/2016
