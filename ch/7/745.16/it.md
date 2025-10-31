@@ -4,11 +4,11 @@ title: Ordinanza del 16 ottobre 2024 sulle indennità e la presentazione dei con
 short: OITRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/609"
 language: it
-version: 2025-05-01
+version: 2025-11-01
 adopted: 2024-10-16
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2024-609-20251101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20251101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/it"
 
 (OITRV)
 
-del 16 ottobre 2024 (Stato 1° maggio 2025)
+del 16 ottobre 2024 (Stato 1° novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,10 +25,10 @@ visti gli articoli 29 capoverso 2, 30 capoverso 3, 31*a* capoverso 2, 31*a*<sup>
 
 ordina:
 
-[^ingress-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^ingress-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-3]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^ingress-4]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-2]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-3]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^ingress-4]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 [^ingress-5]: Nuovo testo giusta l’all. n. 3 dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ## Capitolo 1: Disposizioni generali
@@ -66,7 +66,7 @@ Nella presente ordinanza s’intende per:
 - e. *conto di previsione:* il conto contenuto nell’offerta presentata che documenta i costi non coperti di singole offerte di un settore o del settore nel suo insieme;
 - f. *conto degli investimenti:* la documentazione di tutte le attività svolte in relazione alla realizzazione, al rinnovo, all’ammortamento o al disinvestimento di attivi fissi.
 
-[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ## Capitolo 2: Indennità per i costi non coperti
 
@@ -133,7 +133,7 @@ Un’offerta del traffico regionale viaggiatori viene indennizzata congiuntament
 
 <sup>3</sup> Dopo aver sentito i Cantoni, l’UFT decide se le condizioni per il versamento di un’indennità congiunta per una linea sono soddisfatte. In casi eccezionali giustificati, l’UFT può approvare il versamento congiunto di un’indennità per una linea anche se non sono adempiute tutte le condizioni.
 
-[^7-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^7-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ### Sezione 3: Offerta nel traffico regionale viaggiatori
 
@@ -216,7 +216,7 @@ Ogni Cantone pianifica i bandi pubblici per le offerte da mettere a concorso con
 
 <sup>3</sup> Nei casi contemplati all’articolo 32*c* capoverso 2 LTV i committenti mettono a concorso l’offerta anche se l’importo dell’indennità è inferiore al valore soglia.
 
-[^12-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^12-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 13
 
@@ -328,7 +328,7 @@ I committenti possono chiedere informazioni su un’impresa offerente in partico
 
 <sup>4</sup> Se nove mesi prima dell’entrata in esercizio di una linea la decisione di aggiudicazione non è ancora definitiva, l’UFT decide in merito all’esercizio.
 
-[^20-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^20-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 21
 
@@ -355,7 +355,7 @@ I committenti interrompono la procedura di messa a concorso se sussistono motivi
 
 Non si prefigura un trasferimento del rapporto di lavoro secondo l’articolo 333 del Codice delle obbligazioni (CO)[^23-1] se la nuova impresa aggiudicataria impiega i dipendenti dell’impresa precedentemente incaricata in virtù dell’articolo 32*l* capoverso 3 LTV.
 
-[^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Sezione 5: Convenzioni sugli obiettivi
 
@@ -466,8 +466,8 @@ L’offerta inoltrata deve contenere:
 
 <sup>5</sup> I committenti possono richiedere ulteriori documenti, in particolare le prove relative alle condizioni di assunzione del personale, allo stato di attuazione della legge del 13 dicembre 2002[^31-2] sui disabili, alla vendita e ai punti vendita, all’offerta nel trasporto di bagagli come pure al sistema e al livello tariffali.
 
-[^31-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^31-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^31-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^31-2]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 
 #### Art. 32
 
@@ -483,7 +483,7 @@ L’offerta inoltrata deve contenere:
 
 <sup>5</sup> L’UFT disciplina la computabilità di costi e ricavi in una direttiva.
 
-[^32-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^32-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 33
 
@@ -666,11 +666,13 @@ La Confederazione può concedere fideiussioni alle imprese, nei limiti dei credi
 
 **Condizioni e obblighi**
 
-<sup>1</sup> Le fideiussioni sono concesse per il finanziamento degli investimenti relativi a prestazioni che danno diritto a un’indennità e i cui costi supplementari possono essere integrati nel conto di previsione di un’offerta in virtù dell’articolo 36 capoverso 1. L’UFT decide in merito alle deroghe d’intesa con l’Amministrazione federale delle finanze.
+<sup>1</sup> Le fideiussioni sono concesse per il finanziamento degli investimenti relativi a prestazioni che danno diritto a un’indennità e i cui costi supplementari possono essere integrati nel conto di previsione di un’offerta in virtù dell’articolo 36 capoverso 1. L’UFT decide in merito alle deroghe.[^51-1]
 
 <sup>2</sup> La Confederazione può subordinare la concessione di fideiussioni all’adozione di misure di accompagnamento nel settore dei trasporti.
 
 <sup>3</sup> L’UFT stabilisce in una direttiva le condizioni e il processo per la concessione di fideiussioni.
+
+[^51-1]: Nuovo testo giusta la cifra I n. 8 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, in vigore dal 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 52
 
@@ -704,7 +706,9 @@ La conversione deve essere richiesta all’UFT almeno tre mesi prima.
 
 <sup>1</sup> L’UFT, i Cantoni interessati e l’impresa concludono una convenzione sulla conversione o sulla sospensione del rimborso del mutuo. In essa stabiliscono le condizioni cui sono subordinate.
 
-<sup>2</sup> In caso di conversione o sospensione di mutui rimborsabili superiori a 10 milioni di franchi l’UFT agisce d’intesa con l’Amministrazione federale delle finanze.
+<sup>2</sup> ...[^56-1]
+
+[^56-1]: Abrogato dalla cifra I n. 8 dell’O del 27 ago. 2025 concernente l’abolizione dell’obbligo di approvazione o consultazione del DFF o dell’AFF statuito in 12 disposizioni che prevedono aiuti finanziari, con effetto al 1° nov. 2025 ([RU 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 ### Sezione 3: Contributi per innovazioni e per investimenti di imprese di trasporto a fune
 
@@ -952,7 +956,7 @@ Le imprese che hanno ricevuto indennità o aiuti finanziari da Confederazione e 
 
 <sup>4</sup> L’UFT stabilisce in che forma deve essere inoltrata la documentazione sulla verifica dell’impiego dei sussidi.
 
-[^66-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^66-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capitolo 6: Disposizioni finali
 

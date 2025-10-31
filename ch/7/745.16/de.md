@@ -4,11 +4,11 @@ title: Verordnung vom 16. Oktober 2024 über die Abgeltung und die Rechnungslegu
 short: ARPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/609"
 language: de
-version: 2025-05-01
+version: 2025-11-01
 adopted: 2024-10-16
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2024-609-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/de"
 
 (ARPV)
 
-vom 16. Oktober 2024 (Stand am 1. Mai 2025)
+vom 16. Oktober 2024 (Stand am 1. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 29 Absatz 2, 30 Absatz 3, 31*a* Absatz 2, 31*a*<sup>te
 
 verordnet:
 
-[^ingress-1]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^ingress-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-3]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^ingress-4]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-1]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-3]: [SR 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^ingress-4]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 [^ingress-5]: Fassung gemäss Anhang Ziff. 3 der V vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -66,7 +66,7 @@ In dieser Verordnung gelten als:
 - e. *Planrechnung:* in der Offerte enthaltene Rechnung zum Nachweis der ungedeckten Kosten einzelner Angebote einer Sparte oder der Sparte insgesamt;
 - f. *Investitionsrechnung:* Ausweis aller Vorgänge im Zusammenhang mit der Erstellung, Erneuerung, Abschreibung oder Desinvestition von Objekten des Anlagevermögens.
 
-[^2-1]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^2-1]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ## 2. Kapitel: Abgeltung der ungedeckten Kosten
 
@@ -133,7 +133,7 @@ Ein Angebot des regionalen Personenverkehrs wird gemeinsam von Bund und Kantonen
 
 <sup>3</sup> Nach Anhörung der Kantone entscheidet das BAV, ob die Voraussetzungen für eine gemeinsame Abgeltung einer Linie erfüllt sind. In begründeten Ausnahmefällen kann das BAV der gemeinsamen Abgeltung einer Linie auch zustimmen, wenn nicht alle Voraussetzungen erfüllt sind.
 
-[^7-1]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^7-1]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ### 3. Abschnitt: Angebot im regionalen Personenverkehr
 
@@ -216,7 +216,7 @@ Jeder Kanton erstellt eine Ausschreibungsplanung über die gemeinsam mit dem Bun
 
 <sup>3</sup> In Fällen nach Artikel 32*c* Absatz 2 PBG schreiben die Besteller das Angebot auch bei einem Abgeltungsbetrag unterhalb des Schwellenwertes aus.
 
-[^12-1]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^12-1]: [SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 13
 
@@ -328,7 +328,7 @@ Die Besteller können über ein offerierendes Unternehmen Erkundigungen einholen
 
 <sup>4</sup> Liegt neun Monate vor der Betriebsaufnahme einer Linie kein rechtskräftiger Vergabeentscheid vor, so entscheidet das BAV über den Betrieb der Linie.
 
-[^20-1]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^20-1]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 21
 
@@ -355,7 +355,7 @@ Die Besteller brechen das Ausschreibungsverfahren aus wichtigen Gründen ab, ins
 
 Stellt das neu beauftragte Unternehmen Arbeitnehmerinnen und Arbeitnehmer des bisher beauftragten Unternehmens aufgrund von Artikel 32*l* Absatz 3 PBG an, so handelt es sich dabei nicht um einen Übergang des Arbeitsverhältnisses nach Artikel 333 des Obligationenrechts (OR)[^23-1].
 
-[^23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 5. Abschnitt: Zielvereinbarungen
 
@@ -466,8 +466,8 @@ Die Offerte muss enthalten:
 
 <sup>5</sup> Die Besteller können weitere Unterlagen verlangen, insbesondere Nachweise zu den Anstellungsbedingungen des Personals, zum Stand der Umsetzung des Behindertengleichstellungsgesetzes vom 13. Dezember 2002[^31-2], zum Verkauf und zu den Verkaufsstellen, zum Angebot im Transport von Reisegepäck sowie zum Tarifsystem und Tarifniveau.
 
-[^31-1]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^31-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^31-1]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^31-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 
 #### Art. 32
 
@@ -483,7 +483,7 @@ Die Offerte muss enthalten:
 
 <sup>5</sup> Das BAV regelt die Anrechenbarkeit von Kosten und Erlösen in einer Richtlinie.
 
-[^32-1]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^32-1]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 33
 
@@ -666,11 +666,13 @@ Für die Finanzierung von Investitionen im regionalen Personenverkehr kann der B
 
 **Voraussetzungen und Auflagen**
 
-<sup>1</sup> Bürgschaften werden für die Finanzierung von Investitionen gewährt, die abgeltungsberechtigten Leistungen dienen und deren Folgekosten nach Artikel 36 Absatz 1 in die Planrechnung einer Offerte aufgenommen werden dürfen. Über Ausnahmen entscheidet das BAV im Einvernehmen mit der Eidgenössischen Finanzverwaltung.
+<sup>1</sup> Bürgschaften werden für die Finanzierung von Investitionen gewährt, die abgeltungsberechtigten Leistungen dienen und deren Folgekosten nach Artikel 36 Absatz 1 in die Planrechnung einer Offerte aufgenommen werden dürfen. Über Ausnahmen entscheidet das BAV.[^51-1]
 
 <sup>2</sup> Der Bund kann die Gewährung der Bürgschaften von flankierenden Massnahmen im Verkehrsbereich abhängig machen.
 
 <sup>3</sup> Das BAV legt die Voraussetzungen und den Prozess der Gewährung von Bürgschaften in einer Richtlinie fest.
+
+[^51-1]: Fassung gemäss Ziff. I 8 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, in Kraft seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 52
 
@@ -704,7 +706,9 @@ Die Umwandlung ist spätestens drei Monate zum Voraus beim BAV zu beantragen.
 
 <sup>1</sup> Das BAV, die beteiligten Kantone und das Unternehmen schliessen eine Vereinbarung über die Umwandlung oder Sistierung der Rückzahlung des Darlehens ab. Darin legen sie die damit verbundenen Auflagen fest.
 
-<sup>2</sup> Bei der Umwandlung oder Sistierung von rückzahlbaren Darlehen über 10 Millionen Franken handelt das BAV im Einvernehmen mit der Eidgenössischen Finanzverwaltung.
+<sup>2</sup> …[^56-1]
+
+[^56-1]: Aufgehoben durch Ziff. I 8 der V vom 27. Aug. 2025 über die Aufhebung des Erfordernisses der Zustimmung oder der Anhörung des EFD oder der ESTV betreffend zwölf Subventionen, mit Wirkung seit 1. Nov. 2025 ([AS 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 ### 3. Abschnitt: Beiträge für Innovationen sowie für Investitionen von Seilbahnunternehmen
 
@@ -952,7 +956,7 @@ Unternehmen mit Abgeltungen oder Finanzhilfen von Bund und Kantonen müssen dem 
 
 <sup>4</sup> Das BAV legt fest, in welcher Form die Unterlagen zur subventionsrechtlichen Prüfung einzureichen sind.
 
-[^66-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^66-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 6. Kapitel: Schlussbestimmungen
 

@@ -4,11 +4,11 @@ title: Ordonnance du 16 octobre 2024 sur l’indemnisation et la présentation d
 short: OITRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/609"
 language: fr
-version: 2025-05-01
+version: 2025-11-01
 adopted: 2024-10-16
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-609-20250501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/609/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-609-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/609/20250501/fr"
 
 (OITRV)
 
-du 16 octobre 2024 (État le 1<sup>er</sup> mai 2025)
+du 16 octobre 2024 (État le 1<sup>er</sup> novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu les art. 29, al. 2, 30, al. 3, 31*a*, al. 2, 31*a*<sup>ter</sup>, al. 3, 31*a
 
 arrête:
 
-[^ingress-1]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^ingress-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-3]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^ingress-4]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-1]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-2]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-3]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^ingress-4]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 [^ingress-5]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ## Chapitre 1 Dispositions générales
@@ -66,7 +66,7 @@ Au sens de la présente ordonnance, on entend par:
 - e. *compte prévisionnel*: dans l’offre, l’attestation des coûts non couverts des différentes offres de prestations d’un secteur ou de l’ensemble des offres de prestations d’un secteur;
 - f. *compte des investissements*: l’attestation de toutes les démarches entreprises lors de l’établissement, du remplacement, de l’amortissement ou du désinvestissement survenus sur des biens qui font partie de l’actif immobilisé.
 
-[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^2-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ## Chapitre 2 Indemnisation des coûts non couverts
 
@@ -133,7 +133,7 @@ La Confédération et les cantons indemnisent conjointement une offre de prestat
 
 <sup>3</sup> Après avoir entendu les cantons, l’OFT décide si les conditions de l’indemnisation commune d’une ligne sont remplies. Dans des cas exceptionnels motivés, l’OFT peut approuver l’indemnisation commune d’une ligne même si les conditions ne sont pas toutes remplies.
 
-[^7-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^7-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ### Section 3 Offre de prestations du transport régional de voyageurs
 
@@ -216,7 +216,7 @@ Chaque canton dresse une planification des mises au concours des offres de prest
 
 <sup>3</sup> Dans les cas visés à l’art. 32*c*, al. 2, LTV, les commanditaires mettent au concours l’offre de prestations même si le montant de l’indemnité n’atteint pas la valeur seuil.
 
-[^12-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^12-1]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 
 #### Art. 13
 
@@ -328,7 +328,7 @@ Les commanditaires peuvent s’informer sur une entreprise soumissionnaire, nota
 
 <sup>4</sup> Si aucune décision d’adjudication n’est entrée en force neuf mois avant la mise en service d’une ligne, l’OFT statue sur l’exploitation de la ligne.
 
-[^20-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^20-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 21
 
@@ -355,7 +355,7 @@ Les commanditaires interrompent la procédure de mise au concours pour des motif
 
 Si la nouvelle entreprise engage des employés de l’entreprise précédemment mandatée en vertu de l’art. 32*l*, al. 3, LTV, il ne s’agit pas d’un transfert des rapports de travail tel que visé à l’art. 333 du code des obligations (CO)[^23-1].
 
-[^23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 5 Conventions d’objectifs
 
@@ -466,8 +466,8 @@ Les offres comprennent:
 
 <sup>5</sup> Les commanditaires peuvent exiger des documents supplémentaires, notamment des preuves quant aux conditions d’engagement du personnel, à l’état d’avancement de la mise en œuvre de la loi du 13 décembre 2002 sur l’égalité pour les handicapés[^31-2], à la vente et aux points de vente, aux offres de transport de bagages ainsi qu’au système et au niveau tarifaires.
 
-[^31-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^31-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^31-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^31-2]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 
 #### Art. 32
 
@@ -483,7 +483,7 @@ Les offres comprennent:
 
 <sup>5</sup> L’OFT règle dans une directive l’imputabilité des coûts et des recettes.
 
-[^32-1]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^32-1]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 33
 
@@ -666,11 +666,13 @@ La Confédération peut accorder, dans le cadre des crédits alloués, des cauti
 
 **Conditions et charges**
 
-<sup>1</sup> Les cautionnements de la Confédération sont accordés pour financer les investissements qui servent à fournir des prestations donnant droit à des indemnités et dont les coûts subséquents peuvent être imputés au compte prévisionnel d’une offre conformément à l’art. 36, al. 1. L’OFT décide des exceptions en accord avec l’Administration fédérale des finances.
+<sup>1</sup> Les cautionnements de la Confédération sont accordés pour financer les investissements qui servent à fournir des prestations donnant droit à des indemnités et dont les coûts subséquents peuvent être imputés au compte prévisionnel d’une offre conformément à l’art. 36, al. 1. L’OFT décide des exceptions.[^51-1]
 
 <sup>2</sup> La Confédération peut subordonner l’octroi de cautionnements à des mesures d’accompagnement dans le domaine des transports.
 
 <sup>3</sup> L’OFT définit dans une directive les conditions et le processus d’octroi des cautionnements.
+
+[^51-1]: Nouvelle teneur selon le ch. I 8 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 #### Art. 52
 
@@ -704,7 +706,9 @@ La conversion doit être demandée à l’OFT au moins trois mois à l’avance.
 
 <sup>1</sup> L’OFT, les cantons concernés et l’entreprise concluent une convention de conversion ou de suspension du remboursement du prêt. Ils y définissent les charges qui en découlent.
 
-<sup>2</sup> En cas de conversion ou de suspension de prêts remboursables supérieurs à 10 millions de francs, l’OFT demande l’accord de l’Administration fédérale des finances.
+<sup>2</sup> …[^56-1]
+
+[^56-1]: Abrogé par le ch. I 8 de l’O du 27 août 2025 relative à la suppression de l’exigence d’approbation ou de consultation du DFF ou de l’AFF concernant douze subventions, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 550](https://fedlex.data.admin.ch/eli/oc/2025/550)).
 
 ### Section 3 Contributions à l’innovation et aux investissements des entreprises de transport à câbles
 
@@ -952,7 +956,7 @@ Les entreprises qui perçoivent des indemnités ou des aides financières de la 
 
 <sup>4</sup> L’OFT fixe sous quelle forme les documents pour la vérification sous l’angle du droit des subventions doivent être transmis.
 
-[^66-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^66-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 6 Dispositions finales
 
