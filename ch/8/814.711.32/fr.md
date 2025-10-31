@@ -3,18 +3,18 @@ sr: "814.711.32"
 title: Ordonnance du DFI du 24 mars 2021 sur les attestations de compétences pour les traitements à visées esthétiques à l’aide de rayonnement non ionisant et de son
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/207"
 language: fr
-version: 2025-04-01
+version: 2025-11-01
 adopted: 2021-03-24
 in_force: 2021-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-207-20250401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-207-20251101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20251101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les attestations de compétences pour les traitements à visées esthétiques à l’aide de rayonnement non ionisant et de son
 
-du 24 mars 2021 (État le 1<sup>er</sup> avril 2025)
+du 24 mars 2021 (État le 1<sup>er</sup> novembre 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -22,7 +22,7 @@ vu l’art. 9, al. 2, de l’ordonnance du 27 février 2019 relative à la loi f
 
 arrête:
 
-[^ingress-1]: [RS 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
+[^ingress-1]: [RS 814.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9587)
 
 #### Art. 1
 
@@ -50,11 +50,23 @@ Quiconque veut faire inscrire une attestation de compétences dans l’annexe so
 Les organismes responsables de l’examen mentionnés en annexe remettent annuellement à l’OFSP, avant le 31 octobre:
 
 - a. une statistique indiquant le pourcentage des examens réussis et non réussis;
-- b. les données concernant les formations et examens planifiés pour l’année suivante.
+- b.[^3-1] …
 
 <sup>2</sup> Les organismes responsables de l’examen communiquent à l’OFSP, dans un délai d’un mois après les examens, le nom des personnes auxquelles ils ont délivré une attestation de compétences; ils spécifient les données indiquées dans l’annexe, ch. 2.
 
 <sup>3</sup> Les organismes responsables de l’examen informent sans délai l’OFSP de toute modification des documents cités à l’art. 2.
+
+[^3-1]: Abrogée par le ch. I de l’O du DFI du 19 sept. 2025, avec effet au 1<sup>er</sup> nov. 2025 ([RO 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
+
+#### Art. 3a
+
+**Évaluation des formations et des examens**[^3a-1]
+
+<sup>1</sup> Les organismes responsables de l’examen sont tenus de procéder à des évaluations régulières afin de garantir la qualité des formations et des examens. À cette fin, ils interrogent les personnes soumises à l’examen après chaque cycle de formation à l’aide d’un questionnaire établi par l’OFSP, évaluent les réponses et consignent les résultats.
+
+<sup>2</sup> En se fondant sur les résultats des évaluations, ils doivent vérifier à intervalles réguliers la planification et le contenu des cours, les processus internes et externes, la méthode d’enseignement et la documentation concernant la formation et les examens, et les adapter, si nécessaire.
+
+[^3a-1]: Introduit par le ch. I de l’O du DFI du 19 sept. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 #### Art. 4
 
@@ -62,7 +74,27 @@ Les organismes responsables de l’examen mentionnés en annexe remettent annuel
 
 <sup>1</sup> Les organismes responsables de l’examen adaptent la documentation aux plans et aux contenus de formation ainsi qu’au règlement d’examen actuels, conformément à l’art. 7, al. 2, O-LRNIS.
 
-<sup>2</sup> L’OFSP vérifie au moins tous les cinq ans que la documentation corresponde aux exigences de l’annexe 2, ch. 3, O-LRNIS et à l’état des connaissances et de la technique.
+<sup>2</sup>
+
+L’OFSP vérifie au moins tous les cinq ans que la documentation correspond aux exigences de l’annexe 2, ch. 3, O-LRNIS. Il vérifie notamment que:
+
+- a. toute la documentation correspond à l’état actuel des connaissances et de la technique;
+- b. toutes les modifications importantes de la documentation ont été signalées;
+- c. le personnel engagé pour la formation et l’examen dispose des qualifications requises;
+- d. les évaluations visées à l’art. 3*a* ont été effectuées.[^4-1]
+
+<sup>3</sup> Si l’OFSP constate que l’organisme responsable de l’examen ne remplit pas les obligations visées à l’al. 1, il lui demande de le faire dans un délai de trois mois. Si l’organisme responsable de l’examen ne remplit toujours pas ses obligations au terme du délai, le DFI le supprime de l’annexe.[^4-2]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 sept. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
+[^4-2]: Introduit par le ch. I de l’O du DFI du 19 sept. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
+
+#### Art. 4a
+
+**Disposition transitoire relative à la modification du 19 septembre 2025**[^4a-1]
+
+Les organismes responsables de l’examen doivent effectuer les évaluations conformément à l’art. 3*a* à partir du 1<sup>er</sup> mars 2027.
+
+[^4a-1]: Introduit par le ch. I de l’O du DFI du 19 sept. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 #### Art. 5
 
@@ -76,18 +108,18 @@ Annexe[^t-1]
 
 ## Attestations de compétences
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 fév. 2022 ([RO 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)). Mise à jour par le ch. I de l’O du DFI du 18 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 145](https://fedlex.data.admin.ch/eli/oc/2025/145)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 fév. 2022 ([RO 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)). Mise à jour par le ch. II de l’O du DFI du 19 sept. 2025, en vigueur depuis le 1<sup>er</sup> nov. 2025 ([RO 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 - 1\. Les attestations de compétences indiquées ci-dessous autorisent à réaliser les traitements indiqués dans l’annexe 2, ch. 1, O-LRNIS:
 
 <table>
 <tr><th>Désignation de l’attestation de compétences (AC)</th><th>Traitements autorisés selon l’annexe 2, ch. 1, O‑LRNIS</th><th>Organismes responsables de l’examen</th></tr>
 <tr><td>AC Acupuncture au moyen d’un laser</td><td>Acupuncture au moyen d’un laser</td><td>– Chiway AG, Unterer Graben 1, 8400 Winterthour – Sake – Bildungszentrum AG, Scheibenstrasse 20, 3014 Berne</td></tr>
-<tr><td>AC Élimination du système pileux au moyen d’un laser</td><td>Élimination du système pileux au moyen d’un laser</td><td>– Association suisse des esthéticiennes propriétaires d’instituts de beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association suisse pour la valorisation de la profession d’esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAclinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthur – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich[^annexu1-lvlu1-1]</td></tr>
-<tr><td>AC Élimination du système pileux au moyen de sources de lumière pulsées et non cohérentes de forte puissance (IPL)</td><td>Élimination du système pileux au moyen de sources de lumière pulsées et non cohérentes de forte puissance (IPL)</td><td>– Association suisse des esthéticiennes propriétaires d’instituts de beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association suisse pour la valorisation de la profession d’esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud</td></tr>
-<tr><td>AC Maquillage permanent et tatouage</td><td>Élimination du maquillage permanent et des tatouages au moyen d’un laser sous réserve de l’annexe 2, ch. 2.2, O‑LRNIS</td><td>– Association suisse des esthéticiennes propriétaires d’instituts de beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association suisse pour la valorisation de la profession d’esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A. Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAclinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich</td></tr>
-<tr><td>AC Peau et pigmentation</td><td>Traitement de l’acné, de rides, de cicatrices, de l’hyperpigmentation post-inflammatoire, de striæ ainsi que de couperose, de lésions vasculaires bénignes et de nævi non néoplasiques d’une taille inférieure ou égale à 3 mm, sous réserve de l’annexe 2, ch. 2.2, O‑LRNIS</td><td>– Association suisse des esthéticiennes propriétaires d’instituts de beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association suisse pour la valorisation de la profession d’esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich</td></tr>
-<tr><td>AC Cellulite et capitons</td><td>Traitement de la cellulite et des capitons</td><td>– Association suisse des esthéticiennes propriétaires d’instituts de beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association suisse pour la valorisation de la profession d’esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A. Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich</td></tr>
+<tr><td>AC Élimination du système pileux au moyen d’un laser</td><td>Élimination du système pileux au moyen d’un laser</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert, – LW Medical Beauty Fachschulen Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthour – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich</td></tr>
+<tr><td>AC Élimination du système pileux au moyen de sources de lumière pulsées et non cohérentes de forte puissance (IPL)</td><td>Élimination du système pileux au moyen de sources de lumière pulsées et non cohérentes de forte puissance (IPL)</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud</td></tr>
+<tr><td>AC Maquillage permanent et tatouage</td><td>Élimination du maquillage permanent et des tatouages au moyen d’un laser sous réserve de l’annexe 2, ch. 2.2, O‑LRNIS</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthour – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich</td></tr>
+<tr><td>AC Peau et pigmentation</td><td>Traitement de l’acné, de rides, de cicatrices, de l’hyperpigmentation post-inflammatoire, de striæ ainsi que de couperose, de lésions vasculaires bénignes et de nævi non néoplasiques d’une taille inférieure ou égale à 3 mm, sous réserve de l’annexe 2, ch. 2.2, O‑LRNIS</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthour – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich</td></tr>
+<tr><td>AC Cellulite et capitons</td><td>Traitement de la cellulite et des capitons</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Bâle – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Bâle – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Berthoud – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zurich</td></tr>
 <tr><td>AC Onychomycose</td><td>Traitement de l’onychomycose</td><td></td></tr>
 </table>
 
@@ -98,5 +130,3 @@ Annexe[^t-1]
 - d. Traitement autorisé selon l’annexe, ch. 1, de la présente ordonnance et l’annexe 2, ch. 1, O-LRNIS;
 - e. Nom de l’organisme responsable selon l’annexe, ch. 1;
 - f. Lieux et dates des examens.
-
-[^annexu1-lvlu1-1]: La dénomination a été adaptée en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.

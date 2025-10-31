@@ -3,18 +3,18 @@ sr: "814.711.32"
 title: Verordnung des EDI vom 24. März 2021 über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/207"
 language: de
-version: 2025-04-01
+version: 2025-11-01
 adopted: 2021-03-24
 in_force: 2021-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20251101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20251101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 
-vom 24. März 2021 (Stand am 1. April 2025)
+vom 24. März 2021 (Stand am 1. November 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 9 Absatz 2 der Verordnung vom 27. Februar 2019[^ingress-1]
 
 verordnet:
 
-[^ingress-1]: [SR 814.711](https://fedlex.data.admin.ch/eli/cc/2019/183)
+[^ingress-1]: [SR 814.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9587)
 
 #### Art. 1
 
@@ -50,11 +50,23 @@ Wer einen Sachkundenachweis in den Anhang aufnehmen lassen will, reicht beim Bun
 Die im Anhang aufgeführten Prüfungsstellen melden dem BAG jährlich bis spätestens 31. Oktober:
 
 - a. eine Prüfungsstatistik, die Aufschluss über die Anteile der erfolgreich und erfolglos abgeschlossenen Prüfungen gibt;
-- b. die Daten der geplanten Ausbildungen und Prüfungen für das Folgejahr.
+- b. ...[^3-1]
 
 <sup>2</sup> Die Prüfungsstellen melden dem BAG nach abgeschlossenen Prüfungen innert einem Monat die Personen, denen sie einen Sachkundenachweis ausgestellt haben; sie machen dabei die Angaben gemäss Anhang Ziffer 2.
 
 <sup>3</sup> Die Prüfungsstellen melden dem BAG umgehend Änderungen der Unterlagen nach Artikel 2.
+
+[^3-1]: Aufgehoben durch Ziff. I der V des EDI vom 19. Sept. 2025, mit Wirkung seit 1. Nov. 2025 ([AS 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
+
+#### Art. 3a
+
+**Evaluation der Ausbildungen und Prüfungen**[^3a-1]
+
+<sup>1</sup> Die Prüfungsstellen sind zur Sicherstellung der Qualität der Ausbildungen und Prüfungen verpflichtet, regelmässige Evaluationen durchzuführen. Dazu befragen sie nach jedem Ausbildungsgang die geprüften Personen anhand eines vom BAG erstellten Fragebogens, werten die Befragungen aus und dokumentieren das Ergebnis schriftlich.
+
+<sup>2</sup> Auf der Grundlage der Evaluationsergebnisse muss die Prüfungsstelle in regelmässigen Abständen die Planung und die Inhalte des Unterrichts, die internen und externen Prozesse, die Didaktik und die Dokumentation der Ausbildung und Prüfung überprüfen und gegebenenfalls anpassen.
+
+[^3a-1]: Eingefügt durch Ziff. I der V des EDI vom 19. Sept. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 #### Art. 4
 
@@ -62,7 +74,27 @@ Die im Anhang aufgeführten Prüfungsstellen melden dem BAG jährlich bis späte
 
 <sup>1</sup> Die Prüfungsstellen passen ihre Unterlagen den aktuellen Ausbildungsplänen, den aktuellen Prüfungsinhalten und dem aktuellen Prüfungsreglement nach Artikel 7 Absatz 2 V-NISSG an.
 
-<sup>2</sup> Das BAG überprüft mindestens alle fünf Jahre, ob die Unterlagen weiterhin den Anforderungen von Anhang 2 Ziffer 3 V-NISSG und dem Stand von Wissen und Technik entsprechen.
+<sup>2</sup>
+
+Das BAG überprüft mindestens alle fünf Jahre, ob die Unterlagen weiterhin den Anforderungen von Anhang 2 Ziffer 3 V-NISSG entsprechen. Es prüft insbesondere, ob:
+
+- a. alle Unterlagen dem aktuellen Stand von Wissen und Technik entsprechen;
+- b. alle wichtigen Änderungen der Unterlagen gemeldet wurden;
+- c. das für die Ausbildung und Prüfung eingesetzte Personal die geforderten Qualifikationen erfüllt;
+- d. Evaluationen nach Artikel 3*a* durchgeführt werden.[^4-1]
+
+<sup>3</sup> Stellt das BAG fest, dass die Prüfungsstelle ihren Pflichten nach Absatz 1 nicht nachkommt, so fordert es diese auf, die Pflichten innerhalb von drei Monaten zu erfüllen. Bleiben die Pflichten weiterhin nicht erfüllt, so streicht das EDI die Prüfungsstelle aus dem Anhang.[^4-2]
+
+[^4-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Sept. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
+[^4-2]: Eingefügt durch Ziff. I der V des EDI vom 19. Sept. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
+
+#### Art. 4a
+
+**Übergangsbestimmung zur Änderung vom 19. September 2025**[^4a-1]
+
+Prüfungsstellen müssen ab dem 1. März 2027 Evaluationen nach Artikel 3*a* durchführen.
+
+[^4a-1]: Eingefügt durch Ziff. I der V des EDI vom 19. Sept. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 #### Art. 5
 
@@ -76,18 +108,18 @@ Anhang[^t-1]
 
 ## Sachkundenachweise
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Febr. 2022 ([AS 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)). Bereinigt gemäss Ziff. I der V des EDI vom 18. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 145](https://fedlex.data.admin.ch/eli/oc/2025/145)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Febr. 2022 ([AS 2022 121](https://fedlex.data.admin.ch/eli/oc/2022/121)). Bereinigt gemäss Ziff. II der V des EDI vom 19. Sept. 2025, in Kraft seit 1. Nov. 2025 ([AS 2025 587](https://fedlex.data.admin.ch/eli/oc/2025/587)).
 
 - 1\. Die nachstehenden Sachkundenachweise berechtigen zur Durchführung der Behandlungen nach Anhang 2 Ziffer 1 V-NISSG:
 
 <table>
-<tr><th>Bezeichnung Sachkundenachweis (SN)</th><th>Zulässige Behandlungen nach Anhang 2 Ziffer 1 V‑NISSG</th><th>Prüfungsstellen</th></tr>
+<tr><th>Bezeichnung Sachkundenachweis (SN)</th><th>Zulässige Behandlungen nach Anhang 2 Ziffer 1 V-NISSG</th><th>Prüfungsstellen</th></tr>
 <tr><td>SN Laser-Akupunktur</td><td>Akupunktur mittels Laser</td><td>– Chiway AG, Unterer Graben 1, 8400 Winterthur – Sake – Bildungszentrum AG, Scheibenstrasse 20, 3014 Bern</td></tr>
-<tr><td>SN Haarentfernung mit Laser</td><td>Entfernung von Haaren mit Laser</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Elégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthur – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich[^annexu1-lvlu1-1]</td></tr>
-<tr><td>SN Haarentfernung mit hochenergetisch gepulstem nichtkohärenten Licht (IPL)</td><td>Entfernung von Haaren mit hochenergetisch gepulstem nichtkohärentem Licht (IPL)</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf</td></tr>
-<tr><td>SN Permanent-Make‑up und Tattoo</td><td>Entfernung von Permanent-Make‑up und Tätowierungen mittels Laser vorbehältlich Anhang 2 Ziffer 2.2 V‑NISSG</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Elégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich</td></tr>
-<tr><td>SN Haut und Pigmentierung</td><td>Behandlung von Akne, Falten, Narben, postinflammatorischer Hyperpigmentierung, Striae sowie Couperose, Blutschwämmchen und Spinnennävi, die kleiner als oder gleich 3 mm sind vorbehältlich Anhang 2 Ziffer 2.2 V‑NISSG</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Elégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich</td></tr>
-<tr><td>SN Cellulite und Fettpolster</td><td>Behandlung von Cellulite und Fettpolster</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars‑sur‑Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Elégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert – LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich</td></tr>
+<tr><td>SN Haarentfernung mit Laser</td><td>Entfernung von Haaren mit Laser</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthur – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich</td></tr>
+<tr><td>SN Haarentfernung mit hochenergetisch gepulstem nichtkohärenten Licht (IPL)</td><td>Entfernung von Haaren mit hochenergetisch gepulstem nichtkohärentem Licht (IPL)</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf</td></tr>
+<tr><td>SN Permanent-Make-up und Tattoo</td><td>Entfernung von Permanent-Make-up und Tätowierungen mittels Laser vorbehältlich Anhang 2 Ziffer 2.2 V‑NISSG</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthur – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich</td></tr>
+<tr><td>SN Haut und Pigmentierung</td><td>Behandlung von Akne, Falten, Narben, postinflammatorischer Hyperpigmentierung, Striae sowie Couperose, Blutschwämmchen und Spinnennävi, die kleiner als oder gleich 3 mm sind vorbehältlich Anhang 2 Ziffer 2.2 V-NISSG</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik (SGMK), Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf – Stäubli & Co. GmbH, Ida-Sträuli-Strasse 91, 8404 Winterthur – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich</td></tr>
+<tr><td>SN Cellulite und Fettpolster</td><td>Behandlung von Cellulite und Fettpolster</td><td>– Association Suisse d’Esthéticiennes Propriétaires d’Instituts de Beauté (ASEPIB), Rue des Platanes 53, 1752 Villars-sur-Glâne – Association Suisse pour la Valorisation de la Profession d’Esthéticienne (ASVaPE), Chemin vingt-neuf 1, 1182 Gilly – Associazione Estetiste della Svizzera Italiana (AESI), A Feradign 11, 6678 Lodano – Ästhetik Verband Schweiz (AVS), Freiburgstrasse 19, 3150 Schwarzenburg – CarolineSaintPierre Medizinische Kosmetik-Fachschulen, Freie Strasse 17, 4001 Basel – Élégance Studio Esthétique Sàrl, Avenue de la Poste 16, 1020 Renens – Jean-Pierre Rosselet Cosmetics AG, Hochbordstrasse 9, 8600 Dübendorf – Laserschule Schweiz GmbH, Leimgrubenweg 9, 4053 Basel – Lisandra Solange Wigert - LW Medical Beauty Fachschulen, Bahnhofstrasse 55, 6403 Küssnacht am Rigi – RIVIERAClinic Sàrl, Quai Perdonnet 3, 1800 Vevey – Schweizerische Gemeinschaft für medizinische Kosmetik SGMK, Dorfstrasse 19a, 6340 Baar – Schweizerischer Fachverband für Kosmetik (SFK), Bernstrasse-West 64, 5034 Suhr – Simon Keller AG, Lyssachstrasse 83, 3400 Burgdorf – SwissMedEstetic GmbH, Ulmbergstrasse 4, 8002 Zürich</td></tr>
 <tr><td>SN Nagelpilz</td><td>Behandlung von Nagelpilz</td><td></td></tr>
 </table>
 
@@ -98,5 +130,3 @@ Anhang[^t-1]
 - d. Zulässige Behandlung gemäss Anhang Ziffer 1 dieser Verordnung und Anhang 2 Ziffer 1 V-NISSG;
 - e. Name der Prüfungsstelle gemäss Anhang Ziffer 1;
 - f. Daten und Orte der Prüfungen.
-
-[^annexu1-lvlu1-1]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
