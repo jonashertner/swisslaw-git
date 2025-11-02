@@ -3,13 +3,12 @@ canton: BS
 number: "111.100"
 title: Verfassung des Kantons Basel-Stadt
 language: de
-version: 2023-01-19
-valid_until: 2025-11-02
-version_adopted: 2022-09-14
+version: 2025-11-03
+version_adopted: 2025-09-28
 adopted: 2005-03-23
 in_force: 2006-07-13
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6406/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6712/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6406/pdf_file"
 
 Verfassung | Kantonsverfassung[^t-1]
 
-Vom 23. März 2005 (Stand 19. Januar 2023)
+Vom 23. März 2005 (Stand 3. November 2025)
 
 In Verantwortung gegenüber der Schöpfung und im Wissen um die Grenzen menschlicher Macht, gibt sich das Volk des Kantons Basel-Stadt die folgende Verfassung:
 
@@ -47,6 +46,10 @@ In Verantwortung gegenüber der Schöpfung und im Wissen um die Grenzen menschli
 - c) übernimmt die ihm vom Bund übertragenen Aufgaben.
 
 <sup>3</sup> Die Behörden wirken darauf hin, für Vorhaben von regionalem, kantons- und länderübergreifendem Interesse in der Agglomeration Basel die Unterstützung des Bundes zu erreichen.
+
+<sup>4</sup> Der Kanton setzt sich für gute und stabile Beziehungen der Schweiz mit der Europäischen Union und den Nachbarländern ein[^2-1].
+
+[^2-1]: § 2 Abs. 4 eidgenössische Gewährleistung ausstehend
 
 #### § 3
 
