@@ -5,20 +5,19 @@ title: Loi sur les subventions
 short: LSub
 language: fr
 version: 2011-01-01
-corrected: 2018-04-17
+corrected: 2025-11-06
 version_adopted: 2010-06-16
 adopted: 1995-11-13
 in_force: 1996-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/616.1"
-pdf: "https://lex.vs.ch/api/fr/versions/362/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2423/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi sur les subventions
 
-du 13 novembre 1995
+du 13.11.1995 (état 01.01.2011)
 
 Le Grand Conseil du canton du Valais
 
@@ -26,33 +25,30 @@ sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Chapitre 1: Généralités
+## 1 Généralités
 
 #### Art. 1
 
 **But**
 
-La loi sur les subventions assure:
+<sup>1</sup> La loi sur les subventions assure:
 
 - a) que soit créée une base légale uniforme, et que les subventions soient accordées selon les mêmes principes (sécurité juridique);
-
 - b) que les ressources publiques soient utilisées de manière économe et efficace (efficacité);
-
 - c) que les dépenses de subventionnement répondent aux tâches essentielles du canton et soient adaptées aux objectifs de la politique financière du canton (conduite de la politique financière);
-
 - d) que règne la transparence dans l'octroi, l'utilisation et le contrôle des subventions (transparence).
 
 #### Art. 2
 
 **Compétences**
 
-Pour autant que la présente loi ou la législation spéciale n'en dispose autrement, le Département des finances est chargé de l'application et de l'exécution de la présente loi.
+<sup>1</sup> Pour autant que la présente loi ou la législation spéciale n'en dispose autrement, le Département des finances est chargé de l'application et de l'exécution de la présente loi.
 
 #### Art. 3
 
 **Champ d'application**
 
-La présente loi régit toutes les subventions cantonales.
+<sup>1</sup> La présente loi régit toutes les subventions cantonales.
 
 #### Art. 4
 
@@ -63,23 +59,14 @@ La présente loi régit toutes les subventions cantonales.
 <sup>2</sup> Ne sont pas considérés comme des subventions cantonales au sens de la présente loi:
 
 - a) les sommes versées à titre de rémunération ou de couverture de frais à des personnes physiques;
-
 - b) les indemnités destinées à réparer les préjudices causés par l'Etat;
-
 - c) les montants versés au titre de l'assistance judiciaire, les dépens, et les indemnités en cas de non-lieu;
-
 - d) les parts d'impôts, de taxes et d'amendes revenant aux communes;
-
 - e) les remises d'impôts et les facilités de paiement;
-
 - f) les exonérations et autres privilèges fiscaux;
-
 - g) les subventions fixées de manière impérative par le droit fédéral;
-
 - h) les participations au capital de personnes morales;
-
 - i) les montants versés dans le cadre de la péréquation financière intercommunale;
-
 - k) les pures redistributions de sommes versées par des tiers.
 
 #### Art. 5
@@ -88,13 +75,10 @@ La présente loi régit toutes les subventions cantonales.
 
 <sup>1</sup> Les subventions se répartissent entre les catégories suivantes:
 
-- a) Les indemnités, prestations pécuniaires accordées à des tiers pour atténuer ou compenser les charges financières résultant de l'exécution:
-
-- de tâches prescrites par le droit public cantonal;
-
-- ou de tâches de droit public qui ont été déléguées au destinataire par le canton.
-
-- b) Les aides financières, prestations pécuniaires accordées à un destinataire privé ou public afin d'assurer ou de promouvoir la réalisation de tâches que celui-ci a librement choisies.
+- a) les indemnités, prestations pécuniaires accordées à des tiers pour atténuer ou compenser les charges financières résultant de l'exécution:
+  - 1\. de tâches prescrites par le droit public cantonal,
+  - 2\. ou de tâches de droit public qui ont été déléguées au destinataire par le canton;
+- b) les aides financières, prestations pécuniaires accordées à un destinataire privé ou public afin d'assurer ou de promouvoir la réalisation de tâches que celui-ci a librement choisies.
 
 <sup>2</sup> Un inventaire exhaustif, établi sous forme d'ordonnance, énumère les subventions cantonales et les répartit entre les deux catégories précitées conformément à la définition légale.
 
@@ -110,69 +94,58 @@ La présente loi régit toutes les subventions cantonales.
 
 **Forme des subventions**
 
-Les subventions sont accordées notamment sous forme de contributions à fonds perdus, de prêts sans intérêts ou à d'autres conditions favorables, et de cautionnements.
+<sup>1</sup> Les subventions sont accordées notamment sous forme de contributions à fonds perdus, de prêts sans intérêts ou à d'autres conditions favorables, et de cautionnements.
 
-### Chapitre 2: Principes applicables en matière de législation
+## 2 Principes applicables en matière de législation
 
 #### Art. 8
 
 **Respect des principes**
 
-Le Conseil d'Etat et l'Administration cantonale observent les principes du présent chapitre lors de la préparation, la promulgation et la modification des dispositions légales concernant les subventions.
+<sup>1</sup> Le Conseil d'Etat et l'Administration cantonale observent les principes du présent chapitre lors de la préparation, la promulgation et la modification des dispositions légales concernant les subventions.
 
 #### Art. 9
 
 **Conditions a) Base légale**
 
-Les subventions nécessitent une base légale. Les dispositions qui déterminent le but, la nature et le cadre des subventions cantonales importantes sont édictées sous forme de loi.
+<sup>1</sup> Les subventions nécessitent une base légale. Les dispositions qui déterminent le but, la nature et le cadre des subventions cantonales importantes sont édictées sous forme de loi.
 
-#### Art. 10 b
+#### Art. 10
 
-**) Autres conditions**
+**b) Autres conditions**
 
-<sup>1</sup> Des dispositions prévoyant des subventions peuvent être édictées lorsque;
+<sup>1</sup> Des dispositions prévoyant des subventions peuvent être édictées lorsque:
 
 - a) d'autres formes d'action de l'Etat ont été examinées avant que l'octroi de subventions ne soit envisagé;
-
 - b) les répercussions de la subvention envisagée ont été déterminées.
 
 <sup>2</sup> Des dispositions prévoyant des indemnités ne peuvent être édictées que si les trois conditions suivantes sont réunies cumulativement:
 
 - a) ceux à qui incombe la tâche n'ont pas un intérêt personnel prépondérant;
-
 - b) l'on ne saurait exiger de ceux à qui incombe la tâche qu'ils supportent eux-mêmes la charge financière;
-
 - c) les avantages découlant de l'exécution de la tâche ne compensent pas la charge financière.
 
 <sup>3</sup> Des dispositions prévoyant des aides financières peuvent être édictées lorsque:
 
 - a) le canton a un intérêt à l'exécution de la tâche;
-
 - b) la tâche ne pourrait être dûment exécutée sans l'aide financière;
-
 - c) il est exigé des requérants qu'ils fournissent une prestation personnelle supportable et qu'ils tirent pleinement parti de leurs propres sources de financement;
-
 - d) la tâche ne peut être accomplie d'une manière plus simple, plus efficace ou plus rationnelle.
 
 #### Art. 11
 
 **Principes particuliers**
 
-Les dispositions régissant les subventions doivent respecter les principes suivants:
+<sup>1</sup> Les dispositions régissant les subventions doivent respecter les principes suivants:
 
 - a) la tâche peut être menée à bien, au moindre coût et avec le minimum de formalités administratives;
-
 - b) le montant de l'indemnité est fonction de l'intérêt de ceux à qui incombe la tâche, et des avantages inhérents à l'accomplissement de celle-ci;
-
 - c) le montant de l'aide financière est fonction de l'intérêt du canton ainsi que de l'intérêt des allocataires à l'accomplissement de la tâche;
-
 - d) en règle générale, aucun droit à une aide financière n'est inscrit dans les actes législatifs. Les exceptions seront motivées;
-
 - e) les subventions sont en principe fixées pour une durée limitée. Les exceptions seront motivées;
-
 - f) les impératifs de la politique financière sont pris en considération.
 
-### Chapitre 3: Dispositions communes
+## 3 Dispositions communes
 
 #### Art. 12
 
@@ -186,7 +159,7 @@ Les dispositions régissant les subventions doivent respecter les principes suiv
 
 **Frais reconnus**
 
-Les subventions sont limitées aux frais reconnus déterminés selon les normes spécifiques.
+<sup>1</sup> Les subventions sont limitées aux frais reconnus déterminés selon les normes spécifiques.
 
 #### Art. 14
 
@@ -197,7 +170,6 @@ Les subventions sont limitées aux frais reconnus déterminés selon les normes 
 <sup>2</sup> Le requérant doit fournir à l'autorité compétente les renseignements nécessaires. Les organisations, établissements et institutions doivent notamment présenter ou tenir à disposition:
 
 - a) leurs comptes et leur budget;
-
 - b) leur organigramme, leur système salarial et leurs conditions de travail.
 
 <sup>3</sup> Le requérant doit, sur demande, permettre à l'autorité compétente de consulter ses dossiers et d'accéder aux établissements et locaux servant à l'accomplissement de ses tâches.
@@ -206,13 +178,11 @@ Les subventions sont limitées aux frais reconnus déterminés selon les normes 
 
 <sup>5</sup> Le destinataire des subventions doit, à la demande de l'autorité compétente, collaborer à l'évaluation périodique des subventions.
 
-[^14-1]: er janv. 2011 (BO No 28/2010)
-
 #### Art. 15
 
-**Forme juridique[^14-1]**
+**Forme juridique**
 
-<sup>1</sup> Les subventions sont octroyées par décision (art. 5 LPJA et 42 al. 4 de la Constitution cantonale), par contrat de droit public ou par mandat de prestations.
+<sup>1</sup> Les subventions sont octroyées par décision (art. 5 LPJA et 42 al. 4 de la Cst. cant.), par contrat de droit public ou par mandat de prestations.
 
 <sup>2</sup> Elles peuvent être accordées par contrat écrit de droit public, lorsque la loi le permet et que l'accomplissement des tâches est ainsi garanti. Ces contrats doivent contenir une clause de résiliation. Des modifications ultérieures de loi priment en tous les cas sur ces contrats.
 
@@ -234,25 +204,18 @@ Les subventions sont limitées aux frais reconnus déterminés selon les normes 
 
 <sup>4</sup> L'autorité compétente détermine en outre les charges et les conditions permettant de garantir que la prestation soit utilisée conformément au but visé et que la tâche soit accomplie de manière économique, et dans les délais fixés.
 
-[^16-1]: Introduit par le ch. II/7 de la loi concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition de tâches entre la Confédération, le canton et les communes du 16 juin 2010. En vigueur depuis le 1er janv. 2011 (BO No 28/2010)
+#### Art. 16a
 
-#### Art. 16bis
+**Contenu du mandat de prestations**
 
-**Contenu du mandat de prestations[^16-1]**
+<sup>1</sup> En sus des éléments contenus à l'article 16, les mandats de prestations doivent, en principe, contenir des dispositions traitant des points complémentaires suivants:
 
-En sus des éléments contenus à l'article 16, les mandats de prestations doivent, en principe, contenir des dispositions traitant des points complémentaires suivants:
-
-- objectifs à atteindre;
-
-- modalités de controlling et d'évaluation de la réalisation des objectifs;
-
-- conséquences de l'inexécution ou de l'exécution non conforme du mandat;
-
-- modalités d'adaptation;
-
-- procédure de règlement des différends et de médiation;
-
-- surveillance financière.
+- a) objectifs à atteindre;
+- b) modalités de controlling et d'évaluation de la réalisation des objectifs;
+- c) conséquences de l'inexécution ou de l'exécution non conforme du mandat;
+- d) modalités d'adaptation;
+- e) procédure de règlement des différends et de médiation;
+- f) surveillance financière.
 
 #### Art. 17
 
@@ -282,13 +245,11 @@ En sus des éléments contenus à l'article 16, les mandats de prestations doive
 
 <sup>3</sup> La réduction de subvention est limitée à une durée de quatre ans au total sur un laps de temps de dix ans.
 
-### Chapitre 4: Tpyes de subventions
-
-[^hChapitre4Tpyesde-1]: Nouvelle teneur selon le ch. II/7 de la loi concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition de tâches entre la Confédération, le canton et les communes du 16 juin 2010. En vigueur depuis le
+## 4 Types de subventions
 
 #### Art. 20
 
-**Subventions globales ou forfaitaires[^hChapitre4Tpyesde-1]**
+**Subventions globales ou forfaitaires**
 
 <sup>1</sup> L'Etat peut verser des subventions globales ou forfaitaires axées sur la prestation tant pour les subventions à l'exploitation que pour les subventions aux investissements.
 
@@ -300,27 +261,23 @@ En sus des éléments contenus à l'article 16, les mandats de prestations doive
 
 <sup>5</sup> Les subventions globales ou forfaitaires peuvent inclure les frais d'infrastructure.
 
-[^20-1]: Nouvelle teneur selon le ch. II/7 de la loi concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition de tâches entre la Confédération, le canton et les communes du 16 juin 2010. En vigueur depuis le
-
 #### Art. 21
 
-**Subventions proportionnelles aux coûts[^20-1]**
+**Subventions proportionnelles aux coûts**
 
-Des subventions proportionnelles aux coûts d'une prestation ou d'une réalisation sont octroyées de manière exceptionnelle lorsque des subventions globales ou forfaitaires ne sont pas appropriées.
+<sup>1</sup> Des subventions proportionnelles aux coûts d'une prestation ou d'une réalisation sont octroyées de manière exceptionnelle lorsque des subventions globales ou forfaitaires ne sont pas appropriées.
 
 #### Art. 22
 
 **Versement des subventions aux investissements**
 
-<sup>1</sup> ...[^22-1]
+<sup>1</sup> …
 
 <sup>2</sup> Le montant des subventions est fixé par l'autorité compétente avant la réalisation du projet.
 
 <sup>3</sup> Les subventions sont versées sur la base de l'avancement des travaux, et ne sont pas adaptées au renchérissement.
 
 <sup>4</sup> Les coûts supplémentaires résultant des modifications ultérieures du projet autorisé ne sont pas subventionnés, sous réserve des coûts engendrés par des cas de force majeure.
-
-[^22-1]: Abrogé par le ch. II/7 de la loi concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition de tâches entre la Confédération, le canton et les communes du 16 juin 2010. En vigueur depuis le 1er janv. 2011 (BO No 28/2010)
 
 #### Art. 23
 
@@ -336,17 +293,17 @@ Des subventions proportionnelles aux coûts d'une prestation ou d'une réalisati
 
 <sup>5</sup> L'ordre de priorité doit être coordonné avec le plan financier quadriennal.
 
-### Chapitre 5: Garantie de l'affectation
+## 5 Garantie de l'affectation
 
 #### Art. 24
 
 **Affectation**
 
-Les subventions doivent être utilisées conformément à leur affectation et dans le respect des conditions et des charges y relatives.
+<sup>1</sup> Les subventions doivent être utilisées conformément à leur affectation et dans le respect des conditions et des charges y relatives.
 
 #### Art. 25
 
-Inexécution ou exécution défectueuse en cas d'aide financière et restitution
+**Inexécution ou exécution défectueuse en cas d'aide financière et restitution**
 
 <sup>1</sup> Lorsque le destinataire d'une aide financière, malgré sommation, n'accomplit pas ou accomplit incorrectement sa tâche, l'autorité compétente réduit le montant de l'aide financière ou demande sa restitution avec intérêts à partir du versement de celle-ci. Le taux d'intérêt est fixé par ordonnance.
 
@@ -366,13 +323,13 @@ Inexécution ou exécution défectueuse en cas d'aide financière et restitution
 
 <sup>5</sup> Le destinataire de la subvention doit informer sans tarder et par écrit l'autorité compétente de toute désaffectation ou aliénation.
 
-### Chapitre 6: Protection juridique et dispositions pénales
+## 6 Protection juridique et dispositions pénales
 
 #### Art. 27
 
 **Protection juridique**
 
-Les décisions prises en application de la présente loi peuvent être attaquées conformément aux dispositions générales sur la procédure administrative cantonale.
+<sup>1</sup> Les décisions prises en application de la présente loi peuvent être attaquées conformément aux dispositions générales sur la procédure administrative cantonale.
 
 #### Art. 28
 
@@ -390,15 +347,15 @@ Les décisions prises en application de la présente loi peuvent être attaquée
 
 **Interruption de la prescription**
 
-La prescription est interrompue par toute invitation écrite au paiement. Le délai de prescription ne court pas tant que le débiteur ne peut être poursuivi en Suisse.
+<sup>1</sup> La prescription est interrompue par toute invitation écrite au paiement. Le délai de prescription ne court pas tant que le débiteur ne peut être poursuivi en Suisse.
 
 #### Art. 30
 
 **Dispositions pénales**
 
-<sup>1</sup> Celui qui, en vue d'obtenir une subvention, donne sur des faits importants des indications inexactes ou incomplètes, ou tait de tels faits, est puni par le département concerné d'une amende pouvant aller jusqu'à 20 000 francs.
+<sup>1</sup> Celui qui, en vue d'obtenir une subvention, donne sur des faits importants des indications inexactes ou incomplètes, ou tait de tels faits, est puni par le département concerné d'une amende pouvant aller jusqu'à 20'000 francs.
 
-<sup>2</sup> Si l'auteur du délit a agi à son profit, l'amende pourra s'élever à 100 000 francs au plus.
+<sup>2</sup> Si l'auteur du délit a agi à son profit, l'amende pourra s'élever à 100'000 francs au plus.
 
 <sup>3</sup> La restitution de la subvention pourra être exigée en sus.
 
@@ -406,15 +363,15 @@ La prescription est interrompue par toute invitation écrite au paiement. Le dé
 
 <sup>5</sup> L'instigation et la complicité sont punissables.
 
-### Chapitre 7: Dispositions transitoires et finales
+## 7 Dispositions transitoires et finales
 
 #### Art. 31
 
-Rapports avec les dispositions spéciales et modification desdispositions cantonales
+**Rapports avec les dispositions spéciales et modification desdispositions cantonales**
 
 <sup>1</sup> Dès son entrée en vigueur, la présente loi est applicable à toutes les subven-tions cantonales. Les dispositions des législations spéciales demeurent applicables dans la mesure où elles ne sont pas en contradiction avec les dispositions de la présente loi.
 
-<sup>2</sup> Les modifications correspondantes des lois et décrets cantonaux sont indiquées dans l'annexe I, partie intégrante de la présente loi.
+<sup>2</sup> Les modifications correspondantes des lois et décrets cantonaux sont indiquées dans l'annexe 1, partie intégrante de la présente loi.
 
 <sup>3</sup> Le Conseil d'Etat est chargé de procéder aux modifications correspondantes des dispositions cantonales de rang inférieur.
 
@@ -444,14 +401,6 @@ Rapports avec les dispositions spéciales et modification desdispositions canton
 
 <sup>1</sup> La présente loi est sujette au référendum facultatif.
 
-<sup>2</sup> Le Conseil d'Etat fixe la date de son entrée en vigueur.[^34-1]
+<sup>2</sup> Le Conseil d'Etat fixe la date de son entrée en vigueur.
 
-Ainsi adopté en seconds débats en séance du Grand Conseil, à Sion, le 13 novembre 1995.
-
-Le président du Grand Conseil: Jean-René Fournier Les secrétaires: Florian Boisset, Herbert Marty
-
-[^34-1]: Entrée en vigueur le 1er mai 1996 (RO/VS 1996, 54)
-
-## Autres notes
-
-- [1] er janv. 2011 (BO No 28/2010)
+RCV RO/AGS 1996 f 54 | d 55

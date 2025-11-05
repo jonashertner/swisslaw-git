@@ -5,52 +5,50 @@ title: Subventionsgesetz
 short: SubG
 language: de
 version: 2011-01-01
-corrected: 2018-04-17
+corrected: 2025-11-06
 version_adopted: 2010-06-16
 adopted: 1995-11-13
 in_force: 1996-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/616.1"
-pdf: "https://lex.vs.ch/api/de/versions/362/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2423/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Subventionsgesetz
 
-vom 13. November 1995
+vom 13.11.1995 (Stand 01.01.2011)
 
 Der Grosse Rat des Kantons Wallis
 
-auf Antrag des Staatsrates, verordnet:
+auf Antrag des Staatsrates,
 
-### 1. Kapitel: Allgemeines
+verordnet:
+
+## 1 Allgemeines
 
 #### Art. 1
 
 **Zweck**
 
-Dieses Subventionsgesetz stellt sicher, dass:
+<sup>1</sup> Dieses Subventionsgesetz stellt sicher, dass:
 
 - a) eine einheitliche Rechtsgrundlage geschaffen wird und Subventionen nach gleichen Grundsätzen gewährt werden (Rechtssicherheit);
-
 - b) die öffentlichen Gelder wirkungsorientiert und sparsam verwendet werden (Wirksamkeit);
-
 - c) die Subventionsausgaben auf die Hauptaufgaben und die finanzpolitischen Zielsetzungen des Kantons ausgerichtet werden (finanzpolitische Steuerung);
-
 - d) die Gewährung, Verwendung und Überprüfung der Subventionen transparent gestaltet und gehandhabt wird (Transparenz).
 
 #### Art. 2
 
 **Zuständigkeiten**
 
-Soweit dieses Gesetz oder die Spezialgesetzgebung nichts anderes bestimmen, ist das Finanzdepartement mit der Anwendung und dem Vollzug dieses Gesetzes beauftragt.
+<sup>1</sup> Soweit dieses Gesetz oder die Spezialgesetzgebung nichts anderes bestimmen, ist das Finanzdepartement mit der Anwendung und dem Vollzug dieses Gesetzes beauftragt.
 
 #### Art. 3
 
 **Anwendungsbereich**
 
-Das Gesetz gilt für sämtliche kantonalen Subventionen.
+<sup>1</sup> Das Gesetz gilt für sämtliche kantonalen Subventionen.
 
 #### Art. 4
 
@@ -61,23 +59,14 @@ Das Gesetz gilt für sämtliche kantonalen Subventionen.
 <sup>2</sup> Nicht als kantonale Subventionen im Sinne des vorliegenden Gesetzes gelten:
 
 - a) die als Entlöhnungen oder Spesenentschädigungen an natürliche Personen ausbezahlten Beträge;
-
 - b) die Entschädigungen zur Wiedergutmachung von Vermögensnachteilen, die vom Staat verursacht wurden;
-
 - c) die unter dem Titel Rechtsbeistand ausbezahlten Beträge, die Parteientschädigungen sowie die Entschädigungen bei Verfahrenseinstellungen;
-
 - d) die Anteile der Gemeinden an Steuern, Gebühren und Bussen;
-
 - e) Steuererlass und Zahlungserleichterungen für Steuern;
-
 - f) Steuerbefreiungen und andere Steuerprivilegien;
-
 - g) die durch Bundesrecht zwingend vorgeschriebenen Subventionen;
-
 - h) die Kapitalbeteiligungen an juristischen Personen;
-
 - i) die im Rahmen des interkommunalen Finanzausgleichs ausbezahlten Beträge;
-
 - k) die reinen Wiederauszahlungen von Beträgen, die durch Dritte einbezahlt wurden.
 
 #### Art. 5
@@ -87,11 +76,8 @@ Das Gesetz gilt für sämtliche kantonalen Subventionen.
 <sup>1</sup> Die Subventionen werden in folgende Kategorien eingeteilt:
 
 - a) Abgeltungen sind geldwerte Leistungen an Dritte zur Milderung oder zum Ausgleich von finanziellen Lasten, die sich ergeben aus der Erfüllung von:
-
-- kantonalrechtlich vorgeschriebenen Aufgaben oder;
-
-- öffentlichrechtlichen Aufgaben, die dem Empfänger vom Kanton übertragen wurden.
-
+  - 1\. kantonalrechtlich vorgeschriebenen Aufgaben oder,
+  - 2\. öffentlichrechtlichen Aufgaben, die dem Empfänger vom Kanton übertragen wurden;
 - b) Finanzhilfen sind geldwerte Leistungen, die einem privaten oder öffentlichen Empfänger gewährt werden um die Erfüllung einer von ihm frei gewählten Aufgabe zu fördern oder zu gewährleisten.
 
 <sup>2</sup> Die kantonalen Subventionen werden in einem abschliessenden Inventar auf dem Verordnungswege aufgeführt und aufgrund der gesetzlichen Definition in Abgeltungen oder Finanzhilfen eingeteilt.
@@ -108,69 +94,58 @@ Das Gesetz gilt für sämtliche kantonalen Subventionen.
 
 **Subventionsform**
 
-Subventionen werden namentlich in Form von nichtrückzahlbaren Beiträgen, zinslosen Darlehen oder Darlehen mit anderen Vorzugsbedingungen sowie als Bürgschaften gewährt.
+<sup>1</sup> Subventionen werden namentlich in Form von nichtrückzahlbaren Beiträgen, zinslosen Darlehen oder Darlehen mit anderen Vorzugsbedingungen sowie als Bürgschaften gewährt.
 
-### 2. Kapitel: Grundsätze für die Rechtsetzung
+## 2 Grundsätze für die Rechtsetzung
 
 #### Art. 8
 
 **Beachtung der Grundsätze**
 
-Der Staatsrat und die Kantonsverwaltung beachten bei der Vorbereitung, dem Erlass und der Änderung von rechtsetzenden Subventionsbestimmungen die Grundsätze des vorliegenden Kapitels.
+<sup>1</sup> Der Staatsrat und die Kantonsverwaltung beachten bei der Vorbereitung, dem Erlass und der Änderung von rechtsetzenden Subventionsbestimmungen die Grundsätze des vorliegenden Kapitels.
 
 #### Art. 9
 
-**Voraussetzungen: a) Gesetzliche Grundlage**
+**Voraussetzungen a) Gesetzliche Grundlage**
 
-Subventionen bedürfen einer gesetzlichen Grundlage. Zweck, Art und Rahmen von bedeutenden kantonalen Subventionen sind in der Form des Gesetzes festzulegen.
+<sup>1</sup> Subventionen bedürfen einer gesetzlichen Grundlage. Zweck, Art und Rahmen von bedeutenden kantonalen Subventionen sind in der Form des Gesetzes festzulegen.
 
-#### Art. 10 b
+#### Art. 10
 
-**) Andere Voraussetzungen**
+**b) Andere Voraussetzungen**
 
 <sup>1</sup> Bestimmungen über Subventionen können erlassen werden, wenn:
 
 - a) andere Formen staatlichen Handelns vor der Gewährung von Subventionen geprüft worden sind;
-
 - b) die Auswirkungen der beabsichtigten Subvention abgeklärt worden sind.
 
 <sup>2</sup> Bestimmungen über Abgeltungen können erlassen werden, wenn die folgenden drei Bedingungen kumulativ erfüllt sind:
 
 - a) es darf kein überwiegendes persönliches Interesse jener bestehen, denen die Aufgabe obliegt;
-
 - b) die finanzielle Belastung kann von den Verpflichteten selbst nicht getragen werden;
-
 - c) die sich aus der Erfüllung ergebenden Vorteile dürfen die finanzielle Belastung nicht ausgleichen.
 
 <sup>3</sup> Bestimmungen über Finanzhilfen können erlassen werden wenn:
 
 - a) der Kanton ein Interesse an der Erfüllung der Aufgabe hat;
-
 - b) die Aufgabe ohne Finanzhilfe nicht gebührend erfüllt werden kann;
-
 - c) von den Gesuchstellern verlangt wird, dass sie die persönlich tragbaren Leistungen erbringen und ihre eigenen Finanzierungsmöglichkeiten voll ausschöpfen;
-
 - d) die Aufgabe nicht auf andere Weise einfacher, wirksamer und rationeller erfüllt werden kann.
 
 #### Art. 11
 
 **Besondere Grundsätze**
 
-Bestimmungen über Subventionen müssen folgende Grundsätze beachten:
+<sup>1</sup> Bestimmungen über Subventionen müssen folgende Grundsätze beachten:
 
 - a) die Aufgabe muss zweckmässig, kostengünstig und mit einem minimalen administrativen Aufwand erfüllt werden können;
-
 - b) der Abgeltungsbetrag wird bestimmt durch das Interesse der Verpflichteten und die Vorteile, die sich aus der Aufgabenerfüllung ergeben;
-
 - c) der Betrag der Finanzhilfe wird bestimmt durch das Interesse des Kantons und jenes der Empfänger an der Aufgabenerfüllung;
-
 - d) es wird grundsätzlich kein Rechtsanspruch auf eine Finanzhilfe in Gesetzestexte aufgenommen. Ausnahmen sind zu begründen;
-
 - e) Subventionen werden grundsätzlich befristet. Ausnahmen sind zu begründen;
-
 - f) den Erfordernissen der Finanzpolitik ist Rechnung zu tragen.
 
-### 3. Kapitel: Gemeinsame Bestimmungen
+## 3 Gemeinsame Bestimmungen
 
 #### Art. 12
 
@@ -184,7 +159,7 @@ Bestimmungen über Subventionen müssen folgende Grundsätze beachten:
 
 **Anerkannte Kosten**
 
-Die Subventionen werden auf die anerkannten Kosten beschränkt, welche nach spezifischen Normen festzulegen sind.
+<sup>1</sup> Die Subventionen werden auf die anerkannten Kosten beschränkt, welche nach spezifischen Normen festzulegen sind.
 
 #### Art. 14
 
@@ -195,7 +170,6 @@ Die Subventionen werden auf die anerkannten Kosten beschränkt, welche nach spez
 <sup>2</sup> Der Gesuchsteller ist verpflichtet, der zuständigen Behörde alle erforderlichen Auskünfte zu erteilen. Die Organisationen, Anstalten und Institutionen müssen insbesondere folgende Unterlagen bereithalten oder einreichen:
 
 - a) die Jahresrechnung und den Voranschlag;
-
 - b) den Stellenplan, das Lohnsystem und die Arbeitsbedingungen.
 
 <sup>3</sup> Der Gesuchsteller hat der zuständigen Behörde auf Verlangen Einsicht in die Akten und Zutritt zu den Betriebsstätten und den zur Aufgabenerfüllung benützten Räumlichkeiten zu gewähren.
@@ -204,13 +178,11 @@ Die Subventionen werden auf die anerkannten Kosten beschränkt, welche nach spez
 
 <sup>5</sup> Der Empfänger von Subventionen hat auf Verlangen der zuständigen Behörde bei der periodischen Überprüfung mitzuwirken.
 
-[^14-1]: Fassung gemäss Ziff II/7 des Gesetzes über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 16. Juni 2010. In Kraft seit dem 1. Jan. 2011 (Abl. Nr. 28/2010)
-
 #### Art. 15
 
-**Rechtsform[^14-1]**
+**Rechtsform**
 
-<sup>1</sup> Subventionen werden durch Verfügung (Art. 5 VVRG und 42 Abs. 4 der Kantonsverfassung), durch öffentlichrechtlichen Vertrag oder durch Leistungsauftrag gewährt.
+<sup>1</sup> Subventionen werden durch Verfügung (Art. 5 VVRG und 42 Abs. 4 der KV), durch öffentlichrechtlichen Vertrag oder durch Leistungsauftrag gewährt.
 
 <sup>2</sup> Sie können durch schriftlichen öffentlichrechtlichen Vertrag gewährt werden, wenn das Gesetz ihn zulässt und damit die Aufgabenerfüllung sichergestellt wird. Solche Verträge müssen eine Kündigungsklausel enthalten. Spätere Gesetzesänderungen gehen diesen Verträgen immer vor.
 
@@ -222,7 +194,7 @@ Die Subventionen werden auf die anerkannten Kosten beschränkt, welche nach spez
 
 #### Art. 16
 
-Inhalt der Verfügung, des Beschlusses oder des öffentlichrechtlichen Vertrages
+**Inhalt der Verfügung, des Beschlusses oder des öffentlichrechtlichen Vertrages**
 
 <sup>1</sup> Die zuständige Behörde bezeichnet in der Verfügung, im Beschluss oder im öffentlichrechtlichen Vertrag insbesondere die Rechtsgrundlage, die Kategorie, die Form, die Art und den Betrag der Subvention.
 
@@ -232,25 +204,18 @@ Inhalt der Verfügung, des Beschlusses oder des öffentlichrechtlichen Vertrages
 
 <sup>4</sup> Die zuständige Behörde legt ausserdem Auflagen und Bedingungen fest, um sicherzustellen, dass die Leistung zweckentsprechend verwendet wird und die Aufgabe kostengünstig und zeitgerecht erfüllt wird.
 
-[^16-1]: Eingefügt durch Ziff II/7 des Gesetzes über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 16. Juni 2010. In Kraft seit dem 1. Jan. 2011 (Abl. Nr. 28/2010)
+#### Art. 16a
 
-#### Art. 16bis
+**Inhalt der Leistungsaufträge**
 
-**Inhalt der Leistungsaufträge[^16-1]**
+<sup>1</sup> Zusätzlich zu den in Artikel 16 enthaltenen Elementen müssen die Leistungsaufträge grundsätzlich Bestimmungen über die folgenden zusätzlichen Punkte enthalten:
 
-Zusätzlich zu den in Artikel 16 enthaltenen Elementen müssen die Leistungsaufträge grundsätzlich Bestimmungen über die folgenden zusätzlichen Punkte enthalten:
-
-- Zielsetzung;
-
-- Modalitäten zum Controlling und zur Beurteilung der Zielerreichung;
-
-- Konsequenzen bei Nichtausführung oder nicht korrekter Ausführung des Vertrages;
-
-- Anpassungsmodalitäten;
-
-- Verfahren zur Beilegung von Streitigkeiten und zur Mediation;
-
-- Finanzaufsicht.
+- a) Zielsetzung;
+- b) Modalitäten zum Controlling und zur Beurteilung der Zielerreichung;
+- c) Konsequenzen bei Nichtausführung oder nicht korrekter Ausführung des Vertrages;
+- d) Anpassungsmodalitäten;
+- e) Verfahren zur Beilegung von Streitigkeiten und zur Mediation;
+- f) Finanzaufsicht.
 
 #### Art. 17
 
@@ -280,13 +245,11 @@ Zusätzlich zu den in Artikel 16 enthaltenen Elementen müssen die Leistungsauft
 
 <sup>3</sup> Eine Subventionskürzung ist in einem Zeitraum von zehn Jahren auf gesamthaft vier Jahre begrenzt.
 
-### 4. Kapitel: Subventionsarten
-
-[^h4KapitelSubventi-1]: Fassung gemäss Ziff II/7 des Gesetzes über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 16. Juni 2010. In Kraft seit dem 1. Jan. 2011 (Abl. Nr. 28/2010)
+## 4 Subventionsarten
 
 #### Art. 20
 
-**Global- oder Pauschalsubventionen[^h4KapitelSubventi-1]**
+**Global- oder Pauschalsubventionen**
 
 <sup>1</sup> Der Staat kann sowohl bei Subventionen an die Betriebskosten als auch bei Subventionen an Investitionen leistungsorientierte Global- oder Pauschalsubventionen ausrichten.
 
@@ -298,27 +261,23 @@ Zusätzlich zu den in Artikel 16 enthaltenen Elementen müssen die Leistungsauft
 
 <sup>5</sup> Die Global- oder Pauschalsubventionen können Infrastrukturkosten enthalten.
 
-[^20-1]: Fassung gemäss Ziff II/7 des Gesetzes über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 16. Juni 2010. In Kraft seit dem 1. Jan. 2011 (Abl. Nr. 28/2010)
-
 #### Art. 21
 
-**Kostenabhängige Subventionen[^20-1]**
+**Kostenabhängige Subventionen**
 
-Kostenabhängige Subventionen im Verhältnis zu den Kosten einer Leistung oder einer Realisierung werden ausnahmsweise gewährt, wenn Global- oder Pauschalsubventionen nicht geeignet sind.
+<sup>1</sup> Kostenabhängige Subventionen im Verhältnis zu den Kosten einer Leistung oder einer Realisierung werden ausnahmsweise gewährt, wenn Global- oder Pauschalsubventionen nicht geeignet sind.
 
 #### Art. 22
 
 **Zahlung der Subventionen an Investitionen**
 
-<sup>1</sup> ...[^22-1]
+<sup>1</sup> …
 
 <sup>2</sup> Die Höhe der Normkostenbeiträge wird durch die zuständige Behörde vor der Realisierung des Projektes festgelegt.
 
 <sup>3</sup> Subventionen werden aufgrund des Standes der Ausführung der Arbeiten ausbezahlt. Sie werden nicht an die Teuerung angepasst.
 
 <sup>4</sup> Mehrkosten, die sich aus der nachträglichen Änderung des bewilligten Projektes ergeben, werden nicht subventioniert, ausgenommen die durch höhere Gewalt verursachten Mehrkosten.
-
-[^22-1]: Aufgehoben durch Ziff II/7 des Gesetzes über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 16. Juni 2010. In Kraft seit dem 1. Jan. 2011 (Abl. Nr. 28/2010)
 
 #### Art. 23
 
@@ -334,17 +293,17 @@ Kostenabhängige Subventionen im Verhältnis zu den Kosten einer Leistung oder e
 
 <sup>5</sup> Die Prioritätenordnung muss mit dem vierjährigen Finanzplan abgestimmt werden.
 
-### 5. Kapitel: Sicherung des Beitragszwecks
+## 5 Sicherung des Beitragszwecks
 
 #### Art. 24
 
 **Zweckbindung**
 
-Die Subventionen müssen ihrem Zweck entsprechend und unter Einhaltung der Bedingungen und Auflagen verwendet werden.
+<sup>1</sup> Die Subventionen müssen ihrem Zweck entsprechend und unter Einhaltung der Bedingungen und Auflagen verwendet werden.
 
 #### Art. 25
 
-Nichterfüllung oder mangelhafte Erfüllung bei Finanzhilfe und Widerruf
+**Nichterfüllung oder mangelhafte Erfüllung bei Finanzhilfe und Widerruf**
 
 <sup>1</sup> Erfüllt der Empfänger einer Finanzhilfe trotz Mahnung seine Aufgabe nicht oder mangelhaft, so kürzt die zuständige Behörde die Finanzhilfe oder fordert sie samt Zins seit deren Auszahlung zurück. Der Zinssatz wird in der Verordnung festgesetzt.
 
@@ -364,13 +323,13 @@ Nichterfüllung oder mangelhafte Erfüllung bei Finanzhilfe und Widerruf
 
 <sup>5</sup> Zweckentfremdung und Veräusserungen sind vom Subventionsempfänger unverzüglich der zuständigen Behörde schriftlich zu melden.
 
-### 6. Kapitel: Rechtsschutz und Strafbestimmungen
+## 6 Rechtsschutz und Strafbestimmungen
 
 #### Art. 27
 
 **Rechtsschutz**
 
-Die im Rahmen dieses Gesetzes erlassenen Verfügungen können nach den allgemeinen Bestimmungen über das kantonale Verwaltungsverfahren angefochten werden.
+<sup>1</sup> Die im Rahmen dieses Gesetzes erlassenen Verfügungen können nach den allgemeinen Bestimmungen über das kantonale Verwaltungsverfahren angefochten werden.
 
 #### Art. 28
 
@@ -388,15 +347,15 @@ Die im Rahmen dieses Gesetzes erlassenen Verfügungen können nach den allgemein
 
 **Unterbrechung der Verjährung**
 
-Die Verjährung wird durch jede schriftliche Zahlungsaufforderung unterbrochen. Die Verjährungsfrist ruht, solange der Schuldner in der Schweiz nicht betrieben werden kann.
+<sup>1</sup> Die Verjährung wird durch jede schriftliche Zahlungsaufforderung unterbrochen. Die Verjährungsfrist ruht, solange der Schuldner in der Schweiz nicht betrieben werden kann.
 
 #### Art. 30
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer zur Erlangung einer Subvention über erhebliche Tatsachen unrichtige oder unvollständige Angaben macht oder solche verschweigt, wird durch das betreffende Departement mit einer Busse bis 20 000 Franken bestraft.
+<sup>1</sup> Wer zur Erlangung einer Subvention über erhebliche Tatsachen unrichtige oder unvollständige Angaben macht oder solche verschweigt, wird durch das betreffende Departement mit einer Busse bis 20'000 Franken bestraft.
 
-<sup>2</sup> Handelt der Täter aus Eigennutz, wird er mit einer Busse bis 100 000 Franken bestraft.
+<sup>2</sup> Handelt der Täter aus Eigennutz, wird er mit einer Busse bis 100'000 Franken bestraft.
 
 <sup>3</sup> Zudem kann die Rückzahlung der Subventionen verlangt werden.
 
@@ -404,15 +363,15 @@ Die Verjährung wird durch jede schriftliche Zahlungsaufforderung unterbrochen. 
 
 <sup>5</sup> Anstiftung und Gehilfenschaft sind strafbar.
 
-### 7. Kapitel: Übergangs- und Schlussbestimmungen
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 31
 
-Verhältnis zur Spezialgesetzgebung und Änderung von kantonalen Erlassen
+**Verhältnis zur Spezialgesetzgebung und Änderung von kantonalen Erlassen**
 
 <sup>1</sup> Dieses Gesetz ist mit Inkrafttreten auf alle kantonalen Subventionen anwendbar. Alle Bestimmungen der Spezialgesetzgebung bleiben anwendbar, soweit sie nicht den Bestimmungen dieses Gesetzes widersprechen.
 
-<sup>2</sup> Die entsprechenden Änderungen der geltenden kantonalen Gesetze und Dekrete finden sich im Anhang I, der Bestandteil dieses Gesetzes bildet.
+<sup>2</sup> Die entsprechenden Änderungen der geltenden kantonalen Gesetze und Dekrete finden sich im Anhang 1, der Bestandteil dieses Gesetzes bildet.
 
 <sup>3</sup> Der Staatsrat wird beauftragt, die übrigen Bestimmungen untergeordneten kantonalen Rechts entsprechend abzuändern.
 
@@ -442,12 +401,6 @@ Verhältnis zur Spezialgesetzgebung und Änderung von kantonalen Erlassen
 
 <sup>1</sup> Das vorliegende Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.[^34-1]
+<sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-So angenommen in zweiter Lesung im Grossen Rat zu Sitten, den 13.
-
-November 1995.
-
-Der Präsident des Grossen Rates: Jean-René Fournier Die Schriftführer: Herbert Marty, Florian Boisset
-
-[^34-1]: Inkrafttreten am 1. Mai 1996 (GS/VS 1996, 55)
+CSW RO/AGS 1996 f 54 | d 55
