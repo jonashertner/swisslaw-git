@@ -4,11 +4,11 @@ title: "Ordonnance du 29 février 1988 sur la chasse et la protection des mammif
 short: OChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: fr
-version: 2025-02-01
+version: 2025-11-12
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20250201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20251112-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20250201/fr"
 
 (Ordonnance sur la chasse, OChP)
 
-du 29 février 1988 (État le 1<sup>er</sup> février 2025)
+du 29 février 1988 (État le 12 novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu la loi du 20 juin 1986 sur la chasse et la protection des mammifères et oise
 
 arrête:
 
-[^ingress-1]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-1]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 15 juil. 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 
 ## Chapitre 1 Chasse
@@ -55,7 +55,7 @@ Les cantons veillent à ce que les autorités de police et les titulaires d’un
 <sup>2</sup> Les personnes qui ont passé un examen cantonal de garde-chasse, un examen cantonal de chasse ou un autre examen reconnu comme équivalent par le canton sont considérées comme compétentes.
 
 [^1b-1]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^1b-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^1b-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 2
 
@@ -336,7 +336,7 @@ Des loups appartenant à une meute présentent un comportement indésirable en p
 <sup>8</sup> L’OFEV donne son assentiment au canton pour une période de régulation; il tient compte de la répartition des meutes sur les cantons de la région concernée définie à l’annexe 3. Les meutes dont le territoire s’étend sur plusieurs des régions définies à l’annexe 3 sont comptabilisées proportionnellement. Il en va de même des meutes transfrontalières.
 
 [^4b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)). Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^4b-2]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^4b-2]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 
 #### Art. 4c
 
@@ -458,7 +458,7 @@ Il est interdit de mettre en vente et d’aliéner des animaux vivants d’espè
 [^7-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^7-2]: Introduite par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^7-3]: Introduite par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^7-4]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^7-4]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 [^7-5]: Nouvelle teneur selon l’annexe ch. II 5 de l’O du 4 sept. 2013 sur la circulation des espèces de faune et de flore protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 
 #### Art. 8
@@ -527,7 +527,7 @@ Il comprend pour chaque objet:
 
 <sup>4</sup> La description des objets fait partie intégrante de la présente ordonnance. Elle est publiée séparément dans le Recueil officiel du droit fédéral sous la forme d’un renvoi (art. 5, al. 1, let. c, de la loi du 18 juin 2004 sur les publications officielles[^8b-1]). Elle est accessible en ligne[^8b-2].
 
-[^8b-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^8b-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^8b-2]: [www.ofev.admin.ch](http://www.ofev.admin.ch) &gt; Thèmes &gt; Biodiversité &gt; Informations pour spécialistes &gt; Favoriser et mettre en réseau les milieux naturels de grande valeur écologique &gt; Corridors à faune &gt; Corridors à faune d’importance suprarégionale &gt; [Corridors faunistiques d’importance suprarégionale: descriptions des objets](https://www.bafu.admin.ch/bafu/fr/home/themes/biodiversite/info-specialistes/infrastructure-ecologique/passages-a-faune.html);
 
 #### Art. 8c
@@ -670,7 +670,7 @@ La Confédération ne verse l’indemnité que dans les cas suivants:
 <sup>4</sup> Le versement de l’OFEV aux cantons a lieu une fois par an pour la période comprise entre le 1<sup>er</sup> novembre et le 31 octobre.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 10<sup>ter</sup> et 10<sup>quater</sup>
 
@@ -730,7 +730,7 @@ Dans les exploitations d’estivage et les exploitations de pâturages communaut
 <sup>5</sup> L’application des mesures raisonnables incombe aux détenteurs d’animaux et aux apiculteurs.
 
 [^10b-1]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^10b-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10c
 
@@ -765,7 +765,7 @@ Une clôture de protection des troupeaux est considérée comme posée et entret
 
 L’OFEV évalue individuellement l’aptitude des chiens à protéger les troupeaux; les chiens doivent être âgés d’au moins 18 mois. Pour réussir l’évaluation, le chien doit répondre aux exigences suivantes:
 
-- a. il a été socialisé à l’homme et aux animaux et habitué aux situations se produisant dans son environnement en conformité avec son emploi (art. 73, al. 1, OPAn[^10d-3]); il est contrôlable par son détenteur;
+- a.[^10d-3] il a été socialisé à l’homme et aux animaux et habitué aux situations se produisant dans son environnement en conformité avec son emploi (art. 73, al. 1, OPAn[^10d-4]); il est contrôlable par son détenteur;
 - b. il agit de manière autonome près du troupeau d’animaux de rente lors de son emploi et adopte un comportement de défense approprié et différencié, conforme au but de son emploi au sens de l’al. 1, lorsque des personnes et des animaux intrus s’approchent du troupeau;
 - c. il ne présente pas de comportement d’agression supérieur à la norme à l’égard de l’homme (art. 79 OPAn).
 
@@ -781,8 +781,9 @@ Les chiens de protection des troupeaux sont employés dans les règles de l’ar
 <sup>6</sup> Les cantons veillent à ce que les zones d’emploi des chiens reconnus de protection des troupeaux traversées par des chemins pour piétons et des chemins de randonnée pédestre soient signalisées de manière appropriée. Ils communiquent à l’OFEV chaque année le 15 avril au plus tard les zones d’emploi prévues des chiens reconnus de protection des troupeaux dans la région d’estivage; l’Office fédéral de topographie représente ces zones sur le géoportail de la Confédération.
 
 [^10d-1]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10d-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^10d-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^10d-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^10d-3]: Erratum du 12 nov. 2025, ne concerne que le texte italien ([RO 2025 699](https://fedlex.data.admin.ch/eli/oc/2025/699)).
+[^10d-4]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 10e
 
@@ -815,7 +816,7 @@ Il répartit les moyens destinés à la participation aux coûts des mesures vis
 - d. l’effectif de chiens reconnus de protection des troupeaux visés à l’art. 10*d*, al. 2.
 
 [^10f-1]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10f-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^10f-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10g
 
@@ -889,8 +890,8 @@ Le GRIDS est relié aux systèmes d’information suivants:
 - c. banque de données sur le trafic des animaux (BDTA) visée à l’art. 45*b* LFE.
 
 [^10i-1]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10i-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^10i-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10i-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^10i-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 ## Chapitre 4 Recherche, documentation et conseil
 
@@ -979,7 +980,7 @@ Le montant minimal de la couverture de l’assurance responsabilité civile est 
 Lorsque les autorités fédérales appliquent d’autres lois fédérales, des accords internationaux ou des décisions internationales qui touchent des objets relevant de la présente ordonnance, elles exécutent également la présente ordonnance. Elles consultent les cantons avant de rendre leur décision. La collaboration de l’OFEV est régie par les art. 62*a* et 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^15a-2].
 
 [^15a-1]: Introduit par le ch. II 19 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 16
 
@@ -1006,7 +1007,7 @@ L’OFEV remet chaque année aux cantons une liste des personnes auxquelles l’
 <sup>3</sup> Il prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^18-2].[^18-3]
 
 [^18-1]: Introduit par le ch. I 28 de l’O du 26 juin 1996 sur l’attribution de nouvelles compétences de décision dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
-[^18-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^18-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 [^18-3]: Introduit par l’annexe 2 ch. 14 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 18<sup>bis</sup>
@@ -1089,7 +1090,7 @@ Annexe 1[^t-1]
 <tr><td></td><td>Hybrides d’animaux sauvages et domestiques assimilés à des animaux sauvages selon l’art. 86 de l’ordonnance du 23 avril 2008 sur la protection des animaux[^annex1-lvlu1-1].</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex1-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Annexe 2[^t-2]
 
@@ -1114,7 +1115,7 @@ Annexe 3[^t-3]
 
 [^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)). Nouvelle teneur selon le ch. II de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20250201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/fr/xml/image/image1.png)
 
 <table>
 <tr><th>Nom de la région</th><th>Numéro</th><th>Cantons</th><th>Surface</th><th>Nombre minimal de meutes de loups</th></tr>

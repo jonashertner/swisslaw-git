@@ -4,11 +4,11 @@ title: "Ordinanza del 29 febbraio 1988 sulla caccia e la protezione dei mammifer
 short: OCP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: it
-version: 2025-02-01
+version: 2025-11-12
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20250201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20251112-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20250201/it"
 
 (Ordinanza sulla caccia, OCP)
 
-del 29 febbraio 1988 (Stato 1° febbraio 2025)
+del 29 febbraio 1988 (Stato 12 novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -26,8 +26,8 @@ vista la legge del 20 giugno 1986[^ingress-1] sulla caccia (Legge sulla caccia);
 ordina:
 
 [^ingress-1]: RU **1988** 517 RS **922.0**
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
 [^ingress-4]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 
 ## Sezione 1: Caccia
@@ -55,7 +55,7 @@ I Cantoni provvedono affinché le persone autorizzate alla caccia e le autorità
 <sup>2</sup> Sono considerate esperte le persone che hanno superato un esame cantonale per guardacaccia, un esame cantonale di caccia o un esame riconosciuto come equivalente dal Cantone.
 
 [^1b-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^1b-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^1b-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 2
 
@@ -334,7 +334,7 @@ Un comportamento indesiderato sussiste laddove i lupi di un branco, singolarment
 <sup>8</sup> L’UFAM accorda l’approvazione al Cantone per un periodo di regolazione; tiene conto a tale scopo della distribuzione dei branchi nei Cantoni di una regione di cui all’allegato 3. I branchi con un areale abituale di attività che si estende su più regioni di cui all’allegato 3 vengono computati in modo proporzionale. Lo stesso vale per i branchi transfrontalieri.
 
 [^4b-1]: Introdotto dalla cifra I dell’O del 1° nov. 2023 ([RU 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^4b-2]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^4b-2]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 
 #### Art. 4c
 
@@ -456,8 +456,8 @@ I rapaci in cattività per falconeria possono essere tenuti:
 [^7-1]: Nuovo testo del per. giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^7-2]: Introdotta dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^7-3]: Introdotta dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^7-4]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
-[^7-5]: Nuovo testo giusta l’all. cifra II 5 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^7-4]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
+[^7-5]: Nuovo testo giusta l’all. cifra II n. 5 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 
 #### Art. 8
 
@@ -524,7 +524,7 @@ L’inventario riporta per ciascun oggetto:
 
 <sup>4</sup> La descrizione degli oggetti costituisce parte integrante della presente ordinanza. È pubblicata separatamente mediante rimando nella Raccolta ufficiale delle leggi federali (art. 5 cpv. 1 lett. c della legge del 18 giugno 2004[^8b-1] sulle pubblicazioni ufficiali). È accessibile in formato elettronico[^8b-2].
 
-[^8b-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^8b-1]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^8b-2]: [www.ufam.admin.ch](https://www.bafu.admin.ch/bafu/it/home/temi/biodiversita/info-specialisti/infrastruttura-ecologica/passaggi-faunistici.html) &gt; Temi &gt; Biodiversità &gt; Informazioni per gli specialisti &gt; Infrastruttura ecologica &gt; Corridoi faunistici &gt; Corridoi faunistici d’importanza sovraregionale: descrizioni degli oggetti
 
 #### Art. 8c
@@ -667,7 +667,7 @@ La Confederazione paga l’indennità solamente se:
 <sup>4</sup> Il rimborso da parte dell’UFAM ai Cantoni avviene una volta all’anno per il periodo dal 1° novembre al 31 ottobre.
 
 [^10-1]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 10<sup>ter</sup> e 10<sup>quater</sup>
 
@@ -727,7 +727,7 @@ Nel caso di aziende d’estivazione e aziende con pascoli comunitari, dopo il pr
 <sup>5</sup> Gli allevatori e gli apicoltori sono responsabili dell’attuazione delle misure ragionevolmente esigibili.
 
 [^10b-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^10b-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10c
 
@@ -762,7 +762,7 @@ Una recinzione per la protezione del bestiame è realizzata e manutenuta a regol
 
 L’UFAM verifica l’idoneità alla protezione del bestiame dei cani che hanno almeno 18 mesi di età. In sede di esame, un cane da protezione del bestiame deve soddisfare i seguenti requisiti:
 
-- a. in funzione del suo impiego, essere socializzato nei confronti degli esseri umani e delle persone e adattato alle situazioni ambientali (art. 73 cpv. 1 OPAn[^10d-3]) e, in presenza del detentore, è controllabile da quest’ultimo;
+- a.[^10d-3] in funzione del suo impiego, essere socializzato nei confronti degli esseri umani e degli animali ed essere adattato alle situazioni ambientali (art. 73 cpv. 1 OPAn[^10d-4]) nonché, in presenza del detentore, essere controllabile da quest’ultimo;
 - b. durante l’impiego resta autonomamente in prossimità degli animali da reddito e all’avvicinarsi di persone e animali estranei assume un comportamento di difesa adeguato allo scopo di impiego e conseguentemente differenziato secondo il capoverso 1;
 - c. non assume un comportamento oltremodo aggressivo nei confronti delle persone (art. 79 OPAn).
 
@@ -778,8 +778,9 @@ I cani da protezione del bestiame sono impiegati a regola d’arte laddove sono 
 <sup>6</sup> I Cantoni provvedono affinché le zone d’impiego dei cani da protezione del bestiame riconosciuti siano adeguatamente segnalate lungo i percorsi pedonali e i sentieri ufficiali. Ogni anno, entro il 15 aprile, comunicano all’UFAM le zone d’impiego previste per i cani da protezione del bestiame riconosciuti nella zona d’estivazione; l’Ufficio federale di topografia mappa le zone d’impiego nel geo-portale federale.
 
 [^10d-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10d-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^10d-3]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^10d-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^10d-3]: Correzione del 12 nov. 2025 ([RU 2025 699](https://fedlex.data.admin.ch/eli/oc/2025/699)).
+[^10d-4]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 10e
 
@@ -812,7 +813,7 @@ L’UFAM ripartisce i fondi per la partecipazione ai costi dei Cantoni per le mi
 - d. effettivo di cani da protezione del bestiame riconosciuti secondo l’articolo 10*d* capoverso 2.
 
 [^10f-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10f-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^10f-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10g
 
@@ -886,8 +887,8 @@ GRIDS è collegato con i seguenti sistemi d’informazione:
 - c. banca dati sul traffico di animali (BDTA) secondo l’articolo 45*b* LFE.
 
 [^10i-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10i-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^10i-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10i-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^10i-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 ## Sezione 4: Ricerca, documentazione e consulenza
 
@@ -967,7 +968,7 @@ La somma minima di copertura dell’assicurazione per la responsabilità civile 
 <sup>2</sup> Nei loro piani direttori e di utilizzazione, essi tengono conto delle esigenze della protezione delle specie e dei biotopi.[^15-2]
 
 [^15-1]: Nuova espr. giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)). Di detta mod. é tenuto conto in tutto il testo.
-[^15-2]: Introdotto dalla cifra I 6 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
+[^15-2]: Introdotto dalla cifra I n. 6 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° mar. 2015 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
 
 #### Art. 15a
 
@@ -975,8 +976,8 @@ La somma minima di copertura dell’assicurazione per la responsabilità civile 
 
 Nell’applicare altre leggi federali, accordi internazionali o decisioni internazionali concernenti punti disciplinati dalla presente ordinanza, le autorità federali eseguono in tal ambito anche la presente ordinanza. Esse consultano i Cantoni prima di prendere una decisione. La collaborazione dell’UFAM è retta dagli articoli 62*a* e 62*b* della legge federale del 21 marzo 1997[^15a-2] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^15a-1]: Introdotto dalla cifra II 19 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15a-1]: Introdotto dalla cifra II n. 19 dell’O del 2 feb. 2000 relativa alla legge federale sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 16
 
@@ -1002,8 +1003,8 @@ L’UFAM consegna ogni anno ai Cantoni un elenco delle persone cui è stata riti
 
 <sup>3</sup> Esso stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^18-2] sulla geoinformazione.[^18-3]
 
-[^18-1]: Introdotto dalla cifra I 28 dell’O del 26 giu. 1996 sulla nuova attribuzione delle competenze decisionali nell’Amministrazione federale, in vigore dal 1° ago. 1996 ([RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
-[^18-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^18-1]: Introdotto dalla cifra I n. 28 dell’O del 26 giu. 1996 sulla nuova attribuzione delle competenze decisionali nell’Amministrazione federale, in vigore dal 1° ago. 1996 ([RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
+[^18-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 [^18-3]: Introdotto dall’all. 2 n. 14 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 18<sup>bis</sup>
@@ -1086,7 +1087,7 @@ Allegato 1[^t-1]
 <tr><td></td><td>Ibridi fra animali selvatici e animali domestici che secondo l’articolo 86 dell’ordinanza del 23 aprile 2008[^annex1-lvlu1-1] sulla protezione degli animali sono equiparati agli animali selvatici.</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex1-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Allegato 2[^t-2]
 
@@ -1111,7 +1112,7 @@ Allegato 3[^t-3]
 
 [^t-3]: Introdotto dalla cifra II dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20250201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/it/xml/image/image1.png)
 
 <table>
 <tr><th>Denominazione della regione</th><th>Numero</th><th>Cantoni</th><th>Superficie</th><th>Numero minimo di branchi di lupi</th></tr>

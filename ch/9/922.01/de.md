@@ -4,11 +4,11 @@ title: "Verordnung vom 29. Februar 1988 über die Jagd und den Schutz wildlebend
 short: JSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: de
-version: 2025-02-01
+version: 2025-11-12
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20250201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20251112-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20250201/de"
 
 (Jagdverordnung, JSV)
 
-vom 29. Februar 1988 (Stand am 1. Februar 2025)
+vom 29. Februar 1988 (Stand am 12. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf das Jagdgesetz vom 20. Juni 1986[^ingress-1] (Jagdgesetz), auf Art
 
 verordnet:
 
-[^ingress-1]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-3]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-1]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-3]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 15. Juli 2012 ([AS 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 
 ## 1. Abschnitt: Jagd
@@ -55,7 +55,7 @@ Die Kantone sorgen dafür, dass Jagdberechtigte und Polizeibehörden für die Na
 <sup>2</sup> Personen, die eine kantonale Prüfung als Wildhüterin oder Wildhüter, eine kantonale Jagdprüfung oder eine vom Kanton als gleichwertig anerkannte Prüfung abgelegt haben, gelten als fachkundig.
 
 [^1b-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^1b-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^1b-2]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 2
 
@@ -335,7 +335,7 @@ Ein unerwünschtes Verhalten liegt insbesondere vor, wenn die Wölfe eines Rudel
 <sup>8</sup> Das BAFU erteilt seine Zustimmung an den Kanton für eine Regulierungsperiode; es berücksichtigt dabei die Verteilung der Rudel auf die Kantone einer Region gemäss Anhang 3. Rudel, deren Streifgebiet in mehreren Regionen nach Anhang 3 liegt, werden anteilmässig angerechnet. Dasselbe gilt für grenzüberschreitende Rudel.
 
 [^4b-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)). Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^4b-2]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^4b-2]: [SR 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 
 #### Art. 4c
 
@@ -457,7 +457,7 @@ Es ist verboten, lebende Tiere geschützter Arten anzubieten und zu veräussern.
 [^7-1]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^7-2]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 [^7-3]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^7-4]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^7-4]: [SR 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 [^7-5]: Fassung gemäss Anhang Ziff. II 5 der V vom 4. Sept. 2013 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 
 #### Art. 8
@@ -525,7 +525,7 @@ Das Inventar enthält für jedes Objekt:
 
 <sup>4</sup> Die Umschreibung der Objekte ist Bestandteil dieser Verordnung. Sie wird in der Amtlichen Sammlung des Bundesrechts durch Verweis separat veröffentlicht (Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004[^8b-1]). Sie ist in elektronischer Form[^8b-2] zugänglich.
 
-[^8b-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^8b-1]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^8b-2]: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Biodiversität &gt; Fachinformationen &gt; Ökologische Instrastruktur &gt; Wildtierkorridore &gt; [Wildtierkorridore von überregionaler Bedeutung: Objektbeschreibungen](https://www.bafu.admin.ch/bafu/de/home/themen/biodiversitaet/fachinformationen/oekologische-infrastruktur/wildtierpassagen.html);
 
 #### Art. 8c
@@ -668,7 +668,7 @@ Der Bund leistet die Abgeltung nur, wenn:
 <sup>4</sup> Die Vergütung des BAFU an die Kantone erfolgt einmal pro Jahr für den Zeitraum vom 1. November bis zum 31. Oktober.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10-2]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 10<sup>ter</sup> und 10<sup>quater</sup>
 
@@ -728,7 +728,7 @@ Auf Sömmerungs- und Gemeinschaftsweidebetrieben gilt nach einem ersten Angriff 
 <sup>5</sup> Die Tierhalterinnen und Tierhalter sowie Imkerinnen und Imker setzen die zumutbaren Massnahmen in Eigenverantwortung um.
 
 [^10b-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10b-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^10b-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10c
 
@@ -763,7 +763,7 @@ Ein Herdenschutzzaun ist dann fachgerecht erstellt und unterhalten, wenn er den 
 
 Das BAFU prüft die Hunde frühestens ab einem Alter von 18 Monaten einzeln auf ihre Eignung zum Herdenschutz. Ein Herdenschutzhund muss anlässlich der Prüfung folgende Anforderungen erfüllen:
 
-- a. Er ist seinem Einsatz entsprechend auf Menschen und Tiere sozialisiert und an Umweltsituationen gewöhnt (Art. 73 Abs. 1 TSchV[^10d-3]) sowie bei Anwesenheit der Hundehalterin oder des Hundehalters durch diese oder diesen kontrollierbar.
+- a.[^10d-3] Er ist seinem Einsatz entsprechend auf Menschen und Tiere sozialisiert und an Umweltsituationen gewöhnt (Art. 73 Abs. 1 TSchV[^10d-4]) sowie bei Anwesenheit der Hundehalterin oder des Hundehalters durch diese oder diesen kontrollierbar.
 - b. Er hält sich bei seinem Einsatz eigenständig bei der Nutztierherde auf und zeigt bei Annäherung fremder Menschen und Tiere an die Nutztierherde ein angepasstes und dem Einsatzzweck nach Absatz 1 entsprechend differenziertes Abwehrverhalten.
 - c. Er zeigt Menschen gegenüber kein übermässiges Aggressionsverhalten (Art. 79 TSchV).
 
@@ -779,8 +779,9 @@ Der Einsatz von Herdenschutzhunden ist unter folgenden Bedingungen fachgerecht:
 <sup>6</sup> Die Kantone sorgen dafür, dass die Einsatzgebiete anerkannter Herdenschutzhunde auf den offiziellen Fuss- und Wanderwegen angemessen markiert sind. Sie melden dem BAFU jährlich bis zum 15. April die vorgesehenen Einsatzgebiete anerkannter Herdenschutzhunde im Sömmerungsgebiet; das Bundesamt für Landestopografie bildet die gemeldeten Einsatzgebiete im Geoportal des Bundes ab.
 
 [^10d-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10d-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^10d-3]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^10d-2]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^10d-3]: Die Berichtigung vom 12. Nov. 2025 betrifft nur den italienischen Text ([AS 2025 699](https://fedlex.data.admin.ch/eli/oc/2025/699)).
+[^10d-4]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 10e
 
@@ -813,7 +814,7 @@ Das BAFU verteilt die Mittel für die Beteiligung an den Kosten der Kantone für
 - d. Bestand an anerkannten Herdenschutzhunden gemäss Artikel 10*d* Absatz 2.
 
 [^10f-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10f-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^10f-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10g
 
@@ -887,8 +888,8 @@ Das GRIDS ist mit den folgenden Informationssystemen verknüpft:
 - c. Tierverkehrsdatenbank (TVD) nach Artikel 45*b* TSG.
 
 [^10i-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10i-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^10i-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^10i-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^10i-3]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 ## 4. Abschnitt: Forschung, Dokumentation und Beratung
 
@@ -977,7 +978,7 @@ Die minimale Deckungssumme für die Haftpflicht von Jägerinnen und Jägern betr
 Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Sie hören vor ihrem Entscheid die Kantone an. Für die Mitwirkung des BAFU gelten die Artikel 62*a* und 62*b* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^15a-2].
 
 [^15a-1]: Eingefügt durch Ziff. II 19 der V vom 2. Feb. 2000 zum Bundesgesetz über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^15a-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15a-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 16
 
@@ -1004,7 +1005,7 @@ Das BAFU stellt den Kantonen jährlich eine Liste der Personen zu, denen die Jag
 <sup>3</sup> Es gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^18-2] als Fachstelle des Bundes bezeichnet ist.[^18-3]
 
 [^18-1]: Eingefügt durch Ziff. I 28 der V vom 26. Juni 1996 über die Neuzuordnung von Entscheidungsbefugnissen in der Bundesverwaltung, in Kraft seit 1. Aug. 1996 ([AS 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
-[^18-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^18-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 [^18-3]: Eingefügt durch Anhang 2 Ziff. 14 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 18<sup>bis</sup>
@@ -1087,7 +1088,7 @@ Anhang 1[^t-1]
 <tr><td></td><td>Hybriden zwischen wildlebenden Tieren und Haustieren, die gemäss Artikel 86 der Tierschutzverordnung vom 23. April 2008[^annex1-lvlu1-1] den Wildtieren gleichgestellt sind.</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex1-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Anhang 2[^t-2]
 
@@ -1112,7 +1113,7 @@ Anhang 3[^t-3]
 
 [^t-3]: Eingefügt durch Ziff. II der V vom 1. Nov. 2023 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)). Fassung gemäss Ziff. II der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20250201/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/de/xml/image/image1.png)
 
 <table>
 <tr><th>Bezeichnung der Region</th><th>Nummer</th><th>Kantone</th><th>Fläche</th><th>Mindestbestand an Wolfsrudeln</th></tr>
