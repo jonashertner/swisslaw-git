@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation de l’accord entre le Conseil fédéral suisse et le Cabinet des ministres de l’Ukraine relatif à la coopération dans le processus de reconstruction de l’Ukraine
 document: Projet mis en consultation-2
 language: fr

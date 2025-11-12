@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung des Abkommens zwischen dem Schweizerischen Bundesrat und dem Ministerkabinett der Ukraine über die Zusammenarbeit im Wiederaufbauprozess der Ukraine
 document: Vernehmlassungsvorlage
 language: de
