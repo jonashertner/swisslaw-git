@@ -3,20 +3,20 @@ canton: SH
 number: "832.111"
 title: Verordnung über den Vollzug des Krankenversicherungsgesetzes
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2024-01-01
+corrected: 2025-11-13
+version_adopted: 2024-04-02
 adopted: 1996-07-09
 in_force: 1996-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/832.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2032/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug des Krankenversicherungsgesetzes
 
-Vom 09.07.1996 (Stand 01.01.2025)
+Vom 09.07.1996 (Stand 01.01.2024)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -158,15 +158,15 @@ beschliesst:
 
 **Besondere Verhältnisse**
 
-<sup>1</sup> Bei Personen, deren Ansprüche durch die Organe der Sozialhilfe direkt geltend gemacht werden, kann auf die persönliche Zustellung eines Antragsformulares verzichtet werden. Die betroffenen Personen sind vor Ablauf der ordentlichen Frist zur Einreichung der Anträge durch die Organe der Sozialhilfe schriftlich zu informieren. § 20 Absätze 2 und 3 gelten sinngemäss.
+<sup>1</sup> Bei Personen, deren Ansprüche durch die Organe der Sozialhilfe direkt geltend gemacht werden, kann auf die persönliche Zustellung eines Antragsformulares verzichtet werden. Die betroffenen Personen sind vor Ablauf der ordentlichen Frist zur Einreichung der Anträge durch die Organe der Sozialhilfe schriftlich zu informieren.
 
 #### § 13
 
 **Anrechenbares Einkommen**
 
-<sup>1</sup> …
+<sup>1</sup> Massgebend sind die definitiven Steuerwerte gemäss § 12 Abs. 1 des Dekretes für das zweite oder – bei deren Fehlen – das dritte dem Zahlungsjahr vorangehende Jahr. Liegen diese Daten zum Zeitpunkt der Antragserstellung nicht vor, so sind die letzten verfügbaren provisorischen Daten massgebend.
 
-<sup>2</sup> Bei Personen, denen Beiträge aufgrund provisorischer Steuerdaten ausbezahlt wurden oder deren Antrag aufgrund provisorischer Steuerdaten abgewiesen wurde, wird von Amtes wegen eine Neuberechnung vorgenommen und eine Rückforderung bzw. Nachzahlung veranlasst, wenn sich das anrechenbare Einkommen gemäss definitiver Veranlagung für das massgebliche Basisjahr gegenüber dem angerechneten provisorischen Wert erhöht bzw. reduziert.
+<sup>2</sup> Bei Personen, denen Beiträge aufgrund provisorischer Steuerdaten ausbezahlt wurden oder deren Antrag aufgrund provisorischer Steuerdaten abgewiesen wurde, wird von Amtes wegen eine Neuberechnung vorgenommen und eine Rückforderung bzw. Nachzahlung veranlasst, wenn sich das anrechenbare Einkommen gemäss definitiver Veranlagung für das massgebliche Basisjahr gegenüber dem angerechneten provisorischen Wert um mehr als 25 Prozent, mindestens aber Fr. 5'000.00, erhöht bzw. reduziert.
 
 #### § 14
 
@@ -218,9 +218,9 @@ beschliesst:
 
 <sup>1</sup> An Personen, die Ergänzungsleistungen beziehen, werden keine Antragsformulare verschickt. Die AHV-Ausgleichskasse orientiert die betroffenen Personen.
 
-<sup>2</sup> Bei Personen, die während des Jahres einen Anspruch auf Ergänzungsleistungen erwerben, werden allfällige für dieses Jahr bereits geltend gemachte Prämienverbilligungsbeiträge angerechnet.
+<sup>2</sup> Bei Personen, die während des Jahres einen Anspruch auf Ergänzungsleistungen erwerben, werden allfällige für dieses Jahr bereits geltend gemachte Prämienverbilligungsbeiträge nicht angerechnet.
 
-<sup>3</sup> Bei Personen, die während des Jahres einen Anspruch auf Ergänzungsleistungen verlieren, wird von Amtes wegen eine Neuberechnung der Prämienverbilligung vorgenommen. Bei dem neu ermittelten Prämienverbilligungsanspruch werden bereits ausgerichtete Beiträge berücksichtigt.
+<sup>3</sup> Personen, die während des Jahres den Anspruch auf Ergänzungsleistungen verlieren, können einen Anspruch auf Prämienverbilligungsbeiträge bis zum 31. Dezember des gleichen Jahres geltend machen. Die bei der Berechnung der Ergänzungsleistungen bereits berücksichtigten Beiträge werden bei der Berechnung der Prämienverbilligungsbeiträge angerechnet.
 
 <sup>4</sup> …
 
@@ -328,34 +328,25 @@ beschliesst:
 
 [^27-1]: Amtsblatt 1996, S. 939.
 
-## A1 Anhang 1: Durchführung der Prämienverbilligung im Jahre 2025
-
-#### § A1-0.1
-
-**Schwellenwert für den Bezug der Steuer- und Personendaten gemäss § 14 Abs. 1 und 1<sup>bis</sup> des Dekrets**
-
-<sup>1</sup>
-
-- a) Reineinkommen — Fr. 150'000.00
-- b) Steuerpflichtiges Vermögen — Fr. 600'000.00
+## A1 Anhang 1: Durchführung der Prämienverbilligung im Jahre 2024
 
 #### § A1-1
 
 **Berechnungsgrundlagen, ordentliches Verfahren**
 
-<sup>1</sup> Die anrechenbaren Prämien gemäss § 11 des Dekrets (Jahresprämien) werden für die Prämienregion 1 (Stadt Schaffhausen und Neuhausen am Rheinfall) wie folgt festgelegt:
+<sup>1</sup> Die anrechenbaren Prämien gemäss § 11 des Dekretes (Jahresprämien) werden für die Prämienregion 1 (Stadt Schaffhausen und Neuhausen am Rheinfall) wie folgt festgelegt:
 
-- a) Personen der Jahrgänge 1999 und älter: — Fr. 5'773.00
-- b) Personen der Jahrgänge 2000–2006: — Fr. 3'807.00
-- c) Kinder (Jahrgänge 2007 und jünger): — Fr. 1'326.00
+- a) Personen der Jahrgänge 1998 und älter: — Fr. 5'620.00
+- b) Personen der Jahrgänge 1999–2005: — Fr. 3'699.00
+- c) Kinder (Jahrgänge 2006 und jünger): — Fr. 1'295.00
 
 <sup>2</sup> Für Personen mit Wohnsitz in der Prämienregion 2 (übrige Gemeinden) gelten folgende Richtprämien:
 
-- a) Personen der Jahrgänge 1999 und älter: — Fr. 5'406.00
-- b) Personen der Jahrgänge 2000–2006: — Fr. 3'528.00
-- c) Kinder (Jahrgänge 2007 und jünger): — Fr. 1'234.00
+- a) Personen der Jahrgänge 1998 und älter: — Fr. 5'233.00
+- b) Personen der Jahrgänge 1999–2005: — Fr. 3'411.00
+- c) Kinder (Jahrgänge 2006 und jünger): — Fr. 1'204.00
 
-<sup>3</sup> Zur Bestimmung des anrechenbaren Einkommens im Sinne von § 12 des Dekrets wird auf die Steuerfaktoren abgestellt, die an einem von den Steuerbehörden nach den technischen Erfordernissen des Vollzugs festzulegenden Datum im Januar 2025 verfügbar sind.
+<sup>3</sup> Zur Bestimmung des anrechenbaren Einkommens im Sinne von § 12 des Dekrets wird auf die Steuerfaktoren abgestellt, die an einem von den Steuerbehörden nach den technischen Erfordernissen des Vollzugs festzulegenden Datum im Januar 2024 verfügbar sind.
 
 #### § A1-2
 
@@ -363,19 +354,19 @@ beschliesst:
 
 <sup>1</sup> Antragsformulare sind durch die AHV-Ausgleichskasse in der Prämienregion 1 zumindest jenen direkt besteuerten Personen zuzustellen, deren anrechenbares Einkommen im Sinne von § 12 des Dekrets über den Vollzug des Krankenversicherungsgesetzes die folgenden Grenzwerte unterschreitet:
 
-- a) Alleinstehende Jahrgang 1999 und älter: — Fr. 38'487.00
-- b) Alleinstehende Jahrgang 2000 bis 2004: — Fr. 25'380.00
-- c) Verheiratete (gemeinsam besteuert): — Fr. 76'973.00
-- d) Zuschlag pro Kind Jahrgang 2007 und jünger: — Fr. 8'840.00
-- e) Zuschlag pro Kind Jahrgang 2005 / 2006: — Fr. 25'380.00
+- a) Alleinstehende Jahrgang 1998 und älter: — Fr. 37'466.00
+- b) Alleinstehende Jahrgang 1999 bis 2003: — Fr. 24'660.00
+- c) Verheiratete (gemeinsam besteuert): — Fr. 74'933.00
+- d) Zuschlag pro Kind Jahrgang 2006 und jünger: — Fr. 8'633.00
+- e) Zuschlag pro Kind Jahrgang 2004 / 2005: — Fr. 24'660.00
 
 <sup>2</sup> Für die Prämienregion 2 gelten folgende Grenzwerte:
 
-- a) Alleinstehende Jahrgang 1999 und älter: — Fr. 36'040.00
-- b) Alleinstehende Jahrgang 2000 bis 2004: — Fr. 23'520.00
-- c) Verheiratete (gemeinsam besteuert): — Fr. 72'080.00
-- d) Zuschlag pro Kind Jahrgang 2007 und jünger: — Fr. 8'227.00
-- e) Zuschlag pro Kind Jahrgang 2005 / 2006: — Fr. 23'520.00
+- a) Alleinstehende Jahrgang 1998 und älter: — Fr. 34'887.00
+- b) Alleinstehende Jahrgang 1999 bis 2003: — Fr. 22'740.00
+- c) Verheiratete (gemeinsam besteuert): — Fr. 69'773.00
+- d) Zuschlag pro Kind Jahrgang 2006 und jünger: — Fr. 8'027.00
+- e) Zuschlag pro Kind Jahrgang 2004 / 2005: — Fr. 22'740.00
 
 #### § A1-3
 
@@ -383,8 +374,8 @@ beschliesst:
 
 <sup>1</sup> Für das Antragsverfahren gelten die folgenden Termine:
 
-- a) Versand der Antragsformulare an ordentlich besteuerte Personen: — bis 31. Januar 2025
-- b) ordentliche Frist zur Einreichung der Anträge: — 30. April 2025
-- c) letzte Nachfrist bei wichtigen Gründen gemäss § 15 Abs. 2: — 15. Juni 2025
+- a) Versand der Antragsformulare an ordentlich besteuerte Personen: — bis 31. Januar 2024
+- b) ordentliche Frist zur Einreichung der Anträge: — 30. April 2024
+- c) letzte Nachfrist bei wichtigen Gründen gemäss § 15 Abs. 2: — 15. Juni 2024
 
 Abl. 1996, S. 939
