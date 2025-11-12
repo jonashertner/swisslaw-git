@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 6 novembre 2025 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: fr
-version: 2025-11-06
+version: 2025-11-13
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251106/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251106-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251106/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251113/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251113-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251113/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 6 novembre 2025 (État le 6 novembre 2025)
+du 6 novembre 2025 (État le 13 novembre 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -187,14 +187,36 @@ Annexe 1
 
 La présente annexe ne comporte encore aucune entrée.
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 6)
 
 ## Régions d’observation
 
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 13 nov. 2025, en vigueur depuis le 13 nov. 2025 à 18 heures ([RO 2025 708](https://fedlex.data.admin.ch/eli/oc/2025/708)).
+
 Sont réputées régions d’observation, sur une largeur de 3 km, les rives bordant les eaux mentionnées ci-dessous:
 
+- – Aar, effluent du lac de Bienne jusqu’à Klingnau, y compris la réserve naturelle Häftli;
+- – Allondon y compris le Rhône, à partir de l’effluent du Léman;
+- – lac de Baldegg;
 - – lac de Bienne, y compris le canal de la Thièle;
+- – lac de Constance, partie supérieure;
+- – lac de Constance, partie inférieure;
+- – Léman;
+- – lac de Greifen;
+- – lac d’Hallwil;
+- – lac de retenue de Klingnau;
+- – Limmat;
 - – lac de Morat;
-- – lac de Neuchâtel, y compris le canal de la Broye.
+- – lac de Neuchâtel, y compris le canal de la Broye;
+- – lac de Pfäffikon;
+- – Reuss, à partir de l’effluent du lac des Quatre-Cantons;
+- – Rhin, à partir de l’effluent du lac de Constance jusqu’à Bâle, y compris l’enclave allemande de Büsingen dans le canton de Schaffhouse;
+- – lac de Sempach;
+- – lac de retenue de Niederried;
+- – lac des Quatre-Cantons;
+- – lac de Wohlen;
+- – lac de Zoug;
+- – lac de Zurich;
+- – Vieux Rhin, de la commune de Sankt Margrethen à l’embouchure dans le lac de Constance.

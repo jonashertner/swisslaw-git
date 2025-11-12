@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 6. November 2025 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: de
-version: 2025-11-06
+version: 2025-11-13
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251106/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251106-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251106/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251113/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251113-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251113/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 6. November 2025 (Stand am 6. November 2025)
+vom 6. November 2025 (Stand am 13. November 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -120,7 +120,7 @@ Sie müssen:
 
 **Massnahmen der Tierhalterinnen und Tierhalter in den Beobachtungsgebieten**
 
-In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 oder mehr Vögel halten, von denen mindestens ein Tier der Ordnungen Hühnervögel (*Galliformes*), Gänsevögel (*Anseriformes*) oder Laufvögel (S*truthioniformes*) gehört, die Massnahmen nach Artikel 7 treffen.
+In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 oder mehr Vögel halten, von denen mindestens ein Tier der Ordnungen Hühnervögel (*Gal**liformes*), Gänsevögel (*Anseriformes*) oder Laufvögel (S*truthioniformes*) gehört, die Massnahmen nach Artikel 7 treffen.
 
 #### Art. 10
 
@@ -187,14 +187,36 @@ Anhang 1
 
 Dieser Anhang enthält noch keine Einträge.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 6)
 
 ## Beobachtungsgebiete
 
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 13. Nov. 2025, in Kraft seit 13. Nov. 2025 um 18 Uhr ([AS 2025 708](https://fedlex.data.admin.ch/eli/oc/2025/708)).
+
 Als Beobachtungsgebiete gelten in einem drei Kilometer breiten Streifen die Ufer der folgenden Gewässer:
 
+- – Aare, ab Ausfluss aus dem Bielersee bis Klingnau, einschliesslich des Naturschutzgebietes Häftli;
+- – Allondon, einschliesslich Rhone, ab Ausfluss aus dem Genfersee;
+- – Alter Rhein, von der Gemeinde St. Margrethen bis zur Mündung in den Bodensee;
+- – Baldeggersee;
 - – Bielersee, einschliesslich Zihlkanal;
+- – Bodensee-Obersee;
+- – Bodensee-Untersee;
+- – Genfersee;
+- – Greifensee;
+- – Hallwilersee;
+- – Klingnauer Stausee;
+- – Limmat;
 - – Murtensee;
-- – Neuenburgersee, einschliesslich Broye-Kanal.
+- – Neuenburgersee, einschliesslich Broye-Kanal;
+- – Pfäffikersee;
+- – Reuss, ab Ausfluss aus dem Vierwaldstättersee;
+- – Rhein, ab Ausfluss aus dem Bodensee bis Basel, einschliesslich der deutschen Enklave Büsingen im Kanton Schaffhausen;
+- – Sempachersee;
+- – Stausee Niederried;
+- – Vierwaldstättersee;
+- – Wohlensee;
+- – Zugersee;
+- – Zürichsee.

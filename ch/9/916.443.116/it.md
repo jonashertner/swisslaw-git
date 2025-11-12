@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 6 novembre 2025 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: it
-version: 2025-11-06
+version: 2025-11-13
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251106/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251106-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251106/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251113/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251113-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 6 novembre 2025 (Stato 6 novembre 2025)
+del 6 novembre 2025 (Stato 13 novembre 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -187,14 +187,36 @@ Allegato 1
 
 Il presente allegato non contiene ancora voci.
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 6)
 
 ## Zone di osservazione
 
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 13 nov. 2025, in vigore il 13 nov. 2025 alle ore 18.00 ([RU 2025 708](https://fedlex.data.admin.ch/eli/oc/2025/708)).
+
 Sono considerate zone di osservazione le coste di tre km di larghezza che delimitano le acque elencate di seguito:
 
+- – Aare, dall’uscita dal Lago di Bienne a Klingnau, inclusa la riserva naturale di Häftli;
+- – Allondon, incluso il Rodano, dall’uscita dal Lago di Ginevra;
+- – Lago artificiale di Klingnau;
+- – Lago artificiale di Niederried;
+- – Lago di Baldegg;
+- – Lago dei Quattro Cantoni;
 - – Lago di Bienne, incluso lo Zihlkanal;
+- – Lago di Ginevra;
+- – Lago di Greifen;
+- – Lago di Hallwil;
 - – Lago di Morat;
-- – Lago di Neuchâtel, incluso il Canale della Broye.
+- – Lago di Neuchâtel, incluso il Canale della Broye;
+- – Lago di Pfäffikon;
+- – Lago di Sempach;
+- – Lago di Wohlen;
+- – Lago di Zugo;
+- – Lago di Zurigo;
+- – Lago inferiore di Costanza;
+- – Lago superiore di Costanza;
+- – Limmat;
+- – Reuss, dall’uscita dal Lago dei Quattro Cantoni;
+- – Reno, dall’uscita dal Lago di Costanza a Basilea, inclusa l’enclave tedesca di Büsingen nel Cantone di Sciaffusa;
+- – Vecchio Reno, dal Comune di St. Margrethen all’estuario del Lago di Costanza.
