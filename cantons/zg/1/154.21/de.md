@@ -4,13 +4,12 @@ number: "154.21"
 title: Gesetz über das Arbeitsverhältnis des Staatspersonals
 short: Personalgesetz; PG
 language: de
-version: 2024-01-01
-valid_until: 2025-11-13
-version_adopted: 2024-02-29
+version: 2025-11-14
+version_adopted: 2025-08-28
 adopted: 1994-09-01
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.21"
-pdf: "https://bgs.zg.ch/api/de/versions/2593/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2744/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2593/pdf_file"
 
 (Personalgesetz; PG)
 
-Vom 1. September 1994 (Stand 1. Januar 2024)
+Vom 1. September 1994 (Stand 14. November 2025)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -39,7 +38,7 @@ beschliesst:
 
 <sup>2</sup> Der Begriff «Kanton» wird in diesem Gesetz als Sammelbegriff für die Staatsverwaltung, die kantonalen Anstalten mit Ausnahme des Kantonsspitals, die Gerichte, die Datenschutzstelle, die Ombudsstelle sowie die kantonalen Schulen verwendet.
 
-<sup>3</sup> Der Kanton als Arbeitgeber wird, sofern dieses Gesetz nicht ausdrücklich etwas anderes bestimmt, durch den Regierungsrat vertreten, im Bereich der Justizverwaltung durch das Obergericht bzw. das Verwaltungsgericht, im Bereich der Datenschutzstelle durch die Datenschutzbeauftragte oder den Datenschutzbeauftragten, im Bereich der Ombudsstelle durch die Ombudsperson jeweils für die ihrer bzw. seiner Aufsicht unterstehenden Mitarbeiterinnen und Mitarbeiter.
+<sup>3</sup> Der Kanton als Arbeitgeber wird, sofern dieses Gesetz nicht ausdrücklich etwas anderes bestimmt, durch den Regierungsrat vertreten, im Bereich der Justizverwaltung durch das Obergericht bzw. das Verwaltungsgericht, im Bereich der Datenschutzstelle durch die Datenschutzbeauftragte oder den Datenschutzbeauftragten, im Bereich der Ombudsstelle durch die Ombudsperson, im Bereich der Zuger Pensionskasse durch den Vorstand jeweils für die ihrer bzw. seiner Aufsicht unterstehenden Mitarbeiterinnen und Mitarbeiter.
 
 <sup>4</sup> Der Regierungsrat kann seine gesetzlichen Zuständigkeiten, mit Ausnahme der Anstellung und Entlassung von Amtsleitenden, an die Direktionen delegieren und diese zur Subdelegation an die ihnen direkt Unterstellten ermächtigen, jedoch ohne Ermächtigung zur weiteren Subdelegation. Für das Obergericht und das Verwaltungsgericht gilt diese Regelung sinngemäss.[^1-1] [^1-2]
 
