@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2025-05-01
+version: 2025-11-15
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250501/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250501-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20251115/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20251115-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 May 2025)
+of 3 June 2016 (Status as of 15 November 2025)
 
 The Swiss Federal Council,
 
@@ -27,9 +27,9 @@ based on the Goods Control Act of 13 December 1996[^ingress-1] (GCA), Article 22
 
 ordains:
 
-[^ingress-1]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^ingress-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^ingress-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^ingress-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^ingress-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## Chapter 1 General Provisions
 
@@ -81,7 +81,7 @@ Any person who wishes to export goods that they know or have reason to believe a
 - a. the goods are not listed in Annexes 2–5;
 - b. exceptions from the licence requirement are made.
 
-[^3-1]: [SR 632.14](https://fedlex.data.admin.ch/eli/cc/2011/669)
+[^3-1]: [SR 632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7981)
 
 #### Art. 4
 
@@ -99,7 +99,7 @@ No export licence is required for:
 - h. hunting and sports weapons with the ammunition pertaining thereto that are credibly shown to be needed by persons for hunting, sports shooting or martial arts abroad, provided these weapons are re-imported into Switzerland thereafter;
 - i. hunting and sports weapons with the ammunition pertaining thereto that are credibly shown to be needed by persons for hunting, sports shooting or martial arts in Switzerland, provided these weapons are re-exported thereafter.
 
-[^4-1]: [SR 946.202.21](https://fedlex.data.admin.ch/eli/cc/2013/580)
+[^4-1]: [SR 946.202.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11365)
 
 #### Art. 5
 
@@ -175,11 +175,11 @@ The natural person or the officers of the legal entity making the application mu
 - d. the Nuclear Energy Act of 21 March 2003[^10-4]; or
 - e. the Federal Act of 25 June 1982[^10-5] on International Trade Measures.
 
-[^10-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^10-1]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 [^10-2]: Inserted by No III 2 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^10-3]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^10-4]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^10-5]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^10-3]: [SR 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^10-4]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^10-5]: [SR 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
 
 #### Art. 11
 
@@ -238,7 +238,7 @@ Supplies of goods listed in Annexes 2–5 to public warehouses or bonded warehou
 <sup>3</sup> Any person who exports goods covered by Customs Tariff chapters[^17-2] 28–29, 30 (only tariff numbers 3002.1000/9000), 34, 36–40, 54–56, 59, 62, 65 (only tariff numbers 6506.1000), 68–76, 79, 81–90 and 93 but which are not subject to a licence requirement under Article 3 or which are exempted from an export licence in terms of Article 4 must mark the customs declaration: «Licence not required».[^17-3]
 
 [^17-1]: Amended by No III 2 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^17-2]: Customs Tariff Act of 9 Oct. 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)). Annex 1 and 2 of the Customs Tariff Act can be viewed free of charges at www.ezv.admin.ch &gt; Zolltarif - Tares.
+[^17-2]: Customs Tariff Act of 9 Oct. 1986 ([SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)). Annex 1 and 2 of the Customs Tariff Act can be viewed free of charges at www.ezv.admin.ch &gt; Zolltarif - Tares.
 [^17-3]: Amended by Annex 3 No 16 of the O of 30 June 2021 on the Amendment of the Customs Tariff, in force since 1 Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 18
@@ -365,7 +365,7 @@ Paragraphs 2 and 3 do not apply to:
 
 <sup>2</sup> Employees of the associations and specialist organisations and the specialist individuals are obliged to maintain official secrecy as defined in Article 320 of the Criminal Code[^28-1].
 
-[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Chapter 5 Final Provisions
 
@@ -403,8 +403,8 @@ Annexes 1 and 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Amended by No I of the EAER O of 2 April 2025, in force since 1 May 2025 ([AS 2025 229](https://fedlex.data.admin.ch/eli/oc/2025/229))
-[^annexu1-lvlu1-1]: The content of these annexes is published in the AS and the SR by reference only. It may be obtained under: [https://fedlex.data.admin.ch/eli/oc/2025/229](https://fedlex.data.admin.ch/eli/oc/2025/229) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis
+[^t-1]: Amended by No I of the EAER O of 21 Oct. 2025, in force since 15 Nov. 2025 ([AS 2025 641](https://fedlex.data.admin.ch/eli/oc/2025/641))
+[^annexu1-lvlu1-1]: The content of these annexes is published in the AS and the SR by reference only. It may be obtained under: [https://fedlex.data.admin.ch/eli/oc/2025/641](https://fedlex.data.admin.ch/eli/oc/2025/641) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis
 
 Annex 3[^t-2]
 
@@ -429,8 +429,8 @@ Annex 5
 - 1\. Weapons, essential weapons parts and components, weapons accessories, ammunition or ammunition parts and components in terms of the WA that are not subject to the legislation on war material and are not included in Annex 3. Exempted from the foregoing are knives and daggers in terms of Article 7 of the Weapons Ordinance of 2 July 2008[^annex5-lvlu1-1] that are in non-commercial circulation.
 - 2\. Explosives and propellant powder under the Explosives Act of 25 March 1977[^annex5-lvlu1-2] that are not subject to the legislation on war material and are not included in Annexes 2 and 3.
 
-[^annex5-lvlu1-1]: [SR 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
-[^annex5-lvlu1-2]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^annex5-lvlu1-1]: [SR 514.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7531)
+[^annex5-lvlu1-2]: [SR 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
 
 Annex 6
 

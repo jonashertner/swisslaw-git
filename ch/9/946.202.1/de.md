@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2025-05-01
+version: 2025-11-15
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250501/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20251115/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20251115-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 1. Mai 2025)
+vom 3. Juni 2016 (Stand am 15. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf das Güterkontrollgesetz vom 13. Dezember 1996[^ingress-1] (GKG), 
 
 verordnet:
 
-[^ingress-1]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^ingress-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^ingress-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^ingress-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^ingress-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -79,7 +79,7 @@ Wer Güter ausführen will, von denen er oder sie weiss oder Grund zur Annahme h
 - a. die Güter nicht in den Anhängen 2–5 aufgeführt sind;
 - b. Ausnahmen von der Bewilligungspflicht vorgesehen sind.
 
-[^3-1]: [SR 632.14](https://fedlex.data.admin.ch/eli/cc/2011/669)
+[^3-1]: [SR 632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7981)
 
 #### Art. 4
 
@@ -97,7 +97,7 @@ Keine Ausfuhrbewilligung ist erforderlich für:
 - h. Jagd- und Sportwaffen mit dazugehöriger Munition von Personen, die diese glaubhaft für die Jagd oder den Schiess- oder Kampfsport im Ausland benötigen, falls diese Waffen anschliessend wieder in die Schweiz eingeführt werden;
 - i. Jagd- und Sportwaffen mit dazugehöriger Munition von Personen, die diese glaubhaft für die Jagd oder den Schiess- oder Kampfsport im Inland benötigt haben und wieder ausführen.
 
-[^4-1]: [SR 946.202.21](https://fedlex.data.admin.ch/eli/cc/2013/580)
+[^4-1]: [SR 946.202.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11365)
 
 #### Art. 5
 
@@ -173,11 +173,11 @@ Die gesuchstellende natürliche Person oder die Mitglieder der Organe der gesuch
 - d. das Kernenergiegesetz vom 21. März 2003[^10-4]; oder
 - e. das Bundesgesetz vom 25. Juni 1982[^10-5] über aussenwirtschaftliche Massnahmen.
 
-[^10-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^10-1]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 [^10-2]: Eingefügt durch Ziff. III 2 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^10-3]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^10-4]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^10-5]: [SR 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^10-3]: [SR 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^10-4]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^10-5]: [SR 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
 
 #### Art. 11
 
@@ -236,7 +236,7 @@ Für die Lieferung von Gütern nach den Anhängen 2–5 an offene Zolllager oder
 <sup>3</sup> Wer Güter ausführt, die unter die Zolltarifkapitel[^17-2] 28–29, 30 (nur die Tarifnummern 3002.1200–9000), 34, 36–40, 54–56, 59, 62, 65 (nur die Tarifnummer 6506.1000), 68–76, 79, 81–90 und 93 fallen, jedoch nicht der Bewilligungspflicht nach Artikel 3 unterliegen oder nach Artikel 4 von der Ausfuhrbewilligungspflicht ausgenommen sind, muss in der Zollanmeldung den Hinweis «bewilligungsfrei» anbringen.[^17-3]
 
 [^17-1]: Fassung gemäss Ziff. III 2 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^17-2]: Zolltarifgesetz vom 9. Oktober 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Anhänge 1 und 2. Der Zolltarif kann kostenlos eingesehen werden unter www.ezv.admin.ch &gt; Zolltarif – Tares.
+[^17-2]: Zolltarifgesetz vom 9. Oktober 1986 ([SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)), Anhänge 1 und 2. Der Zolltarif kann kostenlos eingesehen werden unter: [www.ezv.admin.ch](http://www.ezv.admin.ch) &gt; Zolltarif – Tares.
 [^17-3]: Fassung gemäss Anhang 3 Ziff. 16 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 18
@@ -363,7 +363,7 @@ Die Absätze 2 und 3 sind nicht anwendbar auf:
 
 <sup>2</sup> Das Personal der Verbände und fachkundigen Organisationen sowie die Fachleute sind zur Wahrung des Amtsgeheimnisses im Sinne von Artikel 320 des Strafgesetzbuches[^28-1] verpflichtet.
 
-[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -401,8 +401,8 @@ Anhänge 1 und 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassungen gemäss Ziff. I der V des WBF vom 2. April 2025, in Kraft seit 1. Mai 2025 ([AS 2025 229](https://fedlex.data.admin.ch/eli/oc/2025/229)).
-[^annexu1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/229](https://fedlex.data.admin.ch/eli/oc/2025/229)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassungen gemäss Ziff. I der V des WBF vom 21. Okt. 2025, in Kraft seit 15. Nov. 2025 ([AS 2025 641](https://fedlex.data.admin.ch/eli/oc/2025/641)).
+[^annexu1-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/641](https://fedlex.data.admin.ch/eli/oc/2025/641) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
@@ -427,8 +427,8 @@ Anhang 5
 - 1\. Waffen, wesentliche Waffenbestandteile, Waffenzubehör, Munition und Munitionsbestandteile nach dem WG, die nicht der Kriegsmaterialgesetzgebung unterliegen und von Anhang 3 nicht erfasst werden. Ausgenommen sind im nichtgewerbsmässigen Verkehr Messer und Dolche nach Artikel 7 der Waffenverordnung vom 2. Juli 2008[^annex5-lvlu1-1].
 - 2\. Sprengmittel und Schiesspulver nach dem Sprengstoffgesetz vom 25. März 1977[^annex5-lvlu1-2], die nicht der Kriegsmaterialgesetzgebung unterliegen und nicht von den Anhängen 2 und 3 erfasst werden.
 
-[^annex5-lvlu1-1]: [SR 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
-[^annex5-lvlu1-2]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^annex5-lvlu1-1]: [SR 514.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7531)
+[^annex5-lvlu1-2]: [SR 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
 
 Anhang 6
 

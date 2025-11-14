@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2025-05-01
+version: 2025-11-15
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20250501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20251115/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20251115-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20250501/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 1° maggio 2025)
+del 3 giugno 2016 (Stato 15 novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ vista la legge del 13 dicembre 1996[^ingress-1] sul controllo dei beni a duplice
 
 ordina:
 
-[^ingress-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^ingress-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^ingress-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
+[^ingress-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^ingress-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -79,7 +79,7 @@ Chiunque intende esportare beni che sa o ha motivo di ritenere essere destinati 
 - a. tali beni non siano elencati negli allegati 2–5;
 - b. per tali beni siano previste deroghe all’obbligo dell’autorizzazione.
 
-[^3-1]: [RS 632.14](https://fedlex.data.admin.ch/eli/cc/2011/669)
+[^3-1]: [RS 632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7981)
 
 #### Art. 4
 
@@ -97,7 +97,7 @@ Non è necessaria alcuna autorizzazione d’esportazione per:
 - h. le armi da caccia, quelle per il tiro sportivo e le relative munizioni di persone che verosimilmente le utilizzano all’estero per la caccia, il tiro sportivo o lo sport di combattimento, se in seguito tali armi sono reimportate in Svizzera;
 - i. le armi da caccia, quelle per il tiro sportivo e le relative munizioni di persone che le hanno utilizzate verosimilmente in Svizzera per la caccia, il tiro sportivo o lo sport di combattimento, per poi riesportarle.
 
-[^4-1]: [RS 946.202.21](https://fedlex.data.admin.ch/eli/cc/2013/580)
+[^4-1]: [RS 946.202.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11365)
 
 #### Art. 5
 
@@ -173,11 +173,11 @@ La persona fisica che presenta la domanda o i membri degli organi della persona 
 - d. alla legge federale del 21 marzo 2003[^10-4] sull’energia nucleare; oppure
 - e. alla legge federale del 25 giugno 1982[^10-5] sulle misure economiche esterne.
 
-[^10-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^10-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 [^10-2]: Introdotta dalla cifra III n. 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^10-3]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^10-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^10-5]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
+[^10-3]: [RS 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^10-4]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^10-5]: [RS 946.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11358)
 
 #### Art. 11
 
@@ -236,7 +236,7 @@ La fornitura di beni di cui agli allegati 2–5 a depositi doganali aperti o a d
 <sup>3</sup> Chiunque esporta beni che sono enumerati nei capitoli della tariffa doganale[^17-2] 28–29, 30 (solo le voci 3002.1200–9000), 34, 36–40, 54–56, 59, 62, 65 (solo la voce 6506.1000), 68–76, 79, 81–90 e 93, ma che non soggiacciono all’obbligo dell’autorizzazione secondo l’articolo 3 o che sono esentati dall’obbligo dell’autorizzazione d’esportazione secondo l’articolo 4, deve menzionare nella dichiarazione doganale l’indicazione «esente da autorizzazione».[^17-3]
 
 [^17-1]: Nuovo testo giusta la cifra III n. 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^17-2]: L del 9 ott. 1986 sulla tariffa delle dogane ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), all. 1 e 2. È possibile consultare gratuitamente la tariffa doganale su www.ezv.admin.ch &gt; Tariffa doganale – Tares.
+[^17-2]: L del 9 ott. 1986 sulla tariffa delle dogane ([RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)), all. 1 e 2. È possibile consultare gratuitamente la tariffa doganale su www.ezv.admin.ch &gt; Tariffa doganale – Tares.
 [^17-3]: Nuovo testo giusta l’all. 3 n. 16 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 18
@@ -363,7 +363,7 @@ I capoversi 2 e 3 non si applicano:
 
 <sup>2</sup> Il personale delle associazioni e delle organizzazioni competenti nonché gli specialisti sono tenuti al segreto d’ufficio in virtù dell’articolo 320 del Codice penale[^28-1].
 
-[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Capitolo 5: Disposizioni finali
 
@@ -401,8 +401,8 @@ Allegati 1 e 2[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 229](https://fedlex.data.admin.ch/eli/oc/2025/229)).
-[^annexu1-lvlu1-1]: Il contenuto degli all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/229](https://fedlex.data.admin.ch/eli/oc/2025/229) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 21 ott. 2025, in vigore dal 15 nov. 2025 ([RU 2025 641](https://fedlex.data.admin.ch/eli/oc/2025/641)).
+[^annexu1-lvlu1-1]: Il contenuto dei presenti all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/641](https://fedlex.data.admin.ch/eli/oc/2025/641) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -427,8 +427,8 @@ Allegato 5
 - 1\. Armi, parti essenziali di armi, accessori di armi, munizioni ed elementi di munizioni conformemente alla LArm che non sono soggetti alla legislazione sul materiale bellico e neppure all’allegato 3 della presente ordinanza. Fanno eccezione, nel commercio non professionale, coltelli e pugnali conformemente all’articolo 7 dell’ordinanza del 2 luglio 2008[^annex5-lvlu1-1] sulle armi.
 - 2\. Esplosivi e polvere esplosiva conformemente alla legge federale del 25 marzo 1977[^annex5-lvlu1-2] sugli esplosivi che non sono soggetti alla legislazione sul materiale bellico e agli allegati 2 e 3 della presente ordinanza.
 
-[^annex5-lvlu1-1]: [RS 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
-[^annex5-lvlu1-2]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^annex5-lvlu1-1]: [RS 514.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7531)
+[^annex5-lvlu1-2]: [RS 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
 
 Allegato 6
 
