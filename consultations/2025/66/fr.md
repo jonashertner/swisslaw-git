@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approbation de l’Arrêté fédéral concernant l'introduction de l'échange automatique de renseignements relatifs aux comptes financiers avec d’autres États partenaires à partir de 2027"
 document: Projet mis en consultation
 language: fr

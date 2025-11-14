@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung des Bundesbeschlusses über die Einführung des automatischen Informationsaustauschs über Finanzkonten mit weiteren Partnerstaaten ab 2027
 document: Vernehmlassungsvorlage
 language: de

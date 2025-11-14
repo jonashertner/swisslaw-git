@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione del Decreto federale che introduce lo scambio automatico di informazioni relative a conti finanziari con altri Stati partner dal 2027
 document: Progetto posto in consultazione
 language: it
