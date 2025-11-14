@@ -4,11 +4,11 @@ title: "Ordonnance du 4 juin 2021 concernant les prescriptions de sécurité pou
 short: OSITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: fr
-version: 2025-07-01
+version: 2025-11-15
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-348-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20251115/fr/xml/fedlex-data-admin-ch-eli-cc-2021-348-20251115-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20251115/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20250701/fr"
 
 (Ordonnance sur la sécurité des installations de transport par conduites, OSITC)
 
-du 4 juin 2021 (État le 1<sup>er</sup> juillet 2025)
+du 4 juin 2021 (État le 15 novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 45, ch. 3, et 52, al. 2, ch. 2, de la loi du 4 octobre 1963 sur les 
 
 arrête:
 
-[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Section 1 Dispositions générales
 
@@ -43,7 +43,7 @@ Seuls les art. 2, 3, al. 1 et 2 et 39*a* ainsi que l’annexe 1 sont applicables
 - a. aux gazoducs dont la pression de service maximale ne dépasse pas 5 bar;
 - b. aux hydrogénoducs qui ne remplissent pas les conditions fixées à l’art. 3, al. 1, let. b, de l’ordonnance du 26 juin 2019 sur les installations de transport par conduites (OITC)[^1-1].[^1-2]
 
-[^1-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^1-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 2
@@ -104,7 +104,7 @@ Seuls les art. 2, 3, al. 1 et 2 et 39*a* ainsi que l’annexe 1 sont applicables
 
 L’exploitant d’une installation de transport par conduites (exploitant) est tenu de régler les modalités nécessaires à la sécurité de l’installation et de son exploitation dans un règlement d’exploitation conformément à l’art. 26 OITC[^6-1].
 
-[^6-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^6-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 ## Section 2 Tracé
 
@@ -230,7 +230,7 @@ Le périmètre de protection des installations annexes est le même que celui qu
 
 <sup>2</sup> Pour les installations de transport par conduites situées dans un rayon de 30 m autour d’une installation à haute tension, il convient de démontrer qu’en cas de court-circuit à la terre l’installation de transport par conduites ne subira aucune influence inadmissible. Les tensions induites doivent être réduites aux valeurs prescrites par l’ordonnance du 30 mars 1994 sur le courant fort[^17-1].
 
-[^17-1]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^17-1]: [RS 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ## Section 4 Conduites
 
@@ -503,7 +503,7 @@ Dans les cas suivants, des vannes doivent être prévues et placées comme suit:
 
 <sup>4</sup> Les tronçons qui ne peuvent être protégés cathodiquement doivent être posés de manière à permettre un contrôle des dégâts liés à la corrosion.
 
-[^41-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^41-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 42
 
@@ -635,7 +635,7 @@ Les périmètres de protection des conduites et des installations annexes visés
 
 <sup>2</sup> Les mesures sont déterminées avec l’IFP.
 
-[^53-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^53-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 54
 
@@ -655,7 +655,7 @@ Les périmètres de protection des conduites et des installations annexes visés
 
 <sup>2</sup> Les travaux de maintenance ne doivent pas abaisser le degré de sécurité de la conduite.
 
-[^55-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^55-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 56
 
@@ -763,7 +763,7 @@ En vertu de l’art. 45 LITC, est puni quiconque:
 
 <sup>2</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^66-1] est applicable. L’OFEN est l’autorité chargée de poursuivre et de juger les infractions.
 
-[^66-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^66-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Section 12 Dispositions finales
 
@@ -807,7 +807,7 @@ Annexe 1[^t-1]
 
 ## Règles techniques
 
-[^t-1]: Mise à jour par le ch. I de l’O du DETEC du 24 mai 2023 ([RO 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)) et de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 387](https://fedlex.data.admin.ch/eli/oc/2025/387)).
+[^t-1]: Mise à jour par les ch. I des O du DETEC du 24 mai 2023 ([RO 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)), du 21 mai 2025 ([RO 2025 387](https://fedlex.data.admin.ch/eli/oc/2025/387)) et du 6 oct. 2025, en vigueur depuis le 15 nov. 2025 ([RO 2025 615](https://fedlex.data.admin.ch/eli/oc/2025/615)).
 
 Sont notamment considérées comme des règles techniques:
 
@@ -836,20 +836,30 @@ Sont notamment considérées comme des règles techniques:
 
   pour les gazoducs dont la pression de service maximale admissible est inférieure ou égale à 5 bar:
 
-  - 3\.1 les directives suivantes de la Société suisse de l’industrie du gaz et des eaux (SSIGE)[^annex1-lvlu1-5];
+  - 3\.1
+
+    les directives suivantes de l’Association pour l’eau, le gaz et la chaleur (SVGW)[^annex1-lvlu1-5]:
+
     - 3\.1.1. G2: Directive sur les conduites, juin 2019,
     - 3\.1.2. G7: Directive pour les installations de détente de gaz, septembre 2015,
     - 3\.1.3. G11: Directive pour l’odorisation du gaz, avril 2006,
     - 3\.1.4. G13: Directive pour l’injection des gaz renouvelables, mars 2016,
     - 3\.1.5. G14: Directive; Saisie de données d’événements dommageables sur les réseaux de gaz, août 2020,
     - 3\.1.6. G18: Directive pour la qualité du gaz, avril 2013,
-    - 3\.1.7. G21: Directive; Exigences techniques envers l’organisation et la qualification des exploitants de réseau de gaz sous surveillance cantonale, mars 2013.
+    - 3\.1.7. G21: Directive; Exigences techniques envers l’organisation et la qualification des exploitants de réseau de gaz sous surveillance cantonale, mars 2013;
 
-[^annex1-lvlu1-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+- 4\.
+
+  pour les hydrogénoducs ne remplissant pas les conditions prévues à l’art. 3, al. 1, let. b, OITC:
+
+  - 4\.1 la directive H2 de la SVGW sur les installations de transport par conduites d’hydrogène, 2025[^annex1-lvlu1-6].
+
+[^annex1-lvlu1-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^annex1-lvlu1-2]: La directive peut être consultée gratuitement auprès de l’Office fédéral de l’énergie, Pulverstrasse 13, 3063 Ittigen. Elle peut être commandée, contre paiement, auprès de l’Inspection fédérale des pipelines, Richtistrasse 15, 8304 Wallisellen, ou par courriel à eri@svti.ch, ou consultée gratuitement sur Internet sous [www.svti.ch](http://www.svti.ch) &gt; Inspection Fédérale des Pipelines &gt; Prescriptions en vigueur.
 [^annex1-lvlu1-3]: La directive peut être commandée gratuitement auprès de l’Inspection fédérale des installations à courant fort ESTI, Luppmenstrasse 1, 8320 Fehraltorf, sur Internet sous [www.esti.admin.ch](http://www.esti.admin.ch) &gt; Directives ESTI ou par courriel à info@esti.admin.ch.
 [^annex1-lvlu1-4]: Les directives peuvent être commandées, contre paiement, auprès de la Société suisse de protection contre la corrosion, Technoparkstrasse 1, 8005 Zurich, sur Internet sous [www.sgk.ch](http://www.sgk.ch) &gt; Directives &gt; ou par courriel à sgk@sgk.ch.
-[^annex1-lvlu1-5]: Les directives peuvent être commandées, contre paiement, auprès de la Société suisse de l’industrie du gaz et des eaux, Grütlistrasse 44, 8002 Zurich, sur Internet sous [www.svgw.ch](http://www.svgw.ch) &gt; Réglementation &gt; entrer «gaz» dans la fenêtre de recherche ou par courriel à info@svgw.ch .
+[^annex1-lvlu1-5]: La directive peut être consultée gratuitement auprès de l’Office fédéral de l’énergie, Pulverstrasse 13, 3063 Ittigen. Elle peut être commandée, contre paiement, auprès de l’Association pour l’eau, le gaz et la chaleur (SVGW), Grütlistrasse 44, 8002 Zurich, sur Internet à l’adresse [www.svgw.ch](http://www.svgw.ch/) &gt; Réglementation &gt; entrer «gaz» dans la fenêtre de recherche ou par courriel à info@svgw.ch .
+[^annex1-lvlu1-6]: La directive peut être consultée gratuitement auprès de l’Office fédéral de l’énergie, Pulverstrasse 13, 3063 Ittigen. Elle peut être commandée, contre paiement, auprès de l’Association pour l’eau, le gaz et la chaleur (SVGW), Grütlistrasse 44, 8002 Zurich, sur Internet à l’adresse [www.svgw.ch](http://www.svgw.ch/) &gt; Réglementation &gt; entrer «gaz» dans la fenêtre de recherche ou par courriel à info@svgw.ch .
 
 Annexe 2
 

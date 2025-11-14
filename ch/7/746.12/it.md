@@ -4,11 +4,11 @@ title: "Ordinanza del 4 giugno 2021 sulle prescrizioni di sicurezza per gli impi
 short: OSITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: it
-version: 2025-07-01
+version: 2025-11-15
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2021-348-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20251115/it/xml/fedlex-data-admin-ch-eli-cc-2021-348-20251115-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20251115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20250701/it"
 
 (Ordinanza sulla sicurezza degli impianti di trasporto in condotta, OSITC)
 
-del 4 giugno 2021 (Stato 1° luglio 2025)
+del 4 giugno 2021 (Stato 15 novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 45 numero 3 e 52 capoverso 2 numero 2 della legge del 4 ottob
 
 ordina:
 
-[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Sezione 1: Disposizioni generali
 
@@ -43,7 +43,7 @@ Ai seguenti impianti di trasporto in condotta si applicano soltanto gli articoli
 - a. gasdotti con una pressione d’esercizio massima fino a 5 bar;
 - b. idrogenodotti che non soddisfano le condizioni di cui all’articolo 3 capoverso 1 lettera b dell’ordinanza del 26 giugno 2019[^1-1] sugli impianti di trasporto in condotta (OITC).[^1-2]
 
-[^1-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^1-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^1-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 2
@@ -68,7 +68,7 @@ Ai seguenti impianti di trasporto in condotta si applicano soltanto gli articoli
 
 <sup>8</sup> Per sicurezza s’intende la protezione della condotta da danneggiamenti interni ed esterni per quanto il concetto non sia definito altrimenti in un contesto particolare.
 
-[^2-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
+[^2-1]: Introdotto dalla cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 3
 
@@ -104,7 +104,7 @@ Ai seguenti impianti di trasporto in condotta si applicano soltanto gli articoli
 
 Gli esercenti degli impianti di trasporto in condotta (esercenti) disciplinano in un regolamento d’esercizio i dettagli necessari per garantire la sicurezza dell’impianto di trasporto in condotta e del suo esercizio conformemente all’articolo 26 dell’OITC[^6-1].
 
-[^6-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^6-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 ## Sezione 2: Tracciato
 
@@ -230,7 +230,7 @@ Il perimetro di protezione previsto per una condotta si applica anche agli impia
 
 <sup>2</sup> Per gli impianti di trasporto in condotta situati nel raggio di 30 metri da un impianto ad alta tensione occorre fornire la prova che un’eventuale dispersione a terra non influenzerebbe in maniera inammissibile l’impianto di trasporto in condotta. Le tensioni indotte devono essere ridotte ai valori prescritti nell’ordinanza del 30 marzo 1994[^17-1] sulla corrente forte.
 
-[^17-1]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^17-1]: [RS 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ## Sezione 4: Condotte
 
@@ -475,7 +475,7 @@ Gli organi di ritegno devono essere installati nei seguenti casi e posizionati c
 [^39a-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 [^39a-2]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 [^39a-3]: Lo standard minimo può essere ottenuto gratuitamente presso l’Ufficio federale dell’energia, Pulverstrasse 13, 3063 Ittigen. Può anche essere consultato gratuitamente sul sito dell’Associazione svizzera per l’acqua, il gas e il calore (SVGW) all’indirizzo www.svgw.ch &gt; Shop &gt; (inserire «G1008» nel campo di ricerca della pagina in tedesco o in francese) od ottenuto gratuitamente scrivendo un’e-mail a info@svgw.ch.
-[^39a-4]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
+[^39a-4]: Introdotto dalla cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 ## Sezione 8: Costruzione
 
@@ -503,7 +503,7 @@ Gli organi di ritegno devono essere installati nei seguenti casi e posizionati c
 
 <sup>4</sup> Le tratte di condotta alle quali non può essere applicata una protezione catodica devono essere posate in modo tale da consentire un controllo dei danni da corrosione.
 
-[^41-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^41-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 42
 
@@ -633,7 +633,7 @@ I perimetri di protezione delle condotte e degli impianti accessori secondo l’
 
 <sup>2</sup> Le misure devono essere concordate con l’IFO.
 
-[^53-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^53-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 54
 
@@ -653,7 +653,7 @@ I perimetri di protezione delle condotte e degli impianti accessori secondo l’
 
 <sup>2</sup> I lavori di manutenzione non devono diminuire il grado di sicurezza della condotta.
 
-[^55-1]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^55-1]: [RS 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 56
 
@@ -759,7 +759,7 @@ Secondo l’articolo 45 LITC è punito:
 
 <sup>2</sup> La legge federale del 22 marzo 1974[^66-1] sul diritto penale amministrativo è applicabile. Il perseguimento e il giudizio delle infrazioni competono all’UFE.
 
-[^66-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^66-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Sezione 12: Disposizioni finali
 
@@ -803,7 +803,7 @@ Allegato 1[^t-1]
 
 ## Regole della tecnica
 
-[^t-1]: Aggiornato dalle cifre I dell’O del DATEC del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)) e dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 387](https://fedlex.data.admin.ch/eli/oc/2025/387)).
+[^t-1]: Aggiornato dalle cifre I delle O del DATEC del 24 mag. 2023 ([RU 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)), del 21 mag. 2025 ([RU 2025 387](https://fedlex.data.admin.ch/eli/oc/2025/387)) e del 6 ott. 2025, in vigore dal 15 nov. 2025 ([RU 2025 615](https://fedlex.data.admin.ch/eli/oc/2025/615)).
 
 Sono considerate regole della tecnica in particolare:
 
@@ -834,7 +834,7 @@ Sono considerate regole della tecnica in particolare:
 
   - 3\.1
 
-    le seguenti direttive emanate dalla Società svizzera dell’industria del gas e delle acque[^annex1-lvlu1-5]:
+    le seguenti direttive emanate dall’Associazione per l’acqua, il gas e il calore (SVGW)[^annex1-lvlu1-5]:
 
     - 3\.1.1 G2: Condotte, giugno 2019,
     - 3\.1.2 G7: Impianti di regolazione di pressione del gas, settembre 2015,
@@ -842,13 +842,20 @@ Sono considerate regole della tecnica in particolare:
     - 3\.1.4 G13: Immissione di gas rinnovabili, marzo 2016,
     - 3\.1.5 G14: Raccolta dati di incidenti sulle reti di gas, agosto 2020,
     - 3\.1.6 G18: Proprietà del gas, aprile 2013,
-    - 3\.1.7 G21: Requisiti per la qualificazione e l’organizzazione del comparto tecnico delle società di gestione di reti di distribuzione del gas sotto la sorveglianza dei cantoni, marzo 2013.
+    - 3\.1.7 G21: Requisiti per la qualificazione e l’organizzazione del comparto tecnico delle società di gestione di reti di distribuzione del gas sotto la sorveglianza dei cantoni, marzo 2013;
 
-[^annex1-lvlu1-1]: [[RS 746.11](https://www.fedlex.admin.ch/eli/cc/2019/413/de)](https://fedlex.data.admin.ch/eli/cc/2019/413)
-[^annex1-lvlu1-2]: La direttiva può essere consultata gratuitamente presso l’Ufficio federale dell’energia, Pulverstrasse 13, 3063 Ittigen. Può anche essere richiesta a pagamento all’Ispettorato federale degli oleo- e gasdotti, Richtistrasse 15, 8304 Wallisellen oppure all’indirizzo e‑mail eri@svti.ch . Può essere scaricata gratuitamente all’indirizzo Internet: [www.svti.ch](http://www.svti.ch) &gt; Ispettorato federale degli oleo- e gasdotti &gt; Regolamenti in vigore.
+- 4\.
+
+  per gli idrogenodotti che non soddisfano le condizioni di cui all’articolo 3 capoverso 1 lettera b OITC:
+
+  - 4\.1 la direttiva H2 della SVGW sugli impianti di trasporto in condotta dell’idrogeno, 2025[^annex1-lvlu1-6].
+
+[^annex1-lvlu1-1]: [[RS 746.11](https://www.fedlex.admin.ch/eli/cc/2019/413/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
+[^annex1-lvlu1-2]: Le direttive possono essere consultate gratuitamente presso l’Ufficio federale dell’energia, Pulverstrasse 13, 3063 Ittigen. Possono anche essere ordinat a pagamento all’Associazione per l’acqua, il gas e il calore (SVGW), Grütlistrasse 44, 8002 Zurigo, all’indirizzo Internet [www.svgw.ch](http://www.svgw.ch/) &gt; Regolamentazione &gt; inserire «gas» nel campo di ricerca oppure all’indirizzo e‑mail info@svgw.ch .
 [^annex1-lvlu1-3]: La direttiva può essere ordinata gratuitamente all’Ispettorato federale degli impianti a corrente forte, Luppmenstrasse 1, 8320 Fehraltorf, all’indirizzo Internet: www.esti.admin.ch &gt; Documentazione &gt; Direttive ESTI oppure all’indirizzo e-mail info@esti.admin.ch.
 [^annex1-lvlu1-4]: Le direttive possono essere ordinate a pagamento alla Società svizzera per la protezione contro la corrosione, Technoparkstrasse 1, 8005 Zurigo, all’indirizzo Internet www.sgk.ch &gt; Directives oppure all’indirizzo e-mail sgk@sgk.ch (disponibili soltanto in tedesco, francese e inglese).
-[^annex1-lvlu1-5]: Le direttive possono essere ordinate a pagamento alla Società svizzera dell’industria del gas e delle acque, Grütlistrasse 44, 8002 Zurigo, all’indirizzo Internet: www.svgw &gt; Regolamento/Shop &gt; Direttive gas oppure all’indirizzo e-mail info@svgw.ch
+[^annex1-lvlu1-5]: Le direttive possono essere consultate gratuitamente presso l’Ufficio federale dell’energia, Pulverstrasse 13, 3063 Ittigen. Possono anche essere ordinat a pagamento all’Associazione per l’acqua, il gas e il calore (SVGW), Grütlistrasse 44, 8002 Zurigo, all’indirizzo Internet [www.svgw.ch](http://www.svgw.ch/) &gt; Regolamentazione &gt; inserire «gas» nel campo di ricerca oppure all’indirizzo e‑mail info@svgw.ch .
+[^annex1-lvlu1-6]: La direttiva può essere consultata gratuitamente presso l’Ufficio federale dell’energia, Pulverstrasse 13, 3063 Ittigen. Può anche essere ordinata a pagamento all’Associazione per l’acqua, il gas e il calore (SVGW), Grütlistrasse 44, 8002 Zurigo, all’indirizzo Internet [www.svgw.ch](http://www.svgw.ch/) &gt; Regolamentazione &gt; inserire «gas» nel campo di ricerca oppure all’indirizzo e‑mail info@svgw.ch .
 
 Allegato 2
 

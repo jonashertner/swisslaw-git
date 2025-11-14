@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juni 2021 über Sicherheitsvorschriften für Rohrleitu
 short: RLSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/348"
 language: de
-version: 2025-07-01
+version: 2025-11-15
 adopted: 2021-06-04
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/348/20251115/de/xml/fedlex-data-admin-ch-eli-cc-2021-348-20251115-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20251115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/348/20250701/de"
 
 (Rohrleitungssicherheitsverordnung, RLSV)
 
-vom 4. Juni 2021 (Stand am 1. Juli 2025)
+vom 4. Juni 2021 (Stand am 15. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 45 Ziffer 3 und 52 Absatz 2 Ziffer 2 des Rohrleitungsg
 
 verordnet:
 
-[^ingress-1]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -43,7 +43,7 @@ Für die folgenden Leitungen gelten nur die Artikel 2, 3 Absätze 1 und 2 und 39
 - a. Gasleitungen mit einem maximalen Betriebsdruck bis 5 bar;
 - b. Wasserstoffleitungen, die die Voraussetzungen nach Artikel 3 Absatz 1 Buchstabe b der Rohrleitungsverordnung vom 26. Juni 2019[^1-1] (RLV) nicht erfüllen.[^1-2]
 
-[^1-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^1-1]: [SR 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^1-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 #### Art. 2
@@ -104,7 +104,7 @@ Für die folgenden Leitungen gelten nur die Artikel 2, 3 Absätze 1 und 2 und 39
 
 Die Betreiber von Rohrleitungsanlagen (Betreiber) müssen in einem Betriebsreglement die für die Sicherheit der Rohrleitungsanlage und ihres Betriebes notwendigen Einzelheiten gemäss Artikel 26 RLV[^6-1] regeln.
 
-[^6-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^6-1]: [SR 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 ## 2. Abschnitt: Trassee
 
@@ -230,7 +230,7 @@ Für Nebenanlagen gilt der gleiche Schutzbereich wie für die dazugehörigen Lei
 
 <sup>2</sup> Für Rohrleitungsanlagen im Umfeld von 30 m einer Hochspannungsanlage ist ein Nachweis einzureichen, dass im Fall eines Erdschlusses keine unzulässige Beeinflussung der Rohrleitungsanlage erfolgt. Induzierte Spannungen sind auf die in der Starkstromverordnung vom 30. März 1994[^17-1] vorgegebenen Werte zu reduzieren.
 
-[^17-1]: [SR 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^17-1]: [SR 734.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8573)
 
 ## 4. Abschnitt: Rohrleitungen
 
@@ -474,7 +474,7 @@ Absperrorgane sind in folgenden Fällen vorzusehen und wie folgt zu platzieren:
 
 [^39a-1]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 768](https://fedlex.data.admin.ch/eli/oc/2023/768)).
 [^39a-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
-[^39a-3]: Der Minimalstandard kann kostenlos bezogen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Er kann beim Fachverband für Wasser, Gas und Wärme kostenlos abgerufen werden unter www.svgw.ch &gt; Shop &gt; Suchfeldeingabe «G1008» oder kostenlos bezogen werden per E-Mail an info@svgw.ch.
+[^39a-3]: Der Minimalstandard kann kostenlos bezogen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Er kann beim Fachverband für Wasser, Gas und Wärme kostenlos abgerufen werden unter: [www.svgw.ch](http://www.svgw.ch) &gt; Shop &gt; Suchfeldeingabe «G1008» oder kostenlos bezogen werden per E-Mail an: info@svgw.ch .
 [^39a-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 386](https://fedlex.data.admin.ch/eli/oc/2025/386)).
 
 ## 8. Abschnitt: Bau
@@ -503,7 +503,7 @@ Absperrorgane sind in folgenden Fällen vorzusehen und wie folgt zu platzieren:
 
 <sup>4</sup> Rohrleitungsabschnitte, die nicht kathodisch geschützt werden können, müssen so verlegt werden, dass sie auf Korrosionsschäden kontrolliert werden können.
 
-[^41-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^41-1]: [SR 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 42
 
@@ -635,7 +635,7 @@ Die Schutzbereiche von Rohrleitungen und Nebenanlagen gemäss Artikel 16 sind im
 
 <sup>2</sup> Die Massnahmen sind mit dem ERI abzusprechen.
 
-[^53-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^53-1]: [SR 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 54
 
@@ -655,7 +655,7 @@ Die Schutzbereiche von Rohrleitungen und Nebenanlagen gemäss Artikel 16 sind im
 
 <sup>2</sup> Instandhaltungsarbeiten dürfen den Sicherheitsgrad der Rohrleitung nicht vermindern.
 
-[^55-1]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^55-1]: [SR 746.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 
 #### Art. 56
 
@@ -761,7 +761,7 @@ Gemäss Artikel 45 RLG wird bestraft, wer:
 
 <sup>2</sup> Das Bundesgesetz vom 22. März 1974[^66-1] über das Verwaltungsstrafrecht ist anwendbar. Verfolgende und beurteilende Behörde ist das BFE.
 
-[^66-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^66-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 12. Abschnitt: Schlussbestimmungen
 
@@ -805,7 +805,7 @@ Anhang 1[^t-1]
 
 ## Regeln der Technik
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des UVEK vom 24. Mai 2023 ([AS 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)) und der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 387](https://fedlex.data.admin.ch/eli/oc/2025/387)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des UVEK vom 24. Mai 2023 ([AS 2023 277](https://fedlex.data.admin.ch/eli/oc/2023/277)), vom 21. Mai 2025 ([AS 2025 387](https://fedlex.data.admin.ch/eli/oc/2025/387)) und vom 6. Okt. 2025, in Kraft seit 15. Nov. 2025 ([AS 2025 615](https://fedlex.data.admin.ch/eli/oc/2025/615)).
 
 Als Regeln der Technik gelten insbesondere:
 
@@ -836,7 +836,7 @@ Als Regeln der Technik gelten insbesondere:
 
   - 3\.1
 
-    die folgenden Richtlinien des Schweizerischen Vereins des Gas- und Wasserfaches:[^annex1-lvlu1-5]
+    die folgenden Richtlinien des Fachverbands für Wasser, Gas und Wärme (SVGW)[^annex1-lvlu1-5]:
 
     - 3\.1.1 G2: Rohrleitungen vom Juni 2019
     - 3\.1.2 G7: Gasdruckregelanlagen vom September 2015
@@ -844,13 +844,20 @@ Als Regeln der Technik gelten insbesondere:
     - 3\.1.4 G13: Einspeisung von erneuerbaren Gasen vom März 2016
     - 3\.1.5 G14: Erfassung von Schadenereignissen an Gasnetzen vom August 2020
     - 3\.1.6 G18: Gasbeschaffenheit vom April 2013
-    - 3\.1.7 G21: Anforderungen an die Qualifikation und die Organisation des technischen Bereiches von Gasnetzbetreibern unter kantonaler Aufsicht vom März 2013.
+    - 3\.1.7 G21: Anforderungen an die Qualifikation und die Organisation des technischen Bereiches von Gasnetzbetreibern unter kantonaler Aufsicht vom März 2013;
 
-[^annex1-lvlu1-1]: [[SR 746.11](https://www.fedlex.admin.ch/eli/cc/2019/413/de)](https://fedlex.data.admin.ch/eli/cc/2019/413)
+- 4\.
+
+  für Wasserstoffleitungen, die die Voraussetzungen nach Artikel 3 Absatz 1 Buchstabe b RLV nicht erfüllen:
+
+  - 4\.1 die Richtlinie H2 des SVGW, Rohrleitungen für Wasserstoff, 2025[^annex1-lvlu1-6].
+
+[^annex1-lvlu1-1]: [[SR 746.11](https://www.fedlex.admin.ch/eli/cc/2019/413/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8898)
 [^annex1-lvlu1-2]: Die Richtlinie kann kostenlos eingesehen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Sie kann gegen Bezahlung bezogen werden beim Eidgenössischen Rohrleitungsinspektorat, Richtistrasse 15, 8304 Wallisellen oder per E‑Mail an eri@svti.ch . Sie kann kostenlos abgerufen werden unter [www.svti.ch](https://www.svti.ch) &gt; Eidg. Rohrleitungsinspektorat &gt; Gültige Vorschriften.
 [^annex1-lvlu1-3]: Die Weisung kann kostenlos beim Eidgenössischen Starkstrominspektorat, Luppmenstrasse 1, 8320 Fehraltorf, im Internet unter [www.esti.admin.ch](http://www.esti.admin.ch) &gt; dokumentation &gt; ESTI-Weisungen oder per E-Mail an info@esti.admin.ch bestellt werden.
 [^annex1-lvlu1-4]: Die Richtlinien können gegen Bezahlung bei der Schweizerischen Gesellschaft für Korrosionsschutz, Technoparkstrasse 1, 8005 Zürich, im Internet unter [www.sgk.ch](http://www.sgk.ch) &gt; Richtlinien oder per E-Mail an sgk@sgk.ch bestellt werden.
-[^annex1-lvlu1-5]: Die Richtlinien können gegen Bezahlung beim Schweizerischen Verein des Gas- und Wasserfaches, Grütlistrasse 44, 8002 Zürich, oder im Internet unter [www.svgw.ch](http://www.svgw.ch) &gt; Regelwerk &gt; Suchfenster: «Gas» eingeben oder per E-Mail an info@svgw.ch bestellt werden.
+[^annex1-lvlu1-5]: Die Richtlinie kann kostenlos eingesehen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Sie kann kostenpflichtig bestellt werden beim Fachverband für Wasser, Gas und Wärme (SVGW), Grütlistrasse 44, 8002 Zürich, unter: [www.svgw.ch](https://www.svgw.ch) &gt; Regelwerk &gt; im Suchfeld «Gas» eingeben, oder per E-Mail an: info@svgw.ch .
+[^annex1-lvlu1-6]: Die Richtlinie kann kostenlos eingesehen werden beim Bundesamt für Energie, Pulverstrasse 13, 3063 Ittigen. Sie kann kostenpflichtig bestellt werden beim Fachverband für Wasser, Gas und Wärme (SVGW), Grütlistrasse 44, 8002 Zürich, unter: [www.svgw.ch](https://www.svgw.ch) &gt; Regelwerk &gt; im Suchfeld «Gas» eingeben, oder per E-Mail an: info@svgw.ch .
 
 Anhang 2
 
