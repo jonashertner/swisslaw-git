@@ -3,11 +3,11 @@ sr: "0.672.941.81"
 title: Abkommen vom 12. September 2013 zwischen der Schweizerischen Eidgenossenschaft und Ungarn zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/648"
 language: de
-version: 2014-11-09
+version: 2025-11-16
 adopted: 2013-09-12
 in_force: 2014-11-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/648/20141109/de/xml/fedlex-data-admin-ch-eli-cc-2014-648-20141109-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/648/20141109/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/648/20251116/de/xml/fedlex-data-admin-ch-eli-cc-2014-648-20251116-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/648/20251116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 20. Juni 2014[^t-1]
 
 In Kraft getreten durch Notenaustausch am 9. November 2014
 
-(Stand am 9. November 2014)
+(Stand am 16. November 2025)
 
 [^t-1]: [AS 2014 3727](https://fedlex.data.admin.ch/eli/oc/2014/647)
 
@@ -32,7 +32,13 @@ Der Schweizerische Bundesrat und die Regierung von Ungarn,
 
 vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
 
-haben Folgendes vereinbart:
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
+
+in der Absicht, in Bezug auf die Steuern vom Einkommen und vom Vermögen eine Doppelbesteuerung zu vermeiden, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben Folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. I des Prot. vom 12. Juli 2024, von der BVers genehmigt am 20. Juni 2025 und in Kraft seit 16. Nov. 2025 ([AS 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [BBl 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
 
 #### Art. 1
 
@@ -424,6 +430,18 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 <sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren und sich auch in einer gemeinsamen Kommission beraten, in der sie selbst oder zu ihrer Vertretung befugte Personen Einsitz nehmen.
 
+<sup>5.</sup> sind alle ungelösten Streitpunkte des Falls auf schriftliches Ersuchen der Person einem Schiedsverfahren zuzuleiten. Diese ungelösten Streitpunkte dürfen jedoch dann nicht einem Schiedsverfahren zugeleitet werden, wenn in dieser Angelegenheit bereits eine Entscheidung durch ein Gericht oder ein Verwaltungsgericht eines der beiden Staaten ergangen ist. Sofern nicht eine vom Fall unmittelbar betroffene Person die Verständigungsregelung zur Umsetzung des Schiedsspruchs ablehnt oder die zuständigen Behörden und die unmittelbar betroffenen Personen sich nicht innerhalb von sechs Monaten nach Bekanntgabe des Schiedsspruchs auf eine abweichende Lösung einigen, ist dieser Schiedsspruch für beide Vertragsstaaten bindend und ungeachtet der Fristen ihres innerstaatlichen Rechts umzusetzen. Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einvernehmen, wie das Verfahren nach diesem Absatz durchzuführen ist.[^25-1]
+
+Wenn:
+
+- a) eine Person der zuständigen Behörde eines Vertragsstaats gemäss Absatz 1 einen Fall mit der Begründung unterbreitet hat, dass die Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung geführt haben, die diesem Abkommen nicht entspricht; und
+- b) die zuständigen Behörden nicht in der Lage sind, innerhalb von drei Jahren ab dem Tag, an dem alle von den zuständigen Behörden verlangten Informationen zur Behandlung des Falls beiden zuständigen Behörden zugestellt worden sind, eine einvernehmliche Lösung im Sinne von Absatz 2 herbeizuführen;
+
+<sup>6.</sup> Die Vertragsstaaten können der nach Absatz 5 gebildeten Schiedsstelle die für die Durchführung des Schiedsverfahrens erforderlichen Informationen zugänglich machen. Die Mitglieder der Schiedsstelle unterliegen hinsichtlich dieser Informationen den Geheimhaltungsvorschriften nach Artikel 26 Absatz 2.[^25-2]
+
+[^25-1]: Eingefügt durch Art. II des Prot. vom 12. Juli 2024, von der BVers genehmigt am 20. Juni 2025 und in Kraft seit 16. Nov. 2025 ([AS 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [BBl 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+[^25-2]: Eingefügt durch Art. II des Prot. vom 12. Juli 2024, von der BVers genehmigt am 20. Juni 2025 und in Kraft seit 16. Nov. 2025 ([AS 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [BBl 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+
 #### Art. 26
 
 **Informationsaustausch**
@@ -459,6 +477,16 @@ Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplo
 
 <sup>3.</sup> Das Abkommen gilt weder für internationale Organisationen, deren Organe oder Beamte noch für Mitglieder einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Drittstaats, die sich in einem Vertragsstaat aufhalten und in keinem der Vertragsstaaten für die Zwecke der Steuern vom Einkommen oder vom Vermögen als ansässig gelten.
 
+#### Art. 27a
+
+**Anspruch auf Vorteile**[^27a-1]
+
+<sup>1.</sup> Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+<sup>2.</sup> Wird einer Person ein Vorteil, den dieses Abkommen vorsieht, aufgrund von Absatz 1 versagt, so betrachtet die zuständige Behörde des Vertragsstaats, die diesen Vorteil anderenfalls gewährt hätte, diese Person gleichwohl als anspruchsberechtigt in Bezug auf diesen Vorteil oder andere Vorteile für bestimmte Einkünfte oder Vermögenswerte, sofern diese zuständige Behörde auf Antrag dieser Person und nach Prüfung der massgeblichen Tatsachen und Umstände feststellt, dass dieser Person oder einer anderen Person diese Vorteile ohne die Transaktion oder Gestaltung gewährt worden wären. Die zuständige Behörde des Vertragsstaats, bei der eine im anderen Vertragsstaat ansässige Person nach diesem Absatz einen Antrag gestellt hat, konsultiert die zuständige Behörde dieses anderen Vertragsstaats, bevor sie den Antrag ablehnt.
+
+[^27a-1]: Eingefügt durch Art. III Abs. 1 des Prot. vom 12. Juli 2024, von der BVers genehmigt am 20. Juni 2025 und in Kraft seit 16. Nov. 2025 ([AS 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [BBl 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+
 #### Art. 28
 
 **Inkrafttreten**
@@ -485,13 +513,15 @@ Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekün
 - a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf die Kündigung folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
 - b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf die Kündigung folgenden Kalenderjahres beginnen.
 
-*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Budapest, am 12. September 2013, im Doppel in deutscher, ungarischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen und des ungarischen Wortlauts ist der englische Wortlaut massgebend. Für den Schweizerischen Bundesrat: Für die Regierung von Ungarn: Jean-François Paroz Gábor Orbán
+*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Budapest, am 12. September 2013, im Doppel in deutscher, ungarischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen und des ungarischen Wortlauts ist der englische Wortlaut massgebend. Für den Schweizerischen Bundesrat: Jean-François Paroz Für die Regierung von Ungarn: Gábor Orbán
+
+Protokoll[^t-2]
 
 Der Schweizerische Bundesrat und die Regierung von Ungarn,
 
 haben anlässlich der Unterzeichnung in Budapest, am 12. September 2013, des Abkommens zwischen den beiden Staaten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen folgende Bestimmungen vereinbart, die einen integrierenden Bestandteil dieses Abkommens bilden.
 
-**1. Zu Art. 3 Abs. 1 Bst. h**
+\1. Zu Art. 3 Abs. 1 Bst. h
 
 Es besteht Einvernehmen darüber, dass der Ausdruck «Vorsorgeeinrichtung» folgende Einrichtungen sowie alle gleichen oder im Wesentlichen vergleichbaren Einrichtungen umfasst, die aufgrund von nach der Unterzeichnung des Protokolls erlassenen Gesetzen errichtet werden:
 
@@ -507,23 +537,19 @@ Es besteht Einvernehmen darüber, dass der Ausdruck «Vorsorgeeinrichtung» folg
 
   in der Schweiz, sämtliche Pläne und Modelle nach:
 
-  - (i) dem Bundesgesetz vom 20. Dezember 1946[^t-2] über die Alters- und Hinterlassenenversicherung,
-  - (ii) dem Bundesgesetz vom 19. Juni 1959[^t-3] über die Invalidenversicherung,
-  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^t-4] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
-  - (iv) dem Bundesgesetz vom 25. Juni 1982[^t-5] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und der mit der beruflichen Vorsorge vergleichbaren anerkannten Formen der gebundenen Selbstvorsorge.
+  - (i) dem Bundesgesetz vom 20. Dezember 1946[^t-3] über die Alters- und Hinterlassenenversicherung,
+  - (ii) dem Bundesgesetz vom 19. Juni 1959[^t-4] über die Invalidenversicherung,
+  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^t-5] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
+  - (iv) dem Bundesgesetz vom 25. Juni 1982[^t-6] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und der mit der beruflichen Vorsorge vergleichbaren anerkannten Formen der gebundenen Selbstvorsorge.
 
-**2. Zu Art. 4**
+\2. Zu Art. 4
 
 Hinsichtlich Artikel 4 Absatz 1 besteht Einvernehmen darüber, dass der Ausdruck «eine in einem Vertragsstaat ansässige Person» Folgendes einschliesst:
 
 - a) in diesem Staat errichtete Vorsorgeeinrichtungen; und
 - b) Organisationen, die ausschliesslich zu religiösen, wohltätigen, wissenschaftlichen, kulturellen, sportlichen oder Ausbildungszwecken (oder zu mehreren dieser Zwecke) gegründet und geführt werden und die in einem Vertragsstaat gemäss seinem Recht ansässig sind, ungeachtet der Tatsache, dass ein Teil oder die Gesamtheit ihrer Einkünfte oder ihres Gewinns gemäss dem innerstaatlichen Recht dieses Staates steuerbefreit sein kann.
 
-**3. Zu den Art. 10, 11, 12 und 13 Abs. 4 Bst. b**
-
-Die Artikel 10, 11, 12 und 13 Absatz 4 Buchstabe b sind nicht anwendbar, wenn die Hauptabsicht der Person oder der Personen, die mit einem Geschäft oder einer Abfolge von Geschäften betreffend die Aktien oder andere Rechte, die Forderungen oder die Rechte, in Bezug auf die die Dividenden, Zinsen oder Lizenzgebühren bezahlt werden oder in Bezug auf die die Veräusserung nach Artikel 13 Absatz 4 Buchstabe b erfolgt, befasst waren, darauf gerichtet war, dadurch die Artikel 10, 11, 12 oder 13 Absatz 4 Buchstabe b auszunutzen.
-
-**4. Zu Art. 18**
+\3. Zu Art. 18
 
 Es besteht Einvernehmen darüber, dass der in Artikel 18 verwendete Begriff «Ruhegehälter» nicht nur periodische Zahlungen, sondern auch Kapitalleistungen einschliesst.
 
@@ -531,13 +557,11 @@ Im Fall der Schweiz umfasst der Begriff «Ruhegehälter» auch Zahlungen aus den
 
 Im Fall von Ungarn umfasst der Begriff «Ruhegehälter» auch Zahlungen von Vorsorgeeinrichtungen, vorausgesetzt, es handelt sich um Ruhestandsleistungen.
 
-**5. Zu Art. 25**
+\4. Zu Art. 25
 
 Sollte Ungarn nach der Unterzeichnung des vorliegenden Abkommens eine Schiedsklausel in ein Abkommen zur Vermeidung der Doppelbesteuerung mit einem Drittstaat einführen, so nehmen die zuständigen Behörden der Schweiz und Ungarns baldmöglichst Verhandlungen im Hinblick auf den Abschluss eines Änderungsprotokolls auf, das die Einführung einer Schiedsklausel in das vorliegende Abkommen zum Ziel hat.
 
-**6. Zu Art. 26**
-
-Geschehen zu Budapest, am 12. September 2013, im Doppel in deutscher, ungarischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen und des ungarischen Wortlauts ist der englische Wortlaut massgebend.
+\5. Zu Art. 26
 
 - a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
 - b)
@@ -555,14 +579,28 @@ Geschehen zu Budapest, am 12. September 2013, im Doppel in deutscher, ungarische
 - d) Es besteht Einvernehmen darüber, dass Artikel 26 die Vertragsstaaten nicht dazu verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen.
 - e) Es besteht Einvernehmen darüber, dass im Fall des Austauschs von Informationen die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der Steuerpflichtigen vorbehalten bleiben. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmungen dazu dienen, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezwecken, den Informationsaustausch zu verhindern oder übermässig zu verzögern.
 
+*6*. Es besteht Einvernehmen darüber, dass die Bestimmungen des Abkommens die Vertragsstaaten nicht daran hindern, die Bestimmungen des innerstaatlichen Rechts über die Mindestbesteuerung grosser multinationaler Unternehmensgruppen umzusetzen, die auf der Grundlage der vom *Inclusive Framework on Base Erosion and Profit Shifting* der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung und der G20-Staaten entwickelten «Mustervorschriften zur weltweiten Bekämpfung der Gewinnverkürzung und Gewinnverlagerung (Global Anti-Base Erosion Model Rules [Pillar Two])» erlassen wurden.
+
+Geschehen zu Budapest, am 12. September 2013, im Doppel in deutscher, ungarischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen und des ungarischen Wortlauts ist der englische Wortlaut massgebend.
+
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung von Ungarn:</td></tr>
-<tr><td>Jean-François Paroz</td><td>Gábor Orbán</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Jean-François Paroz</td><td>Für die Regierung von Ungarn: Gábor Orbán</td></tr>
 </table>
 
-Protokoll
+## Art. V Abs. 2 und 3 des Protokolls vom 12. Juli 2024
 
-[^t-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^t-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^t-4]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^t-5]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu2-1]
+
+[^t-2]: Bereinigt gemäss Art. III Abs. 2 und 3 und IV des Prot. vom 12. Juli 2024, von der BVers genehmigt am 20. Juni 2025 und in Kraft seit 16. Nov. 2025 ([AS 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [BBl 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+[^t-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^t-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^t-5]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^t-6]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^annexu1-lvlu2-1]: [AS 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [BBl 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)
+
+\2. Das Protokoll tritt am Tag des Eingangs der späteren der beiden Notifikationen in Kraft. Es findet Anwendung:
+
+- a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahrs gezahlt oder gutgeschrieben werden;
+- b) hinsichtlich der übrigen Steuern für Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahrs beginnen.
+
+\3. Ungeachtet von Absatz 2 finden die in den Artikeln II und IV dieses Protokolls vorgesehenen Änderungen vom Tag des Inkrafttretens dieses Protokolls an Anwendung ohne Berücksichtigung der Steuerperiode, auf die sich die Sache bezieht.

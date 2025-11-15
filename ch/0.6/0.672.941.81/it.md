@@ -3,11 +3,11 @@ sr: "0.672.941.81"
 title: "Convenzione del 12 settembre 2013 tra la Confederazione Svizzera e l'Ungheria per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con Protocollo)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/648"
 language: it
-version: 2014-11-09
+version: 2025-11-16
 adopted: 2013-09-12
 in_force: 2014-11-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/648/20141109/it/xml/fedlex-data-admin-ch-eli-cc-2014-648-20141109-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/648/20141109/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/648/20251116/it/xml/fedlex-data-admin-ch-eli-cc-2014-648-20251116-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/648/20251116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,28 +16,27 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/648/20141109/it"
 
 RU **2014** 3729; FF **2014** 85
 
-Traduzione*[^t-1]*
+Traduzione
 
 tra la Confederazione Svizzera e l’Ungheria per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio
 
-Conclusa il 12 settembre 2013
+Conclusa il 12 settembre 2013 Approvata dall’Assemblea federale il 20 giugno 2014[^t-1] Entrata in vigore mediante uno scambio di note il 9 novembre 2014
 
-Approvata dall’Assemblea federale il 20 giugno 2014[^t-2]
+(Stato 16 novembre 2025)
 
-Entrata in vigore mediante uno scambio di note il 9 novembre 2014
+[^t-1]: [RU 2014 3727](https://fedlex.data.admin.ch/eli/oc/2014/647)
 
-(Stato 9 novembre 2014)
+Il Consiglio federale svizzero e il Governo dell’Ungheria,
 
-[^t-1]: Dal testo originale tedesco.
-[^t-2]: [RU 2014 3727](https://fedlex.data.admin.ch/eli/oc/2014/647)
+desiderosi di concludere una Convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio;
 
-Il Consiglio federale svizzero
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di approfondire la cooperazione in materia fiscale;
 
-e il Governo dell’Ungheria
+nell’intento di evitare la doppia imposizione in materia di imposte sul reddito e sul patrimonio, senza creare opportunità di non imposizione o di imposizione ridotta mediante l’evasione o l’elusione fiscale (ivi incluse le strategie di abuso dei trattati fiscali [«treaty-shopping»] finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti di Stati terzi),
 
-desiderosi di concludere una Convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+hanno convenuto quanto segue:[^ingress-1]
 
-hanno convenuto quanto segue:
+[^ingress-1]: Nuovo testo giusta l’art. I del Prot. del 12 lug. 2024, approvato dall’AF 20 giu. 2025, in vigore dal 16 nov. 2025 ([RU 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [FF 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
 
 #### Art. 1
 
@@ -430,6 +429,18 @@ Per quanto concerne la Svizzera, la doppia imposizione sarà evitata nel modo se
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono conferire direttamente tra loro per giungere a un accordo ai sensi dei paragrafi precedenti e procedere anche a un colloquio nell’ambito di una commissione comune composta da esse stesse o da i loro rappresentanti.
 
+<sup>5.</sup> le questioni non risolte relative al caso sono sottoposte ad arbitrato, se la persona ne fa richiesta per scritto. Tuttavia, tali questioni non risolte non possono essere sottoposte a una procedura arbitrale se una decisione sulle stesse è già stata resa in sede giudiziaria o davanti a un tribunale amministrativo di uno dei due Stati. Se una persona direttamente interessata dal caso non accetta l’accordo amichevole che dà attuazione alla decisione arbitrale o se le autorità competenti e le persone direttamente interessate non concordano una soluzione diversa entro sei mesi dalla notifica della decisione arbitrale, tale decisione è vincolante per entrambi gli Stati contraenti e deve essere attuata indipendentemente dai termini previsti dalle loro legislazioni nazionali. Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità di applicazione del presente paragrafo.[^25-1]
+
+Se:
+
+- a) in virtù del paragrafo 1, una persona ha sottoposto un caso all’autorità competente di uno Stato contraente in quanto le misure adottate da uno o da entrambi gli Stati contraenti hanno comportato per tale persona un’imposizione non conforme alle disposizioni della presente Convenzione; e
+- b) le autorità competenti non sono in grado di giungere a una soluzione consensuale ai sensi del paragrafo 2 entro un periodo di tre anni dalla data in cui tutte le informazioni richieste dalle autorità competenti per il trattamento del caso sono state comunicate alle due autorità competenti,
+
+<sup>6.</sup> Gli Stati contraenti possono mettere a disposizione del collegio arbitrale costituito secondo il paragrafo 5 le informazioni necessarie per l’esecuzione della procedura arbitrale. I membri di questo collegio sono vincolati alle prescrizioni del segreto d’ufficio secondo l’articolo 26 paragrafo 2.[^25-2]
+
+[^25-1]: Introdotto dall’art. II del Prot. del 12 lug. 2024, approvato dall’AF il 20 giu. 2025, in vigore dal 16 nov. 2025 ([RU 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [FF 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+[^25-2]: Introdotto dall’art. II del Prot. del 12 lug. 2024, approvato dall’AF il 20 giu. 2025, in vigore dal 16 nov. 2025 ([RU 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [FF 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+
 #### Art. 26
 
 **Scambio di informazioni**
@@ -465,6 +476,16 @@ Nonostante le disposizioni dell’articolo 4, ogni persona fisica che è membro 
 
 <sup>3.</sup> La Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica, di un posto consolare o di una delegazione permanente di uno Stato terzo, qualora si trovino sul territorio di uno Stato contraente o non siano trattati, in materia di imposte sul reddito, come residenti dell’uno o dell’altro Stato contraente.
 
+#### Art. 27a
+
+**Diritto ai benefici**[^27a-1]
+
+<sup>1.</sup> Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+<sup>2.</sup> Qualora in virtù del paragrafo 1 a una persona non sia concesso un beneficio previsto dalla presente Convenzione, l’autorità competente dello Stato contraente che avrebbe altrimenti concesso tale beneficio deve considerare tale persona come avente diritto a questo o ad altri benefici in relazione a specifici elementi di reddito o di patrimonio, se essa conclude, su richiesta della persona interessata e dopo aver valutato i fatti e le circostanze determinanti, che tali benefici sarebbero stati concessi a tale persona o a un’altra persona in assenza dell’accordo, dello strumento o della transazione di cui al paragrafo 1. L’autorità competente dello Stato contraente a cui è stata presentata una richiesta ai sensi del presente paragrafo da parte di un residente dell’altro Stato contraente consulta l’autorità competente di detto altro Stato contraente prima di respingere la richiesta.
+
+[^27a-1]: Introdotto dall’art. III par. 1 del Prot. del 12 lug. 2024, approvato dall’AF il 20 giu. 2025, in vigore dal 16 nov. 2025 ([RU 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [FF 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+
 #### Art. 28
 
 **Entrata in vigore**
@@ -491,7 +512,9 @@ La presente Convenzione rimane in vigore sino alla denuncia da parte di uno Stat
 - a) alle imposte prelevate alla fonte sui redditi pagati o accreditati il 1° gennaio dell’anno civile seguente a quello nel corso del quale è stata notificata la denuncia, o dopo tale data;
 - b) alle rimanenti imposte per i periodi fiscali che iniziano il 1° gennaio dell’anno civile seguente quello nel corso del quale è stata notificata la denuncia, o dopo tale data.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione Fatto a Budapest, il 12 settembre 2013, in due esemplari in lingua tedesca, ungherese e inglese ciascun testo facente egualmente fede. In caso d’interpretazione divergente fra il testo tedesco e ungherese, prevarrà il testo inglese. Per il Consiglio federale svizzero: Per il Governo ungherese: Jean-François Paroz Gábor Orbán
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione Fatto a Budapest, il 12 settembre 2013, in due esemplari in lingua tedesca, ungherese e inglese ciascun testo facente egualmente fede. In caso d’interpretazione divergente fra il testo tedesco e ungherese, prevarrà il testo inglese. Per il Consiglio federale svizzero: Jean-François Paroz Per il Governo ungherese: Gábor Orbán
+
+[^t-2]
 
 Il Consiglio federale svizzero e il Governo d’Ungheria,
 
@@ -525,11 +548,7 @@ Con riferimento al paragrafo 1 dell’articolo 4, resta inteso che, l’espressi
 - a) istituzioni di previdenza stabilite in questo Stato, e
 - b) organizzazioni fondate e gestite esclusivamente per scopi religiosi, caritatevoli, scientifici, culturali, sportivi o educativi (o vari di questi scopi) e che sono residenti in uno Stato secondo la sua legislazione, nonostante il fatto che una parte o tutti i loro redditi o utili possano essere esenti da imposta secondo il diritto interno di questo Stato.
 
-**3. Ad art. 10, 11, 12 e 13 par. 4 lett. b**
-
-Gli articoli 10, 11, 12 e la lettera b del paragrafo 4 dell’articolo 13 non sono applicabili se una persona o più persone attuano un’operazione o una sequenza di operazioni concernenti azioni o altri diritti, crediti o diritti in relazione a dividendi, interessi e canoni pagati o in relazione all’alienazione secondo la lettera b del paragrafo 4 dell’articolo 13, con lo scopo principale di beneficiare dei vantaggi di cui agli articoli 10, 11, 12 e alla lettera b del paragrafo 4 dell’articolo 13.
-
-**4. Ad art. 18**
+**3. Ad art. 18**
 
 Resta inteso che il termine «pensioni» di cui all’articolo 18 non comprende soltanto pagamenti ricorrenti, ma anche prestazioni forfettarie.
 
@@ -537,13 +556,17 @@ Per quanto concerne la Svizzera, il termine «pensione» comprende anche pagamen
 
 Per quanto concerne l’Ungheria, il termine «pensione» comprende anche pagamenti degli istituti di previdenza a condizione che si tratti di prestazioni di pensione.
 
-**5. Ad art. 25**
+**4. Ad art. 25**
 
 Se dopo la firma della presente Convenzione, l’Ungheria conviene l’introduzione di una una clausola arbitrale in una convenzione per evitare le doppie imposizioni con uno Stato terzo, le autorità competenti dell’Ungheria e della Svizzera avvieranno appena possibile i negoziati in vista di concludere un Protocollo di modifica concernente l’introduzione di una clausola arbitrale nella presente Convenzione.
 
-**6. Ad art. 26**
+**5. Ad art. 26**
+
+*6*. Resta inteso che le disposizioni della Convenzione non impediscono agli Stati contraenti di attuare le disposizioni del diritto interno sull’imposizione minima dei grandi gruppi di imprese multinazionali adottate sulla base delle norme tipo globali in materia di lotta all’erosione della base imponibile e al trasferimento degli utili (secondo pilastro) emanate dall’«Inclusive Framework on Base Erosion and Profit Shifting» dell’Organizzazione per la cooperazione e lo sviluppo economici e del G20.
 
 Fatto a Budapest, il 12 settembre 2013, in due esemplari in lingua tedesca, ungherese e inglese ciascun testo facente egualmente fede. In caso d’interpretazione divergente fra il testo tedesco e ungherese, prevarrà il testo inglese.
+
+Art. V par. 2 e 3 del Protocollo del 12 luglio 2024[^t-7]
 
 - a) Resta inteso che lo Stato richiedente deve sfruttare tutte le fonti d’informazione abituali previste dalla sua procedura fiscale interna prima di richiedere informazioni.
 - b)
@@ -562,13 +585,25 @@ Fatto a Budapest, il 12 settembre 2013, in due esemplari in lingua tedesca, ungh
 - e) Resta inteso che, prima della trasmissione delle informazioni allo Stato richiedente, nel caso di uno scambio di informazioni si applicano nello Stato richiesto le norme di procedura amministrativa relative ai diritti del contribuente. Resta inoltre inteso che questa disposizione serve a garantire al contribuente una procedura regolare e non mira a ostacolare o ritardare indebitamente gli scambi effettivi di informazioni.
 
 <table>
-<tr><td>Per il Consiglio federale svizzero:</td><td>Per il Governo dell’Ungheria:</td></tr>
-<tr><td colspan="2">Jean-François Paroz</td><td>Gábor Orbán</td></tr>
+<tr><td>Per il Consiglio federale svizzero: Jean-François Paroz</td><td>Per il Governo ungherese: Gábor Orbán</td></tr>
 </table>
+
+<sup>1.</sup> I due Stati contraenti si notificano per via diplomatica che sono adempiuti i presupposti legali interni necessari all’entrata in vigore del presente Protocollo.
+
+<sup>2.</sup>
+
+Il Protocollo entra in vigore alla data in cui perviene l’ultima notificazione. Esso si applica:
+
+- a) con riferimento alle imposte trattenute alla fonte, ai redditi pagati o accreditati il 1° gennaio dell’anno civile successivo all’entrata in vigore del Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data.
+
+<sup>3.</sup> Nonostante le disposizioni del paragrafo 2, le modifiche previste agli articoli II e IV del presente Protocollo sono applicabili dalla data dell’entrata in vigore del presente Protocollo indipendentemente dal periodo fiscale a cui i fatti fanno riferimento.
 
 Protocollo
 
-[^t-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^t-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^t-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^t-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^t-2]: Aggiornato dagli art. III par. 2 e 3 e IV del Prot. del 12 lug. 2024, approvato dall’AF il 20 giu. 2025, in vigore dal 16 nov. 2025 ([RU 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [FF 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)).
+[^t-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^t-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^t-5]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^t-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^t-7]: [RU 2025 768](https://fedlex.data.admin.ch/eli/oc/2025/768), [767](https://fedlex.data.admin.ch/eli/oc/2025/767); [FF 2024 3064](https://fedlex.data.admin.ch/eli/fga/2024/3064)
