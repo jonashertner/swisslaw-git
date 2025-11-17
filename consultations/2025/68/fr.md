@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "23.325 é Iv. ct. ZH. Assouplissement temporaire des heures d'ouverture des magasins"
 document: Projet mis en consultation
 language: fr

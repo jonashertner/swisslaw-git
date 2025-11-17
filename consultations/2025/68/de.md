@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.325 s Kt. Iv. ZH. Zeitlich befristete Flexibilisierung der Ladenöffnungszeiten
 document: Vernehmlassungsvorlage
 language: de

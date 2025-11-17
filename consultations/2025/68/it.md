@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.325 s Iv. ct. ZH. Flessibilizzazione temporanea degli orari di apertura dei negozi
 document: Progetto posto in consultazione
 language: it
