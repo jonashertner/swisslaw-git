@@ -3,20 +3,19 @@ canton: ZG
 number: "154.223"
 title: Reglement über die Abgabe und Entschädigung von Arbeitskleidern und Sicherheitsausrüstung in der Direktion des Innern
 language: de
-version: 2025-06-27
-valid_until: 2025-11-20
-version_adopted: 2025-06-23
+version: 2025-11-21
+version_adopted: 2025-11-13
 adopted: 2010-12-22
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.223"
-pdf: "https://bgs.zg.ch/api/de/versions/2699/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Abgabe und Entschädigung von Arbeitskleidern und Sicherheitsausrüstung in der Direktion des Innern
 
-Vom 22. Dezember 2010 (Stand 27. Juni 2025)
+Vom 22. Dezember 2010 (Stand 21. November 2025)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -36,15 +35,29 @@ verfügt:
 
 **Abgabe und Entschädigung von Sicherheitsausrüstung und Arbeitskleidern im Amt für Denkmalpflege und Archäologie**
 
-<sup>1</sup> Für die Mitarbeitenden mit regelmässiger Feldarbeit werden vom Amt für Denkmalpflege und Archäologie je nach Bedarf Helme, Schutzbrillen, Ohrenschutz sowie Handschuhe zur Verfügung gestellt. Wenn diese Ausrüstungsgegenstände defekt sind, werden sie vom Amt für Denkmalpflege und Archäologie ersetzt.
+<sup>1</sup> Das Amt für Denkmalpflege und Archäologie stellt seinen Mitarbeitenden im Aussendienst die persönliche Schutzausrüstung und beschriftete Arbeitskleidung zur Verfügung. Die abgegebenen Ausrüstungsgegenstände dienen dem Gesundheitsschutz, der Arbeitssicherheit und der Erkennbarkeit als kantonale Mitarbeitende.
 
-<sup>2</sup> Spätestens nach Beendigung des Arbeitsverhältnisses sind diese Gegenstände dem Amt für Denkmalpflege und Archäologie zurückzugeben.
+<sup>2</sup> Die persönliche Schutzausrüstung richtet sich nach den Empfehlungen der SUVA und umfasst Sicherheitsschuhe der Klasse S3, Warnschutzkleidung sowie Helm, Gehörschutz, Atemschutz, Augenschutz, Handschuhe und Schnittschutzhosen. Sie wird denjenigen Mitarbeitenden zur Verfügung gestellt, die eine persönliche Schutzausrüstung für die auszuführende Tätigkeit tragen müssen.
 
-<sup>3</sup> Für die Arbeitskleider und -schuhe sowie für weitere in Abs. 1 nicht aufgeführte Sicherheitsausrüstungsgegenstände und Arbeitskleider, welche die Mitarbeitenden mit regelmässiger Feldarbeit auf eigene Kosten anschaffen, reinigen, pflegen und nötigenfalls reparieren oder ersetzen müssen – um ihre Arbeit verrichten zu können – werden diesen – je nach Umfang der durchschnittlich geleisteten Feldarbeit – monatlich folgende Pauschalentschädigungen ausgerichtet:
+<sup>3</sup> Die abgegebene Menge an beschrifteter Arbeitskleidung deckt den üblichen Bedarf im Aussendienst und wird von den Abteilungsleitenden festgelegt.
 
-- a) Fr. 40.– bei monatlich bis 70 Stunden Feldarbeit;
-- b) Fr. 60.– bei monatlich 71 bis 120 Stunden Feldarbeit;
-- c) Fr. 80.– bei monatlich ab 121 Stunden Feldarbeit.
+- a) …
+- b) …
+- c) …
+
+<sup>4</sup> Der Ersatz der abgegebenen persönlichen Schutzausrüstung und beschrifteten Arbeitskleidung richtet sich nach dem üblichen Bedarf und wird von den Abteilungsleitenden festgelegt. Bei vorsätzlich verursachten Schäden tragen die Mitarbeitenden die Ersatzkosten selbst.
+
+<sup>5</sup> Die Reinigung der abgegebenen persönlichen Schutzausrüstung und beschrifteten Arbeitskleidung obliegt den Mitarbeitenden. Eine Entschädigung für Reinigungskosten wird nicht gewährt.
+
+<sup>6</sup> Für nicht beschriftete Arbeitskleidung, welche die Mitarbeitenden auf eigene Kosten anschaffen, reinigen, pflegen und nötigenfalls reparieren oder ersetzen müssen, können gegen Abgabe des Kauf- oder Reparaturbelegs und in Absprache mit den zuständigen Abteilungsleitenden Spesen geltend gemacht werden. Eine Entschädigung für Reinigungskosten wird nicht gewährt.
+
+<sup>7</sup> Bei Beendigung des Arbeitsverhältnisses sind die abgegebene persönliche Schutzausrüstung und die beschriftete Arbeitskleidung in gereinigtem Zustand an das Amt für Denkmalpflege und Archäologie zurückzugeben.
+
+<sup>8</sup> An Mitarbeitende in befristetem Arbeitsverhältnis (beispielsweise Aushilfen, Praktikantinnen und Praktikanten, Zivildienstleistende) kann je nach Umfang des geleisteten Einsatzes und in Absprache mit den zuständigen Abteilungsleitenden wie folgt eine monatliche Pauschalentschädigung ausbezahlt werden:
+
+- a) Fr. 40.– bei monatlich bis 70 Stunden Aussendienst;
+- b) Fr. 60.– bei monatlich 71 bis 120 Stunden Aussendienst;
+- c) Fr. 80.– bei monatlich ab 121 Studen Aussendienst.
 
 #### § 3
 
