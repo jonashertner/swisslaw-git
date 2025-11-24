@@ -4,11 +4,11 @@ title: "Ordinance of 22 November 2006 on Collective Investment Schemes (Collecti
 short: CISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: en
-version: 2024-03-01
+version: 2025-11-25
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20240301/en/xml/fedlex-data-admin-ch-eli-cc-2006-859-20240301-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20251125/en/xml/fedlex-data-admin-ch-eli-cc-2006-859-20251125-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20251125/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Collective Investment Schemes Ordinance, CISO)
 
-of 22 November 2006 (Status as of 1 March 2024)
+of 22 November 2006 (Last amended on 25 November 2025)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on the Collective Investment Schemes Act of 23 June 2006[^ingress-1] (CISA
 
 decrees:
 
-[^ingress-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^ingress-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^ingress-2]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Title 1 General Provisions
@@ -131,9 +131,9 @@ Newly established investment companies whose issue prospectus provides for a lis
 
 [^5-1]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^5-2]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^5-3]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^5-3]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^5-4]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-5]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-5]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^5-6]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^5-7]: Inserted by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
@@ -335,7 +335,7 @@ For foreign collective investment schemes, the following documents must be sub- 
 
 [^13a-1]: Inserted by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^13a-2]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^13a-3]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^13a-3]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 14
 
@@ -389,7 +389,7 @@ The representatives of foreign collective investment schemes that are not offere
 <sup>5</sup> The report must be made immediately to FINMA, which shall establish whether the reported facts comply with the Act.
 
 [^15-1]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^15-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^15-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^15-3]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^15-4]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^15-5]: Amended by Annex No 6 of the Financial Market Audit Act of 15 Oct. 2008, in force since 1 Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
@@ -805,7 +805,7 @@ In particular, the fund contract contains the following information:
 
 [^35a-1]: Inserted by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^35a-2]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^35a-3]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^35a-3]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^35a-4]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 36
@@ -903,10 +903,10 @@ Where explicitly provided by the fund contract and where the activity is not per
 [^37-8]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-9]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-10]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-11]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-12]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-13]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-14]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-11]: Inserted by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-12]: Inserted by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-13]: Inserted by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-14]: Inserted by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-15]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-16]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-17]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
@@ -1023,7 +1023,7 @@ The investors may be charged for the following:
 A SICAV may only manage its own assets or those of its subfunds. It is specifically prohibited from rendering services pursuant to Article 26 and 34 of the Financial Institutions Act of 15 June 2018[^52-2] (FinIA) on behalf of third parties.
 
 [^52-1]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^52-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^52-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 53
 
@@ -1079,11 +1079,11 @@ The following must be deducted from the capital:
 <sup>7</sup> FINMA regulates the details.
 
 [^55-1]: Repealed by No I of the O of 31 Jan. 2024, with effect from 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^55-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^55-2]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^55-3]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-4]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-5]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^55-6]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^55-7]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-8]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-9]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
@@ -1171,7 +1171,7 @@ Shareholders have the right to vote on:
 In relation to the custodian bank, Article 15 paragraph 2 of the present Ordinance and Article 53 FinIO[^62a-2] apply accordingly.
 
 [^62a-1]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^62a-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^62a-2]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 62b
 
@@ -1219,7 +1219,7 @@ The general meeting of the SICAV or subfunds is responsible for amending the inv
 <sup>5</sup> The provision regarding important resolutions passed by the general meeting of a company limited by shares (Art. 704 of the Swiss Code of Obligations[^63-2], CO) does not apply.[^63-3]
 
 [^63-1]: Amended by No I of the O of 13. Feb. 2008, in force since 1 March 2008 ([AS 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
-[^63-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^63-3]: Inserted by Annex No 6 of the Financial Market Audit Act of 15 Oct. 2008, ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 64
@@ -1246,10 +1246,10 @@ The board of directors has the following tasks:
 <sup>4</sup> In relation to the organisational structure of a self-managed SICAV, Article 51 paragraph 1, Article 52 paragraph 1 and Article 53 FinIO[^64-5] apply accordingly.[^64-6]
 
 [^64-1]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^64-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^64-3]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^64-4]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^64-5]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^64-5]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^64-6]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 65
@@ -1261,7 +1261,7 @@ The board of directors has the following tasks:
 Articles 32 and 35 FinIA[^65-2] apply accordingly to the delegation of tasks.
 
 [^65-1]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^65-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^65-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 66
 
@@ -1351,7 +1351,7 @@ The following are not permitted:
 
 <sup>4</sup> ...[^70-1]
 
-[^70-1]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^70-1]: Repealed by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, with effect from 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 71
 
@@ -1531,7 +1531,9 @@ At the expense of a securities fund:
 
 <sup>3</sup> Securities lending and repurchase agreements in the form of reverse repos are not deemed to be lending pursuant to paragraph 1*a*.
 
-<sup>4</sup> Repurchase agreements in the form of repos pursuant to paragraph 2 are deemed to be borrowing unless the funds obtained are used as part of an arbitrage transaction for the acquisition of securities of a similar type in connection with a reverse repo.
+<sup>4</sup> Repurchase agreements in the form of repos pursuant to paragraph 2 are deemed to be borrowing unless the funds obtained are used as part of an arbitrage transaction for the acquisition of securities of a similar type in connection with a reverse repo.[^77-1]
+
+[^77-1]: The correction of 25 Nov. 2025 concerns the French text only ([AS 2025 756](https://fedlex.data.admin.ch/eli/oc/2025/756)).
 
 #### Art. 78
 
@@ -1742,7 +1744,7 @@ The following limits expressed as a percentage of the fund's assets apply to the
 
 <sup>4</sup> Co-ownership of common facilities associated with properties held by the collective investment scheme which are part of a more extensive development must not grant a controlling influence. In such cases, the right of pre-emption pursuant to paragraph 3 may be suspended under contract.
 
-[^88-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^88-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 89
 
@@ -2002,7 +2004,7 @@ FINMA may in individual cases grant a derogation from the regulations pertaining
 
 <sup>2</sup> The warning clause must be placed on the first page of the fund regulations, the prospectus and the key information document in accordance with Articles 58–63 and 66 FinSA[^102-1], and in all cases in the form in which it was approved by FINMA.[^102-2]
 
-[^102-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^102-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^102-2]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ### Chapter 4 General Provisions
@@ -2116,7 +2118,7 @@ If a collective investment scheme contains both ETF and non-ETF unit classes, th
 - c. it must be stated on the first page of the fund contract or investment regulations, the prospectus and the key information document, as well as in the advertising, that the collective investment scheme contains both ETF and non-ETF unit classes.
 
 [^106-1]: Amended by No I of the O of 31 Jan. 2024, in force since 1 March 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^106-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^106-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### Section 2 ...
 
@@ -2158,9 +2160,9 @@ If a collective investment scheme contains both ETF and non-ETF unit classes, th
 
 <sup>4</sup> The issuing of fractions of units shall only be permitted in the case of investment funds.
 
-[^108-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^108-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^108-2]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^108-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^108-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^108-4]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 108a
@@ -2394,7 +2396,7 @@ To achieve this object, it may:
 - b. sit on the body responsible for the governance, supervision and control of its participations, in order to safeguard the interests of the limited partners.
 
 [^117-1]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^117-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^117-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^117-3]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 118
@@ -2505,7 +2507,7 @@ The general partner, the persons responsible for the administration and the mana
 
 <sup>2</sup> It may delegate investment decisions as well as specific tasks, provided this is in the interests of efficient management.
 
-[^122-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^122-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^122-2]: Amended by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 122a
@@ -2611,7 +2613,7 @@ It is subject by analogy to the following self-regulatory instruments issued by 
 - e. Guidelines on the calculation and publication of performance data of collective investment schemes in the version dated 5 August 2021;
 - f. Guidelines on the calculation and disclosure of the Total Expense Ratio (TER) of collective investment schemes in the version dated 5 August 2021.
 
-[^126b-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126b-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126b-2]: The code of conduct and guidelines can be obtained free of charge at [Asset Management Association Switzerland](https://www.am-switzerland.ch/en) under Self-regulation.
 
 #### Art. 126c
@@ -2888,7 +2890,7 @@ L-QIFs in the legal form of a contractual fund or SICAV may:
 
 <sup>4</sup> Articles 1–55 CISO-FINMA[^126p-1] in the version of 1 January 2015[^126p-2] on securities lending, repurchase agreements, derivative financial instruments and collateral management apply by analogy, with the exception of the obligations to inform FINMA and to obtain FINMA approval.
 
-[^126p-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126p-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126p-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 #### Art. 126q
@@ -2931,7 +2933,7 @@ The investors in an L-QIF master fund are its L-QIF feeder funds. Other investor
 
 <sup>4</sup> Articles 56–64 CISO-FINMA[^126s-1] in its version dated 1 January 2015[^126s-2] on master-feeder structures apply by analogy, with the exception of the obligations to inform FINMA and to obtain FINMA approval.
 
-[^126s-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126s-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126s-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 ### Section 2 Additional Provisions for L-QIFs in the Legal Form of Contractual Funds or SICAVs with Real Estate Investments
@@ -2971,7 +2973,7 @@ In the case of co-ownership interests that correspond to a minority interest, th
 
 <sup>3</sup> The fund contract or the investment regulations must, where applicable, indicate the particular risks associated with any of the measures referred to in paragraph 1.
 
-[^126u-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^126u-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 126v
 
@@ -3087,7 +3089,7 @@ The requirements for valuation experts, the valuation of properties on acquisiti
 
 <sup>2</sup> Insofar as the valuation is not governed by CISO-FINMA or the recognised self-regulation of the industry organisation, it must be carried out in accordance with recognised international standards. The standards applied must be described in detail in the fund contract, the investment regulations or the company agreement.
 
-[^126zquater-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zquater-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zquater-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
 
 #### Art. 126z<sup>quinquies</sup>
@@ -3120,7 +3122,7 @@ The L-QIF audits are divided into an audit of accounts and a supplementary audit
 
 <sup>3</sup> The auditing of accounts must be carried out annually.
 
-[^126zsepties-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zsepties-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>octies</sup>
 
@@ -3156,10 +3158,10 @@ In the first audit year after the launch of the L-QIF or after amendment of the 
 
 <sup>6</sup> The audit of other provisions of financial market law as part of the supervisory audit of the institution responsible for management in accordance with Article 112 paragraph 1 CISO-FINMA[^126zocties-4] in the version dated 1 January 2021[^126zocties-5] is reserved.
 
-[^126zocties-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
-[^126zocties-3]: [SR 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
-[^126zocties-4]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-3]: [SR 956.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11621)
+[^126zocties-4]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-5]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
 
 ### Section 2 Audit Reports
@@ -3191,7 +3193,7 @@ The audit company prepares:
 
 The provisions of the Swiss Code of Obligations [^126zdecies-1] on the ordinary audit apply by analogy to the reports on the auditing of accounts.
 
-[^126zdecies-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zdecies-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>undecies</sup>
 
@@ -3205,7 +3207,7 @@ The provisions of the Swiss Code of Obligations [^126zdecies-1] on the ordinary 
 
 <sup>4</sup> The standard confirmation of the industry organisation for auditing declared generally binding by FINMA also applies to the L-QIF.
 
-[^126zundecies-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zundecies-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>duodecies</sup>
 
@@ -3318,7 +3320,7 @@ FINMA may in individual cases specify a simplified, fast-track approval procedur
 Foreign collective investment schemes which are offered to qualified investors in accordance with Article 5 paragraph 1 of the Financial Services Act of 15 June 2018[^129a-2] (FinSA) within the scope of a permanent investment advice relationship within the meaning of Article 3 letter c item 4 FinSA are not required to meet the conditions of Article 120 paragraph 2 letter d CISA.
 
 [^129a-1]: Inserted by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^129a-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 129b
 
@@ -3329,7 +3331,7 @@ Foreign collective investment schemes which are offered to qualified investors i
 Employee share participation schemes are employee participation schemes in accordance with Article 5 FinIO[^129b-2].
 
 [^129b-1]: Inserted by Annex 1 No II 9 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129b-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^129b-2]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 130
 
@@ -3405,7 +3407,7 @@ The following must be indicated in the publications and marketing material:
 [^133-1]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-2]: Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^133-3]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^133-4]: [SR 950.11](https://fedlex.data.admin.ch/eli/cc/2019/759)
+[^133-4]: [SR 950.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11501)
 [^133-5]: Inserted by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^133-6]: Amended by No I of the O of 13 Feb. 2013, in force since 1 March 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-7]: Inserted by No I of the O of 13 Feb. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Amended by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
@@ -3457,7 +3459,7 @@ It shall submit the audit report under paragraph 1 to the following recipients:
 <sup>5</sup> It may request additional information from the audit company for the custodian bank that it requires to carry out its tasks.
 
 [^135-1]: Amended by Annex No 3 of the Financial Market Audit Ordinance of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^135-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^135-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 136
 
@@ -3584,13 +3586,9 @@ This Ordinance comes into force on 1 January 2007.
 
 Annex 1[^t-1]
 
-- [tab]
-
 [^t-1]: Repealed by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, with effect from 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 Annex 2[^t-2]
-
-- [tab]
 
 [^t-2]: Repealed by Annex 11 No 1 of the Financial Services Ordinance of 6 Nov. 2019, with effect from 1 Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 

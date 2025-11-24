@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2006 sugli investimenti collettivi di capitale
 short: OICol
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: it
-version: 2024-03-01
+version: 2025-11-25
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2006-859-20240301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20251125/it/xml/fedlex-data-admin-ch-eli-cc-2006-859-20251125-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20251125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/it"
 
 (Ordinanza sugli investimenti collettivi, OICol)
 
-del 22 novembre 2006 (Stato 1° marzo 2024)
+del 22 novembre 2006 (Stato 25 novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge del 23 giugno 2006[^ingress-1] sugli investimenti collettivi (LIC
 
 ordina:
 
-[^ingress-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^ingress-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Titolo 1: Disposizioni generali
 
@@ -36,7 +36,7 @@ ordina:
 
 [^1-1]
 
-[^1-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 1a
 
@@ -81,15 +81,15 @@ In particolare sono da considerarsi società operative le imprese che:
 
 <sup>5</sup> Oltre alle proprie attività imprenditoriali, le società operative possono anche effettuare investimenti a scopo di investimento. Questi possono però rappresentare soltanto un’attività accessoria o ausiliaria secondaria rispetto allo scopo principale.
 
-[^1b-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^1b-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^1b-3]: Nuova espressione giusta il n. I cpv. 1 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^1b-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1b-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^1b-3]: Nuova espr. giusta la cifra I cpv. 1 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 1c
 
 [^1c-1]
 
-[^1c-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1c-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 2
 
@@ -127,13 +127,13 @@ Le società d’investimento neocostituite il cui prospetto d’emissione preved
 
 <sup>6</sup> Negli investimenti collettivi di capitale da loro gestiti, le direzioni dei fondi, le società di investimento a capitale variabile (SICAV), le società in accomandita per investimenti collettivi di capitale (SAcCol) e le società di investimento a capitale fisso (SICAF) sono responsabili del rispetto costante dei criteri che definiscono un investimento collettivo di capitale secondo l’articolo 7 LICol e il presente articolo.[^5-7]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^5-3]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^5-3]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^5-4]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-5]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-5]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^5-6]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-7]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^5-7]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 6
 
@@ -153,7 +153,7 @@ L’intermediario finanziario:
 - b. spiega loro i rischi che ne derivano; e
 - c. indica loro la possibilità di dichiarare in forma scritta o in un’altra forma che consenta la prova per testo di non volere essere considerati investitori qualificati.
 
-[^6a-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ### Capitolo 3: Autorizzazione e approvazione
 
@@ -171,10 +171,10 @@ Chiunque richieda un’autorizzazione ai sensi dell’articolo 13 LICol deve sot
 - b. il contratto di società nel caso della SICAF[^7-3];
 - c.[^7-4] i pertinenti documenti organizzativi nel caso del rappresentante di investimenti collettivi di capitale esteri.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^7-2]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^7-3]: Nuova espressione giusta il n. I cpv. 2 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^7-4]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^7-2]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^7-3]: Nuova espr. giusta la cifra I cpv. 2 dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^7-4]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 8
 
@@ -184,13 +184,13 @@ Chiunque richieda un’autorizzazione ai sensi dell’articolo 13 LICol deve sot
 
 Chi dispone di un’autorizzazione quale direzione del fondo è esentato dall’obbligo dell’autorizzazione a cui sottostanno i rappresentanti di investimenti collettivi di capitale esteri.
 
-[^8-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^8-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^9-1]: Abrogato dalla cifra I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 10
 
@@ -202,13 +202,13 @@ Chi dispone di un’autorizzazione quale direzione del fondo è esentato dall’
 
 <sup>2</sup> Nella valutazione dei requisiti si deve tener conto tra l’altro dell’attività prevista presso il titolare dell’autorizzazione, nonché del tipo di investimenti previsti.
 
-[^10-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^10-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 11
 
 [^11-1]
 
-[^11-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 12
 
@@ -228,8 +228,8 @@ Chi dispone di un’autorizzazione quale direzione del fondo è esentato dall’
 
 <sup>6</sup> Essa può, in casi motivati, consentire deroghe a questi requisiti.
 
-[^12-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^12-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 12a
 
@@ -247,8 +247,8 @@ Chi dispone di un’autorizzazione quale direzione del fondo è esentato dall’
 
 <sup>5</sup> La FINMA può disciplinare i dettagli della gestione dei rischi, del sistema interno di controllo e della conformità.[^12a-2]
 
-[^12a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^12a-2]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^12a-2]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 12b
 
@@ -265,8 +265,8 @@ Sono compiti essenziali:
 - a.[^12b-2] per una SICAV: i compiti secondo l’articolo 36 LICol;
 - b. per un rappresentante di investimenti collettivi di capitale esteri: i compiti secondo l’articolo 124 LICol.
 
-[^12b-1]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^12b-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^12b-1]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12b-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 12c
 
@@ -285,7 +285,7 @@ L’organizzazione aziendale non è più da considerarsi adeguata in particolare
 - a. non dispone delle risorse di personale e delle conoscenze specifiche necessarie per la scelta, l’istruzione, la sorveglianza e il controllo dei rischi dei terzi; o
 - b. non dispone dei necessari diritti di impartire istruzioni e di controllo nei confronti dei terzi.
 
-[^12c-1]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12c-1]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 12d
 
@@ -308,7 +308,7 @@ Essi convengono con i terzi, in forma scritta o in un’altra forma che ne conse
 
 <sup>4</sup> La delega deve essere formulata in modo da consentire alle SICAV o ai rappresentanti di investimenti collettivi di capitale esteri, ai loro organi di audit interni, alla società di audit e alla FINMA di consultare e verificare il compito delegato.
 
-[^12d-1]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^12d-1]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 13
 
@@ -332,9 +332,9 @@ Per gli investimenti collettivi di capitale esteri, alla FINMA devono essere sot
 - d. lo statuto e il regolamento di investimento o il contratto di società di investimenti collettivi di capitale organizzati secondo il diritto societario;
 - e. altri documenti che sarebbero necessari per un’autorizzazione secondo il diritto estero applicabile e che corrispondono a quelli necessari per investimenti collettivi di capitale svizzeri secondo l’articolo 15 capoverso 1 LICol.
 
-[^13a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^13a-2]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^13a-3]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^13a-3]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 14
 
@@ -352,9 +352,9 @@ Le modifiche dei documenti di cui all’articolo 15 LICol devono essere sottopos
 - b.[^14-2] della modifica dell’importo o dei limiti del margine di variazione del capitale accomandato previsti nel contratto di società della SAcCol;
 - c.[^14-3] delle modifiche dei documenti soggetti all’obbligo di approvazione di un investimento collettivo di capitale svizzero che concernono esclusivamente disposizioni su restrizioni di vendita e di distribuzione e che sono necessari nel quadro di leggi estere, trattati internazionali, convenzioni interstatali o di diritto in materia di vigilanza e simili.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^14-3]: Introdotta dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^14-3]: Introdotta dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 15
 
@@ -387,14 +387,14 @@ I rappresentanti di investimenti collettivi di capitale esteri che non vengono o
 
 <sup>5</sup> La comunicazione deve essere effettuata senza indugio alla FINMA. Quest’ultima constata la conformità alla legge.
 
-[^15-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^15-3]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^15-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^15-3]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^15-4]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^15-5]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^15-5]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^15-6]: Nuovo testo giusta l’all. n. 6 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^15-7]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^15-8]: Abrogata dal n. I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^15-7]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^15-8]: Abrogata dalla cifra I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 16
 
@@ -457,13 +457,13 @@ Gli investitori devono essere:
 
 [^tit1-chap3-sec2-1]
 
-[^tit1-chap3-sec2-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^tit1-chap3-sec2-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 19
 
 [^19-1]
 
-[^19-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^19-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 20
 
@@ -497,17 +497,17 @@ I conti di capitale e gli averi dei soci illimitatamente responsabili possono es
 
 <sup>4</sup> La dichiarazione di cui al capoverso 3 è irrevocabile. Deve essere fornita in forma scritta o in un’altra forma che ne consenta la prova per testo e depositata presso una società di audit abilitata.[^20-5]
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^20-3]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^20-4]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^20-5]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^20-3]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-4]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-5]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 21
 
 [^21-1]
 
-[^21-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^21-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 22
 
@@ -539,9 +539,9 @@ Le società di persone possono computare nei mezzi propri:[^22-2]
 <sup>4</sup> I mezzi propri ai sensi dei capoversi 1 e 2 devono corrispondere almeno al 50 per cento dei mezzi propri complessivi necessari.
 
 [^22-1]: Nuova espr. giusta l’all. n. 6 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^22-3]: Abrogata dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^22-4]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^22-3]: Abrogata dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^22-4]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 23
 
@@ -559,50 +559,50 @@ Nel calcolo dei mezzi propri vanno dedotti:
 - f. nel caso della società a garanzia limitata, le quote sociali da essa detenute a proprio rischio;
 - g.[^23-2] il valore contabile delle partecipazioni.
 
-[^23-1]: Abrogata dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^23-2]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^23-1]: Abrogata dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^23-2]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 24
 
 [^24-1]
 
-[^24-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^24-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 24a
 
 [^24a-1]
 
-[^24a-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 25 a 28
 
 [^2528-1]
 
-[^2528-1]: Abrogati dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^2528-1]: Abrogati dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 29
 
 [^29-1]
 
-[^29-1]: Abrogato dal n. I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^29-1]: Abrogato dalla cifra I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 29a a 29f
 
 [^29a29f-1]
 
-[^29a29f-1]: Introdotti dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogati dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^29a29f-1]: Introdotti dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogati dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 30
 
 [^30-1]
 
-[^30-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^30-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 30a
 
 [^30a-1]
 
-[^30a-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^30a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Capitolo 4: Tutela degli interessi degli investitori
 
@@ -639,11 +639,11 @@ Le persone che gestiscono o custodiscono investimenti collettivi di capitale svi
 
 <sup>6</sup> L’autorità di vigilanza disciplina i dettagli. Essa può dichiarare applicabili i capoversi 4 e 5 anche per altri prodotti.[^31-5]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^31-3]: Nuovo testo giusta il n. I dell’O del 28 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
-[^31-4]: Nuovo testo giusta il n. I dell’O del 28 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
-[^31-5]: Introdotto dal n. I dell’O del 28 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
+[^31-4]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
+[^31-5]: Introdotto dalla cifra I dell’O del 28 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 719](https://fedlex.data.admin.ch/eli/oc/2009/121)).
 
 #### Art. 31a
 
@@ -655,7 +655,7 @@ Le persone che gestiscono o custodiscono investimenti collettivi di capitale svi
 
 <sup>2</sup> Sotto l’aspetto finanziario, oltre al prezzo per lo strumento finanziario devono considerare i costi connessi all’esecuzione del mandato nonché le indennità da parte di terzi.
 
-[^31a-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 32
 
@@ -671,8 +671,8 @@ Le persone che gestiscono o custodiscono investimenti collettivi di capitale svi
 
 <sup>4</sup> Le prestazioni delle società immobiliari ai membri della loro amministrazione, alla gestione e al personale devono essere computate sulle rimunerazioni alle quali hanno diritto la direzione del fondo e la SICAV in virtù del regolamento del fondo.[^32-2]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^32-2]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^32-2]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 32a
 
@@ -702,7 +702,7 @@ Conclusa l’operazione, la direzione del fondo o la SICAV redige un rapporto co
 
 <sup>5</sup> Per i valori immobiliari su cui la direzione del fondo, la SICAV o persone ad esse vicine fanno eseguire progetti edilizi, la FINMA non può concedere deroghe al divieto di concludere negozi con persone vicine.[^32a-2]
 
-[^32a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^32a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^32a-2]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 32b
@@ -713,7 +713,7 @@ Conclusa l’operazione, la direzione del fondo o la SICAV redige un rapporto co
 
 Le persone che gestiscono o custodiscono investimenti collettivi di capitale svizzeri o che gestiscono o rappresentano investimenti collettivi di capitale esteri e i loro mandatari devono adottare misure organizzative e amministrative efficaci volte ad accertare, impedire, comporre e sorvegliare i conflitti di interessi allo scopo di evitare che questi pregiudichino gli interessi degli investitori. I conflitti di interessi che non possono essere evitati devono essere comunicati agli investitori.
 
-[^32b-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^32b-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 33
 
@@ -725,7 +725,7 @@ Le persone che gestiscono o custodiscono investimenti collettivi di capitale svi
 
 <sup>2</sup> La FINMA può disciplinare i dettagli e, in casi motivati, consentire eccezioni od ordinare la separazione di altre funzioni.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 34
 
@@ -742,14 +742,14 @@ Le persone che gestiscono o custodiscono investimenti collettivi di capitale svi
 <sup>4</sup> Nell’esercizio dei diritti dei soci e dei diritti dei creditori, le persone che gestiscono o custodiscono investimenti collettivi di capitale svizzeri o che gestiscono o rappresentano investimenti collettivi di capitale esteri e i loro mandatari devono garantire una trasparenza che consenta agli investitori di ricostruire l’esercizio di tali diritti.[^34-4]
 
 [^34-2]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^34-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^34-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^34-3]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^34-4]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 34a
 
 [^34a-1]
 
-[^34a-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ## Titolo 2: Investimenti collettivi di capitale aperti
 
@@ -804,9 +804,9 @@ Il contratto del fondo contiene in particolare le seguenti indicazioni:
 
 <sup>4</sup> La FINMA può concretizzare il contenuto del contratto del fondo tenendo conto degli sviluppi internazionali.
 
-[^35a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^35a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^35a-2]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^35a-3]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^35a-3]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^35a-4]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 36
@@ -826,7 +826,7 @@ Il contratto del fondo descrive gli investimenti ammessi:
 
 <sup>3</sup> Il contratto del fondo descrive le tecniche e gli strumenti di investimento ammessi.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 37
 
@@ -850,7 +850,7 @@ Al patrimonio del fondo o ad eventuali comparti possono essere addebitati:
 Se il contratto del fondo lo prevede espressamente, le seguenti spese accessorie possono essere addebitate al patrimonio del fondo o ai comparti:
 
 - a.[^37-5] le spese in relazione alla compravendita di investimenti, comprese le operazioni di copertura, segnatamente diritti di mediazione usuali sul mercato, commissioni, spese di compensazione e di regolamento, spese bancarie, imposte e tributi, nonché le spese per la verifica e il mantenimento di standard di qualità degli investimenti fisici;
-- b.[^37-6] …
+- b.[^37-6] ...
 - c. i tributi dell’autorità di vigilanza per la costituzione, il cambiamento, la liquidazione, la fusione o la riunione del fondo o di eventuali comparti;
 - d. gli emolumenti annuali dell’autorità di vigilanza;
 - e.[^37-7] gli onorari della società di audit per la verifica nonché per attestazioni nel quadro di costituzioni, cambiamenti, liquidazione, fusione o riunione di fondi o eventuali comparti;
@@ -894,26 +894,26 @@ Se il contratto del fondo lo prevede espressamente e l’attività non è eserci
 
 <sup>5</sup> La direzione del fondo, il gestore di patrimoni collettivi e la banca depositaria possono pagare retrocessioni a copertura dell’attività di distribuzione del fondo soltanto se ciò è espressamente previsto nel contratto del fondo.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^37-2]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^37-3]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^37-4]: Introdotta dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-5]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-5]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-6]: Abrogata dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-7]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-8]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-9]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-10]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-11]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-12]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-13]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-14]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-15]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-16]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-17]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^37-18]: Intrdodotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-7]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-8]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-9]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-10]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-11]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-12]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-13]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-14]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-15]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-16]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-17]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-18]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-19]: Introdotto dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^37-20]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^37-20]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^37-21]: Introdotto dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 38
@@ -931,7 +931,7 @@ Agli investitori si possono addebitare:
 
 <sup>2</sup> Il contratto del fondo definisce in modo comprensibile e trasparente le commissioni che possono essere addebitate agli investitori, nonché il loro ammontare e il metodo di calcolo.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 39
 
@@ -945,9 +945,9 @@ Agli investitori si possono addebitare:
 
 <sup>2</sup> Negli organi di pubblicazione previsti a tale scopo devono essere pubblicati tutti i fatti soggetti all’obbligo di pubblicazione per i quali agli investitori spetta un diritto di opposizione presso la FINMA, nonché lo scioglimento di un fondo di investimento.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^39-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^39-3]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^39-3]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 40
 
@@ -965,7 +965,7 @@ Agli investitori si possono addebitare:
 
 <sup>5</sup> …[^40-1]
 
-[^40-1]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^40-1]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 41
 
@@ -985,17 +985,17 @@ Agli investitori si possono addebitare:
 
 <sup>3</sup> La FINMA stabilisce nella sua decisione la data di entrata in vigore della modifica del contratto del fondo.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^41-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^41-3]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^41-4]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^41-5]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^41-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^41-3]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^41-4]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^41-5]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 42 a 50
 
 [^4250-1]
 
-[^4250-1]: Abrogati dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^4250-1]: Abrogati dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Capitolo 2: Società di investimento a capitale variabile
 
@@ -1013,7 +1013,7 @@ Agli investitori si possono addebitare:
 
 <sup>3</sup> È fatto salvo l’articolo 64.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 52
 
@@ -1023,8 +1023,8 @@ Agli investitori si possono addebitare:
 
 La SICAV può gestire esclusivamente il proprio patrimonio o i suoi comparti. Le è segnatamente vietato fornire prestazioni di servizi di cui agli articoli 26 e 34 della legge del 15 giugno 2018[^52-2] sugli istituti finanziari (LIsFi).
 
-[^52-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^52-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^52-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^52-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 53
 
@@ -1046,7 +1046,7 @@ L’articolo 35 si applica per analogia al patrimonio minimo della SICAV.
 
 <sup>4</sup> La SICAV comunica senza indugio alla FINMA un calo al di sotto del minimo.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 55
 
@@ -1079,15 +1079,15 @@ Devono essere dedotti dai mezzi propri:
 
 <sup>7</sup> La FINMA disciplina i dettagli.
 
-[^55-1]: Abrogata dal n. I dell’O del 31 gen. 2024, con effetto dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^55-2]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^55-3]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-4]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-5]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-6]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^55-7]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-8]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-9]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^55-1]: Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^55-2]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
+[^55-3]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-4]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-5]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^55-6]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^55-7]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-8]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^55-9]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 56
 
@@ -1101,7 +1101,7 @@ A prescindere dalla loro appartenenza a categorie diverse, tutte le azioni hanno
 
 [^57-1]
 
-[^57-1]: Abrogato dal n. I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^57-1]: Abrogato dalla cifra I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 58
 
@@ -1171,8 +1171,8 @@ Gli azionisti hanno diritto di voto:
 
 Alla banca depositaria si applicano per analogia l’articolo 15 capoverso 2 della presente ordinanza e l’articolo 53 OIsFi[^62a-2].
 
-[^62a-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^62a-2]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^62a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^62a-2]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 62b
 
@@ -1189,9 +1189,9 @@ Con la convocazione dell’assemblea generale la SICAV informa gli azionisti, ne
 
 <sup>3</sup> I capoversi 1 e 2 si applicano per analogia allo statuto, per quanto esso disciplini contenuti del regolamento di investimento.
 
-[^62b-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^62b-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^62b-3]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^62b-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^62b-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^62b-3]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Sezione 2: Organizzazione
 
@@ -1217,9 +1217,9 @@ L’assemblea generale della SICAV o dei comparti ha la competenza di modificare
 
 <sup>5</sup> La disposizione sulle decisioni importanti dell’assemblea generale di una società anonima (art. 704 del Codice delle obbligazioni, CO[^63-2]) non trova applicazione.[^63-3]
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
-[^63-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^63-3]: Introdotto dall’all. n. 6 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
+[^63-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^63-3]: Introdotto dall’all. n. 6 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 64
 
@@ -1244,11 +1244,11 @@ Il consiglio di amministrazione ha i seguenti compiti:
 
 <sup>4</sup> All’organizzazione della SICAV con gestione autonoma si applicano per analogia gli articoli 51 capoverso 1, 52 capoverso 1 e 53 OIsFi[^64-4].[^64-5]
 
-[^64-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^64-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^64-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^64-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^64-3]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^64-4]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
-[^64-5]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^64-4]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
+[^64-5]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 65
 
@@ -1258,14 +1258,14 @@ Il consiglio di amministrazione ha i seguenti compiti:
 
 Gli articoli 32 e 35 LIsFi[^65-2] sono applicabili per analogia alla delega di compiti.
 
-[^65-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^65-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^65-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^65-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 66
 
 [^66-1]
 
-[^66-1]: Abrogato dal n. I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^66-1]: Abrogato dalla cifra I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 ### Capitolo 3: Tipi di investimenti collettivi di capitale aperti e prescrizioni di investimento
 
@@ -1289,7 +1289,7 @@ Gli articoli 32 e 35 LIsFi[^65-2] sono applicabili per analogia alla delega di c
 
 <sup>5</sup> Su richiesta della direzione del fondo e della SICAV, la FINMA può prolungare i termini dei capoversi 3 e 4.
 
-[^67-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^67-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 68
 
@@ -1349,7 +1349,7 @@ Non sono ammessi:
 
 <sup>4</sup> …[^70-1]
 
-[^70-1]: Abrogato dall’all. 1 n. II 9 dell’O sugli istituti finanziari del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^70-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O sugli istituti finanziari del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 71
 
@@ -1363,7 +1363,7 @@ Non sono ammessi:
 
 <sup>3</sup> La FINMA può concretizzare gli investimenti ammessi per un fondo in valori mobiliari secondo il diritto delle Comunità europee vigente nel caso specifico.[^71-1]
 
-[^71-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^71-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 72
 
@@ -1420,8 +1420,8 @@ Se, conformemente al regolamento del fondo, una parte importante del patrimonio 
 - a.[^73-2] il regolamento del fondo e il prospetto devono contenere indicazioni sull’entità massima delle commissioni amministrative che devono essere sopportate dallo stesso investimento collettivo di capitale da effettuare, come pure dal fondo strategico;
 - b. nel rapporto annuale deve essere indicata l’entità massima della quota di commissioni amministrative che devono essere sopportate, da un lato, dall’investimento collettivo di capitale da effettuare e, dall’altro, dal fondo strategico.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^73-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^73-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 73a
 
@@ -1437,7 +1437,7 @@ Se, conformemente al regolamento del fondo, una parte importante del patrimonio 
 
 <sup>4</sup> La FINMA disciplina i dettagli.
 
-[^73a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^73a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 74
 
@@ -1463,7 +1463,7 @@ Gli strumenti del mercato monetario che non sono quotati in borsa o su un altro 
 - j. da un’impresa i cui valori mobiliari sono quotati in borsa o su un altro mercato regolamentato accessibile al pubblico;
 - k.[^74-1] da una banca, da una società di intermediazione mobiliare o da un altro istituto sottoposto a una vigilanza equivalente a quella svizzera.
 
-[^74-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^74-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 75
 
@@ -1508,9 +1508,9 @@ Il rapporto annuale e il rapporto semestrale dell’investimento collettivo di c
 - f. i redditi derivanti dal reinvestimento delle garanzie in contanti ottenute (*cash collateral*);
 - g. la forma del deposito delle garanzie prestate dall’investimento collettivo di capitale (conti segregati o conti omnibus).[^76-3]
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^76-2]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^76-3]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^76-2]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^76-3]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 77
 
@@ -1529,7 +1529,9 @@ A carico del fondo in valori mobiliari:
 
 <sup>3</sup> Il prestito di valori mobiliari e le operazioni pensionistiche effettuate come *reverse repo* non sono considerati concessione di credito ai sensi del capoverso 1 lettera a.
 
-<sup>4</sup> Le operazioni pensionistiche effettuate come *repo* sono considerate assunzione di credito ai sensi del capoverso 2, tranne nel caso in cui i mezzi ottenuti siano utilizzati nel quadro di un’operazione di arbitraggio per la ripresa di valori mobiliari del medesimo tipo e della medesima bonità in relazione con un’operazione pensionistica opposta (*reverse repo*).
+<sup>4</sup> Le operazioni pensionistiche effettuate come *repo* sono considerate assunzione di credito ai sensi del capoverso 2, tranne nel caso in cui i mezzi ottenuti siano utilizzati nel quadro di un’operazione di arbitraggio per la ripresa di valori mobiliari del medesimo tipo e della medesima bonità in relazione con un’operazione pensionistica opposta (*reverse repo*).[^77-1]
+
+[^77-1]: La correzione del 25 nov. 2025 concerne soltanto il testo francese ([RU 2025 756](https://fedlex.data.admin.ch/eli/oc/2025/756)).
 
 #### Art. 78
 
@@ -1563,7 +1565,7 @@ La direzione del fondo e la SICAV possono investire al massimo il 20 per cento d
 
 <sup>4</sup> Se sono assicurati mediante garanzie sotto forma di attività liquide, i crediti derivanti da operazioni OTC non sono considerati nel calcolo del rischio di controparte. La FINMA disciplina i dettagli riguardanti i requisiti in materia di garanzia. A tal fine tiene conto degli standard internazionali.[^80-1]
 
-[^80-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 4 n. 1 dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^80-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 4 n. 1 dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
 #### Art. 81
 
@@ -1694,11 +1696,11 @@ Sono ammessi come ulteriori investimenti:
 
 <sup>4</sup> I beni fondiari non edificati di un fondo immobiliare devono essere urbanizzati e idonei a una costruzione immediata e devono disporre di un’autorizzazione edilizia passata in giudicato per la costruzione in questione. I lavori di costruzione devono poter essere avviati prima della scadenza della validità della pertinente autorizzazione edilizia.[^86-5]
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^86-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^86-3]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^86-4]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^86-5]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^86-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^86-3]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^86-4]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^86-5]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 87
 
@@ -1723,8 +1725,8 @@ Si applicano le seguenti limitazioni riferite al patrimonio del fondo:
 
 <sup>5</sup> La FINMA può, in casi motivati, ammettere deroghe.
 
-[^87-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^87-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^87-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^87-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 88
 
@@ -1740,7 +1742,7 @@ Si applicano le seguenti limitazioni riferite al patrimonio del fondo:
 
 <sup>4</sup> Le quote di comproprietà di investimenti comuni relativi a beni fondiari dell’investimento collettivo di capitale facenti parte di una sovrastruttura globale non devono rendere possibile un influsso determinante. In questi casi il diritto di prelazione di cui al capoverso 3 può essere soppresso contrattualmente.
 
-[^88-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^88-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 89
 
@@ -1772,7 +1774,7 @@ Per garantire progetti futuri di costruzione possono essere detenuti valori mobi
 
 Per garantirsi dai rischi di interesse, valuta, credito e mercato sono ammessi strumenti finanziari derivati. In questo caso si applicano per analogia le disposizioni relative ai fondi in valori mobiliari (art. 72).
 
-[^91-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^91-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 91a
 
@@ -1795,7 +1797,7 @@ Sono considerate persone vicine in particolare:
 
 <sup>2</sup> Le persone incaricate secondo il capoverso 1 lettera a non sono considerate persone vicine se si può dimostrare che non hanno o non hanno avuto alcun influsso, né diretto né indiretto, sulla direzione del fondo o sulla SICAV e la direzione del fondo o la SICAV non è prevenuta in altro modo nell’affare in questione
 
-[^91a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^91a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 92
 
@@ -1816,8 +1818,8 @@ In caso di alienazione si può rinunciare a una nuova stima se:
 
 <sup>4</sup> La direzione del fondo e la SICAV devono motivare nei confronti della società di audit un’alienazione inferiore o un acquisto superiore al valore di stima.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^92-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^92-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 93
 
@@ -1835,7 +1837,7 @@ In caso di alienazione si può rinunciare a una nuova stima se:
 
 <sup>4</sup> Se la direzione del fondo e la SICAV non riprendono senza variazioni il valore di stima nei conti, devono fornire una giustificazione alla società di audit.
 
-[^93-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^93-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 94
 
@@ -1849,7 +1851,7 @@ In caso di alienazione si può rinunciare a una nuova stima se:
 
 <sup>2</sup> Al termine della costruzione, la direzione del fondo e la SICAV ne fanno stimare il valore venale da almeno un perito incaricato delle stime.
 
-[^94-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^94-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 95
 
@@ -1863,8 +1865,8 @@ In caso di alienazione si può rinunciare a una nuova stima se:
 
 <sup>2</sup> Nel caso di fondi immobiliari, negoziati in borsa o su un altro mercato regolamentato accessibile al pubblico, vanno inoltre osservate le disposizioni giuridiche determinanti sulla borsa.
 
-[^95-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^95-2]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^95-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^95-2]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 96
 
@@ -1885,9 +1887,9 @@ Per tutelare la liquidità l’onere può essere aumentato temporaneamente ed ec
 
 <sup>2</sup> Se fanno erigere costruzioni o eseguono il risanamento di edifici, la direzione del fondo e la SICAV possono accreditare al conto economico del fondo immobiliare, per la fase di preparazione, di costruzione o di risanamento dell’edificio, un interesse di costruzione al saggio di mercato usuale per il terreno edificabile e gli edifici in costruzione, sempre che i costi non superino in tal modo il valore venale stimato.
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^96-2]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^96-3]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^96-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^96-2]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^96-3]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 97
 
@@ -1918,7 +1920,7 @@ La direzione del fondo e la SICAV possono rimborsare anticipatamente, dopo la ch
 - a.[^98-1] gli investitori lo esigono in forma scritta o in un’altra forma che consenta la prova per testo all’atto della disdetta;
 - b. tutti gli investitori che hanno richiesto il rimborso anticipato possono essere tacitati.
 
-[^98-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^98-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Sezione 4: Altri fondi per investimenti tradizionali e alternativi
 
@@ -1946,7 +1948,7 @@ Sono ammessi come investimenti di altri fondi segnatamente:
 
 <sup>4</sup> L’articolo 73 capoverso 4 si applica per analogia agli investimenti in quote di investimenti collettivi di capitale.
 
-[^99-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^99-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 100
 
@@ -1974,8 +1976,8 @@ Gli altri fondi destinati a investimenti alternativi possono:
 
 <sup>3</sup> Il regolamento del fondo menziona espressamente le limitazioni di investimento. Esso disciplina inoltre il tipo e l’entità delle vendite allo scoperto ammesse.
 
-[^100-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
-[^100-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
+[^100-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
+[^100-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
 
 #### Art. 101
 
@@ -2000,7 +2002,7 @@ In singoli casi, la FINMA può ammettere deroghe alle disposizioni in materia di
 
 <sup>2</sup> La clausola d’avvertimento deve essere pubblicata sulla prima pagina del regolamento del fondo, del prospetto e del foglio informativo di base di cui agli articoli 58–63 e 66 LSerFi[^102-1] e deve sempre essere utilizzata nella forma approvata dalla FINMA.[^102-2]
 
-[^102-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^102-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^102-2]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ### Capitolo 4: Disposizioni comuni
@@ -2017,7 +2019,7 @@ In singoli casi, la FINMA può ammettere deroghe alle disposizioni in materia di
 
 <sup>2</sup> Per svolgere la sua attività quale banca depositaria, essa dispone di almeno tre collaboratori a tempo pieno con diritto di firma.
 
-[^102a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^102a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 103
 
@@ -2047,8 +2049,8 @@ La banca depositaria ha i seguenti compiti:
 
 <sup>3</sup> Nel caso degli investimenti collettivi di capitale multi-comparto, tutti i compiti devono essere assunti dalla medesima banca depositaria.
 
-[^104-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^104-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^104-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^104-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 105
 
@@ -2073,8 +2075,8 @@ Se trasferisce la custodia del patrimonio del fondo a un depositario terzo o a u
 - c. custodisca i beni patrimoniali ricevuti dalla banca depositaria in modo tale che questa possa identificarli in qualsiasi momento, mediante raffronti periodici degli inventari, come appartenenti al patrimonio del fondo;
 - d. rispetti le prescrizioni a cui sottostà la banca depositaria per quanto concerne l’adempimento dei compiti delegatigli e per evitare conflitti di interessi.
 
-[^105a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^105a-2]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^105a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^105a-2]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 106
 
@@ -2113,8 +2115,8 @@ Se un investimento collettivo di capitale contiene sia classi di quote struttura
 - b. nel prospetto devono essere pubblicati i dettagli sulle classi di quote strutturate come ETF, in particolare sulla modalità di funzionamento, sul commercio e su altre differenze rispetto alle altre classi di quote nonché sulle ripercussioni e sui rischi connessi per gli investitori;
 - c. sulla prima pagina del contratto del fondo o del regolamento di investimento, del prospetto e del foglio informativo di base così come nella pubblicità deve essere indicato che l’investimento collettivo di capitale contiene sia classi di quote strutturate come ETF sia classi di quote che non lo sono.
 
-[^106-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^106-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^106-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^106-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### Sezione 2: …
 
@@ -2128,13 +2130,13 @@ Se un investimento collettivo di capitale contiene sia classi di quote struttura
 
 [^107a-1]
 
-[^107a-1]: Introdotto dal n. I dell’O del 29 giu. 2011 ([RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)). Abrogato dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^107a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2011 ([RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)). Abrogato dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 107ba 107e
 
 [^107b107e-1]
 
-[^107b107e-1]: Introdotti dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogati dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^107b107e-1]: Introdotti dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogati dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ### Sezione 3: Statuto degli investitori
 
@@ -2156,10 +2158,10 @@ Se un investimento collettivo di capitale contiene sia classi di quote struttura
 
 <sup>4</sup> L’emissione di quote frazionate è permessa solo per i fondi di investimento.
 
-[^108-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^108-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^108-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^108-4]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^108-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^108-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^108-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^108-4]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 108a
 
@@ -2185,7 +2187,7 @@ Il processo deve prevedere in particolare che:
 
 <sup>5</sup> La FINMA può disciplinare i dettagli.
 
-[^108a-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^108a-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 109
 
@@ -2242,7 +2244,7 @@ Il regolamento del fondo può prevedere la dilazione temporanea ed eccezionale d
 
 <sup>2</sup> Dopo l’approvazione della FINMA la direzione del fondo o la SICAV deve pubblicare la propria decisione in merito alla segregazione negli organi di pubblicazione.
 
-[^110a-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^110a-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 111
 
@@ -2283,7 +2285,7 @@ La direzione del fondo e la SICAV indicano inoltre nel regolamento del fondo che
 
 [^113-1]
 
-[^113-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^113-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 ### Sezione 5: Ristrutturazione e scioglimento
 
@@ -2391,9 +2393,9 @@ A questo scopo essa può:
 - a. riprendere il controllo dei diritti di voto in imprese;
 - b. per tutelare gli interessi degli accomandanti, far parte dell’organo della direzione superiore, della vigilanza e del controllo delle loro partecipazioni.
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^117-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^117-3]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^117-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^117-3]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 118
 
@@ -2407,7 +2409,7 @@ A questo scopo essa può:
 
 <sup>3</sup> Gli obblighi di autorizzazione e di comunicazione ai sensi degli articoli 14 capoverso 1 e 15 capoverso 1 si applicano per analogia agli accomandatari.
 
-[^118-1]: Abrogato dal n. I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^118-1]: Abrogato dalla cifra I dell’O del 13 feb. 2013, con effetto dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 119
 
@@ -2433,9 +2435,9 @@ Gli accomandatari con mansioni direttive possono partecipare alla società come 
 
 <sup>4</sup> Il contratto di società disciplina i dettagli e deve essere redatto in una lingua ufficiale. La FINMA può ammettere un’altra lingua in singoli casi.[^119-3]
 
-[^119-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^119-2]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^119-3]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^119-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^119-2]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^119-3]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 120
 
@@ -2485,12 +2487,12 @@ L’accomandatario, le persone responsabili dell’amministrazione e della gesti
 - a. la conformità al mercato del prezzo di acquisto e di vendita dei valori immobiliari e infrastrutturali e del costo delle operazioni è confermata da un perito indipendente incaricato delle stime; e
 - b. l’assemblea dei soci ha approvato l’operazione.[^121-6]
 
-[^121-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^121-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^121-2]: Introdotta dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^121-3]: Introdotta dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^121-4]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^121-5]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^121-6]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^121-4]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^121-5]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^121-6]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ### Capitolo 2: Società di investimento a capitale fisso
 
@@ -2504,8 +2506,8 @@ L’accomandatario, le persone responsabili dell’amministrazione e della gesti
 
 <sup>2</sup> La società di investimento a capitale fisso può delegare le decisioni d’investimento e compiti parziali, sempre che la delega sia nell’interesse di un’amministrazione adeguata.
 
-[^122-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^122-2]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^122-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^122-2]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 122a
 
@@ -2519,7 +2521,7 @@ L’accomandatario, le persone responsabili dell’amministrazione e della gesti
 
 <sup>3</sup> La SICAF comunica senza indugio alla FINMA un calo al di sotto del minimo.
 
-[^122a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^122a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 122b
 
@@ -2535,7 +2537,7 @@ Gli organi devono detenere permanentemente azioni proprie in punti percentuali d
 - d. ¼ per cento per la quota superiore a 150 milioni, ma inferiore a 250 milioni;
 - e. ⅛ per cento per la quota che supera 250 milioni di franchi.
 
-[^122b-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^122b-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 123
 
@@ -2575,7 +2577,7 @@ La SICAF pubblica negli organi di pubblicazione le modiche importanti degli stat
 
 [^tit3a-1]
 
-[^tit3a-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^tit3a-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ### Capitolo 1: Disposizioni generali
 
@@ -2610,7 +2612,7 @@ Sottostà per analogia alle seguenti norme di autodisciplina[^126b-2] emanate da
 - e. direttive relative al calcolo e alla pubblicazione della performance di investimenti collettivi di capitale, del 5 agosto 2021;
 - f. direttive relative al calcolo e alla pubblicazione del *Total Expense Ratio* (TER) di investimenti collettivi di capitale, del 5 agosto 2021.
 
-[^126b-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126b-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126b-2]: Le norme di comportamento e le direttive sono consultabili gratuitamente presso la Asset Management Association Switzerland, all’indirizzo: [www.am-switzerland.ch](http://www.am-switzerland.ch) &gt; Regulierung &gt; Selbstregulierung.
 
 #### Art. 126c
@@ -2887,7 +2889,7 @@ Un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento o
 
 <sup>4</sup> Si applicano per analogia gli articoli 1–55 OICol-FINMA[^126p-1] nella versione del 1° gennaio 2015[^126p-2] relativi ai prestiti di valori mobiliari, alle operazioni pensionistiche, agli strumenti finanziari derivati e all’amministrazione delle garanzie, ad eccezione degli obblighi di informazione nei confronti della FINMA e di approvazione da parte della FINMA.
 
-[^126p-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126p-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126p-2]: [RU 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 #### Art. 126q
@@ -2930,7 +2932,7 @@ Gli investitori di un fondo *master* L-QIF sono i suoi fondi *feeder* L-QIF. Alt
 
 <sup>4</sup> Si applicano per analogia gli articoli 56–64 OICol-FINMA[^126s-1] nella versione del 1° gennaio 2015[^126s-2] concernenti le strutture *master* e *feeder*, ad eccezione degli obblighi di informazione nei confronti della FINMA e di approvazione da parte della FINMA.
 
-[^126s-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126s-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126s-2]: [RU 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 ### Sezione 2: Ulteriori disposizioni per un L-QIF che riveste la forma giuridica del fondo contrattuale di investimento o della SICAV e che effettua investimenti immobiliari
@@ -2970,7 +2972,7 @@ Se si tratta di quote di comproprietà che rappresentano una partecipazione di m
 
 <sup>3</sup> Il contratto del fondo o il regolamento di investimento deve indicare, se del caso, i rischi particolari connessi con una delle misure menzionate nel capoverso 1.
 
-[^126u-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^126u-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 126v
 
@@ -3086,7 +3088,7 @@ Le esigenze relative ai periti incaricati delle stime, la valutazione di beni fo
 
 <sup>2</sup> Sempreché l’OICol-FINMA o le norme di autodisciplina riconosciute dell’organizzazione settoriale non dispongano altrimenti, la valutazione deve essere fatta conformemente a standard riconosciuti a livello internazionale. Gli standard applicati sono descritti dettagliatamente nel contratto del fondo, nel regolamento di investimento o nel contratto di società.
 
-[^126zquater-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zquater-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zquater-2]: [RU 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
 
 #### Art. 126z<sup>quinquies</sup>
@@ -3119,7 +3121,7 @@ Le verifiche del L-QIF vanno ripartite in una verifica dei conti e una verifica 
 
 <sup>3</sup> La verifica dei conti deve essere effettuata annualmente.
 
-[^126zsepties-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zsepties-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>octies</sup>
 
@@ -3155,10 +3157,10 @@ Nel primo anno di verifica dopo il lancio del L-QIF o dopo la modifica dei docum
 
 <sup>6</sup> È fatta salva la verifica di altre disposizioni del diritto in materia di mercati finanziari nel quadro della verifica prudenziale dell’istituto cui compete l’amministrazione del L-QIF secondo l’articolo 112 capoverso 1 OICol-FINMA[^126zocties-4] nella versione del 1° gennaio 2021[^126zocties-5].
 
-[^126zocties-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-2]: [RU 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
-[^126zocties-3]: [RS 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
-[^126zocties-4]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-3]: [RS 956.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11621)
+[^126zocties-4]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-5]: [RU 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
 
 ### Sezione 2: Rapporti di audit
@@ -3190,7 +3192,7 @@ La società di audit presenta:
 
 Ai rapporti di verifica dei conti si applicano per analogia le disposizioni del CO[^126zdecies-1] concernenti la revisione ordinaria.
 
-[^126zdecies-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zdecies-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>undecies</sup>
 
@@ -3204,7 +3206,7 @@ Ai rapporti di verifica dei conti si applicano per analogia le disposizioni del 
 
 <sup>4</sup> L’attestazione standard dell’organizzazione settoriale per la revisione contabile riconosciuta valida dalla FINMA vale anche per il L-QIF.
 
-[^126zundecies-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zundecies-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>duodecies</sup>
 
@@ -3236,7 +3238,7 @@ Ai rapporti di verifica dei conti si applicano per analogia le disposizioni del 
 
 La FINMA può prescrivere un complemento esplicativo, se la designazione di un investimento collettivo di capitale estero dà o può dare adito a inganno o confusione.
 
-[^127-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
+[^127-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
 
 #### Art. 127a
 
@@ -3246,7 +3248,7 @@ La FINMA può prescrivere un complemento esplicativo, se la designazione di un i
 
 La pubblicità di investimenti collettivi di capitale esteri comporta gli obblighi di cui all’articolo 120 capoversi 1 e 4 LICol.
 
-[^127a-1]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^127a-1]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 127b
 
@@ -3256,7 +3258,7 @@ La pubblicità di investimenti collettivi di capitale esteri comporta gli obblig
 
 Le quote o le classi di quote, strutturate secondo il diritto estero come ETF, di un investimento collettivo di capitale estero aperto offerti in Svizzera a investitori non qualificati devono essere costantemente quotate in una borsa svizzera.
 
-[^127b-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^127b-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 128
 
@@ -3283,7 +3285,7 @@ Per l’offerta in Svizzera di investimenti collettivi di capitale esteri il con
 
 <sup>4</sup> La FINMA pubblica un elenco dei Paesi con i quali ha concluso un accordo sulla collaborazione e lo scambio di informazioni secondo l’articolo 120 capoverso 2 lettera e LICol.
 
-[^128-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^128-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 128a
 
@@ -3295,8 +3297,8 @@ Per l’offerta in Svizzera di investimenti collettivi di capitale esteri il con
 
 <sup>2</sup> La FINMA disciplina i dettagli concernenti l’organizzazione e gli obblighi del rappresentante di investimenti collettivi di capitale esteri.[^128a-2]
 
-[^128a-1]: Introdotto dal n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^128a-2]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^128a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^128a-2]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 129
 
@@ -3316,8 +3318,8 @@ La FINMA può prevedere, nel singolo caso, una procedura d’approvazione sempli
 
 Gli investimenti collettivi di capitale esteri offerti a investitori qualificati secondo l’articolo 5 capoverso 1 della legge del 15 giugno 2018[^129a-2] sui servizi finanziari (LSerFi) nell’ambito di una relazione durevole di consulenza in investimenti ai sensi dell’articolo 3 lettera c numero 4 LSerFi non devono adempiere i requisiti di cui all’articolo 120 capoverso 2 lettera d LICol.
 
-[^129a-1]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129a-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^129a-1]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^129a-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 129b
 
@@ -3327,8 +3329,8 @@ Gli investimenti collettivi di capitale esteri offerti a investitori qualificati
 
 Sono considerati piani di partecipazione del personale i piani di partecipazione dei lavoratori secondo l’articolo 5 OIsFi[^129b-2].
 
-[^129b-1]: Introdotto dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129b-2]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^129b-1]: Introdotto dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^129b-2]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 130
 
@@ -3354,7 +3356,7 @@ L’approvazione di investimenti collettivi di capitale esteri ai sensi degli ar
 
 <sup>4</sup> Per il rimanente si applica per analogia l’articolo 20.
 
-[^131-1]: Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^131-1]: Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 131a
 
@@ -3364,7 +3366,7 @@ L’approvazione di investimenti collettivi di capitale esteri ai sensi degli ar
 
 Il rappresentante assicura che gli investitori possano ottenere presso di lui i documenti determinanti dell’investimento collettivo di capitale estero.
 
-[^131a-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^131a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 132
 
@@ -3401,13 +3403,13 @@ Nelle pubblicazioni e nella pubblicità devono essere indicati:
 
 <sup>5</sup> Le disposizioni in materia di pubblicazione e comunicazione non si applicano agli investimenti collettivi di capitale esteri offerti esclusivamente a investitori qualificati.[^133-7]
 
-[^133-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^133-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-2]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^133-3]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^133-4]: [RS 950.11](https://fedlex.data.admin.ch/eli/cc/2019/759)
+[^133-3]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^133-4]: [RS 950.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11501)
 [^133-5]: Introdotto dall’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^133-6]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^133-7]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
+[^133-6]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
+[^133-7]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ## Titolo 5: Verifica e vigilanza
 
@@ -3456,13 +3458,13 @@ Deve presentare il rapporto di audit secondo il capoverso 1 ai seguenti destinat
 <sup>5</sup> Può chiedere alla società di audit della banca depositaria le informazioni supplementari di cui necessita per l’esecuzione dei suoi compiti.
 
 [^135-1]: Nuovo testo giusta l’all. n. 3 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^135-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^135-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 136
 
 [^136-1]
 
-[^136-1]: Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^136-1]: Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 137
 
@@ -3525,7 +3527,7 @@ La FINMA può stabilire la forma per l’invio segnatamente:
 
 [^143-1]
 
-[^143-1]: Abrogato dal n. I dell’O del 29 giu. 2011, con effetto dal 15 lug. 2011 ([RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)).
+[^143-1]: Abrogato dalla cifra I dell’O del 29 giu. 2011, con effetto dal 15 lug. 2011 ([RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)).
 
 #### Art. 144
 
@@ -3548,22 +3550,22 @@ La FINMA può stabilire la forma per l’invio segnatamente:
 [^144-1]: Nuovo testo giusta l’all. 11 n. 1 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^144-2]: [RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
 [^144-3]: [RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
-[^144-4]: Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
-[^144-5]: Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-4]: Nuovo testo giusta la cifra II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-5]: Nuovo testo giusta la cifra II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
 [^144-6]: [RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
-[^144-7]: Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^144-7]: Nuovo testo giusta la cifra II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
 
 #### Art. 144a e 144b
 
 [^144a144b-1]
 
-[^144a144b-1]: Introdotti dal n. I dell’O del 29 giu. 2011 ([RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)). Abrogati dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^144a144b-1]: Introdotti dalla cifra I dell’O del 29 giu. 2011 ([RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)). Abrogati dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 144c
 
 [^144c-1]
 
-[^144c-1]: Introdotto dal n. I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 n. II 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^144c-1]: Introdotto dalla cifra I dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Abrogato dall’all. 1 cifra II n. 9 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 144d
 
@@ -3575,7 +3577,7 @@ La FINMA può stabilire la forma per l’invio segnatamente:
 
 <sup>3</sup> Per quanto riguarda gli investimenti collettivi di capitale esistenti i requisiti previsti dall’articolo 108*a* devono essere adempiuti entro due anni dall’entrata in vigore della modifica del 31 gennaio 2024.
 
-[^144d-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
+[^144d-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° mar. 2024 ([RU 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 145
 

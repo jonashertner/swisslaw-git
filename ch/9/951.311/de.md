@@ -4,11 +4,11 @@ title: "Verordnung vom 22. November 2006 über die kollektiven Kapitalanlagen (K
 short: KKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: de
-version: 2024-03-01
+version: 2025-11-25
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2006-859-20240301-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20251125/de/xml/fedlex-data-admin-ch-eli-cc-2006-859-20251125-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20251125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/de"
 
 (Kollektivanlagenverordnung, KKV)
 
-vom 22. November 2006 (Stand am 1. März 2024)
+vom 22. November 2006 (Stand am 25. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Kollektivanlagengesetz vom 23. Juni 2006[^ingress-1] (KAG),[^i
 
 beschliesst:
 
-[^ingress-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^ingress-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -129,9 +129,9 @@ Neu gegründete Investmentgesellschaften, deren Emissionsprospekt die Kotierung 
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^5-3]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^5-3]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^5-4]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-5]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-5]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^5-6]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^5-7]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
@@ -333,7 +333,7 @@ Für ausländische kollektive Kapitalanlagen müssen der FINMA folgende Dokument
 
 [^13a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^13a-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^13a-3]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^13a-3]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 14
 
@@ -387,7 +387,7 @@ Die Vertreter ausländischer kollektiver Kapitalanlagen, die nicht ausschliessli
 <sup>5</sup> Die Meldung ist der FINMA unverzüglich zu erstatten. Diese stellt die Gesetzeskonformität fest.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^15-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^15-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^15-3]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^15-4]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^15-5]: Fassung gemäss Anhang Ziff. 6 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
@@ -803,7 +803,7 @@ Der Fondsvertrag enthält insbesondere folgende Angaben:
 
 [^35a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^35a-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^35a-3]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^35a-3]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^35a-4]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 36
@@ -1021,7 +1021,7 @@ Den Anlegerinnen und Anlegern können belastet werden:
 Die SICAV darf ausschliesslich ihr Vermögen beziehungsweise ihre Teilvermögen verwalten. Namentlich ist es ihr verboten, Dienstleistungen im Sinne der Artikel 26 und 34 des Finanzinstitutsgesetzes vom 15. Juni 2018[^52-2] (FINIG) für Dritte zu erbringen.
 
 [^52-1]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^52-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^52-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 53
 
@@ -1077,11 +1077,11 @@ Von den eigenen Mitteln abzuziehen sind:
 <sup>7</sup> Die FINMA regelt die Einzelheiten.
 
 [^55-1]: Aufgehoben durch Ziff. I der V vom 31. Jan. 2024, mit Wirkung seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^55-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^55-2]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^55-3]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-4]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-5]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-6]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-5]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^55-6]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^55-7]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-8]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-9]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
@@ -1169,7 +1169,7 @@ Aktionärinnen und Aktionäre sind stimmberechtigt für:
 Für die Depotbank gelten Artikel 15 Absatz 2 dieser Verordnung und Artikel 53 FINIV[^62a-2] sinngemäss.
 
 [^62a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^62a-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^62a-2]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 62b
 
@@ -1217,7 +1217,7 @@ Die Generalversammlung der SICAV beziehungsweise der Teilvermögen ist zuständi
 <sup>5</sup> Die Bestimmung über die wichtigen Beschlüsse der Generalversammlung einer Aktiengesellschaft (Art. 704 des Obligationenrechts[^63-2], OR) findet keine Anwendung.[^63-3]
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
-[^63-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^63-3]: Eingefügt durch Anhang Ziff. 6 der Finanzmarktprüfverordnung vom 15. Okt. 2008 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 64
@@ -1244,10 +1244,10 @@ Der Verwaltungsrat hat folgende Aufgaben:
 <sup>4</sup> Für die Organisation der selbstverwalteten SICAV gelten die Artikel 51 Absatz 1, 52 Absatz 1 und 53 FINIV[^64-5] sinngemäss.[^64-6]
 
 [^64-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^64-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^64-3]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^64-4]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^64-5]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^64-5]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^64-6]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 65
@@ -1259,7 +1259,7 @@ Der Verwaltungsrat hat folgende Aufgaben:
 Die Artikel 32 und 35 FINIG[^65-2] sind sinngemäss auf die Übertragung von Aufgaben anwendbar.
 
 [^65-1]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^65-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^65-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 66
 
@@ -1529,7 +1529,9 @@ Zulasten eines Effektenfonds dürfen:
 
 <sup>3</sup> Die Effektenleihe und das Pensionsgeschäft als Reverse Repo gelten nicht als Kreditgewährung im Sinne von Absatz 1 Buchstabe a.
 
-<sup>4</sup> Das Pensionsgeschäft als Repo gilt als Kreditaufnahme im Sinne von Absatz 2, es sei denn, die erhaltenen Mittel werden im Rahmen eines Arbitrage-Geschäfts für die Übernahme von Effekten gleicher Art und Güte in Verbindung mit einem entgegengesetzten Pensionsgeschäft (Reverse Repo) verwendet.
+<sup>4</sup> Das Pensionsgeschäft als Repo gilt als Kreditaufnahme im Sinne von Absatz 2, es sei denn, die erhaltenen Mittel werden im Rahmen eines Arbitrage-Geschäfts für die Übernahme von Effekten gleicher Art und Güte in Verbindung mit einem entgegengesetzten Pensionsgeschäft (Reverse Repo) verwendet.[^77-1]
+
+[^77-1]: Die Berichtigung vom 25. Nov. 2025 betrifft nur den französischen Text ([AS 2025 756](https://fedlex.data.admin.ch/eli/oc/2025/756)).
 
 #### Art. 78
 
@@ -1740,7 +1742,7 @@ Es gelten folgende Anlagebeschränkungen bezogen auf das Fondsvermögen:
 
 <sup>4</sup> Miteigentumsanteile an Gemeinschaftsanlagen im Zusammenhang mit Grundstücken der kollektiven Kapitalanlage, die zu einer Gesamtüberbauung gehören, müssen keinen beherrschenden Einfluss ermöglichen. In diesen Fällen darf das Vorkaufsrecht nach Absatz 3 vertraglich aufgehoben werden.
 
-[^88-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^88-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 89
 
@@ -2000,7 +2002,7 @@ Die FINMA kann im Einzelfall Abweichungen zulassen von den Bestimmungen über:
 
 <sup>2</sup> Die Warnklausel muss auf der ersten Seite des Fondsreglements, des Prospekts sowie des Basisinformationsblatts nach den Artikeln 58–63 und 66 FIDLEG[^102-1] angebracht und stets in der Form verwendet werden, in der sie von der FINMA genehmigt wurde.[^102-2]
 
-[^102-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^102-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^102-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ### 4. Kapitel: Gemeinsame Bestimmungen
@@ -2114,7 +2116,7 @@ Enthält eine kollektive Kapitalanlage sowohl als ETF wie auch nicht als ETF aus
 - c. ist auf der ersten Seite des Fondsvertrags oder Anlagereglements, des Prospekts und des Basisinformationsblatts sowie in der Werbung der Hinweis anzubringen, dass die kollektive Kapitalanlage sowohl als ETF wie auch nicht als ETF ausgestaltete Anteilsklassen enthält.
 
 [^106-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. März 2024 ([AS 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^106-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^106-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### 2. Abschnitt: …
 
@@ -2156,9 +2158,9 @@ Enthält eine kollektive Kapitalanlage sowohl als ETF wie auch nicht als ETF aus
 
 <sup>4</sup> Die Ausgabe von Fraktionsanteilen ist nur bei Anlagefonds erlaubt.
 
-[^108-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^108-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^108-2]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^108-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^108-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^108-4]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 108a
@@ -2392,7 +2394,7 @@ Sie kann zu diesem Zweck:
 - b. zur Gewährleistung der Interessen der Kommanditäre Einsitz im Organ der Oberleitung, der Aufsicht und der Kontrolle ihrer Beteiligungen nehmen.
 
 [^117-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^117-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^117-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^117-3]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 118
@@ -2503,7 +2505,7 @@ Der Komplementär, die für die Verwaltung und Geschäftsführung verantwortlich
 
 <sup>2</sup> Sie darf die Anlageentscheide sowie Teilaufgaben delegieren, soweit dies im Interesse einer sachgerechten Verwaltung liegt.
 
-[^122-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^122-1]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^122-2]: Fassung gemäss Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 122a
@@ -2609,7 +2611,7 @@ Er untersteht sinngemäss folgenden von der Branchenorganisation erlassenen und 
 - e. Richtlinie zur Berechnung und Publikation der Performance von kollektiven Kapitalanlagen in der Fassung vom 5. August 2021;
 - f. Richtlinie zur Berechnung und Offenlegung der Total Expense Ratio (TER) von kollektiven Kapitalanlagen in der Fassung vom 5. August 2021.
 
-[^126b-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126b-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126b-2]: Die Verhaltensregeln und Richtlinien können bei der «Asset Management Association Switzerland» kostenlos abgerufen werden unter [www.am-switzerland.ch](https://www.am-switzerland.ch/de) &gt; Regulierung &gt; Selbstregulierung.
 
 #### Art. 126c
@@ -2886,7 +2888,7 @@ Ein L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV darf:
 
 <sup>4</sup> Die Artikel 1–55 KKV-FINMA[^126p-1] in der Fassung vom 1. Januar 2015[^126p-2] über Effektenleihe, Pensionsgeschäft, derivative Finanzinstrumente und Verwaltung der Sicherheiten gelten mit Ausnahme der Pflichten zur Information der FINMA und zur Genehmigung durch die FINMA sinngemäss.
 
-[^126p-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126p-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126p-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 #### Art. 126q
@@ -2929,7 +2931,7 @@ Die Anlegerinnen und Anleger eines L-QIF-Master-Fonds sind seine L-QIF-Feeder-Fo
 
 <sup>4</sup> Die Artikel 56–64 KKV-FINMA[^126s-1] in der Fassung vom 1. Januar 2015[^126s-2] über Master-Feeder-Strukturen gelten mit Ausnahme der Pflichten zur Information der FINMA und zur Genehmigung durch die FINMA sinngemäss.
 
-[^126s-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126s-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126s-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 ### 2. Abschnitt: Zusätzliche Vorschriften für L-QIF in der Rechtsform des vertraglichen Anlagefonds oder der SICAV mit Immobilienanlagen
@@ -2969,7 +2971,7 @@ Handelt es sich um Miteigentumsanteile, die einer Minderheitsbeteiligung entspre
 
 <sup>3</sup> Der Fondsvertrag oder das Anlagereglement muss gegebenenfalls auf die besonderen Risiken hinweisen, die mit einer der in Absatz 1 erwähnten Massnahmen verbundenen sind.
 
-[^126u-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^126u-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 126v
 
@@ -3085,7 +3087,7 @@ Die Anforderungen an die Schätzungsexperten, die Bewertung von Grundstücken be
 
 <sup>2</sup> Soweit die Bewertung nicht durch die KKV-FINMA oder die anerkannten Selbstregulierungen der Branchenorganisation geregelt wird, ist sie nach anerkannten internationalen Standards vorzunehmen. Die angewendeten Standards sind im Fondsvertrag, im Anlagereglement oder im Gesellschaftsvertrag ausführlich zu umschreiben.
 
-[^126zquater-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zquater-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zquater-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
 
 #### Art. 126z<sup>quinquies</sup>
@@ -3118,7 +3120,7 @@ Die Prüfungen des L-QIF sind aufzuteilen in eine Rechnungsprüfung und eine erg
 
 <sup>3</sup> Die Rechnungsprüfung muss jährlich durchgeführt werden.
 
-[^126zsepties-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zsepties-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>octies</sup>
 
@@ -3154,10 +3156,10 @@ Im ersten Prüfungsjahr nach Lancierung des L-QIF oder nach Änderung der Fondsd
 
 <sup>6</sup> Vorbehalten bleibt die Prüfung anderer finanzmarktrechtlicher Bestimmungen im Rahmen der Aufsichtsprüfung des für die Verwaltung zuständigen Instituts nach Artikel 112 Absatz 1 KKV-FINMA[^126zocties-4] in der Fassung vom 1. Januar 2021[^126zocties-5].
 
-[^126zocties-1]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-1]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-2]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
-[^126zocties-3]: [SR 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
-[^126zocties-4]: [SR 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-3]: [SR 956.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11621)
+[^126zocties-4]: [SR 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-5]: [AS 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
 
 ### 2. Abschnitt: Prüfberichte
@@ -3189,7 +3191,7 @@ Die Prüfgesellschaft erstattet:
 
 Für die Berichte zur Rechnungsprüfung gelten die Bestimmungen des OR[^126zdecies-1] über die ordentliche Revision sinngemäss.
 
-[^126zdecies-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zdecies-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>undecies</sup>
 
@@ -3203,7 +3205,7 @@ Für die Berichte zur Rechnungsprüfung gelten die Bestimmungen des OR[^126zdeci
 
 <sup>4</sup> Die von der FINMA für allgemeinverbindlich erklärte Standard-Bestätigung der Branchenorganisation für Wirtschaftsprüfung gilt auch für den L‑QIF.
 
-[^126zundecies-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zundecies-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>duodecies</sup>
 
@@ -3316,7 +3318,7 @@ Die FINMA kann im Einzelfall für ausländische kollektive Anlagen ein vereinfac
 Ausländische kollektive Kapitalanlagen, die qualifizierten Anlegerinnen und Anlegern nach Artikel 5 Absatz 1 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^129a-2] (FIDLEG) im Rahmen eines auf Dauer angelegten Anlageberatungsverhältnisses im Sinne von Artikel 3 Buchstabe c Ziffer 4 FIDLEG angeboten werden, müssen die Voraussetzungen von Artikel 120 Absatz 2 Buchstabe d KAG nicht erfüllen.
 
 [^129a-1]: Eingefügt durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^129a-2]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 129b
 
@@ -3327,7 +3329,7 @@ Ausländische kollektive Kapitalanlagen, die qualifizierten Anlegerinnen und Anl
 Als Mitarbeiterbeteiligungspläne gelten Arbeitnehmerbeteiligungspläne gemäss Artikel 5 FINIV[^129b-2].
 
 [^129b-1]: Eingefügt durch Anhang 1 Ziff. II 9 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129b-2]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^129b-2]: [SR 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 130
 
@@ -3403,7 +3405,7 @@ In den Publikationen und in der Werbung sind anzugeben:
 [^133-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-2]: Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^133-3]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^133-4]: [SR 950.11](https://fedlex.data.admin.ch/eli/cc/2019/759)
+[^133-4]: [SR 950.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11501)
 [^133-5]: Eingefügt durch Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^133-6]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-7]: Eingefügt durch Ziff. I der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Fassung gemäss Anhang 11 Ziff. 1 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
@@ -3455,7 +3457,7 @@ Sie stellt den Prüfbericht nach Absatz 1 folgenden Adressatinnen zu:
 <sup>5</sup> Sie kann bei der Prüfgesellschaft der Depotbank zusätzliche Angaben anfordern, die sie zur Wahrnehmung ihrer Aufgaben benötigt.
 
 [^135-1]: Fassung gemäss Anhang Ziff. 3 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^135-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^135-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 136
 

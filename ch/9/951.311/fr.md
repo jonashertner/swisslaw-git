@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2006 sur les placements collectifs de capitaux
 short: OPCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/859"
 language: fr
-version: 2024-03-01
+version: 2025-11-25
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2006-859-20240301-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/859/20251125/fr/xml/fedlex-data-admin-ch-eli-cc-2006-859-20251125-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20251125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/859/20240301/fr"
 
 (Ordonnance sur les placements collectifs, OPCC)
 
-du 22 novembre 2006 (État le 1<sup>er</sup> mars 2024)
+du 22 novembre 2006 (État le 25 novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^ingress-1],[^ing
 
 arrête:
 
-[^ingress-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^ingress-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 ## Titre 1 Dispositions générales
@@ -130,9 +130,9 @@ Les sociétés d’investissement nouvellement créées, dont le prospectus d’
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^5-3]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^5-3]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^5-4]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^5-5]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^5-5]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^5-6]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^5-7]: Introduit par le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
@@ -335,7 +335,7 @@ Pour les placements collectifs étrangers, les documents suivants doivent être 
 
 [^13a-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^13a-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^13a-3]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^13a-3]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 14
 
@@ -389,7 +389,7 @@ Les représentants de placements collectifs étrangers qui ne sont pas offerts e
 <sup>5</sup> L’annonce doit être effectuée sans délai à la FINMA. Celle-ci constate la conformité à la loi.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^15-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^15-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^15-3]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^15-4]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^15-5]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
@@ -806,7 +806,7 @@ Le contrat de fonds de placement contient en particulier les informations suivan
 
 [^35a-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^35a-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^35a-3]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^35a-3]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^35a-4]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 #### Art. 36
@@ -1024,7 +1024,7 @@ Peuvent être mis à la charge des investisseurs:
 La SICAV gère uniquement sa fortune ou son compartiment. Il lui est en particulier interdit de fournir à des tiers des prestations au sens des art. 26 et 34 de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^52-2].
 
 [^52-1]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^52-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^52-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 53
 
@@ -1081,11 +1081,11 @@ Doivent être déduits des fonds propres:
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 [^55-2]: Abrogée par le ch. I de l’O du 31 janv. 2024, avec effet au 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^55-3]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^55-3]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^55-4]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-5]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^55-6]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^55-7]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^55-6]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^55-7]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^55-8]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-9]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^55-10]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
@@ -1173,7 +1173,7 @@ Les actionnaires ont le droit de vote:
 Les art. 15, al. 2, de la présente ordonnance et 53 OEFin[^62a-2] s’appliquent par analogie à la banque dépositaire.
 
 [^62a-1]: Introduit par le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^62a-2]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^62a-2]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 62b
 
@@ -1221,7 +1221,7 @@ L’assemblée générale de la SICAV ou du compartiment est compétente pour mo
 <sup>5</sup> La disposition concernant les décisions importantes de l’assemblée générale d’une société anonyme (art. 704 du code des obligations [CO][^63-2]) ne s’applique pas.[^63-3]
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2008, en vigueur depuis le 1<sup>er</sup> mars 2008 ([RO 2008 571](https://fedlex.data.admin.ch/eli/oc/2008/128)).
-[^63-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^63-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^63-3]: Introduit par l’annexe ch. 6 de l’O du 15 oct. 2008 sur les audits des marchés financiers ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
 
 #### Art. 64
@@ -1248,10 +1248,10 @@ Le conseil d’administration a les attributions suivantes:
 <sup>4</sup> Les art. 51, al. 1, 52, al. 1, et 53 OEFin[^64-5] s’appliquent par analogie à l’organisation des SICAV autogérées.[^64-6]
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^64-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^64-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^64-3]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^64-4]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
-[^64-5]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^64-5]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 [^64-6]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 65
@@ -1263,7 +1263,7 @@ Le conseil d’administration a les attributions suivantes:
 Les art. 32 et 35 LEFin[^65-2] s’appliquent par analogie à la délégation de tâches.
 
 [^65-1]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^65-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^65-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 66
 
@@ -1533,7 +1533,9 @@ Les fonds en valeurs mobilières ne peuvent être grevés:
 
 <sup>3</sup> Le prêt de valeurs mobilières et les opérations de mise ou de prise en pension en tant que Reverse Repo ne sont pas considérés comme un octroi de crédits au sens de l’al. 1, let. a.
 
-<sup>4</sup> Les opérations de mise ou de prise en pension en tant que Repo sont considérées comme un octroi de crédits au sens de l’al. 2, à moins que les avoirs obtenus dans le cadre d’une opération d’arbitrage ne soient utilisés pour la reprise de valeurs mobilières de même genre et de même qualité en rapport avec une opération de mise ou de prise en pension (Reverse Repo).
+<sup>4</sup> Les opérations de mise en pension en tant que Repo sont considérées comme un recours à un crédit au sens de l’al. 2, à moins que les avoirs obtenus dans le cadre d’une opération d’arbitrage ne soient utilisés pour la reprise de valeurs mobilières de même genre et de même qualité en rapport avec une opération de mise ou de prise en pension (Reverse Repo).[^77-1]
+
+[^77-1]: Erratum du 25 nov. 2025 ([RO 2025 756](https://fedlex.data.admin.ch/eli/oc/2025/756)).
 
 #### Art. 78
 
@@ -1744,7 +1746,7 @@ Les restrictions suivantes, exprimées en pour-cent de la fortune du fonds, s’
 
 <sup>4</sup> Les parts de copropriété d’installations communautaires propres à des immeubles du placement collectif qui font partie d’un complexe immobilier n’obligent pas à acquérir une influence prépondérante. Dans de tels cas, le droit de préemption visé à l’al. 3 peut être supprimé par contrat.
 
-[^88-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^88-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 89
 
@@ -2003,7 +2005,7 @@ Dans certains cas, la FINMA peut autoriser des dérogations aux dispositions sur
 
 <sup>2</sup> La clause de mise en garde est publiée sur la première page du règlement, du prospectus et de la feuille d’information de base visée aux art. 58 à 63 et 66 LSFin[^102-1], sous la forme approuvée par la FINMA.[^102-2]
 
-[^102-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^102-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 [^102-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 
 ### Chapitre 4 Dispositions communes
@@ -2117,7 +2119,7 @@ Lorsqu’un placement collectif contient à la fois des classes de parts de type
 - c. il doit être précisé à la première page du contrat du fonds de placement ou du règlement de placement, du prospectus et de la feuille d’information de base, ainsi que dans la publicité, que le placement collectif contient à la fois des classes de parts de type ETF et des classes de parts n’étant pas de type ETF.
 
 [^106-1]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 73](https://fedlex.data.admin.ch/eli/oc/2024/73)).
-[^106-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^106-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### Section 2 …
 
@@ -2159,9 +2161,9 @@ Lorsqu’un placement collectif contient à la fois des classes de parts de type
 
 <sup>4</sup> L’émission de fractions de parts n’est autorisée que dans les fonds de placement.
 
-[^108-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^108-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^108-2]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^108-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^108-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^108-4]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 
 #### Art. 108a
@@ -2395,7 +2397,7 @@ Dans ce but, elle peut:
 - b. siéger au sein de l’organe de direction suprême, de surveillance et de contrôle de ses participations afin de garantir les intérêts des commanditaires.
 
 [^117-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^117-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^117-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^117-3]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 118
@@ -2506,7 +2508,7 @@ Les associés indéfiniment responsables, les personnes responsables de l’admi
 
 <sup>2</sup> Elle est autorisée à déléguer les décisions de placement ainsi que des tâches, pour autant que ce soit dans l’intérêt d’une gestion appropriée.
 
-[^122-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^122-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 [^122-2]: Nouvelle teneur selon l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 122a
@@ -2612,7 +2614,7 @@ Il est régi par analogie par les normes d’autorégulation suivantes, édicté
 - e. Directive pour le calcul et la publication de performance de placements collectifs de capitaux, dans la version du 5 août 2021;
 - f. Directive pour le calcul et la publication du *Total Expense Ratio* (TER) des placements collectifs de capitaux, dans la version du 5 août 2021.
 
-[^126b-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126b-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126b-2]: Les règles de conduite et les directives peuvent être téléchargées gratuitement sur le site Internet de l’Asset Management Association Switzerland: [www.am-switzerland.ch](https://www.am-switzerland.ch/fr) &gt; Régulation &gt; Autorégulation.
 
 #### Art. 126c
@@ -2889,7 +2891,7 @@ Un L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SIC
 
 <sup>4</sup> Les art. 1 à 55 OPC-FINMA[^126p-1], dans la version du 1<sup>er</sup> janvier 2015[^126p-2], concernant le prêt de valeurs mobilières, les opérations de prise ou de mise en pension, les instruments financiers dérivés et la gestion des sûretés sont applicables par analogie, à l’exception des obligations d’informer la FINMA et d’obtenir l’approbation de cette dernière.
 
-[^126p-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126p-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126p-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 #### Art. 126q
@@ -2932,7 +2934,7 @@ Les investisseurs d’un fonds L-QIF maître sont ses fonds L-QIF nourriciers. D
 
 <sup>4</sup> Les art. 56 à 64 OPC-FINMA[^126s-1], dans la version du 1<sup>er</sup> janvier 2015[^126s-2], sur les structures maître-nourricier sont applicables par analogie, à l’exception des obligations d’informer la FINMA et d’obtenir l’approbation de cette dernière.
 
-[^126s-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126s-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126s-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
 
 ### Section 2 Prescriptions supplémentaires pour les L-QIF revêtant la forme d’un fonds de placement contractuel ou d’une SICAV avec placements immobiliers
@@ -2972,7 +2974,7 @@ S’il s’agit de parts de copropriété représentant une participation minori
 
 <sup>3</sup> Le contrat de fonds de placement ou le règlement de placement doit mentionner, le cas échéant, les risques particuliers inhérents aux mesures énoncées à l’al. 1.
 
-[^126u-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^126u-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 126v
 
@@ -3088,7 +3090,7 @@ Les exigences auxquelles sont soumis les experts chargés de l’estimation, l�
 
 <sup>2</sup> Dans la mesure où l’évaluation n’est pas réglementée par l’OPC-FINMA ni par les normes reconnues d’autorégulation de l’organisation professionnelle de la branche, elle doit être effectuée conformément à des normes internationales reconnues. Les normes appliquées doivent être décrites de manière détaillée dans le contrat de fonds de placement, le règlement de placement ou le contrat de société.
 
-[^126zquater-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zquater-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zquater-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707); [2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)
 
 #### Art. 126z<sup>quinquies</sup>
@@ -3121,7 +3123,7 @@ Les audits d’un L-QIF doivent être subdivisés en une révision des comptes e
 
 <sup>3</sup> Les comptes sont révisés chaque année.
 
-[^126zsepties-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zsepties-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>octies</sup>
 
@@ -3157,10 +3159,10 @@ Lors de la première année d’audit suivant le lancement du L-QIF ou la modifi
 
 <sup>6</sup> Le contrôle du respect d’autres dispositions du droit des marchés financiers dans le cadre de l’audit prudentiel de l’établissement chargé de l’administration visé à l’art. 112, al. 1, OPC‑FINMA[^126zocties-4], dans la version du 1<sup>er</sup> janvier 2021[^126zocties-5], est réservé.
 
-[^126zocties-1]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-1]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-2]: [RO 2014 4237](https://fedlex.data.admin.ch/eli/oc/2014/707)
-[^126zocties-3]: [RS 956.161](https://fedlex.data.admin.ch/eli/cc/2014/708)
-[^126zocties-4]: [RS 951.312](https://fedlex.data.admin.ch/eli/cc/2014/707)
+[^126zocties-3]: [RS 956.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11621)
+[^126zocties-4]: [RS 951.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11536)
 [^126zocties-5]: RS **2014** 4237; **2020** 5327
 
 ### Section 2 Rapports d’audit
@@ -3192,7 +3194,7 @@ La société d’audit établit:
 
 Les dispositions du CO[^126zdecies-1] sur le contrôle ordinaire s’appliquent par analogie aux rapports sur la révision des comptes.
 
-[^126zdecies-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zdecies-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>undecies</sup>
 
@@ -3206,7 +3208,7 @@ Les dispositions du CO[^126zdecies-1] sur le contrôle ordinaire s’appliquent 
 
 <sup>4</sup> Si la FINMA en reconnaît la validité, l’attestation standard de l’association professionnelle des organes de révision est également valable pour le L‑QIF.
 
-[^126zundecies-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126zundecies-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 126z<sup>duodecies</sup>
 
@@ -3319,7 +3321,7 @@ La FINMA peut prévoir, dans certains cas, une procédure d’approbation simpli
 Les placements collectifs étrangers offerts à des investisseurs qualifiés au sens de l’art. 5, al. 1, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^129a-2] dans le cadre d’une relation de conseil en placement axée sur le long terme au sens de l’art. 3, let. c, ch. 4, LSFin ne doivent pas remplir les conditions fixées à l’art. 120, al. 2, let. d, LPCC.
 
 [^129a-1]: Introduit par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129a-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^129a-2]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 129b
 
@@ -3330,7 +3332,7 @@ Les placements collectifs étrangers offerts à des investisseurs qualifiés au 
 Par plans de participation des collaborateurs, on entend les plans de participation des collaborateurs au sens de l’art. 5 OEFin[^129b-2].
 
 [^129b-1]: Introduit par l’annexe 1 ch. II 9 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^129b-2]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^129b-2]: [RS 954.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11590)
 
 #### Art. 130
 
@@ -3406,7 +3408,7 @@ Les publications et la publicité doivent contenir des indications sur:
 [^133-1]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-2]: Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^133-3]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
-[^133-4]: [RS 950.11](https://fedlex.data.admin.ch/eli/cc/2019/759)
+[^133-4]: [RS 950.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11501)
 [^133-5]: Introduit par l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^133-6]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)).
 [^133-7]: Introduit par le ch. I de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)). Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
@@ -3458,7 +3460,7 @@ Elle soumet le rapport d’audit établi en vertu de l’al. 1 aux destinataires
 <sup>5</sup> Elle peut demander à la société d’audit de la banque dépositaire les informations supplémentaires dont elle a besoin pour l’exécution de ses tâches.
 
 [^135-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^135-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^135-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 136
 
