@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 6 novembre 2025 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: it
-version: 2025-11-13
+version: 2025-11-25
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251113/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251113-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251113/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251125/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251125-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 6 novembre 2025 (Stato 13 novembre 2025)
+del 6 novembre 2025 (Stato 25 novembre 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -179,44 +179,69 @@ Su ordine dell’USAV, il veterinario cantonale provvede affinché nelle zone di
 
 <sup>2</sup> Ha effetto sino al 31 marzo 2026.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 3)
 
 ## Zone di protezione, di sorveglianza e intermedie
 
-Il presente allegato non contiene ancora voci.
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 24 nov. 2025, in vigore il 25 nov. 2025 alle ore 12.00 ([RU 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
 
-Allegato 2[^t-1]
+Nei seguenti Cantoni sono stabilite le zone di protezione, di sorveglianza e intermedie elencate di seguito:
+
+### 1. Cantone di San Gallo
+
+Zone di protezione
+
+- – Stadtweier Wil (stagno comunale di Wil)
+
+Zone di sorveglianza
+
+- – Comune di Wil
+
+Zone intermedie
+
+I seguenti Comuni:
+
+- – Jonschwil
+- – Kirchberg
+- – Lütisburg
+- – Niederhelfenschwil
+- – Oberbüren
+- – Oberuzwil
+- – Uzwil
+- – Zuzwil
+
+### 2. Cantone di Turgovia
+
+Zone intermedie
+
+I seguenti Comuni:
+
+- – Affeltrangen
+- – Bettwiesen
+- – Bichelsee-Balterswil
+- – Braunau
+- – Bussnang
+- – Eschlikon
+- – Fischingen
+- – Lommis
+- – Münchwilen
+- – Rickenbach bei Wil
+- – Schönholzerswilen
+- – Sirnach
+- – Stettfurt
+- – Tobel-Tägerschen
+- – Wängi
+- – Wilen bei Wil
+- – Wuppenau
+
+Allegato 2[^t-2]
 
 (art. 6)
 
 ## Zone di osservazione
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 13 nov. 2025, in vigore il 13 nov. 2025 alle ore 18.00 ([RU 2025 708](https://fedlex.data.admin.ch/eli/oc/2025/708)).
+[^t-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 24 nov. 2025, in vigore il 25 nov. 2025 alle ore 12.00 ([RU 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
 
-Sono considerate zone di osservazione le coste di tre km di larghezza che delimitano le acque elencate di seguito:
-
-- – Aare, dall’uscita dal Lago di Bienne a Klingnau, inclusa la riserva naturale di Häftli;
-- – Allondon, incluso il Rodano, dall’uscita dal Lago di Ginevra;
-- – Lago artificiale di Klingnau;
-- – Lago artificiale di Niederried;
-- – Lago di Baldegg;
-- – Lago dei Quattro Cantoni;
-- – Lago di Bienne, incluso lo Zihlkanal;
-- – Lago di Ginevra;
-- – Lago di Greifen;
-- – Lago di Hallwil;
-- – Lago di Morat;
-- – Lago di Neuchâtel, incluso il Canale della Broye;
-- – Lago di Pfäffikon;
-- – Lago di Sempach;
-- – Lago di Wohlen;
-- – Lago di Zugo;
-- – Lago di Zurigo;
-- – Lago inferiore di Costanza;
-- – Lago superiore di Costanza;
-- – Limmat;
-- – Reuss, dall’uscita dal Lago dei Quattro Cantoni;
-- – Reno, dall’uscita dal Lago di Costanza a Basilea, inclusa l’enclave tedesca di Büsingen nel Cantone di Sciaffusa;
-- – Vecchio Reno, dal Comune di St. Margrethen all’estuario del Lago di Costanza.
+È considerata zona di osservazione l’intera Svizzera, compresa l’enclave tedesca di Büsingen nel Cantone di Sciaffusa.
