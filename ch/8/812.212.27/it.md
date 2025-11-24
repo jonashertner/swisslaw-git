@@ -4,11 +4,11 @@ title: "Ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario (Ordina
 short: OMvet
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: it
-version: 2023-09-01
+version: 2025-11-25
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20251125/it/xml/fedlex-data-admin-ch-eli-cc-2004-592-20251125-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20251125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/it"
 
 (Ordinanza sui medicamenti veterinari, OMVet)
 
-del 18 agosto 2004 (Stato 1° settembre 2023)
+del 18 agosto 2004 (Stato 25 novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 5 capoverso 2 lettera b, 20 capoverso 2 lettera b, 42 capover
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -41,7 +41,7 @@ La presente ordinanza si prefigge di:
 - b. proteggere i consumatori dalla presenza di residui indesiderati di medicamenti veterinari nelle derrate alimentari di origine animale;
 - c. garantire un adeguato approvvigionamento con medicamenti veterinari di alta qualità, sicuri ed efficaci allo scopo di proteggere la salute degli animali.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 2
 
@@ -90,12 +90,12 @@ Ai sensi della presente ordinanza, si intende per:
 
 <sup>2</sup> Sono inoltre applicabili le definizioni di cui all’articolo 2 dell’ordinanza del 14 novembre 2018[^3-6] sull’autorizzazione dei medicamenti.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^3-3]: Introdotta dal n. I dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Abrogata dall’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, con effetto dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^3-4]: Introdotta dal n. I dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^3-5]: Introdotta dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^3-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)**)** con effetto dal 1° gen. 2019.
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^3-3]: Introdotta dalla cifra I dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Abrogata dall’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, con effetto dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^3-4]: Introdotta dalla cifra I dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^3-5]: Introdotta dalla cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^3-6]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)**)** con effetto dal 1° gen. 2019.
 
 ## Capitolo 2: Prescrizione, dispensazione e utilizzazione di medicamenti veterinari
 
@@ -111,7 +111,7 @@ Chi dispensa medicamenti veterinari per i quali vige l’obbligo di tenere un re
 - b. data della dispensazione;
 - c. nome del detentore di animali.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 5
 
@@ -132,7 +132,7 @@ Chi dispensa medicamenti veterinari per i quali vige l’obbligo di tenere un re
 
 <sup>3</sup> Per trattamenti di lunga durata, l’istruzione per l’uso dev’essere sempre consegnata per scritto.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 6
 
@@ -163,11 +163,11 @@ Se un simile medicamento veterinario non è disponibile, il veterinario può pre
 
 <sup>6</sup> Per motivi di sicurezza del medicamento o della derrata alimentare, il Dipartimento federale dell’interno (DFI) può escludere un medicamento omologato con procedura semplificata o singole sostanze attive dal cambiamento di destinazione.[^6-5]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^6-2]: Nuova espr. giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-3]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^6-4]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^6-5]: Introdotto dal n. I dell’O del 24 mar. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)). Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^6-2]: Nuova espr. giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
+[^6-4]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^6-5]: Introdotto dalla cifra I dell’O del 24 mar. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 7
 
@@ -212,7 +212,7 @@ L’autorizzazione è rilasciata se:
 - c. vi è una particolare necessità medica; e
 - d. non vi sono dubbi sostanziali in merito alla sicurezza per gli esseri umani, gli animali e l’ambiente nonché, nel caso dei medicamenti per animali da reddito, in merito alla sicurezza alimentare.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 7a
 
@@ -232,7 +232,7 @@ L’autorizzazione è rilasciata se:
 
 <sup>3</sup> È vietata l’importazione di medicamenti pronti all’uso per animali da reddito e animali da compagnia con omologazione in un Paese senza un sistema di controllo equivalente dei medicamenti per animali da reddito o da compagnia e contenenti le sostanze attive di cui all’allegato 5.
 
-[^7a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 7b
 
@@ -256,8 +256,8 @@ I veterinari che dispongono di un’autorizzazione alla dispensazione di medicam
 - b. non si tratta di medicamenti di cui all’articolo 7 capoverso 4; e
 - c. sono soddisfatti i requisiti di cui al capoverso 2.[^7b-2]
 
-[^7b-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^7b-2]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
+[^7b-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7b-2]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 7c
 
@@ -269,9 +269,9 @@ I veterinari che dispongono di un’autorizzazione alla dispensazione di medicam
 
 <sup>3</sup> I medicamenti omologati nel Paese di provenienza possono essere dispensati per la scorta solo se importati con una notifica o un’autorizzazione secondo gli articoli 7‒7*b*.
 
-[^7c-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^7c-2]: [RS 0.811.119.136](https://fedlex.data.admin.ch/eli/cc/7/446_402_446), [0.811.119.163](https://fedlex.data.admin.ch/eli/cc/9/220_178_220), [0.811.119.349](https://fedlex.data.admin.ch/eli/cc/11/180_167_180), [0.811.119.454.1](https://fedlex.data.admin.ch/eli/cc/10/724_649_724), [0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^7c-3]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^7c-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7c-2]: [RS 0.811.119.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3418), [0.811.119.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3419), [0.811.119.349](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3420), [0.811.119.454.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3422), [0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^7c-3]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 7d
 
@@ -279,7 +279,7 @@ I veterinari che dispongono di un’autorizzazione alla dispensazione di medicam
 
 L’importazione di medicamenti non omologati che contengono organismi geneticamente modificati è vietata.
 
-[^7d-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7d-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 7e
 
@@ -295,9 +295,9 @@ L’importazione di medicamenti non omologati che contengono organismi geneticam
 
 <sup>5</sup> Se l’UDSC al confine oppure i Cantoni nell’ambito dei controlli in Svizzera rilevano medicamenti importati senza notifica o senza autorizzazione dell’USAV, ne informano Swissmedic.
 
-[^7e-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^7e-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^7e-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^7e-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^7e-2]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^7e-3]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 
 #### Art. 8
 
@@ -315,14 +315,14 @@ L’importazione di medicamenti non omologati che contengono organismi geneticam
 
 <sup>6</sup> In caso di modifica del regolamento di esecuzione (UE) 2022/1255, il DFI può adeguare il rimando.[^8-8]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^8-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^8-3]: Nuovo testo giusta l’all. 6 n. II 5 dell’O del 23 apr. 2008 sulla protezione degli animali, in vigore dal 1° set. 2008 ([RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
-[^8-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^8-5]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+[^8-3]: Nuovo testo giusta l’all. 6 cifra II n. 5 dell’O del 23 apr. 2008 sulla protezione degli animali, in vigore dal 1° set. 2008 ([RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
+[^8-4]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8-5]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-6]: Regolamento di esecuzione (UE) 2022/1255 della Commissione del 19 luglio 2022 che designa gli antimicrobici o i gruppi di antimicrobici riservati al trattamento di determinate infezioni nell’uomo, conformemente al regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio, versione pubblicata nella GU L 191 del 20.7.2022, pag. 58.
-[^8-7]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
-[^8-8]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
+[^8-7]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
+[^8-8]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 1° apr. 2023 ([RU 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
 
 #### Art. 8a
 
@@ -355,7 +355,7 @@ Per i medicamenti per i quali vige l’obbligo di tenere un registro devono esse
 
 <sup>4</sup> Per i medicamenti con istruzioni per l’uso scritte è possibile rinunciare ad apporre sull’etichetta le indicazioni in esse contenute.
 
-[^8a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 9
 
@@ -370,8 +370,8 @@ Per i medicamenti per i quali vige l’obbligo di tenere un registro devono esse
 <sup>4</sup> Swissmedic stabilisce i medicamenti che possono essere dispensati. ...[^9-3]
 
 [^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
-[^9-2]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^9-3]: Abrogato dall’all. 8 n. II 4 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, con effetto dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
+[^9-2]: Nuovo testo giusta l’all. 2 cigra II n. 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^9-3]: Abrogato dall’all. 8 cifra II n. 4 dell’O del 14 nov. 2018 sull’autorizzazione dei medicamenti, con effetto dal 1° gen. 2019 ([RU 2018 5029](https://fedlex.data.admin.ch/eli/oc/2018/786)).
 
 ### Sezione 2: Prescrizione e dispensazione di medicamenti veterinari per animali da reddito
 
@@ -387,8 +387,8 @@ Per i medicamenti per i quali vige l’obbligo di tenere un registro devono esse
 
 <sup>4</sup> I criteri di valutazione, la frequenza delle visite e il contenuto della convenzione Mvet sono disciplinati nell’allegato 1.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^10-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 10a
 
@@ -398,7 +398,7 @@ Per i medicamenti per i quali vige l’obbligo di tenere un registro devono esse
 
 <sup>2</sup> Presso uno studio veterinario che stipula una convenzione Mvet deve essere impiegato almeno un veterinario responsabile tecnico.
 
-[^10a-1]: Introdotto dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^10a-1]: Introdotto dalla cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 10b
 
@@ -412,7 +412,7 @@ Per i medicamenti per i quali vige l’obbligo di tenere un registro devono esse
 
 <sup>4</sup> È fatto salvo l’articolo 11 capoverso 3.
 
-[^10b-1]: Introdotto dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^10b-1]: Introdotto dalla cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 10c
 
@@ -423,28 +423,29 @@ Per i medicamenti per i quali vige l’obbligo di tenere un registro devono esse
 - a. le sostanze e i preparati di cui all’allegato 4;
 - b. le sostanze farmacologicamente attive vietate dal DFI sulla base dell’articolo 10 capoverso 4 lettera e dell’ordinanza del 16 dicembre 2016[^10c-2] sulle derrate alimentari e gli oggetti d’uso (ODerr).
 
-[^10c-1]: Originario art. 10*a*. Introdotto dall’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^10c-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^10c-1]: Originario art. 10*a*. Introdotto dall’all. 2 cifra II n. 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^10c-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 11
 
 **Quantità di medicamenti veterinari prescritti o dispensati**
 
-<sup>1</sup> In occasione di una visita dell’effettivo può essere prescritta o dispensata solo la quantità di medicamenti veterinari necessaria per il trattamento e il seguito del trattamento degli animali interessati dall’indicazione data.
+<sup>1</sup> In occasione di una visita dell’effettivo può essere prescritta o dispensata solo la quantità di medicamenti veterinari necessaria per il trattamento e il seguito del trattamento degli animali interessati dall’indicazione data.[^11-1]
 
 <sup>2</sup>
 
 Se esiste una convenzione Mvet, il veterinario può prescrivere o dispensare per una determinata indicazione medicamenti veterinari in funzione delle dimensioni dell’effettivo, anche per la scorta:
 
-- a.[^11-1] a scopo di profilassi: il fabbisogno per quattro mesi al massimo; fanno eccezione i medicamenti con sostanze attive antimicrobiche;
-- b.[^11-2] per il trattamento di animali: il fabbisogno per tre mesi al massimo; fanno eccezione i medicamenti con sostanze attive antimicrobiche di cui all’allegato 5;
+- a.[^11-2] a scopo di profilassi: il fabbisogno per quattro mesi al massimo; fanno eccezione i medicamenti con sostanze attive antimicrobiche;
+- b.[^11-3] per il trattamento di animali: il fabbisogno per tre mesi al massimo; fanno eccezione i medicamenti con sostanze attive antimicrobiche di cui all’allegato 5;
 - c. a scopo di anestesia in caso di decornazione nelle prime settimane o in caso di castrazione precoce: il fabbisogno per tre mesi al massimo;
 - d. per trattamenti antiparassitari: il fabbisogno per 12 mesi al massimo.
 
 <sup>3</sup> Chi sostituisce la persona o rappresenta lo studio che ha concluso la convenzione Mvet può prescrivere o dispensare medicamenti veterinari solo per l’indicazione data, il trattamento scelto e il seguito del trattamento nonché il numero degli animali da trattare.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^11-1]: La correzione del 25 nov. 2025 concerne soltanto il testo francese ([RU 2025 754](https://fedlex.data.admin.ch/eli/oc/2025/754)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 12
 
@@ -468,12 +469,12 @@ Nel caso di animali da reddito, possono essere utilizzati per una diversa destin
 
 <sup>6</sup> Nel caso delle api e degli insetti destinati alla produzione di derrate alimentari o di alimenti per animali, nessun medicamento può essere utilizzato diversamente dalla sua destinazione.[^12-6]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^12-2]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^12-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^12-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^12-4]: Abrogata dall’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, con effetto dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^12-5]: Regolamento (UE) n. 122/2013 della Commissione, del 12 febbraio 2013, che modifica il regolamento (CE) n. 1950/2006 che istituisce, conformemente alla direttiva 2001/82/CE del Parlamento europeo e del Consiglio recante un codice comunitario relativo ai prodotti medicinali per uso veterinario, un elenco di sostanze essenziali per il trattamento degli equidi, GU L 42 del 13.2.2013, pag. 1.
-[^12-6]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^12-6]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 13
 
@@ -508,10 +509,10 @@ Per medicamenti omeopatici, antroposofici e fitoterapeutici omologati si può ri
 - b. che presentano un potenziamento D6 o più.[^13-6]
 
 [^13-1]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^13-2]: Nuovo testo giusta il n. I 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
-[^13-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^13-4]: Nuovo testo giusta il n. I 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
-[^13-5]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^13-2]: Nuovo testo giusta la cifra I n. 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^13-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^13-4]: Nuovo testo giusta la cifra I n. 3 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
+[^13-5]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^13-6]: Nuovo testo giusta l’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
 #### Art. 14
@@ -526,7 +527,7 @@ Per medicamenti omeopatici, antroposofici e fitoterapeutici omologati si può ri
 
 <sup>4</sup> Per trattare le api e gli insetti destinati alla produzione di derrate alimentari o di alimenti per animali, non possono essere prescritti, dispensati né utilizzati i medicamenti di cui all’articolo 9 capoverso 2 lettere a–c<sup>bis</sup> LATer.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 15
 
@@ -540,9 +541,9 @@ Per medicamenti omeopatici, antroposofici e fitoterapeutici omologati si può ri
 
 <sup>4</sup> Se le indicazioni nel passaporto per equide divergono da quelle nella banca dati sul traffico di animali prevalgono le indicazioni della banca dati sul traffico di animali.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2010 2311](https://fedlex.data.admin.ch/eli/oc/2010/332)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^15-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° gen. 2011 ([RU 2010 2311](https://fedlex.data.admin.ch/eli/oc/2010/332)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^15-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### Sezione 3: Fabbricazione di foraggi medicinali nonché dispensazione e somministrazione di foraggi medicinali e premiscele di medicamenti
 
@@ -552,7 +553,7 @@ Per medicamenti omeopatici, antroposofici e fitoterapeutici omologati si può ri
 
 I foraggi medicinali e le premiscele di medicamenti per la terapia di gruppo per via orale possono essere prescritti esclusivamente da un veterinario responsabile tecnico di cui all’articolo 20.
 
-[^15a-1]: Introdotto dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^15a-1]: Introdotto dalla cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 16
 
@@ -576,10 +577,10 @@ Il veterinario responsabile tecnico che prescrive un mangime medicato[^16-2] o u
 
 <sup>3</sup> Il veterinario responsabile tecnico fornisce la ricetta all’azienda di produzione e al detentore di animali e ne conserva un esemplare nella cartella medica.[^16-5]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^16-2]: Nuova espr. giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^16-3]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^16-4]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^16-2]: Nuova espr. giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-3]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^16-4]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^16-5]: Nuovo testo giusta l’art. 20 n. 1 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, in vigore dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
 
 #### Art. 17
@@ -590,7 +591,7 @@ Il veterinario responsabile tecnico che prescrive un mangime medicato[^16-2] o u
 
 <sup>2</sup> Le ricette possono essere eseguite solo una volta.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 18
 
@@ -605,9 +606,9 @@ Non necessita di un’autorizzazione di fabbricazione chi, per il proprio effett
 - a. fabbrica al massimo una razione giornaliera per gli animali da trattare;
 - b. aggiunge manualmente nella mangiatoia medicamenti veterinari alla razione.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^18-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^18-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^18-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
 
@@ -628,7 +629,7 @@ Un’azienda agricola, nei cui impianti tecnici sono aggiunti medicamenti agli a
 
 <sup>3</sup> La convenzione può essere stipulata nell’ambito di una convenzione Mvet.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 20
 
@@ -644,7 +645,7 @@ Un’azienda agricola, nei cui impianti tecnici sono aggiunti medicamenti agli a
 
 <sup>5</sup> La formazione continua di cui al capoverso 1 deve essere assolta entro 12 mesi dall’inizio di un’attività per la quale tale formazione continua è richiesta.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 20a
 
@@ -664,10 +665,10 @@ Il veterinario responsabile tecnico svolge i seguenti compiti nell’ambito dell
 
 - [tab] <sup>4</sup> Se vi è motivo di presumere che le misure correttive disposte non siano state soddisfatte, il veterinario responsabile tecnico deve rivolgersi al veterinario cantonale competente.
 
-[^20a-1]: Introdotto dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^20a-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^20a-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^20a-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^20a-1]: Introdotto dalla cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^20a-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^20a-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^20a-4]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 21
 
@@ -684,8 +685,8 @@ L’impianto utilizzato in un’azienda agricola per l’aggiunta di medicamenti
 
 <sup>3</sup> Sono fatte salve le condizioni per l’immissione in commercio secondo le disposizioni della legge federale del 12 giugno 2009[^21-1] sulla sicurezza dei prodotti (LSPro).[^21-2]
 
-[^21-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^21-2]: Nuovo testo giusta l’all. 4 n. II 3 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^21-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^21-2]: Nuovo testo giusta l’all. 4 cifra II n. 3 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 ## Capitolo 3: Obbligo di diligenza e di comunicazione dei detentori di animali da reddito
 
@@ -697,7 +698,7 @@ L’impianto utilizzato in un’azienda agricola per l’aggiunta di medicamenti
 
 <sup>2</sup> Sono tenuti a conservare i medicamenti veterinari presenti in azienda secondo le prescrizioni di conservazione e di stoccaggio indicate nell’informazione sul medicamento veterinario e nell’istruzione per l’uso, in condizioni igienicamente irreprensibili, al sicuro e in ordine. Le istruzioni per l’uso scritte vanno conservate fintanto che il medicamento veterinario si trova nell’azienda.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 23
 
@@ -724,9 +725,9 @@ Queste indicazioni devono figurare:
   - 1\. nel passaporto per equide,
   - 2\. nell’attestato di registrazione di cui all’articolo 27 capoverso 2 dell’ordinanza del 3 novembre 2021[^23-2] concernente Identitas AG e la banca dati sul traffico di animali, se l’equide è macellato prima del 31 dicembre dell’anno di nascita.[^23-3]
 
-[^23-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^23-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^23-3]: Nuovo testo giusta l’all. 3 n. II 3 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^23-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^23-2]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^23-3]: Nuovo testo giusta l’all. 3 cifra II n. 3 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24
 
@@ -736,8 +737,8 @@ Queste indicazioni devono figurare:
 
 <sup>2</sup> Il latte raccolto prima della scadenza del termine d’attesa può essere utilizzato quale mangime per gli animali da reddito nella stessa azienda di detenzione. Per gli animali abbeverati, ogni utilizzazione di questo latte deve essere documentata quale impiego di medicamenti e devono essere rispettati i termini d’attesa validi per il medicamento in questione.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^24-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^24-2]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 ## Capitolo 4: Obbligo di tenere un registro e obbligo di registrazione
 
@@ -747,7 +748,7 @@ Queste indicazioni devono figurare:
 
 Ha l’obbligo di tenere un registro chi è autorizzato a dispensare medicamenti ad animali da reddito secondo l’articolo 24 LATer o secondo l’articolo 9 capoversi 2 e 3 (persone autorizzate a dispensare medicamenti) e chi detiene animali da reddito.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 26
 
@@ -762,9 +763,9 @@ Vanno iscritti a registro:
 - e.[^26-2] i medicamenti importati secondo gli articoli 7−7*c*;
 - f.[^26-3] i medicamenti per le api.
 
-[^26-1]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^26-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^26-3]: Introdotta dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^26-1]: Nuovo testo giusta l’all. 2 cifra II n. 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^26-3]: Introdotta dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 27
 
@@ -785,7 +786,7 @@ Le persone autorizzate a dispensare medicamenti devono indicare per ogni dispens
 
 <sup>4</sup> Chi dispensa medicamenti secondo l’articolo 26 deve conservare in ordine cronologico i bollettini di consegna di tutti i medicamenti acquistati nonché i documenti relativi a ogni restituzione o distruzione di medicamenti. Deve anche allegare le corrispondenti istruzioni per l’uso.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 28
 
@@ -815,9 +816,9 @@ Essi sono tenuti, per ogni entrata destinata alla scorta e per ogni restituzione
 
 <sup>3</sup> All’occorrenza, il veterinario deve mettere a disposizione dei detentori di animali da reddito le indicazioni di cui al capoverso 1 necessarie per le registrazioni.[^28-3]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^28-2]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
-[^28-3]: Introdotto dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
+[^28-3]: Introdotto dalla cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 29
 
@@ -827,7 +828,7 @@ Essi sono tenuti, per ogni entrata destinata alla scorta e per ogni restituzione
 
 <sup>2</sup> Sono fatti salvi termini di conservazione più lunghi secondo altri testi legislativi.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 24 mar. 2010, in vigore dal 15 apr. 2010 ([RU 2010 1299](https://fedlex.data.admin.ch/eli/oc/2010/188)).
 
 ## Capitolo 5: Esecuzione
 
@@ -864,11 +865,11 @@ Gli organi di controllo possono in particolare:[^30-4]
 
 [^30-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 26 ott. 2011 sul coordinamento dei controlli, in vigore dal 1° gen. 2012 ([RU 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^30-2]: Nuovo testo giusta l’all.n. 4 dell’O del 14 nov. 2007 sul coordinamento dei controlli, in vigore dal 1° gen. 2008 ([RU 2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)).
-[^30-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^30-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^30-3]: [RS 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^30-4]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^30-5]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 26 ott. 2011 sul coordinamento dei controlli, in vigore dal 1° gen. 2012 ([RU 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
-[^30-6]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^30-7]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^30-6]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^30-7]: Introdotto dalla cifra I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
 
 #### Art. 31
 
@@ -877,7 +878,7 @@ Gli organi di controllo possono in particolare:[^30-4]
 I controlli si basano sull’ordinanza del 27 maggio 2020[^31-2] sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso
 
 [^31-1]: Nuovo testo giusta l’all. 4 n. 3 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^31-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^31-2]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 
 #### Art. 32
 
@@ -907,9 +908,9 @@ Oltre a registrare i dati relativi ai controlli di cui all’articolo 31, le com
 
 <sup>2</sup> LʼUSAV valuta i dati e li pubblica in forma adeguata.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^33-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^33-3]: Nuovo testo giusta l’all. 4 n. II 2 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^33-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^33-3]: Nuovo testo giusta l’all. 4 cifra II n. 2 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 34
 
@@ -919,8 +920,8 @@ Oltre a registrare i dati relativi ai controlli di cui all’articolo 31, le com
 
 <sup>2</sup> I controllori devono essere indipendenti dalle aziende che controllano. Nei casi di cui all’articolo 10 della legge federale del 20 dicembre 1968[^34-2] sulla procedura amministrativa devono ricusarsi.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^34-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^34-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Sezione 2: Requisiti in materia di trattamento di dati sul consumo di medicamenti veterinari
 
@@ -938,9 +939,9 @@ Su richiesta dell’USAV:
 
 <sup>2</sup> I veterinari devono notificare all’USAV la prescrizione, la dispensazione e l’utilizzo di antibiotici a uso non topico per il tramite del SI AMV secondo l’O-SIAMV[^35-2].[^35-3]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^35-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^35-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^35-2]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^35-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 36
 
@@ -960,20 +961,20 @@ Su richiesta dell’USAV:
 
 <sup>6</sup> Per il trattamento dei dati sulla prescrizione, la dispensazione e l’utilizzo di antibiotici non topici si applicano le disposizioni dell’O-SIAMV[^36-7].[^36-8]
 
-[^36-1]: Nuovo testo giusta l’all. 2 n. II 100 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-3]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^36-4]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^36-6]: Nuovo testo giusta l’all. 2 n. II 100 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^36-7]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^36-8]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-1]: Nuovo testo giusta l’all. 2 cifra II n. 100 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-3]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^36-4]: Nuovo testo giusta la cifra I dell’O dell’8 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
+[^36-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^36-6]: Nuovo testo giusta l’all. 2 cifra II n. 100 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^36-7]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^36-8]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### Sezione 3: Misure in caso di un consumo maggiorato di antibiotici
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Introdotta dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^chap5-sec3-1]: Introdotta dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 36a
 
@@ -985,7 +986,7 @@ Su richiesta dell’USAV:
 
 <sup>3</sup> L’USAV emana direttive tecniche sul conteggio dei dati comparativi e sulla fissazione dei valori di azione e di segnalazione.
 
-[^36a-1]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36a-1]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 
 #### Art. 36b
 
@@ -1051,7 +1052,7 @@ La modifica del diritto vigente è disciplinata nell’allegato 3.
 
 All’occorrenza, il DFI adegua allo stato attuale della tecnica e della scienza l’allegato 2 e, d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca, l’allegato 5.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 39
 
@@ -1067,8 +1068,8 @@ All’occorrenza, il DFI adegua allo stato attuale della tecnica e della scienza
 
 <sup>5</sup> I medicamenti conservati dopo il 1° gennaio 2005 da una persona non autorizzata a dispensare medicamenti, devono essere muniti di etichetta e di istruzioni per l’uso conformemente agli articoli 4 e 5.
 
-[^39-1]: Abrogato dall’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, con effetto al 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
-[^39-2]: Abrogato dall’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, con effetto al 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^39-1]: Abrogato dall’all. 2 cifra II n. 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, con effetto al 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
+[^39-2]: Abrogato dall’all. 2 cifra II n. 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso, con effetto al 1° gen. 2006 ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)).
 
 #### Art. 39a
 
@@ -1084,7 +1085,7 @@ All’occorrenza, il DFI adegua allo stato attuale della tecnica e della scienza
 
 <sup>5</sup> I medicamenti contenenti fenilbutazone possono continuare a essere somministrati agli equidi di cui all’articolo 12 capoverso 3 fino al 1° aprile 2018. Vige un termine d’attesa di 6 mesi.
 
-[^39a-1]: Introdotto dal n. I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^39a-1]: Introdotto dalla cifra I dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 #### Art. 39b
 
@@ -1104,7 +1105,7 @@ Le sostanze attive che figurano negli elenchi a e b dell’allegato 2 secondo il
 
 <sup>3</sup> I valori di segnalazione e di azione di cui all’articolo 36*a* capoverso 2 vengono stabiliti per la prima volta per il 2023, sulla base dei dati comparativi di cui all’articolo 36*a* capoverso 1 dell’anno 2022.
 
-[^39c-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^39c-1]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 40
 
@@ -1124,7 +1125,7 @@ Allegato 1[^t-1]
 
 ## Criteri di valutazione, frequenza delle visite e contenuto della convenzione Mvet
 
-[^t-1]: Aggiornato dal n. II delle O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^t-1]: Aggiornato dalla cifra II delle O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) e del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### 1 Criteri di valutazione
 
@@ -1408,7 +1409,7 @@ Allegato 4[^t-3]
 
 ## Sostanze e preparati che non possono essere somministrati ad animali da reddito
 
-[^t-3]: Introdotto dall’all. 2 n. II 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Aggiornato dal n. II dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) e dall’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
+[^t-3]: Introdotto dall’all. 2 cifra II n. 1 dell’O del 23 nov. 2005 sulle derrate alimentari e gli oggetti d’uso ([RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Aggiornato dalla cifra II dell’O dell’11 mar. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)) e dall’all. n. 2 dell’O del 16 dic. 2016 sulle derrate alimentari e gli oggetti d’uso, in vigore dal 1° mag. 2017 ([RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
 Le sostanze e i preparati seguenti non possono essere somministrati ad animali da reddito:
 
@@ -1422,7 +1423,7 @@ Allegato 5[^t-4]
 
 ## Sostanze attive antimicrobiche che non possono essere dispensate per la scorta
 
-[^t-4]: Introdotto dal n. II dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^t-4]: Introdotto dalla cifra II dell’O dell’11 mar. 2016, in vigore dal 1° apr. 2016 ([RU 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 
 I medicamenti contenenti le seguenti sostanze attive antimicrobiche non possono essere dispensati per la scorta:
 

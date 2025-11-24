@@ -4,11 +4,11 @@ title: "Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimit
 short: TAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: de
-version: 2023-09-01
+version: 2025-11-25
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20251125/de/xml/fedlex-data-admin-ch-eli-cc-2004-592-20251125-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20251125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/de"
 
 (Tierarzneimittelverordnung, TAMV)
 
-vom 18. August 2004 (Stand am 1. September 2023)
+vom 18. August 2004 (Stand am 25. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 5 Absatz 2 Buchstabe b, 20 Absatz 2 Buchstabe b, 42 Ab
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -95,7 +95,7 @@ Im Sinne dieser Verordnung gelten als:
 [^3-3]: Eingefügt durch Ziff. I der V vom 11. März 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Aufgehoben durch Art. 20 Ziff. 1 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
 [^3-4]: Eingefügt durch Ziff. I der V vom 11. März 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^3-5]: Eingefügt durch Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^3-6]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^3-6]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 ## 2. Kapitel: Verschreibung, Abgabe und Anwendung von Tierarzneimitteln
 
@@ -270,8 +270,8 @@ Tierärztinnen und Tierärzte, die über eine Bewilligung des zuständigen Kanto
 <sup>3</sup> Im Herkunftsland zugelassene Arzneimittel dürfen nur auf Vorrat abgegeben werden, wenn sie mit einer Meldung oder einer Bewilligung nach den Artikeln 7‒7*b* eingeführt werden.
 
 [^7c-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^7c-2]: [SR 0.811.119.136](https://fedlex.data.admin.ch/eli/cc/7/446_402_446), [0.811.119.163](https://fedlex.data.admin.ch/eli/cc/9/220_178_220), [0.811.119.349](https://fedlex.data.admin.ch/eli/cc/11/180_167_180), [0.811.119.454.1](https://fedlex.data.admin.ch/eli/cc/10/724_649_724), [0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^7c-3]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^7c-2]: [SR 0.811.119.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3418), [0.811.119.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3419), [0.811.119.349](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3420), [0.811.119.454.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3422), [0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^7c-3]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 7d
 
@@ -296,8 +296,8 @@ Die Einfuhr nicht zugelassener Arzneimittel, die gentechnisch veränderte Organi
 <sup>5</sup> Stellen das BAZG an der Grenze oder die Kantone im Rahmen der Kontrollen im Inland fest, dass Arzneimittel ohne Meldung oder ohne Bewilligung des BLV eingeführt wurden, so informieren sie die Swissmedic.
 
 [^7e-1]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^7e-2]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^7e-3]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^7e-2]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^7e-3]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 
 #### Art. 8
 
@@ -316,7 +316,7 @@ Die Einfuhr nicht zugelassener Arzneimittel, die gentechnisch veränderte Organi
 <sup>6</sup> Wird die Durchführungsverordnung (EU) 2022/1255 geändert, so kann das EDI den Verweis anpassen.[^8-8]
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^8-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^8-2]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^8-3]: Fassung gemäss Anhang 6 Ziff. II 5 der Tierschutzverordnung vom 23. April 2008, in Kraft seit 1. Sept. 2008 ([AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
 [^8-4]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-5]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
@@ -424,27 +424,28 @@ Die Verabreichung folgender Stoffe und Zubereitungen an Nutztiere ist untersagt:
 - b. vom EDI gestützt auf Artikel 10 Absatz 4 Buchstabe e der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^10c-2] (LGV) verbotene pharmakologisch wirksame Stoffe.
 
 [^10c-1]: Ursprünglich: Art. 10*a*. Eingefügt durch Anhang 2 Ziff. II 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. Nov. 2005 ([AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^10c-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^10c-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 11
 
 **Menge der verschriebenen oder abgegebenen Tierarzneimittel**
 
-<sup>1</sup> Bei einem Bestandesbesuch darf nur die Menge Tierarzneimittel verschrieben oder abgegeben werden, die für die Behandlung und die Nachbehandlung der von der aktuellen Indikation betroffenen Tiere notwendig ist.
+<sup>1</sup> Bei einem Bestandesbesuch darf nur die Menge Tierarzneimittel verschrieben oder abgegeben werden, die für die Behandlung und die Nachbehandlung der von der aktuellen Indikation betroffenen Tiere notwendig ist.[^11-1]
 
 <sup>2</sup>
 
 Besteht eine TAM-Vereinbarung, so darf die Tierärztin oder der Tierarzt für eine bezeichnete Indikation Tierarzneimittel im Verhältnis zur Bestandesgrösse auch auf Vorrat verschreiben oder abgeben:
 
-- a.[^11-1] zur Prophylaxe: den Bedarf für maximal vier Monate; ausgenommen sind Arzneimittel mit antimikrobiellen Wirkstoffen;
-- b.[^11-2] zur Behandlung von Tieren: den Bedarf für maximal drei Monate; ausgenommen sind Arzneimittel mit antimikrobiellen Wirkstoffen nach Anhang 5;
+- a.[^11-2] zur Prophylaxe: den Bedarf für maximal vier Monate; ausgenommen sind Arzneimittel mit antimikrobiellen Wirkstoffen;
+- b.[^11-3] zur Behandlung von Tieren: den Bedarf für maximal drei Monate; ausgenommen sind Arzneimittel mit antimikrobiellen Wirkstoffen nach Anhang 5;
 - c. zur Schmerzausschaltung bei der Enthornung in den ersten Wochen oder bei der Frühkastration: den Bedarf für maximal drei Monate;
 - d. zur Bekämpfung von Parasiten: den Bedarf für maximal zwölf Monate.
 
 <sup>3</sup> Wer die Person oder die Praxis vertritt, die eine TAM-Vereinbarung abgeschlossen hat, darf Tierarzneimittel nur für die aktuelle Indikation, die gewählte Behandlung und Nachbehandlung sowie die Anzahl der aktuell zu behandelnden Tiere verschreiben oder abgeben.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^11-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^11-1]: Die Berichtigung vom 25. Nov. 2025 betrifft nur den französischen Text ([AS 2025 754](https://fedlex.data.admin.ch/eli/oc/2025/754)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 12
 
@@ -470,7 +471,7 @@ Für Nutztiere dürfen nur Arzneimittel umgewidmet werden:
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^12-2]: Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^12-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^12-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^12-4]: Aufgehoben durch Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, mit Wirkung seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^12-5]: Verordnung (EU) Nr. 122/2013 der Kommission vom 12. Februar 2013 zur Änderung der Verordnung (EG) Nr. 1950/2006 zur Erstellung eines Verzeichnisses von für die Behandlung von Equiden wesentlichen Stoffen gemäss der Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel, ABl. L 42 vom 13.2.2013, S. 1.
 [^12-6]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
@@ -509,7 +510,7 @@ Bei zugelassenen homöopathischen, anthroposophischen und phytotherapeutischen A
 
 [^13-1]: Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^13-2]: Fassung gemäss Ziff. I 3 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
-[^13-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^13-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^13-4]: Fassung gemäss Ziff. I 3 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 [^13-5]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^13-6]: Fassung gemäss Anhang Ziff. 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
@@ -541,7 +542,7 @@ Bei zugelassenen homöopathischen, anthroposophischen und phytotherapeutischen A
 <sup>4</sup> Unterscheiden sich die Angaben im Equidenpass von denjenigen in der Tierverkehrsdatenbank, so gehen die Angaben der Tierverkehrsdatenbank vor.[^15-4]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 2311](https://fedlex.data.admin.ch/eli/oc/2010/332)).
-[^15-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^15-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^15-3]: Fassung gemäss Anhang 2 Ziff. II 1 der TVD-Verordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775)).
 [^15-4]: Fassung gemäss Anhang 2 Ziff. II 1 der TVD-Verordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775)).
 
@@ -578,7 +579,7 @@ Verschreibt eine fachtechnisch verantwortliche Tierärztin oder ein fachtechnisc
 <sup>3</sup> Die fachtechnisch verantwortliche Tierärztin oder der fachtechnisch verantwortliche Tierarzt stellt das Rezept dem Herstellungsbetrieb und der Tierhalterin oder dem Tierhalter zu und bewahrt ein Exemplar in der Krankengeschichte auf.[^16-4]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^16-2]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^16-2]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^16-3]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^16-4]: Fassung gemäss Art. 20 Ziff. 1 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin, in Kraft seit 1. Jan. 2019 ([AS 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
 
@@ -606,7 +607,7 @@ Keine Herstellungsbewilligung braucht, wer für den eigenen Tierbestand:
 - b. Tierarzneimittel manuell im Trog der Ration beimischt.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^18-2]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^18-2]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 [^18-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
@@ -685,7 +686,7 @@ Die auf einem Landwirtschaftsbetrieb zur Mischung von Futtermitteln mit Arzneimi
 
 <sup>3</sup> Vorbehalten bleiben die Voraussetzungen für das Inverkehrbringen nach den Bestimmungen des Bundesgesetzes vom 12. Juni 2009[^21-1] über die Produktesicherheit (PrSG).[^21-2]
 
-[^21-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^21-1]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 [^21-2]: Fassung gemäss Anhang 4 Ziff. II 3 der V über die Produktesicherheit vom 19. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 ## 3. Kapitel: Sorgfalts- und Mitteilungspflichten der Nutztierhalterinnen und Nutztierhalter
@@ -725,8 +726,8 @@ Diese Angaben sind wie folgt zu machen:
   - 1\. im Equidenpass,
   - 2\. in der Aufnahmebestätigung nach Artikel 27 Absatz 2 der Verordnung vom 3. November 2021[^23-2] über die Identitas AG und die Tierverkehrsdatenbank für Equiden, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden.[^23-3]
 
-[^23-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^23-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^23-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^23-2]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^23-3]: Fassung gemäss Anhang 3 Ziff. II 3 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24
@@ -738,7 +739,7 @@ Diese Angaben sind wie folgt zu machen:
 <sup>2</sup> Milch, die vor Ablauf der Absetzfrist gewonnen wird, darf an die Nutztiere in der gleichen Tierhaltung verfüttert werden. Jede Verwendung ist bei den getränkten Tieren wie ein Arzneimitteleinsatz zu dokumentieren und es sind die Absetzfristen einzuhalten, die für das entsprechende Arzneimittel gelten.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^24-2]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^24-2]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 ## 4. Kapitel: Buchführungs- und Aufzeichnungspflicht
 
@@ -863,7 +864,7 @@ Die Kontrollorgane dürfen insbesondere:[^30-4]
 
 [^30-1]: Fassung gemäss Anhang 2 Ziff. 2 der Kontrollkoordinationsverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^30-2]: Fassung gemäss Anhang Ziff. 4 der Inspektionskoordinationsverordnung vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)).
-[^30-3]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^30-3]: [SR 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
 [^30-4]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^30-5]: Fassung gemäss Anhang 2 Ziff. 2 der Kontrollkoordinationsverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^30-6]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
@@ -876,7 +877,7 @@ Die Kontrollorgane dürfen insbesondere:[^30-4]
 Die Kontrollen richten sich nach der Verordnung vom 27. Mai 2020[^31-2] über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände.
 
 [^31-1]: Fassung gemäss Anhang 4 Ziff. 3 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^31-2]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^31-2]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 
 #### Art. 32
 
@@ -907,7 +908,7 @@ Ergänzend zur Erfassung der Kontrolldaten nach Artikel 31 geben die zuständige
 <sup>2</sup> Das BLV wertet die Daten aus und veröffentlicht sie in geeigneter Form.
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^33-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^33-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^33-3]: Fassung gemäss Anhang 4 Ziff. II 2 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 34
@@ -919,7 +920,7 @@ Ergänzend zur Erfassung der Kontrolldaten nach Artikel 31 geben die zuständige
 <sup>2</sup> Die Kontrolleurinnen und Kontrolleure müssen von den Betrieben, die sie kontrollieren, unabhängig sein. In den Fällen nach Artikel 10 des Bundesgesetzes vom 20. Dezember 1968[^34-2] über das Verwaltungsverfahren müssen sie in den Ausstand treten.
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^34-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 2. Abschnitt: Anforderungen an die Bearbeitung von Verbrauchsdaten
 
@@ -938,7 +939,7 @@ Auf Verlangen des BLV haben zur Verfügung zu stellen:
 <sup>2</sup> Die Tierärztinnen und Tierärzte müssen dem BLV die Verschreibung, Abgabe und Anwendung von nicht topischen Antibiotika über das IS ABV nach der ISABV-V[^35-2] melden.[^35-3]
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 11. März 2016, in Kraft seit 1. April 2016 ([AS 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^35-2]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^35-2]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^35-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 36
@@ -963,9 +964,9 @@ Auf Verlangen des BLV haben zur Verfügung zu stellen:
 [^36-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^36-3]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^36-4]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^36-6]: Fassung gemäss Anhang 2 Ziff. II 100 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^36-7]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36-7]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^36-8]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### 3. Abschnitt: Massnahmen bei erhöhtem Antibiotikaverbrauch
@@ -984,7 +985,7 @@ Auf Verlangen des BLV haben zur Verfügung zu stellen:
 
 <sup>3</sup> Das BLV erlässt technische Weisungen zur Berechnung der Vergleichsdaten sowie zur Festlegung der Aktions- und der Signalwerte.
 
-[^36a-1]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36a-1]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 
 #### Art. 36b
 
@@ -1414,7 +1415,6 @@ Folgende Stoffe und Zubereitungen dürfen nicht an Nutztiere verabreicht werden:
 - a. Stilbene, Stilbenderivate, -salze und -ester sowie Thyreostatika;
 - b. Stoffe mit östrogener, androgener oder gestagener Wirkung sowie Betaagonisten zur Förderung der Mastleistung, soweit nicht bei der Zulassung von Tierarzneimitteln Ausnahmen gewährt werden;
 - c. Zartmacher (Tenderizer).
-- [tab]
 
 Anhang 5[^t-4]
 

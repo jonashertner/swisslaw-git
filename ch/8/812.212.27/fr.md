@@ -4,11 +4,11 @@ title: Ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)
 short: OMédv
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/592"
 language: fr
-version: 2023-09-01
+version: 2025-11-25
 adopted: 2004-08-18
 in_force: 2004-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/592/20251125/fr/xml/fedlex-data-admin-ch-eli-cc-2004-592-20251125-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20251125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/592/20230901/fr"
 
 (OMédV)
 
-du 18 août 2004 (État le 1<sup>er</sup> septembre 2023)
+du 18 août 2004 (État le 25 novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 5, al. 2, let. b, 20, al. 2, let. b, 42, al. 3, 42*a*, 44 et 82, al.
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ## Chapitre 1 Dispositions générales
@@ -95,7 +95,7 @@ Au sens de la présente ordonnance, on entend par:
 [^3-3]: Introduite par le ch. I de l’O du 11 mars 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Abrogée par l’art. 20 ch. 1 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
 [^3-4]: Introduite par le ch. I de l’O du 11 mars 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)). Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^3-5]: Introduite par le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^3-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^3-6]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
 
 ## Chapitre 2 Prescription, remise et utilisation des médicaments vétérinaires
 
@@ -253,9 +253,9 @@ L’autorisation est délivrée si les conditions suivantes sont réunies:
 
 Les vétérinaires titulaires d’une autorisation de remise de médicaments délivrée par le canton compétent peuvent, moyennant une déclaration au sens de l’art. 7, al. 2 et 3, importer pour reconversion des médicaments destinés aux animaux de compagnie si les conditions suivantes sont réunies:
 
-- a. ces médicaments sont autorisés dans un pays ayant institué un contrôle équivalent des médicaments;
-- b. il ne s’agit pas de médicaments au sens de l’art. 7, al. 4;
-- c. les conditions visées à l’al. 2 sont remplies.[^7b-2]
+- ces médicaments sont autorisés dans un pays ayant institué un contrôle équivalent des médicaments;
+- il ne s’agit pas de médicaments au sens de l’art. 7, al. 4;
+- les conditions visées à l’al. 2 sont remplies.[^7b-2]
 
 [^7b-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^7b-2]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 40](https://fedlex.data.admin.ch/eli/oc/2023/40)).
@@ -271,8 +271,8 @@ Les vétérinaires titulaires d’une autorisation de remise de médicaments dé
 <sup>3</sup> Les médicaments autorisés dans le pays dont le vétérinaire est ressortissant ne peuvent être remis à titre de stocks que s’ils sont importés avec une déclaration ou une autorisation au sens des art. 7 à 7*b*.
 
 [^7c-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^7c-2]: [RS 0.811.119.136](https://fedlex.data.admin.ch/eli/cc/7/446_402_446), [0.811.119.163](https://fedlex.data.admin.ch/eli/cc/9/220_178_220), [0.811.119.349](https://fedlex.data.admin.ch/eli/cc/11/180_167_180), [0.811.119.454.1](https://fedlex.data.admin.ch/eli/cc/10/724_649_724), [0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^7c-3]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^7c-2]: [RS 0.811.119.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3418), [0.811.119.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3419), [0.811.119.349](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3420), [0.811.119.454.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3422), [0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^7c-3]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 7d
 
@@ -297,8 +297,8 @@ Il est interdit d’importer des médicaments non autorisés contenant des organ
 <sup>5</sup> Si l’OFDF, à la frontière, ou les cantons, lors des contrôles en Suisse, constatent que des médicaments ont été importés sans déclaration ou sans autorisation de l’OSAV, ils en informent Swissmedic.
 
 [^7e-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^7e-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^7e-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^7e-2]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
+[^7e-3]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 
 #### Art. 8
 
@@ -317,7 +317,7 @@ Il est interdit d’importer des médicaments non autorisés contenant des organ
 <sup>6</sup> En cas de modification du règlement d’exécution (UE) 2022/1255, le DFI peut adapter le renvoi.[^8-8]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^8-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^8-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^8-3]: Nouvelle teneur selon l’annexe 6 ch. II 5 de l’O du 23 avr. 2008 sur la protection des animaux, en vigueur depuis le 1<sup>er</sup> sept. 2008 ([RO 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)).
 [^8-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^8-5]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
@@ -425,27 +425,29 @@ Il est interdit d’administrer à des animaux de rente les substances et prépa
 - b. les substances pharmacologiquement actives interdites par le DFI en application de l’art. 10, al. 4, let. e, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^10c-2].
 
 [^10c-1]: Anciennement art. 10*a*. Introduit par l’annexe 2 ch. II 1 de l’O du 23 nov. 2005 sur les denrées alimentaires et les objets usuels ([RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^10c-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^10c-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 11
 
 **Quantité de médicaments vétérinaires prescrits ou remis**
 
-<sup>1</sup> Lors d’une visite du cheptel, seule peut être prescrite ou remise pour l’indication en cours la quantité de médicaments vétérinaires nécessaire au traitement et à l’après-traitement des animaux concernés.
+<sup>1</sup> Lors d’une visite du cheptel, seule peut être prescrite ou remise pour l’indication en cours la quantité de médicaments vétérinaires nécessaire au traitement et au traitement de suivi des animaux concernés.[^11-1]
 
 <sup>2</sup>
 
 S’il existe une convention Médvét, le vétérinaire peut aussi prescrire ou remettre, selon l’indication et la taille du cheptel, des médicaments vétérinaires à titre de stocks, compte tenu des besoins suivants:
 
-- a.[^11-1] prophylaxie: pour quatre mois au maximum, sauf pour les médicaments contenant des principes actifs antimicrobiens;
-- b.[^11-2] traitement de cas: pour trois mois au maximum, sauf pour les médicaments contenant les principes actifs antimicrobiens figurant dans la liste de l’annexe 5;
+- a.[^11-2] prophylaxie: pour quatre mois au maximum, sauf pour les médicaments contenant des principes actifs antimicrobiens;
+- b.[^11-3] traitement de cas: pour trois mois au maximum, sauf pour les médicaments contenant les principes actifs antimicrobiens figurant dans la liste de l’annexe 5;
 - c. anesthésie en cas d’écornage durant les premières semaines ou de castration précoce: pour trois mois au maximum;
 - d. lutte antiparasitaire: pour douze mois au maximum.
 
-<sup>3</sup> Quiconque représente la personne ou le cabinet vétérinaire ayant conclu une convention Médvét ne peut prescrire ou remettre des médicaments que pour l’indication en cours, le traitement et l’après-traitement choisis ainsi que pour le nombre d’animaux à traiter.
+<sup>3</sup> Quiconque représente la personne ou le cabinet vétérinaire ayant conclu une convention Médvét ne peut prescrire ou remettre des médicaments que pour l’indication en cours, le traitement et le traitement de suivi choisis ainsi que pour le nombre d’animaux à traiter.[^11-4]
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^11-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^11-1]: Erratum du 25 nov. 2025 ([RO 2025 754](https://fedlex.data.admin.ch/eli/oc/2025/754)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^11-4]: Erratum du 25 nov. 2025 ([RO 2025 754](https://fedlex.data.admin.ch/eli/oc/2025/754)).
 
 #### Art. 12
 
@@ -471,7 +473,7 @@ Pour les animaux de rente, seules les reconversions suivantes sont autorisées:
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^12-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
-[^12-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^12-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^12-4]: Abrogée par l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^12-5]: Règlement (UE) n<sup>o</sup> 122/2013 de la Commission du 12 février 2013 modifiant le règlement (CE) n<sup>o</sup> 1950/2006 établissant, conformément à la directive 2001/82/CE du Parlement européen et du Conseil instituant un code communautaire relatif aux médicaments vétérinaires, une liste de substances essentielles pour le traitement des équidés, JO L 42 du 13.2.2013, p. 1.
 [^12-6]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
@@ -510,7 +512,7 @@ Dans le cas des médicaments homéopathiques, anthroposophiques ou phytothérape
 
 [^13-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 [^13-2]: Nouvelle teneur selon le ch. I 3 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
-[^13-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^13-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^13-4]: Nouvelle teneur selon le ch. I 3 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 [^13-5]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
 [^13-6]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
@@ -542,7 +544,7 @@ Dans le cas des médicaments homéopathiques, anthroposophiques ou phytothérape
 <sup>4</sup> Si les informations du passeport équin diffèrent de celles de la banque de données sur le trafic des animaux, ce sont ces dernières qui prévalent.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 2311](https://fedlex.data.admin.ch/eli/oc/2010/332)).
-[^15-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^15-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### Section 3 Fabrication d’aliments médicamenteux, prescription et administration d’aliments médicamenteux ou de prémélanges pour aliments médicamenteux
 
@@ -577,7 +579,7 @@ Si un vétérinaire responsable technique prescrit un aliment médicamenteux ou 
 <sup>3</sup> Le vétérinaire responsable technique remet l’ordonnance au fabricant et au détenteur d’animaux et conserve un exemplaire dans le dossier médical.[^16-4]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^16-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^16-2]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^16-3]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^16-4]: Nouvelle teneur selon l’art. 20 ch. 1 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
 
@@ -605,7 +607,7 @@ Aucune autorisation de fabrication n’est requise pour l’exploitation agricol
 - b. pratique l’adjonction manuelle de médicaments vétérinaires à la ration.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^18-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^18-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 [^18-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
@@ -684,7 +686,7 @@ Les installations utilisées dans une exploitation agricole pour le mélange de 
 
 <sup>3</sup> Sont réservées les conditions de mise sur le marché conformément aux dispositions de la loi fédérale du 12 juin 2009 sur la sécurité des produits (LSPro)[^21-1].[^21-2]
 
-[^21-1]: [<sup>RS</sup> 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^21-1]: [<sup>RS</sup> 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 [^21-2]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 19 mai 2010 sur la sécurité des produits, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 ## Chapitre 3 Devoir de diligence et devoir de communication des détenteurs d’animaux de rente
@@ -724,8 +726,8 @@ Ces données doivent être consignées comme suit:
   - 1\. dans le passeport équin,
   - 2\. dans la confirmation d’enregistrement visée à l’art. 27, al. 2, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^23-2] pour les équidés qui sont abattus avant le 31 décembre de leur année de naissance.[^23-3]
 
-[^23-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^23-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^23-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^23-2]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^23-3]: Nouvelle teneur selon l’annexe 3 ch. II 3 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24
@@ -737,7 +739,7 @@ Ces données doivent être consignées comme suit:
 <sup>2</sup> Le lait produit avant l’échéance du délai d’attente peut être donné aux animaux de rente de la même unité d’élevage. Toute utilisation de ce lait doit être consignée à titre de traitement médicamenteux pour les animaux abreuvés et il y a lieu de respecter les mêmes délais d’attente que pour le médicament correspondant.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^24-2]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^24-2]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 
 ## Chapitre 4 Obligation de tenir un registre et obligation de consigner
 
@@ -862,7 +864,7 @@ Les organes de contrôle sont notamment habilités:[^30-4]
 
 [^30-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^30-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 14 nov. 2007 sur la coordination des inspections, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)).
-[^30-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
+[^30-3]: [RS 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
 [^30-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^30-5]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
 [^30-6]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
@@ -875,7 +877,7 @@ Les organes de contrôle sont notamment habilités:[^30-4]
 Les contrôles sont régis par l’ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels[^31-2].
 
 [^31-1]: Nouvelle teneur selon l’annexe 4 ch. 3 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^31-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^31-2]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 
 #### Art. 32
 
@@ -906,7 +908,7 @@ Outre la saisie des données de contrôle visée à l’art. 31, les autorités 
 <sup>2</sup> L’OSAV évalue ces données et les publie sous une forme appropriée.
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^33-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^33-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^33-3]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 34
@@ -918,7 +920,7 @@ Outre la saisie des données de contrôle visée à l’art. 31, les autorités 
 <sup>2</sup> Les contrôleurs doivent être indépendants des exploitations qu’ils contrôlent. Ils doivent se récuser dans les cas visés à l’art. 10 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^34-2].
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^34-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^34-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Section 2 Exigences relatives au traitement des données de consommation
 
@@ -937,7 +939,7 @@ L’OSAV peut demander:
 <sup>2</sup> Les vétérinaires doivent déclarer à l’OSAV la prescription, la remise et l’utilisation d’antibiotiques non topiques dans le SI ABV visé dans l’O-SI ABV[^35-2].[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 961](https://fedlex.data.admin.ch/eli/oc/2016/169)).
-[^35-2]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^35-2]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^35-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 36
@@ -962,9 +964,9 @@ L’OSAV peut demander:
 [^36-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^36-3]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 [^36-4]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1455](https://fedlex.data.admin.ch/eli/oc/2013/335)).
-[^36-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^36-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^36-6]: Nouvelle teneur selon l’annexe 2 ch. II 100 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^36-7]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36-7]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^36-8]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 ### Section 3 Mesures en cas d’augmentation de l’utilisation d’antibiotiques
@@ -983,7 +985,7 @@ L’OSAV peut demander:
 
 <sup>3</sup> L’OSAV édicte des directives techniques pour calculer les données comparatives et pour définir les valeurs de signal et d’action.
 
-[^36a-1]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^36a-1]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 
 #### Art. 36b
 
