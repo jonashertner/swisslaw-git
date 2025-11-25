@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Umsetzung von Solidaritätsmassnahmen zur Gewährleistung der Gasversorgung in einer schweren Mangellage
 document: Vernehmlassungsvorlage
 language: de
