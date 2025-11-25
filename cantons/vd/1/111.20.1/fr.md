@@ -4,7 +4,7 @@ number: "111.20.1"
 title: RÈGLEMENT du 26.04.2023 du Fonds cantonal Interreg (RF-Interreg)
 short: RF-Interreg
 language: fr
-version: 2023-05-01
+version: 2025-11-26
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/111.20.1?id=20318cb6-cea7-492d-b410-6c60f0b20f9b"
 ---
 
@@ -91,9 +91,9 @@ arrête
 
 **Compétences [^6-1]**
 
-*a) Chef de département*
+*Le Département*
 
-<sup>1</sup> Le chef du Département de l'enseignement et de la formation professionnelle en charge des affaires transfrontalières (ci-après : le chef de département) statue sur le financement des projets.
+<sup>1</sup> Le Département en charge des affaires transfrontalières pour le Conseil d'Etat (ci-après:le Département) statue sur le financement des projets.
 
 <sup>2</sup> L'aide maximale octroyée est de Fr. 100'000.- par projet.
 
@@ -108,10 +108,10 @@ arrête
 <sup>1</sup> L'OAE, en charge du suivi des affaires transfrontalières, dispose des compétences suivantes :
 
 - a. gérer le Fonds ;
-- b. présenter, si nécessaire avec l'avis des services cantonaux concernés, les projets requis au chef de département pour approbation ;
+- b. présenter, si nécessaire avec l'avis des services cantonaux concernés, les projets requis au Département pour approbation.
 - c. valider et signer les documents administratifs et financiers dans les limites de ses compétences (signature collective à deux) ;
 - d. verser les aides au bénéficiaire ;
-- e. informer le chef de département sur l'avancement des projets significatifs et lui fournir périodiquement un rapport sur les aides octroyées au travers du Fonds ;
+- e. informer le Département sur l'avancement des projets significatifs et lui fournir périodiquement un rapport sur les aides octroyées au travers du Fonds
 - f. informer semestriellement le département en charge des finances[^8-1] sur la situation des engagements.
 
 [^7-1]: Modif. 1 du 26.11.2025: Modification Al. 1, b,e; entrée en vigueur au 26.11.2025
@@ -149,6 +149,6 @@ arrête
 
 **Entrée en vigueur [^11-1]**
 
-<sup>1</sup> Le chef du Département de l'enseignement et de la formation professionnelle est chargé de l'exécution du présent règlement, qui entre en vigueur le 1<sup>er</sup> mai 2023.
+<sup>1</sup> Le Département est chargé de l'exécution du présent règlement, qui entre en vigueur dès le 1er mai 2023.
 
 [^11-1]: Modif. 1 du 26.11.2025: Modification Al. 1; entrée en vigueur au 26.11.2025
