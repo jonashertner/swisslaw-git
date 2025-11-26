@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2025-02-01
+version: 2025-11-27
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20250201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20251127/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20251127-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/fr"
 
 (OPAn)
 
-du 23 avril 2008 (État le 1<sup>er</sup> février 2025)
+du 23 avril 2008 (État le 27 novembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi du 16 décembre 2005 sur la protection des animaux (LPA)[^ingress-1], 
 
 arrête:
 
-[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ## Chapitre 1 Dispositions générales
@@ -112,10 +112,10 @@ Au sens de la présente ordonnance, on entend par:
 [^2-5]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^2-6]: Abrogée par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^2-7]: Nouvelle teneur selon le ch. III 1 de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2022 ([RO 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
-[^2-8]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^2-8]: [RS 455.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7207)
 [^2-9]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-10]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-11]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-11]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^2-12]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## Chapitre 2 Détention et manière de traiter les animaux
@@ -438,7 +438,7 @@ Les détenteurs de chiens doivent informer le service cantonal spécialisé dans
 <sup>3</sup> Le service cantonal spécialisé saisit ces caractéristiques dans la banque de données visée à l’art. 30, al. 2, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)[^22-2].
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^22-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^22-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 23
 
@@ -460,7 +460,7 @@ Il est en outre interdit de pratiquer les interventions suivantes sur les poisso
 
 [^23-1]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^23-2]: Introduite par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^23-3]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^23-3]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 #### Art. 24
 
@@ -520,7 +520,7 @@ Sont interdits:
 <sup>3</sup> Les personnes qui utilisent des méthodes de reproduction artificielle dans l’élevage de poissons de consommation ou de repeuplement doivent prouver qu’elles ont suivi une des formations prescrites à l’art. 196.
 
 [^27-1]: Nouvelle expression selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Il a été tenu compte de cette mod. dans tout le texte.
-[^27-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^27-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 28
 
@@ -1141,8 +1141,8 @@ Sont réputés chiens utilitaires:
 <sup>4</sup> Les chiens de protection des troupeaux sont des chiens qui sont utilisés dans l’agriculture pour l’objectif visé à l’art. 10*d*, al. 1, de l’ordonnance du 29 février 1988 sur la chasse[^69-2] et qui sont enregistrés en tant que tels dans la banque de données centrale conformément à l’art. 30 LFE[^69-3] ou des chiens qui sont destinés à un tel usage.[^69-4]
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^69-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
-[^69-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^69-2]: [RS 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+[^69-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^69-4]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 70
@@ -1248,9 +1248,9 @@ La personne responsable de la formation au travail de défense doit en tout temp
 <sup>6</sup> Le service compétent saisit le début de la formation au travail de défense dans la banque de données visée à l’art. 30, al. 2, LFE[^74-4].[^74-5]
 
 [^74-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^74-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^74-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^74-3]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^74-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^74-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^74-5]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 75
@@ -1332,7 +1332,7 @@ Celui qui utilise des appareils soumis à autorisation doit en documenter chaque
 <sup>5</sup> Les détenteurs de chiens doivent informer le service cantonal spécialisé lorsque le chien importé a la queue ou les oreilles raccourcies. Le service cantonal spécialisé saisit ces caractéristiques dans la banque de données visée à l’art. 30, al. 2, LFE[^76a-2].
 
 [^76a-1]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^76a-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^76a-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 76b
 
@@ -1409,7 +1409,7 @@ Les vétérinaires, les médecins, les responsables de refuges ou de pensions po
 <sup>4</sup> Le service cantonal compétent saisit les annonces et les mesures ordonnées dans le système d’information pour les données d’exécution du service vétérinaire public (ASAN) visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^79-2].[^79-3]
 
 [^79-1]: Abrogé par le ch. I de l’O du 23 oct. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^79-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^79-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^79-3]: Introduit par l’annexe 3 ch. II 2 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)). Nouvelle teneur selon l’annexe 4 ch. II 1 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Section 11 Chats domestiques
@@ -1558,7 +1558,7 @@ Une autorisation est requise pour la détention par des particuliers des animaux
 - c. ornithorynque, échnidés; tatous; fourmiliers; porcs-épics; paresseux, athérures;
 - d. bec-en-sabot du Nil, kiwis, ratites, manchots, pélicans, cormorans, anhingas, échassiers, flamants, grues, limicoles, psittacidés de grande taille (aras et cacatoès); tous les rapaces, serpentaires (ou secrétaires), engoulevents, sternes, colibris, trogons, calaos, nectariniidés, paradisiers; oiseaux des tropiques; plongeons, nyctimènes, fous, frégates; grandes outardes; alcidés;
 - e.[^89-2] poissons en liberté dépassant la taille de 1 m, à l’exception des espèces indi-gènes mentionnées dans la législation sur la pêche; requins et raies;
-- f.[^89-3] tortues marines (*Chelonoiidae, Dermochelyidae*); tortues géantes des Galapagos, tortues géantes des Seychelles (*Chelonoidis nigra*, *Dipsochelys* spp.); tortues sillonnées (*Geochelone [Centrochelys] sulcata*); tortues alligators (*Chelydridae*), tortues à cou de serpent (*Chelidae*), pélomédusidés (*Pelomedusidae*); tortues molles de grande taille (*Amyda cartilaginea, Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*); prodocnémides à front sillonné de grande taille (*Podocnemis expansa*); émydes fluviales d’Asie (*Batagur borneensis, Orlitia borneensis*); tous les crocodiliens (*Crocodylia*); sphénodons (*Sphenodon* spp.), iguanes terrestres (*Conolophus* spp.), iguane marin (*Amblyrhynchus cristatus*); iguanes tégus et varans dont la longueur totale dépasse 1 m à l’âge adulte, varan aquatique de Mitchell (*Varanus mitchelli*), varan des mangroves (*Varanus semiremex*); hélodermes (*Heloderma*); tous les caméléons (*Chamaeleonidae*); hydrosaures (*Hydrosau**rus* spp.); dragons volants (*Draco* spp.); diable cornu (*Moloch horridus*); boïdés qui dépassent 3 m à l’âge adulte, à l’exclusion des boas constrictors (*Boa constrictor*);
+- f.[^89-3] tortues marines (*Chelonoiidae, Dermochelyidae*); tortues géantes des Galapagos, tortues géantes des Seychelles (*Chelonoidis nigra*, *Dipsochelys* spp.); tortues sillonnées (*Geochelone [Centrochelys] sulcata*); tortues alligators (*Chelydridae*), tortues à cou de serpent (*Chelidae*), pélomédusidés (*Pelomedusidae*); tortues molles de grande taille (*Amyda cartilaginea, Aspideretes nigricans, Chitra* spp., *Pelochelys* spp., *Rafetus* spp., *Trionyx triunguis*); prodocnémides à front sillonné de grande taille (*Podocnemis expansa*); émydes fluviales d’Asie (*Batagur borneensis, Orlitia borneensis*); tous les crocodiliens (*Crocodylia*); sphénodons (*Sphenodon* spp.), iguanes terrestres (*Conolophus* spp.), iguane marin (*Amblyrhynchus cristatus*); iguanes tégus et varans dont la longueur totale dépasse 1 m à l’âge adulte, varan aquatique de Mitchell (*Varanus mitchelli*), varan des mangroves (*Varanus semiremex*); hélodermes (*Heloderma*); tous les caméléons (*Chamaeleonidae*); hydrosaures (*Hydrosaurus* spp.); dragons volants (*Draco* spp.); diable cornu (*Moloch horridus*); boïdés qui dépassent 3 m à l’âge adulte, à l’exclusion des boas constrictors (*Boa constrictor*);
 - g. grenouilles goliaths; salamandres géantes;
 - h.[^89-4] les serpents qui ont un appareil venimeux et qui peuvent utiliser leur venin (serpents venimeux); sont réservées les espèces non dangereuses de serpents venimeux dont la liste est dressée par l’OSAV dans une ordonnance.
 
@@ -1642,7 +1642,7 @@ Le registre des animaux doit comporter les informations suivantes, classées par
 
 [^93-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^93-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^93-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^93-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^93-4]: Erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
 
 ### Section 3 Autorisations
@@ -1711,7 +1711,7 @@ L’autorisation est délivrée pour une durée maximale de:
 <sup>3</sup> Quiconque capture, marque, élève ou met à mort à titre non professionnel des poissons de consommation, des poissons de repeuplement ou des décapodes marcheurs ou détient à titre non professionnel des poissons de consommation ou des poissons de repeuplement doit être titulaire d*’*une attestation de compétences conforme à l*’*art. 5*a* de l*’*ordonnance du 24 novembre 1993 relative à la loi fédérale sur la pêche[^97-2] ou à l*’*art. 198 de la présente ordonnance. Une personne non titulaire de l*’*attestation de compétences peut capturer et mettre à mort des poissons si le canton dans lequel elle exerce ses activités n*’*exige pas de patente ou n*’*exige qu*’*une patente de durée inférieure à un mois pour pratiquer la pêche à la ligne dans les eaux publiques.[^97-3]
 
 [^97-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^97-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^97-2]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 [^97-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 98
@@ -1748,7 +1748,7 @@ L’autorisation est délivrée pour une durée maximale de:
 
 <sup>4</sup> Lorsque des poissons ayant atteint la longueur de capture requise sont déversés dans des eaux dormantes uniquement à des fins de capture ultérieure, la pêche ne peut débuter qu’après une période de protection d’au moins un jour.
 
-[^100-1]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^100-1]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 ## Chapitre 5 Prise en charge professionnelle des animaux
 
@@ -1876,9 +1876,9 @@ S’il est fait du commerce ou de la publicité au moyen d’animaux, la personn
 - e.[^103-6] dans les entreprises qui font exclusivement le commerce de poissons de consommation, d’appât ou de repeuplement ou encore de décapodes marcheurs: disposer d’une formation visée à l’art. 197.
 
 [^103-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^103-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^103-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^103-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^103-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^103-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^103-5]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-6]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
@@ -1894,7 +1894,7 @@ S’il est fait du commerce ou de la publicité au moyen d’animaux, la personn
 
 <sup>4</sup> L’autorité cantonale décide si des documents supplémentaires doivent être remis.
 
-[^104-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^104-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^104-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^104-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
@@ -2047,7 +2047,7 @@ Le responsable de l’animalerie doit avoir suivi la formation visée à l’art
 
 <sup>2</sup> Le nombre de gardiens d’animaux doit permettre d’assurer une suppléance réglée, notamment pour la surveillance des animaux génétiquement modifiés au sens de l’art. 3, let. d, de l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^116-1] et des mutants présentant un phénotype invalidant, ainsi que pour les travaux de documentation exigés.[^116-2]
 
-[^116-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^116-1]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^116-2]: Nouvelle teneur selon l’annexe 5 ch. 2 de l’O sur l’utilisation confinée du 9 mai 2012, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 117
@@ -2432,7 +2432,7 @@ Les expériences causant des contraintes qui poursuivent les buts suivants ne so
 
 <sup>2</sup> La production d’animaux génétiquement modifiés n’est admise qu’aux fins prévues à l’art. 9 de la loi du 21 mars 2003 sur le génie génétique[^138-1].[^138-2]
 
-[^138-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^138-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 [^138-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ### Section 5 Autorisation de pratiquer des expériences sur animaux
@@ -2998,7 +2998,7 @@ Des dérogations aux dispositions régissant le transport peuvent être admises 
 
 L’OSAV transmet à l’État où l’entreprise concernée est enregistrée des informations détaillées sur les infractions constatées si cet État est partie à la Convention européenne du 6 novembre 2003 sur la protection des animaux en transport international[^171-1].
 
-[^171-1]: [RS 0.452](https://fedlex.data.admin.ch/eli/cc/2006/291)
+[^171-1]: [RS 0.452](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1849)
 
 #### Art. 172
 
@@ -3067,7 +3067,7 @@ Le personnel de l’abattoir doit avoir suivi la formation visée à l’art. 19
 
 [^177-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^177-2]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^177-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^177-3]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 177a
 
@@ -3294,7 +3294,7 @@ Le délégué à la protection des animaux est habilité à donner des instructi
 
 <sup>3</sup> La surveillance officielle de l’exécution de la législation sur la protection des animaux lors de l’abattage n’est pas soumise à émoluments.
 
-[^188-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^188-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)).
 
 ## Chapitre 9 Formation et formation continue en matière de détention d’animaux
 
@@ -3418,7 +3418,7 @@ Une autre formation professionnelle de base sanctionnée par une attestation fé
 
 [^194-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^194-2]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^194-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^194-3]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^194-4]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 195
@@ -3431,9 +3431,9 @@ Par gardiens d’animaux au sens de la présente ordonnance on entend les person
 - b. d’un certificat de capacité établi sur la base de l’ordonnance du 22 août 1986 du DFI[^195-2] concernant l’obtention du certificat de capacité de gardien d’animaux[^195-3];
 - c. d’un certificat de capacité de l’OSAV délivré avant 1998[^195-4].
 
-[^195-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^195-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^195-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^195-3]: [[RO 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511). [RO 2008 4303](https://fedlex.data.admin.ch/eli/oc/2008/609)art. 70]. Voir actuellement l’O du DFI du 5 sept. 2008 sur les formations à la détention d’animaux et à la manière de les traiter ([RS 455.109.1](https://fedlex.data.admin.ch/eli/cc/2008/609)).
+[^195-3]: [[RO 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511). [RO 2008 4303](https://fedlex.data.admin.ch/eli/oc/2008/609)art. 70]. Voir actuellement l’O du DFI du 5 sept. 2008 sur les formations à la détention d’animaux et à la manière de les traiter ([RS 455.109.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7200)).
 [^195-4]: Art. 75 al. 2 de l’O du 27 mai 1981 sur la protection des animaux ([RO 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
 
 #### Art. 196
@@ -3447,7 +3447,7 @@ Par formation dans une profession de la pêche on entend:
 - c. une formation équivalente confirmée par l’autorité cantonale compétente ou une expérience pratique de trois ans au moins.
 
 [^196-1]: Erratum du 4 sept. 2018, ne concerne que le texte italien ([RO 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
-[^196-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^196-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^196-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Erratum du 4 sept. 2018, ne concerne que le texte italien ([RO 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
 
 #### Art. 197
@@ -3498,7 +3498,7 @@ Les formations spécifiques indépendantes d’une formation professionnelle peu
 
 [^198a-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 [^198a-2]: La norme peut être consultée gratuitement à l’adresse suivante: [https://alice.ch](https://alice.ch) &gt; Qualité &gt; Le label qualité eduQua.
-[^198a-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^198a-3]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 198b
 
@@ -3508,7 +3508,7 @@ Les formations spécifiques indépendantes d’une formation professionnelle peu
 
 <sup>2</sup> Les contrôles ayant donné lieu à des contestations peuvent être facturés à l’organisation de formation en fonction du temps investi, conformément à l’ordonnance du 30 octobre 1985 sur les émoluments de l’OSAV[^198b-1].
 
-[^198b-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^198b-1]: [RS 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 #### Art. 198c
 
@@ -3599,12 +3599,12 @@ Les personnes qui ont acquis leurs qualifications professionnelles à l’étran
 <sup>3</sup> Pour les personnes qui peuvent se prévaloir de l’annexe III de l’accord du 21 juin 1999 sur la libre circulation des personnes conclu entre la Confédération suisse, d’une part, la Communauté européenne et ses États membres, d’autre part[^200a-5] ou de l’annexe K de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange (AELE)[^200a-6], les dispositions de la loi fédérale du 14 décembre 2012 portant sur l’obligation des prestataires de services de déclarer leurs qualifications professionnelles dans le cadre des professions réglementées et sur la vérification de ces qualifications[^200a-7] demeurent réservées.
 
 [^200a-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^200a-4]: La liste des autorités compétentes peut être consultée sous: [www.sbfi.admin.ch](http://www.sbfi.admin.ch)&gt; Formation &gt; Reconnaissance de diplômes étrangers.
-[^200a-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^200a-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^200a-7]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^200a-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^200a-6]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^200a-7]: [RS 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 
 #### Art. 201
 
@@ -3774,7 +3774,7 @@ Le modèle de formulaire de demande d’autorisation pour assurer une prestation
 
 <sup>2</sup> Le canton institue un nombre suffisant de personnes pour assurer l’efficacité de l’exécution. Les exigences qu’elles doivent remplir sont fixées dans l’ordonnance du 16 novembre 2011 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public[^210-1].[^210-2]
 
-[^210-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^210-1]: [RS 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 [^210-2]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 16 nov. 2011 (Formation dans le secteur vétérinaire public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
 #### Art. 211
@@ -3829,7 +3829,7 @@ Les autorités cantonales communiquent à l’OSAV tous les jugements pénaux et
 <sup>4 et <sup>5</sup></sup> …[^213-4]
 
 [^213-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 26 oct. 2011 sur la coordination des contrôles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
-[^213-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^213-2]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^213-3]: Nouvelle teneur selon l’annexe 4 ch. 2 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^213-4]: Abrogés par l’annexe 4 ch. 2 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
@@ -4044,7 +4044,7 @@ Annexe 1[^t-1]
 
 ## Exigences minimales pour la détention d’animaux domestiques
 
-[^t-1]: Mise à jour par le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), le ch. II de l’O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) et les ch. I al. 6 à 8 et II de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^t-1]: Mise à jour par le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), le ch. II al. 1 de l’O du 23 oct. 2013 ([RO 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), le ch. II de l’O du 10 janv. 2018 ([RO 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)), les ch. I al. 6 à 8 et II de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)) et l’erratum du 27 nov. 2025 ([RO 2025 761](https://fedlex.data.admin.ch/eli/oc/2025/761)).
 
 Remarque préliminaire
 
@@ -4338,7 +4338,7 @@ Tableau 9
 <tr><th></th><th>Semaine de vie</th><th>jusqu’à la fin de la 10<sup>e</sup></th><th>à partir de la 11<sup>e</sup> jusqu’au début de la ponte</th><th>jusqu’à 2 kg</th><th colspan="3">plus de 2 kg</th><th></th></tr>
 <tr><td>2 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>21 jusqu’à 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>14</td><td>9,3</td><td>7</td><td colspan="3">6</td><td>–</td></tr>
-<tr><td>22 plus de 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>15</td><td>surface grillagée: 16,4 surface recouverte de litière: 10,3</td><td colspan="3">surface grillagée: 12,5 surface grillagée: 3,5</td><td></td><td>–</td></tr>
+<tr><td>22 plus de 150 animaux: nbre (n) d’animaux/m<sup>2</sup></td><td>n</td><td>15</td><td>surface grillagée: 16,4 surface recouverte de litière: 10,3</td><td colspan="3">surface grillagée: 12,5 surface recouverte de litière: 3,5</td><td></td><td>–</td></tr>
 <tr><td>3 Surfaces sur lesquelles les animaux peuvent se déplacer, par animal<sup>7</sup> dans les unités de détention<sup>8</sup> comportant</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>31 jusqu’à 20 animaux: densité d’occupation: poids/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>15</td></tr>
 <tr><td>32 21–40 animaux: densité d’occupation: poids/m<sup>2</sup></td><td>kg</td><td>–</td><td>–</td><td>–</td><td colspan="3">–</td><td>20</td></tr>

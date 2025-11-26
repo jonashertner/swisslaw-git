@@ -4,11 +4,11 @@ title: Tierschutzverordnung vom 23. April 2008 (TSchV)
 short: TSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: de
-version: 2025-02-01
+version: 2025-11-27
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20250201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20251127/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20251127-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/de"
 
 (TSchV)
 
-vom 23. April 2008 (Stand am 1. Februar 2025)
+vom 23. April 2008 (Stand am 27. November 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Tierschutzgesetz vom 16. Dezember 2005[^ingress-1] (TSchG) und
 
 verordnet:
 
-[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -109,10 +109,10 @@ Im Sinne dieser Verordnung gelten als:
 [^2-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^2-5]: Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^2-6]: Fassung gemäss Ziff. III 1 der V vom 10. Dez. 2021, in Kraft seit 1. Febr. 2022 ([AS 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
-[^2-7]: [SR 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^2-7]: [SR 455.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7207)
 [^2-8]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-9]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-10]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-10]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^2-11]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## 2. Kapitel: Tierhaltung und Umgang mit Tieren
@@ -430,7 +430,7 @@ Die Hundehalterinnen und Hundehalter müssen der kantonalen Fachstelle die folge
 <sup>3</sup> Die kantonale Fachstelle erfasst die Merkmale in der Datenbank nach Artikel 30 Absatz 2 des Tierseuchengesetzes vom 1. Juli 1966[^22-2] (TSG).
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^22-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^22-2]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 23
 
@@ -452,7 +452,7 @@ Bei Fischen und Panzerkrebsen sind zudem verboten:
 
 [^23-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^23-2]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^23-3]: [SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^23-3]: [SR 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 #### Art. 24
 
@@ -513,7 +513,7 @@ Verboten sind:
 <sup>3</sup> In der Speise- und Besatzfischzucht müssen Personen, die künstliche Reproduktionsmethoden anwenden, eine Ausbildung nach Artikel 196 nachweisen.
 
 [^27-1]: Ausdruck gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Die Änd. wurde im ganzen Text vorgenommen.
-[^27-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^27-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 28
 
@@ -1123,8 +1123,8 @@ Als Nutzhunde gelten:
 <sup>4</sup> Herdenschutzhunde sind Hunde, die in der Landwirtschaft entsprechend dem Einsatzzweck nach Artikel 10*d* Absatz 1 der Jagdverordnung vom 29. Februar 1988[^69-2] eingesetzt werden und in der Datenbank nach Artikel 30 TSG[^69-3] als Herdenschutzhunde erfasst sind oder die für einen Einsatz als Herdenschutzhunde vorgesehen sind.[^69-4]
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^69-2]: [SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
-[^69-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^69-2]: [SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+[^69-3]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^69-4]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 70
@@ -1230,9 +1230,9 @@ Die für die Schutzdienstausbildung verantwortliche Person muss jederzeit belege
 <sup>6</sup> Die zuständige Stelle erfasst den Beginn der Schutzdienstausbildung in der Datenbank nach Artikel 30 Absatz 2 TSG[^74-4].[^74-5]
 
 [^74-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^74-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^74-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^74-3]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^74-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^74-4]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^74-5]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 75
@@ -1315,7 +1315,7 @@ Wer bewilligungspflichtige Geräte einsetzt, muss jeden Geräteeinsatz dokumenti
 <sup>5</sup> Die Hundehalterinnen und Hundehalter müssen der kantonalen Fachstelle verkürzte Ohren oder eine verkürzte Rute bei Hunden, die eingeführt wurden, melden. Die kantonale Fachstelle erfasst die Merkmale in der Datenbank nach Artikel 30 Absatz 2 TSG[^76a-2].
 
 [^76a-1]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^76a-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^76a-2]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 76b
 
@@ -1392,7 +1392,7 @@ Tierärztinnen und Tierärzte, Ärztinnen und Ärzte, Tierheimverantwortliche, A
 <sup>4</sup> Die zuständige kantonale Stelle erfasst die Meldungen und die angeordneten Massnahmen im Informationssystem für Vollzugsdaten des öffentlichen Veterinärdienstes (ASAN) nach der Verordnung vom 27. April 2022[^79-2] über Informationssysteme des BLV für die Lebensmittelkette.[^79-3]
 
 [^79-1]: Aufgehoben durch Ziff. I der V vom 23. Okt. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^79-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^79-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^79-3]: Eingefügt durch Anhang 3 Ziff. II 2 der V vom 6. Juni 2014 über die Informationssysteme für den öffentlichen Veterinärdienst ([AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)). Fassung gemäss Anhang 4 Ziff. II 1 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### 11. Abschnitt: Hauskatzen
@@ -1621,7 +1621,7 @@ Die Tierbestandeskontrolle muss, ausser für Fischhaltungsbetriebe, nach Tierart
 
 [^93-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^93-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^93-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^93-3]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^93-4]: Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
 
 ### 3. Abschnitt: Bewilligungen
@@ -1690,7 +1690,7 @@ Die maximale Dauer der Bewilligung beträgt:
 <sup>3</sup> Wer nicht gewerbsmässig Speisefische, Besatzfische oder Panzerkrebse fängt, markiert, züchtet oder tötet oder wer nicht gewerbsmässig Speisefische oder Besatzfische hält, muss einen Sachkundenachweis nach Artikel 5*a* der Verordnung vom 24. November 1993[^97-2] zum Bundesgesetz über die Fischerei oder nach Artikel 198 der vorliegenden Verordnung erbringen. Das Fangen und Töten ist ohne Sachkundenachweis gestattet, wenn im betreffenden Kanton zum Angeln in öffentlichen Gewässern kein Patent oder ein Kurzpatent bis zu einem Monat Dauer erforderlich ist.[^97-3]
 
 [^97-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^97-2]: [SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^97-2]: [SR 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 [^97-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 98
@@ -1727,7 +1727,7 @@ Die maximale Dauer der Bewilligung beträgt:
 
 <sup>4</sup> Werden fangreife Fische eigens zum Zweck des Wiederfangs in stehende Gewässer eingesetzt, so darf die Befischung erst nach einer Schonfrist von mindestens einem Tag erfolgen.
 
-[^100-1]: [SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^100-1]: [SR 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 ## 5. Kapitel: Gewerbsmässiger Umgang mit Tieren
 
@@ -1849,9 +1849,9 @@ Bei Handel und Werbung mit Tieren muss die für die Betreuung der Tiere verantwo
 - e.[^103-6] in Betrieben, die ausschliesslich mit Speise-, Köder- oder Besatzfischen oder Panzerkrebsen handeln: über eine Ausbildung nach Artikel 197 verfügen.
 
 [^103-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^103-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^103-2]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^103-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^103-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^103-4]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^103-5]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-6]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
@@ -1867,7 +1867,7 @@ Bei Handel und Werbung mit Tieren muss die für die Betreuung der Tiere verantwo
 
 <sup>4</sup> Die kantonale Behörde entscheidet, ob zusätzliche Unterlagen eingereicht werden müssen.
 
-[^104-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^104-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^104-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 105
@@ -2020,7 +2020,7 @@ Die Leiterin oder der Leiter der Versuchstierhaltung muss über eine Ausbildung 
 
 <sup>2</sup> Die Zahl der Tierpflegerinnen und Tierpfleger muss eine geregelte Stellvertretung erlauben, insbesondere bei der Überwachung von gentechnisch veränderten Tieren nach Artikel 3 Buchstabe d der Einschliessungsverordnung vom 9. Mai 2012[^116-1] und belasteten Mutanten sowie für die vorgeschriebenen Dokumentationsarbeiten.[^116-2]
 
-[^116-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^116-1]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^116-2]: Fassung gemäss Anhang 5 Ziff. 2 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 117
@@ -2397,7 +2397,7 @@ Unzulässig sind belastende Tierversuche:
 
 <sup>2</sup> Die Erzeugung von gentechnisch veränderten Tieren ist nur zulässig für Zwecke nach Artikel 9 des Gentechnikgesetzes vom 21. März 2003[^138-1].[^138-2]
 
-[^138-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^138-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 [^138-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ### 5. Abschnitt: Bewilligung von Tierversuchen
@@ -2956,7 +2956,7 @@ Für den Lufttransport darf von den Transportvorschriften abgewichen werden, sow
 
 Das BLV übermittelt dem Staat, in dem das betreffende Unternehmen registriert ist, detaillierte Informationen über Verletzungen von Vorschriften oder Widerhandlungen, wenn der Staat Vertragspartei des Europäischen Übereinkommens vom 6. November 2003[^171-1] über den Schutz von Tieren beim internationalen Transport ist.
 
-[^171-1]: [SR 0.452](https://fedlex.data.admin.ch/eli/cc/2006/291)
+[^171-1]: [SR 0.452](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1849)
 
 #### Art. 172
 
@@ -3027,7 +3027,7 @@ Das Personal der Schlachtbetriebe muss über eine Ausbildung nach Artikel 197 ve
 [^177-2]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^177-3]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^177-4]: Ausdruck gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^177-5]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^177-5]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 177a
 
@@ -3249,7 +3249,7 @@ Die oder der Tierschutzbeauftragte ist weisungsbefugt. Sie oder er kontrolliert 
 
 <sup>3</sup> Für die amtliche Überwachung des Vollzugs der Tierschutzgesetzgebung im Rahmen des Schlachtens werden keine Gebühren erhoben.
 
-[^188-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
+[^188-1]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6; [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608), [5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)).
 
 ## 9. Kapitel: Aus- und Weiterbildung in der Tierhaltung
 
@@ -3371,7 +3371,7 @@ Der beruflichen Grundbildung nach Absatz 1 Buchstabe a gleichgestellt ist eine a
 
 [^194-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^194-2]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^194-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^194-3]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^194-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 195
@@ -3384,8 +3384,8 @@ Als Tierpflegerinnen und Tierpfleger im Sinne dieser Verordnung gelten Personen 
 - b. einem Fähigkeitsausweis nach der Verordnung des EDI vom 22. August 1986[^195-2] über den Erwerb des Fähigkeitsausweises für Tierpfleger;
 - c. einem Fähigkeitsausweis des BLV, der vor 1998 ausgestellt wurde[^195-3].
 
-[^195-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^195-2]: [[AS 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511). [AS 2008 4303](https://fedlex.data.admin.ch/eli/oc/2008/609)Art. 70]. Siehe heute: die V des EDI vom 5. Sept. 2008 über Ausbildungen in der Tierhaltung und im Umgang mit Tieren ([SR 455.109.1](https://fedlex.data.admin.ch/eli/cc/2008/609)).
+[^195-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^195-2]: [[AS 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511). [AS 2008 4303](https://fedlex.data.admin.ch/eli/oc/2008/609)Art. 70]. Siehe heute: die V des EDI vom 5. Sept. 2008 über Ausbildungen in der Tierhaltung und im Umgang mit Tieren ([SR 455.109.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7200)).
 [^195-3]: Art. 75 Abs. 2 der Tierschutzverordnung vom 27. Mai 1981 ([AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
 
 #### Art. 196
@@ -3399,7 +3399,7 @@ Als Ausbildung in einem Fischereiberuf gelten:
 - c. eine gleichwertige, von der zuständigen kantonalen Stelle bestätigte Ausbildung oder praktische Erfahrung von mindestens drei Jahren.
 
 [^196-1]: Die Berichtigung vom 4. Sept. 2018 betrifft nur den italienischen Text ([AS 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
-[^196-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^196-2]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^196-3]: Die Berichtigung vom 4. Sept. 2018 betrifft nur den italienischen Text ([AS 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
 
 #### Art. 197
@@ -3449,7 +3449,7 @@ Fachspezifische berufsunabhängige Ausbildungen können angeboten werden von:
 
 [^198a-1]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.sunv.ch](https://www.snv.ch).
 [^198a-2]: Die aufgeführte Norm kann kostenlos abgerufen werden unter: [https://alice.ch](https://alice.ch) &gt; Qualität &gt; Qualitätslabel eduQua.
-[^198a-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^198a-3]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 198b
 
@@ -3459,7 +3459,7 @@ Fachspezifische berufsunabhängige Ausbildungen können angeboten werden von:
 
 <sup>2</sup> Kontrollen, die zu Beanstandungen geführt haben, können der Ausbildungsorganisation nach der Gebührenverordnung BLV vom 30. Oktober 1985[^198b-1] nach Zeitaufwand in Rechnung gestellt werden.
 
-[^198b-1]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^198b-1]: [SR 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 #### Art. 198c
 
@@ -3550,12 +3550,12 @@ Personen mit einer ausländischen Berufsqualifikation müssen ihren Abschluss vo
 <sup>3</sup> Für Personen, die sich auf Anhang III des Abkommens vom 21. Juni 1999[^200a-5] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit oder Anhang K des Übereinkommens vom 4. Januar 1960[^200a-6] zur Errichtung der Europäischen Freihandelsassoziation (EFTA) berufen können, bleiben die Bestimmungen des Bundesgesetzes vom 14. Dezember 2012[^200a-7] über die Meldepflicht und die Nachprüfung der Berufsqualifikation von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen vorbehalten.
 
 [^200a-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200a-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^200a-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^200a-2]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^200a-3]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^200a-4]: Die Liste der zuständigen Behörden findet sich unter: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Bildung &gt; Anerkennung ausländischer Diplome.
-[^200a-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^200a-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^200a-7]: [SR 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^200a-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^200a-6]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^200a-7]: [SR 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 
 #### Art. 201
 
@@ -3725,7 +3725,7 @@ Die Formularvorlage für Bewilligungsgesuche für Betreuungs- und Pflegedienstle
 
 <sup>2</sup> Der Kanton setzt die für einen wirksamen Vollzug erforderliche Anzahl Personen ein. Die Anforderungen richten sich nach der Verordnung vom 16. November 2011[^210-1] über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen.[^210-2]
 
-[^210-1]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^210-1]: [SR 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 [^210-2]: Fassung gemäss Anhang 2 Ziff. II 2 der V vom 16. Nov. 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen, in Kraft seit 1. Jan. 2012 ([AS 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
 #### Art. 211
@@ -3780,7 +3780,7 @@ Die kantonalen Behörden teilen dem BLV sämtliche Strafentscheide und Einstellu
 <sup>4 und <sup>5</sup></sup> …[^213-4]
 
 [^213-1]: Fassung gemäss Anhang 2 Ziff. 1 der Kontrollkoordinationsverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
-[^213-2]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^213-2]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^213-3]: Fassung gemäss Anhang 4 Ziff. 2 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^213-4]: Aufgehoben durch Anhang 4 Ziff. 2 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, mit Wirkung seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
@@ -3994,7 +3994,7 @@ Anhang 1[^t-1]
 
 ## Mindestanforderungen für das Halten von Haustieren
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), der Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), Ziff. II der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) und vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), der Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), Ziff. II der V vom 10. Jan. 2018 ([AS 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) und vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)). Die Berichtigung vom 27. Nov. 2025 betrifft nur den französischen Text ([AS 2025 761](https://fedlex.data.admin.ch/eli/oc/2025/761)).
 
 Vorbemerkungen
 

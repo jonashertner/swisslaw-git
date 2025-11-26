@@ -4,11 +4,11 @@ title: Ordinanza del 23 aprile 2008 sulla protezione degli animali (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: it
-version: 2025-02-01
+version: 2025-11-27
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20250201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20251127/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20251127-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20251127/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20250201/it"
 
 (OPAn)
 
-del 23 aprile 2008 (Stato 1° febbraio 2025)
+del 23 aprile 2008 (Stato 27 novembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge federale del 16 dicembre 2005[^ingress-1] sulla protezione degli 
 
 ordina:
 
-[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 ## Capitolo 1: Disposizioni generali
@@ -109,10 +109,10 @@ Ai sensi della presente ordinanza, si intendono per:
 [^2-4]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 [^2-5]: Abrogata dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^2-6]: Nuovo testo giusta la cifra III n. 1 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
-[^2-7]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
+[^2-7]: [RS 455.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7207)
 [^2-8]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^2-9]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-10]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-10]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^2-11]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## Capitolo 2: Detenzione e trattamento degli animali
@@ -431,7 +431,7 @@ I detentori di cani devono notificare al servizio specializzato cantonale le seg
 <sup>3</sup> Il servizio specializzato cantonale inserisce le caratteristiche nella banca dati di cui all’articolo 30 capoverso 2 della legge del 1° luglio 1966[^22-2] sulle epizoozie (LFE).
 
 [^22-1]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^22-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^22-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 23
 
@@ -453,7 +453,7 @@ Per quanto riguarda i pesci e i decapodi è inoltre vietato:
 
 [^23-1]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^23-2]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^23-3]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^23-3]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 #### Art. 24
 
@@ -514,7 +514,7 @@ Sono vietati:
 <sup>3</sup> Nell’allevamento di pesci commestibili e di pesci da ripopolamento le persone che utilizzano metodi di riproduzione artificiale devono avere conseguito una formazione di cui all’articolo 196.
 
 [^27-1]: Nuova espr. giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^27-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^27-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 28
 
@@ -1124,8 +1124,8 @@ Sono considerati cani da lavoro:
 <sup>4</sup> I cani da protezione del bestiame sono i cani impiegati nell’agricoltura secondo l’obiettivo di cui all’articolo 10*d* capoverso 1 dell’ordinanza del 29 febbraio 1988[^69-2] sulla caccia e registrati in quanto tali nella banca dati secondo l’articolo 30 LFE[^69-3], oppure destinati a tale impiego.[^69-4]
 
 [^69-1]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^69-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
-[^69-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^69-2]: [RS 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+[^69-3]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^69-4]: Introdotto dalla cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 70
@@ -1232,9 +1232,9 @@ La persona responsabile dell’addestramento dei cani per i servizi di difesa de
 <sup>6</sup> L’autorità competente inserisce l’inizio dell’addestramento dei cani per i servizi di difesa nella banca dati secondo l’articolo 30 capoverso 2 LFE[^74-4].[^74-5]
 
 [^74-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^74-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^74-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^74-3]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^74-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^74-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^74-5]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 75
@@ -1318,7 +1318,7 @@ Chiunque impiega apparecchi soggetti ad autorizzazione deve documentarlo e prese
 <sup>5</sup> I detentori di cani devono notificare al servizio specializzato cantonale se i cani importati hanno le orecchie corte o la coda corta. Il servizio specializzato cantonale inserisce le caratteristiche nella banca dati di cui all’articolo 30 capoverso 2 LFE[^76a-2].
 
 [^76a-1]: Introdotto dalla cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^76a-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^76a-2]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 76b
 
@@ -1396,7 +1396,7 @@ I veterinari, i medici, i responsabili di pensioni o rifugi per animali, le pers
 
 [^79-1]: Abrogato dalla cifra I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^79-2]: Nuovo testo giusta l’all. 3 cifra II n. 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
-[^79-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^79-3]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^79-4]: Introdotto dall’all. 3 cifra II n. 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)). Nuovo testo giusta l’all. 4 cifra II n. 1 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 11: Gatti
@@ -1626,7 +1626,7 @@ Tranne nel caso delle aziende di piscicoltura, il registro di controllo dell’e
 
 [^93-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^93-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^93-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^93-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^93-4]: Correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
 
 ### Sezione 3: Autorizzazioni
@@ -1695,7 +1695,7 @@ La durata massima dell’autorizzazione è di:
 <sup>3</sup> Chiunque cattura, marchia, alleva o uccide a titolo non professionale pesci commestibili, pesci da ripopolamento o decapodi o chi detiene pesci commestibili o pesci da ripopolamento a titolo non professionale deve fornire un attestato di competenza secondo l’articolo 5*a* dell’ordinanza del 24 novembre 1993[^97-2] concernente la legge federale sulla pesca o secondo l’articolo 198 della presente ordinanza. È consentito catturare e uccidere pesci senza tale attestato soltanto se, per la pesca nelle acque pubbliche nel Cantone in questione, non è richiesta alcuna licenza o è richiesta soltanto una licenza di durata non superiore a un mese.[^97-3]
 
 [^97-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^97-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^97-2]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 [^97-3]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 98
@@ -1732,7 +1732,7 @@ La durata massima dell’autorizzazione è di:
 
 <sup>4</sup> I pesci che hanno raggiunto la lunghezza di cattura richiesta e sono immessi in acque ferme all’unico scopo di essere ricatturati possono essere pescati soltanto dopo un termine di attesa di almeno un giorno.
 
-[^100-1]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
+[^100-1]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
 
 ## Capitolo 5: Trattamento professionale degli animali
 
@@ -1855,9 +1855,9 @@ Per il commercio o la pubblicità con animali, la persona responsabile dell’ac
 
 [^103-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^103-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^103-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^103-3]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^103-4]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^103-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^103-5]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^103-6]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-7]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
@@ -1873,7 +1873,7 @@ Per il commercio o la pubblicità con animali, la persona responsabile dell’ac
 
 <sup>4</sup> L’autorità cantonale decide se è necessario presentare ulteriore documentazione.
 
-[^104-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^104-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^104-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 105
@@ -2026,7 +2026,7 @@ Il direttore del centro di detenzione di animali da laboratorio deve aver conseg
 
 <sup>2</sup> Il numero dei guardiani di animali deve consentire di regolamentare le supplenze, in particolare per la sorveglianza di animali geneticamente modificati secondo l’articolo 3 lettera d dell’ordinanza del 9 maggio 2012[^116-1] sull’impiego confinato, di animali con mutazioni patologiche e per i lavori di documentazione prescritti.[^116-2]
 
-[^116-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^116-1]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^116-2]: Nuovo testo giusta l’all. 5 n. 2 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 117
@@ -2402,7 +2402,7 @@ Sono inammissibili gli esperimenti che compromettono il benessere degli animali:
 
 <sup>2</sup> La produzione di animali geneticamente modificati è ammessa soltanto per gli scopi di cui all’articolo 9 della legge del 21 marzo 2003[^138-1] sull’ingegneria genetica.[^138-2]
 
-[^138-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^138-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 [^138-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ### Sezione 5: Autorizzazione di esperimenti sugli animali
@@ -2969,7 +2969,7 @@ Nei trasporti aerei sono ammesse deroghe alle prescrizioni di trasporto qualora 
 
 L’USAV comunica allo Stato in cui è registrata l’impresa i dettagli sulle violazioni accertate se esso è parte contraente della Convenzione europea del 6 novembre 2003[^171-1] sulla protezione degli animali nel trasporto internazionale.
 
-[^171-1]: [RS 0.452](https://fedlex.data.admin.ch/eli/cc/2006/291)
+[^171-1]: [RS 0.452](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1849)
 
 #### Art. 172
 
@@ -3039,7 +3039,7 @@ Il personale del macello deve aver conseguito una formazione di cui all’artico
 [^177-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^177-2]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^177-3]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^177-4]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^177-4]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 177a
 
@@ -3265,7 +3265,7 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 
 <sup>3</sup> Per la sorveglianza ufficiale dell’esecuzione della legislazione sulla protezione degli animali nell’ambito della macellazione non sono riscossi emolumenti.
 
-[^188-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. cifra II n. 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)**)**.
+[^188-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. cifra II n. 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)**)**.
 
 ## Capitolo 9: Formazione e formazione continua in materia di detenzione di animali
 
@@ -3387,7 +3387,7 @@ Alla formazione professionale di base di cui al capoverso 1 lettera a è equipar
 
 [^194-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^194-2]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
-[^194-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^194-3]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^194-4]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
 
 #### Art. 195
@@ -3400,8 +3400,8 @@ Ai sensi della presente ordinanza si intendono per guardiani di animali le perso
 - b. un certificato di capacità secondo l’ordinanza del DFI del 22 agosto 1986[^195-2] concernente l’ottenimento del certificato di capacità di guardiano d’animali;
 - c. un certificato di capacità rilasciato dall’USAV prima del 1998[^195-3].
 
-[^195-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^195-2]: [[RU 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511). [RU 2008 4303](https://fedlex.data.admin.ch/eli/oc/2008/609)art. 70]. Vedi ora l’O del 5 set. 2008 concernente le formazioni per la detenzione e il trattamento degli animali ([RS 455.109.1](https://fedlex.data.admin.ch/eli/cc/2008/609)).
+[^195-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^195-2]: [[RU 1986 1511](https://fedlex.data.admin.ch/eli/oc/1986/1511_1511_1511). [RU 2008 4303](https://fedlex.data.admin.ch/eli/oc/2008/609)art. 70]. Vedi ora l’O del 5 set. 2008 concernente le formazioni per la detenzione e il trattamento degli animali ([RS 455.109.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7200)).
 [^195-3]: Art. 75 cpv. 2 dell’O del 27 mag. 1981 sulla protezione degli animali ([RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
 
 #### Art. 196
@@ -3415,7 +3415,7 @@ Rientrano nelle professioni legate alla pesca le formazioni seguenti:
 - c. una formazione equivalente confermata dall’ufficio cantonale competente o un’esperienza pratica di almeno tre anni.
 
 [^196-1]: Correzione del 4 set. 2018 ([RU 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
-[^196-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^196-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^196-3]: Correzione del 4 set. 2018 ([RU 2018 3151](https://fedlex.data.admin.ch/eli/oc/2018/503)).
 
 #### Art. 197
@@ -3465,7 +3465,7 @@ Le formazioni specialistiche non legate a una professione possono essere offerte
 
 [^198a-1]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso lʼAssociazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 [^198a-2]: La norma menzionata può essere consultata gratuitamente all’indirizzo seguente: [https://alice.ch/it/](https://alice.ch/it/) &gt; Qualità &gt; Il label di qualità eduQua.
-[^198a-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^198a-3]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 198b
 
@@ -3475,7 +3475,7 @@ Le formazioni specialistiche non legate a una professione possono essere offerte
 
 <sup>2</sup> I controlli che hanno dato luogo a reclami possono essere addebitati, in funzione del dispendio di tempo, all’organizzazione di formazione secondo l’ordinanza del 30 ottobre 1985[^198b-1] sulle tasse dell’USAV.
 
-[^198b-1]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^198b-1]: [RS 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 #### Art. 198c
 
@@ -3566,12 +3566,12 @@ Le persone che dispongono di una qualifica professionale estera prima di esercit
 <sup>3</sup> Per le persone che possono far valere l’allegato III dell’Accordo del 21 giugno 1999[^200a-5] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone oppure l’allegato K della Convenzione del 4 gennaio 1960[^200a-6] istitutiva dell’Associazione europea di libero scambio (AELS) rimangono salve le disposizioni della legge federale del 14 dicembre 2012[^200a-7] sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate.
 
 [^200a-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^200a-4]: L’elenco delle autorità competenti è disponibile su: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Formazione &gt; Riconoscimento dei diplomi esteri.
-[^200a-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^200a-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^200a-7]: [RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)
+[^200a-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^200a-6]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^200a-7]: [RS 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)
 
 #### Art. 201
 
@@ -3741,7 +3741,7 @@ Il modello di formulario per le domande di autorizzazione per servizi di accudim
 
 <sup>2</sup> Il Cantone impiega persone in numero tale da assicurare un’esecuzione efficace. Le esigenze sono disciplinate dall’ordinanza del 16 novembre 2011[^210-1] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.[^210-2]
 
-[^210-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^210-1]: [RS 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 [^210-2]: Nuovo testo giusta l’all. 2 cifra II n. 2 dell’O del 16 nov. 2011 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
 #### Art. 211
@@ -3796,7 +3796,7 @@ Le autorità cantonali comunicano all’USAV tutte le decisioni penali e le deci
 <sup>4 e <sup>5</sup></sup> …[^213-4]
 
 [^213-1]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 26 ott. 2011 sul coordinamento dei controlli, in vigore dal 1° gen. 2012 ([RU 2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)).
-[^213-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^213-2]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^213-3]: Nuovo testo giusta l’all. 4 n. 2 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^213-4]: Abrogati dall’all. 4 n. 2 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
@@ -4010,7 +4010,7 @@ Allegato 1[^t-1]
 
 ## Requisiti minimi per la detenzione di animali domestici
 
-[^t-1]: Aggiornato dalla cifra II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dalla cifra II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), dalle cifre II dell’O del 10 gen. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) e del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dalla cifra II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)), dalle cifre II dell’O del 10 gen. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)) e del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 21](https://fedlex.data.admin.ch/eli/oc/2025/21)). La correzione del 27 nov. 2025 concerne soltanto il testo francese ([RU 2025 761](https://fedlex.data.admin.ch/eli/oc/2025/761)).
 
 Osservazioni preliminari
 
