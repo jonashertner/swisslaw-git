@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: Übereinkommen vom 7. Dezember 1944 über die internationale Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: de
-version: 2024-11-28
+version: 2025-11-27
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20241128/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20241128-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20241128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20251127/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20251127-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20251127/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 6. Februar 1947
 
 In Kraft getreten für die Schweiz am 4. April 1947
 
-(Stand am 28. November 2024)
+(Stand am 27. November 2025)
 
 [^t-1]: Konsolidierte Version ([AS 1971 1301](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 
@@ -74,8 +74,8 @@ Für die Zwecke dieses Übereinkommens gelten als Hoheitsgebiet eines Staates di
 - c) Jedes Zivilluftfahrzeug hat eine in Übereinstimmung mit Absatz b dieses Artikels erteilte Anweisung zu befolgen. Zu diesem Zweck nimmt jeder Vertragsstaat alle erforderlichen Bestimmungen in seine nationalen Gesetze und Vorschriften auf, um eine derartige Befolgung für alle Zivilluftfahrzeuge verbindlich zu machen, die in diesem Staat eingetragen sind oder von einem Halter betrieben werden, der seinen Hauptgeschäftssitz oder seinen ständigen Aufenthalt in diesem Staat hat. Jeder Vertragsstaat unterwirft jegliche Verletzung dieser anzuwendenden Gesetze oder Vorschriften strengen Sanktionen und unterbreitet den Fall seinen zuständigen Behörden gemäss seinen Gesetzen oder Vorschriften.
 - d) Jeder Vertragsstaat trifft geeignete Massnahmen im Hinblick auf ein Verbot der vorsätzlichen Verwendung eines Zivilluftfahrzeuges, das in diesem Staat eingetragen ist oder von einem Halter betrieben wird, der seinen Hauptgeschäftssitz oder seinen ständigen Aufenthalt in diesem Staat hat, für Zwecke, die mit den Zielen dieses Übereinkommens unvereinbar sind. Diese Bestimmung lässt Absatz a unberührt und schränkt die Absätze b und c dieses Artikels nicht ein.
 
-[^3bis-1]: Eingefügt durch das Prot. vom 10. Mai 1984, von der BVers genehmigt am 2. Dez. 1985, für die Schweiz in Kraft seit 1. Okt. 1998 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3997](https://fedlex.data.admin.ch/eli/oc/2004/579); [BBl 1985 II 185](https://fedlex.data.admin.ch/eli/fga/1985/2_185_187_174)).
-[^3bis-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^3bis-1]: Eingefügt durch das Prot. vom 10. Mai 1984, von der BVers genehmigt am 2. Dez. 1985, für die Schweiz in Kraft seit 1. Okt. 1998 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580), [3997](https://fedlex.data.admin.ch/eli/oc/2004/579); [BBl 1985 II 185](https://fedlex.data.admin.ch/eli/fga/1985/2_185_187_174)).
+[^3bis-2]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 4
 
@@ -241,7 +241,7 @@ Bei einem Unfall, der dem Luftfahrzeug eines Vertragsstaates im Hoheitsgebiet ei
 - b) Die Bestimmungen des Absatzes a) dieses Artikels finden auch auf die Lagerung von Ersatzteilen und Ersatzausrüstung für das Luftfahrzeug sowie auf das Recht Anwendung, diese bei Instandsetzung eines Luftfahrzeuges eines Vertragsstaates im Hoheitsgebiet eines anderen Vertragsstaates zu verwenden und einzubauen, vorausgesetzt, dass dieser gelagerte patentierte Teil oder Ausrüstungsgegenstand weder in dem Vertragsstaat, in den das Luftfahrzeug eingeflogen ist, verkauft oder abgegeben, noch aus diesem Staat zu gewerblichen Zwecken ausgeführt wird.
 - c) Die Vergünstigungen dieses Artikels gelten nur für die Vertragsstaaten dieses Übereinkommens, die entweder 1) Parteien der internationalen Übereinkunft zum Schutze des gewerblichen Eigentums und deren Änderungen[^27-1] sind, oder 2) Patentgesetze erlassen haben, welche die Erfindungen von Staatsangehörigen der anderen Vertragsstaaten dieses Übereinkommens anerkennen und ihnen angemessenen Schutz gewähren.
 
-[^27-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [SR 0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
+[^27-1]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [SR 0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028)
 
 #### Art. 28
 
@@ -425,7 +425,7 @@ Die Organisation geniesst im Hoheitsgebiet jedes Vertragsstaates die zur Ausübu
 - b) Alle Vertragsstaaten haben das gleiche Recht, bei den Tagungen der Versammlung vertreten zu sein, und jedem Vertragsstaat steht eine Stimme zu. Die Vertreter der Vertragsstaaten können von technischen Beratern unterstützt werden, die an den Tagungen teilnehmen dürfen, aber kein Stimmrecht haben.
 - c) Die Mehrheit der Vertragsstaaten ist erforderlich, um bei Tagungen der Versammlung das Quorum zu bilden. Sofern dieses Übereinkommen nichts anderes bestimmt, sind die Beschlüsse der Versammlung mit der Mehrheit der abgegebenen Stimmen zu fassen.
 
-[^48-1]: Bereinigt durch das Prot. vom 14. Juni 1954, genehmigt durch die BVers am 12. März 1956 ([AS 1957 202](https://fedlex.data.admin.ch/eli/oc/1957/202_206_216); BBl **1955** II 495) und vom 15. Sept. 1962, genehmigt durch die BVers am 19. Juli 1963, für die Schweiz in Kraft seit 11. Sept. 1975 ([AS 1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496), BBl **1963** II 192).
+[^48-1]: Bereinigt durch das Prot. vom 14. Juni 1954, genehmigt durch die BVers am 12. März 1956 ([AS 1957 202](https://fedlex.data.admin.ch/eli/oc/1957/202_206_216); BBl **1955** II 495) und vom 15. Sept. 1962, genehmigt durch die BVers am 19. Juli 1963, für die Schweiz in Kraft seit 11. Sept. 1975 ([AS 1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); BBl **1963** II 192).
 
 #### Art. 49
 
@@ -597,7 +597,7 @@ Der Rat kann im Namen der Organisation mit anderen internationalen Körperschaft
 - a) Die Organisation hat auch die ihr durch das Abkommen über den Durchflug im internationalen Fluglinienverkehr und das Abkommen über den internationalen Luftverkehr[^66-1], die am 7. Dezember 1944 in Chicago abgefasst wurden, übertragenen Tätigkeiten gemäss den darin festgelegten Bestimmungen und Bedingungen auszuüben.
 - b) Mitglieder der Versammlung und des Rates, die das Abkommen über den Durchflug im internationalen Fluglinienverkehr oder das Abkommen über den internationalen Luftverkehr, die am 7. Dezember 1944 in Chicago abgefasst wurden, nicht angenommen haben, dürfen über Fragen, die der Versammlung oder dem Rat nach den Bestimmungen des betreffenden Abkommens vorgelegt werden, nicht abstimmen.
 
-[^66-1]: [SR 0.748.111.2](https://fedlex.data.admin.ch/eli/cc/63/1408_1408_1412)
+[^66-1]: [SR 0.748.111.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3116)
 
 ## Teil III Internationaler Luftverkehr
 
@@ -721,7 +721,7 @@ Vorbehaltlich der Bestimmungen des vorhergehenden Artikels kann jeder Vertragsst
 - b) Die Übertragung wird für andere Vertragsstaaten erst wirksam, wenn entweder die Vereinbarung zwischen den betreffenden Staaten, in der diese Übertragung festgelegt wird, beim Rat registriert und gemäss Artikel 83 veröffentlicht wurde, oder wenn das Bestehen und der Umfang der Vereinbarung den Behörden des anderen Vertragsstaates oder den anderen Vertragsstaaten durch einen Vertragsstaat dieser Vereinbarung mitgeteilt wurden.
 - c) Die Bestimmungen der Absätze a und b gelten auch für Fälle nach Artikel 77.
 
-[^83bis-1]: Eingefügt durch das Prot. vom 6. Okt. 1980, von der BVers genehmigt am 26. Nov. 1984, für die Schweiz in Kraft seit 20. Juni 1997 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3995](https://fedlex.data.admin.ch/eli/oc/2004/578); [BBl 1984 I 665](https://fedlex.data.admin.ch/eli/fga/1984/1_665_666_498)).
+[^83bis-1]: Eingefügt durch das Prot. vom 6. Okt. 1980, von der BVers genehmigt am 26. Nov. 1984, für die Schweiz in Kraft seit 20. Juni 1997 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580), [3995](https://fedlex.data.admin.ch/eli/oc/2004/578); [BBl 1984 I 665](https://fedlex.data.admin.ch/eli/fga/1984/1_665_666_498)).
 
 ### Kapitel XVIII Streitigkeiten und Unterlassungen
 
@@ -731,7 +731,7 @@ Vorbehaltlich der Bestimmungen des vorhergehenden Artikels kann jeder Vertragsst
 
 Wenn eine Meinungsverschiedenheit zwischen zwei oder mehr Vertragsstaaten über die Auslegung oder Anwendung dieses Übereinkommens und seiner Anhänge nicht auf dem Verhandlungswege beigelegt werden kann, ist sie auf Ersuchen eines an der Meinungsverschiedenheit beteiligten Staates vom Rat zu entscheiden. Bei Prüfung eines Streitfalles durch den Rat darf ein daran beteiligtes Mitglied des Rates nicht abstimmen. Jeder Vertragsstaat kann vorbehaltlich des Artikels 85 gegen die Entscheidung des Rates bei einem zu diesem Zweck gebildeten Schiedsgericht, auf das sich die Parteien des Streitfalles geeinigt haben, oder bei dem Ständigen Internationalen Gerichtshof[^84-1] Berufung einlegen. Eine derartige Berufung ist dem Rat innerhalb von sechzig Tagen nach Eingang der Mitteilung über die Entscheidung des Rates anzuzeigen.
 
-[^84-1]: Heute: Internationaler Gerichtshof (Art. 37 des Statuts des Internationalen Gerichtshofs – [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^84-1]: Heute: Internationaler Gerichtshof (Art. 37 des Statuts des Internationalen Gerichtshofs – [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 85
 
@@ -739,7 +739,7 @@ Wenn eine Meinungsverschiedenheit zwischen zwei oder mehr Vertragsstaaten über 
 
 Wenn ein Vertragsstaat, der an einem Streitfall beteiligt ist, in dem gegen die Entscheidung des Rates Berufung eingelegt wurde, die Satzungen des Ständigen Internationalen Gerichtshofes[^85-1] nicht angenommen hat und wenn die an dem Streitfall beteiligten Vertragsstaaten sich über die Wahl des Schiedsgerichtes nicht einigen können, hat jeder der an dem Streitfall beteiligten Vertragsstaaten einen Schiedsrichter namhaft zu machen, die ihrerseits einen Oberschiedsrichter benennen. Wenn es einer der an dem Streitfall beteiligten Vertragsstaaten unterlässt, innerhalb von drei Monaten nach dem Zeitpunkt der Berufung einen Schiedsrichter namhaft zu machen, ist ein Schiedsrichter im Namen dieses Staates vom Präsidenten des Rates aus einer vom Rat geführten Liste geeigneter und verfügbarer Personen zu benennen. Wenn sich die Schiedsrichter innerhalb von dreissig Tagen nicht auf einen Oberschiedsrichter einigen können, hat der Präsident des Rates aus der vorgenannten Liste einen Oberschiedsrichter zu bezeichnen. Die Schiedsrichter und der Oberschiedsrichter bilden dann zusammen ein Schiedsgericht. Ein nach diesem oder dem vorhergehenden Artikel gebildetes Schiedsgericht hat sein Verfahren selbst festzulegen und seine Entscheidungen mit Stimmenmehrheit zu treffen, wobei jedoch der Rat im Falle einer nach seiner Ansicht übermässigen Verzögerung über Verfahrensfragen bestimmen kann.
 
-[^85-1]: Heute: Internationaler Gerichtshof (Art. 37 des Statuts des Internationalen Gerichtshofs –[SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^85-1]: Heute: Internationaler Gerichtshof (Art. 37 des Statuts des Internationalen Gerichtshofs –[SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 86
 
@@ -840,7 +840,7 @@ Vierzehnte Auflage, Juli 2018, anwendbar seit 3. November 2022
 
 Letzte Änderung: Nr. 179, anwendbar seit 28. November 2024
 
-[^t-3]: Die Anhänge sind weder in der AS noch in der SR veröffentlicht ([AS 2024 768](https://fedlex.data.admin.ch/eli/oc/2024/768)).
+[^t-3]: Die Anhänge sind weder in der AS noch in der SR veröffentlicht ([AS 2026 40](https://fedlex.data.admin.ch/eli/oc/2026/40)).
 
 *Anhang 2* Verkehrsregeln
 
@@ -854,7 +854,7 @@ Zwanzigste Auflage, Juli 2018
 
 Teil II: Beilage und Zusätze
 
-Letzte Änderung: Nr. 81, anwendbar seit 28. November 2024
+Letzte Änderung: Nr. 82, anwendbar seit 27. November 2025
 
 *Anhang 4* Luftfahrtkarten
 
@@ -904,7 +904,7 @@ Letzte Änderung: –
 
 Sechzehnte Auflage, Juli 2022, anwendbar seit 18. November 2022
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 30, anwendbar seit 11. Juli 2025
 
 *Anhang 10* Flugfunk
 
@@ -912,19 +912,19 @@ Volume I: Radionavigationshilfen
 
 Siebte Auflage, Juli 2018
 
-Letzte Änderung: Nr. 92, anwendbar seit 5. November 2020
+Letzte Änderung: Nr. 94, anwendbar seit 27. November 2025
 
 Volume II: Kommunikationsverfahren, inkl. jener mit Eigenschaften der Flugsicherungsverfahren
 
 Siebte Auflage, Juli 2016
 
-Letzte Änderung: Nr. 93, anwendbar seit 28. November 2024
+Letzte Änderung: Nr. 94, anwendbar seit 27. November 2025
 
 Volume III: Kommunikationssysteme (Teil 1 – Kommunikationssysteme digitaler Daten; Teil 2 – Sprachgestützte Kommunikationssysteme)
 
 Zweite Auflage, Juli 2007
 
-Letzte Änderung: Nr. 92, anwendbar seit 28. November 2024
+Letzte Änderung: Nr. 93, anwendbar seit 27. November 2025
 
 Volume IV: Überwachungs- und Antikollisionssysteme
 
@@ -936,13 +936,13 @@ Volume V: Anwendungsspektrum aeronautischer Frequenzen
 
 Dritte Auflage, Juli 2013, anwendbar seit 14. November 2013
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 91, anwendbar seit 27. November 2025
 
 *Anhang 11* Luftverkehrsdienste (ATC, Luftraumüberwachung)
 
 Fünfzehnte Auflage, Juli 2018
 
-Letzte Änderung: Nr. 53, anwendbar seit 28. November 2024
+Letzte Änderung: Nr. 54, anwendbar seit 27. November 2025
 
 *Anhang 12* Suche und Rettung (SAR)
 
@@ -962,7 +962,7 @@ Volume I: Konzeption und technischer Betrieb von Flugplätzen
 
 Neunte Auflage, Juli 2022, anwendbar seit 3. November 2022
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 18, anwendbar seit 27. November 2025
 
 Volume II: Helikopterlandeplätze
 
@@ -974,7 +974,7 @@ Letzte Änderung: –
 
 Sechszehnte Auflage, Juli 2018
 
-Letzte Änderung: Nr. 43, anwendbar seit 28. November 2024
+Letzte Änderung: Nr. 44, anwendbar seit 27. November 2025
 
 *Anhang 16* Umweltschutz
 
@@ -1022,9 +1022,9 @@ Letzte Änderung: –
 
 \2. Die Anhänge und ihre Änderungen werden nicht in der Amtlichen Sammlung des Bundesrechts veröffentlicht und werden nicht in die Landessprachen übersetzt. Eine Ausnahme bildet das Französische, welches eine offizielle Sprache der Internationalen Zivilluftfahrtorganisation (ICAO) ist.
 
-\3. Die Anhänge werden auf der Website des Bundesamtes für Zivilluftfahrt (BAZL) publiziert[^t-4]. Sie können zudem bei der Internationalen Zivilluftfahrtorganisation (ICAO) kostenpflichtig bezogen werden.
+\3. Die Anhänge werden auf der Website des Bundesamtes für Zivilluftfahrt (BAZL)[^t-4] publiziert. Sie können zudem bei der Internationalen Zivilluftfahrtorganisation (ICAO) kostenpflichtig bezogen werden.
 
-[^t-4]: Link zum Text der Anhänge: [www.bazl.admin.ch](https://www.bazl.admin.ch) &gt; Themen &gt; Rechtliche Grundlagen &gt; Anhänge zur Konvention der ICAO.
+[^t-4]: [www.bazl.admin.ch](https://www.bazl.admin.ch/) &gt; Themen &gt; Rechtliche Grundlagen &gt; Internationale Zivilluftfahrt Organisation &gt; Anhänge zur Konvention der ICAO.
 
 Geltungsbereich am 29. Mai 2024[^t-5]
 
@@ -1242,4 +1242,4 @@ Bei der Hinterlegung der Ratifikationsurkunde am 6. Februar 1947 gab die Schweiz
 
 Meine Regierung hat mich beauftragt, Ihnen bekanntzugeben dass die schweizerischen Behörden mit den Behörden des Fürstentums Liechtenstein vereinbart haben, dass das Abkommen ebenfalls auf das Fürstentum Liechtenstein Anwendung findet, solange der Vertrag vom 29. März 1923[^t-6] über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet in Kraft steht.
 
-[^t-6]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^t-6]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)

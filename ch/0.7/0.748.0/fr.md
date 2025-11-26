@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: "Convention du 7 décembre 1944 relative à l'aviation civile internationale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: fr
-version: 2024-11-28
+version: 2025-11-27
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20241128/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20241128-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20241128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20251127/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20251127-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20251127/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification déposés par la Suisse le 6 février 1947
 
 Entrée en vigueur pour la Suisse le 4 avril 1947
 
-(État le 28 novembre 2024)
+(État le 27 novembre 2025)
 
 [^t-1]: Version consolidée ([RO 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 [^t-2]: RO **63** 1377
@@ -76,7 +76,7 @@ Aux fins de la présente Convention, il faut entendre par territoire d’un Éta
 - d) Chaque État contractant prendra des mesures appropriées pour interdire l’emploi délibéré de tout aéronef civil immatriculé dans ledit État ou utilisé par un exploitant qui a le siège principal de son exploitation ou sa résidence permanente dans ledit État à des fins incompatibles avec les buts de la présente Convention. Cette disposition ne porte pas atteinte à l’al. a et ne déroge pas aux al. b et c du présent article.
 
 [^3bis-1]: Introduit par le prot. du 10 mai 1984, approuvé par l’Ass. féd. le 2 déc. 1985, en vigueur pour la Suisse depuis le 1<sup>er</sup> oct. 1998 ([RO 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3997](https://fedlex.data.admin.ch/eli/oc/2004/579); [FF 1985 II 187](https://fedlex.data.admin.ch/eli/fga/1985/2_185_187_174)).
-[^3bis-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^3bis-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 4
 
@@ -242,7 +242,7 @@ En cas d’accident survenu à un aéronef d’un État contractant sur le terri
 - b) Les dispositions du par. a) du présent article s’appliquent aussi à l’entreposage des pièces et du matériel de rechange pour les aéronefs, ainsi qu’au droit d’utiliser et de monter ces pièces et matériel lors de la réparation d’un aéronef d’un État contractant sur le territoire d’un autre État contractant, aucune pièce ni aucun matériel breveté ainsi entreposé ne pouvant être vendu ou cédé à l’intérieur de l’État contractant sur le territoire duquel a pénétré l’aéronef, ou exporté de cet État à des fins commerciales.
 - c) Seuls bénéficient des dispositions du présent article les États parties à la présente Convention 1) qui sont également parties à la Convention internationale sur la protection de la propriété industrielle et à tous amendements à ladite Convention[^27-1] ou 2) qui ont promulgué, sur les brevets, des lois reconnaissant et protégeant d’une manière adéquate les inventions des ressortissants des autres États parties à la présente Convention.
 
-[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
+[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027), [0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028)
 
 #### Art. 28
 
@@ -323,7 +323,7 @@ Tout État contractant peut interdire ou réglementer l’usage d’appareils ph
 
 Chaque État contractant s’engage à prêter son concours pour atteindre le plus haut degré réalisable d’uniformité dans les règlements, les normes, les procédures et l’organisation relatifs aux aéronefs, au personnel, aux voies aériennes et aux services auxiliaires, dans toutes les matières pour lesquelles une telle uniformité facilite et améliore la navigation aérienne.
 
-et, lorsqu’il paraît approprié de le faire, de tout autre sujet intéressant la sécurité a régularité et l’efficacité de la navigation aérienne.
+et, lorsqu’il paraît approprié de le faire, de tout autre sujet intéressant la sécurité, la régularité et l’efficacité de la navigation aérienne.
 
 À cette fin, l’Organisation de l’Aviation civile internationale adopte et amende, selon les nécessités, les normes, pratiques recommandées et procédures internationales traitant des sujets suivants:
 
@@ -598,7 +598,7 @@ Le Conseil peut, au nom de l’Organisation, conclure avec d’autres organismes
 - a) L’Organisation exerce également les fonctions que lui confèrent l’Accord relatif au Transit des Services aériens internationaux[^66-1] et l’Accord relatif au Transport aérien international, établis à Chicago le 7 décembre 1944, conformément aux dispositions desdits accords.
 - b) Les membres de l’Assemblée et du Conseil qui n’ont pas accepté l’Accord relatif au Transit des Services aériens internationaux ou l’Accord relatif au Transport aérien international établis à Chicago le 7 décembre 1944, n’ont pas droit de vote sur les questions soumises à l’Assemblée ou au Conseil en vertu des dispositions de l’Accord en cause.
 
-[^66-1]: [RS 0.748.111.2](https://fedlex.data.admin.ch/eli/cc/63/1408_1408_1412)
+[^66-1]: [RS 0.748.111.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3116)
 
 ## Troisième partie Transport aérien international
 
@@ -732,7 +732,7 @@ Sous réserve des dispositions de l’article précédent, tout État contractan
 
 Si un désaccord entre deux ou plusieurs États contractants à propos de l’interprétation ou de l’application de la présente Convention et de ses Annexes ne peut être réglé par voie de négociation, le Conseil statue à la requête de tout État impliqué dans ce désaccord. Aucun membre du Conseil ne peut voter lors de l’examen par le Conseil d’un différend auquel il est partie. Tout État contractant peut, sous réserve de l’art. 85, appeler de la décision du Conseil à un tribunal d’arbitrage ad hoc établi en accord avec les autres parties au différend ou à la Cour permanente de Justice internationale[^84-1]. Un tel appel doit être notifié au Conseil dans les soixante jours à compter de la réception de la notification de la décision du Conseil.
 
-[^84-1]: Actuellement: Cour internationale de justice (art. 37 du statut de la Cour internationale de justice, [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^84-1]: Actuellement: Cour internationale de justice (art. 37 du statut de la Cour internationale de justice, [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 85
 
@@ -740,7 +740,7 @@ Si un désaccord entre deux ou plusieurs États contractants à propos de l’in
 
 Si un État contractant, partie à un différend dans lequel la décision du Conseil est en instance d’appel, n’a pas accepté le Statut de la Cour permanente de Justice internationale[^85-1] et si les États contractants parties à ce différend ne peuvent se mettre d’accord sur le choix du tribunal d’arbitrage, chacun des États contractants parties au différend désigne un arbitre et ces arbitres désignent un surarbitre. Si l’un des États contractants parties au différend n’a pas désigné d’arbitre dans les trois mois à compter de la date de l’appel, un arbitre sera choisi au nom de cet État par le Président du Conseil sur une liste de personnes qualifiées et disponibles tenue par le Conseil. Si, dans les trente jours, les arbitres ne peuvent se mettre d’accord sur un surarbitre, le Président du Conseil désigne un surarbitre choisi sur la liste susmentionnée. Les arbitres et le surarbitre se constituent alors en tribunal d’arbitrage. Tout tribunal d’arbitrage établi en vertu du présent article ou de l’article précédent détermine ses règles de procédure et rend ses décisions à la majorité des voix, étant entendu que le Conseil peut décider des questions de procédure dans le cas d’un retard qu’il estimerait excessif.
 
-[^85-1]: Actuellement: Cour internationale de justice (art. 37 du statut de la Cour internationale de justice, [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^85-1]: Actuellement: Cour internationale de justice (art. 37 du statut de la Cour internationale de justice, [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 86
 
@@ -748,7 +748,7 @@ Si un État contractant, partie à un différend dans lequel la décision du Con
 
 À moins que le Conseil n’en décide autrement, toute décision du Conseil sur la question de savoir si l’exploitation d’une entreprise de transport aérien international est conforme aux dispositions de la présente Convention conserve son effet, tant qu’elle n’a pas été infirmée en appel. Sur toute autre question, les décisions du Conseil sont suspendues en cas d’appel, jusqu’à ce qu’il soit statué sur l’appel. Les décisions de la Cour permanente de Justice internationale[^86-1] et celles d’un tribunal d’arbitrage sont définitives et obligatoires.
 
-[^86-1]: Actuellement: Cour internationale de justice (art. 37 du statut de la Cour internationale de justice, [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^86-1]: Actuellement: Cour internationale de justice (art. 37 du statut de la Cour internationale de justice, [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 87
 
@@ -843,7 +843,7 @@ Quatorzième édition, juillet 2018, applicable depuis le 3 novembre 2022
 
 Dernier amendement: n<sup>o</sup> 179, applicable depuis le 28 novembre 2024
 
-[^t-4]: Ces annexes ne sont publiées ni au RO, ni au RS ([RO 2024 768](https://fedlex.data.admin.ch/eli/oc/2024/768)).
+[^t-4]: Ces annexes ne sont publiées ni au RO, ni au RS ([RO 2026 40](https://fedlex.data.admin.ch/eli/oc/2026/40)).
 
 *Annexe 2* Règles de l’air
 
@@ -857,7 +857,7 @@ Vingtième édition, juillet 2018
 
 Partie II: Appendices et suppléments
 
-Dernier amendement: n<sup>o</sup> 81, applicable depuis le 28 novembre 2024
+Dernier amendement: n<sup>o</sup> 82, applicable depuis le 27 novembre 2025
 
 *Annexe 4* Cartes aéronautiques
 
@@ -867,7 +867,7 @@ Dernier amendement: n<sup>o</sup> 62, applicable depuis le 28 novembre 2024
 
 *Annexe 5* Unités de mesure à utiliser dans l’exploitation en vol et au sol
 
-Cinquième édition, juillet 2010, applicable depuis le 10 novembre 2010
+Cinquième édition, juillet 2010, applicable depuis le 18 novembre 2010
 
 Dernier amendement: –
 
@@ -907,7 +907,7 @@ Dernier amendement: –
 
 Seizième édition, juillet 2022, applicable depuis le 18 novembre 2022
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 30, applicable depuis le 11 juillet 2025
 
 *Annexe 10* Télécommunications aéronautiques
 
@@ -915,19 +915,19 @@ Volume I: Aides radio à la navigation
 
 Septième édition, juillet 2018
 
-Dernier amendement: n<sup>o</sup> 92, applicable depuis le 5 novembre 2020
+Dernier amendement: n<sup>o</sup> 94, applicable depuis le 27 novembre 2025
 
 Volume II: Procédures de télécommunication, y compris celles qui ont le caractère de procédures pour les services de navigation aérienne
 
 Septième édition, juillet 2016
 
-Dernier amendement: n<sup>o</sup> 93, applicable depuis le 28 novembre 2024
+Dernier amendement: n<sup>o</sup> 94, applicable depuis le 27 novembre 2025
 
 Volume III: Systèmes de télécommunication (Partie 1 – Systèmes de communication de données numériques; Partie 2 – Systèmes de communications vocales)
 
 Deuxième édition, juillet 2007
 
-Dernier amendement: n<sup>o</sup> 92, applicable depuis le 28 novembre 2024
+Dernier amendement: n<sup>o</sup> 93, applicable depuis le 27 novembre 2025
 
 Volume IV: Systèmes de surveillance et anticollision
 
@@ -939,13 +939,13 @@ Volume V: Emploi du spectre des radiofréquences aéronautiques
 
 Troisième édition, juillet 2013, applicable depuis le 14 novembre 2013
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 91, applicable depuis le 27 novembre 2025
 
 *Annexe 11* Services de la circulation aérienne
 
 Quinzième édition, juillet 2018
 
-Dernier amendement: n<sup>o</sup> 53, applicable depuis le 28 novembre 2024
+Dernier amendement: n<sup>o</sup> 54, applicable depuis le 27 novembre 2025
 
 *Annexe 12* Recherches et sauvetage
 
@@ -965,7 +965,7 @@ Volume I: Conception et exploitation technique des aérodromes
 
 Neuvième édition, juillet 2022, applicable depuis le 3 novembre 2022
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 18, applicable depuis le 27 novembre 2025
 
 Volume II: Hélistations
 
@@ -977,7 +977,7 @@ Dernier amendement: –
 
 Seizième édition, juillet 2018
 
-Dernier amendement: n<sup>o</sup> 43, applicable depuis le 28 novembre 2024
+Dernier amendement: n<sup>o</sup> 44, applicable depuis le 27 novembre 2025
 
 *Annexe 16* Protection de l’environnement
 
@@ -1025,9 +1025,9 @@ Dernier amendement: –
 
 \2. Les annexes et leurs amendements ne sont pas publiés dans le Recueil officiel du droit fédéral ni traduits dans les langues nationales suisses, à l’exception du français qui est une langue officielle de l’Organisation de l’aviation civile internationale (OACI).
 
-\3. Le texte des annexes et de leurs amendements est accessible sur le site web de l’office fédéral de l’aviation civile (OFAC)[^t-5]. Il peut d’autre part être obtenu contre paiement auprès de l’OACI.
+\3. Le texte des annexes et de leurs amendements est accessible sur le site web de l’Office fédéral de l’aviation civile (OFAC)[^t-5]. Il peut d’autre part être obtenu contre paiement auprès de l’OACI.
 
-[^t-5]: Lien vers les textes des annexes et de leurs amendements: [www.bazl.admin.ch](https://www.bazl.admin.ch/bazl/fr/home/themen/rechtliche-grundlagen/anhaenge-icao.html) &gt; Thèmes &gt; Bases légales &gt; Annexes à la Convention de l’OACI.
+[^t-5]: [www.ofac.admin.ch](https://www.bazl.admin.ch/fr) &gt; Thèmes &gt; Bases légales &gt; Organisation de l’aviation civile internationale &gt; Annexes à la Convention de l’OACI.
 
 Champ d’application le 29 mai 2024[^t-6]
 
@@ -1235,7 +1235,7 @@ Champ d’application le 29 mai 2024[^t-6]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet des États-Unis d’Amérique, dépositaire de cette convention: [www.state.gov/convention-on-international-civil-aviation-chicago](https://www.state.gov/convention-on-international-civil-aviation-chicago), ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 4 avril 1947 au 30 juin 1997, la convention était applicable à Hong Kong dû à son appartenance au territoire du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 3 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> 1<sup>er</sup> avril 1947: Entrée en vigueur. En vertu d’une déclaration de la République populaire de Chine du 8 déc. 1999, la Convention est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-6]: [RO 1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443); [2024 244](https://fedlex.data.admin.ch/eli/oc/2024/244)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-6]: [RO 1973 1616](https://fedlex.data.admin.ch/eli/oc/1973/1616_1616_1616); [1975 1551](https://fedlex.data.admin.ch/eli/oc/1975/1552_1551_1551); [1976 496](https://fedlex.data.admin.ch/eli/oc/1976/496_496_496); [1977 1299](https://fedlex.data.admin.ch/eli/oc/1977/1299_1299_1299); [1978 190](https://fedlex.data.admin.ch/eli/oc/1978/190_190_190); [1980 418](https://fedlex.data.admin.ch/eli/oc/1980/418_418_418); [1981 1438](https://fedlex.data.admin.ch/eli/oc/1981/1438_1438_1438); [1985 771](https://fedlex.data.admin.ch/eli/oc/1985/771_771_771); [1987 1073](https://fedlex.data.admin.ch/eli/oc/1987/1073_1073_1073); [1989 859](https://fedlex.data.admin.ch/eli/oc/1989/859_859_859); [1990 1566](https://fedlex.data.admin.ch/eli/oc/1990/1566_1566_1566); [2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580); [2008 1647](https://fedlex.data.admin.ch/eli/oc/2008/238); [2014 2613](https://fedlex.data.admin.ch/eli/oc/2014/459); [2019 2371](https://fedlex.data.admin.ch/eli/oc/2019/443); [2024 244](https://fedlex.data.admin.ch/eli/oc/2024/244). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
@@ -1245,4 +1245,4 @@ Lors du dépôt de son instrument de ratification, le 6 février 1947, la Suisse
 
 «Mon gouvernement m’a chargé de vous notifier que les autorités suisses ont convenu avec les autorités de la Principauté de Liechtenstein que la convention s’appliquera également à la Principauté de Liechtenstein aussi longtemps que le traité du 29 mars 1923 concernant la réunion de la Principauté de Liechtenstein au territoire douanier suisse[^t-7] sera en vigueur.»
 
-[^t-7]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^t-7]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)

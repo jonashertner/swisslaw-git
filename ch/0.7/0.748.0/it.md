@@ -3,24 +3,26 @@ sr: "0.748.0"
 title: "Convenzione del 7 dicembre 1944 relativa all'aviazione civile internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: it
-version: 2024-11-28
+version: 2025-11-27
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20241128/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20241128-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20241128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20251127/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20251127-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20251127/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione relativa all’aviazione civile internazionale
 
-Traduzione[^t-1]
+CS **13** 569; ed. franc. FF **1946** III 583[^t-1]
+
+Traduzione
 
 Conchiusa a Chicago il 7 dicembre 1944 Approvata dall’Assemblea federale il 13 dicembre 1946 Ratificazione depositata dalla Svizzera il 6 febbraio 1947 Entrata in vigore per la Svizzera il 4 aprile 1947
 
-(Stato 28 novembre 2024)
+(Stato 27 novembre 2025)
 
-[^t-1]: CS **13** 569; ed. franc. FF **1946** III 583 Versione consolidata (RU **1971** 1296).
+[^t-1]: Versione consolidata ([RU 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 
 *Preambolo*
 
@@ -67,7 +69,7 @@ Ai fini della presente Convenzione, per territorio di uno Stato s’intendono le
 - d) Ogni Stato contraente adotterà misure appropriate al fine di vietare l’impiego deliberato di qualsiasi aeromobile civile immatricolato nel detto Stato o utilizzato da un vettore che ha la sede principale della sua azienda o la sua residenza permanente nel detto Stato per fini incompatibili con gli scopi della presente Convenzione. Questa disposizione non reca pregiudizio al paragrafo a e non deroga ai paragrafi b, c del presente articolo.
 
 [^3bis-1]: Introdotto dal Prot. del 10 mag. 1984, approvato dall’AF il 2 dic. 1985, in vigore per la Svizzera dal 1° ott. 1998 ([RU 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3997](https://fedlex.data.admin.ch/eli/oc/2004/579); [FF 1985 II 174](https://fedlex.data.admin.ch/eli/fga/1985/2_185_187_174)).
-[^3bis-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^3bis-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 4
 
@@ -233,7 +235,7 @@ In caso di infortunio sopravvenuto ad un aeromobile di uno Stato contraente, sul
 - b) Le disposizioni del paragrafo a) del presente articolo si applicano parimente all’immagazzinamento dei pezzi e del materiale di ricambio dell’aeromobile, come pure al diritto di utilizzare o di montare tali pezzi e materiale per la riparazione degli aeromobili di uno Stato contraente sul territorio di un altro Stato contraente, purché tutti questi pezzi di ricambio o materiale brevettati, in tal modo immagazzinati, non siano venduti o ceduti all’interno dello Stato contraente sul territorio del quale è penetrato l’aeromobile, o esportati a scopo commerciale fuori di tale Stato.
 - c) Possono essere posti al beneficio delle disposizioni del presente articolo soltanto gli Stati membri della presente Convenzione 1) che fanno parte della Convenzione internazionale per la protezione della proprietà industriale e dei suoi emendamenti[^27-1] o 2) che in materia di brevetti hanno promulgato leggi che riconoscano e proteggano adeguatamente le invenzioni appartenenti a cittadini di altri Stati membri della presente Convenzione.
 
-[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265)
+[^27-1]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027),[0.232.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1028)
 
 #### Art. 28
 
@@ -589,7 +591,7 @@ Il Consiglio può, in nome dell’Organizzazione, conchiudere accordi con altri 
 - a) L’Organizzazione esercita parimente le funzioni che le sono attribuite dall’Accordo sul Transito dei Servizi aerei internazionali e dall’Accordo sui Trasporti aerei internazionali formati a Chicago il 7 dicembre 1944[^66-1], e ciò conformemente alle disposizioni di detti Accordi.
 - b) I membri dell’Assemblea e del Consiglio che non avranno accettato l’Accordo sul Transito dei Servizi aerei internazionali o l’Accordo sui Trasporti aerei internazionali formati a Chicago il 7 dicembre 1944, non hanno il diritto di votare sulle questioni sottoposte all’Assemblea o al Consiglio in virtù delle disposizioni dell’Accordo in causa.
 
-[^66-1]: [RS 0.748.111.2](https://fedlex.data.admin.ch/eli/cc/63/1408_1408_1412)
+[^66-1]: [RS 0.748.111.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3116)
 
 ## Parte terza: Trasporti aerei internazionali
 
@@ -723,7 +725,7 @@ Con riserva delle disposizioni dell’articolo precedente, ogni Stato contraente
 
 In caso di dissenso tra due o più Stati contraenti, relativamente all’interpretazione o all’applicazione della presente Convenzione e dei suoi Allegati, che non potesse essere regolato mediante trattative, decide il Consiglio, a richiesta di qualsiasi Stato implicato. Nessun membro del Consiglio può votare quando il Consiglio esamina una controversia di cui esso è parte in causa. Con riserva dell’articolo 85, ogni Stato contraente può, contro la decisione del Consiglio, appellarsi ad un tribunale arbitrale ad hoc istituito d’intesa con le altre parti contendenti, o alla Corte permanente di Giustizia internazionale[^84-1]. Qualsiasi appello dei genere deve essere notificato al Consiglio entro sessanta giorni dalla data alla quale è stata ricevuta la notificazione della decisione del Consiglio.
 
-[^84-1]: Ora: Corte internazionale di giustizia (art. 37 dello Statuto della Corte internazionale di giustizia – [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^84-1]: Ora: Corte internazionale di giustizia (art. 37 dello Statuto della Corte internazionale di giustizia – [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 85
 
@@ -731,7 +733,7 @@ In caso di dissenso tra due o più Stati contraenti, relativamente all’interpr
 
 Se uno Stato contraente, parte in causa in una controversia nella quale la decisione del Consiglio è in istanza d’appello, non ha accettato gli Statuti della Corte permanente di Giustizia internazionale[^85-1] e se gli Stati contraenti, parti in causa nella controversia suddetta, non si accordano sulla scelta del tribunale arbitrale, ciascuno degli Stati contraenti parti in causa nella controversia designa un arbitro e gli arbitri così designati si riuniranno per scegliere un superarbitro. Nel caso in cui l’uno o l’altro degli Stati contraenti, parti in causa nella controversia, non designi il suo arbitro entro tre mesi dalla data del ricorso, il Presidente del Consiglio designa l’arbitro in nome dello Stato di cui si tratti, scegliendolo su una lista di persone qualificate e disponibili tenuta dal Consiglio. Se, entro trenta giorni, gli arbitri non riescono ad accordarsi sulla scelta di un superarbitro, il Presidente del Consiglio ne designa uno tra le persone figuranti nella lista summenzionata. Gli arbitri e il superarbitro riuniti costituiscono un tribunale arbitrale. Ogni tribunale arbitrale costituito in virtù del presente articolo o dell’articolo precedente fissa le proprie norme di procedura e delibera a maggioranza dei voti, essendo beninteso che il Consiglio ha la facoltà di decidere sulle questioni di procedura, nel caso di ritardo eccessivo.
 
-[^85-1]: Ora: Corte internazionale di giustizia (art. 37 dello Statuto della Corte internazionale di giustizia – [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^85-1]: Ora: Corte internazionale di giustizia (art. 37 dello Statuto della Corte internazionale di giustizia – [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 86
 
@@ -739,7 +741,7 @@ Se uno Stato contraente, parte in causa in una controversia nella quale la decis
 
 Salvo decisione contraria del Consiglio, ogni decisione dei Consiglio concernente la questione di sapere se un’impresa di trasporti aerei internazionali sia esercitata conformemente alle disposizioni della presente Convenzione conserva la sua efficacia fintanto che non sia infirmata in appello. Su tutte le altre questioni, le decisioni del Consiglio sono sospese in caso di appello, fintanto che il tribunale si sia pronunciato. Le decisioni della Corte permanente di Giustizia internazionale[^86-1] o del tribunale arbitrale sono inappellabili ed obbligatorie.
 
-[^86-1]: Ora: Corte internazionale di giustizia (art. 37 dello Statuto della Corte internazionale di giustizia – [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)).
+[^86-1]: Ora: Corte internazionale di giustizia (art. 37 dello Statuto della Corte internazionale di giustizia – [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)).
 
 #### Art. 87
 
@@ -834,7 +836,7 @@ Quattordicesima edizione, luglio 2018, applicabile dal 3 novembre 2022
 
 Ultimo emendamento: n. 179, applicabile dal 28 novembre 2024
 
-[^t-3]: Il testo dei presenti all. non è pubblicato né nella RU né nella RS ([RU 2024 768](https://fedlex.data.admin.ch/eli/oc/2024/768)).
+[^t-3]: Il testo dei presenti all. non è pubblicato né nella RU né nella RS ([RU 2026 40](https://fedlex.data.admin.ch/eli/oc/2026/40)).
 
 *Allegato 2* Regole dell’aria
 
@@ -848,7 +850,7 @@ Ventesima edizione, luglio 2018
 
 Parte II: Appendici e supplementi
 
-Ultimo emendamento: n. 81, applicabile dal 28 novembre 2024
+Ultimo emendamento: n. 82, applicabile dal 27 novembre 2025
 
 *Allegato 4* Carte aeronautiche
 
@@ -898,7 +900,7 @@ Ultimo emendamento: –
 
 Sedicesima edizione, luglio 2022, applicabile dal 18 novembre 2022
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 30, applicabile dall’11 luglio 2025
 
 *Allegato 10* Telecomunicazioni aeronautiche
 
@@ -906,19 +908,19 @@ Volume I: Aiuti di radionavigazione
 
 Settima edizione, luglio 2018
 
-Ultimo emendamento: n. 92, applicabile dal 5 novembre 2020
+Ultimo emendamento: n. 94, applicabile dal 27 novembre 2025
 
 Volume II: Procedure di comunicazione
 
 Settima edizione, luglio 2016
 
-Ultimo emendamento: n. 93, applicabile dal 28 novembre 2024
+Ultimo emendamento: n. 94, applicabile dal 27 novembre 2025
 
 Volume III: Sistemi di comunicazione (Parte 1: Sistemi di comunicazione di dati digitali; Parte 2: Sistemi di comunicazione vocale)
 
 Seconda edizione, luglio 2007
 
-Ultimo emendamento: n. 92, applicabile dal 28 novembre 2024
+Ultimo emendamento: n. 93, applicabile dal 27 novembre 2025
 
 Volume IV: Sistemi di sorveglianza e anticollisione
 
@@ -930,13 +932,13 @@ Volume V: Impiego dello spettro delle radiofrequenze
 
 Terza edizione, luglio 2013, applicabile dal 14 novembre 2013
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 91, applicabile dal 27 novembre 2025
 
 *Allegato 11* Servizi del traffico aereo
 
 Quindicesima edizione, luglio 2018
 
-Ultimo emendamento: n. 53, applicabile dal 28 novembre 2024
+Ultimo emendamento: n. 54, applicabile dal 27 novembre 2025
 
 *Allegato 12* Ricerca e soccorso
 
@@ -956,7 +958,7 @@ Volume I: Pianificazione ed esercizio degli aerodromi
 
 Nona edizione, luglio 2022, applicabile dal 3 novembre 2022
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 18, applicabile dal 27 novembre 2025
 
 Volume II: Eliporti
 
@@ -968,7 +970,7 @@ Ultimo emendamento: –
 
 Sedicesima edizione, luglio 2018
 
-Ultimo emendamento: n. 43, applicabile dal 28 novembre 2024
+Ultimo emendamento: n. 44, applicabile dal 27 novembre 2025
 
 *Allegato 16* Protezione dell’ambiente
 
@@ -1016,9 +1018,9 @@ Ultimo emendamento: –
 
 \2. Gli allegati e i loro emendamenti non sono né pubblicati nella Raccolta ufficiale delle leggi federali né tradotti nelle lingue nazionali, ad eccezione del francese che è una lingua ufficiale dell’Organizzazione per l’aviazione civile internazionale (OACI).
 
-\3. Il testo degli allegati e dei loro emendamenti è accessibile sul sito Internet dell’Ufficio federale dell’aviazione civile (UFAC)[^t-4]. Può essere anche acquistato presso l’OACI.
+\3. Gli allegati sono pubblicati sul sito Internet dell’Ufficio federale dell’aviazione civile (UFAC)[^t-4]. Possono inoltre essere acquistati presso l’OACI.
 
-[^t-4]: www.bazl.admin.ch &gt; Temi &gt; Basi legali &gt; Allegati della Convenzione dell'OACI.
+[^t-4]: [www.bazl.admin.ch](https://www.bazl.admin.ch/it) &gt; Temi &gt; Basi legali &gt; Organizzazione dell’aviazione civile internazionale &gt; Allegati della Convenzione dell’OACI.
 
 Campo d’applicazione il 29 maggio 2024[^t-5]
 
@@ -1238,4 +1240,4 @@ All’atto del deposito dello strumento di ratificazione, il 6 febbraio 1947, la
 
 «Il mio Governo mi ha incaricato di notificarvi che le autorità svizzere hanno convenuto con le autorità del Principato del Liechtenstein che la convenzione s’applicherà parimenti a detto Principato fintanto che vigerà il trattato di unione doganale conchiuso il 29 marzo 1923[^t-6] tra la Confederazione Svizzera e il Principato del Liechtenstein».
 
-[^t-6]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^t-6]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
