@@ -3,11 +3,11 @@ sr: "0.672.913.62"
 title: "Abkommen vom 11. August 1971 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (mit Briefwechsel, Notenwechsel, Verhandlungsprotokollen und Verständigungsvereinbarung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910"
 language: de
-version: 2016-12-28
+version: 2025-11-27
 adopted: 1971-08-11
 in_force: 1972-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910/20161228/de/xml/fedlex-data-admin-ch-eli-cc-1972-3075_3128_2910-20161228-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/3075_3128_2910/20161228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910/20251127/de/xml/fedlex-data-admin-ch-eli-cc-1972-3075_3128_2910-20251127-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/3075_3128_2910/20251127/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,15 +20,19 @@ Originaltext
 
 Abgeschlossen am 11. August 1971 Von der Bundesversammlung genehmigt am 29. November 1972[^t-1] Ratifikationsurkunden ausgetauscht am 29. Dezember 1972 In Kraft getreten am 29. Dezember 1972
 
-(Stand am 28. Dezember 2016)
+(Stand am 27. November 2025)
 
 [^t-1]: [AS 1972 3074](https://fedlex.data.admin.ch/eli/oc/1972/3074_3127_2909)
 
 Die Schweizerische Eidgenossenschaft und die Bundesrepublik Deutschland,
 
-von dem Wunsche geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+von dem Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und ihre Zusammenarbeit in Steuersachen zu vertiefen,
 
-haben folgendes vereinbart:
+in der Absicht, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 1
 
@@ -38,9 +42,11 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 <sup>(1)</sup> Dieses Abkommen gilt, ohne Rücksicht auf die Art der Erhebung, für Steuern vom Einkommen und vom Vermögen, die für Rechnung eines der beiden Vertragsstaaten, der Länder, Kantone, Bezirke, Kreise, Gemeinden oder Gemeindeverbände (auch in Form von Zuschlägen) erhoben werden.
 
-<sup>(2)</sup> Als Steuern vom Einkommen und vom Vermögen gelten alle (ordentlichen und ausserordentlichen) Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung beweglichen oder unbeweglichen Vermögens, der Lohnsummensteuer sowie der Steuern vom Vermögenszuwachs. Das Abkommen gilt nicht für an der Quelle erhobene Steuern von Lotteriegewinnen.
+<sup>(2)</sup> Als Steuern vom Einkommen und vom Vermögen gelten alle Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung beweglichen oder unbeweglichen Vermögens sowie der Steuern vom Vermögenszuwachs.[^2-1] Das Abkommen gilt nicht für an der Quelle erhobene Steuern von Lotteriegewinnen.
 
-<sup>(3)</sup> Zu den zur Zeit bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere
+<sup>(3)</sup>
+
+Zu den zur Zeit bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere:
 
 - 1\.
 
@@ -60,9 +66,12 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 - (im folgenden als «schweizerische Steuer» bezeichnet).
 
-<sup>(4)</sup> Das Abkommen gilt auch für alle Steuern gleicher oder ähnlicher Art, die künftig neben den zur Zeit bestehenden Steuern oder an deren Stelle erhoben werden.
+<sup>(4)</sup> Das Abkommen gilt auch für alle Steuern gleicher oder ähnlicher Art, die künftig neben den zur Zeit bestehenden Steuern oder an deren Stelle erhoben werden. Die zuständigen Behörden der Vertragsstaaten teilen einander die in ihren Steuergesetzen eingetretenen bedeutsamen Änderungen mit.[^2-2]
 
 <sup>(5)</sup> Die Bestimmungen des Abkommens über die Besteuerung der Unternehmensgewinne gelten entsprechend für die nicht nach dem Gewinn oder dem Vermögen erhobene Gewerbesteuer.
+
+[^2-1]: Fassung gemäss Art. 2 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^2-2]: Zweiter Satz eingefügt durch Art. 2 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 3
 
@@ -70,8 +79,8 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
 
-- a) bedeutet der Ausdruck «Bundesrepublik Deutschland», im geographischen Sinne verwendet, das Gebiet des Geltungsbereiches des Grundgesetzes für die Bundesrepublik Deutschland sowie das an die Hoheitsgewässer der Bundesrepublik Deutschland angrenzende und steuerrechtlich als Inland bezeichnete Gebiet, in dem die Bundesrepublik Deutschland in Übereinstimmung mit dem Völkerrecht ihre Rechte hinsichtlich des Meeresgrundes und des Meeresuntergrundes sowie ihrer Naturschätze ausüben darf;
-- b) bedeutet der Ausdruck «Schweiz» die Schweizerische Eidgenossenschaft;
+- a)[^3-1] umfasst der Ausdruck «Bundesrepublik Deutschland», wenn im geografischen Sinn verwendet, das Hoheitsgebiet der Bundesrepublik Deutschland sowie das an das Küstenmeer angrenzende Gebiet des Meeresbodens, seines Untergrunds und der darüber liegenden Wassersäule, soweit die Bundesrepublik Deutschland in Übereinstimmung mit dem Völkerrecht und ihren innerstaatlichen Rechtsvorschriften souveräne Rechte oder Hoheitsbefugnisse zum Zweck der Erforschung, Ausbeutung, Erhaltung und Bewirtschaftung der lebenden und nicht lebenden natürlichen Ressourcen oder zur Energieerzeugung aus erneuerbaren Energiequellen ausübt;
+- b)[^3-2] bedeutet der Ausdruck «Schweiz» das Hoheitsgebiet der Schweizerischen Eidgenossenschaft in Übereinstimmung mit dem Völkerrecht und ihren innerstaatlichen Rechtsvorschriften;
 - c) bedeuten die Ausdrücke «ein Vertragsstaat» und «der andere Vertragsstaat», je nach dem Zusammenhang, die Bundesrepublik Deutschland oder die Schweiz;
 - d) umfasst der Ausdruck «Person» natürliche Personen und Gesellschaften;
 - e) bedeutet der Ausdruck «Gesellschaft» juristische Personen oder Rechtsträger, die für die Besteuerung wie juristische Personen behandelt werden;
@@ -88,10 +97,21 @@ Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
 
   bedeutet der Ausdruck «zuständige Behörde»:
 
-  - aa) in der Bundesrepublik Deutschland: der Bundesminister für Wirtschaft und Finanzen;
-  - bb) in der Schweiz: der Direktor der Eidgenössischen Steuerverwaltung oder sein bevollmächtigter Vertreter.
+  - aa) in der Bundesrepublik Deutschland: das Bundesministerium der Finanzen oder die Behörde, auf die es seine Befugnisse delegiert hat[^3-3];
+  - bb) in der Schweiz: der Vorsteher des Eidgenössischen Finanzdepartements oder sein bevollmächtigter Vertreter[^3-4];
 
-<sup>(2)</sup> Bei Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang nichts anderes erfordert, jeder nicht anders definierte Ausdruck die Bedeutung, die ihm nach dem Recht dieses Staates über die Steuern zukommt, welche Gegenstand des Abkommens sind.
+- j)[^3-5] bezieht sich der Ausdruck «Unternehmen» auf die Ausübung einer Geschäftstätigkeit;
+- k)[^3-6] umfasst der Ausdruck «Geschäftstätigkeit» auch die Ausübung einer freiberuflichen oder sonstigen selbstständigen Tätigkeit.
+
+<sup>(2)</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang nichts anderes erfordert und sich die zuständigen Behörden nicht nach Artikel 26 auf eine andere Bedeutung geeinigt haben, jeder im Abkommen nicht definierte Ausdruck die Bedeutung, die ihm im Anwendungszeitraum nach dem Recht dieses Staates über die Steuern zukommt, für die das Abkommen gilt, wobei die Bedeutung nach dem in diesem Staat anwendbaren Steuerrecht den Vorrang vor einer Bedeutung hat, die der Ausdruck nach anderem Recht dieses Staates hat.[^3-7]
+
+[^3-1]: Fassung gemäss Art. 3 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^3-2]: Fassung gemäss Art. 3 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^3-3]: Wörter gemäss Art. 3 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^3-4]: Wörter gemäss Art. 3 Abs. 3 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^3-5]: Eingefügt durch Art. 3 Abs. 4 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^3-6]: Eingefügt durch Art. 3 Abs. 4 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^3-7]: Fassung gemäss Art. 3 Abs. 5 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 4
 
@@ -106,25 +126,27 @@ ist nach Absatz 1 eine natürliche Person in beiden Vertragsstaaten ansässig, s
 - c) Hat die Person ihren gewöhnlichen Aufenthalt in beiden Vertragsstaaten oder in keinem der Vertragsstaaten, so gilt sie als in dem Vertragsstaat ansässig, dessen Staatsangehörigkeit sie besitzt.
 - d) Besitzt die Person die Staatsangehörigkeit beider Vertragsstaaten oder keines Vertragsstaates, so regeln die zuständigen Behörden der Vertragsstaaten die Frage in gegenseitigem Einvernehmen.
 
-<sup>(3)</sup> Gilt eine natürliche Person, die in der Bundesrepublik Deutschland über eine ständige Wohnstätte verfügt oder dort ihren gewöhnlichen Aufenthalt von mindestens sechs Monaten im Kalenderjahr hat, nach Absatz 2 als in der Schweiz ansässig, so kann die Bundesrepublik Deutschland diese Person ungeachtet anderer Bestimmungen dieses Abkommens nach den Vorschriften über die unbeschränkte Steuerpflicht besteuern. Die Bundesrepublik Deutschland wendet jedoch Artikel 24 Absatz 1 Nummer 1 auf die dort genannten, aus der Schweiz stammenden Einkünfte und in der Schweiz belegenen Vermögenswerte an; auf andere aus der Schweiz stammende Einkünfte und in der Schweiz belegene Vermögenswerte rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf die deutsche Steuer (mit Ausnahme der Gewerbesteuer) von diesen Einkünften oder Vermögenswerten an; bei den übrigen Einkünften und Vermögenswerten rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die in Übereinstimmung mit diesem Abkommen von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf den Teil der deutschen Steuer (mit Ausnahme der Gewerbesteuer) an, der auf Grund dieser Bestimmung von diesen Einkünften oder Vermögenswerten über die deutsche Steuer hinaus erhoben wird, die nach den Artikeln 6 bis 22 hierfür erhoben werden dürfte.
+<sup>(3)</sup> Gilt eine natürliche Person, die in der Bundesrepublik Deutschland über eine ständige Wohnstätte verfügt oder dort ihren gewöhnlichen Aufenthalt von mindestens sechs Monaten im Kalenderjahr hat, nach Absatz 2 als in der Schweiz ansässig, so kann die Bundesrepublik Deutschland diese Person ungeachtet anderer Bestimmungen dieses Abkommens nach den Vorschriften über die unbeschränkte Steuerpflicht besteuern. Die Bundesrepublik Deutschland wendet jedoch 24 Absatz 1 Nummer 1 und 2[^4-1] auf die dort genannten, aus der Schweiz stammenden Einkünfte und in der Schweiz belegenen Vermögenswerte an; auf andere aus der Schweiz stammende Einkünfte und in der Schweiz belegene Vermögenswerte rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf die deutsche Steuer (mit Ausnahme der Gewerbesteuer) von diesen Einkünften oder Vermögenswerten an; bei den übrigen Einkünften und Vermögenswerten rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die in Übereinstimmung mit diesem Abkommen von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf den Teil der deutschen Steuer (mit Ausnahme der Gewerbesteuer) an, der auf Grund dieser Bestimmung von diesen Einkünften oder Vermögenswerten über die deutsche Steuer hinaus erhoben wird, die nach den Artikeln 6 bis 22 hierfür erhoben werden dürfte.
 
 <sup>(4)</sup> Bei einer in der Schweiz ansässigen natürlichen Person, die nicht die schweizerische Staatsangehörigkeit besitzt und die in der Bundesrepublik Deutschland insgesamt mindestens fünf Jahre unbeschränkt steuerpflichtig war, kann die Bundesrepublik Deutschland in dem Jahr, in dem die unbeschränkte Steuerpflicht zuletzt geendet hat, und in den folgenden fünf Jahren die aus der Bundesrepublik Deutschland stammenden Einkünfte und die in der Bundesrepublik Deutschland belegenen Vermögenswerte, ungeachtet anderer Bestimmungen des Abkommens, besteuern. Die nach diesem Abkommen zulässige Besteuerung dieser Einkünfte oder Vermögenswerte in der Schweiz bleibt unberührt. Die Bundesrepublik Deutschland rechnet jedoch in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die in Übereinstimmung mit diesem Abkommen von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf den Teil der deutschen Steuer (mit Ausnahme der Gewerbesteuer) an, der auf Grund dieser Bestimmung von diesen Einkünften oder Vermögenswerten über die deutsche Steuer hinaus erhoben wird, die nach den Artikeln 6 bis 22 hierfür erhoben werden dürfte. Die Bestimmungen dieses Absatzes gelten nicht, wenn die natürliche Person in der Schweiz ansässig geworden ist, um hier eine echte unselbständige Arbeit für einen Arbeitgeber auszuüben, an dem sie über das Arbeitsverhältnis hinaus weder unmittelbar noch mittelbar durch Beteiligung oder in anderer Weise wirtschaftlich wesentlich interessiert ist.
 
 <sup>(5)</sup> Gilt eine natürliche Person nur für einen Teil des Jahres als im Sinne dieses Artikels in einem Vertragsstaat ansässig, für den Rest des gleichen Jahres aber als in dem anderen Vertragsstaat ansässig (Wohnsitzwechsel), so können in jedem Staat die Steuern auf der Grundlage der unbeschränkten Steuerpflicht nur nach Massgabe der Zeit erhoben werden, während welcher diese Person als in diesem Staat ansässig gilt.
 
-(6)[^4-1] Nicht als ‹in einem Vertragsstaat ansässig› gilt eine natürliche Person, die in dem Vertragsstaat, in dem sie nach den vorstehenden Bestimmungen ansässig wäre, nicht mit allen nach dem Steuerrecht dieses Staates allgemein steuerpflichtigen Einkünften aus dem anderen Vertragsstaat den allgemein erhobenen Steuern unterliegt.
+<sup>(6)</sup> Nicht als ‹in einem Vertragsstaat ansässig› gilt eine natürliche Person, die in dem Vertragsstaat, in dem sie nach den vorstehenden Bestimmungen ansässig wäre, nicht mit allen nach dem Steuerrecht dieses Staates allgemein steuerpflichtigen Einkünften aus dem anderen Vertragsstaat den allgemein erhobenen Steuern unterliegt.[^4-2]
 
 <sup>(7)</sup> Die Bestimmungen dieses Artikels gelten auch für eine bevormundete Person.
 
 <sup>(8)</sup> Ist nach Absatz 1 eine Gesellschaft in beiden Vertragsstaaten ansässig, so gilt sie als in dem Vertragsstaat ansässig, in dem sich der Mittelpunkt ihrer tatsächlichen Geschäftsleitung befindet. Die Tatsache allein, dass eine Person an einer Gesellschaft beteiligt ist oder dass sie bei einer Gesellschaft, die einem Konzern angehört, die konzernleitenden Entscheidungen trifft, begründet für diese Gesellschaft keinen Mittelpunkt der tatsächlichen Geschäftsleitung an dem Ort, an dem diese Entscheidungen getroffen werden oder diese Person ansässig ist.
 
-<sup>(9)</sup> Gilt eine Gesellschaft, die nach Absatz 1 in beiden Vertragsstaaten ansässig ist, nach Absatz 8 als in der Schweiz ansässig, so kann die Bundesrepublik Deutschland diese Gesellschaft ungeachtet anderer Bestimmungen dieses Abkommens nach den Vorschriften über die unbeschränkte Steuerpflicht besteuern. Die Bundesrepublik Deutschland wendet jedoch Artikel 24 Absatz 1 Nummer 1 auf die dort genannten, aus der Schweiz stammenden Einkünfte und in der Schweiz belegenen Vermögenswerte an; auf andere aus der Schweiz stammende Einkünfte und in der Schweiz belegene Vermögenswerte rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf die deutsche Steuer (mit Ausnahme der Gewerbesteuer) von diesen Einkünften oder Vermögenswerten an; bei den übrigen Einkünften und Vermögenswerten rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die in Übereinstimmung mit diesem Abkommen von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf den Teil der deutschen Steuer (mit Ausnahme der Gewerbesteuer) an, der auf Grund dieser Bestimmung von diesen Einkünften oder Vermögenswerten über die deutsche Steuer hinaus erhoben wird, die nach den Artikeln 6 bis 22 hierfür erhoben werden dürfte.
+<sup>(9)</sup> Gilt eine Gesellschaft, die nach Absatz 1 in beiden Vertragsstaaten ansässig ist, nach Absatz 8 als in der Schweiz ansässig, so kann die Bundesrepublik Deutschland diese Gesellschaft ungeachtet anderer Bestimmungen dieses Abkommens nach den Vorschriften über die unbeschränkte Steuerpflicht besteuern. Die Bundesrepublik Deutschland wendet jedoch 24 Absatz 1 Nummer 1 und 2[^4-3] auf die dort genannten, aus der Schweiz stammenden Einkünfte und in der Schweiz belegenen Vermögenswerte an; auf andere aus der Schweiz stammende Einkünfte und in der Schweiz belegene Vermögenswerte rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf die deutsche Steuer (mit Ausnahme der Gewerbesteuer) von diesen Einkünften oder Vermögenswerten an; bei den übrigen Einkünften und Vermögenswerten rechnet die Bundesrepublik Deutschland in entsprechender Anwendung der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern die in Übereinstimmung mit diesem Abkommen von diesen Einkünften oder Vermögenswerten erhobene schweizerische Steuer auf den Teil der deutschen Steuer (mit Ausnahme der Gewerbesteuer) an, der auf Grund dieser Bestimmung von diesen Einkünften oder Vermögenswerten über die deutsche Steuer hinaus erhoben wird, die nach den Artikeln 6 bis 22 hierfür erhoben werden dürfte.
 
 <sup>(10)</sup> Absatz 8 berührt nicht die Vorschriften eines Vertragsstaates über die Besteuerung von Einkünften im Sinne der Artikel 10 bis 12 und 16, die daran anknüpft, dass die Gesellschaft, von der diese Einkünfte stammen, in diesem Staat ihre Geschäftsleitung oder ihren Sitz hat; jedoch sind auf diese Einkünfte die Artikel 10 bis 12, 24 und 28 anzuwenden, wenn der Empfänger der Einkünfte in dem anderen Vertragsstaat ansässig ist.
 
 <sup>(11)</sup> Nicht als in einem Vertragsstaat ansässig gilt eine Person in bezug auf Einkünfte und Vermögenswerte, die nicht ihr, sondern einer anderen Person zuzurechnen sind.
 
-[^4-1]: Fassung gemäss Art. I des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^4-1]: Wörter gemäss Art. 4 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^4-2]: Fassung gemäss Art. I des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387), [2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^4-3]: Angabe gemäss Art. 4 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 5
 
@@ -152,39 +174,43 @@ Als Betriebsstätten gelten nicht:
 - d) eine feste Geschäftseinrichtung, die ausschliesslich zu dem Zweck unterhalten wird, für das Unternehmen Güter oder Waren einzukaufen oder Informationen zu beschaffen;
 - e) eine feste Geschäftseinrichtung, die ausschliesslich zu dem Zweck unterhalten wird, für das Unternehmen zu werben, Informationen zu erteilen, wissenschaftliche Forschung zu betreiben oder ähnliche Tätigkeiten auszuüben, die vorbereitender Art sind oder eine Hilfstätigkeit darstellen.
 
-<sup>(4)</sup> Ist eine Person – mit Ausnahme eines unabhängigen Vertreters im Sinne des Absatzes 5 – in einem Vertragsstaat für ein Unternehmen des anderen Vertragsstaates tätig, so gilt eine in dem erstgenannten Staat gelegene Betriebsstätte als gegeben, wenn die Person eine Vollmacht besitzt, im Namen des Unternehmens Verträge abzuschliessen, und die Vollmacht in diesem Staat gewöhnlich ausübt, es sei denn, dass sich ihre Tätigkeit auf den Einkauf von Gütern oder Waren für das Unternehmen beschränkt.
+<sup>(4)</sup> Ist eine Person – mit Ausnahme eines unabhängigen Vertreters im Sinne von Absatz 5 – in einem Vertragsstaat für ein Unternehmen des anderen Vertragsstaats tätig, so gilt eine in dem erstgenannten Staat gelegene Betriebsstätte als gegeben, wenn die Person eine Vollmacht besitzt, im Namen des Unternehmens Verträge abzuschliessen, und die Vollmacht in diesem Staat gewöhnlich ausübt, es sei denn, die Tätigkeiten dieser Person beschränken sich auf die in Absatz 3 genannten Tätigkeiten, die, würden sie durch eine feste Geschäftseinrichtung ausgeübt, diese Einrichtung nach dem genannten Absatz nicht zu einer Betriebsstätte machten.[^5-1]
 
 <sup>(5)</sup> Ein Unternehmen eines Vertragsstaates wird nicht schon deshalb so behandelt, als habe es eine Betriebsstätte in dem anderen Vertragsstaat, weil es dort seine Tätigkeit durch einen Makler, Kommissionär oder einen anderen unabhängigen Vertreter ausübt, sofern diese Personen im Rahmen ihrer ordentlichen Geschäftstätigkeit handeln.
 
-<sup>(6)</sup> Allein dadurch, dass eine in einem Vertragsstaat ansässige Gesellschaft eine Gesellschaft beherrscht oder von einer Gesellschaft beherrscht wird, die in dem anderen Vertragsstaat ansässig ist oder dort (entweder durch eine Betriebsstätte oder in anderer Weise) ihre Tätigkeit ausübt, wird eine der beiden Gesellschaften nicht zur Betriebsstätte der anderen.
+<sup>(6)</sup> Allein dadurch, dass eine in einem Vertragsstaat ansässige Gesellschaft eine Gesellschaft beherrscht oder von einer Gesellschaft beherrscht wird, die in dem anderen Vertragsstaat ansässig ist oder dort (entweder durch eine Betriebsstätte oder in anderer Weise) ihre Geschäftstätigkeit[^5-2] ausübt, wird eine der beiden Gesellschaften nicht zur Betriebsstätte der anderen.
+
+[^5-1]: Fassung gemäss Art. 5 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^5-2]: Wort gemäss Art. 5 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 6
 
 <sup>(1)</sup> Einkünfte aus unbeweglichem Vermögen können in dem Vertragsstaat besteuert werden, in dem dieses Vermögen liegt.
 
-<sup>(2)</sup> Der Ausdruck «unbewegliches Vermögen» bestimmt sich nach dem Recht des Vertragsstaates, in dem das Vermögen liegt. Der Ausdruck umfasst in jedem Fall das Zubehör zum unbeweglichen Vermögen, das lebende und tote Inventar land- und forstwirtschaftlicher Betriebe, die Rechte, auf die die Vorschriften des Privatrechts über Grundstücke Anwendung finden, die Nutzungsrechte an unbeweglichem Vermögen sowie die Rechte auf veränderliche oder feste Vergütungen für die Ausbeutung oder das Recht auf Ausbeutung von Mineralvorkommen, Quellen und anderen Bodenschätzen; Schiffe und Luftfahrzeuge gelten nicht als unbewegliches Vermögen.
+<sup>(2)</sup> Der Ausdruck «unbewegliches Vermögen» (einschliesslich der Einkünfte aus Land- und Forstwirtschaft)[^6-1] bestimmt sich nach dem Recht des Vertragsstaates, in dem das Vermögen liegt. Der Ausdruck umfasst in jedem Fall das Zubehör zum unbeweglichen Vermögen, das lebende und tote Inventar land- und forstwirtschaftlicher Betriebe, die Rechte, auf die die Vorschriften des Privatrechts über Grundstücke Anwendung finden, die Nutzungsrechte an unbeweglichem Vermögen sowie die Rechte auf veränderliche oder feste Vergütungen für die Ausbeutung oder das Recht auf Ausbeutung von Mineralvorkommen, Quellen und anderen Bodenschätzen; Schiffe und Luftfahrzeuge gelten nicht als unbewegliches Vermögen.
 
 <sup>(3)</sup> Absatz 1 gilt für die Einkünfte aus der unmittelbaren Nutzung, der Vermietung oder Verpachtung sowie jeder anderen Art der Nutzung unbeweglichen Vermögens.
 
-<sup>(4)</sup> Die Absätze 1 und 3 gelten auch für Einkünfte aus unbeweglichem Vermögen eines Unternehmens und für Einkünfte aus unbeweglichem Vermögen, das der Ausübung eines freien Berufes dient.
+<sup>(4)</sup> Die Absätze 1 und 3 gelten auch für Einkünfte aus unbeweglichem Vermögen eines Unternehmens …[^6-2].
+
+[^6-1]: Wörter eingefügt durch Art. 6 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^6-2]: Wörter aufgehoben gemäss Art. 6 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und mit Wirkung seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 7
 
-<sup>(1)</sup> Gewinne eines Unternehmens eines Vertragsstaates können nur in diesem Staat besteuert werden, es sei denn, dass das Unternehmen seine Tätigkeit im anderen Vertragsstaat durch eine dort gelegene Betriebsstätte ausübt. Übt das Unternehmen seine Tätigkeit in dieser Weise aus, so können die Gewinne des Unternehmens in dem anderen Staat besteuert werden, jedoch nur insoweit, als sie dieser Betriebsstätte zugerechnet werden können.
+[^7-1]
 
-<sup>(2)</sup> Übt ein Unternehmen eines Vertragsstaates seine Tätigkeit in dem anderen Vertragsstaat durch eine dort gelegene Betriebsstätte aus, so sind in jedem Vertragsstaat dieser Betriebsstätte die Gewinne zuzurechnen, die sie hätte erzielen können, wenn sie eine gleiche oder ähnliche Tätigkeit unter gleichen oder ähnlichen Bedingungen als selbständiges Unternehmen ausgeübt hätte und im Verkehr mit dem Unternehmen, dessen Betriebsstätte sie ist, völlig unabhängig gewesen wäre.
+<sup>(1)</sup> Gewinne eines Unternehmens eines Vertragsstaats können nur in diesem Vertragsstaat besteuert werden, es sei denn, das Unternehmen übt seine Geschäftstätigkeit im anderen Vertragsstaat durch eine dort gelegene Betriebsstätte aus. Übt das Unternehmen seine Geschäftstätigkeit auf diese Weise aus, so können die Gewinne, die der Betriebsstätte in Übereinstimmung mit Absatz 2 zugerechnet werden können, im anderen Staat besteuert werden.
 
-<sup>(3)</sup> Bei der Ermittlung der Gewinne einer Betriebsstätte werden die für diese Betriebsstätte entstandenen Aufwendungen, einschliesslich der Geschäftsführungs- und allgemeinen Verwaltungskosten, zum Abzug zugelassen, gleichgültig, ob sie in dem Staat, in dem die Betriebsstätte liegt, oder anderswo entstanden sind.
+<sup>(2)</sup> Im Sinne dieses Artikels und des Artikels 24 handelt es sich bei den Gewinnen, die in jedem Vertragsstaat einer in Absatz 1 genannten Betriebsstätte zugerechnet werden können, um die Gewinne, die die Betriebsstätte, insbesondere in ihren wirtschaftlichen Beziehungen mit anderen Teilen des Unternehmens, voraussichtlich erzielen würde, wenn sie ein selbstständiges und unabhängiges Unternehmen wäre, das die gleichen oder ähnliche Tätigkeiten unter den gleichen oder ähnlichen Bedingungen ausübt, unter Berücksichtigung der vom Unternehmen durch die Betriebsstätte und durch die anderen Teile des Unternehmens ausgeübten Funktionen, genutzten Vermögenswerte und übernommenen Risiken.
 
-<sup>(4)</sup> Soweit es in einem Vertragsstaat üblich ist, die einer Betriebsstätte zuzurechnenden Gewinne durch Aufteilung der Gesamtgewinne des Unternehmens auf seine einzelnen Teile zu ermitteln, schliesst Absatz 2 nicht aus, dass dieser Vertragsstaat die zu besteuernden Gewinne nach der üblichen Aufteilung ermittelt; die Art der angewendeten Gewinnaufteilung muss jedoch so sein, dass das Ergebnis mit den Grundsätzen dieses Artikels übereinstimmt.
+<sup>(3)</sup> Berichtigt ein Vertragsstaat in Übereinstimmung mit Absatz 2 die Gewinne, die der Betriebsstätte eines Unternehmens eines Vertragsstaats zugerechnet werden können, und besteuert er dementsprechend Gewinne des Unternehmens, die bereits im anderen Vertragsstaat besteuert wurden, so nimmt der andere Vertragsstaat, soweit dies zur Beseitigung einer Doppelbesteuerung dieser Gewinne erforderlich ist, eine entsprechende Berichtigung vor, wenn seine zuständige Behörde der Berichtigung des erstgenannten Vertragsstaats zustimmt; stimmt die zuständige Behörde des anderen Vertragsstaats nicht zu, beseitigen die zuständigen Behörden der Vertragsstaaten eine daraus resultierende Doppelbesteuerung auf Antrag durch ein Verständigungsverfahren.
 
-<sup>(5)</sup> Auf Grund des blossen Einkaufs von Gütern oder Waren für das Unternehmen wird einer Betriebsstätte kein Gewinn zugerechnet.
+<sup>(4)</sup> Dieser Artikel gilt auch für Einkünfte aus der Beteiligung an einer Personengesellschaft. Er erstreckt sich auch auf Vergütungen, die ein Gesellschafter einer Personengesellschaft von der Gesellschaft für seine Tätigkeit im Dienst der Gesellschaft, für die Gewährung von Darlehen oder für die Überlassung von Wirtschaftsgütern bezieht, wenn diese Vergütungen nach dem Steuerrecht des Vertragsstaats, in dem die Betriebsstätte gelegen ist, den Einkünften des Gesellschafters aus dieser Beteiligung zugerechnet werden.
 
-<sup>(6)</sup> Bei Anwendung der vorstehenden Absätze sind die der Betriebsstätte zuzurechnenden Gewinne jedes Jahr auf dieselbe Art zu ermitteln, es sei denn, dass ausreichende Gründe dafür bestehen, anders zu verfahren.
+<sup>(5)</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
 
-<sup>(7)</sup> Dieser Artikel gilt auch für Einkünfte aus der Beteiligung an einer Personengesellschaft. Er erstreckt sich auch auf Vergütungen, die ein Gesellschafter einer Personengesellschaft von der Gesellschaft für seine Tätigkeit im Dienst der Gesellschaft, für die Gewährung von Darlehen oder für die Überlassung von Wirtschaftsgütern bezieht, wenn diese Vergütungen nach dem Steuerrecht des Vertragsstaates, in dem die Betriebsstätte gelegen ist, den Einkünften des Gesellschafters aus dieser Betriebsstätte zugerechnet werden.
-
-<sup>(8)</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
+[^7-1]: Fassung gemäss Art. 7 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 8
 
@@ -194,7 +220,9 @@ Als Betriebsstätten gelten nicht:
 
 <sup>(3)</sup> Befindet sich der Ort der tatsächlichen Geschäftsleitung eines Unternehmens der See- oder Binnenschiffahrt an Bord eines Schiffes, so gilt er als in dem Vertragsstaat gelegen, in dem der Heimathafen des Schiffes liegt, oder, wenn kein Heimathafen vorhanden ist, in dem Vertragsstaat, in dem die Person, die das Schiff betreibt, ansässig ist.
 
-<sup>(4)</sup> Die vorstehenden Bestimmungen gelten auch,
+<sup>(4)</sup>
+
+Die vorstehenden Bestimmungen gelten auch:
 
 - a) wenn der Betrieb der Schiff- oder Luftfahrt mit gecharterten oder gemieteten Fahrzeugen durchgeführt wird,
 - b) für Agenturen, soweit deren Tätigkeit unmittelbar mit dem Betrieb der Schiff- oder Luftfahrt oder dem Zubringerdienst zusammenhängt, und
@@ -204,12 +232,16 @@ Als Betriebsstätten gelten nicht:
 
 #### Art. 9
 
-Wenn
+<sup>(1)</sup> und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmännischen oder finanziellen Beziehungen Bedingungen vereinbart oder auferlegt werden, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
-und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmännischen oder finanziellen Beziehungen Bedingungen vereinbart oder auferlegt werden, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
+Wenn:
 
 - a) ein Unternehmen eines Vertragsstaates unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder am Kapital eines Unternehmens des anderen Vertragsstaates beteiligt ist, oder
 - b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder am Kapital eines Unternehmens eines Vertragsstaates und eines Unternehmens des anderen Vertragsstaates beteiligt sind,
+
+<sup>(2)</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem anderen Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; erforderlichenfalls konsultieren die zuständigen Behörden der Vertragsstaaten einander.[^9-1]
+
+[^9-1]: Eingefügt durch Art. 8 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 10
 
@@ -217,13 +249,15 @@ und in diesen Fällen zwischen den beiden Unternehmen hinsichtlich ihrer kaufmä
 
 <sup>(1)</sup> Dividenden, die eine in einem Vertragsstaat ansässige Gesellschaft an eine in dem anderen Vertragsstaat ansässige Person zahlt, können in dem anderen Staat besteuert werden.
 
-<sup>(2)</sup> (3)[^10-2] Ungeachtet des Absatzes 2 dürfen Dividenden in dem Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, nicht besteuert werden, wenn der Empfänger der Dividenden eine im anderen Vertragsstaat ansässige Gesellschaft ist, die während eines ununterbrochenen Zeitraums von mindestens 12 Monaten unmittelbar über mindestens 10 Prozent des Kapitals der die Dividenden zahlenden Gesellschaft verfügt. Im Fall von Dividenden, die von einer deutschen Immobilien-Aktiengesellschaft mit börsennotierten Anteilen (REIT-AG), einem deutschen Investmentfonds oder einer deutschen Investmentaktiengesellschaft gezahlt werden, ist nicht der erste Satz, sondern Absatz 2 Buchstabe c anzuwenden. Dies berührt nicht die Besteuerung der Gesellschaft in Bezug auf die Gewinne, aus denen die Dividenden gezahlt werden.
+<sup>(2)</sup>
 
-Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber nicht übersteigen:
+Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn die zur Nutzung der Dividende berechtigte Person im anderen Vertragsstaat ansässig ist,[^10-2] nicht übersteigen:
 
 - a) 5 % des Bruttobetrags der Dividenden, wenn sie von einer Gesellschaft gezahlt werden, die ein Kraftwerk zur Ausnutzung der Wasserkraft des Rheinstromes zwischen dem Bodensee und Basel betreibt (Grenzkraftwerk am Rhein);
 - b) 30 % des Bruttobetrags der Dividenden, wenn es sich um Einnahmen aus Beteiligungen an einem Handelsgewerbe als stiller Gesellschafter im Sinne des deutschen Rechts, aus Genussrechten, aus Gewinnobligationen oder aus partiarischen Darlehen handelt und wenn diese Beträge bei der Gewinnermittlung des Schuldners abzugsfähig sind;
 - c)[^10-3] 15 % des Bruttobetrags der Dividenden in Fällen, die nicht unter Buchstabe a oder b fallen.
+
+<sup>(3)</sup> Ungeachtet von Absatz 2 nimmt der Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, die bezahlten Dividenden von der Besteuerung aus, wenn die nutzungsberechtigte Person eine Gesellschaft (jedoch keine Personengesellschaft) ist, die im anderen Vertragsstaat ansässig ist und unmittelbar über mindestens 10 Prozent des Kapitals der die Dividenden zahlenden Gesellschaft während einer Dauer von 365 Tagen, die den Tag der Zahlung der Dividende umfasst, hält (für Zwecke der Berechnung dieser Dauer werden Besitzänderungen nicht berücksichtigt, die unmittelbar aus einer Fusion, einer Spaltung oder einer Umwandlung der Gesellschaft resultieren, die die Anteile hält oder die die Dividende zahlt).[^10-4] Im Fall von Dividenden, die von einer deutschen Immobilien-Aktiengesellschaft mit börsennotierten Anteilen (REIT-AG), einem deutschen Investmentfonds oder einer deutschen Investmentaktiengesellschaft gezahlt werden, ist nicht der erste Satz, sondern Absatz 2 Buchstabe c anzuwenden. Dies berührt nicht die Besteuerung der Gesellschaft in Bezug auf die Gewinne, aus denen die Dividenden gezahlt werden.[^10-5]
 
 <sup>(4)</sup> Der in diesem Artikel verwendete Ausdruck «Dividenden» bedeutet Einnahmen aus Aktien, Genussrechten (wie zum Beispiel Genussaktien oder Genussscheine), Anteilen an einer Gesellschaft mit beschränkter Haftung, Kuxen, Gründeranteilen oder anderen Rechten - ausgenommen Forderungen - mit Gewinnbeteiligung sowie aus sonstigen Gesellschaftsanteilen stammende Einnahmen, die nach dem Steuerrecht des Staates, in dem die ausschüttende Gesellschaft ansässig ist, den Einnahmen aus Aktien gleichgestellt sind, einschliesslich der Einnahmen aus Beteiligungen an einem Handelsgewerbe als stiller Gesellschafter im Sinne des deutschen Rechts, aus Gewinnobligationen oder aus partiarischen Darlehen sowie der Ausschüttungen auf die Anteilscheine von Kapitalanlagegesellschaften (Investmentfonds).
 
@@ -231,37 +265,49 @@ Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Divide
 
 <sup>(6)</sup> Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Gewinne oder Einkünfte aus dem anderen Vertragsstaat, so darf dieser andere Staat weder die Dividenden besteuern, die die Gesellschaft an nicht in diesem anderen Staat ansässige Personen zahlt, noch Gewinne der Gesellschaft einer Steuer für nicht ausgeschüttete Gewinne unterwerfen, selbst wenn die gezahlten Dividenden oder die nicht ausgeschütteten Gewinne ganz oder teilweise aus in dem anderen Staat erzielten Gewinnen oder Einkünften bestehen. Artikel 4 Absatz 10 bleibt vorbehalten.
 
-[^10-1]: Fassung gemäss Art. I des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 und in Kraft seit 30. Nov. 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
-[^10-2]: Fassung gemäss Art. 1 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
-[^10-3]: Fassung gemäss Art. II des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^10-1]: Fassung gemäss Art. I des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 und in Kraft seit 30. Nov. 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807), [1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
+[^10-2]: Halbsatz eingefügt durch Art. 9 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^10-3]: Fassung gemäss Art. II des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387),[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^10-4]: Fassung gemäss Art. 9 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^10-5]: Fassung gemäss Art. 1 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129), [823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
 
 #### Art. 11
 
-<sup>(1)</sup> Zinsen, die aus einem Vertragsstaat stammen und an eine in dem anderen Vertragsstaat ansässige Person gezahlt werden, können nur in dem anderen Staat besteuert werden.
+<sup>(1)</sup> Zinsen, die eine in einem Vertragsstaat ansässige Person als Nutzungsberechtigte bezieht, können nur in diesem Staat besteuert werden.[^11-1]
 
-<sup>(2)</sup> Der in diesem Artikel verwendete Ausdruck «Zinsen» bedeutet, vorbehaltlich Artikel 10 Absatz 4[^11-1], Einnahmen aus öffentlichen Anleihen, aus Schuldverschreibungen einschliesslich Wandelanleihen, auch wenn sie durch Pfandrechte an Grundstücken gesichert sind, und aus Forderungen jeder Art sowie alle anderen Einnahmen, die nach dem Steuerrecht des Staates, aus dem sie stammen, den Einnahmen aus Darlehen gleichgestellt sind.
+<sup>(2)</sup> Der in diesem Artikel verwendete Ausdruck «Zinsen» bedeutet, vorbehaltlich Artikel 10 Absatz 4[^11-2], Einnahmen aus öffentlichen Anleihen, aus Schuldverschreibungen einschliesslich Wandelanleihen, auch wenn sie durch Pfandrechte an Grundstücken gesichert sind, und aus Forderungen jeder Art sowie alle anderen Einnahmen, die nach dem Steuerrecht des Staates, aus dem sie stammen, den Einnahmen aus Darlehen gleichgestellt sind. Nicht als Zinsen im Sinne dieses Artikels gelten Zuschläge für verspätete Zahlung.[^11-3]
 
-<sup>(3)</sup> Absatz 1 ist nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Empfänger der Zinsen in dem anderen Vertragsstaat, aus dem die Zinsen stammen, eine Betriebsstätte hat und die Forderung, für die die Zinsen gezahlt werden, tatsächlich zu dieser Betriebsstätte gehört. In diesem Fall ist Artikel 7 anzuwenden.
+<sup>(3)</sup> Absatz 1 ist nicht anzuwenden, wenn die in einem Vertragsstaat ansässige, zur Nutzung der Zinsen berechtigte Person[^11-4] in dem anderen Vertragsstaat, aus dem die Zinsen stammen, eine Betriebsstätte hat und die Forderung, für die die Zinsen gezahlt werden, tatsächlich zu dieser Betriebsstätte gehört. In diesem Fall ist Artikel 7 anzuwenden.
 
-<sup>(4)</sup> Bestehen zwischen Schuldner und Gläubiger oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die gezahlten Zinsen, gemessen an der zugrundeliegenden Forderung, den Betrag, den Schuldner und Gläubiger ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf diesen letzten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht jedes Vertragsstaates und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
+<sup>(4)</sup> Bestehen zwischen Schuldner und der nutzungsberechtigten Person[^11-5] oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die gezahlten Zinsen, gemessen an der zugrundeliegenden Forderung, den Betrag, den Schuldner und nutzungsberechtigte Person[^11-6] ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf diesen letzten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht jedes Vertragsstaates und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
-[^11-1]: Worte gemäss Art. II des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 und in Kraft seit 30. Nov. 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
+[^11-1]: Fassung gemäss Art. 10 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^11-2]: Worte gemäss Art. II des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 und in Kraft seit 30. Nov. 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807), [1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
+[^11-3]: Satz eingefügt durch Art. 10 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^11-4]: Wörter gemäss Art. 10 Abs. 3 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^11-5]: Wörter gemäss Art. 10 Abs. 4 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^11-6]: Wörter gemäss Art. 10 Abs. 4 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 12
 
-<sup>(1)</sup> Lizenzgebühren, die aus einem Vertragsstaat stammen und an eine in dem anderen Vertragsstaat ansässige Person gezahlt werden, können nur in dem anderen Staat besteuert werden.
+<sup>(1)</sup> Lizenzgebühren, die eine in einem Vertragsstaat ansässige Person als Nutzungsberechtigte bezieht, können nur in diesem Staat besteuert werden.[^12-1]
 
 <sup>(2)</sup> Der in diesem Artikel verwendete Ausdruck «Lizenzgebühren» bedeutet Vergütungen jeder Art, die für die Benutzung oder für das Recht auf Benutzung von Urheberrechten an literarischen, künstlerischen oder wissenschaftlichen Werken, einschliesslich kinematographischer Filme, von Patenten, Warenzeichen, Mustern oder Modellen, Plänen, geheimen Formeln oder Verfahren oder für die Benutzung oder das Recht auf Benutzung gewerblicher, kaufmännischer oder wissenschaftlicher Ausrüstungen oder für die Mitteilung gewerblicher, kaufmännischer oder wissenschaftlicher Erfahrungen gezahlt werden.
 
-<sup>(3)</sup> Absatz 1 ist nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Empfänger der Lizenzgebühren in dem anderen Vertragsstaat, aus dem die Lizenzgebühren stammen, eine Betriebsstätte hat und die Rechte oder Vermögenswerte, für die die Lizenzgebühren gezahlt werden, tatsächlich zu dieser Betriebsstätte gehören. In diesem Fall ist Artikel 7 anzuwenden.
+<sup>(3)</sup> Absatz 1 ist nicht anzuwenden, wenn die in einem Vertragsstaat ansässige, zur Nutzung der Lizenzgebühren berechtigte Person[^12-2] in dem anderen Vertragsstaat, aus dem die Lizenzgebühren stammen, eine Betriebsstätte hat und die Rechte oder Vermögenswerte, für die die Lizenzgebühren gezahlt werden, tatsächlich zu dieser Betriebsstätte gehören. In diesem Fall ist Artikel 7 anzuwenden.
 
-<sup>(4)</sup> Bestehen zwischen Schuldner und Gläubiger oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die gezahlten Lizenzgebühren, gemessen an der zugrundeliegenden Leistung, den Betrag, den Schuldner und Gläubiger ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf diesen letzten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht jedes Vertragsstaates und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
+<sup>(4)</sup> Bestehen zwischen Schuldner und der nutzungsberechtigten Person[^12-3] oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die gezahlten Lizenzgebühren, gemessen an der zugrundeliegenden Leistung, den Betrag, den Schuldner und nutzungsberechtigte Person[^12-4] ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf diesen letzten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht jedes Vertragsstaates und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
+
+[^12-1]: Fassung gemäss Art. 11 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^12-2]: Wörter gemäss Art. 11 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^12-3]: Wörter gemäss Art. 11 Abs. 3 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^12-4]: Wörter gemäss Art. 11 Abs. 3 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 13
 
 <sup>(1)</sup> Gewinne aus der Veräusserung unbeweglichen Vermögens im Sinne des Artikels 6 Absatz 2 können in dem Vertragsstaat besteuert werden, in dem dieses Vermögen liegt.
 
-<sup>(2)</sup> Gewinne aus der Veräusserung beweglichen Vermögens, das Betriebsvermögen einer Betriebsstätte darstellt, die ein Unternehmen eines Vertragsstaates in dem anderen Vertragsstaat hat, oder das zu einer festen Einrichtung gehört, über die eine in einem Vertragsstaat ansässige Person für die Ausübung eines freien Berufes in dem anderen Vertragsstaat verfügt, einschliesslich derartiger Gewinne, die bei der Veräusserung einer solchen Betriebsstätte (allein oder zusammen mit dem übrigen Unternehmen) oder einer solchen festen Einrichtung erzielt werden, können in dem anderen Staat besteuert werden. Jedoch können Gewinne aus der Veräusserung des in Artikel 22 Absatz 3 genannten beweglichen Vermögens nur in dem Vertragsstaat besteuert werden, in dem dieses bewegliche Vermögen nach dem angeführten Artikel besteuert werden kann.
+<sup>(2)</sup> Gewinne aus der Veräusserung beweglichen Vermögens, das Betriebsvermögen einer Betriebsstätte darstellt, die ein Unternehmen eines Vertragsstaates in dem anderen Vertragsstaat hat, …[^13-1] einschliesslich derartiger Gewinne, die bei der Veräusserung einer solchen Betriebsstätte (allein oder zusammen mit dem übrigen Unternehmen) …[^13-2] erzielt werden, können in dem anderen Staat besteuert werden. Jedoch können Gewinne aus der Veräusserung des in Artikel 22 Absatz 3 genannten beweglichen Vermögens nur in dem Vertragsstaat besteuert werden, in dem dieses bewegliche Vermögen nach dem angeführten Artikel besteuert werden kann.
 
 <sup>(3)</sup> Gewinne aus der Veräusserung des in den Absätzen 1 und 2 nicht genannten Vermögens können nur in dem Vertragsstaat besteuert werden, in dem der Veräusserer ansässig ist.
 
@@ -274,11 +320,14 @@ Eine wesentliche Beteiligung ist gegeben, wenn der Veräusserer unmittelbar oder
 
 <sup>(5)</sup> Besteuert ein Vertragsstaat bei Wegzug einer in diesem Staat ansässigen natürlichen Person den Vermögenszuwachs, der auf eine wesentliche Beteiligung an einer in diesem Staat ansässigen Gesellschaft entstanden ist, so wird bei späterer Veräusserung der Beteiligung, wenn der daraus erzielte Gewinn in dem anderen Staat gemäss Absatz 3 besteuert wird, dieser Staat bei der Ermittlung des Veräusserungsgewinns als Anschaffungskosten den Betrag zugrundelegen, den der erstgenannte Staat im Zeitpunkt des Wegzugs als Erlös angenommen hat.
 
+[^13-1]: Wörter aufgehoben durch Art. 12 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und mit Wirkung seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^13-2]: Wörter aufgehoben durch Art. 12 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und mit Wirkung seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+
 #### Art. 14
 
-<sup>(1)</sup> Einkünfte, die eine in einem Vertragsstaat ansässige Person aus einem freien Beruf oder aus sonstiger selbständiger Tätigkeit ähnlicher Art bezieht, können nur in diesem Staat besteuert werden, es sei denn, dass die Person für die Ausübung ihrer Tätigkeit in dem anderen Vertragsstaat regelmässig über eine feste Einrichtung verfügt. Verfügt sie über eine solche feste Einrichtung, so können die Einkünfte in dem anderen Staat besteuert werden, jedoch nur insoweit, als sie dieser festen Einrichtung zugerechnet werden können.
+[^14-1]
 
-<sup>(2)</sup> Der Ausdruck «freier Beruf» umfasst insbesondere die selbständig ausgeübte wissenschaftliche, literarische, künstlerische, erzieherische oder unterrichtende Tätigkeit sowie die selbständige Tätigkeit der Ärzte, Rechtsanwälte, Ingenieure, Architekten, Zahnärzte und Bücherrevisoren.
+[^14-1]: Aufgehoben durch Art. 13 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und mit Wirkung seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 15
 
@@ -288,18 +337,19 @@ Eine wesentliche Beteiligung ist gegeben, wenn der Veräusserer unmittelbar oder
 
 - a) der Empfänger sich in dem anderen Staat insgesamt nicht länger als 183 Tage während des betreffenden Kalenderjahres aufhält,
 - b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht in dem anderen Staat ansässig ist, und
-- c) die Vergütungen nicht von einer Betriebsstätte oder einer festen Einrichtung getragen werden, die der Arbeitgeber in dem anderen Staat hat.
+- c) die Vergütungen nicht von einer Betriebsstätte …[^15-2] getragen werden, die der Arbeitgeber in dem anderen Staat hat.
 
 <sup>(3)</sup> Ungeachtet der vorstehenden Bestimmungen dieses Artikels können Vergütungen für unselbständige Arbeit, die an Bord eines Seeschiffes oder Luftfahrzeuges im internationalen Verkehr oder an Bord eines Schiffes, das der Binnenschiffahrt dient, ausgeübt wird, in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet. Werden diese Vergütungen in diesem Staat nicht besteuert, so können sie in dem anderen Vertragsstaat besteuert werden.
 
-…[^15-2]
+…[^15-3]
 
-(4)[^15-3] Vorbehaltlich des Artikels 15*a*[^15-4] kann eine natürliche Person, die in einem Vertragsstaat ansässig, aber als Vorstandsmitglied, Direktor, Geschäftsführer oder Prokurist einer in dem anderen Vertragsstaat ansässigen Kapitalgesellschaft tätig ist, mit den Einkünften aus dieser Tätigkeit in diesem anderen Staat besteuert werden, sofern ihre Tätigkeit nicht so abgegrenzt ist, dass sie lediglich Aufgaben ausserhalb dieses anderen Staates umfasst. Besteuert dieser andere Vertragsstaat diese Einkünfte nicht, so können sie in dem Staat besteuert werden, in dem die natürliche Person ansässig ist.
+<sup>(4)</sup> Vorbehaltlich des Artikels 15*a*[^15-4] kann eine natürliche Person, die in einem Vertragsstaat ansässig, aber als Vorstandsmitglied, Direktor, Geschäftsführer oder Prokurist einer in dem anderen Vertragsstaat ansässigen Kapitalgesellschaft tätig ist, mit den Einkünften aus dieser Tätigkeit in diesem anderen Staat besteuert werden, sofern ihre Tätigkeit nicht so abgegrenzt ist, dass sie lediglich Aufgaben ausserhalb dieses anderen Staates umfasst. Besteuert dieser andere Vertragsstaat diese Einkünfte nicht, so können sie in dem Staat besteuert werden, in dem die natürliche Person ansässig ist.[^15-5]
 
-[^15-1]: Worte gemäss Art. I Ziff. 1 des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
-[^15-2]: Abs. gestrichen durch Art. I Ziff. 2 des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und mit Wirkung seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
-[^15-3]: Ursprünglich Abs. 5.
-[^15-4]: Worte gemäss Art. I Ziff. 4 des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15-1]: Worte gemäss Art. I Ziff. 1 des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69), [68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15-2]: Wörter aufgehoben durch Art. 14 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und mit Wirkung seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^15-3]: Abs. gestrichen durch Art. I Ziff. 2 des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und mit Wirkung seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69), [68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15-4]: Worte gemäss Art. I Ziff. 4 des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69), [68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15-5]: Ursprünglich Abs. 5.
 
 #### Art. 15a
 
@@ -318,7 +368,7 @@ Der Vertragsstaat, in dem der Grenzgänger ansässig ist, berücksichtigt die na
 
 <sup>(4)</sup> Die zuständigen Behörden der Vertragsstaaten verständigen sich über die weiteren Einzelheiten sowie die verfahrensmässigen Voraussetzungen für die Anwendung der vorstehenden Absätze.
 
-[^15a-1]: Eingefügt durch Art. II des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^15a-1]: Eingefügt durch Art. II des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69), [68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
 
 #### Art. 16
 
@@ -326,11 +376,12 @@ Bezüge und Vergütungen, die eine in einem Vertragsstaat ansässige Person von 
 
 #### Art. 17
 
-<sup>(1)</sup> Ungeachtet der Artikel 7, 14 und 15 können Einkünfte, die berufsmässige Künstler, wie Bühnen-, Film-, Rundfunk- oder Fernsehkünstler und Musiker, sowie Sportler und Artisten für ihre in dieser Eigenschaft persönlich ausgeübte Tätigkeit beziehen, in dem Vertragsstaat besteuert werden, in dem sie diese Tätigkeit ausüben. Das gilt auch für die Einkünfte, die einer anderen Person für die Tätigkeit oder Überlassung des Künstlers, Sportlers oder Artisten zufliessen.
+<sup>(1)</sup> Ungeachtet der Artikel 7, 15 und 19[^17-1] können Einkünfte, die berufsmässige Künstler, wie Bühnen-, Film-, Rundfunk- oder Fernsehkünstler und Musiker, sowie Sportler und Artisten für ihre in dieser Eigenschaft persönlich ausgeübte Tätigkeit beziehen, in dem Vertragsstaat besteuert werden, in dem sie diese Tätigkeit ausüben. Das gilt auch für die Einkünfte, die einer anderen Person für die Tätigkeit oder Überlassung des Künstlers, Sportlers oder Artisten zufliessen.
 
-<sup>(2)</sup> Absatz 1 gilt nicht für Einkünfte aus Tätigkeiten berufsmässiger Künstler, die in erheblichem Umfang unmittelbar oder mittelbar durch Zuwendungen aus öffentlichen Mitteln des Staates, in dem der Künstler ansässig ist[^17-1], gefördert werden.
+<sup>(2)</sup> Absatz 1 gilt nicht für Einkünfte aus Tätigkeiten berufsmässiger Künstler, die in erheblichem Umfang unmittelbar oder mittelbar durch Zuwendungen aus öffentlichen Mitteln des Staates, in dem der Künstler ansässig ist[^17-2], gefördert werden.
 
-[^17-1]: Worte eingefügt durch Art. III des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^17-1]: Angabe gemäss Art. 15 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^17-2]: Worte eingefügt durch Art. III des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69), [68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
 
 #### Art. 18
 
@@ -338,22 +389,24 @@ Vorbehältlich des Artikels 19 können Ruhegehälter und ähnliche Vergütungen,
 
 #### Art. 19
 
-<sup>(1)</sup> Vergütungen, einschliesslich der Ruhegehälter, die von einem Vertragsstaat, einem Land, Kanton, Bezirk, Kreis, einer Gemeinde oder einem Gemeindeverband oder von einer juristischen Person des öffentlichen Rechts dieses Staates unmittelbar oder aus einem Sondervermögen an eine natürliche Person für erbrachte Dienste gewährt werden, können nur in diesem Staat besteuert werden. Jedoch können Vergütungen, ausgenommen Ruhegehälter, für Dienste, die in dem anderen Vertragsstaat von einem Staatsangehörigen dieses Staates erbracht werden, der nicht zugleich die Staatsangehörigkeit des erstgenannten Staates besitzt, nur in dem anderen Staat besteuert werden.
+<sup>(1)</sup> Vergütungen, einschliesslich der Ruhegehälter, die von einem Vertragsstaat, einem Land, Kanton, Bezirk, Kreis, einer Gemeinde oder einem Gemeindeverband oder von einer juristischen Person des öffentlichen Rechts dieses Staates unmittelbar oder aus einem Sondervermögen an eine natürliche Person für erbrachte Dienste gewährt werden, können nur in diesem Staat besteuert werden. Jedoch können Vergütungen, ausgenommen Ruhegehälter, nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist und nicht ausschliesslich zum Zweck der Leistung der Dienste in diesem Staat ansässig geworden ist.[^19-1]
 
 <sup>(2)</sup> Auf Vergütungen für Dienstleistungen, die im Zusammenhang mit einer kaufmännischen oder gewerblichen Tätigkeit eines der Vertragsstaaten, eines Landes, Kantons, Bezirks, Kreises, einer Gemeinde, eines Gemeindeverbandes oder einer juristischen Person des öffentlichen Rechts dieses Staates erbracht werden, finden die Artikel 15 und 16 Anwendung.
 
 <sup>(3)</sup> Absatz 1 findet ebenfalls Anwendung auf die Vergütungen, die von der Deutschen Bundesbank, der Deutschen Bundesbahn und der Deutschen Bundespost sowie von der Schweizerischen Nationalbank, den Schweizerischen Bundesbahnen, den schweizerischen Post-, Telefon- und Telegrafenbetrieben und der Schweizerischen Verkehrszentrale gezahlt werden.
 
-<sup>(4)</sup> Abweichend von den Absätzen 1 und 3 können Vergütungen der dort genannten Art, wenn sie von dem in den Grenzgebieten tätigen Personal der Bahn-, Post-, Telegrafen- und Zollverwaltungen der beiden Vertragsstaaten bezogen werden, nur in dem Vertragsstaat besteuert werden, in dem diese Personen ansässig sind.
+<sup>(4)</sup> Artikel 15*a*[^19-2] gilt entsprechend für die in den Absätzen 1 und 3 genannten Vergütungen, einschliesslich der Ruhegehälter[^19-3].[^19-4]
 
-<sup>(5)</sup> Artikel 15*a*[^19-1] gilt entsprechend für die in den Absätzen 1 und 3 genannten Vergütungen.[^19-2]
+<sup>(5)</sup> Absatz 1 Satz 1 gilt entsprechend für Bezüge aus öffentlichen Mitteln für gegenwärtige oder frühere Erfüllung der Wehrpflicht, einschliesslich der Unterhaltsbeiträge, die Angehörigen zum Wehrdienst Eingezogener gewährt werden.[^19-5]
 
-<sup>(6)</sup> Absatz 1 Satz 1 gilt entsprechend für Bezüge aus öffentlichen Mitteln für gegenwärtige oder frühere Erfüllung der Wehrpflicht, einschliesslich der Unterhaltsbeiträge, die Angehörigen zum Wehrdienst Eingezogener gewährt werden.
+<sup>(6)</sup> Ruhegehälter, Leibrenten und andere wiederkehrende oder nicht wiederkehrende Bezüge, die von einem der beiden Vertragsstaaten oder einer anderen juristischen Person des öffentlichen Rechts eines der beiden Vertragsstaaten als Vergütung für einen Schaden gewährt werden, der als Folge von Kriegshandlungen oder politischer Verfolgung entstanden ist, können nur in diesem Staat besteuert werden.[^19-6]
 
-<sup>(7)</sup> Ruhegehälter, Leibrenten und andere wiederkehrende oder nicht wiederkehrende Bezüge, die von einem der beiden Vertragsstaaten oder einer anderen juristischen Person des öffentlichen Rechts eines der beiden Vertragsstaaten als Vergütung für einen Schaden gewährt werden, der als Folge von Kriegshandlungen oder politischer Verfolgung entstanden ist, können nur in diesem Staat besteuert werden.
-
-[^19-1]: Worte gemäss Art. IV des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
-[^19-2]: Die Berichtigung vom 15. Dez. 2016, veröffentlicht am 28. Dez. 2016, betrifft nur den französischen Text ([AS 2016 5323](https://fedlex.data.admin.ch/eli/oc/2016/849)).
+[^19-1]: Fassung des zweiten Satzes gemäss Art. 16 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^19-2]: Worte gemäss Art. IV des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69), [68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^19-3]: Wörter eingefügt durch Art. 16 Abs. 3 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^19-4]: Ursprünglich: Abs. 5.
+[^19-5]: Ursprünglich: Abs. 6.
+[^19-6]: Ursprünglich: Abs. 7.
 
 #### Art. 20
 
@@ -367,7 +420,7 @@ Die in den vorstehenden Artikeln nicht ausdrücklich erwähnten Einkünfte einer
 
 <sup>(1)</sup> Unbewegliches Vermögen im Sinne des Artikels 6 Absatz 2 kann in dem Vertragsstaat besteuert werden, in dem dieses Vermögen liegt.
 
-<sup>(2)</sup> Bewegliches Vermögen, das Betriebsvermögen einer Betriebsstätte eines Unternehmens darstellt oder das zu einer der Ausübung eines freien Berufes dienenden festen Einrichtung gehört, kann in dem Vertragsstaat besteuert werden, in dem sich die Betriebsstätte oder die feste Einrichtung befindet.
+<sup>(2)</sup> Bewegliches Vermögen, das zum Betriebsvermögen einer Betriebsstätte gehört, die ein Unternehmen eines Vertragsstaats im anderen Vertragsstaat hat, kann im anderen Staat besteuert werden.[^22-1]
 
 <sup>(3)</sup> Seeschiffe und Luftfahrzeuge im internationalen Verkehr und Schiffe, die der Binnenschiffahrt dienen, sowie bewegliches Vermögen, das dem Betrieb dieser Schiffe und Luftfahrzeuge dient, können nur in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
 
@@ -377,6 +430,8 @@ Die in den vorstehenden Artikeln nicht ausdrücklich erwähnten Einkünfte einer
 
 <sup>(6)</sup> Alle anderen Vermögenswerte einer in einem Vertragsstaat ansässigen Person können nur in diesem Staat besteuert werden.
 
+[^22-1]: Fassung gemäss Art. 17 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+
 #### Art. 23
 
 [^23-1]
@@ -385,7 +440,10 @@ Die in den vorstehenden Artikeln nicht ausdrücklich erwähnten Einkünfte einer
 
 <sup>(2)</sup> Führen die Bestimmungen des Absatzes 1 zu einer Doppelbesteuerung, beraten die zuständigen Behörden nach Artikel 26 Absatz 3 gemeinsam darüber, ob die Doppelbesteuerung zu vermeiden ist.
 
-[^23-1]: Fassung gemäss Art. III des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+<sup>(3)</sup> Ungeachtet anderer Bestimmungen dieses Abkommens wird eine Vergünstigung nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieser Vergünstigung einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu dieser Vergünstigung geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieser Vergünstigung unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.[^23-2]
+
+[^23-1]: Fassung gemäss Art. III des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387), [2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^23-2]: Eingefügt durch Art. 18 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 24
 
@@ -398,20 +456,18 @@ Bei einer Person, die in der Bundesrepublik Deutschland ansässig ist, wird die 
   Von der Bemessungsgrundlage der deutschen Steuer werden die folgenden aus der Schweiz stammenden Einkünfte, die nach den vorstehenden Artikeln in der Schweiz besteuert werden können, ausgenommen:
 
   - a) Gewinne im Sinne des Artikels 7 aus eigener Tätigkeit einer Betriebsstätte, soweit die Gewinne nachweislich durch Herstellung, Bearbeitung, Verarbeitung oder Montage von Gegenständen, Aufsuchen und Gewinnung von Bodenschätzen, Bank- und Versicherungsgeschäfte, Handel oder Erbringung von Dienstleistungen unter Teilnahme am allgemeinen Wirtschaftsverkehr erzielt werden; gleiches gilt für die Einkünfte aus unbeweglichem Vermögen, das einer solchen Betriebsstätte dient (Artikel 6 Absatz 4), sowie für die Gewinne aus der Veräusserung dieses unbeweglichen Vermögens, (Artikel 13 Absatz 1) und des beweglichen Vermögens, das Betriebsvermögen der Betriebsstätte darstellt (Artikel 13 Absatz 2). Dies gilt nicht für Einkünfte aus einer stillen Beteiligung als Mitunternehmer an einem in der Schweiz ansässigen Unternehmen, soweit die Schweiz diese Einkünfte nicht nach Artikel 7 besteuert;[^24-1]
-  - b)[^24-2] Dividenden im Sinne des Artikels 10, die eine in der Schweiz ansässige Gesellschaft an eine in der Bundesrepublik Deutschland ansässige Gesellschaft ausschüttet,
-    - – wenn die in der Bundesrepublik Deutschland ansässige Gesellschaft über mindestens 20 vom Hundert des Kapitals der die Dividenden zahlenden Gesellschaft verfügt und
-    - – wenn die in der Schweiz ansässige Gesellschaft in dem Wirtschaftsjahr, für das sie die Ausschüttung vorgenommen hat, ihre Bruttoerträge ausschliesslich oder fast ausschliesslich aus unter § 8 Absatz 1 Nr. 1 bis 6 des deutschen Aussensteuergesetzes fallenden Tätigkeiten oder aus unter § 8 Absatz 2 dieses Gesetzes fallenden Beteiligungen bezieht; massgeblich ist die am 1. Januar 1990 geltende Fassung dieses Gesetzes;
+  - b)[^24-2] Dividenden an eine in der Bundesrepublik Deutschland ansässige Gesellschaft (jedoch nicht an eine Personengesellschaft), die von einer in der Schweiz ansässigen Gesellschaft gezahlt werden, deren Kapital zu mindestens 10 Prozent unmittelbar der in der Bundesrepublik Deutschland ansässigen Gesellschaft gehört. Diese Ausnahme von der Bemessungsgrundlage gilt weder für Dividenden einer steuerbefreiten Gesellschaft noch für Dividenden, die von der ausschüttenden Gesellschaft für Zwecke der Steuer in der Schweiz abgezogen werden können, noch für Dividenden, die nach dem Recht der Bundesrepublik Deutschland einer Person zugerechnet werden, die keine in der Bundesrepublik Deutschland ansässige Gesellschaft ist. Für die Zwecke der Steuern vom Vermögen werden von der Bemessungsgrundlage die Vermögenswerte ausgenommen, die nach Artikel 22 Absätze 1 und 2 in der Schweiz besteuert werden können, sowie Beteiligungen, deren Dividenden, falls solche gezahlt werden, nach den vorhergehenden Sätzen von der Bemessungsgrundlage auszunehmen wären;
+  - c)[^24-3] Gehälter, Löhne und ähnliche Vergütungen im Sinne des Artikels 15, soweit sie nicht unter Artikel 17 fallen, vorausgesetzt, die Arbeit wird in der Schweiz ausgeübt.
 
-  - c) Einkünfte aus einem freien Beruf oder sonstiger selbständiger Tätigkeit im Sinne des Artikels 14, soweit sie nicht unter Artikel 17 fallen; gleiches gilt für die Einkünfte aus unbeweglichem Vermögen, das der Ausübung des freien Berufes dient (Artikel 6 Absatz 4), sowie für die Gewinne aus der Veräusserung dieses unbeweglichen Vermögens (Artikel 13 Absatz 1) und des beweglichen Vermögens, das zur festen Einrichtung gehört (Artikel 13 Absatz 2);
-  - d) Gehälter, Löhne und ähnliche Vergütungen im Sinne des Artikels 15, soweit sie nicht unter Artikel 17 fallen, vorausgesetzt, die Arbeit wird in der Schweiz ausgeübt.
+- …[^24-4]
+- 2\.[^24-5] Die Bundesrepublik Deutschland behält das Recht, die nach den Bestimmungen dieses Abkommens von der deutschen Steuer ausgenommenen Einkünfte und Vermögenswerte bei der Festsetzung ihres Steuersatzes zu berücksichtigen. Dies gilt entsprechend für die in der Schweiz belegenen Vermögenswerte, wenn die daraus erzielten Einkünfte nach Nummer 1 Buchstaben a und b von der Bemessungsgrundlage der deutschen Steuer auszunehmen sind oder auszunehmen wären.
+- 3\.[^24-6] Soweit Nummer 1 nicht anzuwenden ist, wird bei den aus der Schweiz stammenden Einkünften und bei den dort belegenen Vermögenswerten die in Übereinstimmung mit diesem Abkommen erhobene und nicht zu erstattende schweizerische Steuer nach Massgabe der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern auf den Teil der deutschen Steuer (mit Ausnahme der Gewerbesteuer) angerechnet, der auf diese Einkünfte oder Vermögenswerte entfällt.
+- 4\.[^24-7] Bei einer nach deutschem Recht errichteten Offenen Handelsgesellschaft oder Kommanditgesellschaft, an der neben in der Bundesrepublik Deutschland ansässigen Personen auch Personen beteiligt sind, die nicht in der Bundesrepublik Deutschland ansässig sind, und die ihre Geschäftsleitung in der Bundesrepublik Deutschland hat, finden hinsichtlich der aus der Schweiz stammenden Einkünfte die Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern auch auf den Teil der Einkünfte entsprechend Anwendung, der der deutschen Besteuerung unterliegt und der auf die nicht in der Bundesrepublik Deutschland ansässigen Personen entfällt.
+- 5\.[^24-8] …
 
-- Die Bundesrepublik Deutschland wird jedoch diese Einkünfte bei der Festsetzung des Satzes ihrer Steuer auf die Einkünfte, die nach dieser Vorschrift nicht von der Bemessungsgrundlage der deutschen Steuer auszunehmen sind, einbeziehen.
-- Das Vorstehende gilt entsprechend für die in der Schweiz belegenen Vermögenswerte, wenn die daraus erzielten Einkünfte nach den Buchstaben a bis c von der Bemessungsgrundlage der deutschen Steuer auszunehmen sind oder auszunehmen wären.
-- 2\. Soweit Nummer 1 nicht anzuwenden ist, wird bei den aus der Schweiz stammenden Einkünften und bei den dort belegenen Vermögenswerten die in Übereinstimmung mit diesem Abkommen erhobene und nicht zu erstattende schweizerische Steuer nach Massgabe der Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern auf den Teil der deutschen Steuer (mit Ausnahme der Gewerbesteuer) angerechnet, der auf diese Einkünfte oder Vermögenswerte entfällt.
-- 3\. Bei einer nach deutschem Recht errichteten Offenen Handelsgesellschaft oder Kommanditgesellschaft, an der neben in der Bundesrepublik Deutschland ansässigen Personen auch Personen beteiligt sind, die nicht in der Bundesrepublik Deutschland ansässig sind, und die ihre Geschäftsleitung in der Bundesrepublik Deutschland hat, finden hinsichtlich der aus der Schweiz stammenden Einkünfte die Vorschriften des deutschen Rechts über die Anrechnung ausländischer Steuern auch auf den Teil der Einkünfte entsprechend Anwendung, der der deutschen Besteuerung unterliegt und der auf die nicht in der Bundesrepublik Deutschland ansässigen Personen entfällt.
-- 4\.[^24-3] Verwendet eine in der Bundesrepublik Deutschland ansässige Gesellschaft Einkünfte aus Quellen innerhalb der Schweiz zur Ausschüttung, so stehen die Nummern 1 bis 3 der Herstellung der Ausschüttungsbelastung nach den Vorschriften des Steuerrechts der Bundesrepublik Deutschland nicht entgegen.
+<sup>(2)</sup>
 
-(2)[^24-4] Bei einer Person, die in der Schweiz ansässig ist, wird die Doppelbesteuerung wie folgt vermieden:
+Bei einer Person, die in der Schweiz ansässig ist, wird die Doppelbesteuerung wie folgt vermieden:
 
 - 1\. Bezieht eine in der Schweiz ansässige Person Einkünfte oder hat sie Vermögen und können diese Einkünfte oder dieses Vermögen nach diesem Abkommen (ausgenommen Artikel 4 Absätze 3, 4 und 9 und Artikel 23) in der Bundesrepublik Deutschland besteuert werden, so nimmt die Schweiz diese Einkünfte (ausgenommen Dividenden) oder dieses Vermögen von der Besteuerung aus; die Schweiz kann aber bei der Festsetzung der Steuer für das übrige Einkommen oder das übrige Vermögen dieser ansässigen Person den Steuersatz anwenden, der anzuwenden wäre, wenn die betreffenden Einkünfte oder das betreffende Vermögen nicht von der Besteuerung ausgenommen wären.
 - 2\. Bezieht eine in der Schweiz ansässige Person Dividenden, die nach Artikel 10 in der Bundesrepublik Deutschland besteuert werden können, so gewährt die Schweiz dieser Person auf Antrag eine Entlastung. Diese Entlastung besteht
@@ -421,36 +477,48 @@ Bei einer Person, die in der Bundesrepublik Deutschland ansässig ist, wird die 
 
 - Die Entlastung besteht jedoch im Abzug der in der Bundesrepublik Deutschland erhobenen Steuer vom Bruttoertrag der Dividenden, wenn der in der Schweiz ansässige Empfänger gemäss Artikel 23 die in Artikel 10 vorgesehene Begrenzung der deutschen Steuer von den Dividenden nicht beanspruchen kann.
 - 3\. Bezieht eine in der Schweiz ansässige Person Zinsen, Lizenzgebühren oder Veräusserungsgewinne, die nach Artikel 23 in der Bundesrepublik Deutschland besteuert werden können, so gewährt die Schweiz den Abzug der in der Bundesrepublik Deutschland erhobenen Steuer vom Bruttoertrag der Zinsen, Lizenzgebühren oder Veräusserungsgewinne.
-- 4\. Ungeachtet der Nummer 1 nimmt die Schweiz die einer in der Schweiz ansässigen Person gehörenden Anteile an einer in der Bundesrepublik Deutschland ansässigen Gesellschaft mit beschränkter Haftung noch während fünf Jahren vom Zeitpunkt der erstmaligen Anwendung dieses Abkommens an gerechnet von der schweizerischen Steuer vom Vermögen aus; sie behält aber das Recht, bei der Festsetzung der Steuer für das übrige Vermögen dieser ansässigen Person den Steuersatz anzuwenden, der anzuwenden wäre, wenn diese Anteile nicht von der Besteuerung ausgenommen wären.
-- 5\. Die Schweiz wird gemäss den Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung die Art der nach Nummer 2[^24-5] vorgesehenen Entlastung bestimmen und das Verfahren ordnen.
+- 4\.[^24-9] Die Schweiz wird gemäss den Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung die Art der nach Nummer 2[^24-10] vorgesehenen Entlastung bestimmen und das Verfahren ordnen.[^24-11]
 
-[^24-1]: Letzter Satz eingefügt durch Art. V des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69)[68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
-[^24-2]: Fassung gemäss Art. III des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 und in Kraft seit 30. Nov. 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
-[^24-3]: Eingefügt durch Art. IV des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 und in Kraft seit 30. Nov. 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)).
-[^24-4]: Bereinigt gemäss Art. V des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807)[1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)) und Art. IV des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
-[^24-5]: Fassung gemäss Art. IV Nr. 5 des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+<sup>(3)</sup> Absatz 1 Nummer 1 und Absatz 2 Nummer 1 gelten nicht für Einkünfte oder für Vermögen einer in einem Vertragsstaat ansässigen Person, wenn der andere Vertragsstaat dieses Abkommen anwendet, um solche Einkünfte oder Vermögen von der Besteuerung auszunehmen, oder wenn er Artikel 10 Absatz 2 für solche Einkünfte anwendet.[^24-12]
+
+<sup>(4)</sup> Absatz 1 Nummer 1 Buchstabe a und Absatz 2 Nummer 1 stehen der Anwendung von in einem Vertragsstaat geltenden Vorschriften zur Umsetzung der internationalen Mustervorschriften zur Mindestbesteuerung («Global-Anti-Base-Erosion-Regelung») nicht entgegen, die bei einer in diesem Vertragsstaat ansässigen Person die Erhebung einer diesen Mustervorschriften entsprechenden Ergänzungssteuer in Bezug auf eine im anderen Vertragsstaat gelegene Betriebsstätte vorsehen.[^24-13]
+
+[^24-1]: Letzter Satz eingefügt durch Art. V des Prot. vom 21. Dez. 1992, von der BVers genehmigt am 6. Okt. 1993 und in Kraft seit 29. Dez. 1993 ([AS 1994 69](https://fedlex.data.admin.ch/eli/oc/1994/69_69_69), [68](https://fedlex.data.admin.ch/eli/oc/1994/68_68_68); [BBl 1993 I 1521](https://fedlex.data.admin.ch/eli/fga/1993/1_1521_1417_1221)).
+[^24-2]: Fassung gemäss Art. 19 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^24-3]: Ursprünglich: Bst. d.
+[^24-4]: Sätze aufgehoben durch Art. 19 Abs. 4 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und mit Wirkung seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^24-5]: Eingefügt durch Art. 19 Abs. 5 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^24-6]: Ursprünglich: Nr. 2.
+[^24-7]: Ursprünglich: Nr. 3.
+[^24-8]: Ursprünglich: Nr. 4. Eingefügt durch Art. IV des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807), [1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)). Aufgehoben durch Art. 19 Abs. 6 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und mit Wirkung seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^24-9]: Ursprünglich: Nr. 5.
+[^24-10]: Fassung gemäss Art. IV Nr. 5 des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387), [2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^24-11]: Bereinigt gemäss Art. V des Prot. vom 17. Okt. 1989, von der BVers genehmigt am 8. Juni 1990 ([AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807), [1806](https://fedlex.data.admin.ch/eli/oc/1990/1806_1806_1806); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)) und Art. IV des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 und in Kraft seit 24. März 2003 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387), [2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)).
+[^24-12]: Eingefügt durch Art. 19 Abs. 8 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^24-13]: Eingefügt durch Art. 19 Abs. 9 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 #### Art. 25
 
-<sup>(1)</sup> Die Staatsangehörigen eines Vertragsstaates dürfen in dem anderen Vertragsstaat weder einer Besteuerung noch einer damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender sind als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen die Staatsangehörigen des anderen Staates unter gleichen Verhältnissen unterworfen sind oder unterworfen werden können.
+<sup>(1)</sup> Die Staatsangehörigen eines Vertragsstaates dürfen in dem anderen Vertragsstaat weder einer Besteuerung noch einer damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender sind als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen die Staatsangehörigen des anderen Staates unter gleichen Verhältnissen unterworfen sind oder unterworfen werden können. Diese Bestimmung gilt ungeachtet des Artikels 1 auch für Personen, die in keinem Vertragsstaat ansässig sind.[^25-1]
 
 <sup>(2)</sup> Die Besteuerung einer Betriebsstätte, die ein Unternehmen eines Vertragsstaates in dem anderen Vertragsstaat hat, darf in dem anderen Staat nicht ungünstiger sein als die Besteuerung von Unternehmen des anderen Staates, die die gleiche Tätigkeit ausüben.
 
 Diese Bestimmung ist nicht so auszulegen, als verpflichte sie einen Vertragsstaat, den in dem anderen Vertragsstaat ansässigen Personen Steuerfreibeträge, -vergünstigungen und -ermässigungen auf Grund des Personenstandes oder der Familienlasten zu gewähren, die er den in seinem Gebiet ansässigen Personen gewährt.
 
-(3)[^25-1] Sofern nicht Artikel 9, Artikel 11 Absatz 4 oder Artikel 12 Absatz 4 anzuwenden ist, sind Zinsen, Lizenzgebühren und andere Entgelte, die ein Unternehmen eines Vertragsstaats an eine im anderen Vertragsstaat ansässige Person zahlt, bei der Ermittlung der steuerpflichtigen Gewinne dieses Unternehmens unter den gleichen Bedingungen wie Zahlungen an eine im erstgenannten Staat ansässige Person zum Abzug zuzulassen. Dementsprechend sind Schulden, die ein Unternehmen eines Vertragsstaats gegenüber einer im anderen Vertragsstaat ansässigen Person hat, bei der Ermittlung des steuerpflichtigen Vermögens dieses Unternehmens unter den gleichen Bedingungen wie Schulden gegenüber einer im erstgenannten Staat ansässigen Person zum Abzug zuzulassen.
+<sup>(3)</sup> Sofern nicht Artikel 9, Artikel 11 Absatz 4 oder Artikel 12 Absatz 4 anzuwenden ist, sind Zinsen, Lizenzgebühren und andere Entgelte, die ein Unternehmen eines Vertragsstaats an eine im anderen Vertragsstaat ansässige Person zahlt, bei der Ermittlung der steuerpflichtigen Gewinne dieses Unternehmens unter den gleichen Bedingungen wie Zahlungen an eine im erstgenannten Staat ansässige Person zum Abzug zuzulassen. Dementsprechend sind Schulden, die ein Unternehmen eines Vertragsstaats gegenüber einer im anderen Vertragsstaat ansässigen Person hat, bei der Ermittlung des steuerpflichtigen Vermögens dieses Unternehmens unter den gleichen Bedingungen wie Schulden gegenüber einer im erstgenannten Staat ansässigen Person zum Abzug zuzulassen.[^25-2]
 
-(4)[^25-2] Die Unternehmen eines Vertragsstaates, deren Kapital ganz oder teilweise, unmittelbar oder mittelbar, einer in dem anderen Vertragsstaat ansässigen Person oder mehreren solchen Personen gehört oder ihrer Kontrolle unterliegt, dürfen in dem erstgenannten Vertragsstaat weder einer Besteuerung noch einer damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender sind als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen andere ähnliche Unternehmen des erstgenannten Staates unterworfen sind oder unterworfen werden können.
+<sup>(4)</sup> Die Unternehmen eines Vertragsstaates, deren Kapital ganz oder teilweise, unmittelbar oder mittelbar, einer in dem anderen Vertragsstaat ansässigen Person oder mehreren solchen Personen gehört oder ihrer Kontrolle unterliegt, dürfen in dem erstgenannten Vertragsstaat weder einer Besteuerung noch einer damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender sind als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen andere ähnliche Unternehmen des erstgenannten Staates unterworfen sind oder unterworfen werden können.[^25-3]
 
-(5)[^25-3] In diesem Artikel bedeutet der Ausdruck «Besteuerung» Steuern jeder Art und Bezeichnung.
+<sup>(5)</sup> In diesem Artikel bedeutet der Ausdruck «Besteuerung» Steuern jeder Art und Bezeichnung.[^25-4]
 
-[^25-1]: Eingefügt durch Art. 2 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
-[^25-2]: Ursprünglich: Abs. 3
-[^25-3]: Ursprünglich: Abs. 4
+[^25-1]: Satz eingefügt durch Art. 20 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^25-2]: Eingefügt durch Art. 2 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129), [823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^25-3]: Ursprünglich: Abs. 3
+[^25-4]: Ursprünglich: Abs. 4
 
 #### Art. 26
 
-<sup>(1)</sup> Ist eine in einem Vertragsstaat ansässige Person der Auffassung, dass die Massnahmen eines Vertragsstaates oder beider Vertragsstaaten für sie zu einer Besteuerung geführt haben oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach innerstaatlichem Recht dieser Staaten vorgesehenen Rechtsbehelfe ihren Fall der zuständigen Behörde des Vertragsstaates unterbreiten, in dem sie ansässig ist.
+<sup>(1)</sup> Ist eine in einem Vertragsstaat ansässige Person der Auffassung, dass die Massnahmen eines Vertragsstaates oder beider Vertragsstaaten für sie zu einer Besteuerung geführt haben oder führen werden, die diesem Abkommen nicht entspricht, so kann sie unbeschadet der nach innerstaatlichem Recht dieser Staaten vorgesehenen Rechtsbehelfe ihren Fall der zuständigen Behörde des Vertragsstaates unterbreiten, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 25 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehörige sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.[^26-1]
 
 <sup>(2)</sup> Hält diese zuständige Behörde die Einwendung für begründet und ist sie selbst nicht in der Lage, eine befriedigende Lösung herbeizuführen, so wird sie sich bemühen, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaates so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
@@ -458,33 +526,36 @@ Diese Bestimmung ist nicht so auszulegen, als verpflichte sie einen Vertragsstaa
 
 <sup>(4)</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren. Erscheint ein mündlicher Meinungsaustausch für die Herbeiführung der Einigung zweckmässig, so kann ein solcher Meinungsaustausch in einer Kommission durchgeführt werden, die aus Vertretern der zuständigen Behörden der Vertragsstaaten besteht.
 
-(7)[^26-1] Die zuständigen Behörden der Vertragsstaaten regeln die weiteren Einzelheiten der Anwendung und Durchführung des Schiedsverfahrens durch Verständigungsvereinbarung.
+<sup>(5)</sup>
 
-(5)[^26-2] Haben sich die zuständigen Behörden im Rahmen eines Verständigungsverfahrens nach diesem Artikel erfolglos um eine umfassende Einigung in einem Fall bemüht, so wird der Fall durch ein Schiedsverfahren beigelegt, das gemäss den Anforderungen des Absatzes 6 und den von den Vertragsstaaten vereinbarten Vorschriften oder Verfahren durchgeführt wird, wenn:
+Haben sich die zuständigen Behörden im Rahmen eines Verständigungsverfahrens nach Absatz 1[^26-2] erfolglos um eine umfassende Einigung in einem Fall bemüht, werden ungeklärte Fragen des Falles auf schriftlichen Antrag der Person, die der zuständigen Behörde eines Vertragsstaats einen Fall nach Absatz 1 vorgelegt hat, einem Schiedsverfahren unterworfen[^26-3], das gemäss den Anforderungen des Absatzes 6 und den von den Vertragsstaaten vereinbarten Vorschriften oder Verfahren durchgeführt wird, wenn:
 
 - a) in mindestens einem Vertragsstaat eine Steuererklärung bezüglich der Steuerjahre im streitigen Fall eingereicht oder ein Steuerabzug vorgenommen wurde;
-- b) die zuständigen Behörden nicht vor dem Zeitpunkt, in dem das Schiedsverfahren anderenfalls begonnen hätte, übereinkommen, dass der Fall nicht für ein Schiedsverfahren geeignet ist; und
-- c) alle betroffenen Personen den Bestimmungen von Absatz 6 Buchstabe d zugestimmt haben.
+- b)[^26-4] die zuständigen Behörden nicht innerhalb von drei Jahren ab dem Anfangszeitpunkt übereinkommen, dass der Fall nicht für ein Schiedsverfahren geeignet ist; und
+- c) alle betroffenen Personen den Bestimmungen von Absatz 6 Buchstabe d zugestimmt haben.[^26-5]
 
-(6)[^26-3] Zum Zweck von Absatz 5 und dieses Absatzes sind folgende Bestimmungen und Definitionen anzuwenden:
+<sup>(6)</sup>
+
+Zum Zweck von Absatz 5 und dieses Absatzes sind folgende Bestimmungen und Definitionen anzuwenden:
 
 - a) Der Ausdruck «betroffene Person» bedeutet diejenige Person, die den Fall der zuständigen Behörde zur Beurteilung nach diesem Artikel unterbreitet hat, sowie gegebenenfalls jede andere Person, deren Steuerpflicht in einem der beiden Vertragsstaaten unmittelbar durch die sich aufgrund dieser Beurteilung ergebende Verständigungslösung berührt wird.
 - b) Der Ausdruck «Anfangszeitpunkt» eines Falles ist der früheste Zeitpunkt, in dem beide zuständigen Behörden die zur materiellen Beurteilung eines Verständigungsverfahrens nötigen Informationen erhalten haben.
-- c)
-
-  Ein Schiedsverfahren für einen Fall beginnt:
-
-  - aa) entweder drei Jahre nach dem Anfangszeitpunkt des Falles, sofern sich die zuständigen Behörden nicht vorher auf ein anderes Datum geeinigt haben;
-  - bb) oder sobald die beiden zuständigen Behörden die in Buchstabe d geforderte Zustimmung erhalten haben;
-
-- je nachdem, welcher dieser beiden Zeitpunkte später eintritt.
+- c)[^26-6] Vorbehaltlich des Absatzes 5 Buchstabe b ist ein Antrag auf Durchführung eines Schiedsverfahrens nach Absatz 5 frühestens drei Jahre nach dem Anfangszeitpunkt zulässig, sofern sich die zuständigen Behörden nicht vorher auf einen anderen Zeitpunkt geeinigt haben. Der Antrag ist bei der zuständigen Behörde einzureichen, bei der ein Antrag nach Absatz 1 gestellt wurde, und hat die in Buchstabe d geforderte Einwilligung zu enthalten. Die zuständigen Behörden können einvernehmlich eine Frist für die Antragstellung setzen. Wird der Antrag nicht innerhalb der Frist gestellt, ist das Schiedsverfahren ausgeschlossen.
 - d) Die betroffenen Personen und ihre bevollmächtigten Vertreter müssen vor Beginn des Schiedsverfahrens einwilligen, keine Informationen, die sie im Laufe des Schiedsverfahrens von einem der beiden Vertragsstaaten oder von der Schiedsstelle erhalten haben, mit Ausnahme der Schiedsentscheidung, anderen Personen offenzulegen.
-- e) Die Entscheidung der Schiedsstelle gilt als Beilegung durch Verständigung nach diesem Artikel; sie ist für beide Vertragsstaaten bezüglich dieses Falls bindend, es sei denn, dass eine betroffene Person sie nicht anerkennt.
-- f) Zum Zweck eines Schiedsverfahrens nach Absatz 5 und diesem Absatz sind die Mitglieder der Schiedsstelle und deren Mitarbeiter als beteiligte «Personen oder Behörden» anzusehen, denen Informationen gemäss Artikel 27 zugänglich gemacht werden dürfen.
+- e)[^26-7] Die Entscheidung der Schiedsstelle über die dem Schiedsverfahren unterworfenen Fragen wird durch eine Verständigung nach diesem Artikel umgesetzt; die Entscheidung ist für beide Vertragsstaaten in diesem Fall bezüglich dieser Fragen bindend, es sei denn, dass eine betroffene Person die sie umsetzende Verständigung nicht anerkennt. Nimmt eine vom Fall unmittelbar betroffene Person die abschliessende Verständigungsvereinbarung nicht innerhalb von 60 Tagen an, nachdem ihr diese übermittelt wurde, gilt diese als abgelehnt.
+- f) Zum Zweck eines Schiedsverfahrens nach Absatz 5 und diesem Absatz sind die Mitglieder der Schiedsstelle und deren Mitarbeiter als beteiligte «Personen oder Behörden» anzusehen, denen Informationen gemäss Artikel 27 zugänglich gemacht werden dürfen.[^26-8]
 
-[^26-1]: Eingefügt durch Art. 3 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
-[^26-2]: Eingefügt durch Art. 3 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
-[^26-3]: Eingefügt durch Art. 3 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+<sup>(7)</sup> Die zuständigen Behörden der Vertragsstaaten regeln die weiteren Einzelheiten der Anwendung und Durchführung des Schiedsverfahrens durch Verständigungsvereinbarung.[^26-9]
+
+[^26-1]: Sätze eingefügt durch Art. 21 Abs. 1 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^26-2]: Angabe gemäss Art. 21 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^26-3]: Wörter gemäss Art. 21 Abs. 2 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^26-4]: Fassung gemäss Art. 21 Abs. 3 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^26-5]: Eingefügt durch Art. 3 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129), [823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^26-6]: Fassung gemäss Art. 21 Abs. 4 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^26-7]: Fassung gemäss Art. 21 Abs. 5 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
+[^26-8]: Eingefügt durch Art. 3 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129), [823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^26-9]: Eingefügt durch Art. 3 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129), [823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
 
 #### Art. 27
 
@@ -506,7 +577,7 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 <sup>(5)</sup> Absatz 3 ist in keinem Fall so auszulegen, als könne ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen, weil die Informationen sich bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigen, Vertreter oder Treuhänder befinden oder weil sie sich auf das Eigentum an einer Person beziehen. Ungeachtet des Absatzes 3 oder entgegenstehender Bestimmungen des innerstaatlichen Rechts verfügen die Steuerbehörden des ersuchten Vertragsstaats, sofern dies für die Erfüllung der Verpflichtungen unter diesem Absatz erforderlich ist, über die Befugnis, die Offenlegung der in diesem Absatz genannten Informationen durchzusetzen.
 
-[^27-1]: Fassung gemäss Art. 4 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^27-1]: Fassung gemäss Art. 4 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129), [823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
 
 #### Art. 28
 
@@ -536,8 +607,8 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 <sup>(2)</sup> Das Zusatzprotokoll vom 6. Juli 1956[^30-2] zum Abkommen zwischen dem Deutschen Reiche und der Schweizerischen Eidgenossenschaft vom 15. Juli 1931 zur Vermeidung der Doppelbesteuerung auf dem Gebiete der direkten Steuern und der Erbschaftssteuern bleibt neben diesem Abkommen bestehen.
 
-[^30-1]: [BS **12** 601; [AS 1959 322](https://fedlex.data.admin.ch/eli/oc/1959/322_336_313)Ziff. I, II 331 [793](https://fedlex.data.admin.ch/eli/oc/1959/793_822_807)Ziff. I, II, IV. [AS 1980 1417](https://fedlex.data.admin.ch/eli/oc/1980/1417_1417_1417)Art. 15]
-[^30-2]: [[AS 1957 701](https://fedlex.data.admin.ch/eli/oc/1957/701_707_727)]
+[^30-1]: [BS **12** 601; [AS 1959 322](https://fedlex.data.admin.ch/eli/oc/1959/322_336_313)Ziff. I und II ,331, 793 Ziff. I, II und IV. [AS 1980 1417](https://fedlex.data.admin.ch/eli/oc/1980/1417_1417_1417)Art. 15]
+[^30-2]: [AS **1957** 701]
 
 #### Art. 31
 
@@ -566,8 +637,7 @@ Dieses Abkommen bleibt in Kraft, solange es nicht von einem der Vertragsstaaten 
 - b) auf die sonstigen Steuern, die für das Jahr erhoben werden, auf dessen Ende die Kündigung ausgesprochen worden ist.
 
 <table>
-<tr><td>Für die Schweizerische Eidgenossenschaft:</td><td>Für die Bundesrepublik Deutschland:</td></tr>
-<tr><td>Hans Lacher</td><td>Paul Frank Detlev Rohwedder</td></tr>
+<tr><td>Für die Schweizerische Eidgenossenschaft: Hans Lacher</td><td>Für die Bundesrepublik Deutschland: Paul Frank Detlev Rohwedder</td></tr>
 </table>
 
 ## Briefwechsel vom 11. August 1971
@@ -602,17 +672,21 @@ Genehmigen Sie die Versicherung meiner ausgezeichneten Hochachtung
 <tr><td></td><td>Hans Lacher</td></tr>
 </table>
 
-## Notenwechsel vom 17. Oktober 1989****
+## Notenwechsel vom 17. Oktober 1989
 
 [^lvlu36-1]
 
 [^lvlu36-1]: [AS 1990 1807](https://fedlex.data.admin.ch/eli/oc/1990/1807_1807_1807); [BBl 1989 III 1509](https://fedlex.data.admin.ch/eli/fga/1989/3_1509_1433_1325)
 
-Der Gesandte Bonn, den 17. Oktober 1989 der Schweizerischen Botschaft
-
-Seiner Exzellenz dem Staatssekretär des Auswärtigen Amtes Dr. Hans Werner Lautenschlager
-
-Bonn
+<table>
+<tr><td>Der Gesandte</td><td>Bonn, den 17. Oktober 1989</td></tr>
+<tr><td>der Schweizerischen Botschaft</td><td></td></tr>
+<tr><td></td><td>Seiner Exzellenz</td></tr>
+<tr><td></td><td>dem Staatssekretär</td></tr>
+<tr><td></td><td>des Auswärtigen Amtes</td></tr>
+<tr><td></td><td>Dr. Hans Werner Lautenschlager</td></tr>
+<tr><td></td><td>Bonn</td></tr>
+</table>
 
 Herr Staatssekretär,
 
@@ -625,11 +699,13 @@ Ich beehre mich, Ihnen bekanntzugeben, dass dieser Vorschlag die Billigung des S
 
 Genehmigen Sie die Versicherung meiner ausgezeichneten Hochachtung.
 
-Jürg Leutert
+<table>
+<tr><td></td><td>Jürg Leutert</td></tr>
+</table>
 
 [^lvlu36-2]: [AS 1980 1427](https://fedlex.data.admin.ch/eli/oc/1980/1427_1427_1427). Dieses Prot. ist heute gegenstandslos.
 
-## Verhandlungsprotokoll vom 18. Dezember 1991****
+## Verhandlungsprotokoll vom 18. Dezember 1991
 
 [^lvlu37-1]
 
@@ -657,11 +733,11 @@ III. Zu Artikel 15*a* Absatz 3
 
 Der Bruttobetrag der Vergütungen und die im Tätigkeitsstaat erhobene Abzugssteuer sind für Zwecke der Berücksichtigung im Ansässigkeitsstaat durch eine Bescheinigung des Arbeitgebers nachzuweisen. Der Arbeitgeber ist verpflichtet, diese Bescheinigung auf Verlangen des Arbeitnehmers auszustellen.
 
-## Protokoll**** zum Abkommen vom 11. August 1971 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen in der Fassung des Protokolls vom 21. Dezember 1992
+## Protokoll zum Abkommen vom 11. August 1971 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen in der Fassung des Protokolls vom 21. Dezember 1992
 
 [^lvlu38-1]
 
-[^lvlu38-1]: Eingefügt durch Art. VI des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)[2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)). Bereinigt gemäss Art. 5 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 und in Kraft seit 21. Dez. 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)[823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)).
+[^lvlu38-1]: Eingefügt durch Art. VI des Revisionsprot. vom 12. März 2002, von der BVers genehmigt am 9. Dez. 2002 ([AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387), [2529](https://fedlex.data.admin.ch/eli/oc/2003/386); [BBl 2002 4287](https://fedlex.data.admin.ch/eli/fga/2002/646)). Bereinigt gemäss Art. 5 des Prot. vom 27. Okt. 2010, von der BVers genehmigt am 17. Juni 2011 ([AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129), [823](https://fedlex.data.admin.ch/eli/oc/2012/128); [BBl 2011 485](https://fedlex.data.admin.ch/eli/fga/2011/45)) und Art. 22 des Prot. 21. Aug. 2023, von der BVers genehmigt am 21. März 2025 und in Kraft seit 27. Nov. 2025 ([AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)).
 
 Anlässlich der Unterzeichnung des Revisionsprotokolls zu dem Abkommen vom 11. August 1971 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen in der Fassung des Protokolls vom 21. Dezember 1992[^lvlu38-2] haben die hierzu gehörig befugten Unterzeichneten die nachstehenden Bestimmungen vereinbart, die Bestandteil des Abkommens sind:
 
@@ -677,13 +753,67 @@ Für die am oder nach dem Tag des Inkrafttretens des Protokolls vom 27. Oktober 
 
 Diese Regelung findet keine Anwendung auf Einkünfte und Einkunftsteile, bei denen sie den Eintritt einer doppelten Nichtbesteuerung zur Folge hätte.
 
-\2. Zu Art. 23
+\2. Zu Art. 15 Abs. 1
 
-Es besteht Einvernehmen, dass die von der Schweiz aufgrund des Bundesratsbeschlusses vom 14. Dezember 1962[^lvlu38-3] ergriffenen Massnahmen gegen die ungerechtfertigte Inanspruchnahme von Doppelbesteuerungsabkommen auch für dieses Abkommen gelten.
+Bei Arbeitnehmern, deren Arbeitslohn nach Artikel 15 Absatz 1 aufgeteilt wird, ist auf die tatsächlichen Arbeitstage im betreffenden Zeitraum abzustellen. Der Arbeitgeber hat die Arbeitstage und Tätigkeitsorte zu bescheinigen.
+
+\3. Zu den Art. 15 und 15a
+
+Wird ein Arbeitnehmer widerruflich oder unwiderruflich von der Arbeitsausübung freigestellt und bezieht der Arbeitnehmer bis zur Beendigung des Beschäftigungsverhältnisses weiterhin Gehalt, Lohn oder ähnliche Vergütungen, so können diese in dem Vertragsstaat besteuert werden, in dem die Arbeit ausgeübt worden wäre, wenn der Arbeitnehmer von der Arbeitsausübung nicht freigestellt worden wäre. Soweit der Vertragsstaat, in dem hiernach die Arbeit ausgeübt worden wäre, diese Einkünfte nicht besteuert, können sie in dem Staat besteuert werden, in dem der Arbeitnehmer ansässig ist. Liegt im Zeitpunkt der Freistellung von der Arbeitsausübung die Grenzgängereigenschaft vor, so ist Artikel 15*a* bis zur Beendigung des Beschäftigungsverhältnisses weiter anzuwenden. Bei Freistellung von der Arbeitsausübung innerhalb des Kalenderjahres erfolgt die Berechnung der für die Grenzgängereigenschaft unschädlichen Nichtrückkehrtage bis zur Freistellung von der Arbeitsausübung gemäss Ziffer 5 Buchstabe g.
+
+\4. Zu den Art. 15, 15a und 18
+
+- a) Ist einer Abfindung Versorgungscharakter beizumessen, steht das Besteuerungsrecht entsprechend Artikel 18 dem Ansässigkeitsstaat zu. Dagegen hat der (frühere) Tätigkeitsstaat das Besteuerungsrecht, sofern es sich bei der Abfindung um Lohn- oder Gehaltsnachzahlungen oder Tantiemen aus dem früheren Arbeitsverhältnis handelt oder die Abfindung allgemein für das vorzeitige Ausscheiden aus dem Arbeitsverhältnis gewährt wird.
+- b) Das Recht zur Besteuerung einer Abfindung für das vorzeitige Ausscheiden aus dem Arbeitsverhältnis richtet sich nach dem Besteuerungsrecht im Erdienungszeitraum. Hierbei sind jedoch höchstens das Jahr der Zahlung der Abfindung und die fünf vorangegangenen Jahre der aktiven Tätigkeit einzubeziehen.
+- c) Werden Abfindungen, die eine in einem Vertragsstaat ansässige Person von ihrem ehemaligen Arbeitgeber erhält, aufgrund der Anwendung des innerstaatlichen Rechts des anderen Vertragsstaats nicht besteuert, so kann die Abfindung im Ansässigkeitsstaat dieser Person besteuert werden.
+
+\5. Zu Art. 15a Abs. 2
+
+- a) Arbeitsort im Sinne von Artikel 15*a* Absatz 2 Satz 1 ist regelmässig der Ort, an dem der Arbeitnehmer in den Betrieb des Arbeitgebers eingegliedert ist. Übt der Arbeitnehmer die Tätigkeit nicht nur an diesem Ort aus (zum Beispiel Motorfahrzeugführer[^lvlu38-3], Aussendienstmitarbeiter), so sind die Tage der auswärtigen Tätigkeit als Geschäftsreisen im Rahmen der Ermittlung der Nichtrückkehrtage zu würdigen. Ist der Arbeitnehmer gemäss Arbeitsvertrag in mehr als einem Betrieb des Arbeitgebers oder in keinem Betrieb des Arbeitgebers eingegliedert, so ist Arbeitsort der Ort, an dem er die Arbeit überwiegend auszuüben hat.
+- b) Eine regelmässige Rückkehr liegt vor, wenn sich der Arbeitnehmer aufgrund des Arbeitsvertrags oder der Arbeitsverträge an mindestens 20 Prozent der vereinbarten Arbeitstage im Kalenderjahr vom Wohnsitz an den Arbeitsort und zurück begibt.
+- c) Die Annahme einer regelmässigen Rückkehr an den Wohnsitz im Sinne von Artikel 15*a* Absatz 2 Satz 1 wird nicht dadurch ausgeschlossen, dass sich die Arbeitsausübung bedingt durch betriebliche Umstände, wie zum Beispiel bei Schichtarbeit oder Arbeit im Gesundheitswesen mit Bereitschaftsdienst, über mehrere Tage erstreckt. Kurzfristige Arbeitszeitunterbrechungen von weniger als vier Stunden führen nicht zur Annahme eines Arbeitsendes im Sinne von Artikel 15*a* Absatz 2 Satz 2.
+- d) Arbeitstage im Sinne von Artikel 15*a* Absatz 2 Satz 2 sind die im Arbeitsvertrag vereinbarten Tage. Fehlt eine solche Vereinbarung, gelten die tatsächlichen Arbeitstage als solche im Sinne dieser Bestimmung. Erstreckt sich eine mehrtägige Geschäftsreise über Wochenend- und Feiertage und trägt der Arbeitgeber die Reisekosten für diese Tage, gelten sie als Arbeitstage. Ebenfalls als Arbeitstage gelten grundsätzlich arbeitsfreie Tage, namentlich Wochenenden und Feiertage, an welchen der Grenzgänger auf ausdrückliche Anordnung des Arbeitgebers hin arbeitet. Ferien[^lvlu38-4]- und krankheitsbedingte Abwesenheiten gelten nicht als Arbeitstage.
+- e) Eine Nichtrückkehr aufgrund der Arbeitsausübung liegt namentlich dann vor, wenn die Rückkehr an den Wohnsitz aus beruflichen Gründen nicht möglich oder nicht zumutbar ist. Bei Benutzung eines Motorfahrzeugs[^lvlu38-5] ist eine Rückkehr des Arbeitnehmers an den Wohnsitz nach Arbeitsende insbesondere nicht zumutbar, wenn die kürzeste Strassenentfernung für die einfache Wegstrecke über 100 Kilometer beträgt. Bei Benutzung öffentlicher Verkehrsmittel ist eine Rückkehr an den Wohnsitz insbesondere nicht zumutbar, wenn die kürzeste Reisedauer zu den allgemein üblichen Pendelzeiten für die einfache Wegstrecke mehr als 1,5 Stunden beträgt. Massgeblich ist das überwiegend benutzte Verkehrsmittel. Von einem Nichtrückkehrtag ist bei vorliegender Unzumutbarkeit der Rückkehr nur auszugehen, wenn der Arbeitnehmer tatsächlich nicht an den Wohnsitz zurückgekehrt ist.
+- f) Eintägige Geschäftsreisen im Vertragsstaat des Arbeitsorts und im Ansässigkeitsstaat zählen nicht zu den Nichtrückkehrtagen. Eintägige Geschäftsreisen in Drittstaaten zählen stets zu den Nichtrückkehrtagen.
+- g) Ist ein Arbeitnehmer nicht während des gesamten Kalenderjahres im anderen Vertragsstaat beschäftigt, so sind die für die Grenzgängereigenschaft unschädlichen Nichtrückkehrtage in der Weise zu berechnen, dass für einen vollen Monat der Beschäftigung 5 Tage und für jede volle Woche der Beschäftigung 1 Tag anzusetzen sind. Massgebend für die Prüfung, ob eine Grenzgängereigenschaft vorliegt, ist die Gesamtzahl der auf diese Weise errechneten Tage.
+- h) Findet ein Arbeitgeberwechsel innerhalb eines Kalenderjahres im Tätigkeitsstaat statt oder arbeitet ein Arbeitnehmer gleichzeitig für mehrere Arbeitgeber im Tätigkeitsstaat, ist die Grenzgängereigenschaft insgesamt für alle Arbeitsverhältnisse des Arbeitnehmers in diesem Kalenderjahr im Tätigkeitsstaat einheitlich zu beurteilen. Zur Überprüfung, ob die jeweils massgebliche Grenze der Nichtrückkehrtage in dem zu beurteilenden Kalenderjahr überschritten wurde, sind die Nichtrückkehrtage aus den jeweiligen Arbeitsverhältnissen zusammenzurechnen. Davon unberührt bleibt die Berechnung der für die Grenzgängereigenschaft unschädlichen Nichtrückkehrtage gemäss Buchstabe g.
+- i) Bei Teilzeitbeschäftigten, die stundenweise, aber an jedem betriebsüblichen Arbeitstag im anderen Staat beschäftigt sind, ist für die Frage der Grenzgängereigenschaft ebenfalls von 60 unschädlichen Nichtrückkehrtagen auszugehen. Bei Teilzeitbeschäftigten, die nur tageweise im anderen Staat beschäftigt sind, ist diese Zahl durch proportionale Kürzung im Verhältnis der Arbeitstage herabzusetzen.
+- Bezugsgrössen sind hierbei die im jeweiligen Arbeitsvertrag vereinbarten Arbeitstage zu den bei Vollzeitbeschäftigung betriebsüblichen Arbeitstagen. Lassen sich die betriebsüblichen Arbeitstage dem Arbeitsvertrag nicht entnehmen, so ist bei einer 5‑Tage-Woche von 240 betriebsüblichen Arbeitstagen, bei einer 6‑Tage-Woche von 280 betriebsüblichen Arbeitstagen auszugehen. Ferientage[^lvlu38-6] sind bei beiden Rechengrössen aus Vereinfachungsgründen nicht abzuziehen.
+- j) Die Bescheinigung des Arbeitgebers über die Nichtrückkehrtage ist mit einem Sichtvermerk der für den Arbeitsort zuständigen Finanzbehörde zu versehen. Im Fall von Buchstabe h hat der Arbeitgeber dem Arbeitnehmer bei Beendigung des Arbeitsverhältnisses die Nichtrückkehrtage bis zur Beendigung des Arbeitsverhältnisses durch Vordruck nach zwischen den zuständigen Behörden abgestimmtem Muster zu bescheinigen. Der Arbeitnehmer ist gegenüber dem Arbeitgeber zur Auskunft über Tatsachen verpflichtet, die für die Durchführung einer zutreffenden Besteuerung erforderlich sind. Ermittlungen der am Wohnsitz zuständigen Finanzbehörde werden hierdurch nicht ausgeschlossen.
+
+\6. Zu Art. 15a Abs. 3
+
+Der Bruttobetrag der Vergütungen und die im Tätigkeitsstaat erhobene Abzugssteuer sind für Zwecke der Berücksichtigung im Ansässigkeitsstaat durch eine Bescheinigung des Arbeitgebers nachzuweisen. Der Arbeitgeber ist verpflichtet, diese Bescheinigung auf Verlangen des Arbeitnehmers auszustellen.
+
+\7. Zu Art. 15a
+
+Es besteht Einvernehmen, dass das Verhandlungsprotokoll vom 18. Dezember 1991 keine Anwendung mehr findet.
+
+\8. Zu Art. 19
+
+- a)
+
+  Als juristische Person des öffentlichen Rechts im Sinne von Artikel 19 Absatz 1 gelten Einrichtungen (unabhängig von ihrer Rechtsform), die:
+
+  - aa) gestützt auf einen öffentlich-rechtlichen Rechtssatz oder Erlass einen Auftrag erfüllen;
+  - bb) überwiegend durch öffentliche Mittel einschliesslich der Erhebung eigener Gebühren und Beiträge finanziert werden, eine Fehlbetragsdeckung durch öffentliche Mittel in Anspruch nehmen können oder an denen ein Vertragsstaat, ein Land, Kanton, Bezirk, Kreis, eine Gemeinde, ein Gemeindeverband oder eine juristische Person des öffentlichen Rechts überwiegend beteiligt ist oder mehrere dieser Gemeinwesen oder juristischen Personen des öffentlichen Rechts gemeinsam überwiegend beteiligt sind; und
+  - cc) unter direkter oder indirekter staatlicher Aufsicht stehen.
+
+- b) Als kaufmännische oder gewerbliche Tätigkeit im Sinne von Artikel 19 Absatz 2 gelten in marktwirtschaftlicher Konkurrenz, das heisst bei Vorhandensein anderer Marktteilnehmer, ausgeübte und auf Gewinn ausgerichtete Tätigkeiten, ausgenommen Tätigkeiten von Krankenhäusern, Alters- und Pflegeheimen, Schulen, Hochschulen und Universitäten sowie Einrichtungen der Kinderbetreuung.
+
+\9. Zu Art. 19 Abs. 1
+
+- a) Vergütungen, einschliesslich wiederkehrender oder einmaliger Zahlungen, von Vorsorgeeinrichtungen der schweizerischen beruflichen Vorsorge (2. Säule) an aktive oder ehemals Bedienstete im schweizerischen öffentlichen Dienst gelten als aus einem Sondervermögen für erbrachte Dienste nach Artikel 19 Absatz 1 gewährt, sofern sie aufgrund eines Versicherungsverhältnisses der schweizerischen beruflichen Vorsorge gezahlt werden, das zu einer Person besteht oder bestand, deren letzte oder laufende für die Versicherung in der schweizerischen beruflichen Vorsorge massgebende unselbstständige Tätigkeit vor der Zahlung beziehungsweise vor dem Beginn der Zahlungen im schweizerischen öffentlichen Dienst war. Auch als aufgrund eines solchen Versicherungsverhältnisses gezahlt gelten Zahlungen von Freizügigkeitskonten und -policen der schweizerischen beruflichen Vorsorge.
+- b) Nach Artikel 19 Absatz 4 hat der Ansässigkeitsstaat des Empfängers vorrangig das Besteuerungsrecht für vorgenannte Vergütungen, einschliesslich Ruhegehältern, wenn der Vergütungsempfänger die Grenzgängereigenschaft nach Artikel 15*a* hat oder hatte. Der andere Vertragsstaat hat den Steuerabzug nach Artikel 15*a* Absatz 1 zu beschränken. Hierfür ist der Vorsorgeeinrichtung der 2. Säule vor erstmaligem Zufluss einer wiederkehrenden Leistung die hierfür vorgesehene Ansässigkeitsbescheinigung vorzulegen. Bei Kapitalleistungen ist die Grenzgängereigenschaft im dafür vorgesehenen amtlichen Rückerstattungsformular zu bescheinigen.
+- c) Lag während der aktiven Tätigkeitsphase vor Leistungsbezug nur teilweise die Grenzgängereigenschaft vor, ist darauf abzustellen, ob der Vergütungsempfänger innerhalb der letzten fünf vorangegangenen Veranlagungszeiträume der Diensterbringung in der Schweiz überwiegend (mindestens 50 Prozent) als Grenzgänger anzusehen war. Zeiträume der Arbeitsfreistellung unter Fortzahlung der Bezüge oder Lohnersatzleistungen sind hierbei nicht zu berücksichtigen. Die zuständige Finanzbehörde stellt die beantragte Ansässigkeitsbescheinigung aus, sofern die überwiegende Grenzgängereigenschaft in der massgebenden Periode vorgelegen hat. Die schweizerische Steuerverwaltung kann die Ansässigkeitsbescheinigung überprüfen und entsprechende Nachweise verlangen.
+
+\10. Zu Art. 23
+
+Es besteht Einvernehmen, dass die von der Schweiz aufgrund des Bundesratsbeschlusses vom 14. Dezember 1962[^lvlu38-7] ergriffenen Massnahmen gegen die ungerechtfertigte Inanspruchnahme von Doppelbesteuerungsabkommen auch für dieses Abkommen gelten.
 
 Es besteht Einvernehmen, dass die deutschen Rechtsvorschriften zur Verhinderung der Steuerumgehung die Bestimmungen des § 42 Abgabenordnung und des § 50*d* Absatz 3 des Einkommensteuergesetzes umfassen.
 
-\3. Zu Art. 27
+\11. Zu Art. 27
 
 - a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Ersuchen auf Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
 - b)
@@ -717,14 +847,17 @@ Es besteht Einvernehmen, dass die deutschen Rechtsvorschriften zur Verhinderung 
 Geschehen zu Bern am 12. März 2002 in zwei Urschriften in deutscher Sprache.
 
 <table>
-<tr><td>Für die Schweizerische Eidgenossenschaft:</td><td>Für die Bundesrepublik Deutschland:</td></tr>
-<tr><td>Urs Ursprung</td><td>Reinhard Hilger</td></tr>
+<tr><td>Für die Schweizerische Eidgenossenschaft: Urs Ursprung</td><td>Für die Bundesrepublik Deutschland: Reinhard Hilger</td></tr>
 </table>
 
 [^lvlu38-2]: [AS 2003 2530](https://fedlex.data.admin.ch/eli/oc/2003/387)
-[^lvlu38-3]: [SR 672.202](https://fedlex.data.admin.ch/eli/cc/1962/1622_1680_1702)
+[^lvlu38-3]: Deutschland: Berufskraftfahrer
+[^lvlu38-4]: Deutschland: Urlaubs
+[^lvlu38-5]: Deutschland: Kraftfahrzeugs
+[^lvlu38-6]: Deutschland: Urlaubstage
+[^lvlu38-7]: [SR 672.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8250)
 
-## Verständigungsvereinbarung**** betreffend die Auslegung von Ziffer 3 Buchstabe b des Protokolls zum Abkommen vom 11. August 1971 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen in der Fassung des Revisionsprotokolls vom 27. Oktober 2010
+## Verständigungsvereinbarung betreffend die Auslegung von Ziffer 3 Buchstabe b des Protokolls zum Abkommen vom 11. August 1971 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen in der Fassung des Revisionsprotokolls vom 27. Oktober 2010
 
 [^lvlu39-1]
 
@@ -746,14 +879,12 @@ Diese Voraussetzungen sind daher so zu verstehen, dass einem Amtshilfeersuchen, 
 Die Verständigung ist in beiden Vertragsstaaten ab dem Tag des Inkrafttretens des Revisionsprotokolls anzuwenden.
 
 <table>
-<tr><td>Bern, am 15. Dezember 2011</td><td>Berlin, am 15. Dezember 2011</td></tr>
-<tr><td>Für die zuständige Behörde der Schweizerischen Eidgenossenschaft:</td><td>Für die zuständige Behörde der Bundesrepublik Deutschland:</td></tr>
-<tr><td>Jürg Giraudi Staatssekretariat für internationale Finanzfragen SIF</td><td>Michael Wichmann Bundesministerium der Finanzen</td></tr>
+<tr><td>Bern, am 15. Dezember 2011 Für die zuständige Behörde der Schweizerischen Eidgenossenschaft: Jürg Giraudi Staatssekretariat für internationale Finanzfragen SIF</td><td>Berlin, am 15. Dezember 2011 Für die zuständige Behörde der Bundesrepublik Deutschland: Michael Wichmann Bundesministerium der Finanzen</td></tr>
 </table>
 
 [^lvlu39-2]: [AS 2012 825](https://fedlex.data.admin.ch/eli/oc/2012/129)
 
-## Artikel VIII Absätze 2 und 3 des Protokolls vom 17. Oktober 1989****
+## Artikel VIII Absätze 2 und 3 des Protokolls vom 17. Oktober 1989
 
 [^lvlu40-1]
 
@@ -769,7 +900,7 @@ Die Verständigung ist in beiden Vertragsstaaten ab dem Tag des Inkrafttretens d
 - a) bei Dividenden im Sinne des Artikels 10 Absatz 2 Buchstabe b des Abkommens in der Fassung dieses Protokolls für bis zum 31. Dezember 1991 zugeflossene Dividenden die Steuer den Betrag von 10 vom Hundert des Bruttobetrages der Dividenden nicht übersteigen;
 - b) bei Einnahmen aus Genussrechten im Sinne des Artikels 10 Absatz 2 Buchstabe c des Abkommens in der Fassung dieses Protokolls für bis zum 31. Dezember 1992 zugeflossene Einnahmen die Steuer den Betrag von 15 vom Hundert des Bruttobetrages der Einnahmen nicht übersteigen, wenn die Genussrechte vor dem 19. Mai 1989 begründet worden sind.
 
-## Artikel VII Absatz 2 des Protokolls vom 21. Dezember 1992****
+## Artikel VII Absatz 2 des Protokolls vom 21. Dezember 1992
 
 [^lvlu41-1]
 
@@ -780,7 +911,7 @@ Die Verständigung ist in beiden Vertragsstaaten ab dem Tag des Inkrafttretens d
 - a) auf die nach Artikel 15*a* im Abzugsweg erhobene Steuer auf nach dem 31. Dezember 1993 zugeflossene Vergütungen;
 - b) auf die sonstigen für das Jahr 1994 und die folgenden Jahre erhobenen Steuern.
 
-## Artikel VII Absatz 2 des Protokolls vom 12. März 2002****
+## Artikel VII Absatz 2 des Protokolls vom 12. März 2002
 
 [^lvlu42-1]
 
@@ -793,7 +924,7 @@ Die Verständigung ist in beiden Vertragsstaaten ab dem Tag des Inkrafttretens d
 - c) auf die sonstigen Steuern für Steuerperioden, die am oder nach dem 1. Januar des nächsten auf das Inkrafttreten dieses Revisionsprotokolls folgenden Jahres beginnen;
 - d) auf Auskunftsersuchen betreffend Betrugsdelikte, die am oder nach dem 1. Januar des nächsten auf das Inkrafttreten dieses Revisionsprotokolls folgenden Jahres begangen wurden.
 
-## Artikel 6 Absatz 2 des Protokolls vom 27. Oktober 2010****
+## Artikel 6 Absatz 2 des Protokolls vom 27. Oktober 2010
 
 [^lvlu43-1]
 
@@ -819,3 +950,15 @@ Die Verständigung ist in beiden Vertragsstaaten ab dem Tag des Inkrafttretens d
   - bb) in allen anderen Fällen hinsichtlich Informationen, die sich auf Steuerjahre oder Veranlagungszeiträume beziehen, die am oder nach dem 1. Januar des auf die Unterzeichnung dieses Protokolls folgenden Jahres beginnen.
 
 [^lvlu43-2]: Bundesrepublik Deutschland: «anhängigen».
+
+## Artikel 23 Absatz 2 des Protokolls vom 21. August 2023
+
+[^lvlu44-1]
+
+[^lvlu44-1]: [AS 2025 791](https://fedlex.data.admin.ch/eli/oc/2025/791), [790](https://fedlex.data.admin.ch/eli/oc/2025/790); [BBl 2024 1487](https://fedlex.data.admin.ch/eli/fga/2024/1487)
+
+\2. Dieses Protokoll tritt am Tag des Austauschs der Ratifikationsurkunden in Kraft und ist anzuwenden auf Besteuerungszeiträume, die am oder nach dem 1. Januar des auf den Tag des Inkrafttretens dieses Protokolls folgenden Kalenderjahres beginnen. Abweichend davon sind die Bestimmungen dieses Protokolls anwendbar:
+
+- a) in Bezug auf die Definition der zuständigen Behörden in Artikel 3 Absatz 1 Buchstabe i des Abkommens: ab dem Inkrafttreten dieses Protokolls;
+- b) in Bezug auf die an der Quelle erhobenen Steuern auf Einkünfte im Sinne der Artikel 10, 11 und 12, die am oder nach dem 1. Januar des auf den Tag des Inkrafttretens folgenden Kalenderjahres fällig werden;
+- c) in Bezug auf Artikel 26 des Abkommens: ab dem 1. Januar des übernächsten Kalenderjahres, das auf den Tag des Inkrafttretens dieses Protokolls folgt.
