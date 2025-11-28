@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 19. Januar 1996 über die grossen Wasser
 short: AGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/938"
 language: de
-version: 2023-11-17
+version: 2025-11-29
 adopted: 1996-01-19
 in_force: 1999-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/fedlex-data-admin-ch-eli-cc-2007-938-20231117-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20231117/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/fedlex-data-admin-ch-eli-cc-2007-938-20251129-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20251129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,13 +19,9 @@ AS **2007** 7147[^t-1]
 
 Übersetzung
 
-Abgeschlossen in Genf am 19. Januar 1996
+Abgeschlossen in Genf am 19. Januar 1996 Ratifikationsurkunde von der Schweiz hinterlegt am 21. August 1997 In Kraft getreten für die Schweiz am 26. Juli 1999
 
-Ratifikationsurkunde von der Schweiz hinterlegt am 21. August 1997
-
-In Kraft getreten für die Schweiz am 26. Juli 1999
-
-(Stand am 17. November 2023)
+(Stand am 29. November 2025)
 
 [^t-1]: Die Berichtigung vom 17. Nov. 2023 betrifft nur den italienischen Text ([AS 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
@@ -118,7 +114,7 @@ Verwahrer des Übereinkommens ist der Generalsekretär der Vereinten Nationen.
 
 <sup>2.</sup> Solche Massnahmen, die zeitlich begrenzt sein müssen, sind dem Verwahrer unter Angabe ihrer Art umgehend zu notifizieren.
 
-[^9-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^9-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 10
 
@@ -204,7 +200,7 @@ Ist nach dem Inkrafttreten dieses Übereinkommens die Anzahl der Vertragsparteie
 
 Neben den in diesem Übereinkommen angegebenen Notifikationen und Mitteilungen nimmt der Generalsekretär der Vereinten Nationen die Aufgaben wahr, die in Teil VII des Wiener Übereinkommens vom 23. Mai 1969[^17-1] über das Recht der Verträge niedergelegt sind.
 
-[^17-1]: [SR 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^17-1]: [SR 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
 
 #### Art. 18
 
@@ -218,7 +214,7 @@ Anhang I[^t-2]
 
 ## Wasserstrassen von internationaler Bedeutung
 
-[^t-2]: Geändert anlässlich der 52. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 13.‒15. Okt. 2008 ([AS 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), der 56. Sitzung vom 10.–12. Okt. 2012 ([AS 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) und der 61. Sitzung vom 4.–6. Okt. 2017, in Kraft für die Vertragsparteien seit 6. Nov. 2018 ([AS 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-2]: Geändert anlässlich der 52. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 13.‒15. Okt. 2008 ([AS 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), der 56. Sitzung vom 10.–12. Okt. 2012 ([AS 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)), der 61. Sitzung vom 4.–6. Okt. 2017 ([AS 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)) und der 68. Sitzung vom 23.–25. Okt. 2024, in Kraft für die Vertragsparteien seit 29. Nov. 2025 ([AS 2025 835](https://fedlex.data.admin.ch/eli/oc/2025/835)).
 
 Nummerierung der Wasserstrassen von internationaler Bedeutung
 
@@ -279,13 +275,7 @@ Liste der Wasserstrassen von internationaler Bedeutung
 <tr><td>E 14</td><td colspan="2"></td><td colspan="2">Weser von der Nordsee bis Minden über Bremerhaven und Bremen</td></tr>
 <tr><td>E 15</td><td colspan="2"></td><td colspan="2">Amsterdam-Lemmer-Groningen-Delfzijl-Emden-Dörpen-Oldenburg-Elsfleth über das Ijsselmeer, Prinses Margariet Kanal, Van Starkenborgh Kanal, Eemskanal, Ems, Dortmund-Ems Kanal, Küstenkanal und Hunte</td></tr>
 <tr><td></td><td colspan="2">E 15-01</td><td colspan="2">Van Harinxma Kanal von Fonejacht bis Harlingen</td></tr>
-<tr><td>E 20</td><td colspan="2"></td><td colspan="2">Elbe von der Nordsee über Hamburg, Magdeburg, Ústí‑nad‑Labem, Mělník und Pardubice-[Elbe-Donau Verbindung]</td></tr>
-<tr><td></td><td colspan="2">E 20-02</td><td colspan="2">Seitenkanal der Elbe</td></tr>
-<tr><td></td><td colspan="2">E 20-04</td><td colspan="2">Saale bis Bad Duerrenberg</td></tr>
-<tr><td></td><td colspan="2">E 20-06</td><td colspan="2">Vltava: Mělník-Prag-Slapy</td></tr>
 <tr><td>E 21</td><td colspan="2"></td><td colspan="2">Trave vom Baltischen Meer bis zur Elbe über den Elbe-Lübeck Kanal</td></tr>
-<tr><td>E 30</td><td colspan="2"></td><td colspan="2">Swinoujscie-Szczecin-Oder von Szczecin nach Kozle über Wroclaw [Oder-Donau Verbindung]</td></tr>
-<tr><td></td><td colspan="2">E 30-01</td><td colspan="2">Gliwice Kanal</td></tr>
 <tr><td>E 31</td><td colspan="2"></td><td colspan="2">Szczecin-Westoder-Hohensaaten-Friedrichsthaler Wasserstrasse</td></tr>
 <tr><td>E 40</td><td colspan="2"></td><td>[Wisła, von Gdansk nach Warschau-Brest]-Dneprovsko-Kanal von Buzkiy-Pina-Pinsk-Pripyat bis zur Mündung-Dnipro via Kiev bis Kherson</td></tr>
 <tr><td></td><td colspan="2">E 40-01</td><td>Dnipro, von Nizhnie Zhary bis zur Mündung der Pripyat</td></tr>
@@ -840,7 +830,7 @@ Anhang III[^t-4]
 
 [^t-4]: Geändert anlässlich der 49. Sitzung der Arbeitsgruppe für Wasserstrassentransport der Wirtschaftskommission für Europa der Vereinten Nationen in Genf, vom 18.–20. Okt. 2005, mit Wirkung für die Vertragsparteien am 29. Nov. 2006.
 
-a) Technische Merkmale der Wasserstrassen E
+### a) Technische Merkmale der Wasserstrassen E
 
 Die wichtigsten technischen Merkmale der Wasserstrassen E stimmen im allgemeinen mit der Klassifizierung der, in Tabelle 1 erwähnten, europäischen Binnenwasserstrassen überein.
 
@@ -851,9 +841,9 @@ Zur Beurteilung der verschiedenen Wasserstrassen E, nimmt man die Merkmale der K
 - iii) Bei einer Modernisierung der Wasserstrassen der Klasse IV (sowie der kleineren regionalen Wasserstrassen), wird empfohlen, zumindest die Anforderungen der Klasse V a) zu erfüllen.
 - iv) Jedoch sollten die neuen Wasserstrassen E mindestens den Anforderungen der Klasse V b) genügen. Ein Tiefgang von mindestens 2,80 m sollte garantiert werden.
 - v) Bei einer Modernisierung der existierenden Wasserstrassen und beim Bau von neuen Wasserstrassen, sind wachsende Hauptabmessungen der Schiffe und Verbände zu berücksichtigen.
-- vi) Für effizienteren Containertransport, sollte immer auf die grösstmögliche Brückendurchfahrtshöhe gemäss Fussnote 4 der Tabelle 1[^annexIII-lvlu1-1] geachtet werden.
+- vi) Für effizienteren Containertransport, sollte immer auf die grösstmögliche Brückendurchfahrtshöhe gemäss Fussnote 4 der Tabelle 1[^annexIII-lvlu1-lvlu1-1] geachtet werden.
 - vii) Die Wasserstrassen, für die wichtige Containertransporte vorgesehen sind, müssen wenigstens der Klasse V b) genügen. Man könnte auch eine Erhöhung der Breite von 11,4 m um 7–10 % für Schiffe, die nur auf den Wasserstrassen der Klasse Va fahren, in Erwägung ziehen um eine künftige Entwicklung der Containerdimensionen mit einzubeziehen und den Transport von Anhängern zu erleichtern.
-- viii) Auf den Wasserstrassen mit variablem Wasserstand sollte der empfohlene Tiefgang demjenigen Tiefgang entsprechen, der an durchschnittlich 240 Tagen des Jahres erreicht oder überschritten wird (oder 60 % der Schifffahrtsperiode)[^annexIII-lvlu1-2]. Der empfohlene Wert für die Brückendurchfahrtshöhe (5,25 m, 7,00 m oder 9,10 m) sollte für den höchsten schiffbaren Wasserstand erhalten bleiben, falls dies wirtschaftlich vertretbar ist.
+- viii) Auf den Wasserstrassen mit variablem Wasserstand sollte der empfohlene Tiefgang demjenigen Tiefgang entsprechen, der an durchschnittlich 240 Tagen des Jahres erreicht oder überschritten wird (oder 60 % der Schifffahrtsperiode)[^annexIII-lvlu1-lvlu1-2]. Der empfohlene Wert für die Brückendurchfahrtshöhe (5,25 m, 7,00 m oder 9,10 m) sollte für den höchsten schiffbaren Wasserstand erhalten bleiben, falls dies wirtschaftlich vertretbar ist.
 - ix) Auf allen Wasserstrassen oder zumindest auf deren grösstmöglichen Strecken sollten einheitliche Normen betreffend die Klasse, den Tiefgang und die Brückendurchfahrtshöhe gelten.
 - x) Falls dies möglich ist, sollten die Parameter der anliegenden Wasserstrassen identisch oder ähnlich sein.
 - xi) Der grösste Tiefgang (4,50 m) und die grösste Brückendurchfahrtshöhe (9,10 m) sollten in allen Teilen des Netzes, die direkt mit den Küstenstrassen verbunden sind, gewährleistet sein.
@@ -866,7 +856,7 @@ Binnenschiffe mit einer Breite von 11,4 m und einer Länge von 110 m müssen Con
 
 Tabelle 1
 
-Auflistung der Wasserstrassen von internationaler Bedeutung[^annexIII-lvlu1-3]
+Auflistung der Wasserstrassen von internationaler Bedeutung[^annexIII-lvlu1-lvlu1-3]
 
 <table>
 <tr><th>Art der Wasser-strasse</th><th>Klasse der Wasser- strasse</th><th colspan="5">Selbstfahrer und Schleppverbände</th><th colspan="5">Schubverbände</th><th>Mindest-durchfahrtshöhe unter Brücken<sup>2)</sup></th><th>Graphische Symbole auf den Karten</th></tr>
@@ -874,14 +864,14 @@ Auflistung der Wasserstrassen von internationaler Bedeutung[^annexIII-lvlu1-3]
 <tr><th></th><th></th><th>Bezeichnung</th><th>Maximale Länge</th><th>Maximale Breite</th><th>Tiefgang<sup>6)</sup></th><th>Tragfähigkeit</th><th></th><th>Länge</th><th>Breite</th><th>Tiefgang<sup>6)</sup></th><th>Tragfähigkeit</th><th></th><th></th></tr>
 <tr><th></th><th></th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th>H (m)</th><th></th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th><th>13</th><th>14</th></tr>
-<tr><td>von internationaler Bedeutung</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oder 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image2.png)</td></tr>
-<tr><td></td><td>Va</td><td>Grosse Rheinschiffe</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oder 7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image3.png)</td></tr>
-<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image5.png)</td></tr>
-<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image7.png)</td></tr>
-<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image9.png)</td></tr>
-<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image11.png)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
-<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/de/xml/image/image14.png)</td></tr>
+<tr><td>von internationaler Bedeutung</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oder 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image2.png)</td></tr>
+<tr><td></td><td>Va</td><td>Grosse Rheinschiffe</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oder 7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image3.png)</td></tr>
+<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image5.png)</td></tr>
+<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image7.png)</td></tr>
+<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oder 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image9.png)</td></tr>
+<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image11.png)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
+<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/de/xml/image/image14.png)</td></tr>
 </table>
 
 Notizen zur Tabelle 1
@@ -894,7 +884,11 @@ Notizen zur Tabelle 1
 - <sup>6)</sup> Der Tiefgang für eine bestimmte Wasserstrasse wird entsprechend den lokalen Bedingungen festgelegt.
 - <sup>7)</sup> In einzelnen Fällen kann ein Verband mit einer höheren Anzahl Schubleichter auf bestimmten Abschnitten der Wasserstrassen der Klasse VII eingesetzt werden. In diesem Fall, dürfen die horizontalen Abmessungen die in der Tabelle angegebenen Werte überschreiten.
 
-b) Betriebsbedingungen der Wasserstrassen E
+[^annexIII-lvlu1-lvlu1-1]: Falls der Anteil der leeren transportierten Container auf jedem Schiff 50 % übersteigt, sollte die Mindestbrückendurchfahrtshöhe auf den in der Fussnote 4 erwähnten Wert erhöht werden.
+[^annexIII-lvlu1-lvlu1-2]: Bei Wasserstrassen, die oberhalb von natürlichen Gewässern liegen und die durch variable Wasserstände charakterisiert sind, die eng und unmittelbar durch die klimatischen Verhältnisse beeinflusst werden, wird empfohlen, eine Referenzperiode von mindestens 300 Tagen pro Jahr zu verwenden.
+[^annexIII-lvlu1-lvlu1-3]: Die Klassen I−III sind nicht aufgeführt, da sie nur von regionaler Bedeutung sind.
+
+### b) Betriebsbedingungen der Wasserstrassen E
 
 Die Wasserstrassen E müssen grundsätzlich den folgenden Betriebsbedingungen entsprechen, um einen zuverlässigen internationalen Transport zu ermöglichen:
 
@@ -904,25 +898,22 @@ Die Wasserstrassen E müssen grundsätzlich den folgenden Betriebsbedingungen en
 - iv) Eine Unterbrechung aufgrund von Untiefen ist in keinem Falle zulässig, Hingegen sind vernünftige Beschränkungen, den autorisierten Tiefgang der Wasserstrassen mit variablem Wasserstand betreffend, zulässig. Jedoch sollte ein Tiefgang von mindestens 1,20 m unter allen Umständen gewährleistet sein, und der charakteristische oder empfohlene Tiefgang sollte 240 Tage pro Jahr erreicht oder überschritten werden. In den in Absatz ii) oben erwähnten Gegenden sollte der Mindesttiefgang von 1,20 m während 60 % der durchschnittlichen Schifffahrtsperiode gewährleistet sein.
 - v) Die Betriebszeiten der Schleusen, der beweglichen Brücken und anderer Infrastrukturanlagen müssen die Schifffahrt an Werktagen 24 Stunden am Tag, ermöglichen, sofern dies aus wirtschaftlicher Sicht vertretbar ist. Ausnahmen können in gewissen Fällen aus organisatorischen und/oder technischen Gründen zugelassen werden. Die Schifffahrt muss ebenfalls an Feiertagen und Wochenenden durch vernünftige Betriebszeiten sichergestellt werden.
 
-c) Technische und wirtschaftliche Daten der Häfen E
+### c) Technische und wirtschaftliche Daten der Häfen E
 
 Das Wasserstrassennetz E wird durch ein Binnenhafensystem von internationaler Bedeutung ergänzt. Jeder Hafen E muss folgenden technischen und wirtschaftlichen Massstäben entsprechen:
 
 - i) Er muss an einer Wasserstrasse E liegen.
 - ii) Er muss Schiffe oder Schubverbände, die auf dieser Wasserstrasse eingesetzt werden, gemäss deren Klasse aufnehmen können.
-- iii) Er muss von Strassen oder Eisenbahnlinien von grosser Bedeutung bedient werden (vorzugsweise von solchen Strassen oder Eisenbahnlinien die Teil des Europäischen Übereinkommens über die Hauptstrassen des internationalen Verkehrs[^annexIII-lvlu1-4] (AGR), des Europäischen Übereinkommens über die Hauptlinien des internationalen Eisenbahnverkehrs[^annexIII-lvlu1-5] (AGC) und des Europäischen Übereinkommens über wichtige Linien des internationalen kombinierten Verkehrs und damit zusammenhängende Einrichtungen[^annexIII-lvlu1-6] (AGTC) sind).
+- iii) Er muss von Strassen oder Eisenbahnlinien von grosser Bedeutung bedient werden (vorzugsweise von solchen Strassen oder Eisenbahnlinien die Teil des Europäischen Übereinkommens über die Hauptstrassen des internationalen Verkehrs[^annexIII-lvlu1-lvlu3-1] (AGR), des Europäischen Übereinkommens über die Hauptlinien des internationalen Eisenbahnverkehrs[^annexIII-lvlu1-lvlu3-2] (AGC) und des Europäischen Übereinkommens über wichtige Linien des internationalen kombinierten Verkehrs und damit zusammenhängende Einrichtungen[^annexIII-lvlu1-lvlu3-3] (AGTC) sind).
 - iv) Er muss einen Warenumschlag von mindestens 0,5 Millionen Tonnen pro Jahr aufweisen.
 - v) Er muss über zufrieden stellende Möglichkeiten für einen allfälligen Ausbau der Hafenanlagen aufweisen.
 - vi) Er muss die Instandhaltung der Normcontainer garantieren (ausser im Falle eines auf Schüttgut spezialisierten Hafens).
 - vii) Er muss alle für die gängigen Geschäfte des internationalen Transportes nötigen Dienstleistungen anbieten.
 - viii) Um den Umweltschutzanforderungen zu genügen, müssen Einrichtungen zur Abnahme der auf den Schiffen entstandenen Abfälle vorhanden sein.
 
-[^annexIII-lvlu1-1]: Falls der Anteil der leeren transportierten Container auf jedem Schiff 50 % übersteigt, sollte die Mindestbrückendurchfahrtshöhe auf den in der Fussnote 4 erwähnten Wert erhöht werden.
-[^annexIII-lvlu1-2]: Bei Wasserstrassen, die oberhalb von natürlichen Gewässern liegen und die durch variable Wasserstände charakterisiert sind, die eng und unmittelbar durch die klimatischen Verhältnisse beeinflusst werden, wird empfohlen, eine Referenzperiode von mindestens 300 Tagen pro Jahr zu verwenden.
-[^annexIII-lvlu1-3]: Die Klassen I−III sind nicht aufgeführt, da sie nur von regionaler Bedeutung sind.
-[^annexIII-lvlu1-4]: [SR 0.725.11](https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834)
-[^annexIII-lvlu1-5]: Nicht publiziert in der AS.
-[^annexIII-lvlu1-6]: [SR 0.740.81](https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838)
+[^annexIII-lvlu1-lvlu3-1]: [SR 0.725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2729)
+[^annexIII-lvlu1-lvlu3-2]: Nicht publiziert in der AS.
+[^annexIII-lvlu1-lvlu3-3]: [SR 0.740.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2819)
 
 Geltungsbereich am 14. April 2020[^t-5]
 
@@ -947,8 +938,7 @@ Geltungsbereich am 14. April 2020[^t-5]
 <tr><td>Tschechische Republik</td><td>8. August</td><td>1997</td><td>26. Juli</td><td>1999</td></tr>
 <tr><td>Ukraine</td><td>5. Januar</td><td>2010 B</td><td>5. April</td><td>2010</td></tr>
 <tr><td>Ungarn</td><td>22. Oktober</td><td>1997</td><td>26. Juli</td><td>1999</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/)oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
 [^t-5]: [AS 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938); [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394); [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414); [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

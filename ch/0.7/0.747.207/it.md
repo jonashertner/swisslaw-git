@@ -4,11 +4,11 @@ title: "Accordo europeo del 19 gennaio 1996 sulle grandi idrovie d'importanza in
 short: AGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/938"
 language: it
-version: 2023-11-17
+version: 2025-11-29
 adopted: 1996-01-19
 in_force: 1999-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/fedlex-data-admin-ch-eli-cc-2007-938-20231117-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20231117/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/fedlex-data-admin-ch-eli-cc-2007-938-20251129-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20251129/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,7 +21,7 @@ Traduzione
 
 Adottato a Ginevra il 19 gennaio 1996 Ratificazione depositata dalla Svizzera il 21 agosto 1997 Entrato in vigore per la Svizzera il 26 luglio 1999
 
-(Stato 17 novembre 2023)
+(Stato 29 novembre 2025)
 
 [^t-1]: Correzione del 17 nov. 2023 ([RU 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
@@ -47,7 +47,7 @@ hanno convenuto quanto segue:
 
 <sup>2.</sup> Le Parti contraenti adottano le misure necessarie all’effettiva protezione del percorso previsto per le parti di idrovie E che non esistono ancora ma che rientrano nei programmi di pianificazione delle infrastrutture, e ciò tenendo debito conto dei loro futuri parametri e fino alla data in cui sarà presa una decisione sulla loro costruzione[^1-3].
 
-[^1-1]: Accordo modificato in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ottobre 2005, con effetto per le Parti dal 1° giugno 2007.
+[^1-1]: Modificato in occasione in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ottobre 2005, con effetto per le Parti dal 1° giu. 2007.
 [^1-2]: Correzione del 17 nov. 2023 ([RU 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 [^1-3]: Modificato in occasione della 50<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dall’11 al 13 ott. 2006, con effetto per le Parti dal 31 gen. 2008.
 
@@ -113,7 +113,7 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite è il depositar
 
 <sup>2.</sup> Questi provvedimenti, che devono essere temporanei, sono immediatamente notificati al depositario; la loro natura dev’essere precisata.
 
-[^9-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^9-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 10
 
@@ -204,7 +204,7 @@ Se, dopo l’entrata in vigore del presente Accordo, il numero degli Stati Parti
 
 Oltre alle notificazioni e comunicazioni menzionate nel presente Accordo, le funzioni di depositario del Segretario generale dell’Organizzazione delle Nazioni Unite sono quelle definite nella Parte VII della Convenzione di Vienna sul diritto dei trattati, conclusa a Vienna il 23 maggio 1969[^17-1].
 
-[^17-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^17-1]: [RS 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
 
 #### Art. 18
 
@@ -218,7 +218,7 @@ Allegato I[^t-2]
 
 ## Idrovie d’importanza internazionale
 
-[^t-2]: Modificato in occasione della 52<sup>a</sup> sessione del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite, tenutasi a Ginevra dal 13 al 15 ott. 2008 ([RU 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), il 12 ott. 2012 in occasione della 56<sup>a</sup> sessione ([RU 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) ed il 6 ott. 2017 in occasione della 61<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, tenutasi dal 4 al 6 ott. 2017, con effetto per le Parti dal 6 nov. 2018 ([RU 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-2]: Modificato in occasione della 52<sup>a</sup> sessione del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite, tenutasi a Ginevra dal 13 al 15 ott. 2008 ([RU 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), il 12 ott. 2012 in occasione della 56<sup>a</sup> sessione ([RU 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)), il 6 ott. 2017 in occasione della 61<sup>a</sup> seduta ([RU 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)) e in occasione della 68<sup>a</sup> sessione tenutasi dal 23 al 25 ott. 2024, in vigore per le parti dal 29 nov. 2025 ([RU 2025 835](https://fedlex.data.admin.ch/eli/oc/2025/835)).
 
 ### Numerazione delle idrovie d’importanza internazionale
 
@@ -279,13 +279,7 @@ Allegato I[^t-2]
 <tr><td>E 14</td><td colspan="2"></td><td colspan="2">Weser dal Mare del Nord a Minden attraverso Bremerhaven e Brema</td></tr>
 <tr><td>E 15</td><td colspan="2"></td><td colspan="2">Amsterdam-Lemmer-Groningen-Delfzijl-Emden-Dörpen-Oldenburg-Elsfleth attraverso l’IJsselmeer, il Prinses Margariet Kanaal, il Van Starkenborgh Kanaal, l’Eemskanaal, Ems, il canale Dortmund-Ems, il Küstenkanal e Hunte</td></tr>
 <tr><td></td><td colspan="2">E 15-01</td><td colspan="2">Canale van Harinxma da Fonejacht a Harlingen</td></tr>
-<tr><td>E 20</td><td colspan="2"></td><td colspan="2">L’Elba dal Mare del Nord attraverso Amburgo, Magdeburgo, Ústí‑nad‑Labem, Mělník e Pardubice-[collegamento Elba-Danubio]</td></tr>
-<tr><td></td><td colspan="2">E 20-02</td><td colspan="2">Canale laterale dell’Elba</td></tr>
-<tr><td></td><td colspan="2">E 20-04</td><td colspan="2">Saale fino a Bad Duerrenberg</td></tr>
-<tr><td></td><td colspan="2">E 20-06</td><td colspan="2">Vltava: Mělník-Praha-Slapy</td></tr>
 <tr><td>E 21</td><td colspan="2"></td><td colspan="2">Trave dal mar Baltico all’Elba attraverso il canale Elba-Lubecca</td></tr>
-<tr><td>E 30</td><td colspan="2"></td><td colspan="2">Swinoujscie-Szczecin-Oder da Szczecin a Kozle attraverso Wroclaw [collegamento Oder-Danubio]</td></tr>
-<tr><td></td><td colspan="2">E 30-01</td><td colspan="2">Canale di Gliwice</td></tr>
 <tr><td>E 31</td><td colspan="2"></td><td colspan="2">Szczecin-Westoder-Hohensaaten-idrovia di Friedrichsthaler</td></tr>
 <tr><td>E 40</td><td colspan="2"></td><td colspan="2">[Wisła da Gdansk a Warszawa-Brest]-Dneprovsko-canale da Buzkiy-Pina-Pinsk-Pripyat fino alla foce-Dnipro via Kyiv fino a Kherson</td></tr>
 <tr><td></td><td colspan="2">E 40-01</td><td colspan="2">Dnipro, da Nizhnie Zhary fino alla foce del Pripyat</td></tr>
@@ -846,7 +840,7 @@ Allegato III[^t-4]
 
 ## Caratteristiche tecniche ed esercizio delle idrovie d’importanza internazionale
 
-[^t-4]: Acc. modificato in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ott. 2005, con effetto per le Parti dal 29 nov. 2006.
+[^t-4]: Modificato in occasione in occasione della 49<sup>a</sup> seduta del Gruppo di lavoro per il trasporto per idrovia della Commissione economica per l’Europa delle Nazioni Unite a Ginevra, dal 18 al 20 ott. 2005, con effetto per le Parti dal 29 nov. 2006.
 
 ### a) Caratteristiche tecniche delle idrovie E
 
@@ -880,14 +874,14 @@ Classifica delle idrovie interne d’importanza internazionale[^annexIII-lvlu1-l
 <tr><th></th><th></th><th>Denominazione</th><th>Lunghezza massima</th><th>Larghezza massima</th><th>Pescag-gio<sup>6)</sup></th><th>Tonnellaggio</th><th></th><th>Lunghezza</th><th>Larghezza</th><th>Pescaggio<sup>6)</sup></th><th>Tonnellaggio</th><th></th><th></th></tr>
 <tr><th></th><th></th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th>T (t)</th><th>H (m)</th><th></th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th><th>13</th><th>14</th></tr>
-<tr><td>d’importanza internazionale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oppure 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image2.png)</td></tr>
-<tr><td></td><td>Va</td><td>Grandi battelli del Reno</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oppure 7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image3.png)</td></tr>
-<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image5.png)</td></tr>
-<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image7.png)</td></tr>
-<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image9.png)</td></tr>
-<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image11.png)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
-<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/it/xml/image/image14.png)</td></tr>
+<tr><td>d’importanza internazionale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td>1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td>1250–1450</td><td>5,25 oppure 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td>Va</td><td>Grandi battelli del Reno</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td>1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>1600–3000</td><td>5,25 oppure 7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image3.png)</td></tr>
+<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td>3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image5.png)</td></tr>
+<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>3 200– 6 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image7.png)</td></tr>
+<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>6 400–12 000</td><td>7,00 oppure 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image9.png)</td></tr>
+<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td>9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image11.png)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>9 600–18 000</td><td></td><td></td></tr>
+<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td>14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/it/xml/image/image14.png)</td></tr>
 </table>
 
 Note alla tabella 1
@@ -899,7 +893,6 @@ Note alla tabella 1
 - <sup>5)</sup> Alcune idrovie esistenti possono essere considerate appartenenti alla classe IV in ragione della lunghezza massima autorizzata per i battelli e i convogli, ancorché permettano una larghezza massima di 11,4 m e un tirante d’acqua massimo di 4,00 m.
 - <sup>6)</sup> Il valore del tirante d’acqua per un’idrovia particolare dev’essere determinato in funzione delle condizioni locali.
 - <sup>7)</sup> A volte, convogli composti di un numero maggiore di chiatte possono essere utilizzati su certe sezioni delle idrovie della classe VII. In tal caso, le dimensioni orizzontali possono superare i valori indicati nella tabella.
-- [tab]
 
 [^annexIII-lvlu1-lvlu1-1]: Se tuttavia la proporzione di contenitori vuoti trasportati su ogni battello supera il 50 per cento, occorrerebbe prevedere di aumentare l’altezza libera minima sotto i ponti ad un valore superiore a quello indicato nella nota 4.
 [^annexIII-lvlu1-lvlu1-2]: Tuttavia, per i tratti a monte dei corsi d’acqua naturali caratterizzati da livelli d’acqua variabili, direttamente e strettamente dipendenti dalle condizioni climatiche, si raccomanda di prendere come riferimento un periodo medio di almeno 300 giorni l’anno.
@@ -928,9 +921,9 @@ La rete delle idrovie E è completata con un sistema di porti di navigazione int
 - vii) deve offrire tutti i servizi necessari per le operazioni correnti del trasporto internazionale;
 - viii) per rispondere ai bisogni della protezione dell’ambiente, i porti d’importanza internazionale dovrebbero essere provvisti di impianti di ricezione delle scorie prodotte a bordo dei battelli.
 
-[^annexIII-lvlu1-lvlu3-1]: [RS 0.725.11](https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834)
+[^annexIII-lvlu1-lvlu3-1]: [RS 0.725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2729)
 [^annexIII-lvlu1-lvlu3-2]: Non pubblicato nella RU.
-[^annexIII-lvlu1-lvlu3-3]: [RS 0.740.81](https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838)
+[^annexIII-lvlu1-lvlu3-3]: [RS 0.740.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2819)
 
 Campo d’applicazione il 14 aprile 2020[^t-5]
 
@@ -955,8 +948,7 @@ Campo d’applicazione il 14 aprile 2020[^t-5]
 <tr><td>Svizzera</td><td>21 agosto</td><td>1997</td><td>26 luglio</td><td>1999</td></tr>
 <tr><td>Ucraina</td><td>5 gennaio</td><td>2010 A</td><td>5 aprile</td><td>2010</td></tr>
 <tr><td>Ungheria</td><td>22 ottobre</td><td>1997</td><td>26 luglio</td><td>1999</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Applicabile al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Applicabile al Regno in Europa.</td></tr>
 </table>
 
-[^t-5]: [RU 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938), [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394), [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414)e [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270)Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-5]: [RU 2007 7147](https://fedlex.data.admin.ch/eli/oc/2007/938), [2011 3145](https://fedlex.data.admin.ch/eli/oc/2011/394), [2016 2623](https://fedlex.data.admin.ch/eli/oc/2016/414)e [2020 1389](https://fedlex.data.admin.ch/eli/oc/2020/270). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).

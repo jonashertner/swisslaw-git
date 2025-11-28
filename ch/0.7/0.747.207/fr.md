@@ -4,11 +4,11 @@ title: "Accord européen du 19 janvier 1996 sur les grandes voies navigables d'i
 short: AGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/938"
 language: fr
-version: 2023-11-17
+version: 2025-11-29
 adopted: 1996-01-19
 in_force: 1999-07-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/fedlex-data-admin-ch-eli-cc-2007-938-20231117-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20231117/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/fedlex-data-admin-ch-eli-cc-2007-938-20251129-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/938/20251129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -27,7 +27,7 @@ Instrument de ratification déposé par la Suisse le 21 août 1997
 
 Entré en vigueur pour la Suisse le 26 juillet 1999
 
-(État le 17 novembre 2023)
+(État le 29 novembre 2025)
 
 [^t-1]: Erratum du 17 nov. 2023, ne concerne que le texte italien ([RO 2023 658](https://fedlex.data.admin.ch/eli/oc/2023/658)).
 
@@ -118,7 +118,7 @@ Le Secrétaire général de l’Organisation des Nations Unies est le dépositai
 
 <sup>2.</sup> Ces mesures, qui doivent être temporaires, sont immédiatement notifiées au dépositaire; leur nature doit être précisée.
 
-[^9-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^9-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 10
 
@@ -208,7 +208,7 @@ Si, après l’entrée en vigueur du présent Accord, le nombre des États qui s
 
 Outre les notifications et communications mentionnées dans le présent Accord, les fonctions de dépositaire du Secrétaire général de l’Organisation des Nations Unies sont celles définies dans la Partie VII de la Convention de Vienne sur le droit des traités[^17-1], conclue à Vienne le 23 mai 1969.
 
-[^17-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^17-1]: [RS 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
 
 #### Art. 18
 
@@ -222,7 +222,7 @@ Annexe I[^t-2]
 
 ## Voies navigables d’importance internationale
 
-[^t-2]: Amendée lors de la 52<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 13 au 15 oct. 2008 ([RO 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), le 12 oct. 2012 lors de la 56<sup>e</sup> session ([RO 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)) et le 6 oct. 2017 lors de la 61<sup>e</sup> session, en vigueur pour les Parties contractantes depuis le 6 nov. 2018 ([RO 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)).
+[^t-2]: Amendée lors de la 52<sup>e</sup> session du Groupe de travail des transports par voie navigable de la Commission économique pour l’Europe des Nations Unies, tenue à Genève du 13 au 15 oct. 2008 ([RO 2009 7109](https://fedlex.data.admin.ch/eli/oc/2009/862)), lors de la 56<sup>e</sup> session du 12 oct. 2012 ([RO 2014 1379](https://fedlex.data.admin.ch/eli/oc/2014/292)), lors de la 61<sup>e</sup> session du 6 oct. 2017 ([RO 2019 381](https://fedlex.data.admin.ch/eli/oc/2019/69)) et lors de la 68<sup>e</sup> session des 23 au 25 oct. 2024, en vigueur pour les Parties contractantes depuis le 29 nov. 2025 ([RO 2025 835](https://fedlex.data.admin.ch/eli/oc/2025/835)).
 
 ### Numérotation des voies navigables d’importance internationale
 
@@ -283,13 +283,7 @@ Annexe I[^t-2]
 <tr><td>E 14</td><td colspan="2"></td><td>Weser de la mer du Nord à Minden par Bremerhaven et Brême</td></tr>
 <tr><td>E 15</td><td colspan="2"></td><td>Amsterdam-Lemmer-Groningen-Delfzijl-Emden-Dörpen-Oldenburg-Elsfleth par l’Ijsselmeer, le Prinses Margariet Kanaal, le Van Starkenborgh Kanaal, l’Eemskanaal, Ems, le canal Dortmund-Ems, le Küstenkanal et Hunte</td></tr>
 <tr><td></td><td colspan="2">E 15-01</td><td>Canal van Harinxma de Fonejacht à Harlingen</td></tr>
-<tr><td>E 20</td><td colspan="2"></td><td>L’Elbe de la mer du Nord par Hamburg, Magdeburg, Ústí‑nad‑Labem, Mělník et Pardubice-[liaison Elbe-Danube]</td></tr>
-<tr><td></td><td colspan="2">E 20-02</td><td>Canal latéral de l’Elbe</td></tr>
-<tr><td></td><td colspan="2">E 20-04</td><td>Saale jusqu’à Bad Duerrenberg</td></tr>
-<tr><td></td><td colspan="2">E 20-06</td><td>Vltava: Mělník-Praha-Slapy</td></tr>
 <tr><td>E 21</td><td colspan="2"></td><td>Trave de la mer Baltique à l’Elbe par le canal Elbe-Lübeck</td></tr>
-<tr><td>E 30</td><td colspan="2"></td><td>Swinoujscie-Szczecin-Oder de Szczecin à Kozle par Wroclaw [liaison Oder-Danube]</td></tr>
-<tr><td></td><td colspan="2">E 30-01</td><td>Canal de Gliwice</td></tr>
 <tr><td>E 31</td><td colspan="2"></td><td>Szczecin-Westoder-Hohensaaten-voie navigable de Friedrichsthaler</td></tr>
 <tr><td>E 40</td><td colspan="2"></td><td>[Wisła, de Gdansk à Warszawa-Brest]-Dneprovsko-canal de Buzkiy-Pina-Pinsk-Pripyat jusqu’à l’embouchure-Dnipro via Kyiv jusqu’à Kherson</td></tr>
 <tr><td></td><td colspan="2">E 40-01</td><td>Dnipro, de Nizhnie Zhary jusqu’à l’embouchure de la Pripyat</td></tr>
@@ -876,14 +870,14 @@ Tableau 1
 <tr><th></th><th></th><th>Dénomination</th><th>Longueur max.</th><th>Largeur max.</th><th>Tirant d’eau<sup>6)</sup></th><th colspan="5">Tonnage</th><th></th><th>Longueur</th><th>Largeur</th><th>Tirant d’eau<sup>6)</sup></th><th colspan="5">Tonnage</th><th></th><th></th></tr>
 <tr><th></th><th></th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th colspan="5">T (t)</th><th></th><th>L (m)</th><th>B (m)</th><th>d (m)</th><th colspan="5">T (t)</th><th>H (m)</th><th></th></tr>
 <tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th colspan="5">7</th><th>8</th><th>9</th><th>10</th><th>11</th><th colspan="5">12</th><th>13</th><th>14</th></tr>
-<tr><td>d’importance internationale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td colspan="5">1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td colspan="5">1250–1450</td><td>5,25 ou 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image2.png)</td></tr>
-<tr><td></td><td>Va</td><td>Gros bateaux du Rhin</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td colspan="5">1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">1600–3000</td><td>5,25 ou 7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image3.png)</td></tr>
-<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image5.png)</td></tr>
-<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">3 200– 6 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image7.png)</td></tr>
-<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">6 400–12 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image9.png)</td></tr>
-<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image11.png)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td></td><td></td></tr>
-<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20231117/fr/xml/image/image14.png)</td></tr>
+<tr><td>d’importance internationale</td><td>IV</td><td>Johann Welker</td><td>80–85</td><td>9,5</td><td>2,50</td><td colspan="5">1000–1500</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image1.png)</td><td>85</td><td>9,5<sup>5)</sup></td><td>2,50–2,80</td><td colspan="5">1250–1450</td><td>5,25 ou 7,00<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td>Va</td><td>Gros bateaux du Rhin</td><td>95–110</td><td>11,4</td><td>2,50–2,80</td><td colspan="5">1500–3000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image1.png)</td><td>95–110<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">1600–3000</td><td>5,25 ou 7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image3.png)</td></tr>
+<tr><td></td><td>Vb</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image4.png)</td><td>172–185<sup>1)</sup></td><td>11,4</td><td>2,50–4,50</td><td colspan="5">3200–6000</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image5.png)</td></tr>
+<tr><td></td><td>Vla</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image6.png)</td><td>95–110<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">3 200– 6 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image7.png)</td></tr>
+<tr><td></td><td>Vlb</td><td><sup>3)</sup></td><td>140</td><td>15,0</td><td>3,90</td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image8.png)</td><td>185–195<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">6 400–12 000</td><td>7,00 ou 9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image9.png)</td></tr>
+<tr><td></td><td>Vlc</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image10.png)</td><td>270–280<sup>1)</sup></td><td>22,8</td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image11.png)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image12.png)</td><td>195–200<sup>1)</sup></td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">9 600–18 000</td><td></td><td></td></tr>
+<tr><td></td><td>VII</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td><sup>7)</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image13.png)</td><td>275–285</td><td>33,0–34,2<sup>1)</sup></td><td>2,50–4,50</td><td colspan="5">14 500–27 000</td><td>9,10<sup>4)</sup></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/938/20251129/fr/xml/image/image14.png)</td></tr>
 </table>
 
 **Notes du tableau 1**
@@ -937,9 +931,9 @@ Le réseau de voies navigables E est complété par un système de ports de navi
 - vii) il doit offrir tous les services nécessaires pour les opérations courantes du transport international;
 - viii) pour répondre aux besoins de la protection de l’environnement, des installations de réception des déchets produits à bord des bateaux devraient exister dans les ports d’importance internationale.
 
-[^annexIII-lvlu1-lvlu3-1]: [RS 0.725.11](https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834)
+[^annexIII-lvlu1-lvlu3-1]: [RS 0.725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2729)
 [^annexIII-lvlu1-lvlu3-2]: Non publié dans le RO.
-[^annexIII-lvlu1-lvlu3-3]: [RS 0.740.81](https://fedlex.data.admin.ch/eli/cc/1993/2838_2838_2838)
+[^annexIII-lvlu1-lvlu3-3]: [RS 0.740.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2819)
 
 Champ d’application le 14 avril 2020[^t-5]
 
