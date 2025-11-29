@@ -4,7 +4,7 @@ number: "101.01"
 title: CONSTITUTION du 14.04.2003 du Canton de Vaud (Cst-VD)
 short: Cst-VD
 language: fr
-version: 2025-09-28
+version: 2025-11-30
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277"
 ---
 
@@ -797,11 +797,14 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 **Corps électoral [^chapterChapitreI-1]**
 
-<sup>1</sup> Font partie du corps électoral cantonal les Suissesses et les Suisses domiciliés dans le canton qui sont âgés de dix-huit ans révolus et ne sont pas protégés par une curatelle de portée générale ou un mandat pour cause d'inaptitude, en raison d'une incapacité durable de discernement.
+<sup>1</sup> Font partie du corps électoral cantonal :
+
+- a. les Suissesses et les Suisses domiciliés dans le canton qui sont âgés de dix-huit ans révolus et ne sont pas protégés par une curatelle de portée générale ou un mandat pour cause d'inaptitude, en raison d'une incapacité durable de discernement;
+- b. les Suissesses et les Suisses de l'étranger qui prennent part aux scrutins fédéraux dans le canton en vertu de la législation fédérale, dans la mesure prévue à l'article 75.
 
 <sup>2</sup> La loi[^74-1] prévoit une procédure simple permettant à la personne visée par l'alinéa 1er in fine d'obtenir, en prouvant qu'elle est capable de discernement, son intégration ou sa réintégration dans le corps électoral.
 
-[^chapterChapitreI-1]: Modif. 10 du 29.05.2012: Modification Art. 74; entrée en vigueur au 25.11.2012 · Modif. 17 du 10.06.2025: Modification Al. 1; entrée en vigueur au 30.11.2025; Introduction Al. 1, a-b; entrée en vigueur au 30.11.2025; Introduction Art. 75, Al. 2; entrée en vigueur au 30.11.2025
+[^chapterChapitreI-1]: Modif. 10 du 29.05.2012: Modification Art. 74; entrée en vigueur au 25.11.2012 · Modif. 17 du 10.06.2025: Modification Al. 1; entrée en vigueur au 30.11.2025; Introduction Al. 1, a-b; entrée en vigueur au 30.11.2025
 [^74-1]: Loi du 05.10.2021 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=a55eea67-87d6-4dd7-8ebe-54cc175d7b3b))
 
 #### Art. 75
@@ -810,7 +813,9 @@ d. soutiennent les institutions publiques et privées actives dans la préventio
 
 <sup>1</sup> Les droits politiques ont pour objet la participation aux élections et votations, l'éligibilité et la signature des demandes d'initiative et de référendum.
 
-[^74-2]: Modif. 17 du 10.06.2025: Introduction Art. 74, Al. 1, a-b; entrée en vigueur au 30.11.2025; Introduction Al. 2; entrée en vigueur au 30.11.2025
+<sup>2</sup> Les Suissesses et les Suisses de l'étranger ne peuvent exercer leurs droits politiques que pour l'élection du Conseil des Etats. En cas d'élection, ces personnes sont tenues de prendre domicile dans le canton.
+
+[^74-2]: Modif. 17 du 10.06.2025: Introduction Al. 2; entrée en vigueur au 30.11.2025
 
 #### Art. 76
 
