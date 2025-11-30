@@ -4,11 +4,11 @@ title: "Ordinanza del 26 agosto 1998 sul risanamento dei siti inquinati (Ordinan
 short: OSiti
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: it
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20250801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/it/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20251201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/it"
 
 (Ordinanza sui siti contaminati, OSiti)
 
-del 26 agosto 1998 (Stato 1° agosto 2025)
+del 26 agosto 1998 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -639,7 +639,7 @@ Allegato 3[^t-2]
 
 ## Valori di concentrazione per valutare la necessità di risanamento di suoli
 
-[^t-2]: Introdotto dall’all cifra II n. 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Aggiornato dalla cifra II dell’O del 9 mag. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) e dalla cifra I dell’O del 14 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
+[^t-2]: Introdotto dall’all cifra II n. 2. dell’O del 26 set. 2008 sulla tassa per il risanamento dei siti contaminati ([RU 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Aggiornato dalla cifra II dell’O del 9 mag. 2012 ([RU 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) e dalla cifra I delle O del 14 gen. 2015 ([RU 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)), del 29 ott. 2025 ([RU 2025 746](https://fedlex.data.admin.ch/eli/oc/2025/746)).
 
 Per valutare la necessità di risanamento di suoli fanno testo i valori di concentrazione riportati nelle tabelle seguenti. Se per sostanze suscettibili di inquinare le acque e che hanno inquinato un sito non sono fissati valori di concentrazione, l’autorità li stabilisce, previa approvazione dell’UFAM, per il singolo caso conformemente alle prescrizioni della legislazione sulla protezione dell’ambiente.
 
@@ -671,17 +671,17 @@ Per valutare la necessità di risanamento di suoli fanno testo i valori di conce
 <tr><td>Cromo (VI)</td><td>100 mg CrVI/kg</td></tr>
 <tr><td>Mercurio</td><td>2 mg Hg/kg</td></tr>
 <tr><td>Nichel</td><td>1000 mg Ni/kg</td></tr>
-<tr><td>Piombo</td><td>1000 mg Pb/kg</td></tr>
+<tr><td>Piombo</td><td>300 mg Pb/kg</td></tr>
 <tr><td>Rame</td><td>1000 mg Cu/kg</td></tr>
 <tr><td>Zinco</td><td>2000 mg Zn/kg</td></tr>
 <tr><td>Organiche</td><td></td></tr>
 <tr><td>Benzene</td><td>1 mg/kg</td></tr>
-<tr><td>Benzo(a)pirene</td><td>10 mg/kg</td></tr>
+<tr><td>Benzo(a)pirene</td><td>1 mg/kg</td></tr>
 <tr><td>Bifenili policlorurati (PCB)\*\*</td><td>1 mg/kg</td></tr>
-<tr><td>Idrocarburi alifatici C<sub>11</sub>–C<sub>40</sub></td><td>500 mg/kg</td></tr>
+<tr><td>Diossine e sostanze diossina-simili (PCDD, PCDF e dl-PCB)\*\*\*\*\*</td><td>20 ng TEQ/kg</td></tr>
+<tr><td>Idrocarburi alifatici C<sub>10</sub>–C<sub>40</sub></td><td>500 mg/kg</td></tr>
 <tr><td>Idrocarburi alifatici da C<sub>5</sub> fino a C<sub>10</sub>\*\*\*</td><td>5 mg/kg</td></tr>
 <tr><td>Idrocarburi clorurati volatili (VCHC)\*</td><td>1 mg/kg</td></tr>
-<tr><td>Idrocarburi monociclici aromatici (BTEX)\*\*\*\*</td><td>500 mg/kg</td></tr>
-<tr><td>Idrocarburi policiclici aromatici (PAH)\*\*\*\*\*</td><td>100 mg/kg</td></tr>
-<tr><td colspan="2">\* ∑7 VCHC: Diclorometano, triclorometano, tetraclorometano, cis-1,2-dicloroetilene, 1,1,1-tricloroetano, tricloroetilene (Tri), tetracloroetilene (Per). \*\* ∑6 congeneri di PCB × 4.3: n. 28, 52, 101, 138, 153, 180. \*\*\* Idrocarburi da ∑C<sub>5</sub> a C<sub>10</sub>: superficie cromatogramma FID tra n-pentano e n-decano, moltiplicata per il fattore di risposta dell’n-esano, meno ∑BTEX. \*\*\*\* ∑6BTEX: benzene, toluolo, etilbenzene, o-xilolo, m-xilolo, p-xilolo. \*\*\*\*\* ∑16 PAH dell’EPA: naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo[a]antracene, crisene, benzo[a]pirene, benzo[b]fluorantene, benzo[k]fluorantene, dibenz[a,h]antracene, benzo[g,h,i]perilene, indeno[1,2,3-c,d]pirene.</td></tr>
+<tr><td>Idrocarburi policiclici aromatici (PAH)\*\*\*\*</td><td>10 mg/kg</td></tr>
+<tr><td colspan="2">\* ∑7 VCHC: Diclorometano, triclorometano, tetraclorometano, cis-1,2-dicloroetilene, 1,1,1-tricloroetano, tricloroetilene (Tri), tetracloroetilene (Per). \*\* ∑6 congeneri di PCB × 4.3: n. 28, 52, 101, 138, 153, 180. \*\*\* Idrocarburi da ∑C<sub>5</sub> a C<sub>10</sub>: superficie cromatogramma FID tra n-pentano e n-decano, moltiplicata per il fattore di risposta dell’n-esano, meno ∑BTEX. \*\*\*\* ∑16 PAH dell’EPA: naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo[a]antracene, crisene, benzo[a]pirene, benzo[b]fluorantene, benzo[k]fluorantene, dibenz[a,h]antracene, benzo[g,h,i]perilene, indeno[1,2,3-c,d]pirene. \*\*\*\*\* ∑29 congeneri delle dibenzo-p-diossine policlorurate (PCDD), policlorodibenzofurani (PCDF) e bifenili policlorurati diossina-simili (dl-PCB) secondo il fattore di equivalenza tossica dell’OMS (WHO<sub>22</sub>-TEF).</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: "Ordonnance du 26 août 1998 sur l'assainissement des sites pollués (Ord
 short: OSites
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: fr
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20250801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20251201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/fr"
 
 (Ordonnance sur les sites contaminés, OSites[^t-1])
 
-du 26 août 1998 (État le 1<sup>er</sup> août 2025)
+du 26 août 1998 (État le 1<sup>er</sup> décembre 2025)
 
 [^t-1]: [RO 1998 2828](https://fedlex.data.admin.ch/eli/oc/1998/2828_2828_2828)
 
@@ -638,7 +638,7 @@ Annexe 3[^t-3]
 
 ## Valeurs de concentration pour l’évaluation du besoin d’assainissement de sols
 
-[^t-3]: Introduite par l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Mise à jour par le ch. II de l’O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) et le ch. I de l’O du 14 janv. 2015, en vigueur depuis le 1<sup>er</sup> mars 2015 ([RO 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
+[^t-3]: Introduite par l’annexe ch. II 2 de l’O du 26 sept. 2008 relative à la taxe pour l’assainissement des sites contaminés ([RO 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Mise à jour par le ch. II de l’O du 9 mai 2012 ([RO 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) et le ch. I des O du 14 janv. 2015 ([RO 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)) et du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 746](https://fedlex.data.admin.ch/eli/oc/2025/746)).
 
 Pour évaluer le besoin d’assainissement de sols, on se basera sur les valeurs de concentration indiquées dans les tableaux ci-après. Si aucune valeur de concentration n’a été déterminée pour certaines substances pouvant polluer les sols et se trouvant sur un site, l’autorité fixe les valeurs requises au cas par cas en accord avec l’OFEV, selon les prescriptions de la législation sur la protection de l’environnement.
 
@@ -665,7 +665,7 @@ Pour évaluer le besoin d’assainissement de sols, on se basera sur les valeurs
 <tr><td>Substances inorganiques</td><td></td></tr>
 <tr><td>Antimoine</td><td>50 mg Sb/kg</td></tr>
 <tr><td>Arsenic</td><td>50 mg As/kg</td></tr>
-<tr><td>Plomb</td><td>1000 mg Pb/kg</td></tr>
+<tr><td>Plomb</td><td>300 mg Pb/kg</td></tr>
 <tr><td>Cadmium</td><td>20 mg Cd/kg</td></tr>
 <tr><td>Chrome (VI)</td><td>100 mg CrVI/kg</td></tr>
 <tr><td>Cuivre</td><td>1000 mg Cu/kg</td></tr>
@@ -677,10 +677,10 @@ Pour évaluer le besoin d’assainissement de sols, on se basera sur les valeurs
 <tr><td>Hydrocarbures chlorés volatils\*</td><td>1 mg/kg</td></tr>
 <tr><td>Biphényles polychlorés (PCB)\*\*</td><td>1 mg/kg</td></tr>
 <tr><td>Hydrocarbures aliphatiques C<sub>5</sub> à C<sub>10</sub>\*\*\*</td><td>5 mg/kg</td></tr>
-<tr><td>Hydrocarbures aliphatiques C<sub>11</sub> à C<sub>40</sub></td><td>500 mg/kg</td></tr>
-<tr><td>Hydrocarbures aromatiques monocycliques (BTEX)\*\*\*\*</td><td>500 mg/kg</td></tr>
+<tr><td>Hydrocarbures aliphatiques C<sub>10</sub> à C<sub>40</sub></td><td>500 mg/kg</td></tr>
 <tr><td>Benzène</td><td>1 mg/kg</td></tr>
-<tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*\*</td><td>100 mg/kg</td></tr>
-<tr><td>Benzo[a]pyrène</td><td>10 mg/kg</td></tr>
-<tr><td colspan="2">\* ∑7 hydrocarbures chlorés volatils: dichlorométhane, trichlorométhane, tétrachlorométhane, cis-1,2-dichloroéthylène, 1,1,1-trichloroéthane, trichloroéthylène (Tri), tétrachloréthylène (Per) \*\* ∑6 congénères de PCB × 4,3: n<sup>o</sup> 28, 52, 101, 138, 153, 180 \*\*\* ∑HC C<sub>5</sub> à C<sub>10</sub>: surface du chromatogramme FID entre le n-pentane et le n-décane, multipliée par le facteur de réponse du n-hexane, moins ∑BTEX \*\*\*\* ∑6BTEX: benzène, toluène, éthylbenzène, o-xylène, m-xylène, p-xylène \*\*\*\*\* ∑16 HAP selon EPA: naphtalène, acénaphthylène, acénaphthène, fluorène, phénanthrène, anthracène, fluoranthène, pyrène, benzo[a]anthracène, chrysène, benzo[a]pyrène, benzo[b]fluoranthène, benzo[k]fluoranthène, dibenzo[a,h]anthracène, benzo[g,h,i]pérylène, indéno[1,2,3-c,d]pyrène</td></tr>
+<tr><td>Hydrocarbures aromatiques polycycliques (HAP)\*\*\*\*</td><td>10 mg/kg</td></tr>
+<tr><td>Benzo[a]pyrène</td><td>1 mg/kg</td></tr>
+<tr><td>Dioxines et substances de type dioxine (PCDD, PCDF et dl-PCB) \*\*\*\*\*</td><td>20 ng TEQ/kg</td></tr>
+<tr><td colspan="2">\* ∑7 hydrocarbures chlorés volatils: dichlorométhane, trichlorométhane, tétrachlorométhane, cis-1,2-dichloroéthylène, 1,1,1-trichloroéthane, trichloroéthylène (Tri), tétrachloréthylène (Per) \*\* ∑6 congénères de PCB × 4,3: n<sup>o</sup> 28, 52, 101, 138, 153, 180 \*\*\* ∑HC C<sub>5</sub> à C<sub>10</sub>: surface du chromatogramme FID entre le n-pentane et le n-décane, multipliée par le facteur de réponse du n-hexane, moins ∑BTEX \*\*\*\* ∑16 HAP selon EPA: naphtalène, acénaphthylène, acénaphthène, fluorène, phénanthrène, anthracène, fluoranthène, pyrène, benzo[a]anthracène, chrysène, benzo[a]pyrène, benzo[b]fluoranthène, benzo[k]fluoranthène, dibenzo[a,h]anthracène, benzo[g,h,i]pérylène, indéno[1,2,3-c,d]pyrène \*\*\*\*\* ∑29 congénères de dibenzodioxines polychlorées (PCDD), de dibenzofuranes polychlorés (PCDF) et de biphényles polychlorés de type dioxine (dl‑PCB) selon les TEF OMS<sub>22</sub></td></tr>
 </table>

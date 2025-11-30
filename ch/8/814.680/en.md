@@ -4,11 +4,11 @@ title: "Ordinance of 26 August 1998 on the Remediation of Polluted Sites (Contam
 short: CSO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: en
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20250801-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Contaminated Sites Ordinance, CSO)
 
-of 26 August 1998 (Status as of 1 August 2025)
+of 26 August 1998 (Last amended on 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -641,7 +641,7 @@ Annex 3[^t-2]
 
 ## Concentration values for the assessment of the need for remediation of soil
 
-[^t-2]: Inserted by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites, in force since 1 Jan. 2009 ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Revised by No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) and No I of the O of 14 Jan. 2015, in force since 1 March 2015 ([AS 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
+[^t-2]: Inserted by Annex No II 2 of the O of 26 Sept. 2008 on the Charge for the Remediation of Contaminated Sites ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Revised by No II of the O of 9 May 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)), No I of the O of 14 Jan. 2015 ([AS 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)) and of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 746](https://fedlex.data.admin.ch/eli/oc/2025/746)).
 
 The concentration values in the table below apply in the assessment of the need for remediation of soil. Where no concentration values are given in the table for potential soil pollutants which are polluting a site, the authority shall specify a value on a case by case basis with the consent of the FOEN and according to the provisions of the legislation on the protection of the environment.
 
@@ -668,7 +668,7 @@ The concentration values in the table below apply in the assessment of the need 
 <tr><td>Inorganic substances</td><td></td></tr>
 <tr><td>Antimony</td><td>50 mg Sb/kg</td></tr>
 <tr><td>Arsenic</td><td>50 mg As/kg</td></tr>
-<tr><td>Lead</td><td>1000 mg Pb/kg</td></tr>
+<tr><td>Lead</td><td>300 mg Pb/kg</td></tr>
 <tr><td>Cadmium</td><td>20 mg Cd/kg</td></tr>
 <tr><td>Chromium (VI)</td><td>100 mg CrVI/kg</td></tr>
 <tr><td>Copper</td><td>1000 mg Cu/kg</td></tr>
@@ -681,13 +681,13 @@ The concentration values in the table below apply in the assessment of the need 
 <tr><td>Polychlorinated biphenyls (PCBs)\*\*</td><td>1 mg/kg</td></tr>
 <tr><td>Aliphatic hydrocarbons C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td>5 mg/kg</td></tr>
 <tr><td>Aliphatic hydrocarbons C<sub>11</sub>–C<sub>40</sub></td><td>500 mg/kg</td></tr>
-<tr><td>Monocyclic aromatic hydrocarbons (BTEX)\*\*\*\*</td><td>500 mg/kg</td></tr>
 <tr><td>Benzene</td><td>1 mg/kg</td></tr>
-<tr><td>Polycyclic aromatic hydrocarbons (PAHs)\*\*\*\*\*</td><td>100 mg/kg</td></tr>
-<tr><td>Benzo[a]pyrene</td><td>10 mg/kg</td></tr>
+<tr><td>Polycyclic aromatic hydrocarbons (PAHs)\*\*\*\*</td><td>10 mg/kg</td></tr>
+<tr><td>Benzo[a]pyrene</td><td>1 mg/kg</td></tr>
+<tr><td>Dioxins and dioxin-like substances (PCDDs, PCDFs and dl-PCBs)\*\*\*\*\* 20 ng TEQ/kg</td><td>20 ng TEQ/kg</td></tr>
 <tr><td colspan="2">\* ∑7 volatile chlorinated hydrocarbons: dichloromethane, trichloromethane, tetrachloromethane, cis-1,2-dichloroethylene, 1,1,1-trichloroethane, trichloroethylene (TCE), tetrachlorethylene (PERC)</td></tr>
 <tr><td colspan="2">\*\* ∑6 PCB congeners × 4.3: no. 28, 52, 101, 138, 153, 180</td></tr>
 <tr><td colspan="2">\*\*\* ∑C<sub>5</sub>- to C<sub>10</sub> hydrocarbons: area of the FID-chromatogram between n-pentane and n‑decane, multiplied by the response factor of n-hexane, minus ∑BTEX</td></tr>
-<tr><td colspan="2">\*\*\*\* ∑6 BTEX: benzene, toluene, ethylbenzene, o-xylene, m-xylene, p-xylene</td></tr>
 <tr><td colspan="2">\*\*\*\*\* ∑16 EPA PAHs: napthalene, acenaphthylene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, benz-a-anthracene, chrysene, benzo[a]pyrene, benzo[b]fluoranthene, benzo[k]fluoranthene, dibenz[a,h]anthracene, benzo[g,h,i]perylene, indeno[1,2,3-c,d]pyrene</td></tr>
+<tr><td colspan="2">\*\*\*\*\* ∑29 Congeners of polychlorinated dibenzo-p-dioxins (PCDD), polychlorinated dibenzofurans (PCDF) and dioxin-like polychlorinated biphenyls (dl-PCB) according to WHO22-TEF</td></tr>
 </table>

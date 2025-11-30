@@ -4,11 +4,11 @@ title: "Verordnung vom 26. August 1998 über die Sanierung von belasteten Stando
 short: AltlV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261"
 language: de
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-08-26
 in_force: 1998-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20250801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261/20251201/de/xml/fedlex-data-admin-ch-eli-cc-1998-2261_2261_2261-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2261_2261_2261/20250801/de"
 
 (Altlasten-Verordnung, AltlV)
 
-vom 26. August 1998 (Stand am 1. August 2025)
+vom 26. August 1998 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -635,7 +635,7 @@ Anhang 3[^t-2]
 
 ## Konzentrationswerte für die Beurteilung der Sanierungsbedürftigkeit von Böden
 
-[^t-2]: Eingefügt durch Anhang Ziff. II 2 der V vom 26. Sept. 2008 über die Abgabe zur Sanierung von Altlasten ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Bereinigt gemäss Ziff. II der V vom 9. Mai 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)) und Ziff. I der V vom 14. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)).
+[^t-2]: Eingefügt durch Anhang Ziff. II 2 der V vom 26. Sept. 2008 über die Abgabe zur Sanierung von Altlasten ([AS 2008 4771](https://fedlex.data.admin.ch/eli/oc/2008/670)). Bereinigt gemäss Ziff. II der V vom 9. Mai 2012 ([AS 2012 2905](https://fedlex.data.admin.ch/eli/oc/2012/348)), Ziff. I der V vom 14. Jan. 2015 ([AS 2015 317](https://fedlex.data.admin.ch/eli/oc/2015/36)) und vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 746](https://fedlex.data.admin.ch/eli/oc/2025/746)).
 
 Für die Beurteilung der Sanierungsbedürftigkeit von Böden gelten die Konzentrationswerte der nachfolgenden Tabellen. Sind für Stoffe, die Böden verunreinigen können und mit denen ein Standort belastet ist, keine Konzentrationswerte festgelegt, so legt die Behörde solche mit Zustimmung des BAFU im Einzelfall nach den Vorschriften der Umweltschutzgesetzgebung fest.
 
@@ -662,7 +662,7 @@ Für die Beurteilung der Sanierungsbedürftigkeit von Böden gelten die Konzentr
 <tr><td>*Anorganika*</td><td></td></tr>
 <tr><td>Antimon</td><td>50 mg Sb/kg</td></tr>
 <tr><td>Arsen</td><td>50 mg As/kg</td></tr>
-<tr><td>Blei</td><td>1000 mg Pb/kg</td></tr>
+<tr><td>Blei</td><td>300 mg Pb/kg</td></tr>
 <tr><td>Cadmium</td><td>20 mg Cd/kg</td></tr>
 <tr><td>Chrom (VI)</td><td>100 mg CrVI/kg</td></tr>
 <tr><td>Kupfer</td><td>1000 mg Cu/kg</td></tr>
@@ -674,10 +674,10 @@ Für die Beurteilung der Sanierungsbedürftigkeit von Böden gelten die Konzentr
 <tr><td>Leichtflüchtige chlorierte Kohlenwasserstoffe (LCKW)\*</td><td>1 mg/kg</td></tr>
 <tr><td>Polychlorierte Biphenyle (PCB)\*\*</td><td>1 mg/kg</td></tr>
 <tr><td>Aliphatische Kohlenwasserstoffe C<sub>5</sub>–C<sub>10</sub>\*\*\*</td><td>5 mg/kg</td></tr>
-<tr><td>Aliphatische Kohlenwasserstoffe C<sub>11</sub>–C<sub>40</sub></td><td>500 mg/kg</td></tr>
-<tr><td>Monocyclische aromatische Kohlenwasserstoffe (BTEX)\*\*\*\*</td><td>500 mg/kg</td></tr>
+<tr><td>Aliphatische Kohlenwasserstoffe C<sub>10</sub>–C<sub>40</sub></td><td>500 mg/kg</td></tr>
 <tr><td>Benzol</td><td>1 mg/kg</td></tr>
-<tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*\*</td><td>100 mg/kg</td></tr>
-<tr><td>Benzo[a]pyren</td><td>10 mg/kg</td></tr>
-<tr><td colspan="2">\* ∑7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, cis-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Tetrachlorethylen (Per) \*\* ∑6 PCB-Kongenere × 4.3: Nr. 28, 52, 101, 138, 153, 180 \*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen n-Pentan und n-Decan, multipliziert mitdem Response Faktor von n-Hexan, minus ∑BTEX \*\*\*\* ∑6BTEX: Benzol, Toluol, Ethylbenzol, o-Xylol, m-Xylol, p-Xylol \*\*\*\*\* «∑16 EPA-PAK: Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[a]anthracen, Chrysen, Benzo[a]pyren, Benzo[b]fluoranthen, Ben zo[k]fluoranthen, Dibenz[a,h]anthracen, Benzo[g,h,i]perylen, Indeno[1,2,3-c,d]pyren</td></tr>
+<tr><td>Polycyclische aromatische Kohlenwasserstoffe (PAK)\*\*\*\*</td><td>10 mg/kg</td></tr>
+<tr><td>Benzo[a]pyren</td><td>1 mg/kg</td></tr>
+<tr><td>Dioxine und dioxinähnliche Substanzen (PCDD, PCDF und dl-PCB)\*\*\*\*\*</td><td>20 ng TEQ/kg</td></tr>
+<tr><td colspan="2">\* ∑7 LCKW: Dichlormethan, Trichlormethan, Tetrachlormethan, cis-1,2-Dichlorethylen, 1,1,1-Trichlorethan, Trichlorethylen (Tri), Tetrachlorethylen (Per) \*\* ∑6 PCB-Kongenere × 4.3: Nr. 28, 52, 101, 138, 153, 180 \*\*\* ∑C<sub>5</sub>- bis C<sub>10</sub>-KW: Fläche FID-Chromatogramm zwischen n-Pentan und n-Decan, multipliziert mitdem Response Faktor von n-Hexan, minus ∑BTEX \*\*\*\* ∑16 EPA-PAK: Naphthalin, Acenaphthylen, Acenaphthen, Fluoren, Phenanthren, Anthracen, Fluoranthen, Pyren, Benz[a]anthracen, Chrysen, Benzo[a]pyren, Benzo[b]fluoranthen, Benzo[k]fluoranthen, Dibenz[a,h]anthracen, Benzo[g,h,i]perylen, Indeno[1,2,3-c,d]pyren \*\*\*\*\* ∑29 Kongenere der polychlorierten Dibenzo-p-Dioxine (PCDD), polychlorierten Dibenzofurane (PCDF) und dioxinähnlichen polychlorierten Biphenyle (dl-PCB) gemäss WHO<sub>22</sub>-TEF.</td></tr>
 </table>
