@@ -1,0 +1,65 @@
+---
+canton: FR
+number: "721.3.35"
+title: Ordonnance concernant la réserve forestière Cheyres-Font
+language: fr
+version: 2025-12-01
+version_adopted: 2025-12-02
+adopted: 2025-12-02
+in_force: 2025-12-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/721.3.35"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8317/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance concernant la réserve forestière Cheyres-Font
+
+Réserve forestière Cheyres-Font – O
+
+du 02.12.2025 (version entrée en vigueur le 01.12.2025)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN);
+
+Vu la loi fédérale du 4 octobre 1991 sur les forêts (LFo);
+
+Vu la loi du 2 mars 1999 sur les forêts et la protection contre les catastrophes naturelles (LFCN);
+
+Vu le concept de réserves forestières du canton de Fribourg du 23 janvier 2004;
+
+Vu la décision du Conseil d'Etat du 29 mars 2022 validant le principe de la création de la réserve forestière;
+
+Vu les conventions de servitude du 14 février 2025;
+
+Sur proposition de la Direction des institutions, de l'agriculture et des forêts,
+
+Arrête:
+
+#### Art. 1
+
+<sup>1</sup> La forêt d'une surface de 43,12 ha comprise dans le périmètre figurant sur le plan au 1:10'000 établi le 16 décembre 2024 par le Service des forêts et de la nature forme la réserve forestière Cheyres-Font. Il s'agit d'une réserve forestière totale.
+
+<sup>2</sup> Le plan du périmètre fait partie intégrante de la présente ordonnance. Il peut être consulté auprès du Service des forêts et de la nature.
+
+<sup>3</sup> La réserve est constituée pour une durée de cinquante ans dès le 15 décembre 2024.
+
+#### Art. 2
+
+<sup>1</sup> A l'intérieur de la réserve, toute intervention sylvicole et toute implantation de constructions ou d'installations sont interdites.
+
+<sup>2</sup> Les interventions et activités suivantes restent possibles:
+
+- a) les interventions sylvicoles visant à éliminer les arbres versés sur le terrain agricole, sur une route ou sur un chemin de mobilité douce;
+- b) l'utilisation, le balisage et l'entretien de ces chemins;
+- c) les interventions phytosanitaires ordonnées par le Service des forêts et de la nature en cas de pullulation du bostryche pouvant avoir des répercussions importantes sur les peuplements voisins de la réserve forestière;
+- d) les mesures de lutte contre les espèces exotiques envahissantes;
+- e) l'accès pour l'entretien périodique (curage, réparation, rénovation) de fossés, conduites d'eau et canalisations;
+- f) l'exercice de la chasse et la cueillette des champignons sous réserve des législations applicables en la matière.
+
+<sup>3</sup> Lors des interventions sylvicoles, les arbres sont tirés et laissés en forêt.
+
+<sup>4</sup> Lors des interventions dues au bostryche, le bois est laissé au sol dans la réserve après ébranchage et éventuel écorçage.
+
+2025\_093
