@@ -4,11 +4,11 @@ title: "Ordonnance du 25 janvier 2023 sur l’instauration d’une réserve d’
 short: OIRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: fr
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-43-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2023-43-20251201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20250101/fr"
 
 (Ordonnance sur une réserve d’hiver, OIRH)
 
-du 25 janvier 2023 (État le 1<sup>er</sup> janvier 2025)
+du 25 janvier 2023 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 8*a*, al. 7, 9 et 30, al. 2, de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^ingress-1],[^ingress-2]
+vu les art. 8*b*, al. 7, 9, al. 2, et 30, al. 2, de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^ingress-1]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 ## Section 1 But et objet
 
@@ -144,9 +144,10 @@ Le contrat comprend au moins les points suivants:
 
 <sup>4</sup> Si la quantité d’énergie à conserver ou la période de conservation changent, il est possible de modifier ou de résilier de manière anticipée les contrats pluriannuels.
 
-<sup>5</sup> Si la participation repose sur une décision de l’ElCom (art. 3, al. 5), la teneur uniforme du contrat obtient une valeur contraignante.
+<sup>5</sup> Si la participation repose sur une décision de l’ElCom (art. 3*a*, al. 5), la teneur uniforme du contrat obtient une valeur contraignante.[^5-2]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 #### Art. 5a
 
@@ -157,17 +158,19 @@ Le contrat comprend au moins les points suivants:
 Les participants à la réserve reçoivent:
 
 - a. pour la conservation d’énergie: une indemnité forfaitaire;
-- b. pour une éventuelle mise en réserve de puissance (art. 3, al. 4): une rémunération modérée.
+- b.[^5a-2] pour une éventuelle mise en réserve de puissance (art. 3*a*, al. 4) ordonnée ultérieurement: une rémunération modérée.
 
 <sup>2</sup> L’ElCom calcule et publie chaque année le taux pour l’indemnité forfaitaire par GWh d’énergie conservée. La différence de prix moyenne entre le premier et le deuxième trimestre de l’année, au cours duquel la période de conservation prend fin, sert de valeur de base pour ce taux. La valeur de base est multipliée par le facteur 1,3.
 
 <sup>3</sup> L’ElCom utilise comme base de données pour la valeur de base les prix de règlement publiés des contrats trimestriels de base sur le marché à terme Suisse pendant la période de 30 jours calendaires précédant la publication des valeurs-clés. Si un nombre insuffisant de prix de règlement sont publiés pour l’année considérée, elle emploie une méthode de substitution adéquate. Pour ce faire, elle peut notamment utiliser une autre période, les informations de prix historiques ou les données du marché à terme des pays voisins.
 
-<sup>4</sup> En cas d’augmentation de la quantité d’énergie à conserver (art. 3, al. 3), l’indemnité forfaitaire est calculée de la même manière. Pour déterminer la valeur de base pour la conservation supplémentaire, la période de 30 jours calendaires précédant l’annonce des valeurs-clés adaptées est employée.
+<sup>4</sup> En cas d’augmentation de la quantité d’énergie à conserver (art. 3*a*, al. 3), l’indemnité forfaitaire est calculée de la même manière. Pour déterminer la valeur de base pour la conservation supplémentaire, la période de 30 jours calendaires précédant l’annonce des valeurs-clés adaptées est employée.[^5a-3]
 
 <sup>5</sup> L’ElCom définit en fonction de la situation le montant de la rémunération pour une mise en réserve de puissance ordonnée ultérieurement. Elle prend en compte la situation exceptionnelle concrète.
 
 [^5a-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^5a-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
+[^5a-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 #### Art. 5b
 
@@ -214,22 +217,18 @@ En concertation avec l’ElCom, le DETEC peut:
 - b. préciser dans quel ordre de priorité et pour quel volume d’énergie les installations visées à l’al. 2 sont à inclure dans la réserve complémentaire;
 - c.[^6-1] ordonner à la société nationale du réseau de transport de procéder à des appels d’offres pour des groupes électrogènes de secours et des installations CCF (art. 14, al. 2).
 
-<sup>4</sup> La participation à la réserve complémentaire dure jusqu’au 31 mai 2026 au plus tard. Une éventuelle durée de participation plus longue régie par une réglementation succédant à la présente ordonnance est réservée.
+<sup>4</sup> La participation à la réserve complémentaire dure jusqu’au 31 mai 2030.[^6-2]
 
 [^6-1]: Introduite par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 #### Art. 7
 
 **Participation des exploitants de groupes électrogènes de secours et des exploitants d’installations CCF à la réserve complémentaire**
 
-<sup>1</sup> Les exploitants de groupes électrogènes de secours et les exploitants d’installations CCF dont la puissance est inférieure à 5 MW ne peuvent participer à la réserve complémentaire qu’en étant regroupées par un agrégateur.
+<sup>1</sup> Les exploitants de groupes électrogènes de secours et les exploitants d’installations CCF dont la puissance est inférieure à 30 MW ne peuvent participer à la réserve complémentaire qu’en étant regroupés par un agrégateur.[^7-1]
 
-<sup>2</sup>
-
-Les exploitants de groupes électrogènes de secours fonctionnant en mode îlotage et n’injectant pas d’électricité dans le réseau peuvent participer à la réserve complémentaire jusqu’au 30 avril 2023. La participation se fait aux conditions suivantes:
-
-- a. en vertu de l’art. 13, al. 2, LApEl, l’accès au réseau est refusé pour des questions d’ordre technique qui ne peuvent pas être résolues rapidement, et
-- b. l’installation n’est mise en mode îlotage qu’en cas de recours à la réserve complémentaire ou en cas de panne sur le réseau et peut être exploitée selon le programme provisionnel.
+<sup>2</sup> …[^7-2]
 
 <sup>3</sup>
 
@@ -241,12 +240,14 @@ Les exploitants d’installations CCF peuvent participer à la réserve uniqueme
 
 <sup>4</sup> Les émissions de CO<sub>2</sub> générées lors de la production d’électricité destinée à la réserve complémentaire par les groupes électrogènes de secours ou les installations CCF avec lesquels les exploitants ne participent pas au système d’échange de quotas d’émission doivent être compensées intégralement via la remise d’attestations nationales ou internationales.
 
-<sup>5</sup> Les gestionnaires de réseau de distribution, les groupes-bilan et les fournisseurs d’électricité sont tenus, dans le cadre de leurs activités usuelles, de participer au déroulement d’un recours aux groupes électrogènes de secours ou aux installations CCF, en préparant et en fournissant notamment les données nécessaires.[^7-1]
+<sup>5</sup> Les gestionnaires de réseau de distribution, les groupes-bilan et les fournisseurs d’électricité sont tenus, dans le cadre de leurs activités usuelles, de participer au déroulement d’un recours aux groupes électrogènes de secours ou aux installations CCF, en préparant et en fournissant notamment les données nécessaires.[^7-3]
 
-<sup>6</sup> Si la mise à disposition des données entraîne pour eux des coûts supplémentaires non couverts qui sont élevés, ils peuvent les facturer aux agrégateurs. L’OFEN examine les coûts supplémentaires facturés et augmente le forfait pour prestations de l’agrégateur du même montant.[^7-2]
+<sup>6</sup> Si la mise à disposition des données entraîne pour eux des coûts supplémentaires non couverts qui sont élevés, ils peuvent les facturer aux agrégateurs. L’OFEN examine les coûts supplémentaires facturés et augmente le forfait pour prestations de l’agrégateur du même montant.[^7-4]
 
-[^7-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
-[^7-2]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
+[^7-2]: Abrogé par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
+[^7-3]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^7-4]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 
 #### Art. 8
 
@@ -336,7 +337,7 @@ L’OFEN peut, en accord avec l’ElCom, fixer d’autres exigences techniques g
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^11-2]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^11-3]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^11-3]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^11-4]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 12
@@ -369,7 +370,12 @@ L’OFEN peut fixer un tarif fondé sur les coûts dans les cas où les tarifs p
 
 **Contrat avec des agrégateurs et des exploitants de groupes électrogènes de secours ou d’installations CCF**
 
-<sup>1</sup> La société nationale du réseau de transport conclut avec chaque agrégateur un contrat définissant les modalités d’une mise à disposition groupée de groupes électrogènes de secours ou d’installations CCF pour la réserve complémentaire. Pour les installations CCF présentant une puissance égale ou supérieure à 5 MW, elle conclut directement un contrat avec les exploitants concernés pour autant que ces installations remplissent les exigences techniques de la société nationale du réseau de transport.[^15-1]
+<sup>1</sup>
+
+La société nationale du réseau de transport conclut avec les acteurs suivants un contrat définissant les modalités d’une mise à disposition de groupes électrogènes de secours ou d’installations CCF pour la réserve complémentaire:
+
+- a. avec chaque agrégateur pour les groupes électrogènes de secours ou les installations CCF dont la puissance est inférieure à 30 MW;
+- b. avec chaque exploitant pour les groupes électrogènes de secours ou les installations CCF dont la puissance est égale ou supérieure à 30 MW.[^15-1]
 
 <sup>2</sup> Les agrégateurs reçoivent un forfait pour prestations composé d’une contribution unique pour le regroupement et d’un forfait par installation et par hiver. Le forfait comprend également les coûts supplémentaires non couverts visés à l’art. 7, al. 6.[^15-2]
 
@@ -381,7 +387,7 @@ L’OFEN peut fixer un tarif fondé sur les coûts dans les cas où les tarifs p
 
 <sup>6</sup> Si le DETEC oblige un agrégateur ou un exploitant à participer à la réserve complémentaire, la teneur uniforme du contrat portant sur la participation fait partie intégrante des obligations lui incombant.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 
 #### Art. 16
@@ -402,7 +408,7 @@ Sous réserve de prescriptions dérogatoires fondées sur la LAP[^16-2], une uti
 <sup>4</sup> L’OFEN peut, par analogie à l’art. 11, al. 3, fixer des exigences techniques générales pour l’exploitation des installations.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^16-2]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^16-2]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^16-4]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^16-5]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
@@ -494,8 +500,8 @@ Pour les centrales de réserve, l’indemnisation couvre:
 <sup>6</sup> La taxe sur le CO<sub>2</sub> n’est remboursée que dans la mesure où l’exploitant ne peut pas faire valoir de droit au remboursement en vertu de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^20-2]. La même règle s’applique à l’impôt sur les huiles minérales régi par la loi du 21 juin 1996 sur l’imposition des huiles minérales[^20-3].
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^20-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^20-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^20-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^20-3]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 21
 
@@ -560,7 +566,7 @@ Le financement des coûts visés à l’al. 1 est effectué:[^22-5]
 [^22-9]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 [^22-10]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 [^22-11]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^22-12]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^22-12]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 [^22-13]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^22-14]: Introduit par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
@@ -614,7 +620,7 @@ Le financement des coûts visés à l’al. 1 est effectué:[^22-5]
 
 <sup>5</sup> S’il est à prévoir que la réserve hydroélectrique ne sera plus nécessaire durant la période pour laquelle elle a été constituée, l’ElCom ordonne sa dissolution anticipée.
 
-[^25-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^25-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 26
 
@@ -653,6 +659,10 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 <sup>2</sup> Elle a effet jusqu’au 31 décembre 2026, sous réserve de l’al. 3.
 
 <sup>3</sup> Les art. 4, 9 et 14, al. 3, ont effet jusqu’au 31 mai 2024.
+
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2030.[^30-1]
+
+[^30-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 Annexe
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Januar 2023 über die Errichtung einer Stromreserve f
 short: WResV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/43"
 language: de
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2023-01-25
 in_force: 2023-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2023-43-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2023-43-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/43/20250101/de"
 
 (Winterreserveverordnung, WResV)
 
-vom 25. Januar 2023 (Stand am 1. Januar 2025)
+vom 25. Januar 2023 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 8*a* Absatz 7, 9 und 30 Absatz 2 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-1] (StromVG),[^ingress-2]
+gestützt auf die Artikel 8*b* Absatz 7, 9 Absatz 2 und 30 Absatz 2 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-1] (StromVG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^ingress-1]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 ## 1. Abschnitt: Zweck und Gegenstand
 
@@ -144,9 +144,10 @@ Die Vereinbarung muss mindestens enthalten:
 
 <sup>4</sup> Ändern sich die Vorhaltemenge oder der Zeitraum der Vorhaltung, so können mehrjährige Vereinbarungen geändert oder vorzeitig aufgelöst werden.
 
-<sup>5</sup> Beruht die Teilnahme auf einer Verfügung der ElCom (Art. 3 Abs. 5), so wird der einheitliche Vereinbarungsinhalt zum Bestandteil der Verpflichtung.
+<sup>5</sup> Beruht die Teilnahme auf einer Verfügung der ElCom (Art. 3*a* Abs. 5), so wird der einheitliche Vereinbarungsinhalt zum Bestandteil der Verpflichtung.[^5-2]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 #### Art. 5a
 
@@ -157,17 +158,19 @@ Die Vereinbarung muss mindestens enthalten:
 Die Reserveteilnehmer erhalten:
 
 - a. für die Energievorhaltung: eine Pauschalabgeltung;
-- b. für eine allfällige, zusätzlich angeordnete Leistungsvorhaltung (Art. 3 Abs. 4): eine moderate Vergütung.
+- b.[^5a-2] für eine allfällige, zusätzlich angeordnete Leistungsvorhaltung (Art. 3*a* Abs. 4): eine moderate Vergütung.
 
 <sup>2</sup> Die ElCom berechnet und publiziert jährlich den Ansatz für die Pauschalabgeltung je vorgehaltene GWh Energie. Als Basiswert für den Ansatz dient die gemittelte Preisdifferenz zwischen dem ersten und zweiten Quartal des Jahres, in dem der Zeitraum für die Vorhaltung endet. Der Basiswert wird mit dem Faktor 1,3 multipliziert.
 
 <sup>3</sup> Als Datengrundlage für den Basiswert verwendet sie die publizierten Abrechnungspreise der Base-Quartalsverträge am Terminmarkt Schweiz im Zeitraum von 30 Kalendertagen vor der Veröffentlichung der Eckwerte. Sind für das Berechnungsjahr nicht ausreichend Abrechnungspreise publiziert, so wendet die ElCom eine geeignete alternative Methodik an. Dafür kann sie insbesondere einen anderen Zeitraum, historische Preisinformationen oder Daten der Terminmärkte der Nachbarländer heranziehen.
 
-<sup>4</sup> Bei einer Erhöhung der Vorhaltemenge (Art. 3 Abs. 3) wird die Pauschalabgeltung auf die gleiche Weise bestimmt. Zur Bestimmung des Basiswerts für die zusätzliche Vorhaltung wird der Zeitraum von 30 Kalendertagen vor Bekanntgabe der angepassten Eckwerte verwendet.
+<sup>4</sup> Bei einer Erhöhung der Vorhaltemenge (Art. 3*a* Abs. 3) wird die Pauschalabgeltung auf die gleiche Weise bestimmt. Zur Bestimmung des Basiswerts für die zusätzliche Vorhaltung wird der Zeitraum von 30 Kalendertagen vor Bekanntgabe der angepassten Eckwerte verwendet.[^5a-3]
 
 <sup>5</sup> Die ElCom bestimmt für die zusätzlich angeordneten Leistungsvorhaltungen situationsbezogen die Höhe der Vergütung. Sie trägt dabei der konkreten Ausnahmesituation Rechnung.
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^5a-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
+[^5a-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 #### Art. 5b
 
@@ -214,22 +217,18 @@ Das UVEK kann in Absprache mit der ElCom:
 - b. festlegen, in welcher Priorität und in welchem Umfang Anlagen nach Absatz 2 in die ergänzende Reserve aufzunehmen sind;
 - c.[^6-1] die Netzgesellschaft anweisen, Ausschreibungen für Notstromgruppen und WKK-Anlagen durchzuführen (Art. 14 Abs. 2).
 
-<sup>4</sup> Die Teilnahme an der ergänzenden Reserve dauert bis längstens am 31. Mai 2026. Vorbehalten bleibt eine allfällig längere Teilnahme aufgrund einer Nachfolgeregelung zu dieser Verordnung.
+<sup>4</sup> Die Teilnahme an der ergänzenden Reserve dauert bis am 31. Mai 2030.[^6-2]
 
 [^6-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 #### Art. 7
 
 **Teilnahme von Betreibern von Notstromgruppen und von WKK-Anlagen an der ergänzenden Reserve**
 
-<sup>1</sup> Die Betreiber von Notstromgruppen sowie die Betreiber von WKK-Anlagen mit einer Leistung von weniger als 5 MW können nur über einen Aggregator an der Reserve teilnehmen, der die Anlagen bündelt.
+<sup>1</sup> Die Betreiber von Notstromgruppen sowie die Betreiber von WKK-Anlagen mit einer Leistung von weniger als 30 MW können nur über einen Aggregator an der Reserve teilnehmen, der die Anlagen bündelt.[^7-1]
 
-<sup>2</sup>
-
-Die Betreiber von Notstromgruppen können bis zum 30. April 2023 an der ergänzenden Reserve teilnehmen, wenn die Anlagen im Inselbetrieb laufen und nicht ins Netz einspeisen. Voraussetzung für eine Teilnahme ist, dass:
-
-- a. der Netzzugang aus technischen Gründen, die nicht kurzfristig behebbar sind, aufgrund von Artikel 13 Absatz 2 StromVG verweigert wird; und
-- b. die Anlage nur bei einem Reserveabruf oder bei einem Netzausfall in den Inselbetrieb umgeschaltet wird und nach Fahrplan betreibbar ist.
+<sup>2</sup> …[^7-2]
 
 <sup>3</sup>
 
@@ -241,12 +240,14 @@ Die Betreiber von WKK-Anlagen können nur an der Reserve teilnehmen, wenn sie f�
 
 <sup>4</sup> CO<sub>2</sub>-Emissionen, die durch die Stromproduktion für die ergänzende Reserve mittels Notstromgruppen und WKK-Anlagen verursacht werden, mit denen die Betreiber nicht am Emissionshandel teilnehmen, müssen durch die Abgabe von nationalen oder internationalen Bescheinigungen vollumfänglich kompensiert werden.
 
-<sup>5</sup> Verteilnetzbetreiber, Bilanzgruppen und Stromlieferanten sind verpflichtet, an der Abwicklung eines Abrufs von Notstromgruppen oder WKK-Anlagen im Rahmen ihrer üblichen Tätigkeiten, namentlich durch die Aufbereitung und die Bereitstellung der erforderlichen Daten, mitzuwirken.[^7-1]
+<sup>5</sup> Verteilnetzbetreiber, Bilanzgruppen und Stromlieferanten sind verpflichtet, an der Abwicklung eines Abrufs von Notstromgruppen oder WKK-Anlagen im Rahmen ihrer üblichen Tätigkeiten, namentlich durch die Aufbereitung und die Bereitstellung der erforderlichen Daten, mitzuwirken.[^7-3]
 
-<sup>6</sup> Entstehen ihnen aus der Bereitstellung der Daten unverhältnismässig hohe ungedeckte Mehrkosten, so können sie diese dem Aggregator in Rechnung stellen. Das BFE prüft die Anspruchsberechtigung und erhöht gegebenenfalls die Dienstleistungspauschale des Aggregators um denselben Betrag.[^7-2]
+<sup>6</sup> Entstehen ihnen aus der Bereitstellung der Daten unverhältnismässig hohe ungedeckte Mehrkosten, so können sie diese dem Aggregator in Rechnung stellen. Das BFE prüft die Anspruchsberechtigung und erhöht gegebenenfalls die Dienstleistungspauschale des Aggregators um denselben Betrag.[^7-4]
 
-[^7-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
-[^7-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
+[^7-2]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
+[^7-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^7-4]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 
 #### Art. 8
 
@@ -336,7 +337,7 @@ Das BFE kann in Absprache mit der ElCom weitere allgemeine technische Betriebsan
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^11-2]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^11-3]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^11-3]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^11-4]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
 #### Art. 12
@@ -369,7 +370,12 @@ Das BFE kann im Falle von unangemessenen Tarifen für die Nutzung der Rohrleitun
 
 **Vereinbarung mit Aggregatoren und Betreibern von Notstromgruppen und WKK-Anlagen**
 
-<sup>1</sup> Die Netzgesellschaft schliesst mit jedem Aggregator eine Vereinbarung darüber ab, wie die Notstromgruppen und die WKK-Anlagen gebündelt für die ergänzende Reserve zur Verfügung gestellt werden. Bei WKK-Anlagen ab 5 MW schliesst die Netzgesellschaft direkt mit den Betreibern eine Vereinbarung ab, sofern diese die technischen Anforderungen der Netzgesellschaft erfüllen.[^15-1]
+<sup>1</sup>
+
+Die Netzgesellschaft schliesst mit den folgenden Akteuren eine Vereinbarung darüber ab, wie die Notstromgruppen und die WKK-Anlagen für die ergänzende Reserve zur Verfügung gestellt werden:
+
+- a. bei Notstromgruppen sowie bei WKK-Anlagen mit einer Leistung von weniger als 30 MW: mit den einzelnen Aggregatoren;
+- b. bei WKK-Anlagen mit einer Leistung ab 30 MW: mit den einzelnen Betreibern.[^15-1]
 
 <sup>2</sup> Die Aggregatoren erhalten eine Dienstleistungspauschale, die sich aus einem einmaligen Aggregationsbeitrag und einer Pauschale pro Anlage und Winter zusammensetzt. In der Pauschale enthalten sind auch die ungedeckten Mehrkosten nach Artikel 7 Absatz 6.[^15-2]
 
@@ -381,7 +387,7 @@ Das BFE kann im Falle von unangemessenen Tarifen für die Nutzung der Rohrleitun
 
 <sup>6</sup> Verpflichtet das UVEK einen Aggregator oder einen Betreiber zur Teilnahme an der ergänzenden Reserve, so wird der einheitliche Vereinbarungsinhalt zum Bestandteil der Verpflichtung.
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 [^15-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 
 #### Art. 16
@@ -402,7 +408,7 @@ Ein Einsatz durch die Betreiber während der Verfügbarkeitsperiode ausserhalb d
 <sup>4</sup> Das BFE kann analog zu Artikel 11 Absatz 3 allgemeine technische Betriebsanforderungen für die Anlagen festlegen.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^16-2]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^16-2]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^16-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^16-4]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^16-5]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
@@ -494,8 +500,8 @@ Bei den Reservekraftwerken werden mit der Abrufentschädigung vergütet:
 <sup>6</sup> Die CO<sub>2</sub>-Abgabe wird nur soweit vergütet, als der Betreiber keinen Rückerstattungsanspruch nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^20-2] geltend machen kann. Gleiches gilt für die Mineralölsteuer nach dem Mineralölsteuergesetz vom 21. Juni 1996[^20-3].
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^20-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^20-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^20-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^20-3]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 21
 
@@ -560,7 +566,7 @@ Die Finanzierung der Kosten nach Absatz 1 erfolgt:[^22-5]
 [^22-9]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 [^22-10]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 693](https://fedlex.data.admin.ch/eli/oc/2024/693)).
 [^22-11]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
-[^22-12]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^22-12]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 [^22-13]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 [^22-14]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 834](https://fedlex.data.admin.ch/eli/oc/2023/834)).
 
@@ -614,7 +620,7 @@ Die Finanzierung der Kosten nach Absatz 1 erfolgt:[^22-5]
 
 <sup>5</sup> Ist absehbar, dass die Wasserkraftreserve im Zeitraum, für den sie gebildet wurde, nicht mehr benötigt wird, so ordnet die ElCom deren vorzeitige Auflösung an.
 
-[^25-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^25-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 26
 
@@ -653,6 +659,10 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 <sup>2</sup> Sie gilt unter Vorbehalt von Absatz 3 bis zum 31. Dezember 2026.
 
 <sup>3</sup> Die Artikel 4, 9 und 14 Absatz 3 gelten bis zum 31. Mai 2024.
+
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2030 verlängert.[^30-1]
+
+[^30-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 677](https://fedlex.data.admin.ch/eli/oc/2025/677)).
 
 Anhang
 
