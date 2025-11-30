@@ -3,18 +3,18 @@ sr: "933.011.3"
 title: "Ordonnance de l'OFCL du 10 septembre 2014 sur la désignation d'actes d'exécution et d'actes délégués européens concernant les produits de construction"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/510"
 language: fr
-version: 2024-09-15
+version: 2025-12-01
 adopted: 2014-09-10
 in_force: 2014-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/510/20240915/fr/xml/fedlex-data-admin-ch-eli-cc-2014-510-20240915-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/510/20240915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/510/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2014-510-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/510/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFCL sur la désignation d’actes d’exécution et d’actes délégués européens concernant les produits de construction
 
-du 10 septembre 2014 (État le 15 septembre 2024)
+du 10 septembre 2014 (État le 1<sup>er</sup> décembre 2025)
 
 L’Office fédéral des constructions et de la logistique (OFCL), après avoir consulté le Secrétariat d’État à l’économie et la Commission fédérale des produits de construction,
 
@@ -22,7 +22,7 @@ vu les art. 2, al. 1, 3, 4, al. 2, 9, al. 4, et 20, al. 2 et 3, de l’ordonnanc
 
 arrête:
 
-[^ingress-1]: [RS 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)
+[^ingress-1]: [RS 933.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11044)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFCL du 24 nov. 2014, en vigueur depuis le 15 déc. 2014 ([RO 2014 4233](https://fedlex.data.admin.ch/eli/oc/2014/706)).
 
 #### Art. 1
@@ -32,7 +32,7 @@ arrête:
 Les actes de l’Union européenne mentionnés dans les annexes 1 et 2 sont applicables en tant que prescriptions techniques servant à l’exécution de la loi fédérale du 21 mars 2014 sur les produits de construction (LPCo)[^1-2] et de l’OPCo.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCL du 24 nov. 2014, en vigueur depuis le 15 déc. 2014 ([RO 2014 4233](https://fedlex.data.admin.ch/eli/oc/2014/706)).
-[^1-2]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^1-2]: [RS 933.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11043)
 
 #### Art. 2
 
@@ -49,8 +49,8 @@ Annexe 1[^t-1]
 Les actes d’exécution applicables dans l’Union européenne (UE) en vertu de l’art. 65, par. 2, du règlement (UE) n<sup>o</sup> 305/2011[^annex1-lvlu1-1] sont mentionnés en tant qu’actes de l’UE dans l’annexe I, chap. 16, section I, de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^annex1-lvlu1-2]. Tant que ces actes d’exécution sont valables dans l’UE, ils constituent des dispositions d’exécution au sens de l’art. 35, al. 3, LPCo[^annex1-lvlu1-3].
 
 [^annex1-lvlu1-1]: R (UE) n<sup>o</sup> 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant des conditions harmonisées de commercialisation pour les produits de construction et abrogeant la directive 89/106/CEE du Conseil, JO L 88 du 4.4.2011, p. 5.
-[^annex1-lvlu1-2]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^annex1-lvlu1-3]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^annex1-lvlu1-2]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^annex1-lvlu1-3]: [RS 933.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11043)
 
 Annexe 2[^t-2]
 
@@ -58,19 +58,20 @@ Annexe 2[^t-2]
 
 ## Actes d’exécution et actes délégués de l’Union européenne fondés sur le règlement (UE) n<sup>o</sup> 305/2011
 
-[^t-2]: Anciennement annexe. Nouvelle teneur selon le ch. I de l’O de l’OFCL du 8 août 2024, en vigueur depuis le 15 sept. 2024 ([RO 2024 412](https://fedlex.data.admin.ch/eli/oc/2024/412)).
+[^t-2]: Anciennement annexe. Nouvelle teneur selon le ch. I de l’O de l’OFCL du 31 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 700](https://fedlex.data.admin.ch/eli/oc/2025/700)).
 
 Les actes suivants constituent des dispositions d’exécution au sens de l’art. 35, al. 3, LPCo[^annex2-lvlu1-1].
 
 <table>
 <tr><th>Catégorie</th><th>Acte de l’Union européenne</th></tr>
-<tr><td>Classes de performance pour les caractéristiques essentielles des produits de construction (art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2024/1681 de la Commission du 6 mars 2024 complétant le règlement (UE) n<sup>o</sup> 305/2011 du Parlement européen et du Conseil en établissant des classes de performance relatives à la résistance au feu des produits de construction, version du JO L du 13.6.2024.</td></tr>
+<tr><td>Niveaux seuils et classes de performance pour les caractéristiques essentielles des produits de construction (art. 2, al. 1, let. a et b, et art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2025/695 de la Commission du 9 avril 2025 complétant le règlement (UE) nº 305/2011 du Parlement européen et du Conseil par l’établissement de niveaux seuils et de classes de performance pour les dispositifs d’ancrage et les systèmes d’ancrage avec crochet de sécurité fixés à demeure, version du JO L, 2025/695, 22.7.2025.</td></tr>
+<tr><td>Classes de performance pour les caractéristiques essentielles des produits de construction (art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2024/1681 de la Commission du 6 mars 2024 complétant le règlement (UE) n° 305/2011 du Parlement européen et du Conseil en établissant des classes de performance relatives à la résistance au feu des produits de construction, version du JO L, 2024/1681, 13.6.2024.</td></tr>
 <tr><td>Classes de performance pour les caractéristiques essentielles des produits de construction (art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2019/1342 de la Commission du 14 mars 2019 complétant le règlement (UE) n<sup>o</sup> 305/2011 du Parlement européen et du Conseil en établissant des classes de performance relatives à la perméabilité à l’air pour les lanterneaux en matière plastique et en verre et les écoutilles de toit, version du JO L 211 du 12.8.2019, p. 1.</td></tr>
 <tr><td>Classes de performance pour les caractéristiques essentielles des produits de construction (art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2019/1188 de la Commission du 14 mars 2019 complétant le règlement (UE) n<sup>o</sup> 305/2011 du Parlement européen et du Conseil en établissant des classes de performance relatives à la résistance à la charge du vent pour les stores et auvents extérieurs, version du JO L 187 du 12.7.2019, p. 11.</td></tr>
 <tr><td>Classes de performance pour les caractéristiques essentielles des produits de construction (art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2017/1475 de la Commission du 26 janvier 2017 relatif à la classification de la performance des tuiles en terre cuite relevant de la norme EN 1304 en ce qui concerne leur résistance au gel conformément au règlement (UE) n<sup>o</sup> 305/2011 du Parlement européen et du Conseil, version du JO L 211 du 17.8.2017, p. 1.</td></tr>
 <tr><td>Classes de performance pour les caractéristiques essentielles des produits de construction (art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2017/959 de la Commission du 24 février 2017 relatif à la classification des performances des produits d’isolation thermique formée en place à base de cellulose (LFCI) relevant de la norme EN 15101-1 en ce qui concerne leur tassement horizontal et leur absorption d’eau à court terme conformément au règlement (UE) n<sup>o</sup> 305/2011 du Parlement européen et du Conseil, version du JO L 145 du 8.6.2017, p. 1.</td></tr>
 <tr><td>Classes de performance pour les caractéristiques essentielles des produits de construction (art. 3, let. a, OPCo)</td><td>Règlement délégué (UE) 2016/364 de la Commission du 1<sup>er</sup> juillet 2015 relatif à la classification des caractéristiques de réaction au feu des produits de construction en vertu du règlement (UE) n<sup>o</sup> 305/2011 du Parlement européen et du Conseil, version du JO L 68 du 15.3.2016, p. 4.</td></tr>
-<tr><td>Conditions dans lesquelles un produit de construction est présumé atteindre un certain niveau ou une certaine classe de performance sans essais (art. 3, let. b, OPCo)</td><td>Règlement délégué (UE) 2024/1399 de la Commission du 10 novembre 2023 relatif aux conditions pour la classification, sans essais, des lambris et revêtements muraux extérieurs en bois massif en ce qui concerne leur réaction au feu et modifiant la décision 2006/213/CE, version du JO L du 22.5.2024.</td></tr>
+<tr><td>Conditions dans lesquelles un produit de construction est présumé atteindre un certain niveau ou une certaine classe de performance sans essais (art. 3, let. b, OPCo)</td><td>Règlement délégué (UE) 2024/1399 de la Commission du 10 novembre 2023 relatif aux conditions pour la classification, sans essais, des lambris et revêtements muraux extérieurs en bois massif en ce qui concerne leur réaction au feu et modifiant la décision 2006/213/CE, version du JO L, 2024/1399, 22.5.2024.</td></tr>
 <tr><td>Conditions dans lesquelles un produit de construction est présumé atteindre un certain niveau ou une certaine classe de performance sans essais (art. 3, let. b, OPCo)</td><td>Règlement délégué (UE) 2017/2293 de la Commission du 3 août 2017 énonçant les conditions de classification, sans essais, des produits en bois lamellé croisé relevant de la norme harmonisée EN 16351 et des produits en lamibois (LVL) relevant de la norme harmonisée EN 14374, en ce qui concerne leur réaction au feu, version du JO L 329 du 13.12. 2017, p. 1.</td></tr>
 <tr><td>Conditions dans lesquelles un produit de construction est présumé atteindre un certain niveau ou une certaine classe de performance sans essais (art. 3, let. b, OPCo)</td><td>Règlement délégué (UE) 2017/1228 de la Commission du 20 mars 2017 relatif aux conditions de classification, sans essais, des enduits extérieurs et intérieurs à base de liants organiques couverts par la norme harmonisée EN 15824 et des mortiers d’enduit couverts par la norme harmonisée EN 998-1 en ce qui concerne leur réaction au feu, version du JO L 177 du 8.7.2017, p. 4.</td></tr>
 <tr><td>Conditions dans lesquelles un produit de construction est présumé atteindre un certain niveau ou une certaine classe de performance sans essais (art. 3, let. b, OPCo)</td><td>Règlement délégué (UE) 2017/1227 de la Commission du 20 mars 2017 énonçant les conditions de classification, sans essais, des produits en bois lamellé-collé relevant de la norme harmonisée EN 14080 et des produits en bois massif de structure à entures multiples relevant de la norme harmonisée EN 15497 en ce qui concerne leur réaction au feu et modifiant la décision 2005/610/CE, version du JO L 177 du 8.7.2017, p. 1.</td></tr>
@@ -87,4 +88,4 @@ Les actes suivants constituent des dispositions d’exécution au sens de l’ar
 <tr><td>Format des évaluations techniques européennes (art. 20, al. 2, OPCo)</td><td>Règlement d’exécution (UE) n<sup>o</sup> 1062/2013 de la Commission du 30 octobre 2013 relatif au format de l’évaluation technique européenne pour les produits de construction, version du JO L 289 du 31.10.2013, p. 42.</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
+[^annex2-lvlu1-1]: [RS 933.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11043)
