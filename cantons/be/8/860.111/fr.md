@@ -4,13 +4,13 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2025-01-01
-valid_until: 2025-11-30
-version_adopted: 2025-01-10
+version: 2025-12-01
+valid_until: 2025-12-31
+version_adopted: 2025-10-22
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3156/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3251/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,16 +19,19 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3156/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.01.2025)
+du 24.10.2001 (état au 01.12.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 13, lettre d, l’article 18, alinéa 2, l’article 20, alinéa 3, l’article 31, alinéa 1, l’article 47, alinéa 3, l’article 48, alinéa 3, l’article 74, alinéa 3, l’article 75, alinéa 3, l’article 76, alinéa 3, l’article 77b, alinéa 3, l’article 77e alinéa 4, l’article 77f, alinéa 4, l’article 79, alinéa 2, l’article 80, alinéas 2 et 3, les articles 83 et 84, l’article 87, alinéas 3 et 4 de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^ingress-1], ainsi que l’article 35, alinéa 2 de la loi fédérale du 24 juin 1977 sur la compétence en matière d’assistance des personnes dans le besoin (loi fédérale en matière d’assistance, LAS)[^ingress-2], sur proposition de la Direction de la santé publique et de la prévoyance sociale,
+vu l’article 13, alinéa 1, lettre d, l’article 18, alinéa 2, l’article 20, alinéa 3, l’article 31, alinéa 1, l’article 47, alinéa 3, l’article 48, alinéa 3, l’article 57k, alinéa 1, l’article 79, alinéa 2, les articles 83 et 84 ainsi que l’article 87, alinéas 3 et 4 de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^ingress-1], l’article 119, alinéa 2 de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^ingress-2] ainsi que l’article 35, alinéa 2 de la loi fédérale du 24 juin 1977 sur la compétence en matière d’assistance des personnes dans le besoin (loi fédérale en matière d’assistance, LAS)[^ingress-3],
+
+sur proposition de la Direction de la santé, des affaires sociales et de l'intégration,
 
 arrête:
 
-[^ingress-1]: RSB 860.1
-[^ingress-2]: RS 851.1
+[^ingress-1]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
+[^ingress-2]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
+[^ingress-3]: RS [851.1](https://db.clex.ch/link/Bund/851.1/fr)
 
 ## 1 Organisation et compétences (art. 11 à 21 LASoc)
 
@@ -751,6 +754,83 @@ arrête:
 
 <sup>2</sup> Le rapport contient des indications sur le nombre d’enquêtes, leurs conclusions, leur durée et leurs coûts ainsi que sur les sanctions prononcées et précise le cas échéant les noms des tiers mandatés pour les réaliser.
 
+## 2a Système de gestion des cas
+
+#### Art. 23e
+
+**Définition et obligation**
+
+<sup>1</sup> L’OIAS définit le système de gestion des cas à utiliser par les organismes responsables des services sociaux et le met à disposition.
+
+<sup>2</sup> Les organismes responsables des services sociaux sont tenus d’utiliser le système de gestion des cas visé à l’alinéa 1.
+
+#### Art. 23f
+
+**Responsabilité**
+
+<sup>1</sup> L’OIAS est l’autorité responsable prévue par l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^23f-1] pour le système de gestion des cas visé à l’article 23e, alinéa 1.
+
+[^23f-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+
+#### Art. 23g
+
+**Structure d’exploitation**
+
+<sup>1</sup> En concertation avec la Direction de l’intérieur et de la justice (DIJ) et les communes, la DSSI met en place une structure pour assurer l’exploitation, la maintenance, l'assistance technique et le développement du système de gestion des cas visé à l’article 23e, alinéa 1.
+
+<sup>2</sup> La structure d’exploitation comprend en particulier
+
+- a un organe de conduite composé de représentantes et de représentants du canton et des communes,
+- b une ou un responsable de produit,
+- c une ou un gestionnaire des services,
+- d le fournisseur du logiciel,
+- e l’exploitant.
+
+<sup>3</sup> L’organe de conduite peut faire appel à d'autres équipes ou personnes spécialisées pour assurer l’exploitation.
+
+#### Art. 23h
+
+**Frais d’exploitation**
+
+<sup>1</sup> Les frais d’exploitation du système de gestion des cas visé à l’article 23e, alinéa 1 se composent des éléments suivants:
+
+- a frais d’exploitation de l’exploitant;
+- b frais de maintenance et d’assistance des fournisseurs;
+- c frais induits par l’adaptation du concept de sûreté de l’information et de protection des données (concept SIPD) en cas de changements majeurs et par les mesures de protection requises;
+- d charges de personnel de la structure d’exploitation, calculées sur la base d’un tarif horaire de 100 francs;
+- e frais de traduction visant à assurer l'utilisation du système dans les deux langues officielles;
+- f charges de personnel de l’assistance de première ligne.
+
+<sup>2</sup> La DSSI rembourse aux organismes responsables des services sociaux les charges de personnel selon l’alinéa 1, lettre d qui leur incombent.
+
+#### Art. 23i
+
+**Financement des frais d’exploitation**
+
+<sup>1</sup> Les frais d’exploitation définis à l’article 23h, alinéa 1, lettres a à e sont financés à 64,5 pour cent par la DSSI et à 35,5 pour cent par la DIJ.
+
+<sup>2</sup> Si le système de gestion des cas visé à l’article 23e, alinéa 1 est utilisé par des tiers contre rétribution, le montant de ces paiements est déduit des frais d’exploitation définis à l’article 23h, alinéa 1, lettres a à d.
+
+<sup>3</sup> Les charges de personnel visées à l’article 23h, alinéa 1, lettre f sont assumées par chaque organisation utilisatrice.
+
+#### Art. 23k
+
+**Frais de développement**
+
+<sup>1</sup> Les frais de développement du système de gestion des cas visé à l’article 23e, alinéa 1 sont financés, conformément au principe de causalité, par
+
+- a la DSSI, lorsque le développement s’applique à l’ensemble du canton et sert à l’exécution de la LASoc, de mesures de protection de l’enfant décidées d’un commun accord selon la loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^23k-1], de la loi du 6 février 1980 sur l’aide au recouvrement et les avances de contributions d’entretien[^23k-2] ou de programmes d’insertion professionnelle ou sociale selon la LPASoc;
+- b la DIJ, lorsque le développement s’applique à l’ensemble du canton et sert à l’exécution du Code civil suisse (CC)[^23k-3], de la loi fédérale du 17 décembre 2004 sur les conditions et la procédure régissant la stérilisation de personnes (loi sur la stérilisation)[^23k-4], de la loi du 1<sup>er</sup> février 2012 sur la protection de l’enfant et de l’adulte (LPEA)[^23k-5] ou, exception faite des mesures de protection de l’enfant décidées d’un commun accord, de la LPEP;
+- c les organisations utilisatrices concernées pour d’autres développements.
+
+<sup>2</sup> Les développements qui servent à l’ensemble des domaines mentionnés à l’alinéa 1 sont assumés à 64,5 pour cent par la DSSI et à 35,5 pour cent par la DIJ.
+
+[^23k-1]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
+[^23k-2]: RSB [213.22](https://www.belex.sites.be.ch/data/213.22/fr)
+[^23k-3]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^23k-4]: RS [211.111.1](https://db.clex.ch/link/Bund/211.111.1/fr)
+[^23k-5]: RSB [213.316](https://www.belex.sites.be.ch/data/213.316/fr)
+
 ## 3
 
 ### 3.1
@@ -819,6 +899,16 @@ arrête:
 **3 Montant admis à la compensation des charges**
 
 <sup>1</sup> L’OIAS porte à la compensation des charges les dépenses engagées au sens des articles 32a et 32b ainsi que les rémunérations versées aux tiers mandatés pour effectuer des inspections sociales.
+
+#### Art. 32d
+
+**Dépenses imputables engagées pour le système de gestion des cas**
+
+<sup>1</sup> Sont admises à la compensation des charges du secteur social les dépenses suivantes engagées pour le système de gestion des cas visé à l’article 23e, alinéa 1:
+
+- a les frais financés par la DSSI selon l’article 23i, alinéa 1;
+- b les frais définis à l’article 23k, alinéa 1, lettre a;
+- c les frais assumés par la DSSI selon l’article 23k, alinéa 2.
 
 ### 4.2 Charges des communes
 
@@ -893,9 +983,7 @@ arrête:
 
 <sup>4</sup> Les personnes en placement résidentiel sont considérées comme une unité d'assistance propre.
 
-<sup>5</sup> Est aussi considérée comme un cas au sens de l’alinéa 1 la situation dans laquelle des prestations résidentielles ou ambulatoires conformément à l’article 2, alinéa 1 de la loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^34d-1] sont attribuées sans qu’il n’existe encore d’unité d’assistance selon les alinéas 3 ou 4, lorsque la prestation donne lieu à un préfinancement de la part du service compétent de la DIJ et que les coûts ne sont pas intégralement pris en charge par les personnes tenues de participer à ceux-ci conformément aux articles 34 et 35 LPEP.
-
-[^34d-1]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
+<sup>5</sup> Est aussi considérée comme un cas au sens de l’alinéa 1 la situation dans laquelle des prestations résidentielles ou ambulatoires conformément à l’article 2, alinéa 1 LPEP sont attribuées sans qu’il n’existe encore d’unité d’assistance selon les alinéas 3 ou 4, lorsque la prestation donne lieu à un préfinancement de la part du service compétent de la DIJ et que les coûts ne sont pas intégralement pris en charge par les personnes tenues de participer à ceux-ci conformément aux articles 34 et 35 LPEP.
 
 #### Art. 34e
 
@@ -1150,6 +1238,54 @@ arrête:
 <sup>2</sup> L’alinéa 1 s’applique par analogie aux partenaires régionaux qui octroient des forfaits pour l’entretien selon la présente ordonnance en vertu de l’article 27, alinéa 2 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^T91-1].
 
 [^T91-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
+
+## T10 Dispositions transitoires de la modification du 22.10.2025
+
+#### Art. T10-1
+
+**Obligation d’utiliser le système de gestion des cas défini**
+
+<sup>1</sup> Les organismes responsables des services sociaux doivent utiliser le système de gestion des cas défini selon l’article 23e, alinéa 1 au plus tard dès la fin de la phase d’introduction prévue à l’article T10-2, alinéa 1, sous réserve de l’article T10-3.
+
+<sup>2</sup> Si l’organisme responsable d’un service social n’est pas en mesure d’introduire dans le délai prévu à l’alinéa 1 le système de gestion des cas défini selon l’article 23e, alinéa 1, et ce bien qu’il ait entrepris à temps les travaux préparatoires requis, il ne doit pas cofinancer ce système dans le cadre de la compensation des charges avant d’avoir pu l’introduire.
+
+<sup>3</sup> La participation du canton prévue à l’article T10-2, alinéa 3 est maintenue dans les cas visés à l’alinéa 2.
+
+#### Art. T10-2
+
+**Introduction du système de gestion des cas défini**
+
+<sup>1</sup> La phase d’introduction du système de gestion des cas défini selon l’article 23e, alinéa 1 commence le 1<sup>er</sup> janvier 2026 et se termine à la fin de l’année pendant laquelle au moins 15 services sociaux ont utilisé le système de gestion des cas depuis trois ans au minimum.
+
+<sup>2</sup> L’OIAS propose aux organismes responsables des services sociaux plusieurs périodes et dates de migration, pour lesquelles ils doivent s’inscrire, et planifie les migrations sur cette base.
+
+<sup>3</sup> Pendant la phase d’introduction, les organismes responsables des services sociaux assument les frais d’apurement et de préparation des données occasionnés dans le cadre de la migration, déduction faite d’une participation du canton de 1,8 million de francs répartie selon la clé en vigueur dans la compensation des charges du secteur social; les autres frais d’exploitation et d’introduction sont assumés par le canton pendant la phase d’introduction.
+
+#### Art. T10-3
+
+**Demande d’introduction ultérieure du système de gestion des cas défini**
+
+<sup>1</sup> Si l’organisme responsable d’un service social a procédé, entre le 1<sup>er</sup> janvier 2019 et le 31 décembre 2023, à des investissements attestés de plus d’un million de francs pour son propre système de gestion des cas, il peut demander à l’OIAS, d’ici le 30 juin 2026 au plus tard, de reporter le délai d’introduction du système de gestion des cas défini selon l’article 23e, alinéa 1, ce dernier devant toutefois être utilisé au plus tard deux ans après la fin de la phase d’introduction prévue à l’article T10-2, alinéa 1.
+
+<sup>2</sup> Si une demande d’introduction ultérieure selon l’alinéa 1 est acceptée, l’organisme responsable du service social doit
+
+- a livrer à ses frais à l’OIAS ou mettre à sa disposition au plus tard à partir du premier jour suivant la fin de la phase d’introduction prévue à l’article T10-2, alinéa 1 toutes les données requises, via des interfaces;
+- b assumer lui-même les frais d’exploitation de son propre système de gestion des cas ainsi que les coûts occasionnés par l’introduction ultérieure du système de gestion des cas défini selon l’article 23e, alinéa 1 et
+- c cofinancer dans le cadre de la compensation des charges le système de gestion des cas défini selon l’article 23e, alinéa 1 à partir du premier jour suivant la fin de la phase d’introduction prévue à l’article T10-2, alinéa 1.
+
+#### Art. T10-4
+
+**Application des articles 23h, 23i, 23k et 32d**
+
+<sup>1</sup> Les articles 23h, 23i, 23k et 32d sont applicables à partir du premier jour suivant la fin de la phase d’introduction prévue à l’article T10-2, alinéa 1.
+
+#### Art. T10-5
+
+**Compensation du transfert de charges**
+
+<sup>1</sup> Le transfert de charges d’un million de francs par an entre les communes et le canton résultant de la définition d’un système de gestion des cas et du financement des dépenses imputables par le biais de la compensation des charges du secteur social en vertu de l’article 79, alinéa 1, lettre f LASoc est admis à la compensation des charges conformément à la nouvelle répartition des tâches selon l’article 29b de la loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^T105-1] à partir du premier jour suivant la fin de la phase d’introduction prévue à l’article T10-2, alinéa 1.
+
+[^T105-1]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
 
 Berne, le 24 octobre 2001
 

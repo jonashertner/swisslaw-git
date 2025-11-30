@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2025-01-01
-valid_until: 2025-11-30
-version_adopted: 2025-01-10
+version: 2025-12-01
+valid_until: 2025-12-31
+version_adopted: 2025-10-22
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3156/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3251/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +19,19 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3156/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.01.2025)
+vom 24.10.2001 (Stand 01.12.2025)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 13 Buchstabe d, Artikel 18 Absatz 2, Artikel 20 Absatz 3, Artikel 31 Absatz 1, Artikel 47 Absatz 3, Artikel 48 Absatz 3, Artikel 74 Absatz 3, Artikel 75 Absatz 3, Artikel 76 Absatz 3, Artikel 77b Absatz 3, Artikel 77e Absatz 4, Artikel 77f Absatz 4, Artikel 79 Absatz 2, Artikel 80 Absätze 2 und 3, Artikel 83 und 84 sowie Artikel 87 Absätze 3 und 4 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^ingress-1] und Artikel 35 Absatz 2 des Bundesgesetzes vom 24. Juni 1977 über die Zuständigkeit für die Unterstützung Bedürftiger (Zuständigkeitsgesetz, ZUG)[^ingress-2],
+gestützt auf Artikel 13 Absatz 1 Buchstabe d, Artikel 18 Absatz 2, Artikel 20 Absatz 3, Artikel 31 Absatz 1, Artikel 47 Absatz 3, Artikel 48 Absatz 3, Artikel 57k Absatz 1, Artikel 79 Absatz 2, Artikel 83 und 84 sowie Artikel 87 Absätze 3 und 4 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^ingress-1], Artikel 119 Absatz 2 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^ingress-2] und Artikel 35 Absatz 2 des Bundesgesetzes vom 24. Juni 1977 über die Zuständigkeit für die Unterstützung Bedürftiger (Zuständigkeitsgesetz, ZUG)[^ingress-3],
 
-auf Antrag der Gesundheits- und Fürsorgedirektion,
+auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 860.1
-[^ingress-2]: SR 851.1
+[^ingress-1]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
+[^ingress-2]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
+[^ingress-3]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
 
 ## 1 Organisation und Zuständigkeiten (Art. 11 bis 21 SHG)
 
@@ -757,6 +758,83 @@ beschliesst:
 
 <sup>2</sup> Der Bericht enthält Angaben über die Anzahl der Sozialinspektionen, die Ergebnisse, die Sanktionen, die Dauer und Kosten der Abklärungen sowie gegebenenfalls die Namen der vom Sozialdienst beauftragten Dritten.
 
+## 2a Fallführungssystem
+
+#### Art. 23e
+
+**Festlegung und Verpflichtung**
+
+<sup>1</sup> Das AIS legt fest, welches Fallführungssystem von den Trägerschaften der Sozialdienste zu verwenden ist und stellt dieses bereit.
+
+<sup>2</sup> Die Trägerschaften der Sozialdienste sind verpflichtet, das Fallführungssystem nach Absatz 1 zu verwenden.
+
+#### Art. 23f
+
+**Verantwortung**
+
+<sup>1</sup> Verantwortliche Behörde nach Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^23f-1] für das Fallführungssystem nach Artikel 23e Absatz 1 ist das AIS.
+
+[^23f-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+
+#### Art. 23g
+
+**Betriebsorganisation**
+
+<sup>1</sup> Für die Sicherstellung des Betriebs, der Wartung, des Supports und der Weiterentwicklung des Fallführungssystems nach Artikel 23e Absatz 1 setzt die GSI unter Einbezug der Direktion für Inneres und Justiz (DIJ) und der Gemeinden eine Betriebsorganisation ein.
+
+<sup>2</sup> Die Betriebsorganisation besteht insbesondere aus
+
+- a einem aus Vertreterinnen und Vertretern des Kantons und der Gemeinden zusammengesetzten Führungsgremium,
+- b einer Product Ownerin oder einem Product Owner,
+- c einer Servicemanagerin oder einem Servicemanager,
+- d der Erstellerin oder dem Ersteller,
+- e der Betreiberin oder dem Betreiber.
+
+<sup>3</sup> Das Führungsgremium kann zur Sicherstellung des Betriebs weitere, spezialisierte Teams oder Personen einsetzen.
+
+#### Art. 23h
+
+**Betriebskosten**
+
+<sup>1</sup> Die Betriebskosten für das Fallführungssystem nach Artikel 23e Absatz 1 bestehen aus
+
+- a den Betriebskosten der Betreiberin oder des Betreibers,
+- b den Kosten für die Wartung und den Support der Lieferantinnen oder der Lieferanten,
+- c den Kosten für die Überarbeitung des Informatiksicherheits- und Datenschutzkonzepts (ISDS) bei wesentlichen Änderungen sowie für durchzuführende Schutzmassnahmen,
+- d dem Personalaufwand für die Betriebsorganisation, berechnet mit einem Stundenansatz von 100 Franken,
+- e dem Übersetzungsaufwand für die einwandfreie Nutzung des Systems in beiden Amtssprachen,
+- f dem Personalaufwand für den First Level Support.
+
+<sup>2</sup> Die GSI vergütet den Trägerschaften der Sozialdienste deren Personalaufwand nach Absatz 1 Buchstabe d.
+
+#### Art. 23i
+
+**Finanzierung der Betriebskosten**
+
+<sup>1</sup> Die Betriebskosten nach Artikel 23h Absatz 1 Buchstaben a bis e werden zu 64,5 Prozent von der GSI und zu 35,5 Prozent von der DIJ finanziert.
+
+<sup>2</sup> Wird das Fallführungssystem nach Artikel 23e Absatz 1 von Dritten gegen Entgelt verwendet, werden die Betriebskosten nach Artikel 23h Absatz 1 Buchstaben a bis d um die Höhe dieser Entgelte reduziert.
+
+<sup>3</sup> Der Personalaufwand nach Artikel 23h Absatz 1 Buchstabe f wird von jeder Nutzerorganisation selbst getragen.
+
+#### Art. 23k
+
+**Weiterentwicklungskosten**
+
+<sup>1</sup> Die Kosten für die Weiterentwicklung des Fallführungssystems nach Artikel 23e Absatz 1 werden verursacherspezifisch getragen durch
+
+- a die GSI, wenn eine Weiterentwicklung dem Vollzug des SHG, des einvernehmlichen Kindesschutzes nach dem Gesetz vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^23k-1], des Gesetzes vom 6. Februar 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen[^23k-2] oder von Leistungsangeboten der beruflichen oder sozialen Integration nach SLG dient und kantonsweit zum Einsatz kommt,
+- b die DIJ, wenn eine Weiterentwicklung dem Vollzug des Schweizerischen Zivilgesetzbuches (ZGB)[^23k-3], des Bundesgesetzes vom 17. Dezember 2004 über Voraussetzungen und Verfahren bei Sterilisationen (Sterilisationsgesetz)[^23k-4], des Gesetzes vom 1. Februar 2012 über den Kindes- und Erwachsenenschutz (KESG)[^23k-5] oder des KFSG mit Ausnahme des einvernehmlichen Kindesschutzes dient und kantonsweit zum Einsatz kommt,
+- c die einzelnen Nutzerorganisationen bei anderen Weiterentwicklungen.
+
+<sup>2</sup> Weiterentwicklungen, welche allen Bereichen nach Absatz 1 dienen, werden zu 64,5 Prozent von der GSI und zu 35,5 Prozent von der DIJ getragen.
+
+[^23k-1]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
+[^23k-2]: BSG [213.22](https://www.belex.sites.be.ch/data/213.22/de)
+[^23k-3]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^23k-4]: SR [211.111.1](https://db.clex.ch/link/Bund/211.111.1/de)
+[^23k-5]: BSG [213.316](https://www.belex.sites.be.ch/data/213.316/de)
+
 ## 3
 
 ### 3.1
@@ -825,6 +903,16 @@ beschliesst:
 **3 Lastenausgleichsberechtigter Betrag**
 
 <sup>1</sup> Die Aufwendungen des AIS gemäss Artikel 32a und 32b sowie die Abgeltungen des AIS für Leistungen Dritter, die in ihrem Auftrag Sozialinspektionen durchführen, sind lastenausgleichsberechtigt.
+
+#### Art. 32d
+
+**Anrechenbare Aufwendungen für das Fallführungssystem**
+
+<sup>1</sup> Als anrechenbare Aufwendungen für das Fallführungssystem nach Artikel 23e Absatz 1 werden dem Lastenausgleich Soziales folgende Kosten zugeführt:
+
+- a die von der GSI getragenen Kosten nach Artikel 23i Absatz 1,
+- b die Kosten nach Artikel 23k Absatz 1 Buchstabe a,
+- c die von der GSI getragenen Kosten nach Artikel 23k Absatz 2.
 
 ### 4.2 Aufwand der Gemeinden
 
@@ -897,9 +985,7 @@ beschliesst:
 
 <sup>4</sup> Stationär untergebrachte Personen bilden eine eigene Unterstützungseinheit.
 
-<sup>5</sup> Ein Fall nach Absatz 1 liegt auch dann vor, wenn an Personen stationäre oder ambulante Leistungen gemäss Artikel 2 Absatz 1 des Gesetzes vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^34d-1] vermittelt werden und noch keine Unterstützungseinheit nach Absatz 3 oder 4 besteht sowie die Leistung von der zuständigen Stelle der DIJ vorfinanziert wird und die Kosten nicht vollständig von den gemäss Artikel 34 und 35 KFSG zur Kostenbeteiligung verpflichteten Personen getragen werden.
-
-[^34d-1]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
+<sup>5</sup> Ein Fall nach Absatz 1 liegt auch dann vor, wenn an Personen stationäre oder ambulante Leistungen nach Artikel 2 Absatz 1 KFSG vermittelt werden und noch keine Unterstützungseinheit nach Absatz 3 oder 4 besteht sowie die Leistung von der zuständigen Stelle der DIJ vorfinanziert wird und die Kosten nicht vollständig von den nach den Artikeln 34 und 35 KFSG zur Kostenbeteiligung verpflichteten Personen getragen werden.
 
 #### Art. 34e
 
@@ -1156,6 +1242,54 @@ beschliesst:
 <sup>2</sup> Absatz 1 gilt sinngemäss für regionale Partner, soweit sie aufgrund von Artikel 27 Absatz 2 des Gesetzes vom 3. Dezember 2019 über die Sozialhilfe im Asyl- und Flüchtlingsbereich (SAFG)[^T91-1] die in dieser Verordnung festgelegten Unterstützungsansätze anwenden.
 
 [^T91-1]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
+
+## T10 Übergangsbestimmungen der Änderung vom 22.10.2025
+
+#### Art. T10-1
+
+**Verpflichtung zur Verwendung des festgelegten Fallführungssystems**
+
+<sup>1</sup> Die Trägerschaften der Sozialdienste müssen das festgelegte Fallführungssystem nach Artikel 23e Absatz 1 spätestens nach Ablauf der Einführungsphase nach Artikel T10-2 Absatz 1 verwenden, vorbehalten bleibt Artikel T10-3.
+
+<sup>2</sup> Kann eine Trägerschaft eines Sozialdienstes das festgelegte Fallführungssystem nach Artikel 23e Absatz 1 bis zum Ende der Frist nach Absatz 1 nicht einführen, obwohl sie die erforderlichen Vorbereitungshandlungen rechtzeitig vorgenommen hat, muss sie das Fallführungssystem im Rahmen des Lastenausgleichs erst mitfinanzieren, wenn sie dieses einführen konnte.
+
+<sup>3</sup> Die Kantonsbeteiligung nach Artikel T10-2 Absatz 3 bleibt in Fällen nach Absatz 2 bestehen.
+
+#### Art. T10-2
+
+**Einführung des festgelegten Fallführungssystems**
+
+<sup>1</sup> Die Einführungsphase des festgelegten Fallführungssystems nach Artikel 23e Absatz 1 beginnt am 1. Januar 2026 und endet am Ende des Jahres, in dem mindestens 15 Sozialdienste das Fallführungssystem während drei Jahren verwendet haben.
+
+<sup>2</sup> Das AIS stellt den Sozialdiensten für einzelne Zeitspannen eine definierte Anzahl Migrationstermine bereit, für die sich die Trägerschaften der Sozialdienste anmelden müssen, und legt gestützt darauf die Migrationsplanung fest.
+
+<sup>3</sup> Während der Einführungsphase tragen die Trägerschaften der Sozialdienste die Kosten für die Datenbereinigung und Datenbereitstellung im Rahmen der Migration abzüglich einer Kantonsbeteiligung von 1,8 Millionen Franken, die anteilsmässig entsprechend des Verteilschlüssels des Lastenausgleichs Soziales verteilt wird; die übrigen Betriebs- und Einführungskosten werden während der Einführungsphase vom Kanton getragen.
+
+#### Art. T10-3
+
+**Gesuch um spätere Einführung des festgelegten Fallführungssystems**
+
+<sup>1</sup> Wenn eine Trägerschaft eines Sozialdienstes im Zeitraum vom 1. Januar 2019 bis 31. Dezember 2023 nachweislich Investitionen von mehr als einer Million Franken für ein eigenes Fallführungssystem vorgenommen hat, kann diese beim AIS bis spätestens am 30. Juni 2026 beantragen, das festgelegte Fallführungssystem nach Artikel 23e Absatz 1 später, spätestens zwei Jahre nach Ablauf der Einführungsphase nach Artikel T10-2 Absatz 1, verwenden zu müssen.
+
+<sup>2</sup> Wird nach Absatz 1 eine spätere Einführung bewilligt, so muss die Trägerschaft des Sozialdienstes
+
+- a dem AIS spätestens ab dem ersten Tag nach Ablauf der Einführungsphase nach Artikel T10-2 Absatz 1 auf eigene Kosten alle erforderlichen Daten über Schnittstellen liefern oder zugänglich machen,
+- b die Kosten für den Betrieb ihres eigenen Fallführungssystems sowie für die nachträgliche Einführung des festgelegten Fallführungssystems nach Artikel 23e Absatz 1 selbst tragen und
+- c das festgelegte Fallführungssystem nach Artikel 23e Absatz 1 im Rahmen des Lastenausgleichs ab dem ersten Tag nach Ablauf der Einführungsphase nach Artikel T10-2 Absatz 1 mitfinanzieren.
+
+#### Art. T10-4
+
+**Anwendbarkeit von Artikel 23h, 23i, 23k und 32d**
+
+<sup>1</sup> Die Artikel 23h, 23i, 23k und 32d sind ab dem ersten Tag nach Ablauf der Einführungsphase nach Artikel T10-2 Absatz 1 anwendbar.
+
+#### Art. T10-5
+
+**Ausgleich der Lastenverschiebung**
+
+<sup>1</sup> Die Lastenverschiebung zwischen dem Kanton und den Gemeinden von einer Million Franken pro Jahr als Folge der Festlegung eines Fallführungssystems und der Finanzierung der anrechenbaren Aufwendungen über den Lastenausgleich Soziales nach Artikel 79 Absatz 1 Buchstabe f SHG wird ab dem ersten Tag nach Ablauf der Einführungsphase nach Artikel T10-2 Absatz 1 dem Lastenausgleich neue Aufgabenteilung nach Artikel 29b des Gesetzes vom 27. November 2000 über den Finanz- und Lastenausgleich (FILAG)[^T105-1] angerechnet.
+
+[^T105-1]: BSG [631.1](https://www.belex.sites.be.ch/data/631.1/de)
 
 Bern, 24. Oktober 2001
 
