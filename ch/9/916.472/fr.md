@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l'OSAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: fr
-version: 2025-01-01
+version: 2025-12-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20250101/fr"
 
 (Ordonnance sur les émoluments de l’OSAV, OEmol-OSAV)[^t-1]
 
-du 30 octobre 1985 (État le 1<sup>er</sup> janvier 2025)
+du 30 octobre 1985 (État le 1<sup>er</sup> décembre 2025)
 
 [^t-1]: Tit. introduit par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -410,31 +410,59 @@ Pour l’utilisation du système d’information eCert, l’OSAV prélève aupr�
 
 [^24bbis-1]: Introduit par le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
-### Section 10 Homologation des produits phytosanitaires
+### Section 10 Homologation de produits phytosanitaires et approbation d’organismes utiles
 
 [^chap2-sec10-1]
 
-[^chap2-sec10-1]: Introduite par l’annexe ch. 4 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^chap2-sec10-1]: Introduite par l’annexe ch. 4 de l’O du 17 nov. 2021 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Nouvelle teneur selon le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 551](https://fedlex.data.admin.ch/eli/oc/2025/551)).
 
 #### Art. 24c
 
-L’OSAV prélève les émoluments suivants pour les examens et contrôles visés dans l’ordonnance du 12 mai 2010 sur les produits phytosanitaires (OPPh)[^24c-1]:
+**Émoluments pour l’homologation de produits phytosanitaires, pour les permissions de vente et pour les certificats**
+
+Pour le traitement des demandes portant sur les produits phytosanitaires au sens de l’ordonnance du 20 août 2025 sur les produits phytosanitaires (OPPh)[^24c-1], l’OSAV perçoit les émoluments suivants:
 
 <table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>a. Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle les documents visés aux annexes 5 et 6 OPPh doivent être produits (art. 21, al. 1 à 5, OPPh)</td><td>2500.–</td></tr>
-<tr><td>b. Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle tous les documents visés à l’annexe 6 OPPh doivent être produits (art. 21, al. 1 à 4, OPPh)</td><td>1400.–</td></tr>
-<tr><td>c. Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle seulement une partie des documents visés à l’annexe 6 OPPh doit être produite (art. 21, al. 7, OPPh)</td><td>400.– à 1000.–</td></tr>
-<tr><td>d. Octroi d’une autorisation pour laquelle des informations concernant un produit phytosanitaire identique, provenant d’un précédent requérant, ont été utilisées avec son consentement (art. 22 OPPh)</td><td>400.–</td></tr>
-<tr><td>e. Essais et analyses dans le cadre de l’examen d’une demande (art. 24, al. 3, OPPh):</td><td></td></tr>
-<tr><td>1. analyses chimiques et physico-chimiques</td><td>30.– à 500.–</td></tr>
-<tr><td>2. essais biologiques</td><td>1900.– à 11 000.–</td></tr>
-<tr><td>f. Établissement de certificats (art. 20 OPPh)</td><td>60.–</td></tr>
-<tr><td>g. Octroi d’une permission de vente (art. 43 OPPh)</td><td>200.–</td></tr>
-<tr><td>h. Traitement d’une demande d’homologation de produits phytosanitaires homologués à l’étranger qui correspondent à des produits phytosanitaires autorisés en Suisse (art. 36, al. 3, OPPh)</td><td>50.–</td></tr>
+<tr><th></th><th colspan="2">**Fr.**</th></tr>
+<tr><th></th><th></th><th>Les substances actives contenues dans le produit phytosanitaire sont des substances actives à faible risque</th></tr>
+<tr><td>a. traitement d’une demande d’homologation d’un produit phytosanitaire</td><td>20 000</td><td>10 000</td></tr>
+<tr><td>b. traitement d’une demande d’homologation simplifiée d’un produit phytosanitaire (art. 16 OPPh)</td><td>12 000</td><td>6000</td></tr>
+<tr><td>c. traitement d’une demande de modification de l’homologation en raison d’une modification de la composition du produit phytosanitaire homologué: «significant change»</td><td>5000</td><td>2500</td></tr>
+<tr><td>d. traitement d’une demande de modification de l’homologation simplifiée (art. 16 OPPh) en raison d’une modification de la composition du produit phytosanitaire homologué: «significant change»</td><td>3000</td><td>1500</td></tr>
+<tr><td>e. traitement d’une demande de modification de l’homologation en raison d’une modification de la composition du produit phytosanitaire homologué: «non-significant change»</td><td>1000</td><td>500</td></tr>
+<tr><td>f. traitement d’une demande de modification de l’homologation simplifiée (art. 16 OPPh) en raison d’une modification de la composition du produit phytosanitaire homologué: «non‑significant change»</td><td>600</td><td>300</td></tr>
+<tr><td>g. traitement d’une demande de modification de l’homologation en raison d’une modification de certains domaines d’évaluation comme la modification de la source de la substance active, de la classification ou de l’étiquetage</td><td>600</td><td>300</td></tr>
+<tr><td>h. traitement d’une demande d’extension de l’homologation à certains domaines d’utilisation, à l’exception de l’extension à des utilisations mineures au sens de l’art. 17 OPPh par indication</td><td>200</td><td>100</td></tr>
+<tr><td>i. traitement d’une demande d’extension de l’homologation simplifiée (art. 16 OPPh) à certains domaines d’utilisation, à l’exception de l’extension à des utilisations mineures au sens de l’art. 17 OPPh par indication</td><td>100</td><td>50</td></tr>
+<tr><td>j. traitement d’une demande d’extension de l’homologation à une utilisation mineure (art. 17 OPPh) par indication</td><td>100</td><td>50</td></tr>
+<tr><td>k. traitement d’une demande d’homologation d’urgence par indication</td><td>100</td><td>50</td></tr>
+<tr><td>l. traitement d’une demande d’octroi d’une permission de vente</td><td>200</td><td>200</td></tr>
+<tr><td>m. traitement d’une demande de modification d’une permission de vente</td><td>100</td><td>100</td></tr>
+<tr><td>n. traitement d’une demande de modification administrative concernant une homologation ou une permission de vente, y compris de transfert de l’homologation à un nouveau titulaire</td><td>100</td><td>100</td></tr>
+<tr><td>o. contrôle de l’exhaustivité du dossier concernant les substances actives, phytoprotecteurs et synergistes considérés comme approuvés en vertu des art. 5 et 6 OPPh ou dont l’approbation a été renouvelée dans l’UE</td><td>800</td><td>400</td></tr>
+<tr><td>p. traitement d’une demande de renouvellement de l’homologation d’un produit phytosanitaire</td><td>12 000</td><td>6000</td></tr>
+<tr><td>q. traitement d’une demande de renouvellement de l’homologation simplifiée d’un produit phytosanitaire (art. 16 OPPh)</td><td>7000</td><td>3500</td></tr>
+<tr><td>r. traitement d’une demande d’homologation d’un produit phytosanitaire qui a été homologué dans un État membre de l’UE et qui correspond à un produit phytosanitaire homologué en Suisse (art. 48 OPPh) par produit phytosanitaire</td><td>200</td><td>100</td></tr>
+<tr><td>s. traitement d’une demande d’établissement d’un certificat au sens de l’art. 87 OPPh</td><td>100</td><td>100</td></tr>
 </table>
 
 [^24c-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+
+#### Art. 24d
+
+**Émoluments pour les organismes utiles**
+
+Pour le traitement des demandes d’approbation d’organismes utiles, de renouvellement de l’approbation ou d’homologation d’urgence d’organismes utiles au sens de l’OPPh[^24d-1], l’OSAV perçoit les émoluments suivants:
+
+<table>
+<tr><th></th><th colspan="2">**Fr.**</th></tr>
+<tr><th></th><th>Organismes utiles</th><th>Organismes utiles à faible risque</th></tr>
+<tr><td>a. traitement d’une demande d’approbation d’un organisme utile</td><td>2000</td><td>800</td></tr>
+<tr><td>b. traitement d’une demande de renouvellement de l’approbation d’un organisme utile</td><td>1000</td><td>400</td></tr>
+<tr><td>c. traitement d’une demande d’homologation d’urgence par indication</td><td>80</td><td>50</td></tr>
+</table>
+
+[^24d-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## Chapitre 3 Dispositions finales
 
@@ -457,6 +485,15 @@ Sont abrogés:
 L’ordonnance du 13 juin 1977[^26-1] reste applicable aux prestations fournies avant l’entrée en vigueur de la présente ordonnance.
 
 [^26-1]: [[RO 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230); [1979 2634](https://fedlex.data.admin.ch/eli/oc/1979/2626_2634_2634)art. 2 ch. 7; [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)art. 24 ch. 2; [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)art. 72 ch. 5]
+
+#### Art. 26a
+
+**Disposition transitoire relative à la modification du 20 août 2025**[^26a-1]
+
+L’ancien droit reste applicable aux émoluments perçus pour les examens et contrôles visés à l’art. 24*c* de l’ancien droit[^26a-2] si la demande a été déposée avant l’entrée en vigueur de la modification du 20 août 2025.
+
+[^26a-1]: Introduit par le ch. I de l’O du 20 août 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 551](https://fedlex.data.admin.ch/eli/oc/2025/551)).
+[^26a-2]: [RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)
 
 #### Art. 27
 

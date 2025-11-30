@@ -3,11 +3,11 @@ sr: "916.472"
 title: Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: de
-version: 2025-01-01
+version: 2025-12-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20251201/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20250101/de"
 
 (Gebührenverordnung BLV)[^t-1]
 
-vom 30. Oktober 1985 (Stand am 1. Januar 2025)
+vom 30. Oktober 1985 (Stand am 1. Dezember 2025)
 
 [^t-1]: Kurztitel eingefügt gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
@@ -413,31 +413,59 @@ Das BLV erhebt für die Benutzung des Informationssystems E-Cert von den Exporte
 
 [^24bbis-1]: Eingefügt durch Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
-### 10. Abschnitt: Zulassung von Pflanzenschutzmitteln
+### 10. Abschnitt: Zulassung von Pflanzenschutzmitteln und Genehmigung von Nützlingen
 
 [^chap2-sec10-1]
 
-[^chap2-sec10-1]: Eingefügt durch Anhang Ziff. 4 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^chap2-sec10-1]: Eingefügt durch Anhang Ziff. 4 der V vom 17. Nov. 2021 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Fassung gemäss Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 551](https://fedlex.data.admin.ch/eli/oc/2025/551)).
 
 #### Art. 24c
 
-Das BLV erhebt für die Prüfungen und die Kontrollen nach der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^24c-1] (PSMV) folgende Gebühren:
+**Gebühren für die Zulassung von Pflanzenschutzmitteln, für Verkaufserlaubnisse und für Zertifikate**
+
+Das BLV erhebt für die Behandlung von Gesuchen und Anträgen für Pflanzenschutzmittel nach der Pflanzenschutzmittelverordnung vom 20. August 2025[^24c-1] (PSMV) folgende Gebühren:
 
 <table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>a. Behandlung eines Gesuchs um Bewilligung eines Pflanzen-schutzmittels, für das Unterlagen nach den Anhängen 5 und 6 PSMV eingereicht werden müssen (Art. 21 Abs. 1–5 PSMV)</td><td>2500.–</td></tr>
-<tr><td>b. Behandlung eines Gesuchs um Bewilligung eines Pflanzen-schutzmittels, für das sämtliche Unterlagen nach Anhang 6 PSMV eingereicht werden müssen (Art. 21 Abs. 1–4 PSMV)</td><td>1400.–</td></tr>
-<tr><td>c. Behandlung eines Gesuchs um Bewilligung eines Pflanzen-schutzmittels, für das nur ein Teil der Unterlagen nach Anhang 6 PSMV eingereicht werden muss (Art. 21 Abs. 7 PSMV)</td><td>400.– bis 1000.–</td></tr>
-<tr><td>d. Erteilung einer Bewilligung unter Verwendung von Daten einer früheren Gesuchstellerin für ein identisches Pflanzen-schutzmittel mit Zustimmung der früheren Gesuchstellerin (Art. 22 PSMV)</td><td>400.–</td></tr>
-<tr><td>e. Versuche und Analysen im Rahmen der Prüfung eines Gesuchs (Art. 24 Abs. 3 PSMV):</td><td></td></tr>
-<tr><td>1. chemische und physikalisch-chemische Analysen</td><td>30.– bis 500.–</td></tr>
-<tr><td>2. biologische Versuche</td><td>1900.– bis 11 000.–</td></tr>
-<tr><td>f. Ausstellung von Zertifikaten (Art. 20 PSMV)</td><td>60.–</td></tr>
-<tr><td>g. Erteilung einer Verkaufserlaubnis (Art. 43 PSMV)</td><td>200.–</td></tr>
-<tr><td>h. Bearbeitung eines Zulassungsgesuches für im Ausland zugelassene Pflanzenschutzmittel, die in der Schweiz bewilligten Pflanzenschutzmitteln entsprechen (Art. 36 Abs. 3 PSMV)</td><td>50.–</td></tr>
+<tr><th colspan="3"></th><th>Fr.</th></tr>
+<tr><th></th><th></th><th colspan="2">Die im Pflanzenschutzmittel enthaltenen Wirkstoffe sind Wirkstoffe mit geringem Risiko sind</th></tr>
+<tr><td>a. Behandlung eines Gesuchs um Zulassung eines Pflanzenschutzmittels</td><td>20 000</td><td colspan="2">10 000</td></tr>
+<tr><td>b. Behandlung eines Gesuchs um vereinfachte Zulassung eines Pflanzenschutzmittels (Art. 16 PSMV)</td><td>12 000</td><td colspan="2">6000</td></tr>
+<tr><td>c. Behandlung eines Gesuchs um Änderung der Zulassung aufgrund einer geänderten Zusammensetzung des zugelassenen Pflanzenschutzmittels: «significant change»</td><td>5000</td><td colspan="2">2500</td></tr>
+<tr><td>d. Behandlung eines Gesuchs um Änderung der vereinfachten Zulassung (Art. 16 PSMV) aufgrund einer geänderten Zusammensetzung des zugelassenen Pflanzenschutzmittels: «significant change»</td><td>3000</td><td colspan="2">1500</td></tr>
+<tr><td>e. Behandlung eines Gesuchs um Änderung der Zulassung aufgrund einer geänderten Zusammensetzung des zugelassenen Pflanzenschutzmittels: «non-significant change»</td><td>1000</td><td colspan="2">500</td></tr>
+<tr><td>f. Behandlung eines Gesuchs um Änderung der vereinfachten Zulassung (Art. 16 PSMV) aufgrund einer geänderten Zusammensetzung des zugelassenen Pflanzenschutzmittels: «non‑significant change»</td><td>600</td><td colspan="2">300</td></tr>
+<tr><td>g. Behandlung eines Gesuchs um Änderung der Zulassung aufgrund einer Änderung in bestimmten Beurteilungsbereichen, wie Änderung der Wirkstoffquelle oder der Einstufung und Kennzeichnung</td><td>600</td><td colspan="2">300</td></tr>
+<tr><td>h. Behandlung eines Gesuchs um Erweiterung der Zulassung um Verwendungsbereiche mit Ausnahme der Erweiterung um geringfügigen Verwendungen nach Artikel 17 PSMV pro Indikation</td><td>200</td><td colspan="2">100</td></tr>
+<tr><td>i. Behandlung eines Gesuchs um Erweiterung der vereinfachten Zulassung (Art. 16 PSMV) um Verwendungsbereiche mit Ausnahme der Erweiterung um geringfügigen Verwendungen nach Artikel 17 PSMV pro Indikation</td><td>100</td><td colspan="2">50</td></tr>
+<tr><td>j. Behandlung eines Gesuchs um Erweiterung der Zulassung um eine geringfügige Verwendung (Art. 17 PSMV) pro Indikation</td><td>100</td><td colspan="2">50</td></tr>
+<tr><td>k. Behandlung eines Gesuchs um Notfallzulassung pro Indikation</td><td>100</td><td colspan="2">50</td></tr>
+<tr><td>l. Behandlung eines Gesuchs um Erteilung einer Verkaufserlaubnis</td><td>200</td><td colspan="2">200</td></tr>
+<tr><td>m. Behandlung eines Gesuchs um Anpassung einer Verkaufserlaubnis</td><td>100</td><td colspan="2">100</td></tr>
+<tr><td>n. Behandlung eines Gesuchs um administrative Anpassung einer Zulassung oder Verkaufserlaubnis, einschliesslich um Übertragung der Zulassung auf eine neue Zulassungsinhaberin</td><td>100</td><td colspan="2">100</td></tr>
+<tr><td>o. Prüfung auf Vollständigkeit des Dossiers von Wirkstoffen, Safenern und Synergisten, die nach den Artikeln 5 und 6 PSMV als genehmigt gelten oder deren Genehmigung in der EU erneuert wurde</td><td>800</td><td colspan="2">400</td></tr>
+<tr><td>p. Behandlung eines Gesuchs um Erneuerung der Zulassung eines Pflanzenschutzmittels</td><td>12 000</td><td colspan="2">6000</td></tr>
+<tr><td>q. Behandlung eines Gesuchs um Erneuerung der vereinfachten Zulassung eines Pflanzenschutzmittels (Art. 16 PSMV)</td><td>7000</td><td colspan="2">3500</td></tr>
+<tr><td>r. Behandlung eines Gesuchs um Zulassung eines in einem EU-Mitgliedstaat zugelassenen Pflanzenschutzmittels, das einem in der Schweiz zugelassenen Pflanzenschutzmittel entspricht (Art. 48 PSMV) pro Pflanzenschutzmittel</td><td>200</td><td colspan="2">100</td></tr>
+<tr><td>s. Behandlung eines Gesuchs um Ausstellung eines Zertifikats nach Artikel 87 PSMV</td><td>100</td><td colspan="2">100</td></tr>
 </table>
 
 [^24c-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+
+#### Art. 24d
+
+**Gebühren für Nützlinge**
+
+Das BLV erhebt für die Behandlung von Gesuchen um Genehmigung von Nützlingen, um Erneuerung der Genehmigung oder um Notfallzulassung nach der PSMV[^24d-1] folgende Gebühren:
+
+<table>
+<tr><th colspan="3"></th><th>Fr.</th></tr>
+<tr><th></th><th>Nützlinge</th><th colspan="2">Nützlinge mit geringem Risiko</th></tr>
+<tr><td>a. Behandlung eines Gesuchs um Genehmigung eines Nützlings</td><td>2000</td><td colspan="2">800</td></tr>
+<tr><td>b. Behandlung eines Gesuchs um Erneuerung der Genehmigung eines Nützlings</td><td>1000</td><td colspan="2">400</td></tr>
+<tr><td>c. Behandlung eines Gesuchs um Notfallzulassung pro Indikation</td><td>80</td><td colspan="2">50</td></tr>
+</table>
+
+[^24d-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## 3. Kapitel: Schlussbestimmungen
 
@@ -460,6 +488,15 @@ Es werden aufgehoben:
 Für Dienstleistungen, die vor dem Inkrafttreten dieser Verordnung erbracht worden sind, gilt die bisherige Gebührenverordnung[^26-1].
 
 [^26-1]: [[AS 1977 1230](https://fedlex.data.admin.ch/eli/oc/1977/1230_1230_1230);**1979** 2634 Art. 2 Ziff. 7; [1981 1248](https://fedlex.data.admin.ch/eli/oc/1981/1248_1248_1248)Art. 24 Ziff. 2; [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408)Art. 72 Ziff. 5]
+
+#### Art. 26a
+
+**Übergangsbestimmung zur Änderung vom 20. August 2025**[^26a-1]
+
+Die Erhebung der Gebühren für die Prüfungen und die Kontrollen nach Artikel 24*c* in der Fassung gemäss bisherigem Recht[^26a-2] richtet sich nach bisherigem Recht, wenn das Gesuch vor Inkrafttreten der Änderung vom 20. August 2025 eingereicht wurde.
+
+[^26a-1]: Eingefügt durch Ziff. I der V vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 551](https://fedlex.data.admin.ch/eli/oc/2025/551)).
+[^26a-2]: [AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)
 
 #### Art. 27
 
