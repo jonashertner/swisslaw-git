@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 10 mai 2000 relative à la loi sur le travail (OLT 2) (D
 short: OLT 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: fr
-version: 2023-10-15
+version: 2025-12-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20231015/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20231015-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-244-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/fr"
 
 (Dispositions spéciales pour certaines catégories d’entreprises ou de travailleurs)
 
-du 10 mai 2000 (État le 15 octobre 2023)
+du 10 mai 2000 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -27,7 +27,7 @@ vu l’art. 27 de la loi du 13 mars 1964 sur le travail[^ingress-1] (loi),
 
 arrête:
 
-[^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## Section 1 Objet et définitions
 
@@ -50,7 +50,7 @@ La nécessité (art. 27, al. 1<sup>bis</sup>, de la loi) est établie lorsque:
 - a. une entreprise appartient à l’une des catégories d’entreprises énumérées à la section 3 de la présente ordonnance, ou
 - b. que les conditions fixées à l’art. 28 de l’ordonnance 1 du 10 mai 2000 relative à la loi sur le travail[^2-1] sont remplies.
 
-[^2-1]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^2-1]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 ## Section 2 Dispositions spéciales
 
@@ -143,7 +143,7 @@ Le temps que le travailleur consacre au service de piquet ou aux interventions e
 <sup>3</sup> La durée du repos quotidien peut être réduite à neuf heures les nuits où le travailleur effectue un service de piquet pour autant qu’elle atteigne douze heures en moyenne sur deux semaines.
 
 [^8b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> déc. 2017, en vigueur depuis le 15 janv. 2018 ([RO 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
-[^8b-2]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^8b-2]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 9
 
@@ -247,6 +247,72 @@ Le repos compensatoire pour le travail effectué les jours fériés peut être a
 
 <sup>2</sup> Sont réputées entreprises de soins à domicile les entreprises dont l’activité consiste à exercer des tâches extrahospitalières pour des personnes nécessitant une prise en charge et des soins médicaux.
 
+#### Art. 17a
+
+**Prise en charge «live-in»: principes**[^17a-1]
+
+<sup>1</sup>
+
+Les art. 17*a* à 17*e* s’appliquent:
+
+- a. aux travailleurs dont les services sont loués à un ménage privé pour fournir des prestations d’économie domestique, de prise en charge et de soutien dans les actes du quotidien et qui sont hébergés dans le ménage de la personne prise en charge (prise en charge «live-in»);
+- b. aux entreprises qui occupent les travailleurs visés à la let. a.
+
+<sup>2</sup> Sont applicables aux travailleurs et aux entreprises visés à l’al. 1 l’art. 4 pour toute la nuit et tout le dimanche ainsi que les art. 8, al. 1, 12, al. 2, et 14, al. 1.
+
+<sup>3</sup> Les entreprises visées à l’al. 1, let. b, doivent être soumises ou affiliées à la convention collective de travail régissant la location de services. En outre, les partenaires sociaux doivent régler l’indemnisation du service de garde ainsi que du travail de nuit et du dimanche pour ces entreprises.
+
+<sup>4</sup> Est réputé service de garde un service pendant lequel le travailleur se tient prêt, à l’intérieur ou à l’extérieur du ménage, à fournir des prestations de travail en dehors des horaires de travail habituels.
+
+[^17a-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17b
+
+**Prise en charge «live-in»: service de garde**[^17b-1]
+
+<sup>1</sup> Durant le service de garde, un délai d’intervention d’une durée minimum de 30 minutes doit être accordé au travailleur; lorsque ce dernier ne se trouve pas dans le ménage, le temps de trajet pour s’y rendre et en revenir compte comme temps de travail.
+
+<sup>2</sup> Un service de garde peut être planifié lors de 20 jours de travail au maximum par période de quatre semaines. Le travailleur ne peut être amené à intervenir dans ce cadre que pendant cinq nuits au maximum par semaine.
+
+<sup>3</sup> Le service de garde ne peut dépasser cinq heures par journée de travail et ne peut être divisé en plus de trois périodes. Si le travailleur doit intervenir à plus de deux reprises pendant la même période, la totalité de celle-ci compte comme durée du travail.
+
+[^17b-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17c
+
+**Prise en charge «live-in»: durée du repos**[^17c-1]
+
+<sup>1</sup> Le travailleur doit bénéficier d’un temps de repos d’au moins 35 heures consécutives par semaine sans service de garde.
+
+<sup>2</sup> La durée du repos quotidien est de 11 heures. L’art. 19, al. 3, de l’ordonnance 1 du 10 mai 2000 relative à la loi sur le travail[^17c-2] s’applique par analogie.
+
+[^17c-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+[^17c-2]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
+
+#### Art. 17d
+
+**Prise en charge «live-in»: pause**[^17d-1]
+
+<sup>1</sup> Le travailleur doit disposer d’une pause d’au minimum 60 minutes consécutives par jour.
+
+<sup>2</sup> En cas de service de garde durant la nuit, le travailleur doit disposer, le jour suivant, d’une pause d’au moins deux heures consécutives entre 6 h et 20 h; il en va de même en cas de service de garde divisé en trois périodes durant le jour ou le soir.
+
+<sup>3</sup> Pendant ses pauses, le travailleur a le droit de quitter le lieu de travail et n’est pas à la disposition de la personne qu’il prend en charge.
+
+[^17d-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17e
+
+**Prise en charge «live-in»: saisie de la durée du travail**[^17e-1]
+
+<sup>1</sup> Le bailleur de services met à la disposition du travailleur un outil pour enregistrer la durée du travail, les services de garde, les interventions pendant ces derniers ainsi que les pauses.
+
+<sup>2</sup> La personne prise en charge et le travailleur visent les heures de travail effectuées.
+
+<sup>3</sup> Le bailleur de services contrôle et vise régulièrement et rapidement les relevés d’heures de travail.
+
+[^17e-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
 #### Art. 18
 
 **Cabinets médicaux et cabinets dentaires**[^18-1]
@@ -320,7 +386,7 @@ Sont applicables aux jardins et parcs zoologiques ainsi qu’aux refuges pour an
 <sup>2</sup> Sont réputées maisons de jeu les entreprises titulaires d’une concession fédérale prévue par la loi du 18 décembre 1998 sur les maisons de jeu[^24-2].
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
-[^24-2]: [[RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)ch. I 15. [RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)annexe ch. I 2]. Voir actuellement la LF du 29 sept. 2017 sur les jeux d’argent ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^24-2]: [[RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)ch. I 15. [RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)annexe ch. I 2]. Voir actuellement la LF du 29 sept. 2017 sur les jeux d’argent ([RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)).
 
 #### Art. 25
 
@@ -459,7 +525,7 @@ Est applicable aux magasins de fleurs du commerce de détail et aux travailleurs
 <sup>3</sup> Est réputée prestataire de services postaux l’entreprise qui propose aux clients à titre professionnel la réception, la collecte, le tri, le transport et la distribution des envois postaux et qui en assume la responsabilité envers les clients sans pour autant devoir fournir elle-même l’ensemble de ces services.
 
 [^30a-1]: Introduit par le ch. I de l’O du 6 mars 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 977](https://fedlex.data.admin.ch/eli/oc/2015/179)).
-[^30a-2]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+[^30a-2]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
 
 #### Art. 31
 
@@ -518,7 +584,7 @@ Les règles suivantes s’appliquent au repos quotidien des travailleurs visés 
 <sup>3</sup> Sont réputées entreprises actives dans les technologies de l’information et de la communication les entreprises qui proposent à des tiers des produits ou services relevant des technologies de l’information et de la communication, comme le développement, l’adaptation, le test et la maintenance de logiciels, la planification et la conception de systèmes informatiques englobant les technologies du matériel informatique, des logiciels et de la communication, ainsi que l’administration et l’exploitation de tels systèmes ou d’autres installations de traitement de données pour un client dans ses propres locaux.
 
 [^32b-1]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
-[^32b-2]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^32b-2]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 33
 
@@ -577,8 +643,8 @@ Les dispositions spéciales suivantes s’appliquent à l’occupation de travai
 <sup>4</sup> L’employeur qui occupe des travailleurs sur la base du régime d’horaire annualisé selon le présent article doit, avec la collaboration des travailleurs ou de leurs représentants dans l’entreprise, prendre des mesures de prévention dans le domaine de la protection de la santé; celles-ci couvrent en particulier les risques psychosociaux.
 
 [^34a-1]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
-[^34a-2]: [RS 412.105.1](https://fedlex.data.admin.ch/eli/cc/2014/488)
-[^34a-3]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^34a-2]: [RS 412.105.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6609)
+[^34a-3]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 35
 
@@ -727,7 +793,7 @@ Est applicable aux entreprises de la branche automobile et aux travailleurs qu�
 <sup>2</sup> Les travaux concernés par l’al. 1 doivent impliquer l’arrêt partiel ou total d’une installation de transport existante et être en lien direct avec cette dernière.
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
-[^48-2]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^48-2]: [RS 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
 
 #### Art. 48a
 
@@ -738,7 +804,7 @@ Est applicable aux entreprises de la branche automobile et aux travailleurs qu�
 <sup>2</sup> L’entreprise doit publier les chantiers occupant des travailleurs la nuit en application de l’al. 1 dans la Feuille officielle suisse du commerce au moins 14 jours avant le début des travaux. La publication doit indiquer le nom de l’entreprise, le lieu d’intervention, le nombre de travailleurs concernés et la durée du travail de nuit prévu.
 
 [^48a-1]: Introduit par le ch.I de l’O du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543))
-[^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 49
 

@@ -4,11 +4,11 @@ title: Ordinanza 2 del 10 maggio 2000 concernente la legge sul lavoro (OLL 2) (D
 short: OLL 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: it
-version: 2023-10-15
+version: 2025-12-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20231015/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20231015-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2000-244-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/it"
 
 (Disposizioni speciali per determinate categorie di aziende e di lavoratori)
 
-del 10 maggio 2000 (Stato 15 ottobre 2023)
+del 10 maggio 2000 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ visto l’articolo 27 della legge del 13 marzo 1964[^ingress-1] sul lavoro (legg
 
 ordina:
 
-[^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## Sezione 1: Oggetto e definizioni
 
@@ -50,7 +50,7 @@ Vi è necessità (art. 27 cpv. 1<sup>bis</sup> della legge) se:
 - a. un’azienda appartiene a una delle categorie di aziende elencate nella sezione 3 della presente ordinanza; o
 - b. le condizioni di cui all’articolo 28 dell’ordinanza 1 del 10 maggio 2000[^2-1] concernente la legge sul lavoro sono adempiute.
 
-[^2-1]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^2-1]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 ## Sezione 2: Disposizioni speciali
 
@@ -101,7 +101,7 @@ I singoli lavoratori possono essere occupati sette giorni consecutivi se:
 - b. la durata massima della settimana lavorativa è rispettata nella media di due settimane; e
 - c. immediatamente dopo il settimo giorno sono accordate almeno 83 ore di congedo consecutive: queste 83 ore comprendono il riposo giornaliero, il riposo compensativo per il lavoro domenicale e la semigiornata libera settimanale.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
 
 #### Art. 8
 
@@ -111,7 +111,7 @@ I singoli lavoratori possono essere occupati sette giorni consecutivi se:
 
 <sup>2</sup> Il lavoro straordinario ai sensi dell’articolo 12 capoverso 1 della legge può essere effettuato la domenica. Il lavoro straordinario effettuato la domenica è compensato con un congedo di uguale durata nel corso delle 26 settimane successive.[^8-1]
 
-[^8-1]: Introdotto dal n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^8-1]: Introdotto dalla cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 8a
 
@@ -125,7 +125,7 @@ I singoli lavoratori possono essere occupati sette giorni consecutivi se:
 
 <sup>4</sup> Nei casi di cui ai capoversi 2 e 3 il lavoratore può essere di picchetto per al massimo sette giorni nello spazio di quattro settimane.
 
-[^8a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
 
 #### Art. 8b
 
@@ -142,8 +142,8 @@ I lavoratori possono essere di picchetto o effettuare interventi di picchetto pe
 
 <sup>3</sup> Nelle notti di picchetto il riposo giornaliero può essere ridotto a nove ore, a condizione che nella media di due settimane sia di 12 ore.
 
-[^8b-1]: Introdotto dal n. I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
-[^8b-2]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^8b-1]: Introdotto dalla cifra I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
+[^8b-2]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 9
 
@@ -170,7 +170,7 @@ Il lavoro notturno può essere compreso in uno spazio di 12 ore se è seguito da
 
 <sup>5</sup> Il lavoro notturno non alternato a un lavoro diurno può essere svolto per un massimo di sei notti su sette notti consecutive, purché la settimana di cinque giorni sia garantita nella media dell’anno civile.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
 
 #### Art. 11
 
@@ -192,9 +192,9 @@ Il periodo della domenica giusta l’articolo 18 capoverso 1 della legge può es
 
 <sup>3</sup> Se il lavoratore beneficia della settimana di cinque giorni nella media dell’anno civile, il numero delle domeniche libere può essere ridotto a quattro. Esse possono essere ripartite in modo irregolare nel corso dell’anno.
 
-[^12-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
-[^12-3]: Introdotto dal n. I dell’O del 17 ago. 2016 ([RU 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)). Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^12-1]: Introdotto dalla cifra I dell’O del 14 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^12-3]: Introdotto dalla cifra I dell’O del 17 ago. 2016 ([RU 2016 2949](https://fedlex.data.admin.ch/eli/oc/2016/490)). Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 13
 
@@ -214,8 +214,8 @@ Il riposo compensativo per il lavoro effettuato nei giorni festivi può essere a
 
 <sup>3</sup> La semigiornata libera settimanale può essere ridotta da otto a sei ore consecutive. Essa deve essere accordata il mattino fino alle 12.00 o il pomeriggio al più tardi a partire dalle 14.30 fino al più tardi alle 20.30. La perdita di ore di riposo dovuta alla riduzione deve essere accordata in blocco entro sei mesi.[^14-2]
 
-[^14-1]: Introdotto dal n. I dell’O del 30 ago. 2023, in vigore dal 15 ott. 2023 ([RU 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+[^14-1]: Introdotto dalla cifra I dell’O del 30 ago. 2023, in vigore dal 15 ott. 2023 ([RU 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
 
 ## Sezione 3: Categorie di lavoratori e di aziende assoggettate
 
@@ -227,7 +227,7 @@ Il riposo compensativo per il lavoro effettuato nei giorni festivi può essere a
 
 <sup>2</sup> Gli istituti ospedalieri e le cliniche sono aziende dirette da un medico per malati, puerpere e lattanti, infortunati e convalescenti.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
 
 #### Art. 16
 
@@ -237,7 +237,7 @@ Il riposo compensativo per il lavoro effettuato nei giorni festivi può essere a
 
 <sup>2</sup> Sono considerati case e internati gli ospizi per bambini, le case di educazione, le case per apprendisti, le case di formazione e di preparazione professionale, le case per anziani, le case di cura, i cronicari, i ricoveri e gli asili per bisognosi.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
 
 #### Art. 17
 
@@ -247,13 +247,79 @@ Il riposo compensativo per il lavoro effettuato nei giorni festivi può essere a
 
 <sup>2</sup> Sono considerate aziende per le cure a domicilio le aziende che offrono servizi extraospedalieri di cura e assistenza alle persone che ne hanno bisogno.
 
+#### Art. 17a
+
+**Assistenza in convivenza: principi**[^17a-1]
+
+<sup>1</sup>
+
+Gli articoli 17*a*–17*e* si applicano:
+
+- a. ai lavoratori prestati a un’economia domestica privata per fornire servizi di economia domestica, assistenza e aiuto nelle attività quotidiane e che convivono nell’economia domestica della persona assistita (assistenza in convivenza);
+- b. alle aziende che occupano lavoratori di cui alla lettera a.
+
+<sup>2</sup> Ai lavoratori e alle aziende di cui al capoverso 1 si applicano l’articolo 4 per tutta la notte e tutta la domenica nonché gli articoli 8 capoverso 1, 12 capoverso 2 e 14 capoverso 1.
+
+<sup>3</sup> Le aziende di cui al capoverso 1 lettera b devono essere soggette o affiliate al contratto collettivo per il settore del prestito di personale. Inoltre, le parti sociali devono disciplinare per queste aziende l’indennità del servizio di reperibilità, del lavoro domenicale e del lavoro notturno.
+
+<sup>4</sup> È considerato servizio di reperibilità un servizio durante il quale il lavoratore, al di fuori dell’orario di lavoro regolare, si tiene pronto all’interno o all’esterno dell’economia domestica per eventuali interventi.
+
+[^17a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17b
+
+**Assistenza in convivenza: servizio di reperibilità**[^17b-1]
+
+<sup>1</sup> Durante il servizio di reperibilità, un tempo d’intervento di almeno 30 minuti deve essere accordato al lavoratore; se non si trova nell’economia domestica privata, la durata del tragitto per recarsi sul luogo di lavoro e ritornare è computata sul tempo di lavoro.
+
+<sup>2</sup> Un servizio di reperibilità può essere pianificato al massimo durante 20 giorni lavorativi ogni quattro settimane. Il lavoratore può essere chiamato a intervenire al massimo durante cinque notti a settimana.
+
+<sup>3</sup> Per ogni giorno lavorativo, il servizio di reperibilità può ammontare al massimo a cinque ore ed essere diviso al massimo in tre periodi. Se durante un medesimo periodo il lavoratore deve intervenire più di due volte, l’intero periodo è considerato tempo di lavoro.
+
+[^17b-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17c
+
+**Assistenza in convivenza: periodi di riposo**[^17c-1]
+
+<sup>1</sup> Al lavoratore va garantito ogni settimana un periodo di riposo di almeno 35 ore consecutive, durante il quale è escluso il servizio di reperibilità.
+
+<sup>2</sup> Il riposo giornaliero ammonta a 11 ore. Si applica per analogia l’articolo 19 capoverso 3 dell’ordinanza 1 del 10 maggio 2000[^17c-2] concernente la legge sul lavoro.
+
+[^17c-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+[^17c-2]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
+
+#### Art. 17d
+
+**Assistenza in convivenza: pause**[^17d-1]
+
+<sup>1</sup> Al lavoratore va garantita ogni giorno una pausa di almeno 60 minuti consecutivi.
+
+<sup>2</sup> In caso di servizio di reperibilità durante la notte, il giorno successivo tra le 06.00 e le 20.00 al lavoratore va garantita una pausa di almeno due ore consecutive; lo stesso vale in caso di servizio di reperibilità durante il giorno o la sera diviso in tre periodi.
+
+<sup>3</sup> Durante le pause, il lavoratore ha il diritto di lasciare il luogo di lavoro e non è a disposizione della persona assistita.
+
+[^17d-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17e
+
+**Assistenza in convivenza: registrazione della durata del lavoro**[^17e-1]
+
+<sup>1</sup> Il prestatore di personale mette a disposizione uno strumento per registrare le ore di lavoro, il servizio di reperibilità, gli interventi durante tale servizio nonché le pause.
+
+<sup>2</sup> La persona assistita e il lavoratore vistano le ore di lavoro prestate.
+
+<sup>3</sup> Il prestatore di personale controlla e vista regolarmente e tempestivamente le schede orarie.
+
+[^17e-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
 #### Art. 18
 
 **Studi medici e dentistici**[^18-1]
 
 Agli studi medici e dentistici e alle persone in essi occupate si applica l’articolo 4 per tutta la notte e tutta la domenica, sempreché si tratti di garantire il servizio di pronto soccorso.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
 
 #### Art. 19
 
@@ -267,7 +333,7 @@ Alle farmacie e alle persone in esse occupate per la preparazione e la vendita d
 
 Ai laboratori medici e ai lavoratori in essi occupati si applicano l’articolo 4 per tutta la notte e tutta la domenica, nonché gli articoli 5, 8 capoverso 2, 9, 10 capoverso 2 lettera a e 12 capoverso 2.
 
-[^19a-1]: Introdotto dal n. I dell’O del 18 mag. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 18 mag. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
 
 #### Art. 20
 
@@ -277,7 +343,7 @@ Ai laboratori medici e ai lavoratori in essi occupati si applicano l’articolo 
 
 <sup>2</sup> Sono considerate aziende di pompe funebri le aziende che si occupano delle formalità e delle operazioni necessarie in caso di decesso.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 21
 
@@ -288,7 +354,7 @@ Agli studi veterinari e alle cliniche per animali e ai lavoratori in essi occupa
 - a. l’articolo 4 per tutta la notte e tutta la domenica nonché l’articolo 8*b* capoversi 1 e 3;
 - b. agli studi veterinari con al massimo quattro veterinari assunti si applica inoltre l’articolo 8*b* capoverso 2.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 1° dic. 2017, in vigore dal 15 gen. 2018 ([RU 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
 
 #### Art. 22
 
@@ -296,7 +362,7 @@ Agli studi veterinari e alle cliniche per animali e ai lavoratori in essi occupa
 
 Ai giardini e parchi zoologici, ai rifugi per animali e ai lavoratori in essi occupati per sorvegliare e curare gli animali, nonché per la manutenzione degli impianti e il servizio alla cassa, si applicano l’articolo 4 capoverso 1 per tutta la notte per le attività di sorveglianza e il capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1 e 12 capoverso 2.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 23
 
@@ -308,8 +374,8 @@ Ai giardini e parchi zoologici, ai rifugi per animali e ai lavoratori in essi oc
 
 <sup>3</sup> Sono considerati alberghi, ristoranti e caffè le aziende che alloggiano persone a pagamento o che servono pasti o bevande sul posto. Le aziende che consegnano pasti pronti al consumo sono equiparate ad alberghi, ristoranti e caffè.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2525](https://fedlex.data.admin.ch/eli/oc/2005/433)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 25 mag. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2525](https://fedlex.data.admin.ch/eli/oc/2005/433)).
 
 #### Art. 24
 
@@ -319,8 +385,8 @@ Ai giardini e parchi zoologici, ai rifugi per animali e ai lavoratori in essi oc
 
 <sup>2</sup> Sono considerate case da gioco le aziende titolari di una concessione d’esercizio in conformità alla legge federale del 18 dicembre 1998[^24-2] sulle case da gioco.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
-[^24-2]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)n. I 15. [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. n. I 2]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^24-2]: [[RU 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 133, [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)cifra I n. 15. [RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)all. cifra I n. 2]. Vedi ora la LF del 29 set. 2017 sui giochi in denaro ([RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)).
 
 #### Art. 25
 
@@ -347,11 +413,11 @@ Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR
 
 - d. i lavoratori ricevono per il lavoro domenicale compensazioni che superano quanto previsto dalle disposizioni di legge.[^25-5]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
-[^25-3]: Nuovo testo giusta il n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
-[^25-4]: Introdotto dal n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
-[^25-5]: Introdotto dal n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^25-4]: Introdotto dalla cifra I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^25-5]: Introdotto dalla cifra I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
 
 #### Art. 26
 
@@ -367,11 +433,11 @@ Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR
 
 <sup>4</sup> Sono considerate aziende al servizio dei viaggiatori i punti vendita e le aziende che offrono servizi nelle stazioni, negli aeroporti, in altre grandi stazioni dei trasporti pubblici e nelle località di confine, i cui prodotti o servizi offerti rispondono principalmente ai bisogni dei viaggiatori.[^26-5]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
-[^26-2]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
-[^26-3]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
-[^26-4]: Introdotto dal n. I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
-[^26-5]: Nuovo testo giusta il n. I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^26-3]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^26-4]: Introdotto dalla cifra I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
+[^26-5]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4083](https://fedlex.data.admin.ch/eli/oc/2013/747)).
 
 #### Art. 26a
 
@@ -394,8 +460,8 @@ Prima di stabilire le stazioni e gli aeroporti, il DEFR[^26a-3] consulta:
 - b. per le stazioni con una notevole importanza sul piano regionale: l’impresa ferroviaria e il Cantone interessato;
 - c. per gli aeroporti: il gestore dell’aeroporto.
 
-[^26a-1]: Introdotto dal n. I dell’O del 10 mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 963](https://fedlex.data.admin.ch/eli/oc/2006/174)).
-[^26a-2]: Nuovo testo giusta il n. I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
+[^26a-1]: Introdotto dalla cifra I dell’O del 10 mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 963](https://fedlex.data.admin.ch/eli/oc/2006/174)).
+[^26a-2]: Nuovo testo giusta la cifra I dell’O del 18 feb. 2015, in vigore dal 1° apr. 2015 ([RU 2015 669](https://fedlex.data.admin.ch/eli/oc/2015/109)).
 [^26a-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)), con effetto dal 1° gen. 2013.
 
 #### Art. 27
@@ -408,7 +474,7 @@ Prima di stabilire le stazioni e gli aeroporti, il DEFR[^26a-3] consulta:
 
 <sup>3</sup> Sono considerate panetterie, pasticcerie e confetterie le aziende che producono articoli di panetteria, pasticceria e confetteria nonché i relativi negozi, purché vendano prevalentemente gli articoli di propria produzione.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 27a
 
@@ -420,7 +486,7 @@ Prima di stabilire le stazioni e gli aeroporti, il DEFR[^26a-3] consulta:
 
 <sup>3</sup> Per aziende di trasformazione della carne si intendono le aziende che si occupano principalmente di produzione, trasformazione, valorizzazione della carne e della preparazione di prodotti a base di carne.
 
-[^27a-1]: Introdotto dal n. I dell’O del 18 mag. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^27a-1]: Introdotto dalla cifra I dell’O del 18 mag. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)). Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 28
 
@@ -446,7 +512,7 @@ Ai negozi di fiori del commercio al dettaglio e ai lavoratori in essi occupati s
 
 <sup>3</sup> Sono considerate redazioni di giornali e riviste nonché agenzie d’informazioni e agenzie fotografiche le aziende che ricevono, trattano, trasmettono o diffondono informazioni o materiale visivo.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 30a
 
@@ -458,8 +524,8 @@ Ai negozi di fiori del commercio al dettaglio e ai lavoratori in essi occupati s
 
 <sup>3</sup> Per fornitori di servizi postali si intendono le aziende che propongono ai clienti a titolo professionale l’accettazione, la raccolta, lo smistamento, il trasporto e la distribuzione di invii postali e che si assumono la responsabilità nei confronti dei clienti senza tuttavia dover fornire personalmente la totalità di questi servizi
 
-[^30a-1]: Introdotto dal n. I dell’O del 6 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 977](https://fedlex.data.admin.ch/eli/oc/2015/179)).
-[^30a-2]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+[^30a-1]: Introdotto dalla cifra I dell’O del 6 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 977](https://fedlex.data.admin.ch/eli/oc/2015/179)).
+[^30a-2]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
 
 #### Art. 31
 
@@ -473,8 +539,8 @@ Ai negozi di fiori del commercio al dettaglio e ai lavoratori in essi occupati s
 
 <sup>4</sup> Sono considerate aziende di radiodiffusione e di televisione le aziende che preparano, producono, registrano e diffondono trasmissioni radiofoniche o televisive.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
 
 #### Art. 32
 
@@ -484,7 +550,7 @@ Ai negozi di fiori del commercio al dettaglio e ai lavoratori in essi occupati s
 
 <sup>2</sup> Sono considerate aziende di telecomunicazione le aziende che gestiscono impianti atti a fornire servizi di telecomunicazione.[^32-1]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
 
 #### Art. 32a
 
@@ -495,7 +561,7 @@ Al personale con compiti legati alle tecnologie dell’informazione e della comu
 - a. eliminare perturbazioni a una struttura informatica o di rete;
 - b. garantire la manutenzione di una struttura informatica o di rete che nessuna pianificazione o misura organizzativa consente di svolgere di giorno e durante i giorni feriali.
 
-[^32a-1]: Introdotto dal n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
+[^32a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 941](https://fedlex.data.admin.ch/eli/oc/2019/168)).
 
 #### Art. 32b
 
@@ -517,8 +583,8 @@ Il riposo giornaliero dei lavoratori di cui al capoverso 1:
 
 <sup>3</sup> Sono considerate aziende delle tecnologie dell’informazione e della comunicazione le aziende che forniscono a terzi prodotti o servizi legati a tali tecnologie, come lo sviluppo, la modifica, la verifica e la manutenzione di software, la pianificazione e la progettazione di sistemi informatici che integrano tecnologie hardware, software e della comunicazione, nonché la gestione e l’utilizzo sul posto di tali sistemi informatici o di altre strutture di elaborazione dei dati per un cliente.
 
-[^32b-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
-[^32b-2]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^32b-1]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
+[^32b-2]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 33
 
@@ -576,9 +642,9 @@ All’occupazione di lavoratori in base al modello di orario di lavoro annualizz
 
 <sup>4</sup> Il datore di lavoro che occupa lavoratori in base al modello di orario di lavoro annualizzato secondo il presente articolo deve adottare, in cooperazione con i lavoratori o la loro rappresentanza, provvedimenti di prevenzione nel settore della tutela della salute che coprano in particolare i rischi psicosociali.
 
-[^34a-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
-[^34a-2]: [RS 412.105.1](https://fedlex.data.admin.ch/eli/cc/2014/488)
-[^34a-3]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^34a-1]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
+[^34a-2]: [RS 412.105.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6609)
+[^34a-3]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 35
 
@@ -594,8 +660,8 @@ All’occupazione di lavoratori in base al modello di orario di lavoro annualizz
 
 <sup>5</sup> Sono considerate teatri permanenti le aziende che organizzano spettacoli di teatro, d’opera, d’operetta, di balletto e commedie musicali.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 30 ago. 2023, in vigore dal 15 ott. 2023 ([RU 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6549](https://fedlex.data.admin.ch/eli/oc/2009/803)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 30 ago. 2023, in vigore dal 15 ott. 2023 ([RU 2023 489](https://fedlex.data.admin.ch/eli/oc/2023/489)).
 
 #### Art. 36
 
@@ -619,7 +685,7 @@ Alle sale da cinema che proiettano pellicole cinematografiche a titolo professio
 
 <sup>3</sup> Sono considerate circhi le aziende che, dietro remunerazione, intrattengono il pubblico con un programma artistico e che in genere si spostano continuamente per presentare i loro spettacoli.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 39
 
@@ -637,7 +703,7 @@ Alle sale da cinema che proiettano pellicole cinematografiche a titolo professio
 
 <sup>2</sup> Gli articoli 4 capoverso 1 e 10 capoverso 3 sono applicabili soltanto qualora il lavoro notturno sia necessario per la manutenzione degli impianti.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 41
 
@@ -649,7 +715,7 @@ Alle sale da cinema che proiettano pellicole cinematografiche a titolo professio
 
 <sup>3</sup> Sono considerate impianti di risalita le aziende che non sono titolari di una concessione federale e che gestiscono impianti per il trasporto di persone.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 42
 
@@ -657,7 +723,7 @@ Alle sale da cinema che proiettano pellicole cinematografiche a titolo professio
 
 Ai campeggi e ai lavoratori in essi occupati per l’esercizio e la manutenzione degli impianti nonché per il servizio e l’assistenza alla clientela si applicano l’articolo 4 capoverso 2 per tutta la domenica, nonché gli articoli 8 capoverso 1, 9, 12 capoverso 2, 13 e 14 capoverso 1.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 43
 
@@ -675,13 +741,13 @@ Ai campeggi e ai lavoratori in essi occupati per l’esercizio e la manutenzione
 
 <sup>6</sup> Sono considerati manifestazioni gli eventi destinati al pubblico e organizzati in particolare a scopo culturale, politico, scientifico o sportivo nonché le fiere in cui sono riuniti diversi espositori che presentano e vendono i loro prodotti.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 43a
 
 [^43a-1]
 
-[^43a-1]: Introdotto dal n. I dell’O del 20 ago. 2014 ([RU 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)). Abrogato dal n. I dell’O del 2 feb. 2022, con effetto dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^43a-1]: Introdotto dalla cifra I dell’O del 20 ago. 2014 ([RU 2014 2765](https://fedlex.data.admin.ch/eli/oc/2014/474)). Abrogato dalla cifra I dell’O del 2 feb. 2022, con effetto dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 44
 
@@ -697,7 +763,7 @@ Ai campeggi e ai lavoratori in essi occupati per l’esercizio e la manutenzione
 
 Ai lavoratori incaricati di compiti di sorveglianza e di guardia si applicano l’articolo 4 per tutta la notte, tutta la domenica e per il lavoro continuo, nonché gli articoli 6, 8 capoverso 1, 9, 10 capoversi 4 e 5, 12 capoverso 2 e 13.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
 
 #### Art. 46
 
@@ -715,7 +781,7 @@ Alle aziende del settore automobilistico e ai lavoratori in esse occupati si app
 
 <sup>3</sup> Per personale a terra della navigazione aerea si intendono i lavoratori che forniscono prestazioni volte a garantire il buon funzionamento dei servizi di volo.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2119](https://fedlex.data.admin.ch/eli/oc/2013/449)).
 
 #### Art. 48
 
@@ -725,8 +791,8 @@ Alle aziende del settore automobilistico e ai lavoratori in esse occupati si app
 
 <sup>2</sup> I lavori secondo il capoverso 1 devono implicare la chiusura parziale o totale di un impianto di trasporto esistente ed essere direttamente collegati a tale impianto.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
-[^48-2]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^48-2]: [RS 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
 
 #### Art. 48a
 
@@ -736,8 +802,8 @@ Alle aziende del settore automobilistico e ai lavoratori in esse occupati si app
 
 <sup>2</sup> L’azienda deve pubblicare nel Foglio ufficiale svizzero di commercio, almeno 14 giorni prima dell’inizio dei lavori, i cantieri in cui sono impiegati lavoratori durante la notte secondo il capoverso 1. La pubblicazione deve indicare il nome dell’azienda, il luogo d’impiego, il numero di lavoratori interessati e la durata del lavoro notturno previsto.
 
-[^48a-1]: Introdotto dal n. I dell’O del 1° set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
-[^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^48a-1]: Introdotto dalla cifra I dell’O del 1° set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
+[^48a-2]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 49
 
@@ -766,7 +832,7 @@ Alle aziende di pulizia e ai lavoratori in esse occupati per le attività di pul
   - 2\. titolare di un permesso che la autorizzi a ricorrere a un sistema di organizzazione del tempo di lavoro di 24 ore su 24, 7 giorni su 7, o
   - 3\. per la quale il lavoro notturno e domenicale è previsto da una legge.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 51a
 
@@ -781,7 +847,7 @@ Ai lavoratori che svolgono lavori di manutenzione si applica l’articolo 4 per 
 
 <sup>2</sup> Sono considerati lavori di manutenzione in particolare le riparazioni, i rinnovi e le misure volte a prevenire le interruzioni, quali le ispezioni.
 
-[^51a-1]: Introdotto dal n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^51a-1]: Introdotto dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 51b
 
@@ -789,7 +855,7 @@ Ai lavoratori che svolgono lavori di manutenzione si applica l’articolo 4 per 
 
 Alle aziende che garantiscono il servizio invernale e ai lavoratori in esse occupati per lo spargimento del sale e lo sgombero della neve si applica l’articolo 4 per tutta la notte e tutta la domenica.
 
-[^51b-1]: Introdotto dal n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
+[^51b-1]: Introdotto dalla cifra I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
 
 #### Art. 52
 
@@ -815,7 +881,7 @@ L’ordinanza 2 del 14 gennaio 1966[^53-1] per l’esecuzione della legge sul la
 
 [^54-1]
 
-[^54-1]: Abrogato dal n. IV 38 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^54-1]: Abrogato dalla cifra IV n. 38 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 55
 

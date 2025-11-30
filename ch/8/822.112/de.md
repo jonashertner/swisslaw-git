@@ -4,11 +4,11 @@ title: Verordnung 2 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 2) (Sonderbestimmun
 short: ArGV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/244"
 language: de
-version: 2023-10-15
+version: 2025-12-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20231015/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20231015-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/244/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2000-244-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/244/20231015/de"
 
 (Sonderbestimmungen für bestimmte Gruppen von Betrieben oder Arbeitnehmern und Arbeitnehmerinnen)
 
-vom 10. Mai 2000 (Stand am 15. Oktober 2023)
+vom 10. Mai 2000 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 27 des Arbeitsgesetzes vom 13. März 1964[^ingress-1] (Ges
 
 verordnet:
 
-[^ingress-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^ingress-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## 1. Abschnitt: Gegenstand und Begriffe
 
@@ -50,7 +50,7 @@ Betriebsnotwendigkeit (Art. 27 Abs. 1<sup>bis</sup> des Gesetzes) liegt vor, wen
 - a. ein Betrieb zu einer im 3. Abschnitt dieser Verordnung aufgeführten Betriebsart gehört; oder
 - b. die Voraussetzungen nach Artikel 28 der Verordnung 1 zum Arbeitsgesetz vom 10. Mai 2000[^2-1] erfüllt sind.
 
-[^2-1]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^2-1]: [SR 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 ## 2. Abschnitt: Sonderbestimmungen
 
@@ -143,7 +143,7 @@ Die einzelnen Arbeitnehmer und Arbeitnehmerinnen dürfen im Zeitraum von 4 Woche
 <sup>3</sup> In Pikettdienstnächten kann die tägliche Ruhezeit auf 9 Stunden verkürzt werden, sofern sie im Durchschnitt von 2 Wochen 12 Stunden beträgt.
 
 [^8b-1]: Eingefügt durch Ziff. I der V vom 1. Dez. 2017, in Kraft seit 15. Jan. 2018 ([AS 2018 13](https://fedlex.data.admin.ch/eli/oc/2018/6)).
-[^8b-2]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^8b-2]: [SR 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 9
 
@@ -247,6 +247,72 @@ Die Ersatzruhe für Feiertagsarbeit darf für ein Kalenderjahr zusammengefasst g
 
 <sup>2</sup> Spitex-Betriebe sind Betriebe, die spitalexterne Aufgaben für pflege- und betreuungsbedürftige Personen erfüllen.
 
+#### Art. 17a
+
+**Live-in-Betreuung: Grundsätze**[^17a-1]
+
+<sup>1</sup>
+
+Die Artikel 17*a*–17*e* gelten für:
+
+- a. Arbeitnehmer und Arbeitnehmerinnen, die zur Betreuung, zur Unterstützung in der Alltagsbewältigung und zur Erbringung von hauswirtschaftlichen Leistungen an einen privaten Haushalt verliehen werden und im Haushalt der betreuten Person wohnen (Live-in-Betreuung);
+- b. die Betriebe der Arbeitnehmer und Arbeitnehmerinnen nach Buchstabe a.
+
+<sup>2</sup> Auf die Arbeitnehmer und Arbeitnehmerinnen sowie die Betriebe nach Absatz 1 sind Artikel 4 für die ganze Nacht und den ganzen Sonntag sowie die Artikel 8 Absatz 1, 12 Absatz 2 und 14 Absatz 1 anwendbar.
+
+<sup>3</sup> Die Betriebe nach Absatz 1 Buchstabe b müssen dem Gesamtarbeitsvertrag für den Personalverleih unterstellt oder angeschlossen sein. Zudem müssen die Sozialpartner für diese Betriebe die Vergütung des Bereitschaftsdiensts sowie der Sonntags- und Nachtarbeit regeln.
+
+<sup>4</sup> Als Bereitschaftsdienst gilt ein Dienst, während dem sich der Arbeitnehmer oder die Arbeitnehmerin inner- oder ausserhalb des Haushalts ausserhalb der regulären Arbeitszeit für weitere Arbeitseinsätze bereithält.
+
+[^17a-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17b
+
+**Live-in-Betreuung: Bereitschaftsdienst**[^17b-1]
+
+<sup>1</sup> Im Bereitschaftsdienst muss dem Arbeitnehmer oder der Arbeitnehmerin eine Interventionszeit von mindestens 30 Minuten gewährt werden; befindet sich der Arbeitnehmer oder die Arbeitnehmerin nicht im Haushalt, so ist die Wegzeit zur Arbeit und von der Arbeit an die Arbeitszeit anzurechnen.
+
+<sup>2</sup> Bereitschaftsdienst darf an höchstens 20 Arbeitstagen pro vier Wochen eingeplant werden. Der Arbeitnehmer oder die Arbeitnehmerin darf dabei in höchstens 5 Nächten pro Woche zum Einsatz kommen.
+
+<sup>3</sup> Der Bereitschaftsdienst darf pro Arbeitstag höchstens 5 Stunden betragen und dabei in höchstens drei Zeitabschnitte aufgeteilt werden. Muss der Arbeitnehmer oder die Arbeitnehmerin innerhalb desselben Zeitabschnitts mehr als zweimal einen Einsatz leisten, so gilt der ganze Zeitabschnitt als Arbeitszeit.
+
+[^17b-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17c
+
+**Live-in-Betreuung: Ruhezeiten**[^17c-1]
+
+<sup>1</sup> Dem Arbeitnehmer oder der Arbeitnehmerin ist eine zusammenhängende Ruhezeit von mindestens 35 Stunden pro Woche, ohne Bereitschaftsdienst, zu gewähren.
+
+<sup>2</sup> Die tägliche Ruhezeit beträgt 11 Stunden. Artikel 19 Absatz 3 der Verordnung 1 vom 10. Mai 2000[^17c-2] zum Arbeitsgesetz gilt sinngemäss.
+
+[^17c-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+[^17c-2]: [SR 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
+
+#### Art. 17d
+
+**Live-in-Betreuung: Pause**[^17d-1]
+
+<sup>1</sup> Pro Tag muss dem Arbeitnehmer oder der Arbeitnehmerin eine zusammenhängende Pause von mindestens 60 Minuten gewährt werden.
+
+<sup>2</sup> Bei Bereitschaftsdienst in der Nacht muss dem Arbeitnehmer oder der Arbeitnehmerin am folgenden Tag zwischen 6 und 20 Uhr mindestens eine zusammenhängende Pause von zwei Stunden gewährt werden; dies gilt auch für Bereitschaftsdienst am Tag oder am Abend, der in drei Zeitabschnitte aufgeteilt ist.
+
+<sup>3</sup> Der Arbeitnehmer oder die Arbeitnehmerin hat das Recht, den Arbeitsplatz während der Pause zu verlassen; er oder sie muss der betreuten Person so lange nicht zur Verfügung stehen.
+
+[^17d-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
+#### Art. 17e
+
+**Live-in-Betreuung: Arbeitszeiterfassung**[^17e-1]
+
+<sup>1</sup> Der Personalverleiher muss dem Arbeitnehmer oder der Arbeitnehmerin ein Instrument zur Erfassung von Arbeitszeiten, Bereitschaftsdienst, Einsätzen während des Bereitschaftsdiensts und Pausen zur Verfügung stellen.
+
+<sup>2</sup> Die geleisteten Arbeitszeiten müssen von der betreuten Person und dem Arbeitnehmer oder der Arbeitnehmerin visiert werden.
+
+<sup>3</sup> Die Arbeitsrapporte müssen regelmässig zeitnah vom Personalverleiher kontrolliert und visiert werden.
+
+[^17e-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 692](https://fedlex.data.admin.ch/eli/oc/2025/692)).
+
 #### Art. 18
 
 **Arzt- und Zahnarztpraxen**[^18-1]
@@ -320,7 +386,7 @@ Auf zoologische Gärten, Tiergärten und Tierheime und die in ihnen mit der Beau
 <sup>2</sup> Spielbanken sind Betriebe, die über eine Betriebskonzession gemäss Bundesgesetz vom 18. Dezember 1998[^24-2] über die Spielbanken verfügen.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 18. Mai 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3045](https://fedlex.data.admin.ch/eli/oc/2004/393)).
-[^24-2]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2]. Siehe heute: das BG über Geldspiele vom 29. September 2017 ([SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)).
+[^24-2]: [[AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 133 [5599](https://fedlex.data.admin.ch/eli/oc/2006/826)Ziff. I 15. [AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)Anhang Ziff. I 2]. Siehe heute: das BG über Geldspiele vom 29. September 2017 ([SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)).
 
 #### Art. 25
 
@@ -458,7 +524,7 @@ Auf Blumenläden des Detailhandels und die in ihnen beschäftigten Arbeitnehmer 
 <sup>3</sup> Anbieter von Postdiensten sind Betriebe, die gewerbsmässig Postsendungen annehmen, abholen, sortieren, transportieren und zustellen und für diese Dienstleistungen die Verantwortung gegenüber den Kunden tragen, ohne aber alle diese Dienstleistungen selbst erbringen zu müssen.
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 6. März 2015, in Kraft seit 1. Juli 2015 ([AS 2015 977](https://fedlex.data.admin.ch/eli/oc/2015/179)).
-[^30a-2]: [SR 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
+[^30a-2]: [SR 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
 
 #### Art. 31
 
@@ -517,7 +583,7 @@ Betreffend die tägliche Ruhezeit der Arbeitnehmer und Arbeitnehmerinnen nach Ab
 <sup>3</sup> Als IKT-Betriebe gelten Betriebe, die Dritten IKT-Produkte oder -Dienstleistungen anbieten, wie die Entwicklung, die Anpassung, das Testen und die Pflege von Software, die Planung und den Entwurf von Computersystemen, welche Hardware-, Software- und Kommunikationstechnologie umfassen, und die Verwaltung und den Betrieb solcher Computersysteme oder anderer Datenverarbeitungsanlagen eines Kunden vor Ort.
 
 [^32b-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
-[^32b-2]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^32b-2]: [SR 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 33
 
@@ -576,8 +642,8 @@ Für die Beschäftigung von Arbeitnehmern und Arbeitnehmerinnen nach dem Jahresa
 <sup>4</sup> Arbeitgeber, die Arbeitnehmer und Arbeitnehmerinnen nach dem Jahresarbeitszeitmodell nach diesem Artikel beschäftigen, müssen unter Mitwirkung der Arbeitnehmer und Arbeitnehmerinnen oder der Arbeitnehmervertretung Präventionsmassnahmen im Bereich des Gesundheitsschutzes treffen, die insbesondere die psychosozialen Risiken abdecken.
 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 260](https://fedlex.data.admin.ch/eli/oc/2023/260)).
-[^34a-2]: [SR 412.105.1](https://fedlex.data.admin.ch/eli/cc/2014/488)
-[^34a-3]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^34a-2]: [SR 412.105.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6609)
+[^34a-3]: [SR 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 35
 
@@ -725,7 +791,7 @@ Auf Betriebe des Autogewerbes und die in ihnen beschäftigten Arbeitnehmer und A
 <sup>2</sup> Die Arbeiten nach Absatz 1 müssen eine teilweise oder vollständige Stilllegung der Transportanlage erfordern und in direktem Zusammenhang mit dieser stehen.
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022 , in Kraft seit 1. April 2022 ([AS 2022 101](https://fedlex.data.admin.ch/eli/oc/2022/101)).
-[^48-2]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
+[^48-2]: [SR 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
 
 #### Art. 48a
 
@@ -736,7 +802,7 @@ Auf Betriebe des Autogewerbes und die in ihnen beschäftigten Arbeitnehmer und A
 <sup>2</sup> Der Betrieb muss Baustellen, auf denen Arbeitnehmerinnen und Arbeitnehmer nach Absatz 1 in der Nacht eingesetzt werden, mindestens 14 Tage vor Arbeitsbeginn im Schweizerischen Handelsamtsblatt publizieren. In der Publikation müssen der Name des Betriebs, der Einsatzort, die Anzahl der betroffenen Arbeitnehmerinnen und Arbeitnehmer und die Dauer der geplanten Nachtarbeit ersichtlich sein.
 
 [^48a-1]: Eingefügt durch Ziff. I der V vom 1. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 543](https://fedlex.data.admin.ch/eli/oc/2021/543)).
-[^48a-2]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^48a-2]: [SR 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 49
 
