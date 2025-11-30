@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2025-08-01
+version: 2025-12-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250801/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250801-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,16 +19,17 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Last amended on 1 August 2025)
+of 4 December 2015 (Last amended on 1 December 2025)
 
 The Swiss Federal Council,
 
-on the basis of Articles 29, 30*a* letter c, 30*b* paragraph 1, 30*c* paragraph 3, 30*d* letter a, 30*h* paragraph 1, 39 paragraph 1, 45 and 46 paragraph 2 of the Environmental Protection Act of 7 October 1983[^ingress-1] (EPA), and Articles 9 paragraph 2 letter c, 16 letter c and 47 paragraph 1 of the Waters Protection Act from 24 January 1991[^ingress-2],
+on the basis of Articles 29, 30*a* letter c, 30*b* paragraph 1, 30*c* paragraph 3, 30*d* paragraphs 4 and 7, 30*h* paragraph 1, 39 paragraph 1, 45 and 46 paragraph 2 of the Environmental Protection Act of 7 October 1983[^ingress-1] (EPA), and Articles 9 paragraph 2 letter c, 16 letter c and 47 paragraph 1 of the Waters Protection Act from 24 January 1991[^ingress-2],[^ingress-3]
 
 ordains:
 
 [^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-3]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 ## Chapter 1 Aim, Scope of Application and Definitions
 
@@ -257,15 +258,55 @@ Biogenic waste must be recovered solely by recycling or by fermentation, provide
 
 #### Art. 15
 
-**Phosphorus-rich waste**
+**Phosphorus-rich waste**[^15-1]
 
-<sup>1</sup> Phosphorus must be recovered from municipal waste water, from sewage sludge from central waste water treatment plants or from the ash produced by the incineration of such sewage sludge and then recycled.
+<sup>1</sup> Phosphorus must be recovered from municipal waste water, from sewage sludge from central waste water treatment plants and from the ash produced by the incineration of such sewage sludge, and then recycled.
 
 <sup>2</sup> Phosphorus in animal and bone meal must be recycled, unless the animal and bone meal is used as animal feedstuffs.
 
-<sup>3</sup> When recovering phosphorous from waste in accordance with paragraph 1 or 2, the pollutants in the waste must be removed according to the state of the art. If the phosphorous recovered is used to manufacture a fertiliser, the requirements of Annex 2.6 Number 2.2.2.2 ORRChem must also be met.[^15-1]
+<sup>3</sup> The provisions on the recycling of phosphorus-rich waste also apply to imported sewage sludge and imported animal and bone meal.
 
-[^15-1]: Amended by Annex 5 No II 2 of the O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). The correction of 22 April 2025 concerns the French text only ([AS 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
+[^15-1]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15a
+
+**Recovery of phosphorus from phosphorus-rich waste**[^15a-1]
+
+<sup>1</sup> When recovering phosphorus from phosphorus-rich waste, the pollutants in the waste must be removed according to the state of the art.
+
+<sup>2</sup> When recovering phosphorus from municipal wastewater, sewage sludge from central waste water treatment plants and the ash produced by the incineration of such sewage sludge, at least 16 kilograms of phosphorus per tonne of sewage sludge dry matter must be recovered to meet domestic demand.
+
+<sup>3</sup> Phosphorus from animal and bone meal must be fully recovered.
+
+[^15a-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15b
+
+**Proof of phosphorus recovery**[^15b-1]
+
+<sup>1</sup> Any person disposing of phosphorus-rich waste must provide the cantonal authority with proof that the prescribed amount of phosphorus is being recovered.
+
+<sup>2</sup> Where it is proven that the prescribed amount of phosphorus is being recovered from waste water, sewage sludge or sewage sludge ash, any excess sewage sludge may be recycled primarily for material and energy recovery and subsequently for energy recovery alone, without any phosphorus recovery.
+
+<sup>3</sup> If domestic treatment capacities for phosphorus recovery are insufficient to provide the proof required under paragraphs 1 and 2, waste producers shall provide the cantonal authorities with proof of the shortfall in treatment capacity. In such cases, the enforcement authority may grant authorisation primarily for the recycling of sewage sludge or animal and bone meal for material and energy recovery, and secondarily for the energy recovery alone.
+
+[^15b-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15c
+
+**Reporting and verification of phosphorus recovery**[^15c-1]
+
+<sup>1</sup>
+
+The cantonal authority shall submit an annual report to the FOEN on:
+
+- a. the quantities of sewage sludge dry matter and animal and bone meal that were used for phosphorus recovery;
+- b. the quantity of phosphorus recovered; and
+- c. the quantities of sewage sludge dry matter and animal and bone meal that were recycled for material and energy recovery or energy recovery alone.
+
+<sup>2</sup> Every 8–10 years, the FOEN, in consultation with the cantons and industries, shall review the adequacy of the quantity of phosphorus to be recovered in accordance with Article 15*a* paragraphs 2 and 3; it shall propose appropriate measures to DETEC.
+
+[^15c-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 16
 
@@ -781,25 +822,19 @@ The amendment of other legislation is regulated in Annex 6.
 
 #### Art. 49
 
-**Municipal waste**
+**und **50**[^4950-1]**
 
-<sup>1</sup> Articles 3 letter a and 13 paragraph 4 apply from 1 January 2019.
-
-<sup>2</sup> Until 31 December 2018, waste from households and waste of similar composition is deemed to be municipal waste.
-
-#### Art. 50
-
-**Reporting**[^50-1]
-
-The duty to report in accordance with Article 6 applies from 1 January 2021.
-
-[^50-1]: Amended by No I of the O of 21 Sept. 2018, in force since 1 Nov. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^4950-1]: Repealed by No I of the O of 29 Oct. 2025, with effect from 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 51
 
-**Phosphorus-rich waste**
+**Phosphorus-rich waste**[^51-1]
 
-The duty to recover phosphorus in accordance with Article 15 applies from 1 January 2026.
+<sup>1</sup> The cantonal authority must incorporate plans for the recovery of phosphorus from phosphorus-rich waste into its sewage sludge disposal plan and waste management plan by 1 January 2028 and submit them to the FOEN.
+
+<sup>2</sup> From this point onwards, producers of sewage sludge and animal and bone meal must provide the competent cantonal authority with the proof required under Article 15*b*.
+
+[^51-1]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 52
 
@@ -864,6 +899,15 @@ Residues from the incineration of waste shall have as low a content of dioxins (
 
 [^54-1]: Amended by No I of the O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 [^54-2]: Amended by No I of the O of 11 Dec. 2020, in force since 1 Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+
+#### Art. 54a
+
+**Amendment of another enactment**[^54a-1]
+
+…[^54a-2]
+
+[^54a-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^54a-2]: The amendment may be consulted under [AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745).
 
 ### Section 4 Commencement
 
@@ -1197,7 +1241,7 @@ Annex 4[^t-4]
 
 ## Requirements applicable to waste from the production of cement and concrete
 
-[^t-4]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), No III of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) and No II of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^t-4]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), No III of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), No II of 25 June 2025([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) and of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 ### 1 Using waste as a raw material and as a corrective substance to raw meal
 
@@ -1285,7 +1329,7 @@ Annex 4[^t-4]
   - b. waste wood and wood residues, with the exception of waste wood and wood residues that have been impregnated with wood preservatives in a printing process, are coated with halogenated organic compounds or have been treated intensively with wood preservatives such as pentachlorophenol, unless they are treated in the firing process at a minimum temperature of 1100 °C for at least 2 seconds;
   - c. unmixed paper, cardboard, textile or plastic waste, unless recycling according to the state of the art is possible;
   - d. organic solvents and used oil, with the exception of organic solvents and used oil that do not meet the limit values for PCBs and halogenated organic substances in number 2.2 letter a, unless they are treated in the firing process at a minimum temperature of 1100 °C for at least 2 seconds;
-  - e. sewage sludge from central waste water treatment plants, animal and bone meal, provided any phosphorus has been removed beforehand in accordance with Article 15.
+  - e. sewage sludge from central waste water treatment plants, animal and bone meal, provided the requirements in Articles 15–15*b* are met.
 
 - 2\.2
 
@@ -1312,8 +1356,10 @@ Annex 4[^t-4]
 <tr><td colspan="2">\* ∑6 congeners × 4.3 (IUPAC\_No.): 28, 52, 101, 138, 153, 180</td></tr>
 </table>
 
-- b. does not contain medical waste;
-- c. does not contain unsafe waste, such as explosive or self-igniting waste.
+-
+
+  - b. does not contain medical waste;
+  - c. does not contain unsafe waste, such as explosive or self-igniting waste.
 
 - 2\.3
 
@@ -1421,7 +1467,9 @@ Annex 5[^t-5]
 <tr><td>Zinc</td><td>6000</td></tr>
 </table>
 
-- In specific cases and in agreement with the Federal Office, the authority may permit higher heavy metal concentrations in the operating licence if this results in less environmental impact than any other form of disposal.
+-
+
+  - In specific cases and in agreement with the Federal Office, the authority may permit higher heavy metal concentrations in the operating licence if this results in less environmental impact than any other form of disposal.
 
 - 2\.3
 
@@ -1647,8 +1695,10 @@ Test 2
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* See the explanatory notes for number 2.3 letter b</td></tr>
 </table>
 
-- b. the proportion of soluble salts in the untreated waste does not exceed 5 per cent by weight;
-- c. the concentration of free cyanide in the eluate of the waste does not exceed 0.03 mg per l; to determine this, the waste must be submitted to a leaching test over a period of 24 hours in distilled water.
+-
+
+  - b. the proportion of soluble salts in the untreated waste does not exceed 5 per cent by weight;
+  - c. the concentration of free cyanide in the eluate of the waste does not exceed 0.03 mg per l; to determine this, the waste must be submitted to a leaching test over a period of 24 hours in distilled water.
 
 - 5\.3 In specific cases, the cantonal authority may with the FOEN’s consent authorise the deposit of waste that is not in mentioned number 5.1 and which does not satisfy the requirements of number 5.2, provided no form of disposal other than landfill is technically feasible.
 - 5\.4 Waste that is permitted in Type A landfills and compartments may be deposited in Type E landfills and compartments as a levelling layer before surface closure, provided no waste in accordance with numbers 5.1‑5.3 is used.

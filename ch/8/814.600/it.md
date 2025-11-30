@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2025-08-01
+version: 2025-12-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° agosto 2025)
+del 4 dicembre 2015 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 29, 30*a* lettera c, 30*b* capoverso 1, 30*c* capoverso 3, 30*d* lettera a, 30*h* capoverso 1, 39 capoverso 1, 45 e 46 capoverso 2 della legge del 7 ottobre 1983[^ingress-1] sulla protezione dell’ambiente (LPAmb); visti gli articoli 9 capoverso 2 lettera c, 16 lettera c e 47 capoverso 1 della legge federale del 24 gennaio 1991[^ingress-2] sulla protezione delle acque,
+visti gli articoli 29, 30*a* lettera c, 30*b* capoverso 1, 30*c* capoverso 3, 30*d* capoversi 4 e 7, 30*h* capoverso 1, 39 capoverso 1, 45 e 46 capoverso 2 della legge del 7 ottobre 1983[^ingress-1] sulla protezione dell’ambiente (LPAmb); visti gli articoli 9 capoverso 2 lettera c, 16 lettera c e 47 capoverso 1 della legge federale del 24 gennaio 1991[^ingress-2] sulla protezione delle acque,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 ## Capitolo 1: Scopo, campo d’applicazione e definizioni
 
@@ -255,15 +256,55 @@ I rifiuti biogeni devono essere riciclati esclusivamente come materiale oppure m
 
 #### Art. 15
 
-**Rifiuti contenenti fosforo**
+**Rifiuti contenenti fosforo**[^15-1]
 
-<sup>1</sup> Il fosforo contenuto nelle acque di scarico comunali, nei fanghi di depurazione provenienti dagli impianti centrali di depurazione delle acque di scarico o dalle ceneri risultanti dal trattamento termico di tali fanghi di depurazione dev’essere recuperato e riciclato.
+<sup>1</sup> Il fosforo contenuto nelle acque di scarico comunali, nei fanghi di depurazione provenienti dagli impianti centrali di depurazione delle acque di scarico e dalle ceneri risultanti dal trattamento termico di tali fanghi di depurazione dev’essere recuperato e riciclato.
 
 <sup>2</sup> Il fosforo presente nelle farine animali e ossee dev’essere riciclato, sempre che tali farine non siano impiegate come alimenti per animali.
 
-<sup>3</sup> Nel processo di recupero del fosforo dai rifiuti di cui al capoverso 1 o 2 le sostanze nocive contenute in detti rifiuti devono essere eliminate utilizzando le più recenti tecnologie. Se il fosforo recuperato è impiegato per la produzione di un concime devono essere soddisfatti i requisiti di cui all’allegato 2.6 numero 2.2.2.1 ORRPChim.[^15-1]
+<sup>3</sup> Le disposizioni sul riciclaggio di rifiuti contenenti fosforo si applicano anche ai fanghi di depurazione e alle farine animali e ossee importati.
 
-[^15-1]: Nuovo testo giusta l’all. 5 cifra II n. 2 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). La correzione del 22 apr. 2025 concerne soltanto il testo francese ([RU 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15a
+
+**Recupero del fosforo da rifiuti contenenti fosforo**[^15a-1]
+
+<sup>1</sup> Nel processo di recupero del fosforo da rifiuti contenenti fosforo, le sostanze nocive contenute in detti rifiuti devono essere eliminate utilizzando le più recenti tecnologie.
+
+<sup>2</sup> Nel processo di recupero del fosforo da acque di scarico comunali, fanghi di depurazione provenienti dagli impianti centrali di depurazione delle acque di scarico e ceneri risultanti dal trattamento termico di tali fanghi di depurazione, per coprire il fabbisogno interno devono essere recuperati almeno 16 kg di fosforo per tonnellata di sostanza secca di fanghi di depurazione.
+
+<sup>3</sup> Il fosforo presente nelle farine animali e ossee deve essere interamente recuperato.
+
+[^15a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15b
+
+**Prova del recupero del fosforo**[^15b-1]
+
+<sup>1</sup> Chi fornisce rifiuti contenenti fosforo deve fornire all’autorità cantonale la prova che la quantità di fosforo prescritta è recuperata.
+
+<sup>2</sup> Se è fornita la prova che la quantità di fosforo prescritta è recuperata da acque di scarico, dai fanghi di depurazione o dalle ceneri dei fanghi di depurazione, la quantità eccedente di fanghi di depurazione dalla quale non sarà recuperato il fosforo può essere riciclata in via prioritaria dal punto di vista materiale-energetico e in seguito esclusivamente dal punto di vista energetico.
+
+<sup>3</sup> Se le capacità di trattamento per il recupero del fosforo in Svizzera non sono sufficienti per fornire la prova di cui ai capoversi 1 e 2, i fornitori di rifiuti forniscono alle autorità cantonali la prova della capacità di trattamento insufficiente. In questi casi, l’autorità esecutiva può autorizzare in via prioritaria il riciclaggio materiale combinato con quello energetico e secondariamente il solo riciclaggio energetico di fanghi di depurazione o di farine animali e ossee.
+
+[^15b-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15c
+
+**Resoconto e verifica del recupero del fosforo**[^15c-1]
+
+<sup>1</sup>
+
+L’autorità cantonale presenta all’UFAM un rapporto annuale in merito:
+
+- a. alle quantità di sostanza secca di fanghi di depurazione e di farine animali e ossee utilizzate per il recupero del fosforo;
+- b. alla quantità di fosforo recuperata; e
+- c. alle quantità di sostanza secca di fanghi di depurazione e di farine animali e ossee utilizzate per il riciclaggio materiale combinato con quello energetico o per il solo riciclaggio energetico.
+
+<sup>2</sup> Ogni otto–dieci anni, l’UFAM verifica, d’intesa con i Cantoni e i rami interessati, l’adeguatezza della quantità di fosforo da recuperare secondo l’articolo 15*a* capoversi 2 e 3 e propone al DATEC le misure del caso.
+
+[^15c-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 16
 
@@ -772,27 +813,21 @@ La modifica di altri atti normativi è disciplinata nell’allegato 6.
 
 ### Sezione 3: Disposizioni transitorie
 
-#### Art. 49
+#### Art. 49 e50
 
-**Rifiuti urbani**
+[^4950-1]
 
-<sup>1</sup> Gli articoli 3 lettera a e 13 capoverso 4 si applicano dal 1° gennaio 2019.
-
-<sup>2</sup> Fino al 31 dicembre 2018 sono considerati rifiuti urbani quelli che provengono dalle economie domestiche e altri rifiuti di composizione analoga.
-
-#### Art. 50
-
-**Resoconto**[^50-1]
-
-L’obbligo di presentare un resoconto secondo l’articolo 6 vige dal 1° gennaio 2021.
-
-[^50-1]: Nuovo testo giusta la cifra I dell’O del 21 set. 2018, in vigore dal 1° nov. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^4950-1]: Abrogati dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 51
 
-**Rifiuti contenenti fosforo**
+**Rifiuti contenenti fosforo**[^51-1]
 
-L’obbligo di recuperare il fosforo dai rifiuti secondo l’articolo 15 vige dal 1° gennaio 2026.
+<sup>1</sup> Entro il 1° gennaio 2028, l’autorità cantonale deve integrare, nel piano di smaltimento dei fanghi di depurazione e nel piano di gestione dei rifiuti, il piano per il recupero del fosforo da rifiuti contenenti fosforo e inoltrarlo all’UFAM.
+
+<sup>2</sup> A partire da tale data, i fornitori di fanghi di depurazione e di farine animali e ossee devono fornire all’autorità cantonale competente la prova di cui all’articolo 15*b*.
+
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 52
 
@@ -857,6 +892,15 @@ Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattament
 
 [^54-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 [^54-2]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+
+#### Art. 54a
+
+**Modifica di un altro atto normativo**[^54a-1]
+
+...[^54a-2]
+
+[^54a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^54a-2]: La mod. può essere consultata alla [RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745).
 
 ### Sezione 4: Entrata in vigore
 
@@ -1190,7 +1234,7 @@ Allegato 4[^t-4]
 
 ## Requisiti applicabili ai rifiuti impiegati per la fabbricazione di cemento e calcestruzzo
 
-[^t-4]: Aggiornato dalla cifra II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), dalla cifra III dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) e dalle cifre I, II dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^t-4]: Aggiornato dalla cifra II dell’O del 12 feb. 2020 ([RU 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), dalla cifra III dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), dalle cifre I, II dell’O del 25 giu. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) e dalla cifra II dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 ### 1 Utilizzo dei rifiuti come materia prima e come sostanza di correzione della farina cruda
 
@@ -1279,7 +1323,7 @@ Allegato 4[^t-4]
   - b. il legname di scarto e i rifiuti di legname; se impregnati con prodotti per la protezione del legno mediante un procedimento a getto o ricoperti con un rivestimento contenente composti organo-alogenati oppure trattati in modo intensivo con prodotti per la protezione del legno come il pentaclorofenolo, il legname di scarto e i rifiuti di legname possono essere impiegati soltanto se, in fase di riscaldamento, vengono trattati a una temperatura minima di 1100° C per almeno due secondi;
   - c. i rifiuti di carta, cartone, materie tessili o plastica, selezionati secondo la tipologia, se non è possibile riciclarli secondo metodi conformi allo stato della tecnica;
   - d. i solventi organici e gli oli esausti; se non superano i valori limite prescritti per i PCB e non contengono sostanze organiche alogenate secondo il numero 2.2 lettera a, i solventi organici e gli oli esausti possono essere impiegati soltanto se, in fase di riscaldamento, vengono trattati a una temperatura minima di 1100° C per almeno due secondi;
-  - e. i fanghi di depurazione provenienti dagli impianti di depurazione delle acque di scarico e le farine animali e ossee, se il fosforo è stato precedentemente recuperato conformemente all’articolo 15.
+  - e. i fanghi di depurazione provenienti dagli impianti centrali di depurazione delle acque di scarico e le farine animali e ossee, se sono soddisfatte le prescrizioni di cui agli articoli 15, 15*a* e 15*b*.
 
 - 2\.2
 
@@ -1306,8 +1350,10 @@ Allegato 4[^t-4]
 <tr><td colspan="2">\* ∑6 congeneri × 4,3 (n. IUPAC): 28, 52, 101, 138, 153, 180</td></tr>
 </table>
 
-- b. non contengono rifiuti sanitari;
-- c. non contengono rifiuti pericolosi per la sicurezza, come rifiuti esplosivi o soggetti a combustione spontanea.
+-
+
+  - b. non contengono rifiuti sanitari;
+  - c. non contengono rifiuti pericolosi per la sicurezza, come rifiuti esplosivi o soggetti a combustione spontanea.
 
 - 2\.3
 
@@ -1640,8 +1686,10 @@ Test 2
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* cfr. le spiegazioni al numero 2.3 lett. b</td><td></td></tr>
 </table>
 
-- b. la quota di sali solubili nei rifiuti non trattati non supera il cinque per cento in peso;
-- c. nell’eluito dei rifiuti non è superato il valore limite per il cianuro (libero) pari a 0,3 mg CN/l. A tal fine, per 24 ore va eseguito un test di eluizione dei rifiuti in acqua distillata.
+-
+
+  - b. la quota di sali solubili nei rifiuti non trattati non supera il cinque per cento in peso;
+  - c. nell’eluito dei rifiuti non è superato il valore limite per il cianuro (libero) pari a 0,3 mg CN/l. A tal fine, per 24 ore va eseguito un test di eluizione dei rifiuti in acqua distillata.
 
 - 5\.3 Nei singoli casi, previa approvazione dell’UFAM, l’autorità cantonale può autorizzare il deposito di rifiuti non menzionati nel numero 5.1 e che non soddisfano i requisiti di cui al numero 5.2, a condizione che, per ragioni di ordine tecnico, non sia possibile smaltirli in altro modo.
 - 5\.4 I rifiuti il cui deposito è ammesso nelle discariche e nei compartimenti di tipo A possono essere depositati in discariche e compartimenti di tipo E come strato di livellamento prima che venga ricoperta la superficie, sempre che, per farlo, non possano essere utilizzati rifiuti di cui ai numeri 5.1–5.3.

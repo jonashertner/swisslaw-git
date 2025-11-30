@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2025-08-01
+version: 2025-12-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 1<sup>er</sup> août 2025)
+du 4 décembre 2015 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 29, 30*a*, let. c, 30*b*, al. 1, 30*c*, al. 3, 30*d*, let. a, 30*h*, al. 1, 39, al. 1, 45 et 46, al. 2, de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-1], vu les art. 9, al. 2, let. c, 16, let. c, et 47, al. 1, de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^ingress-2],
+vu les art. 29, 30*a*, let. c, 30*b*, al. 1, 30*c*, al. 3, 30*d*, al. 4 et 7, 30*h*, al. 1, 39, al. 1, 45 et 46, al. 2, de la loi du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-1], vu les art. 9, al. 2, let. c, 16, let. c, et 47, al. 1, de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 ## Chapitre 1 But, champ d’application et définitions
 
@@ -254,15 +255,55 @@ Les biodéchets doivent faire l’objet d’une valorisation matière ou d’une
 
 #### Art. 15
 
-**Déchets riches en phosphore**
+**Déchets riches en phosphore**[^15-1]
 
-<sup>1</sup> Le phosphore contenu dans les eaux usées communales, les boues d’épuration des stations centrales d’épuration des eaux usées ou les cendres résultant du traitement thermique de ces boues doit être récupéré et faire l’objet d’une valorisation matière.
+<sup>1</sup> Le phosphore contenu dans les eaux usées communales, les boues d’épuration des stations centrales d’épuration des eaux usées et les cendres résultant du traitement thermique de ces boues doit être récupéré et faire l’objet d’une valorisation matière.
 
 <sup>2</sup> Le phosphore contenu dans les farines animales et les poudres d’os doit faire l’objet d’une valorisation matière, à moins que ces farines et poudres ne soient utilisées comme fourrage.
 
-<sup>3</sup> Lors de la récupération du phosphore contenu dans les déchets visés aux al. 1 ou 2, les polluants présents doivent être éliminés selon l’état de la technique. Si le phosphore récupéré est utilisé pour la fabrication d’un engrais, il faut en plus satisfaire aux exigences figurant dans l’annexe 2.6, ch. 2.2.2.1, ORRChim.[^15-1]
+<sup>3</sup> Les dispositions relatives à la valorisation des déchets riches en phosphore s’appliquent également aux boues d’épuration, farines animales et poudres d’os importées.
 
-[^15-1]: Nouvelle teneur selon l’annexe 5 ch. II 2 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). Erratum du 22 avr. 2025 ([RO 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15a
+
+**Récupération du phosphore contenu dans les déchets riches en phosphore**[^15a-1]
+
+<sup>1</sup> Lors de la récupération du phosphore contenu dans les déchets riches en phosphore, les polluants présents doivent être éliminés selon l’état de la technique.
+
+<sup>2</sup> Lors de la récupération du phosphore contenu dans les eaux usées communales, les boues d’épuration des stations centrales d’épuration des eaux usées et les cendres résultant du traitement thermique de ces boues, au moins 16 kg de phosphore par tonne de matière sèche de boues d’épuration doivent être récupérés pour couvrir la demande indigène.
+
+<sup>3</sup> Le phosphore contenu dans les farines animales et les poudres d’os doit être entièrement récupéré.
+
+[^15a-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15b
+
+**Preuve de la récupération du phosphore**[^15b-1]
+
+<sup>1</sup> Quiconque remet des déchets riches en phosphore doit prouver à l’autorité cantonale que la quantité de phosphore prescrite est récupérée.
+
+<sup>2</sup> Si la preuve est apportée que la quantité de phosphore prescrite a été récupérée dans les eaux usées, les boues d’épuration ou les cendres de celles-ci, l’excédent des boues d’épuration peut être dispensé de récupération du phosphore et faire l’objet prioritairement d’une valorisation matière et énergie, puis d’une valorisation énergie.
+
+<sup>3</sup> Si les capacités de traitement en Suisse pour la récupération du phosphore ne suffisent pas pour apporter la preuve visée aux al. 1 et 2, les entreprises remettant des déchets fournissent aux autorités cantonales la preuve de l’insuffisance des capacités de traitement. En pareil cas, l’autorité d’exécution autorise prioritairement la valorisation matière et énergie, puis la valorisation énergie, des boues d’épuration, des farines animales ou des poudres d’os.
+
+[^15b-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15c
+
+**Rapports et vérification de la récupération du phosphore**[^15c-1]
+
+<sup>1</sup>
+
+L’autorité cantonale rapporte chaque année à l’OFEV:
+
+- a. les quantités de matière sèche issue des boues d’épuration ainsi que les quantités de farines animales et de poudres d’os qui ont fait l’objet d’une récupération du phosphore;
+- b. la quantité de phosphore récupérée, et
+- c. les quantités de matière sèche issue des boues d’épuration ainsi que les quantités de farines animales et de poudres d’os qui ont fait l’objet d’une valorisation matière et énergie ou d’une valorisation énergie.
+
+<sup>2</sup> L’OFEV vérifie tous les 8 à 10 ans, avec le concours des cantons et des secteurs concernés, l’adéquation de la quantité de phosphore à récupérer fixée à l’al. 15*a*, al. 2 et 3; il propose au DETEC les mesures correspondantes.
+
+[^15c-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 16
 
@@ -773,27 +814,21 @@ La modification d’autres actes est réglée dans l’annexe 6.
 
 ### Section 3 Dispositions transitoires
 
-#### Art. 49
+#### Art. 49 et 50
 
-**Déchets urbains**
+[^4950-1]
 
-<sup>1</sup> Les art. 3, let. a, et 13, al. 4, sont applicables à partir du 1<sup>er</sup> janvier 2019.
-
-<sup>2</sup> Jusqu’au 31 décembre 2018, sont réputés déchets urbains les déchets provenant des ménages ainsi que les autres déchets de composition analogue.
-
-#### Art. 50
-
-**Rapport**[^50-1]
-
-L’obligation de rendre compte visée à l’art. 6 s’applique à partir du 1<sup>er</sup> janvier 2021.
-
-[^50-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^4950-1]: Abrogés par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 51
 
-**Déchets riches en phosphore**
+**Déchets riches en phosphore**[^51-1]
 
-L’obligation de récupérer le phosphore selon l’art. 15 est applicable à partir du 1<sup>er</sup> janvier 2026.
+<sup>1</sup> D’ici au 1<sup>er</sup> janvier 2028, l’autorité cantonale intègre à son plan d’élimination des boues d’épuration et à son plan de gestion des déchets une planification de la récupération du phosphore dans les déchets riches en phosphore, qu’elle remet à l’OFEV.
+
+<sup>2</sup> Dès l’échéance de ce délai, les entreprises remettant des boues d’épuration ainsi que des farines animales et des poudres d’os doivent fournir à l’autorité cantonale compétente la preuve visée à l’art. 15*b*.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 52
 
@@ -858,6 +893,15 @@ Les résidus du traitement thermique des déchets doivent contenir aussi peu de 
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 [^54-2]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+
+#### Art. 54a
+
+**Modification d’un autre acte**[^54a-1]
+
+…[^54a-2]
+
+[^54a-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^54a-2]: La mod. peut être consultée au [RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745).
 
 ### Section 4 Entrée en vigueur
 
@@ -1191,7 +1235,7 @@ Annexe 4[^t-4]
 
 ## Exigences relatives aux déchets utilisés pour la fabrication de ciment et de béton
 
-[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), le ch. III de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) et le ch. II de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^t-4]: Mise à jour par l’erratum du 3 oct. 2017 ([RO 2017 5137](https://fedlex.data.admin.ch/eli/oc/2017/561)), le ch. II de l’O du 12 fév. 2020 ([RO 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), le ch. III de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), le ch. II des O du 25 juin 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) et du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 ### 1 Utilisation de déchets comme matières premières ou agents de correction du cru
 
@@ -1279,7 +1323,7 @@ Annexe 4[^t-4]
   - b. le bois usagé et les déchets de bois; sont exceptés ceux qui ont été traités avec des produits de conservation du bois selon un procédé d’imprégnation sous pression, ceux qui présentent des revêtements constitués de composés organiques halogénés et ceux qui ont subi un traitement intensif avec des produits de conservation du bois tels que le pentachlorophénol, pour autant qu’ils ne soient pas traités dans un foyer à une température d’au moins 1100 °C pendant au moins 2 secondes;
   - c. les déchets mono-matériaux de papier, de carton, de textiles ou de matières plastiques, si la valorisation matière n’est pas possible selon l’état de la technique;
   - d. les solvants organiques et les huiles usagées; sont exceptés ceux qui ne respectent pas les valeurs limites pour les PCB et les composés organiques halogénés selon le ch. 2.2, let. a, pour autant qu’ils ne soient pas traités dans un foyer à une température d’au moins 1100 °C pendant au moins 2 secondes;
-  - e. les boues d’épuration provenant de stations centrales d’épuration des eaux usées, les farines animales et la poudre d’os, si le phosphore a été récupéré au préalable selon l’art. 15.
+  - e. les boues d’épuration provenant de stations centrales d’épuration des eaux usées, les farines animales et les poudres d’os, si les prescriptions des art. 15 à 15*b* sont remplies.
 
 - 2\.2
 
@@ -1306,8 +1350,10 @@ Annexe 4[^t-4]
 <tr><td colspan="2">\* ∑6 congénères × 4,3 (UICPA n<sup>o</sup>): 28, 52, 101, 138, 153, 180</td></tr>
 </table>
 
-- b. s’ils ne contiennent pas de déchets médicaux;
-- c. s’ils ne contiennent pas de déchets présentant un risque pour la sécurité tels que des explosifs ou des matières spontanément inflammables.
+-
+
+  - b. s’ils ne contiennent pas de déchets médicaux;
+  - c. s’ils ne contiennent pas de déchets présentant un risque pour la sécurité tels que des explosifs ou des matières spontanément inflammables.
 
 - 2\.3
 
@@ -1640,8 +1686,10 @@ Test 2
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* selon les explications du ch. 2.3, let. b</td><td></td></tr>
 </table>
 
-- b. si la part de sels solubles dans les déchets non traités ne dépasse pas 5 % (en poids);
-- c. si la valeur limite de 0,3 mg de cyanure (libre) par litre n’est pas dépassée dans le lixiviat des déchets; à cet effet, les déchets sont soumis à un test de lixiviation dans de l’eau distillée pendant 24 heures.
+-
+
+  - b. si la part de sels solubles dans les déchets non traités ne dépasse pas 5 % (en poids);
+  - c. si la valeur limite de 0,3 mg de cyanure (libre) par litre n’est pas dépassée dans le lixiviat des déchets; à cet effet, les déchets sont soumis à un test de lixiviation dans de l’eau distillée pendant 24 heures.
 
 - 5\.3 L’autorité cantonale peut, au cas par cas et avec l’accord de l’OFEV, autoriser le stockage définitif de déchets qui ne sont pas mentionnés au ch. 5.1 et qui ne satisfont pas aux exigences énoncées au ch. 5.2, lorsqu’une forme d’élimination autre que le stockage définitif n’est techniquement pas faisable.
 - 5\.4 Il est permis d’utiliser des déchets autorisés dans les décharges et les compartiments du type A comme couche de nivellement sous la fermeture en surface dans les décharges et les compartiments de type E, s’il n’est pas possible d’utiliser à cet effet des déchets selon les ch. 5.1 à 5.3.

@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2025-08-01
+version: 2025-12-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20250801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20250801/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. August 2025)
+vom 4. Dezember 2015 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 29, 30*a* Buchstabe c, 30*b* Absatz 1, 30*c* Absatz 3, 30*d* Buchstabe a, 30*h* Absatz 1, 39 Absatz 1, 45 und 46 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-1] (USG), und die Artikel 9 Absatz 2 Buchstabe c, 16 Buchstabe c und 47 Absatz 1 des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-2],
+gestützt auf die Artikel 29, 30*a* Buchstabe c, 30*b* Absatz 1, 30*c* Absatz 3, 30*d* Absätze 4 und 7, 30*h* Absatz 1, 39 Absatz 1, 45 und 46 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-1] (USG), und die Artikel 9 Absatz 2 Buchstabe c, 16 Buchstabe c und 47 Absatz 1 des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 ## 1. Kapitel: Zweck, Geltungsbereich und Begriffe
 
@@ -118,7 +119,7 @@ Die Kantone erstellen für ihr Gebiet eine Abfallplanung. Sie umfasst insbesonde
 <sup>4</sup> Die Kantone übermitteln die Abfallplanung und die umfassenden Überarbeitungen dem Bundesamt für Umwelt (BAFU).
 
 [^4-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
-[^4-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 (AS **202****5** 453).
+[^4-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 #### Art. 5
@@ -255,15 +256,55 @@ Biogene Abfälle sind rein stofflich oder durch Vergären zu verwerten, sofern:
 
 #### Art. 15
 
-**Phosphorreiche Abfälle**
+**Phosphorreiche Abfälle**[^15-1]
 
-<sup>1</sup> Aus kommunalem Abwasser, aus Klärschlamm zentraler Abwasserreinigungsanlagen oder aus der Asche aus der thermischen Behandlung von solchem Klärschlamm ist Phosphor zurückzugewinnen und stofflich zu verwerten.
+<sup>1</sup> Aus kommunalem Abwasser, Klärschlamm zentraler Abwasserreinigungsanlagen sowie der Asche aus der thermischen Behandlung von solchem Klärschlamm ist Phosphor zurückzugewinnen und stofflich zu verwerten.
 
 <sup>2</sup> In Tier- und Knochenmehl enthaltener Phosphor ist stofflich zu verwerten, soweit das Tier- und Knochenmehl nicht als Futtermittel verwendet wird.
 
-<sup>3</sup> Bei der Rückgewinnung von Phosphor aus Abfällen nach Absatz 1 oder 2 sind die in diesen Abfällen enthaltenen Schadstoffe nach dem Stand der Technik zu entfernen. Wird der zurückgewonnene Phosphor für die Herstellung eines Düngers verwendet, so müssen zudem die Anforderungen nach Anhang 2.6 Ziffer 2.2.2.2 ChemRRV erfüllt sein.[^15-1]
+<sup>3</sup> Die Bestimmungen über die Verwertung phosphorreicher Abfälle gelten auch für importierten Klärschlamm und importiertes Tier- und Knochenmehl.
 
-[^15-1]: Fassung gemäss Anhang 5 Ziff. II 2 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)). Die Berichtigung vom 22. April 2025 betrifft nur den französischen Text ([AS 2025 256](https://fedlex.data.admin.ch/eli/oc/2025/256)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15a
+
+**Rückgewinnung von Phosphor aus phosphorreichen Abfällen**[^15a-1]
+
+<sup>1</sup> Bei der Rückgewinnung von Phosphor aus phosphorreichen Abfällen sind die in diesen Abfällen enthaltenen Schadstoffe nach dem Stand der Technik zu entfernen.
+
+<sup>2</sup> Bei der Rückgewinnung von Phosphor aus kommunalem Abwasser, Klärschlamm zentraler Abwasserreinigungsanlagen und der Asche aus der thermischen Behandlung von solchem Klärschlamm müssen zur Deckung des inländischen Bedarfs mindestens 16 Kilogramm Phosphor pro Tonne Klärschlamm-Trockensubstanz zurückgewonnen werden.
+
+<sup>3</sup> Phosphor aus Tier- und Knochenmehl ist vollständig zurückzugewinnen.
+
+[^15a-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15b
+
+**Nachweis der Rückgewinnung von Phosphor**[^15b-1]
+
+<sup>1</sup> Wer phosphorreiche Abfälle abgibt, muss der kantonalen Behörde nachweisen, dass die vorgeschriebene Menge an Phosphor zurückgewonnen wird.
+
+<sup>2</sup> Wird bei Abwasser, Klärschlamm oder Klärschlammasche nachgewiesen, dass die vorgeschriebene Menge an Phosphor zurückgewonnen wird, so darf die darüberhinausgehende Menge an Klärschlamm ohne Phosphorrückgewinnung vorrangig stofflich-energetisch und danach rein energetisch verwertet werden.
+
+<sup>3</sup> Reichen die inländischen Behandlungskapazitäten zur Rückgewinnung von Phosphor nicht aus, um den Nachweis nach den Absätzen 1 und 2 zu erbringen, so weisen die Abgeber von Abfällen den kantonalen Behörden die fehlende Behandlungskapazität nach. Die Vollzugsbehörde kann in diesen Fällen vorrangig die stofflich-energetische und sekundär die rein energetische Verwertung von Klärschlamm oder von Tier- und Knochenmehl genehmigen.
+
+[^15b-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+
+#### Art. 15c
+
+**Berichterstattung und Überprüfung der Phosphorrückgewinnung**[^15c-1]
+
+<sup>1</sup>
+
+Die kantonale Behörde erstattet dem BAFU jährlich Bericht über:
+
+- a. die Mengen an Klärschlamm-Trockensubstanz und an Tier- und Knochenmehl, die der Phosphorrückgewinnung zugeführt wurden;
+- b. die zurückgewonnene Phosphormenge; und
+- c. die Mengen an Klärschlamm-Trockensubstanz und an Tier- und Knochenmehl, die der stofflich-energetischen oder rein energetischen Verwertung zugeführt wurden.
+
+<sup>2</sup> Das BAFU überprüft unter Einbezug der Kantone und der Branchen alle 8–10 Jahre die Zweckmässigkeit der nach Artikel 15*a* Absätze 2 und 3 zurückzugewinnenden Menge an Phosphor; es schlägt dem UVEK entsprechende Massnahmen vor.
+
+[^15c-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 16
 
@@ -777,27 +818,21 @@ Die Änderung anderer Erlasse wird in Anhang 6 geregelt.
 
 ### 3. Abschnitt: Übergangsbestimmungen
 
-#### Art. 49
+#### Art. 49 und 50
 
-**Siedlungsabfälle**
+[^4950-1]
 
-<sup>1</sup> Die Artikel 3 Buchstabe a und 13 Absatz 4 gelten ab dem 1. Januar 2019.
-
-<sup>2</sup> Bis zum 31. Dezember 2018 gelten als Siedlungsabfälle die aus Haushalten stammenden Abfälle sowie andere Abfälle vergleichbarer Zusammensetzung.
-
-#### Art. 50
-
-**Berichterstattung**[^50-1]
-
-Die Pflicht zur Berichterstattung nach Artikel 6 gilt ab dem 1. Januar 2021.
-
-[^50-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Nov. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)).
+[^4950-1]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 51
 
-**Phosphorreiche Abfälle**
+**Phosphorreiche Abfälle**[^51-1]
 
-Die Pflicht zur Rückgewinnung von Phosphor nach Artikel 15 gilt ab dem 1. Januar 2026.
+<sup>1</sup> Die kantonale Behörde muss bis zum 1. Januar 2028 die Planung zur Rückgewinnung von Phosphor aus phosphorreichen Abfällen in ihrem Klärschlammentsorgungsplan und in ihrer Abfallplanung ergänzen und dem BAFU übermitteln.
+
+<sup>2</sup> Ab diesem Zeitpunkt müssen die Abgeber von Klärschlamm sowie von Tier- und Knochenmehl der zuständigen kantonalen Behörde den Nachweis nach Artikel 15*b* erbringen.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 52
 
@@ -862,6 +897,15 @@ Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dio
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 [^54-2]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+
+#### Art. 54a
+
+**Änderung eines anderen Erlasses**[^54a-1]
+
+…[^54a-2]
+
+[^54a-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^54a-2]: Die Änd. kann unter [AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)konsultiert werden.
 
 ### 4. Abschnitt: Inkrafttreten
 
@@ -1195,7 +1239,7 @@ Anhang 4[^t-4]
 
 ## Anforderungen an Abfälle für die Herstellung von Zement und Beton
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), Ziff. III der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) und Ziff. II vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 12. Febr. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), Ziff. III der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), Ziff. II vom 25. Juni 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) und vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745))
 
 ### 1 Verwendung von Abfällen als Rohmaterial und Rohmehlkorrekturstoffe
 
@@ -1283,7 +1327,7 @@ Anhang 4[^t-4]
   - b. Altholz und Holzabfälle, ausgenommen sind Altholz und Holzabfälle, die mit Holzschutzmitteln nach einem Druckverfahren imprägniert wurden, Beschichtungen aus halogenierten organischen Verbindungen aufweisen oder intensiv mit Holzschutzmitteln wie Pentachlorphenol behandelt wurden, sofern sie nicht in der Feuerung bei einer Mindesttemperatur von 1100 °C während mindestens 2 Sekunden behandelt werden;
   - c. sortenreine Papier-, Karton-, Textil- oder Kunststoffabfälle, sofern eine stoffliche Verwertung nach dem Stand der Technik nicht möglich ist;
   - d. organische Lösungsmittel und Altöl, ausgenommen sind organische Lösungsmittel und Altöl, welche die Grenzwerte für PCB und halogenierte organische Substanzen nach Ziffer 2.2 Buchstabe a nicht einhalten, sofern sie nicht in der Feuerung bei einer Mindesttemperatur von 1100 °C während mindestens 2 Sekunden behandelt werden;
-  - e. Klärschlamm aus zentralen Abwasserreinigungsanlagen, Tier- und Knochenmehl, wenn Phosphor vorgängig gemäss Artikel 15 zurückgewonnen wurde.
+  - e. Klärschlamm aus zentralen Abwasserreinigungsanlagen sowie Tier- und Knochenmehl, wenn die Vorgaben gemäss den Artikeln 15–15*b* erfüllt sind.
 
 - 2\.2
 
@@ -1310,8 +1354,10 @@ Anhang 4[^t-4]
 <tr><td colspan="2">\* Σ6 Kongenere × 4.3 (IUPAC\_Nr.): 28, 52, 101, 138, 153, 180</td></tr>
 </table>
 
-- b. keine medizinischen Abfälle enthalten;
-- c. keine die Sicherheit gefährdende Abfälle wie explosive oder selbstentzündbare Abfälle enthalten.
+-
+
+  - b. keine medizinischen Abfälle enthalten;
+  - c. keine die Sicherheit gefährdende Abfälle wie explosive oder selbstentzündbare Abfälle enthalten.
 
 - 2\.3
 
@@ -1644,8 +1690,10 @@ Test 2
 <tr><td colspan="2">\*, \*\*, \*\*\*, \*\*\*\*, \*\*\*\*\* gemäss Erläuterungen zu Ziffer 2.3 Buchstabe b</td><td></td></tr>
 </table>
 
-- b. der Anteil löslicher Salze im unbehandelten Abfall 5 Gewichtsprozent nicht überschreitet;
-- c. im Eluat der Abfälle der Grenzwert von 0,3 mg Cyanid (frei) pro L nicht überschritten wird. Dazu sind die Abfälle in einem Test während 24 Stunden in destilliertem Wasser zu eluieren.
+-
+
+  - b. der Anteil löslicher Salze im unbehandelten Abfall 5 Gewichtsprozent nicht überschreitet;
+  - c. im Eluat der Abfälle der Grenzwert von 0,3 mg Cyanid (frei) pro L nicht überschritten wird. Dazu sind die Abfälle in einem Test während 24 Stunden in destilliertem Wasser zu eluieren.
 
 - 5\.3 Die kantonale Behörde kann im Einzelfall mit Zustimmung des BAFU die Ablagerung von Abfällen, die nicht in Ziffer 5.1 genannt werden und die Anforderungen nach Ziffer 5.2 nicht einhalten, bewilligen, sofern eine andere Entsorgung als die Ablagerung technisch nicht machbar ist.
 - 5\.4 Abfälle, die auf Deponien und Kompartimenten des Typs A zugelassen sind, dürfen auf Deponien und Kompartimenten des Typs E als Ausgleichsschicht vor dem Oberflächenabschluss abgelagert werden, soweit dafür nicht Abfälle nach den Ziffern 5.1‑5.3 verwendet werden können.
