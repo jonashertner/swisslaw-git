@@ -4,13 +4,12 @@ number: "162.711.1"
 title: Organisationsreglement der Staatsanwaltschaft
 short: OrR StAw
 language: de
-version: 2025-08-01
-valid_until: 2025-11-30
-version_adopted: 2025-05-05
+version: 2025-12-01
+version_adopted: 2025-10-28
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3203/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3203/pdf_file"
 
 (OrR StAw)
 
-vom 15.10.2010 (Stand 01.08.2025)
+vom 15.10.2010 (Stand 01.12.2025)
 
 Die Generalstaatsanwaltschaft des Kantons Bern,
 
@@ -106,6 +105,12 @@ beschliesst:
 <sup>2</sup> Der Beschäftigungsgrad bei Teilzeitstellen der übrigen Mitarbeiterinnen und Mitarbeiter beträgt mindestens 50 Prozent. Ein Beschäftigungsgrad von weniger als 50 Prozent ist nur im Jobsharing möglich.
 
 [^5-1]: [BSG 153.011.1](https://www.belex.sites.be.ch/data/153.011.1/de)
+
+#### Art. 5a
+
+**Tragen sichtbarer religiöser Symbole und religiöser Kleidung**
+
+<sup>1</sup> Allen Mitarbeiterinnen und Mitarbeitern der Staatsanwaltschaft des Kantons Bern ist das sichtbare Tragen von religiösen Symbolen und religiöser Kleidung in öffentlichen Sitzungen, bei Verhandlungen, bei Einvernahmen und in Kontakt mit den Verfahrensbeteiligten, den Parteivertreterinnen und Parteivertretern sowie im Rahmen öffentlicher Kommunikationsaufgaben nicht gestattet.
 
 ## 2 Führungsinstrumente
 

@@ -4,13 +4,12 @@ number: "162.711.1"
 title: Règlement d’organisation du Ministère public
 short: RO MP
 language: fr
-version: 2025-08-01
-valid_until: 2025-11-30
-version_adopted: 2025-05-05
+version: 2025-12-01
+version_adopted: 2025-10-28
 adopted: 2010-10-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.711.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3203/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3253/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3203/pdf_file"
 
 (RO MP)
 
-du 15.10.2010 (état au 01.08.2025)
+du 15.10.2010 (état au 01.12.2025)
 
 Le Parquet général du canton de Berne,
 
@@ -106,6 +105,12 @@ arrête:
 <sup>2</sup> Le degré d’occupation des postes à temps partiel pour les autres collaborateurs et collaboratrices est d’au moins 50 pour cent. Un taux d’occupation de moins de 50 pour cent n’est possible qu’en cas de partage de poste.
 
 [^5-1]: [RSB 153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
+
+#### Art. 5a
+
+**Port de symboles religieux ostensibles et de vêtements religieux**
+
+<sup>1</sup> Aucune collaboratrice ni aucun collaborateur du Ministère public du canton de Berne n’est autorisé à porter de manière ostensible des symboles religieux ou des vêtements religieux lors de séances publiques, d’audiences, d’auditions et lors de contacts avec les participantes et participants à la procédure et leurs représentantes ou représentants ainsi que dans le cadre de tâches de communication publique.
 
 ## 2 Instruments de conduite
 
