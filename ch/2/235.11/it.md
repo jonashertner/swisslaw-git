@@ -4,11 +4,11 @@ title: Ordinanza del 31 agosto 2022 sulla protezione dei dati (OPDa)
 short: OPDa
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: it
-version: 2025-04-01
+version: 2025-12-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20251201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/it"
 
 (OPDa)
 
-del 31 agosto 2022 (Stato 1° aprile 2025)
+del 31 agosto 2022 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 8 capoverso 3, 10 capoverso 4, 12 capoverso 5, 16 capoverso 3
 
 ordina:
 
-[^ingress-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -108,15 +108,23 @@ Per garantire la tracciabilità, il titolare del trattamento e il responsabile d
 
 **Verbalizzazione**
 
-<sup>1</sup> Se dati personali degni di particolare protezione sono trattati automaticamente su grande scala o se si esegue una profilazione a rischio elevato e i provvedimenti preventivi possono non garantire la protezione dei dati, il titolare privato del trattamento e il suo responsabile privato del trattamento verbalizzano almeno la registrazione, modificazione, lettura, comunicazione, cancellazione e distruzione dei dati. In particolare, la verbalizzazione deve avere luogo quando non è possibile stabilire a posteriori se i dati sono stati trattati ai fini per i quali sono stati raccolti o comunicati.
+<sup>1</sup> Se dati personali degni di particolare protezione sono trattati automaticamente su grande scala o se si esegue una profilazione a rischio elevato e i provvedimenti preventivi possono non garantire la protezione dei dati, il titolare privato del trattamento e il suo responsabile privato del trattamento verbalizzano almeno la registrazione, modificazione, comunicazione, cancellazione e distruzione dei dati nonché l’accesso ai dati. In particolare, la verbalizzazione deve avere luogo quando non è possibile stabilire a posteriori se i dati sono stati trattati ai fini per i quali sono stati raccolti o comunicati.[^4-1]
 
-<sup>2</sup> Nel caso di trattamento automatico dei dati personali l’organo federale titolare del trattamento e il suo responsabile del trattamento verbalizzano almeno la registrazione, modificazione, lettura, comunicazione, cancellazione e distruzione dei dati.
+<sup>2</sup> Nel caso di trattamento automatizzato di dati personali degni di particolare protezione, di esecuzione di profilazioni e di trattamento automatizzato di dati che rientrano nel campo d’applicazione della direttiva (UE) 2016/680[^4-2], l’organo federale titolare del trattamento e il suo responsabile del trattamento verbalizzano almeno la registrazione, modificazione, comunicazione, cancellazione e distruzione dei dati nonché l’accesso ai dati. Nel caso di altri trattamenti automatizzati di dati valutano dapprima il rischio per i diritti fondamentali delle persone interessate. Su tale base e tenuto conto dello stato della tecnica e delle spese di implementazione stabiliscono se e in quale misura verbalizzare le succitate operazioni. Per la valutazione del rischio, tengono conto in particolare del tipo di dati trattati nonché dello scopo, del tipo, della portata e delle circostanze del trattamento.[^4-3]
 
-<sup>3</sup> Nel caso di dati personali accessibili in modo generalizzato al pubblico sono verbalizzati almeno la registrazione, modificazione, cancellazione e distruzione dei dati.
+<sup>2bis</sup> La verifica della verbalizzazione secondo il capoverso 2 ha luogo per scritto. Il risultato e il contenuto della verifica sono comunicati, su richiesta, all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT).[^4-4]
+
+<sup>3</sup> Nel caso di dati personali accessibili in modo generalizzato, nei casi di cui ai capoversi 1 e 2 primo periodo sono verbalizzate almeno la registrazione, modificazione, cancellazione e distruzione dei dati.[^4-5]
 
 <sup>4</sup> I verbali riportano informazioni sull’identità della persona che ha effettuato il trattamento, sul tipo, la data e l’ora del trattamento nonché, all’occorrenza, sull’identità del destinatario dei dati.
 
 <sup>5</sup> I verbali sono conservati per almeno un anno separatamente dal sistema in cui sono trattati i dati personali. Sono accessibili esclusivamente agli organi e alle persone incaricate di verificare l’applicazione delle disposizioni in materia di protezione dei dati o di salvaguardare o ripristinare la confidenzialità, l’integrità, la disponibilità e la tracciabilità dei dati e sono utilizzati soltanto a tale fine.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-2]: Direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio del 27 aprile 2016 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorità competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio, GU L 119 del 4.5.2016, pag. 89.
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-4]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 5
 
@@ -178,13 +186,15 @@ Per valutare se uno Stato, un territorio, un determinato settore di uno Stato o 
 - d. l’effettiva garanzia dei diritti delle persone interessate e della tutela giurisdizionale;
 - e. l’effettivo funzionamento di una o più autorità indipendenti responsabili della protezione dei dati nello Stato in questione o alle quali è assoggettato un organismo internazionale e dotate di poteri e competenze sufficienti.
 
-<sup>3</sup> L’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) viene consultato al momento di ogni valutazione. Possono essere presi in considerazione i pareri di organismi internazionali o autorità estere competenti per la protezione dei dati.
+<sup>3</sup> L’IFPDT viene consultato al momento di ogni valutazione. Possono essere presi in considerazione i pareri di organismi internazionali o autorità estere competenti per la protezione dei dati.[^8-1]
 
 <sup>4</sup> L’adeguatezza della protezione dei dati è periodicamente oggetto di una nuova valutazione.
 
 <sup>5</sup> Le valutazioni vengono pubblicate.
 
 <sup>6</sup> Se dalla valutazione secondo il capoverso 4 o da altre informazioni si evince che non è più garantita una protezione adeguata dei dati, l’allegato 1 è modificato; tale modifica non ha alcuna ripercussione sulle comunicazioni di dati già avvenute.
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 9
 
@@ -537,6 +547,14 @@ Se dati personali sono trattati per scopi impersonali, in particolare per la ric
 
 <sup>2</sup> L’IFPDT presenta rapporti all’attenzione dell’Assemblea federale tramite i servizi del Parlamento.
 
+#### Art. 37a
+
+**Conclusione e modifica di dichiarazioni d’intenti**[^37a-1]
+
+L’IFPDT presenta annualmente rapporto al Consiglio federale sulle dichiarazioni d’intenti concluse o modificate che riguardano la sua collaborazione con autorità estere in materia di protezione dei dati.
+
+[^37a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+
 #### Art. 38
 
 **Comunicazione di decisioni, direttive e progetti**
@@ -562,7 +580,7 @@ L’IFPT può trattare dati personali compresi i dati particolarmente degni di p
 - i. informare il pubblico;
 - j. esercitare le sue attività di formazione.
 
-[^39-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^39-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 40
 
@@ -609,7 +627,7 @@ Se gli è presentato un codice di condotta, l’IFPDT comunica nel suo parere se
 
 <sup>5</sup> Per il resto si applica l’ordinanza generale dell’8 settembre 2004[^44-1] sugli emolumenti.
 
-[^44-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^44-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Capitolo 7: Disposizioni finali
 
@@ -623,13 +641,14 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinati nell’a
 
 **Disposizioni transitorie**
 
-<sup>1</sup> Ai trattamenti di dati che non rientrano nel campo d’applicazione della direttiva (UE) 2016/680[^46-1], l’articolo 4 capoverso 2 si applica entro tre anni dall’entrata in vigore della presente ordinanza o al più tardi alla fine del ciclo di vita del sistema. Fino ad allora tali trattamenti sottostanno all’articolo 4 capoverso 1.
+<sup>1</sup> Per i trattamenti automatizzati di dati personali pianificati o iniziati prima dell’entrata in vigore della modifica del 29 ottobre 2025, la verifica della verbalizzazione di cui all’articolo 4 capoverso 2 deve aver luogo entro il 31 dicembre 2026. Se risulta necessaria, la verbalizzazione deve essere implementata entro il 31 dicembre 2029. Sono fatti salvi il trattamento automatizzato di dati personali degni di particolare protezione, l’esecuzione di profilazioni e i trattamenti automatizzati di dati che rientrano nel campo d’applicazione della direttiva (UE) 2016/680[^46-1].[^46-2]
 
 <sup>2</sup> L’articolo 8 capoverso 5 non si applica alle valutazioni eseguite prima dell’entrata in vigore della presente ordinanza.
 
 <sup>3</sup> L’articolo 31 non si applica alle previste attività di trattamento automatizzato per le quali all’entrata in vigore della presente ordinanza è già stato autorizzato il progetto o è già stata presa la decisione sullo sviluppo del progetto.
 
-[^46-1]: Direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorità competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio GU L 119/89 del 4.5.2016, pag. 89.
+[^46-1]: Direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio del 27 aprile 2016 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorità competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio, GU L 119 del 4.5.2016, pag. 89.
+[^46-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 47
 

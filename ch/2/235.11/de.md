@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordn
 short: DSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: de
-version: 2025-04-01
+version: 2025-12-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20251201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/de"
 
 (Datenschutzverordnung, DSV)
 
-vom 31. August 2022 (Stand am 1. April 2025)
+vom 31. August 2022 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 8 Absatz 3, 10 Absatz 4, 12 Absatz 5, 16 Absatz 3, 25 
 
 verordnet:
 
-[^ingress-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -108,15 +108,23 @@ Um die Nachvollziehbarkeit zu gewährleisten, müssen der Verantwortliche und de
 
 **Protokollierung**
 
-<sup>1</sup> Werden besonders schützenswerte Personendaten in grossem Umfang automatisiert bearbeitet oder wird ein Profiling mit hohem Risiko durchgeführt und können die präventiven Massnahmen den Datenschutz nicht gewährleisten, so müssen der private Verantwortliche und sein privater Auftragsbearbeiter zumindest das Speichern, Verändern, Lesen, Bekanntgeben, Löschen und Vernichten der Daten protokollieren. Eine Protokollierung muss insbesondere dann erfolgen, wenn sonst nachträglich nicht festgestellt werden kann, ob die Daten für diejenigen Zwecke bearbeitet wurden, für die sie beschafft oder bekanntgegeben wurden.
+<sup>1</sup> Werden besonders schützenswerte Personendaten in grossem Umfang automatisiert bearbeitet oder wird ein Profiling mit hohem Risiko durchgeführt und können die präventiven Massnahmen den Datenschutz nicht gewährleisten, so müssen der private Verantwortliche und sein privater Auftragsbearbeiter zumindest das Speichern, Verändern, Bekanntgeben, Löschen und Vernichten der Daten sowie das Zugreifen auf die Daten protokollieren. Eine Protokollierung muss insbesondere dann erfolgen, wenn sonst nachträglich nicht festgestellt werden kann, ob die Daten für diejenigen Zwecke bearbeitet wurden, für die sie beschafft oder bekanntgegeben wurden.[^4-1]
 
-<sup>2</sup> Das verantwortliche Bundesorgan und sein Auftragsbearbeiter protokollieren bei der automatisierten Bearbeitung von Personendaten zumindest das Speichern, Verändern, Lesen, Bekanntgeben, Löschen und Vernichten der Daten.
+<sup>2</sup> Das verantwortliche Bundesorgan und sein Auftragsbearbeiter protokollieren bei der automatisierten Bearbeitung von besonders schützenswerten Personendaten, bei der Durchführung von Profilings und bei automatisierten Datenbearbeitungen, die in den Anwendungsbereich der Richtlinie (EU) 2016/680[^4-2] fallen, zumindest das Speichern, Verändern, Bekanntgeben, Löschen und Vernichten der Daten sowie das Zugreifen auf die Daten. Bei den übrigen automatisierten Datenbearbeitungen beurteilen sie vorgängig das Risiko für die Grundrechte der betroffenen Personen. Sie legen gestützt darauf sowie unter Berücksichtigung des Stands der Technik und der Implementierungskosten fest, ob und in welchem Umfang sie die genannten Vorgänge protokollieren. Bei der Risikobeurteilung berücksichtigen sie insbesondere die Art der bearbeiteten Daten sowie den Zweck, die Art, den Umfang und die Umstände der Bearbeitung.[^4-3]
 
-<sup>3</sup> Bei Personendaten, welche allgemein öffentlich zugänglich sind, sind zumindest das Speichern, Verändern, Löschen und Vernichten der Daten zu protokollieren.
+<sup>2bis</sup> Die Prüfung der Protokollierung nach Absatz 2 erfolgt schriftlich. Resultat und Inhalt der Prüfung werden dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) auf Anfrage mitgeteilt.[^4-4]
+
+<sup>3</sup> Bei Personendaten, die allgemein zugänglich sind, sind in den Fällen der Absätze 1 und 2 erster Satz zumindest das Speichern, Verändern, Löschen und Vernichten der Daten zu protokollieren.[^4-5]
 
 <sup>4</sup> Die Protokollierung muss Aufschluss geben über die Identität der Person, die die Bearbeitung vorgenommen hat, die Art, das Datum und die Uhrzeit der Bearbeitung sowie gegebenenfalls die Identität der Empfängerin oder des Empfängers der Daten.
 
 <sup>5</sup> Die Protokolle müssen während mindestens einem Jahr getrennt vom System, in welchem die Personendaten bearbeitet werden, aufbewahrt werden. Sie dürfen ausschliesslich den Organen und Personen zugänglich sein, denen die Überprüfung der Anwendung der Datenschutzvorschriften oder die Wahrung oder Wiederherstellung der Vertraulichkeit, Integrität, Verfügbarkeit und Nachvollziehbarkeit der Daten obliegt, und dürfen nur für diesen Zweck verwendet werden.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-2]: Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, Fassung gemäss ABl. L 119 vom 4.5.2016, S. 89.
+[^4-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-5]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 5
 
@@ -178,13 +186,15 @@ Bei der Beurteilung, ob ein Staat, ein Gebiet, ein spezifischer Sektor in einem 
 - d. die wirksame Gewährleistung der Rechte der betroffenen Personen und des Rechtsschutzes;
 - e. das wirksame Funktionieren einer oder mehrerer unabhängiger Behörden, die im betreffenden Staat für den Datenschutz zuständig sind oder denen ein internationales Organ untersteht und die über ausreichende Befugnisse und Kompetenzen verfügen.
 
-<sup>3</sup> Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) wird bei jeder Beurteilung konsultiert. Die Einschätzungen von internationalen Organen oder ausländischen Behörden, die für den Datenschutz zuständig sind, können berücksichtigt werden.
+<sup>3</sup> Der EDÖB wird bei jeder Beurteilung konsultiert. Die Einschätzungen von internationalen Organen oder ausländischen Behörden, die für den Datenschutz zuständig sind, können berücksichtigt werden.[^8-1]
 
 <sup>4</sup> Die Angemessenheit des Datenschutzes wird periodisch neu beurteilt.
 
 <sup>5</sup> Die Beurteilungen werden veröffentlicht.
 
 <sup>6</sup> Wenn die Beurteilung nach Absatz 4 oder andere Informationen zeigen, dass kein angemessener Datenschutz mehr gewährleistet ist, wird Anhang 1 geändert; dies hat keine Auswirkungen auf die bereits erfolgten Datenbekanntgaben.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 9
 
@@ -537,6 +547,14 @@ Werden Personendaten zu nicht personenbezogenen Zwecken, insbesondere der Forsch
 
 <sup>2</sup> Der EDÖB reicht Berichte zuhanden der Bundesversammlung über die Parlamentsdienste ein.
 
+#### Art. 37a
+
+**Abschluss und Änderung von Absichtserklärungen**[^37a-1]
+
+Der EDÖB erstattet dem Bundesrat jährlich Bericht über die von ihm abgeschlossenen und geänderten Absichtserklärungen über seine Zusammenarbeit mit ausländischen Datenschutzbehörden.
+
+[^37a-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+
 #### Art. 38
 
 **Mitteilung von Entscheiden, Richtlinien und Projekten**
@@ -562,7 +580,7 @@ Der EDÖB kann Personendaten, einschliesslich besonders schützenswerter Persone
 - i. zur Information der Öffentlichkeit;
 - j. zur Ausübung seiner Schulungstätigkeiten.
 
-[^39-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^39-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 40
 
@@ -609,7 +627,7 @@ Wird dem EDÖB ein Verhaltenskodex vorgelegt, so teilt dieser in seiner Stellung
 
 <sup>5</sup> Im Übrigen gilt die Allgemeine Gebührenverordnung vom 8. September 2004[^44-1].
 
-[^44-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^44-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 7. Kapitel: Schlussbestimmungen
 
@@ -623,13 +641,14 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Für Datenbearbeitungen, die nicht in den Anwendungsbereich der Richtlinie (EU) 2016/680[^46-1] fallen, gilt Artikel 4 Absatz 2 spätestens drei Jahre nach Inkrafttreten dieser Verordnung oder spätestens nach Ende des Lebenszyklus des Systems. In der Zwischenzeit unterliegen diese Bearbeitungen Artikel 4 Absatz 1.
+<sup>1</sup> Bei automatisierten Bearbeitungen von Personendaten, die vor Inkrafttreten der Änderung vom 29. Oktober 2025 geplant oder begonnen wurden, muss die Prüfung der Protokollierung nach Artikel 4 Absatz 2 bis am 31. Dezember 2026 vorgenommen werden. Erweist sich eine Protokollierung als nötig, so muss diese bis am 31. Dezember 2029 implementiert werden. Ausgenommen sind die automatisierte Bearbeitung von besonders schützenswerten Personendaten, die Durchführung von Profilings und automatisierte Datenbearbeitungen, die in den Anwendungsbereich der Richtlinie (EU) 2016/680[^46-1] fallen.[^46-2]
 
 <sup>2</sup> Artikel 8 Absatz 5 gilt nicht für Beurteilungen, die vor dem Inkrafttreten dieser Verordnung durchgeführt wurden.
 
 <sup>3</sup> Artikel 31 gilt nicht für geplante automatisierte Bearbeitungstätigkeiten, bei welchen im Zeitpunkt des Inkrafttretens dieser Verordnung die Projektfreigabe oder der Entscheid zur Projektentwicklung bereits erfolgt ist.
 
 [^46-1]: Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, Fassung gemäss ABl. L 119 vom 4.5.2016, S. 89.
+[^46-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 47
 

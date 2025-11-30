@@ -4,11 +4,11 @@ title: "Ordinance of 31 August 2022 on Data Protection (Data Protection Ordinanc
 short: DPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: en
-version: 2025-04-01
+version: 2025-12-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Data Protection Ordinance, DPO)
 
-of 31 August 2022 (Status as of 1 April 2025)
+of 31 August 2022 (Status as of 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ on the basis of Articles 8 paragraph 3, 10 paragraph 4, 12 paragraph 5, 16 parag
 
 ordains:
 
-[^ingress-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Chapter 1 General Provisions
 
@@ -110,15 +110,23 @@ In order to guarantee traceability, the controller and the processor must take a
 
 **Logging**
 
-<sup>1</sup> If a large volume of sensitive personal data is processed by automated means or if high-risk profiling is carried out and if preventive measures are unable to guarantee data protection, the private controller and its private processor must as a minimum / log the storage, alteration, reading, disclosure, deletion and destruction of the data. A log file must in particular be kept if otherwise it would not be possible to establish whether the data has been processed for the purposes for which it was collected or disclosed.
+<sup>1</sup> If a large volume of sensitive personal data is processed by automated means or if high-risk profiling is carried out and if preventive measures are unable to guarantee data protection, the private controller and its private processor must as a minimum / log the storage, alteration, disclosure, deletion and destruction of the data and any access to the data. A log file must in particular be kept if otherwise it would not be possible to establish whether the data has been processed for the purposes for which it was collected or disclosed.[^4-1]
 
-<sup>2</sup> The responsible federal body and its processor shall in the case of automated processing of personal data log as a minimum the storage, alteration, reading, disclosure, deletion and destruction of the data.
+<sup>2</sup> The responsible federal body and its processor shall when carrying out automated processing of sensitive personal data, profiling and automated processing that falls within the scope of Directive (EU) 2016/680[^4-2], log as a minimum the storage, alteration, disclosure, deletion and destruction of the data, as well as any access to the data. For other forms of automated data processing, they shall assess in advance the risk to the fundamental rights of the data subjects. On this basis, and taking account of the state of the art and the costs of implementation, they shall determine whether and to what extent they log the aforementioned forms of processing. When assessing the risk, they shall take particular account of the nature of the data processed and the purpose, nature, scope and circumstances of the processing.[^4-3]
 
-<sup>3</sup> In the case of personal data that are generally accessible to the public, logs shall be kept as a minimum of the storage, alteration, deletion and destruction of the data.
+<sup>2bis</sup> The assessment of the need for logging referred to in paragraph 2 shall be recorded in writing. The results and content of the assessment shall be communicated to the Federal Data Protection and Information Commissioner (FDPIC) on request.[^4-4]
+
+<sup>3</sup> In the case of personal data that are generally accessible, logs shall in the case of paragraphs 1 and 2 first sentence as a minimum be kept of the storage, alteration, deletion and destruction of the data.[^4-5]
 
 <sup>4</sup> The log file must provide information about the identity of the person that carried out the processing, the form, date and time of processing, and, if applicable, the identity of the recipient of the data.
 
 <sup>5</sup> The log files must be retained for at least one year and kept separate from the system in which the personal data are processed. They may only be made accessible to the bodies and persons that are required to review the application of the data protection regulations or to safeguard or restore the confidentiality, integrity, availability and traceability of the data, and may only be used for this purpose.
+
+[^4-1]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-2]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, last amended by OJ. L 119 of 4.5.2016, p. 89.
+[^4-3]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-4]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-5]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 5
 
@@ -180,13 +188,15 @@ When assessing whether a State, a territory, a specified sector in a State or an
 - d. that data subjects’ rights and redress are effectively guaranteed;
 - e. the effective functioning of one or more independent authorities in the State concerned that are responsible for data protection or to which an international body is accountable and that have sufficient powers and responsibilities.
 
-<sup>3</sup> The Federal Data Protection and Information Commissioner (FDPIC) shall be consulted in the course of each assessment. The assessments of international bodies or foreign authorities responsible for data protection may be taken into account.
+<sup>3</sup> The FDPIC shall be consulted in the course of each assessment. The assessments of international bodies or foreign authorities responsible for data protection may be taken into account.[^8-1]
 
 <sup>4</sup> The adequacy of the data protection shall be reassessed periodically.
 
 <sup>5</sup> The assessments shall be made public.
 
 <sup>6</sup> If the assessment under paragraph 4 or other information show that an adequate level of data protection is no longer guaranteed, Annex 1 shall be amended; this shall have no effect on disclosures of data already carried out.
+
+[^8-1]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 9
 
@@ -539,6 +549,14 @@ If personal data are processed for purposes not related to specific persons, in 
 
 <sup>2</sup> The FDPIC shall submit reports to the Federal Assembly via the Parliamentary Services.
 
+#### Art. 37a
+
+**Conclusion and amendment of declarations of intent**[^37a-1]
+
+The FDPIC shall report annually to the Federal Council on the declarations of intent that it has concluded and amended regarding its cooperation with foreign data protection authorities.
+
+[^37a-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+
 #### Art. 38
 
 **Notice of decisions, guidelines and projects**
@@ -564,7 +582,7 @@ The FDPIC may process personal data, including sensitive personal data, for the 
 - i. in order to provide information to the public;
 - j. in order to carry out its training activities.
 
-[^39-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^39-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 40
 
@@ -611,7 +629,7 @@ If a code of conduct is submitted to the FDPIC, the FDPIC shall confirm in its o
 
 <sup>5</sup> The General Fees Ordinance of 8 September 2004[^44-1] also applies.
 
-[^44-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^44-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapter 7 Final Provisions
 
@@ -625,13 +643,14 @@ The repeal and the amendment of other legislation are regulated in Annex 2.
 
 **Transitional provisions**
 
-<sup>1</sup> For data processing that does not fall within the scope of Directive (EU) 2016/680[^46-1], Article 4 paragraph 2 starts to apply at the latest three years after this Ordinance comes into force or at the latest at the end of the system’s lifecycle. In the intervening period, processing is governed by Article 4 paragraph 1.
+<sup>1</sup> In the case of automated processing of personal data that was planned or started before the amendment of 29 October 2025 came into force, the assessment of the need for logging under Article 4 paragraph 2 must be carried out by 31 December 2026. If logging proves to be necessary, it must be implemented by 31 December 2029. The foregoing does not apply to the automated processing of sensitive personal data, profiling and automated data processing that falls within the scope of Directive (EU) 2016/680[^46-1].[^46-2]
 
 <sup>2</sup> Article 8 paragraph 5 does not apply to assessments carried out before this Ordinance comes into force.
 
 <sup>3</sup> Article 31 does not apply to planned automated processing activities in respect of which the decision to develop or approve the project has already been taken when this Ordinance comes into force.
 
 [^46-1]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, last amended by OJ L 119 of 4.5.2016, p. 89.
+[^46-2]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 47
 
@@ -699,11 +718,11 @@ Annex 1[^t-1]
 - \*\*\* The assessment of the adequacy of data protection does not include the disclosure of personal data in terms of the cooperation provided for under Directive (EU) 2016/680.
 
 [^annex1-lvlu1-1]: The text of the Canadian Federal Act is available at https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html.
-[^annex1-lvlu1-2]: The principles are available at: www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3.
-[^annex1-lvlu1-3]: The Executive Order 14086 is available at: www.state.gov/executive-order-14086-policy-and-procedures/.
-[^annex1-lvlu1-4]: The Rule is available at: www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court.
-[^annex1-lvlu1-5]: The Directive is available at: www.dni.gov/files/documents/ICD/ICD\_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf.
-[^annex1-lvlu1-6]: The list is available at: www.justice.gov/opcl/media/1355326/dl?inline.
+[^annex1-lvlu1-2]: The principles are available at: www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3 .
+[^annex1-lvlu1-3]: The Executive Order 14086 is available at: www.state.gov/executive-order-14086-policy-and-procedures/ .
+[^annex1-lvlu1-4]: The Rule is available at: www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court .
+[^annex1-lvlu1-5]: The Directive is available at: www.dni.gov/files/documents/ICD/ICD\_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf .
+[^annex1-lvlu1-6]: The list is available at: www.justice.gov/opcl/media/1355326/dl?inline .
 [^annex1-lvlu1-7]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, last amended by OJ. L 119 of 4.5.2016, p. 89.
 
 Annex 2[^t-2]

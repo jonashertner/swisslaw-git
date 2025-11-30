@@ -4,11 +4,11 @@ title: Ordonnance du 31 août 2022 sur la protection des données (OPDo)
 short: OPDo
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: fr
-version: 2025-04-01
+version: 2025-12-01
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20250401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20251201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20250401/fr"
 
 (OPDo)
 
-du 31 août 2022 (État le 1<sup>er</sup> avril 2025)
+du 31 août 2022 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 8, al. 3, 10, al. 4, 12, al. 5, 16, al. 3, 25, al. 6, 28, al. 3, 33,
 
 arrête:
 
-[^ingress-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Chapitre 1 Dispositions générales
 
@@ -108,15 +108,23 @@ Pour assurer la traçabilité, le responsable du traitement et le sous-traitant 
 
 **Journalisation**
 
-<sup>1</sup> Lors de traitements automatisés de données sensibles à grande échelle ou de profilage à risque élevé et lorsque les mesures préventives ne suffisent pas à garantir la protection des données, le responsable du traitement privé et son sous-traitant privé journalisent au moins l’enregistrement, la modification, la lecture, la communication, l’effacement et la destruction des données. La journalisation est notamment nécessaire lorsque, sans cette mesure, il n’est pas possible de vérifier a posteriori que les données ont été traitées conformément aux finalités pour lesquelles elles ont été collectées ou communiquées.
+<sup>1</sup> Lors de traitements automatisés de données sensibles à grande échelle ou de profilages à risque élevé et lorsque les mesures préventives ne suffisent pas à garantir la protection des données, le responsable du traitement privé et son sous-traitant privé journalisent au moins l’enregistrement, la modification, la communication, l’effacement et la destruction des données ainsi que l’accès aux données. La journalisation est notamment nécessaire lorsque, sans cette mesure, il n’est pas possible de vérifier a posteriori que les données ont été traitées conformément aux finalités pour lesquelles elles ont été collectées ou communiquées.[^4-1]
 
-<sup>2</sup> Lors du traitement automatisé de données personnelles, l’organe fédéral responsable et son sous-traitant journalisent au moins l’enregistrement, la modification, la lecture, la communication, l’effacement et la destruction des données.
+<sup>2</sup> Lors de traitements automatisés de données sensibles, de profilages et de traitements automatisés de données soumis à la directive (UE) 2016/680[^4-2], l’organe fédéral responsable et son sous-traitant journalisent au moins l’enregistrement, la modification, la communication, l’effacement et la destruction des données ainsi que l’accès aux données. Lors d’autres traitements automatisés de données, ils évaluent au préalable le risque pour les droits fondamentaux des personnes concernées. Ils déterminent sur cette base, ainsi qu’en tenant compte de l’état des connaissances et des coûts de mise en œuvre, si et dans quelle mesure les opérations précitées doivent être journalisées. Pour l’évaluation du risque, ils tiennent notamment compte du type de données traitées, ainsi que de la finalité, de la nature, de l’étendue et des circonstances du traitement.[^4-3]
 
-<sup>3</sup> Pour les données personnelles généralement accessibles au public, l’enregistrement, la modification, l’effacement et la destruction des données doivent au moins être journalisés.
+<sup>2bis</sup> L’examen de la journalisation au sens de l’al. 2 est consigné par écrit. Le résultat et le contenu de l’examen sont communiqués, sur demande, au Préposé fédéral à la protection des données et à la transparence (PFPDT).[^4-4]
+
+<sup>3</sup> Pour les données personnelles accessibles à tout un chacun, l’enregistrement, la modification, l’effacement et la destruction des données doivent au moins être journalisés dans les cas prévus aux al. 1 et 2, 1<sup>re</sup> phrase.[^4-5]
 
 <sup>4</sup> La journalisation doit fournir des informations sur l’identité de la personne qui a effectué le traitement, la nature, la date et l’heure du traitement et, cas échéant, l’identité du destinataire des données.
 
 <sup>5</sup> Les procès-verbaux de journalisation sont conservés durant au moins un an, séparément du système dans lequel les données personnelles sont traitées. Ils sont accessibles uniquement aux organes et aux personnes chargés de vérifier l’application des dispositions relatives à la protection des données personnelles ou de préserver ou restaurer la confidentialité, l’intégrité, la disponibilité et la traçabilité des données, et ne peuvent être utilisés qu’à cette fin.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-2]: Directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, version du JO L 119 du 4.5.2016, p. 89.
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-4]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^4-5]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 5
 
@@ -178,13 +186,15 @@ Pour évaluer si un État, un territoire, un secteur déterminé dans un État, 
 - d. la garantie effective des droits des personnes concernées et des voies de droit;
 - e. le fonctionnement effectif d’une ou de plusieurs autorités indépendantes chargées de la protection des données dans l’État concerné, ou auxquelles un organisme international est soumis, et disposant de pouvoirs et de compétences suffisants.
 
-<sup>3</sup> Le Préposé fédéral à la protection des données et à la transparence (PFPDT) est consulté lors de chaque évaluation. Les appréciations effectuées par des organismes internationaux ou des autorités étrangères chargées de la protection des données peuvent être prises en compte.
+<sup>3</sup> Le PFPDT est consulté lors de chaque évaluation. Les appréciations effectuées par des organismes internationaux ou des autorités étrangères chargées de la protection des données peuvent être prises en compte.[^8-1]
 
 <sup>4</sup> L’adéquation du niveau de protection est réévaluée périodiquement.
 
 <sup>5</sup> Les évaluations doivent être publiées.
 
 <sup>6</sup> Lorsque l’évaluation visée à l’al. 4 ou que d’autres informations indiquent que le niveau de protection adéquat n’est plus garanti, l’annexe 1 est modifiée sans effet sur les communications de données déjà effectuées.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 9
 
@@ -537,6 +547,14 @@ Lorsque des données personnelles sont traitées à des fins ne se rapportant pa
 
 <sup>2</sup> Le PFPDT transmet les rapports destinés à l’Assemblée fédérale par l’intermédiaire des Services du Parlement.
 
+#### Art. 37a
+
+**Conclusion et modification de déclarations d’intention**[^37a-1]
+
+Le PFPDT rend compte chaque année au Conseil fédéral des déclarations d’intention relatives à la coopération avec des autorités étrangères chargées de la protection des données qu’il a conclues et modifiées.
+
+[^37a-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+
 #### Art. 38
 
 **Communication des décisions, des directives et des projets**
@@ -562,7 +580,7 @@ Le PFPDT peut traiter les données personnelles, y compris les données sensible
 - i. informer le public;
 - j. exercer ses activités de formation.
 
-[^39-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^39-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 40
 
@@ -609,7 +627,7 @@ Si un code de conduite est soumis au PFPDT, celui-ci indique dans sa prise de po
 
 <sup>5</sup> L’ordonnance générale du 8 septembre 2004 sur les émoluments[^44-1] s’applique pour le reste.
 
-[^44-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^44-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Chapitre 7 Dispositions finales
 
@@ -623,13 +641,14 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 **Dispositions transitoires**
 
-<sup>1</sup> Pour les traitements qui ne sont pas soumis à la directive (UE) 2016/680[^46-1], l’art. 4, al. 2**,** s’applique au plus tard après trois ans à compter de l’entrée en vigueur de la présente ordonnance ou au plus tard à la fin du cycle de vie du système. Dans l’intervalle, ces traitements sont régis par l’art. 4, al. 1.
+<sup>1</sup> Pour les traitements automatisés de données personnelles planifiés ou ayant débuté avant l’entrée en vigueur de la modification du 29 octobre 2025, l’examen de la journalisation au sens de l’art. 4, al. 2, doit être effectué d’ici au 31 décembre 2026. Si la journalisation s’avère nécessaire, elle doit être mise en œuvre d’ici au 31 décembre 2029. Les traitements automatisés de données sensibles, les profilages et les traitements automatisés de données soumis à la directive (UE) 2016/680[^46-1] ne sont pas visés par la présente disposition.[^46-2]
 
 <sup>2</sup> L’art. 8, al. 5, ne s’applique pas aux évaluations effectuées avant l’entrée en vigueur de la présente ordonnance.
 
 <sup>3</sup> L’art. 31 ne s’applique pas aux activités de traitement automatisé prévues pour lesquelles l’approbation du projet ou la décision de le développer a déjà été prise au moment de l’entrée en vigueur de la présente ordonnance.
 
-[^46-1]: Directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119 du 4.5.2016, p. 89.
+[^46-1]: Directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, version du JO L 119 du 4.5.2016, p. 89.
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 47
 
