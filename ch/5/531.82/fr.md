@@ -3,18 +3,18 @@ sr: "531.82"
 title: Ordonnance du 18 mai 2022 sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: fr
-version: 2024-11-01
+version: 2025-12-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20241101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20241101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 
-du 18 mai 2022 (État le 1<sup>er</sup> novembre 2024)
+du 18 mai 2022 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu les art. 5, al. 4, et 57, al. 1, de la loi du 17 juin 2016 sur l’approvisio
 
 arrête:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -36,17 +36,17 @@ La présente ordonnance vise à ce que des préparatifs soient effectués en vue
 
 <sup>1</sup>
 
-Les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de prendre les mesures adéquates pour garantir un approvisionnement suffisant de la Suisse en gaz naturel d’octobre à avril pendant les années 2024 à 2026 au cas où surviendrait une pénurie grave:
+Les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de prendre les mesures adéquates pour garantir un approvisionnement suffisant de la Suisse en gaz naturel d’octobre à avril pendant les années 2025 à 2028 au cas où surviendrait une pénurie grave:
 
 - a. Aziende Industriali di Lugano SA;
-- b. Erdgas Ostschweiz AG;
-- c. Erdgas Zentralschweiz AG;
+- b. Erdgas Zentralschweiz AG;
+- c. Ganeos AG;
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Ils doivent garantir qu’un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse est stocké en qualité marchande dans des installations de stockage et disponible à partir du 1<sup>er</sup> novembre 2024 et à partir du 1<sup>er</sup> novembre 2025.
+<sup>2</sup> Ils doivent garantir que, à partir du 1<sup>er</sup> novembre 2025, à partir du 1<sup>er</sup> décembre 2026 et à partir du 1<sup>er</sup> décembre 2027, un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse est stocké en qualité marchande dans des installations de stockage et disponible.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 514](https://fedlex.data.admin.ch/eli/oc/2024/514)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
 
 #### Art. 3
 
@@ -60,9 +60,14 @@ Sont notamment réputées mesures adéquates au sens de l’art. 2, al. 1:
 
 #### Art. 4
 
-**Comptabilisation dans les rémunérations pour l’utilisation du réseau**
+**Coûts imputables du réseau de transport**[^4-1]
 
-Les gestionnaires régionaux de réseaux de gaz naturel visés à l’art. 2, al. 1, peuvent comptabiliser les dépenses liées à l’obligation de garantir l’approvisionnement qui ne peuvent pas être compensées par un autre moyen dans les rémunérations régionales pour l’utilisation du réseau.
+<sup>1</sup> Les coûts occasionnés par des mesures prises en application de la présente ordonnance sont considérés comme des coûts imputables du réseau de transport en vertu de l’art. 8*a* de la loi du 30 septembre 2016 sur l’énergie[^4-2].
+
+<sup>2</sup> Ils doivent être indiqués séparément dans la rémunération pour l’utilisation du réseau.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
+[^4-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 5
 
@@ -92,6 +97,9 @@ Sur demande, les gestionnaires régionaux de réseaux de gaz naturel visés à l
 
 <sup>5</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 septembre 2026.[^7-3]
 
+<sup>6</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 septembre 2028.[^7-4]
+
 [^7-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 1<sup>er</sup> mai 2023 ([RO 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
 [^7-2]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 580](https://fedlex.data.admin.ch/eli/oc/2023/580)).
-[^7-3]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 (RO **202****4** 514).
+[^7-3]: Introduit par le ch. I de l’O du 13 sept. 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 514](https://fedlex.data.admin.ch/eli/oc/2024/514)).
+[^7-4]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).

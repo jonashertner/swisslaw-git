@@ -3,18 +3,18 @@ sr: "531.82"
 title: Verordnung vom 18. Mai 2022 über die Sicherstellung der Lieferkapazitäten bei einer schweren Mangellage in der Erdgasversorgung
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: de
-version: 2024-11-01
+version: 2025-12-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2022-310-20241101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20241101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2022-310-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Sicherstellung der Lieferkapazitäten bei einer schweren Mangellage in der Erdgasversorgung
 
-vom 18. Mai 2022 (Stand am 1. November 2024)
+vom 18. Mai 2022 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 5 Absatz 4 und 57 Absatz 1 des Landesversorgungsgesetz
 
 verordnet:
 
-[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -36,17 +36,17 @@ Mit dieser Verordnung sollen Vorbereitungsmassnahmen für den Fall einer schwere
 
 <sup>1</sup>
 
-Die folgenden regionalen Gasnetzbetreiber sind verpflichtet, durch geeignete Massnahmen sicherzustellen, dass die Schweiz im Fall einer schweren Mangellage in den Jahren 2024–2026 jeweils von Oktober bis April hinreichend mit Erdgas versorgt wird:
+Die folgenden regionalen Gasnetzbetreiber sind verpflichtet, durch geeignete Massnahmen sicherzustellen, dass die Schweiz im Fall einer schweren Mangellage in den Jahren 2025–2028 jeweils von Oktober bis April hinreichend mit Erdgas versorgt wird:
 
 - a. Aziende Industriali di Lugano SA;
-- b. Erdgas Ostschweiz AG;
-- c. Erdgas Zentralschweiz AG;
+- b. Erdgas Zentralschweiz AG;
+- c. Ganeos AG;
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Sie müssen sicherstellen, dass ab dem 1. November 2024 sowie ab dem 1. November 2025 Erdgas im Umfang von mindestens 15 Prozent des durchschnittlichen schweizerischen Jahresverbrauchs in handelsüblicher Qualität in Speicheranlagen gelagert und verfügbar ist.
+<sup>2</sup> Sie müssen sicherstellen, dass ab dem 1. November 2025, ab dem 1. Dezember 2026 und ab dem 1. Dezember 2027 Erdgas im Umfang von mindestens 15 Prozent des durchschnittlichen schweizerischen Jahresverbrauchs in handelsüblicher Qualität in Speicheranlagen gelagert und verfügbar ist.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 514](https://fedlex.data.admin.ch/eli/oc/2024/514)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
 
 #### Art. 3
 
@@ -60,9 +60,14 @@ Als geeignete Massnahmen im Sinne von Artikel 2 Absatz 1 gelten namentlich:
 
 #### Art. 4
 
-**Einrechnung in die Netznutzungsentgelte**
+**Anrechenbare Kosten des Transportnetzes**[^4-1]
 
-Die regionalen Gasnetzbetreiber nach Artikel 2 Absatz 1 können Aufwendungen, die ihnen im Rahmen der Sicherstellungspflicht entstehen und nicht anderweitig kompensiert werden können, in die regionalen Netznutzungsentgelte einrechnen.
+<sup>1</sup> Kosten, die aufgrund von Massnahmen nach dieser Verordnung entstehen, gelten nach Artikel 8*a* des Energiegesetzes vom 30. September 2016[^4-2] als anrechenbare Kosten des Transportnetzes.
+
+<sup>2</sup> Sie müssen im Netznutzungsentgelt separat ausgewiesen werden.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
+[^4-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 5
 
@@ -92,6 +97,9 @@ Die regionalen Gasnetzbetreiber nach Artikel 2 Absatz 1 sind verpflichtet, dem F
 
 <sup>5</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. September 2026 verlängert.[^7-3]
 
+<sup>6</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. September 2028 verlängert.[^7-4]
+
 [^7-1]: Eingefügt durch Ziff. I der V vom 1. Febr. 2023, in Kraft seit 1. Mai 2023 ([AS 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
 [^7-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 580](https://fedlex.data.admin.ch/eli/oc/2023/580)).
 [^7-3]: Eingefügt durch Ziff. I der V vom 13. Sept. 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 514](https://fedlex.data.admin.ch/eli/oc/2024/514)).
+[^7-4]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).

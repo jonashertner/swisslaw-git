@@ -3,18 +3,18 @@ sr: "531.82"
 title: Ordinanza del 18 maggio 2022 sulla garanzia delle capacità di fornitura di gas naturale in situazioni di grave penuria
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: it
-version: 2024-11-01
+version: 2025-12-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2022-310-20241101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20241101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2022-310-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla garanzia delle capacità di fornitura di gas naturale in situazioni di grave penuria
 
-del 18 maggio 2022 (Stato 1° novembre 2024)
+del 18 maggio 2022 (Stato 1° dicembre 2025)
 
 Il Consiglio federale,
 
@@ -22,7 +22,7 @@ visti gli articoli 5 capoverso 4 e 57 capoverso 1 della legge del 17 giugno 2016
 
 ordina:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -36,17 +36,17 @@ La presente ordinanza si prefigge di garantire nel miglior modo possibile l’ap
 
 <sup>1</sup>
 
-I seguenti gestori regionali della rete del gas sono tenuti ad adottare misure adeguate per garantire alla Svizzera, in situazioni di grave penuria, un approvvigionamento sufficiente di gas naturale nei mesi da ottobre ad aprile dal 2024 al 2026:
+I seguenti gestori regionali della rete del gas sono tenuti ad adottare misure adeguate per garantire alla Svizzera, in situazioni di grave penuria, un approvvigionamento sufficiente di gas naturale nei mesi da ottobre ad aprile dal 2025 al 2028:
 
 - a. Aziende Industriali di Lugano SA;
-- b. Erdgas Ostschweiz AG;
-- c. Erdgas Zentralschweiz AG;
+- b. Erdgas Zentralschweiz AG;
+- c. Ganeos AG;
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Devono garantire che dal 1° novembre 2024 e dal 1° novembre 2025 sia stoccato in appositi impianti un volume di gas naturale pari ad almeno il 15 per cento del consumo medio annuo svizzero nella qualità usuale commerciale e che questo volume sia disponibile.
+<sup>2</sup> Devono garantire che dal 1° novembre 2025, dal 1° dicembre 2026 e dal 1° dicembre 2027 sia stoccato in appositi impianti un volume di gas naturale pari ad almeno il 15 per cento del consumo medio annuo svizzero nella qualità usuale commerciale e che questo volume sia disponibile.
 
-[^2-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2024, in vigore dal 1° nov. 2024 ([RU 2024 514](https://fedlex.data.admin.ch/eli/oc/2024/514)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
 
 #### Art. 3
 
@@ -60,9 +60,14 @@ Sono considerate misure adeguate ai sensi dell’articolo 2 capoverso 1 segnatam
 
 #### Art. 4
 
-**Computo nei corrispettivi per l’utilizzazione della rete**
+**Costi imputabili della rete di trasporto**[^4-1]
 
-I gestori regionali della rete del gas di cui all’articolo 2 capoverso 1 possono computare nei corrispettivi regionali per l’utilizzazione della rete le spese risultanti dall’obbligo di garantire l’approvvigionamento che non possono essere compensate in altro modo.
+<sup>1</sup> I costi sostenuti a seguito delle misure previste dalla presente ordinanza sono considerati costi imputabili della rete di trasporto secondo l’articolo 8*a* della legge federale del 30 settembre 2016[^4-2] sull’energia.
+
+<sup>2</sup> Essi devono essere indicati separatamente nel corrispettivo per l’utilizzazione della rete.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
+[^4-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 5
 
@@ -92,6 +97,9 @@ I gestori regionali della rete del gas di cui all’articolo 2 capoverso 1 sono 
 
 <sup>5</sup> La durata di validità della presente ordinanza è prorogata sino al 30 settembre 2026.[^7-3]
 
+<sup>6</sup> La durata di validità della presente ordinanza è prorogata sino al 30 settembre 2028.[^7-4]
+
 [^7-1]: Introdotto dalla cifra I dell’O del 1° feb. 2023, in vigore dal 1° mag. 2023 ([RU 2023 52](https://fedlex.data.admin.ch/eli/oc/2023/52)).
 [^7-2]: Introdotto dalla cifra I dell’O del 29 set. 2023, in vigore dal 1° dic. 2023 ([RU 2023 580](https://fedlex.data.admin.ch/eli/oc/2023/580)).
 [^7-3]: Introdotto dalla cifra I dell’O del 13 set. 2024, in vigore dal 1° nov. 2024 ([RU 2024 514](https://fedlex.data.admin.ch/eli/oc/2024/514)).
+[^7-4]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
