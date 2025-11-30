@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 2009 sui sistemi d'informazione militari e su 
 short: OSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: it
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/it"
 
 (OSIM)[^t-1]
 
-del 16 dicembre 2009 (Stato 1° gennaio 2025)
+del 16 dicembre 2009 (Stato 1° dicembre 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -27,11 +27,11 @@ visto l’articolo 186 capoversi 1 e 2 della legge federale del 3 ottobre 2008[^
 
 ordina:
 
-[^ingress-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [RS 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^ingress-6]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 ## Capitolo 1: Disposizioni generali
@@ -65,7 +65,7 @@ Le disposizioni della LSIM sono applicabili per analogia anche:
 <sup>3</sup> La rete integrata di sistemi d’informazione secondo l’articolo 4 LSIM comprende anche i sistemi d’informazione disciplinati soltanto nella presente ordinanza. Sia tra i sistemi d’informazione disciplinati nella presente ordinanza sia tra quest’ultimi e i sistemi d’informazione disciplinati nella LSIM è in particolare autorizzato il trasferimento di dati secondo l’articolo 4 capoverso 2 lettera b LSIM, alle condizioni ivi menzionate.
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^2-2]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^2-2]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 2a
 
@@ -146,8 +146,8 @@ In caso di trattamento automatizzato di dati in un sistema d’informazione seco
 
   - 1\. la registrazione,
   - 2\. la modificazione,
-  - 3\. la lettura, qualora i dati non siano accessibili in modo generalizzato al pubblico,
-  - 4\. la comunicazione, qualora i dati non siano accessibili in modo generalizzato al pubblico,
+  - 3\.[^2c-2] l’accesso, qualora i dati non siano accessibili in modo generalizzato,
+  - 4\.[^2c-3] la comunicazione, qualora i dati non siano accessibili in modo generalizzato,
   - 5\. la cancellazione,
   - 6\. la distruzione;
 
@@ -174,6 +174,8 @@ I dati necessari per la verbalizzazione delle identità secondo il capoverso 1 l
 <sup>6</sup> Sono conservati per un anno.
 
 [^2c-1]: Introdotto dalla cifra I dell’O del 3 mar. 2023, in vigore dal 1° set. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2c-2]: Nuovo testo giusta la cifra II dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^2c-3]: Nuovo testo giusta la cifra II dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 2d
 
@@ -309,12 +311,12 @@ Relativamente alle persone soggette all’obbligo di leva e alle persone soggett
 
 [^5-1]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 [^5-2]: Nuovo testo giusta l’all. n. 1 dell’O del 17 dic. 2014, in vigore dal 1° gen. 2017 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
-[^5-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^5-3]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^5-4]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^5-5]: Nuovo testo giusta l’all. n. 1 dell’O del 17 dic. 2014, in vigore dal 1° gen. 2017 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
 [^5-6]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^5-7]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^5-8]: Nuovo testo giusta la cifra I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-8]: Nuovo testo giusta la cifra I n. 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 [^5-9]: Abrogata dalla cifra I n. 5 dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 [^5-10]: Nuova espr. giusta la cifra I dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
 [^5-11]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
@@ -444,7 +446,7 @@ I dati contenuti nel Sistema d’informazione per la gestione del personale per 
 
 <sup>2</sup> L’Aggruppamento Difesa[^15-3] gestisce l’OpenRID.
 
-[^15-1]: [RS 510.215](https://fedlex.data.admin.ch/eli/cc/2009/425)
+[^15-1]: [RS 510.215](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7274)
 [^15-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^15-3]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 
@@ -746,7 +748,7 @@ I dati contenuti nel Sistema d’informazione per la condotta dei militari (IMES
 
 <sup>3</sup> L’Aggruppamento Difesa gestisce il PEGASUS.
 
-[^52a-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52a-1]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^52a-2]: Introdotto dalla cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 52b
@@ -768,7 +770,7 @@ I dati nel PEGASUS sono raccolti:
 
 [^52c-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52c-2]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^52c-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52c-3]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 52d
 
@@ -790,7 +792,7 @@ L’Aggruppamento Difesa rende accessibili i dati del PEGASUS:
 
 [^52d-1]: Abrogata dalla cifra I dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52d-2]: Introdotta dalla cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^52d-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52d-3]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^52d-4]: Introdotta dalla cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 52e
@@ -842,7 +844,7 @@ L’Aggruppamento Difesa raccoglie i dati per il ComMil:
 - d. dai sistemi IAM e dai servizi di elenchi gestiti secondo l’OIAM[^52h-1];
 - e. dall’archivio centralizzato delle identità secondo l’articolo 13 OIAM.
 
-[^52h-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52h-1]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 52i
 
@@ -1238,7 +1240,7 @@ I dati del sistema MIL PLATTFORM sono raccolti:
 
 [^70s-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^70s-2]: Nuovo testo giusta l’all. 8 cifra II n. 5 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^70s-3]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^70s-3]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 70t
 
@@ -1537,7 +1539,7 @@ Esse comunicano i dati del PSB:
 - a. al SIGDP;
 - b. al sistema IAM secondo l’articolo 5 capoverso 1 lettera c OIAM[^72jquinquies-1].[^72jquinquies-2]
 
-[^72jquinquies-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^72jquinquies-1]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^72jquinquies-2]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 72j<sup>sexies</sup>
@@ -1629,7 +1631,7 @@ Attingendo al PAV, ogni anno comunica ai dipartimenti e alla Cancelleria federal
 - b. il modello di aereo impiegato;
 - c. i nomi e i cognomi dei passeggeri che non fanno parte del personale di volo.
 
-[^72kquater-1]: [RS 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
+[^72kquater-1]: [RS 172.010.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5033)
 
 #### Art. 72k<sup>quinquies</sup>
 
@@ -1961,8 +1963,8 @@ Allegato 1a[^t-3]
 - 1\.6.35 Perdita della cittadinanza svizzera
 - 1\.6.36 Decesso nonché annotazioni di servizio e informazioni relative al momento del decesso, quali «decesso durante il SIB», «decesso durante il SPT», «decesso durante l’impiego all’estero» o «decesso fuori del servizio»
 
-[^annex1a-lvlu1-lvl1-lvl16-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex1a-lvlu1-lvl1-lvl16-2]: [RS 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
+[^annex1a-lvlu1-lvl1-lvl16-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex1a-lvlu1-lvl1-lvl16-2]: [RS 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
 
 ### 1.7 Servizi
 
@@ -1999,8 +2001,8 @@ Allegato 1a[^t-3]
 - 1\.8.18 Data della motivazione o della modifica dello statuto
 - 1\.8.19 Incorporazione in gruppi d’impiego in relazione con la valutazione della funzione
 
-[^annex1a-lvlu1-lvl1-lvl18-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^annex1a-lvlu1-lvl1-lvl18-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^annex1a-lvlu1-lvl1-lvl18-1]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^annex1a-lvlu1-lvl1-lvl18-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### 1.9 Pene, pene accessorie e misure penali
 
@@ -2018,8 +2020,8 @@ Allegato 1a[^t-3]
 - 1\.9.12 Sospensione della chiamata in virtù dell’articolo 34 o 38 dell’ordinanza del 22 novembre 2017[^annex1a-lvlu1-lvl1-lvl19-2] concernente l’obbligo di prestare servizio militare
 - 1\.9.13 Comunicazioni secondo l’articolo 113 capoversi 7 e 8 LM
 
-[^annex1a-lvlu1-lvl1-lvl19-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^annex1a-lvlu1-lvl1-lvl19-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^annex1a-lvlu1-lvl1-lvl19-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^annex1a-lvlu1-lvl1-lvl19-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 ### 1.10 Dati supplementari (rilevati previo consenso della persona interessata)
 
@@ -2102,7 +2104,7 @@ B. Rapporto sul caso
 - 2\.1.16 Recapito postale\*
 - 2\.1.17 e-ID
 
-[^annex1a-lvlu1-lvl2-lvl21-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^annex1a-lvlu1-lvl2-lvl21-1]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ### 2.2 Dati di controllo
 
@@ -2194,7 +2196,6 @@ B. Rapporto sul caso
 - 2\.9.3 Gestione elettronica dei documenti (archivio centrale PISA)
 - 2\.9.4 Dati per la selezione dei quadri (pianificazione delle carriere, obiettivi di carriera, possibilità di carriera e profili dei requisiti)
 - 2\.9.5 Ruolo di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile\*
-- [tab]
 - \* dati, trattati conformemente all’articolo 4 capoverso 4, di persone che, nella protezione civile, senza aver diritto a un’indennità di perdita di guadagno, sono chiamate a prestare impieghi di durata limitata, impartiscono istruzioni, partecipano a istruzioni o esercitano la funzione di contabile
 
 Allegato 1b[^t-4]
@@ -2723,7 +2724,7 @@ Complemento in caso d’impiego presso il distaccamento d’esplorazione dell’
 - 22\. Dati relativi ai brevetti ottenuti e alle istruzioni assolte, con data, risultato e data di scadenza
 - 23\. Dati per il servizio dei morti e dei dispersi
 
-[^annex6-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annex6-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 Dati rilevati previo consenso della persona interessata:
 
@@ -2842,7 +2843,7 @@ Allegato 9[^t-12]
 - 28\. Indicazioni concernenti l’assicurazione militare (numero di riferimento dell’assicurazione militare, data di scadenza e durata dell’incapacità al lavoro)
 - 29\. Periodo e contributi alla cassa pensioni
 
-[^annex9-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annex9-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 Allegato 10[^t-13]
 
@@ -2968,7 +2969,7 @@ Allegato 14
   - e. connotati;
   - f. registro delle modifiche.
 
-[^annex14-lvlu1-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^annex14-lvlu1-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 Allegato 15[^t-16]
 
@@ -2994,7 +2995,6 @@ Allegato 16[^t-17]
 - 10\. Dati concernenti l’ordinamento disciplinare (registro delle punizioni)
 - 11\. Dati concernenti le assenze e le convocazioni
 - 12\. Dati sull’amministrazione e l’attribuzione di materiale dell’esercito a livello d’unità
-- [tab]
 
 Allegato 17[^t-18]
 
@@ -3200,8 +3200,8 @@ Allegato 23a[^t-25]
 - 36\. Livello di controllo secondo l’articolo 30 LSIn[^annex23a-lvlu1-1], data del passaggio in giudicato della decisione secondo l’articolo 41 capoverso 2 LSIn nonché termine della successiva ripetizione ordinaria del controllo di sicurezza relativo alle persone secondo l’articolo 26 dell’ordinanza dell’8 novembre 2023[^annex23a-lvlu1-2] sui controlli di sicurezza relativi alle persone (OCSP)
 - 37\. I seguenti dati biometrici (template) della persona: impronta delle vene, scansione dell’iride, impronte digitali
 
-[^annex23a-lvlu1-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^annex23a-lvlu1-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^annex23a-lvlu1-1]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^annex23a-lvlu1-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 Allegato 23b[^t-26]
 
@@ -3321,7 +3321,6 @@ Allegato 26[^t-30]
 - 29\. Competenze sociali
 - 30\. Competenze di condotta
 - 31\. Competenze specialistiche
-- [tab]
 - \* Dati che possono essere acquisiti a partire dall’archivio centralizzato delle identità.
 
 Allegato 27
@@ -3684,9 +3683,6 @@ Allegato 33b[^t-42]
 
 Allegato 33c[^t-43]
 
-- [tab]
-- [tab]
-
 [^t-43]: Introdotto dal n. 1 dell’all. all’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogato dalla cifra III cpv. 4 dell’O del 3 mar. 2023, con effetto dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 Allegato 33d[^t-44]
@@ -3704,7 +3700,7 @@ Allegato 33d[^t-44]
 - 5\. Ora e luogo dell’avvenuto o tentato accesso della persona al sistema MIL PLATTFORM e scansione delle vene rilevata (dati di log)
 - 6\. Dati e autorizzazioni d’accesso
 
-[^annex33d-lvlu1-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^annex33d-lvlu1-1]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 Allegato 34[^t-45]
 
@@ -4031,7 +4027,7 @@ Allegato 35<sup>ter</sup>[^t-48]
 - 23\. Permesso di domicilio nonché altre autorizzazioni e attestazioni necessarie per l’ammissione alla partecipazione volontaria agli esercizi federali secondo l’articolo 12 dell’ordinanza sul tiro
 - 24\. Dati forniti volontariamente dalla persona interessata
 
-[^annex35ter-lvlu1-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^annex35ter-lvlu1-1]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 Allegato 35<sup>quater</sup> [^t-49]
 
@@ -4201,7 +4197,7 @@ I seguenti dati del SIGDP conformemente all’allegato 3 dell’ordinanza del 22
 - – Gruppo/cerchia di collaboratori
 - – Assicurazione sociale CH
 
-[^annex35f-lvlu1-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+[^annex35f-lvlu1-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
 
 Allegato 35g[^t-56]
 

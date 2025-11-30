@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2009 über militärische und andere Informati
 short: MIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: de
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/de"
 
 (MIV)[^t-1]
 
-vom 16. Dezember 2009 (Stand am 1. Januar 2025)
+vom 16. Dezember 2009 (Stand am 1. Dezember 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -27,11 +27,11 @@ gestützt auf Artikel 186 Absatz 1 und 2 des Bundesgesetzes vom 3. Oktober 2008[
 
 verordnet:
 
-[^ingress-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^ingress-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [SR 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^ingress-4]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^ingress-6]: Fassung gemässs Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -65,7 +65,7 @@ Die Bestimmungen des MIG gelten sinngemäss auch für:
 <sup>3</sup> Zum Verbund der Informationssysteme nach Artikel 4 MIG gehören auch die nur in dieser Verordnung geregelten Informationssysteme. Sowohl zwischen diesen selbst als auch zwischen ihnen und den im MIG geregelten Informationssystemen kann insbesondere die Datenübertragung nach Artikel 4 Absatz 2 Buchstabe b MIG unter den dort genannten Voraussetzungen erfolgen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^2-2]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^2-2]: [SR 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 2a
 
@@ -146,8 +146,8 @@ Die für den Datenschutz verantwortliche Verwaltungseinheit des Bundes und die v
 
   - 1\. das Speichern,
   - 2\. das Verändern,
-  - 3\. das Lesen, sofern die Daten nicht allgemein öffentlich zugänglich sind,
-  - 4\. das Bekanntgeben, sofern die Daten nicht allgemein öffentlich zugänglich sind,
+  - 3\.[^2c-2] das Zugreifen, sofern die Daten nicht allgemein zugänglich sind,
+  - 4\.[^2c-3] das Bekanntgeben, sofern die Daten nicht allgemein zugänglich sind,
   - 5\. das Löschen,
   - 6\. das Vernichten;
 
@@ -174,6 +174,8 @@ Die für die Protokollierung der Identitäten nach Absatz 1 Buchstaben c und d e
 <sup>6</sup> Sie werden während einem Jahr aufbewahrt.
 
 [^2c-1]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. Sept. 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2c-2]: Fassung gemäss Ziff. II der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^2c-3]: Fassung gemäss Ziff. II der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 2d
 
@@ -309,7 +311,7 @@ Das Bundesamt für Justiz meldet der Gruppe Verteidigung über Stellungspflichti
 <sup>9</sup> Die mit dem Vollzug von Freiheitsstrafen und freiheitsentziehenden Massnahmen betrauten Institutionen melden der Gruppe Verteidigung unverzüglich den Eintritt und die Entlassung von Stellungspflichtigen oder Militärdienstpflichtigen.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^5-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^5-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^5-3]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^5-4]: Fassung gemäss Anhang Ziff. 1 der V vom 17. Dez. 2014, in Kraft seit 1. Jan. 2017 ([AS 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
 [^5-5]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
@@ -451,7 +453,7 @@ Die im Informationssystem Personalbewirtschaftung Auslandeinsätze (PERAUS) enth
 
 <sup>2</sup> Die Gruppe Verteidigung[^15-3] betreibt das OpenIBV.
 
-[^15-1]: [SR 510.215](https://fedlex.data.admin.ch/eli/cc/2009/425)
+[^15-1]: [SR 510.215](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7274)
 [^15-2]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^15-3]: Ausdruck Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Die Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -756,7 +758,7 @@ Die im Führungsinformationssystem Soldat (IMESS) enthaltenen Daten sind im Anha
 <sup>3</sup> Die Gruppe Verteidigung betreibt das PEGASUS.
 
 [^52a-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^52a-2]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52a-2]: [SR 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^52a-3]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 52b
@@ -778,7 +780,7 @@ Die Daten des PEGASUS werden beschafft:
 
 [^52c-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52c-2]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^52c-3]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52c-3]: [SR 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 52d
 
@@ -800,7 +802,7 @@ Die Gruppe Verteidigung macht die Daten des PEGASUS zugänglich:
 
 [^52d-1]: Aufgehoben durch Ziff. I der V vom 3. März 2023, mit Wirkung seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52d-2]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^52d-3]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52d-3]: [SR 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^52d-4]: Eingefügt durch Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52d-5]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -853,7 +855,7 @@ Die Gruppe Verteidigung beschafft die Daten für das MilKo:
 - d. aus den nach der IAMV[^52h-1] betriebenen IAM-Systemen und Verzeichnisdiensten;
 - e. aus dem zentralen Identitätsspeicher nach Artikel 13 IAMV.
 
-[^52h-1]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52h-1]: [SR 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 52i
 
@@ -1252,7 +1254,7 @@ Die Daten des MIL PLATTFORM werden beschafft:
 
 [^70s-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^70s-2]: Fassung gemäss Anhang 8 Ziff. II 5 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^70s-3]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^70s-3]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 70t
 
@@ -1559,7 +1561,7 @@ Sie geben die Daten des PSB bekannt:
 - b. dem IAM-System nach Artikel 5 Absatz 1 Buchstabe c IAMV[^72jquinquies-2].
 
 [^72jquinquies-1]: Fassung gemäss Ziff. I der V vom 3. März 2023, in Kraft seit 1. April 2023 ([AS 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^72jquinquies-2]: [SR 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^72jquinquies-2]: [SR 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 72j<sup>sexies</sup>
 
@@ -1652,7 +1654,7 @@ Sie teilt den Departementen und der Bundeskanzlei je zu den Flügen, die für di
 - b. den eingesetzten Flugzeugtyp;
 - c. die Vor- und Nachnamen der Flugpassagiere, die nicht dem Flugpersonal angehören.
 
-[^72kquater-1]: [SR 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
+[^72kquater-1]: [SR 172.010.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5033)
 
 #### Art. 72k<sup>quinquies</sup>
 
@@ -1986,8 +1988,8 @@ Anhang 1a[^t-3]
 - 1\.6.35 Verlust des Schweizer Bürgerrechts
 - 1\.6.36 Tod sowie Dienstbemerkung und Information zum Todeszeitpunkt wie «Verstorben im GAD», «Verstorben im FDT», «Verstorben im Auslandeinsatz» oder «Verstorben ausser Dienst»
 
-[^annex1a-lvlu1-lvl1-lvl16-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex1a-lvlu1-lvl1-lvl16-2]: [SR 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
+[^annex1a-lvlu1-lvl1-lvl16-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex1a-lvlu1-lvl1-lvl16-2]: [SR 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
 
 ### 1.7 Dienstleistungen
 
@@ -2024,8 +2026,8 @@ Anhang 1a[^t-3]
 - 1\.8.18 Datum der Statusbegründung oder -änderung
 - 1\.8.19 Einteilung in Einsatzgruppen im Zusammenhang mit der Funktionsbewertung
 
-[^annex1a-lvlu1-lvl1-lvl18-1]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^annex1a-lvlu1-lvl1-lvl18-2]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^annex1a-lvlu1-lvl1-lvl18-1]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^annex1a-lvlu1-lvl1-lvl18-2]: [SR 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### 1.9 Strafen, Nebenstrafen und strafrechtliche Massnahmen
 
@@ -2043,8 +2045,8 @@ Anhang 1a[^t-3]
 - 1\.9.12 Aufgebotsstopp nach Artikel 34 oder 38 der Verordnung vom 22. November 2017[^annex1a-lvlu1-lvl1-lvl19-2] über die Militärdienstpflicht
 - 1\.9.13 Meldungen nach Artikel 113 Absätze 7 und 8 MG
 
-[^annex1a-lvlu1-lvl1-lvl19-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^annex1a-lvlu1-lvl1-lvl19-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^annex1a-lvlu1-lvl1-lvl19-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^annex1a-lvlu1-lvl1-lvl19-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 ### 1.10 Zusatzdaten (mit Einwilligung der betroffenen Person)
 
@@ -2127,7 +2129,7 @@ B. Fallbericht
 - 2\.1.16 Postzustelladresse\*
 - 2\.1.17 E-ID
 
-[^annex1a-lvlu1-lvl2-lvl21-1]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^annex1a-lvlu1-lvl2-lvl21-1]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ### 2.2 Kontrolldaten
 
@@ -2747,7 +2749,7 @@ Zusätzlich bei einer Anstellung im Armee-Aufklärungsdetachement (AAD) 10, im M
 - 22\. Daten über die erworbenen Brevets und Ausbildungen mit Erwerbsdatum, Resultat und Verfalldatum
 - 23\. Daten für den Verstorbenen- und Vermisstendienst
 
-[^annex6-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annex6-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### Mit
 
@@ -2867,9 +2869,8 @@ Anhang 9[^t-12]
 - 27\. Auslandeinsatzauszeichnungen
 - 28\. Angaben zur Militärversicherung (Militärversicherungs-Referenznummer, Vorfalldatum und Arbeitsunfähigkeitsdauer)
 - 29\. Zeitraum und Beiträge der Pensionskasse
-- [tab]
 
-[^annex9-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annex9-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 Anhang 10[^t-13]
 
@@ -3001,7 +3002,7 @@ Anhang 14[^t-18]
   - e. Signalement;
   - f. Änderungsjournal.
 
-[^annex14-lvlu1-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^annex14-lvlu1-1]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 Anhang 15[^t-19]
 
@@ -3232,8 +3233,8 @@ Anhang 23a[^t-28]
 - 36\. Prüfstufe nach Artikel 30 ISG[^annex23a-lvlu1-1], Datum der Rechtskraft des Entscheids nach Artikel 41 Absatz 2 ISG sowie Zeitpunkt der nächsten ordentlichen Wiederholung der Personensicherheitsprüfung nach Artikel 26 der Verordnung vom 8. November 2023[^annex23a-lvlu1-2] über die Personensicherheitsprüfungen
 - 37\. Folgende biometrische Daten (Templates) einer Person: Handvenenmuster, Irisbild, Fingerabdruck
 
-[^annex23a-lvlu1-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^annex23a-lvlu1-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^annex23a-lvlu1-1]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^annex23a-lvlu1-2]: [SR 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 Anhang 23b[^t-29]
 
@@ -3482,13 +3483,9 @@ Anhang 29b[^t-38]
 
 Anhang 30[^t-39]
 
-- [tab]
-
 [^t-39]: Aufgehoben durch Anhang 8 Ziff. II 5 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, mit Wirkung seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 Anhang 31[^t-40]
-
-- [tab]
 
 [^t-40]: Aufgehoben durch Anhang 2 Ziff. II 3 der V vom 8. Nov. 2023 über das Betriebssicherheitsverfahren, mit Wirkung seit 1. Jan. 2024 ([AS 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)).
 
@@ -3738,7 +3735,7 @@ Anhang 33d[^t-48]
 - 5\. Zeitpunkt und Ort des erfolgten oder versuchten Zugangs einer Person zum MIL PLATTFORM sowie der dabei erfasste Handvenenscan (Logdaten)
 - 6\. Zugangsdaten und -berechtigungen
 
-[^annex33d-lvlu1-1]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^annex33d-lvlu1-1]: [SR 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 Anhang 34[^t-49]
 
@@ -4065,7 +4062,7 @@ Anhang 35<sup>ter</sup> [^t-52]
 - 23\. Niederlassungsbewilligung sowie sonstige Bewilligungen und Bestätigungen, die nach Artikel 12 der Schiessverordnung vom 5. Dezember 2003 für die Zulassung zur freiwilligen Teilnahme an Bundesübungen erforderlich sind
 - 24\. Daten, die von den betreffenden Personen freiwillig gemeldet wurden
 
-[^annex35ter-lvlu1-1]: [SR 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^annex35ter-lvlu1-1]: [SR 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 Anhang 35<sup>quater</sup> [^t-53]
 
@@ -4120,7 +4117,6 @@ Anhang 35<sup>quater</sup> [^t-53]
 
 - 36\. Materialstammdaten (insb. Materialnummer, Materialbezeichnung, Materialart, Gefahrgut- und Gefahrstoffdaten, Lieferantinnen- und Lieferantenangaben, Herstellerinnen- und Herstellerangaben, Herkunftsangaben, Dimensionen, Angaben zu Beschaffung/Lagerhaltung/Instandhaltungsvorgaben/Auszeichnungsrichtlinien, Angaben zu Sicherheit/Zustand/Konfiguration)
 - 37\. Systemstrukturdaten (Angaben zur Grundstruktur von Systemen)
-- [tab]
 
 Anhang 35a[^t-54]
 
@@ -4235,9 +4231,8 @@ Folgende Daten des IPDM gemäss Anhang 3 der Verordnung vom 22. November 2017[^a
 - – Vakanz
 - – Mitarbeitergruppe/-kreis
 - – Sozialversicherung CH
-- [tab]
 
-[^annex35f-lvlu1-1]: [SR 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+[^annex35f-lvlu1-1]: [SR 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
 
 Anhang 35g[^t-60]
 

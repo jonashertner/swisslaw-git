@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2009 sur les systèmes d'information de l'arm
 short: OSIAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: fr
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20250101/fr"
 
 (OSIAr)[^t-1]
 
-du 16 décembre 2009 (État le 1<sup>er</sup> janvier 2025)
+du 16 décembre 2009 (État le 1<sup>er</sup> décembre 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -27,11 +27,11 @@ vu l’art. 186, al. 1 et 2, de la loi fédérale du 3 octobre 2008 sur les syst
 
 arrête:
 
-[^ingress-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [RS 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^ingress-6]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 ## Chapitre 1 Dispositions générales
@@ -65,7 +65,7 @@ Les dispositions de la LSIA s’appliquent par analogie aussi:
 <sup>3</sup> Les systèmes d’information visés uniquement dans la présente ordonnance font également partie du réseau mentionné à l’art. 4 LSIA. Le transfert de données d’un système à un autre aux conditions fixées à l’art. 4, al. 2, let. b, LSIA peut notamment être opéré tant entre lesdits systèmes qu’entre ces derniers et les systèmes d’information réglés dans la LSIA.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^2-2]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^2-2]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 2a
 
@@ -146,8 +146,8 @@ Lors du traitement automatisé des données dans un système d’information vis
 
   - 1\. l’enregistrement,
   - 2\. la modification,
-  - 3\. la lecture, si les données ne sont pas généralement accessibles au public,
-  - 4\. la communication, si les données ne sont pas généralement accessibles au public,
+  - 3\.[^2c-2] l’accès, si les données ne sont pas accessibles à tout un chacun,
+  - 4\.[^2c-3] la communication, si les données ne sont pas accessibles à tout un chacun,
   - 5\. l’effacement,
   - 6\. la destruction;
 
@@ -174,6 +174,8 @@ Les données nécessaires à la journalisation des identités visées à l’al.
 <sup>6</sup> Ils sont conservés durant un an.
 
 [^2c-1]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^2c-2]: Nouvelle teneur selon le ch. II de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
+[^2c-3]: Nouvelle teneur selon le ch. II de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 694](https://fedlex.data.admin.ch/eli/oc/2025/694)).
 
 #### Art. 2d
 
@@ -309,7 +311,7 @@ L’Office fédéral de la justice annonce immédiatement au Groupement Défense
 
 [^5-1]: Nouvelle expression selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-2]: Nouvelle teneur l’annexe ch. 1 de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
-[^5-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^5-3]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^5-4]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^5-5]: Nouvelle teneur l’annexe ch. 1 de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
 [^5-6]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
@@ -365,7 +367,7 @@ Le Groupement Défense collecte les données destinées à être versées au MED
 - k.[^7-4] des services et personnes, au sens de l’art. 113, al. 7 et 8, LAAM, qui fournissent des indices ou renseignements sérieux sur des motifs d’empêchement de la remise de l’arme personnelle ou de l’arme en prêt.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^7-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
 [^7-3]: Introduite par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^7-4]: Introduite par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
@@ -447,7 +449,7 @@ La liste des données contenues dans le Système d’information sur le personne
 
 <sup>2</sup> Le Groupement Défense[^15-3] exploite l’openIBV.
 
-[^15-1]: [RS 510.215](https://fedlex.data.admin.ch/eli/cc/2009/425)
+[^15-1]: [RS 510.215](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7274)
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^15-3]: Nouvelle expression selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Il a été tenu compte de cette mod. dans tout le texte.
 
@@ -751,7 +753,7 @@ La liste des données contenues dans le Système d’information et de conduite 
 
 <sup>3</sup> Le Groupement Défense exploite le PEGASUS.
 
-[^52a-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52a-1]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^52a-2]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 52b
@@ -773,7 +775,7 @@ Les données du PEGASUS sont collectées auprès:
 
 [^52c-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52c-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^52c-3]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52c-3]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 52d
 
@@ -796,7 +798,7 @@ Le Groupement Défense donne accès aux données du PEGASUS:
 [^52d-1]: Abrogée par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52d-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^52d-3]: Introduite par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-[^52d-4]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52d-4]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^52d-5]: Introduite par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 52e
@@ -848,7 +850,7 @@ Le Groupement Défense collecte les données destinées à être versées au COM
 - d. à partir des systèmes IAM et des services d’annuaires exploités en vertu de l’OIAM[^52h-1];
 - e. à partir de la base centralisée des identités visée à l’art. 13 OIAM.
 
-[^52h-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^52h-1]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 
 #### Art. 52i
 
@@ -1246,7 +1248,7 @@ Les données destinées à être versées au MIL PLATTFORM sont collectées:
 
 [^70s-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^70s-2]: Nouvelle teneur selon l’annexe 8 ch. II 5 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^70s-3]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^70s-3]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 70t
 
@@ -1544,7 +1546,7 @@ Elles communiquent les données du PSB:
 - a. à l’IGDP;
 - b. au système IAM visé à l’art. 5, al. 1, let. c, OIAM[^72jquinquies-1].[^72jquinquies-2]
 
-[^72jquinquies-1]: [RS 172.010.59](https://fedlex.data.admin.ch/eli/cc/2016/610)
+[^72jquinquies-1]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
 [^72jquinquies-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 72j<sup>sexies</sup>
@@ -1636,7 +1638,7 @@ Pour chaque vol exécuté pour les départements et la Chancellerie fédérale e
 - b. le type d’avion utilisé;
 - c. le prénom et le nom des passagers qui ne font pas partie du personnel navigant.
 
-[^72kquater-1]: [RS 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
+[^72kquater-1]: [RS 172.010.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5033)
 
 #### Art. 72k<sup>quinquies</sup>
 
@@ -1970,8 +1972,8 @@ Annexe 1a[^t-3]
 - 1\.6.35 Perte de la nationalité suisse
 - 1\.6.36 Décès et remarques de service et informations relatives à la date du décès telles que «décédé durant le SIB», «décédé pendant le SP trp», «décédé en cours d’engagement à l’étranger» ou «décédé hors du service»
 
-[^annex1a-lvlu1-lvl1-lvl16-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex1a-lvlu1-lvl1-lvl16-2]: [RS 513.11](https://fedlex.data.admin.ch/eli/cc/2017/218)
+[^annex1a-lvlu1-lvl1-lvl16-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex1a-lvlu1-lvl1-lvl16-2]: [RS 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
 
 ### 1.7 Services
 
@@ -2008,8 +2010,8 @@ Annexe 1a[^t-3]
 - 1\.8.18 Date de la justification ou de la modification du statut
 - 1\.8.19 Incorporation dans des groupes d’engagement en rapport avec l’évaluation de la fonction
 
-[^annex1a-lvlu1-lvl1-lvl18-1]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^annex1a-lvlu1-lvl1-lvl18-2]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^annex1a-lvlu1-lvl1-lvl18-1]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^annex1a-lvlu1-lvl1-lvl18-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
 
 ### 1.9 Peines, peines accessoires et mesures pénales
 
@@ -2027,8 +2029,8 @@ Annexe 1a[^t-3]
 - 1\.9.12 Interdiction de convocation conformément à l’art. 34 ou 38 de l’ordonnance du 22 novembre 2017 sur les obligations militaires[^annex1a-lvlu1-lvl1-lvl19-2]
 - 1\.9.13 Communications au sens de l’art. 113, al. 7 et 8, LAAM
 
-[^annex1a-lvlu1-lvl1-lvl19-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^annex1a-lvlu1-lvl1-lvl19-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^annex1a-lvlu1-lvl1-lvl19-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^annex1a-lvlu1-lvl1-lvl19-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 ### 1.10 Données supplémentaires (recueillies avec l’accord de la personne concernée)
 
@@ -2111,7 +2113,7 @@ B. Rapport
 - 2\.1.16 Adresse postale\*
 - 2\.1.17 e-ID
 
-[^annex1a-lvlu1-lvl2-lvl21-1]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^annex1a-lvlu1-lvl2-lvl21-1]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ### 2.2 Données de contrôle
 
@@ -2731,7 +2733,7 @@ En complément en cas d’engagement dans le détachement de reconnaissance de l
 - 22\. Données relatives aux formations et aux brevets obtenus, avec la date d’obtention, le résultat et la date d’expiration
 - 23\. Données destinées au service des militaires décédés ou disparus
 
-[^annex6-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annex6-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 Données collectées avec l’accord de la personne concernée:
 
@@ -2850,7 +2852,7 @@ Annexe 9[^t-12]
 - 28\. Données sur l’assurance militaire (numéro de référence de l’assurance militaire, date de l’accident et durée de l’incapacité de travail)
 - 29\. Période et contributions de la caisse de pensions
 
-[^annex9-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^annex9-lvlu1-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 Annexe 10[^t-13]
 
@@ -2976,7 +2978,7 @@ Annexe 14
   - e. signalement;
   - f. journal des modifications.
 
-[^annex14-lvlu1-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^annex14-lvlu1-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
 Annexe 15[^t-16]
 
@@ -3207,8 +3209,8 @@ Annexe 23a[^t-25]
 - 36\. Degré de contrôle selon l’art. 30 LSI[^annex23a-lvlu1-1], date de l’entrée en force de la décision visée à l’art. 41, al. 2, LSI et date de la prochaine répétition ordinaire du contrôle de sécurité relatif aux personnes visée à l’art. 26 de l’ordonnance du 8 novembre 2023 sur les contrôles de sécurité relatifs aux personnes[^annex23a-lvlu1-2]
 - 37\. Données biométriques (modèles) d’une personne: réseau veineux de la main, image de l’iris, empreintes digitales
 
-[^annex23a-lvlu1-1]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^annex23a-lvlu1-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^annex23a-lvlu1-1]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^annex23a-lvlu1-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 Annexe 23b[^t-26]
 
@@ -3711,7 +3713,7 @@ Annexe 33d[^t-44]
 - 5\. Heure et lieu d’accès ou de la tentative d’accès au MIL PLATTFORM et image numérisée des veines de la main (données de consignation) enregistrée à cette occasion
 - 6\. Données et autorisations d’accès
 
-[^annex33d-lvlu1-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^annex33d-lvlu1-1]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 Annexe 34[^t-45]
 
@@ -4038,7 +4040,7 @@ Annexe 35<sup>ter</sup> [^t-48]
 - 23\. Permis d’établissement et autres autorisations et attestations requises en vertu de l’art. 12 de l’ordonnance du 5 décembre 2003 sur le tir pour être autorisé à participer à des exercices fédéraux
 - 24\. Données communiquées volontairement par la personne concernée
 
-[^annex35ter-lvlu1-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^annex35ter-lvlu1-1]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 Annexe 35<sup>quater</sup> [^t-49]
 
@@ -4208,7 +4210,7 @@ Les données du système IGDP ci-après visées dans l’annexe 3 de l’ordonna
 - – Catégorie / statut de salarié
 - – Assurances sociales suisses
 
-[^annex35f-lvlu1-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/eli/cc/2017/793)
+[^annex35f-lvlu1-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
 
 Annexe 35g[^t-56]
 
