@@ -4,13 +4,12 @@ number: "837.200"
 title: Gesetz zum Bundesgesetz über die Krankenversicherung
 short: KVGG
 language: de
-version: 2022-11-01
-valid_until: 2025-11-30
-version_adopted: 2022-09-06
+version: 2025-12-01
+version_adopted: 2025-04-29
 adopted: 2015-12-15
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3244/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3878/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3244/pdf_file"
 
 (KVGG)
 
-Vom 15.12.2015 (Stand 01.11.2022)
+Vom 15.12.2015 (Stand 01.12.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -269,6 +268,8 @@ beschliesst:
 <sup>7</sup> Für die Bestimmung der Berechnungselemente gemäss § 5 stellt die SVA Aargau die Daten der in ihrem System erfassten Beziehenden von Ergänzungsleistungen oder von Sozialhilfe der zuständigen Stelle zu. Als eindeutiges Identifikationsmerkmal dient die AHV-Versichertennummer.
 
 <sup>8</sup> Der Regierungsrat regelt die Einzelheiten, insbesondere zur Stelle gemäss Absatz 7, zum Datenaustausch, zur Selektion der Anspruchsberechtigten und zu den Meldeprozessen, durch Verordnung.
+
+<sup>9</sup> Die SVA Aargau gewährt den kommunalen Sozialbehörden den Zugriff auf die Daten der Prämienverbilligung, soweit dies für die Erfüllung ihrer Aufgaben notwendig ist.
 
 ## 4. Nichtbezahlung von Prämien und Kostenbeteiligungen
 
