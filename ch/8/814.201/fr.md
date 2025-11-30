@@ -4,11 +4,11 @@ title: Ordonnance du 28 octobre 1998 sur la protection des eaux (OEaux)
 short: OEaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: fr
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20251201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr"
 
 (OEaux)
 
-du 28 octobre 1998 (État le 1<sup>er</sup> août 2025)
+du 28 octobre 1998 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -362,9 +362,13 @@ L’autorité vérifie périodiquement que:
 Le plan d’élimination définit au moins:
 
 - a. le mode d’élimination des boues pour chaque station centrale d’épuration;
-- b. les mesures à prendre pour l’élimination envisagée, y compris la construction et la transformation des installations servant à l’élimination des boues, et le calendrier de ces mesures.
+- b. les mesures à prendre pour l’élimination envisagée, y compris la construction et la transformation des installations servant à l’élimination des boues, et le calendrier de ces mesures;
+- c.[^18-1] le mode de récupération du phosphore contenu dans les déchets visés aux art. 15 et 15*a* de l’ordonnance du 4 décembre 2015 sur les déchets[^18-2], pour autant qu’il ne soit pas décrit dans le plan de gestion des déchets visé à l’art. 4 OLED.
 
 <sup>3</sup> Il est accessible au public.
+
+[^18-1]: Introduite par le ch. I art. 54*a* de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^18-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 #### Art. 19
 
@@ -1653,6 +1657,14 @@ L’autorité cantonale peut accorder, jusqu’au 31 décembre 2015, une déroga
 
 Les cantons recensent et contrôlent une première fois jusqu’au 31 décembre 2026 les aires de remplissage et de lavage visées à l’art. 47*a*. Tout manquement constaté est immédiatement corrigé, mais au plus tard jusqu’au 31 décembre 2028, en fonction de la gravité du risque de pollution des eaux. Jusqu’au terme de ces contrôles initiaux, les rapports (art. 47*a*, al. 3) sont établis chaque année.
 
+## Disposition transitoire relative à la modification du 29 octobre 2025
+
+[^u6-1]
+
+[^u6-1]: [RO 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)
+
+L’autorité cantonale doit compléter le plan d’élimination des boues d’épuration conformément à l’art. 18, al. 2, let. c, et le transmettre à l’OFEV d’ici au 1<sup>er</sup> janvier 2028.
+
 Annexe 1
 
 (art. 1)
@@ -1885,11 +1897,11 @@ Annexe 3.1[^t-2]
 <tr><td>1</td><td>Substances non dissoutes totales</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 20 mg/l Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 15 mg/l</td></tr>
 <tr><td>2</td><td>Demande chimique en oxygène *(DCO)*</td><td>Pour les installations de moins de 10 000 EH: – concentration dans les eaux déversées: 60 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 80 % Pour les installations de 10 000 EH et plus: – concentration dans les eaux déversées: 45 mg/l O<sub>2</sub> et – taux d’épuration par rapport aux eaux polluées brutes: 85 %</td></tr>
 <tr><td>3</td><td>Carbone organique dissous *(COD*)</td><td>Pour les installations de 2000 EH et plus: – concentration dans les eaux déversées: 10 mg/l et – taux d’épuration: 85 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Si les valeurs ne sont pas respectées, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>
 <tr><td>4</td><td>Transparence *(d’après la mé**thode de Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(somme de N-NH**<sub>4</sub>**<sup>+</sup>* *et N-NH**<sub>3</sub>**)*</td><td>Si les concentrations d’ammonium dans les eaux polluées peuvent avoir des effets néfastes sur la qualité d’un cours d’eau, les valeurs suivantes sont applicables si la température des eaux polluées est supérieure à 10° C: – concentration dans les eaux déversées: 2 mg/l N et – taux d’efficacité du traitement: 90 %, exprimé comme il suit:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/fr/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/fr/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>Dans ces cas, on procédera à une nitrification durant toute l’année. *Remarque: l’azote obtenu par la méthode de Kjeldahl est la somme de l’azote contenu dans l’ammonium, l’ammoniac et les substances azotées organiques.*</td></tr>
 <tr><td>6</td><td>Nitrite *(N-NO**<sub>2</sub>**<sup>-</sup>**)*</td><td>0,3 mg/l N (valeur indicative)</td></tr>
 <tr><td>7</td><td>Composés organiques halogénés adsorbables *(AOX)*</td><td>0,08 mg/l X Si la valeur n’est pas respectée, l’autorité identifiera les substances impliquées, évaluera leur provenance et fixera le cas échéant les exigences à poser conformément aux annexes 3.2 et 3.3.</td></tr>

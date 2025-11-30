@@ -4,11 +4,11 @@ title: Waters Protection Ordinance of 28 October 1998 (WPO)
 short: WPO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: en
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250801-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/en/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (WPO)
 
-of 28 October 1998 (Status as of 1 August 2025)
+of 28 October 1998 (Last amended on 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -364,9 +364,13 @@ The authorities shall examine periodically whether:
 The disposal plan sets the following as a minimum:
 
 - a. how sludge from the central wastewater treatment plants should be disposed of;
-- b. which procedures, including construction and modification of installations used for disposal of sludge, are required at what time.
+- b. which procedures, including construction and modification of installations used for disposal of sludge, are required at what time;
+- c.[^18-1] how phosphorus is recovered in accordance with Articles 1 and 15*a* of the Waste Ordinance of 4 December 2015[^18-2], unless this process is described in the waste management plan in accordance with Article 4 of the Waste Ordinance.
 
 <sup>3</sup> The sludge disposal plan shall be accessible to the public.
+
+[^18-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)). See also the transitional provision to the Amendment of 29.10.2025 at the end of the text.
+[^18-2]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 #### Art. 19
 
@@ -1656,6 +1660,14 @@ The cantonal authority may grant an exception under Article 25 paragraph 1 until
 
 The cantons shall survey and inspect the filling and washing stations in accordance with Article 47*a* for the first time by 31 December 2026 at the latest. Any defects identified shall be remedied immediately, but no later than 31 December 2028, depending on the severity of the risk of pollution to the waters. Until the completion of these initial checks, reporting (Art. 47*a* para. 3) shall be carried out annually.
 
+## Transitional Provision to the Amendment of 29 October 2025
+
+[^u6-1]
+
+[^u6-1]: [AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)
+
+The cantonal authority must revise the sludge disposal plan in accordance with Article 18 paragraph 2 letter c by 1 January 2028 and submit the same to the FOEN.
+
 Annex 1
 
 (Art. 1)
@@ -1887,9 +1899,9 @@ Annex 3.1[^t-2]
 <tr><th>No.</th><th>Parameter</th><th>Requirements</th></tr>
 <tr><td>1</td><td>Total suspended solids</td><td>For wastewater from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 20 mg/l For wastewater from plants from 10 000 PE the following applies: – discharge concentration: 15 mg/l</td></tr>
 <tr><td>2</td><td>Chemical oxygen demand *(COD)*</td><td>For wastewater from plants of less than 10 000 PE the following requirements apply: – discharge concentration: 60 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw wastewater: 80% For wastewater from plants of 10.000 PE or over the following requirements apply: – discharge concentration: 45 mg/l O<sub>2</sub> and – removal efficiency, with respect to raw wastewater: 85%</td></tr>
-<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For wastewater from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
+<tr><td>3</td><td>Dissolved organic carbon *(DOC)*</td><td>For wastewater from plants of 2000 PE or over the following requirements apply: – discharge concentration: 10 mg/l and – removal efficiency: 85%, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/en/xml/image/image1.png) If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>4</td><td>Transparency *(Snellen method)*</td><td>30 cm</td></tr>
-<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the wastewater are potentially detrimental to the water quality of a watercourse, the following requirements apply if the wastewater temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
+<tr><td>5</td><td>Ammonium *(sum of NH**<sub>4</sub>**<sup>+</sup>* *‑ N and NH**<sub>3</sub>* *- N)*</td><td>If the ammonium concentrations in the wastewater are potentially detrimental to the water quality of a watercourse, the following requirements apply if the wastewater temperature is higher than 10 °C; – discharge concentration: 2 mg/l N and – removal efficiency: 90 %, expressed as ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/en/xml/image/image2.png) In these cases nitrification must be carried out throughout the year: *Remark*: Kjeldahl nitrogen is the sum of the nitrogen inform the ammonium, ammonia and organic nitrogen.</td></tr>
 <tr><td>6</td><td>Nitrite *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0.3 mg/l N (guide value)</td></tr>
 <tr><td>7</td><td>Adsorbable organic halogen *(AOX)*</td><td>0.08 mg/l X. If the value is not complied with, the authorities shall assess the substances, determine their origin and if necessary specify the required procedures in accordance with Annexes 3.2 and 3.3.</td></tr>
 <tr><td>8</td><td>Organic substances that can pollute waters even in low concentrations *(organic trace substances)*</td><td>The removal efficiency with respect to raw wastewater and measured using selected substances must amount to 80 % for wastewater from: – plants with 80 000 or more connected residents; – plants with 24 000 or more connected residents in the catchment area of lakes; the canton may authorise exceptions if the benefit of removal for the environment and for the drinking water supply is negligible; – plants with 8000 or more connected residents that discharge into a watercourse containing more than 10 % wastewater untreated for organic trace substances; the canton shall identify the plants that must take measures as part of a plan for the catchment area; – other plants with 8000 or more connected residents if removal is required due to special hydrogeological conditions; – ...[^annex31-lvlu1-lvl2-1] The Department shall specify the substances to be used to measure the removal efficiency in an ordinance, and how efficiency is calculated.</td></tr>

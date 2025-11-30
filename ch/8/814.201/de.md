@@ -4,11 +4,11 @@ title: Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV)
 short: GSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: de
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de"
 
 (GSchV)
 
-vom 28. Oktober 1998 (Stand am 1. August 2025)
+vom 28. Oktober 1998 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -362,9 +362,13 @@ Die Behörde überprüft periodisch, ob:
 Der Entsorgungsplan legt mindestens fest:
 
 - a. wie der Klärschlamm der zentralen Abwasserreinigungsanlagen entsorgt werden soll;
-- b. welche Massnahmen, einschliesslich der Erstellung und Änderung von Anlagen, die der Entsorgung des Klärschlamms dienen, bis zu welchem Zeitpunkt erforderlich sind.
+- b. welche Massnahmen, einschliesslich der Erstellung und Änderung von Anlagen, die der Entsorgung des Klärschlamms dienen, bis zu welchem Zeitpunkt erforderlich sind;
+- c.[^18-1] wie die Rückgewinnung von Phosphor nach den Artikeln 15 und 15*a* der Abfallverordnung vom 4. Dezember 2015[^18-2] erfolgt, sofern dies nicht in der Abfallplanung nach Artikel 4 der Abfallverordnung beschrieben ist.
 
 <sup>3</sup> Er ist öffentlich zugänglich.
+
+[^18-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)). Siehe auch die UeB Änd. 29.10.2025 am Schluss des Textes.
+[^18-2]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 #### Art. 19
 
@@ -871,9 +875,9 @@ Bei Eingriffen in das oberirdische Gewässer ist der natürliche Verlauf des Fli
 
 [^41cter-1]: Eingefügt durch Anhang Ziff. 3 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
-#### Art. 41c
+#### Art. 41c<sup>quater</sup>
 
-**<sup>quat</sup><sup>er</sup> [^41c-9]Ökologische Gestaltung und Unterhalt**
+**Ökologische Gestaltung und Unterhalt**[^41cquater-1]
 
 <sup>1</sup>
 
@@ -885,7 +889,7 @@ Gewässer und Gewässerraum müssen so gestaltet und unterhalten werden, dass st
 
 <sup>2</sup> Bei der Gestaltung und dem Unterhalt der Gewässer und des Gewässerraums ist einer übermässigen Erwärmung der Gewässer entgegenzuwirken. Insbesondere ist die natürliche Beschattung zu fördern.
 
-[^41c-9]: Eingefügt durch Anhang Ziff. 3 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+[^41cquater-1]: Eingefügt durch Anhang Ziff. 3 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
 
 #### Art. 41d
 
@@ -1654,6 +1658,14 @@ Die kantonale Behörde kann für Betriebe, die aufgrund des Verbots der Fütteru
 
 Die Kantone erheben und kontrollieren die Befüll- und Waschplätze nach Artikel 47*a* erstmals bis spätestens zum 31. Dezember 2026. Festgestellte Mängel sind je nach Schwere der Gewässergefährdung umgehend, spätestens jedoch bis zum 31. Dezember 2028, zu beheben. Bis zum Abschluss dieser erstmaligen Kontrollen erfolgt die Berichterstattung (Art. 47*a* Abs. 3) jährlich.
 
+## Übergangsbestimmung zur Änderung vom 29. Oktober 2025
+
+[^u6-1]
+
+[^u6-1]: [AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)
+
+Die kantonale Behörde muss den Klärschlamm-Entsorgungsplan nach Artikel 18 Absatz 2 Buchstabe c bis zum 1. Januar 2028 ergänzen und dem BAFU übermitteln.
+
 Anhang 1
 
 (Art. 1)
@@ -1886,11 +1898,11 @@ Anhang 3.1[^t-2]
 <tr><td>1</td><td>Gesamte ungelöste Stoffe</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 20 mg/l Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 15 mg/l</td></tr>
 <tr><td>2</td><td>Chemischer Sauerstoffbedarf *(CSB)*</td><td>Für Abwasser aus Anlagen mit weniger als 10 000 EW gilt: – Abflusskonzentration: 60 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 80 % Für Abwasser aus Anlagen ab 10 000 EW gilt: – Abflusskonzentration: 45 mg/l O<sub>2</sub> und – Reinigungseffekt, bezogen auf Rohabwasser: 85 %</td></tr>
 <tr><td>3</td><td>Gelöster organischer Kohlenstoff *(DOC)*</td><td>Für Abwasser aus Anlagen ab 2000 EW gilt: – Abflusskonzentration: 10 mg/l und – Reinigungseffekt: 85 %, ausgedrückt in</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>
 <tr><td>4</td><td>Durchsichtigkeit *(nach Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonium *(Summe von* *NH**<sub>4</sub>**<sup>+</sup>* *- N und NH**<sub>3</sub>* *- N)*</td><td>Können die Ammoniumkonzentrationen im Abwasser nachteilige Auswirkungen auf die Wasserqualität eines Fliessgewässers haben, gilt für eine Abwassertemperatur von mehr als 10 °C: – Abflusskonzentration: 2 mg/l N und – Wirkungsgrad der Behandlung: 90 %, ausgedrückt in</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/de/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/de/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In diesen Fällen ist die Nitrifikation ganzjährig durchzuführen. *Hinweis:* Der Kjeldahl-Stickstoff ist die Summe von Ammonium-Stickstoff, Ammoniak-Stickstoff und organischem Stickstoff.</td></tr>
 <tr><td>6</td><td>Nitrit *(NO**<sub>2</sub>*<sup>–</sup> *- N)*</td><td>0,3 mg/l N (Richtwert)</td></tr>
 <tr><td>7</td><td>Adsorbierbare organische Halogenverbindungen *(AOX)*</td><td>0,08 mg/l X. Ist der Wert nicht eingehalten, bewertet die Behörde die Stoffe, ermittelt deren Herkunft und legt gegebenenfalls die nach den Anhängen 3.2 und 3.3 erforderlichen Massnahmen fest.</td></tr>

@@ -4,11 +4,11 @@ title: Ordinanza del 28 ottobre 1998 sulla protezione delle acque (OPAc)
 short: OPAc
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863"
 language: it
-version: 2025-08-01
+version: 2025-12-01
 adopted: 1998-10-28
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20250801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it/xml/fedlex-data-admin-ch-eli-cc-1998-2863_2863_2863-20251201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/20250801/it"
 
 (OPAc)
 
-del 28 ottobre 1998 (Stato 1° agosto 2025)
+del 28 ottobre 1998 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -362,9 +362,13 @@ L’autorità verifica periodicamente se:
 Il piano di smaltimento definisce almeno:
 
 - a. le modalità di smaltimento dei fanghi prodotti nelle stazioni centrali di depurazione delle acque di scarico;
-- b. le misure necessarie, comprese la costruzione e la modificazione degli impianti destinati allo smaltimento dei fanghi di depurazione, e le scadenze della loro realizzazione.
+- b. le misure necessarie, comprese la costruzione e la modificazione degli impianti destinati allo smaltimento dei fanghi di depurazione, e le scadenze della loro realizzazione;
+- c.[^18-1] come effettuare il recupero del fosforo da rifiuti secondo gli articoli 15 e 15*a* dell’ordinanza del 4 dicembre 2015[^18-2] sui rifiuti, se non è descritto nel piano di gestione dei rifiuti di cui all’articolo 4 dell’ordinanza sui rifiuti.
 
 <sup>3</sup> Il piano di smaltimento è accessibile al pubblico.
+
+[^18-1]: Introdotta dalla cifra I art. 54*a* dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 (RU **2005** 745). Vedi anche le disp. trans. della mod. del 29 ott. 2025 alla fine del presente testo.
+[^18-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 #### Art. 19
 
@@ -1659,6 +1663,14 @@ L’autorità cantonale può concedere, sino al 31 dicembre 2015, una deroga sec
 
 I Cantoni effettuano un rilevamento e un controllo delle aree di riempimento e dei piazzali di lavaggio secondo l’articolo 47*a* per la prima volta entro il 31 dicembre 2026. Le lacune riscontrate devono essere colmate immediatamente, ma al più tardi entro il 31 dicembre 2028, a seconda della gravità del pericolo per le acque. Fino alla conclusione di questo primo controllo, la presentazione del rapporto (art. 47*a* cpv. 2) avviene annualmente.
 
+## Disposizione transitoria della modifica del 29 ottobre 2025
+
+[^u6-1]
+
+[^u6-1]: [RU 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)
+
+L’autorità cantonale deve completare il piano di smaltimento dei fanghi di depurazione di cui all’articolo 18 capoverso 2 lettera c entro il 1° gennaio 2028 e inoltrarlo all’UFAM.
+
 Allegato 1
 
 (art. 1)
@@ -1888,11 +1900,11 @@ Allegato 3.1[^t-2]
 <tr><td>2</td><td>Richiesta di ossigeno chimica *(COD)*</td><td>Per acque di scarico da impianti di meno di 10 000 AE: – concentrazione in uscita: 60 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 80 % Per acque di scarico da impianti di 10 000 AE e più: – concentrazione in uscita: 45 mg/l O<sub>2</sub> ed – efficienza depurativa, riferita alle acque di scarico non trattate: 85 %</td></tr>
 <tr><td>3</td><td>Carbonio organico disciolto *(DOC)*</td><td>Per acque di scarico da impianti di 2000 e più AE: – concentrazione in uscita: 10 mg/l ed – efficienza depurativa: 85 %, espressa come segue:</td></tr>
 <tr><td></td><td></td><td>100 • (1 – mg DOC nelle acque di scarico depurate mg carbonio organico totale nelle acque di scarico non trattate</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/it/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it/xml/image/image1.png)</td></tr>
 <tr><td></td><td></td><td>Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
 <tr><td>4</td><td>Trasparenza *(secondo Snellen)*</td><td>30 cm</td></tr>
 <tr><td>5</td><td>Ammonio *(Somma di NH**<sub>4</sub>**<sup>+</sup>* – *N e* *NH**<sub>3</sub>* – *N)*</td><td>Se le concentrazioni di ammonio nelle acque di scarico possono avere effetti pregiudizievoli sulla qualità di un corso d’acqua, per una temperatura dell’acqua superiore ai 10 °C valgono i seguenti valori: – concentrazione in uscita: 2 mg/l N ed – efficienza depurativa: 90 %, espressa come segue:</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20250801/it/xml/image/image2.png)</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863/20251201/it/xml/image/image2.png)</td></tr>
 <tr><td></td><td></td><td>In questi casi si deve eseguire una nitrificazione durante tutto l’anno. *Nota:* il valore dell’azoto ottenuto con il metodo di Kjeldahl corrisponde alla somma dell’azoto contenuto nei sali di ammonio, nell’ammoniaca e nei composti organici azotati.</td></tr>
 <tr><td>6</td><td>Nitrito *(NO**<sub>2</sub>*<sup>–</sup> - *N)*</td><td>0.3 mg/l N (valore indicativo)</td></tr>
 <tr><td>7</td><td>Composti organici alogenati adsorbibili *(AOX)*</td><td>0.08 mg/l X Se il valore non è rispettato, l’autorità valuta la sostanza, ne determina l’origine e stabilisce se del caso le misure necessarie secondo gli allegati 3.2 e 3.3.</td></tr>
