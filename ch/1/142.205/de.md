@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Integration von Ausländerinnen 
 short: VIntA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/511"
 language: de
-version: 2023-03-01
+version: 2025-12-01
 adopted: 2018-08-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20230301/de/xml/fedlex-data-admin-ch-eli-cc-2018-511-20230301-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2018-511-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/de"
 
 (VIntA)
 
-vom 15. August 2018 (Stand am 1. März 2023)
+vom 15. August 2018 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -154,7 +154,7 @@ Die Kantone erstatten dem SEM jährlich Bericht über die Meldungen. Die Bericht
 - a. die Zuständigkeiten und das Vorgehen bei der Abklärung der Arbeitsmarktfähigkeit;
 - b. die Anzahl der Meldungen und die Anzahl der Vermittlungen.
 
-[^9-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^9-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 
 ## 3. Abschnitt: Integrationserfordernisse für Ausländerinnen und Ausländer
 
@@ -162,9 +162,11 @@ Die Kantone erstatten dem SEM jährlich Bericht über die Meldungen. Die Bericht
 
 #### Art. 10
 
-<sup>1</sup> Flüchtlinge und vorläufig aufgenommene Personen, die Sozialhilfe beziehen, können zur Teilnahme an Integrations- oder Beschäftigungsprogrammen verpflichtet werden; die Verpflichtung von vorläufig aufgenommenen Personen kann in Form einer Integrationsvereinbarung erfolgen.
+<sup>1</sup> Flüchtlinge, Schutzbedürftige und vorläufig aufgenommene Personen, die Sozialhilfe beziehen, können zur Teilnahme an Massnahmen mit dem Ziel der beruflichen Ein- oder Wiedereingliederung verpflichtet werden; die Verpflichtung von vorläufig aufgenommenen Personen kann in Form einer Integrationsvereinbarung erfolgen.[^10-1]
 
 <sup>2</sup> Kommen sie dieser Verpflichtung ohne entschuldbaren Grund nicht nach, so können die Sozialhilfeleistungen nach kantonalem Recht oder nach Artikel 83 Absatz 1 Buchstabe d AsylG gekürzt werden.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 670](https://fedlex.data.admin.ch/eli/oc/2025/670)).
 
 ## 4. Abschnitt: Finanzielle Beiträge zur Förderung der Integration
 
@@ -220,7 +222,7 @@ Finanzielle Beiträge können insbesondere gewährt werden, um:
 
 <sup>1</sup> Die vom Bund und von den Kantonen vereinbarten strategischen Ziele der Integrationsförderung werden in einer Programmvereinbarung nach Artikel 20*a* des Subventionsgesetzes vom 5. Oktober 1990[^14-1] (SuG) festgelegt; sie werden mit kantonalen Integrationsprogrammen umgesetzt.
 
-<sup>2</sup> Die Programmvereinbarung beinhaltet insbesondere die strategischen Ziele, die Leistungs- und Wirkungsziele, die Massnahmen zur Förderung der Erstintegration, die Beitragsleistung des Bundes sowie Indikatoren für die Messung der Zielerreichung. Die Dauer einer Programmvereinbarung beträgt vier Jahre; in begründeten Fällen kann eine kürzere Dauer vereinbart werden.[^14-2]
+<sup>2</sup> Die Programmvereinbarung beinhaltet insbesondere die strategischen Ziele, die Leistungs- und Wirkungsziele, die Massnahmen zur Förderung der Erstintegration, die Beitragsleistung des Bundes sowie Indikatoren für die Messung der Zielerreichung. Die Dauer einer Programmvereinbarung beträgt vier Jahre; in begründeten Fällen kann eine kürzere Dauer vereinbart werden. Laufende Programmvereinbarungen können verlängert werden.[^14-2]
 
 <sup>3</sup> Die Gemeinden sind an der Ausgestaltung der kantonalen Integrationsprogramme angemessen zu beteiligen.
 
@@ -230,8 +232,8 @@ Finanzielle Beiträge können insbesondere gewährt werden, um:
 
 <sup>6</sup> Die Verwendung der Beitragsleistung des Bundes nach den Artikeln 15 und 16 ist in den kantonalen Integrationsprogrammen aufzuzeigen.[^14-3]
 
-[^14-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^14-2]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^14-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^14-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 670](https://fedlex.data.admin.ch/eli/oc/2025/670)).
 [^14-3]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 
 #### Art. 14a
@@ -279,7 +281,7 @@ Im Hinblick auf die Förderung der Erstintegration von anerkannten Flüchtlingen
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 [^15-2]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023, in Kraft seit 1. März 2023 ([AS 2023 46](https://fedlex.data.admin.ch/eli/oc/2023/46)).
-[^15-3]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^15-3]: [SR 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 
 #### Art. 16
 
@@ -293,7 +295,7 @@ Im Hinblick auf die Förderung der Erstintegration von anerkannten Flüchtlingen
 
 <sup>3</sup> Die jeweiligen Aufwendungen der Kantone für die kantonalen Integrationsprogramme müssen mindestens der Höhe des Bundesbeitrags nach Artikel 58 Absatz 3 AIG entsprechen.
 
-[^16-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^16-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 17
 
@@ -328,7 +330,7 @@ Die Berichterstattung beinhaltet namentlich:
 
 <sup>4</sup> Jeder Kanton muss über ein Konzept zu einer risikoorientierten Finanzaufsicht über sein kantonales Integrationsprogramm verfügen. Er informiert das SEM über seine Finanzaufsichtstätigkeit.
 
-[^18-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^18-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 19
 

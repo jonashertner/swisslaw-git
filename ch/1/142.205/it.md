@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 sull'integrazione degli stranieri (OIntS)"
 short: OIntS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/511"
 language: it
-version: 2023-03-01
+version: 2025-12-01
 adopted: 2018-08-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20230301/it/xml/fedlex-data-admin-ch-eli-cc-2018-511-20230301-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2018-511-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/it"
 
 (OIntS)
 
-del 15 agosto 2018 (Stato 1° marzo 2023)
+del 15 agosto 2018 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge federale del 16 dicembre 2005[^ingress-1] sugli stranieri e la lo
 
 ordina:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Sezione 1: Disposizioni generali
 
@@ -154,7 +154,7 @@ Ogni anno i Cantoni rendono conto delle loro notifiche alla SEM. Il loro rapport
 - a. sulle competenze e le modalità relative all’accertamento della concorrenzialità sul mercato del lavoro;
 - b sul numero delle notifiche e dei collocamenti.
 
-[^9-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019.
+[^9-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019.
 
 ## Sezione 3: Requisiti d’integrazione per gli stranieri
 
@@ -162,9 +162,11 @@ Ogni anno i Cantoni rendono conto delle loro notifiche alla SEM. Il loro rapport
 
 #### Art. 10
 
-<sup>1</sup> I rifugiati e le persone ammesse provvisoriamente che beneficiano dell’aiuto sociale possono essere obbligati a partecipare a programmi d’integrazione o d’occupazione; nel caso delle persone ammesse provvisoriamente, l’obbligo può essere formulato sotto forma di accordo d’integrazione.
+<sup>1</sup> I rifugiati, le persone bisognose di protezione e le persone ammesse provvisoriamente che beneficiano dell’aiuto sociale possono essere obbligati a partecipare a misure di integrazione o reintegrazione professionale; nel caso delle persone ammesse provvisoriamente, l’obbligo può essere formulato sotto forma di accordo d’integrazione.[^10-1]
 
 <sup>2</sup> Se i rifugiati e le persone ammesse provvisoriamente che beneficiano dell’aiuto sociale non adempiono tale obbligo senza che vi siano motivi validi, le prestazioni di aiuto sociale possono essere ridotte in virtù del diritto cantonale o dell’articolo 83 capoverso 1 lettera d LAsi.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 670](https://fedlex.data.admin.ch/eli/oc/2025/670)).
 
 ## Sezione 4: Contributi finanziari per promuovere l’integrazione
 
@@ -220,7 +222,7 @@ I contributi finanziari possono essere concessi in particolare per:
 
 <sup>1</sup> Gli obiettivi strategici della promozione dell’integrazione convenuti da Confederazione e Cantoni sono fissati in un accordo di programma secondo l’articolo 20*a* della legge del 5 ottobre 1990[^14-1] sui sussidi (LSu); sono realizzati per mezzo di programmi cantonali d’integrazione.
 
-<sup>2</sup> L’accordo di programma fissa in particolare gli obiettivi strategici, gli obiettivi di prestazione ed efficacia, le misure per promuovere la prima integrazione, il contributo della Confederazione e gli indicatori per misurare il raggiungimento degli obiettivi. La durata dell’accordo di programma è di quattro anni; in casi motivati può essere concordata una durata inferiore.[^14-2]
+<sup>2</sup> L’accordo di programma fissa in particolare gli obiettivi strategici, gli obiettivi di prestazione ed efficacia, le misure per promuovere la prima integrazione, il contributo della Confederazione e gli indicatori per misurare il raggiungimento degli obiettivi. La durata dell’accordo di programma è di quattro anni; in casi motivati può essere concordata una durata inferiore. Gli accordi di programma in corso di validità possono essere prorogati.[^14-2]
 
 <sup>3</sup> I Comuni vanno coinvolti adeguatamente nell’elaborazione dei programmi cantonali d’integrazione.
 
@@ -230,9 +232,9 @@ I contributi finanziari possono essere concessi in particolare per:
 
 <sup>6</sup> L’impiego dei contributi della Confederazione conformemente agli articoli 15 e 16 deve essere specificato nei programmi cantonali d’integrazione.[^14-3]
 
-[^14-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^14-2]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
-[^14-3]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^14-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 670](https://fedlex.data.admin.ch/eli/oc/2025/670)).
+[^14-3]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 
 #### Art. 14a
 
@@ -255,7 +257,7 @@ In merito alla promozione della prima integrazione dei rifugiati riconosciuti e 
 - e. lingua e formazione nella prima infanzia;
 - f. coesistenza.
 
-[^14a-1]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 
 #### Art. 15
 
@@ -277,9 +279,9 @@ In merito alla promozione della prima integrazione dei rifugiati riconosciuti e 
 
 <sup>6</sup> I Cantoni possono impiegare la somma forfettaria anche per misure d’integrazione a favore di persone ammesse provvisoriamente, rifugiati riconosciuti e persone bisognose di protezione titolari di un permesso di dimora, attuate nelle strutture ordinarie dell’aiuto sociale cantonale e considerate alla stregua di prestazioni assistenziali secondo l’articolo 3 della legge federale del 24 giugno 1977[^15-3] sull’assistenza.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
-[^15-2]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 46](https://fedlex.data.admin.ch/eli/oc/2023/46)).
-[^15-3]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^15-2]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 46](https://fedlex.data.admin.ch/eli/oc/2023/46)).
+[^15-3]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 
 #### Art. 16
 
@@ -293,7 +295,7 @@ In merito alla promozione della prima integrazione dei rifugiati riconosciuti e 
 
 <sup>3</sup> Le spese dei Cantoni per finanziare i programmi cantonali d’integrazione devono corrispondere almeno all’importo del contributo federale secondo l’articolo 58 capoverso 3 LStrI.
 
-[^16-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^16-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 17
 
@@ -307,7 +309,7 @@ In merito alla promozione della prima integrazione dei rifugiati riconosciuti e 
 
 <sup>3</sup> Non sono computabili i compiti amministrativi di carattere generale, in particolare i compiti dei servizi competenti per questioni inerenti all’integrazione nonché dei servizi che fungono da interlocutori cantonali per le questioni inerenti all’integrazione secondo gli articoli 4 e 5.
 
-[^17-1]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^17-1]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 
 #### Art. 18
 
@@ -328,7 +330,7 @@ I rapporti illustrano in particolare:
 
 <sup>4</sup> Ogni Cantone deve disporre di una strategia di vigilanza finanziaria sul proprio programma cantonale d’integrazione orientata alla gestione dei rischi. Informa la SEM in merito alla propria attività di vigilanza finanziaria.
 
-[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 19
 
@@ -432,7 +434,7 @@ I membri della CFM sono tenuti a tutelare il segreto sulle loro deliberazioni.
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^sec6-1]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 
 #### Art. 29a
 
@@ -446,7 +448,7 @@ I membri della CFM sono tenuti a tutelare il segreto sulle loro deliberazioni.
 
 <sup>4</sup> Per le persone che entrano in Svizzera dopo il 1° maggio 2019 contestualmente al programma di integrazione per rifugiati reinsediati 2017-2019, la Confederazione versa ai Cantoni una somma forfettaria di 18 000 franchi per ogni rifugiato riconosciuto nel quadro del programma.
 
-[^29a-1]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^29a-1]: Introdotto dalla cifra I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 
 #### Art. 30
 
@@ -454,7 +456,7 @@ I membri della CFM sono tenuti a tutelare il segreto sulle loro deliberazioni.
 
 L’ordinanza del 24 ottobre 2007[^30-1] sull’integrazione degli stranieri è abrogata.
 
-[^30-1]: [[RU 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762), [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854), [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720), [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95)]
+[^30-1]: [[RU 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762); [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854); [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720); [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95)]
 
 #### Art. 31
 

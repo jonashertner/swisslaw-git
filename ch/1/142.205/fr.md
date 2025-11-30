@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'intégration des étrangers (OIE)"
 short: OIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/511"
 language: fr
-version: 2023-03-01
+version: 2025-12-01
 adopted: 2018-08-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20230301/fr/xml/fedlex-data-admin-ch-eli-cc-2018-511-20230301-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/511/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-511-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/511/20230301/fr"
 
 (OIE)
 
-du 15 août 2018 (État le 1<sup>er</sup> mars 2023)
+du 15 août 2018 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration
 
 arrête:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Section 1 Dispositions générales
 
@@ -154,7 +154,7 @@ Les cantons rendent compte chaque année au SEM de leurs annonces. Leur compte r
 - a. les compétences et le mode opératoire concernant l’évaluation de l’employabilité;
 - b. le nombre d’annonces et le nombre de placements.
 
-[^9-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^9-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ## Section 3 Exigences posées aux étrangers en matière d’intégration
 
@@ -162,9 +162,11 @@ Les cantons rendent compte chaque année au SEM de leurs annonces. Leur compte r
 
 #### Art. 10
 
-<sup>1</sup> Les réfugiés et les personnes admises à titre provisoire qui bénéficient de l’aide sociale peuvent être obligés à participer à des programmes d’intégration ou d’occupation; pour les personnes admises à titre provisoire, cette obligation peut prendre la forme d’une convention d’intégration.
+<sup>1</sup> Les réfugiés, les personnes à protéger et les personnes admises à titre provisoire qui bénéficient de l’aide sociale peuvent être obligés à participer à des mesures d’intégration ou de réintégration professionnelle; pour les personnes admises à titre provisoire, cette obligation peut prendre la forme d’une convention d’intégration.[^10-1]
 
 <sup>2</sup> Si, sans motif valable, ils ne s’acquittent pas de cette obligation, les prestations de l’aide sociale peuvent être réduites conformément au droit cantonal ou à l’art. 83, al. 1, let. d, LAsi.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 670](https://fedlex.data.admin.ch/eli/oc/2025/670)).
 
 ## Section 4 Contributions financières en faveur de l’encouragement de l’intégration
 
@@ -220,7 +222,7 @@ Des contributions financières peuvent être accordées en particulier pour:
 
 <sup>1</sup> Les objectifs stratégiques convenus par la Confédération et les cantons en matière d’encouragement de l’intégration sont fixés dans une convention-programme au sens de l’art. 20*a* de la loi du 5 octobre 1990 sur les subventions (LSu)[^14-1]; ils sont mis en œuvre au moyen de programmes d’intégration cantonaux.
 
-<sup>2</sup> La convention-programme comporte notamment les objectifs stratégiques, les objectifs en matière de prestations et d’efficacité, les mesures d’encouragement de la première intégration, la contribution fournie par la Confédération ainsi que des indicateurs permettant d’évaluer le degré de réalisation des objectifs. La durée d’une convention-programme est de quatre ans; une durée plus courte peut être convenue dans des cas justifiés.[^14-2]
+<sup>2</sup> La convention-programme comporte notamment les objectifs stratégiques, les objectifs en matière de prestations et d’efficacité, les mesures d’encouragement de la première intégration, la contribution fournie par la Confédération ainsi que des indicateurs permettant d’évaluer le degré de réalisation des objectifs. La durée d’une convention-programme est de quatre ans; une durée plus courte peut être convenue dans des cas justifiés. Les conventions-programmes en cours peuvent être prolongées.[^14-2]
 
 <sup>3</sup> Les communes doivent être associées à l’élaboration des programmes d’intégration cantonaux dans une juste mesure.
 
@@ -230,8 +232,8 @@ Des contributions financières peuvent être accordées en particulier pour:
 
 <sup>6</sup> L’utilisation de la contribution fournie par la Confédération conformément aux art. 15 et 16 doit être détaillée dans les programmes d’intégration cantonaux.[^14-3]
 
-[^14-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^14-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
+[^14-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 670](https://fedlex.data.admin.ch/eli/oc/2025/670)).
 [^14-3]: Introduit par le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 
 #### Art. 14a
@@ -279,7 +281,7 @@ En ce qui concerne l’encouragement de la première intégration des réfugiés
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1229](https://fedlex.data.admin.ch/eli/oc/2019/234)).
 [^15-2]: Introduit par le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 46](https://fedlex.data.admin.ch/eli/oc/2023/46)).
-[^15-3]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^15-3]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 
 #### Art. 16
 
@@ -293,7 +295,7 @@ En ce qui concerne l’encouragement de la première intégration des réfugiés
 
 <sup>3</sup> Les dépenses des cantons pour financer les programmes d’intégration cantonaux doivent correspondre au moins au montant de la contribution fédérale visée à l’art. 58, al. 3, LEI.
 
-[^16-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^16-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 17
 
@@ -328,7 +330,7 @@ Le compte rendu porte notamment sur:
 
 <sup>4</sup> Chaque canton doit disposer d’une stratégie de surveillance financière de son programme d’intégration axée sur les risques. Il informe le SEM de ses activités en matière de surveillance financière.
 
-[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^18-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 19
 
@@ -450,7 +452,7 @@ Les membres de la CFM sont tenus d’observer le secret sur leurs délibération
 
 L’ordonnance du 24 octobre 2007 sur l’intégration des étrangers[^30-1] est abrogée.
 
-[^30-1]: [[RO 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762), [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854), [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720), [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95)]
+[^30-1]: [[RO 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762); [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854); [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720); [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95)]
 
 #### Art. 31
 
