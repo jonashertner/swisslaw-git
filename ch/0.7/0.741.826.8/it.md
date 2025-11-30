@@ -3,11 +3,11 @@ sr: "0.741.826.8"
 title: "Accordo di cooperazione del 18 dicembre 2013 tra la Confederazione svizzera, da una parte, e l'Unione europea e i suoi Stati membri, dall'altra, sui programmi europei di navigazione satellitare (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/49"
 language: it
-version: 2014-01-01
+version: 2025-12-01
 adopted: 2013-12-18
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/49/20140101/it/xml/fedlex-data-admin-ch-eli-cc-2014-49-20140101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/49/20140101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/49/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2014-49-20251201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/49/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,11 @@ RU **2014** 299
 
 Testo originale
 
-Concluso a Bruxelles il 18 dicembre 2013
+Concluso a Bruxelles il 18 dicembre 2013 Applicato provvisoriamente dalla Svizzera e dallʼUnione europea dal 1° gennaio 2014 Entrato in vigore il 1° dicembre 2025[^t-1]
 
-Applicato provvisoriamente dalla Svizzera e dallʼUnione europea dal 1° gennaio 2014
+(Stato 1° dicembre 2025)
 
-(Stato 1° gennaio 2014)
+[^t-1]: Notifica del 7 lug. 2015 e 17 ott. 2025 ([RU 2025 757](https://fedlex.data.admin.ch/eli/oc/2025/757)).
 
 La Confederazione svizzera,
 
@@ -68,8 +68,8 @@ considerando la decisione n. 1104/2011/UE del Parlamento europeo e del Consiglio
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
-[^ingress-2]: [RS 0.514.126.81](https://fedlex.data.admin.ch/eli/cc/2008/563)
+[^ingress-1]: [RS 0.420.513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1668)
+[^ingress-2]: [RS 0.514.126.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1908)
 [^ingress-3]: GUUE L 196 del 24.7.2008, pag. 1.
 [^ingress-4]: GUUE L 276 del 20.10.2010, pag. 11.
 [^ingress-5]: GUUE L 287 del 4.11.2011, pag. 1.
@@ -101,7 +101,7 @@ Ai fini del presente accordo si intende per:
 - 9\. «proprietà intellettuale», il significato corrispondente alla definizione di cui all’articolo 2, punto viii), della Convenzione istitutiva dell’Organizzazione mondiale della proprietà intellettuale, sottoscritta a Stoccolma il 14 luglio 1967[^2-1];
 - 10\. «informazioni classificate», informazioni, sotto qualsiasi forma, che devono essere protette da una divulgazione non autorizzata che potrebbe arrecare un pregiudizio, di vario grado, ad interessi fondamentali, tra i quali la sicurezza nazionale, delle parti o di singoli Stati membri. La classificazione delle informazioni è indicata da un contrassegno di classificazione. Un’informazione di questo tipo è classificata dalle parti conformemente alla normativa e alla regolamentazione applicabili e deve essere protetta per impedirne l’eventuale perdita di riservatezza, integrità e disponibilità.
 
-[^2-1]: [RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
+[^2-1]: [RS 0.230](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/901)
 
 #### Art. 3
 
@@ -158,7 +158,7 @@ Le parti svolgono le attività di cooperazione contemplate dal presente accordo 
 
 <sup>2.</sup> Fatto salvo l’articolo XXIII del GPA (articolo III del GPA riveduto), le entità svizzere hanno diritto di partecipare alle procedure di appalto per la fornitura di servizi connessi ai programmi europei GNSS.
 
-[^7-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^7-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 
 #### Art. 8
 
@@ -172,7 +172,7 @@ Le parti incoraggiano e sostengono la cooperazione tra le rispettive industrie, 
 
 Per agevolare la cooperazione industriale, le parti accordano e garantiscono la protezione adeguata ed efficace dei diritti di proprietà intellettuale nei campi e nei settori connessi allo sviluppo e all’utilizzo del GNSS europeo, conformemente alle norme internazionali più rigorose stabilite dall’«Accordo sugli aspetti dei diritti di proprietà intellettuale attinenti al commercio (TRIPS)» dell’OMC[^9-1], ivi compresi mezzi efficaci per garantirne l’osservanza.
 
-[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), allegato 1C
+[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), allegato 1C
 
 #### Art. 10
 
@@ -194,7 +194,7 @@ Per agevolare la cooperazione industriale, le parti accordano e garantiscono la 
 
 <sup>4.</sup> Il presente accordo non pregiudica i diritti e gli obblighi delle parti discendenti dall’accordo che istituisce l’OMC[^11-1].
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 12
 

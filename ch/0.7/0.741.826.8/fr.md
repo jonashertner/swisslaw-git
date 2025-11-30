@@ -3,16 +3,16 @@ sr: "0.741.826.8"
 title: "Accord de coopération du 18 décembre 2013 entre la Confédération suisse, d'une part, et l'Union européenne et ses États membres, d'autre part, relatif aux programmes européens de navigation par satellite (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/49"
 language: fr
-version: 2014-01-01
+version: 2025-12-01
 adopted: 2013-12-18
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/49/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-49-20140101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/49/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/49/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2014-49-20251201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/49/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de coopération entre la Confédération suisse, d’une part, et l’Union européenne et ses Etats membres, d’autre part, relatif aux programmes européens de navigation par satellite
+# Accord de coopération entre la Confédération suisse, d’une part, et l’Union européenne et ses États membres, d’autre part, relatif aux programmes européens de navigation par satellite
 
 RO **2014** 299
 
@@ -22,7 +22,11 @@ Conclu à Bruxelles le 18 décembre 2013
 
 Appliqué provisoirement entre la Suisse et l’Union européenne dès le 1<sup>er</sup> janvier 2014
 
-(Etat le 1<sup>er</sup> janvier 2014)
+Entré en vigueur le 1<sup>er</sup> décembre 2025[^t-1]
+
+(État le 1<sup>er</sup> décembre 2025)
+
+[^t-1]: Notification des 7 juil. 2015 et 17 oct. 2025 ([RO 2025 757](https://fedlex.data.admin.ch/eli/oc/2025/757)).
 
 La Confédération suisse,
 
@@ -32,7 +36,7 @@ et l’Union européenne
 
 et le Royaume de Belgique, la République de Bulgarie, la République tchèque, le Royaume de Danemark, la République fédérale d’Allemagne, la République d’Estonie, l’Irlande, la République hellénique, le Royaume d’Espagne, la République française, la République croate, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le Grand-Duché de Luxembourg, la Hongrie, la République de Malte, le Royaume des Pays-Bas, la République d’Autriche, la République de Pologne, la République portugaise, la Roumanie, la République de Slovénie, la République slovaque, la République de Finlande, le Royaume de Suède, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,
 
-parties contractantes au traité sur l’Union européenne et au traité sur le fonctionnement de l’Union européenne, ci‑après dénommés «Etats membres», d’autre part,
+parties contractantes au traité sur l’Union européenne et au traité sur le fonctionnement de l’Union européenne, ci‑après dénommés «États membres», d’autre part,
 
 ci‑après dénommés «partie» ou «parties»,
 
@@ -42,11 +46,11 @@ reconnaissant l’importance des programmes GNSS européens pour leur contributi
 
 considérant le développement croissant des applications GNSS dans l’Union européenne, en Suisse et dans d’autres régions du monde,
 
-considérant l’intérêt commun pour une coopération à long terme entre l’Union européenne, ses Etats membres et la Suisse dans le domaine de la navigation par satellite,
+considérant l’intérêt commun pour une coopération à long terme entre l’Union européenne, ses États membres et la Suisse dans le domaine de la navigation par satellite,
 
 reconnaissant l’étroite participation de la Suisse aux programmes Galileo et EGNOS depuis leurs phases de définition,
 
-considérant les résolutions du Conseil «Espace», notamment celle sur la «politique spatiale européenne», adoptée le 22 mai 2007 et celle sur le thème «Faire progresser la politique spatiale européenne», adoptée le 29 septembre 2008, qui reconnaissent l’Union européenne, l’Agence spatiale européenne (ci-après dénommée «ESA») et leurs Etats membres respectifs comme les trois principaux acteurs de la politique spatiale européenne, ainsi que la résolution «Défis mondiaux: tirer pleinement parti des systèmes spatiaux européens», adoptée le 25 novembre 2010, qui invite la Commission européenne et l’ESA à faciliter, pour les Etats membres qui ne sont pas membres à la fois de l’Union européenne et de l’ESA, la participation à toutes les phases des programmes entrepris en collaboration,
+considérant les résolutions du Conseil «Espace», notamment celle sur la «politique spatiale européenne», adoptée le 22 mai 2007 et celle sur le thème «Faire progresser la politique spatiale européenne», adoptée le 29 septembre 2008, qui reconnaissent l’Union européenne, l’Agence spatiale européenne (ci-après dénommée «ESA») et leurs États membres respectifs comme les trois principaux acteurs de la politique spatiale européenne, ainsi que la résolution «Défis mondiaux: tirer pleinement parti des systèmes spatiaux européens», adoptée le 25 novembre 2010, qui invite la Commission européenne et l’ESA à faciliter, pour les États membres qui ne sont pas membres à la fois de l’Union européenne et de l’ESA, la participation à toutes les phases des programmes entrepris en collaboration,
 
 considérant la communication de la Commission du 4 avril 2011 intitulée «Vers une stratégie spatiale de l’Union européenne au service du citoyen»,
 
@@ -60,7 +64,7 @@ reconnaissant l’accord du 28 avril 2008 entre la Confédération suisse et l�
 
 considérant les avantages inhérents à un niveau de protection des GNSS européens et de leurs services équivalent sur les territoires des parties,
 
-reconnaissant les obligations des parties en vertu du droit international, notamment celles qui incombent à la Suisse en sa qualité d’Etat neutre permanent,
+reconnaissant les obligations des parties en vertu du droit international, notamment celles qui incombent à la Suisse en sa qualité d’État neutre permanent,
 
 reconnaissant que le règlement (CE) n<sup>o</sup> 683/2008 du Parlement européen et du Conseil du 9 juillet 2008 relatif à la poursuite de la mise en œuvre des programmes européens de radionavigation par satellite (EGNOS et Galileo)[^ingress-3] dispose que la Communauté européenne est propriétaire de tous les biens corporels ou incorporels créés ou mis au point dans le cadre des programmes GNSS européens tels que définis par ledit règlement,
 
@@ -70,8 +74,8 @@ considérant la décision n<sup>o</sup> 1104/2011/UE du Parlement européen et d
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
-[^ingress-2]: [RS 0.514.126.81](https://fedlex.data.admin.ch/eli/cc/2008/563)
+[^ingress-1]: [RS 0.420.513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1668)
+[^ingress-2]: [RS 0.514.126.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1908)
 [^ingress-3]: JOUE L 196 du 24.7.2008, p. 1.
 [^ingress-4]: JOUE L 276 du 20.10.2010 p. 11.
 [^ingress-5]: JOUE L 287 du 4.11.2011, p. 1.
@@ -94,16 +98,16 @@ Aux fins du présent accord, on entend par:
 
 - 1\. «systèmes mondiaux de navigation par satellite européens» (GNSS européens), les systèmes créés par le programme Galileo et le système européen de navigation par recouvrement géostationnaire (EGNOS);
 - 2\. «extensions», des mécanismes régionaux ou locaux tels que EGNOS, qui permettent aux utilisateurs de GNSS mondiaux d’obtenir de meilleures performances, notamment sur le plan de la précision, de la disponibilité, de l’intégrité et de la fiabilité;
-- 3\. «Galileo», un système autonome européen de navigation et de synchronisation par satellite à couverture mondiale, placé sous contrôle civil et destiné à fournir des services GNSS conçus et développés par l’Union européenne, l’ESA et leurs Etats membres respectifs. L’exploitation de Galileo peut être cédée à un organe privé. Galileo vise à offrir un service ouvert, un service commercial, un service de sauvegarde de la vie et un service de recherche et de sauvetage, ainsi qu’un service public réglementé sécurisé à accès restreint spécifiquement conçu pour répondre aux besoins d’utilisateurs autorisés du secteur public;
+- 3\. «Galileo», un système autonome européen de navigation et de synchronisation par satellite à couverture mondiale, placé sous contrôle civil et destiné à fournir des services GNSS conçus et développés par l’Union européenne, l’ESA et leurs États membres respectifs. L’exploitation de Galileo peut être cédée à un organe privé. Galileo vise à offrir un service ouvert, un service commercial, un service de sauvegarde de la vie et un service de recherche et de sauvetage, ainsi qu’un service public réglementé sécurisé à accès restreint spécifiquement conçu pour répondre aux besoins d’utilisateurs autorisés du secteur public;
 - 4\. «éléments locaux Galileo», des mécanismes locaux qui fournissent aux utilisateurs de Galileo des signaux de navigation et de synchronisation par satellite avec des informations d’entrée qui s’ajoutent aux informations provenant de la constellation principale en service. Des éléments locaux peuvent être déployés pour obtenir des performances supplémentaires dans les alentours des aéroports et des ports maritimes, en milieu urbain ou dans les autres environnements désavantagés par leurs caractéristiques géographiques. Galileo fournira des modèles génériques pour les éléments locaux;
 - 5\. «équipement de navigation, de localisation et de synchronisation à couverture mondiale», tout équipement destiné à un utilisateur final civil et conçu pour transmettre, recevoir ou traiter des signaux de navigation ou de synchronisation par satellite en vue de fournir un service, ou de fonctionner avec une extension régionale;
 - 6\. «service public réglementé» (PRS), un service fourni par le système issu du programme Galileo, réservé aux utilisateurs autorisés par les autorités publiques, pour les applications sensibles qui exigent un contrôle d’accès efficace et un niveau élevé de continuité du service;
 - 7\. «mesure réglementaire», toute loi, réglementation, politique, règle, procédure, décision ou action administrative similaire d’une des parties;
 - 8\. «interopérabilité», l’aptitude des systèmes mondiaux et régionaux de navigation par satellite et des extensions, ainsi que des services qu’ils fournissent, à être utilisés ensemble pour fournir, au niveau de l’utilisateur, des capacités meilleures que celles qui seraient obtenues en utilisant uniquement le service ouvert d’un seul système;
 - 9\. «propriété intellectuelle», la notion définie à l’art. 2, point viii), de la convention instituant l’Organisation mondiale de la propriété intellectuelle[^2-1], signée à Stockholm, le 14 juillet 1967;
-- 10\. «information classifiée», une information, sous quelque forme que ce soit, qui nécessite une protection contre une divulgation non autorisée susceptible de nuire, à des degrés divers, aux intérêts essentiels, y compris de sécurité nationale, des parties ou d’un Etat Membre. Sa classification est indiquée par une marque de classification. Une telle information est classifiée par les parties en accord avec les lois et règlements applicables et doit être protégée contre toute perte de confidentialité, d’intégrité et de disponibilité.
+- 10\. «information classifiée», une information, sous quelque forme que ce soit, qui nécessite une protection contre une divulgation non autorisée susceptible de nuire, à des degrés divers, aux intérêts essentiels, y compris de sécurité nationale, des parties ou d’un État Membre. Sa classification est indiquée par une marque de classification. Une telle information est classifiée par les parties en accord avec les lois et règlements applicables et doit être protégée contre toute perte de confidentialité, d’intégrité et de disponibilité.
 
-[^2-1]: [RS 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
+[^2-1]: [RS 0.230](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/901)
 
 #### Art. 3
 
@@ -160,7 +164,7 @@ Les parties mènent les activités de coopération régies par le présent accor
 
 <sup>2.</sup> Sans préjudice de l’art. XXIII de l’AMP (art. III de l’AMP révisé), les entités suisses ont le droit de participer à la passation des marchés pour la fourniture de services liés aux programmes GNSS européens.
 
-[^7-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^7-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 
 #### Art. 8
 
@@ -174,7 +178,7 @@ Les parties encouragent et soutiennent la coopération entre leurs industries, y
 
 Pour faciliter la coopération industrielle, les parties accordent et assurent une protection adéquate et effective des droits de propriété intellectuelle dans les domaines et secteurs ayant un rapport avec la mise au point et l’exploitation des GNSS européens, conformément aux normes internationales les plus élevées établies par l’accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce (ADPIC) de l’OMC[^9-1], y compris en prévoyant des moyens efficaces permettant d’assurer le respect de ces normes.
 
-[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1C
+[^9-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1C
 
 #### Art. 10
 
@@ -196,7 +200,7 @@ Pour faciliter la coopération industrielle, les parties accordent et assurent u
 
 <sup>4.</sup> Le présent accord n’affecte pas les droits et les obligations des parties découlant de l’accord instituant l’OMC[^11-1].
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 12
 
@@ -210,7 +214,7 @@ L’un des objectifs de ladite coordination est de promouvoir une utilisation é
 
 <sup>3.</sup> Les parties veillent à ce que les mesures relatives aux normes techniques, à la certification et aux exigences et procédures d’autorisation concernant les GNSS européens ne constituent pas des entraves inutiles aux échanges commerciaux. Les exigences nationales sont fondées sur des critères transparents, objectifs, non discriminatoires et préalablement établis.
 
-<sup>4.</sup> Les parties prennent les mesures réglementaires nécessaires pour permettre l’entière utilisation des récepteurs et des éléments terrestres et spatiaux Galileo sur les territoires relevant de leur juridiction. A cet égard, la Suisse réserve à Galileo, sur le territoire relevant de sa juridiction, un traitement qui n’est pas moins favorable que celui accordé à tout autre système offrant des services de radionavigation par satellite comparables.
+<sup>4.</sup> Les parties prennent les mesures réglementaires nécessaires pour permettre l’entière utilisation des récepteurs et des éléments terrestres et spatiaux Galileo sur les territoires relevant de leur juridiction. À cet égard, la Suisse réserve à Galileo, sur le territoire relevant de sa juridiction, un traitement qui n’est pas moins favorable que celui accordé à tout autre système offrant des services de radionavigation par satellite comparables.
 
 #### Art. 13
 
@@ -224,11 +228,11 @@ L’un des objectifs de ladite coordination est de promouvoir une utilisation é
 
 #### Art. 14
 
-**Echanges d’informations classifiées**
+**Échanges d’informations classifiées**
 
 <sup>1.</sup> L’échange et la protection des informations classifiées de l’Union européenne s’effectuent conformément à l’accord sur la sécurité et à ses modalités d’application.
 
-<sup>2.</sup> La Suisse peut échanger des informations classifiées portant une marque de classification nationale et concernant les programmes GNSS européens avec les Etats membres avec lesquels elle a conclu des accords bilatéraux à cet effet.
+<sup>2.</sup> La Suisse peut échanger des informations classifiées portant une marque de classification nationale et concernant les programmes GNSS européens avec les États membres avec lesquels elle a conclu des accords bilatéraux à cet effet.
 
 <sup>3.</sup> Les parties s’efforcent de mettre en place un cadre juridique complet et cohérent qui permet des échanges d’informations classifiées relatives au programme Galileo entre toutes les parties.
 
@@ -258,7 +262,7 @@ Les représentants de la Suisse sont invités à participer, en qualité d’obs
 
 **Financement**
 
-La Suisse contribue au financement des programmes GNSS européens. La contribution de la Suisse est calculée sur la base du facteur de proportionnalité, obtenu en établissant le rapport entre le produit intérieur brut, aux prix du marché, de la Suisse et la somme des produits intérieurs bruts, aux prix du marché, des Etats membres.
+La Suisse contribue au financement des programmes GNSS européens. La contribution de la Suisse est calculée sur la base du facteur de proportionnalité, obtenu en établissant le rapport entre le produit intérieur brut, aux prix du marché, de la Suisse et la somme des produits intérieurs bruts, aux prix du marché, des États membres.
 
 Pour la période 2008-2013, la contribution suisse aux programmes GNSS européens s’élève à 80 050 870 EUR.
 
@@ -282,7 +286,7 @@ La Suisse n’étant pas propriétaire des GNSS européens, elle n’encourt auc
 
 **Comité mixte**
 
-<sup>1.</sup> Il est institué un comité mixte, dénommé «comité GNSS Union européenne/ Suisse». Il est constitué de représentants des parties et responsable de la gestion et de la bonne application du présent accord. A cet effet, il formule des recommandations. Il prend des décisions dans les cas prévus par le présent accord, qui sont exécutées par les parties selon leurs propres règles. Les décisions du comité mixte sont prises d’un commun accord.
+<sup>1.</sup> Il est institué un comité mixte, dénommé «comité GNSS Union européenne/ Suisse». Il est constitué de représentants des parties et responsable de la gestion et de la bonne application du présent accord. À cet effet, il formule des recommandations. Il prend des décisions dans les cas prévus par le présent accord, qui sont exécutées par les parties selon leurs propres règles. Les décisions du comité mixte sont prises d’un commun accord.
 
 <sup>2.</sup> Le comité mixte établit son règlement intérieur, qui contient, entre autres dispositions, les modalités de convocation des réunions, de désignation de son président et de définition du mandat de ce dernier.
 
@@ -362,7 +366,7 @@ Chaque partie désigne un arbitre dans les 30 jours.
 
 Les deux arbitres ainsi désignés nomment d’un commun accord un surarbitre qui n’est ressortissant d’aucune des parties. Si les arbitres ne peuvent se mettre d’accord dans un délai de deux mois suivant leur désignation, ils choisissent le surarbitre sur une liste de sept personnes établie par le comité mixte. Le comité mixte établit et tient à jour cette liste conformément à son règlement intérieur.
 
-A moins que les parties n’en décident autrement, le tribunal arbitral fixe lui-même ses règles de procédure. Il prend ses décisions à la majorité.
+À moins que les parties n’en décident autrement, le tribunal arbitral fixe lui-même ses règles de procédure. Il prend ses décisions à la majorité.
 
 Annexe II
 
@@ -379,7 +383,7 @@ Pour la période à partir de 2014, le versement de la contribution suisse s’e
 
 \2. Le règlement financier applicable au budget général de l’Union[^annexII-lvlu1-1] et ses règles d’application[^annexII-lvlu1-2] s’appliquent, notamment à la gestion de la contribution de la Suisse.
 
-\3. Les frais de voyage et de séjour encourus par les représentants et experts de la Suisse dans le cadre de leur participation à des réunions organisées par la Commission en rapport avec la mise en œuvre des programmes sont remboursés par la Commission sur la même base et suivant les mêmes procédures que celles en vigueur pour les experts des Etats membres.
+\3. Les frais de voyage et de séjour encourus par les représentants et experts de la Suisse dans le cadre de leur participation à des réunions organisées par la Commission en rapport avec la mise en œuvre des programmes sont remboursés par la Commission sur la même base et suivant les mêmes procédures que celles en vigueur pour les experts des États membres.
 
 \4. La Commission adresse à la Suisse un appel de fonds correspondant à sa contribution au budget des programmes, conformément au présent accord.
 

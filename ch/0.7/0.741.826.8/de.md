@@ -3,11 +3,11 @@ sr: "0.741.826.8"
 title: Kooperationsabkommen vom 18. Dezember 2013 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits über die europäischen Satellitennavigationsprogramme (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/49"
 language: de
-version: 2014-01-01
+version: 2025-12-01
 adopted: 2013-12-18
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/49/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2014-49-20140101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/49/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/49/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2014-49-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/49/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,11 @@ Abgeschlossen in Brüssel am 18. Dezember 2013
 
 Von der Schweiz und der Europäischen Union provisorisch angewendet ab 1. Januar 2014
 
-(Stand am 1. Januar 2014)
+In Kraft getreten am 1. Dezember 2025[^t-1]
+
+(Stand am 1. Dezember 2025)
+
+[^t-1]: Notifikationen vom 7. Juli 2015 und 17. Okt. 2025 ([AS 2025 757](https://fedlex.data.admin.ch/eli/oc/2025/757)).
 
 Die Schweizerische Eidgenossenschaft,
 
@@ -68,8 +72,8 @@ in Anbetracht des Beschlusses Nr. 1104/2011/EU des Europäischen Parlaments und 
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
-[^ingress-2]: [SR 0.514.126.81](https://fedlex.data.admin.ch/eli/cc/2008/563)
+[^ingress-1]: [SR 0.420.513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1668)
+[^ingress-2]: [SR 0.514.126.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1908)
 [^ingress-3]: ABl. EU L 196 vom 24.7.2008, S. 1.
 [^ingress-4]: ABl. EU L 276 vom 20.10.2010, S. 11.
 [^ingress-5]: ABl. EU L 287 vom 4.11.2011, S. 1.
@@ -101,7 +105,7 @@ Für die Zwecke dieses Abkommens bezeichnet der Ausdruck:
 - 9\. «geistiges Eigentum» Eigentum im Sinne der Begriffsbestimmung in Artikel 2 Ziffer viii des am 14. Juli 1967[^2-1] in Stockholm unterzeichneten Übereinkommens zur Errichtung der Weltorganisation für geistiges Eigentum;
 - 10\. «Verschlusssache» Informationen in jeglicher Form, die vor einer unbefugten Weitergabe geschützt werden müssen, welche grundlegenden Interessen der Vertragsparteien oder einzelner Mitgliedstaaten einschliesslich nationaler Sicherheitsinteressen, in unterschiedlichem Masse schaden könnte. Der Vertraulichkeitsgrad wird durch eine besondere Einstufungskennzeichnung angegeben. Solche Informationen werden von den Vertragsparteien nach Massgabe der geltenden Rechts- und Verwaltungsvorschriften als vertraulich eingestuft und sind gegen jeglichen Verlust der Vertraulichkeit, der Integrität und der Verfügbarkeit zu schützen.
 
-[^2-1]: [SR 0.230](https://fedlex.data.admin.ch/eli/cc/1970/602_603_603)
+[^2-1]: [SR 0.230](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/901)
 
 #### Art. 3
 
@@ -158,7 +162,7 @@ Die Vertragsparteien wenden folgende Grundsätze auf die Kooperationsmassnahmen 
 
 <sup>(2)</sup> Unbeschadet des Artikels XXIII des GPA (Art. III der Neufassung des GPA) haben Schweizer Stellen das Recht, an Beschaffungsvorgängen mitzuwirken, die die Erbringung von Diensten im Zusammenhang mit den europäischen GNSS-Programmen betreffen.
 
-[^7-1]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^7-1]: [SR 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 
 #### Art. 8
 
@@ -172,7 +176,7 @@ Die Vertragsparteien fördern und unterstützen die Kooperation ihrer Industrien
 
 Zur Erleichterung der industriellen Kooperation gewähren und gewährleisten die Vertragsparteien einen angemessenen und wirksamen Schutz der Rechte des geistigen Eigentums in den für die Entwicklung und den Betrieb der europäischen GNSS relevanten Bereichen und Branchen nach den höchsten internationalen Standards gemäss dem «Übereinkommen über handelsbezogene Aspekte der Rechte des geistigen Eigentums (TRIPS)» der WTO[^9-1], einschliesslich wirksamer Mittel zur Durchsetzung dieser Standards.
 
-[^9-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1C
+[^9-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1C
 
 #### Art. 10
 
@@ -194,7 +198,7 @@ Zur Erleichterung der industriellen Kooperation gewähren und gewährleisten die
 
 <sup>(4)</sup> Dieses Abkommen lässt die Rechte und Pflichten der Vertragsparteien aus dem Übereinkommen zur Errichtung der WTO[^11-1] unberührt.
 
-[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 12
 
