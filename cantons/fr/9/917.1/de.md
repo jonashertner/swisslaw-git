@@ -4,13 +4,12 @@ number: "917.1"
 title: Gesetz über die Bodenverbesserungen
 short: BVG
 language: de
-version: 2024-03-01
-valid_until: 2025-11-30
-version_adopted: 2023-11-24
+version: 2025-12-01
+version_adopted: 2025-09-02
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7957/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8314/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bodenverbesserungen – G
 
 (BVG)
 
-vom 30.05.1990 (Fassung in Kraft getreten am 01.03.2024)
+vom 30.05.1990 (Fassung in Kraft getreten am 01.12.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1926,7 +1925,7 @@ beschliesst:
 
 **Entscheide der Grundbuchverwalter**
 
-<sup>1</sup> Die Entscheide der Grundbuchverwalter können bei der Aufsichtsbehörde über das Grundbuch angefochten werden, soweit die Spezialgesetzgebung dies vorsieht.
+<sup>1</sup> Die Entscheide der Grundbuchverwalter können bei der Rekurskommission für das Grundbuch angefochten werden, soweit die Spezialgesetzgebung dies vorsieht.
 
 #### Art. 211
 
@@ -2028,6 +2027,8 @@ beschliesst:
 
 **Genehmigung**
 
-Die Änderung vom 08.09.2011 ist vom Eidgenössischen Justiz- und Polizeidepartement am 21.12.2011 genehmigt worden.
+\1. Die Änderung vom 08.09.2011 ist vom Eidgenössischen Justiz- und Polizeidepartement am 21.12.2011 genehmigt worden.
+
+\2. Die Änderung vom 02.09.2025 ist vom Eidgenössischen Justiz- und Polizeidepartement am 24.11.2025 genehmigt worden.
 
 BL/AGS 1990 f 241 / d 242

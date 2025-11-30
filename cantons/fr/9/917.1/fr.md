@@ -4,13 +4,12 @@ number: "917.1"
 title: Loi sur les améliorations foncières
 short: LAF
 language: fr
-version: 2024-03-01
-valid_until: 2025-11-30
-version_adopted: 2023-11-24
+version: 2025-12-01
+version_adopted: 2025-09-02
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7957/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8314/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Améliorations foncières – L
 
 (LAF)
 
-du 30.05.1990 (version entrée en vigueur le 01.03.2024)
+du 30.05.1990 (version entrée en vigueur le 01.12.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1926,7 +1925,7 @@ Décrète:
 
 **Décisions des conservateurs du registre foncier**
 
-<sup>1</sup> Les décisions des conservateurs du registre foncier peuvent être attaquées auprès de l'Autorité de surveillance du registre foncier, dans la mesure où la législation spéciale le prévoit.
+<sup>1</sup> Les décisions des conservateurs du registre foncier peuvent être attaquées auprès de la Commission de recours en matière de registre foncier, dans la mesure où la législation spéciale le prévoit.
 
 #### Art. 211
 
@@ -2030,6 +2029,8 @@ Décrète:
 
 **Approbation**
 
-La modification du 08.09.2011 a été approuvée par le Département fédéral de justice et police le 21.12.2011.
+\1. La modification du 08.09.2011 a été approuvée par le Département fédéral de justice et police le 21.12.2011.
+
+\2. La modification du 02.09.2025 a été approuvée par le Département fédéral de justice et police le 24.11.2025.
 
 BL/AGS 1990 f 241 / d 242
