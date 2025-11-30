@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i pagamenti diretti all'agrico
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: it
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20250101-it-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20251201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20250101/it"
 
 (Ordinanza sui pagamenti diretti, OPD)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2025)
+del 23 ottobre 2013 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -341,7 +341,7 @@ Le superfici sono delimitate in maniera vincolante se:
 
 <sup>2</sup> Nell’applicazione di prodotti fitosanitari devono essere tenute in considerazione le soglie nocive nonché le raccomandazioni dei servizi ufficiali di previsione e di allerta. L’Ufficio federale dell’agricoltura (UFAG) pubblica le soglie nocive per gli organismi nocivi[^18-2].
 
-<sup>3</sup> Possono essere applicati soltanto prodotti fitosanitari immessi sul mercato in virtù dell’ordinanza del 12 maggio 2010[^18-3] sui prodotti fitosanitari (OPF).
+<sup>3</sup> Possono essere applicati soltanto prodotti fitosanitari immessi sul mercato in virtù dell’ordinanza del 20 agosto 2025[^18-3] sui prodotti fitosanitari.[^18-4]
 
 <sup>4</sup> I prodotti fitosanitari che contengono principi attivi ad alto potenziale di rischio per le acque superficiali o sotterranee in linea di principio non possono essere applicati. I principi attivi sono fissati nell’allegato 1 numero 6.1.
 
@@ -361,6 +361,7 @@ I servizi cantonali competenti possono rilasciare autorizzazioni speciali di cui
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^18-2]: Le soglie nocive vigenti possono essere consultate su [www.blw.admin.ch/it/prova-esigenze-ecologiche-rispettate](https://www.blw.admin.ch/it/prova-esigenze-ecologiche-rispettate).
 [^18-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^18-4]: Nuovo testo giusta l’all. 10 cifra II n. 8 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 19
 
@@ -2704,7 +2705,7 @@ Sono abrogate:
 - 3\. l’ordinanza del 4 aprile 2001[^116-3] sulla qualità ecologica.
 
 [^116-1]: [[RU 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29); [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)art. 20 n. 2; [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48), [1310](https://fedlex.data.admin.ch/eli/oc/2001/179)art. 22 n. 1, [3539](https://fedlex.data.admin.ch/eli/oc/2001/525); [2003 1998](https://fedlex.data.admin.ch/eli/oc/2003/301), [5321](https://fedlex.data.admin.ch/eli/oc/2003/777); [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153), [4827](https://fedlex.data.admin.ch/eli/oc/2006/744); [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817); [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511), [5819](https://fedlex.data.admin.ch/eli/oc/2008/800); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338), [6091](https://fedlex.data.admin.ch/eli/oc/2009/745); [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835); [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337), [5295](https://fedlex.data.admin.ch/eli/oc/2011/765), [5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 3, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. 3; [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
-[^116-2]: [[RU 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)cifra II n. 1; [2010 2321](https://fedlex.data.admin.ch/eli/oc/2010/336), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835)cifra II n. 1; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 4, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II 4]
+[^116-2]: [[RU 2007 6139](https://fedlex.data.admin.ch/eli/oc/2007/818); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)cifra II n. 1; [2010 2321](https://fedlex.data.admin.ch/eli/oc/2010/336), [5855](https://fedlex.data.admin.ch/eli/oc/2010/835)cifra II n. 1; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 4, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 4]
 [^116-3]: [[RU 2001 1310](https://fedlex.data.admin.ch/eli/oc/2001/179), [2003 4871](https://fedlex.data.admin.ch/eli/oc/2003/717), [2007 6157](https://fedlex.data.admin.ch/eli/oc/2007/819), [2009 6313](https://fedlex.data.admin.ch/eli/oc/2009/769), [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)cifra II n. 3]
 
 #### Art. 117

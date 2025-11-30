@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20250101-fr-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20251201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20250101/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2025)
+du 23 octobre 2013 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -342,7 +342,7 @@ Une surface est considérée comme officiellement délimitée:
 
 <sup>2</sup> Les seuils de tolérance et les recommandations des services officiels de prévision et d’avertissement doivent être pris en considération lors de l’utilisation de produits phytosanitaires. L’Office fédéral de l’agriculture (OFAG) publie les seuils de tolérance concernant les organismes nuisibles[^18-2].
 
-<sup>3</sup> Seuls les produits phytosanitaires mis en circulation selon l’ordonnance du 12 mai 2010 sur les produits phytosanitaires (OPPh)[^18-3] peuvent être utilisés.
+<sup>3</sup> Seuls les produits phytosanitaires mis en circulation conformément à l’ordonnance du 20 août 2025 sur les produits phytosanitaires (OPPh)[^18-3] peuvent être utilisés.[^18-4]
 
 <sup>4</sup> Les produits phytosanitaires qui contiennent des substances actives présentant un risque potentiel élevé pour les eaux superficielles ou les eaux souterraines ne doivent en principe pas être utilisés. Les substances actives concernées figurent à l’annexe 1, ch. 6.1.1.
 
@@ -362,6 +362,7 @@ Les services cantonaux compétents peuvent accorder des autorisations spéciales
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^18-2]: Les seuils de tolérance en vigueur sont disponibles sous [www.blw.admin.ch/fr/prestations-ecologiques-requises](https://www.blw.admin.ch/fr/prestations-ecologiques-requises).
 [^18-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^18-4]: Nouvelle teneur selon l’annexe 10 ch. II 8 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 19
 

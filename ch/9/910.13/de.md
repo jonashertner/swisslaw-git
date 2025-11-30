@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20250101-de-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20251201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20250101/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2025)
+vom 23. Oktober 2013 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -341,7 +341,7 @@ Verbindlich ausgeschieden sind Flächen, wenn:
 
 <sup>2</sup> Bei der Anwendung von Pflanzenschutzmitteln müssen die Schadschwellen sowie die Empfehlungen von offiziellen Prognose- und Warndiensten berücksichtigt werden. Das Bundesamt für Landwirtschaft (BLW) veröffentlicht die Schadschwellen für die Schadorganismen[^18-2].
 
-<sup>3</sup> Es dürfen nur Pflanzenschutzmittel angewendet werden, die nach der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^18-3] (PSMV) in Verkehr gebracht worden sind.
+<sup>3</sup> Es dürfen nur Pflanzenschutzmittel angewendet werden, die nach der Pflanzenschutzmittelverordnung vom 20. August 2025[^18-3] (PSMV) in Verkehr gebracht worden sind.[^18-4]
 
 <sup>4</sup> Pflanzenschutzmittel, die Wirkstoffe mit erhöhtem Risikopotenzial für Oberflächengewässer oder Grundwasser enthalten, dürfen grundsätzlich nicht angewendet werden. Die Wirkstoffe sind in Anhang 1 Ziffer 6.1.1 festgelegt.
 
@@ -361,6 +361,7 @@ Die zuständigen kantonalen Fachstellen können Sonderbewilligungen nach Anhang 
 [^18-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^18-2]: Die Schadschwellen sind abrufbar unter: [www.blw.admin.ch/de/oekologischer-leistungsnachweis](http://www.blw.admin.ch/de/oekologischer-leistungsnachweis).
 [^18-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^18-4]: Fassung gemäss Anhang 10 Ziff. II 8 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 19
 
