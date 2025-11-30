@@ -4,13 +4,12 @@ number: 541w
 title: "Reglement zum Weiterbildungsangebot «MAS Leadership & Purpose» der Theologischen Fakultät der Universität Luzern"
 short: Reglement MAS LeadPurp
 language: de
-version: 2024-08-01
-valid_until: 2025-11-30
-version_adopted: 2024-03-27
+version: 2025-12-01
+version_adopted: 2025-10-24
 adopted: 2024-03-27
 in_force: 2024-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/541w"
-pdf: "https://srl.lu.ch/api/de/versions/4221/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4537/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,17 @@ pdf: "https://srl.lu.ch/api/de/versions/4221/pdf_file"
 
 (Reglement MAS LeadPurp)
 
-vom 27.03.2024 (Stand 01.08.2024)
+vom 27.03.2024 (Stand 01.12.2025)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 16 Absatz 1g des Universitätsgesetzes vom 17. Januar 2000[^ingress-1],
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
 
 auf Antrag des Senats,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^ingress-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -37,7 +36,7 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Der «MAS Leadership & Purpose» (MAS LeadPurp) ist ein modulares Weiterbildungsangebot der Theologischen Fakultät der Universität Luzern. Es beinhaltet drei Zertifikatslehrgänge (Certificate of Advanced Studies, CAS), nämlich den CAS Reflective Leadership[^1-1], den CAS Leadership & Purpose[^1-2] und einen Zertifikatslehrgang (Wahlmodul) aus einem verwandten Fachgebiet einer anderen Fakultät oder Hochschule/Universität, sowie ein Masterprogramm (Master of Advanced Studies, MAS) der Theologischen Fakultät. Die Wahlmodule sind in einer Wegleitung geregelt. Über die Anrechenbarkeit von Wahlmodulen entscheidet die Studienleitung. Die Anrechenbarkeit wird nach von der Studienleitung festgelegten einheitlichen und transparenten Kriterien geprüft.
+<sup>1</sup> Der «MAS Leadership & Purpose» (MAS LeadPurp) ist ein modulares Weiterbildungsangebot der Theologischen Fakultät der Universität Luzern. Es beinhaltet drei Zertifikatslehrgänge (Certificate of Advanced Studies, CAS), nämlich den CAS Reflective Leadership[^1-1], den CAS Leadership & Purpose[^1-2] und einen Zertifikatslehrgang (Wahlzertifikatslehrgang) aus einem verwandten Fachgebiet der Theologischen Fakultät oder einer anderen Fakultät oder Hochschule/Universität, sowie ein Masterprogramm (Master of Advanced Studies, MAS) der Theologischen Fakultät. Die Wahlzertifikatslehrgänge sind in einer Wegleitung geregelt. Über die Anrechenbarkeit von Wahlzertifikatslehrgängen entscheidet die Studienleitung. Die Anrechenbarkeit wird nach von der Studienleitung festgelegten einheitlichen und transparenten Kriterien geprüft.
 
 <sup>2</sup> Der erfolgreiche Abschluss befähigt Absolvierende, kirchliche und nichtkirchliche Organisationseinheiten in anspruchsvollen Situationen wirkungsvoll zu führen und weiterzuentwickeln. Das Weiterbildungsprogramm richtet sich an aktuelle und angehende Führungskräfte im kirchlichen Umfeld sowie an aktuelle und zukünftige Führungskräfte aus Wirtschaft, Nonprofit-Organisationen und Verwaltung, die sich mit Blick auf die persönlich und institutionell zunehmenden Sinnfragen vertieft mit Leadership, Purpose, Wirkung und theologischer Fundierung auseinandersetzen möchten.
 
@@ -157,7 +156,7 @@ beschliesst:
 
 <sup>1</sup> Für den Erwerb des «Master of Advanced Studies in Leadership & Purpose der Universität Luzern» bedarf es des erfolgreichen Abschlusses der Zertifikatslehrgänge gemäss § 1 Absatz 1 und des Masterprogramms (§ 6 Abs. 1).
 
-<sup>2</sup> Die Schlussnote des MAS LeadPurp berechnet sich aus dem arithmetischen Mittel der Noten der drei Zertifikatslehrgänge und der Note des Masterprogramms.
+<sup>2</sup> Sofern die Bewertung der Zertifikatslehrgänge in Noten erfolgt, wird die Schlussnote des MAS LeadPurp aus dem arithmetischen Mittel der vier Einzelnoten gebildet: aus den Noten der drei Zertifikatslehrgänge und der Note des Masterprogramms. Jede Note wird gleich gewichtet.
 
 <sup>3</sup> Ein Diploma Supplement gibt Aufschluss über Inhalt und Umfang des Studiengangs sowie über die Thematik der schriftlichen Arbeit.
 
