@@ -3,20 +3,19 @@ canton: SG
 number: "711.1"
 title: Einführungsverordnung zum eidgenössischen Strassenverkehrsgesetz
 language: de
-version: 2017-10-01
-valid_until: 2025-11-30
-version_adopted: 2017-06-27
+version: 2025-12-01
+version_adopted: 2025-10-14
 adopted: 1979-11-20
 in_force: 1980-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/711.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2303/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3826/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsverordnung zum eidgenössischen Strassenverkehrsgesetz
 
-vom 20.11.1979 (Stand 01.10.2017)
+vom 20.11.1979 (Stand 01.12.2025)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -47,7 +46,7 @@ als Verordnung:[^ingress-2]
 
 - a) Führer- und Fahrzeugprüfungen,
 - b) Bewilligungen und Ausweise im Strassenverkehr,
-- c) Massnahmen gegenüber Fahrzeugführern.
+- c) Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern.
 
 <sup>2</sup> Sie besorgen die Geschäfte in ihrem Aufgabenbereich selbständig nach allgemeinen Weisungen des Sicherheits- und Justizdepartementes.
 
@@ -71,15 +70,15 @@ als Verordnung:[^ingress-2]
 
 [^3bis-1]: SR [741.622](https://db.clex.ch/link/Bund/741.622/de).
 
-## II. Führer und Fahrzeuge
+## II. Führerinnen und Führer sowie Fahrzeuge
 
 #### Art. 4
 
 **Führerprüfung**
 
-<sup>1</sup> Der Fahrlehrer kann an der praktischen Führerprüfung seines Schülers teilnehmen.
+<sup>1</sup> Die Fahrlehrerin oder der Fahrlehrer kann an der praktischen Führerprüfung seiner Schülerin oder seines Schülers teilnehmen.
 
-<sup>2</sup> Die praktische Führerprüfung wird im Wiederholungsfall von einem anderen Sachverständigen abgenommen, wenn der Kandidat nicht den gleichen verlangt.
+<sup>2</sup> Die praktische Führerprüfung wird im Wiederholungsfall von einer anderen sachverständigen Person abgenommen, wenn die Kandidatin oder der Kandidat nicht die gleiche verlangt.
 
 #### Art. 5
 
@@ -106,7 +105,7 @@ als Verordnung:[^ingress-2]
 
 **Nachprüfung a) Nachkontrolle durch die Polizei**
 
-<sup>1</sup> Werden bei einer Nachprüfung geringfügige Mängel festgestellt, so kann der Halter angewiesen werden, das Fahrzeug zur Nachkontrolle der Polizei vorzuführen.
+<sup>1</sup> Werden bei einer Nachprüfung geringfügige Mängel festgestellt, so kann die Halterin oder der Halter angewiesen werden, das Fahrzeug zur Nachkontrolle der Polizei vorzuführen.
 
 #### Art. 6bis
 
@@ -120,17 +119,60 @@ als Verordnung:[^ingress-2]
 
 **Auskunft**
 
-<sup>1</sup> Name und Adresse des Halters sowie Art und Schildnummer des Fahrzeuges können in einem Verzeichnis veröffentlicht werden, wenn nicht der Halter schriftlich die Sperrung seiner Daten verlangt. Die Angabe eines Grundes ist für die Sperrung nicht erforderlich.[^7-1]
+<sup>1</sup> Name und Adresse der Halterin oder des Halters sowie Art und Schildnummer des Fahrzeuges können in einem Verzeichnis veröffentlicht werden, wenn nicht die Halterin oder der Halter schriftlich die Sperrung seiner Daten verlangt. Die Angabe eines Grundes ist für die Sperrung nicht erforderlich.[^7-1]
 
 [^7-1]: Vgl. Art. 104 Abs. 5 des eidg Strassenverkehrsgesetzes vom 19. Dezember 1958, SR [741.01](https://www.gesetzessammlung.sg.ch/data/741.01/de).
+
+#### Art. 7bis
+
+**Abrufverfahren**
+
+<sup>1</sup> Das Strassenverkehrs- und Schifffahrtsamt betreibt eine Plattform für die Bekanntgabe von Fahrberechtigungs- und Fahrzeugdaten im Abrufverfahren.
+
+<sup>2</sup> Die Plattform enthält insbesondere folgende Stammdaten:
+
+- a) Anrede;
+- b) Vorname;
+- c) Name;
+- d) Geburtsdatum;
+- e) Heimatort;
+- f) Adresse;
+- g) AHV-Versicherungsnummer;
+- h) Firma;
+- i) UID-Nummer;
+- j) Fahrzeugdaten und Fahrzeuggeschichte.
+
+<sup>3</sup> Die Datenplattform enthält insbesondere folgende weitere Daten:
+
+- a) Daten nach [Art. 89e](https://db.clex.ch/link/Bund/741.01/de) Bst. a<sup>bis</sup> in Verbindung mit [Art. 89c](https://db.clex.ch/link/Bund/741.01/de) des eidgenössischen Strassenverkehrsgesetzes vom 19. Dezember 1958[^7bis-1] sowie der eidgenössischen Verordnung über das Informationssystem Verkehrszulassung vom 30. November 2018[^7bis-2];
+- b) Daten zum technischen Zustand von Fahrzeugen.
+
+<sup>4</sup> Folgende öffentliche Organe können im Abrufverfahren Einsicht in die Daten nehmen, wenn sie diese zur Erfüllung ihrer gesetzlichen Aufgaben benötigen:
+
+- a) Daten nach Abs. 2 und 3 dieser Bestimmung:
+  - 1\. die Polizei;
+  - 2\. die Staatsanwaltschaft;
+- b) Daten nach Abs. 2 dieser Bestimmung:
+  - 1\. das Steueramt;
+  - 2\. die Sozialhilfebehörden;
+  - 3\. das Konkursamt;
+  - 4\. die Betreibungsämter;
+  - 5\. das Amt für Wirtschaft und Arbeit.
+
+<sup>5</sup> Die Leitung des datenbeziehenden öffentlichen Organs bestimmt die Mitarbeitenden oder Organisationseinheiten, die Daten abrufen können. Sie meldet diese dem Strassenverkehrs- und Schifffahrtsamt.
+
+<sup>6</sup> Das Strassenverkehrs- und Schifffahrtsamt stellt sicher, dass die Zugriffsrechte dokumentiert, überprüfbar und datenschutzkonform verwaltet werden.
+
+[^7bis-1]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de).
+[^7bis-2]: SR [741.58](https://db.clex.ch/link/Bund/741.58/de).
 
 #### Art. 8
 
 **Kontrollschild a) Abgabe**
 
-<sup>1</sup> Der Fahrzeughalter hat keinen Anspruch auf ein bestimmtes Kontrollschild.
+<sup>1</sup> Die Fahrzeughalterin oder der Fahrzeughalter hat keinen Anspruch auf ein bestimmtes Kontrollschild.
 
-<sup>2</sup> Ein zurückgegebenes Kontrollschild wird mindestens ein Jahr freigehalten, wenn der frühere Inhaber nicht darauf verzichtet.
+<sup>2</sup> Ein zurückgegebenes Kontrollschild wird mindestens ein Jahr freigehalten, wenn die frühere Inhaberin oder der frühere Inhaber nicht darauf verzichtet.
 
 <sup>3</sup> Kontrollschilder werden mit rückstrahlendem Belag abgegeben.
 
@@ -138,7 +180,7 @@ als Verordnung:[^ingress-2]
 
 **b) Versteigerung**
 
-<sup>1</sup> Das Strassenverkehrs- und Schifffahrtsamt kann Kontrollschilder für Motorwagen und Motorräder mit einer niedrigen oder besonderen Nummer dem Meistbietenden zuteilen.
+<sup>1</sup> Das Strassenverkehrs- und Schifffahrtsamt kann Kontrollschilder für Motorwagen und Motorräder mit einer niedrigen oder besonderen Nummer der meistbietenden Person zuteilen.
 
 <sup>2</sup> Es regelt die Einzelheiten der Versteigerung in allgemeinen Geschäftsbedingungen.
 
@@ -146,12 +188,12 @@ als Verordnung:[^ingress-2]
 
 **c) Abtretung**
 
-<sup>1</sup> Der Halter kann das ihm zugeteilte Kontrollschild abtreten:
+<sup>1</sup> Die Halterin oder der Halter kann das ihr oder ihm zugeteilte Kontrollschild abtreten:
 
 - a) wenn es ein- bis vierstellig ist:
-  - 1\. an Verwandte in direkter Linie, Geschwister, den Ehegatten, den Partner einer eingetragenen Partnerschaft oder den Lebenspartner in eheähnlicher Gemeinschaft;
+  - 1\. an Verwandte in direkter Linie, Geschwister, die Ehegattin oder den Ehegatten, die Partnerin oder den Partner einer eingetragenen Partnerschaft oder die Lebenspartnerin oder den Lebenspartner in eheähnlicher Gemeinschaft;
   - 2\. im Rahmen einer Übertragung oder Neustrukturierung des Unternehmens nach den Bestimmungen des eidgenössischen Fusionsgesetzes;[^8ter-1]
-- b) einem beliebigen Halter, wenn es wenigstens fünfstellig ist.
+- b) einer beliebigen Halterin oder einem beliebigen Halter, wenn es wenigstens fünfstellig ist.
 
 [^8ter-1]: SR [221.301](https://db.clex.ch/link/Bund/221.301/de).
 
@@ -229,9 +271,9 @@ als Verordnung:[^ingress-2]
 
 #### Art. 17
 
-**Arbeits- und Ruhezeit der Chauffeure**
+**Arbeits- und Ruhezeit der Chauffeurinnen und Chauffeure**
 
-<sup>1</sup> Die Polizei überwacht die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer.
+<sup>1</sup> Die Polizei überwacht die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführerinnen und Motorfahrzeugführer.
 
 <sup>2</sup> In der Stadt St.Gallen ist die Stadtpolizei zuständig.
 
@@ -245,7 +287,7 @@ als Verordnung:[^ingress-2]
 
 **Entfernung von Fahrzeugen**
 
-<sup>1</sup> Die Polizei kann vorschriftswidrig aufgestellte Fahrzeuge, die den Verkehr erschweren oder gefährden, auf Kosten und Gefahr des Führers entfernen, wenn dieser nicht erreichbar ist oder sich weigert, das Fahrzeug wegzustellen.
+<sup>1</sup> Die Polizei kann vorschriftswidrig aufgestellte Fahrzeuge, die den Verkehr erschweren oder gefährden, auf Kosten und Gefahr der Führerin oder des Führers entfernen, wenn diese oder dieser nicht erreichbar ist oder sich weigert, das Fahrzeug wegzustellen.
 
 ## III. Verkehrsanordnungen
 
@@ -311,7 +353,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Wer eine Verkehrsanordnung verfügt hat, kann aus wichtigen Gründen Ausnahmen bewilligen. Das Polizeikommando kann die Bewilligung von Ausnahmen an die politische Gemeinde delegieren.
 
-<sup>2</sup> Die zuständigen Stellen können insbesondere den Gehbehinderten und den Ärzten im Notfalldienst das Parkieren erleichtern.
+<sup>2</sup> Die zuständigen Stellen können insbesondere den gehbehinderten Personen und den Ärztinnen und Ärzten im Notfalldienst das Parkieren erleichtern.
 
 [^24-1]: Vgl. Art. 17 Abs. 1 der eidg Signalisationsverordnung vom 5. September 1979, SR [741.21](https://db.clex.ch/link/Bund/741.21/de).
 
@@ -339,7 +381,7 @@ als Verordnung:[^ingress-2]
 
 - a) auf den Kantonsstrassen vom kantonalen Strasseninspektorat;
 - b) auf den Kantonsstrassen in der Stadt St.Gallen von den Gemeindebehörden, soweit ihnen der Unterhalt übertragen ist;
-- c) auf den übrigen Strassen, ausgenommen Nationalstrassen[^26-1], von der Gemeinde. Sie hört die Strasseneigentümer an.
+- c) auf den übrigen Strassen, ausgenommen Nationalstrassen[^26-1], von der Gemeinde. Sie hört die Strasseneigentümerinnen und Strasseneigentümer an.
 
 [^26-1]: Art. 6 und 8 BG über die Nationalstrassen vom 8. März 1960, SR [725.11](https://db.clex.ch/link/Bund/725.11/de).
 
@@ -368,7 +410,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Wer zum Unterhalt der Strasse verpflichtet ist,[^29-1] trägt die Kosten der Signalisation.
 
-<sup>2</sup> Er hat die Signale und Markierungen zu unterhalten.
+<sup>2</sup> Sie oder er hat die Signale und Markierungen zu unterhalten.
 
 [^29-1]: Vgl. Art. [51](https://www.gesetzessammlung.sg.ch/data/732.1/de/art51) ff. StrG, sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
 
@@ -376,7 +418,7 @@ als Verordnung:[^ingress-2]
 
 **Grundeigentümerbeitrag**
 
-<sup>1</sup> Der Grundeigentümer, dem ein Signal besondere Vorteile verschafft, kann verpflichtet werden, an die Kosten beizutragen.
+<sup>1</sup> Die Grundeigentümerin oder der Grundeigentümer, dem ein Signal besondere Vorteile verschafft, kann verpflichtet werden, an die Kosten beizutragen.
 
 #### Art. 31
 
