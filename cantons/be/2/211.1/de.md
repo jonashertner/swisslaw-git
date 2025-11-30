@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2023-04-01
-valid_until: 2025-11-30
-version_adopted: 2022-09-13
+version: 2025-12-01
+valid_until: 2025-12-31
+version_adopted: 2025-09-28
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2817/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3260/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2817/pdf_file"
 
 (EG ZGB)
 
-vom 28.05.1911 (Stand 01.04.2023)
+vom 28.05.1911 (Stand 01.12.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1020,6 +1020,18 @@ beschliesst:
 #### Art. 135
 
 **…**
+
+#### Art. 135a
+
+**Offenlegung Vormiete**
+
+<sup>1</sup> Im Fall eines Wohnungsmangels erklärt der Regierungsrat für den Abschluss von Mietverträgen im gesamten Kantonsgebiet oder in einzelnen Verwaltungskreisen die Verwendung des Formulars gemäss Art. 270 Abs. 2 OR als obligatorisch.
+
+<sup>2</sup> Ein Wohnungsmangel liegt vor, wenn der Leerwohnungsbestand im Kanton oder in einzelnen Verwaltungskreisen bei höchstens 1,5 Prozent liegt. Liegt er im gesamten Kantonsgebiet oder in einem der Verwaltungskreise neu über dem Wert von 1,5 Prozent, hebt der Regierungsrat diese Pflicht wieder auf.
+
+<sup>3</sup> Die zuständige Stelle des Kantons Bern erhebt jährlich am 1. Juni den Leerwohnungsstand im gesamten Kantonsgebiet sowie in den Verwaltungskreisen.
+
+<sup>4</sup> Eine entsprechende Änderung der Formularpflicht gilt ab 1. November des betreffenden Jahres.
 
 #### Art. 136
 

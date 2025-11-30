@@ -4,13 +4,13 @@ number: "211.1"
 title: "Loi sur l'introduction du Code civil suisse *"
 short: LiCCS
 language: fr
-version: 2023-04-01
-valid_until: 2025-11-30
-version_adopted: 2022-09-13
+version: 2025-12-01
+valid_until: 2025-12-31
+version_adopted: 2025-09-28
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2817/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3260/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2817/pdf_file"
 
 (LiCCS)
 
-du 28.05.1911 (état au 01.04.2023)
+du 28.05.1911 (état au 01.12.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1022,6 +1022,18 @@ décrète:
 #### Art. 135
 
 **…**
+
+#### Art. 135a
+
+**Déclaration du loyer précédent**
+
+<sup>1</sup> En cas de pénurie de logements, le Conseil-exécutif rend obligatoire l’usage de la formule officielle en vertu de l’article. 270, alinéa 2 CO pour la conclusion d’un bail sur l’ensemble du territoire cantonal ou dans certains arrondissements administratifs.
+
+<sup>2</sup> Il y a pénurie de logements, lorsque le taux de logements vacants dans le canton ou dans certains arrondissements administratifs se situe à 1,5 pour cent au plus. S’il repasse au-dessus de 1,5 pour cent dans le canton ou dans certains arrondissements administratifs, le Conseil-exécutif lève à nouveau cette obligation.
+
+<sup>3</sup> Le service compétent du canton de Berne recense chaque année au 1<sup>er</sup> juin le taux de logements vacants sur l’ensemble du territoire cantonal et dans les arrondissements administratifs.
+
+<sup>4</sup> Une modification de l’obligation d’user de la formule officielle entre en vigueur à partir du 1<sup>er</sup> novembre de l’année concernée.
 
 #### Art. 136
 
