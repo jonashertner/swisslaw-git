@@ -3,11 +3,11 @@ sr: "451.32"
 title: Ordinanza del 21 gennaio 1991 concernente la protezione delle torbiere alte e delle torbiere di transizione di importanza nazionale (Ordinanza sulle torbiere alte)
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/270_270_270"
 language: it
-version: 2017-11-01
+version: 2025-12-01
 adopted: 1991-01-21
 in_force: 1991-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/270_270_270/20171101/it/xml/fedlex-data-admin-ch-eli-cc-1991-270_270_270-20171101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/270_270_270/20171101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/270_270_270/20251201/it/xml/fedlex-data-admin-ch-eli-cc-1991-270_270_270-20251201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/270_270_270/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/270_270_270/20171101/it"
 
 (Ordinanza sulle torbiere alte)
 
-del 21 gennaio 1991 (Stato 1° novembre 2017)
+del 21 gennaio 1991 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visto l’articolo 18*a* capoversi 1 e 3 della legge federale del 1° luglio 196
 
 ordina:
 
-[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 1
 
@@ -34,8 +34,8 @@ ordina:
 
 <sup>2</sup> La descrizione degli oggetti, pubblicata separatamente, è parte integrante della presente ordinanza.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
-[^1-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
+[^1-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 2
 
@@ -45,8 +45,8 @@ ordina:
 
 <sup>2</sup> L’Inventario delle torbiere alte può essere consultato gratuitamente presso l’Ufficio federale dell’ambiente (UFAM) e presso i servizi cantonali competenti.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
-[^2-2]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
+[^2-2]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^2-3]: www.bafu.admin.ch &gt; Temi &gt; Biodiversità &gt; Informazioni per gli specialisti &gt; Misure &gt; Infrastruttura ecologica &gt; Biotopi d’importanza nazionale &gt; Paludi
 
 #### Art. 3
@@ -85,10 +85,10 @@ I Cantoni, dopo aver sentito il parere dei proprietari fondiari e dei gestori, a
 <sup>2</sup> Le disposizioni del capoverso 1 sono applicabili anche alle zone cuscinetto sempre che la finalità perseguita dalla protezione lo esiga.
 
 [^5-1]: Nuovo testo giusta il n. 1 dell’all. 6 all’O del 5 giu. 2015 sui prodotti chimici, in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
-[^5-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^5-3]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^5-4]: Nuovo testo giusta il n. II 3 dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
-[^5-5]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^5-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^5-3]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^5-4]: Nuovo testo giusta la cifra II n. 3 dell’O del 18 dic. 1995, in vigore dal 1° feb. 1996 ([RU 1996 225](https://fedlex.data.admin.ch/eli/oc/1996/225_225_225)).
+[^5-5]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 6
 
@@ -126,7 +126,7 @@ I Cantoni vigilano, ogni qualvolta necessario, al riassetto degli oggetti danneg
 
 I Cantoni, fintanto che non avranno adottato i provvedimenti necessari secondo l’articolo 3 capoverso 1 e l’articolo 5, devono presentare un rapporto alla fine di ogni anno all’UFAM[^10-1] sulla condizione della protezione delle torbiere alte nel loro territorio.
 
-[^10-1]: Nuova espr. giusta il n. I il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
+[^10-1]: Nuova espr. giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
 
 #### Art. 11
 
@@ -136,8 +136,8 @@ I Cantoni, fintanto che non avranno adottato i provvedimenti necessari secondo l
 
 <sup>2</sup> Le indennità della Confederazione per i provvedimenti previsti agli articoli 3, 5 e 8 della presente ordinanza sono rette dagli articoli 18 e 19 dell’ordinanza del 16 gennaio 1991[^11-1] sulla protezione della natura e del paesaggio.[^11-2]
 
-[^11-1]: [RS 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)
-[^11-2]: Nuovo testo giusta il n. I 6 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^11-1]: [RS 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167)
+[^11-2]: Nuovo testo giusta la cifra I n. 6 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 12
 
@@ -151,7 +151,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle torbiere alte e delle torbiere di transizione di importanza nazionale
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del del 29 set. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)). Aggionato dalla cifra I 1 dell’O del 29 ott. 2025 sui biotopi d’importanza nazionale, in vigore dal 1° dic. 2025 ([RU 2025 735](https://fedlex.data.admin.ch/eli/oc/2025/735)).
 
 <table>
 <tr><th>N.</th><th>Località</th><th>Comune(i)[^annex1-lvlu1-1]</th><th>Iscrizione</th><th>Revisioni</th></tr>
@@ -354,6 +354,7 @@ Allegato 1[^t-1]
 <tr><td>471</td><td>Äbnistetten</td><td>Hasle</td><td>1991</td><td></td></tr>
 <tr><td>473</td><td>Guntlishütten</td><td>Flühli</td><td>1991</td><td></td></tr>
 <tr><td>495</td><td>Bründlen</td><td>Schwarzenberg</td><td>1991</td><td></td></tr>
+<tr><td>719</td><td>Blaue Tosse</td><td>Entlebuch[^annex1-lvlu1-8]</td><td>2025</td><td></td></tr>
 <tr><td>938</td><td>Südlich Grön</td><td>Flühli</td><td>1991</td><td></td></tr>
 <tr><td>939</td><td>Tällenmoos im Hilferental</td><td>Flühli</td><td>1991</td><td></td></tr>
 <tr><td></td><td>Cantone di Uri</td><td></td><td></td><td></td></tr>
@@ -363,7 +364,7 @@ Allegato 1[^t-1]
 <tr><td>438</td><td>Fulensee</td><td>Erstfeld</td><td>1991</td><td></td></tr>
 <tr><td>700</td><td>Unter Wängi</td><td>Bürglen</td><td>2003</td><td></td></tr>
 <tr><td></td><td>Cantone di Svitto</td><td></td><td></td><td></td></tr>
-<tr><td>303</td><td>Altmatt-Biberbrugg</td><td>Einsiedeln, Rothenthurm[^annex1-lvlu1-8]</td><td>1991</td><td></td></tr>
+<tr><td>303</td><td>Altmatt-Biberbrugg</td><td>Einsiedeln, Rothenthurm[^annex1-lvlu1-9]</td><td>1991</td><td></td></tr>
 <tr><td>304</td><td>Schwantenau</td><td>Einsiedeln</td><td>1991</td><td></td></tr>
 <tr><td>305</td><td>Breitried</td><td>Einsiedeln, Unteriberg</td><td>1991</td><td></td></tr>
 <tr><td>306</td><td>Hessenmoos</td><td>Einsiedeln</td><td>1991</td><td></td></tr>
@@ -386,7 +387,7 @@ Allegato 1[^t-1]
 <tr><td>203</td><td>Aelggäu</td><td>Alpnach</td><td>2003</td><td></td></tr>
 <tr><td>254</td><td>Rischi</td><td>Sarnen</td><td>1991</td><td></td></tr>
 <tr><td>256</td><td>Talhubel/Siterenmoos</td><td>Sarnen</td><td>1991</td><td>2003</td></tr>
-<tr><td>257</td><td>Zwischen Glaubenberg und Rossalp</td><td>Sarnen[^annex1-lvlu1-9]</td><td>1991</td><td></td></tr>
+<tr><td>257</td><td>Zwischen Glaubenberg und Rossalp</td><td>Sarnen[^annex1-lvlu1-10]</td><td>1991</td><td></td></tr>
 <tr><td>258</td><td>Marchmettlen</td><td>Sarnen</td><td>1991</td><td></td></tr>
 <tr><td>260</td><td>Trogenwald</td><td>Sarnen</td><td>1991</td><td></td></tr>
 <tr><td>261</td><td>Gross Trogen</td><td>Sarnen</td><td>1991</td><td>2003</td></tr>
@@ -422,7 +423,7 @@ Allegato 1[^t-1]
 <tr><td>291</td><td>Feldmoos (Gerschni)</td><td>Engelberg</td><td>1991</td><td></td></tr>
 <tr><td>292</td><td>Oberer Rorwald</td><td>Giswil</td><td>1991</td><td></td></tr>
 <tr><td>293</td><td>Nollen</td><td>Giswil</td><td>1991</td><td></td></tr>
-<tr><td>295</td><td>Riedboden</td><td>Alpnach[^annex1-lvlu1-10]</td><td>1991</td><td></td></tr>
+<tr><td>295</td><td>Riedboden</td><td>Alpnach[^annex1-lvlu1-11]</td><td>1991</td><td></td></tr>
 <tr><td>360</td><td>Unter dem Heidberistöckli</td><td>Giswil</td><td>2003</td><td></td></tr>
 <tr><td>361</td><td>Nördlich Haldimattstock</td><td>Giswil</td><td>2003</td><td></td></tr>
 <tr><td>461</td><td>Hüenergütsch</td><td>Sarnen</td><td>2003</td><td></td></tr>
@@ -432,6 +433,7 @@ Allegato 1[^t-1]
 <tr><td>467</td><td>Nassboden</td><td>Sarnen</td><td>2003</td><td></td></tr>
 <tr><td>474</td><td>Loomettlen</td><td>Giswil</td><td>2003</td><td></td></tr>
 <tr><td>712</td><td>Chlusboden/Blattligboden</td><td>Giswil</td><td>2017</td><td>2017</td></tr>
+<tr><td>719</td><td>Blaue Tosse</td><td>Alpnach[^annex1-lvlu1-12]</td><td>2025</td><td></td></tr>
 <tr><td>931</td><td>Obermattboden</td><td>Sarnen</td><td>1991</td><td></td></tr>
 <tr><td>932</td><td>Gross Lucht</td><td>Sarnen</td><td>1991</td><td></td></tr>
 <tr><td>933</td><td>Gerenstock</td><td>Sarnen</td><td>1991</td><td></td></tr>
@@ -439,7 +441,7 @@ Allegato 1[^t-1]
 <tr><td>936</td><td>Rormettlen</td><td>Giswil</td><td>1991</td><td></td></tr>
 <tr><td>937</td><td>Rorwald</td><td>Giswil</td><td>1991</td><td></td></tr>
 <tr><td></td><td>Cantone di Nidvaldo</td><td></td><td></td><td></td></tr>
-<tr><td>107</td><td>Grossriet/Gnappiriet</td><td>Stans</td><td>1991</td><td></td></tr>
+<tr><td>107</td><td>Grossriet/Gnappiriet</td><td>Stans</td><td>1991</td><td>2025</td></tr>
 <tr><td>413</td><td>Arven unter Fräkmünt</td><td>Hergiswil</td><td>1991</td><td></td></tr>
 <tr><td>433</td><td>Scheidegg im Choltal</td><td>Emmetten</td><td>1991</td><td></td></tr>
 <tr><td>434</td><td>Seeliboden im Choltal</td><td>Emmetten</td><td>1991</td><td></td></tr>
@@ -454,7 +456,7 @@ Allegato 1[^t-1]
 <tr><td>441</td><td>Mürtschen</td><td>Glarus Nord</td><td>1991</td><td></td></tr>
 <tr><td>492</td><td>Längriet</td><td>Glarus Süd</td><td>2003</td><td></td></tr>
 <tr><td></td><td>Cantone di Zugo</td><td></td><td></td><td></td></tr>
-<tr><td>118</td><td>Haeglimoos</td><td>Steinhausen[^annex1-lvlu1-11]</td><td>1991</td><td></td></tr>
+<tr><td>118</td><td>Haeglimoos</td><td>Steinhausen[^annex1-lvlu1-13]</td><td>1991</td><td></td></tr>
 <tr><td>170</td><td>Eigenried/Birchried/ Kellersforen/Früebüelmoos</td><td>Walchwil, Zug</td><td>1991</td><td>2017</td></tr>
 <tr><td>171</td><td>Vorderer Geissboden</td><td>Zug</td><td>1991</td><td>2017</td></tr>
 <tr><td>172</td><td>Zigermoos</td><td>Unterägeri</td><td>1991</td><td></td></tr>
@@ -468,7 +470,7 @@ Allegato 1[^t-1]
 <tr><td>189</td><td>Brämenegg/Furen</td><td>Oberägeri</td><td>1991</td><td>2017</td></tr>
 <tr><td>190</td><td>Moore beim Chlausechappeli</td><td>Menzingen, Oberägeri</td><td>1991</td><td></td></tr>
 <tr><td>191</td><td>Breitried</td><td>Oberägeri</td><td>1991</td><td></td></tr>
-<tr><td>303</td><td>Altmatt-Biberbrugg</td><td>Oberägeri[^annex1-lvlu1-12]</td><td>1991</td><td></td></tr>
+<tr><td>303</td><td>Altmatt-Biberbrugg</td><td>Oberägeri[^annex1-lvlu1-14]</td><td>1991</td><td></td></tr>
 <tr><td>369</td><td>Wissenbach</td><td>Oberägeri</td><td>2003</td><td></td></tr>
 <tr><td>530</td><td>Tännlimoos/Hintercher-Moos/Muserholz</td><td>Menzingen</td><td>1991</td><td></td></tr>
 <tr><td>531</td><td>Moor nördlich Schwandegg/Twaerfallen</td><td>Menzingen</td><td>1991</td><td>2017</td></tr>
@@ -479,13 +481,13 @@ Allegato 1[^t-1]
 <tr><td></td><td>Cantone di Friburgo</td><td></td><td></td><td></td></tr>
 <tr><td>58</td><td>Les Gurles/Les Communs de Maules</td><td>Marsens, Sâles</td><td>1991</td><td>2017</td></tr>
 <tr><td>59</td><td>Les Mosses-Rosez</td><td>Sâles, Vaulruz</td><td>1991</td><td></td></tr>
-<tr><td>60</td><td>Les Mosses de la Rogivue</td><td>Saint-Martin[^annex1-lvlu1-13]</td><td>1991</td><td>2017</td></tr>
+<tr><td>60</td><td>Les Mosses de la Rogivue</td><td>Saint-Martin[^annex1-lvlu1-15]</td><td>1991</td><td>2017</td></tr>
 <tr><td>61</td><td>Les Tourbières</td><td>Le Flon, Saint-Martin</td><td>1991</td><td>2017</td></tr>
 <tr><td>62</td><td>Les Grands Marais</td><td>Vuisternens-devant-Romont</td><td>1991</td><td></td></tr>
 <tr><td>63</td><td>La Mosse d’en Bas</td><td>La Verrerie</td><td>1991</td><td></td></tr>
 <tr><td>64</td><td>Les Bouleyres</td><td>Bulle</td><td>1991</td><td></td></tr>
 <tr><td>65</td><td>Schwandholz</td><td>St. Ursen</td><td>1991</td><td></td></tr>
-<tr><td>66</td><td>Rotmoos</td><td>Rechthalten, St. Ursen</td><td>1991</td><td></td></tr>
+<tr><td>66</td><td>Rotmoos</td><td>Rechthalten, St. Ursen</td><td>1991</td><td>2025</td></tr>
 <tr><td>67</td><td>La Tourbière d’Echarlens</td><td>Echarlens</td><td>1991</td><td></td></tr>
 <tr><td>68</td><td>Entenmoos</td><td>Rechthalten</td><td>1991</td><td></td></tr>
 <tr><td>69</td><td>Düdingermoos</td><td>Düdingen</td><td>1991</td><td></td></tr>
@@ -494,10 +496,10 @@ Allegato 1[^t-1]
 <tr><td>127</td><td>Niremont, Arête ouest</td><td>Semsales</td><td>1991</td><td></td></tr>
 <tr><td>128</td><td>Niremont, Arête nord</td><td>Semsales</td><td>1991</td><td></td></tr>
 <tr><td>129</td><td>Tourbière au sud-est de Fruence</td><td>Châtel-Saint-Denis</td><td>1991</td><td></td></tr>
-<tr><td>130</td><td>Dévin des Dailles</td><td>Châtel-Saint-Denis</td><td>1991</td><td>2003</td></tr>
+<tr><td>130</td><td>Dévin des Dailles</td><td>Châtel-Saint-Denis</td><td>1991</td><td>2003/25</td></tr>
 <tr><td>131</td><td>Lac de Lussy</td><td>Châtel-Saint-Denis</td><td>1991</td><td>2003</td></tr>
 <tr><td>327</td><td>Marais au nord du Petit Niremont</td><td>Châtel-Saint-Denis</td><td>2003</td><td></td></tr>
-<tr><td>358</td><td>Pré aux Oies</td><td>Hauteville</td><td>2003</td><td></td></tr>
+<tr><td>358</td><td>Pré aux Oies</td><td>Hauteville</td><td>2003</td><td>2025</td></tr>
 <tr><td>359</td><td>Wusta</td><td>Plasselb</td><td>2003</td><td></td></tr>
 <tr><td>544</td><td>Tourbières dans la Foret du Frachy</td><td>Val-de-Charmey</td><td>1991</td><td></td></tr>
 <tr><td>545</td><td>Tourbière à l’ouest de la Joux d’Allière</td><td>Hauteville</td><td>1991</td><td></td></tr>
@@ -509,7 +511,7 @@ Allegato 1[^t-1]
 <tr><td>570</td><td>Petit Sauvage</td><td>Vaulruz</td><td>1991</td><td></td></tr>
 <tr><td>576</td><td>Moore am Schwyberg (Einzugsgebiet des Rotenbaches)</td><td>Plaffeien</td><td>1991</td><td>2003/17</td></tr>
 <tr><td></td><td>Cantone di Soletta</td><td></td><td></td><td></td></tr>
-<tr><td>76</td><td>Chlepfimoos/Burgmoos</td><td>Aeschi[^annex1-lvlu1-14]</td><td>1991</td><td></td></tr>
+<tr><td>76</td><td>Chlepfimoos/Burgmoos</td><td>Aeschi[^annex1-lvlu1-16]</td><td>1991</td><td></td></tr>
 <tr><td></td><td>Cantone di Basilea Città</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Nessun oggetto*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td colspan="2">Cantone di Basilea Campagna</td><td></td><td></td></tr>
@@ -517,15 +519,15 @@ Allegato 1[^t-1]
 <tr><td></td><td>Cantone di Sciaffusa</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Nessun oggetto*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td colspan="2">Cantone di Appenzello Esterno</td><td colspan="2"></td></tr>
-<tr><td>138</td><td>Moore auf dem Chräzeren- pass (Schwarzegg, Lauchriet, Witiriet)</td><td>Hundwil[^annex1-lvlu1-15]</td><td>1991</td><td>2003</td></tr>
+<tr><td>138</td><td>Moore auf dem Chräzeren- pass (Schwarzegg, Lauchriet, Witiriet)</td><td>Hundwil[^annex1-lvlu1-17]</td><td>1991</td><td>2003</td></tr>
 <tr><td>139</td><td>Cholwald Schwägalp</td><td>Hundwil, Urnäsch</td><td>1991</td><td></td></tr>
 <tr><td>143</td><td>Forenmösli/Burketwald/Paradisli</td><td>Urnäsch</td><td>1991</td><td></td></tr>
 <tr><td>144</td><td>Bruggerenwald</td><td>Urnäsch</td><td>1991</td><td></td></tr>
 <tr><td>145</td><td>Stillert</td><td>Urnäsch</td><td>1991</td><td></td></tr>
-<tr><td>146</td><td>Potersalp</td><td>Hundwil[^annex1-lvlu1-16]</td><td>1991</td><td>2003</td></tr>
+<tr><td>146</td><td>Potersalp</td><td>Hundwil[^annex1-lvlu1-18]</td><td>1991</td><td>2003</td></tr>
 <tr><td>165</td><td>Suruggen/Chellersegg</td><td>Trogen</td><td>1991</td><td></td></tr>
 <tr><td>166</td><td>Hofguetmoor</td><td>Gais</td><td>1991</td><td></td></tr>
-<tr><td>167</td><td>Hirschberg</td><td>Gais[^annex1-lvlu1-17]</td><td>1991</td><td></td></tr>
+<tr><td>167</td><td>Hirschberg</td><td>Gais[^annex1-lvlu1-19]</td><td>1991</td><td></td></tr>
 <tr><td>168</td><td>Forenmoos/Schachenmoos</td><td>Gais</td><td>1991</td><td></td></tr>
 <tr><td>537</td><td>Untere Fischeren</td><td>Urnäsch</td><td>1991</td><td></td></tr>
 <tr><td>580</td><td>Moor südöstlich Beldschwendi</td><td>Schwellbrunn</td><td>1991</td><td></td></tr>
@@ -536,20 +538,20 @@ Allegato 1[^t-1]
 <tr><td>596</td><td>Moore zwischen Alp Stöck und Gschwend</td><td>Urnäsch</td><td>1991</td><td></td></tr>
 <tr><td>597</td><td>Moor zwischen Telleren und Chli Langboden</td><td>Urnäsch</td><td>1991</td><td></td></tr>
 <tr><td></td><td colspan="2">Cantone di Appenzello Interno</td><td colspan="2"></td></tr>
-<tr><td>146</td><td>Potersalp</td><td>Schwende[^annex1-lvlu1-18]</td><td>1991</td><td>2003</td></tr>
+<tr><td>146</td><td>Potersalp</td><td>Schwende[^annex1-lvlu1-20]</td><td>1991</td><td>2003</td></tr>
 <tr><td>163</td><td>Gontenmoos</td><td>Gonten</td><td>1991</td><td></td></tr>
 <tr><td>164</td><td>Helchen</td><td>Schwende</td><td>1991</td><td></td></tr>
-<tr><td>167</td><td>Hirschberg</td><td>Rüte[^annex1-lvlu1-19]</td><td>1991</td><td></td></tr>
+<tr><td>167</td><td>Hirschberg</td><td>Rüte[^annex1-lvlu1-21]</td><td>1991</td><td></td></tr>
 <tr><td>601</td><td>Nisplismoos</td><td>Appenzell, Rüte</td><td>1991</td><td></td></tr>
 <tr><td>602</td><td>Hütten</td><td>Gonten</td><td>1991</td><td></td></tr>
 <tr><td>603</td><td>Vordere Wartegg</td><td>Schwende</td><td>1991</td><td></td></tr>
 <tr><td>604</td><td>Löchli</td><td>Gonten</td><td>1991</td><td></td></tr>
 <tr><td></td><td>Cantone di San Gallo</td><td></td><td></td><td></td></tr>
 <tr><td>134</td><td>Bergwis</td><td>Oberbüren</td><td>1991</td><td></td></tr>
-<tr><td>135</td><td>Hudelmoos</td><td>Muolen[^annex1-lvlu1-20]</td><td>1991</td><td></td></tr>
+<tr><td>135</td><td>Hudelmoos</td><td>Muolen[^annex1-lvlu1-22]</td><td>1991</td><td></td></tr>
 <tr><td>136</td><td>Moore auf dem Rickenpass</td><td>Gommiswald</td><td>1991</td><td></td></tr>
 <tr><td>137</td><td>Unter Hüttenbüel</td><td>Ebnat-Kappel, Wattwil</td><td>1991</td><td></td></tr>
-<tr><td>138</td><td>Moore auf dem Chräzerenpass</td><td>Nesslau[^annex1-lvlu1-21]</td><td>1991</td><td>2003</td></tr>
+<tr><td>138</td><td>Moore auf dem Chräzerenpass</td><td>Nesslau[^annex1-lvlu1-23]</td><td>1991</td><td>2003</td></tr>
 <tr><td>140</td><td>Gruen/Neuhüttli</td><td>Nesslau</td><td>1991</td><td></td></tr>
 <tr><td>141</td><td>Bilchenriet/Unterwald/Schiltmoos</td><td>Nesslau</td><td>1991</td><td></td></tr>
 <tr><td>142</td><td>Lütisalp</td><td>Nesslau</td><td>1991</td><td></td></tr>
@@ -651,7 +653,7 @@ Allegato 1[^t-1]
 <tr><td>83</td><td>Fischbacher Moos</td><td>Bremgarten, Fischbach-Göslikon</td><td>1991</td><td></td></tr>
 <tr><td></td><td>Cantone di Turgovia</td><td></td><td></td><td></td></tr>
 <tr><td>133</td><td>Barchetsee</td><td>Neunforn</td><td>1991</td><td></td></tr>
-<tr><td>135</td><td>Hudelmoos</td><td>Amriswil, Zihlschlacht-Sitterdorf[^annex1-lvlu1-22]</td><td>1991</td><td></td></tr>
+<tr><td>135</td><td>Hudelmoos</td><td>Amriswil, Zihlschlacht-Sitterdorf[^annex1-lvlu1-24]</td><td>1991</td><td></td></tr>
 <tr><td></td><td>Cantone Ticino</td><td></td><td></td><td></td></tr>
 <tr><td>94</td><td>Cadagno di fuori</td><td>Quinto</td><td>1991</td><td></td></tr>
 <tr><td>95</td><td>Bedrina</td><td>Dalpe, Faido, Prato (Leventina)</td><td>1991</td><td></td></tr>
@@ -696,7 +698,7 @@ Allegato 1[^t-1]
 <tr><td>52</td><td>Rière la Givrine</td><td>Saint-Cergue</td><td>1991</td><td></td></tr>
 <tr><td>53</td><td>Marais Rouge</td><td>Arzier-Le Muids</td><td>1991</td><td></td></tr>
 <tr><td>54</td><td>Creux du Croue</td><td>Arzier-Le Muids</td><td>1991</td><td>2017</td></tr>
-<tr><td>60</td><td>Les Mosses de la Rogivue</td><td>Maracon[^annex1-lvlu1-23]</td><td>1991</td><td>2017</td></tr>
+<tr><td>60</td><td>Les Mosses de la Rogivue</td><td>Maracon[^annex1-lvlu1-25]</td><td>1991</td><td>2017</td></tr>
 <tr><td>85</td><td>Les Tenasses</td><td>Blonay, Saint-Légier-La Chiésaz</td><td>1991</td><td>2017</td></tr>
 <tr><td>550</td><td>Tourbière à l’est de la Lécherette</td><td>Château-d’Oex</td><td>1991</td><td>2017</td></tr>
 <tr><td>551</td><td>Communs des Mosses, est</td><td>Ormont-Dessous</td><td>1991</td><td>2017</td></tr>
@@ -737,8 +739,8 @@ Allegato 1[^t-1]
 <tr><td></td><td>Cantone di Ginevra</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Nessun oggetto*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Cantone del Giura</td><td></td><td></td><td></td></tr>
-<tr><td>2</td><td>Etang de la Gruère</td><td>Le Bémont, Montfaucon, Saignelégier[^annex1-lvlu1-24]</td><td>1991</td><td>2017</td></tr>
-<tr><td>3</td><td>La Tourbiere de la Chaux-des-Breuleux</td><td>La Chaux-des-Breuleux, Saignelégier[^annex1-lvlu1-25]</td><td>1991</td><td></td></tr>
+<tr><td>2</td><td>Etang de la Gruère</td><td>Le Bémont, Montfaucon, Saignelégier[^annex1-lvlu1-26]</td><td>1991</td><td>2017</td></tr>
+<tr><td>3</td><td>La Tourbiere de la Chaux-des-Breuleux</td><td>La Chaux-des-Breuleux, Saignelégier[^annex1-lvlu1-27]</td><td>1991</td><td></td></tr>
 <tr><td>4</td><td>La Tourbière au sud des Veaux</td><td>Les Genevez</td><td>1991</td><td>2017</td></tr>
 <tr><td>5</td><td>Les Embreux</td><td>Lajoux, Les Genevez</td><td>1991</td><td></td></tr>
 <tr><td>6</td><td>Plain de Saigne</td><td>Montfaucon</td><td>1991</td><td></td></tr>
@@ -754,32 +756,34 @@ Allegato 1[^t-1]
 <tr><td>605</td><td>La Couaye</td><td>Lajoux</td><td>1991</td><td></td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 16 dic. 2016.
+[^annex1-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 6 apr. 2025.
 [^annex1-lvlu1-2]: L’oggetto è situato nei Comuni di Kappel am Albis, Knonau ZH/Steinhausen ZG.
 [^annex1-lvlu1-3]: L’oggetto è situato nei Comuni di Tramelan BE/Le Bémont, Montfaucon, Saignelégier JU.
 [^annex1-lvlu1-4]: L’oggetto è situato nei Comuni di Mont-Tramelan, Tramelan BE/La Chaux-des-Breuleux, Saignelégier JU.
 [^annex1-lvlu1-5]: L’oggetto è situato nei Comuni di Herzogenbuchsee, Niederönz BE/Aeschi SO.
 [^annex1-lvlu1-6]: L’oggetto è situato nei Comuni di Entlebuch LU/Sarnen OW.
 [^annex1-lvlu1-7]: L’oggetto è situato nei Comuni di Entlebuch LU/Alpnach OW.
-[^annex1-lvlu1-8]: L’oggetto è situato nei Comuni di Einsiedeln, Rothenthurm SZ/Oberägeri ZG.
-[^annex1-lvlu1-9]: L’oggetto è situato nei Comuni di Sarnen OW/Entlebuch LU.
-[^annex1-lvlu1-10]: L’oggetto è situato nei Comuni di Alpnach OW/Entlebuch LU.
-[^annex1-lvlu1-11]: L’oggetto è situato nei Comuni di Steinhausen ZG/Kappel am Albis, Knonau ZH.
-[^annex1-lvlu1-12]: L’oggetto è situato nei Comuni di Oberägeri ZG/Einsiedeln, Rothenthurm SZ.
-[^annex1-lvlu1-13]: L’oggetto è situato nei Comuni di Saint-Martin FR/Maracon VD.
-[^annex1-lvlu1-14]: L’oggetto è situato nei Comuni di Aeschi SO/Herzogenbuchsee, Niederönz BE.
-[^annex1-lvlu1-15]: L’oggetto è situato nei Comuni di Hundwil AR/Nesslau SG.
-[^annex1-lvlu1-16]: L’oggetto è situato nei Comuni di Hundwil AR/Schwende AI.
-[^annex1-lvlu1-17]: L’oggetto è situato nei Comuni di Gais AR/Rüte AI.
-[^annex1-lvlu1-18]: L’oggetto è situato nei Comuni di Schwende AI/Hundwil AR.
-[^annex1-lvlu1-19]: L’oggetto è situato nei Comuni di Rüte AI/Gais AR.
-[^annex1-lvlu1-20]: L’oggetto è situato nei Comuni di Muolen SG/Amriswil, Zihlschlacht-Sitterdorf TG.
-[^annex1-lvlu1-21]: L’oggetto è situato nei Comuni di Nesslau SG/Hundwil AR.
-[^annex1-lvlu1-22]: L’oggetto è situato nei Comuni di Amriswil, Zihlschlacht-Sitterdorf TG/Muolen SG.
-[^annex1-lvlu1-23]: L’oggetto è situato nei Comuni di Maracon VD/Saint-Martin FR.
-[^annex1-lvlu1-24]: L’oggetto è situato nei Comuni di Le Bémont, Montfaucon, Saignelégier JU/Tramelan BE.
-[^annex1-lvlu1-25]: L’oggetto è situato nei Comuni di La Chaux-des-Breuleux, Saignelégier JU/Mont-Tramelan, Tramelan BE.
+[^annex1-lvlu1-8]: L’oggetto è situato nei Comuni di Entlebuch LU/Alpnach OW.
+[^annex1-lvlu1-9]: L’oggetto è situato nei Comuni di Einsiedeln, Rothenthurm SZ/Oberägeri ZG.
+[^annex1-lvlu1-10]: L’oggetto è situato nei Comuni di Sarnen OW/Entlebuch LU.
+[^annex1-lvlu1-11]: L’oggetto è situato nei Comuni di Alpnach OW/Entlebuch LU.
+[^annex1-lvlu1-12]: L’oggetto è situato nei Comuni di Alpnach OW/Entlebuch LU.
+[^annex1-lvlu1-13]: L’oggetto è situato nei Comuni di Steinhausen ZG/Kappel am Albis, Knonau ZH.
+[^annex1-lvlu1-14]: L’oggetto è situato nei Comuni di Oberägeri ZG/Einsiedeln, Rothenthurm SZ.
+[^annex1-lvlu1-15]: L’oggetto è situato nei Comuni di Saint-Martin FR/Maracon VD.
+[^annex1-lvlu1-16]: L’oggetto è situato nei Comuni di Aeschi SO/Herzogenbuchsee, Niederönz BE.
+[^annex1-lvlu1-17]: L’oggetto è situato nei Comuni di Hundwil AR/Nesslau SG.
+[^annex1-lvlu1-18]: L’oggetto è situato nei Comuni di Hundwil AR/Schwende AI.
+[^annex1-lvlu1-19]: L’oggetto è situato nei Comuni di Gais AR/Rüte AI.
+[^annex1-lvlu1-20]: L’oggetto è situato nei Comuni di Schwende AI/Hundwil AR.
+[^annex1-lvlu1-21]: L’oggetto è situato nei Comuni di Rüte AI/Gais AR.
+[^annex1-lvlu1-22]: L’oggetto è situato nei Comuni di Muolen SG/Amriswil, Zihlschlacht-Sitterdorf TG.
+[^annex1-lvlu1-23]: L’oggetto è situato nei Comuni di Nesslau SG/Hundwil AR.
+[^annex1-lvlu1-24]: L’oggetto è situato nei Comuni di Amriswil, Zihlschlacht-Sitterdorf TG/Muolen SG.
+[^annex1-lvlu1-25]: L’oggetto è situato nei Comuni di Maracon VD/Saint-Martin FR.
+[^annex1-lvlu1-26]: L’oggetto è situato nei Comuni di Le Bémont, Montfaucon, Saignelégier JU/Tramelan BE.
+[^annex1-lvlu1-27]: L’oggetto è situato nei Comuni di La Chaux-des-Breuleux, Saignelégier JU/Mont-Tramelan, Tramelan BE.
 
 Allegato 2[^t-2]
 
-[^t-2]: Abrogato dal n. II cpv. 2 dell’O del del 29 set. 2017, con effetto dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
+[^t-2]: Abrogato dalla cifra II cpv. 2 dell’O del del 29 set. 2017, con effetto dal 1° nov. 2017 ([RU 2017 5303](https://fedlex.data.admin.ch/eli/oc/2017/588)).
