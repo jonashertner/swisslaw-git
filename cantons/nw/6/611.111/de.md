@@ -3,20 +3,20 @@ canton: NW
 number: "611.111"
 title: Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 language: de
-version: 2025-08-01
-valid_until: 2025-11-30
-version_adopted: 2025-09-16
+version: 2025-12-01
+valid_until: 2025-12-31
+version_adopted: 2025-11-25
 adopted: 2023-12-12
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1412/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 
-vom 12.12.2023 (Stand 01.08.2025)
+vom 12.12.2023 (Stand 01.12.2025)
 
 Der Regierungsrat von Nidwalden,
 
@@ -40,7 +40,7 @@ beschliesst:
 <table>
 <tr><th>Gemeinde</th><th>Inkrafttreten</th></tr>
 <tr><td>Beckenried</td><td>noch nicht in Kraft</td></tr>
-<tr><td>Buochs</td><td>1. August 2025 (mit Ausnahme eines Teilgebiets der Gemeinde)[^Ziff2-4][^Ziff2-5]</td></tr>
+<tr><td>Buochs</td><td>teilweise am 1. August 2025 [^Ziff2-4][^Ziff2-5] und vollständig am 1. Dezember 2025</td></tr>
 <tr><td>Dallenwil</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Emmetten</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Ennetbürgen</td><td>noch nicht in Kraft</td></tr>
