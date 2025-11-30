@@ -4,13 +4,12 @@ number: "214.5.1"
 title: Loi sur le registre foncier
 short: LRF
 language: fr
-version: 2024-03-01
-valid_until: 2025-11-30
-version_adopted: 2023-11-24
+version: 2025-12-01
+version_adopted: 2025-09-02
 adopted: 1986-02-28
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/214.5.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7949/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8328/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Registre foncier – L
 
 (LRF)
 
-du 28.02.1986 (version entrée en vigueur le 01.03.2024)
+du 28.02.1986 (version entrée en vigueur le 01.12.2025)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -57,17 +56,17 @@ Décrète:
 
 <sup>1</sup> Chaque Service est dirigé par un conservateur ou une conservatrice.
 
-<sup>2</sup> Les conservateurs et conservatrices sont engagés sur le préavis de l'Autorité de surveillance du registre foncier (ci-après: l'Autorité de surveillance); ils doivent être titulaires d'une licence ou d'un master en droit suisse.
+<sup>2</sup> Les conservateurs et conservatrices doivent être titulaires d'une licence ou d'un master en droit suisse.
 
-<sup>3</sup> Pour la gestion administrative, les Services dépendent de la Direction compétente[^2-1] (ci-après: la Direction).
-
-[^2-1]: Actuellement: Direction des finances.
+<sup>3</sup> …
 
 #### Art. 3
 
 **Suppléance**
 
-<sup>1</sup> Pour chaque Service, la Direction désigne, sur le préavis de l'Autorité de surveillance, un conservateur ou une conservatrice suppléant-e, qui est appelé-e notamment en cas de récusation ou d'absence de longue durée du conservateur ou de la conservatrice.
+<sup>1</sup> Pour chaque Service, la Direction en charge du registre foncier[^3-1] (ci-après: la Direction) désigne un conservateur ou une conservatrice suppléant‑e, qui est appelé-e notamment en cas de récusation ou d'absence de longue durée du conservateur ou de la conservatrice.
+
+[^3-1]: Actuellement: Direction des finances.
 
 #### Art. 4
 
@@ -79,10 +78,10 @@ Décrète:
 
 **Adjoint ou adjointe**
 
-<sup>1</sup> Pour chaque Service et sur le préavis du conservateur ou de la conservatrice, la Direction désigne un ou plusieurs adjoints ou adjointes qui peuvent exercer les fonctions suivantes:
+<sup>1</sup> Pour chaque Service et sur le préavis du conservateur ou de la conservatrice, la Direction désigne un ou une ou plusieurs adjoints ou adjointes qui peuvent exercer les fonctions suivantes:
 
 - a) signer les extraits;
-- b) procéder seuls à d'autres opérations clairement énumérées par la Direction sur la proposition du conservateur ou de la conservatrice et de l'Autorité de surveillance.
+- b) procéder seuls à d'autres opérations clairement énumérées par la Direction sur la proposition du conservateur ou de la conservatrice.
 
 <sup>2</sup> Peut être désignée en qualité d'adjoint ou adjointe toute personne qui a acquis une formation adéquate auprès d'un service du registre foncier ou qui est titulaire d'une licence ou d'un master en droit suisse.
 
@@ -94,43 +93,63 @@ Décrète:
 
 **…**
 
-### 1.2 Autorité de surveillance du registre foncier
+### 1.2 Autorité de surveillance administrative
 
 #### Art. 8
 
-**Composition**
+**Autorité et attributions**
 
-<sup>1</sup> L'Autorité de surveillance est composée de trois membres et de trois membres suppléants, dont l'élection est régie par une loi spéciale.
+<sup>1</sup> La Direction est l'autorité de surveillance administrative du registre foncier.
 
-<sup>2</sup> Elle choisit son ou sa secrétaire.
+<sup>2</sup> Elle veille au bon fonctionnement de chaque Service et à une application uniforme des normes régissant le registre foncier. Elle édicte les instructions nécessaires et inspecte régulièrement chaque Service.
 
-<sup>3</sup> Elle est rattachée administrativement à la Direction. Toutefois, la surveillance de l'organisation et du fonctionnement appartient au Conseil de la magistrature, conformément à la législation spéciale.
+<sup>3</sup> Elle a qualité pour recourir contre les décisions sur recours rendues par les instances cantonales de recours dans les affaires relatives au registre foncier (art. 956a al. 2 ch. 2 CC).
 
-<sup>4</sup> Le règlement d'exécution définit l'organisation de l'Autorité de surveillance.
+<sup>4</sup> …
+
+### 1.3 Commission de recours en matière de registre foncier
 
 #### Art. 9
 
-**Récusation et recours de l'Etat**
+**Institution et composition**
 
-<sup>1</sup> La récusation des membres et du ou de la secrétaire de l'Autorité de surveillance est régie par le code de procédure et de juridiction administrative.
+<sup>1</sup> La Commission de recours en matière de registre foncier (ci-après: la Commission) est l'autorité cantonale de recours de première instance (art. 956a al. 1 CC).
 
-<sup>2</sup> Les règles relatives au recours de l'Etat contre les membres du personnel du Service sont applicables par analogie aux membres de l'Autorité de surveillance et à son ou sa secrétaire.
+<sup>2</sup> Elle a son siège à Fribourg, auprès de la Direction, à laquelle elle est rattachée administrativement.
+
+<sup>3</sup> Elle est composée de trois membres et de trois membres suppléants, élus par le Grand Conseil.
+
+<sup>4</sup> Elle désigne un ou une secrétaire et un ou une secrétaire suppléant‑e, qu'elle peut choisir parmi ses membres.
+
+<sup>5</sup> Les conditions générales d'éligibilité des membres sont celles des articles 9 al. 1 let. b et c, 10, 16 et 17 al. 1 de la loi du 31 mai 2010 sur la justice (LJ). Ces règles sont également applicables au ou à la secrétaire.
+
+<sup>6</sup> L'élection des membres est régie par les articles 11 à 14 LJ.
 
 #### Art. 10
 
-**Attributions – Surveillance**
+**Indépendance et surveillance**
 
-<sup>1</sup> L'Autorité de surveillance soumet la tenue du registre foncier à une surveillance régulière; elle inspecte au moins une fois par an chaque Service.
+<sup>1</sup> La Commission est indépendante dans l'exercice de ses attributions.
 
-<sup>2</sup> Elle peut édicter les instructions nécessaires.
+<sup>2</sup> Elle est placée sous la surveillance du Conseil de la magistrature. Elle lui adresse chaque année un rapport d'activité conformément à la loi sur la justice.
 
-<sup>3</sup> Elle adresse chaque année au Conseil d'Etat un rapport sur le fonctionnement du registre foncier dans le canton et au Conseil de la magistrature un rapport sur son organisation et son fonctionnement.
+<sup>3</sup> …
+
+#### Art. 10a
+
+**Organisation et fonctionnement**
+
+<sup>1</sup> La Commission s'organise elle-même. Elle désigne son président ou sa présidente et son vice-président ou sa vice-présidente.
+
+<sup>2</sup> La récusation des membres et celle du ou de la secrétaire sont régies par le code de procédure et de juridiction administrative.
+
+<sup>3</sup> La rémunération des membres et celle du ou de la secrétaire sont fixées conformément à l'ordonnance concernant la rémunération des membres des commissions de l'Etat.
 
 #### Art. 11
 
-**Attributions – Recours**
+**Attributions**
 
-<sup>1</sup> L'Autorité de surveillance statue, sous réserve de recours au Tribunal cantonal, sur les recours interjetés contre les décisions du conservateur ou de la conservatrice du registre foncier.
+<sup>1</sup> La Commission statue, sous réserve de recours au Tribunal cantonal, sur les recours interjetés contre les décisions des conservateurs ou conservatrices du registre foncier.
 
 #### Art. 12
 
@@ -403,9 +422,9 @@ Décrète:
 
 **Recours**
 
-<sup>1</sup> Les décisions prises sur réclamation peuvent être attaquées, dans les trente jours dès leur notification, auprès de l'Autorité de surveillance. Les articles 67 à 75 sont applicables par analogie.
+<sup>1</sup> Les décisions prises sur réclamation peuvent être attaquées, dans les trente jours dès leur notification, auprès de la Commission. Les articles 67 à 75 sont applicables par analogie.
 
-<sup>2</sup> Les décisions de l'Autorité de surveillance sont sujettes à recours auprès d'une cour d'appel du Tribunal cantonal; l'article 75a al. 2 est applicable.
+<sup>2</sup> Les décisions de la Commission sont sujettes à recours auprès du Tribunal cantonal; l'article 75a al. 2 est applicable.
 
 ### 2.1.5 Mise en vigueur du registre foncier fédéral et frais
 
@@ -585,7 +604,7 @@ Décrète:
 
 <sup>2</sup> La sauvegarde des données informatiques est garantie selon le concept de sécurité informatique de l'Etat.
 
-<sup>3</sup> Un double des documents principaux du registre foncier sur papier doit être périodiquement établi. Les modalités sont réglées dans des instructions de l'Autorité de surveillance.
+<sup>3</sup> Une copie de sauvegarde au format numérique des pièces justificatives du registre foncier sur papier doit être périodiquement effectuée. Les modalités sont réglées dans des instructions de la Direction.
 
 #### Art. 49
 
@@ -785,7 +804,7 @@ Décrète:
 
 <sup>3</sup> Lorsque les requêtes sont adressées par voie électronique, la transmission mixte des pièces justificatives (art. 42 ORF) n'est pas admise.
 
-### 3.4 Recours à l'Autorité de surveillance
+### 3.4 Recours à la Commission
 
 #### Art. 67
 
@@ -796,7 +815,7 @@ Décrète:
 - a) les notaires ou les personnes autorisées à exercer la profession d'avocat dans le canton, ou
 - b) les ingénieur-e-s géomètres officiels qui ont instrumenté les actes dont les réquisitions d'inscription ont été rejetées ou déclarées irrecevables.
 
-<sup>2</sup> La personne mandataire justifie de ses pouvoirs par une procuration écrite, qui est jointe au recours; à défaut, le membre de l'Autorité de surveillance délégué à l'instruction de la cause (ci-après: la personne déléguée à l'instruction) lui fixe un bref délai pour produire une procuration, sous peine d'irrecevabilité.
+<sup>2</sup> La personne mandataire justifie de ses pouvoirs par une procuration écrite, qui est jointe au recours; à défaut, le membre de la Commission délégué à l'instruction de la cause (ci-après: la personne déléguée à l'instruction) lui fixe un bref délai pour produire une procuration, sous peine d'irrecevabilité.
 
 #### Art. 68
 
@@ -804,7 +823,7 @@ Décrète:
 
 <sup>1</sup> Le délai de recours commence à courir le lendemain du jour de la notification de la décision.
 
-<sup>2</sup> Le délai est réputé observé lorsque l'écrit est remis à l'autorité ou, à son adresse, à un bureau de poste suisse ou à une représentation diplomatique ou consulaire suisse, le dernier jour du délai au plus tard.
+<sup>2</sup> Le délai est réputé observé lorsque l'écrit est remis à la Commission ou, à son adresse, à un bureau de poste suisse ou à une représentation diplomatique ou consulaire suisse, le dernier jour du délai au plus tard.
 
 <sup>3</sup> L'échéance qui tombe un samedi, un dimanche ou un autre jour reconnu férié est reportée de plein droit au premier jour non férié qui suit.
 
@@ -816,7 +835,7 @@ Décrète:
 
 **Forme**
 
-<sup>1</sup> Le recours s'exerce par l'envoi ou par le dépôt au siège de l'Autorité de surveillance d'un mémoire en trois exemplaires.
+<sup>1</sup> Le recours s'exerce par l'envoi ou par le dépôt au siège de la Commission d'un mémoire en trois exemplaires.
 
 <sup>2</sup> Le mémoire contient notamment:
 
@@ -858,7 +877,7 @@ Décrète:
 
 <sup>1</sup> La personne déléguée à l'instruction procède aux mesures d'instruction nécessaires pour statuer sur le recours.
 
-<sup>2</sup> L'Autorité de surveillance statue sans débats et peut, par une décision sommairement motivée, rejeter un recours à l'évidence mal fondé.
+<sup>2</sup> La Commission statue sans débats et peut, par une décision sommairement motivée, rejeter un recours manifestement mal fondé.
 
 <sup>3</sup> La décision peut être prise par voie de circulation, à moins que la discussion ne soit requise par l'un des membres.
 
@@ -866,7 +885,7 @@ Décrète:
 
 **Prononcé présidentiel**
 
-<sup>1</sup> Le président ou la présidente de l'Autorité de surveillance est compétent-e pour:
+<sup>1</sup> Le président ou la présidente de la Commission est compétent‑e pour:
 
 - a) écarter un recours manifestement irrecevable;
 - b) prononcer le classement des procédures devenues sans objet par suite de retrait du recours ou pour une autre raison.
@@ -877,20 +896,22 @@ Décrète:
 
 **Effet de la décision**
 
-<sup>1</sup> Si le recours est admis, l'Autorité de surveillance annule la décision attaquée et ordonne au conservateur ou à la conservatrice de procéder aux mesures nécessaires.
+<sup>1</sup> Si le recours est admis, la Commission annule la décision attaquée et ordonne au conservateur ou à la conservatrice de prendre les mesures nécessaires.
 
 #### Art. 74
 
 **Communication de la décision**
 
-<sup>1</sup> La décision est communiquée, avec accusé de réception:
+<sup>1</sup> La décision est communiquée:
 
-- a) à la personne qui recourt,
-- b) au conservateur ou à la conservatrice concerné-e,
-- c) aux personnes intéressées qui ont été appelées à présenter leurs observations, et
-- d) en cas de rejet d'un recours tendant à une opération au registre foncier, aux autres personnes intéressées.
+- a) à la personne qui recourt;
+- b) au conservateur ou à la conservatrice concerné-e;
+- c) aux personnes intéressées qui ont été appelées à présenter leurs observations;
+- d) en cas de rejet d'un recours tendant à une opération au registre foncier, aux autres personnes intéressées;
+- e) à la Direction;
+- f) à l'Office fédéral chargé du droit du registre foncier et du droit foncier (OFRF).
 
-<sup>2</sup> L'Autorité de surveillance assure, sous une forme neutre, la publicité de ses décisions.
+<sup>2</sup> La Commission publie ses décisions sous une forme neutre.
 
 #### Art. 75
 
@@ -898,17 +919,17 @@ Décrète:
 
 <sup>1</sup> En cas de rejet ou d'irrecevabilité, la personne qui recourt supporte en règle générale les frais de procédure. Une indemnité équitable en faveur des personnes qui ont présenté leurs observations et qui l'ont demandée peut également être mise à la charge de la personne qui recourt; l'article 139 du code de procédure et de juridiction administrative est toutefois réservé.
 
-<sup>2</sup> En cas d'admission du recours, l'Autorité de surveillance peut, si les circonstances le justifient, allouer, sur demande, à la personne qui recourt une indemnité équitable, qui est à la charge de l'Etat.
+<sup>2</sup> En cas d'admission du recours, la Commission peut, si les circonstances le justifient, allouer, sur demande, à la personne qui recourt une indemnité équitable, qui est à la charge de l'Etat.
 
 <sup>3</sup> Les frais de procédure sont arrêtés dans le règlement d'exécution.
 
-<sup>4</sup> Les décisions de l'Autorité de surveillance fixant le montant des frais peuvent faire l'objet d'une réclamation préalable auprès de celle-ci, lorsque seule cette partie de la décision est contestée.
+<sup>4</sup> Les décisions de la Commission fixant le montant des frais peuvent faire l'objet d'une réclamation préalable auprès de celle-ci, lorsque seule cette partie de la décision est contestée.
 
 ### 3.4a Recours au Tribunal cantonal
 
 #### Art. 75a
 
-<sup>1</sup> Les décisions de l'Autorité de surveillance sont sujettes à recours auprès d'une cour d'appel du Tribunal cantonal.
+<sup>1</sup> Les décisions de la Commission sont sujettes à recours auprès du Tribunal cantonal.
 
 <sup>2</sup> La procédure est régie par le code de procédure et de juridiction administrative; l'article 67 de la présente loi est toutefois applicable.
 
@@ -1072,7 +1093,7 @@ Décrète:
 - a) pour les communes ou parties de communes où les cadastres cantonaux sont encore en vigueur, lorsque la procédure d'établissement du registre foncier fédéral est entreprise, et
 - b) dans les autres cas, lorsque le Conseil d'Etat l'ordonne, après s'être entendu avec l'autorité communale concernée, notamment quant au partage des frais.
 
-<sup>2</sup> La Direction désigne un traducteur ou une traductrice, sur la proposition de l'Autorité de surveillance.
+<sup>2</sup> La Direction désigne un traducteur ou une traductrice.
 
 #### Art. 96
 
@@ -1195,5 +1216,7 @@ Les modifications suivantes ont été approuvées:
 \4. loi du 07.10.2003: approuvée par le Département fédéral de justice et police le 22.12.2003
 
 \5. loi du 08.09.2011: approuvée par le Département fédéral de justice et police le 21.12.2011
+
+\6. loi du 02.09.2025: approuvée par le Département fédéral de justice et police le 24.11.2025
 
 BL/AGS 1986 f 83 / d 84

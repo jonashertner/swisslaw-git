@@ -4,13 +4,12 @@ number: "214.5.1"
 title: Gesetz über das Grundbuch
 short: GBG
 language: de
-version: 2024-03-01
-valid_until: 2025-11-30
-version_adopted: 2023-11-24
+version: 2025-12-01
+version_adopted: 2025-09-02
 adopted: 1986-02-28
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/214.5.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7949/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Grundbuch – G
 
 (GBG)
 
-vom 28.02.1986 (Fassung in Kraft getreten am 01.03.2024)
+vom 28.02.1986 (Fassung in Kraft getreten am 01.12.2025)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -55,17 +54,17 @@ beschliesst:
 
 <sup>1</sup> Jedes Amt wird von einer Grundbuchverwalterin oder einem Grundbuchverwalter geleitet.
 
-<sup>2</sup> Die Grundbuchverwalterinnen und Grundbuchverwalter werden nach Stellungnahme der Aufsichtsbehörde über das Grundbuch (die Aufsichtsbehörde) angestellt; sie müssen im Besitz eines schweizerischen Lizenziats oder Masters der Rechtswissenschaften sein.
+<sup>2</sup> Die Grundbuchverwalterinnen und Grundbuchverwalter müssen im Besitz eines schweizerischen Lizenziats oder Masters der Rechtswissenschaften sein.
 
-<sup>3</sup> In administrativen Belangen sind die Ämter von der zuständigen Direktion[^2-1] (die Direktion) abhängig.
-
-[^2-1]: Heute: Finanzdirektion.
+<sup>3</sup> …
 
 #### Art. 3
 
 **Stellvertretung**
 
-<sup>1</sup> Nach Stellungnahme der Aufsichtsbehörde bezeichnet die Direktion für jedes Amt eine stellvertretende Grundbuchverwalterin oder einen stellvertretenden Grundbuchverwalter. Diese oder dieser tritt insbesondere bei Ausstand oder längerer Abwesenheit der Grundbuchverwalterin oder des Grundbuchverwalters in Funktion.
+<sup>1</sup> Die für das Grundbuch zuständige Direktion[^3-1] (die Direktion) bezeichnet für jedes Amt eine stellvertretende Grundbuchverwalterin oder einen stellvertretenden Grundbuchverwalter. Diese oder dieser tritt insbesondere bei Ausstand oder längerer Abwesenheit der Grundbuchverwalterin oder des Grundbuchverwalters in Funktion.
+
+[^3-1]: Heute: Finanzdirektion.
 
 #### Art. 4
 
@@ -80,7 +79,7 @@ beschliesst:
 <sup>1</sup> Die Direktion bezeichnet nach Stellungnahme der Grundbuchverwalterin oder des Grundbuchverwalters für jedes Amt eine oder mehrere Personen als Adjunktin oder Adjunkt. Diese Personen können die folgenden Funktionen ausüben:
 
 - a) Unterzeichnen von Grundbuchauszügen;
-- b) Ausführen von anderen Arbeiten, die von der Direktion auf Antrag der Grundbuchverwalterin oder des Grundbuchverwalters und der Aufsichtsbehörde festgelegt werden.
+- b) Ausführen von anderen Arbeiten, die von der Direktion auf Antrag der Grundbuchverwalterin oder des Grundbuchverwalters festgelegt werden.
 
 <sup>2</sup> Als Adjunktin oder Adjunkt kann jede Person ernannt werden, die sich in einem Grundbuchamt die erforderliche Ausbildung angeeignet hat oder im Besitz eines schweizerischen Lizenziats oder Masters der Rechtswissenschaften ist.
 
@@ -92,43 +91,63 @@ beschliesst:
 
 **…**
 
-### 1.2 Aufsichtsbehörde über das Grundbuch
+### 1.2 Administrative Aufsichtsbehörde
 
 #### Art. 8
 
-**Zusammensetzung**
+**Behörde und Aufgaben**
 
-<sup>1</sup> Die Aufsichtsbehörde über das Grundbuch setzt sich aus drei Mitgliedern und drei Ersatzmitgliedern zusammen; die Wahl wird in einem Spezialgesetz geregelt.
+<sup>1</sup> Die Direktion ist die administrative Aufsichtsbehörde über das Grundbuch.
 
-<sup>2</sup> Die Aufsichtsbehörde bestimmt ihre Sekretärin oder ihren Sekretär selbst.
+<sup>2</sup> Sie überwacht den ordnungsgemässen Betrieb der einzelnen Ämter und die einheitliche Anwendung der für das Grundbuch geltenden Normen. Sie erlässt die erforderlichen Weisungen und inspiziert regelmässig jedes Amt.
 
-<sup>3</sup> Die Aufsichtsbehörde ist der Direktion administrativ zugewiesen. Für die Aufsicht über die Organisation und die Tätigkeit ist jedoch gemäss Spezialgesetzgebung der Justizrat zuständig.
+<sup>3</sup> Sie ist zur Beschwerde gegen Entscheide der kantonalen Beschwerdeinstanzen in Grundbuchangelegenheiten berechtigt (Art. 956a Abs. 2 Ziff. 2 ZGB).
 
-<sup>4</sup> Das Ausführungsreglement regelt die Organisation der Aufsichtsbehörde.
+<sup>4</sup> …
+
+### 1.3 Rekurskommission für das Grundbuch
 
 #### Art. 9
 
-**Ausstand und Rückgriffsrecht des Staates**
+**Einsetzung und Zusammensetzung**
 
-<sup>1</sup> Der Ausstand der Mitglieder und der Sekretärin oder des Sekretärs der Aufsichtsbehörde bestimmt sich nach dem Gesetz über die Verwaltungsrechtspflege.
+<sup>1</sup> Die Rekurskommission für das Grundbuch (die Kommission) ist die erstinstanzliche kantonale Beschwerdebehörde (Art. 956a Abs. 1 ZGB).
 
-<sup>2</sup> Die Vorschriften betreffend Rückgriffsrecht des Staates auf das Personal des Amtes sind analog auf die Mitglieder der Aufsichtsbehörde und deren Sekretärin oder Sekretär anwendbar.
+<sup>2</sup> Sie hat ihren Sitz in Freiburg bei der Direktion, der sie administrativ zugewiesen ist.
+
+<sup>3</sup> Sie setzt sich aus drei Mitgliedern und drei Ersatzmitgliedern zusammen, die vom Grossen Rat gewählt werden.
+
+<sup>4</sup> Sie ernennt eine Sekretärin oder einen Sekretär und eine stellvertretende Sekretärin oder einen stellvertretenden Sekretär, die sie aus ihren Mitgliedern wählen kann.
+
+<sup>5</sup> Die allgemeinen Voraussetzungen für die Wählbarkeit der Mitglieder richten sich nach den Artikeln 9 Abs. 1 Bst. b und c, 10, 16 und 17 Abs. 1 des Justizgesetzes vom 31. Mai 2010 (JG). Diese Bestimmungen gelten auch für die Sekretärin oder den Sekretär.
+
+<sup>6</sup> Die Wahl der Mitglieder richtet sich nach den Artikeln 11–14 JG.
 
 #### Art. 10
 
-**Aufgaben – Aufsicht**
+**Unabhängigkeit und Aufsicht**
 
-<sup>1</sup> Die Aufsichtsbehörde prüft die Grundbuchführung regelmässig; insbesondere inspiziert sie jedes Amt jährlich mindestens einmal.
+<sup>1</sup> Die Kommission ist in der Ausübung ihrer Aufgaben unabhängig.
 
-<sup>2</sup> Sie kann notwendige Weisungen erlassen.
+<sup>2</sup> Sie untersteht der Aufsicht des Justizrates und erstattet ihm jährlich Bericht gemäss Justizgesetz.
 
-<sup>3</sup> Sie erstattet dem Staatsrat jährlich Bericht über die Grundbuchführung im Kanton sowie dem Justizrat Bericht über ihre Organisation und Funktion.
+<sup>3</sup> …
+
+#### Art. 10a
+
+**Organisation und Arbeitsweise**
+
+<sup>1</sup> Die Kommission organisiert sich selbst. Sie bezeichnet ihre Präsidentin oder ihren Präsidenten und ihre Vizepräsidentin oder ihren Vizepräsidenten.
+
+<sup>2</sup> Der Ausstand der Mitglieder und der Sekretärin oder des Sekretärs bestimmt sich nach dem Gesetz über die Verwaltungsrechtspflege.
+
+<sup>3</sup> Die Vergütungen für die Mitglieder und die Sekretärin oder den Sekretär richten sich nach den Bestimmungen der Verordnung über die Entschädigung der Mitglieder der Kommissionen des Staates.
 
 #### Art. 11
 
-**Aufgaben – Beschwerdeinstanz**
+**Befugnisse**
 
-<sup>1</sup> Die Aufsichtsbehörde befindet, unter Vorbehalt der Beschwerde an das Kantonsgericht, über Beschwerden gegen Entscheide der Grundbuchverwalterinnen und Grundbuchverwalter.
+<sup>1</sup> Die Kommission befindet, unter Vorbehalt der Beschwerde an das Kantonsgericht, über Beschwerden gegen Entscheide der Grundbuchverwalterinnen und Grundbuchverwalter.
 
 #### Art. 12
 
@@ -401,9 +420,9 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Die Einspracheentscheide können innert dreissig Tagen nach der Zustellung bei der Aufsichtsbehörde angefochten werden. Die Artikel 67–75 gelten sinngemäss.
+<sup>1</sup> Die Einspracheentscheide können innert dreissig Tagen nach der Zustellung bei der Kommission angefochten werden. Die Artikel 67-75 gelten sinngemäss.
 
-<sup>2</sup> Die Entscheide der Aufsichtsbehörde können mit Beschwerde an einen Appellationshof des Kantonsgerichts angefochten werden; der Artikel 75a Abs. 2 ist anwendbar.
+<sup>2</sup> Die Entscheide der Kommission können mit Beschwerde ans Kantonsgericht angefochten werden; Artikel 75a Abs. 2 ist anwendbar.
 
 ### 2.1.5 Inkraftsetzung des eidgenössischen Grundbuches und Kosten
 
@@ -583,7 +602,7 @@ beschliesst:
 
 <sup>2</sup> Die Sicherung der digitalen Daten wird gemäss Informatiksicherheitskonzept des Staates gewährleistet.
 
-<sup>3</sup> Periodisch ist in Papierform ein Doppel der wichtigsten Grundbuchdokumente anzulegen. Die Einzelheiten werden in Weisungen der Aufsichtsbehörde geregelt.
+<sup>3</sup> Von Grundbuchbelegen in Papierform muss in regelmässigen Abständen eine digitale Sicherheitskopie erstellt werden. Die Einzelheiten werden in Weisungen der Direktion geregelt.
 
 #### Art. 49
 
@@ -783,7 +802,7 @@ beschliesst:
 
 <sup>3</sup> Bei elektronischen Eingaben ist eine gemischte Einreichung von elektronischen Belegen und solchen in Papierform (Art. 42 GBV) nicht zulässig.
 
-### 3.4 Beschwerde an die Aufsichtsbehörde
+### 3.4 Beschwerde an die Kommission
 
 #### Art. 67
 
@@ -794,7 +813,7 @@ beschliesst:
 - a) einer Notarin oder einem Notar oder einer zur Ausübung des Anwaltsberufs im Kanton befugten Person, oder
 - b) einer amtlichen Ingenieur-Geometerin oder einem amtlichen Ingenieur-Geometer, wenn diese oder dieser eine für unzulässig erklärte oder abgewiesene Urkunde ausgefertigt hat.
 
-<sup>2</sup> Die beauftragte Person weist sich über ihre Befugnisse mit einer schriftlichen Vollmacht aus, die mit der Beschwerde einzureichen ist. Weist sie sich nicht durch Vollmacht aus, so setzt ihr das mit der Abklärung beauftragte Mitglied der Aufsichtsbehörde (die mit der Abklärung beauftragte Person) unter Androhung der Verwirkung eine kurze Frist, die Vollmacht nachzureichen.
+<sup>2</sup> Die beauftragte Person weist sich mit einer schriftlichen Vollmacht, die mit der Beschwerde einzureichen ist, über ihre Befugnisse aus. Weist sie sich nicht durch Vollmacht aus, so setzt ihr das mit der Abklärung beauftragte Mitglied der Kommission (die mit der Abklärung beauftragte Person) unter Androhung der Verwirkung eine kurze Frist, um die Vollmacht nachzureichen.
 
 #### Art. 68
 
@@ -802,7 +821,7 @@ beschliesst:
 
 <sup>1</sup> Die Beschwerdefrist beginnt mit dem Tag nach der Zustellung des Entscheides zu laufen.
 
-<sup>2</sup> Die Beschwerdefrist ist gewahrt, wenn die Beschwerde spätestens am letzten Tag der Aufsichtsbehörde selber oder einem schweizerischen Postamt oder einer schweizerischen diplomatischen oder konsularischen Vertretung zur Zustellung übergeben wird.
+<sup>2</sup> Die Beschwerdefrist ist gewahrt, wenn die Beschwerde spätestens am letzten Tag der Kommission selber oder einem schweizerischen Postamt oder einer schweizerischen diplomatischen oder konsularischen Vertretung zur Zustellung übergeben wird.
 
 <sup>3</sup> Fällt der letzte Tag der Frist auf einen Samstag, einen Sonntag oder einen anderen staatlich anerkannten Feiertag, so endet sie am nächstfolgenden Werktag.
 
@@ -814,7 +833,7 @@ beschliesst:
 
 **Form**
 
-<sup>1</sup> Die Beschwerdeschrift ist in drei Ausfertigungen mit der Post an den Sitz der Aufsichtsbehörde zu senden oder dort einzureichen.
+<sup>1</sup> Die Beschwerdeschrift ist in drei Ausfertigungen mit der Post an den Sitz der Kommission zu senden oder dort einzureichen.
 
 <sup>2</sup> Die Beschwerdeschrift muss insbesondere
 
@@ -856,7 +875,7 @@ beschliesst:
 
 <sup>1</sup> Die mit der Abklärung beauftragte Person trifft die Massnahmen für die Entscheidfindung.
 
-<sup>2</sup> Die Aufsichtsbehörde entscheidet ohne Verhandlung und kann eine offensichtlich unzulänglich begründete Beschwerde mit summarisch begründetem Entscheid abweisen.
+<sup>2</sup> Die Kommission entscheidet ohne Verhandlung und kann eine offensichtlich unzulänglich begründete Beschwerde mit summarisch begründetem Entscheid abweisen.
 
 <sup>3</sup> Der Entscheid kann auf dem Zirkularweg getroffen werden, sofern nicht ein Mitglied die Besprechung verlangt.
 
@@ -864,7 +883,7 @@ beschliesst:
 
 **Präsidialentscheid**
 
-<sup>1</sup> Die Präsidentin oder der Präsident der Aufsichtsbehörde ist zuständig:
+<sup>1</sup> Die Präsidentin oder der Präsident der Kommission ist zuständig:
 
 - a) für den Nichteintretensentscheid bei einer offensichtlich unzulässigen Beschwerde;
 - b) Verfahren als erledigt zu erklären, die infolge Rückzugs oder Einigung unter den Parteien oder aus anderen Gründen gegenstandslos geworden sind.
@@ -875,20 +894,22 @@ beschliesst:
 
 **Wirkung des Entscheides**
 
-<sup>1</sup> Wird die Beschwerde gutgeheissen, so hebt die Aufsichtsbehörde den angefochtenen Entscheid auf und verlangt von der Grundbuchverwalterin oder vom Grundbuchverwalter, dem Begehren nachzukommen.
+<sup>1</sup> Wird die Beschwerde gutgeheissen, so hebt die Kommission den angefochtenen Entscheid auf und verlangt von der Grundbuchverwalterin oder vom Grundbuchverwalter, dem Begehren nachzukommen.
 
 #### Art. 74
 
 **Mitteilung des Entscheides**
 
-<sup>1</sup> Der Entscheid wird gegen Empfangsschein mitgeteilt:
+<sup>1</sup> Der Entscheid wird mitgeteilt:
 
-- a) der Beschwerde führenden Person,
-- b) der betroffenen Grundbuchverwalterin oder dem betroffenen Grundbuchverwalter,
-- c) den betroffenen Personen, die zur Stellungnahme aufgefordert wurden, und
-- d) bei Abweisung der Beschwerde, die eine Verrichtung im Grundbuch verlangte, den übrigen betroffenen Personen.
+- a) der Beschwerde führenden Person;
+- b) der betroffenen Grundbuchverwalterin oder dem betroffenen Grundbuchverwalter;
+- c) den betroffenen Personen, die zur Stellungnahme aufgefordert wurden;
+- d) bei Abweisung der Beschwerde, die eine Verrichtung im Grundbuch verlangte, den übrigen betroffenen Personen;
+- e) der Direktion;
+- f) dem Eidgenössischen Amt für Grundbuch- und Bodenrecht (EGBA).
 
-<sup>2</sup> Die Aufsichtsbehörde sorgt dafür, dass diese Entscheide in neutraler Form veröffentlicht werden.
+<sup>2</sup> Die Kommission veröffentlicht ihre Entscheide in neutraler Form.
 
 #### Art. 75
 
@@ -896,17 +917,17 @@ beschliesst:
 
 <sup>1</sup> Bei Abweisung oder Unzulässigkeit trägt in der Regel die Beschwerde führende Person die Verfahrenskosten. Auf entsprechendes Begehren kann den Personen, die Stellung genommen haben, eine angemessene Entschädigung zu Lasten der Beschwerde führenden Person zugesprochen werden. Artikel 139 des Gesetzes über die Verwaltungsrechtspflege bleibt jedoch vorbehalten.
 
-<sup>2</sup> Bei Gutheissung der Beschwerde kann die Aufsichtsbehörde der Beschwerde führenden Person auf entsprechendes Begehren eine angemessene Entschädigung zu Lasten des Staates zusprechen, sofern es die Umstände rechtfertigen.
+<sup>2</sup> Bei Gutheissung der Beschwerde kann die Kommission der Beschwerde führenden Person auf entsprechendes Begehren eine angemessene Entschädigung zu Lasten des Staates zusprechen, sofern es die Umstände rechtfertigen.
 
 <sup>3</sup> Die Verfahrenskosten werden im Ausführungsreglement geregelt.
 
-<sup>4</sup> Gegen die Kostenfestsetzungsentscheide der Aufsichtsbehörde kann vorgängig bei dieser Behörde Einsprache erhoben werden, sofern nur dieser Teil des Entscheides angefochten wird.
+<sup>4</sup> Gegen die Kostenfestsetzungsentscheide der Kommission kann vorgängig bei dieser Behörde Einsprache erhoben werden, sofern nur dieser Teil des Entscheides angefochten wird.
 
 ### 3.4a Beschwerde an das Kantonsgericht
 
 #### Art. 75a
 
-<sup>1</sup> Die Entscheide der Aufsichtsbehörde können mit Beschwerde an einen Appellationshof des Kantonsgerichts angefochten werden.
+<sup>1</sup> Die Entscheide der Kommission können mit Beschwerde ans Kantonsgericht angefochten werden.
 
 <sup>2</sup> Das Verfahren richtet sich nach dem Gesetz über die Verwaltungsrechtspflege; der Artikel 67 dieses Gesetzes ist jedoch anwendbar.
 
@@ -1070,7 +1091,7 @@ beschliesst:
 - a) für Gemeinden oder Teile derselben, wo die kantonalen Kataster noch in Kraft sind, wenn mit der Anlegung des eidgenössischen Grundbuches begonnen worden ist, und
 - b) in den anderen Fällen, wenn der Staatsrat im Einverständnis der Gemeindebehörden namentlich betreffend der Kostenaufteilung die Übersetzung angeordnet hat.
 
-<sup>2</sup> Die Direktion bestimmt auf Antrag der Aufsichtsbehörde eine Übersetzerin oder einen Übersetzer.
+<sup>2</sup> Die Direktion bestimmt eine Übersetzerin oder einen Übersetzer.
 
 #### Art. 96
 
@@ -1193,5 +1214,7 @@ Folgende Änderungen sind genehmigt worden:
 \4. Gesetz vom 07.10.2003, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 22.12.2003
 
 \5. Gesetz vom 08.09.2011, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 21.12.2011
+
+\6. Gesetz vom 24.11.2025, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 24.11.2025
 
 BL/AGS 1986 f 83 / d 84
