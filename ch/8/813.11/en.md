@@ -4,11 +4,11 @@ title: "Ordinance of 5 June 2015 on Protection against Dangerous Substances and 
 short: ChemO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: en
-version: 2025-09-01
+version: 2025-12-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20250901-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20250901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20251201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemicals Ordinance, ChemO)
 
-of 5 June 2015 (Last amended on 1 September 2025)
+of 5 June 2015 (Last amended on 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -49,13 +49,13 @@ This Ordinance regulates:
 - c. the handling of substances and preparations that may endanger people or the environment;
 - d. the way in which data relating to substances and preparations is processed by the enforcement authorities.
 
-<sup>2</sup> This Ordinance applies to biocidal products and the active substances contained therein, and to plant protection products and the active substances and co-formulants contained therein, insofar as they are referred to in the Ordinance of 18 May 2005 on Biocidal Products[^1-1] or the Ordinance of 12 May 2010[^1-2] on Plant Protection Products.
+<sup>2</sup> This Ordinance applies to biocidal products and the active substances contained therein, and to plant protection products and the active substances and co-formulants contained therein, insofar as they are referred to in the Ordinance of 18 May 2005 on Biocidal Products[^1-1] or the Ordinance of 20 August 2025[^1-2] on Plant Protection Products.[^1-3]
 
-<sup>2bis</sup> This Ordinance applies to tobacco products and electronic cigarettes in terms of Article 3 letters a–f of the Tobacco Products Act of 1 October 2021[^1-3] and for similar products that are deemed equivalent thereto in accordance with Article 3 of the Tobacco Products Ordinance of 28 August 2024[^1-4] (TabPO) insofar as they are referred to in the TabPO.[^1-5]
+<sup>2bis</sup> This Ordinance applies to tobacco products and electronic cigarettes in terms of Article 3 letters a–f of the Tobacco Products Act of 1 October 2021[^1-4] and for similar products that are deemed equivalent thereto in accordance with Article 3 of the Tobacco Products Ordinance of 28 August 2024[^1-5] (TabPO) insofar as they are referred to in the TabPO.[^1-6]
 
 <sup>3</sup> This Ordinance applies to radioactive substances and preparations, excluding effects attributable to the radioactive nature of these substances and preparations.
 
-<sup>4</sup> Only Articles 5–7 and 81 apply to cosmetic products within the meaning of Article 53 paragraph 1 of the Ordinance of 16 December 2016[^1-6] on Foodstuffs and Utility Articles in the form of finished products intended for private or professional users, and only with regard to environmental protection and to classification or assessment in relation to risks to the environment.[^1-7]
+<sup>4</sup> Only Articles 5–7 and 81 apply to cosmetic products within the meaning of Article 53 paragraph 1 of the Ordinance of 16 December 2016[^1-7] on Foodstuffs and Utility Articles in the form of finished products intended for private or professional users, and only with regard to environmental protection and to classification or assessment in relation to risks to the environment.[^1-8]
 
 <sup>5</sup>
 
@@ -65,35 +65,36 @@ This Ordinance does not apply to:
 - b. the transit of substances and preparations under customs supervision, provided that this does not involve any processing or transformation;
 - c.
 
-  substances and preparations in the form of finished products ready for supply to private and professional users that fall into the following categories:[^1-8]
+  substances and preparations in the form of finished products ready for supply to private and professional users that fall into the following categories:[^1-9]
 
-  - 1\.[^1-9] foodstuffs as defined by Article 4 of the Foodstuffs Act of 20 June 2014[^1-10] (FoodA),
-  - 2\. medicinal products as defined by Article 4 paragraph 1 letter a and medical devices as defined by Article 4 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000[^1-11],
-  - 3\. animal feedingstuffs as defined by Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 October 2011[^1-12];
+  - 1\.[^1-10] foodstuffs as defined by Article 4 of the Foodstuffs Act of 20 June 2014[^1-11] (FoodA),
+  - 2\. medicinal products as defined by Article 4 paragraph 1 letter a and medical devices as defined by Article 4 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000[^1-12],
+  - 3\. animal feedingstuffs as defined by Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 October 2011[^1-13];
 
-- d. weapons and ammunition as defined by Article 4 paragraphs 1 and 5 of the Weapons Act of 20 June 1997[^1-13];
+- d. weapons and ammunition as defined by Article 4 paragraphs 1 and 5 of the Weapons Act of 20 June 1997[^1-14];
 - e. substances, preparations and objects which are waste according to Article 7 paragraph 6 of the EPA.
 
-<sup>6</sup> Articles 57, 62 and 67 apply to imported substances and preparations that are simply relabelled and then exported without alteration.[^1-14]
+<sup>6</sup> Articles 57, 62 and 67 apply to imported substances and preparations that are simply relabelled and then exported without alteration.[^1-15]
 
-<sup>7</sup> Dangerous substances and preparations that are exported are also governed by the PIC Ordinance of 10 November 2004[^1-15].[^1-16]
+<sup>7</sup> Dangerous substances and preparations that are exported are also governed by the PIC Ordinance of 10 November 2004[^1-16].[^1-17]
 
 [^1-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^1-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^1-3]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
-[^1-4]: [SR 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
-[^1-5]: Inserted by Annex 4 No II 5 of the Tobacco Products Ordinance of 28 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
-[^1-6]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
-[^1-7]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-3]: Amended by Annex 10 No II 2 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^1-4]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^1-5]: [SR 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
+[^1-6]: Inserted by Annex 4 No II 5 of the Tobacco Products Ordinance of 28 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^1-7]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^1-8]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^1-9]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^1-10]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
-[^1-11]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
-[^1-12]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
-[^1-13]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
-[^1-14]: Amended by No III 1 of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^1-15]: [SR 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
-[^1-16]: Inserted by No III 1 of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-10]: Amended by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-11]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^1-12]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^1-13]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^1-14]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^1-15]: Amended by No III 1 of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-16]: [SR 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
+[^1-17]: Inserted by No III 1 of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
 
 #### Art. 2
 
@@ -1433,25 +1434,26 @@ The Notification Authority shall maintain a register of substances and preparati
 - a. this Ordinance;
 - b. the ORRChem[^72-1];
 - c. the Biocidal Products Ordinance of 18 May 2005[^72-2];
-- d. the Plant Protection Products Ordinance of 12 May 2010[^72-3];
-- e.[^72-4] Fertilisers Ordinance of 1 November 2023[^72-5].
+- d.[^72-3] the Plant Protection Products Ordinance of 20 August 2025[^72-4];
+- e.[^72-5] Fertilisers Ordinance of 1 November 2023[^72-6].
 
-<sup>1bis</sup> The data collected in accordance with Article 27 paragraph 1 TabPO on preparations shall also be entered in the register of products.[^72-6]
+<sup>1bis</sup> The data collected in accordance with Article 27 paragraph 1 TabPO on preparations shall also be entered in the register of products.[^72-7]
 
 <sup>2</sup>
 
 The register shall be compiled on the basis of data:
 
-- a.[^72-7] that has been collected or produced by a Swiss authority under one of the ordinances cited in paragraph 1 or 1<sup>bis</sup>;
+- a.[^72-8] that has been collected or produced by a Swiss authority under one of the ordinances cited in paragraph 1 or 1<sup>bis</sup>;
 - b. that is made available by foreign authorities or by international organisations.
 
 [^72-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^72-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
-[^72-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^72-4]: Inserted by Annex 5 No II 1 of the O of 15 Nov. 2023 on Placing Fertilisers on the Market, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
-[^72-5]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
-[^72-6]: Inserted by Annex 4 No II 5 of the Tobacco Products Ordinance of 28 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
-[^72-7]: Amended by Annex 4 No II 5 of the Tobacco Products Ordinance of 28 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^72-3]: Amended by Annex 10 No II 2 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^72-4]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^72-5]: Inserted by Annex 5 No II 1 of the O of 15 Nov. 2023 on Placing Fertilisers on the Market, in force since 1 Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^72-6]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^72-7]: Inserted by Annex 4 No II 5 of the Tobacco Products Ordinance of 28 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^72-8]: Amended by Annex 4 No II 5 of the Tobacco Products Ordinance of 28 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 73
 
@@ -1496,31 +1498,37 @@ The following are not deemed confidential under any circumstances:
 
 **Data to be passed on to the Notification Authority and the assessment authorities**
 
-At the request of the Notification Authority and the assessment authorities and if necessary for enforcement of this Ordinance, the following data concerning substances, preparations and objects must be passed on:[^74-1]
+At the request of the Notification Authority, the authorisation body for plant protection products and the assessment authorities, and if it is necessary for the enforcement of this Ordinance, the following data concerning substances, preparations and objects must be passed on:[^74-1]
 
-- a.
+- a.[^74-2]
 
   data collected by the FOAG under:
 
-  - 1\. the Fertilisers Ordinance of 10 January 2001[^74-2],
-  - 2\. the Animal Feedstuffs Ordinance of 26 October 2011[^74-3],
-  - 3\. the Plant Protection Products Ordinance of 12 May 2010[^74-4];
+  - 1\. the Fertilisers Ordinance of 1 November 2023[^74-3],
+  - 2\. the Animal Feedstuffs Ordinance of 26 October 2011[^74-4],
 
-- b.[^74-5] data on contaminants and constituents in foodstuffs and on substances in articles of daily use collected by the Federal Food Safety and Veterinary Office (FSVO) under the Ordinance of 27 May 2020[^74-6] on the Implementation of Foodstuffs Legislation;
-- c. data collected by the Federal Office for Customs and Border Security[^74-7] from customs declarations;
+- b.[^74-5]
+
+  data collected by the FSVO under:
+
+  - the Plant Protection Products Ordinance of 20 August 2025[^74-6],
+  - the Ordinance of 27 May 2020[^74-7] on the Implementation of Foodstuffs Legislation;
+
+- c. data collected by the Federal Office for Customs and Border Security[^74-8] from customs declarations;
 - d. data collected by SECO, by the Swiss National Accident Insurance Fund (SUVA) or by cantonal employment inspectorates under legislation on the protection of workers;
 - e. data collected by the poisons information centre (Art. 79);
-- f. data collected by examining bodies under Article 12 paragraph 3 of the ORRChem[^74-8];
+- f. data collected by examining bodies under Article 12 paragraph 3 of the ORRChem[^74-9];
 - g. data collected by cantons in connection with the enforcement of this Ordinance or of other legislation governing the protection of human health or the environment against substances, preparations or objects.
 
 [^74-1]: Amended by Annex No 1 of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-2]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
-[^74-3]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
-[^74-4]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^74-5]: Amended by Annex No 1 of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-6]: [SR 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)
-[^74-7]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
-[^74-8]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^74-2]: Amended by Annex 10 No II 2 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-3]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^74-4]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^74-5]: Amended by Annex 10 No II 2 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-6]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^74-7]: [SR 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)
+[^74-8]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
+[^74-9]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 75
 
@@ -1911,7 +1919,7 @@ Annex 1[^t-1]
 
 ## Correspondences between expressions and applicable legislation
 
-[^t-1]: Revised by Annex 6 No 3 of the Waste Management Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) and No II para. 1 of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^t-1]: Revised by Annex 6 No 3 of the Waste Management Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) and No II para. 1 of the O of 31 Jan. 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)) and Annex 10 No II 2 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 ### 1
 
@@ -1979,7 +1987,7 @@ If in this Ordinance reference is made to provisions of the REACH Regulation or 
 <tr><th>EU legislation</th><th>Swiss legislation</th></tr>
 <tr><td>Council Directive 86/609/EEC of 24 November 1986 on the approximation of laws, regulations and administrative provisions of the Member States regarding the protection of animals used for experimental and other scientific purposes, OJ L 358 of 18.12.1986, p. 1</td><td>Animal Protection Act of 16 December 2005[^annex1-lvlu1-lvl3-1]</td></tr>
 <tr><td>Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products, OJ L 167 of 27.6.2012, p. 1</td><td>Biocidal Products Ordinance of 18 May 2005[^annex1-lvlu1-lvl3-2]</td></tr>
-<tr><td>Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC, OJ L 309 of 24.11.2009, p. 1</td><td>Plant Protection Products Ordinance of 12 May 2010[^annex1-lvlu1-lvl3-3]</td></tr>
+<tr><td>Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC, OJ L 309 of 24.11.2009, p. 1</td><td>Plant Protection Products Ordinance of 20 August 2025[^annex1-lvlu1-lvl3-3]</td></tr>
 <tr><td>Rules on the transport of dangerous goods</td><td>Regulations concerning transport by post, rail, road, air, water and pipelines</td></tr>
 <tr><td>Commission Decision of 12 July 1995 setting up a Scientific Committee for Occupational Exposure Limits to Chemical Agents, OJ L 188 of 9.8.1995, p. 14</td><td>Art. 50 para. 3 of the Ordinance of 19 December 1983[^annex1-lvlu1-lvl3-4] on Accident Prevention</td></tr>
 <tr><td>Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work, OJ L 131 of 5.5.1998, p. 11</td><td>Legislation on the protection of workers</td></tr>
@@ -2345,10 +2353,10 @@ Annex 5[^t-5]
 ### 1.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem[^annex5-lvlu1-lvl1-lvl11-2]:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: The number of the hazard statement need not appear in the labelling.
@@ -2357,12 +2365,12 @@ Annex 5[^t-5]
 ### 1.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage. (Preparations that must be classified as "Skin Corr. 1C" and labelled H314 solely because of their lactic acid content [CAS No 79-33-4] are not deemed to be Group 2 preparations)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage. (Preparations that must be classified as "Skin Corr. 1C" and labelled H314 solely because of their lactic acid content [CAS No 79-33-4] are not deemed to be Group 2 preparations)</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>H230: May react explosively even in the absence of air, or H231: May react explosively even in the absence of air at elevated pressure and/or temperature, or EUH019: May form explosive peroxides, or EUH029: Contact with water liberates toxic gas, or EUH031: Contact with acids liberates toxic gas, or EUH032: Contact with acids liberates very toxic gas</td></tr>
 </table>
 
@@ -2371,10 +2379,10 @@ Annex 5[^t-5]
 ### 2.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: The number of the R phrase need not appear in the labelling.
@@ -2382,12 +2390,12 @@ Annex 5[^t-5]
 ### 2.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>R6: Explosive with or without contact with air, or R19: May form explosive peroxides, or R29: Contact with water liberates toxic gas, or R31: Contact with acids liberates toxic gas, or R32: Contact with acids liberates very toxic gas.</td></tr>
 </table>
 

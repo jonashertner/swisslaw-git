@@ -4,11 +4,11 @@ title: "Verordnung vom 5. Juni 2015 über den Schutz vor gefährlichen Stoffen u
 short: ChemV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: de
-version: 2025-09-01
+version: 2025-12-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2015-366-20250901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20250901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2015-366-20251201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20250901/de"
 
 (Chemikalienverordnung, ChemV)
 
-vom 5. Juni 2015 (Stand am 1. September 2025)
+vom 5. Juni 2015 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -47,13 +47,13 @@ Diese Verordnung regelt:
 - c. den Umgang mit Stoffen und Zubereitungen, die den Menschen oder die Umwelt gefährden können;
 - d. die Bearbeitung von Daten über Stoffe und Zubereitungen durch die Vollzugsbehörden.
 
-<sup>2</sup> Für Biozidprodukte und deren Wirkstoffe sowie für Pflanzenschutzmittel und deren Wirkstoffe und Formulierungshilfsstoffe gilt diese Verordnung, soweit in der Biozidprodukteverordnung vom 18. Mai 2005[^1-1] beziehungsweise in der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^1-2] darauf verwiesen wird.
+<sup>2</sup> Für Biozidprodukte und deren Wirkstoffe sowie für Pflanzenschutzmittel und deren Wirkstoffe und Formulierungsbeistoffe gilt diese Verordnung, soweit in der Biozidprodukteverordnung vom 18. Mai 2005[^1-1] beziehungsweise in der Pflanzenschutzmittelverordnung vom 20. August 2025[^1-2] darauf verwiesen wird.[^1-3]
 
-<sup>2bis</sup> Die vorliegende Verordnung gilt für Tabakprodukte und elektronische Zigaretten nach Artikel 3 Buchstaben a–f des Tabakproduktegesetzes vom 1. Oktober 2021[^1-3] sowie für gleichartige Produkte, die ihnen nach Artikel 3 der Tabakprodukteverordnung vom 28. August 2024[^1-4] (TabPV) gleichgestellt sind, soweit in der TabPV darauf verwiesen wird.[^1-5]
+<sup>2bis</sup> Die vorliegende Verordnung gilt für Tabakprodukte und elektronische Zigaretten nach Artikel 3 Buchstaben a–f des Tabakproduktegesetzes vom 1. Oktober 2021[^1-4] sowie für gleichartige Produkte, die ihnen nach Artikel 3 der Tabakprodukteverordnung vom 28. August 2024[^1-5] (TabPV) gleichgestellt sind, soweit in der TabPV darauf verwiesen wird.[^1-6]
 
 <sup>3</sup> Für radioaktive Stoffe und Zubereitungen gilt diese Verordnung, soweit es nicht um Wirkungen geht, die auf der radioaktiven Strahlung dieser Stoffe und Zubereitungen beruhen.
 
-<sup>4</sup> Für kosmetische Mittel im Sinne von Artikel 53 Absatz 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1-6] in Form von Fertigerzeugnissen, die für private oder berufliche Verwenderinnen bestimmt sind, gelten ausschliesslich die Artikel 5–7 und 81 und nur insoweit, als es um die Belange des Umweltschutzes sowie die Einstufung und die Beurteilung hinsichtlich der Umweltgefährlichkeit geht.[^1-7]
+<sup>4</sup> Für kosmetische Mittel im Sinne von Artikel 53 Absatz 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^1-7] in Form von Fertigerzeugnissen, die für private oder berufliche Verwenderinnen bestimmt sind, gelten ausschliesslich die Artikel 5–7 und 81 und nur insoweit, als es um die Belange des Umweltschutzes sowie die Einstufung und die Beurteilung hinsichtlich der Umweltgefährlichkeit geht.[^1-8]
 
 <sup>5</sup>
 
@@ -63,35 +63,36 @@ Diese Verordnung gilt nicht für:
 - b. die Durchfuhr von Stoffen und Zubereitungen unter Zollüberwachung, sofern dabei keine Be- oder Verarbeitung erfolgt;
 - c.
 
-  Stoffe und Zubereitungen in Form folgender Fertigerzeugnisse, die für private und berufliche Verwenderinnen bestimmt sind:[^1-8]
+  Stoffe und Zubereitungen in Form folgender Fertigerzeugnisse, die für private und berufliche Verwenderinnen bestimmt sind:[^1-9]
 
-  - 1\.[^1-9] Lebensmittel nach Artikel 4 des Lebensmittelgesetzes vom 20. Juni 2014[^1-10] (LMG),
-  - 2\. Arzneimittel nach Artikel 4 Absatz 1 Buchstabe a und Medizinprodukte nach Artikel 4 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000[^1-11],
-  - 3\. Futtermittel im Sinne von Artikel 3 Absatz 1 der Futtermittel-Verordnung vom 26. Oktober 2011[^1-12];
+  - 1\.[^1-10] Lebensmittel nach Artikel 4 des Lebensmittelgesetzes vom 20. Juni 2014[^1-11] (LMG),
+  - 2\. Arzneimittel nach Artikel 4 Absatz 1 Buchstabe a und Medizinprodukte nach Artikel 4 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000[^1-12],
+  - 3\. Futtermittel im Sinne von Artikel 3 Absatz 1 der Futtermittel-Verordnung vom 26. Oktober 2011[^1-13];
 
-- d. Waffen und Munition nach Artikel 4 Absätze 1 und 5 des Waffengesetzes vom 20. Juni 1997[^1-13];
+- d. Waffen und Munition nach Artikel 4 Absätze 1 und 5 des Waffengesetzes vom 20. Juni 1997[^1-14];
 - e. Stoffe, Zubereitungen und Gegenstände, die nach Artikel 7 Absatz 6 USG Abfälle sind.
 
-<sup>6</sup> Für eingeführte Stoffe und Zubereitungen, die ausschliesslich umetikettiert und ansonsten unverändert ausgeführt werden, gelten die Artikel 57, 62 und 67.[^1-14]
+<sup>6</sup> Für eingeführte Stoffe und Zubereitungen, die ausschliesslich umetikettiert und ansonsten unverändert ausgeführt werden, gelten die Artikel 57, 62 und 67.[^1-15]
 
-<sup>7</sup> Für gefährliche Stoffe und Zubereitungen, die ausgeführt werden, gilt zusätzlich die PIC-Verordnung vom 10. November 2004[^1-15].[^1-16]
+<sup>7</sup> Für gefährliche Stoffe und Zubereitungen, die ausgeführt werden, gilt zusätzlich die PIC-Verordnung vom 10. November 2004[^1-16].[^1-17]
 
 [^1-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^1-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^1-3]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
-[^1-4]: [SR 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
-[^1-5]: Eingefügt durch Anhang 4 Ziff. II 5 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
-[^1-6]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
-[^1-7]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-3]: Fassung gemäss Anhang 10 Ziff. II 2 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^1-4]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^1-5]: [SR 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
+[^1-6]: Eingefügt durch Anhang 4 Ziff. II 5 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^1-7]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^1-8]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^1-9]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^1-10]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
-[^1-11]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
-[^1-12]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
-[^1-13]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
-[^1-14]: Fassung gemäss Ziff. III 1 der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^1-15]: [SR 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
-[^1-16]: Eingefügt durch Ziff. III 1 der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-10]: Fassung gemäss Ziff. I der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-11]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^1-12]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^1-13]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^1-14]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^1-15]: Fassung gemäss Ziff. III 1 der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-16]: [SR 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
+[^1-17]: Eingefügt durch Ziff. III 1 der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
 
 #### Art. 2
 
@@ -1431,25 +1432,26 @@ Die Anmeldestelle führt ein Register über Stoffe und Zubereitungen, die in den
 - a. diese Verordnung;
 - b. ChemRRV[^72-1];
 - c. Biozidprodukteverordnung vom 18. Mai 2005[^72-2];
-- d. Pflanzenschutzmittelverordnung vom 12. Mai 2010[^72-3];
-- e.[^72-4] Düngerverordnung vom 1. November 2023[^72-5].
+- d.[^72-3] Pflanzenschutzmittelverordnung vom 20. August 2025[^72-4];
+- e.[^72-5] Düngerverordnung vom 1. November 2023[^72-6].
 
-<sup>1bis</sup> Die nach Artikel 27 Absatz 1 TabPV erhobenen Daten zu den Zubereitungen werden ebenfalls in das Produkteregister aufgenommen.[^72-6]
+<sup>1bis</sup> Die nach Artikel 27 Absatz 1 TabPV erhobenen Daten zu den Zubereitungen werden ebenfalls in das Produkteregister aufgenommen.[^72-7]
 
 <sup>2</sup>
 
 Das Register wird erstellt gestützt auf Daten, die:
 
-- a.[^72-7] von einer schweizerischen Behörde im Rahmen einer der Verordnungen nach Absatz 1 oder 1<sup>bis</sup> erhoben oder erarbeitet worden sind;
+- a.[^72-8] von einer schweizerischen Behörde im Rahmen einer der Verordnungen nach Absatz 1 oder 1<sup>bis</sup> erhoben oder erarbeitet worden sind;
 - b. von ausländischen Behörden oder von internationalen Organisationen zur Verfügung gestellt werden.
 
 [^72-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^72-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
-[^72-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^72-4]: Eingefügt durch Anhang 5 Ziff. II 1 der V vom 15. Nov. 2023 über das Inverkehrbringen von Düngern, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
-[^72-5]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
-[^72-6]: Eingefügt durch Anhang 4 Ziff. II 5 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
-[^72-7]: Fassung gemäss Anhang 4 Ziff. II 5 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^72-3]: Fassung gemäss Anhang 10 Ziff. II 2 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^72-4]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^72-5]: Eingefügt durch Anhang 5 Ziff. II 1 der V vom 15. Nov. 2023 über das Inverkehrbringen von Düngern, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^72-6]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^72-7]: Eingefügt durch Anhang 4 Ziff. II 5 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^72-8]: Fassung gemäss Anhang 4 Ziff. II 5 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 73
 
@@ -1494,31 +1496,37 @@ In keinem Fall als vertraulich gelten:
 
 **Weitergabe von Daten an die Anmeldestelle und an die Beurteilungsstellen**
 
-Auf Verlangen der Anmeldestelle und der Beurteilungsstellen und wenn es zum Vollzug dieser Verordnung erforderlich ist, sind folgende Daten über Stoffe, Zubereitungen und Gegenstände weiterzugeben:[^74-1]
+Auf Verlangen der Anmeldestelle, der Zulassungsstelle Pflanzenschutzmittel und der Beurteilungsstellen und wenn es zum Vollzug dieser Verordnung erforderlich ist, sind folgende Daten über Stoffe, Zubereitungen und Gegenstände weiterzugeben:[^74-1]
 
-- a.
+- a.[^74-2]
 
   Daten, die vom BLW erhoben werden gestützt auf:
 
-  - 1\. die Dünger-Verordnung vom 10. Januar 2001[^74-2],
-  - 2\. die Futtermittel-Verordnung vom 26. Oktober 2011[^74-3],
-  - 3\. die Pflanzenschutzmittelverordnung vom 12. Mai 2010[^74-4];
+  - 1\. die Düngerverordnung vom 1. November 2023[^74-3],
+  - 2\. die Futtermittel-Verordnung vom 26. Oktober 2011[^74-4];
 
-- b.[^74-5] Daten über Fremd- und Inhaltsstoffe von Lebensmitteln und über Stoffe in Gebrauchsgegenständen, die vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) gestützt auf die Verordnung vom 27. Mai 2020[^74-6] über den Vollzug der Lebensmittelgesetzgebung erhoben werden;
-- c. Daten des Bundesamts für Zoll und Grenzsicherheit[^74-7] aus den Zollanmeldungen;
+- b.[^74-5]
+
+  Daten, die vom BLV erhoben werden gestützt auf:
+
+  - 1\. die Pflanzenschutzmittelverordnung vom 20. August 2025[^74-6],
+  - 2\. die Verordnung vom 27. Mai 2020[^74-7] über den Vollzug der Lebensmittelgesetzgebung;
+
+- c. Daten des Bundesamts für Zoll und Grenzsicherheit[^74-8] aus den Zollanmeldungen;
 - d. Daten, die vom SECO, von der Schweizerischen Unfallversicherungsanstalt (SUVA) oder von den kantonalen Arbeitsinspektoraten gestützt auf die Arbeitnehmerschutzgesetzgebung erhoben werden;
 - e. Daten, die von der Auskunftsstelle für Vergiftungen (Art. 79) erhoben werden;
-- f. Daten, die von Prüfungsstellen nach Artikel 12 Absatz 3 ChemRRV[^74-8] erhoben werden;
+- f. Daten, die von Prüfungsstellen nach Artikel 12 Absatz 3 ChemRRV[^74-9] erhoben werden;
 - g. Daten, die von den Kantonen erhoben werden beim Vollzug dieser Verordnung oder anderer Erlasse, die den Schutz des Menschen oder der Umwelt vor Stoffen, Zubereitungen oder Gegenständen regeln.
 
-[^74-1]: Fassung gemäss Anhang Ziff. 1 der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-2]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
-[^74-3]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
-[^74-4]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^74-5]: Fassung gemäss Anhang Ziff. 1 der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-6]: [SR 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)
-[^74-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst.
-[^74-8]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^74-1]: Fassung gemäss Anhang 10 Ziff. II 2 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-2]: Fassung gemäss Anhang 10 Ziff. II 2 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-3]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^74-4]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^74-5]: Fassung gemäss Anhang 10 Ziff. II 2 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-6]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^74-7]: [SR 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)
+[^74-8]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst.
+[^74-9]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 75
 
@@ -1909,7 +1917,7 @@ Anhang 1[^t-1]
 
 ## Entsprechungen von Ausdrücken und anwendbares Recht
 
-[^t-1]: Bereinigt gemäss Anhang 6 Ziff. 3 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) und Ziff. II Abs. 1 der V vom 31. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^t-1]: Bereinigt gemäss Anhang 6 Ziff. 3 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. II Abs. 1 der V vom 31. Jan. 2018 ([AS 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)) und Anhang 10 Ziff. II 2 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 ### 1
 
@@ -1969,7 +1977,7 @@ Wird in dieser Verordnung auf Bestimmungen der EU-REACH-Verordnung oder der EU-C
 <tr><th>EU-Recht</th><th>Schweizerisches Recht</th></tr>
 <tr><td>Richtlinie 86/609/EWG des Rates vom 24. November 1986 zur Annäherung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten zum Schutz der für Versuche und andere wissenschaftliche Zwecke verwendeten Tiere, ABl. L 358 vom 18.12.1986, S. 1</td><td>Tierschutzgesetz vom 16. Dezember 2005[^annex1-lvlu1-lvl3-1]</td></tr>
 <tr><td>Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten, ABl. L 167 vom 27.6.2012, S. 1</td><td>Biozidprodukteverordnung vom 18. Mai 2005[^annex1-lvlu1-lvl3-2]</td></tr>
-<tr><td>Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates, ABl. L 309 vom 24.11.2009, S. 1</td><td>Pflanzenschutzmittelverordnung vom 12. Mai 2010[^annex1-lvlu1-lvl3-3]</td></tr>
+<tr><td>Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates, ABl. L 309 vom 24.11.2009, S. 1</td><td>Pflanzenschutzmittelverordnung vom 20. August 2025[^annex1-lvlu1-lvl3-3]</td></tr>
 <tr><td>Vorschriften für die Beförderung gefährlicher Güter</td><td>Bestimmungen über den Post-, Eisenbahn-, Strassen-, Luft- und Schiffsverkehr und die Rohrleitung</td></tr>
 <tr><td>Beschluss der Kommission vom 12. Juli 1995 zur Einsetzung eines Wissenschaftlichen Ausschusses für Grenzwerte berufsbedingter Exposition gegenüber chemischen Arbeitsstoffen, ABl. L 188 vom 9.8.1995, S. 14</td><td>Art. 50 Abs. 3 der Verordnung vom 19. Dezember 1983[^annex1-lvlu1-lvl3-4] über die Unfallverhütung</td></tr>
 <tr><td>Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit, ABl. L 131 vom 5.5.1998, S. 11</td><td>Arbeitnehmerschutzgesetzgebung</td></tr>
@@ -2004,7 +2012,7 @@ Anhang 2[^t-2]
 
 ## Liste der massgebenden technischen Vorschriften
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 1. Nov. 2016 ([AS 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Bereinigt gemäss Ziff. I der V des BAG vom 5. Febr. 2018 ([AS 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), Ziff. I der V des BAG vom 31. Okt. 2018 ([AS 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), vom 23. Mai 2019 ([AS 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), vom 21. Febr. 2020 ([AS 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), Anhang Ziff. 1 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAG vom 19. Nov. 2020 ([AS 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), vom 4. Aug. 2021 ([AS 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)), vom 9. Aug. 2022 ([AS 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)), vom 5. Sept. 2023 ([AS 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)), vom 22. Juli 2024 ([AS 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)) und vom 31. Juli 2025, in Kraft seit 1. Sept. 2025 (AS **202****5** 506).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 1. Nov. 2016 ([AS 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Bereinigt gemäss Ziff. I der V des BAG vom 5. Febr. 2018 ([AS 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), Ziff. I der V des BAG vom 31. Okt. 2018 ([AS 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), vom 23. Mai 2019 ([AS 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), vom 21. Febr. 2020 ([AS 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), Anhang Ziff. 1 der V vom 18. Nov. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), Ziff. I der V des BAG vom 19. Nov. 2020 ([AS 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), vom 4. Aug. 2021 ([AS 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)), vom 9. Aug. 2022 ([AS 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)), vom 5. Sept. 2023 ([AS 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)), vom 22. Juli 2024 ([AS 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)) und vom 31. Juli 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 506](https://fedlex.data.admin.ch/eli/oc/2025/506)).
 
 ### 1 Technische Vorschriften zum Einstufen, Kennzeichnen und Verpacken von Stoffen und Zubereitungen
 
@@ -2053,7 +2061,7 @@ Zur Bestimmung der Eigenschaften von Stoffen und Zubereitungen sind Prüfungen d
 - c. nach den Prüfmethoden, die im Handbuch der UNO über Prüfungen und Kriterien zur Bestimmung physikalischer Gefahren (UN Manual of Tests and Criteria)[^annex2-lvlu1-lvl2-3] festgelegt sind.
 
 [^annex2-lvlu1-lvl2-1]: Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäss der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), ABl. L 142 vom 31.5.2008, S. 1; zuletzt geändert durch Verordnung (EU) 2024/2492, ABl. L, 2024/2492, 24.9.2024.
-[^annex2-lvlu1-lvl2-2]: Die OECD-Testrichtlinien für Chemikalien können im Internet bei der OECD kostenlos abgerufen werden unter: www.oecd.org/en/topics/sub-issues/testing-of-chemicals/test-guidelines.html.
+[^annex2-lvlu1-lvl2-2]: Die OECD-Testrichtlinien für Chemikalien können im Internet bei der OECD kostenlos abgerufen werden unter: [www.oecd.org/en/topics/sub-issues/testing-of-chemicals/test-guidelines.html](http://www.oecd.org/en/topics/sub-issues/testing-of-chemicals/test-guidelines.html).
 [^annex2-lvlu1-lvl2-3]: Das Handbuch (eighth revised edition 2023 und Amendment 1 2025) kann im Internet bei der UNO kostenlos abgerufen werden unter: [www.unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023](http://www.unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023) und [www.unece.org/transport/documents/2025/02/reports/amendments-eighth-revised-edition-manual-tests-and-criteria](http://www.unece.org/transport/documents/2025/02/reports/amendments-eighth-revised-edition-manual-tests-and-criteria).
 
 ### 3 Anforderungen an das Sicherheitsdatenblatt
@@ -2335,10 +2343,10 @@ Anhang 5[^t-5]
 ### 1.1 Gruppe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image1.png) in Verbindung mit</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Lebensgefahr bei Verschlucken, oder H310: Lebensgefahr bei Hautkontakt, oder H330: Lebensgefahr bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image1.png) in Verbindung mit</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Lebensgefahr bei Verschlucken, oder H310: Lebensgefahr bei Hautkontakt, oder H330: Lebensgefahr bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Stoffe und Zubereitungen nach Anhang 1.10 ChemRRV[^annex5-lvlu1-lvl1-lvl11-2] gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image3.png) in Verbindung mit</td><td>H340: Kann genetische Defekte verursachen, oder H350: Kann (*beim Einatmen*) Krebs erzeugen, oder H360: Kann die Fruchtbarkeit beeinträchtigen / Kann das Kind im Mutterleib schädigen</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image3.png) in Verbindung mit</td><td>H340: Kann genetische Defekte verursachen, oder H350: Kann (*beim Einatmen*) Krebs erzeugen, oder H360: Kann die Fruchtbarkeit beeinträchtigen / Kann das Kind im Mutterleib schädigen</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Die Nummer des H-Satzes muss nicht in der Kennzeichnung erscheinen.
@@ -2347,12 +2355,12 @@ Anhang 5[^t-5]
 ### 1.2 Gruppe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image1.png) in Verbindung mit</td><td>H301: Giftig bei Verschlucken, oder H311: Giftig bei Hautkontakt, oder H331: Giftig bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image3.png) in Verbindung mit</td><td>H370: Schädigt die Organe, oder H372: Schädigt die Organe bei längerer oder wiederholter Exposition</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image4.png) in Verbindung mit</td><td>H314: Verursacht schwere Verätzungen der Haut und schwere Augenschäden. (Nicht als Zubereitungen der Gruppe 2 gelten jene, die ausschliesslich wegen ihrem Gehalt an Milchsäure [CAS Nr. 79-33-4] als «Skin Corr. 1C» eingestuft und mit H314 gekennzeichnet werden müssen.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image1.png) in Verbindung mit</td><td>H301: Giftig bei Verschlucken, oder H311: Giftig bei Hautkontakt, oder H331: Giftig bei Einatmen, oder Kombinationen der obgenannten Gefahrenhinweise</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image3.png) in Verbindung mit</td><td>H370: Schädigt die Organe, oder H372: Schädigt die Organe bei längerer oder wiederholter Exposition</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image4.png) in Verbindung mit</td><td>H314: Verursacht schwere Verätzungen der Haut und schwere Augenschäden. (Nicht als Zubereitungen der Gruppe 2 gelten jene, die ausschliesslich wegen ihrem Gehalt an Milchsäure [CAS Nr. 79-33-4] als «Skin Corr. 1C» eingestuft und mit H314 gekennzeichnet werden müssen.)</td></tr>
 <tr><td>d.</td><td colspan="2">Gebinde ab einem Inhalt von mehr als 1 kg gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image5.png) in Verbindung mit</td><td>H410: Sehr giftig für Wasserorganismen mit langfristiger Wirkung (Als Stoffe und Zubereitung der Gruppe 2 gelten dabei nur jene, die wegen ihrer Einstufung als «Aquatic Chronic 1» mit H410 gekennzeichnet werden müssen.)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image6.png) in Verbindung mit</td><td>H250: Entzündet sich in Berührung mit Luft von selbst, oder H260: In Berührung mit Wasser entstehen entzündbare Gase, die sich spontan entzünden können, oder H261: In Berührung mit Wasser entstehen entzündbare Gase</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image5.png) in Verbindung mit</td><td>H410: Sehr giftig für Wasserorganismen mit langfristiger Wirkung (Als Stoffe und Zubereitung der Gruppe 2 gelten dabei nur jene, die wegen ihrer Einstufung als «Aquatic Chronic 1» mit H410 gekennzeichnet werden müssen.)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image6.png) in Verbindung mit</td><td>H250: Entzündet sich in Berührung mit Luft von selbst, oder H260: In Berührung mit Wasser entstehen entzündbare Gase, die sich spontan entzünden können, oder H261: In Berührung mit Wasser entstehen entzündbare Gase</td></tr>
 <tr><td>f.</td><td></td><td>H230: Kann auch in Abwesenheit von Luft explosionsartig reagieren, oder H231: Kann auch in Abwesenheit von Luft bei erhöhtem Druck und/oder erhöhter Temperatur explosionsartig reagieren, oder EUH019: Kann explosionsfähige Peroxide bilden, oder EUH029: Entwickelt bei Berührung mit Wasser giftige Gase, oder EUH031: Entwickelt bei Berührung mit Säure giftige Gase, oder EUH032: Entwickelt bei Berührung mit Säure sehr giftige Gase</td></tr>
 </table>
 
@@ -2361,10 +2369,10 @@ Anhang 5[^t-5]
 ### 2.1 Gruppe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image7.png) in Verbindung mit</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Sehr giftig beim Verschlucken, oder R27: Sehr giftig bei Berührung mit der Haut, oder R26: Sehr giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image7.png) in Verbindung mit</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Sehr giftig beim Verschlucken, oder R27: Sehr giftig bei Berührung mit der Haut, oder R26: Sehr giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Stoffe und Zubereitungen gemäss Anhang 1.10 ChemRRV gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image7.png) in Verbindung mit</td><td>R46: Kann vererbbare Schäden verursachen, oder R45: Kann Krebs erzeugen, oder R49: Kann Krebs erzeugen beim Einatmen, oder R60: Kann die Fortpflanzungsfähigkeit beeinträchtigen, oder R61: Kann das Kind im Mutterleib schädigen</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image7.png) in Verbindung mit</td><td>R46: Kann vererbbare Schäden verursachen, oder R45: Kann Krebs erzeugen, oder R49: Kann Krebs erzeugen beim Einatmen, oder R60: Kann die Fortpflanzungsfähigkeit beeinträchtigen, oder R61: Kann das Kind im Mutterleib schädigen</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Die Nummer des R-Satzes muss nicht in der Kennzeichnung erscheinen.
@@ -2372,12 +2380,12 @@ Anhang 5[^t-5]
 ### 2.2 Gruppe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image7.png) in Verbindung mit</td><td>R25: Giftig beim Verschlucken, oder R24: Giftig bei Berührung mit der Haut, oder R23: Giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image7.png) in Verbindung mit</td><td>R39: Ernste Gefahr irreversiblen Schadens, oder R48: Gefahr ernster Gesundheitsschäden bei längerer Exposition</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image9.png) in Verbindung mit</td><td>R35: Verursacht schwere Verätzungen, oder R34: Verursacht Verätzungen</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image7.png) in Verbindung mit</td><td>R25: Giftig beim Verschlucken, oder R24: Giftig bei Berührung mit der Haut, oder R23: Giftig beim Einatmen, oder Kombinationen der obgenannten R-Sätze</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image7.png) in Verbindung mit</td><td>R39: Ernste Gefahr irreversiblen Schadens, oder R48: Gefahr ernster Gesundheitsschäden bei längerer Exposition</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image9.png) in Verbindung mit</td><td>R35: Verursacht schwere Verätzungen, oder R34: Verursacht Verätzungen</td></tr>
 <tr><td>d.</td><td colspan="2">Gebinde ab einem Inhalt von mehr als 1 kg gekennzeichnet mit:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image10.png) in Verbindung mit</td><td>R50/53: Sehr giftig für Wasserorganismen, kann in Gewässern längerfristig schädliche Wirkungen haben</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/de/xml/image/image11.png) in Verbindung mit</td><td>R17: Selbstentzündlich an der Luft, oder R15: Reagiert mit Wasser unter Bildung hochentzündlicher Gase</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image10.png) in Verbindung mit</td><td>R50/53: Sehr giftig für Wasserorganismen, kann in Gewässern längerfristig schädliche Wirkungen haben</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/de/xml/image/image11.png) in Verbindung mit</td><td>R17: Selbstentzündlich an der Luft, oder R15: Reagiert mit Wasser unter Bildung hochentzündlicher Gase</td></tr>
 <tr><td>f.</td><td></td><td>R6: Mit und ohne Luft explosionsfähig, oder R19: Kann explosionsfähige Peroxide bilden, oder R29: Entwickelt bei Berührung mit Wasser giftige Gase, oder R31: Entwickelt bei Berührung mit Säure giftige Gase, oder R32: Entwickelt bei Berührung mit Säure sehr giftige Gase</td></tr>
 </table>
 

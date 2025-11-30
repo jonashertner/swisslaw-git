@@ -4,11 +4,11 @@ title: "Ordinanza del 5 giugno 2015 sulla protezione contro le sostanze e i prep
 short: OPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: it
-version: 2025-09-01
+version: 2025-12-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2015-366-20250901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20250901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2015-366-20251201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20250901/it"
 
 (Ordinanza sui prodotti chimici, OPChim)
 
-del 5 giugno 2015 (Stato 1° settembre 2025)
+del 5 giugno 2015 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -47,13 +47,13 @@ La presente ordinanza disciplina:
 - c. l’utilizzazione di sostanze e preparati che potrebbero mettere in pericolo l’essere umano o l’ambiente;
 - d. il trattamento di dati su sostanze e preparati da parte delle autorità d’esecuzione.
 
-<sup>2</sup> La presente ordinanza si applica ai biocidi e ai loro principi attivi nonché ai prodotti fitosanitari, ai loro principi attivi e ai loro coformulanti quando alla stessa rinvia l’ordinanza del 18 maggio 2005[^1-1] sui biocidi o l’ordinanza del 12 maggio 2010[^1-2] sui prodotti fitosanitari.
+<sup>2</sup> La presente ordinanza si applica ai biocidi e alle loro sostanze attive nonché ai prodotti fitosanitari, alle loro sostanze attive e ai loro coformulanti quando alla stessa rinvia l’ordinanza del 18 maggio 2005[^1-1] sui biocidi o l’ordinanza del 20 agosto 2025[^1-2] sui prodotti fitosanitari.[^1-3]
 
-<sup>2bis</sup> La presente ordinanza si applica ai prodotti del tabacco e alle sigarette elettroniche ai sensi dell’articolo 3 lettere a–f della legge del 1° ottobre 2021[^1-3] sui prodotti del tabacco nonché ai prodotti simili ad essi equiparati in virtù dell’articolo 3 dell’ordinanza del 28 agosto 2024[^1-4] sui prodotti del tabacco (OPTab) quando alla stessa rinvia l’OPTab.[^1-5]
+<sup>2bis</sup> La presente ordinanza si applica ai prodotti del tabacco e alle sigarette elettroniche ai sensi dell’articolo 3 lettere a–f della legge del 1° ottobre 2021[^1-4] sui prodotti del tabacco nonché ai prodotti simili ad essi equiparati in virtù dell’articolo 3 dell’ordinanza del 28 agosto 2024[^1-5] sui prodotti del tabacco (OPTab) quando alla stessa rinvia l’OPTab.[^1-6]
 
 <sup>3</sup> La presente ordinanza si applica a sostanze e preparati radioattivi per quanto non si tratti di effetti dovuti alla loro radiazione radioattiva.
 
-<sup>4</sup> Ai prodotti cosmetici ai sensi dell’articolo 53 capoverso 1 dell’ordinanza del 16 dicembre 2016[^1-6] sulle derrate alimentari e gli oggetti d’uso sotto forma di prodotti finiti destinati a utilizzatori privati o professionali si applicano esclusivamente gli articoli 5–7 e 81, ma solo per quanto concerne la protezione dell’ambiente nonché la classificazione e la valutazione circa la pericolosità per l’ambiente.[^1-7]
+<sup>4</sup> Ai prodotti cosmetici ai sensi dell’articolo 53 capoverso 1 dell’ordinanza del 16 dicembre 2016[^1-7] sulle derrate alimentari e gli oggetti d’uso sotto forma di prodotti finiti destinati a utilizzatori privati o professionali si applicano esclusivamente gli articoli 5–7 e 81, ma solo per quanto concerne la protezione dell’ambiente nonché la classificazione e la valutazione circa la pericolosità per l’ambiente.[^1-8]
 
 <sup>5</sup>
 
@@ -63,35 +63,36 @@ La presente ordinanza non si applica:
 - b. al transito di sostanze e preparati sotto controllo doganale, sempre che non siano oggetto di lavorazione o trasformazione durante il transito;
 - c.
 
-  alle sostanze e ai preparati sotto forma dei seguenti prodotti finiti destinati agli utilizzatori privati e professionali: [^1-8]
+  alle sostanze e ai preparati sotto forma dei seguenti prodotti finiti destinati agli utilizzatori privati e professionali: [^1-9]
 
-  - 1\.[^1-9] derrate alimentari secondo l’articolo 4 della legge del 20 giugno 2014[^1-10] sulle derrate alimentari (LDerr),
-  - 2\. medicamenti secondo l’articolo 4 capoverso 1 lettera a e dispositivi medici secondo l’articolo 4 capoverso 1 lettera b della legge del 15 dicembre 2000[^1-11] sugli agenti terapeutici,
-  - 3\. alimenti per animali ai sensi dell’articolo 3 capoverso 1 dell’ordinanza del 26 ottobre 2011[^1-12] sugli alimenti per animali;
+  - 1\.[^1-10] derrate alimentari secondo l’articolo 4 della legge del 20 giugno 2014[^1-11] sulle derrate alimentari (LDerr),
+  - 2\. medicamenti secondo l’articolo 4 capoverso 1 lettera a e dispositivi medici secondo l’articolo 4 capoverso 1 lettera b della legge del 15 dicembre 2000[^1-12] sugli agenti terapeutici,
+  - 3\. alimenti per animali ai sensi dell’articolo 3 capoverso 1 dell’ordinanza del 26 ottobre 2011[^1-13] sugli alimenti per animali;
 
-- d. alle armi e alle munizioni secondo l’articolo 4 capoversi 1 e 5 della legge del 20 giugno 1997[^1-13] sulle armi;
+- d. alle armi e alle munizioni secondo l’articolo 4 capoversi 1 e 5 della legge del 20 giugno 1997[^1-14] sulle armi;
 - e. alle sostanze, ai preparati e agli oggetti considerati rifiuti ai sensi dell’articolo 7 capoverso 6 LPAmb.
 
-<sup>6</sup> Alle sostanze e ai preparati importati che sono esclusivamente rietichettati ed esportati senza altre modifiche si applicano gli articoli 57, 62 e 67.[^1-14]
+<sup>6</sup> Alle sostanze e ai preparati importati che sono esclusivamente rietichettati ed esportati senza altre modifiche si applicano gli articoli 57, 62 e 67.[^1-15]
 
-<sup>7</sup> Alle sostanze e ai preparati pericolosi esportati si applica inoltre l’ordinanza PIC del 10 novembre 2004[^1-15].[^1-16]
+<sup>7</sup> Alle sostanze e ai preparati pericolosi esportati si applica inoltre l’ordinanza PIC del 10 novembre 2004[^1-16].[^1-17]
 
 [^1-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^1-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^1-3]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^1-3]: Nuovo testo giusta l’all. 10 cifra II n. 2 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 [^1-4]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
-[^1-5]: Introdotto dall’all. 4 cifra II n. 5 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
-[^1-6]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
-[^1-7]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-5]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^1-6]: Introdotto dall’all. 4 cifra II n. 5 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^1-7]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^1-8]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^1-9]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^1-10]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
-[^1-11]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
-[^1-12]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
-[^1-13]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
-[^1-14]: Nuovo testo giusta la cifra III n. 1 dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^1-15]: [RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
-[^1-16]: Introdotto dalla cifra III n. 1 dell’O del 22 mar. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-10]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-11]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^1-12]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^1-13]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^1-14]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^1-15]: Nuovo testo giusta la cifra III n. 1 dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-16]: [RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)
+[^1-17]: Introdotto dalla cifra III n. 1 dell’O del 22 mar. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
 
 #### Art. 2
 
@@ -1168,7 +1169,7 @@ Non sono esentati dall’obbligo di annuncio secondo il presente capitolo:
 [^54-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 [^54-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
 [^54-3]: Introdotta dalla cifra I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
-[^54-4]: Abrogata dall’all. 5 n. II n. 1 dell’O del 1° nov. 2023 sui concimi, con effetto dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^54-4]: Abrogata dall’all. 5 cifra II n. 1 dell’O del 1° nov. 2023 sui concimi, con effetto dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 [^54-5]: [RS 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
 [^54-6]: Nuovo testo giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^54-7]: Introdotta dalla cifra I dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
@@ -1432,25 +1433,26 @@ L’organo di notifica tiene un registro delle sostanze e dei preparati che rien
 - a. la presente ordinanza;
 - b. l’ORRPChim[^72-1];
 - c. l’ordinanza del 18 maggio 2005[^72-2] sui biocidi;
-- d. l’ordinanza del 12 maggio 2010[^72-3] sui prodotti fitosanitari;
-- e.[^72-4] l’ordinanza del 1° novembre 2023[^72-5] sui concimi.
+- d.[^72-3] l’ordinanza del 20 agosto 2025[^72-4] sui prodotti fitosanitari;
+- e.[^72-5] l’ordinanza del 1° novembre 2023[^72-6] sui concimi.
 
-<sup>1bis</sup> I dati concernenti i preparati, rilevati ai sensi dell’articolo 27 capoverso 1 OPTab, sono anch’essi inclusi nel registro dei prodotti.[^72-6]
+<sup>1bis</sup> I dati concernenti i preparati, rilevati ai sensi dell’articolo 27 capoverso 1 OPTab, sono anch’essi inclusi nel registro dei prodotti.[^72-7]
 
 <sup>2</sup>
 
 Il registro è allestito sulla base di dati:
 
-- a.[^72-7] rilevati o elaborati da un’autorità svizzera nel quadro di una delle ordinanze di cui al capoverso 1 o 1<sup>bis</sup>;
+- a.[^72-8] rilevati o elaborati da un’autorità svizzera nel quadro di una delle ordinanze di cui al capoverso 1 o 1<sup>bis</sup>;
 - b. messi a disposizione da autorità estere o da organizzazioni internazionali.
 
 [^72-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^72-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
-[^72-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^72-4]: Introdotta dall’all. 5 cifra II n. 1 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
-[^72-5]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
-[^72-6]: Introdotto dall’all. 4 cifra II n. 5 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
-[^72-7]: Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^72-3]: Nuovo testo giusta l’all. 10 cifra II n. 2 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^72-4]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^72-5]: Introdotta dall’all. 5 cifra II n. 1 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^72-6]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^72-7]: Introdotto dall’all. 4 cifra II n. 5 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^72-8]: Nuovo testo giusta l’all. 4 cifra II n. 5 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 73
 
@@ -1495,31 +1497,37 @@ Non sono considerati in alcun caso confidenziali:
 
 **Trasmissione di dati all’organo di notifica e ai servizi di valutazione**
 
-Se necessario ai fini dell’esecuzione della presente ordinanza e su loro richiesta, all’organo di notifica e ai servizi di valutazione devono essere trasmessi i seguenti dati relativi a sostanze, preparati e oggetti:[^74-1]
+Se necessario ai fini dell’esecuzione della presente ordinanza e su loro richiesta, all’organo di notifica, al Servizio di omologazione dei prodotti fitosanitari e ai servizi di valutazione devono essere trasmessi i seguenti dati relativi a sostanze, preparati e oggetti:[^74-1]
 
-- a.
+- a.[^74-2]
 
   i dati rilevati dall’UFAG in base a:
 
-  - 1\. l’ordinanza del 10 gennaio 2001[^74-2] sui concimi,
-  - 2\. l’ordinanza del 26 ottobre 2011[^74-3] sugli alimenti per animali,
-  - 3\. l’ordinanza del 12 maggio 2010[^74-4] sui prodotti fitosanitari;
+  - 1\. l’ordinanza del 1° novembre 2023[^74-3] sui concimi;
+  - 2\. l’ordinanza del 26 ottobre 2011[^74-4] sugli alimenti per animali;
 
-- b.[^74-5] i dati relativi a sostanze estranee e componenti di derrate alimentari e a sostanze contenute in oggetti d’uso, che sono stati rilevati dall’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) in base all’ordinanza del 27 maggio 2020[^74-6] sull’esecuzione della legislazione sulle derrate alimentari;
-- c. i dati dell’Ufficio federale della dogana e della sicurezza dei confini[^74-7] provenienti dalle dichiarazioni doganali;
+- b.[^74-5]
+
+  i dati rilevati dall’USAV in base a:
+
+  - 1\. l’ordinanza del 20 agosto 2025[^74-6] sui prodotti fitosanitari,
+  - 2\. l’ordinanza del 27 maggio 2020[^74-7] sull’esecuzione della legislazione sulle derrate alimentari;
+
+- c. i dati dell’Ufficio federale della dogana e della sicurezza dei confini[^74-8] provenienti dalle dichiarazioni doganali;
 - d. i dati rilevati dalla SECO, dall’Istituto nazionale svizzero di assicurazione contro gli infortuni (SUVA) o dagli ispettorati cantonali del lavoro sulla base della legislazione in materia di protezione dei lavoratori;
 - e. i dati rilevati dal Centro d’informazione tossicologica (art. 79);
-- f. i dati rilevati dagli organi d’esame secondo l’articolo 12 capoverso 3 dell’ORRPChim[^74-8];
+- f. i dati rilevati dagli organi d’esame secondo l’articolo 12 capoverso 3 dell’ORRPChim[^74-9];
 - g. i dati rilevati dai Cantoni nel quadro dell’esecuzione della presente ordinanza o di altri atti normativi che disciplinano la protezione dell’essere umano o dell’ambiente da sostanze, preparati od oggetti.
 
-[^74-1]: Nuovo testo giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-2]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
-[^74-3]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
-[^74-4]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^74-5]: Nuovo testo giusta l’all. n. 1 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
-[^74-6]: [RS 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)
-[^74-7]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022.
-[^74-8]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^74-1]: Nuovo testo giusta l’all. 10 cifra II n. 2 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-2]: Nuovo testo giusta l’all. 10 cifra II n. 2 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-3]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^74-4]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^74-5]: Nuovo testo giusta l’all. 10 cifra II n. 2 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^74-6]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^74-7]: [RS 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)
+[^74-8]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022.
+[^74-9]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 75
 
@@ -1910,7 +1918,7 @@ Allegato 1[^t-1]
 
 ## Equivalenze terminologiche e diritto applicabile
 
-[^t-1]: Aggiornato dall’all. 6 n. 3 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)) e dalla cifra II cpv. 1 dell’O del 31 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^t-1]: Aggiornato dall’all. 6 n. 3 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dalla cifra II cpv. 1 dell’O del 31 gen. 2018 ([RU 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)) e dall’all. 10 cifra II n. 2 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 ### 1
 
@@ -1970,7 +1978,7 @@ Là dove la presente ordinanza rimanda a disposizioni del regolamento UE-REACH o
 <tr><th colspan="2">Diritto UE</th><th>Diritto svizzero</th></tr>
 <tr><td colspan="2">Direttiva 86/609/CEE del Consiglio, del 24 novembre 1986, concernente il ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati Membri relative alla protezione degli animali utilizzati a fini sperimentali o ad altri fini scientifici, GU L 358 del 18.12.1986, pag. 1</td><td>Legge del 16 dicembre 2005[^annex1-lvlu1-lvl3-1] sulla protezione degli animali</td></tr>
 <tr><td colspan="2">Regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all’uso dei biocidi, GU L 167 del 27.6.2012, pag. 1</td><td>Ordinanza del 18 maggio 2005[^annex1-lvlu1-lvl3-2] sui biocidi</td></tr>
-<tr><td colspan="2">Regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, relativo all’immissione sul mercato dei prodotti fitosanitari e che abroga le direttive del Consiglio 79/117/CEE e 91/414/CEE, GU L 309 del 24.11.2009, pag. 1</td><td>Ordinanza del 12 maggio 2010[^annex1-lvlu1-lvl3-3] sui prodotti fitosanitari</td></tr>
+<tr><td colspan="2">Regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, relativo all’immissione sul mercato dei prodotti fitosanitari e che abroga le direttive del Consiglio 79/117/CEE e 91/414/CEE, GU L 309 del 24.11.2009, pag. 1</td><td>Ordinanza del 20 agosto 2025[^annex1-lvlu1-lvl3-3] sui prodotti fitosanitari</td></tr>
 <tr><td colspan="2">Prescrizioni per il trasporto di merci pericolose</td><td>Disposizioni sul trasporto per posta, per ferrovia, su strada, per via aerea o navigabile e attraverso gli impianti di trasporto in condotta</td></tr>
 <tr><td colspan="2">Decisione della Commissione, del 12 luglio 1995, che istituisce un Comitato scientifico per i limiti dell’esposizione professionale agli agenti chimici, GU L 188 del 9.8.1995, pag. 14</td><td>Articolo 50 cpv. 3 dell’ordinanza del 19 dicembre 1983[^annex1-lvlu1-lvl3-4] sulla prevenzione degli infortuni</td></tr>
 <tr><td colspan="2">Direttiva 98/24/CE del Consiglio, del 7 aprile 1998, sulla protezione della salute e della sicurezza dei lavoratori contro i rischi derivanti da agenti chimici durante il lavoro, GU L 131 del 5.5.1998, pag. 11</td><td>Legislazione sulla protezione dei lavoratori</td></tr>
@@ -2005,7 +2013,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle prescrizioni tecniche determinanti
 
-[^t-2]: Nuovo testo giusta la cifra I cpv. 1 dell’O dell’UFSP del 1° nov. 2016 ([RU 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Aggiornato dai n. I delle O dell’UFSP del 5 feb. 2018 ([RU 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), del 31 ott. 2018 ([RU 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), del 23 mag. 2019 ([RU 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), del 21 feb. 2020 ([RU 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), dall’all. n. 1 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dalle cifre I delle O dell’UFSP del 19 nov. 2020 ([RU 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), del 4 ago. 2021 ([RU 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)), del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)), del 5 set. 2023 ([RU 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)), del 22 lug. 2024 ([RU 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)) e del 31 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 506](https://fedlex.data.admin.ch/eli/oc/2025/506)).
+[^t-2]: Nuovo testo giusta la cifra I cpv. 1 dell’O dell’UFSP del 1° nov. 2016 ([RU 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Aggiornato dai cifra I delle O dell’UFSP del 5 feb. 2018 ([RU 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), del 31 ott. 2018 ([RU 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), del 23 mag. 2019 ([RU 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), del 21 feb. 2020 ([RU 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), dall’all. n. 1 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dalle cifre I delle O dell’UFSP del 19 nov. 2020 ([RU 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), del 4 ago. 2021 ([RU 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)), del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)), del 5 set. 2023 ([RU 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)), del 22 lug. 2024 ([RU 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)) e del 31 lug. 2025, in vigore dal 1° set. 2025 ([RU 2025 506](https://fedlex.data.admin.ch/eli/oc/2025/506)).
 
 ### 1 Prescrizioni tecniche per la classificazione, l’etichettatura e l’imballaggio di sostanze e preparati
 
@@ -2182,7 +2190,7 @@ Allegato 4[^t-4]
 
 ## Fascicolo tecnico
 
-[^t-4]: Aggiornato dalla cifra II dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e del n. I dell’O dell’UFSP del 9 ago. 2022, in vigore dal 1° set. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)).
+[^t-4]: Aggiornato dalla cifra II dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e del cifra I dell’O dell’UFSP del 9 ago. 2022, in vigore dal 1° set. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)).
 
 ### 1 Disposizioni generali
 
@@ -2336,10 +2344,10 @@ Allegato 5[^t-5]
 ### 1.1 Gruppo 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image1.png) in combinazione con</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Letale se ingerito, o H310: Letale a contatto con la pelle, o H330: Letale se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image1.png) in combinazione con</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Letale se ingerito, o H310: Letale a contatto con la pelle, o H330: Letale se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Sostanze e preparati secondo l’allegato 1.10 ORRPChim[^annex5-lvlu1-lvl1-lvl11-2] etichettati con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image3.png) in combinazione con</td><td>H340: Può provocare alterazioni genetiche, o H350: Può provocare il cancro (*se inalato*), o H360: Può nuocere alla fertilità / al feto</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image3.png) in combinazione con</td><td>H340: Può provocare alterazioni genetiche, o H350: Può provocare il cancro (*se inalato*), o H360: Può nuocere alla fertilità / al feto</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Il numero della frase H non deve figurare nell’etichettatura.
@@ -2348,12 +2356,12 @@ Allegato 5[^t-5]
 ### 1.2 Gruppo 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image1.png) in combinazione con</td><td>H301: Tossico se ingerito, o H311: Tossico a contatto con la pelle, o H331: Tossico se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image3.png) in combinazione con</td><td>H370: Provoca danni agli organi, o H372: Provoca danni agli organi in caso di esposizione prolungata o ripetuta</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image4.png) in combinazione con</td><td>H314: Provoca gravi ustioni cutanee e gravi lesioni oculari. (Non sono considerati preparati del gruppo 2 quelli classificati come «Skin Corr. 1C» unicamente per il loro tenore di acido lattico [n. CAS 79-33-4] e sulla cui etichetta figura obbligatoriamente il codice H314.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image1.png) in combinazione con</td><td>H301: Tossico se ingerito, o H311: Tossico a contatto con la pelle, o H331: Tossico se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image3.png) in combinazione con</td><td>H370: Provoca danni agli organi, o H372: Provoca danni agli organi in caso di esposizione prolungata o ripetuta</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image4.png) in combinazione con</td><td>H314: Provoca gravi ustioni cutanee e gravi lesioni oculari. (Non sono considerati preparati del gruppo 2 quelli classificati come «Skin Corr. 1C» unicamente per il loro tenore di acido lattico [n. CAS 79-33-4] e sulla cui etichetta figura obbligatoriamente il codice H314.)</td></tr>
 <tr><td>d.</td><td colspan="2">Recipiente con una capacità superiore a 1 kg etichettato con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image5.png) in combinazione con</td><td>soltanto per le sostanze e i preparati che essendo classificati come «Aquatic Chronic 1» devono recare sull’etichetta la frase H410: «Molto tossico per gli organismi acquatici con effetti di lunga durata»</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image6.png) in combinazione con</td><td>H250: Spontaneamente infiammabile all’aria, o H260: A contatto con l’acqua libera gas infiammabili che possono infiammarsi spontaneamente, o H261: A contatto con l’acqua libera gas infiammabili</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image5.png) in combinazione con</td><td>soltanto per le sostanze e i preparati che essendo classificati come «Aquatic Chronic 1» devono recare sull’etichetta la frase H410: «Molto tossico per gli organismi acquatici con effetti di lunga durata»</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image6.png) in combinazione con</td><td>H250: Spontaneamente infiammabile all’aria, o H260: A contatto con l’acqua libera gas infiammabili che possono infiammarsi spontaneamente, o H261: A contatto con l’acqua libera gas infiammabili</td></tr>
 <tr><td>f.</td><td></td><td>H230: Esplosivo anche in assenza di aria, o H231: Esplosivo anche in assenza di aria in caso di alta pressione e/o alta temperatura, o EUH019: Può formare perossidi esplosivi, o EUH029: A contatto con l’acqua libera un gas tossico, o EUH031: A contatto con acidi libera un gas tossico, o EUH032: A contatto con acidi libera un gas altamente tossico</td></tr>
 </table>
 
@@ -2362,10 +2370,10 @@ Allegato 5[^t-5]
 ### 2.1 Gruppo 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image7.png) in combinazione con</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Molto tossico per ingestione, o R27: Molto tossico a contatto con la pelle, o R26: Molto tossico per inalazione, o combinazioni delle suddette frasi R.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image7.png) in combinazione con</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Molto tossico per ingestione, o R27: Molto tossico a contatto con la pelle, o R26: Molto tossico per inalazione, o combinazioni delle suddette frasi R.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Sostanze e preparati secondo l’allegato 1.10 ORRPChim etichettati con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image7.png) in combinazione con</td><td>R46: Può provocare alterazioni genetiche ereditarie, o R45: Può provocare il cancro, o R49: Può provocare il cancro per inalazione, o R60: Può nuocere alla fertilità, o R61: Può nuocere al feto</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image7.png) in combinazione con</td><td>R46: Può provocare alterazioni genetiche ereditarie, o R45: Può provocare il cancro, o R49: Può provocare il cancro per inalazione, o R60: Può nuocere alla fertilità, o R61: Può nuocere al feto</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Il numero della frase R non deve figurare nell’etichettatura.
@@ -2373,12 +2381,12 @@ Allegato 5[^t-5]
 ### 2.2 Gruppo 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image7.png) in combinazione con</td><td>R25: Tossico per ingestione, o R24: Tossico a contatto con la pelle, o R23: Tossico per inalazione, o combinazioni delle suddette frasi R</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image7.png) in combinazione con</td><td>R39: Pericolo di effetti irreversibili molto gravi, o R48: Pericolo di gravi danni per la salute in caso di esposizione prolungata</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image9.png) in combinazione con</td><td>R35: Provoca gravi ustioni, o R34: Provoca ustioni</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image7.png) in combinazione con</td><td>R25: Tossico per ingestione, o R24: Tossico a contatto con la pelle, o R23: Tossico per inalazione, o combinazioni delle suddette frasi R</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image7.png) in combinazione con</td><td>R39: Pericolo di effetti irreversibili molto gravi, o R48: Pericolo di gravi danni per la salute in caso di esposizione prolungata</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image9.png) in combinazione con</td><td>R35: Provoca gravi ustioni, o R34: Provoca ustioni</td></tr>
 <tr><td>d.</td><td colspan="2">Recipiente con una capacità superiore a 1 kg etichettato con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image10.png) in combinazione con</td><td>R50/53: Molto tossico per gli organismi acquatici, a lungo termine può provocare effetti negativi per l’ambiente acquatico</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20250901/it/xml/image/image11.png) in combinazione con</td><td>R17: Spontaneamente infiammabile all’aria, o R15: A contatto con l’acqua libera gas estremamente infiammabili</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image10.png) in combinazione con</td><td>R50/53: Molto tossico per gli organismi acquatici, a lungo termine può provocare effetti negativi per l’ambiente acquatico</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20251201/it/xml/image/image11.png) in combinazione con</td><td>R17: Spontaneamente infiammabile all’aria, o R15: A contatto con l’acqua libera gas estremamente infiammabili</td></tr>
 <tr><td>f.</td><td></td><td>R6: Esplosivo a contatto o senza contatto con l’aria, o R19: Può formare perossidi esplosivi, o R29: A contatto con l’acqua libera gas tossici, o R31: A contatto con acidi libera gas tossici, o R32: A contatto con acidi libera gas molto tossici</td></tr>
 </table>
 
