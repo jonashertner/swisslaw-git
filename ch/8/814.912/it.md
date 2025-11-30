@@ -4,11 +4,11 @@ title: "Ordinanza del 9 maggio 2012 sull'utilizzazione di organismi in sistemi c
 short: OIConf
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: it
-version: 2024-09-01
+version: 2025-12-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2012-329-20251201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/it"
 
 (Ordinanza sull’impiego confinato, OIConf)
 
-del 9 maggio 2012 (Stato 1° settembre 2024)
+del 9 maggio 2012 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,11 +25,11 @@ visti gli articoli 29*b* capoversi 2 e 3, 29*f*, 38 capoverso 3, 39 capoverso 1,
 
 ordina:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -60,13 +60,13 @@ La presente ordinanza non si applica all’utilizzazione di organismi:
 - a. conformemente all’ordinanza del 20 settembre 2013[^2-5] sulle sperimentazioni cliniche nella ricerca umana;
 - b.[^2-6] per l’uso proprio di dispositivi la cui dispensazione in virtù degli articoli 61 capoverso 3 o 84 dell’ordinanza del 4 maggio 2022 relativa ai dispositivi medico-diagnostici in vitro è autorizzata.[^2-7]
 
-[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^2-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^2-3]: Nuovo testo giusta il n. III 2 dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^2-4]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^2-2]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^2-3]: Nuovo testo giusta la cifra III n. 2 dell’O del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
+[^2-4]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
+[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 [^2-6]: Nuovo testo giusta l’all. 5 n. 2 dell’O del 4 mag. 2022 relativa ai dispositivi medico-diagnostici in vitro, in vigore dal 26 mag. 2022 ([RU 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^2-7]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^2-7]: Nuovo testo giusta la cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 3
 
@@ -91,7 +91,7 @@ Ai sensi della presente ordinanza s’intende per:
 - i. *utilizzazione**:* qualsiasi attività intenzionale con organismi, in particolare l’impiego, la lavorazione, la moltiplicazione, la modificazione, la rilevazione, il trasporto, il deposito o lo smaltimento;
 - j.[^3-1] *utilizzazione indebita:* utilizzazione di organismi soggetti a impiego confinato che in maniera illecita e dolosa mette in pericolo o pregiudica l’uomo, gli animali e l’ambiente o la diversità biologica e la sua utilizzazione sostenibile.
 
-[^3-1]: Introdotta dal n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^3-1]: Introdotta dalla cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ## Capitolo 2: Esigenze relative all’utilizzazione di organismi in sistemi chiusi
 
@@ -118,28 +118,29 @@ Chi utilizza organismi in sistemi chiusi deve impiegare la dovuta diligenza affi
 
 <sup>1</sup>
 
-L’utilizzazione dei seguenti organismi deve avvenire in sistemi chiusi, salvo quando è permesso utilizzarli nell’ambiente in virtù dell’ordinanza del 10 settembre 2008[^5-1] sull’emissione deliberata nell’ambiente, dell’ordinanza del 12 maggio 2010[^5-2] sui prodotti fitosanitari o dell’ordinanza del 18 maggio 2005[^5-3] sui biocidi:
+L’utilizzazione dei seguenti organismi deve avvenire in sistemi chiusi, salvo quando è permesso utilizzarli nell’ambiente in virtù dell’ordinanza del 10 settembre 2008[^5-1] sull’emissione deliberata nell’ambiente, dell’ordinanza del 20 agosto 2025[^5-2] sui prodotti fitosanitari o dell’ordinanza del 18 maggio 2005[^5-3] sui biocidi:[^5-4]
 
 - a. organismi geneticamente modificati;
 - b. organismi patogeni;
-- c.[^5-4]
+- c.[^5-5]
 
   organismi alloctoni soggetti a impiego confinato:
 
   - 1\. piccoli invertebrati alloctoni,
-  - 2\.[^5-5] organismi alloctoni invasivi di cui all’allegato 2.1 dell’ordinanza sull’emissione deliberata nell’ambiente, e
-  - 3\. organismi che, secondo l’ordinanza emanata dal Dipartimento federale dell’economia, della formazione e della ricerca e dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni in virtù degli articoli 4 capoverso 3, 24 capoverso 2 e 29 capoverso 2 dell’ordinanza del 31 ottobre 2018[^5-6] sulla salute dei vegetali, sono considerati organismi nocivi particolarmente pericolosi e organismi che, secondo l’ordinanza emanata dall’Ufficio federale dell’agricoltura (UFAG) o dall’Ufficio federale dell’ambiente (UFAM) in virtù dell’articolo 5 capoverso 2 dell’ordinanza sulla salute dei vegetali, sono considerati organismi da quarantena potenziali.
+  - 2\.[^5-6] organismi alloctoni invasivi di cui all’allegato 2.1 dell’ordinanza sull’emissione deliberata nell’ambiente, e
+  - 3\. organismi che, secondo l’ordinanza emanata dal Dipartimento federale dell’economia, della formazione e della ricerca e dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni in virtù degli articoli 4 capoverso 3, 24 capoverso 2 e 29 capoverso 2 dell’ordinanza del 31 ottobre 2018[^5-7] sulla salute dei vegetali, sono considerati organismi nocivi particolarmente pericolosi e organismi che, secondo l’ordinanza emanata dall’Ufficio federale dell’agricoltura (UFAG) o dall’Ufficio federale dell’ambiente (UFAM) in virtù dell’articolo 5 capoverso 2 dell’ordinanza sulla salute dei vegetali, sono considerati organismi da quarantena potenziali.
 
 <sup>2</sup> Chi utilizza organismi in sistemi chiusi deve determinare e valutare dapprima il rischio rappresentato dalla presenza di tali organismi (classificazione degli organismi) e successivamente il rischio delle attività previste con gli organismi (classificazione delle attività).
 
 <sup>3</sup> Chi utilizza animali e piante geneticamente modificati in sistemi chiusi deve dapprima assicurarsi, mediante una ponderazione degli interessi secondo l’articolo 8 LIG sull’ingegneria genetica, che la dignità della creatura non sia lesa.
 
-[^5-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^5-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^5-3]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^5-4]: Nuovo testo giusta il n. 4 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: Nuovo testo giusta l’all. n. 1 dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
-[^5-6]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^5-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^5-3]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^5-4]: Nuovo testo giusta l’all. 10 cifra II n. 7 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^5-5]: Nuovo testo giusta il n. 4 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^5-6]: Nuovo testo giusta l’all. n. 1 dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-7]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 5a
 
@@ -163,10 +164,10 @@ La rilevazione di cui al capoverso 1 è consentita soltanto ai collaboratori del
 - c. ai servizi fitosanitari federali o cantonali per le misure di prevenzione secondo l’articolo 10, per sorveglianze secondo l’articolo 18 e per rilevamenti secondo l’articolo 19 dell’ordinanza del 31 ottobre 2018[^5a-4] sulla salute dei vegetali (OSalV);
 - d. alle aziende omologate secondo l’articolo 76 OSalV per le analisi di cui all’articolo 84 OSalV.
 
-[^5a-1]: Introdotto dal n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
-[^5a-2]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
-[^5a-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^5a-4]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5a-1]: Introdotto dalla cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^5a-2]: [RS 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
+[^5a-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^5a-4]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 6
 
@@ -204,7 +205,7 @@ Per valutare il rischio determinato, l’attività prevista va attribuita a una 
 
 <sup>4</sup> Per le attività nell’ambito delle quali i lavoratori possono essere esposti a microrganismi è possibile combinare la determinazione e la valutazione del rischio secondo la presente ordinanza con la valutazione del rischio secondo gli articoli 5–7 dell’ordinanza del 25 agosto 1999[^7-1] sulla protezione dei lavoratori dal pericolo derivante da microrganismi.
 
-[^7-1]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^7-1]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### Sezione 2: Esigenze relative all’utilizzazione di organismi geneticamente modificati, patogeni o alloctoni soggetti a impiego confinato
 
@@ -226,7 +227,7 @@ Per valutare il rischio determinato, l’attività prevista va attribuita a una 
 
 <sup>3</sup> Se è necessaria un’autorizzazione secondo l’articolo 49 capoverso 2 dell’ordinanza del 27 giugno 1995[^9-1] sulle epizoozie (OFE), essa deve essere disponibile prima dell’inizio dell’attività.
 
-[^9-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^9-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 10
 
@@ -248,7 +249,7 @@ Per valutare il rischio determinato, l’attività prevista va attribuita a una 
 
 <sup>3</sup> Le indicazioni sono immesse direttamente nella banca dati elettronica ECOGEN (art. 27*a*).[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 12
 
@@ -270,7 +271,7 @@ L’Ufficio federale competente può decidere nel singolo caso che:
 - a. singole misure di sicurezza particolari, appositamente contrassegnate nell’allegato 4, possono essere modificate, sostituite o tralasciate se il richiedente ha dimostrato che la protezione dell’uomo, degli animali e dell’ambiente, nonché della diversità biologica e della sua utilizzazione sostenibile è comunque garantita;
 - b. devono essere adottate ulteriori misure di sicurezza particolari non riportate nell’allegato 4 per il genere e la classe di attività corrispondente se tali misure sono raccomandate da organizzazioni internazionali o dalla Commissione federale per la sicurezza biologica (CFSB) e ritenute necessarie dall’Ufficio federale competente.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 13
 
@@ -335,7 +336,7 @@ Occorre informare immediatamente il servizio specializzato designato dal Cantone
 
 <sup>2</sup> I Cantoni informano l’Ufficio federale competente in merito agli eventi comunicati.
 
-[^16-1]: Introdotta dal n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^16-1]: Introdotta dalla cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ## Capitolo 3: Compiti delle autorità
 
@@ -369,8 +370,8 @@ Il centro di contatto è incaricato di svolgere i seguenti compiti amministrativ
 - i. nella sua funzione di servizio d’informazione e consulenza, può organizzare corsi e formazioni;
 - j. riceve dai Cantoni informazioni e rapporti sulla loro attività di controllo secondo l’articolo 23, li trasmette immediatamente agli Uffici federali competenti e annualmente allestisce una panoramica sulle attività di controllo ai sensi della presente ordinanza.
 
-[^17-1]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^17-2]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^17-1]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 18
 
@@ -398,7 +399,7 @@ Per servizi specializzati s’intendono:
 <sup>4</sup> Per le attività con epizoozie altamente contagiose secondo l’articolo 2 OFE[^18-2] che devono essere svolte al di fuori dell’Istituto di virologia e di immunologia[^18-3] (IVI), l’Ufficio federale competente coordina la sua decisione con quella dell’USAV secondo l’articolo 49 capoverso 2 OFE.
 
 [^18-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
-[^18-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^18-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^18-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° mag. 2013.
 
 #### Art. 19
@@ -411,7 +412,7 @@ Per servizi specializzati s’intendono:
 
 <sup>3</sup> Se l’Ufficio federale competente non emana nessuna decisione entro il termine, le attività della classe 1 soggette a notifica e le modifiche delle attività già notificate della classe 2 sono considerate conformi alla presente ordinanza, fatte salve nuove conoscenze essenziali.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 20
 
@@ -495,7 +496,7 @@ La competenza di sorvegliare il trasporto di organismi geneticamente modificati,
 
 <sup>3</sup> L’UFAM e l’UFAG nella compilazione dei loro elenchi tengono conto di quelli già esistenti, segnatamente di quelli dell’Unione europea e dei suoi Stati membri nonché di altre organizzazioni internazionali.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 27
 
@@ -524,7 +525,7 @@ Le seguenti persone hanno accesso a ECOGEN e possono trattare i dati:
 - a. i collaboratori del centro di contatto Biotecnologia della Confederazione e gli enti competenti secondo l’articolo 18 capoversi 1 e 2: in relazione ai loro compiti;
 - b. i notificanti o i richiedenti: in relazione ai dati in questione.
 
-[^27a-1]: Introdotto dal n. I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^27a-1]: Introdotto dalla cifra I dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 28
 
@@ -565,7 +566,7 @@ I seguenti dati sono pubblici in ogni caso:
 
 <sup>2</sup> Sempre che la presente ordinanza non comporti disciplinamenti speciali, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^29-1] sugli emolumenti.
 
-[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 30
 
@@ -596,7 +597,7 @@ Sono considerate spese i costi supplementari in relazione alla singola prestazio
 - b. le spese per l’assunzione delle prove, le indagini scientifiche, gli esami particolari o la raccolta di documenti;
 - c. le spese dei lavori che il centro di contatto Biotecnologia della Confederazione, l’UFAM o l’UFSP affida a terzi.
 
-[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ### Sezione 6: Direttive, formazione e perfezionamento
 
@@ -617,7 +618,7 @@ Le seguenti ordinanze sono abrogate:
 - 1\. ordinanza del 25 agosto 1999[^33-1] sull’impiego confinato;
 - 2\. ordinanza del 15 ottobre 2001[^33-2] relativa agli emolumenti riscossi per le prestazioni stabilite dall’ordinanza sull’impiego confinato.
 
-[^33-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6]
+[^33-1]: [[RU 1999 2783](https://fedlex.data.admin.ch/eli/oc/1999/443); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)cifra I n. 3; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 82; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 35; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 6]
 [^33-2]: [[RU 2001 2878](https://fedlex.data.admin.ch/eli/oc/2001/426)]
 
 #### Art. 34
@@ -686,7 +687,7 @@ Allegato 2.1[^t-1]
 
 ## Classificazione degli organismi
 
-[^t-1]: Aggiornato dal n. II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 Determinazione del rischio
 
@@ -772,7 +773,7 @@ Allegato 2.2[^t-2]
 
 ## Classificazione delle attività
 
-[^t-2]: Aggiornato dal n. II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-2]: Aggiornato dalla cifra II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 Determinazione del rischio
 
@@ -820,7 +821,7 @@ Per determinare il rischio rappresentato da attività previste con organismi in 
 
 <sup>5</sup> La diagnostica primaria di organismi del gruppo 3 o 4 patogeni per gli animali può, in casi eccezionali, essere attribuita alla classe 2 secondo l’articolo 49 capoverso 2 OFE[^annex22-lvlu1-lvl2-lvl22-1] se si può partire dal principio che con molta probabilità nessun organismo patogeno è presente nei campioni.
 
-[^annex22-lvlu1-lvl2-lvl22-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^annex22-lvlu1-lvl2-lvl22-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 Allegato 3
 
@@ -839,13 +840,13 @@ La notifica globale secondo l’articolo 8 comprende i dati seguenti:
 - c. la conferma che in tali impianti sono effettuate attività con organismi geneticamente modificati della classe 1;
 - d. la conferma della ponderazione degli interessi secondo l’articolo 8 LIG è effettuata per le attività con animali geneticamente modificati che rientrano nel campo di applicazione dell’ordinanza del 23 aprile 2008[^annex31-lvlu1-1] sulla protezione degli animali.
 
-[^annex31-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex31-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Allegato 3.2[^t-3]
 
 ## Dati per la notifica e l’autorizzazione di attività delle classi 2–4
 
-[^t-3]: Aggiornato dal n. II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-3]: Aggiornato dalla cifra II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 Principi
 
@@ -862,7 +863,7 @@ Allegato 3.2[^t-3]
 - e. conferma della garanzia della responsabilità civile per le attività con organismi geneticamente modificati e patogeni delle classi 3 e 4 (art. 13);
 - f. conferma della ponderazione degli interessi secondo l’articolo 8 LIG per le attività con animali geneticamente modificati che rientrano nel campo di applicazione dell’ordinanza del 23 aprile 2008[^annex32-lvlu1-lvl2-1] sulla protezione degli animali.
 
-[^annex32-lvlu1-lvl2-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex32-lvlu1-lvl2-1]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### 3 Dati tecnici
 
@@ -880,7 +881,7 @@ Allegato 4[^t-4]
 
 ## Misure di sicurezza
 
-[^t-4]: Aggiornato dal n. II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
+[^t-4]: Aggiornato dalla cifra II dell’O del 27 set. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ### 1 Misure di sicurezza generali
 
@@ -898,7 +899,7 @@ Le seguenti misure di sicurezza si applicano per tutti i generi e le classi di a
 - j. adottare misure contro eventuali organismi nocivi e parassiti;
 - k. adottare misure adeguate per la riduzione al minimo del rischio di utilizzazione indebita degli organismi identificato in precedenza, quali la limitazione dell’accesso ai locali o la registrazione di persone con accesso agli organismi utilizzati.
 
-[^annex4-lvlu1-lvl1-1]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^annex4-lvlu1-lvl1-1]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### 2 Misure di sicurezza particolari
 

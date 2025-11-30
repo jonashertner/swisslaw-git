@@ -4,11 +4,11 @@ title: "Verordnung vom 9. Mai 2012 über den Umgang mit Organismen in geschlosse
 short: ESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: de
-version: 2024-09-01
+version: 2025-12-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2012-329-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/de"
 
 (Einschliessungsverordnung, ESV)
 
-vom 9. Mai 2012 (Stand am 1. September 2024)
+vom 9. Mai 2012 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 29*b* Absätze 2 und 3, 29*f*, 38 Absatz 3, 39 Absatz 
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 27. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -60,11 +60,11 @@ Diese Verordnung gilt nicht für den Umgang mit Organismen:
 - a. nach der Verordnung vom 20. September 2013[^2-5] über klinische Versuche in der Humanforschung;
 - b.[^2-6] bei der Eigenanwendung von Produkten, deren Abgabe nach Artikel 61 Absatz 3 oder 84 der Verordnung vom 4. Mai 2022 über In-vitro-Diagnostika bewilligt ist.[^2-7]
 
-[^2-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^2-2]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^2-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^2-2]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 [^2-3]: Fassung gemäss Ziff. III 2 der V vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^2-4]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^2-5]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-4]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
+[^2-5]: [SR 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 [^2-6]: Fassung gemäss Anhang 5 Ziff. 2 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^2-7]: Fassung gemäss Ziff. I der V vom 27. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
@@ -118,28 +118,29 @@ Wer mit Organismen in geschlossenen Systemen umgeht, muss die nach den Umstände
 
 <sup>1</sup>
 
-Der Umgang mit folgenden Organismen muss in geschlossenen Systemen erfolgen, ausser wenn mit ihnen nach der Freisetzungsverordnung vom 10. September 2008[^5-1], der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^5-2] oder der Biozidprodukteverordnung vom 18. Mai 2005[^5-3] in der Umwelt umgegangen werden darf:
+Der Umgang mit folgenden Organismen muss in geschlossenen Systemen erfolgen, ausser wenn mit ihnen nach der Freisetzungsverordnung vom 10. September 2008[^5-1], der Pflanzenschutzmittelverordnung vom 20. August 2025[^5-2] oder der Biozidprodukteverordnung vom 18. Mai 2005[^5-3] in der Umwelt umgegangen werden darf:[^5-4]
 
 - a. gentechnisch veränderte Organismen;
 - b. pathogene Organismen;
-- c.[^5-4]
+- c.[^5-5]
 
   einschliessungspflichtige gebietsfremde Organismen:
 
   - 1\. gebietsfremde wirbellose Kleintiere,
-  - 2\.[^5-5] invasive gebietsfremde Organismen nach Anhang 2.1 der Freisetzungsverordnung, und
-  - 3\. Organismen, die nach der Verordnung, die das Eidgenössische Departement für Wirtschaft, Bildung und Forschung und das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation gestützt auf die Artikel 4 Absatz 3, 24 Absatz 2 und 29 Absatz 2 der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^5-6] erlassen haben, als besonders gefährliche Schadorganismen gelten, und Organismen, die nach der Verordnung, die das Bundesamt für Landwirtschaft (BLW) beziehungsweise das Bundesamt für Umwelt (BAFU) gestützt auf Artikel 5 Absatz 2 der Pflanzengesundheitsverordnung erlassen haben, als potenzielle Quarantäneorganismen gelten.
+  - 2\.[^5-6] invasive gebietsfremde Organismen nach Anhang 2.1 der Freisetzungsverordnung, und
+  - 3\. Organismen, die nach der Verordnung, die das Eidgenössische Departement für Wirtschaft, Bildung und Forschung und das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation gestützt auf die Artikel 4 Absatz 3, 24 Absatz 2 und 29 Absatz 2 der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^5-7] erlassen haben, als besonders gefährliche Schadorganismen gelten, und Organismen, die nach der Verordnung, die das Bundesamt für Landwirtschaft (BLW) beziehungsweise das Bundesamt für Umwelt (BAFU) gestützt auf Artikel 5 Absatz 2 der Pflanzengesundheitsverordnung erlassen haben, als potenzielle Quarantäneorganismen gelten.
 
 <sup>2</sup> Wer mit Organismen in geschlossenen Systemen umgeht, muss vorher das Risiko, das vom Vorkommen der Organismen ausgeht, ermitteln und bewerten (Gruppierung der Organismen) und anschliessend das Risiko der geplanten Tätigkeiten mit den Organismen ermitteln und bewerten (Klassierung der Tätigkeiten).
 
 <sup>3</sup> Wer mit gentechnisch veränderten Tieren und Pflanzen in geschlossenen Systemen umgeht, muss vorher mittels Interessenabwägung nach Artikel 8 GTG sicherstellen, dass die Würde der Kreatur nicht missachtet wird.
 
-[^5-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^5-2]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^5-3]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^5-4]: Fassung gemäss Anhang 8 Ziff. 4 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: Fassung gemäss Anhang Ziff. 1 der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
-[^5-6]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^5-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^5-3]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^5-4]: Fassung gemäss Anhang 10 Ziff. II 7 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^5-5]: Fassung gemäss Anhang 8 Ziff. 4 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^5-6]: Fassung gemäss Anhang Ziff. 1 der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-7]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 5a
 
@@ -164,9 +165,9 @@ Der Nachweis nach Absatz 1 ist nur den über spezifische Fachexpertise verfügen
 - d. den nach Artikel 76 PGesV zugelassenen Betrieben bei Untersuchungen nach Artikel 84 PGesV.
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 27. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
-[^5a-2]: [SR 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
-[^5a-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^5a-4]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5a-2]: [SR 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
+[^5a-3]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^5a-4]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 6
 
@@ -204,7 +205,7 @@ Zur Bewertung des ermittelten Risikos ist die geplante Tätigkeit nach den Krite
 
 <sup>4</sup> Handelt es sich um eine Tätigkeit, bei der Arbeitnehmerinnen und Arbeitnehmer Mikroorganismen ausgesetzt sein können, so kann die Risikoermittlung und ‑bewertung nach dieser Verordnung mit der Risikobewertung nach den Artikeln 5–7 der Verordnung vom 25. August 1999[^7-1] über den Schutz der Arbeitnehmerinnen und Arbeitnehmer vor Gefährdung durch Mikroorganismen kombiniert werden.
 
-[^7-1]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^7-1]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### 2. Abschnitt: Anforderungen an den Umgang mit gentechnisch veränderten, pathogenen oder einschliessungspflichtigen gebietsfremden Organismen
 
@@ -226,7 +227,7 @@ Zur Bewertung des ermittelten Risikos ist die geplante Tätigkeit nach den Krite
 
 <sup>3</sup> Ist eine Bewilligung nach Artikel 49 Absatz 2 der Tierseuchenverordnung vom 27. Juni 1995[^9-1] (TSV) erforderlich, so muss diese vor Beginn der Tätigkeit vorliegen.
 
-[^9-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^9-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 10
 
@@ -369,7 +370,7 @@ Die Kontaktstelle hat folgende administrative Aufgaben:
 - i. sie kann in ihrer Funktion als Auskunfts- und Beratungsstelle Kurse und Schulungen durchführen;
 - j. sie nimmt von den Kantonen Informationen und Berichte über ihre Kontrolltätigkeit nach Artikel 23 entgegen, übermittelt sie unverzüglich den zuständigen Bundesämtern und erstellt jährlich eine Übersicht über die Kontrolltätigkeiten nach dieser Verordnung.
 
-[^17-1]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^17-1]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 [^17-2]: Fassung gemäss Ziff. I der V vom 27. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 18
@@ -398,7 +399,7 @@ Als Fachstellen gelten:
 <sup>4</sup> Bei Tätigkeiten mit hochansteckenden Seuchen nach Artikel 2 TSV[^18-2], die ausserhalb des Instituts für Virologie und Immunologie[^18-3] (IVI) durchgeführt werden sollen, koordiniert das zuständige Bundesamt seinen Entscheid mit demjenigen des BLV nach Artikel 49 Absatz 2 TSV.
 
 [^18-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^18-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^18-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^18-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Mai 2013 angepasst.
 
 #### Art. 19
@@ -565,7 +566,7 @@ Folgende Angaben sind in jedem Fall öffentlich:
 
 <sup>2</sup> Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^29-1].
 
-[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 30
 
@@ -596,7 +597,7 @@ Als Auslagen gelten die Kosten, die für die einzelne Dienstleistung zusätzlich
 - b. Kosten, die durch Beweiserhebung, wissenschaftliche Untersuchungen, besondere Prüfungen oder die Beschaffung von Unterlagen verursacht werden;
 - c. Kosten für Arbeiten, welche die Kontaktstelle Biotechnologie des Bundes, das BAFU oder das BAG von Dritten erstellen lässt.
 
-[^31-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ### 6. Abschnitt: Richtlinien, Aus- und Weiterbildung
 
@@ -820,7 +821,7 @@ Zur Ermittlung des Risikos, welches von geplanten Tätigkeiten mit Organismen im
 
 <sup>5</sup> Primäre Diagnostik von tierpathogenen Organismen der Gruppe 3 oder 4 kann in den Ausnahmefällen nach Artikel 49 Absatz 2 TSV[^annex22-lvlu1-lvl2-lvl22-1] der Klasse 2 zugeordnet werden, wenn davon ausgegangen werden kann, dass mit grosser Wahrscheinlichkeit keine pathogenen Organismen in den Proben vorhanden sind.
 
-[^annex22-lvlu1-lvl2-lvl22-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^annex22-lvlu1-lvl2-lvl22-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 Anhang 3
 
@@ -839,7 +840,7 @@ Die globale Meldung nach Artikel 8 umfasst folgende Angaben:
 - c. Bestätigung, dass in diesen Anlagen Tätigkeiten der Klasse 1 mit gentechnisch veränderten Organismen durchgeführt werden;
 - d. Bestätigung der Durchführung einer Interessenabwägung nach Artikel 8 GTG für Tätigkeiten mit gentechnisch veränderten Tieren, die in den Anwendungsbereich der Tierschutzverordnung vom 23. April 2008[^annex31-lvlu1-1] fallen.
 
-[^annex31-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex31-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Anhang 3.2[^t-3]
 
@@ -862,7 +863,7 @@ Anhang 3.2[^t-3]
 - e. Bestätigung der Sicherstellung der Haftpflicht für Tätigkeiten mit gentechnisch veränderten und pathogenen Organismen der Klassen 3 und 4 (Art. 13);
 - f. Bestätigung der Durchführung einer Interessenabwägung nach Artikel 8 GTG für Tätigkeiten mit gentechnisch veränderten Tieren, die in den Anwendungsbereich der Tierschutzverordnung vom 23. April 2008[^annex32-lvlu1-lvl2-1] fallen.
 
-[^annex32-lvlu1-lvl2-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex32-lvlu1-lvl2-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### 3 Fachliche Angaben
 
@@ -898,7 +899,7 @@ Folgende Sicherheitsmassnahmen gelten für alle Arten und Klassen von Tätigkeit
 - j. Massnahmen gegen allfällige Schädlinge und Ungeziefer;
 - k. angemessene Massnahmen zur Minimierung des vorgängig identifizierten Risikos einer missbräuchlichen Verwendung der Organismen, wie die Einschränkung des Zugangs zu Räumlichkeiten und die Erfassung von Personen mit Zugang zu den verwendeten Organismen.
 
-[^annex4-lvlu1-lvl1-1]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^annex4-lvlu1-lvl1-1]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### 2 Besondere Sicherheitsmassnahmen
 

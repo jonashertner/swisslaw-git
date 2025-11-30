@@ -4,11 +4,11 @@ title: "Ordinance of 9 May 2012 on Handling Organisms in Contained Systems (Cont
 short: ContainO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: en
-version: 2024-09-01
+version: 2025-12-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/en/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2012-329-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Containment Ordinance, ContainO)
 
-of 9 May 2012 (Status as of 1 September 2024)
+of 9 May 2012 (Status as of 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -29,10 +29,10 @@ and in implementation of Articles 8 letters g, h and l and 19 paragraph 4 of the
 
 ordains:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 [^ingress-5]: Amended by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ## Chapter 1 General Provisions
@@ -64,13 +64,13 @@ This Ordinance does not apply to the handling of organisms:
 - a. in accordance with the Ordinance of 20 September 2013[^2-5] on Clinical Trials in Human Research;
 - b.[^2-6] in the case of personal use of devices the supply of which is authorised in accordance with Article 61 paragraph 3 or Article 84 of the Ordinance of 4 May 2022[^2-7] on In Vitro Diagnostic Medical Devices.[^2-8]
 
-[^2-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^2-2]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^2-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^2-2]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 [^2-3]: Amended by No III 2 of the O of 29 April 2015, in force since 1 June 2015 ([AS 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^2-4]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^2-5]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-4]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
+[^2-5]: [SR 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 [^2-6]: Amended by Annex 5 No 2 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^2-7]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^2-7]: [SR 812.219](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40010)
 [^2-8]: Amended by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 3
@@ -123,28 +123,29 @@ Any person handling organisms in contained systems must take all due care to ens
 
 <sup>1</sup>
 
-The following organisms must be handled only in contained systems unless they may be handled in the environment in accordance with the Release Ordinance of 10 September 2008[^5-1], the Plant Protection Products Ordinance of 12 May 2010[^5-2] or the Biocidal Products Ordinance of 18 May 2005[^5-3]:
+The following organisms must be handled only in contained systems unless they may be handled in the environment in accordance with the Release Ordinance of 10 September 2008[^5-1], the Plant Protection Products Ordinance of 20 August 2025[^5-2] or the Biocidal Products Ordinance of 18 May 2005[^5-3]:[^5-4]
 
 - a. genetically modified organisms;
 - b. pathogenic organisms;
-- c.[^5-4]
+- c.[^5-5]
 
   organisms subject to a containment obligation:
 
   - 1\. alien small invertebrates,
-  - 2\.[^5-5] invasive alien organisms as defined in Annex 2.1 of the Release Ordinance, and
-  - 3\. harmful organisms that are considered particularly dangerous in accordance with the Ordinance issued by the Federal Department of Economic Affairs, Education and Research and the Federal Department of the Environment, Transport, Energy and Communications based on Articles 4 paragraph 3, 24 paragraph 2 and 29 paragraph 2 of the Plant Health Ordinance of 31 October 2018[^5-6], and organisms that are considered potential quarantine organisms in accordance with the Ordinance issued by the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) based on Article 5 paragraph 2 of the Plant Health Ordinance.
+  - 2\.[^5-6] invasive alien organisms as defined in Annex 2.1 of the Release Ordinance, and
+  - 3\. harmful organisms that are considered particularly dangerous in accordance with the Ordinance issued by the Federal Department of Economic Affairs, Education and Research and the Federal Department of the Environment, Transport, Energy and Communications based on Articles 4 paragraph 3, 24 paragraph 2 and 29 paragraph 2 of the Plant Health Ordinance of 31 October 2018[^5-7], and organisms that are considered potential quarantine organisms in accordance with the Ordinance issued by the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) based on Article 5 paragraph 2 of the Plant Health Ordinance.
 
 <sup>2</sup> Any person who handles organisms in contained systems must first determine and assess the risk of the occurrence of the organisms (allocate the organisms to a group) and thereafter determine and assess the risk due to the planned activities with the organisms (classify the activities).
 
 <sup>3</sup> Any person who handles genetically modified animals and plants in contained systems must first ensure by weighing the interests in accordance with Article 8 GTA that the dignity of living beings is respected.
 
-[^5-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^5-2]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^5-3]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^5-4]: Amended by Annex 8 No 4 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: Amended by Annex No 1 of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
-[^5-6]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-1]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^5-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^5-3]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^5-4]: Amended by Annex 10 No II 7 of the Plant Protection Products Act of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^5-5]: Amended by Annex 8 No 4 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^5-6]: Amended by Annex No 1 of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-7]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 5a
 
@@ -169,9 +170,9 @@ Detection as defined in paragraph 1 is only permissible if carried out by employ
 - d. the establishments authorised in accordance with Article 76 PHO to conduct assessments in accordance with Article 84 PHO.
 
 [^5a-1]: Inserted by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
-[^5a-2]: [SR 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
-[^5a-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^5a-4]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5a-2]: [SR 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
+[^5a-3]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^5a-4]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 6
 
@@ -209,7 +210,7 @@ In order to assess the risks determined, the planned activity must be allocated 
 
 <sup>4</sup> In activities where employees may be exposed to microorganisms, the risk determination and assessment in accordance with this Ordinance may be combined with the risk assessment in accordance with Articles 5–7 of the Ordinance of 25 August 1999[^7-1] on the Protection of Employees from Dangerous Organisms.
 
-[^7-1]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^7-1]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### Section 2 Requirements for Handling Genetically Modified or Pathogenic Organisms or Alien Organisms subject to a Containment Obligation
 
@@ -231,7 +232,7 @@ In order to assess the risks determined, the planned activity must be allocated 
 
 <sup>3</sup> If an authorisation is required under Article 49 paragraph 2 TSV[^9-1], this must be obtained before starting the activity.
 
-[^9-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^9-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 10
 
@@ -374,7 +375,7 @@ The Coordination Centre has the following administrative duties:
 - i. it may run courses and training sessions in its capacity as an information and advice centre;
 - j. it receives information and reports from the cantons on their supervisory activities under Article 23, forwards them immediately to the responsible federal offices and issues an annual report on supervisory activities under this Ordinance.
 
-[^17-1]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^17-1]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 [^17-2]: Amended by No I of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 18
@@ -403,8 +404,8 @@ The following are the specialist agencies:
 <sup>4</sup> In the case of activities with highly contagious epizootic diseases under Article 2 TSV[^18-2] that are intended to be carried out outside the Institute for Virology and Immunology (IVI)[^18-3], the competent federal office coordinates its decision with that of the FSVO under Article 49 paragraph 2 EzDO.
 
 [^18-1]: The name of the federal office was changed on 1 Jan. 2014 in accordance with Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). The change has been made throughout the text.
-[^18-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^18-3]: The name of this administrative unit was modified in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) on 1 May 2013.
+[^18-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^18-3]: The name of this administrative unit was modified in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) on 1 May 2013.
 
 #### Art. 19
 
@@ -570,7 +571,7 @@ The following information shall always be accessible to the public:
 
 <sup>2</sup> Unless this Ordinance contains special regulations, the provisions of the General Fees Ordinance of 8 September 2004[^29-1] apply.
 
-[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 30
 
@@ -601,7 +602,7 @@ Outlays are the costs additionally incurred for an individual service, and in pa
 - b. costs incurred in gathering evidence, conducting scientific investigations or special examinations or obtaining documents;
 - c. costs of work that the Federal Coordination Centre for Biotechnology, the FOEN or the FOPH arranges to be carried out by third parties.
 
-[^31-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ### Section 6 Guidelines, Basic and Continuing Professional Education
 
@@ -825,7 +826,7 @@ In order to determine the risk arising from planned activities with organisms in
 
 <sup>5</sup> Primary diagnosis of Group 3 organisms that are pathogenic to animals may in exceptional cases and in accordance with Article 49 para. 2 TSV[^annex22-lvlu1-lvl2-lvl22-1] be assigned to Class 2 if it can be assumed that there is a high probability that no pathogen organisms are present in the samples.
 
-[^annex22-lvlu1-lvl2-lvl22-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^annex22-lvlu1-lvl2-lvl22-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 Annex 3
 
@@ -844,7 +845,7 @@ The global notification under Article 8 includes the following information:
 - c. confirmation that in these installations Class 1 activities with genetically modified organisms are carried out;
 - d. confirmation that a weighing of interests under Article 8 GTA has been carried out for activities with genetically modified animals covered by the Animal Protection Ordinance of 23 April 2008[^annex31-lvlu1-1].
 
-[^annex31-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex31-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Annex 3.2[^t-3]
 
@@ -867,7 +868,7 @@ Annex 3.2[^t-3]
 - e. Confirmation of the guarantee of liability for activities with genetically modified and pathogenic organisms of Classes 3 and 4 (Art. 13);
 - f. Confirmation that a weighing of interests under Article 8 GTA has been carried out for activities with genetically modified animals covered by the Animal Protection Ordinance of 23 April 2008[^annex32-lvlu1-lvl2-1].
 
-[^annex32-lvlu1-lvl2-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex32-lvlu1-lvl2-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### 3 Technical information
 
@@ -903,7 +904,7 @@ The following safety measures apply to all species and classes of activity:
 - j. Measures against any pests and vermin;
 - k. Appropriate measures to minimise any previously identified risk of improper use of the organisms, such as restricting access to premises and recording the identity of persons with access to the organisms used.
 
-[^annex4-lvlu1-lvl1-1]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^annex4-lvlu1-lvl1-1]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### 2 Special safety measures
 

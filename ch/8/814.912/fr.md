@@ -4,11 +4,11 @@ title: "Ordonnance du 9 mai 2012 sur l'utilisation des organismes en milieu conf
 short: OUC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: fr
-version: 2024-09-01
+version: 2025-12-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-329-20251201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/fr"
 
 (Ordonnance sur l’utilisation confinée, OUC)
 
-du 9 mai 2012 (État le 1<sup>er</sup> septembre 2024)
+du 9 mai 2012 (État le 1<sup>er</sup> décembre 2025)
 
 *Le Conseil fédéral suisse,*
 
@@ -25,10 +25,10 @@ vu les art. 29*b*, al. 2 et 3, 29*f*, 38, al. 3, 39, al. 1, 41, al. 2 et 3, 44, 
 
 arrête:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 ## Chapitre 1 Dispositions générales
@@ -60,11 +60,11 @@ La présente ordonnance ne s’applique pas à l’utilisation d’organismes:
 - a. au sens de l’ordonnance du 20 septembre 2013 sur les essais cliniques[^2-5];
 - b.[^2-6] dans le cadre d’un usage personnel de dispositifs dont la remise est autorisée en vertu de l’art. 61, al. 3, ou 84 de l’ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro.[^2-7]
 
-[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^2-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^2-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^2-2]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 [^2-3]: Nouvelle teneur selon le ch. III 2 de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1337](https://fedlex.data.admin.ch/eli/oc/2015/280)).
-[^2-4]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-4]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
+[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9250)
 [^2-6]: Nouvelle teneur selon l’annexe 5 ch. 2 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^2-7]: Nouvelle teneur selon le ch. I de l’O du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
@@ -118,28 +118,29 @@ Quiconque utilise des organismes en milieu confiné doit agir avec les précauti
 
 <sup>1</sup>
 
-Les organismes suivants doivent être utilisés en milieu confiné sauf s’ils peuvent être utilisés dans l’environnement en vertu de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^5-1], de l’ordonnance du 12 mai 2010 sur les produits phytosanitaires[^5-2] ou de l’ordonnance du 18 mai 2005 sur les produits biocides[^5-3]:
+Les organismes suivants doivent être utilisés en milieu confiné sauf s’ils peuvent être utilisés dans l’environnement en vertu de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^5-1], de l’ordonnance du 20 août 2025 sur les produits phytosanitaires[^5-2] ou de l’ordonnance du 18 mai 2005 sur les produits biocides[^5-3]:[^5-4]
 
 - a. organismes génétiquement modifiés;
 - b. organismes pathogènes;
-- c.[^5-4]
+- c.[^5-5]
 
   organismes exotiques soumis au confinement obligatoire:
 
   - 1\. petits invertébrés exotiques,
-  - 2\.[^5-5] organismes exotiques envahissants au sens de l’annexe 2.1 de l’ordonnance sur la dissémination dans l’environnement, et
-  - 3\. organismes qui sont considérés comme des organismes nuisibles particulièrement dangereux au sens de l’ordonnance édictée par le Département fédéral de l’économie, de la formation et de la recherche et par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication en vertu des art. 4, al. 3, 24, al. 2, et 29, al. 2, de l’ordonnance du 31 octobre 2018 sur la santé des végétaux[^5-6], et organismes qui sont considérés comme des organismes de quarantaine potentiels au sens de l’ordonnance édictée par l’Office fédéral de l’agriculture (OFAG) ou par l’Office fédéral de l’environnement (OFEV) en vertu de l’art. 5, al. 2, de l’ordonnance sur la santé des végétaux.
+  - 2\.[^5-6] organismes exotiques envahissants au sens de l’annexe 2.1 de l’ordonnance sur la dissémination dans l’environnement, et
+  - 3\. organismes qui sont considérés comme des organismes nuisibles particulièrement dangereux au sens de l’ordonnance édictée par le Département fédéral de l’économie, de la formation et de la recherche et par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication en vertu des art. 4, al. 3, 24, al. 2, et 29, al. 2, de l’ordonnance du 31 octobre 2018 sur la santé des végétaux[^5-7], et organismes qui sont considérés comme des organismes de quarantaine potentiels au sens de l’ordonnance édictée par l’Office fédéral de l’agriculture (OFAG) ou par l’Office fédéral de l’environnement (OFEV) en vertu de l’art. 5, al. 2, de l’ordonnance sur la santé des végétaux.
 
 <sup>2</sup> Quiconque utilise des organismes en milieu confiné est tenu d’étudier et d’évaluer au préalable le risque lié à la présence de ces organismes (attribution des organismes à des groupes), puis d’étudier et d’évaluer le risque présenté par les activités prévues impliquant des organismes (classification des activités).
 
 <sup>3</sup> Quiconque utilise des animaux et des plantes génétiquement modifiés en milieu confiné est tenu de s’assurer au préalable, au moyen d’une pesée des intérêts au sens de l’art. 8 de la LGG, que l’intégrité des organismes vivants est respectée.
 
-[^5-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^5-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^5-3]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^5-4]: Nouvelle teneur selon l’annexe 8 ch. 4 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
-[^5-6]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^5-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^5-3]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^5-4]: Nouvelle teneur selon l’annexe 10 ch. II 7 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^5-5]: Nouvelle teneur selon l’annexe 8 ch. 4 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^5-6]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-7]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 5a
 
@@ -164,9 +165,9 @@ La détection au sens de l’al. 1 n’est autorisée que pour les collaborateur
 - d. les entreprises agréées en vertu de l’art. 76 OSaVé en cas d’examens au sens de l’art. 84 de celle‑ci.
 
 [^5a-1]: Introduit par le ch. I de l’O du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
-[^5a-2]: [RS 818.101.32](https://fedlex.data.admin.ch/eli/cc/2015/299)
-[^5a-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^5a-4]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5a-2]: [RS 818.101.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9794)
+[^5a-3]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^5a-4]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 #### Art. 6
 
@@ -204,7 +205,7 @@ Pour évaluer le risque étudié, on attribuera l’activité prévue à l’une
 
 <sup>4</sup> Lorsque l’activité peut exposer les travailleurs à des microorganismes, l’étude et l’évaluation du risque au sens de la présente ordonnance peuvent être combinées à l’évaluation du risque au sens des art. 5 à 7 de l’ordonnance du 25 août 1999 sur la protection des travailleurs contre les risques liés aux microorganismes[^7-1].
 
-[^7-1]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^7-1]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### Section 2 Exigences relatives à l’utilisation d’organismes génétiquement modifiés, d’organismes pathogènes ou d’organismes exotiques soumis au confinement obligatoire
 
@@ -226,7 +227,7 @@ Pour évaluer le risque étudié, on attribuera l’activité prévue à l’une
 
 <sup>3</sup> Si une autorisation au sens de l’art. 49, al. 2, de l’ordonnance du 27 juin 1995 sur les épizooties (OFE)[^9-1] est requise, elle doit être disponible avant le début de l’activité.
 
-[^9-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^9-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 10
 
@@ -369,7 +370,7 @@ Les tâches administratives de ce bureau sont les suivantes:
 - i. organiser des cours et des formations dans le cadre de sa fonction de renseignement et de conseil;
 - j. recevoir de la part des cantons les informations et les rapports relatifs aux contrôles qu’ils effectuent au sens de l’art. 23, les transmettre immédiatement aux offices fédéraux compétents et établir chaque année une vue d’ensemble des activités de contrôle menées en vertu de la présente ordonnance.
 
-[^17-1]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^17-1]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 [^17-2]: Nouvelle teneur selon le ch. I de l’O du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 18
@@ -398,7 +399,7 @@ Sont considérés comme services spécialisés:
 <sup>4</sup> Pour les activités avec des épizooties hautement contagieuses au sens de l’art. 2 de l’OFE[^18-2] qu’il est prévu de réaliser en dehors de l’Institut de virologie et d’immunologie[^18-3] (IVI), l’office fédéral compétent coordonne sa décision avec celle de l’OSAV selon l’art. 49, al. 2, OFE.
 
 [^18-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^18-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^18-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^18-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> mai 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 19
@@ -565,7 +566,7 @@ Les informations suivantes sont dans tous les cas accessibles au public:
 
 <sup>2</sup> Dans la mesure où la présente ordonnance ne contient pas de réglementation particulière, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^29-1] s’appliquent.
 
-[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 30
 
@@ -596,7 +597,7 @@ Sont réputés débours les frais supplémentaires afférents à une prestation 
 - b. les frais occasionnés par l’administration de la preuve, par des expertises scientifiques, par des examens spéciaux ou pour la mise à disposition de documents;
 - c. les frais afférents aux travaux que le Bureau de biotechnologie de la Confédération, l’OFEV ou l’OFSP confient à des tiers.
 
-[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^31-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 
 ### Section 6 Directives, formation et perfectionnement
 
@@ -820,7 +821,7 @@ Pour étudier le risque présenté par les activités prévues impliquant des or
 
 <sup>5</sup> Le diagnostic primaire d’organismes pathogènes pour les animaux des groupes 3 ou 4 peut, pour ce qui est des dérogations visées à l’art. 49, al. 2, OFE[^annex22-lvlu1-lvl2-lvl22-1], être attribué à la classe 2 lorsqu’on peut supposer que les échantillons ne contiennent très probablement pas d’organismes pathogènes.
 
-[^annex22-lvlu1-lvl2-lvl22-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^annex22-lvlu1-lvl2-lvl22-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 Annexe 3
 
@@ -839,7 +840,7 @@ La notification globale au sens de l’art. 8 comprend les informations suivante
 - c. confirmation que des activités de classe 1 impliquant des organismes génétiquement modifiés sont réalisées dans ces installations;
 - d. confirmation qu’une pesée des intérêts au sens de l’art. 8 de la LGG a été effectuée, dans le cas des activités impliquant des animaux génétiquement modifiés qui tombent dans le champ d’application de l’ordonnance du 23 avril 2008 sur la protection des animaux[^annex31-lvlu1-1].
 
-[^annex31-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex31-lvlu1-1]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Annexe 3.2[^t-3]
 
@@ -862,7 +863,7 @@ Annexe 3.2[^t-3]
 - e. confirmation de la garantie couvrant la responsabilité civile pour les activités des classes 3 et 4 impliquant des organismes génétiquement modifiés ou pathogènes (art. 13);
 - f. confirmation qu’une pesée des intérêts au sens de l’art. 8 de la LGG a été effectuée, dans le cas des activités impliquant des animaux génétiquement modifiés qui tombent dans le champ d’application de l’ordonnance du 23 avril 2008 sur la protection des animaux[^annex32-lvlu1-lvl2-1].
 
-[^annex32-lvlu1-lvl2-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex32-lvlu1-lvl2-1]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 ### 3 Informations techniques
 
@@ -898,7 +899,7 @@ Les mesures de sécurité suivantes sont valables pour tous les types et classes
 - j. les mesures contre les éventuels parasites et la vermine;
 - k. des mesures appropriées visant à réduire autant que possible le risque préalablement identifié d’utilisation des organismes à des fins malveillantes, telles que la restriction de l’accès aux locaux et le recensement des personnes ayant accès aux organismes utilisés.
 
-[^annex4-lvlu1-lvl1-1]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
+[^annex4-lvlu1-lvl1-1]: [RS 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
 
 ### 2 Mesures de sécurité particulières
 
