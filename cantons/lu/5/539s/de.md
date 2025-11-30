@@ -1,26 +1,25 @@
 ---
 canton: LU
 number: 539s
-title: "Reglement zur Verleihung von Titular-, Honorar- und ständigen Gastprofessuren sowie von Professuren für medizinische Wissenschaften an der Universität Luzern"
+title: Reglement zur Verleihung von Titeln an der Universität Luzern
 language: de
-version: 2025-02-01
-valid_until: 2025-11-30
-version_adopted: 2024-12-18
+version: 2025-12-01
+version_adopted: 2025-10-24
 adopted: 2024-03-27
 in_force: 2024-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539s"
-pdf: "https://srl.lu.ch/api/de/versions/4384/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4535/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement zur Verleihung von Titular-, Honorar- und ständigen Gastprofessuren sowie von Professuren für medizinische Wissenschaften an der Universität Luzern
+# Reglement zur Verleihung von Titeln an der Universität Luzern
 
-vom 27.03.2024 (Stand 01.02.2025)
+vom 27.03.2024 (Stand 01.12.2025)
 
 Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 39 Absatz 6 des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
+gestützt auf § 12 Absatz 2f und § 39 Absatz 6 des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
 
 auf Antrag des Senats,
 
@@ -34,17 +33,24 @@ beschliesst:
 
 <sup>1</sup> Dieses Reglement legt die allgemeinen Anforderungen für die Verleihung von Titular-, Honorar- und ständigen Gastprofessuren sowie von Professuren für medizinische Wissenschaften an der Universität Luzern gemäss § 39 Absatz 5 des Universitätsstatuts[^1-1] fest.
 
-<sup>2</sup> Die Fakultäten können Einzelheiten sowie weitergehende Anforderungen und Rechte für Titularprofessuren und Professuren für medizinische Wissenschaften im Sinne von Absatz 1 festlegen.
+<sup>1<sup>bis</sup></sup> Es legt zudem die allgemeinen Anforderungen für die Verleihung von Klinischen Dozenturen fest.
+
+<sup>2</sup> Die Fakultäten können Einzelheiten sowie weitergehende Anforderungen und Rechte für Titularprofessuren und Professuren für medizinische Wissenschaften im Sinne von Absatz 1 sowie für Klinische Dozenturen im Sinne von Absatz 1<sup>bis</sup> festlegen.
 
 <sup>3</sup> …
 
+<sup>4</sup> Nicht unter dieses Reglement fällt die Verleihung von mit dem universitären Abschluss verbundenen Titeln oder Graden (§ 72 Abs.1 Universitätsstatut[^1-2]).
+
 [^1-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
+[^1-2]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 2
 
 **Zuständigkeiten**
 
 <sup>1</sup> Die Verleihung einer Professur im Sinne von § 1 Absatz 1 erfolgt auf Antrag derjenigen Fakultät, in der die Professur verliehen werden soll, durch den Senat.
+
+<sup>2</sup> Die Verleihung einer Klinischen Dozentur im Sinne von § 1<sup>bis</sup> erfolgt durch die jeweilige Fakultät und bedarf der Genehmigung durch den Senat.
 
 #### § 3
 
@@ -94,7 +100,9 @@ beschliesst:
 - a. mit der endgültigen Aufgabe der Lehrtätigkeit an der Universität Luzern,
 - b. mit dem Verzicht auf die Erneuerung des Lehrauftrags durch die Fakultät.
 
-<sup>4</sup> Eine nichtständige Gastprofessur kann von den Fakultäten und Departementen selbständig verliehen werden.
+<sup>4</sup> Eine nichtständige Gastprofessur kann von den Fakultäten und Departementen selbständig verliehen werden. Die Voraussetzung von Absatz 1 gilt auch für nicht-ständige Gastprofessuren (§ 39 Abs. 5c Universitätsstatut[^6-1]).
+
+[^6-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 7
 
@@ -113,6 +121,16 @@ beschliesst:
 - a. wenn sie die Partnerinstitution verlassen,
 - b. wenn sie eines der Kriterien gemäss Absatz 1 und Absatz 4 nicht mehr erfüllen.
 
+#### § 7a
+
+**Klinische Dozentur**
+
+<sup>1</sup> Der Titel einer Klinischen Dozentin oder eines Klinischen Dozenten kann an promovierte Ärztinnen und Ärzte verliehen werden, die an einer mit der Universität Luzern verbundenen Partnerinstitution in der Gesundheitsversorgung angestellt sind.
+
+<sup>2</sup> Für die Verleihung einer Klinischen Dozentur sind eine mindestens fünfjährige Lehrtätigkeit sowie der Nachweis didaktischer Fähigkeiten und wissenschaftlicher Publikationstätigkeit Voraussetzung. Einzelheiten sowie das Verfahren regelt die jeweilige Fakultät in einer Richtlinie, die der Genehmigung des Senats bedarf.
+
+<sup>3</sup> Die Titelträgerin oder der Titelträger ist berechtigt, den Titel während ihrer oder seiner Lehrtätigkeit an der Universität Luzern zu tragen. Das Recht erlischt mit Beendigung der Lehrtätigkeit oder durch Entzug des Titels.
+
 #### § 8
 
 **Titelentzug**
@@ -123,14 +141,14 @@ beschliesst:
 
 <sup>2</sup> Titel, die durch Täuschung oder irrtümlich erworben wurden, werden auf Antrag der betroffenen Fakultät durch den Senat widerrufen.
 
-<sup>3</sup> Aus wichtigen Gründen, unter anderem bei schweren Verstössen gegen die wissenschaftliche Integrität, kann der Senat auf Antrag der betroffenen Fakultät einen verliehenen Titel entziehen, obschon die in diesem Reglement genannten Voraussetzungen noch erfüllt sind.
+<sup>3</sup> Aus wichtigen Gründen, unter anderem bei schweren Verstössen gegen die wissenschaftliche Integrität, kann die Fakultät von ihr verliehene Titel gemäss § 7a entziehen, obschon die in diesem Reglement genannten Voraussetzungen noch erfüllt sind. Titel von Professorinnen und Professoren, die vom Senat verliehen worden sind, werden auf Antrag der zuständigen Fakultät vom Senat entzogen.
 
 #### § 9
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Reglements sind die Richtlinien zur Verleihung von Titular-, Senior- und Honorarprofessuren, ständigen Gastprofessuren sowie von Professuren für medizinische Wissenschaften an der Universität Luzern vom 24. Juni 2015[^9-1] aufgehoben. Laufende Verfahren werden nach dem bisherigen Recht abgeschlossen.
+<sup>1</sup> Dieses Reglement gilt mit seinem Inkrafttreten für alle Titelverleihungen gemäss diesem Reglement, einschliesslich für laufende Verfahren.
 
-[^9-1]: Beschluss des Universitätsrates vom 24. Juni 2015 (Stand 1. August 2022)
+<sup>2</sup> § 7a und § 8 gelten auch für die vor Inkrafttreten dieses Reglements nach dem bisherigen Verfahren verliehenen Titel einer Klinischen Dozentin oder eines Klinischen Dozenten. Die Verleihungen gelten als genehmigt.
 
 G 2024-011
