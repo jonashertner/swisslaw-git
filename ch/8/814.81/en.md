@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2025-10-01
+version: 2025-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251001-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251201-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Last amended on 1 October 2025)
+of 18 May 2005 (Last amended on 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -121,13 +121,13 @@ The following applications require an authorisation granted by the authorities m
 <table>
 <tr><th>Application</th><th>Authority granting authorisation</th></tr>
 <tr><td>a. application, on a professional or commercial basis, of products intended to protect plants against rodents (rodenticides), if applied on more than one farm or by machine</td><td>cantonal authority; with the agreement of the Federal Food Safety and Veterinary Office (FSVO), the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) in the case of regional or supra-regional applications</td></tr>
-<tr><td>b.[^4-2] aerial spraying and spreading of plant protection products, biocidal products and fertilisers</td><td>Federal Office of Civil Aviation, with the agreement of the Federal Office of Public Health (FOPH), the FSVO, the FOAG, the State Secretariat for Economic Affairs (SECO) and the FOEN</td></tr>
-<tr><td>c.[^4-3] application of biocidal products, plant protection products and fertilisers in forests, unless covered by an authorisation under letter a or b</td><td>cantonal authority</td></tr>
+<tr><td>b.[^4-2] aerial spraying and spreading of plant protection products, basic substances, biocidal products and fertilisers</td><td>Federal Office of Civil Aviation, with the agreement of the Federal Office of Public Health (FOPH), the FSVO, the FOAG, the State Secretariat for Economic Affairs (SECO) and the FOEN</td></tr>
+<tr><td>c.[^4-3] application of plant protection products, basic substances and fertilisers in forests, unless covered by an authorisation under letter a or b</td><td>cantonal authority</td></tr>
 </table>
 
 [^4-1]: Amended by No I 6 of the O of 4 Sept. 2013 (Reorganisation in the field of Food Safety and Veterinary Medicine), in force since 1 Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
-[^4-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^4-3]: Amended by No I of the O of 3 Sept. 2025, in force since 1 Oct. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
+[^4-2]: Amended by Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^4-3]: Amended by Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 4a
 
@@ -334,7 +334,7 @@ The Confederation is responsible for:
 <sup>3</sup> If the substances, preparations or articles inspected or the use thereof give cause for complaint, the inspection authority shall inform the authorities responsible for rulings under Article 19. If the latter are cantonal authorities, it shall additionally inform the FOPH, FOEN and SECO and also, in cases of complaints concerning plant protection products, the FSVO and the FOAG, and in cases of complaints concerning fertilisers, the FOAG.[^18-2]
 
 [^18-1]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^18-2]: Amended by No I of the O of 1 July 2015, in force since 1 Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^18-2]: Amended by Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 19
 
@@ -344,16 +344,18 @@ If an inspection reveals that provisions of this Ordinance have been violated, t
 
 #### Art. 20
 
-**Specialist advice on the use of fertilisers and plant protection products**
+**Specialist advice on the use of fertilisers, plant protection products and basic substances**[^20-1]
 
-<sup>1</sup> The cantons shall ensure that specialist advice is offered on the use of fertilisers and plant protection products, and that funding is available for these services.
+<sup>1</sup> The cantons shall ensure that specialist advice is offered on the use of fertilisers, plant protection products and basic substances, and that funding is available for these services.
 
 <sup>2</sup>
 
-They may require persons who use fertilisers or plant protection products on a professional or commercial basis in polluted areas:
+They may require persons who use fertilisers, plant protection products and basic substances on a professional or commercial basis in polluted areas:
 
 - a. to avail themselves of the specialist advice offered for this purpose;
 - b. to make available the operational data required for such advice.
+
+[^20-1]: Amended by Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 21
 
@@ -404,7 +406,7 @@ Annexes[^t-1]
 
 ## 1 Provisions relating to specific substances
 
-[^t-1]: Revised by No I of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and of 27 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
+[^t-1]: Revised by No I of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), of 27 Nov. 2024 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)) and Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)) and No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 [AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 - 1\.1 Persistent organic pollutants
 - 1\.2 Halogenated organic substances
@@ -432,7 +434,7 @@ Annexes[^t-1]
 - 2\.2 Cleaning and deodorising products
 - 2\.3 Solvents
 - 2\.4 Biocidal products
-- 2\.5 Plant protection products
+- 2\.5 Plant protection products and basic substances
 - 2\.6 Fertilisers
 - 2\.7 De-icing products
 - 2\.8 Paints and varnishes
@@ -444,7 +446,7 @@ Annexes[^t-1]
 - 2\.14 Capacitors and transformers
 - 2\.15 Batteries
 - 2\.16 Special provisions relating to metals
-- 2\.17 Wood-based materials
+- 2\.17 Wood-based articles and other articles containing resin
 - 2\.18 Electrical and electronic equipment
 
 [^annexu1-lvl2-1]: Term in accordance with No I 2 of the O of 10 Dec. 2010, in force since 1 Feb. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). This amendment has been applied throughout the text.
@@ -553,7 +555,7 @@ Annex 1.2[^t-3]
 
 ## Halogenated organic substances
 
-[^t-3]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-3]: Amended by No II para. 1 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Revised by No I of the O of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and No I para. 3 of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Prohibitions
 
@@ -602,7 +604,6 @@ Annex 1.2[^t-3]
 - b. *DDT-like compounds*
   - – dichlorodiphenyldichloroethylene (DDE);
   - – dichlorodiphenyldichloroethane (DDD);
-  - – methoxychlor (CAS no 72-43-5);
   - – perthane (CAS no 72-56-0).
 
 - c. *Quintozene* (CAS no 82-68-8).
@@ -1207,7 +1208,7 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 - a. the type and location of the appliance or system;
 - b. the quantity of sulfur hexafluoride contained therein;
 - c. the date of commissioning or decommissioning;
-- d. in the case of decommissioning: the recipient of the sulfur hexafluoride..
+- d. in the case of decommissioning: the recipient of the sulfur hexafluoride.
 
 ### 7.2.2 Exemptions
 
@@ -1321,7 +1322,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -2166,7 +2167,7 @@ Annex 1.16[^t-17]
 
 ## Per- and polyfluoroalkyl substances
 
-[^t-17]: Inserted by No I 4 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Amended by No I of the O of 23 Feb. 2022, in force since 1 Oct. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). The correction of 6 Oct. 2022 concerns the French text only ([AS 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)).
+[^t-17]: Inserted by No I 4 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Amended by No I of the O of 23 Feb. 2022, in force since 1 Oct. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). Revised by No I para. 3 of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Perfluorooctane sulfonic acid and its derivatives
 
@@ -2278,25 +2279,69 @@ The prohibitions specified in Number 2.2 do not apply to manufacture, placing on
 
 <sup>3</sup> The prohibitions in accordance with Number 3.2 paragraphs 1 and 2 do not apply for analysis and research purposes.
 
-### 4 Fluoroalkylsilanols and their derivatives
+### 4 Perfluorohexanoic acid and its precursor compounds
 
 ### 4.1 Definitions
+
+<sup>1</sup> The precursor compounds of perfluorohexanoic acid in the form of its linear or branched isomers and its salts (PFHxA) are as follows:
+
+- a. substances including polymers with a linear or branched perfluoropentyl group with the formula C<sub>5</sub>F<sub>11</sub> in direct connection with a further carbon atom as a structural element, which are degraded to PFHxA;
+- b. substances with a linear or branched perfluorohexyl group with the formula C<sub>6</sub>F<sub>13</sub> as a structural element, which are degraded to PFHxA.
+
+<sup>2</sup> Paragraph 1 does not apply to:
+
+- a. substances with the molecular formula C<sub>6</sub>F<sub>14</sub>;
+- b. perfluoroheptanoic acid (CAS No. 375-85-9), its salts and its derivatives with the structural element C<sub>6</sub>F<sub>13</sub>(CO)OX, where X is: any group;
+- c. perfluorohexane sulfonic acid and its derivatives (PFHxS) in accordance with Number 2.1;
+- d. any substance having a perfluoroalkyl group with the structural element C<sub>6</sub>F<sub>13</sub> bonded directly to an oxygen atom on a non-terminal carbon atom;
+- e. other substances with the structural element C<sub>6</sub>F<sub>13</sub>(CF<sub>2</sub>)X, where X is: any group.
+
+<sup>3</sup> Textile, leather, fur, skin and footwear products intended for the general public are products consisting wholly or partly of these goods which are used directly by the general public or are used for furnishing and lining in areas frequented by the general public, such as means of transport, offices or other public places.
+
+### 4.2 Prohibitions
+
+<sup>1</sup> It is prohibited to manufacture or place on the market:
+
+- a. cosmetic products in accordance with Article 53 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex116-lvlu1-lvl4-lvl42-1] (FUAO) if their content by mass of PFHxA exceeds 0.0000025 per cent (25 ppb) or their content by mass of the sum of PFHxA precursor compounds exceeds 0.0001 per cent (1000 ppb);
+- b. articles made of paper or cardboard in accordance with Article 48 of the FUAO, if their content by mass of PFHxA exceeds 0.0000025 per cent (25 ppb) or their content by mass of the sum of PFHxA precursor compounds exceeds 0.0001 per cent (1000 ppb) in the homogeneous material.
+
+<sup>2</sup> It is prohibited to place on the market textile, leather, fur, skin and footwear articles intended for the general public if the content by mass of PFHxA in the article exceeds 0.0000025 per cent (25 ppb) or the content by mass of the sum of PFHxA precursor compounds in the article exceeds 0.0001 per cent (1000 ppb) in the homogeneous material.
+
+<sup>3</sup> It is prohibited to supply preparations to the general public if their content by mass of PFHxA exceeds 0.0000025 per cent (25 ppb) or their content by mass of the sum of PFHxA precursor compounds exceeds 0.0001 per cent (1000 ppb).
+
+[^annex116-lvlu1-lvl4-lvl42-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+
+### 4.3 Exceptions
+
+<sup>1</sup> The prohibition specified in Number 4.2 paragraph 2 does not apply to the placing on the market of:
+
+- a. personal protective equipment intended to protect consumers against risks of category III letters a, c-f, h and l in accordance with Annex I of Regulation (EU) 2016/425[^annex116-lvlu1-lvl4-lvl43-1];
+- b. construction textiles.
+
+<sup>2</sup> The prohibition specified in Number 4.2 paragraph 3 does not apply to the supply of medical devices in accordance with Article 4 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000[^annex116-lvlu1-lvl4-lvl43-2] (TPA).
+
+[^annex116-lvlu1-lvl4-lvl43-1]: Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC, version as per OJ L 81, 31.3.2016, p. 51.
+[^annex116-lvlu1-lvl4-lvl43-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+
+### 5 Fluoroalkylsilanols and their derivatives
+
+### 5.1 Definitions
 
 <sup>1</sup> Fluoroalkylsilanols and their derivatives are substances with the structural element C<sub>6</sub>F<sub>13</sub>(C<sub>2</sub>H<sub>4</sub>)Si(OH)<sub>n</sub>(OX)<sub>3–n</sub> with 0 ≤ n ≤ 3, where X means any alkyl group.
 
 <sup>2</sup> Spray dispensers are aerosol dispensers, pump sprays and atomisers.
 
-### 4.2 Prohibitions
+### 5.2 Prohibitions
 
 <sup>1</sup> It is prohibited to supply to the general public organic solvents containing preparations in spray dispensers containing fluoroalkylsilanols or their derivatives in a concentration equal to or greater than 0.0000002 % (2 ppb) by mass.
 
 <sup>2</sup> The prohibition in paragraph 1 also applies to preparations intended to refill spray dispensers.
 
-### 4.3 Special labelling
+### 5.3 Special labelling
 
-Packaging for preparations subject to the prohibitions in Number 4.2 must be marked as follows: “For professional users only” and “May cause death if inhaled”.
+Packaging for preparations subject to the prohibitions in Number 5.2 must be marked as follows: “For professional users only” and “May cause death if inhaled”.
 
-### 5 Transitional provisions
+### 6 Transitional provisions
 
 <sup>1</sup> The prohibitions in accordance with Number 1.2 paragraph 1 do not apply before 1 April 2024 to the use of PFOS-containing agents for spray suppression for non-decorative hard chrome plating (chromium VI) in closed loop systems and the substances and preparations required for their manufacture, if the amount of PFOS emissions into the environment is reduced to a minimum during the manufacture of the agents and during their use.
 
@@ -2329,7 +2374,7 @@ Packaging for preparations subject to the prohibitions in Number 4.2 must be mar
 
   the following C<sub>9</sub>–C<sub>14</sub>-PFCAs or their precursor compounds containing articles and their components and to substances and preparations that are required for their manufacture:
 
-  - 1\. semi-conductors that intended for installation in electrical and electronic equipment, and equipment containing such semi-conductors containing: until 31 December 2023,
+  - 1\. semi-conductors that intended for installation in electrical and electronic equipment, and equipment containing such semi-conductors: until 31 December 2023,
   - 2\. semi-conductors: until 31 December 2030, provided they are intended as spare parts for electrical and electronic equipment that were placed on the market for the first time on or before 31 December 2023;
 
 - d.
@@ -2357,6 +2402,15 @@ Packaging for preparations subject to the prohibitions in Number 4.2 must be mar
 - b. in installations for the protection of systems, including the use for the necessary functional checks of these installations, provided the fire-fighting foams used during the checks are collected and disposed of in an environmentally friendly manner.
 
 <sup>6</sup> Fluoropolymers containing perfluoroalkoxy groups in accordance with Number 3.3 paragraph 1 letter e may be manufactured, placed on the market and used until 25 August 2024, provided their concentration of the sum of C<sub>9</sub>–C<sub>14</sub>-PFCAs does not exceed 0.0002 per cent (2000 ppb) by mass.
+
+<sup>7</sup> The prohibitions specified in Number 4.2 paragraph 1 do not apply to the manufacture and placing on the market of the cosmetic products and materials and articles concerned until 31 October 2026.
+
+<sup>8</sup> The prohibition specified in Number 4.2 paragraph 2 does not apply to the placing on the market of textile, leather, fur, skin and footwear products intended for the general public that:
+
+- a. serve clothing purposes and were first placed on the market before 1 November 2026;
+- b. serve all other purposes and were first placed on the market before 1 November 2027.
+
+<sup>9</sup> The prohibition specified in Number 4.2 paragraph 3 does not apply to the supply of preparations until 31 October 2026.
 
 Annex 1.17[^t-18]
 
@@ -3439,15 +3493,15 @@ Annex 2.5[^t-25]
 
 (Art. 3)
 
-## Plant protection products
+## Plant protection products and basic substances
 
-[^t-25]: Revised by No I 3 of the O of 29 June 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-25]: Revised by No I 3 of the O of 29 June 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Annex 9 No 1 of the Direct Payments Ordinance of 23 Oct. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Annex No 2 of the O of 4 Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), No I of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), Annex No 2 of the O of 11 March 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) and Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 ### 1 Use
 
 ### 1.1 Prohibitions and restrictions
 
-<sup>1</sup> It is prohibited to use plant protection products:
+<sup>1</sup> It is prohibited to use plant protection products and basic substances:
 
 - a. in areas designated as nature reserves under federal or cantonal legislation, in the absence of provisions to the contrary in the relevant regulations;
 - b. in reed beds and mires;
@@ -3457,41 +3511,40 @@ Annex 2.5[^t-25]
 - f. in groundwater protection zone S1;
 - g. on or alongside railway track installations in groundwater protection zones S2 and S<sub>h</sub>.
 
-<sup>2</sup> It is also prohibited to use herbicides or plant growth control agents:
+<sup>2</sup> It is also prohibited to use plant protection products or basic substances intended to destroy unwanted plants or parts of plants or to influence unwanted plant growth (herbicides and plant growth agents):
 
 - a. on roofs and terraces;
 - b. on storage sites;
 - c. on or along roads, paths and squares;
 - d. on embankments and verges along roads and railways.
 
-<sup>3</sup> The use of plant protection products in groundwater protection zones S2 and S<sub>h</sub> is governed by the Ordinance of 12 May 2010[^annex25-lvlu1-lvl1-lvl11-3] on Plant Protection Products.
+<sup>3</sup> …
 
-<sup>4</sup> With regard to the use of plant protection products in the areas of contribution *Z**<sub>u</sub>* and *Z**<sub>o</sub>*, the cantons, taking account of the exemptions specified in Number 1.2 paragraphs 2, 4 and 5, shall specify restrictions going beyond those listed in paragraphs 1 and 2 if this is necessary to ensure water protection. In particular, they shall restrict the use of a plant protection product in the area of contribution *Z**<sub>u</sub>* if the product is detected at a drinking water well and the requirements for groundwater which is used or intended for use are repeatedly not met.
+<sup>4</sup> With regard to the use of plant protection products in the areas of contribution *Z**<sub>u</sub>* and *Z**<sub>o</sub>*, the cantons, taking account of the exemptions specified in Number 1.2 paragraphs 2, 4 and 5, shall specify restrictions going beyond those listed in paragraphs 1 and 2 if this is necessary to ensure water protection. In particular, they shall restrict the use of a plant protection product in the area of contribution *Z**<sub>u</sub>* if the active substances it contains or its degradation products repeatedly appear in a groundwater well of public interest
 
-<sup>5</sup> With regard to the use of plant protection products on or alongside railway track installations outside groundwater protection zones S1, S2 and S<sub>h</sub>, the Federal Office of Transport shall specify the restrictions and prohibitions required to ensure protection of the environment. It shall take local conditions into account and consult the cantons concerned before making its decision.
+<sup>5</sup> With regard to the use of plant protection products and basic substances on or alongside railway track installations outside groundwater protection zones S1, S2 and S<sub>h</sub>, the Federal Office of Transport shall specify the restrictions and prohibitions required to ensure protection of the environment. It shall take local conditions into account and consult the cantons concerned before making its decision.
 
 [^annex25-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex25-lvlu1-lvl1-lvl11-2]: The information sheet may be obtained (not in English) from Agridea, 8315 Lindau.
-[^annex25-lvlu1-lvl1-lvl11-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### 1.2 Exemptions
 
-<sup>1</sup> The prohibitions specified in Number 1.1 paragraph 1 letters a and b do not apply to the use of plant protection products intended to preserve crops in closed installations or buildings, provided that measures are taken to prevent run-off and seepage of the products or their degradation products.
+<sup>1</sup> The prohibitions specified in Number 1.1 paragraph 1 letters a and b do not apply to the use of plant protection products and basic substances intended to preserve crops in closed installations or buildings, provided that measures are taken to prevent run-off and seepage of the products or their degradation products.
 
 <sup>2</sup> The prohibitions specified in Number 1.1 paragraph 1 letters c and d, provided letter d concerns wooded pastures or the 3-metre-wide strip along the wooded area, do not apply to the individual treatment of problem plants, provided these plants could not be controlled effectively with other measures such as mowing.
 
-<sup>3</sup> In forests, if plant protection products cannot be replaced by measures less harmful to the environment, notwithstanding the prohibition specified in Number 1.1 paragraph 1 letter d, the competent cantonal authority shall, in accordance with Articles 4–6, grant an authorisation for the use of plant protection products:
+<sup>3</sup> In forests, if plant protection products and basic substances cannot be replaced by measures less harmful to the environment, notwithstanding the prohibition specified in Number 1.1 paragraph 1 letter d, the competent cantonal authority shall, in accordance with Articles 4–6, grant an authorisation for the use of plant protection products and basic substances:
 
 - a. to treat wood which could cause damage to a forest following natural disasters and to control the harmful pathogens, if this is required to preserve the forest;
 - b. to treat cut wood with insecticides authorised under the Plant Protection Products Ordinance for the crop ‘Lying roundwood in forests and at storage sites’, at appropriate sites, provided that the wood cannot be removed in good time, the sites concerned are not located in groundwater protection zones S1, S2 or S<sub>h</sub> and effective measures are taken to prevent seepage or run-off of the products;
 - c. in forest nurseries outside groundwater protection zones S1, S2, S3 and S<sub>h</sub>;
 - d. to remedy browsing damage in areas of natural regeneration, afforestation or reforestation, if this is essential to preserve the forest.
 
-<sup>3bis</sup> The Federal Office of Transport shall, in consultation with the FOEN and in derogation from the prohibition contained in Number 1.1 paragraph 1 letter g, grant authorisation for the use of plant protection products in groundwater zones S2 and S<sub>h</sub> if:
+<sup>3bis</sup> The Federal Office of Transport shall, in consultation with the FOEN and in derogation from the prohibition contained in Number 1.1 paragraph 1 letter g, grant authorisation for the use of plant protection products or basic substances in groundwater zones S2 and S<sub>h</sub> if:
 
 - a. the railway track installation lies in a water-tight cutting;
 - b. the waste water generated is disposed of outside groundwater zones S2 or S<sub>h</sub>; and
-- c. it would be disproportionate to replace the plant protection products with other measures that would have a lower impact on the environment is a disproportionate measure.
+- c. it would be disproportionate to replace the plant protection products or basic substances with other measures that would have a lower impact on the environment is a disproportionate measure.
 
 <sup>4</sup> The prohibition specified in Number 1.1 paragraph 2 letter c does not apply to individual treatments of problem plants on national and cantonal roads if they cannot be effectively controlled by other measures such as regular mowing.
 
@@ -3499,17 +3552,15 @@ Annex 2.5[^t-25]
 
 ### 2 Special labelling
 
-<sup>1</sup> For herbicides or plant growth control agents authorised in accordance with Article 15 letter a PSMV, licence holders must inform the purchasers, by means of labelling or in an equivalent written form, about the prohibitions specified in Number 1.1 paragraph 2.
+<sup>1</sup> For herbicides or plant growth control agents authorised in accordance with the Plant Protection Products Ordinance of 20 August 2025[^annex25-lvlu1-lvl2-1] (PlantPPO), licence holders must inform the purchasers, by means of labelling or in an equivalent written form, about the prohibitions specified in Number 1.1 paragraph 2.
 
-<sup>2</sup> Any person who imports a herbicide or plant growth control agent included in the list specified in Article 36 paragraph 1 PSMV must inform the purchasers, by means of labelling or in an equivalent written form, about the prohibitions specified in Number 1.1 paragraph 2.
+<sup>2</sup> Any person who imports a herbicide or plant growth control agent included in the list specified in Article 78 paragraph 2 PlantPPO must inform the purchasers, by means of labelling or in an equivalent written form, about the prohibitions specified in Number 1.1 paragraph 2.
 
 <sup>3</sup> The labelling specified in paragraph 1 and the information specified in paragraph 2 must include the following details: “Use is prohibited on roofs and terraces, on storage sites, on or along roads, paths and squares, and on embankments and verges along roads and railways”.
 
-### 3 Bring-back obligation
+[^annex25-lvlu1-lvl2-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
-<sup>1</sup> Users must return plant protection products for which they have no further use or which they wish to dispose of to a person obliged to take them back or deposit them at an appropriate collection centre.
-
-<sup>2</sup> Small quantities of plant protection products must be taken back free of charge.
+### 3 …
 
 ### 4 Export
 
@@ -4169,174 +4220,340 @@ Annex 2.9[^t-29]
 
 (Art. 3)
 
-## Plastics and additives
+## Plastics, their monomers and additives
 
-[^t-29]: Revised by No I 3 of the O of 15 Dec. 2005 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), of 23 Feb. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) and Annex No 2 of the O of 11 March 2022, in force since 1 May 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-29]: Amended by No I para. 2 of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-### 1 Definitions
+### 1 Microplastics
 
-<sup>1</sup> *Cadmium-containing plastics* are plastics containing cadmium or cadmium compounds in the form of articles composed entirely or partly of such plastics, or in the form of preparations containing cadmium or cadmium compounds.
+### 1.1 Definitions
 
-<sup>2</sup> *Recovered PVC* is a preparation containing PVC waste.
+<sup>1</sup> Synthetic polymer microparticles (microplastics) are solid polymers that fulfil the following conditions:
 
-<sup>3</sup> *Tyres* within the meaning of this Annex are tyres for vehicles of the following categories:
-
-- a. category M, N or O as defined in Annex II, Section A of Directive 2007/46/EC[^annex29-lvlu1-lvl1-1];
-- b. category T, R or S as defined in Annex II, Chapter A of Directive 2003/37/EC[^annex29-lvlu1-lvl1-2];
-- c. categories L1e – L7e as defined in Article 1 paragraphs 2 and 3 of Directive 2002/24/EC[^annex29-lvlu1-lvl1-3].
-
-<sup>4</sup> An oxo-degradable plastic is a plastic that contains additives that by oxidation cause the plastic to break down into micro-particles or chemically degrade.
-
-[^annex29-lvlu1-lvl1-1]: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive), OJ L 263, 9.10.2007, p. 1; last amended by Regulation (EU) No 65/2012, OJ L 28, 31.1.2012, p. 24. The texts of the European Union legal documents mentioned in this Annex may be accessed at: [http://eur-lex.europa.eu/](http://eur-lex.europa.eu/)
-[^annex29-lvlu1-lvl1-2]: Directive 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units and repealing Directive 74/150/EEC, OJ L 171, 9.7.2003, p. 1; last amended by Directive 2010/62/EU, OJ L 238, 9.9.2010, p. 7.
-[^annex29-lvlu1-lvl1-3]: Directive 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC, OJ L 124, 9.5.2002, p. 1; last amended by Regulation (EC) No 1137/2008, OJ L 311, 21.11.2008, p. 1.
-
-### 2 Prohibitions
-
-<sup>1</sup> It is prohibited:
-
-- a. to manufacture or for the manufacturer to place on the market cadmium-containing plastics if the concentration of cadmium is 0.01% or more by mass of the plastic material;
-- b. to manufacture or place on the market foams manufactured with substances that deplete the ozone layer (Annex 1.4), or articles containing such foams;
-- c. to supply or use foams manufactured with substances stable in the atmosphere (Annex 1.5), or articles containing such foams;
-- d.
-
-  to place on the market or use extender oils for the manufacture of tyres or parts of tyres if these oils contain:
-
-  - 1\. more than 1mg/kg benzo[a]pyrene,
-  - 2\.
-
-    more than 10mg/kg of the sum of the following polycyclic aromatic hydrocarbons:
-
-    - – benzo[a]pyrene (CAS no 50-32-8)
-    - – benzo[e]pyrene (CAS no 192-97-2)
-    - – benzo[a]anthracene (CAS no 56-55-3)
-    - – chrysene (CAS no 218-01-9)
-    - – benzo[b]fluoranthene (CAS no 205-99-2)
-    - – benzo[j]fluoranthene (CAS no 205-82-3)
-    - – benzo[k]fluoranthene (CAS no 207-08-9)
-    - – dibenzo[a,h]anthracene (CAS no 53-70-3);
-
-- e. to place on the market tyres and treads for retreading if they contain extender oils exceeding the limits specified in letter d;
-- e<sup>bis</sup>
-
-  to place on the market articles which consist entirely or in part of plastics, which contain more than 1 mg of a polycyclic aromatic hydrocarbon as specified in Letter d number 2 per kilogram of plastic if:
-
-  - 1\. the articles are intended for supply to the general public, and
-  - 2\.
-
-    during the normal or reasonably predictable use of the article a component containing a polycyclic aromatic hydrocarbon comes into direct contact with human skin for an extended period of time or repeatedly for short periods. This applies in particular to:
-
-    - – sports equipment such as bicycles, golf clubs, racquets
-    - – household equipment, vehicles fitted with wheels, walking aids
-    - – tools for private use
-    - – clothing, shoes, gloves and sportswear and
-    - – watch straps, wristbands, masks, headbands;
-
-- e<sup>ter</sup>. to place on the market or use plastic granules or crumb which, taken together, contain more than 20 mg per kilogram of the polycyclic aromatic hydrocarbons referred to in letter d number 2 and which are used as infill material for artificial turf fields or as loose bulk material on playgrounds or sports fields;
-- f. to place on the market or use acrylamide (CAS no 79-06-1) or substances or preparations containing acrylamide in a concentration of 0.1% or more by mass for grouting applications;
-- g. to place on the market or use oxo-degradable plastics.
-
-<sup>1bis</sup> The test and analytical methods for determining the limits specified in Paragraph 1 letters d and e are based on entry 50 of Annex XVII to Regulation (EC) No 1907/2006[^annex29-lvlu1-lvl2-1].
-
-<sup>2</sup> For aerosol dispensers used to produce foams, Annex 2.12 applies.
-
-<sup>3</sup> For cadmium-containing plastic packaging, Annex 2.16 Number 4 applies.
-
-<sup>4</sup> For toys and articles for infants and small children that contain polycyclic aromatic hydrocarbons as specified in paragraph 1 letter d number 2, the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex29-lvlu1-lvl2-2] applies.
-
-[^annex29-lvlu1-lvl2-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) No 412/2012, OJ L 128, 16.5.2012, p. 1; last amended by Regulation (EU) 2015/326, OJ L 58, 3.3.2015, p. 43.
-[^annex29-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
-
-### 3 Exemptions
-
-<sup>1</sup> The prohibitions specified in Number 2 paragraph 1 letter a, do not apply to:
-
-- a. recovered PVC, provided that the exceedance of the specified cadmium limit is attributable to the PVC waste used, and cadmium or cadmium compounds are not introduced as a constituent during the manufacturing process;
+- a. they are contained in particles and make up at least 1 per cent by mass of these particles or form a continuous surface coating on particles; and
 - b.
 
-  plastics containing recovered PVC as specified in letter a, if their concentration of cadmium does not exceed 0.1% by mass of the plastic material in the following rigid PVC applications:
+  at least 1 per cent by mass of the particles referred to in letter a fulfils one of the following conditions:
 
-  - 1\. profiles and rigid sheets for building applications,
-  - 2\. doors, windows, shutters, walls, blinds, fences, and roof gutters,
-  - 3\. decks and terraces,
-  - 4\. cable ducts,
-  - 5\. pipes for non-drinking water if the recovered PVC is used in the middle layer of a multilayer pipe and is entirely covered with a layer of newly produced PVC.
+  - 1\. all dimensions of the particles are equal to or smaller than 5 mm,
+  - 2\. the length of the particles is equal to or less than 15 mm and the ratio of length to diameter is greater than 3.
 
-<sup>2</sup> The prohibitions specified in Number 2 paragraph 1 letter c do not apply if:
+<sup>2</sup> A solid is a substance that is neither a gas in accordance with paragraph 3 nor a liquid in accordance with paragraph 4.
 
-- a. according to the state of the art the necessary thermal insulation cannot be obtained using other materials;
-- b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
-- c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use, in particular during the disposal of wastes from foams and from substances stable in the atmosphere contained therein.
+<sup>3</sup> A gas is a substance or preparation that has a vapour pressure of more than 300 kPa absolute at 50°C or is completely gaseous at 20°C and a standard pressure of 101.3 kPa.
 
-<sup>3</sup> After consulting interested parties and the cantons, the Federal Office for the Environment (FOEN) shall issue recommendations for the enforcement authorities on the state of the art and on the disposal of wastes as specified in paragraph 2.
+<sup>4</sup> A liquid is a substance or preparation that fulfils any one of the following conditions:
 
-<sup>3bis</sup> The prohibitions specified in Number 2 paragraph 1 letter b do not apply if:
+- a. the substance or preparation has a vapour pressure of not more than 300 kPa at 50°C, is not completely gaseous at 20 °C and a standard pressure of 101.3 kPa and has a melting point or onset of melting of 20 °C or less at a standard pressure of 101.3 kPa;
+- b. the substance or preparation fulfils the criteria of standard D 4359-90[^annex29-lvlu1-lvl1-lvl11-1];
+- c. the substance or preparation passes the test using the penetrometer method to determine the flow behaviour in accordance with Annex A Part 2 Chapter 2.3.4 of the Agreement of 30 September 1957[^annex29-lvlu1-lvl1-lvl11-2] on the International Carriage of Dangerous Goods by Road (ADR).
 
-- a. according to the state of the art, no substitute is available for the substances that deplete the ozone layer or for preparations and articles manufactured with such substances;
+<sup>5</sup> The following are not considered microplastics:
+
+- a. polymers which are the result of a polymerisation process that has taken place in nature, independent of extraction processes and which are not chemically modified substances;
+- b. polymers that do not contain carbon atoms in their chemical structure;
+- c. polymers that are degradable;
+- d. polymers with a water solubility of more than 2g/L.
+
+<sup>6</sup> The authorised test methods and the criteria to be met to demonstrate degradability in accordance with paragraph 5 letter c are based on the following:
+
+- a. Annex II Part II CMC 9 point 2 of Regulation (EU) 2019/1009[^annex29-lvlu1-lvl1-lvl11-3] for polymers that serve as coating agents in fertilisers in accordance with Annex 2.6 point 1 or increase water retention capacity or wettability;
+- b. Annex XVII Appendix 15 of Regulation (EC) No 1907/2006 for all other polymers.
+
+<sup>7</sup> The authorised test methods for the detection of water solubility in accordance with paragraph 5 letter d are based on Annex XVII Appendix 16 of Regulation (EC) No. 1907/2006[^annex29-lvlu1-lvl1-lvl11-4].
+
+<sup>8</sup> The FOEN shall adapt paragraph 6 letter a to amendments to Annex II Part II CMC 9 Number 2 of Regulation (EU) 2019/1009, paragraph 6 letter b to amendments to Annex XVII Appendix 15 of Regulation (EC) No 1907/2006 and paragraph 7 to amendments to Annex XVII Appendix 16 of Regulation (EC) No 1907/2006.
+
+<sup>9</sup> A make-up product is any substance or preparation intended to come into external contact with human skin, eyebrows or eyelashes in order to change their appearance.
+
+[^annex29-lvlu1-lvl1-lvl11-1]: The standard may be viewed free of charge and obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex29-lvlu1-lvl1-lvl11-2]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annex29-lvlu1-lvl1-lvl11-3]: Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules for the making available on the market of EU fertilising products, amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003, OJ L 170, 25.6.2019, p. 1; last amended by Delegated Regulation (EU) 2024/2770, OJ L, 2024/2770, 28.10.2024.
+[^annex29-lvlu1-lvl1-lvl11-4]: See footnote to paragraph 3.
+
+### 1.2 Prohibition
+
+It is prohibited to place on the market microplastics and preparations with a microplastic content of 0.01 per cent or more by mass if the microplastic is used to give the preparation a desired property.
+
+### 1.3 Exception
+
+<sup>1</sup> The prohibition specified in Number 1.2 does not apply to:
+
+- a. products for analysis and research purposes;
+- b. foodstuffs in accordance with Article 4 of the Foodstuffs Act of 20 June 2014 ( FSA )[^annex29-lvlu1-lvl1-lvl13-1];
+- c. feed in accordance with Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 October 2011 ( FeedO )[^annex29-lvlu1-lvl1-lvl13-2];
+- d. medicinal products in accordance with Article 4 paragraph 1 letter a of the Therapeutic Products Act of 15 December 2000 (TPA)[^annex29-lvlu1-lvl1-lvl13-3];
+- e. fertilisers that are growing media of category PFC 4 and contain microplastics in accordance with Annex II Part II CMC 9 point 1 letter c of Regulation (EU) 2019/1009.
+
+<sup>2</sup> The prohibition specified in Number 1.2 does not apply to the placing on the market of microplastics and preparations containing microplastics if:
+
+- a. these are intended for use in industrial plants;
+- b. the microplastic is contained by technical means in such a way that release into the environment is prevented when used as intended;
+- c. the microplastic permanently changes its physical properties during its intended use in such a way that the polymer no longer falls under Number 1.1 paragraph 1;
+- d. the microplastic is embedded in a solid matrix in which it remains permanently while in use.
+
+[^annex29-lvlu1-lvl1-lvl13-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex29-lvlu1-lvl1-lvl13-2]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex29-lvlu1-lvl1-lvl13-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+
+### 1.4 …
+
+[^annex29-lvlu1-lvl1-lvl14-1]
+
+[^annex29-lvlu1-lvl1-lvl14-1]: Paras 1, 2 and 4 come into force on 1 Dec. 2026 and para. 3 comes into force on 17 Oct. 2031 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+
+### 1.5 Duty to provide information to the enforcement authority
+
+Any person who claims that microplastics or preparations containing microplastics are not considered to be microplastics on the basis of Number 1.1 paragraph 2 must on request submit to the cantonal authority:
+
+- a. documents that provide information on the specific identity of the polymer in accordance with Number 1.1. paragraph 2 letters a or b;
+- b. documents proving the degradability of the polymer specified in Number 1.1 paragraph 2 letter c in accordance with the requirements of Number 1.1 paragraph 3;
+- c. documents proving the water solubility of the polymer specified in Number 1.1 paragraph 2 letter d in accordance with the requirements of Number 1.1 paragraph 4.
+
+### 1.6 Determination of the content by mass of microplastics
+
+If the content by mass of microplastics in a preparation cannot be determined using the available analytical methods or accompanying documentation, only the particles that are at least the following size shall be taken into account to verify compliance with the content by mass specified in Number 1.2:
+
+- a. 0.1μm for one dimension for particles where all dimensions are equal to or smaller than 5mm;
+- b. 0.3μm for the length for particles with a length equal to or less than 15mm and a length to diameter ratio greater than 3.
+
+### 2 Oxo-degradable plastics
+
+### 2.1 Definition
+
+An oxo-degradable plastic is a plastic that contains additives that cause chemical degradation or decomposition of the plastic into microplastics through oxidation.
+
+### 2.2 Prohibitions
+
+It is prohibited to place on the market and use oxo-degradable plastics.
+
+### 3 Foams
+
+### 3.1 Aerosol dispensers
+
+For aerosol dispensers used to produce foams, Annex 2.12 applies.
+
+### 3.2 Prohibitions
+
+<sup>1</sup> It is prohibited to manufacture, place on the market and use foams and articles containing foams in the manufacture of which ozone-depleting substances as defined in Annex 1.4 number 1 paragraph 1 are used.
+
+<sup>2</sup> It is prohibited to manufacture, place on the market and use foams and articles containing foams in the manufacture of which substances stable in the atmosphere in accordance with Annex 1.5 number 1 paragraph 1 are used.
+
+<sup>3</sup> It is prohibited to manufacture, place on the market and use foams and articles containing foams that are manufactured using hydrofluorocarbons (HFOs) and substances that are neither ozone-depleting nor stable in the atmosphere.
+
+### 3.3 Exceptions
+
+<sup>1</sup> The prohibitions under Number 3.2 paragraph 1 do not apply if:
+
+- a. no state-of-the-art alternative is available for the substances that deplete the ozone layer or for preparations and articles manufactured with such substances;
 - b. the substances used that deplete the ozone layer have an ozone depletion potential of no more than 0.0005;
 - c. the quantity of substances used that deplete the ozone layer is not more than is required according to the state of the art for the intended purpose; and
 - d. the emissions of substances that deplete the ozone layer are kept as low as possible throughout the life cycle of the intended use, in particular during the disposal of wastes from foams and from substances that deplete the ozone layer contained therein.
 
-<sup>4</sup> On receipt of a justified request, the FOEN may grant a temporary exemption from the prohibitions specified in Number 2 paragraph 1 letter c if:
+<sup>2</sup> The prohibitions specified in Number 3.2 paragraph 2 do not apply if:
 
-- a. according to the state of the art, no substitute is available for the substances stable in the atmosphere or for the preparations and articles manufactured using such substances;
+- a. according to the state of the art, the necessary thermal insulation cannot be obtained using other materials;
 - b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
-- c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use, in particular during the disposal of wastes from foams and from substances stable in the atmosphere contained therein
+- c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use, in particular during the disposal of wastes from foams and from substances stable in the atmosphere contained therein.
 
-<sup>5</sup> The prohibition specified in Number 2 paragraph 1 letter e does not apply to the placing on the market of retreaded tyres if their treads contain extender oils that comply with the limits specified in Number 2 paragraph 1 letter d.
+<sup>3</sup> The FOEN may grant a temporary exemption from the prohibitions specified in Number 3.2 paragraph 2 on justified application if
 
-### 4 Special labelling
+- a. no state-of-the-art alternative is available for the substances stable in the atmosphere or for the preparations and articles manufactured using such substances;
+- b. the quantity and the global warming potential of the substances stable in the atmosphere being used are no greater than is required for the intended purpose according to the state of the art; and
+- c. emissions of substances stable in the atmosphere are kept as low as possible throughout the life cycle of the intended use, in particular during the disposal of wastes from foams and from substances stable in the atmosphere contained therein.
 
-<sup>1</sup> Manufacturers of foams must inform the purchasers, by means of labelling or in an equivalent written form, about the foam-blowing agents contained in the foam.
+<sup>4</sup> …[^annex29-lvlu1-lvl3-lvl33-1]
 
-<sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
+<sup>5</sup> After consulting the sector concerned and the cantonal authorities responsible for enforcing this Ordinance, the FOEN shall issue recommendations on the state of the art in accordance with paragraphs 1–4.
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/en/xml/image/image2.png)</sup>
+[^annex29-lvlu1-lvl3-lvl33-1]: Comes into force on 1 Jan. 2033 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-<sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
+### 3.4 Special labelling
 
-<sup>4</sup> ...
+<sup>1</sup> Manufacturers of foams must inform the purchasers about the foam-blowing agents contained in the foam by providing their chemical or recognised industrial name on a label or in another equivalent written form.
 
-<sup>5</sup> Plastic granulate or crumb placed on the market for use as infill material for artificial turf fields or as loose bulk material on playgrounds or sports fields must have a batch number that clearly identifies the batch. The batch number shall be indicated on the packaging or in another suitable form.
+<sup>2</sup> For foams manufactured using substances listed in Annex I or II of Regulation (EU) 2024/573[^annex29-lvlu1-lvl3-lvl34-1], the labelling must clearly indicate that the foams contain fluorinated greenhouse gases. In the case of foam elements and coated panels, this must be clearly and permanently indicated on the panels.
 
-### 4<sup>bis</sup> Special packaging
+[^annex29-lvlu1-lvl3-lvl34-1]: See footnote to Annex 1.5 number 4.1 paragraph 2.
 
-The packaging of a preparation containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must contain protective gloves which comply with the requirements specified in Article 13 paragraph 2 in conjunction with Article 12 paragraph 2 of the Ordinance on Product Safety of 19 May 2010[^annex29-lvlu1-lvl4bis-1]. This does not apply to packaging for hot melt adhesives.
-
-[^annex29-lvlu1-lvl4bis-1]: [SR 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
-
-### 5 Reporting requirements
+### 3.5 Reporting requirements
 
 Manufacturers of foams manufactured using substances stable in the atmosphere must inform the FOEN, if so requested, of:
 
 - a. the type and quantity of foams supplied in Switzerland during the previous three years, classified by origin (imported or manufactured in Switzerland);
 - b. the type and quantity of substances stable in the atmosphere contained in the foams supplied.
 
-### 5<sup>bis</sup> Recommendations
+### 4 Monomers
 
-The FOEN shall, after consulting the industry concerned, issue recommendations on the state of the art mentioned in Number 3 paragraph 3<sup>bis</sup>.
+### 4.1 Prohibitions
 
-### 6 Transitional provisions
+It is prohibited to place on the market and use acrylamide (CAS No 79-06-1) and substances and preparations with a content by mass of 0.1 per cent or more acrylamide for sealing applications.
 
-<sup>1</sup> The prohibition on imports specified in Number 2 paragraph 1 letter b does not apply to imports of:
+### 4.2 Special labelling
 
-- a. cooling appliances, water heaters and hot water storage tanks with foams which contain partially halogenated hydrochlorofluorocarbons (Annex 1.4), if they were manufactured before 1 January 2000;
-- b. motor vehicles with foams manufactured using fully halogenated chlorofluorocarbons (Annex 1.4), or spare parts and accessories intended for these vehicles and containing such foams, if they were manufactured before 1 October 1994;
-- c. integral skin foams for use in safety applications manufactured using partially halogenated hydrochlorofluorocarbons, if they were manufactured before 1 January 2000.
+Preparations with a methylenediphenyl diisocyanate content of 0.1 per cent or more by mass and intended for supply to the general public must be labelled as follows: ‘Persons already sensitised to diisocyanates may develop allergic reactions when using this product. - Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. - This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.’
 
-<sup>2</sup> The prohibition on use specified in Number 2 paragraph 1 letter c does not apply to the use of foams manufactured using substances stable in the atmosphere, or to articles containing such foams, if they were supplied before 1 January 2004.
+### 4.3 Special packaging
 
-<sup>3</sup> The prohibitions specified in Number 2 paragraph 1 letter d apply to the placing on the market and use of extender oils for the manufacture of tyres or parts of tyres from 1 January 2010.
+The packaging of a preparation containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass intended for supply to the general public must contain protective gloves to protect users from category III risks in accordance with Annex I to Regulation (EU) 2016/425[^annex29-lvlu1-lvl4-lvl43-1]. This does not apply to packaging for hot melt adhesives.
 
-<sup>4</sup> The prohibition specified in Number 2 paragraph 1 letter e does not apply to the placing on the market of tyres and treads for retreading which were manufactured before 1 January 2010.
+[^annex29-lvlu1-lvl4-lvl43-1]: See footnote to Annex 1.16 number 4.3 paragraph 1 letter a.
 
-<sup>5</sup> The prohibition specified in Number 2 paragraph 1 letter e<sup>bis</sup> does not apply to the placing on the market of articles which were first placed on the market before 1 September 2016.
+### 5 Additives containing heavy metals
 
-<sup>6</sup> The prohibitions in accordance with Number 2 paragraph 1 letter e<sup>ter</sup> do not apply to placing on the market or using plastic granules or crumb that has been used on by 1 April 2023 on artificial turf fields, playgrounds or sports fields.
+### 5.1 Definitions
 
-<sup>7</sup> The prohibitions in accordance with Number 2 paragraph 1 letter g do not apply to placing on the market or using oxo-degradable plastics that were placed on the market for the first time before 1 October 2022.
+PVC is defined as polymers and copolymers of vinyl chloride.
 
-<sup>8</sup> Foams and articles containing foams to which Number 3 paragraph 3<sup>bis</sup> no longer applies because a substitute is available due to a change in the state of the art may continue to be manufactured and imported for professional or commercial purposes for a period of six months and supplied to third parties for a further six-month period.
+### 5.2.1 Plastic packaging containing heavy metals
+
+Annex 2.16 number 4 applies to plastic packaging containing heavy metals.
+
+### 5.2.2. Prohibitions
+
+<sup>1</sup> It is prohibited to manufacture and place on the market preparations or articles containing plastics if the cadmium content in preparations is 0.01 per cent by mass or more and in articles 0.01 per cent by mass or more in the plastic.
+
+<sup>2</sup> It is prohibited to manufacture and place on the market preparations or articles containing PVC if the lead content in preparations is 0.1 per cent by mass or more and in articles 0.1 per cent by mass or more in the PVC.
+
+### 5.3 Exceptions
+
+The prohibitions specified in Number 5.2.2 do not apply to:
+
+- a.
+
+  recycled PVC if:
+
+  - 1\. cadmium and lead are exclusively attributable to the recycling of the PVC waste and are not added as a component in the manufacturing process, and
+  - 2\. the recycled PVC is intended for the manufacture of articles made of PVC that may be placed on the market.
+
+- b.
+
+  articles containing recycled PVC if their cadmium content does not exceed 0.1 per cent by mass in the homogeneous material in the following rigid PVC applications:
+
+  - 1 profiles and rigid PVC sheets for building applications,
+  - 2 doors, windows, shutters, walls, blinds, fences, and roof gutters,
+  - 3\. floor and terrace coverings,
+  - 4\. cable guides,
+  - 5 pipes for non-drinking water if the recycled PVC is used in the middle layer of a multilayer pipe and is entirely covered with a layer of newly produced PVC.
+
+### 5.4 Duty to provide information to the enforcement authority
+
+Any person who places an article in accordance with Number 5.3 letter b on the market must submit documents to the cantonal authority on request that document the quantity and origin of recycled PVC in the article and prove compliance with the respective requirements for placing the article on the market, in particular by means of a certificate based on the technical specifications of the standard SN EN 15343:2008[^annex29-lvlu1-lvl5-lvl54-1].
+
+[^annex29-lvlu1-lvl5-lvl54-1]: The standard may be viewed free of charge and obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 6 Polycyclic aromatic hydrocarbons as by-products in plastics
+
+### 6.1 Definitions
+
+<sup>1</sup> Tyres in accordance with number 6 are tyres for vehicles of the following classes:
+
+- a. Class M, N or O in accordance with Article 4 paragraph 1 of Regulation (EU) 2018/858[^annex29-lvlu1-lvl6-lvl61-1];
+- b. Class T, R or S in accordance with Article 4 of Regulation (EU) No 167/2013[^annex29-lvlu1-lvl6-lvl61-2];
+- c. Classes L1e-L7e in accordance with Article 4 of Regulation (EU) No 168/2013[^annex29-lvlu1-lvl6-lvl61-3].
+
+[^annex29-lvlu1-lvl6-lvl61-1]: Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC, OJ L 151, 14.6.2018, p. 1; last amended by Regulation (EU) 2022/2236, OJ L 296, 16.11.2022, p. 1.
+[^annex29-lvlu1-lvl6-lvl61-2]: Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles, OJ L 60, 2.3.2013, p. 1; last amended by Regulation (EU) 2019/519, OJ L 91, 29.3.2019, p. 42.
+[^annex29-lvlu1-lvl6-lvl61-3]: Regulation (EC) No 168/2013 of the European Parliament and of the Council of 15 November 2013 on cosmetic products, OJ L 60, 2.3.2013, p. 52; last amended by Regulation (EU) No 2020/1694, OJ L 381, 13.11.2020, p. 4.
+
+### 6.2.1 Toys and articles for infants and toddlers
+
+The Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex29-lvlu1-lvl6-lvl63-1] applies to toys and articles for infants and young children that contain polycyclic aromatic hydrocarbons in accordance with Number 6.2.2 paragraph 1 letter b.
+
+[^annex29-lvlu1-lvl6-lvl63-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+
+### 6.2.2 Prohibitions
+
+<sup>1</sup> It is prohibited to place on the market and use extender oils for the manufacture of tyres or tyre components if these oils contain:
+
+- a. more than 1mg/kg benzo[a]pyrene;
+- b.
+
+  in total more than 10 mg per kilogram of the following polycyclic aromatic hydrocarbons:
+
+  - – benzo[a]pyrene (CAS No 50-32-8)
+  - – benzo[e]pyrene (CAS No 192-97-2)
+  - – benzo[a]anthracene (CAS No 56-55-3)
+  - – chrysene (CAS No 218-01-9)
+  - – benzo[b]fluoranthene (CAS No 205-99-2)
+  - – benzo[j]fluoranthene (CAS No 205-82-3)
+  - – benzo[k]fluoranthene (CAS No 207-08-9)
+  - – dibenzo[a,h]anthracene (CAS No 53-70-3).
+
+<sup>2</sup> It is prohibited to place on the market tyres and treads for retreading if they contain extender oils that exceed the limit values specified in paragraph 1.
+
+<sup>3</sup> The test and analysis methods for determining the limit values in accordance with paragraphs 1 and 2 are based on Annex XVII, entry 50 of Regulation (EC) No. 1907/2006.
+
+<sup>4</sup> It is prohibited to place on the market articles consisting wholly or partly of plastics containing more than 1 mg of a polycyclic aromatic hydrocarbon as defined in paragraph 1 letter b per kilogramme of plastic if:
+
+- a. the articles are intended for supply to the general public, and
+- b. a component containing a polycyclic aromatic hydrocarbon comes into direct, prolonged or repeated contact with the human skin or oral cavity for a short period of time during normal or reasonably foreseeable use of the article; this applies in particular to
+  - – sports equipment such as bicycles, golf clubs, racquets
+  - – household appliances, vehicles fitted with wheels, walking aids
+  - – tools for private use
+  - – clothing, shoes, gloves and sportswear
+  - – watchstraps, wristbands, masks, headbands.
+
+<sup>5</sup> It is prohibited to place on the market and use plastic granules and litter containing more than 20 mg per kilogramme of the polycyclic aromatic hydrocarbons referred to in paragraph 1 letter b which are intended for use as bedding material for artificial turf pitches or as loose bulk material on playgrounds or sports fields.
+
+### 6.3 Special labelling
+
+Plastic granulate or crumb placed on the market for use as infill material for artificial turf fields or as loose bulk material on playgrounds or sports fields must have a batch number that clearly identifies the batch. The batch number must be indicated on the packaging or in another appropriate form.
+
+### 7 Transitional Provisions
+
+<sup>1</sup> The prohibition on placing on the market specified in Number 1.2 does not apply to:
+
+- a. the following products if they were first placed on the market before the dates below:
+
+<table>
+<tr><th>Number</th><th>Products</th><th>Date</th></tr>
+<tr><td>1</td><td>Cosmetic products to be rinsed out or rinsed off in accordance with Article 53 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex29-lvlu1-lvl7-1] (FUAO) with the exception of products containing microplastics for exfoliation, polishing or cleaning (microbeads) or products specified in Number 5</td><td>17 October 2027</td></tr>
+<tr><td>2</td><td>Textile detergents, cleaning agents, waxes, polishes and air fresheners with the exception of products containing microbeads or products specified in Number 5</td><td>17 October 2028</td></tr>
+<tr><td>3</td><td>Fertilisers in accordance with Annex 2.6 number 1 of this Ordinance</td><td>17 October 2028</td></tr>
+<tr><td>4</td><td>Products for agricultural or horticultural uses not covered by points 3 or 8</td><td>17 October 2028</td></tr>
+<tr><td>5</td><td>Products that contain microplastics to encapsulate fragrances</td><td>17 October 2029</td></tr>
+<tr><td>6</td><td>Cosmetic products in accordance with Article 53 FUAO that remain on the skin/hair, with the exception of products specified in in Number 10</td><td>17 October 2029</td></tr>
+<tr><td>7</td><td>Medical devices in accordance with Article 4 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000[^annex29-lvlu1-lvl7-2] (TPA) with the exception of products containing microbeads</td><td>17 October 2029</td></tr>
+<tr><td>8</td><td>Plant protection products in accordance with Article 2 paragraph 1 of the Plant Protection Products Ordinance of 12 May 2010[^annex29-lvlu1-lvl7-3] (PPPO) and seeds treated with such products as well as biocidal products in accordance with Article 2 paragraph 1 letter a of the Biocidal Products Ordinance of 18 May 2005[^annex29-lvlu1-lvl7-4] (BPR)</td><td>17 October 2031</td></tr>
+<tr><td>9</td><td>Infill granules for synthetic sports surfaces</td><td>17 October 2031</td></tr>
+<tr><td>10</td><td>Lip and nail products and make-up products in accordance with Article 53 FUAO with the exception of products containing microbeads or products specified in Numbers 5 or 1</td><td>17 October 2035</td></tr>
+</table>
+
+- b. all other products that were placed on the market for the first time before 1 June 2026.
+- [tab] <sup>2</sup> Any person who places a preparation in accordance with paragraph 1 letter a on the market must, on request, submit to the competent cantonal authority documentation on the function of the microplastics in the preparation that demonstrates compliance with the relevant requirements for placing the preparation on the market.
+
+<sup>3</sup> The prohibitions specified in Number 2.2 do not apply to the placing on the market and use of oxo-degradable plastics that were first placed on the market before 1 October 2022.
+
+<sup>4</sup> If an alternative is available for foams and articles containing foams that were authorised for use on the basis of Number 3.3 paragraphs 1, 2 or 4 due to a change in the state of the art, these foams and articles may continue to be manufactured, imported for professional or commercial purposes for 12 months and supplied to third parties for a further 6 months.
+
+<sup>5</sup> Until 30 November 2026, labelling in accordance with Number 4 paragraph 1 of the previous law is permitted instead of labelling in accordance with Number 3.4.
+
+<sup>6</sup> The prohibitions on manufacturing and placing on the market in accordance with Number 5.2.2 paragraph 2 do not apply to
+
+- a.
+
+  the following articles containing recycled rigid PVC if their lead content does not exceed 1.5% by mass, insofar as the lead is attributable to recycled PVC and provided the articles were first placed on the market before 29 May 2033:
+
+  - 1\. profiles and panels for exterior applications in building and civil engineering structures, except for decks and terraces,
+  - 2\. profiles and sheets for decks and patios, provided that the recycled PVC is used in a middle layer and is completely covered with a layer of PVC or other material containing less than 0.1 per cent lead by mass,
+  - 3\. profiles and panels for use in concealed areas or cavities in buildings and civil engineering structures, provided they are not accessible during normal use, except for maintenance purposes,
+  - 4\. profiles and panels for indoor use in buildings, provided that the entire surface of the profile or panel facing the occupied areas of a building after installation is made of PVC or another material containing less than 0.1 per cent lead by mass,
+  - 5\. multilayer pipes other than drinking water pipes, provided that the recycled PVC is used in a middle layer and is completely covered with a layer of PVC or other material containing less than 0.1% lead by mass, unless after 31 October 2027 the recycled PVC originates from profiles and sheets referred to in points 1-4 with a lead content of 0.1% or more by mass,
+  - 6\. fittings, with the exception of fittings for drinking water pipes, unless after 31 October 2027 the recycled PVC originates from profiles and sheets in accordance with Numbers 1-4 with a lead content of 0.1% or more by mass;
+
+- b. PVC-silicon separators in lead batteries if they were first placed on the market before 29 May 2033;
+- c. all other articles and preparations if they were first placed on the market before 1 December 2026.
+
+<sup>7</sup> The transitional provision in accordance with paragraph 6 letter a applies subject to the reservation that the articles bear the following special labelling from 1 December 2026: ‘Contains ≥ 0.1 % lead’. If the labelling cannot be affixed to the article due to its nature, it must be indicated on its packaging.
+
+<sup>8</sup> Any person who places an article in accordance with paragraph 6 letter a on the market must, on request, provide the cantonal authority with documentation proving the quantity and origin of recycled PVC in the article and demonstrating compliance with the relevant requirements for placing the article on the market, in particular by means of certificates based on the technical specifications of standard SN EN 15343:2008[^annex29-lvlu1-lvl7-5].
+
+[^annex29-lvlu1-lvl7-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex29-lvlu1-lvl7-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex29-lvlu1-lvl7-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annex29-lvlu1-lvl7-4]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex29-lvlu1-lvl7-5]: The standard may be viewed free of charge and obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 Annex 2.10[^t-30]
 
@@ -5473,42 +5690,70 @@ Annex 2.17[^t-37]
 
 (Art. 3)
 
-## Wood-based materials
+## Wood-based articles and other articles containing resin
 
-[^t-37]: Revised by No I of the O of 13 Feb. 2008, in force since 1 March 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-37]: Amended by No I para. 2 of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-### 1 Definitions
+### 1 Prohibitions
 
-<sup>1</sup> *Wood-based materials* are articles produced from wood chips or wood fibres, in particular chipboard and fibreboard in an untreated or coated form.
-
-<sup>2</sup> *Secondary raw material* means recycled wood (waste wood) used in the manufacture of wood-based materials.
-
-### 2 Prohibitions
-
-It is prohibited for manufacturers to place on the market wood-based materials if the content by mass of the following substances exceeds the limit values listed below:
+<sup>1</sup> Wood particleboard and wood fibre materials, in particular particleboard and fibreboard in raw or coated form, may not be placed on the market by a manufacturer if the content by mass of the following substances in the material exceeds the specified limit values:
 
 <table>
-<tr><td>Substance</td><td>Limit value in milligrams per kilogram of dry matter</td></tr>
+<tr><td>Substance</td><td>Limit value in milligrams per kilogram of dry matter (mg/kg dry matter)</td></tr>
 <tr><td>Arsenic (As)</td><td>25</td></tr>
-<tr><td>Cadmium (Cd)</td><td>50</td></tr>
 <tr><td>Lead (Pb)</td><td>90</td></tr>
+<tr><td>Cadmium (Cd)</td><td>50</td></tr>
 <tr><td>Mercury (Hg)</td><td>25</td></tr>
 <tr><td>Benzo[a]pyrene (CAS no 50-32-8)</td><td>0.5</td></tr>
 <tr><td>Pentachlorophenol (PCP, CAS no 87-86-5)</td><td>5</td></tr>
 </table>
 
-### 3 Exemptions
+<sup>2</sup> The following articles may not be placed on the market if the release of formaldehyde (CAS No. 50-00-0) from the articles under the test conditions described in Annex XVII Appendix 14 number 1 of Regulation (EC) No 1907/2006[^annex217-lvlu1-lvl1-1] leads to concentrations in a test chamber that exceed the specified limit values:
 
-<sup>1</sup> The prohibitions specified in Number 2 do not apply to the import of wood‑based materials which are only finished or repackaged in Switzerland and then re-exported in their entirety.
+<table>
+<tr><td>Article</td><td>Limit value for formaldehyde in milligrams per cubic metre (<sup>mg/m3</sup>)</td></tr>
+<tr><td>Articles, in particular furniture, based on wood-based materials</td><td>0.062</td></tr>
+<tr><td>Other articles, except road vehicles</td><td>0.080</td></tr>
+</table>
 
-<sup>2</sup> On receipt of a justified request, with the agreement of the FOPH, the FOEN may grant exemptions to the prohibitions specified in Number 2 if:
+<sup>3</sup> Road vehicles may not be placed on the market if they contain articles whose release of formaldehyde under the test conditions described in Annex XVII, Appendix 14, point 2 of Regulation (EC) No 1907/2006 leads to a concentration inside these vehicles that exceeds the value of 0.062 mg/m3.
 
-- a. the exceedance of limit values is not due to the secondary raw material; and
-- b. the quantity of listed substances contained in wood-based materials is no greater than is technically required for manufacture or necessary for the intended use.
+[^annex217-lvlu1-lvl1-1]: See footnote to Annex 2.9 number 1.1 paragraph 6 letter b.
 
-### 4 Transitional provision
+### 2 Exceptions
 
-The prohibitions specified in Number 2 come into force on 1 August 2006.
+<sup>1</sup> The prohibition specified in Number 1 paragraph 2 does not apply to the placing on the market of:
+
+- a. articles that are biocidal products in accordance with Article 2 paragraph 1 letter a of the Ordinance on Biocidal Products of 18 May 2005[^annex217-lvlu1-lvl2-1] (OBP);
+- b. medical devices in accordance with Article 4 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000[^annex217-lvlu1-lvl2-2] (TPA);
+- c. commodities in accordance with Article 48 of the Foodstuffs and Utility Articles Ordinance of 16 December 2016[^annex217-lvlu1-lvl2-3] (FUAO);
+- d. personal protective equipment in accordance with Article 3(1) of Regulation (EU) 2016/425[^annex217-lvlu1-lvl2-4];
+- e. textile materials and leather products for which restrictions on the formaldehyde content have been established on the basis of Article 64 paragraph 2 FUAO;
+- f. used items.
+
+<sup>2</sup> The prohibition specified in Number 1 paragraph 2 does not apply to placing on the market if:
+
+- a. formaldehyde and formaldehyde releasers occur exclusively naturally in the materials from which the articles have been manufactured;
+- b. the foreseeable use of the items takes place exclusively outdoors;
+- c. the articles are intended exclusively for use outside the envelope or the vapour barrier of a building and no formaldehyde is released into the indoor air;
+- d. the articles are intended exclusively for industrial or commercial use and the formaldehyde released from them does not lead to exposure of the general public during foreseeable use.
+
+<sup>3</sup> The prohibition specified in Number 1 paragraph 3 does not apply to the placing on the market of:
+
+- a. road vehicles intended exclusively for industrial or commercial use, if the concentration of formaldehyde inside the vehicles does not lead to exposure of the general public during foreseeable use;
+- b. used vehicles.
+
+[^annex217-lvlu1-lvl2-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex217-lvlu1-lvl2-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex217-lvlu1-lvl2-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex217-lvlu1-lvl2-4]: See footnote to Annex 1.16 number 4.3 paragraph 1 letter a.
+
+### 3 Transitional Provisions
+
+The prohibitions under Number 1 paragraphs 2 and 3 do not apply to the placing on the market of
+
+- a. articles that were first placed on the market in Switzerland or a member state of the EU or EFTA before 1 June 2027;
+- b. road vehicles that were first placed on the market in Switzerland or a member state of the EU or EFTA before 6 August 2027.
 
 Annex 2.18[^t-38]
 
@@ -5701,7 +5946,7 @@ For batteries in electrical and electronic equipment, Annex 2.15 applies.
 - d. recovered from industrial monitoring and control instruments placed on the market before 22 July 2017 and used in electrical and electronic equipment placed on the market before 22 July 2027;
 - e. recovered from any other electrical and electronic equipment that was outside the scope of Directive 2002/95/EC and which is placed on the market before 22 July 2019, and used in electrical and electronic equipment placed on the market before 22 July 2029.
 
-<sup>5</sup> If new electrical and electronic equipment contains hexabromobiphenyl or polybrominated diphenyl ethers, with the exception of decabromodiphenyl ether, paragraph 1 letter a does not apply.
+<sup>5</sup> If new electrical and electronic equipment contains hexabromobiphenyl or polybrominated diphenyl ethers, with the exception of decabromodiphenyl ether, paragraph 1 letter a does not apply..
 
 [^annex218-lvlu1-lvl8-1]: Directive 2002/95/EC of the European Parliament and of the Council of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 37, 13.2.2003, p. 19; last amended by Decision 2011/534/EU, OJ L 234, 10.9.2011, p. 44; repealed by Directive 2011/65/EU, OJ L 174, 1.7.2011, p. 88.
 [^annex218-lvlu1-lvl8-2]: See footnote to No 1 para. 1.

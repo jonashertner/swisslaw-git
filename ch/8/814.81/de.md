@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2025-10-01
+version: 2025-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251001-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251201-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Oktober 2025)
+vom 18. Mai 2005 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -119,13 +119,13 @@ Für folgende Anwendungen ist eine Bewilligung der nachstehenden Behörden nöti
 <table>
 <tr><th>Anwendung</th><th>Bewilligungsbehörde</th></tr>
 <tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nagetiere (Rodentizide) bei überbetrieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
-<tr><td>b.[^4-2] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
-<tr><td>c.[^4-3] die Anwendung von Biozidprodukten, Pflanzenschutzmitteln und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
+<tr><td>b.[^4-2] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Grundstoffen, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
+<tr><td>c.[^4-3] die Anwendung von Pflanzenschutzmitteln, Grundstoffen und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
 </table>
 
 [^4-1]: Fassung gemäss Ziff. I 6 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen), in Kraft seit 1. Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^4-3]: Fassung gemäss Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Okt. 2025 ([AS 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
+[^4-2]: Fassung gemäss Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^4-3]: Fassung gemäss Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 4a
 
@@ -329,10 +329,10 @@ Der Bund ist zuständig für:
 
 <sup>2</sup> Sie kontrollieren zudem, ob der Umgang mit Stoffen, Zubereitungen und Gegenständen den Vorschriften dieser Verordnung entspricht.
 
-<sup>3</sup> Geben die kontrollierten Stoffe, Zubereitungen oder Gegenstände selbst oder der Umgang mit ihnen Anlass zu Beanstandungen, so informiert die kontrollierende Behörde die nach Artikel 19 für die Verfügungen zuständigen Behörden. Sind dies kantonale Behörden, so informiert sie ausserdem das BAG, das BAFU und das SECO sowie, bei Beanstandungen von Pflanzenschutzmitteln, das BLV und das BLW, und, bei Beanstandungen von Düngern, das BLW.[^18-2]
+<sup>3</sup> Geben die kontrollierten Stoffe, Zubereitungen oder Gegenstände selbst oder der Umgang mit ihnen Anlass zu Beanstandungen, so informiert die kontrollierende Behörde die nach Artikel 19 für die Verfügungen zuständigen Behörden. Sind dies kantonale Behörden, so informiert sie ausserdem das BAG, das BAFU und das SECO sowie, bei Beanstandungen von Pflanzenschutzmitteln, das BLV und das BLW und, bei Beanstandungen von Düngern, das BLW.[^18-2]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^18-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^18-2]: Fassung gemäss Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 19
 
@@ -342,16 +342,18 @@ Ergibt eine Kontrolle, dass Bestimmungen dieser Verordnung verletzt sind, so ver
 
 #### Art. 20
 
-**Fachberatung für die Verwendung von Düngern und Pflanzenschutzmitteln**
+**Fachberatung für die Verwendung von Düngern, Pflanzenschutzmitteln und Grundstoffen**[^20-1]
 
-<sup>1</sup> Die Kantone sorgen dafür, dass für die Verwendung von Düngern und Pflanzenschutzmitteln eine Fachberatung angeboten wird; sie sichern deren Finanzierung.
+<sup>1</sup> Die Kantone sorgen dafür, dass für die Verwendung von Düngern, Pflanzenschutzmitteln und Grundstoffen eine Fachberatung angeboten wird; sie sichern deren Finanzierung
 
 <sup>2</sup>
 
-Sie können bestimmen, dass Personen, die Dünger oder Pflanzenschutzmittel in belasteten Gebieten beruflich oder gewerblich verwenden:
+Sie können bestimmen, dass Personen, die Dünger, Pflanzenschutzmittel und Grundstoffe in belasteten Gebieten beruflich oder gewerblich verwenden:
 
 - a. sich zu diesem Zweck von der Fachberatung beraten lassen müssen;
 - b. die für diese Beratung erforderlichen Betriebsdaten zur Verfügung stellen müssen.
+
+[^20-1]: Fassung gemäss Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 21
 
@@ -402,7 +404,7 @@ Anhänge[^t-1]
 
 ## 1 Bestimmungen für bestimmte Stoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), vom 27. Nov. 2024 ([AS 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)), Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)) und Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 - 1\.1 Persistente organische Schadstoffe
 - 1\.2 Halogenierte organische Stoffe
@@ -430,7 +432,7 @@ Anhänge[^t-1]
 - 2\.2 Reinigungs- und Desodorierungsmittel
 - 2\.3 Lösungsmittel
 - 2\.4 Biozidprodukte
-- 2\.5 Pflanzenschutzmittel
+- 2\.5 Pflanzenschutzmittel und Grundstoffe
 - 2\.6 Dünger
 - 2\.7 Auftaumittel
 - 2\.8 Anstrichfarben und Lacke
@@ -442,7 +444,7 @@ Anhänge[^t-1]
 - 2\.14 Kondensatoren und Transformatoren
 - 2\.15 Batterien
 - 2\.16 Besondere Bestimmungen zu Metallen
-- 2\.17 Holzwerkstoffe
+- 2\.17 Gegenstände auf Holzwerkstoffbasis und weitere Harz enthaltende Gegenstände
 - 2\.18 Elektro- und Elektronikgeräte
 
 [^annexu1-lvl2-1]: Ausdruck gemäss Ziff. I 2 der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Diese Anpassung wurde im ganzen Text vorgenommen.
@@ -551,7 +553,7 @@ Anhang 1.2[^t-3]
 
 ## Halogenierte organische Stoffe
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Bereinigt gemäss Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Ziff. I Abs. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Verbote
 
@@ -600,7 +602,6 @@ Anhang 1.2[^t-3]
 - b. *DDT-ähnliche Verbindungen*
   - – Dichlordiphenyldichlorethylen (DDE),
   - – Dichlordiphenyldichlorethan (DDD),
-  - – Methoxychlor (CAS-Nr. 72-43-5),
   - – Perthane (CAS-Nr. 72-56-0);
 
 - c. *Quintozen* (CAS-Nr. 82-68-8).
@@ -1319,7 +1320,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -2164,7 +2165,7 @@ Anhang 1.16[^t-17]
 
 ## Per- und polyfluorierte Alkylverbindungen
 
-[^t-17]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). Bereinigt gemäss Berichtigung vom 6. Okt. 2022, die nur den französischen Text betrifft ([AS 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)).
+[^t-17]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). Bereinigt gemäss Ziff. I Abs. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Perfluoroctansulfonsäure und ihre Derivate
 
@@ -2276,25 +2277,69 @@ Die Verbote nach Ziffer 2.2 gelten nicht für die Herstellung, das Inverkehrbrin
 
 <sup>3</sup> Die Verbote nach Ziffer 3.2 Absätze 1 und 2 gelten zudem nicht für Analyse- und Forschungszwecke.
 
-### 4 Fluoralkylsilanole und ihre Derivate
+### 4 Perfluorhexansäure und ihre Vorläuferverbindungen
 
 ### 4.1 Begriffe
+
+<sup>1</sup> Als Vorläuferverbindungen von Perfluorhexansäure in Form ihrer linearen oder verzweigten Isomere und ihrer Salze (PFHxA) gelten:
+
+- a. Stoffe einschliesslich Polymere mit einer linearen oder verzweigten Perfluorpentyl-Gruppe mit der Formel C<sub>5</sub>F<sub>11</sub> in direkter Verbindung mit einem weiteren Kohlenstoffatom als Strukturelement, die zu PFHxA abgebaut werden;
+- b. Stoffe mit einer linearen oder verzweigten Perfluorhexyl-Gruppe mit der Formel C<sub>6</sub>F<sub>13</sub> als Strukturelement, die zu PFHxA abgebaut werden.
+
+<sup>2</sup> Absatz 1 gilt nicht für:
+
+- a. Stoffe mit der Summenformel C<sub>6</sub>F<sub>14</sub>;
+- b. Perfluorheptansäure (CAS-Nr. 375-85-9), ihre Salze und ihre Derivate mit dem Strukturelement C<sub>6</sub>F<sub>13</sub>(CO)OX, wobei X bedeutet: jegliche Gruppe;
+- c. Perfluorhexansulfonsäure und ihre Derivate (PFHxS) nach Ziffer 2.1;
+- d. jeden Stoff mit einer Perfluoralkylgruppe mit dem Strukturelement C<sub>6</sub>F<sub>13</sub>, die direkt an ein Sauerstoffatom an einem nicht am Kettenende befindlichen Kohlenstoffatom gebunden ist;
+- e. andere Stoffe mit dem Strukturelement C<sub>6</sub>F<sub>13</sub>(CF<sub>2</sub>)X, wobei X bedeutet: jegliche Gruppe.
+
+<sup>3</sup> Als für die breite Öffentlichkeit bestimmte Textil-, Leder-, Pelz-, Haut- und Schuhwaren gelten ganz oder teilweise aus diesen Waren bestehende Produkte, welche direkt durch die breite Öffentlichkeit genutzt oder zur Ausstattung und Auskleidung in Bereichen genutzt werden, die von der breiten Öffentlichkeit aufgesucht werden, wie Verkehrsmittel, Büros oder andere öffentliche Orte.
+
+### 4.2 Verbote
+
+<sup>1</sup> Verboten sind die Herstellung und das Inverkehrbringen von:
+
+- a. kosmetischen Mitteln nach Artikel 53 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex116-lvlu1-lvl4-lvl42-1] (LGV), wenn ihr Massen-gehalt an PFHxA 0,0000025 Prozent (25 ppb) oder ihr Massengehalt an der Summe von PFHxA-Vorläuferverbindungen 0,0001 Prozent (1000 ppb) übersteigt;
+- b. Bedarfsgegenständen nach Artikel 48 der LGV aus Papier oder Karton, wenn ihr Massengehalt an PFHxA 0,0000025 Prozent (25 ppb) oder ihr Massengehalt an der Summe von PFHxA-Vorläuferverbindungen 0,0001 Prozent (1000 ppb) im homogenen Material übersteigt.
+
+<sup>2</sup> Verboten ist das Inverkehrbringen von für die breite Öffentlichkeit bestimmten Textil-, Leder-, Pelz-, Haut- und Schuhwaren, wenn der Massengehalt an PFHxA der Ware 0,0000025 Prozent (25 ppb) oder der Massengehalt an der Summe von PFHxA-Vorläuferverbindungen der Ware 0,0001 Prozent (1000 ppb) im homogenen Material übersteigt.
+
+<sup>3</sup> Verboten ist die Abgabe an die breite Öffentlichkeit von Zubereitungen, wenn ihr Massengehalt an PFHxA 0,0000025 Prozent (25 ppb) oder ihr Massengehalt an der Summe von PFHxA-Vorläuferverbindungen 0,0001 Prozent (1000 ppb) übersteigt.
+
+[^annex116-lvlu1-lvl4-lvl42-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+
+### 4.3 Ausnahmen
+
+<sup>1</sup> Das Verbot nach Ziffer 4.2 Absatz 2 gilt nicht für das Inverkehrbringen von:
+
+- a. persönlichen Schutzausrüstungen, die dazu bestimmt sind, die Verbraucherinnen vor Risiken der Kategorie III Buchstaben a, c–f, h und l nach Anhang I der Verordnung (EU) 2016/425[^annex116-lvlu1-lvl4-lvl43-1] zu schützen;
+- b. Bautextilien.
+
+<sup>2</sup> Das Verbot nach Ziffer 4.2 Absatz 3 gilt nicht für die Abgabe von Medizinprodukten nach Artikel 4 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000[^annex116-lvlu1-lvl4-lvl43-2] (HMG).
+
+[^annex116-lvlu1-lvl4-lvl43-1]: Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der Richtlinie 89/686/EWG des Rates, Fassung gemäss ABl. L 81 vom 31.3.2016, S. 51.
+[^annex116-lvlu1-lvl4-lvl43-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+
+### 5 Fluoralkylsilanole und ihre Derivate
+
+### 5.1 Begriffe
 
 <sup>1</sup> Als Fluoralkylsilanole und ihre Derivate gelten Stoffe mit dem Strukturelement C<sub>6</sub>F<sub>13</sub>(C<sub>2</sub>H<sub>4</sub>)Si(OH)<sub>n</sub>(OX)<sub>3-n</sub> mit 0 ≤ n ≤ 3, wobei X bedeutet: jede Alkylgruppe.
 
 <sup>2</sup> Als Sprühpackungen gelten Aerosolpackungen, Pumpsprays und Zerstäuber.
 
-### 4.2 Verbote
+### 5.2 Verbote
 
 <sup>1</sup> Verboten ist die Abgabe an die breite Öffentlichkeit von organische Lösungsmittel enthaltenden Zubereitungen in Sprühpackungen mit einem Massengehalt von 0,0000002 Prozent (2 ppb) oder mehr an Fluoralkylsilanolen und ihren Derivaten.
 
 <sup>2</sup> Das Verbot nach Absatz 1 gilt auch für Zubereitungen, die zum Nachfüllen von Sprühpackungen bestimmt sind.
 
-### 4.3 Besondere Kennzeichnung
+### 5.3 Besondere Kennzeichnung
 
-Die Verpackungen von Zubereitungen, die unter die Verbote nach Ziffer 4.2 fallen, müssen mit folgenden Aufschriften versehen sein: «Nur für gewerbliche Anwender» und «Lebensgefahr bei Einatmen».
+Die Verpackungen von Zubereitungen, die unter die Verbote nach Ziffer 5.2 fallen, müssen mit folgenden Aufschriften versehen sein: «Nur für gewerbliche Anwender» und «Lebensgefahr bei Einatmen».
 
-### 5 Übergangsbestimmungen
+### 6 Übergangsbestimmungen
 
 <sup>1</sup> Die Verbote nach Ziffer 1.2 Absatz 1 gelten bis zum 1. April 2024 nicht für die Verwendung PFOS-haltiger Mittel zur Sprühnebelunterdrückung für das nicht-dekorative Hartverchromen (Chrom VI) in geschlossenen Kreislaufsystemen und die für deren Herstellung erforderlichen Stoffe und Zubereitungen, wenn bei der Herstellung der Mittel und bei ihrer Verwendung die Menge der PFOS-Emissionen in die Umwelt auf ein Minimum reduziert werden.
 
@@ -2355,6 +2400,15 @@ Die Verpackungen von Zubereitungen, die unter die Verbote nach Ziffer 4.2 fallen
 - b. in Installationen zum Schutze von Anlagen, einschliesslich der Verwendung für die nötigen Funktionskontrollen dieser Installationen, soweit die bei den Kontrollen verbrauchten Feuerlöschschäume aufgefangen und umweltverträglich entsorgt werden: bis zum 31. Dezember 2025.
 
 <sup>6</sup> Perfluoralkoxy-Gruppen enthaltende Fluorpolymere nach Ziffer 3.3 Absatz 1 Buchstabe e dürfen bis zum 25. August 2024 hergestellt, in Verkehr gebracht und verwendet werden, wenn deren Massengehalt an der Summe von C<sub>9</sub>–C<sub>14</sub>-PFCA 0,0002 Prozent (2000 ppb) nicht übersteigt.
+
+<sup>7</sup> Die Verbote nach Ziffer 4.2 Absatz 1 gelten nicht für die Herstellung und das Inverkehrbringen der betreffenden kosmetischen Mittel und Bedarfsgegenstände bis zum 31. Oktober 2026.
+
+<sup>8</sup> Das Verbot nach Ziffer 4.2 Absatz 2 gilt nicht für das Inverkehrbringen von für die breite Öffentlichkeit bestimmten Textil-, Leder-, Pelz- Haut- und Schuhwaren, die:
+
+- a. Bekleidungszwecken dienen und vor dem 1. November 2026 erstmals in Verkehr gebracht worden sind;
+- b. allen anderen Zwecken dienen und vor dem 1. November 2027 erstmals in Verkehr gebracht worden sind.
+
+<sup>9</sup> Das Verbot nach Ziffer 4.2 Absatz 3 gilt nicht für die Abgabe von Zubereitungen bis zum 31. Oktober 2026.
 
 Anhang 1.17[^t-18]
 
@@ -3435,15 +3489,15 @@ Anhang 2.5[^t-25]
 
 (Art. 3)
 
-## Pflanzenschutzmittel
+## Pflanzenschutzmittel und Grundstoffe
 
-[^t-25]: Bereinigt gemäss Ziff. I 3 der V vom 29. Juni 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-25]: Bereinigt gemäss Ziff. I 3 der V vom 29. Juni 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Anhang 9 Ziff. 1 der Direktzahlungsverordnung vom 23. Okt. 2013 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), Anhang Ziff. 2 der V vom 4. Nov. 2015 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), Ziff. I der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), Anhang Ziff. 2 der V vom 11. März 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) und Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 ### 1 Verwendung
 
 ### 1.1 Verbote und Einschränkungen
 
-<sup>1</sup> Pflanzenschutzmittel dürfen nicht verwendet werden:
+<sup>1</sup> Pflanzenschutzmittel und Grundstoffe dürfen nicht verwendet werden:
 
 - a. in Gebieten, die gestützt auf eidgenössisches oder kantonales Recht unter Naturschutz stehen, soweit die dazugehörigen Vorschriften nichts anderes bestimmen;
 - b. in Riedgebieten und Mooren;
@@ -3453,41 +3507,40 @@ Anhang 2.5[^t-25]
 - f. in der Zone S1 von Grundwasserschutzzonen;
 - g. auf und an Gleisanlagen in den Zonen S2 und S<sub>h</sub> von Grundwasserschutzzonen.
 
-<sup>2</sup> Pflanzenschutzmittel, die dazu bestimmt sind, unerwünschte Pflanzen oder Pflanzenteile zu vernichten oder auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen, dürfen zudem nicht verwendet werden:
+<sup>2</sup> Pflanzenschutzmittel und Grundstoffe, die dazu bestimmt sind, unerwünschte Pflanzen oder Pflanzenteile zu vernichten oder auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen, dürfen zudem nicht verwendet werden:
 
 - a. auf Dächern und Terrassen;
 - b. auf Lagerplätzen;
 - c. auf und an Strassen, Wegen und Plätzen;
 - d. auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen.
 
-<sup>3</sup> Für die Verwendung von Pflanzenschutzmitteln in den Zonen S2 und S<sub>h</sub> von Grundwasserschutzzonen gilt die Pflanzenschutzmittelverordnung vom 12. Mai 2010[^annex25-lvlu1-lvl1-lvl11-3].
+<sup>3</sup> …
 
-<sup>4</sup> Für die Verwendung von Pflanzenschutzmitteln in den Zuströmbereichen Z<sub>u</sub> und Z<sub>o</sub> legen die Kantone, unter Berücksichtigung der Ausnahmen nach Ziffer 1.2 Absätze 2, 4 und 5, über die Absätze 1 und 2 hinausgehende Einschränkungen fest, soweit dies zum Schutz der Gewässer erforderlich ist. Insbesondere schränken sie die Verwendung eines Pflanzenschutzmittels im Zuströmbereich Z<sub>u</sub> ein, wenn dieses in einer Trinkwasserfassung festgestellt wird und die Anforderungen an genutztes oder zur Nutzung vorgesehenes Grundwasser wiederholt nicht erfüllt werden.
+<sup>4</sup> Für die Verwendung von Pflanzenschutzmitteln in den Zuströmbereichen Z<sub>u</sub> und Z<sub>o</sub> legen die Kantone, unter Berücksichtigung der Ausnahmen nach Ziffer 1.2 Absätze 2, 4 und 5, über die Absätze 1 und 2 hinausgehende Einschränkungen fest, soweit dies zum Schutz der Gewässer erforderlich ist. Insbesondere schränken sie die Verwendung eines Pflanzenschutzmittels im Zuströmbereich Z<sub>u</sub> ein, wenn die in ihm enthaltenen Wirkstoffe oder seine Abbauprodukte wiederholt in einer Grundwasserfassung auftreten, die im öffentlichen Interesse liegt.
 
-<sup>5</sup> Für die Verwendung von Pflanzenschutzmitteln auf und an Gleisanlagen ausserhalb der Zonen S1, S2 und S<sub>h</sub> von Grundwasserschutzzonen legt das Bundesamt für Verkehr die zum Schutz der Umwelt erforderlichen Einschränkungen und Verbote fest. Es berücksichtigt dabei die örtlichen Verhältnisse und hört vor dem Entscheid die betroffenen Kantone an.
+<sup>5</sup> Für die Verwendung von Pflanzenschutzmitteln und Grundstoffen auf und an Gleisanlagen ausserhalb der Zonen S1, S2 und S<sub>h</sub> von Grundwasserschutzzonen legt das Bundesamt für Verkehr die zum Schutz der Umwelt erforderlichen Einschränkungen und Verbote fest. Es berücksichtigt dabei die örtlichen Verhältnisse und hört vor dem Entscheid die betroffenen Kantone an.
 
 [^annex25-lvlu1-lvl1-lvl11-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex25-lvlu1-lvl1-lvl11-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
-[^annex25-lvlu1-lvl1-lvl11-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### 1.2 Ausnahmen
 
-<sup>1</sup> Von den Verboten nach Ziffer 1.1 Absatz 1 Buchstaben a und b ausgenommen ist die Verwendung von Pflanzenschutzmitteln, die dazu bestimmt sind, Erntegüter in geschlossenen Anlagen oder Gebäuden zu konservieren, soweit durch Schutzvorkehrungen sichergestellt ist, dass die Mittel oder ihre Abbauprodukte nicht abgeschwemmt werden oder in das Erdreich versickern.
+<sup>1</sup> Von den Verboten nach Ziffer 1.1 Absatz 1 Buchstaben a und b ausgenommen ist die Verwendung von Pflanzenschutzmitteln und Grundstoffen, die dazu bestimmt sind, Erntegüter in geschlossenen Anlagen oder Gebäuden zu konservieren, soweit durch Schutzvorkehrungen sichergestellt ist, dass die Mittel oder ihre Abbauprodukte nicht abgeschwemmt werden oder in das Erdreich versickern.
 
 <sup>2</sup> Von den Verboten nach Ziffer 1.1 Absatz 1 Buchstaben c und d, soweit Buchstabe d bestockte Weiden sowie den Streifen von 3 Metern Breite entlang der Bestockung betrifft, ausgenommen sind Einzelstockbehandlungen von Problempflanzen, sofern diese mit anderen Massnahmen, wie regelmässiges Mähen, nicht erfolgreich bekämpft werden können.
 
-<sup>3</sup> Können im Wald Pflanzenschutzmittel nicht durch Massnahmen ersetzt werden, welche die Umwelt weniger belasten, erteilt die zuständige kantonale Behörde in Abweichung vom Verbot nach Ziffer 1.1 Absatz 1 Buchstabe d eine Bewilligung nach den Artikeln 4–6 für die Anwendung von Pflanzenschutzmitteln:
+<sup>3</sup> Können im Wald Pflanzenschutzmittel und Grundstoffe nicht durch Massnahmen ersetzt werden, welche die Umwelt weniger belasten, so erteilt die zuständige kantonale Behörde in Abweichung vom Verbot nach Ziffer 1.1 Absatz 1 Buchstabe d eine Bewilligung nach den Artikeln 4–6 für die Anwendung von Pflanzenschutzmitteln und Grundstoffen:
 
 - a. zur Behandlung von Holz im Wald, von dem in der Folge von Naturereignissen Waldschäden ausgehen können, und gegen die Erreger von Waldschäden selbst, wenn dies für die Erhaltung des Waldes unerlässlich ist;
 - b. zur Behandlung von geschlagenem Holz mit Insektiziden, die gestützt auf die Pflanzenschutzmittelverordnung für die Kultur «Liegendes Rundholz im Wald und auf Lagerplätzen» zugelassen sind, auf dazu geeigneten Plätzen, sofern das Holz nicht rechtzeitig abgeführt werden kann, diese Plätze nicht in den Zonen S1, S2 und S<sub>h</sub> von Grundwasserschutzzonen liegen und wirksame Massnahmen gegen das Versickern und das Abschwemmen der Mittel getroffen werden;
 - c. in forstlichen Pflanzgärten ausserhalb der Zonen S1, S2, S3 und S<sub>h</sub> von Grundwasserschutzzonen;
 - d. zur Behebung von Wildschäden in natürlichen Verjüngungen sowie bei Wieder- oder Neuanpflanzungen, wenn dies für die Erhaltung des Waldes unerlässlich ist.
 
-<sup>3bis</sup> Das Bundesamt für Verkehr erteilt im Einzelfall im Einvernehmen mit dem BAFU in Abweichung vom Verbot nach Ziffer 1.1 Absatz 1 Buchstabe g eine Bewilligung für die Anwendung von Pflanzenschutzmitteln in den Zonen S2 und S<sub>h</sub> von Grundwasserschutzzonen, wenn:
+<sup>3bis</sup> Das Bundesamt für Verkehr erteilt im Einzelfall im Einvernehmen mit dem BAFU in Abweichung vom Verbot nach Ziffer 1.1 Absatz 1 Buchstabe g eine Bewilligung für die Anwendung von Pflanzenschutzmitteln oder Grundstoffen in den Zonen S2 und S<sub>h</sub> von Grundwasserschutzzonen, wenn:
 
 - a. die Gleisanlage in einer dichten Wanne liegt;
 - b. das anfallende Abwasser ausserhalb der Zonen S2 oder S<sub>h</sub> von Grundwasserschutzzonen beseitigt wird; und
-- c. der Ersatz von Pflanzenschutzmitteln durch andere Massnahmen, welche die Umwelt weniger belasten, unverhältnismässig wäre.
+- c. der Ersatz von Pflanzenschutzmitteln oder Grundstoffen durch andere Massnahmen, welche die Umwelt weniger belasten, unverhältnismässig wäre.
 
 <sup>4</sup> Vom Verbot nach Ziffer 1.1 Absatz 2 Buchstabe c ausgenommen sind Einzelstockbehandlungen von Problempflanzen bei National- und Kantonsstrassen, sofern diese mit anderen Massnahmen, wie regelmässiges Mähen, nicht erfolgreich bekämpft werden können.
 
@@ -3495,17 +3548,15 @@ Anhang 2.5[^t-25]
 
 ### 2 Besondere Kennzeichnung
 
-<sup>1</sup> Für nach Artikel 15 Buchstabe a der PSMV zugelassene Pflanzenschutzmittel, die dazu bestimmt sind, unerwünschte Pflanzen oder Pflanzenteile zu vernichten oder auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen, müssen Inhaberinnen der Bewilligungen die Abnehmerinnen in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die Verbote nach Ziffer 1.1 Absatz 2 informieren.
+<sup>1</sup> Für nach der Pflanzenschutzmittelverordnung vom 20. August 2025[^annex25-lvlu1-lvl2-1] (PSMV) zugelassene Pflanzenschutzmittel, die dazu bestimmt sind, unerwünschte Pflanzen oder Pflanzenteile zu vernichten oder auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen, müssen die Inhaberinnen der Zulassung die Abnehmerinnen in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die Verbote nach Ziffer 1.1 Absatz 2 informieren.
 
-<sup>2</sup> Wer ein Pflanzenschutzmittel einführt, das in der Liste nach Artikel 36 Absatz 1 PSMV aufgeführt ist, und das dazu bestimmt ist, unerwünschte Pflanzen oder Pflanzenteile zu vernichten oder auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen, muss die Abnehmerinnen in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die Verbote nach Ziffer 1.1 Absatz 2 informieren.
+<sup>2</sup> Wer ein Pflanzenschutzmittel einführt, das in der Liste nach Artikel 78 Absatz 2 PSMV aufgeführt ist und das dazu bestimmt ist, unerwünschte Pflanzen oder Pflanzenteile zu vernichten oder auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen, muss die Abnehmerinnen in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die Verbote nach Ziffer 1.1 Absatz 2 informieren.
 
 <sup>3</sup> Die Aufschrift nach Absatz 1 und die Information nach Absatz 2 muss folgende Angaben enthalten: «Die Verwendung auf Dächern und Terrassen, auf Lagerplätzen, auf und an Strassen, Wegen und Plätzen, auf Böschungen und Grünstreifen entlang von Strassen und Gleisanlagen ist verboten».
 
-### 3 Rückgabepflicht
+[^annex25-lvlu1-lvl2-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
-<sup>1</sup> Die Verwenderin muss Pflanzenschutzmittel, die sie nicht mehr verwenden kann oder die sie entsorgen will, einer rücknahmepflichtigen Person oder einer dafür vorgesehenen Sammelstelle übergeben.
-
-<sup>2</sup> Kleinmengen von Pflanzenschutzmitteln müssen unentgeltlich zurückgenommen werden.
+### 3 …
 
 ### 4 Ausfuhr
 
@@ -4167,172 +4218,340 @@ Anhang 2.9[^t-29]
 
 ## Kunststoffe, deren Monomere und Additive
 
-[^t-29]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), vom 23. Febr. 2022 ([AS 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) und Anhang Ziff. 2 der V vom 11. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-29]: Fassung gemäss Ziff. I Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-### 1 Begriffe
+### 1 Mikroplastik
 
-<sup>1</sup> Als cadmiumhaltige Kunststoffe gelten Cadmium oder Cadmiumverbindungen enthaltende Kunststoffe in Form von Gegenständen, die ganz oder teilweise aus solchen Kunststoffen bestehen, oder diese in Form von Zubereitungen enthalten.
+### 1.1 Begriffe
 
-<sup>2</sup> Als Recycling-PVC gilt eine PVC-Abfall enthaltende Zubereitung.
+<sup>1</sup> Als synthetische Polymermikropartikel (Mikroplastik) gelten feste Polymere, die folgende Bedingungen erfüllen:
 
-<sup>3</sup> Reifen im Sinne dieses Anhangs sind Reifen für Fahrzeuge folgender Klassen:
-
-- a. Klasse M, N oder O gemäss Anhang II Abschnitt A der Richtlinie 2007/46/EG[^annex29-lvlu1-lvl1-1];
-- b. Klasse T, R oder S gemäss Anhang II Kapitel A der Richtlinie 2003/37/EG[^annex29-lvlu1-lvl1-2];
-- c. Klassen L1e–L7e gemäss Artikel 1 Absätze 2 und 3 der Richtlinie 2002/24/EG[^annex29-lvlu1-lvl1-3].
-
-<sup>4</sup> Als oxo-abbaubarer Kunststoff gilt ein Kunststoff, der Zusatzstoffe enthält, die durch Oxidation einen Zerfall des Kunststoffs in Mikropartikel oder einen chemischen Abbau herbeiführen.
-
-[^annex29-lvlu1-lvl1-1]: Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie), ABl. L 263 vom 9.10.2007, S.1; zuletzt geändert durch Verordnung (EU) Nr. 65/2012, ABl. L 28 vom 31.1.2012, S. 24. Die Texte der in diesem Anhang erwähnten Rechtsakte der EU sind unter: [http://eur-lex.europa.eu/](http://eur-lex.europa.eu/) abrufbar.
-[^annex29-lvlu1-lvl1-2]: Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 über die Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EWG, ABl. L 171 vom 9.7.2003, S. 1; zuletzt geändert durch Richtlinie 2010/62/EU, ABl. L 238 vom 9.9.2010, S. 7.
-[^annex29-lvlu1-lvl1-3]: Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates, ABl. L 124 vom 9.5.2002, S. 1; zuletzt geändert durch Verordnung (EG) Nr. 1137/2008, ABl. L 311 vom 21.11.2008, S. 1.
-
-### 2 Verbote
-
-<sup>1</sup> Verboten ist:
-
-- a. die Herstellung und das Inverkehrbringen durch die Herstellerin von cadmiumhaltigen Kunststoffen, wenn ihr Cadmium-Gehalt 0,01 Massenprozent des Kunststoffs oder mehr beträgt;
-- b. die Herstellung und das Inverkehrbringen von Schaumstoffen, bei deren Herstellung ozonschichtabbauende Stoffe (Anhang 1.4) verwendet werden, sowie von Gegenständen mit solchen Schaumstoffen;
-- c. die Abgabe und die Verwendung von Schaumstoffen, bei deren Herstellung in der Luft stabile Stoffe (Anhang 1.5) verwendet werden, sowie von Gegenständen mit solchen Schaumstoffen;
-- d.
-
-  das Inverkehrbringen und die Verwendung von Weichmacherölen für die Herstellung von Reifen oder Reifenbestandteilen, wenn diese Öle enthalten:
-
-  - 1\. mehr als 1 mg Benzo[a]pyren je Kilogramm,
-  - 2\.
-
-    zusammengerechnet mehr als 10 mg je Kilogramm der folgenden polyzyklischen aromatischen Kohlenwasserstoffe:
-
-    - – Benzo[a]pyren (CAS-Nr. 50-32-8)
-    - – Benzo[e]pyren (CAS-Nr. 192-97-2)
-    - – Benzo[a]anthracen (CAS-Nr. 56-55-3)
-    - – Chrysen (CAS-Nr. 218-01-9)
-    - – Benzo[b]fluoranthen (CAS-Nr. 205-99-2)
-    - – Benzo[j]fluoranthen (CAS-Nr. 205-82-3)
-    - – Benzo[k]fluoranthen (CAS-Nr. 207-08-9)
-    - – Dibenzo[a,h]anthracen (CAS-Nr. 53-70-3);
-
-- e. das Inverkehrbringen von Reifen und Laufflächen für die Runderneuerung, wenn sie Weichmacheröle enthalten, welche die Grenzwerte nach Buchstabe d überschreiten;
-- e<sup>bis</sup>.
-
-  das Inverkehrbringen von Gegenständen, die ganz oder teilweise aus Kunstoffen bestehen, die mehr als 1 mg eines polyzyklischen aromatischen Kohlenwasserstoffs nach Buchstabe d Nummer 2 je Kilogramm Kunststoff enthalten, wenn:
-
-  - 1\. die Gegenstände für die breite Öffentlichkeit bestimmt sind, und
-  - 2\.
-
-    ein polyzyklischer aromatischer Kohlenwasserstoff enthaltender Bestandteil bei normaler oder vernünftigerweise vorhersehbarer Verwendung des Gegenstands unmittelbar, länger oder wiederholt für kurze Zeit mit der menschlichen Haut oder der Mundhöhle in Berührung kommt. Dies gilt insbesondere für:
-
-    - – Sportgeräte wie Fahrräder, Golfschläger, Schläger
-    - – Haushaltsgeräte, mit Rädern versehene Wagen, Laufhilfen
-    - – Werkzeuge für den privaten Gebrauch
-    - – Bekleidung, Schuhe, Handschuhe und Sportbekleidung sowie
-    - – Uhrenarmbänder, Armbänder, Masken, Stirnbänder;
-
-- e<sup>ter</sup>. das Inverkehrbringen und die Verwendung von Kunststoffgranulaten oder ‑streu, die zusammengerechnet mehr als 20 mg je Kilogramm der polyzyklischen aromatischen Kohlenwasserstoffe nach Buchstabe d Ziffer 2 enthalten und die als Einstreumaterial für Kunstrasenplätze oder als loses Schüttgut auf Spiel- oder Sportplätzen dienen;
-- f. das Inverkehrbringen und die Verwendung von Acrylamid (CAS-Nr. 79-06-1) sowie von Stoffen und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Acrylamid für Abdichtungsanwendungen wie Injektion, Verpressung, Verfugung oder Verguss;
-- g. das Inverkehrbringen und die Verwendung oxo-abbaubarer Kunststoffe.
-
-<sup>1bis</sup> Die Prüf- und Analysemethoden für die Bestimmung der Grenzwerte nach Absatz 1 Buchstaben d und e richten sich nach Anhang XVII Eintrag 50 der Verordnung (EG) Nr. 1907/2006[^annex29-lvlu1-lvl2-1].
-
-<sup>2</sup> Für Aerosolpackungen zur Herstellung von Schaumstoffen gilt Anhang 2.12.
-
-<sup>3</sup> Für cadmiumhaltige Kunststoffverpackungen gilt Anhang 2.16 Ziffer 4.
-
-<sup>4</sup> Für Spielzeuge und für Gegenstände für Säuglinge und Kleinkinder, die polyzyklische aromatische Kohlenwasserstoffe nach Absatz 1 Buchstabe d Nummer 2 enthalten, gilt die Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^annex29-lvlu1-lvl2-2].
-
-[^annex29-lvlu1-lvl2-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2015/326, ABl. L 58 vom 3.3.2015, S. 43.
-[^annex29-lvlu1-lvl2-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
-
-### 3 Ausnahmen
-
-<sup>1</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe a gelten nicht für:
-
-- a. Recycling-PVC, sofern die Überschreitung des Cadmium-Gehalts auf den verwendeten PVC-Abfall zurückzuführen ist und Cadmium oder Cadmiumverbindungen im Herstellungsprozess nicht als Bestandteil zugegeben werden;
+- a. sie sind in Partikeln enthalten und machen mindestens 1 Massenprozent dieser Partikel aus oder bilden eine kontinuierliche Oberflächenbeschichtung auf Partikeln; und
 - b.
 
-  Recycling-PVC nach Buchstabe a enthaltende Kunststoffe, wenn ihr Cadmium-Gehalt 0,1 Massenprozent des Kunststoffs in folgenden Hart-PVC-Anwendungen nicht übersteigt:
+  mindestens 1 Massenprozent der Partikel nach Buchstabe a erfüllt eine der folgenden Bedingungen:
 
-  - 1\. Profile und Hart-PVC-Platten für den Einsatz im Bauwesen,
-  - 2\. Türen, Fenster, Fensterläden, Wände, Jalousien, Zäune und Dachrinnen,
-  - 3\. Boden- und Terrassenbeläge,
-  - 4\. Kabelführungen,
-  - 5\. Wasserrohre, ausgenommen Trinkwasserrohre, sofern das Recycling-PVC in der mittleren Schicht eines mehrschichtigen Rohrs verwendet wird und vollständig mit einer Schicht von neu hergestelltem PVC überzogen ist.
+  - 1\. alle Dimensionen der Partikel sind gleich oder kleiner als 5 mm,
+  - 2\. die Länge der Partikel ist gleich oder kleiner als 15 mm und das Verhältnis von Länge zu Durchmesser ist grösser als 3.
 
-<sup>2</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe c gelten nicht, wenn:
+<sup>2</sup> Als Feststoff gilt ein Stoff, der weder ein Gas nach Absatz 3 noch eine Flüssigkeit nach Absatz 4 ist.
 
-- a. nach dem Stand der Technik die nötige Wärmedämmung mit anderen Materialien nicht möglich ist;
-- b. die Menge und das Treibhauspotenzial der eingesetzten in der Luft stabilen Stoffe nicht grösser sind, als nach dem Stand der Technik für den angestrebten Zweck nötig ist; und
-- c. die Emissionen von in der Luft stabilen Stoffen während des ganzen Lebenszyklus der vorgesehenen Verwendung so gering wie möglich gehalten werden, insbesondere bei der Entsorgung von Abfällen von Schaumstoffen und von darin enthaltenen in der Luft stabilen Stoffen.
+<sup>3</sup> Als Gas gilt ein Stoff oder eine Zubereitung, der oder die bei 50 °C einen Dampfdruck von mehr als absolut 300 kPa hat oder bei 20 °C und einem Standarddruck von 101,3 kPa vollständig gasförmig ist.
 
-<sup>3</sup> Das Bundesamt für Umwelt (BAFU) erlässt für die Vollzugsbehörden nach Anhörung der betroffenen Kreise und der Kantone Empfehlungen zum Stand der Technik und zur Entsorgung von Abfällen im Sinne von Absatz 2.
+<sup>4</sup> Als Flüssigkeit gilt ein Stoff oder eine Zubereitung, der oder die eine der folgenden Bedingungen erfüllt:
 
-<sup>3bis</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe b gelten nicht, wenn:
+- a. der Stoff oder die Zubereitung hat bei 50 °C einen Dampfdruck von nicht mehr als 300 kPa, ist bei 20 °C und einem Standarddruck von 101,3 kPa nicht vollständig gasförmig und hat einen Schmelzpunkt oder Schmelzbeginn von 20 °C oder weniger bei einem Standarddruck von 101,3 kPa;
+- b. der Stoff oder die Zubereitung erfüllt die Kriterien der Norm D 4359-90[^annex29-lvlu1-lvl1-lvl11-1];
+- c. der Stoff oder die Zubereitung besteht die Prüfung mittels Penetrometerverfahren zur Bestimmung des Fliessverhaltens gemäss Anhang A Teil 2 Kapitel 2.3.4 des Übereinkommens vom 30. September 1957[^annex29-lvlu1-lvl1-lvl11-2] über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR).
+
+<sup>5</sup> Nicht als Mikroplastik gelten:
+
+- a. Polymere, die das Ergebnis eines Polymerisationsprozess sind, der in der Natur stattgefunden hat, unabhängig von Extraktionsverfahren und bei denen es sich nicht um chemisch veränderte Stoffe handelt;
+- b. Polymere, die in ihrer chemischen Struktur keine Kohlenstoffatome enthalten;
+- c. Polymere, die abbaubar sind;
+- d. Polymere, die eine Wasserlöslichkeit über 2 g/L aufweisen.
+
+<sup>6</sup> Die zulässigen Prüfmethoden und die zu erfüllenden Kriterien zum Nachweis der Abbaubarkeit nach Absatz 5 Buchstabe c richten sich:
+
+- a. für Polymere, die in Düngern nach Anhang 2.6 Ziffer 1 als Überzugsmittel dienen oder das Wasserrückhaltevermögen oder die Benetzbarkeit erhöhen, nach Anhang II Teil II CMC 9 Nummer 2 der Verordnung (EU) 2019/1009[^annex29-lvlu1-lvl1-lvl11-3];
+- b. für alle anderen Polymere nach Anhang XVII Anlage 15 der Verordnung (EG) Nr. 1907/2006.
+
+<sup>7</sup> Die zulässigen Prüfmethoden zum Nachweis der Wasserlöslichkeit nach Absatz 5 Buchstabe d richten sich nach dem Anhang XVII Anlage 16 der Verordnung (EG) Nr. 1907/2006[^annex29-lvlu1-lvl1-lvl11-4].
+
+<sup>8</sup> Das BAFU passt Absatz 6 Buchstabe a an Änderungen von Anhang II Teil II CMC 9 Nummer 2 der Verordnung (EU) 2019/1009, Absatz 6 Buchstabe b an Änderungen von Anhang XVII Anlage 15 der Verordnung (EG) Nr. 1907/2006 und Absatz 7 an Änderungen von Anhang XVII Anlage 16 der Verordnung (EG) Nr. 1907/2006 an.
+
+<sup>9</sup> Als Make-up-Produkt gilt jeder Stoff oder jede Zubereitung, der oder die dazu bestimmt ist, äusserlich mit Haut, Augenbrauen oder Wimpern des Menschen in Berührung zu kommen, um deren Aussehen zu verändern.
+
+[^annex29-lvlu1-lvl1-lvl11-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/de/).
+[^annex29-lvlu1-lvl1-lvl11-2]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annex29-lvlu1-lvl1-lvl11-3]: Verordnung (EU) 2019/1009 des Europäischen Parlaments und des Rates vom 5. Juni 2019 mit Vorschriften für die Bereitstellung von EU-Düngeprodukten auf dem Markt und zur Änderung der Verordnungen (EG) Nr. 1069/2009 und (EG) Nr. 1107/2009 sowie zur Aufhebung der Verordnung (EG) Nr. 2003/2003, ABl. L 170 vom 25.6.2019, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2024/2770, ABl. L, 2024/2770, 28.10.2024.
+[^annex29-lvlu1-lvl1-lvl11-4]: Siehe Fussnote zu Absatz 3.
+
+### 1.2 Verbot
+
+Verboten ist das Inverkehrbringen von Mikroplastik und von Zubereitungen, deren Massengehalt an Mikroplastik 0,01 Massenprozent oder mehr beträgt, sofern das Mikroplastik dazu dient, der Zubereitung eine gewünschte Eigenschaft zu verleihen.
+
+### 1.3 Ausnahmen
+
+<sup>1</sup> Das Verbot nach Ziffer 1.2 gilt nicht für:
+
+- a. Produkte für Analyse- und Forschungszwecke;
+- b. Lebensmittel nach Artikel 4 des Lebensmittelgesetzes vom 20. Juni 2014[^annex29-lvlu1-lvl1-lvl13-1];
+- c. Futtermittel nach Artikel 3 Absatz 1 der Futtermittel-Verordnung vom 26. Oktober 2011[^annex29-lvlu1-lvl1-lvl13-2];
+- d. Arzneimittel nach Artikel 4 Absatz 1 Buchstabe a des Heilmittelgesetzes vom 15. Dezember 2000[^annex29-lvlu1-lvl1-lvl13-3] (HMG);
+- e. Dünger, die Kultursubstrate der Kategorie PFC 4 sind und Mikroplastik gemäss Anhang II Teil II CMC 9 Nummer 1 Buchstabe c der Verordnung (EU) 2019/1009 enthalten.
+
+<sup>2</sup> Das Verbot nach Ziffer 1.2 gilt nicht für das Inverkehrbringen von Mikroplastik und Zubereitungen mit Mikroplastik, wenn:
+
+- a. diese für die Verwendung in Industrieanlagen bestimmt sind;
+- b. das Mikroplastik durch technische Mittel so eingeschlossen ist, dass eine Freisetzung in die Umwelt bei bestimmungsgemässer Verwendung verhindert wird;
+- c. das Mikroplastik während seiner bestimmungsgemässen Verwendung seine physikalischen Eigenschaften dauerhaft so ändert, dass das Polymer begrifflich nicht mehr unter Ziffer 1.1 Absatz 1 fällt;
+- d. das Mikroplastik in eine feste Matrix eingebettet ist, in der es während seiner Nutzungsphase dauerhaft verbleibt.
+
+[^annex29-lvlu1-lvl1-lvl13-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex29-lvlu1-lvl1-lvl13-2]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex29-lvlu1-lvl1-lvl13-3]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+
+### 1.4 …
+
+[^annex29-lvlu1-lvl1-lvl14-1]
+
+[^annex29-lvlu1-lvl1-lvl14-1]: Abs. 1, 2 und 4 treten am 1. Dez. 2026 und Abs. 3 tritt am 17. Okt. 2031 in Kraft ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+
+### 1.5 Informationspflichten gegenüber der Vollzugsbehörde
+
+Wer für das Inverkehrbringen von Mikroplastik oder Mikroplastik enthaltenden Zubereitungen in Anspruch nimmt, dass dieses oder diese aufgrund Ziffer 1.1 Absatz 2 nicht als Mikroplastik gelten, hat der kantonalen Behörde auf Anfrage vorzulegen:
+
+- a. Unterlagen, welche über die spezifische Identität des Polymers nach Ziffer 1.1. Absatz 2 Buchstaben a oder b Auskunft geben;
+- b. Unterlagen, welche die Abbaubarkeit des Polymers nach Ziffer 1.1 Absatz 2 Buchstabe c nach den Vorgaben in Ziffer 1.1 Absatz 3 belegen;
+- c. Unterlagen, welche die Wasserlöslichkeit des Polymers nach Ziffer 1.1 Absatz 2 Buchstabe d nach den Vorgaben in Ziffer 1.1 Absatz 4 belegen.
+
+### 1.6 Bestimmung des Massegehaltes an Mikroplastik
+
+Kann der Massengehalt an Mikroplastik in einer Zubereitung nicht anhand der verfügbaren Analysemethoden oder Begleitunterlagen bestimmt werden, so sind zur Überprüfung der Einhaltung des in Ziffer 1.2 genannten Massengehalts nur die Partikel zu berücksichtigen, die mindestens die folgende Grösse aufweisen:
+
+- a. 0,1 μm für eine Dimension bei Partikeln, bei denen alle Dimensionen gleich oder kleiner als 5 mm sind;
+- b. 0,3 μm für die Länge bei Partikeln mit einer Länge gleich oder kleiner als 15 mm und einem Verhältnis von Länge zu Durchmesser grösser als 3.
+
+### 2 Oxo-abbaubare Kunststoffe
+
+### 2.1 Begriff
+
+Als oxo-abbaubarer Kunststoff gilt ein Kunststoff, der Zusatzstoffe enthält, die durch Oxidation einen chemischen Abbau oder Zerfall des Kunststoffs in Mikroplastik herbeiführen.
+
+### 2.2 Verbote
+
+Verboten sind das Inverkehrbringen und die Verwendung oxo-abbaubarer Kunststoffe.
+
+### 3 Schaumstoffe
+
+### 3.1 Aerosolpackungen
+
+Für Aerosolpackungen zur Herstellung von Schaumstoffen gilt Anhang 2.12.
+
+### 3.2 Verbote
+
+<sup>1</sup> Verboten sind die Herstellung, das Inverkehrbringen und die Verwendung von Schaumstoffen sowie von Gegenständen mit Schaumstoffen, bei deren Herstellung ozonschichtabbauende Stoffe im Sinne von Anhang 1.4 Ziffer 1 Absatz 1 verwendet werden.
+
+<sup>2</sup> Verboten sind die Herstellung, das Inverkehrbringen und die Verwendung von Schaumstoffen sowie von Gegenständen mit Schaumstoffen, bei deren Herstellung in der Luft stabile Stoffe im Sinne von Anhang 1.5 Ziffer 1 Absatz 1 verwendet werden.
+
+### 3.3 Ausnahmen
+
+<sup>1</sup> Die Verbote nach Ziffer 3.2 Absatz 1 gelten nicht, wenn:
 
 - a. nach dem Stand der Technik ein Ersatz für die ozonschichtabbauenden Stoffe oder für die mit solchen Stoffen hergestellten Zubereitungen und Gegenstände fehlt;
 - b. die eingesetzten ozonschichtabbauenden Stoffe ein Ozonabbaupotenzial von höchstens 0,0005 aufweisen;
 - c. die Menge der eingesetzten ozonschichtabbauenden Stoffe nicht grösser ist, als nach dem Stand der Technik für den angestrebten Zweck nötig ist; und
 - d. die Emissionen von ozonschichtabbauenden Stoffen während des ganzen Lebenszyklus der vorgesehenen Verwendung so gering wie möglich gehalten werden, insbesondere bei der Entsorgung von Abfällen von Schaumstoffen und von darin enthaltenen ozonschichtabbauenden Stoffen.
 
-<sup>4</sup> Das BAFU kann auf begründeten Antrag eine befristete Ausnahme von den Verboten nach Ziffer 2 Absatz 1 Buchstabe c gewähren, wenn:
+<sup>2</sup> Die Verbote nach Ziffer 3.2 Absatz 2 gelten nicht, wenn:
+
+- a. nach dem Stand der Technik die nötige Wärmedämmung mit anderen Materialien nicht möglich ist;
+- b. die Menge und das Treibhauspotenzial der eingesetzten in der Luft stabilen Stoffe nicht grösser sind, als nach dem Stand der Technik für den angestrebten Zweck nötig ist; und
+- c. die Emissionen von in der Luft stabilen Stoffen während des ganzen Lebenszyklus der vorgesehenen Verwendung so gering wie möglich gehalten werden, insbesondere bei der Entsorgung von Abfällen von Schaumstoffen und von darin enthaltenen in der Luft stabilen Stoffen.
+
+<sup>3</sup> Das BAFU kann auf begründeten Antrag eine befristete Ausnahme von den Verboten nach Ziffer 3.2 Absatz 2 gewähren, wenn:
 
 - a. nach dem Stand der Technik ein Ersatz für die in der Luft stabilen Stoffe oder für die mit solchen Stoffen hergestellten Zubereitungen und Gegenstände fehlt;
 - b. die Menge und das Treibhauspotenzial der eingesetzten in der Luft stabilen Stoffe nicht grösser sind, als nach dem Stand der Technik für den angestrebten Zweck nötig ist; und
 - c. die Emissionen von in der Luft stabilen Stoffen während des ganzen Lebenszyklus der vorgesehenen Verwendung so gering wie möglich gehalten werden, insbesondere bei der Entsorgung von Abfällen von Schaumstoffen und von darin enthaltenen in der Luft stabilen Stoffen.
 
-<sup>5</sup> Das Verbot nach Ziffer 2 Absatz 1 Buchstabe e gilt nicht für das Inverkehrbringen von runderneuerten Reifen, wenn ihre Laufflächen Weichmacheröle enthalten, welche die Grenzwerte nach Ziffer 2 Absatz 1 Buchstabe d einhalten.
+<sup>4</sup> …[^annex29-lvlu1-lvl3-lvl33-1]
 
-### 4 Besondere Kennzeichnung
+<sup>5</sup> Das BAFU erlässt nach Anhörung der betroffenen Branche und der für den Vollzug dieser Verordnung zuständigen kantonalen Behörden Empfehlungen zum Stand der Technik nach den Absätzen 1–4.
 
-<sup>1</sup> Herstellerinnen von Schaumstoffen müssen die Abnehmerinnen in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die im Schaumstoff enthaltenen Schäumungsmittel informieren.
+[^annex29-lvlu1-lvl3-lvl33-1]: Tritt am 1. Jan. 2033 in Kraft ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-<sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
+### 3.4 Besondere Kennzeichnung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/de/xml/image/image2.png)
+<sup>1</sup> Herstellerinnen von Schaumstoffen müssen die Abnehmerinnen in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die im Schaumstoff enthaltenen Schäumungsmittel mittels deren chemischer oder anerkannter industrieller Bezeichnung informieren.
 
-<sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
+<sup>2</sup> Für Schaumstoffe, bei deren Herstellung Stoffe verwendet werden, die in Anhang I oder II der Verordnung (EU) 2024/573[^annex29-lvlu1-lvl3-lvl34-1] aufgeführt sind, muss die Kennzeichnung den deutlichen Hinweis enthalten, dass die Schaumstoffe fluorierte Treibhausgase enthalten. Bei Schaumstoffelementen und beschichteten Platten ist dies deutlich und dauerhaft auf den Platten anzugeben.
 
-<sup>4</sup> …
+[^annex29-lvlu1-lvl3-lvl34-1]: Siehe Fussnote zu Anhang 1.4 Ziffer 3.1 Absatz 2.
 
-<sup>5</sup> Für Kunststoffgranulate oder -streu, die zur Verwendung als Einstreumaterial für Kunstrasenplätze oder in loser Form für Spiel- oder Sportplätze in Verkehr gebracht werden, ist eine Chargennummer anzugeben, mit welcher die Charge eindeutig identifiziert werden kann. Die Chargennummer ist auf der Verpackung anzugeben oder in einer anderen zweckmässigen Form zu vermitteln.
-
-### 4<sup>bis</sup> Besondere Verpackung
-
-Die Verpackung einer Zubereitung, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt ist, muss Schutzhandschuhe enthalten, die den Anforderungen der Artikel 13 Absatz 2 in Verbindung mit 12 Absatz 2 der Produktesicherheitsverordnung vom 19. Mai 2010[^annex29-lvlu1-lvl4bis-1] genügen. Dies gilt nicht für Verpackungen von Heissklebstoffen.
-
-[^annex29-lvlu1-lvl4bis-1]: [SR 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
-
-### 5 Meldepflicht
+### 3.5 Meldepflicht
 
 Herstellerinnen von Schaumstoffen, bei deren Herstellung in der Luft stabile Stoffe verwendet werden, müssen dem BAFU auf Anfrage melden:
 
-- a. Art und Menge der in den vergangenen drei Jahren in der Schweiz abgegebenen Schaumstoffe, aufgeschlüsselt nach Einfuhr und Herstellung in der Schweiz;
+- a. Art und Menge der in den vergangenen drei Jahren in der Schweiz abgegebenen Schaumstoffe, aufgeschlüsselt nach Einfuhr in die und Herstellung in der Schweiz;
 - b. Art und Menge der in der Luft stabilen Stoffe, die in den abgegebenen Schaumstoffen enthalten sind.
 
-### 5<sup>bis</sup> Empfehlungen
+### 4 Monomere
 
-Das BAFU erlässt nach Anhörung der betroffenen Branche Empfehlungen zum Stand der Technik nach Ziffer 3 Absatz 3<sup>bis</sup>.
+### 4.1 Verbote
 
-### 6 Übergangsbestimmungen
+Verboten sind das Inverkehrbringen und die Verwendung von Acrylamid (CAS‑Nr. 79-06-1) sowie von Stoffen und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Acrylamid für Abdichtungsanwendungen.
 
-<sup>1</sup> Das Einfuhrverbot nach Ziffer 2 Absatz 1 Buchstabe b gilt nicht für die Einfuhr von:
+### 4.2 Besondere Kennzeichnung
 
-- a. Kühlgeräten, Wassererwärmern und Warmwasserspeichern mit Schaumstoffen, die teilweise halogenierte Fluorchlorkohlenwasserstoffe (Anhang 1.4) enthalten, wenn sie vor dem 1. Januar 2000 hergestellt worden sind;
-- b. Motorfahrzeugen mit Schaumstoffen, die mit vollständig halogenierten Fluorchlorkohlenwasserstoffen (Anhang 1.4) hergestellt worden sind, sowie von dazugehörigen Ersatz- und Zubehörteilen mit solchen Schaumstoffen, wenn sie vor dem 1. Oktober 1994 hergestellt worden sind;
-- c. Integralschaumstoffen, die mit teilweise halogenierten Fluorchlorkohlenwasserstoffen hergestellt worden sind und Sicherheitszwecken dienen, wenn sie vor dem 1. Januar 2000 hergestellt worden sind.
+Zubereitungen, deren Massengehalt an Methylendiphenyldiisocyanat 0,1 Prozent oder mehr beträgt und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschliesslich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
-<sup>2</sup> Das Verwendungsverbot nach Ziffer 2 Absatz 1 Buchstabe c gilt nicht für die Verwendung von Schaumstoffen, bei deren Herstellung in der Luft stabile Stoffe verwendet wurden, sowie von Gegenständen mit solchen Schaumstoffen, wenn sie vor dem 1. Januar 2004 abgegeben worden sind.
+### 4.3 Besondere Verpackung
 
-<sup>3</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe d gelten für das Inverkehrbringen und die Verwendung von Weichmacherölen für die Herstellung von Reifen oder Reifenbestandteilen ab dem 1. Januar 2010.
+Die Verpackung einer Zubereitung, deren Massengehalt an Methylendiphenyldiisocyanat 0,1 Prozent oder mehr beträgt und die für die Abgabe an die breite Öffentlichkeit bestimmt ist, muss Schutzhandschuhe enthalten, um die Verwenderinnen vor Risiken der Kategorie III nach Anhang I der Verordnung (EU) 2016/425[^annex29-lvlu1-lvl4-lvl43-1] zu schützen. Dies gilt nicht für Verpackungen von Heissklebstoffen.
 
-<sup>4</sup> Das Verbot nach Ziffer 2 Absatz 1 Buchstabe e gilt nicht für das Inverkehrbringen von Reifen und Laufflächen für die Runderneuerung, die vor dem 1. Januar 2010 hergestellt worden sind.
+[^annex29-lvlu1-lvl4-lvl43-1]: Siehe Fussnote zu Anhang 1.16 Ziffer 4.3 Absatz 1 Buchstabe a.
 
-<sup>5</sup> Das Verbot nach Ziffer 2 Absatz 1 Buchstabe e<sup>bis</sup> gilt nicht für das Inverkehrbringen von Gegenständen, die vor dem 1. September 2016 erstmals in Verkehr gebracht worden sind.
+### 5 Schwermetalle enthaltende Additive
 
-<sup>6</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe e<sup>ter</sup> gelten nicht für das Inverkehrbringen und das Verwenden von Kunststoffgranulaten oder -streu, die bis zum 1. April 2023 einer Verwendung in Kunstrasen-, Spiel- oder Sportplätzen zugeführt worden sind.
+### 5.1 Begriffe
 
-<sup>7</sup> Die Verbote nach Ziffer 2 Absatz 1 Buchstabe g gelten nicht für das Inverkehrbringen und die Verwendung oxo-abbaubarer Kunststoffe, die vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind.
+Als PVC gelten Polymere und Copolymere des Vinylchlorids.
 
-<sup>8</sup> Schaumstoffe und Gegenstände mit Schaumstoffen, für die Ziffer 3 Absatz 3<sup>bis</sup> nicht mehr anzuwenden ist, weil aufgrund einer Änderung des Standes der Technik ein Ersatz besteht, dürfen noch während 6 Monaten hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
+### 5.2.1 Schwermetallhaltige Kunststoffverpackungen
+
+Für schwermetallhaltige Kunststoffverpackungen gilt Anhang 2.16 Ziffer 4.
+
+### 5.2.2 Verbote
+
+<sup>1</sup> Verboten sind die Herstellung und das Inverkehrbringen von Kunststoffen enthaltenden Zubereitungen oder Gegenständen, wenn der Cadmium-Gehalt in Zubereitungen 0,01 Massenprozent oder mehr und in Gegenständen 0,01 Massenprozent oder mehr im Kunststoff beträgt.
+
+<sup>2</sup> Verboten sind die Herstellung und das Inverkehrbringen von PVC enthaltenden Zubereitungen oder Gegenständen, wenn der Blei-Gehalt in Zubereitungen 0,1 Massenprozent oder mehr und in Gegenständen 0,1 Massenprozent oder mehr im PVC beträgt.
+
+### 5.3 Ausnahmen
+
+Die Verbote nach Ziffer 5.2.2 gelten nicht für:
+
+- a.
+
+  rückgewonnenes PVC, wenn:
+
+  - 1\. Cadmium und Blei ausschliesslich auf die Verwertung des PVC-Abfalls zurückzuführen sind und nicht im Herstellungsprozess als Bestandteil zugegeben werden, und
+  - 2\. das rückgewonnene PVC zur Herstellung von Gegenständen aus PVC bestimmt ist, die in Verkehr gebracht werden dürfen;
+
+- b.
+
+  rückgewonnenes PVC enthaltende Gegenstände, wenn ihr Cadmium-Gehalt 0,1 Massenprozent im homogenen Material in folgenden Hart-PVC-Anwendungen nicht übersteigt:
+
+  - 1\. Profile und Hart-PVC-Platten für den Einsatz im Bauwesen,
+  - 2\. Türen, Fenster, Fensterläden, Wände, Jalousien, Zäune und Dachrinnen,
+  - 3\. Boden- und Terrassenbeläge,
+  - 4\. Kabelführungen,
+  - 5\. Wasserrohre, ausgenommen Trinkwasserrohre, sofern das rückgewonnene PVC in der mittleren Schicht eines mehrschichtigen Rohrs verwendet wird und vollständig mit einer Schicht von neu hergestelltem PVC überzogen ist.
+
+### 5.4 Informationspflicht gegenüber der Vollzugsbehörde
+
+Wer einen Gegenstand nach Ziffer 5.3 Buchstabe b in Verkehr bringt, hat der kantonalen Behörde auf Anfrage Unterlagen vorzulegen, welche die Menge und Herkunft von rückgewonnenem PVC im Gegenstand belegen und die Einhaltung der jeweiligen Voraussetzungen für das Inverkehrbringen des Gegenstands nachweisen, insbesondere mittels eines Zertifikates, das auf den technischen Spezifikationen der Norm SN EN 15343:2008[^annex29-lvlu1-lvl5-lvl54-1] beruht.
+
+[^annex29-lvlu1-lvl5-lvl54-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/de/).
+
+### 6 Polycyclische aromatische Kohlenwasserstoffe als Nebenprodukte in Kunststoffen
+
+### 6.1 Begriffe
+
+<sup>1</sup> Reifen im Sinne von Ziffer 6 sind Reifen für Fahrzeuge folgender Klassen:
+
+- a. Klasse M, N oder O gemäss Artikel 4 Absatz 1 Verordnung (EU) 2018/858[^annex29-lvlu1-lvl6-lvl61-1];
+- b. Klasse T, R oder S gemäss Artikel 4 der Verordnung (EU) Nr. 167/2013[^annex29-lvlu1-lvl6-lvl61-2];
+- c. Klassen L1e–L7e gemäss Artikel 4 der Verordnung (EU) Nr. 168/2013[^annex29-lvlu1-lvl6-lvl61-3].
+
+### 6.2.1 Spielzeuge und Gegenstände für Säuglinge und Kleinkinder
+
+[^annex29-lvlu1-lvl6-lvl61-1]: Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die Genehmigung und die Marktüberwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge, zur Änderung der Verordnungen (EG) Nr. 715/2007 und (EG) Nr. 595/2009 und zur Aufhebung der Richtlinie 2007/46/EG, ABl. L 151 vom 14.6.2018, S. 1; zuletzt geändert durch die Verordnung (EU) 2022/2236, ABl. L 296 vom 16.11.2022, S. 1.
+[^annex29-lvlu1-lvl6-lvl61-2]: Verordnung (EU) Nr. 167/2013 des Europäischen Parlaments und des Rates vom 5. Februar 2013 über die Genehmigung und Marktüberwachung von land- und forstwirtschaftlichen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 1; zuletzt geändert durch Verordnung (EU) 2019/519, ABl. L 91 vom 29.3.2019, S. 42.
+[^annex29-lvlu1-lvl6-lvl61-3]: Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen, ABl. L 60 vom 2.3.2013, S. 52; zuletzt geändert durch Verordnung (EU) 2020/1694, ABl. L 381 vom 13.11.2020, S. 4.
+
+Für Spielzeuge und für Gegenstände für Säuglinge und Kleinkinder, die polycyclische aromatische Kohlenwasserstoffe nach Ziffer 6.2.2 Absatz 1 Buchstabe b enthalten, gilt die LGV[^annex29-lvlu1-lvl6-lvl61-lvl621-1].
+
+[^annex29-lvlu1-lvl6-lvl61-lvl621-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+
+### 6.2.2 Verbote
+
+<sup>1</sup> Verboten sind das Inverkehrbringen und die Verwendung von Weichmacherölen für die Herstellung von Reifen oder Reifenbestandteilen, wenn diese Öle enthalten:
+
+- a. mehr als 1 mg Benzo[a]pyren je Kilogramm;
+- b.
+
+  zusammengerechnet mehr als 10 mg je Kilogramm der folgenden polycyclischen aromatischen Kohlenwasserstoffe:
+
+  - – Benzo[a]pyren (CAS-Nr. 50-32-8),
+  - – Benzo[e]pyren (CAS-Nr. 192-97-2),
+  - – Benzo[a]anthracen (CAS-Nr. 56-55-3),
+  - – Chrysen (CAS-Nr. 218-01-9),
+  - – Benzo[b]fluoranthen (CAS-Nr. 205-99-2),
+  - – Benzo[j]fluoranthen (CAS-Nr. 205-82-3),
+  - – Benzo[k]fluoranthen (CAS-Nr. 207-08-9),
+  - – Dibenzo[a,h]anthracen (CAS-Nr. 53-70-3).
+
+<sup>2</sup> Verboten ist das Inverkehrbringen von Reifen und Laufflächen für die Runderneuerung, wenn sie Weichmacheröle enthalten, welche die Grenzwerte nach Absatz 1 überschreiten.
+
+<sup>3</sup> Die Prüf- und Analysemethoden für die Bestimmung der Grenzwerte nach den Absätzen 1 und 2 richten sich nach Anhang XVII Eintrag 50 der Verordnung (EG) Nr. 1907/2006.
+
+<sup>4</sup> Verboten ist das Inverkehrbringen von Gegenständen, die ganz oder teilweise aus Kunstoffen bestehen, die mehr als 1 mg eines polycyclischen aromatischen Kohlenwasserstoffs nach Absatz 1 Buchstabe b je Kilogramm Kunststoff enthalten, wenn:
+
+- a. die Gegenstände für die breite Öffentlichkeit bestimmt sind; und
+- b.
+
+  ein polycyclischer aromatischer Kohlenwasserstoff enthaltender Bestandteil bei normaler oder vernünftigerweise vorhersehbarer Verwendung des Gegenstands unmittelbar, länger oder wiederholt für kurze Zeit mit der menschlichen Haut oder der Mundhöhle in Berührung kommt; dies gilt insbesondere für:
+
+  - – Sportgeräte, wie Fahrräder, Golfschläger, Schläger,
+  - – Haushaltsgeräte, mit Rädern versehene Wagen, Laufhilfen,
+  - – Werkzeuge für den privaten Gebrauch,
+  - – Bekleidung, Schuhe, Handschuhe und Sportbekleidung,
+  - – Uhrenarmbänder, Armbänder, Masken, Stirnbänder.
+
+<sup>5</sup> Verboten sind das Inverkehrbringen sowie die Verwendung von Kunststoffgranulaten und ‑streu, die zusammengerechnet mehr als 20 mg je Kilogramm der polycyclischen aromatischen Kohlenwasserstoffe nach Absatz 1 Buchstabe b enthalten und die als Einstreumaterial für Kunstrasenplätze oder als loses Schüttgut auf Spiel- oder Sportplätzen dienen.
+
+### 6.3 Besondere Kennzeichnung
+
+Für Kunststoffgranulate und -streu, die zur Verwendung als Einstreumaterial für Kunstrasenplätze oder in loser Form für Spiel- oder Sportplätze in Verkehr gebracht werden, ist eine Chargennummer anzugeben, mit welcher die Charge eindeutig identifiziert werden kann. Die Chargennummer ist auf der Verpackung oder in einer anderen zweckmässigen Form anzugeben.
+
+### 7 Übergangsbestimmungen
+
+<sup>1</sup> Das Verbot nach Ziffer 1.2 des Inverkehrbringens gilt nicht für:
+
+- a. folgende Produkte, wenn sie vor den nachstehenden Daten erstmals in Verkehr gebracht worden sind:
+
+<table>
+<tr><th>Nummer</th><th>Produkte</th><th>Datum</th></tr>
+<tr><td>1</td><td>Aus- oder abzuspülende kosmetische Mittel nach Artikel 53 LGV[^annex29-lvlu1-lvl7-1] mit Ausnahme von Produkten, die Mikroplastik zum Peelen, Polieren oder Reinigen (Mikroperlen) enthalten oder Produkten, die unter die Nummer 5 fallen</td><td>17. Oktober 2027</td></tr>
+<tr><td>2</td><td>Textilwaschmittel, Reinigungsmittel, Wachse, Poliermittel und Lufterfrischer mit Ausnahme von Mikroperlen enthaltenden Produkten oder Produkten, die unter die Nummer 5 fallen</td><td>17. Oktober 2028</td></tr>
+<tr><td>3</td><td>Dünger nach Anhang 2.6 Ziffer 1 dieser Verordnung</td><td>17. Oktober 2028</td></tr>
+<tr><td>4</td><td>Produkte für landwirtschaftliche oder gartenbauliche Verwendungen, die nicht unter die Nummern 3 oder 8 fallen</td><td>17. Oktober 2028</td></tr>
+<tr><td>5</td><td>Produkte, die Mikroplastik zur Verkapselung von Duftstoffen enthalten</td><td>17. Oktober 2029</td></tr>
+<tr><td>6</td><td>kosmetische Mittel nach Artikel 53 LGV, die auf der Haut/in den Haaren verbleiben, mit Ausnahme von Produkten, die unter die Nummer 10 fallen</td><td>17. Oktober 2029</td></tr>
+<tr><td>7</td><td>Medizinprodukte nach Artikel 4 Absatz 1 Buchstabe b HMG[^annex29-lvlu1-lvl7-2] mit Ausnahme von Mikroperlen enthaltenden Produkten</td><td>17. Oktober 2029</td></tr>
+<tr><td>8</td><td>Pflanzenschutzmittel nach Artikel 2 Absatz 1 PSMV[^annex29-lvlu1-lvl7-3] und mit solchen Produkten behandeltes Saatgut sowie Biozidprodukte nach Artikel 2 Absatz 1 Buchstabe a der Biozidprodukteverordnung vom 18. Mai 2005[^annex29-lvlu1-lvl7-4] (VBP)</td><td>17. Oktober 2031</td></tr>
+<tr><td>9</td><td>Einstreugranulat für synthetische Sportböden</td><td>17. Oktober 2031</td></tr>
+<tr><td>10</td><td>Lippen- und Nagelmittel sowie Make-up-Produkte im Sinne von Artikel 53 LGV mit Ausnahme von Mikroperlen enthaltenden Produkten oder Produkten, die unter die Nummern 5 oder 1 fallen</td><td>17. Oktober 2035</td></tr>
+</table>
+
+- b. alle übrigen Produkte, die vor dem 1. Juni 2026 erstmals in Verkehr gebracht worden sind.
+
+<sup>2</sup> Wer eine Zubereitung nach Absatz 1 Buchstabe a in Verkehr bringt, hat der zuständigen kantonalen Behörde auf Anfrage Unterlagen über die Funktion des Mikroplastiks in der Zubereitung vorzulegen, welche die Einhaltung der jeweiligen Voraussetzungen für das Inverkehrbringen der Zubereitung nachweisen.
+
+<sup>3</sup> Die Verbote nach Ziffer 2.2 gelten nicht für das Inverkehrbringen und die Verwendung oxo-abbaubarer Kunststoffe, die vor dem 1. Oktober 2022 erstmals in Verkehr gebracht worden sind.
+
+<sup>4</sup> Liegt für Schaumstoffe und Gegenstände mit Schaumstoffen, die gestützt auf Ziffer 3.3 Absätze 1, 2 oder 4 verwendet werden durften, aufgrund einer Änderung des Standes der Technik ein Ersatz vor, so dürfen diese Schaumstoffe und Gegenstände noch während 12 Monaten hergestellt, zu beruflichen oder gewerblichen Zwecken eingeführt sowie während weiterer 6 Monate an Dritte abgegeben werden.
+
+<sup>5</sup> Bis zum 30. November 2026 ist anstelle der Kennzeichnung nach Ziffer 3.4 eine Kennzeichnung nach Ziffer 4 Absatz 1 des bisherigen Rechts zulässig.
+
+<sup>6</sup> Die Verbote nach Ziffer 5.2.2 Absatz 2 der Herstellung und des Inverkehrbringens gelten nicht für:
+
+- a.
+
+  folgende rückgewonnenes Hart-PVC enthaltende Gegenstände, wenn deren Blei-Gehalt 1,5 Massenprozent nicht übersteigt, soweit das Blei auf rückgewonnenes PVC zurückzuführen ist und wenn die Gegenstände vor dem 29. Mai 2033 erstmals in Verkehr gebracht worden sind:
+
+  - 1\. Profile und Platten für Aussenanwendungen in Hoch- und Tiefbauwerken, ausser für Decks und Terrassen,
+  - 2\. Profile und Platten für Decks und Terrassen, sofern das rückgewonnene PVC in einer mittleren Schicht verwendet wird und vollständig mit einer Schicht aus PVC oder einem anderen Material mit einem Gehalt an Blei von weniger als 0,1 Massenprozent bedeckt ist,
+  - 3\. Profile und Platten zur Verwendung in verdeckten Bereichen oder Hohlräumen in Hoch- und Tiefbauwerken, soweit sie während der normalen Nutzung nicht zugänglich sind, ausser für Instandhaltungszwecke,
+  - 4\. Profile und Platten für Innenanwendungen bei Gebäuden, sofern die gesamte Fläche des Profils oder der Platte, die den belegten Bereichen eines Gebäudes nach dem Einbau zugewandt ist, aus PVC oder einem anderen Material mit einem Gehalt an Blei von weniger als 0,1 Massenprozent hergestellt ist,
+  - 5\. Mehrschichtrohre ausgenommen Trinkwasserrohre, sofern das rückgewonnene PVC in einer mittleren Schicht verwendet wird und vollständig mit einer Schicht aus PVC oder einem anderen Material mit einem Gehalt an Blei von weniger als 0,1 Massenprozent bedeckt ist, soweit das rückgewonnene PVC nach dem 31. Oktober 2027 nicht aus Profilen und Platten nach den Ziffern 1–4 mit einem Gehalt an Blei von 0,1 Massenprozent und mehr stammt,
+  - 6\. Anschlussteile, ausgenommen Anschlussteile für Trinkwasserrohre, soweit das rückgewonnene PVC nach dem 31. Oktober 2027 nicht aus Profilen und Platten nach den Ziffern 1–4 mit einem Gehalt an Blei von 0,1 Massenprozent und mehr stammt;
+
+- b. PVC-Silizium-Separatoren in Bleibatterien, wenn sie vor dem 29. Mai 2033 erstmals in Verkehr gebracht worden sind;
+- c. alle übrigen Gegenstände sowie Zubereitungen, wenn sie vor dem 1. Dezember 2026 erstmals in Verkehr gebracht worden sind.
+
+<sup>7</sup> Die Übergangsbestimmung nach Absatz 6 Buchstabe a gilt unter dem Vorbehalt, dass die Gegenstände ab dem 1. Dezember 2026 mit folgender besonderer Kennzeichnung versehen sind: «Enthält ≥ 0.1 % Blei». Kann die Aufschrift aufgrund der Beschaffenheit des Gegenstands nicht auf diesem angebracht werden, ist sie auf dessen Verpackung anzugeben.
+
+<sup>8</sup> Wer einen Gegenstand nach Absatz 6 Buchstabe a in Verkehr bringt, hat der kantonalen Behörde auf Anfrage Unterlagen vorzulegen, welche die Menge und Herkunft von rückgewonnenem PVC im Gegenstand belegen und die Einhaltung der jeweiligen Voraussetzungen für das Inverkehrbringen des Gegenstands nachweisen, insbesondere mittels Zertifikaten, die auf den technischen Spezifikationen der Norm SN EN 15343:2008[^annex29-lvlu1-lvl7-5] beruhen.
+
+[^annex29-lvlu1-lvl7-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex29-lvlu1-lvl7-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex29-lvlu1-lvl7-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annex29-lvlu1-lvl7-4]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex29-lvlu1-lvl7-5]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
 
 Anhang 2.10[^t-30]
 
@@ -5469,22 +5688,16 @@ Anhang 2.17[^t-37]
 
 (Art. 3)
 
-## Holzwerkstoffe
+## Gegenstände auf Holzwerkstoffbasis und weitere Harz enthaltende Gegenstände
 
-[^t-37]: Bereinigt gemäss Ziff. I der V vom 13. Febr. 2008, in Kraft seit 1. März 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-37]: Fassung gemäss Ziff. I Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-### 1 Begriffe
+### 1 Verbote
 
-<sup>1</sup> Holzwerkstoffe sind aus Holzspänen oder -fasern geformte Gegenstände, insbesondere Spanplatten und Faserplatten in roher oder beschichteter Form.
-
-<sup>2</sup> Sekundärrohstoff ist gebrauchtes Holz (Altholz), welches bei der Herstellung von Holzwerkstoffen verwendet wird.
-
-### 2 Verbote
-
-Holzwerkstoffe dürfen durch eine Herstellerin nicht in Verkehr gebracht werden, wenn der Massengehalt folgender Stoffe die aufgeführten Grenzwerte übersteigt:
+<sup>1</sup> Holzspanwerkstoffe und Holzfaserwerkstoffe, insbesondere Span- und Faserplatten in roher oder beschichteter Form, dürfen durch eine Herstellerin nicht in Verkehr gebracht werden, wenn der Massengehalt folgender Stoffe die aufgeführten Grenzwerte im Werkstoff überschreitet:
 
 <table>
-<tr><td>Stoff</td><td>Grenzwert in Milligramm pro Kilogramm Trockensubstanz</td></tr>
+<tr><th>Stoff</th><th>Grenzwert in Milligramm pro Kilogramm Trockensubstanz (mg/kg TS)</th></tr>
 <tr><td>Arsen (As)</td><td>25</td></tr>
 <tr><td>Blei (Pb)</td><td>90</td></tr>
 <tr><td>Cadmium (Cd)</td><td>50</td></tr>
@@ -5493,18 +5706,52 @@ Holzwerkstoffe dürfen durch eine Herstellerin nicht in Verkehr gebracht werden,
 <tr><td>Pentachlorphenol (PCP, CAS-Nr. 87-86-5)</td><td>5</td></tr>
 </table>
 
-### 3 Ausnahmen
+<sup>2</sup> Folgende Gegenstände dürfen nicht in Verkehr gebracht werden, wenn die Freisetzung von Formaldehyd (CAS-Nr. 50-00-0) aus den Gegenständen unter den in Anhang XVII Anlage 14 Nummer 1 der Verordnung (EG) Nr. 1907/2006[^annex217-lvlu1-lvl1-1] beschriebenen Prüfbedingungen zu Konzentrationen in einer Testkammer führt, welche die aufgeführten Grenzwerte überschreiten:
 
-<sup>1</sup> Die Verbote nach Ziffer 2 gelten nicht für die Einfuhr von Holzwerkstoffen, wenn sie im Inland nur veredelt oder anders verpackt und in vollem Umfang wieder ausgeführt werden.
+<table>
+<tr><th>Gegenstand</th><th>Grenzwert für Formaldehyd in Milligramm pro Kubikmeter (mg/m<sup>3</sup>)</th></tr>
+<tr><td>Gegenstände, insbesondere Möbel, auf Holzwerkstoffbasis</td><td>0,062</td></tr>
+<tr><td>andere Gegenstände, ausser Strassenfahrzeugen</td><td>0,080</td></tr>
+</table>
 
-<sup>2</sup> Das BAFU kann im Einvernehmen mit dem BAG auf begründeten Antrag Ausnahmen von den Verboten nach Ziffer 2 zulassen, wenn:
+<sup>3</sup> Strassenfahrzeuge dürfen nicht in Verkehr gebracht werden, wenn sie Gegenstände enthalten, deren Freisetzung von Formaldehyd unter den in Anhang XVII Anlage 14 Nummer 2 der Verordnung (EG) Nr. 1907/2006 beschriebenen Prüfbedingungen zu einer Konzentration im Innern dieser Fahrzeuge führt, die den Wert von 0,062 mg/m<sup>3</sup> überschreitet.
 
-- a. Grenzwertüberschreitungen nicht auf den Sekundärrohstoff zurückzuführen sind; und
-- b. Holzwerkstoffe nicht mehr der aufgeführten Stoffe enthalten, als für die Herstellung aus technischen Gründen erforderlich oder für die bestimmungsgemässe Verwendung nötig ist.
+[^annex217-lvlu1-lvl1-1]: Siehe Fussnote zu Anhang 2.9 Ziffer 1.1 Absatz 6 Buchstabe b.
 
-### 4 Übergangsbestimmung
+### 2 Ausnahmen
 
-Die Verbote nach Ziffer 2 treten am 1. August 2006 in Kraft.
+<sup>1</sup> Das Verbot nach Ziffer 1 Absatz 2 gilt nicht für das Inverkehrbringen von:
+
+- a. Gegenständen, die Biozidprodukte nach Artikel 2 Absatz 1 Buchstabe a VBP[^annex217-lvlu1-lvl2-1] sind;
+- b. Medizinprodukten nach Artikel 4 Absatz 1 Buchstabe b HMG[^annex217-lvlu1-lvl2-2];
+- c. Bedarfsgegenständen nach Artikel 48 LGV[^annex217-lvlu1-lvl2-3];
+- d. persönlichen Schutzausrüstungen nach Artikel 3 Nummer 1 der Verordnung (EU) 2016/425[^annex217-lvlu1-lvl2-4];
+- e. textilen Materialen und Ledererzeugnissen, für die gestützt auf Artikel 64 Absatz 2 LGV Beschränkungen für den Gehalt an Formaldehyd festgelegt worden sind;
+- f. gebrauchten Gegenständen.
+
+<sup>2</sup> Das Verbot nach Ziffer 1 Absatz 2 gilt nicht für das Inverkehrbringen, wenn:
+
+- a. Formaldehyd und Formaldehydabspalter ausschliesslich natürlich in den Materialien vorkommen, aus denen die Gegenstände hergestellt worden sind;
+- b. die vorhersehbare Nutzung der Gegenstände ausschliesslich im Freien stattfindet;
+- c. die Gegenstände ausschliesslich zur Verwendung ausserhalb der Hülle oder der Dampfsperre eines Gebäudes bestimmt sind und kein Formaldehyd in die Innenraumluft freigesetzt wird;
+- d. die Gegenstände ausschliesslich für die industrielle oder gewerbliche Verwendung bestimmt sind und das aus ihnen freigesetzte Formaldehyd bei vorhersehbarer Nutzung nicht zu einer Exposition der breiten Öffentlichkeit führt.
+
+<sup>3</sup> Das Verbot nach Ziffer 1 Absatz 3 gilt nicht für das Inverkehrbringen von:
+
+- a. Strassenfahrzeugen, die ausschliesslich für die industrielle oder gewerbliche Verwendung bestimmt sind, wenn die Konzentration von Formaldehyd im Innern der Fahrzeuge bei vorhersehbarer Nutzung nicht zu einer Exposition der breiten Öffentlichkeit führt;
+- b. Gebrauchtfahrzeugen.
+
+[^annex217-lvlu1-lvl2-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex217-lvlu1-lvl2-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex217-lvlu1-lvl2-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex217-lvlu1-lvl2-4]: Siehe Fussnote zu Anhang 1.16 Ziffer 4.3 Absatz 1 Buchstabe a.
+
+### 3 Übergangsbestimmungen
+
+Die Verbote nach Ziffer 1 Absätze 2 und 3 gelten nicht für das Inverkehrbringen von:
+
+- a. Gegenständen, die in der Schweiz oder einem Mitgliedsstaat der EU oder EFTA vor dem 1. Juni 2027 erstmals in Verkehr gebracht worden sind;
+- b. Strassenfahrzeugen, die in der Schweiz oder einem Mitgliedsstaat der EU oder EFTA vor dem 6. August 2027 erstmals in Verkehr gebracht worden sind.
 
 Anhang 2.18[^t-38]
 

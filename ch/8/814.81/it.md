@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2025-10-01
+version: 2025-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251001-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251201-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251001/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° ottobre 2025)
+del 18 maggio 2005 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -120,13 +120,13 @@ Per i seguenti impieghi è necessaria lʼautorizzazione delle autorità sottoind
 <table>
 <tr><th>Impiego</th><th colspan="3">Autorità che rilascia lʼautorizzazione</th></tr>
 <tr><td colspan="2">a. lʼimpiego a titolo professionale o commerciale di prodotti fitosanitari per la lotta contro i roditori (rodenticidi) a livello interaziendale o con lʼuso di macchine</td><td colspan="2">autorità cantonale; per impieghi regionali e transregionali, dʼintesa con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), lʼUfficio federale dellʼagricoltura (UFAG) e lʼUfficio federale dellʼambiente (UFAM)</td></tr>
-<tr><td colspan="2">b.[^4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, biocidi e concimi dall’aria</td><td colspan="2">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
-<tr><td colspan="2">c.[^4-3] l’impiego di biocidi, prodotti fitosanitari e concimi nel bosco se essi non sono inclusi in un’autorizzazione secondo la lettera a o b</td><td colspan="2">autorità cantonale</td></tr>
+<tr><td colspan="2">b.[^4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, sostanze di base, biocidi e concimi dall’aria</td><td colspan="2">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
+<tr><td colspan="2">c.[^4-3] l’impiego di prodotti fitosanitari, di sostanze di base e di concimi nel bosco se essi non sono inclusi in un’autorizzazione secondo le lettere a o b</td><td colspan="2">autorità cantonale</td></tr>
 </table>
 
 [^4-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
-[^4-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^4-3]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° ott. 2025 ([RU 2025 544](https://fedlex.data.admin.ch/eli/oc/2025/544)).
+[^4-2]: Nuovo testo giusta l’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^4-3]: Nuovo testo giusta l’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 4a
 
@@ -331,7 +331,7 @@ Alla Confederazione competono:
 <sup>3</sup> Se le sostanze, i preparati o gli oggetti controllati o la loro utilizzazione danno adito a contestazioni, l’autorità incaricata del controllo ne informa le autorità competenti per le decisioni in virtù dell’articolo 19. Se queste ultime sono autorità cantonali, l’autorità incaricata del controllo informa inoltre lʼUFSP, lʼUFAM e la SECO come pure l’USAV e l’UFAG in caso di contestazioni riguardanti prodotti fitosanitari e l’UFAG in caso di contestazioni riguardanti concimi.[^18-2]
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
-[^18-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° set. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)).
+[^18-2]: Nuovo testo giusta l’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 19
 
@@ -341,16 +341,18 @@ Se da un controllo risulta che sono state violate delle disposizioni della prese
 
 #### Art. 20
 
-**Consulenza tecnica per l’impiego di concimi e prodotti fitosanitari**
+**Consulenza tecnica per l’impiego di concimi, prodotti fitosanitari e sostanze di base**[^20-1]
 
-<sup>1</sup> I Cantoni provvedono affinché sia offerta una consulenza tecnica per l’impiego dei concimi e dei prodotti fitosanitari; essi ne garantiscono il finanziamento.
+<sup>1</sup> I Cantoni provvedono affinché sia offerta una consulenza tecnica per l’impiego dei concimi, dei prodotti fitosanitari e delle sostanze di base; essi ne garantiscono il finanziamento.
 
 <sup>2</sup>
 
-Possono disporre che le persone che impiegano a titolo professionale o commerciale concimi o prodotti fitosanitari in zone inquinate debbano:
+Possono disporre che le persone che impiegano a titolo professionale o commerciale concimi, prodotti fitosanitari e sostanze di base in zone inquinate debbano:
 
 - a. ricorrere a tal fine alla consulenza tecnica;
 - b. mettere a disposizione i dati aziendali necessari a detta consulenza.
+
+[^20-1]: Nuovo testo giusta l’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 #### Art. 21
 
@@ -401,7 +403,7 @@ Allegati[^t-1]
 
 ## 1 Disposizioni per determinate sostanze
 
-[^t-1]: Aggiornato dalla cifra I dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Nuovo testo giusta la cifra I dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)).
+[^t-1]: Aggiornato dalla cifra I delle O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), del 27 nov. 2024 ([RU 2024 745](https://fedlex.data.admin.ch/eli/oc/2024/745)) ), del 27 nov. 2024 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)) e dalla cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 - 1\.1 Inquinanti organici persistenti
 - 1\.2 Sostanze organiche alogenate
@@ -429,7 +431,7 @@ Allegati[^t-1]
 - 2\.2 Prodotti di pulizia e disodorizzanti
 - 2\.3 Solventi
 - 2\.4 Biocidi
-- 2\.5 Prodotti fitosanitari
+- 2\.5 Prodotti fitosanitari e sostanze di base
 - 2\.6 Concimi
 - 2\.7 Prodotti disgelanti
 - 2\.8 Pitture e lacche
@@ -441,7 +443,7 @@ Allegati[^t-1]
 - 2\.14 Condensatori e trasformatori
 - 2\.15 Pile
 - 2\.16 Disposizioni particolari concernenti i metalli
-- 2\.17 Materiali legnosi
+- 2\.17 Oggetti a base di materiali legnosi e altri oggetti contenenti resina
 - 2\.18 Apparecchiature elettriche ed elettroniche
 
 Allegato 1
@@ -548,7 +550,7 @@ Allegato 1.2[^t-3]
 
 ## Sostanze organiche alogenate
 
-[^t-3]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Aggiornato dalla cifra I dell O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e cifra I cpv. 3 del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1 Divieti
 
@@ -597,7 +599,6 @@ Allegato 1.2[^t-3]
 - b. *Composti simili al DDT*
   - – diclorodifenildicloroetilene (DDE);
   - – diclorodifenildicloroetano (DDD);
-  - – metossicloro (n. CAS 72-43-5);
   - – pertano (n. CAS 72-56-0).
 
 - c. *Quintozene* (n. CAS 82-68-8).
@@ -1318,7 +1319,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -2164,7 +2165,7 @@ Allegato 1.16[^t-17]
 
 ## Sostanze per- e polifluoroalchiliche
 
-[^t-17]: Introdotto dalla cifra I n. 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). La correzione del 6 ott. 2022 concerne soltanto il testo francese ([RU 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)).
+[^t-17]: Introdotto dalla cifra I n. 4 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)). Aggiornato dalla correzione del 6 ott. 2022 concerne soltanto il testo francese ([RU 2022 560](https://fedlex.data.admin.ch/eli/oc/2022/560)) e dalla cifra I cpv. 3 dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
 ### 1. Acido perfluorottano sulfonato e suoi derivati
 
@@ -2276,25 +2277,69 @@ I divieti di cui al numero 2.2 non si applicano alla fabbricazione, all’immiss
 
 <sup>3</sup> I divieti di cui al numero 3.2 capoversi 1 e 2 non si applicano inoltre agli impieghi a scopo di analisi e di ricerca.
 
-### 4 Fluoroalchilsilanoli e loro derivati
+### 4 Acido perfluoroesanoico e le sue sostanze correlate
 
 ### 4.1 Definizioni
+
+<sup>1</sup> Sono considerate sostanze correlate dell’acido perfluoroesanoico sotto forma dei suoi isomeri lineari o ramificati e dei suoi sali (PFHxA):
+
+- a. le sostanze, compresi i polimeri con un gruppo perfluoropentanoico lineare o ramificato con la formula C<sub>5</sub>F<sub>11</sub> direttamente collegato a un altro atomo di carbonio come elemento strutturale, che vengono degradate a PFHxA;
+- b. le sostanze con un gruppo perfluoroesanoico lineare o ramificato con la formula C<sub>6</sub>F<sub>13</sub> come elemento strutturale che vengono degradate a PFHxA.
+
+<sup>2</sup> Il capoverso 1 non si applica:
+
+- a. alle sostanze con formula bruta C<sub>6</sub>F<sub>14</sub>;
+- b. all’acido perfluoroeptanoico (n. CAS 375-85-9), ai suoi sali e ai suoi derivati con l’elemento strutturale C<sub>6</sub>F<sub>13</sub>(CO)OX, dove X sta per: qualsiasi gruppo;
+- c. all’acido perfluoroesano sulfonico e ai suoi derivati (PFHxS) di cui al numero 2.1;
+- d. a qualsiasi sostanza con un gruppo perfluoroalchilico con l’elemento strutturale C<sub>6</sub>F<sub>13</sub>, direttamente collegato a un atomo di ossigeno su un atomo di carbonio che non si trova alla fine della catena;
+- e. ad altre sostanze con l’elemento strutturale C<sub>6</sub>F<sub>13</sub>(CF<sub>2</sub>)X, dove X sta per: qualsiasi gruppo.
+
+<sup>3</sup> Sono considerati prodotti tessili, cuoio, pellicce, pelli e calzature destinati al grande pubblico i prodotti costituiti interamente o in parte da queste merci che sono utilizzati direttamente dal grande pubblico o per l’arredamento e il rivestimento di spazi frequentati dal grande pubblico, come i mezzi di trasporto, gli uffici o altri luoghi pubblici.
+
+### 4.2 Divieti
+
+<sup>1</sup> Sono vietate la fabbricazione e l’immissione sul mercato di:
+
+- a. cosmetici secondo l’articolo 53 dell’ordinanza del 16 dicembre 2016[^annex116-lvlu1-lvl4-lvl42-1] sulle derrate alimentari e gli oggetti d’uso (ODerr), se il loro contenuto in massa di PFHxA è superiore allo 0,0000025 per cento (25 ppb) o il loro contenuto in massa della somma delle sostanze correlate del PFHxA è superiore allo 0,0001 per cento (1000 ppb);
+- b. materiali e oggetti secondo l’articolo 48 ODerr di carta o cartone, se il loro contenuto in massa di PFHxA è superiore allo 0,0000025 per cento (25 ppb) o il loro contenuto in massa della somma delle sostanze correlate del PFHxA è superiore allo 0,0001 per cento (1000 ppb) nel materiale omogeneo.
+
+<sup>2</sup> È vietata l’immissione sul mercato di prodotti tessili, cuoio, pellicce, pelli e calzature destinati al grande pubblico se il contenuto in massa di PFHxA delle merci è superiore allo 0,0000025 per cento (25 ppb) o il contenuto in massa della somma delle sostanze correlate del PFHxA delle merci è superiore allo 0,0001 per cento (1000 ppb) nel materiale omogeneo.
+
+<sup>3</sup> È vietata la fornitura al grande pubblico di preparati, se il loro contenuto in massa di PFHxA è superiore allo 0,0000025 per cento (25 ppb) o il loro contenuto in massa della somma delle sostanze correlate del PFHxA è superiore allo 0,0001 per cento (1000 ppb).
+
+[^annex116-lvlu1-lvl4-lvl42-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+
+### 4.3 Deroghe
+
+<sup>1</sup> Il divieto di cui al numero 4.2 capoverso 2 non si applica all’immissione sul mercato di:
+
+- a. dispositivi di protezione individuale destinati a proteggere i consumatori dai rischi della categoria III lettere a, c–f, h e l secondo l’allegato I del regolamento (UE) 2016/425[^annex116-lvlu1-lvl4-lvl43-1];
+- b. materiali tessili da costruzione.
+
+<sup>2</sup> Il divieto di cui al numero 4.2 capoverso 3 non si applica alla fornitura di dispositivi medici secondo l’articolo 4 capoverso 1 lettera b della legge del 15 dicembre 2000[^annex116-lvlu1-lvl4-lvl43-2] sugli agenti terapeutici (LATer).
+
+[^annex116-lvlu1-lvl4-lvl43-1]: Regolamento (UE) 2016/425 del Parlamento europeo e del Consiglio, del 9 marzo 2016, sui dispositivi di protezione individuale e che abroga la direttiva 89/686/CEE del Consiglio, versione della GU L 81 del 31.3.2016, pag. 51.
+[^annex116-lvlu1-lvl4-lvl43-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+
+### 5 Fluoroalchilsilanoli e loro derivati
+
+### 5.1 Definizioni
 
 <sup>1</sup> Sono considerati fluoroalchilsilanoli e loro derivati le sostanze con l’elemento strutturale C6F13(C2H4)Si(OH)n(OX)3-n con 0 ≤ n ≤ 3, dove X sta per: qualsiasi gruppo alchilico.
 
 <sup>2</sup> Le confezioni aerosol, gli spray a pompa e gli atomizzatori sono considerati come confezioni spray.
 
-### 4.2 Divieti
+### 5.2 Divieti
 
 <sup>1</sup> È vietata la fornitura al grande pubblico di preparati contenenti solventi organici in confezioni spray con un contenuto in massa di fluoroalchilsilanoli e loro derivati pari o superiore allo 0,0000002 per cento (2 ppb).
 
 <sup>2</sup> Il divieto di cui al capoverso 1 si applica anche ai preparati destinati alla ricarica delle confezioni spray.
 
-### 4.3 Etichettatura particolare
+### 5.3 Etichettatura particolare
 
-Sull’imballaggio di preparati che rientrano nei divieti di cui al numero 4.2 devono figurare le seguenti diciture: «Solo per utilizzatori professionali» e «Letale se inalato».
+Sull’imballaggio di preparati che rientrano nei divieti di cui al numero 5.2 devono figurare le seguenti diciture: «solo per utilizzatori professionali» e «letale se inalato».
 
-### 5 Disposizioni transitorie
+### 6 Disposizioni transitorie
 
 <sup>1</sup> I divieti di cui al numero 1.2 capoverso 1 non si applicano fino al 1° aprile 2024 all’impiego di prodotti contenenti PFOS per l’abbattimento di nebbie per la cromatura dura (cromo VI) a carattere non decorativo utilizzati in sistemi a ciclo chiuso nonché alle sostanze e ai preparati per la loro fabbricazione se nella fabbricazione dei prodotti e nel loro impiego le emissioni di PFOS nell’ambiente sono limitate al minimo.
 
@@ -2355,6 +2400,15 @@ Sull’imballaggio di preparati che rientrano nei divieti di cui al numero 4.2 d
 - b. nelle installazioni per la protezione di impianti, compreso l’impiego per i necessari controlli delle funzioni di tali installazioni, nella misura in cui le schiume antincendio impiegate nell’ambito dei controlli sono raccolte e smaltite nel rispetto dell’ambiente: fino al 31 dicembre 2025.
 
 <sup>6</sup> I fluoropolimeri contenenti gruppi perfluoroalcossi di cui al numero 3.3 capoverso 1 lettera e possono essere immessi sul mercato e impiegati fino al 25 agosto 2024, se il loro contenuto in massa della somma di PFCA C<sub>9</sub>–C<sub>14</sub> non supera lo 0,0002 per cento (2000 ppb).
+
+<sup>7</sup> I divieti di cui al numero 4.2 capoverso 1 non si applicano alla fabbricazione e all’immissione sul mercato dei cosmetici nonché dei materiali e oggetti in questione fino al 31 ottobre 2026.
+
+<sup>8</sup> Il divieto di cui al numero 4.2 capoverso 2 non si applica all’immissione sul mercato di prodotti tessili, cuoio, pellicce, pelli e calzature destinati al grande pubblico che:
+
+- a. servono per l’abbigliamento e sono stati immessi per la prima volta sul mercato prima del 1° novembre 2026;
+- b. servono a tutti gli altri scopi e sono stati immessi per la prima volta sul mercato prima del 1° novembre 2027.
+
+<sup>9</sup> Il divieto di cui al numero 4.2 capoverso 3 non si applica alla fornitura di preparati fino al 31 ottobre 2026.
 
 Allegato 1.17[^t-18]
 
@@ -3436,15 +3490,15 @@ Allegato 2.5[^t-25]
 
 (art. 3)
 
-## Prodotti fitosanitari
+## Prodotti fitosanitari e sostanze di base
 
-[^t-25]: Aggiornato dalla cifra I n. 3 dell’O del 29 giu. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla cifra I dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-25]: Aggiornato dalla cifra I n. 3 dell’O del 29 giu. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dall’all. 9 n. 1 dell’O del 23 ott. 2013 sui pagamenti diretti ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)), dall’all. n. 2 dell’O del 4 nov. 2015 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)), dalla cifra I dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), dall’all. n. 2 dell’O dell’11 mar. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)) e dall’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 ### 1 Impiego
 
 ### 1.1 Divieti e limitazioni
 
-<sup>1</sup> I prodotti fitosanitari non possono essere impiegati:
+<sup>1</sup> I prodotti fitosanitari e le sostanze di base non possono essere impiegati:
 
 - a. in regioni che, in virtù del diritto federale o cantonale, sono classificate come riserve naturali, sempre che le relative prescrizioni non dispongano altrimenti;
 - b. nei cariceti e nelle paludi;
@@ -3454,41 +3508,40 @@ Allegato 2.5[^t-25]
 - f. nella zona S1 di protezione delle acque sotterranee;
 - g. su e lungo binari ferroviari nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee.
 
-<sup>2</sup> I prodotti fitosanitari destinati a distruggere piante o parti di piante indesiderate o a influenzare la crescita indesiderata delle piante non possono inoltre essere impiegati:
+<sup>2</sup> I prodotti fitosanitari e le sostanze di base destinati a distruggere piante o parti di piante indesiderate o a influenzare la crescita indesiderata delle piante non possono inoltre essere impiegati:
 
 - a. su tetti e terrazze;
 - b. su spiazzi adibiti a deposito;
 - c. su e lungo strade, sentieri e spiazzi;
 - d. su scarpate e strisce verdi lungo le strade e i binari ferroviari.
 
-<sup>3</sup> L’impiego di prodotti fitosanitari nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee è disciplinato dall’ordinanza del 12 maggio 2010[^annex25-lvlu1-lvl1-lvl11-3] sui prodotti fitosanitari.
+<sup>3</sup> ...
 
-<sup>4</sup> Per l’impiego di prodotti fitosanitari nei settori di alimentazione Z<sub>u</sub> e Z<sub>o</sub> i Cantoni, tenendo conto delle deroghe di cui al numero 1.2 capoversi 2, 4 e 5, fissano limitazioni che vanno oltre i requisiti posti dai capoversi 1 e 2 se ciò è necessario per la protezione delle acque. In particolare, limitano l’impiego di un prodotto fitosanitario nel settore d’alimentazione Z<sub>u</sub> se questo viene rilevato in un punto di captazione d’acqua potabile e se, ripetutamente, non vengono rispettati i requisiti fissati per le acque sotterranee utilizzate o che si prevede di utilizzare.
+<sup>4</sup> Per l’impiego di prodotti fitosanitari nei settori di alimentazione Z<sub>u</sub> e Z<sub>o</sub> i Cantoni, tenendo conto delle deroghe di cui al numero 1.2 capoversi 2, 4 e 5, fissano restrizioni che vanno oltre i requisiti posti dai capoversi 1 e 2 se ciò è necessario per la protezione delle acque. In particolare, limitano l’impiego di un prodotto fitosanitario nel settore d’alimentazione Z<sub>u</sub> se le sostanze attive in esso contenute o i suoi prodotti di degradazione sono ripetutamente rilevati in un punto di captazione delle acque sotterranee di interesse pubblico.
 
-<sup>5</sup> Per l’impiego di prodotti fitosanitari su e lungo binari ferroviari fuori dalle zone S1, S2 e S<sub>h</sub> di protezione delle acque sotterranee l’Ufficio federale dei trasporti stabilisce le limitazioni e i divieti necessari per la protezione dell’ambiente. A tal fine tiene conto della situazione locale e, prima di adottare una decisione, consulta i Cantoni interessati.
+<sup>5</sup> Per l’impiego di prodotti fitosanitari e sostanze di base su e lungo binari ferroviari fuori dalle zone S1, S2 e S<sub>h</sub> di protezione delle acque sotterranee, l’Ufficio federale dei trasporti stabilisce le restrizioni e i divieti necessari per la protezione dell’ambiente. A tal fine tiene conto della situazione locale e, prima di adottare una decisione, consulta i Cantoni interessati.
 
 [^annex25-lvlu1-lvl1-lvl11-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex25-lvlu1-lvl1-lvl11-2]: Il promemoria può essere richiesto presso Agridea, 8315 Lindau.
-[^annex25-lvlu1-lvl1-lvl11-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### 1.2 Deroghe
 
-<sup>1</sup> I divieti di cui al numero 1.1 capoverso 1 lettere a e b non si applicano all’impiego di prodotti fitosanitari destinati a conservare i raccolti in impianti o edifici chiusi se delle misure di sicurezza garantiscono che tali prodotti fitosanitari e i loro prodotti di degradazione non siano dilavati o si infiltrino nel suolo.
+<sup>1</sup> I divieti di cui al numero 1.1 capoverso 1 lettere a e b non si applicano all’impiego di prodotti fitosanitari e sostanze di base destinati a conservare i raccolti in impianti o edifici chiusi se misure di sicurezza garantiscono che tali prodotti e i loro prodotti di degradazione non siano dilavati o si infiltrino nel suolo.
 
 <sup>2</sup> I divieti di cui al numero 1.1 capoverso 1 lettere c e d, nella misura in cui la lettera d concerne pascoli alberati o una striscia di tre metri di larghezza lungo il margine del bosco, non si applicano ai trattamenti pianta per pianta su piante problematiche, sempre che esse non possano essere combattute efficacemente con altre misure, come lo sfalcio regolare.
 
-<sup>3</sup> Se nel bosco non è possibile sostituire i prodotti fitosanitari con misure meno inquinanti, l’autorità cantonale competente concede, in deroga al divieto di cui al numero 1.1 capoverso 1 lettera d, un’autorizzazione secondo gli articoli 4‒6 per l’uso di prodotti fitosanitari:
+<sup>3</sup> Se nel bosco non è possibile sostituire i prodotti fitosanitari e le sostanze di base con misure meno inquinanti, l’autorità cantonale competente concede, in deroga al divieto di cui al numero 1.1 capoverso 1 lettera d, un’autorizzazione secondo gli articoli 4‒6 per l’uso di prodotti fitosanitari e sostanze di base:
 
 - a. per il trattamento nel bosco del legname da cui possono scaturire danni al patrimonio forestale in seguito a catastrofi naturali, nonché contro gli agenti nocivi medesimi, se ciò è indispensabile per la conservazione del patrimonio forestale;
 - b. per il trattamento del legname tagliato in spiazzi adeguati e mediante insetticidi che, in virtù dell’ordinanza sui prodotti fitosanitari, sono omologati per la coltura «Tronchi abbattuti nella foresta e presso piazzali di deposito», a condizione che il legname non possa essere rimosso in tempo, che tali spiazzi non si trovino nelle zone S1, S2 e S<sub>h</sub> di protezione delle acque sotterranee e che siano adottate misure efficaci per evitare che i prodotti fitosanitari siano dilavati e si infiltrino nel suolo;
 - c. per i vivai forestali al di fuori delle zone S1, S2, S3 e S<sub>h</sub> di protezione delle acque sotterranee;
 - d. per l’eliminazione dei danni causati dalla fauna selvatica alle rinnovazioni naturali come pure alle piantagioni o ai rimboschimenti se ciò è indispensabile per la conservazione del patrimonio forestale.
 
-<sup>3bis</sup> In deroga al divieto di cui al numero 1.1 capoverso 1 lettera g, l’Ufficio federale dei trasporti concede nei singoli casi, d’intesa con l’UFAM, un’autorizzazione per l’uso di prodotti fitosanitari nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee se:
+<sup>3bis</sup> In deroga al divieto di cui al numero 1.1 capoverso 1 lettera g, l’Ufficio federale dei trasporti concede nei singoli casi, d’intesa con l’UFAM, un’autorizzazione per l’uso di prodotti fitosanitari o sostanze di base nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee se:
 
 - a. il binario ferroviario si trova in una vasca impermeabile;
 - b. le acque di scarico sono smaltite al di fuori delle zone S2 o S<sub>h</sub> di protezione delle acque sotterranee; e
-- c. la sostituzione dei prodotti fitosanitari con misure meno inquinanti risulta sproporzionata.
+- c. la sostituzione dei prodotti fitosanitari o sostanze di base con misure meno inquinanti risulta sproporzionata.
 
 <sup>4</sup> Il divieto di cui al numero 1.1 capoverso 2 lettera c non si applica ai trattamenti pianta per pianta su piante problematiche lungo le strade nazionali e cantonali, sempre che non possano essere combattute efficacemente con altre misure, come lo sfalcio regolare.
 
@@ -3496,17 +3549,15 @@ Allegato 2.5[^t-25]
 
 ### 2 Etichettatura particolare
 
-<sup>1</sup> Per i prodotti fitosanitari omologati secondo l’articolo 15 lettera a dell’OPF e destinati a distruggere piante o parti di piante indesiderate o a influenzare la crescita indesiderata delle piante, i detentori delle autorizzazioni, mediante un’etichetta o un’altra indicazione scritta equivalente, devono informare gli acquirenti sui divieti di cui al numero 1.1 capoverso 2.
+<sup>1</sup> Per i prodotti fitosanitari omologati secondo l’ordinanza del 20 agosto 2025[^annex25-lvlu1-lvl2-1] sui prodotti fitosanitari (OPF) e destinati a distruggere piante o parti di piante indesiderate o a influenzare la crescita indesiderata delle piante, i titolari dell’omologazione, mediante un’etichetta o un’altra indicazione scritta equivalente, devono informare gli acquirenti sui divieti di cui al numero 1.1 capoverso 2.
 
-<sup>2</sup> Chiunque importi un prodotto fitosanitario incluso nell’elenco di cui all’articolo 36 capoverso 1 OPF e destinati a distruggere piante o parti di piante indesiderate o a influenzare la crescita indesiderata delle piante, deve fornire agli acquirenti informazioni sui divieti secondo il numero 1.1 capoverso 2 mediante un’etichetta o un’altra indicazione scritta equivalente.
+<sup>2</sup> Chiunque importi un prodotto fitosanitario incluso nell’elenco di cui all’articolo 78 capoverso 2 OPF destinato a distruggere piante o parti di piante indesiderate o a influenzare la crescita indesiderata delle piante, deve fornire agli acquirenti informazioni sui divieti secondo il numero 1.1 capoverso 2 mediante un’etichetta o un’altra indicazione scritta equivalente.
 
 <sup>3</sup> L’etichetta di cui al capoverso 1 e l’informazione di cui al capoverso 2 devono fornire le seguenti indicazioni: «L’impiego su tetti e terrazze, su piazzali adibiti a deposito, su e lungo strade, sentieri e spiazzi, su scarpate e strisce verdi lungo le strade e i binari ferroviari è vietato».
 
-### 3 Obbligo di riconsegna
+[^annex25-lvlu1-lvl2-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
-<sup>1</sup> L’utilizzatore deve consegnare i prodotti fitosanitari che non può più impiegare o che vuole smaltire a una persona tenuta a riprenderli o a un centro di raccolta appositamente designato.
-
-<sup>2</sup> Le piccole quantità di prodotti fitosanitari devono essere riprese gratuitamente.
+### 3 ...
 
 ### 4 Esportazione
 
@@ -4168,25 +4219,110 @@ Allegato 2.9[^t-29]
 
 ## Materie plastiche, loro monomeri e additivi
 
-[^t-29]: Aggiornato dalla cifra I n. 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dalla cifra I n. 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dalla cifra II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dalla cifra II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalle dalla cifra I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 23 feb. 2022 ([RU 2022 162](https://fedlex.data.admin.ch/eli/oc/2022/162)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-29]: Nuovo testo giusta la cifra I cpv. 2 dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-### 1 Definizioni
+### 1 Microplastica
 
-<sup>1</sup> Sono considerate materie plastiche al cadmio, le materie plastiche contenenti cadmio o composti del cadmio ed esistenti sotto forma di oggetti costituiti, completamente o in parte, di tali materie plastiche oppure contenenti tali materie plastiche sotto forma di preparati.
+### 1.1 Definizioni
 
-<sup>2</sup> È considerato PVC riciclato un preparato contenente rifiuti di PVC.
+<sup>1</sup> Sono considerate microparticelle di polimeri sintetici (microplastica) i polimeri solidi che soddisfano le seguenti condizioni:
 
-<sup>3</sup> Sono pneumatici ai sensi del presente allegato i pneumatici di veicoli delle classi seguenti:
+- a. sono contenuti in particelle e ne costituiscono almeno l’1 per cento in massa o formano un rivestimento superficiale continuo su particelle; e
+- b.
 
-- a. classe M, N o O secondo l’allegato II paragrafo A della direttiva 2007/46/CE[^annex29-lvlu1-lvl1-1];
-- b. classe T, R o S secondo l’allegato II capitolo A della direttiva 2003/37/CE[^annex29-lvlu1-lvl1-2];
-- c. classi L1e–L7e secondo l’articolo 1 paragrafi 2 e 3 della direttiva 2002/24/CE[^annex29-lvlu1-lvl1-3].
+  almeno l’1 per cento in massa delle particelle di cui alla lettera a soddisfa una delle seguenti condizioni:
 
-<sup>4</sup> È considerata plastica oxo-degradabile una plastica contenente additivi che mediante ossidazione provocano una decomposizione della plastica in microparticelle o una degradazione chimica.
+  - 1\. tutte le particelle hanno dimensioni uguali o inferiori a 5 mm,
+  - 2\. la lunghezza delle particelle è pari o inferiore a 15 mm e il rapporto tra lunghezza e diametro è maggiore di 3.
 
-[^annex29-lvlu1-lvl1-1]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli («direttiva quadro»), GU L 263 del 9.10.2007, pag.1; modificata l’ultima volta dal regolamento (UE) n. 65/2012, GU L 28 del 31.1.2012, pag. 24. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo http://eur-lex.europa.eu/
-[^annex29-lvlu1-lvl1-2]: Direttiva 2003/37/CE del Parlamento europeo e del Consiglio, del 26 maggio 2003, relativa all’omologazione dei trattori agricoli o forestali, dei loro rimorchi e delle loro macchine intercambiabili trainate, nonché dei sistemi, componenti ed entità tecniche di tali veicoli e abroga la direttiva 74/150/CEE, GU L 171 del 9.7.2003, pag. 1; modificata l’ultima volta dalla direttiva 2010/62/UE, GU L 238 del 9.9.2010, pag. 7.
-[^annex29-lvlu1-lvl1-3]: Direttiva 2002/24/CE del Parlamento europeo e del Consiglio, del 18 marzo 2002, relativa all’omologazione dei veicoli a motore a due o tre ruote e che abroga la direttiva 92/61/CEE del Consiglio, GU L124 del 9.5.2002, pag. 1; modificata l’ultima volta dal regolamento (CE) n. 1137/2008, GU L 311 del 21.11.2008, pag. 1.
+<sup>2</sup> Sono considerati solidi le sostanze che non sono né un gas secondo il capoverso 3 né un liquido secondo il capoverso 4.
+
+<sup>3</sup> È considerato gas una sostanza o un preparato che, a 50 °C, presenta una pressione di vapore superiore a 300 kPa (in valore assoluto) o è completamente gassosa a 20 °C a una pressione standard di 101,3 kPa.
+
+<sup>4</sup> È considerato liquido una sostanza o un preparato che soddisfa una delle condizioni seguenti:
+
+- a. la sostanza o il preparato a 50 °C presenta una pressione di vapore non superiore a 300 kPa, non è completamente gassoso a 20 °C e a una pressione standard di 101,3 kPa e presenta un punto di fusione o punto di fusione iniziale al massimo pari a 20 °C a una pressione standard di 101,3 kPa;
+- b. la sostanza o il preparato soddisfa i criteri della norma D 4359-90[^annex29-lvlu1-lvl1-lvl11-1];
+- c. la sostanza o il preparato supera la prova di fluidità (prova del penetrometro) di cui all’allegato A, parte 2, capitolo 2.3.4 dell’Accordo del 30 settembre 1957[^annex29-lvlu1-lvl1-lvl11-2] relativo al trasporto internazionale su strada delle merci pericolose (ADR).
+
+<sup>5</sup> Non sono considerati microplastica:
+
+- a. i polimeri che sono il risultato di un processo di polimerizzazione avvenuto in natura, indipendentemente dal processo di estrazione, e che non sono sostanze modificate chimicamente;
+- b. i polimeri che nella loro struttura chimica non contengono atomi di carbonio;
+- c. i polimeri degradabili;
+- d. i polimeri che hanno un’idrosolubilità superiore a 2 g/l.
+
+<sup>6</sup> I metodi di test ammessi e i criteri da soddisfare per comprovare la degradabilità secondo il capoverso 5 lettera c si basano su:
+
+- e. per i polimeri, che nei concimi secondo l’allegato 2.6 numero 1 servono come agenti di rivestimento oppure aumentano la capacità di ritenzione idrica o la bagnabilità, secondo il punto 2 della CMC 9 della parte II dell’allegato II del regolamento (UE) 2019/1009[^annex29-lvlu1-lvl1-lvl11-3];
+- b. per tutti gli altri polimeri secondo l’appendice 15 dell’allegato XVII del regolamento (CE) n. 1907/2006[^annex29-lvlu1-lvl1-lvl11-4].
+
+<sup>7</sup> I metodi di test ammessi per comprovare l’idrosolubilità secondo il capoverso 5 lettera d si basano sull’appendice 16 dell’allegato XVII del regolamento (CE) n. 1907/2006.
+
+<sup>8</sup> L’UFAM adegua il capoverso 6 lettera a alle modifiche dell’allegato II parte II CMC 9 numero 2 del regolamento (UE) 2019/1009, il capoverso 6 lettera b alle modifiche dell’allegato XVII appendice 15 del regolamento (CE) n. 1907/2006 e il capoverso 7 alle modifiche dell’allegato XVII appendice 16 del regolamento (CE) n. 1907/2006.
+
+<sup>9</sup> È considerato un prodotto cosmetico ogni sostanza o preparato destinato a venire in contatto con l’epidermide, le sopracciglia o le ciglia dell’essere umano, al fine di modificarne l’aspetto.
+
+[^annex29-lvlu1-lvl1-lvl11-1]: La norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
+[^annex29-lvlu1-lvl1-lvl11-2]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annex29-lvlu1-lvl1-lvl11-3]: Regolamento (UE) 2019/1009 del Parlamento europeo e del Consiglio, del 5 giugno 2019, che stabilisce norme relative alla messa a disposizione sul mercato di prodotti fertilizzanti dell’UE, che modifica i regolamenti (CE) n. 1069/2009 e (CE) n. 1107/2009 e che abroga il regolamento (CE) n. 2003/2003, GU L 170 del 25.6.2019, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2024/2770, GU L, 2024/2770, 28.10.2024.
+[^annex29-lvlu1-lvl1-lvl11-4]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2055, GU L 238 del 27.9.2023, pag. 67.
+
+### 1.2 Divieto
+
+È vietata l’immissione sul mercato di microplastica e di preparati il cui contenuto in massa di microplastica è pari o superiore allo 0,01 per cento, a condizione che la microplastica sia presente nei preparati per conferire loro una caratteristica ricercata.
+
+### 1.3 Deroghe
+
+<sup>1</sup> Il divieto di cui al numero 1.2 non si applica:
+
+- a. ai prodotti a scopo di analisi e di ricerca;
+- b. alle derrate alimentari secondo l’articolo 4 della legge del 20 giugno 2014[^annex29-lvlu1-lvl1-lvl13-1] sulle derrate alimentari;
+- c. agli alimenti per animali secondo l’articolo 3 capoverso 1 dell’ordinanza del 26 ottobre 2011[^annex29-lvlu1-lvl1-lvl13-2] sugli alimenti per animali;
+- d. ai medicamenti secondo l’articolo 4 capoverso 1 lettera a della LATer[^annex29-lvlu1-lvl1-lvl13-3];
+- e. ai concimi, che sono substrati di coltivazione della categoria PFC 4 e contengono microplastica secondo il numero 1 lettera c della CMC 9 della parte II dell’allegato II del regolamento (UE) 2019/1009.
+
+<sup>2</sup> Il divieto di cui al numero 1.2 non si applica all’immissione sul mercato di microplastica e preparati con microplastica se:
+
+- a. questi sono destinati a essere utilizzati negli impianti industriali;
+- b. la microplastica è racchiusa con mezzi tecnici in modo da impedire un rilascio nell’ambiente in caso di impiego conforme alla destinazione;
+- c. durante l’impiego conforme alla destinazione, la microplastica modifica durevolmente le sue proprietà fisiche in modo tale che il polimero non rientra più nella definizione di cui al numero 1.1 capoverso 1;
+- d. la microplastica è incorporata in una matrice solida nella quale rimane durevolmente nella fase di utilizzo.
+
+[^annex29-lvlu1-lvl1-lvl13-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex29-lvlu1-lvl1-lvl13-2]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex29-lvlu1-lvl1-lvl13-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+
+### 1.4 ...
+
+[^annex29-lvlu1-lvl1-lvl14-1]
+
+[^annex29-lvlu1-lvl1-lvl14-1]: I cpv. 1, 2 e 4 entrano in vigore il 1° dec. 2026 e cpv. 3 entra in vigore il 17 ott. 2031 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
+
+### 1.5 Obblighi di informazione nei confronti dell’autorità esecutiva
+
+Chi sostiene che per l’immissione sul mercato di microplastica o di preparati contenenti microplastica questa o questi non sono da considerarsi microplastica secondo il numero 1.1 capoverso 2 deve presentare all’autorità cantonale, su richiesta:
+
+- a. documenti che forniscono informazioni sull’identità specifica del polimero secondo il numero 1.1 capoverso 2 lettera a o b;
+- b. documenti che dimostrano la degradabilità del polimero secondo il numero 1.1 capoverso 2 lettera c conformemente alle prescrizioni di cui al numero 1.1 capoverso 3;
+- c. documenti che dimostrano l’idrosolubilità del polimero secondo il numero 1.1 capoverso 2 lettera d conformemente alle prescrizioni di cui al numero 1.1 capoverso 4.
+
+### 1.6 Determinazione del contenuto in massa di microplastica
+
+Se non è possibile determinare il contenuto in massa di microplastica di un preparato sulla base dei metodi di analisi o della documentazione di accompagnamento disponibili, al fine di verificare la conformità al contenuto in massa di cui al numero 1.2, vanno prese in considerazione soltanto le particelle aventi almeno le dimensioni seguenti:
+
+- a. 0,1 μm per qualsiasi dimensione, per le particelle aventi tutte le dimensioni al massimo pari a 5 mm;
+- b. 0,3 μm di lunghezza, per le particelle aventi una lunghezza al massimo pari a 15 mm e un rapporto lunghezza/diametro superiore a 3.
+
+### 2 Plastiche oxo-degradabili
+
+### 2.1 Definizione
+
+È considerata plastica oxo-degradabile una plastica contenente additivi che mediante ossidazione provocano una degradazione chimica o una decomposizione della plastica in microplastica.
+
+### 2.2 Divieti
+
+L’immissione sul mercato e l’impiego di plastiche oxo-degradabili sono vietati.
 
 ### 2 Divieti
 
@@ -4233,107 +4369,246 @@ Allegato 2.9[^t-29]
 - f. l’immissione sul mercato e l’impiego di acrilammide (n. CAS 79-06-1) nonché di sostanze e preparati con un contenuto in massa di acrilammide pari o superiore allo 0,1 per cento per applicazioni di consolidamento del suolo quali ad esempio l’iniezione, l’iniezione in profondità, la ripassatura dei giunti o la sigillatura;
 - g. l’immissione sul mercato e l’impiego di plastiche oxo-degradabili.
 
-<sup>1bis</sup> I metodi di verifica e di analisi per la determinazione dei valori limite di cui al capoverso 1 lettere d ed e si fondano sull’allegato XVII voce 50 del regolamento (CE) n. 1907/2006[^annex29-lvlu1-lvl2-1].
+<sup>1bis</sup> I metodi di verifica e di analisi per la determinazione dei valori limite di cui al capoverso 1 lettere d ed e si fondano sull’allegato XVII voce 50 del regolamento (CE) n. 1907/2006[^annex29-lvlu1-lvl3-1].
 
 <sup>2</sup> Per le confezioni aerosol destinate alla fabbricazione di materie plastiche espanse si applica l’allegato 2.12.
 
 <sup>3</sup> Agli imballaggi di plastica contenenti cadmio si applica l’allegato 2.16 numero 4.
 
-<sup>4</sup> Ai giocattoli e agli oggetti per lattanti e bambini in tenera età contenenti idrocarburi policiclici aromatici di cui al capoverso 1 lettera d numero 2 si applica l’ordinanza del 16 dicembre 2016[^annex29-lvlu1-lvl2-2] sulle derrate alimentari e gli oggetti d’uso.
+<sup>4</sup> Ai giocattoli e agli oggetti per lattanti e bambini in tenera età contenenti idrocarburi policiclici aromatici di cui al capoverso 1 lettera d numero 2 si applica l’ordinanza del 16 dicembre 2016[^annex29-lvlu1-lvl3-2] sulle derrate alimentari e gli oggetti d’uso.
 
-[^annex29-lvlu1-lvl2-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione n. 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 326/2015, GU L 58 del 3.3.2015, pag. 43.
-[^annex29-lvlu1-lvl2-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex29-lvlu1-lvl3-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione n. 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) n. 326/2015, GU L 58 del 3.3.2015, pag. 43.
+[^annex29-lvlu1-lvl3-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
-### 3 Deroghe
+### 3 Materie plastiche espanse
 
-<sup>1</sup> I divieti di cui al numero 2 capoverso 1 lettera a non si applicano:
+### 3.1 Confezioni di aerosol
 
-- a. al PVC riciclato, se il superamento del tenore di cadmio è dovuto ai rifiuti di PVC impiegati e se il cadmio o i composti di cadmio non sono aggiunti come componenti durante il processo di fabbricazione;
-- b.
+Alle confezioni di aerosol destinate alla fabbricazione di materie plastiche espanse si applica l’allegato 2.12.
 
-  alle materie plastiche contenenti PVC riciclato di cui alla lettera a, se il loro tenore di cadmio non è superiore allo 0,1 per cento in massa delle materie plastiche nei seguenti impieghi del PVC rigido:
+### 3.2 Divieti
 
-  - 1\. profili e fogli rigidi di PVC per applicazioni nell’edilizia,
-  - 2\. porte, finestre, serrande, pareti, persiane, recinzioni e grondaie,
-  - 3\. pavimenti e terrazze,
-  - 4\. condotti per cavi,
-  - 5\. tubi per acque non potabili se il PVC riciclato è impiegato nello strato intermedio di un tubo multistrato ed è interamente rivestito di uno strato di PVC di nuova produzione.
+<sup>1</sup> Sono vietati la fabbricazione, l’immissione sul mercato e l’impiego di materie plastiche espanse nonché di oggetti contenenti materie plastiche espanse, per la cui fabbricazione sono impiegate sostanze che impoveriscono lo strato di ozono ai sensi dell’allegato 1.4 numero 1 capoverso 1.
 
-<sup>2</sup> I divieti di cui al numero 2 capoverso 1 lettera c non si applicano se:
+<sup>2</sup> Sono vietati la fabbricazione, l’immissione sul mercato e l’impiego di materie plastiche espanse nonché di oggetti contenenti materie plastiche espanse, per la cui fabbricazione sono impiegate sostanze stabili nell’aria ai sensi dell’allegato 1.5 numero 1 capoverso 1.
 
-- a. secondo lo stato della tecnica, l’isolamento termico necessario non è possibile con altri materiali;
-- b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non sono superiori ai livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
-- c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al minimo livello possibile, specialmente in occasione dello smaltimento dei rifiuti delle materie plastiche espanse e delle sostanze stabili nell’aria in esse contenute.
+### 3.3 Deroghe
 
-<sup>3</sup> Dopo aver consultato le cerchie interessate e i Cantoni, l’UFAM emana, all’attenzione delle autorità esecutive, raccomandazioni sullo stato della tecnica e sullo smaltimento dei rifiuti di cui al capoverso 2.
-
-<sup>3</sup><sup>bis</sup> I divieti di cui al numero 2 capoverso 1 lettera b non si applicano se:
+<sup>1</sup> I divieti di cui al numero 3.2 capoverso 1 non si applicano se:
 
 - a. secondo lo stato della tecnica non esistono sostanze alternative a quelle che impoveriscono lo strato di ozono o preparati e oggetti alternativi a quelli fabbricati con tali sostanze;
 - b. le sostanze che impoveriscono lo strato di ozono impiegate presentano un potenziale di riduzione dell’ozono di al massimo 0,0005;
 - c. la quantità delle sostanze che impoveriscono lo strato di ozono impiegate non supera i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
-- d. le emissioni di sostanze che impoveriscono lo strato di ozono durante l’intero ciclo di vita dell’impiego previsto sono mantenute al livello più basso possibile, specialmente in occasione dello smaltimento dei rifiuti di materie plastiche espanse e di sostanze che impoveriscono lo strato di ozono in essi contenute.
+- d. le emissioni di sostanze che impoveriscono lo strato di ozono durante l’intero ciclo di vita dell’impiego previsto sono mantenute al minimo livello possibile, specialmente in occasione dello smaltimento dei rifiuti di materie plastiche espanse e di sostanze che impoveriscono lo strato di ozono in essi contenute.
 
-<sup>4</sup> Su domanda motivata, l’UFAM può concedere una deroga temporanea ai divieti di cui al numero 2 capoverso 1 lettera c se:
+<sup>2</sup> I divieti di cui al numero 3.2 capoverso 2 non si applicano se:
+
+- a. secondo lo stato della tecnica, l’isolamento termico necessario non è possibile con altri materiali;
+- b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
+- c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al minimo livello possibile, specialmente in occasione dello smaltimento dei rifiuti delle materie plastiche espanse e delle sostanze stabili nell’aria in essi contenute.
+
+<sup>3</sup> Su domanda motivata, l’UFAM può concedere una deroga temporanea ai divieti di cui al numero 3.2 capoverso 2 se:
 
 - a. secondo lo stato della tecnica non esistono sostanze alternative a quelle stabili nell’aria o preparati e oggetti alternativi a quelli fabbricati con tali sostanze;
-- b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli minimi necessari secondo lo stato della tecnica; e
-- c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono ridotte al minimo livello possibile, e specialmente in occasione dello smaltimento dei rifiuti delle materie plastiche espanse e delle sostanze stabili nell’aria in esse contenute.
+- b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
+- c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al minimo livello possibile, specialmente in occasione dello smaltimento dei rifiuti delle materie plastiche espanse e delle sostanze stabili nell’aria in essi contenute.
 
-<sup>5</sup> Il divieto di cui al numero 2 capoverso 1 lettera e non si applica per l’immissione sul mercato di pneumatici rigenerati se i loro battistrada contengono oli diluenti che rispettano i valori limite di cui al numero 2 capoverso 1 lettera d.
+<sup>4</sup> ... [^annex29-lvlu1-lvl4-lvl43-1]
 
-### 4 Etichettatura particolare
+<sup>5</sup> Dopo aver consultato il settore interessato e le autorità cantonali responsabili dell’esecuzione della presente ordinanza, l’UFAM emana raccomandazioni sullo stato della tecnica secondo i capoversi 1–4.
 
-<sup>1</sup> I fabbricanti di materie plastiche espanse devono fornire agli acquirenti informazioni sugli agenti schiumogeni contenuti in tali materie mediante un’etichetta o un’altra indicazione scritta equivalente.
+[^annex29-lvlu1-lvl4-lvl43-1]: Entra in vigore il 1° gen. 2033.
 
-<sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
+### 3.4 Etichettatura particolare
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251001/it/xml/image/image2.png)
+<sup>1</sup> I fabbricanti di materie plastiche espanse devono fornire agli acquirenti informazioni sugli agenti schiumogeni contenuti in tali materie mediante la loro designazione chimica o quella industriale riconosciuta su un’etichetta o in un’altra indicazione scritta equivalente.
 
-<sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
+<sup>2</sup> Per le materie plastiche espanse la cui fabbricazione comporta l’impiego di sostanze che figurano nell’allegato I o II del regolamento (UE) 2024/573[^annex29-lvlu1-lvl4-lvl34-1], l’etichettatura deve riportare la chiara avvertenza che tali materie contengono gas fluorurati a effetto serra. Per i pannelli in schiuma e i pannelli laminati, tale indicazione deve essere riportata in modo chiaro e indelebile sui pannelli.
 
-<sup>4</sup> ...
+[^annex29-lvlu1-lvl4-lvl34-1]: Cfr. nota a piè di pagina relativa all’all. 1.4 n. 3.1 cpv. 2.
 
-<sup>5</sup> Per granulati o polveri di plastica immessi sul mercato per l’impiego come materiale di spargimento per campi in erba sintetica o in forma sfusa per parchi giochi o campi sportivi deve essere indicato un numero di lotto che consente di identificare il lotto in modo univoco. Il numero di lotto deve essere apposto sull’imbalaggio o comunicato in un’altra forma utile allo scopo.
-
-### 4<sup>bis</sup> Imballaggio particolare
-
-L’imballaggio di un preparato, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che è destinato al grande pubblico, deve contenere guanti protettivi conformi alle prescrizioni di cui all’articolo 13 capoverso 2 in combinato disposto con l’articolo 12 capoverso 2 dell’ordinanza del 19 maggio 2010[^annex29-lvlu1-lvl4bis-1] sulla sicurezza dei prodotti. Ciò non si applica agli imballaggi di colle a caldo.
-
-[^annex29-lvlu1-lvl4bis-1]: [RS 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
-
-### 5 Obbligo di notifica
+### 3.5 Obbligo di notifica
 
 Su domanda, i fabbricanti di materie plastiche espanse per la cui fabbricazione sono impiegate sostanze stabili nell’aria devono comunicare all’UFAM:
 
 - a. il tipo e la quantità delle materie plastiche espanse fornite in Svizzera durante gli ultimi tre anni, suddivise per importazione e fabbricazione in Svizzera;
 - b. il tipo e la quantità di sostanze stabili nell’aria contenute nelle materie plastiche espanse fornite.
 
-### 5<sup>bis</sup> Raccomandazioni
+### 4 Monomeri
 
-Dopo aver consultato i settori interessati, l’UFAM emana raccomandazioni sullo stato della tecnica secondo il numero 3 capoverso 3<sup>bis</sup>.
+### 4.1 Divieti
 
-### 6 Disposizioni transitorie
+È vietata l’immissione sul mercato e l’utilizzo di acrilammide (n. CAS 79-06-1) e di sostanze e preparati con un contenuto in massa di acrilammide pari o superiore allo 0,1 per cento per le applicazioni di sigillatura.
 
-<sup>1</sup> Il divieto d’importazione di cui al numero 2 capoverso 1 lettera b non si applica all’importazione di:
+### 4.2 Etichettatura particolare
 
-- a. apparecchi frigoriferi, scaldacqua e boiler con materie plastiche espanse contenenti clorofluorocarburi parzialmente alogenati (allegato 1.4) se sono stati fabbricati prima del 1° gennaio 2000;
-- b. veicoli a motore contenenti materie plastiche espanse che sono stati fabbricati con clorofluorocarburi completamente alogenati (allegato 1.4) nonché dei relativi pezzi di ricambio e accessori contenenti tali materie plastiche espanse se sono stati fabbricati prima del 1° ottobre 1994;
-- c. materie plastiche espanse integrali che sono state fabbricate con clorofluorocarburi parzialmente alogenati e che servono per scopi di sicurezza se sono state fabbricate prima del 1° gennaio 2000.
+I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
-<sup>2</sup> Il divieto di cui al numero 2 capoverso 1 lettera c non si applica all’uso di materie plastiche espanse per la cui fabbricazione vengono impiegate sostanze stabili nell’aria e di oggetti che contengono tali materie se dette materie plastiche e detti oggetti sono stati forniti prima del 1° gennaio 2004.
+### 4.3 Imballaggio particolare
 
-<sup>3</sup> I divieti di cui al numero 2 capoverso 1 lettera d si applicano per l’immissione sul mercato e l’impiego di oli diluenti per la fabbricazione di pneumatici o di componenti di pneumatici a partire dal 1° gennaio 2010.
+L’imballaggio di un preparato, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che è destinato al grande pubblico, deve contenere guanti protettivi che proteggano gli utilizzatori dai rischi della categoria III secondo l’allegato I del regolamento (UE) 2016/425[^annex29-lvlu1-lvl5-lvl54-1]. Ciò non si applica agli imballaggi di colle a caldo.
 
-<sup>4</sup> Il divieto di cui al numero 2 capoverso 1 lettera e non si applica per l’immissione sul mercato di pneumatici e battistrada per la rigenerazione fabbricati prima del 1° gennaio 2010.
+[^annex29-lvlu1-lvl5-lvl54-1]: Cfr. nota a piè di pagina relativa all’all. 1.16 n. 4.3 cpv. 1 lett. a.
 
-<sup>5</sup> Il divieto di cui al numero 2 capoverso 1 lettera e<sup>bis</sup> non si applica agli oggetti immessi sul mercato per la prima volta prima del 1° settembre 2016.
+### 5 Additivi contenenti metalli pesanti
 
-<sup>6</sup> I divieti di cui al numero 2 capoverso 1 lettera e<sup>ter</sup> non si applicano all’immissione sul mercato e all’impiego di granulati o polveri di plastica che fino al 1° aprile 2023 sono stati impiegati su campi in erba sintetica, parchi giochi e campi sportivi.
+### 5.1 Definizioni
 
-<sup>7</sup> I divieti di cui al numero 2 capoverso 1 lettera g non si applicano all’immissione sul mercato e all’impiego di plastiche oxo-degradabili immesse sul mercato per la prima volta prima del 1° ottobre 2022.
+Sono considerati PVC i polimeri e i copolimeri del cloruro di vinile.
 
-<sup>8</sup> Le materie plastiche espanse e gli oggetti con materie plastiche espanse cui non si applica il numero 3 capoverso 3<sup>bis</sup> poiché a seguito di un cambiamento dello stato della tecnica è disponibile un’alternativa, possono essere fabbricati e importati a scopi professionali o commerciali ancora per 6 mesi come pure essere ceduti a terzi per altri 6 mesi.
+### 5.2.1 Confezioni in materie plastiche contenenti metalli pesanti
+
+Alle confezioni in materie plastiche contenenti metalli pesanti si applica l’allegato 2.16 numero 4.
+
+### 5.2.2 Divieti
+
+<sup>1</sup> Sono vietate la fabbricazione e l’immissione sul mercato di preparati od oggetti contenenti materie plastiche se il tenore di cadmio nei preparati è pari o superiore allo 0,01 per cento in massa e negli oggetti è pari o superiore allo 0,01 per cento in massa nella materia plastica.
+
+<sup>2</sup> Sono vietate la fabbricazione e l’immissione sul mercato di preparati od oggetti contenenti PVC se il tenore di piombo nei preparati è pari o superiore allo 0,1 per cento in massa e negli oggetti è pari o superiore allo 0,1 per cento in massa nel PVC.
+
+### 5.3 Deroghe
+
+I divieti di cui al numero 5.2.2 non si applicano:
+
+- a.
+
+  al PVC recuperato se:
+
+  - 1\. il cadmio e il piombo sono dovuti esclusivamente al riciclaggio dei rifiuti di PVC e non sono aggiunti come componenti durante il processo di fabbricazione, e
+  - 2\. il PVC recuperato è destinato alla fabbricazione di oggetti in PVC che possono essere immessi sul mercato;
+
+- b.
+
+  agli oggetti contenenti PVC recuperato se il loro tenore di cadmio non è superiore allo 0,1 per cento in massa nel materiale omogeneo nei seguenti impieghi del PVC rigido:
+
+  - 1\. profili e fogli rigidi di PVC per applicazioni nell’edilizia,
+  - 2\. porte, finestre, serrande, pareti, persiane, recinzioni e grondaie,
+  - 3\. pavimenti e terrazze,
+  - 4\. condotti per cavi,
+  - 5\. tubi per acque non potabili se il PVC recuperato è impiegato nello strato intermedio di un tubo multistrato ed è interamente rivestito di uno strato di PVC di nuova produzione.
+
+### 5.4 Obblighi di informazione nei confronti dell’autorità esecutiva
+
+Chi immette sul mercato un oggetto di cui al numero 5.3 lettera b deve presentare all’autorità cantonale, su richiesta, i documenti che comprovano la quantità e l’origine del PVC recuperato contenuto nell’oggetto e dimostrano l’osservanza dei rispettivi requisiti per l’immissione sul mercato dell’oggetto, in particolare mediante un certificato che si basa sulle specifiche tecniche della norma SN EN 15343:2008[^annex29-lvlu1-lvl6-lvl54-1].
+
+[^annex29-lvlu1-lvl6-lvl54-1]: La norma menzionata può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
+
+### 6 Idrocarburi aromatici policiclici come sottoprodotti in materie plastiche
+
+### 6.1 Definizioni
+
+<sup>1</sup> Sono pneumatici ai sensi del numero 6 gli pneumatici di veicoli delle classi seguenti:
+
+- a. classe M, N od O secondo l’articolo 4 capoverso 1 del regolamento (UE) 2018/858[^annex29-lvlu1-lvl7-lvl61-1];
+- b. classe T, R o S secondo l’articolo 4 del regolamento (UE) n. 167/2013[^annex29-lvlu1-lvl7-lvl61-2];
+- c. classe L1e–L7e secondo l’articolo 4 del regolamento (UE) n. 168/2013[^annex29-lvlu1-lvl7-lvl61-3].
+
+### 6.2.1 Giocattoli e oggetti per lattanti e bambini in tenera età
+
+[^annex29-lvlu1-lvl7-lvl61-1]: Regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, dei componenti e delle entità tecniche indipendenti destinati a tali veicoli, che modifica i regolamenti (CE) n. 715/2007 e (CE) n. 595/2009 e abroga la direttiva 2007/46/CE, GU L 151 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento (UE) 2022/2236, GU L 296 del 16.11.2022, pag. 1.
+[^annex29-lvlu1-lvl7-lvl61-2]: Regolamento (UE) n. 167/2013 del Parlamento europeo e del Consiglio, del 5 febbraio 2013, relativo all’omologazione e alla vigilanza del mercato dei veicoli agricoli e forestali, GU L 60 del 2.3.2013, pag. 1; modificato da ultimo dal regolamento (UE) 2019/519, GU L 91 del 29.3.2019, pag. 42.
+[^annex29-lvlu1-lvl7-lvl61-3]: Regolamento (UE) n. 168/2013 del Parlamento europeo e del Consiglio, del 15 gennaio 2013, relativo all’omologazione e alla vigilanza del mercato dei veicoli a motore a due o tre ruote e dei quadricicli, GU L 60 del 2.3.2013, pag. 52; modificato da ultimo dal regolamento (UE) 2020/1694, GU L 381 del 13.11.2020, pag. 4.
+
+Ai giocattoli e agli oggetti per lattanti e bambini in tenera età contenenti idrocarburi aromatici policiclici di cui al numero 6.2.2 capoverso 1 lettera b si applica l’ODerr[^annex29-lvlu1-lvl7-lvl61-lvl621-1].
+
+[^annex29-lvlu1-lvl7-lvl61-lvl621-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+
+### 6.2.2 Divieti
+
+<sup>1</sup> Sono vietati l’immissione sul mercato e l’impiego di oli diluenti per la fabbricazione di pneumatici o di componenti di pneumatici se questi oli contengono:
+
+- a. oltre 1 mg di benzo[a]pirene per chilogrammo;
+- b.
+
+  complessivamente oltre 10 mg per ogni chilogrammo dei seguenti idrocarburi aromatici policiclici:
+
+  - – benzo[a]pirene (n. CAS 50-32-8),
+  - – benzo[e]pirene (n. CAS 192-97-2),
+  - – benzo[a]antracene (n. CAS 56-55-3),
+  - – crisene (n. CAS 218-01-9),
+  - – benzo[b]fluorantene (n. CAS 205-99-2),
+  - – benzo[j]fluorantene (n. CAS 205-82-3),
+  - – benzo[k]fluorantene (n. CAS 207-08-9),
+  - – dibenz[a,h]antracene (n. CAS 53-70-3).
+
+<sup>2</sup> È vietata l’immissione sul mercato di pneumatici e battistrada per la rigenerazione se contengono oli diluenti che superano i valori limite di cui al capoverso 1.
+
+<sup>3</sup> I metodi di prova e di analisi per determinare i valori limite di cui ai capoversi 1 e 2 si basano sulla voce 50 dell’allegato XVII del regolamento (CE) 1907/2006.
+
+<sup>4</sup> È vietata l’immissione sul mercato di oggetti composti interamente o parzialmente di materie plastiche contenenti oltre 1 mg di un idrocarburo aromatico policiclico di cui al capoverso 1 lettera b, per chilogrammo di materia plastica se:
+
+- a. gli oggetti sono destinati al grande pubblico; e
+- b.
+
+  nell’impiego normale o ragionevolmente prevedibile di un oggetto, un suo componente contenente un idrocarburo aromatico policiclico entra in contatto direttamente, per un periodo prolungato o per ripetuti periodi brevi, con la pelle o con la cavità orale delle persone, in particolare:
+
+  - – attrezzature sportive come biciclette, mazze da golf, racchette,
+  - – elettrodomestici, carrelli provvisti di ruote, girelli e deambulatori,
+  - – utensili per uso privato,
+  - – abbigliamento, scarpe, guanti e abbigliamento sportivo,
+  - – orologi da polso, bracciali, maschere, fasce per la fronte.
+
+<sup>5</sup> Sono vietati l’immissione sul mercato e l’impiego di granulati e polveri di plastica che contengono complessivamente più di 20 milligrammi per chilogrammo di idrocarburi aromatici policiclici di cui al capoverso 1 lettera b e che sono destinati all’impiego come materiale di spargimento per campi in erba sintetica o come materiale sfuso per parchi giochi o campi sportivi.
+
+### 6.3 Etichettatura particolare
+
+Per granulati e polveri di plastica immessi sul mercato per l’impiego come materiale di spargimento per campi in erba sintetica o in forma sfusa per parchi giochi o campi sportivi deve essere indicato un numero di lotto che consente di identificare il lotto in modo univoco. Il numero di lotto deve essere comunicato sull’imballaggio o in un’altra forma utile allo scopo.
+
+### 7 Disposizioni transitorie
+
+<sup>1</sup> Il divieto dell’immissione sul mercato di cui al numero 1.2 non si applica:
+
+- a. ai seguenti prodotti, qualora siano stati immessi per la prima volta sul mercato prima delle date indicate di seguito:
+
+<table>
+<tr><th>Numero</th><th>Prodotti</th><th>Data</th></tr>
+<tr><td>1</td><td>Cosmetici senza risciacquo o da sciacquare secondo l’articolo 53 dell’ODerr[^annex29-lvlu1-lvl7-1], fatta eccezione per i prodotti contenenti microplastica per esfoliare, lucidare o pulire (microsfere) o i prodotti che rientrano nel numero 5</td><td>17 ottobre 2027</td></tr>
+<tr><td>2</td><td>Detersivi per tessili, detergenti, cere, lucidi e deodoranti per l’ambiente, fatta eccezione per i prodotti contenenti microsfere o i prodotti che rientrano nel numero 5</td><td>17 ottobre 2028</td></tr>
+<tr><td>3</td><td>Concimi secondo l’allegato 2.6 numero 1 della presente ordinanza</td><td>17 ottobre 2028</td></tr>
+<tr><td>4</td><td>Prodotti per impieghi agricoli od orticoli, che non rientrano nei numeri 3 o 8</td><td>17 ottobre 2028</td></tr>
+<tr><td>5</td><td>Prodotti che contengono microplastica per l’incapsulamento di sostanze odorose</td><td>17 ottobre 2029</td></tr>
+<tr><td>6</td><td>Cosmetici secondo l’articolo 53 ODerr che rimangono sulla pelle/nei capelli, fatta eccezione per i prodotti che rientrano nel numero 10</td><td>17 ottobre 2029</td></tr>
+<tr><td>7</td><td>Dispositivi medici secondo l’articolo 4 capoverso 1 lettera b della LATer[^annex29-lvlu1-lvl7-2], fatta eccezione per i prodotti contenenti microsfere</td><td>17 ottobre 2029</td></tr>
+<tr><td>8</td><td>Prodotti fitosanitari secondo l’articolo 2 capoverso 1 dell’OPF[^annex29-lvlu1-lvl7-3] e sementi trattate con tali prodotti nonché biocidi secondo l’articolo 2 capoverso 1 lettera a dell’ordinanza del 18 maggio 2005[^annex29-lvlu1-lvl7-4] sui biocidi (OBioc)</td><td>17 ottobre 2031</td></tr>
+<tr><td>9</td><td>Materiale di spargimento per superfici sportive sintetiche</td><td>17 ottobre 2031</td></tr>
+<tr><td>10</td><td>Prodotti per le labbra e per le unghie nonché cosmetici ai sensi dell’articolo 53 ODerr, fatta eccezione per i prodotti contenenti microsfere o prodotti che rientrano nei numeri 5 o 1</td><td>17 ottobre 2035</td></tr>
+</table>
+
+- b. tutti gli altri prodotti che sono stati immessi per la prima volta sul mercato prima del 1° giugno 2026.
+
+<sup>2</sup> Chi immette sul mercato un preparato secondo il capoverso 1 lettera a deve presentare all’autorità cantonale, su richiesta, i documenti concernenti la funzione della microplastica nel preparato e che dimostrano l’osservanza dei rispettivi requisiti per l’immissione sul mercato del preparato.
+
+<sup>3</sup> I divieti di cui al numero 2.2 non si applicano all’immissione sul mercato e all’impiego di plastiche oxo-degradabili immesse per la prima volta sul mercato prima del 1° ottobre 2022.
+
+<sup>4</sup> Le materie plastiche espanse e gli oggetti contenenti materie plastiche espanse che potevano essere utilizzati sulla base del numero 3.3 capoversi 1, 2 o 4 e per cui è disponibile un’alternativa a seguito di un cambiamento dello stato della tecnica possono essere fabbricati e importati a scopi professionali o commerciali ancora per 12 mesi come pure essere ceduti a terzi per altri 6 mesi.
+
+<sup>5</sup> Fino al 30 novembre 2026 è ammessa un’etichettatura secondo il numero 4 capoverso 1 del diritto previgente invece di un’etichettatura secondo il numero 3.4.
+
+<sup>6</sup> I divieti di fabbricazione e immissione sul mercato di cui al numero 5.2.2 capoverso 2 non si applicano:
+
+- a.
+
+  ai seguenti oggetti contenenti PVC rigido recuperato se il loro tenore di piombo non è superiore all’1,5 per cento in massa, a condizione che il piombo sia dovuto a PVC recuperato e se gli oggetti sono stati immessi per la prima volta sul mercato prima del 29 maggio 2033:
+
+  - 1\. profili e fogli rigidi per applicazioni esterne in costruzioni edili e opere di genio civile, fatta eccezione per ponti e terrazze,
+  - 2\. profili e fogli rigidi per ponti e terrazze, se il PVC recuperato è impiegato in uno strato intermedio ed è interamente rivestito di uno strato di PVC o altro materiale con un tenore di piombo inferiore allo 0,1 per cento in massa,
+  - 3\. profili e fogli rigidi da utilizzare in zone coperte o cavità in costruzioni edili e opere di genio civile, a condizione che non siano accessibili durante l’uso normale, tranne che per scopi di manutenzione,
+  - 4\. profili e fogli rigidi per applicazioni interne in edifici, a condizione che la superficie complessiva del profilo o del foglio rigido rivolta verso le zone occupate di un edificio dopo l’installazione sia realizzata in PVC o altro materiale con un tenore di piombo inferiore allo 0,1 per cento in massa,
+  - 5\. tubi multistrato, a eccezione di tubi per acque potabili, se il PVC recuperato è impiegato in uno strato intermedio ed è interamente rivestito di uno strato di PVC o altro materiale con un tenore di piombo inferiore allo 0,1 per cento in massa, a condizione che il PVC recuperato dopo il 31 ottobre 2027 non provenga da profili e fogli rigidi di cui ai numeri 1–4 con un tenore di piombo pari o superiore allo 0,1 per cento in massa,
+  - 6\. raccordi, eccetto i raccordi dei tubi per acque potabili, a condizione che il PVC recuperato dopo il 31 ottobre 2027 non provenga da profili e fogli rigidi secondo i numeri 1–4 con un tenore di piombo pari o superiore allo 0,1 per cento in massa;
+
+- b. separatori in PVC-silicio nelle batterie al piombo, se sono stati immessi per la prima volta sul mercato prima del 29 maggio 2033;
+- c. tutti gli altri oggetti e preparati che sono stati immessi per la prima volta sul mercato prima del 1° dicembre 2026.
+
+<sup>7</sup> La disposizione transitoria secondo il capoverso 6 lettera a si applica a condizione che a partire dal 1° dicembre 2026 gli oggetti siano muniti della seguente etichettatura particolare: «Contiene ≥ 0,1 % di piombo». Se non può essere apposta sull’oggetto a causa della sua configurazione, la dicitura deve essere apposta sull’imballaggio.
+
+<sup>8</sup> Chi immette sul mercato un oggetto di cui al numero 6 lettera a deve presentare all’autorità cantonale, su richiesta, i documenti che comprovano la quantità e l’origine del PVC recuperato contenuto nell’oggetto e dimostrano l’osservanza dei rispettivi requisiti per l’immissione sul mercato dell’oggetto, in particolare mediante certificati che si basano sulle specifiche tecniche della norma SN EN 15343:2008[^annex29-lvlu1-lvl7-5].
+
+[^annex29-lvlu1-lvl7-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex29-lvlu1-lvl7-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex29-lvlu1-lvl7-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annex29-lvlu1-lvl7-4]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex29-lvlu1-lvl7-5]: La norma menzionata può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/fr/).
 
 Allegato 2.10[^t-30]
 
@@ -5466,42 +5741,70 @@ Allegato 2.17[^t-37]
 
 (art. 3)
 
-## Materiali legnosi
+## Oggetti a base di materiali legnosi e altri oggetti contenenti resina
 
-[^t-37]: Aggiornato dalla cifra I dell’O del 13 feb. 2008, in vigore dal 1° mar. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)).
+[^t-37]: Nuovo testo giusta la cifra I cpv. 2 dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 
-### 1 Definizioni
+### 1 Divieti
 
-<sup>1</sup> Sono considerati materiali legnosi gli oggetti formati a partire da trucioli o fibre del legno, in particolare pannelli truciolari o pannelli di fibre grezzi o laminati.
-
-<sup>2</sup> È definito materia prima secondaria il legno usato (legname di scarto) impiegato per la fabbricazione di materiali legnosi.
-
-### 2 Divieti
-
-I materiali legnosi non possono essere immessi sul mercato dal fabbricante se il contenuto in massa delle seguenti sostanze è superiore ai valori limite elencati:
+<sup>1</sup> Materiali formati a partire da trucioli o fibre del legno, in particolare pannelli truciolari o pannelli di fibre grezzi o laminati, non possono essere immessi sul mercato da un fabbricante se il contenuto in massa delle seguenti sostanze nel materiale è superiore ai valori limite elencati:
 
 <table>
-<tr><td>Sostanza</td><td>Valore limite in milligrammi per chilogrammo di sostanza secca</td></tr>
+<tr><th>Sostanza</th><th>Valore limite in milligrammi per chilogrammo di sostanza secca (mg/kg SS)</th></tr>
 <tr><td>Arsenico (As)</td><td>25</td></tr>
 <tr><td>Piombo (Pb)</td><td>90</td></tr>
 <tr><td>Cadmio (Cd)</td><td>50</td></tr>
 <tr><td>Mercurio (Hg)</td><td>25</td></tr>
-<tr><td>Benzo(a)pirene (n. CAS 50-32-8)</td><td>0,5</td></tr>
-<tr><td>Pentaclorofenolo (PCP, n. CAS 87-86-5)</td><td>5</td></tr>
+<tr><td>Benzo[a]pirene (n. CAS 50-32-8)</td><td>0,5</td></tr>
+<tr><td>Pentaclorofenolo (PCP n. CAS 87-86-5)</td><td>5</td></tr>
 </table>
 
-### 3 Deroghe
+<sup>2</sup> I seguenti oggetti non possono essere immessi sul mercato se l’emissione di formaldeide (n. CAS 50‑00‑0) derivante dagli oggetti misurata in una camera di saggio nelle condizioni di prova descritte al numero 1 dell’appendice 14 dell’allegato XVII del regolamento (CE) n. 1907/2006[^annex217-lvlu1-lvl1-1] produce concentrazioni che superano i valori limite specificati:
 
-<sup>1</sup> I divieti di cui al numero 2 non si applicano all’importazione di materiali legnosi se questi ultimi sono solo lavorati ulteriormente o diversamente imballati in Svizzera e riesportati nella loro totalità.
+<table>
+<tr><th>Oggetto</th><th>Valore limite per la formaldeide in milligrammi per metro cubo (mg/m<sup>3</sup>)</th></tr>
+<tr><td>Oggetti, in particolare mobili, a base di materiali legnosi</td><td>0,062</td></tr>
+<tr><td>Altri oggetti, esclusi i veicoli stradali</td><td>0,080</td></tr>
+</table>
 
-<sup>2</sup> Su domanda motivata, l’UFAM può accordare, d’intesa con l’UFSP, una deroga ai divieti di cui al numero 2 se:
+<sup>3</sup> I veicoli stradali non possono essere immessi sul mercato se contengono oggetti la cui emissione di formaldeide misurata nelle condizioni di prova descritte al numero 2 dell’appendice 14 dell’allegato XVII del regolamento (CE) n. 1907/2006 produce una concentrazione all’interno di questi veicoli che supera il valore di 0,062 mg/m<sup>3</sup>.
 
-- a. i superamenti dei valori limite non sono riconducibili alla materia prima secondaria; e
-- b. i materiali legnosi non contengono le sostanze elencate in quantità maggiori rispetto a quelle che, per ragioni tecniche, sono necessarie per la fabbricazione o servono per l’impiego previsto.
+[^annex217-lvlu1-lvl1-1]: Cfr. nota a piè di pagina relativa all’all. 2.9 n. 1.1 cpv. 6 lett. b.
 
-### 4 Disposizione transitoria
+### 2 Deroghe
 
-I divieti di cui al numero 2 entrano in vigore il 1° agosto 2006.
+<sup>1</sup> Il divieto di cui al numero 1 capoverso 2 non si applica all’immissione sul mercato di:
+
+- a. oggetti che sono biocidi secondo l’articolo 2 capoverso 1 lettera a dell’OBioc[^annex217-lvlu1-lvl2-1];
+- b. dispositivi medici secondo l’articolo 4 capoverso 1 lettera b della LATer[^annex217-lvlu1-lvl2-2];
+- c. materiali e oggetti secondo l’articolo 48 dell’ODerr[^annex217-lvlu1-lvl2-3];
+- d. dispositivi di protezione individuale in conformità all’articolo 3 numero 1 del regolamento (UE) 2016/425[^annex217-lvlu1-lvl2-4];
+- e. prodotti tessili e in cuoio per i quali sono state stabilite restrizioni al contenuto di formaldeide sulla base dell’articolo 64 capoverso 2 ODerr;
+- f. oggetti usati.
+
+<sup>2</sup> Il divieto di cui al numero 1 capoverso 2 non si applica all’immissione sul mercato di:
+
+- a. formaldeide e sostanze che rilasciano formaldeide esclusivamente se sono naturalmente contenuti nei materiali con i quali sono stati fabbricati gli oggetti;
+- b. oggetti di cui è previsto l’utilizzo esclusivamente all’aperto;
+- c. oggetti destinati esclusivamente all’impiego al di fuori dell’involucro o della barriera vapore di un edificio e che non rilasciano formaldeide nell’aria all’interno dei locali;
+- d. oggetti destinati esclusivamente all’uso industriale o commerciale e, se utilizzati come previsto, la formaldeide rilasciata da essi non comporta l’esposizione del grande pubblico.
+
+<sup>3</sup> Il divieto di cui al numero 1 capoverso 3 non si applica all’immissione sul mercato di:
+
+- a. veicoli stradali destinati esclusivamente all’uso industriale o commerciale se la concentrazione di formaldeide all’interno dei veicoli utilizzati come previsto non comporta l’esposizione del grande pubblico;
+- b. veicoli usati.
+
+[^annex217-lvlu1-lvl2-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex217-lvlu1-lvl2-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex217-lvlu1-lvl2-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^annex217-lvlu1-lvl2-4]: Cfr. nota a piè di pagina relativa all’all. 1.16 n. 4.3 cpv. 1 lett. a.
+
+### 3 Disposizioni transitorie
+
+I divieti di cui al numero 1 capoversi 2 e 3 non si applicano all’immissione sul mercato di:
+
+- a. oggetti immessi per la prima volta sul mercato in Svizzera o in uno Stato membro dell’UE o dell’AELS prima del 1° giugno 2027;
+- b. veicoli stradali immessi per la prima volta sul mercato in Svizzera o in uno Stato membro dell’UE o dell’AELS prima del 6 agosto 2027.
 
 Allegato 2.18[^t-38]
 
