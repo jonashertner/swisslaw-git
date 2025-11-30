@@ -4,11 +4,11 @@ title: "Ordinance of 10 September 2008 on the Handling of Organisms in the Envir
 short: RO
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: en
-version: 2024-09-01
+version: 2025-12-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20240901/en/xml/fedlex-data-admin-ch-eli-cc-2008-614-20240901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20240901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2008-614-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,18 +19,18 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Release Ordinance, RO)
 
-of 10 September 2008 (Status as of 1 September 2024)
+of 10 September 2008 (Status as of 1 December 2025)
 
 The Swiss Federal Council,
 
-in accordance with Article 29*c* paragraphs 2 and 3, 29*d* paragraphs 2 and 4, 29*f*, 38 paragraph 3, 39 paragraph 1, 41 paragraphs 2 and 3, 44 paragraph 3, 46 paragraphs 2 and 3, 48 paragraph 2 and 59*b* of the Environmental Protection Act of 7 October 1983[^ingress-1] (EPA), with Article 11 paragraph 2, 12 paragraph 2, 14, 17 paragraphs 1, 2, 4 and 5, 19, 20 paragraphs 1–3, 24 paragraphs 2 and 3, 25 and 34 of the Gene Technology Act of 21 March 2003[^ingress-2] (GTA), and Article 29*a* paragraphs 2 and 3 as well as 29*d* of the Epidemics Act of 18 December 1970[^ingress-3], as well as in implementation of Articles 8 and 19 of the Convention on Biological Diversity of 5 June 1992[^ingress-4],
+in accordance with Article 29*c* paragraphs 2 and 3, 29*d* paragraphs 2 and 4, 29*f*, 38 paragraph 3, 39 paragraph 1, 41 paragraphs 2 and 3, 44 paragraph 3, 46 paragraphs 2 and 3, 48 paragraph 2 and 59*b* of the Environmental Protection Act of 7 October 1983[^ingress-1] (EPA), with Article 11 paragraph 2, 12 paragraph 2, 14, 17 paragraphs 1, 2, 4 and 5, 19, 20 paragraphs 1–3, 24 paragraphs 2 and 3, 25 and 34 of the Gene Technology Act of 21 March 2003[^ingress-2] ( GTA ), and Article 29*a* paragraphs 2 and 3 as well as 29*d* of the Epidemics Act of 18 December 1970[^ingress-3], as well as in implementation of Articles 8 and 19 of the Convention on Biological Diversity of 5 June 1992[^ingress-4],
 
 ordains:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: [[AS 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)No I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 95 [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890). [AS 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)Art. 85 No 1]. See now the EpidA of 28 Sept. 2012 ([SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
-[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-3]: [[AS 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)No I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 95 [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890). [AS 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)Art. 85 No 1]. See now the EpidA of 28 Sept. 2012 ([SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)).
+[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 ## Chapter 1 General Provisions
 
@@ -56,27 +56,29 @@ ordains:
 
 Putting pathogenic organisms into circulation is regulated by:
 
-- a. the Plant Protection Products Ordinance of 18 May 2005[^2-4], where the organisms are used as plant protection products in agriculture
-- b. the Biocidal Products Ordinance of 18 May 2005[^2-5],where the organisms are used as biocidal products,
+- a.[^2-4] the Plant Protection Products Ordinance of 20 August 2025[^2-5] (PlantPPO), where the organisms are used as plant protection products in agriculture
+- b. the Biocidal Products Ordinance of 18 May 2005[^2-6],where the organisms are used as biocidal products,
 
-<sup>5</sup> Putting alien insects, mites and nematodes in circulation for use as plant protection products in agriculture, and the experimental release of such organisms is governed by the Ordinance of 18 May 2005 on Plant Protection Products.
+<sup>5</sup> Putting beneficial organisms as defined in Article 4 paragraph 2 letter b of the PlantPPO into circulation for the purposes specified in Article 3 paragraph 1 of the PlantPPO and the experimental release of such organisms is regulated by the PlantPPO.[^2-7]
 
 <sup>6</sup>
 
 This Ordinance does not apply to handling organisms:
 
 - a. in clinical trials on human beings;
-- b.[^2-6] listed in the Ordinance issued by the Federal Department of Economic Affairs, Education and Research and the Federal Department of the Environment, Transport, Energy and Communications based on Articles 4 paragraph 3 of the Plant Health Ordinance of 31 October 2018[^2-7], or for which the two aforementioned departments have designated a protected area based on Article 24 paragraph 2 of the Plant Health Ordinance;
-- c.[^2-8] that are listed as potential quarantine organisms in the ordinance issued by the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) based on Article 5 paragraph 2 of the Plant Health Ordinance.
+- b.[^2-8] listed in the Ordinance issued by the Federal Department of Economic Affairs, Education and Research and the Federal Department of the Environment, Transport, Energy and Communications based on Articles 4 paragraph 3 of the Plant Health Ordinance of 31 October 2018[^2-9], or for which the two aforementioned departments have designated a protected area based on Article 24 paragraph 2 of the Plant Health Ordinance;
+- c.[^2-10] that are listed as potential quarantine organisms in the ordinance issued by the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) based on Article 5 paragraph 2 of the Plant Health Ordinance.
 
-[^2-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-1]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^2-2]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^2-3]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^2-4]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481); [4097](https://fedlex.data.admin.ch/eli/oc/2005/541); [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III; [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54; [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641); [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11; [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3; [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278); [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: Ordinance of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^2-5]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-6]: Amended by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^2-7]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^2-8]: Inserted by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^2-3]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
+[^2-4]: Amended by Annex 10 No II 6 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^2-5]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^2-6]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^2-7]: Amended by Annex 10 No II 6 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^2-8]: Amended by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^2-9]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^2-10]: Inserted by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 3
 
@@ -184,7 +186,7 @@ Genetically modified organisms may not be directly handled in the environment, i
 - c. the recipient organisms used for the genetic modification are invasive.
 
 [^7-1]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^7-2]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^7-2]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 #### Art. 8
 
@@ -204,7 +206,7 @@ Habitats and landscapes that are particularly sensitive or worthy of protection 
 - f. areas under landscape protection in accordance with federal or cantonal law.
 
 [^8-1]: Amended by Annex No 3 of the Ordinance of 4 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^8-2]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^8-2]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 9
 
@@ -278,15 +280,15 @@ Labelling may be waived for mixtures, articles and products that contain genetic
 
 Any person who intends to release genetically modified organisms that require authorisation for experimental purposes must guarantee legal liability:
 
-- a. of 10 million Swiss francs to cover damage to persons or property (Art. 30 GTA); and
-- b. of 1 million Swiss francs to cover damage to the environment (Art. 31 GTA).
+- a. of 10 million Swiss francs to cover damage to persons or property (Art. 30 GTA ); and
+- b. of 1 million Swiss francs to cover damage to the environment (Art. 31 GTA ).
 
 <sup>3</sup>
 
 Any person who intends to put organisms into circulation for direct handling in the environment for the first time must guarantee legal liability:
 
-- a. of 20 million Swiss francs to cover damage to persons or property (Art. 30 GTA); and
-- b. of 2 million Swiss francs to cover damage to the environment (Art. 31 GTA).
+- a. of 20 million Swiss francs to cover damage to persons or property (Art. 30 GTA ); and
+- b. of 2 million Swiss francs to cover damage to the environment (Art. 31 GTA ).
 
 <sup>4</sup>
 
@@ -328,7 +330,7 @@ The handling of pathogenic organisms in the environment must be carried out in s
 
 <sup>2</sup> Pathogenic organisms which are classified into Groups 3 or 4 in accordance with Article 6 ContainO[^12-1], or which are invasive, may not be handled directly in the environment; the foregoing does not apply to their primary detection in accordance with Article 5*a* ContainO.[^12-2]
 
-[^12-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^12-1]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^12-2]: Amended by Annex No 2 of the O of 27 Sept. 2019, in force since 1 Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 13
@@ -467,7 +469,7 @@ The application must contain the following documents, in particular:
   - 2\. reasons why the information sought cannot be obtained through experiments in contained systems,
   - 3\. a presentation of the anticipated new scientific results in terms of the impacts on human beings, animals or the environment, biological diversity and the sustainable use thereof and the efficacy of safety measures which can be gained thanks to the experiment;
 
-- b. a technical dossier with the information in accordance with Annexes IIIA or IIIB of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001[^19-1] on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC, but without details of the monitoring plans;
+- b. a technical dossier with the information in accordance with Annexes IIIA or IIIB of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001[^19-1] on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/ EEC , but without details of the monitoring plans;
 - c.
 
   the results of previous experiments, in particular:
@@ -650,27 +652,27 @@ Authorisation in accordance with Article 25 shall be issued by one of the follow
 <tr><td>b. foodstuffs, additives and processing aids</td><td colspan="3">Federal Food Safety and Veterinary Office (FSVO)[^26-2]</td><td colspan="4">Foodstuffs and Utility Articles Ordinance of 23 November 2005[^26-3]</td></tr>
 <tr><td>c. plant propagation material exclusively for use in forests</td><td colspan="3">FOEN</td><td colspan="4">Release Ordinance of 10 September 2008</td></tr>
 <tr><td>d.[^26-4] plant propagation material for all other uses</td><td colspan="3">Federal Office for Agriculture (FOAG)</td><td colspan="4">Seeds Ordinance of 7 December 1998[^26-5]</td></tr>
-<tr><td>[tab] e.[^26-6]plant protection products</td><td colspan="3">FSVO</td><td colspan="4">Plant Protection Products Ordinance of 12 May 2010[^26-7]</td></tr>
+<tr><td>e.[^26-6] plant protection products and beneficial organisms</td><td colspan="3">FSVO</td><td colspan="4">PlantPPO[^26-7]</td></tr>
 <tr><td>f. fertilisers</td><td colspan="3">FOAG</td><td colspan="4">Fertilisers Ordinance of 10 January 2001[^26-8]</td></tr>
 <tr><td>g. animal feedstuffs</td><td colspan="3">FOAG</td><td colspan="4">Feedstuffs Ordinance of 26 May 1999[^26-9]</td></tr>
-<tr><td colspan="3">[tab] h.[^26-10]...</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">[tab] i.[^26-11]...</td><td colspan="4"></td><td></td></tr>
+<tr><td colspan="3">h.[^26-10] ...</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">i.[^26-11] ...</td><td colspan="4"></td><td></td></tr>
 <tr><td colspan="2">j. biocidal products</td><td colspan="4">FOPH</td><td>Biocidal Products Ordinance of 18 May 2005[^26-12]</td></tr>
 <tr><td colspan="2">k. all other uses</td><td colspan="4">FOEN</td><td>Release Ordinance of 10 September 2008</td></tr>
 </table>
 
-[^26-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588).The reference has been modified as of 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). The change has been made throughout the text.
+[^26-1]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362).The reference has been modified as of 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). The change has been made throughout the text.
 [^26-2]: The name of this administrative unit was changed in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2014. The change has been made throughout the text.
-[^26-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Annex 2 No II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Annex 3 No II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Annex No II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94para. 1]. See now the O of 16 Dec. 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^26-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Annex 2 No II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Annex 3 No II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Annex No II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94para. 1]. See now the O of 16 Dec. 2016 ([SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)).
 [^26-4]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^26-5]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^26-6]: Amended by Annex No 2 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^26-7]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^26-8]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Annex No 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. See now: O of 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
-[^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^26-5]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^26-6]: Amended by Annex 10 No II 6 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^26-7]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^26-8]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Annex No 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. See now: O of 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
+[^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
 [^26-10]: Repealed by Annex No 3 of the O of 23 Nov. 2022, with effect from 1 Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 [^26-11]: Repealed by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, with effect since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^26-12]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^26-12]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 27
 
@@ -682,9 +684,9 @@ Authorisation is not required for putting the following into circulation:
 - b. animal feedstuffs in accordance with Article 21*b* Feedstuffs Ordinance of 26 May 1999[^27-2];
 - c. foodstuffs, if the requirements of Article 23 of the Foodstuffs and Utility Articles Ordinance of 23 November 2005[^27-3] have been fulfilled.
 
-[^27-1]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^27-2]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^27-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Annex 2 No II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Annex 3 No II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Annex No II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94para. 1]. See now the O of 16 Dec. 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^27-1]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^27-2]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
+[^27-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Annex 2 No II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Annex 3 No II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Annex No II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94para. 1]. See now the O of 16 Dec. 2016 ([SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)).
 
 #### Art. 28
 
@@ -696,7 +698,7 @@ Authorisation is not required for putting the following into circulation:
 
 The application must contain the following documents, in particular:
 
-- a. a technical dossier with the information in accordance with Annexes IIIA or IIIB and IV of the Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001[^28-1] on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC;
+- a. a technical dossier with the information in accordance with Annexes IIIA or IIIB and IV of the Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001[^28-1] on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/ EEC ;
 - b. the results of previous experiments using the same organisms concerning hazards to human beings or the environment, or impairments caused to the same, in particular, experiments in contained systems or, possibly, field trials;
 - c. if available, any authorisations and evaluations from Swiss and foreign authorities for the experimental release and putting into circulation of the same organisms;
 - d. a risk determination and assessment in accordance with Annex 4;
@@ -716,7 +718,7 @@ The application must contain the following documents, in particular:
 
 [^28-1]: OJ. L 106 of 17.4.2001, p. 1; the text of the Directive can be obtained from the FOEN, 3003 Bern.
 [^28-2]: Inserted by Annex No 4 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^28-3]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^28-3]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 29
 
@@ -746,7 +748,7 @@ The application must contain the following documents, in particular:
 <sup>3</sup> The documentation of the results of previous experiments in accordance with paragraph 2 letter b may refer to data or results from another applicant, if this person has given written permission.
 
 [^29-1]: Inserted by Annex No 4 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^29-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^29-2]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 30
 
@@ -775,7 +777,7 @@ The application must contain the following documents, in particular:
 <sup>3</sup> The documentation of the results of previous experiments in accordance with paragraph 2 letter b may refer to data or results from another applicant, if this person has given written permission.
 
 [^30-1]: Inserted by Annex No 4 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^30-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^30-2]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 31
 
@@ -854,7 +856,7 @@ It shall give notice of receipt of the application in the Federal Gazette, when 
 
 <sup>5</sup> The FOEN may take part in public information events to inform the public about the progress of the procedure.
 
-[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37
 
@@ -891,7 +893,7 @@ The FOEN shall authorise the experimental release, taking into consideration the
   in the case of genetically modified organisms, additionally:
 
   - 1\. production that does not use genetically modified organisms and consumers’ freedom of choice are not harmed (Art. 9),
-  - 2\. the assessment of the application, in particular based on the evaluation of interests in accordance with Article 8 GTA, leads to the conclusion that the genetic modification has not failed to respect the dignity of living beings in the animals or plants used,
+  - 2\. the assessment of the application, in particular based on the evaluation of interests in accordance with Article 8 GTA , leads to the conclusion that the genetic modification has not failed to respect the dignity of living beings in the animals or plants used,
   - 3\. it has been shown that in terms of direct handling in the environment, the experimental release contributes to researching the biosafety of genetically modified organisms;
 
 - d. based on the assessment of the application, in particular based on the risk assessment, the experimental release is permissible under the laws enforced by the FOPH, FSVO and FOAG, and if these offices approve carrying out the experimental release.
@@ -1002,7 +1004,7 @@ The licensing authority shall authorise putting the organisms into circulation, 
   in the case of genetically modified organisms, additionally:
 
   - 1\. production that does not use genetically modified organisms (Art. 9) and consumers’ freedom of choice are not impaired,
-  - 2\. the assessment of the application, in particular based on the evaluation of interests in accordance with Article 8 GTA, leads to the conclusion that the genetic modification has not failed to respect the dignity of living beings in the animals or plants used;
+  - 2\. the assessment of the application, in particular based on the evaluation of interests in accordance with Article 8 GTA , leads to the conclusion that the genetic modification has not failed to respect the dignity of living beings in the animals or plants used;
 
 - d. putting the organisms into circulation is permissible under the laws enforced by the FOPH and FOEN, and if applicable the FSVO and FOAG, and these offices therefore approve putting the organisms into circulation;
 - e.[^44-1] in respect of organisms that are used genetic resources or whose development is based on used genetic resources or on traditional knowledge based thereon, the duty to register in terms of Article 4 or 8 paragraph 3 of the Nagoya Ordinance of 11 December 2015[^44-2] has been complied with.
@@ -1017,7 +1019,7 @@ The licensing authority may make authorisation subject to conditions, and may in
 <sup>3</sup> Authorisation is valid for up to 10 years. It may be extended for a further 10 years maximum if the competent authority and the specialist agencies, taking into account possible new findings, conclude that the conditions given in paragraph 1 continue to be met.
 
 [^44-1]: Inserted by Annex No 4 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^44-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^44-2]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 45
 
@@ -1065,12 +1067,12 @@ Subsequent monitoring (supervising the market) shall be carried out:
 - b. for foodstuffs and utensils in accordance with the Foodstuffs Act of 9 October 1992[^47-2];
 - c. for plant propagation materials exclusively for use in forests in accordance with the Forests Ordinance of 30 November 1992[^47-3];
 - d. for plant propagation materials for all other uses in accordance with the Seeds Ordinance of 7 December 1998[^47-4];
-- e. for plant protection products in accordance with the Plant Protection Products Ordinance of 18 May 2005[^47-5];
-- f. for fertilisers in accordance with the Fertilisers Ordinance of 10 January 2001[^47-6];
-- g. for animal feedstuffs in accordance with the Feedstuffs Ordinance of 26 May 1999[^47-7];
+- e.[^47-5] for plant protection products in accordance with the PlantPPO[^47-6];
+- f. for fertilisers in accordance with the Fertilisers Ordinance of 10 January 2001[^47-7];
+- g. for animal feedstuffs in accordance with the Feedstuffs Ordinance of 26 May 1999[^47-8];
 - h. for immunological products for veterinary use in accordance with the Therapeutic Products Act of 15 December 2000;
-- i.[^47-8] …
-- j. for biocidal products in accordance with the Biocidal Products Ordinance of 18 May 2005[^47-9].
+- i.[^47-9] ...
+- j. for biocidal products in accordance with the Biocidal Products Ordinance of 18 May 2005[^47-10].
 
 <sup>2</sup> The responsible authority shall inform the FOEN and FOPH about orders it has issued, if the requirements of this Ordinance are affected.
 
@@ -1078,15 +1080,16 @@ Subsequent monitoring (supervising the market) shall be carried out:
 
 <sup>4</sup> If the monitoring shows that provisions of this Ordinance have been contravened, the person responsible shall bear the costs of the monitoring.
 
-[^47-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^47-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now: the FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
-[^47-3]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
-[^47-4]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^47-5]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481); [4097](https://fedlex.data.admin.ch/eli/oc/2005/541); [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III; [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54; [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641); [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11; [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3; [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278); [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: O of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^47-6]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^47-7]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^47-8]: Repealed by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, with effect from 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^47-9]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^47-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^47-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now: the FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
+[^47-3]: [SR 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
+[^47-4]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^47-5]: Amended by Annex 10 No II 6 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^47-6]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^47-7]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Annex No 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. See now: O of 1 Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
+[^47-8]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
+[^47-9]: Repealed by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, with effect from 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^47-10]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 48
 
@@ -1170,10 +1173,10 @@ If the analysis of the data and observations produces indications of damage or i
 - a. the FOEN, together with other affected federal agencies, shall investigate scientifically whether a causal connection could exist between these damage or impairments and the presence of the monitored organisms in accordance with paragraph 1;
 - b. the FOEN shall inform the cantons.
 
-[^51-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^51-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^51-3]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^51-4]: [SR 919.118](https://fedlex.data.admin.ch/eli/cc/1999/58)
+[^51-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^51-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^51-3]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^51-4]: [SR 919.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10955)
 [^51-5]: Amended by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 52
@@ -1261,8 +1264,8 @@ Any person submitting documents to the authorities must:
 
 <sup>2</sup> A fee shall be charged for statements from federal agencies that submit a statement as part of the issuing of orders and the provision of services by the FOEN in accordance with Article 8 of the General Ordinance on Charges of 8 September 2004[^57-2].
 
-[^57-1]: [SR 814.014](https://fedlex.data.admin.ch/eli/cc/2005/449)
-[^57-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^57-1]: [SR 814.014](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9451)
+[^57-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### Section 7 Further Duties of the FOEN and of DETEC
 
@@ -1889,17 +1892,17 @@ in the case of genetically modified organisms, the long-term preservation of pro
 
 <sup>2</sup> To protect human beings, animals and the environment, as well as biological diversity and the sustainable use thereof, the following damage scenarios, at least, must be examined:
 
-- a. *Endangerment to human health caused by the organisms or their gene products*: the type (allergenicity, pathogenicity, toxicity etc.) and the severity of possible effects must be indicated;
-- b. *Establishment and spread of the organisms*: the paths of escape from the site of use, the conditions for establishment in the environment, the development of population density, the extent of displacement of other organisms (single individuals, whole populations, whole species) and the species affected (cultivated or wild organisms, endangered or useful species) must be indicated;
+- *Endangerment to human health caused by the organisms or their gene products*: the type (allergenicity, pathogenicity, toxicity etc.) and the severity of possible effects must be indicated;
+- *Establishment and spread of the organisms*: the paths of escape from the site of use, the conditions for establishment in the environment, the development of population density, the extent of displacement of other organisms (single individuals, whole populations, whole species) and the species affected (cultivated or wild organisms, endangered or useful species) must be indicated;
 - c. *Gene transfer:* the paths for a transmission of genetic material, the mechanisms of crossing out or recombination and the possible crossing partners, the fertility of the offspring and their selective advantages must be indicated;
 - d. *Impairment of other organisms (non-target organisms):* the type of direct effects (e.g. through toxic gene products) or indirect effects (e.g. through an alteration of soil cultivation) and the duration (acute, chronic) and severity of the effects must be indicated;
 - e. *Endangerment of material cycles*: the type of alteration of pollutants and nutrients in the soil or in water and the degree of the alteration must be indicated and must be evaluated in terms of the disturbance of important ecosystem functions (nitrogen fixation, soil respiration etc.);
 - f. *Development of resistance*: the type of resistance developed, the consequences for control strategies and the ecological impacts of alternative control strategies must be indicated.
 - [tab] <sup>3</sup> In the case of genetically modified organisms, to protect production that does not use genetically modified organisms the following damage scenarios, at least, must be examined:
-- a. *Contamination of production areas through vertical gene transfer:* gene transfer through sexual recombination (e.g. crossing-out mechanisms, pollen flight distances, possible crossing partners within the species cultivated or used, fertility of offspring and their selective advantages) must be indicated;
-- b. *Contamination of products without genetically modified organisms through the use of equipment:* the use of equipment to release and process the organisms (e.g. sowing or harvesting machines), customary usage (e.g. one’s own machines and those borrowed from cooperatives), as well as cleaning procedures must be indicated;
-- c. *Contamination of products without genetically modified organisms through unintentional losses:* possible escape paths (e.g. second growth, drift of plant protection products, losses in transport), as well as the establishment and spread of the organisms (e.g. conditions for establishment in the environment, development of population density) must be indicated;
-- d. *Contamination of products without genetically modified organisms in processing:* the usual processing paths, steps and locations at which mixtures and ambiguities could occur must be indicated.
+- *Contamination of production areas through vertical gene transfer:* gene transfer through sexual recombination (e.g. crossing-out mechanisms, pollen flight distances, possible crossing partners within the species cultivated or used, fertility of offspring and their selective advantages) must be indicated;
+- *Contamination of products without genetically modified organisms through the use of equipment:* the use of equipment to release and process the organisms (e.g. sowing or harvesting machines), customary usage (e.g. one’s own machines and those borrowed from cooperatives), as well as cleaning procedures must be indicated;
+- *Contamination of products without genetically modified organisms through unintentional losses:* possible escape paths (e.g. second growth, drift of plant protection products, losses in transport), as well as the establishment and spread of the organisms (e.g. conditions for establishment in the environment, development of population density) must be indicated;
+- *Contamination of products without genetically modified organisms in processing:* the usual processing paths, steps and locations at which mixtures and ambiguities could occur must be indicated.
 - [tab] <sup>4</sup> The probability that damage could occur during handling in the environment must be determined for all damage scenarios.
 
 <sup>5</sup> The information must be quantified as far as possible.

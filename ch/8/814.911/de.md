@@ -4,11 +4,11 @@ title: "Verordnung vom 10. September 2008 über den Umgang mit Organismen in der
 short: FrSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: de
-version: 2024-09-01
+version: 2025-12-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2008-614-20240901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2008-614-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20240901/de"
 
 (Freisetzungsverordnung, FrSV)
 
-vom 10. September 2008 (Stand am 1. September 2024)
+vom 10. September 2008 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 29*c* Absätze 2 und 3, 29*d* Absätze 2 und 4, 29*f*,
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: [[AS 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)Ziff. I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 95, [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890). [AS 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)Art. 85 Ziff. 1]. Siehe heute: das Epidemiengesetz vom 28. Sept. 2012 ([SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
-[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-3]: [[AS 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)Ziff. I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Anhang Ziff. II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 95, [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890). [AS 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)Art. 85 Ziff. 1]. Siehe heute: das Epidemiengesetz vom 28. Sept. 2012 ([SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)).
+[^ingress-4]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -54,27 +54,29 @@ verordnet:
 
 Für das Inverkehrbringen pathogener Organismen:
 
-- a. zur Verwendung als Pflanzenschutzmittel in der Landwirtschaft gilt die Pflanzenschutzmittelverordnung vom 18. Mai 2005[^2-4];
-- b. zur Verwendung als Biozidprodukt gilt die Biozidprodukteverordnung vom 18. Mai 2005[^2-5].
+- a.[^2-4] zur Verwendung als Pflanzenschutzmittel in der Landwirtschaft gilt die Pflanzenschutzmittelverordnung vom 20. August 2025[^2-5] (PSMV);
+- b. zur Verwendung als Biozidprodukt gilt die Biozidprodukteverordnung vom 18. Mai 2005[^2-6].
 
-<sup>5</sup> Für das Inverkehrbringen gebietsfremder Insekten, Milben und Fadenwürmer zur Verwendung als Pflanzenschutzmittel in der Landwirtschaft sowie für Freisetzungsversuche mit solchen Organismen gilt die Pflanzenschutzmittelverordnung vom 18. Mai 2005.
+<sup>5</sup> Für das Inverkehrbringen von Nützlingen im Sinne von Artikel 4 Absatz 2 Buchstabe b der PSMV zu den Zwecken nach Artikel 3 Absatz 1 der PSMV sowie für Freisetzungsversuche mit solchen Organismen gilt die PSMV.[^2-7]
 
 <sup>6</sup>
 
 Diese Verordnung gilt nicht für den Umgang mit Organismen:
 
 - a. im Rahmen klinischer Versuche am Menschen;
-- b.[^2-6] die in der Verordnung aufgeführt sind, die das Eidgenössische Departement für Wirtschaft, Bildung und Forschung und das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) gestützt auf Artikel 4 Absatz 3 der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^2-7] erlassen haben, oder für die die zwei genannten Departemente gestützt auf Artikel 24 Absatz 2 der Pflanzengesundheitsverordnung ein Schutzgebiet ausgeschieden haben;
-- c.[^2-8] die in der Verordnung, die das Bundesamt für Landwirtschaft (BLW) beziehungsweise das Bundesamt für Umwelt (BAFU) gestützt auf Artikel 5 Absatz 2 der Pflanzengesundheitsverordnung erlassen hat, als potenzielle Quarantäneorganismen festgelegt worden sind.
+- b.[^2-8] die in der Verordnung aufgeführt sind, die das Eidgenössische Departement für Wirtschaft, Bildung und Forschung und das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) gestützt auf Artikel 4 Absatz 3 der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^2-9] erlassen haben, oder für die die zwei genannten Departemente gestützt auf Artikel 24 Absatz 2 der Pflanzengesundheitsverordnung ein Schutzgebiet ausgeschieden haben;
+- c.[^2-10] die in der Verordnung, die das Bundesamt für Landwirtschaft (BLW) beziehungsweise das Bundesamt für Umwelt (BAFU) gestützt auf Artikel 5 Absatz 2 der Pflanzengesundheitsverordnung erlassen hat, als potenzielle Quarantäneorganismen festgelegt worden sind.
 
-[^2-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^2-1]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^2-2]: Fassung gemäss Anhang 5 Ziff. 10 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^2-3]: [SR 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^2-4]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278), [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^2-5]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-6]: Fassung gemäss Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^2-7]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^2-8]: Eingefügt durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^2-3]: [SR 832.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10240)
+[^2-4]: Fassung gemäss Anhang 10 Ziff. II 6 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^2-5]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^2-6]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^2-7]: Fassung gemäss Anhang 10 Ziff. II 6 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^2-8]: Fassung gemäss Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^2-9]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^2-10]: Eingefügt durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 3
 
@@ -182,7 +184,7 @@ Mit gentechnisch veränderten Organismen darf nicht direkt in der Umwelt umgegan
 - c. die für die gentechnische Veränderung verwendeten Empfängerorganismen invasiv sind.
 
 [^7-1]: Fassung gemäss Anhang 5 Ziff. 10 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^7-2]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^7-2]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 #### Art. 8
 
@@ -202,7 +204,7 @@ Besonders empfindliche oder schützenswerte Lebensräume und Landschaften sind:
 - f. Gebiete, die nach eidgenössischem oder kantonalem Recht unter Landschaftsschutz stehen.
 
 [^8-1]: Fassung gemäss Anhang Ziff. 3 der V vom 4. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^8-2]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^8-2]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 9
 
@@ -326,7 +328,7 @@ Der Umgang mit pathogenen Organismen in der Umwelt muss so erfolgen, dass dadurc
 
 <sup>2</sup> Mit pathogenen Organismen, die nach Artikel 6 ESV[^12-1] der Gruppe 3 oder 4 zugeordnet werden oder die invasiv sind, darf in der Umwelt nicht direkt umgegangen werden; vorbehalten bleibt ihr primärer Nachweis nach Artikel 5*a* ESV.[^12-2]
 
-[^12-1]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^12-1]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 [^12-2]: Fassung gemäss Anhang Ziff. 2 der V vom 27. Sept. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3131](https://fedlex.data.admin.ch/eli/oc/2019/578)).
 
 #### Art. 13
@@ -649,7 +651,7 @@ Die Bewilligung nach Artikel 25 wird, je nach Produkt, von einer der folgenden B
 <tr><td>b. Lebensmittel, Zusatzstoffe und Verarbeitungshilfsstoffe</td><td>Bundesamt für Lebensmittelsicherheit und Veterinär- wesen (BLV)[^26-2]</td><td>Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005[^26-3]</td></tr>
 <tr><td>c. pflanzliches Vermehrungsmaterial für ausschliesslich forstwirtschaftliche Verwendungen</td><td>BAFU</td><td>Freisetzungsverordnung vom 10. September 2008</td></tr>
 <tr><td>d.[^26-4] pflanzliches Vermehrungsmaterial für alle übrigen Verwendungen</td><td>BLW</td><td>Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^26-5]</td></tr>
-<tr><td>e.[^26-6] Pflanzenschutzmittel</td><td>BLV</td><td>Pflanzenschutzmittelverordnung vom 12. Mai 2010[^26-7]</td></tr>
+<tr><td>e.[^26-6] Pflanzenschutzmittel und Nützlinge</td><td>BLV</td><td>PSMV[^26-7]</td></tr>
 <tr><td>f. Dünger</td><td>BLW</td><td>Dünger-Verordnung vom 10. Januar 2001[^26-8]</td></tr>
 <tr><td>g. Futtermittel</td><td>BLW</td><td>Futtermittel-Verordnung vom 26. Mai 1999[^26-9]</td></tr>
 <tr><td>h.[^26-10] …</td><td></td><td></td></tr>
@@ -658,18 +660,18 @@ Die Bewilligung nach Artikel 25 wird, je nach Produkt, von einer der folgenden B
 <tr><td>k. alle übrigen Produkte</td><td>BAFU</td><td>Freisetzungsverordnung vom 10. September 2008</td></tr>
 </table>
 
-[^26-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^26-1]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^26-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^26-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94 Abs. 1]. Siehe heute die V vom 16. Dezember 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^26-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94 Abs. 1]. Siehe heute die V vom 16. Dezember 2016 ([SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)).
 [^26-4]: Fassung gemäss Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^26-5]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^26-6]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^26-7]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^26-8]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Siehe heute: die V vom 1. November 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
-[^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^26-5]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^26-6]: Fassung gemäss Anhang 10 Ziff. II 6 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^26-7]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^26-8]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Siehe heute: die V vom 1. November 2023 ([SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
+[^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
 [^26-10]: Aufgehoben durch Anhang Ziff. 3 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 [^26-11]: Aufgehoben durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^26-12]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^26-12]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 27
 
@@ -681,9 +683,9 @@ Keine Bewilligung ist erforderlich für das Inverkehrbringen von:
 - b. Futtermitteln nach Artikel 21*b* der Futtermittel-Verordnung vom 26. Mai 1999[^27-2];
 - c. Lebensmitteln, sofern die Voraussetzungen nach Artikel 23 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005[^27-3] erfüllt sind.
 
-[^27-1]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^27-2]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^27-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94 Abs. 1]. Siehe heute die V vom 16. Dezember 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^27-1]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^27-2]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
+[^27-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94 Abs. 1]. Siehe heute die V vom 16. Dezember 2016 ([SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)).
 
 #### Art. 28
 
@@ -715,7 +717,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 
 [^28-1]: ABl. L 106 vom 17.4.2001, S. 1; der Text der Richtlinie kann beim BAFU, 3003 Bern bezogen werden.
 [^28-2]: Eingefügt durch Anhang Ziff. 4 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^28-3]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^28-3]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 29
 
@@ -745,7 +747,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 <sup>3</sup> In der Dokumentation der Ergebnisse früherer Untersuchungen nach Absatz 2 Buchstabe b kann auf Daten oder Ergebnisse einer anderen Gesuchstellerin oder eines anderen Gesuchstellers verwiesen werden, sofern diese oder dieser schriftlich zugestimmt hat.
 
 [^29-1]: Eingefügt durch Anhang Ziff. 4 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^29-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^29-2]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 30
 
@@ -774,7 +776,7 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 <sup>3</sup> In der Dokumentation der Ergebnisse früherer Untersuchungen nach Absatz 2 Buchstabe b kann auf Daten oder Ergebnisse einer anderen Gesuchstellerin oder eines anderen Gesuchstellers verwiesen werden, sofern diese oder dieser schriftlich zugestimmt hat.
 
 [^30-1]: Eingefügt durch Anhang Ziff. 4 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^30-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^30-2]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 31
 
@@ -853,7 +855,7 @@ Es publiziert den Eingang des Gesuchs im Bundesblatt, sobald das Gesuch vollstä
 
 <sup>5</sup> Das BAFU kann an öffentlichen Orientierungsveranstaltungen teilnehmen; es orientiert dabei über den Ablauf des Verfahrens.
 
-[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37
 
@@ -1016,7 +1018,7 @@ Die Bewilligungsbehörde kann die Bewilligung mit Auflagen verknüpfen und insbe
 <sup>3</sup> Die Bewilligung ist auf höchstens zehn Jahre befristet. Sie wird jeweils für höchstens zehn weitere Jahre verlängert, wenn die zuständige Behörde und die Fachstellen unter Einbezug allfälliger neuer Erkenntnisse zur Schlussfolgerung gelangen, dass die Anforderungen nach Absatz 1 weiterhin erfüllt sind.
 
 [^44-1]: Eingefügt durch Anhang Ziff. 4 der Nagoya-Verordnung vom 11. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
-[^44-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^44-2]: [SR 451.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7181)
 
 #### Art. 45
 
@@ -1064,12 +1066,12 @@ Die nachträgliche Kontrolle (Marktüberwachung) wird durchgeführt:
 - b. bei Lebensmitteln und Gebrauchsgegenständen nach dem Lebensmittelgesetz vom 9. Oktober 1992[^47-2];
 - c. bei pflanzlichem Vermehrungsmaterial für ausschliesslich forstwirtschaftliche Verwendungen nach der Waldverordnung vom 30. November 1992[^47-3];
 - d. bei pflanzlichem Vermehrungsmaterial für alle übrigen Verwendungen nach der Saatgut-Verordnung vom 7. Dezember 1998[^47-4];
-- e. bei Pflanzenschutzmitteln nach der Pflanzenschutzmittelverordnung vom 18. Mai 2005[^47-5];
-- f. bei Düngern nach der Dünger-Verordnung vom 10. Januar 2001[^47-6];
-- g. bei Futtermitteln nach der Futtermittel-Verordnung vom 26. Mai 1999[^47-7];
+- e.[^47-5] bei Pflanzenschutzmitteln nach der PSMV[^47-6];
+- f. bei Düngern nach der Dünger-Verordnung vom 10. Januar 2001[^47-7];
+- g. bei Futtermitteln nach der Futtermittel-Verordnung vom 26. Mai 1999[^47-8];
 - h. bei immunologischen Arzneimitteln für den tierärztlichen Gebrauch nach dem Heilmittelgesetz vom 15. Dezember 2000;
-- i.[^47-8] …
-- j. bei Biozidprodukten nach der Biozidprodukteverordnung vom 18. Mai 2005[^47-9].
+- i.[^47-9] …
+- j. bei Biozidprodukten nach der Biozidprodukteverordnung vom 18. Mai 2005[^47-10].
 
 <sup>2</sup> Die zuständige Behörde informiert das BAFU und das BAG über die von ihr erlassenen Verfügungen, falls Bestimmungen dieser Verordnung betroffen sind.
 
@@ -1077,15 +1079,16 @@ Die nachträgliche Kontrolle (Marktüberwachung) wird durchgeführt:
 
 <sup>4</sup> Ergibt die Kontrolle, dass Bestimmungen dieser Verordnung verletzt werden, so muss die verantwortliche Person die Kosten der Kontrolle tragen.
 
-[^47-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^47-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
-[^47-3]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
-[^47-4]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^47-5]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278), [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^47-6]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Siehe heute: die V vom 1. November 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
-[^47-7]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^47-8]: Aufgehoben durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^47-9]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^47-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^47-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
+[^47-3]: [SR 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
+[^47-4]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^47-5]: Fassung gemäss Anhang 10 Ziff. II 6 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^47-6]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^47-7]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Siehe heute: die V vom 1. November 2023 ([SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)).
+[^47-8]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
+[^47-9]: Aufgehoben durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^47-10]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 48
 
@@ -1169,10 +1172,10 @@ Ergibt die Auswertung der Daten und Beobachtungen Hinweise auf Schädigungen ode
 - a. lässt das BAFU, unter Beizug anderer betroffener Bundesstellen, wissenschaftlich abklären, ob ein kausaler Zusammenhang bestehen könnte zwischen diesen Beeinträchtigungen oder Schädigungen und dem Vorhandensein der überwachten Organismen nach Absatz 1;
 - b. informiert das BAFU die Kantone.
 
-[^51-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^51-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^51-3]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^51-4]: [SR 919.118](https://fedlex.data.admin.ch/eli/cc/1999/58)
+[^51-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^51-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^51-3]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^51-4]: [SR 919.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10955)
 [^51-5]: Fassung gemäss Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 52
@@ -1260,8 +1263,8 @@ Wer den Behörden Gesuchsunterlagen einreicht, muss:
 
 <sup>2</sup> Für Stellungnahmen von Bundesämtern, die im Rahmen des Erlasses von Verfügungen und der Erbringung von Dienstleistungen durch das BAFU diesem eine Stellungnahme einreichen, wird eine Gebühr nach Artikel 8 der Allgemeinen Gebührenverordnung vom 8. September 2004[^57-2] erhoben.
 
-[^57-1]: [SR 814.014](https://fedlex.data.admin.ch/eli/cc/2005/449)
-[^57-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^57-1]: [SR 814.014](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9451)
+[^57-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ### 7. Abschnitt: Weitere Aufgaben des BAFU und des UVEK
 
