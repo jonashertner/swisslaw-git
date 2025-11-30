@@ -4,11 +4,11 @@ title: "Ordinance of 11 December 2015 on the Nagoya Protocol on Access to Geneti
 short: NagO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/39"
 language: en
-version: 2017-01-01
+version: 2025-12-01
 adopted: 2015-12-11
 in_force: 2016-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20170101/en/xml/fedlex-data-admin-ch-eli-cc-2016-39-20170101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2016-39-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Nagoya Ordinance, NagO)
 
-of 11 December 2015 (Status as of 1 January 2017)
+of 11 December 2015 (Status as of 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -27,8 +27,8 @@ based on Articles 23*n* paragraphs 5 and 6, 23*o* paragraph 3, 23*q* paragraph 1
 
 ordains:
 
-[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532)
+[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843)
 
 ## Section 1 General Provisions
 
@@ -51,7 +51,7 @@ In this Ordinance:
 - e. *commercialisation* means selling products developed on the basis of utilised genetic resources or of utilised associated traditional knowledge, as well as other legal transactions in connection with utilised genetic resources or with utilised traditional knowledge that result in monetary benefits, in particular licences, pledge agreements or similar legal transactions;
 - f. *internationally recognised certificate of compliance* means a permit or its equivalent issued at the time of access by a competent authority in accordance with Article 6 paragraph 3 letter e and Article 13 paragraph 2 of the Nagoya Protocol and registered with the international Access and Benefit-Sharing Clearing-House.
 
-[^2-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^2-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 ## Section 2 Requirements for the Utilisation of Genetic Resources and Associated Traditional Knowledge of other Parties to the Nagoya Protocol
 
@@ -204,7 +204,7 @@ The FOEN is the competent authority and focal point for the Nagoya Protocol. It 
 
 <sup>2</sup> The FOEN encourages users to voluntarily share the benefits arising from the utilisation of genetic resources or associated traditional knowledge in a fair and equitable way even when there is no legal obligation to do so. It aims to ensure that the benefits are used to conserve biological diversity and the sustainable use of their components.
 
-[^10-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^10-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 11
 
@@ -217,13 +217,13 @@ The FOEN is the competent authority and focal point for the Nagoya Protocol. It 
 <tr><td>a. Therapeutic products (Human and animal therapeutic products)</td><td>Swiss Agency for Therapeutic Products (Swissmedic)</td><td>Ordinance of 21 September 2018[^11-1] on Therapeutic Products</td></tr>
 <tr><td>b. Immunological therapeutic products for use by veterinaries</td><td>Federal Food Safety and Veterinary Office (FSVO)</td><td>Ordinance of 21 September 2018[^11-2] on Therapeutic Products</td></tr>
 <tr><td>c. Foodstuffs, additives, processing aids</td><td>FSVO</td><td>Ordinance of 23 November 2005[^11-3] on Foodstuffs and Utility Articles</td></tr>
-<tr><td>d. Plant protection products</td><td>Federal Office for Agriculture (FOAG)</td><td>Ordinance of 12 May 2010[^11-4] on Plant Protection Products</td></tr>
-<tr><td>e. Fertilisers</td><td>FOAG</td><td>Ordinance of 10 January 2001[^11-5] on the Placing on the Market of Fertilisers</td></tr>
-<tr><td>f. Animal feedstuffs</td><td>FOAG</td><td>Ordinance of 26 October 2011[^11-6] on the Production and Marketing of Feedstuffs</td></tr>
-<tr><td>g. Plant propagation material exclusively for use in forests</td><td>FOEN</td><td>Ordinance of 10 September 2008[^11-7] on the Handling of Organisms in the Environment</td></tr>
-<tr><td>h. Plant propagation material for all other uses</td><td>FOAG</td><td>Ordinance of 7 December 1998[^11-8] on the Production and Placement on the Market of Plant Propagation Material</td></tr>
-<tr><td>i. Biocide products</td><td>Federal Office of Public Health (FOPH)</td><td>Ordinance of 18 May 2005[^11-9] on Biocide Products</td></tr>
-<tr><td>j. Chemicals</td><td>FOPH</td><td>Ordinance of 5 June 2015[^11-10] on Protection against Dangerous Substances and Preparations</td></tr>
+<tr><td>[tab] d.[^11-4] Plant protection products</td><td>FSVO</td><td>Ordinance of 20 August 2025[^11-5] on Plant Protection Products</td></tr>
+<tr><td>e. Fertilisers</td><td>Federal Office for Agriculture (FOAG)</td><td>Ordinance of 10 January 2001[^11-6] on the Placing on the Market of Fertilisers</td></tr>
+<tr><td>f. Animal feedstuffs</td><td>FOAG</td><td>Ordinance of 26 October 2011[^11-7] on the Production and Marketing of Feedstuffs</td></tr>
+<tr><td>g. Plant propagation material exclusively for use in forests</td><td>FOEN</td><td>Ordinance of 10 September 2008[^11-8] on the Handling of Organisms in the Environment</td></tr>
+<tr><td>h. Plant propagation material for all other uses</td><td>FOAG</td><td>Ordinance of 7 December 1998[^11-9] on the Production and Placement on the Market of Plant Propagation Material</td></tr>
+<tr><td>i. Biocide products</td><td>Federal Office of Public Health (FOPH)</td><td>Ordinance of 18 May 2005[^11-10] on Biocide Products</td></tr>
+<tr><td>j. Chemicals</td><td>FOPH</td><td>Ordinance of 5 June 2015[^11-11] on Protection against Dangerous Substances and Preparations</td></tr>
 <tr><td>k. Other products</td><td>FOEN</td><td>Ordinance of 10 September 2008 on the Handling of Organisms in the Environment</td></tr>
 </table>
 
@@ -233,16 +233,17 @@ The FOEN is the competent authority and focal point for the Nagoya Protocol. It 
 
 <sup>4</sup> The competent authorities forward to the FOEN the information from the user or users concerning compliance with the notification requirement at its request.
 
-[^11-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588).The reference was adjusted to 1 Jan. 2019 in application of Art. 12 para. 2 of the Publication Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^11-2]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588).The reference was adjusted to 1 Jan. 2019 in application of Art. 12 para. 2 of the Publication Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^11-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^11-4]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^11-5]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^11-6]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^11-7]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^11-8]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^11-9]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^11-10]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^11-1]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362).The reference was adjusted to 1 Jan. 2019 in application of Art. 12 para. 2 of the Publication Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^11-2]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362).The reference was adjusted to 1 Jan. 2019 in application of Art. 12 para. 2 of the Publication Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^11-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^11-4]: Amended by Annex 10 No II 1 of the O of 20 Aug. 2025 on Plant Protection Products, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^11-5]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^11-6]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^11-7]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^11-8]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^11-9]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^11-10]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^11-11]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## Section 5 Final Provisions
 
@@ -259,13 +260,3 @@ The amendment of other legislation is specified in the Annex.
 <sup>1</sup> Subject to paragraph 2 below, this Ordinance comes into force on 1 February 2016.
 
 <sup>2</sup> Article 8 comes into force on 1 January 2017.
-
-Annex
-
-## Amendments of other legislation
-
-The legislation below is amended as follows:
-
-...[^annexu1-lvlu1-1]
-
-[^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39).

@@ -4,11 +4,11 @@ title: "Verordnung vom 11. Dezember 2015 über den Zugang zu genetischen Ressour
 short: NagV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/39"
 language: de
-version: 2017-01-01
+version: 2025-12-01
 adopted: 2015-12-11
 in_force: 2016-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2016-39-20170101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2016-39-20251201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20170101/de"
 
 (Nagoya-Verordnung, NagV)
 
-vom 11. Dezember 2015 (Stand am 1. Januar 2017) (Stand am 1. Januar 2017)
+vom 11. Dezember 2015 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 23*n* Absätze 5 und 6, 23*o* Absatz 3, 23*q* Absatz 1
 
 verordnet:
 
-[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532)
+[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [SR 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -49,7 +49,7 @@ In dieser Verordnung gelten als:
 - e. *Vermarktung:* Das Verkaufen von Produkten, deren Entwicklung auf genutzten genetischen Ressourcen oder auf genutztem sich auf genetische Ressourcen beziehendem traditionellem Wissen basiert, sowie andere Rechtsgeschäfte im Zusammenhang mit genutzten genetischen Ressourcen oder mit diesem genutzten Wissen, aus denen finanzielle Vorteile resultieren, insbesondere Lizenzen, Pfandverträge oder ähnliche Rechtsgeschäfte;
 - f. *International anerkanntes Konformitätszertifikat:* Eine Genehmigung oder ein gleichwertiges Dokument, die oder das zum Zeitpunkt des Zugangs von einer zuständigen Behörde gemäss Artikel 6 Absatz 3 Buchstabe e und Artikel 13 Absatz 2 des Nagoya-Protokolls ausgestellt und bei der internationalen Informationsstelle für den Zugang und die Aufteilung der Vorteile (internationales *Access and Benefit-sharing Clearing-House*) registriert wurde.
 
-[^2-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^2-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 ## 2. Abschnitt: Anforderungen an die Nutzung genetischer Ressourcen und des sich darauf beziehenden traditionellen Wissens aus anderen Vertragsparteien des Nagoya-Protokolls
 
@@ -202,7 +202,7 @@ Das BAFU ist die zuständige Behörde und Kontaktstelle für das Nagoya-Protokol
 
 <sup>2</sup> Das BAFU ermutigt die Nutzenden, Vorteile, die sich aus der Nutzung von genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen ergeben, auch bei Fehlen einer Rechtspflicht freiwillig in ausgewogener und gerechter Weise zu teilen. Es setzt sich dafür ein, dass die Vorteile für die Erhaltung der biologischen Vielfalt und die nachhaltige Nutzung ihrer Bestandteile eingesetzt werden.
 
-[^10-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^10-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 11
 
@@ -215,13 +215,13 @@ Das BAFU ist die zuständige Behörde und Kontaktstelle für das Nagoya-Protokol
 <tr><td>a. Arzneimittel (Human- und Tierarzneimittel)</td><td>Schweizerisches Heilmittelinstitut (Swissmedic)</td><td>Arzneimittelverordnung vom 21. September 2018[^11-1]</td></tr>
 <tr><td>b. immunologische Arzneimittel für den tierärztlichen Gebrauch</td><td>Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)</td><td>Arzneimittelverordnung vom 21. September 2018[^11-2]</td></tr>
 <tr><td>c. Lebensmittel, Zusatzstoffe, Verarbeitungshilfsstoffe</td><td>BLV</td><td>Lebensmittel-und Gebrauchsgegenständeverordnung vom 23. November 2005[^11-3]</td></tr>
-<tr><td>d. Pflanzenschutzmittel</td><td>Bundesamt für Landwirtschaft (BLW)</td><td>Pflanzenschutzmittelverordnung vom 12. Mai 2010[^11-4]</td></tr>
-<tr><td>e. Dünger</td><td>BLW</td><td>Dünger-Verordnung vom 10. Januar 2001[^11-5]</td></tr>
-<tr><td>f. Futtermittel</td><td>BLW</td><td>Futtermittel-Verordnung vom 26. Oktober 2011[^11-6]</td></tr>
-<tr><td>g. pflanzliches Vermehrungsmaterial für ausschliesslich forstwirtschaftliche Verwendungen</td><td>BAFU</td><td>Freisetzungsverordnung vom 10. September 2008[^11-7]</td></tr>
-<tr><td>h. pflanzliches Vermehrungsmaterial für alle übrigen Verwendungen</td><td>BLW</td><td>Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^11-8]</td></tr>
-<tr><td>i. Biozidprodukte</td><td>Bundesamt für Gesundheit (BAG)</td><td>Biozidprodukteverordnung vom 18. Mai 2005[^11-9]</td></tr>
-<tr><td>j. Chemikalien</td><td>BAG</td><td>Chemikalienverordnung vom 5. Juni 2015[^11-10]</td></tr>
+<tr><td>d.[^11-4] Pflanzenschutzmittel</td><td>BLV</td><td>Pflanzenschutzmittelverordnung vom 20. August 2025[^11-5]</td></tr>
+<tr><td>e. Dünger</td><td>BLW</td><td>Dünger-Verordnung vom 10. Januar 2001[^11-6]</td></tr>
+<tr><td>f. Futtermittel</td><td>BLW</td><td>Futtermittel-Verordnung vom 26. Oktober 2011[^11-7]</td></tr>
+<tr><td>g. pflanzliches Vermehrungsmaterial für ausschliesslich forstwirtschaftliche Verwendungen</td><td>BAFU</td><td>Freisetzungsverordnung vom 10. September 2008[^11-8]</td></tr>
+<tr><td>h. pflanzliches Vermehrungsmaterial für alle übrigen Verwendungen</td><td>BLW</td><td>Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^11-9]</td></tr>
+<tr><td>i. Biozidprodukte</td><td>Bundesamt für Gesundheit (BAG)</td><td>Biozidprodukteverordnung vom 18. Mai 2005[^11-10]</td></tr>
+<tr><td>j. Chemikalien</td><td>BAG</td><td>Chemikalienverordnung vom 5. Juni 2015[^11-11]</td></tr>
 <tr><td>k. übrige Produkte</td><td>BAFU</td><td>Freisetzungsverordnung vom 10. September 2008</td></tr>
 </table>
 
@@ -231,16 +231,17 @@ Das BAFU ist die zuständige Behörde und Kontaktstelle für das Nagoya-Protokol
 
 <sup>4</sup> Die zuständigen Behörden leiten dem BAFU die Angaben der Nutzenden über die Erfüllung der Meldepflicht auf dessen Anfrage weiter.
 
-[^11-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
-[^11-2]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
-[^11-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^11-4]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^11-5]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^11-6]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^11-7]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^11-8]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^11-9]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^11-10]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^11-1]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
+[^11-2]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
+[^11-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^11-4]: Fassung gemäss Anhang 10 Ziff. II 1 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^11-5]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^11-6]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^11-7]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^11-8]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^11-9]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^11-10]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^11-11]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## 5. Abschnitt: Schlussbestimmungen
 

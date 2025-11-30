@@ -4,11 +4,11 @@ title: "Ordonnance du 11 décembre 2015 sur l'accès aux ressources génétiques
 short: ONag
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/39"
 language: fr
-version: 2017-01-01
+version: 2025-12-01
 adopted: 2015-12-11
 in_force: 2016-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-39-20170101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2016-39-20251201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20170101/fr"
 
 (Ordonnance de Nagoya, ONag)
 
-du 11 décembre 2015 (État le 1<sup>er</sup> janvier 2017)
+du 11 décembre 2015 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 23*n*, al. 5 et 6, 23*o*, al. 3, 23*q*, al. 1, et 26 de la loi féd�
 
 arrête:
 
-[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532)
+[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843)
 
 ## Section 1 Dispositions générales
 
@@ -49,7 +49,7 @@ Dans la présente ordonnance, on entend par:
 - e. *commercialisation:* la vente de produits dont le développement repose sur l’utilisation de ressources génétiques ou sur l’utilisation de connaissances traditionnelles associées à des ressources génétiques, ainsi que tout autre acte juridique qui apporte des avantages financiers en lien avec des ressources génétiques ou des connaissances utilisées, en particulier des licences, des contrats de gage ou des actes juridiques similaires;
 - f. *certificat de conformité reconnu à l’échelle internationale:* un permis ou un document équivalent délivré par une autorité compétente au moment de l’accès conformément aux art. 6, al. 3, let. e, et 13, al. 2, du Protocole de Nagoya et enregistré auprès du Centre international d’échange sur l’accès et le partage des avantages.
 
-[^2-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^2-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 ## Section 2 Exigences relatives à l’utilisation de ressources génétiques et de connaissances traditionnelles associées à celles-ci provenant d’autres Parties au Protocole de Nagoya
 
@@ -202,7 +202,7 @@ L’OFEV est l’autorité compétente et le correspondant national pour le Prot
 
 <sup>2</sup> L’OFEV encourage les utilisateurs à partager volontairement, de manière juste et équitable, les avantages découlant de l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci, même en l’absence d’obligation légale. Il s’engage pour que les avantages obtenus soient affectés à la conservation de la diversité biologique et à l’utilisation durable de ses éléments constitutifs.
 
-[^10-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^10-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 11
 
@@ -215,13 +215,13 @@ L’OFEV est l’autorité compétente et le correspondant national pour le Prot
 <tr><td>a. médicaments (à usage humain ou vétérinaire)</td><td>Institut suisse des produits thérapeutiques (Swissmedic)</td><td>Ordonnance du 21 septembre 2018 sur les médicaments[^11-1]</td></tr>
 <tr><td>b. médicaments immunologiques à usage vétérinaire</td><td>Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)</td><td>Ordonnance du 21 septembre 2018 sur les médicaments</td></tr>
 <tr><td>c. denrées alimentaires, additifs, auxiliaires technologiques</td><td>OSAV</td><td>Ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels[^11-2]</td></tr>
-<tr><td>d. produits phytosanitaires</td><td>Office fédéral de l’agriculture (OFAG)</td><td>Ordonnance du 12 mai 2010 sur les produits phytosanitaires[^11-3]</td></tr>
-<tr><td>e. engrais</td><td>OFAG</td><td>Ordonnance du 10 janvier 2001 sur les engrais[^11-4]</td></tr>
-<tr><td>f. aliments pour animaux</td><td>OFAG</td><td>Ordonnance du 26 octobre 2011 sur les aliments pour animaux[^11-5]</td></tr>
-<tr><td>g. matériel végétal de multiplication pour emplois sylvicoles uniquement</td><td>OFEV</td><td>Ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^11-6]</td></tr>
-<tr><td>h. matériel végétal de multiplication pour tout autre emploi</td><td>OFAG</td><td>Ordonnance du 7 décembre 1998 sur le matériel de multiplication[^11-7]</td></tr>
-<tr><td>i. produits biocides</td><td>Office fédéral de la santé publique (OFSP)</td><td>Ordonnance du 18 mai 2005 sur les produits biocides[^11-8]</td></tr>
-<tr><td>j. produits chimiques</td><td>OFSP</td><td>Ordonnance du 5 juin 2015 sur les produits chimiques[^11-9]</td></tr>
+<tr><td>d.[^11-3] produits phytosanitaires</td><td>OSAV</td><td>Ordonnance du 20 août 2025 sur les produits phytosanitaires[^11-4]</td></tr>
+<tr><td>e. engrais</td><td>OFAG</td><td>Ordonnance du 10 janvier 2001 sur les engrais[^11-5]</td></tr>
+<tr><td>f. aliments pour animaux</td><td>OFAG</td><td>Ordonnance du 26 octobre 2011 sur les aliments pour animaux[^11-6]</td></tr>
+<tr><td>g. matériel végétal de multiplication pour emplois sylvicoles uniquement</td><td>OFEV</td><td>Ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^11-7]</td></tr>
+<tr><td>h. matériel végétal de multiplication pour tout autre emploi</td><td>OFAG</td><td>Ordonnance du 7 décembre 1998 sur le matériel de multiplication[^11-8]</td></tr>
+<tr><td>i. produits biocides</td><td>Office fédéral de la santé publique (OFSP)</td><td>Ordonnance du 18 mai 2005 sur les produits biocides[^11-9]</td></tr>
+<tr><td>j. produits chimiques</td><td>OFSP</td><td>Ordonnance du 5 juin 2015 sur les produits chimiques[^11-10]</td></tr>
 <tr><td>k. autres produits</td><td>OFEV</td><td>Ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement</td></tr>
 </table>
 
@@ -231,15 +231,16 @@ L’OFEV est l’autorité compétente et le correspondant national pour le Prot
 
 <sup>4</sup> Elles transmettent à l’OFEV, sur demande, les indications fournies par l’utilisateur au sujet du respect de l’obligation de notifier.
 
-[^11-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
-[^11-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^11-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^11-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^11-5]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^11-6]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^11-7]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^11-8]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^11-9]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^11-1]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2019.
+[^11-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^11-3]: Nouvelle teneur selon l’annexe 10 ch. II 1 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^11-4]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^11-5]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^11-6]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^11-7]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^11-8]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^11-9]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^11-10]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## Section 5 Dispositions finales
 

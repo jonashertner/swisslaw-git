@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 dicembre 2015 sull'accesso alle risorse genetiche e l
 short: ONag
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/39"
 language: it
-version: 2017-01-01
+version: 2025-12-01
 adopted: 2015-12-11
 in_force: 2016-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2016-39-20170101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/39/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2016-39-20251201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/39/20170101/it"
 
 (Ordinanza di Nagoya, ONag)
 
-dell’11 dicembre 2015 (Stato 1° gennaio 2017)
+dell’11 dicembre 2015 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 23*n* capoversi 5 e 6, 23*o* capoverso 3, 23*q* capoverso 1 e
 
 ordina:
 
-[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/eli/cc/2014/532)
+[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^ingress-2]: [RS 0.451.432](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1843)
 
 ## Sezione 1: Disposizioni generali
 
@@ -49,7 +49,7 @@ Nella presente ordinanza si intende per:
 - e. *commercializzazione*: vendita di prodotti il cui sviluppo si basa sull’utilizzazione di risorse genetiche o sulle conoscenze tradizionali a esse associate, nonché altri negozi giuridici relativi all’utilizzazione di risorse genetiche o a conoscenze associate e dai quali sono ricavati benefici finanziari, in particolare licenze, contratti di pegno o simili;
 - f. *certificato di conformità riconosciuto a livello internazionale*: un permesso o documento equivalente rilasciato al momento dell’accesso da un’autorità competente conformemente agli articoli 6 paragrafo 3 lettera e, nonché 13 capoverso 2 del Protocollo di Nagoya e registrato presso il Centro di scambio d’informazioni sull’accesso e la condivisione dei benefici (*Access and Benefit-sharing Clearing-House* internazionale).
 
-[^2-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^2-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 ## Sezione 2: Esigenze per l’utilizzazione di risorse genetiche e delle conoscenze tradizionali a esse associate da parte di altre Parti contraenti del Protocollo di Nagoya
 
@@ -202,7 +202,7 @@ L’UFAM è l’autorità competente e il centro di contatto per il Protocollo d
 
 <sup>2</sup> L’UFAM incoraggia gli utenti a condividere su base volontaria, in modo giusto ed equo, i benefici derivanti dall’utilizzazione di risorse genetiche o conoscenze tradizionali a esse associate anche in assenza di un obbligo legale. Esso si adopera affinché i benefici siano impiegati ai fini della conservazione della diversità biologica e dell’uso sostenibile dei suoi componenti.
 
-[^10-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^10-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 11
 
@@ -215,13 +215,13 @@ L’UFAM è l’autorità competente e il centro di contatto per il Protocollo d
 <tr><td>a. medicamenti (per uso umano e veterinario)</td><td>Istituto svizzero per gli agenti terapeutici (Swissmedic)</td><td>Ordinanza del 21 settembre 2018[^11-1] sui medicamenti</td></tr>
 <tr><td>b. medicamenti immunologici per uso veterinario</td><td>Ufficio federale della sicurezza alimentare e di veterinaria (USAV)</td><td>Ordinanza del 21 settembre 2018 sui medicamenti</td></tr>
 <tr><td>c. derrate alimentari, additivi, coadiuvanti tecnologici</td><td>USAV</td><td>Ordinanza del 23 novembre 2005[^11-2] sulle derrate alimentari e gli oggetti d’uso</td></tr>
-<tr><td>d. prodotti fitosanitari</td><td>Ufficio federale dell’agricoltura (UFAG)</td><td>Ordinanza del 12 maggio 2010[^11-3] sui prodotti fitosanitari</td></tr>
-<tr><td>e. concimi</td><td>UFAG</td><td>Ordinanza del 10 gennaio 2001[^11-4] sui concimi</td></tr>
-<tr><td>f. alimenti per animali</td><td>UFAG</td><td>Ordinanza del 26 ottobre 2011[^11-5] sugli alimenti per animali</td></tr>
-<tr><td>g. materiale vegetale di moltiplicazione destinato a un impiego esclusivamente forestale</td><td>UFAM</td><td>Ordinanza del 10 settembre 2008[^11-6] sull’emissione deliberata nell’ambiente</td></tr>
-<tr><td>h. materiale vegetale di moltiplicazione destinato a tutti gli altri impieghi</td><td>UFAG</td><td>Ordinanza del 7 dicembre 1998[^11-7] sul materiale di moltiplicazione</td></tr>
-<tr><td>i. biocidi</td><td>Ufficio federale della sanità pubblica (UFSP)</td><td>Ordinanza del 18 maggio 2005[^11-8] sui biocidi</td></tr>
-<tr><td>j. prodotti chimici</td><td>UFSP</td><td>Ordinanza del 5 giugno 2015[^11-9] sui prodotti chimici</td></tr>
+<tr><td>d.[^11-3] prodotti fitosanitari</td><td>USAV</td><td>Ordinanza del 20 agosto 2025[^11-4] sui prodotti fitosanitari</td></tr>
+<tr><td>e. concimi</td><td>UFAG</td><td>Ordinanza del 10 gennaio 2001[^11-5] sui concimi</td></tr>
+<tr><td>f. alimenti per animali</td><td>UFAG</td><td>Ordinanza del 26 ottobre 2011[^11-6] sugli alimenti per animali</td></tr>
+<tr><td>g. materiale vegetale di moltiplicazione destinato a un impiego esclusivamente forestale</td><td>UFAM</td><td>Ordinanza del 10 settembre 2008[^11-7] sull’emissione deliberata nell’ambiente</td></tr>
+<tr><td>h. materiale vegetale di moltiplicazione destinato a tutti gli altri impieghi</td><td>UFAG</td><td>Ordinanza del 7 dicembre 1998[^11-8] sul materiale di moltiplicazione</td></tr>
+<tr><td>i. biocidi</td><td>Ufficio federale della sanità pubblica (UFSP)</td><td>Ordinanza del 18 maggio 2005[^11-9] sui biocidi</td></tr>
+<tr><td>j. prodotti chimici</td><td>UFSP</td><td>Ordinanza del 5 giugno 2015[^11-10] sui prodotti chimici</td></tr>
 <tr><td>k. altri prodotti</td><td>UFAM</td><td>Ordinanza del 10 settembre 2008 sull’emissione deliberata nell’ambiente</td></tr>
 </table>
 
@@ -231,15 +231,16 @@ L’UFAM è l’autorità competente e il centro di contatto per il Protocollo d
 
 <sup>4</sup> Le autorità competenti trasmettono all’UFAM le indicazioni che, su richiesta di quest’ultimo, l’utente ha fornito circa l’adempimento dell’obbligo di notifica.
 
-[^11-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS [170.512](http://www.admin.ch/ch/i/rs/c170_512.html)](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019.
-[^11-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^11-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^11-4]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^11-5]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^11-6]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^11-7]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^11-8]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^11-9]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^11-1]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS [170.512](http://www.admin.ch/ch/i/rs/c170_512.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019.
+[^11-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^11-3]: Nuovo testo giusta l’all. 10 cifra II n. 1 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^11-4]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^11-5]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^11-6]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^11-7]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^11-8]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^11-9]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^11-10]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## Sezione 5: Disposizioni finali
 
