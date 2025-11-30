@@ -4,13 +4,12 @@ number: "130.11"
 title: Justizreglement
 short: JR
 language: de
-version: 2023-01-01
-valid_until: 2025-11-30
-version_adopted: 2022-12-06
+version: 2025-12-01
+version_adopted: 2025-11-10
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/130.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7664/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8306/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Justizreglement
 
 (JR)
 
-vom 30.11.2010 (Fassung in Kraft getreten am 01.01.2023)
+vom 30.11.2010 (Fassung in Kraft getreten am 01.12.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -651,7 +650,7 @@ beschliesst:
 <sup>1</sup> In den folgenden Fällen wird das als Parteientschädigung geschuldete Anwaltshonorar in Form einer globalen Entschädigung festgesetzt:
 
 - a) bei Streitigkeiten, die in die Zuständigkeit des Einzelgerichts fallen, mit Ausnahme derjenigen, die ihm nach Artikel 56 des Gesetzes vom 28. Februar 1986 über das Grundbuch übertragen sind: Höchstbetrag der Entschädigung: 6000 Franken;
-- b) bei Streitigkeiten, die im vereinfachten Verfahren behandelt werden, wenn der Streitwert 30'000 Franken nicht übersteigt: Höchstbetrag der Entschädigung: 6000 Franken;
+- b) bei Streitigkeiten, die im vereinfachten Verfahren behandelt werden, wenn der Streitwert 30'000 Franken nicht übersteigt, ausser in Scheidungsverfahren (Art. 274 ff. der Zivilprozessordnung): Höchstbetrag der Entschädigung: 6000 Franken;
 - c) bei Streitigkeiten, in denen die Kindes- und Erwachsenenschutzbehörde eine Parteientschädigung zuspricht: Höchstbetrag der Entschädigung: 3000 Franken;
 - d) bei Intervention als Zivilpartei im Strafprozess:
   - 1\. vor Untersuchungsbehörden und erstinstanzlichen Behörden: Höchstbetrag der Entschädigung: 15'000 Franken,

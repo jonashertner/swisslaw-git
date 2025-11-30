@@ -4,13 +4,12 @@ number: "130.11"
 title: Règlement sur la justice
 short: RJ
 language: fr
-version: 2023-01-01
-valid_until: 2025-11-30
-version_adopted: 2022-12-06
+version: 2025-12-01
+version_adopted: 2025-11-10
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/130.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7664/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8306/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Justice – R
 
 (RJ)
 
-du 30.11.2010 (version entrée en vigueur le 01.01.2023)
+du 30.11.2010 (version entrée en vigueur le 01.12.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -651,7 +650,7 @@ Arrête:
 <sup>1</sup> Les honoraires de l'avocat ou de l'avocate dus à titre de dépens sont fixés sous la forme d'une indemnité globale dans les cas suivants:
 
 - a) les affaires contentieuses de la compétence du ou de la juge unique, à l'exception de celles qui lui sont attribuées par l'article 56 de la loi du 28 février 1986 sur le registre foncier: indemnité maximale de 6000 francs;
-- b) les affaires traitées en procédure simplifiée dont la valeur litigieuse ne dépasse pas 30'000 francs: indemnité maximale de 6000 francs;
+- b) les affaires traitées en procédure simplifiée dont la valeur litigieuse ne dépasse pas 30'000 francs, à l'exception des procédures de divorce (art. 274 ss du code de procédure civile): indemnité maximale de 6000 francs;
 - c) les affaires où l'autorité de protection de l'enfant et de l'adulte alloue des dépens: indemnité maximale de 3000 francs;
 - d) l'intervention civile au procès pénal:
   - 1\. pour la phase d'instruction et de première instance, une indemnité maximale de 15'000 francs,
