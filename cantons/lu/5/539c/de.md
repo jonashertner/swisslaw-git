@@ -4,13 +4,13 @@ number: 539c
 title: Statut der Universität Luzern
 short: Universitätsstatut
 language: de
-version: 2024-02-01
-valid_until: 2025-11-30
-version_adopted: 2023-12-13
+version: 2025-12-01
+valid_until: 2027-01-31
+version_adopted: 2025-10-24
 adopted: 2023-12-13
 in_force: 2024-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539c"
-pdf: "https://srl.lu.ch/api/de/versions/4168/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4168/pdf_file"
 
 (Universitätsstatut)
 
-vom 13.12.2023 (Stand 01.02.2024)
+vom 13.12.2023 (Stand 01.12.2025)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -261,7 +261,8 @@ beschliesst:
 - g. verabschiedet Strategien von gesamtuniversitärer Bedeutung sowie das Qualitätshandbuch,
 - h. entscheidet über die Errichtung und Aufhebung von Kommissionen zur Erarbeitung und Wahrnehmung gesamtuniversitärer Aufgaben,
 - i. wählt Angehörige der Universität in wissenschafts- und hochschulpolitische Gremien sowie Kommissionen und Delegationen auf Universitätsebene,
-- k. verleiht folgende akademische Titel: Titular-, Honorar- und ständige Gastprofessuren, Professuren für medizinische Wissenschaften, Titel eines Ehrensenators oder einer Ehrensenatorin der Universität Luzern.
+- k. verleiht folgende akademische Titel: Titular-, Honorar- und ständige Gastprofessuren, Professuren für medizinische Wissenschaften, Titel einer Ehrensenatorin oder eines Ehrensenators der Universität Luzern,
+- l. genehmigt die Verleihung des Titels einer Klinischen Dozentin oder eines Klinischen Dozenten.
 
 <sup>3</sup> Der Senat versammelt sich auf Anordnung der Rektorin oder des Rektors oder auf Verlangen von mindestens drei stimmberechtigten Mitgliedern. Die Rektorin oder der Rektor leitet die Senatssitzung.
 
@@ -318,7 +319,7 @@ beschliesst:
 - e. Verabschiedung der Strukturberichte im Hinblick auf die Neuschaffung, Änderung, Wiederbesetzung oder Aufhebung von Professuren,
 - f. Anträge auf Berufung oder Umwandlung von Professuren zuhanden des Senats,
 - g. Anträge auf Verleihung und Entzug von Titular-, Honorar-, ständigen Gastprofessuren sowie Professuren für medizinische Wissenschaften zuhanden des Senats,
-- h. Verleihung und Entzug des Titels einer Ehrendoktorin oder eines Ehrendoktors,
+- h. Verleihung und Entzug des Titels einer Ehrendoktorin oder eines Ehrendoktors sowie des Titels einer Klinischen Dozentin oder eines Klinischen Dozenten,
 - i. Durchführung von Habilitationsverfahren,
 - k. Erteilung von Lehr- und Forschungsaufträgen,
 - l. Errichtung, Neuausrichtung und Aufhebung von fakultären Organisationseinheiten, namentlich von Instituten, Zentren und Seminaren, sowie Zuordnung von extern getragenen Instituten zur Fakultät (§ 28),
