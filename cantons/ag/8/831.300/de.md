@@ -4,13 +4,12 @@ number: "831.300"
 title: "Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung im Kanton Aargau"
 short: "Ergänzungsleistungsgesetz Aargau, ELG-AG"
 language: de
-version: 2023-05-01
-valid_until: 2025-11-30
-version_adopted: 2022-09-06
+version: 2025-12-01
+version_adopted: 2025-04-29
 adopted: 2007-06-26
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/831.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3291/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3877/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3291/pdf_file"
 
 (Ergänzungsleistungsgesetz Aargau, ELG-AG)
 
-Vom 26.06.2007 (Stand 01.05.2023)
+Vom 26.06.2007 (Stand 01.12.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -75,11 +74,11 @@ beschliesst:
 
 #### § 5
 
-**Kantonale Ausgleichskasse; Berichterstattung und Information**
+**SVA Aargau; Berichterstattung und Information**
 
-<sup>1</sup> Die Durchführung dieses Gesetzes wird der kantonalen Ausgleichskasse übertragen.
+<sup>1</sup> Die Durchführung dieses Gesetzes wird der SVA Aargau übertragen.
 
-<sup>2</sup> Die kantonale Ausgleichskasse erstattet über die Ergänzungsleistungen jährlich Bericht, legt die Jahresrechnung vor und sorgt für eine angemessene Information der möglichen anspruchsberechtigten Personen.
+<sup>2</sup> Die SVA Aargau erstattet über die Ergänzungsleistungen jährlich Bericht, legt die Jahresrechnung vor und sorgt für eine angemessene Information der möglichen anspruchsberechtigten Personen.
 
 #### § 6
 
@@ -91,9 +90,11 @@ beschliesst:
 
 **Gesuchseinreichung und Entscheid**
 
-<sup>1</sup> Gesuche um Gewährung einer Ergänzungsleistung sind der Gemeindezweigstelle am Wohnsitz der gesuchstellenden Person oder direkt bei der kantonalen Ausgleichskasse einzureichen.
+<sup>1</sup> Gesuche um Gewährung einer Ergänzungsleistung sind der Gemeindezweigstelle am Wohnsitz der gesuchstellenden Person oder bei der SVA Aargau einzureichen.
 
-<sup>2</sup> Die kantonale Ausgleichskasse entscheidet über das Gesuch.
+<sup>1<sup>bis</sup></sup> Die Gemeindezweigstelle unterstützt die gesuchstellende Person bei der Antragstellung und prüft den Antrag vor Weiterleitung an die SVA Aargau auf Vollständigkeit des Antrags und der notwendigen Unterlagen.
+
+<sup>2</sup> Die SVA Aargau entscheidet über das Gesuch.
 
 #### § 7a
 
