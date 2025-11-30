@@ -4,11 +4,11 @@ title: "Ordinanza dell'Assemblea federale del 3 ottobre 2003 relativa alla legge
 short: Oparl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: it
-version: 2022-07-01
+version: 2025-12-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2003-512-20251201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/it"
 
 (Ordinanza sull’amministrazione parlamentare, Oparl)
 
-del 3 ottobre 2003 (Stato 1° luglio 2022)
+del 3 ottobre 2003 (Stato 1° dicembre 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 4 capoverso 1, 5 capoverso 2 e 70 capoverso 1 della legge del
 
 decreta:
 
-[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^ingress-2]: [FF 2003 4384](https://fedlex.data.admin.ch/eli/fga/2003/776)
 [^ingress-3]: [FF 2003 4408](https://fedlex.data.admin.ch/eli/fga/2003/778)
 
@@ -59,7 +59,7 @@ Le registrazioni sonore effettuate per la compilazione del Bollettino ufficiale 
 
 [^chap1-sec2-1]
 
-[^chap1-sec2-1]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^chap1-sec2-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 #### Art. 4
 
@@ -95,7 +95,7 @@ Il presidente della commissione può far verbalizzare le sole decisioni se le de
 
 <sup>2</sup> Gli altri documenti sono classificati «ad uso interno», sempre che non siano già pubblici o la commissione li classifichi altrimenti. Se l’autore ha classificato il documento «confidenziale» o «segreto», tale classificazione è mantenuta. È fatta salva la declassificazione conformemente all’articolo 8 capoversi 3–6.
 
-[^5a-1]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^5a-1]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 #### Art. 6
 
@@ -127,8 +127,8 @@ I verbali concernenti i seguenti oggetti in deliberazione sono distribuiti su ri
 
 <sup>5</sup> ...[^6-2]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O dell’AF del 20 mar. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2795](https://fedlex.data.admin.ch/eli/oc/2009/363); [FF 2008 7181](https://fedlex.data.admin.ch/eli/fga/2008/1397)[7189](https://fedlex.data.admin.ch/eli/fga/2008/1399)).
-[^6-2]: Abrogato dal n. I dell’O dell’AF del 15 giu. 2018, con effetto dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 20 mar. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2795](https://fedlex.data.admin.ch/eli/oc/2009/363); [FF 2008 7181](https://fedlex.data.admin.ch/eli/fga/2008/1397)[7189](https://fedlex.data.admin.ch/eli/fga/2008/1399)).
+[^6-2]: Abrogato dalla cifra I dell’O dell’AF del 15 giu. 2018, con effetto dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 #### Art. 6a
 
@@ -146,13 +146,13 @@ I verbali concernenti i seguenti oggetti in deliberazione sono distribuiti su ri
 
 <sup>4</sup> Il presidente della commissione può eccezionalmente rinunciare alla messa a disposizione elettronica in Extranet qualora preponderanti interessi privati o pubblici lo giustifichino. I membri della commissione ne sono informati.
 
-[^6a-1]: Introdotto dal n. I dell’O dell’AF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2008 47](https://fedlex.data.admin.ch/eli/oc/2008/21); [FF 2006 6899](https://fedlex.data.admin.ch/eli/fga/2006/916)[6907](https://fedlex.data.admin.ch/eli/fga/2006/918)).
-[^6a-2]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^6a-3]: [RS 171.13](https://fedlex.data.admin.ch/eli/cc/2003/514)
-[^6a-4]: [RS 171.14](https://fedlex.data.admin.ch/eli/cc/2003/515)
-[^6a-5]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^6a-6]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^6a-7]: Abrogato dal n. I dell’O dell’AF del 15 giu. 2018, con effetto dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6a-1]: Introdotto dalla cifra I dell’O dell’AF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2008 47](https://fedlex.data.admin.ch/eli/oc/2008/21); [FF 2006 6899](https://fedlex.data.admin.ch/eli/fga/2006/916)[6907](https://fedlex.data.admin.ch/eli/fga/2006/918)).
+[^6a-2]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6a-3]: [RS 171.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5002)
+[^6a-4]: [RS 171.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5007)
+[^6a-5]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6a-6]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6a-7]: Abrogato dalla cifra I dell’O dell’AF del 15 giu. 2018, con effetto dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 #### Art. 6b
 
@@ -170,11 +170,11 @@ Le segreterie dei gruppi parlamentari hanno accesso in Extranet ai verbali:[^6b-
 
 <sup>3</sup> Il presidente della commissione può rinunciare alla distribuzione o alla messa a disposizione elettronica in Extranet dei verbali relativi ad affari interni della commissione qualora interessi preponderanti privati o pubblici lo giustifichino.
 
-[^6b-1]: Introdotto dal n. I dell’O dell’AF del 20 mar. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2795](https://fedlex.data.admin.ch/eli/oc/2009/363); [FF 2008 7181](https://fedlex.data.admin.ch/eli/fga/2008/1397)[7189](https://fedlex.data.admin.ch/eli/fga/2008/1399)).
-[^6b-2]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^6b-3]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^6b-4]: [RS 171.13](https://fedlex.data.admin.ch/eli/cc/2003/514)
-[^6b-5]: [RS 171.14](https://fedlex.data.admin.ch/eli/cc/2003/515)
+[^6b-1]: Introdotto dalla cifra I dell’O dell’AF del 20 mar. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2795](https://fedlex.data.admin.ch/eli/oc/2009/363); [FF 2008 7181](https://fedlex.data.admin.ch/eli/fga/2008/1397)[7189](https://fedlex.data.admin.ch/eli/fga/2008/1399)).
+[^6b-2]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6b-3]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6b-4]: [RS 171.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5002)
+[^6b-5]: [RS 171.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5007)
 
 #### Art. 6c
 
@@ -195,7 +195,7 @@ Il deputato fornisce ai servizi del Parlamento i dati seguenti riguardo al colla
 
 <sup>4</sup> I Servizi del Parlamento pubblicano in un registro i nomi dei deputati e i dati dei collaboratori personali di cui al capoverso 3 lettere a e b.
 
-[^6c-1]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6c-1]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 [^6c-2]: Dal 1° gen. 2022: numero AVS.
 
 #### Art. 7
@@ -240,13 +240,13 @@ La pubblicazione dei seguenti documenti richiede l’approvazione dell’autore:
 
 <sup>6</sup> Se tra la commissione e il Consiglio federale vi è disaccordo sul fatto che un documento rientri fra quelli di cui al capoverso 5, è determinante il parere del Consiglio federale. Nel caso di una commissione di vigilanza, è tuttavia questa a decidere in via definitiva.[^8-7]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O dell’AF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2008 47](https://fedlex.data.admin.ch/eli/oc/2008/21); [FF 2006 6899](https://fedlex.data.admin.ch/eli/fga/2006/916)[6907](https://fedlex.data.admin.ch/eli/fga/2006/918)).
-[^8-2]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
-[^8-3]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
-[^8-4]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^8-5]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^8-6]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^8-7]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 6 ott. 2006, in vigore dal 1° gen. 2008 ([RU 2008 47](https://fedlex.data.admin.ch/eli/oc/2008/21); [FF 2006 6899](https://fedlex.data.admin.ch/eli/fga/2006/916)[6907](https://fedlex.data.admin.ch/eli/fga/2006/918)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
+[^8-3]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
+[^8-4]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^8-5]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^8-6]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^8-7]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 #### Art. 8a
 
@@ -254,7 +254,7 @@ La pubblicazione dei seguenti documenti richiede l’approvazione dell’autore:
 
 Le commissioni e delegazioni di vigilanza disciplinano la distribuzione, la disponibilità elettronica e la classificazione dei verbali e degli altri documenti nel settore dell’alta vigilanza nonché l’accesso a tali documenti.
 
-[^8a-1]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^8a-1]: Introdotto dalla cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 #### Art. 9
 
@@ -262,7 +262,7 @@ Le commissioni e delegazioni di vigilanza disciplinano la distribuzione, la disp
 
 Gli articoli 4–8 si applicano per analogia ai verbali e agli altri documenti degli Uffici e delle delegazioni di cui agli articoli 38 e 60 LParl.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
+[^9-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
 
 ### Sezione 3: Controllo parlamentare dell’amministrazione
 
@@ -285,7 +285,7 @@ L’Organo parlamentare di controllo dell’amministrazione (OPCA), su mandato d
 
 <sup>6</sup> I rapporti dell’OPCA vengono pubblicati se non vi si oppongono interessi degni di protezione. La decisione spetta alle commissioni che hanno sollecitato l’inchiesta.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 ### Sezione 4: Accreditamento di operatori dei mezzi di comunicazione
 
@@ -305,7 +305,7 @@ L’Organo parlamentare di controllo dell’amministrazione (OPCA), su mandato d
 
 [^chap1-sec5-1]
 
-[^chap1-sec5-1]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^chap1-sec5-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
 
 #### Art. 12
 
@@ -323,9 +323,12 @@ I Servizi del Parlamento mettono a disposizione delle emittenti radiotelevisive 
 
 **Trasmissione in diretta**[^14-1]
 
-I dibattiti delle Camere e dell’Assemblea federale plenaria sono trasmessi in diretta pubblicamente. Le riprese sono messe a disposizione dei terzi e possono essere da questi ritrasmesse in diretta.
+<sup>1</sup> I dibattiti delle Camere e dell’Assemblea federale plenaria sono trasmessi in diretta pubblicamente. Le riprese sono messe a disposizione dei terzi e possono essere da questi ritrasmesse in diretta.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+<sup>2</sup> Le trasmissioni in diretta ai sensi del capoverso 1 sono sottotitolate al fine di garantirne l’accessibilità.[^14-2]
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^14-2]: Introdotto dalla cifra I dell’O dell’AF del 14 giu. 2024, in vigore dal 1° dec. 2025 ([RO 2025 781](https://fedlex.data.admin.ch/eli/oc/2025/781); [FF 2024 6](https://fedlex.data.admin.ch/eli/fga/2024/6))
 
 #### Art. 15
 
@@ -362,15 +365,15 @@ I dati seguenti possono essere pubblicati soltanto con il consenso scritto dell�
 
 <sup>3</sup> Le biografie sono pubblicate in un manuale; possono essere diffuse anche via Internet.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), in vigore dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
-[^16-2]: Nuovo testo giusta il n. I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), in vigore dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
-[^16-3]: Abrogata dal n. I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), con effetto dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), in vigore dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), in vigore dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
+[^16-3]: Abrogata dalla cifra I dell’O dell’AF del 17 dic. 2021 (Cittadinanze dei membri dell’Assemblea federale e del Consiglio federale), con effetto dal 1° lug. 2022 ([RU 2022 140](https://fedlex.data.admin.ch/eli/oc/2022/140); [FF 2020 8249](https://fedlex.data.admin.ch/eli/fga/2020/2560)).
 
 ### Sezione 7: Diritto di polizia
 
 [^chap1-sec7-1]
 
-[^chap1-sec7-1]: Introdotta dal n. I dell’O dell’AF del 18 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 2993](https://fedlex.data.admin.ch/eli/oc/2004/379); [FF 2004 1415](https://fedlex.data.admin.ch/eli/fga/2004/323)[1421](https://fedlex.data.admin.ch/eli/fga/2004/325)).
+[^chap1-sec7-1]: Introdotta dalla cifra I dell’O dell’AF del 18 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 2993](https://fedlex.data.admin.ch/eli/oc/2004/379); [FF 2004 1415](https://fedlex.data.admin.ch/eli/fga/2004/323)[1421](https://fedlex.data.admin.ch/eli/fga/2004/325)).
 
 #### Art. 16a
 
@@ -430,7 +433,7 @@ I dati di cui ai capoversi 1 e 3 sono conservati dal servizio incaricato della s
 
 [^chap1-sec8-1]
 
-[^chap1-sec8-1]: Introdotta dal n. I dell’O dell’AF del 19 giu. 2015, in vigore dal 7 set. 2015 ([RU 2015 2889](https://fedlex.data.admin.ch/eli/oc/2015/542); [FF 2015 913](https://fedlex.data.admin.ch/eli/fga/2015/98)[923](https://fedlex.data.admin.ch/eli/fga/2015/100)).
+[^chap1-sec8-1]: Introdotta dalla cifra I dell’O dell’AF del 19 giu. 2015, in vigore dal 7 set. 2015 ([RU 2015 2889](https://fedlex.data.admin.ch/eli/oc/2015/542); [FF 2015 913](https://fedlex.data.admin.ch/eli/fga/2015/98)[923](https://fedlex.data.admin.ch/eli/fga/2015/100)).
 
 #### Art. 16c
 
@@ -440,7 +443,7 @@ I dati di cui ai capoversi 1 e 3 sono conservati dal servizio incaricato della s
 
 <sup>2</sup> Le competenze che l’ordinanza sul trattamento di dati personali derivanti dall’utilizzazione dell’infrastruttura elettronica della Confederazione attribuisce al servizio previsto dal piano di protezione dei dati di un organo federale sono assunte, per quanto concerne l’Assemblea federale e le segreterie dei gruppi parlamentari, dall’incaricato della sicurezza dell’Assemblea federale.
 
-[^16c-1]: [RS 172.010.442](https://fedlex.data.admin.ch/eli/cc/2012/160)
+[^16c-1]: [RS 172.010.442](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5037)
 
 #### Art. 16d
 
@@ -470,7 +473,7 @@ Se non vi è il consenso della persona interessata, l’analisi deve essere auto
 
 [^chap1-sec9-1]
 
-[^chap1-sec9-1]: Introdotta dal n. I O dell’AF del 16 mar. 2018, in vigore dal 26 ott. 2018 ([RU 2018 3549](https://fedlex.data.admin.ch/eli/oc/2018/583); [FF 2017 5885](https://fedlex.data.admin.ch/eli/fga/2017/2000)[5897](https://fedlex.data.admin.ch/eli/fga/2017/2003)).
+[^chap1-sec9-1]: Introdotta dalla cifra I O dell’AF del 16 mar. 2018, in vigore dal 26 ott. 2018 ([RU 2018 3549](https://fedlex.data.admin.ch/eli/oc/2018/583); [FF 2017 5885](https://fedlex.data.admin.ch/eli/fga/2017/2000)[5897](https://fedlex.data.admin.ch/eli/fga/2017/2003)).
 
 #### Art. 16e
 
@@ -489,7 +492,7 @@ Nei sistemi d’informazione di cui al capoverso 1, i seguenti dati provenienti 
 
 <sup>4</sup> Se sono trattate informazioni classificate quali verbali e altri documenti delle commissioni, i diritti d’accesso a tali informazioni sono limitati conformemente agli articoli 6*a*–6*c*.[^16e-1]
 
-[^16e-1]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
+[^16e-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)
 
 #### Art. 16f
 
@@ -581,7 +584,7 @@ Il delegato:
 
 <sup>2</sup> Assume la supplenza del segretario generale nell’Assemblea federale plenaria e nella direzione dei Servizi del Parlamento secondo l’articolo 22 capoverso 1.[^23-1]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
 
 #### Art. 24
 
@@ -600,8 +603,8 @@ La Direzione coadiuva il segretario generale dell’Assemblea federale nell’ad
 
 <sup>3</sup> La Direzione provvede affinché le pratiche amministrative si svolgano con efficienza e fa in modo che il personale ed i mezzi materiali siano impiegati con razionalità.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
-[^24-2]: Nuovo testo giusta il n. I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
 
 ### Sezione 3: Rapporti di lavoro
 
@@ -611,7 +614,7 @@ La Direzione coadiuva il segretario generale dell’Assemblea federale nell’ad
 
 Il personale dei Servizi del Parlamento soggiace alla legge del 24 marzo 2000[^25-1] sul personale federale. Sempre che la presente ordinanza non disponga altrimenti, sono pure applicabili le disposizioni emanate in esecuzione di tale legge.
 
-[^25-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^25-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 26
 
@@ -643,10 +646,10 @@ La Delegazione amministrativa è competente per la costituzione, la modifica e l
 
 <sup>3</sup> Prima di assumere i segretari delle commissioni e delle delegazioni, vanno sentiti i presidenti delle commissioni e delegazioni interessate.
 
-[^27-1]: Abrogata n. I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), con effetto dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
-[^27-2]: Introdotta dal n. I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
-[^27-3]: Nuovo testo giusta il n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
-[^27-4]: Introdotto dal n. I dell’O dell’AF del 19 giu. 2015, in vigore dal 7 set. 2015 ([RU 2015 2889](https://fedlex.data.admin.ch/eli/oc/2015/542); [FF 2015 913](https://fedlex.data.admin.ch/eli/fga/2015/98)[923](https://fedlex.data.admin.ch/eli/fga/2015/100)).
+[^27-1]: Abrogata cifra I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), con effetto dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
+[^27-2]: Introdotta dalla cifra I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), in vigore dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
+[^27-3]: Nuovo testo giusta la cifra I dell’O dell’AF del 15 giu. 2018, in vigore dal 26 nov. 2018 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^27-4]: Introdotto dalla cifra I dell’O dell’AF del 19 giu. 2015, in vigore dal 7 set. 2015 ([RU 2015 2889](https://fedlex.data.admin.ch/eli/oc/2015/542); [FF 2015 913](https://fedlex.data.admin.ch/eli/fga/2015/98)[923](https://fedlex.data.admin.ch/eli/fga/2015/100)).
 
 #### Art. 28
 
@@ -667,7 +670,7 @@ Sono competenti per le decisioni in materia di personale che non ricadono negli 
 
 <sup>2</sup> Nei casi in cui l’ordinanza del 3 luglio 2001[^28-1] sul personale federale (Opers) subordini una decisione in materia di personale all’accordo o all’informazione del Dipartimento federale delle finanze, il segretario generale dell’Assemblea federale si rivolge, invece che al Dipartimento, alla Delegazione amministrativa.
 
-[^28-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^28-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 29
 
@@ -699,7 +702,7 @@ Le seguenti funzioni sono riservate a persone di cittadinanza svizzera:
 - d. segretario delle Commissioni della gestione e della Delegazione della gestione;
 - e. segretario delle Commissioni delle finanze e della Delegazione delle finanze.
 
-[^31-1]: Abrogata dal n. I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), con effetto dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
+[^31-1]: Abrogata dalla cifra I dell’O dell’AF del 22 giu. 2007 (Modifica delle strutture di direzione), con effetto dal 1° ago. 2007 ([RU 2007 3475](https://fedlex.data.admin.ch/eli/oc/2007/430); [FF 2007 3917](https://fedlex.data.admin.ch/eli/fga/2007/612)).
 
 #### Art. 32
 
@@ -713,7 +716,7 @@ Le seguenti funzioni sono riservate a persone di cittadinanza svizzera:
 
 <sup>4</sup> Prima di assegnare una funzione alle classi di stipendio 32–38, la Delegazione amministrativa consulta la Delegazione delle finanze.
 
-[^32-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^32-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 33
 
@@ -727,7 +730,7 @@ Per le esigenze specifiche del funzionamento del Parlamento, il segretario gener
 
 Per le esigenze specifiche dei Servizi del Parlamento, il segretario generale dell’Assemblea federale può adeguare o completare le disposizioni esecutive del Dipartimento federale delle finanze <sup>1</sup> I collaboratori dei Servizi del Parlamento che, nell’ambito dell’articolo 96 Opers[^34-1], concernenti le altre prestazioni del datore di lavoro.
 
-[^34-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^34-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 35
 
@@ -737,7 +740,7 @@ Per le esigenze specifiche dei Servizi del Parlamento, il segretario generale de
 
 <sup>2</sup> Il delegato della Delegazione amministrativa designa nel caso concreto le persone a cui è negato l’esercizio del diritto di sciopero.
 
-[^35-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^35-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Capitolo 3: Disposizioni finali
 

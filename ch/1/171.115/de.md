@@ -4,11 +4,11 @@ title: "Verordnung der Bundesversammlung vom 3. Oktober 2003 zum Parlamentsgeset
 short: ParlVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: de
-version: 2022-07-01
+version: 2025-12-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2003-512-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/de"
 
 (Parlamentsverwaltungsverordnung, ParlVV)
 
-vom 3. Oktober 2003 (Stand am 1. Juli 2022)
+vom 3. Oktober 2003 (Stand am 1. Dezember 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 4 Absatz 1, 5 Absatz 2 und 70 Absatz 1 des Parlamentsg
 
 beschliesst:
 
-[^ingress-1]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-1]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^ingress-2]: [BBl 2003 5051](https://fedlex.data.admin.ch/eli/fga/2003/776)
 [^ingress-3]: [BBl 2003 5075](https://fedlex.data.admin.ch/eli/fga/2003/778)
 
@@ -148,8 +148,8 @@ Die Kommissionsprotokolle über folgende Beratungsgegenstände gehen auf Wunsch 
 
 [^6a-1]: Eingefügt durch Ziff. I der V der BVers vom 6. Okt. 2006, in Kraft seit 1. Jan. 2008 ([AS 2008 47](https://fedlex.data.admin.ch/eli/oc/2008/21); [BBl 2006 7529](https://fedlex.data.admin.ch/eli/fga/2006/916)[7537](https://fedlex.data.admin.ch/eli/fga/2006/918)).
 [^6a-2]: Fassung gemäss Ziff. I der V der BVers vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^6a-3]: [SR 171.13](https://fedlex.data.admin.ch/eli/cc/2003/514)
-[^6a-4]: [SR 171.14](https://fedlex.data.admin.ch/eli/cc/2003/515)
+[^6a-3]: [SR 171.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5002)
+[^6a-4]: [SR 171.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5007)
 [^6a-5]: Eingefügt durch Ziff. I der V der BVers vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^6a-6]: Eingefügt durch Ziff. I der V der BVers vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^6a-7]: Aufgehoben durch Ziff. I der V der BVers vom 15. Juni 2018, mit Wirkung seit 2. Dez. 2019 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
@@ -173,8 +173,8 @@ Die Fraktionssekretariate haben im Extranet Zugriff auf:[^6b-2]
 [^6b-1]: Eingefügt durch Ziff. I der V der BVers vom 20. März 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2795](https://fedlex.data.admin.ch/eli/oc/2009/363); [BBl 2008 8219](https://fedlex.data.admin.ch/eli/fga/2008/1397)[8227](https://fedlex.data.admin.ch/eli/fga/2008/1399)).
 [^6b-2]: Fassung gemäss Ziff. I der V der BVers vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^6b-3]: Fassung gemäss Ziff. I der V der BVers vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^6b-4]: [SR 171.13](https://fedlex.data.admin.ch/eli/cc/2003/514)
-[^6b-5]: [SR 171.14](https://fedlex.data.admin.ch/eli/cc/2003/515)
+[^6b-4]: [SR 171.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5002)
+[^6b-5]: [SR 171.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5007)
 
 #### Art. 6c
 
@@ -323,9 +323,12 @@ Die Parlamentsdienste stellen das audiovisuelle Signal Radio- und Fernsehanstalt
 
 **Direktübertragung**[^14-1]
 
-Die Beratungen der Räte und der Vereinigten Bundesversammlung werden für die Öffentlichkeit direkt übertragen. Die Aufnahmen werden zur Verfügung gestellt und können für Direktübertragungen verwendet werden.
+<sup>1</sup> Die Beratungen der Räte und der Vereinigten Bundesversammlung werden für die Öffentlichkeit direkt übertragen. Die Aufnahmen werden zur Verfügung gestellt und können für Direktübertragungen verwendet werden.
+
+<sup>2</sup> Die Direktübertragung gemäss Absatz 1 wird für den barrierefreien Zugang mit Untertiteln versehen.[^14-2]
 
 [^14-1]: Fassung gemäss Ziff. I der V der BVers vom 15. Juni 2018, in Kraft seit 26. Nov. 2018 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^14-2]: Eingefügt durch Ziff. I der V der BVers vom 14. Juni 2024, in Kraft seit 1. Dez. 2025 ([AS 2025 781](https://fedlex.data.admin.ch/eli/oc/2025/781); [BBl 2024 6](https://fedlex.data.admin.ch/eli/fga/2024/6)).
 
 #### Art. 15
 
@@ -440,7 +443,7 @@ Die Daten nach den Absätzen 1 und 3 werden vom für die Sicherheit zuständigen
 
 <sup>2</sup> Erklärt die Verordnung über die Bearbeitung von Personendaten, die bei der Nutzung der elektronischen Infrastruktur des Bundes anfallen, die nach dem Datenschutzkonzept eines Bundesorgans vorgesehene Stelle als zuständig, so ist dies für die Bundesversammlung und die Fraktionssekretariate die oder der Sicherheitsbeauftragte der Bundesversammlung.
 
-[^16c-1]: [SR 172.010.442](https://fedlex.data.admin.ch/eli/cc/2012/160)
+[^16c-1]: [SR 172.010.442](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5037)
 
 #### Art. 16d
 
@@ -610,7 +613,7 @@ Die Geschäftsleitung unterstützt die Generalsekretärin oder den Generalsekret
 
 Das Personal der Parlamentsdienste untersteht dem Bundespersonalgesetz vom 24. März 2000[^25-1]. Die Ausführungsbestimmungen zum Bundespersonalgesetz werden angewendet, sofern diese Verordnung nichts anderes bestimmt.
 
-[^25-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^25-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 26
 
@@ -666,7 +669,7 @@ Für Personalentscheide, die nicht unter die Artikel 26 und 27 fallen, sind zust
 
 <sup>2</sup> Schreibt die Bundespersonalverordnung vom 3. Juli 2001[^28-1] (BPV) für einen Personalentscheid das Einvernehmen mit dem Eidgenössischen Finanzdepartement oder die Orientierung desselben vor, so holt die Generalsekretärin oder der Generalsekretär der Bundesversammlung die Zustimmung der Verwaltungsdelegation ein oder informiert diese.
 
-[^28-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^28-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 29
 
@@ -712,7 +715,7 @@ Folgende Ämter sind Personen mit Schweizer Staatsangehörigkeit vorbehalten:
 
 <sup>4</sup> Weist die Verwaltungsdelegation eine Funktion den Lohnklassen 32–38 zu, so konsultiert sie die Finanzdelegation.
 
-[^32-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^32-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 33
 
@@ -734,7 +737,7 @@ Die Ausführungsbestimmungen des Eidgenössischen Finanzdepartements über die w
 
 <sup>2</sup> Die oder der Delegierte der Verwaltungsdelegation bezeichnet im konkreten Fall die Personen, denen die Ausübung des Streikrechts untersagt ist.
 
-[^35-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^35-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## 3. Kapitel: Schlussbestimmungen
 

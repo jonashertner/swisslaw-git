@@ -4,11 +4,11 @@ title: "Ordonnance de l'Assemblée fédérale du 3 octobre 2003 portant applicat
 short: OLPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: fr
-version: 2022-07-01
+version: 2025-12-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2003-512-20251201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220701/fr"
 
 (Ordonnance sur l’administration du Parlement, OLPA)
 
-du 3 octobre 2003 (État le 1<sup>er</sup> juillet 2022)
+du 3 octobre 2003 (État le 1<sup>er</sup> décembre 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 4, al. 1, 5, al. 2, et 70, al. 1, de la loi du 13 décembre 2002 sur
 
 arrête:
 
-[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^ingress-1]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^ingress-2]: [FF 2003 4570](https://fedlex.data.admin.ch/eli/fga/2003/776)
 [^ingress-3]: [FF 2003 4595](https://fedlex.data.admin.ch/eli/fga/2003/778)
 
@@ -151,8 +151,8 @@ Les procès-verbaux relatifs aux objets suivants sont remis sur demande aux memb
 
 [^6a-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2008 47](https://fedlex.data.admin.ch/eli/oc/2008/21); [FF 2006 7133](https://fedlex.data.admin.ch/eli/fga/2006/916)[7141](https://fedlex.data.admin.ch/eli/fga/2006/918)).
 [^6a-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^6a-3]: [RS 171.13](https://fedlex.data.admin.ch/eli/cc/2003/514)
-[^6a-4]: [RS 171.14](https://fedlex.data.admin.ch/eli/cc/2003/515)
+[^6a-3]: [RS 171.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5002)
+[^6a-4]: [RS 171.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5007)
 [^6a-5]: Introduit par le ch. I de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^6a-6]: Introduit par le ch. I de l’O de l’Ass. féd. du 15 juin 2018, avec effet au 2 déc. 2019 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^6a-7]: Abrogé par le ch. I de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
@@ -175,8 +175,8 @@ Les secrétariats des groupes parlementaires ont accès, sur l’extranet:
 
 [^6b-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2795](https://fedlex.data.admin.ch/eli/oc/2009/363); [FF 2008 7459](https://fedlex.data.admin.ch/eli/fga/2008/1397)[7467](https://fedlex.data.admin.ch/eli/fga/2008/1399)).
 [^6b-2]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
-[^6b-3]: [RS 171.13](https://fedlex.data.admin.ch/eli/cc/2003/514)
-[^6b-4]: [RS 171.14](https://fedlex.data.admin.ch/eli/cc/2003/515)
+[^6b-3]: [RS 171.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5002)
+[^6b-4]: [RS 171.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5007)
 
 #### Art. 6c
 
@@ -327,9 +327,12 @@ Les Services du Parlement accordent le droit d’utiliser l’enregistrement aud
 
 **Retransmission en direct des débats**[^14-1]
 
-Les délibérations des conseils et de l’Assemblée fédérale (Chambres réunies) sont retransmises en direct à l’intention du public. Les enregistrements sont mis à disposition et peuvent être utilisés pour des retransmissions en direct.
+<sup>1</sup> Les délibérations des conseils et de l’Assemblée fédérale (Chambres réunies) sont retransmises en direct à l’intention du public. Les enregistrements sont mis à disposition et peuvent être utilisés pour des retransmissions en direct.
+
+<sup>2</sup> Les retransmissions en direct au sens de l’al. 1 sont sous-titrées afin d’en garantir l’accessibilité.[^14-2]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 26 nov. 2018 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^14-2]: Introduit par le ch. I de l’O de l’Ass. féd. du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 781](https://fedlex.data.admin.ch/eli/oc/2025/781); [FF 2024 6](https://fedlex.data.admin.ch/eli/fga/2024/6)).
 
 #### Art. 15
 
@@ -445,7 +448,7 @@ Le service chargé de la sécurité conserve les données visées aux al. 1 et 3
 
 <sup>2</sup> Pour l’Assemblée fédérale et les secrétariats des groupes parlementaires, le service désigné par le schéma directeur de l’organe fédéral concernant la protection des données et déclaré compétent par l’ordonnance sur le traitement des données personnelles liées à l’utilisation de l’infrastructure électronique de la Confédération est le délégué à la sécurité de l’Assemblée fédérale.
 
-[^16c-1]: [RS 172.010.442](https://fedlex.data.admin.ch/eli/cc/2012/160)
+[^16c-1]: [RS 172.010.442](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5037)
 
 #### Art. 16d
 
@@ -615,7 +618,7 @@ La direction assiste le secrétaire général de l’Assemblée fédérale dans 
 
 Le personnel des Services du Parlement est soumis à la loi du 24 mars 2000 sur le personnel de la Confédération[^25-1]. Les dispositions d’exécution de cette loi s’appliquent également au personnel des Services du Parlement, sauf disposition contraire de la présente ordonnance.
 
-[^25-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^25-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 26
 
@@ -671,7 +674,7 @@ Sont compétents pour prendre les décisions en matière de personnel, sous rés
 
 <sup>2</sup> Si l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^28-1] prévoit l’accord ou l’information du Département fédéral des finances, le secrétaire général demande l’accord de la Délégation administrative ou l’informe de sa décision.
 
-[^28-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^28-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 29
 
@@ -717,7 +720,7 @@ L’accès aux fonctions suivantes est réservé aux citoyens suisses:
 
 <sup>4</sup> La Délégation administrative consulte la Délégation des finances avant d’affecter une fonction à une classe de salaire comprise entre 32 et 38.
 
-[^32-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^32-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 33
 
@@ -739,7 +742,7 @@ Le secrétaire général de l’Assemblée fédérale peut modifier et compléte
 
 <sup>2</sup> Le délégué de la Délégation administrative désigne le cas échéant les personnes auxquelles l’exercice du droit de grève est interdit.
 
-[^35-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^35-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Chapitre 3 Dispositions finales
 
@@ -755,7 +758,7 @@ Les ordonnances administratives applicables à l’administration fédérale s�
 
 L’ordonnance de l’Assemblée fédérale du 7 octobre 1988 sur les Services du Parlement[^37-1] est abrogée.
 
-[^37-1]: [[RO 1989 334](https://fedlex.data.admin.ch/eli/oc/1989/334_334_334), [1991 482](https://fedlex.data.admin.ch/eli/oc/1991/482_482_482), [1993 3](https://fedlex.data.admin.ch/eli/oc/1993/3_3_3), [1995 4880](https://fedlex.data.admin.ch/eli/oc/1995/4880_4880_4880), [2000 284](https://fedlex.data.admin.ch/eli/oc/2000/55), [2001 3590](https://fedlex.data.admin.ch/eli/oc/2001/536)]
+[^37-1]: [[RO 1989 334](https://fedlex.data.admin.ch/eli/oc/1989/334_334_334); [1991 482](https://fedlex.data.admin.ch/eli/oc/1991/482_482_482); [1993 3](https://fedlex.data.admin.ch/eli/oc/1993/3_3_3); [1995 4880](https://fedlex.data.admin.ch/eli/oc/1995/4880_4880_4880); [2000 284](https://fedlex.data.admin.ch/eli/oc/2000/55); [2001 3590](https://fedlex.data.admin.ch/eli/oc/2001/536)]
 
 #### Art. 38
 
