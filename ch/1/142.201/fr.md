@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20250101/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 1<sup>er</sup> janvier 2025)
+du 24 octobre 2007 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration
 
 arrête:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 ## Chapitre 1 Champ d’application et définitions
@@ -143,7 +143,7 @@ La déclaration d’arrivée peut être effectuée sans pièce de légitimation 
 <sup>4</sup> Les étrangers sont tenus de montrer, sur demande, leur pièce de légitimation étrangère aux autorités chargées du contrôle de personnes ou de la leur présenter dans un délai convenable.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
-[^8-2]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^8-2]: [RS 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 
 ### Section 2 Procédures d’autorisation et de déclaration d’arrivée en cas de séjour sans activité lucrative
 
@@ -225,7 +225,7 @@ Les étrangers doivent être munis d’une autorisation indépendamment de la du
 - e. industrie du sexe;
 - f.[^14-2] aménagement ou entretien paysager.
 
-[^14-1]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^14-1]: [RS 943.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11308)
 [^14-2]: Introduite par le ch. II de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3175](https://fedlex.data.admin.ch/eli/oc/2014/536)).
 
 ### Section 4 Dispositions générales relatives aux déclarations d’arrivée et de départ
@@ -303,8 +303,8 @@ Ne sont pas comptés dans les nombres maximums d’autorisations visés aux al. 
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^19-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^19-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^19-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^19-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^19-5]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 19a
@@ -327,8 +327,8 @@ Ne sont pas comptés dans les nombres maximums d’autorisations visés à l’a
 
 [^19a-1]: Introduit par le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 [^19a-2]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^19a-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^19a-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^19a-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^19a-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^19a-5]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 19b
@@ -351,7 +351,7 @@ Ne sont pas comptés dans les nombres maximums visés à l’al. 1:
 - b. les étrangers qui résident en Suisse au total huit mois au maximum sur une période de douze mois et qui exercent une activité en qualité d’artistes dans les domaines de la musique, de la littérature, du spectacle, des arts plastiques, du cirque ou des variétés.
 
 [^19b-1]: Introduit par le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^19b-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^19b-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 20
 
@@ -365,8 +365,8 @@ Ne sont pas comptés dans les nombres maximums visés à l’al. 1:
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^20-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^20-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^20-5]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 20a
@@ -379,8 +379,8 @@ Les cantons peuvent délivrer aux étrangers qui fournissent des services transf
 - b. le séjour dépasse 90 jours, ou 120 jours si les conditions prévues à l’art. 19*a*, al. 2, sont réunies.
 
 [^20a-1]: Introduit par le ch. I de l’O du 3 déc. 2010 ([RO 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)). Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^20a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20a-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^20a-3]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 20b
 
@@ -389,7 +389,7 @@ Les cantons peuvent délivrer aux étrangers qui fournissent des services transf
 Les cantons peuvent délivrer, dans les limites des nombres maximums fixés à l’annexe 2, ch. 7 et 8, des autorisations de séjour aux ressortissants du Royaume-Uni qui ne sont pas couverts par le champ d’application de l’accord sur les droits acquis[^20b-2].
 
 [^20b-1]: Introduit par le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^20b-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^20b-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 21
 
@@ -425,7 +425,7 @@ Il n’y a pas imputation sur le nombre maximum d’autorisations (art. 19 à 20
 <sup>2</sup> L’al. 1 ne s’applique pas si un salaire minimum est garanti au travailleur détaché ou au prestataire de services transfrontaliers par une convention collective de travail déclarée de force obligatoire ou par un contrat-type de travail au sens de l’art. 360*a* du code des obligations[^22a-2].
 
 [^22a-1]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^22a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 22b
 
@@ -509,7 +509,7 @@ Les rentiers ont des attaches personnelles particulières avec la Suisse notamme
 
 <sup>4</sup> Les moyens financiers sont suffisants lorsqu’ils dépassent le montant qui autorise un citoyen suisse et éventuellement les membres de sa famille à percevoir des prestations complémentaires conformément à la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^25-1].[^25-2]
 
-[^25-1]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^25-1]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^25-2]: Introduit par le ch. I de l’O du 29 nov. 2013 ([RO 2013 4371](https://fedlex.data.admin.ch/eli/oc/2013/777)). Nouvelle teneur selon le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 ### Section 4 Dérogations aux conditions d’admission
@@ -567,7 +567,7 @@ L’exercice d’une activité lucrative indépendante peut être autorisé si:
 - a. les conditions financières et les exigences relatives à l’exploitation de l’entreprise sont remplies (art. 19, let. b, LEI);
 - b. le logement du requérant est approprié (art. 24 LEI).[^29-4]
 
-[^29-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^29-1]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^29-2]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^29-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^29-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
@@ -584,7 +584,7 @@ L’exercice d’une activité lucrative indépendante peut être autorisé si:
 
 <sup>3</sup> Les conditions générales d’admission de la LEI s’appliquent aux personnes dont la nationalité a été annulée conformément à l’art. 36 LN ou leur a été retirée conformément à l’art. 42 de la même loi.[^30-4]
 
-[^30-1]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^30-1]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^30-2]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^30-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^30-4]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
@@ -678,7 +678,7 @@ Une autorisation de courte durée ou une autorisation de séjour peut être acco
 
 Des autorisations de séjour peuvent être accordées à des enfants placés si les conditions auxquelles le code civil[^33-1] soumet l’accueil de ces enfants sont remplies.
 
-[^33-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^33-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 34
 
@@ -754,7 +754,7 @@ Les étrangers obtiennent une autorisation de séjour dans le cadre de la protec
 <sup>3</sup> L’exercice d’une activité lucrative peut être autorisé si les conditions prévues à l’art. 29, al. 2 ou 3, sont remplies.[^36a-3]
 
 [^36a-1]: Introduit par l’annexe ch. 2 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^36a-2]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^36a-2]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^36a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 37
@@ -934,7 +934,7 @@ Les personnes au pair peuvent obtenir des autorisations de séjour de courte dur
 
 <sup>2</sup> Les autorisations pour les personnes au pair sont octroyées pour douze mois au maximum et ne peuvent pas être prolongées.
 
-[^48-1]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^48-1]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 [^48-2]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 49
@@ -1008,26 +1008,21 @@ Si les conditions relevant du droit d’asile (art. 43, al. 1 à 3, LAsi) sont r
 <sup>2</sup> …[^52-4]
 
 [^52-1]: Introduite par le ch. I 1 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^52-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^52-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^52-4]: Abrogé par le ch. I de l’O du 15 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 53
 
 **Personnes à protéger**[^53-1]
 
-### (art. 30, al. 1, let. l, LEI et art. 75, al. 2, LAsi)
+### (art. 30, al. 1, let. l, LEI; art. 75, al. 2, LAsi)
 
-<sup>1</sup>
+<sup>1</sup> Une fois la protection provisoire obtenue, les personnes à protéger peuvent exercer une activité lucrative salariée ou indépendante.
 
-Une fois la protection provisoire obtenue, les personnes à protéger peuvent être autorisées à exercer temporairement une activité lucrative salariée si:
+<sup>2</sup> Le début et la fin de toute activité lucrative ainsi que tout changement d’emploi sont soumis à annonce.
 
-- a. une demande a été déposée par un employeur (art. 18, let. b, LEI);
-- b. les conditions de rémunération et de travail sont remplies (art. 22 LEI).
-
-<sup>2</sup> Une fois la protection provisoire obtenue, les personnes à protéger peuvent être autorisées à exercer temporairement une activité lucrative indépendante si les conditions de l’art. 19, let. b et c, LEI sont remplies.
-
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 
 #### Art. 53a
 
@@ -1207,30 +1202,30 @@ Le titre de séjour des personnes titulaires d’une autorisation d’établisse
 
 **Changement d’emploi**[^64-1]
 
-### (art. 30, al. 1, let. l, 31, al. 3, et 85*a*, al. 2, LEI; art. 43 et 61 LAsi)
+### (art. 30, al. 1, let. l, 31, al. 3, et 85*a* LEI; art. 43, 61 et 75, al. 2, LAsi)
 
 [^64-2]
 
 <sup>1</sup> Les requérants d’asile peuvent être autorisés à changer d’emploi si les conditions relevant du droit d’asile (art. 43, al. 1 à 3, LAsi) et celles de l’art. 52 sont remplies.
 
-<sup>2</sup> Les personnes à protéger peuvent être autorisées à changer d’emploi si les conditions de l’art. 53, al. 1, sont remplies.[^64-3]
+<sup>2</sup> …[^64-3]
 
-<sup>3</sup> Pour le changement d’emploi des étrangers, des réfugiés ou des apatrides admis à titre provisoire en Suisse, des réfugiés qui y ont obtenu l’asile et des apatrides qui y sont reconnus ainsi que des réfugiés ou des apatrides sous le coup d’une expulsion pénale entrée en force, les art. 65 à 65*c* s’appliquent par analogie.[^64-4]
+<sup>3</sup> Pour le changement d’emploi des étrangers, des réfugiés ou des apatrides admis à titre provisoire en Suisse, des réfugiés qui y ont obtenu l’asile, des personnes à protéger, des apatrides qui y sont reconnus et des réfugiés ou des apatrides sous le coup d’une expulsion pénale entrée en force, les art. 65 à 65*c* s’appliquent par analogie.[^64-4]
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^64-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^64-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2022, en vigueur depuis le 12 mars 2022 ([RO 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
-[^64-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^64-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^64-3]: Abrogé par le ch. I de l’O du 22 oct. 2025, avec effet au 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^64-4]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 
 #### Art. 65
 
-**Annonce du début d’une activité lucrative exercée par une personne admise à titre provisoire, un réfugié ou un apatride**[^65-1]
+**Annonce du début d’une activité lucrative exercée par une personne admise à titre provisoire, un réfugié, une personne à protéger ou un apatride**[^65-1]
 
-### (art. 31, al. 3, et 85*a* LEI; art. 61 LAsi)
+### (art. 31, al. 3, et 85*a* LEI; art. 61 et 75, al. 2, LAsi)
 
 [^65-2]
 
-<sup>1</sup> L’étranger, le réfugié ou l’apatride admis à titre provisoire en Suisse, le réfugié qui y a obtenu l’asile et l’apatride qui y est reconnu peuvent commencer à travailler dès l’annonce du début de l’activité lucrative.[^65-3]
+<sup>1</sup> L’étranger, le réfugié ou l’apatride admis à titre provisoire en Suisse, le réfugié qui y a obtenu l’asile, la personne à protéger et l’apatride qui y est reconnu peuvent commencer à travailler dès l’annonce du début de l’activité lucrative.[^65-3]
 
 <sup>1bis</sup> Le réfugié ou l’apatride sous le coup d’une expulsion pénale entrée en force peut également commencer à travailler dès cette annonce.[^65-4]
 
@@ -1268,34 +1263,31 @@ L’exercice d’une activité lucrative n’est pas soumis à annonce lorsque:
 <sup>8</sup> Les al. 4 et 7 s’appliquent par analogie aux autorités qui mettent directement en œuvre des mesures d’intégration ou de réintégration professionnelle.[^65-10]
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^65-3]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 [^65-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^65-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^65-7]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^65-8]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^65-7]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^65-8]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^65-9]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^65-10]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 65a
 
-**Annonce de la fin d’une activité lucrative exercée par une personne admise à titre provisoire, un réfugié ou un apatride**[^65a-1]
+**Annonce de la fin d’une activité lucrative exercée par une personne admise à titre provisoire, un réfugié, une personne à protéger ou un apatride**[^65a-1]
 
-### (art. 31, al. 3, et 85*a* LEI; art. 61 LAsi)
+### (art. 31, al. 3, et 85*a* LEI; art. 61 et 75, al. 2, LAsi)
 
-[^65a-2]
+L’art. 65, al. 2 à 4 et 6, s’applique par analogie à l’annonce de la fin d’une activité lucrative exercée par une personne admise à titre provisoire, un réfugié, une personne à protéger ou un apatride.
 
-L’art. 65, al. 2 à 4 et 6, s’applique par analogie à l’annonce de la fin d’une activité lucrative.
-
-[^65a-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65a-1]: Introduit par le ch. I de l’O du 15 août 2018 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 
 #### Art. 65b
 
 **Saisie et transmission des données annoncées**[^65b-1]
 
-### (art. 31, al. 3, et 85*a* LEI; art. 61 LAsi)
+### ((art. 31, al. 3, et 85*a* LEI; art. 61 et 75, al. 2, LAsi)
 
 [^65b-2]
 
@@ -1312,13 +1304,13 @@ Lorsque le début d’une activité lucrative est annoncé, l’autorité compé
 <sup>3</sup> Lorsque la fin d’une activité lucrative est annoncée, l’autorité compétente saisit la date de fin d’activité dans le SYMIC.
 
 [^65b-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65b-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65b-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 
 #### Art. 65c
 
 **Contrôle des conditions de rémunération et de travail**[^65c-1]
 
-### (art. 31, al. 3, et 85*a* LEI; art. 61 LAsi)
+### (art. 31, al. 3, et 85*a* LEI; art. 61 et 75, al. 2, LAsi)
 
 [^65c-2]
 
@@ -1327,8 +1319,8 @@ Lorsque le début d’une activité lucrative est annoncé, l’autorité compé
 <sup>2</sup> Elle peut aussi transmettre une copie de l’annonce à d’autres organes de contrôle, comme les commissions tripartites visées à l’art. 360*b* du code des obligations[^65c-3] ou les commissions paritaires chargées de l’exécution de la convention collective de travail de la branche concernée.
 
 [^65c-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65c-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65c-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65c-2]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^65c-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 5 Étendue territoriale des autorisations et changement de canton des personnes admises à titre provisoire
 
@@ -1398,7 +1390,7 @@ L’horaire de travail ne permet pas d’exiger raisonnablement que la personne 
 Le canton dans lequel se trouve le siège de l’autorité de protection de l’enfant et de l’adulte (APEA) compétente est compétent en matière de réglementation relevant du droit des étrangers pour les enfants étrangers sous tutelle (art. 327*a* à 327*c* du code civil [CC][^69-2]) et les étrangers sous curatelle de portée générale (art. 398 CC).
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^69-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^69-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 70
 
@@ -1408,8 +1400,8 @@ Le canton dans lequel se trouve le siège de l’autorité de protection de l’
 
 <sup>2</sup> Les conditions de séjour doivent être une nouvelle fois fixées au plus tard au moment de sa libération, conditionnelle ou non, de l’exécution pénale, de l’exécution des mesures ou du placement. Si un transfèrement de la personne dans son État d’origine pour y purger une peine pénale est envisagé, une décision doit immédiatement être prise au sujet de ses conditions de séjour.
 
-[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^70-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^70-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^70-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^70-3]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 ## Chapitre 5 Titre de séjour
@@ -1456,7 +1448,7 @@ Les personnes suivantes reçoivent un titre spécifique relatif à leur statut p
 
 [^71a-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020 (Nombres maximums pour les ressortissants du Royaume-Uni), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
 [^71a-2]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^71a-3]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^71a-3]: [RS 192.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5677)
 [^71a-4]: Introduit par le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 71b
@@ -1483,11 +1475,11 @@ Un titre de séjour non biométrique peut prendre la forme:
 
 <sup>4</sup> Le titre de séjour pour frontalier délivré aux ressortissants du Royaume-Uni qui sont domiciliés dans un État Schengen et qui sont couverts par le champ d’application de l’accord du 25 février 2019 relatif aux droits acquis porte la mention qu’il a été établi en vertu de cet accord.[^71b-7]
 
-[^71b-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^71b-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^71b-2]: Introduite par le ch. I de l’O du 25 nov. 2020 (Nombres maximums pour les ressortissants du Royaume-Uni), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
-[^71b-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^71b-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^71b-4]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
-[^71b-5]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^71b-5]: [RS 192.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5677)
 [^71b-6]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 [^71b-7]: Introduit par le ch. I de l’O du 22 mars 2019 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)). Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020 (Nombres maximums pour les ressortissants du Royaume-Uni), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
 
@@ -1524,12 +1516,12 @@ Conformément au règlement (CE) n<sup>o</sup> 1030/2002[^71c-1], le titre de s�
 <sup>6</sup> Les ressortissants selon les al. 1 et 4 qui sont titulaires soit d’une carte non biométrique établie après le 12 décembre 2008 selon les prescriptions du règlement (CE) n<sup>o</sup> 1030/2002[^71d-10] soit d’un autre document sous forme papier peuvent conserver ceux-ci jusqu’à leur échéance.[^71d-11]
 
 [^71d-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
-[^71d-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^71d-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^71d-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^71d-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^71d-4]: Introduit par le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^71d-5]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^71d-5]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
 [^71d-6]: Introduit par le ch. I de l’O du 25 nov. 2020 (Nombres maximums pour les ressortissants du Royaume-Uni), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
-[^71d-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^71d-7]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^71d-8]: Introduit par le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^71d-9]: Introduit par le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^71d-10]: Cf. note de bas de page relative à l’art. 71*c*.
@@ -1676,7 +1668,7 @@ Le SEM peut demander au centre visé à l’art. 41*b* LEI et, si nécessaire, a
 
 <sup>3</sup> Le centre chargé de produire le titre de séjour biométrique visé à l’art. 41*b* LEI apporte régulièrement la preuve qu’il respecte et tient à jour le système de gestion de la qualité et le programme de mesures de sécurité.
 
-[^72c-1]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^72c-1]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ## Chapitre 6 Regroupement familial
 
@@ -1736,7 +1728,7 @@ Pour obtenir une autorisation d’établissement, le conjoint d’un ressortissa
 
 [^74-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^74-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^74-3]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^74-3]: [RS 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 74a
 
@@ -1810,7 +1802,7 @@ Il y a notamment non-respect de la sécurité et de l’ordre publics lorsque la
 
 Par menace concrète pour la sûreté intérieure ou extérieure de la Suisse, on entend toute menace contre des biens juridiques importants, tels que l’intégrité corporelle, la vie ou la liberté de personnes ou l’existence et le fonctionnement de l’État, que représente la personne concernée en participant à des activités dans les domaines mentionnés à l’art. 6, al. 1, let. a, ch. 1 à 5, de la loi du 25 septembre 2015 sur le renseignement[^77b-1] ou à des activités du crime organisé, en les soutenant, en les encourageant ou en y assumant un rôle de recruteur.
 
-[^77b-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^77b-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 77c
 
@@ -1888,7 +1880,7 @@ L’autorité compétente tient compte de manière appropriée de la situation p
 
 <sup>5</sup> Si la convention d’intégration n’est pas respectée, la décision relative à la prolongation ou à la révocation de l’autorisation de séjour de courte durée ou de l’autorisation de séjour est rendue à la lumière d’un examen visant à déterminer si ce non-respect découle d’un motif valable (art. 62, al. 1, let. f, LEI). Faute de motif valable, les intérêts publics et la situation personnelle de l’étranger sont mis en balance (art. 96, al. 1, LEI).
 
-[^77g-1]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^77g-1]: [RS 142.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4857)
 
 ## Chapitre 7 Fin du séjour
 
@@ -1902,7 +1894,7 @@ L’autorité compétente tient compte de manière appropriée de la situation p
 
 <sup>2</sup> Les art. 62 à 78 de l’ordonnance 2 du 11 août 1999 sur l’asile relative au financement[^78-1] s’appliquent par analogie.
 
-[^78-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^78-1]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 #### Art. 79
 
@@ -1996,7 +1988,7 @@ Doivent être annoncées:
 
 [^82c-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^82c-2]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^82c-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^82c-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^82c-4]: Introduit par le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 82d
@@ -2024,7 +2016,7 @@ La communication doit avoir lieu dans un délai de vingt jours:
 <sup>4</sup> Lorsqu’elle rend une décision de non-prolongation ou de révocation d’une autorisation de courte durée ou de séjour sur la base des données obtenues, l’autorité migratoire cantonale la communique à l’organe chargé de fixer et de verser les prestations complémentaires dans un délai de vingt jours suivant l’entrée en force.
 
 [^82d-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^82d-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^82d-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 82e
 
@@ -2055,7 +2047,7 @@ Les APEA communiquent spontanément aux autorités migratoires cantonales les me
 <sup>2</sup> Les autorités judiciaires communiquent spontanément aux autorités migratoires cantonales les mesures de protection de l’enfant au sens de l’al. 1, let. a et b, qu’elles ont ordonnées dans une procédure relevant du droit de la famille.
 
 [^82f-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^82f-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^82f-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 82g
 
@@ -2234,14 +2226,14 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 - b. demandeurs de visas D qui font valoir un regroupement familial en Suisse;
 - c. demandeurs de visas D humanitaires au sens de l’art. 4, al. 2, de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^87-21].[^87-22]
 
-[^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)**.** Le renvoi a été adapté au 1<sup>er</sup> déc. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^87-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)**.** Le renvoi a été adapté au 1<sup>er</sup> déc. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^87-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-5]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/458, JO L 74 du 18.3.2017, p. 1.
 [^87-6]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-7]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-8]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^87-8]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^87-9]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^87-10]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^87-11]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
@@ -2251,10 +2243,10 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 [^87-15]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-16]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-17]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-18]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^87-18]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^87-19]: Cf. note de bas de page relative à l’art. 71*c*.
 [^87-20]: Introduit par le ch. I de l’O du 17 déc. 2010 ([RO 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^87-21]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^87-21]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 [^87-22]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
 ## Chapitre 10*a* Eurodac
@@ -2273,7 +2265,7 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 
 <sup>2</sup> La procédure est régie par l’art. 11 de l’ordonnance 3 du 11 août 1999 sur l’asile (OA 3)[^87a-1]. L’expert transmet le résultat de sa vérification au SEM ainsi qu’aux services (Corps des gardes-frontière, polices cantonales et communales) qui ont procédé à la comparaison Eurodac.
 
-[^87a-1]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^87a-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87b
 
@@ -2281,7 +2273,7 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 
 La procédure relative à l’exercice du droit d’accès et du droit à la rectification ou à l’effacement des données Eurodac est régie par l’art. 11*a* OA 3[^87b-1].
 
-[^87b-1]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^87b-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87c
 
@@ -2289,7 +2281,7 @@ La procédure relative à l’exercice du droit d’accès et du droit à la rec
 
 La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est régie par la loi du 14 mars 1958 sur la responsabilité[^87c-1], notamment par ses art. 19*a* à 19*c*, qui s’appliquent par analogie.
 
-[^87c-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^87c-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 87d
 
@@ -2297,7 +2289,7 @@ La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est 
 
 Les art. 11*c* et 12 OA 3[^87d-1] s’appliquent par analogie à la surveillance du traitement des données Eurodac et à la sécurité des données.
 
-[^87d-1]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^87d-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 ## Chapitre 11 Compétences, communications et délais
 
@@ -2348,7 +2340,7 @@ Le SEM édicte les directives nécessaires à l’exécution de la présente ord
 Il y a protection appropriée de la personne concernée au sens de l’art. 111*d*, al. 3, LEI lorsque des garanties appropriées respectent les exigences des art. 9 à 12 de l’ordonnance du 31 août 2022 sur la protection des données[^89a-2].
 
 [^89a-1]: Introduit par le ch. I 3 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^89a-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^89a-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 90
 
@@ -2420,7 +2412,7 @@ Sont abrogés:
 <sup>4</sup> Les prestations complémentaires définies à l’art. 3, al. 1, let. a, LPC[^91c-2] qui ont été accordées avant le 1<sup>er</sup> janvier 2019 et qui continuent d’être versées sont également soumises à l’obligation de communiquer visée à l’art. 82*d*. Cette communication doit avoir lieu d’ici au 1<sup>er</sup> juillet 2019 au plus tard.
 
 [^91c-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^91c-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^91c-2]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 91d
 
@@ -2429,7 +2421,7 @@ Sont abrogés:
 Les ressortissants du Royaume-Uni qui sont couverts par le champ d’application de l’accord sur les droits acquis[^91d-2] et qui, à l’entrée en vigueur de la modification du 22 mars 2019, disposent d’un titre de séjour non biométrique au sens de l’art. 71*b*, peuvent le conserver jusqu’à l’échéance de sa durée de validité, sauf si l’établissement d’un nouveau titre de séjour s’impose, notamment en raison de changements du titre de séjour.
 
 [^91d-1]: Introduit par le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^91d-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^91d-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 92
 
@@ -2494,7 +2486,7 @@ Annexe 1[^t-1]
 \9. Le nombre maximum d’autorisations de séjour de courte durée délivrées aux personnes qui sont couvertes par le champ d’application de l’Accord du 11 octobre 2024 entre le Conseil fédéral suisse et le Gouvernement des États-Unis d’Amerique relatif à l’échange de stagiaires et de jeunes professionnels[^annex1-lvlu1-2] visées à l’art. art. 42, al. 2<sup>bis</sup> est fixé à 300 par année civile. Le solde non utilisé n’est pas reporté à l’année suivante.
 
 [^annex1-lvlu1-1]: [RO 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
-[^annex1-lvlu1-2]: [RS 0.142.113.367](https://fedlex.data.admin.ch/eli/cc/2024/613)
+[^annex1-lvlu1-2]: [RS 0.142.113.367](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40229)
 
 Annexe 2[^t-2]
 
@@ -2569,12 +2561,12 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - e. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex3-lvlu1-5];
 - f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-6].
 
-[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex3-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex3-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 Annexe 4[^t-4]
 
@@ -2591,7 +2583,7 @@ Les accords d’association à Dublin comprennent les accords suivants:
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex4-lvlu1-3];
 - d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentées dans un État Membre ou en Suisse[^annex4-lvlu1-4].
 
-[^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)

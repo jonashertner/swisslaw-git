@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2025-01-01
+version: 2025-12-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20250101/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Januar 2025)
+vom 24. Oktober 2007 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 ## 1. Kapitel: Geltungsbereich und Begriffe
@@ -143,7 +143,7 @@ Bei der Anmeldung muss kein gültiges ausländisches Ausweispapier vorgelegt wer
 <sup>4</sup> Die Ausländerinnen und Ausländer sind verpflichtet, das ausländische Ausweispapier den für Personenkontrollen zuständigen Behörden auf Verlangen vorzuweisen oder innerhalb einer angemessenen Frist vorzulegen.
 
 [^8-1]: Fassung gemäss Ziff. 1 der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
-[^8-2]: [SR 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^8-2]: [SR 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 
 ### 2. Abschnitt: Anmelde- und Bewilligungsverfahren bei Aufenthalt ohne Erwerbstätigkeit
 
@@ -225,7 +225,7 @@ Ausländerinnen und Ausländer benötigen unabhängig von der Aufenthaltsdauer e
 - e. Erotikgewerbe;
 - f.[^14-2] Garten- und Landschaftsbau.
 
-[^14-1]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^14-1]: [SR 943.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11308)
 [^14-2]: Eingefügt durch Ziff. II der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3175](https://fedlex.data.admin.ch/eli/oc/2014/536)).
 
 ### 4. Abschnitt: Allgemeine Anmelde- und Abmeldebestimmungen
@@ -303,8 +303,8 @@ Ausgenommen von den Höchstzahlen nach den Absätzen 1 und 2 sind Ausländerinne
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 [^19-2]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^19-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^19-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^19-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^19-4]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^19-5]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 19a
@@ -327,8 +327,8 @@ Ausgenommen von den Höchstzahlen nach Absatz 1 sind Ausländerinnen und Auslän
 
 [^19a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 [^19a-2]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^19a-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^19a-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^19a-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^19a-4]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^19a-5]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 19b
@@ -351,7 +351,7 @@ Ausgenommen von den Höchstzahlen nach Absatz 1 sind Ausländerinnen und Auslän
 - b. die sich innerhalb von zwölf Monaten insgesamt längstens acht Monate in der Schweiz aufhalten und tätig sind als Künstlerinnen und Künstler auf den Gebieten der Musik oder Literatur, der darstellenden oder bildenden Kunst sowie als Zirkus- und Variétéartistinnen und -artisten.
 
 [^19b-1]: Eingefügt durch Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^19b-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^19b-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 20
 
@@ -365,8 +365,8 @@ Ausgenommen von den Höchstzahlen nach Absatz 1 sind Ausländerinnen und Auslän
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)).
 [^20-2]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^20-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^20-4]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^20-5]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 
 #### Art. 20a
@@ -379,8 +379,8 @@ Für Ausländerinnen und Ausländer, die grenzüberschreitende Dienstleistungen 
 - b. der Aufenthalt mehr als 90 Tage beziehungsweise, wenn die Voraussetzungen von Artikel 19*a* Absatz 2 erfüllt sind, mehr als 120 Tage dauert.
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 3. Dez. 2010 ([AS 2010 5959](https://fedlex.data.admin.ch/eli/oc/2010/855)). Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^20a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20a-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^20a-3]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 #### Art. 20b
 
@@ -389,7 +389,7 @@ Für Ausländerinnen und Ausländer, die grenzüberschreitende Dienstleistungen 
 Für Staatsangehörige des Vereinigten Königreichs, die nicht vom Geltungsbereich des Abkommens über die erworbenen Rechte[^20b-2] erfasst werden, können die Kantone Aufenthaltsbewilligungen im Rahmen der Höchstzahlen nach Anhang 2 Ziffern 7 und 8 erteilen.
 
 [^20b-1]: Eingefügt durch Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^20b-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^20b-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 21
 
@@ -425,7 +425,7 @@ Eine Anrechnung an die Höchstzahlen (Art. 19–20*b*) erfolgt nicht, wenn die A
 <sup>2</sup> Absatz 1 gilt nicht, wenn für entsandte Arbeitnehmerinnen oder Arbeitnehmer sowie für grenzüberschreitende Dienstleistungserbringerinnen oder Dienstleistungserbringer aufgrund eines allgemeinverbindlich erklärten Gesamtarbeitsvertrags oder eines Normalarbeitsvertrags im Sinne von Artikel 360*a* des Obligationenrechts[^22a-2] ein Mindestlohn garantiert ist.
 
 [^22a-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^22a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 22b
 
@@ -498,7 +498,7 @@ Besondere persönliche Beziehungen zur Schweiz liegen insbesondere vor, wenn:
 
 <sup>4</sup> Die notwendigen finanziellen Mittel liegen vor, wenn sie den Betrag übersteigen, der einen Schweizer oder eine Schweizerin und allenfalls seine oder ihre Familienangehörigen zum Bezug von Ergänzungsleistungen nach dem Bundesgesetz vom 6. Oktober 2006[^25-1] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) berechtigt.[^25-2]
 
-[^25-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^25-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^25-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4371](https://fedlex.data.admin.ch/eli/oc/2013/777)). Fassung gemäss Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 741](https://fedlex.data.admin.ch/eli/oc/2018/94)).
 
 ### 4. Abschnitt: Abweichungen von den Zulassungsvoraussetzungen
@@ -556,7 +556,7 @@ Die Ausübung einer selbstständigen Erwerbstätigkeit kann bewilligt werden, we
 - a. die notwendigen finanziellen und betrieblichen Voraussetzungen erfüllt sind (Art. 19 Bst. b AIG);
 - b. die Gesuchstellerin oder der Gesuchsteller über eine bedarfsgerechte Wohnung nach Artikel 24 AIG verfügt.[^29-4]
 
-[^29-1]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^29-1]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^29-2]: Fassung gemäss Anhang Ziff. II 2 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^29-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^29-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
@@ -573,7 +573,7 @@ Die Ausübung einer selbstständigen Erwerbstätigkeit kann bewilligt werden, we
 
 <sup>3</sup> Für Personen, deren Bürgerrecht gestützt auf Artikel 36 des BüG nichtig erklärt oder gestützt auf Artikel 42 des BüG entzogen wurde, gelten die allgemeinen Zulassungsvoraussetzungen des AIG.[^30-4]
 
-[^30-1]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^30-1]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^30-2]: Fassung gemäss Anhang Ziff. II 2 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^30-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^30-4]: Fassung gemäss Anhang Ziff. II 2 der Bürgerrechtsverordnung vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
@@ -741,7 +741,7 @@ Ausländerinnen und Ausländern wird im Rahmen des ausserprozessualen Zeugenschu
 <sup>3</sup> Die Ausübung einer Erwerbstätigkeit kann bewilligt werden, wenn die Voraussetzungen von Artikel 29 Absätze 2 oder 3 erfüllt sind.[^36a-3]
 
 [^36a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 7. Nov. 2012 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
-[^36a-2]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^36a-2]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^36a-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 37
@@ -914,7 +914,7 @@ An Au-Pair-Angestellte können Kurzaufenthaltsbewilligungen erteilt werden, wenn
 
 <sup>2</sup> Bewilligungen für Au-Pair-Angestellte werden für maximal zwölf Monate erteilt und können nicht verlängert werden.
 
-[^48-1]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^48-1]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 [^48-2]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 49
@@ -988,26 +988,21 @@ Sind die asylrechtlichen Voraussetzungen (Art. 43 Abs. 1–3 AsylG) erfüllt, ka
 <sup>2</sup> …[^52-4]
 
 [^52-1]: Eingefügt durch Ziff. I 1 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^52-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^52-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^52-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^52-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^52-4]: Aufgehoben durch Ziff. I der V vom 15. Aug. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 #### Art. 53
 
 **Schutzbedürftige**[^53-1]
 
-### (Art. 30 Abs. 1 Bst. l AIG und Art. 75 Abs. 2 AsylG)
+### (Art. 30 Abs. 1 Bst. l AIG; Art. 75 Abs. 2 AsylG)
 
-<sup>1</sup>
+<sup>1</sup> Schutzbedürftige dürfen ab Gewährung des vorübergehenden Schutzes eine unselbstständige oder selbstständige Erwerbstätigkeit ausüben.
 
-Schutzbedürftigen kann ab Gewährung des vorübergehenden Schutzes eine vorübergehende unselbstständige Erwerbstätigkeit bewilligt werden, wenn:
+<sup>2</sup> Die Aufnahme und Beendigung einer Erwerbstätigkeit sowie ein Stellenwechsel unterliegen der Meldepflicht.
 
-- a. das Gesuch eines Arbeitgebers nach Artikel 18 Buchstabe b AIG vorliegt;
-- b. die Lohn- und Arbeitsbedingungen nach Artikel 22 AIG eingehalten werden.
-
-<sup>2</sup> Schutzbedürftigen kann ab Gewährung des vorübergehenden Schutzes eine vorübergehende selbstständige Erwerbstätigkeit bewilligt werden, wenn die Voraussetzungen nach Artikel 19 Buchstaben b und c AIG erfüllt sind.
-
-[^53-1]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 12. März 2022 ([AS 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
+[^53-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 
 #### Art. 53a
 
@@ -1186,30 +1181,30 @@ Der Ausweis für Personen mit Niederlassungsbewilligung muss spätestens 14 Tage
 
 **Stellenwechsel**[^64-1]
 
-### (Art. 30 Abs. 1 Bst. l, 31 Abs. 3 und 85*a* Abs. 2 AIG; Art. 43 und 61 AsylG)
+### (Art. 30 Abs. 1 Bst. l, 31 Abs. 3 und 85*a* AIG; Art. 43, 61 und 75 Abs. 2 AsylG)
 
 [^64-2]
 
 <sup>1</sup> Der Stellenwechsel von Asylsuchenden kann bewilligt werden, wenn die asylrechtlichen Voraussetzungen (Art. 43 Abs. 1–3 AsylG) und die Voraussetzungen nach Artikel 52 erfüllt sind.
 
-<sup>2</sup> Der Stellenwechsel von Schutzbedürftigen kann bewilligt werden, wenn die Voraussetzungen nach Artikel 53 Absatz 1 erfüllt sind. [^64-3]
+<sup>2</sup> …[^64-3]
 
-<sup>3</sup> Für den Stellenwechsel von Ausländerinnen und Ausländern, Flüchtlingen oder Staatenlosen, die in der Schweiz vorläufig aufgenommen wurden, von Flüchtlingen, die in der Schweiz Asyl erhalten haben, und von Staatenlosen, die in der Schweiz anerkannt sind, sowie von Flüchtlingen oder Staatenlosen, die mit einer rechtskräftigen Landesverweisung belegt sind, gelten die Artikel 65–65*c* sinngemäss.[^64-4]
+<sup>3</sup> Für den Stellenwechsel von Ausländerinnen und Ausländern, Flüchtlingen oder Staatenlosen, die in der Schweiz vorläufig aufgenommen wurden, von Flüchtlingen, die in der Schweiz Asyl erhalten haben, von Schutzbedürftigen, von Staatenlosen, die in der Schweiz anerkannt sind, sowie von Flüchtlingen oder Staatenlosen, die mit einer rechtskräftigen Landesverweisung belegt sind, gelten die Artikel 65–65*c* sinngemäss.[^64-4]
 
 [^64-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^64-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^64-3]: Fassung gemäss Ziff. I der V vom 11. März 2022, in Kraft seit 12. März 2022 ([AS 2022 167](https://fedlex.data.admin.ch/eli/oc/2022/167)).
-[^64-4]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^64-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^64-3]: Aufgehoben durch Ziff. I der V vom 22. Okt. 2025, mit Wirkung seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^64-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 
 #### Art. 65
 
-**Meldung der Aufnahme einer Erwerbstätigkeit bei vorläufig Aufgenommenen, Flüchtlingen und Staatenlosen**[^65-1]
+**Meldung der Aufnahme einer Erwerbstätigkeit bei vorläufig Aufgenommenen, Flüchtlingen, Schutzbedürftigen und Staatenlosen**[^65-1]
 
-### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 AsylG)
+### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 und 75 Abs. 2 AsylG)
 
 [^65-2]
 
-<sup>1</sup> Ausländerinnen und Ausländer, Flüchtlinge und Staatenlose, die in der Schweiz vorläufig aufgenommen wurden, Flüchtlinge, die in der Schweiz Asyl erhalten haben, und Staatenlose, die in der Schweiz anerkannt sind, dürfen eine Erwerbstätigkeit aufnehmen, sobald dies gemeldet worden ist.[^65-3]
+<sup>1</sup> Ausländerinnen und Ausländer, Flüchtlinge und Staatenlose, die in der Schweiz vorläufig aufgenommen wurden, Flüchtlinge, die in der Schweiz Asyl erhalten haben, Schutzbedürftige sowie Staatenlose, die in der Schweiz anerkannt sind, dürfen eine Erwerbstätigkeit aufnehmen, sobald dies gemeldet worden ist.[^65-3]
 
 <sup>1bis</sup> Flüchtlinge und Staatenlose, die mit einer rechtskräftigen Landesverweisung belegt sind, dürfen ebenfalls eine Erwerbstätigkeit aufnehmen, sobald dies gemeldet worden ist.[^65-4]
 
@@ -1247,34 +1242,31 @@ Von der Meldepflicht ausgenommen ist die Aufnahme einer Erwerbstätigkeit:
 <sup>8</sup> Für Behördenstellen, die Massnahmen der beruflichen Ein- und Wiedereingliederung direkt umsetzen, gelten die Absätze 4 und 7 sinngemäss.[^65-10]
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^65-3]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 [^65-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
 [^65-5]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^65-6]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^65-7]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
-[^65-8]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^65-7]: [SR 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+[^65-8]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^65-9]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^65-10]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 
 #### Art. 65a
 
-**Meldung der Beendigung einer Erwerbstätigkeit bei vorläufig Aufgenommenen, Flüchtlingen und Staatenlosen**[^65a-1]
+**Meldung der Beendigung einer Erwerbstätigkeit bei vorläufig Aufgenommenen, Flüchtlingen, Schutzbedürftigen und Staatenlosen**[^65a-1]
 
-### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 AsylG)
+### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 und 75 Abs. 2 AsylG)
 
-[^65a-2]
+Für die Meldung der Beendigung einer Erwerbstätigkeit bei vorläufig Aufgenommenen, Flüchtlingen, Schutzbedürftigen und Staatenlosen gilt Artikel 65 Absätze 2–4 und 6 sinngemäss.
 
-Für die Meldung der Beendigung einer Erwerbstätigkeit gilt Artikel 65 Absätze 2–4 und 6 sinngemäss.
-
-[^65a-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65a-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65a-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)). Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)
 
 #### Art. 65b
 
 **Erfassung und Übermittlung der gemeldeten Daten**[^65b-1]
 
-### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 AsylG)
+### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 und 75 Abs. 2 AsylG)
 
 [^65b-2]
 
@@ -1291,13 +1283,13 @@ Wird die Aufnahme einer Erwerbstätigkeit gemeldet, so erfasst die zuständige B
 <sup>3</sup> Wird die Beendigung einer Erwerbstätigkeit gemeldet, so erfasst die zuständige Behörde das Datum der Beendigung im ZEMIS.
 
 [^65b-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65b-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
+[^65b-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
 
 #### Art. 65c
 
 **Kontrolle der Lohn- und Arbeitsbedingungen**[^65c-1]
 
-### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 AsylG)
+### (Art. 31 Abs. 3 und 85*a* AIG; Art. 61 und 75 Abs. 2 AsylG)
 
 [^65c-2]
 
@@ -1306,8 +1298,8 @@ Wird die Aufnahme einer Erwerbstätigkeit gemeldet, so erfasst die zuständige B
 <sup>2</sup> Sie kann zudem anderen Kontrollorganen eine Kopie der Meldung übermitteln, beispielsweise den tripartiten Kommissionen nach Artikel 360*b* des Obligationenrechts[^65c-3] oder den paritätischen Kommissionen, die mit dem Vollzug des Gesamtarbeitsvertrags der betreffenden Branche beauftragt sind.
 
 [^65c-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^65c-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1431](https://fedlex.data.admin.ch/eli/oc/2019/279)).
-[^65c-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^65c-2]: Fassung gemäss Ziff. I der V vom 22. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 669](https://fedlex.data.admin.ch/eli/oc/2025/669)).
+[^65c-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 5. Abschnitt: Örtlicher Geltungsbereich der Bewilligungen und Kantonswechsel von vorläufig aufgenommenen Personen
 
@@ -1377,7 +1369,7 @@ Der Verbleib im Wohnkanton ist aufgrund der Arbeitszeiten namentlich dann unzumu
 Bei ausländischen Kindern unter Vormundschaft (Art. 327*a*–327*c* des Zivilgesetzbuchs[^69-2]; ZGB) und bei Ausländerinnen und Ausländern unter einer umfassenden Beistandschaft (Art. 398 ZGB) ist derjenige Kanton für die ausländerrechtliche Regelung zuständig, in dem sich der Sitz der zuständigen Kindes- und Erwachsenenschutzbehörde (KESB) befindet.
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^69-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^69-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 70
 
@@ -1387,8 +1379,8 @@ Bei ausländischen Kindern unter Vormundschaft (Art. 327*a*–327*c* des Zivilge
 
 <sup>2</sup> Das Anwesenheitsverhältnis ist spätestens auf den Zeitpunkt der bedingten oder unbedingten Entlassung aus dem Strafvollzug, dem Massnahmenvollzug oder der Unterbringung neu zu regeln. Besteht die Möglichkeit, die betroffene Person zum Vollzug eines Strafurteils in den Heimatstaat zu überstellen, ist sofort über das Anwesenheitsverhältnis zu entscheiden.
 
-[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^70-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^70-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^70-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^70-3]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
 ## 5. Kapitel: Ausländerausweis
@@ -1435,7 +1427,7 @@ Folgende Personen erhalten einen ihrer jeweiligen Rechtsstellung entsprechenden 
 
 [^71a-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020 (Höchstzahlen für Staatsangehörige des Vereinigten Königreichs), in Kraft seit 1. Jan. 2021 ([AS 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
 [^71a-2]: Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
-[^71a-3]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^71a-3]: [SR 192.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5677)
 [^71a-4]: Eingefügt durch Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 
 #### Art. 71b
@@ -1462,11 +1454,11 @@ Ein nicht biometrischer Ausländerausweis kann in folgender Form ausgestellt wer
 
 <sup>4</sup> Der Ausweis für Grenzgängerinnen und Grenzgänger, die Staatsangehörige des Vereinigten Königreichs sind, die in einem Schengen-Staat Wohnsitz haben und die vom Geltungsbereich des Abkommens vom 25. Februar 2019 über die erworbenen Rechte erfasst werden, enthält die Anmerkung, dass der Ausweis gemäss diesem Abkommen ausgestellt worden ist.[^71b-7]
 
-[^71b-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^71b-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^71b-2]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020 (Höchstzahlen für Staatsangehörige des Vereinigten Königreichs), in Kraft seit 1. Jan. 2021 ([AS 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
-[^71b-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^71b-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^71b-4]: Fassung gemäss Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
-[^71b-5]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^71b-5]: [SR 192.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5677)
 [^71b-6]: Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Nov. 2019 ([AS 2019 3041](https://fedlex.data.admin.ch/eli/oc/2019/555)).
 [^71b-7]: Eingefügt durch Ziff. I der V vom 22. März 2019 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)). Fassung gemäss Ziff. I der V vom 25. Nov. 2020 (Höchstzahlen für Staatsangehörige des Vereinigten Königreichs), in Kraft seit 1. Jan. 2021 ([AS 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
 
@@ -1503,12 +1495,12 @@ In Einklang mit der Verordnung (EG) Nr. 1030/2002[^71c-1] ist der biometrische A
 <sup>6</sup> Staatsangehörige nach den Absätzen 1 und 4, die entweder Inhaberinnen oder Inhaber einer nicht biometrischen, nach dem 12. Dezember 2008 gemäss den Anforderungen der Verordnung (EG) Nr. 1030/2002[^71d-10] ausgestellten Karte oder eines anderen Dokuments in Papierform sind, können diese Karte oder dieses Dokument bis zum Ablauf der Gültigkeit behalten.[^71d-11]
 
 [^71d-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3683](https://fedlex.data.admin.ch/eli/oc/2013/688)).
-[^71d-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^71d-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^71d-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^71d-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^71d-4]: Eingefügt durch Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^71d-5]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [BBl 2020 1085](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^71d-5]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261); [BBl 2020 1085](https://fedlex.data.admin.ch/eli/fga/2020/228)
 [^71d-6]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020 (Höchstzahlen für Staatsangehörige des Vereinigten Königreichs), in Kraft seit 1. Jan. 2021 ([AS 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
-[^71d-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^71d-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^71d-8]: Eingefügt durch Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^71d-9]: Eingefügt durch Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 [^71d-10]: Siehe Fussnote zu Art. 71*c*.
@@ -1654,7 +1646,7 @@ Das SEM kann von der Stelle nach Artikel 41*b* AIG sowie gegebenenfalls von den 
 
 <sup>3</sup> Die mit der Ausfertigung des biometrischen Ausländerausweises betraute Stelle nach Artikel 41*b* AIG weist periodisch die Einhaltung und Aktualität des Qualitätsmanagementsystems und des Sicherheitskonzeptes nach.
 
-[^72c-1]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^72c-1]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ## 6. Kapitel: Familiennachzug
 
@@ -1714,7 +1706,7 @@ Damit Ehegatten von Schweizerinnen und Schweizern und Ehegatten von Personen mit
 
 [^74-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
 [^74-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 190](https://fedlex.data.admin.ch/eli/oc/2024/190)).
-[^74-3]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^74-3]: [SR 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 74a
 
@@ -1788,7 +1780,7 @@ Eine Nichtbeachtung der öffentlichen Sicherheit und Ordnung liegt insbesondere 
 
 Eine konkrete Bedrohung der inneren oder äusseren Sicherheit der Schweiz ist gegeben, wenn ein bedeutendes Rechtsgut wie Leib und Leben oder die Freiheit von Personen oder der Bestand und das Funktionieren des Staates betroffen ist, indem die betroffene Person an Aktivitäten in den Bereichen nach Artikel 6 Absatz 1 Buchstabe a Ziffern 1–5 des Nachrichtendienstgesetzes vom 25. September 2015[^77b-1] oder an Aktivitäten der organisierten Kriminalität teilnimmt, solche Aktivitäten unterstützt, fördert oder dazu anwirbt.
 
-[^77b-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^77b-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 #### Art. 77c
 
@@ -1866,7 +1858,7 @@ Die zuständige Behörde berücksichtigt die persönlichen Verhältnisse der Aus
 
 <sup>5</sup> Wird die Integrationsvereinbarung nicht eingehalten, so ist beim Entscheid über die Verlängerung oder den Widerruf der Kurzaufenthalts- oder Aufenthaltsbewilligung zu prüfen, ob dafür ein entschuldbarer Grund vorliegt. Liegt kein entschuldbarer Grund vor, so sind das öffentliche Interesse und die persönlichen Verhältnisse abzuwägen (Art. 96 Abs. 1 AIG).
 
-[^77g-1]: [SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^77g-1]: [SR 142.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4857)
 
 ## 7. Kapitel: Beendigung des Aufenthalts
 
@@ -1880,7 +1872,7 @@ Die zuständige Behörde berücksichtigt die persönlichen Verhältnisse der Aus
 
 <sup>2</sup> Die Artikel 62–78 der Asylverordnung 2 vom 11. August 1999[^78-1] gelten sinngemäss.
 
-[^78-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^78-1]: [SR 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 #### Art. 79
 
@@ -1974,7 +1966,7 @@ Zu melden sind die Daten von:
 
 [^82c-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 [^82c-2]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^82c-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^82c-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 [^82c-4]: Eingefügt durch Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
 
 #### Art. 82d
@@ -2002,7 +1994,7 @@ Die Meldung muss innerhalb von 20 Tagen erfolgen:
 <sup>4</sup> Verfügt die kantonale Migrationsbehörde gestützt auf die erhaltenen Daten die Nichtverlängerung oder den Widerruf einer Kurzaufenthalts- oder Aufenthaltsbewilligung, so meldet sie dies innerhalb von 20 Tagen nach Eintritt der Rechtskraft dem für die Festsetzung und die Auszahlung der Ergänzungsleistung zuständigen Organ.
 
 [^82d-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^82d-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^82d-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 82e
 
@@ -2033,7 +2025,7 @@ Die KESB melden der kantonalen Migrationsbehörde unaufgefordert Kindes- und Erw
 <sup>2</sup> Die Gerichtsbehörden melden der kantonalen Migrationsbehörde unaufgefordert die von ihnen in einem familienrechtlichen Verfahren angeordneten Kindesschutzmassnahmen nach Absatz 1 Buchstaben a und b.
 
 [^82f-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^82f-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^82f-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 82g
 
@@ -2211,14 +2203,14 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 - b. Personen, die ein Visum D beantragen und um Familiennachzug in die Schweiz ersuchen;
 - c. Personen, die ein humanitäres Visum nach Artikel 4 Absatz 2 der Verordnung vom 15. August 2018[^87-21] über die Einreise und die Visumerteilung beantragen.[^87-22]
 
-[^87-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)**.** Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Dez. 2022 angepasst.
+[^87-1]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)**.** Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Dez. 2022 angepasst.
 [^87-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-5]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.03.2017, S. 1.
 [^87-6]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-7]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-8]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^87-8]: [SR 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^87-9]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^87-10]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^87-11]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Ziff. 1 der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
@@ -2228,10 +2220,10 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 [^87-15]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-16]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-17]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-18]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^87-18]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 [^87-19]: Siehe Fussnote zu Art. 71*c*.
 [^87-20]: Eingefügt durch Ziff. I der V vom 17. Dez. 2010 ([AS 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Fassung gemäss Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^87-21]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^87-21]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 [^87-22]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
 ## 10*a*. Kapitel: Eurodac
@@ -2250,7 +2242,7 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 
 <sup>2</sup> Das Verfahren richtet sich nach Artikel 11 der Asylverordnung 3 vom 11. August 1999[^87a-1] (AsylV 3). Die Spezialistin oder der Spezialist übermittelt das Ergebnis der Überprüfung an das SEM sowie an die Stellen, die den Abgleich im Eurodac vorgenommen haben (Grenzwachtkorps, kantonale und kommunale Polizeibehörden).
 
-[^87a-1]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^87a-1]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87b
 
@@ -2258,7 +2250,7 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 
 Das Verfahren zur Ausübung des Rechts auf Auskunft und des Rechts auf Berichtigung oder Löschung von Daten im Eurodac richtet sich nach Artikel 11*a* AsylV 3[^87b-1].
 
-[^87b-1]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^87b-1]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87c
 
@@ -2266,7 +2258,7 @@ Das Verfahren zur Ausübung des Rechts auf Auskunft und des Rechts auf Berichtig
 
 Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet sich nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^87c-1], insbesondere nach dessen Artikeln 19*a*–19*c*, die sinngemäss anwendbar sind.
 
-[^87c-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^87c-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 87d
 
@@ -2274,7 +2266,7 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet si
 
 Die Artikel 11*c* und 12 AsylV 3[^87d-1] gelten sinngemäss für die Aufsicht über die Bearbeitung von Daten im Eurodac und für die Datensicherheit.
 
-[^87d-1]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^87d-1]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 ## 11. Kapitel: Zuständigkeiten, Mitteilungen und Fristen
 
@@ -2325,7 +2317,7 @@ Das SEM erlässt die für den Vollzug dieser Verordnung erforderlichen Weisungen
 Ein geeigneter Datenschutz der betroffenen Person im Sinne von Artikel 111*d* Absatz 3 AIG liegt vor, wenn die geeigneten Garantien die Anforderungen der Artikel 9–12 der Datenschutzverordnung vom 31. August 2022[^89a-2] erfüllen.
 
 [^89a-1]: Eingefügt durch Ziff. I 3 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Anhang 2 Ziff. II 4 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^89a-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^89a-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 90
 
@@ -2397,7 +2389,7 @@ Folgende Verordnungen werden aufgehoben:
 <sup>4</sup> Werden Ergänzungsleistungen nach Artikel 3 Absatz 1 Buchstabe a ELG[^91c-2], die vor dem 1. Januar 2019 gewährt wurden, weiterhin ausgerichtet, so unterstehen sie ebenfalls der Meldepflicht nach Artikel 82*d*. Die Meldung muss spätestens bis zum 1. Juli 2019 erfolgen.
 
 [^91c-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
-[^91c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^91c-2]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 91d
 
@@ -2406,7 +2398,7 @@ Folgende Verordnungen werden aufgehoben:
 Staatsangehörige des Vereinigten Königreichs, die vom Geltungsbereich des Abkommens über die erworbenen Rechte[^91d-2] erfasst werden und die beim Inkrafttreten dieser Änderung über einen nicht biometrischen Ausländerausweis im Sinne von Artikel 71*b* verfügen, dürfen diesen bis zum Ablauf von dessen Gültigkeitsdauer behalten, sofern nicht die Ausstellung eines neuen Ausweises erforderlich ist, insbesondere aufgrund von Ausweismutationen.
 
 [^91d-1]: Eingefügt durch Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5853](https://fedlex.data.admin.ch/eli/oc/2020/984)).
-[^91d-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^91d-2]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
 
 #### Art. 92
 
@@ -2471,7 +2463,7 @@ Anhang 1[^t-1]
 \9. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen, die vom Geltungsbereich des Abkommens vom 11. Oktober 2024[^annex1-lvlu1-2] zwischen dem Schweizerischen Bundesrat und der Regierung der Vereinigten Staaten von Amerika über den Austausch von Praktikantinnen und Praktikanten sowie jungen Berufsleuten erfasst werden (Art. 42 Abs. 2<sup>bis</sup>), werden auf 300 pro Kalenderjahr festgesetzt. Der nicht genutzte Restbestand wird nicht auf das folgende Jahr übertragen.
 
 [^annex1-lvlu1-1]: [AS 2023 793](https://fedlex.data.admin.ch/eli/oc/2023/793)
-[^annex1-lvlu1-2]: [SR 0.142.113.367](https://fedlex.data.admin.ch/eli/cc/2024/613)
+[^annex1-lvlu1-2]: [SR 0.142.113.367](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40229)
 
 Anhang 2[^t-2]
 
@@ -2546,12 +2538,12 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - e. Abkommen vom 28. April 2005[^annex3-lvlu1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - f. Protokoll vom 28. Februar 2008[^annex3-lvlu1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex3-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex3-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 Anhang 4[^t-4]
 
@@ -2568,7 +2560,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 - c. Protokoll vom 28. Februar 2008[^annex4-lvlu1-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - d. Protokoll vom 28. Februar 2008[^annex4-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
 
-[^annex4-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex4-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex4-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex4-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex4-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex4-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex4-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex4-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
