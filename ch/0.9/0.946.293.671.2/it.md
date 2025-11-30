@@ -4,11 +4,11 @@ title: Accordo temporaneo del 14 dicembre 2020 tra la Confederazione Svizzera e 
 short: AMPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1073"
 language: it
-version: 2022-12-01
+version: 2025-12-01
 adopted: 2020-12-14
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20221201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,7 +21,7 @@ Traduzione
 
 Concluso il 14 dicembre 2020 Applicato provvisoriamente dal 1° gennaio 2021 Entrato in vigore mediante scambio di note il 1° dicembre 2022[^t-1]
 
-(Stato 1° dicembre 2022)
+(Stato 1° dicembre 2025)
 
 [^t-1]: [RU 2022 621](https://fedlex.data.admin.ch/eli/oc/2022/621)
 
@@ -43,10 +43,10 @@ riaffermando gli obblighi delle Parti, statuiti all’articolo 8 dell’Accordo 
 
 hanno convenuto, nell’intento di conseguire i suddetti obiettivi, di concludere il seguente Accordo («presente Accordo»):
 
-[^ingress-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^ingress-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^ingress-4]: [RS 0.946.293.671](https://fedlex.data.admin.ch/eli/cc/2020/1071)
+[^ingress-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^ingress-3]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^ingress-4]: [RS 0.946.293.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4228)
 
 ## Capitolo 1: Disposizioni Generali
 
@@ -276,7 +276,7 @@ In attesa dell’entrata in vigore del presente Accordo, le Parti possono applic
 
 <sup>6.</sup> Il presente Accordo scade dopo due anni dalla sua entrata in vigore, salvo diversamente convenuto dalle Parti.[^19-1]
 
-[^19-1]: Mediante scambio di note del 14 e 17 nov. 2022, in vigore dal 1° dic. 2022, le parti hanno convenuto di prorogare l’Acc. fino al 31 dic, 2025, a meno che queste non convengano altrimenti ([RU 2022 717](https://fedlex.data.admin.ch/eli/oc/2022/717)).
+[^19-1]: Mediante scambio di note dei 14 e 17 nov. 2022 le parti hanno convenuto di prorogare l’Acc. fino al 31 dic. 2025 ([RU 2022 717](https://fedlex.data.admin.ch/eli/oc/2022/717)) e mediante scambio di note del 21 ott. 2025 hanno convenuto di prorogare l’Acc. fino al 31 dic. 2029 (**2025** 693).
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo dai propri Governi, hanno firmato il presente Accordo. Fatto a Londra il 14 dicembre 2020 in due esemplari originali in inglese. Per il Governo della Confederazione Svizzera: Guy Parmelin Per il Governo del Regno Unito di Gran Bretagna e Irlanda del Nord: Elizabeth Truss
 

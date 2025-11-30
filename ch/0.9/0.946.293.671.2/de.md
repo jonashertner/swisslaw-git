@@ -4,11 +4,11 @@ title: Befristetes Abkommen vom 14. Dezember 2020 zwischen der Schweizerischen E
 short: SMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1073"
 language: de
-version: 2022-12-01
+version: 2025-12-01
 adopted: 2020-12-14
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20221201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Vorläufig angewendet ab 1. Januar 2021
 
 Inkrafttreten durch Notenaustausch am 1. Dezember 2022[^t-1]
 
-(Stand am 1. Dezember 2022)
+(Stand am 1. Dezember 2025)
 
 [^t-1]: [AS 2022 621](https://fedlex.data.admin.ch/eli/oc/2022/621)
 
@@ -47,10 +47,10 @@ in Bekräftigung der Verpflichtung der Vertragsparteien nach Artikel 8 des Hande
 
 haben beschlossen, zur Erreichung dieser Ziele folgendes Abkommen («dieses Abkommen») abzuschliessen:
 
-[^ingress-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^ingress-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^ingress-4]: [SR 0.946.293.671](https://fedlex.data.admin.ch/eli/cc/2020/1071)
+[^ingress-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^ingress-3]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^ingress-4]: [SR 0.946.293.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4228)
 
 ## Kapitel 1: Allgemeine Bestimmungen
 
@@ -278,7 +278,7 @@ Bis zum Inkrafttreten dieses Abkommens können die Vertragsparteien dieses Abkom
 
 <sup>6.</sup> Dieses Abkommen endet zwei Jahre nach seinem Inkrafttreten, sofern die Vertragsparteien nichts anderes vereinbaren.[^19-1]
 
-[^19-1]: Mit Notenaustausch vom 14. und 17. Nov. 2022, in Kraft seit 1. Dez 2022 haben die Vertragsparteien vereinbart, das Abk. bis zum 31. Dez. 2025 zu verlängern, sofern die Parteien nichts anders vereinbaren ([AS 2022 717](https://fedlex.data.admin.ch/eli/oc/2022/717)).
+[^19-1]: Das Abk. wurde verlängert bis zum 31. Dez. 2025 durch Notenaustausch vom 14. und 17. Nov. 2022 ([AS 2022 717](https://fedlex.data.admin.ch/eli/oc/2022/717)) und bis zum 31. Dez. 2029 durch Notenaustausch vom 21. Okt. 2025, in Kraft seit 1. Dez 2025 (AS **202****5** 693).
 
 *Zu Urkund dessen* haben die hierzu von ihrer jeweiligen Regierung gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu London am 14. Dezember 2020 in zwei Urschriften in englischer Sprache. Für die Regierung der Schweizerischen Eidgenossenschaft: Guy Parmelin Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland: Elizabeth Truss
 
