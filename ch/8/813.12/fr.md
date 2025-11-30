@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2025-09-01
+version: 2025-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20250901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20250901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20251201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20250901/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (État le 1<sup>er</sup> septembre 2025)
+du 18 mai 2005 (État le 1<sup>er</sup> décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -1546,7 +1546,7 @@ Une fois l’autorisation accordée, la confidentialité ne s’applique en aucu
 
 <sup>1</sup>
 
-L’art. 8 OChim[^36-2] s’applique par analogie à l’emballage des produits biocides et à celui des substances actives destinées à être incorporées dans les produits biocides. Lorsque l’OChim parle:[^36-3]
+Les art. 8 et 9 OChim[^36-2] s’appliquent par analogie à l’emballage des produits biocides et à celui des substances actives destinées à être incorporées dans les produits biocides. Lorsque l’OChim parle:[^36-3]
 
 - a. de fabricant, il faut entendre le titulaire de l’autorisation au sens de la présente ordonnance;
 - b. de substances et de préparations dangereuses, il faut entendre, au sens de la présente ordonnance, tous les produits biocides et les substances actives destinées à être incorporées dans les produits biocides.
@@ -1556,8 +1556,8 @@ L’art. 8 OChim[^36-2] s’applique par analogie à l’emballage des produits 
 <sup>3</sup> Les produits biocides susceptibles d’être confondus avec des denrées alimentaires au sens de la loi du 20 juin 2014 sur les denrées alimentaires[^36-4] ou avec des aliments pour animaux au sens de l’art. 3, al. 1, de l’ordonnance du 26 mai 1999 sur les aliments pour animaux[^36-5] doivent être emballés de manière à ce que le risque de confusion soit réduit au strict minimum.[^36-6]
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^36-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
-[^36-3]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^36-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^36-3]: Nouvelle teneur selon l’annexe 10 ch. II 3 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 [^36-4]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645).Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> mai 2017.
 [^36-5]: [[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7), [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
 [^36-6]: Erratum du 23 déc. 2014 ([RO 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
@@ -1581,7 +1581,7 @@ Les produits biocides et les substances actives destinées à être incorporées
 - a. conformément au résumé des caractéristiques du produit biocide décidé selon l’art. 20, al. 2, let. b, et
 - b.
 
-  par analogie selon les art. 10 et 93, al. 1, let. b, OChim[^38-3]; à cet égard, lorsque l’OChim parle:[^38-4]
+  par analogie selon les art. 10, 11 et 93, al. 1, let. b, OChim[^38-3]; à cet égard, lorsque l’OChim parle:[^38-4]
 
   - 1\. de fabricant, il faut entendre le titulaire de l’autorisation au sens de la présente ordonnance,
   - 2\. de substances et de préparations dangereuses, il faut entendre, au sens de la présente ordonnance, tous les produits biocides et les substances actives destinées à être incorporées dans les produits biocides.
@@ -1640,8 +1640,8 @@ Au lieu de figurer sur l’étiquette, les indications visées aux al. 3, let. c
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 15 juil. 2014 ([RO 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^38-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
-[^38-4]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^38-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^38-4]: Nouvelle teneur selon l’annexe 10 ch. II 3 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 [^38-5]: Nouvelle teneur selon le ch. I de l’O du 5 juin 2015, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-6]: Directive 2000/54/CE du Parlement européen et du Conseil, du 18 sept. 2000, concernant la protection des travailleurs contre les risques liés à l’exposition à des agents biologiques au travail, JO L 262 du 17.10.2000, p. 21.
 [^38-7]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).

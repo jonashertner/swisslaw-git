@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 über das Inverkehrbringen von und den Umgan
 short: VBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: de
-version: 2025-09-01
+version: 2025-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20250901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20250901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2005-468-20251201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20250901/de"
 
 (Biozidprodukteverordnung, VBP)
 
-vom 18. Mai 2005 (Stand am 1. September 2025)
+vom 18. Mai 2005 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1549,7 +1549,7 @@ Nach der Zulassung sind folgende Angaben in keinem Fall vertraulich:
 
 <sup>1</sup>
 
-Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten müssen sinngemäss nach Artikel 8 ChemV[^36-2] verpackt sein. Dabei entsprechen:[^36-3]
+Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten müssen sinngemäss nach den Artikeln 8 und 9 ChemV[^36-2] verpackt sein. Dabei entsprechen:[^36-3]
 
 - a. der Herstellerin nach der ChemV, die Inhaberin der Zulassung nach dieser Verordnung;
 - b. den gefährlichen Stoffen und Zubereitungen nach der ChemV, sämtliche Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten nach dieser Verordnung.
@@ -1559,8 +1559,8 @@ Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten müssen sinngem�
 <sup>3</sup> Biozidprodukte, die mit Lebensmitteln im Sinne des Lebensmittelgesetzes vom 20. Juni 2014[^36-4] oder mit Futtermitteln im Sinne von Artikel 3 Absatz 1 der Futtermittel-Verordnung vom 26. Mai 1999[^36-5] verwechselt werden können, müssen so verpackt sein, dass die Wahrscheinlichkeit einer Verwechslung auf ein Mindestmass beschränkt ist.[^36-6]
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^36-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
-[^36-3]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^36-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^36-3]: Fassung gemäss Anhang 10 Ziff. II 3 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 [^36-4]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Mai 2017 angepasst.
 [^36-5]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
 [^36-6]: Berichtigung vom 23. Dez. 2014 ([AS 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
@@ -1584,7 +1584,7 @@ Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten müssen gekennze
 - a. im Einklang mit der verfügten Zusammenfassung der Eigenschaften des Biozidprodukts nach Artikel 20 Absatz 2 Buchstabe b; und
 - b.
 
-  sinngemäss nach den Artikeln 10 und 93 Absatz 1 Buchstabe b ChemV[^38-3]; dabei entsprechen:[^38-4]
+  sinngemäss nach den Artikeln 10, 11 und 93 Absatz 1 Buchstabe b ChemV[^38-3]; dabei entsprechen:[^38-4]
 
   - 1\. der Herstellerin nach der ChemV, die Inhaberin der Zulassung nach dieser Verordnung,
   - 2\. den gefährlichen Stoffen und Zubereitungen nach der ChemV, sämtliche Biozidprodukte und Wirkstoffe zur Verwendung in Biozidprodukten nach dieser Verordnung.
@@ -1643,8 +1643,8 @@ Die Angaben nach den Absätzen 3 Buchstaben c, e, f und i–l und 4 Buchstabe b 
 
 [^38-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 15. Juli 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^38-2]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^38-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: die V vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
-[^38-4]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^38-3]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^38-4]: Fassung gemäss Anhang 10 Ziff. II 3 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 [^38-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 15. Dez. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^38-6]: Fassung gemäss Ziff. I der V vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-7]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, ABl. L 262 vom 17.10.2000, S. 21.

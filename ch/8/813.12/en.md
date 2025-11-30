@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2025-09-01
+version: 2025-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20250901/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20250901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20250901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20251201-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20251201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 1 September 2025)
+of 18 May 2005 (Status as of 1 December 2025)
 
 The Swiss Federal Council,
 
@@ -1547,7 +1547,7 @@ After authorisation has been granted, the following information shall not be tre
 
 <sup>1</sup>
 
-Biocidal products and active substances for use in biocidal products must be packaged in accordance with Article 8 of the ChemO[^36-2] *mutatis mutandis*. Where the ChemO refers:[^36-3]
+Biocidal products and active substances for use in biocidal products must be packaged in accordance with Articles 8 and 9 of the ChemO[^36-2] *mutatis mutandis*. Where the ChemO refers:[^36-3]
 
 - a. to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder;
 - b. to dangerous substances and preparations, this shall be understood for the purposes of this Ordinance as all biocidal products and active substances for use in biocidal products.
@@ -1557,8 +1557,8 @@ Biocidal products and active substances for use in biocidal products must be pac
 <sup>3</sup> Biocidal products which may be mistaken for foodstuffs within the meaning of the Foodstuffs Act of 20 June 2014[^36-4] or for animal feedstuffs within the meaning of Article 3 paragraph 1 of the Feedstuffs Ordinance of 26 May 1999[^36-5] must be packaged to minimise the likelihood of such a mistake being made.[^36-6]
 
 [^36-1]: Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
-[^36-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
-[^36-3]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^36-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^36-3]: Amended by Annex 10 No II 3 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 [^36-4]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645). The reference was amended on 1 May 2017 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^36-5]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: the O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
 [^36-6]: Correction of 23 Dec. 2014 ([AS 2014 4719](https://fedlex.data.admin.ch/eli/oc/2014/799)).
@@ -1582,7 +1582,7 @@ Biocidal products and active substances for use in biocidal products must be lab
 - a. in accordance with the summary of the biocidal product characteristics referred to in Article 20 paragraph 2 letter b; and
 - b.
 
-  in accordance with Articles 10 and 93 paragraph 1 letter b of the ChemO[^38-3] *mutatis mutandis*; where the ChemO refers:[^38-4]
+  in accordance with Articles 10, 11 and 93 paragraph 1 letter b of the ChemO[^38-3] *mutatis mutandis*; where the ChemO refers:[^38-4]
 
   - 1\. to the manufacturer, this shall be understood for the purposes of this Ordinance as the authorisation holder,
   - 2\. to dangerous substances and preparations, this shall be understood for the purposes of this Ordinance as all biocidal products and active substances for use in biocidal products.
@@ -1641,8 +1641,8 @@ Where this is necessary because of the size or the function of the biocidal prod
 
 [^38-1]: Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^38-2]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
-[^38-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
-[^38-4]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
+[^38-3]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^38-4]: Amended by Annex 10 No II 3 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 [^38-5]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^38-6]: Amended by No I of the O of 5 June 2015, in force since 1 July 2015 ([AS 2015 1985](https://fedlex.data.admin.ch/eli/oc/2015/368)).
 [^38-7]: Directive 2000/54/EC of the European Parliament and of the Council of 18 September 2000 on the protection of workers from risks related to exposure to biological agents at work, OJ L 262 of 17 October 2000, p. 21.
