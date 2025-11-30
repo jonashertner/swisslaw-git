@@ -4,13 +4,13 @@ number: "815.200"
 title: Einführungsgesetz zum Bundesgesetz über die Familienzulagen
 short: "EG Familienzulagengesetz, EG FamZG"
 language: de
-version: 2010-01-01
-valid_until: 2025-11-30
-version_adopted: 2009-03-24
+version: 2025-12-01
+valid_until: 2025-12-31
+version_adopted: 2025-04-29
 adopted: 2009-03-24
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/815.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/787/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3875/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/787/pdf_file"
 
 (EG Familienzulagengesetz, EG FamZG)
 
-Vom 24.03.2009 (Stand 01.01.2010)
+Vom 24.03.2009 (Stand 01.12.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -176,7 +176,7 @@ beschliesst:
 
 <sup>2</sup> Familienausgleichskassen haben über ihre Tätigkeit jährlich Bericht zu erstatten und die Rechnung sowie die nach Bundesrecht erforderlichen statistischen Daten einzureichen.
 
-<sup>3</sup> Aufsicht über die kantonale Familienausgleichskasse und Berichterstattung richten sich nach dem Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG) vom 15. März 1994[^18-1].
+<sup>3</sup> Die Aufsicht über die kantonale Familienausgleichskasse und die Berichterstattung richten sich nach dem Gesetz über die SVA Aargau (SVAG) vom 15. März 1994[^18-1].
 
 <sup>4</sup> Familienausgleichskassen und Arbeitgebende haben alle Auskünfte zu erteilen, welche für die Wahrnehmung der Aufsicht erforderlich sind.
 
