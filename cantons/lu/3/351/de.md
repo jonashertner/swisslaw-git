@@ -4,13 +4,13 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2025-09-01
-valid_until: 2025-11-30
+version: 2025-12-01
+valid_until: 2025-12-31
 version_adopted: 2025-08-18
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/4520/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4545/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4520/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.09.2025)
+vom 06.04.2004 (Stand 01.12.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -257,9 +257,9 @@ beschliesst:
 - a. Polizeiregion Stadt Luzern
 - b. Polizeiregion Ebikon mit folgenden Postenkreisen und zugeteilten Gemeinden:
   - 1\. …
-  - 2\. Ebikon: Ebikon, Buchrain, Dierikon
+  - 2\. Ebikon: Ebikon, Buchrain, Dierikon, Gisikon, Root
   - 3\. Meggen: Meggen, Adligenswil, Meierskappel, Udligenswil
-  - 4\. Root: Root, Gisikon
+  - 4\. …
   - 5\. Weggis: Weggis, Greppen, Vitznau
 - c. Polizeiregion Emmen mit folgenden Postenkreisen und zugeteilten Gemeinden und Gemeindeteilen:
   - 1\. Reussbühl: Ortsteil Littau von Luzern
