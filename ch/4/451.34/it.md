@@ -4,11 +4,11 @@ title: Ordinanza del 15 giugno 2001 sulla protezione dei siti di riproduzione di
 short: OSRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/328"
 language: it
-version: 2017-11-01
+version: 2025-12-01
 adopted: 2001-06-15
 in_force: 2001-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/328/20171101/it/xml/fedlex-data-admin-ch-eli-cc-2001-328-20171101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/328/20171101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/328/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2001-328-20251201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/328/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/328/20171101/it"
 
 (Ordinanza sui siti di riproduzione degli anfibi, OSRA)
 
-del 15 giugno 2001 (Stato 1° novembre 2017)
+del 15 giugno 2001 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 18*a* capoversi 1 e 3 della legge federale del 1° luglio 196
 
 ordina:
 
-[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^ingress-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 1
 
@@ -37,7 +37,7 @@ ordina:
 
 <sup>3</sup> La descrizione degli oggetti, pubblicata separatamente, è parte integrante della presente ordinanza.[^1-1]
 
-[^1-1]: Introdotto dal n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^1-1]: Introdotto dalla cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
 
 #### Art. 2
 
@@ -45,7 +45,7 @@ ordina:
 
 Gli oggetti fissi sono costituiti dagli specchi d’acqua idonei alla riproduzione e dalle superfici confinanti naturali e prossime allo stato naturale (settore A), nonché dagli spazi vitali per l’attività terrestre e dai corridoi di transito degli anfibi (settore B). Se necessario, nella descrizione degli oggetti va tenuto conto dei settori A e B.[^2-1]
 
-[^2-1]: Nuovo testo del per. giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^2-1]: Nuovo testo del per. giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
 
 #### Art. 3
 
@@ -71,8 +71,8 @@ Qualora lo spostamento degli specchi d’acqua idonei alla riproduzione non foss
 
 <sup>2</sup> L’Inventario dei siti di riproduzione degli anfibi può essere consultato gratuitamente presso l’Ufficio federale dell’ambiente (UFAM) e presso i servizi cantonali competenti.
 
-[^4-1]: Nuovo testo del per. giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
-[^4-2]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^4-1]: Nuovo testo del per. giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^4-2]: [RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 [^4-3]: www.bafu.admin.ch &gt; Temi &gt; Biodiversità &gt; Informazioni per gli specialisti &gt; Misure &gt; Infrastruttura ecologica &gt; Biotopi d’importanza nazionale &gt; Siti di riproduzione degli anfibi
 
 #### Art. 5
@@ -101,7 +101,7 @@ Tra gli scopi della protezione figurano in particolare la conservazione e la pro
 
 <sup>3</sup> Se la conservazione e la promozione di popolazioni di anfibi di specie diverse si escludono a vicenda, valgono le priorità secondo le indicazioni della descrizione degli oggetti.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
 
 #### Art. 7
 
@@ -121,8 +121,8 @@ Tra gli scopi della protezione figurano in particolare la conservazione e la pro
 
 <sup>3</sup> È possibile derogare allo scopo della protezione degli oggetti mobili se ciò è stabilito negli accordi o in una disposizione giusta l’articolo 5 capoverso 2.
 
-[^7-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^7-2]: [RS 814.680](https://fedlex.data.admin.ch/eli/cc/1998/2261_2261_2261)
+[^7-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^7-2]: [RS 814.680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9581)
 
 #### Art. 8
 
@@ -132,7 +132,7 @@ Tra gli scopi della protezione figurano in particolare la conservazione e la pro
 
 <sup>2</sup> I Cantoni provvedono segnatamente affinché i piani e le prescrizioni che regolano l’utilizzazione del suolo consentita ai sensi della legge del 22 giugno 1979[^8-1] sulla pianificazione del territorio corrispondano a tale ordinanza.
 
-[^8-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^8-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 9
 
@@ -166,7 +166,7 @@ I Cantoni vigilano affinché i danni precedentemente arrecati all’oggetto sian
 
 Fintanto che non avranno adottato le misure necessarie giusta l’articolo 5 capoversi 1 e 2 e l’articolo 8, i Cantoni devono presentare all’UFAM[^13-1], alla fine di ogni biennio, un rapporto sullo stato della protezione dei siti di riproduzione degli anfibi.
 
-[^13-1]: Nuova espr. giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^13-1]: Nuova espr. giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 14
 
@@ -178,9 +178,9 @@ Fintanto che non avranno adottato le misure necessarie giusta l’articolo 5 cap
 
 <sup>3</sup> <sup>3</sup> Se oggetti di cui alla presente ordinanza comprendono superfici che danno diritto a pagamenti diretti secondo gli articoli 55–62 dell’ordinanza del 23 ottobre 2013[^14-3] sui pagamenti diretti, per tali superfici non sono versate indennità per la protezione e la manutenzione secondo gli articoli 18 e 19 OPN ma contributi secondo l’ordinanza sui pagamenti diretti.[^14-4]
 
-[^14-1]: [RS 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)
+[^14-1]: [RS 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167)
 [^14-2]: Nuovo testo giusta l’art. 18 n. 2 dell’O del 13 gen. 2010 sui prati secchi, in vigore dal 1° feb. 2010 ([RU 2010 283](https://fedlex.data.admin.ch/eli/oc/2010/38)).
-[^14-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^14-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^14-4]: Introdotto dall’art. 18 n. 2 dell’O del 13 gen. 2010 sui prati secchi ([RU 2010 283](https://fedlex.data.admin.ch/eli/oc/2010/38)). Nuovo testo giusta il n. 5 dell’all. 9 all’O del 23 ott. 2013 sui pagamenti diretti, in vigore dal 1° gen. 2014 ([RU 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 15
@@ -197,8 +197,8 @@ L’UFAM, dopo aver sentito le cerchie interessate, rilascia raccomandazioni in 
 
 <sup>2</sup> Tali oggetti sono descritti nella documentazione relativa alla procedura di consultazione del 21 giugno 1994[^16-3]. Detta documentazione può essere consultata presso i servizi indicati all’articolo 4 capoverso 2.
 
-[^16-1]: [RS 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)
-[^16-2]: Nuovo testo giusta il n. I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^16-1]: [RS 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167)
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
 [^16-3]: Non pubblicata nella RU.
 
 #### Art. 17
@@ -213,44 +213,40 @@ Allegato 1[^t-1]
 
 ## Elenco dei siti di riproduzione di anfibi di importanza nazionale – oggetti fissi
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 29 set. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)). Aggionato dalla cifra I n. 3 dell’O del 29 ott. 2025 sui biotopi d’importanza nazionale, in vigore dal 1° dic. 2025 ([RU 2025 735](https://fedlex.data.admin.ch/eli/oc/2025/735)) e la correzione del 1° dic. 2025 ([RU 2025 772](https://fedlex.data.admin.ch/eli/oc/2025/772)).
 
 <table>
-<tr><th>N.</th><th>Località</th><th>Comune(i)[^annex1-lvlu1-1]</th><th>Iscrizione</th><th>Revisioni</th></tr>
-<tr><td></td><td>Cantone di Zurigo</td><td></td><td></td><td></td></tr>
-<tr><td>ZH1</td><td>Eselacherried</td><td>Adlikon, Andelfingen</td><td>2001</td><td></td></tr>
-<tr><td>ZH2</td><td>Ried beim Scheibenstand</td><td>Adlikon</td><td>2001</td><td></td></tr>
-<tr><td>ZH11</td><td>Mülliweiher, Weiher am Rossweg</td><td>Adliswil</td><td>2001</td><td></td></tr>
-<tr><td>ZH16</td><td>Türlersee NW-Ufer</td><td>Aeugst am Albis</td><td>2001</td><td></td></tr>
-<tr><td>ZH33</td><td>Kiesgrube Büelhüsli</td><td>Altikon</td><td>2007</td><td></td></tr>
-<tr><td>ZH34</td><td>Hätteliweiher Oberholz</td><td>Andelfingen</td><td>2001</td><td></td></tr>
-<tr><td>ZH38</td><td>Erlenhofweiher</td><td>Andelfingen</td><td>2001</td><td></td></tr>
-<tr><td>ZH47</td><td>Bachenbülacher Allmend/Waffenplatz</td><td>Bachenbülach, Kloten, Oberglatt, Winkel</td><td>2017</td><td></td></tr>
-<tr><td>ZH53</td><td>Mülichrammweiher</td><td>Bäretswil</td><td>2001</td><td></td></tr>
-<tr><td>ZH71</td><td>Feuerweiher am Homberg</td><td>Bassersdorf</td><td>2001</td><td></td></tr>
-<tr><td>ZH72</td><td>Kiesgrube SW Runsberg</td><td>Bassersdorf, Dietlikon</td><td>2001</td><td>2017</td></tr>
-<tr><td>ZH76</td><td>Gruben Hard und Gubel</td><td>Bassersdorf, Dietlikon</td><td>2001</td><td></td></tr>
-<tr><td>ZH101</td><td>Kiesgrube Egghau</td><td>Birmensdorf</td><td>2001</td><td></td></tr>
-<tr><td>ZH110</td><td>Weiher und Grube bei Ribacher</td><td>Bonstetten</td><td>2001</td><td></td></tr>
-<tr><td>ZH144</td><td>Waldweiher im Oberholz/ Iffertsmoos</td><td>Dägerlen</td><td>2001</td><td></td></tr>
-<tr><td>ZH148</td><td>Gurisee</td><td>Dägerlen, Dinhard</td><td>2001</td><td></td></tr>
-<tr><td>ZH162</td><td>Längerenweiher</td><td>Dinhard</td><td>2001</td><td></td></tr>
-<tr><td>ZH201</td><td>Kiesgrube Garwid</td><td>Dürnten</td><td>2001</td><td></td></tr>
-<tr><td>ZH264</td><td>Hungerseeli</td><td>Fehraltorf</td><td>2001</td><td></td></tr>
-<tr><td>ZH284</td><td>Altwässer Thurspitz</td><td>Flaach</td><td>2001</td><td></td></tr>
-<tr><td>ZH289</td><td>Kiesgrube Buchbrunnen</td><td>Flaach</td><td>2007</td><td></td></tr>
-<tr><td>ZH294</td><td>Präuselen</td><td>Flaach</td><td>2001</td><td></td></tr>
-<tr><td>ZH295</td><td>Kiesgruben Ebnet</td><td>Flaach</td><td>2001</td><td></td></tr>
-<tr><td>ZH310</td><td>Seewadel</td><td>Gossau</td><td>2001</td><td></td></tr>
-<tr><td>ZH322</td><td>Isert Weiher</td><td>Gossau</td><td>2001</td><td></td></tr>
-<tr><td>ZH342</td><td>Kiesgrube Eggholz</td><td>Hagenbuch</td><td>2017</td><td></td></tr>
-<tr><td>ZH352</td><td>Kiesgrube Ebertswil</td><td>Hausen am Albis</td><td>2001</td><td></td></tr>
-<tr><td>ZH358</td><td>Weiher Fromoos (Gerhauweiher)</td><td>Hedingen</td><td>2001</td><td></td></tr>
-<tr><td>ZH367</td><td>Mittelfeld-Kiesgrube</td><td>Hettlingen</td><td>2007</td><td></td></tr>
-</table>
-
-<table>
-<tr><th>N.</th><th>Località</th><th colspan="4">Comune(i)</th><th>Iscrizione</th><th>Revisioni</th></tr>
+<tr><th>N.</th><th>Località</th><th colspan="4">Comune(i)[^annex1-lvlu1-1]</th><th>Iscrizione</th><th>Revisioni</th></tr>
+<tr><td></td><td>Cantone di Zurigo</td><td colspan="4"></td><td></td><td></td></tr>
+<tr><td>ZH1</td><td>Eselacherried</td><td colspan="4">Adlikon, Andelfingen</td><td>2001</td><td></td></tr>
+<tr><td>ZH2</td><td>Ried beim Scheibenstand</td><td colspan="4">Adlikon</td><td>2001</td><td></td></tr>
+<tr><td>ZH11</td><td>Mülliweiher, Weiher am Rossweg</td><td colspan="4">Adliswil</td><td>2001</td><td></td></tr>
+<tr><td>ZH16</td><td>Türlersee NW-Ufer</td><td colspan="4">Aeugst am Albis</td><td>2001</td><td></td></tr>
+<tr><td>ZH33</td><td>Kiesgrube Büelhüsli</td><td colspan="4">Altikon</td><td>2007</td><td></td></tr>
+<tr><td>ZH34</td><td>Hätteliweiher Oberholz</td><td colspan="4">Andelfingen</td><td>2001</td><td></td></tr>
+<tr><td>ZH38</td><td>Erlenhofweiher</td><td colspan="4">Andelfingen</td><td>2001</td><td></td></tr>
+<tr><td>ZH47</td><td>Bachenbülacher Allmend/Waffenplatz</td><td colspan="4">Bachenbülach, Kloten, Oberglatt, Winkel</td><td>2017</td><td></td></tr>
+<tr><td>ZH53</td><td>Mülichrammweiher</td><td colspan="4">Bäretswil</td><td>2001</td><td></td></tr>
+<tr><td>ZH71</td><td>Feuerweiher am Homberg</td><td colspan="4">Bassersdorf</td><td>2001</td><td></td></tr>
+<tr><td>ZH72</td><td>Kiesgrube SW Runsberg</td><td colspan="4">Bassersdorf, Dietlikon</td><td>2001</td><td>2017</td></tr>
+<tr><td>ZH76</td><td>Gruben Hard und Gubel</td><td colspan="4">Bassersdorf, Dietlikon</td><td>2001</td><td></td></tr>
+<tr><td>ZH101</td><td>Kiesgrube Egghau</td><td colspan="4">Birmensdorf</td><td>2001</td><td></td></tr>
+<tr><td>ZH110</td><td>Weiher und Grube bei Ribacher</td><td colspan="4">Bonstetten</td><td>2001</td><td></td></tr>
+<tr><td>ZH144</td><td>Waldweiher im Oberholz/ Iffertsmoos</td><td colspan="4">Dägerlen</td><td>2001</td><td></td></tr>
+<tr><td>ZH148</td><td>Gurisee</td><td colspan="4">Dägerlen, Dinhard</td><td>2001</td><td></td></tr>
+<tr><td>ZH162</td><td>Längerenweiher</td><td colspan="4">Dinhard</td><td>2001</td><td></td></tr>
+<tr><td>ZH201</td><td>Kiesgrube Garwid</td><td colspan="4">Dürnten</td><td>2001</td><td></td></tr>
+<tr><td>ZH264</td><td>Hungerseeli</td><td colspan="4">Fehraltorf</td><td>2001</td><td></td></tr>
+<tr><td>ZH284</td><td>Altwässer Thurspitz</td><td colspan="4">Flaach</td><td>2001</td><td></td></tr>
+<tr><td>ZH289</td><td>Kiesgrube Buchbrunnen</td><td colspan="4">Flaach</td><td>2007</td><td></td></tr>
+<tr><td>ZH294</td><td>Präuselen</td><td colspan="4">Flaach</td><td>2001</td><td></td></tr>
+<tr><td>ZH295</td><td>Kiesgruben Ebnet</td><td colspan="4">Flaach</td><td>2001</td><td></td></tr>
+<tr><td>ZH310</td><td>Seewadel</td><td colspan="4">Gossau</td><td>2001</td><td></td></tr>
+<tr><td>ZH322</td><td>Isert Weiher</td><td colspan="4">Gossau</td><td>2001</td><td></td></tr>
+<tr><td>ZH342</td><td>Kiesgrube Eggholz</td><td colspan="4">Hagenbuch</td><td>2017</td><td></td></tr>
+<tr><td>ZH352</td><td>Kiesgrube Ebertswil</td><td colspan="4">Hausen am Albis</td><td>2001</td><td></td></tr>
+<tr><td>ZH358</td><td>Weiher Fromoos (Gerhauweiher)</td><td colspan="4">Hedingen</td><td>2001</td><td></td></tr>
+<tr><td>ZH367</td><td>Mittelfeld-Kiesgrube</td><td colspan="4">Hettlingen</td><td>2007</td><td></td></tr>
 <tr><td>ZH403</td><td>Kiesgrube Hasel</td><td colspan="4">Hittnau</td><td>2001</td><td></td></tr>
 <tr><td>ZH444</td><td>Örmis</td><td colspan="4">Illnau-Effretikon</td><td>2001</td><td></td></tr>
 <tr><td>ZH450</td><td>Ried Schlimberg/Vogelholz</td><td colspan="4">Illnau-Effretikon, Lindau</td><td>2001</td><td></td></tr>
@@ -318,6 +314,7 @@ Allegato 1[^t-1]
 <tr><td>TG276</td><td>Bichelsee</td><td colspan="4">Turbenthal[^annex1-lvlu1-4]</td><td>2007</td><td></td></tr>
 <tr><td>ZG46</td><td>Steinhauser Weiher</td><td colspan="4">Kappel am Albis, Knonau[^annex1-lvlu1-5]</td><td>2001</td><td></td></tr>
 <tr><td></td><td>Cantone di Berna</td><td colspan="4"></td><td></td><td></td></tr>
+<tr><td>BE4</td><td>Mülau – Radelfingenau</td><td colspan="4">Aarberg, Radelfingen</td><td>2025</td><td></td></tr>
 <tr><td>BE10</td><td>Büeltigen-Weiher</td><td colspan="4">Bargen, Kallnach</td><td>2001</td><td></td></tr>
 <tr><td>BE16</td><td>Tannholz-Chatzestiel-Sibirie</td><td colspan="4">Kappelen, Lyss</td><td>2001</td><td>2017</td></tr>
 <tr><td>BE20</td><td>Grube Hardern</td><td colspan="4">Lyss</td><td>2003</td><td></td></tr>
@@ -343,7 +340,7 @@ Allegato 1[^t-1]
 <tr><td>BE174</td><td>Tümpel bei Alter Aare Meienried</td><td colspan="4">Dotzigen, Meienried</td><td>2003</td><td></td></tr>
 <tr><td>BE181</td><td>Wengimoos</td><td colspan="4">Wengi</td><td>2001</td><td></td></tr>
 <tr><td>BE183</td><td>Bermoos</td><td colspan="4">Bäriswil, Mattstetten, Urtenen-Schönbühl</td><td>2001</td><td></td></tr>
-<tr><td>BE184</td><td>Ziegelei Fischermätteli</td><td colspan="4">Burgdorf</td><td>2001</td><td>2017</td></tr>
+<tr><td>BE184</td><td>Ziegelei Fischermätteli</td><td colspan="4">Burgdorf</td><td>2017</td><td></td></tr>
 <tr><td>BE189</td><td>Oberburger Schachen</td><td colspan="4">Burgdorf, Heimiswil</td><td>2017</td><td></td></tr>
 <tr><td>BE199</td><td>Bärmatten</td><td colspan="4">Hindelbank</td><td>2007</td><td></td></tr>
 <tr><td>BE206</td><td>Ziegeleigrube Oberburg</td><td colspan="4">Oberburg</td><td>2001</td><td>2017</td></tr>
@@ -354,6 +351,7 @@ Allegato 1[^t-1]
 <tr><td>BE262</td><td>Etang de Sagne</td><td colspan="4">Sauge</td><td>2001</td><td></td></tr>
 <tr><td>BE269</td><td>Lätti Gals</td><td colspan="4">Gals</td><td>2001</td><td></td></tr>
 <tr><td>BE274</td><td>Fanel</td><td colspan="4">Gampelen, Ins</td><td>2001</td><td>2017</td></tr>
+<tr><td>BE275</td><td>Ziegelmoos – Islerendüne</td><td colspan="4">Gampelen, Ins</td><td>2025</td><td></td></tr>
 <tr><td>BE281</td><td>Leuschelzmoos</td><td colspan="4">Ins</td><td>2001</td><td></td></tr>
 <tr><td>BE283</td><td>Inser-Weiher</td><td colspan="4">Ins</td><td>2001</td><td></td></tr>
 <tr><td>BE323</td><td>Hahnenmoosbergli</td><td colspan="4">Adelboden, Lenk</td><td></td><td></td></tr>
@@ -415,12 +413,14 @@ Allegato 1[^t-1]
 <tr><td>BE1127</td><td>Muttli</td><td colspan="4">Müntschemier</td><td>2001</td><td></td></tr>
 <tr><td>BE1135</td><td>Cornez de la Mairie</td><td colspan="4">Sorvilier</td><td>2001</td><td></td></tr>
 <tr><td>BE1136</td><td>Vieille Birse</td><td colspan="4">Court, Sorvilier</td><td>2001</td><td></td></tr>
+<tr><td>BE1138</td><td>Gravière + STEP</td><td colspan="4">Loveresse</td><td>2025</td><td></td></tr>
 <tr><td>BE1139</td><td>Biaufond</td><td colspan="4">La Ferrière[^annex1-lvlu1-8]</td><td>2001</td><td></td></tr>
 <tr><td>BE1189</td><td>Weihermatt</td><td colspan="4">Ostermundigen</td><td>2017</td><td></td></tr>
 <tr><td>BE1206</td><td>Chrümpelhütte</td><td colspan="4">Trubschachen</td><td>2017</td><td></td></tr>
 <tr><td>BE1237</td><td>Chnuchelhusgrube</td><td colspan="4">Diessbach bei Büren, Grossaffoltern</td><td>2017</td><td></td></tr>
 <tr><td>BE1239</td><td>Hirschigraben</td><td colspan="4">Oberlangenegg, Unterlangenegg</td><td>2017</td><td></td></tr>
 <tr><td>BE1522</td><td>Stängelacher</td><td colspan="4">Bargen</td><td>2017</td><td></td></tr>
+<tr><td>BE1938</td><td>Fraubrunnenmoos</td><td colspan="4">Fraubrunnen</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Cantone di Lucerna</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>LU3</td><td>Staldenmoos</td><td colspan="4">Alberswil, Willisau</td><td>2001</td><td>2017</td></tr>
 <tr><td>LU5</td><td>Schlossweiher Altishofen</td><td colspan="4">Altishofen</td><td>2001</td><td></td></tr>
@@ -466,21 +466,23 @@ Allegato 1[^t-1]
 <tr><td>LU486</td><td>Grueb Grossfeld</td><td colspan="4">Triengen</td><td>2001</td><td></td></tr>
 <tr><td>LU491</td><td>Wagenmoos</td><td colspan="4">Udligenswil</td><td>2001</td><td></td></tr>
 <tr><td>LU512</td><td>Ostergau</td><td colspan="4">Grosswangen, Willisau</td><td>2001</td><td>2017</td></tr>
-<tr><td>LU519</td><td>Grube Stoos Hüswil</td><td colspan="4">Ufhusen, Zell</td><td>2001</td><td></td></tr>
+<tr><td>LU519</td><td>Grube Stoos Hüswil</td><td colspan="4">Ufhusen, Zell</td><td>2001</td><td>2025</td></tr>
 <tr><td>LU523</td><td>Forenmoos</td><td colspan="4">Adligenswil, Meggen</td><td>2001</td><td></td></tr>
 <tr><td>LU524</td><td>Moosweiher</td><td colspan="4">Adligenswil, Udligenswil</td><td>2001</td><td></td></tr>
 <tr><td>LU532</td><td>Chänzeli/Schachen</td><td colspan="4">Buchrain, Emmen</td><td>2001</td><td>2017</td></tr>
 <tr><td>LU582</td><td>Grisigen</td><td colspan="4">Horw</td><td>2017</td><td></td></tr>
 <tr><td>LU606</td><td>Wannenholz</td><td colspan="4">Inwil</td><td>2001</td><td></td></tr>
-<tr><td>LU669</td><td>Lättloch</td><td colspan="4">Gettnau</td><td>2001</td><td></td></tr>
+<tr><td>LU669</td><td>Lättloch</td><td colspan="4">Willisau</td><td>2001</td><td>2025</td></tr>
 <tr><td>LU746</td><td>Zihlmatt Allmend</td><td colspan="4">Horw, Luzern</td><td>2017</td><td></td></tr>
+<tr><td>LU765</td><td>Sagerhüsli</td><td colspan="4">Dagmersellen</td><td>2025</td><td></td></tr>
 <tr><td>LU983</td><td>Buttenberg</td><td colspan="4">Rickenbach</td><td>2017</td><td></td></tr>
+<tr><td>LU1107</td><td>Venedig</td><td colspan="4">Sursee</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Cantone di Uri</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>UR59</td><td>Bi den Seelenen</td><td colspan="4">Isenthal</td><td>2001</td><td></td></tr>
 <tr><td>UR76</td><td>Schlossried</td><td colspan="4">Seedorf</td><td>2001</td><td></td></tr>
 <tr><td>UR77</td><td>Reussdelta</td><td colspan="4">Altdorf, Flüelen, Seedorf</td><td>2001</td><td></td></tr>
 <tr><td>UR104</td><td>Alpler See</td><td colspan="4">Sisikon</td><td>2001</td><td></td></tr>
-<tr><td>UR106</td><td>Bodenwald</td><td colspan="4">Attinghausen</td><td>2017</td><td></td></tr>
+<tr><td>UR106</td><td>Bodenwald</td><td colspan="4">Attinghausen</td><td>2017</td><td>2025</td></tr>
 <tr><td></td><td>Cantone di Svitto</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>SZ2</td><td>Breitried/Schützenried</td><td colspan="4">Einsiedeln, Unteriberg</td><td>2001</td><td></td></tr>
 <tr><td>SZ3</td><td>Oberer Sihlsee Euthal</td><td colspan="4">Einsiedeln</td><td>2001</td><td></td></tr>
@@ -488,13 +490,13 @@ Allegato 1[^t-1]
 <tr><td>SZ5</td><td>Sihlsee Steinbach (Lukasrank)</td><td colspan="4">Einsiedeln</td><td>2001</td><td></td></tr>
 <tr><td>SZ7</td><td>Klosterweiher</td><td colspan="4">Einsiedeln</td><td>2001</td><td></td></tr>
 <tr><td>SZ10</td><td>Trachslauerweiher</td><td colspan="4">Einsiedeln</td><td>2001</td><td></td></tr>
-<tr><td>SZ30</td><td>Schindellegi</td><td colspan="4">Feusisberg</td><td>2001</td><td>2017</td></tr>
+<tr><td>SZ30</td><td>Schindellegi</td><td colspan="4">Feusisberg</td><td>2017</td><td></td></tr>
 <tr><td>SZ34</td><td>Dreiwässern</td><td colspan="4">Feusisberg</td><td>2001</td><td></td></tr>
 <tr><td>SZ60</td><td>Reumeren</td><td colspan="4">Reichenburg</td><td>2001</td><td></td></tr>
 <tr><td>SZ68</td><td>Sägel, Schutt, Lauerzersee</td><td colspan="4">Arth, Lauerz, Steinen</td><td>2001</td><td></td></tr>
 <tr><td>SZ72</td><td>Grosswijer</td><td colspan="4">Arth</td><td>2017</td><td></td></tr>
 <tr><td>SZ77</td><td>Klosterried Ingenbohl</td><td colspan="4">Ingenbohl</td><td>2001</td><td></td></tr>
-<tr><td>SZ131</td><td>Hinter Ibach</td><td colspan="4">Schwyz</td><td>2001</td><td>2017</td></tr>
+<tr><td>SZ131</td><td>Hinter Ibach</td><td colspan="4">Schwyz</td><td>2017</td><td></td></tr>
 <tr><td>SZ138</td><td>Aazopf</td><td colspan="4">Lauerz, Steinen</td><td>2001</td><td></td></tr>
 <tr><td>SZ152</td><td>Bätzimatt</td><td colspan="4">Tuggen</td><td>2001</td><td></td></tr>
 <tr><td>SZ171</td><td>Pfaffenhaut</td><td colspan="4">Küssnacht</td><td>2017</td><td></td></tr>
@@ -507,7 +509,7 @@ Allegato 1[^t-1]
 <tr><td>OW47</td><td>Jänzimatt</td><td colspan="4">Giswil</td><td>2007</td><td></td></tr>
 <tr><td>OW63</td><td>Usser Allmend</td><td colspan="4">Giswil, Sarnen</td><td>2007</td><td></td></tr>
 <tr><td>OW78</td><td>Gerzensee, Blindseeli</td><td colspan="4">Kerns</td><td>2001</td><td></td></tr>
-<tr><td>OW109</td><td>Lungerer See Nordende</td><td colspan="4">Lungern</td><td>2001</td><td>2017</td></tr>
+<tr><td>OW109</td><td>Lungerer See Nordende</td><td colspan="4">Lungern</td><td>2017</td><td></td></tr>
 <tr><td>OW123</td><td>Hanenriet</td><td colspan="4">Sachseln</td><td>2001</td><td></td></tr>
 <tr><td>OW127</td><td>Sachsler Seefeld</td><td colspan="4">Sachseln</td><td>2001</td><td></td></tr>
 <tr><td>OW167</td><td>Sewenseeli</td><td colspan="4">Sarnen</td><td>2001</td><td></td></tr>
@@ -517,7 +519,7 @@ Allegato 1[^t-1]
 <tr><td></td><td>Cantone di Nidvaldo</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>NW59</td><td>Gnappiried</td><td colspan="4">Stans</td><td>2001</td><td></td></tr>
 <tr><td>NW61</td><td>Vierwaldstättersee Hüttenort</td><td colspan="4">Stansstad</td><td>2001</td><td></td></tr>
-<tr><td>NW62</td><td>Stansstader Ried/Rotzloch</td><td colspan="4">Ennetmoos, Stansstad</td><td>2001</td><td></td></tr>
+<tr><td>NW62</td><td>Stansstader Ried/ Rotzloch</td><td colspan="4">Ennetmoos, Stansstad</td><td>2001</td><td>2025</td></tr>
 <tr><td>NW69</td><td>Chrotteseeli Obbürgen</td><td colspan="4">Stansstad</td><td>2001</td><td></td></tr>
 <tr><td></td><td>Cantone di Glarona</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>GL2</td><td>Niederriet</td><td colspan="4">Glarus Nord</td><td>2001</td><td></td></tr>
@@ -532,15 +534,17 @@ Allegato 1[^t-1]
 <tr><td>ZG43</td><td>Binzmüli</td><td colspan="4">Risch</td><td>2001</td><td></td></tr>
 <tr><td>ZG46</td><td>Steinhauser Weiher</td><td colspan="4">Baar, Steinhausen[^annex1-lvlu1-9]</td><td>2001</td><td></td></tr>
 <tr><td></td><td>Cantone di Friburgo</td><td colspan="4"></td><td></td><td></td></tr>
-<tr><td>FR5</td><td>Les Grèves, Gletterens-Portalban</td><td colspan="4">Delley-Portalban, Gletterens</td><td>2001</td><td></td></tr>
-<tr><td>FR10</td><td>La Russille, Vers les Gours</td><td colspan="4">Montagny, Prez-vers-Noréaz</td><td>2001</td><td>2017</td></tr>
+<tr><td>FR5</td><td>Les Grèves, Gletterens-Portalban</td><td colspan="4">Delley-Portalban, Gletterens</td><td>2001</td><td>2025</td></tr>
+<tr><td>FR10</td><td>La Russille, Vers les Gours</td><td colspan="4">Montagny, Prez-vers-Noréaz</td><td>2017</td><td></td></tr>
 <tr><td>FR35</td><td>Poutes Paluds</td><td colspan="4">Val-de-Charmey</td><td>2001</td><td></td></tr>
 <tr><td>FR43</td><td>Le Liti</td><td colspan="4">Bas-Intyamon</td><td>2001</td><td></td></tr>
 <tr><td>FR52</td><td>Gros Chadoua</td><td colspan="4">Grandvillard</td><td>2001</td><td></td></tr>
 <tr><td>FR53</td><td>Le Mongeron</td><td colspan="4">Gruyères</td><td>2001</td><td></td></tr>
 <tr><td>FR59</td><td>Le Lity</td><td colspan="4">Haut-Intyamon</td><td>2001</td><td></td></tr>
+<tr><td>FR69</td><td>Les Auges</td><td colspan="4">Bas-Intyamon</td><td>2001</td><td>2017/25</td></tr>
 <tr><td>FR88</td><td>Le Taconnet</td><td colspan="4">Ependes, Ferpicloz, Le Mouret</td><td>2001</td><td>2017</td></tr>
 <tr><td>FR89</td><td>Le Mouret</td><td colspan="4">Ferpicloz, Le Mouret</td><td>2001</td><td></td></tr>
+<tr><td>FR96</td><td>Contramont</td><td colspan="4">Gibloux</td><td>2025</td><td></td></tr>
 <tr><td>FR99</td><td>La Tuilerie</td><td colspan="4">Autigny, Cottens, La Brillaz</td><td>2001</td><td></td></tr>
 <tr><td>FR100</td><td>Les Nex</td><td colspan="4">La Brillaz</td><td>2001</td><td></td></tr>
 <tr><td>FR102</td><td>Les Dailles</td><td colspan="4">Gibloux</td><td>2001</td><td></td></tr>
@@ -552,20 +556,21 @@ Allegato 1[^t-1]
 <tr><td>FR147</td><td>Düdingermoos</td><td colspan="4">Düdingen</td><td>2001</td><td>2017</td></tr>
 <tr><td>FR161</td><td>Rohrmoos</td><td colspan="4">Plaffeien</td><td>2001</td><td></td></tr>
 <tr><td>FR166</td><td>Nümatt</td><td colspan="4">Plasselb</td><td>2001</td><td></td></tr>
-<tr><td>FR170</td><td>Entenmoos</td><td colspan="4">Rechthalten</td><td>2001</td><td></td></tr>
-<tr><td>FR200</td><td>Rathvel</td><td colspan="4">Châtel-Saint-Denis</td><td>2001</td><td>2017</td></tr>
-<tr><td>FR201</td><td>Lac des Joncs</td><td colspan="4">Châtel-Saint-Denis</td><td>2001</td><td></td></tr>
-<tr><td>FR210</td><td>La Grève, La Grande Gouille</td><td colspan="4">Estavayer</td><td>2001</td><td></td></tr>
-<tr><td>FR211</td><td>La Grève, Autavaux, Forel</td><td colspan="4">Estavayer</td><td>2001</td><td></td></tr>
-<tr><td>FR214</td><td>Les Grèves, Cheyres sud</td><td colspan="4">Cheyres-Châbles</td><td>2001</td><td></td></tr>
-<tr><td>FR215</td><td>Les Grèves, Cheyres-Font</td><td colspan="4">Cheyres-Châbles, Estavayer</td><td>2001</td><td></td></tr>
+<tr><td>FR170</td><td>Entenmoos</td><td colspan="4">Rechthalten</td><td>2001</td><td>2025</td></tr>
+<tr><td>FR200</td><td>Rathvel</td><td colspan="4">Châtel-Saint-Denis</td><td>2017</td><td></td></tr>
+<tr><td>FR201</td><td>Lac des Joncs</td><td colspan="4">Châtel-Saint-Denis</td><td>2001</td><td>2025</td></tr>
+<tr><td>FR210</td><td>La Grève, La Grande Gouille</td><td colspan="4">Estavayer</td><td>2001</td><td>2025</td></tr>
+<tr><td>FR211</td><td>La Grève, Autavaux, Forel</td><td colspan="4">Estavayer</td><td>2001</td><td>2025</td></tr>
+<tr><td>FR214</td><td>Les Grèves, Cheyres sud</td><td colspan="4">Cheyres-Châbles</td><td>2001</td><td>2025</td></tr>
+<tr><td>FR215</td><td>Les Grèves, Cheyres-Font</td><td colspan="4">Cheyres-Châbles, Estavayer</td><td>2001</td><td>2025</td></tr>
 <tr><td>FR216</td><td>Ancienne carrière Les Saus</td><td colspan="4">Cheyres-Châbles</td><td>2003</td><td></td></tr>
-<tr><td>FR217</td><td>Pra-les-Bous</td><td colspan="4">Belmont-Broye, Montagny</td><td>2001</td><td>2017</td></tr>
+<tr><td>FR217</td><td>Pra-les-Bous</td><td colspan="4">Belmont-Broye, Montagny</td><td>2001</td><td>2017/25</td></tr>
 <tr><td>FR218</td><td>Overesses</td><td colspan="4">Courtepin</td><td>2001</td><td></td></tr>
 <tr><td>FR220</td><td>Petite Sarine</td><td colspan="4">Arconciel, Gibloux, Hauterive, Marly, Pont‑la‑Ville, Treyvaux</td><td>2001</td><td>2017</td></tr>
 <tr><td>FR224</td><td>Pré aux Boeufs</td><td colspan="4">Mont-Vully</td><td>2017</td><td></td></tr>
 <tr><td>FR276</td><td>Vuibroye</td><td colspan="4">Ecublens, Rue</td><td>2001</td><td></td></tr>
 <tr><td>FR411</td><td>Krümmi</td><td colspan="4">Ried bei Kerzers</td><td>2017</td><td></td></tr>
+<tr><td>FR430</td><td>La Léchire</td><td colspan="4">Marly</td><td>2017</td><td>2025</td></tr>
 <tr><td>FR503</td><td>Ärgera</td><td colspan="4">Giffers, Marly, Pierrafortscha, Plasselb, St. Silvester, Tentlingen, Villarsel-sur-Marly</td><td>2017</td><td></td></tr>
 <tr><td>FR541</td><td>Hinterem Horn</td><td colspan="4">Galmiz, Mont-Vully</td><td>2017</td><td></td></tr>
 <tr><td>BE100</td><td>Sense- und Schwarzwassergraben</td><td colspan="4">Alterswil, Heitenried, Plaffeien, St. Antoni, Ueberstorf[^annex1-lvlu1-10]</td><td>2017</td><td></td></tr>
@@ -583,11 +588,14 @@ Allegato 1[^t-1]
 <tr><td>SO117</td><td>Sumpfwiese Neuhüsli</td><td colspan="4">Beinwil</td><td>2017</td><td></td></tr>
 <tr><td>SO137</td><td>Höchweidli</td><td colspan="4">Hägendorf</td><td>2017</td><td></td></tr>
 <tr><td>SO143</td><td>Lobiseiweiher</td><td colspan="4">Balsthal, Mümliswil-Ramiswil</td><td>2017</td><td></td></tr>
+<tr><td>SO160</td><td>Olten Gheid</td><td colspan="4">Olten</td><td>2025</td><td></td></tr>
 <tr><td>SO177</td><td>Grenchner Witi</td><td colspan="4">Grenchen</td><td>2017</td><td></td></tr>
+<tr><td>SO216</td><td>Herrenmatt</td><td colspan="4">Selzach</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Cantone di Basilea Città</td><td colspan="4"></td><td></td><td></td></tr>
-<tr><td>BS4</td><td>Eisweiher und Wiesenmatten</td><td colspan="4">Riehen</td><td>2001</td><td></td></tr>
-<tr><td>BS10</td><td>Autal</td><td colspan="4">Riehen</td><td>2001</td><td></td></tr>
+<tr><td>BS4</td><td>Eisweiher und Wiesenmatten</td><td colspan="4">Riehen</td><td>2001</td><td>2025</td></tr>
+<tr><td>BS10</td><td>Autal</td><td colspan="4">Riehen</td><td>2001</td><td>2025</td></tr>
 <tr><td></td><td colspan="2">Cantone di Basilea Campagna</td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>BL3</td><td>Ziegelei Allschwil</td><td colspan="4">Allschwil</td><td>2025</td><td></td></tr>
 <tr><td>BL45</td><td>Ziegelei Oberwil</td><td colspan="4">Oberwil</td><td>2001</td><td>2007</td></tr>
 <tr><td>BL62</td><td>Buechloch</td><td colspan="4">Reinach, Therwil</td><td>2001</td><td></td></tr>
 <tr><td>BL64</td><td>Mooswasen</td><td colspan="4">Therwil</td><td>2001</td><td></td></tr>
@@ -601,24 +609,31 @@ Allegato 1[^t-1]
 <tr><td>BL620</td><td>Holi Gass</td><td colspan="4">Reinach, Therwil</td><td>2017</td><td></td></tr>
 <tr><td>BL623</td><td>Klingenthal-Lachmatt</td><td colspan="4">Muttenz, Pratteln</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone di Sciaffusa</td><td colspan="4"></td><td></td><td></td></tr>
+<tr><td>SH20</td><td>Rudolfensee</td><td colspan="4">Thayngen</td><td>2025</td><td></td></tr>
 <tr><td>SH21</td><td>Morgetshofsee</td><td colspan="4">Thayngen</td><td>2001</td><td></td></tr>
 <tr><td>SH31</td><td>Bohnerzgruben Färberwiesli</td><td colspan="4">Beringen</td><td>2001</td><td></td></tr>
-<tr><td>SH43</td><td>Eschheimer Weiher</td><td colspan="4">Beringen, Schaffhausen</td><td>2001</td><td></td></tr>
-<tr><td>SH69</td><td>Lehmlöcher Rüti</td><td colspan="4">Lohn</td><td>2001</td><td></td></tr>
-<tr><td>SH70</td><td>Lehmlöcher Dicki</td><td colspan="4">Büttenhardt, Lohn</td><td>2001</td><td></td></tr>
+<tr><td>SH43</td><td>Eschheimer Weiher</td><td colspan="4">Beringen, Schaffhausen</td><td>2001</td><td>2025</td></tr>
+<tr><td>SH69</td><td>Lehmlöcher Rüti</td><td colspan="4">Lohn</td><td>2001</td><td>2025</td></tr>
+<tr><td>SH70</td><td>Lehmlöcher Dicki</td><td colspan="4">Büttenhardt, Lohn</td><td>2001</td><td>2025</td></tr>
 <tr><td>SH401</td><td>Feuchtgebiet Widen</td><td colspan="4">Neunkirch</td><td>2001</td><td></td></tr>
+<tr><td>SH402</td><td>Bohnerzlöcher Winterihau</td><td colspan="4">Neunkirch</td><td>2025</td><td></td></tr>
 <tr><td>SH1501</td><td>Bachtelli/Seeli</td><td colspan="4">Dörflingen</td><td>2001</td><td></td></tr>
+<tr><td>SH1502</td><td>Zwing</td><td colspan="4">Dörflingen</td><td>2025</td><td></td></tr>
+<tr><td>SH1701</td><td>Zementi Wippel West</td><td colspan="4">Lohn</td><td>2025</td><td></td></tr>
 <tr><td>SH1901</td><td>Rohrenbüeli-Stritholz</td><td colspan="4">Schaffhausen, Stetten</td><td>2001</td><td></td></tr>
-<tr><td>SH3201</td><td>Bohnerzgruben Chäferhölzli</td><td colspan="4">Beringen</td><td>2001</td><td></td></tr>
+<tr><td>SH2006</td><td>Riedgebiet Schliffenhalde</td><td colspan="4">Thayngen</td><td>2025</td><td></td></tr>
+<tr><td>SH3201</td><td>Bohnerzgruben Chäferhölzli</td><td colspan="4">Beringen</td><td>2001</td><td>2025</td></tr>
 <tr><td>SH3902</td><td>Moos-Buck Herblingen</td><td colspan="4">Schaffhausen, Stetten</td><td>2001</td><td></td></tr>
 <tr><td>SH3933</td><td>Spitzwisen</td><td colspan="4">Schaffhausen</td><td>2017</td><td></td></tr>
 <tr><td>SH6203</td><td>Alte Biberschleife</td><td colspan="4">Hemishofen, Ramsen</td><td>2001</td><td></td></tr>
 <tr><td>SH6301</td><td>Ried/Lehmgrueb Hofenacker</td><td colspan="4">Ramsen</td><td>2001</td><td></td></tr>
 <tr><td>SH6401</td><td>Egelsee Degerfeld Wagenhausen</td><td colspan="4">Stein am Rhein</td><td>2001</td><td></td></tr>
 <tr><td>SH7101</td><td>Weiher Lochgraben</td><td colspan="4">Hallau</td><td>2001</td><td></td></tr>
+<tr><td>SH7103</td><td>Becken Rüti</td><td colspan="4">Hallau</td><td>2025</td><td></td></tr>
+<tr><td>SH7403</td><td>Bohnerzgruben Stockerhau</td><td colspan="4">Wilchingen</td><td>2025</td><td></td></tr>
 <tr><td></td><td colspan="4">Cantone di Appenzello Esterno</td><td></td><td></td><td></td></tr>
 <tr><td>AR1</td><td>Saumweiher</td><td colspan="4">Herisau</td><td>2017</td><td></td></tr>
-<tr><td>AR44</td><td>Grub AR/Dorfweiher</td><td colspan="4">Grub</td><td>2001</td><td>2017</td></tr>
+<tr><td>AR44</td><td>Grub AR/Dorfweiher</td><td colspan="4">Grub</td><td>2017</td><td></td></tr>
 <tr><td>AR118</td><td>Wissenbachschlucht</td><td colspan="4">Herisau[^annex1-lvlu1-12]</td><td>2001</td><td></td></tr>
 <tr><td></td><td colspan="3">Cantone di Appenzello Interno</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td colspan="4"></td><td></td><td></td></tr>
@@ -628,7 +643,7 @@ Allegato 1[^t-1]
 <tr><td>SG21</td><td>Ochsenweid</td><td colspan="4">Gaiserwald, St. Gallen</td><td>2001</td><td></td></tr>
 <tr><td>SG27</td><td>Ziegelei Bruggwald</td><td colspan="4">Wittenbach</td><td>2001</td><td></td></tr>
 <tr><td>SG30</td><td>Huebermoos</td><td colspan="4">Berg, Wittenbach</td><td>2001</td><td></td></tr>
-<tr><td>SG33</td><td>Kiesgrube Schuppis</td><td colspan="4">Goldach</td><td>2001</td><td>2017</td></tr>
+<tr><td>SG33</td><td>Kiesgrube Schuppis</td><td colspan="4">Goldach, Tübach</td><td>2001</td><td>2017/25</td></tr>
 <tr><td>SG42</td><td>Goldachtobel</td><td colspan="4">Goldach, Mörschwil, St. Gallen, Untereggen</td><td>2017</td><td></td></tr>
 <tr><td>SG59</td><td>Schlossweiher</td><td colspan="4">Untereggen</td><td>2001</td><td></td></tr>
 <tr><td>SG70</td><td>Höchstern</td><td colspan="4">Balgach, Widnau</td><td>2017</td><td></td></tr>
@@ -641,7 +656,7 @@ Allegato 1[^t-1]
 <tr><td>SG170</td><td>Alte Lehmgrube Hilpert</td><td colspan="4">Oberriet</td><td>2001</td><td></td></tr>
 <tr><td>SG177</td><td>Wichenstein</td><td colspan="4">Oberriet</td><td>2001</td><td></td></tr>
 <tr><td>SG179</td><td>Spitzmäder</td><td colspan="4">Altstätten, Oberriet</td><td>2001</td><td></td></tr>
-<tr><td>SG190</td><td>Au Büchel</td><td colspan="4">Rüthi</td><td>2001</td><td>2017</td></tr>
+<tr><td>SG190</td><td>Au Büchel</td><td colspan="4">Rüthi</td><td>2017</td><td></td></tr>
 <tr><td>SG201</td><td>Wiesenfurt</td><td colspan="4">Buchs, Sennwald</td><td>2001</td><td></td></tr>
 <tr><td>SG205</td><td>Retentionsbecken Ceres Rhein-Au</td><td colspan="4">Buchs</td><td>2001</td><td></td></tr>
 <tr><td>SG236</td><td>Burstried, Galgenmad</td><td colspan="4">Sennwald</td><td>2001</td><td></td></tr>
@@ -676,12 +691,12 @@ Allegato 1[^t-1]
 <tr><td>AR118</td><td>Wissenbachschlucht</td><td colspan="4">Flawil[^annex1-lvlu1-13]</td><td>2001</td><td></td></tr>
 <tr><td>TG40</td><td>Hudelmoos</td><td colspan="4">Muolen[^annex1-lvlu1-14]</td><td>2001</td><td></td></tr>
 <tr><td></td><td>Cantone dei Grigioni</td><td colspan="4"></td><td></td><td></td></tr>
-<tr><td>GR37</td><td>Flaz Golfweiher</td><td colspan="4">Celerina/Schlarigna, Samedan</td><td>2001</td><td>2017</td></tr>
+<tr><td>GR37</td><td>Flaz Golfweiher</td><td colspan="4">Celerina/Schlarigna, Samedan</td><td>2017</td><td></td></tr>
 <tr><td>GR43</td><td>Palüds-Agnas</td><td colspan="4">Bever</td><td>2001</td><td></td></tr>
 <tr><td>GR82</td><td>Cavloc</td><td colspan="4">Bregaglia</td><td>2001</td><td></td></tr>
 <tr><td>GR102</td><td>Lais da Pesch</td><td colspan="4">Scuol</td><td>2001</td><td></td></tr>
 <tr><td>GR106</td><td>Lai da Tarasp</td><td colspan="4">Scuol</td><td>2001</td><td></td></tr>
-<tr><td>GR111</td><td>Duigls</td><td colspan="4">Scuol</td><td>2001</td><td></td></tr>
+<tr><td>GR111</td><td>Duigls</td><td colspan="4">Scuol</td><td>2001</td><td>2025</td></tr>
 <tr><td>GR118</td><td>Plan da Chomps</td><td colspan="4">Valsot</td><td>2001</td><td></td></tr>
 <tr><td>GR120</td><td>Craistas</td><td colspan="4">Valsot</td><td>2001</td><td></td></tr>
 <tr><td>GR121</td><td>Ischlas da Strada</td><td colspan="4">Valsot</td><td></td><td></td></tr>
@@ -710,7 +725,7 @@ Allegato 1[^t-1]
 <tr><td>GR457</td><td>Pro Niev</td><td colspan="4">Domleschg</td><td>2001</td><td></td></tr>
 <tr><td>GR470</td><td>Sayser See</td><td colspan="4">Trimmis</td><td>2001</td><td></td></tr>
 <tr><td>GR567</td><td>Punt Planet</td><td colspan="4">Val Müstair</td><td>2001</td><td></td></tr>
-<tr><td>GR568</td><td>Flin</td><td colspan="4">S-chanf</td><td>2001</td><td></td></tr>
+<tr><td>GR568</td><td>Flin</td><td colspan="4">S-chanf</td><td>2001</td><td>2025</td></tr>
 <tr><td>GR569</td><td>Lag Miert</td><td colspan="4">Cazis, Rhäzüns</td><td>2001</td><td></td></tr>
 <tr><td>GR570</td><td>Tola</td><td colspan="4">Fläsch</td><td>2001</td><td>2017</td></tr>
 <tr><td>GR572</td><td>Fröschaboda Val Madris</td><td colspan="4">Bregaglia</td><td>2001</td><td></td></tr>
@@ -723,15 +738,15 @@ Allegato 1[^t-1]
 <tr><td>AG96</td><td>Moos</td><td colspan="4">Boniswil, Seengen</td><td>2001</td><td></td></tr>
 <tr><td>AG102</td><td>Feldenmoos</td><td colspan="4">Boswil, Kallern</td><td>2001</td><td></td></tr>
 <tr><td>AG104</td><td>Niedermoos</td><td colspan="4">Boswil</td><td>2001</td><td></td></tr>
-<tr><td>AG120</td><td>Fischergrien</td><td colspan="4">Böttstein</td><td>2001</td><td></td></tr>
+<tr><td>AG120</td><td>Fischergrien</td><td colspan="4">Böttstein</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG128</td><td>Eichholz-Hegnau</td><td colspan="4">Bremgarten, Fischbach-Göslikon</td><td>2001</td><td>2017</td></tr>
 <tr><td>AG129</td><td>Schwand</td><td colspan="4">Bremgarten</td><td>2001</td><td></td></tr>
-<tr><td>AG139</td><td>Haldengutweiher</td><td colspan="4">Brittnau</td><td>2001</td><td></td></tr>
+<tr><td>AG139</td><td>Haldengutweiher</td><td colspan="4">Brittnau</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG149</td><td>Auschachen</td><td colspan="4">Brugg, Windisch</td><td>2001</td><td></td></tr>
 <tr><td>AG159</td><td>Lostorf</td><td colspan="4">Buchs, Suhr</td><td>2001</td><td></td></tr>
 <tr><td>AG163</td><td>Burger Weiher</td><td colspan="4">Burg</td><td>2001</td><td></td></tr>
 <tr><td>AG176</td><td>Kiesgrube Egg</td><td colspan="4">Dürrenäsch</td><td>2001</td><td></td></tr>
-<tr><td>AG181</td><td>Mattenplätz</td><td colspan="4">Eiken</td><td>2001</td><td></td></tr>
+<tr><td>AG181</td><td>Mattenplätz</td><td colspan="4">Eiken</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG183</td><td>Weiher im Tal</td><td colspan="4">Eiken</td><td>2001</td><td></td></tr>
 <tr><td>AG201</td><td>Dickhölzli</td><td colspan="4">Bremgarten, Fischbach-Göslikon</td><td>2001</td><td></td></tr>
 <tr><td>AG202</td><td>Zelgli/Höll</td><td colspan="4">Fischbach-Göslikon, Niederwil</td><td>2001</td><td></td></tr>
@@ -741,8 +756,8 @@ Allegato 1[^t-1]
 <tr><td>AG233</td><td>Mättenfeld</td><td colspan="4">Gontenschwil, Oberkulm</td><td>2001</td><td></td></tr>
 <tr><td>AG254</td><td>Wolfshüsli</td><td colspan="4">Hägglingen, Wohlen</td><td>2001</td><td></td></tr>
 <tr><td>AG260</td><td>Binsenweiher</td><td colspan="4">Habsburg, Hausen</td><td>2001</td><td>2017</td></tr>
-<tr><td>AG268</td><td>Steinrüti</td><td colspan="4">Bremgarten, Rottenschwil</td><td>2001</td><td></td></tr>
-<tr><td>AG276</td><td>Kohlschwärzi</td><td colspan="4">Hirschthal, Muhen</td><td>2001</td><td></td></tr>
+<tr><td>AG268</td><td>Steinrüti</td><td colspan="4">Bremgarten, Rottenschwil</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG276</td><td>Kohlschwärzi</td><td colspan="4">Muhen</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG279</td><td>Schümel</td><td colspan="4">Holderbank</td><td>2001</td><td></td></tr>
 <tr><td>AG284</td><td>Graströchni Hard</td><td colspan="4">Holziken</td><td>2001</td><td></td></tr>
 <tr><td>AG294</td><td>Rüssmatten</td><td colspan="4">Jonen</td><td>2001</td><td></td></tr>
@@ -750,8 +765,8 @@ Allegato 1[^t-1]
 <tr><td>AG304</td><td>Ankematt</td><td colspan="4">Eiken, Kaisten</td><td>2001</td><td></td></tr>
 <tr><td>AG305</td><td>Heuberg</td><td colspan="4">Kaisten, Laufenburg</td><td>2001</td><td></td></tr>
 <tr><td>AG307</td><td>Tägerhau</td><td colspan="4">Kaisten</td><td>2001</td><td></td></tr>
-<tr><td>AG340</td><td>Giriz</td><td colspan="4">Koblenz</td><td>2001</td><td></td></tr>
-<tr><td>AG344</td><td>Hof</td><td colspan="4">Kölliken</td><td>2001</td><td></td></tr>
+<tr><td>AG340</td><td>Giriz</td><td colspan="4">Koblenz</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG344</td><td>Hof</td><td colspan="4">Kölliken</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG348</td><td>Grossmoos</td><td colspan="4">Kölliken</td><td>2001</td><td></td></tr>
 <tr><td>AG349</td><td>Walisgraben</td><td colspan="4">Kölliken</td><td>2001</td><td></td></tr>
 <tr><td>AG350</td><td>Zopfmatt</td><td colspan="4">Kölliken</td><td>2001</td><td></td></tr>
@@ -787,41 +802,48 @@ Allegato 1[^t-1]
 <tr><td>AG620</td><td>Tannenchopf</td><td colspan="4">Rheinfelden</td><td>2001</td><td></td></tr>
 <tr><td>AG640</td><td>Chli Rhy</td><td colspan="4">Rietheim</td><td>2001</td><td></td></tr>
 <tr><td>AG644</td><td>Aarschächli</td><td colspan="4">Aarau</td><td>2017</td><td></td></tr>
+<tr><td>AG349</td><td>Walisgraben</td><td colspan="4">Kölliken</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG436</td><td>Äbereich</td><td colspan="4">Mellingen, Stetten</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG440</td><td>Schmulzenchopf</td><td colspan="4">Menziken</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG493</td><td>Schoren Schachen</td><td colspan="4">Mühlau</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG526</td><td>Löliweiher</td><td colspan="4">Niederwil, Tägerig</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG533</td><td>Krähhübel</td><td colspan="4">Niederwil</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG655</td><td>Stockmösli</td><td colspan="4">Rothrist</td><td>2001</td><td></td></tr>
 <tr><td>AG667</td><td>Giriz</td><td colspan="4">Rottenschwil</td><td>2001</td><td></td></tr>
 <tr><td>AG668</td><td>Schnäggenmatten</td><td colspan="4">Rottenschwil, Unterlunkhofen</td><td>2001</td><td></td></tr>
 <tr><td>AG669</td><td>Heftihof</td><td colspan="4">Jonen, Rottenschwil</td><td>2001</td><td></td></tr>
 <tr><td>AG671</td><td>Stille Reuss</td><td colspan="4">Rottenschwil</td><td>2001</td><td></td></tr>
 <tr><td>AG681</td><td>Langenmoos</td><td colspan="4">Meisterschwanden, Sarmenstorf</td><td>2001</td><td></td></tr>
+<tr><td>AG695</td><td>Tongrube Eriwis</td><td colspan="4">Schinznach</td><td>2001</td><td>2017/25</td></tr>
 <tr><td>AG734</td><td>Töniweiher</td><td colspan="4">Sins</td><td>2001</td><td></td></tr>
 <tr><td>AG742</td><td>Franzosenweiher und Altes Bad</td><td colspan="4">Spreitenbach[^annex1-lvlu1-16]</td><td>2001</td><td></td></tr>
 <tr><td>AG749</td><td>Kaltacker</td><td colspan="4">Staffelbach</td><td>2001</td><td></td></tr>
-<tr><td>AG759</td><td>Wildenau</td><td colspan="4">Stetten</td><td>2001</td><td></td></tr>
+<tr><td>AG759</td><td>Wildenau</td><td colspan="4">Stetten</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG765</td><td>Ramoos</td><td colspan="4">Strengelbach, Vordemwald</td><td>2001</td><td></td></tr>
 <tr><td>AG766</td><td>Ziegelmatt</td><td colspan="4">Strengelbach</td><td>2001</td><td></td></tr>
 <tr><td>AG780</td><td>Schwarzrain</td><td colspan="4">Laufenburg</td><td>2001</td><td></td></tr>
-<tr><td>AG799</td><td>Schwarzmatt</td><td colspan="4">Bözberg</td><td>2001</td><td></td></tr>
+<tr><td>AG799</td><td>Schwarzmatt</td><td colspan="4">Bözberg</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG815</td><td>Rottenschwiler Moos</td><td colspan="4">Bremgarten, Rottenschwil</td><td>2001</td><td></td></tr>
-<tr><td>AG820</td><td>Breitmoos</td><td colspan="4">Untersiggenthal</td><td>2001</td><td>2017</td></tr>
+<tr><td>AG820</td><td>Breitmoos</td><td colspan="4">Untersiggenthal</td><td>2001</td><td>2017/25</td></tr>
 <tr><td>AG821</td><td>Hard</td><td colspan="4">Untersiggenthal, Würenlingen</td><td>2017</td><td></td></tr>
 <tr><td>AG843</td><td>Umiker Schachen</td><td colspan="4">Brugg, Villnachern</td><td>2001</td><td></td></tr>
 <tr><td>AG881</td><td>Windischer Schachen</td><td colspan="4">Windisch</td><td>2001</td><td></td></tr>
 <tr><td>AG882</td><td>Fröschegräbe</td><td colspan="4">Windisch</td><td>2001</td><td></td></tr>
-<tr><td>AG910</td><td>Ägelmoos</td><td colspan="4">Mellingen, Wohlenschwil</td><td>2001</td><td></td></tr>
-<tr><td>AG925</td><td>Lochmatt</td><td colspan="4">Zeihen</td><td>2001</td><td></td></tr>
+<tr><td>AG910</td><td>Ägelmoos</td><td colspan="4">Mellingen, Wohlenschwil</td><td>2001</td><td>2025</td></tr>
+<tr><td>AG925</td><td>Lochmatt</td><td colspan="4">Zeihen</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG931</td><td>Ägelsee</td><td colspan="4">Zeiningen</td><td>2001</td><td></td></tr>
 <tr><td>AG941</td><td>Bärenmoosweiher</td><td colspan="4">Zofingen</td><td>2001</td><td></td></tr>
-<tr><td>AG960</td><td>Im See</td><td colspan="4">Bad Zurzach</td><td>2001</td><td></td></tr>
+<tr><td>AG960</td><td>Im See</td><td colspan="4">Zurzach</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG2002</td><td>Butzenmoos</td><td colspan="4">Aristau</td><td>2001</td><td></td></tr>
 <tr><td>AG2003</td><td>Bremengrien</td><td colspan="4">Aristau, Merenschwand</td><td>2001</td><td></td></tr>
 <tr><td>AG2005</td><td>Folenweid</td><td colspan="4">Bremgarten</td><td>2001</td><td></td></tr>
-<tr><td>AG2008</td><td>Lindimatt</td><td colspan="4">Möriken-Wildegg</td><td>2001</td><td></td></tr>
+<tr><td>AG2008</td><td>Lindimatt</td><td colspan="4">Möriken-Wildegg</td><td>2001</td><td>2025</td></tr>
 <tr><td>AG2011</td><td>Eggimoos</td><td colspan="4">Niederwil</td><td>2001</td><td></td></tr>
 <tr><td>AG2012</td><td>Friedgraben</td><td colspan="4">Oberlunkhofen, Rottenschwil, Unterlunkhofen</td><td>2001</td><td></td></tr>
 <tr><td>AG2015</td><td>Bösimoos</td><td colspan="4">Niederrohrdorf, Remetschwil, Stetten</td><td>2001</td><td></td></tr>
 <tr><td>AG2016</td><td>Unterzelg</td><td colspan="4">Villmergen</td><td>2001</td><td></td></tr>
 <tr><td>AG2150</td><td>Zollester</td><td colspan="4">Reinach</td><td>2001</td><td></td></tr>
-<tr><td>AG2230</td><td>Buech/Steiacher</td><td colspan="4">Schafisheim, Staufen</td><td>2007</td><td></td></tr>
+<tr><td>AG2230</td><td>Buech/Steiacher</td><td colspan="4">Schafisheim, Staufen</td><td>2007</td><td>2025</td></tr>
 <tr><td>AG2409</td><td>Dorfrüti</td><td colspan="4">Aristau, Merenschwand</td><td>2001</td><td></td></tr>
 <tr><td>AG2419</td><td>Forenmoos</td><td colspan="4">Bremgarten, Bünzen</td><td>2001</td><td></td></tr>
 <tr><td>AG2725</td><td>Maiholz</td><td colspan="4">Muri</td><td>2001</td><td></td></tr>
@@ -832,21 +854,23 @@ Allegato 1[^t-1]
 <tr><td>AG3431</td><td>Schlaufe</td><td colspan="4">Niederwil</td><td>2007</td><td></td></tr>
 <tr><td>AG3432</td><td>Foort</td><td colspan="4">Eggenwil</td><td>2007</td><td></td></tr>
 <tr><td>AG3433</td><td>Eriwis</td><td colspan="4">Schinznach</td><td>2017</td><td></td></tr>
+<tr><td>AG4514</td><td>Paradis</td><td colspan="4">Hägglingen, Niederwil</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Cantone di Turgovia</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>TG7</td><td>Kiesgrube Atzenholz</td><td colspan="4">Egnach</td><td></td><td></td></tr>
 <tr><td>TG34</td><td>Biessenhofer Weiher</td><td colspan="4">Amriswil, Erlen</td><td>2001</td><td></td></tr>
 <tr><td>TG40</td><td>Hudelmoos</td><td colspan="4">Amriswil, Zihlschlacht-Sitterdorf[^annex1-lvlu1-17]</td><td>2001</td><td></td></tr>
 <tr><td>TG49</td><td>Hauptwiler Weiher</td><td colspan="4">Hauptwil-Gottshaus</td><td></td><td></td></tr>
-<tr><td>TG62</td><td>Kiesgrube Freudenberg</td><td colspan="4">Hohentannen</td><td>2001</td><td></td></tr>
+<tr><td>TG62</td><td>Kiesgrube Freudenberg</td><td colspan="4">Hohentannen</td><td>2001</td><td>2025</td></tr>
 <tr><td>TG69</td><td>Langstuden Befang</td><td colspan="4">Sulgen</td><td>2007</td><td></td></tr>
 <tr><td>TG72</td><td>Wiimoos</td><td colspan="4">Erlen, Sulgen</td><td></td><td></td></tr>
 <tr><td>TG82</td><td>Sürch</td><td colspan="4">Basadingen-Schlattingen</td><td></td><td></td></tr>
 <tr><td>TG89</td><td>Schaarenwies/Schaarenwald</td><td colspan="4">Diessenhofen, Schlatt</td><td>2007</td><td></td></tr>
 <tr><td>TG93</td><td>Bächli-Gishalde</td><td colspan="4">Schlatt</td><td></td><td></td></tr>
-<tr><td>TG94</td><td>Riet</td><td colspan="4">Schlatt</td><td></td><td></td></tr>
+<tr><td>TG94</td><td>Riet</td><td colspan="4">Schlatt</td><td>2003</td><td>2025</td></tr>
+<tr><td>TG98</td><td>Kiesgruben Steig</td><td colspan="4">Aadorf</td><td>2001</td><td>2025</td></tr>
 <tr><td>TG104</td><td>Luggeseeli</td><td colspan="4">Aadorf</td><td>2003</td><td></td></tr>
-<tr><td>TG116</td><td>Baggersee Chasperäcker</td><td colspan="4">Frauenfeld</td><td>2001</td><td></td></tr>
-<tr><td>TG117</td><td>Ägelsee</td><td colspan="4">Gachnang</td><td>2001</td><td></td></tr>
+<tr><td>TG116</td><td>Baggersee Chasperäcker</td><td colspan="4">Frauenfeld</td><td>2001</td><td>2025</td></tr>
+<tr><td>TG117</td><td>Ägelsee</td><td colspan="4">Gachnang</td><td>2001</td><td>2025</td></tr>
 <tr><td>TG127</td><td>Allmend</td><td colspan="4">Felben-Wellhausen, Frauenfeld</td><td>2001</td><td></td></tr>
 <tr><td>TG165</td><td>Mösliweiher</td><td colspan="4">Neunforn</td><td>2003</td><td></td></tr>
 <tr><td>TG166</td><td>Müliweier</td><td colspan="4">Neunforn</td><td>2003</td><td></td></tr>
@@ -854,7 +878,7 @@ Allegato 1[^t-1]
 <tr><td>TG177</td><td>Kiesgrube Bärg</td><td colspan="4">Stettfurt</td><td>2003</td><td></td></tr>
 <tr><td>TG179</td><td>Grüt-Bietenhart-Wolfsbüel</td><td colspan="4">Hüttlingen, Thundorf</td><td>2001</td><td></td></tr>
 <tr><td>TG197</td><td>Kiesweiher Weidacker</td><td colspan="4">Uesslingen-Buch[^annex1-lvlu1-18]</td><td>2001</td><td></td></tr>
-<tr><td>TG200</td><td>Googlete</td><td colspan="4">Uesslingen-Buch</td><td>2003</td><td></td></tr>
+<tr><td>TG200</td><td>Googlete</td><td colspan="4">Uesslingen-Buch</td><td>2003</td><td>2025</td></tr>
 <tr><td>TG213</td><td>Bommer Weiher</td><td colspan="4">Kemmental</td><td>2003</td><td></td></tr>
 <tr><td>TG231</td><td>Espen Riet</td><td colspan="4">Ermatingen, Gottlieben</td><td>2007</td><td>2017</td></tr>
 <tr><td>TG242</td><td>Lengwiler Weiher</td><td colspan="4">Kreuzlingen, Lengwil</td><td>2001</td><td></td></tr>
@@ -864,21 +888,22 @@ Allegato 1[^t-1]
 <tr><td>TG276</td><td>Bichelsee</td><td colspan="4">Bichelsee-Balterswil[^annex1-lvlu1-19]</td><td>2007</td><td></td></tr>
 <tr><td>TG294</td><td>Lommiser Riet</td><td colspan="4">Lommis</td><td></td><td></td></tr>
 <tr><td>TG316</td><td>Ägelsee</td><td colspan="4">Sirnach, Wilen</td><td>2007</td><td></td></tr>
-<tr><td>TG349</td><td>Grütriet</td><td colspan="4">Wängi</td><td>2007</td><td></td></tr>
+<tr><td>TG349</td><td>Grütriet</td><td colspan="4">Wängi</td><td>2007</td><td>2025</td></tr>
 <tr><td>TG367</td><td>Kiesgruben Neuhus-Bälisteig</td><td colspan="4">Eschenz, Wagenhausen</td><td>2001</td><td></td></tr>
+<tr><td>TG376</td><td>Böckler</td><td colspan="4">Homburg</td><td>2025</td><td></td></tr>
 <tr><td>TG386</td><td>Bächler</td><td colspan="4">Homburg</td><td></td><td></td></tr>
-<tr><td>TG387</td><td>Grube Trubeschloo</td><td colspan="4">Homburg</td><td>2001</td><td></td></tr>
+<tr><td>TG387</td><td>Grube Trubeschloo</td><td colspan="4">Homburg</td><td>2001</td><td>2025</td></tr>
 <tr><td>TG388</td><td>Hüttwiler Seen</td><td colspan="4">Hüttwilen, Uesslingen-Buch</td><td>2001</td><td></td></tr>
 <tr><td>TG413</td><td>Schoren Riet</td><td colspan="4">Uesslingen-Buch, Warth-Weiningen</td><td colspan="2"></td></tr>
-<tr><td>TG424</td><td>Ägelsee</td><td colspan="4">Salenstein</td><td></td><td></td></tr>
+<tr><td>TG424</td><td>Ägelsee</td><td colspan="4">Salenstein</td><td>2003</td><td>2025</td></tr>
 <tr><td>TG425</td><td>Grube Gündelhart</td><td colspan="4">Homburg</td><td>2007</td><td></td></tr>
-<tr><td>TG429</td><td>Wolfsgrueb</td><td colspan="4">Homburg</td><td>2007</td><td></td></tr>
+<tr><td>TG429</td><td>Wolfsgrueb</td><td colspan="4">Homburg</td><td>2007</td><td>2025</td></tr>
 <tr><td>TG432</td><td>Waldriet Grosswis</td><td colspan="4">Homburg</td><td>2001</td><td></td></tr>
 <tr><td>TG438</td><td>Heeristobel</td><td colspan="4">Berlingen, Steckborn</td><td>2003</td><td>2007</td></tr>
 <tr><td>TG440</td><td>Etzwilerriet</td><td colspan="4">Wagenhausen</td><td>2001</td><td></td></tr>
-<tr><td>TG443</td><td>Reservat Schule Kaltenbach</td><td colspan="4">Wagenhausen</td><td></td><td></td></tr>
-<tr><td>TG462</td><td>Grube Moos N Weerswilen</td><td colspan="4">Weinfelden</td><td></td><td></td></tr>
-<tr><td>TG466</td><td>Sangen-Mülifang</td><td colspan="4">Bürglen, Weinfelden</td><td>2001</td><td>2003/17</td></tr>
+<tr><td>TG443</td><td>Reservat Schule Kaltenbach</td><td colspan="4">Wagenhausen</td><td>2003</td><td>2025</td></tr>
+<tr><td>TG462</td><td>Grube Moos N Weerswilen</td><td colspan="4">Weinfelden</td><td>2003</td><td>2025</td></tr>
+<tr><td>TG466</td><td>Sangen-Mülifang</td><td colspan="4">Bürglen, Weinfelden</td><td>2001</td><td>2003/ 17/25</td></tr>
 <tr><td>TG472</td><td>Lehmgrube Opfershofen</td><td colspan="4">Bürglen</td><td>2001</td><td></td></tr>
 <tr><td>TG488</td><td>Kiesgrube Schürliwiesen</td><td colspan="4">Kemmental</td><td>2001</td><td></td></tr>
 <tr><td>TG494</td><td>Pflanzgarten Tätsch</td><td colspan="4">Weinfelden</td><td></td><td></td></tr>
@@ -887,7 +912,6 @@ Allegato 1[^t-1]
 <tr><td>TG507</td><td>Aue N Aachmündung</td><td colspan="4">Romanshorn</td><td>2001</td><td></td></tr>
 <tr><td>TG508</td><td>Stockrüti</td><td colspan="4">Warth-Weiningen</td><td></td><td></td></tr>
 <tr><td>TG509</td><td>Kiesgrube Buech</td><td colspan="4">Amlikon-Bissegg</td><td></td><td></td></tr>
-<tr><td>TG537</td><td>Kiesgrube Wiel</td><td colspan="4">Raperswilen</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone Ticino</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>TI2</td><td>Laghetto d’Orbello</td><td colspan="4">Arbedo-Castione</td><td>2001</td><td></td></tr>
 <tr><td>TI5</td><td>Ciossa Antognini</td><td colspan="4">Cadenazzo, Cugnasco-Gerra, Gudo, Locarno</td><td>2001</td><td>2017</td></tr>
@@ -901,7 +925,7 @@ Allegato 1[^t-1]
 <tr><td>TI114</td><td>Cassina di Lago</td><td colspan="4">Quinto</td><td>2001</td><td></td></tr>
 <tr><td>TI127</td><td>Belladrum</td><td colspan="4">Ascona, Losone</td><td>2007</td><td></td></tr>
 <tr><td>TI139</td><td>Pescicoltura Golino</td><td colspan="4">Centovalli</td><td>2001</td><td>2017</td></tr>
-<tr><td>TI147</td><td>Lanche Al Pizzante</td><td colspan="4">Cugnasco-Gerra, Locarno</td><td>2001</td><td>2017</td></tr>
+<tr><td>TI147</td><td>Lanche Al Pizzante</td><td colspan="4">Cugnasco-Gerra, Locarno</td><td>2017</td><td></td></tr>
 <tr><td>TI152</td><td>Bolle di Magadino</td><td colspan="4">Gambarogno, Gordola, Locarno, Tenero-Contra</td><td>2001</td><td>2017</td></tr>
 <tr><td>TI153</td><td>Barbescio-Bolletina Lunga</td><td colspan="4">Losone</td><td>2001</td><td>2007</td></tr>
 <tr><td>TI158</td><td>Piano di Arbigo</td><td colspan="4">Losone</td><td>2001</td><td></td></tr>
@@ -915,6 +939,7 @@ Allegato 1[^t-1]
 <tr><td>TI201</td><td>Lago di Lugano a Cantonetto</td><td colspan="4">Caslano</td><td>2001</td><td></td></tr>
 <tr><td>TI202</td><td>Cava Gere Croglio</td><td colspan="4">Croglio</td><td>2001</td><td>2017</td></tr>
 <tr><td>TI209</td><td>Ressiga</td><td colspan="4">Monteggio</td><td>2001</td><td>2017</td></tr>
+<tr><td>TI210</td><td>Lago di Muzzano</td><td colspan="4">Collina d’Oro, Muzzano, Sorengo</td><td>2025</td><td></td></tr>
 <tr><td>TI211</td><td>Bosco Agnuzzo</td><td colspan="4">Collina d’Oro, Muzzano</td><td>2001</td><td></td></tr>
 <tr><td>TI212</td><td>Palude San Giorgio</td><td colspan="4">Agno, Neggio</td><td>2007</td><td></td></tr>
 <tr><td>TI215</td><td>Lago d’Origlio</td><td colspan="4">Origlio</td><td>2007</td><td>2017</td></tr>
@@ -944,6 +969,7 @@ Allegato 1[^t-1]
 <tr><td>TI337</td><td>Basciocca (ovest)</td><td colspan="4">Giubiasco, Sementina</td><td>2001</td><td>2017</td></tr>
 <tr><td>TI339</td><td>Stagni San Giorgio</td><td colspan="4">Morbio Inferiore</td><td>2007</td><td></td></tr>
 <tr><td>TI343</td><td>Stagno Guana</td><td colspan="4">Mendrisio</td><td>2001</td><td>2017</td></tr>
+<tr><td>TI344</td><td>Pozza Pavü Ronco</td><td colspan="4">Mendrisio</td><td>2025</td><td></td></tr>
 <tr><td>TI345</td><td>Gole della Breggia</td><td colspan="4">Castel San Pietro</td><td>2017</td><td></td></tr>
 <tr><td>TI347</td><td>Pre Murin</td><td colspan="4">Mendrisio</td><td>2001</td><td></td></tr>
 <tr><td>TI352</td><td>Valle della Motta/Ai Prati</td><td colspan="4">Novazzano</td><td>2001</td><td></td></tr>
@@ -955,70 +981,75 @@ Allegato 1[^t-1]
 <tr><td>TI379</td><td>Dosso dell’Ora-Dosso Bello</td><td colspan="4">Castel San Pietro</td><td>2001</td><td></td></tr>
 <tr><td>TI387</td><td>Canton del Marcio</td><td colspan="4">Locarno</td><td>2007</td><td>2017</td></tr>
 <tr><td>TI464</td><td>Ca del Boscat</td><td colspan="4">Stabio</td><td>2007</td><td></td></tr>
+<tr><td>TI474</td><td>Ulcellina/Peschiera</td><td colspan="4">Stabio</td><td>2025</td><td></td></tr>
+<tr><td>TI484</td><td>Cava d’argilla</td><td colspan="4">Novazzano</td><td>2025</td><td></td></tr>
+<tr><td>TI496</td><td>Pastura</td><td colspan="4">Comano</td><td>2025</td><td></td></tr>
+<tr><td>TI524</td><td>Porcino</td><td colspan="4">Stabio</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Cantone di Vaud</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>VD6</td><td>Grand Marais</td><td colspan="4">Bex</td><td>2001</td><td></td></tr>
-<tr><td>VD21</td><td>Les Grangettes</td><td colspan="4">Noville</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD21</td><td>Les Grangettes</td><td colspan="4">Noville</td><td>2017</td><td></td></tr>
 <tr><td>VD67</td><td>Les Mossières</td><td colspan="4">Bière, Saint-Livres</td><td>2001</td><td></td></tr>
 <tr><td>VD69</td><td>Borire, Corjon</td><td colspan="4">Saubraz</td><td>2001</td><td></td></tr>
-<tr><td>VD78</td><td>Les Monod</td><td colspan="4">Apples, Ballens, Mollens, Montricher, Pampigny</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD89</td><td>La Grève (Chabrey)</td><td colspan="4">Cudrefin, Vully-les-Lacs</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD90</td><td>Les Grèves (Cudrefin)</td><td colspan="4">Cudrefin</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD78</td><td>Les Monod</td><td colspan="4">Apples, Ballens, Mollens, Montricher, Pampigny</td><td>2017</td><td></td></tr>
+<tr><td>VD89</td><td>La Grève (Chabrey)</td><td colspan="4">Cudrefin, Vully-les-Lacs</td><td>2017</td><td>2025</td></tr>
+<tr><td>VD90</td><td>Les Grèves (Cudrefin)</td><td colspan="4">Cudrefin</td><td>2017</td><td>2025</td></tr>
 <tr><td>VD93</td><td>Lac Coffy, Bois Ramel</td><td colspan="4">Bettens, Bioley-Orjulaz, Boussens</td><td></td><td></td></tr>
 <tr><td>VD100</td><td>Étang de Vigny</td><td colspan="4">Cossonay, La Chaux (Cossonay), Senarclens</td><td>2001</td><td></td></tr>
 <tr><td>VD101</td><td>Étang du Sépey</td><td colspan="4">Cossonay</td><td>2001</td><td></td></tr>
-<tr><td>VD124</td><td>Bois de Vaux</td><td colspan="4">Lussery-Villars, Penthalaz</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD124</td><td>Bois de Vaux</td><td colspan="4">Lussery-Villars, Penthalaz</td><td>2017</td><td></td></tr>
 <tr><td>VD133</td><td>Étang du Buron, Les Bioles</td><td colspan="4">Penthéréaz</td><td>2001</td><td></td></tr>
 <tr><td>VD140</td><td>Étang de la Scie</td><td colspan="4">Fiez, Fontaines-sur-Grandson</td><td>2001</td><td></td></tr>
-<tr><td>VD142</td><td>Corcelettes</td><td colspan="4">Grandson</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD142</td><td>Corcelettes</td><td colspan="4">Grandson</td><td>2017</td><td></td></tr>
 <tr><td>VD145</td><td>La Combaz, L’Abbaye</td><td colspan="4">Provence, Tévenon</td><td>2001</td><td></td></tr>
-<tr><td>VD171</td><td>Bois Pourri</td><td colspan="4">Buchillon</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD171</td><td>Bois Pourri</td><td colspan="4">Buchillon</td><td>2017</td><td></td></tr>
 <tr><td>VD177</td><td>Arborex</td><td colspan="4">Lavigny, Villars-sous-Yens</td><td>2001</td><td></td></tr>
 <tr><td>VD213</td><td>Les Bidonnes</td><td colspan="4">Bogis-Bossey, Chavannes-de-Bogis, Crassier</td><td>2001</td><td></td></tr>
 <tr><td>VD224</td><td>Bois de Porte, Les Dailles</td><td colspan="4">Chavannes-des-Bois, Commugny, Mies, Tannay</td><td>2001</td><td>2007</td></tr>
 <tr><td>VD225</td><td>Grand Bataillard, Marais de la Versoix</td><td colspan="4">Chavannes-de-Bogis, Chavannes-des-Bois, Commugny</td><td>2001</td><td></td></tr>
 <tr><td>VD229</td><td>Bois de Chênes, Lac Vert</td><td colspan="4">Coinsins, Genolier, Vich</td><td>2007</td><td></td></tr>
 <tr><td>VD232</td><td>Ballastière</td><td colspan="4">Gland</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD244</td><td>Bois de Ban</td><td colspan="4">Trélex</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD244</td><td>Bois de Ban</td><td colspan="4">Trélex</td><td>2017</td><td></td></tr>
 <tr><td>VD251</td><td>Bioute, Étang d’Arnex</td><td colspan="4">Arnex-sur-Orbe, Bofflens</td><td>2001</td><td></td></tr>
 <tr><td>VD253</td><td>Entremur</td><td colspan="4">Baulmes</td><td>2001</td><td></td></tr>
 <tr><td>VD265</td><td>Pré Bernard, Creux-de-Terre</td><td colspan="4">Chavornay, Orbe</td><td>2001</td><td></td></tr>
-<tr><td>VD274</td><td>Vy des Buissons, Creux du Lavoir</td><td colspan="4">Rances</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD274</td><td>Vy des Buissons, Creux du Lavoir</td><td colspan="4">Rances</td><td>2017</td><td></td></tr>
 <tr><td>VD275</td><td>Planches de Sergey, Chassagne</td><td colspan="4">Les Clées, Montcherand, Sergey, Valeyres-sous-Rances</td><td>2001</td><td></td></tr>
 <tr><td>VD286</td><td>Les Mosses de la Rogivue</td><td colspan="4">Maracon</td><td>2001</td><td>2007</td></tr>
-<tr><td>VD290</td><td>Les Grèves (Chevroux)</td><td colspan="4">Chevroux</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD290</td><td>Les Grèves (Chevroux)</td><td colspan="4">Chevroux</td><td>2017</td><td>2025</td></tr>
 <tr><td>VD292</td><td>Prés de Rosex</td><td colspan="4">Corcelles-près-Payerne, Payerne</td><td>2001</td><td></td></tr>
 <tr><td>VD299</td><td>Vernez-de-Chaux, La Coula</td><td colspan="4">Payerne</td><td>2001</td><td></td></tr>
 <tr><td>VD300</td><td>Ancienne Broye</td><td colspan="4">Payerne</td><td>2001</td><td></td></tr>
 <tr><td>VD357</td><td>Bendes</td><td colspan="4">Saint-Légier-La Chiésaz</td><td>2001</td><td></td></tr>
 <tr><td>VD362</td><td>Les Echelettes, La Léchère</td><td colspan="4">Chamblon</td><td>2001</td><td></td></tr>
-<tr><td>VD366</td><td>Champ Pittet, Châble Perron</td><td colspan="4">Cheseaux-Noréaz, Yverdon-les-Bains</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD374</td><td>Les Vernes</td><td colspan="4">Grandson, Montagny-près-Yverdon, Yverdon-les-Bains</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD375</td><td>Les Grèves (Yvonand)</td><td colspan="4">Yvonand</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD377</td><td>Le Moulin</td><td colspan="4">Yvonand</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD379</td><td>Le Gottau</td><td colspan="4">Yvonand</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD381</td><td>Le Vursis</td><td colspan="4">Yvonand</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD366</td><td>Champ Pittet, Châble Perron</td><td colspan="4">Cheseaux-Noréaz, Yverdon-les-Bains</td><td>2017</td><td>2025</td></tr>
+<tr><td>VD374</td><td>Les Vernes</td><td colspan="4">Grandson, Montagny-près-Yverdon, Yverdon-les-Bains</td><td>2017</td><td></td></tr>
+<tr><td>VD375</td><td>Les Grèves (Yvonand)</td><td colspan="4">Yvonand</td><td>2017</td><td>2025</td></tr>
+<tr><td>VD377</td><td>Le Moulin</td><td colspan="4">Yvonand</td><td>2017</td><td></td></tr>
+<tr><td>VD379</td><td>Le Gottau</td><td colspan="4">Yvonand</td><td>2017</td><td></td></tr>
+<tr><td>VD381</td><td>Le Vursis</td><td colspan="4">Yvonand</td><td>2017</td><td></td></tr>
 <tr><td>VD463</td><td>Canal de la Tuilière</td><td colspan="4">Bex</td><td>2007</td><td></td></tr>
 <tr><td></td><td>Cantone del Vallese</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>VS26</td><td>Pfyn West</td><td colspan="4">Salgesch</td><td>2001</td><td></td></tr>
 <tr><td>VS28</td><td>Pfyn Ost, Rosensee</td><td colspan="4">Leuk, Salgesch</td><td>2001</td><td></td></tr>
 <tr><td>VS50</td><td>Canal de Ceinture</td><td colspan="4">Ardon, Chamoson</td><td>2001</td><td>2007/17</td></tr>
 <tr><td>VS66</td><td>Poutafontana</td><td colspan="4">Grône, Sierre</td><td>2001</td><td></td></tr>
-<tr><td>VS75</td><td>Le Rosel</td><td colspan="4">Dorénaz</td><td>2001</td><td>2003</td></tr>
-<tr><td>VS120</td><td>Châtelet</td><td colspan="4">Port-Valais</td><td>2001</td><td>2017</td></tr>
-<tr><td>VS121</td><td>Grand-Blettay</td><td colspan="4">Fully, Saillon</td><td>2001</td><td>2017</td></tr>
+<tr><td>VS75</td><td>Le Rosel</td><td colspan="4">Dorénaz</td><td>2001</td><td>2003/25</td></tr>
+<tr><td>VS120</td><td>Châtelet</td><td colspan="4">Port-Valais</td><td>2017</td><td></td></tr>
+<tr><td>VS121</td><td>Grand-Blettay</td><td colspan="4">Fully, Saillon</td><td>2017</td><td></td></tr>
 <tr><td>VS136</td><td>Lac de Tanay</td><td colspan="4">Vouvry</td><td>2001</td><td></td></tr>
 <tr><td>VS142</td><td>Montagne de l’Au</td><td colspan="4">Vouvry</td><td>2001</td><td></td></tr>
 <tr><td>VS269</td><td>Lac de Mont d’Orge</td><td colspan="4">Sion</td><td>2001</td><td></td></tr>
+<tr><td>VS273</td><td>Lac Noir</td><td colspan="4">Isérables, Nendaz</td><td>2025</td><td></td></tr>
 <tr><td>VS349</td><td>Bonigersee</td><td colspan="4">Törbel</td><td>2001</td><td></td></tr>
 <tr><td>VS417</td><td>Bettmeralp</td><td colspan="4">Bettmeralp</td><td>2001</td><td></td></tr>
 <tr><td>VS427</td><td>Chiebodenstafel</td><td colspan="4">Fiesch</td><td>2001</td><td></td></tr>
 <tr><td>VS432</td><td>Lüsga</td><td colspan="4">Naters</td><td>2001</td><td></td></tr>
 <tr><td>VS476</td><td>Le Malévoz</td><td colspan="4">Collombey-Muraz, Monthey</td><td>2001</td><td></td></tr>
-<tr><td>VS477</td><td>Fontaine de la Combe</td><td colspan="4">Collombey-Muraz</td><td>2001</td><td>2017</td></tr>
+<tr><td>VS477</td><td>Fontaine de la Combe</td><td colspan="4">Collombey-Muraz</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone di Neuchâtel</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>NE1</td><td>Marnière du Plan du Bois</td><td colspan="4">Milvignes</td><td>2001</td><td>2017</td></tr>
-<tr><td>NE2</td><td>Planeyse</td><td colspan="4">Boudry, Milvignes</td><td>2007</td><td>2017</td></tr>
-<tr><td>NE3</td><td>Merdasson</td><td colspan="4">Boudry, Milvignes, Rochefort</td><td>2017</td><td></td></tr>
+<tr><td>NE2</td><td>Planeyse</td><td colspan="4">Boudry, Milvignes</td><td>2017</td><td></td></tr>
+<tr><td>NE3</td><td>Merdasson</td><td colspan="4">Boudry, Milvignes, Rochefort</td><td>2017</td><td>2025</td></tr>
 <tr><td>NE5</td><td>La Gare</td><td colspan="4">Boudry</td><td></td><td></td></tr>
 <tr><td>NE12</td><td>Le Pélard</td><td colspan="4">La Chaux-de-Fonds</td><td>2017</td><td></td></tr>
 <tr><td>NE13</td><td>Les Eplatures</td><td colspan="4">La Chaux-de-Fonds</td><td></td><td></td></tr>
@@ -1027,7 +1058,7 @@ Allegato 1[^t-1]
 <tr><td>NE58</td><td>Le Loclat</td><td colspan="4">Saint-Blaise</td><td>2001</td><td></td></tr>
 <tr><td>NE68</td><td>La Paulière</td><td colspan="4">Val-de-Ruz</td><td>2001</td><td>2017</td></tr>
 <tr><td>NE71</td><td>Les Sagnettes</td><td colspan="4">Val-de-Ruz</td><td>2017</td><td></td></tr>
-<tr><td>NE99</td><td>Le Foulet</td><td colspan="4">La Chaux-de-Fonds</td><td>2001</td><td></td></tr>
+<tr><td>NE99</td><td>Le Foulet</td><td colspan="4">La Chaux-de-Fonds</td><td>2001</td><td>2025</td></tr>
 <tr><td>NE106</td><td>Les Goudebas</td><td colspan="4">Les Brenets</td><td></td><td></td></tr>
 <tr><td>NE107</td><td>La Fabrique</td><td colspan="4">Cortaillod</td><td>2001</td><td></td></tr>
 <tr><td>NE108</td><td>Pointe du Grain</td><td colspan="4">Bevaix, Cortaillod</td><td>2001</td><td></td></tr>
@@ -1061,12 +1092,14 @@ Allegato 1[^t-1]
 <tr><td>JU200</td><td>Les Esserts</td><td colspan="4">Boécourt, Haute-Sorne</td><td>2001</td><td></td></tr>
 <tr><td>JU701</td><td>Sous Bâme</td><td colspan="4">Haute-Sorne</td><td>2001</td><td></td></tr>
 <tr><td>JU703</td><td>En Cortio</td><td colspan="4">Haute-Sorne</td><td>2001</td><td></td></tr>
+<tr><td>JU800</td><td>Le Tayment</td><td colspan="4">Courrendlin, Delémont</td><td>2001</td><td>2025</td></tr>
 <tr><td>JU902</td><td>Le Colliard</td><td colspan="4">Courroux</td><td>2001</td><td></td></tr>
 <tr><td>JU1002</td><td>Bois de Chaux</td><td colspan="4">Courtételle</td><td>2001</td><td></td></tr>
 <tr><td>JU1400</td><td>Combe Tabeillon</td><td colspan="4">Haute-Sorne</td><td>2001</td><td></td></tr>
 <tr><td>JU1405</td><td>Combe du Bez</td><td colspan="4">Haute-Sorne</td><td>2001</td><td></td></tr>
 <tr><td>JU1406</td><td>Foradrai</td><td colspan="4">Haute-Sorne</td><td>2001</td><td></td></tr>
 <tr><td>JU1600</td><td>Les Charbonnières</td><td colspan="4">Mettembert</td><td>2001</td><td></td></tr>
+<tr><td>JU1602</td><td>Etang de Sainte-Anne</td><td colspan="4">Mettembert</td><td>2025</td><td></td></tr>
 <tr><td>JU1902</td><td>Moulin de Bavelier</td><td colspan="4">Pleigne</td><td>2001</td><td></td></tr>
 <tr><td>JU2400</td><td>La Réselle</td><td colspan="4">Soyhières</td><td>2001</td><td></td></tr>
 <tr><td>JU4200</td><td>Le Refrain-La Bouège</td><td colspan="4">Le Noirmont, Les Bois</td><td>2001</td><td></td></tr>
@@ -1079,7 +1112,7 @@ Allegato 1[^t-1]
 <tr><td>JU5413</td><td>La Bouège-La Goule</td><td colspan="4">Le Noirmont</td><td>2001</td><td></td></tr>
 <tr><td>JU5600</td><td>Bois Banal-Moulin Jeannotat</td><td colspan="4">Saignelégier</td><td>2001</td><td></td></tr>
 <tr><td>JU5606</td><td>Les Pommerats</td><td colspan="4">Saignelégier</td><td>2001</td><td></td></tr>
-<tr><td>JU5701</td><td>La Gruère</td><td colspan="4">Le Bémont, Montfaucon, Saignelégier</td><td>2001</td><td></td></tr>
+<tr><td>JU5701</td><td>La Gruère</td><td colspan="4">Le Bémont, Montfaucon, Saignelégier</td><td>2001</td><td>2025</td></tr>
 <tr><td>JU5702</td><td>Les Royes</td><td colspan="4">Le Bémont, Saignelégier</td><td>2001</td><td></td></tr>
 <tr><td>JU5800</td><td>Côte d’Oye</td><td colspan="4">Lajoux, Saint-Brais</td><td>2001</td><td></td></tr>
 <tr><td>JU6400</td><td>Étangs de Vendlincourt</td><td colspan="4">Vendlincourt</td><td>2001</td><td></td></tr>
@@ -1087,16 +1120,22 @@ Allegato 1[^t-1]
 <tr><td>JU6604</td><td>Bellefontaine</td><td colspan="4">Clos du Doubs</td><td>2001</td><td></td></tr>
 <tr><td>JU7000</td><td>Étang Corbat</td><td colspan="4">Porrentruy</td><td>2003</td><td></td></tr>
 <tr><td>JU7500</td><td>Étangs Rougeat</td><td colspan="4">Bonfol, Vendlincourt</td><td>2001</td><td></td></tr>
+<tr><td>JU7505</td><td>Combe Guerri</td><td colspan="4">Basse-Vendline</td><td>2025</td><td></td></tr>
 <tr><td>JU7501</td><td>Étangs de Bonfol</td><td colspan="4">Bonfol, Vendlincourt</td><td>2001</td><td></td></tr>
 <tr><td>JU7508</td><td>Les Queues de Chats</td><td colspan="4">Bonfol</td><td>2001</td><td></td></tr>
-<tr><td>JU7801</td><td>Place d’armes, le Nalé</td><td colspan="4">Bure, Fahy</td><td>2001</td><td>2017</td></tr>
+<tr><td>JU7801</td><td>Place d’armes, le Nalé</td><td colspan="4">Bure, Fahy</td><td>2017</td><td></td></tr>
 <tr><td>JU8101</td><td>La Coeuvatte</td><td colspan="4">Coeuve</td><td></td><td></td></tr>
-<tr><td>JU8400</td><td>Le Martinet</td><td colspan="4">Courgenay</td><td>2001</td><td></td></tr>
+<tr><td>JU8400</td><td>Le Martinet</td><td colspan="4">Courgenay</td><td>2001</td><td>2025</td></tr>
+<tr><td>JU8403</td><td>Etangs de La Nods</td><td colspan="4">Courgenay</td><td>2025</td><td></td></tr>
+<tr><td>JU8408</td><td>Vacherie Mouillard</td><td colspan="4">Courgenay</td><td>2025</td><td></td></tr>
 <tr><td>JU8700</td><td>Les Coeudres</td><td colspan="4">Damphreux</td><td>2003</td><td></td></tr>
+<tr><td>JU9000</td><td>En Vâ Béchat</td><td colspan="4">Fontenais</td><td>2025</td><td></td></tr>
+<tr><td>JU9001</td><td>Etang de Villars-sur- Fontenais</td><td colspan="4">Fontenais</td><td>2025</td><td></td></tr>
+<tr><td>JU9301</td><td>La Voivre Nord</td><td colspan="4">Damphreux-Lugnez</td><td>2025</td><td></td></tr>
 <tr><td>BE1139</td><td>Biaufond</td><td colspan="4">Les Bois[^annex1-lvlu1-22]</td><td>2001</td><td></td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 16 dic 2016.
+[^annex1-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 6 apr. 2025.
 [^annex1-lvlu1-2]: L’oggetto è situato nei Comuni di Dietikon ZH/Spreitenbach AG.
 [^annex1-lvlu1-3]: L’oggetto è situato nei Comuni di Altikon ZH/Uesslingen-Buch TG.
 [^annex1-lvlu1-4]: L’oggetto è situato nei Comuni di Turbenthal ZH/Bichelsee-Balterswil TG.
@@ -1125,38 +1164,34 @@ Allegato 2[^t-2]
 
 ## Elenco dei siti di riproduzione di anfibi di importanza nazionale – oggetti mobili
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 29 set. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)). Aggionato dalla cifra I n. 3 dell’O del 29 ott. 2025 sui biotopi d’importanza nazionale, in vigore dal 1° dic. 2025 ([RU 2025 735](https://fedlex.data.admin.ch/eli/oc/2025/735)) e la correzione del 1° dic. 2025 ([RU 2025 772](https://fedlex.data.admin.ch/eli/oc/2025/772)).
 
 <table>
-<tr><th>N.</th><th>Località</th><th>Comune(i)[^annex2-lvlu1-1]</th><th>Iscrizione</th><th>Revisione</th></tr>
-<tr><td></td><td>Cantone di Zurigo</td><td></td><td></td><td></td></tr>
-<tr><td>ZH61</td><td>Kiesgrube Schürli</td><td>Bäretswil</td><td>2001</td><td></td></tr>
-<tr><td>ZH140</td><td>Kiesgrube Zelgli und Flachweiher im Hardwald</td><td>Glattfelden</td><td>2001</td><td></td></tr>
-<tr><td>ZH306</td><td>Kiesgruben Mittlerboden</td><td>Glattfelden</td><td>2001</td><td></td></tr>
-<tr><td>ZH318</td><td>Kiesgrube Langfuhr</td><td>Gossau</td><td>2001</td><td></td></tr>
-<tr><td>ZH343</td><td>Kiesgrube Hochfurenzelg (Tobelacker)</td><td>Hagenbuch</td><td>2001</td><td></td></tr>
-<tr><td>ZH542</td><td>Lehmgrube Häuli</td><td>Lufingen</td><td>2001</td><td></td></tr>
-<tr><td>ZH591</td><td>Kiesgrube Riedt</td><td>Neftenbach</td><td>2001</td><td></td></tr>
-<tr><td>ZH636</td><td>Laichgebiet Tambrig-Oberholz</td><td>Obfelden</td><td>2001</td><td></td></tr>
-<tr><td>ZH712</td><td>Ziegelei Rafz</td><td>Rafz</td><td>2001</td><td></td></tr>
-<tr><td>ZH883</td><td>Kiesgrubenbiotope Zimiker Eichli-Breiti</td><td>Uster</td><td>2001</td><td></td></tr>
-<tr><td>ZH906</td><td>Kiesgrube Härdacher</td><td>Volketswil</td><td>2001</td><td></td></tr>
-<tr><td>ZH1245</td><td>Kiesgrube Fuchsloch</td><td>Maschwanden</td><td>2017</td><td></td></tr>
-<tr><td></td><td>Cantone di Berna</td><td></td><td></td><td></td></tr>
-<tr><td>BE19</td><td>Kies- und Betonwerk Bangerter</td><td>Lyss</td><td>2001</td><td></td></tr>
-<tr><td>BE58</td><td>Ziegelei Roggwil</td><td>Roggwil</td><td>2003</td><td></td></tr>
-<tr><td>BE180</td><td>Lehmgrube Greuschenhubel</td><td>Pieterlen</td><td>2017</td><td></td></tr>
-<tr><td>BE381</td><td>Steinbruch Oberacher</td><td>Därligen</td><td>2001</td><td></td></tr>
-<tr><td>BE837</td><td>Kiesgrube Balmgüeter</td><td>Meiringen</td><td>2003</td><td></td></tr>
-<tr><td>BE1122</td><td>Oberfeld-Oberholz</td><td>Finsterhennen</td><td>2003</td><td></td></tr>
-<tr><td>BE1126</td><td>Grube Gugleracher</td><td>Müntschemier</td><td>2003</td><td></td></tr>
-<tr><td>BE1204</td><td>Kiesgrube Mattehölzli</td><td>Walperswil</td><td>2003</td><td></td></tr>
-<tr><td></td><td>Cantone di Lucerna</td><td></td><td></td><td></td></tr>
-<tr><td>LU12</td><td>Gruben Pfannenstil/ Morgenhalden/Höchi</td><td>Ballwil</td><td>2001</td><td></td></tr>
-</table>
-
-<table>
-<tr><th>N.</th><th>Località</th><th colspan="4">Comune(i)</th><th>Iscrizione</th><th>Revisione</th></tr>
+<tr><th>N.</th><th>Località</th><th colspan="4">Comune(i)[^annex2-lvlu1-1]</th><th>Iscrizione</th><th>Revisione</th></tr>
+<tr><td></td><td>Cantone di Zurigo</td><td colspan="4"></td><td></td><td></td></tr>
+<tr><td>ZH61</td><td>Kiesgrube Schürli</td><td colspan="4">Bäretswil</td><td>2001</td><td></td></tr>
+<tr><td>ZH140</td><td>Kiesgrube Zelgli und Flachweiher im Hardwald</td><td colspan="4">Glattfelden</td><td>2001</td><td></td></tr>
+<tr><td>ZH306</td><td>Kiesgruben Mittlerboden</td><td colspan="4">Glattfelden</td><td>2001</td><td></td></tr>
+<tr><td>ZH318</td><td>Kiesgrube Langfuhr</td><td colspan="4">Gossau</td><td>2001</td><td></td></tr>
+<tr><td>ZH343</td><td>Kiesgrube Hochfurenzelg (Tobelacker)</td><td colspan="4">Hagenbuch</td><td>2001</td><td></td></tr>
+<tr><td>ZH542</td><td>Lehmgrube Häuli</td><td colspan="4">Lufingen</td><td>2001</td><td></td></tr>
+<tr><td>ZH591</td><td>Kiesgrube Riedt</td><td colspan="4">Neftenbach</td><td>2001</td><td></td></tr>
+<tr><td>ZH636</td><td>Laichgebiet Tambrig-Oberholz</td><td colspan="4">Obfelden</td><td>2001</td><td></td></tr>
+<tr><td>ZH712</td><td>Ziegelei Rafz</td><td colspan="4">Rafz</td><td>2001</td><td></td></tr>
+<tr><td>ZH883</td><td>Kiesgrubenbiotope Zimiker Eichli-Breiti</td><td colspan="4">Uster</td><td>2001</td><td></td></tr>
+<tr><td>ZH906</td><td>Kiesgrube Härdacher</td><td colspan="4">Volketswil</td><td>2001</td><td></td></tr>
+<tr><td>ZH1245</td><td>Kiesgrube Fuchsloch</td><td colspan="4">Maschwanden</td><td>2017</td><td></td></tr>
+<tr><td></td><td>Cantone di Berna</td><td colspan="4"></td><td></td><td></td></tr>
+<tr><td>BE19</td><td>Kies- und Betonwerk Bangerter</td><td colspan="4">Lyss</td><td>2001</td><td></td></tr>
+<tr><td>BE58</td><td>Ziegelei Roggwil</td><td colspan="4">Roggwil</td><td>2003</td><td></td></tr>
+<tr><td>BE180</td><td>Lehmgrube Greuschenhubel</td><td colspan="4">Pieterlen</td><td>2017</td><td></td></tr>
+<tr><td>BE381</td><td>Steinbruch Oberacher</td><td colspan="4">Därligen</td><td>2001</td><td></td></tr>
+<tr><td>BE837</td><td>Kiesgrube Balmgüeter</td><td colspan="4">Meiringen</td><td>2003</td><td></td></tr>
+<tr><td>BE1122</td><td>Oberfeld-Oberholz</td><td colspan="4">Finsterhennen</td><td>2003</td><td></td></tr>
+<tr><td>BE1126</td><td>Grube Gugleracher</td><td colspan="4">Müntschemier</td><td>2003</td><td></td></tr>
+<tr><td>BE1204</td><td>Kiesgrube Mattehölzli</td><td colspan="4">Walperswil</td><td>2003</td><td></td></tr>
+<tr><td></td><td>Cantone di Lucerna</td><td colspan="4"></td><td></td><td></td></tr>
+<tr><td>LU12</td><td>Gruben Pfannenstil/ Morgenhalden/Höchi</td><td colspan="4">Ballwil</td><td>2001</td><td></td></tr>
 <tr><td>LU118</td><td>Kiesgrube Eschenbach (Rüchlig)</td><td colspan="4">Eschenbach</td><td>2001</td><td></td></tr>
 <tr><td>LU234</td><td>Lehmgrube Pfaffwil</td><td colspan="4">Inwil</td><td>2001</td><td></td></tr>
 <tr><td>LU240</td><td>Grube Utigen</td><td colspan="4">Inwil</td><td>2001</td><td></td></tr>
@@ -1170,7 +1205,7 @@ Allegato 2[^t-2]
 <tr><td></td><td>Cantone di Uri</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td>Cantone di Svitto</td><td colspan="4"></td><td></td><td></td></tr>
-<tr><td>SZ150</td><td>Grube Bachtellen</td><td colspan="4">Tuggen</td><td>2001</td><td>2017</td></tr>
+<tr><td>SZ150</td><td>Grube Bachtellen</td><td colspan="4">Tuggen</td><td>2017</td><td></td></tr>
 <tr><td>SZ153</td><td>Unterschönenbuch</td><td colspan="4">Ingenbohl</td><td>2001</td><td></td></tr>
 <tr><td>SZ163</td><td>Bändertongrube</td><td colspan="4">Tuggen</td><td>2017</td><td></td></tr>
 <tr><td>SZ167</td><td>Steinbruch Nägeli</td><td colspan="4">Schwyz</td><td>2017</td><td></td></tr>
@@ -1178,7 +1213,7 @@ Allegato 2[^t-2]
 <tr><td>SZ181</td><td>Grube Girendorf</td><td colspan="4">Tuggen</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone di Obvaldo</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>OW8</td><td>Steinbruch Guber</td><td colspan="4">Alpnach</td><td>2001</td><td></td></tr>
-<tr><td>OW9</td><td>Kiesgrube Zelgenwald</td><td colspan="4">Alpnach</td><td>2001</td><td>2017</td></tr>
+<tr><td>OW9</td><td>Kiesgrube Zelgenwald</td><td colspan="4">Alpnach</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone di Nidvaldo</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>NW36</td><td>Kiesgrube Juch</td><td colspan="4">Ennetmoos</td><td>2017</td><td></td></tr>
 <tr><td>NW48</td><td>Ennerberg</td><td colspan="4">Oberdorf</td><td>2001</td><td></td></tr>
@@ -1191,16 +1226,22 @@ Allegato 2[^t-2]
 <tr><td>ZG106</td><td>Grube Bethlehem</td><td colspan="4">Menzingen</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone di Friburgo</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>FR64</td><td>Le Villaret</td><td colspan="4">La Roche</td><td>2001</td><td></td></tr>
-<tr><td>FR69</td><td>Les Auges</td><td colspan="4">Bas-Intyamon</td><td>2001</td><td>2017</td></tr>
 <tr><td>FR80</td><td>Côte à Bourgeois</td><td colspan="4">Hauterive</td><td>2001</td><td></td></tr>
-<tr><td>FR110</td><td>Froideville</td><td colspan="4">Hauterive</td><td>2007</td><td>2017</td></tr>
+<tr><td>FR110</td><td>Froideville</td><td colspan="4">Hauterive</td><td>2017</td><td></td></tr>
 <tr><td>FR142</td><td>Les Baumes</td><td colspan="4"></td><td>2001</td><td></td></tr>
 <tr><td>FR221</td><td>Le Chaney</td><td colspan="4">Gibloux</td><td>2001</td><td></td></tr>
 <tr><td>FR222</td><td>Monteynan</td><td colspan="4">Arconciel</td><td>2001</td><td></td></tr>
-<tr><td>FR430</td><td>La Léchire</td><td colspan="4">Marly</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone di Soletta</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>SO9</td><td>Äbisholzgrube</td><td colspan="4">Oensingen</td><td>2001</td><td></td></tr>
+<tr><td>SO3</td><td>Härkingen, Untere Allmend</td><td colspan="4">Härkingen</td><td>2025</td><td></td></tr>
 <tr><td>SO101</td><td>Allmend-Forenban</td><td colspan="4">Gunzgen</td><td>2001</td><td></td></tr>
+<tr><td>SO163</td><td>Birch</td><td colspan="4">Erlinsbach</td><td>2025</td><td></td></tr>
+<tr><td>SO164</td><td>Studenweid</td><td colspan="4">Däniken</td><td>2025</td><td></td></tr>
+<tr><td></td><td>Cantone di Sciaffusa</td><td colspan="4"></td><td></td><td></td></tr>
+<tr><td>SH1</td><td>Deponie Hintere Pflumm</td><td colspan="4">Gächlingen</td><td>2025</td><td></td></tr>
+<tr><td>SH2003</td><td>Zementi Wippel Ost</td><td colspan="4">Thayngen</td><td>2025</td><td></td></tr>
+<tr><td>SH3212</td><td>Kiesgrube Hardau</td><td colspan="4">Beringen</td><td>2025</td><td></td></tr>
+<tr><td>SH5301</td><td>Deponie Birchbüel</td><td colspan="4">Siblingen</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Cantone di Basilea Città</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td colspan="3">Cantone di Basilea Campagna</td><td colspan="2"></td><td></td><td></td></tr>
@@ -1229,7 +1270,6 @@ Allegato 2[^t-2]
 <tr><td>AG378</td><td>Galmet</td><td colspan="4">Küttigen</td><td>2001</td><td></td></tr>
 <tr><td>AG432</td><td>Steinbruch Mellikon</td><td colspan="4">Mellikon</td><td>2001</td><td></td></tr>
 <tr><td>AG498</td><td>Kiesgrube Eichrüteli</td><td colspan="4">Mülligen</td><td>2001</td><td></td></tr>
-<tr><td>AG695</td><td>Tongrube Eriwis</td><td colspan="4">Schinznach</td><td>2001</td><td>2017</td></tr>
 <tr><td>AG710</td><td>Am Schöftler</td><td colspan="4">Schöftland</td><td>2001</td><td></td></tr>
 <tr><td>AG750</td><td>Stolten</td><td colspan="4">Staffelbach</td><td>2001</td><td></td></tr>
 <tr><td>AG755</td><td>Kiesgrube Ägerten/Steinächer</td><td colspan="4">Stetten</td><td>2001</td><td></td></tr>
@@ -1239,7 +1279,6 @@ Allegato 2[^t-2]
 <tr><td></td><td>Cantone di Turgovia</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>TG78</td><td>Kiesgrube HEVA Dietenboden</td><td colspan="4">Diessenhofen</td><td>2001</td><td></td></tr>
 <tr><td>TG90</td><td>Tongrube Paradies</td><td colspan="4">Schlatt</td><td>2001</td><td></td></tr>
-<tr><td>TG98</td><td>Kiesgruben Steig</td><td colspan="4">Aadorf</td><td>2001</td><td></td></tr>
 <tr><td>TG211</td><td>Kiesgrube Lätten</td><td colspan="4">Warth-Weiningen</td><td>2001</td><td></td></tr>
 <tr><td>TG455</td><td>Lehmgrube Bergerwilen</td><td colspan="4">Berg</td><td>2001</td><td></td></tr>
 <tr><td>TG468</td><td>Kiesgrube Mayer Grossfeld</td><td colspan="4">Bürglen</td><td>2001</td><td></td></tr>
@@ -1250,8 +1289,8 @@ Allegato 2[^t-2]
 <tr><td></td><td>Cantone Ticino</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td>TI472</td><td>ESR interna</td><td colspan="4">Novazzano</td><td>2007</td><td></td></tr>
 <tr><td></td><td>Cantone di Vaud</td><td colspan="4"></td><td></td><td></td></tr>
-<tr><td>VD105</td><td>Côtes de Vaux, Les Esserts</td><td colspan="4">Eclépens</td><td>2001</td><td>2017</td></tr>
-<tr><td>VD158</td><td>Le Taulard, Bois Genoud</td><td colspan="4">Lausanne</td><td>2001</td><td>2017</td></tr>
+<tr><td>VD105</td><td>Côtes de Vaux, Les Esserts</td><td colspan="4">Eclépens</td><td>2017</td><td></td></tr>
+<tr><td>VD158</td><td>Le Taulard, Bois Genoud</td><td colspan="4">Lausanne</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Cantone del Vallese</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td>Cantone di Neuchâtel</td><td colspan="4"></td><td></td><td></td></tr>
@@ -1259,10 +1298,10 @@ Allegato 2[^t-2]
 <tr><td></td><td>Cantone di Ginevra</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td colspan="4"></td><td></td><td></td></tr>
 <tr><td></td><td>Cantone del Giura</td><td colspan="4"></td><td></td><td></td></tr>
-<tr><td>JU800</td><td>Le Tayment</td><td colspan="4">Courrendlin</td><td>2001</td><td></td></tr>
+<tr><td></td><td>Nessun oggetto</td><td colspan="4"></td><td></td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 16 dic. 2016.
+[^annex2-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 6 apr. 2025.
 
 Allegato 3[^t-3]
 
@@ -1270,7 +1309,7 @@ Allegato 3[^t-3]
 
 ## Elenco dei siti di riproduzione di anfibi di importanza nazionale, non ancora delimitati in modo definitivo
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 29 set. 2017, in vigore dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 29 set. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)). Aggionato dalla cifra I n. 3 dell’O del 29 ott. 2025 sui biotopi d’importanza nazionale, in vigore dal 1° dic. 2025 ([RU 2025 735](https://fedlex.data.admin.ch/eli/oc/2025/735)).
 
 <table>
 <tr><th>N.</th><th>Località</th><th>Comune(i)[^annex3-lvlu1-1]</th></tr>
@@ -1282,11 +1321,10 @@ Allegato 3[^t-3]
 <tr><td>BE835</td><td>Junzlensee</td><td>Meiringen</td></tr>
 <tr><td>BE991</td><td>Kiesgrube Oechtlen</td><td>Riggisberg</td></tr>
 <tr><td>BE1137</td><td>Gravière sous Graitery</td><td>Court</td></tr>
-<tr><td>BE1138</td><td>Gravière + STEP</td><td>Loveresse</td></tr>
 <tr><td></td><td>Cantone di Lucerna</td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td></td></tr>
 <tr><td></td><td>Cantone di Uri</td><td></td></tr>
-<tr><td>UR79</td><td>Weidbach</td><td>Seedorf</td></tr>
+<tr><td></td><td>Nessun oggetto</td><td></td></tr>
 <tr><td></td><td>Cantone di Svitto</td><td></td></tr>
 <tr><td>SZ154</td><td>Stausee Rempen</td><td>Schübelbach</td></tr>
 <tr><td></td><td>Cantone di Obvaldo</td><td></td></tr>
@@ -1297,14 +1335,9 @@ Allegato 3[^t-3]
 <tr><td></td><td>Nessun oggetto</td><td></td></tr>
 <tr><td></td><td>Cantone di Zugo</td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td></td></tr>
-</table>
-
-<table>
-<tr><th>N.</th><th>Località</th><th>Comune(i)</th></tr>
 <tr><td></td><td>Cantone di Friburgo</td><td></td></tr>
 <tr><td>FR68</td><td>Verchaux</td><td>Botterens</td></tr>
 <tr><td>FR95</td><td>Le Chaney</td><td>Gibloux</td></tr>
-<tr><td>FR96</td><td>Contramont</td><td>Gibloux</td></tr>
 <tr><td>FR181</td><td>Galmisgrube Filistorf</td><td>Düdingen</td></tr>
 <tr><td>FR402</td><td>Verchaux</td><td>Corbières</td></tr>
 <tr><td></td><td>Cantone di Soletta</td><td></td></tr>
@@ -1312,7 +1345,7 @@ Allegato 3[^t-3]
 <tr><td></td><td>Cantone di Basilea Città</td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td></td></tr>
 <tr><td></td><td>Cantone di Basilea Campagna</td><td></td></tr>
-<tr><td>BL3</td><td>Ziegelei Allschwil</td><td>Allschwil</td></tr>
+<tr><td></td><td>Nessun oggetto</td><td></td></tr>
 <tr><td></td><td>Cantone di Sciaffusa</td><td></td></tr>
 <tr><td></td><td>Nessun oggetto</td><td></td></tr>
 <tr><td></td><td>Cantone di Appenzello Esterno</td><td></td></tr>
@@ -1341,7 +1374,6 @@ Allegato 3[^t-3]
 <tr><td>VS132</td><td>Mont Culet</td><td>Troistorrents</td></tr>
 <tr><td>VS175</td><td>Ripaille</td><td>Val-d’Illiez</td></tr>
 <tr><td>VS185</td><td>L’Arpille</td><td>Martigny-Combe</td></tr>
-<tr><td>VS273</td><td>Lac Noir</td><td>Nendaz</td></tr>
 <tr><td>VS308</td><td>Les Briesses</td><td></td></tr>
 <tr><td></td><td>Canton di Neuchâtel</td><td></td></tr>
 <tr><td>NE109</td><td>Grandes Crosettes</td><td>La Chaux-de-Fonds</td></tr>
@@ -1351,8 +1383,8 @@ Allegato 3[^t-3]
 <tr><td></td><td>Nessun oggetto</td><td></td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 16 dic. 2016.
+[^annex3-lvlu1-1]: Elenco ufficiale dei Comuni della Svizzera, versione del 6 apr. 2025.
 
 Allegato 4[^t-4]
 
-[^t-4]: Abrogato dal n. II cpv. 2 dell’O del 29 set. 2017, con effetto dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
+[^t-4]: Abrogato dalla cifra II cpv. 2 dell’O del 29 set. 2017, con effetto dal 1° nov. 2017 ([RU 2017 5367](https://fedlex.data.admin.ch/eli/oc/2017/590)).
