@@ -4,11 +4,11 @@ title: "Verordnung vom 13. Januar 2010 über den Schutz der Trockenwiesen und -w
 short: TwwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/38"
 language: de
-version: 2021-01-01
+version: 2025-12-01
 adopted: 2010-01-13
 in_force: 2010-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/38/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2010-38-20210101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/38/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/38/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2010-38-20251201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/38/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/38/20210101/de"
 
 (Trockenwiesenverordnung, TwwV)
 
-vom 13. Januar 2010 (Stand am 1. Januar 2021)
+vom 13. Januar 2010 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 18*a* Absätze 1 und 3 des Bundesgesetzes vom 1. Juli 1966
 
 verordnet:
 
-[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^ingress-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -54,8 +54,8 @@ Mit dieser Verordnung sollen Trockenwiesen und ‑weiden (Trockenwiesen) von nat
 <sup>2</sup> Das Trockenwieseninventar kann unentgeltlich beim Bundesamt für Umwelt (BAFU) und bei den zuständigen kantonalen Stellen eingesehen werden.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5409](https://fedlex.data.admin.ch/eli/oc/2017/592)).
-[^3-2]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^3-3]: www.bafu.admin.ch &gt; Themen &gt; Biodiversität &gt; Fachinformationen &gt; Massnahmen &gt; Ökologische Infrastruktur &gt; Biotope von nationaler Bedeutung &gt; Trockenwiesen und -weiden
+[^3-2]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
+[^3-3]: [www.bafu.admin.ch](http://www.bafu.admin.ch/tww) &gt; Themen &gt; Biodiversität &gt; Ökologisch wertvolle Lebensräume fördern und vernetzen &gt; Biotope von nationaler Bedeutung &gt; Trockenwiesen und -weiden
 
 #### Art. 4
 
@@ -169,8 +169,8 @@ Solange die Kantone die nach den Artikeln 4 Absatz 1 und 8 erforderlichen Massna
 
 <sup>3</sup> Umfassen Objekte nach dieser Verordnung Flächen, die nach den Artikeln 55–62 der Direktzahlungsverordnung vom 23. Oktober 2013[^14-2] zu Beiträgen berechtigen sind, so werden für diese Flächen anstelle der Beiträge für die regelmässige Pflege nach den Artikeln 18 und 19 NHV Beiträge nach der Direktzahlungsverordnung gewährt.[^14-3]
 
-[^14-1]: [SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)
-[^14-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^14-1]: [SR 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167)
+[^14-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^14-3]: Fassung gemäss Anhang 9 Ziff. 6 der Direktzahlungsverordnung vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 15
@@ -211,8 +211,8 @@ Das BAFU erlässt im Einvernehmen mit dem Bundesamt für Landwirtschaft eine Vol
 
 <sup>2</sup> Die Umschreibung dieser Objekte ist in elektronischer Form[^19-2] und unentgeltlich zugänglich.
 
-[^19-1]: [SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)
-[^19-2]: www.bafu.admin.ch/tww
+[^19-1]: [SR 451.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7167)
+[^19-2]: [www.bafu.admin.ch/tww](http://www.bafu.admin.ch/tww)
 
 #### Art. 20
 
@@ -226,66 +226,67 @@ Anhang 1[^t-1]
 
 ## Liste der Trockenwiesen und -weiden von nationaler Bedeutung
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 29. Sept. 2017 ([AS 2017 5409](https://fedlex.data.admin.ch/eli/oc/2017/592)). Bereinigt gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4775](https://fedlex.data.admin.ch/eli/oc/2020/861)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 29. Sept. 2017 ([AS 2017 5409](https://fedlex.data.admin.ch/eli/oc/2017/592)). Bereinigt gemäss Ziff. I der V vom 21. Okt. 2020 ([AS 2020 4775](https://fedlex.data.admin.ch/eli/oc/2020/861)) und Ziff. I 4 der V vom 29. Okt. 2025 über die Biotope von nationaler Bedeutung, in Kraft seit 1. Dez. 2025 ([AS 2025 735](https://fedlex.data.admin.ch/eli/oc/2025/735)) und der Berichtigungen vom 1. Dez. 2025 ([AS 2025 773](https://fedlex.data.admin.ch/eli/oc/2025/773), [774](https://fedlex.data.admin.ch/eli/oc/2025/774)).
 
 <table>
 <tr><th>Nr.</th><th>Lokalität</th><th>Gemeinde(n)[^annex1-lvlu1-1]</th><th>Aufnahme</th><th>Revisionen</th></tr>
 <tr><td></td><td>Kanton Zürich</td><td></td><td></td><td></td></tr>
-<tr><td>3527</td><td>Schlatt</td><td>Unterstammheim</td><td>2010</td><td>2017</td></tr>
+<tr><td>3527</td><td>Schlatt</td><td>Stammheim</td><td>2010</td><td>2017/25</td></tr>
+<tr><td>3559</td><td>Weid</td><td>Fischenthal</td><td>2025</td><td></td></tr>
 <tr><td>3650</td><td>Lindenhof</td><td>Glattfelden</td><td>2010</td><td></td></tr>
 <tr><td>3672</td><td>Huser</td><td>Glattfelden</td><td>2017</td><td></td></tr>
+<tr><td>3701</td><td>Summerlust</td><td>Hochfelden</td><td>2025</td><td></td></tr>
+<tr><td>3703</td><td>Rebacher</td><td>Freienstein-Teufen</td><td>2025</td><td></td></tr>
+<tr><td>3710</td><td>Leuholz</td><td>Bauma</td><td>2025</td><td></td></tr>
+<tr><td>3715</td><td>Berg</td><td>Glattfelden</td><td>2025</td><td></td></tr>
 <tr><td>3725</td><td>Stallikon</td><td>Stallikon</td><td>2010</td><td></td></tr>
-<tr><td>3727</td><td>Nübrächten</td><td>Dättlikon</td><td>2010</td><td></td></tr>
+<tr><td>3727</td><td>Nübrächten</td><td>Dättlikon</td><td>2010</td><td>2025</td></tr>
 <tr><td>3728</td><td>Gartentobel</td><td>Zell</td><td>2010</td><td></td></tr>
 <tr><td>3730</td><td>Beschtentobel</td><td>Fischenthal</td><td>2010</td><td></td></tr>
-<tr><td>3731</td><td>Hörnen</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3732</td><td>Hard</td><td>Bülach</td><td>2010</td><td></td></tr>
-<tr><td>3733</td><td>Stampfi</td><td>Eglisau</td><td>2010</td><td></td></tr>
+<tr><td>3731</td><td>Hörnen</td><td>Bauma</td><td>2010</td><td>2025</td></tr>
+<tr><td>3732</td><td>Hard</td><td>Bülach</td><td>2010</td><td>2025</td></tr>
+<tr><td>3733</td><td>Stampfi</td><td>Eglisau</td><td>2010</td><td>2025</td></tr>
 <tr><td>3734</td><td>Schluechtächer</td><td>Turbenthal</td><td>2010</td><td></td></tr>
+<tr><td>3736</td><td>Tobelweid</td><td>Bauma</td><td>2025</td><td></td></tr>
 <tr><td>3737</td><td>Matt</td><td>Bauma</td><td>2010</td><td></td></tr>
 <tr><td>3738</td><td>Vogelsang</td><td>Bülach</td><td>2010</td><td></td></tr>
-<tr><td>3743</td><td>Brütten</td><td>Fischenthal</td><td>2010</td><td></td></tr>
-<tr><td>3746</td><td>Stigenweid</td><td>Turbenthal</td><td>2010</td><td></td></tr>
+<tr><td>3743</td><td>Brütten</td><td>Fischenthal</td><td>2010</td><td>2025</td></tr>
+<tr><td>3746</td><td>Stigenweid</td><td>Turbenthal</td><td>2010</td><td>2025</td></tr>
 <tr><td>3747</td><td>Brand</td><td>Wasterkingen</td><td>2010</td><td></td></tr>
-<tr><td>3748</td><td>Hard</td><td>Bülach</td><td>2010</td><td></td></tr>
 <tr><td>3749</td><td>Vorder Tobel</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3750</td><td>Eglisgrund</td><td>Eglisau</td><td>2010</td><td></td></tr>
+<tr><td>3750</td><td>Eglisgrund</td><td>Eglisau</td><td>2010</td><td>2025</td></tr>
 <tr><td>3751</td><td>Wolfenzädel</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3752</td><td>Weid</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3753</td><td>Halden</td><td>Bäretswil</td><td>2010</td><td></td></tr>
-<tr><td>3754</td><td>Bifig</td><td>Weiach</td><td>2010</td><td></td></tr>
+<tr><td>3752</td><td>Weid</td><td>Bauma</td><td>2010</td><td>2025</td></tr>
+<tr><td>3753</td><td>Halden</td><td>Bäretswil</td><td>2010</td><td>2025</td></tr>
+<tr><td>3754</td><td>Bifig</td><td>Weiach</td><td>2010</td><td>2025</td></tr>
 <tr><td>3755</td><td>Underäntschberg</td><td>Bassersdorf</td><td>2010</td><td></td></tr>
 <tr><td>3757</td><td>Fuchsloch</td><td>Fischenthal</td><td>2010</td><td></td></tr>
-<tr><td>3758</td><td>Lätten</td><td>Bauma</td><td>2010</td><td></td></tr>
+<tr><td>3758</td><td>Lätten</td><td>Bauma</td><td>2010</td><td>2025</td></tr>
 <tr><td>3760</td><td>Felsen</td><td>Embrach</td><td>2010</td><td></td></tr>
 <tr><td>3761</td><td>Lochacker</td><td>Kleinandelfingen</td><td>2010</td><td></td></tr>
 <tr><td>3762</td><td>Rüedi</td><td>Freienstein-Teufen</td><td>2010</td><td></td></tr>
-</table>
-
-<table>
-<tr><th>Nr.</th><th>Lokalität</th><th>Gemeinde(n)</th><th>Aufnahme</th><th>Revisionen</th></tr>
 <tr><td>3764</td><td>Auenriet</td><td>Rorbas</td><td>2010</td><td></td></tr>
 <tr><td>3765</td><td>Tobel</td><td>Turbenthal</td><td>2010</td><td></td></tr>
 <tr><td>3766</td><td>Nideltobel</td><td>Bauma</td><td>2010</td><td></td></tr>
 <tr><td>3767</td><td>Oberberg</td><td>Fischenthal</td><td>2010</td><td></td></tr>
-<tr><td>3771</td><td>Landbüel</td><td>Hüntwangen</td><td>2010</td><td></td></tr>
-<tr><td>3772</td><td>Büel</td><td>Wasterkingen</td><td>2010</td><td></td></tr>
-<tr><td>3773</td><td>Halden</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3774</td><td>Berenberg</td><td>Winterthur</td><td>2010</td><td></td></tr>
+<tr><td>3771</td><td>Landbüel</td><td>Hüntwangen</td><td>2010</td><td>2025</td></tr>
+<tr><td>3772</td><td>Büel</td><td>Wasterkingen</td><td>2010</td><td>2025</td></tr>
+<tr><td>3773</td><td>Halden</td><td>Bauma</td><td>2010</td><td>2025</td></tr>
+<tr><td>3774</td><td>Berenberg</td><td>Winterthur</td><td>2010</td><td>2025</td></tr>
 <tr><td>3776</td><td>Schlossbuck</td><td>Rafz</td><td>2010</td><td></td></tr>
-<tr><td>3777</td><td>Talmüli</td><td>Bachs</td><td>2010</td><td></td></tr>
+<tr><td>3777</td><td>Talmüli</td><td>Bachs</td><td>2010</td><td>2025</td></tr>
 <tr><td>3778</td><td>Cheibenacher</td><td>Dielsdorf</td><td>2010</td><td></td></tr>
-<tr><td>3780</td><td>Forbuck</td><td>Oberglatt</td><td>2010</td><td></td></tr>
-<tr><td>3781</td><td>Edelmann</td><td>Wasterkingen</td><td>2010</td><td></td></tr>
+<tr><td>3780</td><td>Forbuck</td><td>Oberglatt</td><td>2010</td><td>2025</td></tr>
+<tr><td>3781</td><td>Edelmann</td><td>Wasterkingen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3782</td><td>Schnäggen</td><td>Glattfelden</td><td>2010</td><td></td></tr>
 <tr><td>3783</td><td>Beschten</td><td>Fischenthal</td><td>2010</td><td></td></tr>
 <tr><td>3784</td><td>Frohberg</td><td>Dättlikon</td><td>2010</td><td></td></tr>
-<tr><td>3785</td><td>Ganeten</td><td>Benken</td><td>2010</td><td></td></tr>
+<tr><td>3785</td><td>Ganeten</td><td>Benken</td><td>2010</td><td>2025</td></tr>
 <tr><td>3786</td><td>Bleiki</td><td>Boppelsen</td><td>2010</td><td></td></tr>
-<tr><td>3788</td><td>Widmen</td><td>Stäfa</td><td>2010</td><td></td></tr>
+<tr><td>3788</td><td>Widmen</td><td>Stäfa</td><td>2010</td><td>2025</td></tr>
 <tr><td>3790</td><td>Froacher</td><td>Weisslingen</td><td>2010</td><td></td></tr>
 <tr><td>3791</td><td>Blumetshalde</td><td>Dättlikon</td><td>2010</td><td></td></tr>
-<tr><td>3792</td><td>Lindirain</td><td>Glattfelden</td><td>2010</td><td></td></tr>
+<tr><td>3792</td><td>Lindirain</td><td>Glattfelden</td><td>2010</td><td>2025</td></tr>
 <tr><td>3794</td><td>Dürrspitz</td><td>Wald</td><td>2010</td><td></td></tr>
 <tr><td>3795</td><td>Hinter Stig</td><td>Adliswil</td><td>2010</td><td></td></tr>
 <tr><td>3796</td><td>Ober Ror</td><td>Fischenthal</td><td>2010</td><td></td></tr>
@@ -297,79 +298,102 @@ Anhang 1[^t-1]
 <tr><td>3802</td><td>Moos</td><td>Waltalingen</td><td>2010</td><td></td></tr>
 <tr><td>3803</td><td>Letzibode</td><td>Bauma</td><td>2010</td><td></td></tr>
 <tr><td>3804</td><td>Leh</td><td>Freienstein-Teufen</td><td>2010</td><td></td></tr>
-<tr><td>3805</td><td>Oberholz</td><td>Dachsen</td><td>2010</td><td></td></tr>
-<tr><td>3806</td><td>Eich Köngistal</td><td>Zell</td><td>2010</td><td></td></tr>
+<tr><td>3805</td><td>Oberholz</td><td>Dachsen</td><td>2010</td><td>2025</td></tr>
+<tr><td>3806</td><td>Eich Köngistal</td><td>Zell</td><td>2010</td><td>2025</td></tr>
 <tr><td>3808</td><td>Rüteren</td><td>Weiach</td><td>2010</td><td>2017</td></tr>
 <tr><td>3809</td><td>Hinterfeld</td><td>Maschwanden</td><td>2010</td><td></td></tr>
 <tr><td>3810</td><td>Bachacker</td><td>Dinhard</td><td>2010</td><td></td></tr>
+<tr><td>3811</td><td>Metteli</td><td>Glattfelden</td><td>2025</td><td></td></tr>
 <tr><td>3812</td><td>Tössallmend</td><td>Pfungen</td><td>2010</td><td></td></tr>
 <tr><td>3813</td><td>Chöpfi</td><td>Winterthur</td><td>2010</td><td></td></tr>
 <tr><td>3814</td><td>Diebis</td><td>Stallikon</td><td>2010</td><td></td></tr>
-<tr><td>3815</td><td>Talgrueb</td><td>Freienstein-Teufen</td><td>2010</td><td></td></tr>
-<tr><td>3817</td><td>Stigenweid</td><td>Turbenthal</td><td>2010</td><td></td></tr>
+<tr><td>3815</td><td>Talgrueb</td><td>Freienstein-Teufen</td><td>2010</td><td>2025</td></tr>
+<tr><td>3817</td><td>Stigenweid</td><td>Turbenthal</td><td>2010</td><td>2025</td></tr>
 <tr><td>3818</td><td>Wigarten</td><td>Knonau</td><td>2010</td><td></td></tr>
-<tr><td>3819</td><td>Hegi</td><td>Turbenthal</td><td>2010</td><td></td></tr>
+<tr><td>3819</td><td>Hegi</td><td>Turbenthal</td><td>2010</td><td>2025</td></tr>
 <tr><td>3821</td><td>Ober Emmetschloo</td><td>Wetzikon</td><td>2010</td><td></td></tr>
 <tr><td>3822</td><td>Klarenwisen</td><td>Hochfelden</td><td>2010</td><td></td></tr>
 <tr><td>3826</td><td>Leutobel</td><td>Fischenthal</td><td>2010</td><td></td></tr>
-<tr><td>3828</td><td>Batzenegg</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3830</td><td>Rüti</td><td>Birmensdorf</td><td>2010</td><td></td></tr>
+<tr><td>3828</td><td>Batzenegg</td><td>Bauma</td><td>2010</td><td>2025</td></tr>
+<tr><td>3830</td><td>Rüti</td><td>Birmensdorf</td><td>2010</td><td>2025</td></tr>
 <tr><td>3832</td><td>Stutz</td><td>Elgg</td><td>2010</td><td></td></tr>
 <tr><td>3834</td><td>Zelg</td><td>Oberembrach</td><td>2010</td><td></td></tr>
 <tr><td>3836</td><td>Ebnet</td><td>Andelfingen</td><td>2010</td><td></td></tr>
 <tr><td>3837</td><td>Edlibuck</td><td>Oberembrach</td><td>2010</td><td></td></tr>
-<tr><td>3838</td><td>Chräenbüel</td><td>Elsau</td><td>2010</td><td></td></tr>
-<tr><td>3839</td><td>Burgweid</td><td>Zell</td><td>2010</td><td></td></tr>
-<tr><td>3842</td><td>Langgraben</td><td>Bülach</td><td>2010</td><td></td></tr>
+<tr><td>3838</td><td>Chräenbüel</td><td>Elsau</td><td>2010</td><td>2025</td></tr>
+<tr><td>3839</td><td>Burgweid</td><td>Zell</td><td>2010</td><td>2025</td></tr>
+<tr><td>3842</td><td>Langgraben</td><td>Bülach</td><td>2010</td><td>2025</td></tr>
 <tr><td>3845</td><td>Untergries</td><td>Flaach</td><td>2010</td><td></td></tr>
-<tr><td>3848</td><td>Bahndamm Chrützstrass</td><td>Glattfelden</td><td>2010</td><td></td></tr>
+<tr><td>3848</td><td>Bahndamm Chrützstrass</td><td>Glattfelden</td><td>2010</td><td>2025</td></tr>
 <tr><td>3849</td><td>Falletsche</td><td>Zürich</td><td>2010</td><td></td></tr>
-<tr><td>3850</td><td>Büel</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3851</td><td>Rotengübel</td><td>Fischenthal</td><td>2010</td><td></td></tr>
+<tr><td>3850</td><td>Büel</td><td>Bauma</td><td>2010</td><td>2025</td></tr>
+<tr><td>3851</td><td>Rotengübel</td><td>Fischenthal</td><td>2010</td><td>2025</td></tr>
 <tr><td>3853</td><td>Langweid</td><td>Adliswil</td><td>2010</td><td></td></tr>
-<tr><td>3859</td><td>Lätten</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3860</td><td>Dättnau</td><td>Winterthur</td><td>2010</td><td></td></tr>
+<tr><td>3859</td><td>Lätten</td><td>Bauma</td><td>2010</td><td>2025</td></tr>
+<tr><td>3860</td><td>Dättnau</td><td>Winterthur</td><td>2010</td><td>2025</td></tr>
 <tr><td>3861</td><td>Wydenchlösterli</td><td>Rüti</td><td>2010</td><td></td></tr>
-<tr><td>3862</td><td>Berghof</td><td>Pfungen</td><td>2010</td><td></td></tr>
+<tr><td>3862</td><td>Berghof</td><td>Pfungen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3863</td><td>Tägerst</td><td>Stallikon</td><td>2010</td><td></td></tr>
 <tr><td>3864</td><td>Rotlauben</td><td>Freienstein-Teufen</td><td>2010</td><td></td></tr>
-<tr><td>3867</td><td>Lätten Felsenhof</td><td>Weiach</td><td>2010</td><td></td></tr>
+<tr><td>3867</td><td>Lätten Felsenhof</td><td>Weiach</td><td>2010</td><td>2025</td></tr>
 <tr><td>3868</td><td>Wolfen</td><td>Stallikon</td><td>2010</td><td></td></tr>
 <tr><td>3869</td><td>Fröschen</td><td>Volketswil</td><td>2010</td><td></td></tr>
 <tr><td>3870</td><td>Alt Landenberg</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3871</td><td>Hochwacht</td><td>Trüllikon</td><td>2010</td><td></td></tr>
+<tr><td>3871</td><td>Hochwacht</td><td>Trüllikon</td><td>2010</td><td>2025</td></tr>
 <tr><td>3872</td><td>Streuweid</td><td>Hirzel</td><td>2010</td><td></td></tr>
 <tr><td>3874</td><td>Alp</td><td>Oetwil an der Limmat</td><td>2010</td><td></td></tr>
 <tr><td>3876</td><td>Holberg</td><td>Kloten</td><td>2010</td><td></td></tr>
 <tr><td>3877</td><td>Rossweg</td><td>Adliswil</td><td>2010</td><td></td></tr>
 <tr><td>3878</td><td>Brueder</td><td>Bachenbülach</td><td>2010</td><td></td></tr>
 <tr><td>3879</td><td>Heiletsegg</td><td>Bauma</td><td>2010</td><td></td></tr>
-<tr><td>3880</td><td>Langfuri</td><td>Elsau</td><td>2010</td><td></td></tr>
-<tr><td>3881</td><td>Wissen</td><td>Zell</td><td>2010</td><td></td></tr>
+<tr><td>3880</td><td>Langfuri</td><td>Elsau</td><td>2010</td><td>2025</td></tr>
+<tr><td>3881</td><td>Wissen</td><td>Zell</td><td>2010</td><td>2025</td></tr>
 <tr><td>3882</td><td>Tüfmatt</td><td>Oberglatt</td><td>2010</td><td></td></tr>
 <tr><td>3883</td><td>Allmend</td><td>Zürich</td><td>2010</td><td></td></tr>
 <tr><td>3885</td><td>Uerchen</td><td>Fischenthal</td><td>2010</td><td></td></tr>
 <tr><td>3886</td><td>Vorrain</td><td>Meilen</td><td>2010</td><td></td></tr>
 <tr><td>3887</td><td>Hoh Wülflingen</td><td>Winterthur</td><td>2010</td><td></td></tr>
-<tr><td>3888</td><td>Gentner</td><td>Eglisau, Hüntwangen</td><td>2010</td><td></td></tr>
+<tr><td>3888</td><td>Gentner</td><td>Eglisau, Hüntwangen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3889</td><td>Rötelibuck</td><td>Wasterkingen</td><td>2010</td><td></td></tr>
 <tr><td>3890</td><td>Schwendli</td><td>Glattfelden</td><td>2010</td><td></td></tr>
-<tr><td>3894</td><td>Buchenhof</td><td>Flaach</td><td>2010</td><td></td></tr>
+<tr><td>3894</td><td>Buchenhof</td><td>Flaach</td><td>2010</td><td>2025</td></tr>
 <tr><td>3895</td><td>Tal</td><td>Zürich</td><td>2010</td><td></td></tr>
 <tr><td>3897</td><td>Oberschwendli</td><td>Glattfelden</td><td>2010</td><td></td></tr>
-<tr><td>3898</td><td>Breiti</td><td>Wildberg</td><td>2010</td><td></td></tr>
-<tr><td>3900</td><td>Dübendorf</td><td>Wallisellen</td><td>2010</td><td></td></tr>
-<tr><td>3922</td><td>Eichhalden</td><td>Eglisau</td><td>2010</td><td></td></tr>
-<tr><td>3934</td><td>Linden</td><td>Hüntwangen</td><td>2017</td><td></td></tr>
+<tr><td>3898</td><td>Breiti</td><td>Wildberg</td><td>2010</td><td>2025</td></tr>
+<tr><td>3900</td><td>Dübendorf</td><td>Wallisellen</td><td>2010</td><td>2025</td></tr>
+<tr><td>3922</td><td>Eichhalden</td><td>Eglisau</td><td>2010</td><td>2025</td></tr>
+<tr><td>3934</td><td>Linden</td><td>Hüntwangen</td><td>2017</td><td>2025</td></tr>
 <tr><td>3935</td><td>Summerhalden</td><td>Flurlingen</td><td>2017</td><td></td></tr>
 <tr><td>3936</td><td>Ifang</td><td>Kloten</td><td>2017</td><td></td></tr>
 <tr><td>3938</td><td>Glatt</td><td>Glattfelden</td><td>2017</td><td></td></tr>
 <tr><td>3939</td><td>Underäntschberg</td><td>Kloten</td><td>2017</td><td></td></tr>
+<tr><td>3947</td><td>Au</td><td>Rheinau</td><td>2025</td><td></td></tr>
+<tr><td>3948</td><td>Breiti</td><td>Wildberg</td><td>2025</td><td></td></tr>
+<tr><td>3949</td><td>Brunau</td><td>Zürich</td><td>2025</td><td></td></tr>
+<tr><td>3950</td><td>Im Bruni</td><td>Pfungen</td><td>2025</td><td></td></tr>
+<tr><td>3951</td><td>Chellerhals</td><td>Bülach</td><td>2025</td><td></td></tr>
+<tr><td>3952</td><td>Chrader</td><td>Andelfingen</td><td>2025</td><td></td></tr>
+<tr><td>3954</td><td>Weier</td><td>Stallikon</td><td>2025</td><td></td></tr>
+<tr><td>3955</td><td>Gäuschen</td><td>Rheinau</td><td>2025</td><td></td></tr>
+<tr><td>3956</td><td>Goggelswald</td><td>Fischenthal</td><td>2025</td><td></td></tr>
+<tr><td>3959</td><td>Güetli</td><td>Birmensdorf</td><td>2025</td><td></td></tr>
+<tr><td>3960</td><td>Lindirain</td><td>Glattfelden</td><td>2025</td><td></td></tr>
+<tr><td>3962</td><td>Neuhus</td><td>Glattfelden</td><td>2025</td><td></td></tr>
+<tr><td>3963</td><td>Risigrund</td><td>Fischenthal</td><td>2025</td><td></td></tr>
+<tr><td>3964</td><td>Rüteren</td><td>Weiach</td><td>2025</td><td></td></tr>
+<tr><td>3965</td><td>Rüti</td><td>Bülach</td><td>2025</td><td></td></tr>
+<tr><td>3967</td><td>Huswis</td><td>Wildberg</td><td>2025</td><td></td></tr>
+<tr><td>3968</td><td>Schübel</td><td>Küsnacht</td><td>2025</td><td></td></tr>
+<tr><td>3969</td><td>Talau</td><td>Wila</td><td>2025</td><td></td></tr>
+<tr><td>3970</td><td>Untergries</td><td>Kleinandelfingen</td><td>2025</td><td></td></tr>
+<tr><td>3971</td><td>Werd</td><td>Hochfelden</td><td>2025</td><td></td></tr>
+<tr><td>3972</td><td>Zelgli</td><td>Glattfelden</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Kanton Bern</td><td></td><td></td><td></td></tr>
 <tr><td>5004</td><td>Graggen-Rächtli</td><td>Ringgenberg</td><td>2010</td><td></td></tr>
 <tr><td>5007</td><td>Weidli</td><td>Ringgenberg</td><td>2010</td><td></td></tr>
 <tr><td>5010</td><td>Widi</td><td>Niederried bei Interlaken, Ringgenberg</td><td>2010</td><td>2017</td></tr>
 <tr><td>5016</td><td>Rüppi</td><td>Ringgenberg</td><td>2010</td><td>2017</td></tr>
+<tr><td>5017</td><td>Weid</td><td>Iseltwald</td><td>2025</td><td></td></tr>
 <tr><td>5018</td><td>Am Hubel</td><td>Niederried bei Interlaken</td><td>2010</td><td></td></tr>
 <tr><td>5019</td><td>Schreielberg</td><td>Ringgenberg</td><td>2010</td><td></td></tr>
 <tr><td>5029</td><td>Bärenloch</td><td>Ringgenberg</td><td>2010</td><td></td></tr>
@@ -385,17 +409,17 @@ Anhang 1[^t-1]
 <tr><td>5065</td><td>Gempelebärgli</td><td>Frutigen</td><td>2010</td><td>2017</td></tr>
 <tr><td>5066</td><td>Meise</td><td>Frutigen</td><td>2010</td><td></td></tr>
 <tr><td>5068</td><td>Halte</td><td>Frutigen</td><td>2010</td><td></td></tr>
-<tr><td>5071</td><td>Wildi</td><td>Frutigen</td><td>2010</td><td></td></tr>
+<tr><td>5071</td><td>Wildi</td><td>Frutigen</td><td>2010</td><td>2025</td></tr>
 <tr><td>5073</td><td>La Belle Etoile</td><td>Petit-Val</td><td>2010</td><td></td></tr>
 <tr><td>5075</td><td>Ryschere</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5076</td><td>Waachli</td><td>Oberwil im Simmental</td><td>2010</td><td>2017</td></tr>
 <tr><td>5077</td><td>Oberarni</td><td>Hasliberg</td><td>2010</td><td></td></tr>
-<tr><td>5078</td><td>Gummenalp</td><td>Hofstetten bei Brienz</td><td>2010</td><td></td></tr>
+<tr><td>5078</td><td>Gummenalp</td><td>Hofstetten bei Brienz</td><td>2010</td><td>2025</td></tr>
 <tr><td>5079</td><td>Brüch</td><td>Lauterbrunnen</td><td>2010</td><td></td></tr>
 <tr><td>5080</td><td>Thierachern-Allmid</td><td>Thierachern, Thun</td><td>2010</td><td></td></tr>
 <tr><td>5081</td><td>Chratzi</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5082</td><td>Reidige</td><td>Boltigen</td><td>2010</td><td></td></tr>
-<tr><td>5083</td><td>Underchlusi</td><td>Erlenbach im Simmental</td><td>2010</td><td>2017</td></tr>
+<tr><td>5083</td><td>Underchlusi</td><td>Erlenbach im Simmental</td><td>2017</td><td></td></tr>
 <tr><td>5084</td><td>Mittelweid</td><td>Därstetten</td><td>2010</td><td>2017</td></tr>
 <tr><td>5085</td><td>Albristhubel</td><td>St. Stephan</td><td>2010</td><td></td></tr>
 <tr><td>5086</td><td>Obersteinberg</td><td>Lauterbrunnen</td><td>2010</td><td>2017</td></tr>
@@ -403,32 +427,34 @@ Anhang 1[^t-1]
 <tr><td>5088</td><td>Bunderspitz</td><td>Adelboden</td><td>2010</td><td></td></tr>
 <tr><td>5090</td><td>Le Gibet</td><td>La Neuveville</td><td>2010</td><td></td></tr>
 <tr><td>5091</td><td>Mosbielen</td><td>Hasliberg</td><td>2010</td><td></td></tr>
-<tr><td>5093</td><td>Matte</td><td>Lauenen, Lenk</td><td>2010</td><td>2017</td></tr>
+<tr><td>5093</td><td>Matte</td><td>Lauenen, Lenk</td><td>2017</td><td></td></tr>
 <tr><td>5094</td><td>Reckholderli</td><td>Saanen</td><td>2010</td><td>2017</td></tr>
-<tr><td>5095</td><td>Färmelmeder</td><td>St. Stephan</td><td>2010</td><td></td></tr>
+<tr><td>5095</td><td>Färmelmeder</td><td>St. Stephan</td><td>2010</td><td>2025</td></tr>
 <tr><td>5097</td><td>Wilervorsess</td><td>Brienzwiler</td><td>2010</td><td>2017</td></tr>
 <tr><td>5098</td><td>Egritz</td><td>Grindelwald</td><td>2010</td><td></td></tr>
 <tr><td>5099</td><td>Laubwang</td><td>Hasliberg</td><td>2010</td><td></td></tr>
-<tr><td>5100</td><td>Ällmereweide</td><td>Erlenbach im Simmental</td><td>2010</td><td>2017</td></tr>
-<tr><td>5101</td><td>Schilt</td><td>Lütschental</td><td>2010</td><td>2017</td></tr>
+<tr><td>5100</td><td>Ällmereweide</td><td>Erlenbach im Simmental</td><td>2017</td><td></td></tr>
+<tr><td>5101</td><td>Schilt</td><td>Lütschental</td><td>2017</td><td></td></tr>
 <tr><td>5102</td><td>Hintere Walop</td><td>Boltigen</td><td>2010</td><td>2017</td></tr>
 <tr><td>5103</td><td>Zind</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5104</td><td>Underste Gurbs</td><td>Diemtigen</td><td>2010</td><td></td></tr>
-<tr><td>5106</td><td>Höhi Egg</td><td>Ringgenberg</td><td>2010</td><td>2017</td></tr>
+<tr><td>5106</td><td>Höhi Egg</td><td>Ringgenberg</td><td>2017</td><td></td></tr>
 <tr><td>5107</td><td>Aabeberg</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5108</td><td>Räbersegg</td><td>Erlenbach im Simmental</td><td>2010</td><td>2017</td></tr>
 <tr><td>5109</td><td>Galm</td><td>St. Stephan</td><td>2010</td><td></td></tr>
 <tr><td>5111</td><td>Pfaffebergmäder</td><td>Saanen</td><td>2010</td><td></td></tr>
 <tr><td>5112</td><td>Im Aabe</td><td>Reichenbach im Kandertal</td><td>2010</td><td>2017</td></tr>
 <tr><td>5113</td><td>Grümberg</td><td>Gsteig</td><td>2010</td><td></td></tr>
-<tr><td>5114</td><td>Meielsgrund</td><td>Saanen</td><td>2010</td><td>2017</td></tr>
+<tr><td>5114</td><td>Meielsgrund</td><td>Saanen</td><td>2017</td><td></td></tr>
 <tr><td>5116</td><td>Tschingel</td><td>Grindelwald, Lütschental</td><td>2010</td><td>2017</td></tr>
 <tr><td>5117</td><td>Chuelouenen</td><td>Därstetten</td><td>2010</td><td>2017</td></tr>
 <tr><td>5118</td><td>Pavillon</td><td>Biel/Bienne</td><td>2010</td><td></td></tr>
 <tr><td>5120</td><td>Tschäggere</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5124</td><td>Fangweid</td><td>Boltigen</td><td>2010</td><td></td></tr>
 <tr><td>5125</td><td>Riggis</td><td>Frutigen</td><td>2010</td><td></td></tr>
+<tr><td>5126</td><td>Rinderbiel</td><td>Brienz</td><td>2025</td><td></td></tr>
 <tr><td>5127</td><td>Weng</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
+<tr><td>5128</td><td>Fallbachhubel</td><td>Stocken-Höfen</td><td>2025</td><td></td></tr>
 <tr><td>5129</td><td>Linterbärgli</td><td>Frutigen</td><td>2010</td><td></td></tr>
 <tr><td>5130</td><td>Blankenburg</td><td>Zweisimmen</td><td>2010</td><td></td></tr>
 <tr><td>5131</td><td>Geeristei</td><td>Därstetten, Erlenbach im Simmental</td><td>2010</td><td>2017</td></tr>
@@ -439,7 +465,7 @@ Anhang 1[^t-1]
 <tr><td>5138</td><td>Halte</td><td>St. Stephan</td><td>2010</td><td>2017</td></tr>
 <tr><td>5139</td><td>Bort</td><td>Grindelwald</td><td>2010</td><td></td></tr>
 <tr><td>5140</td><td>Arisberg</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
-<tr><td>5143</td><td>Tüüchtelwengli</td><td>Sigriswil</td><td>2010</td><td></td></tr>
+<tr><td>5143</td><td>Tüüchtelwengli</td><td>Sigriswil</td><td>2010</td><td>2025</td></tr>
 <tr><td>5145</td><td>In de Brüche</td><td>Lenk</td><td>2010</td><td></td></tr>
 <tr><td>5147</td><td>Allmi</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5148</td><td>Leitereweideni</td><td>Oberwil im Simmental</td><td>2010</td><td></td></tr>
@@ -448,7 +474,7 @@ Anhang 1[^t-1]
 <tr><td>5158</td><td>Gugger</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5159</td><td>Gläckmeder</td><td>St. Stephan</td><td>2010</td><td></td></tr>
 <tr><td>5163</td><td>Wenden</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
-<tr><td>5164</td><td>Muri</td><td>St. Stephan</td><td>2010</td><td></td></tr>
+<tr><td>5164</td><td>Muri</td><td>St. Stephan</td><td>2010</td><td>2025</td></tr>
 <tr><td>5167</td><td>Nüjeberg</td><td>Boltigen</td><td>2010</td><td></td></tr>
 <tr><td>5168</td><td>Unders Gälmi</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5170</td><td>Obri Ammerta</td><td>Lauterbrunnen</td><td>2010</td><td></td></tr>
@@ -457,10 +483,10 @@ Anhang 1[^t-1]
 <tr><td>5175</td><td>Wolfsgruebeweid</td><td>Oberwil im Simmental</td><td>2010</td><td></td></tr>
 <tr><td>5176</td><td>Sengg</td><td>Lütschental</td><td>2010</td><td></td></tr>
 <tr><td>5177</td><td>Houete</td><td>Oberwil im Simmental</td><td>2010</td><td></td></tr>
-<tr><td>5179</td><td>Tannersgrabe</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
+<tr><td>5179</td><td>Tannersgrabe</td><td>Reichenbach im Kandertal</td><td>2010</td><td>2025</td></tr>
 <tr><td>5182</td><td>Wanne</td><td>Kandergrund</td><td>2010</td><td></td></tr>
 <tr><td>5183</td><td>Bielenweid</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
-<tr><td>5186</td><td>Albristmeder</td><td>St. Stephan</td><td>2010</td><td></td></tr>
+<tr><td>5186</td><td>Albristmeder</td><td>St. Stephan</td><td>2010</td><td>2025</td></tr>
 <tr><td>5190</td><td>Otteremeder</td><td>Adelboden, Frutigen</td><td>2010</td><td>2017</td></tr>
 <tr><td>5194</td><td>Schauenegg</td><td>Zweisimmen</td><td>2010</td><td>2017</td></tr>
 <tr><td>5195</td><td>Chöldrist</td><td>Lenk</td><td>2010</td><td></td></tr>
@@ -470,8 +496,10 @@ Anhang 1[^t-1]
 <tr><td>5210</td><td>Teller</td><td>Erlenbach im Simmental</td><td>2010</td><td></td></tr>
 <tr><td>5214</td><td>Scharte</td><td>Gsteigwiler</td><td>2010</td><td></td></tr>
 <tr><td>5215</td><td>Stafel</td><td>Iseltwald</td><td>2010</td><td>2017</td></tr>
+<tr><td>5216</td><td>Färrichstetten</td><td>Innertkirchen</td><td>2025</td><td></td></tr>
 <tr><td>5217</td><td>Gütsch</td><td>Sigriswil</td><td>2010</td><td></td></tr>
 <tr><td>5219</td><td>Chäleweid</td><td>Zweisimmen</td><td>2017</td><td></td></tr>
+<tr><td>5221</td><td>Chalchofe</td><td>Aeschi bei Spiez</td><td>2025</td><td></td></tr>
 <tr><td>5224</td><td>Albristmeder</td><td>St. Stephan</td><td>2010</td><td></td></tr>
 <tr><td>5225</td><td>Sali</td><td>Oberwil im Simmental</td><td>2010</td><td></td></tr>
 <tr><td>5226</td><td>Chanderbrüggallmi</td><td>Frutigen</td><td>2010</td><td></td></tr>
@@ -482,11 +510,13 @@ Anhang 1[^t-1]
 <tr><td>5238</td><td>Linterbärgli</td><td>Frutigen</td><td>2010</td><td></td></tr>
 <tr><td>5242</td><td>Buechistock</td><td>Boltigen</td><td>2010</td><td>2017</td></tr>
 <tr><td>5243</td><td>Schwanderbärgli</td><td>Schwanden bei Brienz</td><td>2010</td><td></td></tr>
-<tr><td>5247</td><td>Schwendi</td><td>Wilderswil</td><td>2010</td><td></td></tr>
+<tr><td>5247</td><td>Schwendi</td><td>Wilderswil</td><td>2010</td><td>2025</td></tr>
 <tr><td>5248</td><td>Senggi</td><td>Kandergrund</td><td>2010</td><td></td></tr>
 <tr><td>5249</td><td>Farniweid</td><td>Oberwil im Simmental</td><td>2010</td><td>2017</td></tr>
 <tr><td>5251</td><td>Steinacher</td><td>Därstetten</td><td>2010</td><td></td></tr>
+<tr><td>5256</td><td>Sagiweidli</td><td>Diemtigen</td><td>2025</td><td></td></tr>
 <tr><td>5258</td><td>Im Stutz</td><td>Erlenbach im Simmental</td><td>2010</td><td></td></tr>
+<tr><td>5261</td><td>Schlattegg</td><td>Schwanden bei Brienz</td><td>2025</td><td></td></tr>
 <tr><td>5262</td><td>Rosenegg</td><td>Erlenbach im Simmental</td><td>2010</td><td></td></tr>
 <tr><td>5265</td><td>Undri Hagweid</td><td>Iseltwald</td><td>2010</td><td></td></tr>
 <tr><td>5267</td><td>Sytiweidleni</td><td>Wilderswil</td><td>2010</td><td></td></tr>
@@ -530,7 +560,7 @@ Anhang 1[^t-1]
 <tr><td>5364</td><td>Obermad</td><td>Brienz</td><td>2010</td><td></td></tr>
 <tr><td>5367</td><td>Chalberstall</td><td>Krattigen</td><td>2010</td><td></td></tr>
 <tr><td>5369</td><td>Rond Bois</td><td>Ligerz</td><td>2010</td><td></td></tr>
-<tr><td>5370</td><td>Staldi</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
+<tr><td>5370</td><td>Staldi</td><td>Innertkirchen</td><td>2010</td><td>2025</td></tr>
 <tr><td>5371</td><td>Obwang</td><td>Brienz</td><td>2010</td><td></td></tr>
 <tr><td>5381</td><td>Holestei</td><td>Twann-Tüscherz</td><td>2010</td><td></td></tr>
 <tr><td>5384</td><td>Gwiggi</td><td>Hasliberg</td><td>2010</td><td></td></tr>
@@ -539,6 +569,7 @@ Anhang 1[^t-1]
 <tr><td>5402</td><td>Weidboden</td><td>Grindelwald</td><td>2010</td><td></td></tr>
 <tr><td>5406</td><td>Schwanderbärgli</td><td>Schwanden bei Brienz</td><td>2010</td><td></td></tr>
 <tr><td>5407</td><td>Wiler</td><td>Sigriswil</td><td>2010</td><td></td></tr>
+<tr><td>5415</td><td>Kritz</td><td>Hofstetten bei Brienz</td><td>2025</td><td></td></tr>
 <tr><td>5417</td><td>Bärenegg</td><td>Sigriswil</td><td>2010</td><td>2017</td></tr>
 <tr><td>5420</td><td>Ruine Festi</td><td>Oberwil im Simmental</td><td>2010</td><td></td></tr>
 <tr><td>5424</td><td>Chasseral</td><td>Nods, Villeret</td><td>2010</td><td></td></tr>
@@ -551,7 +582,7 @@ Anhang 1[^t-1]
 <tr><td>5435</td><td>Le Piémont</td><td>Courtelary</td><td>2010</td><td></td></tr>
 <tr><td>5436</td><td>Lengachere</td><td>Reichenbach im Kandertal</td><td>2010</td><td>2017</td></tr>
 <tr><td>5437</td><td>Pâturage des Esserts</td><td>Sauge</td><td>2010</td><td></td></tr>
-<tr><td>5438</td><td>Pâturage aux Vaches</td><td>Péry-La Heutte</td><td>2010</td><td>2017</td></tr>
+<tr><td>5438</td><td>Pâturage aux Vaches</td><td>Péry-La Heutte</td><td>2017</td><td></td></tr>
 <tr><td>5439</td><td>Le Brahon</td><td>Sonceboz-Sombeval</td><td>2010</td><td></td></tr>
 <tr><td>5440</td><td>La Citerne</td><td>Nods</td><td>2010</td><td></td></tr>
 <tr><td>5442</td><td>Grencheberg</td><td>Guggisberg</td><td>2010</td><td></td></tr>
@@ -588,7 +619,7 @@ Anhang 1[^t-1]
 <tr><td>5504</td><td>Geissbach</td><td>Eggiwil</td><td>2010</td><td></td></tr>
 <tr><td>5505</td><td>Winteregg</td><td>Kandersteg</td><td>2010</td><td></td></tr>
 <tr><td>5510</td><td>Le Grimm</td><td>Tavannes</td><td>2010</td><td></td></tr>
-<tr><td>5511</td><td>Brenggenmeder</td><td>Lenk</td><td>2010</td><td></td></tr>
+<tr><td>5511</td><td>Brenggenmeder</td><td>Lenk</td><td>2010</td><td>2025</td></tr>
 <tr><td>5513</td><td>Louweid</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5516</td><td>Schöneberg</td><td>Schelten</td><td>2010</td><td></td></tr>
 <tr><td>5522</td><td>Imihubel</td><td>Niedermuhlern</td><td>2010</td><td></td></tr>
@@ -607,13 +638,14 @@ Anhang 1[^t-1]
 <tr><td>5560</td><td>Laupenau</td><td>Laupen</td><td>2010</td><td></td></tr>
 <tr><td>5562</td><td>Gampelen</td><td>Gampelen</td><td>2010</td><td></td></tr>
 <tr><td>5563</td><td>Pâturage de Sagne</td><td>Sauge</td><td>2010</td><td></td></tr>
-<tr><td>5567</td><td>Gümmenenau</td><td>Ferenbalm, Laupen</td><td>2010</td><td></td></tr>
-<tr><td>5571</td><td>Bir länge Stude</td><td>Müntschemier</td><td>2010</td><td></td></tr>
+<tr><td>5567</td><td>Gümmenenau</td><td>Ferenbalm, Laupen</td><td>2010</td><td>2025</td></tr>
+<tr><td>5570</td><td>Schmalzgruben</td><td>Kirchdorf</td><td>2025</td><td></td></tr>
+<tr><td>5571</td><td>Bir länge Stude</td><td>Ins, Müntschemier</td><td>2010</td><td>2025</td></tr>
 <tr><td>5572</td><td>Golsenrainacher</td><td>Bargen</td><td>2010</td><td></td></tr>
-<tr><td>5574</td><td>Blatteree</td><td>Müntschemier</td><td>2010</td><td></td></tr>
-<tr><td>5576</td><td>Laupenau</td><td>Laupen</td><td>2010</td><td></td></tr>
+<tr><td>5574</td><td>Blatteree</td><td>Müntschemier</td><td>2010</td><td>2025</td></tr>
+<tr><td>5576</td><td>Laupenau</td><td>Laupen</td><td>2010</td><td>2025</td></tr>
 <tr><td>5577</td><td>Müligrien</td><td>Lyss</td><td>2010</td><td></td></tr>
-<tr><td>5579</td><td>Blatteree</td><td>Müntschemier</td><td>2010</td><td></td></tr>
+<tr><td>5579</td><td>Blatteree</td><td>Müntschemier</td><td>2010</td><td>2025</td></tr>
 <tr><td>5582</td><td>Schafberg</td><td>Lenk</td><td>2010</td><td></td></tr>
 <tr><td>5583</td><td>Im Wengen</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
 <tr><td>5584</td><td>Alpligen</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
@@ -622,7 +654,7 @@ Anhang 1[^t-1]
 <tr><td>5591</td><td>Schopf</td><td>Erlenbach im Simmental</td><td>2010</td><td>2017</td></tr>
 <tr><td>5592</td><td>Biglera</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5593</td><td>Lusbüel</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
-<tr><td>5596</td><td>Oberberg</td><td>Lauterbrunnen</td><td>2010</td><td></td></tr>
+<tr><td>5596</td><td>Oberberg</td><td>Lauterbrunnen</td><td>2010</td><td>2025</td></tr>
 <tr><td>5597</td><td>Unterniesen</td><td>Reichenbach im Kandertal</td><td>2010</td><td></td></tr>
 <tr><td>5598</td><td>Undrem Tritt</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
 <tr><td>5602</td><td>Chlus</td><td>Boltigen</td><td>2010</td><td></td></tr>
@@ -630,7 +662,7 @@ Anhang 1[^t-1]
 <tr><td>5605</td><td>Louweli</td><td>Kandergrund</td><td>2010</td><td>2017</td></tr>
 <tr><td>5606</td><td>Sandey</td><td>Innertkirchen</td><td>2010</td><td></td></tr>
 <tr><td>5607</td><td>Ladholzgrabe</td><td>Frutigen</td><td>2010</td><td></td></tr>
-<tr><td>5608</td><td>Gümmenenau</td><td>Ferenbalm</td><td>2010</td><td></td></tr>
+<tr><td>5608</td><td>Gümmenenau</td><td>Ferenbalm</td><td>2010</td><td>2025</td></tr>
 <tr><td>5612</td><td>Müllersbode</td><td>Erlenbach im Simmental</td><td>2010</td><td></td></tr>
 <tr><td>5615</td><td>Tussweid</td><td>Frutigen</td><td>2010</td><td></td></tr>
 <tr><td>5616</td><td>Husallmi</td><td>Erlenbach im Simmental</td><td>2010</td><td></td></tr>
@@ -696,7 +728,7 @@ Anhang 1[^t-1]
 <tr><td>5710</td><td>Wyssebachgrabe</td><td>Oberwil im Simmental</td><td>2017</td><td></td></tr>
 <tr><td>5711</td><td>Unders Chirgeli</td><td>Diemtigen</td><td>2017</td><td></td></tr>
 <tr><td>5713</td><td>Bärgli</td><td>Boltigen</td><td>2017</td><td></td></tr>
-<tr><td>5714</td><td>Houete</td><td>Diemtigen</td><td>2017</td><td></td></tr>
+<tr><td>5714</td><td>Houete</td><td>Diemtigen</td><td>2017</td><td>2025</td></tr>
 <tr><td>5716</td><td>Oberried</td><td>Boltigen</td><td>2017</td><td></td></tr>
 <tr><td>5718</td><td>Flüeschwand</td><td>Diemtigen</td><td>2017</td><td></td></tr>
 <tr><td>5719</td><td>Schlatti</td><td>Diemtigen</td><td>2017</td><td></td></tr>
@@ -727,7 +759,7 @@ Anhang 1[^t-1]
 <tr><td>5758</td><td>Hürliwald</td><td>Därstetten</td><td>2017</td><td></td></tr>
 <tr><td>5762</td><td>Dähli</td><td>Diemtigen</td><td>2017</td><td></td></tr>
 <tr><td>5763</td><td>Aspi</td><td>Därstetten</td><td>2017</td><td></td></tr>
-<tr><td>5764</td><td>Schönbüel</td><td>Diemtigen</td><td>2017</td><td></td></tr>
+<tr><td>5764</td><td>Schönbüel</td><td>Diemtigen</td><td>2017</td><td>2025</td></tr>
 <tr><td>5767</td><td>Im Bode</td><td>Sigriswil</td><td>2017</td><td></td></tr>
 <tr><td>5768</td><td>Blasi</td><td>Gündlischwand</td><td>2017</td><td></td></tr>
 <tr><td>5769</td><td>Grossdorf</td><td>Erlenbach im Simmental</td><td>2017</td><td></td></tr>
@@ -766,7 +798,7 @@ Anhang 1[^t-1]
 <tr><td>5810</td><td>Hasli</td><td>Saanen</td><td>2017</td><td></td></tr>
 <tr><td>5811</td><td>Underenegg</td><td>Boltigen</td><td>2017</td><td></td></tr>
 <tr><td>5812</td><td>Riedbode</td><td>Zweisimmen</td><td>2017</td><td></td></tr>
-<tr><td>5813</td><td>Undere Giesene</td><td>Kandergrund</td><td>2017</td><td></td></tr>
+<tr><td>5813</td><td>Undere Giesene</td><td>Kandergrund</td><td>2017</td><td>2025</td></tr>
 <tr><td>5814</td><td>Seiberg</td><td>Saanen</td><td>2017</td><td></td></tr>
 <tr><td>5815</td><td>Erle</td><td>St. Stephan</td><td>2017</td><td></td></tr>
 <tr><td>5817</td><td>Nüschlete</td><td>Boltigen</td><td>2017</td><td></td></tr>
@@ -785,7 +817,7 @@ Anhang 1[^t-1]
 <tr><td>5833</td><td>Schrind</td><td>Grindelwald</td><td>2017</td><td></td></tr>
 <tr><td>5834</td><td>Wilde Bode</td><td>Saanen</td><td>2017</td><td></td></tr>
 <tr><td>5835</td><td>Rittmal</td><td>Saanen</td><td>2017</td><td></td></tr>
-<tr><td>5836</td><td>Port</td><td>Boltigen</td><td>2017</td><td></td></tr>
+<tr><td>5836</td><td>Port</td><td>Boltigen</td><td>2017</td><td>2025</td></tr>
 <tr><td>5837</td><td>Tschärzis</td><td>Gsteig</td><td>2017</td><td></td></tr>
 <tr><td>5840</td><td>Ischboden</td><td>Grindelwald</td><td>2017</td><td></td></tr>
 <tr><td>5841</td><td>Spycheren</td><td>Oberried am Brienzersee</td><td>2017</td><td></td></tr>
@@ -796,7 +828,7 @@ Anhang 1[^t-1]
 <tr><td>5847</td><td>Rote Wang</td><td>Innertkirchen</td><td>2017</td><td></td></tr>
 <tr><td>5850</td><td>Rotschalp</td><td>Brienz</td><td>2017</td><td></td></tr>
 <tr><td>5852</td><td>Eggeschwand</td><td>Kandersteg</td><td>2017</td><td></td></tr>
-<tr><td>5853</td><td>Horlaui</td><td>Innertkirchen</td><td>2017</td><td></td></tr>
+<tr><td>5853</td><td>Horlaui</td><td>Innertkirchen</td><td>2017</td><td>2025</td></tr>
 <tr><td>5856</td><td>Loos</td><td>Boltigen</td><td>2017</td><td></td></tr>
 <tr><td>5857</td><td>Tristli</td><td>Kandergrund</td><td>2017</td><td></td></tr>
 <tr><td>5858</td><td>Stotzweid</td><td>Grindelwald</td><td>2017</td><td></td></tr>
@@ -816,7 +848,7 @@ Anhang 1[^t-1]
 <tr><td>5877</td><td>Saass</td><td>Hasliberg</td><td>2017</td><td></td></tr>
 <tr><td>5878</td><td>Schafweidli</td><td>Lenk</td><td>2017</td><td></td></tr>
 <tr><td>5879</td><td>Fürholz</td><td>Saanen</td><td>2017</td><td></td></tr>
-<tr><td>5881</td><td>Obers Holaas</td><td>Zweisimmen</td><td>2017</td><td></td></tr>
+<tr><td>5881</td><td>Obers Holaas</td><td>Zweisimmen</td><td>2017</td><td>2025</td></tr>
 <tr><td>5883</td><td>Gibel</td><td>Saanen</td><td>2017</td><td></td></tr>
 <tr><td>5884</td><td>Moosläger</td><td>Boltigen</td><td>2017</td><td></td></tr>
 <tr><td>5885</td><td>Rotschalp</td><td>Brienz</td><td>2017</td><td></td></tr>
@@ -832,7 +864,7 @@ Anhang 1[^t-1]
 <tr><td>5900</td><td>Reeji</td><td>Gsteig</td><td>2017</td><td></td></tr>
 <tr><td>5902</td><td>Undere Stutz</td><td>Saanen</td><td>2017</td><td></td></tr>
 <tr><td>5903</td><td>Unders Dürri</td><td>Saanen</td><td>2017</td><td></td></tr>
-<tr><td>5904</td><td>Louene</td><td>Aeschi bei Spiez</td><td>2017</td><td></td></tr>
+<tr><td>5904</td><td>Louene</td><td>Aeschi bei Spiez</td><td>2017</td><td>2025</td></tr>
 <tr><td>5907</td><td>Ufem Port</td><td>Lenk</td><td>2017</td><td></td></tr>
 <tr><td>5908</td><td>Loch</td><td>Lauenen</td><td>2017</td><td></td></tr>
 <tr><td>5909</td><td>Roti Vorschess</td><td>Saanen</td><td>2017</td><td></td></tr>
@@ -930,14 +962,14 @@ Anhang 1[^t-1]
 <tr><td>12150</td><td>Bützi</td><td>Lauenen</td><td>2017</td><td></td></tr>
 <tr><td>12153</td><td>Acherli</td><td>Oberried am Brienzersee</td><td>2017</td><td></td></tr>
 <tr><td>12158</td><td>Fangmatte</td><td>Lauenen</td><td>2017</td><td></td></tr>
-<tr><td>12161</td><td>Egg</td><td>Gsteig</td><td>2017</td><td></td></tr>
+<tr><td>12161</td><td>Egg</td><td>Gsteig</td><td>2017</td><td>2025</td></tr>
 <tr><td>12163</td><td>Leiteri</td><td>Boltigen</td><td>2017</td><td></td></tr>
 <tr><td>12164</td><td>Under der Flüö</td><td>Grindelwald</td><td>2017</td><td></td></tr>
 <tr><td>12165</td><td>Port</td><td>Lenk</td><td>2017</td><td></td></tr>
 <tr><td>12171</td><td>Usserfeld</td><td>Saxeten</td><td>2017</td><td></td></tr>
 <tr><td>12176</td><td>Husmatta</td><td>Oberried am Brienzersee</td><td>2017</td><td></td></tr>
-<tr><td>12177</td><td>Richige Weid</td><td>Frutigen</td><td>2017</td><td></td></tr>
-<tr><td>12180</td><td>Dörfli</td><td>Reichenbach im Kandertal</td><td>2017</td><td></td></tr>
+<tr><td>12177</td><td>Richige Weid</td><td>Frutigen</td><td>2017</td><td>2025</td></tr>
+<tr><td>12180</td><td>Dörfli</td><td>Reichenbach im Kandertal</td><td>2017</td><td>2025</td></tr>
 <tr><td>12183</td><td>Zälg</td><td>Frutigen</td><td>2017</td><td></td></tr>
 <tr><td>12184</td><td>Glawematte</td><td>Gsteig</td><td>2017</td><td></td></tr>
 <tr><td>12185</td><td>Zwüschebäch</td><td>Frutigen</td><td>2017</td><td></td></tr>
@@ -961,7 +993,7 @@ Anhang 1[^t-1]
 <tr><td>12238</td><td>Chäle</td><td>Saanen</td><td>2017</td><td></td></tr>
 <tr><td>12241</td><td>Schadauli</td><td>Lenk</td><td>2017</td><td></td></tr>
 <tr><td>12249</td><td>Raufmatte</td><td>Adelboden</td><td>2017</td><td></td></tr>
-<tr><td>12250</td><td>Oppersgaden</td><td>Hasliberg</td><td>2017</td><td></td></tr>
+<tr><td>12250</td><td>Oppersgaden</td><td>Hasliberg</td><td>2017</td><td>2025</td></tr>
 <tr><td>12253</td><td>Landgrichtsweid</td><td>Adelboden</td><td>2017</td><td></td></tr>
 <tr><td>12255</td><td>Schore</td><td>Beatenberg</td><td>2017</td><td></td></tr>
 <tr><td>12259</td><td>Erle</td><td>Gsteig</td><td>2017</td><td></td></tr>
@@ -992,11 +1024,12 @@ Anhang 1[^t-1]
 <tr><td>12404</td><td>Graben</td><td>Riggisberg</td><td>2017</td><td></td></tr>
 <tr><td>12406</td><td>Ebligen</td><td>Oberried am Brienzersee</td><td>2017</td><td></td></tr>
 <tr><td>12438</td><td>Bergacher</td><td>Freimettigen</td><td>2017</td><td></td></tr>
+<tr><td>12439</td><td>Ägertli</td><td>Ringgenberg</td><td>2025</td><td></td></tr>
 <tr><td>12889</td><td>Brääch</td><td>Brienzwiler, Meiringen</td><td>2017</td><td></td></tr>
 <tr><td>12962</td><td>Gürmschi</td><td>Reichenbach im Kandertal</td><td>2017</td><td></td></tr>
-<tr><td>12964</td><td>Hohwang</td><td>Kandersteg</td><td>2017</td><td></td></tr>
+<tr><td>12964</td><td>Hohwang</td><td>Kandersteg</td><td>2017</td><td>2025</td></tr>
 <tr><td>12965</td><td>Pâturage du Raimeux</td><td>Crémines</td><td>2017</td><td></td></tr>
-<tr><td>12966</td><td>Les Coperies</td><td>Orvin</td><td>2017</td><td></td></tr>
+<tr><td>12966</td><td>Les Coperies</td><td>Orvin</td><td>2017</td><td>2025</td></tr>
 <tr><td>12967</td><td>Les Ordons</td><td>Court</td><td>2017</td><td></td></tr>
 <tr><td>12968</td><td>Malvaux</td><td>Tavannes</td><td>2017</td><td></td></tr>
 <tr><td>12969</td><td>Rosslaueni</td><td>Kandergrund</td><td>2017</td><td></td></tr>
@@ -1015,7 +1048,7 @@ Anhang 1[^t-1]
 <tr><td>12988</td><td>Le Pendant</td><td>Sonceboz-Sombeval</td><td>2017</td><td></td></tr>
 <tr><td>12989</td><td>Flüeberg</td><td>Därstetten</td><td>2017</td><td></td></tr>
 <tr><td>12990</td><td>Fromberg</td><td>Reichenbach im Kandertal</td><td>2017</td><td></td></tr>
-<tr><td>12991</td><td>Tschingel</td><td>Reichenbach im Kandertal</td><td>2017</td><td></td></tr>
+<tr><td>12991</td><td>Tschingel</td><td>Reichenbach im Kandertal</td><td>2017</td><td>2025</td></tr>
 <tr><td>12993</td><td>Hengst</td><td>Rüschegg</td><td>2017</td><td></td></tr>
 <tr><td>12994</td><td>Bündiegg</td><td>Reichenbach im Kandertal</td><td>2017</td><td></td></tr>
 <tr><td>12995</td><td>Chamalle</td><td>Péry-La Heutte</td><td>2017</td><td></td></tr>
@@ -1056,7 +1089,8 @@ Anhang 1[^t-1]
 <tr><td>13041</td><td>Eggmatti</td><td>Reichenbach im Kandertal</td><td>2017</td><td></td></tr>
 <tr><td>13042</td><td>Crêt sor Neuchâtel</td><td>Orvin</td><td>2017</td><td></td></tr>
 <tr><td>13043</td><td>Wandgrabe</td><td>Seehof</td><td>2017</td><td></td></tr>
-<tr><td>13045</td><td>Montoz</td><td>Péry-La Heutte</td><td>2017</td><td></td></tr>
+<tr><td>13044</td><td>Höchst</td><td>Adelboden</td><td>2025</td><td></td></tr>
+<tr><td>13045</td><td>Montoz</td><td>Péry-La Heutte, Tavannes</td><td>2017</td><td>2025</td></tr>
 <tr><td>13046</td><td>Dos les Creux</td><td>Reconvilier</td><td>2017</td><td></td></tr>
 <tr><td>13047</td><td>Pâturage aux Bœufs</td><td>Saicourt</td><td>2017</td><td></td></tr>
 <tr><td>13048</td><td>Jäggeli</td><td>Guggisberg</td><td>2017</td><td></td></tr>
@@ -1103,16 +1137,89 @@ Anhang 1[^t-1]
 <tr><td>13201</td><td>Mont Bijou</td><td>Twann-Tüscherz</td><td>2017</td><td></td></tr>
 <tr><td>13202</td><td>Gumme</td><td>Rumisberg</td><td>2017</td><td></td></tr>
 <tr><td>13208</td><td>Mittleri Hell</td><td>Seehof</td><td>2017</td><td></td></tr>
-<tr><td>13220</td><td>Lochacher</td><td>Moosseedorf, Münchenbuchsee</td><td>2017</td><td></td></tr>
 <tr><td>13224</td><td>Chatzehubel</td><td>Adelboden</td><td>2017</td><td></td></tr>
+<tr><td>13233</td><td>Schindel-Ise</td><td>Kandergrund</td><td>2025</td><td></td></tr>
 <tr><td>13266</td><td>Hoschbach</td><td>Walkringen</td><td>2017</td><td></td></tr>
 <tr><td>13270</td><td>Ober Langenegg</td><td>Langnau im Emmental</td><td>2017</td><td></td></tr>
 <tr><td>13275</td><td>Äntscherz</td><td>Tschugg</td><td>2017</td><td></td></tr>
 <tr><td>13277</td><td>Burghubel</td><td>Walperswil</td><td>2017</td><td></td></tr>
 <tr><td>13283</td><td>Mittlere Breitebode</td><td>Trub</td><td>2017</td><td></td></tr>
 <tr><td>13284</td><td>Chräbsloch</td><td>Krauchthal</td><td>2017</td><td></td></tr>
-<tr><td>13285</td><td>Hoschbach</td><td>Walkringen</td><td>2017</td><td></td></tr>
+<tr><td>13285</td><td>Hoschbach</td><td>Walkringen</td><td>2017</td><td>2025</td></tr>
 <tr><td>13286</td><td>Blaseflue</td><td>Signau</td><td>2017</td><td></td></tr>
+<tr><td>13415</td><td>Eggschwand</td><td>Reichenbach im Kandertal</td><td>2025</td><td></td></tr>
+<tr><td>13416</td><td>Doregg</td><td>Brienz</td><td>2025</td><td></td></tr>
+<tr><td>13419</td><td>Birchirain</td><td>Bremgarten bei Bern</td><td>2025</td><td></td></tr>
+<tr><td>13420</td><td>Trogweidli-Chäle</td><td>Frutigen</td><td>2025</td><td></td></tr>
+<tr><td>13421</td><td>Le Clos</td><td>Moutier</td><td>2025</td><td></td></tr>
+<tr><td>13422</td><td>Wegscheidi</td><td>Kandersteg</td><td>2025</td><td></td></tr>
+<tr><td>13423</td><td>Chratzwald</td><td>Innertkirchen</td><td>2025</td><td></td></tr>
+<tr><td>13424</td><td>Dälihubel</td><td>Gampelen</td><td>2025</td><td></td></tr>
+<tr><td>13426</td><td>Loosplatte</td><td>Reichenbach im Kandertal</td><td>2025</td><td></td></tr>
+<tr><td>13431</td><td>Uf de Hofstette</td><td>Boltigen</td><td>2025</td><td></td></tr>
+<tr><td>13433</td><td>Haberen</td><td>Innertkirchen</td><td>2025</td><td></td></tr>
+<tr><td>13435</td><td>Rumpfweidli</td><td>Beatenberg</td><td>2025</td><td></td></tr>
+<tr><td>13436</td><td>Under Chaltebrunne</td><td>Boltigen</td><td>2025</td><td></td></tr>
+<tr><td>13437</td><td>Gritteli</td><td>Gsteig</td><td>2025</td><td></td></tr>
+<tr><td>13438</td><td>Site</td><td>Zweisimmen</td><td>2025</td><td></td></tr>
+<tr><td>13439</td><td>I Wengen</td><td>Brienz</td><td>2025</td><td></td></tr>
+<tr><td>13440</td><td>Eggezun</td><td>Lenk</td><td>2025</td><td></td></tr>
+<tr><td>13441</td><td>Underi Niderwürfi</td><td>Zweisimmen</td><td>2025</td><td></td></tr>
+<tr><td>13446</td><td>Droit des Convers</td><td>Renan</td><td>2025</td><td></td></tr>
+<tr><td>13447</td><td>Jolimont</td><td>Renan</td><td>2025</td><td></td></tr>
+<tr><td>13449</td><td>Hächlere</td><td>Kandergrund</td><td>2025</td><td></td></tr>
+<tr><td>13451</td><td>Hubelweidli</td><td>Reichenbach im Kandertal</td><td>2025</td><td></td></tr>
+<tr><td>13452</td><td>Bodehus</td><td>Kandergrund</td><td>2025</td><td></td></tr>
+<tr><td>13453</td><td>Filzenäbi</td><td>Reichenbach im Kandertal</td><td>2025</td><td></td></tr>
+<tr><td>13454</td><td>Bachbergheuwberg</td><td>Saanen</td><td>2025</td><td></td></tr>
+<tr><td>13457</td><td>Stäfelti</td><td>Innertkirchen</td><td>2025</td><td></td></tr>
+<tr><td>13458</td><td>Domeren</td><td>Oberwil im Simmental</td><td>2025</td><td></td></tr>
+<tr><td>13459</td><td>Métairie de Bois Raiguel</td><td>Cortébert</td><td>2025</td><td></td></tr>
+<tr><td>13461</td><td>Ällebärgli</td><td>Saanen</td><td>2025</td><td></td></tr>
+<tr><td>13462</td><td>Les Rocs</td><td>Orvin</td><td>2025</td><td></td></tr>
+<tr><td>13465</td><td>Untere Muolte</td><td>Schelten</td><td>2025</td><td></td></tr>
+<tr><td>13466</td><td>Nesselboden</td><td>Hasliberg</td><td>2025</td><td></td></tr>
+<tr><td>13467</td><td>Haberen</td><td>Innertkirchen</td><td>2025</td><td></td></tr>
+<tr><td>13469</td><td>Stotzige Stutz</td><td>Zweisimmen</td><td>2025</td><td></td></tr>
+<tr><td>13473</td><td>Wandeli</td><td>Innertkirchen</td><td>2025</td><td></td></tr>
+<tr><td>13476</td><td>Riten</td><td>Oberwil im Simmental</td><td>2025</td><td></td></tr>
+<tr><td>13477</td><td>Eggboden</td><td>Grindelwald</td><td>2025</td><td></td></tr>
+<tr><td>13479</td><td>Zismas</td><td>Frutigen</td><td>2025</td><td></td></tr>
+<tr><td>13481</td><td>Spissli</td><td>Frutigen</td><td>2025</td><td></td></tr>
+<tr><td>13483</td><td>Uf de Pfaffe</td><td>Lenk</td><td>2025</td><td></td></tr>
+<tr><td>13484</td><td>Tschingel</td><td>Reichenbach im Kandertal</td><td>2025</td><td></td></tr>
+<tr><td>13485</td><td>Hindermenige</td><td>Diemtigen</td><td>2025</td><td></td></tr>
+<tr><td>13486</td><td>Ritz</td><td>Lenk</td><td>2025</td><td></td></tr>
+<tr><td>13488</td><td>Ritzlimad</td><td>Lenk</td><td>2025</td><td></td></tr>
+<tr><td>13489</td><td>La Combe Chopin</td><td>Roches</td><td>2025</td><td></td></tr>
+<tr><td>13490</td><td>Lädiwald</td><td>Gsteig</td><td>2025</td><td></td></tr>
+<tr><td>13493</td><td>Hagenacker</td><td>Erlenbach im Simmental</td><td>2025</td><td></td></tr>
+<tr><td>13494</td><td>Chiematten</td><td>Lütschental</td><td>2025</td><td></td></tr>
+<tr><td>13495</td><td>Honegg</td><td>Zweisimmen</td><td>2025</td><td></td></tr>
+<tr><td>13496</td><td>Pierrefeu</td><td>Cortébert</td><td>2025</td><td></td></tr>
+<tr><td>13497</td><td>Chäälerböde</td><td>Oberwil im Simmental</td><td>2025</td><td></td></tr>
+<tr><td>13498</td><td>Gumm</td><td>Hasliberg</td><td>2025</td><td></td></tr>
+<tr><td>13499</td><td>Wartacher</td><td>Oberbalm</td><td>2025</td><td></td></tr>
+<tr><td>13501</td><td>Pâturage du Droit</td><td>Moutier</td><td>2025</td><td></td></tr>
+<tr><td>13503</td><td>Möösli</td><td>Biel/Bienne</td><td>2025</td><td></td></tr>
+<tr><td>13505</td><td>Bigelti</td><td>Gsteigwiler</td><td>2025</td><td></td></tr>
+<tr><td>13506</td><td>Im Kürz</td><td>Frutigen</td><td>2025</td><td></td></tr>
+<tr><td>13507</td><td>Aabeweid</td><td>Brienz</td><td>2025</td><td></td></tr>
+<tr><td>13508</td><td>Alleschwendi</td><td>Innertkirchen</td><td>2025</td><td></td></tr>
+<tr><td>13509</td><td>Roggera</td><td>Wilderswil</td><td>2025</td><td></td></tr>
+<tr><td>13512</td><td>Stääfelti</td><td>Schattenhalb</td><td>2025</td><td></td></tr>
+<tr><td>13513</td><td>Lengg</td><td>Gsteigwiler</td><td>2025</td><td></td></tr>
+<tr><td>13514</td><td>Tschingel</td><td>Reichenbach im Kandertal</td><td>2025</td><td></td></tr>
+<tr><td>13515</td><td>Plan du Droit</td><td>Tramelan</td><td>2025</td><td></td></tr>
+<tr><td>13517</td><td>Mad</td><td>Schattenhalb</td><td>2025</td><td></td></tr>
+<tr><td>13520</td><td>Baumgarten</td><td>Schangnau</td><td>2025</td><td></td></tr>
+<tr><td>13521</td><td>Pâturage de la Joux devant</td><td>Romont</td><td>2025</td><td></td></tr>
+<tr><td>13522</td><td>Les Ordons</td><td>Court</td><td>2025</td><td></td></tr>
+<tr><td>13523</td><td>Les Ordons</td><td>Court</td><td>2025</td><td></td></tr>
+<tr><td>13527</td><td>Äglisbol</td><td>Rumisberg</td><td>2025</td><td></td></tr>
+<tr><td>13529</td><td>Hägemäder</td><td>Gsteig</td><td>2025</td><td></td></tr>
+<tr><td>13530</td><td>Davidsvorschess</td><td>Gsteig</td><td>2025</td><td></td></tr>
+<tr><td>13538</td><td>Belpmoos</td><td>Belp</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Kanton Luzern</td><td></td><td></td><td></td></tr>
 <tr><td>4800</td><td>Bachtalen</td><td>Schongau</td><td>2010</td><td></td></tr>
 <tr><td>4801</td><td>Bonsbrig</td><td>Dagmersellen</td><td>2010</td><td></td></tr>
@@ -1147,7 +1254,7 @@ Anhang 1[^t-1]
 <tr><td>4870</td><td>Napf</td><td>Luthern</td><td>2010</td><td></td></tr>
 <tr><td>4871</td><td>Napf</td><td>Hergiswil bei Willisau, Luthern, Romoos</td><td>2010</td><td></td></tr>
 <tr><td></td><td>Kanton Uri</td><td></td><td></td><td></td></tr>
-<tr><td>10012</td><td>Weid</td><td>Seelisberg</td><td>2010</td><td></td></tr>
+<tr><td>10012</td><td>Weid</td><td>Seelisberg</td><td>2010</td><td>2025</td></tr>
 <tr><td>10025</td><td>Hell</td><td>Sisikon</td><td>2010</td><td></td></tr>
 <tr><td>10028</td><td>Ober Axen</td><td>Flüelen</td><td>2010</td><td></td></tr>
 <tr><td>10033</td><td>Ober Bärchi</td><td>Isenthal</td><td>2010</td><td></td></tr>
@@ -1163,25 +1270,25 @@ Anhang 1[^t-1]
 <tr><td>10056</td><td>Hüenderegg</td><td>Bürglen</td><td>2010</td><td>2017</td></tr>
 <tr><td>10059</td><td>Chäserberg</td><td>Altdorf</td><td>2010</td><td></td></tr>
 <tr><td>10060</td><td>Fruttwald</td><td>Bürglen</td><td>2010</td><td></td></tr>
-<tr><td>10061</td><td>Schartihöreli</td><td>Isenthal</td><td>2010</td><td></td></tr>
-<tr><td>10068</td><td>Gietisflue</td><td>Isenthal</td><td>2010</td><td>2017</td></tr>
+<tr><td>10061</td><td>Schartihöreli</td><td>Isenthal</td><td>2010</td><td>2025</td></tr>
+<tr><td>10068</td><td>Gietisflue</td><td>Isenthal</td><td>2017</td><td></td></tr>
 <tr><td>10072</td><td>Läcki</td><td>Spiringen</td><td>2017</td><td></td></tr>
-<tr><td>10074</td><td>Obflüeweid</td><td>Spiringen</td><td>2010</td><td></td></tr>
+<tr><td>10074</td><td>Obflüeweid</td><td>Spiringen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10082</td><td>Sidenplangg</td><td>Spiringen</td><td>2010</td><td></td></tr>
-<tr><td>10086</td><td>Rosegg</td><td>Isenthal</td><td>2010</td><td>2017</td></tr>
+<tr><td>10086</td><td>Rosegg</td><td>Isenthal</td><td>2017</td><td></td></tr>
 <tr><td>10105</td><td>Gorplanggen</td><td>Spiringen</td><td>2010</td><td></td></tr>
 <tr><td>10107</td><td>Sassigrat</td><td>Isenthal</td><td>2010</td><td>2017</td></tr>
 <tr><td>10117</td><td>Butzlichöpf</td><td>Unterschächen</td><td>2010</td><td>2017</td></tr>
 <tr><td>10118</td><td>Trudelingen</td><td>Bürglen</td><td>2010</td><td></td></tr>
-<tr><td>10124</td><td>Wilischwand</td><td>Spiringen</td><td>2010</td><td></td></tr>
+<tr><td>10124</td><td>Wilischwand</td><td>Spiringen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10127</td><td>Schiffnossen</td><td>Unterschächen</td><td>2017</td><td></td></tr>
-<tr><td>10134</td><td>Platti</td><td>Bürglen</td><td>2010</td><td></td></tr>
+<tr><td>10134</td><td>Platti</td><td>Bürglen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10138</td><td>Biwaldalp</td><td>Isenthal</td><td>2010</td><td>2017</td></tr>
 <tr><td>10141</td><td>In den Arven</td><td>Unterschächen</td><td>2010</td><td>2017</td></tr>
 <tr><td>10150</td><td>Hangbaum</td><td>Isenthal</td><td>2017</td><td></td></tr>
-<tr><td>10151</td><td>Spälten</td><td>Attinghausen</td><td>2010</td><td></td></tr>
-<tr><td>10155</td><td>Wettmatt</td><td>Attinghausen</td><td>2010</td><td></td></tr>
-<tr><td>10156</td><td>Ribi</td><td>Attinghausen</td><td>2010</td><td></td></tr>
+<tr><td>10151</td><td>Spälten</td><td>Attinghausen</td><td>2010</td><td>2025</td></tr>
+<tr><td>10155</td><td>Wettmatt</td><td>Attinghausen</td><td>2010</td><td>2025</td></tr>
+<tr><td>10156</td><td>Ribi</td><td>Attinghausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10157</td><td>Gross Pfaffen</td><td>Seedorf</td><td>2010</td><td></td></tr>
 <tr><td>10167</td><td>Rossboden</td><td>Attinghausen</td><td>2010</td><td></td></tr>
 <tr><td>10168</td><td>Gampelen</td><td>Unterschächen</td><td>2010</td><td></td></tr>
@@ -1199,10 +1306,10 @@ Anhang 1[^t-1]
 <tr><td>10202</td><td>Gross Planggen</td><td>Attinghausen</td><td>2010</td><td></td></tr>
 <tr><td>10211</td><td>Seechälen</td><td>Silenen</td><td>2010</td><td></td></tr>
 <tr><td>10212</td><td>Fryetal</td><td>Silenen</td><td>2010</td><td></td></tr>
-<tr><td>10232</td><td>Chüenossen</td><td>Wassen</td><td>2010</td><td></td></tr>
+<tr><td>10232</td><td>Chüenossen</td><td>Wassen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10233</td><td>Rieter</td><td>Wassen</td><td>2010</td><td></td></tr>
-<tr><td>10234</td><td>Langsimatten</td><td>Wassen</td><td>2010</td><td></td></tr>
-<tr><td>10237</td><td>Planggen</td><td>Wassen</td><td>2010</td><td></td></tr>
+<tr><td>10234</td><td>Langsimatten</td><td>Wassen</td><td>2010</td><td>2025</td></tr>
+<tr><td>10237</td><td>Planggen</td><td>Wassen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10240</td><td>Geren</td><td>Wassen</td><td>2010</td><td></td></tr>
 <tr><td>10253</td><td>Börtli</td><td>Göschenen</td><td>2010</td><td></td></tr>
 <tr><td>10254</td><td>Oberer Nätschen</td><td>Andermatt</td><td>2010</td><td></td></tr>
@@ -1215,10 +1322,10 @@ Anhang 1[^t-1]
 <tr><td>10267</td><td>Haltenen</td><td>Seelisberg</td><td>2010</td><td></td></tr>
 <tr><td>10268</td><td>Bol</td><td>Seelisberg</td><td>2010</td><td></td></tr>
 <tr><td>10272</td><td>Hinter Bergli</td><td>Seelisberg</td><td>2010</td><td></td></tr>
-<tr><td>10275</td><td>Gartli</td><td>Bauen</td><td>2010</td><td></td></tr>
+<tr><td>10275</td><td>Gartli</td><td>Seedorf</td><td>2010</td><td>2025</td></tr>
 <tr><td>10279</td><td>Baberg</td><td>Isenthal</td><td>2010</td><td></td></tr>
 <tr><td>10283</td><td>Bärchi</td><td>Isenthal</td><td>2010</td><td></td></tr>
-<tr><td>10286</td><td>Gandi</td><td>Isenthal</td><td>2010</td><td>2017</td></tr>
+<tr><td>10286</td><td>Gandi</td><td>Isenthal</td><td>2017</td><td></td></tr>
 <tr><td>10288</td><td>Zur Gand</td><td>Bürglen</td><td>2010</td><td></td></tr>
 <tr><td>10289</td><td>Gletti</td><td>Spiringen</td><td>2010</td><td></td></tr>
 <tr><td>10290</td><td>Oberen Hütten</td><td>Spiringen</td><td>2010</td><td>2017</td></tr>
@@ -1229,22 +1336,22 @@ Anhang 1[^t-1]
 <tr><td>10308</td><td>Hinteren Hütten</td><td>Spiringen</td><td>2010</td><td>2017</td></tr>
 <tr><td>10315</td><td>Ligmanig</td><td>Bürglen</td><td>2010</td><td></td></tr>
 <tr><td>10327</td><td>Horlachen</td><td>Isenthal</td><td>2010</td><td></td></tr>
-<tr><td>10338</td><td>Stein</td><td>Bürglen</td><td>2010</td><td>2017</td></tr>
+<tr><td>10338</td><td>Stein</td><td>Bürglen</td><td>2017</td><td></td></tr>
 <tr><td>10339</td><td>Chessel</td><td>Bürglen</td><td>2010</td><td></td></tr>
 <tr><td>10341</td><td>Uf den Oberschwänden</td><td>Bürglen</td><td>2010</td><td></td></tr>
 <tr><td>10342</td><td>Äbnet</td><td>Bürglen</td><td>2010</td><td></td></tr>
 <tr><td>10345</td><td>Äbnet</td><td>Spiringen</td><td>2010</td><td></td></tr>
-<tr><td>10351</td><td>Schmidigberg</td><td>Spiringen</td><td>2010</td><td></td></tr>
-<tr><td>10353</td><td>Razismatt</td><td>Spiringen</td><td>2010</td><td></td></tr>
-<tr><td>10356</td><td>Graggi</td><td>Bürglen</td><td>2010</td><td></td></tr>
-<tr><td>10362</td><td>Eierschwand</td><td>Bürglen</td><td>2010</td><td></td></tr>
+<tr><td>10351</td><td>Schmidigberg</td><td>Spiringen</td><td>2010</td><td>2025</td></tr>
+<tr><td>10353</td><td>Razismatt</td><td>Spiringen</td><td>2010</td><td>2025</td></tr>
+<tr><td>10356</td><td>Graggi</td><td>Bürglen</td><td>2010</td><td>2025</td></tr>
+<tr><td>10362</td><td>Eierschwand</td><td>Bürglen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10366</td><td>Gorplanggen</td><td>Spiringen</td><td>2010</td><td></td></tr>
-<tr><td>10370</td><td>Rüteli</td><td>Bürglen</td><td>2010</td><td></td></tr>
+<tr><td>10370</td><td>Rüteli</td><td>Bürglen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10372</td><td>Ob den Hegen</td><td>Unterschächen</td><td>2010</td><td></td></tr>
 <tr><td>10374</td><td>Platten</td><td>Isenthal</td><td>2010</td><td>2017</td></tr>
 <tr><td>10376</td><td>Friteren</td><td>Unterschächen</td><td>2010</td><td></td></tr>
 <tr><td>10377</td><td>Windeggen</td><td>Unterschächen</td><td>2010</td><td></td></tr>
-<tr><td>10378</td><td>Gitschenberg</td><td>Seedorf</td><td>2010</td><td></td></tr>
+<tr><td>10378</td><td>Gitschenberg</td><td>Seedorf</td><td>2010</td><td>2025</td></tr>
 <tr><td>10381</td><td>Ahöri</td><td>Unterschächen</td><td>2010</td><td>2017</td></tr>
 <tr><td>10389</td><td>Honegg</td><td>Seedorf</td><td>2010</td><td></td></tr>
 <tr><td>10397</td><td>Vorderen Bänder</td><td>Erstfeld</td><td>2010</td><td></td></tr>
@@ -1253,14 +1360,14 @@ Anhang 1[^t-1]
 <tr><td>10401</td><td>Uf der Lauwi</td><td>Attinghausen</td><td>2010</td><td>2017</td></tr>
 <tr><td>10402</td><td>Oberberg</td><td>Erstfeld</td><td>2010</td><td></td></tr>
 <tr><td>10403</td><td>Wischflüe</td><td>Erstfeld</td><td>2010</td><td></td></tr>
-<tr><td>10404</td><td>Schützen</td><td>Silenen</td><td>2010</td><td></td></tr>
+<tr><td>10404</td><td>Schützen</td><td>Silenen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10406</td><td>Buechholz</td><td>Silenen</td><td>2010</td><td></td></tr>
 <tr><td>10407</td><td>Oberchäseren</td><td>Silenen</td><td>2010</td><td>2017</td></tr>
 <tr><td>10409</td><td>Hanenspil</td><td>Silenen</td><td>2010</td><td></td></tr>
 <tr><td>10417</td><td>Trätter</td><td>Silenen</td><td>2010</td><td></td></tr>
 <tr><td>10427</td><td>Halten</td><td>Silenen</td><td>2010</td><td></td></tr>
-<tr><td>10428</td><td>Städeli</td><td>Wassen</td><td>2010</td><td></td></tr>
-<tr><td>10433</td><td>Balmen</td><td>Wassen</td><td>2010</td><td></td></tr>
+<tr><td>10428</td><td>Städeli</td><td>Wassen</td><td>2010</td><td>2025</td></tr>
+<tr><td>10433</td><td>Balmen</td><td>Wassen</td><td>2010</td><td>2025</td></tr>
 <tr><td>10436</td><td>Holderen</td><td>Wassen</td><td>2010</td><td></td></tr>
 <tr><td>10439</td><td>Altchilch</td><td>Andermatt</td><td>2010</td><td>2017</td></tr>
 <tr><td>10441</td><td>Rotboden</td><td>Hospental</td><td>2010</td><td></td></tr>
@@ -1271,7 +1378,7 @@ Anhang 1[^t-1]
 <tr><td>10467</td><td>Bodmi</td><td>Flüelen</td><td>2010</td><td></td></tr>
 <tr><td>10471</td><td>Chilcherbergen</td><td>Silenen</td><td>2010</td><td></td></tr>
 <tr><td>10478</td><td>Saum</td><td>Isenthal</td><td>2017</td><td></td></tr>
-<tr><td>10479</td><td>Chlus</td><td>Spiringen</td><td>2017</td><td></td></tr>
+<tr><td>10479</td><td>Chlus</td><td>Spiringen</td><td>2017</td><td>2025</td></tr>
 <tr><td>10480</td><td>Usser Baberg</td><td>Isenthal</td><td>2017</td><td></td></tr>
 <tr><td>10485</td><td>Honegg</td><td>Schattdorf</td><td>2017</td><td></td></tr>
 <tr><td>10487</td><td>Alt Stafel</td><td>Isenthal</td><td>2017</td><td></td></tr>
@@ -1284,6 +1391,7 @@ Anhang 1[^t-1]
 <tr><td>10496</td><td>Scharberg</td><td>Attinghausen</td><td>2017</td><td></td></tr>
 <tr><td>10497</td><td>Hoftersmatt</td><td>Isenthal</td><td>2017</td><td></td></tr>
 <tr><td>10498</td><td>Rotenbalm</td><td>Sisikon</td><td>2017</td><td></td></tr>
+<tr><td>11822</td><td>Furkablick</td><td>Realp</td><td>2025</td><td></td></tr>
 <tr><td>11833</td><td>Chälen</td><td>Bürglen, Unterschächen</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Kanton Schwyz</td><td></td><td></td><td></td></tr>
 <tr><td>11500</td><td>Goldauer Bergsturz</td><td>Arth</td><td>2010</td><td>2017</td></tr>
@@ -1319,7 +1427,7 @@ Anhang 1[^t-1]
 <tr><td>11558</td><td>Gängigerhof</td><td>Arth</td><td>2017</td><td></td></tr>
 <tr><td></td><td>Kanton Obwalden</td><td></td><td></td><td></td></tr>
 <tr><td>4002</td><td>Ämsigenplanggen</td><td>Alpnach</td><td>2010</td><td></td></tr>
-<tr><td>4003</td><td>Obere Ruessi</td><td>Alpnach</td><td>2010</td><td>2017</td></tr>
+<tr><td>4003</td><td>Obere Ruessi</td><td>Alpnach</td><td>2017</td><td></td></tr>
 <tr><td>4005</td><td>Rieden</td><td>Alpnach</td><td>2010</td><td></td></tr>
 <tr><td>4006</td><td>Laui</td><td>Alpnach</td><td>2010</td><td></td></tr>
 <tr><td>4007</td><td>Choleren</td><td>Kerns</td><td>2010</td><td></td></tr>
@@ -1362,7 +1470,7 @@ Anhang 1[^t-1]
 <tr><td>4057</td><td>Chruteren</td><td>Sachseln</td><td>2010</td><td></td></tr>
 <tr><td>4058</td><td>Schwibbalm</td><td>Sachseln</td><td>2010</td><td></td></tr>
 <tr><td>4063</td><td>Turnacher</td><td>Lungern</td><td>2010</td><td></td></tr>
-<tr><td>4064</td><td>Obstollen</td><td>Lungern</td><td>2010</td><td>2017</td></tr>
+<tr><td>4064</td><td>Obstollen</td><td>Lungern</td><td>2017</td><td></td></tr>
 <tr><td>4066</td><td>Breitmatt</td><td>Lungern</td><td>2010</td><td></td></tr>
 <tr><td>4067</td><td>Tristelderen</td><td>Lungern</td><td>2010</td><td></td></tr>
 <tr><td>4069</td><td>Turren</td><td>Lungern</td><td>2010</td><td></td></tr>
@@ -1377,7 +1485,7 @@ Anhang 1[^t-1]
 <tr><td>4090</td><td>Huggeten</td><td>Sachseln</td><td>2010</td><td></td></tr>
 <tr><td>4091</td><td>Hüttmatt</td><td>Sachseln</td><td>2010</td><td></td></tr>
 <tr><td>4092</td><td>Walsli</td><td>Sachseln</td><td>2010</td><td></td></tr>
-<tr><td>4097</td><td>Rütinen</td><td>Giswil, Lungern</td><td>2010</td><td>2017</td></tr>
+<tr><td>4097</td><td>Rütinen</td><td>Giswil, Lungern</td><td>2017</td><td></td></tr>
 <tr><td>4103</td><td>Stäbnet</td><td>Lungern</td><td>2010</td><td></td></tr>
 <tr><td>4105</td><td>Lippeten</td><td>Sachseln</td><td>2010</td><td></td></tr>
 <tr><td></td><td>Kanton Nidwalden</td><td></td><td></td><td></td></tr>
@@ -1387,7 +1495,7 @@ Anhang 1[^t-1]
 <tr><td>473</td><td>Platten</td><td>Beckenried</td><td>2010</td><td></td></tr>
 <tr><td>476</td><td>Laucheren</td><td>Emmetten</td><td>2010</td><td></td></tr>
 <tr><td>479</td><td>Klewenstock</td><td>Beckenried</td><td>2010</td><td></td></tr>
-<tr><td>481</td><td>Muetergotteswald</td><td>Dallenwil</td><td>2010</td><td>2017</td></tr>
+<tr><td>481</td><td>Muetergotteswald</td><td>Dallenwil</td><td>2017</td><td></td></tr>
 <tr><td>484</td><td>Stanserhorn</td><td>Dallenwil</td><td>2010</td><td></td></tr>
 <tr><td>485</td><td>Lang Hütte</td><td>Emmetten</td><td>2010</td><td></td></tr>
 <tr><td>489</td><td>Wigerts</td><td>Oberdorf</td><td>2010</td><td></td></tr>
@@ -1405,7 +1513,7 @@ Anhang 1[^t-1]
 <tr><td>518</td><td>Vorderer Rossboden</td><td>Wolfenschiessen</td><td>2010</td><td></td></tr>
 <tr><td>521</td><td>Ober Alpeli</td><td>Wolfenschiessen</td><td>2010</td><td>2017</td></tr>
 <tr><td>523</td><td>Zingeli</td><td>Wolfenschiessen</td><td>2010</td><td></td></tr>
-<tr><td>526</td><td>Flüemattli</td><td>Wolfenschiessen</td><td>2010</td><td>2017</td></tr>
+<tr><td>526</td><td>Flüemattli</td><td>Wolfenschiessen</td><td>2017</td><td></td></tr>
 <tr><td>527</td><td>Hüethütte</td><td>Wolfenschiessen</td><td>2010</td><td></td></tr>
 <tr><td>529</td><td>Rosswang</td><td>Wolfenschiessen</td><td>2010</td><td></td></tr>
 <tr><td>533</td><td>Stalden</td><td>Wolfenschiessen</td><td>2010</td><td></td></tr>
@@ -1414,7 +1522,7 @@ Anhang 1[^t-1]
 <tr><td>536</td><td>Vorder Stäckenmatt</td><td>Emmetten</td><td>2010</td><td></td></tr>
 <tr><td>537</td><td>Stöckmatt</td><td>Stans, Stansstad</td><td>2010</td><td></td></tr>
 <tr><td>538</td><td>Geissholz</td><td>Oberdorf</td><td>2010</td><td></td></tr>
-<tr><td>540</td><td>Schwandenberg</td><td>Oberdorf</td><td>2010</td><td>2017</td></tr>
+<tr><td>540</td><td>Schwandenberg</td><td>Oberdorf</td><td>2017</td><td></td></tr>
 <tr><td>541</td><td>Ligg</td><td>Oberdorf</td><td>2010</td><td></td></tr>
 <tr><td>542</td><td>Niderhusen</td><td>Ennetmoos</td><td>2010</td><td>2017</td></tr>
 <tr><td>556</td><td>Brändlisweid</td><td>Wolfenschiessen</td><td>2010</td><td></td></tr>
@@ -1429,7 +1537,7 @@ Anhang 1[^t-1]
 <tr><td>1805</td><td>Bergli</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
 <tr><td>1807</td><td>Chammteil</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
 <tr><td>1809</td><td>Stäfeli</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
-<tr><td>1811</td><td>Ahornen</td><td>Glarus Nord</td><td>2010</td><td>2017</td></tr>
+<tr><td>1811</td><td>Ahornen</td><td>Glarus Nord</td><td>2017</td><td></td></tr>
 <tr><td>1813</td><td>Fachtegg</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
 <tr><td>1818</td><td>Schafplänggen</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
 <tr><td>1820</td><td>Gumen</td><td>Glarus</td><td>2010</td><td></td></tr>
@@ -1444,10 +1552,10 @@ Anhang 1[^t-1]
 <tr><td>1837</td><td>Ober Längenegg</td><td>Glarus</td><td>2010</td><td></td></tr>
 <tr><td>1838</td><td>Schwämmli</td><td>Glarus</td><td>2010</td><td></td></tr>
 <tr><td>1839</td><td>Chängelboden</td><td>Glarus</td><td>2010</td><td></td></tr>
-<tr><td>1840</td><td>Sturmigen</td><td>Glarus</td><td>2010</td><td>2017</td></tr>
+<tr><td>1840</td><td>Sturmigen</td><td>Glarus</td><td>2017</td><td></td></tr>
 <tr><td>1841</td><td>Chämmenen</td><td>Glarus</td><td>2010</td><td></td></tr>
 <tr><td>1842</td><td>Ober Herberig</td><td>Glarus</td><td>2010</td><td></td></tr>
-<tr><td>1843</td><td>Widen</td><td>Glarus</td><td>2010</td><td>2017</td></tr>
+<tr><td>1843</td><td>Widen</td><td>Glarus</td><td>2017</td><td></td></tr>
 <tr><td>1844</td><td>Rhodannenberg</td><td>Glarus</td><td>2010</td><td></td></tr>
 <tr><td>1845</td><td>Ober Rueggis</td><td>Glarus</td><td>2010</td><td></td></tr>
 <tr><td>1846</td><td>Unter Herberig</td><td>Glarus</td><td>2010</td><td></td></tr>
@@ -1459,7 +1567,7 @@ Anhang 1[^t-1]
 <tr><td>1860</td><td>Holzbort</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
 <tr><td>1861</td><td>Schaft</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
 <tr><td>1862</td><td>Schlattbergli</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
-<tr><td>1866</td><td>Ochsenbüel</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
+<tr><td>1866</td><td>Ochsenbüel</td><td>Glarus Süd</td><td>2010</td><td>2025</td></tr>
 <tr><td>1869</td><td>Baumgarten</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
 <tr><td>1873</td><td>Bruch</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
 <tr><td>1877</td><td>Durlaui</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
@@ -1469,7 +1577,7 @@ Anhang 1[^t-1]
 <tr><td>1890</td><td>Rufiberg</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
 <tr><td>1891</td><td>Trügglisrus</td><td>Glarus Süd</td><td>2010</td><td></td></tr>
 <tr><td>1892</td><td>Linthkanal</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
-<tr><td>1895</td><td>Boggenberg</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
+<tr><td>1895</td><td>Boggenberg</td><td>Glarus Nord</td><td>2010</td><td>2025</td></tr>
 <tr><td>1897</td><td>Hintere Facht</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
 <tr><td>1898</td><td>Mullerenplanggen</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
 <tr><td>1900</td><td>Grund</td><td>Glarus Nord</td><td>2010</td><td></td></tr>
@@ -1590,8 +1698,8 @@ Anhang 1[^t-1]
 <tr><td>1171</td><td>Joux Verte Dessus</td><td>Châtel-Saint-Denis</td><td>2010</td><td></td></tr>
 <tr><td>1172</td><td>Les Ontanettes</td><td>Grandvillard</td><td>2010</td><td></td></tr>
 <tr><td>1173</td><td>Col de Lys</td><td>Châtel-Saint-Denis</td><td>2010</td><td></td></tr>
-<tr><td>1177</td><td>Les Planeys du Milieu</td><td>Jaun</td><td>2010</td><td>2017</td></tr>
-<tr><td>1178</td><td>Jorat d’Amont</td><td>Haut-Intyamon</td><td>2010</td><td>2017</td></tr>
+<tr><td>1177</td><td>Les Planeys du Milieu</td><td>Jaun</td><td>2017</td><td></td></tr>
+<tr><td>1178</td><td>Jorat d’Amont</td><td>Haut-Intyamon</td><td>2017</td><td></td></tr>
 <tr><td>1179</td><td>Pierra Derrey</td><td>Haut-Intyamon</td><td>2010</td><td></td></tr>
 <tr><td></td><td>Kanton Solothurn</td><td></td><td></td><td></td></tr>
 <tr><td>10600</td><td>Vorderer Brandberg</td><td>Herbetswil</td><td>2010</td><td></td></tr>
@@ -1753,6 +1861,10 @@ Anhang 1[^t-1]
 <tr><td>10848</td><td>Lindenmatt</td><td>Mümliswil-Ramiswil</td><td>2017</td><td></td></tr>
 <tr><td>10849</td><td>Meltingerbrücke</td><td>Zullwil</td><td>2017</td><td></td></tr>
 <tr><td>10850</td><td>Allmend</td><td>Aedermannsdorf</td><td>2017</td><td></td></tr>
+<tr><td>10855</td><td>Nesselboden</td><td>Oberdorf</td><td>2025</td><td></td></tr>
+<tr><td>10856</td><td>Hinteres Hofbergli</td><td>Günsberg</td><td>2025</td><td></td></tr>
+<tr><td>10857</td><td>Güggel</td><td>Aedermannsdorf</td><td>2025</td><td></td></tr>
+<tr><td>10858</td><td>Bruggmatt</td><td>Hauenstein-Ifenthal</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Kanton Basel-Stadt</td><td></td><td></td><td></td></tr>
 <tr><td>222</td><td>Wiesengriener</td><td>Riehen</td><td>2010</td><td></td></tr>
 <tr><td>224</td><td>Elsässer Bahn</td><td>Basel</td><td>2010</td><td></td></tr>
@@ -1770,16 +1882,16 @@ Anhang 1[^t-1]
 <tr><td>30</td><td>Rehhagweid</td><td>Eptingen, Langenbruck</td><td>2010</td><td></td></tr>
 <tr><td>33</td><td>Wald</td><td>Langenbruck</td><td>2010</td><td></td></tr>
 <tr><td>34</td><td>Dürstel</td><td>Langenbruck</td><td>2010</td><td></td></tr>
-<tr><td>36</td><td>Mälste</td><td>Eptingen</td><td>2010</td><td>2017</td></tr>
+<tr><td>36</td><td>Mälste</td><td>Eptingen</td><td>2017</td><td></td></tr>
 <tr><td>39</td><td>Bächle</td><td>Eptingen</td><td>2010</td><td>2017</td></tr>
 <tr><td>51</td><td>Bälweid</td><td>Tenniken</td><td>2010</td><td>2017</td></tr>
 <tr><td>57</td><td>Hagnau</td><td>Birsfelden</td><td>2010</td><td></td></tr>
 <tr><td>61</td><td>Arten</td><td>Oberdorf</td><td>2010</td><td></td></tr>
 <tr><td>67</td><td>Vogelberg</td><td>Reigoldswil</td><td>2010</td><td></td></tr>
 <tr><td>68</td><td>Bärengraben</td><td>Reigoldswil</td><td>2010</td><td></td></tr>
-<tr><td>70</td><td>Emlis</td><td>Reigoldswil</td><td>2010</td><td>2017</td></tr>
+<tr><td>70</td><td>Emlis</td><td>Reigoldswil</td><td>2017</td><td></td></tr>
 <tr><td>74</td><td>Wasserfallen</td><td>Waldenburg</td><td>2010</td><td></td></tr>
-<tr><td>78</td><td>Richtacher</td><td>Waldenburg</td><td>2010</td><td>2017</td></tr>
+<tr><td>78</td><td>Richtacher</td><td>Waldenburg</td><td>2017</td><td></td></tr>
 <tr><td>90</td><td>Häxenblätz</td><td>Bretzwil</td><td>2010</td><td>2017</td></tr>
 <tr><td>92</td><td>Rüti</td><td>Lausen</td><td>2010</td><td></td></tr>
 <tr><td>100</td><td>Rüti</td><td>Lausen</td><td>2010</td><td></td></tr>
@@ -1792,8 +1904,8 @@ Anhang 1[^t-1]
 <tr><td>124</td><td>Brügglingen</td><td>Münchenstein</td><td>2010</td><td></td></tr>
 <tr><td>128</td><td>Rumpel</td><td>Oltingen</td><td>2010</td><td></td></tr>
 <tr><td>133</td><td>Ried</td><td>Oltingen</td><td>2010</td><td></td></tr>
-<tr><td>135</td><td>Hag</td><td>Dittingen</td><td>2010</td><td>2017</td></tr>
-<tr><td>136</td><td>Dittinger Weide</td><td>Dittingen</td><td>2010</td><td>2017</td></tr>
+<tr><td>135</td><td>Hag</td><td>Dittingen</td><td>2017</td><td></td></tr>
+<tr><td>136</td><td>Dittinger Weide</td><td>Dittingen</td><td>2017</td><td></td></tr>
 <tr><td>148</td><td>Holingen</td><td>Rothenfluh</td><td>2010</td><td></td></tr>
 <tr><td>150</td><td>Horn</td><td>Rothenfluh</td><td>2010</td><td></td></tr>
 <tr><td>154</td><td>Leimet</td><td>Rothenfluh</td><td>2010</td><td></td></tr>
@@ -1810,7 +1922,7 @@ Anhang 1[^t-1]
 <tr><td>200</td><td>Wildenstein</td><td>Bubendorf</td><td>2010</td><td>2017</td></tr>
 <tr><td>206</td><td>Chilpen</td><td>Diegten</td><td>2010</td><td>2017</td></tr>
 <tr><td>211</td><td>Langenrain</td><td>Röschenz</td><td>2010</td><td>2017</td></tr>
-<tr><td>215</td><td>Rain</td><td>Sissach</td><td>2010</td><td>2017</td></tr>
+<tr><td>215</td><td>Rain</td><td>Sissach</td><td>2017</td><td></td></tr>
 <tr><td>218</td><td>Bogental</td><td>Lauwil</td><td>2010</td><td></td></tr>
 <tr><td>219</td><td>Hinter Geissberg</td><td>Lauwil</td><td>2010</td><td></td></tr>
 <tr><td>237</td><td>Wizleste</td><td>Röschenz</td><td>2017</td><td></td></tr>
@@ -1818,14 +1930,14 @@ Anhang 1[^t-1]
 <tr><td>3211</td><td>Ramsen</td><td>Rüdlingen</td><td>2010</td><td></td></tr>
 <tr><td>3214</td><td>Oberriet</td><td>Buchberg</td><td>2010</td><td></td></tr>
 <tr><td>3219</td><td>Talhof</td><td>Löhningen</td><td>2010</td><td></td></tr>
-<tr><td>3220</td><td>Stig</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
+<tr><td>3220</td><td>Stig</td><td>Schaffhausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3221</td><td>Uf der Gräte</td><td>Merishausen</td><td>2010</td><td></td></tr>
-<tr><td>3223</td><td>Randen</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
+<tr><td>3223</td><td>Randen</td><td>Schaffhausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3225</td><td>Halde</td><td>Siblingen</td><td>2010</td><td></td></tr>
 <tr><td>3226</td><td>Hasedel</td><td>Schleitheim</td><td>2010</td><td></td></tr>
 <tr><td>3228</td><td>Buechberghus</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3229</td><td>Hinderranden</td><td>Schaffhausen, Siblingen</td><td>2010</td><td></td></tr>
-<tr><td>3230</td><td>Herbsttal</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
+<tr><td>3230</td><td>Herbsttal</td><td>Schaffhausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3231</td><td>Hinter Freudental</td><td>Büttenhardt</td><td>2010</td><td></td></tr>
 <tr><td>3232</td><td>Randenhorn</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3233</td><td>Eichhalde</td><td>Merishausen</td><td>2010</td><td></td></tr>
@@ -1836,33 +1948,33 @@ Anhang 1[^t-1]
 <tr><td>3242</td><td>Leuengründli</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3243</td><td>Chälen</td><td>Beggingen</td><td>2010</td><td></td></tr>
 <tr><td>3244</td><td>Bachmüli</td><td>Schleitheim</td><td>2010</td><td></td></tr>
-<tr><td>3245</td><td>Heerenbuck</td><td>Lohn</td><td>2010</td><td></td></tr>
+<tr><td>3245</td><td>Heerenbuck</td><td>Lohn</td><td>2010</td><td>2025</td></tr>
 <tr><td>3246</td><td>Hohberg</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
 <tr><td>3247</td><td>Mooshalde</td><td>Stetten</td><td>2010</td><td></td></tr>
 <tr><td>3250</td><td>Blaasen</td><td>Merishausen</td><td>2010</td><td></td></tr>
-<tr><td>3251</td><td>Mösli</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
+<tr><td>3251</td><td>Mösli</td><td>Schaffhausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3253</td><td>Lattweienacker</td><td>Bargen</td><td>2010</td><td></td></tr>
 <tr><td>3254</td><td>Götzenhalde</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
-<tr><td>3256</td><td>Buck</td><td>Merishausen</td><td>2010</td><td></td></tr>
+<tr><td>3256</td><td>Buck</td><td>Merishausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3257</td><td>Ägistel</td><td>Schleitheim</td><td>2010</td><td></td></tr>
 <tr><td>3258</td><td>Seigen</td><td>Bargen</td><td>2010</td><td></td></tr>
 <tr><td>3259</td><td>Vitzboden</td><td>Siblingen</td><td>2010</td><td></td></tr>
 <tr><td>3260</td><td>Attenberg</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3262</td><td>Dostental</td><td>Merishausen</td><td>2010</td><td></td></tr>
-<tr><td>3263</td><td>Barmen</td><td>Merishausen</td><td>2010</td><td></td></tr>
+<tr><td>3263</td><td>Barmen</td><td>Merishausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3264</td><td>Chleebuck</td><td>Thayngen</td><td>2010</td><td></td></tr>
 <tr><td>3266</td><td>Braaten</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3267</td><td>Uf der Tüele</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3268</td><td>Geisshalde</td><td>Beringen</td><td>2010</td><td></td></tr>
 <tr><td>3269</td><td>Rietwisen</td><td>Beringen</td><td>2010</td><td></td></tr>
 <tr><td>3270</td><td>Chälen</td><td>Beggingen</td><td>2010</td><td></td></tr>
-<tr><td>3272</td><td>Hohrainchäpfli</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
-<tr><td>3273</td><td>Talmüli</td><td>Schleitheim</td><td>2010</td><td>2017</td></tr>
+<tr><td>3272</td><td>Hohrainchäpfli</td><td>Schaffhausen</td><td>2010</td><td>2025</td></tr>
+<tr><td>3273</td><td>Talmüli</td><td>Schleitheim</td><td>2017</td><td></td></tr>
 <tr><td>3274</td><td>Staufenberg</td><td>Schleitheim</td><td>2010</td><td></td></tr>
 <tr><td>3275</td><td>Lyten</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3276</td><td>Haartel</td><td>Wilchingen</td><td>2010</td><td></td></tr>
 <tr><td>3279</td><td>Merishausen</td><td>Merishausen</td><td>2010</td><td></td></tr>
-<tr><td>3280</td><td>Uf der Stig</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
+<tr><td>3280</td><td>Uf der Stig</td><td>Schaffhausen</td><td>2010</td><td>2025</td></tr>
 <tr><td>3281</td><td>Heidenbomm</td><td>Beggingen, Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3282</td><td>Tenterenberg</td><td>Siblingen</td><td>2010</td><td></td></tr>
 <tr><td>3283</td><td>Winkelacker</td><td>Schaffhausen</td><td>2010</td><td></td></tr>
@@ -1883,6 +1995,7 @@ Anhang 1[^t-1]
 <tr><td>3319</td><td>Hagenturm</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3323</td><td>Staanenbergli</td><td>Merishausen</td><td>2010</td><td></td></tr>
 <tr><td>3327</td><td>Hanesbüel</td><td>Thayngen</td><td>2010</td><td></td></tr>
+<tr><td>3331</td><td>Galgebuck</td><td>Neuhausen am Rheinfall</td><td>2025</td><td></td></tr>
 <tr><td></td><td colspan="2">Kanton Appenzell Ausserrhoden</td><td colspan="2"></td></tr>
 <tr><td>1705</td><td>Giger</td><td>Gais</td><td>2010</td><td></td></tr>
 <tr><td>1708</td><td>Nusshalden</td><td>Hundwil</td><td>2010</td><td></td></tr>
@@ -1927,7 +2040,7 @@ Anhang 1[^t-1]
 <tr><td>365</td><td>Faren</td><td>Amden</td><td>2010</td><td></td></tr>
 <tr><td>372</td><td>Buechlet</td><td>Quarten</td><td>2010</td><td></td></tr>
 <tr><td>375</td><td>Schilt</td><td>Quarten</td><td>2010</td><td></td></tr>
-<tr><td>377</td><td>Landig</td><td>Schänis, Weesen</td><td>2010</td><td>2017</td></tr>
+<tr><td>377</td><td>Landig</td><td>Schänis, Weesen</td><td>2017</td><td></td></tr>
 <tr><td>381</td><td>Major</td><td>Wartau</td><td>2010</td><td></td></tr>
 <tr><td>383</td><td>Danggabünt</td><td>Wartau</td><td>2010</td><td></td></tr>
 <tr><td>384</td><td>Plattis-Chopf</td><td>Wartau</td><td>2010</td><td></td></tr>
@@ -1969,10 +2082,10 @@ Anhang 1[^t-1]
 <tr><td>728</td><td>Falggelen</td><td>Walenstadt</td><td>2010</td><td></td></tr>
 <tr><td>739</td><td>Halden</td><td>Uzwil</td><td>2010</td><td></td></tr>
 <tr><td>742</td><td>Grund</td><td>Jonschwil</td><td>2010</td><td></td></tr>
-<tr><td>748</td><td>Silberbüel</td><td>Mosnang</td><td>2010</td><td>2017</td></tr>
+<tr><td>748</td><td>Silberbüel</td><td>Mosnang</td><td>2017</td><td></td></tr>
 <tr><td>752</td><td>Neuau</td><td>Oberriet</td><td>2010</td><td></td></tr>
 <tr><td>759</td><td>Rüfenen</td><td>Mosnang</td><td>2010</td><td></td></tr>
-<tr><td>771</td><td>Chapf</td><td>Wattwil</td><td>2010</td><td>2017</td></tr>
+<tr><td>771</td><td>Chapf</td><td>Wattwil</td><td>2017</td><td></td></tr>
 <tr><td>778</td><td>Küeschtewasen</td><td>Altstätten</td><td>2010</td><td></td></tr>
 <tr><td>779</td><td>Vordere Better</td><td>Altstätten</td><td>2010</td><td></td></tr>
 <tr><td>782</td><td>Better</td><td>Altstätten, Sennwald</td><td>2010</td><td></td></tr>
@@ -2048,7 +2161,7 @@ Anhang 1[^t-1]
 <tr><td>8119</td><td>Laschein</td><td>Felsberg</td><td>2010</td><td>2021</td></tr>
 <tr><td>8125</td><td>Muris Halden</td><td>Tamins</td><td>2010</td><td>2021</td></tr>
 <tr><td>8134</td><td>Munt Sut</td><td>Tamins, Trin</td><td>2010</td><td>2021</td></tr>
-<tr><td>8135</td><td>Cartschitscha</td><td>Tamins</td><td>2010</td><td>2021</td></tr>
+<tr><td>8135</td><td>Cartschitscha</td><td>Tamins</td><td>2021</td><td></td></tr>
 <tr><td>8139</td><td>Monhämmerli</td><td>Tamins</td><td>2010</td><td>2021</td></tr>
 <tr><td>8149</td><td>Tignuppa</td><td>Trin</td><td>2010</td><td>2021</td></tr>
 <tr><td>8157</td><td>Fatschis</td><td>Tamins, Trin</td><td>2010</td><td>2021</td></tr>
@@ -2184,7 +2297,7 @@ Anhang 1[^t-1]
 <tr><td>8567</td><td>Planezzas-Sura</td><td>Sagogn</td><td>2010</td><td>2021</td></tr>
 <tr><td>8571</td><td>Vitg Dado</td><td>Sagogn</td><td>2010</td><td>2021</td></tr>
 <tr><td>8573</td><td>S.Bistgaun</td><td>Ilanz/Glion</td><td>2010</td><td>2021</td></tr>
-<tr><td>8576</td><td>Gadastatt</td><td>Safiental</td><td>2010</td><td>2021</td></tr>
+<tr><td>8576</td><td>Gadastatt</td><td>Safiental</td><td>2021</td><td></td></tr>
 <tr><td>8577</td><td>Scansins</td><td>Lumnezia</td><td>2010</td><td>2021</td></tr>
 <tr><td>8580</td><td>Sum Bual</td><td>Lumnezia</td><td>2010</td><td>2021</td></tr>
 <tr><td>8581</td><td>Piz Plauncas</td><td>Lumnezia</td><td>2010</td><td>2021</td></tr>
@@ -2215,7 +2328,7 @@ Anhang 1[^t-1]
 <tr><td>8646</td><td>Mons</td><td>Lumnezia</td><td>2010</td><td>2021</td></tr>
 <tr><td>8647</td><td>Mittel-Feistenberg</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8649</td><td>Montaschg</td><td>Vals</td><td>2010</td><td>2021</td></tr>
-<tr><td>8651</td><td>Val Tui</td><td>Lumnezia</td><td>2010</td><td>2021</td></tr>
+<tr><td>8651</td><td>Val Tui</td><td>Lumnezia</td><td>2021</td><td></td></tr>
 <tr><td>8653</td><td>Hasagada</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8656</td><td>Plansch</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8658</td><td>Carnalta</td><td>Rossa</td><td>2010</td><td>2021</td></tr>
@@ -2237,7 +2350,7 @@ Anhang 1[^t-1]
 <tr><td>8721</td><td>Studenberg</td><td>Untervaz</td><td>2010</td><td>2021</td></tr>
 <tr><td>8722</td><td>Cyprianspitz</td><td>Trimmis</td><td>2010</td><td>2021</td></tr>
 <tr><td>8724</td><td>Pardätsch</td><td>Trimmis</td><td>2010</td><td>2021</td></tr>
-<tr><td>8730</td><td>Batänja</td><td>Haldenstein</td><td>2010</td><td>2021</td></tr>
+<tr><td>8730</td><td>Batänja</td><td>Haldenstein</td><td>2021</td><td></td></tr>
 <tr><td>8732</td><td>Martschällis</td><td>Trimmis</td><td>2021</td><td></td></tr>
 <tr><td>8733</td><td>Sasserdunt</td><td>Haldenstein</td><td>2021</td><td></td></tr>
 <tr><td>8734</td><td>Berg</td><td>Haldenstein</td><td>2010</td><td>2021</td></tr>
@@ -2261,7 +2374,7 @@ Anhang 1[^t-1]
 <tr><td>8782</td><td>Plattas</td><td>Albula/Alvra</td><td>2010</td><td>2021</td></tr>
 <tr><td>8783</td><td>Rundandagls</td><td>Albula/Alvra</td><td>2010</td><td>2021</td></tr>
 <tr><td>8784</td><td>God Davos</td><td>Bergün Filisur</td><td>2010</td><td>2021</td></tr>
-<tr><td>8786</td><td>Muntatsch</td><td>Zuoz</td><td>2010</td><td>2021</td></tr>
+<tr><td>8786</td><td>Muntatsch</td><td>Zuoz</td><td>2021</td><td></td></tr>
 <tr><td>8789</td><td>Studamatt</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8791</td><td>Nassel</td><td>Mesocco</td><td>2010</td><td>2021</td></tr>
 <tr><td>8792</td><td>Soliva</td><td>Mesocco</td><td>2010</td><td>2021</td></tr>
@@ -2345,14 +2458,14 @@ Anhang 1[^t-1]
 <tr><td>8963</td><td>Chaclauet</td><td>Bergün Filisur</td><td>2010</td><td>2021</td></tr>
 <tr><td>8964</td><td>Blais Torta</td><td>Bergün Filisur</td><td>2010</td><td>2021</td></tr>
 <tr><td>8971</td><td>Pro d’Men</td><td>Bergün Filisur</td><td>2010</td><td>2021</td></tr>
-<tr><td>8977</td><td>Latschs</td><td>Bergün Filisur</td><td>2010</td><td>2021</td></tr>
+<tr><td>8977</td><td>Latschs</td><td>Bergün Filisur</td><td>2021</td><td></td></tr>
 <tr><td>8978</td><td>Quedras</td><td>S-chanf, Zuoz</td><td>2010</td><td>2021</td></tr>
 <tr><td>8979</td><td>Rischeili</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8982</td><td>Güngel</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8983</td><td>Dri Tachli</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8985</td><td>Peiler Bärga</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8986</td><td>Glarr</td><td>Vals</td><td>2010</td><td>2021</td></tr>
-<tr><td>8988</td><td>Pradatsch Grand</td><td>Madulain, Zuoz</td><td>2010</td><td>2021</td></tr>
+<tr><td>8988</td><td>Pradatsch Grand</td><td>Madulain, Zuoz</td><td>2021</td><td></td></tr>
 <tr><td>8991</td><td>Pradatsch</td><td>Madulain</td><td>2010</td><td>2021</td></tr>
 <tr><td>8994</td><td>Balmschli</td><td>Vals</td><td>2010</td><td>2021</td></tr>
 <tr><td>8995</td><td>Balmatachli</td><td>Vals</td><td>2010</td><td>2021</td></tr>
@@ -2444,11 +2557,11 @@ Anhang 1[^t-1]
 <tr><td>9276</td><td>Motta da Parpi</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9277</td><td>Salaschigns</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9280</td><td>Glignia</td><td>Surses</td><td>2010</td><td>2021</td></tr>
-<tr><td>9281</td><td>La Badogna</td><td>Surses</td><td>2010</td><td>2021</td></tr>
+<tr><td>9281</td><td>La Badogna</td><td>Surses</td><td>2021</td><td></td></tr>
 <tr><td>9282</td><td>Pro Barlegn</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9283</td><td>Crap Barnagn</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9285</td><td>Fops</td><td>Surses</td><td>2010</td><td>2021</td></tr>
-<tr><td>9286</td><td>Talvangas</td><td>Surses</td><td>2010</td><td>2021</td></tr>
+<tr><td>9286</td><td>Talvangas</td><td>Surses</td><td>2021</td><td></td></tr>
 <tr><td>9289</td><td>Pro Lung</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9292</td><td>Rudnal</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9293</td><td>Monas</td><td>Surses</td><td>2010</td><td>2021</td></tr>
@@ -2464,7 +2577,7 @@ Anhang 1[^t-1]
 <tr><td>9308</td><td>Foppa</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9314</td><td>Tigia</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9316</td><td>Tscheppa</td><td>Surses</td><td>2010</td><td>2021</td></tr>
-<tr><td>9317</td><td>Clavo Soura</td><td>Surses</td><td>2010</td><td>2021</td></tr>
+<tr><td>9317</td><td>Clavo Soura</td><td>Surses</td><td>2021</td><td></td></tr>
 <tr><td>9318</td><td>Amodeus</td><td>Surses</td><td>2010</td><td>2021</td></tr>
 <tr><td>9320</td><td>Campsut</td><td>Avers</td><td>2010</td><td>2021</td></tr>
 <tr><td>9321</td><td>Macsur</td><td>Avers</td><td>2010</td><td>2021</td></tr>
@@ -2518,7 +2631,7 @@ Anhang 1[^t-1]
 <tr><td>9444</td><td>Aschüel</td><td>Luzein</td><td>2010</td><td>2021</td></tr>
 <tr><td>9447</td><td>Hundmeder</td><td>Luzein</td><td>2010</td><td>2021</td></tr>
 <tr><td>9450</td><td>Meder</td><td>Luzein</td><td>2010</td><td>2021</td></tr>
-<tr><td>9457</td><td>Rufinetia</td><td>Klosters-Serneus</td><td>2010</td><td>2021</td></tr>
+<tr><td>9457</td><td>Rufinetia</td><td>Klosters-Serneus</td><td>2021</td><td></td></tr>
 <tr><td>9458</td><td>Leidwang</td><td>Klosters-Serneus</td><td>2010</td><td>2021</td></tr>
 <tr><td>9462</td><td>Arensa</td><td>Klosters-Serneus</td><td>2010</td><td>2021</td></tr>
 <tr><td>9464</td><td>Rafailis</td><td>Klosters-Serneus</td><td>2010</td><td>2021</td></tr>
@@ -2658,7 +2771,7 @@ Anhang 1[^t-1]
 <tr><td>9806</td><td>Prada Bella</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
 <tr><td>9809</td><td>Padnal</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
 <tr><td>9811</td><td>Chaschinas</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
-<tr><td>9812</td><td>Ils Chomps</td><td>Scuol</td><td>2010</td><td>2021</td></tr>
+<tr><td>9812</td><td>Ils Chomps</td><td>Scuol</td><td>2010</td><td>2021/25</td></tr>
 <tr><td>9814</td><td>Plattas</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
 <tr><td>9815</td><td>Gondas</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
 <tr><td>9816</td><td>Umblin</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
@@ -2669,7 +2782,7 @@ Anhang 1[^t-1]
 <tr><td>9827</td><td>Bruschgaläschg</td><td>Safiental</td><td>2010</td><td>2021</td></tr>
 <tr><td>9828</td><td>Muttner Berge</td><td>Thusis</td><td>2010</td><td>2021</td></tr>
 <tr><td>9830</td><td>Spedlas-Vduogn</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
-<tr><td>9831</td><td>Chadench</td><td>Zernez</td><td>2010</td><td>2021</td></tr>
+<tr><td>9831</td><td>Chadench</td><td>Zernez</td><td>2021</td><td></td></tr>
 <tr><td>9832</td><td>Breitenberg</td><td>Zillis-Reischen</td><td>2010</td><td>2021</td></tr>
 <tr><td>9834</td><td>Samest Sura</td><td>Zillis-Reischen</td><td>2010</td><td>2021</td></tr>
 <tr><td>9835</td><td>Badér</td><td>Zillis-Reischen</td><td>2010</td><td>2021</td></tr>
@@ -2721,7 +2834,7 @@ Anhang 1[^t-1]
 <tr><td>9951</td><td>Botta Sassella</td><td>Celerina/Schlarigna</td><td>2010</td><td>2021</td></tr>
 <tr><td>9953</td><td>Foppa</td><td>Ferrera</td><td>2010</td><td>2021</td></tr>
 <tr><td>9954</td><td>Stgavatsch</td><td>Ferrera</td><td>2010</td><td>2021</td></tr>
-<tr><td>9959</td><td>Plaz</td><td>Surses</td><td>2010</td><td>2021</td></tr>
+<tr><td>9959</td><td>Plaz</td><td>Surses</td><td>2021</td><td></td></tr>
 <tr><td>9960</td><td>Cresta</td><td>Avers</td><td>2021</td><td></td></tr>
 <tr><td>9961</td><td>Avers</td><td>Avers</td><td>2010</td><td>2021</td></tr>
 <tr><td>9965</td><td>Mottas</td><td>Surses</td><td>2010</td><td>2021</td></tr>
@@ -2798,7 +2911,7 @@ Anhang 1[^t-1]
 <tr><td>11129</td><td>Alat</td><td>Arosa</td><td>2010</td><td>2021</td></tr>
 <tr><td>11130</td><td>Sapün</td><td>Arosa</td><td>2010</td><td>2021</td></tr>
 <tr><td>11131</td><td>Alpwisli</td><td>Davos</td><td>2010</td><td>2021</td></tr>
-<tr><td>11136</td><td>Rungs</td><td>Arosa</td><td>2010</td><td>2021</td></tr>
+<tr><td>11136</td><td>Rungs</td><td>Arosa</td><td>2021</td><td></td></tr>
 <tr><td>11137</td><td>In den Stöcken</td><td>Davos</td><td>2010</td><td>2021</td></tr>
 <tr><td>11138</td><td>Palüda</td><td>Davos</td><td>2010</td><td>2021</td></tr>
 <tr><td>11139</td><td>Pfaffenbarga</td><td>Churwalden</td><td>2010</td><td>2021</td></tr>
@@ -2913,7 +3026,6 @@ Anhang 1[^t-1]
 <tr><td>11355</td><td>Heuberge</td><td>Chur</td><td>2021</td><td></td></tr>
 <tr><td>11360</td><td>Lächersch Tolen</td><td>Luzein</td><td>2021</td><td></td></tr>
 <tr><td>11362</td><td>Schurli</td><td>Luzein</td><td>2021</td><td></td></tr>
-<tr><td>11363</td><td>Maiensässe</td><td>Luzein</td><td>2021</td><td></td></tr>
 <tr><td>11366</td><td>Güger</td><td>Grüsch</td><td>2021</td><td></td></tr>
 <tr><td>11368</td><td>Wal</td><td>Grüsch</td><td>2021</td><td></td></tr>
 <tr><td>11369</td><td>Rueboden</td><td>Grüsch</td><td>2021</td><td></td></tr>
@@ -3106,14 +3218,14 @@ Anhang 1[^t-1]
 <tr><td>4531</td><td>Bauertacher</td><td>Mettauertal</td><td>2010</td><td></td></tr>
 <tr><td>4532</td><td>Müsler</td><td>Mettauertal</td><td>2010</td><td></td></tr>
 <tr><td>4539</td><td>Nassberg</td><td>Villigen</td><td>2010</td><td></td></tr>
-<tr><td>4540</td><td>Hörndlihau</td><td>Endingen</td><td>2010</td><td></td></tr>
+<tr><td>4540</td><td>Hörndlihau</td><td>Endingen</td><td>2010</td><td>2025</td></tr>
 <tr><td>4541</td><td>Altenberg</td><td>Zeiningen</td><td>2010</td><td></td></tr>
 <tr><td>4542</td><td>Hasenberg</td><td>Mettauertal</td><td>2010</td><td></td></tr>
 <tr><td>4543</td><td>Eikerberg</td><td>Obermumpf</td><td>2010</td><td></td></tr>
 <tr><td>4544</td><td>Hämmenägerten</td><td>Remigen</td><td>2010</td><td></td></tr>
 <tr><td>4545</td><td>Schemel</td><td>Elfingen</td><td>2010</td><td></td></tr>
 <tr><td>4546</td><td>Schlatt</td><td>Untersiggenthal</td><td>2010</td><td></td></tr>
-<tr><td>4548</td><td>Stroppel</td><td>Untersiggenthal</td><td>2010</td><td></td></tr>
+<tr><td>4548</td><td>Stroppel</td><td>Untersiggenthal</td><td>2010</td><td>2025</td></tr>
 <tr><td>4551</td><td>Rüteli</td><td>Untersiggenthal</td><td>2010</td><td></td></tr>
 <tr><td>4554</td><td>Ärfematt</td><td>Wegenstetten</td><td>2010</td><td></td></tr>
 <tr><td>4555</td><td>Rieden</td><td>Ehrendingen</td><td>2010</td><td></td></tr>
@@ -3126,9 +3238,9 @@ Anhang 1[^t-1]
 <tr><td>4566</td><td>Egghübel</td><td>Küttigen</td><td>2010</td><td></td></tr>
 <tr><td>4567</td><td>Buhalden</td><td>Biberstein</td><td>2010</td><td></td></tr>
 <tr><td>4569</td><td>Zetzwil</td><td>Gontenschwil, Zetzwil</td><td>2010</td><td></td></tr>
-<tr><td>4573</td><td>Altrüti</td><td>Mettauertal</td><td>2010</td><td></td></tr>
+<tr><td>4573</td><td>Altrüti</td><td>Mettauertal</td><td>2010</td><td>2025</td></tr>
 <tr><td>4574</td><td>Chilhalde</td><td>Mettauertal</td><td>2010</td><td></td></tr>
-<tr><td>4575</td><td>Ritterhalde</td><td>Mettauertal</td><td>2010</td><td></td></tr>
+<tr><td>4575</td><td>Ritterhalde</td><td>Mettauertal</td><td>2010</td><td>2025</td></tr>
 <tr><td>4579</td><td>Chänebüel</td><td>Böttstein</td><td>2010</td><td></td></tr>
 <tr><td>4580</td><td>Eichhalden</td><td>Böttstein</td><td>2010</td><td></td></tr>
 <tr><td>4581</td><td>Besseberg</td><td>Mandach, Mettauertal</td><td>2010</td><td></td></tr>
@@ -3144,13 +3256,13 @@ Anhang 1[^t-1]
 <tr><td>4599</td><td>Bernet</td><td>Zeiningen</td><td>2010</td><td></td></tr>
 <tr><td>4600</td><td>Bürersteig</td><td>Remigen</td><td>2010</td><td></td></tr>
 <tr><td>4601</td><td>Unterem Berg</td><td>Obermumpf</td><td>2010</td><td></td></tr>
-<tr><td>4602</td><td>Chatzehalde</td><td>Zuzgen</td><td>2010</td><td></td></tr>
+<tr><td>4602</td><td>Chatzehalde</td><td>Zuzgen</td><td>2010</td><td>2025</td></tr>
 <tr><td>4603</td><td>Hüslimatt</td><td>Oeschgen</td><td>2010</td><td></td></tr>
-<tr><td>4604</td><td>Schlossberg</td><td>Villigen</td><td>2010</td><td></td></tr>
+<tr><td>4604</td><td>Schlossberg</td><td>Villigen</td><td>2010</td><td>2025</td></tr>
 <tr><td>4609</td><td>Grossmatt</td><td>Villigen</td><td>2010</td><td></td></tr>
 <tr><td>4610</td><td>Walledal</td><td>Zuzgen</td><td>2010</td><td></td></tr>
-<tr><td>4612</td><td>Zelg</td><td>Hellikon</td><td>2010</td><td></td></tr>
-<tr><td>4614</td><td>Zelg</td><td>Hellikon</td><td>2010</td><td></td></tr>
+<tr><td>4612</td><td>Zelg</td><td>Hellikon</td><td>2010</td><td>2025</td></tr>
+<tr><td>4614</td><td>Zelg</td><td>Hellikon</td><td>2010</td><td>2025</td></tr>
 <tr><td>4615</td><td>Schönenbüel</td><td>Schupfart</td><td>2010</td><td></td></tr>
 <tr><td>4617</td><td>Wolftel</td><td>Hornussen</td><td>2010</td><td></td></tr>
 <tr><td>4618</td><td>Langenacher</td><td>Hornussen</td><td>2010</td><td></td></tr>
@@ -3230,11 +3342,11 @@ Anhang 1[^t-1]
 <tr><td>1404</td><td>Fornéi</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1405</td><td>Ronchetto</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1407</td><td>Camperio</td><td>Blenio</td><td>2010</td><td></td></tr>
-<tr><td>1408</td><td>M. di Vento</td><td>Airolo</td><td>2010</td><td>2017</td></tr>
+<tr><td>1408</td><td>M. di Vento</td><td>Airolo</td><td>2017</td><td></td></tr>
 <tr><td>1409</td><td>Soz</td><td>Airolo</td><td>2010</td><td></td></tr>
 <tr><td>1410</td><td>Orello</td><td>Bedretto</td><td>2010</td><td></td></tr>
-<tr><td>1411</td><td>Predèlp</td><td>Faido</td><td>2010</td><td>2017</td></tr>
-<tr><td>1412</td><td>Pianezza</td><td>Blenio</td><td>2010</td><td>2017</td></tr>
+<tr><td>1411</td><td>Predèlp</td><td>Faido</td><td>2017</td><td></td></tr>
+<tr><td>1412</td><td>Pianezza</td><td>Blenio</td><td>2017</td><td></td></tr>
 <tr><td>1416</td><td>Bidré</td><td>Faido</td><td>2010</td><td></td></tr>
 <tr><td>1418</td><td>Ticiall</td><td>Acquarossa</td><td>2010</td><td></td></tr>
 <tr><td>1419</td><td>Tortengo</td><td>Faido</td><td>2010</td><td>2017</td></tr>
@@ -3245,19 +3357,20 @@ Anhang 1[^t-1]
 <tr><td>1430</td><td>Bedrin</td><td>Personico</td><td>2010</td><td></td></tr>
 <tr><td>1433</td><td>Brione</td><td>Brione (Verzasca)</td><td>2010</td><td></td></tr>
 <tr><td>1436</td><td>Monte</td><td>Onsernone</td><td>2010</td><td></td></tr>
-<tr><td>1451</td><td>Canedo</td><td>Monteceneri</td><td>2010</td><td>2017</td></tr>
+<tr><td>1447</td><td>Vellano</td><td>Bellinzona</td><td>2025</td><td></td></tr>
+<tr><td>1451</td><td>Canedo</td><td>Monteceneri</td><td>2017</td><td></td></tr>
 <tr><td>1454</td><td>Canscei</td><td>Capriasca</td><td>2010</td><td></td></tr>
 <tr><td>1455</td><td>Colla</td><td>Lugano</td><td>2010</td><td></td></tr>
-<tr><td>1456</td><td>Fescoggia</td><td>Alto Malcantone</td><td>2010</td><td>2017</td></tr>
+<tr><td>1456</td><td>Fescoggia</td><td>Alto Malcantone</td><td>2017</td><td>2025</td></tr>
 <tr><td>1457</td><td>Rovadé</td><td>Lugano</td><td>2010</td><td></td></tr>
-<tr><td>1459</td><td>S. Evasio</td><td>Arogno</td><td>2010</td><td>2017</td></tr>
+<tr><td>1459</td><td>S. Evasio</td><td>Arogno</td><td>2017</td><td></td></tr>
 <tr><td>1460</td><td>Pinca Zuccone</td><td>Arogno</td><td>2010</td><td>2017</td></tr>
 <tr><td>1462</td><td>Berretta</td><td>Arogno</td><td>2010</td><td></td></tr>
 <tr><td>1463</td><td>Lunghi</td><td>Rovio</td><td>2010</td><td></td></tr>
 <tr><td>1465</td><td>Orsàira di Fuori</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1467</td><td>Töira</td><td>Blenio</td><td>2010</td><td></td></tr>
-<tr><td>1471</td><td>Cassina</td><td>Airolo</td><td>2010</td><td>2017</td></tr>
-<tr><td>1472</td><td>Croce</td><td>Airolo</td><td>2010</td><td>2017</td></tr>
+<tr><td>1471</td><td>Cassina</td><td>Airolo</td><td>2017</td><td></td></tr>
+<tr><td>1472</td><td>Croce</td><td>Airolo</td><td>2017</td><td></td></tr>
 <tr><td>1473</td><td>Campra di Qua</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1474</td><td>Fontana</td><td>Airolo</td><td>2010</td><td></td></tr>
 <tr><td>1476</td><td>Soria Sopra</td><td>Bedretto</td><td>2010</td><td></td></tr>
@@ -3265,31 +3378,31 @@ Anhang 1[^t-1]
 <tr><td>1484</td><td>Rossinengo</td><td>Faido</td><td>2010</td><td></td></tr>
 <tr><td>1486</td><td>Gorda di Sotto</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1487</td><td>Gorda di Sopra</td><td>Blenio</td><td>2010</td><td></td></tr>
-<tr><td>1489</td><td>Chingéi</td><td>Faido</td><td>2010</td><td>2017</td></tr>
+<tr><td>1489</td><td>Chingéi</td><td>Faido</td><td>2017</td><td></td></tr>
 <tr><td>1491</td><td>Premesti</td><td>Acquarossa</td><td>2010</td><td></td></tr>
-<tr><td>1493</td><td>Trascis</td><td>Acquarossa</td><td>2010</td><td></td></tr>
+<tr><td>1493</td><td>Trascis</td><td>Acquarossa</td><td>2010</td><td>2025</td></tr>
 <tr><td>1495</td><td>San Lorenzo</td><td>Faido</td><td>2010</td><td>2017</td></tr>
 <tr><td>1498</td><td>Suréi</td><td>Acquarossa</td><td>2010</td><td></td></tr>
 <tr><td>1507</td><td>Ciossera</td><td>Acquarossa</td><td>2010</td><td></td></tr>
 <tr><td>1508</td><td>Ca del Cucco</td><td>Serravalle</td><td>2010</td><td></td></tr>
 <tr><td>1511</td><td>Tros</td><td>Serravalle</td><td>2010</td><td></td></tr>
 <tr><td>1512</td><td>Pianzei</td><td>Serravalle</td><td>2010</td><td></td></tr>
-<tr><td>1514</td><td>Solgone</td><td>Biasca</td><td>2010</td><td>2017</td></tr>
+<tr><td>1514</td><td>Solgone</td><td>Biasca</td><td>2017</td><td></td></tr>
 <tr><td>1515</td><td>Tasbèi</td><td>Serravalle</td><td>2010</td><td></td></tr>
-<tr><td>1516</td><td>Tücc nev</td><td>Biasca</td><td>2010</td><td>2017</td></tr>
+<tr><td>1516</td><td>Tücc nev</td><td>Biasca</td><td>2017</td><td></td></tr>
 <tr><td>1517</td><td>Grotti di Loderio</td><td>Biasca</td><td>2010</td><td></td></tr>
 <tr><td>1521</td><td>Iragna</td><td>Iragna</td><td>2010</td><td>2017</td></tr>
-<tr><td>1525</td><td>Aurigeno</td><td>Maggia</td><td>2010</td><td></td></tr>
+<tr><td>1525</td><td>Aurigeno</td><td>Maggia</td><td>2010</td><td>2025</td></tr>
 <tr><td>1528</td><td>Torbeccio</td><td>Maggia</td><td>2010</td><td></td></tr>
 <tr><td>1531</td><td>Prou</td><td>Onsernone</td><td>2010</td><td>2017</td></tr>
 <tr><td>1532</td><td>Cortone</td><td>Onsernone</td><td>2010</td><td>2017</td></tr>
 <tr><td>1537</td><td>Monte di Comino</td><td>Centovalli</td><td>2010</td><td></td></tr>
-<tr><td>1538</td><td>Melera</td><td>Sant’Antonio</td><td>2010</td><td>2017</td></tr>
-<tr><td>1543</td><td>Carena</td><td>Sant Antonio</td><td>2010</td><td>2017</td></tr>
+<tr><td>1538</td><td>Melera</td><td>Sant’Antonio</td><td>2017</td><td></td></tr>
+<tr><td>1543</td><td>Carena</td><td>Sant Antonio</td><td>2017</td><td></td></tr>
 <tr><td>1544</td><td>Monte di Comino</td><td>Centovalli</td><td>2010</td><td></td></tr>
-<tr><td>1548</td><td>Sasséll</td><td>Ronco sopra Ascona</td><td>2010</td><td>2017</td></tr>
+<tr><td>1548</td><td>Sasséll</td><td>Ronco sopra Ascona</td><td>2017</td><td></td></tr>
 <tr><td>1550</td><td>Castra</td><td>Lugano</td><td>2010</td><td></td></tr>
-<tr><td>1551</td><td>Arogno</td><td>Arogno</td><td>2010</td><td>2017</td></tr>
+<tr><td>1551</td><td>Arogno</td><td>Arogno</td><td>2017</td><td></td></tr>
 <tr><td>1553</td><td>A. Vicania</td><td>Vico Morcote</td><td>2010</td><td></td></tr>
 <tr><td>1573</td><td>Ex Aeroporto</td><td>Ascona</td><td>2017</td><td></td></tr>
 <tr><td>1574</td><td>Guasto</td><td>Breggia</td><td>2010</td><td></td></tr>
@@ -3320,19 +3433,19 @@ Anhang 1[^t-1]
 <tr><td>1639</td><td>Grotto del Lauro</td><td>Castel San Pietro</td><td>2010</td><td></td></tr>
 <tr><td>1640</td><td>Pianche</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1642</td><td>Coleta</td><td>Onsernone</td><td>2010</td><td></td></tr>
-<tr><td>1644</td><td>Ronco</td><td>Quinto</td><td>2010</td><td>2017</td></tr>
+<tr><td>1644</td><td>Ronco</td><td>Quinto</td><td>2017</td><td></td></tr>
 <tr><td>1645</td><td>Liràn</td><td>Quinto</td><td>2010</td><td></td></tr>
-<tr><td>1646</td><td>Grumascòi</td><td>Blenio</td><td>2010</td><td>2017</td></tr>
+<tr><td>1646</td><td>Grumascòi</td><td>Blenio</td><td>2017</td><td></td></tr>
 <tr><td>1648</td><td>S. Giorgio</td><td>Acquarossa</td><td>2010</td><td></td></tr>
 <tr><td>1650</td><td>Margonègia</td><td>Lavizzara</td><td>2010</td><td></td></tr>
 <tr><td>1652</td><td>Selna</td><td>Centovalli</td><td>2010</td><td>2017</td></tr>
 <tr><td>1654</td><td>Prato di Ce</td><td>Airolo</td><td>2010</td><td></td></tr>
-<tr><td>1655</td><td>Cima del Bosco</td><td>Airolo</td><td>2010</td><td>2017</td></tr>
+<tr><td>1655</td><td>Cima del Bosco</td><td>Airolo</td><td>2017</td><td></td></tr>
 <tr><td>1656</td><td>Busnengo</td><td>Quinto</td><td>2010</td><td></td></tr>
 <tr><td>1657</td><td>Deggio</td><td>Quinto</td><td>2010</td><td></td></tr>
 <tr><td>1660</td><td>Pradóir</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1665</td><td>Monte di Cima</td><td>Lavizzara</td><td>2010</td><td></td></tr>
-<tr><td>1666</td><td>Gropp</td><td>Terre di Pedemonte</td><td>2010</td><td>2017</td></tr>
+<tr><td>1666</td><td>Gropp</td><td>Terre di Pedemonte</td><td>2017</td><td></td></tr>
 <tr><td>1667</td><td>Gerre</td><td>Losone, Terre di Pedemonte</td><td>2010</td><td></td></tr>
 <tr><td>1669</td><td>Andirö</td><td>Blenio</td><td>2010</td><td></td></tr>
 <tr><td>1673</td><td>Sasso Guidà</td><td>Sant’Antonio</td><td>2010</td><td></td></tr>
@@ -3395,7 +3508,7 @@ Anhang 1[^t-1]
 <tr><td>6083</td><td>Chaux Ronde</td><td>Ollon</td><td>2010</td><td>2012</td></tr>
 <tr><td>6084</td><td>Marche de Retaud</td><td>Ormont-Dessus</td><td>2010</td><td></td></tr>
 <tr><td>6086</td><td>Marnex d’en Haut</td><td>Ormont-Dessus</td><td>2010</td><td></td></tr>
-<tr><td>6087</td><td>Les Cernets Dessous</td><td>Bullet</td><td>2010</td><td></td></tr>
+<tr><td>6087</td><td>Les Cernets Dessous</td><td>Bullet</td><td>2010</td><td>2025</td></tr>
 <tr><td>6088</td><td>Dru aux Boyards</td><td>Bex</td><td>2010</td><td></td></tr>
 <tr><td>6091</td><td>La Calame</td><td>Fontaines-sur-Grandson</td><td>2010</td><td></td></tr>
 <tr><td>6092</td><td>Le Vey</td><td>Ormont-Dessus</td><td>2010</td><td></td></tr>
@@ -3406,7 +3519,7 @@ Anhang 1[^t-1]
 <tr><td>6101</td><td>Euzanne</td><td>Bex</td><td>2010</td><td></td></tr>
 <tr><td>6105</td><td>Joux d’Aï</td><td>Leysin</td><td>2010</td><td></td></tr>
 <tr><td>6106</td><td>La Motte</td><td>Bex</td><td>2010</td><td></td></tr>
-<tr><td>6111</td><td>Sonna</td><td>Ormont-Dessous</td><td>2010</td><td></td></tr>
+<tr><td>6111</td><td>Sonna</td><td>Ormont-Dessous</td><td>2010</td><td>2025</td></tr>
 <tr><td>6112</td><td>Rochers de Naye</td><td>Villeneuve</td><td>2010</td><td></td></tr>
 <tr><td>6113</td><td>Planachaux</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6114</td><td>Planex Dessous</td><td>Château-d’Oex, Rougemont</td><td>2010</td><td></td></tr>
@@ -3417,20 +3530,20 @@ Anhang 1[^t-1]
 <tr><td>6119</td><td>Paray Dorénaz</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6120</td><td>Mont Dessous</td><td>Rossinière</td><td>2010</td><td></td></tr>
 <tr><td>6122</td><td>Le Linderrey</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
-<tr><td>6126</td><td>Le Lévanchy</td><td>Rossinière</td><td>2010</td><td></td></tr>
+<tr><td>6126</td><td>Le Lévanchy</td><td>Rossinière</td><td>2010</td><td>2025</td></tr>
 <tr><td>6127</td><td>Les Planards</td><td>Rossinière</td><td>2010</td><td></td></tr>
 <tr><td>6128</td><td>Prélan</td><td>Leysin</td><td>2010</td><td></td></tr>
 <tr><td>6129</td><td>Ruble</td><td>Rougemont</td><td>2010</td><td></td></tr>
 <tr><td>6130</td><td>Sassalas d’en Bas</td><td>Rougemont</td><td>2010</td><td></td></tr>
 <tr><td>6132</td><td>Le Chalotet</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
-<tr><td>6133</td><td>L’Orgeolet</td><td>Bex</td><td>2010</td><td></td></tr>
+<tr><td>6133</td><td>L’Orgeolet</td><td>Bex</td><td>2010</td><td>2025</td></tr>
 <tr><td>6134</td><td>Les Chenolettes</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6135</td><td>Dent des Bimis</td><td>Rougemont</td><td>2010</td><td></td></tr>
 <tr><td>6136</td><td>La Videman Dessus</td><td>Château-d’Oex, Rougemont</td><td>2010</td><td></td></tr>
 <tr><td>6137</td><td>Les Rayes</td><td>Rougemont</td><td>2010</td><td></td></tr>
 <tr><td>6138</td><td>La Chanette d’en Haut</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6139</td><td>Veyges</td><td>Leysin</td><td>2010</td><td></td></tr>
-<tr><td>6140</td><td>La Boule de Gomme</td><td>Leysin</td><td>2010</td><td>2012</td></tr>
+<tr><td>6140</td><td>La Boule de Gomme</td><td>Leysin</td><td>2010</td><td>2012/25</td></tr>
 <tr><td>6143</td><td>La Forcla</td><td>Rougemont</td><td>2010</td><td></td></tr>
 <tr><td>6149</td><td>L’Etivaz</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6150</td><td>Mont Derrière</td><td>Rossinière</td><td>2010</td><td></td></tr>
@@ -3446,7 +3559,7 @@ Anhang 1[^t-1]
 <tr><td>6161</td><td>Les Riz</td><td>Rossinière</td><td>2010</td><td></td></tr>
 <tr><td>6162</td><td>Paray Dorénaz</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6163</td><td>Plan de l’Etalle</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
-<tr><td>6164</td><td>Les Posses</td><td>Bex, Gryon</td><td>2010</td><td>2012/17</td></tr>
+<tr><td>6164</td><td>Les Posses</td><td>Bex, Gryon</td><td>2010</td><td>2012/17/25</td></tr>
 <tr><td>6165</td><td>Combette</td><td>Rougemont</td><td>2010</td><td></td></tr>
 <tr><td>6166</td><td>Petit Jable</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6167</td><td>Au Devin</td><td>Rossinière</td><td>2010</td><td></td></tr>
@@ -3457,7 +3570,7 @@ Anhang 1[^t-1]
 <tr><td>6176</td><td>Le Praude</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6177</td><td>La Montagnette</td><td>Château-d’Oex</td><td>2010</td><td>2017</td></tr>
 <tr><td>6178</td><td>Sisounette</td><td>Rougemont</td><td>2010</td><td></td></tr>
-<tr><td>6179</td><td>Crête d’Auliens</td><td>Ollon</td><td>2010</td><td>2012/17</td></tr>
+<tr><td>6179</td><td>Crête d’Auliens</td><td>Ollon</td><td>2010</td><td>2012/ 17/25</td></tr>
 <tr><td>6181</td><td>Paray Charbon</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6182</td><td>Pâquier Martin</td><td>Château-d’Oex</td><td>2010</td><td></td></tr>
 <tr><td>6185</td><td>La Ville</td><td>Ormont-Dessous</td><td>2010</td><td></td></tr>
@@ -3490,7 +3603,7 @@ Anhang 1[^t-1]
 <tr><td>6267</td><td>Huémoz</td><td>Ollon</td><td>2010</td><td>2012</td></tr>
 <tr><td>6279</td><td>Genièvre</td><td>Bex</td><td>2010</td><td></td></tr>
 <tr><td>6280</td><td>La Combe</td><td>Bex</td><td>2010</td><td></td></tr>
-<tr><td>6281</td><td>Gotale</td><td>Villeneuve</td><td>2010</td><td></td></tr>
+<tr><td>6281</td><td>Gotale</td><td>Villeneuve</td><td>2010</td><td>2025</td></tr>
 <tr><td>6284</td><td>Ponty</td><td>Leysin</td><td>2010</td><td></td></tr>
 <tr><td>6285</td><td>Les Afforets</td><td>Aigle</td><td>2010</td><td></td></tr>
 <tr><td>6289</td><td>Eslex</td><td>Lavey-Morcles</td><td>2010</td><td></td></tr>
@@ -3516,7 +3629,7 @@ Anhang 1[^t-1]
 <tr><td>6326</td><td>Chalet Neuf du Mont Tendre</td><td>Montricher</td><td>2010</td><td></td></tr>
 <tr><td>6329</td><td>Le Suchet</td><td>Baulmes, Rances</td><td>2010</td><td></td></tr>
 <tr><td>6330</td><td>Dent de Vaulion</td><td>Vaulion</td><td>2010</td><td></td></tr>
-<tr><td>6331</td><td>Bois de Chênes</td><td>Arzier-Le Muids, Coinsins, Genolier, Vich</td><td>2010</td><td>2017</td></tr>
+<tr><td>6331</td><td>Bois de Chênes</td><td>Arzier-Le Muids, Coinsins, Genolier, Vich</td><td>2010</td><td>2017/25</td></tr>
 <tr><td>6333</td><td>L’Etang</td><td>Le Lieu</td><td>2010</td><td></td></tr>
 <tr><td>6334</td><td>Rochey</td><td>Premier</td><td>2010</td><td></td></tr>
 <tr><td>6335</td><td>Plaine à Gallay</td><td>Arzier-Le Muids</td><td>2010</td><td></td></tr>
@@ -3529,7 +3642,7 @@ Anhang 1[^t-1]
 <tr><td>6346</td><td>Grand Essert du Vent</td><td>L’Abbaye</td><td>2010</td><td></td></tr>
 <tr><td>6347</td><td>Sonloup</td><td>Montreux</td><td>2010</td><td>2017</td></tr>
 <tr><td>6348</td><td>Le Planet</td><td>Bassins</td><td>2010</td><td></td></tr>
-<tr><td>6349</td><td>Bugnaux</td><td>Essertines-sur-Rolle</td><td>2010</td><td>2012</td></tr>
+<tr><td>6349</td><td>Bugnaux</td><td>Essertines-sur-Rolle</td><td>2010</td><td>2012/25</td></tr>
 <tr><td>6350</td><td>Chalet du Crêt à Chatron Vieux</td><td>Le Lieu</td><td>2010</td><td></td></tr>
 <tr><td>6351</td><td>Les Plainoz</td><td>Le Lieu</td><td>2010</td><td></td></tr>
 <tr><td>6352</td><td>Le Rosset</td><td>Saint-Cergue</td><td>2010</td><td></td></tr>
@@ -3607,7 +3720,7 @@ Anhang 1[^t-1]
 <tr><td>6453</td><td>Baule</td><td>Mont-la-Ville</td><td>2010</td><td></td></tr>
 <tr><td>6458</td><td>La Palud</td><td>Montreux</td><td>2010</td><td></td></tr>
 <tr><td>6459</td><td>Vy de Vugelles</td><td>Bullet</td><td>2010</td><td></td></tr>
-<tr><td>6460</td><td>Le Signal</td><td>Cossonay</td><td>2010</td><td>2012</td></tr>
+<tr><td>6460</td><td>Le Signal</td><td>Cossonay</td><td>2010</td><td>2012/25</td></tr>
 <tr><td>6462</td><td>Les Vaux</td><td>Fiez, Fontaines-sur-Grandson</td><td>2010</td><td></td></tr>
 <tr><td>6464</td><td>La Daille</td><td>Bretonnières</td><td>2010</td><td></td></tr>
 <tr><td>6466</td><td>Bucley</td><td>La Rippe</td><td>2010</td><td>2017</td></tr>
@@ -3634,7 +3747,7 @@ Anhang 1[^t-1]
 <tr><td>6513</td><td>Chemin d’Aubonne</td><td>Dizy</td><td>2010</td><td></td></tr>
 <tr><td>6519</td><td>Les Vaux</td><td>Arnex-sur-Orbe</td><td>2010</td><td></td></tr>
 <tr><td>6524</td><td>La Vaux</td><td>Aubonne</td><td>2010</td><td>2012</td></tr>
-<tr><td>6525</td><td>Le Signal</td><td>Blonay</td><td>2010</td><td></td></tr>
+<tr><td>6525</td><td>Le Signal</td><td>Blonay – Saint-Légier</td><td>2010</td><td>2025</td></tr>
 <tr><td>6527</td><td>Le Mont</td><td>Puidoux</td><td>2010</td><td></td></tr>
 <tr><td>6528</td><td>Pré Defour</td><td>Cossonay</td><td>2010</td><td></td></tr>
 <tr><td>6529</td><td>Sur Crause</td><td>Orny</td><td>2010</td><td>2012</td></tr>
@@ -3645,7 +3758,7 @@ Anhang 1[^t-1]
 <tr><td>6536</td><td>Chermet</td><td>Moudon</td><td>2012</td><td></td></tr>
 <tr><td>6539</td><td>Maconnex</td><td>Jongny</td><td>2010</td><td></td></tr>
 <tr><td>6540</td><td>La Condemine</td><td>Coinsins</td><td>2010</td><td></td></tr>
-<tr><td>6541</td><td>La Scie</td><td>Aubonne</td><td>2010</td><td></td></tr>
+<tr><td>6541</td><td>La Scie</td><td>Aubonne</td><td>2010</td><td>2025</td></tr>
 <tr><td>6546</td><td>Sur le Mont</td><td>Orny</td><td>2010</td><td></td></tr>
 <tr><td>6547</td><td>Chentres</td><td>Essertines-sur-Rolle</td><td>2010</td><td>2017</td></tr>
 <tr><td>6552</td><td>La Pièce</td><td>Curtilles</td><td>2010</td><td></td></tr>
@@ -3656,7 +3769,7 @@ Anhang 1[^t-1]
 <tr><td>6565</td><td>Sur Pévraz</td><td>Eclépens</td><td>2010</td><td></td></tr>
 <tr><td>6572</td><td>Les Eterpis</td><td>Gollion</td><td>2010</td><td></td></tr>
 <tr><td>6575</td><td>Les Allévays</td><td>Arzier-Le Muids</td><td>2010</td><td></td></tr>
-<tr><td>6577</td><td>Vuichime</td><td>Cuarnens</td><td>2010</td><td></td></tr>
+<tr><td>6577</td><td>Vuichime</td><td>Cuarnens</td><td>2010</td><td>2025</td></tr>
 <tr><td>6585</td><td>Ondallaz</td><td>Blonay</td><td>2010</td><td></td></tr>
 <tr><td>6587</td><td>Champ Courbe</td><td>Pompaples</td><td>2010</td><td></td></tr>
 <tr><td>6591</td><td>Bois Guyot</td><td>Bière</td><td>2010</td><td></td></tr>
@@ -3666,7 +3779,7 @@ Anhang 1[^t-1]
 <tr><td>6600</td><td>Sur Crause</td><td>Pompaples</td><td>2010</td><td></td></tr>
 <tr><td>6601</td><td>Maconnex</td><td>Corsier-sur-Vevey</td><td>2010</td><td></td></tr>
 <tr><td>6603</td><td>Trembley</td><td>Vufflens-la-Ville</td><td>2010</td><td></td></tr>
-<tr><td>6605</td><td>Champ Cherdon</td><td>Concise</td><td>2010</td><td></td></tr>
+<tr><td>6605</td><td>Champ Cherdon</td><td>Concise</td><td>2010</td><td>2025</td></tr>
 <tr><td>6609</td><td>Les Bessonnes</td><td>Tévenon</td><td>2010</td><td></td></tr>
 <tr><td>6610</td><td>Bochat</td><td>Chavornay</td><td>2010</td><td></td></tr>
 <tr><td>6611</td><td>Les Râpes</td><td>Ollon</td><td>2010</td><td></td></tr>
@@ -3676,11 +3789,11 @@ Anhang 1[^t-1]
 <tr><td>6625</td><td>Grenive</td><td>Corsier-sur-Vevey</td><td>2010</td><td></td></tr>
 <tr><td>6629</td><td>Criblet</td><td>Ollon</td><td>2010</td><td></td></tr>
 <tr><td>6631</td><td>Chât.</td><td>Bioley-Magnoux</td><td>2010</td><td></td></tr>
-<tr><td>6632</td><td>Plan</td><td>Aubonne</td><td>2010</td><td></td></tr>
+<tr><td>6632</td><td>Plan</td><td>Aubonne</td><td>2010</td><td>2025</td></tr>
 <tr><td>6633</td><td>Jugny</td><td>Arnex-sur-Orbe</td><td>2010</td><td></td></tr>
 <tr><td>6635</td><td>Maupas</td><td>Lucens</td><td>2010</td><td></td></tr>
 <tr><td>6636</td><td>Oulens-sur-Lucens</td><td>Lucens</td><td>2010</td><td></td></tr>
-<tr><td>6637</td><td>Givrins</td><td>Givrins</td><td>2010</td><td></td></tr>
+<tr><td>6637</td><td>Givrins</td><td>Givrins</td><td>2010</td><td>2025</td></tr>
 <tr><td>6638</td><td>Chât. de la Motte</td><td>Ecublens</td><td>2010</td><td>2012</td></tr>
 <tr><td>6639</td><td>Clin. La Joy</td><td>Genolier</td><td>2010</td><td></td></tr>
 <tr><td>6651</td><td>La Vaux</td><td>Arnex-sur-Orbe, Pompaples</td><td>2010</td><td></td></tr>
@@ -3706,12 +3819,13 @@ Anhang 1[^t-1]
 <tr><td>6734</td><td>Col de la Croix</td><td>Ollon</td><td>2012</td><td></td></tr>
 <tr><td>6740</td><td>La Crause</td><td>Puidoux</td><td>2017</td><td></td></tr>
 <tr><td>6741</td><td>Bois de la Glaive</td><td>Ollon</td><td>2017</td><td></td></tr>
+<tr><td>6743</td><td>Buchillon</td><td>Buchillon</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Kanton Wallis</td><td></td><td></td><td></td></tr>
-<tr><td>7003</td><td>Suen-Trogne</td><td>Saint-Martin</td><td>2010</td><td>2017</td></tr>
+<tr><td>7003</td><td>Suen-Trogne</td><td>Saint-Martin</td><td>2017</td><td></td></tr>
 <tr><td>7005</td><td>La Crêta</td><td>Mont-Noble</td><td>2010</td><td></td></tr>
 <tr><td>7006</td><td>La Daille</td><td>Mont-Noble</td><td>2010</td><td>2017</td></tr>
-<tr><td>7007</td><td>Fontany</td><td>Mont-Noble</td><td>2010</td><td>2017</td></tr>
-<tr><td>7015</td><td>Tatz</td><td>Niedergesteln</td><td>2010</td><td>2017</td></tr>
+<tr><td>7007</td><td>Fontany</td><td>Mont-Noble</td><td>2017</td><td></td></tr>
+<tr><td>7015</td><td>Tatz</td><td>Niedergesteln</td><td>2017</td><td></td></tr>
 <tr><td>7016</td><td>Erschmatt</td><td>Gampel-Bratsch, Leuk</td><td>2010</td><td></td></tr>
 <tr><td>7018</td><td>Milachra</td><td>Ausserberg</td><td>2010</td><td></td></tr>
 <tr><td>7021</td><td>Warbfliewildi</td><td>Naters</td><td>2010</td><td></td></tr>
@@ -3726,7 +3840,7 @@ Anhang 1[^t-1]
 <tr><td>7034</td><td>Turand</td><td>Wiler (Lötschen)</td><td>2010</td><td></td></tr>
 <tr><td>7035</td><td>Rufinu</td><td>Kippel</td><td>2010</td><td></td></tr>
 <tr><td>7039</td><td>Biela</td><td>Niedergesteln</td><td>2010</td><td></td></tr>
-<tr><td>7040</td><td>Niedergesteln</td><td>Niedergesteln, Raron, Steg-Hohtenn</td><td>2010</td><td>2017</td></tr>
+<tr><td>7040</td><td>Niedergesteln</td><td>Niedergesteln, Raron, Steg-Hohtenn</td><td>2017</td><td></td></tr>
 <tr><td>7042</td><td>Sädol</td><td>Ausserberg</td><td>2010</td><td></td></tr>
 <tr><td>7046</td><td>Gurru</td><td>Steg-Hohtenn</td><td>2010</td><td></td></tr>
 <tr><td>7047</td><td>Tännji</td><td>Gampel-Bratsch</td><td>2010</td><td></td></tr>
@@ -3736,8 +3850,8 @@ Anhang 1[^t-1]
 <tr><td>7054</td><td>Chleis Bärgji</td><td>Gampel-Bratsch</td><td>2010</td><td></td></tr>
 <tr><td>7057</td><td>Lengmüra</td><td>Ausserberg, Baltschieder</td><td>2010</td><td></td></tr>
 <tr><td>7058</td><td>Chumma</td><td>Naters</td><td>2010</td><td></td></tr>
-<tr><td>7060</td><td>Eggen</td><td>Eggerberg</td><td>2010</td><td>2017</td></tr>
-<tr><td>7063</td><td>Heidnischbiel</td><td>Raron</td><td>2010</td><td>2017</td></tr>
+<tr><td>7060</td><td>Eggen</td><td>Eggerberg</td><td>2017</td><td></td></tr>
+<tr><td>7063</td><td>Heidnischbiel</td><td>Raron</td><td>2017</td><td></td></tr>
 <tr><td>7064</td><td>Giblatt</td><td>Ausserberg, Baltschieder</td><td>2010</td><td></td></tr>
 <tr><td>7065</td><td>Stadelgufer</td><td>Eggerberg</td><td>2010</td><td></td></tr>
 <tr><td>7066</td><td>Unneri Brich</td><td>Brig-Glis, Eggerberg, Naters</td><td>2010</td><td></td></tr>
@@ -3754,9 +3868,9 @@ Anhang 1[^t-1]
 <tr><td>7082</td><td>Widum</td><td>Zeneggen</td><td>2010</td><td></td></tr>
 <tr><td>7083</td><td>Kapittol</td><td>Visperterminen</td><td>2010</td><td></td></tr>
 <tr><td>7087</td><td>Märufälli</td><td>Zeneggen</td><td>2010</td><td></td></tr>
-<tr><td>7089</td><td>Chrachilbode</td><td>Visperterminen</td><td>2010</td><td>2017</td></tr>
+<tr><td>7089</td><td>Chrachilbode</td><td>Visperterminen</td><td>2017</td><td></td></tr>
 <tr><td>7091</td><td>Ze Stubjine</td><td>Stalden</td><td>2010</td><td></td></tr>
-<tr><td>7094</td><td>Burg</td><td>Goms</td><td>2010</td><td>2017</td></tr>
+<tr><td>7094</td><td>Burg</td><td>Goms</td><td>2017</td><td></td></tr>
 <tr><td>7096</td><td>Chumme</td><td>Blatten</td><td>2010</td><td></td></tr>
 <tr><td>7097</td><td>Ritzmad</td><td>Blatten</td><td>2010</td><td></td></tr>
 <tr><td>7099</td><td>Arbächnubel</td><td>Wiler (Lötschen)</td><td>2010</td><td></td></tr>
@@ -3774,7 +3888,7 @@ Anhang 1[^t-1]
 <tr><td>7116</td><td>Alpage des Génissons</td><td>Crans-Montana</td><td>2010</td><td></td></tr>
 <tr><td>7117</td><td>Trämel</td><td>Naters</td><td>2010</td><td></td></tr>
 <tr><td>7118</td><td>Hori</td><td>Naters</td><td>2010</td><td></td></tr>
-<tr><td>7119</td><td>L’Aprîli</td><td>Crans-Montana</td><td>2010</td><td>2017</td></tr>
+<tr><td>7119</td><td>L’Aprîli</td><td>Crans-Montana</td><td>2017</td><td></td></tr>
 <tr><td>7120</td><td>La Comalire</td><td>Icogne</td><td>2010</td><td></td></tr>
 <tr><td>7121</td><td>Les Caves</td><td>Crans-Montana</td><td>2010</td><td></td></tr>
 <tr><td>7123</td><td>Groggrü</td><td>Salgesch</td><td>2010</td><td></td></tr>
@@ -3788,20 +3902,20 @@ Anhang 1[^t-1]
 <tr><td>7136</td><td>Granges</td><td>Sierre</td><td>2010</td><td></td></tr>
 <tr><td>7139</td><td>Chelin</td><td>Lens</td><td>2010</td><td></td></tr>
 <tr><td>7140</td><td>Crête Longue</td><td>Sierre</td><td>2010</td><td></td></tr>
-<tr><td>7141</td><td>Lac Souterrain</td><td>Lens, Saint-Léonard</td><td>2010</td><td>2017</td></tr>
+<tr><td>7141</td><td>Lac Souterrain</td><td>Lens, Saint-Léonard</td><td>2017</td><td></td></tr>
 <tr><td>7144</td><td>Cochetta</td><td>Sion</td><td>2010</td><td></td></tr>
 <tr><td>7145</td><td>Chât. de la Soie</td><td>Savièse</td><td>2010</td><td></td></tr>
 <tr><td>7147</td><td>Tourbillon</td><td>Sion</td><td>2010</td><td></td></tr>
 <tr><td>7149</td><td>Pramilon</td><td>Mont-Noble</td><td>2010</td><td></td></tr>
 <tr><td>7150</td><td>Mont d’Orge</td><td>Sion</td><td>2010</td><td></td></tr>
-<tr><td>7151</td><td>Crête des Maladaires</td><td>Sion</td><td>2010</td><td>2017</td></tr>
+<tr><td>7151</td><td>Crête des Maladaires</td><td>Sion</td><td>2017</td><td></td></tr>
 <tr><td>7153</td><td>Saut du Chien</td><td>Vex</td><td>2010</td><td></td></tr>
 <tr><td>7154</td><td>Plan des Biolles</td><td>Mont-Noble</td><td>2010</td><td></td></tr>
 <tr><td>7155</td><td>Les Crêtes</td><td>Vex</td><td>2010</td><td></td></tr>
 <tr><td>7157</td><td>Häüschbiele</td><td>Staldenried</td><td>2010</td><td></td></tr>
 <tr><td>7158</td><td>Les Bioleys</td><td>Vex</td><td>2010</td><td></td></tr>
 <tr><td>7159</td><td>Undri Läger</td><td>St. Niklaus</td><td>2010</td><td></td></tr>
-<tr><td>7160</td><td>Mase</td><td>Mont-Noble, Saint-Martin</td><td>2010</td><td>2017</td></tr>
+<tr><td>7160</td><td>Mase</td><td>Mont-Noble, Saint-Martin</td><td>2017</td><td></td></tr>
 <tr><td>7162</td><td>Siwibode</td><td>Eisten</td><td>2010</td><td></td></tr>
 <tr><td>7164</td><td>Chalchofe</td><td>Saas-Grund</td><td>2010</td><td></td></tr>
 <tr><td>7165</td><td>Mayens de Cotter</td><td>Evolène</td><td>2010</td><td></td></tr>
@@ -3814,28 +3928,28 @@ Anhang 1[^t-1]
 <tr><td>7178</td><td>Bréona</td><td>Evolène</td><td>2010</td><td></td></tr>
 <tr><td>7179</td><td>Bréona</td><td>Evolène</td><td>2010</td><td></td></tr>
 <tr><td>7180</td><td>Les Lattes</td><td>Evolène</td><td>2010</td><td></td></tr>
-<tr><td>7182</td><td>Zermatt</td><td>Zermatt</td><td>2010</td><td>2017</td></tr>
-<tr><td>7183</td><td>Eggen</td><td>Zermatt</td><td>2010</td><td>2017</td></tr>
+<tr><td>7182</td><td>Zermatt</td><td>Zermatt</td><td>2017</td><td></td></tr>
+<tr><td>7183</td><td>Eggen</td><td>Zermatt</td><td>2017</td><td></td></tr>
 <tr><td>7184</td><td>Mittelzug</td><td>Zermatt</td><td>2010</td><td></td></tr>
 <tr><td>7185</td><td>Tschampenmatt</td><td>Grengiols</td><td>2010</td><td></td></tr>
 <tr><td>7186</td><td>Obers Nussböüm</td><td>Bettmeralp</td><td>2010</td><td></td></tr>
-<tr><td>7187</td><td>Halte</td><td>Mörel-Filet, Riederalp</td><td>2010</td><td>2017</td></tr>
+<tr><td>7187</td><td>Halte</td><td>Mörel-Filet, Riederalp</td><td>2017</td><td></td></tr>
 <tr><td>7188</td><td>Egga</td><td>Riederalp</td><td>2010</td><td></td></tr>
 <tr><td>7190</td><td>Bisterli</td><td>Mörel-Filet, Riederalp</td><td>2010</td><td></td></tr>
 <tr><td>7192</td><td>Wyde</td><td>Riederalp</td><td>2010</td><td></td></tr>
 <tr><td>7193</td><td>Salzgäbchnubel</td><td>Mörel-Filet, Riederalp</td><td>2010</td><td></td></tr>
 <tr><td>7195</td><td>Fure</td><td>Bitsch</td><td>2010</td><td></td></tr>
-<tr><td>7197</td><td>Sattel</td><td>Bitsch</td><td>2010</td><td>2017</td></tr>
+<tr><td>7197</td><td>Sattel</td><td>Bitsch</td><td>2017</td><td></td></tr>
 <tr><td>7199</td><td>Wasen</td><td>Bitsch</td><td>2010</td><td></td></tr>
 <tr><td>7201</td><td>Blatte</td><td>Crans-Montana, Salgesch</td><td>2010</td><td>2012</td></tr>
 <tr><td>7202</td><td>Massegga</td><td>Naters</td><td>2010</td><td></td></tr>
 <tr><td>7204</td><td>Im undere Schitter</td><td>Naters</td><td>2010</td><td></td></tr>
-<tr><td>7206</td><td>Bärde</td><td>Varen</td><td>2010</td><td>2017</td></tr>
-<tr><td>7207</td><td>Comogne</td><td>Crans-Montana</td><td>2010</td><td>2017</td></tr>
+<tr><td>7206</td><td>Bärde</td><td>Varen</td><td>2017</td><td></td></tr>
+<tr><td>7207</td><td>Comogne</td><td>Crans-Montana</td><td>2017</td><td></td></tr>
 <tr><td>7209</td><td>Baletscha</td><td>Naters</td><td>2010</td><td></td></tr>
 <tr><td>7210</td><td>Oberbann</td><td>Leuk</td><td>2010</td><td></td></tr>
-<tr><td>7211</td><td>Ober Rotafen</td><td>Guttet-Feschel, Leuk</td><td>2010</td><td>2017</td></tr>
-<tr><td>7213</td><td>Bodma</td><td>Naters</td><td>2010</td><td>2017</td></tr>
+<tr><td>7211</td><td>Ober Rotafen</td><td>Guttet-Feschel, Leuk</td><td>2017</td><td></td></tr>
+<tr><td>7213</td><td>Bodma</td><td>Naters</td><td>2017</td><td></td></tr>
 <tr><td>7215</td><td>Varen</td><td>Varen</td><td>2010</td><td></td></tr>
 <tr><td>7218</td><td>Tschachtela</td><td>Salgesch</td><td>2010</td><td></td></tr>
 <tr><td>7222</td><td>Balme</td><td>Salgesch, Varen</td><td>2010</td><td></td></tr>
@@ -3843,10 +3957,10 @@ Anhang 1[^t-1]
 <tr><td>7227</td><td>Dorbon</td><td>Arbaz</td><td>2010</td><td></td></tr>
 <tr><td>7228</td><td>Darnona d’en Haut</td><td>Crans-Montana</td><td>2010</td><td></td></tr>
 <tr><td>7229</td><td>Milljere</td><td>Salgesch</td><td>2010</td><td></td></tr>
-<tr><td>7230</td><td>Les Evouettes</td><td>Arbaz</td><td>2010</td><td>2017</td></tr>
+<tr><td>7230</td><td>Les Evouettes</td><td>Arbaz</td><td>2017</td><td></td></tr>
 <tr><td>7231</td><td>Seillon</td><td>Arbaz</td><td>2010</td><td></td></tr>
 <tr><td>7233</td><td>Les Condémines</td><td>Lens</td><td>2010</td><td>2017</td></tr>
-<tr><td>7234</td><td>Lens</td><td>Lens</td><td>2010</td><td>2017</td></tr>
+<tr><td>7234</td><td>Lens</td><td>Lens</td><td>2017</td><td></td></tr>
 <tr><td>7235</td><td>Rnes du Chât. d’Ayent</td><td>Ayent</td><td>2010</td><td></td></tr>
 <tr><td>7239</td><td>Ste-Madeleine</td><td>Ayent</td><td>2010</td><td></td></tr>
 <tr><td>7240</td><td>Argnoud d’en Haut</td><td>Ayent, Grimisuat</td><td>2010</td><td></td></tr>
@@ -3857,7 +3971,7 @@ Anhang 1[^t-1]
 <tr><td>7246</td><td>Bina</td><td>Törbel</td><td>2010</td><td></td></tr>
 <tr><td>7247</td><td>Oberi Site</td><td>Visperterminen</td><td>2010</td><td></td></tr>
 <tr><td>7248</td><td>Burgachra</td><td>Stalden, Törbel</td><td>2010</td><td></td></tr>
-<tr><td>7249</td><td>Wasserschloss</td><td>Stalden</td><td>2010</td><td>2017</td></tr>
+<tr><td>7249</td><td>Wasserschloss</td><td>Stalden</td><td>2017</td><td></td></tr>
 <tr><td>7250</td><td>Hofmatte</td><td>Törbel</td><td>2010</td><td></td></tr>
 <tr><td>7253</td><td>Coma</td><td>Mont-Noble</td><td>2010</td><td></td></tr>
 <tr><td>7254</td><td>Wäng</td><td>Törbel</td><td>2010</td><td></td></tr>
@@ -3865,12 +3979,12 @@ Anhang 1[^t-1]
 <tr><td>7259</td><td>Roti Flüe</td><td>Embd</td><td>2010</td><td></td></tr>
 <tr><td>7260</td><td>Bärgji</td><td>Grächen</td><td>2010</td><td></td></tr>
 <tr><td>7261</td><td>Ze Zimmeru</td><td>Staldenried</td><td>2010</td><td></td></tr>
-<tr><td>7263</td><td>Windstadel</td><td>Staldenried</td><td>2010</td><td>2017</td></tr>
+<tr><td>7263</td><td>Windstadel</td><td>Staldenried</td><td>2017</td><td></td></tr>
 <tr><td>7264</td><td>La Pirra</td><td>Vex</td><td>2010</td><td></td></tr>
 <tr><td>7265</td><td>Le Bioley</td><td>Mont-Noble</td><td>2010</td><td></td></tr>
-<tr><td>7271</td><td>Clèbes</td><td>Nendaz</td><td>2010</td><td>2017</td></tr>
+<tr><td>7271</td><td>Clèbes</td><td>Nendaz</td><td>2017</td><td></td></tr>
 <tr><td>7275</td><td>Riedwäng</td><td>St. Niklaus</td><td>2010</td><td></td></tr>
-<tr><td>7277</td><td>Prarion</td><td>Saint-Martin</td><td>2010</td><td>2017</td></tr>
+<tr><td>7277</td><td>Prarion</td><td>Saint-Martin</td><td>2017</td><td></td></tr>
 <tr><td>7282</td><td>La Crêta</td><td>Saint-Martin</td><td>2010</td><td>2017</td></tr>
 <tr><td>7296</td><td>Hannig</td><td>Saas-Grund</td><td>2010</td><td></td></tr>
 <tr><td>7298</td><td>Volovron</td><td>Evolène</td><td>2010</td><td></td></tr>
@@ -3878,7 +3992,7 @@ Anhang 1[^t-1]
 <tr><td>7301</td><td>Les Crouyes</td><td>Evolène</td><td>2010</td><td></td></tr>
 <tr><td>7309</td><td>La Niva</td><td>Evolène</td><td>2010</td><td></td></tr>
 <tr><td>7311</td><td>La Giette</td><td>Evolène</td><td>2010</td><td></td></tr>
-<tr><td>7313</td><td>Schalubärg</td><td>Randa</td><td>2010</td><td>2017</td></tr>
+<tr><td>7313</td><td>Schalubärg</td><td>Randa</td><td>2017</td><td></td></tr>
 <tr><td>7314</td><td>Les Chottes de l’Etoile</td><td>Evolène</td><td>2010</td><td></td></tr>
 <tr><td>7315</td><td>Les Haudères</td><td>Evolène</td><td>2010</td><td></td></tr>
 <tr><td>7317</td><td>Les Saulesses</td><td>Evolène</td><td>2010</td><td></td></tr>
@@ -3907,55 +4021,55 @@ Anhang 1[^t-1]
 <tr><td>7380</td><td>Dorbu</td><td>Albinen, Inden</td><td>2010</td><td></td></tr>
 <tr><td>7381</td><td>Plan de l’Ortie</td><td>Vouvry</td><td>2010</td><td></td></tr>
 <tr><td>7382</td><td>Isérables</td><td>Isérables</td><td>2010</td><td></td></tr>
-<tr><td>7383</td><td>Chanlevon</td><td>Crans-Montana, Lens</td><td>2010</td><td>2017</td></tr>
-<tr><td>7384</td><td>Ze Brunnu</td><td>Ried-Brig</td><td>2010</td><td>2017</td></tr>
-<tr><td>7386</td><td>Plan Cernet</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7383</td><td>Chanlevon</td><td>Crans-Montana, Lens</td><td>2017</td><td></td></tr>
+<tr><td>7384</td><td>Ze Brunnu</td><td>Ried-Brig</td><td>2017</td><td></td></tr>
+<tr><td>7386</td><td>Plan Cernet</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7387</td><td>Oberdeisch</td><td>Lax</td><td>2010</td><td></td></tr>
-<tr><td>7388</td><td>Jaminta</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7388</td><td>Jaminta</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7389</td><td>Montbas Dessus</td><td>Conthey</td><td>2010</td><td></td></tr>
 <tr><td>7390</td><td>Engi</td><td>Simplon</td><td>2010</td><td></td></tr>
 <tr><td>7391</td><td>Oberwald</td><td>Guttet-Feschel</td><td>2010</td><td></td></tr>
 <tr><td>7392</td><td>Obri Eist</td><td>Ried-Brig</td><td>2010</td><td>2017</td></tr>
-<tr><td>7393</td><td>Monteiller</td><td>Savièse</td><td>2010</td><td>2017</td></tr>
-<tr><td>7395</td><td>Dugny</td><td>Leytron</td><td>2010</td><td>2017</td></tr>
+<tr><td>7393</td><td>Monteiller</td><td>Savièse</td><td>2017</td><td></td></tr>
+<tr><td>7395</td><td>Dugny</td><td>Leytron</td><td>2017</td><td></td></tr>
 <tr><td>7396</td><td>Villette</td><td>Bagnes</td><td>2010</td><td></td></tr>
 <tr><td>7397</td><td>Mittleri Hellela</td><td>Zeneggen</td><td>2010</td><td></td></tr>
 <tr><td>7399</td><td>Sous Roux</td><td>Vouvry</td><td>2010</td><td></td></tr>
 <tr><td>7400</td><td>Faldumalp</td><td>Ferden</td><td>2010</td><td></td></tr>
 <tr><td>7401</td><td>Sengg</td><td>Ernen</td><td>2010</td><td></td></tr>
-<tr><td>7402</td><td>Rosset</td><td>Orsières</td><td>2010</td><td>2017</td></tr>
+<tr><td>7402</td><td>Rosset</td><td>Orsières</td><td>2017</td><td></td></tr>
 <tr><td>7403</td><td>Tignousa</td><td>Anniviers</td><td>2010</td><td></td></tr>
 <tr><td>7405</td><td>Rne du Chât. du Crest</td><td>Ardon</td><td>2010</td><td></td></tr>
 <tr><td>7406</td><td>Pâturage de Chanso</td><td>Troistorrents</td><td>2010</td><td></td></tr>
 <tr><td>7407</td><td>Alti Gadme</td><td>Ried-Brig</td><td>2010</td><td></td></tr>
 <tr><td>7408</td><td>Les Salaux</td><td>Fully</td><td>2010</td><td></td></tr>
 <tr><td>7409</td><td>Chanton de Reppaz</td><td>Orsières</td><td>2010</td><td></td></tr>
-<tr><td>7411</td><td>Ruchily</td><td>Arbaz, Grimisuat</td><td>2010</td><td>2017</td></tr>
+<tr><td>7411</td><td>Ruchily</td><td>Arbaz, Grimisuat</td><td>2017</td><td></td></tr>
 <tr><td>7413</td><td>Trionna</td><td>Lens</td><td>2010</td><td></td></tr>
 <tr><td>7414</td><td>Hegi</td><td>Bettmeralp</td><td>2010</td><td></td></tr>
 <tr><td>7415</td><td>Montbas Dessus</td><td>Conthey</td><td>2010</td><td></td></tr>
 <tr><td>7416</td><td>Wyssus Löüb</td><td>Ried-Brig</td><td>2010</td><td></td></tr>
 <tr><td>7417</td><td>L’Infloria</td><td>Savièse</td><td>2010</td><td></td></tr>
 <tr><td>7418</td><td>Sex de Gru</td><td>Ardon</td><td>2010</td><td></td></tr>
-<tr><td>7419</td><td>Martisbergeralp</td><td>Bettmeralp, Lax</td><td>2010</td><td>2017</td></tr>
+<tr><td>7419</td><td>Martisbergeralp</td><td>Bettmeralp, Lax</td><td>2017</td><td></td></tr>
 <tr><td>7420</td><td>Le Châtelard</td><td>Vollèges</td><td>2010</td><td></td></tr>
-<tr><td>7421</td><td>Les Maretses</td><td>Savièse</td><td>2010</td><td>2017</td></tr>
+<tr><td>7421</td><td>Les Maretses</td><td>Savièse</td><td>2017</td><td></td></tr>
 <tr><td>7422</td><td>Combère</td><td>Sembrancher</td><td>2010</td><td></td></tr>
 <tr><td>7424</td><td>Ritti</td><td>Bettmeralp</td><td>2010</td><td></td></tr>
 <tr><td>7425</td><td>Alamont</td><td>Vouvry</td><td>2010</td><td></td></tr>
 <tr><td>7426</td><td>Oberu</td><td>Guttet-Feschel</td><td>2010</td><td></td></tr>
-<tr><td>7427</td><td>La Tour</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7427</td><td>La Tour</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7428</td><td>Meiggera</td><td>Lax</td><td>2010</td><td>2017</td></tr>
 <tr><td>7429</td><td>Le Nez</td><td>Conthey</td><td>2010</td><td></td></tr>
 <tr><td>7430</td><td>Pfaffmatte</td><td>Goms</td><td>2010</td><td></td></tr>
 <tr><td>7434</td><td>Sämsu</td><td>Guttet-Feschel</td><td>2010</td><td></td></tr>
 <tr><td>7435</td><td>Pro Paron</td><td>Chamoson</td><td>2010</td><td></td></tr>
-<tr><td>7436</td><td>Glarey</td><td>Savièse</td><td>2010</td><td>2017</td></tr>
+<tr><td>7436</td><td>Glarey</td><td>Savièse</td><td>2017</td><td></td></tr>
 <tr><td>7437</td><td>Guggina</td><td>Simplon</td><td>2010</td><td></td></tr>
 <tr><td>7438</td><td>Les Cleives</td><td>Chamoson</td><td>2010</td><td></td></tr>
 <tr><td>7442</td><td>Fiou</td><td>Crans-Montana</td><td>2010</td><td>2017</td></tr>
 <tr><td>7443</td><td>Les Troncs</td><td>Troistorrents</td><td>2010</td><td></td></tr>
-<tr><td>7444</td><td>Nan</td><td>Crans-Montana, Lens</td><td>2010</td><td>2017</td></tr>
+<tr><td>7444</td><td>Nan</td><td>Crans-Montana, Lens</td><td>2017</td><td></td></tr>
 <tr><td>7446</td><td>Lousine</td><td>Fully</td><td>2010</td><td></td></tr>
 <tr><td>7447</td><td>Les Cadraux</td><td>Troistorrents</td><td>2010</td><td></td></tr>
 <tr><td>7448</td><td>L’Aiguille</td><td>Saint-Maurice</td><td>2010</td><td></td></tr>
@@ -3971,9 +4085,9 @@ Anhang 1[^t-1]
 <tr><td>7466</td><td>Sal</td><td>Simplon</td><td>2010</td><td></td></tr>
 <tr><td>7467</td><td>Heji</td><td>Simplon</td><td>2010</td><td></td></tr>
 <tr><td>7469</td><td>Cleusette</td><td>Saillon</td><td>2010</td><td></td></tr>
-<tr><td>7472</td><td>La Lui Dessous</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7472</td><td>La Lui Dessous</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7473</td><td>Les Fourches</td><td>Sembrancher</td><td>2010</td><td></td></tr>
-<tr><td>7474</td><td>Bulle</td><td>Isérables</td><td>2010</td><td>2017</td></tr>
+<tr><td>7474</td><td>Bulle</td><td>Isérables</td><td>2017</td><td></td></tr>
 <tr><td>7475</td><td>Les Foillêts</td><td>Orsières</td><td>2010</td><td></td></tr>
 <tr><td>7476</td><td>Lirschigrabu</td><td>Albinen</td><td>2010</td><td></td></tr>
 <tr><td>7477</td><td>Balma</td><td>Simplon</td><td>2010</td><td></td></tr>
@@ -3981,25 +4095,25 @@ Anhang 1[^t-1]
 <tr><td>7481</td><td>Les Vernasses</td><td>Icogne</td><td>2010</td><td></td></tr>
 <tr><td>7483</td><td>Champlong</td><td>Conthey, Vétroz</td><td>2010</td><td></td></tr>
 <tr><td>7484</td><td>Holzerehischer</td><td>Binn</td><td>2010</td><td></td></tr>
-<tr><td>7485</td><td>La Bâtiaz</td><td>Martigny, Martigny-Combe</td><td>2010</td><td>2017</td></tr>
-<tr><td>7486</td><td>Champroux</td><td>Isérables</td><td>2010</td><td>2017</td></tr>
+<tr><td>7485</td><td>La Bâtiaz</td><td>Martigny, Martigny-Combe</td><td>2017</td><td></td></tr>
+<tr><td>7486</td><td>Champroux</td><td>Isérables</td><td>2017</td><td></td></tr>
 <tr><td>7488</td><td>Unnerfäld</td><td>Leuk</td><td>2010</td><td></td></tr>
 <tr><td>7489</td><td>Wäng</td><td>Guttet-Feschel</td><td>2010</td><td></td></tr>
 <tr><td>7490</td><td>Les Planches</td><td>Conthey</td><td>2010</td><td></td></tr>
 <tr><td>7491</td><td>Binnegga</td><td>Ernen</td><td>2010</td><td></td></tr>
-<tr><td>7492</td><td>Rudet</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7492</td><td>Rudet</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7493</td><td>Commeire</td><td>Orsières</td><td>2010</td><td></td></tr>
-<tr><td>7495</td><td>La Lui Dessus</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7495</td><td>La Lui Dessus</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7496</td><td>Randonne</td><td>Fully</td><td>2010</td><td></td></tr>
-<tr><td>7497</td><td>Montbas Dessous</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7497</td><td>Montbas Dessous</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7499</td><td>Chälmatta</td><td>Binn</td><td>2010</td><td></td></tr>
-<tr><td>7502</td><td>Toules</td><td>Conthey</td><td>2010</td><td>2017</td></tr>
+<tr><td>7502</td><td>Toules</td><td>Conthey</td><td>2017</td><td></td></tr>
 <tr><td>7505</td><td>Haselleen</td><td>Ferden</td><td>2010</td><td></td></tr>
 <tr><td>7507</td><td>Et. Lombardon</td><td>Ayent</td><td>2010</td><td></td></tr>
-<tr><td>7508</td><td>Le Châtelard</td><td>Crans-Montana</td><td>2010</td><td>2017</td></tr>
+<tr><td>7508</td><td>Le Châtelard</td><td>Crans-Montana</td><td>2017</td><td></td></tr>
 <tr><td>7509</td><td>Sur le Mont</td><td>Martigny-Combe</td><td>2010</td><td></td></tr>
 <tr><td>7512</td><td>Genièvre</td><td>Savièse</td><td>2010</td><td></td></tr>
-<tr><td>7515</td><td>Undre Schallberg</td><td>Ried-Brig</td><td>2010</td><td>2017</td></tr>
+<tr><td>7515</td><td>Undre Schallberg</td><td>Ried-Brig</td><td>2017</td><td></td></tr>
 <tr><td>7516</td><td>Les Planches</td><td>Saillon</td><td>2010</td><td></td></tr>
 <tr><td>7518</td><td>Schwenni</td><td>Goms</td><td>2010</td><td></td></tr>
 <tr><td>7519</td><td>Châtelard</td><td>Isérables</td><td>2010</td><td></td></tr>
@@ -4013,7 +4127,7 @@ Anhang 1[^t-1]
 <tr><td>7536</td><td>Levron</td><td>Vollèges</td><td>2010</td><td></td></tr>
 <tr><td>7539</td><td>Rappe</td><td>Ernen</td><td>2010</td><td></td></tr>
 <tr><td>7541</td><td>Fracette</td><td>Vionnaz</td><td>2010</td><td></td></tr>
-<tr><td>7542</td><td>Saxonne</td><td>Ayent</td><td>2010</td><td>2017</td></tr>
+<tr><td>7542</td><td>Saxonne</td><td>Ayent</td><td>2017</td><td></td></tr>
 <tr><td>7543</td><td>Cheseule</td><td>Vouvry</td><td>2010</td><td></td></tr>
 <tr><td>7545</td><td>Les Planches</td><td>Liddes</td><td>2010</td><td></td></tr>
 <tr><td>7549</td><td>La Couronne</td><td>Ardon</td><td>2010</td><td></td></tr>
@@ -4027,18 +4141,18 @@ Anhang 1[^t-1]
 <tr><td>7561</td><td>Les Clèves</td><td>Saxon</td><td>2010</td><td></td></tr>
 <tr><td>7562</td><td>Le Poyou</td><td>Anniviers</td><td>2010</td><td></td></tr>
 <tr><td>7565</td><td>Charmex</td><td>Dorénaz</td><td>2010</td><td></td></tr>
-<tr><td>7566</td><td>Le Sadillon</td><td>Dorénaz</td><td>2010</td><td>2017</td></tr>
-<tr><td>7569</td><td>Le Clou</td><td>Liddes</td><td>2010</td><td>2017</td></tr>
+<tr><td>7566</td><td>Le Sadillon</td><td>Dorénaz</td><td>2017</td><td></td></tr>
+<tr><td>7569</td><td>Le Clou</td><td>Liddes</td><td>2017</td><td></td></tr>
 <tr><td>7572</td><td>Plex</td><td>Collonges</td><td>2010</td><td></td></tr>
 <tr><td>7574</td><td>Les Barmes</td><td>Liddes</td><td>2010</td><td></td></tr>
-<tr><td>7576</td><td>Miex</td><td>Vouvry</td><td>2010</td><td>2017</td></tr>
-<tr><td>7578</td><td>Buitonnaz</td><td>Fully</td><td>2010</td><td>2017</td></tr>
+<tr><td>7576</td><td>Miex</td><td>Vouvry</td><td>2017</td><td></td></tr>
+<tr><td>7578</td><td>Buitonnaz</td><td>Fully</td><td>2017</td><td></td></tr>
 <tr><td>7579</td><td>Mayen</td><td>Vionnaz</td><td>2010</td><td></td></tr>
 <tr><td>7581</td><td>Ayer</td><td>Anniviers</td><td>2010</td><td></td></tr>
 <tr><td>7582</td><td>Palasuit</td><td>Liddes</td><td>2010</td><td></td></tr>
 <tr><td>7584</td><td>La Gîte</td><td>Charrat</td><td>2010</td><td></td></tr>
 <tr><td>7585</td><td>Pont de Tsarevesse</td><td>Bourg-Saint-Pierre</td><td>2010</td><td></td></tr>
-<tr><td>7588</td><td>Charrat Vison</td><td>Charrat</td><td>2010</td><td>2017</td></tr>
+<tr><td>7588</td><td>Charrat Vison</td><td>Charrat</td><td>2017</td><td></td></tr>
 <tr><td>7601</td><td>Saxé</td><td>Fully</td><td>2010</td><td></td></tr>
 <tr><td>7614</td><td>Creux Devant</td><td>Fully</td><td>2010</td><td></td></tr>
 <tr><td>7617</td><td>St-Maurice</td><td>Vérossaz</td><td>2010</td><td></td></tr>
@@ -4046,7 +4160,7 @@ Anhang 1[^t-1]
 <tr><td>7621</td><td>Usser Gornerli</td><td>Zermatt</td><td>2010</td><td></td></tr>
 <tr><td>7626</td><td>Liggi</td><td>Saas-Almagell</td><td>2010</td><td></td></tr>
 <tr><td>7627</td><td>Sex Riond</td><td>Conthey</td><td>2010</td><td></td></tr>
-<tr><td>7629</td><td>Oberdorf</td><td>Grengiols</td><td>2010</td><td>2017</td></tr>
+<tr><td>7629</td><td>Oberdorf</td><td>Grengiols</td><td>2017</td><td></td></tr>
 <tr><td>7637</td><td>Pas de Braye</td><td>Vionnaz</td><td>2010</td><td></td></tr>
 <tr><td>7638</td><td>Schipfe</td><td>Bitsch</td><td>2010</td><td></td></tr>
 <tr><td>7639</td><td>Lovenex</td><td>Saint-Gingolph</td><td>2010</td><td></td></tr>
@@ -4079,10 +4193,10 @@ Anhang 1[^t-1]
 <tr><td>2764</td><td>Mét. de Dombresson</td><td>Val-de-Ruz</td><td>2010</td><td></td></tr>
 <tr><td>2765</td><td>Le Crosat</td><td>Val-de-Ruz</td><td>2010</td><td></td></tr>
 <tr><td>2767</td><td>La Chaux d’Amin</td><td>Val-de-Ruz</td><td>2010</td><td></td></tr>
-<tr><td>2773</td><td>Les Monts Orientaux</td><td>Le Locle</td><td>2010</td><td></td></tr>
+<tr><td>2773</td><td>Les Monts Orientaux</td><td>Le Locle</td><td>2010</td><td>2025</td></tr>
 <tr><td>2776</td><td>Monthey du Haut</td><td>Le Landeron</td><td>2010</td><td></td></tr>
 <tr><td>2778</td><td>Le Chanet</td><td>Le Landeron</td><td>2017</td><td></td></tr>
-<tr><td>2801</td><td>Combes</td><td>Cressier, Le Landeron</td><td>2010</td><td></td></tr>
+<tr><td>2801</td><td>Combes</td><td>Cressier, Le Landeron</td><td>2010</td><td>2025</td></tr>
 <tr><td>2806</td><td>Brisecou</td><td>Enges</td><td>2010</td><td></td></tr>
 <tr><td>2812</td><td>La Serment</td><td>Val-de-Ruz</td><td>2010</td><td></td></tr>
 <tr><td>2814</td><td>Rochers Bruns</td><td>Val-de-Ruz</td><td>2010</td><td></td></tr>
@@ -4091,7 +4205,7 @@ Anhang 1[^t-1]
 <tr><td>2821</td><td>Les Rièdes</td><td>Cornaux</td><td>2010</td><td></td></tr>
 <tr><td>2823</td><td>La Goulette</td><td>Saint-Blaise</td><td>2010</td><td></td></tr>
 <tr><td>2825</td><td>Pré aux Planes</td><td>Neuchâtel</td><td>2010</td><td></td></tr>
-<tr><td>2829</td><td>La Goulette</td><td>Saint-Blaise</td><td>2010</td><td></td></tr>
+<tr><td>2829</td><td>La Goulette</td><td>Laténa</td><td>2010</td><td>2025</td></tr>
 <tr><td>2835</td><td>Petite Sagneule</td><td>Rochefort</td><td>2010</td><td></td></tr>
 <tr><td>2836</td><td>Roches de l’Ermitage</td><td>Neuchâtel</td><td>2010</td><td></td></tr>
 <tr><td>2839</td><td>Les Grattes de Vent</td><td>Rochefort</td><td>2010</td><td>2017</td></tr>
@@ -4106,7 +4220,7 @@ Anhang 1[^t-1]
 <tr><td>2873</td><td>Les Fontenettes Dessus</td><td>La Brévine, Val-de-Travers</td><td>2010</td><td></td></tr>
 <tr><td>2885</td><td>Petite Charbonnière</td><td>Val-de-Travers</td><td>2010</td><td></td></tr>
 <tr><td>2886</td><td>Le Loclat</td><td>Val-de-Travers</td><td>2010</td><td></td></tr>
-<tr><td>2903</td><td>Côte Bertin</td><td>Val-de-Travers</td><td>2010</td><td>2017</td></tr>
+<tr><td>2903</td><td>Côte Bertin</td><td>Val-de-Travers</td><td>2010</td><td>2017/25</td></tr>
 <tr><td>2904</td><td>Les Replans</td><td>Val-de-Travers</td><td>2010</td><td></td></tr>
 <tr><td>2905</td><td>Les Replans</td><td>Val-de-Travers</td><td>2010</td><td></td></tr>
 <tr><td>2911</td><td>La Benette</td><td>Gorgier</td><td>2010</td><td></td></tr>
@@ -4152,9 +4266,11 @@ Anhang 1[^t-1]
 <tr><td>983</td><td>Bois de la Pesse</td><td>Aire-la-Ville</td><td>2010</td><td></td></tr>
 <tr><td></td><td>Kanton Jura</td><td></td><td></td><td></td></tr>
 <tr><td>3002</td><td>Beurnevésin</td><td>Beurnevésin</td><td>2010</td><td></td></tr>
+<tr><td>3003</td><td>Pâturage des Grands Bois</td><td>Basse-Allaine</td><td>2025</td><td></td></tr>
 <tr><td>3005</td><td>Hallen</td><td>Ederswiler</td><td>2010</td><td></td></tr>
 <tr><td>3006</td><td>Pâturage de Bavelier</td><td>Movelier</td><td>2010</td><td></td></tr>
 <tr><td>3008</td><td>Vies de Roggenburg</td><td>Movelier</td><td>2010</td><td></td></tr>
+<tr><td>3009</td><td>Cras de la Bouloie</td><td>Courtedoux, Porrentruy</td><td>2025</td><td></td></tr>
 <tr><td>3012</td><td>La Réselle de Soyhières</td><td>Soyhières</td><td>2010</td><td></td></tr>
 <tr><td>3014</td><td>En Bouec</td><td>Soyhières</td><td>2010</td><td></td></tr>
 <tr><td>3015</td><td>Côte de Mai</td><td>Bourrignon, Pleigne</td><td>2010</td><td></td></tr>
@@ -4163,13 +4279,16 @@ Anhang 1[^t-1]
 <tr><td>3020</td><td>Creugenat</td><td>Haute-Ajoie</td><td>2010</td><td></td></tr>
 <tr><td>3021</td><td>La Grosse Fin</td><td>Soyhières</td><td>2010</td><td></td></tr>
 <tr><td>3022</td><td>Sur le Pré</td><td>Mettembert</td><td>2010</td><td></td></tr>
+<tr><td>3026</td><td>Sous la Craie</td><td>Haute-Ajoie</td><td>2025</td><td></td></tr>
 <tr><td>3027</td><td>La Ferouse</td><td>Grandfontaine</td><td>2010</td><td></td></tr>
+<tr><td>3028</td><td>Grand Bois</td><td>Haute-Ajoie</td><td>2025</td><td></td></tr>
 <tr><td>3030</td><td>Jetti</td><td>Soyhières</td><td>2010</td><td></td></tr>
 <tr><td>3032</td><td>Grangiéron</td><td>La Baroche</td><td>2010</td><td></td></tr>
 <tr><td>3033</td><td>Deuxième Vorbourg</td><td>Delémont</td><td>2010</td><td></td></tr>
 <tr><td>3034</td><td>Montgremay</td><td>La Baroche</td><td>2010</td><td></td></tr>
 <tr><td>3035</td><td>La Combe</td><td>La Baroche</td><td>2010</td><td></td></tr>
 <tr><td>3037</td><td>Haut de la Côte</td><td>Boécourt</td><td>2010</td><td></td></tr>
+<tr><td>3040</td><td>Calabri</td><td>Fontenais</td><td>2025</td><td></td></tr>
 <tr><td>3041</td><td>Roc de l’Autel</td><td>Clos du Doubs</td><td>2010</td><td></td></tr>
 <tr><td>3042</td><td>Combe Chavat Dessus</td><td>Clos du Doubs</td><td>2010</td><td></td></tr>
 <tr><td>3046</td><td>Le Moulin</td><td>Boécourt</td><td>2010</td><td></td></tr>
@@ -4181,7 +4300,7 @@ Anhang 1[^t-1]
 <tr><td>3054</td><td>Ocourt</td><td>Clos du Doubs</td><td>2010</td><td></td></tr>
 <tr><td>3055</td><td>Les Longennes</td><td>Boécourt</td><td>2010</td><td></td></tr>
 <tr><td>3057</td><td>St-Jean</td><td>Mervelier</td><td>2010</td><td></td></tr>
-<tr><td>3058</td><td>La Motte</td><td>Clos du Doubs</td><td>2010</td><td></td></tr>
+<tr><td>3058</td><td>La Motte</td><td>Clos du Doubs</td><td>2010</td><td>2025</td></tr>
 <tr><td>3060</td><td>Grands Prés</td><td>Courtételle</td><td>2010</td><td></td></tr>
 <tr><td>3062</td><td>La Neuve Vie</td><td>Mervelier</td><td>2010</td><td></td></tr>
 <tr><td>3063</td><td>Pâturage du Droit</td><td>Haute-Sorne</td><td>2010</td><td></td></tr>
@@ -4198,7 +4317,7 @@ Anhang 1[^t-1]
 <tr><td>3082</td><td>Schöneberg</td><td>Val Terbi</td><td>2010</td><td></td></tr>
 <tr><td>3084</td><td>Soubey</td><td>Soubey</td><td>2010</td><td></td></tr>
 <tr><td>3087</td><td>Chez Renaud</td><td>Val Terbi</td><td>2010</td><td></td></tr>
-<tr><td>3088</td><td>Grand Finage</td><td>Soubey</td><td>2010</td><td></td></tr>
+<tr><td>3088</td><td>Grand Finage</td><td>Soubey</td><td>2010</td><td>2025</td></tr>
 <tr><td>3089</td><td>La Boiraderie</td><td>Haute-Sorne</td><td>2010</td><td></td></tr>
 <tr><td>3090</td><td>Haut du Droit</td><td>Haute-Sorne</td><td>2010</td><td></td></tr>
 <tr><td>3092</td><td>Fin de Charrère</td><td>Haute-Sorne</td><td>2010</td><td></td></tr>
@@ -4210,10 +4329,19 @@ Anhang 1[^t-1]
 <tr><td>3105</td><td>Fin de la Madeleine</td><td>Les Genevez</td><td>2010</td><td></td></tr>
 <tr><td>3111</td><td>Paquoille</td><td>Clos du Doubs</td><td>2010</td><td></td></tr>
 <tr><td>3112</td><td>Hint. Rohrberg</td><td>Courroux</td><td>2010</td><td></td></tr>
-<tr><td>3114</td><td>Le Banné</td><td>Fontenais</td><td>2017</td><td></td></tr>
+<tr><td>3114</td><td>Le Banné</td><td>Fontenais</td><td>2017</td><td>2025</td></tr>
+<tr><td>3123</td><td>Grand Bois</td><td>Haute-Ajoie</td><td>2025</td><td></td></tr>
+<tr><td>3125</td><td>La Clef</td><td>Haute-Ajoie</td><td>2025</td><td></td></tr>
+<tr><td>3126</td><td>Sous les Champs Morlat</td><td>Fontenais</td><td>2025</td><td></td></tr>
+<tr><td>3129</td><td>La Côtatte</td><td>Basse-Vendline</td><td>2025</td><td></td></tr>
+<tr><td>3130</td><td>Le Pâturage de la Côte</td><td>Boncourt</td><td>2025</td><td></td></tr>
+<tr><td>3131</td><td>Sur la Côte</td><td>Fontenais</td><td>2025</td><td></td></tr>
+<tr><td>3132</td><td>Le Chandé</td><td>Coeuve, Damphreux-Lugnez</td><td>2025</td><td></td></tr>
+<tr><td>3134</td><td>Cras des Côtays</td><td>Fontenais</td><td>2025</td><td></td></tr>
+<tr><td>3137</td><td>Le Poirtchet</td><td>Haute-Ajoie</td><td>2025</td><td></td></tr>
 </table>
 
-[^annex1-lvlu1-1]: Amtliches Gemeindeverzeichnis der Schweiz, Ausgabe 16. Dezember 2016
+[^annex1-lvlu1-1]: Amtliches Gemeindeverzeichnis der Schweiz, Ausgabe 6. April 2025
 
 Anhang 2[^t-2]
 
@@ -4221,7 +4349,7 @@ Anhang 2[^t-2]
 
 ## Liste der nicht definitiv bereinigten Trockenwiesen und -weiden von nationaler Bedeutung
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 29. Sept. 2017 ([AS 2017 5409](https://fedlex.data.admin.ch/eli/oc/2017/592)). Bereinigt gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4775](https://fedlex.data.admin.ch/eli/oc/2020/861)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 29. Sept. 2017 ([AS 2017 5409](https://fedlex.data.admin.ch/eli/oc/2017/592)). Bereinigt gemäss Ziff. I der V vom 21. Okt. 2020 ([AS 2020 4775](https://fedlex.data.admin.ch/eli/oc/2020/861)) und Ziff. I 4 der V vom 29. Okt. 2025 über die Biotope von nationaler Bedeutung, in Kraft seit 1. Dez. 2025 ([AS 2025 735](https://fedlex.data.admin.ch/eli/oc/2025/735)).
 
 <table>
 <tr><th>Nr.</th><th>Lokalität</th><th>Gemeinde(n)[^annex2-lvlu1-1]</th><th>Aufnahme</th><th>Revisionen</th></tr>
@@ -4230,6 +4358,7 @@ Anhang 2[^t-2]
 <tr><td></td><td>Kanton Bern</td><td></td><td></td><td></td></tr>
 <tr><td>5074</td><td>Rinderberg</td><td>St. Stephan</td><td>2010</td><td></td></tr>
 <tr><td>5434</td><td>Noire Combe</td><td>Orvin, Plateau de Diesse</td><td>2010</td><td></td></tr>
+<tr><td>13526</td><td>Brächbüel</td><td>Oberbipp</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Kanton Luzern</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Kanton Uri</td><td></td><td></td><td></td></tr>
@@ -4247,10 +4376,6 @@ Anhang 2[^t-2]
 <tr><td>1919</td><td>Bischof</td><td>Glarus Süd</td><td>2010</td><td>2017</td></tr>
 <tr><td></td><td>Kanton Zug</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
-</table>
-
-<table>
-<tr><th>Nr.</th><th>Lokalität</th><th>Gemeinde(n)</th><th>Aufnahme</th><th>Revisionen</th></tr>
 <tr><td></td><td>Kanton Freiburg</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Kanton Solothurn</td><td></td><td></td><td></td></tr>
@@ -4268,16 +4393,18 @@ Anhang 2[^t-2]
 <tr><td></td><td>Kanton St. Gallen</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Kanton Graubünden</td><td></td><td></td><td></td></tr>
-<tr><th></th><th>*Keine Objekte*</th><th></th><th></th><th></th></tr>
+<tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Kanton Aargau</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Kanton Thurgau</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Kanton Tessin</td><td></td><td></td><td></td></tr>
+<tr><td>1385</td><td>Mairano</td><td>Riviera</td><td>2025</td><td></td></tr>
 <tr><td>1434</td><td>Giovastia</td><td>Maggia</td><td>2010</td><td></td></tr>
 <tr><td>1447</td><td>Vellano</td><td>Sant’Antonio</td><td>2010</td><td></td></tr>
 <tr><td>1450</td><td>Beredo</td><td>Brissago</td><td>2010</td><td></td></tr>
 <tr><td>1494</td><td>Pré</td><td>Faido</td><td>2010</td><td></td></tr>
+<tr><td>1641</td><td>Ronco Sacch</td><td>Blenio</td><td>2025</td><td></td></tr>
 <tr><td></td><td>Kanton Waadt</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Kanton Wallis</td><td></td><td></td><td></td></tr>
@@ -4311,4 +4438,4 @@ Anhang 2[^t-2]
 <tr><td></td><td>*Keine Objekte*</td><td></td><td></td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Amtliches Gemeindeverzeichnis der Schweiz, Ausgabe 16. Dezember 2016
+[^annex2-lvlu1-1]: Amtliches Gemeindeverzeichnis der Schweiz, Ausgabe 6. April 2025
