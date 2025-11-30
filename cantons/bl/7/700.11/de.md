@@ -4,13 +4,13 @@ number: "700.11"
 title: Verordnung zum Polizeigesetz
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2025-04-01
-valid_until: 2025-11-30
-version_adopted: 2024-12-17
+version: 2025-12-01
+valid_until: 2025-12-31
+version_adopted: 2025-11-25
 adopted: 1999-02-09
 in_force: 1999-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/700.11"
-pdf: "https://bl.clex.ch/api/de/versions/4109/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4109/pdf_file"
 
 (Polizeiverordnung, PolV)
 
-Vom 09.02.1999 (Stand 01.04.2025)
+Vom 09.02.1999 (Stand 01.12.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
