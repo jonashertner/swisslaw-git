@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Mai 2010 über das Inverkehrbringen von nach ausländ
 short: VIPaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: de
-version: 2025-07-01
+version: 2025-12-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20250701/de"
 
 (Verordnung über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, VIPaV)
 
-vom 19. Mai 2010 (Stand am 1. Juli 2025)
+vom 19. Mai 2010 (Stand am 1. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 16*a* Absatz 2 Buchstabe e und 31 Absatz 1 des Bundesg
 
 verordnet:
 
-[^ingress-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -56,7 +56,7 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
   - 1\. bleihaltige Anstrichfarben und Lacke sowie damit behandelte Produkte (Anhang 2.8 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^2-1], ChemRRV),
   - 2\.[^2-2] …
   - 3\.[^2-3] gefährliche Stoffe und Zubereitungen, die auf der Etikette keine Angabe zur Herstellerin nach Artikel 10 Absatz 3 Buchstabe a der Chemikalienverordnung vom 5. Juni 2015[^2-4] (ChemV) enthalten, sowie Stoffe und Zubereitungen nach Artikel 19 ChemV, die im Sicherheitsdatenblatt nicht alle Angaben nach Anhang 2 Ziffer 3.2 ChemV enthalten,
-  - 4\.[^2-5] in der Luft stabile Stoffe sowie Zubereitungen und Produkte, welche die Anforderungen nach den Anhängen 1.5, 2.3, 2.9, 2.10, 2.11 und 2.12 ChemRRV nicht erfüllen,
+  - 4\.[^2-5] in der Luft stabile Stoffe sowie Zubereitungen und Produkte, welche die Anforderungen nach den Anhängen 1.5, 2.3, 2.9–2.12 und 2.19 ChemRRV nicht erfüllen,
   - 5\. Holz und Holzwerkstoffe, welche die Anforderungen nach Anhang 2.4 Ziffer 1 und Anhang 2.17 ChemRRV nicht erfüllen,
   - 6\. Wasch- und Reinigungsmittel, die Phosphat oder schwer abbaubare Bestandteile (Komplexbildner) nach Anhang 2.1 Ziffer 2 Absatz 1 Buchstaben a–d sowie Anhang 2.2 Ziffer 2 Absatz 1 Buchstaben a und b ChemRRV enthalten;
 
@@ -118,53 +118,53 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
   - 13\.[^2-44] Nikotinprodukte ohne Tabak zum oralen Gebrauch nach Artikel 3 Buchstabe d des Tabakproduktegesetzes vom 1. Oktober 2021[^2-45] (TabPG) und elektronische Zigaretten nach Artikel 3 Buchstabe f TabPG ohne Nikotin, deren Verpackung keinen Warnhinweis nach Artikel 14 Absatz 1 Buchstaben b oder e TabPG trägt,
   - 14\.[^2-46] gleichartige Produkte nach Artikel 2 der Tabakprodukteverordnung vom 28. August 2024[^2-47] (TabPV), deren Verpackung keinen Warnhinweis aus der Einstufung nach Artikel 3 TabPV und keinen Warnhinweis nach Artikel 13 TabPV trägt.
 
-[^2-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^2-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^2-2]: Aufgehoben durch Ziff. II 2 der V vom 17. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 [^2-3]: Fassung gemäss Anhang 6 Ziff. 9 der Chemikalienverordnung vom 5. Juni 2015, in Kraft seit 1. Juli 2015 ([AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
-[^2-4]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^2-5]: Fassung gemäss Ziff. II 2 der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^2-4]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^2-5]: Fassung gemäss Ziff. II der V vom 29. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 [^2-6]: Aufgehoben durch Anhang Ziff. 3 der V vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-7]: Aufgehoben durch Anhang 2 Ziff. II 12 der Alkoholverordnung vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 [^2-8]: Aufgehoben durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, mit Wirkung seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
 [^2-9]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
-[^2-10]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^2-10]: [SR 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
 [^2-11]: Fassung gemäss Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-12]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^2-12]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^2-13]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-14]: Steht für «Gentechnisch veränderte Organismen»
-[^2-15]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2-15]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^2-16]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-17]: Aufgehoben durch Ziff. I der V vom 12. April 2017, mit Wirkung seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
 [^2-18]: Aufgehoben durch Ziff. I der V vom 12. April 2017, mit Wirkung seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-19]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^2-20]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-21]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
-[^2-22]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^2-19]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^2-20]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^2-21]: [SR 742.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8750)
+[^2-22]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 [^2-23]: [[AS 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. 6. [AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)Anhang 2 Ziff. II]
 [^2-24]: Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2022 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-25]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-25]: [SR 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^2-26]: Fassung gemäss Ziff. III der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
-[^2-27]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^2-27]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 [^2-28]: Fassung gemäss Ziff. IV der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 [^2-29]: Aufgehoben durch Ziff. I der V vom 29. März 2023, mit Wirkung seit 1. März 2024 ([AS 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
 [^2-30]: Aufgehoben durch Ziff. IV der V vom 21. Mai 2025, mit Wirkung seit 1. Juli 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 [^2-31]: Eingefügt durch Art. 10 der V vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten, in Kraft seit 1. Okt. 2010 ([AS 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-32]: [SR 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-32]: [SR 944.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11326)
 [^2-33]: Eingefügt durch Ziff. I 4 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2023 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-34]: Eingefügt durch Art. 13 der Pelzdeklarationsverordnung vom 7. Dez. 2012 ([AS 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-35]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-35]: [SR 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
 [^2-36]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
-[^2-37]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-37]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^2-38]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^2-39]: Eingefügt durch Ziff. II der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)). Berichtigung vom 19. Sept. 2024 ([AS 2024 509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-40]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^2-40]: [SR 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
 [^2-41]: Eingefügt durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-42]: [SR 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
-[^2-43]: [SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)
+[^2-42]: [SR 641.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8114)
+[^2-43]: [SR 641.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8116)
 [^2-44]: Eingefügt durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-45]: [SR 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^2-45]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
 [^2-46]: Eingefügt durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-47]: [SR 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
+[^2-47]: [SR 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
 
 #### Art. 3
 
@@ -234,8 +234,8 @@ Vorbehalten bleiben:
 - a. die herkunftsrechtlichen Bestimmungen über die Auslobung der schweizerischen Herkunft nach dem Markenschutzgesetz vom 28. August 1992[^6-1];
 - b. die Bestimmungen zum Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse und verarbeitete landwirtschaftliche Erzeugnisse nach der GUB/GGA-Verordnung vom 28. Mai 1997[^6-2].
 
-[^6-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^6-2]: [SR 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
+[^6-1]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^6-2]: [SR 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
 
 #### Art. 6a
 
@@ -262,7 +262,7 @@ Wird ein Lebensmittel in der Schweiz nach ausländischen technischen Vorschrifte
 
 <sup>5</sup> Im Übrigen richtet sich das Bewilligungsverfahren nach dem Bundesgesetz vom 20. Dezember 1968[^7-1] über das Verwaltungsverfahren.
 
-[^7-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^7-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 8
 
@@ -320,10 +320,10 @@ Herstellern in der Schweiz wird für die folgenden landwirtschaftlichen Erzeugni
 - c. Erzeugnisse und Lebensmittel, die nach der Bio-Verordnung vom 22. September 1997[^10a-5] gekennzeichnet werden.
 
 [^10a-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
-[^10a-2]: [SR 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
+[^10a-2]: [SR 910.19](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10421)
 [^10a-3]: Fassung gemäss Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^10a-4]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
-[^10a-5]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^10a-4]: [SR 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
+[^10a-5]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
 #### Art. 11
 
@@ -440,9 +440,9 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 [^19-3]: Eingefügt durch Ziff. II der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6809](https://fedlex.data.admin.ch/eli/oc/2012/824)).
 [^19-4]: Eingefügt durch Ziff. III der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3669](https://fedlex.data.admin.ch/eli/oc/2013/684)).
 [^19-5]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Jan. 2016 ([AS 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
-[^19-6]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^19-6]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^19-7]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4421](https://fedlex.data.admin.ch/eli/oc/2016/727)).
-[^19-8]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^19-8]: [SR 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
 [^19-9]: Eingefügt durch Ziff. II der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 20

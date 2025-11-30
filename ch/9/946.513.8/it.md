@@ -4,11 +4,11 @@ title: "Ordinanza del 19 maggio 2010 concernente l'immissione in commercio di pr
 short: OIPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: it
-version: 2025-07-01
+version: 2025-12-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20250701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20250701/it"
 
 (Ordinanza sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, OIPPE)
 
-del 19 maggio 2010 (Stato 1° luglio 2025)
+del 19 maggio 2010 (Stato 1° dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 16*a* capoverso 2 lettera e, nonché 31 capoverso 1 della leg
 
 ordina:
 
-[^ingress-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Sezione 1: Oggetto
 
@@ -56,7 +56,7 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
   - 1\. pitture e lacche al piombo nonché prodotti con esse trattati (all. 2.8 dell’O del 18 mag. 2005[^2-1] sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim),
   - 2\.[^2-2] ...
   - 3\.[^2-3] sostanze e preparati pericolosi che non recano sull’etichetta l’indicazione del fabbricante secondo l’articolo 10 capoverso 3 lettera a dell’ordinanza del 5 giugno 2015[^2-4] sui prodotti chimici (OPChim), nonché sostanze e preparati secondo l’articolo 19 OPChim le cui schede di dati di sicurezza non contengono tutti i dati di cui all’allegato 2 numero 3.2 OPChim,
-  - 4\.[^2-5] sostanze stabili nell’aria nonché preparati e prodotti che non soddisfano le esigenze di cui agli allegati 1.5, 2.3, 2.9, 2.10, 2.11 e 2.12 ORRPChim,
+  - 4\.[^2-5] sostanze stabili nell’aria nonché preparati e prodotti che non soddisfano le esigenze di cui agli allegati 1.5, 2.3, 2.9–2.12 e 2.19 ORRPChim,
   - 5\. legno e materiali legnosi che non soddisfano le esigenze di cui all’allegato 2.4 numero 1 e all’allegato 2.17 ORRPChim,
   - 6\. detersivi e prodotti di pulizia che contengono fosfati o componenti difficilmente degradabili (complessanti) secondo l’allegato 2.1 numero 2 capoverso 1 lettere a–d nonché l’allegato 2.2 numero 2 capoverso 1 lettere a e b ORRPChim;
 
@@ -118,53 +118,53 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
   - 13\.[^2-44] prodotti a base di nicotina per uso orale senza tabacco di cui all’articolo 3 lettera d della legge del 1° ottobre 2021[^2-45] sui prodotti del tabacco (LPTab) e sigarette elettroniche senza nicotina di cui all’articolo 3 lettera f LPTab il cui imballaggio non reca l’avvertenza prevista all’articolo 14 capoverso 1 lettera b o e LPTab,
   - 14\.[^2-46] prodotti simili di cui all’articolo 2 dell’ordinanza del 28 agosto 2024[^2-47] sui prodotti del tabacco (OPTab) il cui imballaggio non reca le avvertenze secondo la classificazione prevista all’articolo 3 OPTab né quelle previste all’articolo 13 OPTab.
 
-[^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^2-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^2-2]: Abrogato dalla cifra II n. 2 dell’O del 17 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 [^2-3]: Nuovo testo giusta l’all. 6 n. 9 dell’O del 5 giu. 2015 sui prodotti chimici in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
-[^2-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^2-5]: Nuovo testo giusta la cifra II n. 2 dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^2-4]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^2-5]: Nuovo testo giusta la cifra II dell’O del 29 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 747](https://fedlex.data.admin.ch/eli/oc/2025/747)).
 [^2-6]: Abrogato dall’all. n. 3 dell’O del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-7]: Abrogato dall’all. 2 cifra II n. 12 dell’O del 15 set. 2017 sull’alcol, con effetto dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 [^2-8]: Abrogati dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, con effetto dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
 [^2-9]: Abrogato dalla cifra I dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
-[^2-10]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^2-10]: [RS 916.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10945)
 [^2-11]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-12]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^2-12]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^2-13]: Nuovo testo giusta l’all. n. 3 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-14]: «Organismi geneticamente modificati»
-[^2-15]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2-15]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^2-16]: Nuovo testo giusta l’all. n. 3 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-17]: Abrogato dalla cifra I dell’O del 12 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
 [^2-18]: Abrogato dalla cifra I dell’O del 12 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-19]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^2-20]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-21]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
-[^2-22]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^2-19]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^2-20]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^2-21]: [RS 742.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8750)
+[^2-22]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 [^2-23]: [[RU 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 n. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)cifra II n. 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. 6. [RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)all. 2 cifra I]
 [^2-24]: Abrogato dalla cifra III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2022 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-25]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-25]: [RS 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^2-26]: Nuovo testo giusta le cifre III e IV dell’O del 24 mag. 2023, in vigore dal 1° apr. 2024 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
-[^2-27]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^2-27]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 [^2-28]: Nuovo testo giusta la cifra IV dell’O del 21 mag. 2025, con effetto dal 1° lug. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 [^2-29]: Abrogato dalla cifra I dell’O del 29 mar. 2023, con effetto dal 1° mar. 2024 ([RU 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
 [^2-30]: Abrogato dalla cifra IV dell’O del 21 mag. 2025, con effetto dal 1° lug. 2025 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 [^2-31]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-32]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-32]: [RS 944.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11326)
 [^2-33]: Introdotto dalla cifra I n. 4 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogato dalla cifra III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2023 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-34]: Introdotto dall’art. 13 dell’O del 7 dic. 2012 sulla dichiarazione delle pellicce ([RU 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nuovo testo giusta la cifra II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-35]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-35]: [RS 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
 [^2-36]: Introdotto dalla cifra I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
-[^2-37]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-37]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^2-38]: Introdotto dalla cifra III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^2-39]: Introdotto dalla cifra II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)). Correzione del 19 set. 2024 ([RU 2024 509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-40]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^2-40]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
 [^2-41]: Introdotto dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-42]: [RS 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
-[^2-43]: [RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)
+[^2-42]: [RS 641.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8114)
+[^2-43]: [RS 641.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8116)
 [^2-44]: Introdotto dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-45]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^2-45]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
 [^2-46]: Introdotto dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-47]: [RS 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
+[^2-47]: [RS 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
 
 #### Art. 3
 
@@ -234,8 +234,8 @@ Sono fatte salve:
 - a. le disposizioni del diritto in materia di indicazioni di provenienza concernenti la valorizzazione della provenienza svizzera secondo la legge del 28 agosto 1992[^6-1] sulla protezione dei marchi;
 - b. le disposizioni sulla protezione delle denominazioni di origine e delle indicazioni geografiche dei prodotti agricoli e dei prodotti agricoli trasformati secondo l’ordinanza DOP/IGP del 28 maggio 1997[^6-2].
 
-[^6-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^6-2]: [RS 910.12](https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198)
+[^6-1]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
+[^6-2]: [RS 910.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10403)
 
 #### Art. 6a
 
@@ -262,7 +262,7 @@ Se una derrata alimentare è fabbricata in Svizzera conformemente a prescrizioni
 
 <sup>5</sup> Per il resto, la procedura di autorizzazione è disciplinata dalla legge federale del 20 dicembre 1968[^7-1] sulla procedura amministrativa.
 
-[^7-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^7-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 8
 
@@ -320,10 +320,10 @@ Ai produttori in Svizzera non è rilasciata un’autorizzazione secondo l’arti
 - c. prodotti e derrate alimentari, recanti una designazione conformemente all’ordinanza del 22 settembre 1997[^10a-5] sull’agricoltura biologica.
 
 [^10a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
-[^10a-2]: [RS 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
+[^10a-2]: [RS 910.19](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10421)
 [^10a-3]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^10a-4]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
-[^10a-5]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^10a-4]: [RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
+[^10a-5]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
 #### Art. 11
 
@@ -440,9 +440,9 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 [^19-3]: Introdotto dalla cifra II dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6809](https://fedlex.data.admin.ch/eli/oc/2012/824)).
 [^19-4]: Introdotto dalla cifra III dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3669](https://fedlex.data.admin.ch/eli/oc/2013/684)).
 [^19-5]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° gen. 2016 ([RU 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
-[^19-6]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^19-6]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 [^19-7]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4421](https://fedlex.data.admin.ch/eli/oc/2016/727)).
-[^19-8]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^19-8]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
 [^19-9]: Introdotto dalla cifra II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 20
