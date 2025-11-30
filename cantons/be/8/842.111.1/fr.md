@@ -4,13 +4,12 @@ number: "842.111.1"
 title: "Ordonnance cantonale sur l'assurance-maladie"
 short: OCAMal
 language: fr
-version: 2023-01-01
-valid_until: 2025-11-30
-version_adopted: 2023-08-23
+version: 2025-12-01
+version_adopted: 2025-10-22
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2861/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3252/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2861/pdf_file"
 
 (OCAMal)
 
-du 25.10.2000 (état au 01.01.2023)
+du 25.10.2000 (état au 01.12.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -363,11 +362,11 @@ arrête:
 
 #### Art. 11
 
-**Bénéficiaires de prestations sociales ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs et personnes relevant du domaine de l'asile et des réfugiés**
+**Bénéficiaires de l’aide sociale, bénéficiaires d’aides matérielles dans le cadre de la juridiction pénale des mineurs et personnes relevant du domaine de l’asile et des réfugiés**
 
-<sup>1</sup> Les personnes qui, dans le canton de Berne, bénéficient de prestations sociales ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs ont droit à la réduction ordinaire maximale des primes d’assurance obligatoire des soins accordée pour leur âge (art. 4) dans la région de leur commune de domicile actuelle.
+<sup>1</sup> Les personnes qui, dans le canton de Berne, bénéficient de prestations d’aide sociale ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs ont droit à la réduction ordinaire maximale des primes d’assurance obligatoire des soins accordée pour leur âge (art. 4) dans la région de leur commune de domicile actuelle.
 
-<sup>2</sup> Les jeunes adultes qui, dans le canton de Berne, bénéficient de prestations sociales ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs ont droit à une réduction des primes de 50 pour cent. La prime déterminante est calculée sur la base de la prime moyenne exigée des jeunes adultes l’année précédente par les 20 assureurs les moins chers de la région en fonction de leur commune de domicile actuelle.
+<sup>2</sup> Les jeunes adultes qui, dans le canton de Berne, bénéficient de prestations d’aide sociale ou d’aides matérielles dans le cadre de la juridiction pénale des mineurs ont droit à une réduction des primes de 50 pour cent. La prime déterminante est calculée sur la base de la prime moyenne exigée des jeunes adultes l’année précédente par les 20 assureurs les moins chers de la région en fonction de leur commune de domicile actuelle.
 
 <sup>3</sup> …
 
@@ -473,7 +472,7 @@ arrête:
 
 <sup>1</sup> Le montant de la réduction des primes est versé à l'assureur-maladie.
 
-<sup>2</sup> Il est versé au service communal compétent en faveur des bénéficiaires de prestations sociales, à l’organisme compétent selon l’article 10, alinéa 1 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^17a-1] en faveur des personnes du domaine de l’asile et des réfugiés pouvant prétendre à la réduction des primes selon l’article 65 LAMal, et à l’agence régionale du Ministère public des mineurs compétente en faveur des bénéficiaires d’aides matérielles dans le cadre de la juridiction pénale des mineurs.
+<sup>2</sup> Il est versé au service communal compétent en faveur des bénéficiaires de l’aide sociale, à l’organisme compétent selon l’article 10, alinéa 1 de la loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^17a-1] en faveur des personnes du domaine de l’asile et des réfugiés pouvant prétendre à la réduction des primes selon l’article 65 LAMal, et à l’agence régionale du Ministère public des mineurs compétente en faveur des bénéficiaires d’aides matérielles dans le cadre de la juridiction pénale des mineurs.
 
 <sup>3</sup> Le service communal compétent, l’organisme compétent selon l’article 10, alinéa 1 LAAR et l’agence régionale du Ministère public des mineurs compétente transfèrent directement le montant de la réduction des primes à l’assureur-maladie.
 
@@ -512,17 +511,17 @@ arrête:
 
 **Communes 1. Mise à disposition de données**
 
-<sup>1</sup> Les services compétents des communes mettent gratuitement à la disposition de l’OAS toutes les données concernant leurs habitants et les bénéficiaires de prestations sociales nécessaires à la mise en œuvre de l’obligation de s’assurer et de la réduction des primes d’assurance obligatoire des soins.
+<sup>1</sup> Les services compétents des communes mettent gratuitement à la disposition de l’OAS toutes les données concernant leurs habitants et les bénéficiaires de l’aide sociale qui sont nécessaires à la mise en œuvre de l’obligation de s’assurer et de la réduction des primes d’assurance obligatoire des soins.
 
-<sup>2</sup> Ils sont tenus de communiquer à l’OAS, une semaine au plus après en avoir eu connaissance, toute modification des conditions et des données concernant les personnes bénéficiant de l’aide sociale qui sont déterminantes pour la réduction des primes.
+<sup>2</sup> Ils sont tenus de communiquer à l’OAS, une semaine au plus après en avoir eu connaissance, selon un standard unifié et par le biais du système d’échange électronique de données prévu à cet effet, toute modification des conditions et des données concernant des bénéficiaires de l’aide sociale qui sont déterminantes pour la réduction des primes.
 
-<sup>3</sup> Pour toutes les communications au sens de l’alinéa 2, l’échange de données entre les services compétents des communes et l’OAS doit s’effectuer selon un standard unifié et par le biais de la plate-forme électronique mise à disposition dans ce but par l’OAS.
+<sup>3</sup> …
 
 #### Art. 19a
 
 **2. Décompte**
 
-<sup>1</sup> L’OAS établit chaque année le décompte des communications transmises par les services compétents des communes (art. 19, al. 2).
+<sup>1</sup> L’OAS établit chaque année un décompte concernant les données communiquées par les services compétents des communes (art. 19, al. 2).
 
 <sup>2</sup> Les services compétents des communes doivent vérifier si le décompte est complet et exact et, le cas échéant, communiquer les corrections requises dans le délai fixé par l’OAS. Ils doivent également attester que les réductions des primes ont été octroyées aux personnes concernées de manière conforme au droit.
 
@@ -538,7 +537,7 @@ arrête:
 
 <sup>1</sup> Les organismes compétents selon l’article 10, alinéa 1 LAAR mettent gratuitement à la disposition de l’OAS toutes les données nécessaires à la mise en œuvre de la réduction des primes concernant les personnes relevant du domaine de l’asile ou des réfugiés qui ont droit à la réduction des primes selon l’article 65 LAMal.
 
-<sup>2</sup> Les articles 19, alinéas 2 et 3, 19a et 19b s’appliquent par analogie.
+<sup>2</sup> Les articles 19, alinéa 2, 19a et 19b s’appliquent par analogie.
 
 #### Art. 20
 

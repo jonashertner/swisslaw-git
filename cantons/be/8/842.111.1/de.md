@@ -4,13 +4,12 @@ number: "842.111.1"
 title: Kantonale Krankenversicherungsverordnung
 short: KKVV
 language: de
-version: 2023-01-01
-valid_until: 2025-11-30
-version_adopted: 2023-08-23
+version: 2025-12-01
+version_adopted: 2025-10-22
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2861/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3252/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2861/pdf_file"
 
 (KKVV)
 
-vom 25.10.2000 (Stand 01.01.2023)
+vom 25.10.2000 (Stand 01.12.2025)
 
 Der Regierungsrat des Kantons Bern
 
@@ -510,19 +509,19 @@ beschliesst:
 
 #### Art. 19
 
-**Gemeinden 1. Zur-Verfügung- Stellung von Daten**
+**Gemeinden 1. Zur-Verfügung-Stellung von Daten**
 
 <sup>1</sup> Die zuständigen Stellen der Gemeinden stellen dem ASV kostenlos alle zur Durchführung der Versicherungspflicht und der Prämienverbilligung notwendigen Daten über ihre Einwohnerinnen und Einwohner sowie über die Personen, die Leistungen der Sozialhilfe beziehen, zur Verfügung.
 
-<sup>2</sup> Sie haben dem ASV innerhalb einer Woche, seitdem sie davon Kenntnis erhalten haben, jede wesentliche Änderung in den für die Prämienverbilligung massgebenden Verhältnissen und Daten von Personen, die Leistungen der Sozialhilfe beziehen, zu melden.
+<sup>2</sup> Sie haben dem ASV innerhalb einer Woche, seitdem sie davon Kenntnis erhalten haben, jede wesentliche Änderung in den für die Prämienverbilligung massgebenden Verhältnissen und Daten von Personen, die Leistungen der Sozialhilfe beziehen, über den dafür vorgesehenen elektronischen Datenaustausch nach einem einheitlichen Standard bekanntzugeben.
 
-<sup>3</sup> Der Datenaustausch zwischen den zuständigen Stellen der Gemeinden und dem ASV hat für alle Meldungen nach Absatz 2 nach einem einheitlichen Standard und unter Nutzung der vom ASV dafür zur Verfügung gestellten elektronischen Plattform zu erfolgen.
+<sup>3</sup> …
 
 #### Art. 19a
 
 **2. Abrechnung**
 
-<sup>1</sup> Das ASV erstellt jährlich eine Abrechnung über die von den zuständigen Stellen der Gemeinden erstatteten Meldungen (Art. 19 Abs. 2).
+<sup>1</sup> Das ASV erstellt jährlich eine Abrechnung über die von den zuständigen Stellen der Gemeinden bekanntgegebenen Daten (Art. 19 Abs. 2).
 
 <sup>2</sup> Die zuständigen Stellen der Gemeinden haben die Abrechnung auf ihre Vollständigkeit und Richtigkeit zu überprüfen und allfällige Korrekturen innerhalb der vom ASV gesetzten Frist zu melden. Gleichzeitig haben sie dem ASV zu bestätigen, dass die Gewährung der Prämienverbilligung an die betreffenden Personen rechtmässig erfolgt ist.
 
@@ -538,7 +537,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständigen Trägerschaften nach Artikel 10 Absatz 1 SAFG stellen dem ASV kostenlos alle zur Durchführung der Prämienverbilligung notwendigen Daten über die Personen des Asyl- und Flüchtlingsbereichs, die einen Anspruch auf Prämienverbilligung nach Artikel 65 KVG haben, zur Verfügung.
 
-<sup>2</sup> Artikel 19 Absatz 2 und 3 sowie Artikel 19a und 19b gelten sinngemäss.
+<sup>2</sup> Artikel 19 Absatz 2 sowie Artikel 19a und 19b gelten sinngemäss.
 
 #### Art. 20
 
