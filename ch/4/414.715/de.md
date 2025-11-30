@@ -3,18 +3,18 @@ sr: "414.715"
 title: Verordnung des WBF vom 1. Dezember 2021 über den Zugang zu Fachhochschulstudiengängen mit integrierter Praxis
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/806"
 language: de
-version: 2025-10-01
+version: 2025-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251001-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über den Zugang zu Fachhochschulstudiengängen mit integrierter Praxis
 
-vom 1. Dezember 2021 (Stand am 1. Oktober 2025)
+vom 1. Dezember 2021 (Stand am 1. Dezember 2025)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -56,10 +56,12 @@ Die Inhaberinnen und Inhaber eines eidgenössischen Berufsmaturitätszeugnisses,
 
 Die Zulassung erfolgt, wenn die folgenden Voraussetzungen erfüllt sind:
 
-- a. Das Bachelorstudium dauert vier Jahre, und der Start erfolgt bis spätestens Ende 2025.
+- a.[^3-1] Das Bachelorstudium dauert vier Jahre, und der Start erfolgt bis spätestens Ende 2026.
 - b. Der Praxisanteil im Unternehmen beträgt 40 Prozent der gesamten Studienzeit.
 - c. Der Inhalt des Praxisanteils ist von der Fachhochschule validiert.
 - d. Die Kandidatin oder der Kandidat hat mit dem Unternehmen einen Ausbildungsvertrag über vier Jahre abgeschlossen; der Vertrag muss von der Fachhochschule validiert sein.
+
+[^3-1]: Fassung gemäss Ziff. I der V des WBF vom 30. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 709](https://fedlex.data.admin.ch/eli/oc/2025/709)).
 
 #### Art. 4
 

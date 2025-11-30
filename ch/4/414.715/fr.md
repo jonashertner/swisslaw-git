@@ -3,18 +3,18 @@ sr: "414.715"
 title: "Ordonnance du DEFR du 1<sup>er</sup> décembre 2021 concernant l’admission aux études dans les hautes écoles spécialisées dans les filières intégrant une partie pratique"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/806"
 language: fr
-version: 2025-10-01
+version: 2025-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251001-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251201-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR concernant l’admission aux études dans les hautes écoles spécialisées dans les filières intégrant une partie pratique
 
-du 1<sup>er</sup> décembre 2021 (État le 1<sup>er</sup> octobre 2025)
+du 1<sup>er</sup> décembre 2021 (État le 1<sup>er</sup> décembre 2025)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -56,10 +56,12 @@ Les titulaires d’un certificat fédéral de maturité professionnelle qui ne d
 
 L’admission est concédée aux conditions suivantes:
 
-- a. le cycle bachelor dure quatre ans et commence au plus tard avant la fin de 2025;
+- a.[^3-1] le cycle bachelor dure quatre ans et commence au plus tard avant la fin de 2026;
 - b. la partie pratique en entreprise représente 40 % de la durée totale des études;
 - c. le contenu de la partie pratique est validé par la haute école spécialisée;
 - d. le candidat possède un contrat de formation de quatre ans passé avec une entreprise et validé par la haute école spécialisée.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 30 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 709](https://fedlex.data.admin.ch/eli/oc/2025/709)).
 
 #### Art. 4
 

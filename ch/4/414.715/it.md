@@ -3,18 +3,18 @@ sr: "414.715"
 title: Ordinanza del DEFR del 1° dicembre 2021 concernente l’ammissione a cicli di studio delle scuole universitarie professionali con pratica integrata
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/806"
 language: it
-version: 2025-10-01
+version: 2025-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251001-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/806/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2021-806-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/806/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR concernente l’ammissione a cicli di studio delle scuole universitarie professionali con pratica integrata
 
-del 1° dicembre 2021 (Stato 1° ottobre 2025)
+del 1° dicembre 2021 (Stato 1° dicembre 2025)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -56,10 +56,12 @@ I titolari di un attestato federale di maturità professionale che non dispongon
 
 L’ammissione è concessa alle seguenti condizioni:
 
-- a. il ciclo bachelor dura quattro anni e l’inizio avviene al più tardi entro la fine del 2025;
+- a.[^3-1] il ciclo bachelor dura quattro anni e l’inizio avviene al più tardi entro la fine del 2026;
 - b. la parte pratica svolta all’interno di un’impresa rappresenta il 40 per cento della durata totale degli studi;
 - c. il contenuto della parte pratica è convalidato dalla scuola universitaria professionale;
 - d. il candidato è in possesso di un contratto di formazione di quattro anni concluso con un’impresa e convalidato dalla scuola universitaria professionale.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 30 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 709](https://fedlex.data.admin.ch/eli/oc/2025/709)).
 
 #### Art. 4
 
