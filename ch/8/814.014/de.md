@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2005 über die Gebühren des Bundesamtes für Umw
 short: GebV-BAFU
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/449"
 language: de
-version: 2025-08-01
+version: 2025-12-01
 adopted: 2005-06-03
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2005-449-20251201-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20251201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250801/de"
 
 (Gebührenverordnung BAFU, GebV-BAFU)[^t-1]
 
-vom 3. Juni 2005 (Stand am 1. August 2025)
+vom 3. Juni 2005 (Stand am 1. Dezember 2025)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 5 der V vom 22. Nov. 2006 über die Gebühren und Aufsichtsabgaben des Bundesamtes für Energie, in Kraft seit 1. Jan. 2007 ([AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
@@ -27,10 +27,10 @@ gestützt auf Artikel 48 Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-3]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-5]: Fassung gemäss Anhang 2 Ziff. 5 der V vom 22. Nov. 2006 über die Gebühren und Aufsichtsabgaben des Bundesamtes für Energie, in Kraft seit 1. Jan. 2007 ([AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
 #### Art. 1
@@ -57,7 +57,7 @@ Diese Verordnung regelt die Gebühren für Verfügungen, Kontrollen und Dienstle
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^2-1].
 
-[^2-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -144,7 +144,7 @@ Anhang[^t-2]
 
 ## Feste Gebührenansätze und Gebührenrahmen
 
-[^t-2]: Bereinigt gemäss Anhang 3 Ziff. II 3 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Anhang 2 Ziff. II 5 der V vom 22. Nov. 2006 über die Gebühren und Aufsichtsabgaben des Bundesamtes für Energie ([AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)), Anhang 5 Ziff. 4 der Freisetzungsverordnung vom 10. Sept. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), Anhang 5 Ziff. 8 der Einschliessungsverordnung vom 9. Mai 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), Anhang Ziff. II 1 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), Ziff. I 1 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Ziff. I der V vom 27. Sept. 2019 ([AS 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), Ziff. III der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), Anhang 3 Ziff. 1 der Holzhandelsverordnung vom 12. Mai 2021 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)), Art. 10 Ziff. 2 der V vom 2. April 2025 über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen ([AS 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)), der Berichtigung vom 23. Juni 2025 ([AS 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)) und Anhang Ziff. 2 der Wasserbauverordnung vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+[^t-2]: Bereinigt gemäss Anhang 3 Ziff. II 3 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Anhang 2 Ziff. II 5 der V vom 22. Nov. 2006 über die Gebühren und Aufsichtsabgaben des Bundesamtes für Energie ([AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)), Anhang 5 Ziff. 4 der Freisetzungsverordnung vom 10. Sept. 2008 ([AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), Anhang 5 Ziff. 8 der Einschliessungsverordnung vom 9. Mai 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)), Anhang Ziff. II 1 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), Ziff. I 1 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Ziff. I der V vom 27. Sept. 2019 ([AS 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), Ziff. III der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), Anhang 3 Ziff. 1 der Holzhandelsverordnung vom 12. Mai 2021 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)), Art. 10 Ziff. 2 der V vom 2. April 2025 über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen ([AS 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)), der Berichtigung vom 23. Juni 2025 ([AS 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)), Anhang Ziff. 2 der Wasserbauverordnung vom 25. Juni 2025 ([AS 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)) und Anhang 10 Ziff. II 4 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 <table>
 <tr><th></th><th>Franken</th></tr>
@@ -162,7 +162,7 @@ Anhang[^t-2]
 <tr><td>– Gentechnikgesetz vom 21. März 2003 (Art. 21 Abs. 1)</td><td></td></tr>
 <tr><td>– Freisetzungsverordnung vom 10. September 2008[^annexu1-lvlu1-5] (Art. 44 Abs. 1)</td><td></td></tr>
 <tr><td>– Einschliessungsverordnung vom 9. Mai 2012[^annexu1-lvlu1-6] (Art. 19 Abs. 1 und 2, 20 Abs. 1 sowie 21 Abs. 1)</td><td></td></tr>
-<tr><td>– Pflanzenschutzmittelverordnung vom 18. Mai 2005[^annexu1-lvlu1-7] (Art. 56 Abs. 1–4)</td><td></td></tr>
+<tr><td>– Pflanzenschutzmittelverordnung vom 20. August 2025[^annexu1-lvlu1-7] (Art. 143)</td><td></td></tr>
 <tr><td>– Dünger-Verordnung vom 10. Januar 2001[^annexu1-lvlu1-8] (Art. 18 Abs. 3 und 30 Abs. 1 und 2)</td><td></td></tr>
 <tr><td>– Futtermittel-Verordnung vom 26. Mai 1999[^annexu1-lvlu1-9] (Art. 26 Abs. 2 und 3)</td><td></td></tr>
 <tr><td>– Tierseuchenverordnung vom 27. Juni 1995[^annexu1-lvlu1-10] (Art. 279 Abs. 1)</td><td></td></tr>
@@ -250,27 +250,27 @@ Anhang[^t-2]
 <tr><td>11. Verwaltungshandlungen und Kontrollen nach der Verordnung vom 2. April 2025[^annexu1-lvlu1-24] über das Inverkehrbringen von erneuerbaren oder emissionsarmen Brenn- und Treibstoffen (IBTV): Bearbeitung von Gesuchen betreffend Bewilligung von erneuerbaren oder emissionsarmen Brenn- oder Treibstoffen nach Artikel 4 IBTV</td><td>Zeitaufwand, höchstens aber 10 000</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^annexu1-lvlu1-2]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^annexu1-lvlu1-3]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^annexu1-lvlu1-4]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^annexu1-lvlu1-5]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^annexu1-lvlu1-6]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^annexu1-lvlu1-7]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278), [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^annexu1-lvlu1-8]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annexu1-lvlu1-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^annexu1-lvlu1-10]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^annexu1-lvlu1-11]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^annexu1-lvlu1-12]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^annexu1-lvlu1-13]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^annexu1-lvlu1-14]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^annexu1-lvlu1-15]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^annexu1-lvlu1-16]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
-[^annexu1-lvlu1-17]: [SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
-[^annexu1-lvlu1-18]: [SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
-[^annexu1-lvlu1-19]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annexu1-lvlu1-20]: [SR 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
-[^annexu1-lvlu1-21]: [SR 721.100.1](https://fedlex.data.admin.ch/eli/cc/1994/2502_2502_2502)
-[^annexu1-lvlu1-22]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
-[^annexu1-lvlu1-23]: [SR 814.021](https://fedlex.data.admin.ch/eli/cc/2021/306)
-[^annexu1-lvlu1-24]: [SR 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^annexu1-lvlu1-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^annexu1-lvlu1-2]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^annexu1-lvlu1-3]: [SR 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
+[^annexu1-lvlu1-4]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^annexu1-lvlu1-5]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^annexu1-lvlu1-6]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^annexu1-lvlu1-7]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annexu1-lvlu1-8]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^annexu1-lvlu1-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
+[^annexu1-lvlu1-10]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^annexu1-lvlu1-11]: [SR 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^annexu1-lvlu1-12]: [SR 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^annexu1-lvlu1-13]: [SR 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^annexu1-lvlu1-14]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^annexu1-lvlu1-15]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^annexu1-lvlu1-16]: [SR 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
+[^annexu1-lvlu1-17]: [SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+[^annexu1-lvlu1-18]: [SR 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
+[^annexu1-lvlu1-19]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^annexu1-lvlu1-20]: [SR 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
+[^annexu1-lvlu1-21]: [SR 721.100.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8403)
+[^annexu1-lvlu1-22]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
+[^annexu1-lvlu1-23]: [SR 814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20014)
+[^annexu1-lvlu1-24]: [SR 814.311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40316)

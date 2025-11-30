@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2005 sugli emolumenti dell'Ufficio federale dell'
 short: OE-UFAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/449"
 language: it
-version: 2025-08-01
+version: 2025-12-01
 adopted: 2005-06-03
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2005-449-20250801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/449/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2005-449-20251201-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20251201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/449/20250801/it"
 
 (Ordinanza sugli emolumenti dell’UFAM; OE-UFAM)[^t-1]
 
-del 3 giugno 2005 (Stato 1° agosto 2025)
+del 3 giugno 2005 (Stato 1° dicembre 2025)
 
 [^t-1]: Nuovo testo giusta l’all. 2 n. 5 dell’O del 22 nov. 2006 sugli emolumenti dell’UFE, in vigore dal 1° gen. 2007 ([RU 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
@@ -27,10 +27,10 @@ visto l’articolo 48 capoverso 2 della legge federale del 7 ottobre 1983[^ingre
 
 ordina:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^ingress-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^ingress-3]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-5]: Nuovo testo giusta l’all. 2 n. 5 dell’O del 22 nov. 2006 sugli emolumenti dell’UFE, in vigore dal 1° gen. 2007 ([RU 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)).
 
 #### Art. 1
@@ -57,7 +57,7 @@ La presente ordinanza disciplina gli emolumenti per le decisioni, i controlli e 
 
 Per quanto la presente ordinanza non preveda una regolamentazione specifica, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^2-1] sugli emolumenti.
 
-[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -146,7 +146,7 @@ Allegato[^t-2]
 
 ## Aliquote fisse degli emolumenti e quadro tariffario
 
-[^t-2]: Aggiornato dall’all. 3 cifra II 3 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dall’all. 2 n. 5 dell’O del 22 nov. 2006 sugli emolumenti dell’UFE (**2006** 4889, **2007** 2267), dall’all. 5 n. 4 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), dalle cifre II delle O dell’11 mar. 2011 ([RU 2011 1063](https://fedlex.data.admin.ch/eli/oc/2011/156)), dall’all. cifra II 1 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), dalla cifra I 1 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dalla cifra I dell’O del 27 set. 2019 ([RU 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), dalla cifra III dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), dall’all. 3 n. 1 dell’O del 12 mag. 2021 sul commercio di legno ([RU 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)), dall’art. 10 n. 2 dell’O del 2 apr. 2025 sull’immissione in commercio di combustibili e carburanti rinnovabili o a basso tenore di emissioni ([RU 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)), dalla correzione del 23 giu. 2025 ([RU 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)) e dall’all n. 2 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua, in vigore dal 1° ago. 2025 ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)).
+[^t-2]: Aggiornato dall’all. 3 cifra II 3 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dall’all. 2 n. 5 dell’O del 22 nov. 2006 sugli emolumenti dell’UFE (**2006** 4889, **2007** 2267), dall’all. 5 n. 4 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)), dalle cifre II delle O dell’11 mar. 2011 ([RU 2011 1063](https://fedlex.data.admin.ch/eli/oc/2011/156)), dall’all. cifra II 1 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)), dalla cifra I 1 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dalla cifra I dell’O del 27 set. 2019 ([RU 2019 3129](https://fedlex.data.admin.ch/eli/oc/2019/577)), dalla cifra III dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), dall’all. 3 n. 1 dell’O del 12 mag. 2021 sul commercio di legno ([RU 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)), dall’art. 10 n. 2 dell’O del 2 apr. 2025 sull’immissione in commercio di combustibili e carburanti rinnovabili o a basso tenore di emissioni ([RU 2025 250](https://fedlex.data.admin.ch/eli/oc/2025/250)), dalla correzione del 23 giu. 2025 ([RU 2025 414](https://fedlex.data.admin.ch/eli/oc/2025/414)), dall’all n. 2 dell’O del 25 giu. 2025 sulla sistemazione dei corsi d’acqua ([RU 2025 450](https://fedlex.data.admin.ch/eli/oc/2025/450)) e dall’all. 10 cifra II n. 4 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
 
 <table>
 <tr><th colspan="2"></th><th>Franchi</th></tr>
@@ -164,7 +164,7 @@ Allegato[^t-2]
 <tr><td colspan="2">– legge del 21 marzo 2003 sull’ingegneria genetica (art. 21 cpv. 1)</td><td></td></tr>
 <tr><td colspan="2">– ordinanza del 10 settembre 2008[^annexu1-lvlu1-5] sull’emissione deliberata nell’ambiente (art. 44 cpv. 1)</td><td></td></tr>
 <tr><td colspan="2">– ordinanza del 9 maggio 2012[^annexu1-lvlu1-6] sull’impiego confinato (art. 19 cpv. 1 e 2, 20 cpv. 1 nonché 21 cpv. 1)</td><td></td></tr>
-<tr><td colspan="2">– ordinanza del 18 maggio 2005[^annexu1-lvlu1-7] sui prodotti fitosanitari (art. 56 cpv. 1–4)</td><td></td></tr>
+<tr><td colspan="2">– ordinanza del 20 agosto 2025[^annexu1-lvlu1-7] sui prodotti fitosanitari (art. 143)</td><td></td></tr>
 <tr><td colspan="2">– ordinanza del 10 gennaio 2001[^annexu1-lvlu1-8] sui concimi (art. 18 cpv. 3 e 30 cpv. 1 e 2)</td><td></td></tr>
 <tr><td colspan="2">– ordinanza del 26 maggio 1999[^annexu1-lvlu1-9] sugli alimenti per animali (art. 26 cpv. 2 e 3)</td><td></td></tr>
 <tr><td colspan="2">– ordinanza del 27 giugno 1995[^annexu1-lvlu1-10] sulle epizozie (art. 279 cpv. 1)</td><td></td></tr>
@@ -252,27 +252,27 @@ Allegato[^t-2]
 <tr><td colspan="2">11. Atti amministrativi e controlli secondo l’ordinanza del 2 aprile 2025[^annexu1-lvlu1-24] sull’immissione in commercio di combustibili e carburanti rinnovabili o a basso tenore di emissioni (OCoCr): elaborazione delle domande relative all’autorizzazione di combustibili o carburanti rinnovabili o a basso tenore di emissioni secondo l’articolo 4 OCoCr</td><td>secondo il dispendio ma al massimo 10 000</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^annexu1-lvlu1-2]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^annexu1-lvlu1-3]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^annexu1-lvlu1-4]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^annexu1-lvlu1-5]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^annexu1-lvlu1-6]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^annexu1-lvlu1-7]: [[RU 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)cifra III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^annexu1-lvlu1-8]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annexu1-lvlu1-9]: [[RU 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349)]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^annexu1-lvlu1-10]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^annexu1-lvlu1-11]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^annexu1-lvlu1-12]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^annexu1-lvlu1-13]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
-[^annexu1-lvlu1-14]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^annexu1-lvlu1-15]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^annexu1-lvlu1-16]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
-[^annexu1-lvlu1-17]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
-[^annexu1-lvlu1-18]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
-[^annexu1-lvlu1-19]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^annexu1-lvlu1-20]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
-[^annexu1-lvlu1-21]: [RS 721.100.1](https://fedlex.data.admin.ch/eli/cc/1994/2502_2502_2502)
-[^annexu1-lvlu1-22]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
-[^annexu1-lvlu1-23]: [RS 814.021](https://fedlex.data.admin.ch/eli/cc/2021/306)
-[^annexu1-lvlu1-24]: [RS 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^annexu1-lvlu1-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^annexu1-lvlu1-2]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^annexu1-lvlu1-3]: [RS 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
+[^annexu1-lvlu1-4]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^annexu1-lvlu1-5]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^annexu1-lvlu1-6]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^annexu1-lvlu1-7]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^annexu1-lvlu1-8]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^annexu1-lvlu1-9]: [[RU 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349)]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)).
+[^annexu1-lvlu1-10]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^annexu1-lvlu1-11]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^annexu1-lvlu1-12]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+[^annexu1-lvlu1-13]: [RS 814.610](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9575)
+[^annexu1-lvlu1-14]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^annexu1-lvlu1-15]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^annexu1-lvlu1-16]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
+[^annexu1-lvlu1-17]: [RS 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+[^annexu1-lvlu1-18]: [RS 923.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10990)
+[^annexu1-lvlu1-19]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^annexu1-lvlu1-20]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
+[^annexu1-lvlu1-21]: [RS 721.100.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8403)
+[^annexu1-lvlu1-22]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
+[^annexu1-lvlu1-23]: [RS 814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20014)
+[^annexu1-lvlu1-24]: [RS 814.311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40316)
