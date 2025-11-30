@@ -3,20 +3,19 @@ canton: LU
 number: "739"
 title: Reklameverordnung
 language: de
-version: 2020-01-01
-valid_until: 2025-11-30
-version_adopted: 2019-10-15
+version: 2025-12-01
+version_adopted: 2025-11-11
 adopted: 1997-06-03
 in_force: 1997-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/739"
-pdf: "https://srl.lu.ch/api/de/versions/3533/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4542/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reklameverordnung
 
-vom 03.06.1997 (Stand 01.01.2020)
+vom 03.06.1997 (Stand 01.12.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -66,6 +65,8 @@ beschliesst:
 
 <sup>6</sup> Reklameanschlagstellen sind dauernde Einrichtungen wie Anschlagwände und -säulen zum wechselnden Anschlag von Fremdreklamen auf öffentlichem oder privatem Grund.
 
+<sup>7</sup> Fahnen und Plakate im Sinne dieser Verordnung sind flache, in der Regel quadratische oder rechteckige Gegenstände aus Stoff, Karton, Papier oder ähnlichen Materialien, die der freien Meinungsäusserung dienen.
+
 #### § 4
 
 **Kommunale Vorschriften**
@@ -91,13 +92,17 @@ beschliesst:
 <sup>1</sup> Keiner Bewilligung bedürfen unter dem Vorbehalt der bundesrechtlichen Regelung für Strassenreklamen, insbesondere der Vorschriften zur Verkehrssicherheit,
 
 - a. Fremdreklamen an Reklameanschlagstellen,
-- b. unbeleuchtete, flach an der Fassade angebrachte Firmenanschriften von höchstens 0,5 m²,
+- b. unbeleuchtete, flach an der Fassade angebrachte Firmenanschriften von höchstens 0,5 m², in Arbeitszonen von höchstens 3,5 m²,
+- b<sup>bis</sup>. unbeleuchtete, flach an der Fassade angebrachte Eigenreklamen von höchstens 3,5 m² in Arbeitszonen,
+- b<sup>ter</sup>. unbeleuchtete, flach an der Fassade angebrachte Fahnen und Plakate der freien Meinungsäusserung von höchstens 0,75 m², die sich auf privatem Grund befinden und keinen direkten Bezug zu einem bestimmten Wahl- oder Abstimmungstag aufweisen,
 - c. Reklamen für besondere Verkaufs- und Dienstleistungsangebote von höchstens 1,2 m²,
-- d. Reklamen für örtliche Veranstaltungen wie gesellschaftliche oder sportliche Anlässe, Ausstellungen usw. von höchstens 1,2 m² während 6 Wochen vor und 5 Tagen nach der Veranstaltung,
-- e. Reklamen für Wahlen und Abstimmungen von höchstens 3,5 m² während 6 Wochen vor und 5 Tagen nach dem Wahl- oder Abstimmungstag,
+- d. Reklamen für örtliche Veranstaltungen wie gesellschaftliche oder sportliche Anlässe, Ausstellungen usw. von höchstens 1,2 m² während 43 Tagen vor und 7 Tagen nach der Veranstaltung,
+- e. Reklamen für Wahlen und Abstimmungen von höchstens 3,5 m² während 43 Tagen vor und 7 Tagen nach dem Wahl- oder Abstimmungstag,
 - f. Reklamen, die während der Bauzeit über den Bau, die Bauherrschaft, die am Bau beteiligten oder die vom Bau betroffenen Unternehmungen und Firmen orientieren.
 
 <sup>2</sup> Die Gemeinden können in ihren Bau- und Zonenreglementen vorsehen, dass Reklamen gemäss Absatz 1d bis höchstens 3,5 m² keiner Bewilligung bedürfen.
+
+<sup>3</sup> Pro Betrieb oder Firma, die in einem Gebäude ansässig sind, ist in Arbeitszonen je Fassade höchstens eine Firmenanschrift nach Absatz 1b oder eine Eigenreklame nach Absatz 1b<sup>bis</sup> bewilligungsfrei zulässig. Diese sind so anzuordnen, dass sie das Ortsbild nicht stören.
 
 ### 2.2 Bewilligungsverfahren
 
