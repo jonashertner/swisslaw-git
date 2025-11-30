@@ -1,25 +1,24 @@
 ---
 canton: AG
 number: "831.100"
-title: Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung
-short: EG AHVG/IVG
+title: Gesetz über die SVA Aargau
+short: SVAG
 language: de
-version: 2016-07-01
-valid_until: 2025-11-30
-version_adopted: 2015-12-15
+version: 2025-12-01
+version_adopted: 2025-04-29
 adopted: 1994-03-15
 in_force: 1995-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/831.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2255/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3874/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung
+# Gesetz über die SVA Aargau
 
-(EG AHVG/IVG)
+(SVAG)
 
-Vom 15.03.1994 (Stand 01.07.2016)
+Vom 15.03.1994 (Stand 01.12.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -56,11 +55,11 @@ beschliesst:
 
 **Organe**
 
-<sup>1</sup> Die Organe der SVA Aargau sind:
+<sup>1</sup> Die Organe der SVA Aargau sind die:
 
-- a) die Verwaltungskommission;
-- b) die Direktorin oder der Direktor;
-- c) die Revisionsstelle.
+- a) Verwaltungskommission;
+- b) Geschäftsleitung;
+- c) Revisionsstelle.
 
 #### § 5
 
@@ -68,9 +67,11 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungskommission ist das oberste Organ der SVA Aargau.
 
-<sup>2</sup> Die Verwaltungskommission besteht aus fünf bis sieben Mitgliedern. Der Regierungsrat wählt die Präsidentin oder den Präsidenten und die übrigen Mitglieder.
+<sup>2</sup> Sie besteht aus fünf bis sieben Mitgliedern. Der Regierungsrat wählt die Präsidentin oder den Präsidenten und die übrigen Mitglieder.
 
 <sup>2<sup>bis</sup></sup> Wählbar sind Personen, die bei Amtsantritt das 70. Altersjahr noch nicht vollendet und noch nicht 16 Jahre der Verwaltungskommission angehört haben.
+
+<sup>2<sup>ter</sup></sup> Mitglieder des Grossen Rats, des Regierungsrats oder Verwaltungsangestellte können nicht der Verwaltungskommission angehören.
 
 <sup>3</sup> Der Regierungsrat setzt die Entschädigungen für die Mitglieder der Verwaltungskommission fest.
 
@@ -78,19 +79,27 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Der Verwaltungskommission obliegen namentlich:
+<sup>1</sup> …
 
-- a) die Wahl der Vizepräsidentin oder des Vizepräsidenten und der Protokollführerin oder des Protokollführers;
-- b) die grundsätzliche Leitung und Überwachung der Geschäftsführung von Sozialversicherungsanstalt[^6-1] und Gemeindezweigstellen;
-- c) der Erlass des Geschäftsreglementes;
-- d) der Erlass personalrechtlicher Vorschriften im Rahmen der Personalgesetzgebung;
-- e) die Wahl der Revisionsstelle für die Sozialversicherungsanstalt[^6-2] und die Arbeitgeberkontrolle;
-- f) die Festsetzung der Verwaltungskostenbeiträge;
-- g) die Festsetzung der Vergütungen an die Gemeinden;
-- h) die Verabschiedung der Jahresrechnung und des Jahresberichtes.
+<sup>2</sup> Die Verwaltungskommission nimmt die strategische Führung der SVA Aargau wahr und stellt die Funktionsfähigkeit der Geschäftsführung sicher.
 
-[^6-1]: Heute: SVA Aargau
-[^6-2]: Heute: SVA Aargau
+<sup>3</sup> Ihr obliegen namentlich:
+
+- a) die Wahl der Vizepräsidentin oder des Vizepräsidenten und der Sekretärin oder des Sekretärs;
+- b) die Ernennung und Abberufung der Geschäftsleitung und der Vorsitzenden oder des Vorsitzenden;
+- c) der Erlass des Organisationsreglements der SVA Aargau[^6-1] unter Vorbehalt der Genehmigung des Regierungsrats;
+- d) der Erlass von Vorschriften über die Gewähr für eine einwandfreie Geschäftstätigkeit gemäss Art 132<sup>septies</sup> der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV) vom 31. Oktober 1947[^6-2];
+- e) der Erlass des Personalreglements unter Vorbehalt der Genehmigung des Regierungsrats;
+- f) der Erlass des Vergütungsreglements unter Vorbehalt der Genehmigung des Regierungsrats;
+- g) die Wahl einer Revisionsstelle, welche die bundesrechtlichen Zulassungsbedingungen erfüllt, und die Bezeichnung der Stelle, welche die Arbeitgeberkontrolle durchführt;
+- h) die Festsetzung der Verwaltungskostenbeiträge;
+- i) das Erheben der Interessenbindungen gemäss Art. 132<sup>octies</sup> AHVV;
+- j) die Sorge für ein angemessenes Risiko- und Qualitätsmanagement und ein internes Kontrollsystem zur Überwachung der Geschäftstätigkeit;
+- k) die Verabschiedung des Budgets unter Vorbehalt von Art. 67 IVG;
+- l) die Verabschiedung der Jahresrechnung und des Geschäftsberichts, die vom Regierungsrat zu genehmigen sind.
+
+[^6-1]: SAR [831.921](https://gesetzessammlungen.ag.ch/data/831.921/de)
+[^6-2]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
 
 #### § 7
 
@@ -100,26 +109,32 @@ beschliesst:
 
 #### § 8
 
-**Direktion**
+**Geschäftsleitung**
 
-<sup>1</sup> Die Verwaltungskommission stellt die Direktorin oder den Direktor der SVA Aargau an.
+<sup>1</sup> Die Geschäftsleitung ist das operative Organ. Sie steht unter der Leitung einer Vorsitzenden oder eines Vorsitzenden.
 
-<sup>2</sup> Die Direktorin oder der Direktor
+<sup>2</sup> …
 
-- a) wohnt den Sitzungen der Verwaltungskommission mit beratender Stimme und dem Recht der Antragsstellung bei;
-- b) leitet die SVA Aargau nach Massgabe der gesetzlichen Bestimmungen und den Weisungen der Verwaltungskommission für die interne Organisation;
-- c) vertritt die SVA Aargau nach aussen;
-- d) nimmt gegenüber den Bundesbehörden die Rechte und Pflichten der Leiterin oder des Leiters der Ausgleichskasse wahr und trifft alle für den Vollzug der bundesrechtlichen Aufgaben erforderlichen Massnahmen.
+<sup>3</sup> Die Geschäftsleitung setzt sich zusammen aus
+
+- a) der Vorsitzenden oder dem Vorsitzenden;
+- b) der Leiterin oder dem Leiter der Ausgleichskasse;
+- c) der Leiterin oder dem Leiter der IV-Stelle;
+- d) weiteren von der Verwaltungskommission bezeichneten Mitgliedern gemäss Organisationsreglement der SVA Aargau.
+
+<sup>4</sup> Die Leiterin oder der Leiter der Ausgleichskasse und die Leiterin oder der Leiter der IV-Stelle nehmen gegenüber den Bundesbehörden ihre Rechte und Pflichten wahr, treffen alle für den Vollzug der bundesrechtlichen Aufgaben erforderlichen Massnahmen und vertreten in diesem Rahmen die Ausgleichskasse beziehungsweise die IV-Stelle nach aussen.
 
 #### § 9
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Revisionsstelle prüft das Rechnungswesen der SVA Aargau.
+<sup>1</sup> Die Revisionsstelle prüft das Rechnungswesen und die Geschäftsführung der SVA Aargau.
 
-<sup>2</sup> Sie erfüllt die Revisionsaufgaben nach den bundesrechtlichen Vorschriften, soweit die SVA Aargau Bundesrecht vollzieht.
+<sup>2</sup> Soweit es um den Vollzug von Bundesrecht geht, erfüllt sie zudem die Revisionsaufgaben gemäss Bundesgesetzgebung. Vorbehalten bleiben Revisionen des Bundes.
 
-<sup>3</sup> Sie berichtet der Verwaltungskommission und der Direktion über das Ergebnis ihrer Prüfung.
+<sup>3</sup> Sie berichtet der Verwaltungskommission und der Geschäftsleitung über das Ergebnis ihrer Prüfung.
+
+<sup>4</sup> Der Regierungsrat kann die Modalitäten der Revision und die Berichterstattung über die übertragenen Aufgaben gemäss § 3 durch Verordnung festlegen.
 
 #### § 10
 
@@ -127,7 +142,7 @@ beschliesst:
 
 <sup>1</sup> Die Kosten der SVA Aargau werden nach Massgabe des Aufwandes auf die verschiedenen Zweige aufgeteilt und wie folgt gedeckt:
 
-- a) für die Ausgleichskasse und die Gemeindezweigstellenbeiträge durch Beiträge gemäss Art. 69 AHVG;
+- a) für die Ausgleichskasse durch Beiträge gemäss Art. 69 AHVG;
 - b) für die IV-Stelle durch Kostenvergütungen gemäss Art. 67 IVG;
 - c) für die übertragenen Aufgaben durch Vergütungen der Auftraggeber.
 
@@ -139,11 +154,21 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden errichten Zweigstellen der SVA Aargau. Mit Zustimmung des Regierungsrates können zwei oder mehrere Gemeinden eine gemeinsame Zweigstelle führen.
 
-<sup>2</sup> Die Aufgaben und Befugnisse der Gemeindezweigstellen werden durch Beschluss des Regierungsrates festgesetzt, soweit sie nicht in Art. 116 der Verordnung über die Alters- und Hinterlassenenversicherung[^11-1] geregelt sind.
+<sup>2</sup> Die Aufgaben der Gemeindezweigstellen im Vollzug der Alters- und Hinterlassenenversicherung sind die
 
-<sup>3</sup> An die Kosten der Errichtung und Führung von Gemeindezweigstellen richtet die Ausgleichskasse den Gemeinden aus den Verwaltungskostenbeiträgen Vergütungen aus. Die Verwaltungskommission setzt den verhältnismässigen Anteil an den Verwaltungskostenbeiträgen sowie die Vergütung an jede Gemeinde fest.
+- a) Auskunftserteilung;
+- b) Zurverfügungstellung von Informationsmaterial;
+- c) Weiterleitung von Mitteilungen, Anfragen und Anträgen;
+- d) Unterstützung bei der Antragstellung;
+- e) Unterstützung bei der Erfassung von Beitragspflichtigen.
 
-[^11-1]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
+<sup>2<sup>bis</sup></sup> Bezüglich der Aufgaben gemäss Absatz 2 ist die Ausgleichskasse der SVA Aargau gegenüber den Gemeindezweigstellen weisungsbefugt. Sie stellt den direkten Geschäftsverkehr zwischen ihr und den Gemeindezweigstellen sicher.
+
+<sup>2<sup>ter</sup></sup> Die Gemeindezweigstellen unterstützen die zuständigen kommunalen Stellen bei Sachverhaltsabklärungen in der Sozialhilfe und im Kindes- und Erwachsenenschutz. Der Regierungsrat erlässt Ausführungsbestimmungen und kann den Gemeindezweigstellen durch Verordnung weitere Aufgaben zuweisen.
+
+<sup>3</sup> Die Kosten der Errichtung und Führung der Gemeindezweigstellen tragen die Gemeinden.
+
+<sup>4</sup> Die SVA Aargau gewährt den Gemeindezweigstellen den für die Erfüllung ihrer Aufgaben notwendigen Datenzugriff.
 
 #### § 12
 
@@ -152,6 +177,12 @@ beschliesst:
 <sup>1</sup> Die IV-Stelle kann zum Vollzug ihrer Aufgaben Aussenstellen errichten und mit IV-Stellen anderer Kantone zusammenarbeiten.
 
 <sup>2</sup> Die Leitung der IV-Stelle verkehrt bei der Aufgabenerfüllung direkt mit den Bundesbehörden.
+
+#### § 12c
+
+**Kooperationen**
+
+<sup>1</sup> Zur Erfüllung der übertragenen Aufgaben gemäss § 3 kann die SVA Aargau mit Durchführungsstellen anderer Kantone zusammenarbeiten. Es braucht die vorgängige Zustimmung des Regierungsrats.
 
 ## 1<sup>bis</sup>.
 
@@ -169,9 +200,9 @@ beschliesst:
 
 **Rückgriffsrecht des Kantons**
 
-<sup>1</sup> Wird der Kanton auf Grund von Art. 70 AHVG oder Art. 66 IVG ersatzpflichtig, steht ihm der Rückgriff zu auf die Organe und das Personal der Sozialversicherungsanstalt[^13-1] oder der Gemeinde, die den Schaden verursacht haben.
+<sup>1</sup> Wird der Kanton gemäss Art. 78 Abs. 1 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) vom 6. Oktober 2000[^13-1], Art. 70 AHVG oder Art. 66 IVG ersatzpflichtig, steht ihm der Rückgriff zu auf die Organe und das Personal der SVA Aargau oder der Gemeinde, die den Schaden verursacht haben.
 
-[^13-1]: Heute: SVA Aargau
+[^13-1]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de)
 
 #### § 14
 
@@ -219,12 +250,7 @@ beschliesst:
 
 #### § 19
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> Der Regierungsrat erlässt Übergangsbestimmungen, welche die rechtzeitige Inbetriebnahme der Sozialversicherungsanstalt[^19-1] sicherstellen und die Übernahme der Ausgleichskasse des Kantons Aargau durch die Sozialversicherungsanstalt[^19-2] regeln.
-
-[^19-1]: Heute: SVA Aargau
-[^19-2]: Heute: SVA Aargau
+**…**
 
 #### § 20
 
