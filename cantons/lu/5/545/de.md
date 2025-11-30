@@ -4,13 +4,12 @@ number: "545"
 title: Organisationsreglement der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 short: Fakultätsreglement WF
 language: de
-version: 2024-08-01
-valid_until: 2025-11-30
-version_adopted: 2024-06-26
+version: 2025-12-01
+version_adopted: 2025-10-24
 adopted: 2024-06-26
 in_force: 2024-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545"
-pdf: "https://srl.lu.ch/api/de/versions/4238/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4238/pdf_file"
 
 (Fakultätsreglement WF)
 
-vom 26.06.2024 (Stand 01.08.2024)
+vom 26.06.2024 (Stand 01.12.2025)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -215,11 +214,11 @@ beschliesst:
 
 **Geheimhaltung**
 
-<sup>1</sup> Die Sitzungen der Fakultätsorgane sind nicht öffentlich.
+<sup>1</sup> Die Mitglieder der Fakultätsversammlung dürfen der durch sie vertretenen Gruppierung die Beschlüsse der Fakultätsversammlung, deren wesentliche Begründung und die Stimmenverhältnisse der Abstimmungen bekannt geben.
 
-<sup>2</sup> Die Teilnehmerinnen und Teilnehmer an den Sitzungen der Fakultätsorgane unterliegen der Geheimhaltungspflicht.
+<sup>2</sup> In den von der Fakultätsleitung bestimmten Ausnahmefällen dürfen die Mitglieder der Fakultätsversammlung mit den Angehörigen der Fakultät und der Gruppierungen traktandierte Geschäfte vorbesprechen. Die Mitglieder können Ausnahmen bei der Dekanin oder beim Dekan beantragen.
 
-<sup>3</sup> Von vorstehenden Bestimmungen bleibt unberührt, dass die Fakultätsleitung die Universitätsleitung oder dass einzelne Mitglieder die durch sie vertretene Gruppierung über Beschlüsse oder den Stand der Beratungen, nicht aber über die Beratungen selbst, unterrichten, es sei denn, dies wird ausdrücklich ausgeschlossen.
+<sup>3</sup> Im Übrigen sind sie verpflichtet, über die Gegenstände, die ihnen bei der Ausübung ihrer Funktion zur Kenntnis gelangen, Verschwiegenheit zu bewahren. Nicht informieren dürfen sie insbesondere über persönliche Äusserungen sowie über Tatsachen, die zum Schutz der Persönlichkeit oder aus Rücksicht auf ein hängiges Verfahren geheim zu halten oder vertraulich sind.
 
 #### § 14
 
