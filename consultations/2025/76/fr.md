@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur les produits cannabiques (Loi sur les produits cannabiques, LPCan) – mise en œuvre de l’initiative parlementaire 20.473"
 document: Projet mis en consultation
 language: fr

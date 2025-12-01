@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sui prodotti della canapa (LPCan) – attuazione dell’iniziativa parlamentare 20.473
 document: Progetto posto in consultazione
 language: it

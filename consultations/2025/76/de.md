@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Bundesgesetz über Cannabisprodukte (Cannabisproduktegesetz, CanPG) – Umsetzung der parlamentarischen Initiative 20.473"
 document: Vernehmlassungsvorlage
 language: de
