@@ -4,13 +4,13 @@ number: "261.1"
 title: Gesetz über die Gerichte und die Justizbehörden
 short: "Gerichtsgesetz, GerG"
 language: de
-version: 2025-07-01
-valid_until: 2025-12-01
-version_adopted: 2025-02-19
+version: 2025-12-02
+valid_until: 2026-01-31
+version_adopted: 2025-09-24
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1387/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1387/pdf_file"
 
 (Gerichtsgesetz, GerG)
 
-vom 09.06.2010 (Stand 01.07.2025)
+vom 09.06.2010 (Stand 02.12.2025)
 
 Der Landrat von Nidwalden,
 
@@ -113,7 +113,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Das Kantonsgericht besteht aus drei bis fünf Präsidentinnen oder Präsidenten (Präsidien) und sechs weiteren Mitgliedern.
+<sup>1</sup> Das Kantonsgericht besteht aus fünf bis neun Präsidentinnen oder Präsidenten (Präsidien) und sechs weiteren Mitgliedern.
 
 <sup>2</sup> Der Landrat legt den Gesamtbeschäftigungsgrad der Präsidien in einem Beschluss fest.
 
@@ -135,6 +135,8 @@ beschliesst:
 - 2\. führt den Vorsitz im Gesamtgericht und in der Präsidentenkonferenz;
 - 3\. vertritt das Kantonsgericht nach aussen;
 - 4\. …
+
+<sup>3</sup> Das Kantonsgericht kann im Reglement über Organisation und Verwaltung einzelne Aufgaben der allgemeinen Geschäftsleitung der Stellvertretung des geschäftsleitenden Präsidiums übertragen. Dies ist bei der Geschäftsverteilung zu berücksichtigen.
 
 #### Art. 10
 
