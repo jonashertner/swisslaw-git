@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Änderung verschiedener Verordnungen im Bereich der beruflichen Vorsorge 2026
 document: Vernehmlassungsvorlage
 language: de

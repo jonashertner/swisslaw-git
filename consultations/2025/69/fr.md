@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance portant modification de diverses ordonnances dans la prévoyance professionnelle 2026
 document: Projet mis en consultation
 language: fr

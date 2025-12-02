@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza concernente modifiche di disposizioni nell’ambito della previdenza professionale 2026
 document: Progetto posto in consultazione
 language: it
