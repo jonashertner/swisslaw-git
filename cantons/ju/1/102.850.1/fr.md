@@ -1,0 +1,189 @@
+---
+canton: JU
+number: "102.850.1"
+title: Accord d’exécution entre le canton de Berne et la République et Canton du Jura relatif au transfert de la commune municipale de Moutier dans le canton du Jura concernant le domaine des affaires sociales (Accord d’exécution concernant le domaine des affaires sociales)
+language: fr
+adopted: 2025-12-03
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20002&id=39302"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Accord d’exécution entre le canton de Berne et la République et Canton du Jura relatif au transfert de la commune municipale de Moutier dans le canton du Jura concernant le domaine des affaires sociales (Accord d’exécution concernant le domaine des affaires sociales)
+
+des 2 et 3 décembre 2025
+
+Le Conseil-exécutif du canton de Berne et le Gouvernement de la République et Canton du Jura,
+
+vu les articles 30, alinéa 2, lettre a, et 32 du concordat des 14 et 15 novembre 2023 entre le canton de Berne et la République et Canton du Jura concernant le transfert de la commune municipale de Moutier dans le canton du Jura (Concordat sur le transfert de Moutier)<sup>1)</sup>,
+
+conviennent :
+
+#### Article premier
+
+**Objet**
+
+Le présent accord règle, dans le domaine des affaires sociales, les questions financières, administratives et juridiques ainsi que la compétence des autorités en relation avec le transfert de la commune municipale de Moutier (ci-après : "la commune de Moutier") dans la République et Canton du Jura (ci-après : "le canton du Jura"), notamment en matière d’aide sociale, de contributions d’entretien et de bons de garde.
+
+#### Art. 2
+
+**Congruence temporelle et congruence d’objectifs**
+
+Dans le cadre de l’exécution des tâches relevant des affaires sociales et de leurs conséquences financières, les cantons de Berne et du Jura appliquent le principe de congruence tel que défini par les normes de la Conférence suisse des institutions d’action sociale.
+
+#### Art. 3
+
+**Compétence de l’Office de l’intégration et de l’action sociale et de la Direction de la santé, des affaires sociales et de l’intégration**
+
+<sup>1</sup> Dès le 1<sup>er</sup> janvier 2026, l’Office bernois de l’intégration et de l’action
+
+sociale est l’autorité compétente en matière d’affaires sociales en lieu et place de la commune de Moutier et du Service social régional de la Prévôté en tant qu’autorité sociale pour le traitement des procédures antérieures au 1<sup>er</sup> janvier 2026 et pendantes à cette date sous réserve de disposition spécifique.
+
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration statue sur les recours formés contre des décisions rendues par l’Office bernois de l’intégration et de l’action sociale sur la base de cet accord.
+
+#### Art. 4
+
+**Compensation des charges du canton de Berne pour l’année 2025**
+
+<sup>1</sup> La commune de Moutier participe à la compensation des charges du
+
+canton de Berne pour l’année 2025. Le décompte est effectué en 2026 en application du droit bernois.
+
+<sup>2</sup> Les voies de droit sont régies par ce même droit.
+
+#### Art. 5
+
+**Versement des prestations d’aide sociale concernant la période antérieure au 1er janvier 2026**
+
+<sup>1</sup> Si la commune de Moutier verse, entre le 1<sup>er</sup> janvier et le 30 juin 2026,
+
+des prestations matérielles d’aide sociale qui concernent, selon le principe de congruence, la période antérieure au 1<sup>er</sup> janvier 2026, celles-ci sont prises en charge par moitié par le canton de Berne.
+
+<sup>2</sup> La commune de Moutier présente au canton de Berne, jusqu’au 30 septembre 2026 au plus tard, un décompte concernant ces prestations d’aide sociale.
+
+<sup>3</sup> Le canton de Berne règle le solde du décompte à la commune de Moutier jusqu’au 31 décembre 2026.
+
+#### Art. 6
+
+**Remboursement de l’aide sociale**
+
+<sup>1</sup> Sont compris comme des remboursements de l’aide sociale au sens
+
+du présent accord tous les revenus considérés comme des revenus des communes dans le cadre de la compensation des charges du secteur social du canton de Berne.
+
+<sup>2</sup> La commune de Moutier, le Service de l’action sociale du canton du Jura et les Services sociaux régionaux jurassiens examinent régulièrement si des circonstances laissent à penser que les conditions de remboursement au sens du droit bernois des prestations matérielles d’aide sociale octroyées par la commune de Moutier avant le 1<sup>er</sup> janvier 2026 sont remplies.
+
+<sup>3</sup> En présence de circonstances selon l’alinéa 2 entre le 1<sup>er</sup> janvier 2026 et le 31 décembre 2029, la commune de Moutier et les Services sociaux régionaux jurassiens informent l’Office bernois de l’intégration et de l’action sociale dans les 30 jours après en avoir pris connaissance et mettent à sa disposition l’intégralité des documents et des données nécessaires pour demander le remboursement.
+
+<sup>4</sup> L’Office bernois de l’intégration et de l’action sociale est compétent pour exiger le remboursement de ces prestations matérielles d’aide sociale.
+
+<sup>5</sup> Le canton de Berne a droit à l’intégralité des revenus issus de ces remboursements.
+
+<sup>6</sup> À la date du 31 décembre 2025, la commune de Moutier cède au canton de Berne l’intégralité des actes de défaut de biens en lien avec les prestations d’aide sociale qu’elle a versées.
+
+<sup>7</sup> L’obligation de remboursement et les voies de droit demeurent régies par la législation bernoise pour les prestations matérielles d’aide sociale octroyées par la commune de Moutier avant le 1<sup>er</sup> janvier 2026.
+
+#### Art. 7
+
+**Remise d’extraits des comptes individuels**
+
+<sup>1</sup> La commune de Moutier transmet à l’Office bernois de l’intégration et
+
+de l’action sociale jusqu’au 31 décembre 2025 les extraits complets des comptes individuels de toutes les personnes auxquelles elle a versé des prestations matérielles d’aide sociale durant la période allant du 1<sup>er</sup> janvier 2015 au 31 décembre 2025.
+
+<sup>2</sup> Les extraits des comptes individuels doivent comporter toutes les informations nécessaires au remboursement de ces prestations, soit :
+
+- a) les données d’identité de la personne concernée;
+
+- b) les indications relatives à toute l’unité d’assistance;
+
+- c) les revenus et charges exprimés en francs suisses, subdivisés en catégories de charges et de revenus, par périodes d’utilisation (mois et année);
+
+- d) les contributions d’entretien avancées;
+
+- e) les indications sur les périodes où des programmes d’action sociale ont été suivis;
+
+- f) les indications sur les périodes où des séjours en institution ont eu lieu;
+
+- g) la distinction entre prestations sujettes à remboursement et prestations non sujettes à remboursement.
+
+#### Art. 8
+
+**Qualité de créancier pour les contributions d’entretien avancées**
+
+<sup>1</sup> À la date du 31 décembre 2025, la commune de Moutier cède au
+
+canton de Berne le droit au remboursement au sens du droit bernois des contributions d’entretien avancées avant le 1<sup>er</sup> janvier 2026 par celle-ci ainsi que tous les droits qui leur sont rattachés.
+
+<sup>2</sup> La commune de Moutier cède également au canton de Berne l’intégralité des actes de défaut de biens en lien avec ces contributions d’entretien.
+
+<sup>3</sup> Elle remet l’intégralité des actes de défaut de biens à l’Office bernois de l’intégration et de l’action sociale au 1<sup>er</sup> janvier 2026.
+
+#### Art. 9
+
+**Remboursement d’avances sur des contributions d’entretien**
+
+<sup>1</sup> L’autorité compétente du canton du Jura examine régulièrement si des
+
+circonstances laissent à penser que les conditions de remboursement au sens du droit bernois concernant les contributions d’entretien avancées par la commune de Moutier pour la période antérieure au 1<sup>er</sup> janvier 2026 sont remplies.
+
+<sup>2</sup> En présence de circonstances selon l’alinéa 1 entre le 1<sup>er</sup> janvier 2026 et le 31 décembre 2029, l’autorité compétente du canton du Jura doit en informer l’Office bernois de l’intégration et de l’action sociale dans les 30 jours après en avoir pris connaissance et mettre à sa disposition l’intégralité des documents et des données nécessaires pour demander leur remboursement.
+
+<sup>3</sup> L’Office bernois de l’intégration et de l’action sociale est compétent pour exiger du débiteur des contributions d’entretien le remboursement des avances versées par la commune de Moutier avant le 1<sup>er</sup> janvier 2026.
+
+<sup>4</sup> Le canton de Berne a droit à l’intégralité des revenus issus de remboursements de contributions d’entretien avancées pour la période antérieure au 1<sup>er</sup> janvier 2026.
+
+<sup>5</sup> L’obligation de remboursement et les voies de droit sont régies par la législation bernoise.
+
+#### Art. 10
+
+**Remise d’extraits et de dossiers relatifs à des avances sur des contributions d’entretien**
+
+<sup>1</sup> La commune de Moutier remet à l’Office bernois de l’intégration et de
+
+l’action sociale jusqu’au 31 décembre 2025 toutes les indications nécessaires pour demander aux personnes concernées le remboursement des avances relatives à des contributions d’entretien versées avant le 1<sup>er</sup> janvier 2026.
+
+<sup>2</sup> Elle remet à l’Office bernois de l’intégration et de l’action sociale jusqu’au 31 décembre 2025 tous les documents visés à l’article 4 de l’ordonnance bernoise du 29 octobre 2014 sur l’aide au recouvrement et les avances de contributions d’entretien[^10-1].
+
+[^10-1]: RSB 213.221
+
+#### Art. 11
+
+**Correction de bons de garde octroyés**
+
+<sup>1</sup> La commune de Moutier procède aux corrections requises des bons
+
+de garde qu’elle a octroyés pour les années antérieures au 1<sup>er</sup> janvier 2026 conformément au droit bernois. Les voies de droit contre les décisions rendues sont régies par ce droit.
+
+<sup>2</sup> Elle dispose à cette fin de droit de lecture et d’écriture nécessaires dans le système de gestion kiBon, y compris des droits d’accès aux données personnelles et sensibles particulièrement dignes de protection au plus tard jusqu’au 31 mai 2027.
+
+<sup>3</sup> Elle établit jusqu’au 30 novembre 2026 un décompte des corrections selon l’alinéa 1 (charges et revenus). Si le solde de ce décompte est négatif, le canton de Berne en supporte 80 %. S’il est positif, le canton de Berne a droit à 80 % de celui-ci.
+
+<sup>4</sup> Le canton de Berne verse 80 % d’un solde négatif selon l’alinéa 3 jusqu’au 31 décembre 2026 à la commune de Moutier. Alternativement, celle-ci verse 80 % d’un solde positif selon l’alinéa 3 jusqu’au 31 décembre 2026 au canton de Berne.
+
+#### Art. 12
+
+**Droit de**
+
+<sup>1</sup> Le canton de Berne peut consulter, pour faire valoir le remboursement
+
+<sup>consultation</sup> <sup>et</sup> de prestations d’aide sociale et d’avances sur des contributions d’entretien ainsi obligation de remise de que pour le décompte des bons de garde, tous les documents nécessaires de <sup>documents</sup> la commune de Moutier, voire du canton du Jura, y compris lorsqu’ils contiennent des données personnelles particulièrement dignes de protection et ce pour une durée de dix ans à compter du 1<sup>er</sup> janvier 2026. Les documents demeurent archivés dans le canton du Jura.
+
+<sup>2</sup> Si nécessaire, le canton du Jura est tenu de remettre au canton de Berne les documents originaux à moins que cela n’entraîne une activité disproportionnée au service concerné.
+
+**vigueur**
+
+<sup>Entrée</sup> <sup>en</sup> Art. 13 <sup>1</sup> Sous réserve de l’alinéa 2, le présent accord entre en vigueur le 1<sup>er</sup> janvier 2026.
+
+<sup>2</sup> L’article 10 du présent accord entre en vigueur immédiatement.
+
+Delémont et Berne, les 2 et 3 décembre 2025
+
+AU NOM DU CONSEIL-EXECUTIF AU NOM DU GOUVERNEMENT DE LA DU CANTON DE BERNE REPUBLIQUE ET CANTON DU JURA
+
+Le président : Christoph Neuhaus Le président : Martial Courtet Le chancelier : Christoph Auer Le chancelier : Jean-Baptiste Maître
+
+## Autres notes
+
+- [1] RSJU 102
