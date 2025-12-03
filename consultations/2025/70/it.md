@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sulla compensazione dei rischi nell’assicurazione malattie (OCoR)
 document: Progetto posto in consultazione
 language: it

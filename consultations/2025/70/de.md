@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über den Risikoausgleich in der Krankenversicherung (VORA)
 document: Vernehmlassungsvorlage
 language: de
