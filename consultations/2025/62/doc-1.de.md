@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Umsetzung der Motion 21.4516 Schilliger «Hierarchie des Strassennetzes innerorts und ausserorts sichern»
 document: Vernehmlassungsvorlage-2
 language: de

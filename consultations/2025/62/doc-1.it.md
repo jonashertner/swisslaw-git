@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Attuazione della mozione 21.4516 Schilliger «Garantire la gerarchia della rete stradale nei centri abitati e fuori»
 document: Progetto posto in consultazione-2
 language: it

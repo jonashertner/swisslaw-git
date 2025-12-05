@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Mise en œuvre de la motion 21.4516 Schilliger «Consolider la hiérarchie du réseau routier à l’intérieur comme à l’extérieur des localités»
 document: Projet mis en consultation
 language: fr
