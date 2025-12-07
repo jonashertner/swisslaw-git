@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Controprogetto indiretto all’iniziativa foie gras – Iniziativa parlamentare 25.404
 document: Progetto posto in consultazione
 language: it

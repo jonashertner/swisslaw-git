@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Contre-projet indirect à l’initiative foie gras – initiative parlementaire 25.404
 document: Projet mis en consultation
 language: fr
