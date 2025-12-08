@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Verordnung vom 25. Mai 2005 über Massnahmen gegenüber dem Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: de
-version: 2025-08-20
+version: 2025-12-09
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250820/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250820-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250820/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20251209/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20251209-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20251209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Sudan
 
-vom 25. Mai 2005 (Stand am 20. August 2025)
+vom 25. Mai 2005 (Stand am 9. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -212,7 +212,7 @@ Anhang 1[^t-1]
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: Ursprünglich Anhang. Fassung gemäss Ziff. II Abs. 1 der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^t-1]: Ursprünglich Anhang. Fassung gemäss Ziff. II Abs. 1 der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 Uhr ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 **Anmerkung**
 
@@ -231,5 +231,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024 ([AS 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), vom 14. Jan. 2025 ([AS 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)) und vom 18. Aug. 2025, in Kraft seit 20. Aug. 2025 ([AS 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/517](https://fedlex.data.admin.ch/eli/oc/2025/517) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024 ([AS 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), vom 14. Jan. 2025 ([AS 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), vom 18. Aug. 2025 ([AS 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)) und vom 8. Dez. 2025, in Kraft seit 9. Dez. 2025 um 23.00 Uhr ([AS 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/818](https://fedlex.data.admin.ch/eli/oc/2025/818) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

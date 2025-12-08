@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: "Ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: fr
-version: 2025-08-20
+version: 2025-12-09
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20250820/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20250820-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20250820/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20251209/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20251209-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20251209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Soudan
 
-du 25 mai 2005 (État le 20 août 2025)
+du 25 mai 2005 (État le 9 décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -231,5 +231,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 avr. 2024 ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Mise à jour par le ch. I des O du DEFR du 8 juil. 2024 ([RO 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), du 14 janv. 2025 ([RO 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)) et du 18 août 2025, en vigueur depuis le 20 août 2025 ([RO 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/517](https://fedlex.data.admin.ch/eli/oc/2025/517) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 avr. 2024 ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Mise à jour par le ch. I des O du DEFR du 8 juil. 2024 ([RO 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)), du 14 janv. 2025 ([RO 2025 35](https://fedlex.data.admin.ch/eli/oc/2025/35)), du 18 août 2025 ([RO 2025 517](https://fedlex.data.admin.ch/eli/oc/2025/517)) et du 8 déc. 2025, en vigueur depuis le 9 déc. 2025 à 23 heures ([RO 2025 818](https://fedlex.data.admin.ch/eli/oc/2025/818)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/818](https://fedlex.data.admin.ch/eli/oc/2025/818) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
