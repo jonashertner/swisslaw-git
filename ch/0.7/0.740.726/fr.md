@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: "Décision n<sup>o</sup> 2/2019 du Comité des transports terrestres Communauté/Suisse du 13 décembre 2019 sur les mesures transitoires pour maintenir une circulation ferroviaire fluide entre la Suisse et l'Union européenne"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: fr
-version: 2025-06-06
+version: 2025-12-09
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20250606/fr/xml/fedlex-data-admin-ch-eli-cc-2020-53-20250606-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20250606/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20251209/fr/xml/fedlex-data-admin-ch-eli-cc-2020-53-20251209-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20251209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Adoptée le 13 décembre 2019
 
 Entrée en vigueur pour la Suisse le 13 décembre 2019
 
-(État le 6 juin 2025)
+(État le 9 décembre 2025)
 
 Texte original
 
@@ -58,7 +58,7 @@ considérant ce qui suit:
 
 décide:
 
-[^ingress-1]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-1]: [RS 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
 [^ingress-2]: Décision n<sup>o</sup> 1/2013 du Comité des transports terrestres Communauté/Suisse du 6 décembre 2013 modifiant l’annexe 1 de l’accord entre la Communauté européenne et la Confédération suisse sur le transport de marchandises et de voyageurs par rail et par route ([RO 2014 225](https://fedlex.data.admin.ch/eli/oc/2014/35)).
 [^ingress-3]: Directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires et modifiant la directive 95/18/CE du Conseil concernant les licences des entreprises ferroviaires, ainsi que la directive 2001/14/CE concernant la répartition des capacités d’infrastructure ferroviaire, la tarification de l’infrastructure ferroviaire et la certification en matière de sécurité (directive sur la sécurité ferroviaire) (JO L 164 du 30.4.2004, p. 44).
 [^ingress-4]: Directive 2008/57/CE du Parlement européen et du Conseil du 17 juin 2008 relative à l’interopérabilité du système ferroviaire au sein de la Communauté (JO L 191 du 18.7.2008, p. 1).
@@ -140,10 +140,10 @@ La Commission rend publique la liste des organismes notifiés suisses.
 
 <sup>2.</sup> La Suisse notifie les règles nationales visées au par. 1 à l’Agence en vue de leur publication au moyen du système informatique visé à l’art. 27 du règlement (UE) 2016/796.
 
-<sup>3.</sup> L’annexe 1 identifie les règles nationales et cas spécifiques applicables qui sont potentiellement incompatibles avec le droit de l’Union. Si la compatibilité avec le droit de l’Union n’a pas été établie au 31 décembre 2025, ces règles nationales et cas spécifiques ne peuvent plus être appliquées sauf si le Comité mixte en décide autrement.[^6-2]
+<sup>3.</sup> L’annexe 1 identifie les règles nationales et cas spécifiques applicables qui sont potentiellement incompatibles avec le droit de l’Union. Si la compatibilité avec le droit de l’Union n’a pas été établie au 31 décembre 2027, ces règles nationales et cas spécifiques ne peuvent plus être appliquées sauf si le Comité mixte en décide autrement.[^6-2]
 
 [^6-1]: Nouvelle teneur selon l’art. 2 de la D n<sup>o</sup> 2/2020 du Comité sur les mesures transitoires pour maintenir une circulation ferroviaire fluide entre la Suisse et l’Union européenne du 11 déc. 2020, en vigueur pour la Suisse depuis le 11 déc. 2020 ([RO 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
-[^6-2]: Nouvelle teneur selon l’art. 4 par. 1 de la D n<sup>o</sup> 1/2024 du Comité des transports terrestres Communauté/Suisse du 13 déc. 2024, en vigueur pour la Suisse depuis le 13 déc. 2024 ([RO 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)). Erratum du 6 juin 2025, ne concerne que le texte allemand ([RO 2025 366](https://fedlex.data.admin.ch/eli/oc/2025/366)).
+[^6-2]: Nouvelle teneur selon l’art. 2 par. 1 de la D n<sup>o</sup> 1/2025 du Comité des transports terrestres Communauté/Suisse du 9 déc. 2025, en vigueur pour la Suisse depuis le 9 déc. 2025 ([RO 2026 69](https://fedlex.data.admin.ch/eli/oc/2026/69)).
 
 #### Art. 7
 
@@ -164,7 +164,7 @@ La Commission rend publique la liste des organismes notifiés suisses.
 
 La présente décision entre en vigueur le jour de son adoption.
 
-Les art. 2, 3, 4 et 5 s’appliquent jusqu’au 31 décembre 2025.[^8-1]
+Les art. 2, 3, 4 et 5 s’appliquent jusqu’au 31 décembre 2027.[^8-1]
 
 Fait à Bruxelles, le 13 décembre 2019.
 
@@ -172,10 +172,10 @@ Fait à Bruxelles, le 13 décembre 2019.
 <tr><td>Pour l’Union européenne: La présidente, Elisabeth Werner</td><td>Pour la Confédération suisse: Le chef de la délégation suisse, Peter Füglistaler</td></tr>
 </table>
 
-[^8-1]: Nouvelle teneur selon l’art. 4 par. 2 de la D n<sup>o</sup> 1/2024 du Comité des transports terrestres Communauté/Suisse du 13 déc. 2024, en vigueur pour la Suisse depuis le 13 déc. 2024 ([RO 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
+[^8-1]: Nouvelle teneur selon l’art. 2 par. 2 de la D n<sup>o</sup> 1/2025 du Comité des transports terrestres Communauté/Suisse du 9 déc. 2025, en vigueur pour la Suisse depuis le 9 déc. 2025 ([RO 2026 69](https://fedlex.data.admin.ch/eli/oc/2026/69)).
 
 Annexe 1
 
 … [^t-1]
 
-[^t-1]: Le contenu de l’annexe a été inséré dans le [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)et peut également être consulté dans le [RO 2020 287](https://fedlex.data.admin.ch/eli/oc/2020/53).
+[^t-1]: Le contenu de l’annexe a été inséré dans le [RS 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)et peut également être consulté dans le [RO 2020 287](https://fedlex.data.admin.ch/eli/oc/2020/53).

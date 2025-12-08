@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: Beschluss Nr. 2/2019 vom 13. Dezember 2019 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz zu den Übergangsmassnahmen zur Aufrechterhaltung eines reibungslosen Eisenbahnverkehrs zwischen der Schweiz und der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: de
-version: 2025-06-06
+version: 2025-12-09
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20250606/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20250606-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20250606/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20251209/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20251209-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20251209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Angenommen am 13. Dezember 2019
 
 In Kraft getreten für die Schweiz am 13. Dezember 2019
 
-(Stand am 6. Juni 2025)
+(Stand am 9. Dezember 2025)
 
 Originaltext
 
@@ -58,7 +58,7 @@ in Erwägung nachstehender Gründe:
 
 beschliesst:
 
-[^ingress-1]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^ingress-1]: [SR 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
 [^ingress-2]: [AS 2014 225](https://fedlex.data.admin.ch/eli/oc/2014/35)
 [^ingress-3]: Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (Richtlinie über die Eisenbahnsicherheit), ABl. L 164 vom 30.4.2004, S. 44.
 [^ingress-4]: Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (Neufassung), ABl. L 191 vom 18.7.2008, S. 1.
@@ -140,10 +140,10 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 
 <sup>2.</sup> Die Schweiz notifiziert der Agentur die in Absatz 1 genannten nationalen Vorschriften zwecks Veröffentlichung über das IT-System nach Artikel 27 der Verordnung (EU) 2016/796.
 
-<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2025 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.[^6-2]
+<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2027 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.[^6-2]
 
 [^6-1]: Fassung gemäss Art. 2 des Beschlusses 2/2020 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 11. Dez. 2020, in Kraft für die Schweiz seit 11. Dez. 2020 ([AS 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
-[^6-2]: Fassung gemäss Art. 4 Ziff. 1 des Beschlusses 1/2024 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 13. Dez. 2024, in Kraft für die Schweiz seit 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)). Berichtigung vom 6. Juni 2025 ([AS 2025 366](https://fedlex.data.admin.ch/eli/oc/2025/366)).
+[^6-2]: Fassung gemäss Art. 2 Ziff. 1 des Beschlusses 1/2025 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 9. Dez. 2025, in Kraft für die Schweiz seit 9. Dez. 2025 ([AS 2026 69](https://fedlex.data.admin.ch/eli/oc/2026/69)).
 
 #### Art. 7
 
@@ -164,7 +164,7 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 
 Dieser Beschluss tritt am 13. Dezember 2019 in Kraft.
 
-Die Artikel 2, 3, 4 und 5 gelten bis zum 31. Dezember 2025.[^8-1]
+Die Artikel 2, 3, 4 und 5 gelten bis zum 31. Dezember 2027.[^8-1]
 
 Brüssel, 13. Dezember 2019
 
@@ -172,10 +172,10 @@ Brüssel, 13. Dezember 2019
 <tr><td>Für die Europäische Union Die Vorsitzende: Elisabeth Werner</td><td>Für die Schweizerische Eidgenossenschaft Der Chef der schweizerischen Delegation: Peter Füglistaler</td></tr>
 </table>
 
-[^8-1]: Fassung gemäss Art. 4 Ziff. 2 des Beschlusses 1/2024 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 13. Dez. 2024, in Kraft für die Schweiz seit 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
+[^8-1]: Fassung gemäss Art. 2 Ziff. 2 des Beschlusses 1/2025 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 9. Dez. 2025, in Kraft für die Schweiz seit 9. Dez. 2025 ([AS 2026 69](https://fedlex.data.admin.ch/eli/oc/2026/69)).
 
 Anhang 1
 
 …[^t-1]
 
-[^t-1]: Der Inhalt des Anhangs wurde in [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)eingefügt und kann auch unter [AS 2020 287](https://fedlex.data.admin.ch/eli/oc/2020/53)konsultiert werden.
+[^t-1]: Der Inhalt des Anhangs wurde in [SR 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)eingefügt und kann auch unter [AS 2020 287](https://fedlex.data.admin.ch/eli/oc/2020/53)konsultiert werden.
