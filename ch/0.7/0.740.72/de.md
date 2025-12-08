@@ -3,11 +3,11 @@ sr: "0.740.72"
 title: Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (mit Anhängen und Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: de
-version: 2024-12-13
+version: 2025-12-09
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20241213/de/xml/fedlex-data-admin-ch-eli-cc-2002-257-20241213-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20241213/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20251209/de/xml/fedlex-data-admin-ch-eli-cc-2002-257-20251209-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20251209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 21. Juni 1999 Von der Bundesversammlung genehmigt am 8. Oktober 1999[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Oktober 2000 In Kraft getreten am 1. Juni 2002
 
-(Stand am 13. Dezember 2024)
+(Stand am 9. Dezember 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. f des BB vom 8. Okt. 1999 ([AS 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242))
 
@@ -249,12 +249,16 @@ Die Bestimmungen des Anhangs 6 Ziffer II Nummern 3 und 4 des Abkommens von 1992 
 
 **Für die Verkehrsunternehmer geltende Bedingungen**
 
-<sup>(1)</sup> Jeder gewerbliche Verkehrsunternehmer ist ohne Diskriminierung auf Grund seiner Staatsangehörigkeit oder seines Niederlassungsortes zur Erbringung von Verkehrsdiensten gemäss Anhang 7 Artikel 1 unter der Voraussetzung zugelassen, dass er
+<sup>(1)</sup>
+
+Jeder gewerbliche Verkehrsunternehmer ist ohne Diskriminierung auf Grund seiner Staatsangehörigkeit oder seines Niederlassungsortes zur Erbringung von Verkehrsdiensten gemäss Anhang 7 Artikel 1 unter der Voraussetzung zugelassen, dass er:
 
 - – in dem Mitgliedstaat der Gemeinschaft, in dem er niedergelassen ist, oder in der Schweiz eine Lizenz für die Personenbeförderung mit Kraftomnibussen im Linienverkehr, einschliesslich der Sonderformen des Linienverkehrs, oder im Gelegenheitsverkehr erhalten hat und
 - – die Rechtsvorschriften über die Sicherheit im Strassenverkehr für Fahrer und Fahrzeuge erfüllt.
 
-<sup>(2)</sup> Jeder im Werkverkehr tätige Verkehrsunternehmer ist ohne Diskriminierung auf Grund seiner Staatsangehörigkeit oder seines Niederlassungsortes zur Erbringung von Verkehrsdiensten gemäss Anhang 7 Artikel 1 Nummer 3 unter der Voraussetzung zugelassen, dass er
+<sup>(2)</sup>
+
+Jeder im Werkverkehr tätige Verkehrsunternehmer ist ohne Diskriminierung auf Grund seiner Staatsangehörigkeit oder seines Niederlassungsortes zur Erbringung von Verkehrsdiensten gemäss Anhang 7 Artikel 1 Nummer 3 unter der Voraussetzung zugelassen, dass er:
 
 - – in dem Mitgliedstaat der Gemeinschaft, in dem er niedergelassen ist, oder in der Schweiz gemäss den in den einzelstaatlichen Rechtsvorschriften festgelegten Bedingungen für den Marktzugang eine Lizenz für die Personenbeförderung mit Kraftomnibussen erhalten hat und
 - – die Rechtsvorschriften über die Sicherheit im Strassenverkehr für Fahrer und Fahrzeuge erfüllt.
@@ -317,7 +321,7 @@ Die zum Zeitpunkt des Inkrafttretens dieses Abkommens bestehenden Genehmigungen 
 
 **Unabhängigkeit der Geschäftsführung**
 
-Die Vertragsparteien verpflichten sich,
+Die Vertragsparteien verpflichten sich:
 
 - – die Unabhängigkeit der Geschäftsführung der Eisenbahnunternehmen zu gewährleisten, insbesondere indem sie ihnen einen Unabhängigkeitsstatus verleihen, der es ihnen ermöglicht, ihre Tätigkeiten an den Markt anzupassen und ihre Geschäfte unter der Verantwortlichkeit ihrer leitenden Organe zu führen;
 - – den Betrieb des Eisenbahnfahrwegs und die Erbringung von Verkehrsleistungen durch die Eisenbahnunternehmen zumindest im Bereich der Rechnungsführung voneinander zu trennen; die für einen dieser beiden Tätigkeitsbereiche gewährten Beihilfen können nicht auf den anderen Bereich übertragen werden.
@@ -364,7 +368,9 @@ Die Vertragsparteien verpflichten sich,
 
 **Zuweisung der Zugtrasse**
 
-<sup>(1)</sup> Jede Vertragspartei benennt die Stelle, die für die Zuweisung der Kapazitäten zuständig ist, wobei es sich hierbei um eine besondere Behörde oder den Fahrwegbetreiber handeln kann. Die Zuweisungsstelle, die Kenntnis aller verfügbaren Zugtrassen hat, stellt insbesondere sicher, dass
+<sup>(1)</sup>
+
+Jede Vertragspartei benennt die Stelle, die für die Zuweisung der Kapazitäten zuständig ist, wobei es sich hierbei um eine besondere Behörde oder den Fahrwegbetreiber handeln kann. Die Zuweisungsstelle, die Kenntnis aller verfügbaren Zugtrassen hat, stellt insbesondere sicher, dass:
 
 - – die Fahrwegkapazität der Eisenbahnen gerecht und in nichtdiskriminierender Weise zugewiesen wird;
 - – das Zuweisungsverfahren vorbehaltlich der Absätze 3 und 4 eine effiziente und optimale Nutzung des Fahrwegs erlaubt.
@@ -460,7 +466,9 @@ Vorbehaltlich der Bestimmungen des Artikels 47 stehen die Massnahmen des Artikel
 
 <sup>(1)</sup> Die Vertragsparteien kommen überein, ein von der Kapazität her ausreichendes und hinsichtlich der Wirtschaftlichkeit und der Dienstequalität gegenüber dem Strassenverkehr wettbewerbsfähiges Angebot für den Eisenbahnverkehr und den kombinierten Verkehr im Alpenraum bereitzustellen, das den Grundsätzen des Artikels 32 entspricht und das freie Spiel der Marktkräfte, insbesondere im Rahmen der Öffnung des Zugangs zum Eisenbahnfahrweg gemäss Titel III, sowie die Unabhängigkeit der Eisenbahnunternehmen gewährleistet.
 
-<sup>(2)</sup> Zu diesem Zweck
+<sup>(2)</sup>
+
+Zu diesem Zweck:
 
 - – ergreifen die Vertragsparteien im Rahmen ihrer Zuständigkeiten sowohl in der Schweiz als auch im Gebiet der Gemeinschaft Massnahmen im Bereich der Infrastruktur und des Betriebs, die die langfristige Rentabilität, die Kohärenz und die Integration des schweizerischen Angebots in ein Eisenbahnfernverkehrssystem gewährleisten;
 - – verpflichten sich die Vertragsparteien, den Verbund und die Interoperabilität ihrer Eisenbahnnetze und des kombinierten Verkehrs zu entwickeln. Sie stellen die erforderliche Zusammenarbeit mit den internationalen Organisationen und den betroffenen Stellen sicher und beauftragen den Gemischten Ausschuss, diese Aspekte zu verfolgen.
@@ -514,7 +522,7 @@ Die Vertragsparteien ergreifen alle zur Förderung des kombinierten Verkehrs erf
 
 <sup>(5)</sup> Der Gemischte Ausschuss erstellt alle zwei Jahre einen Bericht über die Durchführung der in diesem Artikel enthaltenen Massnahmen.
 
-[^36-1]: [SR 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^36-1]: [SR 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 ### C. Gebührenregelungen im Strassenverkehr
 
@@ -596,8 +604,8 @@ Ab dem 1. Januar 2007 kann der Gemischte Ausschuss auf Antrag einer der Vertrags
 
 <sup>(2)</sup> Das Abkommen vom 21. November 1990[^43-1] zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft über die Erleichterung der Kontrollen und Formalitäten im Güterverkehr, das Übereinkommen über ein gemeinsames Versandverfahren vom 20. Mai 1987[^43-2] sowie für den Eisenbahnverkehr die Vereinbarung zwischen den Eisenbahnunternehmen über die technische Untersuchung der Güterwagen beim Übergang an den Grenzen bilden die Grundlage für die von den Vertragsparteien gemäss Absatz 1 ergriffenen Massnahmen.
 
-[^43-1]: [SR 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
-[^43-2]: [SR 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^43-1]: [SR 0.631.242.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2041)
+[^43-2]: [SR 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 #### Art. 44
 
@@ -704,7 +712,9 @@ Stellt eine Vertragspartei fest, dass die andere Vertragspartei die in diesem Ab
 
 <sup>(3)</sup> Sobald eine Vertragspartei eine Änderung der Rechtsvorschriften verabschiedet hat, spätestens jedoch acht Tage nach deren Veröffentlichung im Amtsblatt der Europäischen Gemeinschaften bzw. in der Amtlichen Sammlung des Bundesrechts, teilt sie der anderen Vertragspartei den Wortlaut dieser neuen Rechtsvorschriften mit. Auf Verlangen einer der Vertragsparteien erfolgt spätestens zwei Monate danach im Gemischten Ausschuss ein Meinungsaustausch über die Auswirkungen dieser Änderungen auf das Funktionieren dieses Abkommens.
 
-<sup>(4)</sup> Der Gemischte Ausschuss
+<sup>(4)</sup>
+
+Der Gemischte Ausschuss:
 
 - – fasst entweder einen Beschluss zur Änderung der Anhänge 1, 3, 4 und 7 oder schlägt, falls erforderlich, die Änderung der Bestimmungen dieses Abkommens vor, um darin – soweit nötig, auf der Grundlage der Gegenseitigkeit – die Änderungen der betreffenden Rechtsvorschriften aufzunehmen, oder
 - – fasst einen Beschluss, demzufolge die Änderungen der betreffenden Rechtsvorschriften als vereinbar mit diesem Abkommen anzusehen sind, oder
@@ -776,87 +786,58 @@ Geschehen zu Luxemburg am einundzwanzigsten Juni neunzehnhundertneunundneunzig i
 <tr><td>Für die Schweizerische Eidgenossenschaft: Pascal Couchepin Joseph Deiss</td><td>Für die Europäische Gemeinschaft: Joschka Fischer Hans van den Broek</td></tr>
 </table>
 
-[^58-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^58-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^58-3]: SR **0**.**916.026.81**
-[^58-4]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^58-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^58-6]: [SR 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
+[^58-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^58-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^58-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^58-4]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^58-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^58-6]: [SR 0.420.513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1668)
 
 ## Liste der Anhänge
 
-- Anhang 1
+*Anhang 1* Artikel 5 Absatz 2, Artikel 6, Artikel 7 Absatz 1, Artikel 24, Absatz 1, Artikel 25 Absatz 5 und Artikel 27 Absatz 2:
 
-  Artikel 5 Absatz 2, Artikel 6, Artikel 7 Absatz 1, Artikel 24 Absatz 1, Artikel 25 Absatz 5 und Artikel 27 Absatz 2:
+Anwendbare Bestimmungen
 
-  - [tab] Anwendbare Bestimmungen
+*Anhang 2* Artikel 8 Absatz 5:
 
-- Anhang 2
+Anwendungsmodalitäten für die Gebühren gemäss Artikel 8
 
-  Artikel 8 Absatz 5:
+*Anhang 3* Artikel 9 Absatz 1:
 
-  - [tab] Anwendungsmodalitäten für die Gebühren gemäss Artikel 8
+Muster einer Lizenz für den grenzüberschreitenden gewerblichen Güterkraftverkehr
 
-- Anhang 3
+*Anhang 4* Artikel 9 Absatz 3:
 
-  Artikel 9 Absatz 1:
+Liste der von allen Lizenzregelungen und sonstigen Genehmigungspflichten befreiten Beförderungen
 
-  - [tab] Muster einer Lizenz für den grenzüberschreitenden
-  - [tab] gewerblichen Güterkraftverkehr
+*Anhang 5* Artikel 12 und 13:
 
-- Anhang 4
+Liste der im Rahmen der geltenden bilateralen Abkommen bestehenden Rechte
 
-  Artikel 9 Absatz 3:
+*Anhang 6* Artikel 15 Absatz 2:
 
-  - [tab] Liste der von allen Lizenzregelungen und sonstigen
-  - [tab] Genehmigungspflichten befreiten Beförderungen
+Ausnahmen von der Gewichtsbegrenzung und vom Nacht- und Sonntagsfahrverbot
 
-- Anhang 5
+*Anhang* 7 Artikel 17, 18 und 21:
 
-  Artikel 12 und 13:
+Grenzüberschreitende Personenbeförderung und Genehmigungsverfahren
 
-  - [tab] Liste der im Rahmen der geltenden bilateralen
-  - [tab] Abkommen bestehenden Rechte
+*Anhang* 8 Artikel 19 und 20:
 
-- Anhang 6
+Liste der im Rahmen der geltenden bilateralen Abkommen bestehenden Rechte
 
-  Artikel 15 Absatz 2:
+*Anhang* 9 Artikel 36:
 
-  - [tab] Ausnahmen von der Gewichtsbegrenzung
-  - [tab] und vom Nacht- und Sonntagsfahrverbot
+Qualitätsparameter für den Eisenbahn- und den kombinierten Verkehr
 
-- Anhang 7
-
-  Artikel 17, 18 und 21:
-
-  - [tab] Grenzüberschreitende Personenbeförderung
-  - [tab] und Genehmigungsverfahren
-
-- Anhang 8
-
-  Artikel 19 und 20:
-
-  - [tab] Liste der im Rahmen der geltenden bilateralen
-  - [tab] Abkommen bestehenden Rechte
-
-- Anhang 9
-
-  Artikel 36:
-
-  - [tab] Qualitätsparameter für den Eisenbahn-
-  - [tab] und den kombinierten Verkehr
-
-- Anhang 10
-
-  Artikel 40 Absatz 1:
-
-  - [tab] Anwendungsmodalitäten für die Gebühren gemäss Artikel 40
+*Anhang* 10 Artikel 40 Absatz 1: Anwendungsmodalitäten für die Gebühren gemäss Artikel 40
 
 Anhang 1[^t-2]
 
 ## Anwendbare Bestimmungen
 
-[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 30. Juni 2021 ([AS 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz Nr. 2/2021 vom 17. Dez. 2021 ([AS 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)), Nr. 1/2022 vom 21. Dez. 2022 ([AS 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)), Nr. 1/2023 vom 14. Dez. 2023 ([AS 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)) und Nr. 1/2024 vom 13. Dez. 2024, in Kraft für die Schweiz seit 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
+[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 30. Juni 2021 ([AS 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz Nr. 2/2021 vom 17. Dez. 2021 ([AS 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)), Nr. 1/2022 vom 21. Dez. 2022 ([AS 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)), Nr. 1/2023 vom 14. Dez. 2023 ([AS 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)), Nr. 1/2024 vom 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)) und Nr. 1/2025 vom 9. Dez. 2025, in Kraft für die Schweiz seit 9. Dez. 2025 ([AS 2026 69](https://fedlex.data.admin.ch/eli/oc/2026/69)).
 
 Gemäss Artikel 52 Absatz 6 dieses Abkommens wendet die Schweiz Rechtsvorschriften an, die den nachstehend genannten Rechtsvorschriften gleichwertig sind:
 
@@ -864,11 +845,11 @@ Einschlägige Bestimmungen des Rechts der Europäischen Union
 
 ### Abschnitt 1: Zugang zum Beruf
 
-Richtlinie 2006/1/EG des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die Verwendung von ohne Fahrer gemieteten Fahrzeugen im Güterkraftverkehr (kodifizierte Fassung), ABl. L 33, vom 4.2.2006, S. 82.
+– Richtlinie 2006/1/EG des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die Verwendung von ohne Fahrer gemieteten Fahrzeugen im Güterkraftverkehr (kodifizierte Fassung), ABl. L 33, vom 4.2.2006, S. 82.
 
-Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates, ABl. L 300, vom 14.11.2009, S. 51; zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
+– Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates, ABl. L 300, vom 14.11.2009, S. 51; zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
 
-Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs, ABl. L 300 vom 14.11.2009, S. 72; zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
+– Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs, ABl. L 300 vom 14.11.2009, S. 72; zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
 
 Für die Zwecke dieses Abkommens:
 
@@ -876,81 +857,81 @@ Für die Zwecke dieses Abkommens:
 - b) kann die Schweizerische Eidgenossenschaft Angehörige anderer als der unter Buchstabe a) genannten Staaten von der Verpflichtung zur Mitführung der Fahrerbescheinigung nur nach vorheriger Konsultation und mit Zustimmung der Europäischen Union befreien;
 - c) gelten die Bestimmungen des Kapitels III der Verordnung (EG) Nr. 1072/2009 (bezüglich Kabotage) nicht.
 
-Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/2006, ABl. L 300 vom 14.11.2009, S. 88, zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
+– Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/2006, ABl. L 300 vom 14.11.2009, S. 88, zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
 
 Für die Zwecke dieses Abkommens gelten die Bestimmungen des Kapitels V der Verordnung (EG) Nr. 1073/2009 (bezüglich Kabotage) nicht.
 
-Beschluss 2009/992/EU der Kommission vom 17. Dezember 2009 über Mindestanforderungen an die Daten, die in die einzelstaatlichen elektronischen Register der Kraftverkehrsunternehmen einzugeben sind, ABl. L 339 vom 22.12.2009, S. 36.
+– Beschluss 2009/992/EU der Kommission vom 17. Dezember 2009 über Mindestanforderungen an die Daten, die in die einzelstaatlichen elektronischen Register der Kraftverkehrsunternehmen einzugeben sind, ABl. L 339 vom 22.12.2009, S. 36.
 
-Verordnung (EU) Nr. 1213/2010 der Kommission vom 16. Dezember 2010 zur Festlegung gemeinsamer Regeln für die Vernetzung der einzelstaatlichen elektronischen Register der Kraftverkehrsunternehmen, ABl. L 335 vom 18.12.2010, S. 21.
+– Verordnung (EU) Nr. 1213/2010 der Kommission vom 16. Dezember 2010 zur Festlegung gemeinsamer Regeln für die Vernetzung der einzelstaatlichen elektronischen Register der Kraftverkehrsunternehmen, ABl. L 335 vom 18.12.2010, S. 21.
 
-Verordnung (EU) Nr. 361/2014 der Kommission vom 9. April 2014 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1073/2009 hinsichtlich der Beförderungsdokumente für den grenzüberschreitenden Personenverkehr mit Kraftomnibussen und zur Aufhebung der Verordnung (EG) Nr. 2121/98 der Kommission, ABl. L 107 vom 10.4.2014, S. 39.
+– Verordnung (EU) Nr. 361/2014 der Kommission vom 9. April 2014 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1073/2009 hinsichtlich der Beförderungsdokumente für den grenzüberschreitenden Personenverkehr mit Kraftomnibussen und zur Aufhebung der Verordnung (EG) Nr. 2121/98 der Kommission, ABl. L 107 vom 10.4.2014, S. 39.
 
-Verordnung (EU) 2016/403 der Kommission vom 18. März 2016 zur Ergänzung der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates in Bezug auf die Einstufung schwerwiegender Verstösse gegen die Unionsvorschriften, die zur Aberkennung der Zuverlässigkeit der Kraftverkehrsunternehmer führen können, sowie zur Änderung von Anhang III der Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates, ABl. L 74 vom 19.3.2016, S. 8.
+– Verordnung (EU) 2016/403 der Kommission vom 18. März 2016 zur Ergänzung der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates in Bezug auf die Einstufung schwerwiegender Verstösse gegen die Unionsvorschriften, die zur Aberkennung der Zuverlässigkeit der Kraftverkehrsunternehmer führen können, sowie zur Änderung von Anhang III der Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates, ABl. L 74 vom 19.3.2016, S. 8.
 
 ### Abschnitt 2: Sozialvorschriften
 
-Richtlinie 2002/15/EG des Europäischen Parlaments und des Rates vom 11. März 2002 zur Regelung der Arbeitszeit von Personen, die Fahrtätigkeiten im Bereich des Strassentransports ausüben, ABl. L 80 vom 23.3.2002, S. 35.
+– Richtlinie 2002/15/EG des Europäischen Parlaments und des Rates vom 11. März 2002 zur Regelung der Arbeitszeit von Personen, die Fahrtätigkeiten im Bereich des Strassentransports ausüben, ABl. L 80 vom 23.3.2002, S. 35.
 
-Richtlinie (EU) 2022/2561 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr (kodifizierter Text), ABl. L 330 vom 23.12.2022, S. 46.
+– Richtlinie (EU) 2022/2561 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr (kodifizierter Text), ABl. L 330 vom 23.12.2022, S. 46.
 
-Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates, ABl. L 102 vom 11.4.2006, S. 1; zuletzt geändert durch die Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014, ABl. L 60 vom 28.2.2014, S. 1.
+– Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates, ABl. L 102 vom 11.4.2006, S. 1; zuletzt geändert durch die Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014, ABl. L 60 vom 28.2.2014, S. 1.
 
-Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über Mindestbedingungen für die Durchführung der Verordnungen (EWG) Nr. 3820/85 und (EWG) Nr. 3821/85 des Rates über Sozialvorschriften für Tätigkeiten im Kraftverkehr sowie zur Aufhebung der Richtlinie 88/599/EWG des Rates, ABl. L 102 vom 11.4.2006, S. 35; zuletzt geändert durch die Verordnung (EU) 2016/403 der Kommission vom 18. März 2016, ABl. L 74 vom 19.3.2016, S. 8.
+– Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über Mindestbedingungen für die Durchführung der Verordnungen (EWG) Nr. 3820/85 und (EWG) Nr. 3821/85 des Rates über Sozialvorschriften für Tätigkeiten im Kraftverkehr sowie zur Aufhebung der Richtlinie 88/599/EWG des Rates, ABl. L 102 vom 11.4.2006, S. 35; zuletzt geändert durch die Verordnung (EU) 2016/403 der Kommission vom 18. März 2016, ABl. L 74 vom 19.3.2016, S. 8.
 
-Verordnung (EU) Nr. 581/2010 der Kommission vom 1. Juli 2010 zur Festlegung der Höchstzeiträume für das Herunterladen relevanter Daten von Fahrzeugeinheiten und Fahrerkarten, ABl. L 168 vom 2.7.2010, S. 16.
+– Verordnung (EU) Nr. 581/2010 der Kommission vom 1. Juli 2010 zur Festlegung der Höchstzeiträume für das Herunterladen relevanter Daten von Fahrzeugeinheiten und Fahrerkarten, ABl. L 168 vom 2.7.2010, S. 16.
 
-Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Strassenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Strassenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr, ABl. L 60 vom 28.2.2014, S. 1.
+– Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Strassenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Strassenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr, ABl. L 60 vom 28.2.2014, S. 1.
 
-Durchführungsverordnung (EU) 2016/68 der Kommission vom 21. Januar 2016 über die für die Vernetzung der elektronischen Register von Fahrerkarten notwendigen gemeinsamen Verfahren und Spezifikationen, ABl. L 15 vom 22.1.2016, S. 51; geändert durch Durchführungsverordnung (EU) 2017/1503 der Kommission vom 25. August 2017, ABl. L 221 vom 26.8.2017, S. 10.
+– Durchführungsverordnung (EU) 2016/68 der Kommission vom 21. Januar 2016 über die für die Vernetzung der elektronischen Register von Fahrerkarten notwendigen gemeinsamen Verfahren und Spezifikationen, ABl. L 15 vom 22.1.2016, S. 51; geändert durch Durchführungsverordnung (EU) 2017/1503 der Kommission vom 25. August 2017, ABl. L 221 vom 26.8.2017, S. 10.
 
-Durchführungsverordnung (EU) 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten, ABl. L 139 vom 26.5.2016, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/158 der Kommission vom 5. Februar 2020, ABl. L 34 vom 6.2.2020, S. 20.
+– Durchführungsverordnung (EU) 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten, ABl. L 139 vom 26.5.2016, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/158 der Kommission vom 5. Februar 2020, ABl. L 34 vom 6.2.2020, S. 20.
 
-Durchführungsverordnung (EU) 2017/548 der Kommission vom 23. März 2017 zur Festlegung eines Musterformulars für die schriftliche Erklärung zu Entfernung oder Aufbrechen der Plombierung eines Fahrtenschreibers, ABl. L 79 vom 24.3.2017, S. 1.
+– Durchführungsverordnung (EU) 2017/548 der Kommission vom 23. März 2017 zur Festlegung eines Musterformulars für die schriftliche Erklärung zu Entfernung oder Aufbrechen der Plombierung eines Fahrtenschreibers, ABl. L 79 vom 24.3.2017, S. 1.
 
-Durchführungsbeschluss (EU) 2017/1013 der Kommission vom 30. März 2017 über das in Artikel 17 der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates genannte Berichtsmuster, ABl. L 153 vom 16.6.2017, S. 28.
+– Durchführungsbeschluss (EU) 2017/1013 der Kommission vom 30. März 2017 über das in Artikel 17 der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates genannte Berichtsmuster, ABl. L 153 vom 16.6.2017, S. 28.
 
 ### Abschnitt 3: Technische Vorschriften
 
 Kraftfahrzeuge
 
-Richtlinie 70/157/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den zulässigen Geräuschpegel und die Auspuffvorrichtung von Kraftfahrzeugen, ABl. L 42 vom 23.2.1970, S. 16; zuletzt geändert durch Richtlinie 2007/34/EG der Kommission vom 14. Juni 2007, ABl. L 155 vom 15.6.2007, S. 49.
+– Richtlinie 70/157/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den zulässigen Geräuschpegel und die Auspuffvorrichtung von Kraftfahrzeugen, ABl. L 42 vom 23.2.1970, S. 16; zuletzt geändert durch Richtlinie 2007/34/EG der Kommission vom 14. Juni 2007, ABl. L 155 vom 15.6.2007, S. 49.
 
-Richtlinie 88/77/EWG des Rates vom 3. Dezember 1987 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen, ABl. L 36 vom 9.2.1988, S. 33; zuletzt geändert durch Richtlinie 2001/27/EG der Kommission vom 10. April 2001, ABl. L 107 vom 18.4.2001, S. 10.
+– Richtlinie 88/77/EWG des Rates vom 3. Dezember 1987 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen, ABl. L 36 vom 9.2.1988, S. 33; zuletzt geändert durch Richtlinie 2001/27/EG der Kommission vom 10. April 2001, ABl. L 107 vom 18.4.2001, S. 10.
 
-Richtlinie 91/671/EWG des Rates vom 16. Dezember 1991 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Gurtanlegepflicht in Kraftfahrzeugen mit einem Gewicht von weniger als 3,5 Tonnen, ABl. L 373 vom 31.12.1991, S. 26; zuletzt geändert durch Durchführungsrichtlinie 2014/37/EG der Kommission vom 27. Februar 2014, ABl. L 59 vom 28.2.2014, S. 32.
+– Richtlinie 91/671/EWG des Rates vom 16. Dezember 1991 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Gurtanlegepflicht in Kraftfahrzeugen mit einem Gewicht von weniger als 3,5 Tonnen, ABl. L 373 vom 31.12.1991, S. 26; zuletzt geändert durch Durchführungsrichtlinie 2014/37/EG der Kommission vom 27. Februar 2014, ABl. L 59 vom 28.2.2014, S. 32.
 
-Richtlinie 92/6/EWG des Rates vom 10. Februar 1992 über Einbau und Benutzung von Geschwindigkeitsbegrenzern für bestimmte Kraftfahrzeugklassen in der Gemeinschaft, ABl. L 57 vom 2.3.1992, S. 27, geändert durch Richtlinie 2002/85/EG des Europäischen Parlaments und des Rates vom 5. November 2002, ABl. L 327 vom 4.12.2002, S. 8.
+– Richtlinie 92/6/EWG des Rates vom 10. Februar 1992 über Einbau und Benutzung von Geschwindigkeitsbegrenzern für bestimmte Kraftfahrzeugklassen in der Gemeinschaft, ABl. L 57 vom 2.3.1992, S. 27, geändert durch Richtlinie 2002/85/EG des Europäischen Parlaments und des Rates vom 5. November 2002, ABl. L 327 vom 4.12.2002, S. 8.
 
-Richtlinie 96/53/EG des Rates vom 25. Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für bestimmte Strassenfahrzeuge im innerstaatlichen und grenzüberschreitenden Verkehr in der Gemeinschaft sowie zur Festlegung der höchstzulässigen Gewichte im grenzüberschreitenden Verkehr, ABl. L 235 vom 17.9.1996, S. 59; geändert durch Richtlinie 2002/7/EG des Europäischen Parlaments und des Rates vom 18. Februar 2002, ABl. L 67 vom 9.3.2002, S. 47.
+– Richtlinie 96/53/EG des Rates vom 25. Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für bestimmte Strassenfahrzeuge im innerstaatlichen und grenzüberschreitenden Verkehr in der Gemeinschaft sowie zur Festlegung der höchstzulässigen Gewichte im grenzüberschreitenden Verkehr, ABl. L 235 vom 17.9.1996, S. 59; geändert durch Richtlinie 2002/7/EG des Europäischen Parlaments und des Rates vom 18. Februar 2002, ABl. L 67 vom 9.3.2002, S. 47.
 
-Verordnung (EG) Nr. 2411/98 des Rates vom 3. November 1998 über die Anerkennung des Unterscheidungszeichens des Zulassungsmitgliedstaats von Kraftfahrzeugen und Kraftfahrzeuganhängern im innergemeinschaftlichen Verkehr, ABl. L 299 vom 10.11.1998, S. 1.
+– Verordnung (EG) Nr. 2411/98 des Rates vom 3. November 1998 über die Anerkennung des Unterscheidungszeichens des Zulassungsmitgliedstaats von Kraftfahrzeugen und Kraftfahrzeuganhängern im innergemeinschaftlichen Verkehr, ABl. L 299 vom 10.11.1998, S. 1.
 
-Richtlinie 2000/30/EG des Europäischen Parlaments und des Rates vom 6. Juni 2000 über die technische Unterwegskontrolle von Nutzfahrzeugen, die in der Gemeinschaft am Strassenverkehr teilnehmen, ABl. L 203 vom 10.8.2000, S. 1; zuletzt geändert durch Richtlinie 2010/47/EU der Kommission vom 5. Juli 2010, ABl. L 173 vom 8.7.2010, S. 33.
+– Richtlinie 2000/30/EG des Europäischen Parlaments und des Rates vom 6. Juni 2000 über die technische Unterwegskontrolle von Nutzfahrzeugen, die in der Gemeinschaft am Strassenverkehr teilnehmen, ABl. L 203 vom 10.8.2000, S. 1; zuletzt geändert durch Richtlinie 2010/47/EU der Kommission vom 5. Juli 2010, ABl. L 173 vom 8.7.2010, S. 33.
 
-Richtlinie 2005/55/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen, ABl. L 275 vom 20.10.2005, S. 1; zuletzt geändert durch Richtlinie 2008/74/EG der Kommission vom 18. Juli 2008, ABl. L 192 vom 19.7.2008, S. 51.
+– Richtlinie 2005/55/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen, ABl. L 275 vom 20.10.2005, S. 1; zuletzt geändert durch Richtlinie 2008/74/EG der Kommission vom 18. Juli 2008, ABl. L 192 vom 19.7.2008, S. 51.
 
-Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014 der Kommission vom 31. Januar 2014, ABl. L 47 vom 18.2.2014, S. 1.
+– Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014 der Kommission vom 31. Januar 2014, ABl. L 47 vom 18.2.2014, S. 1.
 
-Verordnung (EU) Nr. 582/2011 der Kommission vom 25. Mai 2011 zur Durchführung und Änderung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und zur Änderung der Anhänge I und III der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, ABl. L 167 vom 25.6.2011, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 627/2014 der Kommission vom 12. Juni 2014, ABl. L 174 vom 13.6.2014, S. 28.
+– Verordnung (EU) Nr. 582/2011 der Kommission vom 25. Mai 2011 zur Durchführung und Änderung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und zur Änderung der Anhänge I und III der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, ABl. L 167 vom 25.6.2011, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 627/2014 der Kommission vom 12. Juni 2014, ABl. L 174 vom 13.6.2014, S. 28.
 
-Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmässige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der Richtlinie 2009/40/EG, ABl. L 127 vom 29.4.2014, S. 51.
+– Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmässige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der Richtlinie 2009/40/EG, ABl. L 127 vom 29.4.2014, S. 51.
 
-Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über den Geräuschpegel von Kraftfahrzeugen und von Austauschschalldämpferanlagen sowie zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinie 70/157/EWG, ABl. L 158 vom 27.5.2014, S. 131; zuletzt geändert durch Delegierte Verordnung (EU) 2019/839 der Kommission vom 7. März 2019, ABl. L 138 vom 24.5.2019, S. 70.
+– Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über den Geräuschpegel von Kraftfahrzeugen und von Austauschschalldämpferanlagen sowie zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinie 70/157/EWG, ABl. L 158 vom 27.5.2014, S. 131; zuletzt geändert durch Delegierte Verordnung (EU) 2019/839 der Kommission vom 7. März 2019, ABl. L 138 vom 24.5.2019, S. 70.
 
-Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates vom 27. November 2019 über die Typgenehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge im Hinblick auf ihre allgemeine Sicherheit und den Schutz der Fahrzeuginsassen und von ungeschützten Verkehrsteilnehmern, zur Änderung der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 78/2009, (EG) Nr. 79/2009 und (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr. 631/2009, (EU) Nr. 406/2010, (EU) Nr. 672/2010, (EU) Nr. 1003/2010, (EU) Nr. 1005/2010, (EU) Nr. 1008/2010, (EU) Nr. 1009/2010, (EU) Nr. 19/2011, (EU) Nr. 109/2011, (EU) Nr. 458/2011, (EU) Nr. 65/2012, (EU) Nr. 130/2012, (EU) Nr. 347/2012, (EU) Nr. 351/2012, (EU) Nr. 1230/2012 und (EU) 2015/166 der Kommission, ABl. L 321 vom 16.12.2019, S. 1.
+– Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates vom 27. November 2019 über die Typgenehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge im Hinblick auf ihre allgemeine Sicherheit und den Schutz der Fahrzeuginsassen und von ungeschützten Verkehrsteilnehmern, zur Änderung der Verordnung (EU) 2018/858 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 78/2009, (EG) Nr. 79/2009 und (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr. 631/2009, (EU) Nr. 406/2010, (EU) Nr. 672/2010, (EU) Nr. 1003/2010, (EU) Nr. 1005/2010, (EU) Nr. 1008/2010, (EU) Nr. 1009/2010, (EU) Nr. 19/2011, (EU) Nr. 109/2011, (EU) Nr. 458/2011, (EU) Nr. 65/2012, (EU) Nr. 130/2012, (EU) Nr. 347/2012, (EU) Nr. 351/2012, (EU) Nr. 1230/2012 und (EU) 2015/166 der Kommission, ABl. L 321 vom 16.12.2019, S. 1.
 
-Delegierte Verordnung (EU) 2021/1958 der Kommission vom 23. Juni 2021 zur Ergänzung der Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates durch Festlegung detaillierter Vorschriften für die spezifischen Prüfverfahren und technischen Anforderungen für die Typgenehmigung von Kraftfahrzeugen hinsichtlich ihrer intelligenten Geschwindigkeitsassistenten und für die Typgenehmigung von intelligenten Geschwindigkeitsassistenten als selbstständige technische Einheiten sowie zur Änderung von Anhang II der genannten Verordnung, ABl. L 409 vom 17.11.2021, S. 1.
+– Delegierte Verordnung (EU) 2021/1958 der Kommission vom 23. Juni 2021 zur Ergänzung der Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates durch Festlegung detaillierter Vorschriften für die spezifischen Prüfverfahren und technischen Anforderungen für die Typgenehmigung von Kraftfahrzeugen hinsichtlich ihrer intelligenten Geschwindigkeitsassistenten und für die Typgenehmigung von intelligenten Geschwindigkeitsassistenten als selbstständige technische Einheiten sowie zur Änderung von Anhang II der genannten Verordnung, ABl. L 409 vom 17.11.2021, S. 1.
 
-Delegierte Verordnung (EU) 2022/545 der Kommission vom 26. Januar 2022 zur Ergänzung der Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates durch Festlegung detaillierter Vorschriften für die spezifischen Prüfverfahren und technischen Anforderungen für die Typgenehmigung von Kraftfahrzeugen hinsichtlich ihrer Ereignisdatenspeicher und für die Typgenehmigung von Ereignisdatenspeichern als selbstständige technische Einheiten sowie zur Änderung von Anhang II der genannten Verordnung, ABl. L 107 vom 6.4.2022, S. 18.
+– Delegierte Verordnung (EU) 2022/545 der Kommission vom 26. Januar 2022 zur Ergänzung der Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates durch Festlegung detaillierter Vorschriften für die spezifischen Prüfverfahren und technischen Anforderungen für die Typgenehmigung von Kraftfahrzeugen hinsichtlich ihrer Ereignisdatenspeicher und für die Typgenehmigung von Ereignisdatenspeichern als selbstständige technische Einheiten sowie zur Änderung von Anhang II der genannten Verordnung, ABl. L 107 vom 6.4.2022, S. 18.
 
-Delegierte Verordnung (EU) 2023/2590 der Kommission vom 13. Juli 2023 zur Ergänzung der Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates durch Festlegung detaillierter Vorschriften für die spezifischen Prüfverfahren und technischen Anforderungen für die Typgenehmigung von bestimmten Kraftfahrzeugen hinsichtlich ihrer hochentwickelten Warnsysteme bei nachlassender Konzentration des Fahrers sowie zur Änderung der genannten Verordnung, ABl. L, 2023/2590, 22.11.2023.
+– Delegierte Verordnung (EU) 2023/2590 der Kommission vom 13. Juli 2023 zur Ergänzung der Verordnung (EU) 2019/2144 des Europäischen Parlaments und des Rates durch Festlegung detaillierter Vorschriften für die spezifischen Prüfverfahren und technischen Anforderungen für die Typgenehmigung von bestimmten Kraftfahrzeugen hinsichtlich ihrer hochentwickelten Warnsysteme bei nachlassender Konzentration des Fahrers sowie zur Änderung der genannten Verordnung, ABl. L, 2023/2590, 22.11.2023.
 
 Gefahrguttransporte
 
-Richtlinie (EU) 2022/1999 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse (kodifizierter Text; ABl. L 274, 24.10.2022, S. 1).
+– Richtlinie (EU) 2022/1999 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse (kodifizierter Text; ABl. L 274, 24.10.2022, S. 1).
 
-Richtlinie (EU) 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland, ABl. L 260 vom 30.9.2008, S. 13; zuletzt geändert durch Delegierte Richtlinie (EU) 2022/2407 der Kommission vom 20. September 2022, ABl. L 317 vom 9.12.2022, S. 64.
+– Richtlinie (EU) 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland, ABl. L 260 vom 30.9.2008, S. 13; zuletzt geändert durch Delegierte Richtlinie (EU) 2025/149 der Kommission vom 15. November 2024, ABl. L 2025/149, 24.1.2025.
 
 Für die Zwecke dieses Abkommens gelten in Bezug auf die Richtlinie 2008/68/EG für die Schweiz folgende Ausnahmeregelungen:
 
@@ -1088,49 +1069,41 @@ Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 20
 
 ### Abschnitt 4: Zugangs- und Transitrechte im Eisenbahnverkehr
 
-Richtlinie 91/440/EWG des Rates vom 29. Juli 1991 zur Entwicklung der Eisenbahnunternehmen der Gemeinschaft, ABl. L 237 vom 24.8.1991, S. 25.
+– Richtlinie 91/440/EWG des Rates vom 29. Juli 1991 zur Entwicklung der Eisenbahnunternehmen der Gemeinschaft, ABl. L 237 vom 24.8.1991, S. 25.
 
-Richtlinie 95/18/EG des Rates vom 19. Juni 1995 über die Erteilung von Genehmigungen an Eisenbahnunternehmen, ABl. L 143 vom 27.6.1995, S. 70.
+– Richtlinie 95/18/EG des Rates vom 19. Juni 1995 über die Erteilung von Genehmigungen an Eisenbahnunternehmen, ABl. L 143 vom 27.6.1995, S. 70.
 
-Richtlinie 95/19/EG des Rates vom 19. Juni 1995 über die Zuweisung von Fahrwegkapazität der Eisenbahn und die Berechnung von Wegeentgelten, ABl. L 143 vom 27.6.1995, S. 75.
+– Richtlinie 95/19/EG des Rates vom 19. Juni 1995 über die Zuweisung von Fahrwegkapazität der Eisenbahn und die Berechnung von Wegeentgelten, ABl. L 143 vom 27.6.1995, S. 75.
 
-Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazitäten der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung («Richtlinie über die Eisenbahnsicherheit»), ABl. L 164 vom 30.4.2004, S. 44; zuletzt geändert durch Richtlinie 2014/88/EU der Kommission vom 9. Juli 2014, ABl. L 201 vom 10.7.2014, S. 9.
+– Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen, Fassung gemäss ABl. L 315 vom 3.12.2007, S. 51; zuletzt geändert durch Verordnung (EU) 2019/554 der Kommission vom 5. April 2019, ABl. L 97 vom 8.4.2019, S. 1.
 
-Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen, Fassung gemäss ABl. L 315 vom 3.12.2007, S. 51; zuletzt geändert durch Verordnung (EU) 2019/554 der Kommission vom 5. April 2019, ABl. L 97 vom 8.4.2019, S. 1.
+– Entscheidung 2007/756/EG der Kommission vom 9. November 2007 zur Annahme einer gemeinsamen Spezifikation für das nationale Einstellungsregister nach Artikel 14 Absätze 4 und 5 der Richtlinien 96/48/EG und 2001/16/EG, ABl. L 305 vom 23.11.2007, S. 30; geändert durch Beschluss 2011/107/EU der Kommission vom 10. Februar 2011, ABl. L 43 vom 17.2.2011, S. 33.
 
-Verordnung (EG) Nr. 653/2007 der Kommission vom 13. Juni 2007 zur Verwendung eines einheitlichen europäischen Formats für Sicherheitsbescheinigungen und Antragsunterlagen gemäss Artikel 10 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates und zur Gültigkeit von gemäss der Richtlinie 2001/14/EG ausgestellten Sicherheitsbescheinigungen, ABl. L 153 vom 14.6.2007, S. 9; geändert durch Verordnung (EU) Nr. 445/2011 der Kommission vom 10. Mai 2011, ABl. L 122 vom 11.5.2011, S. 22.
+– Entscheidung 2009/965/EG der Kommission vom 30. November 2009 über das Referenzdokument gemäss Artikel 27 Absatz 4 der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft, ABl. L 341 vom 22.12.2009, S. 1; geändert durch Durchführungsbeschluss (EU) 2015/2299 der Kommission vom 17. November 2015, ABl. L 324 vom 10.12.2015, S. 15.
 
-Entscheidung 2007/756/EG der Kommission vom 9. November 2007 zur Annahme einer gemeinsamen Spezifikation für das nationale Einstellungsregister nach Artikel 14 Absätze 4 und 5 der Richtlinien 96/48/EG und 2001/16/EG, ABl. L 305 vom 23.11.2007, S. 30; geändert durch Beschluss 2011/107/EU der Kommission vom 10. Februar 2011, ABl. L 43 vom 17.2.2011, S. 33.
+– Verordnung (EU) Nr. 36/2010 der Kommission vom 3. Dezember 2009 über Gemeinschaftsmodelle für die Fahrerlaubnis der Triebfahrzeugführer, Zusatzbescheinigungen, beglaubigte Kopien von Zusatzbescheinigungen und Formulare für den Antrag auf Erteilung einer Fahrerlaubnis für Triebfahrzeugführer gemäss der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates, ABl. L 13 vom 19.1.2010, S. 1.
 
-Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (Neufassung), ABl. L 191 vom 18.7.2008, S. 1; zuletzt geändert durch Richtlinie 2014/38/EU der Kommission vom 10. März 2014, ABl. L 70 vom 11.3.2014, S. 20.
+– Beschluss 2010/713/EU der Kommission vom 9. November 2010 über Module für die Verfahren der Konformitäts- und Gebrauchstauglichkeitsbewertung sowie der EG-Prüfung, die in den gemäss Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates angenommenen technischen Spezifikationen für die Interoperabilität zu verwenden sind, ABl. L 319 vom 4.12.2010, S. 1.
 
-Entscheidung 2009/965/EG der Kommission vom 30. November 2009 über das Referenzdokument gemäss Artikel 27 Absatz 4 der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft, ABl. L 341 vom 22.12.2009, S. 1; geändert durch Durchführungsbeschluss (EU) 2015/2299 der Kommission vom 17. November 2015, ABl. L 324 vom 10.12.2015, S. 15.
+– Verordnung (EU) Nr. 1158/2010 der Kommission vom 9. Dezember 2010 über eine gemeinsame Sicherheitsmethode für die Konformitätsbewertung in Bezug auf die Anforderungen an die Ausstellung von Eisenbahnsicherheitsbescheinigungen, ABl. L 326 vom 10.12.2010, S. 11.
 
-Verordnung (EU) Nr. 36/2010 der Kommission vom 3. Dezember 2009 über Gemeinschaftsmodelle für die Fahrerlaubnis der Triebfahrzeugführer, Zusatzbescheinigungen, beglaubigte Kopien von Zusatzbescheinigungen und Formulare für den Antrag auf Erteilung einer Fahrerlaubnis für Triebfahrzeugführer gemäss der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates, ABl. L 13 vom 19.1.2010, S. 1.
+– Verordnung (EU) Nr. 1169/2010 der Kommission vom 10. Dezember 2010 über eine gemeinsame Sicherheitsmethode für die Konformitätsbewertung in Bezug auf die Anforderungen an die Erteilung von Eisenbahnsicherheitsgenehmigungen, ABl. L 327 vom 11.12.2010, S. 13.
 
-Beschluss 2010/713/EU der Kommission vom 9. November 2010 über Module für die Verfahren der Konformitäts- und Gebrauchstauglichkeitsbewertung sowie der EG-Prüfung, die in den gemäss Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates angenommenen technischen Spezifikationen für die Interoperabilität zu verwenden sind, ABl. L 319 vom 4.12.2010, S. 1.
+– Verordnung (EU) Nr. 445/2011 der Kommission vom 10. Mai 2011 über ein System zur Zertifizierung von für die Instandhaltung von Güterwagen zuständigen Stellen und zur Änderung der Verordnung (EG) Nr. 653/2007, ABl. L 122 vom 11.5.2011, S. 22.
 
-Verordnung (EU) Nr. 1158/2010 der Kommission vom 9. Dezember 2010 über eine gemeinsame Sicherheitsmethode für die Konformitätsbewertung in Bezug auf die Anforderungen an die Ausstellung von Eisenbahnsicherheitsbescheinigungen, ABl. L 326 vom 10.12.2010, S. 11.
+– Verordnung (EU) Nr. 454/2011 der Kommission vom 5. Mai 2011 über die technische Spezifikation für die Interoperabilität (TSI) zum Teilsystem «Telematikanwendungen für den Personenverkehr» des transeuropäischen Eisenbahnsystems, ABl. L 123 vom 12.5.2011, S. 11; zuletzt geändert durch Durchführungsverordnung (EU) 2019/775 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 103.
 
-Verordnung (EU) Nr. 1169/2010 der Kommission vom 10. Dezember 2010 über eine gemeinsame Sicherheitsmethode für die Konformitätsbewertung in Bezug auf die Anforderungen an die Erteilung von Eisenbahnsicherheitsgenehmigungen, ABl. L 327 vom 11.12.2010, S. 13.
+– Durchführungsbeschluss 2011/665/EU der Kommission vom 4. Oktober 2011 über das Europäische Register genehmigter Schienenfahrzeugtypen, ABl. L 264 vom 8.10.2011, S. 32; zuletzt geändert durch Durchführungsbeschluss (EU) 2023/1696 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 561.
 
-Verordnung (EU) Nr. 201/2011 der Kommission vom 1. März 2011 über das Muster der Konformitätserklärung für genehmigte Schienenfahrzeugtypen, ABl. L 57 vom 2.3.2011, S. 8.
+– Beschluss 2011/765/EU der Kommission vom 22. November 2011 zu den Kriterien der Anerkennung von Ausbildungseinrichtungen, die an der Ausbildung von Triebfahrzeugführern beteiligt sind, den Kriterien der Anerkennung von Triebfahrzeugführer-Prüfern und den Kriterien für die Organisation von Prüfungen gemäss der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates, ABl. L 314 vom 29.11.2011, S. 36.
 
-Verordnung (EU) Nr. 445/2011 der Kommission vom 10. Mai 2011 über ein System zur Zertifizierung von für die Instandhaltung von Güterwagen zuständigen Stellen und zur Änderung der Verordnung (EG) Nr. 653/2007, ABl. L 122 vom 11.5.2011, S. 22.
+– Verordnung (EU) Nr. 1078/2012 der Kommission vom 16. November 2012 über eine gemeinsame Sicherheitsmethode für die Kontrolle, die von Eisenbahnunternehmen und Fahrwegbetreibern, denen eine Sicherheitsbescheinigung beziehungsweise Sicherheitsgenehmigung erteilt wurde, sowie von den für die Instandhaltung zuständigen Stellen anzuwenden ist, ABl. L 320 vom 17.11.2012, S. 8.
 
-Verordnung (EU) Nr. 454/2011 der Kommission vom 5. Mai 2011 über die technische Spezifikation für die Interoperabilität (TSI) zum Teilsystem «Telematikanwendungen für den Personenverkehr» des transeuropäischen Eisenbahnsystems, ABl. L 123 vom 12.5.2011, S. 11; zuletzt geändert durch Durchführungsverordnung (EU) 2019/775 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 103.
+– Verordnung (EU) Nr. 321/2013 der Kommission vom 13. März 2013 über die technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Güterwagen» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Entscheidung 2006/861/EG der Kommission, ABl. L 104 vom 12.4.2013, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
 
-Durchführungsbeschluss 2011/665/EU der Kommission vom 4. Oktober 2011 über das Europäische Register genehmigter Schienenfahrzeugtypen, ABl. L 264 vom 8.10.2011, S. 32; zuletzt geändert durch Durchführungsbeschluss (EU) 2023/1696 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 561.
+– Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009, ABl. L 121 vom 3.5.2013, S. 8; geändert durch Durchführungsverordnung (EU) 2015/1136 der Kommission vom 13. Juli 2015, ABl. L 185 vom 14.7.2015, S. 6.
 
-Beschluss 2011/765/EU der Kommission vom 22. November 2011 zu den Kriterien der Anerkennung von Ausbildungseinrichtungen, die an der Ausbildung von Triebfahrzeugführern beteiligt sind, den Kriterien der Anerkennung von Triebfahrzeugführer-Prüfern und den Kriterien für die Organisation von Prüfungen gemäss der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates, ABl. L 314 vom 29.11.2011, S. 36.
-
-Verordnung (EU) Nr. 1078/2012 der Kommission vom 16. November 2012 über eine gemeinsame Sicherheitsmethode für die Kontrolle, die von Eisenbahnunternehmen und Fahrwegbetreibern, denen eine Sicherheitsbescheinigung beziehungsweise Sicherheitsgenehmigung erteilt wurde, sowie von den für die Instandhaltung zuständigen Stellen anzuwenden ist, ABl. L 320 vom 17.11.2012, S. 8.
-
-Verordnung (EU) Nr. 321/2013 der Kommission vom 13. März 2013 über die technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Güterwagen» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Entscheidung 2006/861/EG der Kommission, ABl. L 104 vom 12.4.2013, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
-
-Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009, ABl. L 121 vom 3.5.2013, S. 8; geändert durch Durchführungsverordnung (EU) 2015/1136 der Kommission vom 13. Juli 2015, ABl. L 185 vom 14.7.2015, S. 6.
-
-Verordnung (EU) Nr. 1299/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Infrastruktur» des Eisenbahnsystems in der Europäischen Union; ABl. L 356 vom 12.12.2014, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
+– Verordnung (EU) Nr. 1299/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Infrastruktur» des Eisenbahnsystems in der Europäischen Union; ABl. L 356 vom 12.12.2014, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
 
 In der Schweiz gelten die folgenden Sonderfälle nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
@@ -1195,7 +1168,7 @@ In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des B
 - – CH-TSI-INF-006 (Version 2.0 vom Juni 2024): Gleislagestabilität in Längsrichtung; Verträglichkeit mit Bremssystemen;
 - – CH-TSI-INF-009 (Version 2.0 vom Juni 2024): Gleislagestabilität in Querrichtung; Streckenbezogene Fahrzeughomologation für Neigezüge; Überhöhungsfehlbetrag im Gleis sowie im Stammgleis von Weichen und Kreuzungen.
 
-Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88
+– Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88
 
 In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
@@ -1203,7 +1176,7 @@ In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des B
 - – CH-TSI-PRM-002 (Juni 2015): Teilbereich Infrastruktur: Funktionale und technische Spezifikationen;
 - – CH-TSI-PRM-003 (Juni 2017): Teilbereich Infrastruktur: Position von Stufen zum Ein- und Ausstieg.
 
-Verordnung (EU) Nr. 1301/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Energie» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 179; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
+– Verordnung (EU) Nr. 1301/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Energie» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 179; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
 
 In der Schweiz gelten die folgenden Sonderfälle nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
@@ -1219,7 +1192,7 @@ In der Schweiz gelten die folgenden Sonderfälle nach Artikel 6 des Beschlusses 
 
 - Bemerkung: Für das Befahren bestehender Strecken müssen die elektrischen Einheiten (Rollmaterial) mit einem Stromabnehmer mit einer Wippenbreite von 1450 mm (mit isolierenden Endhörnern) gemäss Abbildung B.1 der Norm EN 50367:2020 ausgestattet sein.
 
-Verordnung (EU) Nr. 1302/2014 der Kommission vom 18. November 2014 über eine technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Lokomotiven und Personenwagen» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 228; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
+– Verordnung (EU) Nr. 1302/2014 der Kommission vom 18. November 2014 über eine technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Lokomotiven und Personenwagen» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 228; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
 
 In der Schweiz gelten die folgenden nationalen Sonderfälle nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
@@ -1252,54 +1225,54 @@ In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des B
 - − CH-TSI LOC&PAS-003 (Version 2.1, Juni 2024): Enge Radien r &lt; 250 m;
 - − CH-TSI LOC&PAS-006 (Version 2.1, Juni 2024): Zulassung von Fahrzeugen mit Neigeeinrichtung nach Reihe N;
 - − CH-TSI LOC&PAS-007 (Version 2.1, Juni 2024): Spurkranzschmierung;
-- − CH-TSI LOC&PAS-009 (Version 1.1, Juni 2024): Abgasemissionen thermischer Fahrzeuge (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 2016/1628 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
+- − CH-TSI LOC&PAS-009 (Version 1.1, Juni 2024): Abgasemissionen thermischer Fahrzeuge (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 2016/1628 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
 - − CH-TSI LOC&PAS-012 (Version 1.0, Juli 2016): Admittanz;
 - − CH-TSI LOC&PAS-013 (Version 1.1, Juli 2024): Stromabnehmer/Fahrleitung-Interaktion;
 - − CH-TSI LOC&PAS-014a (Version 2.0, Juni 2021): Kompatibilität der Fahrzeugmerkmale mit Zugortungsanlagen/Gleisfreimeldeeinrichtungen auf der Basis von Gleisstromkreisen;
 - − CH-TSI LOC&PAS-014b (Version 2.0, Juni 2021): Kompatibilität der Fahrzeugmerkmale mit Zugortungsanlagen/Gleisfreimeldeeinrichtungen auf der Basis von Achszählern;
-- − CH-TSI LOC&PAS-019 (Version 3.0, Juni 2024): Das «non leading input signal» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
-- − CH-TSI LOC&PAS-020 (Version 3.0, Juni 2024): Das «sleeping input signal» bei Vielfachsteuerung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
+- − CH-TSI LOC&PAS-019 (Version 3.0, Juni 2024): Das «non leading input signal» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
+- − CH-TSI LOC&PAS-020 (Version 3.0, Juni 2024): Das «sleeping input signal» bei Vielfachsteuerung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
 - − CH-TSI LOC&PAS-022 (Version 3.0, Juni 2024): Rückstellung der Zwangsbremse;
-- − CH-TSI LOC&PAS-025 (Version 2.2, Juni 2024): Gehemmte Bedienbarkeit zum Abtrennen der ETCS-Fahrzeugausrüstung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
-- − CH-TSI LOC&PAS-027 (Version 3.0, Juni 2024): Manuelle Funkfernsteuerung im Rangierbetrieb (Betriebsart «Shunting») (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
+- − CH-TSI LOC&PAS-025 (Version 2.2, Juni 2024): Gehemmte Bedienbarkeit zum Abtrennen der ETCS-Fahrzeugausrüstung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
+- − CH-TSI LOC&PAS-027 (Version 3.0, Juni 2024): Manuelle Funkfernsteuerung im Rangierbetrieb (Betriebsart «Shunting») (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
 - − CH-TSI LOC&PAS-030 (Version 2.0, Juni 2021): Einsatz haftreibungsfreier Bremssysteme;
-- − CH-TSI LOC&PAS-031 (Version 3.0, Juni 2024): Sichere Traktionsabschaltung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
-- − CH-TSI LOC&PAS-035 (Version 2.2, Juni 2024): Ausreichende Bremsleistung bei Zwangsbremsung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
-- − CH-TSI LOC&PAS-036 (Version 2.2, Juni 2024): Fahrzeuge mit einem Führerpult für beide Fahrrichtungen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen).
+- − CH-TSI LOC&PAS-031 (Version 3.0, Juni 2024): Sichere Traktionsabschaltung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
+- − CH-TSI LOC&PAS-035 (Version 2.2, Juni 2024): Ausreichende Bremsleistung bei Zwangsbremsung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
+- − CH-TSI LOC&PAS-036 (Version 2.2, Juni 2024): Fahrzeuge mit einem Führerpult für beide Fahrrichtungen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen).
 
-Verordnung (EU) Nr. 1303/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität bezüglich der «Sicherheit in Eisenbahntunneln» im Eisenbahnsystem der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 394; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
+– Verordnung (EU) Nr. 1303/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität bezüglich der «Sicherheit in Eisenbahntunneln» im Eisenbahnsystem der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 394; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
 
-Verordnung (EU) Nr. 1304/2014 der Kommission vom 26. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Lärm» sowie zur Änderung der Entscheidung 2008/232/EG und Aufhebung des Beschlusses 2011/229/EU, ABl. L 356 vom 12.12.2014, S. 421; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
+– Verordnung (EU) Nr. 1304/2014 der Kommission vom 26. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Lärm» sowie zur Änderung der Entscheidung 2008/232/EG und Aufhebung des Beschlusses 2011/229/EU, ABl. L 356 vom 12.12.2014, S. 421; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
 
 In der Schweiz gilt die folgende nationale Vorschrift nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
 - − CH-TSI NOI-001(Version 2.0, Juni 2024): Emissionsgrenzwerte für Güterwagen.
 
-Verordnung (EU) Nr. 1305/2014 der Kommission vom 11. Dezember 2014 über die technische Spezifikation für die Interoperabilität zum Teilsystem «Telematikanwendungen für den Güterverkehr» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Verordnung (EG) Nr. 62/2006, ABl. L 356 vom 12.12.2014, S. 438; zuletzt geändert durch Durchführungsverordnung (EU) 2019/778 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 356.
+– Verordnung (EU) Nr. 1305/2014 der Kommission vom 11. Dezember 2014 über die technische Spezifikation für die Interoperabilität zum Teilsystem «Telematikanwendungen für den Güterverkehr» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Verordnung (EG) Nr. 62/2006, ABl. L 356 vom 12.12.2014, S. 438; zuletzt geändert durch Durchführungsverordnung (EU) 2019/778 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 356.
 
-Durchführungsverordnung (EU) 2015/171 der Kommission vom 4. Februar 2015 über bestimmte Aspekte des Verfahrens der Genehmigung von Eisenbahnunternehmen, ABl. L 29 vom 5.2.2015, S. 3.
+– Durchführungsverordnung (EU) 2015/171 der Kommission vom 4. Februar 2015 über bestimmte Aspekte des Verfahrens der Genehmigung von Eisenbahnunternehmen, ABl. L 29 vom 5.2.2015, S. 3.
 
-Durchführungsverordnung (EU) 2015/429 der Kommission vom 13. März 2015 zur Festlegung der Modalitäten für die Anlastung der Kosten von Lärmauswirkungen, ABl. L 70 vom 13.3.2015, S. 36.
+– Durchführungsverordnung (EU) 2015/429 der Kommission vom 13. März 2015 zur Festlegung der Modalitäten für die Anlastung der Kosten von Lärmauswirkungen, ABl. L 70 vom 13.3.2015, S. 36.
 
-Durchführungsverordnung (EU) 2015/909 der Kommission vom 12. Juni 2015 über die Modalitäten für die Berechnung der Kosten, die unmittelbar aufgrund des Zugbetriebs anfallen, ABl. L 148 vom 13.6.2015, S. 17.
+– Durchführungsverordnung (EU) 2015/909 der Kommission vom 12. Juni 2015 über die Modalitäten für die Berechnung der Kosten, die unmittelbar aufgrund des Zugbetriebs anfallen, ABl. L 148 vom 13.6.2015, S. 17.
 
-Durchführungsverordnung (EU) 2015/1100 der Kommission vom 7. Juli 2015 über die Berichtspflichten der Mitgliedstaaten im Rahmen der Überwachung des Schienenverkehrsmarkts, ABl. L 181 vom 9.7.2015, S. 1.
+– Durchführungsverordnung (EU) 2015/1100 der Kommission vom 7. Juli 2015 über die Berichtspflichten der Mitgliedstaaten im Rahmen der Überwachung des Schienenverkehrsmarkts, ABl. L 181 vom 9.7.2015, S. 1.
 
-Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union, ABl. L 138 vom 26.5.2016, S. 44.
+– Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union, ABl. L 138 vom 26.5.2016, S. 44.
 
-Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit, ABl. L 138 vom 26.5.2016, S. 102.
+– Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit, ABl. L 138 vom 26.5.2016, S. 102.
 
-Durchführungsverordnung (EU) 2018/545 der Kommission vom 4. April 2018 über die praktischen Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die Genehmigung von Schienenfahrzeugtypen gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L 90 vom 6.4.2018, S. 66.
+– Durchführungsverordnung (EU) 2018/545 der Kommission vom 4. April 2018 über die praktischen Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die Genehmigung von Schienenfahrzeugtypen gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L 90 vom 6.4.2018, S. 66.
 
-Delegierte Verordnung (EU) 2018/761 der Kommission vom 16. Februar 2018 über gemeinsame Sicherheitsmethoden für die Überwachung durch die nationalen Sicherheitsbehörden nach Erteilung einer Sicherheitsbescheinigung oder Sicherheitsgenehmigung gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 1077/2012 der Kommission, ABl. L 129 vom 25.5.2018, S. 16.
+– Delegierte Verordnung (EU) 2018/761 der Kommission vom 16. Februar 2018 über gemeinsame Sicherheitsmethoden für die Überwachung durch die nationalen Sicherheitsbehörden nach Erteilung einer Sicherheitsbescheinigung oder Sicherheitsgenehmigung gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 1077/2012 der Kommission, ABl. L 129 vom 25.5.2018, S. 16.
 
-Delegierte Verordnung (EU) 2018/762 der Kommission vom 8. März 2018 über gemeinsame Sicherheitsmethoden in Bezug auf die Anforderungen für Sicherheitsmanagementsysteme gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010, ABl. L 129 vom 25.5.2018, S. 26.
+– Delegierte Verordnung (EU) 2018/762 der Kommission vom 8. März 2018 über gemeinsame Sicherheitsmethoden in Bezug auf die Anforderungen für Sicherheitsmanagementsysteme gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010, ABl. L 129 vom 25.5.2018, S. 26.
 
-Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission, ABl. L 129 vom 25.5.2018, S. 49.
+– Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission, ABl. L 129 vom 25.5.2018, S. 49.
 
-Durchführungsverordnung (EU) 2019/250 der Kommission vom 12. Februar 2019 über die Muster der EG-Erklärungen und -Bescheinigungen für Eisenbahn-Interoperabilitätskomponenten und -Teilsysteme, das Muster der Typenkonformitätserklärung für Schienenfahrzeuge und über die EG-Prüfverfahren für Teilsysteme gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EU) Nr. 201/2011 der Kommission, ABl. L 42 vom 13.2.2019, S. 9.
+– Durchführungsverordnung (EU) 2019/250 der Kommission vom 12. Februar 2019 über die Muster der EG-Erklärungen und -Bescheinigungen für Eisenbahn-Interoperabilitätskomponenten und -Teilsysteme, das Muster der Typenkonformitätserklärung für Schienenfahrzeuge und über die EG-Prüfverfahren für Teilsysteme gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EU) Nr. 201/2011 der Kommission, ABl. L 42 vom 13.2.2019, S. 9.
 
-Durchführungsverordnung (EU) 2019/773 der Kommission vom 16. Mai 2019 über die technische Spezifikation für die Interoperabilität des Teilsystems «Verkehrsbetrieb und Verkehrssteuerung» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung des Beschlusses 2012/757/EU, ABl. L 139 I vom 27.5.2019, S. 5; zuletzt geändert durch die Durchführungsverordnung (EU) 2023/1693 der Kommission vom 10. August 2023, ABl L 222 vom 9.8.2023, S. 1.
+– Durchführungsverordnung (EU) 2019/773 der Kommission vom 16. Mai 2019 über die technische Spezifikation für die Interoperabilität des Teilsystems «Verkehrsbetrieb und Verkehrssteuerung» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung des Beschlusses 2012/757/EU, ABl. L 139 I vom 27.5.2019, S. 5; zuletzt geändert durch die Durchführungsverordnung (EU) 2023/1693 der Kommission vom 10. August 2023, ABl L 222 vom 9.8.2023, S. 1.
 
 In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
@@ -1320,57 +1293,57 @@ In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des B
 - – CH-TSI-OPE-015 (Juni 2024): Abhängigkeit der Sicherheit vom Zustandekommen einer Kommunikationsverbindung;
 - – CH-TSI-OPE-016 (Juni 2024): Kategorisierung der Verfahren für die Übermittlung.
 
-Durchführungsverordnung (EU) 2019/777 der Kommission vom 16. Mai 2019 zu gemeinsamen Spezifikationen für das Eisenbahn-Infrastrukturregister und zur Aufhebung des Durchführungsbeschlusses 2014/880/EU der Kommission, ABl. L 139 I vom 27.5.2019, S. 312; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
+– Durchführungsverordnung (EU) 2019/777 der Kommission vom 16. Mai 2019 zu gemeinsamen Spezifikationen für das Eisenbahn-Infrastrukturregister und zur Aufhebung des Durchführungsbeschlusses 2014/880/EU der Kommission, ABl. L 139 I vom 27.5.2019, S. 312; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023, ABl. L 222 vom 8.9.2023, S. 88.
 
-Durchführungsverordnung (EU) 2019/779 der Kommission vom 16. Mai 2019 mit Durchführungsbestimmungen für ein System zur Zertifizierung von für die Instandhaltung von Fahrzeugen zuständigen Stellen gemäß der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 445/2011 der Kommission, ABl L 139 I vom 27.5.2019, S. 360.
+– Durchführungsverordnung (EU) 2019/779 der Kommission vom 16. Mai 2019 mit Durchführungsbestimmungen für ein System zur Zertifizierung von für die Instandhaltung von Fahrzeugen zuständigen Stellen gemäß der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 445/2011 der Kommission, ABl L 139 I vom 27.5.2019, S. 360.
 
-Empfehlung (EU) 2019/780 der Kommission vom 16. Mai 2019 über praktische Festlegungen für die Ausstellung von Sicherheitsgenehmigungen für Infrastrukturbetreiber, ABl. L 139 I vom 27.5.2019, S. 390.
+– Empfehlung (EU) 2019/780 der Kommission vom 16. Mai 2019 über praktische Festlegungen für die Ausstellung von Sicherheitsgenehmigungen für Infrastrukturbetreiber, ABl. L 139 I vom 27.5.2019, S. 390.
 
-Durchführungsbeschluss (EU) 2020/453 der Kommission vom 27. März 2020 über die harmonisierten Normen für Eisenbahnprodukte zur Unterstützung der Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft, ABl. L 95 vom 30.3.2020, S. 1.
+– Durchführungsverordnung (EU) 2020/572 der Kommission vom 24. April 2020 über die zu befolgende Berichterstattungsstruktur für Berichte über die Untersuchung von Eisenbahnunfällen und -störungen, ABl. L 132 vom 27.4.2020, S. 10).
 
-Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (Neufassung), ABl. L 172 vom 17.5.2021, S. 1.
+– Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (Neufassung), ABl. L 172 vom 17.5.2021, S. 1.
 
-Durchführungsverordnung (EU) 2023/1693 der Kommission vom 10. August 2023 zur Änderung der Durchführungsverordnung (EU) 2019/773 der Kommission über die technische Spezifikation für die Interoperabilität des Teilsystems «Verkehrsbetrieb und Verkehrssteuerung» des Eisenbahnsystems in der Europäischen Union, ABl. L 222 vom 8.9.2023, S. 1.
+– Durchführungsverordnung (EU) 2023/1693 der Kommission vom 10. August 2023 zur Änderung der Durchführungsverordnung (EU) 2019/773 der Kommission über die technische Spezifikation für die Interoperabilität des Teilsystems «Verkehrsbetrieb und Verkehrssteuerung» des Eisenbahnsystems in der Europäischen Union, ABl. L 222 vom 8.9.2023, S. 1.
 
-Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023 zur Änderung der Verordnungen (EU) Nr. 321/2013, (EU) Nr. 1299/2014, (EU) Nr. 1300/2014, (EU) Nr. 1301/2014, (EU) Nr. 1302/2014, (EU) Nr. 1304/2014 und der Durchführungsverordnung (EU) 2019/777, ABl. L 222 vom 8.9.2023, S. 88.
+– Durchführungsverordnung (EU) 2023/1694 der Kommission vom 10. August 2023 zur Änderung der Verordnungen (EU) Nr. 321/2013, (EU) Nr. 1299/2014, (EU) Nr. 1300/2014, (EU) Nr. 1301/2014, (EU) Nr. 1302/2014, (EU) Nr. 1304/2014 und der Durchführungsverordnung (EU) 2019/777, ABl. L 222 vom 8.9.2023, S. 88.
 
-Durchführungsverordnung (EU) 2023/1695 der Kommission vom 10. August 2023 über die technische Spezifikation für die Interoperabilität der Teilsysteme «Zugsteuerung, Zugsicherung und Signalgebung» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Verordnung (EU) 2016/919, ABl. L 222 vom 8.9.2023, S. 380.
+– Durchführungsverordnung (EU) 2023/1695 der Kommission vom 10. August 2023 über die technische Spezifikation für die Interoperabilität der Teilsysteme «Zugsteuerung, Zugsicherung und Signalgebung» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Verordnung (EU) 2016/919, ABl. L 222 vom 8.9.2023, S. 380.
 
 In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
 - − CH-TSI CCS-003 (Version 2.1, Juni 2024): Aktivierung/Deaktivierung der Weiterleitung des Pakets 44 an SIGNUM/ZUB;
-- − CH-TSI CCS-006 (Version 3.0, November 2024): Verlust «non leading permitted» in der Betriebsart «Non Leading» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
+- − CH-TSI CCS-006 (Version 3.0, Juni 2024): Verlust «non leading permitted» in der Betriebsart «Non Leading» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
 - − CH-TSI CCS-007 (Version 2.2, Juni 2024): Bremskurvenvorgabe für ERTMS/ETCS Baseline 2;
 - − CH-TSI CCS-008 (Version 4.0, Juni 2024): Minimal implementierte Change Requests;
 - − CH-TSI CCS-011 (Version 2.1, Juni 2024): Euroloop-Funktionalität;
 - − CH-TSI CCS-016 (Version 3.1, Juni 2024): Verwendung länderspezifischer Projektierung und Funktionen;
 - − CH-TSI CCS-018 (Version 2.0, Juni 2024): Verbot von Level STM/NTC für SIGNUM/ZUB;
-- − CH-TSI CCS-019 (Version 3.1, Juni 2024): Übernahme und Anzeige von Zugdaten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
+- − CH-TSI CCS-019 (Version 3.1, Juni 2024): Übernahme und Anzeige von Zugdaten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
 - − CH-TSI CCS-022 (Version 2.2, Juni 2024): Rückwärtsfahren in der Betriebsart «Unfitted»;
 - − CH-TSI CCS-023 (Version 2.1, Juni 2024): Anzeige von Textmeldungen;
 - − CH-TSI CCS-024 (Version 4.0, Juni 2024): Flexible Zugdateneingabe;
-- − CH-TSI CCS-026 (Version 2.2, Juni 2024): Online-Monitoring der Streckenausrüstung auf Fahrzeugen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
-- − CH-TSI CCS-032 (Version 2.2, Juni 2024): Einmalige Zugnummerneingabe für die ETCS-Fahrzeugausrüstung und das GSM-R-CabRadio (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
-- − CH-TSI CCS-033 (Version 2.1, Juni 2024): GSM-R Voice Funktionalitäten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
+- − CH-TSI CCS-026 (Version 2.2, Juni 2024): Online-Monitoring der Streckenausrüstung auf Fahrzeugen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
+- − CH-TSI CCS-032 (Version 2.2, Juni 2024): Einmalige Zugnummerneingabe für die ETCS-Fahrzeugausrüstung und das GSM-R-CabRadio (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
+- − CH-TSI CCS-033 (Version 2.1, Juni 2024): GSM-R Voice Funktionalitäten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
 - − CH-TSI CCS-034 (Version 1.1, Juni 2024): Betriebsart «Non Leading»;
-- − CH-TSI CCS-038 (Version 1.2, Juni 2024): Offenbarung bei grosser Aufweitung des Odometrie-Vertrauensintervalls (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen);
-- − CH-CSM-RA-001 (Version 2.1, Juni 2024): Sicherheitsnachweiskonzept für die Erlangung einer ETCS-Zulassung in der Schweiz (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2025 zu überprüfen).
+- − CH-TSI CCS-038 (Version 1.2, Juni 2024): Offenbarung bei grosser Aufweitung des Odometrie-Vertrauensintervalls (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen);
+- − CH-CSM-RA-001 (Version 2.1, Juni 2024): Sicherheitsnachweiskonzept für die Erlangung einer ETCS-Zulassung in der Schweiz (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2023/1695 vereinbar ist; sie ist vor dem 31. Dezember 2027 zu überprüfen).
 
-Durchführungsbeschluss (EU) 2023/1696 der Kommission vom 10. August 2023 zur Änderung des Durchführungsbeschlusses 2011/665/EU bezüglich der Spezifikation für das Europäische Register genehmigter Fahrzeugtypen gemäss Artikel 48 der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L 222 vom 8.9.2023, S. 561.
+– Durchführungsbeschluss (EU) 2023/1696 der Kommission vom 10. August 2023 zur Änderung des Durchführungsbeschlusses 2011/665/EU bezüglich der Spezifikation für das Europäische Register genehmigter Fahrzeugtypen gemäss Artikel 48 der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L 222 vom 8.9.2023, S. 561.
 
-Durchführungsbeschluss (EU) 2023/2584 der Kommission vom 15. November 2023 über harmonisierte Normen für die Interoperabilität der Eisenbahnsysteme zur Unterstützung der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L, 2023/2584, 21.11.2023.
+– Durchführungsbeschluss (EU) 2023/2584 der Kommission vom 15. November 2023 über harmonisierte Normen für die Interoperabilität der Eisenbahnsysteme zur Unterstützung der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L, 2023/2584, 21.11.2023.
 
-Durchführungsverordnung (EU) 2024/949 der Kommission vom 27. März 2024 zur Festlegung eines einheitlichen Formulars für Erstattungs- und Entschädigungsanträge von Fahrgästen im Eisenbahnverkehr bei Verspätungen, verpassten Anschlüssen und Ausfällen von Schienenverkehrsdiensten gemäss der Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates, ABl. L, 2024/949, 2.3.2024.
+– Durchführungsverordnung (EU) 2024/949 der Kommission vom 27. März 2024 zur Festlegung eines einheitlichen Formulars für Erstattungs- und Entschädigungsanträge von Fahrgästen im Eisenbahnverkehr bei Verspätungen, verpassten Anschlüssen und Ausfällen von Schienenverkehrsdiensten gemäss der Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates, ABl. L, 2024/949, 2.3.2024.
 
 ### Abschnitt 5: Sonstige Bereiche
 
-Richtlinie 92/82/EWG des Rates vom 19. Oktober 1992 zur Annäherung der Verbrauchsteuersätze für Mineralöle, ABl. L 316 vom 31.10.1992, S. 19.
+– Richtlinie 92/82/EWG des Rates vom 19. Oktober 1992 zur Annäherung der Verbrauchsteuersätze für Mineralöle, ABl. L 316 vom 31.10.1992, S. 19.
 
-Richtlinie 2004/54/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Strassennetz, ABl. L 167 vom 30.4.2004, S. 39.
+– Richtlinie 2004/54/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Strassennetz, ABl. L 167 vom 30.4.2004, S. 39.
 
-Richtlinie 2008/96/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über ein Sicherheitsmanagement für die Strassenverkehrsinfrastruktur, ABl. L 319, 29.11.2008, S. 59.
+– Richtlinie 2008/96/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über ein Sicherheitsmanagement für die Strassenverkehrsinfrastruktur, ABl. L 319, 29.11.2008, S. 59.
 
-Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004, ABl. L 55 vom 28.2.2011, S. 1.
+– Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004, ABl. L 55 vom 28.2.2011, S. 1.
 
 Anhang 2
 
@@ -1403,13 +1376,11 @@ Anhang 3[^t-3]
 <tr><td>Nationalitätszeichen[^annex3-lvlu1-1] des Mitgliedstaates, der die Lizenz erteilt</td><td></td><td>Bezeichnung der zuständigen Behörde oder Stelle</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Nationalitätszeichen: (B) Belgien, (BG) Bulgarien, (CZ) Tschechische Republik (DK) Dänemark, (D) Deutschland, (EST) Estland, (IRL) Irland, (GR) Griechenland, (E) Spanien, (F) Frankreich, (HR) Kroatien, (I) Italien, (CY) Zypern, (LV) Lettland, (LT) Litauen, (L) Luxemburg, (H) Ungarn, (MT) Malta, (NL) Niederlande, (A) Österreich, (PL) Polen, (P) Portugal, (RO) Rumänien, (SLO) Slowenien, (SK) Slowakische Republik, (FIN) Finnland, (S) Schweden, (UK) Vereinigtes Königreich.
+**Lizenz Nr. ……..** **oder** **beglaubigte Kopie der Gemeinschaftslizenz Nr. ……..**
 
-## Lizenz Nr. …….. oder beglaubigte Kopie der Gemeinschaftslizenz Nr. ……..
+für den grenzüberschreitenden gewerblichen Güterkraftverkehr
 
-## für den grenzüberschreitenden gewerblichen Güterkraftverkehr
-
-Diese Lizenz berechtigt[^annex3-lvlu3-1]
+Diese Lizenz berechtigt[^annex3-lvlu1-2]
 
 auf allen Verkehrsverbindungen für die Wegstrecken in der Gemeinschaft zum grenzüberschreitenden gewerblichen Güterkraftverkehr im Sinne der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs und der allgemeinen Bestimmungen dieser Lizenz.
 
@@ -1417,7 +1388,7 @@ auf allen Verkehrsverbindungen für die Wegstrecken in der Gemeinschaft zum gren
 <tr><td colspan="2">Besondere Anmerkungen: ……………………………………………………………………………………………………………………. ……………………………………………………………………………………………………………………. …………………………………………………………………………………………………………………….</td></tr>
 <tr><td>Dieses Lizenz ist gültig vom ……………………………………………………………..</td><td>bis …………………………………………….</td></tr>
 <tr><td>Erteilt in ………………………………………………</td><td>am ……………………………………………………</td></tr>
-<tr><td colspan="2">………………………………………………………………………..[^annex3-lvlu3-2]</td></tr>
+<tr><td colspan="2">………………………………………………………………………..[^annex3-lvlu1-3]</td></tr>
 </table>
 
 (b)
@@ -1426,10 +1397,7 @@ auf allen Verkehrsverbindungen für die Wegstrecken in der Gemeinschaft zum gren
 
 (Wortlaut in der, in den oder in einer der Amtssprachen des Mitgliedstaats, der die Lizenz erteilt)
 
-[^annex3-lvlu3-1]: Name oder Firma und vollständige Anschrift des Transportunternehmers
-[^annex3-lvlu3-2]: Unterschrift und Dienstsiegel der zuständigen Behörde oder Stelle, die die Lizenz erteilt.
-
-## Allgemeine Bestimmungen
+**Allgemeine Bestimmungen**
 
 Diese Lizenz wird gemäss der Verordnung (EG) Nr. 1072/2009 erteilt.
 
@@ -1451,13 +1419,16 @@ Sie kann von der zuständigen Behörde des Mitgliedstaats, der sie ausgestellt h
 
 Das Original der Lizenz ist vom Transportunternehmen aufzubewahren.
 
-Eine beglaubigte Abschrift der Lizenz ist im Fahrzeug mitzuführen[^annex3-lvlu4-1]. Bei Fahrzeugkombinationen ist sie im Kraftfahrzeug mitzuführen. Sie gilt für die gesamte Fahrzeugkombination auch dann, wenn der Anhänger oder Sattelanhänger nicht auf den Namen des Lizenzinhabers amtlich zugelassen oder zum Verkehr zugelassen sind oder wenn sie in einem anderen Staat amtlich zugelassen oder zum Verkehr zugelassen sind.
+Eine beglaubigte Abschrift der Lizenz ist im Fahrzeug mitzuführen[^annex3-lvlu1-4]. Bei Fahrzeugkombinationen ist sie im Kraftfahrzeug mitzuführen. Sie gilt für die gesamte Fahrzeugkombination auch dann, wenn der Anhänger oder Sattelanhänger nicht auf den Namen des Lizenzinhabers amtlich zugelassen oder zum Verkehr zugelassen sind oder wenn sie in einem anderen Staat amtlich zugelassen oder zum Verkehr zugelassen sind.
 
 Die Lizenz ist den Kontrollberechtigten auf Verlangen vorzuzeigen.
 
 Der Lizenzinhaber ist verpflichtet, im Gebiet jedes Mitgliedstaats die im jeweiligen Staat geltenden Rechts- und Verwaltungsvorschriften, insbesondere für Beförderungen und für den Straßenverkehr, einzuhalten.
 
-[^annex3-lvlu4-1]: «Fahrzeug» ist ein in einem Mitgliedstaat amtlich zugelassenes Kraftfahrzeug oder eine Fahrzeugkombination, bei der zumindest das Kraftfahrzeug in einem Mitgliedstaat amtlich zugelassen ist, sofern sie ausschliesslich für die Güterbeförderung verwendet werden.
+[^annex3-lvlu1-1]: Nationalitätszeichen: (B) Belgien, (BG) Bulgarien, (CZ) Tschechische Republik (DK) Dänemark, (D) Deutschland, (EST) Estland, (IRL) Irland, (GR) Griechenland, (E) Spanien, (F) Frankreich, (HR) Kroatien, (I) Italien, (CY) Zypern, (LV) Lettland, (LT) Litauen, (L) Luxemburg, (H) Ungarn, (MT) Malta, (NL) Niederlande, (A) Österreich, (PL) Polen, (P) Portugal, (RO) Rumänien, (SLO) Slowenien, (SK) Slowakische Republik, (FIN) Finnland, (S) Schweden, (UK) Vereinigtes Königreich.
+[^annex3-lvlu1-2]: Name oder Firma und vollständige Anschrift des Transportunternehmers
+[^annex3-lvlu1-3]: Unterschrift und Dienstsiegel der zuständigen Behörde oder Stelle, die die Lizenz erteilt.
+[^annex3-lvlu1-4]: «Fahrzeug» ist ein in einem Mitgliedstaat amtlich zugelassenes Kraftfahrzeug oder eine Fahrzeugkombination, bei der zumindest das Kraftfahrzeug in einem Mitgliedstaat amtlich zugelassen ist, sofern sie ausschliesslich für die Güterbeförderung verwendet werden.
 
 Anhang 4[^t-4]
 
@@ -1497,7 +1468,7 @@ Anhang 5[^t-5]
 <tr><td>Belgien</td><td>25.02.1975[^annex5-lvlu1-3]</td><td>24.07.1975</td><td>Art. 4 Ziff. 1 Bst. b Echter Dreiländerverkehr zugelassen, unechter Dreiländerverkehr untersagt.</td></tr>
 <tr><td>Bulgarien</td><td>30.05.1974[^annex5-lvlu1-4]</td><td>03.10.1974</td><td>Art. 4 Abs. 1 Bst. b und Art. 4 Abs. 2 Echter Dreiländerverkehr zugelassen, kontingentierte Genehmigungen für unechten Dreiländerverkehr.</td></tr>
 <tr><td>Kroatien</td><td>30.06.1995[^annex5-lvlu1-5]</td><td>17.05.1996</td><td>Art. 4 Bst. b Echter und unechter Dreiländerverkehr zugelassen.</td></tr>
-<tr><td>Dänemark</td><td>27.08.1981[^annex5-lvlu1-6]</td><td>25.03.1982</td><td>Art. 4 Ziff. 2 Fahrten mit Ausgangsort in einem Drittland und Bestimmungsort im Land der anderen Vertragspartei oder mit Ausgangsort im Land der anderen Vertragspartei und Bestimmungsort in einem Drittland bedürfen von Fall zu Fall der Genehmigung durch die andere Vertragspartei.</td></tr>
+<tr><td>Dänemark</td><td>27.08.1981[^annex5-lvlu1-6]</td><td>25.03.1982</td><td>Art. 4 Ziff. 2 Fahrten mit Ausgangsort in einem Drittland und Bestimmungsort im Land der anderen Vertragspartei oder mit Ausgangsort im Land der anderen Vertragspartei und Bestimmungsort in einem Drittland bedürfen von Fall zu Fall der Genehmigung.</td></tr>
 <tr><td>Spanien</td><td>23.01.1963[^annex5-lvlu1-7]</td><td>21.08.1963</td><td>Protokoll vom 29. Oktober 1971 Echter Dreiländerverkehr zugelassen, unechter Dreiländerverkehr untersagt.</td></tr>
 <tr><td>Estland</td><td>25.06.1997[^annex5-lvlu1-8]</td><td>27.08.1997</td><td>Art. 4 Bst. b Echter und unechter Dreiländerverkehr zugelassen.</td></tr>
 <tr><td>Finnland</td><td>16.01.1980[^annex5-lvlu1-9]</td><td>28.05.1981</td><td>*Art. 6 Ziff**.* *2 und Protokoll* der Sitzung des Gemischten Ausschusses Finnland-Schweiz vom 23. und 24 Mai 1989 zu Punkt 2.2: echter und unechter Dreiländerverkehr sind mit Genehmigung zulässig.</td></tr>
@@ -1516,47 +1487,47 @@ Anhang 5[^t-5]
 <tr><td>Rumänien</td><td>02.09.1977[^annex5-lvlu1-20]</td><td>30.03.1978</td><td>Art. 5 Kontingentierte Genehmigungen für den echten Dreiländerverkehr. Der unechte Dreiländerverkehr ist untersagt.</td></tr>
 <tr><td>Slowakei</td><td>13.11.1997[^annex5-lvlu1-21]</td><td>26.01.1998</td><td>Art. 4 Bst. b Echter und unechter Dreiländerverkehr zugelassen.</td></tr>
 <tr><td>Slowenien</td><td>15.10.1998[^annex5-lvlu1-22]</td><td>06.07.1999</td><td>Art. 4 Bst. b Echter und unechter Dreiländerverkehr zugelassen.</td></tr>
-<tr><td>Schweden</td><td>12.12.1973[^annex5-lvlu1-23]</td><td>22.04.1974</td><td>Art. 4 Ziff. 1 und 2 Dreiländerverkehr zulässig über kontingentierte Sondergenehmigung</td></tr>
+<tr><td>Schweden</td><td>12.12.1973[^annex5-lvlu1-23]</td><td>22.04.1974</td><td>Art. 4 Ziff. 1 und 2 Dreiländerverkehr zulässig über kontingentierte Sondergenehmigung.</td></tr>
 <tr><td colspan="4">Echter Dreiländerverkehr: Das Fahrzeug durchfährt auf der gewöhnlichen Route den Zulassungsstaat. Beispiel: Schweizerisches Fahrzeug führt einen Transport von Deutschland nach Italien im Transit durch die Schweiz durch. Unechter Dreiländerverkehr: Das Fahrzeug durchfährt den Zulassungsstaat nicht. Beispiel: Schweizerisches Fahrzeug führt einen Transport von Deutschland nach Italien im Transit durch Österreich durch.</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [SR 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
-[^annex5-lvlu1-2]: [SR 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
-[^annex5-lvlu1-3]: [SR 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
-[^annex5-lvlu1-4]: [SR 0.741.619.214](https://fedlex.data.admin.ch/eli/cc/1974/1638_1638_1638)
-[^annex5-lvlu1-5]: [SR 0.741.619.291](https://fedlex.data.admin.ch/eli/cc/1996/1927_1927_1927)
-[^annex5-lvlu1-6]: [SR 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
-[^annex5-lvlu1-7]: [SR 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
-[^annex5-lvlu1-8]: [SR 0.741.619.334](https://fedlex.data.admin.ch/eli/cc/2003/352)
-[^annex5-lvlu1-9]: [SR 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
-[^annex5-lvlu1-10]: [SR 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
-[^annex5-lvlu1-11]: [SR 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
-[^annex5-lvlu1-12]: [SR 0.741.619.418](https://fedlex.data.admin.ch/eli/cc/1980/1428_1428_1428)
-[^annex5-lvlu1-13]: [SR 0.741.619.487](https://fedlex.data.admin.ch/eli/cc/2001/226)
-[^annex5-lvlu1-14]: [SR 0.741.619.516](https://fedlex.data.admin.ch/eli/cc/2003/213)
-[^annex5-lvlu1-15]: [SR 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
-[^annex5-lvlu1-16]: [SR 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
-[^annex5-lvlu1-17]: [SR 0.741.619.649](https://fedlex.data.admin.ch/eli/cc/1977/1659_1659_1659)
-[^annex5-lvlu1-18]: [SR 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
-[^annex5-lvlu1-19]: [SR 0.741.619.741](https://fedlex.data.admin.ch/eli/cc/1976/863_863_863)
-[^annex5-lvlu1-20]: [SR 0.741.619.663](https://fedlex.data.admin.ch/eli/cc/1978/343_343_343)
-[^annex5-lvlu1-21]: [SR 0.741.619.690](https://fedlex.data.admin.ch/eli/cc/2000/314)
-[^annex5-lvlu1-22]: [SR 0.741.619.691](https://fedlex.data.admin.ch/eli/cc/2002/180)
-[^annex5-lvlu1-23]: [SR 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+[^annex5-lvlu1-1]: [SR 0.741.619.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2868)
+[^annex5-lvlu1-2]: [SR 0.741.619.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2869)
+[^annex5-lvlu1-3]: [SR 0.741.619.172](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2874)
+[^annex5-lvlu1-4]: [SR 0.741.619.214](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2876)
+[^annex5-lvlu1-5]: [SR 0.741.619.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2877)
+[^annex5-lvlu1-6]: [SR 0.741.619.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2878)
+[^annex5-lvlu1-7]: [SR 0.741.619.332](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2880)
+[^annex5-lvlu1-8]: [SR 0.741.619.334](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2881)
+[^annex5-lvlu1-9]: [SR 0.741.619.345](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2883)
+[^annex5-lvlu1-10]: [SR 0.741.619.349.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2884)
+[^annex5-lvlu1-11]: [SR 0.741.619.372](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2889)
+[^annex5-lvlu1-12]: [SR 0.741.619.418](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2890)
+[^annex5-lvlu1-13]: [SR 0.741.619.487](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2897)
+[^annex5-lvlu1-14]: [SR 0.741.619.516](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2905)
+[^annex5-lvlu1-15]: [SR 0.741.619.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2907)
+[^annex5-lvlu1-16]: [SR 0.741.619.636](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2913)
+[^annex5-lvlu1-17]: [SR 0.741.619.649](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2914)
+[^annex5-lvlu1-18]: [SR 0.741.619.654](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2916)
+[^annex5-lvlu1-19]: [SR 0.741.619.741](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2925)
+[^annex5-lvlu1-20]: [SR 0.741.619.663](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2917)
+[^annex5-lvlu1-21]: [SR 0.741.619.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2921)
+[^annex5-lvlu1-22]: [SR 0.741.619.691](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2922)
+[^annex5-lvlu1-23]: [SR 0.741.619.714](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2923)
 
 Anhang 6
 
 ## Ausnahmen von der Gewichtsbegrenzung und vom Nacht‑ und Sonntagsfahrverbot
 
-## I. Ausnahmen von der Gewichtsbegrenzung für den Zeitraum bis zum 31. Dezember 2004
+### I. Ausnahmen von der Gewichtsbegrenzung für den Zeitraum bis zum 31. Dezember 2004
 
-Bei Fahrten aus dem Ausland in das schweizerische Grenzgebiet[^annex6-lvlI-1] (und umgekehrt) werden für sämtliche Güter bis zu einem Gesamtgewicht von 40 Tonnen und für die Beförderung von 40 Fuss langen ISO-Containern im kombinierten Verkehr bis zu einem Gesamtgewicht von 44 Tonnen Ausnahmen gebührenfrei genehmigt. Aus strassenbautechnischen Gründen schreiben einige Zollämter niedrigere Gewichte vor.
+Bei Fahrten aus dem Ausland in das schweizerische Grenzgebiet[^annex6-lvlu1-lvlI-1] (und umgekehrt) werden für sämtliche Güter bis zu einem Gesamtgewicht von 40 Tonnen und für die Beförderung von 40 Fuss langen ISO-Containern im kombinierten Verkehr bis zu einem Gesamtgewicht von 44 Tonnen Ausnahmen gebührenfrei genehmigt. Aus strassenbautechnischen Gründen schreiben einige Zollämter niedrigere Gewichte vor.
 
-[^annex6-lvlI-1]: Das Grenzgebiet wird in Anhang 4 des Sitzungsberichts der 5. Sitzung des gemäss dem Abkommen von 1992 eingesetzten Gemischten Ausschusses definiert, die am 2. April 1998 in Brüssel stattgefunden hat. In der Regel handelt es sich um das Gebiet im Umkreis von 10 km einer Zollstelle.
+[^annex6-lvlu1-lvlI-1]: Das Grenzgebiet wird in Anhang 4 des Sitzungsberichts der 5. Sitzung des gemäss dem Abkommen von 1992 eingesetzten Gemischten Ausschusses definiert, die am 2. April 1998 in Brüssel stattgefunden hat. In der Regel handelt es sich um das Gebiet im Umkreis von 10 km einer Zollstelle.
 
-## II. Sonstige Ausnahmen von der Gewichtsbegrenzung
+### II. Sonstige Ausnahmen von der Gewichtsbegrenzung
 
-Bei Fahrten aus dem Ausland zu einem Ort ausserhalb des schweizerischen Grenzgebiets[^annex6-lvlII-1] (und umgekehrt) sowie für den Transit durch die Schweiz kann für die nicht unter Artikel 8 fallenden Fahrten ein tatsächliches Gesamtgewicht in beladenem Zustand genehmigt werden, das über dem in der Schweiz zugelassenen Höchstgewicht liegt:
+Bei Fahrten aus dem Ausland zu einem Ort ausserhalb des schweizerischen Grenzgebiets[^annex6-lvlu1-lvlII-1] (und umgekehrt) sowie für den Transit durch die Schweiz kann für die nicht unter Artikel 8 fallenden Fahrten ein tatsächliches Gesamtgewicht in beladenem Zustand genehmigt werden, das über dem in der Schweiz zugelassenen Höchstgewicht liegt:
 
 - a) für die Beförderung unteilbarer Güter, wenn die Vorschriften trotz der Verwendung eines geeigneten Fahrzeugs nicht eingehalten werden können;
 - b) für die Überführung und Verwendung von Ausnahmefahrzeugen, namentlich Arbeitsfahrzeugen, die wegen ihrer Zweckbestimmung den Gewichtsvorschriften nicht entsprechen können;
@@ -1564,9 +1535,9 @@ Bei Fahrten aus dem Ausland zu einem Ort ausserhalb des schweizerischen Grenzgeb
 - d) für Güterbeförderungen zur Versorgung von Flugzeugen (*Catering*);
 - e) für den Strassenvor- und -nachlauf im kombinierten Verkehr, in der Regel im Umkreis von 30 km eines Terminals.
 
-[^annex6-lvlII-1]: Das Grenzgebiet wird in Anhang 4 des Sitzungsberichts der 5. Sitzung des gemäss dem Abkommen von 1992 eingesetzten Gemischten Ausschusses definiert, die am 2. April 1998 in Brüssel stattgefunden hat. In der Regel handelt es sich um das Gebiet im Umkreis von 10 km einer Zollstelle.
+[^annex6-lvlu1-lvlII-1]: Das Grenzgebiet wird in Anhang 4 des Sitzungsberichts der 5. Sitzung des gemäss dem Abkommen von 1992 eingesetzten Gemischten Ausschusses definiert, die am 2. April 1998 in Brüssel stattgefunden hat. In der Regel handelt es sich um das Gebiet im Umkreis von 10 km einer Zollstelle.
 
-## III. Ausnahmen vom Nacht- und Sonntagsfahrverbot
+### III. Ausnahmen vom Nacht- und Sonntagsfahrverbot
 
 Vom Sonntags- und Nachtfahrverbot sollen ausgenommen sein:
 
@@ -1603,23 +1574,23 @@ Anhang 7[^t-6]
 Im Sinne dieses Abkommens gelten nachstehende Begriffsbestimmungen:
 
 - 1\. *Linienverkehr*
-- 1\.1 Linienverkehr ist die regelmässige Beförderung von Fahrgästen auf einer bestimmten Verkehrsverbindung, wobei Fahrgäste an vorher festgelegten Haltestellen aufgenommen oder abgesetzt werden können. Linienverkehr ist ungeachtet einer etwaigen Verpflichtung zur Buchung für jedermann zugänglich.
+- 1\.1. Linienverkehr ist die regelmässige Beförderung von Fahrgästen auf einer bestimmten Verkehrsverbindung, wobei Fahrgäste an vorher festgelegten Haltestellen aufgenommen oder abgesetzt werden können. Linienverkehr ist ungeachtet einer etwaigen Verpflichtung zur Buchung für jedermann zugänglich.
 - Eine Anpassung der Beförderungsbedingungen eines solchen Verkehrsdienstes beeinträchtigt nicht seinen Charakter als Linienverkehr.
-- 1\.2 Als Linienverkehr gilt unabhängig davon, wer Veranstalter der Fahrten ist, auch die regelmässige Beförderung bestimmter Gruppen von Fahrgästen unter Ausschluss anderer Fahrgäste, soweit solche Verkehrsdienste entsprechend Nummer 1.1 betrieben werden. Solche Verkehrsdienste werden im Folgenden als «Sonderformen des Linienverkehrs» bezeichnet.
+- 1\.2. Als Linienverkehr gilt unabhängig davon, wer Veranstalter der Fahrten ist, auch die regelmässige Beförderung bestimmter Gruppen von Fahrgästen unter Ausschluss anderer Fahrgäste, soweit solche Verkehrsdienste entsprechend Nummer 1.1 betrieben werden. Solche Verkehrsdienste werden im Folgenden als «Sonderformen des Linienverkehrs» bezeichnet.
 -
 
   Zu den Sonderformen des Linienverkehrs zählen insbesondere:
 
   - a) die Beförderung von Arbeitnehmern zwischen Wohnort und Arbeitsstätte;
   - b) die Beförderung von Schülern und Studenten zwischen Wohnort und Lehranstalt.
-  - Die Regelmässigkeit der Sonderformen des Linienverkehrs wird nicht dadurch berührt, dass der Ablauf wechselnden Bedürfnissen der Nutzer angepasst wird.
 
-- 1\.3 Die Durchführung von parallelen oder zeitlich befristeten Verkehrsdiensten, die auf die Benutzer der bestehenden Liniendienste ausgerichtet sind, die Nichtbedienung bestimmter Haltestellen oder die Bedienung zusätzlicher Haltestellen durch bestehende Liniendienste unterliegen den gleichen Regeln wie die bestehenden Liniendienste.
+- Die Regelmässigkeit der Sonderformen des Linienverkehrs wird nicht dadurch berührt, dass der Ablauf wechselnden Bedürfnissen der Nutzer angepasst wird.
+- 1\.3. Die Durchführung von parallelen oder zeitlich befristeten Verkehrsdiensten, die auf die Benutzer der bestehenden Liniendienste ausgerichtet sind, die Nichtbedienung bestimmter Haltestellen oder die Bedienung zusätzlicher Haltestellen durch bestehende Liniendienste unterliegen den gleichen Regeln wie die bestehenden Liniendienste.
 - 2\. *Gelegenheitsverkehr*
-- 2\.1 Gelegenheitsverkehr ist der Verkehrsdienst, der nicht der Begriffsbestimmung des Linienverkehrs, einschliesslich der Sonderformen des Linienverkehrs, entspricht und für den insbesondere kennzeichnend ist, dass auf Initiative eines Auftraggebers oder des Verkehrsunternehmers selbst vorab gebildete Fahrgastgruppen befördert werden.
+- 2\.1. Gelegenheitsverkehr ist der Verkehrsdienst, der nicht der Begriffsbestimmung des Linienverkehrs, einschliesslich der Sonderformen des Linienverkehrs, entspricht und für den insbesondere kennzeichnend ist, dass auf Initiative eines Auftraggebers oder des Verkehrsunternehmers selbst vorab gebildete Fahrgastgruppen befördert werden.
 - Die Durchführung von parallelen oder zeitlich befristeten Verkehrsdiensten, die mit bestehenden Liniendiensten vergleichbar und auf deren Benutzer ausgerichtet sind, unterliegt der Pflicht zur Genehmigung nach dem in Abschnitt I festlegten Verfahren.
-- 2\.2 Die in dieser Nummer 2 genannten Fahrten verlieren die Eigenschaft des Gelegenheitsverkehrs auch dann nicht, wenn sie mit einer gewissen Häufigkeit ausgeführt werden.
-- 2\.3 Gelegenheitsverkehr kann von einer Gruppe von Beförderungsunternehmen betrieben werden, die für Rechnung desselben Auftraggebers tätig sind.
+- 2\.2. Die in dieser Nummer 2 genannten Fahrten verlieren die Eigenschaft des Gelegenheitsverkehrs auch dann nicht, wenn sie mit einer gewissen Häufigkeit ausgeführt werden.
+- 2\.3. Gelegenheitsverkehr kann von einer Gruppe von Beförderungsunternehmen betrieben werden, die für Rechnung desselben Auftraggebers tätig sind.
 - Die Namen dieser Beförderungsunternehmen sowie gegebenenfalls die Anschlussverbindungen auf der Strecke werden den zuständigen Behörden der betreffenden Mitgliedstaaten der Europäischen Union und der Schweiz nach Verfahren übermittelt, die vom Gemischten Ausschuss festzulegen sind.
 - 3\. *Werkverkehr*
 -
@@ -1675,7 +1646,7 @@ In diesem Fall hat der Verkehrsunternehmer dafür zu sorgen, dass folgende Dokum
 <sup>(3)</sup> Der Antragsteller legt zur Begründung seines Genehmigungsantrags alle zusätzlichen Informationen vor, die er für zweckdienlich hält oder um die die Genehmigungsbehörde ersucht, insbesondere einen Fahrplan, anhand dessen die Einhaltung der Rechtsvorschriften über die Lenk- und Ruhezeiten überprüft werden kann, sowie eine Kopie der Gemeinschaftslizenz für die gewerbliche Personenbeförderung im grenzüberschreitenden Verkehr auf der Strasse, wenn es sich um einen Verkehrsunternehmer der Europäischen Union handelt, oder eine Kopie der entsprechenden schweizerischen Lizenz, wenn es sich um einen schweizerischen Verkehrsunternehmer handelt, die für den Betrieb des Liniendienstes erteilt wurde.
 
 [^annex7-lvlu1-secI-3-1]: Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/2006, ABl. L 300 vom 14.11.2009, S. 88; zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
-[^annex7-lvlu1-secI-3-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^annex7-lvlu1-secI-3-2]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 4
 
@@ -1859,29 +1830,29 @@ Anhang 8[^t-7]
 <tr><td>Schweden</td><td>12.12.1973[^annex8-lvlu1-23]</td><td>22.04.1974</td><td>Art. 3 – nach nationalem Recht</td></tr>
 </table>
 
-[^annex8-lvlu1-1]: [SR 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
-[^annex8-lvlu1-2]: [SR 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
-[^annex8-lvlu1-3]: [SR 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
-[^annex8-lvlu1-4]: [SR 0.741.619.214](https://fedlex.data.admin.ch/eli/cc/1974/1638_1638_1638)
-[^annex8-lvlu1-5]: [SR 0.741.619.291](https://fedlex.data.admin.ch/eli/cc/1996/1927_1927_1927)
-[^annex8-lvlu1-6]: [SR 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
-[^annex8-lvlu1-7]: [SR 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
-[^annex8-lvlu1-8]: [SR 0.741.619.334](https://fedlex.data.admin.ch/eli/cc/2003/352)
-[^annex8-lvlu1-9]: [SR 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
-[^annex8-lvlu1-10]: [SR 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
-[^annex8-lvlu1-11]: [SR 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
-[^annex8-lvlu1-12]: [SR 0.741.619.418](https://fedlex.data.admin.ch/eli/cc/1980/1428_1428_1428)
-[^annex8-lvlu1-13]: [SR 0.741.619.487](https://fedlex.data.admin.ch/eli/cc/2001/226)
-[^annex8-lvlu1-14]: [SR 0.741.619.516](https://fedlex.data.admin.ch/eli/cc/2003/213)
-[^annex8-lvlu1-15]: [SR 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
-[^annex8-lvlu1-16]: [SR 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
-[^annex8-lvlu1-17]: [SR 0.741.619.649](https://fedlex.data.admin.ch/eli/cc/1977/1659_1659_1659)
-[^annex8-lvlu1-18]: [SR 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
-[^annex8-lvlu1-19]: [SR 0.741.619.741](https://fedlex.data.admin.ch/eli/cc/1976/863_863_863)
-[^annex8-lvlu1-20]: [SR 0.741.619.663](https://fedlex.data.admin.ch/eli/cc/1978/343_343_343)
-[^annex8-lvlu1-21]: [SR 0.741.619.690](https://fedlex.data.admin.ch/eli/cc/2000/314)
-[^annex8-lvlu1-22]: [SR 0.741.619.691](https://fedlex.data.admin.ch/eli/cc/2002/180)
-[^annex8-lvlu1-23]: [SR 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+[^annex8-lvlu1-1]: [SR 0.741.619.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2868)
+[^annex8-lvlu1-2]: [SR 0.741.619.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2869)
+[^annex8-lvlu1-3]: [SR 0.741.619.172](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2874)
+[^annex8-lvlu1-4]: [SR 0.741.619.214](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2876)
+[^annex8-lvlu1-5]: [SR 0.741.619.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2877)
+[^annex8-lvlu1-6]: [SR 0.741.619.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2878)
+[^annex8-lvlu1-7]: [SR 0.741.619.332](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2880)
+[^annex8-lvlu1-8]: [SR 0.741.619.334](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2881)
+[^annex8-lvlu1-9]: [SR 0.741.619.345](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2883)
+[^annex8-lvlu1-10]: [SR 0.741.619.349.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2884)
+[^annex8-lvlu1-11]: [SR 0.741.619.372](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2889)
+[^annex8-lvlu1-12]: [SR 0.741.619.418](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2890)
+[^annex8-lvlu1-13]: [SR 0.741.619.487](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2897)
+[^annex8-lvlu1-14]: [SR 0.741.619.516](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2905)
+[^annex8-lvlu1-15]: [SR 0.741.619.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2907)
+[^annex8-lvlu1-16]: [SR 0.741.619.636](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2913)
+[^annex8-lvlu1-17]: [SR 0.741.619.649](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2914)
+[^annex8-lvlu1-18]: [SR 0.741.619.654](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2916)
+[^annex8-lvlu1-19]: [SR 0.741.619.741](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2925)
+[^annex8-lvlu1-20]: [SR 0.741.619.663](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2917)
+[^annex8-lvlu1-21]: [SR 0.741.619.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2921)
+[^annex8-lvlu1-22]: [SR 0.741.619.691](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2922)
+[^annex8-lvlu1-23]: [SR 0.741.619.714](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2923)
 
 Anhang 9
 
@@ -1949,7 +1920,7 @@ Die Vertragsparteien erklären, dass die Bestimmungen des Artikels 38 Absatz 6 d
 
 Die Europäische Gemeinschaft und die Schweizerische Eidgenossenschaft erklären, dass sie beabsichtigen, Verhandlungen aufzunehmen im Hinblick auf den Abschluss von Abkommen in Bereichen von gemeinsamem Interesse wie der Aktualisierung des Protokolls 2[^annex10-lvlu2-lvlu2-1] des Freihandelsabkommens von 1972 und der Beteiligung der Schweiz an bestimmten Gemeinschaftsprogrammen in den Bereichen Bildung, Jugend, Medien, Statistik und Umwelt. Diese Verhandlungen sollten bald nach Abschluss der derzeitigen bilateralen Verhandlungen vorbereitet werden.
 
-[^annex10-lvlu2-lvlu2-1]: [SR 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^annex10-lvlu2-lvlu2-1]: [SR 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 ### Erklärung zur Teilnahme der Schweiz an den Ausschüssen
 
@@ -1982,6 +1953,5 @@ Die Schweiz erklärt, dass sie die tatsächlich anwendbaren Sätze für die in A
 
 Um die Zollabfertigung an den Strassengrenzübergangsstellen zwischen der Europäischen Union und der Schweiz zu erleichtern, verpflichtet sich die Schweiz, die nachstehenden Massnahmen anzunehmen, die im Laufe des Jahres 1999 von dem im Rahmen des Abkommens von 1992 eingesetzten Gemeinsamen Ausschuss als Priorität verabschiedet werden:
 
-In Zusammenarbeit mit den Zollämtern ihrer Nachbarländer sorgt die Schweiz dafür, dass die Geschäftszeiten der Zollämter an den wichtigsten Grenzübergangsstellen lang genug sind, um zu gewährleisten, dass die Lastkraftwagen ihre Fahrt durch die Schweiz unmittelbar nach Ablauf des Nachtfahrverbots aufnehmen oder bis zum Beginn des Verbots fortsetzen können. Falls erforderlich, kann zu diesem Zweck eine Sondergebühr zur Deckung der zusätzlichen Kosten erhoben werden. Diese Gebühr sollte allerdings nicht mehr als 8 Sfr. betragen.
-
-In Zusammenarbeit mit den Zollbehörden ihrer Nachbarländer wird die Schweiz für den Grenzübertritt zwischen der Schweiz und der Europäischen Union bis zum 1. Januar 2000 eine Zollabfertigungsdauer für Lastkraftwagen (vom Betreten des ersten bis zum Verlassen des zweiten Zollamts) von 30 Minuten einführen und danach aufrechterhalten.
+- – In Zusammenarbeit mit den Zollämtern ihrer Nachbarländer sorgt die Schweiz dafür, dass die Geschäftszeiten der Zollämter an den wichtigsten Grenzübergangsstellen lang genug sind, um zu gewährleisten, dass die Lastkraftwagen ihre Fahrt durch die Schweiz unmittelbar nach Ablauf des Nachtfahrverbots aufnehmen oder bis zum Beginn des Verbots fortsetzen können. Falls erforderlich, kann zu diesem Zweck eine Sondergebühr zur Deckung der zusätzlichen Kosten erhoben werden. Diese Gebühr sollte allerdings nicht mehr als 8 Sfr. betragen.
+- – In Zusammenarbeit mit den Zollbehörden ihrer Nachbarländer wird die Schweiz für den Grenzübertritt zwischen der Schweiz und der Europäischen Union bis zum 1. Januar 2000 eine Zollabfertigungsdauer für Lastkraftwagen (vom Betreten des ersten bis zum Verlassen des zweiten Zollamts) von 30 Minuten einführen und danach aufrechterhalten.

@@ -3,11 +3,11 @@ sr: "0.740.72"
 title: Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route (avec annexes et acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: fr
-version: 2024-12-13
+version: 2025-12-09
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20241213/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20241213-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20241213/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20251209/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20251209-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20251209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 16 octobre 2000
 
 Entré en vigueur le 1<sup>er</sup> juin 2002
 
-(État le 13 décembre 2024)
+(État le 9 décembre 2025)
 
 [^t-1]: Actuellement: Union européenne.
 [^t-2]: Art. 1 al. 1 let. f de l’AF du 8 oct. 1999 ([RO 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
@@ -528,7 +528,7 @@ Pour promouvoir le transport combiné, les Parties contractantes prennent toutes
 
 <sup>5.</sup> Le Comité mixte établit tous les deux ans un rapport sur la mise en place des mesures visées au présent article.
 
-[^36-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^36-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 ### C. Systèmes de redevances des transports routiers
 
@@ -544,7 +544,7 @@ Conformément aux objectifs du Titre III de l’accord de 1992, les Parties cont
 
 <sup>1.</sup> Les systèmes de redevances sont fondés sur les principes énoncés à l’art. 32, notamment la non-discrimination, la proportionnalité et la transparence.
 
-2 La tarification se compose des impôts sur les véhicules, des taxes sur les carburants et des redevances pour l’utilisation du réseau routier.
+<sup>2.</sup> La tarification se compose des impôts sur les véhicules, des taxes sur les carburants et des redevances pour l’utilisation du réseau routier.
 
 <sup>3.</sup> Dans la réalisation des objectifs mentionnés à l’art. 37 sont choisies de préférence les mesures qui n’occasionnent pas de détournement de trafic par rapport à l’itinéraire techniquement, économiquement et géographiquement le plus adapté entre le point de départ et le point de destination finale du transport.
 
@@ -610,8 +610,8 @@ Au cas où, pendant la période entre la date de signature du présent Accord et
 
 <sup>2.</sup> L’accord du 21 novembre 1990 entre la Communauté économique européenne et la Confédération suisse relatif à la facilitation des contrôles et des formalités lors du transport des marchandises[^43-1], la Convention relative à un régime de transit commun du 20 mai 1987[^43-2] ainsi que, pour le transport ferroviaire, l’accord entre compagnies de chemin de fer sur la visite technique de cession de wagons à marchandises en trafic international servent de base aux mesures prises par les Parties contractantes en application du par. 1.
 
-[^43-1]: [RS 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
-[^43-2]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^43-1]: [RS 0.631.242.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2041)
+[^43-2]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 #### Art. 44
 
@@ -792,12 +792,12 @@ Fait à Luxembourg, le vingt et un juin de l’an mil neuf cent quatre-vingt-dix
 <tr><td>Pour la Confédération suisse: Pascal Couchepin Joseph Deiss</td><td>Pour la Communauté européenne: Joschka Fischer Hans van den Broek</td></tr>
 </table>
 
-[^58-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^58-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^58-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^58-4]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^58-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^58-6]: [RS 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
+[^58-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^58-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^58-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^58-4]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^58-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^58-6]: [RS 0.420.513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1668)
 
 ## Liste des annexes
 
@@ -845,7 +845,7 @@ Annexe 1[^t-3]
 
 ## Dispositions applicables
 
-[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Mise à jour par l’art. 1 des D n<sup>o</sup> 2/2021 du Comité des transports terrestres Communauté/Suisse du 17 déc. 2021 ([RO 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)), n<sup>o</sup> 1/2022 du Comité des transports terrestres Communauté/Suisse du 21 déc. 2022 ([RO 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)), n<sup>o</sup> 1/2023 du Comité des transports terrestres Communauté/Suisse du 14 déc. 2023 ([RO 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)) et n<sup>o</sup> 1/2024 du Comité des transports terrestres Communauté/Suisse du 13 déc. 2024, en vigueur pour la Suisse depuis le 13 déc. 2024 ([RO 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
+[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Mise à jour par l’art. 1 des D n<sup>o</sup> 2/2021 du Comité des transports terrestres Communauté/Suisse du 17 déc. 2021 ([RO 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)), n<sup>o</sup> 1/2022 du Comité des transports terrestres Communauté/Suisse du 21 déc. 2022 ([RO 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)), n<sup>o</sup> 1/2023 du Comité des transports terrestres Communauté/Suisse du 14 déc. 2023 ([RO 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)), n<sup>o</sup> 1/2024 du Comité des transports terrestres Communauté/Suisse du 13 déc. 2024 ([RO 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)) et n<sup>o</sup> 1/2025 du Comité des transports terrestres Communauté/Suisse du 9 déc. 2025, en vigueur pour la Suisse depuis le 9 déc. 2025 ([RO 2026 69](https://fedlex.data.admin.ch/eli/oc/2026/69)).
 
 Conformément à l’art. 52, par. 6, du présent Accord, la Suisse applique des dispositions légales équivalentes aux dispositions mentionnées ci-dessous:
 
@@ -925,21 +925,21 @@ Véhicules à moteur
 
 – Directive 2014/45/UE du Parlement européen et du Conseil du 3 avril 2014 relative au contrôle technique périodique des véhicules à moteur et de leurs remorques, et abrogeant la directive 2009/40/CE (JO L 127 du 29.4.2014, p. 51).
 
-– Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 16 avril 2014 concernant le niveau sonore des véhicules à moteur et des systèmes de silencieux de remplacement, et modifiant la directive 2007/46/CE et abrogeant la directive 70/157/CEE (JO L 158 du 27.5.2014, p. 131), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2019/839 de la Commission du 7 mars 2019 (JO L 138 du 24.5.2019, p. 70).
+– Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 16 avril 2014 concernant le niveau sonore des véhicules à moteur et des systèmes de silencieux de remplacement, et modifiant la directive 2007/46/CE et abrogeant la directive 70/157/CEE (JO L 158 du 27.5.2014, p. 131), modifié en dernier lieu par le règlement (UE) 2019/839 de la Commission du 7 mars 2019 (JO L 138 du 24.5.2019, p. 70).
 
-– Règlement (UE) n<sup>o</sup> 2019/2144 du Parlement européen et du conseil du 27 novembre 2019 relatif aux prescriptions applicables à la réception par type des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leur sécurité générale et la protection des occupants des véhicules et des usagers vulnérables de la route, modifiant le règlement (UE) 2018/858 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 78/2009, (CE) n<sup>o</sup> 79/2009 et (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil et les règlements (CE) n<sup>o</sup> 631/2009, (UE) n<sup>o</sup> 406/2010, (UE) n<sup>o</sup> 672/2010, (UE) n<sup>o</sup> 1003/2010, (UE) n<sup>o</sup> 1005/2010, (UE) n<sup>o</sup> 1008/2010, (UE) n<sup>o</sup> 1009/2010, (UE) n<sup>o</sup> 19/2011, (UE) n<sup>o</sup> 109/2011, (UE) n<sup>o</sup> 458/2011, (UE) n<sup>o</sup> 65/2012, (UE) n<sup>o</sup> 130/2012, (UE) n<sup>o</sup> 347/2012, (UE) n<sup>o</sup> 351/2012, (UE) n<sup>o</sup> 1230/2012 et (UE) 2015/166 de la Commission (JO L 325 du 16.12.2019, p. 1).
+– Règlement (UE) 2019/2144 du Parlement européen et du conseil du 27 novembre 2019 relatif aux prescriptions applicables à la réception par type des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, en ce qui concerne leur sécurité générale et la protection des occupants des véhicules et des usagers vulnérables de la route, modifiant le règlement (UE) 2018/858 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 78/2009, (CE) n<sup>o</sup> 79/2009 et (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil et les règlements (CE) n<sup>o</sup> 631/2009, (UE) n<sup>o</sup> 406/2010, (UE) n<sup>o</sup> 672/2010, (UE) n<sup>o</sup> 1003/2010, (UE) n<sup>o</sup> 1005/2010, (UE) n<sup>o</sup> 1008/2010, (UE) n<sup>o</sup> 1009/2010, (UE) n<sup>o</sup> 19/2011, (UE) n<sup>o</sup> 109/2011, (UE) n<sup>o</sup> 458/2011, (UE) n<sup>o</sup> 65/2012, (UE) n<sup>o</sup> 130/2012, (UE) n<sup>o</sup> 347/2012, (UE) n<sup>o</sup> 351/2012, (UE) n<sup>o</sup> 1230/2012 et (UE) 2015/166 de la Commission (JO L 325 du 16.12.2019, p. 1).
 
-– Règlement délégué (UE) n<sup>o</sup> 2021/1958 de la Commission du 23 juin 2021 complétant le règlement (UE) 2019/2144 du Parlement européen et du Conseil en établissant des règles détaillées relatives aux procédures d’essai et aux prescriptions techniques spécifiques pour la réception par type des véhicules à moteur en ce qui concerne leurs systèmes d’adaptation intelligente de la vitesse et pour la réception par type de ces systèmes en tant qu’entités techniques distinctes et modifiant l’annexe II dudit règlement (JO L 409 du 17.11.2021, p. 1).
+– Règlement délégué (UE) 2021/1958 de la Commission du 23 juin 2021 complétant le règlement (UE) 2019/2144 du Parlement européen et du Conseil en établissant des règles détaillées relatives aux procédures d’essai et aux prescriptions techniques spécifiques pour la réception par type des véhicules à moteur en ce qui concerne leurs systèmes d’adaptation intelligente de la vitesse et pour la réception par type de ces systèmes en tant qu’entités techniques distinctes et modifiant l’annexe II dudit règlement (JO L 409 du 17.11.2021, p. 1).
 
-– Règlement délégué (UE) n<sup>o</sup> 2022/545 de la Commission du 26 janvier 2022 complétant le règlement (UE) 2019/2144 du Parlement européen et du Conseil en établissant des règles détaillées relatives aux procédures d’essai et aux prescriptions techniques spécifiques pour la réception par type des véhicules à moteur en ce qui concerne leur enregistreur de données d’événements et pour la réception par type de ces systèmes en tant qu’entités techniques distinctes et modifiant l’annexe II dudit règlement (JO L 107 du 06.4.2022, p. 18).
+– Règlement délégué (UE) 2022/545 de la Commission du 26 janvier 2022 complétant le règlement (UE) 2019/2144 du Parlement européen et du Conseil en établissant des règles détaillées relatives aux procédures d’essai et aux prescriptions techniques spécifiques pour la réception par type des véhicules à moteur en ce qui concerne leur enregistreur de données d’événements et pour la réception par type de ces systèmes en tant qu’entités techniques distinctes et modifiant l’annexe II dudit règlement (JO L 107 du 06.4.2022, p. 18).
 
-– Règlement délégué (UE) n<sup>o</sup> 2023/2590 de la commission du 13 juillet 2023 complétant le règlement (UE) 2019/2144 du Parlement européen et du Conseil en établissant des règles détaillées relatives aux procédures d’essai et aux prescriptions techniques spécifiques pour la réception par type des véhicules à moteur en ce qui concerne leurs systèmes avancés d’avertissement de distraction du conducteur et modifiant ledit règlement (JO L, 2023/2590, 22.11.2023).
+– Règlement délégué (UE) 2023/2590 de la commission du 13 juillet 2023 complétant le règlement (UE) 2019/2144 du Parlement européen et du Conseil en établissant des règles détaillées relatives aux procédures d’essai et aux prescriptions techniques spécifiques pour la réception par type des véhicules à moteur en ce qui concerne leurs systèmes avancés d’avertissement de distraction du conducteur et modifiant ledit règlement (JO L, 2023/2590, 22.11.2023).
 
 Transport de marchandises dangereuses
 
 – Directive (UE) 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (texte codifié; JO L 274 du 24.10.2022, p. 1).
 
-– Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la directive déléguée (UE) 2022/2407 de la Commission du 20 septembre 2022 (JO L 317 du 9.12.2022, p. 64).
+– Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la directive déléguée (UE) 2025/149 de la Commission du 15 novembre 2024 (JO L 2025/149, 24.1.2025).
 
 Aux fins du présent accord, les dérogations suivantes à la directive 2008/68/CE s’appliquent en Suisse:
 
@@ -1083,15 +1083,9 @@ Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 – Directive 95/19/CE du Conseil du 19 juin 1995 concernant la répartition des capacités d’infrastructure ferroviaire et la perception de redevances d’utilisation de l’infrastructure (JO L 143 du 27.6.1995, p. 75).
 
-– Directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires et modifiant la directive 95/18/CE du Conseil concernant les licences des entreprises ferroviaires, ainsi que la directive 2001/14/CE concernant la répartition des capacités d’infrastructure ferroviaire, la tarification de l’infrastructure ferroviaire et la certification en matière de sécurité (directive sur la sécurité ferroviaire) (JO L 164 du 30.4.2004, p. 44), modifiée en dernier lieu par la directive 2014/88/UE de la Commission du 9 juillet 2014 (JO L 201 du 10.7.2014, p. 9).
-
 – Directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté (JO L 315 du 3.12.2007, p. 51), modifiée en dernier lieu par le règlement (UE) 2019/554 de la Commission du 5 avril 2019 (JO L 97 du 8.4.2019, p. 1).
 
-– Règlement (CE) n<sup>o</sup> 653/2007 de la Commission du 13 juin 2007 sur l’utilisation d’un format européen commun pour les certificats de sécurité et pour les documents de demande, conformément à l’art. 10 de la directive 2004/49/CE du Parlement européen et du Conseil, et sur la validité des certificats de sécurité délivrés en vertu de la directive 2001/14/CE du Parlement européen et du Conseil (JO L 153 du 14.6.2007, p. 9), modifié par le règlement (UE) n<sup>o</sup> 445/2011 de la Commission du 10 mai 2011 (JO L 122 du 11.5.2011, p. 22).
-
 – Décision 2007/756/CE de la Commission du 9 novembre 2007 adoptant une spécification commune du registre national des véhicules prévu aux art. 14, par. 4 et 5, des directives 96/48/CE et 2001/16/CE (JO L 305 du 23.11.2007, p. 30), modifiée par la décision 2011/107/UE de la Commission du 10 février 2011 (JO L 43 du 17.2.2011, p. 33).
-
-– Directive 2008/57/CE du Parlement européen et du Conseil du 17 juin 2008 relative à l’interopérabilité du système ferroviaire au sein de la Communauté (refonte) (JO L 191 du 18.7.2008, p. 1), modifiée en dernier lieu par la directive 2014/38/UE de la Commission du 10 mars 2014 (JO L 70 du 11.3.2014, p. 20).
 
 – Décision 2009/965/CE de la Commission du 30 novembre 2009 relative au document de référence visé à l’art. 27, par. 4, de la directive 2008/57/CE du Parlement européen et du Conseil relative à l’interopérabilité du système ferroviaire au sein de la Communauté (JO L 341 du 22.12.2009, p. 1), modifiée par la décision d’exécution (UE) 2015/2299 de la Commission du 17 novembre 2015 (JO L 324 du 10.12.2015, p. 15).
 
@@ -1102,8 +1096,6 @@ Date d’expiration: 1<sup>er</sup> janvier 2029.
 – Règlement (UE) n<sup>o</sup> 1158/2010 de la Commission du 9 décembre 2010 relatif à une méthode de sécurité commune pour l’évaluation de la conformité aux exigences pour l’obtention de certificats de sécurité ferroviaire (JO L 326 du 10.12.2010, p. 11).
 
 – Règlement (UE) n<sup>o</sup> 1169/2010 de la Commission du 10 décembre 2010 relatif à une méthode de sécurité commune pour l’évaluation de la conformité aux exigences pour l’obtention d’un agrément de sécurité ferroviaire (JO L 327 du 11.12.2010, p. 13).
-
-– Règlement (UE) n<sup>o</sup> 201/2011 du 1<sup>er</sup> mars 2011 relatif au modèle de déclaration de conformité avec un type autorisé de véhicule ferroviaire (JO L 57 du 2.3.2011, p. 8).
 
 – Règlement (UE) n<sup>o</sup> 445/2011 de la Commission du 10 mai 2011 concernant un système de certification des entités chargées de l’entretien des wagons de fret et modifiant le règlement (CE) n<sup>o</sup> 653/2007 (JO L 122 du 11.5.2011, p. 22).
 
@@ -1241,20 +1233,20 @@ Les règles nationales suivantes visées à l’article 6 de la décision n<sup>
 - – CH-TSI LOC&PAS-003 (version 2.1 de juin 2024): Petits rayons r &lt; 250 m;
 - – CH-TSI LOC&PAS-006 (version 2.1 de juin 2024): Homologation de véhicules pendulaires selon catégorie N;
 - – CH-TSI LOC&PAS-007 (version 2.1 de juin 2024): Dispositif de graissage de boudin;
-- – CH-TSI LOC&PAS-009 (version 1.1 de juin 2024): Emissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (UE) 2016/1628, la règle est à réexaminer avant le 31 décembre 2025);
+- – CH-TSI LOC&PAS-009 (version 1.1 de juin 2024): Emissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (UE) 2016/1628, la règle est à réexaminer avant le 31 décembre 2027);
 - – CH-TSI LOC&PAS-012 (version 1.0 de juillet 2016): Admittance;
 - – CH-TSI LOC&PAS-013 (version 1.1 de juin 2024): Interaction pantographe / ligne de contact;
 - – CH-TSI LOC&PAS-014a (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par circuits de voie;
 - – CH-TSI LOC&PAS-014b (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par compteurs d’essieux;
-- – CH-TSI LOC&PAS-019 (version 3.0 de juin 2024): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2025);
-- – CH-TSI LOC&PAS-020 (version 3.0 de juin 2024): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2025);
+- – CH-TSI LOC&PAS-019 (version 3.0 de juin 2024): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2027);
+- – CH-TSI LOC&PAS-020 (version 3.0 de juin 2024): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2027);
 - – CH-TSI LOC&PAS-022 (version 3.0 de juin 2024): Réinitialisation du freinage d’urgence;
-- – CH-TSI LOC&PAS-025 (version 2.2 de juin 2024): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2025);
-- – CH-TSI LOC&PAS-027 (version 3.0 de juin 2024): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2025);
+- – CH-TSI LOC&PAS-025 (version 2.2 de juin 2024): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2027);
+- – CH-TSI LOC&PAS-027 (version 3.0 de juin 2024): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2027);
 - – CH-TSI LOC&PAS-030 (version 2.0 de juin 2021): Utilisation de systèmes de freinage n’agissant pas sur l’adhérence;
-- – CH-TSI LOC&PAS-031 (version 3.0 de juin 2024): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2025);
-- – CH-TSI LOC&PAS-035 (version 2.2 de juin 2024): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2025);
-- – CH-TSI LOC&PAS-036 (version 2.2 de juin 2024): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2025).
+- – CH-TSI LOC&PAS-031 (version 3.0 de juin 2024): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2027);
+- – CH-TSI LOC&PAS-035 (version 2.2 de juin 2024): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2027);
+- – CH-TSI LOC&PAS-036 (version 2.2 de juin 2024): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2027).
 
 – Règlement (UE) n<sup>o</sup> 1303/2014 de la Commission du 18 novembre 2014 concernant la spécification technique d’interopérabilité relative à la sécurité dans les tunnels ferroviaires du système ferroviaire de l’Union européenne (JO L 356 du 12.12.2014, p. 394), modifié en dernier lieu par le règlement d’exécution (UE) 2023/1694 (JO L 222 du 8.9.2023, p. 88).
 
@@ -1315,7 +1307,7 @@ Les règles nationales suivantes visées à l’article 6 de la décision n<sup>
 
 – Recommandation (UE) 2019/780 de la Commission du 16 mai 2019 sur les modalités pratiques de la délivrance d’agréments de sécurité aux gestionnaires de l’infrastructure (JO L 139 I du 27.5.2019, p. 390).
 
-– Décision d’exécution (UE) 2020/453 de la Commission du 27 mars 2020 sur les normes harmonisées relatives aux équipements ferroviaires élaborées à l’appui de la directive 2008/57/CE du Parlement européen et du Conseil relative à l’interopérabilité du système ferroviaire au sein de la Communauté (JO L 95 du 30.3.2020, p. 1).
+– Règlement d’exécution (UE) 2020/572 de la Commission du 24 avril 2020 relatif à la structure de rapport à adopter dans la présentation des rapports d’enquête sur les accidents et les incidents ferroviaires (JO L 132 du 27.4.2020, p. 10).
 
 – Règlement (UE) 2021/782 du Parlement européen et du Conseil du 29 avril 2021 sur les droits et obligations des voyageurs ferroviaires (refonte) (JO L 172 du 17.5.2021, p. 1).
 
@@ -1328,22 +1320,22 @@ Les règles nationales suivantes visées à l’article 6 de la décision n<sup>
 Les règles nationales suivantes visées à l’article 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
 - – CH-TSI CCS-003 (version 2.1 de juin 2024): Activation / désactivation de la transmission du paquet 44 aux systèmes ZUB/SIGNUM;
-- – CH-TSI CCS-006 (version 3.0 de novembre 2024): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2025);
+- – CH-TSI CCS-006 (version 3.0 de juin 2024): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2027);
 - – CH-TSI CCS-007 (version 2.2 de juin 2024): Règle sur les courbes de freinage pour ERTMS/ETCS Baseline 2;
 - – CH-TSI CCS-008 (version 4.0 de juin 2024): Implémentation minimale des «Change Requests»;
 - – CH-TSI CCS-011 (version 2.1 de juin 2024): Fonction Euroloop;
 - – CH-TSI CCS-016 (version 3.1 de juin 2024): Utilisation de paramètres et de fonctions spécifiques au pays;
 - – CH-TSI CCS-018 (version 2.0 de juin 2024): Interdiction des Levels STM/NTC pour ZUB/SIGNUM;
-- – CH-TSI CCS-019 (version 3.1 de juin 2024): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2025);
+- – CH-TSI CCS-019 (version 3.1 de juin 2024): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2027);
 - – CH-TSI CCS-022 (version 2.2 de juin 2024): Marche arrière en mode d’exploitation «Unfitted»;
 - – CH-TSI CCS-023 (version 2.1 de juin 2024): Affichage des messages texte;
 - – CH-TSI CCS-024 (version 4.0 de juin 2024): Saisie flexible des données;
-- – CH-TSI CCS-026 (version 2.2 de juin 2024): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2025);
-- – CH-TSI CCS-032 (version 2.2 de juin 2024): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2025);
-- – CH-TSI CCS-033 (version 2.1 de juin 2024): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2025);
+- – CH-TSI CCS-026 (version 2.2 de juin 2024): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2027);
+- – CH-TSI CCS-032 (version 2.2 de juin 2024): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2027);
+- – CH-TSI CCS-033 (version 2.1 de juin 2024): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2027);
 - – CH-TSI CCS-034 (version 1.1 de juin 2024): Mode d’exploitation «Non Leading»;
-- – CH-TSI CCS-038 (version 1.2 de juin 2024): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2025);
-- – CH-CSM-RA-001 (version 2.1 de juin 2024): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2025).
+- – CH-TSI CCS-038 (version 1.2 de juin 2024): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2027);
+- – CH-CSM-RA-001 (version 2.1 de juin 2024): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2023/1695, la règle est à réexaminer avant le 31 décembre 2027).
 
 – Décision d’exécution (UE) 2023/1696 de la Commission du 10 août 2023 modifiant la décision d’exécution 2011/665/UE en ce qui concerne la spécification du registre européen des types de véhicules autorisés visé à l’article 48 de la directive (UE) 2016/797 du Parlement européen et du Conseil (JO L 222 du 8.9.2023, p. 561).
 
@@ -1510,29 +1502,29 @@ Annexe 5[^t-6]
 <tr><td colspan="4">Trafic triangulaire proprement dit = lorsque le véhicule transite, selon l’itinéraire normal, le pays dans lequel il est immatriculé. P. ex. véhicule suisse effectuant un transport d’Allemagne en Italie en transit par la Suisse. Trafic triangulaire improprement dit = lorsque le véhicule ne transite pas le pays dans lequel il est immatriculé. P. ex. un véhicule suisse effectuant un transport d’Allemagne en Italie en transit par l’Autriche.</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
-[^annex5-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
-[^annex5-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
-[^annex5-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/eli/cc/1974/1638_1638_1638)
-[^annex5-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/eli/cc/1996/1927_1927_1927)
-[^annex5-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
-[^annex5-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
-[^annex5-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/eli/cc/2003/352)
-[^annex5-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
-[^annex5-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
-[^annex5-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
-[^annex5-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/eli/cc/1980/1428_1428_1428)
-[^annex5-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/eli/cc/2001/226)
-[^annex5-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/eli/cc/2003/213)
-[^annex5-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
-[^annex5-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
-[^annex5-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/eli/cc/1977/1659_1659_1659)
-[^annex5-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
-[^annex5-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/eli/cc/1976/863_863_863)
-[^annex5-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/eli/cc/1978/343_343_343)
-[^annex5-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/eli/cc/2000/314)
-[^annex5-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/eli/cc/2002/180)
-[^annex5-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+[^annex5-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2868)
+[^annex5-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2869)
+[^annex5-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2874)
+[^annex5-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2876)
+[^annex5-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2877)
+[^annex5-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2878)
+[^annex5-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2880)
+[^annex5-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2881)
+[^annex5-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2883)
+[^annex5-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2884)
+[^annex5-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2889)
+[^annex5-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2890)
+[^annex5-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2897)
+[^annex5-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2905)
+[^annex5-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2907)
+[^annex5-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2913)
+[^annex5-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2914)
+[^annex5-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2916)
+[^annex5-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2925)
+[^annex5-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2917)
+[^annex5-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2921)
+[^annex5-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2922)
+[^annex5-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2923)
 
 Annexe 6
 
@@ -1552,7 +1544,7 @@ Pour des courses en provenance de l’étranger à destination d’un lieu situ�
 - b) pour les transferts ou l’emploi de véhicules spéciaux, notamment de véhicules de travail qui, en raison de l’usage auquel ils sont destinés, ne peuvent être adaptés aux prescriptions sur le poids;
 - c) pour les transports de véhicules endommagés ou à dépanner, en cas d’urgence;
 - d) pour les transports de produits destinés à l’avitaillement des avions (*cate**ring*);
-- a) pour les parcours routiers initiaux et terminaux d’un transport combiné, en règle générale dans un rayon de 30 km à partir du terminal.
+- e) pour les parcours routiers initiaux et terminaux d’un transport combiné, en règle générale dans un rayon de 30 km à partir du terminal.
 
 [^annex6-lvlu1-lvlII-1]: La zone proche de la frontière est définie dans l’annexe 4 au compte rendu de la 5<sup>e</sup> réunion du Comité mixte institué dans le cadre de l’accord de 1992, tenue à Bruxelles le 2 avril 1998. En règle générale, il s’agit d’une zone ayant un rayon de 10 km mesuré à partir du bureau de douane.
 
@@ -1665,7 +1657,7 @@ Dans ce cas, le transporteur doit assurer que les documents suivants se trouvent
 <sup>3.</sup> Le demandeur fournit, à l’appui de sa demande d’autorisation, tout renseignement complémentaire qu’il juge utile ou qui lui est demandé par l’autorité délivrante, et notamment un schéma de conduite permettant de contrôler le respect de la réglementation relative aux temps de conduite et de repos ainsi qu’une copie de la licence communautaire pour le transport international de voyageurs par route pour compte d’autrui pour les transporteurs de l’Union européenne ou d’une licence similaire suisse pour les transporteurs suisses délivrée à l’exploitant du service régulier.
 
 [^annex7-lvlu1-secI-3-1]: Règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l’accès au marché international des services de transport par autocars et autobus, et modifiant le règlement (CE) n° 561/2006 (JO L 300 du 14.11.2009, p. 88), modifié en dernier lieu par le règlement (UE) n° 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
-[^annex7-lvlu1-secI-3-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^annex7-lvlu1-secI-3-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 4
 
@@ -1849,29 +1841,29 @@ Annexe 8[^t-8]
 <tr><td>Suède</td><td>12.12.1973[^annex8-lvlu1-23]</td><td>22.04.1974</td><td>Article 3 – selon le droit national</td></tr>
 </table>
 
-[^annex8-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
-[^annex8-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
-[^annex8-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
-[^annex8-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/eli/cc/1974/1638_1638_1638)
-[^annex8-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/eli/cc/1996/1927_1927_1927)
-[^annex8-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
-[^annex8-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
-[^annex8-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/eli/cc/2003/352)
-[^annex8-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
-[^annex8-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
-[^annex8-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
-[^annex8-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/eli/cc/1980/1428_1428_1428)
-[^annex8-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/eli/cc/2001/226)
-[^annex8-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/eli/cc/2003/213)
-[^annex8-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
-[^annex8-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
-[^annex8-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/eli/cc/1977/1659_1659_1659)
-[^annex8-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
-[^annex8-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/eli/cc/1976/863_863_863)
-[^annex8-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/eli/cc/1978/343_343_343)
-[^annex8-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/eli/cc/2000/314)
-[^annex8-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/eli/cc/2002/180)
-[^annex8-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+[^annex8-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2868)
+[^annex8-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2869)
+[^annex8-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2874)
+[^annex8-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2876)
+[^annex8-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2877)
+[^annex8-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2878)
+[^annex8-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2880)
+[^annex8-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2881)
+[^annex8-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2883)
+[^annex8-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2884)
+[^annex8-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2889)
+[^annex8-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2890)
+[^annex8-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2897)
+[^annex8-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2905)
+[^annex8-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2907)
+[^annex8-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2913)
+[^annex8-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2914)
+[^annex8-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2916)
+[^annex8-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2925)
+[^annex8-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2917)
+[^annex8-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2921)
+[^annex8-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2922)
+[^annex8-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2923)
 
 Annexe 9
 
@@ -1939,7 +1931,7 @@ Les Parties contractantes déclarent que les dispositions de l’art. 38, par. 6
 
 La Communauté européenne et la Confédération suisse déclarent leur intention d’engager des négociations en vue de conclure des accords dans les domaines d’intérêt commun tels que la mise à jour du Protocole 2[^annex10-lvlu2-lvlu2-1] de l’Accord de libre-échange de 1972, la participation suisse à certains programmes communautaires pour la formation, la jeunesse, les médias, les statistiques et l’environnement. Ces négociations devraient être préparées rapidement après la conclusion des négociations bilatérales actuelles.
 
-[^annex10-lvlu2-lvlu2-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^annex10-lvlu2-lvlu2-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
 ### Déclaration relative à la participation de la Suisse aux comités
 

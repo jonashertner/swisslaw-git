@@ -3,11 +3,11 @@ sr: "0.740.72"
 title: Accordo del 21 giugno 1999 fra la Confederazione Svizzera e la Comunità europea sul trasporto di merci e di passeggeri su strada e per ferrovia (con allegati e atto finale)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: it
-version: 2024-12-13
+version: 2025-12-09
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20241213/it/xml/fedlex-data-admin-ch-eli-cc-2002-257-20241213-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20241213/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20251209/it/xml/fedlex-data-admin-ch-eli-cc-2002-257-20251209-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20251209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Concluso il 21 giugno 1999 Approvato dall’Assemblea federale l’8 ottobre 1999[^t-2] Ratificato con strumenti depositati il 16 ottobre 2000 Entrato in vigore il 1° giugno 2002
 
-(Stato 13 dicembre 2024)
+(Stato 9 dicembre 2025)
 
 [^t-1]: Attualmente: Unione europea.
 [^t-2]: Art. 1 cpv. 1 lett. f del DC dell’8 ott. 1999 ([RU 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
@@ -522,7 +522,7 @@ Le parti contraenti adottano tutte le misure necessarie per promuovere il traspo
 
 <sup>5.</sup> Il Comitato misto redige ogni due anni una relazione sull’attuazione delle misure di cui al presente articolo.
 
-[^36-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^36-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 ### C. Sistemi di tariffazione dei trasporti stradali
 
@@ -604,8 +604,8 @@ A decorrere dal 1º gennaio 2007 il Comitato misto può, su richiesta di una del
 
 <sup>2.</sup> L’Accordo del 21 novembre 1990[^43-1] tra la Comunità economica europea e la Confederazione Svizzera riguardante l’agevolazione dei controlli e delle formalità nei trasporti di merci, la Convenzione del 20 maggio 1987[^43-2] relativa ad un regime comune di transito e, per il trasporto ferroviario, l’Accordo fra imprese ferroviarie relativo all’ispezione tecnica per la cessione di carri merci nel trasporto internazionale, servono come base per le misure adottate dalle parti contraenti in applicazione del paragrafo 1.
 
-[^43-1]: [RS 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
-[^43-2]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^43-1]: [RS 0.631.242.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2041)
+[^43-2]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 #### Art. 44
 
@@ -786,12 +786,12 @@ Fatto a Lussemburgo, addì ventun giugno millenovecentonovantanove, in duplice c
 <tr><td>Per la Confederazione svizzera: Pascal Couchepin Joseph Deiss</td><td>Per l’Unione europea: Joschka Fischer Hans van den Broek</td></tr>
 </table>
 
-[^58-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^58-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^58-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^58-4]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^58-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^58-6]: [RS 0.420.513.1](https://fedlex.data.admin.ch/eli/cc/2008/438)
+[^58-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^58-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^58-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^58-4]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^58-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^58-6]: [RS 0.420.513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1668)
 
 ## Elenco degli allegati
 
@@ -839,19 +839,19 @@ Allegato 1[^t-3]
 
 ## Disposizioni applicabili
 
-[^t-3]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del 30 giu. 2021 ([RU 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Aggiornato dall’art. 1 della Dec. n. 2/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del 17 dic. 2021 ([RU 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)), dall’art. 1 della Dec. n. 1/2022 del Comitato dei trasporti terrestri Comunità/Svizzera del 21 dic. 2022 ([RU 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)), delle Dec. n. 1/2023 del Comitato dei trasporti terrestri Comunità/Svizzera del 14 dic. 2023 ([RU 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)) e n. 1/2024 del Comitato dei trasporti terrestri Comunità/Svizzera del 13 dic. 2024, in vigore per la Svizzera dal 13 dic. 2024 ([RU 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
+[^t-3]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del 30 giu. 2021 ([RU 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Aggiornato dall’art. 1 delle Dec. n. 2/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del 17 dic. 2021 ([RU 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)), n. 1/2022 del Comitato dei trasporti terrestri Comunità/Svizzera del 21 dic. 2022 ([RU 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)), n. 1/2023 del Comitato dei trasporti terrestri Comunità/Svizzera del 14 dic. 2023 ([RU 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)), n. 1/2024 del Comitato dei trasporti terrestri Comunità/Svizzera del 13 dic. 2024 ([RU 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)) e n. 1/2025 del Comitato dei trasporti terrestri Comunità/Svizzera del 9 dic. 2025, in vigore per la Svizzera dal 9 dic. 2025 ([RU 2026 69](https://fedlex.data.admin.ch/eli/oc/2026/69)).
 
 Conformemente all’articolo 52 paragrafo 6 del presente Accordo la Svizzera applica disposizioni legali equivalenti alle disposizioni menzionate di seguito:
 
-**Disposizioni pertinenti del diritto dell’Unione europea**
+Disposizioni pertinenti del diritto dell’Unione europea
 
 ### Sezione 1: Accesso alla professione
 
-Direttiva 2006/1/CE del Parlamento europeo e del Consiglio, del 18 gennaio 2006, relativa all’utilizzazione di veicoli noleggiati senza conducente per il trasporto di merci su strada (versione codificata) (GU L 33 del 4.2.2006, pag. 82).
+– Direttiva 2006/1/CE del Parlamento europeo e del Consiglio, del 18 gennaio 2006, relativa all’utilizzazione di veicoli noleggiati senza conducente per il trasporto di merci su strada (versione codificata) (GU L 33 del 4.2.2006, pag. 82).
 
-Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che stabilisce norme comuni sulle condizioni da rispettare per esercitare l’attività di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio (GU L 300 del 14.11.2009, pag. 51), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+– Regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che stabilisce norme comuni sulle condizioni da rispettare per esercitare l’attività di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio (GU L 300 del 14.11.2009, pag. 51), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
 
-Regolamento (CE) n. 1072/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale del trasporto di merci su strada (GU L 300 del 14.11.2009, pag. 72), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+– Regolamento (CE) n. 1072/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale del trasporto di merci su strada (GU L 300 del 14.11.2009, pag. 72), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
 
 Ai fini del presente Accordo:
 
@@ -859,85 +859,85 @@ Ai fini del presente Accordo:
 - b) la Confederazione Svizzera potrà esentare i cittadini di altri Stati, diversi da quelli menzionati alla lettera a), dall’obbligo di essere muniti dell’attestato di conducente solo previa consultazione e con accordo dell’Unione europea;
 - c) le disposizioni del capo III del regolamento (CE) n. 1072/2009 (relative al cabotaggio) non si applicano.
 
-Regolamento (CE) n. 1073/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale dei servizi di trasporto effettuati con autobus e che modifica il regolamento (CE) n. 561/2006 (GU L 300 del 14.11.2009, pag. 88), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
+– Regolamento (CE) n. 1073/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale dei servizi di trasporto effettuati con autobus e che modifica il regolamento (CE) n. 561/2006 (GU L 300 del 14.11.2009, pag. 88), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
 
 Ai fini del presente Accordo, le disposizioni del capo V del regolamento (CE) n. 1073/2009 (relative al cabotaggio) non si applicano.
 
-Decisione 2009/992/UE della Commissione, del 17 dicembre 2009, sui requisiti minimi relativi ai dati da inserire nel registro elettronico nazionale delle imprese di trasporto su strada (GU L 339 del 22.12.2009, pag. 36).
+– Decisione 2009/992/UE della Commissione, del 17 dicembre 2009, sui requisiti minimi relativi ai dati da inserire nel registro elettronico nazionale delle imprese di trasporto su strada (GU L 339 del 22.12.2009, pag. 36).
 
-Regolamento (UE) n. 1213/2010 della Commissione, del 16 dicembre 2010, che stabilisce norme comuni sull’interconnessione dei registri elettronici nazionali delle imprese di trasporto su strada (GU L 335 del 18.12.2010, pag. 21).
+– Regolamento (UE) n. 1213/2010 della Commissione, del 16 dicembre 2010, che stabilisce norme comuni sull’interconnessione dei registri elettronici nazionali delle imprese di trasporto su strada (GU L 335 del 18.12.2010, pag. 21).
 
-Regolamento (UE) n. 361/2014 della Commissione, del 9 aprile 2014, recante modalità di esecuzione del regolamento (CE) n. 1073/2009 con riguardo ai documenti per il trasporto internazionale di passeggeri mediante autobus e che abroga il regolamento (CE) n. 2121/98 della Commissione (GU L 107 del 10.4.2014, pag. 39).
+– Regolamento (UE) n. 361/2014 della Commissione, del 9 aprile 2014, recante modalità di esecuzione del regolamento (CE) n. 1073/2009 con riguardo ai documenti per il trasporto internazionale di passeggeri mediante autobus e che abroga il regolamento (CE) n. 2121/98 della Commissione (GU L 107 del 10.4.2014, pag. 39).
 
-Regolamento (UE) 2016/403 della Commissione, del 18 marzo 2016, che integra il regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio per quanto riguarda la classificazione di infrazioni gravi alle norme dell’Unione che possono portare alla perdita dell’onorabilità del trasportatore su strada e che modifica l’allegato III della direttiva 2006/22/CE del Parlamento europeo e del Consiglio (GU L 74 del 19.3.2016, pag. 8).
+– Regolamento (UE) 2016/403 della Commissione, del 18 marzo 2016, che integra il regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio per quanto riguarda la classificazione di infrazioni gravi alle norme dell’Unione che possono portare alla perdita dell’onorabilità del trasportatore su strada e che modifica l’allegato III della direttiva 2006/22/CE del Parlamento europeo e del Consiglio (GU L 74 del 19.3.2016, pag. 8).
 
 ### Sezione 2: Norme sociali
 
-Direttiva 2002/15/CE del Parlamento europeo e del Consiglio, dell’11 marzo 2002, concernente l’organizzazione dell’orario di lavoro delle persone che effettuano operazioni mobili di autotrasporto (GU L 80 del 23.3.2002, pag. 35).
+– Direttiva 2002/15/CE del Parlamento europeo e del Consiglio, dell’11 marzo 2002, concernente l’organizzazione dell’orario di lavoro delle persone che effettuano operazioni mobili di autotrasporto (GU L 80 del 23.3.2002, pag. 35).
 
-Direttiva (UE) 2022/2561 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri (codificazione, GU L 330 del 23.12.2022, pag. 46.
+– Direttiva (UE) 2022/2561 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o passeggeri (codificazione, GU L 330 del 23.12.2022, pag. 46.
 
-Regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio, del 15 marzo 2006, relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada e che modifica i regolamenti del Consiglio (CEE) n. 3821/85 e (CE) n. 2135/98 e abroga il regolamento (CEE) n. 3820/85 del Consiglio (GU L 102 dell’11.4.2006, pag. 1), modificato da ultimo dal regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio del 4 febbraio 2014 (GU L 60 del 28.2.2014, pag. 1).
+– Regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio, del 15 marzo 2006, relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada e che modifica i regolamenti del Consiglio (CEE) n. 3821/85 e (CE) n. 2135/98 e abroga il regolamento (CEE) n. 3820/85 del Consiglio (GU L 102 dell’11.4.2006, pag. 1), modificato da ultimo dal regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio del 4 febbraio 2014 (GU L 60 del 28.2.2014, pag. 1).
 
-Direttiva 2006/22/CE del Parlamento europeo e del Consiglio, del 15 marzo 2006, sulle norme minime per l’applicazione dei regolamenti (CEE) n. 3820/85 e (CEE) n. 3821/85 del Consiglio relativi a disposizioni in materia sociale nel settore dei trasporti su strada e che abroga la direttiva 88/599/CEE del Consiglio (GU L 102 dell’11.4.2006, pag. 35), modificata da ultimo dal regolamento (UE) 2016/403 della Commissione del 18 marzo 2016 (GU L 74 del 19.3.2016, pag. 8).
+– Direttiva 2006/22/CE del Parlamento europeo e del Consiglio, del 15 marzo 2006, sulle norme minime per l’applicazione dei regolamenti (CEE) n. 3820/85 e (CEE) n. 3821/85 del Consiglio relativi a disposizioni in materia sociale nel settore dei trasporti su strada e che abroga la direttiva 88/599/CEE del Consiglio (GU L 102 dell’11.4.2006, pag. 35), modificata da ultimo dal regolamento (UE) 2016/403 della Commissione del 18 marzo 2016 (GU L 74 del 19.3.2016, pag. 8).
 
-Regolamento (UE) n. 581/2010 della Commissione, del 1° luglio 2010, sui periodi massimi per il trasferimento dei dati pertinenti dalle unità elettroniche di bordo e dalle carte del conducente (GU L 168 del 2.7.2010, pag. 16).
+– Regolamento (UE) n. 581/2010 della Commissione, del 1° luglio 2010, sui periodi massimi per il trasferimento dei dati pertinenti dalle unità elettroniche di bordo e dalle carte del conducente (GU L 168 del 2.7.2010, pag. 16).
 
-Regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio, del 4 febbraio 2014, relativo ai tachigrafi nel settore dei trasporti su strada, che abroga il regolamento (CEE) n. 3821/85 del Consiglio relativo all’apparecchio di controllo nel settore dei trasporti su strada e modifica il regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada (GU L 60 del 28.2.2014, pag. 1).
+– Regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio, del 4 febbraio 2014, relativo ai tachigrafi nel settore dei trasporti su strada, che abroga il regolamento (CEE) n. 3821/85 del Consiglio relativo all’apparecchio di controllo nel settore dei trasporti su strada e modifica il regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada (GU L 60 del 28.2.2014, pag. 1).
 
-Regolamento di esecuzione (UE) 2016/799 della Commissione, del 18 marzo 2016, che applica il regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio recante le prescrizioni per la costruzione, il collaudo, il montaggio, il funzionamento e la riparazione dei tachigrafi e dei loro componenti (GU L 139 del 26.5.2016, pag. 1), modificato da ultimo dal regolamento di esecuzione (UE) 2020/158 della Commissione del 5 febbraio 2020 (GU L 34 del 6.2.2020, pag. 20).
+– Regolamento di esecuzione (UE) 2016/68 della Commissione, del 21 gennaio 2016, relativo alle procedure comuni e alle specifiche necessarie per interconnettere i registri elettronici delle carte del conducente (GU L 15 del 22.1.2016, pag. 51), modificato dal regolamento di esecuzione (UE) 2017/1503 della Commissione, del 25 agosto 2017 (GU L 221 del 26.8.2017, pag. 10).
 
-Regolamento di esecuzione (UE) 2016/799 della Commissione, del 18 marzo 2016, che applica il regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio recante le prescrizioni per la costruzione, il collaudo, il montaggio, il funzionamento e la riparazione dei tachigrafi e dei loro componenti (GU L 139 del 26.5.2016, pag. 1), modificato dal regolamento di esecuzione (UE) 2018/502 della Commissione del 28 febbraio 2018 (GU L 85 del 28.3.2018, pag. 1).
+– Regolamento di esecuzione (UE) 2016/799 della Commissione, del 18 marzo 2016, che applica il regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio recante le prescrizioni per la costruzione, il collaudo, il montaggio, il funzionamento e la riparazione dei tachigrafi e dei loro componenti (GU L 139 del 26.5.2016, pag. 1), modificato da ultimo dal regolamento di esecuzione (UE) 2020/158 della Commissione del 5 febbraio 2020 (GU L 34 del 6.2.2020, pag. 20).
 
-Regolamento di esecuzione (UE) 2017/548 della Commissione, del 23 marzo 2017, che stabilisce un modulo standard per la giustificazione scritta relativa alla rimozione o alla rottura del sigillo del tachigrafo (GU L 79 del 24.3.2017, pag. 1).
+– Regolamento di esecuzione (UE) 2017/548 della Commissione, del 23 marzo 2017, che stabilisce un modulo standard per la giustificazione scritta relativa alla rimozione o alla rottura del sigillo del tachigrafo (GU L 79 del 24.3.2017, pag. 1).
 
-Decisione di esecuzione (UE) 2017/1013 della Commissione, del 30 marzo 2017, che stabilisce il formulario tipo per le relazioni di cui all’articolo 17 del regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio (GU L 153 del 16.6.2017, pag. 28).
+– Decisione di esecuzione (UE) 2017/1013 della Commissione, del 30 marzo 2017, che stabilisce il formulario tipo per le relazioni di cui all’articolo 17 del regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio (GU L 153 del 16.6.2017, pag. 28).
 
 ### Sezione 3: Norme tecniche
 
 Veicoli a motore
 
-Direttiva 70/157/CEE del Consiglio, del 6 febbraio 1970, concernente il ravvicinamento delle legislazioni degli Stati membri relative al livello sonoro ammissibile e al dispositivo di scappamento dei veicoli a motore (GU L 42 del 23.2.1970, pag. 16), modificata da ultimo dalla direttiva 2007/34/CE della Commissione del 14 giugno 2007 (GU L 155 del 15.6.2007, pag. 49).
+– Direttiva 70/157/CEE del Consiglio, del 6 febbraio 1970, concernente il ravvicinamento delle legislazioni degli Stati membri relative al livello sonoro ammissibile e al dispositivo di scappamento dei veicoli a motore (GU L 42 del 23.2.1970, pag. 16), modificata da ultimo dalla direttiva 2007/34/CE della Commissione del 14 giugno 2007 (GU L 155 del 15.6.2007, pag. 49).
 
-Direttiva 88/77/CEE del Consiglio, del 3 dicembre 1987, concernente il ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli (GU L 36 del 9.2.1988, pag. 33), modificata da ultimo dalla direttiva 2001/27/CE della Commissione del 10 aprile 2001 (GU L 107 del 18.4.2001, pag. 10).
+– Direttiva 88/77/CEE del Consiglio, del 3 dicembre 1987, concernente il ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli (GU L 36 del 9.2.1988, pag. 33), modificata da ultimo dalla direttiva 2001/27/CE della Commissione del 10 aprile 2001 (GU L 107 del 18.4.2001, pag. 10).
 
-Direttiva 91/671/CEE del Consiglio, del 16 dicembre 1991, per il ravvicinamento delle legislazioni degli Stati membri relative all’uso obbligatorio delle cinture di sicurezza sugli autoveicoli di peso inferiore a 3,5 tonnellate (GU L 373 del 31.12.1991, pag. 26), modificata da ultimo dalla direttiva di esecuzione 2014/37/UE della Commissione del 27 febbraio 2014 (GU L 59 del 28.2.2014, pag. 32).
+– Direttiva 91/671/CEE del Consiglio, del 16 dicembre 1991, per il ravvicinamento delle legislazioni degli Stati membri relative all’uso obbligatorio delle cinture di sicurezza sugli autoveicoli di peso inferiore a 3,5 tonnellate (GU L 373 del 31.12.1991, pag. 26), modificata da ultimo dalla direttiva di esecuzione 2014/37/UE della Commissione del 27 febbraio 2014 (GU L 59 del 28.2.2014, pag. 32).
 
-Direttiva 92/6/CEE del Consiglio, del 10 febbraio 1992, concernente il montaggio e l’impiego di limitatori di velocità per talune categorie di autoveicoli nella Comunità (GU L 57 del 2.3.1992, pag. 27), modificata dalla direttiva 2002/85/CE del Parlamento europeo e del Consiglio del 5 novembre 2002 (GU L 327 del 4.12.2002, pag. 8).
+– Direttiva 92/6/CEE del Consiglio, del 10 febbraio 1992, concernente il montaggio e l’impiego di limitatori di velocità per talune categorie di autoveicoli nella Comunità (GU L 57 del 2.3.1992, pag. 27), modificata dalla direttiva 2002/85/CE del Parlamento europeo e del Consiglio del 5 novembre 2002 (GU L 327 del 4.12.2002, pag. 8).
 
-Direttiva 96/53/CE del Consiglio, del 25 luglio 1996, che stabilisce, per taluni veicoli stradali che circolano nella Comunità, le dimensioni massime autorizzate nel traffico nazionale e internazionale e i pesi massimi autorizzati nel traffico internazionale (GU L 235 del 17.9.1996, pag. 59), modificata da ultimo dalla direttiva 2002/7/CE del Parlamento europeo e del Consiglio del 18 febbraio 2002 (GU L 67 del 9.3.2002, pag. 47).
+– Direttiva 96/53/CE del Consiglio, del 25 luglio 1996, che stabilisce, per taluni veicoli stradali che circolano nella Comunità, le dimensioni massime autorizzate nel traffico nazionale e internazionale e i pesi massimi autorizzati nel traffico internazionale (GU L 235 del 17.9.1996, pag. 59), modificata da ultimo dalla direttiva 2002/7/CE del Parlamento europeo e del Consiglio del 18 febbraio 2002 (GU L 67 del 9.3.2002, pag. 47).
 
-Regolamento (CE) n. 2411/98 del Consiglio, del 3 novembre 1998, relativo al riconoscimento intracomunitario del segno distintivo dello Stato membro di immatricolazione dei veicoli a motore e dei loro rimorchi (GU L 299 del 10.11.1998, pag. 1).
+– Regolamento (CE) n. 2411/98 del Consiglio, del 3 novembre 1998, relativo al riconoscimento intracomunitario del segno distintivo dello Stato membro di immatricolazione dei veicoli a motore e dei loro rimorchi (GU L 299 del 10.11.1998, pag. 1).
 
-Direttiva 2000/30/CE del Parlamento europeo e del Consiglio, del 6 giugno 2000, relativa ai controlli tecnici su strada dei veicoli commerciali circolanti nella Comunità (GU L 203 del 10.8.2000, pag. 1), modificata da ultimo dalla direttiva 2010/47/UE della Commissione del 5 luglio 2010 (GU L 173 dell’8.7.2010, pag. 33).
+– Direttiva 2000/30/CE del Parlamento europeo e del Consiglio, del 6 giugno 2000, relativa ai controlli tecnici su strada dei veicoli commerciali circolanti nella Comunità (GU L 203 del 10.8.2000, pag. 1), modificata da ultimo dalla direttiva 2010/47/UE della Commissione del 5 luglio 2010 (GU L 173 dell’8.7.2010, pag. 33).
 
-Direttiva 2005/55/CE del Parlamento europeo e del Consiglio, del 28 settembre 2005, concernente il ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli (GU L 275 del 20.10.2005, pag. 1), modificata da ultimo dalla direttiva 2008/74/CE della Commissione del 18 luglio 2008 (GU L 192 del 19.7.2008, pag. 51).
+– Direttiva 2005/55/CE del Parlamento europeo e del Consiglio, del 28 settembre 2005, concernente il ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli (GU L 275 del 20.10.2005, pag. 1), modificata da ultimo dalla direttiva 2008/74/CE della Commissione del 18 luglio 2008 (GU L 192 del 19.7.2008, pag. 51).
 
-Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giugno 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE (GU L 188 del 18.7.2009, pag. 1), modificato da ultimo dal regolamento (UE) n. 133/2014 della Commissione del 31 gennaio 2014 (GU L 47 del 18.2.2014, pag. 1).
+– Regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 giugno 2009, relativo all’omologazione dei veicoli a motore e dei motori riguardo alle emissioni dei veicoli pesanti (euro VI) e all’accesso alle informazioni relative alla riparazione e alla manutenzione del veicolo e che modifica il regolamento (CE) n. 715/2007 e la direttiva 2007/46/CE e che abroga le direttive 80/1269/CEE, 2005/55/CE e 2005/78/CE (GU L 188 del 18.7.2009, pag. 1), modificato da ultimo dal regolamento (UE) n. 133/2014 della Commissione del 31 gennaio 2014 (GU L 47 del 18.2.2014, pag. 1).
 
-Regolamento (UE) n. 582/2011 della Commissione, del 25 maggio 2011, recante attuazione e modifica del regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio per quanto riguarda le emissioni dei veicoli pesanti (Euro VI) e recante modifica degli allegati I e III della direttiva 2007/46/CE del Parlamento europeo e del Consiglio (GU L 167 del 25.6.2011, pag. 1), modificato da ultimo dal regolamento (UE) n. 627/2014 della Commissione del 12 giugno 2014 (GU L 174 del 13.6.2014, pag. 28).
+– Regolamento (UE) n. 582/2011 della Commissione, del 25 maggio 2011, recante attuazione e modifica del regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio per quanto riguarda le emissioni dei veicoli pesanti (Euro VI) e recante modifica degli allegati I e III della direttiva 2007/46/CE del Parlamento europeo e del Consiglio (GU L 167 del 25.6.2011, pag. 1), modificato da ultimo dal regolamento (UE) n. 627/2014 della Commissione del 12 giugno 2014 (GU L 174 del 13.6.2014, pag. 28).
 
-Direttiva 2014/45/UE del Parlamento europeo e del Consiglio, del 3 aprile 2014, relativa ai controlli tecnici periodici dei veicoli a motore e dei loro rimorchi e recante abrogazione della direttiva 2009/40/CE (GU L 127 del 29.4.2014, pag. 51).
+– Direttiva 2014/45/UE del Parlamento europeo e del Consiglio, del 3 aprile 2014, relativa ai controlli tecnici periodici dei veicoli a motore e dei loro rimorchi e recante abrogazione della direttiva 2009/40/CE (GU L 127 del 29.4.2014, pag. 51).
 
-Regolamento (UE) n. 540/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, relativo al livello sonoro dei veicoli a motore e i dispositivi silenziatori di sostituzione, che modifica la direttiva 2007/46/CE e che abroga la direttiva 70/157/CEE (GU L 158 del 27.5.2014, pag. 131), modificato da ultimo dal regolamento delegato (UE) 2019/839 della Commissione, del 7 marzo 2019 (GU L 138 del 24.5.2019, pag. 70).
+– Regolamento (UE) n. 540/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, relativo al livello sonoro dei veicoli a motore e i dispositivi silenziatori di sostituzione, che modifica la direttiva 2007/46/CE e che abroga la direttiva 70/157/CEE (GU L 158 del 27.5.2014, pag. 131), modificato da ultimo dal regolamento delegato (UE) 2019/839 della Commissione, del 7 marzo 2019 (GU L 138 del 24.5.2019, pag. 70).
 
-Regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio del 27 novembre 2019 relativo ai requisiti di omologazione dei veicoli a motore e dei loro rimorchi, nonché di sistemi, componenti ed entità tecniche destinati a tali veicoli, per quanto riguarda la loro sicurezza generale e la protezione degli occupanti dei veicoli e degli altri utenti vulnerabili della strada, che modifica il regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 78/2009, (CE) n. 79/2009 e (CE) n. 661/2009 del Parlamento europeo e del Consiglio e i regolamenti (CE) n. 631/2009, (UE) n. 406/2010, (UE) n. 672/2010, (UE) n. 1003/2010, (UE) n. 1005/2010, (UE) n. 1008/2010, (UE) n. 1009/2010, (UE) n. 19/2011, (UE) n. 109/2011, (UE) n. 458/2011, (UE) n. 65/2012, (UE) n. 130/2012,(UE) n. 347/2012, (UE) n. 351/2012, (UE) n. 1230/2012 e (UE) 2015/166 della Commissione (GU L 325 del 16.12.2019, pag. 1).
+– Regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio del 27 novembre 2019 relativo ai requisiti di omologazione dei veicoli a motore e dei loro rimorchi, nonché di sistemi, componenti ed entità tecniche destinati a tali veicoli, per quanto riguarda la loro sicurezza generale e la protezione degli occupanti dei veicoli e degli altri utenti vulnerabili della strada, che modifica il regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 78/2009, (CE) n. 79/2009 e (CE) n. 661/2009 del Parlamento europeo e del Consiglio e i regolamenti (CE) n. 631/2009, (UE) n. 406/2010, (UE) n. 672/2010, (UE) n. 1003/2010, (UE) n. 1005/2010, (UE) n. 1008/2010, (UE) n. 1009/2010, (UE) n. 19/2011, (UE) n. 109/2011, (UE) n. 458/2011, (UE) n. 65/2012, (UE) n. 130/2012,(UE) n. 347/2012, (UE) n. 351/2012, (UE) n. 1230/2012 e (UE) 2015/166 della Commissione (GU L 325 del 16.12.2019, pag. 1).
 
-Regolamento delegato (UE) 2021/1958 della Commissione del 23 giugno 2021 che integra il regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio stabilendo norme dettagliate in merito alle procedure di prova e ai requisiti tecnici specifici per l’omologazione dei veicoli a motore per quanto riguarda i sistemi di adattamento intelligente della velocità e per l’omologazione di tali sistemi come entità tecniche indipendenti, e che ne modifica l’allegato II (GU L 409 del 17.11.2021, pag. 1).
+– Regolamento delegato (UE) 2021/1958 della Commissione del 23 giugno 2021 che integra il regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio stabilendo norme dettagliate in merito alle procedure di prova e ai requisiti tecnici specifici per l’omologazione dei veicoli a motore per quanto riguarda i sistemi di adattamento intelligente della velocità e per l’omologazione di tali sistemi come entità tecniche indipendenti, e che ne modifica l’allegato II (GU L 409 del 17.11.2021, pag. 1).
 
-Regolamento delegato (UE) 2022/545 della Commissione del 26 gennaio 2022 che integra il regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio stabilendo norme dettagliate sulle procedure di prova e i requisiti tecnici specifici per l’omologazione dei veicoli a motore relativamente ai registratori di dati di evento e per l’omologazione di tali sistemi come entità tecniche, e che ne modifica l’allegato II (GU L 107 del 6.4.2022, pag. 18).
+– Regolamento delegato (UE) 2022/545 della Commissione del 26 gennaio 2022 che integra il regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio stabilendo norme dettagliate sulle procedure di prova e i requisiti tecnici specifici per l’omologazione dei veicoli a motore relativamente ai registratori di dati di evento e per l’omologazione di tali sistemi come entità tecniche, e che ne modifica l’allegato II (GU L 107 del 6.4.2022, pag. 18).
 
-Regolamento delegato (UE) 2023/2590 della Commissione, del 13 luglio 2023, che integra il regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio stabilendo norme dettagliate concernenti le procedure di prova e i requisiti tecnici specifici per l’omologazione di determinati veicoli a motore per quanto riguarda i sistemi di avviso avanzato della distrazione del conducente e che modifica tale regolamento (GU L, 2023/2590, 22.11.2023).
+– Regolamento delegato (UE) 2023/2590 della Commissione, del 13 luglio 2023, che integra il regolamento (UE) 2019/2144 del Parlamento europeo e del Consiglio stabilendo norme dettagliate concernenti le procedure di prova e i requisiti tecnici specifici per l’omologazione di determinati veicoli a motore per quanto riguarda i sistemi di avviso avanzato della distrazione del conducente e che modifica tale regolamento (GU L, 2023/2590, 22.11.2023).
 
 Trasporto di merci pericolose
 
-Direttiva (UE) 2022/1999 del Parlamento europeo e del Consiglio del 19 ottobre 2022 relativa a procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (codificazione; GU L 274, 24.10.2022, pag. 1).
+– Direttiva (UE) 2022/1999 del Parlamento europeo e del Consiglio del 19 ottobre 2022 relativa a procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (codificazione; GU L 274, 24.10.2022, pag. 1).
 
-Direttiva 2008/68/CE del Parlamento europeo e del Consiglio, del 24 settembre 2008, relativa al trasporto interno di merci pericolose (GU L 260 del 30.9.2008, pag. 13), modificata da ultimo dalla direttiva delegata (UE) 2022/2407 della Commissione, del 20 settembre 2022 (GU L 317 del 9.12.2022, pag. 64).
+– Direttiva 2008/68/CE del Parlamento europeo e del Consiglio, del 24 settembre 2008, relativa al trasporto interno di merci pericolose (GU L 260 del 30.9.2008, pag. 13), modificata da ultimo dalla direttiva delegata (UE) 2025/149 della Commissione, del 15 novembre 2024 (GU L 2025/149 del 24.1.2025).
 
 Ai fini del presente Accordo, in Svizzera si applicano le seguenti deroghe alla direttiva 2008/68/CE:
 
-\1. Trasporto su strada
+### 1. Trasporto su strada
 
 Deroghe per la Svizzera a norma dell’articolo 6 paragrafo 2 lettera a), della direttiva 2008/68/CE:
 
@@ -1035,7 +1035,7 @@ Continuano ad applicarsi le disposizioni di cui ai punti 1.3 e 8.2.3.
 
 Data di scadenza: 1° gennaio 2029.
 
-\2. Trasporto per ferrovia
+### 2. Trasporto per ferrovia
 
 Deroghe per la Svizzera a norma dell’articolo 6 paragrafo 2 lettera a) della direttiva 2008/68/CE:
 
@@ -1071,49 +1071,41 @@ Direttiva 2010/35/UE del Parlamento europeo e del Consiglio, del 16 giugno 2010,
 
 ### Sezione 4: Diritti di accesso e di transito ferroviario
 
-Direttiva 91/440/CEE del Consiglio, del 29 luglio 1991, relativa allo sviluppo delle ferrovie comunitarie (GU L 237 del 24.8.1991, pag. 25).
+– Direttiva 91/440/CEE del Consiglio, del 29 luglio 1991, relativa allo sviluppo delle ferrovie comunitarie (GU L 237 del 24.8.1991, pag. 25).
 
-Direttiva 95/18/CE del Consiglio, del 19 giugno 1995, relativa alle licenze delle imprese ferroviarie (GU L 143 del 27.6.1995, pag. 70).
+– Direttiva 95/18/CE del Consiglio, del 19 giugno 1995, relativa alle licenze delle imprese ferroviarie (GU L 143 del 27.6.1995, pag. 70).
 
-Direttiva 95/19/CE del Consiglio, del 19 giugno 1995, riguardante la ripartizione delle capacità di infrastruttura ferroviaria e la riscossione dei diritti per l’utilizzo dell’infrastruttura (GU L 143 del 27.6.1995, pag. 75).
+– Direttiva 95/19/CE del Consiglio, del 19 giugno 1995, riguardante la ripartizione delle capacità di infrastruttura ferroviaria e la riscossione dei diritti per l’utilizzo dell’infrastruttura (GU L 143 del 27.6.1995, pag. 75).
 
-Direttiva 2004/49/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa alla sicurezza delle ferrovie comunitarie e recante modifica della direttiva 95/18/CE del Consiglio relativa alle licenze delle imprese ferroviarie e della direttiva 2001/14/CE relativa alla ripartizione della capacità di infrastruttura ferroviaria, all’imposizione dei diritti per l’utilizzo dell’infrastruttura ferroviaria e alla certificazione di sicurezza (direttiva sulla sicurezza delle ferrovie) (GU L 164 del 30.4.2004, pag. 44), modificata da ultimo dalla direttiva 2014/88/UE della Commissione del 9 luglio 2014 (GU L 201 del 10.7.2014, pag. 9).
+– Direttiva 2007/59/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2007, relativa alla certificazione dei macchinisti addetti alla guida di locomotori e treni sul sistema ferroviario della Comunità (GU L 315 del 3.12.2007, pag. 51), modificata da ultimo dal regolamento (UE) 2019/554 della Commissione del 5 aprile 2019 (GU L 97 dell’8.4.2019, pag. 1).
 
-Direttiva 2007/59/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2007, relativa alla certificazione dei macchinisti addetti alla guida di locomotori e treni sul sistema ferroviario della Comunità (GU L 315 del 3.12.2007, pag. 51), modificata da ultimo dal regolamento (UE) 2019/554 della Commissione del 5 aprile 2019 (GU L 97 dell’8.4.2019, pag. 1).
+– Decisione 2007/756/CE della Commissione, del 9 novembre 2007, che adotta una specifica comune per il registro di immatricolazione nazionale di cui all’articolo 14, paragrafi 4 e 5, delle direttive 96/48/CE e 2001/16/CE (GU L 305 del 23.11.2007, pag. 30), modificata dalla decisione 2011/107/UE della Commissione del 10 febbraio 2011 (GU L 43 del 17.2.2011, pag. 33).
 
-Regolamento (CE) n. 653/2007 della Commissione, del 13 giugno 2007, sull’uso di un formato europeo comune per i certificati di sicurezza e i relativi modelli di domanda conformemente all’articolo 10 della direttiva 2004/49/CE del Parlamento europeo e del Consiglio e sulla validità dei certificati di sicurezza rilasciati nell’ambito della direttiva 2001/14/CE del Parlamento europeo e del Consiglio (GU L 153 del 14.6.2007, pag. 9), modificato dal regolamento (UE) n. 445/2011 della Commissione del 10 maggio 2011 (GU L 122 dell’11.5.2011, pag. 22).
+– Decisione 2009/965/CE della Commissione, del 30 novembre 2009, riguardante il documento di riferimento di cui all’articolo 27 paragrafo 4 della direttiva 2008/57/CE del Parlamento europeo e del Consiglio relativa all’interoperabilità del sistema ferroviario comunitario (GU L 341 del 22.12.2009, pag. 1), modificata dalla decisione di esecuzione (UE) 2015/2299 della Commissione del 17 novembre 2015 (GU L 324 del 10.12.2015, pag. 15).
 
-Decisione 2007/756/CE della Commissione, del 9 novembre 2007, che adotta una specifica comune per il registro di immatricolazione nazionale di cui all’articolo 14, paragrafi 4 e 5, delle direttive 96/48/CE e 2001/16/CE (GU L 305 del 23.11.2007, pag. 30), modificata dalla decisione 2011/107/UE della Commissione del 10 febbraio 2011 (GU L 43 del 17.2.2011, pag. 33).
+– Regolamento (UE) n. 36/2010 della Commissione, del 3 dicembre 2009, relativo ai modelli comunitari di licenza di conduzione treni, certificato complementare, copia autenticata del certificato complementare e i moduli di domanda di licenza di conduzione treni, a norma della direttiva 2007/59/CE del Parlamento europeo e del Consiglio (GU L 13 del 19.1.2010, pag. 1).
 
-Direttiva 2008/57/CE del Parlamento europeo e del Consiglio, del 17 giugno 2008, relativa all’interoperabilità del sistema ferroviario comunitario (rifusione) (GU L 191 del 18.7.2008, pag. 1), modificata da ultimo dalla direttiva 2014/38/UE della Commissione del 10 marzo 2014 (GU L 70 dell’11.3.2014, pag. 20).
+– Decisione 2010/713/UE della Commissione, del 9 novembre 2010, concernente i moduli per le procedure di valutazione della conformità, dell’idoneità all’impiego e della verifica CE da utilizzare per le specifiche tecniche di interoperabilità adottate nell’ambito della direttiva 2008/57/CE del Parlamento europeo e del Consiglio (GU L 319 del 4.12.2010, pag. 1).
 
-Decisione 2009/965/CE della Commissione, del 30 novembre 2009, riguardante il documento di riferimento di cui all’articolo 27 paragrafo 4 della direttiva 2008/57/CE del Parlamento europeo e del Consiglio relativa all’interoperabilità del sistema ferroviario comunitario (GU L 341 del 22.12.2009, pag. 1), modificata dalla decisione di esecuzione (UE) 2015/2299 della Commissione del 17 novembre 2015 (GU L 324 del 10.12.2015, pag. 15).
+– Regolamento (UE) n. 1158/2010 della Commissione, del 9 dicembre 2010, relativo a un metodo di sicurezza comune per valutare la conformità ai requisiti di ottenimento di certificati di sicurezza della rete ferroviaria (GU L 326 del 10.12.2010, pag. 11).
 
-Regolamento (UE) n. 36/2010 della Commissione, del 3 dicembre 2009, relativo ai modelli comunitari di licenza di conduzione treni, certificato complementare, copia autenticata del certificato complementare e i moduli di domanda di licenza di conduzione treni, a norma della direttiva 2007/59/CE del Parlamento europeo e del Consiglio (GU L 13 del 19.1.2010, pag. 1).
+– Regolamento (UE) n. 1169/2010 della Commissione, del 10 dicembre 2010, concernente un metodo di sicurezza comune per la valutazione della conformità ai requisiti per ottenere un’autorizzazione di sicurezza per l’infrastruttura ferroviaria (GU L 327 dell’11.12.2010, pag. 13).
 
-Decisione 2010/713/UE della Commissione, del 9 novembre 2010, concernente i moduli per le procedure di valutazione della conformità, dell’idoneità all’impiego e della verifica CE da utilizzare per le specifiche tecniche di interoperabilità adottate nell’ambito della direttiva 2008/57/CE del Parlamento europeo e del Consiglio (GU L 319 del 4.12.2010, pag. 1).
+– Regolamento (UE) n. 445/2011 della Commissione, del 10 maggio 2011, relativo ad un sistema di certificazione dei soggetti responsabili della manutenzione di carri merci e che modifica il regolamento (CE) n. 653/2007 (GU L 122 dell’11.5.2011, pag. 22).
 
-Regolamento (UE) n. 1158/2010 della Commissione, del 9 dicembre 2010, relativo a un metodo di sicurezza comune per valutare la conformità ai requisiti di ottenimento di certificati di sicurezza della rete ferroviaria (GU L 326 del 10.12.2010, pag. 11).
+– Regolamento (UE) n. 454/2011 della Commissione, del 5 maggio 2011, relativo alle specifiche tecniche di interoperabilità per il sottosistema «applicazioni telematiche per i passeggeri» del sistema ferroviario transeuropeo (GU L 123 del 12.5.2011, pag. 11), modificato da ultimo dal regolamento di esecuzione (UE) 2019/775 della Commissione del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 103).
 
-Regolamento (UE) n. 1169/2010 della Commissione, del 10 dicembre 2010, concernente un metodo di sicurezza comune per la valutazione della conformità ai requisiti per ottenere un’autorizzazione di sicurezza per l’infrastruttura ferroviaria (GU L 327 dell’11.12.2010, pag. 13).
+– Decisione di esecuzione 2011/665/UE della Commissione, del 4 ottobre 2011, relativa al registro europeo dei tipi di veicoli ferroviari autorizzati (GU L 264 dell’8.10.2011, pag. 32), modificato da ultimo della decisione di esecuzione (UE) 2023/1696 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 561).
 
-Regolamento (UE) n. 201/2011 della Commissione, del 1° marzo 2011, relativo al modello di dichiarazione di conformità a un tipo autorizzato di veicolo ferroviario (GU L 57 del 2.3.2011, pag. 8).
+– Decisione 2011/765/UE della Commissione, del 22 novembre 2011, relativa ai criteri per il riconoscimento dei centri di formazione coinvolti nella formazione dei macchinisti addetti alla guida di locomotori e treni, nonché ai criteri per il riconoscimento degli esaminatori dei macchinisti e ai criteri per l’organizzazione degli esami a norma della direttiva 2007/59/CE del Parlamento europeo e del Consiglio (GU L 314 del 29.11.2011, pag. 36).
 
-Regolamento (UE) n. 445/2011 della Commissione, del 10 maggio 2011, relativo ad un sistema di certificazione dei soggetti responsabili della manutenzione di carri merci e che modifica il regolamento (CE) n. 653/2007 (GU L 122 dell’11.5.2011, pag. 22).
+– Regolamento (UE) n. 1078/2012 della Commissione, del 16 novembre 2012, relativo a un metodo di sicurezza comune per il monitoraggio che devono applicare le imprese ferroviarie, i gestori dell’infrastruttura che hanno ottenuto un certificato di sicurezza o un’autorizzazione di sicurezza e i soggetti responsabili della manutenzione (GU L 320 del 17.11.2012, pag. 8).
 
-Regolamento (UE) n. 454/2011 della Commissione, del 5 maggio 2011, relativo alle specifiche tecniche di interoperabilità per il sottosistema «applicazioni telematiche per i passeggeri» del sistema ferroviario transeuropeo (GU L 123 del 12.5.2011, pag. 11), modificato da ultimo dal regolamento di esecuzione (UE) 2019/775 della Commissione del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 103).
+– Regolamento (UE) n. 321/2013 della Commissione, del 13 marzo 2013, relativo alla specifica tecnica di interoperabilità per il sottosistema «materiale rotabile – carri merci» del sistema ferroviario nell’Unione europea e che abroga la decisione 2006/861/CE della Commissione (GU L 104 del 12.4.2013, pag. 1), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
 
-Decisione di esecuzione 2011/665/UE della Commissione, del 4 ottobre 2011, relativa al registro europeo dei tipi di veicoli ferroviari autorizzati (GU L 264 dell’8.10.2011, pag. 32), modificato da ultimo della decisione di esecuzione (UE) 2023/1696 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 561).
+– Regolamento di esecuzione (UE) n. 402/2013 della Commissione, del 30 aprile 2013, relativo al metodo comune di sicurezza per la determinazione e valutazione dei rischi e che abroga il regolamento (CE) n. 352/2009 (GU L 121 del 3.5.2013, pag. 8), modificato dal regolamento di esecuzione (UE) 2015/1136 della Commissione del 13 luglio 2015 (GU L 185 del 14.7.2015, pag. 6).
 
-Decisione 2011/765/UE della Commissione, del 22 novembre 2011, relativa ai criteri per il riconoscimento dei centri di formazione coinvolti nella formazione dei macchinisti addetti alla guida di locomotori e treni, nonché ai criteri per il riconoscimento degli esaminatori dei macchinisti e ai criteri per l’organizzazione degli esami a norma della direttiva 2007/59/CE del Parlamento europeo e del Consiglio (GU L 314 del 29.11.2011, pag. 36).
-
-Regolamento (UE) n. 1078/2012 della Commissione, del 16 novembre 2012, relativo a un metodo di sicurezza comune per il monitoraggio che devono applicare le imprese ferroviarie, i gestori dell’infrastruttura che hanno ottenuto un certificato di sicurezza o un’autorizzazione di sicurezza e i soggetti responsabili della manutenzione (GU L 320 del 17.11.2012, pag. 8).
-
-Regolamento (UE) n. 321/2013 della Commissione, del 13 marzo 2013, relativo alla specifica tecnica di interoperabilità per il sottosistema «materiale rotabile – carri merci» del sistema ferroviario nell’Unione europea e che abroga la decisione 2006/861/CE della Commissione (GU L 104 del 12.4.2013, pag. 1), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
-
-Regolamento di esecuzione (UE) n. 402/2013 della Commissione, del 30 aprile 2013, relativo al metodo comune di sicurezza per la determinazione e valutazione dei rischi e che abroga il regolamento (CE) n. 352/2009 (GU L 121 del 3.5.2013, pag. 8), modificato dal regolamento di esecuzione (UE) 2015/1136 della Commissione del 13 luglio 2015 (GU L 185 del 14.7.2015, pag. 6).
-
-Regolamento (UE) n. 1299/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per il sottosistema «infrastruttura» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 1), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
+– Regolamento (UE) n. 1299/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per il sottosistema «infrastruttura» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 1), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
 
 In Svizzera si applicano i seguenti casi specifici di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
@@ -1128,11 +1120,15 @@ In Svizzera si applicano i seguenti casi specifici di cui all’articolo 6 della
   - – Sagoma limite GC: percorribilità limitata all’interno della sagoma limite Oferr O4. A dipendenza delle linee cinematiche di riferimento e delle rispettive regole di calcolo, la sagoma limite per l’infrastruttura (sezioni superiori) viene calcolata, per tutti i tipi di sagoma limite (ad es. Oferr O1, Oferr O2, Oferr O4), secondo la norma EN 15273-1:2013, Appendice C, C.2.1, tabella C.1 (o Appendice C, C.2.3, tabella C.4). L’applicazione delle equazioni di cui alla norma EN 15273‑3:2013, Appendice C, tabelle C.2 e C.3 (per altezze h superiori a 3,250 m) non è ammessa in Svizzera.
 
 - – Caso specifico permanente CH-STI INF-002: Porte d’accesso aperte e predellini retrattili.
-- In Svizzera, oltre alle regole della norma EN 15273-2, Appendice A, A.3.14 «Regole particolari per le porte d’accesso aperte e per i predellini retrattili» devono essere rispettati i requisiti delle disposizioni d’esecuzione dell’ordinanza sulle ferrovie DE-Oferr, DE 47.2, numero 7. Secondo tali disposizioni, un superamento della sagoma limite dei veicoli pari a wi, ma al massimo 0,035 m, al di sotto di 0,6 m sopra il piano di scorrimento non può essere accettato. Sono tuttavia ammesse le porte di accesso che rispettano le condizioni della scheda UIC 560, numeri da 1.1.4 a 1.1.4.3.
+- In Svizzera, oltre alle regole della norma EN 15273-2, Appendice A, A.3.14 «Regole particolari per le porte d’accesso aperte e per i predellini retrattili» devono essere rispettati i requisiti delle disposizioni d’esecuzione dell’ordinanza sulle ferrovie DE-Oferr, DE 47.2, numero 7.
+- Secondo tali disposizioni, un superamento della sagoma limite dei veicoli pari a wi, ma al massimo 0,035 m, al di sotto di 0,6 m sopra il piano di scorrimento non può essere accettato.
+- Sono tuttavia ammesse le porte di accesso che rispettano le condizioni della scheda UIC 560, numeri da 1.1.4 a 1.1.4.3.
 - – Caso specifico permanente CH-STI INF-007: Procedura di accettazione in relazione ai raggi stretti (R &lt; 250 m).
-- Al fine di consentire l’utilizzo di una linea con un numero elevato di raggi &lt; 250 m, è necessaria una procedura per l’accettazione delle caratteristiche di marcia dei veicoli ferroviari per questa gamma di raggi (cfr. anche R RTE 29001). Le specifiche per le prove e la valutazione sono definite nel regolamento SBB R I-50127, basato sulla norma EN 14363: 2016 + A2: 2022 (2a edizione). I veicoli che non rispettano queste specifiche non possono circolare sulle linee definite con un numero elevato di raggi molto stretti (cfr. SBB R I-50127, punto 1.2).
+- Al fine di consentire l’utilizzo di una linea con un numero elevato di raggi &lt; 250 m, è necessaria una procedura per l’accettazione delle caratteristiche di marcia dei veicoli ferroviari per questa gamma di raggi (cfr. anche R RTE 29001). Le specifiche per le prove e la valutazione sono definite nel regolamento SBB R I-50127, basato sulla norma EN 14363: 2016 + A2: 2022 (2a edizione).
+- I veicoli che non rispettano queste specifiche non possono circolare sulle linee definite con un numero elevato di raggi molto stretti (cfr. SBB R I-50127, punto 1.2).
 - – Caso specifico permanente CH-STI INF-008: Presenza di curve strette e dispositivi di armamento.
-- In seguito alla presenza di curve strette (raggi inferiori a 160 m) con rette intermedie corte e interassi ridotti, in alcuni settori di stazione in Svizzera i tracciati risultano impegnativi per quanto concerne la tecnica di circolazione. È pertanto necessaria una procedura di accettazione della valutazione del comportamento dei veicoli nei dispositivi di armamento. La norma EN 14363: 2016 + A2:2022 (2<sup>a</sup> edizione) non specifica alcun requisito per la valutazione del comportamento dei veicoli nei dispositivi di armamento.
+- In seguito alla presenza di curve strette (raggi inferiori a 160 m) con rette intermedie corte e interassi ridotti, in alcuni settori di stazione in Svizzera i tracciati risultano impegnativi per quanto concerne la tecnica di circolazione. È pertanto necessaria una procedura di accettazione della valutazione del comportamento dei veicoli nei dispositivi di armamento.
+- La norma EN 14363: 2016 + A2:2022 (2<sup>a</sup> edizione) non specifica alcun requisito per la valutazione del comportamento dei veicoli nei dispositivi di armamento.
 - Le specifiche per le prove e la valutazione del comportamento dei veicoli nei dispositivi di armamento che si applicano in Svizzera sono definite nei regolamenti R RTE 29001 e SBB R I-50007.
 - I veicoli che non rispettano le specifiche del regolamento SBB R I-50007 non sono autorizzati a circolare in servizio regolare sulla rete ferroviaria svizzera.
 - – Caso specifico permanente CH-STI INF-010: Sforzo di spostamento del binario.
@@ -1166,16 +1162,14 @@ In Svizzera si applicano i seguenti casi specifici di cui all’articolo 6 della
 - I marciapiedi costruiti in base all’omologazione citata sopra rispettano le specifiche della parte inferiore della sagoma limite conformemente al punto 4.2.3.1, paragrafo 2, della STI Infrastruttura.
 - Non vi sono pertanto restrizioni al passaggio dei veicoli interoperabili.
 
--
+In Svizzera si applica la seguente disposizione nazionale di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
-  In Svizzera si applica la seguente disposizione nazionale di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+- – CH-TSI INF-004 (versione 2.0, giugno 2024): Sopraelevazione massima con raggi ridotti;
+- – CH-TSI-INF-005 (versione 2.0, giugno 2024): Geometria in servizio dei dispositivi di armamento;
+- – CH-TSI-INF-006 (versione 2.0, giugno 2024): Resistenza longitudinale del binario; compatibilità con i sistemi di frenatura;
+- – CH-TSI-INF-009 (versione 2.0, giugno 2024): Resistenza laterale del binario; omologazione dei veicoli riferita alla tratta per treni ad assetto variabile. Difetto di sopraelevazione nei binari di corsa e lungo il binario principale dei dispositivi di armamento.
 
-  - – CH-TSI INF-004 (versione 2.0, giugno 2024): Sopraelevazione massima con raggi ridotti;
-  - – CH-TSI-INF-005 (versione 2.0, giugno 2024): Geometria in servizio dei dispositivi di armamento;
-  - – CH-TSI-INF-006 (versione 2.0, giugno 2024): Resistenza longitudinale del binario; compatibilità con i sistemi di frenatura;
-  - – CH-TSI-INF-009 (versione 2.0, giugno 2024): Resistenza laterale del binario; omologazione dei veicoli riferita alla tratta per treni ad assetto variabile. Difetto di sopraelevazione nei binari di corsa e lungo il binario principale dei dispositivi di armamento.»
-
-Regolamento (UE) n. 1300/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per l’accessibilità del sistema ferroviario dell’Unione per le persone con disabilità e le persone a mobilità ridotta (GU L 356 del 12.12.2014, pag. 110), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
+– Regolamento (UE) n. 1300/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per l’accessibilità del sistema ferroviario dell’Unione per le persone con disabilità e le persone a mobilità ridotta (GU L 356 del 12.12.2014, pag. 110), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
 
 In Svizzera si applica la seguente disposizione nazionale di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
@@ -1183,105 +1177,103 @@ In Svizzera si applica la seguente disposizione nazionale di cui all’articolo 
 - – CH-TSI-PRM-002 (giugno 2015): Sottosistema Infrastruttura: specifiche tecniche e funzionali,
 - – CH-TSI-PRM-003 (giugno 2017): Posizione dei gradini per entrare e uscire dal veicolo.
 
-Regolamento (UE) n. 1301/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per il sottosistema «Energia» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 179), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
+– Regolamento (UE) n. 1301/2014 della Commissione, del 18 novembre 2014, relativo alle specifiche tecniche di interoperabilità per il sottosistema «Energia» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 179), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
 
 In Svizzera si applicano i seguenti casi specifici di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
 - – Caso specifico permanente CH-STI ENE-001: sagoma del pantografo, articolo di riferimento della STI 4.2.10 (1)
-  - Per i sottosistemi «energia» nuovi, aggiornati o rinnovati sulla rete interoperabile svizzera, conformemente alle disposizioni di esecuzione del 15 dicembre 1983 dell’ordinanza sulle ferrovie (DE-Oferr; RS *742.141.11*), versione del 1.7.2024, ad art. 18, scartamento normale, DE 18, figure, figura 12, e ad art. 18/47, DE 18.2/47.2, sagoma di riferimento, n. 14 la sagoma del pantografo è specificata come segue:
-
-- – Oferr S1: geometria dell’archetto tipo 1450 mm con corni finali in materiale isolante
-- – Oferr S2: geometria dell’archetto tipo 1450 mm o 1600 mm con corni finali in materiale isolante
-- – Oferr S3: geometria dell’archetto tipo 1600 mm
-- – Oferr S4: geometria dell’archetto tipo 1950 mm
-
-Nota: per circolare sulle tratte esistenti, le unità elettriche (materiale rotabile) devono essere munite di pantografo con archetto di larghezza pari a 1450 mm (con corni finali in materiale isolante), conformemente alla figura B.1 della norma EN 50367:2020.
-
-Regolamento (UE) n. 1302/2014 della Commissione, del 18 novembre 2014, relativo a una specifica tecnica di interoperabilità per il sottosistema «Materiale rotabile – Locomotive e materiale rotabile per il trasporto di passeggeri» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2024, pag. 228), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
-
 -
 
-  In Svizzera si applicano i seguenti casi specifici di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+  Per i sottosistemi «energia» nuovi, aggiornati o rinnovati sulla rete interoperabile svizzera, conformemente alle disposizioni di esecuzione del 15 dicembre 1983 dell’ordinanza sulle ferrovie (DE-Oferr; RS *742.141.11*), versione del 1.7.2024, ad art. 18, scartamento normale, DE 18, figure, figura 12, e ad art. 18/47, DE 18.2/47.2, sagoma di riferimento, n. 14 la sagoma del pantografo è specificata come segue:
 
-  - – Caso specifico permanente CH-STI LOC&PAS-004: sforzo di spostamento del binario, articolo di riferimento della STI 4.2.3.4
-  - Lo sforzo massimo ammesso di spostamento del binario (somma degli sforzi di guida) per ogni singolo asse di un veicolo è limitato, lato infrastruttura, dalla resistenza allo spostamento laterale del binario ammessa. In seguito alle caratteristiche di costruzione della sovrastruttura del binario, in Svizzera si deve adottare un coefficiente di α = k1 = 0,85 come valore norma utilizzato generalmente per il calcolo dello sforzo di spostamento massimo ammesso.
-  - Un coefficiente di α = k1 = 1,0 può essere utilizzato solo in casi eccezionali e richiede particolari chiarimenti.
-  - Le prove tecniche di circolazione vanno svolte sulla base del coefficiente α = k1 = 0,85.
-  - – Caso specifico permanente CH-STI LOC&PAS-005: difetto di sopraelevazione, articoli di riferimento della STI LOC&PAS 4.2.3.4.2 e STI WAG 4.2.3.5
-  - La velocità di circolazione ammissibile sulla rete ferroviaria svizzera è definita sulla scorta di difetti di sopraelevazione nel binario pari a 130 mm (per i treni merci) e a 150 mm (per i treni viaggiatori), accettati senza altre verifiche. Per garantire la sicurezza dell’esercizio è imperativo un controllo dei veicoli sulla scorta di questi valori.
-  - I veicoli non verificati rispetto ai suddetti difetti di sopraelevazione non possono circolare sulla rete ferroviaria svizzera.
-  - – Caso specifico permanente CH-STI LOC&PAS-017: sagoma - in generale, articolo di riferimento della STI LOC&PAS 4.2.3.1
-  -
+  - – Oferr S1: geometria dell’archetto tipo 1450 mm con corni finali in materiale isolante
+  - – Oferr S2: geometria dell’archetto tipo 1450 mm o 1600 mm con corni finali in materiale isolante
+  - – Oferr S3: geometria dell’archetto tipo 1600 mm
+  - – Oferr S4: geometria dell’archetto tipo 1950 mm
 
-    È stabilita la seguente compatibilità tra le sagome Oferr e quelle internazionali di cui alla norma EN 15273‑1:2013:
+- Nota: per circolare sulle tratte esistenti, le unità elettriche (materiale rotabile) devono essere munite di pantografo con archetto di larghezza pari a 1450 mm (con corni finali in materiale isolante), conformemente alla figura B.1 della norma EN 50367:2020.
 
-    - – sagoma G1: ammessa senza restrizioni;
-    - – sagoma GA: ammessa con restrizioni nell’ambito della sagoma Oferr O1. La sagoma cinematica del materiale rotabile (parte superiore) deve essere calcolata, per tutte le altezze h, sulla scorta delle formule applicate per la sagoma G1. In Svizzera non sono consentite le deroghe previste per le altezze h &gt; 3,250 m dalla norma EN 15273‑2, allegato B, B.3.3.1, B.3.4.1, B.3.5.1 e B.3.6.1. Nell’ambito della sagoma Oferr O1 sono autorizzati i carichi standard per la sagoma GA precisati nella scheda UIC 506, allegato B, articolo B.1.1;
-    - – sagoma GB: ammessa con restrizioni nell’ambito della sagoma Oferr O2. La sagoma cinematica del materiale rotabile (parte superiore) deve essere calcolata, per tutte le altezze h, sulla scorta delle formule applicate per la sagoma G1. In Svizzera non sono consentite le deroghe previste per le altezze h &gt; 3,250 m dalla norma EN 15273‑2, allegato B, B.3.3.1, B.3.4.1, B.3.5.1 e B.3.6.1. Nell’ambito della sagoma Oferr O2 sono autorizzati i carichi standard per la sagoma GB precisati nella scheda UIC 506, allegato B, articolo B.1.1;
-    - – sagoma GC: ammessa senza restrizioni nell’ambito della sagoma Oferr O4.
-    - La sagoma dell’infrastruttura (parte superiore) è calcolata, per tutte le tipologie (ad es. Oferr O1, Oferr O2, Oferr O4), in conformità alla norma EN 15273‑1:2013, allegato C, C.2.1, tabella C1 (rispettivamente allegato C, C.2.3, tabella C4), in funzione delle sagome cinematiche di riferimento e delle rispettive regole di calcolo. In Svizzera non è consentita l’applicazione delle formule di cui alla norma EN 15273‑3:2013, allegato C, tabelle C.2 e C.3 (per le altezze h &gt; 3,250 m).
+– Regolamento (UE) n. 1302/2014 della Commissione, del 18 novembre 2014, relativo a una specifica tecnica di interoperabilità per il sottosistema «Materiale rotabile– Locomotive e materiale rotabile per il trasporto di passeggeri» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2024, pag. 228), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
 
-  - – Caso specifico permanente CH-STI LOC&PAS-028: sagoma, zona delle porte, articolo di riferimento della STI LOC&PAS 4.2.3.1
-  - Oltre alle regole particolari per le porte di accesso in posizione di apertura e per i predellini retrattili in posizione di estrazione di cui alla norma EN 15273‑2, Appendice A, A.3.14, devono essere rispettate le prescrizioni delle DE-Oferr, DE 47, ad art. 47.2, n. 7. Secondo queste direttive non è consentito il superamento della sagoma limite per le porte di accesso laterali e i predellini retrattili al di sotto di 0,6 m dal piano di rotolamento.
-  - Le porte di accesso che rispettano le prescrizioni della scheda UIC 560, numeri da 1.1.4 a 1.1.4.3, sono tuttavia ammesse.
+In Svizzera si applicano i seguenti casi specifici di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
+- – Caso specifico permanente CH-STI LOC&PAS-004: sforzo di spostamento del binario, articolo di riferimento della STI 4.2.3.4
+- Lo sforzo massimo ammesso di spostamento del binario (somma degli sforzi di guida) per ogni singolo asse di un veicolo è limitato, lato infrastruttura, dalla resistenza allo spostamento laterale del binario ammessa. In seguito alle caratteristiche di costruzione della sovrastruttura del binario, in Svizzera si deve adottare un coefficiente di α = k1 = 0,85 come valore norma utilizzato generalmente per il calcolo dello sforzo di spostamento massimo ammesso.
+- Un coefficiente di α = k1 = 1,0 può essere utilizzato solo in casi eccezionali e richiede particolari chiarimenti.
+- Le prove tecniche di circolazione vanno svolte sulla base del coefficiente α = k1 = 0,85.
+- – Caso specifico permanente CH-STI LOC&PAS-005: difetto di sopraelevazione, articoli di riferimento della STI LOC&PAS 4.2.3.4.2 e STI WAG 4.2.3.5
+- La velocità di circolazione ammissibile sulla rete ferroviaria svizzera è definita sulla scorta di difetti di sopraelevazione nel binario pari a 130 mm (per i treni merci) e a 150 mm (per i treni viaggiatori), accettati senza altre verifiche. Per garantire la sicurezza dell’esercizio è imperativo un controllo dei veicoli sulla scorta di questi valori.
+- I veicoli non verificati rispetto ai suddetti difetti di sopraelevazione non possono circolare sulla rete ferroviaria svizzera.
+- – Caso specifico permanente CH-STI LOC&PAS-017: sagoma - in generale, articolo di riferimento della STI LOC&PAS 4.2.3.1
 -
 
-  In Svizzera si applicano le seguenti disposizioni nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+  È stabilita la seguente compatibilità tra le sagome Oferr e quelle internazionali di cui alla norma EN 15273‑1:2013:
 
-  - – CH-TSI LOC&PAS-001 (versione 1.1, giugno 2024): Larghezza dell’archetto del pantografo;
-  - – CH-TSI LOC&PAS-002 (versione 2.1, giugno 2024): Tracciato degli scambi stretto / prove per la circolazione sugli scambi;
-  - – CH-TSI LOC&PAS-003 (versione 2.1, giugno 2024): Raggi di curvatura stretti r &lt; 250 m;
-  - – CH-TSI LOC&PAS-006 (versione 2.1, giugno 2024): Approvazione di veicoli con tecnica d’inclinazione secondo la categoria N;
-  - – CH-TSI LOC&PAS-007 (versione 2.1, giugno 2024): Ungibordini;
-  - – CH-TSI LOC&PAS-009 (versione 1.1, giugno 2024): Emissioni dei gas di scarico dei veicoli termici (norma potenzialmente incompatibile con il regolamento (UE) 2016/1628, da verificare entro il 31 dicembre 2025);
-  - – CH-TSI LOC&PAS-012 (versione 1.0, luglio 2016): Ammettenza;
-  - – CH-TSI LOC&PAS 013 (versione 1.1, giugno 2024): Interazione pantografo/linea di contatto;
-  - – CH-TSI LOC&PAS-014a (versione 2.0, giugno 2021): Caratteristiche del materiale rotabile per la compatibilità con il sistema di rilevamento del treno basato su circuiti;
-  - – CH-TSI LOC&PAS-014b (versione 2.0, giugno 2021): Caratteristiche del materiale rotabile per la compatibilità con il sistema di rilevamento del treno basato su conta-assi;
-  - – CH-TSI LOC&PAS-019 (versione 3.0, giugno 2024): Il «non leading input signal» (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2025);
-  - – CH-TSI LOC&PAS-020 (versione 3.0, giugno 2024): Segnale «sleeping» in comando multiplo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2025);
-  - – CH-TSI LOC&PAS-022 (versione 3.0, giugno 2024): Richiamo della frenatura imposta;
-  - – CH-TSI LOC&PAS-025 (versione 2.2, giugno 2024): Azionamento impedito per la separazione dell’equipaggiamento ETCS di bordo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2025);
-  - – CH-TSI LOC&PAS-027 (versione 3.0, giugno 2024): Radiotelecomando manuale nel servizio di manovra (regime d’esercizio «Shunting») (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2025);
-  - – CH-TSI LOC&PAS-030 (versione 2.0, giugno 2021): Impiego di sistemi di frenatura che non generano forze di aderenza;
-  - – CH-TSI LOC&PAS-031 (versione 3.0, giugno 2024): Disinserimento sicuro della trazione (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2025);
-  - – CH-TSI LOC&PAS-035 (versione 2.2, giugno 2024): Sufficienti prestazioni di frenatura in caso di frenatura imposta (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2025);
-  - – CH-TSI LOC&PAS-036 (versione 2.2, giugno 2024): Veicoli con banco di guida per entrambe le direzioni di marcia (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2025).
+  - – sagoma G1: ammessa senza restrizioni;
+  - – sagoma GA: ammessa con restrizioni nell’ambito della sagoma Oferr O1. La sagoma cinematica del materiale rotabile (parte superiore) deve essere calcolata, per tutte le altezze h, sulla scorta delle formule applicate per la sagoma G1. In Svizzera non sono consentite le deroghe previste per le altezze h &gt; 3,250 m dalla norma EN 15273‑2, allegato B, B.3.3.1, B.3.4.1, B.3.5.1 e B.3.6.1. Nell’ambito della sagoma Oferr O1 sono autorizzati i carichi standard per la sagoma GA precisati nella scheda UIC 506, allegato B, articolo B.1.1;
+  - – sagoma GB: ammessa con restrizioni nell’ambito della sagoma Oferr O2. La sagoma cinematica del materiale rotabile (parte superiore) deve essere calcolata, per tutte le altezze h, sulla scorta delle formule applicate per la sagoma G1. In Svizzera non sono consentite le deroghe previste per le altezze h &gt; 3,250 m dalla norma EN 15273‑2, allegato B, B.3.3.1, B.3.4.1, B.3.5.1 e B.3.6.1. Nell’ambito della sagoma Oferr O2 sono autorizzati i carichi standard per la sagoma GB precisati nella scheda UIC 506, allegato B, articolo B.1.1;
+  - – sagoma GC: ammessa senza restrizioni nell’ambito della sagoma Oferr O4.
+  - La sagoma dell’infrastruttura (parte superiore) è calcolata, per tutte le tipologie (ad es. Oferr O1, Oferr O2, Oferr O4), in conformità alla norma EN 15273‑1:2013, allegato C, C.2.1, tabella C1 (rispettivamente allegato C, C.2.3, tabella C4), in funzione delle sagome cinematiche di riferimento e delle rispettive regole di calcolo. In Svizzera non è consentita l’applicazione delle formule di cui alla norma EN 15273‑3:2013, allegato C, tabelle C.2 e C.3 (per le altezze h &gt; 3,250 m).
 
-Regolamento (UE) n. 1303/2014 della Commissione, del 18 novembre 2014, relativo alla specifica tecnica di interoperabilità concernente la «sicurezza nelle gallerie ferroviarie» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 394), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
+- – Caso specifico permanente CH-STI LOC&PAS-028: sagoma, zona delle porte, articolo di riferimento della STI LOC&PAS 4.2.3.1
+- Oltre alle regole particolari per le porte di accesso in posizione di apertura e per i predellini retrattili in posizione di estrazione di cui alla norma EN 15273‑2, Appendice A, A.3.14, devono essere rispettate le prescrizioni delle DE-Oferr, DE 47, ad art. 47.2, n. 7. Secondo queste direttive non è consentito il superamento della sagoma limite per le porte di accesso laterali e i predellini retrattili al di sotto di 0,6 m dal piano di rotolamento.
+- Le porte di accesso che rispettano le prescrizioni della scheda UIC 560, numeri da 1.1.4 a 1.1.4.3, sono tuttavia ammesse.
 
-Regolamento (UE) n. 1304/2014 della Commissione, del 26 novembre 2014, relativo alla specifica tecnica di interoperabilità per il sottosistema «Materiale rotabile – rumore», che modifica la decisione 2008/232/CE e abroga la decisione 2011/229/UE (GU L 356 del 12.12.2014, pag. 421), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
+In Svizzera si applicano le seguenti disposizioni nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
+
+- – CH-TSI LOC&PAS-001 (versione 1.1, giugno 2024): Larghezza dell’archetto del pantografo;
+- – CH-TSI LOC&PAS-002 (versione 2.1, giugno 2024): Tracciato degli scambi stretto / prove per la circolazione sugli scambi;
+- – CH-TSI LOC&PAS-003 (versione 2.1, giugno 2024): Raggi di curvatura stretti r &lt; 250 m;
+- – CH-TSI LOC&PAS-006 (versione 2.1, giugno 2024): Approvazione di veicoli con tecnica d’inclinazione secondo la categoria N;
+- – CH-TSI LOC&PAS-007 (versione 2.1, giugno 2024): Ungibordini;
+- – CH-TSI LOC&PAS-009 (versione 1.1, giugno 2024): Emissioni dei gas di scarico dei veicoli termici (norma potenzialmente incompatibile con il regolamento (UE) 2016/1628, da verificare entro il 31 dicembre 2027);
+- – CH-TSI LOC&PAS-012 (versione 1.0, luglio 2016): Ammettenza;
+- – CH-TSI LOC&PAS 013 (versione 1.1, giugno 2024): Interazione pantografo/linea di contatto;
+- – CH-TSI LOC&PAS-014a (versione 2.0, giugno 2021): Caratteristiche del materiale rotabile per la compatibilità con il sistema di rilevamento del treno basato su circuiti;
+- – CH-TSI LOC&PAS-014b (versione 2.0, giugno 2021): Caratteristiche del materiale rotabile per la compatibilità con il sistema di rilevamento del treno basato su conta-assi;
+- – CH-TSI LOC&PAS-019 (versione 3.0, giugno 2024): Il «non leading input signal» (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2027);
+- – CH-TSI LOC&PAS-020 (versione 3.0, giugno 2024): Segnale «sleeping» in comando multiplo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2027);
+- – CH-TSI LOC&PAS-022 (versione 3.0, giugno 2024): Richiamo della frenatura imposta;
+- – CH-TSI LOC&PAS-025 (versione 2.2, giugno 2024): Azionamento impedito per la separazione dell’equipaggiamento ETCS di bordo (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2027);
+- – CH-TSI LOC&PAS-027 (versione 3.0, giugno 2024): Radiotelecomando manuale nel servizio di manovra (regime d’esercizio «Shunting») (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2027);
+- – CH-TSI LOC&PAS-030 (versione 2.0, giugno 2021): Impiego di sistemi di frenatura che non generano forze di aderenza;
+- – CH-TSI LOC&PAS-031 (versione 3.0, giugno 2024): Disinserimento sicuro della trazione (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2027);
+- – CH-TSI LOC&PAS-035 (versione 2.2, giugno 2024): Sufficienti prestazioni di frenatura in caso di frenatura imposta (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2027);
+- – CH-TSI LOC&PAS-036 (versione 2.2, giugno 2024): Veicoli con banco di guida per entrambe le direzioni di marcia (norma potenzialmente incompatibile con il regolamento (UE) n. 1302/2014, da verificare entro il 31 dicembre 2027).
+
+– Regolamento (UE) n. 1303/2014 della Commissione, del 18 novembre 2014, relativo alla specifica tecnica di interoperabilità concernente la «sicurezza nelle gallerie ferroviarie» del sistema ferroviario dell’Unione europea (GU L 356 del 12.12.2014, pag. 394), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
+
+– Regolamento (UE) n. 1304/2014 della Commissione, del 26 novembre 2014, relativo alla specifica tecnica di interoperabilità per il sottosistema «Materiale rotabile – rumore», che modifica la decisione 2008/232/CE e abroga la decisione 2011/229/UE (GU L 356 del 12.12.2014, pag. 421), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
 
 In Svizzera si applica la seguente disposizione nazionale di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
 - – CH-TSI NOI-001 (versione 2.0, giugno 2024): Valori limite d’emissione per carri merci.
 
-Regolamento (UE) n. 1305/2014 della Commissione, dell’11 dicembre 2014, relativo alla specifica tecnica di interoperabilità per il sottosistema «applicazioni telematiche per il trasporto merci» del sistema ferroviario dell’Unione europea e che abroga il regolamento (CE) n. 62/2006 (GU L 356 del 12.12.2014, pag. 438), modificato da ultimo dal regolamento di esecuzione (UE) 2019/778 della Commissione del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 356).
+– Regolamento (UE) n. 1305/2014 della Commissione, dell’11 dicembre 2014, relativo alla specifica tecnica di interoperabilità per il sottosistema «applicazioni telematiche per il trasporto merci» del sistema ferroviario dell’Unione europea e che abroga il regolamento (CE) n. 62/2006 (GU L 356 del 12.12.2014, pag. 438), modificato da ultimo dal regolamento di esecuzione (UE) 2019/778 della Commissione del 16 maggio 2019 (GU L 139 I del 27.5.2019, pag. 356).
 
-Regolamento di esecuzione (UE) 2015/171 della Commissione, del 4 febbraio 2015, su taluni aspetti della procedura per il rilascio di licenze alle imprese ferroviarie (GU L 29 del 5.2.2015, pag. 3).
+– Regolamento di esecuzione (UE) 2015/171 della Commissione, del 4 febbraio 2015, su taluni aspetti della procedura per il rilascio di licenze alle imprese ferroviarie (GU L 29 del 5.2.2015, pag. 3).
 
-Regolamento di esecuzione (UE) 2015/429 della Commissione, del 13 marzo 2015, recante le modalità di applicazione dell’imposizione di canoni per il costo degli effetti acustici (GU L 70 del 13.3.2015, pag. 36).
+– Regolamento di esecuzione (UE) 2015/429 della Commissione, del 13 marzo 2015, recante le modalità di applicazione dell’imposizione di canoni per il costo degli effetti acustici (GU L 70 del 13.3.2015, pag. 36).
 
-Regolamento di esecuzione (UE) 2015/909 della Commissione, del 12 giugno 2015, relativo alle modalità di calcolo dei costi direttamente legati alla prestazione del servizio ferroviario (GU L 148 del 13.6.2015, pag. 17).
+– Regolamento di esecuzione (UE) 2015/909 della Commissione, del 12 giugno 2015, relativo alle modalità di calcolo dei costi direttamente legati alla prestazione del servizio ferroviario (GU L 148 del 13.6.2015, pag. 17).
 
-Regolamento di esecuzione (UE) 2015/1100 della Commissione, del 7 luglio 2015, concernente gli obblighi di comunicazione degli Stati membri nell’ambito del monitoraggio del mercato dei servizi ferroviari (GU L 181 del 9.7.2015, pag. 1)
+– Regolamento di esecuzione (UE) 2015/1100 della Commissione, del 7 luglio 2015, concernente gli obblighi di comunicazione degli Stati membri nell’ambito del monitoraggio del mercato dei servizi ferroviari (GU L 181 del 9.7.2015, pag. 1)
 
-Direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, relativa all’interoperabilità del sistema ferroviario dell’Unione europea (rifusione) (GU L 138 del 26.5.2016, pag. 44).
+– Direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, relativa all’interoperabilità del sistema ferroviario dell’Unione europea (rifusione) (GU L 138 del 26.5.2016, pag. 44).
 
-Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie (rifusione) (GU L 138 del 26.5.2016, pag. 102).
+– Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie (rifusione) (GU L 138 del 26.5.2016, pag. 102).
 
-Regolamento di esecuzione (UE) 2018/545 della Commissione, del 4 aprile 2018, che stabilisce modalità pratiche per la procedura di autorizzazione dei veicoli ferroviari e la procedura di autorizzazione dei tipi di veicoli ferroviari a norma della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L 90 del 6.4.2018, pag. 66).
+– Regolamento di esecuzione (UE) 2018/545 della Commissione, del 4 aprile 2018, che stabilisce modalità pratiche per la procedura di autorizzazione dei veicoli ferroviari e la procedura di autorizzazione dei tipi di veicoli ferroviari a norma della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L 90 del 6.4.2018, pag. 66).
 
-Regolamento delegato (UE) 2018/761 della Commissione, del 16 febbraio 2018, che istituisce metodi comuni di sicurezza per la supervisione da parte delle autorità nazionali preposte alla sicurezza in seguito al rilascio di un certificato di sicurezza unico o di un’autorizzazione di sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 1077/2012 della Commissione (GU L 129 del 25.5.2018, pag. 16).
+– Regolamento delegato (UE) 2018/761 della Commissione, del 16 febbraio 2018, che istituisce metodi comuni di sicurezza per la supervisione da parte delle autorità nazionali preposte alla sicurezza in seguito al rilascio di un certificato di sicurezza unico o di un’autorizzazione di sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 1077/2012 della Commissione (GU L 129 del 25.5.2018, pag. 16).
 
-Regolamento delegato (UE) 2018/762 della Commissione, dell’8 marzo 2018, che stabilisce metodi comuni di sicurezza relativi ai requisiti del sistema di gestione della sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga i regolamenti della Commissione (UE) n. 1158/2010 e (UE) n. 1169/2010 (GU L 129 del 25.5.2018, pag. 26).
+– Regolamento delegato (UE) 2018/762 della Commissione, dell’8 marzo 2018, che stabilisce metodi comuni di sicurezza relativi ai requisiti del sistema di gestione della sicurezza a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga i regolamenti della Commissione (UE) n. 1158/2010 e (UE) n. 1169/2010 (GU L 129 del 25.5.2018, pag. 26).
 
-Regolamento di esecuzione (UE) 2018/763 della Commissione, del 9 aprile 2018, che stabilisce le modalità pratiche per il rilascio dei certificati di sicurezza unici alle imprese ferroviarie a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (CE) n. 653/2007 della Commissione (GU L 129 del 25.5.2018, pag. 49).
+– Regolamento di esecuzione (UE) 2018/763 della Commissione, del 9 aprile 2018, che stabilisce le modalità pratiche per il rilascio dei certificati di sicurezza unici alle imprese ferroviarie a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (CE) n. 653/2007 della Commissione (GU L 129 del 25.5.2018, pag. 49).
 
-Regolamento di esecuzione (UE) 2019/250 della Commissione, del 12 febbraio 2019, relativo ai modelli di dichiarazioni e di certificati «CE» per i sottosistemi e i componenti di interoperabilità ferroviari, relativo al modello di dichiarazione di conformità a un tipo di veicolo ferroviario autorizzato e alle procedure «CE» di verifica dei sottosistemi conformemente alla direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 201/2011 (GU L 42 del 13.2.2019, pag. 9).
+– Regolamento di esecuzione (UE) 2019/250 della Commissione, del 12 febbraio 2019, relativo ai modelli di dichiarazioni e di certificati «CE» per i sottosistemi e i componenti di interoperabilità ferroviari, relativo al modello di dichiarazione di conformità a un tipo di veicolo ferroviario autorizzato e alle procedure «CE» di verifica dei sottosistemi conformemente alla direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 201/2011 (GU L 42 del 13.2.2019, pag. 9).
 
-Regolamento di esecuzione (UE) 2019/773 della Commissione, del 16 maggio 2019, relativo alla specifica tecnica di interoperabilità per il sottosistema «Esercizio e gestione del traffico» del sistema ferroviario nell’Unione europea e che abroga la decisione 2012/757/UE (GU L 139 I del 27.5.2019, pag. 5), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1693 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 1).
+– Regolamento di esecuzione (UE) 2019/773 della Commissione, del 16 maggio 2019, relativo alla specifica tecnica di interoperabilità per il sottosistema «Esercizio e gestione del traffico» del sistema ferroviario nell’Unione europea e che abroga la decisione 2012/757/UE (GU L 139 I del 27.5.2019, pag. 5), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1693 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 1).
 
 In Svizzera si applicano le seguenti disposizioni nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
@@ -1302,52 +1294,57 @@ In Svizzera si applicano le seguenti disposizioni nazionali di cui all’articol
 - – CH-TSI-OPE-015 (luglio 2024): sicurezza e attuazione di collegamenti;
 - – CH-TSI-OPE-016 (luglio 2024): classificazione delle procedure di trasmissione.
 
-Regolamento di esecuzione (UE) 2019/777 della Commissione, del 16 maggio 2019, relativo alle specifiche comuni per il registro dell’infrastruttura ferroviaria e che abroga la decisione di esecuzione 2014/880/UE (GU L 139l del 27.5.2019, pag. 312), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
+– Regolamento di esecuzione (UE) 2019/777 della Commissione, del 16 maggio 2019, relativo alle specifiche comuni per il registro dell’infrastruttura ferroviaria e che abroga la decisione di esecuzione 2014/880/UE (GU L 139l del 27.5.2019, pag. 312), modificato da ultimo dal regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 (GU L 222 dell’8.9.2023, pag. 88).
 
-Regolamento di esecuzione (UE) 2019/779 della Commissione, del 16 maggio 2019, che stabilisce disposizioni dettagliate su un sistema di certificazione dei soggetti responsabili della manutenzione dei veicoli a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 445/2011 della Commissione (GU L 139 I del 27.5.2019, pag. 360).
+– Regolamento di esecuzione (UE) 2019/779 della Commissione, del 16 maggio 2019, che stabilisce disposizioni dettagliate su un sistema di certificazione dei soggetti responsabili della manutenzione dei veicoli a norma della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 445/2011 della Commissione (GU L 139 I del 27.5.2019, pag. 360).
 
-Raccomandazione (UE) 2019/780 della Commissione, del 16 maggio 2019, sulle modalità pratiche per il rilascio delle autorizzazioni di sicurezza ai gestori delle infrastrutture (GU L 139 I del 27.5.2019, pag. 390).
+– Raccomandazione (UE) 2019/780 della Commissione, del 16 maggio 2019, sulle modalità pratiche per il rilascio delle autorizzazioni di sicurezza ai gestori delle infrastrutture (GU L 139 I del 27.5.2019, pag. 390).
 
-Decisione di esecuzione (UE) 2020/453 della Commissione del 27 marzo 2020 relativa alle norme armonizzate per i prodotti ferroviari redatte a sostegno della direttiva 2008/57/CE del Parlamento europeo e del Consiglio relativa all’interoperabilità del sistema ferroviario comunitario (GU L 95 del 30.3.2020, pag. 1).
+– Regolamento di esecuzione (UE) 2020/572 della Commissione del 24 aprile 2020 relativo al formato da seguire nelle relazioni d’indagine su incidenti e inconvenienti ferroviari (GU L 132 del 27.4.2020, pag. 10).
 
-Regolamento (UE) 2021/782 del Parlamento europeo e del Consiglio, del 29 aprile 2021, relativo ai diritti e agli obblighi dei passeggeri nel trasporto ferroviario (rifusione) (GU L 172 del 17.5.2021, pag. 1).
+– Regolamento (UE) 2021/782 del Parlamento europeo e del Consiglio, del 29 aprile 2021, relativo ai diritti e agli obblighi dei passeggeri nel trasporto ferroviario (rifusione) (GU L 172 del 17.5.2021, pag. 1).
 
-- – Regolamento di esecuzione (UE) 2023/1693 della Commissione del 10 agosto 2023 che modifica il regolamento di esecuzione (UE) 2019/773 relativo alla specifica tecnica di interoperabilità per il sottosistema «Esercizio e gestione del traffico» del sistema ferroviario nell’Unione europea (GU L 222 dell’8.9.2023, pag. 1).
-- – Regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 recante modifica dei regolamenti (UE) n. 321/2013, (UE) n. 1299/2014, (UE) n. 1300/2014, (UE) n. 1301/2014, (UE) n. 1302/2014 e (UE) n. 1304/2014 e del regolamento di esecuzione (UE) 2019/777 (GU L 222 dell’8.9.2023, pag. 88).
-- – Regolamento di esecuzione (UE) 2023/1695 della Commissione del 10 agosto 2023 relativo alla specifica tecnica di interoperabilità per i sottosistemi «controllo-comando e segnalamento» del sistema ferroviario nell’Unione europea e che abroga il regolamento (UE) 2016/919 (GU L 222 dell’8.9.2023, pag. 380).
+– Regolamento di esecuzione (UE) 2023/1693 della Commissione del 10 agosto 2023 che modifica il regolamento di esecuzione (UE) 2019/773 relativo alla specifica tecnica di interoperabilità per il sottosistema «Esercizio e gestione del traffico» del sistema ferroviario nell’Unione europea (GU L 222 dell’8.9.2023, pag. 1).
+
+– Regolamento di esecuzione (UE) 2023/1694 della Commissione del 10 agosto 2023 recante modifica dei regolamenti (UE) n. 321/2013, (UE) n. 1299/2014, (UE) n. 1300/2014, (UE) n. 1301/2014, (UE) n. 1302/2014 e (UE) n. 1304/2014 e del regolamento di esecuzione (UE) 2019/777 (GU L 222 dell’8.9.2023, pag. 88).
+
+– Regolamento di esecuzione (UE) 2023/1695 della Commissione del 10 agosto 2023 relativo alla specifica tecnica di interoperabilità per i sottosistemi «controllo-comando e segnalamento» del sistema ferroviario nell’Unione europea e che abroga il regolamento (UE) 2016/919 (GU L 222 dell’8.9.2023, pag. 380).
 
 In Svizzera si applicano le seguenti disposizioni nazionali di cui all’articolo 6 della decisione n. 2/2019 del Comitato misto:
 
 - − CH-TSI CCS-003 (versione 2.1, giugno 2024): Attivazione / disattivazione della trasmissione del pacchetto 44 al sistema SIGNUM/ZUB;
-- − CH-TSI CCS-006 (versione 3.0, novembre 2024): Perdita «non leading permitted» nel regime d’esercizio «Non Leading» (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2025);
+- − CH-TSI CCS-006 (versione 3.0, giugno 2024): Perdita «non leading permitted» nel regime d’esercizio «Non Leading» (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2027);
 - − CH-TSI CCS-007 (versione 2.2, giugno 2024): Norme concernenti le curve di frenatura per ERTMS/ETCS Baseline 2;
 - − CH-TSI CCS-008 (versione 4.0, giugno 2024): Implementazione minima di Change Request;
 - − CH-TSI CCS-011 (versione 2.1, giugno 2024): Funzionalità degli Euroloop;
 - − CH-TSI CCS-016 (versione 3.1, giugno 2024): Impiego di valori parametrici e funzionalità ETCS specifici del paese;
 - − CH-TSI CCS-018 (versione 2.0, giugno 2024): Divieto del Level STM/NTC per SIGNUM/ZUB;
-- − CH-TSI CCS-019 (versione 3.1, giugno 2024): Ripresa e visualizzazione automatica di dati treno (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2025);
+- − CH-TSI CCS-019 (versione 3.1, giugno 2024): Ripresa e visualizzazione automatica di dati treno (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2027);
 - − CH-TSI CCS-022 (versione 2.2, giugno 2024): Circolazione a ritroso nel regime d’esercizio «Unfitted»;
 - − CH-TSI CCS-023 (versione 2.1, giugno 2024): Visualizzazione di messaggi di testo;
 - − CH-TSI CCS-024 (versione 4.0, giugno 2024): Immissione flessibile dei dati;
-- − CH-TSI CCS-026 (versione 2.2, giugno 2024): Online Monitoring dell’equipaggiamento della tratta sul veicolo (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2025);
-- − CH-TSI CCS-032 (versione 2.2, giugno 2024): Immissione unica del numero di treno per l’equipaggiamento ETCS di bordo e la GSM-RCabRadio (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2025);
-- − CH-TSI CCS-033 (versione 2.1, giugno 2024): Funzionalità GSM-R Voice (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2025);
+- − CH-TSI CCS-026 (versione 2.2, giugno 2024): Online Monitoring dell’equipaggiamento della tratta sul veicolo (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2027);
+- − CH-TSI CCS-032 (versione 2.2, giugno 2024): Immissione unica del numero di treno per l’equipaggiamento ETCS di bordo e la GSM-RCabRadio (norma potenzialmente incompatibile con il regolamento (UE) 2016/919, da verificare entro il 31 dicembre 2027);
+- − CH-TSI CCS-033 (versione 2.1, giugno 2024): Funzionalità GSM-R Voice (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2027);
 - − CH-TSI CCS-034 (versione 1.1, giugno 2024): Regime d’esercizio «Non Leading»;
-- − CH-TSI CCS-038 (versione 1.2, giugno 2024): Rivelazione in caso di notevole ampliamento dell’intervallo di confidenza dell’odometria (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2025);
-- − CH-CSM-RA-001 (versione 2.1, giugno 2024): Programma di attestazione della sicurezza per l’ottenimento di un’omologazione ETCS in Svizzera (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2025).
-- – Decisione di esecuzione (UE) 2023/1696 della Commissione del 10 agosto 2023 recante modifica della decisione di esecuzione 2011/665/UE per quanto riguarda le specifiche del registro europeo dei tipi di veicoli autorizzati di cui all’articolo 48 della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L 222 dell’8.9.2023, pag. 561).
-- – Decisione di esecuzione (UE) 2023/2584 della Commissione, del 15 novembre 2023, relativa alle norme armonizzate per l’interoperabilità dei sistemi ferroviari redatte a sostegno della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L, 2023/2584, 21.11.2023).
-- – Regolamento di esecuzione (UE) 2024/949 della Commissione, del 27 marzo 2024, che definisce un modulo comune per le richieste di rimborso e di indennizzo dei passeggeri nel trasporto ferroviario in caso di ritardi, perdite di coincidenza e soppressioni di servizi ferroviari conformemente al regolamento (UE) 2021/782 del Parlamento europeo e del Consiglio (GU L, 2024/949, 2.4.2024).
+- − CH-TSI CCS-038 (versione 1.2, giugno 2024): Rivelazione in caso di notevole ampliamento dell’intervallo di confidenza dell’odometria (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2027);
+- − CH-CSM-RA-001 (versione 2.1, giugno 2024): Programma di attestazione della sicurezza per l’ottenimento di un’omologazione ETCS in Svizzera (norma potenzialmente incompatibile con il regolamento (UE) 2023/1695, da verificare entro il 31 dicembre 2027).
+
+– Decisione di esecuzione (UE) 2023/1696 della Commissione del 10 agosto 2023 recante modifica della decisione di esecuzione 2011/665/UE per quanto riguarda le specifiche del registro europeo dei tipi di veicoli autorizzati di cui all’articolo 48 della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L 222 dell’8.9.2023, pag. 561).
+
+– Decisione di esecuzione (UE) 2023/2584 della Commissione, del 15 novembre 2023, relativa alle norme armonizzate per l’interoperabilità dei sistemi ferroviari redatte a sostegno della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio (GU L, 2023/2584, 21.11.2023).
+
+– Regolamento di esecuzione (UE) 2024/949 della Commissione, del 27 marzo 2024, che definisce un modulo comune per le richieste di rimborso e di indennizzo dei passeggeri nel trasporto ferroviario in caso di ritardi, perdite di coincidenza e soppressioni di servizi ferroviari conformemente al regolamento (UE) 2021/782 del Parlamento europeo e del Consiglio (GU L, 2024/949, 2.4.2024).
 
 ### Sezione 5: Altri settori
 
-Direttiva 92/82/CEE del Consiglio, del 19 ottobre 1992, relativa al ravvicinamento delle aliquote di accisa sugli oli minerali (GU L 316 del 31.10.1992, pag. 19).
+– Direttiva 92/82/CEE del Consiglio, del 19 ottobre 1992, relativa al ravvicinamento delle aliquote di accisa sugli oli minerali (GU L 316 del 31.10.1992, pag. 19).
 
-Direttiva 2004/54/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea (GU L 167 del 30.4.2004, pag. 39).
+– Direttiva 2004/54/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea (GU L 167 del 30.4.2004, pag. 39).
 
-Direttiva 2008/96/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008, sulla gestione della sicurezza delle infrastrutture stradali (GU L 319 del 29.11.2008, pag. 59).
+– Direttiva 2008/96/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008, sulla gestione della sicurezza delle infrastrutture stradali (GU L 319 del 29.11.2008, pag. 59).
 
-Regolamento (UE) n. 181/2011 del Parlamento europeo e del Consiglio, del 16 febbraio 2011, relativo ai diritti dei passeggeri nel trasporto effettuato con autobus e che modifica il regolamento (CE) n. 2006/2004 (GU L 55 del 28.2.2011, pag. 1).
+– Regolamento (UE) n. 181/2011 del Parlamento europeo e del Consiglio, del 16 febbraio 2011, relativo ai diritti dei passeggeri nel trasporto effettuato con autobus e che modifica il regolamento (CE) n. 2006/2004 (GU L 55 del 28.2.2011, pag. 1).
 
 Allegato 2
 
@@ -1389,9 +1386,9 @@ La presente licenza autorizza[^annex3-lvlu1-2]
 a effettuare, su tutte le relazioni di traffico, per i tragitti effettuati sul territorio della Comunità, trasporti internazionali di merci su strada per conto terzi secondo la definizione del regolamento (CE) n. 1072/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale del trasporto di merci su strada, conformemente alle disposizioni generali della presente licenza.
 
 <table>
-<tr><td colspan="2">Osservazioni particolari: ............................................................................................................ ……………………………………........................................................................................... ……………………………………...........................................................................................</td></tr>
-<tr><td>La presente licenza è valida dal .......................................................................</td><td>al ……………………………………….......</td></tr>
-<tr><td>Rilasciata a: …………........................................................</td><td>il ………...……………....................................</td></tr>
+<tr><td colspan="2">Osservazioni particolari: ……………………………………………………………………………………………… ……………………………………………………………………………………………………………………. …………………………………………………………………………………………………………………….</td></tr>
+<tr><td>La presente licenza è valida dal ……………………………………………………………..</td><td>al …………………………………………….</td></tr>
+<tr><td>Rilasciata a: …………………………………………………………..</td><td>il ………………………………………………………</td></tr>
 <tr><td colspan="2">………………………………………………………………………..[^annex3-lvlu1-3]</td></tr>
 </table>
 
@@ -1496,29 +1493,29 @@ Allegato 5[^t-6]
 <tr><td colspan="4">Traffico triangolare propriamente detto = quando il veicolo transita, secondo l’itinerario normale, nel paese in cui è immatricolato. Per esempio, un veicolo svizzero che effettua un trasporto dalla Germania all’Italia passando per la Svizzera. Traffico triangolare impropriamente detto = quando il veicolo non transita nel paese in cui è immatricolato. Per esempio un veicolo svizzero che effettua un trasporto dalla Germania all’Italia passando per l’Austria.</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
-[^annex5-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
-[^annex5-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
-[^annex5-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/eli/cc/1974/1638_1638_1638)
-[^annex5-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/eli/cc/1996/1927_1927_1927)
-[^annex5-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
-[^annex5-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
-[^annex5-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/eli/cc/2003/352)
-[^annex5-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
-[^annex5-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
-[^annex5-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
-[^annex5-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/eli/cc/1980/1428_1428_1428)
-[^annex5-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/eli/cc/2001/226)
-[^annex5-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/eli/cc/2003/213)
-[^annex5-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
-[^annex5-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
-[^annex5-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/eli/cc/1977/1659_1659_1659)
-[^annex5-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
-[^annex5-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/eli/cc/1976/863_863_863)
-[^annex5-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/eli/cc/1978/343_343_343)
-[^annex5-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/eli/cc/2000/314)
-[^annex5-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/eli/cc/2002/180)
-[^annex5-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+[^annex5-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2868)
+[^annex5-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2869)
+[^annex5-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2874)
+[^annex5-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2876)
+[^annex5-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2877)
+[^annex5-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2878)
+[^annex5-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2880)
+[^annex5-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2881)
+[^annex5-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2883)
+[^annex5-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2884)
+[^annex5-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2889)
+[^annex5-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2890)
+[^annex5-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2897)
+[^annex5-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2905)
+[^annex5-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2907)
+[^annex5-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2913)
+[^annex5-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2914)
+[^annex5-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2916)
+[^annex5-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2925)
+[^annex5-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2917)
+[^annex5-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2921)
+[^annex5-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2922)
+[^annex5-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2923)
 
 Allegato 6
 
@@ -1532,7 +1529,7 @@ Per viaggi che hanno origine all’estero a destinazione della zona svizzera vic
 
 ### II. Altre esenzioni dal limite di peso
 
-Per viaggi che hanno origine all’estero e destinati ad una località situata oltre la zona svizzera vicina alla frontiera[^annex6-lvlu1-lvlII-1] (e viceversa) e per il transito attraverso la Svizzera può essere autorizzato un peso totale superiore al peso massimo autorizzato in Svizzera nel caso di trasporti non contemplati dall’articolo 8.
+Per viaggi che hanno origine all’estero e destinati ad una località situata oltre la zona svizzera vicina alla frontiera[^annex6-lvlu1-lvlII-1] (e viceversa) e per il transito attraverso la Svizzera può essere autorizzato un peso totale superiore al peso massimo autorizzato in Svizzera nel caso di trasporti non contemplati dall’articolo 8:
 
 - a) per il trasporto di merci indivisibili quando, nonostante l’uso di un veicolo appropriato, le prescrizioni non possono essere rispettate;
 - b) per il trasferimento o l’uso di veicoli speciali, in particolare veicoli da lavoro che, tenuto conto dell’uso cui sono destinati, non possono rispettare le prescrizioni in materia di pesi;
@@ -1579,9 +1576,9 @@ Allegato 7[^t-7]
 Ai fini del presente Accordo si applicano le definizioni seguenti:
 
 - 1\. *Servizi regolari*
-- 1\.1 Per servizi regolari si intendono i servizi che effettuano il trasporto di viaggiatori con una frequenza e su un itinerario determinati e dove i viaggiatori possono salire a bordo e scendere a fermate prestabilite. I servizi regolari sono accessibili a tutti, fatto salvo, se del caso, l’obbligo di prenotare.
+- 1\.1. Per servizi regolari si intendono i servizi che effettuano il trasporto di viaggiatori con una frequenza e su un itinerario determinati e dove i viaggiatori possono salire a bordo e scendere a fermate prestabilite. I servizi regolari sono accessibili a tutti, fatto salvo, se del caso, l’obbligo di prenotare.
 - Un eventuale adeguamento delle condizioni di esercizio del servizio non ne modifica il carattere regolare.
-- 1\.2 Chiunque sia l’organizzatore dei trasporti, sono considerati altresì servizi regolari quelli che effettuano il trasporto di determinate categorie di viaggiatori, a esclusione di altri viaggiatori, purché tali servizi siano effettuati alle condizioni indicate al punto 1.1. Tali servizi sono denominati «servizi regolari specializzati».
+- 1\.2. Chiunque sia l’organizzatore dei trasporti, sono considerati altresì servizi regolari quelli che effettuano il trasporto di determinate categorie di viaggiatori, a esclusione di altri viaggiatori, purché tali servizi siano effettuati alle condizioni indicate al punto 1.1. Tali servizi sono denominati «servizi regolari specializzati».
 -
 
   I servizi regolari specializzati comprendono in particolare:
@@ -1590,12 +1587,12 @@ Ai fini del presente Accordo si applicano le definizioni seguenti:
   - b) il trasporto di scolari e studenti dal domicilio all’istituto scolastico.
 
 - L’adeguamento dell’organizzazione del trasporto alle diverse necessità degli utenti non modifica il carattere regolare dei servizi specializzati.
-- 1\.3 L’organizzazione di servizi paralleli o temporanei, che servono la medesima clientela dei servizi regolari esistenti, la mancata effettuazione di talune fermate o l’effettuazione di fermate supplementari da parte di servizi regolari esistenti sono soggette alle medesime norme che disciplinano questi ultimi.
+- 1\.3. L’organizzazione di servizi paralleli o temporanei, che servono la medesima clientela dei servizi regolari esistenti, la mancata effettuazione di talune fermate o l’effettuazione di fermate supplementari da parte di servizi regolari esistenti sono soggette alle medesime norme che disciplinano questi ultimi.
 - 2\. *Servizi occasionali*
-- 2\.1 Per servizi occasionali si intendono i servizi che non rispondono alla definizione di servizi regolari, compresi i servizi regolari specializzati, e che sono segnatamente caratterizzati dal fatto che trasportano gruppi costituiti su iniziativa di un committente o del trasportatore medesimo.
+- 2\.1. Per servizi occasionali si intendono i servizi che non rispondono alla definizione di servizi regolari, compresi i servizi regolari specializzati, e che sono segnatamente caratterizzati dal fatto che trasportano gruppi costituiti su iniziativa di un committente o del trasportatore medesimo.
 - L’organizzazione di servizi paralleli o temporanei, paragonabili ai servizi regolari esistenti e che servono la medesima clientela di questi ultimi, è soggetta ad autorizzazione secondo la procedura di cui alla sezione I.
-- 2\.2 I servizi di cui al presente punto 2 non perdono il carattere di servizio occasionale per il fatto di essere effettuati con una certa frequenza.
-- 2\.3 I servizi occasionali possono essere offerti da un gruppo di trasportatori che agiscono per conto del medesimo committente.
+- 2\.2. I servizi di cui al presente punto 2 non perdono il carattere di servizio occasionale per il fatto di essere effettuati con una certa frequenza.
+- 2\.3. I servizi occasionali possono essere offerti da un gruppo di trasportatori che agiscono per conto del medesimo committente.
 - I nomi dei trasportatori, nonché, se del caso, i punti in cui si effettuano le coincidenze durante il percorso, sono comunicati alle autorità competenti degli Stati membri dell’Unione europea interessati e della Svizzera, secondo modalità da definirsi ad opera del Comitato misto.
 - 3\. *Trasporto per conto proprio*
 -
@@ -1651,7 +1648,7 @@ In tal caso, il trasportatore deve provvedere affinché i documenti seguenti si 
 <sup>3.</sup> A sostegno della domanda di autorizzazione, il richiedente fornisce tutte le informazioni complementari che ritiene utili o che gli sono chieste dalle autorità competenti per l’autorizzazione, in particolare uno schema di guida che consenta di controllare l’osservanza della normativa relativa ai tempi di guida e ai periodi di riposo, nonché una copia della licenza comunitaria per il trasporto internazionale di viaggiatori su strada per conto terzi per i trasportatori dell’Unione europea o di un’analoga licenza svizzera per i trasportatori svizzeri, rilasciata all’impresa che gestisce il servizio regolare.
 
 [^annex7-lvlu1-secI-3-1]: Regolamento (CE) n. 1073/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che fissa norme comuni per l’accesso al mercato internazionale dei servizi di trasporto effettuati con autobus e che modifica il regolamento (CE) n. 561/2006 (GU L 300 del 14.11.2009, pag. 88), modificato da ultimo dal regolamento (UE) n. 517/2013 del Consiglio del 13 maggio 2013 (GU L 158 del 10.6.2013, pag. 1).
-[^annex7-lvlu1-secI-3-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^annex7-lvlu1-secI-3-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 4
 
@@ -1835,29 +1832,29 @@ Allegato 8[^t-8]
 <tr><td>Svezia</td><td>12.12.1973[^annex8-lvlu1-23]</td><td>22.4.1974</td><td>Articolo 3 – secondo il diritto nazionale</td></tr>
 </table>
 
-[^annex8-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/eli/cc/1954/434_449_333)
-[^annex8-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/eli/cc/1959/315_329_305)
-[^annex8-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/eli/cc/1975/1443_1442_1443)
-[^annex8-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/eli/cc/1974/1638_1638_1638)
-[^annex8-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/eli/cc/1996/1927_1927_1927)
-[^annex8-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/eli/cc/1982/921_921_921)
-[^annex8-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/eli/cc/1963/763_759_787)
-[^annex8-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/eli/cc/2003/352)
-[^annex8-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/eli/cc/1981/518_518_518)
-[^annex8-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/eli/cc/1952/607_623_627)
-[^annex8-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/eli/cc/1971/1628_1628_1628)
-[^annex8-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/eli/cc/1980/1428_1428_1428)
-[^annex8-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/eli/cc/2001/226)
-[^annex8-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/eli/cc/2003/213)
-[^annex8-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/eli/cc/1972/2369_2424_2199)
-[^annex8-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/eli/cc/1952/583_603_607)
-[^annex8-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/eli/cc/1977/1659_1659_1659)
-[^annex8-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/eli/cc/1974/238_237_237)
-[^annex8-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/eli/cc/1976/863_863_863)
-[^annex8-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/eli/cc/1978/343_343_343)
-[^annex8-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/eli/cc/2000/314)
-[^annex8-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/eli/cc/2002/180)
-[^annex8-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/eli/cc/1974/1014_1014_1014)
+[^annex8-lvlu1-1]: [RS 0.741.619.136](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2868)
+[^annex8-lvlu1-2]: [RS 0.741.619.163](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2869)
+[^annex8-lvlu1-3]: [RS 0.741.619.172](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2874)
+[^annex8-lvlu1-4]: [RS 0.741.619.214](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2876)
+[^annex8-lvlu1-5]: [RS 0.741.619.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2877)
+[^annex8-lvlu1-6]: [RS 0.741.619.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2878)
+[^annex8-lvlu1-7]: [RS 0.741.619.332](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2880)
+[^annex8-lvlu1-8]: [RS 0.741.619.334](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2881)
+[^annex8-lvlu1-9]: [RS 0.741.619.345](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2883)
+[^annex8-lvlu1-10]: [RS 0.741.619.349.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2884)
+[^annex8-lvlu1-11]: [RS 0.741.619.372](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2889)
+[^annex8-lvlu1-12]: [RS 0.741.619.418](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2890)
+[^annex8-lvlu1-13]: [RS 0.741.619.487](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2897)
+[^annex8-lvlu1-14]: [RS 0.741.619.516](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2905)
+[^annex8-lvlu1-15]: [RS 0.741.619.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2907)
+[^annex8-lvlu1-16]: [RS 0.741.619.636](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2913)
+[^annex8-lvlu1-17]: [RS 0.741.619.649](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2914)
+[^annex8-lvlu1-18]: [RS 0.741.619.654](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2916)
+[^annex8-lvlu1-19]: [RS 0.741.619.741](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2925)
+[^annex8-lvlu1-20]: [RS 0.741.619.663](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2917)
+[^annex8-lvlu1-21]: [RS 0.741.619.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2921)
+[^annex8-lvlu1-22]: [RS 0.741.619.691](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2922)
+[^annex8-lvlu1-23]: [RS 0.741.619.714](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2923)
 
 Allegato 9
 
@@ -1917,17 +1914,17 @@ Fatto a Lussemburgo, addì ventun giugno millenovecentonovantanove.
 <tr><td>Per la Confederazione svizzera: Pascal Couchepin Joseph Deiss</td><td>Per l’Unione europea: Joschka Fischer Hans van den Broek</td></tr>
 </table>
 
-## Dichiarazione comune relativa all’articolo 38, paragrafo 6
+### Dichiarazione comune relativa all’articolo 38, paragrafo 6
 
 Le Parti contraenti dichiarano che le disposizioni dell’articolo 38, paragrafo 6 non pregiudicano l’applicazione, nel quadro del sistema federale svizzero, degli strumenti attinenti alla perequazione finanziaria federale.
 
-## Dichiarazione comune in merito a futuri negoziati supplementari
+### Dichiarazione comune in merito a futuri negoziati supplementari
 
-La Comunità europea e la Confederazione Svizzera dichiarano che intendono avviare negoziati per la conclusione di accordi nei settori di comune interesse quali l’aggiornamento del protocollo n. 2[^annex10-lvlu4-1] dell’Accordo di libero scambio del 1972 e la partecipazione svizzera a determinati programmi comunitari per la formazione, la gioventù, i media, le statistiche e l’ambiente. I negoziati dovranno essere preparati rapidamente una volta conclusi i negoziati bilaterali attualmente in corso.
+La Comunità europea e la Confederazione Svizzera dichiarano che intendono avviare negoziati per la conclusione di accordi nei settori di comune interesse quali l’aggiornamento del protocollo n. 2[^annex10-lvlu2-lvlu2-1] dell’Accordo di libero scambio del 1972 e la partecipazione svizzera a determinati programmi comunitari per la formazione, la gioventù, i media, le statistiche e l’ambiente. I negoziati dovranno essere preparati rapidamente una volta conclusi i negoziati bilaterali attualmente in corso.
 
-[^annex10-lvlu4-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997)
+[^annex10-lvlu2-lvlu2-1]: [RS 0.632.401.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2423)
 
-## Dichiarazione relativa alla partecipazione della Svizzera ai comitati
+### Dichiarazione relativa alla partecipazione della Svizzera ai comitati
 
 Il Consiglio accetta che i rappresentanti della Svizzera partecipino in veste di osservatori, per i punti che li riguardano, alle riunioni dei seguenti comitati e gruppi di esperti:
 
@@ -1938,23 +1935,23 @@ Il Consiglio accetta che i rappresentanti della Svizzera partecipino in veste di
 
 I rappresentanti della Svizzera non presenziano alle votazioni dei comitati.
 
-Per quanto riguarda gli altri comitati che si occupano dei settori contemplati dai presenti Accordi, per i quali la Svizzera ha ripreso l’«acquis comunitario» o lo applica per equivalenza, la Commissione consulterà gli esperti della Svizzera in conformità dell’articolo 100 dell’Accordo SEE[^annex10-lvlu5-1].
+Per quanto riguarda gli altri comitati che si occupano dei settori contemplati dai presenti Accordi, per i quali la Svizzera ha ripreso l’«acquis comunitario» o lo applica per equivalenza, la Commissione consulterà gli esperti della Svizzera in conformità dell’articolo 100 dell’Accordo SEE[^annex10-lvlu2-lvlu3-1].
 
-[^annex10-lvlu5-1]: [FF 1992 IV 481](https://fedlex.data.admin.ch/eli/fga/1992/4___481)
+[^annex10-lvlu2-lvlu3-1]: [FF 1992 IV 481](https://fedlex.data.admin.ch/eli/fga/1992/4___481)
 
-## Dichiarazione della Svizzera relativa all’utilizzazione dei contingenti (40 t)
+### Dichiarazione della Svizzera relativa all’utilizzazione dei contingenti (40 t)
 
 La Svizzera dichiara che, per i trasporti di importazione, di esportazione e di transito, sarà utilizzato al massimo il 50 per cento dei contingenti fissati all’articolo 8 dell’Accordo per i veicoli svizzeri il cui peso totale effettivo a pieno carico non superi 40 tonnellate.
 
-## Dichiarazione della CE relativa all’utilizzazione dei contingenti (40 t)
+### Dichiarazione della CE relativa all’utilizzazione dei contingenti (40 t)
 
 La Comunità dichiara che, secondo le sue stime attuali, per le operazioni di trasporto bilaterale dovrebbe essere utilizzato il 50 per cento circa dei suoi contingenti fissati a norma dell’articolo 8.
 
-## Dichiarazione della Svizzera relativa all’articolo 40, paragrafo 4
+### Dichiarazione della Svizzera relativa all’articolo 40, paragrafo 4
 
 Per quanto riguarda l’applicazione dei diritti di cui all’articolo 40, paragrafo 4, dell’Accordo, la Svizzera dichiara che fisserà i diritti effettivi applicabili fino all’apertura del primo tunnel di base oppure il 1° gennaio 2008, a seconda di quale data sia precedente, ad un livello inferiore all’importo massimo consentito ai sensi di questa disposizione. In base all’attuale pianificazione, la Svizzera intende fissare il livello nel 2005, nel 2006 e nel 2007 a 292.50 CHF in media e a 350 CHF al massimo.
 
-## Dichiarazione della Svizzera relativa alla semplificazione delle procedure doganali (art. 43, par. 1)
+### Dichiarazione della Svizzera relativa alla semplificazione delle procedure doganali (art. 43, par. 1)
 
 Per facilitare le operazioni di sdoganamento ai punti di frontiera tra l’Unione e la Svizzera, la Svizzera ha accettato le seguenti misure, che saranno approvate su base prioritaria nel corso del 1999 nell’ambito del Comitato misto istituito a norma dell’Accordo del 1992:
 
