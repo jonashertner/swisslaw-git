@@ -3,13 +3,12 @@ canton: BS
 number: "730.150"
 title: Spezielle Bauvorschriften und Bebauungspläne
 language: de
-version: 2025-02-13
-valid_until: 2025-12-10
-version_adopted: 2025-02-04
+version: 2025-12-11
+version_adopted: 2025-10-15
 adopted: 2024-01-31
 in_force: 2024-05-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6562/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6714/pdf_file"
 text: pdf
 ---
 
@@ -47,11 +46,15 @@ Der volle Wortlaut eines Erlasses und der jeweils dazugehörende Plan können be
 
 Im Alphabetischen Register sind gebietsweise die gleichen Strassen- und Ortsnamen verzeichnet wie in den Überschriften der Erlasse. Anhand dieser Stichwörter und der Erlassnummern lassen sich sowohl die Vorschriften als auch die von ihnen erfassten Gebiete ermitteln. Abgesehen von den Plandarstellungen stellt ein solches Register die einzige Möglichkeit dar, die vielen gleichartigen Erlasse einigermassen zu erschliessen.
 
+**I**
+
 - Per 1. Januar 1994 erfolgte die organisatorische Zusammenfassung des Amtes für Kantons- und Stadtplanung mit der Funktion des Kantonsbaumeisters im neu geschaffenen Amt mit dem Namen Hochbau- und Planungsamt. Dies hat zur Folge, dass sich in den vor diesem Datum erlassenen speziellen Bauvorschriften die bisherige Amtsbezeichnung Amt für Kantons- und Stadtplanung findet, in den nach dem 1. Januar 1994 verabschiedeten Erlassen dagegen die nunmehr geltende Bezeichnung Hochbau- und Planungsamt.
 
-- Mit dem am 17. November 1999 verabschiedeten und am 1. Januar 2001 wirksam gewordenen Bau- und Planungsgesetz, das an Stelle des Hochbautengesetzes von 1939 trat, wurde die bisherige Bezeichnung, «spezielle Bauvorschriften» ersetzt durch «Bebauungspläne». Alle vor diesem Datum verabschiedeten Erlasse enthalten somit noch die alte Bezeichnung, wogegen in den nach dem 1. Ja-nuar 2001 verabschiedeten Erlassen der Begriff «Bebauungsplan» zu finden ist.
+- Im Rahmen der Verwaltungs- und Regierungsreform 2009 wechselte die Basler Denkmalpflege am 1. Januar 2009 aus der Abteilung Kultur des Erziehungsdepartements ins Baudepartement. Sie wurde mit dem Hochbau- und Planungsamt zusammengelegt. Aus dieser Zusammenlegung resultierte am 1. September 2010 die Neubenennung dieses Amtes in Abteilung Städtebau und Architektur.
 
-**I**
+- Mit dem am 17. November 1999 verabschiedeten und am 1. Januar 2001 wirksam gewordenen Bau- und Planungsgesetz, das an Stelle des Hochbautengesetzes von 1939 trat, wurde die bisherige Bezeichnung, «spezielle Bauvorschriften» ersetzt durch «Bebauungspläne». Alle vor diesem Datum verabschiedeten Erlasse enthalten somit noch die alte Bezeichnung, wogegen in den nach dem 1. Januar 2001 verabschiedeten Erlassen der Begriff «Bebauungsplan» zu finden ist.
+
+**II**
 
 Redaktion der Gesetzessammlung
 
@@ -121,7 +124,7 @@ Nr.
 
 Liestalerstrasse, der Gellertstrasse und dem St. Alban-Ring. Vom 26. Mai 1955
 
-**II**
+**III**
 
 **17**
 
@@ -129,7 +132,7 @@ Liestalerstrasse, der Gellertstrasse und dem St. Alban-Ring. Vom 26. Mai 1955
 
 **18**
 
-**III**
+**IV**
 
 **34**
 
@@ -317,7 +320,7 @@ Liestalerstrasse, der Gellertstrasse und dem St. Alban-Ring. Vom 26. Mai 1955
 
 **82**
 
-**VI**
+**VII**
 
 **117**
 
@@ -393,11 +396,9 @@ terstrasse / Münchensteinerstrasse / St. Alban-Ring. Vom 21. Oktober 2004
 
 **118**
 
-**VII**
+**VIII**
 
-**152**
-
-**153**
+**150**
 
 180 GRB betreffend Areal Sevogelpark, Festsetzung eines Bebauungsplans im Bereich Sevogelstrasse 104. Vom 27. Juni 2007 Nr.
 
@@ -427,10 +428,10 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 **131**
 
-[^hInhaltsverzeichnis-1]: Titel in der Fassung des GRB vom 22. 10. 1987. IV
-[^hInhaltsverzeichnis-2]: Titel gekürzt. V
+[^hInhaltsverzeichnis-1]: Titel in der Fassung des GRB vom 22. 10. 1987. V
+[^hInhaltsverzeichnis-2]: Titel gekürzt. VI
 [^hInhaltsverzeichnis-3]: Titel in der Fassung des GRB vom 25. 6. 2020 (in Kraft seit 20. 8. 2020, Geschäftsnr. 18.0082).
-[^hInhaltsverzeichnis-4]: Titel in der Fassung des GRB vom 22. 10. 2014 (wirksam seit 7. 12. 2014, Geschäftsnr. 13.1788). VIII
+[^hInhaltsverzeichnis-4]: Titel in der Fassung des GRB vom 22. 10. 2014 (wirksam seit 7. 12. 2014, Geschäftsnr. 13.1788). IX
 
 ### Teil 1 und Teil 2. Vom 7. Januar 2009
 
@@ -444,9 +445,11 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 189 Beschluss des Gemeindrates Bettingen betreffend Erlass eines Bebauungsplans Chrischona (Gebiet). Vom 2. Dezember 2008 / 1. Dezember 2009
 
-190 GRB betreffend Festsetzung eines Bebauungsplans, Änderung der Lärmempfindlichkeitsstufen sowie Abweisung von Einsprachen im Bereich Fasanenstrasse, Schorenweg, Egliseeweglein und in den Schorenmatten (Areal Schoren). Vom 10. März 2010
+190 GRB betreffend Festsetzung eines Bebauungsplans, Änderung der Lärmempfindlichkeitsstufen sowie Abweisung von Einsprachen im Bereich Fasanenstrasse, Schorenweg, Egliseeweglein und in den Schorenmatten (Areal Schoren).
 
 **138**
+
+Vom 10. März 2010
 
 191 GRB betreffend RailCity-Bahnhof SBB; Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe und Abweisung von Einsprachen im Bereich Centralbahnstrasse (Bahnhof SBB). Vom 19. Mai 2010
 
@@ -456,63 +459,63 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 192 GRB betreffend Festsetzung eines Bebauungsplans St. Alban-Anlage / Sevogelstrasse (Gellert-Garage). Vom 9. Juni 2010
 
-**145**
-
-193 GRB betreffend Festsetzung eines Bebauungsplans Grenzacherstrasse (Südareal), Areal F. Hoffmann-La Roche, Basel. Vom 20. Oktober 2010
-
-194 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans und Änderung der Bau- und Strassenlinien im Bereich St. Alban-Vorstadt und Dufourstrasse (ehemals Burghof-Areal) sowie Gewährung eines Baukredits. Vom 17. November 2010 148
+194 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans und Änderung der Bau- und Strassenlinien im Bereich St. Alban-Vorstadt und Dufourstrasse (ehemals Burghof-Areal) sowie Gewährung eines Baukredits. Vom 17. November 2010 145
 
 195 GRB Nutzung Kuppel / Gaswerk betreffend Zonenänderung, Festsetzung eines Bebauungsplans und Abweisung von Einsprachen im Bereich Kuppel / Gaswerk an der Binningerstrasse. Linienänderung und Änderung eines Bebauungsplans im Bereich Bionnigerstrasse, Viaduktstrasse und Heuwaage. Vom 2. Mai 2023.
 
-**150**
+**147**
 
 196 GRB Nutzung Heuwaage betreffend Zonenänderung, Zuweisung der Lärmempfindlichkeitsstufe, Festsetzung eines Bebauungsplans und Abweisung von Einsprachen im Bereich Heuwaage. Vom 16. Februar 2011
 
-**173**
+**149**
+
+197 GRB betreffend Zonenänderung, Änderung der Lärmempfindlichkeitsstufen, Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Bereich St. Jakobs-Strasse, Singerstrasse und Zeughausstrasse (Areal City Gate).
+
+**170**
+
+**172**
+
+**174**
 
 **175**
 
 **177**
 
-**178**
-
 **180**
 
-**183**
+**181 182 183 184**
 
-**184 185 186 187**
-
-197 GRB betreffend Zonenänderung, Änderung der Lärmempfindlichkeitsstufen, Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Bereich St. Jakobs-Strasse, Singerstrasse und Zeughausstrasse (Areal City Gate). Vom 11. Mai 2011 Nr.
+Vom 11. Mai 2011 Nr.
 
 **Seite**
 
 198 GRB betreffend Festsetzung eines Bebauungsplans und Linienplans sowie Zonenänderung altes Kinderspital-Areal, Geviert zwischen Alemannengasse, Burgweg, Schaffhauserrheinweg und Römergasse. Vom 8. Juni 2011
 
-**155**
+**152**
 
-199 Beschluss des Einwohnerrates Riehen betreffend die Zonenänderung und die Zuordnung der Lärmempfindlichkeitsstufe und den Bebauungsplan für eine Zentrumsbebauung auf dem Areal der S-Bahn-Haltestelle Niederholz. Vom 2. November 2011 158
+199 Beschluss des Einwohnerrates Riehen betreffend die Zonenänderung und die Zuordnung der Lärmempfindlichkeitsstufe und den Bebauungsplan für eine Zentrumsbebauung auf dem Areal der S-Bahn-Haltestelle Niederholz. Vom 2. November 2011 155
 
 200 GRB betreffend Festsetzung eines Bebauungsplans für die Bebauung entlang der neuen Rheinfront des Novartis Campus mit Fokus auf das Hochhausprojekt Asklepios 8. Vom 18. April 2012
 
-**160**
+**157**
 
 201 Beschluss des Einwohnerrats Riehen betreffend die Zonenänderung und den Bebauungsplan für die Parzellen RD 770 und 2095 am Kohlistieg, am Rüchligweg, an der Rauracherstrasse (Planfestsetzungsbeschluss). Vom 29. November 2012
 
-**162**
+**159**
 
 202 GRB betreffend Aufhebung der Speziellen Bauvorschriften Nr. 149 vom 17. April 1996 und Änderung von Zonierung und Wohnanteil sowie Festsetzung eines Bebauungsplans im Gebiet Vorderer Jakobsberg. Vom 9. Januar 2013
 
-**164**
+**161**
 
 203 GRB betreffend Hochschulareal St. Johann / Campus Schällemätteli / Schanzenstrasse / Spitalstrasse / Pestalozzistrasse / Klingelbergstrasse. Vom 9. Januar 2013
 
-**167**
+**164**
 
 204 GRB betreffend Standortentscheid und Festsetzung eines Bebauungsplanes für ein öffentliches unterirdisches Parkhaus im Bereich Picassoplatz / Dufoustrasse / St. Alban-Graben (Parkhaus «Kunstmuseum»). Vom 13. März 2013
 
-**170**
+**167**
 
-205 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans im Bereich Clarastrasse, Riehenring und Drahtzugstrasse (Areal Claraturm). Vom 12. Juni 2013 172
+205 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans im Bereich Clarastrasse, Riehenring und Drahtzugstrasse (Areal Claraturm). Vom 12. Juni 2013 169
 
 206 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung der Bau- und Strassenlinien im Bereich nördlich der Gellertstrasse / Magnolienpark. Vom 11. September 2013 (siehe auch Nr. 18 und 83) 207 GRB betreffend Gesamtrevision des Zonenplans der Stadt Basel und Änderung des Bau- und Planungsgesetzes. Vom 15. Januar 2014 207.1 Bebauungsplan Stadtrandentwicklung Nordwest (Gebiet östlich der Burgfelderstrasse) 207.2A Bebauungsplan Stadtrandentwicklung Am Walkeweg (Gebiet Münchensteinerstrasse, Walkeweg) 207.2B RRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans zweiter Stufe, Änderung des Wohnanteilplans sowie Festsetzung von Strassen- und Weglinien im Bereich Walkeweg, Münchensteinerstrasse (Areal Walkeweg). Vom 15. Dezember 2020 207.3 Bebauungsplan Siedlung Belforterstrasse (Gebiet Hegenheimerstrasse, Theodor-Herzl-Strasse, Michelbacherstrasse, Oltingerstrasse) 207.4 Bebauungsplan Siedlung Im langen Loh (Gebiet Morgartenring, Wanderstrasse, Rigistrasse, Gottfried Keller-Strasse) 207.5 Spezielle Nutzungsvorschriften Freizeitgartenareale 207.6 Spezielle Nutzungsvorschriften Tierpark Lange Erlen 207.7 Spezielle Nutzungsvorschriften Sportanlagen Schorenmatte Nr.
 
@@ -520,51 +523,59 @@ Wettsteinallee, Rheinfelderstrasse und Chrischonaweglein. Vom 14. Mai 2008
 
 210 GRB betreffend Areal Aeschengraben, Zonenänderung, Festsetzung eines Bebauungsplans sowie Abweisungen von Einsprachen im Bereich Aeschengraben, Nauenstrasse, Parkweg (Areal Aeschengraben). Vom 19. März 2014
 
-**188**
+**185**
 
 211 GRB betreffend Nutzungsplanung „Am Depot Dreispitz“, Festsetzung eines Bebauungsplans, Änderung von Zone, Lärmempfindlichkeitsstufe und Wohnanteil, Festsetzung neuer Bau- und Strassenlinien im Gebiet zwischen Münchensteinerstrasse, Walkeweg, Tram-Depot Dreispitz und S-Bahn-Station Dreispitz (Irène Zurkinden-Platz). Vom 4. Juni 2014
 
-**190**
+**187**
 
 212 GRB betreffend Aufhebung des Bebauungsplans Nr. 145, Festsetzung eines neuen Bebauungsplans (Friedrich Miescher-Strasse, Flughafenstrasse, Im Burgfelderhof) und einer Zonenänderung, Änderung des Wohnflächenanteils, Änderung der Bau- und Strassenlinien sowie Änderung der Lärmempfindlichkeitsstufen. Vom 25. Juni 2014
 
+**190**
+
+213 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnflächenanteils, Abweisung einer Einsprache sowie Umwidmung im Bereich Elsässerstrasse, Voltastrasse, Mülhauserstrasse und Wasserstrasse (Areal VoltaOst). Vom 11. März 2015 214.A GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse (Areal BIZ) sowie Einschränkung des Geltungsbereichs der Baupläne Nr. 108 und Nr. 130. Vom 11. März 2015 214.B RRB betreffend Festsetzung eines Bebauungsplans zweiter Stufe im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse, Centralbahnstrasse (Areal BIZ).
+
 **193**
 
-213 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnflächenanteils, Abweisung einer Einsprache sowie Umwidmung im Bereich Elsässerstrasse, Voltastrasse, Mülhauserstrasse und Wasserstrasse (Areal VoltaOst). Vom 11. März 2015 214.A GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse (Areal BIZ) sowie Einschränkung des Geltungsbereichs der Baupläne Nr. 108 und Nr. 130. Vom 11. März 2015 214.B RRB betreffend Festsetzung eines Bebauungsplans zweiter Stufe im Bereich Nauenstrasse, Gartenstrasse, Heumattstrasse, Centralbahnstrasse (Areal BIZ) vom 4. Februar 2025
+**195**
 
-**196**
+**263**
 
-**198**
+Vom 4. Februar 2025
 
-**267**
+215 GRB betreffende Festsetzung eines Bebauungsplanes im Bereich Petersgraben, Spitalstrasse, Schanzenstrasse, Klingelbergstrasse und Hebelstrasse (Areal Universi-
 
-215 GRB betreffende Festsetzung eines Bebauungsplanes im Bereich Petersgraben, Spitalstrasse, Schanzenstrasse, Klingelbergstrasse und Hebelstrasse (Areal Universitätsspital) und Aufhebung des Bebauungsplans Nr. 107 vom 23. Oktober 1963. Vom 20. Mai 2015
+tätsspital) und Aufhebung des Bebauungsplans Nr. 107 vom 23. Oktober 1963.
 
-**200**
+**197**
+
+Vom 20. Mai 2015
 
 216 RRB betreffend Festsetzung eines neuen Bebauungsplanes sowie neue Bau- und Strassenlinien im Bereich Schwarzwaldallee, Rosentalstrasse und Aufhebung des Bebauungsplanes Nr. 64 vom 31. Juli 1956. Vom 30. Juni 2015
 
-**203**
+**200**
 
 217 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans im Bereich St. Alban Anlage, Engelgasse, Lange Gasse (Areal Helvetia Campus). Vom 28. Oktober 2015
 
-**205**
+**202**
 
 218 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung eines Bebauungsplans, Festsetzung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereicht Gellertstrasse, Redingstrasse, Lehenmattstrasse, Stadionstrasse (ehemals Areal De Bary). Vom 17. Dezember 2015
 
-**207**
+**204**
 
-219 Beschluss des Gemeinderates Riehen i. S. Bebauungsplan für die Parzellen RB 1099 und 1092 an der Lörracherstrasse 139 (Planfestsetzungsbeschluss). Vom 4. März 2014
+219 Beschluss des Gemeinderates Riehen i. S. Bebauungsplan für die Parzellen RB 1099 und 1092 an der Lörracherstrasse 139 (Planfestsetzungsbeschluss).
 
-**209**
+**206**
+
+Vom 4. März 2014
 
 220 GRB betreffend Zonenänderung und Festsetzung eines Bebauungsplans sowie Abweisungen von Einsprachen im Bereich Grenzacherstrasse, Peter Rot-Strasse, Wettsteinallee und Beuggenweg (Roche Nordareal). Vom 8. Juni 2016 221.A GRB betreffend Areal Felix Platter; Zonenänderung, Festsetzung eines Bebauungsplans, Abweisung von Einsprachen sowie Widmung im Bereich Luzernerring, Burg-
 
-**IX**
+**X**
 
-**211**
+**208**
 
-**215**
+**212**
 
 felderstrasse, Ensisheimerstrasse, Hegenheimerstrasse. Vom 20. Oktober 2016
 
@@ -572,55 +583,59 @@ felderstrasse, Ensisheimerstrasse, Hegenheimerstrasse. Vom 20. Oktober 2016
 
 Nr.
 
-221.B RRB betreffend Festsetzung eines Bebauungsplanes zweiter Stufe sowie neue Bau- und Strassenlinien im Bereich Luzernerring / Burgfelderstrasse / Ensisheimerstrasse / Hegenheimerstrasse (Areal Westfeld, ehemaliges Areal Felix Platter). Vom 20. November 2018
+221.B RRB betreffend Festsetzung eines Bebauungsplanes zweiter Stufe sowie neue Bau- und Strassenlinien im Bereich Luzernerring / Burgfelderstrasse / Ensisheimerstrasse / Hegenheimerstrasse (Areal Westfeld, ehemaliges Areal Felix Platter).
 
-**217**
+**214**
+
+Vom 20. November 2018
 
 222 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnanteilsplans, Änderung der Baulinie sowie Abweisung von Einsprachen im Bereich Scherkesselweg, Neusatzsteg, Neusatzweglein, Hardrain (Bethesda-Areal). Vom 28. Juni 2017
 
-**219**
+**216**
 
-**221**
+**218**
 
 223 GRB betreffend Festsetzung eines Bebauungsplans im Bereich Holeestrasse 123 - 117, Basel (Generationenhaus Neubad). Vom 20. September 2017
 
-**222**
+**219**
 
 224 Beschluss des Einwohnerrates Riehen betreffend Nutzungsplanung des Gebietes Stettenfeld. Vom 27. November 2014
 
-**224**
+**221**
 
-225 RRB betreffend Festsetzung eines Bebauungsplans im Bereich Aeschenvorstadt 72. Vom 28. August 2018 226.A GRB betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage sowie Aufhebung eines Teils des Bebauungsplans Nr. 165, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan, Festlegung Bau- und Strassenlinien, Nichteintreten auf Einsprachen, Ausgabenbewilligung für die Planung der öffentlichen Freiräume, Ausgabenbewilligung für die Finanzierung der Landerwerbskosten (Areal VoltaNord). Vom 16. Mai 2018 226.B RRB betreffend Festsetzung eines Bebbauungsplans zweiter Stufe und Änderungen der Bau- und Strassenlinien im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage (Areal VoltaNord). Vom 11. Januar 2022
+225 RRB betreffend Festsetzung eines Bebauungsplans im Bereich Aeschenvorstadt 72. Vom 28. August 2018 226.A GRB betreffend Festsetzung eines Bebauungsplans im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage sowie Aufhebung eines Teils des Bebauungsplans Nr. 165, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan, Festlegung Bau- und Strassenlinien, Nichteintreten auf Einsprachen, Ausgabenbewilligung für die Planung der öffentlichen Freiräume, Ausgabenbewilligung für die Finanzierung der Landerwerbskosten (Areal VoltaNord).
 
-**225**
+**222**
 
-**229**
+Vom 16. Mai 2018 226.B RRB betreffend Festsetzung eines Bebbauungsplans zweiter Stufe und Änderungen der Bau- und Strassenlinien im Bereich Lysbüchelstrasse, Elsässerstrasse, Gleisanlage (Areal VoltaNord). Vom 11. Januar 2022
+
+**226**
 
 227 Planfestsetzungsbeschluss des Gemeinderates Riehen zum Bebauungsplan Liegenschaft Kilchgrundstrasse 62 und 70 (Riehen Sektion D, Parzellen Nr. 0121 / 0120). Vom 7. Februar 2017
 
-**233**
+**230**
 
 229 GRB betreffend Neubau Naturhistorisches Museum Basel und Staatsarchiv Basel-Stadt und Zonenänderung, Festsetzung eines Bebauungsplans, Festsetzung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilsplans, Änderung von Bau- und Strassenlinien sowie Einschränkung des Geltungsbereichs des Bebauungsplans Nr. 165 im Gebiet Entenweidstrasse, Luzernerring-Brücke (Areal Entenweidstrasse). Vom 9. Januar 2019
 
-**235**
+**232**
 
-230 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung von Baulinien im Bereich Marignanostrasse, Novarastrasse und Schäublinstrasse (Areal Studio Basel Bruderholz). Vom 22. April 2020 237
+230 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung des Wohnanteils sowie Änderung von Baulinien im Bereich Marignanostrasse, Novarastrasse und Schäublinstrasse (Areal Studio Basel Bruderholz). Vom 22. April 2020 234
 
 231 Beschlüsse des Einwohnerrates Riehen betreffend spezielle Nutzungsvorschriften für Pflanz- und Kleingärten. Im Brühl, Auf Hutzlen und In den Wenkenmatten. Vom 27. November 2014 und 24. September 2015
 
-**239**
+**236**
 
 232 GRB betreffend Areal Eisenbahnweg. Festsetzung eines Bebauungsplans, Änderung von Baulinien sowie Abweisung von Einsprachen im Bereich Grenzacherstrasse und Eisenbahnweg (Areal Eisenbahnweg). Vom 18. September 2019
 
-**241**
+**238**
 
-233 GRB betreffend Zonenplanänderungen Achsen St. Alban-Anlage und Nauenstrasse, Festsetzung eines Bebauungsplans Nordseite St. Alban-Anlage. Vom 24. Juni 2020 243
+233 GRB betreffend Zonenplanänderungen Achsen St. Alban-Anlage und Nauenstrasse, Festsetzung eines Bebauungsplans Nordseite St. Alban-Anlage. Vom 24. Juni 2020 240
 
 234 GRB betreffend Aufhebung der Bebauungspläne Nr. 18 und Nr. 83, sowie Festset-
 
-**X**
+**XI**
 
-**244**
+**241**
 
 zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
@@ -628,41 +643,43 @@ zung eines Bebauungsplans im Bereich nördliches Gellert. Vom 25. Juni 2020
 
 Nr.
 
-235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 246
+235 GRB betreffend Zonenplan- und Wohnanteilplanänderungen sowie Festsetzung eines Bebauungsplans im Gebiet Riehenstrasse, Peter Rot-Strasse. Vom 24. Juni 2020 243
 
 236 GRB betreffend Aufhebung der Bebauungspläne Nr. 41, Nr. 130 und Nr. 147 im Gebiet nördlich und westlich des Bahnhofs SBB, sowie Zonenänderungen und Festsetzung eines Bebauungsplans im Bereich Küchengasse, Elisabethenanlage sowie Abweisung einer Einsprache. Vom 25. Juni 2021
 
-**247**
+**244**
 
-**249**
+237 RRB betreffend Bebauungsplan im Bereich Kohlenberggasse (Blindenheim).
 
-237 RRB betreffend Bebauungsplan im Bereich Kohlenberggasse (Blindenheim). Vom 12. Januar 2021
+**246**
+
+Vom 12. Januar 2021
 
 238 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Aufhebung des Bebauungsplans Nr. 109 sowie Änderung des Bebauungsplans Nr. 160 im Bereich Gartenstrasse, Nauenstrasse, Peter Merian-Strasse, Peter Merian-Brücke, Hochstrasse, Solothurnerstrasse, Meret Oppenheim-Strasse, Bahnhof Basel SBB (Areal Nauentor). Vom 17. März 2021
 
-**251**
+**248**
 
-239 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereich Steinenvorstadt, Steinentorstrasse und Birsig-Parkplatz (Hochhaus Heuwaage). Vom 14. April 2021 254
+239 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Zuweisung der Lärmempfindlichkeitsstufe, Änderung des Wohnanteilplans, Änderung von Bau- und Strassenlinien sowie Abweisung von Einsprachen im Bereich Steinenvorstadt, Steinentorstrasse und Birsig-Parkplatz (Hochhaus Heuwaage). Vom 14. April 2021 251
 
 240 GRB betreffend Festsetzung eines Bebauungsplans, Zonenänderung, Änderung Lärmempfindlichkeitsstufe, Änderung Wohnanteilplan sowie Änderungen Bau- und Strassenlinien im Bereich St. Jakobs-Strasse, Güberbahnhof Wolf (Areal Wolf). Vom 15. März 2023
 
-**256**
+**253**
 
-241 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung Lärmempfindlichkeitsstufenplan, Änderung Wohnanteilplan sowie neue Bau- und Strassenlinien und neue Baugrenzen im Bereich Innerer Egliseeweg, Riehenstrasse, Säckingerstrasse, Laufenburgerstrasse (Areal Zur Eiche). Vom 6. Dezember 2024 260
+241 GRB betreffend Zonenänderung, Festsetzung eines Bebauungsplans, Änderung Lärmempfindlichkeitsstufenplan, Änderung Wohnanteilplan sowie neue Bau- und Strassenlinien und neue Baugrenzen im Bereich Innerer Egliseeweg, Riehenstrasse, Säckingerstrasse, Laufenburgerstrasse (Areal Zur Eiche). Vom 6. Dezember 2024 256
 
 242 Beschluss des Einwohnerrats betreffend Zonenplanrevision Autal, Festsetzung spezielle Nutzungsvorschriften Autal. Vom 25. Oktober 2023
 
-**262**
+**258**
 
 243 GRB betreffend Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Gebiet Areal Lindenhof (Lonza) Nauenstrasse, Lindenhofstrasse, München-
 
-**XI**
+**XII**
 
-**264**
+**260**
 
 steinerstrasse, Aufhebung des Bebauungsplans Nr. 137. Vom 27. Juni 2024
 
-244 GRB betreffend Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Bereich St. Galler-Ring, Neubadstrasse, General Guisan-Strasse (Areal Tennisclub Old Boys, Schützenmatte West). Vom 11. Dezember 2024 Riehen Gottesacker am Hörnli: Vorplatz
+244 GRB betreffend Festsetzung eines Bebauungsplans sowie Abweisung von Einsprachen im Bereich St. Galler-Ring, Neubadstrasse, General Guisan-Strasse (Areal Tennisclub Old Boys, Schützenmatte West). Vom 11. Dezember 2024 GRB betreffend Zonenänderung, Aufhebung des Bebauungsplans Nr. 193, Festset- 245 zung eines neuen Bebauungsplans, Linienänderung sowie Abweisung von Einsprachen im Bereich Grenzacherstrasse, Solitude-Park und Solitude-Promenade (Roche 245 Südareal). Vom 18. Oktober 2025 Riehen Gottesacker am Hörnli: Vorplatz
 
 GRB vom 23. Oktober 1930
 
@@ -682,13 +699,13 @@ III.
 
 IV.
 
-**266**
+**262**
 
 Die Pläne zu sämtlichen, den Platz umgebenden Gebäuden sind dem Regierungsrat zur Genehmigung vorzulegen.
 
 V.
 
-**XII**
+**XIII**
 
 Zur Sicherung der Erhaltung des einheitlichen Platzeindruckes dürfen Veränderungen an den Fassaden bei Anlass von Renovationsarbeiten nur mit Genehmigung des zuständigen Departements vorgenommen werden.[^hTeil1undTeil2h-2] Die jeweiligen Liegenschaftseigentümer sind deshalb verpflichtet, in solchen Fällen dem Bauinspektorat ein Baubegehren einzureichen.
 
@@ -1905,9 +1922,7 @@ Längs des Rheins sind Möglichkeiten zur Erstellung einer 3 m breiten Uferprome
 
 9.
 
-**-**
-
-Das zuständige Departement wird ermächtigt, Ausnahmen von den Ziff. 1 7 hievor zu gewähren, sofern die Gesamtkonzeption nicht beeinträchtigt wird.
+Das zuständige Departement wird ermächtigt, Ausnahmen von den Ziff. 1 - 7 hievor zu gewähren, sofern die Gesamtkonzeption nicht beeinträchtigt wird.
 
 Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und wird mit Eintritt seiner Rechtskraft wirksam.
 
@@ -4670,75 +4685,6 @@ Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach 
 
 [^hBaselStAlbanAnla-1]: Wirksam seit 25. 7. 2010.
 
-### Basel Grenzacherstrasse (Südareal) / Areal F. Hoffmann-La Roche
-
-GRB vom 20. Oktober 2010
-
-Der Grosse Rat des Kantons Basel Stadt, gestützt auf §§ 101 und 105 des Bau- und Planungsgesetzes vom 17. November 1999 <sup>1)</sup> und nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 10.1156.01 vom 29. Juni 2010 sowie in den Bericht der Bau- und Raumplanungskommission Nr. 10.1156.02 vom 13. September 2010 und nach dem mündlichen Mitbericht der Umwelt-, Verkehrs- und Energiekommission, beschliesst:
-
-I. Festsetzung eines Bebauungsplans
-
-1.
-
-Der Bebauungsplan Nr. 13’428 des Hochbau- und Planungsamts vom Dezember 2009[^hBaselGrenzacherstra_2-1] wird verbindlich erklärt.
-
-2.
-
-Zum Bebauungsplan werden folgende Vorschriften erlassen:
-
-2.1 Baufeld 1 a) Im Baufeld 1 sind innerhalb der Mantellinien sowie innerhalb der definierten Lichteinfallswinkel maximal 77’000 m<sup>2</sup> oberirdische Bruttogeschossfläche zulässig. Die maximale Gebäudehöhe des Hochhauses ist ab Niveaupunkt 180 m. Bei der Ausführung des Hochhauses müssen in Bezug auf die Aussenwirkung in gestalterischer Hinsicht die im Ratschlag enthaltenen Projektstudien wegleitend berücksichtigt werden.
-
-- b) Der Bereich 1a zwischen dem bestehenden und dem geplanten Hochhaus ist von geschlossenen Bauten und Bauteilen mit einem minimalen Abstand von 5 m freizuhalten. Offene Bauten und Bauteile wie Vordächer, Unterstände und Gestaltungselemente sind zulässig.
-
-- c) Entlang der Grenzacherstrasse ist das Erdgeschoss gemäss dem schraffierten Bereich mindestens 2 m von der Parzellengrenze zurückzuversetzen. Stützen sind zulässig.
-
-2.2 Baufeld 2: Weiteres Planungsverfahren a) Im Baufeld 2 (schraffierte Fläche) und seinen Randbereichen ist die Festsetzung eines weiteren Bebauungsplans vorgeschrieben. Der Perimeter des entsprechenden Bebauungsplans ist gemäss dem realisierten Hochhaus auf dem Baufeld 1 festzulegen.
-
-- b) Die künftige Bebauung innerhalb des Baufelds 2 soll durch ihre hochwertige Gestaltung und Architektur eine gute städtebauliche Gesamtwirkung sicherstellen und eine hochwertige Aus-
-
-senraumgestaltung aufweisen. Dabei sind auch Zwischenstände zu berücksichtigen.
-
-- c) Für das weitere Planungsverfahren sind folgende Grundsätze massgebend:
-
-(i) Verdichtung entlang der Grenzacherstrasse: Die Nutzungen werden entlang der Grenzacherstrasse konzentrierter vorgesehen als im übrigen Perimeter des Bau-felds.
-
-**über**
-
-(ii) Städtebauliche Abschlüsse: Für das Stadtbild ist die zukünftige Bebauung gegendem Solitude-Park und der Rheinuferpromenade von grosser Bedeutung. Die Gebäude müssen hohe städtebauliche Anforderungen erfüllen.
-
-(iii) Anteil Freiflächen: Die Konzentration der Nutzungen auf wenige Volumen ermög- licht grosszügige, qualitativ hochwertige Grün- und Freiflächen mit Durchblicken zum Rhein.
-
-**des**
-
-(iv) Umgang mit bestehender Bausubstanz: Ein sachgerechter Erhalt der Bausubstanz Baus 27 ist unter dem Vorbehalt der betrieblichen Anforderungen und der Ver- hältnismässigkeit im Rahmen des weiteren Planungsverfahrens zu klären.
-
-(v) Abstimmungsbedarf: Die Gestaltung und Nutzung der Randzonen sind mit der angrenzenden Gestaltung der öffentlichen Grün- und Strassenräume abzustimmen.
-
-2.3 Baufeld 3 a) Der Bau 21 im schraffierten Bereich 3a ist strukturell und in der äusseren Erscheinung zu erhalten. Die Tragkonstruktion soll substantiell erhalten bleiben und das Erscheinungsbild beibehalten oder möglichst genau rekonstruiert werden. Zudem sollen die wesentlichen Elemente der inneren Gebäudeorganisation sowie der Gestaltung der Raumhüllen beibehalten oder möglichst genau rekonstruiert werden, wobei die einschlägigen sicherheitstechnischen Anforderungen beachtet werden müssen.
-
-- b) Die Bauten 52 und 71 im schraffierten Bereich 3b sind strukturell und in der äusseren Erscheinung zu erhalten. Die Tragkonstruktion soll substantiell erhalten bleiben und das Erschei-
-
-nungsbild unter Berücksichtigung des umgebenden Bestandes beibehalten werden.
-
-2.4 Generelle Gebäudebestimmungen a) Technische, witterungsgeschützte Aufbauten über dem obersten Vollgeschoss werden vollumfänglich an die zulässige oberirdische Bruttogeschossfläche angerechnet.
-
-- b) Als massgebendes Terrain gilt der Niveaupunkt 257,86 m ü. M.
-
-2.5 Erschliessung a) Zum Zeitpunkt der Baueingabe für das Hochhaus auf dem Baufeld 1 (Bau 1) muss ein Mobilitätskonzept vorgelegt werden. Bis zum Baubeginn muss die Bauherrschaft auf der Grundlage des Mobilitätskonzepts und in Abstimmung mit den zuständigen Behörden eine geeignete Lösung für die Parkierung mit flankierenden Massnahmen ausarbeiten. Das Gebäude darf nur in Betrieb genommen werden, sofern die Grundeigentümerschaft die im Mobilitätskonzept auf den Zeitpunkt der Inbetriebnahme des Gebäudes ausgerichteten Massnahmen umgesetzt hat.
-
-- b) Die Zahl der maximal zulässigen Parkplätze ist auf Basis der einschlägigen gesetzlichen Regelungen zu berechnen. Für die bauliche Inanspruchnahme des Parkplatzkontingents, das dem auf dem Baufeld 1 zu erstellenden Hochhaus zuzurechnen ist, ist die Festsetzung eines weiteren Bebauungsplans vorgeschrieben.
-
-- 3\. Geringfügige Abweichungen, Ausnahmen
-
-Das zuständige Departement kann ausnahmsweise Abweichungen von diesem Bebauungsplan zulassen, sofern die Gesamtkonzeption der Bebauung nicht beeinträchtigt wird. II.
-
-III. Publikation und Referendum
-
-Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselGrenzacherstra_2-2]
-
-[^hBaselGrenzacherstra_2-1]: Ziff. I. 1.: Bebauungsplan in der überarbeiteten Fassung vom 4. 2. 2010.
-[^hBaselGrenzacherstra_2-2]: Wirksam seit 5. 12. 2010.
-
 ### Basel St. Alban-Vorstadt / Dufourstrasse / Burghof-Areal
 
 GRB vom 17. November 2010
@@ -4828,14 +4774,6 @@ V. Publikation
 
 Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselKuppelGaswe-5]
 
-Rechtsmittelbelehrung:
-
-Gegen diesen Beschluss kann Rekurs beim Verwaltungsgericht erhoben werden. Neue Einwände sind ausgeschlossen, wenn sie bereits im Einspracheverfahren hätten vorgebracht werden können.
-
-Der Rekurs ist innerhalb von zehn Tagen nach der Zustellung dieses Beschlusses beim Verwaltungsgericht anzumelden. Innerhalb von 30 Tagen, vom gleichen Zeitpunkt an gerechnet, ist die Rekursbegründung einzureichen, welche die Anträge der Rekurrentin bzw. des Rekurrenten und deren Begründung mit Angabe der Beweismittel zu enthalten hat.
-
-Bei völliger oder teilweiser Abweisung des Rekurses können die amtlichen Kosten, bestehend aus einer Spruchgebühr sowie den Auslagen für Gutachten, Augenscheine, Beweiserhebung und andere besondere Vorkehren, der Rekurrentin bzw. des Rekurrenten ganz oder teilweise auferlegt werden.
-
 [^hBaselKuppelGaswe-1]: SG 730.100.
 [^hBaselKuppelGaswe-2]: Dieses Gesetz ist aufgehoben. Massgebend ist jetzt das Finanzhaushaltgesetz vom 14. 3. 2012 (SG 610.100).
 [^hBaselKuppelGaswe-3]: Fassung vom 2. Mai 2023, in Kraft seit 11. Mai 2023 (KB 06.05.2023)
@@ -4846,7 +4784,7 @@ Bei völliger oder teilweiser Abweisung des Rekurses können die amtlichen Koste
 
 GRB vom 16. Februar 2011
 
-Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>1)</sup> und die §§ 22 und 33 des Finanzhaushaltsgesetzes vom 16. April 1997[^hBaselHeuwaage-1], nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 10.0866.01 vom 18. Mai 2010 und nach dem mündlichen Antrag der Bau- und Raumplanungskommission vom 16. Februar 2011, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>7)</sup> und die §§ 22 und 33 des Finanzhaushaltsgesetzes vom 16. April 1997[^hBaselHeuwaage-1], nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 10.0866.01 vom 18. Mai 2010 und nach dem mündlichen Antrag der Bau- und Raumplanungskommission vom 16. Februar 2011, beschliesst:
 
 I. Zonenänderung
 
@@ -4909,7 +4847,7 @@ Baufeld A: Gebäudehöhe: 33m (307,5 m ü. M.) BGF: 9’500 m<sup>2</sup> Baufel
 
 <sup>3</sup> Im Baufeld E darf ein Gebäude gemäss Grundordnung (Zone 5) erstellt werden. Im Bereich der Villa gilt die Grundordnung (Schutzzone).
 
-- b) Nutzungsübertragungen unter den Baufeldern sind zulässig, soweit dadurch auf keinem Bau feld die höchstzulässige BGF um mehr als 10 % erhöht wird.
+- b) Nutzungsübertragungen unter den Baufeldern sind zulässig, soweit dadurch auf keinem Baufeld die höchstzulässige BGF um mehr als 10 % erhöht wird.
 
 - c) Es sind nur begrünte Flachdächer erlaubt. Vorbehalten sind unbeachtliche Bauteile gemäss Bau- und Planungsgesetz. Reklameeinrichtungen dürfen die maximale Gebäudehöhe überschreiten.
 
@@ -4959,9 +4897,9 @@ Der Bebauungsplan Nr. 13’448 des Hochbau- und Planungsamts vom 25. März 2010 
 
 Zum Bebauungsplan werden folgende Vorschriften erlassen:
 
-2.1 Bauliche Nutzung a) Innerhalb der Baufelder A bis D dürfen maximal 14’300 m<sup>2</sup> Bruttogeschossflächen errichtet werden. Als Aussengeschossflächen (Balkone, Loggien o. ä.) sind zusätzlich mindestens 20 % dieser Bruttogeschossfläche je Baufeld vorzusehen, wobei nur die Hälfte dieser Aussengeschossflächen an die Bruttogeschossfläche angerechnet wird, soweit sie grösser als 10 % die ser Bruttogeschossfläche ist.
+2.1 Bauliche Nutzung a) Innerhalb der Baufelder A bis D dürfen maximal 14’300 m<sup>2</sup> Bruttogeschossflächen errichtet werden. Als Aussengeschossflächen (Balkone, Loggien o. ä.) sind zusätzlich mindestens 20 % dieser Bruttogeschossfläche je Baufeld vorzusehen, wobei nur die Hälfte dieser Aussengeschossflächen an die Bruttogeschossfläche angerechnet wird, soweit sie grösser als 10 % dieser Bruttogeschossfläche ist.
 
-- b) Über alle Baufelder ist ein Wohnanteil von mindestens 94% einzuhalten. Flächen für Gewerbe, Dienstleistung oder kulturelle Nutzung sind nur im Erdgeschoss der Baufelder A, B und D zulässig. Mindestens 2 % sind für quartierdienliche Nutzungen vorzusehen.
+- b) Über alle Baufelder ist ein Wohnanteil von mindestens 94 % einzuhalten. Flächen für Gewerbe, Dienstleistung oder kulturelle Nutzung sind nur im Erdgeschoss der Baufelder A, B und D zulässig. Mindestens 2 % sind für quartierdienliche Nutzungen vorzusehen.
 
 2.2 Bebauung Die Nutzung ist innerhalb der Baufelder anzuordnen und hat deren Geometrie zu berücksichtigen.
 
@@ -5241,7 +5179,7 @@ bäude im Hang und den Gebäudezwischenräumen sowie dem Bezug zur Landschaft;
 
 3.1 Bleibt der nach aussen sichtbare, wertvolle Siedlungscharakter der Gesamtüberbauung bzw. seiner Teil- und Sonderbereiche gewahrt, sind bauliche Veränderungen wie Aus- und Anbauten zulässig. 3.2 Soll durch bauliche Veränderungen - wie insbesondere dem Abbruch von Gebäuden und Gebäudeteilen oder Um- oder Neubauten - vom nach aussen sichtbaren Bestand derart abgewichen werden, dass Elemente des wertvollen Siedlungscharakters berührt sind, so ist dies konzeptionell und in gestalterischer Hinsicht ausreichend zu begründen. Bei Eingriffen, welche über den Einzelbau hinausgehen, sind qualifizierte Verfahren erforderlich. Entsprechende Veränderungen und Eingriffe sind frühzeitig mit der zuständigen Stelle zu beraten.
 
-3.3 Sich im Detail ergebende Abweichungen von der zonenüblichen Bebauung können ausnahmsweise bewilligt werden, insofern wichige Gründe dafür sprechen, die öffentlichen sowie die wesentlichen nachbarlichen Interessen gewahrt bleiben und eine positive Beurteilung gemäss Ziff. 3.1 oder 3.2 vorliegt.
+3.3 Sich im Detail ergebende Abweichungen von der zonenüblichen Bebauung können ausnahmsweise bewilligt werden, insofern wichtige Gründe dafürsprechen, die öffentlichen sowie die wesentlichen nachbarlichen Interessen gewahrt bleiben und eine positive Beurteilung gemäss Ziff. 3.1 oder 3.2 vorliegt.
 
 3.4 Solaranlagen, Garten- und Veloschöpfe und Dachflächenfenster sind zulässig, insofern sie in gestalterischer Hinsicht im Einzelfall gut in das Siedlungsbild integriert sind. Sie werden gemäss den für die Stadt- und Dorfbild-Schonzone geltenden Verfahren behandelt.
 
@@ -5251,7 +5189,7 @@ bäude im Hang und den Gebäudezwischenräumen sowie dem Bezug zur Landschaft;
 
 4.1 Die Zuständigkeit für die Beurteilung von baulichen Massnahmen gemäss Ziff. 3 entspricht derjenigen für die Beurteilung der Gestaltung von Bauten und Anlagen.
 
-4.2 Die Zuständigkeit für die Beurteilung von baulichen Massnahmen gemäss Ziff. 3.3 liegt daüber hinaus auch bei der Planungsbehörde.
+4.2 Die Zuständigkeit für die Beurteilung von baulichen Massnahmen gemäss Ziff. 3.3 liegt darüber hinaus auch bei der Planungsbehörde.
 
 4.3 Das zuständige Departement kann Verfahren des Nachweises bezüglich der Zulässigkeit gemäss der Ziffer 3.1 speziell regeln.
 
@@ -5295,7 +5233,7 @@ Zum Bebauungsplan werden folgende Vorschriften erlassen:
 
 1.1 Bauliche Nutzung, Bebauung a) Die zulässige oberirdische Bruttogeschossfläche innerhalb der Baufelder 1 bis 3 beträgt 103’000 m<sup>2</sup>; diese ist der Lehre und Forschung vorbehalten. Die maximalen oberirdischen Bruttogeschossflächen verteilen sich wie folgt:
 
-Baufeld 1: 34’000 m<sup>2</sup> Baufeld 2: 27’500 m<sup>2</sup> Baufeld 3: 41’500 m<sup>2</sup> b) Nutzungsübertragungen zwischen den Baufeldern sind zulässig, soweit dadurch auf keinem Baufeld die zulässige Bruttogeschossfläche um mehr als 10% überschritten wird und eine gute städtebauliche Lösung erreicht wird.
+Baufeld 1: 34’000 m<sup>2</sup> Baufeld 2: 27’500 m<sup>2</sup> Baufeld 3: 41’500 m<sup>2</sup> b) Nutzungsübertragungen zwischen den Baufeldern sind zulässig, soweit dadurch auf keinem Baufeld die zulässige Bruttogeschossfläche um mehr als 10 % überschritten wird und eine gute städtebauliche Lösung erreicht wird.
 
 1.2 Bauhöhen Baufelder 1, 2 und 3 Es gelten folgende maximalen Gebäude- und Wandhöhen:
 
@@ -5433,7 +5371,7 @@ III. Festsetzung eines Bebauungsplans
 
 - 2\. Zum Bebauungsplan werden folgende Vorschriften erlassen:
 
-- a) In den Baufeldern A–F dürfen Gebäude mit den folgenden maximal zulässigen Wandhöhen, Geschosszahlen und Bruttogeschossflächen (BGF) erstellt werden:
+- a) In den Baufeldern A - F dürfen Gebäude mit den folgenden maximal zulässigen Wandhöhen, Geschosszahlen und Bruttogeschossflächen (BGF) erstellt werden:
 
 Baufeld A: Wandhöhe 21 m (289 m ü. M.) / Geschosse 6 / BGF 4’000 m<sup>2</sup>
 
@@ -5582,9 +5520,7 @@ III. Bebauungsplan Stadtrandentwicklung Am Walkeweg (Gebiet Münchensteinerstras
 
 - b) Die Erschliessung des Teilperimeters «Zone 7» sowie die Erschliessung der ausserhalb Perimeters liegenden Nutzungen über die mit E und F markierten Punkte ist zu berück- sichtigen.
 
-- c) Parkierung: Konzeptionell ist der hohen Erschliessungsgüte durch den öffentlichen Verkehr sowie insbesondere der Beruhigung des Wohnumfeldes vom Autoverkehr besonders Rech- nung zu tragen.
-
-2.3. Grün- und Freiräume, ökologische Vernetzung: Die Gestaltung der Grün- und Freiräume im Gesamtperimeter hat nach einem Konzept zu erfolgen, das ökologische Belange und Ansprüche an qualitativ hochwertige Grün- und Freiräume erfüllt.
+- c) Parkierung: Konzeptionell ist der hohen Erschliessungsgüte durch den öffentlichen Verkehr sowie insbesondere der Beruhigung des Wohnumfeldes vom Autoverkehr besonders Rechnung zu tragen. 2.3. Grün- und Freiräume, ökologische Vernetzung: Die Gestaltung der Grün- und Freiräume im Gesamtperimeter hat nach einem Konzept zu erfolgen, das ökologische Belange und Ansprüche an qualitativ hochwertige Grün- und Freiräume erfüllt.
 
 2.4. Teilperimeter «Zone NöI» a) Zulässig sind Nutzungen im öffentlichen Interesse, die vorwiegend dem Bereich Bildung, Betreuung und Kultur sowie dem Bereich Infrastruktur, Versorgung und öffentliche Verwaltung dienen. Weitere Nutzungen im öffentlichen Interesse sowie Mantelnutzungen, welche der Hauptnutzung dienlich sind, können zugelassen werden, sofern sie die Hauptnutzung nicht beeinträchtigen.[^hBaselGesamtrevision_3-4] b) Wohnnutzung und Lärm: Solange kein anderslautendes, überwiegendes und öffentliches Interesse besteht, bleibt die bestehende Nutzung der Betriebswohnungen auch künftig als Folgewohnnutzung zulässig.
 
@@ -5606,7 +5542,7 @@ nungsstufegemäss Ziff. 3 ist eine Detaillierung des Nutzungsmasses vorzunehmen.
 
 - c) Baustruktur, Mass der Nutzung und mögliche Höhenentwicklung sind im Folgeverfahren zu bestimmen.
 
-- 3\. Entsprechend diesen Rahmenbedingungen setzt der Regierungsrat als Abschluss eines zweiten Nutzungsplanungsverfahrens die detaillierte Nutzungsordnungen für die Teilperimeter «Zone 4» sowie «Zone 7» fest, welche insbesondere die Lage der Baufelder, Dimensionierung der Bauten und Anlagen, Erschliessung und Freiraumnutzungen sowie Festsetzungen zum Lärm beinhalten. Bis zum Abschluss dieses zweiten Verfahrens ist die bisherige Nutzung der Teilperimeter weiterhin zulässig. Auf diesen Zeitraum befristete Ausnahmebewilligungen für Bauten und Anlagen sind zulässig, sofern sie dem Planungsziel «Nah, kompakt, grün!» nicht widersprechen, wenn wichtige Gründe dafür sprechen und wenn die öffentlichen und wesentlichen nachbarlichen Interessen gewahrt werden.
+- 3\. Entsprechend diesen Rahmenbedingungen setzt der Regierungsrat als Abschluss eines zweiten Nutzungsplanungsverfahrens die detaillierten Nutzungsordnungen für die Teilperimeter «Zone 4» sowie «Zone 7» fest, welche insbesondere die Lage der Baufelder, Dimensionierung der Bauten und Anlagen, Erschliessung und Freiraumnutzungen sowie Festsetzungen zum Lärm beinhalten. Bis zum Abschluss dieses zweiten Verfahrens ist die bisherige Nutzung der Teilperimeter weiterhin zulässig. Auf diesen Zeitraum befristete Ausnahmebewilligungen für Bauten und Anlagen sind zulässig, sofern sie dem Planungsziel « Nah, kompakt, grün! » nicht widersprechen, wenn wichtige Gründe dafür sprechen und wenn die öffentlichen und wesentlichen nachbarlichen Interessen gewahrt werden.
 
 - 4\. Das zuständige Departement kann geringfügige Abweichungen vom Bebauungsplan ausnahmsweise zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
 
@@ -5625,7 +5561,7 @@ Der Regierungsrat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 1
 
 I. Zonenänderung
 
-Der Zonenänderungsplan Nr. 14’241 des Planungsamtes vom 28. Januar 2020 (rev. 1. Septem-ber 2020) wird verbindlich erklärt.
+Der Zonenänderungsplan Nr. 14’241 des Planungsamtes vom 28. Januar 2020 (rev. 1. September 2020) wird verbindlich erklärt.
 
 II. Festsetzung eines Bebauungsplans zweiter Stufe
 
@@ -5639,11 +5575,11 @@ Ergänzend zu den Bebauungsplanvorschriften des Grossratsbeschlusses betreffend 
 
 - b) Es gelten folgende maximal zulässige Vollgeschosse (G), Bruttogeschossflächen (BFG) und Mindestwohnflächenanteile:
 
-Baufeld A: 7 G, 12’000 m<sup>2</sup> BGF, Wohnflächenanteil 80% Baufeld B: 4 G, 15’300 m<sup>2</sup> BGF, Wohnflächenanteil 90% Baufeld C: 4 G, 13’300 m<sup>2</sup> BGF, Wohnflächenanteil 100% Baufeld D: 3 G, 2’400 m<sup>2</sup> BGF, Wohnflächenanteil 100% Baufeld E: 9 G, 5’000 m<sup>2</sup> BGF, Wohnflächenanteil 80%
+Baufeld A: 7 G, 12’000 m<sup>2</sup> BGF, Wohnflächenanteil 80 % Baufeld B: 4 G, 15’300 m<sup>2</sup> BGF, Wohnflächenanteil 90 % Baufeld C: 4 G, 13’300 m<sup>2</sup> BGF, Wohnflächenanteil 100 % Baufeld D: 3 G, 2’400 m<sup>2</sup> BGF, Wohnflächenanteil 100 % Baufeld E: 9 G, 5’000 m<sup>2</sup> BGF, Wohnflächenanteil 80 %
 
 - c) Dachgeschosse sind nicht zulässig.
 
-- d) Die Grundfläche offener Bauten und Bauteile, die dem Aufenthalt im Freien dienen, wird nicht an die Bruttogeschossfläche angerechnet, soweit sie kleiner als 20% der zulässigen anrechenbaren Bruttogeschossfläche ist, darüber hinaus zur Hälfte.
+- d) Die Grundfläche offener Bauten und Bauteile, die dem Aufenthalt im Freien dienen, wird nicht an die Bruttogeschossfläche angerechnet, soweit sie kleiner als 20 % der zulässigen anrechenbaren Bruttogeschossfläche ist, darüber hinaus zur Hälfte.
 
 - e) Innerhalb des Baufeld A gilt ein Lichteinfallswinkel von 60°.
 
@@ -5675,9 +5611,9 @@ Baufeld A: 7 G, 12’000 m<sup>2</sup> BGF, Wohnflächenanteil 80% Baufeld B: 4 
 
 - 4\. Parkierung
 
-- a) Es dürfen nicht mehr als 40% der gemäss Parkplatzverordnung Basel-Stadt zulässigen Parkplätze erstellt werden.
+- a) Es dürfen nicht mehr als 40 % der gemäss Parkplatzverordnung Basel-Stadt zulässigen Parkplätze erstellt werden.
 
-- b) Für die Baufelder A-D sind 10-15 und für das Baufeld E 3-5 Besucherparkplätze nachzuweisen.
+- b) Für die Baufelder A-D sind 10 - 15 und für das Baufeld E 3 - 5 Besucherparkplätze nachzuweisen.
 
 - c) Auf den Baufeldern sind oberirdisch keine Autoabstellplätze zulässig.
 
@@ -5873,7 +5809,9 @@ II. Festsetzung eines Bebauungsplans
 
 - i) Dachgeschosse sind ausgeschlossen.
 
-- j) Innerhalb des Planungsperimeters müssen Gebäude zueinander keinen Lichteinfallswinkel aber einen minimalen Abstand von 6 m einhalten. Gegen Gebäude ausserhalb des Planungsperimeters ist ein Lichteinfallswinkel von 60° einzuhalten. Das Gebäude im Baufeld A muss gegen die Liegenschaft Aeschengraben 21 keinen Lichteinfallswinkel einhalten.
+- j) Innerhalb des Planungsperimeters müssen Gebäude zueinander keinen Lichteinfallswinkel aber einen minimalen Abstand von 6 m einhalten. Gegen Gebäude ausserhalb des Planungsperimeters ist ein Lichteinfallswinkel von 60° einzuhalten. Das Gebäude im Baufeld A
+
+muss gegen die Liegenschaft Aeschengraben 21 keinen Lichteinfallswinkel einhalten.
 
 - k) Die Erschliessung der unterirdischen Autoeinstellhalle darf nur über den im Plan dargestellten Punkt erfolgen. Alle Parkplätze sind unterirdisch anzuordnen.
 
@@ -6124,7 +6062,7 @@ II. Festsetzung eines Bebauungsplans
 
 - 2\. Der Bebauungsplan beinhaltet folgende Vorschriften:
 
-2.1. Auf dem Gesamtareal (Baubereiche A+B) sind insgesamt 68’000 m<sup>2</sup> BGF zulässig. Zulässig sind Büros, Dienstleistungs- und Konferenznutzungen inklusive der zum Betrieb notwendigen weiteren Nutzungen.
+2.1. Auf dem Gesamtareal (Baubereiche A + B) sind insgesamt 68’000 m<sup>2</sup> BGF zulässig. Zulässig sind Büros, Dienstleistungs- und Konferenznutzungen inklusive der zum Betrieb notwendigen weiteren Nutzungen.
 
 2.2. Im Baubereich B gelten in Abweichung von der Grundordnung folgende Vorschriften:
 
@@ -6393,7 +6331,7 @@ Der Gemeinderat der Gemeinde Riehen beschliesst, gestützt auf §§ 101 und 106 
 
 ### Nutzung und Bebauung
 
-2.1 In den Bereichen A und B sind die Flächen in Erdgeschoss für Gewerbe und Dienstleistungen zu nutzen. Im Bereich A können im 1. und 2. Obergeschoss die Flächen für Wohnen wie auch Gewerbe/Dienstleistungen genutzt werden. In de weiteren Obergeschossen sind die Flächen nur für Wohnen zu nutzen. Der Bereich C darf oberirdisch nicht bebaut werden.
+2.1 In den Bereichen A und B sind die Flächen in Erdgeschoss für Gewerbe und Dienstleistungen zu nutzen. Im Bereich A können im 1. und 2. Obergeschoss die Flächen für Wohnen wie auch Gewerbe/Dienstleistungen genutzt werden. In den weiteren Obergeschossen sind die Flächen nur für Wohnen zu nutzen. Der Bereich C darf oberirdisch nicht bebaut werden.
 
 2.2 Im Bereich A und B ist eine Baute mit einer BGF von maximal 784 m<sup>2</sup> zulässig.
 
@@ -6413,17 +6351,13 @@ Solaranlagen und anderen notwendige technische Installationen überschritten wer
 
 2.8 Die Bebauung ist an das Fernwärmenetz der Gemeinde anzuschliessen.
 
-2.9 Bei sämtlichen Wohnungen ist sicherzustellen, ass sie ohne zusätzlichen baulichen Aufwand an das Kommunikationsnetz der Gemeinde angeschlossen werden können.
+2.9 Bei sämtlichen Wohnungen ist sicherzustellen, dass sie ohne zusätzlichen baulichen Aufwand an das Kommunikationsnetz der Gemeinde angeschlossen werden können.
 
 2.10 Die Fläche zwischen Bau- und Strassenlinie darf soweit versiegelt werden, als dies für die Zugänge und Zufahrten nötig ist. Im Bereich A darf die Fläche - abgestimmt auf die Erdgeschossnutzung - als versiegelter Vorplatz gestaltet werden. Mit dem Baubegehren ist ein Umgebungsgestaltungsplan für die Bereiche A, B und C einzureichen.
 
 ### Geringfügige Abweichungen, Ausnahmen
 
-- 3\. Der Gemeinderat wird ermächtigt, geringfügige Abweichungen von den Bebauungsplanvor-schriften zuzulassen, sofern dadurch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden.
-
-Dieser Beschluss wird mit Rechtsmittelbelehrung publiziert; er unterliegt der Genehmigung durch das Bau- und Verkehrsdepartement.
-
-Er wird nach Eintritt der Rechtskraft sofort wirksam.[^hGeringfügigeAbweich-1]
+- 3\. Der Gemeinderat wird ermächtigt, geringfügige Abweichungen von den Bebauungsplanvorschriften zuzulassen, sofern dadurch die Gesamtkonzeption und das Siedlungsbild nicht beeinträchtigt werden. Dieser Beschluss wird mit Rechtsmittelbelehrung publiziert; er unterliegt der Genehmigung durch das Bau- und Verkehrsdepartement. Er wird nach Eintritt der Rechtskraft sofort wirksam.[^hGeringfügigeAbweich-1]
 
 [^hGeringfügigeAbweich-1]: Wirksam seit 15. 4. 2014.
 
@@ -6491,7 +6425,7 @@ Baubereich A: Wandhöhe 18 m Baubereich B: Wandhöhe 28 m Baubereich C: Wandhöh
 
 2.4.4. Massgebendes Terrain Als massgebende Terrainhöhe gilt der Niveaupunkt 257,82 m ü. M. (Ebene 0).
 
-2.4.5. Baubereiche und Baufelder a) Der Planungsperimeter ist eingeteilt in einen äusseren und inneren Baubereich. Entlang der Wettsteinallee dürfen die seitlichenAuskragungen in den dargestellten Bereichen über dieBegrenzungslinie in den äusseren Baubereich hinausragen.
+2.4.5. Baubereiche und Baufelder a) Der Planungsperimeter ist eingeteilt in einen äusseren und inneren Baubereich. Entlang der Wettsteinallee dürfen die seitlichen Auskragungen in den dargestellten Bereichen über die Begrenzungslinie in den äusseren Baubereich hinausragen.
 
 - b) Im inneren Baubereich beträgt die maximale Gebäudehöhe 40 m. Im äusseren Baubereich ist innerhalb der Dachprofillinie von 45° eine maximale Gebäudehöhe von 24,5 m zulässig.
 
@@ -6503,7 +6437,7 @@ Baubereich A: Wandhöhe 18 m Baubereich B: Wandhöhe 28 m Baubereich C: Wandhöh
 
 - c) Maximal vier der sechs Baukörper und höchstens zwei Baukörper nebeneinander dürfen die maximale Gebäudehöhe von 24,5 m überschreiten und eine maximale Gebäudehöhe von 40 m erreichen.
 
-- d) Seitliche Auskragungen sind in den dargestellten Bereichen ab der Höhe der Dach-oberkante des benachbarten Baukörpers zulässig. Konstruktiv bedingte Überlappungen der benachbarten Gebäudeteile sind minimal zu halten.
+- d) Seitliche Auskragungen sind in den dargestellten Bereichen ab der Höhe der Dachoberkante des benachbarten Baukörpers zulässig. Konstruktiv bedingte Überlappungen der benachbarten Gebäudeteile sind minimal zu halten.
 
 - e) Die maximale Gebäudehöhe darf nur durch unbeachtliche Bauteile wie technische Dachaufbauten und Fluchttreppenhäuser überragt werden. Sie sind ab den Gebäudefluchten innerhalb der 45° Dachprofillinie anzuordnen.
 
@@ -6527,9 +6461,9 @@ allee vom 14. Mai 2008 aufgehoben. IV.
 
 V. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselGrenzacherstra_3-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und wird nach Eintritt der Rechtskraft wirksam.[^hBaselGrenzacherstra_2-1]
 
-[^hBaselGrenzacherstra_3-1]: Wirksam seit 24. 7. 2016.
+[^hBaselGrenzacherstra_2-1]: Wirksam seit 24. 7. 2016.
 
 ## 221.A
 
@@ -6555,13 +6489,13 @@ II. Festsetzung eines Bebauungsplans
 
 - a) Die Detail-Parameter der städtebaulichen Konzeption werden auf der Grundlage eines Varianzverfahrens bestimmt.
 
-- b) Gestützt auf das Ergebnis des Varianzverfahrens können bis maximal 68’000m[^hBaselArealFelixPl-1] Bruttogeschossfläche, bis zu 8 Vollgeschosse sowie Wand- und Gebäudehöhen bis maximal 27 m zugelassen werden. Bei 8 Vollgeschossen sind keine Dachgeschosse zulässig.
+- b) Gestützt auf das Ergebnis des Varianzverfahrens können bis maximal 68’000 m<sup>2</sup> Bruttogeschossfläche, bis zu 8 Vollgeschosse sowie Wand- und Gebäudehöhen bis maximal 27 m zugelassen werden. Bei 8 Vollgeschossen sind keine Dachgeschosse zulässig.
 
 - c) Der Wohnanteil beträgt mindestens 80 %.
 
 - d) Es ist ausreichend Raum für mindestens zwei Kindergärten mit zugehörigen Freiflächen vorzusehen.
 
-- e) Innerhalb des Planungsperimeters sind durchgehende öffentlich zugängliche Wegverbin-dungen und Flächen vorzusehen, welche die Einbettung in die umgebenden Quartiere unter-stützen.
+- e) Innerhalb des Planungsperimeters sind durchgehende öffentlich zugängliche Wegverbindungen und Flächen vorzusehen, welche die Einbettung in die umgebenden Quartiere unterstützen.
 
 - f) Die Anordnung und die Gestaltung von Freiräumen berücksichtigen auch die naturräumliche Vernetzung zwischen dem Bachgrabengebiet und dem Kannenfeldpark.
 
@@ -6594,7 +6528,7 @@ I. Festsetzung eines Bebauungsplans
 
 - 1\. Der Bebauungsplan Nr. 14’166 des Planungsamtes vom 17. Juli 2018 wird verbindlich erklärt. Ergänzend zu den Bebauungsplanvorschriften des Grossratsbeschlusses betreffend Areal Felix Platter; Zonenänderung, Festsetzung eines Bebauungsplans, Abweisung von Einsprachen sowie Widmung im Bereich Luzernerring, Burgfelderstrasse, Ensisheimerstrasse, Hegenheimerstrasse vom 20. Oktober 2016 werden folgende Vorschriften erlassen:
 
-- 2\. Bebauung 2.1 Oberirdische Gebäude sind unter Wahrung der übrigen Bebauungsplanvorschriften nur in den Baufeldern B1, B2.1, B2.2 und B3 zulässig. Ausgenommen von dieser Beschränkung sind untergeordnete Bauten, die der Ausstattung der Freiflächen oder der Erschliessung dienen und sich gut in die städtebauliche Konzeption einordnen. Über das Baufeld hinausragende Bautei-le sind nur zulässig, wenn sie eine gute städtebauliche und architektonische Gesamtwirkung erzielen und die Baufeldgrenze nicht mehr als 1,5 m überschreiten.
+- 2\. Bebauung 2.1 Oberirdische Gebäude sind unter Wahrung der übrigen Bebauungsplanvorschriften nur in den Baufeldern B1, B2.1, B2.2 und B3 zulässig. Ausgenommen von dieser Beschränkung sind untergeordnete Bauten, die der Ausstattung der Freiflächen oder der Erschliessung dienen und sich gut in die städtebauliche Konzeption einordnen. Über das Baufeld hinausragende Bauteile sind nur zulässig, wenn sie eine gute städtebauliche und architektonische Gesamtwirkung erzielen und die Baufeldgrenze nicht mehr als 1,5 m überschreiten.
 
 2.2 Die Verteilung der zulässigen Bruttogeschossfläche auf die Baufelder richtet sich nach den Vorschriften der Ziffern 2.5 bis 2.7. Die jeweils maximal zulässige Bruttogeschossfläche kann durch Transfer zwischen den Baufeldern überschritten werden. Maximal können 2’000 m<sup>2</sup> der zulässigen Bruttogeschossfläche zwischen den Baufeldern transferiert werden, sofern die übrigen Vorschriften eingehalten sind.
 
@@ -6706,7 +6640,7 @@ tungen sind untergeordnet und nur im Zusammenhang mit der Hauptnutzung zulässig
 
 - d) Gegenüber der Holeestrasse ist ein Lichteinfallswinkel von 60° einzuhalten. Gegenüber der westlichen Nachbarbebauung ist ein Lichteinfallswinkel von 45° einzuhalten.
 
-- e) Es ist eine Freifläche von 40% einzuhalten, wovon 50 % als Grünfläche zu gestalten sind. Der Aussenraum ist mit Blick auf eine gute Gesamtwirkung hochwertig zu gestalten.
+- e) Es ist eine Freifläche von 40 % einzuhalten, wovon 50 % als Grünfläche zu gestalten sind. Der Aussenraum ist mit Blick auf eine gute Gesamtwirkung hochwertig zu gestalten.
 
 - f) Im Hofbereich sind Kleinbauten von maximal 35 m<sup>2</sup> zulässig.
 
@@ -6905,7 +6839,7 @@ Artenschutz vereinbare Erholungsnutzung ist auf maximal 20 % der Fläche zuläss
 
 III. Nichteintreten auf Einsprachen
 
-Auf die im Ratschlag Nr.17.0090.01 in Kapitel 8 aufgeführten Einsprachen wird nicht eingetreten.
+Auf die im Ratschlag Nr. 17.0090.01 in Kapitel 8 aufgeführten Einsprachen wird nicht eingetreten.
 
 IV. Änderung Lärmempfindlichkeitsstufenplan
 
@@ -7037,7 +6971,7 @@ Dieser Beschluss ist mit Rechtsmittelbelehrung zu publizieren. Er tritt am fünf
 
 Gemeinderatsbeschluss vom 7. Februar 2017
 
-Der Gemeinderat der Gemeinde Riehen beschliesst, gestützt auf §§ 101 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>326)</sup>:
+Der Gemeinderat der Gemeinde Riehen beschliesst, gestützt auf §§ 101 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>323)</sup>:
 
 - 1\. Der Bebauungsplan Nr. 118.01.001 vom 1. November 2016 betreffend Liegenschaft Kilchgrundstrasse 62 und 70 wird festgesetzt.
 
@@ -7259,13 +7193,15 @@ I. Festsetzung eines Bebauungsplans
 
 - h. Der Aussenraum ist mit Blick auf die bestehenden Qualitäten nach einem Natur- und Freiraumkonzept hochwertig zu gestalten.
 
-- i. Unterirdische Gebäudeteile, auch ungeheizte, sind bis zur Hochwasserkote von 248 m ü. M. mit einer minimalen Dämmung von 0.35 W/m2xK zu versehen. Gebäudeteile unterhalb der Vorfahrt gelten als unterirdisch.
+- i. Unterirdische Gebäudeteile, auch ungeheizte, sind bis zur Hochwasserkote von 248 m ü. M. mit einer minimalen Dämmung von 0.35 W/m<sup>2</sup> x K zu versehen. Gebäudeteile unterhalb der Vorfahrt gelten als unterirdisch.
 
 2.2. Baubereich C
 
 - j. Gegen Baubereich B dürfen keine anrechenbaren Fenster angeordnet werden.
 
-- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird. II.
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
+
+II.
 
 III.
 
@@ -7325,7 +7261,7 @@ III. Festsetzung eines Bebauungsplans
 
 In der Zone 3 gelten die gesetzlichen Vorschriften mit den folgenden Abweichungen:
 
-2.1 Nördlich der Gellertstrasse beträgt der Freiflächenanteil mindestens 80% der massgeblichen Parzellenfläche.
+2.1 Nördlich der Gellertstrasse beträgt der Freiflächenanteil mindestens 80 % der massgeblichen Parzellenfläche.
 
 2.2 Offene Bauweise südlich der Gellertstrasse:
 
@@ -7521,19 +7457,19 @@ VII. Publikation Dieser Beschluss ist zu publizieren. Er unterliegt dem Referend
 
 [^hAllgemein-1]: In Kraft seit 13. 5. 2021.
 
-### Steinenvorstadt / Steinentorstrasse / Birsig-Parkplatz (Hochhaus Heuwaage)
+### Basel Steinenvorstadt / Steinentorstrasse / Birsig-Parkplatz (Hochhaus Heuwaage)
 
 GRB vom 14. April 2021
 
-Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999[^hSteinenvorstadtSt-1] und § 11 Abs. 5 des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991 <sup>2)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 20.0190.01 vom 19. Februar 2020 sowie in den Bericht der Bau- und Planungskommission Nr. 20.0190.02 vom 4. März 2021, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999[^hBaselSteinenvorstad_2-1] und § 11 Abs. 5 des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991 <sup>2)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 20.0190.01 vom 19. Februar 2020 sowie in den Bericht der Bau- und Planungskommission Nr. 20.0190.02 vom 4. März 2021, beschliesst:
 
 I. Zonenänderung
 
-- 1\. Der Zonenänderungsplan Nr. 14’013[^hSteinenvorstadtSt-2] des Planungsamtes vom 13. August 2019 wird genehmigt.
+- 1\. Der Zonenänderungsplan Nr. 14’013[^hBaselSteinenvorstad_2-2] des Planungsamtes vom 13. August 2019 wird genehmigt.
 
 II. Festsetzung eines Bebauungsplans
 
-- 1\. Der Bebauungsplan Nr. 14’010[^hSteinenvorstadtSt-3] des Planungsamtes vom 13. August 2019 wird verbindlich erklärt.
+- 1\. Der Bebauungsplan Nr. 14’010[^hBaselSteinenvorstad_2-3] des Planungsamtes vom 13. August 2019 wird verbindlich erklärt.
 
 - 2\. Der Bebauungsplan beinhaltet folgende Vorschriften:
 
@@ -7543,7 +7479,7 @@ II. Festsetzung eines Bebauungsplans
 
 - c. In den im Situationsplan schraffiert dargestellten Bereichen darf das Gebäude entsprechend dem Schnitt A-A auf Allmend auskragen. Der Inanspruchnahme von Allmend für diese Auskragung wird zugestimmt. Der Regierungsrat wird ermächtigt, die zur Erstellung dieser Auskragung notwendigen Flächen mit den entsprechenden Baurechten zu belasten.
 
-- d. Es ist ein Mindestanteil Wohnflächen von 50% einzuhalten.
+- d. Es ist ein Mindestanteil Wohnflächen von 50 % einzuhalten.
 
 - e. Die maximale Wandhöhe darf nicht durch technische Anlagen, die Baufeldgrenze nicht durch vorragende Bauteile überschritten werden.
 
@@ -7553,48 +7489,52 @@ II. Festsetzung eines Bebauungsplans
 
 III. Änderung der Lärmempfindlichkeitsstufen
 
-Der Plan zur Änderung der Lärmempfindlichkeitsstufen Nr. 13. August 2019 des Planungsamts vom 14’017[^hSteinenvorstadtSt-4] wird genehmigt.
+Der Plan zur Änderung der Lärmempfindlichkeitsstufen Nr. 13. August 2019 des Planungsamts vom 14’017[^hBaselSteinenvorstad_2-4] wird genehmigt.
 
 IV. Änderung des Wohnanteilplans
 
-Der Plan zur Änderung des Wohnanteils Nr. 14’015[^hSteinenvorstadtSt-5] des Planungsamts vom 13. August 2019 wird genehmigt.
+Der Plan zur Änderung des Wohnanteils Nr. 14’015[^hBaselSteinenvorstad_2-5] des Planungsamts vom 13. August 2019 wird genehmigt.
 
 V. Änderung von Bau- und Strassenlinien, Flächentausch
 
-Der Baulinienplan Nr. 14’011[^hSteinenvorstadtSt-6] des Planungsamts vom 13. August 2019 für die Änderung der Bau- und Strassenlinien im Bereich Steinentorstrasse, Steinenvorstadt, Birsig-Parkplatz wird genehmigt.
+Der Baulinienplan Nr. 14’011[^hBaselSteinenvorstad_2-6] des Planungsamts vom 13. August 2019 für die Änderung der Bau- und Strassenlinien im Bereich Steinentorstrasse, Steinenvorstadt, Birsig-Parkplatz wird genehmigt.
 
-Der Abtausch von Allmend und Privatparzelle gemäss Plan Nr. 14’019[^hSteinenvorstadtSt-7] des Planungsamts vom 13. August 2019 wird genehmigt und der Regierungsrat zur Umsetzung ermächtigt.
+Der Abtausch von Allmend und Privatparzelle gemäss Plan Nr. 14’019[^hBaselSteinenvorstad_2-7] des Planungsamts vom 13. August 2019 wird genehmigt und der Regierungsrat zur Umsetzung ermächtigt.
 
 VI.
 
 VII. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hSteinenvorstadtSt-8]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hBaselSteinenvorstad_2-8]
 
-[^hSteinenvorstadtSt-1]: SG 730.100
-[^hSteinenvorstadtSt-2]: Die korrekte Nummer lautet: 14’213
-[^hSteinenvorstadtSt-3]: Die korrekte Nummer lautet: 14'210
-[^hSteinenvorstadtSt-4]: Die korrekte Nummer lautet: 14’217
-[^hSteinenvorstadtSt-5]: Die korrekte Nummer lautet: 14’215
-[^hSteinenvorstadtSt-6]: Die korrekte Nummer lautet: 14’211
-[^hSteinenvorstadtSt-7]: Die korrekte Nummer lautet: 14’219
-[^hSteinenvorstadtSt-8]: Gegen diesen GRB ist noch ein Rekurs hängig.
+[^hBaselSteinenvorstad_2-1]: SG 730.100
+[^hBaselSteinenvorstad_2-2]: Die korrekte Nummer lautet: 14’213
+[^hBaselSteinenvorstad_2-3]: Die korrekte Nummer lautet: 14'210
+[^hBaselSteinenvorstad_2-4]: Die korrekte Nummer lautet: 14’217
+[^hBaselSteinenvorstad_2-5]: Die korrekte Nummer lautet: 14’215
+[^hBaselSteinenvorstad_2-6]: Die korrekte Nummer lautet: 14’211
+[^hBaselSteinenvorstad_2-7]: Die korrekte Nummer lautet: 14’219
+[^hBaselSteinenvorstad_2-8]: Gegen diesen GRB ist noch ein Rekurs hängig.
 
-### St. Jakobs-Strasse / Güterbahnhof Wolf (Areal Wolf)
+### Basel St. Jakobs-Strasse / Güterbahnhof Wolf (Areal Wolf)
 
 GRB vom 15. März 2023
 
-Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>328)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 21.1362.01 vom 20. Oktober 2021 sowie in den Bericht der Bau und Raumplanungskommission Nr. 21.1362.02 vom 12. Januar 2023, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>325)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 21.1362.01 vom 20. Oktober 2021 sowie in den Bericht der Bau und Raumplanungskommission Nr. 21.1362.02 vom 12. Januar 2023, beschliesst:
 
-I. Zonenänderung Der Zonenänderungsplan Nr. 14’292 von ‹Städtebau & Architektur› vom 21. Dezember 2020 wird verbindlich erklärt.
+I. Zonenänderung
 
-II. Festsetzung eines Bebauungsplans zweiter Stufe 1. Der Bebauungsplan Nr. 14’289 von ‹Städtebau & Architektur› vom 21. Dezember 2020 wird verbindlich erklärt.
+Der Zonenänderungsplan Nr. 14’292 von ‹Städtebau & Architektur› vom 21. Dezember 2020 wird verbindlich erklärt.
+
+II. Festsetzung eines Bebauungsplans zweiter Stufe
+
+- 1\. Der Bebauungsplan Nr. 14’289 von ‹Städtebau & Architektur› vom 21. Dezember 2020 wird verbindlich erklärt.
 
 - 2\. Zum Bebauungsplan werden folgende Vorschriften erlassen:
 
 2.1 Baufelder a. Die Wandhöhe beträgt 20 bzw. 30 m. Es gelten folgende Bruttogeschossflächen (BGF) und Wohnflächenanteile:
 
-Baufeld A: 73’500 m<sup>2</sup> BGF, Mindestwohnflächenanteil 80% Baufeld B: 23’000 m<sup>2</sup> BGF, Maximalwohnflächenanteil 20% Baufeld C: 13’500 m<sup>2</sup> BGF, Maximalwohnflächenanteil 20% b. Dachgeschosse und Dachaufbauten sind nicht zulässig.
+Baufeld A: 73’500 m<sup>2</sup> BGF, Mindestwohnflächenanteil 80 % Baufeld B: 23’000 m<sup>2</sup> BGF, Maximalwohnflächenanteil 20 % Baufeld C: 13’500 m<sup>2</sup> BGF, Maximalwohnflächenanteil 20 % b. Dachgeschosse und Dachaufbauten sind nicht zulässig.
 
 - c. Die Fassadenfluchten und Trauflinien sind einheitlich. Es muss auf die Pflichtbaulinie gebaut werden.
 
@@ -7634,7 +7574,7 @@ Umwelt und Energie a. Durch geeignete Massnahmen ist ein angemessener Schutz vor
 
 **2.6**
 
-Mobilität a. Es dürfen nicht mehr als 40% der gemäss Parkplatzverordnung Basel-Stadt zulässigen Anzahl Parkplätze erstellt werden.
+Mobilität a. Es dürfen nicht mehr als 40 % der gemäss Parkplatzverordnung Basel-Stadt zulässigen Anzahl Parkplätze erstellt werden.
 
 - b. Oberirdisch sind einzig kiss&ride-Parkplätze, Taxistandplätze, Car-Sharing-Parkplätze, Bushaltekanten oder Ähnliches zulässig.
 
@@ -7652,7 +7592,11 @@ Mobilität a. Es dürfen nicht mehr als 40% der gemäss Parkplatzverordnung Base
 
 - i. Im Hof zwischen Baufeld B und C kann der Kanton in Abstimmung mit dem Grundeigentümer einen öffentlichen Veloweg mit 4 m Breite erstellen, wenn die Weiterführung Richtung St. Jakob gesichert ist.
 
-2.7 Etappierung a. Der Bereich «Autobahntunnel» darf nur mit Zustimmung der für die Nationalstrassen zuständigen Behörden überbaut werden.
+**2.7**
+
+Etappierung a. Der Bereich «Autobahntunnel» darf nur mit Zustimmung der für die Nationalstrassen zu-
+
+ständigen Behörden überbaut werden.
 
 - b. Eine Etappierung des Baufelds A ist unter Einhaltung der umweltschutzrechtlichen Vorgaben möglich. Für die Etappierung notwendigen Gebäude und Gebäudeteile kann das zuständige Departement ausnahmsweise zeitlich begrenzte Abweichungen vom Bebauungsplan sowie von der Gesamtkonzeption zulassen. Die Ausgestaltung der Etappierung hat hohen städtebaulichen und ökologischen Anforderungen zu genügen.
 
@@ -7682,15 +7626,15 @@ Der Lärmempfindlichkeitsstufenänderungsplan Nr. 14’296 von ‹Städtebau & A
 
 VI. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hStJakobsStrasse-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hBaselStJakobsStr-1]
 
-[^hStJakobsStrasse-1]: In Kraft seit 11. 5. 2023 (KB 6. 5. 2023).
+[^hBaselStJakobsStr-1]: In Kraft seit 11. 5. 2023 (KB 6. 5. 2023).
 
-### Innerer Egliseeweg / Riehenstrasse / Säckingerstrasse / Laufenburgerstrasse (Areal zur Eiche)
+### Basel Innerer Egliseeweg / Riehenstrasse / Säckingerstrasse / Laufenburgerstrasse (Areal zur Eiche)
 
 GRB vom 6. Dezember 2023
 
-Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>330)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 23.0506.01 vom 28. Juni 2023 und nach dem mündlichen Antrag der Bau- und Planungskommission vom 6. Dezember 2023, beschliesst:
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>327)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 23.0506.01 vom 28. Juni 2023 und nach dem mündlichen Antrag der Bau- und Planungskommission vom 6. Dezember 2023, beschliesst:
 
 I. Zonenänderung
 
@@ -7724,15 +7668,15 @@ Der Linienplan Nr. 14’398 von Städtebau & Architektur vom 7. November 2022 wi
 
 VI. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hInnererEgliseeweg-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hBaselInnererEglise-1]
 
-[^hInnererEgliseeweg-1]: In Kraft seit 8. 2. 2024 (KB 3. 2. 2024).
+[^hBaselInnererEglise-1]: In Kraft seit 8. 2. 2024 (KB 3. 2. 2024).
 
 ### Riehen Spezielle Nutzungsvorschriften Autal
 
 Einwohnerratsbeschluss vom 25. Oktober 2023
 
-Der Einwohnerrat Riehen, gestützt auf §§ 40c, 95, 103 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>332)</sup> und auf Antrag des Gemeinderats, beschliesst:
+Der Einwohnerrat Riehen, gestützt auf §§ 40c, 95, 103 und 105 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>329)</sup> und auf Antrag des Gemeinderats, beschliesst:
 
 I. Festsetzung Spezielle Nutzungsvorschriften
 
@@ -7785,7 +7729,7 @@ II. Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum und bedarf
 [^hBaulicheNutzung_2-1]: Genehmigt am 11. 3. 2024
 [^hBaulicheNutzung_2-2]: In Kraft seit 1. 6. 2024
 
-### Nauenstrasse / Lindenhofstrasse / Münchensteinerstrasse (Areal Lindenhof, Lonza)
+### Basel Nauenstrasse / Lindenhofstrasse / Münchensteinerstrasse (Areal Lindenhof, Lonza)
 
 GRB vom 27. Juni 2024
 
@@ -7813,7 +7757,9 @@ I. Festsetzung eines Bebauungsplans
 
 - h) Auf dem Areal dürfen neben den neuen Hochhäusern maximal acht neue oberirdische Besucherparkplätze erstellt werden.
 
-- i) Für den Fussverkehr ist eine aus allen Richtungen öffentlich zugängliche und in Ost-West-Richtung sowie falls möglich aus Nordrichtung hindernisfreie Durchwegung des Areals vorzusehen und durch eine Dienstbarkeit zu sichern. Die entsprechende Dienstbarkeit darf ohne Zustimmung der Bewilligungsbehörde weder geändert noch aufgehoben werden. Dies ist im Grundbuch anzumerken.
+- i) Für den Fussverkehr ist eine aus allen Richtungen öffentlich zugängliche und in Ost-West-Richtung sowie falls möglich aus Nordrichtung hindernisfreie Durchwegung des Areals vorzusehen und durch eine Dienstbarkeit zu sichern. Die entsprechende Dienstbarkeit darf ohne Zustimmung der Bewilligungsbehörde weder geändert noch aufgehoben werden. Dies ist im Grund-
+
+buch anzumerken.
 
 - j) Aussenraum Der Aussenraum ist hinsichtlich einer guten Gesamtwirkung gestützt auf ein Varianzverfahren nach ökologischen und stadtklimatischen Kriterien hochwertig zu gestalten. Die Überdeckung der unterirdischen Bauten ist mit einer genügend mächtigen Erdsubstratschicht von mindestens 150 cm Höhe zu versehen, die stellenweise auch Pflanzinseln und Baumpflanzungen erlaubt. Eine ober- oder unterirdische Bebauung des Randbereichs ist nicht erlaubt, davon ausgenommen sind Massnahmen, die der Versickerung und dem Schwammstadtprinzip oder der notwendigen Erschliessung des Areals dienen. Mit der ersten Baueingabe ist ein verbindliches Umgebungs- und Entwässerungskonzept für das gesamte Areal einzureichen. Das anfallende Meteorwasser ist nach dem Schwammstadtprinzip zu bewirtschaften (verdunsten, speichern, oberflächlich versickern).
 
@@ -7833,11 +7779,11 @@ Der Grossratsbeschluss betreffend Erlass spezieller Bauvorschriften für das Lin
 
 IV. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hNauenstrasseLinde-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hBaselNauenstrasse_2-1]
 
-[^hNauenstrasseLinde-1]: In Kraft seit 4. 7. 2024 (KB 29. 6. 2024)
+[^hBaselNauenstrasse_2-1]: In Kraft seit 4. 7. 2024 (KB 29. 6. 2024)
 
-### Areal Tennisclub Old Boys, Schützenmatte West
+### Basel Areal Tennisclub Old Boys, Schützenmatte West
 
 GRB vom 11. Dezember 2024
 
@@ -7865,13 +7811,13 @@ Die im Ratschlag Nr. 24.0185.01 im Kapitel 5 aufgeführten Einsprachen werden ab
 
 III. Publikation
 
-Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hArealTennisclubOld-1]
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hBaselArealTenniscl-1]
 
-[^hArealTennisclubOld-1]: In Kraft seit 6. 2. 2025 (KB 1. 2. 2025)
+[^hBaselArealTenniscl-1]: In Kraft seit 6. 2. 2025 (KB 1. 2. 2025)
 
 ## 214.B
 
-### Nauenstrasse / Gartenstrasse / Heumattstrasse / Centralbahnstrasse (Areal BIZ)
+### Basel Nauenstrasse / Gartenstrasse / Heumattstrasse / Centralbahnstrasse (Areal BIZ)
 
 RRB vom 4. Februar 2025
 
@@ -7897,9 +7843,83 @@ I. Festsetzung eines Bebauungsplans
 
 II. Publikation
 
-Dieser Beschluss ist mit Rechtsmittelbelehrung zu publizieren. Er tritt am fünften Tag nach der Publikation in Kraft.[^hNauenstrasseGarte-1]
+Dieser Beschluss ist mit Rechtsmittelbelehrung zu publizieren. Er tritt am fünften Tag nach der Publikation in Kraft.[^hBaselNauenstrasse_3-1]
 
-[^hNauenstrasseGarte-1]: In Kraft seit 13. 2. 2025 (KB 8. 2. 2025)
+[^hBaselNauenstrasse_3-1]: In Kraft seit 13. 2. 2025 (KB 8. 2. 2025)
+
+### Basel Grenzacherstrasse / Solitude-Park / Solitude-Promenade (Roche Südareal)
+
+GRB vom 15. Oktober 2025
+
+Der Grosse Rat des Kantons Basel-Stadt, gestützt auf die §§ 101, 105 und 106 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999 <sup>335)</sup>, nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. 23.1509.01 vom 15. November 2023 sowie in den Bericht der Bau- und Planungskommission Nr. 23.1509.02 vom 28. August 2025, beschliesst:
+
+I. Zonenänderung
+
+Der Zonenänderungsplan Nr. 14’395 von Städtebau & Architektur vom 24.10.2022 wird genehmigt.
+
+II. Aufhebung des Bebauungsplans Nr. 193
+
+Der Grossratsbeschluss betreffend Festsetzung eines Bebauungsplans Grenzacherstrasse (Südareal), Areal F. Hoffmann-La Roche, Basel vom 20. Oktober 2010 wird aufgehoben.
+
+III. Festsetzung eines Bebauungsplans
+
+- 1\. Der Bebauungsplan Nr. 14‘393 von Städtebau & Architektur vom 24.10.2022 wird verbindlich erklärt.
+
+- 2\. Der Bebauungsplan beinhaltet folgende Vorschriften:
+
+2.1 Allgemeine Bestimmungen a) Die insgesamt zulässige Bruttogeschossfläche beträgt maximal 170’400 m<sup>2</sup>.
+
+- b) Zulässig sind Arbeitsnutzungen sowie die zum Betrieb notwendigen weiteren Nutzungen wie Büro, Labor, Gastronomie und Logistik.
+
+- c) Der Aussenraum zwischen den Baufeldern ist nach einem übergeordneten Konzept qualitativ hochwertig zu gestalten. Zulässig sind die zur Ausstattung von Grün- und Freiflächen üblichen Bauten und Anlagen sowie Erschliessungswege.
+
+- d) Mindestens 50 % der Freifläche ist unter Berücksichtigung ökologischer und stadtklimatischer Aspekte als qualitativ hochwertige Grünanlage zu gestalten. Grünflächen über Untergeschossen sind mit einer Vegetationsschicht von mindestens 1,5 m zu überdecken.
+
+- e) Die Gestaltung und Nutzung der Randzone gegen die Solitude-Promenade ist mit der Gestaltung der öffentlichen Grün- und Strassenräume abzustimmen.
+
+- f) Mittels eines Energiekonzepts ist aufzuzeigen, wie die Energieversorgung des Südareals CO2- Neutral erfolgt. Im Rahmen der Baubewilligungsverfahren ist das Konzept vorzulegen und die Umsetzung der darin definierten Massnahmen aufzuzeigen.
+
+- g) Mittels eines Mobilitätskonzepts ist die umweltfreundliche Verkehrsmittelnutzung zu bevorzugen. Es ist jeweils im Rahmen des Baubewilligungsverfahrens über den Stand der Umsetzung zu berichten.
+
+- h) Von der gemäss Gesetzgebung und Norm vorgesehenen Aufteilung der Veloparkplätze in Kurz- und Langzeitparkplätze kann abgewichen werden. Es sind jedoch mindestens 5 % der zu erstellenden Veloabstellplätze als Kurzzeitparkplätze anzuordnen.
+
+- i) Die maximale Höhe darf in den Baufeldern A und B auch nicht durch technische und sicherheitsrelevante Anlagen überschritten werden. Die Baufeldgrenzen dürfen nicht durch vorragende Bauteile überschritten werden.
+
+- j) Als massgebendes Terrain gilt der Niveaupunkt 257,86 m ü. M.
+
+2.2 Baufeld A a) Im Baufeld A sind innerhalb der Mantellinien sowie innerhalb der definierten Lichteinfallswinkel maximal 77’000 m<sup>2</sup> oberirdische Bruttogeschossfläche zulässig. Die maximale Gebäudehöhe des Hochhauses ist ab Niveaupunkt 180 m. Bei der Ausführung des Hochhauses müssen in Bezug auf die Aussenwirkung in gestalterischer Hinsicht, die im Ratschlag Nr. 10.1156.01 enthaltenen Projektstudien wegleitend berücksichtigt werden.
+
+- b) Entlang der Grenzacherstrasse ist das Erdgeschoss gemäss dem schraffierten Bereich mindestens 2 m von der Parzellengrenze zurückzuversetzen. Stützen sind zulässig.
+
+- c) Technische, witterungsgeschützte Aufbauten über dem obersten Vollgeschoss werden vollumfänglich an die zulässige oberirdische Bruttogeschossfläche angerechnet.
+
+2.3 Baufeld B a) Im Baufeld B ist innerhalb der Mantellinien sowie innerhalb der definierten Lichteinfallswinkel gestützt auf ein qualitätssicherndes Verfahren ein Gebäude mit einer Bruttogeschossfläche von 81’000 m<sup>2</sup> und einer Höhe von 221 m zulässig. Die Anzahl Vollgeschosse ist frei. Dachgeschosse sind keine zulässig.
+
+- b) In Baufeld B ist innerhalb des im Plan schraffiert dargestellten Bereichs eine Auskragung ab einer minimalen Höhe von 10 m zum Rhein hin zulässig.
+
+2.4 Bau 124 Zwischen den Baufeldern ist eine Nutzung mit einer Grundfläche von insgesamt maximal 1’500 m<sup>2</sup> und einer BGF von insgesamt maximal 4’000 m<sup>2</sup> zulässig. Zulässig sind publikumsorientierte Nutzungen für Besuchende und Mitarbeitende sowie die zum Betrieb des Gebäudes notwendigen weiteren Nutzungen. Die Lage orientiert sich an der im Plan dargestellten Fläche. Die Nutzung muss sich sehr gut in den Aussenraum und insbesondere in die Grünanlage einordnen. Abweichungen von der zulässigen Höhe sind gestützt auf das Resultat eines qualitätssichernden Verfahrens zulässig.
+
+2.5 Baufeld C In Baufeld C darf der Kern von Bau 27 angeordnet werden. Es darf kein eigenständiger Neubau erstellt werden. Die zur Wiederherstellung von Bau 27 notwendigen baulichen Massnahmen sind zulässig.
+
+2.6 Baufeld D Die Zulässigkeit baulicher Massnahmen im Baufeld D richtet sich nach den Vorgaben, die sich aus der Unterschutzstellung gemäss Denkmalverzeichnis ergeben.
+
+2.7 Verhältnis zum Schutzvertrag Dieser Bebauungsplan ersetzt den Bebauungsplan Nr. 193 und tritt an seiner Stelle in Kraft. Sofern der Schutzvertrag vom 21. Juni 2022 auf den Bebauungsplan Nr. 193 verweist, gilt der vorliegende Bebauungsplan an seiner Stelle.
+
+- 3\. Das zuständige Departement kann Abweichungen vom Bebauungsplan zulassen, sofern dadurch die Gesamtkonzeption nicht beeinträchtigt wird.
+
+IV. Änderung von Baulinien
+
+Der Linienplan Nr. 14’396 von Städtebau & Architektur vom 24.10.2022 wird genehmigt.
+
+V. Abweisung von Einsprachen
+
+Die im Ratschlag Nr. 23.1509.01 in Kapitel 8 aufgeführten Einsprachen werden abgewiesen, soweit darauf eingetreten werden kann.
+
+VI. Publikation
+
+Dieser Beschluss ist zu publizieren. Er unterliegt dem Referendum und tritt am fünften Tag nach der Publikation des unbenutzten Ablaufs der Referendumsfrist oder im Falle einer Volksabstimmung am fünften Tag nach Publikation der Annahme durch die Stimmberechtigten in Kraft.[^hBaselGrenzacherstra_3-1]
+
+[^hBaselGrenzacherstra_3-1]: In Kraft seit 11. 12. 2025 (KB 6. 12. 2025)
 
 ## Weitere Fussnoten
 
