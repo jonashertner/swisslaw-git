@@ -5,11 +5,12 @@ title: Gesetz über die Gewässer
 short: "Gewässergesetz, GewG"
 language: de
 version: 2024-09-01
+corrected: 2025-12-11
 version_adopted: 2024-05-29
 adopted: 2020-02-12
 in_force: 2020-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/631.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1429/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -433,7 +434,7 @@ beschliesst:
 
 **b) Uferlinie Seen**
 
-<sup>1</sup> Die Uferlinie des Vierwaldstättersees ergibt sich aus seiner horizontalen Begrenzung bei einem Wasserstand von 434.00 m.ü.M.
+<sup>1</sup> Die Uferlinie des Vierwaldstädtersees ergibt sich aus seiner horizontalen Begrenzung bei einem Wasserstand von 434.00 m.ü.M.
 
 <sup>2</sup> Die Direktion legt die Uferlinie bei den übrigen Seen gestützt auf den regelmässig wiederkehrenden höchsten Wasserstand im Einzelfall fest.
 
