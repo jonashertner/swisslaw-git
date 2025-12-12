@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2025-10-30
+version: 2025-12-13
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20251030/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20251030-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20251030/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20251213/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20251213-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20251213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 30. Oktober 2025)
+vom 4. März 2022 (Stand am 13. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -1600,14 +1600,14 @@ Das Verbot nach Absatz 1 gilt nicht für Transaktionen, die erforderlich sind:
 
 #### Art. 24c
 
-**Verbot von Transaktionen im Zusammenhang mit Krypto‑Dienstleistungen**[^24c-1]
+**Verbot von Transaktionen mit gewissen Banken und Organisationen, die den Zweck der Sanktionen untergraben[^24c-2]**[^24c-1]
 
 <sup>1</sup>
 
 Es ist verboten, unmittelbar oder mittelbar Geschäfte zu tätigen mit:
 
-- a. den in Anhang 15*b* aufgeführten Banken, Unternehmen oder Organisationen, die Krypto-Dienstleistungen erbringen;
-- b. Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung von Banken, Unternehmen oder Organisationen nach Buchstabe a handeln.[^24c-2]
+- a. Banken oder Organisationen nach Anhang 15*b*;
+- b. Personen, Organisationen oder Einrichtungen, die im Namen oder auf Anweisung von Banken oder Organisationen nach Buchstabe a handeln.[^24c-3]
 
 <sup>2</sup>
 
@@ -1618,7 +1618,8 @@ Das Verbot nach Absatz 1 gilt nicht für Transaktionen, die erforderlich sind:
 - c. für humanitäre Aktivitäten, einschliesslich der Versorgung mit medizinischen Hilfsgütern und Nahrungsmitteln, des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe oder Evakuierungen.
 
 [^24c-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^24c-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 30. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
+[^24c-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^24c-3]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 24d
 
@@ -2220,7 +2221,7 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 <sup>1</sup>
 
-Das SECO kann bis zum 31. Dezember 2025 Ausnahmen von den Verboten nach den Artikeln 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* und 14*b* bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in den entsprechenden Anhängen 1, 3, 4, 5, 16, 18, 19 und 23 aufgeführten Gütern und Technologien und von Gütern nach Anhang 2 GKV[^30a-1] sowie den Verkauf, die Lizenzierung oder anderweitige Übertragung von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen sowie die Gewährung von Rechten auf Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen im Zusammenhang mit diesen Gütern und Technologien, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, sofern:[^30a-2]
+Das SECO kann bis zum 31. Dezember 2026 Ausnahmen von den Verboten nach den Artikeln 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* und 14*b* bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in den entsprechenden Anhängen 1, 3, 4, 5, 16, 18, 19 und 23 aufgeführten Gütern und von Gütern nach Anhang 2 GKV[^30a-1] sowie den Verkauf, die Lizenzierung oder anderweitige Übertragung von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen sowie die Gewährung von Rechten auf Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen im Zusammenhang mit diesen Gütern, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, sofern:[^30a-2]
 
 - a. die genannten Tätigkeiten für den Abzug von Investitionen aus der Russischen Föderation oder die Beendigung von Geschäftstätigkeiten[^30a-3] in der Russischen Föderation unbedingt erforderlich sind;
 - b.
@@ -2238,7 +2239,7 @@ Das SECO kann bis zum 31. Dezember 2025 Ausnahmen von den Verboten nach den Arti
 
 <sup>2bis</sup>
 
-Es kann bis zum 31. Dezember 2025 Ausnahmen von den Verboten nach Artikel 11 bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in Anhang 5 aufgeführten Gütern, sofern diese Tätigkeiten unbedingt erforderlich sind für den Abzug von Investitionen aus einem Joint Venture, das:[^30a-4]
+Es kann bis zum 31. Dezember 2026 Ausnahmen von den Verboten nach den Artikeln 4, 5, 11 und 11*a* bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in den entsprechenden Anhängen 1, 5 und 23*a* aufgeführten Gütern und von Gütern nach Anhang 2 GKV oder betreffend damit im Zusammenhang stehende Dienstleistungen, sofern diese Tätigkeiten oder Dienstleistungen unbedingt erforderlich sind für den Abzug von Investitionen aus einem Joint Venture, das:[^30a-4]
 
 - a. eine Gasinfrastruktur zwischen der Russischen Föderation und Drittländern betreibt;
 - b. vor dem 3. März 2022 nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründet oder eingetragen wurde; und
@@ -2246,7 +2247,7 @@ Es kann bis zum 31. Dezember 2025 Ausnahmen von den Verboten nach Artikel 11 bew
 
 <sup>3</sup>
 
-Es kann Ausnahmen von den Verboten nach den Artikeln 14*a* und 14*c* betreffend die Einfuhr, die Durchfuhr und den Transport von in den Anhängen 17 und 20 aufgeführten Gütern bis zum 31. Dezember 2025 bewilligen, sofern:[^30a-6]
+Es kann Ausnahmen von den Verboten nach den Artikeln 14*a* und 14*c* betreffend die Einfuhr, die Durchfuhr und den Transport von in den Anhängen 17 und 20 aufgeführten Gütern bis zum 31. Dezember 2026 bewilligen, sofern:[^30a-6]
 
 - a. die genannten Tätigkeiten für den Abzug von Investitionen aus der Russischen Föderation oder die Beendigung von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind;
 - b.
@@ -2261,19 +2262,19 @@ Es kann Ausnahmen von den Verboten nach den Artikeln 14*a* und 14*c* betreffend 
 - c. sich die betreffenden Güter physisch in der Russischen Föderation befanden, bevor die jeweiligen Verbote nach den Artikeln 14*a* und 14*c* für diese Güter in Kraft getreten sind.
 
 [^30a-1]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
-[^30a-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30a-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^30a-3]: Ausdruck gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 30. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^30a-4]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30a-4]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^30a-5]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30a-6]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30a-6]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 30b
 
 **Ausnahmen vom Verbot von Transaktionen mit staatseigenen Unternehmen**[^30b-1]
 
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot von Transaktionen mit staatseigenen Unternehmen nach Artikel 24*a* Absatz 1 bewilligen, um Transaktionen zu ermöglichen, die für den Abzug von Investitionen und den Rückzug aus einer in der Schweiz oder einem EWR-Mitgliedstaat niedergelassenen juristischen Person, Organisation oder Einrichtung durch die in Artikel 24*a* Absatz 1 genannten Organisationen oder ihre Niederlassungen in der Schweiz oder in einem EWR-Mitgliedstaat bis zum 31. Dezember 2025 unbedingt erforderlich sind.
+Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot von Transaktionen mit staatseigenen Unternehmen nach Artikel 24*a* Absatz 1 bewilligen, um Transaktionen zu ermöglichen, die für den Abzug von Investitionen und den Rückzug aus einer in der Schweiz oder einem EWR-Mitgliedstaat niedergelassenen juristischen Person, Organisation oder Einrichtung durch die in Artikel 24*a* Absatz 1 genannten Organisationen oder ihre Niederlassungen in der Schweiz oder in einem EWR-Mitgliedstaat bis zum 31. Dezember 2026 unbedingt erforderlich sind.
 
-[^30b-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30b-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 30c
 
@@ -2281,7 +2282,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 <sup>1</sup>
 
-Das SECO kann bis zum 31. Dezember 2025 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten betreffend Dienstleistungen und Software nach Artikel 28*e* bewilligen, sofern:[^30c-2]
+Das SECO kann bis zum 31. Dezember 2026 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten betreffend Dienstleistungen und Software nach Artikel 28*e* bewilligen, sofern:[^30c-2]
 
 - a. die Dienstleistungen oder die Software für den Abzug von Investitionen aus der Russischen Föderation oder die Beendigung von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind; und
 - b. die Dienstleistungen oder die Software ausschliesslich zugunsten der aus dem Abzug von Investitionen hervorgehenden juristischen Personen, Organisationen oder Einrichtungen erbracht werden.[^30c-3]
@@ -2291,7 +2292,7 @@ Das SECO kann bis zum 31. Dezember 2025 nach Rücksprache mit den zuständigen S
 <sup>3</sup> Es kann bis zum 31. März 2024 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Artikel 28*e* Absatz 1<sup>bis</sup> betreffend Dienstleistungen im Bereich Rechtsberatung bewilligen, sofern diese Dienstleistungen rechtlich erforderlich sind für den Abschluss des Verkaufs oder der Übertragung von Anteilen an einer in einem EWR-Mitgliedstaat oder der Schweiz niedergelassenen juristischen Person, Organisation oder Einrichtung, die von einer in der Russischen Föderation niedergelassenen juristischen Person, Organisation oder Einrichtung unmittelbar oder mittelbar gehalten werden.[^30c-5]
 
 [^30c-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-2]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30c-2]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^30c-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^30c-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^30c-5]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
@@ -2300,9 +2301,9 @@ Das SECO kann bis zum 31. Dezember 2025 nach Rücksprache mit den zuständigen S
 
 **Ausnahmen vom Verbot der Erfüllung bestimmter Forderungen**[^30cbis-1]
 
-Das SECO kann bis zum 31. Dezember 2025 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen bewilligen vom Verbot der Erfüllung der Forderungen von natürlichen Personen, Unternehmen oder Organisationen nach Artikel 30 Buchstabe b, sofern dies für den Abzug von Investitionen aus der Russischen Föderation oder die Beendigung von Geschäften in der Russischen Föderation erforderlich ist.
+Das SECO kann bis zum 31. Dezember 2026 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen bewilligen vom Verbot der Erfüllung der Forderungen von natürlichen Personen, Unternehmen oder Organisationen nach Artikel 30 Buchstabe b, sofern dies für den Abzug von Investitionen aus der Russischen Föderation oder die Beendigung von Geschäften in der Russischen Föderation erforderlich ist.
 
-[^30cbis-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30cbis-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 30c<sup>ter</sup>
 
@@ -2549,7 +2550,7 @@ Artikel 12*a* Absätze 1 und 2 ist nicht anwendbar:
 Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
 
 - a. die Entgegennahme von Zahlungen, die von den Banken, Unternehmen oder Organisationen nach Artikel 24*a* Absatz 1 aufgrund von Verträgen geschuldet werden, die vor dem 15. Mai 2022 ausgeführt wurden;
-- b.[^35-12] Transaktionen, einschliesslich Verkäufe, die erforderlich sind für den Abschluss eines Joint Ventures oder eines Vorhabens mit einer ähnlichen Rechtsform, das vor dem 26. März 2022 gegründet wurde und an dem eine Bank, ein Unternehmen oder eine Organisation nach Artikel 24*a* Absatz 1 beteiligt ist, bis zum 31. Dezember 2025.[^35-13]
+- b.[^35-12] Transaktionen, einschliesslich Verkäufe, die erforderlich sind für den Abschluss eines Joint Ventures oder eines Vorhabens mit einer ähnlichen Rechtsform, das vor dem 26. März 2022 gegründet wurde und an dem eine Bank, ein Unternehmen oder eine Organisation nach Artikel 24*a* Absatz 1 beteiligt ist, bis zum 31. Dezember 2026.[^35-13]
 
 <sup>18</sup> Artikel 28*d* Absatz 1 ist nicht auf Transaktionen anwendbar, die erforderlich sind, um vor dem 28. April 2022 geschlossene Verträge, die mit den Bestimmungen von Artikel 28*d* nicht vereinbar sind, bis zum 31. Juli 2022 zu beenden.[^35-14]
 
@@ -2632,7 +2633,7 @@ Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
 [^35-9]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^35-10]: Eingefügt durch Ziff. I der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-11]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-12]: Fassung gemäss Ziff. I der V vom 12. Febr. 2025, in Kraft seit 13. Febr. 2025 ([AS 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^35-12]: Fassung gemäss Ziff. I der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^35-13]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-14]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-15]: Eingefügt durch Ziff. I der V vom 29. Juni 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Aufgehoben durch Ziff. I der V vom 31. Jan. 2024, mit Wirkung seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
@@ -2687,8 +2688,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), Ziff. I Abs. 1 der V des WBF vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) und Ziff. II Abs. 1 der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), vom 31. Jan. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) und Ziff. I der V des WBF vom 29. Febr. 2024 ([AS 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), Ziff. II Abs. 1 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), Ziff. I der V des WBF vom 12. Dez. 2024 ([AS 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. II Abs. 2 der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) und Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025, in Kraft seit 12. Aug 2025 um 23.00 Uhr ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/497](https://fedlex.data.admin.ch/eli/oc/2025/497) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), Ziff. I Abs. 1 der V des WBF vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) und Ziff. II Abs. 1 der V vom 29. März 2023 ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), vom 31. Jan. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)) und Ziff. I der V des WBF vom 29. Febr. 2024 ([AS 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), Ziff. II Abs. 1 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), Ziff. I der V des WBF vom 12. Dez. 2024 ([AS 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. II Abs. 2 der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) und Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025 ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)) und Ziff. II Abs. 1 der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex2-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 
@@ -3063,8 +3064,8 @@ Anhang 8[^t-10]
 
 [^annex8-lvlu1-1]
 
-[^t-10]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), Ziff. I der V des WBF vom 31. Okt. 2022 ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), Ziff. I Abs. 1 der V des WBF vom 7. Dez. 2022 ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), Ziff. I der V des WBF vom 20. Dez. 2022 ([AS 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), Ziff. II Abs. 1 der V vom 15. Febr. 2023 ([AS 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), Ziff. I der V des WBF vom 1. März 2023 ([AS 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), vom 19. April 2023 ([AS 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), vom 6. Juni 2023 ([AS 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), vom 27. Juni 2023 ([AS 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), Ziff. II Abs. 1 der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), Ziff. I der V des WBF vom 25. Sept. 2023 ([AS 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), vom 1. Nov. 2023 ([AS 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), vom 20. Dez. 2023 ([AS 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), Ziff. II Abs. 1 der V vom 31. Jan. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), Ziff. I der V des WBF vom 29. Febr. 2024 ([AS 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), Ziff. I Abs. 1 der V des WBF vom 21. März 2024 ([AS 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), Ziff. I der V des WBF vom 3. Juni 2024 ([AS 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), vom 8. Juli 2024 ([AS 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), vom 23. Sept. 2024 ([AS 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), vom 12. Dez. 2024 ([AS 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), vom 18. Febr. 2025 ([AS 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. I der V des WBF vom 18. März 2025 ([AS 2025 181](https://fedlex.data.admin.ch/eli/oc/2025/181)), vom 17. April 2025 ([AS 2025 255](https://fedlex.data.admin.ch/eli/oc/2025/255)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025 ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)) und Ziff. I der V des WBF vom 29. Sept. 2025, in Kraft seit 30. Sept. 2025 um 23.00 Uhr ([AS 2025 597](https://fedlex.data.admin.ch/eli/oc/2025/597)).
-[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/597](https://fedlex.data.admin.ch/eli/oc/2025/597) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-10]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), Ziff. I der V des WBF vom 31. Okt. 2022 ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), Ziff. I Abs. 1 der V des WBF vom 7. Dez. 2022 ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), Ziff. I der V des WBF vom 20. Dez. 2022 ([AS 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), Ziff. II Abs. 1 der V vom 15. Febr. 2023 ([AS 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), Ziff. I der V des WBF vom 1. März 2023 ([AS 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), vom 19. April 2023 ([AS 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), vom 6. Juni 2023 ([AS 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), vom 27. Juni 2023 ([AS 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), Ziff. II Abs. 1 der V vom 16. Aug. 2023 ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), Ziff. I der V des WBF vom 25. Sept. 2023 ([AS 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), vom 1. Nov. 2023 ([AS 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), vom 20. Dez. 2023 ([AS 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), Ziff. II Abs. 1 der V vom 31. Jan. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), Ziff. I der V des WBF vom 29. Febr. 2024 ([AS 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), Ziff. I Abs. 1 der V des WBF vom 21. März 2024 ([AS 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), Ziff. I der V des WBF vom 3. Juni 2024 ([AS 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), vom 8. Juli 2024 ([AS 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), vom 23. Sept. 2024 ([AS 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), vom 12. Dez. 2024 ([AS 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), vom 18. Febr. 2025 ([AS 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. I der V des WBF vom 18. März 2025 ([AS 2025 181](https://fedlex.data.admin.ch/eli/oc/2025/181)), vom 17. April 2025 ([AS 2025 255](https://fedlex.data.admin.ch/eli/oc/2025/255)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025 ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)), Ziff. I der V des WBF vom 29. Sept. 2025 ([AS 2025 597](https://fedlex.data.admin.ch/eli/oc/2025/597)) und Ziff. II Abs. 1 der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex8-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9
 
@@ -3125,8 +3126,8 @@ Anhang 14[^t-12]
 
 [^annex14-lvlu1-1]
 
-[^t-12]: Bereinigt gemäss Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 3. März 2025([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)) und Ziff. II Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 30. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
-[^annex14-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/662](https://fedlex.data.admin.ch/eli/oc/2025/662) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-12]: Bereinigt gemäss Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 3. März 2025([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. II Abs. 2 der V vom 29. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)) und Ziff. II Abs. 1 der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex14-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14a[^t-13]
 
@@ -3136,8 +3137,8 @@ Anhang 14a[^t-13]
 
 [^annex14a-lvlu1-1]
 
-[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 3. März 2025, in Kraft seit 4. März 2025 um 22.00 Uhr ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)).
-[^annex14a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/142](https://fedlex.data.admin.ch/eli/oc/2025/142) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex14a-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 15[^t-14]
 
@@ -3162,13 +3163,14 @@ Dieser Anhang enthält zurzeit keine Einträge.
 
 Anhang 15b[^t-16]
 
-(Art. 24*c* Abs. 1 Bst. a)
+(Art. 24*c* Abs. 1)
 
-## Personen und Einrichtungen, die dem Verbot von Transaktionen im Zusammenhang mit Krypto-Dienstleistungen unterliegen
+## Verbot von Transaktionen mit gewissen Banken oder Organisationen, die den Zweck der Sanktionen untergraben
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^annex15b-lvlu1-1]
 
-Dieser Anhang enthält zurzeit keine Einträge.
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. II Abs. 2 der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex15b-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 15c[^t-17]
 
@@ -4275,8 +4277,8 @@ Anhang 33[^t-38]
 
 [^annex33-lvlu1-1]
 
-[^t-38]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) und Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025, in Kraft seit 12. Aug 2025 um 23.00 Uhr ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)).
-[^annex33-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/497](https://fedlex.data.admin.ch/eli/oc/2025/497) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-38]: Eingefügt durch Ziff. II Abs. 3 der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2024 ([AS 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), Ziff. I Abs. 1 der V des WBF vom 3. März 2025 ([AS 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), Ziff. I Abs. 2 der V des WBF vom 2. Juni 2025 ([AS 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) und Ziff. I Abs. 1 der V des WBF vom 11. Aug. 2025 ([AS 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)) und Ziff. II Abs. 1 der V vom 12. Dez. 2025, in Kraft seit 13. Dez. 2025 ([AS 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex33-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 34[^t-39]
 

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2025-10-30
+version: 2025-12-13
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20251030/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20251030-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20251030/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20251213/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20251213-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20251213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 30 ottobre 2025)
+del 4 marzo 2022 (Stato 13 dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1602,14 +1602,14 @@ Il divieto di cui al capoverso 1 non si applica alle transazioni che sono necess
 
 #### Art. 24c
 
-**Divieto di transazioni in relazione con servizi di criptovaluta**[^24c-1]
+**Divieto di transazioni con determinate banche o organizzazioni che compromettono lo scopo delle sanzioni[^24c-2]**[^24c-1]
 
 <sup>1</sup>
 
 È vietato partecipare direttamente o indirettamente a qualsiasi transazione con:
 
-- a. le banche, le imprese o le organizzazioni di cui all’allegato 15*b* che forniscono servizi legati alle criptovalute;
-- b. le imprese, le organizzazioni o gli organismi che agiscono in nome o per conto di banche, imprese o organizzazioni di cui alla lettera a.[^24c-2]
+- a. le banche o le organizzazioni di cui all’allegato 15*b*;
+- b. le imprese, le organizzazioni o gli organismi che agiscono in nome o per conto di banche o organizzazioni di cui alla lettera a.[^24c-3]
 
 <sup>2</sup>
 
@@ -1620,7 +1620,8 @@ Il divieto di cui al capoverso 1 non si applica alle transazioni che sono necess
 - c. attività umanitarie, tra cui forniture mediche e di generi alimentari, il trasferimento di operatori umanitari e la relativa assistenza o evacuazioni.
 
 [^24c-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^24c-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 30 ott. 2025 ([RU 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
+[^24c-2]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^24c-3]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 24d
 
@@ -2212,7 +2213,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>1</sup>
 
-La SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti di cui agli articoli 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* e 14*b* per la vendita, la fornitura, il transito o il trasporto dei beni e delle tecnologie elencati nei corrispondenti allegati 1, 3, 4, 5, 16, 18, 19 e 23 e dei beni di cui all’allegato 2 OBDI[^30a-1] nonché la vendita, la cessione in licenza o il trasferimento in altro modo di diritti di proprietà intellettuale o di segreti commerciali, così come il riconoscimento di diritti di accesso o di riutilizzo di materiale o informazioni in relazione ai beni e alle tecnologie di cui sopra, che sono tutelati da diritti di proprietà intellettuale o che costituiscono segreti commerciali, a condizione che:[^30a-2]
+La SECO può autorizzare fino al 31 dicembre 2026 deroghe ai divieti di cui agli articoli 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* e 14*b* per la vendita, la fornitura, il transito o il trasporto dei beni elencati nei corrispondenti allegati 1, 3, 4, 5, 16, 18, 19 e 23 e dei beni di cui all’allegato 2 OBDI[^30a-1] nonché la vendita, la cessione in licenza o il trasferimento in altro modo di diritti di proprietà intellettuale o di segreti commerciali, così come il riconoscimento di diritti di accesso o di riutilizzo di materiale o informazioni in relazione ai beni di cui sopra, che sono tutelati da diritti di proprietà intellettuale o che costituiscono segreti commerciali, a condizione che:[^30a-2]
 
 - a. tali attività siano strettamente necessarie per disinvestire dalla Federazione Russa o per porre fine ad attività commerciali[^30a-3] nella Federazione Russa;
 - b.
@@ -2230,7 +2231,7 @@ La SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti di cui agli
 
 <sup>2bis</sup>
 
-La SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti di cui all’articolo 11 per la vendita, la fornitura, il transito o il trasporto dei beni elencati nell’allegato 5, a condizione che tali attività siano strettamente necessarie per disinvestire da una joint venture:[^30a-4]
+La SECO può autorizzare fino al 31 dicembre 2026 deroghe ai divieti di cui agli articoli 4, 5, 11 e 11*a* per la vendita, la fornitura, il transito o il trasporto dei beni elencati nei corrispondenti allegati 1, 5 e 23*a* e dei beni di cui all’allegato 2 OBDI o per i servizi ad essi collegati, a condizione che tali attività o servizi siano strettamente necessari per disinvestire da una joint venture:[^30a-4]
 
 - a. che gestisce un’infrastruttura di gasdotti tra la Federazione Russa e Paesi terzi;
 - b. che è stata costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE prima del 3 marzo 2022; e
@@ -2238,7 +2239,7 @@ La SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti di cui all�
 
 <sup>3</sup>
 
-La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* per l’importazione, il transito e il trasporto dei beni di cui agli allegati 17 e 20 fino al 31 dicembre 2025, a condizione che:[^30a-6]
+La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* per l’importazione, il transito e il trasporto dei beni di cui agli allegati 17 e 20 fino al 31 dicembre 2026, a condizione che:[^30a-6]
 
 - a. tali attività siano strettamente necessarie per disinvestire dalla Federazione Russa o per porre fine ad attività commerciali nella Federazione Russa;
 - b.
@@ -2253,19 +2254,19 @@ La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* p
 - c. i beni interessati si trovassero fisicamente nella Federazione Russa prima dell’entrata in vigore dei divieti di cui agli articoli 14*a* e 14*c* relativi a tali beni.
 
 [^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
-[^30a-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30a-2]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^30a-3]: Nuova espressione giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 30 ott. 2025 ([RU 2055 662](https://fedlex.data.admin.ch/eli/oc/2055/662)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^30a-4]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30a-4]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^30a-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30a-6]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30a-6]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 30b
 
-**[Deroghe al divieto di transazioni con imprese statali](https://www.fedlex.admin.ch/eli/cc/2022/151/it)**[^30b-1]
+**Deroghe al divieto di transazioni con imprese statali**[^30b-1]
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di transazioni con imprese statali di cui all’articolo 24*a* capoverso 1 per permettere le transazioni strettamente necessarie per il disinvestimento e il ritiro, entro il 31 dicembre 2025, di una persona giuridica, un’organizzazione o un organismo stabilito in Svizzera o in uno Stato membro dello SEE da parte delle organizzazioni di cui all’articolo 24*a* capoverso 1 o delle loro controllate in Svizzera o in uno Stato membro dello SEE.
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di transazioni con imprese statali di cui all’articolo 24*a* capoverso 1 per permettere le transazioni strettamente necessarie per il disinvestimento e il ritiro, entro il 31 dicembre 2026, di una persona giuridica, un’organizzazione o un organismo stabilito in Svizzera o in uno Stato membro dello SEE da parte delle organizzazioni di cui all’articolo 24*a* capoverso 1 o delle loro controllate in Svizzera o in uno Stato membro dello SEE.
 
-[^30b-1]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30b-1]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 30c
 
@@ -2273,7 +2274,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>1</sup>
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2025 deroghe ai divieti concernenti i servizi e i software di cui all’articolo 28*e*, a condizione che:[^30c-2]
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2026 deroghe ai divieti concernenti i servizi e i software di cui all’articolo 28*e*, a condizione che:[^30c-2]
 
 - a. tali servizi o i software siano strettamente necessari per disinvestire dalla Federazione Russa o per porre fine ad attività commerciali nella Federazione Russa; e
 - b. i servizi o i software siano forniti a esclusivo beneficio delle persone giuridiche, delle organizzazioni o degli organismi risultanti dal disinvestimento.[^30c-3]
@@ -2283,18 +2284,18 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 marzo 2024 deroghe al divieto di cui all’articolo 28*e* capoverso 1<sup>bis</sup> per servizi nel settore della consulenza giuridica, a condizione che tali servizi siano necessari per legge per il perfezionamento della vendita o della cessione di diritti di proprietà detenuti direttamente o indirettamente da una persona giuridica, un’organizzazione o un organismo stabiliti nella Federazione Russa in una persona giuridica, un’organizzazione o un organismo stabiliti in uno Stato membro dello SEE o in Svizzera.[^30c-5]
 
 [^30c-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-2]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30c-2]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^30c-3]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^30c-4]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^30c-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 30c<sup>bis</sup>
 
-**[Deroghe al divieto di soddisfare determinati crediti](https://www.fedlex.admin.ch/eli/cc/2022/151/it)**[^30cbis-1]
+**Deroghe al divieto di soddisfare determinati crediti**[^30cbis-1]
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2025 deroghe al divieto di soddisfare crediti da parte delle persone fisiche, imprese o organizzazioni di cui all’articolo 30 lettera b, a condizione che ciò sia necessario per disinvestire dalla Federazione Russa o per porre fine ad attività commerciali nella Federazione Russa.
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2026 deroghe al divieto di soddisfare crediti da parte delle persone fisiche, imprese o organizzazioni di cui all’articolo 30 lettera b, a condizione che ciò sia necessario per disinvestire dalla Federazione Russa o per porre fine ad attività commerciali nella Federazione Russa.
 
-[^30cbis-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^30cbis-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 
 #### Art. 30c<sup>ter</sup>
 
@@ -2541,7 +2542,7 @@ L’articolo *12a* capoversi 1 e 2 non si applica:
 L’articolo 24*a* capoverso 1 non si applica:
 
 - a. all’accettazione dei pagamenti dovuti dalle banche, imprese o organizzazioni di cui all’articolo 24*a* capoverso 1 nell’ambito di contratti eseguiti prima del 15 maggio 2022;
-- b.[^35-12] alle transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2025, di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-13]
+- b.[^35-12] alle transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2026, di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-13]
 
 <sup>18</sup> L’articolo 28*d* capoverso 1 non si applica alle transazioni necessarie per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo.[^35-14]
 
@@ -2624,7 +2625,7 @@ L’articolo 24*a* capoverso 1 non si applica:
 [^35-9]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^35-10]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-11]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-12]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2025, in vigore dal 13 feb. 2025 ([RU 2025 98](https://fedlex.data.admin.ch/eli/oc/2025/98)).
+[^35-12]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
 [^35-13]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-14]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^35-15]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
@@ -2679,8 +2680,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) dalla cifra I cpv. 1 dell’O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 delle O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra II cpv. 1 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), dalle cifre I delle O del DEFR del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalla cifra II cpv. 2 dell’O del 14 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) e dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025, in vigore dal 12 ago. 2025 alle 23.00 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)).
-[^annex2-lvlu1-1]: Il contenuto di questi allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/497](https://fedlex.data.admin.ch/eli/oc/2025/497) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) dalla cifra I cpv. 1 dell’O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 delle O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra II cpv. 1 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), dalle cifre I delle O del DEFR del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalla cifra II cpv. 2 dell’O del 14 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)) e dalla cifra II cpv. 1 dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 
@@ -3054,8 +3055,8 @@ Allegato 8[^t-10]
 
 [^annex8-lvlu1-1]
 
-[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dalla cifra I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dalla cifra I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dalla cifra I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dalla cifra I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dalla cifra II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalla cifra I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dalla cifra II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dalla cifra I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dalla cifra II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dalle cifre I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), del 23 set. 2024 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), del 18 feb. 2025 ([RU 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalle cifre I delle O del DEFR del 18 mar. 2025 ([RU 2025 181](https://fedlex.data.admin.ch/eli/oc/2025/181)), del 17 apr. 2025 ([RU 2025 255](https://fedlex.data.admin.ch/eli/oc/2025/255)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)) e dalla cifra I dell’O del DEFR del 29 set. 2025, in vigore dal 30 set. 2025 alle 23.00 ([RU 2025 597](https://fedlex.data.admin.ch/eli/oc/2025/597)).
-[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/597](https://fedlex.data.admin.ch/eli/oc/2025/597) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dalla cifra I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dalla cifra I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dalla cifra I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dalla cifra I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dalla cifra II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalla cifra I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dalla cifra II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dalla cifra I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dalla cifra II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dalle cifre I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), del 23 set. 2024 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)), del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), del 18 feb. 2025 ([RU 2025 112](https://fedlex.data.admin.ch/eli/oc/2025/112)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalle cifre I delle O del DEFR del 18 mar. 2025 ([RU 2025 181](https://fedlex.data.admin.ch/eli/oc/2025/181)), del 17 apr. 2025 ([RU 2025 255](https://fedlex.data.admin.ch/eli/oc/2025/255)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)), dalla cifra I dell’O del DEFR del 29 set. 2025 ([RU 2025 597](https://fedlex.data.admin.ch/eli/oc/2025/597)) e dalla cifra II cpv. 1 dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -3116,8 +3117,8 @@ Allegato 14[^t-12]
 
 [^annex14-lvlu1-1]
 
-[^t-12]: Aggiornato dalle cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)) e dalla cifra II cpv. 2 dell’O del 29 ott. 2025, in vigore dal 30 ott. 2025 ([RU 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
-[^annex14-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/662](https://fedlex.data.admin.ch/eli/oc/2025/354) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-12]: Aggiornato dalle cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)) e del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalla cifra II cpv. 2 dell’O del 29 ott. 2025 ([RU 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)) e dalla cifra II cpv. 1 dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex14-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14a[^t-13]
 
@@ -3127,8 +3128,8 @@ Allegato 14a[^t-13]
 
 [^annex14a-lvlu1-1]
 
-[^t-13]: Introdotto dalla cifra II cpv. 3 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR del 3 mar. 2025, in vigore dal 4 mar. 2025 alle ore 22.00 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)).
-[^annex14a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/142](https://fedlex.data.admin.ch/eli/oc/2025/142) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-13]: Introdotto dalla cifra II cpv. 3 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR del 3 mar. 2025 ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)). Aggiornato dalla cifra II cpv. 1 dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex14a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 15[^t-14]
 
@@ -3153,13 +3154,14 @@ Questo allegato attualmente non contiene voci.
 
 Allegato 15b[^t-16]
 
-(art. 24*c* cpv. 1 lett. a)
+(art. 24*c* cpv. 1)
 
-## Persone e organismi soggetti al divieto di transazioni in relazione con servizi di criptovaluta
+## Divieto di transazioni con determinate banche o organizzazioni che compromettono lo scopo delle sanzioni
 
-[^t-16]: Introdotto dalla cifra II cpv. 3 dell'O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^annex15b-lvlu1-1]
 
-Questo allegato attualmente non contiene voci.
+[^t-16]: Introdotto dalla cifra II cpv. 3 dell'O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex15b-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 15c[^t-17]
 
@@ -4254,8 +4256,8 @@ Allegato 33[^t-38]
 
 [^annex33-lvlu1-1]
 
-[^t-38]: Introdotto dalla cifra II cpv. 3 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Aggiornato dalla cifra I delle O del DEFR del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025, ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)) e dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025, in vigore dal 12 ago. 2025 alle 23.00 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)).
-[^annex33-lvlu1-1]: Il contenuto di questi allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/497](https://fedlex.data.admin.ch/eli/oc/2025/497) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-38]: Introdotto dalla cifra II cpv. 3 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Aggiornato dalla cifra I delle O del DEFR del 20 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)), dalla cifra I cpv. 1 dell’O del DEFR del 3 mar. 2025, ([RU 2025 142](https://fedlex.data.admin.ch/eli/oc/2025/142)), dalla cifra I cpv. 2 dell’O del DEFR del 2 giu. 2025 ([RU 2025 354](https://fedlex.data.admin.ch/eli/oc/2025/354)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ago. 2025 ([RU 2025 497](https://fedlex.data.admin.ch/eli/oc/2025/497)) e dalla cifra II cpv. 1 dell’O del 12 dic. 2025, in vigore dal 13 dic. 2025 ([RU 2025 837](https://fedlex.data.admin.ch/eli/oc/2025/837)).
+[^annex33-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/837](https://fedlex.data.admin.ch/eli/oc/2025/837) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 34[^t-39]
 
