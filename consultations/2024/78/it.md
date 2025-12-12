@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sulle misure per la lotta contro le malattie rare
 document: Progetto posto in consultazione
 language: it

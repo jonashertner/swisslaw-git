@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les mesures de lutte contre les maladies rares
 document: Projet mis en consultation
 language: fr

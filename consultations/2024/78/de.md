@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über Massnahmen zur Bekämpfung seltener Krankheiten
 document: Vernehmlassungsvorlage
 language: de
