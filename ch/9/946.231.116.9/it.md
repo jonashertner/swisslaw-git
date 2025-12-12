@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2025-10-30
+version: 2025-12-13
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20251030/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20251030-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20251030/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20251213/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20251213-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20251213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 30 ottobre 2025)
+del 16 marzo 2022 (Stato 13 dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -1683,8 +1683,8 @@ Allegato 13[^t-10]
 
 [^annex13-lvlu1-1]
 
-[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), del 21 mar. 2024 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)) del 13 ago. 2024 ([RU 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), dalla cifra II cpv. 1 dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), dalle cifre I dell’O del DEFR del 20 dic. 2024 ([RU 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), del 4 apr. 2025, in vigore dall’8 apr. 2025 ([RU 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)), del 10 apr. 2025 ([RU 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)), dell’11 ago. 2025 ([RU 2025 495](https://fedlex.data.admin.ch/eli/oc/2025/495)) e dalla cifra II cpv. 1 dell’O del 29 ott. 2025, in vigore dal 30 ott. 2025 ([RU 2025 661](https://fedlex.data.admin.ch/eli/oc/2025/661)).
-[^annex13-lvlu1-1]: Il contenuto dei presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato su [https://fedlex.data.admin.ch/eli/oc/2025/661](https://fedlex.data.admin.ch/eli/oc/2025/661) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-10]: Aggiornato dalla cifra I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), del 21 mar. 2024 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)) del 13 ago. 2024 ([RU 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), dalla cifra II cpv. 1 dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)), dalle cifre I dell’O del DEFR del 20 dic. 2024 ([RU 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)), del 4 apr. 2025, in vigore dall’8 apr. 2025 ([RU 2025 228](https://fedlex.data.admin.ch/eli/oc/2025/228)), del 10 apr. 2025 ([RU 2025 240](https://fedlex.data.admin.ch/eli/oc/2025/240)), dell’11 ago. 2025 ([RU 2025 495](https://fedlex.data.admin.ch/eli/oc/2025/495)), dalla cifra II cpv. 1 dell’O del 29 ott. 2025 ([RU 2025 661](https://fedlex.data.admin.ch/eli/oc/2025/661)) e dalla cifra I dell’O del 12 dic. 2025, in vigore dal 13 dic 2025 ([RU 2025 836](https://fedlex.data.admin.ch/eli/oc/2025/836)).
+[^annex13-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/836](https://fedlex.data.admin.ch/eli/oc/2025/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14
 
