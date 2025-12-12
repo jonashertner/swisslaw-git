@@ -4,13 +4,12 @@ number: "700.11"
 title: Weisung des Regierungsrates über die Abwicklung von Baugesuchs- und Planungsgeschäften in der kantonalen Verwaltung
 short: BOA-Weisung
 language: de
-version: 2024-01-01
-valid_until: 2025-12-12
-version_adopted: 2023-12-19
+version: 2025-12-13
+version_adopted: 2025-12-09
 adopted: 2023-12-19
 in_force: 2024-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2753/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ BOA-Weisung
 
 (BOA-Weisung)
 
-vom 19.12.2023 (Stand 01.01.2024)
+vom 19.12.2023 (Stand 13.12.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -271,5 +270,26 @@ vom 19.12.2023 (Stand 01.01.2024)
 <sup>1</sup> Das AFI berücksichtigt BOA und allfällige Weiterentwicklungen im Informatikbudget.
 
 <sup>2</sup> Beschaffungen erfolgen zentral durch das AFI auf Antrag der BK BOA.
+
+## 4. Elektronische Gesuche (eBau)
+
+#### § 24
+
+**Signatur**
+
+<sup>1</sup> Wird eBau eingesetzt, sind folgende Dokumente mit einer qualifizierten elektronischen Signatur im Sinne des Bundesgesetzes über die elektronische Signatur (ZertES)[^24-1] zu versehen:
+
+- 1\. Entscheide
+- 2\. Stellungnahmen
+
+[^24-1]: SR [943.03](https://db.clex.ch/link/Bund/943.03/de)
+
+#### § 25
+
+**Digitalisierte Formulare**
+
+<sup>1</sup> Wer ein in eBau verwendetes Formular ändert, hat dies dem Product Owner (PO) eBau mitzuteilen.
+
+<sup>2</sup> Änderungen werden an den offiziellen Releaseterminen ausgerollt.
 
 51/2023
