@@ -3,11 +3,11 @@ sr: "414.155"
 title: Verordnung der Eidgenössischen Technischen Hochschule Lausanne vom 2. August 2021 über die Stipendien (Stipendienverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/484"
 language: de
-version: 2025-09-15
+version: 2025-12-15
 adopted: 2021-08-02
 in_force: 2021-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2021-484-20250915-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20251215/de/xml/fedlex-data-admin-ch-eli-cc-2021-484-20251215-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20251215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/de"
 
 (Stipendienverordnung ETHL)
 
-vom 2. August 2021 (Stand am 15. September 2025)
+vom 2. August 2021 (Stand am 15. Dezember 2025)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne,
 
@@ -83,18 +83,19 @@ Die Sozialstipendien werden ab dem ersten Studiensemester an der ETHL in erster 
 
 - a. Sie besitzen die Schweizer Staatsbürgerschaft oder den Ausweis C.
 - b. Sie verfügen über den Status Flüchtling oder staatenlos in der Schweiz.
-- c. Sie sind in Besitz eines Ausweises nach Artikel 1 der Verordnung vom 8. Mai 1995[^6-1] über die Zulassung zur Eidgenössischen Technischen Hochschule Lausanne.
+- c.[^6-1] Sie sind in Besitz eines Ausweises nach Artikel 5 der Zulassungsverordnung ETHL vom 14. Oktober 2025[^6-2].
 - d. Sie eines Abschlusses der Sekundarstufe II in der Schweiz erworben haben und waren zum Zeitpunkt der Erlangung des Abschlusses in der Schweiz wohnhaft.
 
 <sup>3</sup>
 
 Danach werden die Sozialstipendien ab dem dritten Studiensemester an der ETHL nach folgender Prioritätenordnung vergeben:
 
-- a. an Studierende, die vor der Aufnahme ihres Studiums an der ETHL in einem Land wohnten, das gemäss der Liste der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung[^6-2] öffentliche Entwicklungshilfe erhält;
+- a. an Studierende, die vor der Aufnahme ihres Studiums an der ETHL in einem Land wohnten, das gemäss der Liste der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung[^6-3] öffentliche Entwicklungshilfe erhält;
 - b. an andere Studierende.
 
-[^6-1]: [SR 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
-[^6-2]: Die Liste kann eingesehen werden unter: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD : pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
+[^6-1]: Fassung gemäss Anhang Ziff. 3 der Zulassungsverordnung ETHL vom 14. Okt. 2025, in Kraft seit 15. Dez. 2025 ([AS 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^6-2]: [SR 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
+[^6-3]: Die Liste kann eingesehen werden unter: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD : pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
 
 #### Art. 7
 
@@ -173,12 +174,13 @@ Jede Person, die eine Zulassung zu einem Bachelorstudiengang an der ETHL beantra
 
 - a. Sie besitzt die Schweizer Staatsbürgerschaft oder den C-Ausweis.
 - b. Sie verfügt über den Status Flüchtling oder staatenlos.
-- c. Sie ist in Besitz eines Ausweises nach Artikel 1 der Verordnung vom 8. Mai 1995[^14-1] über die Zulassung zur Eidgenössischen Technischen Hochschule Lausanne.
+- c.[^14-1] Sie ist in Besitz eines Ausweises nach Artikel 5 der Zulassungsverordnung ETHL vom 14. Oktober 2025[^14-2].
 - d. Sie eines Abschlusses der Sekundarstufe II in der Schweiz erworben haben und waren zum Zeitpunkt der Erlangung des Abschlusses in der Schweiz wohnhaft.
 
 <sup>2</sup> Jede Person, die die Zulassung zu einem Masterstudiengang an der ETHL beantragt hat, kann sich um ein Exzellenzstipendium bewerben.
 
-[^14-1]: [SR 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
+[^14-1]: Fassung gemäss Anhang Ziff. 3 der Zulassungsverordnung ETHL vom 14. Okt. 2025, in Kraft seit 15. Dez. 2025 ([AS 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^14-2]: [SR 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
 
 #### Art. 15
 

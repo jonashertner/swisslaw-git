@@ -3,11 +3,11 @@ sr: "414.155"
 title: Ordonnance de l’École polytechnique fédérale de Lausanne du 2 août 2021 sur les bourses d’études (Ordonnance de l’EPFL sur les bourses d’études)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/484"
 language: fr
-version: 2025-09-15
+version: 2025-12-15
 adopted: 2021-08-02
 in_force: 2021-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2021-484-20250915-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20251215/fr/xml/fedlex-data-admin-ch-eli-cc-2021-484-20251215-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20251215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/fr"
 
 (Ordonnance de l’EPFL sur les bourses d’études)
 
-du 2 août 2021 (État le 15 septembre 2025)
+du 2 août 2021 (État le 15 décembre 2025)
 
 La Direction de l’École polytechnique fédérale de Lausanne,
 
@@ -83,18 +83,19 @@ Les bourses sociales sont attribuées, en priorité, aux étudiants qui rempliss
 
 - a. être de nationalité suisse ou titulaire d’un permis C;
 - b. disposer en Suisse du statut de réfugié ou d’apatride;
-- c. être titulaire d’un certificat au sens de l’art. 1 de l’ordonnance du 8 mai 1995 concernant l’admission à l’École polytechnique fédérale de Lausanne[^6-1];
+- c.[^6-1] être titulaire d’un certificat au sens de l’art. 5 de l’ordonnance du 14 octobre 2025 sur l’admission à l’EPFL[^6-2];
 - d. avoir obtenu leur diplôme du degré secondaire II en Suisse alors qu’ils étaient domiciliés en Suisse.
 
 <sup>3</sup>
 
 Elles sont ensuite attribuées, par ordre de priorité, dès le troisième semestre d’études à l’EPFL:
 
-- a. aux étudiants qui résidaient dans un pays bénéficiaire de l’aide publique au développement selon la liste établie par l’Organisation de coopération et de développement économiques[^6-2] avant d’entamer leurs études à l’EPFL;
+- a. aux étudiants qui résidaient dans un pays bénéficiaire de l’aide publique au développement selon la liste établie par l’Organisation de coopération et de développement économiques[^6-3] avant d’entamer leurs études à l’EPFL;
 - b. aux autres étudiants.
 
-[^6-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
-[^6-2]: La liste peut être consultée à l’adresse suivante: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD: pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
+[^6-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 14 oct. 2025 sur l’admission à l’EPFL, en vigueur depuis le 15 déc. 2025 ([RO 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^6-2]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
+[^6-3]: La liste peut être consultée à l’adresse suivante: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD: pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
 
 #### Art. 7
 
@@ -173,12 +174,13 @@ Toute personne qui a demandé son admission au cursus de bachelor à l’EPFL pe
 
 - a. être de nationalité suisse ou titulaire d’un permis C;
 - b. disposer en Suisse du statut de réfugié ou d’apatride;
-- c. être titulaire d’un certificat au sens de l’art. 1 de l’ordonnance du 8 mai 1995 concernant l’admission à l’École polytechnique fédérale de Lausanne[^14-1];
+- c.[^14-1] être titulaire d’un certificat au sens de l’art. 5 de l’ordonnance du 14 octobre 2025 sur l’admission à l’EPFL[^14-2];
 - d. avoir obtenu son diplôme du degré secondaire II en Suisse alors qu’elle était domiciliée en Suisse.
 
 <sup>2</sup> Toute personne qui a demandé son admission au cursus de master à l’EPFL peut être candidate à une bourse d’excellence pour ces études.
 
-[^14-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
+[^14-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 14 oct. 2025 sur l’admission à l’EPFL, en vigueur depuis le 15 déc. 2025 ([RO 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^14-2]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
 
 #### Art. 15
 

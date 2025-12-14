@@ -3,11 +3,11 @@ sr: "414.155"
 title: Ordinanza del Politecnico federale di Losanna del 2 agosto 2021 sulle borse di studio (Ordinanza del PFL sulle borse di studio)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/484"
 language: it
-version: 2025-09-15
+version: 2025-12-15
 adopted: 2021-08-02
 in_force: 2021-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2021-484-20250915-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/484/20251215/it/xml/fedlex-data-admin-ch-eli-cc-2021-484-20251215-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20251215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/484/20250915/it"
 
 (Ordinanza del PFL sulle borse di studio)
 
-del 2 agosto 2021 (Stato 15 settembre 2025)
+del 2 agosto 2021 (Stato 15 dicembre 2025)
 
 La direzione del Politecnico federale di Losanna,
 
@@ -83,18 +83,19 @@ Le borse sociali sono attribuite a partire dal primo semestre di studio presso i
 
 - a. sono di nazionalità svizzera o titolari di un permesso C;
 - b. dispongono in Svizzera dello statuto di rifugiato o di apolide;
-- c. sono titolari di un certificato di cui all’articolo 1 dell’ordinanza dell’8 maggio 1995[^6-1] sull’ammissione al Politecnico federale di Losanna;
+- c.[^6-1] sono titolari di un attestato di cui all’articolo 5 dell’ordinanza del 14 ottobre 2025[^6-2] sull’ammissione al PFL;
 - d. hanno conseguito un diploma di livello secondario II in Svizzera mentre erano domiciliati in Svizzera.
 
 <sup>3</sup>
 
 Sono in seguito attribuite a partire dal terzo semestre di studio presso il PFL secondo il seguente ordine di priorità:
 
-- a. agli studenti che, prima di iniziare gli studi presso il PFL, risiedevano in un Paese beneficiario dell’aiuto pubblico allo sviluppo secondo l’elenco redatto dall’Organizzazione per la cooperazione e lo sviluppo economico (OCSE)[^6-2];
+- a. agli studenti che, prima di iniziare gli studi presso il PFL, risiedevano in un Paese beneficiario dell’aiuto pubblico allo sviluppo secondo l’elenco redatto dall’Organizzazione per la cooperazione e lo sviluppo economico (OCSE)[^6-3];
 - b. agli altri studenti.
 
-[^6-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
-[^6-2]: L’elenco può essere consultato al seguente indirizzo: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD: pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
+[^6-1]: Nuovo testo giusta l’all. n. 3 dell’O del 14 ott. 2025 sull’ammissione al PFL, in vigore dal 15 dic. 2025 ([RU 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^6-2]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
+[^6-3]: L’elenco può essere consultato al seguente indirizzo: [www.oecd.org](http://www.oecd.org) &gt; Thèmes &gt; Eligibilité et conditions de l’APD &gt; Bénéficiaires de l’APD: pays, territoires et organisations internationales &gt; Liste du CAS des bénéficiaires de l’APD.
 
 #### Art. 7
 
@@ -173,12 +174,13 @@ Le persone che hanno richiesto l’ammissione a un ciclo di studio bachelor del 
 
 - a. sono di nazionalità svizzera o titolari di un permesso C;
 - b. dispongono in Svizzera dello statuto di rifugiato o di apolide;
-- c. sono titolari di un certificato di cui all’articolo 1 dell’ordinanza dell’8 maggio 1995[^14-1] sull’ammissione al Politecnico federale di Losanna;
+- c.[^14-1] sono titolari di un attestato di cui all’articolo 5 dell’ordinanza del 14 ottobre 2025[^14-2] sull’ammissione al PFL.
 - d. hanno conseguito il diploma di livello secondario II in Svizzera mentre erano domiciliati in Svizzera.
 
 <sup>2</sup> Le persone che hanno richiesto l’ammissione a un ciclo di studio master del PFL possono candidarsi a una borsa d’eccellenza per tale ciclo.
 
-[^14-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6702)
+[^14-1]: Nuovo testo giusta l’all. n. 3 dell’O del 14 ott. 2025 sull’ammissione al PFL, in vigore dal 15 dic. 2025 ([RU 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^14-2]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
 
 #### Art. 15
 
