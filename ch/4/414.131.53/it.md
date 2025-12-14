@@ -1,0 +1,406 @@
+---
+sr: "414.131.53"
+title: Ordinanza della Direzione del PFL del 14 ottobre 2025 sull’ammissione al Politecnico federale di Losanna (Ordinanza sull’ammissione al PFL)
+eli: "https://fedlex.data.admin.ch/eli/cc/2025/782"
+language: it
+version: 2025-12-15
+adopted: 2025-10-14
+in_force: 2025-12-15
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/782/20251215/it/xml/fedlex-data-admin-ch-eli-cc-2025-782-20251215-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/782/20251215/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza della Direzione del PFL sull’ammissione al Politecnico federale di Losanna
+
+(Ordinanza sull’ammissione al PFL)
+
+del 14 ottobre 2025 (Stato 15 dicembre 2025)
+
+La Direzione del Politecnico federale di Losanna (PFL),
+
+visto l’articolo 16 capoverso 2 della legge del 4 ottobre 1991[^ingress-1] sui PF; visto l’articolo 3 capoverso 1 lettera b dell’ordinanza PFZ-PFL del 13 novembre 2003[^ingress-2],
+
+ordina:
+
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
+[^ingress-2]: [RS 414.110.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6696)
+
+## Sezione 1: Oggetto e campo d’applicazione
+
+#### Art. 1
+
+<sup>1</sup> La presente ordinanza disciplina l’ammissione alla formazione che porta al bachelor e al master presso il PFL.
+
+<sup>2</sup> Le disposizioni speciali sulle limitazioni all’ammissione emanate secondo l’articolo 16*a* della legge del 4 ottobre 1991 sui PF prevalgono sulle disposizioni della presente ordinanza.
+
+## Sezione 2: Disposizioni generali concernenti l’ammissione
+
+#### Art. 2
+
+**Domanda di ammissione**
+
+<sup>1</sup>
+
+I candidati agli studi presso il PFL presentano una domanda di ammissione sotto forma di un dossier di candidatura contenente in particolare i seguenti elementi:
+
+- a. una presentazione completa del loro percorso formativo;
+- b. gli attestati dai quali si evince che hanno concluso con successo la formazione preliminare necessaria per il ciclo di studio scelto, eventualmente corredati di una traduzione o, su richiesta, di una traduzione autenticata;
+- c. se richiesta, la prova che possiedono il livello di competenza necessario in francese e in inglese.
+
+<sup>2</sup> La domanda di ammissione è valida unicamente per l’inizio del semestre autunnale successivo.
+
+<sup>3</sup> Le modalità della domanda sono pubblicate in Internet[^2-1].
+
+<sup>4</sup> Il PFL entra nel merito della domanda di ammissione solo dopo che è stata pagata la tassa d’iscrizione secondo l’ordinanza del 31 maggio 1995[^2-2] sulle tasse nel settore dei PF.
+
+[^2-1]: Le modalità della domanda sono consultabili su: [www.epfl.ch](http://www.epfl.ch) &gt; Éducation &gt; Admission &gt; Conditions d’admission & inscription Bachelor/CMS et Conditions d’admission & inscription Master.
+[^2-2]: [RS 414.131.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6731)
+
+#### Art. 3
+
+**Decisione di ammissione**
+
+<sup>1</sup> Il vicepresidente per gli affari accademici decide in merito alle domande di ammissione.
+
+<sup>2</sup> A tal fine, le informazioni e i documenti presentati dai candidati possono essere verificati presso le autorità competenti.
+
+<sup>3</sup>
+
+La decisione di ammissione a un semestre superiore di un ciclo di studio bachelor o a un ciclo di studio master può essere subordinata a uno dei seguenti obblighi, da adempiere entro un determinato periodo durante gli studi al PFL:
+
+- a. acquisire crediti supplementari secondo il Sistema europeo di accumulazione e trasferimento dei crediti (*European Credit Transfer and Accumulation* *System*, ECTS);
+- b. svolgere uno stage.
+
+<sup>4</sup> La decisione di ammissione è valida unicamente per l’inizio del semestre autunnale successivo.
+
+<sup>5</sup> L’ammissione diventa effettiva solo dopo che l’interessato ha pagato la tassa d’iscrizione dovuta secondo l’ordinanza del 31 maggio 1995[^3-1] sulle tasse nel settore dei PF.
+
+[^3-1]: [RS 414.131.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6731)
+
+#### Art. 4
+
+**Ostacoli all’ammissione**
+
+<sup>1</sup>
+
+Non sono ammesse le persone che:
+
+- a. hanno subito un insuccesso definitivo negli studi presso un politecnico federale;
+- b. hanno subito un insuccesso definitivo o un doppio insuccesso in un esame, oppure un insuccesso per due anni di studio consecutivi, in un ciclo di studio universitario corrispondente a uno dei cicli di studio insegnati al PFL;
+- c. hanno abbandonato o frequentato senza successo più di un ciclo di studio universitario; non sono considerati i cicli di studio abbandonati subito dopo una fase conclusa con successo.
+
+<sup>2</sup> Il capoverso 1 non è applicabile alle persone che hanno ottenuto successivamente un titolo di studio che dà diritto all’ammissione alla formazione che porta al master presso il PFL.
+
+<sup>3</sup>
+
+Non sono ammesse, salvo circostanze particolari legate al ciclo di studio scelto, le persone che:
+
+- a. rimangono immatricolate a un’altra scuola universitaria;
+- b. sono già iscritte a un ciclo di studio del PFL e vorrebbero essere ammesse in parallelo a un altro ciclo di studio del PFL; o
+- c. hanno concluso con successo una formazione presso una scuola universitaria e vorrebbero essere ammesse al ciclo di studio corrispondente o a un ciclo di studio affine presso il PFL, allo stesso livello di formazione o a un livello inferiore.
+
+## Sezione 3: Ammissione senza esame alla formazione che porta al bachelor
+
+#### Art. 5
+
+**Attestati di maturità svizzeri**
+
+Sono ammessi senza esame al primo semestre di un ciclo di studio bachelor i titolari di uno dei seguenti attestati:
+
+- a.
+
+  un attestato di maturità riconosciuto dalla Confederazione secondo l’ordinanza del 28 giugno 2023[^5-1] sulla maturità (ORM), ossia:
+
+  - 1\. un attestato di maturità liceale cantonale, o
+  - 2\. un attestato di maturità liceale riconosciuto a livello cantonale;
+
+- b. un attestato di maturità liceale rilasciato in seguito al superamento dell’esame svizzero di maturità secondo l’ordinanza del 7 dicembre 1998[^5-2] sull’esame svizzero di maturità;
+- c. un attestato di maturità professionale federale corredato di un attestato di superamento degli esami complementari secondo l’ordinanza del 2 febbraio 2011[^5-3] concernente l’esame complementare per l’ammissione dei titolari di un attestato di maturità professionale federale o di un attestato di maturità specializzata riconosciuto a livello nazionale alle università cantonali e ai politecnici federali;
+- d. un attestato di maturità specializzata riconosciuto a livello nazionale corredato di un attestato di superamento degli esami complementari secondo l’ordinanza concernente l’esame complementare per l’ammissione dei titolari di un attestato di maturità professionale federale o di un attestato di maturità specializzata riconosciuto a livello nazionale alle università cantonali e ai politecnici federali;
+- e. l’attestato di maturità rilasciato dal Liechtenstein, se la Commissione svizzera di maturità lo ritiene equivalente agli attestati di maturità di cui alle lettere a–d.
+
+[^5-1]: [RS 413.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6674)
+[^5-2]: [RS 413.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6675)
+[^5-3]: [RS 413.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6679)
+
+#### Art. 6
+
+**Certificati rilasciati al termine degli studi da una scuola media superiore estera**
+
+<sup>1</sup>
+
+Sono ammesse senza esame al primo semestre di un ciclo di studio bachelor le persone che soddisfano le seguenti condizioni:
+
+- a.
+
+  sono titolari di un certificato rilasciato al termine degli studi da una scuola media superiore che:
+
+  - 1\. è stato rilasciato secondo le disposizioni di un Paese che ha ratificato la Convenzione dell’11 aprile 1997[^6-1] sul riconoscimento delle qualifiche relative all’insegnamento superiore nella regione europea,
+  - 2\. attesta il compimento di una formazione di carattere generale corrispondente a una maturità riconosciuta dalla Confederazione secondo l’ORM[^6-2], in particolare per quanto riguarda gli obiettivi, la durata e le materie d’insegnamento,
+  - 3\. attesta un indirizzo in matematica e in fisica, e
+  - 4\. permette di accedere a tutte le scuole universitarie nel Paese secondo le cui disposizioni è stato rilasciato, senza selezione né condizioni supplementari;
+
+- b. hanno ottenuto, all’esame finale, una media generale pari o superiore all’80 per cento del voto massimo previsto;
+- c. hanno ottenuto, all’esame finale, una media pari o superiore all’80 per cento del voto massimo previsto in ciascuna delle due materie «matematica» e «fisica»; e
+- d. dimostrano, se richiesto, di aver ottenuto un posto di studio nell’ambito di studi corrispondente in una scuola universitaria accreditata dagli organi competenti del Paese secondo le cui disposizioni è stato rilasciato il certificato.
+
+<sup>2</sup>
+
+Per le seguenti persone, le medie di cui al capoverso 1 lettere b e c sono del 70 per cento e il capoverso 1 lettera d non si applica:
+
+- a. cittadini stranieri con diritto di soggiorno in quanto lavoratori dipendenti o autonomi o in quanto familiari di tali lavoratori, ai sensi dell’Accordo del 21 giugno 1999[^6-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea e i suoi Stati membri, dall’altra, sulla libera circolazione delle persone o dell’allegato K dell’Accordo del 4 gennaio 1960[^6-4] che istituisce l’Associazione europea di libero scambio;
+- b. cittadini svizzeri;
+- c. altre persone residenti in Svizzera al momento dell’ottenimento del certificato rilasciato al termine degli studi da una scuola media superiore in Svizzera.
+
+<sup>3</sup> I criteri di equivalenza dettagliati per i singoli Paesi sono disponibili in Internet[^6-5].
+
+[^6-1]: [RS 0.414.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1642)
+[^6-2]: [RS 413.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6674)
+[^6-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^6-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^6-5]: I criteri di equivalenza sono consultabili su: [www.swissuniversities.ch](https://www.swissuniversities.ch/it/) &gt; Temi &gt; Ammissione &gt; Admission aux hautes écoles universitaires &gt; Conditions d’admission par pays.
+
+#### Art. 7
+
+**Diplomi di scuole universitarie**
+
+Sono ammessi senza esame al primo semestre di un ciclo di studio bachelor i titolari di:
+
+- a. un bachelor rilasciato da una scuola universitaria svizzera accreditata secondo la legge federale del 30 settembre 2011[^7-1] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU); o
+- b.
+
+  un diploma rilasciato da una scuola universitaria estera che:
+
+  - 1\. equivale ad almeno 180 crediti ECTS,
+  - 2\. è stato rilasciato secondo le disposizioni di un Paese che ha ratificato la Convenzione dell’11 aprile 1997[^7-2] sul riconoscimento delle qualifiche relative all’insegnamento superiore nella regione europea,
+  - 3\. è stato rilasciato da una scuola universitaria accreditata dagli organi competenti del Paese, e
+  - 4\. rientra in un ambito di studi che in Svizzera è oggetto di insegnamento universitario.
+
+[^7-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^7-2]: [RS 0.414.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1642)
+
+#### Art. 8
+
+**Ammissione a un semestre superiore della formazione che porta al bachelor**
+
+<sup>1</sup>
+
+Sono ammesse a un semestre superiore di un ciclo di studio bachelor le persone che:
+
+- a. hanno completato più semestri di un ciclo di studio bachelor corrispondente presso un’altra scuola universitaria in Svizzera;
+- b. soddisfano le condizioni di ammissione al primo semestre del PFL;
+- c. dispongono delle prestazioni di formazione richieste nei semestri inferiori della formazione corrispondente presso il PFL; e
+- d. soddisfano le condizioni per passare al semestre superiore nella scuola universitaria svizzera da cui provengono.
+
+<sup>2</sup> Per prestazioni di studio acquisite presso un’altra scuola universitaria svizzera possono essere riconosciuti al massimo 60 crediti ECTS.
+
+## Sezione 4: Ammissione con esame alla formazione che porta al bachelor
+
+#### Art. 9
+
+**Disposizioni generali**
+
+<sup>1</sup> Le persone che non soddisfano le condizioni di cui agli articoli 5, 6 o 7 sono ammesse al primo semestre della formazione che porta al bachelor se hanno superato un esame di ammissione completo o ridotto.
+
+<sup>2</sup> L’esame di ammissione si svolge una volta all’anno in francese, salvo che sia prevista un’altra lingua come materia d’esame.
+
+<sup>3</sup> Il vicepresidente per gli affari accademici stabilisce le modalità d’esame in un regolamento sull’esame di ammissione pubblicato in Internet[^9-1].
+
+[^9-1]: Il regolamento è consultabile su: [www.epfl.ch](http://www.epfl.ch) &gt; À propos &gt; Organisation et identité &gt; Règlements et directives &gt; Directives EPFL &gt; Index Polylex &gt; 2.9.4 Règlement de l’examen d’admission à l’EPFL.
+
+#### Art. 10
+
+**Esame di ammissione completo e ridotto**
+
+<sup>1</sup>
+
+L’esame di ammissione completo si compone di:
+
+- a. una parte comprendente principalmente materie scientifiche;
+- b. una parte comprendente materie complementari.
+
+<sup>2</sup> L’esame di ammissione ridotto riguarda unicamente la parte di cui al capoverso 1 lettera a.
+
+<sup>3</sup>
+
+Sono ammessi all’esame di ammissione ridotto i titolari di:
+
+- a. un attestato di maturità liceale cantonale o di un attestato di maturità rilasciato dal Liechtenstein che non soddisfa le condizioni di cui all’articolo 5; o
+- b. un certificato rilasciato al termine degli studi da una scuola media superiore estera che soddisfa le condizioni di cui all’articolo 6 capoverso 1 lettera a numeri 2 e 4.
+
+#### Art. 11
+
+**Esonero da esami**
+
+<sup>1</sup> Le persone che hanno superato l’esame di ammissione completo o ridotto del Politecnico federale di Zurigo (PFZ) sono esonerate dall’esame di ammissione del PFL se quest’ultimo avrebbe preso la stessa decisione di ammissione. Il mancato superamento dell’esame di ammissione al PFZ è considerato in modo analogo.
+
+<sup>2</sup> Se le persone ammesse all’esame completo possono dimostrare di possedere, in determinate materie della parte complementare dell’esame, le competenze corrispondenti all’attestato di maturità riconosciuto dalla Confederazione, il vicepresidente per gli affari accademici li esonera dai rispettivi esami.
+
+#### Art. 12
+
+**Condizioni di superamento, ripetizione e mancato superamento**
+
+<sup>1</sup> Superano l’esame di ammissione le persone che, partecipandovi nella forma richiesta, soddisfano tutte le condizioni fissate nel regolamento sull’esame di ammissione.
+
+<sup>2</sup> Le prove sono valutate secondo l’articolo 8 dell’ordinanza del 30 giugno 2015[^12-1] sulla verifica degli studi al PFL.
+
+<sup>3</sup>
+
+Oltre all’inadempienza delle condizioni di cui al capoverso 1, comportano il mancato superamento dell’esame di ammissione:
+
+- a. l’assenza all’esame senza il ritiro dell’iscrizione entro il termine stabilito e senza una giustificazione valida e debitamente motivata;
+- b. l’abbandono dell’esame senza una giustificazione valida e debitamente motivata;
+- c. la frode in sede di esame.
+
+<sup>4</sup> Se non è superato, l’esame di ammissione può essere ripetuto una sola volta.
+
+[^12-1]: [RS 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
+
+## Sezione 5: Corso preparatorio di matematica speciale
+
+#### Art. 13
+
+**Disposizioni generali**
+
+<sup>1</sup> Il PFL offre un corso preparatorio di matematica speciale (CMS), con esami, per le persone che devono sottoporsi all’esame di ammissione ridotto.
+
+<sup>2</sup> Il vicepresidente per gli affari accademici seleziona i dossier di candidatura in funzione del numero di posti disponibili e in base ai certificati e ai risultati ottenuti. Può introdurre un test d’ingresso per la partecipazione al CMS.
+
+<sup>3</sup> Il vicepresidente per gli affari accademici stabilisce le modalità del CMS in un regolamento di studi e d’esame separato, pubblicato in Internet[^13-1].
+
+[^13-1]: Il regolamento è consultabile su: [www.epfl.ch](http://www.epfl.ch) &gt; À propos &gt; Organisation et identité &gt; Règlements et directives &gt; Directives EPFL &gt; Index Polylex &gt; 2.9.3 Plans d’études et règlements &gt; Cours de mathématiques spéciales &gt; Règlement d’études CMS.
+
+#### Art. 14
+
+**Condizioni di superamento e mancato superamento**
+
+<sup>1</sup> Superano l’esame le persone che ottengono una media generale pari o superiore a 4,00 all’esame del secondo semestre.
+
+<sup>2</sup>
+
+Oltre all’inadempienza delle condizioni di cui al capoverso 1, comportano il mancato superamento del CMS:
+
+- a. l’abbandono del CMS dopo la quinta settimana di corso del primo semestre;
+- b. l’assenza a lezioni, esercizi, lavori pratici o prove senza una giustificazione valida e debitamente motivata;
+- c. l’ottenimento di una media inferiore a 3,50 all’esame del primo semestre.
+
+<sup>3</sup> Il superamento del CMS implica il superamento dell’esame di ammissione ridotto.
+
+<sup>4</sup> Il mancato superamento del CMS implica il mancato superamento dell’esame di ammissione ridotto.
+
+## Sezione 6: Ammissione alla formazione che porta al master
+
+#### Art. 15
+
+**Ammissione alla formazione che porta al master consecutivo con un diploma universitario**
+
+<sup>1</sup> I titolari di un bachelor rilasciato da una scuola universitaria svizzera accreditata secondo la LPSU[^15-1] sono ammessi al master consecutivo nell’ambito di studi corrispondente del PFL.
+
+<sup>2</sup>
+
+I titolari di un diploma estero sono ammessi al master consecutivo nell’ambito di studi corrispondente se sono soddisfatte le seguenti condizioni:
+
+- a. il PFL riconosce il loro diploma come equivalente al proprio bachelor in base ai propri criteri di qualità, al piano di studi, ai contenuti formativi e ai risultati ottenuti;
+- b.
+
+  il loro diploma soddisfa le seguenti condizioni:
+
+  - 1\. equivale ad almeno 180 crediti ECTS,
+  - 2\. è stato rilasciato da una scuola universitaria accreditata dagli organi competenti del Paese, e
+  - 3\. dà diritto all’ammissione senza condizioni complementari a un master universitario nell’ambito di studi corrispondente nel Paese secondo le cui disposizioni è stato rilasciato;
+
+- c. dimostrano, se richiesto, di aver ottenuto un posto di studio per un master nell’ambito di studi auspicato in una scuola universitaria accreditata dagli organi competenti del Paese secondo le cui disposizioni è stato rilasciato il diploma.
+
+<sup>3</sup> Le persone che soddisfano le condizioni di cui al capoverso 1 o 2 possono richiedere l’ammissione a un master consecutivo in un altro ambito di studi.
+
+[^15-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+
+#### Art. 16
+
+**Ammissione alla formazione che porta al master con un bachelor di una scuola universitaria professionale svizzera**
+
+<sup>1</sup> I titolari di un bachelor rilasciato da una scuola universitaria professionale (SUP) svizzera in un ambito di studi affine secondo la lista di concordanza pubblicata in Internet[^16-1] sono ammessi a un ciclo di studio master se la loro media al bachelor è pari o superiore a 5,00 secondo il sistema di valutazione del PFL.
+
+<sup>2</sup> La loro ammissione è subordinata all’obbligo di acquisire, prima di qualsiasi credito per un programma di studio master, 60 crediti ECTS supplementari secondo il regolamento di studi della passerella SUP-PFL, pubblicato in Internet[^16-2].
+
+[^16-1]: La lista di concordanza è consultabile su: [www.swissuniversities.ch](https://www.swissuniversities.ch/it/) &gt; Thèmes &gt; Admission &gt; Perméabilité entre les types de hautes écoles &gt; HES-HEU.
+[^16-2]: Il regolamento è consultabile su: [www.epfl.ch](http://www.epfl.ch) &gt; À propos &gt; Organisation et identité &gt; Règlements et directives &gt; Directives EPFL &gt; Index Polylex &gt; 2.9.3 Plans d’études et règlements &gt; Passerelles HES.
+
+#### Art. 17
+
+**Ammissione alla formazione che porta al master specialistico**
+
+<sup>1</sup> Le persone che soddisfano le condizioni di cui all’articolo 15 capoverso 1 o 2 sono ammesse a un ciclo di studio master specialistico se, oltre alle condizioni previste all’articolo 15, soddisfano le condizioni specifiche di ammissione al programma di studio master specialistico.
+
+<sup>2</sup> Le condizioni di ammissione specifiche dei singoli cicli di studio master specialistico sono pubblicate in Internet[^17-1].
+
+[^17-1]: Le condizioni di ammissione sono consultabili su: [www.epfl.ch](http://www.epfl.ch) &gt; Éducation &gt; Master &gt; Programmes master.
+
+## Sezione 7: Uditori e studenti in scambio
+
+#### Art. 18
+
+**Uditori**
+
+<sup>1</sup>
+
+Il vicepresidente per gli affari accademici può ammettere come uditrice una persona che desidera frequentare uno o più corsi senza ambire a un diploma se sono soddisfatte le seguenti condizioni:
+
+- a. le capacità dei locali e delle infrastrutture disponibili e le capacità di assistenza lo permettono;
+- b. la persona interessata può dimostrare, se richiesto, di possedere i requisiti per il corso in questione.
+
+<sup>2</sup> Gli uditori non sono autorizzati a presentarsi alle verifiche delle prestazioni.
+
+<sup>3</sup> Le restrizioni all’ammissione applicabili agli studenti regolari valgono anche per gli uditori.
+
+#### Art. 19
+
+**Studenti in scambio**
+
+Il vicepresidente per gli affari accademici può ammettere come studenti in scambio, per un periodo di uno o due semestri, studenti che rimangono immatricolati alla propria scuola universitaria in virtù di programmi di mobilità disciplinati da accordi specifici o da partenariati interistituzionali.
+
+## Sezione 8: Tasse d’iscrizione e d’esame
+
+#### Art. 20
+
+<sup>1</sup> Le tasse d’iscrizione e d’esame sono disciplinate dall’ordinanza del 31 maggio 1995[^20-1] sulle tasse nel settore dei PF.
+
+<sup>2</sup> In caso di ripetizione dell’esame di ammissione, le tasse d’iscrizione e d’esame sono nuovamente dovute.
+
+[^20-1]: [RS 414.131.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6731)
+
+## Sezione 9: Disposizioni finali
+
+#### Art. 21
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza dell’8 maggio 1995[^21-1] sull’ammissione al Politecnico federale di Losanna è abrogata.
+
+[^21-1]: [[RU 1999 2859](https://fedlex.data.admin.ch/eli/oc/1999/449); [2002 1763](https://fedlex.data.admin.ch/eli/oc/2002/266); [2003 3233](https://fedlex.data.admin.ch/eli/oc/2003/439); [2004 4335](https://fedlex.data.admin.ch/eli/oc/2004/653)all. II n. 1; [2005 4229](https://fedlex.data.admin.ch/eli/oc/2005/553)art. 19 n. 3; [2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808); [2010 4013](https://fedlex.data.admin.ch/eli/oc/2010/578); [2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433); [2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622); [2015 4115](https://fedlex.data.admin.ch/eli/oc/2015/691); [2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145); [2023 521](https://fedlex.data.admin.ch/eli/oc/2023/521); [2024 395](https://fedlex.data.admin.ch/eli/oc/2024/395)]
+
+#### Art. 22
+
+**Modifica di altri atti normativi**
+
+La modifica di altri atti normativi è disciplinata nell’allegato.
+
+#### Art. 23
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 15 dicembre 2025.
+
+Allegato
+
+(art. 22)
+
+## Modifica di altri atti normativi
+
+Gli atti normativi qui appresso sono modificati come segue:
+
+...[^annexu1-lvlu1-1]
+
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782).
