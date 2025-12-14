@@ -3,18 +3,18 @@ sr: "414.131.55"
 title: Ordonnance du 22 octobre 2024 sur la limitation de l’admission à l’École polytechnique fédérale de Lausanne
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/633"
 language: fr
-version: 2024-12-01
+version: 2025-12-15
 adopted: 2024-10-22
 in_force: 2024-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/633/20241201/fr/xml/fedlex-data-admin-ch-eli-cc-2024-633-20241201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/633/20241201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/633/20251215/fr/xml/fedlex-data-admin-ch-eli-cc-2024-633-20251215-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/633/20251215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la limitation de l’admission à l’École polytechnique fédérale de Lausanne
 
-du 22 octobre 2024 (État le 1<sup>er</sup> décembre 2024)
+du 22 octobre 2024 (État le 15 décembre 2025)
 
 La Direction de l’École polytechnique fédérale de Lausanne (EPFL),
 
@@ -22,7 +22,7 @@ vu l’art. 16*a*, al. 5, de la loi du 4 octobre 1991 sur les EPF[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/eli/cc/1993/210_210_210)
+[^ingress-1]: [RS 414.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6688)
 
 #### Art. 1
 
@@ -36,16 +36,17 @@ La présente ordonnance régit la limitation de l’admission au premier semestr
 
 <sup>1</sup>
 
-La présente ordonnance s’applique aux candidats étrangers qui ne disposent pas d’une autorisation d’établissement en Suisse ni d’un droit de séjour en tant que travailleur salarié ou indépendant ou en tant que membre de la famille d’un tel travailleur au sens de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^2-1] ou de de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Échange[^2-2] et qui:
+La présente ordonnance s’applique aux candidats étrangers qui ne disposent pas d’une autorisation d’établissement en Suisse ni d’un droit de séjour en tant que travailleur salarié ou indépendant ou en tant que membre de la famille d’un tel travailleur au sens de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^2-1] ou de de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange[^2-2] et qui:
 
-- a. sont admissibles selon les art. 2 à 4 et 10 de l’ordonnance du 8 mai 1995 concernant l’admission à l’École polytechnique fédérale de Lausanne[^2-3];
-- b. sont candidats à l’examen d’admission selon les art. 5 à 8 de l’ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne.
+- a. sont admissibles selon les art. 6, 7 et 11, al. 1, de l’ordonnance du 14 octobre 2025 sur l’admission à l’EPFL[^2-3];
+- b. sont candidats à l’examen d’admission selon les art. 9 et 10 de l’ordonnance sur l’admission à l’EPFL.[^2-4]
 
 <sup>2</sup> La présente ordonnance ne s’applique pas aux étudiants de l’EPFL qui répètent le premier semestre d’études ni aux candidats qui, ayant été admis à passer l’examen d’admission ou l’examen du Cours de mathématiques spéciales, l’ont réussi.
 
-[^2-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^2-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^2-3]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^2-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^2-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^2-3]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
+[^2-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 oct. 2025 sur l’admission à l’EPFL, en vigueur depuis le 15 déc. 2025 ([RO 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
 
 #### Art. 3
 
@@ -53,16 +54,16 @@ La présente ordonnance s’applique aux candidats étrangers qui ne disposent p
 
 <sup>1</sup>
 
-En dérogation aux art. 2 à 8 et 10 de l’ordonnance du 8 mai 1995 concernant l’admission à l’École polytechnique fédérale de Lausanne[^3-1], les personnes suivantes sont admises uniquement dans la limite des places d’études disponibles:
+En dérogation aux art. 6, 7 et 9 à 11, al. 1, de l’ordonnance du 14 octobre 2025 sur l’admission à l’EPFL[^3-1], les personnes suivantes sont admises uniquement dans la limite des places d’études disponibles:
 
-- a. les titulaires d’un certificat de fin d’études secondaires supérieures délivré selon la réglementation d’un pays étranger visés à l’art. 2 de l’ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne;
-- b. les titulaires d’un diplôme universitaire délivré selon la réglementation d’un pays étranger visés à l’art. 3 de l’ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne;
-- c. les étudiants d’une autre haute école qui sont titulaires d’un certificat de fin d’études secondaires supérieures délivré selon la réglementation d’un pays étranger et qui désirent entamer des études à l’EPFL visés à l’art. 10 de l’ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne;
-- d. les personnes ayant réussi un examen d’admission dans le premier semestre de l’École polytechnique fédérale de Zurich visées à l’art. 4 de l’ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne, si elles seraient admissibles à l’examen d’admission visé aux art. 5 à 8 de l’ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne en application de l’art. 5 de la présente ordonnance.
+- a. les titulaires d’un certificat de fin d’études secondaires supérieures délivré selon la réglementation d’un pays étranger visés à l’art. 6 de l’ordonnance sur l’admission à l’EPFL;
+- b. les titulaires d’un diplôme universitaire délivré selon la réglementation d’un pays étranger visés à l’art. 7, let. b, de l’ordonnance sur l’admission à l’EPFL;
+- c. les personnes ayant réussi un examen d’admission au premier semestre de l’École polytechnique fédérale de Zurich visées à l’art. 11, al. 1, de l’ordonnance sur l’admission à l’EPFL, si elles seraient admissibles à l’examen d’admission visé aux art. 9 et 10 de l’ordonnance sur l’admission à l’EPFL en application de l’art. 5 de la présente ordonnance.[^3-2]
 
 <sup>2</sup> Le nombre de places d’études disponibles pour l’entrée au premier semestre des personnes visées à l’al. 1 est déterminé par le nombre total de places d’études au premier semestre diminué du nombre escompté de personnes qui étudieront au premier semestre sans être concernées par la limitation.
 
-[^3-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^3-1]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
+[^3-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 oct. 2025 sur l’admission à l’EPFL, en vigueur depuis le 15 déc. 2025 ([RO 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
 
 #### Art. 4
 
@@ -78,14 +79,15 @@ Si le nombre de places d’études disponibles au sens de l’art. 3, al. 2, est
 
 #### Art. 5
 
-**Règles d’admission aux examens d’admission**
+**Règles d’admission aux examens d’admission**[^5-1]
 
-Les examens d’admission visés aux art. 5 à 8 de l’ordonnance du 8 mai 1995 concernant l’admission à l’École polytechnique fédérale de Lausanne[^5-1] sont ouverts uniquement:
+Les examens d’admission visés aux art. 9 et 10 de l’ordonnance du 14 octobre 2025 sur l’admission à l’EPFL[^5-2] sont ouverts uniquement:
 
 - a. aux titulaires d’un certificat de fin d’études post-obligatoire suisse qui ne leur permet pas d’être admis au bachelor;
-- b. aux titulaires d’un certificat de fin d’études secondaires supérieures d’un pays autre que les pays visés à l’art. 2, al. 1, let. a, ch. 1, de l’ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne.
+- b. aux titulaires d’un certificat de fin d’études secondaires supérieures d’un pays autre que les pays visés à l’art. 6, al. 1, let. a, ch. 1, de l’ordonnance sur l’admission à l’EPFL.
 
-[^5-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^5-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 oct. 2025 sur l’admission à l’EPFL, en vigueur depuis le 15 déc. 2025 ([RO 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^5-2]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
 
 #### Art. 6
 
