@@ -4,11 +4,11 @@ title: "Ordinanza dell'Autorità federale di sorveglianza dei revisori del 17 ma
 short: OS-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/188"
 language: it
-version: 2022-12-15
+version: 2025-12-15
 adopted: 2008-03-17
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20221215/it/xml/fedlex-data-admin-ch-eli-cc-2008-188-20221215-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20251215/it/xml/fedlex-data-admin-ch-eli-cc-2008-188-20251215-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20251215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/it"
 
 (Ordinanza sulla sorveglianza ASR, OS-ASR)
 
-del 17 marzo 2008 (Stato 15 dicembre 2022)
+del 17 marzo 2008 (Stato 15 dicembre 2025)
 
 L’Autorità federale di sorveglianza dei revisori (ASR),
 
@@ -25,8 +25,8 @@ visto l’articolo 16*a* della legge del 16 dicembre 2005[^ingress-1] sui reviso
 
 ordina:
 
-[^ingress-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^ingress-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^ingress-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 [^ingress-3]: Nuovo testo giusta l’art. 4 dell’O dell’ASR del 23 ago. 2017 sulla comunicazione ASR, in vigore dal 1° ott. 2017 ([RU 2017 4867](https://fedlex.data.admin.ch/eli/oc/2017/529)).
 
 ## Sezione 1: Campo d’applicazione e oggetto
@@ -47,7 +47,7 @@ Essa disciplina:
 - a. gli standard di revisione che devono essere rispettati nel fornire servizi di revisione;
 - b. la procedura per il controllo delle imprese di revisione sotto sorveglianza statale da parte dell’autorità di sorveglianza (ispezioni).
 
-[^1-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
 
 ## Sezione 2: Standard di revisione applicabili
 
@@ -61,10 +61,10 @@ I conti annuali e i conti di gruppo allestiti in conformità al Codice delle obb
 - b. le disposizioni sulla presentazione dei conti dell’Autorità federale di vigilanza sui mercati finanziari (FINMA) per banche e società di intermediazione mobiliare (art. 25–42 dell’ordinanza del 30 aprile 2014[^2-3] sulle banche); o
 - c. le disposizioni sulla presentazione dei conti della FINMA per gli investimenti collettivi di capitale (art. 91 della legge del 23 giugno 2006[^2-4] sugli investimenti collettivi di capitale).
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 (RU **20****22** 724).
-[^2-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^2-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^2-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^2-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 3
 
@@ -76,46 +76,43 @@ I conti annuali e i conti di gruppo allestiti in conformità al Codice delle obb
 
 <sup>3</sup> I conti annuali e i conti di gruppo di società con sede in Svizzera allestiti in conformità a principi contabili esteri sono verificati anche secondo gli SR-CH.[^3-1]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 4
 
 **Revisioni speciali**
 
-<sup>1</sup> I servizi di revisione secondo l’articolo 2 lettera a numero 1 della legge federale del 16 dicembre 2005[^4-1] sull’abilitazione e la sorveglianza dei revisori (LSR) di società con sede in Svizzera che non hanno per oggetto la verifica di un conto annuale o di un conto di gruppo (revisioni speciali) sono verificati secondo gli SR-CH e gli standard svizzeri di revisione di Expertsuisse (SR).[^4-2]
+<sup>1</sup> I servizi di revisione secondo l’articolo 2 lettera a numero 1 della LSR di società con sede in Svizzera che non hanno per oggetto la verifica di un conto annuale o di un conto di gruppo (revisioni speciali) sono verificati secondo gli SR-CH e gli standard svizzeri di revisione di Expertsuisse (SR).[^4-1]
 
 <sup>2</sup> Tutti i servizi di revisione previsti dalla legge forniti da società con sede all’estero che non hanno per oggetto la verifica di un conto annuale o di un conto di gruppo (revisioni speciali) devono essere sottoposti a verifica per analogia secondo gli standard di revisione esteri di cui all’articolo 3 capoversi 1 e 2.
 
-[^4-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^4-2]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 5
 
-**Misure di assicurazione della qualità interna all’impresa**[^5-1]
+**Misure di gestione della qualità attinenti all’impresa**[^5-1]
 
-<sup>1</sup> Le imprese di revisione che effettuano servizi di revisione secondo l’articolo 2 lettera a numero 1 LSR[^5-2] e applicano gli SR-CH e gli SR assicurano la qualità dei loro servizi di revisione secondo le disposizioni dello Standard svizzero di controllo della qualità 1 (ISQC-CH 1).
+<sup>1</sup> Le imprese di revisione che effettuano servizi di revisione secondo l’articolo 2 lettera a numero 1 LSR e applicano gli SR-CH devono garantire la qualità dei loro servizi di revisione in conformità alle disposizioni degli standard svizzeri di gestione della qualità 1 e 2 (ISQM‑CH 1 e 2).
 
-<sup>2</sup> Le imprese di revisione che applicano gli standard di revisione dell’IAASB per la verifica di conti annuali e conti di gruppo assicurano la qualità dei loro servizi di revisione sia secondo lo ISQC-CH 1 sia secondo gli standard internazionali di gestione della qualità «International Standards on Quality Management 1 e 2» (ISQM 1 e 2).
+<sup>2</sup> Le imprese di revisione che applicano gli standard di revisione dell’IAASB per la verifica di conti annuali e conti di gruppo devono garantire la qualità dei loro servizi di revisione sia secondo gli ISQM-CH 1 e 2 sia secondo gli standard internazionali di gestione della qualità «International Standards on Quality Management 1 e 2» (ISQM 1 e 2).
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^5-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^5-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 6
 
-**Pubblicazione degli standard riconosciuti per la revisione e l’assicurazione della qualità**[^6-1]
+**Pubblicazione degli standard riconosciuti per la revisione e la gestione della qualità**[^6-1]
 
-L’autorità di sorveglianza pubblica un elenco degli standard riconosciuti per la revisione e l’assicurazione della qualità.
+L’autorità di sorveglianza pubblica un elenco degli standard riconosciuti per la revisione e la gestione della qualità.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 6a
 
 **Standard di revisione per la verifica secondo le leggi sui mercati finanziari**[^6a-1]
 
-Quando forniscono servizi di revisione secondo l’articolo 2 lettera a numero 2 LSR[^6a-2], le società di audit si attengono ai principi di verifica emanati o riconosciuti dalla FINMA.
+Quando forniscono servizi di revisione secondo l’articolo 2 lettera a numero 2 LSR, le società di audit si attengono ai principi di verifica emanati o riconosciuti dalla FINMA.
 
-[^6a-1]: Introdotto dal n. I dell’O dell’ASR del 10 nov. 2014 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)). Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^6a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^6a-1]: Introdotto dalla cifra I dell’O dell’ASR del 10 nov. 2014 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)). Nuovo testo giusta la cifra I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 ## Sezione 3: Procedura per il controllo delle imprese di revisione sotto sorveglianza statale (ispezioni)
 
@@ -128,9 +125,11 @@ Quando forniscono servizi di revisione secondo l’articolo 2 lettera a numero 2
 L’autorità di sorveglianza controlla in particolare se:
 
 - a. i documenti d’abilitazione e il rapporto annuale presentatole sono completi e corretti;
-- b. l’impresa di revisione sotto sorveglianza statale rispetta le prescrizioni e gli standard in materia di indipendenza e per quanto concerne l’assicurazione della qualità interna e i servizi di revisione forniti.
+- b.[^7-1] l’impresa di revisione sotto sorveglianza statale rispetta le prescrizioni e gli standard in materia di indipendenza e per quanto concerne la gestione della qualità e i servizi di revisione forniti.
 
 <sup>2</sup> Se in occasione del controllo precedente sono state concordate misure o impartite istruzioni per regolarizzare la situazione, l’autorità di sorveglianza verifica inoltre il rispetto e l’attuazione delle stesse.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 8
 
@@ -146,33 +145,34 @@ Il controllo è di regola annunciato all’impresa di revisione. È possibile ri
 
 #### Art. 10
 
-**Esigenze relative alla documentazione concernente la verifica e le misure di assicurazione della qualità**[^10-1]
+**Esigenze concernenti la documentazione di verifica e la documentazione relativa alle misure di gestione della qualità[^10-2]**[^10-1]
 
-<sup>1</sup> La documentazione di verifica deve presentare un grado di completezza e dettaglio tale da fornire all’autorità di sorveglianza un quadro esatto della revisione effettuata (art. 730*c* CO[^10-2]).
+<sup>1</sup> La documentazione di verifica deve presentare un grado di completezza e dettaglio tale da fornire all’autorità di sorveglianza un quadro esatto della revisione effettuata (art. 730*c* CO[^10-3]).
 
 <sup>2</sup> Per documentazione di verifica s’intendono tutte le annotazioni che documentano il tipo, il momento e l’ampiezza delle procedure di verifica eseguite, nonché i relativi risultati e le conclusioni su tali procedure.
 
-<sup>3</sup> La documentazione relativa alle misure di assicurazione della qualità ai sensi dell’articolo 12 LSR[^10-3] deve presentare un grado di completezza e dettaglio tale da fornire all’autorità di sorveglianza un quadro esatto delle misure prese e dell’attuazione delle stesse.
+<sup>3</sup> La documentazione relativa alle misure di gestione della qualità ai sensi dell’articolo 12 LSR deve presentare un grado di completezza e dettaglio tale da fornire all’autorità di sorveglianza un quadro esatto delle misure prese e dell’attuazione delle stesse.[^10-4]
 
 <sup>4</sup> Per il resto si applicano le prescrizioni in materia di documentazione sancite dagli standard di revisione applicabili.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
-[^10-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
+[^10-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^10-4]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 11
 
-**Controllo sui controlli effettuati dall’impresa**[^11-1]
+**Controllo sul processo di monitoraggio e di miglioramento**[^11-1]
 
-Sulla base della documentazione relativa ai controlli effettuati dall’impresa, l’autorità di sorveglianza controlla in particolare:
+Sulla base della documentazione relativa al processo di monitoraggio e di miglioramento effettuato dall’impresa di revisione, l’autorità di sorveglianza controlla in particolare:
 
-- a. la procedura del controllo;
-- b. la composizione e la qualifica del team che effettua il controllo;
+- a. la procedura di monitoraggio e di adozione di misure correttive;
+- b. la composizione e la qualifica del team che effettua il monitoraggio;
 - c. i criteri adottati per la selezione dei servizi di revisione controllati;
 - d. il numero dei servizi di revisione sottoposti a controllo nell’arco di un esercizio annuale;
-- e. i risultati dei controlli.
+- e. i risultati del monitoraggio.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 12
 
@@ -180,9 +180,10 @@ Sulla base della documentazione relativa ai controlli effettuati dall’impresa,
 
 <sup>1</sup> L’autorità di sorveglianza controlla la qualità dei servizi di revisione forniti in particolare attraverso la documentazione di verifica dell’impresa di revisione.[^12-1]
 
-<sup>2</sup> Se i controlli interni effettuati dall’impresa di revisione risultano adeguati e verificabili da parte dell’autorità di sorveglianza (art. 11), quest’ultima ne tiene conto all’atto del controllo.
+<sup>2</sup> Se il processo interno di monitoraggio e di miglioramento effettuato dall’impresa di revisione risulta adeguato e verificabile da parte dell’autorità di sorveglianza (art. 11), quest’ultima ne tiene conto all’atto del controllo.[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 13
 
@@ -192,7 +193,9 @@ Sulla base della documentazione relativa ai controlli effettuati dall’impresa,
 
 <sup>2</sup> Essa concede all’impresa di revisione la possibilità di pronunciarsi in merito al progetto di rapporto di controllo.
 
-<sup>3</sup> A tale scopo l’autorità di sorveglianza fissa un termine adeguato, di norma 30 giorni.
+<sup>3</sup> A tale scopo l’autorità di sorveglianza fissa un termine adeguato.[^13-1]
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O dell’ASR del 19 set. 2025, in vigore dal 15 dic. 2025 ([RU 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 14
 
@@ -209,10 +212,8 @@ Sulla base della documentazione relativa ai controlli effettuati dall’impresa,
 L’autorità di sorveglianza può in qualsiasi momento porre in atto un procedimento ed emanare decisioni, in particolare riguardo agli aspetti seguenti:
 
 - a. la constatazione di infrazioni a prescrizioni e standard applicabili;
-- b. il ripristino della situazione regolare (art. 16 cpv. 4 LSR[^15-1]);
+- b. il ripristino della situazione regolare (art. 16 cpv. 4 LSR);
 - c. l'irrogazione di sanzioni.
-
-[^15-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 16
 

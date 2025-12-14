@@ -4,11 +4,11 @@ title: "Ordonnance de l'Autorité fédérale de surveillance en matière de rév
 short: OSur-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/188"
 language: fr
-version: 2022-12-15
+version: 2025-12-15
 adopted: 2008-03-17
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20221215/fr/xml/fedlex-data-admin-ch-eli-cc-2008-188-20221215-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20251215/fr/xml/fedlex-data-admin-ch-eli-cc-2008-188-20251215-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20251215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/fr"
 
 (Ordonnance ASR sur la surveillance, OSur-ASR)
 
-du 17 mars 2008 (État le 15 décembre 2022)
+du 17 mars 2008 (État le 15 décembre 2025)
 
 L’Autorité fédérale de surveillance en matière de révision (ASR),
 
@@ -25,8 +25,8 @@ vu l’art. 16*a* de la loi du 16 décembre 2005 sur la surveillance de la révi
 
 arrête:
 
-[^ingress-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^ingress-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^ingress-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 [^ingress-3]: Nouvelle teneur selon l’art. 4 de l’O ASR du 23 août 2017 sur la notification, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 4867](https://fedlex.data.admin.ch/eli/oc/2017/529)).
 
 ## Section 1 Champ d’application et objet
@@ -62,9 +62,9 @@ Les comptes annuels et les comptes consolidés établis d’après le code des o
 - c. Normes comptables de la FINMA pour les placements collectifs de capitaux (art. 91 de la loi du 23 juin 2006 sur les placements collectifs[^2-4]).
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^2-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^2-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^2-4]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 3
 
@@ -82,40 +82,37 @@ Les comptes annuels et les comptes consolidés établis d’après le code des o
 
 **Révisions spéciales**
 
-<sup>1</sup> Les prestations en matière de révision au sens de l’art. 2, let. a, ch. 1, de la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^4-1] qui sont fournies par des sociétés sises en Suisse et qui n’ont pas pour objet la révision de comptes annuels ou de comptes consolidés (révisions spéciales) doivent être vérifiées selon les NA-CH et les Normes d’audit suisses d’Expertsuisse (NAS).[^4-2]
+<sup>1</sup> Les prestations en matière de révision au sens de l’art. 2, let. a, ch. 1, LSR qui sont fournies par des sociétés sises en Suisse et qui n’ont pas pour objet la révision de comptes annuels ou de comptes consolidés (révisions spéciales) doivent être vérifiées selon les NA-CH et les Normes d’audit suisses d’Expertsuisse (NAS).[^4-1]
 
 <sup>2</sup> Toutes les prestations de révision fournies par des sociétés sises à l’étranger en vertu de dispositions légales et dont l’objet n’est pas la révision de comptes annuels ni de comptes consolidés (révisions spéciales) doivent être vérifiées par analogie selon les normes de révision étrangères visées à l’art. 3, al. 1 et 2.
 
-[^4-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^4-2]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 5
 
-**Mesure d’assurance-qualité interne à l’entreprise**[^5-1]
+**Mesures de gestion de la qualité internes à l’entreprise**[^5-1]
 
-<sup>1</sup> Les entreprises de révision qui appliquent les NA-CH et les NAS lorsqu’elles fournissent des prestations de révision au sens de l’art. 2, let. a, ch. 1, LSR[^5-2] doivent garantir la qualité de leurs prestations conformément à la Norme suisse de contrôle qualité 1 (ISQC-CH 1).
+<sup>1</sup> Les entreprises de révision qui appliquent les NA-CH lorsqu’elles fournissent des prestations de révision au sens de l’art. 2, let. a, ch. 1, LSR doivent garantir la qualité de leurs prestations conformément aux normes suisses de gestion de la qualité 1 et 2 (ISQM-CH 1 et 2).
 
-<sup>2</sup> Les entreprises de révision qui révisent des comptes annuels ou des comptes consolidés d’après les normes de révision de l’IAASB doivent garantir la qualité de leurs prestations conformément et à la norme ISQC-CH 1 et aux normes internationales de contrôle qualité «International Standards on Quality Management 1 et 2» (ISQM 1 et 2).
+<sup>2</sup> Les entreprises de révision qui révisent des comptes annuels ou des comptes consolidés d’après les normes de révision de l’IAASB doivent garantir la qualité de leurs prestations conformément et aux normes de gestion de la qualité ISQM-CH 1 et 2 et aux normes internationales de gestion de la qualité «International Standards on Quality Management 1 et 2» (ISQM 1 et 2).
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^5-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 6
 
-**Publication des normes de révision et de contrôle qualité reconnues**[^6-1]
+**Publication des normes de révision et de gestion de la qualité reconnues**[^6-1]
 
-L’autorité de surveillance publie une liste des normes de révision et de contrôle qualité reconnues.
+L’autorité de surveillance publie une liste des normes de révision et de gestion de la qualité reconnues.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 6a
 
 **Normes de révision pour l’audit selon les lois sur les marchés financiers**[^6a-1]
 
-Lorsqu’elles fournissent des prestations en matière de révision au sens de l’art. 2, let. a, ch. 2, LSR[^6a-2], les sociétés d’audit se conforment aux principes d’audit édictés ou reconnus par la FINMA.
+Lorsqu’elles fournissent des prestations en matière de révision au sens de l’art. 2, let. a, ch. 2, LSR, les sociétés d’audit se conforment aux principes d’audit édictés ou reconnus par la FINMA.
 
 [^6a-1]: Introduit par le ch. I de l’O de l’ASR du 10 nov. 2014 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)). Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^6a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ## Section 3 Procédure de contrôle des entreprises de révision soumises à la surveillance de l’État (inspections)
 
@@ -125,9 +122,11 @@ Lorsqu’elles fournissent des prestations en matière de révision au sens de l
 
 - [tab] <sup>1</sup> L’autorité de surveillance vérifie en particulier si:
 - a. les documents joints à la demande d’agrément et le rapport annuel remis à l’autorité de surveillance sont complets et corrects;
-- b. l’entreprise de révision soumise à la surveillance de l’État respecte les dispositions et les normes applicables en matière d’indépendance, d’assurance-qualité interne et d’assurance-qualité quant aux prestations de révision fournies;
+- b.[^7-1] l’entreprise de révision soumise à la surveillance de l’État respecte les dispositions et les normes applicables en matière d’indépendance et de gestion de la qualité et celles qui sont applicables aux prestations de révision fournies.
 
 <sup>2</sup> Dans la mesure où des mesures ont été convenues ou des directives pour régulariser la situation ont été données lors du contrôle précédent, l’autorité de surveillance vérifie leur respect et leur mise en œuvre.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 8
 
@@ -143,33 +142,34 @@ L’autorité de surveillance vérifie en principe le respect des dispositions e
 
 #### Art. 10
 
-**Exigences relatives à la documentation d’audit et des mesures d’assurance-qualité**[^10-1]
+**Exigences relatives à la documentation d’audit et des mesures de gestion de la qualité[^10-2]**[^10-1]
 
-<sup>1</sup> La documentation d’audit doit être suffisamment complète et détaillée pour que l’autorité de surveillance puisse parvenir à une vue globale des contrôles effectués (art. 730*c* CO[^10-2]).
+<sup>1</sup> La documentation d’audit doit être suffisamment complète et détaillée pour que l’autorité de surveillance puisse parvenir à une vue globale des contrôles effectués (art. 730*c* CO[^10-3]).
 
 <sup>2</sup> Par documentation d’audit, on entend tous les enregistrements documentant la nature, l’étendue et le calendrier des opérations de révision effectuées ainsi que les résultats de ces opérations et les conclusions qui en sont tirées.
 
-<sup>3</sup> La documentation des mesures d’assurance-qualité au sens de l’art. 12 LSR[^10-3] doit être suffisamment complète et détaillée pour que l’autorité de surveillance puisse parvenir à une vue globale des contrôles effectués et de leur mise en pratique.
+<sup>3</sup> La documentation des mesures de gestion de la qualité au sens de l’art. 12 LSR doit être suffisamment complète et détaillée pour que l’autorité de surveillance puisse parvenir à une vue globale des contrôles effectués et de leur mise en pratique.[^10-4]
 
 <sup>4</sup> Au surplus, la documentation doit être conforme aux dispositions des normes de révision en vigueur.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 10 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
-[^10-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^10-2]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
+[^10-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^10-4]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 11
 
-**Vérification des contrôles subséquents**[^11-1]
+**Vérification du processus de suivi et de prise de mesures correctives**[^11-1]
 
-Se fondant sur la documentation relative aux contrôles subséquents effectués par l’entreprise de révision, l’autorité de surveillance vérifie notamment:
+Se fondant sur la documentation relative au processus de suivi et de prise de mesures correctives effectué par l’entreprise de révision, l’autorité de surveillance vérifie notamment:
 
-- a. la procédure des contrôles subséquents;
-- b. la composition et la qualification de l’équipe qui effectue le contrôle subséquent;
+- a. le processus de suivi et de prise de mesures correctives;
+- b. la composition et la qualification de l’équipe qui effectue le processus de suivi;
 - c. les critères de sélection des prestations en matière de révision contrôlées;
 - d. le nombre de prestations de révision contrôlées durant un exercice comptable;
-- e. les résultats des contrôles subséquents.
+- e. les résultats du processus de suivi.
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 10 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 12
 
@@ -177,9 +177,10 @@ Se fondant sur la documentation relative aux contrôles subséquents effectués 
 
 <sup>1</sup> L’autorité de surveillance vérifie la qualité des prestations de révision en se fon- dant en particulier sur la documentation d’audit de l’entreprise de révision.[^12-1]
 
-<sup>2</sup> Si les contrôles internes de l’entreprise de révision sont appropriés et vérifiables par l’autorité de surveillance (art. 11), celle-ci en tient compte lors de sa vérification.
+<sup>2</sup> Si le processus de suivi et de prise de mesures correctives de l’entreprise de révision est approprié et vérifiable par l’autorité de surveillance (art. 11), celle-ci en tient compte lors de sa vérification.[^12-2]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 10 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 13
 
@@ -187,7 +188,9 @@ Se fondant sur la documentation relative aux contrôles subséquents effectués 
 
 - [tab] <sup>1</sup> L’autorité de surveillance établit un rapport de contrôle.
 - [tab] <sup>2</sup> Elle donne à l’entreprise de révision la possibilité de se prononcer sur le projet de rapport de contrôle.
-- [tab] <sup>3</sup> Elle lui accorde à cet effet un délai approprié, soit 30 jours en règle générale.
+- [tab] <sup>3</sup> Elle lui accorde à cet effet un délai approprié.[^13-1]
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 19 sept. 2025, en vigueur depuis le 15 déc. 2025 ([RO 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 14
 
@@ -202,10 +205,8 @@ Se fondant sur la documentation relative aux contrôles subséquents effectués 
 
 - [tab] L’autorité de surveillance peut en tout temps ouvrir une procédure et statuer par voie de décision en particulier sur:
 - a. la constatation d’infractions aux dispositions légales et aux normes;
-- b. la régularisation de la situation (art. 16, al. 4, LSR[^15-1]);
+- b. la régularisation de la situation (art. 16, al. 4, LSR);
 - c. l’application de sanctions.
-
-[^15-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 16
 

@@ -4,11 +4,11 @@ title: "Ordinance of the Federal Audit Oversight Authority of 17 March 2008 on t
 short: OO-FAOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/188"
 language: en
-version: 2022-12-15
+version: 2025-12-15
 adopted: 2008-03-17
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20221215/en/xml/fedlex-data-admin-ch-eli-cc-2008-188-20221215-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20251215/en/xml/fedlex-data-admin-ch-eli-cc-2008-188-20251215-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20251215/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Oversight Ordinance FAOA, OO-FAOA)
 
-of 17 March 2008 (Status as on 15 December 2022)
+of 17 March 2008 (Last amended on 15 December 2025)
 
 The Federal Audit Oversight Authority (FAOA),
 
@@ -29,8 +29,8 @@ and on 32 paragraph 2 of the Auditor Oversight Ordinance of 22 August 2007[^ingr
 
 ordains:
 
-[^ingress-1]: [<sup>SR</sup> <sup>221.302</sup>](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-2]: [<sup>SR</sup> <sup>221.302.3</sup>](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^ingress-1]: [<sup>SR</sup> <sup>221.302</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^ingress-2]: [<sup>SR</sup> <sup>221.302.3</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 [^ingress-3]: Amended by Art. 4 of the FAOA Disclosure Ordinance of 23 Aug. 2017, in force since 1 Oct. 2017 ([AS 2017 4867](https://fedlex.data.admin.ch/eli/oc/2017/529)).
 
 ## Section 1 Scope and Subject Matter
@@ -66,9 +66,9 @@ Annual and consolidated financial statements that have been prepared in accordan
 - c. the FINMA accounting regulations for collective investment schemes (Art. 91 of the Collective Investment Schemes Act of 23 June 2006[^2-4]).
 
 [^2-1]: Amended by No I of the FAOA O of 18 Nov. 2022, in force since 15 Dec. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^2-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^2-3]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
-[^2-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^2-3]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^2-4]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 3
 
@@ -86,40 +86,37 @@ Annual and consolidated financial statements that have been prepared in accordan
 
 **Special purpose audit engagements**
 
-<sup>1</sup> Audit services under Article 2 letter a letter 1 of the Audit Oversight Act of 16 December 2005[^4-1] (AOA) provided by companies with registered office in Switzerland that do not concern the auditing of annual or consolidated financial statements (special purpose audit engagements) must be provided in accordance with the SA-CH and the Swiss auditing standards of Expertsuisse (AS).[^4-2]
+<sup>1</sup> Audit services under Article 2 letter a letter 1 AOA provided by companies with registered office in Switzerland that do not concern the auditing of annual or consolidated financial statements (special purpose audit engagements) must be provided in accordance with the SA-CH and the Swiss auditing standards of Expertsuisse (AS).[^4-1]
 
 <sup>2</sup> All legally required audit services provided by companies with registered office abroad that do not concern the auditing of annual or consolidated financial statements (special purpose audit engagements) must, correspondingly, be provided in accordance with foreign auditing standards pursuant to Article 3 paragraphs 1 and 2.
 
-[^4-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^4-2]: Amended by No I of the FAOA O of 18 Nov. 2022, in force since 15 Dec. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^4-1]: Amended by No I of the FAOA O of 18 Nov. 2022, in force since 15 Dec. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 5
 
-**Firm-wide quality assurance measures**[^5-1]
+**Firm-wide quality management measures**[^5-1]
 
-<sup>1</sup> Audit firms that apply the SA-CH and the AS when providing audit services under Article 2 letter a letter 1 AOA[^5-2] must ensure the quality of their audit services in accordance with the provisions of the Swiss Standard on Quality Control 1 (ISQC-CH 1).
+<sup>1</sup> Audit firms that apply the SA-CH when providing audit services under Article 2 letter a letter 1 AOA must ensure the quality of their audit services in accordance with the provisions of the Swiss Standard on Quality Management 1 and 2 (ISQM-CH 1 and 2).
 
-<sup>2</sup> Audit firms that apply the auditing standards of the IAASB when auditing annual and consolidated financial statements must ensure the quality of their audit services in accordance with ISQC-CH 1 and the International Standards on Quality Management 1 and 2 (ISQM 1 and 2).
+<sup>2</sup> Audit firms that apply the auditing standards of the IAASB when auditing annual and consolidated financial statements must ensure the quality of their audit services in accordance with ISQM-CH 1 and 2 as well as the International Standards on Quality Management 1 and 2 (ISQM 1 and 2).
 
-[^5-1]: Amended by No I of the FAOA O of 18 Nov. 2022, in force since 15 Dec. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^5-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^5-1]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 6
 
-**Publication of recognised auditing and quality control standards**[^6-1]
+**Publication of recognised auditing and quality management standards**[^6-1]
 
-The Oversight Authority shall publish a list of the recognised auditing and quality control standards.
+The Oversight Authority shall publish a list of the recognised auditing and quality management standards.
 
-[^6-1]: Amended by No I of the FAOA O of 18 Nov. 2022, in force since 15 Dec. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^6-1]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 6a
 
 **Standards for audits under the financial markets legislation**[^6a-1]
 
-When providing audit services under Article 2 letter a number 2 AOA[^6a-2], the audit companies must comply with the audit principles issues or recognised by FINMA.
+When providing audit services under Article 2 letter a number 2 AOA, the audit companies must comply with the audit principles issues or recognised by FINMA.
 
 [^6a-1]: Inserted by No I of the FAOA O of 10 Nov. 2014 ([AS 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)). Amended by No I of the FAOA O of 18 Nov. 2022, in force since 15 Dec. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
-[^6a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ## Section 3 Procedure for the Inspection of Audit Firms under State Oversight
 
@@ -132,9 +129,11 @@ When providing audit services under Article 2 letter a number 2 AOA[^6a-2], the 
 The Oversight Authority shall inspect, in particular, whether:
 
 - a. the licensing documents and the annual report submitted to the Oversight Authority are complete and correct;
-- b. the audit firm under state oversight is complying with the provisions and standards relating to independence, internal quality control and the audit services provided.
+- b.[^7-1] the audit firm under state oversight complies with the provisions and standards relating to independence, internal quality management and the audit services provided.
 
 <sup>2</sup> If, during the preceding inspection, measures were agreed on or instructions issued with a view to rectifying a situation, it shall also inspect the implementation of and compliance with these.
+
+[^7-1]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 8
 
@@ -150,33 +149,34 @@ Advance notice of the inspection shall, as a rule, be given to the audit firm. N
 
 #### Art. 10
 
-**Requirements relating to the audit documentation and the documentation of quality control measures**[^10-1]
+**Requirements relating to the audit documentation and the documentation of quality management measures[^10-2]**[^10-1]
 
-<sup>1</sup> The audit documentation must be sufficiently comprehensive and detailed to allow the Oversight Authority to obtain a precise picture of the audit carried out (Art. 730*c* OR[^10-2]).
+<sup>1</sup> The audit documentation must be sufficiently comprehensive and detailed to allow the Oversight Authority to obtain a precise picture of the audit carried out (Art. 730*c* OR[^10-3]).
 
 <sup>2</sup> Audit documentation shall be understood to mean all records that document the nature, time and scope of the audit procedures performed, as well as their results and the conclusions drawn from them.
 
-<sup>3</sup> The documentation on the quality control measures in terms of Article 12 AOA[^10-3] must be sufficiently comprehensive and detailed to allow the Oversight Authority to obtain a precise picture of the measures taken and their implementation.
+<sup>3</sup> The documentation on the quality management measures in terms of Article 12 AOA must be sufficiently comprehensive and detailed to allow the Oversight Authority to obtain a precise picture of the measures taken and their implementation.[^10-4]
 
 <sup>4</sup> The regulations on documentation in the applicable audit standards also apply.
 
 [^10-1]: Amended by No I of the FAOA O of 10 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
-[^10-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^10-2]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
+[^10-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^10-4]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 11
 
-**Inspection of the monitoring process**[^11-1]
+**Inspection of the monitoring and remediation process**[^11-1]
 
-On the basis of the documentation relating to the monitoring process carried out by businesses, the Oversight Authority shall inspect, in particular:
+On the basis of the documentation relating to the audit firm’s monitoring and remediation process, the Oversight Authority shall inspect, in particular:
 
-- a. the procedure employed for the monitoring process;
+- a. the procedure employed for the monitoring and remediation process;
 - b. the composition and competence of the teams carrying out the monitoring;
 - c. the criteria used to select the audit services monitored;
 - d. the number of audit services monitored in a financial year;
 - e. the results of monitoring activities.
 
-[^11-1]: Amended by No I of the FAOA O of 10 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^11-1]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 12
 
@@ -184,9 +184,10 @@ On the basis of the documentation relating to the monitoring process carried out
 
 <sup>1</sup> The Oversight Authority shall inspect the quality of the audit services provided on the basis of, in particular, the audit firm’s audit documentation.[^12-1]
 
-<sup>2</sup> If the audit firm’s internal monitoring process is adequate and can be inspected by the Oversight Authority (Art. 11), the Oversight Authority shall take this into account during its inspection.
+<sup>2</sup> If the audit firm’s internal monitoring and remediation process is adequate and can be inspected by the Oversight Authority (Art. 11), the Oversight Authority shall take this into account during its inspection.[^12-2]
 
 [^12-1]: Amended by No I of the FAOA O of 10 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^12-2]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 13
 
@@ -196,7 +197,9 @@ On the basis of the documentation relating to the monitoring process carried out
 
 <sup>2</sup> It shall give the audit firm an opportunity to comment on the draft version of the inspection report.
 
-<sup>3</sup> It shall allow the audit firm an appropriate period in which to do so, generally 30 days.
+<sup>3</sup> It shall allow the audit firm an appropriate period in which to do so.[^13-1]
+
+[^13-1]: Amended by No I of the FAOA O of 19 Sept. 2025, in force since 15 Dec. 2025 ([AS 2025 752](https://fedlex.data.admin.ch/eli/oc/2025/752)).
 
 #### Art. 14
 
@@ -213,10 +216,8 @@ On the basis of the documentation relating to the monitoring process carried out
 The Oversight Authority may conduct proceedings and issue decisions at any time, in particular relating to:
 
 - a. the identification of infringements of applicable provisions and standards;
-- b. the rectification of a situation (Art. 16 para. 4 AOA[^15-1]);
+- b. the rectification of a situation (Art. 16 para. 4 AOA);
 - c. the imposition of sanctions.
-
-[^15-1]: [<sup>SR</sup> <sup>221.302</sup>](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 16
 
