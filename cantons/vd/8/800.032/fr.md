@@ -4,7 +4,7 @@ number: "800.032"
 title: DÉCRET du 29.09.2015 sur la régulation des équipements médico-techniques lourds (DREMTL)
 short: DREMTL
 language: fr
-version: 2020-12-16
+version: 2025-12-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.032?id=215ef518-d902-4ca8-90a0-76ea6e6b1056"
 ---
 
@@ -42,7 +42,7 @@ décrète
 
 **Liste des équipements lourds [^2-1]**
 
-<sup>1</sup> Le Grand Conseil établit la liste des équipements lourds soumis à régulation. Cette liste déploie ses effets dès l'entrée en vigueur du présent décret pour une durée de dix ans.
+<sup>1</sup> Le Grand Conseil établit la liste des équipements lourds soumis à régulation. Cette liste déploie ses effets dès l'entrée en vigueur du présent décret pour une durée de dix-sept ans.
 
 <sup>2</sup> Les équipements concernés sont les suivants :
 
@@ -56,7 +56,7 @@ décrète
 - - Tout appareil de chirurgie robotique d'un coût égal ou supérieur à un million de francs (prix catalogue) ;
 - - ...
 
-[^2-1]: Modif. 1 du 24.11.2020: Modification Al. 1; entrée en vigueur au 16.12.2020; Modification Al. 2, Tiret 6; entrée en vigueur au 16.12.2020; Abrogation Al. 2, Tiret 9; entrée en vigueur au 16.12.2020 · Modif. 2 du 13.01.2026: Modification Al. 1; entrée en vigueur au 15.12.2025; Introduction Art. 9, Al. 5-6; entrée en vigueur au 15.12.2025
+[^2-1]: Modif. 1 du 24.11.2020: Modification Al. 1; entrée en vigueur au 16.12.2020; Modification Al. 2, Tiret 6; entrée en vigueur au 16.12.2020; Abrogation Al. 2, Tiret 9; entrée en vigueur au 16.12.2020 · Modif. 2 du 13.01.2026: Modification Al. 1; entrée en vigueur au 15.12.2025
 
 #### Art. 4
 
@@ -128,7 +128,11 @@ décrète
 
 <sup>3</sup> Lorsque le département suit le préavis, positif ou négatif, de la Commission, il rend la décision. S'il entend s'en écarter, il saisit le Conseil d'Etat.
 
-<sup>4</sup> Les décisions du département ou du Conseil d'Etat doivent être rendues dans un délai de six mois à compter de la transmission du dossier à la Commission (art. 8, al. 3) ; à défaut, la demande est réputée acceptée. Ces décisions sont susceptibles d'un recours de droit administratif auprès du Tribunal cantonal.
+<sup>4</sup> Les décisions du département ou du Conseil d'Etat doivent être rendues dans un délai de six mois à compter de la transmission du dossier à la Commission (art. 8, al. 3) sous réserve d'une prolongation de délai conformément à l'alinéa 5. Ces décisions sont susceptibles d'un recours de droit administratif auprès du Tribunal cantonal.
+
+<sup>5</sup> Le département peut, si l'instruction de la demande le nécessite, prolonger de trois mois au maximum le délai prévu à l'alinéa 4. Avant l'échéance de celui-ci, le département communique son intention de prolonger le délai à l'exploitant, qui dispose d'un délai de 20 jours pour se déterminer.
+
+<sup>6</sup> A défaut de décision dans le délai prévu à l'alinéa 4 ou dans le délai prolongé de l'alinéa 5, la demande est réputée acceptée.
 
 [^8-1]: Modif. 2 du 13.01.2026: Modification Al. 4; entrée en vigueur au 15.12.2025; Introduction Al. 5-6; entrée en vigueur au 15.12.2025
 
@@ -163,11 +167,11 @@ décrète
 
 **Durée et évaluation [^12-3]**
 
-<sup>1</sup> Le présent décret est valable pour une durée de dix ans à compter de son entrée en vigueur.
+<sup>1</sup> Le présent décret est valable pour une durée de dix-sept ans à compter de sa date d'entrée en vigueur.
 
 <sup>2</sup> Une année avant son terme, le Conseil d'Etat soumet au Grand Conseil un rapport sur l'évaluation du dispositif, sur proposition de la Commission.
 
-[^12-3]: Modif. 1 du 24.11.2020: Modification Al. 1; entrée en vigueur au 16.12.2020 · Modif. 2 du 13.01.2026: Introduction Art. 9, Al. 5-6; entrée en vigueur au 15.12.2025; Modification Al. 1; entrée en vigueur au 15.12.2025
+[^12-3]: Modif. 1 du 24.11.2020: Modification Al. 1; entrée en vigueur au 16.12.2020 · Modif. 2 du 13.01.2026: Modification Al. 1; entrée en vigueur au 15.12.2025
 
 #### Art. 14
 
