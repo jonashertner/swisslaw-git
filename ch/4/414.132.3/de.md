@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Verordnung der ETH Lausanne vom 14. Juni 2004 über das Bachelor- und das Masterstudium (Ausbildungsverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: de
-version: 2024-09-01
+version: 2025-12-15
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20240901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20251215/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20251215-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20251215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/de"
 
 (Ausbildungsverordnung ETHL)
 
-vom 14. Juni 2004 (Stand am 1. September 2024)
+vom 14. Juni 2004 (Stand am 15. Dezember 2025)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (ETHL),
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 3 Absatz 1 Buchstabe b der ETHZ-ETHL-Verordnung vom 13. No
 
 verordnet:
 
-[^ingress-1]: [SR 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+[^ingress-1]: [SR 414.110.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6696)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen und Begriffe
 
@@ -38,11 +38,12 @@ verordnet:
 
 #### Art. 2
 
-**Zulassung**
+**Zulassung**[^2-1]
 
-Die Zulassung zum Bachelor- und zum Masterstudium richtet sich nach der Verordnung vom 8. Mai 1995[^2-1] über die Zulassung zur Eidgenössischen Technischen Hochschule Lausanne.
+Die Zulassung zum Bachelor- und zum Masterstudium richtet sich nach der Zulassungsverordnung ETHL vom 14. Oktober 2025[^2-2].
 
-[^2-1]: [SR 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^2-1]: Fassung gemäss Anhang Ziff. 2 der Zulassungsverordnung ETHL vom 14. Okt. 2025, in Kraft seit 15. Dez. 2025 ([AS 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^2-2]: [SR 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
 
 #### Art. 3
 
@@ -81,7 +82,7 @@ Die ETHL verleiht in ihren Lehrgebieten (Sektionen oder Lehrgebieten) die folgen
 
 <sup>3</sup> Die Studienpläne nach Artikel 5 der Studienkontrollverordnung ETHL sind so konzipiert, dass pro Studienjahr 60 ECTS-Kreditpunkte erzielt werden können.[^4-3]
 
-[^4-1]: [SR 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^4-1]: [SR 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
 [^4-2]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, in Kraft seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 [^4-3]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, in Kraft seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
@@ -94,7 +95,7 @@ Die ETHL verleiht in ihren Lehrgebieten (Sektionen oder Lehrgebieten) die folgen
 <sup>2</sup> Das Masterstudium hat erfolgreich durchlaufen, wer, entsprechend der Studienkontrollverordnung ETHL vom 30. Juni 2015 und den Vollzugsreglementen, zusätzlich zum Bachelor 60 ECTS-Kreditpunkte beziehungsweise in den Bereichen, welche dies gemäss Anhang I verlangen, 90 ECTS-Kreditpunkte erworben sowie die Masterarbeit, für die 30 Kreditpunkte vergeben werden, erfolgreich abgeschlossen hat.
 
 [^5-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, in Kraft seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^5-2]: [SR 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^5-2]: [SR 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
 
 ## 2. Abschnitt: Bachelor
 
@@ -140,7 +141,7 @@ Das Bachelorprogramm an der ETHL besteht aus zwei aufeinander folgenden Studiena
 <sup>4</sup> Die Bachelorstufe gilt mit dem Erwerb von 120 ECTS-Kreditpunkten als bestanden. Der erfolgreiche Abschluss der Bachelorstufe ist die Voraussetzung für die Zulassung zum Masterprogramm. Artikel 29 Absatz 1 der Studienkontrollverordnung ETHL vom 30. Juni 2015[^8-2] bleibt vorbehalten.[^8-3]
 
 [^8-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, in Kraft seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^8-2]: [SR 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^8-2]: [SR 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
 [^8-3]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, in Kraft seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 ## 3. Abschnitt: Master

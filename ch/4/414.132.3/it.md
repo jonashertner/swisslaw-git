@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Ordinanza del 14 giugno 2004 sulla formazione che porta al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla formazione al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: it
-version: 2024-09-01
+version: 2025-12-15
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20240901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20251215/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20251215-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20251215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/it"
 
 (Ordinanza sulla formazione al PFL)
 
-del 14 giugno 2004 (Stato 1° settembre 2024)
+del 14 giugno 2004 (Stato 15 dicembre 2025)
 
 La Direzione del Politecnico federale di Losanna (PFL),
 
@@ -24,7 +24,7 @@ visto l’articolo 3 capoverso 1 lettera b dell’ordinanza del 13 novembre 2003
 
 ordina:
 
-[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6696)
 
 ## Sezione 1: Disposizioni generali e definizioni
 
@@ -38,11 +38,12 @@ ordina:
 
 #### Art. 2
 
-**Ammissione**
+**Ammissione**[^2-1]
 
-L’ammissione alla formazione che porta al bachelor e al master è retta dall’ordinanza dell’8 maggio 1995[^2-1] sull’ammissione al Politecnico federale di Losanna.
+L’ammissione alla formazione che porta al bachelor e al master è retta dall’ordinanza del 14 ottobre 2025[^2-2] sull’ammissione al PFL.
 
-[^2-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^2-1]: Nuovo testo giusta l’all. n. 2 dell’O del 14 ott. 2025 sull’ammissione al PFL, in vigore dal 15 dic. 2025 ([RU 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^2-2]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
 
 #### Art. 3
 
@@ -67,9 +68,9 @@ Nei suoi campi di studio (sezioni o campi) il PFL rilascia i titoli seguenti:[^3
 
 <sup>7</sup> Il PFL conferisce anche il titolo di dottore in scienze (o Ph.D.) e altri titoli propri della formazione continua. Questi titoli sono oggetto di ordinanze specifiche.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 12 giu. 2006, in vigore dal 23 ott. 2006 ([RU 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
-[^3-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
-[^3-3]: Abrogato dal n. I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 12 giu. 2006, in vigore dal 23 ott. 2006 ([RU 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
+[^3-3]: Abrogato dalla cifra I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 4
 
@@ -81,9 +82,9 @@ Nei suoi campi di studio (sezioni o campi) il PFL rilascia i titoli seguenti:[^3
 
 <sup>3</sup> I piani di studio di cui all’articolo 5 dell’ordinanza 30 giugno 2015 sulla verifica degli studi al PFL sono concepiti in modo da consentire l’acquisizione di 60 crediti ECTS per anno accademico.[^4-3]
 
-[^4-1]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
-[^4-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^4-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^4-1]: [RS 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
+[^4-2]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 5
 
@@ -93,8 +94,8 @@ Nei suoi campi di studio (sezioni o campi) il PFL rilascia i titoli seguenti:[^3
 
 <sup>2</sup> Conseguono il master gli studenti che, oltre al bachelor, hanno acquisito 60 crediti ECTS, nelle sezioni in cui sono richiesti secondo l’allegato I, 90 crediti ECTS e hanno portato a termine con successo il progetto di master equivalente a 30 crediti ECTS, in conformità all’ordinanza sulla verifica degli studi al PFL e ai regolamenti di applicazione.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^5-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^5-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^5-2]: [RS 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
 
 ## Sezione 2: Bachelor
 
@@ -111,7 +112,7 @@ Il bachelor del PFL si suddivide in due tappe formative:
 
 <sup>2</sup> ...[^6-1]
 
-[^6-1]: Abrogato dal n. I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^6-1]: Abrogato dalla cifra I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 7
 
@@ -125,7 +126,7 @@ Il bachelor del PFL si suddivide in due tappe formative:
 
 <sup>4</sup> Il superamento dell’esame propedeutico permette di acquisire 60 crediti ECTS ed è la condizione per passare al ciclo bachelor.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 8
 
@@ -139,9 +140,9 @@ Il bachelor del PFL si suddivide in due tappe formative:
 
 <sup>4</sup> Il ciclo bachelor è considerato superato con l’acquisizione di 120 crediti ECTS. Il superamento del ciclo bachelor è la condizione per passare al ciclo master. È fatto salvo l’articolo 29 capoverso 1 dell’ordinanza del 30 giugno 2015[^8-2] sulla verifica degli studi al PFL.[^8-3]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^8-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
-[^8-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^8-2]: [RS 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
+[^8-3]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 ## Sezione 3: Master
 
@@ -158,7 +159,7 @@ Il master si suddivide in due tappe formative:
 
 <sup>2</sup> ...[^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^9-1]: Abrogato dalla cifra I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 10
 
@@ -182,9 +183,9 @@ Il master si suddivide in due tappe formative:
 
 <sup>3</sup> Per avviare il progetto di master è necessario dapprima portare a termine con successo il ciclo master. È fatto salvo l’articolo 29 capoverso 3 dell’ordinanza del 30 giugno 2015 sulla verifica degli studi al PFL; in caso di applicazione di tale articolo, il superamento del ciclo master è condizione essenziale per concludere con successo il progetto di master.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^11-2]: Introdotto dal n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
-[^11-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^11-2]: Introdotto dalla cifra I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
 
 ## Sezione 4: Durata della formazione
 
@@ -196,7 +197,7 @@ Il master si suddivide in due tappe formative:
 
 <sup>2</sup> La scuola può, in deroga a quanto previsto al capoverso 1, prolungare la durata massima di un ciclo di formazione o accordare un’interruzione tra due cicli ad uno studente che possa addurre, non appena ne venga a conoscenza e prima che termini la durata massima prevista, un motivo valido, quale una malattia prolungata, una maternità o un obbligo di prestare servizio.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 ## Sezione 5: Altre disposizioni
 
@@ -208,7 +209,7 @@ Il master si suddivide in due tappe formative:
 
 <sup>2</sup> Si applicano le direttive della scuola.[^13-1]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 14
 
@@ -238,7 +239,7 @@ Allegato I[^t-1]
 
 ## Titoli e designazioni professionali
 
-[^t-1]: Nuovo testo giusta il n. II dell’O della Direzione del PFL del 28 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O della Direzione del PFL del 28 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
 
 <table>
 <tr><th>Bachelor e master</th><th>Sezione/Campo</th><th>Designazione professionale del titolare del master</th></tr>

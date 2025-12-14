@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: "Ordonnance du 14 juin 2004 sur la formation menant au bachelor et au master de l'École polytechnique fédérale de Lausanne (Ordonnance sur la formation à l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: fr
-version: 2024-09-01
+version: 2025-12-15
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-653-20240901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20251215/fr/xml/fedlex-data-admin-ch-eli-cc-2004-653-20251215-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20251215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/fr"
 
 (Ordonnance sur la formation à l’EPFL)
 
-du 14 juin 2004 (État le 1<sup>er</sup> septembre 2024)
+du 14 juin 2004 (État le 15 décembre 2025)
 
 La Direction de l’École polytechnique fédérale de Lausanne (EPFL),
 
@@ -24,7 +24,7 @@ vu l’art. 3, al. 1, let. b, de l’ordonnance du 13 novembre 2003 sur l’EPFZ
 
 arrête:
 
-[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/eli/cc/2004/17)
+[^ingress-1]: [RS 414.110.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6696)
 
 ## Section 1 Généralités et définitions
 
@@ -38,11 +38,12 @@ arrête:
 
 #### Art. 2
 
-**Admission**
+**Admission**[^2-1]
 
-L’admission à la formation menant au bachelor et au master est déterminée par l’ordonnance du 8 mai 1995 concernant l’admission à l’École polytechnique fédérale de Lausanne[^2-1].
+L’admission à la formation menant au bachelor et au master est déterminée par l’ordonnance du 14 octobre 2025 sur l’admission à l’EPFL[^2-2].
 
-[^2-1]: [RS 414.110.422.3](https://fedlex.data.admin.ch/eli/cc/1999/449)
+[^2-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 14 oct. 2025 sur l’admission à l’EPFL, en vigueur depuis le 15 déc. 2025 ([RO 2025 782](https://fedlex.data.admin.ch/eli/oc/2025/782)).
+[^2-2]: [RS 414.131.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6729)
 
 #### Art. 3
 
@@ -81,7 +82,7 @@ L’EPFL décerne les titres suivants dans ses domaines d’études (sections ou
 
 <sup>3</sup> Les plans d’études visés à l’art. 5 de l’ordonnance sur le contrôle des études à l’EPFL sont conçus de façon à permettre l’acquisition de 60 crédits ECTS par année académique.[^4-3]
 
-[^4-1]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^4-1]: [RS 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
 [^4-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
@@ -94,7 +95,7 @@ L’EPFL décerne les titres suivants dans ses domaines d’études (sections ou
 <sup>2</sup> À réussi le master l’étudiant qui a acquis, en sus du bachelor, 60 crédits ECTS, respectivement 90 crédits ECTS pour les sections qui les requièrent conformément à l’annexe I, et réussi le projet de master représentant 30 crédits, conformément à l’ordonnance sur le contrôle des études à l’EPFL et aux règlements d’application.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^5-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^5-2]: [RS 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
 
 ## Section 2 Bachelor
 
@@ -140,7 +141,7 @@ Le bachelor de l’EPFL est composé de deux étapes successives de formation:
 <sup>4</sup> Le cycle bachelor est réputé réussi par l’acquisition de 120 crédits ECTS. La réussite du cycle bachelor est la condition pour entrer au cycle master. L’art. 29, al. 1, de l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL[^8-2] est réservé.[^8-3]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^8-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^8-2]: [RS 414.132.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6734)
 [^8-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 ## Section 3 Master
