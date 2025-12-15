@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 6 novembre 2025 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: fr
-version: 2025-11-25
+version: 2025-12-16
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251125/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251125-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251216/fr/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251216-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251216/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 6 novembre 2025 (État le 25 novembre 2025)
+du 6 novembre 2025 (État le 16 décembre 2025)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -185,56 +185,9 @@ Annexe 1[^t-1]
 
 ## Zones de protection et de surveillance et zones intermédiaires
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 24 nov. 2025, en vigueur depuis le 25 nov. 2025 à 12 heures ([RO 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 12 déc. 2025, en vigueur depuis le 16 déc. 2025 ([RO 2025 843](https://fedlex.data.admin.ch/eli/oc/2025/843)).
 
-Des zones de protection et de surveillance et des zones intermédiaires ont été délimitées dans les cantons suivants:
-
-### 1. Canton de Saint-Gall
-
-Zone de protection
-
-- – Stadtweier Wil (étang municipal de Wil)
-
-Zone de surveillance
-
-- – commune de Wil
-
-Zones intermédiaires
-
-Les communes suivantes:
-
-- – Jonschwil
-- – Kirchberg
-- – Lütisburg
-- – Niederhelfenschwil
-- – Oberbüren
-- – Oberuzwil
-- – Uzwil
-- – Zuzwil
-
-### 2. Canton de Thurgovie
-
-Zones intermédiaires
-
-Les communes suivantes:
-
-- – Affeltrangen
-- – Bettwiesen
-- – Bichelsee-Balterswil
-- – Braunau
-- – Bussnang
-- – Eschlikon
-- – Fischingen
-- – Lommis
-- – Münchwilen
-- – Rickenbach bei Wil
-- – Schönholzerswilen
-- – Sirnach
-- – Stettfurt
-- – Tobel-Tägerschen
-- – Wängi
-- – Wilen bei Wil
-- – Wuppenau
+La présente annexe ne comporte actuellement aucune entrée.
 
 Annexe 2[^t-2]
 

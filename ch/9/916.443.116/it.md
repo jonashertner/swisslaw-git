@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordinanza dell’USAV del 6 novembre 2025 che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: it
-version: 2025-11-25
+version: 2025-12-16
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251125/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251125-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251216/it/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251216-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251216/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a evitare l’ulteriore diffusione dell’influenza aviaria
 
-del 6 novembre 2025 (Stato 25 novembre 2025)
+del 6 novembre 2025 (Stato 16 dicembre 2025)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -185,56 +185,9 @@ Allegato 1[^t-1]
 
 ## Zone di protezione, di sorveglianza e intermedie
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 24 nov. 2025, in vigore il 25 nov. 2025 alle ore 12.00 ([RU 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’USAV del 12 dic. 2025, in vigore il 16 dic. 2025 ([RU 2025 843](https://fedlex.data.admin.ch/eli/oc/2025/843)).
 
-Nei seguenti Cantoni sono stabilite le zone di protezione, di sorveglianza e intermedie elencate di seguito:
-
-### 1. Cantone di San Gallo
-
-Zone di protezione
-
-- – Stadtweier Wil (stagno comunale di Wil)
-
-Zone di sorveglianza
-
-- – Comune di Wil
-
-Zone intermedie
-
-I seguenti Comuni:
-
-- – Jonschwil
-- – Kirchberg
-- – Lütisburg
-- – Niederhelfenschwil
-- – Oberbüren
-- – Oberuzwil
-- – Uzwil
-- – Zuzwil
-
-### 2. Cantone di Turgovia
-
-Zone intermedie
-
-I seguenti Comuni:
-
-- – Affeltrangen
-- – Bettwiesen
-- – Bichelsee-Balterswil
-- – Braunau
-- – Bussnang
-- – Eschlikon
-- – Fischingen
-- – Lommis
-- – Münchwilen
-- – Rickenbach bei Wil
-- – Schönholzerswilen
-- – Sirnach
-- – Stettfurt
-- – Tobel-Tägerschen
-- – Wängi
-- – Wilen bei Wil
-- – Wuppenau
+*Il presente allegato attualmente non contiene voci.*
 
 Allegato 2[^t-2]
 

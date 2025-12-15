@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 6. November 2025 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/683"
 language: de
-version: 2025-11-25
+version: 2025-12-16
 adopted: 2025-11-06
 in_force: 2025-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251125/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251125-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/683/20251216/de/xml/fedlex-data-admin-ch-eli-cc-2025-683-20251216-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/683/20251216/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 6. November 2025 (Stand am 25. November 2025)
+vom 6. November 2025 (Stand am 16. Dezember 2025)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -120,7 +120,7 @@ Sie müssen:
 
 **Massnahmen der Tierhalterinnen und Tierhalter in den Beobachtungsgebieten**
 
-In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 oder mehr Vögel halten, von denen mindestens ein Tier der Ordnungen Hühnervögel (*Galliformes*), Gänsevögel (*Anseriformes*) oder Laufvögel (S*truthioniformes*) gehört, die Massnahmen nach Artikel 7 treffen.
+In den Beobachtungsgebieten müssen die Tierhalterinnen und Tierhalter, die 50 oder mehr Vögel halten, von denen mindestens ein Tier der Ordnungen Hühnervögel (*Gal**liformes*), Gänsevögel (*Anseriformes*) oder Laufvögel (S*truthioniformes*) gehört, die Massnahmen nach Artikel 7 treffen.
 
 #### Art. 10
 
@@ -185,56 +185,9 @@ Anhang 1[^t-1]
 
 ## Schutz-, Überwachungs- und Zwischenzonen
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 24. Nov. 2025, in Kraft seit 25. Nov. 2025 um 12 Uhr ([AS 2025 750](https://fedlex.data.admin.ch/eli/oc/2025/750)).
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 12. Dez. 2025, in Kraft seit 16. Dez. 2025 ([AS 2025 843](https://fedlex.data.admin.ch/eli/oc/2025/843)).
 
-In den folgenden Kantonen sind die folgenden Schutz-, Überwachungs- und Zwischenzonen festgelegt:
-
-### 1. Kanton St. Gallen
-
-Schutzzonen
-
-- – Stadtweier Wil
-
-Überwachungszonen
-
-- – Gemeinde Wil
-
-Zwischenzonen
-
-Folgende Gemeinden:
-
-- – Jonschwil
-- – Kirchberg
-- – Lütisburg
-- – Niederhelfenschwil
-- – Oberbüren
-- – Oberuzwil
-- – Uzwil
-- – Zuzwil
-
-### 2. Kanton Thurgau
-
-Zwischenzonen
-
-Folgende Gemeinden:
-
-- – Affeltrangen
-- – Bettwiesen
-- – Bichelsee-Balterswil
-- – Braunau
-- – Bussnang
-- – Eschlikon
-- – Fischingen
-- – Lommis
-- – Münchwilen
-- – Rickenbach bei Wil
-- – Schönholzerswilen
-- – Sirnach
-- – Stettfurt
-- – Tobel-Tägerschen
-- – Wängi
-- – Wilen bei Wil
-- – Wuppenau
+Dieser Anhang enthält zurzeit keine Einträge.
 
 Anhang 2[^t-2]
 
