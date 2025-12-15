@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2025-07-01
+version: 2025-12-16
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20251216/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20251216-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20251216/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250701/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Juli 2025)
+vom 29. September 1995 (Stand am 16. Dezember 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -155,22 +155,22 @@ Die Versicherung übernimmt die Kosten der folgenden Leistungen, soweit sie von 
 
   - 1\. 01.01.10 (antipyretische Analgetica), 01.12 (Myotonolytica: nur per os verabreichte),
   - 2\.[^4-5] 04.99 (Gastroenterologica, Varia: nur Mittel zur Hemmung der Magensäuresekretion oder zum Schutz der Magenschleimhaut),
-  - 3\. 07.02.10 (Mineralia), 07.02.20 (kombinierte Mineralien), 07.02.30 (einfache Vitamine), 7.07.02.40 (kombinierte Vitamine), 07.02.50 (andere Kombinationen),
-  - 4\.[^4-6] 07.10.10 (einfache entzündungshemmende Mittel), 07.10.20 (kombinierte entzündungshemmende Mittel ohne Corticosteroide: nur Kombinationen von entzündungshemmenden Mitteln und Mitteln zur Hemmung der Magensäuresekretion oder zum Schutz der Magenschleimhaut), 07.10.40 (kutane Mittel: nur solche mit entzündungshemmenden Wirkstoffen),
+  - 3\.[^4-6] 07.02.10 (Mineralia), 07.02.20 (kombinierte Mineralien), 07.02.30 (einfache Vitamine), 07.02.40 (kombinierte Vitamine), 07.02.50 (andere Kombinationen
+  - 4\.[^4-7] 07.10.10 (einfache entzündungshemmende Mittel), 07.10.20 (kombinierte entzündungshemmende Mittel ohne Corticosteroide: nur Kombinationen von entzündungshemmenden Mitteln und Mitteln zur Hemmung der Magensäuresekretion oder zum Schutz der Magenschleimhaut), 07.10.40 (kutane Mittel: nur solche mit entzündungshemmenden Wirkstoffen),
   - 5\. 57.10.10 (Komplementärmedizin: einfache entzündungshemmende Mittel);
 
-- c.[^4-7]
+- c.[^4-8]
 
   der Untersuchung oder Behandlung dienende Mittel und Gegenstände:
 
   - 1\. Produkte der Gruppe 05. Bandagen,
-  - 2\.[^4-8] Produkte der Gruppe 09.02 Geräte für die trans- und perkutane elektrische neuromuskuläre Modulation,
+  - 2\.[^4-9] Produkte der Gruppe 09.02 Geräte für die trans- und perkutane elektrische neuromuskuläre Modulation,
   - 3\. Produkte der Gruppe 16. Kälte- und/oder Wärmetherapie-Mittel,
   - 4\. Produkte der Gruppe 22. Fertigorthesen,
   - 5\. Produkte der Gruppe 23. Massorthesen,
   - 6\. Produkte der Gruppe 35. Verbandmaterial;
 
-- d.[^4-9]
+- d.[^4-10]
 
   Bildgebende Verfahren:
 
@@ -180,18 +180,19 @@ Die Versicherung übernimmt die Kosten der folgenden Leistungen, soweit sie von 
   - 4\. Diagnostischer Ultraschall,
   - 5\. Drei-Phasen-Skelettszintigraphie;
 
-- e.[^4-10] physiotherapeutische Leistungen nach Artikel 5.
+- e.[^4-11] physiotherapeutische Leistungen nach Artikel 5.
 
 [^4-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^4-2]: Fassung gemäss Ziff. I der V des EDI vom 17. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
 [^4-3]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^4-4]: Fassung gemäss Anhang 6 Ziff. II 5 der Arzneimittelverordnung vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 [^4-5]: Fassung gemäss Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
-[^4-6]: Fassung gemäss Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
-[^4-7]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^4-8]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^4-9]: Eingefügt durch Ziff. I der V des EDI vom 10. Juli 2000 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-10]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
+[^4-6]: Berichtigung vom 16. Dez. 2025 ([AS 2025 845](https://fedlex.data.admin.ch/eli/oc/2025/845)).
+[^4-7]: Fassung gemäss Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
+[^4-8]: Fassung gemäss Ziff. I der V des EDI vom 28. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^4-9]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^4-10]: Eingefügt durch Ziff. I der V des EDI vom 10. Juli 2000 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-11]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
 
 ### 4. Abschnitt: Pharmazeutische Leistungen
 

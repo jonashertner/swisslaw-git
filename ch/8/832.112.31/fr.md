@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2025-07-01
+version: 2025-12-16
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20251216/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20251216-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20251216/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250701/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (État le 1<sup>er</sup> juillet 2025)
+du 29 septembre 1995 (État le 16 décembre 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -154,22 +154,22 @@ L’assurance prend en charge les prestations suivantes prescrites par les chiro
 
   - 1\. 01.01.10 (analgésiques antipyrétiques), 01.12 (myotonolytica: par voie orale uniquement),
   - 2\.[^4-5] 04.99 (gastroenterologica, varia: uniquement moyens servant à inhiber la sécrétion d’acide gastrique ou à protéger la muqueuse gastrique),
-  - 3\. 07.02.10 (mineralia), 07.02.20 (minéraux composés), 07.02.30 (vitamines simples), 7.07.02.40 (vitamines composées), 07.02.50 (autres associations),
-  - 4\.[^4-6] 07.10.10 (anti-inflammatoires simples), 07.10.21 (anti-inflammatoires composés sans corticosteroïdes: uniquement associations d’anti-inflammatoires et de moyens servant à inhiber la sécrétion d’acide gastrique ou à protéger la muqueuse gastrique), 07.10.40 (préparations cutanées: uniquement celles contenant des produits actifs anti-inflammatoires),
+  - 3\.[^4-6] 07.02.10 (mineralia), 07.02.20 (minéraux composés), 07.02.30 (vitamines simples), 07.02.40 (vitamines composées), 07.02.50 (autres associations),
+  - 4\.[^4-7] 07.10.10 (anti-inflammatoires simples), 07.10.20 (anti-inflammatoires composés sans corticosteroïdes: uniquement associations d’anti-inflammatoires et de moyens servant à inhiber la sécrétion d’acide gastrique ou à protéger la muqueuse gastrique), 07.10.40 (préparations cutanées: uniquement celles contenant des produits actifs anti-inflammatoires),
   - 5\. 57.10.10 (médecine complémentaire: anti-inflammatoires simples);
 
-- c.[^4-7]
+- c.[^4-8]
 
   moyens et appareils diagnostiques ou thérapeutiques:
 
   - 1\. les produits du groupe 05. Bandages,
-  - 2\.[^4-8] les produits du groupe 09.02 Appareils pour la modulation neuromusculaire électrique trans- et percutanée,
+  - 2\.[^4-9] les produits du groupe 09.02 Appareils pour la modulation neuromusculaire électrique trans- et percutanée,
   - 3\. les produits du groupe 16. Articles pour cryothérapie et/ou thermothérapie,
   - 4\. les produits du groupe 22. Orthèses préfabriquées,
   - 5\. les produits du groupe 23. Orthèses sur mesure,
   - 6\. les produits du groupe 35. Matériel de pansements;
 
-- d.[^4-9]
+- d.[^4-10]
 
   examens par imagerie:
 
@@ -179,18 +179,19 @@ L’assurance prend en charge les prestations suivantes prescrites par les chiro
   - 4\. échographie de diagnostic,
   - 5\. scintigraphie osseuse en trois phases;
 
-- e.[^4-10] prestations de physiothérapie selon l’art. 5.
+- e.[^4-11] prestations de physiothérapie selon l’art. 5.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^4-4]: Nouvelle teneur selon l’annexe 6 ch. II 5 de l’O du 21 sept. 2018 sur les médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
-[^4-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
-[^4-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^4-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^4-9]: Introduite par le ch. I de l’O du DFI du 10 juil. 2000 ([RO 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-10]: Introduite par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+[^4-6]: Erratum du 16 déc. 2025 ([RO 2025 845](https://fedlex.data.admin.ch/eli/oc/2025/845)).
+[^4-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)). Erratum du 16 déc. 2025 ([RO 2025 846](https://fedlex.data.admin.ch/eli/oc/2025/846)).
+[^4-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^4-9]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^4-10]: Introduite par le ch. I de l’O du DFI du 10 juil. 2000 ([RO 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-11]: Introduite par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
 
 ### Section 4 Prestations fournies par les pharmaciens
 

@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2025-07-01
+version: 2025-12-16
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20250701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20251216/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20251216-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20251216/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20250701/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° luglio 2025)
+del 29 settembre 1995 (Stato 16 dicembre 2025)
 
 [^t-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -154,22 +154,22 @@ L’assicurazione assume i costi delle seguenti prestazioni prescritte dai chiro
 
   - 1\. 01.01.10 (Analgesici antipiretici), 01.12 (Miotonolitici: somministrati solo per via orale),
   - 2\.[^4-5] 04.99 (Gastroenterologica, Varia: solo i medicamenti che servono a inibire la secrezione di acidi gastrici o a proteggere la mucosa gastrica),
-  - 3\. 07.02.10 (Minerali), 07.02.20 (Minerali combinati), 07.02.30 (Vitamine sole), 7.02.40 (Vitamine combinate), 07.02.50 (Altre combinazioni),
-  - 4\.[^4-6] 07.10.10 (Antiinfiammatori soli), 07.10.21 (Antiinfiammatori combinati senza corticosteroidi: solo combinazioni di antiinfiammatori, medicamenti che servono a inibire la secrezione di acidi gastrici o a proteggere la mucosa gastrica), 07.10.40 (Medicamenti per uso topico: solo quelli con principi attivi[^4-7] antiinfiammatori),
+  - 3\.[^4-6] 07.02.10 (Minerali), 07.02.20 (Minerali combinati), 07.02.30 (Vitamine sole), 07.02.40 (Vitamine combinate), 07.02.50 (Altre combinazioni),
+  - 4\.[^4-7] 07.10.10 (Antiinfiammatori soli), 07.10.21 (Antiinfiammatori combinati senza corticosteroidi: solo combinazioni di antiinfiammatori, medicamenti che servono a inibire la secrezione di acidi gastrici o a proteggere la mucosa gastrica), 07.10.40 (Medicamenti per uso topico: solo quelli con principi attivi[^4-8] antiinfiammatori),
   - 5\. 57.10.10 (Medicina complementare: antiinfiammatori soli);
 
-- c.[^4-8]
+- c.[^4-9]
 
   mezzi e apparecchi diagnostici o terapeutici:
 
   - 1\. i prodotti del gruppo 05. Bendaggi,
-  - 2\.[^4-9] i prodotti del gruppo 09.02 Apparecchi per la modulazione elettrica neuromuscolare transcutanea e percutanea,
+  - 2\.[^4-10] i prodotti del gruppo 09.02 Apparecchi per la modulazione elettrica neuromuscolare transcutanea e percutanea,
   - 3\. i prodotti del gruppo 16. Mezzi per la crioterapia e/o termoterapia,
   - 4\. i prodotti del gruppo 22. Ortesi prefabbricate,
   - 5\. i prodotti del gruppo 23. Ortesi su misura,
   - 6\. i prodotti del gruppo 35. Materiale per medicazione;
 
-- d.[^4-10]
+- d.[^4-11]
 
   diagnostica per immagini:
 
@@ -179,19 +179,20 @@ L’assicurazione assume i costi delle seguenti prestazioni prescritte dai chiro
   - 4\. ecografia diagnostica,
   - 5\. scintigrafia dello scheletro trifasica;
 
-- e.[^4-11] prestazioni di fisioterapia di cui all’articolo 5.
+- e.[^4-12] prestazioni di fisioterapia di cui all’articolo 5.
 
 [^4-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 23 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^4-2]: Nuovo testo giusta la cifra I dellʼO del DFI del 17 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
 [^4-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^4-4]: Nuovo testo giusta lʼall. 6 cifra II n. 5 dellʼO del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 [^4-5]: Nuovo testo giusta la cifra I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
-[^4-6]: Nuovo testo giusta la cifra I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
-[^4-7]: Nuova espr. giusta la cifra I dellʼO del DFI del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^4-8]: Nuovo testo giusta la cifra I dellʼO del DFI del 28 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^4-9]: Nuovo testo giusta la cifra I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^4-10]: Introdotta dalla cifra I dellʼO del DFI del 10 lug. 2000 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nuovo testo giusta la cifra I dellʼO del DFI del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-11]: Introdotta dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^4-6]: Correzione del 16 dic. 2025 ([RU 2025 845](https://fedlex.data.admin.ch/eli/oc/2025/845)).
+[^4-7]: Nuovo testo giusta la cifra I dellʼO del DFI del 6 giu. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
+[^4-8]: Nuova espr. giusta la cifra I dellʼO del DFI del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^4-9]: Nuovo testo giusta la cifra I dellʼO del DFI del 28 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^4-10]: Nuovo testo giusta la cifra I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^4-11]: Introdotta dalla cifra I dellʼO del DFI del 10 lug. 2000 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nuovo testo giusta la cifra I dellʼO del DFI del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-12]: Introdotta dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 ### Sezione 4: Prestazioni farmaceutiche
 
@@ -328,7 +329,7 @@ L’assicurazione assume i costi delle prestazioni effettuate previa prescrizion
 
 [^tit1-chap2-sec3-1]
 
-[^tit1-chap2-sec3-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^tit1-chap2-sec3-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 #### Art. 7
 
@@ -395,7 +396,7 @@ Devono essere soddisfatte le seguenti condizioni:
 
 [^7-1]: Nuovo testo giusta la cifra I dellʼO del DFI dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 [^7-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^7-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7-4]: Nuovo testo giusta la cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-5]: Nuovo testo giusta la cifra I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-6]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
@@ -405,8 +406,8 @@ Devono essere soddisfatte le seguenti condizioni:
 [^7-10]: Introdotto dalla cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-11]: Nuovo testo giusta la cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-12]: Introdotto dalla cifra I dellʼO del DFI del 20 dic. 2006 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Nuovo testo giusta la cifra I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-13]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
-[^7-14]: Introdotto dalla cifra I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7-13]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7-14]: Introdotto dalla cifra I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7-15]: Introdotto dalla cifra I dellʼO del DFI dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 7a
@@ -442,7 +443,7 @@ Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 letter
 
 <sup>4</sup> Nel caso delle strutture diurne o notturne di cui all’articolo 7 capoverso 2<sup>ter</sup>, l’assicurazione versa per ogni giorno o per ogni notte, per le prestazioni secondo l’articolo 7 capoverso 2, i contributi previsti al capoverso 3.
 
-[^7a-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7a-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7a-2]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 [^7a-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 
@@ -454,7 +455,7 @@ Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 letter
 
 <sup>2</sup> Il Cantone di domicilio versa la sua quotaparte direttamente al fornitore di prestazioni. Le modalità vengono concordate tra il fornitore di prestazioni e il Cantone di domicilio. L’assicuratore e il Cantone di domicilio possono convenire che il Cantone paghi la sua quotaparte all’assicuratore e che quest’ultimo versi entrambe le quoteparti al fornitore di prestazioni. La fatturazione tra il fornitore di prestazioni e l’assicuratore è disciplinata dall’articolo 42 LAMal[^7b-2].
 
-[^7b-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)).
+[^7b-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)).
 [^7b-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
@@ -551,13 +552,13 @@ La procedura di controllo serve a verificare la valutazione dei bisogni e a cont
 
 <sup>2</sup> Le prestazioni di cui all’articolo 7 capoverso 2 effettuate nelle case di cura devono essere fatturate secondo il bisogno di cure.
 
-[^9-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^9-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 #### Art. 9a
 
 [^9a-1]
 
-[^9a-1]: Introdotto dalla cifra I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dalla cifra I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^9a-1]: Introdotto dalla cifra I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dalla cifra I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 ### Sezione 3*a*: Consulenza nutrizionale
 
