@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2025-08-01
+version: 2025-12-17
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20251217/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20251217-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. August 2025)
+vom 15. August 2018 (Stand am 17. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^ingr
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 1. Abschnitt: Gegenstand, Geltungsbereich und Begriffe
 
@@ -231,7 +231,7 @@ Ein Reisedokument wird vom SEM anerkannt, wenn es folgende Voraussetzungen erfü
 [^6-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-4]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-4]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 7
 
@@ -270,17 +270,17 @@ In Abweichung von Absatz 3 gelten bei Aufenthalten mit Erwerbstätigkeit folgend
 
 <sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) passt Anhang 3 an, sobald die Schweiz über den Abschluss eines Abkommens zwischen der EU und einem der in Anhang II der Verordnung (EU) 2018/1806 genannten Staaten oder einer der dort genannten Gebietskörperschaften zur Aufhebung der Visumpflicht informiert worden ist.[^8-13]
 
-[^8-1]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind, ABl. L 303 vom 28.11.2018, S. 39; zuletzt geändert durch Verordnung (EU) 2025/11, ABl. L, 2025/11, 14.1.2025.
-[^8-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 4. Febr. 2025 ([AS 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
+[^8-1]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind, ABl. L 303 vom 28.11.2018, S. 39; zuletzt geändert durch Verordnung (EU) 2025/2441, ABl L, 2025/2441, 10.12.2025.
+[^8-2]: Fassung gemäss Ziff. I der V vom 5. Dez. 2025, in Kraft seit 17. Dez. 2025 ([AS 2025 804](https://fedlex.data.admin.ch/eli/oc/2025/804)).
 [^8-3]: Siehe Fussnote zu Art. 3 Abs. 1.
 [^8-4]: Beschluss 94/795/JI des Rates vom 30. November 1994 über die vom Rat aufgrund von Artikel K.3 Absatz 2 Buchstabe b) des Vertrages über die Europäische Union beschlossene gemeinsame Massnahme über Reiseerleichterungen für Schüler von Drittstaaten mit Wohnsitz in einem Mitgliedstaat, Fassung gemäss ABl. L 327 vom 19.12.1994, S. 1.
 [^8-5]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-6]: [SR 0.142.37](https://fedlex.data.admin.ch/eli/cc/63/177_173_177)
-[^8-7]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^8-6]: [SR 0.142.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/438)
+[^8-7]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 [^8-8]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-9]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^8-9]: [SR 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 [^8-10]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^8-11]: [SR 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428), Anhang
+[^8-11]: [SR 0.510.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1864), Anhang
 [^8-12]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
 [^8-13]: Fassung gemäss Ziff. I der V vom 16. Jan. 2019, in Kraft seit 15. Febr. 2019 ([AS 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
@@ -344,8 +344,8 @@ Gestützt auf Artikel 3 Absatz 5 des Visakodex sind folgende Personen von der Vi
 [^10-4]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^10-5]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 23. Aug. 2024 ([AS 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 [^10-6]: [SR 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)
-[^10-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^10-8]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^10-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^10-8]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^10-9]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 ## 3. Abschnitt: Visa für kurzfristige Aufenthalte und Visa für den Flughafentransit
@@ -377,7 +377,7 @@ Ein Visum für einen kurzfristigen Aufenthalt wird in folgenden Fällen erteilt:
 
 <sup>2</sup> Sie können zudem verwendet werden, um die Identität der Gesuchstellerin oder des Gesuchstellers nach Artikel 102 Absatz 1 AIG festzustellen.
 
-[^13-1]: [SR 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
+[^13-1]: [SR 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 
 #### Art. 14
 
@@ -395,7 +395,7 @@ Eine Verpflichtungserklärung abgeben können:
 - b. Ausländerinnen und Ausländer mit einer Aufenthaltsbewilligung (Art. 33 AIG) oder einer Niederlassungsbewilligung (Art. 34 AIG);
 - c. im Handelsregister eingetragene juristische Personen.
 
-[^14-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^14-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 15
 
@@ -456,7 +456,7 @@ Mit Zustimmung der zuständigen Bewilligungsbehörden können Ausländerinnen un
 Für die Bearbeitung eines Visumgesuchs für einen kurzfristigen Aufenthalt oder für den Flughafentransit wird eine Gebühr erhoben nach Artikel 16 des Visakodex[^19-1] und nach der Gebührenverordnung AIG vom 24. Oktober 2007[^19-2] (GebV-AIG).
 
 [^19-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
-[^19-2]: [SR 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
+[^19-2]: [SR 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
 
 #### Art. 20
 
@@ -486,7 +486,7 @@ Ein Rückreisevisum wird erteilt, wenn:
 - b. der Ausländerin oder dem Ausländer der Aufenthalt im Verlauf des Bewilligungsverfahrens nach Artikel 17 Absatz 2 AIG gestattet wurde; oder
 - c. die Voraussetzungen nach den Artikeln 7 und 9 der Verordnung vom 14. November 2012[^21-1] über die Ausstellung von Reisedokumenten für ausländische Personen erfüllt sind.
 
-[^21-1]: [SR 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^21-1]: [SR 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 
 #### Art. 22
 
@@ -523,7 +523,7 @@ Das SEM bestimmt die Liste der erforderlichen Dokumente zum Nachweis, dass die V
 
 Für die Behandlung von Visumgesuchen für einen längerfristigen Aufenthalt wird eine Gebühr nach der GebV-AIG[^25-1] erhoben.
 
-[^25-1]: [SR 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
+[^25-1]: [SR 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
 
 #### Art. 26
 
@@ -544,7 +544,7 @@ Für die Behandlung von Visumgesuchen für einen längerfristigen Aufenthalt wir
 <sup>2</sup> In Abweichung von Absatz 1 und nach Artikel 18 Absatz 2 des Schengener Durchführungsübereinkommens[^27-1] kann Ausländerinnen und Ausländern, die innerhalb von zwölf Monaten insgesamt längstens vier Monate in der Schweiz erwerbstätig sind (Art. 19 Abs. 4 Bst. a der Verordnung vom 24. Oktober 2007[^27-2] über Zulassung, Aufenthalt und Erwerbstätigkeit), ein Visum für einen längerfristigen Aufenthalt mit einer Gültigkeitsdauer von 120 Tagen erteilt werden.
 
 [^27-1]: Übereinkommen vom 14. Juni 1985 zur Durchführung des Übereinkommens von Schengen zwischen den Regierungen der Staaten der Benelux-Wirtschaftsunion, der Bundesrepublik Deutschland und der Französischen Republik betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen; ABl. L 239 vom 22.9.2000, S. 19.
-[^27-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^27-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 ## 5. Abschnitt: Verfahren an der Grenze
 
@@ -555,7 +555,7 @@ Für die Behandlung von Visumgesuchen für einen längerfristigen Aufenthalt wir
 Die Regelung der Ein- und der Ausreise richtet sich nach dem Schengener Grenzkodex[^28-1]. Vorbehalten bleiben die zollrechtlichen Vorschriften nach dem Zollgesetz vom 18. März 2005[^28-2] und die entsprechenden Ausführungsbestimmungen.
 
 [^28-1]: Siehe Fussnote zu Art. 3 Abs. 1.
-[^28-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^28-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 29
 
@@ -579,7 +579,7 @@ Die Regelung der Ein- und der Ausreise richtet sich nach dem Schengener Grenzkod
 <sup>2</sup> Das SEM erlässt Weisungen zur Abgrenzung der Kontrollen nach Absatz 1 von den Grenzkontrollen an den Schengener Aussengrenzen.
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^29a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^29a-3]: Siehe Fussnote zu Art. 3 Abs. 1.
 
 #### Art. 30
@@ -607,7 +607,7 @@ Die Regelung der Ein- und der Ausreise richtet sich nach dem Schengener Grenzkod
 
 <sup>4</sup> Die Kantone können die für die Grenzkontrollen zuständigen Mitarbeitenden des BAZG ermächtigen, die Wegweisungsverfügung nach Artikel 64 Absatz 1 Buchstaben a und b AIG zu erlassen und zu eröffnen.[^31-4]
 
-[^31-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^31-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^31-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^31-3]: Aufgehoben durch Ziff. I der V vom 1. Mai 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
 [^31-4]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
@@ -703,7 +703,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34-2]: Vgl. die Fussnote zu Art. 1 Abs. 4 Bst. b<sup>bis</sup>
-[^34-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-5]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
@@ -766,7 +766,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34a-2]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, Fassung gemäss ABl. L 236 vom 19.9.2018, S. 1.
-[^34a-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34a-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34a-4]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34a-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34a-6]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
@@ -798,7 +798,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 [^34b-1]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
-[^34b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34b-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34b-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^34b-5]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34b-6]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
@@ -828,7 +828,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 [^34c-1]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34c-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. d.
 [^34c-3]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. e.
-[^34c-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34c-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34c-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34c-6]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
@@ -847,7 +847,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 [^34d-1]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34d-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. f.
-[^34d-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34d-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34d-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34d-5]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. g.
 
@@ -884,7 +884,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 [^34e-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34e-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. h.
-[^34e-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34e-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34e-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34e-5]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34e-6]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
@@ -909,7 +909,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen betreffen
 
 [^34f-1]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34f-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. i.
-[^34f-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34f-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34f-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. j.
 
 #### Art. 34g
@@ -920,7 +920,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 [^34g-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^34g-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. k.
-[^34g-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34g-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34h
 
@@ -930,7 +930,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 [^34h-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34h-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. l.
-[^34h-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34h-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34i
 
@@ -953,7 +953,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 [^34i-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^34i-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
-[^34i-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34i-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34j
 
@@ -966,7 +966,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 [^34j-1]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^34j-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. n.
-[^34j-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34j-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34k
 
@@ -993,7 +993,7 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 [^34k-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
 [^34k-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. o.
-[^34k-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34k-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 35
 
@@ -1042,7 +1042,7 @@ Das EDA ist zuständig für die Bewilligung oder Verweigerung der Einreise in di
 
 <sup>3</sup> Das EDA erlässt Weisungen zu den Visa in seinem Zuständigkeitsbereich.
 
-[^38-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^38-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 39
 
@@ -1355,12 +1355,12 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - e. Abkommen vom 28. April 2005[^annex1-lvlu1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - f. Protokoll vom 28. Februar 2008[^annex1-lvlu1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annex1-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex1-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 Anhang 2[^t-1]
 

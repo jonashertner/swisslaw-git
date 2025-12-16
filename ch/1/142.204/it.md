@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2025-08-01
+version: 2025-12-17
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20251217/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20251217-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° agosto 2025)
+del 15 agosto 2018 (Stato 17 dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge federale del 16 dicembre 2005[^ingress-1] sugli stranieri e la lo
 
 ordina:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 1: Oggetto, campo d’applicazione e definizioni
 
@@ -231,7 +231,7 @@ Un documento di viaggio è riconosciuto dalla SEM se soddisfa i requisiti seguen
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^6-2]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^6-3]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-4]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 7
 
@@ -270,17 +270,17 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 
 <sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) adegua l’allegato 3 non appena la Svizzera è informata in merito alla conclusione di un accordo in materia di esenzione dall’obbligo del visto tra l’UE e uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806.[^8-13]
 
-[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo dal regolamento (UE) 2025/11, GU L, 2025/11, 14.1.2025.
-[^8-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 4 feb. 2025 ([RU 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
+[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo dal regolamento (UE) 2025/2441, GU L, 2025/2441, 10.12.2025.
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2025, in vigore dal 17 dic. 2025 ([RU 2025 804](https://fedlex.data.admin.ch/eli/oc/2025/804)).
 [^8-3]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 [^8-4]: Decisione del Consiglio, del 30 nov. 1994, relativa a un’azione comune adottata dal Consiglio sulla base dell’art. K.3, par. 2, lett. b) del trattato sull’Unione europea in materia di agevolazioni per i viaggi compiuti da scolari di paesi terzi residenti in uno Stato membro (94/795/GAI), versione della GU L 327 del 19.12.1994, pag. 1.
 [^8-5]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-6]: [RS 0.142.37](https://fedlex.data.admin.ch/eli/cc/63/177_173_177)
-[^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^8-6]: [RS 0.142.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/438)
+[^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 [^8-8]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 [^8-10]: Introdotta dalla cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428), allegato
+[^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1864), allegato
 [^8-12]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
 [^8-13]: Nuovo testo giusta la cifra I dell’O del 16 gen. 2019, in vigore dal 15 feb. 2019 ([RU 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
@@ -344,8 +344,8 @@ In virtù dell’articolo 3 paragrafo 5 del codice dei visti, le seguenti person
 [^10-4]: Nuovo testo giusta la cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^10-5]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 [^10-6]: [RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)
-[^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^10-9]: Introdotto dalla cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 ## Sezione 3: Visto per soggiorni di breve durata e visto di transito aeroportuale
@@ -377,7 +377,7 @@ Un visto per soggiorni di breve durata è rilasciato nei casi seguenti:
 
 <sup>2</sup> Possono inoltre essere utilizzate per stabilire l’identità del richiedente conformemente all’articolo 102 capoverso 1 LStrI.
 
-[^13-1]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
+[^13-1]: [RS 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 
 #### Art. 14
 
@@ -395,7 +395,7 @@ Possono farsi garanti:
 - b. gli stranieri titolari di un permesso di dimora (art. 33 LStrI) o di domicilio (art. 34 LStrI);
 - c. le persone giuridiche iscritte al registro del commercio.
 
-[^14-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^14-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 15
 
@@ -455,7 +455,7 @@ Gli stranieri possono, d’intesa con l’autorità competente per il rilascio d
 Per il trattamento di una domanda di visto per soggiorni di breve durata o di visto di transito aeroportuale è percepito un emolumento conformemente all’articolo 16 del codice dei visti[^19-1] e all’ordinanza del 24 ottobre 2007[^19-2] sugli emolumenti LStrI (OEmol‑LStrI).
 
 [^19-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
-[^19-2]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
+[^19-2]: [RS 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
 
 #### Art. 20
 
@@ -485,7 +485,7 @@ Un visto per soggiorni di lunga durata è rilasciato nei casi seguenti:
 - b. il soggiorno dello straniero è stato autorizzato nel quadro della procedura di cui all’articolo 17 capoverso 2 LStrI; oppure
 - c. sono adempiute le condizioni di cui agli articoli 7 e 9 dell’ordinanza del 14 novembre 2012[^21-1] concernente il rilascio di documenti di viaggio per stranieri.
 
-[^21-1]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^21-1]: [RS 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 
 #### Art. 22
 
@@ -522,7 +522,7 @@ La SEM definisce la lista dei documenti necessari per dimostrare che sono soddis
 
 Per il trattamento di una domanda di visto per soggiorni di lunga durata è percepito un emolumento conformemente all’OEmol-LStrI[^25-1].
 
-[^25-1]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
+[^25-1]: [RS 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
 
 #### Art. 26
 
@@ -543,7 +543,7 @@ Per il trattamento di una domanda di visto per soggiorni di lunga durata è perc
 <sup>2</sup> In deroga al capoverso 1 e conformemente all’articolo 18 paragrafo 2 della Convenzione di applicazione dell’Accordo di Schengen[^27-1], un visto per soggiorni di lunga durata con un periodo di validità di 120 giorni può essere rilasciato agli stranieri che in un arco di tempo di 12 mesi esercitano un’attività lucrativa in Svizzera per complessivi quattro mesi (art. 19 cpv. 4 lett. a dell’ordinanza del 24 ottobre 2007[^27-2] sull’ammissione, il soggiorno e l’attività lucrativa).
 
 [^27-1]: Convenzione, del 14 giu. 1985, di applicazione dell’Accordo di Schengen tra i governi degli Stati dell’Unione economica Benelux, della Repubblica federale di Germania e della Repubblica francese relativo all’eliminazione graduale dei controlli alle frontiere comuni; GU L 239 del 22.09.2000 pag. 19.
-[^27-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^27-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 ## Sezione 5: Procedura alla frontiera
 
@@ -554,7 +554,7 @@ Per il trattamento di una domanda di visto per soggiorni di lunga durata è perc
 Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono fatte salve le disposizioni della legge del 18 marzo 2005[^28-2] sulle dogane e le pertinenti disposizioni d’esecuzione.
 
 [^28-1]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
-[^28-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^28-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 29
 
@@ -578,7 +578,7 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 <sup>2</sup> La SEM emana istruzioni per delimitare i controlli di cui al capoverso 1 dai controlli alle frontiere esterne Schengen.
 
 [^29a-1]: Introdotto dalla cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^29a-3]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 
 #### Art. 30
@@ -606,7 +606,7 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 
 <sup>4</sup> I Cantoni possono abilitare i collaboratori dell’UDSC responsabili dei controlli alle frontiere a emanare e notificare la decisione di allontanamento di cui all’articolo 64 capoverso 1 lettere a e b LStrI.[^31-4]
 
-[^31-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^31-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^31-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^31-3]: Abrogato dalla cifra I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
 [^31-4]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
@@ -702,7 +702,7 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 
 [^34-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34-2]: Cfr. la nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b<sup>bis</sup>.
-[^34-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34-4]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-5]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-6]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
@@ -765,7 +765,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 [^34a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34a-2]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 set. 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, versione della GU L 236 del 19.9.2018, pag. 1.
-[^34a-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34a-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34a-4]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34a-5]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34a-6]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
@@ -797,7 +797,7 @@ Essa ha la competenza di concludere trattati internazionali in vista del recepim
 
 [^34b-1]: Introdotto dalla cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
-[^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34b-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^34b-5]: Introdotta dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34b-6]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
@@ -827,7 +827,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34c-1]: Introdotto dalla cifra I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34c-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. d.
 [^34c-3]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. e.
-[^34c-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34c-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34c-5]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34c-6]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
@@ -846,7 +846,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 [^34d-1]: Introdotto dalla cifra I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34d-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. f.
-[^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34d-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34d-5]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. g.
 
@@ -883,7 +883,7 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 
 [^34e-1]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34e-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. h.
-[^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34e-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34e-5]: Introdotta dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34e-6]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
@@ -908,7 +908,7 @@ Ha la competenza di concludere trattati internazionali concernenti gli atti di e
 
 [^34f-1]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34f-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. i.
-[^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34f-4]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. j.
 
 #### Art. 34g
@@ -919,7 +919,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 [^34g-1]: Introdotto dalla cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^34g-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. k.
-[^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art 34h
 
@@ -929,7 +929,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 [^34h-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34h-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. l.
-[^34h-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34h-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34i
 
@@ -952,7 +952,7 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 
 [^34i-1]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^34i-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. m.
-[^34i-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34i-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34j
 
@@ -965,7 +965,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 [^34j-1]: Introdotto dalla cifra I dell’O del 26 feb. 2025, in vigore dal 1° apr. 2025 ([RU 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^34j-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. n.
-[^34j-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34j-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34k
 
@@ -992,7 +992,7 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 
 [^34k-1]: Introdotto dalla cifra I dell’O del 20 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
 [^34k-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. o.
-[^34k-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34k-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 35
 
@@ -1041,7 +1041,7 @@ Il DFAE ha la competenza di autorizzare o rifiutare l’entrata in Svizzera dell
 
 <sup>3</sup> Il DFAE emana istruzioni in materia di visti rientranti nel proprio ambito di competenza.
 
-[^38-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^38-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 39
 
@@ -1354,12 +1354,12 @@ Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
 - e. Accordo del 28 aprile 2005[^annex1-lvlu1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
 - f. Protocollo del 28 febbraio 2008[^annex1-lvlu1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
-[^annex1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex1-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 Allegato 2[^t-1]
 

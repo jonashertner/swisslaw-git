@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2025-08-01
+version: 2025-12-17
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20250801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20251217/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20251217-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20251217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20250801/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 1<sup>er</sup> août 2025)
+du 15 août 2018 (État le 17 décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration
 
 arrête:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 1 Objet, champ d’application et définitions
 
@@ -230,7 +230,7 @@ Un document de voyage est reconnu par le SEM s’il remplit les conditions suiva
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6-4]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 #### Art. 7
 
@@ -269,17 +269,17 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 
 <sup>5</sup> Le Département fédéral de justice et police (DFJP) adapte l’annexe 3 dès que la Suisse est informée de la conclusion d’un accord sur la levée de l’obligation de visa entre l’UE et l’un des États ou l’une des entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806.[^8-13]
 
-[^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2025/11, JO L, 2025/11, 14.1.2025.
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2025, en vigueur depuis le 4 fév. 2025 ([RO 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
+[^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2025/2441, JO L, 2025/2441, 10.12.2025.
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2025, en vigueur depuis le 17 déc. 2025 ([RO 2025 804](https://fedlex.data.admin.ch/eli/oc/2025/804)).
 [^8-3]: Cf. note de bas de page relative à l’art. 3, al. 1.
 [^8-4]: Décision du Conseil du 30 novembre 1994 relative à une action commune adoptée par le Conseil sur la base de l’article K.3 paragraphe 2 point b) du traité sur l’Union européenne en ce qui concerne les facilités de déplacement des écoliers ressortissants de pays tiers résidant dans un État membre (94/795/JAI), version du JO L 327 du 19.12.1994, p. 1.
 [^8-5]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-6]: [RS 0.142.37](https://fedlex.data.admin.ch/eli/cc/63/177_173_177)
-[^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
+[^8-6]: [RS 0.142.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/438)
+[^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 [^8-8]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 [^8-10]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428)**,** annexe
+[^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1864)**,** annexe
 [^8-12]: Nouvelle teneur selon le ch. I de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 [^8-13]: Nouvelle teneur selon le ch. I de l’O du 16 janv. 2019, en vigueur depuis le 15 fév. 2019 ([RO 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
@@ -342,9 +342,9 @@ Conformément à l’art. 3, par. 5, du code des visas, les personnes suivantes 
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 23 août 2024 ([RO 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^10-5]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 23 août 2024 ([RO 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
-[^10-6]: [[RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
-[^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^10-6]: [RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)
+[^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/261)
+[^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^10-9]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 ## Section 3 Visa de court séjour et visa de transit aéroportuaire
@@ -376,7 +376,7 @@ Un visa de court séjour est octroyé dans les cas suivants:
 
 <sup>2</sup> Elles peuvent en outre être utilisées pour établir l’identité du demandeur conformément à l’art. 102, al. 1, LEI.
 
-[^13-1]: [RS 142.512](https://fedlex.data.admin.ch/eli/cc/2014/2)
+[^13-1]: [RS 142.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4899)
 
 #### Art. 14
 
@@ -394,7 +394,7 @@ Peuvent se porter garant:
 - b. les étrangers titulaires d’une autorisation de séjour (art. 33 LEI) ou d’une autorisation d’établissement (art. 34 LEI);
 - c. les personnes morales inscrites au registre du commerce.
 
-[^14-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^14-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 15
 
@@ -454,7 +454,7 @@ L’étranger peut, avec l’assentiment des autorités compétentes en matière
 Pour le traitement d’une demande de visa de court séjour ou de transit aéroportuaire, un émolument est perçu conformément à l’art. 16 du code des visas[^19-1] et au tarif des émoluments LEI du 24 octobre 2007 (Oem-LEI)[^19-2].
 
 [^19-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
-[^19-2]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
+[^19-2]: [RS 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
 
 #### Art. 20
 
@@ -484,7 +484,7 @@ Un visa de retour est octroyé:
 - b. si le séjour a été autorisé dans le cadre de la procédure d’autorisation visée à l’art. 17, al. 2, LEI, ou
 - c. si les conditions visées aux art. 7 et 9 de l’ordonnance du 14 novembre 2012 sur l’établissement de documents de voyage pour étrangers[^21-1] sont remplies.
 
-[^21-1]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^21-1]: [RS 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 
 #### Art. 22
 
@@ -521,7 +521,7 @@ Le SEM fixe la liste des documents nécessaires pour prouver que les conditions 
 
 Pour le traitement d’une demande de visa de long séjour, un émolument est perçu conformément à l’Oem-LEI[^25-1].
 
-[^25-1]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
+[^25-1]: [RS 142.209](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4858)
 
 #### Art. 26
 
@@ -542,7 +542,7 @@ Pour le traitement d’une demande de visa de long séjour, un émolument est pe
 <sup>2</sup> En dérogation à l’al. 1 et conformément à l’art. 18, par. 2, de la Convention d’application de l’accord de Schengen[^27-1], un visa de long séjour d’une durée de validité de 120 jours peut être octroyé aux étrangers qui exercent une activité lucrative en Suisse durant un total de quatre mois au maximum sur une période de douze mois (art. 19, al. 4, let. a, de l’O du 24 oct. 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative[^27-2]).
 
 [^27-1]: Convention d’application de l’Accord de Schengen du 14 juin 1985 entre les gouvernements des États de l’Union économique Benelux, de la République fédérale d’Allemagne et de la République française relatif à la suppression graduelle des contrôles aux frontières communes; JO L 239 du 22.9.2000 p. 19.
-[^27-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^27-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
 
 ## Section 5 Procédure à la frontière
 
@@ -553,7 +553,7 @@ Pour le traitement d’une demande de visa de long séjour, un émolument est pe
 L’entrée en Suisse et la sortie de Suisse sont régies par le code frontières Schengen[^28-1]. Sont réservées les dispositions de la loi du 18 mars 2005 sur les douanes[^28-2] et les dispositions d’exécution y relatives.
 
 [^28-1]: Cf. note de bas de page relative à l’art. 3, al. 1.
-[^28-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^28-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 29
 
@@ -577,7 +577,7 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 <sup>2</sup> Le SEM édicte des directives pour délimiter les contrôles visés à l’al. 1 des contrôles aux frontières extérieures de l’espace Schengen.
 
 [^29a-1]: Introduit par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^29a-3]: Cf. note de bas de page relative à l’art. 3, al. 1.
 
 #### Art. 30
@@ -605,7 +605,7 @@ L’entrée en Suisse et la sortie de Suisse sont régies par le code frontière
 
 <sup>4</sup> Les cantons peuvent habiliter les collaborateurs de l’OFDF chargés des contrôles aux frontières à rendre et à notifier la décision de renvoi visée à l’art. 64, al. 1, let. a et b, LEI.[^31-4]
 
-[^31-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^31-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^31-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
 [^31-4]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
@@ -701,7 +701,7 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 13 févr. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34-2]: Cf. note de bas de page de l’art. 1, al. 4, let. b<sup>bis</sup>.
-[^34-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34-4]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-5]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34-6]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
@@ -764,7 +764,7 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 [^34a-1]: Introduit par le ch. I de l’O du 13 févr. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34a-2]: Cf. note de bas de page de l’art. 1, al. 4, let. b<sup>bis</sup>.
-[^34a-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34a-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34a-4]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34a-5]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34a-6]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
@@ -796,7 +796,7 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 
 [^34b-1]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
-[^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34b-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^34b-5]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34b-6]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
@@ -826,7 +826,7 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 [^34c-1]: Introduit par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34c-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. d.
 [^34c-3]: Cf. note de bas de page relative à l’art. 1, al. 4, let. e.
-[^34c-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34c-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34c-5]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34c-6]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
@@ -845,7 +845,7 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 [^34d-1]: Introduit par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34d-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. f.
-[^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34d-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34d-5]: Cf. note de bas de page relative à l’art. 1, al. 4, let. g.
 
@@ -882,7 +882,7 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 [^34e-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34e-2]: Cf. note de bas de page de l’art. 1, al. 4, let. h.
-[^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34e-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34e-5]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34e-6]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
@@ -907,7 +907,7 @@ Il est compétent pour conclure des traités internationaux concernant les actes
 
 [^34f-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34f-2]: Cf. note de bas de page de l’art. 1, al. 4, let. i.
-[^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34f-4]: Cf note de bas de page de l’art. 1, al. 4, let. j.
 
 #### Art. 34g
@@ -918,7 +918,7 @@ Le SEM a compétence pour conclure des traités internationaux en vue de la repr
 
 [^34g-1]: Introduit par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^34g-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. k.
-[^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art 34h
 
@@ -928,7 +928,7 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 [^34h-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34h-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. l.
-[^34h-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34h-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34i
 
@@ -951,7 +951,7 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 
 [^34i-1]: Introduit par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^34i-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
-[^34i-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34i-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34j
 
@@ -964,7 +964,7 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 [^34j-1]: Introduit par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
 [^34j-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. n.
-[^34j-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34j-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 34k
 
@@ -991,7 +991,7 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 
 [^34k-1]: Introduit par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
 [^34k-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. o.
-[^34k-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34k-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 35
 
@@ -1040,7 +1040,7 @@ Le DFAE est compétent pour autoriser ou refuser l’entrée en Suisse des perso
 
 <sup>3</sup> Le DFAE édicte les directives en matière de visas dans son domaine de compétence.
 
-[^38-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^38-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 39
 
@@ -1353,12 +1353,12 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - e. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex1-lvlu1-5];
 - f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex1-lvlu1-6].
 
-[^annex1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex1-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex1-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex1-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 Annexe 2[^t-1]
 
