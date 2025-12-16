@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.462 n Pa. Iv. Grossen Jürg. Klare Spielregeln für Bundesunternehmen im Wettbewerb mit Privaten
 document: Vernehmlassungsvorlage
 language: de

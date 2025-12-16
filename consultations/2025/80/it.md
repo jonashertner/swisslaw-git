@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.462 n Iv. pa. Grossen Jürg. Regole chiare per le imprese della Confederazione in concorrenza con privati
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 23.462 n Iv. pa. Grossen Jürg. Entreprises fédérales en concurrence avec le secteur privé. Clarifier les règles du jeu
 document: Projet mis en consultation
 language: fr
