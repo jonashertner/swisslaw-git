@@ -4,13 +4,12 @@ number: "152.110"
 title: Ausführungsbestimmungen zum Gesetz über die Geschäftsordnung des Grossen Rates
 short: AB
 language: de
-version: 2025-11-01
-valid_until: 2025-12-17
-version_adopted: 2025-03-26
+version: 2025-12-18
+version_adopted: 2025-12-10
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6676/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6716/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Geschäftsordnung des Grossen Rates: Ausführungsbestimmungen | Grosser Rat / Om
 
 (AB)
 
-Vom 29. Juni 2006 (Stand 1. November 2025)
+Vom 29. Juni 2006 (Stand 18. Dezember 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -141,7 +140,7 @@ Für jede halbtägige Sitzung im Plenum:
 - b) Statthalterin oder Statthalter — CHF 300;
 - c) übrige Ratsmitglieder — CHF 200.
 
-<sup>2</sup> Die Mitglieder des Grossen Rates erhalten pro Amtsjahr einen Grundbetrag von CHF 6'000. Die Präsidentin oder der Präsident erhält zudem eine einmalige Repräsentations- und Aufwandentschädigung von CHF 12'000.
+<sup>2</sup> Die Mitglieder des Grossen Rates erhalten pro Amtsjahr einen Grundbetrag von CHF 6'000. Die Präsidentin oder der Präsident erhält zudem eine einmalige Repräsentations- und Aufwandentschädigung von CHF 20'000.
 
 <sup>3</sup> Die Mitglieder der Finanzkommission und der Geschäftsprüfungskommission erhalten zusätzlich pro Amtsjahr eine Aufwandentschädigung von CHF 2'000.
 
@@ -151,7 +150,7 @@ Für jede halbtägige Sitzung im Plenum:
 - b) protokollführendes Ratsmitglied — CHF 300;
 - c) übrige Ratsmitglieder — CHF 200.
 
-<sup>5</sup> Die genannten Ansätze sind die netto ausbezahlten Beträge.
+<sup>5</sup> Auf die genannten Ansätze werden die Beiträge für die berufliche Vorsorge abgezogen, nicht aber die Beiträge an die Ausgleichskasse.
 
 #### § 11a
 
@@ -191,7 +190,7 @@ Für jede halbtägige Sitzung im Plenum:
 
 <sup>1</sup> Den Fraktionen werden folgende Beiträge ausgerichtet:
 
-- a) Grundbetrag für jede Fraktion pro Amtsjahr CHF 10'000;
+- a) Grundbetrag für jede Fraktion pro Amtsjahr CHF 15'000;
 - b) Zusatzbetrag für jedes Mitglied pro Amtsjahr CHF 500.
 
 #### § 15
