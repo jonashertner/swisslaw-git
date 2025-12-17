@@ -3,20 +3,19 @@ canton: OW
 number: "133.111"
 title: Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 language: de
-version: 2025-01-01
-valid_until: 2025-12-17
-version_adopted: 2024-12-17
+version: 2025-12-18
+version_adopted: 2025-12-16
 adopted: 2002-06-04
 in_force: 2002-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/133.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1926/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1961/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente
 
-vom 04.06.2002 (Stand 01.01.2025)
+vom 04.06.2002 (Stand 18.12.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -185,8 +184,8 @@ beschliesst:
   - 1\. Aussenbeziehungen: Konferenz der Kantonsregierungen (KdK), Zentralschweizer Regierungskonferenz (ZRK), Europa,
   - 2\. Koordinationsstelle für Wirtschaftsfragen,
   - 3\.–4. …
-  - 5\. Sozialversicherungen der Ausgleichskasse (AHV, IV, EO, eingeschlossen Ergänzungsleistungen und Familienausgleichskasse sowie ÜLG),
-  - 6\. Prämienverbilligung in der Krankenversicherung;
+  - 5\. Sozialversicherungen der Ausgleichskasse (AHV, IV, EO, eingeschlossen Ergänzungsleistungen und Familienausgleichskasse sowie ÜLG), Prämienverbilligung in der Krankenversicherung,
+  - 6\. …
 - b. Volkswirtschaftsamt:
   - 1\. Wirtschaftsförderung: Neue Regionalpolitik und Bürgschaftsgenossenschaft für KMU,
   - 2\. Binnenmarkt und WTO (Welthandelsabkommen GATT/GATS/TRIPS), Submissionsvorschriften,
@@ -236,7 +235,7 @@ beschliesst:
 
 <sup>2</sup> Dem Volkswirtschaftsdepartement ist zugewiesen:
 
-- a. Ausgleichskasse;
+- a. Ausgleichskasse (mit Vollzug Prämienverbilligung in der Krankenversicherung);
 - b. …
 
 #### Art. 5
@@ -402,6 +401,8 @@ geändert durch:
 
 \- Nachtrag vom 15. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 24),
 
-\- Nachtrag zu den AB über das Interne Kontrollsystem IKS vom 17. Dezember 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 44)
+\- Nachtrag zu den AB über das Interne Kontrollsystem IKS vom 17. Dezember 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 44),
+
+\- Nachtrag vom 16. September 2025, in Kraft seit 18. Dezember 2025 (OGS 2025, 32)
 
 OGS 2002, 33
