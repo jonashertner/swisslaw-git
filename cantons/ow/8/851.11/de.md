@@ -4,13 +4,13 @@ number: "851.11"
 title: Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz
 short: EV KVG
 language: de
-version: 2022-01-01
-valid_until: 2025-12-17
-version_adopted: 2021-06-25
+version: 2025-12-18
+valid_until: 2026-05-31
+version_adopted: 2025-03-20
 adopted: 1999-01-28
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/851.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1932/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1966/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1932/pdf_file"
 
 (EV KVG)
 
-vom 28.01.1999 (Stand 01.01.2022)
+vom 28.01.1999 (Stand 18.12.2025)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -42,7 +42,7 @@ beschliesst:
 - c. über die Mitwirkung des Kantons an der Institution der Versicherer zur Förderung der Gesundheit und zur Verhütung von Krankheiten entscheidet (Art. 19 Abs. 2 KVG);
 - d. bei Bedarf eine Liste säumiger Prämienzahlerinnen und Prämienzahler (Art. 64a Abs. 7 KVG) einführt.
 
-<sup>2</sup> Er bestimmt die für die Prämienverbilligung in ​der Krankenversicherung und für die ​Koordination gemäss Art. 64a KVG zuständigen kantonalen Amtsstellen.
+<sup>2</sup> Er bestimmt die für die Prämienverbilligung in ​der Krankenversicherung und für die ​Koordination gemäss Art. 64a KVG zuständigen kantonalen Stellen.
 
 [^1-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
@@ -50,26 +50,28 @@ beschliesst:
 
 **b. Zuständiges Departement**
 
-<sup>1</sup> Das zuständige Departement vollzieht dieses Gesetz im Zuständigkeitsbereich des Kantons, soweit keine andere Vollzugsbehörde bestimmt ist. Ihm obliegen insbesondere folgende Aufgaben:
+<sup>1</sup> Das Sicherheits- und Sozialdepartement vollzieht dieses Gesetz im Zuständigkeitsbereich des Kantons, soweit keine andere Vollzugsbehörde bestimmt ist. Ihm obliegen insbesondere folgende Aufgaben:
 
-- a. die Bevölkerung über die Versicherungspflicht und die Prämienverbilligung allgemein zu informieren;
+- a. die Bevölkerung über die Versicherungspflicht und die Prämienverbilligung[^2-1] allgemein zu informieren;
 - b. Ausnahmen von der Versicherungspflicht zu bewilligen (Art. 3 Abs. 2 KVG);
 - b1. die Spitalplanung und die Pflegeheimplanung zu erarbeiten und die entsprechenden Planungsberichte zu erstellen;
 - c. die Erstellung der Gesundheitsstatistiken zu koordinieren (Art. 23 KVG);
 - d. die Betriebsvergleiche durchzuführen (Art. 49 Abs. 7 KVG);
 - e. die Meldungen von Leistungserbringern, dass sie die Leistungen nach KVG nicht erbringen, entgegenzunehmen (Art. 44 Abs. 2 KVG).
 
+[^2-1]: Die Information bzgl. Prämienverbilligung liegt in der Zuständigkeit des Volkswirtschafsdepartements (vgl. GDB [133.111)](http://gdb.ow.ch/data/133.111)/de)
+
 #### Art. 3
 
-**c. Zuständige kantonale Stelle für die Prämienverbilligung**
+**c. Zuständige kantonale Stelle für den Vollzug der Prämienverbilligung (Vollzugsstelle)**
 
-<sup>1</sup> Der zuständigen kantonalen Stelle obliegt insbesondere:
+<sup>1</sup> Der Vollzugsstelle obliegen insbesondere:
 
 - a. die Information der Bevölkerung über die Möglichkeit der Prämienverbilligung in der Krankenversicherung;
 - b. die Festlegung der Ansprüche im Einzelfall;
 - c. der Erlass der Verfügungen und die Mitwirkung im Rechtsmittelverfahren;
 - d. die Rückforderung unrechtmässig ausbezahlter Prämienbeiträge mittels Verfügung;
-- e. die Koordination zwischen Versicherern, Kanton, Gemeinden und Ausgleichskassen gemäss Art. 65 KVG.
+- e. die Koordination zwischen Versicherern, Kanton, Gemeinden und Ausgleichskassen gemäss Art. 64a und 65 KVG.
 
 #### Art. 4
 
@@ -82,7 +84,7 @@ beschliesst:
 - a. allgemeine Auskünfte im Einzelfall;
 - b. …
 - c. die Mitwirkung bei der Überprüfung der wirtschaftlichen Leistungsfähigkeit der Antragsteller im Einzelfall;
-- d. die Mitwirkung bei der Information der Bevölkerung über die Möglichkeit der Prämienverbilligung in der Krankenversicherung zusammen mit der zuständigen kantonalen Stelle.
+- d. die Mitwirkung bei der Information der Bevölkerung über die Möglichkeit der Prämienverbilligung in der Krankenversicherung zusammen mit der Vollzugsstelle.
 
 <sup>3</sup> Die Einwohnergemeinden übernehmen uneinbringliche Prämien- und Kostenanteile der obligatorischen Krankenpflegeversicherung. Zuständig ist jene Gemeinde, in der die Schuldnerin oder der Schuldner den zivilrechtlichen Wohnsitz hat.
 
@@ -126,7 +128,7 @@ beschliesst:
 
 <sup>1</sup> Anspruch auf Prämienverbilligung besteht, soweit die kantonale Richtprämie den gesetzlichen Selbstbehalt des anrechenbaren Einkommens übersteigt und das anrechenbare Einkommen weniger als Fr. 50 000.– beträgt.
 
-<sup>2</sup> Für Personen, welche Anspruch auf eine Prämienverbilligung für Kinder haben, erhöht sich das anrechenbare Einkommen um Fr. 20 000.–.
+<sup>2</sup> Für Personen, welche Anspruch auf eine Prämienverbilligung für Kinder haben, erhöht sich das anrechenbare Einkommen um Fr. 25 000.–.
 
 <sup>3</sup> Junge Erwachsene in Ausbildung, welche über ein anrechenbares Einkommen von weniger als Fr. 25 000.– verfügen, erhalten mindestens eine Prämienverbilligung von 50 Prozent der kantonalen Richtprämie (Mindestanspruch).
 
@@ -182,7 +184,7 @@ beschliesst:
 
 <sup>1</sup> Die Prämienverbilligungsverfügung enthält die Berechnung der Prämienverbilligung für das Anspruchsjahr, die Kontrollangaben zur Vermeidung von Doppelbezügen und zur Auszahlung der Beiträge an den Versicherer sowie eine Rechtsmittelbelehrung.
 
-<sup>2</sup> Die zuständige kantonale Stelle veranlasst im Einzelfall notwendige Zusatzabklärungen. Sie hat dabei auf die Folge der Anspruchsverwirkung hinzuweisen, wenn verlangte Angaben nicht fristgerecht eingereicht werden.
+<sup>2</sup> Die Vollzugsstelle veranlasst im Einzelfall notwendige Zusatzabklärungen. Sie hat dabei auf die Folgen der Anspruchsverwirkung hinzuweisen, wenn verlangte Angaben nicht fristgerecht eingereicht werden.
 
 <sup>3</sup> …
 
@@ -190,9 +192,9 @@ beschliesst:
 
 **Antragstellung und Fristen**
 
-<sup>1</sup> Die zuständige kantonale Stelle stellt allen voraussichtlich anspruchsberechtigten Personen bis Mitte Dezember des dem Anspruchsjahr vorangehenden Jahr ein vorgedrucktes Anmeldeformular zu.
+<sup>1</sup> Die Vollzugsstelle stellt allen voraussichtlich anspruchsberechtigten Personen bis Ende Dezember des dem Anspruchsjahr vorangehenden Jahres die Zugangsdaten zur Antragstellung zu.
 
-<sup>2</sup> Versicherte, welche kein vorgedrucktes Anmeldeformular erhalten haben, können bei der zuständigen kantonalen Stelle ein Antragsformular verlangen.
+<sup>2</sup> Versicherte, welche keine Zugangsdaten erhalten haben, können diese bei der Vollzugsstelle verlangen.
 
 <sup>3</sup> Die ausgefüllten Anmelde- oder Antragsformulare sind zusammen mit den nötigen Unterlagen bis 31. Mai des Jahres, für das die Prämienverbilligung geltend gemacht wird, bei der zuständigen kantonalen Stelle einzureichen.
 
@@ -200,7 +202,7 @@ beschliesst:
 
 <sup>5</sup> …
 
-<sup>6</sup> Die zuständigen Stellen der Einwohnergemeinden haben die Antragsformulare für sozialhilfeberechtigte Personen und für Personen, welche Ereignisse im Sinne von Art. 8 Abs. 4 dieser Verordnung geltend machen, bis 30. November bei der zuständigen kantonalen Stelle einzureichen.
+<sup>6</sup> Die zuständigen Stellen der Einwohnergemeinden haben die Antragsformulare für sozialhilfeberechtigte Personen und für Personen, welche Ereignisse im Sinne von Art. 8 Abs. 4 dieser Verordnung geltend machen, bis 30. November bei der Vollzugsstelle einzureichen.
 
 <sup>7</sup> Werden Ansprüche nicht fristgerecht geltend gemacht oder die erforderlichen Angaben nicht fristgerecht eingereicht und liegen dafür keine besonderen Gründe vor, so gelten die Ansprüche auf Prämienverbilligung als verwirkt.
 
@@ -212,9 +214,9 @@ beschliesst:
 
 **Einsprache**
 
-<sup>1</sup> Die anspruchsberechtigten Personen können innert 30 Tagen seit Erhalt der Verfügung bei der zuständigen kantonalen Stelle schriftlich und begründet Einsprache erheben. Die Einwendungen sind zu belegen.
+<sup>1</sup> Die anspruchsberechtigten Personen können innert 30 Tagen seit Erhalt der Verfügung bei der Vollzugsstelle schriftlich und begründet Einsprache erheben. Die Einwendungen sind zu belegen.
 
-<sup>2</sup> Die kantonale Stelle überprüft ihre Verfügung auf Grund der Einsprache. Sie kann weitere Abklärungen veranlassen und die Einsprecherin oder den Einsprecher mündlich anhören. Auf Grund ihrer Beurteilung erlässt sie einen begründeten Einspracheentscheid mit Rechtsmittelbelehrung.
+<sup>2</sup> Die Vollzugsstelle überprüft ihre Verfügung auf Grund der Einsprache. Sie kann weitere Abklärungen veranlassen und die Einsprecherin oder den Einsprecher mündlich anhören. Auf Grund ihrer Beurteilung erlässt sie einen begründeten Einspracheentscheid mit Rechtsmittelbelehrung.
 
 #### Art. 14
 
@@ -236,21 +238,19 @@ beschliesst:
 
 **Auskunftspflicht**
 
-<sup>1</sup> Wer Anspruch auf Prämienverbilligung geltend macht, hat alle erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen sowie eingetretene Änderungen in der Anspruchsberechtigung sofort der zuständigen kantonalen Stelle zu melden.
+<sup>1</sup> Wer Anspruch auf Prämienverbilligung geltend macht, hat alle erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen sowie eingetretene Änderungen in der Anspruchsberechtigung sofort der Vollzugsstelle zu melden.
 
-<sup>2</sup> Die Versicherer sind gegenüber der kantonalen Stelle für die Prämienverbilligung zu unentgeltlichen Auskunftserteilung verpflichtet.
+<sup>2</sup> Die Versicherer sind gegenüber der Vollzugsstelle zur unentgeltlichen Auskunftserteilung verpflichtet.
 
 #### Art. 15a
 
 **Amts- und Rechtshilfe**
 
-<sup>1</sup> Die Behörden und Amtsstellen des Kantons und der Gemeinden sowie die Ausgleichskassen erteilen der zuständigen kantonalen Stelle für die Prämienverbilligung gemäss Art. 3 dieser Verordnung auf Ersuchen hin kostenlos alle erforderlichen Auskünfte. Sie können die kantonale Stelle von sich aus darauf aufmerksam machen, wenn sie vermuten, dass die Prämienverbilligung unrechtmässig ausbezahlt wird. Die gleiche Pflicht zur Amtshilfe haben Organe von Körperschaften und Anstalten, soweit sie die Aufgaben der öffentlichen Verwaltung wahrnehmen.
+<sup>1</sup> Die Behörden und Amtsstellen des Kantons und der Gemeinden sowie die Ausgleichskassen erteilen der Vollzugsstelle gemäss Art. 3 dieser Verordnung auf Ersuchen hin kostenlos alle erforderlichen Auskünfte. Sie können die Vollzugsstelle von sich aus darauf aufmerksam machen, wenn sie vermuten, dass die Prämienverbilligung unrechtmässig ausbezahlt wird. Die gleiche Pflicht zur Amtshilfe haben Organe von Körperschaften und Anstalten, soweit sie die Aufgaben der öffentlichen Verwaltung wahrnehmen.
 
-<sup>2</sup> Die Steuerverwaltung hat der zuständigen kantonalen Stelle für die Prämienverbilligung die notwendigen Daten zugänglich zu machen. Sie kann dies durch ein Abrufeverfahren regeln.
+<sup>2</sup> Die Steuerverwaltung hat der Vollzugsstelle die notwendigen Daten zugänglich zu machen. Sie kann dies durch ein Abrufverfahren regeln.
 
-<sup>3</sup> Im Übrigen sind die Bestimmungen des kantonalen Datenschutzgesetzes[^15a-1] sinngemäss anwendbar.
-
-[^15a-1]: GDB [137.1](http://gdb.ow.ch/data/137.1/de)
+<sup>3</sup> …
 
 #### Art. 15b
 
@@ -258,15 +258,15 @@ beschliesst:
 
 <sup>1</sup> Der Datenaustausch richtet sich nach den Vorgaben des Bundes über den Datenaustausch für die Prämienverbilligung, insbesondere nach der Verordnung des EDI über den Datenaustausch für die Prämienverbilligung (VDPV-EDI)[^15b-1].
 
-<sup>2</sup> Die Versicherer melden der zuständigen kantonalen Stelle den gesamten Versichertenbestand per 1. Januar bis spätestens am 15. Februar jedes Jahres. Die Meldung hat die Personendaten gemäss Art. 105g der Verordnung über die Krankenversicherung (KVV)[^15b-2] zu enthalten.
+<sup>2</sup> Die Versicherer melden der Vollzugsstelle den gesamten Versichertenbestand per 1. Januar bis spätestens am 15. Februar jedes Jahres. Die Meldung hat die Personendaten gemäss Art. 105g der Verordnung über die Krankenversicherung (KVV)[^15b-2] zu enthalten.
 
-<sup>3</sup> Die zuständige kantonale Stelle meldet den Versicherern den gesamten Verfügungsbestand per 31. Dezember jedes Jahres.
+<sup>3</sup> Die Vollzugsstelle meldet den Versicherern den gesamten Verfügungsbestand per 31. Dezember jedes Jahres.
 
 <sup>4</sup> Auf Anfrage der zuständigen kantonalen Stelle hat der Versicherer Auskunft zu erteilen, ob eine bestimmte Person bei ihm KVG-versichert ist oder war. Der Versicherer hat die Personendaten gemäss Art. 105g KVV der zuständigen kantonalen Stelle zu melden.
 
 <sup>5</sup> Der Versicherer erstellt die Jahresrechnung gemäss Art. 106c Abs. 3 KVV jeweils bis zum 31. März des darauffolgenden Jahres.
 
-<sup>6</sup> Die Ausgleichskasse meldet der zuständigen kantonalen Stelle in der ersten Arbeitswoche des Kalenderjahres alle Personen, welche Ergänzungsleistungen zur AHV/IV beziehen (Bestandesliste). Am Anfang jeden Monats meldet die Ausgleichskasse alle Zu- und Abgänge sowie weitere Mutationen des vergangenen Monats. Die Meldung hat die Personendaten gemäss Art. 105g KVV zu enthalten.
+<sup>6</sup> Die Ausgleichskasse meldet der Vollzugsstelle in der ersten Arbeitswoche des Kalenderjahres alle Personen, welche Ergänzungsleistungen zur AHV/IV beziehen (Bestandesliste). Am Anfang jedes Monats meldet die Ausgleichskasse alle Zu- und Abgänge sowie weitere Mutationen des vergangenen Monats. Die Meldung hat die Personendaten gemäss Art. 105g KVV zu enthalten.
 
 [^15b-1]: SR [832.102.2](https://db.clex.ch/link/Bund/832.102.2/de)
 [^15b-2]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de)
@@ -432,7 +432,9 @@ geändert durch
 
 \- Nachtrag vom 28. Juni 2019 (OGS 2019, 29), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (23.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 29),
 
-\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41),
+
+\- Nachtrag vom 20. März 2025, Botschaft und Vorlage des Regierungsrates vom 14. Januar 2025, Kantonsratssitzung vom 20. März 2025 (22.25.01 und 23.25.01), in Kraft seit 18. Dezember 2025 (OGS 2025, 33)
 
 Die Änderung der Verordnung durch den Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 28. Januar 2016 (OGS 2016, 9 und OGS 2016, 18 und 26) wurde an der Volksabstimmung vom 25. September 2016 (OGS 2016, 15, 52, 53 und 54) abgelehnt.
 
