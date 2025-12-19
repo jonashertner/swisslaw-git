@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale dell’Ordinanza sulle macchine (OMacch)
 document: Progetto posto in consultazione
 language: it

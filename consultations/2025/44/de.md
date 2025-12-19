@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Maschinenverordnung (MaschV)
 document: Vernehmlassungsvorlage
 language: de
