@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Projetto di legge sull’approvvigionamento di gas (LAGas)
 document: Progetto posto in consultazione
 language: it

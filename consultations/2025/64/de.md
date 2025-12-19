@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Entwurf für ein Bundesgesetz über die Gasversorgung (GasVG)
 document: Vernehmlassungsvorlage
 language: de

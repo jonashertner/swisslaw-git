@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Projet de loi fédérale relative à l’approvisionnement en gaz (LApGaz)
 document: Projet mis en consultation
 language: fr
