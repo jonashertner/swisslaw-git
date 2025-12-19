@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du Code civil (Inscription de l’autorité parentale dans les registres des habitants)
 document: Projet mis en consultation
 language: fr

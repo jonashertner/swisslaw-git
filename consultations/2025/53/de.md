@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Zivilgesetzbuches (Eintragung der elterlichen Sorge in die Einwohnerregister)
 document: Vernehmlassungsvorlage
 language: de

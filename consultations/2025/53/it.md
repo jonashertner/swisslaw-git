@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica del Codice civile (Iscrizione dell’autorità parentale nei registri degli abitanti)
 document: Progetto posto in consultazione
 language: it
