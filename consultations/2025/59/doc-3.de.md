@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsänderungen im Bereich des Bundesamts für Energie (BFE) mit Inkrafttreten am 1. Juli 2026
 document: Vernehmlassungsvorlage StromVV
 language: de

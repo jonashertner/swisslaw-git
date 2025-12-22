@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifications d’ordonnances relevant du domaine de l’Office fédéral de l’énergie (OFEN) et entrant en vigueur le 1er juillet 2026
 document: Projet mis en consultation OEEE
 language: fr
