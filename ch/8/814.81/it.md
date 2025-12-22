@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2025-12-01
+version: 2025-12-23
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251201-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251223-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° dicembre 2025)
+del 18 maggio 2005 (Stato 23 dicembre 2025)
 
 Il Consiglio federale svizzero,
 
@@ -121,12 +121,12 @@ Per i seguenti impieghi è necessaria lʼautorizzazione delle autorità sottoind
 <tr><th>Impiego</th><th colspan="3">Autorità che rilascia lʼautorizzazione</th></tr>
 <tr><td colspan="2">a. lʼimpiego a titolo professionale o commerciale di prodotti fitosanitari per la lotta contro i roditori (rodenticidi) a livello interaziendale o con lʼuso di macchine</td><td colspan="2">autorità cantonale; per impieghi regionali e transregionali, dʼintesa con lʼUfficio federale della sicurezza alimentare e di veterinaria (USAV), lʼUfficio federale dellʼagricoltura (UFAG) e lʼUfficio federale dellʼambiente (UFAM)</td></tr>
 <tr><td colspan="2">b.[^4-2] lo spruzzamento e lo spargimento di prodotti fitosanitari, sostanze di base, biocidi e concimi dall’aria</td><td colspan="2">Ufficio federale dell’aviazione civile d’intesa con l’Ufficio federale della sanità pubblica (UFSP), l’USAV, l’UFAG, la Segreteria di Stato dell’economia (SECO) e l’UFAM</td></tr>
-<tr><td colspan="2">c.[^4-3] l’impiego di prodotti fitosanitari, di sostanze di base e di concimi nel bosco se essi non sono inclusi in un’autorizzazione secondo le lettere a o b</td><td colspan="2">autorità cantonale</td></tr>
+<tr><td colspan="2">c.[^4-3] l’impiego di biocidi, prodotti fitosanitari, di sostanze di base e di concimi nel bosco se essi non sono inclusi in un’autorizzazione secondo le lettere a o b</td><td colspan="2">autorità cantonale</td></tr>
 </table>
 
 [^4-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Nuovo testo giusta l’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
-[^4-3]: Nuovo testo giusta l’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^4-3]: Nuovo testo giusta l’all. 10 cifra II n. 5 dell’O del 20 ago. 2025 sui prodotti fitosanitari, in vigore dal 1° dic. 2025 ([RU 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)). Correzione del 23 dic. 2025 ([RU 2025 864](https://fedlex.data.admin.ch/eli/oc/2025/864)).
 
 #### Art. 4a
 
@@ -900,7 +900,7 @@ L’obbligo di notifica di cui al numero 5.1 capoverso 1 non si applica allo sto
 - a. come prodotti intermedi in vista della successiva trasformazione chimica completa;
 - b. per gli scopi di ricerca e di analisi autorizzati secondo la decisione XXVI/5 delle Parti contraenti del Protocollo di Montreal[^annex14-lvlu1-lvl6-lvl62-1].
 
-[^annex14-lvlu1-lvl6-lvl62-1]: Il testo di questa decisione è disponibile sul sito Internet www.ozone.unep.org &gt; Les Traités &gt; Le Protocole de Montréal &gt; Décisions adoptées par les réunions des Parties au Protocole de Montréal &gt; Vingt-sixième réunion des Parties &gt; Décision XXVI/5.
+[^annex14-lvlu1-lvl6-lvl62-1]: Il testo di questa decisione è disponibile sul sito Internet [www.ozone.unep.org](http://www.ozone.unep.org) &gt; Les Traités &gt; Le Protocole de Montréal &gt; Décisions adoptées par les réunions des Parties au Protocole de Montréal &gt; Vingt-sixième réunion des Parties &gt; Décision XXVI/5.
 
 ### 6.3 Autorizzazioni eccezionali
 
@@ -973,7 +973,7 @@ Allegato 1.5[^t-6]
 <sup>3</sup> Sono considerate sostanze rigenerate stabili nell’aria le sostanze prodotte riciclando sostanze stabili nell’aria senza che ne sia modificata la composizione chimica.
 
 [^annex15-lvlu1-lvl1-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
-[^annex15-lvlu1-lvl1-2]: L’elenco degli altri composti organici fluorurati più usati è disponibile sul sito www.bafu.admin.ch &gt; Prodotti chimici &gt; Informazioni per gli specialisti &gt; Disposizioni e procedure &gt; Sostanze stabili nell’aria.
+[^annex15-lvlu1-lvl1-2]: L’elenco degli altri composti organici fluorurati più usati è disponibile sul sito [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Prodotti chimici &gt; Informazioni per gli specialisti &gt; Disposizioni e procedure &gt; Sostanze stabili nell’aria.
 
 ### 2 Sostanze stabili nell’aria che impoveriscono lo strato di ozono
 
@@ -1319,7 +1319,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1766,7 +1766,7 @@ I prodotti tessili che contengono sostanze secondo il numero 1.1 e che sono dest
 
 [^annex19-lvlu1-lvl2-lvl21-1]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante regole comuni nel settore dell’aviazione civile e che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio e che abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, GU L 212 del 22.8.2018, pag. 1.
 [^annex19-lvlu1-lvl2-lvl21-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
-[^annex19-lvlu1-lvl2-lvl21-3]: L’elenco degli Stati è disponibile su Internet all’indirizzo www.icao.int &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
+[^annex19-lvlu1-lvl2-lvl21-3]: L’elenco degli Stati è disponibile su Internet all’indirizzo [www.icao.int](http://www.icao.int) &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex19-lvlu1-lvl2-lvl21-4]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli (direttiva quadro), GU L 263 del 9.10.2007, pag. 1; modificata da ultimo dal regolamento (UE) 2017/1347, modificato dalla GU L 192 del 24.7.2017, pag. 1.
 
 ### 2.2 Divieti
@@ -1906,7 +1906,7 @@ Sono considerati sostanze o preparati liquidi pericolosi i preparati liquidi con
 - c. classe di pericolo 4.1;
 - d. classe di pericolo 5.1.
 
-[^annex111-lvlu1-lvl1-1]: Direttiva 1999/45/CE del Parlamento europeo e del Consiglio, del 31 maggio 1999, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri relative alla classificazione, all’imballaggio e all’etichettatura dei preparati pericolosi, GU L 200 del 30.7.1999, pag. 1; modificata l’ultima volta dal regolamento (CE) n. 1272/2008, GU L 353 del 31.12.2008, pag. 1. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo http://eur-lex.europa.eu/.
+[^annex111-lvlu1-lvl1-1]: Direttiva 1999/45/CE del Parlamento europeo e del Consiglio, del 31 maggio 1999, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati membri relative alla classificazione, all’imballaggio e all’etichettatura dei preparati pericolosi, GU L 200 del 30.7.1999, pag. 1; modificata l’ultima volta dal regolamento (CE) n. 1272/2008, GU L 353 del 31.12.2008, pag. 1. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo [http://eur-lex.europa.eu/](http://eur-lex.europa.eu/).
 [^annex111-lvlu1-lvl1-2]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato l’ultima volta dal regolamento (UE) n. 618/2012, GU L 179 dell’11.7.2012, pag. 3.
 
 ### 2 Divieti
@@ -2157,7 +2157,7 @@ E vietata:
 - b. la quantità di preparati contenenti catrame impiegata non supera quella necessaria per lo scopo perseguito; e
 - c. il rischio per la salute e per l’ambiente è limitato a sufficienza.
 
-[^annex115-lvlu1-lvl3-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificata dal regolamento (CE) n. 453/2010 della Commissione del 20 maggio 2010, GU L 133 del 31.5.2010, pag. 1. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo www.cheminfo.ch.
+[^annex115-lvlu1-lvl3-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificata dal regolamento (CE) n. 453/2010 della Commissione del 20 maggio 2010, GU L 133 del 31.5.2010, pag. 1. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo [www.cheminfo.ch](http://www.cheminfo.ch).
 
 Allegato 1.16[^t-17]
 
@@ -2649,7 +2649,7 @@ Allegato 1.18[^t-19]
 
 [^annex118-lvlu1-lvl1-1]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante regole comuni nel settore dell’aviazione civile e che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio e che abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, modificato dalla GU L 212 del 22.8.2018, pag. 1.
 [^annex118-lvlu1-lvl1-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
-[^annex118-lvlu1-lvl1-3]: L’elenco degli Stati è disponibile sul sito Internet dell’OACI www.icao.int &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
+[^annex118-lvlu1-lvl1-3]: L’elenco degli Stati è disponibile sul sito Internet dell’OACI [www.icao.int](http://www.icao.int) &gt; Au sujet de l’OACI &gt; Liste – États membres de l’OACI.
 [^annex118-lvlu1-lvl1-4]: Direttiva 2007/46/CE del Parlamento europeo e del Consiglio, del 5 settembre 2007, che istituisce un quadro per l’omologazione dei veicoli a motore e dei loro rimorchi, nonché dei sistemi, componenti ed entità tecniche destinati a tali veicoli (direttiva quadro), GU L 263 del 9.10.2007, pag. 1; modificata da ultimo dal regolamento (UE) 2017/1347, GU L 192 del 24.7.2017, pag. 1.
 
 ### 2 Divieti
@@ -2828,7 +2828,7 @@ Allegato 2.1[^t-21]
 
 <sup>3</sup> I metodi di verifica e di analisi sono disciplinati dagli allegati II, III e VIII del regolamento (CE) n. 648/2004.
 
-[^annex21-lvlu1-lvl2-1]: GU L 104 dell’8/4/2004, p. 1, modificata da ultimo dal regolamento (CE) n. 907/2006 della Commissione, del 20 giugno 2006 (GU L 168 del 21/6/2006, p. 5). I testi degli atti giuridici dell’UE citati nel presente allegato possono essere ordinati contro pagamento presso l’Organo di notifica per i prodotti chimici, 3003 Berna, possono essere visionati gratuitamente oppure consultati al seguente sito Internet: www.cheminfo.ch
+[^annex21-lvlu1-lvl2-1]: GU L 104 dell’8/4/2004, p. 1, modificata da ultimo dal regolamento (CE) n. 907/2006 della Commissione, del 20 giugno 2006 (GU L 168 del 21/6/2006, p. 5). I testi degli atti giuridici dell’UE citati nel presente allegato possono essere ordinati contro pagamento presso l’Organo di notifica per i prodotti chimici, 3003 Berna, possono essere visionati gratuitamente oppure consultati al seguente sito Internet: [www.cheminfo.ch](http://www.cheminfo.ch)
 [^annex21-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
 
 ### 3 Etichettatura particolare
@@ -2999,7 +2999,7 @@ Allegato 2.2[^t-22]
 
 <sup>5</sup> L’impiego di 1,4-diclorobenzene per scopi di cui al capoverso 4 è vietato.
 
-[^annex22-lvlu1-lvl2-1]: GU L 104 dell’8/4/2004, pag. 1, modificato da ultimo dal regolamento (CE) n. 551/2009 della Commissione, del 25 giugno 2009 (GU L 164 del 26.6.2009, pag. 3). I testi degli atti giuridici dell’UE citati nel presente allegato possono essere ordinati contro pagamento o visionati gratuitamente presso l’Organo di notifica per i prodotti chimici, 3003 Berna, oppure consultati al sito internet www.cheminfo.ch.
+[^annex22-lvlu1-lvl2-1]: GU L 104 dell’8/4/2004, pag. 1, modificato da ultimo dal regolamento (CE) n. 551/2009 della Commissione, del 25 giugno 2009 (GU L 164 del 26.6.2009, pag. 3). I testi degli atti giuridici dell’UE citati nel presente allegato possono essere ordinati contro pagamento o visionati gratuitamente presso l’Organo di notifica per i prodotti chimici, 3003 Berna, oppure consultati al sito internet [www.cheminfo.ch](http://www.cheminfo.ch).
 [^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
 
 ### 3 Etichettatura particolare
@@ -3696,7 +3696,7 @@ Chi intende esportare le sostanze seguenti e i preparati che contengono tali sos
 
 <sup>3</sup> Se l’esportazione è destinata a un Paese che è Parte della Convenzione di Rotterdam, l’autorizzazione d’esportazione è rilasciata solo se l’UFAM dispone dell’assenso del Paese di importazione.
 
-[^annex25-lvlu1-lvl4-lvl42-lvl422-1]: L’elenco può essere ordinato a pagamento presso l’UFAM, 3003 Berna oppure consultato gratuitamente sul sito Internet www.pic.int &gt; Countries &gt; Status of ratifications.
+[^annex25-lvlu1-lvl4-lvl42-lvl422-1]: L’elenco può essere ordinato a pagamento presso l’UFAM, 3003 Berna oppure consultato gratuitamente sul sito Internet [www.pic.int](http://www.pic.int) &gt; Countries &gt; Status of ratifications.
 [^annex25-lvlu1-lvl4-lvl42-lvl422-2]: [RS 0.916.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4049)
 
 ### 4.2.3 Domanda
@@ -3914,7 +3914,7 @@ Il tenore di inquinanti nell’ammendante inorganico non deve superare i seguent
 <tr><th>Inquinante</th><th>Valore indicativo</th></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>4 milligrammi per chilogrammo di sostanza secca<sup>1</sup></td></tr>
 <tr><td>Diossine (PCDD) e furani (PCDF)</td><td>20 nanogrammi OMS<sub>2005</sub>-TEQ<sup>2</sup> per chilogrammo di sostanza secca</td></tr>
-<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 2.2.1.9 Biostimolante delle piante PFC 6
@@ -3960,7 +3960,7 @@ Il tenore di inquinanti nel biostimolante delle piante non deve superare i segue
 <tr><th>Inquinante</th><th>Valore indicativo</th></tr>
 <tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>4 milligrammi per chilogrammo di sostanza secca<sup>1</sup></td></tr>
 <tr><td>Diossine (PCDD) e furani (PCDF)</td><td>20 nanogrammi OMS<sub>2005</sub>-TEQ<sup>2</sup> per chilogrammo di sostanza secca</td></tr>
-<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 <sup>4</sup> Le disposizioni di cui al capoverso 1 non si applicano ai concimi aziendali destinati ad essere utilizzati nella propria azienda né a quelli forniti da un’azienda detentrice di animali da reddito direttamente al consumatore finale. Sono fatte salve parimenti le disposizioni di cui all’articolo 10 OCon.
@@ -3994,7 +3994,7 @@ I compost e digestati presenti in un concime devono rispettare i valori limite d
 <tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>25 milligrammi per chilogrammo di fosforo (P)<sup>1</sup></td></tr>
 <tr><td>Bifenili policlorurati (PCB)</td><td>0,5 milligrammi per chilogrammo di fosforo (P)<sup>2</sup></td></tr>
 <tr><td>Diossine (PCDD) e furani (PCDF)</td><td>120 nanogrammi OMC<sub>2005</sub>-TEQ per chilogrammo di fosforo (P)<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements), IUPAC n<sup>.</sup> 28, 52, 101, 118, 138, 153 e 180 <sup>3</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. <sup>2</sup> Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements), IUPAC n<sup>.</sup> 28, 52, 101, 118, 138, 153 e 180 <sup>3</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 2.2.2.3 Materiali di pirolisi e gassificazione (CMC 14)
@@ -4020,7 +4020,7 @@ I compost e digestati presenti in un concime devono rispettare i valori limite d
 <tr><td>Idrocarburi aromatici policiclici (PAH)</td><td>4 milligrammi per chilogrammo di sostanza secca<sup>1</sup></td></tr>
 <tr><td>Bifenili policlorurati (PCB)</td><td>0,2 milligrammi per chilogrammo di sostanza secca<sup>2</sup></td></tr>
 <tr><td>Diossine (PCDD) e furani (PCDF)</td><td>20 nanogrammi OMS<sub>2005</sub>-TEQ<sup>2</sup> per chilogrammo di sostanza secca<sup>3</sup></td></tr>
-<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. Determinazione mediante estrazione a reflusso di 2 ore con tuolene. <sup>2</sup> Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements), IUPAC n<sup>.</sup> 28, 52, 101, 118, 138, 153 e 180. Determinazione mediante estrazione Soxhlet di 6 ore con tuolene o mediante estrazione con solvente accelerato. <sup>3</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. http://doi.org/10.1093/toxsci/kfl055.</td></tr>
+<tr><td colspan="2"><sup>1</sup> Somma dei seguenti 16 composti PAH prioritari dell’EPA (Priority pollutants list): naftalina, acenaftilene, acenaftene, fluorene, fenantrene, antracene, fluorantene, pirene, benzo(a)antracene, crisene, benzo(b)fluorantene, benzo(k)fluorantene, benzo(a)pirene, indeno(1,2,3-cd)pirene, dibenz(a,h)antracene e benzo(ghi)perilene. Determinazione mediante estrazione a reflusso di 2 ore con tuolene. <sup>2</sup> Somma dei 7 isomeri secondo l’IRMM (Institute for Reference Materials and Measurements), IUPAC n<sup>.</sup> 28, 52, 101, 118, 138, 153 e 180. Determinazione mediante estrazione Soxhlet di 6 ore con tuolene o mediante estrazione con solvente accelerato. <sup>3</sup> Equivalenti tossici secondo le raccomandazioni dell’Organizzazione mondiale della sanità (OMS) a seguito di una consultazione di esperti nel 2005. Riferimento: Martin van den Berg et al. (2006) The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological sciences 93(2):223-241. [http://doi.org/10.1093/toxsci/kfl055](http://doi.org/10.1093/toxsci/kfl055).</td></tr>
 </table>
 
 ### 3 Utilizzazione
@@ -4798,7 +4798,7 @@ Allegato 2.10[^t-30]
 
 <sup>9</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza i capoversi 4<sup>ter</sup> lettera a e 8 lettera a in caso di modifica delle norme ivi indicate.
 
-[^annex210-lvlu1-lvl2-lvl22-1]: Le norme possono essere consultate gratuitamente o acquistate presso l’Associazione svizzera di normalizzazione (SNV), Sulzeralle 70, 8404 Winterthur, www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-1]: Le norme possono essere consultate gratuitamente o acquistate presso l’Associazione svizzera di normalizzazione (SNV), Sulzeralle 70, 8404 Winterthur, [www.snv.ch.](https://www.snv.ch/de/)
 
 ### 2.3 Obblighi del gestore e obblighi di informazione relativi alle deroghe
 
@@ -5305,7 +5305,7 @@ Allegato 2.15[^t-35]
 
 <sup>6</sup> Sono considerate apparecchiature le apparecchiature elettriche ed elettroniche di cui all’articolo 3 capoverso 1 lettera a della direttiva 2012/19/UE[^annex215-lvlu1-lvl1-1], alimentate o che possono essere alimentate interamente o parzialmente da pile.
 
-[^annex215-lvlu1-lvl1-1]: Direttiva 2012/19/UE del Parlamento europeo e del Consiglio, del 4 luglio 2012, sui rifiuti di apparecchiature elettriche ed elettroniche, GU L 197 del 24.7.12, pag. 38. I testi degli atti giuridici dell’UE menzionati in questo allegato possono essere consultati sul sito www.cheminfo.ch.
+[^annex215-lvlu1-lvl1-1]: Direttiva 2012/19/UE del Parlamento europeo e del Consiglio, del 4 luglio 2012, sui rifiuti di apparecchiature elettriche ed elettroniche, GU L 197 del 24.7.12, pag. 38. I testi degli atti giuridici dell’UE menzionati in questo allegato possono essere consultati sul sito [www.cheminfo.ch](http://www.cheminfo.ch).
 
 ### 2 Divieti
 
@@ -5675,7 +5675,7 @@ Gli imballaggi o i componenti di imballaggi non possono essere immessi sul merca
 
 <sup>2</sup> Su domanda motivata, l’UFAM può accordare, d’intesa con l’UFSP, una deroga per altri imballaggi. A tal fine tiene conto delle decisioni della Commissione basate sull’articolo 11 paragrafo 3 della direttiva 94/62/CE del Parlamento europeo e del Consiglio, del 20 dicembre 1994[^annex216-lvlu1-lvl4-lvl43-1], sugli imballaggi e sui rifiuti d’imballaggio, come pure dello stato della tecnica.
 
-[^annex216-lvlu1-lvl4-lvl43-1]: GU L 365 del 31.12.1994, pag. 10. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo www.cheminfo.ch.
+[^annex216-lvlu1-lvl4-lvl43-1]: GU L 365 del 31.12.1994, pag. 10. I testi degli atti giuridici dell’UE citati nel presente allegato possono essere consultati all’indirizzo [www.cheminfo.ch](http://www.cheminfo.ch).
 
 ### 5 Metalli pesanti in veicoli
 

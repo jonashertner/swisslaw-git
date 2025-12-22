@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2025-12-01
+version: 2025-12-23
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251201-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251223-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 1<sup>er</sup> décembre 2025)
+du 18 mai 2005 (État le 23 décembre 2025)
 
 Le Conseil fédéral suisse,
 
@@ -119,12 +119,12 @@ Les usages suivants requièrent une autorisation délivrée par les autorités m
 <tr><th>Usage:</th><th>Autorité délivrant l’autorisation:</th></tr>
 <tr><td>a. l’usage, à titre professionnel ou commercial, de produits destinés à protéger les plantes contre les rongeurs (rodenticides), appliqués mécaniquement ou dans le cadre d’actions inter-entreprises</td><td>les autorités cantonales, d’entente avec l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), l’Office fédéral de l’agriculture (OFAG) et l’Office fédéral de l’environnement (OFEV) en cas d’usage régional ou suprarégional</td></tr>
 <tr><td>b.[^4-2] la pulvérisation et l’épandage de produits phytosanitaires, de substances de base, de produits biocides et d’engrais par voie aérienne</td><td>l’Office fédéral de l’aviation civile, accord avec l’Office fédéral de la santé publique (OFSP), l’OSAV, l’OFAG, le Secrétariat d’État à l’économie (SECO) et l’OFEV</td></tr>
-<tr><td>c.[^4-3] l’usage de produits phytosanitaires, de substances de base, et d’engrais en forêt, s’il n’est pas inclus dans une autorisation au sens de la let. a ou b</td><td>les autorités cantonales</td></tr>
+<tr><td>c.[^4-3] l’usage de produits biocides, de produits phytosanitaires, de substances de base, et d’engrais en forêt, s’il n’est pas inclus dans une autorisation au sens de la let. a ou b</td><td>les autorités cantonales</td></tr>
 </table>
 
 [^4-1]: Nouvelle teneur selon le ch. I 6 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires), en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Nouvelle teneur selon l’annexe 10 ch. II 5 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
-[^4-3]: Nouvelle teneur selon l’annexe 10 ch. II 5 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^4-3]: Nouvelle teneur selon l’annexe 10 ch. II 5 de l’O du 20 août 2025 sur les produits phytosanitaires, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)). Erratum du 23 déc. 2025 ([RO 2025 864](https://fedlex.data.admin.ch/eli/oc/2025/864)).
 
 #### Art. 4a
 
@@ -1315,7 +1315,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>

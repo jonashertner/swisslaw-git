@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2025-12-01
+version: 2025-12-23
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251201-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251223-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Dezember 2025)
+vom 18. Mai 2005 (Stand am 23. Dezember 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -120,12 +120,12 @@ Für folgende Anwendungen ist eine Bewilligung der nachstehenden Behörden nöti
 <tr><th>Anwendung</th><th>Bewilligungsbehörde</th></tr>
 <tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nagetiere (Rodentizide) bei überbetrieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
 <tr><td>b.[^4-2] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Grundstoffen, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
-<tr><td>c.[^4-3] die Anwendung von Pflanzenschutzmitteln, Grundstoffen und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
+<tr><td>c.[^4-3] die Anwendung von Biozidprodukten, Pflanzenschutzmitteln, Grundstoffen und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
 </table>
 
 [^4-1]: Fassung gemäss Ziff. I 6 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen), in Kraft seit 1. Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Fassung gemäss Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
-[^4-3]: Fassung gemäss Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^4-3]: Fassung gemäss Anhang 10 Ziff. II 5 der Pflanzenschutzmittelverordnung vom 20. Aug. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)). Berichtigung vom 23. Dez. 2025 ([AS 2025 864](https://fedlex.data.admin.ch/eli/oc/2025/864)).
 
 #### Art. 4a
 
@@ -1320,7 +1320,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -4551,7 +4551,7 @@ Für Kunststoffgranulate und -streu, die zur Verwendung als Einstreumaterial fü
 [^annex29-lvlu1-lvl7-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^annex29-lvlu1-lvl7-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 [^annex29-lvlu1-lvl7-4]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
-[^annex29-lvlu1-lvl7-5]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^annex29-lvlu1-lvl7-5]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/de/).
 
 Anhang 2.10[^t-30]
 

@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2025-12-01
+version: 2025-12-23
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251201-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20251223-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20251223/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Last amended on 1 December 2025)
+of 18 May 2005 (Last amended on 23 December 2025)
 
 The Swiss Federal Council,
 
@@ -122,12 +122,12 @@ The following applications require an authorisation granted by the authorities m
 <tr><th>Application</th><th>Authority granting authorisation</th></tr>
 <tr><td>a. application, on a professional or commercial basis, of products intended to protect plants against rodents (rodenticides), if applied on more than one farm or by machine</td><td>cantonal authority; with the agreement of the Federal Food Safety and Veterinary Office (FSVO), the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) in the case of regional or supra-regional applications</td></tr>
 <tr><td>b.[^4-2] aerial spraying and spreading of plant protection products, basic substances, biocidal products and fertilisers</td><td>Federal Office of Civil Aviation, with the agreement of the Federal Office of Public Health (FOPH), the FSVO, the FOAG, the State Secretariat for Economic Affairs (SECO) and the FOEN</td></tr>
-<tr><td>c.[^4-3] application of plant protection products, basic substances and fertilisers in forests, unless covered by an authorisation under letter a or b</td><td>cantonal authority</td></tr>
+<tr><td>c.[^4-3] application of biocidal products, plant protection products, basic substances and fertilisers in forests, unless covered by an authorisation under letter a or b</td><td>cantonal authority</td></tr>
 </table>
 
 [^4-1]: Amended by No I 6 of the O of 4 Sept. 2013 (Reorganisation in the field of Food Safety and Veterinary Medicine), in force since 1 Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^4-2]: Amended by Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
-[^4-3]: Amended by Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)).
+[^4-3]: Amended by Annex 10 No II 5 of the Plant Protection Products Ordinance of 20 Aug. 2025, in force since 1 Dec. 2025 ([AS 2025 565](https://fedlex.data.admin.ch/eli/oc/2025/565)). Correction of 23 Dec. 2025 ([AS 2025 864](https://fedlex.data.admin.ch/eli/oc/2025/864)).
 
 #### Art. 4a
 
@@ -1322,7 +1322,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251201/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20251223/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
