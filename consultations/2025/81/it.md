@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Controprogetto diretto all’iniziativa popolare «Salvaguardia della neutralità svizzera (Iniziativa sulla neutralità)»
 document: Progetto posto in consultazione
 language: it

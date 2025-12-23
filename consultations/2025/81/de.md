@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Direkter Gegenentwurf zur Volksinitiative «Wahrung der schweizerischen Neutralität (Neutralitätsinitiative)»
 document: Vernehmlassungsvorlage
 language: de

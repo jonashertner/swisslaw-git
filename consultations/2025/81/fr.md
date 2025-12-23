@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Contre-projet direct à l’initiative populaire « Sauvegarder la neutralité suisse (initiative sur la neutralité) »
 document: Projet mis en consultation
 language: fr
