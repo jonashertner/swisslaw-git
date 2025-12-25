@@ -3,13 +3,13 @@ canton: ZG
 number: "711.31"
 title: "Kantonaler Richtplan, Richtplantext"
 language: de
-version: 2025-07-11
-valid_until: 2025-12-25
-version_adopted: 2025-07-03
+version: 2025-12-26
+valid_until: 2026-09-03
+version_adopted: 2025-12-18
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2961/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2989/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +17,7 @@ text: pdf
 
 # Kantonaler Richtplan Richtplantext
 
-### Kantonsratsbeschlüsse bis: 3. Juli 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 3. Juli 2025\* \* ausgenommen Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri
+### Kantonsratsbeschlüsse bis: 18. Dezember 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 3. Juli 2025
 
 Amt für Raum und Verkehr
 
@@ -27,9 +27,9 @@ Herausgeber Baudirektion des Kantons Zug Amt für Raum und Verkehr Aabachstrasse
 
 6300 Zug T +41 41 594 54 80 info.arv@zg.ch
 
-Stand der Nachführung: Kantonsratsbeschlüsse bis 3. Juli 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis 3. Juli 2025 (ausgenommen ist das Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri)
+Stand der Nachführung: Kantonsratsbeschlüsse bis 18. Dezember 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis 3. Juli 2025
 
-Erstellt am 3. Dezember 2025
+Erstellt am 2. März 2026
 
 ### Vorwort
 
@@ -1315,7 +1315,7 @@ M 4.1 Planungsgrundsätze
 
 - 2\. Die Infrastruktur im Kanton Zug basiert auf folgenden Hauptnetzen des motorisierten und öffentlichen Verkehrs:
 
-Richtplankarte 2.1 Das Nationalstrassennetz als Hauptverteilnetz und das heutige Kantonsstrassennetz Teilkarte M 4.2 ergänzt mit den Umfahrungen Unterägeri und Zug.
+Richtplankarte 2.1 Das Nationalstrassennetz als Hauptverteilnetz und das heutige Kantonsstrassennetz Teilkarte M 4.3 ergänzt mit der Umfahrung Unterägeri.
 
 2.2 Das Schienennetz mit den im Sachplan Verkehr festgesetzten Ausbauten bis 2035 (Zimmerbergbasistunnel II mit den Ausbauten zwischen Litti und Rotkreuz).
 
@@ -1323,7 +1323,7 @@ Richtplankarte 2.3 Das Netz des Feinverteilers für den öffentlichen Verkehr.
 
 Teilkarte M 4.6 2.4 Unter Berücksichtigung der Sachpläne des Bundes findet eine umfassende Prüfung aller Netze statt.
 
-- 3\. Veloverkehr Richtplankarte 3.1 Kanton und Gemeinden sorgen für ein vollständiges, direktes und sicheres Velonetz, Teilkarten M 4.9 bauen hierfür die notwendigen Infrastrukturen und fördern die Velonutzung. Das Velonetz ist kantonsgrenzüberschreitend zu koordinieren.
+- 3\. Veloverkehr Richtplankarte 3.1 Kanton und Gemeinden sorgen für ein vollständiges, direktes und sicheres Velonetz, Teilkarte M 4.9 bauen hierfür die notwendigen Infrastrukturen und fördern die Velonutzung. Das Velonetz ist kantonsgrenzüberschreitend zu koordinieren.
 
 3.2 Innerorts steht die Trennung von Fuss- und Veloverkehr im Vordergrund.
 
@@ -1385,6 +1385,8 @@ M 4.3 Kantonsstrassen
 
 M 4.3.1 Abstimmungen 1. Das langfristige Kantonsstrassennetz wird festgesetzt.
 
+**Teilkarte M 4.3**
+
 - 2\. Der Kanton Zug richtet den Bau und Unterhalt der Kantonsstrassen auf folgende Ziele aus:
 
 - a. stark beeinträchtigte Ortszentren vom Durchgangsverkehr entlasten, um die Lebensqualität zu verbessern, den öffentlichen Verkehr zu fördern und die Verkehrsräume auf die Ortsbilder abzustimmen;
@@ -1401,7 +1403,9 @@ M 4.3.2 Vorhaben An den nachfolgenden Vorhaben besteht ein kantonales Interesse.
 
 **Stand Priorität Planquadrat Festsetzung 1 H 6–L 4**
 
-Nr. Vorhaben 2 Neubau Umfahrung Cham–Hünenberg 2.1 Mit dem Abschluss des Bauprojekts werden die folgenden Strassen abgetreten:
+Nr. Vorhaben 2 Neubau Umfahrung Cham–Hünenberg
+
+2.1 Mit dem Abschluss des Bauprojekts werden die folgenden Strassen abgetreten:
 
 - KS 4 Zuger-/Luzerner-/Chamerstrasse vom Alpenblick–Zythus–Holzhäusern an die Gemeinden Cham, Hünenberg und Risch;
 
@@ -1417,23 +1421,23 @@ Nr. Vorhaben 2 Neubau Umfahrung Cham–Hünenberg 2.1 Mit dem Abschluss des Baup
 
 **Zwischenergebnis 3 J 8–J 10 /**
 
-4 Neubau Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug 4.1 Im Jahr 2035 prüft der Kanton den Erfolg der Massnahme Kapazitätssteigerung Chamer- und Nordstrasse (Vorhaben M 4.3.2; Nr. 3). Verfehlt die Ertüchtigung der beiden Strassen die Ziele M 4.3.1; 2.b. und 2.c., ist dem Kantonsrat innert 2 Jahren eine Anpassung des Richtplans zur Festsetzung des Autobahn-Halbanschlusses Steinhausen Süd mit Verbindung nach Baar oder Zug zu unterbreiten (Vorhaben M 4.2.2; Nr. 3 und M 4.3.2; Nr. 4). Der Kanton bindet den Bund und die betroffenen Gemeinden in den Prozess ein. 4.2 Die Gemeinde sichert mittels Baulinien den Autobahn-Halbanschluss Steinhausen Süd.
+4 Neubau Verbindung Autobahn-Halbanschluss Steinhausen Süd nach Baar oder Zug
 
 **K 9**
 
-**Festsetzung 2 N 14–**
+4.1 Im Jahr 2035 prüft der Kanton den Erfolg der Massnahme Kapazitätssteigerung Chamer- und Nordstrasse (Vorhaben M 4.3.2; Nr. 3). Verfehlt die Ertüchtigung der beiden Strassen die Ziele M 4.3.1; 2.b. und 2.c., ist dem Kantonsrat innert 2 Jahren eine Anpassung des Richtplans zur Festsetzung des Autobahn-Halbanschlusses Steinhausen Süd mit Verbindung nach Baar oder Zug zu unterbreiten (Vorhaben M 4.2.2; Nr. 3 und M 4.3.2; Nr. 4). Der Kanton bindet den Bund und die betroffenen Gemeinden in den Prozess ein. 4.2 Die Gemeinde sichert mittels Baulinien den Autobahn-Halbanschluss Steinhausen Süd.
+
+**Zwischenergebnis N 14 & O 16**
 
 5 Neubau Umfahrung Unterägeri
 
-**O 16**
+**der Regierungsrat dem Kantonsrat einen Antrag zur Weiterentwicklung der**
 
-5.1 Der Kanton sichert die Räume für die Umfahrung mit Baulinien. 5.2 Mit dem Abschluss des Bauprojekts werden die folgenden Strassen an die Gemeinde abgetreten:
-
-- KS 381 Zuger- und Seestrasse vom Anschluss Umfahrung Neuägeri–Anschluss Umfahrung Theresiaplatz an die Gemeinde Unterägeri.
+5.1 Bis spätestens 2032 unterbreitet Verkehrsinfrastruktur im Ägerital. Zwischenzeitlich sichert der Kanton die Räume für die Portale in Unterägeri. Der Kanton bezieht die betroffenen Gemeinden Unterägeri und Oberägeri ein.
 
 **Zwischenergebnis 3 N 4–O 5**
 
-6 Neubau Ostumfahrung Rotkreuz Nr. Vorhaben Stand 7 Verbindung Autobahnanschluss Rotkreuz an die Zwischenergebnis 2 Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse und Unterbindung des Durchgangsverkehrs auf der Industriestrasse (1. Teil Bügel zur Industriestrasse und 2. Teil Verbindung Holzhäusernstrasse/Bösch) 7.1 Bis spätestens 2035 oder 2 Jahre nach Inbetriebnahme des Autobahn-Halbanschlusses Rotkreuz Süd prüft der Kanton den Erfolg der realisierten verkehrlichen Massnahmen im Raum Rotkreuz/Hünenberg. Verfehlen diese Massnahmen die Ziele M 4.3.1; 2.a., 2.b. und 2.c., prüft der Kanton innert 2 Jahren die Vorhaben M 4.3.2; Nr. 6 und M 4.3.2; Nr. 7 erneut auf deren Machbarkeit, Kosten sowie die verkehrlichen Wirkungen und unterbreitet dem Kantonsrat einen Antrag auf Festsetzung oder Streichung. Der Kanton bindet den Bund und die betroffenen Gemeinden sowie die betroffenen Grundeigentümerschaften in den Prozess ein.
+6 Neubau Ostumfahrung Rotkreuz Nr. Vorhaben Stand 7 Verbindung Autobahnanschluss Rotkreuz an die Zwischenergebnis 2 Holzhäusernstrasse/Bösch mit Bügel zur Industriestrasse und Unterbindung des Durchgangsverkehrs auf der Industriestrasse (1. Teil Bügel zur Industriestrasse und 2. Teil Verbindung Holzhäusernstrasse/Bösch)
 
 **Priorität Planquadrat**
 
@@ -1443,17 +1447,13 @@ Nr. Vorhaben 2 Neubau Umfahrung Cham–Hünenberg 2.1 Mit dem Abschluss des Baup
 
 **3 (2. Teil)**
 
-**2 K 10–L 11**
+7.1 Bis spätestens 2035 oder 2 Jahre nach Inbetriebnahme des Autobahn-Halbanschlusses Rotkreuz Süd prüft der Kanton den Erfolg der realisierten verkehrlichen Massnahmen im Raum Rotkreuz/Hünenberg. Verfehlen diese Massnahmen die Ziele M 4.3.1; 2.a., 2.b. und 2.c., prüft der Kanton innert 2 Jahren die Vorhaben M 4.3.2; Nr. 6 und M 4.3.2; Nr. 7 erneut auf deren Machbarkeit, Kosten sowie die verkehrlichen Wirkungen und unterbreitet dem Kantonsrat einen Antrag auf Festsetzung oder Streichung. Der Kanton bindet den Bund und die betroffenen Gemeinden sowie die betroffenen Grundeigentümerschaften in den Prozess ein.
 
-8 Neubau Umfahrung Zug Festsetzung 8.1 Der Kanton sichert die Räume für die Umfahrung mit Baulinien.
+**L 10**
 
-8.2 Mit dem Abschluss des Bauprojekts werden die folgenden Strassen abgetreten oder durch den Kanton übernommen:
+8 Neubau Umfahrung Zug Zwischenergebnis
 
-- KS 25 Chamerstrasse von Aabachstrasse bis Vorstadt und Alpenstrasse/Bundesplatz/Bahnhofstrasse/ Vorstadt/Neugasse/Grabenstrasse und Artherstrasse von Casino bis Tunnelportal an die Gemeinde Zug;
-
-- KS 381 Ägeristrasse von Kolinplatz bis Kreisel Talacher an die Gemeinden Zug und Baar.
-
-- Der Kanton übernimmt die Gubelstrasse von Baarerstrasse bis Aabachstrasse.
+8.1 Bis spätestens 2032 unterbreitet der Regierungsrat dem Kantonsrat einen Antrag zur Weiterentwicklung der Verkehrsinfrastruktur in der Stadt Zug. Zwischenzeitlich sichert der Kanton den Raum für das Südportal im Gebiet Frauensteinmatt. Der Kanton bezieht die betroffenen Gemeinden ein.
 
 M 4.4 Nationaler und internationaler Bahnverkehr / Grobverteiler
 
@@ -1615,7 +1615,7 @@ M 4.9 Kantonales Velowegnetz
 
 M 4.9.1 Angebot 1. Das neue Velowegnetz ist räumlich abgestimmt und wird festgesetzt. Kleinräumige Anpassungen, welche die Netzfunktion nicht tangieren, brauchen keine Anpassung des Richtplans.
 
-**Richtplankarte Teilkarten M 4.9**
+**Richtplankarte Teilkarte M 4.9**
 
 - 2\. Der Kanton Zug realisiert und vervollständigt in Zusammenarbeit mit den Gemeinden das festgesetzte Velowegnetz etappenweise bis 2042.
 
@@ -1937,6 +1937,18 @@ E 15.3.1 Der Kanton und die Gemeinden setzen sich für den Erhalt und die Steige
 
 **Richtplantext Kap. L 5, L 7, L 8**
 
+E 15.3.2 Folgende Gewässerstrecken sind für die Nutzung der Wasserkraft geeignet und werden in den Richtplan aufgenommen (Stand 2024):
+
+**Richtplankarte E 15**
+
+Nr. Gemeinde Gewässername Stand Planquadrat 1 Baar, Menzingen Lorze (KW 2–Fassung Herrenmatt) Festsetzung K 14–L 14
+
+E 15.3.3 Folgende Vorhaben werden in den Richtplan aufgenommen:
+
+**Richtplankarte E 15**
+
+Nr. Gemeinde Vorhaben Stand Planquadrat 1 Baar KW Lorzentobel Festsetzung J 13
+
 E 15.4 Windkraft
 
 E 15.4.1 In BLN-Gebieten, Moorlandschaften, kantonalen und kommunalen Naturschutzgebieten sind Windkraftanlagen ausgeschlossen.
@@ -1951,7 +1963,9 @@ E 15.4.3 Kleine Einzelanlagen (Gesamthöhe &lt; 25 Meter) benötigen keinen Eint
 
 - c. Windpotential und Einspeisemöglichkeiten.
 
-Mit einer optimalen Wahl des kleinräumigen Standortes sind allfällige Auswirkungen zu minimieren.
+Mit einer optimalen Wahl des kleinräumigen Standortes sind allfällige Auswirkungen zu mini-
+
+mieren.
 
 E 15.5 Gasleitungen
 
@@ -1983,7 +1997,7 @@ P 1.1 Strategie für die Agglomeration Zug
 
 P 1.1.1 Die Grundzüge der räumlichen Entwicklung und die verschiedenen Beschlüsse des Richtplantextes und der Richtplankarte bilden die Strategie für die Agglomeration Zug.
 
-**Richtplankarte Teilkarte G 1.1**
+**Richtplankarte Teilkarte G 9**
 
 P 1.2 Gremium für die Agglomeration Zug
 
@@ -1994,8 +2008,6 @@ P 1.2.1 Der Regierungsrat bestimmt aus seinen Reihen eine Delegation (Ausschuss)
 P 1.2.2 Zur Lösung grenzüberschreitender Fragestellungen sucht der regierungsrätliche Ausschuss die Zusammenarbeit mit anderen Organen in den angrenzenden Agglomerationen und den Nachbarkantonen.
 
 **Richtplantext Kap. A 7**
-
-**damit das Kapitel P auf eine Seite passt, wurden die Abstände nach den Titel 2. Ebene von 4 auf 2 mm reduziert**
 
 P 2 Projekte der Agglomeration Zug
 
@@ -2017,11 +2029,11 @@ P 3.1.2 Der Kanton setzt sich beim Bund zur Verbesserung des Agglomerationsverke
 
 - a. Öffentlicher Verkehr: Busnetz als leistungsfähiges und zuverlässiges Feinverteilernetz; ZVB-Hauptstützpunkt;
 
-- b. Fuss- und Veloverkehr: Netzergänzungen zur Stärkung des Fuss- und Veloverkehrs in der
+- b. Fuss- und Veloverkehr: Netzergänzungen zur Stärkung des Fuss- und Veloverkehrs in der Agglomeration;
 
-Agglomeration;
+**damit das Kapitel P auf eine Seite passt, wurden die Abstände nach den von 4 auf 2 mm reduziert**
 
-- c. Verkehrssicherheit: bauliche Massnahmen zur Förderung der Verkehrssicherheit;
+53 c. Verkehrssicherheit: bauliche Massnahmen zur Förderung der Verkehrssicherheit;
 
 - d. Aufwertung des Strassenraums: Umgestaltung und Aufwertung der Strassenräume in der Agglomeration;
 
