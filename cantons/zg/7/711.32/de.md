@@ -3,13 +3,13 @@ canton: ZG
 number: "711.32"
 title: "Kantonaler Richtplan, Richtplankarte"
 language: de
-version: 2025-07-11
-valid_until: 2025-12-25
-version_adopted: 2025-07-03
+version: 2025-12-26
+valid_until: 2026-09-03
+version_adopted: 2025-12-18
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.32"
-pdf: "https://bgs.zg.ch/api/de/versions/2962/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2991/pdf_file"
 text: pdf
 ---
 
@@ -21,11 +21,9 @@ text: pdf
 
 ## Richtplankarte
 
-### Kantonsratsbeschlüsse bis: 3. Juli 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 3. Juli 2025\*
+### Kantonsratsbeschlüsse bis: 18. Dezember 2025 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 3. Juli 2025
 
 **C C**
-
-\* ausgenommen Kapitel S. 2.1, Siedlungsbegrenzungslinie Unterägeri
 
 **D**
 
@@ -33,13 +31,17 @@ text: pdf
 
 **5 6 7 8 2 680 000 9 10 11 12 13 2 685 000 14 15 16 17 18 2 690 000**
 
-Baar Steinhausen Neuheim Menzingen Zug Oberägeri Unterägeri Walchwil
+Baar Steinhausen Neuheim
 
 **Teilkarte M 4.9: Velowegnetz für den Alltag und die Freizeit Massstab 1:100'000**
 
 **Hünenberg**
 
-**Alltagsnetz Velobahn Freizeitnetz Risch**
+Menzingen
+
+**Alltagsnetz Velobahn Freizeitnetz Veloweg geplant Risch**
+
+Zug Oberägeri Unterägeri Walchwil
 
 **E E**
 
@@ -73,7 +75,7 @@ Kapitel S 1 Siedlungsgebiet S 1 Vorranggebiet Arbeitsnutzung S 2 Siedlungsbegren
 
 **t fa**
 
-L 1 Landwirtschaftsgebiet / Übriges Nichtbaugebiet L 1 Fruchtfolgefläche L 3 Weiler L 4 Wald L 4 Wald mit besonderer Schutzfunktion gegen Naturgefahren L 4 Waldnaturschutzgebiet L 4 Wald mit besonderer Erholungsfunktion L 4 Wald mit geringer Erschliessung L 5 Naturschutzgebiet / Naturschutzgebiet mit Wald L 5 Naturobjekt L 6 Wildtierkorridor L 7 Landschaftsschongebiet L 8 Renaturierung Gewässer L 8 Zirkulationsunterstützung L 10 Zentrale Bootsstationierung L 11 Kantonaler Schwerpunkt Erholung L 11 Kommunales Naherholungsgebiet / Vorhaben Sport/Erholung L 11 Lorzenebene M 4.2 Nationalstrassenanschluss/ -halbanschluss M 4.2/3 National-/Kantonsstrasse (offene Strecke / Tunnel) M 4.4/5 Bahnverkehr/Grob- und Mittelverteiler (offene Strecke / Tunnel) M 4.4/5 Bahnhof/Station / Abstellanlage M 4.6 Busverkehr/Feinverteiler, u.a. auf Eigentrassee M 4.6 Hauptstützpunkt Feinverteiler M 4.7 Freiverlad M 4.9 Veloweg M 4.10 Wanderweg
+L 1 Landwirtschaftsgebiet / Übriges Nichtbaugebiet L 1 Fruchtfolgefläche L 3 Weiler L 4 Wald L 4 Wald mit besonderer Schutzfunktion gegen Naturgefahren L 4 Waldnaturschutzgebiet L 4 Wald mit besonderer Erholungsfunktion L 4 Wald mit geringer Erschliessung L 5 Naturschutzgebiet / Naturschutzgebiet mit Wald L 5 Naturobjekt L 6 Wildtierkorridor L 7 Landschaftsschongebiet L 8 Renaturierung Gewässer L 8 Zirkulationsunterstützung L 10 Zentrale Bootsstationierung L 11 Kantonaler Schwerpunkt Erholung L 11 Kommunales Naherholungsgebiet / Vorhaben Sport/Erholung L 11 Lorzenebene M 4.2 Nationalstrassenanschluss/ -halbanschluss M 4.2/3 National-/Kantonsstrasse (offene Strecke / Tunnel) M 4.3 Tunnelportal Kantonsstrasse M 4.4/5 Bahnverkehr/Grob- und Mittelverteiler (offene Strecke / Tunnel) M 4.4/5 Bahnhof/Station / Abstellanlage M 4.6 Busverkehr/Feinverteiler, u.a. auf Eigentrassee M 4.6 Hauptstützpunkt Feinverteiler M 4.7 Freiverlad M 4.9 Veloweg M 4.10 Wanderweg
 
 **K**
 
@@ -101,33 +103,31 @@ L 1 Landwirtschaftsgebiet / Übriges Nichtbaugebiet L 1 Fruchtfolgefläche L 3 W
 
 **P P**
 
-**M**
-
 **1 220 000 1 220 000**
 
-**g n u g**
+**M**
 
-E 2 Kompostier- oder Vergäranlage E 3 Reaktor- und Reststoffdeponie E 3 Inertstoffdeponie (Zwischenergebnis / Festsetzung) E 4 Umschlag- und Aufbereitungsplatz für mineralische Bauabfälle E 5 Kläranlage E 6 Grundwasserschutzzone E 11 Abbau- und Rekultivierungsgebiet (Zwischenergebnis / Festsetzung) V E 13 Militärische Baute oder Anlage E 15 Hochspannungsleitung E 15 Raumfreihaltung Stollenportal/Muffenschacht E 15 Raumfreihaltung Erdverlegung Hochspannungsleitung (Graben) E 15 Raumfreihaltung Erdverlegung Hochspannungsleitung (Stollen)
+**g**
+
+**n u g r o s t n E d n u r-**
+
+E 2 Kompostier- oder Vergäranlage E 3 Reaktor- und Reststoffdeponie E 3 Inertstoffdeponie (Zwischenergebnis / Festsetzung) E 4 Umschlag- und Aufbereitungsplatz für mineralische Bauabfälle E 5 Kläranlage E 6 Grundwasserschutzzone E 11 Abbau- und Rekultivierungsgebiet (Zwischenergebnis / Festsetzung) V E 13 Militärische Baute oder Anlage E 15 Hochspannungsleitung E 15 Raumfreihaltung Stollenportal/Muffenschacht E 15 Raumfreihaltung Erdverlegung Hochspannungsleitung (Graben) E 15 Raumfreihaltung Erdverlegung Hochspannungsleitung (Stollen) E 15 Gewässerstrecke, für die Nutzung von Wasserkraft geeignet E 15 Kraftwerk
 
 **Q Q**
 
-**ro s t n E d n u r- e**
-
 **R R**
 
-**1 2 3 2 675 000 4**
+**e**
 
-**E**
+**1 2 3 2 675 000 4**
 
 **Teilkarte M 4.10: Wanderwegnetz Massstab 1:150'000 S S**
 
 **WWaannddeerrwweeggnneettzz Wanderweg geplant**
 
+**E**
+
 **T T**
-
-Daten der Nachbarkantone (Stand 2013): © Kantone Aargau, Luzern, Schwyz, Zürich Die dargestellten Inhalte der Nachbarkantone dienen zur Information und entsprechen sinngemäss etwa den Bezeichnungen in der Richtplankarte des Kantons Zug. Die genauen Definitionen sind den kantonalen und regionalen Richtplänen der Nachbarkantone zu entnehmen. Die Richtplaninhalte der Nachbarkantone sind nicht vollständig dargestellt.
-
-**Alle Angaben ohne Gewähr.**
 
 Kartendaten: SMR25, SMR100; reproduziert mit Bewilligung von swisstopo (BA100134).
 
@@ -151,10 +151,10 @@ Nachführungsstand der Landeskarte 1:25'000:
 
 **0 500**
 
-**3000m**
+**2000 3000m**
 
-**9 10 11 12 13 14 15 16 17 18 19 20 © Amt für Raum und Verkehr | Druckdatum**
+**9 10 11 12 13 14 15 16 17 18 19 20**
 
 **5 6 7 8 680000 2 685 000 2 690 000 21 22 23 2 695 000 24 25**
 
-1000 2000 03.12.2025| wa
+1000 © Amt für Raum und Verkehr | Druckdatum 02.03.2026| wa
