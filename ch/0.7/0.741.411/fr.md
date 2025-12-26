@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accord du 20 mars 1958 concernant l'adoption de règlements techniques harmonisé de l'ONU applicables aux véhicules à roues, aux équipements et pièces susceptibles d'être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces règlements (avec règlements et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: fr
-version: 2025-07-06
+version: 2025-12-27
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250706/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250706-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20251227/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20251227-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20251227/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 20 mars 1958 Amendé le 10 novembre 1967 Approuvé par l’Assemblée fédérale le 15 mars 1973[^t-1] Instrument d’adhésion déposé par la Suisse le 29 juin 1973 Entré en vigueur pour la Suisse le 28 août 1973 Amendements adoptés le 18 août 1994 Entrés en vigueur le 16 octobre 1995 Amendements adoptés le 25 septembre 2015 Entrés en vigueur le 14 septembre 2017
 
-(État le 6 juillet 2025)
+(État le 27 décembre 2025)
 
 [^t-1]: [RO 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -668,15 +668,17 @@ Annexe 4[^t-2]
 - Exemple de la première extension de la 2439e homologation de type délivrée par le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord en vertu de la troisième série d’amendements du Règlement no 83 pour un véhicule de catégorie M, N1 classe I en ce qui concerne les émissions de polluants selon les exigences du moteur en matière de carburant:
 - E11\*83R03/00/J\*2439\*01
 
-Annexe 5
+Annexe 5[^t-3]
 
 ## Échange de renseignements sur les homologations
+
+[^t-3]: Mise à jour par l’Am. du 27 sept. 2025, en vigueur depuis le 27 déc. 2025 ([RO 2025 859](https://fedlex.data.admin.ch/eli/oc/2025/859)).
 
 \1. Lorsqu’une autorité d’homologation est tenue ou priée de fournir une copie d’une homologation et des pièces qui lui sont jointes, elle peut envoyer ces documents sur papier, ou par courriel sous forme électronique, ou encore en utilisant la base de données en ligne sécurisée établie par le Secrétaire exécutif de la Commission économique pour l’Europe des Nations Unies.
 
 \2. Parmi les documents stockés dans la base de données en ligne sécurisée doivent figurer au moins les documents spécifiés dans chaque Règlement de l’ONU, à savoir les documents informant les Parties contractantes d’une homologation, d’une extension, d’un refus ou d’un retrait d’homologation, ou encore d’un arrêt définitif de la production d’un type de véhicule, d’un équipement ou d’une pièce conformément audit Règlement.
 
-\3. Si les homologations de type applicable à un véhicule à roues, un équipement ou une pièce sont enregistrées dans la base de données en ligne sécurisée de la CEE, les marques d’homologation requises en vertu du Règlement de l’ONU peuvent être remplacées par un identifiant unique (UI) précédé du symbol (sauf dispositions contraires dans le Règlement). Cet identifiant unique doit être produit automatiquement par le logiciel de la base de données.
+\3. Si les homologations de type applicables à un véhicule à roues, un équipement ou une pièce sont enregistrées dans la base de données en ligne sécurisée, les marques d’homologation requises au titre des Règlements ONU concernés peuvent être remplacées par un identifiant unique (UI) précédé du symbole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20251227/fr/xml/image/image1.png)</sub>, si cela est explicitement spécifié dans lesdits Règlements ONU et sous réserve que cette possibilité soit offerte dans la base de données en ligne sécurisée. Cet identifiant unique doit être produit automatiquement par le logiciel de la base de données.
 
 \4. Toutes les Parties contractantes appliquant un Règlement de l’ONU doivent avoir accès, au moyen de l’identifiant unique, à l’information concernant ce Règlement qui est enregistrée dans la base de données. Elles auront ainsi accès à l’information pertinente concernant une ou plusieurs homologations.
 
@@ -792,7 +794,7 @@ Annexe 8
 - Il doit en outre apporter une assistance appropriée à l’autorité d’homologation ou au service technique.
 - La fourniture de l’accès et de l’assistance au service technique ne supprime aucune des obligations qui lui incombent en ce qui concerne les compétences de son personnel, le paiement des droits de licence et le respect de la confidentialité.
 
-Champ d’application de l’accord le 23 juin 2023[^t-3]
+Champ d’application de l’accord le 23 juin 2023[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -856,13 +858,13 @@ Champ d’application de l’accord le 23 juin 2023[^t-3]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org)/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-3]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
-Règlements[^t-4]
+Règlements[^t-5]
 
 ## Règlement n<sup>o</sup> 0 annexé à l’Accord
 
-[^t-4]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/un ‑regulations ‑addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Le champ d’application peut être consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/status-1958-agreement-and-annexed-regulations](http://www.unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-5]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/un ‑regulations ‑addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Le champ d’application peut être consulté sur le site Internet de l’Organisation des Nations Unies: [www.unece.org/status-1958-agreement-and-annexed-regulations](http://www.unece.org/status-1958-agreement-and-annexed-regulations).
 
 Prescriptions uniformes concernant un régime d’homologation de type internationale de l’ensemble du véhicule
 

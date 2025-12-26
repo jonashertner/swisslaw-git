@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2025-07-06
+version: 2025-12-27
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20250706/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20250706-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20250706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20251227/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20251227-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20251227/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2017** 5085
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 6. Juli 2025)
+(Stand am 27. Dezember 2025)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -668,15 +668,17 @@ Anhang 4[^t-2]
 - Beispiel für die erste Erweiterung zur 2439. Typengenehmigung, gemäss der UN-Regelung Nr. 83 unter Einbezug der dritten Änderungsserie für eine Fahrzeuggenehmigung für Fahrzeuge der Klasse M, N<sub>1</sub> Klasse I, hinsichtlich Motorschadstoffen entsprechend den Kraftstofferfordernissen, ausgestellt durch das Vereinigte Königreich von Grossbritannien und Nordirland:
 - E11\*83R03/00/J\*2439\*01
 
-Anhang 5
+Anhang 5[^t-3]
 
 ## Übermittlung von Genehmigungsunterlagen
+
+[^t-3]: Bereinigt gemäss der am 27. Sept. 2025 angenommenen Änd., in Kraft seit 27. Dez. 2025 (AS **202****5** 859).
 
 \1. Hat eine Genehmigungsbehörde aufgrund von Vorschriften oder eines Antrags eine Kopie einer Genehmigung und ihrer Anhänge zur Verfügung zu stellen, übermittelt sie die Dokumente in Papierform oder elektronisch per E-Mail oder unter Nutzung der sicheren Internetdatenbank, die von der Wirtschaftskommission für Europa der Vereinten Nationen eingerichtet wurde.
 
 \2. Die in der sicheren Internetdatenbank gespeicherten Dokumente umfassen mindestens die in der jeweiligen UN-Regelung festgelegten Unterlagen. Diese beinhalten Dokumente, mit denen den Vertragsparteien Genehmigungen, Erweiterungen, Versagungen bzw. Zurücknahmen von Genehmigungen angezeigt werden bzw. die definitive Einstellung der Produktion eines Typs von Radfahrzeugen, Ausrüstungsgegenständen oder Teilen nach der UN-Regelung mitgeteilt wird.
 
-\3. Sind die Typengenehmigungen für Radfahrzeuge, Ausrüstungsgegenstände oder Teile in der sicheren Internetdatenbank gespeichert, können die durch UN-Regelungen vorgeschriebenen Genehmigungszeichen durch eine eindeutige Kennung, einen sogenannten Unique Identifier (UI), dem das Symbol vorangestellt wird, ersetzt werden, sofern die UN-Regelungen nichts anderes vorschreiben. Die Unique Identifier werden automatisch durch die Datenbank generiert.
+\3. Sind die Typengenehmigungen für Radfahrzeuge, Ausrüstungsgegenstände oder Teile in der sicheren Internetdatenbank gespeichert, können die nach den betreffenden UN-Regelungen vorgeschriebenen Genehmigungszeichen durch eine eindeutige Kennung, einen sogenannten Unique Identifier (UI), dem das Symbol vorangestellt wird, ersetzt werden, sofern dies in den genannten UN-Regelungen ausdrücklich festgelegt und diese Möglichkeit in der sicheren Internetdatenbank vorgesehen ist. Die UI werden automatisch durch die Datenbank generiert.
 
 \4. Alle Vertragsparteien, die eine UN-Regelung anwenden, erhalten unter Nutzung des Unique Identifier Zugang zu den in der Datenbank enthaltenen Informationen zur betreffenden UN-Regelung und werden so zu den massgeblichen Informationen bezüglich der jeweiligen Genehmigung(en) geleitet.
 
@@ -792,7 +794,7 @@ Anhang 8
 - Zudem muss der Hersteller die Genehmigungsbehörde sowie den technischen Dienst in geeigneter Weise unterstützen.
 - Der technische Dienst ist, auch wenn er Zugang und Unterstützung erhält, weiterhin an seine Verpflichtungen hinsichtlich der Kompetenzen seines Personals, der Zahlung von Lizenzgebühren und der Wahrung der Vertraulichkeit gebunden.
 
-Geltungsbereich am 23. Juni 2023[^t-3]
+Geltungsbereich am 23. Juni 2023[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -856,13 +858,13 @@ Geltungsbereich am 23. Juni 2023[^t-3]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1978 518](https://fedlex.data.admin.ch/eli/oc/1978/518_518_518); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1978 518](https://fedlex.data.admin.ch/eli/oc/1978/518_518_518); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Reglemente[^t-4]
+Reglemente[^t-5]
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: [www.unece.org/un ‑regulations-addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-5]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: [www.unece.org/un ‑regulations-addenda-1958-agreement](http://www.unece.org/un-regulations-addenda-1958-agreement). Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 
