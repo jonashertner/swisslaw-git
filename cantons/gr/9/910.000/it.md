@@ -4,13 +4,12 @@ number: "910.000"
 title: "Legge sulla conservazione e il promovimento dell'agricoltura"
 short: "Legge sull'agricoltura"
 language: it
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 1994-09-25
 in_force: 1995-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/910.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3425/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3868/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3425/pdf_file"
 
 (Legge sull'agricoltura)
 
-del 25.09.1994 (stato 01.01.2025)
+del 25.09.1994 (stato 31.12.2025)
 
 accettata dal Popolo il 25 settembre 1994[^ingress-1]
 
@@ -240,7 +239,9 @@ accettata dal Popolo il 25 settembre 1994[^ingress-1]
 
 <sup>2</sup> Al Gran Consiglio spetta la competenza di determinare definitivamente ogni anno nel preventivo i crediti per i sussidi del Cantone in base alla presente legge nonché alle ordinanze d'esecuzione del Gran Consiglio, per quanto questi non siano già fissati nella legge o in ordinanze.
 
-<sup>3</sup> Per misure cantonali autonome ai sensi della presente legge viene fissato un importo pari al massimo a cinque milioni di franchi. Il Gran Consiglio può adeguare detto importo alla mutata situazione economica.
+<sup>3</sup> Per misure cantonali autonome ai sensi della presente legge viene fissato un importo pari al massimo a cinque milioni di franchi. Il Gran Consiglio può adeguare detto importo alla mutata situazione economica. Sono fatti salvi i sussidi promozionali a favore di tali misure dal finanziamento speciale protezione del clima e innovazione[^25-1].
+
+[^25-1]: art. 19 CSC [820.400](https://www.gr-lex.gr.ch/data/820.400/it)
 
 #### Art. 26
 
@@ -344,7 +345,7 @@ accettata dal Popolo il 25 settembre 1994[^ingress-1]
 
 **3. Dipartimento competente**
 
-<sup>1</sup> Il dipartimento competente ai sensi della presente legge nonché delle disposizioni esecutive e d'attuazione è il Dipartimento dell'interno e dell'economia pubblica, per quanto il Governo non designi un altro dipartimento.
+<sup>1</sup> Il dipartimento competente ai sensi della presente legge nonché delle disposizioni esecutive e d'attuazione è il Dipartimento dell'economia pubblica e socialità, per quanto il Governo non designi un altro dipartimento.
 
 #### Art. 38
 

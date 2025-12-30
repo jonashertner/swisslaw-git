@@ -4,13 +4,12 @@ number: "910.000"
 title: "Lescha per mantegnair e promover l'agricultura"
 short: "lescha d'agricultura"
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 1994-09-25
 in_force: 1995-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/910.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3425/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3868/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3425/pdf_file"
 
 (lescha d'agricultura)
 
-dals 25-09-1994 (versiun dals 01-01-2025)
+dals 25-09-1994 (versiun dals 31-12-2025)
 
 acceptada dal pievel ils 25 da settember 1994[^ingress-1]
 
@@ -240,7 +239,9 @@ acceptada dal pievel ils 25 da settember 1994[^ingress-1]
 
 <sup>2</sup> Il cussegl grond po en atgna cumpetenza fixar definitivamain mintga onn en il budget ils credits per las contribuziuns dal chantun sin fundament da questa lescha sco er da las ordinaziuns executivas dal cussegl grond, sche questas contribuziuns n'èn anc betg fixadas en la lescha u en las ordinaziuns.
 
-<sup>3</sup> Per mesiras chantunalas independentas en il senn da questa lescha vegn fixà in import da maximalmain 5 milliuns francs. Il cussegl grond po adattar quest import a las relaziuns economicas midadas.
+<sup>3</sup> Per mesiras chantunalas independentas en il senn da questa lescha vegn fixà in import da maximalmain 5 milliuns francs. Il Cussegl grond po adattar quest import a las relaziuns economicas midadas. Resalvadas restan contribuziuns da promoziun a questas mesiras or da la finanziaziun speziala Protecziun dal clima ed innovaziun[^25-1].
+
+[^25-1]: Art. 19 DG [820.400](https://www.gr-lex.gr.ch/data/820.400/rm)
 
 #### Art. 26
 
@@ -344,7 +345,7 @@ acceptada dal pievel ils 25 da settember 1994[^ingress-1]
 
 **3. Departament cumpetent**
 
-<sup>1</sup> Il departament cumpetent en il senn da questa lescha sco er da las disposiziuns executivas è il departament da l'intern e da l'economia publica, nun che la regenza designeschia in auter departament.
+<sup>1</sup> Il departament cumpetent en il senn da questa lescha sco er da las disposiziuns executivas è il Departament d'economia publica e fatgs socials, nun che la Regenza designeschia in auter departament.
 
 #### Art. 38
 

@@ -4,13 +4,12 @@ number: "910.000"
 title: Gesetz über die Erhaltung und Förderung der Landwirtschaft
 short: Landwirtschaftsgesetz
 language: de
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 1994-09-25
 in_force: 1995-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/910.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3425/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3868/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3425/pdf_file"
 
 (Landwirtschaftsgesetz)
 
-Vom 25.09.1994 (Stand 01.01.2025)
+Vom 25.09.1994 (Stand 31.12.2025)
 
 Vom Volke angenommen am 25. September 1994[^ingress-1]
 
@@ -240,7 +239,9 @@ Vom Volke angenommen am 25. September 1994[^ingress-1]
 
 <sup>2</sup> Der Grosse Rat kann in eigener Kompetenz endgültig jährlich die Kredite für die Beiträge des Kantons aufgrund dieses Gesetzes sowie der grossrätlichen Vollziehungsverordnungen im Budget festsetzen, soweit sie nicht bereits in Gesetz oder Verordnungen festgelegt sind.
 
-<sup>3</sup> Für eigenständige kantonale Massnahmen im Sinne dieses Gesetzes wird ein Betrag von höchstens fünf Millionen Franken festgelegt. Der Grosse Rat kann diesen Betrag veränderten wirtschaftlichen Verhältnissen anpassen.
+<sup>3</sup> Für eigenständige kantonale Massnahmen im Sinne dieses Gesetzes wird ein Betrag von höchstens fünf Millionen Franken festgelegt. Der Grosse Rat kann diesen Betrag veränderten wirtschaftlichen Verhältnissen anpassen. Vorbehalten bleiben Förderbeiträge an diese Massnahmen aus der Spezialfinanzierung Klimaschutz und Innovation[^25-1].
+
+[^25-1]: Art. 19 BR [820.400](https://www.gr-lex.gr.ch/data/820.400/de)
 
 #### Art. 26
 
@@ -344,7 +345,7 @@ Vom Volke angenommen am 25. September 1994[^ingress-1]
 
 **3. Zuständiges Departement**
 
-<sup>1</sup> Zuständiges Departement im Sinne des vorliegenden Gesetzes sowie der Vollziehungs- und Ausführungsbestimmungen ist das Departement des Innern und der Volkswirtschaft, sofern die Regierung nicht ein anderes Departement bezeichnet.
+<sup>1</sup> Zuständiges Departement im Sinne des vorliegenden Gesetzes sowie der Vollziehungs- und Ausführungsbestimmungen ist das Departement für Volkswirtschaft und Soziales, sofern die Regierung nicht ein anderes Departement bezeichnet.
 
 #### Art. 38
 
