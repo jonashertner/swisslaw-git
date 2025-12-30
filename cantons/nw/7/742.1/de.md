@@ -4,13 +4,12 @@ number: "742.1"
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: "Krankenversicherungsgesetz, kKVG"
 language: de
-version: 2024-07-01
-valid_until: 2025-12-30
-version_adopted: 2024-04-24
+version: 2025-12-31
+version_adopted: 2025-04-09
 adopted: 2006-10-25
 in_force: 2007-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1284/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1409/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1284/pdf_file"
 
 (Krankenversicherungsgesetz, kKVG)
 
-vom 25.10.2006 (Stand 01.07.2024)
+vom 25.10.2006 (Stand 31.12.2025)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 28 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^ingress-1],
+gestützt auf Art. 28 und 60 Abs. 1 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^ingress-1],
 
 beschliesst:
 
@@ -497,7 +496,8 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat bestimmt:
 
 - 1\. bei ambulanten Pflegeleistungen der Pflegefachpersonen sowie der Organisationen der Krankenpflege und Hilfe zu Hause für jede Art der Leistung gemäss Art. 7 Abs. 2 lit. a–c KLV[^28i-1] eine Norm-Pflegetaxe. Die Vergütung richtet sich nach dem Zeitaufwand;
-- 2\. bei ambulanten Pflegeleistungen der Pflegeheime, die als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, für jede Art der Leistung gemäss Art. 7 Abs. 2 lit. a–c KLV eine Norm-Pflegetaxe, die nicht höher als 90 Prozent derjenigen gemäss Ziff. 1 sein darf. Die Vergütung richtet sich nach dem Zeitaufwand;
+- 2\. bei ambulanten Pflegeleistungen der Pflegeheime, die als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, für jede Art der Leistung gemäss Art. 7 Abs. 2 lit. a–c KLV eine Norm-Pflegetaxe, die nicht höher als 85 Prozent derjenigen gemäss Ziff. 1 sein darf. Die Vergütung richtet sich nach dem Zeitaufwand;
+- 2a. bei ambulanten Pflegeleistungen, die durch Organisationen der Krankenpflege und Hilfe zu Hause erbracht werden, bei denen Pflegende zum Einsatz kommen, die im selben Haushalt wie die versicherte Person leben oder deren Angehörige sind, für Leistungen gemäss Art. 7 Abs. 2 lit. c KLV eine Norm-Pflegetaxe, die nicht höher als 70 Prozent derjenigen gemäss Ziff. 1 sein darf. Die Vergütung richtet sich nach dem Zeitaufwand;
 - 3\. bei ambulanten Pflegeleistungen der Pflegefachpersonen sowie der Organisationen der Krankenpflege und Hilfe zu Hause für jede zuschlagsberechtigte Leistung eine Taxe; der Regierungsrat kann in einer Verordnung für bestimmte Leistungen nicht pauschalisierte Vergütungen (Einzelvergütungen) vorsehen, wenn dies sachlich notwendig ist.
 
 <sup>3</sup> Die Pflegefachpersonen sowie Organisationen der Krankenpflege und Hilfe zu Hause dürfen für ambulante Pflegeleistungen keine die Pflegetaxe übersteigenden Vergütungen in Rechnung stellen.
@@ -520,7 +520,7 @@ beschliesst:
 
 **3. Verfahren**
 
-<sup>1</sup> Die Leistungserbringer haben der Direktion ihre Kostenrechnung und Leistungsstatistik einzureichen. Die Organisationen der Krankenpflege und Hilfe zu Hause sowie die Pflegefachpersonen können einen Antrag zur Höhe der Norm-Pflegetaxe stellen. Der Regierungsrat legt den Termin für die Einreichung in einer Verordnung fest.
+<sup>1</sup> Die Leistungserbringer haben dem Amt ihre Kostenrechnung und Leistungsstatistik einzureichen. Die Organisationen der Krankenpflege und Hilfe zu Hause sowie die Pflegefachpersonen können einen Antrag zur Höhe der Norm-Pflegetaxe stellen. Der Regierungsrat legt den Termin für die Einreichung in einer Verordnung fest.
 
 <sup>2</sup> Der Regierungsrat legt jeweils spätestens drei Monate vor Beginn des Kalenderjahres die Höhe der Pflegetaxe und der Zuschläge mittels Verfügung fest.
 
@@ -530,24 +530,26 @@ beschliesst:
 
 #### Art. 28l
 
-**Beiträge an Pflegeleistungen 1. Geltendmachung, Erlöschen des Anspruchs**
+**Beiträge an Pflegeleistungen 1. Verfahren**
 
-<sup>1</sup> Will die versicherte Person Beiträge an die Kosten der Pflegeleistungen in Anspruch nehmen, hat sie beim Amt einen Antrag zu stellen.
+<sup>1</sup> Der Regierungsrat regelt das Verfahren zur Abrechnung und Auszahlung der Beiträge an die Kosten der Pflegeleistungen in einer Verordnung.
 
-<sup>2</sup> Die Verwirkung des Anspruchs auf Rückvergütung der Pflegeleistungen richtet sich nach den Bestimmungen des ATSG[^28l-1].
+<sup>2</sup> Er kann vorsehen, dass die versicherten Personen beziehungsweise die Leistungserbringer beim Kanton einen Antrag auf Gewährung von Beiträgen stellen müssen. Die Antragspflicht kann auf bestimmte Personengruppen beschränkt sein.
 
-[^28l-1]: SR 830.1
+<sup>3</sup> Die Abrechnung erfolgt über eine elektronische Kommunikationsplattform, wenn der Regierungsrat dies in einer Verordnung vorsieht.
+
+<sup>4</sup> Die elektronische Kommunikationsplattform hat den Datenschutz sowie die Informationssicherheit zu gewährleisten. Es ist insbesondere sicherzustellen, dass die Personendaten:
+
+- 1\. nur den mit der Durchführung, der Kontrolle und der Beaufsichtigung der Durchführung der Pflegefinanzierung betrauten Organen zugänglich gemacht werden;
+- 2\. durch angemessene organisatorische und technische Massnahmen gegen unbefugte Bearbeitung geschützt werden.
 
 #### Art. 28m
 
-**2. Verfahren**
+**2. Erlöschen, Rückerstattung**
 
-<sup>1</sup> Der Regierungsrat regelt in einer Verordnung insbesondere:
+<sup>1</sup> Das Erlöschen des Anspruchs auf Beiträge an Pflegeleistungen sowie die Rückerstattung unrechtmässig bezogener Beiträge richtet sich nach den Bestimmungen des ATSG[^28m-1].
 
-- 1\. die Antragsstellung durch die versicherte Person;
-- 2\. die Rechnungsstellung und die Abrechnung durch die Leistungserbringer;
-- 3\. den Zeitpunkt und die Form des Entscheids über kantonale Beiträge durch das Amt;
-- 4\. die Auszahlung der kantonalen Beiträge.
+[^28m-1]: SR 830.1
 
 #### Art. 28n
 
@@ -680,6 +682,12 @@ beschliesst:
 <sup>1</sup> Für das erste Jahr nach Inkrafttreten der Änderung vom 21. Oktober 2020 setzt der Regierungsrat die individuellen Pflegetaxen für Pflegeheime zu Jahresbeginn fest.
 
 <sup>2</sup> Pflegeleistungen, die vor der Festlegung erbracht werden, sind gestützt auf provisorische Pflegetaxen zu vergüten.
+
+#### Art. 38c
+
+**Übergangsbestimmung zur Änderung vom 9. April 2025**
+
+<sup>1</sup> Die neuen Höchstansätze bei den Norm-Taxen gemäss Art. 28i Abs. 2 und 2a sind erstmals im ersten Kalenderjahr nach Inkrafttreten der Änderung vom 9. April 2025 anwendbar.
 
 #### Art. 39
 
