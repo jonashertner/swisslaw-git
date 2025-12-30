@@ -4,13 +4,13 @@ number: 600a
 title: Verordnung zum Gesetz über die Steuerung der Finanzen und Leistungen
 short: FLV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2024-12-10
+version: 2025-12-31
+valid_until: 2026-07-31
+version_adopted: 2025-03-18
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/600a"
-pdf: "https://srl.lu.ch/api/de/versions/4320/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4320/pdf_file"
 
 (FLV)
 
-vom 17.12.2010 (Stand 01.01.2025)
+vom 17.12.2010 (Stand 31.12.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -720,13 +720,13 @@ beschliesst:
 <sup>2</sup> Die zu veranlagenden und in der Erfolgsrechnung n auszuweisenden Staatssteuern setzen sich zusammen aus
 
 - a. den im Jahr n den natürlichen und juristischen Personen für die Steuerperiode n in Rechnung gestellten Einkommens-, Vermögens-, Gewinn- und Kapitalsteuern,
-- b. den in den Jahren n+1 bis n+4 zu erwartenden Nach- und Rückträgen für die Steuerperiode n,
-- b<sup>bis</sup>. allfälligen Korrekturen der in den Jahresrechnungen n–3 bis n–1 vorgenommenen Schätzungen der erwarteten Nach- und Rückträge,
-- c. der Differenz zwischen den in der Jahresrechnung n–4 berücksichtigten Nach- und Rückträgen für die Steuerperiode n–4 und den tatsächlichen Nach- und Rückträgen für die Steuerperiode n–4 in den Jahren n–3 bis n,
-- d. den tatsächlichen Nach- und Rückträgen für Steuerperioden vor dem Jahr n–4,
+- b. den in den Jahren n+1 bis n+3 zu erwartenden Nach- und Rückträgen für die Steuerperiode n,
+- b<sup>bis</sup>. …
+- c. der Differenz zwischen den in der Jahresrechnung n–3 berücksichtigten Nach- und Rückträgen für die Steuerperiode n–3 und den tatsächlichen Nach- und Rückträgen für die Steuerperiode n–3 in den Jahren n–2 bis n,
+- d. den tatsächlichen Nach- und Rückträgen für Steuerperioden vor dem Jahr n–3,
 - e. den im Jahr n in Rechnung gestellten Nach- und Strafsteuern sowie den Sondersteuern auf Kapitalauszahlungen.
 
-<sup>3</sup> Die gemäss Absatz 2b zu erwartenden Nach- und Rückträge für die Steuerperiode n ergeben sich aus dem Durchschnitt der tatsächlichen Nach- und Rückträge in den Jahren n–7 bis n. Die zu erwartenden Nach- und Rückträge sind tiefer anzusetzen, wenn das geschätzte Wachstum des nationalen Bruttoinlandprodukts im Jahr n mindestens 0,5 Prozentpunkte unter dem Durchschnitt der Jahre n–8 bis n–1 liegt. Ist infolge Änderungen des Steuergesetzes oder der Staatssteuereinheiten mit einer erheblichen Ab- oder Zunahme der Nach- und Rückträge zu rechnen, sind diese entsprechend anzupassen.
+<sup>3</sup> Die gemäss Absatz 2b zu erwartenden Nach- und Rückträge für die Steuerperiode n werden als relativer Zuschlag in Bezug auf die gemäss Absatz 2a ausgewiesenen Erträge berechnet. Die Höhe dieses Zuschlagswertes entspricht dem Medianwert des relativen Verhältnisses von effektiven Nachträgen zu den Einnahmen der Kalenderjahre aus sechs Steuerperioden der Vergangenheit. Ist aufgrund von Änderungen des Steuergesetzes mit einer erheblichen Ab- oder Zunahme der Nach- und Rückträge zu rechnen, können diese entsprechend angepasst werden.
 
 #### § 53
 
@@ -802,5 +802,11 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Die Verordnung tritt am 1. Januar 2011 in Kraft. Sie ist zu veröffentlichen.
+
+#### § 59
+
+**Übergangsbestimmung zur Änderung vom 18. März 2025**
+
+<sup>1</sup> Beim Ausweis der Staatssteuererträge in der Erfolgsrechnung gemäss § 52 werden im ersten Jahresabschluss nach dem Inkrafttreten der Änderung vom 18. März 2025 die bestehenden Abgrenzungen der Jahre n−4 und n−3 gleichzeitig aufgelöst und die bestehenden Abgrenzungen der Jahre n−2 und n−1 in Absprache mit der Finanzkontrolle auf ihre Werthaltigkeit überprüft.
 
 G 2010 371
