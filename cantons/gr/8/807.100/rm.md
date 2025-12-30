@@ -4,13 +4,12 @@ number: "807.100"
 title: Lescha davart las vias dal chantun Grischun
 short: LVias
 language: rm
-version: 2016-01-01
-corrected: 2024-10-29
-version_adopted: 2015-12-07
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 2005-09-01
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/807.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3153/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3153/pdf_file"
 
 (LVias)
 
-dals 01-09-2005 (versiun dals 01-01-2016)
+dals 01-09-2005 (versiun dals 31-12-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -640,7 +639,7 @@ concluda:
 
 <sup>2</sup> Il cussegl grond concluda en atgna cumpetenza las expensas annualas en il rom dal quint da las vias.
 
-<sup>3</sup> Cun il preventiv fixescha el la contribuziun ordinaria or da meds publics generals per il quint da las vias. Questa contribuziun importa minimalmain 25 e maximalmain 75 pertschient da la taglia da traffic. En cas d'in quint economic positiv po il cussegl grond concluder contribuziuns supplementaras per reducir il debit da las vias. Sch'igl è avant maun ina facultad da las vias d'almain 50 milliuns francs, po il cussegl grond reducir la contribuziun minimala.
+<sup>3</sup> Cun il preventiv fixescha el la contribuziun ordinaria or da meds publics generals per il quint da las vias. Questa contribuziun importa minimalmain 25 e maximalmain 75 pertschient da la taglia da traffic. En cas d'in quint economic positiv po il Cussegl grond concluder contribuziuns supplementaras per reducir il debit da las vias. Sch'il debit da las vias surpassa 100 milliuns francs, vegn la contribuziun minimala augmentada a 50 pertschient da las taglias da traffic.
 
 <sup>4</sup> Il debit da las vias è limità a 250 milliuns francs e la facultad da las vias è limitada a 100 milliuns francs.
 
@@ -650,7 +649,7 @@ concluda:
 
 <sup>1</sup> Las expensas per il quint da las vias vegnan finanziadas spezialmain tras:
 
-- a) contribuziuns e parts cun in intent specific or da retgavs da la confederaziun, inclusiv l'entira part da la taxa sin il traffic pesant dependenta da la prestaziun (TTPDP);
+- a) contribuziuns e cumparts cun in intent specific or da retgavs da la Confederaziun, inclusiv 70 pertschient da l'entira part da la taxa sin il traffic pesant dependenta da la prestaziun (TTPDP);
 - b) taglias da traffic sco er ulteriuras taxas e multas disciplinaras suenter avair deducì las expensas per l'uffizi per il traffic sin via e per las incumbensas da la polizia chantunala en connex cun il traffic;
 - c) contribuziuns ordinarias ed extraordinarias or da meds publics generals.
 

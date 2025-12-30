@@ -4,13 +4,12 @@ number: "807.100"
 title: Legge stradale del Cantone dei Grigioni
 short: LStra
 language: it
-version: 2016-01-01
-corrected: 2024-10-29
-version_adopted: 2015-12-07
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 2005-09-01
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/807.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3153/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3593/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3153/pdf_file"
 
 (LStra)
 
-del 01.09.2005 (stato 01.01.2016)
+del 01.09.2005 (stato 31.12.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -640,7 +639,7 @@ decide:
 
 <sup>2</sup> Il Gran Consiglio decide di propria competenza le spese annuali nell'ambito del conto stradale.
 
-<sup>3</sup> Esso stabilisce con il preventivo il sussidio ordinario dai fondi pubblici destinato al conto stradale. Questo sussidio ammonta almeno al 25 e al massimo al 75 percento delle imposte sulla circolazione. In caso di chiusura positiva del conto economico, il Gran Consiglio può concedere sussidi supplementari per ridurre il debito stradale.
+<sup>3</sup> Esso stabilisce con il preventivo il sussidio ordinario dai fondi pubblici destinato al conto stradale. Questo sussidio ammonta almeno al 25 e al massimo al 75 per cento delle imposte di circolazione. In caso di chiusura positiva del conto economico, il Gran Consiglio può concedere sussidi supplementari per ridurre il debito stradale. Se il debito stradale supera i 100 milioni di franchi, il sussidio minimo aumenta al 50 per cento delle imposte sulla circolazione.
 
 <sup>4</sup> Il debito stradale è limitato a 250 milioni di franchi e il patrimonio stradale a 100 milioni di franchi.
 
@@ -650,7 +649,7 @@ decide:
 
 <sup>1</sup> Le spese del conto stradale vengono finanziate segnatamente mediante:
 
-- a) sussidi e quote vincolate allo scopo provenienti da ricavi della Confederazione, inclusa l'intera quota alla tassa sul traffico pesante commisurata alle prestazioni (TTPCP);
+- a) sussidi e quote vincolate allo scopo provenienti da ricavi della Confederazione, incluso il 70 per cento dell'intera quota alla tassa sul traffico pesante commisurata alle prestazioni (TTPCP);
 - b) tasse di circolazione, nonché altri tributi e multe disciplinari, dedotte le spese per l'Ufficio della circolazione e per i compiti della Polizia cantonale legati alla circolazione;
 - c) sussidi ordinari e straordinari provenienti da fondi pubblici.
 

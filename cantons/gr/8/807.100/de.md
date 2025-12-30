@@ -4,13 +4,12 @@ number: "807.100"
 title: Strassengesetz des Kantons Graubünden
 short: StrG
 language: de
-version: 2016-01-01
-corrected: 2024-10-29
-version_adopted: 2015-12-07
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 2005-09-01
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/807.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3153/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3153/pdf_file"
 
 (StrG)
 
-Vom 01.09.2005 (Stand 01.01.2016)
+Vom 01.09.2005 (Stand 31.12.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -640,9 +639,9 @@ beschliesst:
 
 <sup>2</sup> Der Grosse Rat beschliesst in eigener Kompetenz die jährlichen Ausgaben im Rahmen der Strassenrechnung.
 
-<sup>3</sup> Er legt mit dem Budget den ordentlichen Beitrag aus allgemeinen Staatsmitteln an die Strassenrechnung fest. Dieser Beitrag beträgt mindestens 25 Prozent und höchstens 75 Prozent der Verkehrssteuern. Bei positivem Abschluss der Erfolgsrechnung kann der Grosse Rat zusätzliche Beiträge zum Abbau der Strassenschuld beschliessen.
+<sup>3</sup> Er legt mit dem Budget den ordentlichen Beitrag aus allgemeinen Staatsmitteln an die Strassenrechnung fest. Dieser Beitrag beträgt mindestens 25 Prozent und höchstens 75 Prozent der Verkehrssteuern. Bei positivem Abschluss der Erfolgsrechnung kann der Grosse Rat zusätzliche Beiträge zum Abbau der Strassenschuld beschliessen. Übersteigt die Strassenschuld 100 Millionen Franken, erhöht sich der Mindestbeitrag auf 50 Prozent der Verkehrssteuern.
 
-<sup>4</sup> Die Strassenschuld ist auf 250 Mio. Franken und das Strassenvermögen auf 100 Mio. Franken begrenzt.
+<sup>4</sup> Die Strassenschuld ist auf 250 Millionen Franken und das Strassenvermögen auf 100 Millionen Franken begrenzt.
 
 #### Art. 56
 
@@ -650,7 +649,7 @@ beschliesst:
 
 <sup>1</sup> Die Aufwendungen der Strassenrechnung werden insbesondere finanziert durch:
 
-- a) Beiträge und zweckgebundene Anteile aus Bundeserträgnissen, inklusive des gesamten Anteils an der leistungsabhängigen Schwerverkehrsabgabe (LSVA);
+- a) Beiträge und zweckgebundene Anteile aus Bundeserträgnissen, inklusive 70 Prozent des gesamten Anteils an der leistungsabhängigen Schwerverkehrsabgabe (LSVA);
 - b) Verkehrssteuern sowie übrige Abgaben und Ordnungsbussen, nach Abzug der Aufwendungen für das Strassenverkehrsamt und für die verkehrsbezogenen Aufgaben der Kantonspolizei;
 - c) ordentliche und ausserordentliche Beiträge aus allgemeinen Staatsmitteln.
 
