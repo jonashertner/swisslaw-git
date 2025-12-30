@@ -3,20 +3,19 @@ canton: GR
 number: "915.100"
 title: Legge sulle bonifiche fondiarie del Cantone dei Grigioni
 language: it
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 1981-04-05
 in_force: 1981-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/915.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3426/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3871/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle bonifiche fondiarie del Cantone dei Grigioni
 
-del 05.04.1981 (stato 01.01.2025)
+del 05.04.1981 (stato 31.12.2025)
 
 accettata dal Popolo il 5 aprile 1981[^ingress-1]
 
@@ -70,7 +69,7 @@ accettata dal Popolo il 5 aprile 1981[^ingress-1]
 
 **Competenza per la determinazione del comprensorio**
 
-<sup>1</sup> Il comprensorio viene stabilito dall'ufficio cantonale competente d'intesa con i municipi (le sovrastanze). Se non si raggiunge un accordo, decide il Dipartimento dell'interno e dell'economia pubblica.
+<sup>1</sup> Il comprensorio viene stabilito dall'ufficio cantonale competente d'intesa con i municipi (le sovrastanze). Se non si raggiunge un accordo, decide il Dipartimento dell'economia pubblica e socialità.
 
 <sup>2</sup> Bisogna procedere analogamente nel caso di mutamenti del comprensorio. Trattandosi di bonifiche eseguite da un consorzio, al posto del municipio (della sovrastanza) subentra in questo caso la sovrastanza del consorzio.
 
@@ -503,9 +502,11 @@ accettata dal Popolo il 5 aprile 1981[^ingress-1]
 
 **Ammontare dei sussidi cantonali**
 
-<sup>1</sup> Il Cantone versa sussidi al massimo fino al 40 per cento delle spese sussidiabili, per il raggruppamento di terreni al massimo fino al 50 per cento.
+<sup>1</sup> Il Cantone versa sussidi al massimo fino al 40 per cento delle spese sussidiabili, per il raggruppamento di terreni al massimo fino al 50 per cento. Se vengono erogati sussidi promozionali provenienti dal finanziamento speciale protezione del clima e innovazione[^49-1], si applicano limiti di sussidio fino a un massimo dell'80 per cento.
 
 <sup>2</sup> Il Governo decide definitivamente sull'ammontare dei sussidi. Esso può vincolare le promesse di sussidio con condizioni e oneri.
+
+[^49-1]: art. 19 CSC [820.400](https://www.gr-lex.gr.ch/data/820.400/it)
 
 #### Art. 50
 
@@ -579,6 +580,6 @@ accettata dal Popolo il 5 aprile 1981[^ingress-1]
 - a) dichiarare applicabili determinate norme dei capitoli I-III di questa legge,
 - b) dichiarare applicabili in tutta la loro estensione i capitoli I-III di questa legge per le bonifiche fondiarie che sono state decise dai proprietari fondiari dopo il 31 dicembre 1976.
 
-<sup>3</sup> Gli statuti d'operazioni esistenti devono essere inviati per esame al Dipartimento dell'interno entro un anno dall'entrata in vigore di questa legge.
+<sup>3</sup> Gli statuti d'operazioni esistenti devono essere inviati per esame al Dipartimento dell'economia pubblica e socialità entro un anno dall'entrata in vigore di questa legge.
 
 -

@@ -3,20 +3,19 @@ canton: GR
 number: "915.100"
 title: Lescha da meglieraziun dal chantun Grischun
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 1981-04-05
 in_force: 1981-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/915.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3426/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3871/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha da meglieraziun dal chantun Grischun
 
-dals 05-04-1981 (versiun dals 01-01-2025)
+dals 05-04-1981 (versiun dals 31-12-2025)
 
 acceptada dal pievel ils 5 d'avrigl 1981[^ingress-1]
 
@@ -70,7 +69,7 @@ acceptada dal pievel ils 5 d'avrigl 1981[^ingress-1]
 
 **Cumpetenza da determinar il territori cumpiglià**
 
-<sup>1</sup> Il territori cumpiglià vegn determinà da l'uffizi chantunal cumpetent en enclegientscha cun las suprastanzas communalas. Sch'i na dat nagina cunvegna, decida il departament da l'intern e da l'economia publica.
+<sup>1</sup> Il territori cumpiglià vegn determinà da l'uffizi chantunal cumpetent en enclegientscha cun las suprastanzas communalas. Sch'i na dat nagina cunvegna, decida il Departament d'economia publica e fatgs socials.
 
 <sup>2</sup> Analogamain èsi d'agir tar midadas dal territori cumpiglià. Tar las meglieraziuns che vegnan realisadas d'ina associaziun entra en quest cas la suprastanza da l'associaziun empè da la suprastanza communala.
 
@@ -503,9 +502,11 @@ acceptada dal pievel ils 5 d'avrigl 1981[^ingress-1]
 
 **Import da las contribuziuns chantunalas**
 
-<sup>1</sup> Il chantun paja contribuziuns da fin maximalmain 40 pertschient dals custs cun dretg da subvenziuns, ad arrundaziuns dal terren contribuziuns da fin maximalmain 50 pertschient.
+<sup>1</sup> Il chantun paja contribuziuns da fin maximalmain 40 pertschient dals custs subvenziunabels, ad arrundaziuns dal terren contribuziuns da fin maximalmain 50 pertschient. Sch'i vegnan pajadas contribuziuns da promoziun or da la finanziaziun speziala Protecziun dal clima ed innovaziun[^49-1], valan limitas da contribuziun da fin maximalmain 80 pertschient.
 
 <sup>2</sup> La regenza decida definitivamain davart l'import da la contribuziun. Ella po colliar cundiziuns e pretensiuns cun las garanzias da contribuziun.
+
+[^49-1]: Art. 19 DG [820.400](https://www.gr-lex.gr.ch/data/820.400/rm)
 
 #### Art. 50
 
@@ -579,6 +580,6 @@ acceptada dal pievel ils 5 d'avrigl 1981[^ingress-1]
 - a) declerar per applitgablas tschertas prescripziuns dals chapitels I fin III da questa lescha;
 - b) declerar ils chapitels I fin III da questa lescha per applitgabels en lur cumplaina dimensiun per meglieraziuns ch'èn vegnidas concludidas dals proprietaris da bains immobigliars suenter ils 31 da december 1976.
 
-<sup>3</sup> Ils statuts da las interpresas existentas ston vegnir inoltrads al departament da l'intern e da l'economia publica per l'examinaziun, e quai entaifer in onn suenter l'entrada en vigur da questa lescha.
+<sup>3</sup> Ils statuts da las interpresas existentas ston vegnir inoltrads al Departament d'economia publica e fatgs socials per l'examinaziun, e quai entaifer in onn suenter l'entrada en vigur da questa lescha.
 
 -

@@ -3,20 +3,19 @@ canton: GR
 number: "915.100"
 title: Meliorationsgesetz des Kantons Graubünden
 language: de
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 1981-04-05
 in_force: 1981-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/915.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3426/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3871/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Meliorationsgesetz des Kantons Graubünden
 
-Vom 05.04.1981 (Stand 01.01.2025)
+Vom 05.04.1981 (Stand 31.12.2025)
 
 Vom Volke angenommen am 5. April 1981[^ingress-1]
 
@@ -70,7 +69,7 @@ Vom Volke angenommen am 5. April 1981[^ingress-1]
 
 **Zuständigkeit zur Festlegung des Beizugsgebietes**
 
-<sup>1</sup> Das Beizugsgebiet wird durch das zuständige kantonale Amt im Einvernehmen mit den Gemeindevorständen festgelegt. Kommt keine Einigung zustande, so entscheidet das Departement des Innern und der Volkswirtschaft.
+<sup>1</sup> Das Beizugsgebiet wird durch das zuständige kantonale Amt im Einvernehmen mit den Gemeindevorständen festgelegt. Kommt keine Einigung zustande, so entscheidet das Departement für Volkswirtschaft und Soziales.
 
 <sup>2</sup> Analog ist bei Änderungen des Beizugsgebietes zu verfahren. Bei den durch eine Genossenschaft durchgeführten Meliorationen tritt in diesem Falle anstelle des Gemeindevorstandes der Genossenschaftsvorstand.
 
@@ -503,9 +502,11 @@ Vom Volke angenommen am 5. April 1981[^ingress-1]
 
 **Höhe der Kantonsbeiträge**
 
-<sup>1</sup> Der Kanton richtet Beiträge bis zu höchstens 40 Prozent, an Güterzusammenlegungen bis zu höchstens 50 Prozent der subventionsberechtigten Kosten aus.
+<sup>1</sup> Der Kanton richtet Beiträge bis zu höchstens 40 Prozent, an Güterzusammenlegungen bis zu höchstens 50 Prozent der subventionsberechtigten Kosten aus. Werden Förderbeiträge aus der Spezialfinanzierung Klimaschutz und Innovation[^49-1] ausgerichtet, gelten Beitragsgrenzen bis höchstens 80 Prozent.
 
 <sup>2</sup> Die Regierung entscheidet über die Beitragshöhe endgültig. An die Beitragszusicherungen kann sie Bedingungen und Auflagen knüpfen.
+
+[^49-1]: Art. 19 BR [820.400](https://www.gr-lex.gr.ch/data/820.400/de)
 
 #### Art. 50
 
@@ -579,6 +580,6 @@ Vom Volke angenommen am 5. April 1981[^ingress-1]
 - a) bestimmte Vorschriften der Abschnitte 1. bis 3. dieses Gesetzes anwendbar erklären;
 - b) für Meliorationen, die von den Grundeigentümern nach dem 31. Dezember 1976 beschlossen worden sind, die Abschnitte 1. bis 3. dieses Gesetzes in vollem Umfange anwendbar erklären.
 
-<sup>3</sup> Die Statuten bestehender Unternehmen sind innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes dem Departement des Innern und der Volkswirtschaft zur Prüfung einzureichen.
+<sup>3</sup> Die Statuten bestehender Unternehmen sind innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes dem Departement für Volkswirtschaft und Soziales zur Prüfung einzureichen.
 
 -
