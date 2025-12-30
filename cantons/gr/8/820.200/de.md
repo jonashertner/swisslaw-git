@@ -4,13 +4,12 @@ number: "820.200"
 title: Energiegesetz des Kantons Graubünden
 short: BEG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3423/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3633/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3423/pdf_file"
 
 (BEG)
 
-Vom 20.04.2010 (Stand 01.01.2025)
+Vom 20.04.2010 (Stand 31.12.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -253,7 +252,7 @@ beschliesst:
 
 **Vorbild Kanton**
 
-<sup>1</sup> Kantonseigene Bauten müssen sich durch eine vorbildliche und effiziente Energienutzung auszeichnen.
+<sup>1</sup> Kantonseigene Bauten sowie Bauten, welche massgeblich mit Kantonsbeiträgen finanziert werden, müssen sich durch eine vorbildliche und effiziente Energienutzung auszeichnen.
 
 <sup>2</sup> Die Regierung legt die energetischen Anforderungen fest.
 
@@ -311,11 +310,29 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann Beiträge an die Erstellung von Photovoltaikanlagen an Bauten und Infrastrukturanlagen gewähren, sofern diese aufgrund ihrer Ausgestaltung und Positionierung eine besondere Effizienz für die Winterstromproduktion aufweisen.
 
+#### Art. 23b
+
+**Photovoltaikanlagen zur Nutzung des Flächenpotenzials**
+
+<sup>1</sup> Der Kanton kann Beiträge an die Erstellung von Photovoltaikanlagen an oder auf Gebäuden mit überwiegender Wohnnutzung gewähren, sofern die installierte Leistung den Eigenverbrauch erheblich übersteigt.
+
+#### Art. 23c
+
+**Ladeinfrastruktur für Elektrofahrzeuge**
+
+<sup>1</sup> Der Kanton kann Beiträge an die Erstellung von Ladeinfrastruktur auf Parkfeldern für gewerblich genutzte Fahrzeuge sowie in und an bestehenden Mehrfamilienhäusern gewähren.
+
+<sup>2</sup> Er kann zudem den Gemeinden Beiträge an die Errichtung von Ladeinfrastruktur bei öffentlich zugänglichen, bewirtschafteten Parkplätzen gewähren.
+
+<sup>3</sup> Der Kanton kann Beiträge für netzdienliche Ladeinfrastruktur bei Wohnbauten gewähren.
+
+<sup>4</sup> Förderbeiträge gemäss den Absätzen 1 und 2 können längstens bis Ende 2030, Förderbeiträge gemäss Absatz 3 können längstens bis Ende 2035 gewährt werden.
+
 #### Art. 24
 
 **Bemessung**
 
-<sup>1</sup> Die Bemessung der Beiträge gemäss den Artikeln 18 bis 23a erfolgt projektbezogen anhand folgender Kriterien:
+<sup>1</sup> Die Bemessung der Beiträge gemäss Artikel 18 bis Artikel 23c erfolgt projektbezogen anhand folgender Kriterien:
 
 - a) Gesamt-Energieeffizienz;
 - b) Energiebedarf;
@@ -327,7 +344,7 @@ beschliesst:
 - h) Nutzungsgrad;
 - i) Investitions- und Energiekosten.
 
-<sup>2</sup> Der Beitragsrahmen beträgt 1000 Franken bis 200 000 Franken. Die Regierung legt die Einzelheiten fest.
+<sup>2</sup> Der Beitragsrahmen beträgt 1000 Franken bis 300 000 Franken. Die Regierung legt die Einzelheiten fest.
 
 #### Art. 25
 
@@ -359,7 +376,7 @@ beschliesst:
 
 <sup>1</sup> Beginnt ein Gesuchsteller mit der Ausführung des Vorhabens oder tätigt er Anschaffungen vor der Beitragszusicherung, so werden ihm keine Beiträge gewährt, es sei denn, dass ihm der vorzeitige Baubeginn bewilligt wurde. Die vorzeitige Bewilligung verleiht keinen Anspruch auf eine Beitragsgewährung.
 
-<sup>2</sup> Die Gültigkeitsdauer der Förderbeiträge beträgt zwei Jahre ab dem Datum der Zusicherung, mit der Möglichkeit der Verlängerung um höchstens ein Jahr.
+<sup>2</sup> Die Gültigkeitsdauer der Förderbeiträge beträgt drei Jahre ab dem Datum der Zusicherung, mit der Möglichkeit der Verlängerung um höchstens zwei Jahre.
 
 #### Art. 29
 

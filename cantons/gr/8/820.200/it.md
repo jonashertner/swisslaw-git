@@ -4,13 +4,12 @@ number: "820.200"
 title: "Legge sull'energia del Cantone dei Grigioni"
 short: LGE
 language: it
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3423/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3633/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3423/pdf_file"
 
 (LGE)
 
-del 20.04.2010 (stato 01.01.2025)
+del 20.04.2010 (stato 31.12.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -251,7 +250,7 @@ decide:
 
 **Cantone quale modello**
 
-<sup>1</sup> Gli edifici di proprietà del Cantone devono contraddistinguersi per un impiego esemplare ed efficiente dell'energia.
+<sup>1</sup> Gli edifici di proprietà del Cantone nonché gli edifici finanziati in misura determinante con sussidi cantonali devono contraddistinguersi per un impiego esemplare ed efficiente dell'energia.
 
 <sup>2</sup> Il Governo stabilisce i requisiti energetici.
 
@@ -309,11 +308,29 @@ decide:
 
 <sup>1</sup> Il Cantone può concedere sussidi per la realizzazione di impianti fotovoltaici su edifici e infrastrutture se a causa della loro configurazione e del loro posizionamento questi presentano un'efficienza particolare per la produzione di elettricità invernale.
 
+#### Art. 23b
+
+**Impianti fotovoltaici per lo sfruttamento del potenziale di superfici**
+
+<sup>1</sup> Il Cantone può concedere sussidi alla realizzazione di impianti fotovoltaici su facciate o tetti di edifici a uso prevalentemente abitativo a condizione che la potenza installata superi considerevolmente il consumo proprio.
+
+#### Art. 23c
+
+**Infrastrutture di ricarica per veicoli elettrici**
+
+<sup>1</sup> Il Cantone può concedere sussidi alla realizzazione di infrastrutture di ricarica su piazzole di parcheggio per veicoli usati a scopi commerciali nonché all'interno e all'esterno di case plurifamiliari esistenti.
+
+<sup>2</sup> Esso può inoltre concedere sussidi ai comuni per la realizzazione di infrastrutture di ricarica presso parcheggi pubblici a pagamento.
+
+<sup>3</sup> Il Cantone può concedere sussidi per infrastrutture di ricarica al servizio della rete presso edifici abitativi.
+
+<sup>4</sup> I sussidi promozionali conformemente ai capoversi 1 e 2 possono essere concessi al massimo fino alla fine del 2030, i sussidi promozionali conformemente al capoverso 3 al massimo fino alla fine del 2035.
+
 #### Art. 24
 
 **Calcolo**
 
-<sup>1</sup> I sussidi conformemente agli articoli 18 – 23a vengono calcolati in funzione del progetto e in base ai seguenti criteri:
+<sup>1</sup> I sussidi conformemente all'articolo 18 – articolo 23c vengono calcolati in funzione del progetto e in base ai seguenti criteri:
 
 - a) efficienza energetica complessiva
 - b) fabbisogno energetico;
@@ -325,7 +342,7 @@ decide:
 - h) indice di utilizzazione;
 - i) costi d'investimento ed energetici.
 
-<sup>2</sup> Vengono versati sussidi da 1000 a 200 000 franchi. Il Governo stabilisce i dettagli.
+<sup>2</sup> Vengono versati sussidi da 1 000 a 300 000 franchi. Il Governo definisce i dettagli.
 
 #### Art. 25
 
@@ -353,11 +370,11 @@ decide:
 
 #### Art. 28
 
-**Prescrizione del diritto a sussidio**
+**Perenzione del diritto a sussidio**
 
 <sup>1</sup> Qualora un richiedente inizi la realizzazione del progetto o proceda ad acquisti prima che gli sia stato garantito il sussidio, non gli vengono concessi sussidi, se l'inizio anticipato dei lavori non è stato autorizzato. L'autorizzazione anticipata non garantisce un diritto alla concessione di sussidi.
 
-<sup>2</sup> I sussidi promozionali sono validi due anni a contare dalla data in cui sono stati garantiti, con possibilità di proroga per al massimo un anno.
+<sup>2</sup> I sussidi promozionali sono validi tre anni a contare dalla data in cui sono stati garantiti, con possibilità di proroga per al massimo due anni.
 
 #### Art. 29
 

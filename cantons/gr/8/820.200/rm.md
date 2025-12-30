@@ -4,13 +4,12 @@ number: "820.200"
 title: "Lescha d'energia dal chantun Grischun"
 short: LEG
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-30
-version_adopted: 2022-06-14
+version: 2025-12-31
+version_adopted: 2025-04-24
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3423/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3633/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3423/pdf_file"
 
 (LEG)
 
-dals 20-04-2010 (versiun dals 01-01-2025)
+dals 20-04-2010 (versiun dals 31-12-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -253,7 +252,7 @@ concluda:
 
 **Il chantun sco exempel**
 
-<sup>1</sup> Ils edifizis dal chantun ston sa distinguer tras in'utilisaziun exemplarica ed effizienta da l'energia.
+<sup>1</sup> Ils edifizis dal chantun sco er ils edifizis che vegnan finanziads cun contribuziuns chantunalas considerablas, ston sa distinguer tras in'utilisaziun exemplarica ed effizienta da l'energia.
 
 <sup>2</sup> La regenza fixescha las pretensiuns energeticas.
 
@@ -311,11 +310,29 @@ concluda:
 
 <sup>1</sup> Il chantun po conceder contribuziuns per l'installaziun d'implants da fotovoltaica vi d'edifizis e vi da stabiliments d'infrastructura, sche quels èn, pervia da lur concepziun e pervia da lur posiziun, spezialmain effizients per la producziun d'electricitad durant l'enviern.
 
+#### Art. 23b
+
+**Implants da fotovoltaica per utilisar il potenzial da surfatscha**
+
+<sup>1</sup> Il chantun po conceder contribuziuns per construir implants da fotovoltaica sin u vi d'edifizis che vegnan utilisads cunzunt per intents d'abitar, sche la prestaziun installada surpassa considerablamain l'agen consum.
+
+#### Art. 23c
+
+**Infrastructura per chargiar vehichels electrics**
+
+<sup>1</sup> Il chantun po conceder contribuziuns per construir ina infrastructura per chargiar vehichels electrics sin parcadis da vehichels da diever professiunal sco er en e vi da chasas existentas da pliras famiglias.
+
+<sup>2</sup> Ultra da quai pon las vischnancas conceder contribuziuns per installar ina infrastructura per chargiar vehichels electrics sin parcadis publics che vegnan administrads.
+
+<sup>3</sup> Il chantun po conceder contribuziuns a favur d'ina infrastructura per chargiar vehichels electrics tar edifizis d'abitar, sche questa infrastructura serva a la rait.
+
+<sup>4</sup> Contribuziuns da promoziun tenor ils alineas 1 e 2 pon vegnir concedidas fin maximalmain la fin da l'onn 2030, contribuziuns da promoziun tenor l'alinea 3 fin maximalmain la fin da l'onn 2035.
+
 #### Art. 24
 
 **Fixaziun**
 
-<sup>1</sup> Las contribuziuns tenor ils artitgels 18 fin 23a vegnan calculadas sin basa dal project tenor ils suandants criteris:
+<sup>1</sup> Las contribuziuns tenor l'artitgel 18 fin l'artitgel 23c vegnan calculadas sin basa dal project tenor ils suandants criteris:
 
 - a) il total da l'effizienza energetica;
 - b) il basegn d'energia;
@@ -327,7 +344,7 @@ concluda:
 - h) il grad d'utilisaziun;
 - i) ils custs d'investiziun ed ils custs d'energia.
 
-<sup>2</sup> Las contribuziuns importan 1000 francs fin 200 000 francs. La regenza fixescha ils detagls.
+<sup>2</sup> Las contribuziuns importan 1000 francs fin 300 000 francs. La Regenza fixescha ils detagls.
 
 #### Art. 25
 
@@ -359,7 +376,7 @@ concluda:
 
 <sup>1</sup> Sch'ina petenta u sch'in petent cumenza cun la realisaziun dal project ubain sch'ella u sch'el fa acquisiziuns avant ch'ella u ch'el haja obtegnì la garanzia da survegnir contribuziuns, na survegn ella u el naginas contribuziuns, nun ch'ella u ch'el haja survegnì la permissiun da cumenzar pli baud cun la construcziun. Questa permissiun anticipada na dat nagin dretg da survegnir contribuziuns.
 
-<sup>2</sup> La validitad da las contribuziuns da promoziun importa 2 onns a partir da la data da la garanzia; la validitad po vegnir prolungada per maximalmain 1 onn.
+<sup>2</sup> La validitad da las contribuziuns da promoziun importa 3 onns a partir da la data da la garanzia; la validitad po vegnir prolungada per maximalmain 2 onns.
 
 #### Art. 29
 
