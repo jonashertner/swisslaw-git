@@ -3,18 +3,18 @@ sr: "412.101.221.69"
 title: Ordonnance du SEFRI du 13 août 2024 sur la formation professionnelle initiale de mécanicienne en motocycles CFC / mécanicien en motocycles CFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/428"
 language: fr
-version: 2024-10-01
+version: 2026-01-01
 adopted: 2024-08-13
 in_force: 2024-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/428/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2024-428-20241001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/428/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/428/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-428-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/428/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de mécanicienne en motocycles CFC / mécanicien en motocycles CFC
 
-du 13 août 2024 (État le 1<sup>er</sup> octobre 2024)
+du 13 août 2024 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>46205</td><td>Mécanicienne en motocycles CFC / Mécanicien en motocycles CFC Motorradmechanikerin EFZ / Motorradmechaniker EFZ Meccanica di motoveicoli AFC / Meccanico di motoveicoli AFC</td></tr>
@@ -26,9 +26,9 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet et durée
 
@@ -136,7 +136,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>2</sup> L’entreprise formatrice assume les coûts de l’instruction de base obligatoire pour les motocycles ainsi que du premier essai à l’examen pratique pour la catégorie A et, si nécessaire, pour la sous-catégorie A1 visées dans l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière[^6-1].
 
-[^6-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^6-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 7
 
@@ -157,13 +157,14 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> La langue d’enseignement est la langue nationale, dans sa forme standard, du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -334,11 +335,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>2</td><td>Remplacement et modification des composants de motocycles; Diagnostic et réparation des motocycles</td><td>60 %</td></tr>
 </table>
 
-- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
