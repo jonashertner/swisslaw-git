@@ -4,13 +4,12 @@ number: "320.100"
 title: Einführungsgesetz zur Schweizerischen Zivilprozessordnung
 short: EGzZPO
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/320.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3391/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3577/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3391/pdf_file"
 
 (EGzZPO)
 
-Vom 16.06.2010 (Stand 01.01.2025)
+Vom 16.06.2010 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -244,6 +243,8 @@ beschliesst:
 <sup>3</sup> Die Akteneinsicht wird gewährt, wenn ein schutzwürdiges Interesse geltend gemacht werden kann.
 
 <sup>4</sup> Entscheide über die Akteneinsicht können schriftlich innert 30 Tagen mit Beschwerde bei der Aufsichtsbehörde angefochten werden.
+
+<sup>5</sup> Entscheide über die Akteneinsicht in Verfahren vor dem Obergericht und dem Justizgericht sind nach dem kantonalen Recht endgültig.
 
 ### 3.3. Verfahrenskosten und Rechnungswesen
 
