@@ -3,18 +3,18 @@ sr: "412.101.220.59"
 title: Verordnung des SBFI vom 16. August 2021 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Berufsattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/509"
 language: de
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/509/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-509-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/509/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/509/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-509-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/509/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Berufsattest (EBA)
 
-vom 16. August 2021 (Stand am 1. Januar 2023)
+vom 16. August 2021 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>68104</td><td>Kauffrau EBA / Kaufmann EBA Employée de commerce AFP / Employé de commerce AFP Impiegata di commercio CFP / Impiegato di commercio CFP</td></tr>
@@ -26,8 +26,8 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -148,7 +148,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und der zuständigen Organisation der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
 
 <sup>4</sup> Die Inhalte der Allgemeinbildung werden in der Berufsfachschule in sämtlichen Handlungskompetenzbereichen integriert vermittelt; dabei werden das spezifische Berufsbild der Kauffrau und des Kaufmanns auf Stufe EBA und ihre beruflichen Bedürfnisse und Erfahrungen berücksichtigt. Die Inhalte stützen sich auf den Rahmenlehrplan für den allgemeinbildenden Unterricht ab und sind im Bildungsplan entsprechend konkretisiert.
 
@@ -156,7 +156,8 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>6</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -339,7 +340,7 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: [[AS 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 20
 

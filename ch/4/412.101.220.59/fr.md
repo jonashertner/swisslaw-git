@@ -3,18 +3,18 @@ sr: "412.101.220.59"
 title: Ordonnance du SEFRI du 16 août 2021 sur la formation professionnelle initiale d’employée / employé de commerce avec attestation fédérale de formation professionnelle (AFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/509"
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/509/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-509-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/509/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/509/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-509-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/509/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’employée/employé de commerce avec attestation fédérale de formation professionnelle (AFP)
 
-du 16 août 2021 (État le 1<sup>er</sup> janvier 2023)
+du 16 août 2021 (État le 1<sup>er</sup> janvier 2026)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
@@ -22,8 +22,8 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet et durée
 
@@ -130,7 +130,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 960 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
-<tr><td>Enseignement</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>Total</td></tr>
+<tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>Total</th></tr>
 <tr><td>a. Connaissances professionnelles et culture générale</td><td></td><td></td><td></td></tr>
 <tr><td>– Gestion du développement professionnel et personnel</td><td>80</td><td>80</td><td>160</td></tr>
 <tr><td>– Communication avec des personnes issues de différents groupes d’intérêts</td><td>160</td><td>80</td><td>240</td></tr>
@@ -144,7 +144,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et l’organisation du monde du travail compétente. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> Les contenus de la culture générale sont intégrés dans tous les domaines de compétences opérationnelles de l’école professionnelle; le profil spécifique à la profession d’employé de commerce de niveau AFP ainsi que les besoins et les expériences professionnels requis pour cette profession sont pris en compte. Les contenus reposent sur le plan d’études cadre pour l’enseignement de la culture générale dans la formation professionnelle initiale et sont précisés dans le plan de formation.
 
@@ -152,7 +152,8 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>6</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -163,7 +164,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <sup>2</sup> Les jours et les contenus sont répartis sur 2 cours comme suit:
 
 <table>
-<tr><td>Année</td><td>Cours</td><td>Domaines de compétences opérationnelles</td><td>Durée</td></tr>
+<tr><th>Année</th><th>Cours</th><th>Domaines de compétences opérationnelles</th><th>Durée</th></tr>
 <tr><td>1</td><td>1</td><td>– Gestion du développement professionnel et personnel – Communication avec des personnes issues de différents groupes d’intérêts – Collaboration au sein de processus de travail en entreprise – Gestion d’infrastructures et utilisation d’applications – Traitement d’informations et de contenus</td><td>4 jours</td></tr>
 <tr><td>2</td><td>2</td><td>– Gestion du développement professionnel et personnel – Communication avec des personnes issues de différents groupes d’intérêts – Collaboration au sein de processus de travail en entreprise – Traitement d’informations et de contenus</td><td>4 jours</td></tr>
 <tr><td colspan="3">Total</td><td>8 jours</td></tr>
@@ -194,7 +195,7 @@ Le plan de formation:
 
 <sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication du nom de l’organisme auprès duquel ils peuvent être obtenus.
 
-[^9-1]: Le plan de formation du 30 juin 2021 est disponible dans la liste des professions du SEFRI à l’adresse suivante: www.bvz.admin.ch &gt; Professions A-Z.
+[^9-1]: Le plan de formation du 30 juin 2021 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A-Z.
 
 ## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
@@ -310,7 +311,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
   - 5\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
 
 <table>
-<tr><td>Point d’appréciation</td><td>Domaine de compétences opérationnelles</td><td>Pondération</td></tr>
+<tr><th>Point d’appréciation</th><th>Domaine de compétences opérationnelles</th><th>Pondération</th></tr>
 <tr><td>1</td><td>Gestion du développement professionnel et personnel</td><td>25 %</td></tr>
 <tr><td>2</td><td>Communication avec des personnes issues de différents groupes d’intérêts</td><td>25 %</td></tr>
 <tr><td>3</td><td>Collaboration au sein de processus de travail en entreprise Gestion d’infrastructures et utilisation d’applications Traitement d’informations et de contenus</td><td>50 %</td></tr>
@@ -335,7 +336,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^19-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: [[RO 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 20
 

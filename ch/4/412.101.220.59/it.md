@@ -3,18 +3,18 @@ sr: "412.101.220.59"
 title: Ordinanza della SEFRI del 16 agosto 2021 sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/509"
 language: it
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/509/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-509-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/509/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/509/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-509-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/509/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con certificato federale di formazione pratica (CFP)
 
-del 16 agosto 2021 (Stato 1° gennaio 2023)
+del 16 agosto 2021 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>68104</td><td>Impiegata di commercio CFP / Impiegato di commercio CFP Kauffrau EBA / Kaufmann EBA Employée de commerce AFP / Employé de commerce AFP</td></tr>
@@ -26,8 +26,8 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Oggetto e durata
 
@@ -135,7 +135,7 @@ La formazione professionale pratica in azienda comprende in media 3,5 giornate a
 
 <table>
 <tr><th>Insegnamento</th><th>1° anno</th><th>2° anno</th><th>Totale</th></tr>
-<tr><td>a. Conoscenze professionali e cultura generale</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Conoscenze professionali e cultura generale</td><td></td><td></td><td></td></tr>
 <tr><td>– Impostazione dello sviluppo professionale e personale</td><td>[tab] 80</td><td>[tab] 80</td><td>[tab] 160</td></tr>
 <tr><td>– Comunicazione con persone appartenenti a diversi gruppi d’interesse</td><td>[tab] 160</td><td>[tab] 80</td><td>[tab] 240</td></tr>
 <tr><td>– Collaborazione in processi lavorativi aziendali</td><td>[tab] 120</td><td>[tab] 80</td><td>[tab] 200</td></tr>
@@ -148,7 +148,7 @@ La formazione professionale pratica in azienda comprende in media 3,5 giornate a
 
 <sup>2</sup> D’intesa con le autorità cantonali e l’organizzazione del mondo del lavoro competente sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^7-2].
 
 <sup>4</sup> Nella scuola professionale i contenuti di cultura generale sono integrati in tutti i campi di competenze operative; a tal fine si tiene conto del profilo professionale specifico degli impiegati di commercio di livello CFP e delle relative esigenze ed esperienze professionali. I contenuti si basano sul programma quadro di insegnamento per la cultura generale e sono specificati nel piano di formazione.
 
@@ -156,7 +156,8 @@ La formazione professionale pratica in azienda comprende in media 3,5 giornate a
 
 <sup>6</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -339,7 +340,7 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^19-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: [[RU 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 20
 
