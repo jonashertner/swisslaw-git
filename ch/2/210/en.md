@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 1 January 2025)
+of 10 December 1907 (Status as of 1 January 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -530,7 +530,7 @@ Where justified by the circumstances, the court may:
 
 <sup>2</sup> ...[^28l-2]
 
-<sup>3</sup> and <sup>4</sup> ...[^28l-3]
+<sup>3 and <sup>4</sup></sup> ...[^28l-3]
 
 [^28l-1]: Inserted by No I of the FA of 16 Dec. 1983, in force since 1 July 1985 ([AS 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [BBl 1982 II 636](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
 [^28l-2]: Repealed by Annex No 2 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
@@ -3424,14 +3424,14 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 #### Art. 255a
 
-[^255a-1]
+[^256-1]
 
-<sup>1</sup> Where the mother is married to a woman at the time of the birth and if the child has been conceived by a sperm donation in accordance with the Reproductive Medicine Act of 18 December 1998[^255a-2], the mother’s wife is deemed to be the other parent.
+<sup>1</sup> Where the mother is married to a woman at the time of the birth and if the child has been conceived by a sperm donation in accordance with the Reproductive Medicine Act of 18 December 1998[^256-2], the mother’s wife is deemed to be the other parent.
 
 <sup>2</sup> If the mother’s wife dies or is declared presumed dead, she is deemed to have been a parent if insemination took place before her death or before the time of the life-threatening event or the last sign of life.
 
-[^255a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^255a-2]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
+[^256-1]: Inserted by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^256-2]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
 
 ### B. Challenging the parental status of the husband
 
@@ -3443,23 +3443,23 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 #### Art. 256
 
-[^256-1]
+[^258-1]
 
 <sup>1</sup>
 
 The presumption of paternity may be challenged in court:
 
 - 1\. by the husband;
-- 2\.[^256-2] by the child if the spouses cease living together while the child is still a minor.
+- 2\.[^258-2] by the child if the spouses cease living together while the child is still a minor.
 
 <sup>2</sup> The husband’s challenge is directed against the child and the mother, that of the child against the husband and the mother.
 
-<sup>3</sup> The husband has no right of challenge if he consented to impregnation by a third party. The child’s right to challenge paternity is subject to the Reproductive Medicine Act of 18 December 1998[^256-3].[^256-4]
+<sup>3</sup> The husband has no right of challenge if he consented to impregnation by a third party. The child’s right to challenge paternity is subject to the Reproductive Medicine Act of 18 December 1998[^258-3].[^258-4]
 
-[^256-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^256-2]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^256-3]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
-[^256-4]: Amended by Art. 39 of the Federal Act on Medically Assisted Reproduction of 18 Dec. 1998, in force since 1 Jan. 2001 ([AS 2000 3055](https://fedlex.data.admin.ch/eli/oc/2000/554); [BBl 1996 III 205](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)).
+[^258-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^258-2]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^258-3]: [SR 810.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9229)
+[^258-4]: Amended by Art. 39 of the Federal Act on Medically Assisted Reproduction of 18 Dec. 1998, in force since 1 Jan. 2001 ([AS 2000 3055](https://fedlex.data.admin.ch/eli/oc/2000/554); [BBl 1996 III 205](https://fedlex.data.admin.ch/eli/fga/1996/3_205_197_189)).
 
 ### II. Grounds for challenge
 
@@ -3507,20 +3507,20 @@ The presumption of paternity may be challenged in court:
 
 #### Art. 257
 
-[^257-1]
+[^259-1]
 
-<sup>1</sup> Where a child was born within 300 days of the dissolution of the marriage as a result of death and the mother has since remarried, the second husband is deemed to be the father.[^257-2]
+<sup>1</sup> Where a child was born within 300 days of the dissolution of the marriage as a result of death and the mother has since remarried, the second husband is deemed to be the father.[^259-2]
 
 <sup>2</sup> If this presumption is disproved, the first husband is deemed to be the father.
 
-[^257-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^257-2]: Amended by No I 4 of the FA of 26 June 1998, in force since 1 Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^259-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^259-2]: Amended by No I 4 of the FA of 26 June 1998, in force since 1 Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
 ### D. Challenge by the parents
 
 #### Art. 258
 
-[^258-1]
+[^258-5]
 
 <sup>1</sup> If the husband died or lost capacity of judgement before the time limit expired, his father or his mother may challenge his paternity.
 
@@ -3528,13 +3528,13 @@ The presumption of paternity may be challenged in court:
 
 <sup>3</sup> The one-year time limit for bringing the claim begins at the earliest on the date on which the father or mother learns of the husband’s death or loss of capacity of judgement.
 
-[^258-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^258-5]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### E. Marriage of the parents
 
 #### Art. 259
 
-[^259-1]
+[^259-3]
 
 <sup>1</sup> If the parents marry each other, the provisions governing children born in wedlock apply *mutatis mutandis* to a child born prior to the marriage, providing the paternity of the husband is established by recognition or court declaration.
 
@@ -3543,14 +3543,14 @@ The presumption of paternity may be challenged in court:
 Recognition may be challenged:
 
 - 1\. by the mother;
-- 2\.[^259-2] by the child or, after his or her death, by his or her issue if the spouses ceased living together while the child was still a minor or if recognition did not occur until after the child's twelfth birthday;
+- 2\.[^259-4] by the child or, after his or her death, by his or her issue if the spouses ceased living together while the child was still a minor or if recognition did not occur until after the child's twelfth birthday;
 - 3\. by the husband’s commune of origin or residence;
 - 4\. by the husband.
 
 <sup>3</sup> The provisions governing challenge of recognition apply *mutatis mutandis*.
 
-[^259-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^259-2]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^259-3]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^259-4]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### Chapter Three: Recognition and Court Declaration of Paternity
 
@@ -3953,7 +3953,7 @@ The citizenship of a minor is determined by provisions governing the legal effec
 
 <sup>2</sup> If a child with the capacity to consent so requests, a representative must be appointed.
 
-<sup>3</sup> The child may challenge the rejection of his or her request by filing an objection.
+<sup>3</sup> The child may challenge the rejection of his or her request by filing an appeal.
 
 [^268ater-1]: Inserted by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
@@ -3981,7 +3981,7 @@ Prior to the adoption of an adult, the attitude of following persons must also b
 
 #### Art. 268b
 
-[^268b-1]
+[^268c-1]
 
 <sup>1</sup> The adopted child and the adoptive parents are entitled to confidentiality of adoption information.
 
@@ -3989,13 +3989,13 @@ Prior to the adoption of an adult, the attitude of following persons must also b
 
 <sup>3</sup> Identifying information about the adult child may be disclosed to the biological parents and their direct descendants if the child has consented to disclosure.
 
-[^268b-1]: Inserted by No I 1 of the FA of 30 June 1972, in force since 1 April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
+[^268c-1]: Inserted by No I 1 of the FA of 30 June 1972, in force since 1 April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
 
 ### D<sup>ter.</sup> Information on the adoption, the biological parents and their issue
 
 #### Art. 268c
 
-[^268c-1]
+[^268d-1]
 
 <sup>1</sup> The adoptive parents must inform the child of his or her adoption when his or her age or maturity permits.
 
@@ -4003,13 +4003,13 @@ Prior to the adoption of an adult, the attitude of following persons must also b
 
 <sup>3</sup> An adult child may at any time request that the personal details of his or her biological parents and further information about them be disclosed to him or her. The adult child may also request that information about the direct descendants of his or her biological parents be disclosed to him or her if the descendants are of age and have consented to the disclosure.
 
-[^268c-1]: Inserted by Annex No 2 of the FA of 22 June 2001 on the Hague Adoption Convention and Measures to Protect Children in respect of Inter-Country Adoption ([AS 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [BBl 1999 5795](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)). Amended by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268d-1]: Inserted by Annex No 2 of the FA of 22 June 2001 on the Hague Adoption Convention and Measures to Protect Children in respect of Inter-Country Adoption ([AS 2002 3988](https://fedlex.data.admin.ch/eli/oc/2002/639); [BBl 1999 5795](https://fedlex.data.admin.ch/eli/fga/1999/1_5795_5129_4799)). Amended by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### D<sup>quater</sup>. Cantonal information centre and tracing services
 
 #### Art. 268d
 
-[^268d-1]
+[^268e-1]
 
 <sup>1</sup> Information about the biological parents, their direct descendants and the child may be obtained from the cantonal authority responsible for the adoption procedure.
 
@@ -4019,13 +4019,13 @@ Prior to the adoption of an adult, the attitude of following persons must also b
 
 <sup>4</sup> The cantons shall designate a body to provide advice to the biological parents, their direct descendants or the child on request.
 
-[^268d-1]: Inserted by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268e-1]: Inserted by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### D<sup>quinquies</sup>. Contact with the biological parents
 
 #### Art. 268e
 
-[^268e-1]
+[^268e-2]
 
 <sup>1</sup> The adoptive parents and the biological parents may agree that the biological parents be entitled to reasonable contact with the minor. This agreement and any amendments thereto shall be submitted to the child protection authority at the child’s place of residence for approval. The child protection authority or a third party appointed by it shall hear the child in person in an appropriate manner before the decision is taken, unless this is inadvisable due to the child's age or for other good cause. If the child is capable of judgement, its consent is required for the agreement.
 
@@ -4033,7 +4033,7 @@ Prior to the adoption of an adult, the attitude of following persons must also b
 
 <sup>3</sup> The child may refuse contact with its biological parents at any time. The adoptive parents may not pass on information to the biological parents against the child’s will.
 
-[^268e-1]: Inserted by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^268e-2]: Inserted by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### E. Challenge
 
@@ -4701,23 +4701,17 @@ Each spouse must give the other reasonable support in exercising parental respon
 
 [^book2-part2-tit8-chap3-lvlAsepties-1]: Amended by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
-#### Art. 300
-
-[^300-1]
-
-<sup>1</sup> If a child is placed in foster care with third parties, unless the relevant orders provide otherwise, these third parties exercise parental responsibility over the child in loco parentis to the extent required for the proper fulfilment of their duties.
-
-<sup>2</sup> Foster parents must be consulted before any important decisions are taken regarding the child.
-
-[^300-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-
 ### B. Scope
 
 ### I. In general
 
-#### Art. 301
+#### Art. 300
 
 [^301-1]
+
+<sup>1</sup> If a child is placed in foster care with third parties, unless the relevant orders provide otherwise, these third parties exercise parental responsibility over the child in loco parentis to the extent required for the proper fulfilment of their duties.
+
+<sup>2</sup> Foster parents must be consulted before any important decisions are taken regarding the child. **Art. 301**[^301-2]
 
 <sup>1</sup> The parents raise and care for a child with his or her best interests in mind and take all necessary decisions unless the child has capacity to act.
 
@@ -4726,7 +4720,7 @@ Each spouse must give the other reasonable support in exercising parental respon
 The parent who is taking care of the child may decide alone if:
 
 - 1\. the matter is routine or urgent;
-- 2\. the other parent cannot be consulted without incurring unreasonable trouble or expense.[^301-2]
+- 2\. the other parent cannot be consulted without incurring unreasonable trouble or expense.[^301-3]
 
 <sup>2</sup> The child owes his or her parents obedience; according to how mature the child is, the parents shall allow the child the freedom to shape his or her own life and, wherever feasible, take due account of the child’s opinion in important matters.
 
@@ -4735,7 +4729,8 @@ The parent who is taking care of the child may decide alone if:
 <sup>4</sup> The parents give the child his or her first name.
 
 [^301-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^301-2]: Inserted by No I of the FA of 21 June 2013 (Parental Responsibility), in force since 1 July 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^301-2]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^301-3]: Inserted by No I of the FA of 21 June 2013 (Parental Responsibility), in force since 1 July 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### II. Deciding on the place of residence
 
@@ -5824,7 +5819,7 @@ The following persons are entitled in the following order to represent the perso
 - 2\. a deputy with a right to act as representative in relation to medical procedures;
 - 3\. any person who as a spouse or registered partner cohabits with the person lacking capacity of judgement or who regularly and personally provides him or her with support;
 - 4\. any person who cohabits with the person lacking capacity of judgement and who regularly and personally provides him or her with support;
-- 5\. issue who regularly and personally provide the person lacking capacity of judgement with support;
+- 5\. children and descendants who regularly and personally provide the person lacking capacity of judgement with support;
 - 6\. the parents, if they regularly and personally provide the person lacking capacity of judgement with support;
 - 7\. siblings, if they regularly and personally provide the person lacking capacity of judgement with support.
 
@@ -6895,15 +6890,15 @@ Surviving spouses and registered partners receive:
 
 #### Art. 463–464
 
-[^463464-1]
+[^465-1]
 
-[^463464-1]: Repealed by No I 2 of the FA of 5 Oct. 1984, with effect from 1 Jan 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^465-1]: Repealed by No I 2 of the FA of 5 Oct. 1984, with effect from 1 Jan 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
 #### Art. 465
 
-[^465-1]
+[^465-2]
 
-[^465-1]: Repealed by No I 3 of the FA of 30 June 1972, with effect from 1 April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)). However, see Art. 12*a* Final Title below.
+[^465-2]: Repealed by No I 3 of the FA of 30 June 1972, with effect from 1 April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)). However, see Art. 12*a* Final Title below.
 
 ### D. State authority
 
@@ -9494,7 +9489,7 @@ The cantons are authorised to set minimum separation distances for plantations d
 
 #### Art. 689
 
-<sup>1</sup> Every landowner is obliged to receive the waters flowing naturally from a higher-lying parcel of land, such as rain water, melting snow and water from unchannelled springs.
+<sup>1</sup> Every landowner is obliged to receive the waters flowing naturally from a higher-lying parcel of land, such as rainwater, melting snow and water from unchannelled springs.
 
 <sup>2</sup> No person may alter the natural course of flow to his or her neighbour’s damage.
 
@@ -10756,7 +10751,7 @@ The provisions governing the exercise of the right of reversion apply to all rig
 
 [^779i-1]
 
-<sup>1</sup> Provided the building right is recorded in the land register, the landowner is entitled to established a lien thereon against each current holder as security for up to three annual payments.
+<sup>1</sup> Provided the building right is recorded in the land register, the landowner is entitled to establish a lien thereon against each current holder as security for up to three annual payments.
 
 <sup>2</sup> Where the remuneration does not consist of equal annual payments, the landowner is entitled to record a statutory lien for an amount aggregating three annual payments.
 
@@ -11430,7 +11425,7 @@ A lien in favour of the vendor, co-heirs or co-owners in undivided shares must b
 
 <sup>2</sup> Application for such entry must be made within four months of completion of the work.
 
-<sup>3</sup> The lien is entered only if the claim has been acknowledged by the owner or confirmed in a court judgment and may not be requested if the owner provides the claimant with adequate security.
+<sup>3</sup> The lien is entered only if the claim has been acknowledged by the owner or confirmed in a court judgment and may not be requested if the owner provides the claimant with adequate security for the claim together with default interest for the period of ten years.[^839-2]
 
 <sup>4</sup> If the property is indisputably administrative assets and if the owner's liability for the debt is not based on contractual obligations, the owner shall be liable to the tradesmen or building contractor for debts that are acknowledged or determined by a court in accordance with the provisions on a debt subject to a simple surety, provided a written claim for the debt making reference to the statutory surety was made against the owner no later than four months after completion of the work.
 
@@ -11439,6 +11434,7 @@ A lien in favour of the vendor, co-heirs or co-owners in undivided shares must b
 <sup>6</sup> If it is held in a court judgment that the immovable property constitutes administrative assets, the provisional recording of the lien must be deleted. It shall be replaced by the statutory surety provided the requirements of paragraph 4 are met. The deadline is met with the provisional recording of the lien.
 
 [^839-1]: Amended by No I 1 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^839-2]: Amended by No II of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Rank
 
@@ -13487,18 +13483,18 @@ Any person who attains majority due to the Federal Act of 7 October 1994 coming 
 
 #### Art. 13c
 
-[^u1-13c-1]
+[^u1-13cbis-1]
 
 The child may apply for the revision of any maintenance payments set in an approved maintenance agreement or in a decision before the amendment of 20 March 2015 came into force. If they were set at the same time as maintenance payments to one of the parents, payments shall only be revised if there has been a substantial change in circumstances.
 
-**Art. 13**c<sup>bis</sup> [^u1-13c-2]
+**Art. 13**c<sup>bis</sup> [^u1-13cbis-2]
 
 <sup>1</sup> The new legislation applies to proceedings that are pending at the time of the amendment of 20 March 2015 coming into force.
 
 <sup>2</sup> When the contested decision was made before the amendment of 20 March 2015 came into force, the Federal Supreme Court shall decide under the previous law; this also applies when a case is referred back to the cantonal court.
 
-[^u1-13c-1]: Inserted by No I of the FA of 7 Oct. 1994 ([AS 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [BBl 1993 I 1169](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)). Amended by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^u1-13c-2]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^u1-13cbis-1]: Inserted by No I of the FA of 7 Oct. 1994 ([AS 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [BBl 1993 I 1169](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)). Amended by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^u1-13cbis-2]: Inserted by No I of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 ### IV<sup>quater</sup>. Name of the child
 
@@ -14110,7 +14106,7 @@ Art. 7*a*–7*i*
 
 [^u2-1]
 
-[^u2-1]: BS **2** 3. These provisions apply as transitional law insofar as provided by Art. 9*a* ff. Final Title (Revision of Marital Law of 5 Oct. 1984). The provisions have not been translated into English.
+[^u2-1]: BS **2** 3. These provisions apply as transitional law insofar as provided by Art. 9*a* ff. Final Title (Revision of Marital Law of 5 Oct. 1984). The provisions have not been translated into English..
 
 ### Title Six: Marital Property Law
 

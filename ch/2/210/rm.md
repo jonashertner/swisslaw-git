@@ -4,11 +4,11 @@ title: Cudesch civil svizzer dals 10 da december 1907
 short: CCS
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: rm
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 10 da december 1907 (versiun dal 1. da schaner 2025)
+dals 10 da december 1907 (versiun dal 1. da schaner 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -11424,7 +11424,7 @@ Il dretg da pegn dal vendider, dals cunertavels u da commembers d’ina indivisi
 
 <sup>2</sup> L’inscripziun sto vegnir fatga sin il pli tard 4 mais suenter ch’els han finì lur lavur.
 
-<sup>3</sup> Ella dastga mo vegnir fatga, sche la summa da pegn è vegnida renconuschida dal proprietari u constatada da la dretgira, ed ella na po betg vegnir pretendida, sch’il proprietari presta ina garanzia suffizienta per la pretensiun annunziada.
+<sup>3</sup> Ella dastga mo vegnir fatga, sche la summa da pegn è vegnida renconuschida dal proprietari u constatada da la dretgira, ed ella na po betg vegnir pretendida, sch’il proprietari presta ina garanzia suffizienta per la pretensiun annunziada, inclusiv tschains da retard per ina durada da 10 onns.[^839-2]
 
 <sup>4</sup> Sch’il bain immobigliar fa incontestadamain part da la facultad administrativa e sch’il debit dal proprietari na resulta betg d’obligaziuns contractualas, sto quel star bun envers ils mastergnants u ils impressaris per las pretensiuns renconuschidas u constatadas da la dretgira, tenor las disposiziuns davart la garanzia simpla; la pretensiun sto dentant esser vegnida fatga valair vers el il pli tard 4 mais suenter la finiziun da la lavur en scrit e rendend attent a la garanzia legala.
 
@@ -11433,6 +11433,7 @@ Il dretg da pegn dal vendider, dals cunertavels u da commembers d’ina indivisi
 <sup>6</sup> Sch’i vegn constatà en ina sentenzia ch’il bain immobigliar fa part da la facultad administrativa, sto l’inscripziun provisorica dal dretg da pegn vegnir stizzada. Percunter vegn constituida la garanzia legala, sche las premissas da l’alinea 4 èn ademplidas. Cun l’inscripziun provisorica dal dretg da pegn vala il termin sco observà.
 
 [^839-1]: Versiun tenor la cifra I 1 da la LF dals 11 da dec. 2009 (brev ipotecara registrada ed ulteriuras midadas en il dretg real), en vigur dapi il 1. da schan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^839-2]: Versiun tenor la cifra II da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Rang
 

@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° gennaio 2025)
+del 10 dicembre 1907 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -11389,7 +11389,7 @@ L’iscrizione dell’ipoteca del venditore, dei coeredi o dei membri di un’in
 
 <sup>2</sup> L’iscrizione dev’essere fatta al più tardi entro quattro mesi dal compimento del lavoro.
 
-<sup>3</sup> L’iscrizione può farsi soltanto se la somma garantita dall’ipoteca è riconosciuta dal proprietario o giudizialmente accertata; non può inoltre essere chiesta se il proprietario presta sufficiente garanzia per il credito preteso.
+<sup>3</sup> L’iscrizione può farsi soltanto se la somma garantita dall’ipoteca è riconosciuta dal proprietario o giudizialmente accertata; non può inoltre essere chiesta se il proprietario presta sufficiente garanzia per il credito preteso più gli interessi di mora per una durata di dieci anni.[^839-2]
 
 <sup>4</sup> Se è incontroverso che il fondo appartiene al patrimonio amministrativo e se il debito del proprietario non deriva da obblighi contrattuali, questi risponde verso gli artigiani o imprenditori, per i crediti riconosciuti o giudizialmente accertati, secondo le disposizioni sulla fideiussione semplice, purché il credito gli sia stato notificato per scritto nei quattro mesi dal compimento del lavoro con esplicito richiamo alla fideiussione legale.
 
@@ -11398,6 +11398,7 @@ L’iscrizione dell’ipoteca del venditore, dei coeredi o dei membri di un’in
 <sup>6</sup> Se è accertato con sentenza che il fondo appartiene al patrimonio amministrativo, l’iscrizione provvisoria dell’ipoteca è cancellata. Questa è sostituita dalla fideiussione legale, purché siano adempiute le condizioni di cui al capoverso 4. Il termine è considerato osservato con l’iscrizione provvisoria dell’ipoteca.
 
 [^839-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^839-2]: Nuovo testo giusta la cifra II della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 (RU **20****25** 270; FF **20****22** 2743).
 
 ### b. Grado
 

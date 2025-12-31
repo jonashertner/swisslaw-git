@@ -4,18 +4,18 @@ title: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
 short: ZGB
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 1. Januar 2025)
+vom 10. Dezember 1907 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -11425,7 +11425,7 @@ Die Eintragung des Pfandrechtes des Verkäufers, der Miterben oder Gemeinder mus
 
 <sup>2</sup> Die Eintragung hat bis spätestens vier Monate nach der Vollendung der Arbeit zu erfolgen.
 
-<sup>3</sup> Sie darf nur erfolgen, wenn die Pfandsumme vom Eigentümer anerkannt oder gerichtlich festgestellt ist, und kann nicht verlangt werden, wenn der Eigentümer für die angemeldete Forderung hinreichende Sicherheit leistet.
+<sup>3</sup> Sie darf nur erfolgen, wenn die Pfandsumme vom Eigentümer anerkannt oder gerichtlich festgestellt ist, und kann nicht verlangt werden, wenn der Eigentümer für die angemeldete Forderung zuzüglich Verzugszinse für die Dauer von zehn Jahren hinreichende Sicherheit leistet.[^839-2]
 
 <sup>4</sup> Handelt es sich beim Grundstück unbestrittenermassen um Verwaltungsvermögen und ergibt sich die Schuldpflicht des Eigentümers nicht aus vertraglichen Verpflichtungen, so haftet er den Handwerkern oder Unternehmern für die anerkannten oder gerichtlich festgestellten Forderungen nach den Bestimmungen über die einfache Bürgschaft, sofern die Forderung ihm gegenüber spätestens vier Monate nach Vollendung der Arbeit schriftlich unter Hinweis auf die gesetzliche Bürgschaft geltend gemacht worden war.
 
@@ -11434,6 +11434,7 @@ Die Eintragung des Pfandrechtes des Verkäufers, der Miterben oder Gemeinder mus
 <sup>6</sup> Steht aufgrund eines Urteils fest, dass das Grundstück zum Verwaltungsvermögen gehört, so ist die vorläufige Eintragung des Pfandrechts zu löschen. An seine Stelle tritt die gesetzliche Bürgschaft, sofern die Voraussetzungen nach Absatz 4 erfüllt sind. Die Frist gilt mit der vorläufigen Eintragung des Pfandrechts als gewahrt.
 
 [^839-1]: Fassung gemäss Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^839-2]: Fassung gemäss Ziff. II des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Rang
 

@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20250101-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2025)
+du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -11389,7 +11389,7 @@ L’hypothèque légale du vendeur, des cohéritiers ou des indivis sera inscrit
 
 <sup>2</sup> L’inscription doit être obtenue au plus tard dans les quatre mois qui suivent l’achèvement des travaux.
 
-<sup>3</sup> Elle n’a lieu que si le montant du gage est établi par la reconnaissance du propriétaire ou par le juge; elle ne peut être requise si le propriétaire fournit des sûretés suffisantes au créancier.
+<sup>3</sup> Elle n’a lieu que si le montant du gage est établi par la reconnaissance du propriétaire ou par le juge; elle ne peut être requise si le propriétaire fournit des sûretés suffisantes au créancier, intérêts moratoires pour une durée de dix ans compris.[^839-2]
 
 <sup>4</sup> Si l’immeuble fait incontestablement partie du patrimoine administratif et que la dette ne résulte pas de ses obligations contractuelles, le propriétaire répond envers les artisans et les entrepreneurs des créances reconnues ou constatées par jugement, conformément aux règles sur le cautionnement simple, pour autant que les créanciers aient fait valoir leur créance par écrit au plus tard dans les quatre mois qui suivent l’achèvement des travaux en se prévalant du cautionnement légal.
 
@@ -11398,6 +11398,7 @@ L’hypothèque légale du vendeur, des cohéritiers ou des indivis sera inscrit
 <sup>6</sup> S’il est constaté sur la base d’un jugement que l’immeuble fait partie du patrimoine administratif, l’inscription provisoire du gage est radiée. Pour autant que les conditions prévues à l’al. 4 soient remplies, le cautionnement légal la remplace. Le délai est réputé sauvegardé par l’inscription provisoire du droit de gage.
 
 [^839-1]: Nouvelle teneur selon le ch. I 1 de la LF du 11 déc. 2009 (Cédule hypothécaire de registre et droits réels), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 5015](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^839-2]: Nouvelle teneur selon le ch. II de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Rang
 
