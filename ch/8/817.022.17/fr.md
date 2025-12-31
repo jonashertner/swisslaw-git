@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires d'o
 short: ODAlOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/181"
 language: fr
-version: 2024-02-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-181-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-181-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20240201/fr"
 
 (ODAlOV)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 14, al. 1, 36, al. 3 et 4, de l’ordonnance du 16 décembre 2016 su
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Chapitre 1 Dispositions générales
 
@@ -272,7 +272,7 @@ Peuvent être remises au consommateur:
 
 <sup>8</sup> S’il est fait état sur l’étiquette, en dehors de la liste des ingrédients, de la présence d’huile d’olive ou d’huile de grignons d’olive dans une denrée alimentaire autre que celle visée à l’art. 11, al. 2, par un texte, par des images ou des représentations graphiques, la dénomination spécifique de la denrée alimentaire doit être directement suivie par l’indication du pourcentage d’huile d’olive ou d’huile de grignons d’olive par rapport au poids net total de la denrée alimentaire. Font exception les denrées alimentaires solides conservées exclusivement dans de l’huile d’olive, notamment le thon ou les sardines dans des boîtes de conserve. L’indication du pourcentage d’huile par rapport au poids net total peut être remplacée par celle du pourcentage d’huile d’olive par rapport au poids total de matières grasses, complétée par un avertissement pertinent.
 
-[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^12-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^12-4]: Règlement délégué (UE) 2022/2104 de la Commission du 29 juillet 2022 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les normes de commercialisation de l’huile d’olive et abrogeant le règlement (CEE) n<sup>o</sup> 2568/91 de la Commission et le règlement d’exécution (UE) n<sup>o</sup> 29/2012 de la Commission, version du JO L 284 du 4.11.2022, p. 1.
@@ -337,7 +337,7 @@ La teneur en matière grasse doit être conforme aux valeurs suivantes:
 
 <sup>3</sup> Les produits visés à l’art. 14, al. 1, contenant plus de 0,5 % masse de sel comestible doivent porter l’indication «salé(e)». La teneur en sel doit être indiquée en pour-cent dans la liste des ingrédients.
 
-[^16-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^16-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
 ## Chapitre 4 Glace comestible
@@ -413,7 +413,7 @@ On distingue les types de fruits suivants:
 
 <sup>4</sup> L’extrait aqueux d’un fruit correspond à la partie des fruits soluble dans l’eau, à l’exception des pertes inévitables selon les bonnes pratiques de fabrication.
 
-[^22-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^22-1]: [RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 23
 
@@ -622,9 +622,9 @@ Les denrées alimentaires contenant des truffes doivent être étiquetées comme
 - a. «truffé» ou «avec truffes», si la part en truffes est d’au moins 3 % masse par rapport au produit fini;
 - b.[^37-3] «truffé à X %» ou «avec X % de truffes», si la part en truffes est de moins de 3 % masse par rapport au produit fini.
 
-<sup>3</sup> ...[^37-4]
+<sup>3</sup> …[^37-4]
 
-[^37-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^37-2]: Introduite par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^37-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^37-4]: Abrogé par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
@@ -779,14 +779,14 @@ Les fruits, y compris tomates, parties comestibles des tiges de rhubarbe, carott
 
 Pour les produits définis aux art. 39, 41 et 43, les indications requises à l’art. 3 OIDAl[^49-1] doivent être complétées par les informations suivantes:
 
-- a. une mention telle que «préparé avec ... g de fruits pour 100 g de produit fini», dans le même champ visuel que la dénomination spécifique, après déduction du poids de l’eau utilisée pour la préparation des extraits aqueux;
-- b. la mention «teneur totale en sucres: ... g par 100 g», dans le même champ visuel que la dénomination spécifique, pour autant que cette indication ne figure pas déjà sur un étiquetage nutritionnel; le chiffre indiqué représente la valeur réfractométrique du produit fini, déterminée à 20 °C; une tolérance de plus ou moins 3 % masse est admise lors de la détermination réfractométrique.
+- a. une mention telle que «préparé avec … g de fruits pour 100 g de produit fini», dans le même champ visuel que la dénomination spécifique, après déduction du poids de l’eau utilisée pour la préparation des extraits aqueux;
+- b. la mention «teneur totale en sucres: … g par 100 g», dans le même champ visuel que la dénomination spécifique, pour autant que cette indication ne figure pas déjà sur un étiquetage nutritionnel; le chiffre indiqué représente la valeur réfractométrique du produit fini, déterminée à 20 °C; une tolérance de plus ou moins 3 % masse est admise lors de la détermination réfractométrique.
 
 <sup>2</sup> La mention visée à l’al. 1 n’est pas requise pour les produits que le fabricant remet directement aux consommateurs ou aux entreprises locales du secteur alimentaire et que celles-ci remettent sans intermédiaire aux consommateurs.
 
 <sup>3</sup> La dénomination spécifique doit être complétée par la mention des fruits utilisés par ordre d’importance pondérale décroissante des produits de base. Dans le cas des produits fabriqués à partir de trois fruits ou davantage, la mention des fruits utilisés peut être remplacée par la mention «multifruits», par une mention analogue ou par l’indication du nombre de fruits utilisés.
 
-[^49-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^49-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Chapitre 6 Sucreries
 
@@ -815,7 +815,7 @@ L’adjonction d’autres denrées alimentaires aux chocolats définis à l’an
 
 <sup>4</sup> Les produits définis à l’annexe 6, ch. 5 à 9, 11 et 12, ne peuvent être additionnés que d’arômes n’imitant pas le goût du chocolat ou de la matière grasse lactique.
 
-[^51-1]: [RS 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
+[^51-1]: [RS 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
 
 #### Art. 52
 
@@ -859,7 +859,7 @@ Une mention dans la dénomination spécifique des ingrédients selon l’art. 51
 
 Les indications requises à l’art. 3 OIDAl[^54-1] doivent être complétées par les informations suivantes:
 
-- a. pour les produits définis à l’annexe 6, ch. 5.3 et 5.4, 6 à 8, 11 et 12, indication de la teneur minimale en matière sèche de cacao, en pour-cent masse, par la mention «cacao: ... % minimum»;
+- a. pour les produits définis à l’annexe 6, ch. 5.3 et 5.4, 6 à 8, 11 et 12, indication de la teneur minimale en matière sèche de cacao, en pour-cent masse, par la mention «cacao: … % minimum»;
 - b. pour le cacao pauvre en graisse ou maigre en poudre, sucré ou non, indication de la teneur minimale en beurre de cacao.
 
 <sup>2</sup>
@@ -881,7 +881,7 @@ L’étiquette des produits de chocolat selon l’annexe 6, ch. 6 à 9, 11 et 12
 - c. à proximité de la dénomination spécifique, et
 - d. en caractères gras au moins aussi grands.
 
-[^54-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^54-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### Section 2 Articles de pâtisserie et sucreries et autres articles de confiserie
 
@@ -1226,7 +1226,7 @@ La matière sèche soluble du sirop d’érable doit représenter au moins 60 % 
 
 <sup>2</sup> Le nom du fruit de départ suit la dénomination du sucre dérivé de fruits telle que «sucre dérivé d’ananas».
 
-<sup>3</sup> La présence de sorbitol dans le sucre dérivé de fruits ou les produits contenant du sucre dérivé de fruits doit être mentionnée lorsque le produit fini consommé en quantité usuelle peut avoir un effet laxatif. Dans ce cas, l’avertissement «une quantité de sorbitol supérieure à 10 g par jour peut avoir un effet laxatif; cette quantité correspond à ... X» (X = cuillères à café, morceaux, g, ml) doit être apposé.
+<sup>3</sup> La présence de sorbitol dans le sucre dérivé de fruits ou les produits contenant du sucre dérivé de fruits doit être mentionnée lorsque le produit fini consommé en quantité usuelle peut avoir un effet laxatif. Dans ce cas, l’avertissement «une quantité de sorbitol supérieure à 10 g par jour peut avoir un effet laxatif; cette quantité correspond à … X» (X = cuillères à café, morceaux, g, ml) doit être apposé.
 
 <sup>4</sup> Les indications valorisantes «nature», «naturel», «entier», «complet» ou autres indications du même type ne doivent pas être utilisées pour le sucre dérivé de fruits.
 
@@ -1462,7 +1462,7 @@ L’«aceto balsamico» doit satisfaire aux exigences suivantes:
 - b. une teneur en alcool ne dépassant pas 1,5 % vol.;
 - c. une teneur en extrait sans sucre d’au moins 30 g par litre.
 
-[^105-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^105-1]: [RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 106
 
@@ -1477,7 +1477,7 @@ Les indications requises à l’art. 3 OIDAl[^106-1] doivent être complétées 
 - a. la teneur en acide, calculée en acide acétique, exprimée en pour-cent masse ou en grammes par litre;
 - b. dans le cas du vin vinaigré: la teneur en alcool, exprimée en pour-cent vol..
 
-[^106-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^106-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 107
 
@@ -1616,7 +1616,7 @@ Les autres produits à base de protéines végétales sont des produits fabriqu�
 
 La dénomination spécifique est fixée à l’art. 6 OIDAl[^122-1].
 
-[^122-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^122-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Chapitre 11 Actualisation des annexes
 
@@ -2052,7 +2052,7 @@ Annexe 4[^t-3]
 
 ## Champignons comestibles qui ne peuvent être mis sur le marché que selon certaines exigences particulières et exigences correspondantes
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)) et le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 810](https://fedlex.data.admin.ch/eli/oc/2025/810)).
 
 <table>
 <tr><th>Nom latin</th><th>Synonyme nom latin</th><th>Nom français</th><th>Exigences</th></tr>
@@ -2060,35 +2060,33 @@ Annexe 4[^t-3]
 <tr><td>*Albatrellus confluens* (Alb. & Schwein.)</td><td>*Albatrellus confluens* (Alb. & Schwein.) Kotl. & Pouzar *Scutiger confluens* (Alb. & Schwein.) Bondartsev & Singer</td><td>[tab] Polypore confluent</td><td>[tab] Éviter les spécimens anciens (amers).</td></tr>
 <tr><td>*Albatrellus ovinus* (Schaeff.) Kotl.& Pouzar</td><td>*Scutiger ovinus* (Schaeff.) Murrill</td><td>[tab] Polypore des brebis</td><td>[tab] Éviter les spécimens anciens (amers).</td></tr>
 <tr><td>Amanita</td><td></td><td></td><td></td></tr>
-<tr><td>[tab] *Amanita caesarea* (Scop.) Pers.</td><td>[tab]</td><td>[tab] Amanite des Césars [tab] Oronge</td><td>Pas d’œufs de champignons fermés (voile général)</td></tr>
-<tr><td>*Amanita rubescens* Pers.</td><td>[tab]</td><td>[tab] Amanite rougissante [tab] Golmotte</td><td>Cuire au moins 20 minutes.</td></tr>
+<tr><td>[tab] *Amanita caesarea* (Scop.) Pers.</td><td></td><td>[tab] Amanite des Césars [tab] Oronge</td><td>Pas d’œufs de champignons fermés (voile général)</td></tr>
+<tr><td>*Amanita rubescens* Pers.</td><td></td><td>[tab] Amanite rougissante [tab] Golmotte</td><td>Cuire au moins 20 minutes.</td></tr>
 <tr><td>Armillaria</td><td></td><td></td><td></td></tr>
-<tr><td>*Armillaria borealis* Marxm. & Korhonen</td><td>[tab]</td><td>[tab] Armillaire boréale</td><td>Seulement des spécimens jeunes : cuire séparément 5 minutes à l’eau, jeter l’eau de cuisson, terminer la cuisson. Séchage possible sans cuisson préalable puis utilisation normale (cuire au moins 20 minutes).</td></tr>
-<tr><td>*Armillaria cepistipes* Velen. [as *'cepaestipes'*], České Houby</td><td>[tab]</td><td>[tab] Armillaire pied-bot</td><td></td></tr>
+<tr><td>*Armillaria borealis* Marxm. & Korhonen</td><td></td><td>[tab] Armillaire boréale</td><td>Seulement des spécimens jeunes: cuire séparément 5 minutes à l’eau, jeter l’eau de cuisson, terminer la cuisson. Séchage possible sans cuisson préalable puis utilisation normale (cuire au moins 20 minutes).</td></tr>
+<tr><td>*Armillaria cepistipes* Velen. [as *’cepaestipes’*], České Houby</td><td></td><td>[tab] Armillaire pied-bot</td><td></td></tr>
 <tr><td>*Armillaria gallica* Marxm. & Romagn*.*</td><td>*Armillaria bulbosa* sensu auct. brit*.*</td><td>[tab] Armillaire à voile jaune</td><td></td></tr>
-<tr><td>[tab] *Armillaria mellea* (Vahl) P. Kumm. agg.</td><td>[tab]</td><td>[tab] Armillaire couleur de miel</td><td></td></tr>
+<tr><td>[tab] *Armillaria mellea* (Vahl) P. Kumm. agg.</td><td></td><td>[tab] Armillaire couleur de miel</td><td></td></tr>
 <tr><td>*Armillaria ostoyae* (Romagn.) Herink</td><td>*Armillaria obscura* sensu auct.</td><td>[tab] Armillaire obscure</td><td></td></tr>
 <tr><td>*Armillaria tabescens* Scop.</td><td>*Desarmillaria tabescens* (Scop.) R.A. Koch & Aime</td><td>[tab] Armillaire sans anneau</td><td></td></tr>
-<tr><td>Boletus</td><td>[tab]</td><td></td><td></td></tr>
+<tr><td>Boletus</td><td></td><td></td><td></td></tr>
 <tr><td>*Boletus erythropus* Pers.</td><td>*Neoboletus erythropus* (Pers.) C. Hahn</td><td>[tab] Bolet à pied rouge</td><td>Cuire au moins 20 minutes.</td></tr>
-<tr><td>Chlorophyllum</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Chlorophyllum</td><td></td><td></td><td></td></tr>
 <tr><td>*Chlorophyllum olivieri* (Barla) Vellinga</td><td>*Chlorophyllum rhacodes* (Vittad.) Vellinga *Macrolepiota* *rachodes* (Vittad.) Singer *Macrolepiota rhacodes* (Vittad.) Singer</td><td>[tab] Lépiote déguenillée</td><td>Cuire / griller au moins 20 minutes Ne préparer que le chapeau, pas le pied</td></tr>
-<tr><td>Kuehneromyces</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Kuehneromyces</td><td></td><td></td><td></td></tr>
 <tr><td>Kuehneromyces mutabilis (Schaeff.) Singer & A.H. Sm.</td><td>*Pholiota mutabilis* (Schaeff.) P. Kumm.</td><td>[tab] Pholiote changeante</td><td>Culture seulement (risque de confusion avec *Galerina marginata*)</td></tr>
-<tr><td>Lentinula</td><td>[tab]</td><td></td><td></td></tr>
-<tr><td>Lentinula edodes (Berk.) Pegler</td><td>*Lentinus edodes* (Berk.) Singer</td><td>[tab] Shiitaké</td><td>Cuire au moins 20 minutes.</td></tr>
-<tr><td>Macrolepiota</td><td>[tab]</td><td></td><td></td></tr>
-<tr><td>Macrolepiota procera (Scop.) Singer</td><td>[tab]</td><td>[tab] Lépiote élevée</td><td>Cuire / griller au moins 20 minutes. Ne préparer que le chapeau, pas le pied.</td></tr>
-<tr><td>*Russula*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
-<tr><td>*Russula olivacea* (Schaeff.) Fr.</td><td>[tab]</td><td>[tab] Russule olivacée</td><td>Cuire au moins 20 minutes.</td></tr>
-<tr><td>*Sarcodon*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Macrolepiota</td><td></td><td></td><td></td></tr>
+<tr><td>Macrolepiota procera (Scop.) Singer</td><td></td><td>[tab] Lépiote élevée</td><td>Cuire / griller au moins 20 minutes. Ne préparer que le chapeau, pas le pied.</td></tr>
+<tr><td>*Russula*</td><td></td><td></td><td></td></tr>
+<tr><td>*Russula olivacea* (Schaeff.) Fr.</td><td></td><td>[tab] Russule olivacée</td><td>Cuire au moins 20 minutes.</td></tr>
+<tr><td>*Sarcodon*</td><td></td><td></td><td></td></tr>
 <tr><td>*Sarcodon imbricatus* (L.) P. Karst.</td><td>*Sarcodon imbricatum* (L.) P. Karst</td><td>Sacodon imbriqué, Hydne imbriqué</td><td>Éviter les spécimens anciens (amers).</td></tr>
-<tr><td>*Suillus*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
-<tr><td>*Suillus bovinus* (L.) Roussel</td><td>[tab]</td><td>[tab] Bolet des bouviers</td><td>Enlever la cuticule.</td></tr>
-<tr><td>*Suillus collinitus* (Fr.) Kuntze</td><td>[tab]</td><td>[tab] Bolet à base rose</td><td></td></tr>
-<tr><td>*Suillus granulatus* (L.) Roussel</td><td>[tab]</td><td>[tab] Bolet granulé</td><td></td></tr>
+<tr><td>*Suillus*</td><td></td><td></td><td></td></tr>
+<tr><td>*Suillus bovinus* (L.) Roussel</td><td></td><td>[tab] Bolet des bouviers</td><td>Enlever la cuticule.</td></tr>
+<tr><td>*Suillus collinitus* (Fr.) Kuntze</td><td></td><td>[tab] Bolet à base rose</td><td></td></tr>
+<tr><td>*Suillus granulatus* (L.) Roussel</td><td></td><td>[tab] Bolet granulé</td><td></td></tr>
 <tr><td>*Suillus grevillei* (Klotsch) Singer</td><td>*Suillus flavus* (With.) Singer</td><td>[tab] Bolet élégant</td><td></td></tr>
-<tr><td>Suillus luteus (L.) Roussel</td><td>[tab]</td><td>[tab] Nonnette voilée</td><td></td></tr>
+<tr><td>Suillus luteus (L.) Roussel</td><td></td><td>[tab] Nonnette voilée</td><td></td></tr>
 </table>
 
 Annexe 5
@@ -2331,9 +2329,9 @@ Produit obtenu à partir de beurre de cacao, de sucres et de lait ou de produits
 <tr><td>c. dont matière grasse lactique</td><td>min. 3,5 % masse</td></tr>
 </table>
 
-### 10. Chocolat fourré, chocolat avec fourrage ...
+### 10. Chocolat fourré, chocolat avec fourrage …
 
-10.1 Le chocolat fourré (chocolat avec fourrage ...) est une denrée alimentaire dont la partie extérieure est constituée d’un des chocolats mentionnés aux ch. 6, 7, 8, 9, 14 et 15 présente la teneur minimale fixée aux chiffres suivants (calcul selon l’art. 52):
+10.1 Le chocolat fourré (chocolat avec fourrage …) est une denrée alimentaire dont la partie extérieure est constituée d’un des chocolats mentionnés aux ch. 6, 7, 8, 9, 14 et 15 présente la teneur minimale fixée aux chiffres suivants (calcul selon l’art. 52):
 
 Chocolat au sens des ch. 6, 7, 8, 9, 14 et 15 min. 25 % masse
 
@@ -2503,7 +2501,7 @@ Solution aqueuse de saccharose partiellement inverti par hydrolyse, dans laquell
 <table>
 <tr><td>a. Matière sèche</td><td>min. 62 % masse</td></tr>
 <tr><td>b. Teneur en sucre inverti (quotient du fructose par le glucose: 1,0 ± 0,1)</td><td>min. 3 % masse (rapporté à la matière sèche)</td></tr>
-<tr><td>[tab]</td><td>max. 50 % masse (rapporté à la matière sèche)</td></tr>
+<tr><td></td><td>max. 50 % masse (rapporté à la matière sèche)</td></tr>
 <tr><td>c. Cendres conductimétriques</td><td>max. 0,4 % masse (rapporté à la matière sèche)</td></tr>
 </table>
 

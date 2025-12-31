@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari di origi
 short: ODOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/181"
 language: it
-version: 2024-02-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-181-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-181-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20240201/it"
 
 (ODOV)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 14 capoverso 1 e 36 capoversi 3 e 4 dell’ordinanza del 16 d
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -109,7 +109,7 @@ La presente ordinanza definisce le seguenti derrate alimentari, ne stabilisce i 
 
 Le piante e le parti di piante nonché i preparati e le sostanze da esse ottenuti secondo l’allegato 1 non possono essere utilizzati come derrate alimentari né possono essere aggiunti alle derrate alimentari.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 ## Capitolo 2: Semi oleosi
 
@@ -236,7 +236,7 @@ Possono essere consegnati ai consumatori solamente:
 - c. olio d’oliva composto da oli d’oliva raffinati e da oli d’oliva vergini;
 - d. olio di sansa d’oliva.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1247](https://fedlex.data.admin.ch/eli/oc/2018/201)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1247](https://fedlex.data.admin.ch/eli/oc/2018/201)).
 
 #### Art. 11
 
@@ -275,12 +275,12 @@ Possono essere consegnati ai consumatori solamente:
 
 <sup>8</sup> Nelle derrate alimentari diverse da quelle di cui all’articolo 11 capoverso 2, se è riportata nella caratterizzazione, al di fuori dell’elenco degli ingredienti, la presenza di olio d’oliva o di olio di sansa d’oliva attraverso un testo, immagini o simboli grafici, la denominazione specifica di tali derrate alimentari deve essere seguita immediatamente dall’indicazione della percentuale di olio d’oliva o di olio di sansa d’oliva aggiunto rispetto al peso netto totale. Sono fatti salvi i prodotti alimentari solidi conservati esclusivamente nell’olio d’oliva, in particolare il tonno o le sardine all’olio d’oliva. L’indicazione della percentuale di olio d’oliva rispetto al peso netto totale può essere sostituita dalla percentuale di olio d’oliva rispetto al peso totale delle materie grasse con una corrispondente denominazione.
 
-[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^12-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^12-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^12-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^12-3]: Regolamento delegato (UE) 2022/2104 della Commissione, del 29 luglio 2022, che integra il regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio per quanto riguarda le norme di commercializzazione dell’olio di oliva e che abroga il regolamento (CEE) n. 2568/91 della Commissione e il regolamento di esecuzione (UE) n. 29/2012 della Commissione, versione della GU L 284 del 4.11.2022, pag. 1.
 [^12-4]: Regolamento di esecuzione (UE) 2022/2105 della Commissione, del 29 luglio 2022, che stabilisce norme relative ai controlli di conformità delle norme di commercializzazione dell’olio di oliva e ai metodi di analisi delle caratteristiche dell’olio di oliva, versione della GU L 284 del 4.11.2022, pag. 23.
-[^12-5]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
-[^12-6]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^12-5]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^12-6]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 ### Sezione 3: Grassi da spalmare
 
@@ -339,8 +339,8 @@ Il tenore di grasso deve essere:
 
 <sup>3</sup> I prodotti di cui all’articolo 14 capoverso 1 con oltre lo 0,5 per cento in massa di sale commestibile devono essere designati come «salati». Il tenore di sale deve essere indicato in per cento nell’elenco degli ingredienti.
 
-[^16-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^16-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^16-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^16-2]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
 ## Capitolo 4: Gelato commestibile
 
@@ -415,7 +415,7 @@ Si distinguono i seguenti tipi di frutta:
 
 <sup>4</sup> Per estratti acquosi di un frutto s’intende l’intera parte del frutto solubile in acqua, eccettuate le perdite tecnicamente inevitabili.
 
-[^22-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^22-1]: [RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 23
 
@@ -512,7 +512,7 @@ Sugli imballaggi e sulle etichette di microalghe deve esserne indicata la specie
 
 I funghi commestibili che possono essere immessi sul mercato solo se soddisfano determinati requisiti e i relativi requisiti sono riportati nell’allegato 4.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
 #### Art. 32
 
@@ -585,7 +585,7 @@ Il tenore d’acqua del granulato di funghi e della polvere di funghi non deve s
 - a. granulato di funghi: 13 per cento in massa;
 - b. polvere di funghi: 9 per cento in massa.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
 #### Art. 35
 
@@ -626,10 +626,10 @@ Le derrate alimentari tartufate devono essere caratterizzate come segue:
 
 <sup>3</sup> …[^37-4]
 
-[^37-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^37-2]: Introdotta dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
-[^37-3]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
-[^37-4]: Abrogato dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^37-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
+[^37-2]: Introdotta dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^37-3]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^37-4]: Abrogato dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
 ### Sezione 3: Confettura, gelatina, marmellata, crema di marroni, prodotto da spalmare sul pane e confettura di latte
 
@@ -788,7 +788,7 @@ Per i prodotti di cui agli articoli 39, 41 e 43, oltre alle indicazioni secondo 
 
 <sup>3</sup> La denominazione specifica deve essere completata con l’indicazione dei frutti utilizzati in ordine decrescente delle percentuali del peso delle sostanze di partenza. Per i prodotti fabbricati con tre o più tipi di frutti, la dichiarazione dei frutti utilizzati può essere sostituita dalla menzione «più frutti», da un’indicazione simile o dall’indicazione del numero di tipi di frutti utilizzati.
 
-[^49-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^49-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Capitolo 6: Prodotti di confetteria
 
@@ -817,7 +817,7 @@ Le fave di cacao, i semi di cacao e i prodotti da essi ottenuti, il cioccolato, 
 
 <sup>4</sup> Ai prodotti descritti nell’allegato 6 numeri 5–9, 11 e 12 possono essere aggiunti solo aromi con i quali non si imita il sapore del cioccolato o del grasso di latte.
 
-[^51-1]: [RS 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
+[^51-1]: [RS 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
 
 #### Art. 52
 
@@ -883,7 +883,7 @@ L’etichetta dei prodotti di cioccolato di cui all’allegato 6 numeri 6–9, 1
 - c. figurare accanto alla denominazione specifica; e
 - d. avere caratteri in grassetto almeno altrettanto grandi.
 
-[^54-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^54-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### Sezione 2: Articoli di confetteria e dolciumi e altri prodotti di confetteria
 
@@ -1019,7 +1019,7 @@ La farina normale deve presentare i seguenti tenori, riferiti alla sostanza secc
 
 <sup>4</sup> L’acerola in polvere può contenere ingredienti che fungono da supporto quali amido o maltodestrina fino al 70 per cento in massa.
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 #### Art. 68
 
@@ -1129,7 +1129,7 @@ Il pane con farina speciale deve essere designato in modo corrispondente, ad ese
 - c. se il pane con farina speciale viene designato come «pane al latte magro», per la sua fabbricazione dev’essere stato impiegato almeno tanto latte magro quanta acqua o la corrispondente quantità di polvere di latte magro;
 - d. nella denominazione specifica si può accennare a un contenuto di burro (p. es. «treccia al burro»), se il prodotto presenta un contenuto di grasso di burro nella sostanza secca di almeno 70 g/kg. L’aggiunta di grassi commestibili, oli commestibili, margarina e minarina è in questo caso vietata.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 #### Art. 76
 
@@ -1310,7 +1310,7 @@ Il sale commestibile e il sale commestibile con speciali aggiunte devono soddisf
 
 <sup>3</sup> Le mescolanze di spezie sono mescolanze costituite esclusivamente di spezie.
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1247](https://fedlex.data.admin.ch/eli/oc/2018/201)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1247](https://fedlex.data.admin.ch/eli/oc/2018/201)).
 
 #### Art. 95
 
@@ -1376,7 +1376,7 @@ Per il condimento sono vietate indicazioni e illustrazioni facenti riferimento a
 
 <sup>2</sup> Al condimento in polvere si possono aggiungere altri ingredienti quali lievito, verdura, funghi o spezie nonché, per migliorarne la scorrevolezza, ingredienti come amido o grasso.[^102-1]
 
-[^102-1]: Nuovo testo giusta il n. I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1247](https://fedlex.data.admin.ch/eli/oc/2018/201)).
+[^102-1]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1247](https://fedlex.data.admin.ch/eli/oc/2018/201)).
 
 #### Art. 103
 
@@ -1415,7 +1415,7 @@ Sono mescolanze di aceti di fermentazione:
 
 <sup>4</sup> L’«aceto balsamico» è una specialità di aceto a base di uva fermentata, fabbricato con un procedimento tradizionale.
 
-[^104-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^104-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 #### Art. 105
 
@@ -1464,7 +1464,7 @@ Per l’«aceto balsamico» valgono i seguenti requisiti:
 - b. un tenore alcolico massimo di 1,5 per cento in volume;
 - c. un tenore di estratto senza zucchero di almeno 30 g per litro.
 
-[^105-1]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^105-1]: [RS 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 106
 
@@ -1479,7 +1479,7 @@ Oltre alle indicazioni di cui all’articolo 3 OID[^106-1] devono figurare:
 - a. il tenore di acido, calcolato come acido acetico, in per cento in massa o in grammi per litro;
 - b. per l’aceto vinoso, il tenore alcolico in per cento in volume.
 
-[^106-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^106-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 107
 
@@ -1616,7 +1616,7 @@ Gli altri prodotti a base di proteine vegetali sono prodotti ottenuti da protein
 
 La denominazione specifica si basa sull’articolo 6 OID[^122-1].
 
-[^122-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^122-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## Capitolo 11: Adeguamento degli allegati
 
@@ -1641,12 +1641,12 @@ Sono abrogate:
 - 5\. l’ordinanza del DFI del 23 novembre 2005[^124-5] sulla frutta, la verdura, le confetture e i prodotti simili alle confetture;
 - 6\. l’ordinanza del DFI del 23 novembre 2005[^124-6] concernente i cereali, le leguminose, le proteine vegetali e i loro derivati.
 
-[^124-1]: [[RU 2005 5909](https://fedlex.data.admin.ch/eli/oc/2005/794), [2006 4913](https://fedlex.data.admin.ch/eli/oc/2006/766), [2009 1977](https://fedlex.data.admin.ch/eli/oc/2009/278), [2010 885](https://fedlex.data.admin.ch/eli/oc/2010/140)]
-[^124-2]: [[RU 2005 5941](https://fedlex.data.admin.ch/eli/oc/2005/796), [2006 4917](https://fedlex.data.admin.ch/eli/oc/2006/767), [2009 1995](https://fedlex.data.admin.ch/eli/oc/2009/279)]
-[^124-3]: [[RU 2005 6009](https://fedlex.data.admin.ch/eli/oc/2005/798), [2006 4941](https://fedlex.data.admin.ch/eli/oc/2006/769), [2008 993](https://fedlex.data.admin.ch/eli/oc/2008/198), [2009 1023](https://fedlex.data.admin.ch/eli/oc/2009/157), [2013 4943](https://fedlex.data.admin.ch/eli/oc/2013/836), [2015 1053](https://fedlex.data.admin.ch/eli/oc/2015/207)[3403](https://fedlex.data.admin.ch/eli/oc/2015/601)]
-[^124-4]: [[RU 2005 6017](https://fedlex.data.admin.ch/eli/oc/2005/799), [2008 995](https://fedlex.data.admin.ch/eli/oc/2008/199)]
-[^124-5]: [[RU 2005 6033](https://fedlex.data.admin.ch/eli/oc/2005/800), [2006 4945](https://fedlex.data.admin.ch/eli/oc/2006/770), [2008 1007](https://fedlex.data.admin.ch/eli/oc/2008/200), [2010 4631](https://fedlex.data.admin.ch/eli/oc/2010/670), [2012 5427](https://fedlex.data.admin.ch/eli/oc/2012/625)]
-[^124-6]: [[RU 2005 6087](https://fedlex.data.admin.ch/eli/oc/2005/802), [2006 4965](https://fedlex.data.admin.ch/eli/oc/2006/772), [2010 4639](https://fedlex.data.admin.ch/eli/oc/2010/672), [2013 4975](https://fedlex.data.admin.ch/eli/oc/2013/838)]
+[^124-1]: [[RU 2005 5909](https://fedlex.data.admin.ch/eli/oc/2005/794); [2006 4913](https://fedlex.data.admin.ch/eli/oc/2006/766); [2009 1977](https://fedlex.data.admin.ch/eli/oc/2009/278); [2010 885](https://fedlex.data.admin.ch/eli/oc/2010/140)]
+[^124-2]: [[RU 2005 5941](https://fedlex.data.admin.ch/eli/oc/2005/796); [2006 4917](https://fedlex.data.admin.ch/eli/oc/2006/767); [2009 1995](https://fedlex.data.admin.ch/eli/oc/2009/279)]
+[^124-3]: [[RU 2005 6009](https://fedlex.data.admin.ch/eli/oc/2005/798); [2006 4941](https://fedlex.data.admin.ch/eli/oc/2006/769); [2008 993](https://fedlex.data.admin.ch/eli/oc/2008/198); [2009 1023](https://fedlex.data.admin.ch/eli/oc/2009/157); [2013 4943](https://fedlex.data.admin.ch/eli/oc/2013/836); [2015 1053](https://fedlex.data.admin.ch/eli/oc/2015/207), [3403](https://fedlex.data.admin.ch/eli/oc/2015/601)]
+[^124-4]: [[RU 2005 6017](https://fedlex.data.admin.ch/eli/oc/2005/799); [2008 995](https://fedlex.data.admin.ch/eli/oc/2008/199)]
+[^124-5]: [[RU 2005 6033](https://fedlex.data.admin.ch/eli/oc/2005/800); [2006 4945](https://fedlex.data.admin.ch/eli/oc/2006/770); [2008 1007](https://fedlex.data.admin.ch/eli/oc/2008/200); [2010 4631](https://fedlex.data.admin.ch/eli/oc/2010/670); [2012 5427](https://fedlex.data.admin.ch/eli/oc/2012/625)]
+[^124-6]: [[RU 2005 6087](https://fedlex.data.admin.ch/eli/oc/2005/802); [2006 4965](https://fedlex.data.admin.ch/eli/oc/2006/772); [2010 4639](https://fedlex.data.admin.ch/eli/oc/2010/672); [2013 4975](https://fedlex.data.admin.ch/eli/oc/2013/838)]
 
 #### Art. 124a
 
@@ -1654,7 +1654,7 @@ Sono abrogate:
 
 Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2021 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^124a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
+[^124a-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
 #### Art. 124b
 
@@ -1662,7 +1662,7 @@ Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono esse
 
 Le derrate alimentari non conformi alla modifica dell’8 dicembre 2023 possono essere importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 31 gennaio 2025 e consegnate ai consumatori fino a esaurimento delle scorte.
 
-[^124b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^124b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 #### Art. 125
 
@@ -1676,7 +1676,7 @@ Allegato 1[^t-1]
 
 ## Piante e parti di piante nonché preparati e sostanze da esse ottenuti il cui utilizzo non è ammesso nelle derrate alimentari
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 ### Parte A: Piante, parti di piante e preparati da esse ottenuti il cui utilizzo non è ammesso nelle derrate alimentari
 
@@ -1975,7 +1975,7 @@ Allegato 2[^t-2]
 
 ## Requisiti per gli oli d’oliva e gli oli di sansa d’oliva
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 Per l’olio d’oliva e l’olio di sansa d’oliva valgono i requisiti previsti dall’allegato I del regolamento delegato (UE) 2022/2104[^annex2-lvlu1-1]. Si applicano i metodi di campionamento e di analisi secondo le disposizioni degli allegati I, II e IV del regolamento di esecuzione (UE) 2022/2105[^annex2-lvlu1-2] o secondo procedimenti convalidati equivalenti che forniscono risultati identici a quelli ottenuti mediante i metodi prescritti.
 
@@ -2052,43 +2052,41 @@ Allegato 4[^t-3]
 
 ## Funghi commestibili che possono essere immessi sul mercato solo se soddisfano determinati requisiti, e i relativi requisiti
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)). Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)) e dalla cifra I dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 810](https://fedlex.data.admin.ch/eli/oc/2025/810)).
 
 <table>
 <tr><th>Nome latino</th><th>Sinonimi del nome latino</th><th>Nome italiano</th><th>Requisiti</th></tr>
-<tr><td>Albatrellus</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>Albatrellus</td><td></td><td></td><td></td></tr>
 <tr><td>*Albatrellus confluens* (Alb. & Schwein.)</td><td>*Albatrellus confluens* (Alb. & Schwein.) Kotl. & Pouzar *Scutiger confluens* (Alb. & Schwein.) Bondartsev & Singer</td><td>[tab] Albatrellus confluens</td><td>[tab] Evitare gli esemplari vecchi (amari).</td></tr>
 <tr><td>*Albatrellus ovinus* (Schaeff.) Kotl.& Pouzar</td><td>*Scutiger ovinus* (Schaeff.) Murrill</td><td>[tab] Albatrellus ovinus</td><td>[tab] Evitare gli esemplari vecchi (amari).</td></tr>
 <tr><td>Amanita</td><td></td><td>Amanita</td><td></td></tr>
-<tr><td>[tab] *Amanita caesarea* (Scop.) Pers.</td><td>[tab]</td><td>[tab] Amanita caesarea</td><td>Non sono ammessi ovoli chiusi.</td></tr>
+<tr><td>[tab] *Amanita caesarea* (Scop.) Pers.</td><td></td><td>[tab] Amanita caesarea</td><td>Non sono ammessi ovoli chiusi.</td></tr>
 <tr><td>[tab] *Amanita rubescens* Pers.</td><td></td><td>[tab] Amanita rubescens</td><td>Cuocere per almeno 20 minuti.</td></tr>
 <tr><td>Armillaria</td><td></td><td>Armillaria</td><td></td></tr>
-<tr><td>*Armillaria borealis* Marxm. & Korhonen</td><td>[tab]</td><td>[tab] Armillaria borealis</td><td>Solo esemplari giovani: Cuocere separatamente in acqua per 5 minuti, quindi gettare l’acqua di cottura e continuare la cottura. Può essere essiccato senza precottura e utilizzato successivamente come di consueto (cuocere per almeno 20 minuti).</td></tr>
-<tr><td>*Armillaria cepistipes Velen.* [as *’cepaestipes’],* České Houby</td><td>[tab]</td><td>[tab] Armillaria cepistipes</td><td></td></tr>
+<tr><td>*Armillaria borealis* Marxm. & Korhonen</td><td></td><td>[tab] Armillaria borealis</td><td>Solo esemplari giovani: Cuocere separatamente in acqua per 5 minuti, quindi gettare l’acqua di cottura e continuare la cottura. Può essere essiccato senza precottura e utilizzato successivamente come di consueto (cuocere per almeno 20 minuti).</td></tr>
+<tr><td>*Armillaria cepistipes Velen.* [as *’cepaestipes’],* České Houby</td><td></td><td>[tab] Armillaria cepistipes</td><td></td></tr>
 <tr><td>*Armillaria gallica* Marxm. & Romagn.</td><td>*Armillaria bulbosa* sensu auct. brit*.*</td><td>[tab] Armillaria gallica</td><td></td></tr>
-<tr><td>*Armillaria mellea* (Vahl) P. Kumm. agg.</td><td>[tab]</td><td>[tab] Armillaria mellea</td><td></td></tr>
+<tr><td>*Armillaria mellea* (Vahl) P. Kumm. agg.</td><td></td><td>[tab] Armillaria mellea</td><td></td></tr>
 <tr><td>*Armillaria ostoyae* (Romagn.) Herink</td><td>*Armillaria obscura* sensu auct.</td><td>[tab] Armillaria ostoyae</td><td></td></tr>
 <tr><td>*Armillaria tabescens* Scop.</td><td>*Desarmillaria tabescens* (Scop.) R.A. Koch & Aime</td><td>[tab] Armillaria tabescens</td><td></td></tr>
-<tr><td>Boletus</td><td>[tab]</td><td></td><td></td></tr>
+<tr><td>Boletus</td><td></td><td></td><td></td></tr>
 <tr><td>*Boletus erythropus* Pers.</td><td>*Neoboletus erythropus* (Pers.) C. Hahn</td><td>[tab] Boletus erythropus</td><td>Cuocere per almeno 20 minuti.</td></tr>
-<tr><td>Chlorophyllum</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Chlorophyllum</td><td></td><td></td><td></td></tr>
 <tr><td>*Chlorophyllum olivieri* (Barla) Vellinga</td><td>*Chlorophyllum rhacodes* (Vittad.) Vellinga *Macrolepiota* *rachodes* (Vittad.) Singer *Macrolepiota rhacodes* (Vittad.) Singer</td><td>Chlorophyllum rhacodes</td><td>Cuocere/soffriggere per almeno 20 minuti. Cucinare solo il cappello, non il gambo.</td></tr>
-<tr><td>Kuehneromyces</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Kuehneromyces</td><td></td><td></td><td></td></tr>
 <tr><td>*Kuehneromyces mutabilis* (Schaeff.) Singer & A.H. Sm.</td><td>*Pholiota mutabilis* (Schaeff.) P. Kumm.</td><td>[tab] Kuehneromyces mutabilis</td><td>Solo da coltivazione (pericolo di confusione con *Galerina marginata*).</td></tr>
-<tr><td>Lentinula</td><td>[tab]</td><td></td><td></td></tr>
-<tr><td>*Lentinula edodes* (Berk.) Pegler</td><td>*Lentinus edodes* (Berk.) Singer</td><td>[tab] Lentinula edodes</td><td>Cuocere per almeno 20 minuti.</td></tr>
-<tr><td>Macrolepiota</td><td>[tab]</td><td></td><td></td></tr>
-<tr><td>*Macrolepiota procera* (Scop.) Singer</td><td>[tab]</td><td>[tab] Macrolepiota procera</td><td>Cuocere/soffriggere per almeno 20 minuti. Cucinare solo il cappello, non il gambo.</td></tr>
-<tr><td>*Russula*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
-<tr><td>*Russula olivacea* (Schaeff.) Fr.</td><td>[tab]</td><td>[tab] Russula olivacea</td><td>Cuocere per almeno 20 minuti.</td></tr>
-<tr><td>*Sarcodon*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Macrolepiota</td><td></td><td></td><td></td></tr>
+<tr><td>*Macrolepiota procera* (Scop.) Singer</td><td></td><td>[tab] Macrolepiota procera</td><td>Cuocere/soffriggere per almeno 20 minuti. Cucinare solo il cappello, non il gambo.</td></tr>
+<tr><td>*Russula*</td><td></td><td></td><td></td></tr>
+<tr><td>*Russula olivacea* (Schaeff.) Fr.</td><td></td><td>[tab] Russula olivacea</td><td>Cuocere per almeno 20 minuti.</td></tr>
+<tr><td>*Sarcodon*</td><td></td><td></td><td></td></tr>
 <tr><td>*Sarcodon imbricatus* (L.) P. Karst*.*</td><td>*Sarcodon imbricatum* (L.) P. Karst</td><td>[tab] Sarcodon imbricatus</td><td>Evitare gli esemplari vecchi (amari).</td></tr>
-<tr><td>*Suillus*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
-<tr><td>*Suillus bovinus* (L.) Roussel</td><td>[tab]</td><td>[tab] Suillus bovinus</td><td>Rimuovere la pelle del cappello.</td></tr>
-<tr><td>*Suillus collinitus* (Fr.) Kuntze</td><td>[tab]</td><td>[tab] Suillus collinitus</td><td></td></tr>
-<tr><td>*Suillus granulatus* (L.) Roussel</td><td>[tab]</td><td>[tab] Suillus granulatus</td><td></td></tr>
+<tr><td>*Suillus*</td><td></td><td></td><td></td></tr>
+<tr><td>*Suillus bovinus* (L.) Roussel</td><td></td><td>[tab] Suillus bovinus</td><td>Rimuovere la pelle del cappello.</td></tr>
+<tr><td>*Suillus collinitus* (Fr.) Kuntze</td><td></td><td>[tab] Suillus collinitus</td><td></td></tr>
+<tr><td>*Suillus granulatus* (L.) Roussel</td><td></td><td>[tab] Suillus granulatus</td><td></td></tr>
 <tr><td>*Suillus grevillei* (Klotsch) Singer</td><td>*Suillus flavus* (With.) Singer</td><td>[tab] Suillus grevillei</td><td></td></tr>
-<tr><td>*Suillus luteus* (L.) Roussel</td><td>[tab]</td><td>[tab] Suillus luteus</td><td></td></tr>
+<tr><td>*Suillus luteus* (L.) Roussel</td><td></td><td>[tab] Suillus luteus</td><td></td></tr>
 </table>
 
 Allegato 5
@@ -2125,7 +2123,7 @@ Allegato 6[^t-4]
 
 ## Fave e semi di cacao, cioccolato e prodotti di cioccolato
 
-[^t-4]: Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^t-4]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
 
 ### 1. Fave di cacao
 
@@ -2505,7 +2503,7 @@ Soluzione acquosa di saccarosio parzialmente invertito mediante idrolisi nella q
 <table>
 <tr><td>a. Sostanza secca</td><td>min. 62 per cento in massa</td></tr>
 <tr><td>b. Tenore di zucchero invertito (quoziente tra fruttosio e glucosio: 1,0 ± 0,1)</td><td>min. 3 per cento in massa (riferito alla sostanza secca)</td></tr>
-<tr><td>[tab]</td><td>max. 50 per cento in massa (riferito alla sostanza secca)</td></tr>
+<tr><td></td><td>max. 50 per cento in massa (riferito alla sostanza secca)</td></tr>
 <tr><td>c. Ceneri conduttimetriche</td><td>max. 0,4 per cento in massa (riferito alla sostanza secca)</td></tr>
 </table>
 

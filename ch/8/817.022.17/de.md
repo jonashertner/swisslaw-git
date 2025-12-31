@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel pflanzlicher
 short: VLpH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/181"
 language: de
-version: 2024-02-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-181-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/181/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-181-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/181/20240201/de"
 
 (VLpH)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 14 Absatz 1 sowie 36 Absätze 3 und 4 der Lebensmittel
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -275,7 +275,7 @@ An Konsumentinnen und Konsumenten dürfen nur abgegeben werden:
 
 <sup>8</sup> Wird bei anderen Lebensmitteln als nach Artikel 11 Absatz 2 im Rahmen der Kennzeichnung, ausserhalb der Zutatenliste, durch Text, Bild oder grafische Darstellungen auf das Vorhandensein von Olivenöl oder Oliventresteröl hingewiesen, so ist unmittelbar nach der Sachbezeichnung des Lebensmittels der Anteil des hinzugefügten Olivenöls oder Oliventresteröls als Prozentsatz des Nettogesamtgewichts anzugeben. Ausgenommen sind ausschliesslich in Olivenöl haltbargemachte feste Lebensmittel, insbesondere Thunfisch oder Sardinen in Olivenöl. Anstelle des Olivenölanteils am Nettogesamtgewicht kann der prozentuale Anteil des Olivenöls am Gesamtfettgewicht mit einem entsprechenden Hinweis angegeben werden.
 
-[^12-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^12-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^12-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^12-3]: Delegierte Verordnung (EU) 2022/2104 der Kommission vom 29. Juli 2022 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Vermarktungsnormen für Olivenöl und zur Aufhebung der Verordnung (EWG) Nr. 2568/91 der Kommission und der Durchführungsverordnung (EU) Nr. 29/2012 der Kommission; Fassung gemäss ABl. L 284 vom 4.11.2022, S. 1.
 [^12-4]: Durchführungsverordnung (EU) 2022/2105 der Kommission vom 29. Juli 2022 mit Vorschriften für die Konformitätskontrolle der Vermarktungsnormen für Olivenöl und Methoden zur Analyse der Merkmale von Olivenöl; Fassung gemäss ABl. L 284 vom 4.11.2022, S. 23
@@ -339,7 +339,7 @@ Der Fettgehalt muss betragen:
 
 <sup>3</sup> Erzeugnisse nach Artikel 14 Absatz 1 mit mehr als 0,5 Massenprozent Speisesalz sind als «gesalzen» zu bezeichnen. Der Salzgehalt ist im Verzeichnis der Zutaten in Prozenten anzugeben.
 
-[^16-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^16-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^16-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 
 ## 4. Kapitel: Speiseeis
@@ -415,7 +415,7 @@ Es werden folgende Obstarten unterschieden:
 
 <sup>4</sup> Als wässriger Auszug einer Frucht gilt der gesamte in Wasser lösliche Teil der Frucht, ausser den technisch unvermeidbaren Verlusten.
 
-[^22-1]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^22-1]: [SR 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 23
 
@@ -626,7 +626,7 @@ Getrüffelte Lebensmittel sind wie folgt zu kennzeichnen:
 
 <sup>3</sup> …[^37-4]
 
-[^37-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^37-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 [^37-2]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^37-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
 [^37-4]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)).
@@ -788,7 +788,7 @@ Zusätzlich zu den Angaben nach Artikel 3 LIV[^49-1] sind bei den Erzeugnissen n
 
 <sup>3</sup> Die Sachbezeichnung ist mit der Angabe der verwendeten Früchte in absteigender Reihenfolge des Gewichtsanteils der verwendeten Ausgangsstoffe zu ergänzen. Die Angabe der verwendeten Früchte kann bei Erzeugnissen, die aus drei oder mehr Früchten hergestellt wurden, durch den Hinweis «Mehrfrucht», eine ähnliche Angabe oder die Angabe der Zahl der verwendeten Früchte ersetzt werden.
 
-[^49-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^49-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## 6. Kapitel: Süsswaren
 
@@ -817,7 +817,7 @@ Die Zugabe von weiteren Lebensmitteln zu den Schokoladen nach Anhang 6 Ziffern 6
 
 <sup>4</sup> Den in Anhang 6 Ziffer 5–9, 11 und 12 beschriebenen Erzeugnissen dürfen nur Aromen zugesetzt werden, mit denen der Geschmack von Schokolade oder von Milchfett nicht nachgeahmt wird.
 
-[^51-1]: [SR 817.022.2](https://fedlex.data.admin.ch/eli/cc/2017/159)
+[^51-1]: [SR 817.022.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9680)
 
 #### Art. 52
 
@@ -883,7 +883,7 @@ Schokoladeerzeugnisse nach Anhang 6 Ziffern 6–9, 11 und 12, die neben Kakaobut
 - c. in der Nähe der Sachbezeichnung stehen; und
 - d. in mindestens genauso grosser Schrift und in Fettdruck gehalten sein.
 
-[^54-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^54-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ### 2. Abschnitt: Konditorei- und Zuckerwaren und sonstige Süsswaren
 
@@ -1462,7 +1462,7 @@ Für «Aceto Balsamico» gelten folgende Anforderungen:
 - b. Er darf einen Alkoholgehalt von höchstens 1,5 Volumenprozent aufweisen.
 - c. Er muss einen Gehalt an zuckerfreiem Extrakt von mindestens 30 g pro Liter aufweisen.
 
-[^105-1]: [SR 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
+[^105-1]: [SR 817.022.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9673)
 
 #### Art. 106
 
@@ -1477,7 +1477,7 @@ Zusätzlich zu den Angaben nach Artikel 3 LIV[^106-1] sind anzugeben:
 - a. der als Essigsäure berechnete Säuregehalt in Massenprozent oder in Gramm pro Liter;
 - b. bei Essigwein: der Alkoholgehalt in Volumenprozent.
 
-[^106-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^106-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 107
 
@@ -1614,7 +1614,7 @@ Andere Produkte aus Pflanzenproteinen sind Erzeugnisse, die aus Getreideproteine
 
 Die Sachbezeichnung richtet sich nach Artikel 6 LIV[^122-1].
 
-[^122-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^122-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 ## 11. Kapitel: Nachführen der Anhänge
 
@@ -2050,43 +2050,41 @@ Anhang 4[^t-3]
 
 ## Speisepilze, die nur unter spezifischen Anforderungen in Verkehr gebracht werden dürfen, und die entsprechenden Anforderungen
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2353](https://fedlex.data.admin.ch/eli/oc/2020/451)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 821](https://fedlex.data.admin.ch/eli/oc/2023/821)) und Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 810](https://fedlex.data.admin.ch/eli/oc/2025/810)).
 
 <table>
 <tr><th>Pilzname lateinisch</th><th>Synonyme Pilznamen lateinisch</th><th>Pilzname deutsch</th><th>Anforderungen</th></tr>
-<tr><td>Albatrellus</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>Albatrellus</td><td></td><td></td><td></td></tr>
 <tr><td>*Albatrellus confluens (Alb. & Schwein.)*</td><td>*Albatrellus confluens (Alb. & Schwein.) Kotl. & Pouzar* *Scutiger confluens (Alb. & Schwein.) Bondartsev & Singer*</td><td>[tab] Semmelporling</td><td>[tab] Alte Exemplare vermeiden (bitter).</td></tr>
 <tr><td>*Albatrellus ovinus (Schaeff.) Kotl.& Pouzar*</td><td>*Scutiger ovinus (Schaeff.) Murrill*</td><td>[tab] Gemeiner Schafeuterporling</td><td>[tab] Alte Exemplare vermeiden (bitter).</td></tr>
 <tr><td>Amanita</td><td></td><td></td><td></td></tr>
-<tr><td>*Amanita* *caesarea* (Scop.) Pers.</td><td>[tab]</td><td>[tab] Kaiserling</td><td>Keine geschlossenen Pilzeier (sogenannte Ovuli).</td></tr>
+<tr><td>*Amanita* *caesarea* (Scop.) Pers.</td><td></td><td>[tab] Kaiserling</td><td>Keine geschlossenen Pilzeier (sogenannte Ovuli).</td></tr>
 <tr><td>*Amanita rubescens Pers.*</td><td></td><td>[tab] Perlpilz</td><td>Mindestens 20 Minuten kochen.</td></tr>
-<tr><td>Armillaria</td><td>[tab]</td><td></td><td></td></tr>
-<tr><td>*Armillaria borealis Marxm. & Korhonen*</td><td>[tab]</td><td>[tab] Nördlicher Hallimasch</td><td>Nur junge Exemplare: 5 Minuten separat in Wasser kochen, Kochwasser weggiessen, fertigkochen. Kann ohne Vorkochen getrocknet und später normal verwendet werden (mind. 20 Minuten kochen).</td></tr>
-<tr><td>*Armillaria cepistipes Velen. [as 'cepaestipes'], České Houby*</td><td>[tab]</td><td>[tab] Zwiebelfüssiger Hallimasch</td><td></td></tr>
+<tr><td>Armillaria</td><td></td><td></td><td></td></tr>
+<tr><td>*Armillaria borealis Marxm. & Korhonen*</td><td></td><td>[tab] Nördlicher Hallimasch</td><td>Nur junge Exemplare: 5 Minuten separat in Wasser kochen, Kochwasser weggiessen, fertigkochen. Kann ohne Vorkochen getrocknet und später normal verwendet werden (mind. 20 Minuten kochen).</td></tr>
+<tr><td>*Armillaria cepistipes Velen. [as 'cepaestipes'], České Houby*</td><td></td><td>[tab] Zwiebelfüssiger Hallimasch</td><td></td></tr>
 <tr><td>*Armillaria gallica* Marxm. & Romagn*.*</td><td>*Armillaria bulbosa* sensu auct. brit.</td><td>[tab] Fleischfarbener Hallimasch</td><td></td></tr>
-<tr><td>*Armillaria* *mellea* (Vahl) P. Kumm. agg.</td><td>[tab]</td><td>[tab] Honiggelber Hallimasch</td><td></td></tr>
+<tr><td>*Armillaria* *mellea* (Vahl) P. Kumm. agg.</td><td></td><td>[tab] Honiggelber Hallimasch</td><td></td></tr>
 <tr><td>*Armillaria ostoyae (Romagn.) Herink*</td><td>*Armillaria obscura* sensu auct.</td><td>[tab] Dunkler Hallimasch</td><td></td></tr>
 <tr><td>*Armillaria tabescens* (Scop.) Emel</td><td>*Desarmillaria tabescens (Scop.) R.A. Koch & Aime*</td><td>[tab] Ringloser Hallimasch</td><td></td></tr>
-<tr><td>Boletus</td><td>[tab]</td><td></td><td></td></tr>
+<tr><td>Boletus</td><td></td><td></td><td></td></tr>
 <tr><td>*Boletus erythropus* Pers.</td><td>*Neoboletus erythropus (Pers.) C. Hahn*</td><td>[tab] Flockenstieliger Hexenröhrling</td><td>Mindestens 20 Minuten kochen.</td></tr>
-<tr><td>Chlorophyllum</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Chlorophyllum</td><td></td><td></td><td></td></tr>
 <tr><td>*Chlorophyllum* *olivieri* *(Barla) Vellinga*</td><td>*Chlorophyllum rhacodes (Vittad.) Vellinga* *Macrolepiota rachodes (Vittad.) Singer* *Macrolepiota rhacodes (Vittad.) Singer*</td><td>[tab] Safran-Riesenschirmling</td><td>Mindestens 20 Minuten kochen/braten. Nur den Hut zubereiten, nicht den Stiel.</td></tr>
-<tr><td>Kuehneromyces</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Kuehneromyces</td><td></td><td></td><td></td></tr>
 <tr><td>*Kuehneromyces mutabilis (Schaeff.) Singer & A.H. Sm.*</td><td>*Pholiota mutabilis (Schaeff.) P. Kumm.*</td><td>[tab] Gemeines Stockschwämmchen</td><td>Nur aus Zucht (Verwechslungsgefahr mit *Galerina marginata*).</td></tr>
-<tr><td>Lentinula</td><td>[tab]</td><td></td><td></td></tr>
-<tr><td>*Lentinula edodes (Berk.) Pegler*</td><td>*Lentinus edodes (Berk.) Singer*</td><td>[tab] Kultur-Shiitake</td><td>Mindestens 20 Minuten kochen.</td></tr>
-<tr><td>Macrolepiota</td><td>[tab]</td><td></td><td></td></tr>
-<tr><td>*Macrolepiota procera (Scop.) Singer*</td><td>[tab]</td><td>[tab] Parasol</td><td>Mindestens 20 Minuten kochen/braten. Nur den Hut zubereiten, nicht den Stiel.</td></tr>
-<tr><td>*Russula*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
-<tr><td>*Russula olivacea (Schaeff.) Fr.*</td><td>[tab]</td><td>[tab] Rotstieliger Ledertäubling</td><td>Mindestens 20 Minuten kochen.</td></tr>
-<tr><td>*Sarcodon*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
+<tr><td>Macrolepiota</td><td></td><td></td><td></td></tr>
+<tr><td>*Macrolepiota procera (Scop.) Singer*</td><td></td><td>[tab] Parasol</td><td>Mindestens 20 Minuten kochen/braten. Nur den Hut zubereiten, nicht den Stiel.</td></tr>
+<tr><td>*Russula*</td><td></td><td></td><td></td></tr>
+<tr><td>*Russula olivacea (Schaeff.) Fr.*</td><td></td><td>[tab] Rotstieliger Ledertäubling</td><td>Mindestens 20 Minuten kochen.</td></tr>
+<tr><td>*Sarcodon*</td><td></td><td></td><td></td></tr>
 <tr><td>*Sarcodon imbricatus (L.) P. Karst.*</td><td>*Sarcodon imbricatum (L.) P. Karst*</td><td>[tab] Habichtspilz</td><td>Alte Exemplare vermeiden (bitter).</td></tr>
-<tr><td>*Suillus*</td><td>[tab]</td><td>[tab]</td><td></td></tr>
-<tr><td>*Suillus bovinus (L.) Roussel*</td><td>[tab]</td><td>[tab] Kuhröhrling</td><td>Huthaut entfernen.</td></tr>
-<tr><td>*Suillus collinitus (Fr.) Kuntze*</td><td>[tab]</td><td>[tab] Ringloser Butterpilz</td><td></td></tr>
-<tr><td>*Suillus granulatus (L.) Roussel*</td><td>[tab]</td><td>[tab] Körnchenröhrling</td><td></td></tr>
+<tr><td>*Suillus*</td><td></td><td></td><td></td></tr>
+<tr><td>*Suillus bovinus (L.) Roussel*</td><td></td><td>[tab] Kuhröhrling</td><td>Huthaut entfernen.</td></tr>
+<tr><td>*Suillus collinitus (Fr.) Kuntze*</td><td></td><td>[tab] Ringloser Butterpilz</td><td></td></tr>
+<tr><td>*Suillus granulatus (L.) Roussel*</td><td></td><td>[tab] Körnchenröhrling</td><td></td></tr>
 <tr><td>*Suillus grevillei (Klotsch) Singer*</td><td>*Suillus flavus (With.) Singer*</td><td>[tab] Goldgelber Lärchenröhrling</td><td></td></tr>
-<tr><td>*Suillus luteus (L.) Roussel*</td><td>[tab]</td><td>[tab] Butterpilz</td><td></td></tr>
+<tr><td>*Suillus luteus (L.) Roussel*</td><td></td><td>[tab] Butterpilz</td><td></td></tr>
 </table>
 
 Anhang 5
@@ -2503,7 +2501,7 @@ Wässrige Lösung von teilweise durch Hydrolyse invertierter Saccharose, in der 
 <table>
 <tr><td>a. Trockenmasse</td><td>min. 62 Massenprozent</td></tr>
 <tr><td>b. Gehalt an Invertzucker (Verhältnis von Fruktose zu Glukose: 1,0 ± 0,1)</td><td>min. 3 Massenprozent (bezogen auf die Trockenmasse)</td></tr>
-<tr><td>[tab]</td><td>max. 50 Massenprozent (bezogen auf die Trockenmasse)</td></tr>
+<tr><td></td><td>max. 50 Massenprozent (bezogen auf die Trockenmasse)</td></tr>
 <tr><td>c. Leitfähigkeitsasche</td><td>max. 0,4 Massenprozent (bezogen auf die Trockenmasse)</td></tr>
 </table>
 
