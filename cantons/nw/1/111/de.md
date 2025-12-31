@@ -3,20 +3,19 @@ canton: NW
 number: "111"
 title: Verfassung des Kantons Nidwalden
 language: de
-version: 2023-03-13
-corrected: 2024-04-17
-version_adopted: 2023-03-12
+version: 2026-01-01
+version_adopted: 2024-09-22
 adopted: 1965-10-10
 in_force: 1965-10-10
 url: "https://gesetze.nw.ch/app/de/texts_of_law/111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1269/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1430/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Nidwalden
 
-vom 10.10.1965 (Stand 13.03.2023)
+vom 10.10.1965 (Stand 01.01.2026)
 
 IM NAMEN GOTTES DES ALLMÄCHTIGEN
 
@@ -206,6 +205,8 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 <sup>2</sup> Er fördert insbesondere die Massnahmen zur Reinerhaltung der Gewässer und der Luft, zur Erhaltung und Bewirtschaftung der Waldungen, zum Schutz der Bergwelt sowie die Bestrebungen der Landes- und Ortsplanung.
 
 #### Art. 21a
+
+**Klimaschutz**
 
 <sup>1</sup> Kanton und Gemeinden setzen sich für die Begrenzung des Klimawandels und dessen Auswirkungen ein; sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen und richten ihre Massnahmen unter anderem darauf aus, die Treibhausgasemissionen bis zur Treibhausgasneutralität zu vermindern.
 
@@ -465,7 +466,7 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 
 <sup>1</sup> Die Aktivbürgerinnen und Aktivbürger üben ihr Stimm- und Wahlrecht in den Politischen Gemeinden aus.
 
-<sup>2</sup> Sie können ihre Stimme persönlich an der Urne oder brieflich abgeben.
+<sup>2</sup> …
 
 #### Art. 51
 
@@ -790,7 +791,7 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 
 <sup>2</sup> Sie sind im Rahmen der Gesetzgebung befugt:
 
-- 1\. die eigene Organisation frei zu bestimmen und ihre Behörden, Beamten und Angestellten selbst zu wählen;
+- 1\. die eigene Organisation frei zu bestimmen und ihre Behörden sowie Mitarbeitenden selbst zu wählen;
 - 2\. die in ihren Wirkungsbereich fallenden Aufgaben nach freiem Ermessen zu erfüllen.
 
 #### Art. 72
@@ -821,7 +822,7 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 
 <sup>1</sup> Die Gemeindeversammlung ist jährlich mindestens zweimal einzuberufen.
 
-<sup>2</sup> Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst, oder wenn es ein Zwanzigstel der Stimmberechtigten unter Nennung der zu behandelnden Gegenstände schriftlich verlangt; im letzten Fall hat die Gemeindeversammlung binnen dreier Monaten stattzufinden.
+<sup>2</sup> Ausserordentliche Gemeindeversammlungen sind einzuberufen, wenn es der administrative Rat beschliesst, oder wenn es ein Zwanzigstel der Stimmberechtigten unter Nennung der zu behandelnden Gegenstände schriftlich verlangt; im letzten Fall hat die Gemeindeversammlung binnen vier Monaten stattzufinden.
 
 <sup>3</sup> Die Verhandlungen leitet die Präsidentin beziehungsweise der Präsident oder die Vizepräsidentin oder der Vizepräsident oder das in der Wahl nächstfolgende Mitglied des administrativen Rates.
 
@@ -831,20 +832,16 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 
 <sup>1</sup> In die Zuständigkeit der Gemeindeversammlung fallen:
 
-- 1\. der Erlass von Verordnungen und Reglementen, soweit hiezu nicht durch die Gesetzgebung oder durch Beschluss der Gemeindeversammlung der administrative Rat zuständig erklärt wird;
-- 2\. die Wahl der Behörden und der nach Massgabe der Gesetzgebung von der Gemeindeversammlung zu wählenden Beamten; es steht den Gemeinden frei, die Wahl für die administrativen Räte und die Rechnungsrevisoren so festzulegen, dass alle zwei Jahre die Hälfte der Mandatsinhaber zu wählen ist;
-- 3\. die Festsetzung des Gemeindesteueransatzes;
+- 1\. der Erlass der Gemeindeordnung und der Reglemente;
+- 2\. die Wahl der Behörden und der gemäss der Gesetzgebung von der Gemeindeversammlung zu wählenden Mitarbeitenden; es steht den Gemeinden frei, die Wahl für den administrativen Rat und die für die Rechnungsrevision zuständige Kommission so festzulegen, dass alle zwei Jahre die Hälfte der Mitglieder zu wählen ist;
+- 3\. die Festsetzung des Gemeindesteuerfusses;
 - 4\. die Beschlüsse über Ausgaben und finanzielle Verfügungen, welche die Finanzkompetenzen des administrativen Rates übersteigen;
-- 5\. die Festsetzung des jährlichen Voranschlages;
+- 5\. die Festsetzung des jährlichen Budgets;
 - 6\. die Genehmigung der Gemeinderechnung.
 
 #### Art. 77
 
-**Fakultative Abstimmung**
-
-<sup>1</sup> Der Gemeindeversammlung sind die vom administrativen Rat erlassenen oder abgeänderten Verordnungen und Reglemente zu unterbreiten, wenn es binnen zweier Monaten seit der Veröffentlichung des Erlasses von einem Zwanzigstel der Stimmberechtigten verlangt wird.
-
-<sup>2</sup> Die Abstimmung ist an der nächsten Gemeindeversammlung durchzuführen.
+**…**
 
 #### Art. 78
 
@@ -852,11 +849,13 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 
 <sup>1</sup> Anträge können als allgemeine Anregung oder als ausgearbeitete Vorlage eingereicht werden; wird eine allgemeine Anregung zum Beschluss erhoben, ist der Gemeindeversammlung binnen Jahresfrist die ausgearbeitete Vorlage zu unterbreiten.
 
+<sup>1a</sup> Das Gesetz kann die Verlängerung dieser Frist vorsehen.
+
 <sup>2</sup> Die Anträge dürfen sich nur auf einen einzigen Gegenstand beziehen und müssen eine Begründung enthalten.
 
 <sup>3</sup> Anträge können stellen:
 
-- 1\. jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde;
+- 1\. jede Aktivbürgerin und jeder Aktivbürger, jede Kommission und der administrative Rat der zuständigen Gemeinde;
 - 2\. juristische Personen des privaten und öffentlichen Rechts, die in der Gemeinde ihren Sitz haben, sofern es sich um einen Finanzbeschluss zugunsten eines gemeinnützigen oder genossenschaftlichen Zwecks handelt.
 
 <sup>4</sup> Die Anträge dürfen nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht.
@@ -881,7 +880,7 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 
 <sup>1</sup> Der administrative Rat (Gemeinderat, Schulrat, Kirchenrat oder Kapellrat) besteht aus drei bis elf Mitgliedern.
 
-<sup>2</sup> Aus dessen Mitte wählt die Gemeindeversammlung auf eine Amtsdauer von zwei Jahren den Präsidenten und den Vizepräsidenten.
+<sup>2</sup> Aus dessen Mitte wählt die Gemeindeversammlung das Präsidium und das Vizepräsidium. Das Gesetz regelt die Amtsdauer.
 
 <sup>3</sup> Es steht dem administrativen Rat im Rahmen der Gesetzgebung zu, den Aufgabenbereich seiner Mitglieder zu umschreiben sowie Kommissionen zu bilden.
 
@@ -889,10 +888,7 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 
 **Verordnungsbefugnisse**
 
-<sup>1</sup> Der administrative Rat erlässt unter Vorbehalt von Art. 77:
-
-- 1\. Verordnungen und Reglemente, zu denen er durch die Gesetzgebung oder durch Beschluss der Gemeindeversammlung zuständig erklärt wird;
-- 2\. Reglemente in nebengeordneten Fragen im Rahmen von Art. 83 Ziffer 7.
+<sup>1</sup> Der administrative Rat erlässt Verordnungen, zu denen er durch die Gesetzgebung zuständig erklärt wird.
 
 #### Art. 83
 
@@ -905,12 +901,12 @@ in der Absicht, Freiheit und Recht zu schützen, die Wohlfahrt aller zu fördern
 - 1\. das Protokoll der Gemeindeversammlung zu genehmigen;
 - 2\. die Gesetze, Verordnungen und Reglemente zu vollziehen;
 - 3\. die Beschlüsse und Entscheidungen der kantonalen Behörden und der Gemeindeversammlung zu vollziehen, soweit diese Befugnis nicht besondern Organen vorbehalten ist;
-- 4\. die Beamten und die Angestellten zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer andern Instanz übertragen ist;
+- 4\. die Mitarbeitenden zu wählen, soweit deren Wahl nicht durch die Gesetzgebung einer anderen Instanz übertragen ist;
 - 5\. über die verfassungsmässige Zulässigkeit der Anträge an die Gemeindeversammlung gemäss Art. 78 Abs. 4 zu entscheiden;
 - 6\. Vernehmlassungen zu erstatten, zu denen der Kanton die Gemeinde auffordert;
 - 7\. im Rahmen der in der Gesetzgebung der Gemeinde umschriebenen Finanzkompetenzen frei bestimmbare einmalige Ausgaben und jährlich wiederkehrende Ausgaben zu beschliessen, ferner Ausgaben, die der Gemeinde durch die Gesetzgebung verbindlich vorgeschrieben oder für welche durch die Gesetzgebung oder den Beschluss der Gemeindeversammlung dem administrativen Rat weitergehende Vollmachten übertragen sind;
 - 8\. das Gemeindevermögen zu verwalten und im Rahmen von Ziffer 7 darüber zu verfügen;
-- 9\. Ausgaben für den Unterhalt der im Besitz der Gemeinde stehenden Gebäude und Anlagen ohne Rücksicht auf Ziffer 7 zu beschliessen;
+- 9\. …
 - 10\. alle weitern durch die Gesetzgebung ihm übertragenen Aufgaben zu erfüllen.
 
 ### 4.3.2 Gemeindearten
