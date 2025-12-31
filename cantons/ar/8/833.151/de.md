@@ -4,13 +4,12 @@ number: "833.151"
 title: Verordnung über die Pflegefinanzierung
 short: PFV
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-26
+version: 2026-01-01
+version_adopted: 2025-09-23
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/833.151"
-pdf: "https://ar.clex.ch/api/de/versions/1510/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1591/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1510/pdf_file"
 
 (PFV)
 
-vom 20.12.2016 (Stand 01.01.2024)
+vom 20.12.2016 (Stand 01.01.2026)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -185,6 +184,8 @@ verordnet:
 <tr><td>Grundpflege nach Art. 7 Abs. 2 lit. c KLV</td><td>80.30</td></tr>
 </table>
 
+<sup>4</sup> Soweit Angehörige der versicherten Person (Ehe oder eingetragene Partnerschaft, Eltern, Nachkommen, Geschwister, faktische Lebensgemeinschaft) als Angestellte einer Spitex-Organisation in der Grundpflege tätig werden, gilt abweichend von Abs. 1 - 3 ein Höchst- oder Normansatz von Fr. 64.20 je Stunde.
+
 #### Art. 12a
 
 **…**
@@ -229,6 +230,8 @@ verordnet:
   - 2\. allfälliger Beitrag an die Hilfe zu Hause.
 
 <sup>3</sup> Wird die Pflege für eine versicherte Person von mehreren Leistungserbringern erbracht, haben sie sich darüber zu verständigen, wer den Eigenanteil in Rechnung stellt.
+
+<sup>4</sup> Auf der Rechnung ist auszuweisen, wenn die Grundpflege durch Angehörige erbracht wird (Art. 12 Abs. 4).
 
 [^16-1]: KLV (SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de))
 
