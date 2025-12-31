@@ -3,20 +3,19 @@ canton: SG
 number: "854.351.3"
 title: Ausführungsbestimmungen über die Fischerei im Zürichsee und Obersee
 language: de
-version: 2019-02-01
-valid_until: 2025-12-31
-version_adopted: 2018-06-14
+version: 2026-01-01
+version_adopted: 2025-06-16
 adopted: 2007-07-13
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/854.351.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2497/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3829/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei im Zürichsee und Obersee
 
-vom 13.07.2007 (Stand 01.02.2019)
+vom 13.07.2007 (Stand 01.01.2026)
 
 Die Fischereikommission für den Zürichsee, Linthkanal und Walensee,
 
@@ -62,8 +61,8 @@ beschliesst:[^ingress-1]
 
 - a) Forellen: 01.10.–25.12.
 - b) Seesaibling: 01.10.–25.12.
-- c) Äsche: 01.01.–30.04.
-- d) Felchen (alle Rassen): 20.11.–31.12.
+- c) ganzjährig geschützt
+- d) Felchenartige: 20.11.–31.12.
 - e) …
 
 [^4-1]: Im ursprünglichen Erlasstext war die tabellarische Auflistung nur mit Gedankenstrichen als Aufzählungszeichen versehen. Die Buchstaben wurden im September 2013 aus technischen Gründen hinzugefügt.
@@ -77,7 +76,7 @@ beschliesst:[^ingress-1]
 - a) Forellen: 40 cm
 - b) Seesaibling: 25 cm
 - c) Äsche: 32 cm
-- d) Felchen (alle Rassen): 25 cm
+- d) Felchenartige: 25 cm
 - e) …
 
 [^5-1]: Im ursprünglichen Erlasstext war die tabellarische Auflistung nur mit Gedankenstrichen als Aufzählungszeichen versehen. Die Buchstaben wurden im September 2013 aus technischen Gründen hinzugefügt.
@@ -106,7 +105,7 @@ beschliesst:[^ingress-1]
 
 **Köderfischfang**
 
-<sup>1</sup> Die Verwendung von Köderfischreuse oder Köderfischflasche sowie einem Senknetz mit einer maximalen Netzfläche von 1 m² ist nur Patentinhabern erlaubt.
+<sup>1</sup> Die Verwendung von Köderfischreuse oder Köderfischflasche ist nur Patentinhaberinnen und Patentinhabern erlaubt. Die Verwendung des Senknetzes ist verboten.
 
 <sup>2</sup> Köderfische dürfen nur für den Eigenbedarf gefangen werden.
 
@@ -116,7 +115,7 @@ beschliesst:[^ingress-1]
 
 **Freiangelfischerei**
 
-<sup>1</sup> Vom Ufer aus darf ohne Patent mit einer Angelrute oder einer Schnur mit einem einzigen Köder mit einfachem Haken gefischt werden. Erlaubt sind natürliche Köder, Lebensmittel sowie künstliche Fliegen. Ausgenommen sind Köderfische. Fliegen dürfen maximal Hakengrösse 8 aufweisen.
+<sup>1</sup> Vom Ufer aus darf ohne Patent mit einer Angelrute oder einer Schnur mit einem einzigen Köder mit einfachem Haken gefischt werden. Erlaubt sind natürliche Köder, Lebensmittel sowie künstliche Fliegen mit der Fliegenrute. Ausgenommen sind Köderfische. Fliegen dürfen maximal Hakengrösse 8 aufweisen.
 
 #### § 11
 
@@ -126,9 +125,9 @@ beschliesst:[^ingress-1]
 
 - a) Ufer- und Bootspatente für ihr Kantonsgebiet.
 - b) Jahres-Zusatzpatent «Zürichsee+». Dieses Patent berechtigt zur Fischerei im Zürichsee und Obersee (ohne private Fischereirechte). Die Kantone legen die Ausgabemodalitäten und den Preis in gegenseitiger Absprache fest.
-- c) Gast-Jahrespatent. Dieses Zusatzpatent berechtigt den Bootsfischer dazu, einen Gast unter seiner Aufsicht ohne zusätzliches Gerät bei gleich bleibenden Tagesfanglimiten mitfischen zu lassen.
+- c) Gastpatent. Dieses Zusatzpatent berechtigt die Bootsfischerin oder den Bootsfischer mit Jahrespatent dazu, einen Gast unter Aufsicht ohne zusätzliches Gerät bei gleich bleibenden Tagesfanglimiten mitfischen zu lassen.
 
-<sup>2</sup> Personen vom vollendeten 10. bis zum vollendeten 16. Altersjahr erhalten Patente aller Kategorien zu einem reduzierten Preis. Bis zum vollendeten 14. Altersjahr dürfen sie vom Boot aus nur in Begleitung eines erwachsenen Patentinhabers fischen.
+<sup>2</sup> Für Jugendliche werden Patente zum reduzierten Preis angeboten. Bis zum vollendeten 14. Altersjahr dürfen sie vom Boot aus nur in Begleitung einer erwachsenen Patentinhaberin oder eines erwachsenen Patentinhabers fischen.
 
 #### § 12
 
@@ -136,10 +135,10 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Für die patentpflichtige Fischerei sind folgende Fanggeräte und Hilfsmittel erlaubt:
 
-- a) ein Köder pro Schnur/Zügel (Ausnahme: Hegene);
+- a) bis zu fünf Köder pro Schnur/Zügel;
 - b) höchstens drei Einzel- oder Mehrfachhaken pro Köder;
-- c) Mehrfachhaken (Zwillinge und Drillinge) ohne Widerhaken;
-- d) die Hegene mit höchstens fünf Ködern mit Einfachhaken;
+- c) Mehrfachhaken (Zwillinge und Drillinge) ohne Widerhaken, Einfachhaken mit Widerhaken dürfen nur durch Personen mit Sachkundenachweis verwendet werden;
+- d) Montagen mit mehr als einem Köder pro Schnur/Zügel dürfen nur mit Einfachhaken bestückt sein;
 - e) Feumer (Kescher);
 - f) Fischortungsgeräte;
 - g) Fanggeräte für den Köderfischfang gemäss § 9.
@@ -148,7 +147,7 @@ beschliesst:[^ingress-1]
 
 **Beschränkung der Fanggeräte**
 
-<sup>1</sup> Für die patentpflichtige Fischerei dürfen verwendet werden (pro Fischereiberechtigten):
+<sup>1</sup> Für die patentpflichtige Fischerei dürfen verwendet werden (pro Patentinhaberin oder Patentinhaber):
 
 - a) Für die Uferfischerei: Zwei Ruten oder Schnüre (keine zusätzliche Freiangel).
 - b) Vom stehenden Boot: Drei Ruten oder Schnüre.
@@ -160,11 +159,11 @@ beschliesst:[^ingress-1]
 
 **Fangzahlbeschränkung**
 
-<sup>1</sup> Angelfischer dürfen pro Tag höchstens folgende Anzahl Fische fangen:[^14-1]
+<sup>1</sup> Angelfischerinnen und Angelfischer dürfen pro Tag höchstens folgende Anzahl Fische fangen:[^14-1]
 
 - a) Forellen: 4 Stück
-- b) Felchen (alle Arten): 10 Stück
-- c) Seesaibling: 10 Stück
+- b) Felchenartige: 10 Stück
+- c) Seesaibling: 5 Stück
 - d) Hecht: 5 Stück
 - e) Egli: 50 Stück
 
@@ -174,7 +173,9 @@ beschliesst:[^ingress-1]
 
 **Behandlung gefangener Fische**
 
-<sup>1</sup> Untermassige Fische oder solche, die während ihrer Schonzeit gefangen werden, sind sofort sorgfältig und mit nassen Händen ins Gewässer zurückzusetzen.
+<sup>1</sup> Untermassige Fische oder solche, die während ihrer Schonzeit gefangen werden, sind sofort sorgfältig und mit nassen Händen ins Gewässer zurückzusetzen. Fische, die nicht zurückgesetzt werden, sind unmittelbar nach dem Fang fachgerecht zu töten.
+
+<sup>2</sup> Die Hälterung lebender Fische ist nicht gestattet.
 
 #### § 16
 
@@ -203,15 +204,25 @@ beschliesst:[^ingress-1]
 
 **Rücksichtnahme**
 
-<sup>1</sup> Angelfischer haben von ausgelegten Berufsfischer-Netzen einen Abstand von 50 Metern einzuhalten. Der Berufsfischer hat das Platzvorrecht vor dem Angelfischer.
+<sup>1</sup> Angelfischerinnen und Angelfischer haben von ausgelegten Berufsfischerei-Netzen einen Abstand von 50 Metern einzuhalten. Berufsfischerinnen und Berufsfischer haben das Platzvorrecht vor Angelfischerinnen und Angelfischern.
 
 ## D. Berufsfischerei
 
 #### § 20
 
-**Sachkundenachweis**
+**Sachkundenachweis und Zuschlagskriterien**
 
-<sup>1</sup> Bewerber für eine Bewilligung zur Netzfischerei müssen einen Sachkundenachweis erbringen. Die Fischereikommission legt die Anforderungen fest.
+<sup>1</sup> Neue Bewerberinnen und Bewerber für eine Bewilligung zur Netzfischerei müssen folgende Ausbildungsnachweise erbringen: Sachkundenachweis Fischerei und eine fachspezifische berufsunabhängige Ausbildung sowie mindestens zwei Jahre praktische Erfahrung in einem verarbeitenden Berufsfischereibetrieb.
+
+<sup>2</sup> Bewerben sich mehrere Personen, welche die Vergabekriterien für Berufsfischereiberechtigungen vollständig erfüllen, um eine Berechtigung, werden Bewerberinnen und Bewerber mit den meisten erfüllten Zuschlagskriterien berücksichtigt. Der Zuschlag erfolgt absteigend gewichtet anhand folgender Kriterien:
+
+- a) Bisherige Inhaberinnen und Inhaber eines Berufsfischereipatents aus einem der Konkordatskantone;
+- b) Bewerberinnen und Bewerber mit Wohnsitz in kurzer Distanz zum Zürich- oder Obersee;
+- c) Bewerberinnen und Bewerber, welche die Fischerei hauptberuflich ausüben wollen;
+- d) Bewerberinnen und Bewerber, die nicht älter als 65-jährig sind;
+- e) Bewerberinnen und Bewerber, die nicht bereits eine Berufsfischereiberechtigung in einem anderen der Konkordatskantone besitzen.
+
+<sup>3</sup> Bei knappen Entscheiden erfolgt die Vergabe an diejenige Person, die insgesamt nach Ansicht der Fischereikommission für den Zürichsee, Linthkanal und Walensee zur Gewährleistung einer nachhaltigen Fischerei und Bewirtschaftung am besten Gewähr leistet.
 
 #### § 21
 
@@ -231,7 +242,7 @@ beschliesst:[^ingress-1]
 
 **Fangstatistik**
 
-<sup>1</sup> Die Berufsfischer führen gemäss Weisung der Kantone eine tägliche Fangstatistik. Die Formulare sind jeden Monat an den zuständigen Fischereiaufseher abzuliefern.
+<sup>1</sup> Die Berufsfischerinnen und Berufsfischer führen gemäss Weisung der Kantone oder des Sekretariats eine tägliche Fangstatistik.
 
 #### § 23
 
@@ -287,9 +298,9 @@ beschliesst:[^ingress-1]
 
 #### § 28
 
-**Beizug der Berufsfischer**
+**Beizug der Berufsfischerinnen und Berufsfischer**
 
-<sup>1</sup> Die Berufsfischer können zur Mithilfe bei Bewirtschaftungsmassnahmen verpflichtet werden.
+<sup>1</sup> Die Berufsfischerinnen und Berufsfischer können bei Bedarf unentgeltlich zu Bestandesregulierungen, zu Laichfischfängen und zu Monitoringarbeiten für wissenschaftliche Erhebungen verpflichtet werden, sofern der Betrieb dadurch nicht in unzumutbarer Weise beeinträchtigt wird.
 
 ## 5. Schlussbestimmungen
 
