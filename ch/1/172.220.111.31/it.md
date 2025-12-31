@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° gennaio 2024)
+del 6 dicembre 2001 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale delle finanze (DFF),[^ingress-1]
 
@@ -25,8 +25,8 @@ visto l’articolo 116 capoverso 1 dell’ordinanza del 3 luglio 2001[^ingress-2
 
 ordina:
 
-[^ingress-1]: Nuovo testo giusta il n. I dell’O del DFF del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
-[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-1]: Nuovo testo giusta la cifra I dell’O del DFF del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
+[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -46,9 +46,9 @@ ordina:
 
 <sup>5</sup> Per il proprio personale il Ministero pubblico della Confederazione e l’autorità di vigilanza sul Ministero pubblico della Confederazione come datori di lavoro si avvalgono per analogia delle competenze che la presente ordinanza attribuisce ai Dipartimenti.[^1-3]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
-[^1-2]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^1-3]: Introdotto dal n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^1-2]: Abrogato dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^1-3]: Introdotto dalla cifra I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
 #### Art. 1a
 
@@ -71,58 +71,63 @@ Il Dipartimento che intende eseguire un progetto pilota redige all’attenzione 
 
 <sup>4</sup> L’UFPER coordina i progetti pilota in corso, informa il comitato di seguito delle parti sociali e discute i risultati dei progetti con la Conferenza delle risorse umane.
 
-[^1a-1]: Introdotto dal n. I dell’O del DFF del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 405](https://fedlex.data.admin.ch/eli/oc/2022/405)).
+[^1a-1]: Introdotto dalla cifra I dell’O del DFF del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 405](https://fedlex.data.admin.ch/eli/oc/2022/405)).
 
-## Capitolo 2: Colloquio con il collaboratore e valutazione del personale
+## Capitolo 2: Valutazione del personale
+
+[^chap2-1]
+
+[^chap2-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 2
 
-**Colloquio con il collaboratore e valutazione del personale**
+**Descrizione del posto**[^2-1]
 
-### (art. 15 OPers)
+### (art. 16 OPers)
 
-<sup>1</sup>
+<sup>1</sup> Nella descrizione del posto il datore di lavoro stabilisce i compiti, le facoltà e le responsabilità inerenti alla singola funzione.
 
-Costituiscono oggetto del colloquio con il collaboratore:
+<sup>2</sup>
 
-- a. il punto della situazione lavorativa e gestionale;
-- b. lo sviluppo personale;
-- c. la concertazione di obiettivi di prestazione e di comportamento.
+La descrizione del posto contiene almeno le seguenti indicazioni:
 
-<sup>2</sup> Oggetto della valutazione del personale sono gli obiettivi di prestazione e di comportamento convenuti.
+- a. la funzione;
+- b. l’unità organizzativa;
+- c. la funzione del superiore diretto;
+- d. le esigenze che il collaboratore deve soddisfare e le competenze necessarie;
+- e. i compiti, le facoltà e le responsabilità;
+- f. il numero di collaboratori subordinati;
+- g. la classe di stipendio e la data della valutazione della funzione secondo l’articolo 52 OPers.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 3
 
-**Obiettivi di prestazione e di comportamento**
+**Obiettivi relativi alle prestazioni, al comportamento e allo sviluppo professionale**[^3-1]
 
-### (art. 15 OPers)
+### (art. 16 OPers)
 
-<sup>1</sup> Gli obiettivi di prestazione si riferiscono ai risultati del lavoro e dei progetti.
+<sup>1</sup> I superiori possono concordare con i loro collaboratori obiettivi relativi alle prestazioni, al comportamento e allo sviluppo professionale.
 
-<sup>2</sup> Gli obiettivi di comportamento si riferiscono alla competenza professionale, personale, sociale e gestionale. È possibile scegliere liberamente un ulteriore obiettivo di comportamento.
+<sup>2</sup> Gli obiettivi relativi al comportamento si riferiscono alle competenze necessarie e alle esigenze secondo il codice di comportamento per il personale dell’Amministrazione federale.
 
-<sup>3</sup> Gli obiettivi di prestazione e di comportamento convenuti sono ponderati in lettere o in percentuali.
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 4
 
-**Svolgimento**
+**Attestazione**[^4-1]
 
 ### (art. 15 OPers)
 
-I collaboratori e i loro diretti superiori attestano con la propria firma sul modulo di valutazione che il colloquio con il collaboratore e la valutazione del personale hanno avuto luogo.
+I collaboratori e i loro diretti superiori attestano, attraverso una piattaforma digitale, che la valutazione del personale ha avuto luogo.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 5
 
-**Presa di conoscenza dell’incarto e valutazione**
+[^5-1]
 
-### (art. 15 OPers)
-
-<sup>1</sup> Il superiore diretto del superiore prende conoscenza del riassunto e del risultato finale della valutazione del personale. Può anche consultare l’intero incarto di valutazione.[^5-1]
-
-<sup>2</sup> I responsabili del personale valutano i risultati generali in vista controlling e allesticono una statistica. Essa indica la ripartizione del personale tra i quattro livelli di valutazione previsti nell’articolo 17 capoverso 1 OPers ed è suddivisa in base a lingua, età e sesso dell’impiegato.[^5-2]
-
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^5-2]: Nuovo testo giusta il n. I 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
+[^5-1]: Abrogato dalla cifra I dell’O del DFF del 21 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 6
 
@@ -130,44 +135,30 @@ I collaboratori e i loro diretti superiori attestano con la propria firma sul mo
 
 ### (art. 15 e 16 OPers)
 
-<sup>1</sup> Gli impiegati che non concordano con la valutazione del personale possono chiedere per iscritto, entro 14 giorni dalla firma del modulo di valutazione, un riesame da parte della persona alla quale il loro superiore è direttamente subordinato. Essa effettua un colloquio con le parti in conflitto e prende per iscritto una decisione sulla valutazione entro 14 giorni.[^6-2]
+<sup>1</sup> I collaboratori che non concordano con la valutazione del personale possono chiedere per iscritto, entro 14 giorni dalla presa di conoscenza dei risultati della valutazione del personale, un riesame da parte della persona alla quale il loro superiore è direttamente subordinato. Essa effettua un colloquio con le parti in conflitto e prende per iscritto una decisione definitiva sulla valutazione entro 14 giorni dal colloquio.[^6-2]
 
-<sup>2</sup> Se gli impiegati non concordano con la decisione, gli Uffici federali prevedono un servizio interno all’ufficio al quale può essere richiesto per iscritto un ulteriore riesame colloquiale. Gli impiegati possono chiedere per iscritto, entro 14 giorni, un riesame a tale servizio. Il servizio decide per iscritto in modo definitivo sulla valutazione entro 20 giorni dal colloquio.[^6-3]
+<sup>2</sup> Il capoverso 1 non si applica ai collaboratori direttamente subordinati al responsabile dell’unità amministrativa.[^6-3]
 
 <sup>3</sup> Gli impiegati possono chiedere la partecipazione di una persona di loro fiducia e consentirle la consultazione dell’incarto.[^6-4]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^6-2]: Nuovo testo del per. giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^6-3]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^6-4]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I dell’O del DFF dell’11 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+[^7-1]: Abrogato dalla cifra I dell’O del DFF dell’11 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Capitolo 3: Pensionamento anticipato
-
-[^chap3-1][^chap3-2]
-
-[^chap3-1]: Originario avanti art. 7.
-[^chap3-2]: Nuovo testo giusta il n. I dell’O del DFF dell’11 dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+## Capitolo 3: ...
 
 #### Art. 8
 
-**...[^8-2]**[^8-1]
+[^8-1]
 
-Il rapporto di lavoro termina:
-
-- a. per gli impiegati di cui all’articolo 33 capoverso 1 lettere a e b Opers, l’ultimo giorno del mese in cui compiono 61 anni, se adempiono le condizioni per il pensionamento anticipato di cui all’articolo 88*g* capoverso 1 lettera a o b OPers;
-- b. per gli impiegati di cui all’articolo 33 capoverso 1 lettera c OPers, l’ultimo giorno del semestre in cui compiono 61 anni, se hanno esercitato la funzione di ufficiale di professione per dieci anni;
-- c. per gli impiegati di cui all’articolo 33 capoverso 2 lettera a OPers, l’ultimo giorno del semestre in cui compiono 62 anni, se hanno esercitato la funzione di ufficiale di professione per dieci anni;
-- d. per gli impiegati di cui all’articolo 33 capoverso 2 lettere b e c OPers, l’ultimo giorno del mese in cui compiono 62 anni;
-- e. per gli impiegati di cui all’articolo 33 capoverso 3 OPers, l’ultimo giorno del mese in cui compiono 62 anni, se adempiono le condizioni per il pensionamento anticipato di cui all’articolo 88*g* capoverso 1 lettera c OPers.
-
-[^8-1]: Nuovo testo giusta il n. I1 dell’O del DFF del 16 giu. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2739](https://fedlex.data.admin.ch/eli/oc/2008/382)).
-[^8-2]: Abrogata dal n. I dell’O del DFF dell’11 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+[^8-1]: Abrogato dalla cifra I dell’O del DFF del 21 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 ## Capitolo 4: Prestazioni del datore di lavoro
 
@@ -175,13 +166,25 @@ Il rapporto di lavoro termina:
 
 #### Art. 9
 
-**Evoluzione dello stipendio**
+**Efficacia dell’evoluzione dello stipendio e calcolo dell’evoluzione dello stipendio se il rapporto di lavoro ha inizio nel corso dell’anno**[^9-1]
 
 ### (art. 39 OPers)
 
-<sup>1</sup> La valutazione del personale ha effetti sullo stipendio a partire dal 1° gennaio dell’anno successivo.
+<sup>1</sup> La valutazione del personale ha effetti sull’evoluzione dello stipendio a partire dal 1° gennaio dell’anno successivo.
 
-<sup>2</sup> Se il rapporto di lavoro ha inizio nel corso dell’anno l’aumento di stipendio per l’anno successivo è calcolato di regola in misura proporzionale.
+<sup>2</sup> Se il rapporto di lavoro ha inizio nel corso dell’anno, l’evoluzione dello stipendio per l’anno successivo è calcolata in misura proporzionale. Se nell’anno a cui si riferisce la valutazione del personale esisteva un rapporto di lavoro presso un altro datore di lavoro di cui all’articolo 2 capoverso 1 lettere f e g LPers o presso un’altra unità amministrativa di cui all’articolo 1 capoverso 1 OPers, la durata di tale rapporto di lavoro è computata.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+
+#### Art. 9a
+
+**Valutazione dell’evoluzione dello stipendio**[^9a-1]
+
+### (art. 39*a* OPers)
+
+I responsabili del personale valutano gli scostamenti dalla proposta di evoluzione dello stipendio secondo l’articolo 39*a* capoversi 1–3 OPers, segnatamente in base a sesso, età e lingua dell’impiegato.
+
+[^9a-1]: Introdotto dalla cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 10
 
@@ -213,8 +216,8 @@ La tredicesima parte delle prestazioni ai sensi del capoverso 2 è versata nel m
 
 <sup>5</sup> Chi lascia l’Amministrazione federale prima del mese di novembre riceve insieme con l’ultimo stipendio mensile un importo proporzionale.
 
-[^10-1]: Introdotta dal n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^10-1]: Introdotta dalla cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
 
 #### Art. 10a
 
@@ -224,11 +227,11 @@ La tredicesima parte delle prestazioni ai sensi del capoverso 2 è versata nel m
 
 Lo stipendio annuo dei praticanti universitari ammonta a:
 
-- a. 32 021 franchi per gli studenti senza diploma;
-- b. 44 830 franchi per i diplomati titolari di un bachelor;
-- c. 50 168 franchi per i diplomati titolari di un master.
+- a. 34 500 franchi per gli studenti senza diploma;
+- b. 48 240 franchi per i diplomati titolari di un bachelor;
+- c. 54 000 franchi per i diplomati titolari di un master.
 
-[^10a-1]: Introdotto dal n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^10a-1]: Introdotto dalla cifra I dell’O del DFF del 5 dic. 2016 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)). Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 ### Sezione 2: Supplementi di stipendio
 
@@ -246,7 +249,7 @@ Lo stipendio annuo dei praticanti universitari ammonta a:
 
 <sup>4</sup> In caso di cambiamento del luogo di residenza nel corso del mese, l’indennità di residenza viene adeguata il primo giorno del mese successivo al cambiamento. Nel caso in cui un impiegato soggetto all’obbligo di trasferimento si trasferisca dall’estero in Svizzera o viceversa, l’indennità di residenza viene adeguata immediatamente.[^11-1]
 
-[^11-1]: Introdotto dal n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^11-1]: Introdotto dalla cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 12
 
@@ -258,36 +261,41 @@ Lo stipendio annuo dei praticanti universitari ammonta a:
 
 <sup>2</sup> Sono ritenuti giorni festivi che danno diritto a indennità quelli menzionati nell’articolo 66 capoverso 2 OPers.[^12-1]
 
-<sup>3</sup> Per ogni ora di lavoro notturno ordinata tra le ore 20 e le ore 6 oppure il sabato dalle ore 18 è versata un’indennità di 6.76 franchi.[^12-2]
+<sup>3</sup> Per ogni ora di lavoro notturno ordinata tra le ore 20 e le ore 6 oppure il sabato dalle ore 18 è versata un’indennità di 7.07 franchi.[^12-2]
 
 <sup>4</sup> Per gli impiegati delle aziende industriali le indennità ai sensi dei capoversi 1 e 3 sono disciplinate di massima dalla legge del 13 marzo 1964[^12-3] sul lavoro. La definizione delle aziende industriali e la fissazione dell’importo delle indennità avviene d’intesa con l’UFPER.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^12-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^12-3]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 #### Art. 13
 
 **Servizio di picchetto**
 
-<sup>1</sup> L’indennità per il servizio di picchetto per gli impiegati assegnati alla 20<sup>a</sup> classe di stipendio o alle classi inferiori ammonta a 6.76 franchi all’ora. L’indennità per gli impiegati dalla 21<sup>a</sup> classe di stipendio in poi ammonta a 7.90 franchi all’ora.[^13-1]
+<sup>1</sup>
 
-<sup>2</sup> Invece dell’indennità secondo il capoverso 1 il servizio competente può assegnare una compensazione oraria pari al 10 per cento del tempo di lavoro e un’indennità pari a 1.34 franchi.[^13-2]
+L’indennità per il servizio di picchetto ammonta a:
+
+- a. 7.07 franchi all’ora per gli impiegati assegnati alla 20<sup>a</sup> classe di stipendio o alle classi inferiori;
+- b. 8.26 franchi all’ora per gli impiegati dalla 21<sup>a</sup> classe di stipendio.[^13-1]
+
+<sup>2</sup> Invece dell’indennità secondo il capoverso 1 il servizio competente può assegnare per ogni ora un accredito di tempo pari al 10 per cento del lavoro prestato e un’indennità pari a 1.39 franchi.[^13-2]
 
 <sup>2bis</sup> Il servizio competente può stabilire un’indennità inferiore del 70 per cento al massimo rispetto a quella prevista nel capoverso 1 per gli impiegati la cui mobilità non è limitata dal servizio di picchetto.[^13-3]
 
 <sup>3</sup> Al servizio di picchetto sono applicabili anche gli articoli 14 e 15 dell’ordinanza 1 del 10 maggio 2000[^13-4] concernente la legge sul lavoro.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^13-3]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^13-4]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^13-3]: Introdotto dalla cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^13-4]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 14
 
 [^14-1]
 
-[^14-1]: Abrogato dal n. I dell’O del DFF del 15 ott. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
+[^14-1]: Abrogato dalla cifra I dell’O del DFF del 15 ott. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
 
 #### Art. 15
 
@@ -295,18 +303,18 @@ Lo stipendio annuo dei praticanti universitari ammonta a:
 
 ### (art. 45 cpv. 1 lett. c OPers)
 
-<sup>1</sup> È possibile versare un’indennità di 5.09 franchi per ogni impiego nel quadro di piani di servizio fissi.[^15-2]
+<sup>1</sup> È possibile versare un’indennità di 5.32 franchi per ogni impiego nel quadro di piani di servizio fissi.[^15-2]
 
 <sup>2</sup> I dipartimenti designano le unità organizzative che versano un’indennità per gli impieghi e stabiliscono le relative condizioni.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 16
 
 [^16-1]
 
-[^16-1]: Abrogato dal n. I 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, con effetto dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
+[^16-1]: Abrogato dalla cifra I n. 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, con effetto dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
 
 #### Art. 17
 
@@ -320,7 +328,7 @@ L’indennità in funzione del mercato del lavoro è verificata almeno una volta
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. I dell’O del DFF del 16 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)).
+[^18-1]: Abrogato dalla cifra I dell’O del DFF del 16 dic. 2008, con effetto dal 1° gen. 2009 ([RU 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)).
 
 #### Art. 19
 
@@ -341,10 +349,10 @@ Il supplemento sostitutivo del diritto alle vacanze ammonta a:
 - b. 13,04 per cento per sei settimane di vacanza;
 - c. 15,56 per cento per sette settimane di vacanza.[^19-4]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^19-2]: Introdotto dal n. I dell’O del DFF del 5 dic. 2016 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)). Nuovo testo giusta il n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
-[^19-3]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^19-4]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^19-2]: Introdotto dalla cifra I dell’O del DFF del 5 dic. 2016 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)). Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^19-3]: Nuovo testo giusta la cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^19-4]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 ### Sezione 3: Valutazione della funzione
 
@@ -354,22 +362,23 @@ Il supplemento sostitutivo del diritto alle vacanze ammonta a:
 
 ### (art. 52 OPers)
 
-<sup>1</sup> La base di valutazione di una funzione è costituita dalla descrizione del posto (elenco degli obblighi).
+<sup>1</sup> La base per la valutazione di una funzione è costituita dalla descrizione del posto (art. 2).[^20-1]
 
 <sup>2</sup> La valutazione avviene sulla base delle esigenze della funzione ai sensi dell’articolo 52 capoverso 3 OPers e del confronto con gli altri posti.
 
-<sup>3</sup> ...[^20-1]
+<sup>3</sup> ...[^20-2]
 
-<sup>4</sup> ...[^20-2]
+<sup>4</sup> ...[^20-3]
 
-[^20-1]: Abrogato dal n. I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^20-2]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^20-2]: Abrogato dalla cifra I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^20-3]: Abrogato dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 21 e 22
 
 [^2122-1]
 
-[^2122-1]: Abrogati dal n. I 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, con effetto dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
+[^2122-1]: Abrogati dalla cifra I n. 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, con effetto dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
 
 ### Sezione 4: Prestazioni sociali
 
@@ -377,7 +386,7 @@ Il supplemento sostitutivo del diritto alle vacanze ammonta a:
 
 [^23-1]
 
-[^23-1]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^23-1]: Abrogato dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 24
 
@@ -391,9 +400,9 @@ Il supplemento sostitutivo del diritto alle vacanze ammonta a:
 
 <sup>3</sup> Se l’impiegato soggiorna in uno stabilimento ospedaliero a spese dell’assicurazione militare o dell’INSAI i diritti ai sensi dell’articolo 27 dell’ordinanza del 20 dicembre 1982[^24-2] sull’assicurazione contro gli infortuni oppure quelli ai sensi dell’articolo 21 dell’ordinanza del 10 novembre 1993[^24-3] sull’assicurazione militare sono ridotti.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^24-2]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
-[^24-3]: [RS 833.11](https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080)
+[^24-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^24-2]: [RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
+[^24-3]: [RS 833.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10253)
 
 #### Art. 25
 
@@ -403,7 +412,7 @@ Il supplemento sostitutivo del diritto alle vacanze ammonta a:
 
 Si ritengono assegni sociali gli assegni familiari, le prestazioni che integrano l’assegno familiare, l’indennità di residenza e l’indennità di soggiorno all’estero.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
 
 #### Art. 26
 
@@ -418,7 +427,7 @@ Si ritengono guadagno determinante:
 - a. per l’impiegato divenuto invalido a causa di un infortunio professionale
   - 1\.[^26-1] l’ultimo stipendio da esso percepito prima dell’infortunio (inclusi indennità di residenza, assegno familiare, prestazioni che integrano l’assegno familiare e compensazione del rincaro),
   - 2\.[^26-2] le indennità di funzione e i premi di prestazione versati in virtù degli articoli 46 e 49 OPers nell’anno precedente all’infortunio nonché le indennità percepite ai sensi dell’articolo 45 capoverso 1 lettera a e dell’articolo 70 capoverso 2 OPers,
-  - 3\.[^26-3] gli aumenti di stipendio corrispondenti al livello di valutazione 3 che l’impiegato poteva aspettarsi nei successivi tre anni, ma non superiori all’importo massimo della classe di stipendio stabilita nel contratto,
+  - 3\.[^26-3] le evoluzioni dello stipendio secondo l’articolo 39 capoverso 1 OPers che egli poteva aspettarsi nei tre anni successivi all’infortunio.
   - 4\. le indennità in funzione del mercato del lavoro ai sensi dell’articolo 50 OPers,
   - 5\. le indennità speciali ai sensi dell’articolo 48 OPers.
 
@@ -436,10 +445,10 @@ Si ritengono guadagno determinante:
 
 <sup>4</sup> In caso di decesso dell’impiegato a seguito di un infortunio sul lavoro i superstiti ricevono un contributo dell’importo di 5000 franchi per le spese del rito funebre.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
-[^26-2]: Nuovo testo giusta il n. I 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
-[^26-3]: Nuovo testo giusta il n. I 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
-[^26-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-1]: Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^26-2]: Nuovo testo giusta la cifra I n. 1 dell’O del DFF del 20 gen. 2009 sull’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
+[^26-3]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^26-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 27
 
@@ -456,7 +465,7 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>2</sup> In caso di grave negligenza sono determinanti i principi dell’articolo 37 della legge federale del 20 marzo 1981[^27-1] sull’assicurazione contro gli infortuni.
 
-[^27-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^27-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Sezione 5: Tempo di lavoro, vacanze, congedi
 
@@ -480,16 +489,16 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>5</sup> La durata massima del lavoro non può mediamente superare le 45 ore settimanali sull’arco di un anno civile.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^28-2]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^28-3]: Nuovo testo giusta il n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^28-4]: Introdotto dal n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^28-2]: Nuovo testo giusta la cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^28-3]: Nuovo testo giusta la cifra I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^28-4]: Introdotto dalla cifra I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 29
 
 [^29-1]
 
-[^29-1]: Abrogato dal n. I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^29-1]: Abrogato dalla cifra I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 30
 
@@ -509,10 +518,10 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>5</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è positivo, viene versato il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1.[^30-4]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^30-2]: Introdotto dal n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^30-3]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^30-4]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^30-2]: Introdotto dalla cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^30-3]: Introdotto dalla cifra I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^30-4]: Introdotto dalla cifra I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 31
 
@@ -530,10 +539,10 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>4</sup> Se alla fine del rapporto di lavoro il saldo orario dell’impiegato è positivo, viene versato il corrispondente importo calcolato in funzione dello stipendio orario di cui all’articolo 19 capoverso 1.[^31-4]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^31-2]: Introdotto dal n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^31-3]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^31-4]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^31-2]: Introdotto dalla cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^31-3]: Introdotto dalla cifra I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^31-4]: Introdotto dalla cifra I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 32
 
@@ -549,13 +558,13 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>4</sup> Se viene scelta una variante con una riduzione dello stipendio, i supplementi di stipendio sono ridotti proporzionalmente alla diminuzione dello stipendio.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 33
 
 [^33-1]
 
-[^33-1]: Abrogato dal n. I dell’O del DFF del 14 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^33-1]: Abrogato dalla cifra I dell’O del DFF del 14 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 34
 
@@ -577,11 +586,11 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>5</sup> ... [^34-5]
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^34-3]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^34-4]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^34-5]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^34-3]: Abrogato dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^34-4]: Nuovo testo giusta la cifra I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^34-5]: Introdotto dalla cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 35
 
@@ -593,9 +602,9 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>2</sup> I dipartimenti sono competenti per l’autorizzazione del lavoro a squadre e per l’approvazione dei relativi turni.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^35-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^35-3]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^35-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^35-2]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^35-3]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 35a
 
@@ -612,7 +621,7 @@ Lo stipendio annuo che funge da base per il calcolo dell’indennità in contant
 
 <sup>2</sup> In caso di modifica del tasso di occupazione, per determinare i giorni di compensazione ai sensi dell’articolo 64*b* capoverso 5 OPers occorre dividere la durata complessiva dei restanti giorni di compensazione secondo il precedente tasso di occupazione per la durata giornaliera del lavoro prevista dal nuovo tasso di occupazione.
 
-[^35a-1]: Introdotto dal n. I dell’O del DFF del 16 dic. 2008 ([RU 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)). Nuovo testo giusta il n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^35a-1]: Introdotto dalla cifra I dell’O del DFF del 16 dic. 2008 ([RU 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)). Nuovo testo giusta la cifra I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 36
 
@@ -633,8 +642,8 @@ Le vacanze si ritengono interrotte:
 - a. se l’impiegato è richiamato per motivi aziendali;
 - b. in caso di infortuno o malattia se l’impiegato è inabile al lavoro per almeno tre giorni di vacanza consecutivi.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 38
 
@@ -667,7 +676,7 @@ Eccezionalmente le vacanze possono essere compensate se:
 
 <sup>4</sup> La modifica del tasso di occupazione può essere eseguita soltanto se in base al calcolo secondo i capoversi 2 e 3 il diritto alle vacanze secondo l’articolo 67 capoverso 1 OPers è garantito.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 40
 
@@ -724,15 +733,15 @@ In caso di concessione di congedi, in particolare di quelli di più lunga durata
 
 <sup>6</sup> In caso di modifica del tasso di occupazione, i restanti giorni di congedo vengono riportati nel nuovo rapporto di lavoro.[^40-9]
 
-[^40-1]: Introdotta dal n. I dell’O del DFF del 18 nov. 2020 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^40-3]: Abrogata dal n. I dell’O del DFF del 14 mag. 2021, con effetto dal 1° gen. 2022 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
-[^40-4]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^40-5]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^40-6]: Introdotta dal n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
-[^40-7]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^40-8]: Introdotto dal n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^40-9]: Introdotto dal n. I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^40-1]: Introdotta dalla cifra I dell’O del DFF del 18 nov. 2020 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^40-3]: Abrogata dalla cifra I dell’O del DFF del 14 mag. 2021, con effetto dal 1° gen. 2022 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^40-4]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-5]: Nuovo testo giusta la cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^40-6]: Introdotta dalla cifra I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^40-7]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-8]: Introdotto dalla cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^40-9]: Introdotto dalla cifra I dell’O del DFF del 25 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 40a
 
@@ -750,7 +759,7 @@ Durante il primo anno di vita del bambino, per l’allattamento e il tiraggio de
 
 <sup>2</sup> La durata del lavoro giornaliero è calcolata in base alle ore di lavoro effettivamente prestate e al tempo retribuito concesso alla madre per l’allattamento nel corso del giorno lavorativo. La somma del tempo di lavoro e del tempo concesso per l’allattamento non deve superare la durata giornaliera del lavoro convenuta.
 
-[^40a-1]: Introdotto dal n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^40a-1]: Introdotto dalla cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 
 ### Sezione 6: Altre prestazioni del datore di lavoro
 
@@ -766,39 +775,55 @@ Durante il primo anno di vita del bambino, per l’allattamento e il tiraggio de
 
 <sup>2</sup> Gli impiegati occupati a tempo parziale ricevono le stesse indennità degli impiegati occupati a tempo pieno.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^41-2]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^41-2]: Introdotto dalla cifra I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta la cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+
+#### Art. 41a
+
+**Viaggi di servizio: principi**[^41a-1]
+
+### (art. 10 OPers)
+
+<sup>1</sup> I viaggi di servizio sono ammessi soltanto se sono necessari e se l’obiettivo del viaggio non è raggiungibile attraverso l’impiego di tecnologie dell’informazione e della comunicazione o tramite un’organizzazione del lavoro ottimizzata.
+
+<sup>2</sup> I viaggi di servizio sono effettuati con i mezzi di trasporto pubblici, in bicicletta o a piedi. Se è necessario l’impiego di un veicolo a motore, laddove possibile occorre combinare i mezzi di trasporto pubblici con il car sharing o utilizzare il covetturaggio (car pooling).
+
+<sup>3</sup> In caso di utilizzo di veicoli a motore appartenenti alla Confederazione, tra i veicoli adeguati a disposizione occorre scegliere quello con il minor consumo energetico e il tenore di emissioni di CO<sub>2</sub> più basso.
+
+[^41a-1]: Introdotto dalla cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 42
 
-**Viaggi di servizio**
+**Viaggi di servizio: autorizzazione per l’utilizzo di mezzi di trasporto alternativi**
 
-### (art. 72 cpv. 2 lett. a e b OPers)
+### (art. 10 e 72 cpv. 2 lett. a e b OPers)
 
 [^42-1]
 
-<sup>1</sup> Per i viaggi di servizio si utilizzano di massima i mezzi di trasporto pubblici oppure i veicoli a motore appartenenti alla Confederazione.
+<sup>1</sup> ... [^42-2]
 
-<sup>2</sup> L’utilizzo di veicoli a motore privati può essere autorizzato se ne risulta un notevole risparmio di tempo o denaro e se non sono disponibili veicoli della Confederazione.
+<sup>2</sup> L’utilizzo di veicoli a motore privati per i viaggi di servizio può essere autorizzato se ne risulta un notevole risparmio di tempo o denaro e se non sono disponibili veicoli della Confederazione adeguati.[^42-3]
 
-<sup>3</sup> In casi giustificati il servizio competente può rilasciare un’autorizzazione generale per l’utilizzo di un veicolo a motore privato per viaggi di servizio. L’autorizzazione è limitata a un anno. Se per motivi di servizio l’impiegato ha costantemente bisogno di utilizzare un veicolo a motore privato, l’autorizzazione può essere rilasciata per un periodo più lungo.[^42-2]
+<sup>3</sup> In casi giustificati il servizio competente può rilasciare un’autorizzazione generale per l’utilizzo di un veicolo a motore privato per viaggi di servizio. L’autorizzazione è limitata a un anno. Se per motivi di servizio l’impiegato ha costantemente bisogno di utilizzare un veicolo a motore privato, l’autorizzazione può essere rilasciata per un periodo più lungo.[^42-4]
 
 <sup>4</sup>
 
 I viaggi in aereo possono essere autorizzati se la loro durata è inferiore a quella del viaggio in treno e se:
 
 - a. la durata del viaggio in treno è di almeno 6 ore; oppure
-- b. la durata del viaggio in treno è inferiore a 6 ore, ma con il treno si renderebbero necessari uno o più pernottamenti supplementari.[^42-3]
+- b. la durata del viaggio in treno è inferiore a 6 ore, ma con il treno si renderebbero necessari uno o più pernottamenti supplementari.[^42-5]
 
-<sup>5</sup> D’intesa con l’UFPER, la Centrale viaggi della Confederazione (CVC) stabilisce la durata determinante dei viaggi di servizio in treno con partenza da Berna verso le maggiori destinazioni europee. L’UFPER pubblica la relativa lista sulla sua pagina Intranet.[^42-4]
+<sup>5</sup> D’intesa con l’UFPER, la Centrale viaggi della Confederazione (CVC) stabilisce la durata determinante dei viaggi di servizio in treno con partenza da Berna verso le maggiori destinazioni europee. L’UFPER pubblica la relativa lista sulla sua pagina Intranet.[^42-6]
 
-<sup>6</sup> In casi giustificati il servizio competente può autorizzare un viaggio in aereo al posto di un viaggio in treno. A tale scopo, tiene conto della conciliabilità tra famiglia e lavoro e di eventuali pregiudizi alla salute di chi viaggia, nonché delle esigenze aziendali.[^42-5]
+<sup>6</sup> In casi giustificati il servizio competente può autorizzare un viaggio in aereo al posto di un viaggio in treno. A tale scopo, tiene conto della conciliabilità tra famiglia e lavoro e di eventuali pregiudizi alla salute di chi viaggia, nonché delle esigenze aziendali.[^42-7]
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^42-2]: Introdotto dal n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^42-3]: Introdotto dal n. I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
-[^42-4]: Introdotto dal n. I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
-[^42-5]: Introdotto dal n. I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-2]: Abrogato dalla cifra I dell’O del DFF del 21 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-3]: Nuovo testo giusta la cifra I dell’O del DFF del 21 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-4]: Introdotto dalla cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^42-5]: Introdotto dalla cifra I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-6]: Introdotto dalla cifra I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-7]: Introdotto dalla cifra I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
 
 #### Art. 43
 
@@ -817,8 +842,8 @@ Le spese per i pasti fuori del luogo di lavoro o di domicilio sono rimborsate co
 
 <sup>3</sup> In casi giustificati al posto degli importi forfettari si possono rimborsare le spese effettive.[^43-2]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 44
 
@@ -828,7 +853,7 @@ Le spese per i pasti fuori del luogo di lavoro o di domicilio sono rimborsate co
 
 <sup>2</sup> Per pernottamenti in alloggi messi a disposizione da locatori privati o commerciali sono rimborsate le spese effettive, fino a un massimo di 150 franchi per notte.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 45
 
@@ -840,7 +865,7 @@ Le spese per i pasti fuori del luogo di lavoro o di domicilio sono rimborsate co
 
 <sup>2</sup> Gli impiegati a partire della 16° classe di stipendio possono utilizzare la 1<sup>a</sup> classe nei mezzi di trasporto pubblici.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 
 #### Art. 46
 
@@ -850,7 +875,7 @@ Le spese per i pasti fuori del luogo di lavoro o di domicilio sono rimborsate co
 
 In caso di utilizzo autorizzato di un veicolo a motore privato per viaggi di servizio, l’indennità chilometrica ammonta a 70 centesimi per un’automobile e a 30 centesimi per un motoveicolo o una motoretta.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del DFF del 16 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6413](https://fedlex.data.admin.ch/eli/oc/2008/862)).
 
 #### Art. 47
 
@@ -877,8 +902,8 @@ In casi giustificati il servizio competente può autorizzare un volo in classe �
 
 <sup>7</sup> Gli impiegati possono utilizzare le miglia accumulate con i viaggi di servizio in aereo unicamente per altri viaggi di servizio. Tengono un elenco scritto delle miglia accumulate e utilizzate nell’ambito di viaggi di servizio e lo presentano, su richiesta, ai loro superiori.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
-[^47-2]: [RS 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
+[^47-1]: Nuovo testo giusta la cifra I dell’O del DFF del 5 giu. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^47-2]: [RS 172.010.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5033)
 [^47-3]: La versione attuale della lista può essere consultata sul sito Internet dell’Ufficio federale dell’aviazione civile (www.ufac.admin.ch &gt; Servizi &gt; Compagnie aeree con divieto di atterraggio in Svizzera).
 
 #### Art. 48
@@ -893,11 +918,11 @@ In casi giustificati il servizio competente può autorizzare un volo in classe �
 
 <sup>2</sup> È fatto salvo il disciplinamento delle spese ai sensi delle Direttive del Consiglio federale del 9 dicembre 2022[^48-3] concernenti l’invio di delegazioni a conferenze internazionali[^48-4].[^48-5]
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^48-2]: Introdotto dal n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^48-2]: Introdotto dalla cifra I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^48-3]: [FF 2022 3078](https://fedlex.data.admin.ch/eli/fga/2022/3078)
-[^48-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 9 dic. 2022.
-[^48-5]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^48-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 9 dic. 2022.
+[^48-5]: Nuovo testo giusta la cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 49
 
@@ -961,10 +986,10 @@ I dipartimenti possono:
 - a.[^51a-4] ...
 - b. finanziare posti in strutture di custodia esterne e riservarli per i bambini dei loro impiegati.
 
-[^51a-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51a-2]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51a-3]: Nuovo testo giusta il n. I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
-[^51a-4]: Abrogata dal n. I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^51a-1]: Introdotto dalla cifra I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
+[^51a-2]: Nuovo testo giusta la cifra I dell’O del DFF del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-3]: Nuovo testo giusta la cifra I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
+[^51a-4]: Abrogata dalla cifra I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 51b
 
@@ -978,10 +1003,10 @@ I dipartimenti possono:
 
 <sup>4</sup> Il rimborso proporzionale per figlio corrisponde alla somma dei tassi di occupazione delle persone che vivono in un’unione domestica ai sensi dell’articolo 75*b* lettera a OPers diminuita del 100 per cento.[^51b-4]
 
-[^51b-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51b-2]: Nuovo testo giusta il n. I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
-[^51b-3]: Abrogati dal n. I dell’O del DFF del 18 nov. 2020, con effetto dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51b-4]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+[^51b-1]: Introdotto dalla cifra I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
+[^51b-2]: Nuovo testo giusta la cifra I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
+[^51b-3]: Abrogati dalla cifra I dell’O del DFF del 18 nov. 2020, con effetto dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51b-4]: Nuovo testo giusta la cifra I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
 #### Art. 51c
 
@@ -993,7 +1018,7 @@ I dipartimenti possono:
 
 <sup>2</sup> Per gli impiegati con un tasso di occupazione del 100 per cento, l’importo forfettario secondo il capoverso 1 ammonta a 200 franchi all’anno per ogni 20 per cento di durata annua del lavoro prestata sotto forma di lavoro mobile. Per gli impiegati occupati a tempo parziale, l’importo forfettario si riduce conformemente alla durata del lavoro prestata.
 
-[^51c-1]: Introdotto dal n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^51c-1]: Introdotto dalla cifra I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 52
 
@@ -1021,12 +1046,12 @@ Se al momento del versamento del premio di fedeltà il tasso di occupazione dell
 
 <sup>7</sup> In caso di modifica del tasso di occupazione, per determinare i giorni di congedo occorre dividere la durata complessiva dei restanti giorni di congedo del precedente tasso di occupazione per la durata giornaliera del lavoro prevista dal nuovo tasso di occupazione. Per quanto concerne il numero massimo possibile di giorni di congedo si applicano per analogia i capoversi 5 e 6.[^52-6]
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^52-3]: Abrogata dal n. I dell’O del DFF del 7 set. 2015, con effetto dal 1° gen. 2016 ([RU 2015 3157](https://fedlex.data.admin.ch/eli/oc/2015/590)).
-[^52-4]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^52-5]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^52-6]: Introdotto dal n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^52-3]: Abrogata dalla cifra I dell’O del DFF del 7 set. 2015, con effetto dal 1° gen. 2016 ([RU 2015 3157](https://fedlex.data.admin.ch/eli/oc/2015/590)).
+[^52-4]: Introdotto dalla cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^52-5]: Introdotto dalla cifra I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^52-6]: Introdotto dalla cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 53
 
@@ -1038,8 +1063,8 @@ Se al momento del versamento del premio di fedeltà il tasso di occupazione dell
 
 Gli impiegati hanno diritto a:[^53-2]
 
-- a. un abbonamento metà-prezzo gratuito delle FFS; oppure
-- b. un abbonamento generale «adulti» a prezzo ridotto delle FFS.
+- a. un abbonamento metà-prezzo gratuito delle FFS ; oppure
+- b. un abbonamento generale «adulti» a prezzo ridotto delle FFS .
 
 <sup>2</sup>
 
@@ -1061,19 +1086,19 @@ L’abbonamento generale ricevuto con una riduzione di cui al capoverso 2 letter
 
 <sup>5</sup> Agli impiegati che acquistano privatamente un abbonamento generale viene rimborsato il 15 per cento del prezzo dell’abbonamento generale «adulti».[^53-7]
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del DFF dell’11 dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
-[^53-2]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^53-3]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^53-4]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^53-5]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). La correzione dell’8 giu. 2021 concerne soltanto il testo francese ([RU 2021 326](https://fedlex.data.admin.ch/eli/oc/2021/326)).
-[^53-6]: Nuovo testo giusta il n. I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^53-7]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del DFF dell’11 dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+[^53-2]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-3]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-4]: Introdotto dalla cifra I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-5]: Nuovo testo giusta la cifra I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). La correzione dell’8 giu. 2021 concerne soltanto il testo francese ([RU 2021 326](https://fedlex.data.admin.ch/eli/oc/2021/326)).
+[^53-6]: Nuovo testo giusta la cifra I dell’O del DFF del 30 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^53-7]: Introdotto dalla cifra I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta la cifra I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 #### Art. 54
 
 [^54-1]
 
-[^54-1]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^54-1]: Abrogato dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 ### Sezione 7: Gestione delle idee
 
@@ -1111,7 +1136,7 @@ L’obiettivo della gestione delle idee consiste nel favorire e nello sfruttare 
 
 I dipartimenti definiscono le categorie dei partecipanti, l’organizzazione, le competenze, il sistema dei premi e delle prestazioni, le competenze finanziarie e i settori d’innovazione da promuovere.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del DFF dell’11 dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del DFF dell’11 dic. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
 ## Capitolo 5: Obblighi del personale
 
@@ -1119,7 +1144,7 @@ I dipartimenti definiscono le categorie dei partecipanti, l’organizzazione, le
 
 [^58-1]
 
-[^58-1]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^58-1]: Abrogato dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 59
 
@@ -1143,7 +1168,7 @@ I dipartimenti definiscono le categorie dei partecipanti, l’organizzazione, le
 
 <sup>3</sup> L’importo da versare è dedotto, d’intesa con l’impiegato, dal suo stipendio mensile.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
 
 #### Art. 61
 
@@ -1161,9 +1186,9 @@ I dipartimenti definiscono le categorie dei partecipanti, l’organizzazione, le
 
 <sup>4</sup> Se è prescritta una cura o un soggiorno di convalescenza l’impiegato deve presentare una domanda scritta al servizio competente.[^61-3]
 
-[^61-1]: Introdotto dal n. I dell’O del DFF del 22 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4771](https://fedlex.data.admin.ch/eli/oc/2009/564)).
-[^61-2]: Introdotto n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
-[^61-3]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^61-1]: Introdotto dalla cifra I dell’O del DFF del 22 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4771](https://fedlex.data.admin.ch/eli/oc/2009/564)).
+[^61-2]: Introdotto dalal cifra I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^61-3]: Nuovo testo giusta la cifra I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 62
 
@@ -1175,7 +1200,7 @@ I dipartimenti definiscono le categorie dei partecipanti, l’organizzazione, le
 
 <sup>3</sup> Gli impiegati devono essere informati in maniera appropriata dell’obbligo di annuncio in virtù dei capoversi 1 e 2.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 ## Capitolo 6: Partecipazione e collaborazione con le parti sociali
 
@@ -1199,19 +1224,19 @@ Il comitato di seguito osserva la prassi delle remunerazioni, come pure le quest
 
 [^6465-1]
 
-[^6465-1]: Abrogati dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^6465-1]: Abrogati dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 66
 
 [^66-1]
 
-[^66-1]: Abrogato dal n. I 1 dell’O del DFF del 16 giu. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, con effetto dal 1° lug. 2008 ([RU 2008 2739](https://fedlex.data.admin.ch/eli/oc/2008/382)).
+[^66-1]: Abrogato dalla cifra I n. 1 dell’O del DFF del 16 giu. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, con effetto dal 1° lug. 2008 ([RU 2008 2739](https://fedlex.data.admin.ch/eli/oc/2008/382)).
 
 #### Art. 67
 
 [^67-1]
 
-[^67-1]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^67-1]: Abrogato dalla cifra I dell’O del DFF del 31 mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 68
 
@@ -3713,7 +3738,7 @@ Allegato 2[^t-1]
 
 ## Tariffe per il rimborso dei costi per la custodia di bambini complementare alla famiglia
 
-[^t-1]: Introdotto dal n. II dell’O del DFF dell’8 dic. 2010 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Nuovo testo giusta il n. II dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^t-1]: Introdotto dalla cifra II dell’O del DFF dell’8 dic. 2010 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)). Nuovo testo giusta la cifra II dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 \1. Tariffe per la custodia in strutture d’accoglienza
 

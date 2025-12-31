@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. Januar 2024)
+vom 6. Dezember 2001 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Finanzdepartement (EFD),[^ingress-1]
 
@@ -26,7 +26,7 @@ gestützt auf Artikel 116 Absatz 1 der Bundespersonalverordnung vom 3. Juli 2001
 verordnet:
 
 [^ingress-1]: Fassung gemäss Ziff. I der V des EFD vom 15. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
-[^ingress-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -73,55 +73,63 @@ Will ein Departement einen Pilotversuch durchführen, so erstellt es zuhanden de
 
 [^1a-1]: Eingefügt durch Ziff. I der V des EFD vom 29. Juni 2022, in Kraft seit 1. Aug. 2022 ([AS 2022 405](https://fedlex.data.admin.ch/eli/oc/2022/405)).
 
-## 2. Kapitel: Mitarbeitergespräch und Personalbeurteilung
+## 2. Kapitel: Personalbeurteilung
+
+[^chap2-1]
+
+[^chap2-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 2
 
-**Gegenstand**
+**Stellenbeschreibung**[^2-1]
 
-### (Art. 15 BPV)
+### (Art. 16 BPV)
 
-<sup>1</sup>
+<sup>1</sup> Der Arbeitgeber legt in der Stellenbeschreibung für die jeweilige Funktion die Aufgaben, Befugnisse und Verantwortlichkeiten fest.
 
-Gegenstand des Mitarbeitergesprächs sind:
+<sup>2</sup>
 
-- a. die Standortbestimmung bezüglich der Arbeits- und Führungssituation;
-- b. die persönliche Förderung;
-- c. die Vereinbarung von Leistungs- und Verhaltenszielen.
+Die Stellenbeschreibung enthält mindestens folgende Angaben:
 
-<sup>2</sup> Gegenstand der Personalbeurteilung sind die vereinbarten Leistungs- und Verhaltensziele.
+- a. die Funktion;
+- b. die Organisationseinheit;
+- c. die Funktion der oder des direkt Vorgesetzten;
+- d. die Anforderungen, welche die Mitarbeiterin oder der Mitarbeiter erfüllen muss, sowie die erforderlichen Kompetenzen;
+- e. die Aufgaben, Befugnisse und Verantwortlichkeiten;
+- f. die Anzahl der unterstellten Mitarbeitenden;
+- g. die Lohnklasse und das Datum der Funktionsbewertung nach Artikel 52 BPV.
+
+[^2-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 3
 
-**Leistungs- und Verhaltensziele**
+**Leistungs-, Verhaltens- und Entwicklungsziele**[^3-1]
 
 ### (Art. 15 BPV)
 
-<sup>1</sup> Die Leistungsziele beziehen sich auf die Arbeits- und Projektergebnisse.
+(Art. 16 BPV)
 
-<sup>2</sup> Die Verhaltensziele beziehen sich auf die Fachkompetenz, die Selbstkompetenz, die Sozialkompetenz und die Führungskompetenz. Ein weiteres Verhaltensziel kann frei gewählt werden.
+<sup>1</sup> Die Vorgesetzten können mit ihren Mitarbeitenden Leistungs-, Verhaltens- und Entwicklungsziele vereinbaren.
 
-<sup>3</sup> Die vereinbarten Leistungs- und Verhaltensziele werden in Worten oder Prozenten gewichtet.
+<sup>2</sup> Die Verhaltensziele beziehen sich auf die erforderlichen Kompetenzen und auf die Anforderungen gemäss dem Verhaltenskodex für das Personal der Bundesverwaltung.
+
+[^3-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 4
 
-**Durchführung**
+**Bestätigung**[^4-1]
 
 ### (Art. 15 BPV)
 
-Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen mit ihrer Unterschrift auf dem Beurteilungsformular, dass das Mitarbeitergespräch und die Personalbeurteilung stattgefunden haben.
+Die Mitarbeitenden und die direkten Vorgesetzten bestätigen über eine digitale Plattform, dass die Personalbeurteilung stattgefunden hat.
+
+[^4-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 5
 
-**Kenntnisnahme und Auswertung**
+[^5-1]
 
-### (Art. 15 BPV)
-
-<sup>1</sup> Der oder die nächsthöhere Vorgesetzte nimmt von der Zusammenfassung und dem Gesamtbild der Personalbeurteilung Kenntnis. Er oder sie kann Einsicht in das ganze Beurteilungsdossier nehmen.
-
-<sup>2</sup> Die Personalverantwortlichen werten die Gesamtergebnisse zur Unterstützung des Controllings aus und erstellen eine Statistik. Diese gibt Auskunft über die Verteilung des Personals auf die vier Beurteilungsstufen nach Artikel 17 Absatz 1 BPV und ist namentlich nach Sprache, Alter und Geschlecht der Angestellten aufgeschlüsselt.[^5-1]
-
-[^5-1]: Fassung gemäss Ziff. I 1 der V des EFD vom 20. Jan. 2009 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
+[^5-1]: Aufgehoben durch Ziff. I der V des EFD vom 21. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 6
 
@@ -129,15 +137,15 @@ Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen m
 
 ### (Art. 15 und 16 BPV)
 
-<sup>1</sup> Angestellte, die mit der Personalbeurteilung nicht einverstanden sind, können innerhalb von vierzehn Tagen seit der Unterzeichnung des Beurteilungsformulars bei der Person, denen ihre Vorgesetzte oder ihr Vorgesetzter direkt unterstellt ist, schriftlich eine Überprüfung verlangen. Diese führt mit beiden am strittigen Mitarbeitergespräch Beteiligten ein Gespräch und entscheidet innerhalb von vierzehn Tagen schriftlich über die Personalbeurteilung.[^6-2]
+<sup>1</sup> Mitarbeitende, die mit der Personalbeurteilung nicht einverstanden sind, können innerhalb von vierzehn Tagen nach Kenntnisnahme vom Ergebnis der Personalbeurteilung bei der Person, der ihre Vorgesetzte oder ihr Vorgesetzter direkt unterstellt ist, schriftlich eine Überprüfung verlangen. Diese führt mit beiden an der strittigen Beurteilung Beteiligten ein Gespräch und entscheidet innerhalb von vierzehn Tagen nach dem Gespräch schriftlich endgültig über die Beurteilung.[^6-2]
 
-<sup>2</sup> Für den Fall, dass die Angestellten mit dem Entscheid nicht einverstanden sind, sehen die Bundesämter eine Stelle innerhalb des Amtes vor, bei der schriftlich eine weitere gesprächsweise Überprüfung verlangt werden kann. Angestellte können innerhalb von vierzehn Tagen bei dieser Stelle schriftlich eine Überprüfung verlangen. Die Stelle entscheidet innerhalb von zwanzig Tagen nach dem Gespräch schriftlich endgültig über die Personalbeurteilung.[^6-3]
+<sup>2</sup> Absatz 1 findet keine Anwendung auf Mitarbeitende, die direkt der Leiterin oder dem Leiter der Verwaltungseinheit unterstellt sind.[^6-3]
 
 <sup>3</sup> Die Angestellten können eine Person ihres Vertrauens beiziehen und dieser Einsicht in die Unterlagen gewähren.[^6-4]
 
 [^6-1]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^6-2]: Fassung des zweiten Satzes gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^6-3]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-2]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^6-3]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 [^6-4]: Fassung gemäss Ziff. I der V des EFD vom 30. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 7
@@ -146,26 +154,13 @@ Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen m
 
 [^7-1]: Aufgehoben durch Ziff. I der V des EFD vom 11. Dez. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## 3. Kapitel: Vorzeitiger Altersrücktritt
-
-[^chap3-1]
-
-[^chap3-1]: Ursprünglich: vor Art. 7. Fassung gemäss Ziff. I der V des EFD vom 11. Dez. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+## 3. Kapitel: …
 
 #### Art. 8
 
-**…[^8-2]**[^8-1]
+[^8-1]
 
-Das Arbeitsverhältnis endet:
-
-- a. für Angestellte nach Artikel 33 Absatz 1 Buchstaben a und b BPV am letzten Tag des Monats, in dem sie das 61. Altersjahr vollenden und die Voraussetzungen nach Artikel 88*g* Absatz 1 Buchstabe a beziehungsweise b BPV für den vorzeitigen Altersrücktritt erfüllen;
-- b. für Angestellte nach Artikel 33 Absatz 1 Buchstabe c BPV am letzten Tag des halben Kalenderjahres, in dem sie das 61. Altersjahr vollenden und die Funktion als Berufsoffizier während 10 Jahren ausgeübt haben;
-- c. für Angestellte nach Artikel 33 Absatz 2 Buchstabe a BPV am letzten Tag des halben Kalenderjahres, in dem sie das 62. Altersjahr vollenden und die Funktion als Berufsoffizier während 10 Jahren ausgeübt haben;
-- d. für Angestellte nach Artikel 33 Absatz 2 Buchstaben b und c BPV am letzten Tag des Monats, in dem sie das 62. Altersjahr vollenden;
-- e. für Angestellte nach Artikel 33 Absatz 3 BPV am letzten Tag des Monats, in dem sie das 62. Altersjahr vollenden und die Voraussetzungen nach Artikel 88*g* Absatz 1 Buchstabe c BPV für den vorzeitigen Altersrücktritt erfüllen.
-
-[^8-1]: Fassung gemäss Ziff. I 1 der V des EFD vom 16. Juni 2008 über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA, in Kraft seit 1. Juli 2008 ([AS 2008 2739](https://fedlex.data.admin.ch/eli/oc/2008/382)).
-[^8-2]: Aufgehoben durch Ziff. I der V des EFD vom 11. Dez. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+[^8-1]: Aufgehoben durch Ziff. I der V des EFD vom 21. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 ## 4. Kapitel: Leistungen des Arbeitgebers
 
@@ -173,13 +168,25 @@ Das Arbeitsverhältnis endet:
 
 #### Art. 9
 
-**Lohnentwicklung**
+**Wirksamkeit der Lohnentwicklung sowie Berechnung der Lohnentwicklung bei unterjährigen Eintritten**[^9-1]
 
 ### (Art. 39 BPV)
 
-<sup>1</sup> Lohnerhöhungen, die gestützt auf die Personalbeurteilung erfolgen, werden auf den 1. Januar des folgenden Jahres wirksam.
+<sup>1</sup> Lohnentwicklungen, die gestützt auf die Personalbeurteilung erfolgen, werden auf den 1. Januar des folgenden Jahres wirksam.
 
-<sup>2</sup> Wenn das Arbeitsverhältnis während des Jahres beginnt, wird eine Lohnerhöhung für das Folgejahr in der Regel anteilsmässig berechnet.
+<sup>2</sup> Beginnt das Arbeitsverhältnis während des Jahres, so wird die Lohnentwicklung für das Folgejahr anteilsmässig berechnet. Bestand im Jahr, auf das sich die Personalbeurteilung bezieht, ein Arbeitsverhältnis bei einem anderen Arbeitgeber nach Artikel 2 Absatz 1 Buchstaben f und g BPG oder in einer anderen Verwaltungseinheit nach Artikel 1 Absatz 1 BPV, so wird die Dauer dieses Arbeitsverhältnisses angerechnet.
+
+[^9-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+
+#### Art. 9a
+
+**Auswertung der Lohnentwicklung**[^9a-1]
+
+### (Art. 39*a* BPV)
+
+Die Personalverantwortlichen werten die Abweichungen von der vorgeschlagenen Lohnentwicklung nach Artikel 39*a* Absätze 1–3 BPV aus, namentlich nach Geschlecht, Alter und Sprache der Angestellten.
+
+[^9a-1]: Eingefügt durch Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 10
 
@@ -216,17 +223,17 @@ Der 13. Teil der Leistungen nach Absatz 2 wird wie folgt ausbezahlt:
 
 #### Art. 10a
 
-**Lohn für Hochschulpraktikanten und -praktikantinnen**[^10a-1]
+**Lohn für Hochschulpraktikantinnen und -praktikanten**[^10a-1]
 
 ### (Art. 25*a* BPV)
 
-Der Jahreslohn für Hochschulpraktikanten und -praktikantinnen beträgt für:
+Der Jahreslohn für Hochschulpraktikantinnen und -praktikanten beträgt für:
 
-- a. Studierende ohne Abschluss: 32 021 Franken;
-- b. Absolventen und Absolventinnen mit einem Bachelorabschluss: 44 830 Franken;
-- c. Absolventen und Absolventinnen mit einem Masterabschluss: 50 168 Franken.
+- a. Studierende ohne Abschluss: 34 500 Franken;
+- b. Absolventinnen und Absolventen mit einem Bachelorabschluss: 48 240 Franken;
+- c. Absolventinnen und Absolventen mit einem Masterabschluss: 54 000 Franken.
 
-[^10a-1]: Eingefügt durch Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^10a-1]: Eingefügt durch Ziff. I der V des EFD vom 5. Dez. 2016 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)). Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 ### 2. Abschnitt: Zulagen zum Lohn
 
@@ -256,30 +263,35 @@ Der Jahreslohn für Hochschulpraktikanten und -praktikantinnen beträgt für:
 
 <sup>2</sup> Als vergütungsberechtigte Feiertage gelten die Feiertage nach Artikel 66 Absatz 2 BPV.[^12-1]
 
-<sup>3</sup> Für jede angeordnete Stunde Nachtarbeit zwischen 20 und 6 Uhr beziehungsweise am Samstag ab 18 Uhr werden 6.76 Franken vergütet.[^12-2]
+<sup>3</sup> Für jede angeordnete Stunde Nachtarbeit zwischen 20 und 6 Uhr beziehungsweise am Samstag ab 18 Uhr werden 7.07 Franken vergütet.[^12-2]
 
 <sup>4</sup> Für die Angestellten der industriellen Betriebe richten sich die Vergütungen gemäss den Absätzen 1 und 3 grundsätzlich nach dem Arbeitsgesetz vom 13. März 1964[^12-3]. Die Bezeichnung der industriellen Betriebe und die Festsetzung der Höhe der Vergütungen erfolgt im Einvernehmen mit dem EPA.
 
 [^12-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^12-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^12-3]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^12-2]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^12-3]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 #### Art. 13
 
 **Pikettdienst**
 
-<sup>1</sup> Die Vergütung für Pikettdienst beträgt für Angestellte, die in der 20. Lohnklasse oder tiefer eingereiht sind, 6.76 Franken pro Stunde. Für Angestellte ab der 21. Lohnklasse beträgt die Vergütung 7.90 Franken.[^13-1]
+<sup>1</sup>
 
-<sup>2</sup> Anstelle der Vergütung nach Absatz 1 kann die zuständige Stelle pro Stunde eine Zeitgutschrift von 10 Prozent und eine Vergütung von 1.34 Franken ausrichten.[^13-2]
+Die Vergütung für Pikettdienst beträgt pro Stunde:
+
+- a. 7.07 Franken für Mitarbeitende, die in der 20. Lohnklasse oder tiefer eingereiht sind;
+- b. 8.26 Franken für Angestellte ab der 21. Lohnklasse.[^13-1]
+
+<sup>2</sup> Anstelle der Vergütung nach Absatz 1 kann die zuständige Stelle pro Stunde eine Zeitgutschrift von 10 Prozent und eine Vergütung von 1.39 Franken ausrichten.[^13-2]
 
 <sup>2bis</sup> Für Angestellte, deren Mobilität durch den Pikettdienst nicht eingeschränkt wird, kann die zuständige Stelle eine um höchstens 70 Prozent tiefere Vergütung als diejenige nach Absatz 1 festlegen.[^13-3]
 
 <sup>3</sup> Für den Pikettdienst sind weiter die Artikel 14 und 15 der Verordnung 1 vom 10. Mai 2000[^13-4] zum Arbeitsgesetz anwendbar.
 
-[^13-1]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^13-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^13-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^13-2]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 [^13-3]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^13-4]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^13-4]: [SR 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 14
 
@@ -293,12 +305,12 @@ Der Jahreslohn für Hochschulpraktikanten und -praktikantinnen beträgt für:
 
 ### (Art. 45 Abs. 1 Bst. c BPV)
 
-<sup>1</sup> Für Einsätze im Rahmen von festen Dienstplänen kann je Einsatz eine Zulage von 5.09 Franken ausgerichtet werden.[^15-2]
+<sup>1</sup> Für Einsätze im Rahmen von festen Dienstplänen kann je Einsatz eine Zulage von 5.32 Franken ausgerichtet werden.[^15-2]
 
 <sup>2</sup> Die Departemente bezeichnen die Organisationseinheiten, bei denen eine Zulage für die Einsätze ausgerichtet wird, und legen die entsprechenden Voraussetzungen fest.
 
 [^15-1]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^15-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^15-2]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 16
 
@@ -351,16 +363,17 @@ Der Zuschlag anstelle des Ferienanspruchs beträgt:
 
 ### (Art. 52 BPV)
 
-<sup>1</sup> Grundlage für die Bewertung einer Funktion ist die Stellenbeschreibung (Pflichtenheft).
+<sup>1</sup> Grundlage für die Bewertung einer Funktion ist die Stellenbeschreibung (Art. 2).[^20-1]
 
 - [tab] <sup>2</sup> Die Bewertung erfolgt gestützt auf die Anforderungen der Funktion nach Artikel 52 Absatz 3 BPV und den Vergleich mit anderen Stellen.
 
-<sup>3</sup> …[^20-1]
+<sup>3</sup> …[^20-2]
 
-<sup>4</sup> …[^20-2]
+<sup>4</sup> …[^20-3]
 
-[^20-1]: Aufgehoben durch Ziff. I der V des EFD vom 25. Okt. 2018, mit Wirkung seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^20-2]: Aufgehoben durch Ziff. I der V des EFD vom 31. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^20-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^20-2]: Aufgehoben durch Ziff. I der V des EFD vom 25. Okt. 2018, mit Wirkung seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^20-3]: Aufgehoben durch Ziff. I der V des EFD vom 31. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 21 und 22
 
@@ -389,8 +402,8 @@ Der Zuschlag anstelle des Ferienanspruchs beträgt:
 <sup>3</sup> Hält sich die angestellte Person auf Kosten der Militärversicherung oder SUVA in einer Heilanstalt auf, so werden die Ansprüche nach Artikel 27 der Verordnung vom 20. Dezember 1982[^24-2] über die Unfallversicherung beziehungsweise nach Artikel 21 der Verordnung vom 10. November 1993[^24-3] über die Militärversicherung gekürzt.
 
 [^24-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^24-2]: [SR 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
-[^24-3]: [SR 833.11](https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080)
+[^24-2]: [SR 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
+[^24-3]: [SR 833.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10253)
 
 #### Art. 25
 
@@ -418,7 +431,7 @@ Als massgebender Verdienst gelten:
 
   - 1\.[^26-1] der letzte Lohn, den sie vor dem Unfall bezogen hat (einschliesslich Ortszuschlag, Familienzulage, ergänzende Leistungen zur Familienzulage und Teuerungsausgleich),
   - 2\.[^26-2] die nach den Artikeln 46 und 49 BPV im Jahr vor dem Unfall ausgerichteten Funktionszulagen und Leistungsprämien sowie die nach Artikel 45 Absatz 1 Buchstabe a und Artikel 70 Absatz 2 BPV bezogenen Vergütungen,
-  - 3\.[^26-3] die der Beurteilungsstufe 3 entsprechenden Lohnerhöhungen, die die angestellte Person in den drei nächsten Jahren erwarten durfte, höchstens jedoch der maximale Betrag der vertraglich vereinbarten Lohnklasse,
+  - 3\.[^26-3] die Lohnentwicklungen nach Artikel 39 Absatz 1 BPV, die sie in den drei auf den Unfall folgenden Jahren erwarten durfte,
   - 4\. die Arbeitsmarktzulage nach Artikel 50 BPV,
   - 5\. Sonderzulagen nach Artikel 48 BPV;
 
@@ -441,8 +454,8 @@ Als massgebender Verdienst gelten:
 
 [^26-1]: Fassung gemäss Ziff. I der V des EFD vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
 [^26-2]: Fassung gemäss Ziff. I 1 der V des EFD vom 20. Jan. 2009 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
-[^26-3]: Fassung gemäss Ziff. I 1 der V des EFD vom 20. Jan. 2009 über Optimierungen im Lohnsystem des Bundespersonals, in Kraft seit 1. Febr. 2009 ([AS 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
-[^26-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-3]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^26-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 27
 
@@ -459,7 +472,7 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 
 <sup>2</sup> Bei Grobfahrlässigkeit sind die Grundsätze nach Artikel 37 des Unfallversicherungsgesetzes vom 20. März 1981[^27-1] massgebend.
 
-[^27-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^27-1]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### 5. Abschnitt: Arbeitszeit, Ferien und Urlaub
 
@@ -597,8 +610,8 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 <sup>2</sup> Die Departemente sind zuständig für die Bewilligung von Schichtarbeit und die Genehmigung der Schichtpläne.
 
 [^35-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^35-2]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^35-3]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^35-2]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^35-3]: [SR 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 35a
 
@@ -775,36 +788,52 @@ Für das Stillen und das Abpumpen von Muttermilch während des ersten Lebensjahr
 [^41-1]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 [^41-2]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
+#### Art. 41a
+
+**Dienstreisen: Grundsätze**[^41a-1]
+
+### (Art. 10 BPV)
+
+<sup>1</sup> Dienstreisen sind nur zulässig, wenn sie notwendig sind und das Ziel der Reise nicht durch den Einsatz von Informations- und Kommunikationstechnologien oder eine optimierte Arbeitsorganisation erreicht werden kann.
+
+<sup>2</sup> Dienstreisen sind mit öffentlichen Verkehrsmitteln, dem Fahrrad oder zu Fuss zurückzulegen. Ist die Nutzung eines Motorfahrzeugs erforderlich, so sind nach Möglichkeit öffentliche Verkehrsmittel in Verbindung mit Carsharing zu nutzen oder Fahrgemeinschaften zu bilden.
+
+<sup>3</sup> Werden bundeseigene Motorfahrzeuge benützt, so ist von den zur Verfügung stehenden geeigneten Fahrzeugen dasjenige mit dem niedrigsten Energieverbrauch und dem tiefsten CO<sub>2</sub>-Ausstoss zu benützen.
+
+[^41a-1]: Eingefügt durch Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+
 #### Art. 42
 
-**Dienstreisen**
+**Dienstreisen: Bewilligung alternativer Transportmittel**
 
-### (Art. 72 Abs. 2 Bst. a und b BPV)
+### (Art. 10 und Art. 72 Abs. 2 Bst. a und b BPV)
 
 [^42-1]
 
-<sup>1</sup> Für Dienstreisen sind grundsätzlich die öffentlichen Verkehrsmittel oder bundeseigene Motorfahrzeuge zu benützen.
+<sup>1</sup> …[^42-2]
 
-<sup>2</sup> Die Benützung privater Motorfahrzeuge kann bewilligt werden, wenn erheblich Zeit oder Kosten eingespart werden und keine Bundesfahrzeuge zur Verfügung stehen.
+<sup>2</sup> Die Benützung privater Motorfahrzeuge kann für Dienstreisen bewilligt werden, wenn erheblich Zeit oder Kosten eingespart werden und keine geeigneten bundeseigenen Fahrzeuge zur Verfügung stehen.[^42-3]
 
-<sup>3</sup> Die zuständige Stelle kann in begründeten Fällen eine generelle Bewilligung zur Benützung eines privaten Motorfahrzeugs für Dienstreisen erteilen. Die Bewilligung ist auf ein Jahr zu befristen. Ist die angestellte Person aus dienstlichen Gründen ständig auf die Benützung eines privaten Motorfahrzeugs angewiesen, so kann die Bewilligung auf einen längeren Zeitraum befristet werden.[^42-2]
+<sup>3</sup> Die zuständige Stelle kann in begründeten Fällen eine generelle Bewilligung zur Benützung eines privaten Motorfahrzeugs für Dienstreisen erteilen. Die Bewilligung ist auf ein Jahr zu befristen. Ist die angestellte Person aus dienstlichen Gründen ständig auf die Benützung eines privaten Motorfahrzeugs angewiesen, so kann die Bewilligung auf einen längeren Zeitraum befristet werden.[^42-4]
 
 <sup>4</sup>
 
 Flugreisen können bewilligt werden, wenn die Reisezeit mit dem Flugzeug kürzer ist als mit dem Zug und:
 
 - a. die Reisezeit mit dem Zug mindestens 6 Stunden beträgt; oder
-- b. die Reisezeit mit dem Zug weniger als 6 Stunden beträgt, mit einer Zugreise jedoch eine oder mehrere zusätzliche Übernachtungen notwendig werden.[^42-3]
+- b. die Reisezeit mit dem Zug weniger als 6 Stunden beträgt, mit einer Zugreise jedoch eine oder mehrere zusätzliche Übernachtungen notwendig werden.[^42-5]
 
-<sup>5</sup> Die Bundesreisezentrale (BRZ) legt im Einvernehmen mit dem EPA die massgebenden Reisezeiten ab Bern zu den wichtigsten Destinationen in Europa für Dienstreisen mit dem Zug fest. Das EPA publiziert die Liste auf seinem Intranet.[^42-4]
+<sup>5</sup> Die Bundesreisezentrale (BRZ) legt im Einvernehmen mit dem EPA die massgebenden Reisezeiten ab Bern zu den wichtigsten Destinationen in Europa für Dienstreisen mit dem Zug fest. Das EPA publiziert die Liste auf seinem Intranet.[^42-6]
 
-<sup>6</sup> Die zuständige Stelle kann in begründeten Fällen eine Flugreise anstelle einer Zugreise bewilligen. Sie berücksichtigt dabei die Vereinbarkeit von Familie und Beruf und allfällige gesundheitliche Beeinträchtigungen der reisenden Person sowie betriebliche Anforderungen.[^42-5]
+<sup>6</sup> Die zuständige Stelle kann in begründeten Fällen eine Flugreise anstelle einer Zugreise bewilligen. Sie berücksichtigt dabei die Vereinbarkeit von Familie und Beruf und allfällige gesundheitliche Beeinträchtigungen der reisenden Person sowie betriebliche Anforderungen.[^42-7]
 
-[^42-1]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^42-2]: Eingefügt durch Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^42-3]: Eingefügt durch Ziff. I der V des EFD vom 5. Juni 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
-[^42-4]: Eingefügt durch Ziff. I der V des EFD vom 5. Juni 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-1]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-2]: Aufgehoben durch Ziff. I der V des EFD vom 21. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-3]: Fassung gemäss Ziff. I der V des EFD vom 21. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-4]: Eingefügt durch Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^42-5]: Eingefügt durch Ziff. I der V des EFD vom 5. Juni 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-6]: Eingefügt durch Ziff. I der V des EFD vom 5. Juni 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-7]: Eingefügt durch Ziff. I der V des EFD vom 5. Juni 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
 
 #### Art. 43
 
@@ -886,8 +915,8 @@ Die zuständige Stelle kann in begründeten Fällen einen Flug in der Business- 
 <sup>7</sup> Die Angestellten dürfen auf Dienstreisen gesammelte Flugmeilen lediglich für dienstliche Flugreisen einlösen. Sie führen eine schriftliche Aufstellung der dienstlich gesammelten und eingelösten Flugmeilen und weisen die Aufstellung auf Verlangen ihren Vorgesetzten vor.
 
 [^47-1]: Fassung gemäss Ziff. I der V des EFD vom 5. Juni 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
-[^47-2]: [SR 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
-[^47-3]: Die aktuelle Fassung dieser Liste kann auf der Internetseite des Bundesamtes für Zivilluftfahrt eingesehen werden (www.bazl.admin.ch &gt; Dienstleistungen &gt; Fluggesellschaften mit Landeverbot).
+[^47-2]: [SR 172.010.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5033)
+[^47-3]: Die aktuelle Fassung dieser Liste kann auf der Internetseite des Bundesamtes für Zivilluftfahrt eingesehen werden ([www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Dienstleistungen &gt; Fluggesellschaften mit Landeverbot).
 
 #### Art. 48
 
@@ -904,7 +933,7 @@ Die zuständige Stelle kann in begründeten Fällen einen Flug in der Business- 
 [^48-1]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 [^48-2]: Eingefügt durch Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^48-3]: [BBl 2022 3078](https://fedlex.data.admin.ch/eli/fga/2022/3078)
-[^48-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 9. Dez. 2022 angepasst.
+[^48-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 9. Dez. 2022 angepasst.
 [^48-5]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 49
@@ -982,7 +1011,7 @@ Die Departemente können:
 
 <sup>1</sup> Die Höhe der Vergütung von Kosten für die familienergänzende Kinderbetreuung bemisst sich nach Anhang 2. Die Vergütung darf die effektiven Kosten nicht übersteigen.[^51b-2]
 
-<sup>2</sup> und <sup>3</sup> …[^51b-3]
+<sup>2 und <sup>3</sup></sup> …[^51b-3]
 
 <sup>4</sup> Sind beide Partner einer Lebensgemeinschaft nach Artikel 75*b* Buchstabe a BPV erwerbstätig, so entspricht die anteilsmässige Vergütung pro Kind der Summe der Beschäftigungsgrade abzüglich 100 Prozent.[^51b-4]
 

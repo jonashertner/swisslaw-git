@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20240101/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (État le 1<sup>er</sup> janvier 2024)
+du 6 décembre 2001 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral des finances (DFF),[^ingress-1]
 
@@ -26,7 +26,7 @@ vu l’art. 116, al. 1, de l’ordonnance du 3 juillet 2001 sur le personnel de 
 arrête:
 
 [^ingress-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3405](https://fedlex.data.admin.ch/eli/oc/2014/593)).
-[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^ingress-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Chapitre 1 Dispositions générales
 
@@ -73,56 +73,61 @@ Si un département souhaite réaliser un projet pilote, il établit à l’inten
 
 [^1a-1]: Introduit par le ch. I de l’O du DFF du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> août 2022 ([RO 2022 405](https://fedlex.data.admin.ch/eli/oc/2022/405)).
 
-## Chapitre 2 Entretien avec le collaborateur et évaluation personnelle
+## Chapitre 2 Évaluation personnelle
+
+[^chap2-1]
+
+[^chap2-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 2
 
-**Objet**
+**Descriptif du poste**[^2-1]
 
-### (art. 15 OPers)
+### (art. 16 OPers)
 
-<sup>1</sup>
+<sup>1</sup> L’employeur définit dans le descriptif du poste les tâches, les compétences et les responsabilités inhérentes à chaque fonction.
 
-L’entretien avec le collaborateur porte sur:
+<sup>2</sup>
 
-- a. sa situation professionnelle et la manière dont il est dirigé;
-- b. son développement personnel;
-- c. l’accord sur les objectifs en matière de prestations et de comportement.
+Le descriptif du poste contient au moins les indications suivantes:
 
-<sup>2</sup> L’évaluation personnelle concerne les objectifs touchant aux prestations et au comportement.
+- a. la fonction;
+- b. l’unité organisationnelle;
+- c. la fonction du supérieur direct;
+- d. les exigences que le collaborateur doit remplir et les aptitudes requises;
+- e. les tâches, les compétences et les responsabilités;
+- f. le nombre de collaborateurs subordonnés;
+- g. la classe de salaire et la date de l’évaluation de la fonction visée à l’art. 52 OPers.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 3
 
-**Évaluation des objectifs en matière de prestations et de comportement**
+**Objectifs en matière de prestations, de comportement et de développement**[^3-1]
 
-### (art. 15 OPers)
+### (art. 16 OPers)
 
-<sup>1</sup> Les objectifs en matière de prestations se rapportent aux résultats du travail et de projets.
+<sup>1</sup> Les supérieurs peuvent convenir avec leurs collaborateurs d’objectifs en matière de prestations, de comportement et de développement.
 
-<sup>2</sup> Les objectifs en matière de comportement se rapportent aux compétences professionnelles, personnelles et sociales ainsi qu’aux compétences directionnelles. Il est possible d’ajouter un autre objectif en matière de comportement librement choisi.
+<sup>2</sup> Les objectifs en matière de comportement reposent sur les aptitudes requises et sur les exigences définies dans le code de comportement pour le personnel de l’administration fédérale.
 
-<sup>3</sup> Les objectifs en matière de prestations et de comportement qui ont été convenus sont évalués au moyen de mots ou de pourcentages.
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 4
 
-**Exécution**
+**Confirmation**[^4-1]
 
 ### (art. 15 OPers)
 
-En signant le formulaire d’évaluation, les collaborateurs et les supérieurs directs confirment que l’entretien et l’évaluation personnelle ont eu lieu.
+Les collaborateurs et leurs supérieurs directs confirment sur une plateforme numérique que l’évaluation personnelle a eu lieu.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 5
 
-**Prise de connaissance du dossier et analyse des résultats**
+[^5-1]
 
-### (art. 15 OPers)
-
-<sup>1</sup> Le supérieur direct du supérieur prend connaissance du résumé et des résultats finals de l’évaluation personnelle. Il peut consulter l’ensemble du dossier d’évaluation.[^5-1]
-
-<sup>2</sup> Les responsables du personnel analysent les résultats à des fins de controlling et établissent une statistique des résultats. Celle-ci indique comment le personnel se répartit sur les quatre échelons d’évaluation prévus à l’art. 17, al. 1, OPers. Les résultats sont ventilés en fonction de la langue, de l’âge et du sexe des employés.[^5-2]
-
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^5-2]: Nouvelle teneur selon le ch. I 1 de l’O du DFF du 20 janv. 2009 sur l’optimisation du système salarial du personnel fédéral, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
+[^5-1]: Abrogé par le ch. I de l’O du DFF du 21 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 6
 
@@ -130,15 +135,15 @@ En signant le formulaire d’évaluation, les collaborateurs et les supérieurs 
 
 ### (art. 15 et 16 OPers)
 
-<sup>1</sup> Les employés qui ne sont pas d’accord avec l’évaluation qui est faite d’eux peuvent, dans les quatorze jours qui suivent la signature du formulaire d’évaluation, demander par écrit une réévaluation au supérieur direct de leur supérieur. Après un entretien avec le collaborateur et son supérieur direct, cette personne statue par écrit sur l’évaluation dans les quatorze jours.[^6-2]
+<sup>1</sup> Les collaborateurs qui ne sont pas d’accord avec leur évaluation personnelle peuvent, dans les quatorze jours qui suivent la prise de connaissance des résultats, demander par écrit une réévaluation au supérieur direct de leur supérieur. Après un entretien avec le collaborateur et son supérieur direct, cette personne statue par écrit de manière définitive sur l’évaluation dans les quatorze jours.[^6-2]
 
-<sup>2</sup> Au cas où les employés ne sont pas d’accord avec cette décision, l’office fédéral prévoit une instance en son sein à laquelle une réévaluation sous la forme d’un entretien peut être demandée par écrit. Les employés peuvent, dans les quatorze jours, demander par écrit une réévaluation à cette instance. L’instance statue par écrit de manière définitive sur l’évaluation dans les vingt jours suivant l’entretien.[^6-3]
+<sup>2</sup> L’al. 1 ne s’applique pas aux collaborateurs qui sont directement subordonnés au responsable de l’unité administrative.[^6-3]
 
 <sup>3</sup> Les employés peuvent associer une personne de leur choix au processus et lui permettre de consulter le dossier.[^6-4]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^6-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 [^6-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 30 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 755](https://fedlex.data.admin.ch/eli/oc/2023/755)).
 
 #### Art. 7
@@ -147,26 +152,13 @@ En signant le formulaire d’évaluation, les collaborateurs et les supérieurs 
 
 [^7-1]: Abrogé par le ch. I de l’O du DFF du 11 déc. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Chapitre 3 Retraite anticipée
-
-[^chap3-1]
-
-[^chap3-1]: Anciennement avant l’art. 7. Nouvelle teneur selon le ch. I de l’O du DFF du 11 déc. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+## Chapitre 3 …
 
 #### Art. 8
 
-**…[^8-2]**[^8-1]
+[^8-1]
 
-Les rapports de travail prennent fin:
-
-- a. pour les employés selon l’art. 33, al. 1, let. a et b, OPers, le dernier jour du mois au cours duquel ils atteignent l’âge de 61 ans, s’ils remplissent les conditions requises pour une retraite anticipée fixées à l’art. 88*g*, al. 1, let. a ou b, OPers;
-- b. pour les employés selon l’art. 33, al. 1, let. c, OPers, le dernier jour du semestre au cours duquel ils atteignent l’âge de 61 ans, s’ils ont exécuté la fonction d’officier de carrière pendant 10 ans;
-- c. pour les employés selon l’art. 33, al. 2, let. a, OPers, le dernier jour du semestre au cours duquel ils atteignent l’âge de 62 ans, s’ils ont exécuté la fonction d’officier de carrière pendant 10 ans;
-- d. pour les employés selon l’art. 33, al. 2, let. b et c, OPers, le dernier jour du mois au cours duquel ils atteignent l’âge de 62 ans;
-- e. pour les employés selon l’art. 33, al. 3, OPers, le dernier jour du mois au cours duquel ils atteignent l’âge de 62 ans, s’ils remplissent les conditions requises pour une retraite anticipée fixées à l’art. 88*g*, al. 1, let. c, OPers.
-
-[^8-1]: Nouvelle teneur selon le ch. I 1 de l’O du DFF du 16 juin 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2739](https://fedlex.data.admin.ch/eli/oc/2008/382)).
-[^8-2]: Abrogé par le ch. I de l’O du DFF du 11 déc. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
+[^8-1]: Abrogé par le ch. I de l’O du DFF du 21 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 ## Chapitre 4 Prestations de l’employeur
 
@@ -174,13 +166,25 @@ Les rapports de travail prennent fin:
 
 #### Art. 9
 
-**Évolution du salaire**
+**Entrée en vigueur de l’évolution du salaire et calcul de l’évolution du salaire en cas d’entrée en fonction en cours d’année**[^9-1]
 
 ### (art. 39 OPers)
 
-<sup>1</sup> Les augmentations de salaire fondées sur l’évaluation personnelle prennent effet à partir du 1<sup>er</sup> janvier suivant.
+<sup>1</sup> Les évolutions du salaire fondées sur l’évaluation personnelle prennent effet à partir du 1<sup>er</sup> janvier suivant.
 
-<sup>2</sup> Lorsque les rapports de travail ont débuté dans l’année, une augmentation de salaire pour l’année suivante est en règle générale calculée au prorata.
+<sup>2</sup> Lorsque les rapports de travail ont débuté dans l’année, l’évolution du salaire pour l’année suivante est calculée au prorata. Lorsque des rapports de travail sont exercés pendant l’année d’évaluation auprès des employeurs visés à l’art. 2, al. 1, let. f et g, LPers ou au sein d’une unité administrative visée à l’art. 1, al. 1, OPers, leur durée est prise en compte.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+
+#### Art. 9a
+
+**Analyse de l’évolution du salaire**[^9a-1]
+
+### (art. 39*a* OPers)
+
+Les responsables du personnel analysent les écarts par rapport à l’évolution du salaire proposée visés à l’art. 39*a*, al. 1 à 3, OPers, en tenant compte notamment du sexe, de l’âge et de la langue de l’employé.
+
+[^9a-1]: Introduit par le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 10
 
@@ -223,11 +227,11 @@ La 13<sup>e</sup> part des prestations visées à l’al. 2 est versée comme su
 
 Le salaire annuel des stagiaires des hautes écoles est le suivant:
 
-- a. étudiants sans diplôme: 32 021 francs;
-- b. diplômés titulaires d’un bachelor: 44 830 francs;
-- c. diplômés titulaires d’un master: 50 168 francs.
+- a. étudiants sans diplôme: 34 500 francs;
+- b. diplômés titulaires d’un bachelor: 48 240 francs;
+- c. diplômés titulaires d’un master: 54 000 francs.
 
-[^10a-1]: Introduit par le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
+[^10a-1]: Introduit par le ch. I de l’O du DFF du 5 déc. 2016 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)). Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 ### Section 2 Suppléments sur le salaire
 
@@ -257,30 +261,35 @@ Le salaire annuel des stagiaires des hautes écoles est le suivant:
 
 <sup>2</sup> Sont considérés comme des jours fériés donnant droit à une indemnisation les jours fériés mentionnés à l’art. 66, al. 2, OPers.[^12-1]
 
-<sup>3</sup> Une indemnité de 6 fr. 76 est versée pour chaque heure de travail de nuit effectuée sur ordre entre 20 heures et 6 heures et, le samedi, à partir de 18 heures.[^12-2]
+<sup>3</sup> Une indemnité de 7 fr. 07 est versée pour chaque heure de travail de nuit effectuée sur ordre entre 20 heures et 6 heures et, le samedi, à partir de 18 heures.[^12-2]
 
 <sup>4</sup> Pour les employés des entreprises industrielles, les indemnités visées aux al. 1 et 3 sont en principe régies par la loi du 13 mars 1964 sur le travail[^12-3]. La désignation des entreprises industrielles et la fixation du montant de l’indemnité s’effectuent après entente avec l’OFPER.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^12-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^12-3]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 #### Art. 13
 
 **Service de permanence**
 
-<sup>1</sup> Pour les employés rangés dans la 20<sup>e</sup> classe de salaire et en deçà, le montant de l’indemnité pour le service de permanence s’élève à 6 fr. 76 par heure. Pour les employés de la 21<sup>e</sup> classe de salaire et au-delà, il est de 7 fr. 90 par heure.[^13-1]
+<sup>1</sup>
 
-<sup>2</sup> L’autorité compétente peut allouer une compensation de 10 % sous la forme d’heures de congé et de 1 fr. 34 par heure à la place de l’indemnité prévue à l’al. 1.[^13-2]
+L’indemnité pour le service de permanence s’élève aux montants suivants:
+
+- a. 7 fr. 07 par heure pour les employés rangés dans la 20<sup>e</sup> classe de salaire et en deçà;
+- b. 8 fr. 26 par heure pour les employés de la 21<sup>e</sup> classe de salaire et au-delà.[^13-1]
+
+<sup>2</sup> L’autorité compétente peut allouer en lieu et place une compensation de 10 % sous la forme d’heures de congé et de 1 fr. 39 par heure.[^13-2]
 
 <sup>2bis</sup> Elle peut fixer une indemnité d’au plus 70 % moins élevée que celle prévue à l’al. 1 pour les employés dont la mobilité n’est pas réduite par le service de permanence.[^13-3]
 
 <sup>3</sup> Les art. 14 et 15 de l’ordonnance 1 du 10 mai 2000 concernant la loi sur le travail[^13-4] sont applicables au service de permanence.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 [^13-3]: Introduit par le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^13-4]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^13-4]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 14
 
@@ -294,12 +303,12 @@ Le salaire annuel des stagiaires des hautes écoles est le suivant:
 
 ### (art. 45, al. 1, let. c, OPers)
 
-<sup>1</sup> Une allocation de 5 fr. 09 peut être versée pour chaque engagement effectué dans le cadre de plans de service fixes.[^15-2]
+<sup>1</sup> Une allocation de 5 fr. 32 peut être versée pour chaque engagement effectué dans le cadre de plans de service fixes.[^15-2]
 
 <sup>2</sup> Les départements désignent les unités d’organisation qui versent une allocation pour les engagements et fixent les conditions applicables en la matière.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
 
 #### Art. 16
 
@@ -352,16 +361,17 @@ L’indemnité remplaçant les vacances s’élève à:
 
 ### (art. 52 OPers)
 
-<sup>1</sup> L’évaluation d’une fonction se base sur la description du poste (cahier des charges).
+<sup>1</sup> L’évaluation d’une fonction se fonde sur le descriptif du poste (art. 2).[^20-1]
 
 <sup>2</sup> L’évaluation se fait sur la base des exigences liées à la fonction, visées à l’art. 52, al. 3, OPers, et en comparaison avec d’autres postes.
 
-<sup>3</sup> …[^20-1]
+<sup>3</sup> …[^20-2]
 
-<sup>4</sup> …[^20-2]
+<sup>4</sup> …[^20-3]
 
-[^20-1]: Abrogé par le ch. I de l’O du DFF du 25 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
-[^20-2]: Abrogé par le ch. I de l’O du DFF du 31 mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^20-2]: Abrogé par le ch. I de l’O du DFF du 25 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^20-3]: Abrogé par le ch. I de l’O du DFF du 31 mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 21 et 22
 
@@ -390,8 +400,8 @@ L’indemnité remplaçant les vacances s’élève à:
 <sup>3</sup> Si l’employé séjourne dans un établissement de soins à la charge de l’assurance militaire ou de la SUVA, les droits prévus par l’art. 27 de l’ordonnance du 20 décembre 1982 sur l’assurance-accident[^24-2] ou par l’art. 21 de l’ordonnance du 10 novembre 1993 sur l’assurance militaire[^24-3] sont réduits.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^24-2]: [RS 832.202](https://fedlex.data.admin.ch/eli/cc/1983/38_38_38)
-[^24-3]: [RS 833.11](https://fedlex.data.admin.ch/eli/cc/1993/3080_3080_3080)
+[^24-2]: [RS 832.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10192)
+[^24-3]: [RS 833.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10253)
 
 #### Art. 25
 
@@ -419,7 +429,7 @@ Est réputé gain déterminant:
 
   - 1\.[^26-1] le dernier salaire que l’employé a perçu avant l’accident (y compris l’indemnité de résidence, l’allocation familiale, les allocations complétant l’allocation familiale et la compensation du renchérissement),
   - 2\.[^26-2] les primes de fonction et de prestations touchées en vertu des art. 46 et 49 OPers durant l’année qui a précédé l’accident, ainsi que les indemnités versées en vertu de l’art. 45, al. 1, let. a, et de l’art. 70, al. 2, OPers,
-  - 3\.[^26-3] les augmentations de salaire correspondant à l’échelon d’évaluation 3 que l’employé pouvait s’attendre à recevoir dans les trois années suivantes, mais au plus le montant maximum de la classe de salaire fixée dans le contrat de travail,
+  - 3\.[^26-3] les évolutions du salaire visées à l’art. 39, al. 1, OPers auxquelles l’employé pouvait s’attendre dans les trois années suivant l’accident,
   - 4\. l’allocation liée au marché de l’emploi visé à l’art. 50 OPers,
   - 5\. l’allocation spéciale visée à l’art. 48 OPers;
 
@@ -442,8 +452,8 @@ Est réputé gain déterminant:
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
 [^26-2]: Nouvelle teneur selon le ch. I 1 de l’O du DFF du 20 janv. 2009 sur l’optimisation du système salarial du personnel fédéral, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
-[^26-3]: Nouvelle teneur selon le ch. I 1 de l’O du DFF du 20 janv. 2009 sur l’optimisation du système salarial du personnel fédéral, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 351](https://fedlex.data.admin.ch/eli/oc/2009/61)).
-[^26-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^26-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 27
 
@@ -460,7 +470,7 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 
 <sup>2</sup> En cas de négligence grave les principes fixés à l’art. 37 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^27-1] sont déterminants.
 
-[^27-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^27-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Section 5 Temps de travail, vacances, congé
 
@@ -598,8 +608,8 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 <sup>2</sup> Les départements ont la compétence d’autoriser le travail en équipe et d’approuver les plans d’équipe.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^35-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^35-3]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+[^35-2]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^35-3]: [RS 822.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9886)
 
 #### Art. 35a
 
@@ -776,36 +786,52 @@ Pendant la première année de vie de l’enfant, les mères qui allaitent ou ti
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 [^41-2]: Introduit par le ch. I de l’O du DFF du 31 mai 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
+#### Art. 41a
+
+**Voyages de service: principes**[^41a-1]
+
+### (art. 10 OPers)
+
+<sup>1</sup> Les voyages de service ne sont autorisés que s’ils sont nécessaires et si le recours aux technologies de l’information et de la communication ou une optimisation de l’organisation du travail ne permettent pas d’en atteindre le but.
+
+<sup>2</sup> Ils sont effectués en transports publics, à vélo ou à pied. Lorsque l’utilisation d’un véhicule automobile est nécessaire, l’employé emprunte dans la mesure du possible les transports publics en combinaison avec un système d’autopartage ou a recours au covoiturage.
+
+<sup>3</sup> Si l’employé utilise un véhicule automobile de la Confédération, il est tenu de choisir, dans le parc de véhicules appropriés qui sont disponibles, le modèle présentant la consommation d’énergie et les émissions de CO<sub>2</sub> les plus faibles.
+
+[^41a-1]: Introduit par le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+
 #### Art. 42
 
-**Voyages de service**
+**Voyages de service: autorisation d’autres moyens de transport**
 
-### (art. 72, al. 2, let. a et b, OPers)
+### (art. 10 et 72, al. 2, let. a et b, OPers)
 
 [^42-1]
 
-<sup>1</sup> Pour leurs voyages de service, les employés empruntent en règle générale les transports publics ou utilisent les véhicules de la Confédération.
+<sup>1</sup> …[^42-2]
 
-<sup>2</sup> L’utilisation de véhicules privés peut être autorisée si elle permet d’économiser beaucoup de temps ou d’argent et qu’aucun véhicule de la Confédération n’est disponible.
+<sup>2</sup> L’utilisation de véhicules automobiles privés peut être autorisée pour des voyages de service si elle permet d’économiser beaucoup de temps ou d’argent et qu’aucun véhicule approprié de la Confédération n’est disponible.[^42-3]
 
-<sup>3</sup> Dans les cas justifiés, l’autorité compétente peut accorder une autorisation générale d’utiliser des véhicules privés pour les voyages de service. Cette autorisation doit être limitée à un an. La durée de cette autorisation peut être limitée à une période plus longue lorsque, pour des raisons de service, l’employé est constamment appelé à utiliser un véhicule privé.[^42-2]
+<sup>3</sup> Dans les cas justifiés, l’autorité compétente peut accorder une autorisation générale d’utiliser des véhicules privés pour les voyages de service. Cette autorisation doit être limitée à un an. La durée de cette autorisation peut être limitée à une période plus longue lorsque, pour des raisons de service, l’employé est constamment appelé à utiliser un véhicule privé.[^42-4]
 
 <sup>4</sup>
 
 Des voyages en avion peuvent être autorisés si la durée du voyage en avion est plus courte qu’en train, et:
 
 - a. lorsque la durée du voyage en train est d’au moins 6 heures, ou
-- b. lorsque la durée du voyage en train est inférieure à 6 heures, mais qu’un voyage en train entraîne une ou plusieurs nuits d’hôtel supplémentaires.[^42-3]
+- b. lorsque la durée du voyage en train est inférieure à 6 heures, mais qu’un voyage en train entraîne une ou plusieurs nuits d’hôtel supplémentaires.[^42-5]
 
-<sup>5</sup> La Centrale des voyages de la Confédération définit, en accord avec l’OFPER, les durées de voyage déterminantes pour les voyages de service en train à partir de Berne vers les principales destinations en Europe. L’OFPER publie la liste sur son site Intranet.[^42-4]
+<sup>5</sup> La Centrale des voyages de la Confédération définit, en accord avec l’OFPER, les durées de voyage déterminantes pour les voyages de service en train à partir de Berne vers les principales destinations en Europe. L’OFPER publie la liste sur son site Intranet.[^42-6]
 
-<sup>6</sup> Dans les cas justifiés, l’autorité compétente peut autoriser un voyage en avion à la place d’un voyage en train. Elle tient compte en l’occurrence de la conciliation entre vie familiale et vie professionnelle, des atteintes à la santé du voyageur ainsi que des exigences du service.[^42-5]
+<sup>6</sup> Dans les cas justifiés, l’autorité compétente peut autoriser un voyage en avion à la place d’un voyage en train. Elle tient compte en l’occurrence de la conciliation entre vie familiale et vie professionnelle, des atteintes à la santé du voyageur ainsi que des exigences du service.[^42-7]
 
-[^42-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^42-2]: Introduit par le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^42-3]: Introduit par le ch. I de l’O du DFF du 5 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
-[^42-4]: Introduit par le ch. I de l’O du DFF du 5 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-2]: Abrogé par le ch. I de l’O du DFF du 21 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 21 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 796](https://fedlex.data.admin.ch/eli/oc/2025/796)).
+[^42-4]: Introduit par le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^42-5]: Introduit par le ch. I de l’O du DFF du 5 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-6]: Introduit par le ch. I de l’O du DFF du 5 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
+[^42-7]: Introduit par le ch. I de l’O du DFF du 5 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
 
 #### Art. 43
 
@@ -883,8 +909,8 @@ b. lorsque des motifs l’exigent, comme la conciliation entre vie familiale et 
 <sup>7</sup> Les employés ne peuvent utiliser les miles accumulés lors de leurs voyages de service en avion que dans le cadre professionnel. Ils établissent par écrit une liste des miles accumulés et utilisés lors de ces voyages et la présentent sur demande à leurs supérieurs hiérarchiques.
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
-[^47-2]: [RS 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
-[^47-3]: La version actuelle de cette liste peut être consultée sur le site Internet de l’Office fédéral de l’aviation civile: www.bazl.admin.ch &gt; Services &gt; Compagnies interdites en Suisse.
+[^47-2]: [RS 172.010.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5033)
+[^47-3]: La version actuelle de cette liste peut être consultée sur le site Internet de l’Office fédéral de l’aviation civile [www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Services &gt; Compagnies interdites en Suisse.
 
 #### Art. 48
 
@@ -900,7 +926,7 @@ b. lorsque des motifs l’exigent, comme la conciliation entre vie familiale et 
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 [^48-2]: Introduit par le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^48-3]: [FF 2022 3078](https://fedlex.data.admin.ch/eli/fga/2022/3078). Le renvoi a été adapté au 9 déc. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^48-3]: [FF 2022 3078](https://fedlex.data.admin.ch/eli/fga/2022/3078). Le renvoi a été adapté au 9 déc. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^48-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 49
@@ -978,7 +1004,7 @@ Les départements peuvent:
 
 <sup>1</sup> La part remboursée des coûts de l’accueil extrafamilial d’enfants est calculée conformément à l’annexe 2. Elle ne doit pas dépasser les coûts effectifs de l’accueil extrafamilial.[^51b-2]
 
-<sup>2</sup> et <sup>3</sup> …[^51b-3]
+<sup>2 et <sup>3</sup></sup> …[^51b-3]
 
 <sup>4</sup> Le remboursement proportionnel par enfant correspond à la somme des taux d’occupation des personnes formant un ménage commun visées à l’art. 75*b*, let. a, OPers moins 100 %.[^51b-4]
 
