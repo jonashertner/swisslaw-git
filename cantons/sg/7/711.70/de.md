@@ -4,13 +4,13 @@ number: "711.70"
 title: Gesetz über die Strassenverkehrsabgaben
 short: SVAG
 language: de
-version: 2018-01-01
-valid_until: 2025-12-31
-version_adopted: 2017-08-15
+version: 2026-01-01
+valid_until: 2026-09-30
+version_adopted: 2025-01-28
 adopted: 1978-01-05
 in_force: 1979-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/711.70"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2331/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3759/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2331/pdf_file"
 
 (SVAG)
 
-vom 05.01.1978 (Stand 01.01.2018)
+vom 05.01.1978 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -47,7 +47,7 @@ erlässt als Gesetz:[^ingress-2]
 
 **Zuständigkeit**
 
-<sup>1</sup> Die für die Prüfung von Führern und Fahrzeugen zuständige Behörde trifft die in diesem Gesetz vorgesehenen Verfügungen, soweit keine andere Behörde zuständig erklärt wird.
+<sup>1</sup> Die für die Prüfung von Fahrzeugführenden und Fahrzeugen zuständige Behörde trifft die in diesem Gesetz vorgesehenen Verfügungen, soweit keine andere Behörde zuständig erklärt wird.
 
 ## II. Strassenverkehrssteuern
 
@@ -71,7 +71,7 @@ erlässt als Gesetz:[^ingress-2]
 
 **Steuersubjekt**
 
-<sup>1</sup> Steuerpflichtig ist der Fahrzeughalter.
+<sup>1</sup> Steuerpflichtig ist die Fahrzeughalterin oder der Fahrzeughalter.
 
 #### Art. 5
 
@@ -81,8 +81,8 @@ erlässt als Gesetz:[^ingress-2]
 
 - a) der Bund und seine Anstalten, soweit das Bundesrecht es vorschreibt;[^5-1]
 - b) der Kanton und die Gemeinden für Fahrzeuge, die ausschliesslich der Feuerwehr, den Polizeikräften, dem Strassenunterhalt oder dem Krankentransport dienen;
-- c) Halter von Raupenfahrzeugen, die ausschliesslich im Pistendienst verwendet werden;
-- d) Postautohalter und Verkehrsunternehmen, soweit ihre Fahrzeuge dem fahrplanmässigen Linienverkehr dienen.
+- c) Halterinnen oder Halter von Raupenfahrzeugen, die ausschliesslich im Pistendienst verwendet werden;
+- d) Postautohalterinnen oder -halter und Verkehrsunternehmen, soweit ihre Fahrzeuge dem fahrplanmässigen Linienverkehr dienen.
 
 [^5-1]: Art. 105 Abs. 4 des eidg Strassenverkehrsgesetzes vom 19. Dezember 1958, SR [741.01](https://db.clex.ch/link/Bund/741.01/de).
 
@@ -126,13 +126,15 @@ erlässt als Gesetz:[^ingress-2]
 
 #### Art. 10
 
-**Steuerbemessungsgrundlage und Steuereinheit**
+**Steuerbemessungsgrundlage**
 
-<sup>1</sup> Die Steuer wird nach dem Gesamtgewicht[^10-1] des Fahrzeugs bemessen.
+<sup>1</sup> Die Steuer für Personenwagen und Motorräder wird nach dem Gesamtgewicht[^10-1] und der Leistung des Fahrzeugs bemessen.
 
-<sup>2</sup> Sie wird je Kilogramm berechnet.
+<sup>1<sup>bis</sup></sup> Für die übrigen Motorfahrzeuge und die Motorfahrzeuganhänger wird die Steuer nach dem Gesamtgewicht des Fahrzeugs bemessen.
 
-<sup>3</sup> Auf Fahrzeugen mit Händlerschild wird eine einheitliche Steuer erhoben.
+<sup>2</sup> …
+
+<sup>3</sup> Auf Fahrzeuge mit Händlerschild wird eine einheitliche Steuer erhoben.
 
 [^10-1]: Art. 7 Abs. 4 eidgV über die technischen Anforderungen an Strassenfahrzeuge vom 19. Juni 1995, SR [741.41](https://db.clex.ch/link/Bund/741.41/de).
 
@@ -140,12 +142,16 @@ erlässt als Gesetz:[^ingress-2]
 
 **Steuersatz a) im Allgemeinen**
 
-<sup>1</sup> Für leichte Motorwagen[^11-1] beträgt die einfache Steuer Fr. 260.– je tausend Kilogramm Gesamtgewicht.
+<sup>1</sup> Für Personenwagen und Motorräder beträgt die einfache Steuer Fr. 182.– je tausend Kilogramm Gesamtgewicht und Fr. 1.27 je Kilowatt Leistung.
+
+<sup>1<sup>bis</sup></sup> Für leichte Motorwagen[^11-1], die keine Personenwagen sind, beträgt die einfache Steuer Fr. 260.– je tausend Kilogramm Gesamtgewicht.
 
 <sup>2</sup> Für die übrigen Motorfahrzeuge und für Motorfahrzeuganhänger beträgt die einfache Steuer:
 
 - a) Fr. 270.– für die ersten tausend Kilogramm Gesamtgewicht;
 - b) jeweils 88 Prozent der vorangehenden für die folgenden tausend Kilogramm Gesamtgewicht.
+
+<sup>3</sup> Die Steuersätze nach dieser Bestimmung basieren auf dem Preisstand vom 1. Januar 2026. Der Kantonsrat kann die Steuersätze im Rahmen der Genehmigung des Strassenbauprogramms an die Teuerung nach dem Landesindex der Konsumentenpreise anpassen.
 
 [^11-1]: Gesamtgewicht von nicht mehr als 3500 kg.
 
@@ -166,33 +172,35 @@ erlässt als Gesetz:[^ingress-2]
 
 #### Art. 12bis
 
-**b<sup>bis</sup>) emissionsarme Fahrzeuge**
+**b<sup>bis</sup>) energieeffiziente Fahrzeuge**
 
-<sup>1</sup> Für leichte Motorwagen, die bei ihrer ersten Inverkehrsetzung im Kanton St.Gallen nach den bundesrechtlichen Vorschriften[^12bis-1] der besten ökologischen Kategorie zugehören, wird die einfache Steuer im Jahr der ersten Inverkehrsetzung und in den drei folgenden Jahren erlassen. Ausgenommen sind Dieselfahrzeuge ohne wirkungsvollen Partikelfilter.
+<sup>1</sup> Für Personenwagen gilt ein Bonus-/Malussystem mit folgenden Leitlinien:
 
-<sup>2</sup> Für Fahrzeuge, die in einem anderen Kanton oder im Ausland erstmals in Verkehr gesetzt wurden und innerhalb der Frist nach Abs. 1 dieser Bestimmung im Kanton St.Gallen besteuert werden, wird die einfache Steuer ab Beginn der Steuerpflicht im Kanton St.Gallen für den Rest dieser Frist erlassen.
+- a) für Personenwagen der besten Energieeffizienz-Kategorien[^12bis-1] wird ein Bonus von 0 bis 50 Prozent der einfachen Steuer gewährt;
+- b) für Personenwagen der schlechtesten Energieeffizienz-Kategorien wird ein Malus von 0 bis 50 Prozent der einfachen Steuer erhoben;
+- c) Bonus und Malus können befristet werden;
+- d) für die Zugehörigkeit eines Personenwagens zu einer Energieeffizienz-Kategorie ist der Zeitpunkt der ersten Inverkehrsetzung massgebend.
 
-<sup>3</sup> Die Regierung regelt die Umsetzung durch Verordnung. Sie regelt Ausnahmen für Fahrzeuge, die einen bestimmten Emissionsgrenzwert überschreiten.
+<sup>2</sup> Bei anderen Fahrzeugkategorien werden Fahrzeuge, die beim Betrieb kein CO₂ ausstossen, mit einem Bonus von höchstens 25 Prozent der einfachen oder allenfalls ermässigten Steuer gefördert. Der Bonus kann zeitlich befristet werden.
 
-[^12bis-1]: Vgl. Anhang der eidg Energieverordnung vom 7. Dezember 1998, SR [730.01](https://db.clex.ch/link/Bund/730.01/de).
+<sup>2<sup>bis</sup></sup> Beim Bonus-/Malussystem nach Abs. 1 und 2 dieser Bestimmung wird eine Ertragsneutralität angestrebt, indem sich die Steuerausfälle durch Bonus und die Steuermehreinnahmen durch Malus insgesamt ausgleichen.
+
+<sup>3</sup> Die Regierung regelt die Umsetzung durch Verordnung. Sie:
+
+- a) überprüft das Bonus-/Malussystem periodisch auf:
+  - 1\. Einhaltung der Ertragsneutralität;
+  - 2\. die Angemessenheit im Vergleich zur Besteuerung des Bundes und vor dem Hintergrund der technologischen Entwickung;
+- b) passt die Verordnung im Bedarfsfall unter Einhaltung der Leitlinien nach Abs. 1 und 2 dieser Bestimmung an.
+
+[^12bis-1]: Siehe Anhang 4.1 der eidg Energieeffizienzverordnung vom 1. November 2017, SR [730.02](https://db.clex.ch/link/Bund/730.02/de).
 
 #### Art. 12ter
 
-**b<sup>ter</sup>) Elektrofahrzeuge**
-
-<sup>1</sup> Für Elektrofahrzeuge mit eingebautem Stromspeicher wird die einfache Steuer im Jahr der ersten Inverkehrsetzung und in den drei folgenden Jahren erlassen.
-
-<sup>2</sup> Für Fahrzeuge, die in einem anderen Kanton oder im Ausland erstmals in Verkehr gesetzt wurden und innerhalb der Frist nach Abs. 1 dieser Bestimmung im Kanton St.Gallen besteuert werden, wird die einfache Steuer ab Beginn der Steuerpflicht im Kanton St.Gallen für den Rest dieser Frist erlassen.
-
-<sup>3</sup> Ab dem vierten Betriebsjahr beträgt die einfache Steuer die Hälfte.
+**…**
 
 #### Art. 12quater
 
-**b<sup>quater</sup>) gasbetriebene Fahrzeuge**
-
-<sup>1</sup> Für gasbetriebene Fahrzeuge wird die einfache Steuer im Jahr der ersten Inverkehrsetzung und in den drei folgenden Jahren erlassen, sofern sie den von der Regierung gemäss Art. 12<sup>bis</sup> Abs. 3 dieses Erlasses festgesetzten Emissionsgrenzwert um höchstens zehn Prozent überschreiten.
-
-<sup>2</sup> Für Fahrzeuge, die in einem anderen Kanton oder im Ausland erstmals in Verkehr gesetzt wurden und innerhalb der Frist nach Abs. 1 dieser Bestimmung im Kanton St.Gallen besteuert werden, wird die einfache Steuer ab Beginn der Steuerpflicht im Kanton St.Gallen für den Rest dieser Frist erlassen.
+**…**
 
 #### Art. 13
 
@@ -272,7 +280,7 @@ erlässt als Gesetz:[^ingress-2]
 
 **Steuersubjekt**
 
-<sup>1</sup> Steuerpflichtig ist, wer im Zeitpunkt, in dem das Kontrollschild ausgegeben wird, als Halter des Motorfahrrades gilt.
+<sup>1</sup> Steuerpflichtig ist, wer im Zeitpunkt, in dem das Kontrollschild ausgegeben wird, als Halterin oder Halter des Motorfahrrades gilt.
 
 #### Art. 22
 
