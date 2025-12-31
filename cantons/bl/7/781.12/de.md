@@ -4,13 +4,12 @@ number: "781.12"
 title: Verordnung über die Massnahmen zur Reduktion der Feinstaubbelastung in der Luft bei austauscharmen Wetterlagen
 short: SMOG-Verordnung
 language: de
-version: 2007-03-01
-valid_until: 2025-12-31
-version_adopted: 2007-02-13
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 2007-02-13
 in_force: 2007-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/781.12"
-pdf: "https://bl.clex.ch/api/de/versions/315/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4440/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,16 @@ pdf: "https://bl.clex.ch/api/de/versions/315/pdf_file"
 
 (SMOG-Verordnung)
 
-Vom 13.02.2007 (Stand 01.03.2007)
+Vom 13.02.2007 (Stand 01.01.2026)
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der Kantonsverfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 29.276, SGS 100
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und Art. 11 f. des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG) vom 7. Oktober 1983[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SR 814.01](https://db.clex.ch/link/Bund/814.01/de)
 
 #### § 1
 
@@ -81,7 +85,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 **Zuständigkeiten und Verfahren**
 
-<sup>1</sup> Das Lufthygieneamt beider Basel
+<sup>1</sup> Das Amt für Umweltschutz und Energie:
 
 - a. stellt fest, ob die Voraussetzungen für das In-Kraft-Setzen oder die Aufhebung der Massnahmen erfüllt sind;
 - b. stellt die diesbezügliche Koordination mit den Lufthygienefachstellen der Nachbarkantone sicher;
@@ -92,7 +96,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 - a. beschliesst das In-Kraft-Treten der Massnahmen gemäss § 4 Absatz 2 Buchstaben a - c und [[Absatz 3³ sowie ihre Aufhebung und
 - b. informiert die Bevölkerung in geeigneter Weise darüber.
 
-<sup>3</sup> Über Fahrbeschränkungen gemäss § 4 Absatz 2 Buchstabe d entscheidet die Justiz-, Polizei- und Militärdirektion auf Antrag der Bau- und Umweltschutzdirektion.
+<sup>3</sup> Über Fahrbeschränkungen gemäss § 4 Abs. 2 Bst. d entscheidet die Sicherheitsdirektion auf Antrag der Bau- und Umweltschutzdirektion.
 
 #### § 7
 
