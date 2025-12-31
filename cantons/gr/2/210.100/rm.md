@@ -10,7 +10,7 @@ version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3587/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3611/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -163,11 +163,14 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **4. l'administraziun chantunala**
 
-<sup>1</sup> Per l'expulsiun immediata tenor l'artitgel 28b alinea 4 è cumpetenta la polizia chantunala. La procedura sa drizza tenor la lescha da polizia[^15a-1].
+<sup>1</sup> Per l'expulsiun immediata tenor l'artitgel 28b alinea 4 è cumpetenta la Polizia chantunala. La procedura sa drizza tenor la Lescha da polizia dal chantun Grischun[^15a-1], uschenavant ch'ella regla l'expulsiun.
 
 <sup>2</sup> …
 
+<sup>3</sup> La surveglianza electronica d'expulsiuns e da scumonds d'areal, d'avischinaziun e da contact da dretg civil vegn exequida tenor la Lescha introductiva tar il Cudesch da procedura civila svizzer[^15a-2].
+
 [^15a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
+[^15a-2]: DG [320.100](https://www.gr-lex.gr.ch/data/320.100/rm)
 
 #### Art. 16
 

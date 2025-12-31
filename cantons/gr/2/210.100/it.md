@@ -10,7 +10,7 @@ version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3587/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3611/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -150,11 +150,14 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 **4. L'Amministrazione cantonale**
 
-<sup>1</sup> Per l'allontanamento immediato secondo l'articolo 28b capoverso 4 è competente la Polizia cantonale. La procedura si conforma alla legge sulla polizia[^15a-1].
+<sup>1</sup> Per l'allontanamento immediato secondo l'articolo 28b capoverso 4 è competente la Polizia cantonale. La procedura si conforma alla legge sulla polizia del Cantone dei Grigioni[^15a-1], nella misura in cui essa disciplini l'allontanamento.
 
 <sup>2</sup> …
 
+<sup>3</sup> L'esecuzione della sorveglianza elettronica di allontanamenti, divieti di trattenersi in un luogo, di avvicinamento e di avere contatti previsti dal diritto civile si conforma alla legge d'applicazione del Codice di diritto processuale civile svizzero[^15a-2].
+
 [^15a-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
+[^15a-2]: CSC [320.100](https://www.gr-lex.gr.ch/data/320.100/it)
 
 #### Art. 16
 

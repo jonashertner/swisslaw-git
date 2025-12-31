@@ -10,7 +10,7 @@ version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3587/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3611/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -160,11 +160,14 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **4. Die kantonale Verwaltung**
 
-<sup>1</sup> Für die sofortige Ausweisung gemäss Artikel 28b Absatz 4 ist die Kantonspolizei zuständig. Das Verfahren richtet sich nach dem Polizeigesetz[^15a-1].
+<sup>1</sup> Für die sofortige Ausweisung gemäss Artikel 28b Absatz 4 ist die Kantonspolizei zuständig. Das Verfahren richtet sich nach dem Polizeigesetz des Kantons Graubünden[^15a-1], soweit dieses die Ausweisung regelt.
 
 <sup>2</sup> …
 
+<sup>3</sup> Der Vollzug der elektronischen Überwachung von zivilrechtlichen Ausweisungen, Orts-, Annäherungs- und Kontaktverboten richtet sich nach dem Einführungsgesetz zur Schweizerischen Zivilprozessordnung[^15a-2].
+
 [^15a-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
+[^15a-2]: BR [320.100](https://www.gr-lex.gr.ch/data/320.100/de)
 
 #### Art. 16
 
