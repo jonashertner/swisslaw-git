@@ -4,13 +4,12 @@ number: "281.1"
 title: Loi portant introduction de la loi fédérale sur la poursuite pour dettes et la faillite
 short: LiLP
 language: fr
-version: 2020-11-01
-valid_until: 2025-12-31
-version_adopted: 2020-09-02
+version: 2026-01-01
+version_adopted: 2024-09-03
 adopted: 1995-03-16
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/281.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1978/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3146/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1978/pdf_file"
 
 (LiLP)
 
-du 16.03.1995 (état au 01.11.2020)
+du 16.03.1995 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -37,13 +36,13 @@ arrête:
 
 **Régions de poursuite et d'administration des faillites**
 
-<sup>1</sup> Les régions de poursuite et d’administration des faillites correspondent aux régions administratives du canton:
+<sup>1</sup> Les régions de poursuite et d’administration des faillites sont les suivantes:
 
-- a Jura bernois,
-- b Seeland,
-- c Emmental et Haute-Argovie,
-- d Berne-Mittelland,
-- e Oberland.
+- a Jura bernois-Seeland, correspondant aux régions administratives du Jura bernois et du Seeland,
+- b …
+- c Emmental et Haute-Argovie, correspondant à la région administrative de l’Emmental et de la Haute-Argovie,
+- d Berne-Mittelland, correspondant à la région administrative de Berne-Mittelland,
+- e Oberland, correspondant à la région administrative de l'Oberland.
 
 #### Art. 2
 
@@ -103,9 +102,11 @@ arrête:
 
 **Langue**
 
-<sup>1</sup> Les procédures de poursuite ont lieu dans la langue de la région administrative.
+<sup>1</sup> Les procédures de poursuite ont lieu dans la langue de la région administrative. L'article 40 de la loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^9-1] est applicable par analogie dans la région de poursuite et d'administration des faillites du Jura bernois-Seeland.
 
 <sup>2</sup> Les procédures de faillite se déroulent dans la langue dans laquelle la faillite a été ouverte.
+
+[^9-1]: RSB [152.01](https://www.belex.sites.be.ch/data/152.01/fr)
 
 ## 2 Surveillance
 

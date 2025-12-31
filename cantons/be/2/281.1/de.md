@@ -4,13 +4,12 @@ number: "281.1"
 title: Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs
 short: EGSchKG
 language: de
-version: 2020-11-01
-valid_until: 2025-12-31
-version_adopted: 2020-09-02
+version: 2026-01-01
+version_adopted: 2024-09-03
 adopted: 1995-03-16
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/281.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1978/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1978/pdf_file"
 
 (EGSchKG)
 
-vom 16.03.1995 (Stand 01.11.2020)
+vom 16.03.1995 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -37,15 +36,13 @@ beschliesst:
 
 **Betreibungs- und Konkursregionen**
 
-<sup>1</sup> Die Regionen für die Durchführung der Schuldbetreibung und der Konkurse entsprechen den Verwaltungsregionen des Kantons:
+<sup>1</sup> Für die Durchführung der Schuldbetreibung und der Konkurse bestehen folgende Regionen:
 
-- a Berner Jura,
-- b Seeland,
-- c Oberaargau-Emmental[^1-1],
-- d Bern-Mittelland,
-- e Oberland.
-
-[^1-1]: Richtig: Emmental-Oberaargau
+- a Berner Jura-Seeland, die den Verwaltungsregionen Berner Jura und Seeland entspricht,
+- b …
+- c Emmental-Oberaargau, die der Verwaltungsregion Emmental-Oberaargau entspricht,
+- d Bern-Mittelland, die der Verwaltungsregion Bern-Mittelland entspricht,
+- e Oberland, die der Verwaltungsregion Oberland entspricht.
 
 #### Art. 2
 
@@ -105,9 +102,11 @@ beschliesst:
 
 **Sprache**
 
-<sup>1</sup> Die Betreibungsverfahren werden in der Sprache der Verwaltungsregion durchgeführt.
+<sup>1</sup> Die Betreibungsverfahren werden in der Sprache der Verwaltungsregion durchgeführt. Artikel 40 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^9-1] gilt sinngemäss in der Betreibungs- und Konkursregion Berner Jura-Seeland.
 
 <sup>2</sup> Die Konkursverfahren werden in der Sprache durchgeführt, in welcher über die Konkurseröffnung entschieden worden ist.
+
+[^9-1]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
 
 ## 2 Aufsicht
 
