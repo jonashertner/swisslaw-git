@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2025-09-01
+version: 2026-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 1. September 2025)
+vom 16. Dezember 1985 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -707,7 +707,7 @@ Die Verordnung vom 10. Dezember 1984[^41-1] über Luftreinhalte-Massnahmen bei F
 
 <sup>3</sup> Für bereits bestehende übermässige Immissionen sind die Massnahmenpläne nach Artikel 3l innert dreier Jahre nach Inkrafttreten dieser Verordnung zu erstellen.
 
-### 3*a*. Abschnitt:…
+### 3*a*. Abschnitt: …
 
 #### Art. 42a
 
@@ -848,8 +848,8 @@ Für Zementöfen und Kalkklinkeröfen, die gemäss der Änderung vom 20. Oktober
 <sup>3</sup> Die Emissionsgrenzwerte nach Absatz 1 sind befristet bis zum 31. März 2023.
 
 <table>
-<tr><th>– Kohlenmonoxid (CO)</th><th>[tab] 170 mg/m<sup>3</sup></th></tr>
-<tr><th>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid</th><th>[tab] 250 mg/m<sup>3</sup></th></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>170 mg/m<sup>3</sup></td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid</td><td>250 mg/m<sup>3</sup></td></tr>
 </table>
 
 Anhang 1[^t-1]
@@ -975,28 +975,28 @@ Für die Begrenzung der einzelnen Inhaltsstoffe des Staubes gelten die Anforderu
 ### 52 Tabelle der anorganischen, vorwiegend staubförmigen Stoffe
 
 <table>
-<tr><th>Stoff</th><th></th><th colspan="2">angegeben als</th><th colspan="3">Klasse</th></tr>
-<tr><td>Antimon<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Sb</td><td colspan="3">3</td></tr>
-<tr><td>Arsen<sup>1</sup></td><td>und seine Verbindungen, ausgenommen Arsenwasserstoff</td><td colspan="2">As</td><td colspan="3">2</td></tr>
-<tr><td>Blei</td><td>und seine Verbindungen</td><td colspan="2">Pb</td><td colspan="3">3</td></tr>
-<tr><td>Chrom<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Cr</td><td colspan="3">3</td></tr>
-<tr><td>Cobalt<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Co</td><td colspan="3">2</td></tr>
-<tr><td>Cyanide<sup>2</sup></td><td></td><td colspan="2">CN</td><td colspan="3">3</td></tr>
-<tr><td>Fluoride<sup>2</sup></td><td>soweit staubförmig</td><td colspan="2">F</td><td colspan="3">3</td></tr>
-<tr><td>Kupfer</td><td>und seine Verbindungen</td><td colspan="2">Cu</td><td colspan="3">3</td></tr>
-<tr><td>Mangan</td><td>und seine Verbindungen</td><td colspan="2">Mn</td><td colspan="3">3</td></tr>
-<tr><td>Nickel<sup>1</sup></td><td>und seine Verbindungen</td><td colspan="2">Ni</td><td colspan="3">2</td></tr>
-<tr><td>Palladium</td><td>und seine Verbindungen</td><td colspan="2">Pd</td><td colspan="3">3</td></tr>
-<tr><td>Platin</td><td>und seine Verbindungen</td><td colspan="2">Pt</td><td colspan="3">3</td></tr>
-<tr><td>Quarzstaub</td><td>soweit kristalliner Feinstaub</td><td colspan="2">SiO<sub>2</sub></td><td colspan="3">3</td></tr>
-<tr><td>Quecksilber</td><td>und seine Verbindungen</td><td colspan="2">Hg</td><td colspan="3">1</td></tr>
-<tr><td>Rhodium</td><td>und seine Verbindungen</td><td colspan="2">Rh</td><td colspan="3">3</td></tr>
-<tr><td>Selen</td><td>und seine Verbindungen</td><td colspan="2">Se</td><td colspan="3">2</td></tr>
-<tr><td>Tellur</td><td>und seine Verbindungen</td><td colspan="2">Te</td><td colspan="3">2</td></tr>
-<tr><td>Thallium</td><td>und seine Verbindungen</td><td colspan="2">Tl</td><td colspan="3">1</td></tr>
-<tr><td>Vanadium</td><td>und seine Verbindungen</td><td colspan="2">V</td><td colspan="3">3</td></tr>
-<tr><td>Zinn</td><td>und seine Verbindungen</td><td colspan="2">Sn</td><td colspan="3">3</td></tr>
-<tr><td colspan="3"><sup>1</sup> Soweit nicht als krebserzeugende Verbindung nach Ziffer 8 erfasst. <sup>2</sup> Soweit leicht löslich.</td><td colspan="2"></td><td></td></tr>
+<tr><th colspan="2">Stoff</th><th>angegeben als</th><th colspan="2">Klasse</th></tr>
+<tr><td>Antimon<sup>1</sup></td><td>und seine Verbindungen</td><td>Sb</td><td colspan="2">3</td></tr>
+<tr><td>Arsen<sup>1</sup></td><td>und seine Verbindungen, ausgenommen Arsenwasserstoff</td><td>As</td><td colspan="2">2</td></tr>
+<tr><td>Blei</td><td>und seine Verbindungen</td><td>Pb</td><td colspan="2">3</td></tr>
+<tr><td>Chrom<sup>1</sup></td><td>und seine Verbindungen</td><td>Cr</td><td colspan="2">3</td></tr>
+<tr><td>Cobalt<sup>1</sup></td><td>und seine Verbindungen</td><td>Co</td><td colspan="2">2</td></tr>
+<tr><td>Cyanide<sup>2</sup></td><td></td><td>CN</td><td colspan="2">3</td></tr>
+<tr><td>Fluoride<sup>2</sup></td><td>soweit staubförmig</td><td>F</td><td colspan="2">3</td></tr>
+<tr><td>Kupfer</td><td>und seine Verbindungen</td><td>Cu</td><td colspan="2">3</td></tr>
+<tr><td>Mangan</td><td>und seine Verbindungen</td><td>Mn</td><td colspan="2">3</td></tr>
+<tr><td>Nickel<sup>1</sup></td><td>und seine Verbindungen</td><td>Ni</td><td colspan="2">2</td></tr>
+<tr><td>Palladium</td><td>und seine Verbindungen</td><td>Pd</td><td colspan="2">3</td></tr>
+<tr><td>Platin</td><td>und seine Verbindungen</td><td>Pt</td><td colspan="2">3</td></tr>
+<tr><td>Quarzstaub</td><td>soweit kristalliner Feinstaub</td><td>SiO<sub>2</sub></td><td colspan="2">3</td></tr>
+<tr><td>Quecksilber</td><td>und seine Verbindungen</td><td>Hg</td><td colspan="2">1</td></tr>
+<tr><td>Rhodium</td><td>und seine Verbindungen</td><td>Rh</td><td colspan="2">3</td></tr>
+<tr><td>Selen</td><td>und seine Verbindungen</td><td>Se</td><td colspan="2">2</td></tr>
+<tr><td>Tellur</td><td>und seine Verbindungen</td><td>Te</td><td colspan="2">2</td></tr>
+<tr><td>Thallium</td><td>und seine Verbindungen</td><td>Tl</td><td colspan="2">1</td></tr>
+<tr><td>Vanadium</td><td>und seine Verbindungen</td><td>V</td><td colspan="2">3</td></tr>
+<tr><td>Zinn</td><td>und seine Verbindungen</td><td>Sn</td><td colspan="2">3</td></tr>
+<tr><td colspan="4"><sup>1</sup> Soweit nicht als krebserzeugende Verbindung nach Ziffer 8 erfasst. <sup>2</sup> Soweit leicht löslich.</td></tr>
 </table>
 
 ### 6 Anorganische gas- oder dampfförmige Stoffe
@@ -1020,7 +1020,7 @@ Die Emissionskonzentration eines der in Ziffer 62 aufgeführten Stoffe darf folg
 <tr><th>Stoff</th><th>Klasse</th></tr>
 <tr><td>Ammoniak und Ammoniumverbindungen angegeben als Ammoniak</td><td>3</td></tr>
 <tr><td>Arsenwasserstoff</td><td>1</td></tr>
-<tr><td>Brom und seine dampf- und gasförmigen Verbindungen, angegeben.</td><td></td></tr>
+<tr><td>Brom und seine dampf- und gasförmigen Verbindungen, angegeben</td><td></td></tr>
 <tr><td>als Bromwasserstoff</td><td>2</td></tr>
 <tr><td>Chlor</td><td>2</td></tr>
 <tr><td>Chlorcyan</td><td>1</td></tr>
@@ -1087,7 +1087,7 @@ Die Emissionskonzentration eines der in Ziffer 62 aufgeführten Stoffe darf folg
 <tr><td>Biphenyl</td><td>C<sub>12</sub>H<sub>10</sub></td><td>1</td></tr>
 <tr><td>Brommethan</td><td>CH<sub>3</sub>Br</td><td>1</td></tr>
 <tr><td>2-Butanon</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>3</td></tr>
-<tr><td>2-Butoxyethanol</td><td>C<sub>6</sub>H<sub>14</sub> O<sub>2</sub></td><td>2</td></tr>
+<tr><td>2-Butoxyethanol</td><td>C<sub>6</sub>H<sub>14</sub>O<sub>2</sub></td><td>2</td></tr>
 <tr><td>Butylacetate</td><td>C<sub>6</sub>H<sub>12</sub>O<sub>2</sub></td><td>3</td></tr>
 <tr><td>Butylglykol (s. 2-Butoxyethanol)</td><td></td><td></td></tr>
 <tr><td>Butyraldehyd</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>2</td></tr>
@@ -1112,7 +1112,7 @@ Die Emissionskonzentration eines der in Ziffer 62 aufgeführten Stoffe darf folg
 <tr><td>Diethanolamin (s. 2,2’-Iminodiethanol)</td><td></td><td></td></tr>
 <tr><td>Diethylamin</td><td>C<sub>4</sub>H<sub>11</sub>N</td><td>1</td></tr>
 <tr><td>Diethylether</td><td>C<sub>4</sub>H<sub>10</sub>O</td><td>3</td></tr>
-<tr><td>Di-(2-ethylhexyl)-phthalat</td><td>C24H38O4</td><td>2</td></tr>
+<tr><td>Di-(2-ethylhexyl)-phthalat</td><td>C<sub>24</sub>H<sub>38</sub>O<sub>4</sub></td><td>2</td></tr>
 <tr><td>Diisopropylether</td><td>C<sub>6</sub>H<sub>14</sub>O</td><td>3</td></tr>
 <tr><td>Diisobutylketon (s. 2,6-Dimethyl-4-heptanon)</td><td></td><td></td></tr>
 <tr><td>Diisocyanatotoluol (s. 4-Methyl-m-Phenylendiisocyanat)</td><td></td><td></td></tr>
@@ -1338,14 +1338,14 @@ Anhang 2[^t-2]
 - 55 Anlagen zur Lagerung und Ausbringung von flüssigen Hofdüngern
 - 56 Kaffee- und Kakao-Röstereien
 - **6** **Beschichten und Bedrucken**
-- 61 Anlagen zum Beschichten und Bedrucken mit organischen Stoffen¨
+- 61 Anlagen zum Beschichten und Bedrucken mit organischen Stoffen
 - **7** **Abfälle**
 - 71 Anlagen zum Verbrennen von Siedlungs- und Sonderabfällen
 - 72 Anlagen zum Verbrennen von Altholz, Papier- und ähnlichen Abfällen
 - 73 Anlagen zum Verbrennen von Sulfit-Ablauge aus der Zellstoffherstellung
 - 74 Anlagen zum Verbrennen von biogenen Abfällen und Erzeugnissen der Landwirtschaft
 - **8** **Weitere Anlagen**
-- 81 Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen be- handelt werden
+- 81 Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden
 - 82 Stationäre Verbrennungsmotoren
 - 83 Gasturbinen
 - 84 Anlagen zur Herstellung von Holzspan- und Holzfaserplatten
@@ -1407,7 +1407,7 @@ Die Emissionen von Blei und Zink sowie deren Verbindungen, angegeben als Metalle
 
 ### 118 Dioxine und Furane
 
-Die Emissionen von polychlorierten Dibenzo-p-dioxinen (Dioxine) und Dibenzofuranen (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948-1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], dürfen 0,1 ng/m<sup>3</sup> nicht überschreiten.
+Die Emissionen von polychlorierten Dibenzo-p-dioxinen (Dioxine) und Dibenzofuranen (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948‑1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], dürfen 0,1 ng/m<sup>3</sup> nicht überschreiten.
 
 [^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
@@ -1525,7 +1525,7 @@ Die Emissionen von Kohlenmonoxid dürfen 500 mg/m<sup>3</sup> nicht überschreit
 
 ### 211 Geltungsbereich
 
-Die Bestimmungen dieser Ziffer gelten für Anlagen zur Herstellung von Schwefel-dioxid, Schwefeltrioxid, Schwefelsäure und Oleum.
+Die Bestimmungen dieser Ziffer gelten für Anlagen zur Herstellung von Schwefeldioxid, Schwefeltrioxid, Schwefelsäure und Oleum.
 
 ### 212 Schwefeldioxid
 
@@ -1544,7 +1544,7 @@ Die Emissionen von Schwefeltrioxid dürfen bei konstanten Gasbedingungen 60 mg/m
 Der Schwefel Emissionsgrad darf folgende Grenzwerte nicht überschreiten:
 
 <table>
-<tr><td>Bei Anlagen mit einer Produktionskapazität von</td><td>Grenzwert in Prozent (% Masse)</td></tr>
+<tr><th>Bei Anlagen mit einer Produktionskapazität von</th><th>Grenzwert in Prozent (% Masse)</th></tr>
 <tr><td>weniger als 20 t/Tag</td><td>3,0</td></tr>
 <tr><td>20–50 t/Tag</td><td>2,0</td></tr>
 <tr><td>mehr als 50 t/Tag</td><td>0,5</td></tr>
@@ -1807,7 +1807,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -1829,7 +1829,7 @@ Die staubförmigen Emissionen dürfen gesamthaft 5 mg/m<sup>3</sup> nicht übers
 
 ### 483 Dioxine und Furane
 
-Die in Elektrolichtbogenöfen entstehenden Emissionen polychlorierter Dibenzo-p-dioxine (Dioxine) und Dibenzofurane (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], dürfen 0.1 ng/m<sup>3</sup> nicht überschreiten.
+Die in Elektrolichtbogenöfen entstehenden Emissionen polychlorierter Dibenzo-p-dioxine (Dioxine) und Dibenzofurane (Furane), angegeben als Summenwert der Toxizitätsäquivalente nach EN 1948‑1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], dürfen 0.1 ng/m<sup>3</sup> nicht überschreiten.
 
 [^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
@@ -2160,14 +2160,14 @@ Für den Vergleich mit den Emissionsgrenzwerten werden die gemessenen Emissionen
 Die Emissionen dürfen folgende Werte nicht überschreiten:
 
 <table>
-<tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="6">Feuerungswärmeleistung</th></tr>
-<tr><th colspan="4"></th><th></th><th>bis 1 MW</th><th>über 1 MW bis 10 MW</th><th colspan="4">über 10 MW</th></tr>
-<tr><td>– Bezugsgrösse:</td><td colspan="4"></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td colspan="4">% vol</td><td>13</td><td>11</td><td colspan="4">11</td></tr>
-<tr><td>– Feststoffe insgesamt:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td colspan="4">10</td></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td colspan="4">150</td></tr>
-<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)<sup>1</sup></td><td colspan="4">mg/m<sup>3</sup></td><td>250</td><td>250</td><td colspan="4">150</td></tr>
-<tr><td colspan="8"><sup>1</sup> Bei einem Massenstrom von 2500 g/h oder mehr</td><td></td><td></td><td></td></tr>
+<tr><th colspan="2"></th><th colspan="3">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="2"></th><th>bis 1 MW</th><th>über 1 MW bis 10 MW</th><th>über 10 MW</th></tr>
+<tr><td>– Bezugsgrösse:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– Feststoffe insgesamt:</td><td>mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
+<tr><td colspan="5"><sup>1</sup> Bei einem Massenstrom von 2500 g/h oder mehr</td></tr>
 </table>
 
 ### 743 Verbot der Verbrennung in Kleinanlagen
@@ -2205,16 +2205,16 @@ Stationäre Verbrennungsmotoren dürfen nur mit Gasbrenn- und Gastreibstoffen na
 <sup>1</sup> Die Emissionen von stationären Verbrennungsmotoren dürfen folgende Grenzwerte nicht überschreiten:
 
 <table>
-<tr><th></th><th></th><th colspan="3">Feuerungswärmeleistung</th><th></th><th></th></tr>
-<tr><th></th><th></th><th>bis 100 kW</th><th>über 100 kW</th><th colspan="3">über 1 MW</th></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
-<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>1300</td><td>650</td><td colspan="3">300</td></tr>
-<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
-<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>250</td><td>150</td><td colspan="3">100</td></tr>
-<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>400</td><td>250</td><td colspan="3">100</td></tr>
-<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>400</td><td>250</td><td colspan="3">250</td></tr>
+<tr><th colspan="2"></th><th colspan="3">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="2"></th><th>bis 100 kW</th><th>über 100 kW</th><th>über 1 MW</th></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>650</td><td>300</td><td>300</td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>1300</td><td>650</td><td>300</td></tr>
+<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>650</td><td>300</td><td>300</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>250</td><td>150</td><td>100</td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>400</td><td>250</td><td>100</td></tr>
+<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>400</td><td>250</td><td>250</td></tr>
 </table>
 
 <sup>2</sup> Wird ein stationärer Verbrennungsmotor mit einer Entstickungsanlage betrieben, so dürfen die Emissionen von Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak, 30 mg/m<sup>3</sup> nicht überschreiten.
@@ -2256,11 +2256,11 @@ Bei Einsatz von flüssigen Brenn- oder Treibstoffen dürfen die Emissionen von R
 Die Emissionen von Kohlenmonoxid dürfen folgende Grenzwerte nicht überschreiten:
 
 <table>
-<tr><th></th><th></th><th colspan="2">Feuerungswärmeleistung</th><th></th></tr>
-<tr><th></th><th></th><th>bis 40 MW</th><th colspan="2">über 40 MW</th></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
-<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 oder flüssigen Brenn- oder Treibstoffen</td><td></td><td>100</td><td colspan="2">35</td></tr>
-<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>240</td><td colspan="2">35</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="2"></th><th>bis 40 MW</th><th>über 40 MW</th></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 oder flüssigen Brenn- oder Treibstoffen</td><td></td><td>100</td><td>35</td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1 Buchstaben d und e, wenn die Anlage jährlich mindestens zu 80 Prozent mit diesen Stoffen betrieben wird</td><td></td><td>240</td><td>35</td></tr>
 </table>
 
 ### 835 Schwefeloxide
@@ -2272,11 +2272,11 @@ Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, dürfen bei ein
 <sup>1</sup> Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, dürfen folgende Grenzwerte nicht überschreiten:
 
 <table>
-<tr><td></td><td></td><td colspan="2">Feuerungswärmeleistung</td><td></td></tr>
-<tr><td></td><td></td><td>bis 40 MW</td><td colspan="2">über 40 MW</td></tr>
-<tr><td>– Stickoxide (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
-<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>40</td><td colspan="2">20</td></tr>
-<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>50</td><td colspan="2">40</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="2"></th><th>bis 40 MW</th><th>über 40 MW</th></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td></tr>
+<tr><td>– beim Betrieb mit Gasbrenn- oder Gastreibstoffen nach Anhang 5 Ziffer 41 Absatz 1</td><td></td><td>40</td><td>20</td></tr>
+<tr><td>– beim Betrieb mit flüssigen Brenn- oder Treibstoffen</td><td></td><td>50</td><td>40</td></tr>
 </table>
 
 <sup>2</sup> Wird eine Gasturbine mit einer Entstickungsanlage betrieben, dürfen die Emissionen von Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak, 10 mg/m<sup>3</sup> nicht überschreiten.
@@ -2371,7 +2371,7 @@ Die Emissionen von Kohlenmonoxid dürfen 50 mg/m<sup>3</sup> nicht überschreite
 
 ### 87 Anlagen zur Oberflächenbehandlung
 
-<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen die Oberfläche von Gegenständen und Erzeugnissen aus Metall, Glas, Keramik, Kunststoff, Gummi oder anderen Stoffen mit halogenierten organischen Stoffen behandelt werden, die bei einem Druck von 1013 mbar einen Siedepunkt von weniger als 150 ºC aufweisen.
+<sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen die Oberfläche von Gegenständen und Erzeugnissen aus Metall, Glas, Keramik, Kunststoff, Gummi oder anderen Stoffen mit halogenierten organischen Stoffen behandelt werden, die bei einem Druck von 1013 mbar einen Siedepunkt von weniger als 150 °C aufweisen.
 
 <sup>2</sup> Anlagen zur Oberflächenbehandlung sind wie folgt auszurüsten und zu betreiben:
 
@@ -2446,16 +2446,16 @@ Folgende Feuerungen müssen nicht nach Artikel 13 Absatz 3 periodisch gemessen w
 <sup>1</sup> Die Emissionen von Feuerungen, welche mit Heizöl «Extra leicht» betrieben werden, dürfen folgende Werte nicht überschreiten:
 
 <table>
-<tr><th>Feuerungen für Heizöl «Extra leicht»</th><th></th></tr>
-<tr><th>– Bezugsgrösse: Die Grenzwerte für die gasförmigen Schadstoffe beziehen sich auf einen Sauerstoffgehalt im Abgas von</th><th>3 % vol</th></tr>
-<tr><th>– Russzahl</th><th>1</th></tr>
-<tr><th>– Kohlenmonoxid (CO)</th><th>80 mg/m<sup>3</sup></th></tr>
-<tr><th>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid</th><th></th></tr>
-<tr><th>a. Hellstrahler und Dunkelstrahler</th><th>200 mg/m<sup>3</sup></th></tr>
-<tr><th>b. Anlagen mit einer Heizmediumtemperatur über 110 °C</th><th>150 mg/m<sup>3</sup></th></tr>
-<tr><th>c. Übrige Anlagen</th><th>120 mg/m<sup>3</sup></th></tr>
-<tr><th>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
-<tr><th colspan="2">Hinweise: <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</th></tr>
+<tr><td>Feuerungen für Heizöl «Extra leicht»</td><td></td></tr>
+<tr><td>– Bezugsgrösse: Die Grenzwerte für die gasförmigen Schadstoffe beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>3 % vol</td></tr>
+<tr><td>– Russzahl</td><td>1</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>80 mg/m<sup>3</sup></td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid</td><td></td></tr>
+<tr><td>a. Hellstrahler und Dunkelstrahler</td><td>200 mg/m<sup>3</sup></td></tr>
+<tr><td>b. Anlagen mit einer Heizmediumtemperatur über 110 °C</td><td>150 mg/m<sup>3</sup></td></tr>
+<tr><td>c. Übrige Anlagen</td><td>120 mg/m<sup>3</sup></td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></td><td>30 mg/m<sup>3</sup></td></tr>
+<tr><td colspan="2">Hinweise: <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
 </table>
 
 <sup>2</sup> Die Emissionen von Schwefeloxiden sind durch den Grenzwert für den Schwefelgehalt nach Anhang 5 Ziffer 11 begrenzt. Die Emissionsbegrenzungen nach Anhang 1 Ziffer 6 für Schwefeloxide gelten nicht.
@@ -2497,18 +2497,18 @@ Heizöl «Extra leicht Euro» darf nicht in Anlagen oder betrieblichen Einheiten
 <sup>1</sup> Die Emissionen von Feuerungen, die mit Heizöl «Mittel» oder «Schwer» betrieben werden, dürfen folgende Werte nicht überschreiten:
 
 <table>
-<tr><th></th><th></th><th colspan="4">Feuerungswärmeleistung</th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>über 5 MW bis 50 MW</th><th>über 50 MW bis 100 MW</th><th>über 100 MW bis 300 MW</th><th colspan="4">über 300 MW</th></tr>
-<tr><td>Heizöl «Mittel» und «Schwer»</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>– Bezugsgrösse:</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>3</td><td>3</td><td>3</td><td colspan="4">3</td></tr>
-<tr><td>– Feststoffe insgesamt:</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>für Heizöle mit einem Schwefelgehalt von höchstens 1 % (Masse):</td><td>mg/m<sup>3</sup></td><td>80</td><td>10</td><td>10</td><td colspan="4">10</td></tr>
-<tr><td>für übrige Heizöle</td><td>mg/m<sup>3</sup></td><td>50</td><td>10</td><td>10</td><td colspan="4">10</td></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td>170</td><td>170</td><td colspan="4">170</td></tr>
-<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td>350</td><td>200</td><td colspan="4">150</td></tr>
-<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td>150</td><td>150</td><td colspan="4">100</td></tr>
-<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak</td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td colspan="4">30</td></tr>
+<tr><th colspan="2"></th><th colspan="4">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="2"></th><th>über 5 MW bis 50 MW</th><th>über 50 MW bis 100 MW</th><th>über 100 MW bis 300 MW</th><th>über 300 MW</th></tr>
+<tr><td>Heizöl «Mittel» und «Schwer»</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Bezugsgrösse:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>– Feststoffe insgesamt:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>für Heizöle mit einem Schwefelgehalt von höchstens 1 % (Masse):</td><td>mg/m<sup>3</sup></td><td>80</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>für übrige Heizöle</td><td>mg/m<sup>3</sup></td><td>50</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td>170</td><td>170</td><td>170</td></tr>
+<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td>350</td><td>200</td><td>150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td>150</td><td>150</td><td>100</td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak</td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
 </table>
 
 <sup>2</sup> Der Emissionsgrenzwert für Schwefeloxide von 1700 mg/m<sup>3</sup> gilt als eingehalten, wenn Heizöl verwendet wird, dessen Schwefelgehalt 1 Prozent (% Masse) nicht überschreitet.
@@ -2526,19 +2526,19 @@ Heizöl «Mittel» und «Schwer» dürfen nicht in Anlagen oder betrieblichen Ei
 <sup>1</sup> Die Emissionen von Feuerungen, die mit Kohle, Kohlebriketts oder Koks betrieben werden, dürfen folgende Werte nicht überschreiten:
 
 <table>
-<tr><th></th><th></th><th colspan="5">Feuerungswärmeleistung</th><th colspan="2"></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>bis 70 kW</th><th>über 70 kW bis 500 kW</th><th>über 500 kW bis 1 MW</th><th>über 1 MW bis 10 MW</th><th colspan="2">über 10 MW bis 100 MW</th><th colspan="5">über 100 MW</th></tr>
-<tr><td>Kohle, Kohlebriketts, Koks</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
-<tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td colspan="2">7</td><td colspan="5">6</td></tr>
-<tr><td>– Feststoffe insgesamt:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td colspan="2">10</td><td colspan="5">10</td></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td colspan="2">150</td><td colspan="5">150</td></tr>
-<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td></tr>
-<tr><td>– Wirbelschichtfeuerungen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td colspan="2">350</td><td colspan="5">200</td></tr>
-<tr><td>– andere Feuerungen bei Einsatz von Steinkohle</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td colspan="2">350</td><td colspan="5">150</td></tr>
-<tr><td>– sonstige Anlagen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td colspan="2">350</td><td colspan="5">150</td></tr>
-<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td colspan="2">200</td><td colspan="5">150</td></tr>
-<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td colspan="2">30</td><td colspan="5">30</td></tr>
-<tr><th colspan="13">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</th></tr>
+<tr><th colspan="2"></th><th colspan="6">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="2"></th><th>bis 70 kW</th><th>über 70 kW bis 500 kW</th><th>über 500 kW bis 1 MW</th><th>über 1 MW bis 10 MW</th><th>über 10 MW bis 100 MW</th><th>über 100 MW</th></tr>
+<tr><td>Kohle, Kohlebriketts, Koks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>6</td></tr>
+<tr><td>– Feststoffe insgesamt:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td>10</td><td>10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td>150</td><td>150</td></tr>
+<tr><td>– Schwefeloxide (SO<sub>x</sub>), angegeben als Schwefeldioxid (SO<sub>2</sub>)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Wirbelschichtfeuerungen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td>350</td><td>200</td></tr>
+<tr><td>– andere Feuerungen bei Einsatz von Steinkohle</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td>350</td><td>150</td></tr>
+<tr><td>– sonstige Anlagen</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td>350</td><td>150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td>200</td><td>150</td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
+<tr><td colspan="8">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
 </table>
 
 <sup>2</sup> Die Behörde legt die vorsorglichen Emissionsbegrenzungen für anorganische, vorwiegend staubförmige Stoffe sowie für Chlor- und Fluorverbindungen nach Artikel 4 fest; Anhang 1 Ziffer 5 sowie die Emissionsbegrenzungen für Chlor- und Fluorverbindungen nach Anhang 1 Ziffer 6 gelten nicht.
@@ -2568,27 +2568,27 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 <sup>1</sup> Die Emissionen von Feuerungen, die mit Holzbrennstoffen nach Anhang 5 Ziffer 31 Absatz 1 betrieben werden, dürfen folgende Werte nicht überschreiten:
 
 <table>
-<tr><td></td><td></td><td colspan="3">Feuerungswärmeleistung</td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><th></th><th></th><th>bis 70 kW</th><th>über 70 kW bis 500 kW</th><th colspan="2">über 500 kW bis 1 MW</th><th colspan="3">über 1 MW bis 10 MW</th><th>über 10 MW</th></tr>
-<tr><td>Holzbrennstoffe</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>13</td><td>13</td><td colspan="2">13</td><td colspan="3">11</td><td>11</td></tr>
-<tr><td>– Für Holzbrennstoffe nach Anhang 5 Ziff. 31 Abs. 1 Bst. a, b oder d Ziffer 1</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– für Zentralheizungs- und Einzelherde sowie gewerblich genutzte Backöfen:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>4000</td><td>4000</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– für Einzelraumfeuerungen<sup>1</sup> und Heizkessel handbeschickt:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>500</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
-<tr><td>– für Heiz- und Dampfkessel automatisch beschickt:</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
-<tr><td>– Für Holzbrennstoffe nach Anh. 5 Ziff. 31 Abs. 1 Bst. c oder d Ziffer 2</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td colspan="2">20</td><td colspan="3">20</td><td>10</td></tr>
-<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td colspan="2">500</td><td colspan="3">250</td><td>150</td></tr>
-<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td colspan="2"><sup>2</sup></td><td colspan="3"><sup>2</sup></td><td>150</td></tr>
-<tr><td>– Gasförmige organische Stoffe, angegeben als Gesamtkohlenstoff</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">–</td><td>50</td></tr>
-<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>3</sup></td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="3">30</td><td>30</td></tr>
-<tr><td colspan="10">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Bei ortsfest gesetzten Grundöfen nach der SN EN 15544 (Ortsfest gesetzte Kachelgrundöfen/Putzgrundöfen – Auslegung)[^annex3-lvlu1-lvl5-lvl52-lvl522-1] gelten ungeachtet ihrer Feuerungswärmeleistung die Emissionsbegrenzungen für Feststoffe und CO bis 70 kW. <sup>2</sup> Siehe Stickoxid-Grenzwert Anhang 1 Ziffer 6. <sup>3</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
+<tr><th colspan="2"></th><th colspan="5">Feuerungswärmeleistung</th></tr>
+<tr><th colspan="2"></th><th>bis 70 kW</th><th>über 70 kW bis 500 kW</th><th>über 500 kW bis 1 MW</th><th>über 1 MW bis 10 MW</th><th>über 10 MW</th></tr>
+<tr><td>Holzbrennstoffe</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>% vol</td><td>13</td><td>13</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– Für Holzbrennstoffe nach Anhang 5 Ziff. 31 Abs. 1 Bst. a, b oder d Ziffer 1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– für Zentralheizungs- und Einzelherde sowie gewerblich genutzte Backöfen:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>4000</td><td>4000</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– für Einzelraumfeuerungen<sup>1</sup> und Heizkessel handbeschickt:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>500</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– für Heiz- und Dampfkessel automatisch beschickt:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Für Holzbrennstoffe nach Anh. 5 Ziff. 31 Abs. 1 Bst. c oder d Ziffer 2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Feststoffe insgesamt</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td>150</td></tr>
+<tr><td>– Gasförmige organische Stoffe, angegeben als Gesamtkohlenstoff</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>3</sup></td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>30</td><td>30</td></tr>
+<tr><td colspan="7">Hinweise: – Die Angabe eines Strichs in der Tabelle bedeutet, dass weder nach Anhang 3 noch nach Anhang 1 eine Begrenzung vorgeschrieben ist. <sup>1</sup> Bei ortsfest gesetzten Grundöfen nach der SN EN 15544 (Ortsfest gesetzte Kachelgrundöfen/Putzgrundöfen – Auslegung)[^annex3-lvlu1-lvl5-lvl52-lvl522-1] gelten ungeachtet ihrer Feuerungswärmeleistung die Emissionsbegrenzungen für Feststoffe und CO bis 70 kW. <sup>2</sup> Siehe Stickoxid-Grenzwert Anhang 1 Ziffer 6. <sup>3</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
 </table>
 
 <sup>2</sup> Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid und bezogen auf einen Sauerstoffgehalt im Abgas von 6 %, dürfen folgende Werte nicht überschreiten:
@@ -2651,15 +2651,15 @@ Bei Staubabscheidesystemen für Anlagen über 70 kW Feuerungswärmeleistung muss
 <sup>1</sup> Die Emissionen von Feuerungen, die mit Gasbrennstoffen betrieben werden, dürfen folgende Werte nicht überschreiten:
 
 <table>
-<tr><th>Feuerungen für Gasbrennstoffe</th><th></th></tr>
-<tr><th>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</th><th>3 % vol</th></tr>
-<tr><th>– Kohlenmonoxid (CO)</th><th>100 mg/m<sup>3</sup></th></tr>
-<tr><th>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>):</th><th></th></tr>
-<tr><th>a. Hellstrahler und Dunkelstrahler</th><th>200 mg/m<sup>3</sup></th></tr>
-<tr><th>b. Anlagen mit einer Heizmediumtemperatur über 110 °C</th><th>110 mg/m<sup>3</sup></th></tr>
-<tr><th>c. Übrige Anlagen</th><th>80 mg/m<sup>3</sup></th></tr>
-<tr><th>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
-<tr><th colspan="2">Hinweise: <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</th></tr>
+<tr><td>Feuerungen für Gasbrennstoffe</td><td></td></tr>
+<tr><td>– Bezugsgrösse: Die Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von</td><td>3 % vol</td></tr>
+<tr><td>– Kohlenmonoxid (CO)</td><td>100 mg/m<sup>3</sup></td></tr>
+<tr><td>– Stickoxide (NO<sub>x</sub>), angegeben als Stickstoffdioxid (NO<sub>2</sub>):</td><td></td></tr>
+<tr><td>a. Hellstrahler und Dunkelstrahler</td><td>200 mg/m<sup>3</sup></td></tr>
+<tr><td>b. Anlagen mit einer Heizmediumtemperatur über 110 °C</td><td>110 mg/m<sup>3</sup></td></tr>
+<tr><td>c. Übrige Anlagen</td><td>80 mg/m<sup>3</sup></td></tr>
+<tr><td>– Ammoniak und Ammoniumverbindungen, angegeben als Ammoniak<sup>1</sup></td><td>30 mg/m<sup>3</sup></td></tr>
+<tr><td colspan="2">Hinweise: <sup>1</sup> Diese Emissionsbegrenzung ist nur für Feuerungsanlagen mit Entstickungseinrichtung von Bedeutung.</td></tr>
 </table>
 
 <sup>2</sup> Abweichend von Absatz 1 dürfen die Emissionen von Feuerungen über 50 MW folgende Werte nicht überschreiten:
@@ -2719,14 +2719,14 @@ Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, s
 
 <sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
 
-G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image4.png)</sub>
+G\_m = G\_1 × (E\_1)/(E\_t o t) + G\_2 × (E\_2 ( 21 − B\_1 ))/(E\_t o t ( 21 − B\_2 )) + ⋯ + G\_n × (E\_n ( 21 − B\_1 ))/(E\_t o t ( 21 − B\_n ))
 
 Dabei bedeuten:
 
 - G<sub>m</sub> = Mischgrenzwert, bezogen auf einen Sauerstoffgehalt B<sub>1</sub>
 - G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = Emissionsgrenzwert für die verschiedenen Brennstoffe[^annex3-lvlu1-lvl8-lvl82-1]
 - E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = Energie, die pro Stunde durch die einzelnen Brennstoffe zugeführt wird
-- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + …. E<sub>n</sub>
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + … E<sub>n</sub>
 - B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = Bezugsgrösse (Sauerstoffgehalt, auf den sich der Emissions-grenzwert für den ersten, den zweiten und die weiteren Brennstoffe bezieht)
 
 <sup>3</sup> Bei der Berechnung des massgebenden Schwefelemissionsgrades ist sinngemäss nach Absatz 2 vorzugehen.
@@ -2770,7 +2770,7 @@ Die Bestimmungen dieses Anhanges gelten für Baumaschinen und deren Partikelfilt
 - a. 97 Prozent der Feststoffpartikel mit einem Durchmesser von 20 bis 300 nm im Neuzustand und nach einem Dauerlauf von 1000 Stunden bei einer typischen Anwendung abscheiden;
 - b. 90 Prozent der Feststoffpartikel während des Regenerationsvorgangs abscheiden;
 - c. über eine elektronische Überwachung verfügen, die funktionsgefährdende Druckverluste aufzeichnet und dabei Alarm auslöst, sowie bei einem Schaden die Zufuhr von Additiven unterbricht;
-- d. bei freier Beschleunigung des Motors den Trübungskoeffizienten von 0,15 m<sup>-1</sup> unterschreiten;
+- d. bei freier Beschleunigung des Motors den Trübungskoeffizienten von 0,15 m<sup>‑1</sup> unterschreiten;
 - e. so gebaut sein, dass ihr Einbau in umgekehrter Durchströmungsrichtung verunmöglicht ist;
 - f. über eine Reinigungs- und Wartungsanleitung verfügen;
 - g. ohne kupferhaltige Zusätze oder katalytische kupferhaltige Beschichtungen im Abgasbehandlungssystem betrieben werden; und
@@ -2828,7 +2828,7 @@ Anhang 5[^t-5]
 
 ## Anforderungen an Brenn- und Treibstoffe
 
-[^t-5]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), I der V vom 25. Aug. 1999 ([AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), II der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 19. Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Siehe auch UeB Änd. 19.9.2008 hiervor.
+[^t-5]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), I der V vom 25. Aug. 1999 ([AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), II der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4 Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 19. Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) und vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 744](https://fedlex.data.admin.ch/eli/oc/2025/744)).
 
 ### 1 Heizöle und andere flüssige Brennstoffe
 
@@ -2955,7 +2955,7 @@ In Gasen nach Ziffer 41 Buchstaben a und b darf der Schwefelgehalt den Wert von 
 <sup>1</sup> Motorenbenzin darf gewerbsmässig nur eingeführt oder in Verkehr gebracht werden, wenn es den folgenden Anforderungen entspricht:
 
 <table>
-<tr><th>Merkmal</th><th>Einheit</th><th>Mindest- wert <sup>a</sup></th><th>Höchst- wert <sup>a</sup></th><th>Prüfverfahren <sup>b</sup></th></tr>
+<tr><th>Merkmal</th><th>Einheit</th><th>Mindestwert <sup>a</sup></th><th>Höchstwert <sup>a</sup></th><th>Prüfverfahren <sup>b</sup></th></tr>
 <tr><td>Motorenbenzin</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Research-Octanzahl, *ROZ*</td><td></td><td>95,0<sup>c</sup></td><td>–</td><td>EN ISO 5164</td></tr>
 <tr><td>– Motor-Octanzahl, *MOZ*</td><td></td><td>85,0<sup>c</sup></td><td>–</td><td>EN ISO 5163</td></tr>
@@ -2975,7 +2975,7 @@ In Gasen nach Ziffer 41 Buchstaben a und b darf der Schwefelgehalt den Wert von 
 <tr><td>– Isopropylalkohol</td><td>% (*V/V*)</td><td>–</td><td>12,0</td><td></td></tr>
 <tr><td>– Tertiärer Butylalkohol</td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
 <tr><td>– Isobutylalkohol</td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
-<tr><td>– Ether (5 oder mehr C-Atome)</td><td>% (*V/V*)</td><td>–</td><td>22,0</td><td></td></tr>
+<tr><td>– Ether (5 oder mehr C‑Atome)</td><td>% (*V/V*)</td><td>–</td><td>22,0</td><td></td></tr>
 <tr><td>– andere sauerstoffhaltige Verbindungen<sup>e</sup></td><td>% (*V/V*)</td><td>–</td><td>15,0</td><td></td></tr>
 <tr><td>– Schwefelgehalt</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 13032, EN ISO 20846, EN ISO 20884</td></tr>
 <tr><td>– Bleigehalt</td><td>mg/l</td><td>–</td><td>5,0</td><td>EN 237</td></tr>
@@ -2986,7 +2986,7 @@ In Gasen nach Ziffer 41 Buchstaben a und b darf der Schwefelgehalt den Wert von 
 <tr><td colspan="5"><sup>e</sup> Andere Monoalkohole und Ether mit einem Siedepunkt nicht höher als 210 °C.</td></tr>
 </table>
 
-<sup>1bis</sup> Wird dem Motorenbenzin Bioethanol beigemischt, so darf im Sommerhalbjahr bis am 30. September 2025 vom Dampfdruck-Höchstwert von 60,0 kPa nach Absatz 1 wie folgt abgewichen werden:
+<sup>1bis</sup> Wird dem Motorenbenzin Bioethanol beigemischt, so darf im Sommerhalbjahr bis am 30. September 2030 vom Dampfdruck-Höchstwert von 60,0 kPa nach Absatz 1 wie folgt abgewichen werden:
 
 <table>
 <tr><td>Bioethanolgehalt</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
@@ -3044,7 +3044,7 @@ S = Rechenwert nach Ziffer 9.
 
 <sup>2</sup> Die Grössen Q und F sind von den Emissionsbedingungen der Anlage abhängig. Für die Berechnung von H<sub>0</sub> werden die Werte bei Volllast und die für die Luftreinhaltung ungünstigsten Brennstoff- bzw. Emissionsbedingungen eingesetzt.
 
-<sup>3</sup> Mit der Grösse S werden die von der Anlage verursachten maximalen Kurzzeit-Immissionen auf einen bestimmten Wert (S-Wert) begrenzt. Für die Berechnung von H<sub>0</sub> werden die S-Werte nach Ziffer 9 eingesetzt.
+<sup>3</sup> Mit der Grösse S werden die von der Anlage verursachten maximalen Kurzzeit-Immissionen auf einen bestimmten Wert (S‑Wert) begrenzt. Für die Berechnung von H<sub>0</sub> werden die S‑Werte nach Ziffer 9 eingesetzt.
 
 ### 32 Bestimmung von H<sub>0</sub> im Einzelfall
 
@@ -3111,11 +3111,11 @@ I (m) = Höhe des höchsten massgeblichen Hindernisbereiches
 
 I<sub>1</sub> (m) = Höhenzuschlag für Bebauung und Bewuchs
 
-f (–) = Korrekturfaktor für Langzeiteinwirkungen infolge Windkanalisie rung
+f (–) = Korrekturfaktor für Langzeiteinwirkungen infolge Windkanalisierung
 
 g (–) = Korrekturfaktor für Bebauung und Bewuchs
 
-Q (g/h) = Massenstrom des emittierten luftverunreinigenden Stoffes; Emis sionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid) werden auf Stickstoffdioxid umgerechnet
+Q (g/h) = Massenstrom des emittierten luftverunreinigenden Stoffes; Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid) werden auf Stickstoffdioxid umgerechnet
 
 R<sub>n</sub> (m<sup>3</sup>/h) = Volumenstrom des Abgases im Normzustand (0 °C, 1013 mbar)
 
@@ -3159,15 +3159,15 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image2.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image3.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/de/xml/image/image7.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/de/xml/image/image4.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 
@@ -3195,7 +3195,7 @@ Anhang 7[^t-7]
 <tr><td>Schwebestaub (PM10)<sup>a</sup></td><td>20 µg/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
 <tr><td></td><td>50 µg/m<sup>3</sup></td><td>24-h-Mittelwert; darf höchstens dreimal pro Jahr überschritten werden</td></tr>
 <tr><td>Schwebestaub (PM2.5)<sup>b</sup></td><td>10 µg/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
-<tr><td>Blei (Pb) im Schwebestaub (PM10)</td><td>500 ng /m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
+<tr><td>Blei (Pb) im Schwebestaub (PM10)</td><td>500 ng/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
 <tr><td>Cadmium (Cd) im Schwebestaub (PM10)</td><td>1,5 ng/m<sup>3</sup></td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
 <tr><td>Staubniederschlag insgesamt</td><td>200 mg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
 <tr><td>Blei (Pb) im Staubniederschlag</td><td>100 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>

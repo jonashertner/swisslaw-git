@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2025-09-01
+version: 2026-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250901-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,13 +19,13 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Last amended on 1 September 2025)
+of 16 December 1985 (Last amended on 1 January 2026)
 
 The Swiss Federal Council,
 
 on the basis of Articles 12, 13, 16 and 39 of the Federal Act of 7 October 1983[^ingress-1] on the Protection of the Environment (the Act),
 
-ordains:1 Se
+ordains:
 
 [^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
@@ -285,7 +285,7 @@ The measurement or inspection is generally to be repeated as follows, without pr
 In the case of continuous measurements, emission limit values shall be regarded as having been complied with if, within a calendar year:
 
 - a. none of the daily mean values exceeds the emission limit value;
-- b. 97% of all the hourly mean values are no more than 1.2 times the limit value; and
+- b. 97 % of all the hourly mean values are no more than 1.2 times the limit value; and
 - c. none of the hourly mean values is more than twice the limit value.
 
 <sup>5</sup> The authorities shall take account of the particular circumstances when assessing emissions during start-up and shut-down periods.
@@ -335,7 +335,7 @@ If vehicles or transport infrastructure have been shown or are expected to cause
 
 <sup>1</sup> Machines and equipment for use on construction sites with internal combustion compression-ignition engines having a power output of more than 18 kW (construction machines) shall comply with the requirements specified in Annex 4 Number 3.
 
-<sup>2</sup> ...[^19a-1]
+<sup>2</sup> …[^19a-1]
 
 <sup>3</sup> Construction machines are only to be operated with a particle filter system whose conformity with the requirements specified in Annex 4 Numbers 32 and 33 has been demonstrated.
 
@@ -377,7 +377,7 @@ Proof of conformity comprises:
 [^19b-3]: Inserted by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Amended by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
-### Section 5 ...
+### Section 5 …
 
 #### Art. 20
 
@@ -421,7 +421,7 @@ Proof of conformity comprises:
 [^20c-1]: See footnote to Art. 19*b* para. 1<sup>bis</sup>.
 [^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
-### Section 5*b* ...
+### Section 5*b* …
 
 #### Art. 20d and 20e
 
@@ -709,7 +709,7 @@ The Ordinance of 10 December 1984[^41-1] on Air Pollution Control Measures for C
 
 <sup>3</sup> In cases of existing excessive ambient air pollution levels, action plans shall be prepared in accordance with Article 31 within three years after the commencement of this Ordinance.
 
-### Section 3*a* *...*
+### Section 3*a* …
 
 #### Art. 42a
 
@@ -759,7 +759,7 @@ This Ordinance comes into force on 1 March 1986.
 
 <sup>1</sup> Notwithstanding Article 10, the authority shall grant time limits of six to ten years for the retrofitting of installations that become subject to mandatory retrofitting under the Amendment of 23 June 2004, but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
-<sup>2</sup> ...[^u5-2]
+<sup>2</sup> …[^u5-2]
 
 <sup>3</sup> Petrol and diesel oil which meet the existing requirements under Annex 5 of this Ordinance[^u5-3] may be placed on the market from licensed storage stocks, compulsory stocks and army stocks until 31 December 2008.
 
@@ -850,8 +850,8 @@ Notwithstanding Article 10, the authority shall grant time limits of ten years f
 <sup>3</sup> The emission limit values in accordance with paragraph 1 apply until 31 March 2023.
 
 <table>
-<tr><th>– Carbon monoxide (CO)</th><th>[tab] 170 mg/m<sup>3</sup></th></tr>
-<tr><th>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide</th><th>[tab] 250 mg/m<sup>3</sup></th></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>[tab] 170 mg/m<sup>3</sup></td></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide</td><td>[tab] 250 mg/m<sup>3</sup></td></tr>
 </table>
 
 Annex 1[^t-1]
@@ -887,7 +887,7 @@ Emissions are expressed in the following terms:
 - a. Concentration: Mass of emitted substance in relation to the volume of flue gas (e.g. in milligrams per cubic metre [mg/m<sup>3</sup>]);
 - b. Mass flow: Mass of emitted substance per unit time (e.g. in grams per hour [g/h]);
 - c. Emission factor: Ratio of the mass of emitted substance to the mass of the products generated or processed (e.g. in kilograms per tonne [kg/t]);
-- d. Emission ratio: Ratio of the mass of an air polluting substance emitted to the mass of that substance supplied to the installation in fuels and feedstock (in % (m/m);
+- d. Emission ratio: Ratio of the mass of an air polluting substance emitted to the mass of that substance supplied to the installation in fuels and feedstock (in % [m/m]);
 - e. Smoke number: The degree of filter blackening caused by flue gases. The grey scale used to determine the Bacharach smoke number ranges from 0 to 9 in unit steps.
 
 ### 23 Reference value for emission concentrations
@@ -973,7 +973,7 @@ The requirements specified in Numbers 5, 7 and 8 apply to the limitation of emis
 
 <table>
 <tr><th>Substance</th><th></th><th>Expressed as</th><th>Class</th></tr>
-<tr><td>Antimony<sup>1</sup></td><td>and its compounds</td><td>Sb</td><td>3</td></tr>
+<tr><td>Antimony1</td><td>and its compounds</td><td>Sb</td><td>3</td></tr>
 <tr><td>Arsenic<sup>1</sup></td><td>and its compounds, except arsine</td><td>As</td><td>2</td></tr>
 <tr><td>Chromium<sup>1</sup></td><td>and its compounds</td><td>Cr</td><td>3</td></tr>
 <tr><td>Cobalt<sup>1</sup></td><td>and its compounds</td><td>Co</td><td>2</td></tr>
@@ -993,8 +993,7 @@ The requirements specified in Numbers 5, 7 and 8 apply to the limitation of emis
 <tr><td>Thallium</td><td>and its compounds</td><td>Tl</td><td>1</td></tr>
 <tr><td>Tin</td><td>and its compounds</td><td>Sn</td><td>3</td></tr>
 <tr><td>Vanadium</td><td>and its compounds</td><td>V</td><td>3</td></tr>
-<tr><td colspan="4"><sup>1</sup> If not listed as a carcinogenic compound under Number 8.</td></tr>
-<tr><td colspan="4"><sup>2</sup> If readily soluble.</td></tr>
+<tr><td colspan="4"><sup>1</sup> If not listed as a carcinogenic compound under Number 8. <sup>2</sup> If readily soluble.</td></tr>
 </table>
 
 ### 6 Inorganic substances in gaseous or vaporous form
@@ -1054,7 +1053,7 @@ The emission concentration of any of the substances listed in Number 62 must not
 
 <sup>6</sup> Emissions of substances which are classified as ozone depleting substances in Annex 1.4 of the Ordinance of 18 May 2005[^annex1-lvlu1-lvl7-lvl71-2] on Chemical Risk Reduction, but which are not listed as Class 1 substances in the Table under Number 72, must be controlled in accordance with paragraph 1 letter a. This is without prejudice to the provisions of Number 8.
 
-[^annex1-lvlu1-lvl7-lvl71-1]: Substances for which there is good cause to believe that they are carcinogenic means in particular those substances contained in Section III of the «List of MAK and BAT Values» (Maximum Concentrations and Biological Tolerance Values at the Workplace) issued by the German Research Foundation (DFG). Available from: VCH Verlags-AG, Postfach, CH-4020 Basel.
+[^annex1-lvlu1-lvl7-lvl71-1]: Substances for which there is good cause to believe that they are carcinogenic means in particular those substances contained in Section III of the «List of MAK and BAT Values» (Maximum Concentrations and Biological Tolerance Values at the Workplace) issued by the German Research Foundation (DFG). Available from: VCH Verlags-AG, Postfach, CH‑4020 Basel.
 [^annex1-lvlu1-lvl7-lvl71-2]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 ### 72 Table of organic substances in gaseous, vaporous or particulate form
@@ -1284,111 +1283,61 @@ Annex 2[^t-2]
 
 ## Additional or different emission limitation requirements for particular installations
 
-[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), No I of the O of 16 Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) and of 12 Feb. 2020, in force since 1 Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)No III). The correction of 1 Sept. 2025 relates to the French and Italian texts only ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). See also the transitional provision to the Amendment of 12 Feb. 2020 above.
+[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), the correction of 30 Nov. 2021 ([AS 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), No I of the O of 16 Nov. 2022 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) and of 12 Feb. 2020, in force since 1 Jan. 2024 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)No III). The correction of 1 Sept. 2025 relates to the French and Italian texts only ([AS 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). See also the transitional provision to the Amendment of 12 Feb. 2020 above.
 
 ### Contents
 
-1 Non-metallic mineral products
-
-11 Cement and lime kilns
-
-12 Installations for firing ceramic products using clay
-
-13 Installations for the production of glass
-
-14 Asphalt mixing plants
-
-2 Chemistry
-
-21 Installations for the production of sulphuric acid
-
-22 Installations using the Claus process
-
-23 Installations for the production of chlorine
-
-24 Installations for the production of 1,2-dichloroethane and vinyl chloride
-
-25 ...
-
-26 Production and packaging of plant protection products
-
-27 Installations for the production of carbon black
-
-28 Installations for the production of carbon (hard-burnt coal) or electrographite by means of incineration
-
-29 Installations for the production of nitric acid
-
-3 Mineral oil industry
-
-31 Refineries
-
-32 Large storage tank installations
-
-33 Installations for transshipment of petrol
-
-4 Metals
-
-41 Foundries
-
-42 Cupolas
-
-43 Aluminium smelters
-
-44 Installations for refining non-ferrous metals
-
-45 Galvanising installations
-
-46 Installations for the production of lead-acid batteries
-
-47 Heating furnaces and heat treatment furnaces
-
-48 Electric steel plants
-
-5 Agriculture and foodstuffs
-
-51 Stock rearing
-
-52 Smoking installations
-
-53 Installations for rendering and for dung drying
-
-54 Installations for drying green fodder
-
-55 Installations for the storage and spreading of liquid farm manure
-
-56 Installations for roasting coffee and cocoa
-
-6 Coating and printing
-
+- **1** **Non-metallic mineral products**
+- 11 Cement and lime kilns
+- 12 Installations for firing ceramic products using clay
+- 13 Installations for the production of glass
+- 14 Asphalt mixing plants
+- **2** **Chemistry**
+- 21 Installations for the production of sulphuric acid
+- 22 Installations using the Claus process
+- 23 Installations for the production of chlorine
+- 24 Installations for the production of 1,2-dichloroethane and vinyl chloride
+- 25 …
+- 26 Production and packaging of plant protection products
+- 27 Installations for the production of carbon black
+- 28 Installations for the production of carbon (hard-burnt coal) or electrographite by means of incineration
+- 29 Installations for the production of nitric acid
+- **3** **Mineral oil industry**
+- 31 Refineries
+- 32 Large storage tank installations
+- 33 Installations for transshipment of petrol
+- **4** **Metals**
+- 41 Foundries
+- 42 Cupolas
+- 43 Aluminium smelters
+- 44 Installations for refining non-ferrous metals
+- 45 Galvanising installations
+- 46 Installations for the production of lead-acid batteries
+- 47 Heating furnaces and heat treatment furnaces
+- 48 Electric steel plants
+- **5** **Agriculture and foodstuffs**
+- 51 Stock rearing
+- 52 Smoking installations
+- 53 Installations for rendering and for dung drying
+- 54 Installations for drying green fodder
+- 55 Installations for the storage and spreading of liquid farm manure
+- 56 Installations for roasting coffee and cocoa
+- **6** **Coating and printing**
 - 61 Installations for coating and printing with organic substances
-
-7 Waste
-
-71 Installations for incineration of municipal and special waste
-
-72 Installations for incineration of waste wood, paper and similar waste
-
-73 Installations for incineration of sulphite waste liquor from pulp manufacture
-
-74 Installations for incineration of biogenic waste and products of agriculture
-
-8 Other installations
-
-81 Installations in which products are treated by direct contact with furnace flue gases
-
-82 Stationary internal combustion engines
-
-83 Gas turbines
-
-84 Installations for the production of wood particle board and wood fibre board
-
-85 Dry cleaning (clothes)
-
-86 Crematoria
-
-87 Surface treatment installations
-
-88 Construction sites
+- **7** **Waste**
+- 71 Installations for incineration of municipal and special waste
+- 72 Installations for incineration of waste wood, paper and similar waste
+- 73 Installations for incineration of sulphite waste liquor from pulp manufacture
+- 74 Installations for incineration of biogenic waste and products of agriculture
+- **8** **Other installations**
+- 81 Installations in which products are treated by direct contact with furnace flue gases
+- 82 Stationary internal combustion engines
+- 83 Gas turbines
+- 84 Installations for the production of wood particle board and wood fibre board
+- 85 Dry cleaning (clothes)
+- 86 Crematoria
+- 87 Surface treatment installations
+- 88 Construction sites
 
 ### 1 Non-metallic mineral products
 
@@ -1404,7 +1353,7 @@ Annex 2[^t-2]
 
 ### 111<sup>bis</sup> Reference value
 
-Emission limit values are based on a flue gas oxygen content of 10% (% vol).
+Emission limit values are based on a flue gas oxygen content of 10 % (% vol).
 
 ### 112 Nitrogen oxides and ammonia
 
@@ -1443,7 +1392,7 @@ Emissions of lead and zinc and compounds, expressed as metals, must not exceed 1
 
 ### 118 Dioxins and furans
 
-Emissions of polychlorinated dibenzo-p-dioxins (dioxins) and dibenzofurans (furans) expressed as the sum of the toxicity equivalents in accordance with EN 1948-1[^annex2-lvlu1-lvl1-lvl11-lvl118-1] must not exceed 0.1 ng/m<sup>3</sup>.
+Emissions of polychlorinated dibenzo-p-dioxins (dioxins) and dibenzofurans (furans) expressed as the sum of the toxicity equivalents in accordance with EN 1948‑1[^annex2-lvlu1-lvl1-lvl11-lvl118-1] must not exceed 0.1 ng/m<sup>3</sup>.
 
 [^annex2-lvlu1-lvl1-lvl11-lvl118-1]: This standard may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
@@ -1509,7 +1458,7 @@ Emission limit values are based on the following flue gas oxygen contents:
 - a. container glass: 2.5 kg per tonne of glass produced
 - b. other glass: 6.5 kg per tonne of glass produced
 
-### 134 ...
+### 134 …
 
 ### 135 Sulphur oxides
 
@@ -1567,7 +1516,7 @@ The provisions of this Number apply to installations for the production of sulph
 
 <sup>1</sup> The emission limitation requirement specified for sulphur dioxide in Annex 1 Number 6 does not apply.
 
-<sup>2</sup> Emissions of sulphur dioxide must not exceed 2.6 kg per tonne of 100% sulphuric acid.
+<sup>2</sup> Emissions of sulphur dioxide must not exceed 2.6 kg per tonne of 100 % sulphuric acid.
 
 ### 213 Sulphur trioxide
 
@@ -1580,7 +1529,7 @@ Emissions of sulphur trioxide must not exceed 60 mg/m<sup>3</sup> under constant
 The sulphur emission ratio must not exceed the following limit values:
 
 <table>
-<tr><td>For installations with a production capacity of</td><td>Limit value in % (m/m)</td></tr>
+<tr><th>For installations with a production capacity of</th><th>Limit value in % (m/m)</th></tr>
 <tr><td>less than 20 t/day</td><td>3.0</td></tr>
 <tr><td>20–50 t/day</td><td>2.0</td></tr>
 <tr><td>more than 50 t/day</td><td>0.5</td></tr>
@@ -1610,7 +1559,7 @@ With alkali metal chloride electrolysis by the amalgam process, mercury emission
 
 <sup>2</sup> The emission limitation requirement specified for 1,2-dichloroethane and vinyl chloride in Annex 1 apply irrespective of the mass flows specified therein.
 
-### 25 ...
+### 25 …
 
 ### 26 Production and packaging of plant protection products
 
@@ -1666,7 +1615,7 @@ The provisions of this Number apply to installations for the distillation or ref
 
 ### 312.1 Reference values
 
-<sup>1</sup> The emission limit values are based on a flue gas oxygen content of 3% v/v.
+<sup>1</sup> The emission limit values are based on a flue gas oxygen content of 3 % v/v.
 
 <sup>2</sup> The emission limitation requirements for refinery furnaces are determined by the total rated thermal input of the refinery.
 
@@ -1707,7 +1656,7 @@ Emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide), expressed
 
 <sup>1</sup> Gases from desulphurisation installations and other sources shall be further processed if they simultaneously meet the following conditions:
 
-- a. volume content of hydrogen sulphide more than 0.4%
+- a. volume content of hydrogen sulphide more than 0.4 %
 - b. mass flow of hydrogen sulphide more than 2 t/day
 
 <sup>2</sup> Emissions of hydrogen sulphide in gases which are not further processed must not exceed 10 mg/m<sup>3</sup>.
@@ -1843,7 +1792,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -1865,7 +1814,7 @@ Dust emissions must not exceed a total of 5 mg/m<sup>3</sup>.
 
 ### 483 Dioxins and furans
 
-The emissions of polychlorinated dibenzo-p-dioxins (dioxins) and dibenzofurans (furans) produced in electric arc furnaces expressed as the sum of the toxicity equivalents in accordance with EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], must not exceed 0.1 ng/m<sup>3</sup>.
+The emissions of polychlorinated dibenzo-p-dioxins (dioxins) and dibenzofurans (furans) produced in electric arc furnaces expressed as the sum of the toxicity equivalents in accordance with EN 1948‑1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], must not exceed 0.1 ng/m<sup>3</sup>.
 
 [^annex2-lvlu1-lvl4-lvl48-lvl483-1]: This standard may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
@@ -1887,7 +1836,7 @@ When installations are constructed, the minimum distances from residential areas
 
 Ventilation systems must comply with the recognised rules of ventilation engineering. These include, in particular, the recommendations given in the Swiss Standard on Climatisation of Animal Houses.[^annex2-lvlu1-lvl5-lvl51-lvl513-1]
 
-[^annex2-lvlu1-lvl5-lvl51-lvl513-1]: Available from: Institute of Plant, Animal and Agroecosystem Sciences, Universitätstr.2, CH-8092 Zürich, Switzerland.
+[^annex2-lvlu1-lvl5-lvl51-lvl513-1]: Available from: Institute of Plant, Animal and Agroecosystem Sciences, Universitätstr.2, CH‑8092 Zürich, Switzerland.
 
 ### 514 Ammonia
 
@@ -2013,7 +1962,7 @@ Total dust emissions must not exceed the following limit values:
 
 <sup>2</sup> These emissions shall be expressed as total carbon and at a mass flow of 3 kg/h or more they must not exceed a total of 150 mg/m<sup>3</sup>.
 
-<sup>3</sup> If paints are used which, in addition to water, exclusively contain up to 15% (m/m) ethanol as a solvent, emissions of ethanol must not exceed 300 mg/m<sup>3</sup> at a mass flow of 3 kg/h or more.
+<sup>3</sup> If paints are used which, in addition to water, exclusively contain up to 15 % (m/m) ethanol as a solvent, emissions of ethanol must not exceed 300 mg/m<sup>3</sup> at a mass flow of 3 kg/h or more.
 
 ### 614 Flue gases from drying and stoving installations
 
@@ -2062,9 +2011,9 @@ The provisions of Number 81 also apply to installations in which products are tr
 
 <sup>1</sup> The emission limit values are based on the following flue gas oxygen contents:
 
-- a. Plants for incinerating liquid waste: 3% (v/v)
-- b. Plants for incinerating waste gases alone or together with liquid waste: 3% (v/v)
-- c. Plants for incinerating solid waste alone or together with liquid waste or waste gases: 11% (v/v)
+- a. Plants for incinerating liquid waste: 3 % (v/v)
+- b. Plants for incinerating waste gases alone or together with liquid waste: 3 % (v/v)
+- c. Plants for incinerating solid waste alone or together with liquid waste or waste gases: 11 % (v/v)
 
 <sup>2</sup> For the assessment of emissions, the values obtained shall be averaged over an operating period of several hours.
 
@@ -2132,7 +2081,7 @@ Strong-smelling waste and waste which emits dangerous vapours shall be stored in
 
 ### 722 Reference value
 
-The emission limit values are based on a flue gas oxygen content of 11% (v/v).
+The emission limit values are based on a flue gas oxygen content of 11 % (v/v).
 
 ### 723 Dust
 
@@ -2196,14 +2145,14 @@ For comparison with the emission limit values, the measured emissions shall be a
 Emissions must not exceed the following limit values:
 
 <table>
-<tr><th colspan="2"></th><th></th><th></th><th></th><th colspan="3">Rated thermal input</th></tr>
-<tr><th colspan="4"></th><th></th><th>up to 1 MW</th><th>over 1 MW up to 10 MW</th><th>over 10 MW</th></tr>
-<tr><td>– Reference value:</td><td colspan="4"></td><td></td><td></td><td></td></tr>
-<tr><td>The limit values are based on a flue gas oxygen content of</td><td colspan="4">% (v/v)</td><td>13</td><td>11</td><td>11</td></tr>
-<tr><td>– Total solids:</td><td colspan="4">mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
-<tr><td>– Carbon monoxide (CO)</td><td colspan="4">mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
-<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)<sup>1</sup></td><td colspan="4">mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
-<tr><td colspan="8"><sup>1</sup> At a mass flow of 2500 g/h or more</td></tr>
+<tr><th colspan="2"></th><th colspan="3">Rated thermal input</th></tr>
+<tr><th colspan="2"></th><th>up to 1 MW</th><th>over 1 MW up to 10 MW</th><th>over 10 MW</th></tr>
+<tr><td>– Reference value:</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>The limit values are based on a flue gas oxygen content of</td><td>% (v/v)</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– Total solids:</td><td>mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
+<tr><td colspan="5">[tab] <sup>1</sup> At a mass flow of 2500 g/h or more</td></tr>
 </table>
 
 ### 743 Prohibition on incineration in small installations
@@ -2224,7 +2173,7 @@ Solid biogenic waste and products of agriculture as specified in Number 741 must
 
 ### 821 Reference value
 
-The emission limit values are based on a flue gas oxygen content of 5% (v/v).
+The emission limit values are based on a flue gas oxygen content of 5 % (v/v).
 
 ### 822 Thermal and motor fuels
 
@@ -2241,16 +2190,16 @@ Stationary internal combustion engines may only be operated with gaseous thermal
 <sup>1</sup> Emissions from stationary internal combustion engines must not exceed the following limit values:
 
 <table>
-<tr><th></th><th></th><th colspan="3">Rated thermal input</th><th></th><th></th></tr>
-<tr><th></th><th></th><th>Up to 100 kW</th><th>Over 100 kW</th><th colspan="3">Over 1 MW</th></tr>
-<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
-<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1 letters d and e, if these fuels make up at least 80 % of the fuels used for annual operation</td><td></td><td>1300</td><td>650</td><td colspan="3">300</td></tr>
-<tr><td>– when operating on liquid thermal or motor fuels</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
-<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1</td><td></td><td>250</td><td>150</td><td colspan="3">100</td></tr>
-<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 letters d and e, if these fuels make up at least 80 % of the fuels used for annual operation</td><td></td><td>400</td><td>250</td><td colspan="3">100</td></tr>
-<tr><td>– when operating on liquid thermal or motor fuels</td><td></td><td>400</td><td>250</td><td colspan="3">250</td></tr>
+<tr><th colspan="2"></th><th colspan="3">Rated thermal input</th></tr>
+<tr><th colspan="2"></th><th>Up to 100 kW</th><th>Over 100 kW</th><th>Over 1 MW</th></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td></td></tr>
+<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1</td><td></td><td>650</td><td>300</td><td>300</td></tr>
+<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1 letters d and e, if these fuels make up at least 80 % of the fuels used for annual operation</td><td></td><td>1300</td><td>650</td><td>300</td></tr>
+<tr><td>– when operating on liquid thermal or motor fuels</td><td></td><td>650</td><td>300</td><td>300</td></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td></td></tr>
+<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1</td><td></td><td>250</td><td>150</td><td>100</td></tr>
+<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 letters d and e, if these fuels make up at least 80 % of the fuels used for annual operation</td><td></td><td>400</td><td>250</td><td>100</td></tr>
+<tr><td>– when operating on liquid thermal or motor fuels</td><td></td><td>400</td><td>250</td><td>250</td></tr>
 </table>
 
 <sup>2</sup> When operating a stationary internal combustion engine with a denitrification system, the emissions of ammonia and ammonia compounds, expressed as ammonia, must not exceed 30 mg/m<sup>3</sup>.
@@ -2277,7 +2226,7 @@ For test beds for internal combustion engines, the authorities shall specify pre
 
 ### 831 Reference value
 
-The emission limit values are based on a flue gas oxygen content of 15% (v/v).
+The emission limit values are based on a flue gas oxygen content of 15 % (v/v).
 
 ### 832 Fuels
 
@@ -2292,11 +2241,11 @@ When operating on liquid thermal or motor fuels, soot emissions must not exceed 
 Emissions of carbon monoxide must not exceed the following limit values:
 
 <table>
-<tr><th></th><th></th><th colspan="2">Rated thermal input</th><th></th></tr>
-<tr><th></th><th></th><th>Up to 40 MW</th><th colspan="2">Over 40 MW</th></tr>
-<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
-<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1 or liquid thermal or motor fuels</td><td></td><td>100</td><td colspan="2">35</td></tr>
-<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1 letters d and e, if these fuels make up at least 80 % of the fuels used for annual operation</td><td></td><td>240</td><td colspan="2">35</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Rated thermal input</th></tr>
+<tr><th colspan="2"></th><th>Up to 40 MW</th><th>Over 40 MW</th></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td></tr>
+<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1 or liquid thermal or motor fuels</td><td></td><td>100</td><td>35</td></tr>
+<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1 letters d and e, if these fuels make up at least 80 % of the fuels used for annual operation</td><td></td><td>240</td><td>35</td></tr>
 </table>
 
 ### 835 Sulphur oxides
@@ -2308,11 +2257,11 @@ Emissions of sulphur oxides, expressed as sulphur dioxide, must not exceed 120 m
 <sup>1</sup> Emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide), expressed as nitrogen dioxide, must not exceed the following limit values:
 
 <table>
-<tr><td></td><td></td><td colspan="2">Rated thermal input</td><td></td></tr>
-<tr><td></td><td></td><td>Up to 40 MW</td><td colspan="2">Over 40 MW</td></tr>
-<tr><td>– Nitrogen oxides (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
-<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1</td><td></td><td>40</td><td colspan="2">20</td></tr>
-<tr><td>– when operating on liquid thermal or motor fuels</td><td></td><td>50</td><td colspan="2">40</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Rated thermal input</th></tr>
+<tr><th colspan="2"></th><th>Up to 40 MW</th><th>Over 40 MW</th></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td></tr>
+<tr><td>– when operating on gaseous thermal or motor fuels as specified in Annex 5 Number 41 paragraph 1</td><td></td><td>40</td><td>20</td></tr>
+<tr><td>– when operating on liquid thermal or motor fuels</td><td></td><td>50</td><td>40</td></tr>
 </table>
 
 <sup>2</sup> When operating a gas turbine with a denitrification system, the emissions of ammonia and ammonia compounds, expressed as ammonia, must not exceed 10 mg/m<sup>3</sup>.
@@ -2424,7 +2373,7 @@ Emissions of carbon monoxide must not exceed 50 mg/m<sup>3</sup>.
 
 <sup>2</sup> The emission limit values specified in Annex 1 do not apply to construction machines and construction sites.
 
-*Annex 3*[^t-3]
+Annex 3[^t-3]
 
 (Art. 3 para. 2 let. b)
 
@@ -2455,7 +2404,7 @@ Periodic measurements in accordance with Article 13 paragraph 3 are not required
 
 - a. combustion installations which are operated for less than 100 hours in a calendar year;
 - b. combustion installations with a rated thermal input of less than 12 kW which are used solely to heat individual rooms;
-- [tab] c. and d. ...
+- c. and d. …
 - e. coal-fired local space heaters;
 - f. solid-fuel-fired local space heaters, provided they operate solely on wood fuels as specified in Annex 5 Number 31 paragraph 1 letter a, b or d number 1.
 
@@ -2489,9 +2438,9 @@ Periodic measurements in accordance with Article 13 paragraph 3 are not required
 <tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide</td><td></td></tr>
 <tr><td>a. luminous radiant and tube radiant heaters</td><td>200 mg/m<sup>3</sup></td></tr>
 <tr><td>b. installations with a heating medium temperature of up to 110 °C:</td><td>150 mg/m<sup>3</sup></td></tr>
-<tr><th>c. other installations</th><th>120 mg/m<sup>3</sup></th></tr>
+<tr><td>c. other installations</td><td>120 mg/m<sup>3</sup></td></tr>
 <tr><td>– Ammonia and ammonium compounds, expressed as ammonia<sup>1</sup></td><td>30 mg/m<sup>3</sup></td></tr>
-<tr><th colspan="2">Note: <sup>1</sup> This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</th></tr>
+<tr><td colspan="2">Note: <sup>1</sup> This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
 </table>
 
 <sup>2</sup> Emissions of sulphur oxides are limited by the maximum sulphur content specified in Annex 5 Number 11. The emission limitation requirement specified for sulphur oxides in Annex 1 Number 6 does not apply.
@@ -2502,9 +2451,9 @@ Periodic measurements in accordance with Article 13 paragraph 3 are not required
 
 <sup>1</sup> The authorities may specify less stringent limit values for combustion installations with a heating medium temperature of more than 150 °C in cases where compliance with the limit value of 150 mg/m<sup>3</sup> specified for nitrogen oxides in Number 411 is not technically or operationally feasible, or is economically unacceptable. However, emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed 250 mg/m<sup>3</sup>.
 
-<sup>2</sup> and <sup>3</sup> ...
+<sup>2</sup> and <sup>3</sup> …
 
-### 413 ...
+### 413 …
 
 ### 414 Energy requirements
 
@@ -2533,18 +2482,18 @@ Periodic measurements in accordance with Article 13 paragraph 3 are not required
 <sup>1</sup> Emissions from combustion installations operating on «medium» or «heavy» fuel oil must not exceed the following limit values:
 
 <table>
-<tr><th></th><th></th><th colspan="4">Rated thermal input</th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th>over 5 MW up to 50 MW</th><th>over 50 MW up to 100 MW</th><th>over 100 MW up to 300 MW</th><th colspan="4">over 300 MW</th></tr>
-<tr><td>«Medium» and «heavy» fuel oil</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>– Reference value:</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>The limit values are based on a flue gas oxygen content of</td><td>% vol</td><td>3</td><td>3</td><td>3</td><td colspan="4">3</td></tr>
-<tr><td>– Total solids:</td><td></td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>For heating oils with a sulphur content not exceeding 1 % by mass:</td><td>mg/m<sup>3</sup></td><td>80</td><td>10</td><td>10</td><td colspan="4">10</td></tr>
-<tr><td>For other heating oils</td><td>mg/m<sup>3</sup></td><td>50</td><td>10</td><td>10</td><td colspan="4">10</td></tr>
-<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td>170</td><td>170</td><td colspan="4">170</td></tr>
-<tr><td>– Sulphur oxides (SO<sub>x</sub>), expressed as sulphur dioxide (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td>350</td><td>200</td><td colspan="4">150</td></tr>
-<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td>150</td><td>150</td><td colspan="4">100</td></tr>
-<tr><td>– Ammonia and ammonia compounds, expressed as ammonia</td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td colspan="4">30</td></tr>
+<tr><th colspan="2"></th><th colspan="4">Rated thermal input</th></tr>
+<tr><th colspan="2"></th><th>over 5 MW up to 50 MW</th><th>over 50 MW up to 100 MW</th><th>over 100 MW up to 300 MW</th><th>over 300 MW</th></tr>
+<tr><td>«Medium» and «heavy» fuel oil</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Reference value:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>The limit values are based on a flue gas oxygen content of</td><td>% vol</td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>– Total solids:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>For heating oils with a sulphur content not exceeding 1 % by mass:</td><td>mg/m<sup>3</sup></td><td>80</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>For other heating oils</td><td>mg/m<sup>3</sup></td><td>50</td><td>10</td><td>10</td><td>10</td></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td>170</td><td>170</td><td>170</td><td>170</td></tr>
+<tr><td>– Sulphur oxides (SO<sub>x</sub>), expressed as sulphur dioxide (SO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>1700</td><td>350</td><td>200</td><td>150</td></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>150</td><td>150</td><td>150</td><td>100</td></tr>
+<tr><td>– Ammonia and ammonia compounds, expressed as ammonia</td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
 </table>
 
 <sup>2</sup> The emission limit value of 1700 mg/m<sup>3</sup> for sulphur oxides shall be deemed to be met if heating oil with a sulphur content not exceeding 1 % by mass is used.
@@ -2562,22 +2511,20 @@ Periodic measurements in accordance with Article 13 paragraph 3 are not required
 <sup>1</sup> Emissions from combustion installations which operate on coal, coal briquettes or coke must not exceed the following limit values:
 
 <table>
-<tr><th colspan="3"></th><th></th><th colspan="12">Rated thermal input</th></tr>
-<tr><th colspan="3"></th><th></th><th colspan="2">up to 70 kW</th><th colspan="2">over 70 kW up to 500 kW</th><th colspan="2">over 500 kW up to 1 MW</th><th colspan="2">over 1 MW up to 10 MW</th><th colspan="2">over 10 MW up to 100 MW</th><th colspan="2">over 100 MW</th></tr>
-<tr><td colspan="3">Coal, coal briquettes, coke</td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>– Reference value:</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>The limit values are based on a flue gas oxygen content of</td><td colspan="3">% (v/v)</td><td colspan="2">7</td><td colspan="2">7</td><td colspan="2">7</td><td colspan="2">7</td><td colspan="2">7</td><td colspan="2">6</td></tr>
-<tr><td colspan="2">– Total solids:</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">100</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">20</td><td colspan="2">10</td><td>10</td></tr>
-<tr><td>– Carbon monoxide (CO)</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">2500</td><td colspan="2">1000</td><td colspan="2">1000</td><td colspan="2">150</td><td colspan="2">150</td><td colspan="2">150</td></tr>
-<tr><td>– Sulphur oxides (SO<sub>x</sub>), expressed as sulphur dioxide (SO<sub>2</sub>):</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>– fluidised bed installations</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">350</td><td colspan="2">350</td><td colspan="2">200</td></tr>
-<tr><td>– other coal-fired installations</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1300</td><td colspan="2">350</td><td colspan="2">150</td></tr>
-<tr><td>– other installations</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">1000</td><td colspan="2">350</td><td colspan="2">150</td></tr>
-<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">500</td><td colspan="2">200</td><td colspan="2">150</td></tr>
-<tr><td>– Ammonia and ammonium compounds, expressed as ammonia<sup>1</sup></td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">30</td><td colspan="2">30</td><td colspan="2">30</td><td colspan="2">30</td><td colspan="2">30</td><td colspan="2">30</td></tr>
-<tr><td colspan="16">*Notes:*</td></tr>
-<tr><td colspan="16">– A dash in the table means that no limitations are specified either in Annex 3 or in Annex 1.</td></tr>
-<tr><td colspan="16"><sup>1</sup> This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
+<tr><th colspan="2"></th><th colspan="6">Rated thermal input</th></tr>
+<tr><th colspan="2"></th><th>up to 70 kW</th><th>over 70 kW up to 500 kW</th><th>over 500 kW up to 1 MW</th><th>over 1 MW up to 10 MW</th><th>over 10 MW up to 100 MW</th><th>over 100 MW</th></tr>
+<tr><td colspan="2">Coal, coal briquettes, coke</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Reference value:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>The limit values are based on a flue gas oxygen content of</td><td>% (v/v)</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>6</td></tr>
+<tr><td>– Total solids:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td>10</td><td>10</td></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td>2500</td><td>1000</td><td>1000</td><td>150</td><td>150</td><td>150</td></tr>
+<tr><td>– Sulphur oxides (SO<sub>x</sub>), expressed as sulphur dioxide (SO<sub>2</sub>):</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– fluidised bed installations</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>350</td><td>350</td><td>200</td></tr>
+<tr><td>– other coal-fired installations</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1300</td><td>350</td><td>150</td></tr>
+<tr><td>– other installations</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td>350</td><td>150</td></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td>200</td><td>150</td></tr>
+<tr><td>– Ammonia and ammonium compounds, expressed as ammonia<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
+<tr><td colspan="8">Notes: – A dash in the table means that no limitations are specified either in Annex 3 or in Annex 1. <sup>1</sup> This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
 </table>
 
 <sup>2</sup> The authorities shall specify preventive emission limitation requirements for inorganic substances mainly in the form of dust and also for chlorine and fluorine compounds in accordance with Article 4; Annex 1 Number 5 and the emission limitation requirements specified for chlorine and fluorine compounds in Annex 1 Number 6 do not apply.
@@ -2590,7 +2537,7 @@ The requirements specified in Number 524 apply by analogy to installations in te
 
 ### 513 Use of coal
 
-In combustion installations with a rated thermal input of less than 1 MW, only coal, coal briquettes or coke with a sulphur content not exceeding 1% (m/m) may be used.
+In combustion installations with a rated thermal input of less than 1 MW, only coal, coal briquettes or coke with a sulphur content not exceeding 1 % (m/m) may be used.
 
 ### 52 Wood-fired installations
 
@@ -2607,33 +2554,28 @@ In combustion installations with a rated thermal input of less than 1 MW, only c
 <sup>1</sup> Emissions from combustion installations operating on wood fuels as specified in Annex 5 Number 31 paragraph 1 must not exceed the following limit values:
 
 <table>
-<tr><th colspan="3"></th><th></th><th colspan="10">Rated thermal input</th></tr>
-<tr><th colspan="3"></th><th></th><th colspan="2">up to 70 kW</th><th colspan="2">over 70 kW up to 500 kW</th><th colspan="2">over 500 kW up to 1 MW</th><th colspan="2">over 1 MW up to 10 MW</th><th colspan="2">over 10 MW</th></tr>
-<tr><td>Wood fuels</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>– Reference value:</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td>The limit values are based on a flue gas oxygen content of</td><td colspan="3">% (v/v)</td><td colspan="2">13</td><td colspan="2">13</td><td colspan="2">13</td><td colspan="2">11</td><td colspan="2">11</td></tr>
-<tr><td colspan="2">– For wood fuels as specified in Annex 5 No 31 para. 1 let. a, b or d Number 1</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">– for central heating and residential cookers and commercially used baking ovens:</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">– Total solids</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">100</td><td colspan="2">50</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td colspan="2">– Carbon monoxide (CO)</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">4000</td><td colspan="2">4000</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td colspan="2">– for hand-stoked local space heaters<sup>1</sup> and boilers:</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td>– Total solids:</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">100</td><td colspan="2">50<sup>a</sup></td><td colspan="2">20</td><td colspan="2">20</td><td colspan="2">10</td></tr>
-<tr><td>– Carbon monoxide (CO):</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">2500</td><td colspan="2">500</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">– for automatically stoked hot water and steam boilers:</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">– Total solids</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">50</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">20</td><td>10</td></tr>
-<tr><td colspan="2">– Carbon monoxide (CO)</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">1000</td><td colspan="2">500</td><td colspan="2">500</td><td colspan="2">250</td><td>150</td></tr>
-<tr><td>– for wood fuels as specified in Annex 5 Number 31 paragraph 1 letters c or d number 2</td><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">– Total solids</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">50</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">20</td><td>10</td></tr>
-<tr><td colspan="2">– Carbon monoxide (CO)</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">1000</td><td colspan="2">500</td><td colspan="2">500</td><td colspan="2">250</td><td>150</td></tr>
-<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2"><sup>c</sup></td><td colspan="2"><sup>c</sup></td><td colspan="2"><sup>c</sup></td><td colspan="2"><sup>c</sup></td><td colspan="2">150</td></tr>
-<tr><td>– Gaseous organic substances, expressed as total carbon (C)</td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">50</td></tr>
-<tr><td>– Ammonia and ammonium compounds, expressed as ammonia<sup>3</sup></td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="2">30</td></tr>
-<tr><td colspan="14">[tab] *Notes:*</td></tr>
-<tr><td colspan="14">– A dash in the table means that no limitations are specified either in Annex 3 or in Annex 1.</td></tr>
-<tr><td colspan="14"><sup>1</sup> In the case of one off basic stoves as specified in SN EN 15544 (one off tiled/mortared stoves – dimensioning)[^annex3-lvlu1-lvl5-lvl52-lvl522-1] the emission limits for solids and CO apply up to 70 kW irrespective of their rated thermal input.</td></tr>
-<tr><td colspan="14"><sup>2</sup> Does not apply to central heating cookers.</td></tr>
-<tr><td colspan="14"><sup>3</sup> See the limit value specified for nitrogen oxides in Annex 1 Number 6.</td></tr>
-<tr><td colspan="14"><sup>4</sup> This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
+<tr><th colspan="2"></th><th colspan="5">Rated thermal input</th></tr>
+<tr><th colspan="2"></th><th>up to 70 kW</th><th>over 70 kW up to 500 kW</th><th>over 500 kW up to 1 MW</th><th>over 1 MW up to 10 MW</th><th>over 10 MW</th></tr>
+<tr><td>Wood fuels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Reference value:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>The limit values are based on a flue gas oxygen content of</td><td>% (v/v)</td><td>13</td><td>13</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>– For wood fuels as specified in Annex 5 No 31 para. 1 let. a, b or d Number 1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– for central heating and residential cookers and commercially used baking ovens:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Total solids</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td>4000</td><td>4000</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– for hand-stoked local space heaters<sup>1</sup> and boilers:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Total solids:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50<sup>a</sup></td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Carbon monoxide (CO):</td><td>mg/m<sup>3</sup></td><td>2500</td><td>500</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>– for automatically stoked hot water and steam boilers:</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Total solids</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– for wood fuels as specified in Annex 5 Number 31 paragraph 1 letters c or d number 2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Total solids</td><td>mg/m<sup>3</sup></td><td>50</td><td>50</td><td>20</td><td>20</td><td>10</td></tr>
+<tr><td>– Carbon monoxide (CO)</td><td>mg/m<sup>3</sup></td><td>1000</td><td>500</td><td>500</td><td>250</td><td>150</td></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>c</sup></td><td><sup>c</sup></td><td><sup>c</sup></td><td><sup>c</sup></td><td>150</td></tr>
+<tr><td>– Gaseous organic substances, expressed as total carbon (C)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
+<tr><td>– Ammonia and ammonium compounds, expressed as ammonia<sup>3</sup></td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>30</td><td>30</td></tr>
+<tr><td colspan="7">Notes: – A dash in the table means that no limitations are specified either in Annex 3 or in Annex 1. <sup>1</sup> In the case of one off basic stoves as specified in SN EN 15544 (one off tiled/mortared stoves – dimensioning)[^annex3-lvlu1-lvl5-lvl52-lvl522-1] the emission limits for solids and CO apply up to 70 kW irrespective of their rated thermal input. <sup>2</sup> Does not apply to central heating cookers. <sup>3</sup> See the limit value specified for nitrogen oxides in Annex 1 Number 6. <sup>4</sup> This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
 </table>
 
 <sup>2</sup> Emissions of sulphur oxides, expressed as sulphur dioxide and based on a flue gas oxygen content of 6 %, must not exceed the following values:
@@ -2696,16 +2638,16 @@ In the case of dust removal systems for installations with a rated thermal input
 Emissions from combustion installations operating on gaseous fuels must not exceed the following limit values:
 
 <table>
-<tr><td colspan="3">Combustion installations for gaseous fuels</td></tr>
-<tr><td colspan="2">– Reference value:</td><td></td></tr>
-<tr><td colspan="2">The limit values are based on a flue gas oxygen content of</td><td>3% (v/v)</td></tr>
-<tr><td colspan="2">– Carbon monoxide (CO):</td><td>100 mg/m<sup>3</sup></td></tr>
-<tr><td colspan="2">– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>):</td><td></td></tr>
-<tr><th>a. luminous radiant and tube radiant heaters</th><th colspan="2">200 mg/m<sup>3</sup></th></tr>
-<tr><th>b. installations with a heating medium temperature of over 110 °C</th><th colspan="2">110 mg/m<sup>3</sup></th></tr>
-<tr><th>c. Other installations</th><th colspan="2">80 mg/m<sup>3</sup></th></tr>
-<tr><td colspan="2">– Ammonia and ammonium compounds, expressed as ammonia<sup>1</sup></td><td>30 mg/m<sup>3</sup></td></tr>
-<tr><td colspan="3"><sup>1</sup> *Note:* This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
+<tr><td colspan="2">Combustion installations for gaseous fuels</td></tr>
+<tr><td>– Reference value:</td><td></td></tr>
+<tr><td>The limit values are based on a flue gas oxygen content of</td><td>3% (v/v)</td></tr>
+<tr><td>– Carbon monoxide (CO):</td><td>100 mg/m<sup>3</sup></td></tr>
+<tr><td>– Nitrogen oxides (NO<sub>x</sub>), expressed as nitrogen dioxide (NO<sub>2</sub>):</td><td></td></tr>
+<tr><td>a. luminous radiant and tube radiant heaters</td><td>200 mg/m<sup>3</sup></td></tr>
+<tr><td>b. installations with a heating medium temperature of over 110 °C</td><td>110 mg/m<sup>3</sup></td></tr>
+<tr><td>c. Other installations</td><td>80 mg/m<sup>3</sup></td></tr>
+<tr><td>– Ammonia and ammonium compounds, expressed as ammonia<sup>1</sup></td><td>30 mg/m<sup>3</sup></td></tr>
+<tr><td colspan="2"><sup>1</sup> *Note:* This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
 </table>
 
 <sup>2</sup> In derogation from paragraph 1, emissions from installations of over 50 MW must not exceed the following values:
@@ -2732,13 +2674,13 @@ Emissions from combustion installations operating on gaseous fuels must not exce
 
 <sup>1</sup> The flue gas losses from furnaces and boilers must not exceed the following limit values:
 
-- a. For forced draught burners with single-stage operation and for gas burners 7%
+- a. For forced draught burners with single-stage operation and for gas burners 7 %
 - b.
 
   For forced draught burners with two-stage operation:
 
-  - 1\. during first-stage operation 6%
-  - 2\. during second-stage operation 8%
+  - 1\. during first-stage operation 6 %
+  - 2\. during second-stage operation 8 %
 
 <sup>1bis</sup> Flue gas losses from boilers used to heat rooms or water that are commissioned from 1 January 2019 must not exceed 4 per cent.
 
@@ -2765,21 +2707,21 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image2.png)
+G\_m = G\_1 × (E\_1)/(E\_t o t) + G\_2 × (E\_2 ( 21 − B\_1 ))/(E\_t o t ( 21 − B\_2 )) + ⋯ + G\_n × (E\_n ( 21 − B\_1 ))/(E\_t o t ( 21 − B\_n ))
 
 where:
 
 - G<sub>m</sub> = composite limit value based on the oxygen content B<sub>1</sub>
-- G<sub>1</sub>, G<sub>2</sub> ... G<sub>n</sub> = emission limit value for the various fuels[^annex3-lvlu1-lvl8-lvl82-1]
-- E<sub>1</sub>, E<sub>2</sub> ... E<sub>n</sub> = energy supplied per hour by the individual fuels
-- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + .... E<sub>n</sub>
-- B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub> = reference value (oxygen content on which the emission limit value for the first, second and subsequent fuels is based)
+- G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = emission limit value for the various fuels[^annex3-lvlu1-lvl8-lvl82-1]
+- E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = energy supplied per hour by the individual fuels
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + … E<sub>n</sub>
+- B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = reference value (oxygen content on which the emission limit value for the first, second and subsequent fuels is based)
 
 <sup>3</sup> To calculate the relevant sulphur emission ratio, the method described in paragraph 2 shall be adopted *mutatis mutandis*.
 
 [^annex3-lvlu1-lvl8-lvl82-1]: *Note*: The following shall be taken as the emission limit values for sulphur dioxides: a. for «extra light» heating oil: G = 330 mg/m<sup>3</sup>, based on a flue gas oxygen content of 3% (v/v); b. for gas: G = 38 mg/m<sup>3</sup>, based on a flue gas oxygen content of 3% (v/v).
 
-*Annex 4*[^t-4]
+Annex 4[^t-4]
 
 (Art. 3 para. 2 let. c)
 
@@ -2816,7 +2758,7 @@ The provisions of this Annex apply construction machines and particle filter sys
 - a. filter 97 % of solid particles with a diameter of 20–300 nm when new and after 1000 hours of operation in a typical application (endurance test);
 - b. filter 90 % of solid particles during regeneration;
 - c. have an electronic on board control unit which records pressure losses that could compromise function and issues an alarm, and which switches off additive dosage in the event of filter damage;
-- d. have an opacity coefficient of less than 0.15 m<sup>-1</sup> during free acceleration of the engine;
+- d. have an opacity coefficient of less than 0.15 m<sup>–1</sup> during free acceleration of the engine;
 - e. be designed in such a way that it is impossible for the filter element to be installed in the reverse direction;
 - f. be supplied with cleaning and maintenance instructions;
 - g. be operated without additives containing copper or catalytic coatings containing copper in the exhaust treatment system; and
@@ -2868,13 +2810,13 @@ The provisions of this Annex apply construction machines and particle filter sys
 
 <sup>2</sup> Machines and equipment with internal combustion engines need not be inspected periodically in accordance with Article 13 paragraph 3. The authority shall carry out random checks of the results of exhaust emission maintenance. If there is any suspicion of excessive solid particle emissions, it may order further exhaust emission maintenance.
 
-*Annex 5*[^t-5]
+Annex 5[^t-5]
 
 (Art. 21 and 24)
 
 ## Requirements for thermal and motor fuels
 
-[^t-5]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), No I of the O of 25 Aug. 1999 ([AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), No II of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 19 Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) and No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). See also the Transitional Provisions of the Amendment of 19 Sept. 2008 above.
+[^t-5]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), No I of the O of 25 Aug. 1999 ([AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), No II of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 19 Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) and of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 744](https://fedlex.data.admin.ch/eli/oc/2025/744)).
 
 ### 1 Heating oils and other liquid fuels
 
@@ -3001,11 +2943,11 @@ The sulphur content of gases as specified in Number 41 letters a and b must not 
 <sup>1</sup> Petrol may only be imported or placed on the market if it complies with the following requirements:
 
 <table>
-<tr><th>Property</th><th>Unit</th><th>Minimum value<sup>a</sup></th><th>Maximum value<sup>a</sup></th><th>Test method<sup>b</sup></th></tr>
+<tr><th>Property</th><th>Unit</th><th>Minimum value <sup>a</sup></th><th>Maximum value <sup>a</sup></th><th>Test method <sup>b</sup></th></tr>
 <tr><td>Petrol</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Research octane number, *RON*</td><td></td><td>95.0<sup>c</sup></td><td>–</td><td>EN ISO 5164</td></tr>
 <tr><td>– Motor octane number, *MON*</td><td></td><td>85.0<sup>c</sup></td><td>–</td><td>EN ISO 5163</td></tr>
-<tr><td>– Vapour pressure (DVPE):</td><td></td><td></td><td></td><td>EN 13016-1</td></tr>
+<tr><td>– Vapour pressure (DVPE):</td><td></td><td></td><td></td><td>EN 13016‑1</td></tr>
 <tr><td>– Six summer months</td><td>kPa</td><td>–</td><td>60.0<sup>d</sup></td><td></td></tr>
 <tr><td>– Distillation characteristics:</td><td></td><td></td><td></td><td>EN ISO 3405</td></tr>
 <tr><td>– evaporated at 100 °C</td><td>% *(V/V)*</td><td>46.0</td><td>–</td><td></td></tr>
@@ -3022,10 +2964,6 @@ The sulphur content of gases as specified in Number 41 letters a and b must not 
 <tr><td>– *tert*-Butyl alcohol</td><td>% *(V/V)*</td><td>–</td><td>15.0</td><td></td></tr>
 <tr><td>– Isobutyl alcohol</td><td>% *(V/V)*</td><td>–</td><td>15.0</td><td></td></tr>
 <tr><td>– Ethers (containing 5 or more carbon atoms)</td><td>% *(V/V)*</td><td>–</td><td>22.0</td><td></td></tr>
-</table>
-
-<table>
-<tr><th>Property</th><th>Unit</th><th>Minimum value<sup>a</sup></th><th>Maximum value<sup>a</sup></th><th>Test method<sup>b</sup></th></tr>
 <tr><td>– Other oxygenates<sup>e</sup></td><td>% *(V/V)*</td><td>–</td><td>15.0</td><td></td></tr>
 <tr><td>– Sulphur content</td><td>mg/kg</td><td>–</td><td>10.0</td><td>EN ISO 20846, EN ISO 20884</td></tr>
 <tr><td>– Lead content</td><td>mg/l</td><td>–</td><td>5.0</td><td>EN 237</td></tr>
@@ -3039,13 +2977,12 @@ The sulphur content of gases as specified in Number 41 letters a and b must not 
 <tr><td colspan="5"><sup>e</sup> Other monoalcohols and ethers having a boiling point not greater than 210 °C</td></tr>
 </table>
 
-<sup>1bis</sup> If bioethanol is added to petrol, the following deviations from the maximum vapour pressure of 60.0 kPa specified in paragraph 1 are permissible during the six summer months, until 30 September 2025:
+<sup>1bis</sup> If bioethanol is added to petrol, the following deviations from the maximum vapour pressure of 60.0 kPa specified in paragraph 1 are permissible during the six summer months, until 30 September 2030:
 
 <table>
 <tr><td>Bioethanol content</td><td>% *(V/V)*</td><td>1.0</td><td>2.0</td><td>3.0</td><td>4.0</td><td>5.0</td><td>6.0</td><td>7.0</td><td>8.0</td><td>9.0</td><td>10.0</td></tr>
 <tr><td>Maximum permissible deviation<sup>a</sup></td><td>kPa</td><td>3.7</td><td>6.0</td><td>7.2</td><td>7.8</td><td>8.0</td><td>8.0</td><td>7.9</td><td>7.9</td><td>7.8</td><td>7.8</td></tr>
-<tr><td colspan="12">Notes:</td></tr>
-<tr><td colspan="12"><sup>a</sup> Intermediate values are obtained by linear interpolation between the value immediately above and the value immediately below the bioethanol content.</td></tr>
+<tr><td colspan="12">Notes: <sup>a</sup> Intermediate values are obtained by linear interpolation between the value immediately above and the value immediately below the bioethanol content.</td></tr>
 </table>
 
 <sup>2</sup> Aviation petrol shall only be imported or placed on the market if the lead content does not exceed 0.56 g/L and the benzene content does not exceed 1 % (*V/V*). Aviation petrol placed on the market shall be dyed blue.
@@ -3055,10 +2992,10 @@ The sulphur content of gases as specified in Number 41 letters a and b must not 
 Diesel oil shall only be imported or placed on the market if it complies with the following requirements:
 
 <table>
-<tr><th>Property</th><th>Unit</th><th>Minimum value<sup>a</sup></th><th>Maximum value<sup>a</sup></th><th>Test method<sup>b</sup></th></tr>
+<tr><th>Property</th><th>Unit</th><th>Minimum value <sup>a</sup></th><th>Maximum value <sup>a</sup></th><th>Test method <sup>b</sup></th></tr>
 <tr><td>Diesel oil</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Cetane number</td><td></td><td>51.0<sup>c</sup></td><td>–</td><td>EN ISO 5165, EN 15195, EN 16144, EN 16715</td></tr>
-<tr><td>– Density at 15°C</td><td>kg/m<sup>3</sup></td><td>–</td><td>845.0</td><td>EN ISO 3675, EN ISO 12185</td></tr>
+<tr><td>– Density at 15 °C</td><td>kg/m<sup>3</sup></td><td>–</td><td>845.0</td><td>EN ISO 3675, EN ISO 12185</td></tr>
 <tr><td>– Distillation characteristics: 95 % (*V/V*) recovered at</td><td>°C</td><td>–</td><td>360</td><td>EN ISO 3405, EN ISO 3924</td></tr>
 <tr><td>– Polycyclic aromatic hydrocarbons</td><td>% (*m/m*)</td><td>–</td><td>8.0</td><td>EN 12916</td></tr>
 <tr><td>– Sulphur content</td><td>mg/kg</td><td>–</td><td>10.0</td><td>EN ISO 20846, EN ISO 20884, EN ISO 13032</td></tr>
@@ -3070,7 +3007,7 @@ Diesel oil shall only be imported or placed on the market if it complies with th
 <tr><td colspan="5"><sup>c</sup> For winter qualities, the cetane number, notwithstanding the value given in this Table, must at least satisfy the requirements of SN EN 590.</td></tr>
 </table>
 
-*Annex 6*[^t-6]
+Annex 6[^t-6]
 
 (Art. 6 para. 3)
 
@@ -3167,9 +3104,7 @@ g (–) = Correction factor for buildings and vegetation
 - Q (g/h) = Mass flow of the emitted air pollutant; emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide) are expressed as nitrogen dioxide
 - R<sub>n</sub> (m<sup>3</sup>/h) = Volume flow of the flue gas under standard conditions (0 °C, 1013 mbar)
 - t (°C) = Flue gas temperature at the stack outlet
-
-Δt (°C) = t–10 °C
-
+- Δt (°C) = t–10 °C
 - F (m<sup>4</sup>/s<sup>3</sup>) = Lift flux; F = 3.18 × 10<sup>–6</sup> × R<sub>n</sub> × Δt
 - S (µg/m<sup>3</sup>) = S value (cf. Numbers 3 and 9)
 
@@ -3204,20 +3139,20 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image2.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image3.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/en/xml/image/image4.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)
 
-*Annex 7*[^t-7]
+Annex 7[^t-7]
 
 (Art. 2 para. 5)
 
@@ -3228,13 +3163,13 @@ Diagram 2
 <table>
 <tr><th>Pollutant</th><th>Ambient air limit value</th><th>Statistical definition</th></tr>
 <tr><td>Sulphur dioxide (SO<sub>2</sub>)</td><td>30 µg/m<sup>3</sup></td><td>Annual average (arithmetic mean)</td></tr>
-<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95% of half-hour means for one year ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95 % of half-hour means for one year ≤ 100 µg/m<sup>3</sup></td></tr>
 <tr><td></td><td>100 µg/m<sup>3</sup></td><td>24-hour mean; must not be exceeded more than once per year</td></tr>
 <tr><td>Nitrogen dioxide (NO<sub>2</sub>)</td><td>30 µg/m<sup>3</sup></td><td>Annual average (arithmetic mean)</td></tr>
-<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95% of half-hour means for one year ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td></td><td>100 µg/m<sup>3</sup></td><td>95 % of half-hour means for one year ≤ 100 µg/m<sup>3</sup></td></tr>
 <tr><td></td><td>80 µg/m<sup>3</sup></td><td>24-hour mean; must not be exceeded more than once per year</td></tr>
 <tr><td>Carbon monoxide (CO)</td><td>8 mg/m<sup>3</sup></td><td>24-hour mean; must not be exceeded more than once per year</td></tr>
-<tr><td>Ozone (O<sub>3</sub>)</td><td>100 µg/m<sup>3</sup></td><td>98% of half-hour means for one month ≤ 100 µg/m<sup>3</sup></td></tr>
+<tr><td>Ozone (O<sub>3</sub>)</td><td>100 µg/m<sup>3</sup></td><td>98 % of half-hour means for one month ≤ 100 µg/m<sup>3</sup></td></tr>
 <tr><td></td><td>120 µg/m<sup>3</sup></td><td>1-hour mean; must not be exceeded more than once per year</td></tr>
 <tr><td>Suspended particulates (PM10)<sup>1</sup></td><td>20 µg/m<sup>a</sup></td><td>Annual average (arithmetic mean)</td></tr>
 <tr><td></td><td>50 µg/m<sup>3</sup></td><td>24-hour mean; must not be exceeded more than once per year</td></tr>
@@ -3246,10 +3181,5 @@ Diagram 2
 <tr><td>Cadmium (Cd) in dust fallout</td><td>2 µg/m<sup>2</sup> × day</td><td>Annual average (arithmetic mean)</td></tr>
 <tr><td>Zinc (Zn) in dust fallout</td><td>400 µg/m<sup>2</sup> × day</td><td>Annual average (arithmetic mean)</td></tr>
 <tr><td>Thallium (Tl) in dust fallout</td><td>2 µg/m<sup>2</sup> × day</td><td>Annual average (arithmetic mean)</td></tr>
-<tr><td colspan="3">Notes:</td></tr>
-<tr><td colspan="3">mg = milligram: 1 mg = 0.001 g</td></tr>
-<tr><td colspan="3">µg = microgram: 1 µg = 0.001 mg</td></tr>
-<tr><td colspan="3">ng = nanogram: 1 ng = 0.001 µg d = day</td></tr>
-<tr><td colspan="3">The sign ≤ means «less than or equal to».</td></tr>
-<tr><td colspan="3"><sup>a</sup> Fine particulate matter with an aerodynamic diameter of less than 10 µm. <sup>b</sup> Fine particulate matter with an aerodynamic diameter of less than 2.5 µm.</td></tr>
+<tr><td colspan="3">Notes: mg = milligram: 1 mg = 0.001 g µg = microgram: 1 µg = 0.001 mg ng = nanogram: 1 ng = 0.001 µg d = day The sign ≤ means «less than or equal to». <sup>a</sup> Fine particulate matter with an aerodynamic diameter of less than 10 µm. <sup>b</sup> Fine particulate matter with an aerodynamic diameter of less than 2.5 µm.</td></tr>
 </table>

@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2025-09-01
+version: 2026-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20250901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20260101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20250901/fr"
 
 (OPair)
 
-du 16 décembre 1985 (État le 1<sup>er</sup> septembre 2025)
+du 16 décembre 1985 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -849,8 +849,8 @@ En dérogation à l’art. 10, l’autorité accorde des délais d’assainissem
 <sup>3</sup> Les valeurs limites d’émission prévues à l’al. 1 s’appliquent jusqu’au 31 mars 2023.
 
 <table>
-<tr><th>– Monoxyde de carbone (CO)</th><th>[tab] 170 mg/m3</th></tr>
-<tr><th>– Oxydes d’azote (NOx), exprimés en dioxyde d’azote</th><th>[tab] 250 mg/m3</th></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>[tab] 170 mg/m3</td></tr>
+<tr><td>– Oxydes d’azote (NOx), exprimés en dioxyde d’azote</td><td>[tab] 250 mg/m3</td></tr>
 </table>
 
 Annexe 1[^t-1]
@@ -976,7 +976,7 @@ Pour la limitation des diverses substances contenues dans les poussières, on ap
 ### 52 Tableau des substances inorganiques essentiellement sous forme de poussières
 
 <table>
-<tr><th>Substance</th><th></th><th>Exprimé en</th><th>Classe</th></tr>
+<tr><th colspan="2">Substance</th><th>Exprimé en</th><th>Classe</th></tr>
 <tr><td>Antimoine <sup>a</sup></td><td>et ses composés</td><td>Sb</td><td>3</td></tr>
 <tr><td>Arsenic <sup>a</sup></td><td>et ses composés, à l’exception de l’hydrogène arsénié</td><td>As</td><td>2</td></tr>
 <tr><td>Chrome <sup>a</sup></td><td>et ses composés</td><td>Cr</td><td>3</td></tr>
@@ -997,8 +997,7 @@ Pour la limitation des diverses substances contenues dans les poussières, on ap
 <tr><td>Tellure</td><td>et ses composés</td><td>Te</td><td>2</td></tr>
 <tr><td>Thallium</td><td>et ses composés</td><td>Tl</td><td>1</td></tr>
 <tr><td>Vanadium</td><td>et ses composés</td><td>V</td><td>3</td></tr>
-<tr><td colspan="4"><sup>a</sup> Pour autant qu’il ne soit pas considéré comme un composé cancérigène au sens du ch. 8.</td></tr>
-<tr><td colspan="4"><sup>b</sup> Pour autant qu’il soit facilement soluble.</td></tr>
+<tr><td colspan="4"><sup>a</sup> Pour autant qu’il ne soit pas considéré comme un composé cancérigène au sens du ch. 8. <sup>b</sup> Pour autant qu’il soit facilement soluble.</td></tr>
 </table>
 
 ### 6 Substances inorganiques sous forme de gaz ou de vapeur
@@ -1091,7 +1090,7 @@ La concentration des émissions d’une des substances figurant au ch. 62 ne doi
 <tr><td>Anhydride maléique</td><td>C<sub>4</sub>H<sub>2</sub>O<sub>3</sub></td><td>1</td></tr>
 <tr><td>Aniline</td><td>C<sub>6</sub>H<sub>7</sub>N</td><td>1</td></tr>
 <tr><td>Benzoate de méthyle</td><td>C<sub>8</sub>H<sub>8</sub>O<sub>2</sub></td><td>3</td></tr>
-<tr><td>Biphényle</td><td>C12H10</td><td>1</td></tr>
+<tr><td>Biphényle</td><td>C<sub>12</sub>H<sub>10</sub></td><td>1</td></tr>
 <tr><td>Bois (v. poussière de bois)</td><td></td><td></td></tr>
 <tr><td>Bromométhane</td><td>CH<sub>3</sub>Br</td><td>1</td></tr>
 <tr><td>2-Butanone</td><td>C<sub>4</sub>H<sub>8</sub>O</td><td>3</td></tr>
@@ -1121,7 +1120,7 @@ La concentration des émissions d’une des substances figurant au ch. 62 ne doi
 <tr><td>Diéthanolamine (v. 2,2’-Iminodiéthanol)</td><td></td><td></td></tr>
 <tr><td>Diéthylamine</td><td>C<sub>4</sub>H<sub>11</sub>N</td><td>1</td></tr>
 <tr><td>Diéthyléther</td><td>C<sub>4</sub>H<sub>10</sub>O</td><td>3</td></tr>
-<tr><td>Di-(2-éthylhexyl)-phtalate</td><td>C24H38O4</td><td>2</td></tr>
+<tr><td>Di-(2-éthylhexyl)-phtalate</td><td>C<sub>24</sub>H<sub>38</sub>O<sub>4</sub></td><td>2</td></tr>
 <tr><td>Diisobutylcétone (v. 2,6-Diméthylheptane-4-one)</td><td></td><td></td></tr>
 <tr><td>Diméthylamine</td><td>C<sub>2</sub>H<sub>7</sub>N</td><td>1</td></tr>
 <tr><td>N,N-Diméthylformamide</td><td>C<sub>3</sub>H<sub>7</sub>NO</td><td>2</td></tr>
@@ -1189,7 +1188,7 @@ La concentration des émissions d’une des substances figurant au ch. 62 ne doi
 <tr><td>Paraffines (v. Alcanes)</td><td></td><td></td></tr>
 <tr><td>Perchloréthène (v. Tétrachloréthène)</td><td></td><td></td></tr>
 <tr><td>Phénol</td><td>C<sub>6</sub>H<sub>6</sub>O</td><td>1</td></tr>
-<tr><td>Pinène</td><td>C10H16</td><td>3</td></tr>
+<tr><td>Pinène</td><td>C<sub>10</sub>H<sub>16</sub></td><td>3</td></tr>
 <tr><td>Poussière de bois, sous forme respirable (sauf le hêtre et le chêne)</td><td></td><td>1</td></tr>
 <tr><td>2-Propénal</td><td>C<sub>3</sub>H<sub>4</sub>O</td><td>1</td></tr>
 <tr><td>Propionaldéhyde (v. Aldéhyde propionique)</td><td></td><td></td></tr>
@@ -1253,7 +1252,7 @@ Sont réputées cancérigènes les substances répertoriées comme telles (ca) d
 <tr><td>1-Chloro-2,3-époxypropane</td><td>C<sub>3</sub>H<sub>5</sub>ClO</td><td>3</td></tr>
 <tr><td>2-Chloro-1,3-butadiène</td><td>C<sub>4</sub>H<sub>5</sub>Cl</td><td>3</td></tr>
 <tr><td>α-Chlorotoluène</td><td>C<sub>7</sub>H<sub>7</sub>Cl</td><td>3</td></tr>
-<tr><td>α-Chlorotoluènes: mélanges d’α-chlorotoluène, d’α, α-dichlorotoluène, d’α, α, α-trichlorotoluène et de chlorure de benzoyle</td><td></td><td>3</td></tr>
+<tr><td>α-Chlorotoluènes: mélanges d’α-chlorotoluène, d’α, α‑dichlorotoluène, d’α, α, α-trichlorotoluène et de chlorure de benzoyle</td><td></td><td>3</td></tr>
 <tr><td>Chlorure de vinyle</td><td>C<sub>2</sub>H<sub>3</sub>Cl</td><td>3</td></tr>
 <tr><td>Composés de chrome (VI) (sous forme respirable) en tant que chromate de calcium, chromate de chrome (III), chromate de strontium et chromate de zinc, exprimés en Cr</td><td>Cr</td><td>2</td></tr>
 <tr><td>Cobalt (sous forme de poussière ou aérosols respirables de cobalt métallique et sels de cobalt peu solubles), exprimés en Co</td><td>Co</td><td>2</td></tr>
@@ -1287,7 +1286,7 @@ Annexe 2[^t-2]
 
 ## Limitation complémentaire et dérogatoire des émissions pour certaines installations spéciales
 
-[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), l’erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), le ch. I des O du 16 nov. 2022 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) , du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)ch. III) et de l’erratum du 1<sup>er</sup> sept. 2025 ([RO 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci-devant.
+[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), l’erratum du 30 nov. 2021 ([RO 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)), le ch. I des O du 16 nov. 2022 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)) , du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)ch. III) et de l’erratum du 1<sup>er</sup> sept. 2025 ([RO 2025 537](https://fedlex.data.admin.ch/eli/oc/2025/537)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci‑devant.
 
 ### Table des matières
 
@@ -1533,7 +1532,7 @@ Les émissions d’anhydride sulfurique ne doivent pas dépasser 60 mg/m<sup>3</
 Le taux d’émission du soufre ne doit pas dépasser les valeurs limites suivantes:
 
 <table>
-<tr><td>Pour les installations dont la capacité de production est de</td><td>Valeur limite en pour-cent (% masse)</td></tr>
+<tr><th>Pour les installations dont la capacité de production est de</th><th>Valeur limite en pour-cent (% masse)</th></tr>
 <tr><td>moins de 20 t/jour</td><td>3,0</td></tr>
 <tr><td>de 20 à 50 t/jour</td><td>2,0</td></tr>
 <tr><td>plus de 50 t/jour</td><td>0,5</td></tr>
@@ -1794,7 +1793,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -1816,7 +1815,7 @@ Les émissions sous forme de poussières ne doivent pas dépasser au total 5 mg/
 
 ### 483 Dioxines et furanes
 
-Les dibenzo-p-dioxines (dioxines) et les dibenzofuranes (furanes) émis par les fours à arc électrique, exprimés en somme des équivalents de toxicité selon la norme EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], ne dépasseront pas 0,1 ng/m<sup>3</sup>.
+Les dibenzo-p-dioxines (dioxines) et les dibenzofuranes (furanes) émis par les fours à arc électrique, exprimés en somme des équivalents de toxicité selon la norme EN 1948‑1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], ne dépasseront pas 0,1 ng/m<sup>3</sup>.
 
 [^annex2-lvlu1-lvl4-lvl48-lvl483-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
@@ -2033,7 +2032,7 @@ Lorsqu’il s’agit d’une installation dans laquelle des produits sont trait�
 - h. ammoniac et composés de l’ammonium, exprimés en ammoniac: 5 mg/m3;
 - i. matières organiques sous forme de gaz, exprimées en carbone total: 20 mg/m3;
 - k. monoxyde de carbone: 50 mg/m3;
-- l. dibenzo-p-dioxines polychlorées (dioxines) et dibenzofuranes (furanes), exprimés en somme des équivalents de toxicité selon la norme EN 1948-1[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: 0,1 ng/m3.
+- l. dibenzo-p-dioxines polychlorées (dioxines) et dibenzofuranes (furanes), exprimés en somme des équivalents de toxicité selon la norme EN 1948‑1[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: 0,1 ng/m3.
 
 <sup>2</sup> Pour les installations présentant une teneur en oxydes d’azote (monoxyde et dioxyde), exprimés en dioxyde d’azote, de 1000 mg/m<sup>3</sup> ou plus dans le gaz brut, l’autorité peut, en dérogation de l’al. 1, let. h, fixer une valeur limite d’émission moins sévère pour l’ammoniac et les composés de l’ammonium.
 
@@ -2150,7 +2149,7 @@ Les émissions ne dépasseront pas les valeurs limites suivantes:
 <tr><th colspan="2"></th><th colspan="3">Puissance calorifique</th></tr>
 <tr><th colspan="2"></th><th>jusqu’à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
 <tr><td>– Grandeur de référence:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>%vol</td><td>13</td><td>11</td><td>11</td></tr>
+<tr><td>les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>13</td><td>11</td><td>11</td></tr>
 <tr><td>– Particules solides au total:</td><td>mg/m<sup>3</sup></td><td>20</td><td>20</td><td>10</td></tr>
 <tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td>500</td><td>250</td><td>150</td></tr>
 <tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>250</td><td>250</td><td>150</td></tr>
@@ -2192,16 +2191,16 @@ Seuls des combustibles et des carburants gazeux au sens de l’annexe 5, ch. 41,
 <sup>1</sup> Les émissions des moteurs à combustion stationnaires ne dépasseront pas les valeurs limites suivantes:
 
 <table>
-<tr><th></th><th></th><th colspan="3">Puissance calorifique</th><th></th><th></th></tr>
-<tr><th></th><th></th><th>jusqu’à 100 kW</th><th>sup. à 100 kW</th><th colspan="3">sup. à 1 MW</th></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, si l’installation fonctionne à 80 % par an, au moins, avec des carburants</td><td></td><td>1300</td><td>650</td><td colspan="3">300</td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>650</td><td>300</td><td colspan="3">300</td></tr>
-<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>250</td><td>150</td><td colspan="3">100</td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, si l’installation fonctionne à 80 % par an, au moins, avec des carburants</td><td></td><td>400</td><td>250</td><td colspan="3">100</td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>400</td><td>250</td><td colspan="3">250</td></tr>
+<tr><th colspan="2"></th><th colspan="3">Puissance calorifique</th></tr>
+<tr><th colspan="2"></th><th>jusqu’à 100 kW</th><th>sup. à 100 kW</th><th>sup. à 1 MW</th></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>650</td><td>300</td><td>300</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, si l’installation fonctionne à 80 % par an, au moins, avec des carburants</td><td></td><td>1300</td><td>650</td><td>300</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>650</td><td>300</td><td>300</td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td><td></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>250</td><td>150</td><td>100</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, si l’installation fonctionne à 80 % par an, au moins, avec des carburants</td><td></td><td>400</td><td>250</td><td>100</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>400</td><td>250</td><td>250</td></tr>
 </table>
 
 <sup>2</sup> Pour les moteurs à combustion stationnaires équipés d’un système de dénitrification, les émissions d’ammoniac et de composés d’ammonium, exprimées en ammoniac, ne dépasseront pas 30 mg/m<sup>3</sup>.
@@ -2243,11 +2242,11 @@ Lors de l’utilisation de combustibles et de carburants liquides, les émission
 Les émissions de monoxyde de carbone ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><td></td><td></td><td colspan="2">Puissance calorifique</td><td></td></tr>
-<tr><td></td><td></td><td>jusqu’à 40 MW</td><td colspan="2">sup.à 40 MW</td></tr>
-<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, ou avec des combustibles ou des carburants liquides</td><td></td><td>100</td><td colspan="2">35</td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, lorsque l’installation est exploitée annuellement au moins à 80 % avec ces produits</td><td></td><td>240</td><td colspan="2">35</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Puissance calorifique</th></tr>
+<tr><th colspan="2"></th><th>jusqu’à 40 MW</th><th>sup.à 40 MW</th></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>mg/m<sup>3</sup></td><td></td><td></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, ou avec des combustibles ou des carburants liquides</td><td></td><td>100</td><td>35</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1, let. d et e, lorsque l’installation est exploitée annuellement au moins à 80 % avec ces produits</td><td></td><td>240</td><td>35</td></tr>
 </table>
 
 ### 835 Oxydes de soufre
@@ -2259,11 +2258,11 @@ Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux, ne dépa
 <sup>1</sup> Les émissions d’oxydes d’azote (monoxyde et dioxyde), exprimées en dioxyde d’azote, ne dépasseront pas les valeurs limites suivantes:
 
 <table>
-<tr><td></td><td></td><td colspan="2">Puissance calorifique</td><td></td></tr>
-<tr><td></td><td></td><td>jusqu’à 40 MW</td><td colspan="2">sup. à 40 MW</td></tr>
-<tr><td>– Oxydes d’azote (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>40</td><td colspan="2">20</td></tr>
-<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>50</td><td colspan="2">40</td></tr>
+<tr><th colspan="2"></th><th colspan="2">Puissance calorifique</th></tr>
+<tr><th colspan="2"></th><th>jusqu’à 40 MW</th><th>sup. à 40 MW</th></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>)</td><td>mg/m<sup>3</sup></td><td></td><td></td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants gazeux au sens de l’annexe 5, ch. 41, al. 1</td><td></td><td>40</td><td>20</td></tr>
+<tr><td>– fonctionnement avec des combustibles ou des carburants liquides</td><td></td><td>50</td><td>40</td></tr>
 </table>
 
 <sup>2</sup> Pour les turbines à gaz équipées d’un système de dénitrification, les émissions d’ammoniac et de composés d’ammonium, exprimées en ammoniac, ne dépasseront pas 10 mg/m<sup>3</sup>.
@@ -2358,7 +2357,7 @@ Les émissions de monoxyde de carbone ne dépasseront pas 50 mg/m<sup>3</sup>.
 
 ### 87 Installations de traitement de surfaces
 
-<sup>1</sup> Les dispositions du présent chiffre s’appliquent aux installations destinées au traitement des surfaces d’objets et de produits en métal, verre, céramique, matières plastiques, caoutchouc ou autres matières par des substances organiques halogénées dont le point d’ébullition est inférieur à 150° C à une pression de 1013 mbar.
+<sup>1</sup> Les dispositions du présent chiffre s’appliquent aux installations destinées au traitement des surfaces d’objets et de produits en métal, verre, céramique, matières plastiques, caoutchouc ou autres matières par des substances organiques halogénées dont le point d’ébullition est inférieur à 150 °C à une pression de 1013 mbar.
 
 <sup>2</sup> Les installations de traitement de surfaces seront équipées et exploitées comme suit:
 
@@ -2433,16 +2432,16 @@ En dérogation à l’art. 13, al. 3, les installations de combustion suivantes 
 <sup>1</sup> Les émissions des installations de combustion alimentées avec de l’huile «extra-légère» ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><th>Huile de chauffage «extra-légère»</th><th></th></tr>
-<tr><th>– Grandeur de référence: les valeurs limites appliquées aux polluants gazeux se rapportent à une teneur en oxygène des effluents gazeux de</th><th>3 % vol</th></tr>
-<tr><th>– Indice de suie</th><th>1</th></tr>
-<tr><th>– Monoxyde de carbone (CO)</th><th>80 mg/m<sup>3</sup></th></tr>
-<tr><th>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote</th><th></th></tr>
-<tr><th>a. appareils à rayonnement lumineux et tubes radiants</th><th>200 mg/m<sup>3</sup></th></tr>
-<tr><th>b. installations avec fluide caloporteur d’une température supérieure à 110 °C</th><th>150 mg/m<sup>3</sup></th></tr>
-<tr><th>c. autres installations</th><th>120 mg/m<sup>3</sup></th></tr>
-<tr><th>– Ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
-<tr><th colspan="2">Remarque: <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+<tr><td>Huile de chauffage «extra-légère»</td><td></td></tr>
+<tr><td>– Grandeur de référence: les valeurs limites appliquées aux polluants gazeux se rapportent à une teneur en oxygène des effluents gazeux de</td><td>3 % vol</td></tr>
+<tr><td>– Indice de suie</td><td>1</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>80 mg/m<sup>3</sup></td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote</td><td></td></tr>
+<tr><td>a. appareils à rayonnement lumineux et tubes radiants</td><td>200 mg/m<sup>3</sup></td></tr>
+<tr><td>b. installations avec fluide caloporteur d’une température supérieure à 110 °C</td><td>150 mg/m<sup>3</sup></td></tr>
+<tr><td>c. autres installations</td><td>120 mg/m<sup>3</sup></td></tr>
+<tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></td><td>30 mg/m<sup>3</sup></td></tr>
+<tr><td colspan="2">Remarque: <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</td></tr>
 </table>
 
 <sup>2</sup> Les émissions d’oxydes de soufre sont limitées par la valeur limite fixée pour la teneur en soufre à l’annexe 5, ch. 11. La limitation des émissions au sens de l’annexe 1, ch. 6, pour les oxydes de soufre n’est pas applicable.
@@ -2511,8 +2510,8 @@ L’huile de chauffage «moyenne» ou «lourde» ne doit pas être utilisée dan
 <sup>1</sup> Les émissions des installations de combustion alimentées au charbon, aux briquettes ou au coke ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><th></th><th></th><th colspan="6">Puissance calorifique</th></tr>
-<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>plus de 70 kW à 500 kW</th><th>plus de 500 kW à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW à 100 MW</th><th>plus de 100 MW</th></tr>
+<tr><th colspan="2"></th><th colspan="6">Puissance calorifique</th></tr>
+<tr><th colspan="2"></th><th>jusqu’à 70 kW</th><th>plus de 70 kW à 500 kW</th><th>plus de 500 kW à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW à 100 MW</th><th>plus de 100 MW</th></tr>
 <tr><td>Charbon, briquettes, coke</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>6</td></tr>
 <tr><td>– Particules solides au total:</td><td>mg/m<sup>3</sup></td><td>100</td><td>50</td><td>20</td><td>20</td><td>10</td><td>10</td></tr>
@@ -2523,7 +2522,7 @@ L’huile de chauffage «moyenne» ou «lourde» ne doit pas être utilisée dan
 <tr><td>– autres installations</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>1000</td><td>350</td><td>150</td></tr>
 <tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>500</td><td>200</td><td>150</td></tr>
 <tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></td><td>mg/m<sup>3</sup></td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td></tr>
-<tr><th colspan="8">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+<tr><td colspan="8">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</td></tr>
 </table>
 
 <sup>2</sup> L’autorité fixe la limitation préventive des émissions pour les substances inorganiques essentiellement sous forme de poussières ainsi que pour les composés du chlore et du fluor conformément à l’art. 4; l’annexe 1, ch. 5, ainsi que la limitation des émissions fixée pour les composés du chlore et du fluor à l’annexe 1, ch. 6, ne sont pas applicables.
@@ -2553,8 +2552,8 @@ Dans les installations de combustion d’une puissance calorifique inférieure �
 <sup>1</sup> Les émissions des installations de combustion alimentées au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><th></th><th></th><th colspan="5">Puissance calorifique</th></tr>
-<tr><th></th><th></th><th>jusqu’à 70 kW</th><th>plus de 70 kW à 500 kW</th><th>plus de 500 kW à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
+<tr><th colspan="2"></th><th colspan="5">Puissance calorifique</th></tr>
+<tr><th colspan="2"></th><th>jusqu’à 70 kW</th><th>plus de 70 kW à 500 kW</th><th>plus de 500 kW à 1 MW</th><th>plus de 1 MW à 10 MW</th><th>plus de 10 MW</th></tr>
 <tr><td>Bois de chauffage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Grandeur de référence: les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>% vol</td><td>13</td><td>13</td><td>13</td><td>11</td><td>11</td></tr>
 <tr><td>– Pour le bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -2573,7 +2572,7 @@ Dans les installations de combustion d’une puissance calorifique inférieure �
 <tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>)</td><td>mg/m<sup>3</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td><sup>2</sup></td><td>150</td></tr>
 <tr><td>– Substances organiques sous forme de gaz, exprimées en carbone total</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
 <tr><td>– Ammoniac et composés de l’ammonium, exprimés en ammoniac</td><td>mg/m<sup>3</sup></td><td>–</td><td>–</td><td>–</td><td>30</td><td>30</td></tr>
-<tr><th colspan="7">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Pour les poêles fixes fabriqués in situ selon la norme SN EN 15544 (Poêles en faïence, poêles en maçonnerie fabriqués in situ – dimensionnement)[^annex3-lvlu1-lvl5-lvl52-lvl522-1], quelle que soit leur puissance calorifique, on se référera aux valeurs limites d’émission applicables aux particules solides et au CO jusqu’à 70 kW. <sup>2</sup> Cf. valeur limite pour l’oxyde d’azote, annexe 1, ch. 6. <sup>3</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+<tr><td colspan="7">Remarques: – Un tiret dans le tableau signifie qu’aucune limitation n’est prescrite ni dans l’annexe 3 ni dans l’annexe 1. <sup>1</sup> Pour les poêles fixes fabriqués in situ selon la norme SN EN 15544 (Poêles en faïence, poêles en maçonnerie fabriqués in situ – dimensionnement)[^annex3-lvlu1-lvl5-lvl52-lvl522-1], quelle que soit leur puissance calorifique, on se référera aux valeurs limites d’émission applicables aux particules solides et au CO jusqu’à 70 kW. <sup>2</sup> Cf. valeur limite pour l’oxyde d’azote, annexe 1, ch. 6. <sup>3</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</td></tr>
 </table>
 
 <sup>2</sup> Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux et rapportées à une teneur en oxygène dans les effluents gazeux de 6 %, ne dépasseront pas les valeurs suivantes:
@@ -2636,15 +2635,15 @@ Pour les systèmes de captage des poussières destinés aux installations d’un
 <sup>1</sup> Les émissions des installations de combustion alimentées au gaz ne dépasseront pas les valeurs suivantes:
 
 <table>
-<tr><th>Installations de combustion au gaz</th><th></th></tr>
-<tr><th>– Grandeur de référence: Les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</th><th>3 % vol</th></tr>
-<tr><th>– Monoxyde de carbone (CO)</th><th>100 mg/m<sup>3</sup></th></tr>
-<tr><th>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>):</th><th></th></tr>
-<tr><th>a. appareils à rayonnement lumineux et tubes radiants</th><th>200 mg/m<sup>3</sup></th></tr>
-<tr><th>b. installations avec fluide caloporteur d’une température supérieure à 110 °C</th><th>110 mg/m<sup>3</sup></th></tr>
-<tr><th>c. autres installations</th><th>80 mg/m<sup>3</sup></th></tr>
-<tr><th>– ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></th><th>30 mg/m<sup>3</sup></th></tr>
-<tr><th colspan="2">Remarque: <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</th></tr>
+<tr><td>Installations de combustion au gaz</td><td></td></tr>
+<tr><td>– Grandeur de référence: Les valeurs limites se rapportent à une teneur en oxygène des effluents gazeux de</td><td>3 % vol</td></tr>
+<tr><td>– Monoxyde de carbone (CO)</td><td>100 mg/m<sup>3</sup></td></tr>
+<tr><td>– Oxydes d’azote (NO<sub>x</sub>), exprimés en dioxyde d’azote (NO<sub>2</sub>):</td><td></td></tr>
+<tr><td>a. appareils à rayonnement lumineux et tubes radiants</td><td>200 mg/m<sup>3</sup></td></tr>
+<tr><td>b. installations avec fluide caloporteur d’une température supérieure à 110 °C</td><td>110 mg/m<sup>3</sup></td></tr>
+<tr><td>c. autres installations</td><td>80 mg/m<sup>3</sup></td></tr>
+<tr><td>– ammoniac et composés de l’ammonium, exprimés en ammoniac<sup>1</sup></td><td>30 mg/m<sup>3</sup></td></tr>
+<tr><td colspan="2">Remarque: <sup>1</sup> Cette limite d’émission n’a de sens que pour les installations de combustion équipées d’un dispositif de dénitrification.</td></tr>
 </table>
 
 <sup>2</sup> En dérogation à l’al. 1, les émissions des installations d’une puissance calorifique supérieure à 50 MW ne dépasseront pas les valeurs suivantes:
@@ -2704,15 +2703,15 @@ Si une même installation de combustion est alimentée alternativement avec diff
 
 <sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image4.png)</sub>
+G\_m = G\_1 × (E\_1)/(E\_t o t) + G\_2 × (E\_2 ( 21 − B\_1 ))/(E\_t o t ( 21 − B\_2 )) + ⋯ + G\_n × (E\_n ( 21 − B\_1 ))/(E\_t o t ( 21 − B\_n ))
 
 Signification:
 
 - G<sub>m</sub> = valeur limite pondérée du mélange de combustibles, rapportée à une teneur en oxygène B<sub>1</sub>
-- G<sub>1</sub>, G<sub>2</sub> ... G<sub>n</sub> = valeur limite d’émission des différents combustibles[^annex3-lvlu1-lvl8-lvl82-1]
-- E<sub>1</sub>, E<sub>2</sub> ... E<sub>n</sub> = énergie fournie par combustible et par heure
-- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + .... E<sub>n</sub>
-- B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub> = grandeur de référence (teneur en oxygène à laquelle sont rapportées les valeurs limites d’émission pour le premier, le deuxième et les autres combustibles)
+- G<sub>1</sub>, G<sub>2</sub> … G<sub>n</sub> = valeur limite d’émission des différents combustibles[^annex3-lvlu1-lvl8-lvl82-1]
+- E<sub>1</sub>, E<sub>2</sub> … E<sub>n</sub> = énergie fournie par combustible et par heure
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + … E<sub>n</sub>
+- B<sub>1</sub>, B<sub>2</sub> … B<sub>n</sub> = grandeur de référence (teneur en oxygène à laquelle sont rapportées les valeurs limites d’émission pour le premier, le deuxième et les autres combustibles)
 
 <sup>3</sup> On procédera par analogie à l’al. 2 pour calculer le taux d’émission déterminant du soufre.
 
@@ -2724,7 +2723,7 @@ Annexe 4[^t-4]
 
 ## Exigences relatives aux machines de chantier et à leurs systèmes de filtres à particules ainsi qu’aux machines et appareils équipés d’un moteur à combustion
 
-[^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Mise à jour par le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. III 1 de l’O du 22 juin 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) et le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Voir aussi les disp. trans. des mod. du 4 juil. 2007 et du 19 sept. 2008, ci-devant.
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Mise à jour par le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. III 1 de l’O du 22 juin 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) et le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Voir aussi les disp. trans. des mod. du 4 juil. 2007 et du 19 sept. 2008, ci‑devant.
 
 ### 1 Champ d’application
 
@@ -2755,7 +2754,7 @@ La présente annexe s’applique aux machines de chantier et à leurs systèmes 
 - a. retenir 97 % des particules solides d’un diamètre de 20 à 300 nm à l’état neuf et après un fonctionnement continu de 1000 h lors d’une utilisation caractéristique;
 - b. retenir 90 % des particules solides pendant le processus de régénération;
 - c. être munis d’une surveillance électronique qui enregistre les pertes de pression risquant de nuire au fonctionnement, qui déclenche l’alarme et qui interrompt l’apport d’additif s’ils sont endommagés;
-- d. ne pas dépasser le coefficient d’opacité de 0,15 m<sup>-1</sup> lorsque le moteur est en accélération libre;
+- d. ne pas dépasser le coefficient d’opacité de 0,15 m<sup>–1</sup> lorsque le moteur est en accélération libre;
 - e. être fabriqués de manière à ce qu’il soit impossible de les installer dans le sens inverse à la direction d’écoulement;
 - f. être dotés d’instructions de nettoyage et d’entretien;
 - g. fonctionner sans additifs contenant du cuivre ni revêtements catalytiques à base de cuivre dans le système de gaz d’échappement, et
@@ -2813,7 +2812,7 @@ Annexe 5[^t-5]
 
 ## Exigences relatives aux combustibles et aux carburants
 
-[^t-5]: Mise à jour par le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), le ch. I de l’O du 25 août 1999 ([RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), le ch. II des O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Voir aussi les disp. trans. de la mod. du 19 sept. 2008, ci-devant.
+[^t-5]: Mise à jour par le ch. II de l’O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), le ch. I de l’O du 25 août 1999 ([RO 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), le ch. II des O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I des O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) et du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 744](https://fedlex.data.admin.ch/eli/oc/2025/744)).
 
 ### 1 Huiles de chauffage et autres combustibles liquides
 
@@ -2944,7 +2943,7 @@ La teneur en soufre des gaz selon le ch. 41, let. a et b, ne dépassera pas 190 
 <tr><td>Essence pour moteur</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Indice d’octane recherche</td><td></td><td>95,0<sup>c</sup></td><td>–</td><td>EN ISO 5164</td></tr>
 <tr><td>– Indice d’octane moteur</td><td></td><td>85,0<sup>c</sup></td><td>–</td><td>EN ISO 5163</td></tr>
-<tr><td>– Tension de vapeur (DVPE):</td><td></td><td></td><td></td><td>EN 13016-1</td></tr>
+<tr><td>– Tension de vapeur (DVPE):</td><td></td><td></td><td></td><td>EN 13016‑1</td></tr>
 <tr><td>– période estivale</td><td>kPa</td><td>–</td><td>60,0<sup>d</sup></td><td></td></tr>
 <tr><td>– Distillation:</td><td></td><td></td><td></td><td>EN ISO 3405</td></tr>
 <tr><td>– évaporé à 100 °C</td><td>% (*V/V*)</td><td>46,0</td><td>–</td><td></td></tr>
@@ -2974,7 +2973,7 @@ La teneur en soufre des gaz selon le ch. 41, let. a et b, ne dépassera pas 190 
 <tr><td colspan="5"><sup>e</sup> Autres mono-alcools et éthers dont le point final de distillation n’est pas supérieur à 210 °C.</td></tr>
 </table>
 
-<sup>1bis</sup> Si du bioéthanol est ajouté à l’essence pour moteurs, la valeur maximale de 60,0 kPa au sens de l’al. 1 pour la tension de vapeur durant la période estivale peut être dépassée jusqu’au 30 septembre 2025 dans la marge mentionnée ci-après:
+<sup>1bis</sup> Si du bioéthanol est ajouté à l’essence pour moteurs, la valeur maximale de 60,0 kPa au sens de l’al. 1 pour la tension de vapeur durant la période estivale peut être dépassée jusqu’au 30 septembre 2030 dans la marge mentionnée ci-après:
 
 <table>
 <tr><td>Teneur en bioéthanol</td><td>% (*V/V*)</td><td>1,0</td><td>2,0</td><td>3,0</td><td>4,0</td><td>5,0</td><td>6,0</td><td>7,0</td><td>8,0</td><td>9,0</td><td>10,0</td></tr>
@@ -3104,11 +3103,11 @@ g (–) = facteur de correction pour les zones de construction et de végétatio
 
 Q (g/h) = débit massique du polluant atmosphérique émis; les émissions d’oxydes d’azote (monoxyde et dioxyde) sont exprimées en dioxyde d’azote
 
-R<sub>n</sub> (m<sup>3</sup>/h) = débit volumique des effluents gazeux dans les conditions standard (0°C, 1013 mbar)
+R<sub>n</sub> (m<sup>3</sup>/h) = débit volumique des effluents gazeux dans les conditions standard (0 °C, 1013 mbar)
 
 t (°C) = température des effluents gazeux à la sortie de la cheminée
 
-Δt (°C) = t – 10°C
+Δt (°C) = t – 10 °C
 
 F (m<sup>4</sup>/s<sup>3</sup>) = flux ascensionnel; F = 3,18 × 10<sup>-6</sup> x R<sub>n</sub> × Δt
 
@@ -3145,13 +3144,13 @@ S (µg/m<sup>3</sup>) = valeur S (voir ch. 3 et 9)
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/image/image2.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20250901/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20260101/fr/xml/image/image3.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 
@@ -3188,5 +3187,3 @@ Annexe 7[^t-7]
 <tr><td>Thallium (Tl) dans retombées de poussières</td><td>2 µg/(m<sup>2</sup> × d)</td><td>Moyenne annuelle (moyenne arithmétique)</td></tr>
 <tr><td colspan="3">Remarques: mg = milligramme: 1 mg = 0,001 g µg = microgramme: 1 µg =0,001 mg ng = nanogramme: 1 ng = 0,001 µg d = jour «≤» signifie «plus petit ou égal à». <sup>a</sup> Poussières fines en suspension d’un diamètre aérodynamique inférieur à 10 µm. <sup>b</sup> Poussières fines en suspension d’un diamètre aérodynamique inférieur à 2,5 µm.</td></tr>
 </table>
-
-## Table des matières
