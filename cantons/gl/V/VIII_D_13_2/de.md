@@ -4,13 +4,12 @@ number: VIII D/13/2
 title: "Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: "Kantonale Ergänzungsleistungsverordnung, KELV"
 language: de
-version: 2025-02-01
-valid_until: 2025-12-31
-version_adopted: 2025-01-07
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.13.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2528/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2528/pdf_file"
 
 (Kantonale Ergänzungsleistungsverordnung, KELV)
 
-Vom 27.11.2007 (Stand 01.02.2025)
+Vom 27.11.2007 (Stand 01.01.2026)
 
 Der Regierungsrat,
 
@@ -190,7 +189,28 @@ verordnet:
 
 [^13-1]: GS [VIII A/1/6](https://gesetze.gl.ch/data/VIII-A.1.6/de)
 
-#### Art. 14–15
+#### Art. 14
+
+**…**
+
+#### Art. 14a
+
+**Kosten für direkt angestelltes Pflegepersonal und von Leistungen Familienangehöriger**
+
+<sup>1</sup> Zu Hause wohnenden Bezügern mit einer Hilflosenentschädigung für schwere oder mittelschwere Hilflosigkeit werden die Kosten nur für den Teil der Pflege und Betreuung vergütet, der nicht durch eine anerkannte Spitexorganisation im Sinne von Artikel 51 KVV erbracht werden kann.
+
+<sup>2</sup> Erbringen Familienangehörige derartige Pflege- und Betreuungsleistungen, werden diese nur vergütet, wenn die betreffenden Familienangehörigen:
+
+- a. nicht in der EL-Berechnung eingeschlossen sind; und
+- b. durch die Pflege und Betreuung eine länger dauernde, wesentliche Erwerbseinbusse erleiden.
+
+<sup>3</sup> Der Spitex-Kantonalverband Glarus legt den Umfang der Pflege und Betreuung sowie das Anforderungsprofil der Betreuungsperson im konkreten Fall fest. Wird dieser Verband nicht beigezogen oder werden dessen Vorgaben nicht eingehalten, werden die Kosten nicht vergütet.
+
+<sup>4</sup> Je Stunde werden 25 Franken vergütet. Die Kosten werden im ausgewiesenen Umfang, höchstens aber in der Höhe des Erwerbsausfalls berücksichtigt.
+
+<sup>5</sup> Ein Anspruch auf einen Assistenzbeitrag der IV geht diesen Ansprüchen vor.
+
+#### Art. 15
 
 **…**
 
@@ -328,15 +348,15 @@ verordnet:
 
 <table>
 <tr><th>EL-Maxima in Franken</th><th>APGS</th><th>APG</th><th>Salem</th><th>APGN</th></tr>
-<tr><td>Pension</td><td>139.00</td><td>140.42</td><td>132.00</td><td>139.00</td></tr>
-<tr><td>Pension Pflegeabteilung Schwanden</td><td>148.00</td><td></td><td></td><td></td></tr>
-<tr><td>Pension Wohngruppe Schwanden / Demenz</td><td>158.00</td><td></td><td></td><td></td></tr>
+<tr><td>Pension</td><td>135.00</td><td>144.52</td><td>139.00</td><td>141.00</td></tr>
+<tr><td>Pension Pflegeabteilung Schwanden</td><td>153.00</td><td></td><td></td><td></td></tr>
+<tr><td>Pension Wohngruppe Schwanden / Demenz</td><td>163.00</td><td></td><td></td><td></td></tr>
 <tr><td>Pension Salem Hospiz</td><td></td><td></td><td>157.85</td><td></td></tr>
-<tr><td>Betreuung</td><td>36.00</td><td>34.66</td><td>36.80</td><td>34.30</td></tr>
+<tr><td>Betreuung</td><td>40.05</td><td>36.40</td><td>40.55</td><td>37.50</td></tr>
 <tr><td>Betreuung Salem Hospiz</td><td></td><td></td><td>64.80</td><td></td></tr>
 <tr><td>Pflege</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Pflegestufe 1</td><td>3.54</td><td>2.84</td><td>1.85</td><td>3.58</td></tr>
-<tr><td>Pflegestufe 2</td><td>18.95</td><td>16.93</td><td>14.05</td><td>19.07</td></tr>
+<tr><td>Pflegestufe 1</td><td>3.96</td><td>4.33</td><td>3.18</td><td>3.67</td></tr>
+<tr><td>Pflegestufe 2</td><td>20.16</td><td>21.25</td><td>17.92</td><td>19.32</td></tr>
 <tr><td>ab Pflegestufe 3</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td></tr>
 </table>
 
@@ -381,8 +401,8 @@ verordnet:
 <sup>1</sup> Die EL-Beiträge pro Stunde entsprechen den jeweiligen Restkosten, maximal jedoch:
 
 - a. Pflegeleistungen — 15.35 Franken
-- b. hauswirtschaftliche Leistungen — 41.64 Franken
-- c. Betreuungsleistungen — 38.82 Franken
+- b. hauswirtschaftliche Leistungen — 43.19 Franken
+- c. Betreuungsleistungen — 55.14 Franken
 
 ## A2.
 
