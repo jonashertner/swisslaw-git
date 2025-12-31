@@ -4,13 +4,12 @@ number: "900.2"
 title: Gesetz über die aktive Bodenpolitik
 short: ABPG
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-10-18
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2019-10-18
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/900.2"
-pdf: "https://bdlf.fr.ch/api/de/versions/7206/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Aktive Bodenpolitik - G
 
 (ABPG)
 
-vom 18.10.2019 (Fassung in Kraft getreten am 01.01.2020)
+vom 18.10.2019 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -413,6 +412,8 @@ beschliesst:
 
 <sup>1</sup> Die Anstalt ist für ihr Betriebsergebnis verantwortlich und haftet alleine für ihre Verpflichtungen. Sie besitzt somit keine staatliche Defizitgarantie.
 
+<sup>1a</sup> Bei Liquidation der Anstalt übernimmt der Staat die Aktiven und Passiven.
+
 <sup>2</sup> In besonderen Fällen kann der Staat ein Darlehen verbürgen, das die Anstalt für die Umsetzung eines spezifischen Projekts aufnimmt.
 
 #### Art. 34
@@ -433,9 +434,7 @@ beschliesst:
 
 #### Art. 36
 
-**Pfandrecht zugunsten des Staats**
-
-<sup>1</sup> Die Zahlung aller finanziellen Verpflichtungen oder Gegenleistungen für ein Recht, das der Staat der Anstalt gewährt, wird durch ein gesetzliches Grundpfandrecht sichergestellt.
+**…**
 
 #### Art. 37
 

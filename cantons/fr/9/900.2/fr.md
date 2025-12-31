@@ -4,13 +4,12 @@ number: "900.2"
 title: Loi sur la politique foncière active
 short: LPFA
 language: fr
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-10-18
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2019-10-18
 in_force: 2020-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/900.2"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7206/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8365/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Politique foncière active - L
 
 (LPFA)
 
-du 18.10.2019 (version entrée en vigueur le 01.01.2020)
+du 18.10.2019 (version entrée en vigueur le 01.01.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -411,6 +410,8 @@ Décrète:
 
 <sup>1</sup> L'Etablissement est responsable de son résultat et répond seul de ses engagements. Il ne dispose à ce titre d'aucune garantie de déficit de la part de l'Etat.
 
+<sup>1a</sup> En cas de liquidation de l'Etablissement, l'Etat en reprend les actifs et les passifs.
+
 <sup>2</sup> Dans un cas particulier, l'Etat peut fournir une garantie d'emprunt en faveur de l'Etablissement en lien avec la réalisation d'un projet concret.
 
 #### Art. 34
@@ -431,9 +432,7 @@ Décrète:
 
 #### Art. 36
 
-**Droit de gage en faveur de l'Etat**
-
-<sup>1</sup> Le paiement de toute obligation ou contrepartie financière d'un droit accordé par l'Etat à l'Etablissement est garanti par une hypothèque légale.
+**…**
 
 #### Art. 37
 
