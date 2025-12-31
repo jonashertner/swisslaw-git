@@ -3,20 +3,19 @@ canton: GR
 number: "720.000"
 title: Legge sulle imposte per il Cantone dei Grigioni
 language: it
-version: 2025-01-01
-corrected: 2025-06-04
-version_adopted: 2025-02-10
+version: 2026-01-01
+version_adopted: 2025-08-28
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3540/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3686/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle imposte per il Cantone dei Grigioni
 
-del 08.06.1986 (stato 01.01.2025)
+del 08.06.1986 (stato 01.01.2026)
 
 accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
@@ -30,7 +29,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> Il Cantone riscuote secondo le disposizioni della presente legge:
 
-- a) un'imposta sul reddito e sulla sostanza dalle persone fisiche nonché un'imposta sugli utili da sostanza immobiliare ) dalle persone fisiche e dalle persone giuridiche esonerate dalle imposte;
+- a) un'imposta sul reddito e sulla sostanza dalle persone fisiche nonché un'imposta sugli utili da sostanza immobiliare dalle persone fisiche e dalle persone giuridiche esonerate dalle imposte;
 - b) un'imposta sugli utili e sul capitale dalle persone giuridiche per il Cantone e per i comuni;
 - c) un'imposta alla fonte dalle persone fisiche e giuridiche per il Cantone, i comuni e per le Chiese riconosciute dallo Stato con i loro comuni parrocchiali;
 - d) un'imposta sull'eredità e un'imposta sulle donazioni dalle persone fisiche e giuridiche;
@@ -93,7 +92,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **VI. Compensazione degli effetti della progressione a freddo**
 
-<sup>1</sup> Se nel luglio di un anno civile l'indice nazionale dei prezzi al consumo varia del tre per cento o del relativo multiplo rispetto alla situazione di fine dicembre 2005, gli importi fissati in franchi nell'articolo 31 lettera c, nell'articolo 35 capoverso 3, nell'articolo 36 lettere h e l, nell'articolo 38, nell'articolo 39, nell'articolo 40a, nell'articolo 52 capoversi 1 e 3, nell'articolo 63 capoverso 1, nell'articolo 64 capoverso 1, nell'articolo 87, nell'articolo 91 e nell'articolo 114 capoverso 1 per il prossimo anno fiscale, rispettivamente anno civile variano del tre per cento oppure del relativo multiplo. Le deduzioni devono essere arrotondate per eccesso a 100 franchi, gli importi nell'articolo 35 capoverso 3 e nell'articolo 63 capoverso 1 a 1 000 franchi.
+<sup>1</sup> Se nel luglio di un anno civile l'indice nazionale dei prezzi al consumo varia del tre per cento o del relativo multiplo rispetto alla situazione di fine dicembre 2005, gli importi fissati in franchi nell'articolo 31 lettera c, nell'articolo 35 capoverso 3, nell'articolo 36 lettere h e l, nell'articolo 38, nell'articolo 39, nell'articolo 40a, nell'articolo 52 capoversi 1 e 3, nell'articolo 63 capoverso 1, nell'articolo 64 capoverso 1, nell'articolo 91 e nell'articolo 114 capoverso 1 per il prossimo anno fiscale, rispettivamente anno civile variano del tre per cento oppure del relativo multiplo. Le deduzioni devono essere arrotondate per eccesso a 100 franchi, gli importi nell'articolo 35 capoverso 3 e nell'articolo 63 capoverso 1 a 1000 franchi.
 
 <sup>2</sup> Per le persone giuridiche fanno stato gli importi validi alla fine del periodo fiscale.
 
@@ -456,6 +455,10 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>5</sup> Se, in occasione della vendita di diritti di partecipazione a una società di capitali o società cooperativa che è quotata in una borsa svizzera e li ha emessi, il rimborso delle riserve da apporti di capitale non corrisponde almeno alla metà dell'eccedenza di liquidazione ottenuta, la parte imponibile di questa eccedenza di liquidazione è ridotta della metà della differenza tra la parte stessa e il rimborso, ma al massimo di un importo pari a quello delle riserve da apporti di capitale disponibili nella società e imputabili a tali diritti di partecipazione.
 
+<sup>6</sup> Il capoverso 1 si applica agli apporti e all'aggio forniti durante la validità di un margine di variazione del capitale secondo gli articoli 653s segg. del Codice delle obbligazioni[^21c-1], per quanto eccedano le riserve rimborsate nell'ambito del suddetto margine di variazione del capitale.
+
+[^21c-1]: legge federale di complemento del Codice civile svizzero (Libro quinto: Diritto delle obbligazioni) del 30 marzo 1911 (CO; RS [220](https://db.clex.ch/link/Bund/220/it))
+
 #### Art. 22
 
 **5. Da sostanza immobile**
@@ -484,9 +487,22 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> Sono imponibili tutti i proventi dall'assicurazione vecchiaia, superstiti e invalidità, da istituzioni di previdenza professionale e da forme riconosciute di previdenza individuale vincolata, comprese le liquidazioni in capitale e il rimborso dei versamenti, premi e contributi.
 
-<sup>2</sup> Le rendite vitalizie nonché i proventi da vitalizi sono imponibili nella misura del 40 per cento.
+<sup>2</sup> Le assicurazioni di rendita vitalizia nonché i contratti di rendita vitalizia e di vitalizio sono imponibili nella misura della loro quota di reddito. Essa è calcolata come segue:
+
+- a) nel caso di prestazioni garantite derivanti da assicurazioni di rendita vitalizia rette dalla legge sul contratto d'assicurazione[^23-1], il tasso d'interesse tecnico massimo (m) definito al momento della conclusione del contratto conformemente all'articolo 36 capoverso 1 della legge sulla sorveglianza degli assicuratori[^23-2] è determinante per tutta la durata contrattuale:
+  - 1\. se tale tasso d'interesse è superiore a zero, la quota di reddito è calcolata, arrotondando il risultato per eccesso o per difetto al valore percentuale intero più vicino, secondo la formula di cui all'articolo 7 capoverso 2 lettera a numero 1 della legge federale sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni[^23-3];
+  - 2\. se tale tasso d'interesse è pari o inferiore a zero, la quota di reddito corrisponde allo zero per cento.
+- b) nel caso di prestazioni eccedentarie derivanti da assicurazioni di rendita vitalizia rette dalla legge sul contratto d'assicurazione, la quota di reddito corrisponde al 70 per cento di tali prestazioni;
+- c) nel caso di prestazioni derivanti da assicurazioni di rendita vitalizia estere o da contratti di rendita vitalizia e di vitalizio, è determinante l'ammontare del rendimento annualizzato delle obbligazioni della Confederazione con scadenza a dieci anni (r), aumentato di 0,5 punti percentuali, durante l'anno fiscale in questione e i nove anni precedenti:
+  - 1\. se tale rendimento è superiore a zero, la quota di reddito è calcolata, arrotondando il risultato per eccesso o per difetto al valore percentuale intero più vicino, secondo la formula di cui all'articolo 7 capoverso 2 lettera c numero 1 della legge federale sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni[^23-4];
+  - 2\. se tale rendimento è pari o inferiore a zero, la quota di reddito corrisponde allo zero per cento.
 
 <sup>3</sup> …
+
+[^23-1]: legge federale sul contratto d'assicurazione del 2 aprile 1908 (legge sul contratto d'assicurazione, LCA; RS [221.229.1](https://db.clex.ch/link/Bund/221.229.1/it))
+[^23-2]: legge federale sulla sorveglianza delle imprese di assicurazione del 17 dicembre 2004 (legge sulla sorveglianza degli assicuratori, LSA; RS [961.01](https://db.clex.ch/link/Bund/961.01/it))
+[^23-3]: legge federale sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni del 14 dicembre 1990 (LAID; RS [642.14](https://db.clex.ch/link/Bund/642.14/it); versione conformemente alla legge federale sull'imposizione delle rendite vitalizie e delle forme di previdenza simili del 17 giugno 2022, RU 2023 38)
+[^23-4]: RS [642.14](https://db.clex.ch/link/Bund/642.14/it) (versione secondo la legge federale sull'imposizione delle rendite vitalizie e delle forme di previdenza simili del 17 giugno 2022, RU 2023 38)
 
 #### Art. 24
 
@@ -544,9 +560,11 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - m) le vincite ai giochi da casinò ammessi secondo la legge federale sui giochi in denaro del 29 settembre 2017 (LGD)[^30-1] realizzate nelle case da gioco, purché tali vincite non provengano da un'attività lucrativa indipendente;
 - m<sup>bis</sup>) le singole vincite fino a un milione di franchi ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD;
 - m<sup>ter</sup>) le vincite ai giochi di piccola estensione ammessi secondo la LGD;
-- n) le singole vincite alle lotterie e ai giochi di destrezza destinati a promuovere le vendite che secondo l'articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest'ultima, purché non superino il limite di 1000 franchi.
+- n) le singole vincite alle lotterie e ai giochi di destrezza destinati a promuovere le vendite che secondo l'articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest'ultima, purché non superino il limite di 1000 franchi;
+- o) proventi in base alla legge federale sulle prestazioni transitorie per i disoccupati anziani del 19 giugno 2020[^30-2].
 
 [^30-1]: RS [935.51](https://db.clex.ch/link/Bund/935.51/it)
+[^30-2]: RS [837.2](https://db.clex.ch/link/Bund/837.2/it)
 
 #### Art. 31
 
@@ -576,9 +594,20 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - d) le perdite di sostanza commerciale subentrate e contabilizzate;
 - e) i contributi periodici e una tantum, versati nel quadro della legge federale sulla previdenza professionale per la vecchiaia, i superstiti e l'invalidità (LPP)[^32-2], a istituzioni di previdenza a favore del proprio personale, per quanto sia escluso qualsiasi impiego contrario allo scopo;
 - f) gli interessi su debiti commerciali nonché gli interessi relativi a partecipazioni giusta l'articolo 18 capoverso 2;
-- g) le spese di formazione e perfezionamento professionali, comprese le spese di riqualificazione, del proprio personale.
+- g) le spese di formazione e perfezionamento professionali, comprese le spese di riqualificazione, del proprio personale;
+- h) le sanzioni finalizzate al prelievo dell'utile illecito, nella misura in cui non abbiano carattere penale.
 
-<sup>2</sup> Non sono deducibili retribuzioni corruttive ai sensi del diritto penale svizzero fatte a pubblici ufficiali svizzeri o stranieri.
+<sup>2</sup> Non sono deducibili segnatamente:
+
+- a) i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b) le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c) le multe e le pene pecuniarie;
+- d) le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.
+
+<sup>3</sup> Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 2 lettera c e lettera d sono deducibili se:
+
+- a) sono contrarie all'ordine pubblico svizzero; o
+- b) il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.
 
 [^32-1]: Art. 12 segg. DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
 [^32-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/it)
@@ -637,7 +666,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> Si deducono dalle entrate:
 
 - a) gli interessi passivi privati nella misura dell'utile patrimoniale imponibile giusta gli articoli 21, 21a e 22 con l'aggiunta di ulteriori 50 000 franchi,
-- b) 40 per cento delle rendite vitalizie pagate nonché gli oneri permanenti,
+- b) gli oneri permanenti nonché la quota di reddito secondo l'articolo 23 capoverso 2 lettera c delle prestazioni derivanti da contratti di rendita vitalizia e di vitalizio;
 - c) gli alimenti dovuti dal coniuge separato o divorziato e gli alimenti versati a un genitore per i figli sotto la sua autorità parentale o custodia, escluse tuttavia le prestazioni versate in virtù di un obbligo di mantenimento o di assistenza fondato sul diritto di famiglia,
 - d) le quote dovute per legge all'assicurazione vecchiaia e superstiti, all'assicurazione invalidità, all'assicurazione contro la disoccupazione, all'indennità per perdita di guadagno e all'assicurazione obbligatoria contro gli infortuni,
 - e) i versamenti, premi e contributi, effettuati a norma di legge, statuto o regolamento per l'acquisizione di diritti da istituzioni della previdenza professionale,
@@ -651,7 +680,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
   - 4\. le deduzioni aumentano di 900 franchi per ogni figlio minorenne o in fase di formazione professionale,
 - i) le prestazioni volontarie in contanti e in altri beni a persone giuridiche con sede in Svizzera che sono esentate dall'assoggettamento fiscale in considerazione degli scopi pubblici o esclusivamente di pubblica utilità che perseguono (art. 78, cpv. 1, lett. a-d e lett. f), fino al 20 per cento del reddito netto,
 - k) i contributi dell'assicurato, versati giusta la legge e le disposizioni regolamentari e statuarie che su essa si fondano, per l'acquisto di anni di contribuzione a istituzioni riconosciute della previdenza professionale,
-- l) le spese comprovate, tuttavia al massimo 10 000 franchi, per la custodia da parte di terzi di ogni figlio che non ha ancora compiuto 14 anni e che vive nella stessa economia domestica del contribuente che si occupa del suo mantenimento, nella misura in cui queste spese si trovino in relazione causale diretta con l'attività lucrativa, la formazione o l'incapacità al guadagno del contribuente. La deduzione può essere ripartita tra due contribuenti,
+- l) le spese comprovate, tuttavia al massimo 25 000 franchi, per la custodia da parte di terzi di ogni figlio che non ha ancora compiuto 14 anni e che vive nella stessa economia domestica del contribuente che si occupa del suo mantenimento, nella misura in cui queste spese si trovino in relazione causale diretta con l'attività lucrativa, la formazione o l'incapacità al guadagno del contribuente. La deduzione può essere ripartita tra due contribuenti,
 - m) le tasse sociali e le assegnazioni fino all'importo complessivo di 10 000 franchi a partiti politici che:
   - 1\. sono iscritti nel registro dei partiti secondo l'articolo 76a della legge federale del 17 dicembre 1976 sui diritti politici,
   - 2\. sono rappresentati nel Parlamento cantonale o che
@@ -683,12 +712,12 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> Si deducono dal reddito netto:
 
 - a) …
-- b) 500 franchi se entrambi i coniugi tassati congiuntamente conseguono un reddito da attività lucrativa;
+- b) 2000 franchi se entrambi i coniugi tassati congiuntamente conseguono un reddito da attività lucrativa;
 - c) …
 - d)
-  - 1\. 6000 franchi per ogni figlio in età prescolare, al cui sostentamento il contribuente provvede in misura principale.
-  - 2\. 9000 franchi per figli minorenni più grandi e per figli in formazione scolastica o professionale, al cui sostentamento il contribuente provvede in misura principale.
-  - 3\. La deduzione aumenta fino a 18 000 franchi se il figlio soggiorna durante la settimana nel luogo di formazione;
+  - 1\. 9000 franchi per ogni figlio in età prescolare, al cui sostentamento il contribuente provvede in misura principale;
+  - 2\. 12 500 franchi per figli minorenni più grandi e per figli in formazione scolastica o professionale, al cui sostentamento il contribuente provvede in misura principale;
+  - 3\. La deduzione sale a 22 500 franchi se il figlio soggiorna durante la settimana nel luogo di formazione;
 - e) …
 - f) 5000 franchi per ogni persona totalmente o parzialmente incapace di esercitare un'attività lucrativa, al cui sostentamento il contribuente provvede, sempre che l'aiuto uguagli almeno l'importo della deduzione. Questa deduzione non è ammessa per i coniugi e i concubini, nonché per i figli per i quali un genitore o un concubino può richiedere una deduzione per figli;
 - g) …
@@ -1167,7 +1196,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1<sup>bis</sup></sup> La persona giuridica che trasferisce la sede o l'amministrazione effettiva da un cantone a un altro nel corso di un periodo fiscale è assoggettata all'imposta in entrambi i cantoni per l'intero periodo fiscale. L'autorità di tassazione ai sensi dell'articolo 165 della legge è quella del cantone della sede e dell'amministrazione effettiva alla fine del periodo fiscale.
 
-<sup>2</sup> Sono assimilati alle altre persone giuridiche gli investimenti collettivi di capitale con possesso fondiario diretto ai sensi dell'articolo 58 LICol[^74-1]. Le società di investimento a capitale fisso ai sensi dell'articolo 110 LICol sono tassate come le società di capitali.
+<sup>2</sup> Sono assimilati alle altre persone giuridiche gli investimenti collettivi di capitale con possesso fondiario diretto ai sensi dell'articolo 58 oppure dell'articolo 118a della legge sugli investimenti collettivi[^74-1]. Le società di investimento a capitale fisso ai sensi dell'articolo 110 della legge sugli investimenti collettivi sono tassate come le società di capitali.
 
 <sup>3</sup> Le persone giuridiche e le società commerciali estere nonché le collettività di persone straniere contribuenti ai sensi dell'articolo 11 capoverso 4 sono parificate a quelle persone giuridiche indigene a cui assomigliano di più di fatto o di diritto.
 
@@ -1175,7 +1204,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>5</sup> L'utile e il capitale sono ripartiti fra i cantoni interessati sulla base delle regole del diritto federale concernenti il divieto di doppia imposizione intercantonale, applicabili per analogia.
 
-[^74-1]: Legge federale del 23 giu. 2006 sugli investimenti collettivi di capitale (Legge sugli investimenti collettivi, LICol; RS [951.31](https://db.clex.ch/link/Bund/951.31/it))
+[^74-1]: legge federale sugli investimenti collettivi di capitale del 23 giugno 2006 (legge sugli investimenti collettivi, LICol; RS [951.31](https://db.clex.ch/link/Bund/951.31/it))
 
 #### Art. 75
 
@@ -1349,7 +1378,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> Fanno parte delle spese giustificate dall'uso commerciale specialmente:
 
-- a) le imposte della Confederazione, dei cantoni e dei comuni, eccettuate le imposte penali e le multe fiscali,
+- a) le imposte della Confederazione, dei cantoni e dei comuni;
 - b) gli ammortamenti comprovati per diminuzione di valore della sostanza commerciale,
 - c) gli accantonamenti per gli impegni il cui ammontare non è ancora stato stabilito oppure per altri imminenti rischi di perdite esistenti durante l'esercizio commerciale[^81-1],
 - d) gli accantonamenti per future spese di ricerca e sviluppo nel quadro delle disposizioni esecutive del Governo,[^81-2]
@@ -1357,11 +1386,22 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - f) i contributi periodici e una tantum, versati nel quadro della legge federale sulla previdenza professionale per la vecchiaia, i superstiti e l'invalidità (LPP)[^81-3], a istituzioni di previdenza a favore del proprio personale, per quanto sia escluso qualsiasi impiego contrario allo scopo,
 - g) le prestazioni volontarie in denaro e in altri beni a persone giuridiche con sede in Svizzera, che sono esentate dall'imposta in virtù del loro scopo pubblico o di esclusiva utilità pubblica (art. 78 lett. a-d nonché lett. f) fino al 20 per cento dell'utile netto imponibile,
 - h) i ribassi, gli sconti, gli abbuoni sulla cifra d'affari e i rimborsi sul pagamento per forniture e prestazioni nonché le eccedenze di compagnie d'assicurazione destinate alla ripartizione fra gli assicurati,
-- i) le spese di formazione e perfezionamento professionali, comprese le spese di riqualificazione, del proprio personale.
+- i) le spese di formazione e perfezionamento professionali, comprese le spese di riqualificazione, del proprio personale;
+- j) le sanzioni finalizzate al prelievo dell'utile illecito, nella misura in cui non abbiano carattere penale.
 
 <sup>2</sup> Rettifiche del valore, nonché ammortamenti sulle spese di produzione di partecipazioni che soddisfano i presupposti dell'articolo 88a capoverso 1 lettera b vengono aggiunti all'utile imponibile, per quanto non siano più giustificati.
 
-<sup>3</sup> Gli oneri giustificati dall'uso commerciale non comprendono le retribuzioni corruttive ai sensi del diritto penale svizzero fatte a pubblici ufficiali svizzeri o stranieri.
+<sup>3</sup> Gli oneri giustificati dall'uso commerciale non comprendono segnatamente:
+
+- a) i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b) le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c) le multe;
+- d) le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.
+
+<sup>4</sup> Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 3 lettera c e lettera d sono deducibili se:
+
+- a) sono contrarie all'ordine pubblico svizzero; o
+- b) il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.
 
 [^81-1]: Testo giusta decreto popolare del 13 giu. 1999; vedi nota all'art. 1 lett. b
 [^81-2]: Art. 12 segg. DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
@@ -1630,7 +1670,11 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> L'imposta sull'utile è calcolata in base all'utile netto conseguito nel periodo fiscale.
 
+<sup>1<sup>bis</sup></sup> Se la chiusura dei conti è redatta in una moneta estera, l'utile netto imponibile va convertito in franchi. È determinante il corso medio delle divise (vendita) durante il periodo fiscale.
+
 <sup>2</sup> L'imposta sul capitale è calcolata in base alla situazione alla fine dell'esercizio commerciale.
+
+<sup>2<sup>bis</sup></sup> Se la chiusura dei conti è redatta in una moneta estera, il capitale proprio imponibile va convertito in franchi. È determinante il corso delle divise (vendita) durante il periodo fiscale.
 
 <sup>3</sup> Se un esercizio commerciale comprende più o meno 12 mesi:
 
@@ -1650,6 +1694,14 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> Una volta pervenuto il pagamento, le imposte sugli utili e sul capitale riscosse per i comuni vengono trasmesse ai comuni aventi diritto, dedotto l'indennizzo secondo l'articolo 165a.
 
 <sup>2</sup> L'attribuzione ai comuni avviene secondo i principi del diritto intercantonale sulla doppia imposizione. Le quote parti vengono accreditate periodicamente sul conto corrente del comune.
+
+#### Art. 97abis
+
+**Quota comunale dell'imposta integrativa della Confederazione**
+
+<sup>1</sup> I comuni ricevono senza destinazione vincolata il 25 per cento dell'imposta integrativa della Confederazione spettante al Cantone a seguito dell'imposizione minima di grandi gruppi di imprese multinazionali.
+
+<sup>2</sup> Una volta pervenuto il pagamento, la loro quota gli viene trasmessa semestralmente in rapporto all'imposta sull'utile riscossa per loro conformemente all'articolo 97a'.
 
 ## 3.
 
@@ -2394,11 +2446,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 - a) i datori di lavoro sulle prestazioni ai loro dipendenti,
 - b) i creditori e i debitori sull'esistenza, l'ammontare, gli interessi e le garanzie di crediti,
-- c) gli assicuratori sul valore di riscatto di assicurazioni e sulle prestazioni pagate o dovute che derivano dal rapporto assicurativo,
+- c) gli assicuratori, sul valore di riscatto di assicurazioni e sulle prestazioni pagate o dovute in virtù di rapporti assicurativi; nel caso di assicurazioni di rendita vitalizia rette dalla legge sul contratto d'assicurazione[^129-1], devono inoltre indicare l'anno di conclusione del contratto , l'importo della rendita vitalizia garantita, la quota di reddito imponibile complessiva secondo l'articolo 23 capoverso 2 nonché le prestazioni eccedentarie e la quota di reddito da tali prestazioni secondo l'articolo 23 capoverso 2 lettera b;
 - d) i fiduciari, gli amministratori di sostanze e altri mandatari, che hanno il possesso o l'amministrazione di beni appartenenti al contribuente, su questi beni e i loro proventi,
 - e) le persone che sono o erano in rapporti d'affari con il contribuente, sulle reciproche pretese e prestazioni.
 
 <sup>2</sup> Se il contribuente nonostante invito non presenta tali attestazioni, l'autorità fiscale può pretenderle direttamente da terzi. Resta riservato il segreto professionale tutelato dalla legge.
+
+[^129-1]: legge federale sul contratto d'assicurazione del 2 aprile 1908 (legge sul contratto d'assicurazione, VVG; RS [221.229.1](https://db.clex.ch/link/Bund/221.229.1/it))
 
 #### Art. 130
 
