@@ -4,13 +4,12 @@ number: "23"
 title: Haftungsgesetz
 short: HG
 language: de
-version: 2021-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-10-26
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 1988-09-13
 in_force: 1990-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/23"
-pdf: "https://srl.lu.ch/api/de/versions/3703/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3703/pdf_file"
 
 (HG)
 
-vom 13.09.1988 (Stand 01.01.2021)
+vom 13.09.1988 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -69,13 +68,13 @@ beschliesst:
 
 **Widerrechtliche Schädigung Dritter**
 
-<sup>1</sup> Das Gemeinwesen haftet für den vollen Schaden, den ein Angestellter[^4-1] einem Dritten in Ausübung amtlicher Verrichtungen widerrechtlich zufügt, sofern es nicht nachweist, dass dem Angestellten kein Verschulden zur Last fällt. Urteilsunfähigkeit des Angestellten hebt die Haftpflicht nicht auf.
+<sup>1</sup> — Das Gemeinwesen haftet für den vollen Schaden, den Angestellte[^4-1] Dritten in Ausübung amtlicher Verrichtungen widerrechtlich zufügen, sofern es nicht nachweist, dass den Angestellten kein Verschulden zur Last fällt. Urteilsunfähigkeit der Angestellten hebt die Haftpflicht nicht auf.
 
-<sup>2</sup> Wird ein Entscheid im Rechtsmittelverfahren geändert, haftet das Gemeinwesen nur beim Nachweis, dass der Angestellte oder die Behörde die Widerrechtlichkeit beabsichtigt hat. Die Rechtmässigkeit rechtskräftiger Entscheide kann im Haftpflichtverfahren nicht überprüft werden.
+<sup>2</sup> — Wird ein Entscheid im Rechtsmittelverfahren geändert, haftet das Gemeinwesen nur beim Nachweis, dass der oder die Angestellte oder die Behörde die Widerrechtlichkeit beabsichtigt hat. Die Rechtmässigkeit rechtskräftiger Entscheide kann im Haftpflichtverfahren nicht überprüft werden.
 
-<sup>3</sup> Bei Selbstverschulden des geschädigten Dritten wird der Schadenersatz herabgesetzt.
+<sup>3</sup> — Bei Selbstverschulden geschädigter Dritter wird der Schadenersatz herabgesetzt.
 
-<sup>4</sup> Der Dritte hat gegen den Angestellten keinen Anspruch.
+<sup>4</sup> — Dritte haben gegen Angestellte keinen Anspruch.
 
 [^4-1]: Gemäss Personalgesetz vom 26. Juni 2001, in Kraft seit dem 1. Januar 2003 (G 2002 305), wurde in den §§ 4, 6 und 9–12 sowie im Titel vor § 10 die Bezeichnung «Beamter» durch «Angestellter» ersetzt.
 
@@ -99,7 +98,7 @@ beschliesst:
 
 **Haftpflichtige Gemeinwesen**
 
-<sup>1</sup> Haftpflichtig ist das Gemeinwesen, welches den Angestellten gewählt oder Private mit amtlichen Verrichtungen betraut hat.
+<sup>1</sup> Haftpflichtig ist das Gemeinwesen, in dessen Dienstverhältnis der oder die Angestellte steht, oder das Private mit amtlichen Verrichtungen betraut hat.
 
 <sup>2</sup> Mehrere Gemeinwesen haften solidarisch.
 
@@ -125,7 +124,7 @@ beschliesst:
 
 **Rückgriff auf beteiligte Gemeinwesen**
 
-<sup>1</sup> Hat ein Gemeinwesen in Erfüllung seiner Haftpflicht Schadenersatz geleistet, kann es auf andere Gemeinwesen zurückgreifen, wenn sie ebenfalls haftpflichtig sind oder wenn der Angestellte in ihren Interessen gehandelt hat.
+<sup>1</sup> — Hat ein Gemeinwesen in Erfüllung seiner Haftpflicht Schadenersatz geleistet, kann es auf andere Gemeinwesen zurückgreifen, wenn sie ebenfalls haftpflichtig sind oder wenn der oder die Angestellte in ihren Interessen gehandelt hat.
 
 <sup>2</sup> Das Kantonsgericht[^9-1] bestimmt die Höhe des Anspruchs nach freiem Ermessen. § 15 Absatz 2 und § 16 Absatz 2 sind anwendbar.
 
@@ -137,13 +136,13 @@ beschliesst:
 
 **Direkte Schädigung des Gemeinwesens**
 
-<sup>1</sup> Der Angestellte haftet dem Gemeinwesen für den Schaden, den er ihm widerrechtlich und vorsätzlich oder grobfahrlässig verursacht hat.
+<sup>1</sup> — Angestellte haften dem Gemeinwesen für den Schaden, den sie ihm widerrechtlich und vorsätzlich oder grobfahrlässig verursacht haben.
 
 #### § 11
 
 **Rückgriff bei widerrechtlicher Schädigung Dritter**
 
-<sup>1</sup> Hat das Gemeinwesen in Erfüllung seiner Haftpflicht Schadenersatz geleistet, greift es auf den Angestellten zurück, wenn er den Schaden widerrechtlich und vorsätzlich oder grobfahrlässig verursacht hat.
+<sup>1</sup> — Hat das Gemeinwesen in Erfüllung seiner Haftpflicht Schadenersatz geleistet, greift es auf den Angestellten oder die Angestellte zurück, wenn er oder sie den Schaden widerrechtlich und vorsätzlich oder grobfahrlässig verursacht hat.
 
 #### § 12
 
@@ -155,13 +154,13 @@ beschliesst:
 
 **Schädigung durch Private**
 
-<sup>1</sup> Hat das Gemeinwesen an Stelle eines Privaten einem geschädigten Dritten für Schaden aus amtlichen Verrichtungen Ersatz leisten müssen, steht ihm gegen den Privaten in gleichem Umfang ein Ersatzanspruch zu.
+<sup>1</sup> — Hat das Gemeinwesen an Stelle Privater einer geschädigten Drittperson für Schaden aus amtlichen Verrichtungen Ersatz leisten müssen, steht ihm gegen die Privaten in gleichem Umfang ein Ersatzanspruch zu.
 
 #### § 14
 
 **Verzicht auf die Ersatzforderung**
 
-<sup>1</sup> Das Gemeinwesen kann auf die Ersatzforderung ganz oder teilweise verzichten, wenn es unter Würdigung aller Umstände als gerechtfertigt erscheint. Dabei sind insbesondere der Hergang der Schädigung, das bisherige dienstliche Verhalten und eine allfällige finanzielle Notlage des Haftpflichtigen zu beachten.
+<sup>1</sup> — Das Gemeinwesen kann auf die Ersatzforderung ganz oder teilweise verzichten, wenn es unter Würdigung aller Umstände als gerechtfertigt erscheint. Dabei sind insbesondere der Hergang der Schädigung, das bisherige dienstliche Verhalten und eine allfällige finanzielle Notlage des oder der Haftpflichtigen zu beachten.
 
 #### § 15
 
@@ -177,9 +176,9 @@ beschliesst:
 
 **Verwirkung**
 
-<sup>1</sup> Die Schadenersatzforderung erlischt, wenn die Klage nicht innert drei Jahren seit Kenntnis des Schadens und des Haftpflichtigen, spätestens aber fünf Jahre nach dem Eintritt des Schadens, eingereicht wird.
+<sup>1</sup> — Die Schadenersatzforderung erlischt, wenn die Klage nicht innert drei Jahren seit Kenntnis des Schadens und des oder der Haftpflichtigen, spätestens aber fünf Jahre nach dem Eintritt des Schadens, eingereicht wird.
 
-<sup>2</sup> Die Rückgriffsforderung erlischt, wenn die Klage nicht innert Jahresfrist seit der Anerkennung des Schadenersatzanspruchs des Dritten durch das Gemeinwesen oder seit der rechtskräftigen Feststellung des Schadenersatzanspruchs eingereicht wird.
+<sup>2</sup> — Die Rückgriffsforderung erlischt, wenn die Klage nicht innert Jahresfrist seit der Anerkennung des Schadenersatzanspruchs der Drittperson durch das Gemeinwesen oder seit der rechtskräftigen Feststellung des Schadenersatzanspruchs eingereicht wird.
 
 <sup>3</sup> Diese Vorschriften werden auf Ersatzforderungen gegen Private nicht angewendet.
 
