@@ -4,13 +4,12 @@ number: "740.111"
 title: Verordnung über die Geoinformation im Kanton Aargau
 short: "Kantonale Geoinformationsverordnung, KGeoIV"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-13
+version: 2026-01-01
+version_adopted: 2025-09-03
 adopted: 2011-11-16
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/740.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3702/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3871/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3702/pdf_file"
 
 (Kantonale Geoinformationsverordnung, KGeoIV)
 
-Vom 16.11.2011 (Stand 01.01.2025)
+Vom 16.11.2011 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -253,7 +252,7 @@ beschliesst:
 
 **Pflichten der Nutzerinnen und Nutzer**
 
-<sup>1</sup> Nutzerinnen und Nutzer der Geobasisdaten des kantonalen Rechts und der übrigen Geobasisdaten
+<sup>1</sup> Nutzerinnen und Nutzer der Geobasisdaten des kantonalen Rechts und der übrigen Geodaten
 
 - a) sind für die Einhaltung der Vorschriften über den Datenschutz verantwortlich,
 - b) dürfen Daten nur mit Angabe der Quelle wiedergeben.
@@ -674,17 +673,7 @@ beschliesst:
 
 #### § 52
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> Die Geobasisdaten des kantonalen Rechts entsprechen ab 1. Januar 2022 vollumfänglich den qualitativen und technischen Anforderungen des KGeoIG und dieser Verordnung.
-
-<sup>2</sup> Das AGIS-Board beschliesst innert 12 Monaten nach Inkrafttreten dieser Verordnung einen verbindlichen Umsetzungsplan.
-
-<sup>3</sup> An die Kosten, die den Gemeinden auf der Grundlage des Umsetzungsplans wegen zwingender Anpassungen der IT-Infrastruktur, der Software und der Modellierungen an die neuen qualitativen und technischen Anforderungen entstehen, bezahlt der Kanton 20 %.
-
-<sup>4</sup> Die Gemeinden reichen ein Gesuch um Kostenerstattung mit einer Schlussabrechnung und den Belegen bis spätestens zum 31. Dezember 2021 beim AGIS-Servicecenter ein.
-
-<sup>5</sup> Die Tragung der Kosten der amtlichen Vermessung richtet sich nach dem beim Beginn der Vermessungsvorhaben geltenden Recht.
+**…**
 
 #### § 53
 
