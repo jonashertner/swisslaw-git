@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: de
-version: 2025-07-03
+version: 2026-01-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20250703-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20250703/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Strassburg am 9. September 1996 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 1998 In Kraft getreten für die Schweiz am 1. November 2009
 
-(Stand am 3. Juli 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: [AS 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -373,7 +373,7 @@ Anlage 2[^t-3]
 
 ## Anwendungsbestimmung
 
-[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss den Beschlüssen vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), vom 12. Dez. 2024 ([AS 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)), vom 27. Juni 2024 ([AS 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) und vom 3. Juli 2025, in Kraft seit 3. Juli 2025 ([AS 2025 588](https://fedlex.data.admin.ch/eli/oc/2025/588)).
+[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss den Beschlüssen vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), vom 27. Juni 2024 ([AS 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)), vom 3. Juli 2025 ([AS 2025 588](https://fedlex.data.admin.ch/eli/oc/2025/588)) und vom 12. Dez. 2024, in Kraft seit 1. Jan. 2026 ([AS 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)).
 
 <table>
 <tr><td>Teil A</td><td>Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen</td></tr>
@@ -476,7 +476,7 @@ Die innerstaatliche Institution erhebt die Entsorgungsgebühr und legt der inter
 
 **Erhebung der Entsorgungsgebühr**
 
-<sup>(1)</sup> Die Entsorgungsgebühr beträgt 10 Euro (zuzüglich MWSt.) pro 1000 l gelieferten Gasöls. Das Volumen des verkauften Gasöls entspricht dem Volumen bei 15 °C.
+<sup>(1)</sup> Die Entsorgungsgebühr beträgt 12 Euro (zuzüglich MWSt) pro 1000 l gelieferten Gasöls. Das Volumen des verkauften Gasöls entspricht dem Volumen bei 15 °C.
 
 <sup>(2)</sup> Schuldner der Entsorgungsgebühr ist der Schiffsbetreiber.
 
@@ -577,7 +577,7 @@ Die innerstaatlichen Institutionen melden dem Sekretariat der Internationalen Au
 
 <sup>(1)</sup> Der Finanzausgleich nach den Artikeln 4.02 und 4.03 wird für jede innerstaatliche Institution wie folgt ermittelt:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20260101/de/xml/image/image1.png)</sub>
 
 Darin bedeutet:
 

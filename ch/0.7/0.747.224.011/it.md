@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convenzione del 9 settembre 1996 sulla raccolta, il deposito e il ritiro di rifiuti nella navigazione sul Reno e nella navigazione interna (con annessi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: it
-version: 2025-07-03
+version: 2026-01-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20250703-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20250703/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 9 settembre 1996 Approvata dall’Assemblea federale il 19 dicembre 1997[^t-1] Strumento di ratifica depositato dalla Svizzera il 16 luglio 1998 Entrata in vigore per la Svizzera il 1° novembre 2009
 
-(Stato 3 luglio 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -375,7 +375,7 @@ Annesso 2[^t-3]
 
 ## Disposizione esecutiva
 
-[^t-3]: Aggiornato dagli emendamenti dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), il 21 giu. 2023 ([RU 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), del 12 dic. 2024 ([RU 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)), il 27 giu. 2024 ([RU 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) ed il 3 lug. 2025, in vigore dal 3 lug. 2025 ([RU 2025 588](https://fedlex.data.admin.ch/eli/oc/2025/588)).
+[^t-3]: Aggiornato dagli emendamenti dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), il 21 giu. 2023 ([RU 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), del il 27 giu. 2024 ([RU 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)), dal 3 lug. 2025 ([RU 2025 588](https://fedlex.data.admin.ch/eli/oc/2025/588)) e del 12 dic. 2024, in vigore dal in vigore dal 1° gen. 2026 ([RU 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)).
 
 <table>
 <tr><td>Parte A:</td><td>Raccolta, deposito e ritiro di rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione.</td></tr>
@@ -478,7 +478,7 @@ L’ente nazionale riscuote la tassa di eliminazione e sottopone all’ufficio i
 
 **Riscossione della tassa di eliminazione**
 
-<sup>(1)</sup> La tassa di eliminazione è di 10 euro (più IVA) per 1000 l di gasolio forniti. Il volume del gasolio venduto corrisponde al volume a 15 °C.
+<sup>(1)</sup> La tassa di eliminazione è di 12 euro (più IVA) per 1000 l di gasolio forniti. Il volume del gasolio venduto corrisponde al volume a 15 °C.
 
 <sup>(2)</sup> Il debitore della tassa di eliminazione è l’esercente dell’imbarcazione.
 
@@ -579,7 +579,7 @@ Gli enti nazionali segnalano trimestralmente, vale a dire il 1° febbraio, il 1�
 
 <sup>(1)</sup> Il regolamento finanziario ai sensi degli articoli 4.02 e 4.03 è determinato come segue per ogni ente nazionale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/it/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20260101/it/xml/image/image1.png)</sub>
 
 Significato:
 
@@ -605,8 +605,8 @@ e rimozione dei residui del trasbordo, degli imballaggi e dei mezzi per stivare;
 
 Ai fini della presente parte si intende per:
 
-- (a) «trasporti esclusivi»: trasporti per i quali è possibile documentare che, per più viaggi in successione, nella stiva o nella cisterna dell’imbarcazione viene trasportato lo stesso carico, il cui trasporto non rende necessario un lavaggio o un degassaggio preliminari della stiva o della cisterna;
-- (aa) «trasporti compatibili»: trasporti per i quali è possibile documentare che, per più viaggi in successione, nella stiva o nella cisterna dell’imbarcazione viene trasportato un carico il cui trasporto non rende necessario un lavaggio o un degassaggio preliminari della stiva o della cisterna;
+- a) «trasporti esclusivi»: trasporti per i quali è possibile documentare che, per più viaggi in successione, nella stiva o nella cisterna dell’imbarcazione viene trasportato lo stesso carico, il cui trasporto non rende necessario un lavaggio o un degassaggio preliminari della stiva o della cisterna;
+- aa) «trasporti compatibili»: trasporti per i quali è possibile documentare che, per più viaggi in successione, nella stiva o nella cisterna dell’imbarcazione viene trasportato un carico il cui trasporto non rende necessario un lavaggio o un degassaggio preliminari della stiva o della cisterna;
 - b) «carico restante»: carichi liquidi che rimangono nella stiva e nelle tubature dopo lo scarico senza l’impiego di un sistema di prosciugamento e merci secche che rimangono nella stiva dopo lo scarico senza l’impiego di scope, spazzatrici o apparecchi di pulizia a vuoto;
 - c) «residui di carico»: carichi liquidi che non possono essere rimossi dalla stiva e dalle tubature mediante il sistema di prosciugamento e merci secche che non possono essere rimosse dalla stiva mediante scope, spazzatrici o apparecchi di pulizia a vuoto;
 - d) «sistema di prosciugamento»: sistema ai sensi dell’appendice II per svuotare nel modo più completo possibile le stive e le tubature, così che rimangano solo residui di carico non prosciugabili;
@@ -763,13 +763,14 @@ I paragrafi 1 e 4 non si applicano alle imbarcazioni utilizzate esclusivamente p
 - a) la fornitura di carburanti, acqua potabile e provviste di bordo a imbarcazioni marittime e a imbarcazioni per la navigazione interna (navi di rifornimento);
 - b) la raccolta di rifiuti oleosi o grassi delle imbarcazioni marittime o per la navigazione interna;
 - c) il trasporto di gas liquefatti (ADN tipo G);
-- d) il trasporto di zolfo liquido, polvere cementizia, ceneri leggere e merci equiparabili, trasportate come merci sfuse o carico pompabile, a condizione che si faccia uso di un sistema adatto esclusivamente alle classi merceologiche interessate per il carico, lo scarico e l’immagazzinaggio a bordo;
+- d)[^annexu1-lvlu1-chapVI-603-3] il trasporto di zolfo liquido, polvere cementizia, ceneri leggere e merci equiparabili, trasportate come merci sfuse o carico pompabile, a condizione che si faccia uso di un sistema adatto esclusivamente alle classi merceologiche interessate per il carico, lo scarico e l’immagazzinaggio a bordo;
 - e) il trasporto di sabbia, ghiaia o materiale dragato dal sito di dragaggio al sito di scarico.
 
 <sup>(8)</sup> I paragrafi 1 e 4 non si applicano neanche ai trasporti per i quali lo scarico è effettuato su un’imbarcazione marittima. Il conduttore deve dimostrare l’avvenuto scarico per mezzo degli appositi documenti di trasporto ed esibire su richiesta i documenti alle autorità di controllo.
 
 [^annexu1-lvlu1-chapVI-603-1]: Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
 [^annexu1-lvlu1-chapVI-603-2]: Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE.
+[^annexu1-lvlu1-chapVI-603-3]: Nuovo testo giusta la mod. della Conferenza delle Parti del 12 dic. 2024, in vigore per la Svizzera dal 1° gen. 2026 ([RU 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)).
 
 ### Capitolo VII Obblighi del vettore, del noleggiatore, del destinatario del carico e dell’esercente dell’impianto di trasbordo
 

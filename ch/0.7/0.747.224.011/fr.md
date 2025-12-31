@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: fr
-version: 2025-07-03
+version: 2026-01-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20250703-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20250703/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Strasbourg le 9 septembre 1996 Approuvée par l’Assemblée fédérale le 19 décembre 1997[^t-1] Instrument de ratification déposé par la Suisse le 16 juillet 1998 Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 2009
 
-(État le 3 juillet 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -374,7 +374,7 @@ Annexe 2[^t-3]
 
 ## Règlement d’application
 
-[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), du 12 déc. 2024 ([RO 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)), du 27 juin 2024 ([RO 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) et du 3 juil. 2025, en vigueur depuis le 3 juil. 2025 ([RO 2025 588](https://fedlex.data.admin.ch/eli/oc/2025/588)).
+[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), du 27 juin 2024 ([RO 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)), du 3 juil. 2025 ([RO 2025 588](https://fedlex.data.admin.ch/eli/oc/2025/588)) et du 12 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)).
 
 <table>
 <tr><td>Partie A</td><td>Collecte, dépôt et réception des déchets huileux et graisseux survenant lors de l’exploitation du bâtiment.</td></tr>
@@ -477,7 +477,7 @@ L’institution nationale perçoit la rétribution d’élimination et soumet à
 
 **Perception de la rétribution d’élimination**
 
-<sup>(1)</sup> La rétribution d’élimination s’élève à 10 euros (augmentée de la TVA) pour 1000 l de gazole délivré. Le calcul du montant doit être basé sur le volume du gazole correspondant au volume à 15 °C.
+<sup>(1)</sup> La rétribution d’élimination s’élève à 12 euros (augmentée de la TVA) pour 1000 l de gazole délivré. Le calcul du montant doit être basé sur le volume du gazole correspondant au volume à 15 °C.
 
 <sup>(2)</sup> Le débiteur de la rétribution d’élimination est le transporteur.
 
@@ -578,7 +578,7 @@ Les institutions nationales communiquent au secrétariat de l’instance interna
 
 <sup>(1)</sup> La péréquation financière visée aux art. 4.02 et 4.03 ci-dessus est déterminée comme suit pour chaque institution nationale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20250703/fr/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20260101/fr/xml/image/image1.png)</sub>
 
 où:
 
