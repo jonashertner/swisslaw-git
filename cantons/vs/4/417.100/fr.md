@@ -1,41 +1,80 @@
 ---
 canton: VS
 number: "417.100"
-title: Règlement sur les contributions des communes sièges aux institutions cantonales de formation et de recherche du degré tertiaire
-short: RCCS
+title: Règlement fixant la localisation et la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire
+short: R-LCCS
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-22
+version: 2026-01-01
+version_adopted: 2026-01-21
 adopted: 2015-04-22
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/417.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3044/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3561/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement sur les contributions des communes sièges aux institutions cantonales de formation et de recherche du degré tertiaire
+# Règlement fixant la localisation et la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire
 
-(RCCS)
+(R-LCCS)
 
-du 22.04.2015 (état 01.01.2023)
+du 22.04.2015 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l'article 57 alinéa 1 de la Constitution cantonale;
 
-vu la loi fixant la localisation des institutions cantonales de formation et de recherche du degré tertiaire et la contribution des communes sièges du 11 novembre 1999, en particulier les articles 5, 6a, 6b, 7, T1-1 et T1-2;
+vu les articles 1 alinéa 3, 5 alinéa 5, 6a alinéa 2, 6b alinéa 4 et 7 alinéa 3 de la loi fixant la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire du 11 novembre 1999 (LCCS);
+
+vu l'article 8 alinéa 1 lettre d de la loi sur l’encouragement des hautes écoles et de la recherche du 15 mai 2024 (LEHER);
 
 sur proposition du département en charge de la formation,
 
-ordonne:
+ordonne [^ingress-1]:
+
+[^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction, vise indifféremment l’homme ou la femme.
 
 #### Art. 1
 
 **Champ d'application**
 
-<sup>1</sup> Le présent règlement précise les éléments de la loi fixant la localisation des institutions cantonales de formation et de recherche du degré tertiaire et la contribution des communes sièges (ci-après: loi sur les communes sièges).
+<sup>1</sup> Le présent règlement précise les éléments de la loi fixant la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire (LCCS).
+
+#### Art. 1a
+
+**Localisation des institutions de formation et de recherche du degré tertiaire**
+
+<sup>1</sup> La Haute Ecole spécialisée de Suisse occidentale Valais-Wallis (HES-SO Valais-Wallis) est localisée:
+
+- a) à Sion pour les domaines des Sciences de l'ingénieur;
+- b) à Sierre pour les domaines de l'Economie et Services, du Travail social et du Design et Arts visuels;
+- c) à Sion, Loèche-les-Bains et Viège pour le domaine de la Santé.
+
+<sup>2</sup> La Haute école pédagogique du Valais (HEP-VS) est localisée à Brig-Glis et à Saint-Maurice.
+
+<sup>3</sup> La Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL) est localisée à Sion.
+
+<sup>4</sup> La Haute école spécialisée Fernfachhochschule Schweiz (FFHS) est localisée à Brig-Glis.
+
+<sup>5</sup> Les institutions considérées comme les cas particuliers au sens de la LCCS sont localisées:
+
+- a) à Sion pour l’EPFL Valais Wallis;
+- b) à Sion pour l’antenne valaisanne de l’Université de Lausanne;
+- c) à Sion pour l’antenne valaisanne de l’Université de Genève;
+- d) à Sion pour la Fondation Universitaire Kurt Bösch.
+
+<sup>6</sup> Les institutions de formation et de recherche universitaires sont localisées:
+
+- a) à Brig-Glis et à Sierre pour l'Institut universitaire FernUni Schweiz-UniDistance Suisse;
+- b) à Sierre pour l’Institut de recherche en informatique Icare;
+- c) à Sion pour le Service de recherche de la clinique romande de réadaptation CRR;
+- d) à Martigny pour l'Institut de recherche Idiap;
+- e) à Sembrancher pour le Centre régional d'études des populations alpines CREPA.
+
+<sup>7</sup> Les filières des écoles supérieures ES sont localisées:
+
+- a) à Sion pour les filières ES de l’Ecole supérieure Domaine Social Valais;
+- b) à Viège et Monthey pour les filières ES de la Fondation ES Santé Valais-Wallis.
 
 #### Art. 2
 
@@ -47,7 +86,7 @@ ordonne:
 
 **Contribution communale aux dépenses d'investissement et de location**
 
-<sup>1</sup> Les communes sièges fournissent gratuitement les terrains nécessaires équipés pour l'implantation des bâtiments accueillant les institutions tertiaires, en principe par la cession du droit de propriété avec mention possible de droit public. La participation communale s'élève à 10 pour cent des dépenses d'investissement, quelles que soient leurs sources de financement (canton, Confédération, LORO etc.).
+<sup>1</sup> Les communes sièges fournissent gratuitement les terrains nécessaires équipés pour l'implantation des bâtiments accueillant les institutions tertiaires, en principe par la cession du droit de propriété avec mention possible de droit public. La participation communale s'élève à 10 pour cent des dépenses d'investissement, quelles que soient leurs sources de financement (canton, Confédération, LORO, etc.).
 
 <sup>2</sup> Sont considérées comme dépenses d'investissement:
 
@@ -72,9 +111,9 @@ ordonne:
 
 <sup>1</sup> Les contributions des communes sièges sont calculées et enregistrées selon le principe de l'annualité des comptes.
 
-<sup>2</sup> Etant donné que les contributions des communes sièges aux dépenses d'investissement et de location de l’année en cours ne peuvent se déterminer qu'au moment où les comptes des institutions tertiaires sont définitifs, des contributions provisoires sont facturées par les institutions tertiaires aux communes sièges au plus tard le 30 juin de l'année civile en cours. Ces contributions provisoires correspondent au 80 pour cent du budget approuvé par les instances compétentes.
+<sup>2</sup> Etant donné que les contributions des communes sièges aux dépenses d'investissement et de location de l’année en cours ne peuvent se déterminer qu'au moment où les comptes des institutions tertiaires sont définitifs, des contributions provisoires sont facturées par les institutions tertiaires aux communes sièges au plus tard à la fin du premier semestre de l'année civile en cours. Ces contributions provisoires correspondent au 80 pour cent du budget approuvé par les instances compétentes.
 
-<sup>3</sup> Sur la base des comptes définitifs des institutions tertiaires mentionnant les dépenses d'investissement et de location versées l’année précédente par les communes sièges, le département en charge de la formation tertiaire (ci-après: le département) décide, au premier semestre de l’année en cours, des contributions définitives de l’année précédente. Les institutions tertiaires facturent aux communes sièges les montants décidés par le département.
+<sup>3</sup> Sur la base des comptes définitifs des institutions tertiaires mentionnant les dépenses d'investissement et de location versées l’année précédente par les communes sièges, le département en charge de la formation tertiaire (ci-après: le département) décide, au premier semestre de l’année civile en cours, des contributions définitives de l’année précédente. Les institutions tertiaires facturent aux communes sièges les montants décidés par le département.
 
 <sup>4</sup> La participation des communes sièges aux coûts de construction, d'acquisition, d'extension, de rénovation, de transformation et d'équipements des bâtiments est versée en principe en une année, ou par acomptes échelonnés sur trois ans au plus, à partir de l'utilisation des locaux. Si, au moment de l'utilisation des locaux, les décomptes définitifs ne sont pas disponibles, l'institution tertiaire procédera à une facturation par acompte sur la base des coûts prévisionnels.
 

@@ -1,41 +1,80 @@
 ---
 canton: VS
 number: "417.100"
-title: "Reglement betreffend die Beiträge der Standortgemeinden an die kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe *"
-short: RBS
+title: "Reglement über die Beiträge der Standortgemeinden an die kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe *"
+short: R-GBSG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-22
+version: 2026-01-01
+version_adopted: 2026-01-21
 adopted: 2015-04-22
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/417.100"
-pdf: "https://lex.vs.ch/api/de/versions/3044/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3561/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend die Beiträge der Standortgemeinden an die kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe
+# Reglement über die Beiträge der Standortgemeinden an die kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe
 
-(RBS)
+(R-GBSG)
 
-vom 22.04.2015 (Stand 01.01.2023)
+vom 22.04.2015 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 Absatz 1 der Kantonsverfassung;
 
-eingesehen das Gesetz zur Standortbestimmung der kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe und über den Beitrag der Standortgemeinden vom 11. November 1999, insbesondere die Artikel 5, 6a, 6b, 7, T1-1 und T1-2;
+eingesehen die Artikel 1 Absatz 3, 5 Absatz 5, 6a Absatz 2, 6b Absatz 4 und 7 Absatz 3 des Gesetzes über den Beitrag der Standortgemeinden an die Bildungs- und Forschungsinstitutionen der Tertiärstufe vom 11. November 1999 (GBSG);
+
+eingesehen Artikel 8 Absatz 1 Buchstabe d des Gesetzes über die Förderung von Hochschulen und Forschung vom 15. Mai 2024 (FHFG);
 
 auf Antrag des für die Bildung zuständigen Departements,
 
-verordnet:
+verordnet [^ingress-1]:
+
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement legt die Elemente des Gesetzes zur Standortbestimmung der kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe und über den Beitrag der Standortgemeinden (nachfolgend: Gesetz über die Standortgemeinden) fest.
+<sup>1</sup> Das vorliegende Reglement legt die Elemente des Gesetzes über den Beitrag der Standortgemeinden an die Bildungs- und Forschungsinstitutionen der Tertiärstufe (GBSG) fest.
+
+#### Art. 1a
+
+**Standort der Bildungs- und Forschungsinstitutionen der Tertiärstufe**
+
+<sup>1</sup> Die Fachhochschule Westschweiz Valais-Wallis (HES-SO Valais-Wallis) hat ihre Standorte in:
+
+- a) Sitten für die Bereiche Ingenieurwesen;
+- b) Siders für die Bereiche Wirtschaft und Dienstleistungen, soziale Arbeit und Design und bildende Kunst;
+- c) Sitten, Leukerbad und Visp für den Bereich Gesundheit.
+
+<sup>2</sup> Die Pädagogische Hochschule Wallis (PH-VS) hat ihre Standorte in Brig-Glis und Saint-Maurice.
+
+<sup>3</sup> Die Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL) hat ihren Standort in Sitten.
+
+<sup>4</sup> Die Fernfachhochschule Schweiz (FFHS) hat ihren Standort in Brig-Glis.
+
+<sup>5</sup> Die Standorte der Institutionen, die im Sinne des GBSG als Sonderfälle gelten, sind:
+
+- a) Sitten für die EPFL Valais Wallis;
+- b) Sitten für die Walliser Zweigstelle der Universität Lausanne;
+- c) Sitten für die Walliser Zweigstelle der Universität Genf;
+- d) Sitten für die Fondation Universitaire Kurt Bösch.
+
+<sup>6</sup> Die universitären Bildungs- und Forschungsinstitute haben ihre Standorte in:
+
+- a) Brig-Glis und Siders für die Fernuni Schweiz-Unidistance Suisse;
+- b) Siders für das Forschungsinstitut für Informatik Icare;
+- c) Sitten für den Forschungsdienst der Westschweizer Rehabilitationsklinik CRR;
+- d) Martinach für das Forschungsinstitut Idiap;
+- e) Sembrancher für das Centre régional d'études des populations alpines (CREPA).
+
+<sup>7</sup> Die Lehrgänge der höheren Fachschulen HF haben ihre Standorte in:
+
+- a) Sitten für die HF-Lehrgänge im Bereich Soziale Arbeit;
+- b) Visp und Monthey für die HF-Lehrgänge der Stiftung HF Gesundheit Valais-Wallis.
 
 #### Art. 2
 
@@ -47,7 +86,7 @@ verordnet:
 
 **Beitrag der Gemeinden an die Investitions- und Mietkosten**
 
-<sup>1</sup> Die Standortgemeinden stellen das für die Ansiedlung der Gebäude der tertiären Institutionen notwendige, erschlossene Bauland unentgeltlich zur Verfügung, wobei dazu grundsätzlich das Eigentumsrecht unter möglichem Hinweis auf das öffentliche Recht abgetreten wird. Die kommunale Beteiligung beläuft sich auf 10 Prozent der Investitionskosten, unabhängig von deren Finanzierungsquellen (Kanton, Bund, Loterie Romande usw.).
+<sup>1</sup> Die Standortgemeinden stellen das für die Ansiedlung der Gebäude der tertiären Institutionen notwendige, erschlossene Bauland unentgeltlich zur Verfügung, wobei dazu grundsätzlich das Eigentumsrecht unter möglichem Hinweis auf das öffentliche Recht abgetreten wird. Die kommunale Beteiligung beläuft sich auf 10 Prozent der Investitionskosten, unabhängig von deren Finanzierungsquellen (Kanton, Bund, Loterie Romande, usw.).
 
 <sup>2</sup> Als Investitionskosten gelten:
 
@@ -72,9 +111,9 @@ verordnet:
 
 <sup>1</sup> Die Beiträge der Standortgemeinden werden gemäss dem Grundsatz der Jährlichkeit des Jahresabschlusses berechnet und verbucht.
 
-<sup>2</sup> Da die Beiträge der Standortgemeinden an die Investitions- und Mietkosten des laufenden Jahres erst zum Zeitpunkt des definitiven Jahresabschlusses der tertiären Institutionen feststehen können, stellen die tertiären Institutionen den Standortgemeinden bis spätestens am 30. Juni des laufenden Kalenderjahres provisorische Beiträge in Rechnung. Diese provisorischen Beiträge entsprechen 80 Prozent des durch die zuständigen Instanzen genehmigten Budgets.
+<sup>2</sup> Da die Beiträge der Standortgemeinden an die Investitions- und Mietkosten des laufenden Jahres erst zum Zeitpunkt des definitiven Jahresabschlusses der tertiären Institutionen feststehen können, stellen die tertiären Institutionen den Standortgemeinden bis spätestens am Ende der ersten Hälfte des laufenden Kalenderjahres provisorische Beiträge in Rechnung. Diese provisorischen Beiträge entsprechen 80 Prozent des durch die zuständigen Instanzen genehmigten Budgets..
 
-<sup>3</sup> Auf Grundlage der endgültigen Abrechnungen der tertiären Institutionen unter Angabe der im Vorjahr von den Standortgemeinden bezahlten Investitions- und Mietkosten, entscheidet das für die tertiäre Bildung zuständige Departement (im Folgenden: das Departement) in der ersten Hälfte des laufenden Jahres über die endgültigen Beiträge des Vorjahres. Die tertiären Institutionen stellen den Standortgemeinden die vom Departement beschlossenen Beträge in Rechnung.
+<sup>3</sup> Auf Grundlage der endgültigen Abrechnungen der tertiären Institutionen unter Angabe der im Vorjahr von den Standortgemeinden bezahlten Investitions- und Mietkosten, entscheidet das für die tertiäre Bildung zuständige Departement (nachfolgend: das Departement) in der ersten Hälfte des laufenden Kalenderjahres über die endgültigen Beiträge des Vorjahres. Die tertiären Institutionen stellen den Standortgemeinden die vom Departement beschlossenen Beträge in Rechnung.
 
 <sup>4</sup> Die Beteiligung der Standortgemeinden an den Kosten für Bau, Kauf, Erweiterung, Renovierung, Umbau und Gebäudeausstattung wird grundsätzlich innerhalb eines Jahres vollzogen oder in Raten, die über höchstens drei Jahre ab der Nutzung der Gebäude abzugelten sind. Liegen zum Zeitpunkt der Nutzung der Gebäude keine definitiven Abrechnungen vor, nimmt die tertiäre Institution gestützt auf die voraussichtlichen Kosten eine Fakturierung in Raten vor.
 
