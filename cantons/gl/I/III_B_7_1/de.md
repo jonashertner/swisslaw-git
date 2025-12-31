@@ -4,13 +4,12 @@ number: III B/7/1
 title: Verordnung über die Gebühren im Zivilrecht
 short: "Gebührentarif ZGB, GebT ZGB"
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-09
+version: 2026-01-01
+version_adopted: 2026-02-18
 adopted: 2022-02-09
 in_force: 2022-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.7.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2272/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2628/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2272/pdf_file"
 
 (Gebührentarif ZGB, GebT ZGB)
 
-Vom 09.02.2022 (Stand 01.01.2022)
+Vom 09.02.2022 (Stand 01.01.2026)
 
 Der Landrat,
 
@@ -245,11 +244,13 @@ erlässt:
 
 #### Art. 14
 
-**Kanzlei**
+**Beglaubigungen und Bescheinigungen**
 
 <sup>1</sup> Für Beglaubigungen und Bescheinigungen der Staatskanzlei betragen die Gebühren:
 
-- a. Ausstellung einer Überbeglaubigung (Apostille): — 25 Fr.
+- a. Ausstellung einer Überbeglaubigung (Apostille): — 35 Fr.
+- a1. Ausstellung einer Überbeglaubigung (Legalisation): — 30 Fr.
+- a2. Ausstellung einer einfachen Beglaubigung: — 25 Fr.
 - b. andere Bescheinigungen und Bestätigungen: — 20 bis 100 Fr.
 
 SBE 2022 05
