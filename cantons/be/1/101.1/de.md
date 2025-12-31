@@ -4,13 +4,12 @@ number: "101.1"
 title: Verfassung des Kantons Bern
 short: KV
 language: de
-version: 2024-03-03
-valid_until: 2025-12-31
-version_adopted: 2024-03-03
+version: 2026-01-01
+version_adopted: 2023-11-27
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3020/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3020/pdf_file"
 
 (KV)
 
-vom 06.06.1993 (Stand 03.03.2024)
+vom 06.06.1993 (Stand 01.01.2026)
 
 In der Absicht, Freiheit und Recht zu schützen und ein Gemeinwesen zu gestalten, in dem alle in Verantwortung gegenüber der Schöpfung zusammenleben,
 
@@ -49,7 +48,7 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Der Kanton umfasst das Gebiet, das ihm durch die Eidgenossenschaft gewährleistet ist.
 
-<sup>2</sup> Er ist in Verwaltungsregionen, Verwaltungskreise, Amtsbezirke sowie Gemeinden gegliedert.
+<sup>2</sup> Er ist in Verwaltungsregionen, Verwaltungskreise und Gemeinden gegliedert.
 
 <sup>3</sup> Zur Lösung besonderer Aufgaben können regionale Organisationen gebildet werden.
 
@@ -952,7 +951,7 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Der Regierungsrat besteht aus sieben Mitgliedern.
 
-<sup>2</sup> Dem Berner Jura ist ein Sitz gewährleistet. Wählbar sind die französischsprachigen Stimmberechtigten, die in einem der drei Amtsbezirke Courtelary, Moutier oder La Neuveville wohnen.
+<sup>2</sup> Dem Berner Jura ist ein Sitz gewährleistet. Wählbar sind die französischsprachigen Stimmberechtigten, die in der Verwaltungsregion Berner Jura wohnen.
 
 #### Art. 85
 
@@ -1050,7 +1049,7 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 #### Art. 93
 
-**Bezirksverwaltung**
+**Dezentrale Verwaltung**
 
 <sup>1</sup> Die Verwaltungsregionen und die Verwaltungskreise sind die ordentlichen dezentralen Verwaltungseinheiten des Kantons. Sie werden durch das Gesetz bezeichnet.
 
@@ -1058,9 +1057,9 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>3</sup> Das Gesetz legt die Aufgaben der Regierungsstatthalterinnen und Regierungsstatthalter fest.
 
-<sup>4</sup> Das Gesetz bestimmt, welche weiteren Regional- oder Kreisbehörden durch die Stimmberechtigten gewählt werden.
+<sup>4</sup> Es bestimmt, welche weiteren Regional- oder Kreisbehörden durch die Stimmberechtigten gewählt werden.
 
-<sup>5</sup> Das Gesetz bezeichnet die Amtsbezirke.
+<sup>5</sup> …
 
 #### Art. 94
 

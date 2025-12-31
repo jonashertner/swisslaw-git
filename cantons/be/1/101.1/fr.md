@@ -4,13 +4,12 @@ number: "101.1"
 title: "Constitution du canton de Berne *"
 short: ConstC
 language: fr
-version: 2024-03-03
-valid_until: 2025-12-31
-version_adopted: 2024-03-03
+version: 2026-01-01
+version_adopted: 2023-11-27
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3020/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3147/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3020/pdf_file"
 
 (ConstC)
 
-du 06.06.1993 (état au 03.03.2024)
+du 06.06.1993 (état au 01.01.2026)
 
 Dans l'intention de protéger la liberté et le droit et d'aménager une collectivité dans laquelle tous vivent solidairement et sont conscients de leur responsabilité envers la création,
 
@@ -49,7 +48,7 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>1</sup> Le canton de Berne comprend le territoire qui lui est garanti par la Confédération.
 
-<sup>2</sup> Il est divisé en régions administratives, en arrondissements administratifs, en districts et en communes.
+<sup>2</sup> Il est divisé en régions administratives, en arrondissements administratifs et en communes.
 
 <sup>3</sup> Des organisations régionales peuvent être créées pour accomplir des tâches particulières.
 
@@ -952,7 +951,7 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>1</sup> Le Conseil-exécutif se compose de sept membres.
 
-<sup>2</sup> Un siège est garanti au Jura bernois. Est éligible tout citoyen et toute citoyenne de langue française qui réside dans le district de Courtelary, de Moutier ou de La Neuveville.
+<sup>2</sup> Un siège est garanti au Jura bernois. Est éligible tout citoyen et toute citoyenne de langue française qui réside dans la région administrative du Jura bernois.
 
 #### Art. 85
 
@@ -1050,7 +1049,7 @@ le peuple bernois se donne la Constitution suivante:
 
 #### Art. 93
 
-**Administration de district**
+**Administration décentralisée**
 
 <sup>1</sup> Les régions administratives et les arrondissements administratifs sont les unités administratives décentralisées ordinaires du canton. Ils sont désignés par la loi.
 
@@ -1058,9 +1057,9 @@ le peuple bernois se donne la Constitution suivante:
 
 <sup>3</sup> La loi fixe les tâches des préfets et des préfètes.
 
-<sup>4</sup> La loi détermine quelles sont les autres autorités régionales ou d’arrondissement élues par le corps électoral.
+<sup>4</sup> Elle détermine quelles sont les autres autorités régionales ou d’arrondissement élues par le corps électoral.
 
-<sup>5</sup> La loi désigne les limites des districts.
+<sup>5</sup> …
 
 #### Art. 94
 
