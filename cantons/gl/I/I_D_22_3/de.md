@@ -4,13 +4,12 @@ number: I D/22/3
 title: Verordnung über die politischen Rechte
 short: VPR
 language: de
-version: 2023-05-01
-valid_until: 2025-12-31
-version_adopted: 2023-04-25
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2017-11-21
 in_force: 2018-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-D.22.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2421/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2613/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2421/pdf_file"
 
 (VPR)
 
-Vom 21.11.2017 (Stand 01.05.2023)
+Vom 21.11.2017 (Stand 01.01.2026)
 
 Der Regierungsrat,
 
-gestützt auf das Gesetz über die politischen Rechte[^ingress-1],
+gestützt auf Artikel 34a Absatz 2, Artikel 59a Absatz 4 und Artikel 60a Absatz 2 des Gesetzes über die politischen Rechte[^ingress-1],
 
 erlässt:
 
@@ -120,6 +119,12 @@ erlässt:
 
 <sup>5</sup> Für Herstellung und Verteilung der Stimmrechtsausweise für sämtliche übrigen Wahlen und Abstimmungen sind die Gemeinden zuständig. Sie tragen die Kosten. Sie können die Herstellung an den Kanton delegieren.
 
+#### Art. 7a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die Staatskanzlei ist zwecks Herstellung der Stimmrechtsausweise zur Bearbeitung von Personendaten aus dem Stimmregister der Gemeinden berechtigt. Zur Adressierung erhält sie von den Gemeinden Name, Vorname und Adresse der zum massgeblichen Zeitpunkt im Stimmregister der Gemeinde aufgeführten Stimmberechtigten.
+
 #### Art. 8
 
 **Nachträgliche Abgabe**
@@ -168,6 +173,16 @@ erlässt:
 
 <sup>3</sup> Die Kosten für die Herstellung und Zustellung trägt der Kanton; die Kosten für die Verteilung die Gemeinden.
 
+#### Art. 11a
+
+**Verzicht auf das Landsgemeindememorial**
+
+<sup>1</sup> Stimmberechtigte können auf die Zustellung des Landsgemeindememorials in physischer Form verzichten.
+
+<sup>2</sup> Der Verzicht ist der für die Führung des Stimmregisters zuständigen Stelle der Gemeinde mitzuteilen.
+
+<sup>3</sup> Ein Verzicht gilt für alle Stimmberechtigten, die im gleichen Haushalt leben. Davon ausgenommen sind Kollektivhaushalte.
+
 #### Art. 12
 
 **Nachträgliche Abgabe**
@@ -214,18 +229,15 @@ erlässt:
 
 <sup>2</sup> Die Ergebnisse der Verteilung sind im Amtsblatt bekannt zu geben.
 
-### 3.1.2 Freiwilliges Anmeldeverfahren bei Wahlen im Mehrheitswahlverfahren
+### 3.1.2 Anmeldeverfahren bei Wahlen im Mehrheitswahlverfahren
 
 #### Art. 16
 
-**Zeitpunkt**
+**Angaben**
 
-<sup>1</sup> Für erste Wahlgänge können interessierte Personen ihre Kandidatur bis spätestens am siebten Montag vor dem Abstimmungstag melden:
+<sup>1</sup> …
 
-- a. bei der Staatskanzlei für die Wahl des Regierungsrates, des Nationalrates und der Ständeräte;
-- b. bei der Gemeindekanzlei bei Gemeindewahlen nach Artikel 30 Absatz 1 Buchstaben b–e des Gesetzes über die politischen Rechte[^16-1].
-
-<sup>2</sup> Die Mitteilung hat zu enthalten:
+<sup>2</sup> Die Anmeldung der Kandidatur hat zu enthalten:
 
 - a. amtliche Namen und Vornamen;
 - b. Namen und Vornamen, unter denen die Person politisch oder im Alltag bekannt ist;
@@ -235,20 +247,14 @@ erlässt:
 - f. Heimatorte einschliesslich Kantonszugehörigkeit;
 - g. Zugehörigkeit zu einer Partei bzw. einer politischen Gruppierung;
 - h. Beruf;
-- i. eindeutige Bezeichnung des angestrebten Amtes;
-- j. Zusatz «bisher», wenn die Person das Amt innehat.
+- i. eindeutige Bezeichnung des angestrebten Amtes.
+- j. …
 
-<sup>3</sup> Die Kandidatur ist durch Unterschrift zu bestätigen.
-
-<sup>4</sup> Bei zweiten Wahlgängen hat die Anmeldung innert drei Tagen seit dem ersten Wahlgang zu erfolgen.
-
-[^16-1]: GS [I D/22/2](https://gesetze.gl.ch/data/I-D.22.2/de)
+<sup>3–4</sup> …
 
 #### Art. 17
 
-**Information**
-
-<sup>1</sup> Die Staatskanzlei bzw. die Gemeindekanzlei sorgt für eine angemessene Information der Stimmberechtigten über die innert Frist gemeldeten Kandidaturen.
+**…**
 
 ### 3.1.3. Wahlvorschläge und Listen bei Wahlen im Verhältniswahlverfahren
 
@@ -268,8 +274,8 @@ erlässt:
 - b. vorgeschlagene Personen, die nicht wahlfähig sind;
 - c. vorgeschlagene Personen, die mehr als zweimal aufgeführt sind;
 - d. vorgeschlagene Personen, die bereits auf einem anderen Wahlvorschlag desselben Wahlkreises aufgeführt sind;
-- e. überzählige vorgeschlagene Personen von unten nach oben und von rechts nach links;
-- f. unterzeichnende Personen, die nicht im Wahlkreis wohnen oder nicht stimmberechtigt sind.
+- e. überzählige vorgeschlagene Personen von unten nach oben und von rechts nach links.
+- f. …
 
 #### Art. 19
 
@@ -279,7 +285,7 @@ erlässt:
 
 - a. vorgeschlagene Personen gestrichen werden mussten;
 - b. die Unterschrift vorgeschlagener Personen fehlt;
-- c. die Zahl der unterzeichnenden Stimmberechtigten nicht genügt;
+- c. …
 - d. die Listenbezeichnung aufgrund von Verwechslungsgefahr angepasst werden muss.
 
 <sup>2</sup> Für die Ergänzung ist der für den Wahlvorschlag verantwortlichen Person eine Frist von drei Tagen anzusetzen.
@@ -572,6 +578,24 @@ erlässt:
 **Einberufung**
 
 <sup>1</sup> Die Einberufung der Landsgemeinde erfolgt durch Bekanntmachung im Amtsblatt.
+
+#### Art. 39a
+
+**Massnahmen für Stimmberechtigte mit Behinderungen**
+
+<sup>1</sup> Stimmberechtigte mit Behinderungen oder ihre Vertretung haben ihre Bedürfnisse betreffend die Ausübung ihres Stimmrechts einzureichen:
+
+- a. bis spätestens 14 Tage vor der Landsgemeinde bei der Staatskanzlei;
+- b. bis spätestens 14 Tage vor der Gemeindeversammlung bei der Gemeindekanzlei.
+
+#### Art. 39b
+
+**Massnahmen zur Erleichterung der Teilnahme**
+
+<sup>1</sup> Massnahmen zur Erleichterung der Teilnahme sind:
+
+- a. kostenloser öffentlicher Verkehr für Stimmberechtigte sowie Kinder und Jugendliche bis 16 Jahre;
+- b. Hütedienst für die Kinder von Stimmberechtigten für die Dauer der Landsgemeinde.
 
 #### Art. 40
 
