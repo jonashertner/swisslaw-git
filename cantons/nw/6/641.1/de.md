@@ -4,13 +4,12 @@ number: "641.1"
 title: Gesetz über die sparsame Energienutzung und die Förderung erneuerbarer Energien
 short: "Kantonales Energiegesetz, kEnG"
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-03-31
+version: 2026-01-01
+version_adopted: 2024-10-23
 adopted: 2009-12-16
 in_force: 2010-05-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/641.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/648/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1448/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/648/pdf_file"
 
 (Kantonales Energiegesetz, kEnG)
 
-vom 16.12.2009 (Stand 01.01.2022)
+vom 16.12.2009 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -447,7 +446,7 @@ beschliesst:
 
 **Anzeigepflicht**
 
-<sup>1</sup> Der Gemeinderat und die Energiefachstelle sind verpflichtet Strafanzeige einzureichen, wenn die Widerhandlung nicht geringfügig ist.
+<sup>1</sup> Der Gemeinderat, die Baubewilligungsbehörde und die Energiefachstelle sind verpflichtet Strafanzeige einzureichen, wenn die Widerhandlung nicht geringfügig ist.
 
 ## 6 Übergangs- und Schlussbestimmungen
 
