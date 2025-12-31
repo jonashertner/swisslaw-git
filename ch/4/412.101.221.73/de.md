@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Verordnung des SBFI vom 16. August 2021 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-495-20260101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 16. August 2021 (Stand am 1. Januar 2024)
+vom 16. August 2021 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>68800</td><td>Kauffrau EFZ / Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC Impiegata di commercio AFC / Impiegato di commercio AFC</td></tr>
@@ -26,8 +26,8 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -249,7 +249,7 @@ Der Aufbau aller Handlungskompetenzen ist für alle Lernenden verbindlich; ausge
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und der zuständigen Organisation der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^11-2].
 
 <sup>4</sup> Die Inhalte der Allgemeinbildung werden in der Berufsfachschule in sämtlichen Handlungskompetenzbereichen integriert vermittelt; dabei werden das spezifische Berufsbild der Kauffrau und des Kaufmanns auf Stufe EFZ und ihre beruflichen Bedürfnisse und Erfahrungen berücksichtigt. Die Inhalte stützen sich auf den Rahmenlehrplan für den allgemeinbildenden Unterricht ab und sind im Bildungsplan entsprechend konkretisiert.
 
@@ -257,7 +257,8 @@ Der Aufbau aller Handlungskompetenzen ist für alle Lernenden verbindlich; ausge
 
 <sup>6</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 12
 
@@ -298,7 +299,7 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>4</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^13-1]: Der Bildungsplan vom 24. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe A–Z.
+[^13-1]: Der Bildungsplan vom 24. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -441,7 +442,7 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^23-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^23-1]: [[AS 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 24
 

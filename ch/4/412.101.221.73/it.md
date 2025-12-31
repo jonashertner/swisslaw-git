@@ -3,18 +3,18 @@ sr: "412.101.221.73"
 title: Ordinanza della SEFRI del 16 agosto 2021 sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/495"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2021-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/495/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-495-20260101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/495/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Impiegata di commercio / Impiegato di commercio con attestato federale di capacità (AFC)
 
-del 16 agosto 2021 (Stato 1° gennaio 2024)
+del 16 agosto 2021 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>68800</td><td>Impiegata di commercio AFC / Impiegato di commercio AFC Kauffrau EFZ/Kaufmann EFZ Employée de commerce CFC / Employé de commerce CFC</td></tr>
@@ -26,8 +26,8 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Disposizioni generali
 
@@ -250,7 +250,7 @@ Lo sviluppo delle competenze operative è obbligatorio per tutte le persone in f
 
 <sup>2</sup> D’intesa con le autorità cantonali e l’organizzazione del mondo del lavoro competente sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^11-2].
 
 <sup>4</sup> Nella scuola professionale i contenuti di cultura generale sono integrati in tutti i campi di competenze operative; a tal fine si tiene conto del profilo professionale specifico degli impiegati di commercio di livello AFC e delle relative esigenze ed esperienze professionali. I contenuti si basano sul programma quadro di insegnamento per la cultura generale e sono specificati nel piano di formazione.
 
@@ -258,7 +258,8 @@ Lo sviluppo delle competenze operative è obbligatorio per tutte le persone in f
 
 <sup>6</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 12
 
@@ -299,7 +300,7 @@ Il piano di formazione:
 
 <sup>4</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^13-1]: Il piano del 24 giugno 2021 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z.
+[^13-1]: Il piano del 24 giugno 2021 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/) &gt; Professioni A-Z.
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -442,7 +443,7 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^23-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^23-1]: [[RU 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 24
 
@@ -601,7 +602,7 @@ L’ordinanza della SEFRI del 26 settembre 2011[^30-1] sulla formazione professi
 
 <sup>4</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 21–27) si applicano dal 1° gennaio 2026.[^31-1]
 
-[^31-1]: Introdotto dal n. I dell’O della SEFRI del 5 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
+[^31-1]: Introdotto dalla cifra I dell’O della SEFRI del 5 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
 
 #### Art. 32
 
@@ -609,7 +610,7 @@ L’ordinanza della SEFRI del 26 settembre 2011[^30-1] sulla formazione professi
 
 La presente ordinanza entra in vigore il 1° gennaio 2023.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 5 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 5 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 579](https://fedlex.data.admin.ch/eli/oc/2023/579)).
 
 Allegato 1
 
