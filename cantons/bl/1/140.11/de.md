@@ -4,13 +4,12 @@ number: "140.11"
 title: Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft
 short: "Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.11"
-pdf: "https://bl.clex.ch/api/de/versions/4118/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4118/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL)
 
-Vom 19.12.2017 (Stand 01.01.2025)
+Vom 19.12.2017 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -103,7 +102,7 @@ beschliesst:
 <sup>1</sup> Die Bau- und Umweltschutzdirektion gliedert sich in folgende Bereiche und Dienststellen:
 
 - a. Bereich Generalsekretariat, umfassend das Generalsekretariat;
-- b. Bereich Umweltschutz und Energie, umfassend das Amt für Umweltschutz und Energie sowie das Lufthygieneamt beider Basel;
+- b. Bereich Umwelt und Energie, umfassend das Amt für Umweltschutz und Energie;
 - c. Bereich Tiefbau, umfassend das Tiefbauamt;
 - d. Bereich Immobilien, umfassend das Hochbauamt;
 - e. Bereich Raumplanung, umfassend das Amt für Raumplanung;
