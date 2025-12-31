@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur l'eau potable et l'eau des in
 short: OPBD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/153"
 language: fr
-version: 2024-02-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-153-20240201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-153-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20240201/fr"
 
 (OPBD)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> février 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 10, al. 4, 14, al. 1, 22, 24, 26, al. 3, 27, al. 4, 36, al. 3 et 4, 
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)SR ...
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)SR ...
 
 ## Section 1 Dispositions générales
 
@@ -54,12 +54,12 @@ Dans cette section, on entend par:
 - a. *eau potable:* eau, soit en l’état, soit après traitement, destinée à la boisson, à la cuisson, à la préparation de denrées alimentaires ou au nettoyage d’objets usuels selon l’art. 5, let. a, de la loi du 20 juin 2014 sur les denrées alimentaires[^2-1];
 - b. *eau chaude:* eau potable dont la température a été augmentée par un apport de chaleur;
 - c. *distributeur d’eau**:* prestataire alimentant les consommateurs intermédiaires ou finaux en eau potable;
-- d.[^2-2] *installation servant à la distribution d**’**eau:* installation de captage, de traitement, de stockage et de distribution d’eau potable ainsi que les installations domestiques;
+- d.[^2-2] *installation servant à la distribution d’eau:* installation de captage, de traitement, de stockage et de distribution d’eau potable ainsi que les installations domestiques;
 - e. *captage:* installation permettant l’approvisionnement en eau potable à partir d’une nappe ou d’un gisement souterrain;
 - f. *réseau de distribution**:* conduites jusqu’à l’interface avec les installations domestiques, composées de conduites de transport, d’amenée, principales et d’alimentation, pour le transport et la distribution d’eau potable;
 - g.[^2-3] *installations domestiques*: conduites jusqu’à l’interface avec le réseau de distribution, composées des conduites d’alimentation internes en eau potable, de la robinetterie et des installations pour traiter et stocker l’eau potable correspondantes ainsi que des conduites d’amenée domestique.
 
-[^2-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^2-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
@@ -73,7 +73,7 @@ Dans cette section, on entend par:
 
 <sup>3</sup> L’exploitant d’une installation servant à la distribution d’eau mène régulièrement une analyse des dangers liés à la ressource en eau, dans le cadre de l’analyse des dangers de l’ensemble de l’exploitation, en tenant compte des exigences fixées dans la loi fédérale du 24 janvier 1991 sur la protection des eaux[^3-1]. Les propriétaires et les exploitants d’installations domestiques sont exclus de cette disposition.[^3-2]
 
-[^3-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^3-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 4
@@ -99,7 +99,7 @@ Pour le traitement de l’eau potable et la protection des installations servant
 <sup>5</sup> Pour la construction ou la transformation et pour l’exploitation de l’installation servant à la distribution d’eau, il convient d’utiliser des matériaux pouvant entrer en contact avec l’eau potable et adaptés pour le captage, la préparation, le transport et le stockage d’eau potable selon des procédures reconnues de contrôle et d’évaluation.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
-[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 5
 
@@ -160,7 +160,7 @@ Quiconque entend construire ou modifier un bain accessible au public doit l’an
 
 <sup>2</sup> L’eau des installations de douche est soumise aux exigences relatives aux substances désinfectantes pour l’eau potable prévues à l’art. 4, al. 4.
 
-[^10-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^10-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 11
@@ -189,12 +189,13 @@ Les installations de traitement des eaux et les installations de douche doivent 
 
 **Exigences relatives au personnel des installations de baignade accessibles au public**
 
-<sup>1</sup> Tout bain accessible au public doit disposer d’au moins un titulaire du permis prescrit par l’ordonnance du DFI du 28 juin 2005 relative au permis pour l’emploi des désinfectants pour l’eau des piscines publiques[^14-1], à l’exception des installations de baignade avec régénération biologique des eaux.
+<sup>1</sup> Tout bain accessible au public doit disposer d’au moins un titulaire du permis prescrit par l’ordonnance du DFI du 28 novembre 2025 relative au permis pour l’emploi des désinfectants pour l’eau des piscines publiques[^14-1], à l’exception des installations de baignade avec régénération biologique des eaux.[^14-2]
 
-<sup>2</sup> et <sup>3</sup> …[^14-2]
+<sup>2 et <sup>3</sup></sup> …[^14-3]
 
-[^14-1]: [RS 814.812.31](https://fedlex.data.admin.ch/eli/cc/2005/498)
-[^14-2]: Abrogés par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^14-1]: [RS 814.812.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9593)
+[^14-2]: Nouvelle teneur selon l’annexe 5 ch. II de l’O du DFI du 28 nov. 2025 relative au permis pour l’emploi des désinfectants pour l’eau des piscines publiques, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 793](https://fedlex.data.admin.ch/eli/oc/2025/793)).
+[^14-3]: Abrogés par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 ## Section 4 Actualisation des annexes
 
@@ -319,8 +320,8 @@ Annexe 2[^t-2]
 <tr><td>Zinc</td><td>5</td><td>mg/l</td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
-[^annex2-lvlu1-2]: [RS 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
+[^annex2-lvlu1-1]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
+[^annex2-lvlu1-2]: [RS 817.023.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9691)
 
 Annexe 3[^t-3]
 
@@ -341,7 +342,7 @@ Annexe 3[^t-3]
 <tr><td>Valeur indicative de la dose globale (DI) selon l’art. 1*a* de l’ordonnance du 16 décembre 2016 sur les contaminants[^annex3-lvlu1-1]</td><td>≤ 0,1</td><td>mSv/an</td><td>Dose efficace engagée (pour une année d’ingestion) résultant de tous les radionucléïdes naturels et artificiels dont la présence a été détectée dans l’eau potable, à l’exclusion du tritium, du potassium-40, du radon et des descendants du radon à vie courte.</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [RS 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
+[^annex3-lvlu1-1]: [RS 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
 
 Annexe 4[^t-4]
 

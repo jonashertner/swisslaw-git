@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Trinkwasser sowie Wasser i
 short: TBDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/153"
 language: de
-version: 2024-02-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-153-20240201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-153-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20240201/de"
 
 (TBDV)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 10 Absatz 4, 14 Absatz 1, 22, 24, 26 Absatz 3, 27 Absa
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -59,7 +59,7 @@ In diesem Abschnitt bedeuten:
 - f. *Verteilnetz:* Leitungen bis zur Schnittstelle mit den Hausinstallationen, bestehend aus Transport-, Zubringer-, Haupt- und Versorgungsleitungen zum Transportieren und Verteilen von Trinkwasser;
 - g.[^2-3] *Hausinstallation**:* Leitungen bis zur Schnittstelle mit dem Verteilnetz, bestehend aus den hausinternen Trinkwasserleitungen mit den dazugehörenden Armaturen und Anlagen zum Aufbereiten und zum Speichern von Trinkwasser sowie den Hauszuleitungen.
 
-[^2-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^2-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 [^2-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 [^2-3]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
@@ -73,7 +73,7 @@ In diesem Abschnitt bedeuten:
 
 <sup>3</sup> Die Betreiberin oder der Betreiber einer Wasserversorgungsanlage führt zudem unter Berücksichtigung der Anforderungen des Gewässerschutzgesetzes vom 24. Januar 1991[^3-1] im Rahmen der gesamtbetrieblichen Gefahrenanalyse periodisch eine Analyse der Gefahren für Wasserressourcen durch. Von dieser Bestimmung ausgenommen sind Inhaberinnen und Inhaber sowie Betreiberinnen und Betreiber von Hausinstallationen.[^3-2]
 
-[^3-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^3-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 [^3-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 4
@@ -99,7 +99,7 @@ Für die Aufbereitung von Trinkwasser und den Schutz von Wasserversorgungsanlage
 <sup>5</sup> Für den Bau oder Umbau sowie beim Betrieb der Wasserversorgungsanlage sind Trinkwasserkontaktmaterialien zu verwenden, deren Eignung zum Fassen, Aufbereiten, Transportieren und Speichern von Trinkwasser nach anerkannten Prüf- und Bewertungsverfahren ermittelt wurde.
 
 [^4-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
-[^4-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^4-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 5
 
@@ -160,7 +160,7 @@ Wer ein öffentlich zugängliches Bad bauen oder baulich verändern will, muss d
 
 <sup>2</sup> Für Wasser in Duschanlagen gelten die Anforderungen an Desinfektionsmittel für Trinkwasser nach Artikel 4 Absatz 4.
 
-[^10-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^10-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^10-2]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 11
@@ -185,12 +185,13 @@ Wasseraufbereitungs- und Duschanlagen müssen nach den anerkannten Regeln der Te
 
 **Anforderungen an das Personal in öffentlich zugänglichen Bädern**
 
-<sup>1</sup> In jedem öffentlich zugänglichen Bad muss mindestens eine Person verfügbar sein, die über eine Fachbewilligung nach der Verordnung des EDI vom 28. Juni 2005[^14-1] über die Fachbewilligung für die Desinfektion des Badewassers in Gemeinschaftsbädern verfügt; ausgenommen sind Badeanlagen mit biologischer Wasseraufbereitung.
+<sup>1</sup> In jedem öffentlich zugänglichen Bad muss mindestens eine Person verfügbar sein, die über eine Fachbewilligung nach der Verordnung des EDI vom 28. November 2025[^14-1] über die Fachbewilligung für die Desinfektion des Badewassers in Gemeinschaftsbädern verfügt; ausgenommen sind Badeanlagen mit biologischer Wasseraufbereitung.[^14-2]
 
-<sup>2</sup> und <sup>3</sup> …[^14-2]
+<sup>2 und <sup>3</sup></sup> …[^14-3]
 
-[^14-1]: [SR 814.812.31](https://fedlex.data.admin.ch/eli/cc/2005/498)
-[^14-2]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^14-1]: [SR 814.812.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9593)
+[^14-2]: Fassung gemäss Anhang 5 Ziff. II der V des EDI vom 28. Nov. 2025 über die Fachbewilligung für die Desinfektion des Badewassers in Gemeinschaftsbädern, in Kraft seit 1. Jan. 2026 ([AS 2025 793](https://fedlex.data.admin.ch/eli/oc/2025/793)).
+[^14-3]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 ## 4. Abschnitt: Nachführen der Anhänge
 
@@ -318,8 +319,8 @@ Anhang 2[^t-2]
 <tr><td>Zink</td><td>5</td><td>mg/l</td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
-[^annex2-lvlu1-2]: [SR 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
+[^annex2-lvlu1-1]: [SR 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
+[^annex2-lvlu1-2]: [SR 817.023.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9691)
 
 Anhang 3[^t-3]
 
@@ -340,7 +341,7 @@ Anhang 3[^t-3]
 <tr><td>Richtwert Gesamtdosis (RD) nach Art. 1*a* der Kontaminantenverordnung vom 16. Dez. 2016[^annex3-lvlu1-1]</td><td>≤ 0,1</td><td>mSv/Jahr</td><td>Effektive Folgedosis (für die Aufnahme während eines Jahres) durch alle im Trinkwasser nachgewiesenen künstlichen und natürlichen Radionuklide unter Ausschluss von Tritium, Kalium-40, Radon und kurzlebigen Zerfallsprodukten von Radon.</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [SR 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
+[^annex3-lvlu1-1]: [SR 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
 
 Anhang 4[^t-4]
 

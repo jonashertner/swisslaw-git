@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sull'acqua potabile e sull'acqua 
 short: OPPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/153"
 language: it
-version: 2024-02-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-153-20240201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-153-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20240201/it"
 
 (OPPD)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 10 capoverso 4, 14 capoverso 1, 22, 24, 26 capoverso 3, 27 ca
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)SR ...
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)SR ...
 
 ## Sezione 1: Disposizioni generali
 
@@ -59,9 +59,9 @@ Nella presente sezione si intende per:
 - f. *rete di distribuzione:* condutture che arrivano fino al punto di raccordo con gli impianti domestici e che comprendono condutture di trasporto, di congiunzione, principali e di erogazione per il trasporto e la distribuzione dell’acqua potabile;
 - g.[^2-3] *impianto domestico*: condutture che arrivano fino al punto di raccordo con la rete di distribuzione e che comprendono le tubature dell’acqua potabile interne alle abitazioni con la relativa rubinetteria e i relativi impianti per il trattamento e la conservazione di acqua potabile nonché le tubature di allacciamento alle case.
 
-[^2-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^2-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^2-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 3
 
@@ -73,8 +73,8 @@ Nella presente sezione si intende per:
 
 <sup>3</sup> Il gestore di un impianto di approvvigionamento idrico, in conformità con i requisiti della legge federale del 24 gennaio 1991[^3-1] sulla protezione delle acque, effettua periodicamente un’analisi dei rischi per le risorse idriche nell’ambito dell’analisi complessiva dei rischi. La presente disposizione non si applica ai proprietari e ai gestori di impianti domestici.[^3-2]
 
-[^3-1]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^3-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^3-1]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^3-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 4
 
@@ -98,8 +98,8 @@ Per il trattamento dell’acqua potabile e la protezione degli impianti di acqua
 
 <sup>5</sup> Per la costruzione, la ristrutturazione e la gestione dell’impianto di approvvigionamento idrico devono essere adoperati materiali utilizzabili a contatto con l’acqua potabile che siano stati considerati idonei per la captazione, il trattamento, il trasporto e la conservazione di acqua potabile in base a metodi riconosciuti di prova e valutazione dei materiali.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
-[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 5
 
@@ -107,7 +107,7 @@ Per il trattamento dell’acqua potabile e la protezione degli impianti di acqua
 
 Chi distribuisce acqua potabile attraverso un impianto di approvvigionamento idrico è tenuto a informare i consumatori intermedi e finali almeno una volta all’anno in modo dettagliato sulla qualità di tale acqua. La presente disposizione non si applica ai proprietari e ai gestori di impianti domestici.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 6
 
@@ -133,7 +133,7 @@ Nella presente sezione si intende per:
 - h *impianto accessibile al pubblico o piscina accessibile al pubblico:* impianto o piscina aperto a tutti o a una cerchia di persone autorizzate e che non è destinato a essere utilizzato in un contesto familiare;
 - i. *impianto di trattamento dell’acqua:* impianto per il trattamento dell’acqua delle piscine accessibili al pubblico, inclusi i locali, le apparecchiature e le procedure richiesti a tal fine nonché le sostanze, i preparati chimici e i biocidi necessari per garantire una qualità dell’acqua conforme all’utilizzo previsto e ai requisiti stabiliti. Per le vasche con rigenerazione biologica dell’acqua vengono considerati parte integrante del trattamento anche gli organismi utilizzati.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 8
 
@@ -149,8 +149,8 @@ Chi intende costruire un impianto di balneazione accessibile al pubblico o appor
 
 <sup>2</sup> L’acqua nelle docce accessibili al pubblico deve soddisfare i requisiti organolettici per l’acqua potabile di cui all’articolo 3 capoverso 1.[^9-2]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
-[^9-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^9-2]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 10
 
@@ -160,8 +160,8 @@ Chi intende costruire un impianto di balneazione accessibile al pubblico o appor
 
 <sup>2</sup> Per l’acqua delle docce si applicano i requisiti concernenti i disinfettanti previsti per l’acqua potabile ai sensi dell’articolo 4 capoverso 4.
 
-[^10-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^10-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^10-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^10-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 #### Art. 11
 
@@ -185,12 +185,13 @@ Gli impianti di trattamento delle acque e gli impianti per docce devono essere a
 
 **Requisiti per il personale degli impianti di balneazione accessibili al pubblico**
 
-<sup>1</sup> In ogni impianto di balneazione accessibile al pubblico deve esserci almeno un dipendente che dispone dell’autorizzazione prevista dall’ordinanza del DFI del 28 giugno 2005[^14-1] concernente l’autorizzazione speciale per la disinfezione dell’acqua negli impianti di balneazione accessibili al pubblico, ad eccezione degli impianti di balneazione con rigenerazione biologica dell’acqua.
+<sup>1</sup> In ogni impianto di balneazione accessibile al pubblico deve esserci almeno un dipendente che dispone dell’autorizzazione prevista dall’ordinanza del DFI del 28 novembre 2025[^14-1] concernente l’autorizzazione speciale per la disinfezione dell’acqua nelle piscine collettive, ad eccezione degli impianti di balneazione con rigenerazione biologica dell’acqua.[^14-2]
 
-<sup>2</sup> e <sup>3</sup> …[^14-2]
+<sup>2 e <sup>3</sup></sup> …[^14-3]
 
-[^14-1]: [RS 814.812.31](https://fedlex.data.admin.ch/eli/cc/2005/498)
-[^14-2]: Abrogati dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^14-1]: [RS 814.812.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9593)
+[^14-2]: Nuovo testo giusta l’all. 5 cifra II dell’O del DFI del 28 nov. 2025 concernente l’autorizzazione speciale per la disinfezione dell’acqua nelle piscine collettive, in vigore dal 1° gen. 2026 ([RU 2025 793](https://fedlex.data.admin.ch/eli/oc/2025/793)).
+[^14-3]: Abrogati dalla cifra I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 ## Sezione 4: Adeguamento degli allegati
 
@@ -222,7 +223,7 @@ Allegato 1[^t-1]
 
 ## Requisiti microbiologici concernenti l’acqua potabile
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 <table>
 <tr><th>Posizione</th><th>Prodotto</th><th>Parametro</th><th>Valori massimi UFC \*</th><th>Metodo di analisi di riferimento \*\*</th><th>Note</th></tr>
@@ -253,7 +254,7 @@ Allegato 2[^t-2]
 
 ## Requisiti chimici concernenti l’acqua potabile
 
-[^t-2]: Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214), [1755](https://fedlex.data.admin.ch/eli/oc/2018/259)), dal n. II dell’O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-2]: Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214), [1755](https://fedlex.data.admin.ch/eli/oc/2018/259)), dalla cifra II dell’O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 <table>
 <tr><th>Parametri</th><th colspan="2">Valori massimi</th><th colspan="2">Unità</th><th>Note</th></tr>
@@ -320,8 +321,8 @@ Allegato 2[^t-2]
 <tr><td>Zinco</td><td colspan="3">5</td><td>mg/l</td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
-[^annex2-lvlu1-2]: [RS 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
+[^annex2-lvlu1-1]: [RS 817.023.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9691)
+[^annex2-lvlu1-2]: [RS 817.023.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9691)
 
 Allegato 3[^t-3]
 
@@ -329,7 +330,7 @@ Allegato 3[^t-3]
 
 ## Ulteriori requisiti concernenti l’acqua potabile
 
-[^t-3]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Aggiornato dal n. II delle O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dal n. I dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
+[^t-3]: Nuovo testo giusta la cifra I cpv. 2 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Aggiornato dalla cifra II delle O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dalla cifra I dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><th>Parametri</th><th>Valori di riferimento</th><th>Unità</th><th>Note</th></tr>
@@ -342,7 +343,7 @@ Allegato 3[^t-3]
 <tr><td>Valore indicativo per la dose totale secondo l’articolo 1*a* dell’ordinanza del 16 dicembre 2016[^annex3-lvlu1-1] sui contaminanti</td><td>≤ 0,1</td><td>mSv/anno</td><td>Dose efficace impegnata (per un anno di ingestione) risultante da tutti i radionuclidi naturali e artificiali la cui presenza è rilevata nell’acqua potabile, a eccezione del trizio, del potassio-40, del radon e dei prodotti di disintegrazione del radon di vita breve.</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: [RS 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
+[^annex3-lvlu1-1]: [RS 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
 
 Allegato 4[^t-4]
 
@@ -350,7 +351,7 @@ Allegato 4[^t-4]
 
 ## Elenco delle procedure e delle sostanze riconosciute per il trattamento dell’acqua potabile e la protezione degli impianti di approvvigionamento idrico
 
-[^t-4]: Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)), dal n. II dell’O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-4]: Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)), dalla cifra II dell’O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 ### 1 Elenco delle procedure per il trattamento dell’acqua potabile concernente le proprietà fisico-chimiche
 
@@ -554,7 +555,7 @@ Allegato 5[^t-5]
 
 ## Requisiti microbiologici dell’acqua per piscine e docce accessibili al pubblico
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 <table>
 <tr><th>Posizione</th><th>Categoria</th><th>Criteri di analisi</th><th>Valori massimi UFC\*</th><th>Metodo di analisi di riferimento\*\*</th></tr>
@@ -589,7 +590,7 @@ Allegato 5a[^t-6]
 
 ## Elenco delle sostanze attive e delle procedure per la disinfezione dell’acqua per piscine
 
-[^t-6]: Introdotto dal n. II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-6]: Introdotto dalla cifra II cpv. 3 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 <table>
 <tr><th>Sostanza attiva</th><th>Procedure</th><th>Numero CAS</th></tr>
@@ -606,7 +607,7 @@ Allegato 6[^t-7]
 
 ## Valori massimi e minimi concernenti l’acqua per piscine e docce accessibili al pubblico
 
-[^t-7]: Aggiornato dal n. I dell’O dell’USAV del 30 giu. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
+[^t-7]: Aggiornato dalla cifra I dell’O dell’USAV del 30 giu. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 843](https://fedlex.data.admin.ch/eli/oc/2023/843)).
 
 <table>
 <tr><td>Posizione</td><td>Categoria</td><td>Criteri di analisi</td><td>Valori minimi</td><td colspan="2">Valori massimi</td></tr>
@@ -633,7 +634,7 @@ Allegato 7[^t-8]
 
 ## Concentrazioni massime di sostanze inquinanti o derivanti dalla disinfezione nell’acqua per piscine
 
-[^t-8]: Aggiornato dal n. II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-8]: Aggiornato dalla cifra II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 <table>
 <tr><td>Posizione</td><td>Categoria</td><td>Criteri di analisi</td><td>Valori massimi</td></tr>
