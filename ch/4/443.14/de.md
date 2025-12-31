@@ -4,11 +4,11 @@ title: Verordnung vom 6. September 2023 über die Quote für europäische Filme 
 short: FQIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/533"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2023-09-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2023-533-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-533-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20240101/de"
 
 (FQIV)
 
-vom 6. September 2023 (Stand am 1. Januar 2024)
+vom 6. September 2023 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 24*a* Absatz 3, 24*e* Absatz 1 und 34 Absatz 1 des Fil
 
 verordnet:
 
-[^ingress-1]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^ingress-1]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -78,7 +78,7 @@ In dieser Verordnung bedeuten:
   - 2\. Dokumentarfilm ab 50 Minuten Dauer oder Serie des entsprechenden Genres mit einer Gesamtdauer ab 100 Minuten pro Staffel,
   - 3\. übrige anrechenbare Filme ab 50 Minuten Dauer.
 
-[^3-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ### 3. Abschnitt: Geltungsbereich
 
@@ -127,7 +127,7 @@ Auf Gesuch hin werden von den Pflichten nach den Artikeln 24*a*–24*f* FiG ausg
 
 <sup>3</sup> Eine Ausnahme nach den Absätzen 1 und 2 entbindet nicht von der Erfüllung der Registrierungs- und Meldepflichten nach dem 3. Abschnitt des 3*a* Kapitels des Filmgesetzes. Für die Berichterstattungspflicht gilt Artikel 25 Absatz 3.
 
-[^5-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^5-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## 2. Kapitel: Förderung der Vielfalt des Filmangebots von Abrufdiensten
 
@@ -144,9 +144,9 @@ Als europäische Filme gelten anrechenbare Filme, die:
 - c. aus einem Land stammen, das das Europäische Übereinkommen vom 5. Mai 1989[^6-1] über das grenzüberschreitende Fernsehen unterzeichnet hat; oder
 - d. als Koproduktionen nach dem Europäischen Übereinkommen vom 2. Oktober 1992[^6-2] über die Gemeinschaftsproduktion von Kinofilmen oder nach dem Übereinkommen des Europarats vom 30. Januar 2017[^6-3] über die Gemeinschaftsproduktion von Kinofilmen hergestellt wurden.
 
-[^6-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
-[^6-2]: [SR 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
-[^6-3]: [SR 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
+[^6-1]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
+[^6-2]: [SR 0.443.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1812)
+[^6-3]: [SR 0.443.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1813)
 
 #### Art. 7
 
@@ -198,13 +198,26 @@ Produktionsfirmen gelten als unabhängige Dritte, wenn sie zusätzlich die folge
 
 #### Art. 10
 
-**Anrechenbare Aufwendungen für Filme**
+**Anrechenbare Aufwendungen für Filme**[^10-1]
 
-Anrechenbar sind ausschliesslich Aufwendungen nach Artikel 24*c* Absätze 1 und 2 Buchstaben a–c FiG für anrechenbare Filme.
+<sup>1</sup> Anrechenbar sind ausschliesslich Aufwendungen nach Artikel 24*c* Absätze 1 und 2 Buchstaben a–c FiG für anrechenbare Filme.
+
+<sup>2</sup> Werden von einem investitionspflichtigen Unternehmen Zahlungen geleistet, bevor die schweizerische Herkunft des Films nach Artikel 8 bestätigt werden kann, so prüft das BAK auf Gesuch hin, ob diese Zahlungen als Aufwendungen anrechenbar sind.
+
+<sup>3</sup>
+
+Das BAK bestätigt die Anrechenbarkeit, wenn die Zahlungen:
+
+- a. einen potenziell anrechenbaren Film betreffen;
+- b. für das Schreiben eines Drehbuchs oder einer Drehvorlage durch unabhängige Autorinnen oder Autoren mit Wohnsitz in der Schweiz oder für die Entwicklung von Filmprojekten durch unabhängige Regisseurinnen oder Regisseure mit Wohnsitz in der Schweiz bestimmt sind;
+- c. an Autorinnen und Autoren, Regisseurinnen und Regisseure oder Produktionsunternehmen mit Wohnsitz beziehungsweise Sitz in der Schweiz fliessen; und
+- d. betragsmässig innerhalb des branchenüblichen Rahmens liegen.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 #### Art. 11
 
-**Anrechenbare Aufwendungen für den Ankauf**
+**Anrechenbare Aufwendungen für Filme**
 
 ### (Art. 24*c* Abs. 1 und 2 Bst. a FiG)
 
@@ -534,13 +547,14 @@ Nach Ablauf der vierjährigen Investitionsperiode verfügt das BAK eine allfäll
 
 <sup>1</sup> Das BAK kann zusätzliche Auskünfte und Belege verlangen und Auskünfte bei kantonalen Behörden und Bundesbehörden einholen.
 
-<sup>2</sup> Sind die Jahresrechnung, die Aufstellungen nach Artikel 20, die Zwischenabrechnungen nach Artikel 30 oder die Abrechnungen über Aufwendungen für Filme schweizerischer Herkunft nicht durch eine unabhängige und als Revisorin nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^35-1] zugelassene Person oder Treuhandfirma geprüft, so kann das BAK die Angaben des Unternehmens durch ein unabhängiges Revisionsunternehmen vor Ort prüfen lassen.
+<sup>2</sup> Sind die Jahresrechnung, die Aufstellungen nach Artikel 20, die Zwischenabrechnungen nach Artikel 30 oder die Abrechnungen über Aufwendungen für Filme schweizerischer Herkunft nicht durch eine unabhängige und nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^35-1] zugelassene Revisorin geprüft, so kann das BAK die Angaben des Unternehmens durch ein unabhängiges Revisionsunternehmen vor Ort prüfen lassen.[^35-2]
 
 <sup>3</sup> Prüfungen von Abschlüssen durch ausländische Revisorinnen oder Revisoren gelten als gleichwertig, wenn die Anforderungen, die im entsprechenden Land an sie gestellt werden, vergleichbar sind mit den Anforderungen, die an schweizerische Revisorinnen und Revisoren gestellt werden, namentlich hinsichtlich Unabhängigkeit und Unbefangenheit. Das BAK kann eine entsprechende Bestätigung der Revisorin oder des Revisors verlangen.
 
 <sup>4</sup> Stellt die Revisorin oder der Revisor bei einer Prüfung nach Absatz 2 wesentliche Unstimmigkeiten fest, so kann das BAK das Unternehmen verpflichten, die Kosten der Revision zu übernehmen.
 
-[^35-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^35-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^35-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 ## 6. Kapitel: Vertraulichkeit und Information der Öffentlichkeit
 
@@ -554,7 +568,7 @@ Nach Ablauf der vierjährigen Investitionsperiode verfügt das BAK eine allfäll
 
 <sup>3</sup> Artikel 35 und 37 sind vorbehalten.
 
-[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37
 
@@ -585,7 +599,7 @@ Das BAK publiziert jährlich:
 
 …[^38-1]
 
-[^38-1]: Die Änderung kann unter AS **202****3** 533 konsultiert wird.
+[^38-1]: Die Änderung kann unter [AS 2023 533](https://fedlex.data.admin.ch/eli/oc/2023/533)konsultiert wird.
 
 #### Art. 39
 
@@ -601,7 +615,7 @@ Das BAK publiziert jährlich:
 
 <sup>5</sup> Die Meldung der bezahlten Abrufe nach Artikel 27 Absatz 1 durch die Unternehmen mit Abrufdiensten gilt für Filme, die ab 1. Januar 2024 ausgewertet werden.
 
-[^39-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-2]: [AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345)
 
 #### Art. 40

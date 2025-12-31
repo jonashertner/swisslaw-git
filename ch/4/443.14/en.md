@@ -4,11 +4,11 @@ title: Ordinance of 6 September 2023 on the Quota for European Films and Investm
 short: FQIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/533"
 language: en
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2023-09-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2023-533-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2023-533-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FQIO)
 
-of 6 September 2023 (Status as of 1 January 2024)
+of 6 September 2023 (Last amended on 1 January 2026)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ on the basis of Articles 24*a* paragraph 3, 24*e* paragraph 1 and 34 paragraph 1
 
 ordains:
 
-[^ingress-1]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^ingress-1]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 ## Chapter 1 General Provisions
 
@@ -77,7 +77,7 @@ In this Ordinance:
 - 2\. a documentary of at least 50 minutes duration or a series of the same genre with a total duration of at least 100 minutes per season,
 - 3\. other eligible films of at least 50 minutes duration.
 
-[^3-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ### Section 3 Scope of Application
 
@@ -118,7 +118,7 @@ In this Ordinance:
 
 <sup>3</sup> An exemption in accordance with paragraphs 1 and 2 does not relieve the company concerned of its obligation to register and report under Section 3 of Chapter 3a FiA. Reporting is governed by Article 25 paragraph 3.
 
-[^chap1-sec3-lvlu4-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^chap1-sec3-lvlu4-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Chapter 2 Promoting the Diversity of the Films Offered by On-Demand Services
 
@@ -135,9 +135,9 @@ European films are eligible films which:
 - c. originate from a country that has signed the European Convention of 5 May 1989[^chap2-lvlu2-1] on Transfrontier Television; or
 - d. have been produced as co-productions in accordance with the European Convention of 2 October 1992[^chap2-lvlu2-2] on Cinematographic Co-production or the Council of Europe Convention of 30 January 2017[^chap2-lvlu2-3] on Cinematographic Co-production.
 
-[^chap2-lvlu2-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
-[^chap2-lvlu2-2]: [SR 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
-[^chap2-lvlu2-3]: [SR 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
+[^chap2-lvlu2-1]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
+[^chap2-lvlu2-2]: [SR 0.443.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1812)
+[^chap2-lvlu2-3]: [SR 0.443.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1813)
 
 #### Art. 7
 
@@ -183,21 +183,34 @@ Films of Swiss origin are:
 
 <sup>3</sup> If a new production company is established solely for a specific film project, the requirements of paragraph 2 letters c and d do not apply; instead, producers who have several years’ experience of carrying out independent film projects must be responsible for the project.
 
-### Section 2 Eligible Expenses
+### Section 2 Eligible Expenditure
 
 #### Art. 10
 
-**Eligible expenses for films**
+**Eligible expenditure for films**[^10-1]
 
-Only expenses under Article 24*c* paragraphs 1 and 2 letters a–c FiA are eligible for eligible films:
+<sup>1</sup> The only expenditure that is eligible is that for eligible films under Article 24*c* paragraphs 1 and 2 letters a–c FiA.
+
+<sup>2</sup> If payments are made by a company subject to the investment obligation before the Swiss origin of the film in accordance with Article 8 can be confirmed, the FOC shall on request verify whether these payments are eligible expenses.
+
+<sup>3</sup>
+
+The FOC shall confirm eligibility if the payments:
+
+- a. relate to a potentially eligible film;
+- b. are made towards the cost of a screenplay or shooting script written by independent authors residing in Switzerland or of film projects developed by independent directors residing in Switzerland;
+- c. are made to authors, directors or production companies residing or based in Switzerland; and
+- d. are within the customary range for the industry.
+
+[^10-1]: Amended by No I of the O of 26 Nov. 2025, in force since 1 Jan. 2026 ([AS 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 #### Art. 11
 
-**Eligible expenses for acquisition**
+**Eligible expenditure for acquisition**
 
-### (Art. 24*c* para. 1 and 2 let. a FiA)
+### (Art. 24*c* paras 1 and 2 let. a FiA)
 
-<sup>1</sup> The acquisition fee paid to an independent third party for the use, limited in time and place, of an independently produced film in a company’s own media offer is an eligible expense.
+<sup>1</sup> The acquisition fee paid to an independent third party for the use, limited in time and place, of an independently produced film in a company’s own media offer is eligible expenditure.
 
 <sup>2</sup> Contractual performance shall be based on a written agreement with the person concerned as the rights holder to the film in question. The agreement may relate to a film that has already been produced or a film that is still to be produced.
 
@@ -205,21 +218,21 @@ Only expenses under Article 24*c* paragraphs 1 and 2 letters a–c FiA are eligi
 
 #### Art. 12
 
-**Eligible expenses for producing a commissioned film**
+**Eligible expenditure for producing a commissioned film**
 
 ### (Art. 24*c* para. 1 and 2 let. b FiA)
 
-<sup>1</sup> The contribution paid to an independent executive production company to produce a commissioned film and to transfer the exploitation rights is an eligible expense for the production of a commissioned film.
+<sup>1</sup> The contribution paid to an independent executive production company to produce a commissioned film and to transfer the exploitation rights is eligible expenditure for the production of a commissioned film.
 
 <sup>2</sup> The exploitation rights for uses other than media offers of the company subject to the investment obligation may remain with or be transferred back to the executive production company if the price attributable thereto does not exceed 10 per cent of the production costs.
 
 #### Art. 13
 
-**Eligible expenses for a co-production**
+**Eligible expenditure for a co-production**
 
 ### (Art. 24*c* para. 1 and 2 let. c FiA)
 
-<sup>1</sup> Financial contributions paid on the basis of a written agreement with an independent production company for the production of and the transfer of the exploitation rights to a film realised on the initiative and under the economic and artistic responsibility of the independent production company are eligible as a co-production expense.
+<sup>1</sup> Financial contributions paid on the basis of a written agreement with an independent production company for the production of and the transfer of the exploitation rights to a film realised on the initiative and under the economic and artistic responsibility of the independent production company are eligible as co-production expenditure.
 
 <sup>2</sup> The rights remaining with the production company must enable it to exploit the film outside the television or on-demand services of the company subject to the investment obligation.
 
@@ -240,14 +253,14 @@ Only expenses under Article 24*c* paragraphs 1 and 2 letters a–c FiA are eligi
 
 #### Art. 15
 
-**Expenses incurred by television services in advertising and marketing films**
+**Expenditure incurred by television services in advertising and marketing films**
 
 ### (Art. 24*c* para. 2 let. d FiA)
 
-<sup>1</sup> The following are eligible expenses for advertising and marketing films of Swiss origin or for supporting Switzerland as a location for film production, up to a maximum of 500,000 francs per annum and television programme service:
+<sup>1</sup> The following are eligible expenditure for advertising and marketing films of Swiss origin or for supporting Switzerland as a location for film production, up to a maximum of 500,000 francs per annum and television programme service:
 
 - a. own contributions, in particular providing airtime in the television programme service for advertising an eligible independently produced film; the own contribution must be provided on the basis of an agreement with the independent production company as the rights holder; the agreement may be concluded before or after completion of the film;
-- b. expenses incurred in producing reviews of new films of Swiss origin in the television programme service and any fees paid for image rights;
+- b. expenditure incurred in producing reviews of new films of Swiss origin in the television programme service and any fees paid for image rights;
 - c.
 
   payments to independent film-related organisations, in particular:
@@ -258,19 +271,19 @@ Only expenses under Article 24*c* paragraphs 1 and 2 letters a–c FiA are eligi
   - 4\. institutions that contribute to basic and continuing education and training in the film-related professions,
   - 5\. institutions that advertise the Swiss films and recognised co-productions in Switzerland and abroad or Switzerland as a location for film production.
 
-<sup>2</sup> Own advertising and expenses in accordance with paragraph 1 letters a -c that relate to the use of films in the television or on-demand services of a company subject to the investment obligation, in particular references to programme services, are not eligible.
+<sup>2</sup> Own advertising and expenditure in accordance with paragraph 1 letters a -c that relate to the use of films in the television or on-demand services of a company subject to the investment obligation, in particular references to programme services, are not eligible.
 
-<sup>3</sup> Expenses that are not incurred in the form of a cash payment are eligible at rates that are customary in the market.
+<sup>3</sup> Expenditure that is not incurred in the form of a cash payment are eligible at rates that are customary in the market.
 
 <sup>4</sup> Any considerations provided in return in accordance with letter c shall be deducted.
 
 #### Art. 16
 
-**Expenses for recognised film funding institutions**
+**Expenditure for recognised film funding institutions**
 
 ### (Art. 24*c* para. 2 let. e FiA)
 
-<sup>1</sup> Payments made to recognised film funding institutions that such institutions use in their entirety to fund screenplays or the development and production of independent film projects by authors under Article 2 paragraph 2 letter a FiA are eligible as expenses.
+<sup>1</sup> Payments made to recognised film funding institutions that such institutions use in their entirety to fund screenplays or the development and production of independent film projects by authors under Article 2 paragraph 2 letter a FiA are eligible expenditure.
 
 <sup>2</sup> The institution must provide confirmation of receipt of the payment and of the eligible use.
 
@@ -289,11 +302,11 @@ The FOC shall recognise film funding institutions that guarantee in personnel an
 
 <sup>2</sup> The FOC shall publish the list of recognised institutions on its website.
 
-### Section 3 Relevant Time for Calculating Expenses
+### Section 3 Relevant Time for Calculating Expenditure
 
 #### Art. 18
 
-<sup>1</sup> Expenses are eligible at the time of contractual performance, and in particular the time that payment is made.
+<sup>1</sup> Expenditure becomes eligible at the time of contractual performance, and in particular the time that payment is made.
 
 <sup>2</sup> In the case of own contributions by companies with television services for advertising and marketing films, the time of transmission applies.
 
@@ -332,7 +345,7 @@ The FOC shall recognise film funding institutions that guarantee in personnel an
 
 **Joint accounting for companies that are economically linked to each other**
 
-<sup>1</sup> Companies that are economically linked to each other, in particular through a holding structure or through ownership, may request that their respective relevant gross revenues and the expenses incurred by them be added together.
+<sup>1</sup> Companies that are economically linked to each other, in particular through a holding structure or through ownership, may request that their respective relevant gross revenues and the expenditure incurred by them be added together.
 
 <sup>2</sup> The FOC may make joint accounting dependent on the companies having a joint representative and undertaking to be jointly and severally liable. The joint accounting applies in each case for one investment period.
 
@@ -394,9 +407,9 @@ The following information must be provided in the application:
 - a. the gross revenues that they have achieved: annual accounts, VAT calculations, and if applicable a list of Swiss revenues for each television and on-demand service and relevant share of the operating costs in accordance with Article 20;
 - b.
 
-  the expenses claimed as investments in the form of lists with:
+  the expenditure claimed as investments in the form of lists with:
 
-  - 1\. information about the nature of the expenses,
+  - 1\. information about the nature of the expenditure,
   - 2\. the titles of the films, the production companies and the directors,
   - 3\. the amounts and the recipients of the payment, together with the legal grounds.
 
@@ -441,7 +454,7 @@ Companies providing on-demand services that are based in a member state of the E
 
 **Annual audit of the investment obligation**
 
-<sup>1</sup> Based on the reports on the television and on-demand services (Art. 25), the FOC shall calculate the amount invested in the previous year, verify the expenses incurred and notify the company concerned of the result of its audit.
+<sup>1</sup> Based on the reports on the television and on-demand services (Art. 25), the FOC shall calculate the amount invested in the previous year, verify the expenditure incurred and notify the company concerned of the result of its audit.
 
 <sup>2</sup> Before issuing a ruling, it shall grant the companies concerned the right to be heard.
 
@@ -451,7 +464,7 @@ Companies providing on-demand services that are based in a member state of the E
 
 **Ruling on the subsidiary levy**
 
-On expiry of the four-year investment period, the FOC shall rule, if applicable, on a shortfall charge amounting to the difference between the expenses incurred and the investments due.
+On expiry of the four-year investment period, the FOC shall rule, if applicable, on a shortfall charge amounting to the difference between the expenditure incurred and the investments due.
 
 #### Art. 30
 
@@ -459,7 +472,7 @@ On expiry of the four-year investment period, the FOC shall rule, if applicable,
 
 <sup>1</sup> If the conditions for a company relevant to the investment obligation change significantly within the four-year investment period, in particular due to restructuring, closure, a fall in turnover, or bankruptcy, the company shall prepare an interim account for the FOC without having to be requested to do, attaching the relevant documents.
 
-<sup>2</sup> If there is no intention or possibility of dividing or transferring the investment obligation or the eligible expenses incurred, the ruling on any subsidiary levy due shall be based on an interim account for an accounting period which has been reduced accordingly*.*
+<sup>2</sup> If there is no intention or possibility of dividing or transferring the investment obligation or the eligible expenditure incurred, the ruling on any subsidiary levy due shall be based on an interim account for an accounting period which has been reduced accordingly*.*
 
 #### Art. 31
 
@@ -509,13 +522,14 @@ On expiry of the four-year investment period, the FOC shall rule, if applicable,
 
 <sup>1</sup> The FOC may request additional information and supporting documents and obtain information from cantonal authorities and federal authorities.
 
-<sup>2</sup> If the annual accounts, the lists in accordance with Article 20, the interim accounts in accordance with Article 30, or the invoices for expenses for films of Swiss origin have not been audited by an independent person or accountancy firm licensed as an auditor under the Auditor Oversight Act of 16 December 2005[^35-1], the FOC shall have the company’s records audited on the company’s premises by an independent firm of auditors.
+<sup>2</sup> If the annual accounts, the lists in accordance with Article 20, the interim accounts in accordance with Article 30, or the invoices for expenditure on films of Swiss origin have not been audited by an auditor licensed under the Auditor Oversight Act of 16 December 2005[^35-1], the FOC shall have the company’s records audited on the company’s premises by an independent firm of auditors.[^35-2]
 
 <sup>3</sup> Audits of accounts by foreign auditors are deemed equivalent if the requirements imposed on them in the country in question are comparable with the requirements imposed on Swiss auditors, in particular with regard to independence and impartiality. The BAK may request confirmation of this from the auditor.
 
 <sup>4</sup> If the auditor identifies significant discrepancies during an audit in accordance with paragraph 2, the FOC may require the company to pay the costs of the audit.
 
-[^35-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^35-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^35-2]: Amended by No I of the O of 26 Nov. 2025, in force since 1 Jan. 2026 ([AS 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 ## Chapter 6 Confidentiality and Provision of Information to the Public
 
@@ -523,13 +537,13 @@ On expiry of the four-year investment period, the FOC shall rule, if applicable,
 
 **Confidentiality**
 
-<sup>1</sup> The business figures reported to or obtained by the FOC, and in particular information about the gross revenues, operating costs, expenses incurred and the number of paid on-demand viewings, are confidential.
+<sup>1</sup> The business figures reported to or obtained by the FOC, and in particular information about the gross revenues, operating costs, expenditure incurred and the number of paid on-demand viewings, are confidential.
 
 <sup>2</sup> They may only be inspected with consent of the company from which they originate, subject to the provisions on the inspection of files in administrative proceedings in accordance with the Administrative Procedure Act of 20 December 1968[^36-1].
 
 <sup>3</sup> Articles 35 and 37 are reserved.
 
-[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37
 
@@ -547,7 +561,7 @@ The FSO shall publish an annual summary of:
 The FOC shall publish details of the following annually:
 
 - a. which companies fulfil the quota with which on-demand service for European films of at least 30 per cent a and which do not and how European films are specifically identified;
-- b. the total of expenses accounted for by companies providing television or on-demand services according to their type;
+- b. the total expenditure accounted for by companies providing television or on-demand services according to their type;
 - c. the total of deferred investments;
 - d. the total of subsidiary levies received;
 - e. the use of the subsidiary levy by the FOC.
@@ -568,7 +582,7 @@ The FOC shall publish details of the following annually:
 
 <sup>1</sup> The obligation of television broadcasters with a national or regional-language programme service to promote Swiss Films is governed until the 31 December 2023 by Article 7 RTVA[^39-1] in its version of 26 September 2014[^39-2]. The Federal Office of Communications is responsible for monitoring compliance.
 
-<sup>2</sup> Expenses allowed by the Federal Office of Communications under Article 7 paragraph 2 RTVA in its version of 26 September 2014 are not eligible as expenses under the FiA.
+<sup>2</sup> Expenditure allowed by the Federal Office of Communications under Article 7 paragraph 2 RTVA in its version of 26 September 2014 is not eligible as expenditure under the FiA.
 
 <sup>3</sup> The four-year investment period under Article 24*b* FiA begins on 1 January 2024 for companies providing television or on-demand services that are in existence when this Ordinance comes into force.
 
@@ -576,7 +590,7 @@ The FOC shall publish details of the following annually:
 
 <sup>5</sup> The requirement for companies providing on-demand services to report paid on-demand viewings in accordance with Article 27 paragraph 1 applies to films distributed from 1 January 2024.
 
-[^39-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-2]: [AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345)
 
 #### Art. 40

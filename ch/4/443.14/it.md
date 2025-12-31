@@ -4,11 +4,11 @@ title: Ordinanza del 6 settembre 2023 sulla quota per i film europei e sugli inv
 short: OQIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/533"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2023-09-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2023-533-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2023-533-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20240101/it"
 
 (OQIC)
 
-del 6 settembre 2023 (Stato 1° gennaio 2024)
+del 6 settembre 2023 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 24*a* capoverso 3, 24*e* capoverso 1 e 34 capoverso 1 della l
 
 ordina:
 
-[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -78,7 +78,7 @@ Nella presente ordinanza si intende per:
   - 2\. documentario di durata pari o superiore a 50 minuti o serie documentaria di durata complessiva pari o superiore a 100 minuti per stagione,
   - 3\. altri film computabili di durata pari o superiore a 50 minuti.
 
-[^3-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ### Sezione 3: Campo di applicazione
 
@@ -127,7 +127,7 @@ Su richiesta, vengono esentate dagli obblighi di cui agli articoli 24*a*–24*f*
 
 <sup>3</sup> Un’esenzione secondo i capoversi 1 e 2 non dispensa dal rispetto degli obblighi di registrazione e di notifica di cui al capitolo 3*a* sezione 3 LCin. Per l’obbligo di fare rapporto è applicabile l’articolo 25 capoverso 3.
 
-[^5-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^5-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Capitolo 2: Promozione della pluralità dell’offerta cinematografica dei servizi su richiesta
 
@@ -144,9 +144,9 @@ Sono considerati film europei i film computabili che:
 - c. provengono da un Paese che ha sottoscritto la Convenzione europea del 5 maggio 1989[^6-1] sulla televisione transfrontaliera; oppure
 - d. sono stati realizzati quali coproduzioni ai sensi della Convenzione europea del 2 ottobre 1992[^6-2] sulla coproduzione cinematografica o ai sensi della Convenzione del Consiglio d’Europa del 30 gennaio 2017[^6-3] sulla coproduzione cinematografica.
 
-[^6-1]: [RS 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
-[^6-2]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
-[^6-3]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
+[^6-1]: [RS 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
+[^6-2]: [RS 0.443.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1812)
+[^6-3]: [RS 0.443.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1813)
 
 #### Art. 7
 
@@ -198,9 +198,22 @@ Le imprese di produzione sono considerate terzi indipendenti se, inoltre:
 
 #### Art. 10
 
-**Spese computabili per i film**
+**Spese computabili per i film**[^10-1]
 
-Sono computabili esclusivamente le spese di cui all’articolo 24*c* capoversi 1 e 2 lettere a–c LCin per film computabili.
+<sup>1</sup> Sono computabili esclusivamente le spese di cui all’articolo 24*c* capoversi 1 e 2 lettere a–c LCin per film computabili.
+
+<sup>2</sup> Qualora un’impresa soggetta all’obbligo d’investimento effettui pagamenti prima che possa essere confermata l’origine svizzera del film secondo l’articolo 8, su richiesta l’UFC verifica se tali pagamenti sono computabili come spese.
+
+<sup>3</sup>
+
+L’UFC conferma la computabilità se i pagamenti:
+
+- a. riguardano un film potenzialmente computabile;
+- b. sono destinati alla stesura di una sceneggiatura o di una scaletta da parte di autori indipendenti domiciliati in Svizzera oppure allo sviluppo di progetti cinematografici da parte di registi indipendenti domiciliati in Svizzera;
+- c. sono destinati ad autori, registi o imprese di produzione con domicilio o sede in Svizzera; e
+- d. sono coerenti con gli importi normalmente pagati nel settore.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 #### Art. 11
 
@@ -531,13 +544,14 @@ Trascorso il periodo di investimento di quattro anni l’UFC decide un’eventua
 
 <sup>1</sup> L’UFC può esigere informazioni o documenti aggiuntivi e chiedere informazioni alle autorità cantonali e federali.
 
-<sup>2</sup> Qualora il conto annuale, le rendicontazioni di cui all’articolo 20, i conteggi intermedi di cui all’articolo 30 o le rendicontazioni sulle spese per i film di origine svizzera non siano oggetto di verifica da parte di una persona o società fiduciaria indipendente e abilitata quale revisore secondo la legge del 16 dicembre 2005[^35-1] sui revisori, l’UFC può far verificare sul posto i dati dell’impresa da una società di revisione indipendente.
+<sup>2</sup> Qualora il conto annuale, le rendicontazioni di cui all’articolo 20, i conteggi intermedi di cui all’articolo 30 o le rendicontazioni sulle spese per i film di origine svizzera non siano oggetto di verifica da parte di un revisore indipendente e abilitato secondo la legge del 16 dicembre 2005[^35-1] sui revisori, l’UFC può far verificare sul posto i dati dell’impresa da una società di revisione indipendente.[^35-2]
 
 <sup>3</sup> Le verifiche di bilancio da parte di revisori esteri sono considerate parimenti valide se i requisiti posti a questi ultimi nel rispettivo Paese sono comparabili a quelli posti ai revisori svizzeri, segnatamente per quanto riguarda l’indipendenza e l’imparzialità. L’UFC può richiedere al revisore una conferma in tal senso.
 
 <sup>4</sup> Qualora nel caso di una verifica secondo il capoverso 2 la società di revisione riscontri difformità sostanziali, l’UFC può obbligare l’impresa ad assumersi le spese della revisione.
 
-[^35-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^35-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 ## Capitolo 6: Confidenzialità e informazione del pubblico
 
@@ -551,7 +565,7 @@ Trascorso il periodo di investimento di quattro anni l’UFC decide un’eventua
 
 <sup>3</sup> Sono fatti salvi gli articoli 35 e 37.
 
-[^36-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37
 
@@ -598,7 +612,7 @@ Ogni anno l’UFC comunica tramite pubblicazione:
 
 <sup>5</sup> La notifica delle richieste a pagamento di cui all’articolo 27 capoverso 1 da parte delle imprese con servizi su richiesta si applica ai film commercializzati dal 1° gennaio 2024.
 
-[^39-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-2]: [RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345)
 
 #### Art. 40

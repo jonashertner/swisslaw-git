@@ -4,11 +4,11 @@ title: Ordonnance du 6 septembre 2023 sur le quota des films européens et les i
 short: OQICin
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/533"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2023-09-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-533-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/533/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-533-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/533/20240101/fr"
 
 (OQICin)
 
-du 6 septembre 2023 (État le 1<sup>er</sup> janvier 2024)
+du 6 septembre 2023 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 24*a*, al. 3, 24*e*, al. 1, et 34, al. 1, de la loi du 14 décembre 
 
 arrête:
 
-[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 ## Chapitre 1 Dispositions générales
 
@@ -78,7 +78,7 @@ Au sens de la présente ordonnance, on entend par:
   - 2\. documentaire d’une durée de 50 minutes ou plus, ou série documentaire d’une durée totale de 100 minutes ou plus par saison,
   - 3\. tout autre film éligible d’une durée de 50 minutes ou plus.
 
-[^3-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ### Section 3 Champ d’application
 
@@ -127,7 +127,7 @@ Sur demande, sont exemptées des obligations visées aux art. 24*a* à 24*f* LCi
 
 <sup>3</sup> Une exemption au titre des al. 1 et 2 ne dispense pas de l’enregistrement obligatoire et de l’obligation d’annoncer visés à la section 3 du chapitre 3*a* de la loi sur le cinéma. L’obligation de faire rapport est réglée à l’art. 25, al. 3.
 
-[^5-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^5-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Chapitre 2 Promotion de la diversité de l’offre cinématographique des services à la demande
 
@@ -144,9 +144,9 @@ Sont considérés comme films européens les films éligibles qui remplissent l�
 - c. provenir d’un pays signataire de la Convention européenne du 5 mai 1989 sur la télévision transfrontière[^6-1];
 - d. être une coproduction au sens de la Convention européenne du 2 octobre 1992 sur la coproduction cinématographique[^6-2] ou de la Convention du Conseil de l’Europe du 30 janvier 2017 sur la coproduction cinématographique[^6-3].
 
-[^6-1]: [RS 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
-[^6-2]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
-[^6-3]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
+[^6-1]: [RS 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
+[^6-2]: [RS 0.443.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1812)
+[^6-3]: [RS 0.443.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1813)
 
 #### Art. 7
 
@@ -198,9 +198,22 @@ Les sociétés de production sont considérées comme tiers indépendants si ell
 
 #### Art. 10
 
-**Dépenses imputables affectées à des films**
+**Dépenses imputables affectées à des films**[^10-1]
 
-Seules sont imputables les dépenses visées à l’art. 24*c*, al. 1 et 2, let. a à c, LCin affectées à des films éligibles.
+<sup>1</sup> Seules sont imputables les dépenses visées à l’art. 24*c*, al. 1 et 2, let. a à c, LCin affectées à des films éligibles.
+
+<sup>2</sup> Lorsqu’une entreprise soumise à l’obligation d’investir effectue des versements avant qu’il soit possible de confirmer l’origine suisse d’un film au sens de l’art. 8, l’OFC vérifie, sur demande, l’imputabilité de ces dépenses.
+
+<sup>3</sup>
+
+L’OFC confirme que les dépenses sont imputables si les conditions suivantes sont réunies:
+
+- a. les dépenses concernent un film potentiellement éligible;
+- b. elles sont destinées à l’écriture, par un auteur indépendant ayant son domicile en Suisse, d’un scénario ou d’un document servant au tournage d’un film ou au développement d’un projet de film par un réalisateur indépendant ayant son domicile en Suisse;
+- c. elles sont versées à des auteurs, à des réalisateurs ou à des sociétés de production ayant leur siège ou leur domicile en Suisse, et
+- d. leur montant est conforme aux usages de la branche.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 #### Art. 11
 
@@ -534,13 +547,14 @@ Ne doivent pas communiquer les visionnements payés les entreprises qui:
 
 <sup>1</sup> L’OFC peut demander des renseignements et des pièces justificatives supplémentaires, et se renseigner auprès des autorités cantonales et fédérales.
 
-<sup>2</sup> Si les comptes annuels, les relevés visés à l’art. 20, les décomptes intermédiaires visés à l’art. 30 ou les décomptes concernant les dépenses pour les films d’origine suisse ne sont pas contrôlés par une personne ou une société fiduciaire indépendante agréée en qualité d’expert-réviseur au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^35-1], l’OFC peut faire contrôler sur place les information de l’entreprise par une entreprise de révision indépendante.
+<sup>2</sup> Si les comptes annuels, les relevés visés à l’art. 20, les décomptes intermédiaires visés à l’art. 30 ou les décomptes concernant les dépenses pour les films d’origine suisse ne sont pas contrôlés par un réviseur indépendant agréé au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^35-1], l’OFC peut faire contrôler sur place les informations de l’entreprise par une entreprise de révision indépendante.[^35-2]
 
 <sup>3</sup> Le contrôle des comptes effectué par un réviseur étranger est considéré comme équivalent à un contrôle effectué par un réviseur suisse si les exigences auxquelles le réviseur est soumis dans le pays concerné sont comparables aux exigences auxquelles les réviseurs suisses sont soumis, notamment en matière d’indépendance et d’impartialité. L’OFC peut demander une confirmation du réviseur à ce sujet.
 
 <sup>4</sup> Si le réviseur constate des incohérences importantes lors de son contrôle au sens de l’al. 2, l’OFC peut exiger de l’entreprise qu’elle prenne en charge les frais de révision.
 
-[^35-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^35-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 819](https://fedlex.data.admin.ch/eli/oc/2025/819)).
 
 ## Chapitre 6 Confidentialité et information du public
 
@@ -554,7 +568,7 @@ Ne doivent pas communiquer les visionnements payés les entreprises qui:
 
 <sup>3</sup> Les art. 35 et 37 sont réservés.
 
-[^36-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 37
 
@@ -601,7 +615,7 @@ L’OFC publie chaque année:
 
 <sup>5</sup> La communication par les entreprises proposant des services à la demande des visionnements payés visés à l’art. 27, al. 1 s’applique aux films exploités à partir du 1<sup>er</sup> janvier 2024.
 
-[^39-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-2]: [RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345)
 
 #### Art. 40
