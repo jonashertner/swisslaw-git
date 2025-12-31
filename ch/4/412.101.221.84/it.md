@@ -3,18 +3,18 @@ sr: "412.101.221.84"
 title: Ordinanza della SEFRI del 23 agosto 2012 sulla formazione professionale di base Autista di veicoli pesanti con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/658"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2012-08-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2012-658-20240401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-658-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Autista di veicoli pesanti con attestato federale di capacità (AFC)
 
-del 23 agosto 2012 (Stato 1° aprile 2024)
+del 23 agosto 2012 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>73304</td><td>Autista di veicoli pesanti AFC Strassentransportfachfrau EFZ/ Strassentransportfachmann EFZ Conductrice de véhicules lourd CFC/ Conducteur de véhicules lourds CFC</td></tr>
@@ -26,10 +26,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nuovo testo giusta il n. I 133 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
@@ -119,7 +119,7 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
 [^5-1]: Nuovo testo giusta il n. II 133 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -174,9 +174,10 @@ Il piano di formazione stabilisce inoltre:
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^9-2].
 
-[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -204,8 +205,8 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
 <sup>4</sup> I costi per le lezioni di guida e per il primo esame di guida di ogni categoria sono a carico dell’azienda di tirocinio.
 
 [^11-1]: Abrogato dal n. I dell’O della SEFRI del 26 mar. 2021, con effetto dal 1° mag. 2021 ([RU 2021 179](https://fedlex.data.admin.ch/eli/oc/2021/179)).
-[^11-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^11-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^11-2]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^11-3]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^11-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 10 ago. 2023, in vigore dal 1° ott. 2023 ([RU 2023 471](https://fedlex.data.admin.ch/eli/oc/2023/471)).
 
 #### Art. 12
@@ -278,8 +279,8 @@ Le persone in formazione devono inoltre aver superato i seguenti esami prima del
   - 1\. l’ordinanza del 29 novembre 2002[^15-1] concernente il trasporto di merci pericolose su strada (SDR),
   - 2\. l’accordo europeo del 30 settembre 1957[^15-2] relativo al trasportointernazionale su strada delle merci pericolose (ADR).
 
-[^15-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^15-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^15-1]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^15-2]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 #### Art. 16
 
@@ -297,11 +298,12 @@ Nella procedura di qualificazione con esame finale vengono esaminati i campi di 
 
 - a. «lavoro pratico», sotto forma di lavoro pratico prestabilito (LPP) della durata di 12–16 ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 - b. «conoscenze professionali», della durata di cinque ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame è scritto oppure sia scritto sia orale. Se si svolge un esame orale, la durata massima è di un’ora;
-- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^17-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
@@ -349,7 +351,7 @@ Per il calcolo della nota complessiva valgono le note sotto elencate con la segu
 - b. conoscenze professionali: 30 per cento;
 - c. cultura generale: 20 per cento.
 
-[^20-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^20-1]: [RS 741.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8670)
 
 ## Sezione 9: Attestazioni e titolo
 
