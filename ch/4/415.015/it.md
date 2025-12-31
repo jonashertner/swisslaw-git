@@ -3,18 +3,18 @@ sr: "415.015"
 title: Regolamento sull’organizzazione del 12 agosto 2021 della Scuola universitaria federale dello sport di Macolin
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/500"
 language: it
-version: 2021-10-01
+version: 2026-01-01
 adopted: 2021-08-12
 in_force: 2021-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/500/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2021-500-20211001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/500/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/500/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-500-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/500/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento sull’organizzazione della Scuola universitaria federale dello sport di Macolin
 
-del 12 agosto 2021 (Stato 1° ottobre 2021)
+del 12 agosto 2021 (Stato 1° gennaio 2026)
 
 L’Ufficio federale dello sport (UFSPO),
 
@@ -22,14 +22,21 @@ visto l’articolo 43 capoverso 5 della legge del 21 marzo 1997[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-Il presente regolamento disciplina l’organizzazione strutturale della Scuola universitaria federale dello sport di Macolin (SUFSM), la funzione e i compiti del direttore dell’UFSPO in seno alla SUFSM, del rettore e del comitato consultivo della SUFSM e precisa la partecipazione dei membri della scuola universitaria.
+Il presente regolamento disciplina:
+
+- a. l’organizzazione strutturale della Scuola universitaria federale dello sport di Macolin (SUFSM);
+- b. la funzione e i compiti del direttore dell’UFSPO in seno alla SUFSM, del rettore e del comitato consultivo della SUFSM;
+- c. il conferimento della nomina di professore SUFSM a membri della scuola universitaria;
+- d. la partecipazione dei membri della scuola universitaria.
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 2
 
@@ -87,7 +94,10 @@ Il rettore ha, in particolare, i seguenti compiti:
 
 - a. attuare l’orientamento strategico per il posizionamento della SUFSM nel panorama universitario;
 - b. rappresentare la SUFSM verso l’interno e verso l’esterno;
-- c. assicurare la qualità dell’insegnamento, della ricerca e dello sviluppo nonché delle prestazioni di servizio.
+- c. assicurare la qualità dell’insegnamento, della ricerca e dello sviluppo nonché delle prestazioni di servizio;
+- d.[^7-1] conferire la nomina di professore SUFSM a membri della scuola universitaria.
+
+[^7-1]: Introdotta dalla cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 8
 
@@ -140,6 +150,29 @@ Il comitato consultivo della SUFSM è composto da al massimo cinque membri che d
 <sup>2</sup> L’importo dell’indennità non è adattato al rincaro.
 
 <sup>3</sup> Non ricevono alcuna indennità i membri impiegati nell’Amministrazione federale.
+
+#### Art. 13a
+
+**Professori SUFSM**[^13a-1]
+
+<sup>1</sup> Il rettore conferisce la nomina di professore SUFSM ai membri della scuola universitaria che ne fanno richiesta.
+
+<sup>2</sup>
+
+I candidati devono soddisfare i seguenti requisiti:
+
+- a. aver conseguito un dottorato; in casi eccezionali può essere sufficiente anche un master;
+- b. avere una qualifica in didattica universitaria;
+- c. essere stati attivi per diversi anni in un’organizzazione sportiva;
+- d. essere impiegati presso l’UFSPO a tempo indeterminato e con un grado di occupazione di almeno il 60 per cento;
+- e. insegnare presso la SUFSM per almeno il 20 per cento di un equivalente a tempo pieno in uno o più cicli di studio di formazione o di formazione continua;
+- f. dedicare una parte significativa del proprio tempo di lavoro presso la SUFSM alla ricerca e allo sviluppo applicati e seguire le nuove leve scientifiche;
+- g. contribuire alla reputazione accademica della SUFSM;
+- h. aver acquisito finanziamenti di terzi per la SUFSM e impegnarsi ad acquisirne altri.
+
+<sup>3</sup> Il titolo di professore SUFSM può essere utilizzato solo fintanto che i requisiti di cui al capoverso 2 sono soddisfatti.
+
+[^13a-1]: Introdotto dalla cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 14
 

@@ -3,18 +3,18 @@ sr: "415.015"
 title: Organisationsreglement vom 12. August 2021 der Eidgenössischen Hochschule für Sport Magglingen
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/500"
 language: de
-version: 2021-10-01
+version: 2026-01-01
 adopted: 2021-08-12
 in_force: 2021-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/500/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2021-500-20211001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/500/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/500/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-500-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/500/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Organisationsreglement der Eidgenössischen Hochschule für Sport Magglingen
 
-vom 12. August 2021 (Stand am 1. Oktober 2021)
+vom 12. August 2021 (Stand am 1. Januar 2026)
 
 Das Bundesamt für Sport (BASPO),
 
@@ -22,14 +22,21 @@ gestützt auf Artikel 43 Absatz 5 des Regierungs- und Verwaltungsorganisationsge
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Dieses Reglement regelt die Aufbauorganisation der Eidgenössischen Hochschule für Sport Magglingen (EHSM), die Stellung und die Aufgaben der Direktorin oder des Direktors des BASPO innerhalb der EHSM, der Rektorin oder des Rektors und des EHSM-Beirats und konkretisiert die Mitwirkung der Hochschulangehörigen.
+Dieses Reglement regelt:
+
+- a. die Aufbauorganisation der Eidgenössischen Hochschule für Sport Magglingen (EHSM);
+- b. die Stellung und die Aufgaben der Direktorin oder des Direktors des BASPO innerhalb der EHSM, der Rektorin oder des Rektors und des EHSM-Beirats;
+- c. die Ernennung von Hochschulangehörigen zur «Professorin EHSM» oder zum «Professor EHSM»;
+- d. die Mitwirkung der Hochschulangehörigen.
+
+[^1-1]: Fassung gemäss Ziff. I der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 2
 
@@ -87,7 +94,10 @@ Die Rektorin oder der Rektor hat insbesondere folgende Aufgaben:
 
 - a. Umsetzung der strategischen Ausrichtung für die Positionierung der EHSM in der Hochschullandschaft;
 - b. Vertretung der EHSM gegen Innen und Aussen;
-- c. Sicherstellung der Qualität von Lehre, Forschung und Entwicklung sowie von Dienstleistungen.
+- c. Sicherstellung der Qualität von Lehre, Forschung und Entwicklung sowie von Dienstleistungen;
+- d.[^7-1] Ernennung von Hochschulangehörigen zur «Professorin EHSM» oder zum «Professor EHSM».
+
+[^7-1]: Eingefügt durch Ziff. I der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 8
 
@@ -140,6 +150,29 @@ Der EHSM-Beirat setzt sich aus maximal fünf Mitgliedern zusammen, die über aus
 <sup>2</sup> Die Ansätze unterliegen nicht dem Teuerungsausgleich.
 
 <sup>3</sup> Keine Entschädigung erhalten Mitglieder, die in der Bundesverwaltung angestellt sind.
+
+#### Art. 13a
+
+**Professorinnen und Professoren der EHSM**[^13a-1]
+
+<sup>1</sup> Die Rektorin oder der Rektor ernennt Hochschulangehörige auf deren Antrag zur Professorin oder zum Professor der EHSM.
+
+<sup>2</sup>
+
+Die Bewerberin oder der Bewerber muss folgende Voraussetzungen erfüllen:
+
+- a. Sie oder er verfügt über ein abgeschlossenes Doktorat; in Ausnahmenfällen kann auch ein abgeschlossenes Masterstudium genügen.
+- b. Sie oder er verfügt über eine Qualifikation in Hochschuldidaktik.
+- c. Sie oder er war während mehrerer Jahre in einer Sportorganisation tätig.
+- d. Sie oder er ist unbefristet und mit einem Pensum von mindestens 60 Stellenprozent beim BASPO angestellt.
+- e. Sie oder er unterrichtet an der EHSM zu mindestens 20 Prozent eines Vollzeitäquivalents in einem oder mehreren Aus- oder Weiterbildungsstudiengängen.
+- f. Sie oder er wendet einen wesentlichen Anteil des Arbeitspensums an der EHSM für anwendungsorientierte Forschung und Entwicklung auf und betreut den wissenschaftlichen Nachwuchs.
+- g. Sie oder er trägt zur akademischen Reputation der EHSM bei.
+- h. Sie oder er hat Drittmittel für die EHSM eingeworben und verpflichtet sich, sich weiterhin um die Einwerbung von Drittmitteln zu bemühen.
+
+<sup>3</sup> Die Funktionsbezeichnungen «Professorin EHSM» und «Professor EHSM» dürfen nur verwendet werden, solange die Voraussetzungen nach Absatz 2 erfüllt sind.
+
+[^13a-1]: Eingefügt durch Ziff. I der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 14
 

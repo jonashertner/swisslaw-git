@@ -3,18 +3,18 @@ sr: "415.015"
 title: Règlement d’organisation du 12 août 2021 de la Haute école fédérale de sport de Macolin
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/500"
 language: fr
-version: 2021-10-01
+version: 2026-01-01
 adopted: 2021-08-12
 in_force: 2021-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/500/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-500-20211001-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/500/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/500/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-500-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/500/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement d’organisation de la Haute école fédérale de sport de Macolin
 
-du 12 août 2021 (État le 1<sup>er</sup> octobre 2021)
+du 12 août 2021 (État le 1<sup>er</sup> janvier 2026)
 
 L’Office fédéral du sport (OFSPO),
 
@@ -22,14 +22,21 @@ vu l’art. 43, al. 5, de la loi du 21 mars 1997 sur l’organisation du gouvern
 
 arrête:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-Le présent règlement régit l’organisation structurelle de la Haute école fédérale de sport de Macolin (HEFSM), le statut et les tâches du directeur de l’OFSPO au sein de la HEFSM, du recteur ainsi que du conseil consultatif de la HEFSM et précise la participation des membres de la haute école.
+Le présent règlement régit:
+
+- a. l’organisation structurelle de la Haute école fédérale de sport de Macolin (HEFSM);
+- b. le statut et les tâches du directeur de l’OFSPO au sein de la HEFSM, du recteur et du conseil consultatif de la HEFSM;
+- c. la nomination de membres de la haute école à la fonction de professeur HEFSM;
+- d. la participation des membres de la haute école.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 2
 
@@ -87,7 +94,10 @@ Le recteur assume en particulier les tâches suivantes:
 
 - a. mettre en œuvre l’orientation stratégique visant à assurer le positionnement de la HEFSM dans le paysage des hautes écoles;
 - b. représenter la HEFSM en interne comme en externe;
-- c. assurer la qualité de l’enseignement, de la recherche et du développement ainsi que des prestations de service.
+- c. assurer la qualité de l’enseignement, de la recherche et du développement ainsi que des prestations de service;
+- d.[^7-1] nommer des membres de la haute école à la fonction de professeur HEFSM.
+
+[^7-1]: Introduite par le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 8
 
@@ -140,6 +150,29 @@ Le conseil consultatif de la HEFSM se compose de cinq membres au plus, qui dispo
 <sup>2</sup> Le montant de l’indemnité n’est pas adapté au renchérissement.
 
 <sup>3</sup> Les membres qui sont en outre employés de l’administration fédérale ne reçoivent pas d’indemnités.
+
+#### Art. 13a
+
+**Professeurs HEFSM**[^13a-1]
+
+<sup>1</sup> Sur postulation, le recteur nomme des membres de la haute école à la fonction de professeur HEFSM.
+
+<sup>2</sup>
+
+Les candidats doivent remplir les conditions suivantes:
+
+- a. être titulaires d’un doctorat; un master peut également suffire dans des cas exceptionnels;
+- b. posséder une qualification en didactique de l’enseignement supérieur;
+- c. avoir exercé une activité dans une organisation sportive pendant plusieurs années;
+- d. être engagés pour une durée indéterminée par l’OFSPO, avec un taux d’occupation d’au moins 60 %;
+- e. enseigner au moins à 20 % d’un équivalent temps plein dans une ou plusieurs filières de formation ou de formation continue de la HEFSM;
+- f. consacrer une part importante de leur temps de travail à la HEFSM à des travaux de recherche appliquée et développement et encadrer la relève scientifique;
+- g. contribuer à la réputation académique de la HEFSM;
+- h. avoir obtenu des fonds de tiers pour la HEFSM et s’engager à en obtenir d’autres.
+
+<sup>3</sup> Le titre de professeur HEFSM ne peut être utilisé que si les conditions visées à l’al. 2 sont remplies.
+
+[^13a-1]: Introduit par le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 676](https://fedlex.data.admin.ch/eli/oc/2025/676)).
 
 #### Art. 14
 
