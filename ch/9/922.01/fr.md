@@ -4,11 +4,11 @@ title: "Ordonnance du 29 février 1988 sur la chasse et la protection des mammif
 short: OChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: fr
-version: 2025-11-12
+version: 2026-01-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20251112-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/fr"
 
 (Ordonnance sur la chasse, OChP)
 
-du 29 février 1988 (État le 12 novembre 2025)
+du 29 février 1988 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -799,24 +799,15 @@ Les cantons contrôlent si les responsables d’exploitation de détention d’a
 
 <sup>1</sup>
 
-L’OFEV participe à hauteur de 50 % au plus aux coûts des mesures suivantes prises par les cantons:
+L’OFEV participe à hauteur de 80 % au plus aux coûts des mesures suivantes prises par les cantons:
 
 - a. planification individuelle de la prévention des conflits avec des chiens reconnus de protection des troupeaux dans des exploitations agricoles, des exploitations d’estivage ou des exploitations de pâturages communautaires;
 - b. planification de la séparation entre, d’une part, chemins de randonnée pédestre et de vélos tout terrain et, d’autre part, zones d’emploi des chiens reconnus de protection des troupeaux, pour autant que l’exige la planification visée à la let. a, ainsi qu’application de ces mesures;
-- c. planification régionale de la prévention des conflits avec l’ours;
-- d. mesures raisonnables de protection des troupeaux et des ruchers visées à l’art. 10*b*, al. 2 et 3.
+- c. planification régionale de la prévention des conflits avec l’ours.
 
-<sup>2</sup>
+<sup>2</sup> Il participe à hauteur de 80 % aux coûts des mesures raisonnables de protection des troupeaux et des ruchers visées à l’art. 10*b*, al. 2 et 3.
 
-Il répartit les moyens destinés à la participation aux coûts des mesures visées à l’al. 1, let. d, prises par les cantons en fonction de l’ampleur avec laquelle ceux-ci sont touchés, sur la base des critères suivants:
-
-- a. la population de loups en Suisse;
-- b. l’effectif d’ovins et de caprins de plus d’un an sur la surface agricole utile d’une exploitation de base;
-- c. l’effectif estivé d’ovins et de caprins pour lesquels une contribution supplémentaire est versée en vertu de l’art. 47*b* OPD[^10f-2];
-- d. l’effectif de chiens reconnus de protection des troupeaux visés à l’art. 10*d*, al. 2.
-
-[^10f-1]: Introduit par le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10f-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^10f-1]: Introduit par le ch. I de l’O du 13 déc. 2024 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 771](https://fedlex.data.admin.ch/eli/oc/2025/771)).
 
 #### Art. 10g
 
@@ -1115,7 +1106,7 @@ Annexe 3[^t-3]
 
 [^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)). Nouvelle teneur selon le ch. II de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20260101/fr/xml/image/image1.png)
 
 <table>
 <tr><th>Nom de la région</th><th>Numéro</th><th>Cantons</th><th>Surface</th><th>Nombre minimal de meutes de loups</th></tr>

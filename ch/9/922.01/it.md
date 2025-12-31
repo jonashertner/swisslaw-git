@@ -4,11 +4,11 @@ title: "Ordinanza del 29 febbraio 1988 sulla caccia e la protezione dei mammifer
 short: OCP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: it
-version: 2025-11-12
+version: 2026-01-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20251112-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/it"
 
 (Ordinanza sulla caccia, OCP)
 
-del 29 febbraio 1988 (Stato 12 novembre 2025)
+del 29 febbraio 1988 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -796,24 +796,15 @@ I Cantoni controllano se i responsabili delle aziende detentrici di animali o gl
 
 <sup>1</sup>
 
-L’UFAM si assume al massimo il 50 per cento dei costi delle seguenti misure dei Cantoni:
+L’UFAM si assume al massimo l’80 per cento dei costi delle seguenti misure dei Cantoni:
 
 - a. pianificazione individuale per la prevenzione dei conflitti con cani da protezione del bestiame riconosciuti in aziende agricole nonché in aziende d’estivazione e aziende con pascoli comunitari;
 - b. pianificazione per la separazione dei percorsi per mountain bike e dei sentieri dalle zone d’impiego di cani da protezione del bestiame riconosciuti, purché la pianificazione di cui alla lettera a lo richieda, nonché attuazione delle misure;
-- c. pianificazione regionale per la prevenzione dei conflitti con gli orsi;
-- d. misure ragionevolmente esigibili per la protezione del bestiame e delle api di cui all’articolo 10b capoversi 2 e 3.
+- c. pianificazione regionale per la prevenzione dei conflitti con gli orsi.
 
-<sup>2</sup>
+<sup>2</sup> L’UFAM si assume l’80 per cento dei costi delle misure di protezione del bestiame e delle api ragionevolmente esigibili secondo l’articolo 10*b* capoversi 2 e 3.
 
-L’UFAM ripartisce i fondi per la partecipazione ai costi dei Cantoni per le misure di cui al capoverso 1 lettera d in funzione dell’incidenza delle misure adottate, sulla base dei seguenti criteri:
-
-- a. effettivo di lupi della Svizzera;
-- b. effettivo di ovini e caprini di età superiore a un anno presenti sulla superficie utile agricola di aziende di base;
-- c. effettivo di ovini e caprini in estivazione per i quali viene corrisposto un contributo supplementare secondo l’articolo 47*b* OPD[^10f-2];
-- d. effettivo di cani da protezione del bestiame riconosciuti secondo l’articolo 10*d* capoverso 2.
-
-[^10f-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10f-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^10f-1]: Introdotto dalla cifra I dell’O del 13 dic. 2024 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 771](https://fedlex.data.admin.ch/eli/oc/2025/771)).
 
 #### Art. 10g
 
@@ -1112,7 +1103,7 @@ Allegato 3[^t-3]
 
 [^t-3]: Introdotto dalla cifra II dell’O del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20260101/it/xml/image/image1.png)
 
 <table>
 <tr><th>Denominazione della regione</th><th>Numero</th><th>Cantoni</th><th>Superficie</th><th>Numero minimo di branchi di lupi</th></tr>

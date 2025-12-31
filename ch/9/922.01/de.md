@@ -4,11 +4,11 @@ title: "Verordnung vom 29. Februar 1988 über die Jagd und den Schutz wildlebend
 short: JSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: de
-version: 2025-11-12
+version: 2026-01-01
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20251112-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20251112/de"
 
 (Jagdverordnung, JSV)
 
-vom 29. Februar 1988 (Stand am 12. November 2025)
+vom 29. Februar 1988 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -797,24 +797,15 @@ Die Kantone kontrollieren, ob die Betriebsverantwortlichen von Tierhaltungen ode
 
 <sup>1</sup>
 
-Das BAFU beteiligt sich mit maximal 50 Prozent an den Kosten folgender Massnahmen der Kantone:
+Das BAFU beteiligt sich mit maximal 80 Prozent an den Kosten folgender Massnahmen der Kantone:
 
 - a. einzelbetriebliche Planung zur Verhütung von Konflikten mit anerkannten Herdenschutzhunden auf Landwirtschaftsbetrieben sowie auf Sömmerungs- und Gemeinschaftsweidebetrieben;
 - b. Planung zur Entflechtung von Mountainbike- und Wanderwegen im Einsatzgebiet von anerkannten Herdenschutzhunden, sofern dies gemäss der Planung nach Buchstabe a erforderlich ist, sowie die Umsetzung der Massnahmen;
-- c. regionale Planung zur Verhütung von Konflikten mit Bären;
-- d. zumutbare Massnahmen zum Herden- und Bienenschutz gemäss Artikel 10*b* Absätze 2 und 3.
+- c. regionale Planung zur Verhütung von Konflikten mit Bären.
 
-<sup>2</sup>
+<sup>2</sup> Das BAFU beteiligt sich mit 80 Prozent an den Kosten der zumutbaren Massnahmen zum Herden- und Bienenschutz gemäss Artikel 10*b* Absätze 2 und 3.
 
-Das BAFU verteilt die Mittel für die Beteiligung an den Kosten der Kantone für die Massnahmen nach Absatz 1 Buchstabe d anhand ihrer Betroffenheit gestützt auf folgende Kriterien:
-
-- a. Wolfsbestand der Schweiz;
-- b. Bestand an älter als einjährigen Schafen und Ziegen auf Heimbetrieben in der landwirtschaftlichen Nutzfläche;
-- c. Sömmerungsbestand von Schafen und Ziegen, für welche ein Zusatzbeitrag gemäss Artikel 47*b* DZV[^10f-2] ausgerichtet wird;
-- d. Bestand an anerkannten Herdenschutzhunden gemäss Artikel 10*d* Absatz 2.
-
-[^10f-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
-[^10f-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^10f-1]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 771](https://fedlex.data.admin.ch/eli/oc/2025/771)).
 
 #### Art. 10g
 
@@ -1113,7 +1104,7 @@ Anhang 3[^t-3]
 
 [^t-3]: Eingefügt durch Ziff. II der V vom 1. Nov. 2023 ([AS 2023 662](https://fedlex.data.admin.ch/eli/oc/2023/662)). Fassung gemäss Ziff. II der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20251112/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20260101/de/xml/image/image1.png)
 
 <table>
 <tr><th>Bezeichnung der Region</th><th>Nummer</th><th>Kantone</th><th>Fläche</th><th>Mindestbestand an Wolfsrudeln</th></tr>
