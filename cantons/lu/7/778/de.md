@@ -3,20 +3,19 @@ canton: LU
 number: "778"
 title: Verordnung über den Gebührenbezug des Strassenverkehrsamtes
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2001-10-30
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/778"
-pdf: "https://srl.lu.ch/api/de/versions/4318/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4618/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Gebührenbezug des Strassenverkehrsamtes
 
-vom 30.10.2001 (Stand 01.01.2025)
+vom 30.10.2001 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -254,7 +253,8 @@ beschliesst:
 - a. Namensänderungen natürlicher Personen,
 - b. Namensänderungen von Einzelunternehmen sowie von Kollektiv- und Kommanditgesellschaften ohne Änderung der Rechtsform,
 - c. Firmenänderungen von Einzelunternehmen sowie von juristischen Personen ohne Änderung der Rechtsform,
-- d. Erbgang auf den überlebenden Ehegatten oder die überlebende Ehegattin beziehungsweise auf den überlebenden eingetragenen Partner oder die überlebende eingetragene Partnerin.
+- d. Erbgang auf den überlebenden Ehegatten oder die überlebende Ehegattin beziehungsweise auf den überlebenden eingetragenen Partner oder die überlebende eingetragene Partnerin,
+- e. Erbgang auf den überlebenden Lebenspartner oder die überlebende Lebenspartnerin, der oder die mit dem bisherigen Halter oder der bisherigen Halterin während mindestens fünf Jahren bis zu dessen oder deren Tod ununterbrochen einen gemeinsamen Haushalt geführt hat.
 
 <sup>4</sup> Für die Zuteilung einer bestimmten Kontrollschildnummer mit weissem Grund und schwarzer Schrift für Motorwagen, Motorräder, Klein- und dreirädrige Motorfahrzeuge gemäss dem Wunsch des Halters oder der Halterin verlangt das Strassenverkehrsamt eine Zusatzgebühr, welche sich an der Nachfrage orientiert.
 
