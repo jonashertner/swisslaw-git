@@ -1,22 +1,21 @@
 ---
 canton: ZG
 number: "412.32"
-title: Kantonsratsbeschluss betreffend Beschulung schulpflichtiger Kinder und Jugendlicher aus der Ukraine
+title: Kantonsratsbeschluss betreffend die solidarische Finanzierung der Beschulung von Kindern und Jugendlichen mit Asylstatus
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-30
+version: 2026-01-01
+version_adopted: 2025-10-30
 adopted: 2025-10-30
 in_force: 2026-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.32"
-pdf: "https://bgs.zg.ch/api/de/versions/2941/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonsratsbeschluss betreffend Beschulung schulpflichtiger Kinder und Jugendlicher aus der Ukraine
+# Kantonsratsbeschluss betreffend die solidarische Finanzierung der Beschulung von Kindern und Jugendlichen mit Asylstatus
 
-Vom 29. September 2022 (Stand 1. Januar 2024)
+Vom 30. Oktober 2025 (Stand 1. Januar 2026)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -28,38 +27,38 @@ beschliesst:
 
 #### § 1
 
-**Grundsatz**
+**Solidarische Finanzierung der Beschulung im Regelschulbereich**
 
-<sup>1</sup> Schulpflichtige Kinder und Jugendliche, welche aufgrund des Angriffs Russlands auf die Ukraine in die Schweiz eingereist sind und im Kanton Zug ihren Aufenthaltsort haben, werden durch die Zuger Gemeinden in den Kindergarten, die Primarschule oder die jeweilige von den Gemeinden geführte Schulart auf der Sekundarstufe I eingeschult.
+<sup>1</sup> Die Finanzierung der Beschulung aller schulpflichtigen Kinder und Jugendlichen mit Asylstatus erfolgt solidarisch zwischen den Einwohnergemeinden ab dem freiwilligen Kindergarten.
 
-<sup>2</sup> Die Gemeinden können dazu ein integratives Vorgehen wählen oder Kleinklassen gemäss Schulgesetz führen. Sie sind frei, sich untereinander zu koordinieren.
+<sup>2</sup> Für die solidarische Kostenverteilung unter den Einwohnergemeinden werden pro Schülerin und Schüler pauschal 4000 Franken vierteljährlich proportional zur Wohnbevölkerung unter den Einwohnergemeinden aufgeteilt. Ab dem Inkrafttreten dieses Beschlusses wird die Pauschale analog zur Teuerungszulage an das Staatspersonal angepasst.
 
-<sup>3</sup> Die gemäss Kantonsratsbeschluss betreffend Integrationsklassen auf der Primarstufe für Kinder aus dem Asyl- und Flüchtlingsbereich vom 24. November 2016 geführten Integrationsklassen werden nicht eingesetzt.
+<sup>3</sup> Der Kanton beteiligt sich mit einer Normpauschale pro Schülerin und Schüler an den Kosten der Beschulung.
 
 #### § 2
 
-**…**
+**Solidarische Finanzierung der Integrationsklassen**
+
+<sup>1</sup> Die Finanzierung von Integrationsklassen auf der Primarstufe sowie auf der Sekundarstufe I für Kinder und Jugendliche mit Asylstatus erfolgt solidarisch zwischen den Einwohnergemeinden.
+
+<sup>2</sup> Für eine Integrationsklasse der Primarstufe werden einer Standortgemeinde 28'000 Franken pro Monat vergütet. Für eine Integrationsklasse der Sekundarstufe I werden einer Standortgemeinde 30'000 Franken pro Monat vergütet. Ab dem Inkrafttreten dieses Beschlusses werden die Pauschalen analog zur Teuerungszulage an das Staatspersonal angepasst.
+
+<sup>3</sup> Der Kanton beteiligt sich mit einer Normpauschale pro Schülerin und Schüler an den Kosten der Integrationsklassen. Liegt die Schülerinnen- und Schülerzahl unter 14, gleicht der Kanton die Differenz zum Gesamtbetrag, der dem Produkt aus 14 und der Normpauschale entspricht, aus. Der durch die Normpauschale nicht gedeckte Teil der Kosten wird unter den Einwohnergemeinden gemäss ständiger Wohnbevölkerung anteilsmässig aufgeteilt.
+
+<sup>4</sup> Die Schulstandorte und die Anzahl Klassen werden insbesondere unter Berücksichtigung der infrastrukturellen Rahmenbedingungen und auf Antrag der jeweiligen Einwohnergemeinden durch die Direktion für Bildung und Kultur festgelegt.
 
 #### § 3
 
-**Solidarische Kostenverteilung gemeindliche Schulen**
+**Erfassung der Schülerinnen- und Schülerzahlen**
 
-<sup>1</sup> Für die solidarische Kostenverteilung unter den Gemeinden werden pro Schülerin und Schüler pauschal 4000 Franken vierteljährlich proportional zur Wohnbevölkerung unter den Gemeinden aufgeteilt.
+<sup>1</sup> Es ist systematisch zu erfassen, welche Kinder und Jugendlichen eine Klasse des Regelschulbereichs und welche eine Integrationsklasse besuchen.
 
-<sup>2</sup> Beginnend mit dem 30. Juni 2022 und endend mit dem 31. Dezember 2023 melden die Gemeinden per Quartal mittels der vorgegebenen Liste die Anzahl Schülerinnen und Schüler an den Kanton.
-
-<sup>3</sup> Der Gesamtbetrag ergibt sich aus der Anzahl der gemeldeten Schülerinnen und Schüler, multipliziert mit 4000 Franken.
-
-<sup>4</sup> Der Gesamtbetrag wird proportional gemäss ständiger Wohnbevölkerung der Gemeinden aufgeteilt, und die entsprechenden Anteile werden den Gemeinden vom Kanton in Rechnung gestellt. Anschliessend vergütet der Kanton jeder Gemeinde pro Schülerin und Schüler aus der Ukraine 4000 Franken. Die Rechnungstellung und Auszahlung werden durch den Kanton vorgenommen und verrechnet, sodass die Finanzflüsse netto erfolgen.
-
-<sup>5</sup> Die Kostenabrechnung erfolgt innerhalb von zwei Wochen nach dem Stichtag.
+<sup>2</sup> Die Kosten für Kinder und Jugendliche, die in einer Integrationsklasse beschult werden, werden ausschliesslich über die entsprechenden Pauschalen der Integrationsklassen abgerechnet.
 
 #### § 4
 
-**Solidarische Kostenverteilung Sonderschulung**
+**Solidarische Finanzierung der Sonderschulung**
 
-<sup>1</sup> Der Gemeindeanteil an den Kosten der Sonderschulung von Schülerinnen und Schülern aus der Ukraine gemäss § 34<sup>bis</sup>, § 35 und § 36 des Schulgesetzes[^4-1] wird solidarisch gemäss ständiger Wohnbevölkerung von den Gemeinden getragen.
+<sup>1</sup> Die Finanzierung der Kosten für die Sonderschulung von Schülerinnen und Schülern mit Asylstatus erfolgt solidarisch gemäss ständiger Wohnbevölkerung zwischen den Gemeinden.
 
-[^4-1]: BGS [412.11](https://bgs.zg.ch/data/412.11/de)
-
-GS 2022/062
+GS 2026/001
