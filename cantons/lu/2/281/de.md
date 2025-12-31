@@ -4,13 +4,12 @@ number: "281"
 title: Verordnung betreffend die Aufsicht über die Anwältinnen und Anwälte
 short: AAV
 language: de
-version: 2013-06-01
-valid_until: 2025-12-31
-version_adopted: 2013-03-26
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2002-05-16
 in_force: 2002-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/281"
-pdf: "https://srl.lu.ch/api/de/versions/2448/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4601/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2448/pdf_file"
 
 (AAV)
 
-vom 16.05.2002 (Stand 01.06.2013)
+vom 16.05.2002 (Stand 01.01.2026)
 
 Das Obergericht des Kantons Luzern,
 
@@ -95,7 +94,7 @@ beschliesst:
 
 **Kanzleiorganisation**
 
-<sup>1</sup> Die Kanzleiarbeiten, namentlich auch die administrative Führung des Anwaltsregisters, der öffentlichen Liste und des Patentverzeichnisses, obliegen der Kantonsgerichtskanzlei, das Rechnungswesen der kantonalen Gerichtskasse.
+<sup>1</sup> Die Kanzleiarbeiten, namentlich auch die administrative Führung des Anwaltsregisters, der öffentlichen Liste und des Patentverzeichnisses, obliegen der Kantonsgerichtskanzlei, das Rechnungswesen dem Finanz- und Rechnungswesen Gerichte (FRG).
 
 ## 3 Verfahren
 
