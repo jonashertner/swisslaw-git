@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über kosmetische Mittel (VKos)
 short: VKos
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/165"
 language: de
-version: 2022-11-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2017-165-20221101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-165-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/de"
 
 (VKos)
 
-vom 16. Dezember 2016 (Stand am 1. November 2022)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 47 Absatz 5, 54 Absatz 7, 55 Absatz 2, 57 Absatz 2, 58
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -149,10 +149,10 @@ Die Produktinformationsdatei nach Artikel 57 Absatz 1 LGV enthält folgende Anga
 
 <sup>1</sup>
 
-Abweichend von Artikel 54 Absatz 1 LGV lautet Eintrag 358 aus Anhang II der Verordnung (EG) Nr. 1223/2009[^6-1] wie folgt: «Furocumarine, darunter Trioxylsalenum (INN) sowie 8- und 5-Methoxypsoralen, ausgenommen normale Gehalte in natürlichen ätherischen Ölen. Bei kosmetischen Mitteln, ausgenommen Parfums, Toilettenwässer und Kölnischwasser, müssen die Gehalte an Furocumarinen im Endprodukt weniger als 1 mg/kg betragen und natürliche ätherische Öle sind entsprechend zu dosieren, wenn das kosmetische Mittel bei normalem und vernünftigerweise vorhersehbarem Gebrauch:
+Abweichend von Eintrag 358 Spalte b zweiter Satz von Anhang II der Verordnung (EG) Nr. 1223/2009[^6-1] muss bei kosmetischen Mitteln, ausgenommen Parfums, Toilettenwässer und Kölnischwasser, die Summe der Gehalte an den Furocumarinen *Byakangelicol, Epoxy-Bergamottin, Isopimpinellin, 5-Methoxypsoralen, 8-Methoxypsoralen, Oxypeucedanin, Oxypeucedanin hydrate* und *Psoralen* im Endprodukt weniger als 1 mg/kg betragen und natürliche ätherische Öle sind entsprechend zu dosieren, wenn das kosmetische Mittel bei normalem und vernünftigerweise vorhersehbarem Gebrauch:
 
 - a. auf der Haut verbleibt; und
-- b. direkt dem Sonnenlicht ausgesetzt sein kann.»[^6-2]
+- b. direkt dem Sonnenlicht ausgesetzt sein kann.[^6-2]
 
 <sup>2</sup> Die Verwendung krebserzeugender, erbgutverändernder oder fortpflanzungsgefährdender Stoffe (CMR-Stoffe), die nach der in Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015[^6-3] (ChemV) genannten Fassung der Verordnung (EG) Nr. 1272/2008 als «erbgutverändernd», «krebserregend» oder «fortpflanzungsgefährdend» (CMR-Stoffe) der Kategorien 1A, 1B oder 2 eingestuft werden, ist in kosmetischen Mitteln verboten. Von diesem Verbot ausgenommen sind CMR-Stoffe, die in Artikel 54 Absätze 2–5 LGV genannt sind.
 
@@ -165,18 +165,19 @@ Kleine Mengen eines verbotenen Stoffes werden toleriert, wenn sie:
 - c. die Gesundheit nicht gefährden.
 
 [^6-1]: Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel, ABl. L 342 vom 22.12.2009, S. 59; zuletzt geändert durch die Verordnung (EU) 2017/1410, ABl. L 202 vom 3.8.2017, S. 1.
-[^6-2]: Fassung gemäss Ziff. I der V des EDI vom 3. Jan. 2019, in Kraft seit 1. Febr. 2019 ([AS 2019 333](https://fedlex.data.admin.ch/eli/oc/2019/51)).
-[^6-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^6-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 824](https://fedlex.data.admin.ch/eli/oc/2025/824)).
+[^6-3]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 7
 
-**Begrenzt zulässige Stoffe**
+**Begrenzt zulässige Stoffe**[^7-1]
 
-Abweichend von Artikel 54 Absatz 2 LGV lautet Spalte h von Eintrag 12 aus Anhang III der Verordnung (EG) Nr. 1223/2009[^7-1] für Zahnaufheller und -bleichmittel wie folgt: «Darf nur an Zahnärztinnen und Zahnärzte im Sinne des Medizinalberufegesetzes vom 23. Juni 2006[^7-2] oder an diplomierte Dentalhygienikerinnen und Dentalhygieniker HF gemäss der Verordnung des WBF vom 11. März 2005[^7-3] über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschule abgegeben werden. In jedem Anwendungszyklus muss die erste Anwendung stets einer Zahnärztin, einem Zahnarzt, einer Dentalhygienikerin oder einem Dentalhygieniker vorbehalten sein oder, sofern ein gleichwertiges Sicherheitsniveau gewährleistet ist, unter deren direkter Aufsicht erfolgen,. Danach wird das Mittel der Konsumentin oder dem Konsumenten für den verbleibenden Anwendungszyklus abgegeben. Nicht bei Personen unter 18 Jahren anwenden.»
+Abweichend von Eintrag 12 aus Anhang III der Verordnung (EG) Nr. 1223/2009[^7-2] dürfen Zahnaufheller und -bleichmittel nur an Zahnärztinnen und Zahnärzte im Sinne des Medizinalberufegesetzes vom 23. Juni 2006[^7-3] oder an diplomierte Dentalhygienikerinnen und Dentalhygieniker HF gemäss der Verordnung des WBF vom 11. September 2017[^7-4] über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschule abgegeben werden. In jedem Anwendungszyklus muss die erste Anwendung stets einer Zahnärztin, einem Zahnarzt, einer Dentalhygienikerin oder einem Dentalhygieniker vorbehalten sein oder, sofern ein gleichwertiges Sicherheitsniveau gewährleistet ist, unter deren direkter Aufsicht erfolgen. Danach darf das Mittel der Konsumentin oder dem Konsumenten für den verbleibenden Anwendungszyklus abgegeben werden. Es darf nicht bei Personen unter 18 Jahren angewendet werden.
 
-[^7-1]: Siehe Fussnote zu Art. 6 Abs. 1.
-[^7-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^7-3]: [SR 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)
+[^7-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 824](https://fedlex.data.admin.ch/eli/oc/2025/824)).
+[^7-2]: Siehe Fussnote zu Art. 6 Abs. 1.
+[^7-3]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
+[^7-4]: [SR 412.101.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6595)
 
 ## 5. Abschnitt: Kennzeichnung, Werbung und Täuschungsverbot
 
@@ -246,7 +247,7 @@ Unbeschadet des Schutzes des Geschäftsgeheimnisses und der Rechte am geistigen 
 - c. Bezeichnung, Code-Nummer der Zusammensetzung und Angaben zur Identität des Lieferanten bei Riech- und Aromastoffen;
 - d. vorhandene Daten über unerwünschte und über schwerwiegende unerwünschte Wirkungen, die durch das kosmetische Mittel bei seiner Anwendung hervorgerufen werden.
 
-[^11-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^11-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## 6. Abschnitt: Herstellung und Hygiene
 
@@ -371,7 +372,7 @@ Anhang 2
 
 ## Auf Verpackungen oder Behältern eines kosmetischen Mittels zu verwendendes Piktogramm für den Verweis auf die beiliegenden oder am Produkt befestigten Informationen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/de/xml/image/image1.png)
 
 Anhang 3
 
@@ -379,7 +380,7 @@ Anhang 3
 
 ## Auf Verpackungen oder Behältern eines kosmetischen Mittels zu verwendendes Piktogramm für die Angabe der Haltbarkeit nach dem Öffnen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/de/xml/image/image2.png)
 
 Anhang 4
 
@@ -387,7 +388,7 @@ Anhang 4
 
 ## Auf Verpackungen oder Behältern eines kosmetischen Mittels zu verwendendes Piktogramm für die Angabe des Mindesthaltbarkeitsdatums
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/de/xml/image/image3.png)
 
 Anhang 5
 
@@ -476,7 +477,7 @@ Weitere sachdienliche Informationen, z. B. vorhandene Untersuchungen an menschli
 
 Aussagen zur Sicherheit des kosmetischen Mittels hinsichtlich Artikel 15 des Lebensmittelgesetzes vom 20. Juni 2014[^annex5-lvlu1-partB-lvl1-1].
 
-[^annex5-lvlu1-partB-lvl1-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex5-lvlu1-partB-lvl1-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ### 2. Warnhinweise in der Kennzeichnung und Gebrauchsanweisungen
 
@@ -570,7 +571,7 @@ Anhang 7
 
 [^annex7-lvlu1-1]
 
-[^annex7-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex7-lvlu1-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 <table>
 <tr><td>Nummer</td><td>Titel</td></tr>

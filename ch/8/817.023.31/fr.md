@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 16 décembre 2016 sur les cosmétiques (OCos)
 short: OCos
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/165"
 language: fr
-version: 2022-11-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-165-20221101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-165-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/fr"
 
 (OCos)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> novembre 2022)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 47, al. 5, 54, al. 7, 55, al. 2, 57, al. 2, 58, 60, 83, al. 4, et 95
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Section 1 Dispositions générales
 
@@ -147,10 +147,12 @@ Le dossier d’information sur le produit visé à l’art. 57, al. 1, ODAlOUs c
 
 **Substances interdites**
 
-<sup>1</sup> En dérogation à l’art. 54, al. 1, ODAlOUs, l’entrée 358 de l’annexe II du règlement (CE) n<sup>o</sup> 1223/2009[^6-1] est libellée comme suit: «Furocoumarines, dont trioxysalène (DCI) et méthoxy-5 et -8 psoralène, sauf teneurs normales dans les essences naturelles utilisées. Dans les cosmétiques, à l’exception des parfums, des eaux de toilette et de l’eau de Cologne, les teneurs en furocoumarines dans le produit final doivent être inférieures à 1 mg/kg et les essences naturelles doivent être dosées en conséquence lorsque le produit cosmétique, utilisé dans des conditions d’utilisation normales ou raisonnablement prévisibles,
+<sup>1</sup>
+
+En dérogation à l’entrée 358, colonne b, 2<sup>e</sup> phrase, de l’annexe II du règlement (CE) n<sup>o</sup> 1223/2009[^6-1], dans les cosmétiques, à l’exception des parfums, des eaux de toilette et de l’eau de Cologne, la somme des teneurs en furocoumarines *Byakangelicol, Epoxy-Bergamottin, Isopimpinellin, 5-Methoxypsoralen, 8-Methoxypsoralen, Oxypeucedanin, Oxypeucedanin hydrate* et *Psoralen* dans le produit final doivent être inférieures à 1 mg/kg et les essences naturelles doivent être dosées en conséquence lorsque le produit cosmétique, utilisé dans des conditions d’utilisation normales ou raisonnablement prévisibles:
 
 - a. reste sur la peau, et
-- b. peut être directement exposé à la lumière du soleil.»[^6-2]
+- b. peut être directement exposé à la lumière du soleil.[^6-2]
 
 <sup>2</sup> Les substances cancérogènes, mutagènes ou toxiques pour la reproduction (substances CMR) qui sont classées dans les catégories de danger 1A, 1B ou 2 dans la version du règlement (CE) n<sup>o</sup> 1272/2008 figurant à l’annexe 2, ch. 1, de l’ordonnance du 5 juin 2015 sur les produits chimiques (OChim)[^6-3] sont interdites dans les cosmétiques. Font exception à cette interdiction les substances CMR spécifiées à l’art. 54, al. 2 à 5, ODAlOUs.
 
@@ -162,19 +164,20 @@ Une petite quantité d’une substance interdite est tolérée si:
 - b. elle est techniquement inévitable en dépit des bonnes pratiques de fabri-cation, et si
 - c. elle ne met pas en danger la santé.
 
-[^6-1]: Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil, du 30 novembre 2009 sur les cosmétiques, JO L 342 du 22.12.2009, p. 59; modifié en dernier lieu par le règlement (UE) 2017/1410, JO L 202 du 03.08.2017, p. 1.
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 janv. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 333](https://fedlex.data.admin.ch/eli/oc/2019/51)).
-[^6-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^6-1]: Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatifs aux produits cosmétiques, JO L 342 du 22.12.2009, p. 59; modifié en dernier lieu par le règlement (UE) 2017/1410, JO L 202 du 3.8.2017, p. 1.
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 824](https://fedlex.data.admin.ch/eli/oc/2025/824)).
+[^6-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 7
 
-**Substances soumises à restriction**
+**Substances soumises à restriction**[^7-1]
 
-En dérogation à l’art. 54, al. 2, ODAlOUs, la colonne h de l’entrée 12 de l’annexe III du règlement (CE) n<sup>o</sup> 1223/2009[^7-1] est libellée comme suit pour les produits de blanchiment ou d’éclaircissement des dents: «Doit être vendu uniquement à des dentistes tels que définis dans la loi du 23 juin 2006 sur les professions médicales[^7-2] ou à des hygiénistes dentaires diplômés ES, tels que définis dans l’ordonnance du DEFR du 11 mars 2005 concernant les conditions minimales de reconnaissance des filières de formation et des études postdiplômes des écoles supérieures[^7-3]. Pour chaque cycle d’utilisation, la première utilisation est effectuée par des dentistes ou des hygiénistes dentaires ou sous leur supervision directe, si un niveau de sécurité équivalent est assuré. Ensuite, le produit est remis au consommateur pour terminer le cycle d’utilisation. Ne pas utiliser chez les enfants/adolescents âgés de moins de dix-huit ans».
+En dérogation à l’entrée 12 de l’annexe III du règlement (CE) n<sup>o</sup> 1223/2009[^7-2], les produits de blanchiment ou d’éclaircissement des dents doivent être vendus exclusivement aux médecins-dentistes visés dans la loi du 23 juin 2006 sur les professions médicales[^7-3] ou aux hygiénistes dentaires diplômés ES visés dans l’ordonnance du DEFR du 11 septembre 2017 concernant les conditions minimales de reconnaissance des filières de formation et des études postdiplômes des écoles supérieures[^7-4]. Pour chaque cycle d’utilisation, la première utilisation est effectuée par des dentistes ou des hygiénistes dentaires ou sous leur supervision directe, si un niveau de sécurité équivalent est assuré. Le produit peut ensuite être remis au consommateur pour terminer le cycle d’utilisation. Il ne doit pas être utilisé chez les personnes âgés de moins de 18 ans.
 
-[^7-1]: Cf. note de bas de page relative à l’art. 6, al. 1.
-[^7-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^7-3]: [RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 824](https://fedlex.data.admin.ch/eli/oc/2025/824)).
+[^7-2]: Cf. note de bas de page relative à l’art. 6, al. 1.
+[^7-3]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
+[^7-4]: [RS 412.101.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6595)
 
 ## Section 5 Étiquetage, publicité et interdiction de la tromperie
 
@@ -244,7 +247,7 @@ Sans préjudice de la protection du secret commercial et des droits de propriét
 - c. nom, numéro de code de la composition et identité du fournisseur dans le cas de compositions parfumantes et aromatiques;
 - d. données existantes concernant les effets indésirables et indésirables graves provoqués par le produit cosmétique suite à son utilisation.
 
-[^11-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^11-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## Section 6 Fabrication et hygiène
 
@@ -369,7 +372,7 @@ Annexe 2
 
 ## Pictogramme à utiliser sur l’emballage/le récipient d’un cosmétique pour indiquer un renvoi à des informations jointes ou attachées au produit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/fr/xml/image/image1.png)
 
 Annexe 3
 
@@ -377,7 +380,7 @@ Annexe 3
 
 ## Pictogramme à utiliser sur l’emballage/le récipient d’un cosmétique pour indiquer la durée de conservation après ouverture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/fr/xml/image/image2.png)
 
 Annexe 4
 
@@ -385,7 +388,7 @@ Annexe 4
 
 ## Pictogramme à utiliser sur l’emballage/le récipient d’un cosmétique pour indiquer la date de durabilité minimale
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/fr/xml/image/image3.png)
 
 Annexe 5
 
@@ -474,7 +477,7 @@ Autres informations pertinentes, par exemple études existantes chez des volonta
 
 Indication relative à la sécurité du produit cosmétique au regard de l’art. 15 de la loi du 20 juin 2014 sur les denrées alimentaires[^annex5-lvlu1-partB-lvl1-1].
 
-[^annex5-lvlu1-partB-lvl1-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex5-lvlu1-partB-lvl1-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ### 2. Avertissements et instructions d’utilisation figurant sur l’étiquetage
 
@@ -568,7 +571,7 @@ Annexe 7
 
 [^annex7-lvlu1-1]
 
-[^annex7-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex7-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/).
 
 <table>
 <tr><td>Numéro</td><td>Titre</td></tr>

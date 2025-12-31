@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sui cosmetici (OCos)
 short: OCos
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/165"
 language: it
-version: 2022-11-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2017-165-20221101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-165-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/it"
 
 (OCos)
 
-del 16 dicembre 2016 (Stato 1° novembre 2022)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 47 capoverso 5, 54 capoverso 7, 55 capoverso 2, 57 capoverso 
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Sezione 1: Disposizioni generali
 
@@ -149,10 +149,10 @@ La documentazione informativa sul prodotto di cui all’articolo 57 capoverso 1 
 
 <sup>1</sup>
 
-In deroga all’articolo 54 capoverso 1 ODerr, per la voce n. 358 dell’allegato II del regolamento (CE) n. 1223/2009[^6-1] si applica quanto segue: «Furocumarine, tra cui Trioxysalenum (INN), metossi-8-psoralene, metossi-5-psoralene, salvo tenori normali negli oli essenziali naturali impiegati. Nei cosmetici, esclusi profumi, acque da toeletta e acqua di Colonia, nel prodotto finale le furocumarine devono essere presenti in quantità inferiori a 1 mg/kg e gli oli essenziali naturali devono essere dosati di conseguenza se in caso di uso normale e ragionevolmente prevedibile il cosmetico:
+In deroga alla voce 358 colonna b secondo periodo dell’allegato II del regolamento (CE) n. 1223/2009[^6-1], nei cosmetici, esclusi profumi, acque da toeletta e acqua di Colonia, nel prodotto finale la somma dei tenori delle furocumarine *Byakangelicol, Epoxy-Bergamottin, Isopimpinellin, 5-Methoxypsoralen, 8-Methoxypsoralen, Oxypeucedanin, Oxypeucedanin hydrate* e *Psoralen* devono essere presenti in quantità inferiori a 1 mg/kg e gli oli essenziali naturali devono essere dosati di conseguenza se in caso di uso normale e ragionevolmente prevedibile il cosmetico:
 
 - a. non è da risciacquare; e
-- b. può essere esposto direttamente al sole. »[^6-2]
+- b. può essere esposto direttamente al sole.[^6-2]
 
 <sup>2</sup> Nei cosmetici è vietato l’utilizzo di sostanze cancerogene, mutagene o tossiche per il ciclo riproduttivo (sostanze CMR) classificate nelle categorie di pericolo 1A, 1B o 2 conformemente al regolamento (CE) n. 1272/2008 secondo la versione dell’allegato 2 numero 1 dell’ordinanza del 5 giugno 2015[^6-3] sui prodotti chimici (OPChim). Sono escluse dal divieto le sostanze CMR elencate nell’articolo 54 capoversi 2–5 ODerr.
 
@@ -165,18 +165,19 @@ La presenza di piccole quantità di una sostanza vietata è tollerata se:
 - c. non mette in pericolo la salute.
 
 [^6-1]: Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio, del 30 novembre 2009 sui prodotti cosmetici, GU L 342 del 22.12.2009, pag. 59; modificato da ultimo dal regolamento (UE) 2017/1410, GU L 202 del 3.8.2017, pag. 1.
-[^6-2]: Nuovo testo giusta il n. I dell’O del DFI del 3 gen. 2019, in vigore dal 1° feb. 2019 ([RU 2019 333](https://fedlex.data.admin.ch/eli/oc/2019/51)).
-[^6-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^6-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 824](https://fedlex.data.admin.ch/eli/oc/2025/824)).
+[^6-3]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 7
 
-**Sostanze soggette a restrizioni**
+**Sostanze soggette a restrizioni**[^7-1]
 
-In deroga all’articolo 54 capoverso 2 ODerr, per la colonna h della voce 12 dell’allegato III del regolamento (CE) n. 1223/2009[^7-1] si applica quanto segue per i prodotti per lo sbiancamento o lo schiarimento dei denti: «Vendita destinata esclusivamente ai dentisti, come definiti ai sensi della legge del 23 giugno 2006[^7-2] sulle professioni mediche, o agli igienisti dentali dipl. SSS, come definiti ai sensi dell’ordinanza del DEFR dell’11 marzo 2005[^7-3] concernente le esigenze minime per il riconoscimento dei cicli di formazione e degli studi postdiploma delle scuole specializzate superiori. Per ciascun ciclo di utilizzo, la prima utilizzazione è riservata ai dentisti o agli igienisti dentali o deve avvenire sotto la loro diretta supervisione se si garantisce un livello di sicurezza equivalente. In seguito il prodotto deve essere fornito al consumatore per completare il ciclo di utilizzo. Da non utilizzare su persone di età inferiore a 18 anni».
+In deroga alla voce 12 dell’allegato III del regolamento (CE) n. 1223/2009[^7-2], la vendita di prodotti per lo sbiancamento o lo schiarimento dei denti è consentita esclusivamente ai dentisti ai sensi della legge del 23 giugno 2006[^7-3] sulle professioni mediche o agli igienisti dentali diplomati SSS ai sensi dell’ordinanza del DEFR dell’11 settembre 2017[^7-4] concernente le esigenze minime per il riconoscimento dei cicli di formazione e degli studi postdiploma delle scuole specializzate superiori. Per ciascun ciclo di utilizzo, la prima utilizzazione è riservata ai dentisti o agli igienisti dentali o deve avvenire sotto la loro diretta supervisione se si garantisce un livello di sicurezza equivalente. In seguito, il prodotto deve essere fornito al consumatore per completare il ciclo di utilizzo. Il prodotto non deve essere utilizzato su persone di età inferiore a 18 anni.
 
-[^7-1]: Cfr. nota a piè di pagina relativa all’art. 6 cpv. 1.
-[^7-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^7-3]: [RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 824](https://fedlex.data.admin.ch/eli/oc/2025/824)).
+[^7-2]: Cfr. nota a piè di pagina relativa all’art. 6 cpv. 1.
+[^7-3]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
+[^7-4]: [RS 412.101.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6595)
 
 ## Sezione 5: Caratterizzazione, pubblicità e divieto di inganno
 
@@ -200,7 +201,7 @@ Sugli imballaggi dei cosmetici deve figurare, al momento dell’immissione sul m
 <sup>3</sup> Per i saponi e le perle da bagno e altri prodotti piccoli, l’elenco degli ingredienti può figurare su un cartellino collocato vicino al recipiente in cui è contenuto il cosmetico offerto in vendita.
 
 [^8-1]: Correzione del 30 mag. 2017 ([RU 2017 3263](https://fedlex.data.admin.ch/eli/oc/2017/335)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del DFI del 14 ott. 2022, in vigore dal 1° nov. 2022 ([RU 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del DFI del 14 ott. 2022, in vigore dal 1° nov. 2022 ([RU 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
 [^8-3]: Decisione di esecuzione (UE) 2022/677 della Commissione, del 31 marzo 2022, recante modalità di applicazione del regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio per quanto riguarda il glossario delle denominazioni comuni degli ingredienti da utilizzare nell’etichettatura dei prodotti cosmetici; versione della GU L 127 del 29.4.2022, pag. 1.
 
 #### Art. 9
@@ -246,7 +247,7 @@ Fatta salva la tutela della segretezza commerciale e dei diritti di proprietà i
 - c. nome, numero di codice del composto e identità del fornitore nel caso di composti odoranti e aromatizzanti;
 - d. dati esistenti in merito agli effetti indesiderabili e agli effetti indesiderabili gravi derivanti dall’uso del cosmetico.
 
-[^11-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^11-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## Sezione 6: Fabbricazione e igiene
 
@@ -283,7 +284,7 @@ Le informazioni devono poter essere presentate alle autorità cantonali d’esec
 
 L’ordinanza del DFI del 23 novembre 2005[^15-1] sui cosmetici è abrogata.
 
-[^15-1]: [[RU 2005 6423](https://fedlex.data.admin.ch/eli/oc/2005/810), [2010 4669](https://fedlex.data.admin.ch/eli/oc/2010/677), [2012 4747](https://fedlex.data.admin.ch/eli/oc/2012/574), [2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)n. II 4 [3463](https://fedlex.data.admin.ch/eli/oc/2015/604)]
+[^15-1]: [[RU 2005 6423](https://fedlex.data.admin.ch/eli/oc/2005/810); [2010 4669](https://fedlex.data.admin.ch/eli/oc/2010/677); [2012 4747](https://fedlex.data.admin.ch/eli/oc/2012/574); [2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)II n. 4, [3463](https://fedlex.data.admin.ch/eli/oc/2015/604)]
 
 #### Art. 16
 
@@ -310,7 +311,7 @@ In deroga ai capoversi 1 e 2, le sostanze seguenti possono essere immesse sul me
 
 <sup>2</sup> Dopo la scadenza del periodo transitorio, i prodotti cosmetici caratterizzati secondo il diritto anteriore possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^16a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
+[^16a-1]: Introdotto dalal cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
 
 #### Art. 16b
 
@@ -320,7 +321,7 @@ In deroga ai capoversi 1 e 2, le sostanze seguenti possono essere immesse sul me
 
 <sup>2</sup> Dopo la scadenza del periodo transitorio, i prodotti cosmetici caratterizzati secondo il diritto anteriore possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^16b-1]: Introdotto dal n. I dell’O del DFI del 14 ott. 2022, in vigore dal 1° nov. 2022 ([RU 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
+[^16b-1]: Introdotto dalla cifra I dell’O del DFI del 14 ott. 2022, in vigore dal 1° nov. 2022 ([RU 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
 
 #### Art. 17
 
@@ -371,7 +372,7 @@ Allegato 2
 
 ## Pittogramma da utilizzare sull’imballaggio/sul recipiente di un cosmetico per indicare un rimando alle informazioni allegate o attaccate al prodotto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/it/xml/image/image1.png)
 
 Allegato 3
 
@@ -379,7 +380,7 @@ Allegato 3
 
 ## Pittogramma da utilizzare sull’imballaggio/sul recipiente di un cosmetico per indicare la durata minima di conservazione dopo l’apertura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/it/xml/image/image2.png)
 
 Allegato 4
 
@@ -387,7 +388,7 @@ Allegato 4
 
 ## Pittogramma da utilizzare sull’imballaggio/sul recipiente di un cosmetico per indicare la data di durata minima di conservazione
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20260101/it/xml/image/image3.png)
 
 Allegato 5
 
@@ -476,7 +477,7 @@ Altre informazioni pertinenti, per esempio studi disponibili, effettuati su volo
 
 Dichiarazione sulla sicurezza del cosmetico ai sensi dell’articolo 15 della legge del 20 giugno 2014[^annex5-lvlu1-partB-lvl1-1] sulle derrate alimentari.
 
-[^annex5-lvlu1-partB-lvl1-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex5-lvlu1-partB-lvl1-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ### 2. Avvertenze e istruzioni per l’uso riportate sulla caratterizzazione
 
@@ -570,7 +571,7 @@ Allegato 7
 
 [^annex7-lvlu1-1]
 
-[^annex7-lvlu1-1]: Le norme menzionate possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex7-lvlu1-1]: Le norme menzionate possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 <table>
 <tr><td>Numero</td><td>Titolo</td></tr>
