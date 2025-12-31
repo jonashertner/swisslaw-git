@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Constitution du canton de Glaris, du 1<sup>er</sup> mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: fr
-version: 2025-05-04
+version: 2026-01-01
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20250504-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/fr"
 
 Traduction[^t-1]
 
-du 1<sup>er</sup> mai 1988 (État le 4 mai 2025)[^t-2]
+du 1<sup>er</sup> mai 1988 (État le 1 janvier 2026)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
@@ -296,14 +296,16 @@ Le canton et les communes peuvent compléter les prestations de la Confédérati
 
 #### Art. 29
 
-**Aide sociale et tutelles**[^29-1]
+**Aide sociale, protection de l’enfant et de l’adulte[^29-2]**[^29-1]
 
-<sup>1</sup> L’assistance sociale et la tutelle sont l’affaire du canton. Les communes soutiennent le canton dans l’accomplissement de cette tâche dans la mesure nécessaire pour accomplir ces tâches de façon efficace et économe.[^29-2]
+<sup>1</sup> L’assistance sociale et la protection de l’enfant et de l’adulte[^29-3] sont l’affaire du canton. Les communes soutiennent le canton dans l’accomplissement de cette tâche dans la mesure nécessaire pour accomplir ces tâches de façon efficace et économe.[^29-4]
 
 <sup>2</sup> La loi règle la surveillance exercée par le canton sur les institutions d’aide sociale, notamment sur les institutions médicalisées.
 
 [^29-1]: Accepté par la *Landsgemeinde* du 7 mai 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996. Garantie de l’Ass. féd. du 16 sept. 1996 ([FF 1996 IV 882](https://fedlex.data.admin.ch/eli/fga/1996/4__882_)art. 1 ch. 3, I 1249).
-[^29-2]: Accepté par la *Landsgemeinde* du 7 mai 2006, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 3 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^29-2]: Expression acceptée par la *Landsgemeinde* du 6 mai 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013.
+[^29-3]: Expression acceptée par la *Landsgemeinde* du 6 mai 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013.
+[^29-4]: Accepté par la *Landsgemeinde* du 7 mai 2006, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 3 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 30
 
@@ -1029,10 +1031,11 @@ Il appartient au Grand Conseil:
 - a.[^90-1] d’établir le budget, d’examiner et d’approuver les comptes annuels ainsi que de prendre acte du plan intégral des tâches et des finances;
 - b.[^90-2] de statuer sur toutes les dépenses uniques, non déterminées et relatives au même objet, qui ne dépassent pas 1 million de francs, ainsi que sur toutes les dépenses périodiques non déterminées et relatives au même objet, qui ne dépassent pas 200 000 francs par année;
 - c. de décider l’acquisition de gré à gré d’immeubles à titre de placements ou par mesure de précaution lorsque le prix est supérieur à 600 000 francs et ne dépasse pas 5 000 000 de francs;
-- d. de statuer sur la souscription ou le renouvellement d’emprunts à long terme.
+- d.[^90-3] ...
 
 [^90-1]: Accepté par la *Landsgemeinde* du 1<sup>er</sup> mai 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^90-2]: Acceptée par la *Landsgemeinde* du 5 mai 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 3 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^90-3]: Abrogée par la *Landsgemeinde* du 3 mai 2009. Erratum du 21 oct. 2025.
 
 #### Art. 91
 
@@ -1376,11 +1379,12 @@ Il incombe au Conseil d’État:
 
 <sup>1</sup> Le canton encourage la collaboration entre les communes.
 
-<sup>2</sup> Les communes et les syndicats de communes collaborent avec d’autres communes ou syndicats de communes dans l’accomplissement de toutes les tâches qui sont d’intérêt commun.
+<sup>2</sup> Les communes et les syndicats de communes collaborent, lors de l’accomplissement de toutes les tâches qui sont d’intérêt commun, avec d’autres communes ainsi qu’avec le canton et la Confédération ou des syndicats de communes, lorsque ces derniers accomplissent des tâches publiques sur leur territoire.[^117-1]
 
-<sup>3</sup> …[^117-1]
+<sup>3</sup> …[^117-2]
 
-[^117-1]: Abrogé par la *Landsgemeinde* du 7 mai 2006, avec effet au 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 3 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^117-1]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^117-2]: Abrogé par la *Landsgemeinde* du 7 mai 2006, avec effet au 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 3 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 118
 
@@ -1396,12 +1400,12 @@ Il incombe au Conseil d’État:
 
 **Autonomie communale**
 
-<sup>1</sup> Les communes s’occupent de toutes les affaires locales qui ne relèvent exclusivement ni de la Confédération, ni du canton.[^119-1]
+<sup>1</sup> Les communes s’occupent de toutes les affaires locales et tâches publiques qui ne relèvent exclusivement ni de la Confédération, ni du canton.[^119-1]
 
-<sup>2</sup> Pour autant que la constitution et la loi n’en disposent pas autrement, elles déterminent elles-mêmes leur organisation en édictant un règlement communal, élisent leurs autorités, nomment leurs employés ainsi que leurs enseignants et exécutent leurs tâches comme elles l’estiment opportun.[^119-2]
+<sup>2</sup> Pour autant que la constitution et la loi n’en disposent pas autrement, elles déterminent elles-mêmes leur organisation en édictant un règlement communal, élisent leurs autorités et employés et remplissent leurs tâches sur la base d’une appréciation consciencieuse.[^119-2]
 
-[^119-1]: Accepté par la *Landsgemeinde* du 4 mai 2014, en vigueur depuis le 1<sup>er</sup> sept. 2014. Garantie de l’Ass. féd. du 3 mars 2016 ([FF 2016 2137](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6959](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^119-2]: Accepté par la *Landsgemeinde* du 5 mai 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 3 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^119-1]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^119-2]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 120
 
@@ -1484,20 +1488,30 @@ Il incombe au Conseil d’État:
 
 <sup>1</sup>
 
-Sont des organes nécessaires de la commune:
+Dans les communes ne possédant pas de parlement communal, les organes nécessaires de la commune sont:[^128-1]
 
 - a. le corps électoral;
-- b.[^128-1] l’organe directeur;
-- c.[^128-2] la commission de gestion de la commune ou un organe de vérification des comptes d’une paroisse.
+- b.[^128-2] l’organe directeur;
+- c.[^128-3] la commission de gestion de la commune ou l’organe de vérification des comptes de la paroisse.
 
-<sup>2</sup> Dans la commune municipale, l’organe directeur est le conseil communal; dans la paroisse, c’est le conseil de paroisse.[^128-3]
+<sup>1a</sup>
 
-<sup>3</sup> Les communes peuvent instaurer un parlement communal. Il compte au moins 20 membres et se constitue lui-même dans le cadre de la loi et du règlement communal.[^128-4]
+Dans les communes possédant un parlement communal, les organes nécessaires de la commune sont:
 
-[^128-1]: Acceptée par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie par l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+- a. le corps électoral;
+- b. le parlement communal;
+- c. l’organe directeur.[^128-4]
+
+<sup>2</sup> Dans la commune municipale, l’organe directeur est le conseil communal; dans la paroisse, c’est le conseil de paroisse.[^128-5]
+
+<sup>3</sup> Le parlement communal compte au moins 20 membres. La loi et le règlement communal règlent son organisation et l’exercice du droit de vote.[^128-6]
+
+[^128-1]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 [^128-2]: Acceptée par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie par l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^128-3]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 3 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^128-4]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 4 mai 2008. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-3]: Acceptée par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^128-4]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^128-5]: Accepté par la *Landsgemeinde* du 6 mai 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 18 juin 2007 ([FF 2007 4689](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 ch. 3 [581](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^128-6]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 129
 
@@ -1513,23 +1527,24 @@ Sont des organes nécessaires de la commune:
 
 **Assemblée communale, élection et votation par la voie des urnes**
 
-<sup>1</sup> Les citoyens actifs exercent en principe leur droit de vote à l’assemblée communale; celle-ci se réunit selon les besoins, mais au moins une fois par année.[^130-1]
+<sup>1</sup> Les citoyens actifs exercent leur droit de vote à l’assemblée communale; celle-ci se réunit conformément à la loi et au règlement communal.[^130-1]
 
-<sup>2</sup> Une assemblée communale extraordinaire a lieu lorsque l’organe directeur le décide, lorsque le nombre de citoyens actifs fixé dans la loi le demandent en indiquant les affaires à traiter ou lorsque le Conseil d’État l’ordonne.[^130-2]
+<sup>2</sup> Une assemblée communale extraordinaire a lieu lorsque l’organe directeur ou le parlement communal le décide, lorsque le nombre de citoyens actifs fixé dans la loi le demandent en indiquant les affaires à traiter ou lorsque le Conseil d’État l’ordonne.[^130-2]
 
-<sup>3</sup> La loi ou le règlement communal peuvent, pour des affaires déterminées, prévoir l’élection ou la votation par la voie des urnes. L’assemblée communale peut décider qu’une élection ou une votation par la voie des urnes aura lieu exceptionnellement dans d’autres cas également.
+<sup>3</sup> La loi ou le règlement communal peuvent prévoir ou exclure l’élection ou la votation par la voie des urnes. L’assemblée communale peut décider qu’une élection par la voie des urnes aura lieu exceptionnellement dans d’autres cas également.[^130-3]
 
-<sup>4</sup> Les membres du parlement communal sont élus par la voie des urnes, au scrutin proportionnel; la loi règle les circonscriptions électorales.[^130-3]
+<sup>4</sup> Les membres du parlement communal sont élus par la voie des urnes, au scrutin proportionnel; la loi règle les circonscriptions électorales.[^130-4]
 
-<sup>5</sup> Le maire et les membres du conseil de la commune municipale sont élus par la voie des urnes, au scrutin majoritaire.[^130-4]
+<sup>5</sup> Le président et les membres de l’organe directeur sont élus par la voie des urnes, au scrutin majoritaire.[^130-5]
 
-<sup>6</sup> La loi fixe les compétences et les procédures électorales concernant les autres élections.[^130-5]
+<sup>6</sup> La loi fixe les compétences et les procédures électorales concernant les autres élections.[^130-6]
 
-[^130-1]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-2]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-3]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 4 mai 2008. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-4]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-5]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-1]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-2]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-3]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-4]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 4 mai 2008. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-5]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-6]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 131
 
@@ -1540,58 +1555,74 @@ Sont des organes nécessaires de la commune:
 Le corps électoral est compétent en particulier:
 
 - a.[^131-1] pour élire le président et les membres de l’organe directeur;
-- b.[^131-2] pour élire le président et les membres de la commission de gestion ou de l’organe de vérification des comptes;
-- c.[^131-3] pour élire les membres des autres autorités communales et des commissions ainsi que pour nommer les employés, à moins que cette compétence n’ait été déléguée à l’organe directeur;
+- b.[^131-2] …
+- c.[^131-3] pour élire les membres des autres autorités communales et des commissions ainsi que les autres employés, à moins que cette compétence n’ait été déléguée par la loi ou le règlement communal à un autre organe communal;
 - d. pour édicter le règlement communal;
-- e. pour édicter les autres prescriptions communales, à moins que cette compétence n’ait été déléguée à l’organe directeur pour des affaires déterminées;
-- f. pour établir le budget;
-- g.[^131-4] pour approuver les comptes de la commune et les rapports y relatifs de la commission de gestion ou de l’organe de vérification des comptes;
-- h. pour statuer sur les dépenses et pour décider l’acquisition et l’aliénation d’immeubles ainsi que l’octroi de droits réels limités sur des immeubles, à moins que, selon le règlement communal, cette compétence appartienne à l’organe directeur;
-- i. pour fixer la quotité de l’impôt communal dans le cadre de la législation fiscale cantonale;
+- e.[^131-4] pour édicter les autres prescriptions communales, à moins que cette compétence, pour des affaires déterminées, n’ait été déléguée par la loi ou le règlement communal à un autre organe communal;
+- f. et g.[^131-5] …
+- h.[^131-6] pour statuer sur les dépenses et pour décider l’acquisition et l’aliénation d’immeubles ainsi que l’octroi de droits réels limités sur des immeubles, à moins que cette compétence n’ait été déléguée par la loi ou le règlement communal à un autre organe communal;
+- i.[^131-7] pour fixer la quotité de l’impôt communal dans le cadre de la législation fiscale cantonale, à moins que cette compétence n’ait été déléguée par la loi ou le règlement communal au parlement communal;
 - k. pour statuer sur la fusion de la commune avec une autre commune ou sur la dissolution de la commune ainsi que sur les modifications de limites;
-- l. pour statuer sur l’adhésion à un syndicat de communes, pour approuver la convention relative à la fondation d’un tel syndicat et les statuts de ce dernier, ainsi que les modifications apportées à ces deux textes, de même que pour conclure d’autres conventions;
-- m. pour statuer sur d’autres points qui lui sont soumis par l’organe directeur.
+- l.[^131-8] …
+- m.[^131-9] pour statuer sur d’autres points qui lui sont soumis par l’organe directeur ou le parlement communal.
+
+<sup>1a</sup>
+
+Dans les communes ne possédant pas de parlement communal, le corps électoral est en outre compétent:
+
+- a. pour élire la commission de gestion ou l’organe de vérification des comptes;
+- b. pour établir le budget;
+- c. pour approuver les comptes de la commune et les rapports y relatifs rédigés par la commission de gestion ou par l’organe de vérification des comptes;
+- d. pour statuer sur l’adhésion à un syndicat de communes.[^131-10]
 
 <sup>2</sup>
 
-Dans les communes possédant un parlement communal, le corps électoral est obligatoirement compétent:
+Dans les communes possédant un parlement communal, le corps électoral est en outre compétent:[^131-11]
 
 - a. pour élire les membres du parlement communal;
-- b. pour élire le président et les membres de l’organe directeur;
-- c. pour édicter le règlement communal;
-- d. pour prendre les décisions prévues à l’al. 1, let. h dans le cadre du règlement communal ainsi que les décisions prévues à l’al. 1, let. i, k et l.[^131-5]
+- b. à d.[^131-12] … [^131-13]
 
 [^131-1]: Acceptée par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-2]: Acceptée par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-3]: Acceptée par la *Landsgemeinde* du 5 mai 2002, en vigueur depuis le 1<sup>er</sup> juil. 2002. Garantie de l’Ass. féd. du 24 sept. 2003 ([FF 2003 6299](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 ch. 3 [2999](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^131-4]: Acceptée par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. le 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-5]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 4 mai 2008. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-2]: Abrogée par la *Landsgemeinde* du 4 mai 2025, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-3]: Acceptée par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-4]: Acceptée par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-5]: Abrogées par la *Landsgemeinde* du 4 mai 2025, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-6]: Acceptée par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-7]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-8]: Abrogée par la *Landsgemeinde* du 4 mai 2025, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-9]: Acceptée par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-10]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-11]: Acceptée par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-12]: Abrogées par la *Landsgemeinde* du 4 mai 2025, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-13]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 4 mai 2008. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 132
 
 **Décision urgente**[^132-1]
 
-Une décision de la commune relevant de la compétence du corps électoral peut exceptionnellement être prise de façon tacite dans les cas urgents lorsque la décision de l’organe directeur, prise à l’unanimité, ou la décision du parlement communal, prise à la majorité absolue, fait objet d’un avis public et pour autant que le nombre de citoyens actifs fixé dans la loi ne demande pas ensuite, dans le délai imparti, qu’elle soit soumise au vote comme proposition lors de la prochaine assemblée communale ou de la prochaine votation.
+Une décision relevant de la compétence du corps électoral peut exceptionnellement être prise de façon tacite dans les cas urgents:
+
+- a. si la décision a été prise à la majorité absolue par le parlement communal ou à l’unanimité par l’organe directeur;
+- b. si la décision fait l’objet d’un avis public, et
+- c. si le nombre de citoyens actifs fixé dans la loi ne demande pas, dans le délai imparti, que la décision soit soumise au corps électoral comme proposition.[^132-2]
 
 [^132-1]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^132-2]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 133
 
 **Référendum facultatif**[^133-1]
 
-<sup>1</sup>
+<sup>1</sup> Les communes désignent dans le règlement communal les actes normatifs et les décisions de l’organe directeur ou du parlement communal qui sont sujets au référendum facultatif.[^133-2]
 
-Les communes possédant une assemblée communale peuvent, dans leur règlement, prévoir que l’organe directeur est compétent:
+<sup>2</sup> La loi fixe les délais et les quorums.[^133-3]
 
-- a. pour édicter des actes normatifs communaux déterminés selon l’art. 131, al. 1, let. e;
-- b. pour prendre jusqu’à un montant déterminé les décisions prévues à l’art. 131, al. 1, let. h;
-- c. pour conclure certains contrats conformément à l’art. 131, al. 1, let. l.
-
-<sup>2</sup> Ces actes normatifs et ces décisions sont sujets au référendum facultatif; la loi fixe les délais et les quorums.
-
-<sup>3</sup> Les communes possédant un parlement communal désignent dans le règlement communal les actes normatifs et les décisions du parlement qui sont sujets au référendum facultatif ou que le parlement doit soumettre au vote du corps électoral.
+<sup>3</sup> …[^133-4]
 
 [^133-1]: Accepté par la *Landsgemeinde* du 4 mai 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 28 mai 2009 ([FF 2009 4309](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 ch. 1 [981](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^133-2]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^133-3]: Accepté par la *Landsgemeinde* du 4 mai 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^133-4]: Abrogé par la *Landsgemeinde* du 4 mai 2025, avec effet au 1<sup>er</sup> janv. 2026. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Section 4 Corporations
 
@@ -1940,7 +1971,7 @@ Avocat des mineurs
 
 **Banque cantonale** 49
 
-**Budget** 53, 90<sup>a</sup>, 100<sup>a</sup>,131<sup>f</sup>
+**Budget** 53, 90<sup>a</sup>, 100<sup>a</sup>
 
 **Chambre pénale** 108
 
@@ -2335,10 +2366,11 @@ Modification des limites, des communes 118
 - – construction de logements 31
 - – étrangers 30
 - – mesures en vue de procurer du travail 28
+- – protection de l’enfant et de l’adulte 29
 - – protection des travailleurs 28
 - – sécurité sociale et bien-être 26
 - – service de placement 28
-- – tutelles 29, 152
+- – tutelles 152
 
 **Ordre juridique** 1, 21
 
@@ -2371,6 +2403,8 @@ Procédures électorales
 
 - – commune 130
 - – canton 70–72
+
+Protection de l’enfant et de l’adulte 29
 
 **Protection de l’environnement** 22
 

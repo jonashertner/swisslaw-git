@@ -3,11 +3,11 @@ sr: "131.217"
 title: "Costituzione del Cantone di Glarona, del 1<sup>o</sup> maggio 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: it
-version: 2025-05-04
+version: 2026-01-01
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20250504-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/it"
 
 Traduzione[^t-1]
 
-del 1° maggio 1988 (Stato 4 maggio 2025)[^t-2]
+del 1° maggio 1988 (Stato 1° gennaio 2026)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -296,14 +296,16 @@ Il Cantone e i Comuni possono completare le prestazioni della Confederazione in 
 
 #### Art. 29
 
-**Assistenza sociale e tutele**[^29-1]
+**Assistenza sociale, protezione per minori e adulti[^29-2]**[^29-1]
 
-<sup>1</sup> L’assistenza sociale e le tutele sono di competenza del Cantone. I Comuni sostengono il Cantone nell’adempimento di questi compiti per quanto necessario per svolgerli in modo efficace e finanziariamente vantaggioso.[^29-2]
+<sup>1</sup> L’assistenza sociale e la protezione per minori e adulti[^29-3] sono di competenza del Cantone. I Comuni sostengono il Cantone nell’adempimento di questi compiti per quanto necessario per svolgerli in modo efficace e finanziariamente vantaggioso.[^29-4]
 
 <sup>2</sup> La legge disciplina la vigilanza del Cantone sulle istituzioni di assistenza sociale, segnatamente sugli istituti di degenza.
 
 [^29-1]: Accettato nella Landsgemeinde del 7 mag. 1995, in vigore dal 1° gen. 1996. Garanzia dell’AF del 16 set. 1996 ([FF 1996 IV 749](https://fedlex.data.admin.ch/eli/fga/1996/4___749)art. 1 n. 3, I 1101).
-[^29-2]: Accettato nella Landsgemeinde del 7 mag. 2006, in vigore dal 1° gen. 2008. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 3 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^29-2]: Espr. accettata nella Landsgemeinde del 6 mag. 2012, in vigore dal 1° gen. 2013.
+[^29-3]: Espr. accettata nella Landsgemeinde del 6 mag. 2012, in vigore dal 1° gen. 2013.
+[^29-4]: Accettato nella Landsgemeinde del 7 mag. 2006, in vigore dal 1° gen. 2008. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 3 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 30
 
@@ -591,7 +593,7 @@ La perequazione finanziaria consiste in una compensazione delle risorse e in una
 <sup>3</sup> Il diritto di voto si esercita nella Landsgemeinde e, per il resto, per quanto la legge non preveda agevolazioni, nel proprio luogo di domicilio; il diritto di voto si ottiene con il domicilio.
 
 [^56-1]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 6 mag. 2007. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^56-2]: Abrogato nella Landsgemeinde del 4 mag. 2025, con effetto dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
+[^56-2]: Abrogato nella Landsgemeinde del 4 mag. 2025, con effetto dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 57
 
@@ -625,7 +627,7 @@ In materia comunale, l’avente diritto di voto ha il diritto di:
 
 <sup>2</sup> Il Consiglio di Stato può prendere provvedimenti per garantire alle persone che non sono in grado di compiere gli atti necessari per partecipare alla votazione, in particolare a causa di una disabilità, di poter votare.
 
-[^57a-1]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
+[^57a-1]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 58
 
@@ -696,7 +698,7 @@ La Landsgemeinde è l’assemblea degli abitanti del Cantone aventi diritto di v
 <sup>5</sup> ...[^62-3]
 
 [^62-1]: Abrogato nella Landsgemeinde del 1° mag. 2022, con effetto dal 1° lug. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
-[^62-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
+[^62-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 [^62-3]: Abrogato nella Landsgemeinde del 7 mag. 2017, con effetto dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 cpv. 1, [2020 4567](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 63
@@ -714,7 +716,7 @@ La Landsgemeinde è l’assemblea degli abitanti del Cantone aventi diritto di v
 <sup>5</sup> Il Cantone può prendere provvedimenti per agevolare la partecipazione alla Landsgemeinde.[^63-2]
 
 [^63-1]: Abrogato nella Landsgemeinde del 7 mag. 2017, con effetto dal 1° gen. 2018. Garanzia dell’AF del 17 set. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 1 cpv. 1, [2020 4567](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^63-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 (FF 2026 1668 art. 2, 771)
+[^63-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 4 mag. 2025. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 64
 
@@ -1028,10 +1030,11 @@ Spetta al Gran Consiglio:
 - a.[^90-1] allestire il preventivo, esaminare e approvare il conto annuale e prendere atto del piano integrato dei compiti e delle finanze;
 - b.[^90-2] decidere tutte le spese uniche di non oltre 1 milione di franchi destinate a un medesimo scopo e liberamente determinabili, nonché tutte le spese ricorrenti di non oltre 200 000 franchi annui destinate a un medesimo scopo e liberamente determinabili;
 - c. acquistare fondi a trattative private, a titolo di investimento o a titolo previdenziale, se il prezzo è di oltre 600 000 franchi, ma non supera i 5 000 000 di franchi;
-- d. decidere l’assunzione e il rinnovo di prestiti a lungo termine.
+- d.[^90-3] ...
 
 [^90-1]: Accettata nella Landsgemeinde del 1° mag. 2022, in vigore dal 1° lug. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^90-2]: Accettata nella Landsgemeinde del 5 mag. 2002, in vigore dal 1° lug. 2002. Garanzia dell’AF del 24 set. 2003 ([FF 2003 5989](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 n. 3 [2908](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^90-3]: Abrogata nella Landsgemeinde del 3 mag. 2009. Correzione del 21 ott. 2025.
 
 #### Art. 91
 
@@ -1375,11 +1378,12 @@ Incombe al Consiglio di Stato:
 
 <sup>1</sup> Il Cantone promuove la collaborazione intercomunale.
 
-<sup>2</sup> I Comuni e i consorzi collaborano con altri Comuni o consorzi nell’adempimento di tutti i compiti d’interesse comune.
+<sup>2</sup> I Comuni e i consorzi collaborano, nell’adempimento di tutti i compiti d’interesse comune, con altri Comuni nonché con il Cantone, la Confederazione o altri consorzi, laddove tali autorità adempiano compiti di carattere pubblico sul proprio territorio.[^117-1]
 
-<sup>3</sup> ...[^117-1]
+<sup>3</sup> ...[^117-2]
 
-[^117-1]: Abrogato nella Landsgemeinde del 6 mag. 2007, con effetto dal 1° gen. 2008. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^117-1]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^117-2]: Abrogato nella Landsgemeinde del 6 mag. 2007, con effetto dal 1° gen. 2008. Garanzia dell’AF del 12 giu. 2008 ([FF 2008 5085](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 n. 2 [1187](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 #### Art. 118
 
@@ -1395,12 +1399,12 @@ Incombe al Consiglio di Stato:
 
 **Autonomia comunale**
 
-<sup>1</sup> I Comuni si occupano di tutti gli affari locali che non siano di esclusiva competenza né della Confederazione, né del Cantone.[^119-1]
+<sup>1</sup> I Comuni si occupano di tutti gli affari locali e compiti pubblici che non siano di esclusiva competenza né della Confederazione, né del Cantone.[^119-1]
 
-<sup>2</sup> Per quanto la presente Costituzione e la legge non dispongano altrimenti, essi determinano da sé la propria organizzazione in un regolamento comunale, eleggono le proprie autorità, nominano i pubblici dipendenti e gli insegnanti comunali ed eseguono i propri compiti come meglio ritengono.[^119-2]
+<sup>2</sup> Per quanto la presente Costituzione e la legge non dispongano altrimenti, essi determinano da sé la propria organizzazione in un regolamento comunale, eleggono le proprie autorità e i propri pubblici dipendenti ed eseguono i propri compiti secondo il loro giudizio.[^119-2]
 
-[^119-1]: Accettato nella Landsgemeinde del 4 mag. 2014, in vigore dal 1° set. 2014. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^119-2]: Accettato nella Landsgemeinde del 5 mag. 2002, in vigore dal 1° lug. 2002. Garanzia dell’AF del 24 set. 2003 ([FF 2003 5989](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 n. 3 [2908](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^119-1]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^119-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 120
 
@@ -1483,20 +1487,30 @@ Incombe al Consiglio di Stato:
 
 <sup>1</sup>
 
-Gli organi che ogni Comune deve necessariamente avere sono:
+Gli organi che i Comuni privi di un Parlamento comunale devono necessariamente avere sono:[^128-1]
 
 - a. il corpo elettorale, composto degli aventi diritto di voto;
-- b.[^128-1] l’Esecutivo;
-- c.[^128-2] la Commissione della gestione o, nella parrocchia, un organo di revisione dei conti.
+- b.[^128-2] l’Esecutivo;
+- c.[^128-3] la Commissione della gestione o l’organo di revisione dei conti della parrocchia.
 
-<sup>2</sup> Nel Comune, l’Esecutivo è il Municipio; nella parrocchia, il Consiglio parrocchiale.[^128-3]
+<sup>1a</sup>
 
-<sup>3</sup> I Comuni possono istituire un Parlamento comunale. Il Parlamento comunale è composto di almeno 20 membri e si costituisce da sé nei limiti della legge e del regolamento comunale.[^128-4]
+Gli organi che i Comuni dotati di un Parlamento comunale devono necessariamente avere sono:
 
-[^128-1]: Accettata nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+- a. il corpo elettorale, composto degli aventi diritto di voto;
+- b. il Parlamento comunale;
+- c. l’Esecutivo.[^128-4]
+
+<sup>2</sup> Nel Comune, l’Esecutivo è il Municipio; nella parrocchia, il Consiglio parrocchiale.[^128-5]
+
+<sup>3</sup> Il Parlamento comunale è composto di almeno 20 membri. La legge e il regolamento comunale ne disciplinano l’organizzazione e l’esercizio del diritto di voto.[^128-6]
+
+[^128-1]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 [^128-2]: Accettata nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^128-3]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 1° gen. 2008. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 3 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^128-4]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 4 mag. 2008. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-3]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^128-4]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^128-5]: Accettato nella Landsgemeinde del 6 mag. 2007, in vigore dal 1° gen. 2008. Garanzia dell’AF del 18 giu. 2007 ([FF 2007 4533](https://fedlex.data.admin.ch/eli/fga/2007/694)art. 1 n. 3 [593](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^128-6]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 129
 
@@ -1512,23 +1526,24 @@ Gli organi che ogni Comune deve necessariamente avere sono:
 
 **Assemblea comunale, elezioni e votazioni alle urne**
 
-<sup>1</sup> Gli aventi diritto di voto esercitano di norma il loro diritto di voto nell’Assemblea comunale; l’Assemblea comunale si riunisce secondo i bisogni, ma almeno una volta all’anno.[^130-1]
+<sup>1</sup> Gli aventi diritto di voto esercitano il loro diritto di voto nell’Assemblea comunale; l’Assemblea comunale si riunisce conformemente alla legge e al regolamento comunale.[^130-1]
 
-<sup>2</sup> Un’Assemblea comunale straordinaria si svolge allorché l’Esecutivo comunale lo decida, allorché il numero di aventi diritto di voto stabilito dalla legge lo chieda indicando gli affari da trattare o allorché il Consiglio di Stato lo ordini.[^130-2]
+<sup>2</sup> Un’Assemblea comunale straordinaria si svolge allorché l’Esecutivo comunale o il Parlamento comunale lo decida, allorché il numero di aventi diritto di voto stabilito dalla legge lo chieda indicando gli affari da trattare o allorché il Consiglio di Stato lo ordini.[^130-2]
 
-<sup>3</sup> La legge o il regolamento comunale può, per determinati affari, prevedere l’elezione o la votazione alle urne. L’Assemblea comunale può eccezionalmente decidere che un’elezione o una votazione alle urne avvenga anche in altri casi.
+<sup>3</sup> La legge o il regolamento comunale può prevedere o escludere l’elezione o la votazione alle urne. L’Assemblea comunale può eccezionalmente decidere che un’elezione alle urne avvenga anche in altri casi.[^130-3]
 
-<sup>4</sup> I membri del Parlamento comunale sono eletti alle urne, secondo il sistema proporzionale; la legge stabilisce i circondari elettorali. [^130-3]
+<sup>4</sup> I membri del Parlamento comunale sono eletti alle urne, secondo il sistema proporzionale; la legge stabilisce i circondari elettorali. [^130-4]
 
-<sup>5</sup> Il sindaco e i membri del Municipio sono eletti alle urne, secondo il sistema maggioritario.[^130-4]
+<sup>5</sup> Il presidente e i membri dell’Esecutivo sono eletti alle urne, secondo il sistema maggioritario.[^130-5]
 
-<sup>6</sup> La legge stabilisce le competenze e le procedure elettorali per le altre elezioni.[^130-5]
+<sup>6</sup> La legge stabilisce le competenze e le procedure elettorali per le altre elezioni.[^130-6]
 
-[^130-1]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-2]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-3]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 4 mag. 2008. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-4]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-5]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-1]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-3]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-4]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 4 mag. 2008. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-5]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-6]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 131
 
@@ -1539,59 +1554,74 @@ Gli organi che ogni Comune deve necessariamente avere sono:
 Il corpo elettorale è in particolare competente per:
 
 - a.[^131-1] eleggere il presidente e i membri dell’Esecutivo comunale;
-- b.[^131-2] eleggere il presidente e i membri della Commissione della gestione o l’organo di revisione dei conti;
-- c.[^131-3] eleggere i membri delle altre autorità comunali e delle commissioni, nonché i pubblici dipendenti, eccetto che questa competenza sia delegata all’Esecutivo comunale;
+- b.[^131-2] ...
+- c.[^131-3] eleggere i membri delle altre autorità comunali e delle commissioni, nonché i pubblici dipendenti, eccetto che la legge o il regolamento comunale deleghino questa competenza a un altro organo comunale;
 - d. emanare il regolamento comunale;
-- e. emanare le altre prescrizioni comunali, eccetto che questa competenza sia, per determinati affari, delegata all’Esecutivo comunale;
-- f.[^131-4] allestire il preventivo;
-- g.[^131-5] approvare i conti del Comune e i relativi rapporti della Commissione della gestione o dell’organo di revisione dei conti;
-- h. decidere in materia di spese, nonché di acquisto, alienazione e aggravio di fondi, eccetto che il regolamento comunale conferisca questa competenza all’Esecutivo comunale;
-- i. stabilire l’aliquota dell’imposta comunale nei limiti fissati dalla legislazione fiscale cantonale;
+- e.[^131-4] emanare le altre prescrizioni comunali, eccetto che la legge o il regolamento comunale deleghino questa competenza, per determinati affari, a un altro organo comunale;
+- f. e g.[^131-5] ...
+- h.[^131-6] decidere in materia di spese, nonché di acquisto, alienazione e aggravio di fondi, eccetto che la legge o il regolamento comunale deleghino questa competenza a un altro organo comunale;
+- i.[^131-7] stabilire l’aliquota dell’imposta comunale nei limiti fissati dalla legislazione fiscale cantonale, eccetto che la legge o il regolamento comunale deleghino questa competenza al Parlamento comunale;
 - k. decidere sull’aggregazione o sullo scioglimento del Comune e sulle modifiche di confini;
-- l. decidere circa l’adesione a un consorzio, circa l’approvazione e la modifica della convenzione istitutiva e dello statuto del consorzio, nonché circa la conclusione di altre convenzioni;
-- m. decidere su altri punti che gli sono sottoposti dall’Esecutivo comunale.
+- l.[^131-8] ...
+- m.[^131-9] decidere su altri punti che gli sono sottoposti dall’Esecutivo o dal Parlamento comunale.
+
+<sup>1a</sup>
+
+Nei Comuni privi di un Parlamento comunale, il corpo elettorale è inoltre competente per:
+
+- a. eleggere la Commissione della gestione o l’organo di revisione dei conti;
+- b. allestire il preventivo;
+- c. approvare i conti del Comune e i relativi rapporti della Commissione della gestione o dell’organo di revisione dei conti;
+- d. decidere circa l’adesione a un consorzio.[^131-10]
 
 <sup>2</sup>
 
-Nei Comuni in cui vi è un Parlamento comunale, il corpo elettorale è obbligatoriamente competente per:
+Nei Comuni in cui vi è un Parlamento comunale, il corpo elettorale è inoltre competente per:[^131-11]
 
 - a. eleggere i membri del Parlamento comunale;
-- b. eleggere il presidente e i membri dell’Esecutivo comunale;
-- c. emanare il regolamento comunale;
-- d. prendere le decisioni di cui al capoverso 1 lettera h, nei limiti fissati dal regolamento comunale, e le decisioni di cui al capoverso 1 lettere i, k e l.[^131-6]
+- [tab] b.–d.[^131-12] ...[^131-13]
 
 [^131-1]: Accettata nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-2]: Accettata nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2010. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-3]: Accettata nella Landsgemeinde del 5 mag. 2002, in vigore dal 1° lug. 2002. Garanzia dell’AF del 24 set. 2003 ([FF 2003 5989](https://fedlex.data.admin.ch/eli/fga/2003/1134)art. 1 n. 3 [2908](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^131-4]: Accettata nella Landsgemeinde del 4 mag. 2014, in vigore dal 1° set. 2014. Garanzia dell’AF del 3 mar. 2016 ([FF 2016 1975](https://fedlex.data.admin.ch/eli/fga/2016/476)art. 3, [2015 6231](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^131-5]: Accettata nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-6]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 4 mag. 2008. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-2]: Abrogata nella Landsgemeinde del 4 mag. 2025, con effetto dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
+[^131-3]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-4]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-5]: Abrogate nella Landsgemeinde del 4 mag. 2025, con effetto dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771))
+[^131-6]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-7]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-8]: Abrogata nella Landsgemeinde del 4 mag. 2025, con effetto dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-9]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-10]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-11]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-12]: Abrogate nella Landsgemeinde del 4 mag. 2025, con effetto dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-13]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 4 mag. 2008. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 132
 
 **Decisioni urgenti**[^132-1]
 
-In casi urgenti, una decisione comunale di per sé di competenza del corpo elettorale può essere eccezionalmente presa dall’Esecutivo comunale, all’unanimità, o dal Parlamento comunale, a maggioranza assoluta, sempre che sia oggetto di un avviso pubblico e gli aventi diritto di voto, nel numero stabilito dalla legge, non chiedano poi, entro il termine impartito, che la decisione sia sottoposta come proposta alla prossima Assemblea comunale o alla prossima votazione alle urne.
+In casi urgenti, una decisione di per sé di competenza del corpo elettorale può essere eccezionalmente presa:
+
+- a. dal Parlamento comunale, a maggioranza assoluta, o dall’Esecutivo, all’unanimità;
+- b. se è oggetto di un avviso pubblico;
+- c. purché gli aventi diritto di voto, nel numero stabilito dalla legge, non chiedano, entro il termine impartito, che sia sottoposta come proposta al corpo elettorale.[^132-2]
 
 [^132-1]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^132-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 133
 
 **Referendum facoltativo**[^133-1]
 
-<sup>1</sup>
+<sup>1</sup> I Comuni designano nel regolamento comunale gli atti normativi e le decisioni dell’Esecutivo o del Parlamento comunale che sottostanno a referendum facoltativo.[^133-2]
 
-I Comuni in cui vi è un’Assemblea comunale possono prevedere nel regolamento comunale che l’Esecutivo comunale è competente per:
+<sup>2</sup> La legge fissa i termini e i quorum.[^133-3]
 
-- a. emanare determinati atti normativi comunali secondo l’articolo 131 capoverso 1 lettera e;
-- b. prendere, fino a un importo determinato, decisioni secondo l’articolo 131 capoverso 1 lettera h;
-- c. concludere determinate convenzioni secondo l’articolo 131 capoverso 1 lettera l.
-
-<sup>2</sup> Questi atti normativi e queste decisioni sottostanno a referendum facoltativo; la legge fissa i termini e i quorum.
-
-<sup>3</sup> I Comuni in cui vi è un Parlamento comunale designano nel regolamento comunale gli atti normativi e le decisioni del Parlamento comunale che sottostanno a referendum facoltativo o che il Parlamento deve sottoporre al voto del corpo elettorale.
+<sup>3</sup> ... [^133-4]
 
 [^133-1]: Accettato nella Landsgemeinde del 4 mag. 2008, in vigore dal 1° gen. 2011. Garanzia dell’AF del 28 mag. 2009 ([FF 2009 4167](https://fedlex.data.admin.ch/eli/fga/2009/826)art. 1 n. 1 [931](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^133-2]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^133-3]: Accettato nella Landsgemeinde del 4 mag. 2025, in vigore dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^133-4]: Abrogata nella Landsgemeinde del 4 mag. 2025, con effetto dal 1° gen. 2026. Garanzia dell'AF del 16 giu. 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Sezione 4: Corporazioni
 
@@ -2064,6 +2094,7 @@ Cantone
   - [tab] – del clima 22*a*
   - [tab] – dell’ambiente 22
   - [tab] – della famiglia 34
+  - [tab] – per minori e adulti 29
 
 - [tab] – responsabilità del cantone per danni causati illecitamente da persone agenti per questo 18
 - [tab] – salute pubblica 32
@@ -2080,7 +2111,6 @@ Cantone
 - [tab] – pianificazione di 24
 - [tab] – sussidi delle attività pubbliche sovra-confessionali delle Chiese 137
 - [tab] – trasporti pubblici 46
-- [tab] – tutele 29
 - [tab] – vigilanza
   - [tab] – sulla salute pubblica 32
   - [tab] – sulle acque 24
@@ -2183,7 +2213,7 @@ Compiti
 - [tab] – pubblici 22 ss
   - [tab] – assistenza sociale 29
   - [tab] – nel settore scolastico 37
-  - [tab] – tutele 29
+  - [tab] – protezione per minori e adulti 29
 
 Comune (i) 115 ss
 
@@ -2239,7 +2269,7 @@ Comune (i) 115 ss
 - [tab] – organizzazione dei
   - [tab] – Organi comunali
   - – Assemblea comunale 130
-  - – Commissione della gestione 128
+  - – Commissione della gestione 128, 131
   - – corpo elettorale 128
   - – esecutivo 128
   - – organo di revisione dei conti 128
@@ -2261,6 +2291,7 @@ Comune (i) 115 ss
   - [tab] – del clima 22*a*
   - [tab] – dell’ambiente 22
   - [tab] – della famiglia 34
+  - [tab] – per minori e adulti 29
 
 - [tab] – regolamento 119, 130
 - [tab] – responsabilità del Comune per danni causati illecitamente da persone agenti per questo 18
@@ -2282,7 +2313,6 @@ Comune (i) 115 ss
 - [tab] – stranieri 30
 - [tab] – sussidio delle attività pubbliche sovra-confessionali delle Chiese 137
 - [tab] – trasporti pubblici 46
-- [tab] – tutele 29
 - [tab] – vigilanza sui 94, 120
 
 Comunità religiose
@@ -2610,6 +2640,17 @@ Elezioni
 - [tab] – rielezione 78
 - [tab] – tutela giurisdizionale 121
 
+**Esecutivo**
+
+- [tab] – Assemblea comunale straordinaria 130, 131
+- [tab] – decisioni urgenti 132
+- [tab] – di Comuni 148
+- [tab] – diritto di risposta 129
+- [tab] – divisione dei poteri 73
+- [tab] – elezione del membri dell’esecutivo comunale 131
+- [tab] – organi del Comune 128
+- [tab] – referendum facoltativo 133
+
 **Espropriazione**
 
 - [tab] – garanzia della proprietà 14
@@ -2904,6 +2945,12 @@ Pace
 
 - [tab] – confessionale 7
 
+Parlamento
+
+- [tab] – comunale 128, 130, 131, 132, 133
+- [tab] – comuni privi di 128
+- [tab] – del Cantone 82
+
 Partecipazione politica 57*a*
 
 Periodo amministrativo
@@ -2982,6 +3029,8 @@ Protezione
 – del clima 22*a*
 
 – dell’ambiente 22
+
+– per minori e adulti 29
 
 Pubblicità
 

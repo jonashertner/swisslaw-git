@@ -3,18 +3,18 @@ sr: "131.217"
 title: "Verfassung des Kantons Glarus, vom 1. Mai 1988"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga"
 language: de
-version: 2025-05-04
+version: 2026-01-01
 adopted: 1988-05-01
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20250504-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20250504/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/3_730_706_654_fga/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1989-3_730_706_654_fga-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/3_730_706_654_fga/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Glarus
 
-vom 1. Mai 1988 (Stand am 4. Mai 2025)[^t-1]
+vom 1. Mai 1988 (Stand am 1. Januar 2026)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
@@ -293,14 +293,16 @@ Der Kanton und die Gemeinden können die Leistungen des Bundes für die soziale 
 
 #### Art. 29
 
-**Sozialhilfe und Vormundschaftswesen**[^29-1]
+**Sozialhilfe, Kindes- und Erwachsenenschutzwesen[^29-2]**[^29-1]
 
-<sup>1</sup> Die öffentliche Sozialhilfe und das Vormundschaftswesen sind Sache des Kantons. Die Gemeinden unterstützen den Kanton in der Wahrnehmung dieser Aufgaben, soweit dies für eine wirksame und kostengünstige Erfüllung dieser Aufgaben erforderlich ist.[^29-2]
+<sup>1</sup> Die öffentliche Sozialhilfe und das Kindes- und Erwachsenenschutzwesen[^29-3] sind Sache des Kantons. Die Gemeinden unterstützen den Kanton in der Wahrnehmung dieser Aufgaben, soweit dies für eine wirksame und kostengünstige Erfüllung dieser Aufgaben erforderlich ist.[^29-4]
 
 <sup>2</sup> Das Gesetz regelt die Aufsicht des Kantons über Sozialhilfeeinrichtungen, im Besonderen über stationäre Einrichtungen.
 
 [^29-1]: Angenommen an der Landsgemeinde vom 7. Mai 1995, in Kraft seit 1. Jan. 1996. Gewährleistungsbeschluss vom 16. Sept. 1996 ([BBl 1996 IV 864](https://fedlex.data.admin.ch/eli/fga/1996/4_864__)Art. 1 Ziff. 3, I 1301).
-[^29-2]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^29-2]: Ausdruck angenommen an der Landsgemeinde vom 6. Mai 2012, in Kraft seit 1. Jan. 2013.
+[^29-3]: Ausdruck angenommen an der Landsgemeinde vom 6. Mai 2012, in Kraft seit 1. Jan. 2013.
+[^29-4]: Angenommen an der Landsgemeinde vom 7. Mai 2006, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 #### Art. 30
 
@@ -1025,10 +1027,11 @@ Dem Landrat stehen zu:
 - a.[^90-1] die Festsetzung des Budgets, die Prüfung und Abnahme der Jahresrechnung und die Kenntnisnahme des Integrierten Aufgaben- und Finanzplans;
 - b.[^90-2] Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck, die 1 Million Franken und über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck, die 200 000 Franken im Jahr nicht übersteigen;
 - c. der freie Erwerb von Grundstücken als Anlage oder zur Vorsorge im Betrag von mehr als 600 000 Franken bis zu 5 000 000 Franken;
-- d. Beschlüsse über die Aufnahme und Erneuerung langfristiger Anleihen.
+- d.[^90-3] ...
 
 [^90-1]: Angenommen an der Landsgemeinde vom 1. Mai 2022, in Kraft seit 1. Juli 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 [^90-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^90-3]: Aufgehoben an der Landsgemeinde vom 3. Mai 2009. Berichtigung vom 21. Okt. 2025.
 
 #### Art. 91
 
@@ -1372,11 +1375,12 @@ Aufgehoben
 
 <sup>1</sup> Der Kanton fördert die Zusammenarbeit der Gemeinden.
 
-<sup>2</sup> Die Gemeinden und die Zweckverbände arbeiten bei der Erfüllung aller Aufgaben, die im gemeinsamen Interesse liegen, mit andern Gemeinden oder Zweckverbänden zusammen.
+<sup>2</sup> Die Gemeinden und die Zweckverbände arbeiten bei der Erfüllung aller Aufgaben, die im gemeinsamen Interesse liegen, mit andern Gemeinden sowie mit Kanton und Bund oder Zweckverbänden zusammen, wenn letztere auf ihrem Gebiet öffentliche Aufgaben erfüllen.[^117-1]
 
-<sup>3</sup> …[^117-1]
+<sup>3</sup> …[^117-2]
 
-[^117-1]: Aufgehoben an der Landsgemeinde vom 6. Mai 2007, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^117-1]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^117-2]: Aufgehoben an der Landsgemeinde vom 6. Mai 2007, mit Wirkung seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 2, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 #### Art. 118
 
@@ -1392,12 +1396,12 @@ Aufgehoben
 
 **Gemeindeautonomie**
 
-<sup>1</sup> Die Gemeinden besorgen alle örtlichen Angelegenheiten, für die weder der Bund noch der Kanton ausschliesslich zuständig sind.[^119-1]
+<sup>1</sup> Die Gemeinden besorgen alle örtlichen Angelegenheiten und öffentlichen Aufgaben, für die weder der Bund noch der Kanton ausschliesslich zuständig sind.[^119-1]
 
-<sup>2</sup> Sie bestimmen, soweit Verfassung und Gesetz nichts anderes vorsehen, ihre Organisation durch Erlass einer Gemeindeordnung selbst, wählen ihre Behörden, Angestellten und Lehrpersonen und erfüllen ihre Aufgaben nach eigenem Ermessen.[^119-2]
+<sup>2</sup> Sie bestimmen, soweit Verfassung und Gesetz nichts anderes vorsehen, ihre Organisation durch Erlass einer Gemeindeordnung selbst, wählen ihre Behörden und Angestellten und erfüllen ihre Aufgaben nach pflichtgemässem Ermessen.[^119-2]
 
-[^119-1]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^119-2]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^119-1]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^119-2]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 120
 
@@ -1480,20 +1484,30 @@ Aufgehoben
 
 <sup>1</sup>
 
-Notwendige Gemeindeorgane sind:
+In den Gemeinden ohne Gemeindeparlament sind die notwendigen Gemeindeorgane:[^128-1]
 
 - a. die Stimmberechtigten;
-- b.[^128-1] die Vorsteherschaft;
-- c.[^128-2] die Geschäftsprüfungskommission der Gemeinde respektive ein Rechnungsprüfungsorgan einer Kirchgemeinde.
+- b.[^128-2] die Vorsteherschaft;
+- c.[^128-3] die Geschäftsprüfungskommission der Gemeinde respektive das Rechnungsprüfungsorgan der Kirchgemeinde.
 
-<sup>2</sup> In der Gemeinde bildet der Gemeinderat die Vorsteherschaft, in der Kirchgemeinde der Kirchenrat.[^128-3]
+<sup>1<sup>a</sup></sup>
 
-<sup>3</sup> Die Gemeinden können ein Gemeindeparlament einführen. Es umfasst mindestens 20 Mitglieder und konstituiert sich im Rahmen von Gesetz und Gemeindeordnung selbst.[^128-4]
+In den Gemeinden mit Gemeindeparlament sind die notwendigen Gemeindeorgane:
 
-[^128-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+- a. die Stimmberechtigten;
+- b. das Gemeindeparlament;
+- c. die Vorsteherschaft.[^128-4]
+
+<sup>2</sup> In der Gemeinde bildet der Gemeinderat die Vorsteherschaft, in der Kirchgemeinde der Kirchenrat.[^128-5]
+
+<sup>3</sup> Das Gemeindeparlament umfasst mindestens 20 Mitglieder. Gesetz und Gemeindeordnung regeln dessen Organisation und die Ausübung des Stimmrechts.[^128-6]
+
+[^128-1]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 [^128-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^128-3]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
-[^128-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^128-3]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^128-4]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^128-5]: Angenommen an der Landsgemeinde vom 6. Mai 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 3, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^128-6]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 129
 
@@ -1509,23 +1523,24 @@ Notwendige Gemeindeorgane sind:
 
 **Gemeindeversammlung, Urnenwahl und Urnenabstimmung**
 
-<sup>1</sup> Die Stimmberechtigten üben das Stimmrecht grundsätzlich an der Gemeindeversammlung aus; diese tritt nach Bedarf, jährlich aber mindestens einmal, zusammen.[^130-1]
+<sup>1</sup> Die Stimmberechtigten üben das Stimmrecht an der Gemeindeversammlung aus; diese tritt gemäss Gesetz und Gemeindeordnung zusammen.[^130-1]
 
-<sup>2</sup> Eine ausserordentliche Gemeindeversammlung findet statt, wenn die Vorsteherschaft es beschliesst, wenn es von der im Gesetz bezeichneten Anzahl Stimmberechtigten, unter Angabe der zu behandelnden Geschäfte verlangt wird oder wenn der Regierungsrat eine solche anordnet.[^130-2]
+<sup>2</sup> Eine ausserordentliche Gemeindeversammlung findet statt, wenn die Vorsteherschaft oder das Gemeindeparlament es beschliesst, wenn es von der im Gesetz bezeichneten Anzahl Stimmberechtigten unter Angabe der zu behandelnden Geschäfte verlangt wird oder wenn der Regierungsrat eine solche anordnet.[^130-2]
 
-<sup>3</sup> für bestimmte Angelegenheiten können Gesetz oder Gemeindeordnung die Urnenwahl oder Urnenabstimmung vorsehen. Die Gemeindeversammlung kann ausnahmsweise auch in andern fällen die Urnenwahl oder die Urnenabstimmung beschliessen.
+<sup>3</sup> Gesetz oder Gemeindeordnung können die Urnenwahl oder Urnenabstimmung vorsehen beziehungsweise ausschliessen. Die Gemeindeversammlung kann ausnahmsweise auch in andern Fällen die Urnenwahl beschliessen.[^130-3]
 
-<sup>4</sup> Die Mitglieder des Gemeindeparlaments werden an der Urne nach dem Verhältniswahlverfahren gewählt; das Gesetz regelt die Wahlkreise.[^130-3]
+<sup>4</sup> Die Mitglieder des Gemeindeparlaments werden an der Urne nach dem Verhältniswahlverfahren gewählt; das Gesetz regelt die Wahlkreise.[^130-4]
 
-<sup>5</sup> Der Gemeindepräsident sowie die Mitglieder des Gemeinderates werden an der Urne nach dem Mehrheitswahlverfahren gewählt.[^130-4]
+<sup>5</sup> Der Präsident sowie die Mitglieder der Vorsteherschaft werden an der Urne nach dem Mehrheitswahlverfahren gewählt.[^130-5]
 
-<sup>6</sup> Das Gesetz legt die Zuständigkeiten und die Wahlverfahren für die übrigen Wahlen fest.[^130-5]
+<sup>6</sup> Das Gesetz legt die Zuständigkeiten und die Wahlverfahren für die übrigen Wahlen fest.[^130-6]
 
-[^130-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-3]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^130-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-1]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-2]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-3]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-4]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^130-5]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^130-6]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 131
 
@@ -1536,59 +1551,74 @@ Notwendige Gemeindeorgane sind:
 Die Stimmberechtigten sind insbesondere zuständig für:
 
 - a.[^131-1] die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft;
-- b.[^131-2] die Wahl des Präsidenten sowie der Mitglieder der Geschäftsprüfungskommission oder die Wahl des Rechnungsprüfungsorgans;
-- c.[^131-3] die Wahl der übrigen Gemeindebehörden, Kommissionen und Angestellten, soweit diese nicht der Vorsteherschaft übertragen ist;
+- b.[^131-2] …
+- c.[^131-3] die Wahl der übrigen Gemeindebehörden, Kommissionen und Angestellten, soweit diese nicht nach Gesetz und Gemeindeordnung einem anderen Gemeindeorgan übertragen ist;
 - d. den Erlass der Gemeindeordnung;
-- e. den Erlass der übrigen Gemeindevorschriften, soweit dieser nicht in bestimmten Angelegenheiten der Vorsteherschaft übertragen ist;
-- f.[^131-4] die Festsetzung des Budgets;
-- g.[^131-5] die Genehmigung der Gemeinderechnungen und der zugehörigen Berichte der Geschäftsprüfungskommission respektive des Rechnungsprüfungsorgans;
-- h. Ausgabenbeschlüsse und Beschlüsse über Erwerb, Veräusserung und Belastung von Grundstücken, soweit nach der Gemeindeordnung nicht die Vorsteherschaft zuständig ist;
-- i. die Festsetzung des Gemeindesteuerfusses im Rahmen der kantonalen Steuergesetzgebung;
+- e.[^131-4] den Erlass der übrigen Gemeindevorschriften, soweit dieser nicht in bestimmten Angelegenheiten nach Gesetz oder Gemeindeordnung einem anderen Gemeindeorgan übertragen ist;
+- f. und g.[^131-5] …
+- h.[^131-6] Ausgabenbeschlüsse und Beschlüsse über Erwerb, Veräusserung und Belastung von Grundstücken, soweit nach Gesetz oder Gemeindeordnung nicht ein anderes Gemeindeorgan zuständig ist;
+- i.[^131-7] die Festsetzung des Gemeindesteuerfusses im Rahmen der kantonalen Steuergesetzgebung, soweit dies nicht nach Gesetz oder Gemeindeordnung dem Gemeindeparlament übertragen ist;
 - k. Beschlüsse über die Vereinigung oder Auflösung der Gemeinde und über Grenzänderungen;
-- l. Beschlüsse über die Mitgliedschaft in Zweckverbänden, über die Genehmigung und Änderung des Gründungsvertrags und des Organisationsstatuts sowie über den Abschluss weiterer Verträge;
-- m. weitere ihnen von der Vorsteherschaft vorgelegte Beschlüsse.
+- l.[^131-8] …
+- m.[^131-9] weitere ihnen von der Vorsteherschaft oder vom Gemeindeparlament vorgelegte Beschlüsse.
+
+<sup>1a</sup>
+
+In Gemeinden ohne Gemeindeparlament sind die Stimmberechtigten zusätzlich zuständig für:
+
+- a. die Wahl der Geschäftsprüfungskommission oder des Rechnungsprüfungsorgans;
+- b. die Festsetzung des Budgets;
+- c. die Genehmigung der Gemeinderechnungen und der zugehörigen Berichte des Geschäftsprüfungsorgans oder des Rechnungsprüfungsorgans;
+- d. Beschlüsse über die Mitgliedschaft in Zweckverbänden.[^131-10]
 
 <sup>2</sup>
 
-In den Gemeinden mit Gemeindeparlament sind die Stimmberechtigten obligatorisch zuständig für:
+In den Gemeinden mit Gemeindeparlament sind die Stimmberechtigten zusätzlich zuständig für:[^131-11]
 
 - a. die Wahl der Mitglieder des Gemeindeparlaments;
-- b. die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft;
-- c. den Erlass der Gemeindeordnung;
-- d. Beschlüsse nach Absatz 1 Buchstabe h im Rahmen der Gemeindeordnung sowie die Beschlüsse nach Absatz 1 Buchstaben i, k und l.[^131-6]
+- [tab] b.–d.[^131-12] … .[^131-13]
 
 [^131-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-2]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-3]: Angenommen an der Landsgemeinde vom 5. Mai 2002, in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 3, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^131-4]: Angenommen an der Landsgemeinde vom 4. Mai 2014, in Kraft seit 1. Sept. 2014. Gewährleistungsbeschluss vom 3. März 2016 ([BBl 2016 2301](https://fedlex.data.admin.ch/eli/fga/2016/476)Art. 3; [2015 7615](https://fedlex.data.admin.ch/eli/fga/2015/1854)).
-[^131-5]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
-[^131-6]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^131-2]: Aufgehoben an der Landsgemeinde vom 4. Mai 2025, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-3]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-4]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-5]: Aufgehoben an der Landsgemeinde vom 4. Mai 2025, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-6]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-7]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-8]: Aufgehoben an der Landsgemeinde vom 4. Mai 2025, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-9]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-10]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-11]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-12]: Aufgehoben an der Landsgemeinde vom 4. Mai 2025, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^131-13]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 4. Mai 2008. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
 
 #### Art. 132
 
 **Dringliche Beschlussfassung**[^132-1]
 
-Ein in die Zuständigkeit der Stimmberechtigten fallender Beschluss der Gemeinde kann in dringlichen Fällen ausnahmsweise stillschweigend gefasst werden, wenn der einstimmig gefasste Beschluss der Vorsteherschaft oder der mit absoluter Mehrheit gefasste Beschluss des Gemeindeparlaments öffentlich kundgemacht wird und wenn danach nicht die vom Gesetz bezeichnete Anzahl Stimmberechtigte innert Frist verlangt, dass der Beschluss als Antrag an die nächste Gemeindeversammlung oder die nächste Urnenabstimmung gelangt.
+Ein in die Zuständigkeit der Stimmberechtigten fallender Beschluss kann in dringlichen Fällen ausnahmsweise stillschweigend gefasst werden, wenn:
+
+- a. der Beschluss mit einer absoluten Mehrheit des Gemeindeparlaments oder Einstimmigkeit der Vorsteherschaft gefasst wurde;
+- b. der Beschluss öffentlich kundgemacht wird;
+- c. nicht die vom Gesetz bezeichnete Anzahl Stimmberechtigte innert Frist verlangt, dass der Beschluss als Antrag den Stimmberechtigten vorgelegt wird.[^132-2]
 
 [^132-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^132-2]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 133
 
 **Fakultatives Referendum**[^133-1]
 
-<sup>1</sup>
+<sup>1</sup> Die Gemeinden bezeichnen in der Gemeindeordnung die Erlasse und Beschlüsse der Vorsteherschaft oder des Gemeindeparlaments, die dem fakultativen Referendum unterliegen.[^133-2]
 
-Gemeinden mit Gemeindeversammlung können in der Gemeindeordnung vorsehen, dass die Vorsteherschaft zuständig ist für:
+<sup>2</sup> Das Gesetz regelt Fristen und Quoren.[^133-3]
 
-- a. bestimmte Gemeindeerlasse nach Artikel 131 Absatz 1 Buchstabe e;
-- b. Beschlüsse nach Artikel 131 Absatz 1 Buchstabe h bis zu einem bestimmten Betrag;
-- c. den Abschluss bestimmter Verträge nach Artikel 131 Absatz 1 Buchstabe l.
-
-<sup>2</sup> Diese Erlasse und Beschlüsse unterstehen dem fakultativen Referendum; das Gesetz regelt Fristen und Quoren.
-
-<sup>3</sup> Gemeinden mit Gemeindeparlament bezeichnen in der Gemeindeordnung die Erlasse und Beschlüsse des Gemeindeparlaments, die dem fakultativen Referendum unterliegen oder die vom Gemeindeparlament den Stimmberechtigten zur Abstimmung vorgelegt werden.
+<sup>3</sup> …[^133-4]
 
 [^133-1]: Angenommen an der Landsgemeinde vom 4. Mai 2008, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 28. Mai 2009 ([BBl 2009 4801](https://fedlex.data.admin.ch/eli/fga/2009/826)Art. 1 Ziff. 1, [1191](https://fedlex.data.admin.ch/eli/fga/2009/262)).
+[^133-2]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^133-3]: Angenommen an der Landsgemeinde vom 4. Mai 2025, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^133-4]: Aufgehoben an der Landsgemeinde vom 4. Mai 2025, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 2, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Vierter Abschnitt: Korporationen
 
@@ -1948,7 +1978,7 @@ Beschlussfassung, dringliche 132
 
 Bestandesänderungen, von Gemeinden 118
 
-Budget 53, 90<sup>a</sup>, 100<sup>a</sup>, 131<sup>f</sup>
+Budget 53, 90<sup>a</sup>, 100<sup>a</sup>, 131<sup>1a/b</sup>
 
 Bund
 
@@ -2089,7 +2119,9 @@ Kantonsverfassung
 
 **Kinderhorte** 38
 
-**Kirchen- und Kultusfreiheit** 7
+**Kindes-** und Erwachsenenschutzwesen 29
+
+**Kirchen**- und Kultusfreiheit 7
 
 **Kirchenrat** 128
 
@@ -2313,11 +2345,12 @@ Sozialwesen
 - – Arbeitsvermittlung 28
 - – Ausländer 30
 - – Fürsorgegemeinde 151
+- – Kindes- und Erwachsenenschutzwesen 29
 - – Schutz der Arbeitnehmer 28
 - – Soziale Sicherheit und Wohlfahrt 26
 - – Sozialhilfe 29
 - – Sozialversicherungen 27
-- – Vormundschaftswesen 29, 152
+- – Vormundschaftswesen 152
 - – Wohnungsbau 31
 
 Staat
