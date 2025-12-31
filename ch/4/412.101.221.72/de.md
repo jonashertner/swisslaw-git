@@ -3,20 +3,20 @@ sr: "412.101.221.72"
 title: Verordnung des SBFI vom 20. September 2011 über die berufliche Grundbildung Theatermalerin/Theatermaler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/810"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2011-09-20
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2011-810-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/810/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2011-810-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/810/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Theatermalerin/Theatermaler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 20. September 2011 (Stand am 1. April 2024)[^t-1]
+vom 20. September 2011 (Stand am 1. Januar 2026)[^t-1]
 
-[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst.
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2013 angepasst.
 
 <table>
 <tr><td>53107</td><td>Theatermalerin EFZ/Theatermaler EFZ Peintre en décors de théâtre CFC Pittrice di scenari AFC/Pittore di scenari AFC</td></tr>
@@ -28,10 +28,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I der V des SBFI vom 7. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 339](https://fedlex.data.admin.ch/eli/oc/2023/339)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
@@ -118,7 +118,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Mass-nahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -178,9 +178,10 @@ Der Bildungsplan legt überdies fest:
 
 **Allgemeinbildung**
 
-Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^9-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^9-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^9-2].
 
-[^9-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^9-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^9-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -285,11 +286,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualif
 
 - a. Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 36 bis 40 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
 - b. Berufskenntnisse, im Umfang von 2.5 bis 3 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich und mündlich befragt. Die mündliche Prüfung dauert höchstens 1 Stunde.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^16-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^16-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^16-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^16-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^16-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^16-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 17
 
