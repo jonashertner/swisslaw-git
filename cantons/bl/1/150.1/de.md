@@ -4,13 +4,13 @@ number: "150.1"
 title: Dekret zum Personalgesetz
 short: Personaldekret
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-28
+version: 2026-01-01
+valid_until: 2026-03-31
+version_adopted: 2025-12-10
 adopted: 2000-06-08
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.1"
-pdf: "https://bl.clex.ch/api/de/versions/4323/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4323/pdf_file"
 
 (Personaldekret)
 
-Vom 08.06.2000 (Stand 01.01.2025)
+Vom 08.06.2000 (Stand 01.01.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -70,11 +70,7 @@ beschliesst:
 
 #### § 4a
 
-**Jahresarbeitszeit der Ärztinnen und Ärzte**
-
-<sup>1</sup> In Abweichung von § 4 Abs. 1 berechnet sich die Jahresarbeitszeit für Assistenzärztinnen und Assistenzärzte und für Oberärztinnen und Oberärzte auf der Basis von 50 Stunden pro Woche. Sie ist für Teilzeitarbeitende anteilsmässig zu kürzen.
-
-<sup>2</sup> In Abweichung von § 4 Abs. 1 berechnet sich die Jahresarbeitszeit für Chefärztinnen und Chefärzte und für Leitende Ärztinnen und Leitende Ärzte auf der Basis von mindestens 50 Stunden pro Woche, richtet sich jedoch nach den betrieblichen Gegebenheiten. Sie ist für Teilzeitarbeitende anteilsmässig zu kürzen.
+**…**
 
 #### § 5
 
@@ -119,7 +115,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesamtpensum umfasst alle Anstellungen beim Kanton Basel-Landschaft.
 
-<sup>2</sup> Das Gesamtpensum der Mitarbeitenden darf in der Regel ein Vollpensum gemäss § 4 beziehungsweise für Ärztinnen und Ärzte gemäss § 4a nicht übersteigen.
+<sup>2</sup> Das Gesamtpensum der Mitarbeitenden darf in der Regel ein Vollpensum gemäss § 4 nicht übersteigen.
 
 <sup>3</sup> Ein Gesamtpensum, das ein Vollpensum bis zu maximal 10 % übersteigt, ist zulässig, wenn es arbeitsorganisatorisch bedingt ist und in der nächsten Planperiode, jedoch spätestens im folgenden Jahr ausgeglichen werden kann.
 
@@ -147,9 +143,9 @@ beschliesst:
 - b. 6 Wochen:
   - 1\. die Mitglieder des Regierungsrats;
   - 2\. die Abteilungspräsidentinnen und -präsidenten des Kantonsgerichts sowie die Landschreiberin oder der Landschreiber;
-  - 3\. die Chefärztinnen bzw. Chefärzte und Institutsleiterinnen bzw. -leiter.
+  - 3\. …
 
-<sup>2</sup> Der jährliche Ferienanspruch der leitenden Ärztinnen bzw. Ärzte und Oberärztinnen bzw. -ärzte erhöht sich auf 6 Wochen im Kalenderjahr des vollendeten 50. Altersjahres.
+<sup>2</sup> …
 
 <sup>3</sup> Die Schulleitungen der Gymnasien und der Berufsfachschulen können in den Schulferien mit Aufgaben betraut werden.
 
@@ -356,6 +352,12 @@ beschliesst:
 
 <sup>2</sup> Bei Lehrpersonen entscheidet die Bildungs-, Kultur- und Sportdirektion auf Antrag der Anstellungsbehörde.
 
+#### § 25a
+
+**Ausserordentliche Ereignisse**
+
+<sup>1</sup> Zur Entschädigung von Leistungen im Rahmen ausserordentlicher Ereignisse kann der Regierungsrat den Mitarbeitenden in den Lohnbändern 1–7 eine einmalige Prämie gewähren.
+
 ### 2.4.3 Sozialzulagen
 
 #### § 26
@@ -423,6 +425,8 @@ beschliesst:
 - c. Bahnreisen im Inland (ausserhalb des Tarifverbunds Nordwestschweiz): effektive Kosten für Fahrten der 1. Klasse, solange die Auslagen für Bahnreisen den doppelten Preis für ein 1-jähriges Halbtax-Abonnement (Preis am 1. Januar des jeweiligen Jahres) nicht übersteigen; danach werden für den darüber liegenden Betrag nur noch die Halbtax-Preise erstattet;
 - d. auswärtige Übernachtungen: effektive Kosten.
 
+<sup>4</sup> Entwicklungsmassnahmen für einzelne Mitglieder des Regierungsrats werden durch die jeweilige Direktion finanziert, solche für den Gesamtregierungsrat durch das Personalamt.
+
 #### § 32
 
 **Andere Sonderregelungen**
@@ -440,20 +444,11 @@ beschliesst:
 
 <sup>1 <sup>ter</sup></sup> Den Abteilungspräsidentinnen und -präsidenten des Kantonsgerichts sowie der Landschreiberin oder dem Landschreiber werden 12 Monatslöhne ohne Anspruch auf das 13. Monatsgehalt gemäss Anhang 2 Ziff. 2, Ansatz A 4.3, ausgerichtet.
 
-<sup>2</sup> Den Chefärztinnen und Chefärzten der kantonalen Krankenanstalten werden 13 Monatslöhne gemäss Anhang 2 Ziff. 2 ausgerichtet:
+<sup>2</sup> …
 
-- a. operierende Chefärztinnen/Chefärzte — Ansätze B 1,
-- b. nicht operierende Chefärztinnen/Chefärzte — Ansätze B 2,
-- c. Institutsleiterinnen/Institutsleiter — Ansätze B 3.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>2<sup>bis</sup></sup> Den Leitenden Ärztinnen und Leitenden Ärzten der Kantonsspitäler und Kantonalen Psychiatrischen Dienste werden 13 Monatslöhne gemäss Anhang 2 Ziff. 2 ausgerichtet:
-
-- a. operierende Leitende Ärztinnen/Leitende Ärzte — 80 % der Ansätze B 1,
-- b. nicht operierende Leitende Ärztinnen/Leitende Ärzte — 80 % der Ansätze B 2,
-- c. Institutsleiterinnen/Institutsleiter — 80 % der Ansätze B 3,
-- d. Leitende Ärztinnen/Leitende Ärzte ohne vergütungsberechtigte Nebentätigkeit — 80 % der Ansätze B 2.
-
-<sup>2<sup>ter</sup></sup> Den Chefärztinnen und Chefärzten sowie den Leitenden Ärztinnen und Leitenden Ärzten der Kantonsspitäler und Kantonalen Psychiatrischen Dienste mit vergütungsberechtigter Nebentätigkeit kann ein nichtindexierter Leistungsanteil ausgerichtet werden.
+<sup>2<sup>ter</sup></sup> …
 
 <sup>2<sup>quater</sup></sup> ...
 
@@ -485,6 +480,8 @@ beschliesst:
 <sup>4</sup> Der Maximallohn wird in 3 degressiven Stufen von 50, 30 und 20 % der Differenz zwischen Minimal- und Maximallohn erreicht.
 
 <sup>5</sup> Der Stufenanstieg wird ausschliesslich auf Beginn einer weiteren Amtsperiode gewährt.
+
+<sup>5<sup>bis</sup></sup> Bei Amtsantritt während einer laufenden Amtsperiode wird der Stufenanstieg nur gewährt, sofern das Amt spätestens am Tag des Beginns der 2. Hälfte der Amtsperiode angetreten wird.
 
 <sup>6</sup> Der Regierungsrat kann die Umwandlung des 13. Teils des Jahresgehalts in Urlaub entsprechend § 22 bewilligen.
 
@@ -680,7 +677,9 @@ beschliesst:
 
 <sup>1</sup> Der Landrat beschliesst jährlich per 1. Januar über den Ausgleich der Teuerung.
 
-<sup>2</sup> Der Regierungsrat stellt dem Landrat nach Verhandlung mit der Arbeitsgemeinschaft der Personalverbände Antrag über die Höhe des Teuerungsausgleichs. Orientierungsgrösse für die Verhandlungen des Regierungsrats mit den Personalverbänden ist der gemittelte Landesindex der Konsumentenpreise von Oktober des Vorjahres bis September des Jahres, das dem Vollzug des Teuerungsausgleichs vorangeht. Als weitere Beurteilungsgrössen sind die finanzielle Situation des Kantons und die wirtschaftliche Entwicklung im Umfeld miteinzubeziehen.
+<sup>2</sup> Der Regierungsrat stellt dem Landrat nach Anhörung der Arbeitsgemeinschaft der Personalverbände Antrag über die Höhe des Teuerungsausgleichs. Grundlage ist die prozentuale Veränderung der gemittelten Landesindices der Konsumentenpreise von Oktober des Vorjahres bis September des Jahres, das dem Teuerungsausgleich vorausgeht, sowie der davor liegenden 12-Monate-Periode.
+
+<sup>2<sup>bis</sup></sup> Der berechnete Wert kann aufgrund der finanziellen Situation des Kantons oder der wirtschaftlichen Entwicklung im Umfeld reduziert werden.
 
 <sup>3</sup> Mit dem Beschluss über den Teuerungsausgleich ermächtigt der Landrat den Regierungsrat, die Lohntabellen im Anhang 2 des Personaldekrets entsprechend zu ändern und per 1. Januar des folgenden Jahres in Kraft zu setzen.
 
