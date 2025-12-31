@@ -3,13 +3,12 @@ canton: BS
 number: RiE 440.100
 title: Reglement für die Gemeindebibliothek Riehen
 language: de
-version: 2018-05-01
-valid_until: 2025-12-31
-version_adopted: 2018-04-17
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 1999-02-16
 in_force: 1999-03-04
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20440.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4419/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6693/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4419/pdf_file"
 
 Gemeindebibliothek: Reglement | Riehen: Einwohnergemeinde
 
-Vom 16. Februar 1999 (Stand 1. Mai 2018)
+Vom 16. Februar 1999 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen,
 
@@ -54,7 +53,7 @@ beschliesst:
 
 <sup>1</sup> Der Gemeinderat wählt, auf seine eigene Amtsdauer, eine Bibliothekskommission.
 
-<sup>2</sup> Die Kommission besteht aus einem Präsidium, einem Vizepräsidium und sechs weiteren Mitgliedern.
+<sup>2</sup> Die Kommission besteht aus einem Präsidium, einem Vizepräsidium und mindestens fünf weiteren Mitgliedern.
 
 <sup>3</sup> Das Präsidium wird ex officio vom zuständigen Mitglied des Gemeinderats ausgeübt. Die Bibliotheksleitung hat das Vizepräsidium ex officio. Sie ist stimmberechtigt.
 
@@ -63,6 +62,8 @@ beschliesst:
 <sup>5</sup> Die Leitungen der Geschäftsstellen wohnen den Sitzungen mit beratender Stimme bei.
 
 <sup>6</sup> Die Kommission tritt auf Einladung des Präsidiums so oft zusammen, als es die Geschäfte erfordern, mindestens einmal jährlich. Sie ist bei Anwesenheit von fünf Mitgliedern beschlussfähig.
+
+<sup>7</sup> Das Sekretariat wird durch die zuständige Verwaltungsabteilung sichergestellt.
 
 #### § 4
 
