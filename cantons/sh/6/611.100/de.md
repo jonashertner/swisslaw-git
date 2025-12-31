@@ -3,20 +3,19 @@ canton: SH
 number: "611.100"
 title: Finanzhaushaltsgesetz
 language: de
-version: 2024-12-31
-valid_until: 2025-12-31
-version_adopted: 2025-03-31
+version: 2026-01-01
+version_adopted: 2025-09-08
 adopted: 2017-02-20
 in_force: 2018-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/611.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1999/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2056/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Finanzhaushaltsgesetz
 
-Vom 20.02.2017 (Stand 31.12.2024)
+Vom 20.02.2017 (Stand 01.01.2026)
 
 Der Kantonsrat Schaffhausen
 
@@ -32,11 +31,13 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz regelt die Haushaltführung von Kanton und Gemeinden.
 
-<sup>2</sup> Es gilt für die kantonale Verwaltung, für den Kantonsrat, für die Gerichte und unter Vorbehalt abweichender gesetzlicher Bestimmungen zur Rechnungslegung für die selbständigen und unselbständigen Verwaltungsorganisationen des kantonalen öffentlichen Rechts.
+<sup>2</sup> Es gilt für die kantonale Verwaltung, den Regierungsrat, den Kantonsrat und die Gerichte.
 
-<sup>3</sup> Es gilt unter Vorbehalt abweichender kantonaler Bestimmungen auch für die Gemeinden.
+<sup>3</sup> Es gilt unter Vorbehalt abweichender kantonaler Bestimmungen auch für die Gemeindeorgane.
 
-<sup>4</sup> Für die Anstalten des kommunalen Rechts, die Zweckverbände und die übrigen der Zusammenarbeit der Gemeinden dienenden öffentlich-rechtlichen Organisationen gilt dieses Gesetz, soweit nicht besondere Bestimmungen gelten. Diese bedürfen der Genehmigung des für Gemeindeangelegenheiten zuständigen Departementes.
+<sup>4</sup> Für die selbständigen und unselbständigen Verwaltungsorganisationen des kantonalen oder kommunalen Rechts gilt dieses Gesetz, soweit nicht besondere Bestimmungen in einem dem Referendum unterstehenden kantonalen oder kommunalen Spezialgesetz vorgesehen sind. Die Rechnungslegung hat dabei stets nach allgemeinen, anerkannten Schweizer Standards zu erfolgen. Die Haushaltsführung mit Globalbudget und Leistungsaufträgen kann vorgesehen werden.
+
+<sup>5</sup> Kommunale Erlasse gemäss Abs. 4 bedürfen der Genehmigung des für Gemeindeangelegenheiten zuständigen Departementes.
 
 #### Art. 2
 
@@ -402,6 +403,8 @@ beschliesst:
 
 <sup>4</sup> Rückstellungen werden gebildet für bestehende Verpflichtungen, bei denen der Zeitpunkt der Erfüllung oder die Höhe des künftigen Mittelabflusses mit Unsicherheiten behaftet ist.
 
+<sup>5</sup> Für Leistungen an den Ressourcenausgleich des NFA, die auf Basis des Rechnungsjahrs (Bemessungsjahr des Ressourcenpotential) zu entrichten sind, sind Rückstellungen bis in maximal prognostizierter Höhe zu bilden.
+
 #### Art. 30
 
 **Bewertung des Fremdkapitals und des Finanzvermögens**
@@ -551,7 +554,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt die für den Vollzug dieses Gesetzes erforderlichen Ausführungsbestimmungen. Soweit er für die Gemeinden keine Vorgaben trifft, können diese eigene Ausführungsbestimmungen erlassen.
 
-<sup>2</sup> Der Regierungsrat bezeichnet das anzuwendende Regelwerk.
+<sup>2</sup> Anzuwendendes Regelwerk für die Rechnungslegung ist das Harmonisierte Rechnungsmodell für die Kantone und Gemeinden (HRM2) in der jeweilig gültigen Fassung. Gesetzliche Regelungen gehen HRM2 vor. Der Regierungsrat kann in begründeten Ausnahmefällen von HRM2 abweichen, er muss die Abweichungen im Anhang zur Jahresrechnung offenlegen und begründen.
 
 <sup>3</sup> Für den Kanton erlässt das Finanzdepartement die erforderlichen Weisungen zum Finanzwesen, soweit dies nicht dem Regierungsrat zusteht, insbesondere zur fachlichen, organisatorischen und technischen Ausgestaltung der Buchführung, die den Verwaltungseinheiten übertragen ist.
 
