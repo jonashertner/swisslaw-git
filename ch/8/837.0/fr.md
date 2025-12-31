@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2025-09-27
+version: 2026-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20250927/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20250927-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20250927/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20250927/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (État le 27 septembre 2025)
+du 25 juin 1982 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -317,11 +317,12 @@ Est réputé partiellement sans emploi celui qui:
 
 <sup>1</sup> La perte de travail n’est pas prise en considération tant que des prestations volontaires versées par l’employeur couvrent la perte de revenu résultant de la résiliation des rapports de travail.
 
-<sup>2</sup> Les prestations volontaires de l’employeur ne sont prises en compte que pour la part qui dépasse le montant maximum visé à l’art. 3, al. 2.
+<sup>2</sup> Les prestations volontaires de l’employeur ne sont prises en compte que pour la part qui dépasse le montant maximal annuel du gain assuré dans l’assurance-accidents obligatoire.[^11a-2]
 
 <sup>3</sup> Le Conseil fédéral règle les exceptions lorsque les prestations volontaires sont affectées à la prévoyance professionnelle.
 
 [^11a-1]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^11a-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 
 #### Art. 12
 
@@ -418,7 +419,7 @@ Sont libérées des conditions relatives à la période de cotisation les person
 
 <sup>2</sup>
 
-N’est pas réputé convenable et, par conséquent, est exclu de l’obligation d’être accepté, tout travail qui:
+N’est pas réputé convenable, et par conséquent est exclu de l’obligation d’être accepté, tout travail qui:[^16-2]
 
 - a. n’est pas conforme aux usages professionnels et locaux et, en particulier, ne satisfait pas aux conditions des conventions collectives ou des contrats-type de travail;
 - b. ne tient pas raisonnablement compte des aptitudes de l’assuré ou de l’activité qu’il a précédemment exercée;
@@ -428,15 +429,17 @@ N’est pas réputé convenable et, par conséquent, est exclu de l’obligation
 - f. nécessite un déplacement de plus de deux heures pour l’aller et de plus de deux heures pour le retour et qui n’offre pas de possibilités de logement appropriées au lieu de travail, ou qui, si l’assuré bénéficie d’une telle possibilité, ne lui permet de remplir ses devoirs envers ses proches qu’avec de notables difficultés;
 - g. exige du travailleur une disponibilité sur appel constante dépassant le cadre de l’occupation garantie;
 - h. doit être exécuté dans une entreprise qui a procédé à des licenciements aux fins de réengagement ou à de nouveaux engagements à des conditions nettement plus précaires, ou
-- i. procure à l’assuré une rémunération qui est inférieure à 70 % du gain assuré, sauf si l’assuré touche des indemnités compensatoires conformément à l’art. 24 (gain intermédiaire); l’office régional de placement peut exceptionnellement, avec l’approbation de la commission tripartite, déclarer convenable un travail dont la rémunération est inférieure à 70 % du gain assuré.
+- i.[^16-3] procure à l’assuré une rémunération qui est inférieure à 70 % du gain assuré, sauf si l’assuré touche des indemnités compensatoires conformément à l’art. 24; l’autorité cantonale peut exceptionnellement, avec l’approbation de la commission tripartite, déclarer convenable un travail dont la rémunération est inférieure à 70 % du gain assuré.
 
-<sup>3</sup> L’al. 2, let. a, ne s’applique pas à l’assuré dont la capacité de travail est réduite.[^16-2] L’assuré ne peut être contraint d’accepter un travail dont la rémunération est inférieure à ce qu’elle devrait être compte tenu de la réduction de sa capacité de travail.
+<sup>3</sup> L’al. 2, let. a, ne s’applique pas à l’assuré dont la capacité de travail est réduite.[^16-4] L’assuré ne peut être contraint d’accepter un travail dont la rémunération est inférieure à ce qu’elle devrait être compte tenu de la réduction de sa capacité de travail.
 
-<sup>3bis</sup> L’al. 2, let. b, ne s’applique pas aux personnes de moins de 30 ans.[^16-3]
+<sup>3bis</sup> L’al. 2, let. b, ne s’applique pas aux personnes de moins de 30 ans.[^16-5]
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^16-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^16-3]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^16-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^16-3]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^16-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^16-5]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 17
 
@@ -559,30 +562,31 @@ L’indemnité de chômage est versée sous forme d’indemnités journalières.
 
 <sup>1</sup>
 
-L’indemnité journalière pleine et entière s’élève à 80 % du gain assuré. L’assuré perçoit en outre un supplément qui correspond au montant, calculé par jour, de l’allocation pour enfant et l’allocation de formation professionnelle légales auxquelles il aurait droit s’il avait un emploi. Ce supplément n’est versé qu’aux conditions suivantes:
+L’indemnité journalière pleine et entière s’élève à 80 % du gain assuré. L’assuré perçoit en outre un supplément qui correspond au montant, calculé par jour, des allocations familiales prévues à l’art. 3, al. 1, de la loi du 24 mars 2006 sur les allocations familiales[^22-1] auxquelles il aurait droit s’il avait un emploi. Ce supplément est versé uniquement si les conditions suivantes sont remplies:
 
-- a. les allocations ne sont pas versées à l’assuré durant la période de chômage;
-- b. aucune personne exerçant une activité lucrative ne peut faire valoir de droit aux allocations pour ce même enfant.[^22-1]
+- a. les allocations familiales ne sont pas versées à l’assuré durant la période de chômage;
+- b. aucune personne exerçant une activité lucrative ne peut faire valoir de droit aux allocations familiales pour le même enfant.[^22-2]
 
 <sup>2</sup>
 
-Une indemnité journalière s’élevant à 70 % du gain assuré est octroyée aux assurés qui:[^22-2]
+Une indemnité journalière s’élevant à 70 % du gain assuré est octroyée aux assurés qui:[^22-3]
 
-- a.[^22-3] n’ont pas d’obligation d’entretien envers des enfants de moins de 25 ans;
-- b.[^22-4] bénéficient d’une indemnité journalière entière dont le montant dépasse 140 francs;
-- c.[^22-5] ne touchent pas une rente d’invalidité correspondant à un taux d’invalidité d’au moins 40 %.
+- a.[^22-4] n’ont pas d’obligation d’entretien envers des enfants de moins de 25 ans;
+- b.[^22-5] bénéficient d’une indemnité journalière entière dont le montant dépasse 140 francs;
+- c.[^22-6] ne touchent pas une rente d’invalidité correspondant à un taux d’invalidité d’au moins 40 %.
 
-<sup>3</sup> Le Conseil fédéral adapte le taux minimum fixé à l’al. 2, let. b, en règle générale tous les deux ans avec effet au début de l’année civile, conformément aux principes qui régissent l’AVS.[^22-6]
+<sup>3</sup> Le Conseil fédéral adapte le taux minimum fixé à l’al. 2, let. b, en règle générale tous les deux ans avec effet au début de l’année civile, conformément aux principes qui régissent l’AVS.[^22-7]
 
-<sup>4 et <sup>5</sup></sup> …[^22-7]
+<sup>4 et <sup>5</sup></sup> …[^22-8]
 
-[^22-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^22-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^22-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^22-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^22-5]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^22-6]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^22-7]: Abrogés par le ch. I de la LF du 23 juin 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^22-1]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^22-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^22-3]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^22-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^22-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^22-6]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^22-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^22-8]: Abrogés par le ch. I de la LF du 23 juin 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 
 #### Art. 22a
 
@@ -690,9 +694,9 @@ L’assuré a droit à:
 
 <sup>4</sup> Les personnes libérées des conditions relatives à la période de cotisation ont droit à 90 indemnités journalières au plus.[^27-6]
 
-<sup>5</sup> Les personnes qui, en vertu de l’art. 14, al. 2, sont contraintes d’exercer une activité salariée ou d’étendre une activité salariée en raison de la suppression de leur rente d’invalidité ont droit à 180 indemnités journalières au plus.[^27-7]
+<sup>5</sup> Les personnes qui, en vertu de l’art. 14, al. 2, sont contraintes d’exercer une activité salariée ou d’étendre une activité salariée en raison de la suppression de leur rente d’invalidité au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^27-7] ont droit à 180 indemnités journalières au plus.[^27-8]
 
-<sup>5bis</sup> Les personnes âgées de moins de 25 ans qui n’ont pas d’obligation d’entretien envers des enfants ont droit à 200 indemnités journalières au plus.[^27-8]
+<sup>5bis</sup> Les personnes âgées de moins de 25 ans qui n’ont pas d’obligation d’entretien envers des enfants ont droit à 200 indemnités journalières au plus.[^27-9]
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 495](https://fedlex.data.admin.ch/eli/oc/2012/73); [FF 2011 6695](https://fedlex.data.admin.ch/eli/fga/2011/1177)[6703](https://fedlex.data.admin.ch/eli/fga/2011/1179)).
@@ -700,8 +704,9 @@ L’assuré a droit à:
 [^27-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-5]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (AVS 21), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5979](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^27-6]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-7]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^27-8]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-7]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^27-8]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^27-9]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 28
 
@@ -1372,7 +1377,7 @@ L’assurance accorde en outre:
 
 **…[^60-2]**[^60-1]
 
-<sup>1</sup> Sont notamment réputés mesures de formation les cours individuels ou collectifs de reconversion, de formation continue ou d’intégration, la participation à des entreprises d’entraînement et les stages de formation.[^60-3]
+<sup>1</sup> Sont notamment réputés mesures de formation les cours individuels ou collectifs de reconversion, de formation continue ou d’intégration, la participation à des entreprises de pratique commerciale et les stages de formation.[^60-3]
 
 <sup>2</sup>
 
@@ -1389,7 +1394,7 @@ Peuvent demander des prestations de l’assurance-chômage pour la participation
 
 [^60-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^60-2]: Abrogé par le ch. I de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^60-3]: Nouvelle teneur selon l’annexe ch. 40 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^60-3]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862))..
 [^60-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-5]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^60-6]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Indemnité en cas de réduction de l’horaire de travail pour les formateurs), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
@@ -1418,11 +1423,11 @@ Peuvent demander des prestations de l’assurance-chômage pour la participation
 
 <sup>1</sup>
 
-Sont réputés mesures d’emploi notamment les emplois temporaires qui entrent dans le cadre de:
+Sont notamment réputés mesures d’emploi les emplois temporaires qui entrent dans le cadre de:[^64a-1]
 
 - a. programmes organisés par des institutions publiques ou privées à but non lucratif; ces programmes ne doivent toutefois pas faire directement concurrence à l’économie privée;
-- b.[^64a-1] stages professionnels dans une entreprise ou une administration; en cas de chômage élevé, le Conseil fédéral peut prévoir la participation des personnes subissant le délai d’attente visé à l’art. 18, al. 2, à de tels stages;
-- c.[^64a-2] semestres de motivation destinés aux assurés cherchant une place de formation au terme de leur scolarité obligatoire pour autant qu’ils n’aient achevé aucune formation professionnelle et ne soient pas titulaires d’une maturité.
+- b.[^64a-2] stages professionnels dans une entreprise ou une administration publique; le Conseil fédéral peut prévoir la participation des personnes soumises à un délai d’attente visé à l’art. 18, al. 2, à de tels stages;
+- c.[^64a-3] semestres de motivation destinés aux assurés cherchant une place de formation au terme de leur scolarité obligatoire pour autant qu’ils n’aient achevé aucune formation professionnelle et ne soient pas titulaires d’une maturité.
 
 <sup>2</sup> L’art. 16, al. 2, let. c, s’applique par analogie à l’exercice d’un emploi temporaire au sens de l’al. 1, let. a.
 
@@ -1430,11 +1435,12 @@ Sont réputés mesures d’emploi notamment les emplois temporaires qui entrent 
 
 <sup>4</sup> Les art. 16, al. 2, let. c, et 59*d*, al. 1, s’appliquent par analogie à l’exercice d’un emploi temporaire au sens de l’al. 1, let. c.
 
-<sup>5</sup> Le Conseil fédéral fixe le montant de la contribution mensuelle versée aux personnes qui participent à un semestre de motivation pendant le délai d’attente.[^64a-3]
+<sup>5</sup> Le Conseil fédéral fixe le montant de la contribution mensuelle versée aux personnes qui participent à un semestre de motivation pendant le délai d’attente.[^64a-4]
 
-[^64a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^64a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^64a-3]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^64a-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^64a-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^64a-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^64a-4]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 64b
 
@@ -1480,18 +1486,17 @@ Les assurés dont le placement est difficile et qui, accomplissant une initiatio
 
 <sup>2</sup> Pendant le délai-cadre, les allocations sont versées pour six mois au plus, dans des cas exceptionnels, pour douze mois au plus.[^66-2]
 
-<sup>2bis</sup> Les assurés âgés de 50 ans ou plus ont droit aux allocations d’initiation au travail pendant douze mois.[^66-3]
+<sup>2bis</sup> Les assurés dès 50 ans révolus ont droit aux allocations d’initiation au travail pendant douze mois au plus.[^66-3]
 
-<sup>3</sup> Les allocations d’initiation au travail sont réduites d’un tiers de leur montant initial après chaque tiers de la durée de la mise au courant prévue, mais au plus tôt après deux mois. Pour les assurés âgés de 50 ans ou plus, elles sont réduites d’un tiers de leur montant initial à partir du mois qui suit la première moitié de la durée prévue.[^66-4] [^66-5]
+<sup>3</sup> Les allocations d’initiation au travail sont réduites d’un tiers de leur montant initial après chaque tiers de la période d’initiation prévue, mais au plus tôt après deux mois. Pour les assurés dès 50 ans révolus, elles sont réduites d’un tiers de leur montant initial à partir du mois qui suit la première moitié de la durée prévue.[^66-4]
 
-<sup>4</sup> Les allocations sont versées par l’intermédiaire de l’employeur, en complément du salaire convenu. L’employeur doit payer les cotisations usuelles aux assurances sociales sur l’intégralité du salaire et prélever la part du travailleur.[^66-6]
+<sup>4</sup> Les allocations sont versées par l’intermédiaire de l’employeur, en complément du salaire convenu. L’employeur doit payer les cotisations usuelles aux assurances sociales sur l’intégralité du salaire et prélever la part du travailleur.[^66-5]
 
 [^66-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^66-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^66-3]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^66-4]: Phrase introduite par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^66-3]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^66-4]: Introduit par le ch. I de la LF du 5 oct. 1990 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)). Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^66-5]: Introduit par le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
-[^66-6]: Introduit par le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 
 #### Art. 66a
 
@@ -1781,10 +1786,10 @@ Sont chargés de l’application du régime de l’assurance:
 
 <sup>2</sup> Les caisses ne sont pas dotées de la personnalité juridique; elles traitent cependant avec l’extérieur en leur propre nom et ont qualité pour agir en justice.
 
-<sup>3</sup> Tous les mouvements de trésorerie d’une caisse privée, à l’exception des paiements en espèces, doivent s’effectuer par la voie de comptes bancaires ou de chèques postaux servant exclusivement à cette fin.[^79-2] En cas de faillite du fondateur, les avoirs déposés sur ces comptes ne sont pas compris dans la masse en faillite. L’art. 242 de la LP[^79-3] s’applique par analogie.
+<sup>3</sup> Tous les mouvements de trésorerie d’une caisse de chômage privée doivent s’effectuer par la voie de comptes bancaires ou postaux servant exclusivement à cette fin.[^79-2] En cas de faillite du fondateur, les avoirs déposés sur ces comptes ne sont pas compris dans la masse en faillite. L’art. 242 de la LP[^79-3] s’applique par analogie.
 
 [^79-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^79-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^79-2]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^79-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 80
@@ -1883,26 +1888,27 @@ L’organe de compensation:
 - g. attribue aux caisses les ressources nécessaires tirées du fonds de compensation en vertu des prescriptions de la présente loi et de l’ordonnance;
 - h.[^83-5] prend des mesures pour empêcher le versement de prestations injustifiées et engage à cet effet des inspecteurs extraordinaires en cas de chômage important et persistant;
 - i.[^83-6] …
-- k.[^83-7] prend les décisions visées à l’art. 59*c*, al. 3, et verse les subventions prévues aux art. 62 et 64*b*;
+- j.[^83-7] publie chaque année les indicateurs de prestations des caisses;
+- k.[^83-8] prend les décisions visées à l’art. 59*c*, al. 3, et verse les subventions prévues aux art. 62 et 64*b*;
 - l. surveille les décisions des autorités cantonales;
-- m.[^83-8] décide de la prise en compte des frais d’administration des caisses, des autorités cantonales, des offices régionaux de placement et des services de logistique des mesures relatives au marché du travail;
+- m.[^83-9] décide de la prise en compte des frais d’administration des caisses, des autorités cantonales, des offices régionaux de placement et des services de logistique des mesures relatives au marché du travail;
 - n. assure la coordination avec les autres assurances sociales;
-- n<sup>bis</sup>.[^83-9] assure avec les cantons la coordination au sein du réseau EURES (European Employment Services) en vertu de l’art. 11 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^83-10] (accord sur la libre circulation des personnes);
-- o.[^83-11] …
-- p.[^83-12] coordonne l’exécution des mesures relatives au marché du travail et peut en préparer la conception;
-- q.[^83-13] prend des mesures pour appliquer l’art. 59*a*;
-- r.[^83-14] tranche, en dérogation à l’art. 35 LPGA[^83-15], les litiges en matière de compétence territoriale des autorités cantonales;
-- s.[^83-16] statue sur les cas visés à l’art. 31, al. 1<sup>bis</sup>, que lui soumettent les autorités cantonales.
+- n<sup>bis</sup>.[^83-10] assure avec les cantons la coordination au sein du réseau EURES (European Employment Services) en vertu de l’art. 11 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^83-11] (accord sur la libre circulation des personnes);
+- o.[^83-12] …
+- p.[^83-13] coordonne l’exécution des mesures relatives au marché du travail et peut en préparer la conception;
+- q.[^83-14] prend des mesures pour appliquer l’art. 59*a*;
+- r.[^83-15] tranche, en dérogation à l’art. 35 LPGA[^83-16], les litiges en matière de compétence territoriale des autorités cantonales;
+- s.[^83-17] statue sur les cas visés à l’art. 31, al. 1<sup>bis</sup>, que lui soumettent les autorités cantonales.
 
 <sup>1bis</sup>
 
 Pour accomplir des tâches légales et établir des statistiques, l’organe de compensation gère des systèmes d’information servant:
 
 - a. au paiement des prestations de l’assurance-chômage;
-- b. au placement public (art. 35, al. 1, let. a, de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services [LSE][^83-17]);
+- b. au placement public (art. 35, al. 1, let. a, de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services [LSE][^83-18]);
 - c. à l’analyse des données du marché du travail;
 - d. à l’exploitation de la plateforme d’accès aux services en ligne destinée aux personnes mentionnées à l’art. 96*c*, al. 1<sup>quater</sup>;
-- e. à l’exploitation de la plateforme du service public de l’emploi (art. 35, al. 1, let. b, LSE).[^83-18]
+- e. à l’exploitation de la plateforme du service public de l’emploi (art. 35, al. 1, let. b, LSE).[^83-19]
 
 <sup>2</sup>
 
@@ -1910,10 +1916,10 @@ L’organe de compensation soumet à la commission de surveillance:
 
 - a. le compte d’exploitation, le compte de la fortune du fonds de compensation et le rapport annuel qu’elle transmettra accompagnés de son préavis au Conseil fédéral;
 - b. d’autres décomptes périodiques;
-- c.[^83-19] des rapports périodiques concernant le contrôle de la gestion, la révision des paiements effectués par les caisses et les décisions des autorités cantonales en matière de mesures relatives au marché du travail;
-- d.[^83-20] les demandes de subventions visant à promouvoir la recherche en matière de marché de l’emploi (art. 73);
-- e.[^83-21] les rapports exigés à l’art. 59*c*, al. 3;
-- f.[^83-22] le budget et les comptes du centre informatique.
+- c.[^83-20] des rapports périodiques concernant le contrôle de la gestion, la révision des paiements effectués par les caisses et les décisions des autorités cantonales en matière de mesures relatives au marché du travail;
+- d.[^83-21] les demandes de subventions visant à promouvoir la recherche en matière de marché de l’emploi (art. 73);
+- e.[^83-22] les rapports exigés à l’art. 59*c*, al. 3;
+- f.[^83-23] le budget et les comptes du centre informatique.
 
 <sup>3</sup> L’organe de compensation est administré par le SECO.
 
@@ -1923,22 +1929,23 @@ L’organe de compensation soumet à la commission de surveillance:
 [^83-4]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^83-5]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^83-6]: Abrogée par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^83-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-7]: Introduite par le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^83-8]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-9]: Introduite par l’art. 2 ch. 15 de l’AF du 17 déc. 2004 (extension de l’Ac. sur la libre circulation des personnes aux nouveaux Etats membres de la CE et mesures d’accompagnement) ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)). Nouvelle teneur selon l’annexe ch. 10 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^83-10]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^83-11]: Introduite par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Abrogée par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^83-12]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^83-9]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-10]: Introduite par l’art. 2 ch. 15 de l’AF du 17 déc. 2004 (extension de l’Ac. sur la libre circulation des personnes aux nouveaux Etats membres de la CE et mesures d’accompagnement) ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)). Nouvelle teneur selon l’annexe ch. 10 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^83-11]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^83-12]: Introduite par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Abrogée par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^83-13]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^83-14]: Introduite par l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^83-15]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^83-16]: Introduite par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-17]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
-[^83-18]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^83-19]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-14]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^83-15]: Introduite par l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^83-16]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^83-17]: Introduite par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-18]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^83-19]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^83-20]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^83-21]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-22]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^83-22]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-23]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 
 #### Art. 83a
 
@@ -1982,21 +1989,22 @@ Les autorités cantonales:
 - d. vérifient l’aptitude des chômeurs à être placés;
 - e.[^85-2] statuent sur les cas qui leur sont soumis par les caisses en vertu des art. 81, al. 2, et 95, al. 3;
 - f. exécutent les prescriptions de contrôle édictées par le Conseil fédéral;
-- g. suspendent l’exercice du droit à l’indemnité dans les cas prévus à l’art. 30, al. 2 et 4, et restreignent le droit à l’indemnité en cas de réduction de l’horaire de travail ou à l’indemnité en cas d’intempéries (art. 41, al. 5 et 50);
-- h.[^85-3] se prononcent sur les demandes de subvention concernant les mesures relatives au marché travail (art. 59*c*, al. 3) et veillent à ce que l’offre en la matière soit suffisante et en adéquation avec les besoins;
-- i.[^85-4] exercent les autres attributions que leur confère la loi, notamment les art. 36, al. 4, 45, al. 4, et 59*c*, al. 2;
-- j.[^85-5] font rapport périodiquement au fonds de compensation, à l’intention de la commission de surveillance, sur leurs décisions en matière de mesures relatives au marché travail;
-- k.[^85-6] présentent périodiquement à l’organe de compensation, conformément aux directives de celui-ci et à l’intention de la commission de surveillance, le compte des frais d’administration de l’autorité cantonale, des offices régionaux de placement et du service de logistique des mesures relatives au marché du travail.
+- g.[^85-3] suspendent le droit des assurés à l’indemnité dans les cas prévus à l’art. 30, al. 2 et 4;
+- h.[^85-4] se prononcent sur les demandes de subvention concernant les mesures relatives au marché travail (art. 59*c*, al. 3) et veillent à ce que l’offre en la matière soit suffisante et en adéquation avec les besoins;
+- i.[^85-5] exercent les autres attributions que leur confère la loi, notamment les art. 36, al. 4, 45, al. 4, et 59*c*, al. 2;
+- j.[^85-6] font rapport périodiquement au fonds de compensation, à l’intention de la commission de surveillance, sur leurs décisions en matière de mesures relatives au marché travail;
+- k.[^85-7] présentent périodiquement à l’organe de compensation, conformément aux directives de celui-ci et à l’intention de la commission de surveillance, le compte des frais d’administration de l’autorité cantonale, des offices régionaux de placement et du service de logistique des mesures relatives au marché du travail.
 
-<sup>2</sup> …[^85-7]
+<sup>2</sup> …[^85-8]
 
 [^85-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^85-2]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^85-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-3]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^85-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^85-5]: Introduite par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^85-6]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^85-7]: Abrogé par le ch. I de la LF du 23 juin 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^85-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-6]: Introduite par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-8]: Abrogé par le ch. I de la LF du 23 juin 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 
 #### Art. 85a
 
@@ -2014,11 +2022,11 @@ Les autorités cantonales:
 
 <sup>3</sup> Les cantons annoncent à l’organe de compensation les tâches et compétences attribuées à l’office régional de placement.
 
-<sup>4</sup> Le Conseil fédéral fixe les exigences professionnelles auxquelles doit répondre la personne responsable du service public de l’emploi.[^85b-3]
+<sup>4</sup> Le Conseil fédéral fixe les exigences professionnelles auxquelles doivent répondre les personnes chargées du service public de l’emploi.[^85b-3]
 
 [^85b-1]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^85b-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^85b-3]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85b-3]: Introduit par le ch. I de la LF du 22 mars 2002 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 
 #### Art. 85c
 
@@ -2291,28 +2299,29 @@ Si les moyens prévus à l’art. 90 ne suffisent pas pour couvrir les dépenses
 
 <sup>5</sup> Les frais de la commission de surveillance sont à la charge du fonds de compensation.[^92-3]
 
-<sup>6</sup> Le fonds de compensation rembourse aux fondateurs des caisses les frais à prendre en compte qui résultent de l’accomplissement des tâches prévues à l’art. 81. Sur proposition de la commission de surveillance, le Conseil fédéral fixe les frais à prendre en compte. Il prend en compte les frais fixes de façon équitable en vue de compenser les fluctuations du marché du travail, ainsi que le risque de responsabilité (art. 82). Les frais à prendre en compte sont remboursés en fonction des prestations fournies. Le DEFR peut conclure des accords de prestations avec les fondateurs.[^92-4]
+<sup>6</sup> Le fonds de compensation rembourse aux fondateurs des caisses les frais à prendre en compte qui résultent de l’accomplissement des tâches prévues à l’art. 81. Sur proposition de la commission de surveillance, le Conseil fédéral fixe les frais à prendre en compte. Il prend en compte les frais fixes de façon équitable en vue de compenser les fluctuations du marché du travail, ainsi que le risque de responsabilité (art. 82). Les frais à prendre en compte sont remboursés sur la base d’un système de bonus-malus en fonction des prestations fournies.[^92-4] Le DEFR peut conclure des accords de prestations avec les fondateurs.[^92-5]
 
-<sup>7</sup> Le fonds de compensation rembourse aux cantons les frais à prendre en compte qui leur incombent dans le cadre du service public de l’emploi, pour l’exécution des tâches prévues aux art. 83, al. 1, let. n<sup>bis</sup>, et 85, al. 1, let. d, e et g à k, l’exploitation des offices régionaux de placement conformément à l’art. 85*b* et l’exploitation des services de logistique des mesures relatives au marché du travail conformément à l’art. 85*c*.[^92-5] Sur proposition de la commission de surveillance, le Conseil fédéral fixe les frais à prendre en compte. Il prend en compte, de façon équitable, les frais fixes permettant de faire face aux fluctuations du marché du travail, le risque de responsabilité (art. 85*g*) et les frais additionnels temporaires générés par la collaboration intercantonale (art. 85*e*) et interinstitutionnelle (art. 85*f*). Les frais à prendre en compte sont remboursés en fonction des résultats des prestations fournies. Le DEFR peut conclure des accords de prestations avec les cantons.[^92-6]
+<sup>7</sup> Le fonds de compensation rembourse aux cantons les frais à prendre en compte qui leur incombent dans le cadre du service public de l’emploi, pour l’exécution des tâches prévues aux art. 83, al. 1, let. n<sup>bis</sup>, et 85, al. 1, let. d, e et g à k, l’exploitation des offices régionaux de placement conformément à l’art. 85*b* et l’exploitation des services de logistique des mesures relatives au marché du travail conformément à l’art. 85*c*.[^92-6] Sur proposition de la commission de surveillance, le Conseil fédéral fixe les frais à prendre en compte. Il prend en compte, de façon équitable, les frais fixes permettant de faire face aux fluctuations du marché du travail, le risque de responsabilité (art. 85*g*) et les frais additionnels temporaires générés par la collaboration intercantonale (art. 85*e*) et interinstitutionnelle (art. 85*f*). Les frais à prendre en compte sont remboursés en fonction des résultats des prestations fournies. Le DEFR peut conclure des accords de prestations avec les cantons.[^92-7]
 
-<sup>7bis</sup> Les cantons participent aux coûts du service de l’emploi et des mesures relatives au marché du travail à raison de 0,053 % de la somme des salaires soumis à cotisation.[^92-7] Le Conseil fédéral fixe la part à la charge de chaque canton au moyen d’une clé de répartition en tenant compte du nombre annuel de jours de chômage contrôlé.[^92-8] Le montant dû par un canton au titre de sa participation est déduit du montant qui lui est remboursé en vertu de l’al. 7.[^92-9]
+<sup>7bis</sup> Les cantons participent aux coûts du service de l’emploi et des mesures relatives au marché du travail à raison de 0,053 % de la somme des salaires soumis à cotisation.[^92-8] Le Conseil fédéral fixe la part à la charge de chaque canton au moyen d’une clé de répartition en tenant compte du nombre annuel de jours de chômage contrôlé.[^92-9] Le montant dû par un canton au titre de sa participation est déduit du montant qui lui est remboursé en vertu de l’al. 7.[^92-10]
 
-<sup>8</sup> Les frais d’administration du centre informatique sont à la charge du fonds de compensation.[^92-10]
+<sup>8</sup> Les frais d’administration du centre informatique sont à la charge du fonds de compensation.[^92-11]
 
-<sup>9</sup> Le fonds de compensation verse à l’institution supplétive une compensation appropriée pour les frais supplémentaires occasionnés par l’exécution de la prévoyance professionnelle selon l’art. 60, al. 2, let. e, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^92-11].[^92-12]
+<sup>9</sup> Le fonds de compensation verse à l’institution supplétive une compensation appropriée pour les frais supplémentaires occasionnés par l’exécution de la prévoyance professionnelle selon l’art. 60, al. 2, let. e, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^92-12].[^92-13]
 
 [^92-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/339)).
 [^92-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/339)).
 [^92-3]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/339)).
-[^92-4]: Introduit par l’art. 42 al. 1 de la LF du 6 oct. 1989 sur le service de l’emploi et la location de services ([RO 1991 392](https://fedlex.data.admin.ch/eli/oc/1991/392_392_392); [FF 1985 III 524](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)). Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/339)).
-[^92-5]: Nouvelle teneur selon l’art. 2 ch. 15 de l’AF du 17 déc. 2004 (extension de l’Ac. aux nouveaux Etats membres de la CE et mesures d’accompagnement), en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
-[^92-6]: Introduit par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^92-7]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^92-8]: Nouvelle teneur de la phrase selon le ch. II 28 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^92-9]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^92-10]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^92-11]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^92-12]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273), [1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)ch. II 1; [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^92-4]: Nouvelle teneur de la phrase selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^92-5]: Introduit par l’art. 42 al. 1 de la LF du 6 oct. 1989 sur le service de l’emploi et la location de services ([RO 1991 392](https://fedlex.data.admin.ch/eli/oc/1991/392_392_392); [FF 1985 III 524](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)). Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/339)).
+[^92-6]: Nouvelle teneur selon l’art. 2 ch. 15 de l’AF du 17 déc. 2004 (extension de l’Ac. aux nouveaux Etats membres de la CE et mesures d’accompagnement), en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
+[^92-7]: Introduit par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^92-8]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^92-9]: Nouvelle teneur de la phrase selon le ch. II 28 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^92-10]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^92-11]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^92-12]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^92-13]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273), [1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)ch. II 1; [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 
 #### Art. 93
 
@@ -2360,7 +2369,7 @@ Lorsqu’une caisse ou une autorité cantonale doit supporter des frais de justi
 
 <sup>2</sup> La caisse exige de l’employeur la restitution de l’indemnité allouée en cas de réduction de l’horaire de travail ou d’intempéries quand cette indemnité a été versée à tort. Lorsque l’employeur est responsable de l’erreur, il ne peut exiger de ses travailleurs le remboursement de l’indemnité.
 
-<sup>3</sup> Le cas échéant, la caisse soumet sa demande de remise à l’autorité cantonale pour décision.
+<sup>3</sup> La caisse soumet les demandes de remise à l’autorité cantonale pour décision.[^95-8]
 
 [^95-1]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^95-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
@@ -2369,6 +2378,7 @@ Lorsqu’une caisse ou une autorité cantonale doit supporter des frais de justi
 [^95-5]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^95-6]: Introduit par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^95-7]: Introduit par le ch. I de la LF du 22 mars 2002 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nouvelle teneur selon l’annexe ch. 40 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^95-8]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 
 #### Art. 96
 
@@ -2416,18 +2426,9 @@ Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surv
 
 **Accès aux systèmes d’information gérés par l’organe de compensation [^96c-2]**[^96c-1]
 
-<sup>1</sup> Les caisses de chômage ont accès au système d’information pour le paiement des prestations de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>, let. a) afin d’effectuer le paiement, le décompte et la comptabilisation des prestations de l’assurance-chômage.[^96c-3]
+<sup>1</sup> Les organes d’exécution visés à l’art. 76, al. 1, let. a et c, ont accès aux systèmes d’information prévus à l’art. 83, al. 1<sup>bis</sup>, dans la mesure où cela est nécessaire à l’exécution des tâches qui leur sont attribuées aux art. 81 et 85.[^96c-3]
 
-<sup>1bis</sup> Les organes qui ont accès au système d’information du service public de l’emploi (art. 83, al. 1<sup>bis</sup>, let. b), ainsi que les organes et les personnes qui ont un accès sécurisé à la plateforme du service public de l’emploi (art. 83, al. 1<sup>bis</sup>, let. e), sont énumérés à l’art. 35, al. 3 et 3<sup>ter</sup>, LSE[^96c-4].[^96c-5]
-
-<sup>1ter</sup>
-
-Les organes suivants ont accès au système d’information servant à l’analyse des données du marché du travail (art. 83, al. 1<sup>bis</sup>, let. c) afin d’obtenir les indicateurs de performance et de conduite qui leur sont nécessaires:
-
-- a. les autorités cantonales (art. 85);
-- b. les ORP (art. 85*b*);
-- c. les services de logistique des mesures relatives au marché du travail (art. 85*c*);
-- d. les caisses de chômage (art. 77 et 78).[^96c-6]
+<sup>1bis et <sup>1ter</sup></sup> …[^96c-4]
 
 <sup>1quater</sup>
 
@@ -2435,26 +2436,24 @@ Les personnes suivantes peuvent s’enregistrer sur la plateforme d’accès aux
 
 - a. les personnes assurées, en vue de l’inscription, de la demande de prestations et de l’accomplissement des devoirs mentionnés à l’art. 17;
 - b. les demandeurs d’emploi, en vue de l’inscription et du conseil par l’ORP;
-- c. les employeurs, en vue de la demande des prestations au sens des art. 31 et 42 ainsi qu’en vue de remplir leurs obligations au sens de l’art. 88, al. 1.[^96c-7]
+- c. les employeurs, en vue de la demande des prestations au sens des art. 31 et 42 ainsi qu’en vue de remplir leurs obligations au sens de l’art. 88, al. 1.[^96c-5]
 
-<sup>2</sup> …[^96c-8]
+<sup>2</sup> …[^96c-6]
 
-<sup>2bis</sup> L’échange de données personnelles, y compris de données sensibles, entre les systèmes d’information de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>) et ceux du service public de l’emploi (art. 35 LSE) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LSE.[^96c-9]
+<sup>2bis</sup> L’échange de données personnelles, y compris de données sensibles, entre les systèmes d’information de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>) et ceux du service public de l’emploi (art. 35 LSE) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LSE.[^96c-7]
 
-<sup>2ter</sup> …[^96c-10]
+<sup>2ter</sup> …[^96c-8]
 
 <sup>3</sup> Le Conseil fédéral règle la responsabilité de la protection des données, les données à saisir, leur durée de conservation, l’accès aux données, l’organisation et l’exploitation des systèmes d’information, la collaboration entre les autorités désignées à l’al. 1 et la sécurité des données.
 
 [^96c-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^96c-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-4]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^96c-3]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^96c-4]: Introduits par le ch. I de la LF du 19 juin 2020 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Abrogés par le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^96c-5]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-6]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-7]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-8]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-9]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon l’annexe 2 ch. 4 de LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^96c-10]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-6]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-7]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon l’annexe 2 ch. 4 de LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96c-8]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 96d
 
@@ -2484,7 +2483,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
 - b<sup>bis</sup>.[^97a-4] à des organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - b<sup>ter</sup>.[^97a-5] aux autorités compétentes en matière d’étrangers, conformément à l’art. 97, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^97a-6];
 - c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^97a-7] et aux dispositions cantonales correspondantes;
-- c<sup>bis</sup>.[^97a-8] aux autorités fiscales cantonales, si la loi cantonale prévoit l’envoi de l’attestation des prestations directement à ces dernières;
+- c<sup>bis</sup>.[^97a-8] aux autorités fiscales cantonales, si la loi cantonale prévoit l’envoi de l’attestation des prestations de l’assurance-chômage directement à ces dernières;
 - d. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^97a-9];
 - e. aux autorités d’instruction pénale, lorsqu’il s’agit de dénoncer ou de prévenir un crime;
 - e<sup>bis</sup>.[^97a-10] au Service de renseignement de la Confédération ou aux organes de sûreté des cantons à son intention, lorsqu’il existe une menace concrète pour la sûreté intérieure ou extérieure au sens de l’art. 19, al. 2, de la loi fédérale du 25 septembre 2015 sur le renseignement[^97a-11];
@@ -2497,9 +2496,9 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
   - 3\. aux tribunaux pénaux et aux organes d’instruction pénale, lorsqu’elles leur sont nécessaires pour établir les faits en cas de crime ou de délit,
   - 4\. aux offices des poursuites, conformément aux art. 91, 163 et 222 de la LP[^97a-12],
   - 5\. aux autorités fiscales, lorsqu’elles leur sont nécessaires pour appliquer les lois fiscales,
-  - 6\.[^97a-13] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, CC[^97a-14],
+  - 6\.[^97a-13] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, du code civil (CC)[^97a-14],
   - 7\.[^97a-15] aux autorités chargées d’appliquer la LEI et l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^97a-16], y compris les annexes, les protocoles et les dispositions d’exécution suisses;
-  - 8\.[^97a-17] …[^97a-18]
+  - 8\.[^97a-17] à l’office spécialisé désigné par le droit cantonal en vertu des art. 131 et 290 CC, lorsqu’elles sont nécessaires pour recouvrer des contributions d’entretien impayées ou pour obtenir des sûretés garantissant les contributions d’entretien futures.[^97a-18]
 
 <sup>2</sup> Les données nécessaires à la lutte contre le travail au noir peuvent être communiquées conformément aux art. 11 et 12 de la loi du 17 juin 2005 sur le travail au noir[^97a-19].[^97a-20]
 
@@ -2529,16 +2528,16 @@ Dans les autres cas, des données peuvent être communiquées à des tiers, en d
 [^97a-5]: Introduite par l’annexe ch. 3 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^97a-6]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 [^97a-7]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
-[^97a-8]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^97a-8]: Introduite par le ch. I de la LF du 19 juin 2020 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^97a-9]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^97a-10]: Introduite par l’annexe ch. 14 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 20 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^97a-11]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^97a-12]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
-[^97a-13]: Introduit par l’annexe ch. 30 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^97a-13]: Introduit par l’annexe ch. 30 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation) ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)). Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^97a-14]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^97a-15]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^97a-16]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^97a-17]: Introduit par l’annexe ch. 14 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogé par l’annexe ch. II 20 de la LF du 25 sept. 2015 sur le renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^97a-17]: Introduit par l’annexe ch. 14 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^97a-18]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^97a-19]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^97a-20]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 juin 2005 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3371](https://fedlex.data.admin.ch/eli/fga/2002/520)).
@@ -2719,22 +2718,20 @@ Les cantons:
 - a. gèrent les caisses cantonales prévues dans la présente loi;
 - b. désignent les autorités compétentes et les autorités de recours;
 - c.[^113-2] instituent des offices régionaux de placement selon l’art. 85*b*;
-- d.[^113-3] instituent des commissions tripartites selon l’art. 85*c*[^113-4];
-- e.[^113-5] règlent la procédure;
-- f.[^113-6] veillent à instaurer une collaboration efficace entre les offices compétents en matière d’assurance et ceux dont relève le domaine du placement;
-- g.[^113-7] désignent cinq jours fériés donnant droit à l’indemnité de chômage selon l’art. 19[^113-8].
+- d.[^113-3] instituent des commissions tripartites selon l’art. 85*d*;
+- e.[^113-4] règlent la procédure;
+- f.[^113-5] veillent à instaurer une collaboration efficace entre les offices compétents en matière d’assurance et ceux dont relève le domaine du placement;
+- g.[^113-6] ...
 
-<sup>3</sup> …[^113-9]
+<sup>3</sup> …[^113-7]
 
 [^113-1]: Modifié par le ch. III de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 [^113-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^113-3]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^113-4]: Actuellement «selon l’art. 85*d*».
-[^113-5]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^113-6]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^113-7]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^113-8]: Cet art. est actuellement abrogé.
-[^113-9]: Abrogé par le ch. I de la LF du 23 juin 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^113-3]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^113-4]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^113-5]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^113-6]: Introduite par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Abrogée par le ch. I de la LF du 14 juin 2024 (Système d’indemnisation des caisses de chômage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^113-7]: Abrogé par le ch. I de la LF du 23 juin 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 
 ### Chapitre 2 Modification, abrogation et prorogation du droit en vigueur
 

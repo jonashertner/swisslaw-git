@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sull'assicurazione obbligatoria contro
 short: LADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: it
-version: 2025-09-27
+version: 2026-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20250927/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20250927-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20250927/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20250927/it"
 
 (Legge sull’assicurazione contro la disoccupazione, LADI[^t-1])
 
-del 25 giugno 1982 (Stato 27 settembre 2025)
+del 25 giugno 1982 (Stato 1° gennaio 2026)
 
 [^t-1]: Nuova abbreviazione giusta la cifra I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)). Di questa mod. è tenuto conto in tutto il presente testo.
 
@@ -317,11 +317,12 @@ Il termine quadro per la riscossione della prestazione da parte di un assicurato
 
 <sup>1</sup> La perdita di lavoro non è computabile, finché prestazioni volontarie del datore di lavoro coprono la perdita di guadagno risultante dallo scioglimento del rapporto di lavoro.
 
-<sup>2</sup> Le prestazioni volontarie del datore di lavoro sono considerate in quanto superano l’importo massimo di cui all’articolo 3 capoverso 2.
+<sup>2</sup> Le prestazioni volontarie del datore di lavoro sono considerate in quanto superano l’importo annuo massimo del guadagno assicurato nell’assicurazione obbligatoria contro gli infortuni.[^11a-2]
 
 <sup>3</sup> Il Consiglio federale disciplina le eccezioni se le prestazioni volontarie sono destinate alla previdenza professionale.
 
 [^11a-1]: Introdotto dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^11a-2]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 
 #### Art. 12
 
@@ -428,14 +429,15 @@ Non è considerata adeguata e di conseguenza è esclusa dall’obbligo di accett
 - f. necessita di un tragitto di oltre due ore sia per recarsi sul posto di lavoro, sia per il rientro e che non offre la possibilità di un alloggio conveniente nel luogo di lavoro o che, in questo secondo caso, rende notevolmente difficile l’adempimento dell’obbligo di assistenza verso i familiari da parte dell’assicurato;
 - g. implica da parte del lavoratore un tenersi costantemente a disposizione che supera l’ambito dell’occupazione garantita;
 - h. è svolta in un’azienda che ha effettuato licenziamenti al fine di procedere a riassunzioni o a nuove assunzioni a condizioni di lavoro considerevolmente più sfavorevoli;
-- i. procura all’assicurato un salario inferiore al 70 per cento del guadagno assicurato, salvo che l’assicurato riceva prestazioni compensative giusta l’articolo 24 (guadagno intermedio); con il consenso della commissione tripartita, l’ufficio regionale di collocamento può eccezionalmente dichiarare adeguata un’occupazione la cui rimunerazione è inferiore al 70 per cento del guadagno assicurato.
+- i.[^16-2] procura all’assicurato un salario inferiore al 70 per cento del guadagno assicurato, salvo che l’assicurato riceva prestazioni compensative secondo l’articolo 24; con il consenso della commissione tripartita, il servizio cantonale può eccezionalmente dichiarare adeguata un’occupazione la cui rimunerazione è inferiore al 70 per cento del guadagno assicurato.
 
 <sup>3</sup> Se l’assicurato ha una capacità lavorativa ridotta, il capoverso 2 lettera a non è applicabile. Un’attività la cui rimunerazione è inferiore a ciò che dovrebbe essere in base alla capacità lavorativa ridotta è esclusa dall’obbligo di accettazione.
 
-<sup>3bis</sup> Il capoverso 2 lettera b non si applica alle persone minori di 30 anni.[^16-2]
+<sup>3bis</sup> Il capoverso 2 lettera b non si applica alle persone minori di 30 anni.[^16-3]
 
 [^16-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^16-2]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^16-3]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 17
 
@@ -557,30 +559,31 @@ L’indennità di disoccupazione è pagata come indennità giornaliera. Per una 
 
 <sup>1</sup>
 
-L’indennità giornaliera intera ammonta all’80 per cento del guadagno assicurato. L’assicurato riceve inoltre un supplemento che corrisponde agli assegni legali per i figli e agli assegni legali di formazione convertiti in un importo giornaliero cui avrebbe diritto nell’ambito di un rapporto di lavoro. Questo supplemento è pagato soltanto se:
+L’indennità giornaliera intera ammonta all’80 per cento del guadagno assicurato. L’assicurato riceve inoltre un supplemento che corrisponde agli assegni familiari ai sensi dell’articolo 3 capoverso 1 della legge del 24 marzo 2006[^22-1] sugli assegni familiari convertiti in un importo giornaliero cui avrebbe diritto nell’ambito di un rapporto di lavoro. Questo supplemento è pagato soltanto se:
 
-- a. gli assegni per i figli non sono versati all’assicurato durante la disoccupazione; e
-- b. per lo stesso figlio non sussiste alcun diritto di una persona che eserciti un’attività lucrativa.[^22-1]
+- a. gli assegni familiari non sono versati all’assicurato durante la disoccupazione; e
+- b. per lo stesso figlio non sussiste alcun diritto di una persona che eserciti un’attività lucrativa.[^22-2]
 
 <sup>2</sup>
 
-Ricevono un’indennità giornaliera pari al 70 per cento del guadagno assicurato gli assicurati che:[^22-2]
+Ricevono un’indennità giornaliera pari al 70 per cento del guadagno assicurato gli assicurati che:[^22-3]
 
-- a.[^22-3] non hanno un obbligo di mantenimento nei confronti di figli di età inferiore ai 25 anni;
-- b.[^22-4] beneficiano di un’indennità giornaliera intera, il cui importo supera i 140 franchi; e
-- c.[^22-5] non riscuotono una rendita di invalidità corrispondente almeno a un grado di invalidità del 40 per cento.
+- a.[^22-4] non hanno un obbligo di mantenimento nei confronti di figli di età inferiore ai 25 anni;
+- b.[^22-5] beneficiano di un’indennità giornaliera intera, il cui importo supera i 140 franchi; e
+- c.[^22-6] non riscuotono una rendita di invalidità corrispondente almeno a un grado di invalidità del 40 per cento.
 
-<sup>3</sup> Il Consiglio federale adegua l’aliquota minima di cui al capoverso 2 lettera b di regola ogni due anni all’inizio dell’anno civile, secondo i principi dell’AVS.[^22-6]
+<sup>3</sup> Il Consiglio federale adegua l’aliquota minima di cui al capoverso 2 lettera b di regola ogni due anni all’inizio dell’anno civile, secondo i principi dell’AVS.[^22-7]
 
-<sup>4 e <sup>5</sup></sup> ...[^22-7]
+<sup>4 e <sup>5</sup></sup> ...[^22-8]
 
-[^22-1]: Nuovo testo giusta l’all. n. 3 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^22-2]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^22-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^22-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^22-5]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^22-6]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^22-7]: Abrogati dalla cifra I della LF del 23 giu. 1995, con effetto dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^22-1]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^22-2]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^22-3]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^22-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^22-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^22-6]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^22-7]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^22-8]: Abrogati dalla cifra I della LF del 23 giu. 1995, con effetto dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 
 #### Art. 22a
 
@@ -688,9 +691,9 @@ L’assicurato ha diritto a:
 
 <sup>4</sup> Le persone esonerate dall’adempimento del periodo di contribuzione hanno diritto a 90 indennità giornaliere al massimo.[^27-6]
 
-<sup>5</sup> Le persone costrette ad assumere o a estendere un’attività dipendente a causa della soppressione di una rendita d’invalidità secondo l’articolo 14 capoverso 2 hanno diritto a 180 indennità giornaliere al massimo.[^27-7]
+<sup>5</sup> Le persone che, secondo l’articolo 14 capoverso 2, sono costrette ad assumere o a estendere un’attività dipendente a causa della soppressione di una rendita d’invalidità ai sensi della legge federale del 19 giugno 1959[^27-7] sull’assicurazione per l’invalidità hanno diritto a 180 indennità giornaliere al massimo.[^27-8]
 
-<sup>5bis</sup> Le persone minori di 25 anni che non hanno un obbligo di mantenimento nei confronti di figli hanno diritto a 200 indennità giornaliere al massimo.[^27-8]
+<sup>5bis</sup> Le persone minori di 25 anni che non hanno un obbligo di mantenimento nei confronti di figli hanno diritto a 200 indennità giornaliere al massimo.[^27-9]
 
 [^27-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^27-2]: Nuovo testo giusta la cifra I della LF del 30 set. 2011, in vigore dal 1° gen. 2012 ([RU 2012 495](https://fedlex.data.admin.ch/eli/oc/2012/73); [FF 2011 6469](https://fedlex.data.admin.ch/eli/fga/2011/1177)[6477](https://fedlex.data.admin.ch/eli/fga/2011/1179)).
@@ -698,8 +701,9 @@ L’assicurato ha diritto a:
 [^27-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-5]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^27-6]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-7]: Nuovo testo giusta l’all. n. 7 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^27-8]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-7]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^27-8]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^27-9]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 28
 
@@ -1367,7 +1371,7 @@ L’assicurazione accorda inoltre:
 
 **...[^60-2]**[^60-1]
 
-<sup>1</sup> Per provvedimenti di formazione si intendono segnatamente corsi individuali o collettivi di riqualificazione, di formazione continua o di reintegrazione nonché aziende di esercitazione e pratiche di formazione.[^60-3]
+<sup>1</sup> Per provvedimenti di formazione si intendono segnatamente corsi individuali o collettivi di riqualificazione, di formazione continua o di reintegrazione nonché l’attività in aziende di pratica commerciale e pratiche di formazione.[^60-3]
 
 <sup>2</sup>
 
@@ -1384,7 +1388,7 @@ Per la partecipazione ai corsi possono pretendere prestazioni:
 
 [^60-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^60-2]: Abrogato dalla cifra I della LF del 19 mar. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^60-3]: Nuovo testo giusta l’all. n. 40 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^60-3]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^60-4]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^60-5]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 [^60-6]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Indennità per lavoro ridotto per i formatori), in vigore dal 1° gen. 2024 ([RU 2024 38](https://fedlex.data.admin.ch/eli/oc/2024/38); [FF 2023 577](https://fedlex.data.admin.ch/eli/fga/2023/577)).
@@ -1409,15 +1413,15 @@ Per la partecipazione ai corsi possono pretendere prestazioni:
 
 #### Art. 64a
 
-**Programmi di occupazione temporanea, pratiche professionali e semestri di motivazione**
+**Programmi di occupazione temporanea, periodi di pratica professionale e semestri di motivazione[^64a-1]**
 
 <sup>1</sup>
 
 Per provvedimenti di occupazione si intendono in particolare le occupazioni temporanee nell’ambito di:
 
 - a. programmi di istituzioni pubbliche o private senza scopo lucrativo; tali programmi non devono essere in diretta concorrenza con l’economia privata;
-- b.[^64a-1] pratiche professionali in imprese o nell’amministrazione; in caso di disoccupazione elevata il Consiglio federale può prevedere che le persone soggette a un periodo di attesa secondo l’articolo 18 capoverso 2 partecipino a pratiche professionali;
-- c.[^64a-2] semestri di motivazione per gli assicurati che al termine della scuola dell’obbligo sono alla ricerca di un posto di formazione, se non dispongono di una formazione professionale completa e hanno concluso la scuola senza aver conseguito un diploma di maturità.
+- b.[^64a-2] periodi di pratica professionale in imprese o nell’amministrazione pubblica; il Consiglio federale può prevedere che le persone soggette a un periodo di attesa secondo l’articolo 18 capoverso 2 partecipino a periodi di pratica professionale;
+- c.[^64a-3] semestri di motivazione per gli assicurati che al termine della scuola dell’obbligo sono alla ricerca di un posto di formazione, se non dispongono di una formazione professionale completa e hanno concluso la scuola senza aver conseguito un diploma di maturità.
 
 <sup>2</sup> L’articolo 16 capoverso 2 lettera c è applicabile per analogia alla partecipazione a un’occupazione temporanea secondo il capoverso 1 lettera a.
 
@@ -1425,11 +1429,12 @@ Per provvedimenti di occupazione si intendono in particolare le occupazioni temp
 
 <sup>4</sup> Gli articoli 16 capoverso 2 lettera c e 59*d* capoverso 1 sono applicabili per analogia alla partecipazione a un’occupazione temporanea secondo il capoverso 1 lettera c.
 
-<sup>5</sup> Il Consiglio federale fissa il contributo mensile per le persone che partecipano a un semestre di motivazione durante il periodo di attesa.[^64a-3]
+<sup>5</sup> Il Consiglio federale fissa il contributo mensile per le persone che partecipano a un semestre di motivazione durante il periodo di attesa.[^64a-4]
 
-[^64a-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^64a-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^64a-3]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^64a-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^64a-2]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^64a-3]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^64a-4]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 64b
 
@@ -1475,7 +1480,7 @@ Agli assicurati difficilmente collocabili, che assolvono un periodo d’introduz
 
 <sup>2</sup> Durante il termine quadro, gli assegni sono pagati per sei mesi al massimo; in casi eccezionali, per 12 mesi al massimo.[^66-2]
 
-<sup>2bis</sup> Gli assicurati che hanno più di 50 anni hanno diritto agli assegni per il periodo d’introduzione per una durata di 12 mesi.[^66-3]
+<sup>2bis</sup> Gli assicurati che hanno più di 50 anni hanno diritto agli assegni per il periodo d’introduzione per una durata di 12 mesi al massimo.[^66-3]
 
 <sup>3</sup> Gli assegni per il periodo d’introduzione sono ridotti di un terzo dell’importo iniziale dopo ogni terzo del periodo di introduzione previsto, al più presto però ogni due mesi. Per gli assicurati che hanno più di 50 anni, gli assegni per il periodo d’introduzione sono ridotti di un terzo a partire dal mese successivo alla prima metà della durata prevista.[^66-4] [^66-5]
 
@@ -1483,7 +1488,7 @@ Agli assicurati difficilmente collocabili, che assolvono un periodo d’introduz
 
 [^66-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^66-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^66-3]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^66-3]: Introdotto dalla cifra I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^66-4]: Per. introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^66-5]: Introdotto dalla cifra I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 [^66-6]: Introdotto dalla cifra I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
@@ -1779,10 +1784,10 @@ Sono incaricati dell’esecuzione dell’assicurazione contro la disoccupazione:
 
 <sup>2</sup> Le casse non hanno personalità giuridica propria, ma trattano con l’esterno in nome proprio e hanno capacità di stare in giudizio.
 
-<sup>3</sup> Le operazioni di pagamento delle casse private devono svolgersi, eccettuati i pagamenti in contanti, attraverso conti bancari o postali esclusivamente destinati a tale scopo.[^79-2] In caso di fallimento del titolare, gli averi depositati su questi conti non cadono nella massa fallimentare. L’articolo 242 LEF[^79-3] s’applica per analogia.
+<sup>3</sup> Le operazioni di pagamento delle casse di disoccupazione private devono svolgersi attraverso conti bancari o postali esclusivamente destinati a tale scopo.[^79-2] In caso di fallimento del titolare, gli averi depositati su questi conti non cadono nella massa fallimentare. L’articolo 242 LEF[^79-3] s’applica per analogia.
 
 [^79-1]: Nuovo testo del per. giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^79-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^79-2]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^79-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 80
@@ -1881,26 +1886,27 @@ L’ufficio di compensazione:
 - g. assegna alle casse i mezzi necessari attinti al fondo di compensazione, secondo le prescrizioni della presente legge o dell’ordinanza;
 - h.[^83-5] prende provvedimenti per impedire il pagamento di prestazioni ingiustificate e, in caso di disoccupazione persistente ed elevata, impiega ispettori straordinari;
 - i.[^83-6] ...
-- k.[^83-7] prende le decisioni giusta l’articolo 59*c* capoverso 3 e versa i sussidi previsti negli articoli 62 e 64*b*;
+- j.[^83-7] pubblica ogni anno gli indicatori relativi alle prestazioni delle casse;
+- k.[^83-8] prende le decisioni giusta l’articolo 59*c* capoverso 3 e versa i sussidi previsti negli articoli 62 e 64*b*;
 - l. sorveglia le decisioni del servizio cantonale;
-- m.[^83-8] decide della computabilità delle spese amministrative delle casse, del servizio cantonale, degli uffici regionali di collocamento e dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro;
+- m.[^83-9] decide della computabilità delle spese amministrative delle casse, del servizio cantonale, degli uffici regionali di collocamento e dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro;
 - n. provvede al coordinamento con le altre assicurazioni sociali;
-- n<sup>bis</sup>.[^83-9] garantisce, unitamente ai Cantoni, la collaborazione nell’ambito della rete EURES (European Employment Services) secondo l’allegato I articolo 11 dell’Accordo del 21 giugno 1999[^83-10] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone);
-- o.[^83-11] ...
-- p.[^83-12] coordina l’esecuzione dei provvedimenti inerenti al mercato del lavoro, che può esso stesso elaborare;
-- q.[^83-13] prende disposizioni per l’applicazione dell’articolo 59*a*;
-- r.[^83-14] decide in deroga all’articolo 35 LPGA[^83-15] sui litigi in materia di competenza locale dei servizi cantonali;
-- s.[^83-16] statuisce sui casi di cui all’articolo 31 capoverso 1<sup>bis</sup> che gli sottopone il servizio cantonale.
+- n<sup>bis</sup>.[^83-10] garantisce, unitamente ai Cantoni, la collaborazione nell’ambito della rete EURES (European Employment Services) secondo l’allegato I articolo 11 dell’Accordo del 21 giugno 1999[^83-11] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone);
+- o.[^83-12] ...
+- p.[^83-13] coordina l’esecuzione dei provvedimenti inerenti al mercato del lavoro, che può esso stesso elaborare;
+- q.[^83-14] prende disposizioni per l’applicazione dell’articolo 59*a*;
+- r.[^83-15] decide in deroga all’articolo 35 LPGA[^83-16] sui litigi in materia di competenza locale dei servizi cantonali;
+- s.[^83-17] statuisce sui casi di cui all’articolo 31 capoverso 1<sup>bis</sup> che gli sottopone il servizio cantonale.
 
 <sup>1bis</sup>
 
 Per adempiere i compiti assegnatigli dalla legge, nonché a scopi statistici, l’ufficio di compensazione gestisce sistemi d’informazione per:
 
 - a. il pagamento delle prestazioni dell’assicurazione contro la disoccupazione;
-- b. il collocamento pubblico (art. 35 cpv. 1 lett. a della legge del 6 ottobre 1989[^83-17] sul collocamento [LC]);
+- b. il collocamento pubblico (art. 35 cpv. 1 lett. a della legge del 6 ottobre 1989[^83-18] sul collocamento [LC]);
 - c. l’analisi dei dati del mercato del lavoro;
 - d. la gestione della piattaforma di accesso ai servizi online destinata alle persone di cui all’articolo 96*c* capoverso 1<sup>quater</sup>;
-- e. la gestione della piattaforma del servizio pubblico di collocamento (art. 35 cpv. 1 lett. b LC).[^83-18]
+- e. la gestione della piattaforma del servizio pubblico di collocamento (art. 35 cpv. 1 lett. b LC).[^83-19]
 
 <sup>2</sup>
 
@@ -1908,10 +1914,10 @@ Esso sottopone alla commissione di sorveglianza:
 
 - a. il conto d’esercizio e patrimoniale del fondo di compensazione e il rapporto annuo che essa trasmetterà, corredati del proprio parere, al Consiglio federale;
 - b. altri conteggi periodici;
-- c.[^83-19] rapporti periodici sui controlli della gestione e sulle revisioni dei pagamenti eseguiti dalle casse, come anche sulle decisioni dei servizi cantonali nel settore dei provvedimenti inerenti al mercato del lavoro;
-- d.[^83-20] le domande di sussidio per il promovimento della ricerca sul mercato del lavoro (art. 73);
-- e.[^83-21] i rendiconti previsti nell’articolo 59*c* capoverso 3;
-- f.[^83-22] il bilancio preventivo e il conto del centro d’informatica.
+- c.[^83-20] rapporti periodici sui controlli della gestione e sulle revisioni dei pagamenti eseguiti dalle casse, come anche sulle decisioni dei servizi cantonali nel settore dei provvedimenti inerenti al mercato del lavoro;
+- d.[^83-21] le domande di sussidio per il promovimento della ricerca sul mercato del lavoro (art. 73);
+- e.[^83-22] i rendiconti previsti nell’articolo 59*c* capoverso 3;
+- f.[^83-23] il bilancio preventivo e il conto del centro d’informatica.
 
 <sup>3</sup> La Seco dirige l’ufficio di compensazione.
 
@@ -1921,22 +1927,23 @@ Esso sottopone alla commissione di sorveglianza:
 [^83-4]: Nuovo testo giusta l’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^83-5]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 [^83-6]: Abrogata dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^83-7]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-7]: Introdotta dalla cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^83-8]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-9]: Introdotto dall’art. 2 n. 15 del DF del 17 dic. 2004 (estensione dell’Acc. sulla libera circolazione delle persone ai nuovi Stati membri della CE e misure collaterali) ([RU 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5203](https://fedlex.data.admin.ch/eli/fga/2004/1081)[5863](https://fedlex.data.admin.ch/eli/fga/2004/1105)). Nuovo testo giusta l’all. n. 10 del DF del 17 giu. 2016 (estensione alla Croazia dell’Acc. sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^83-10]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^83-11]: Introdotto dalla cifra I della LF del 23 giu. 1995 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)). Abrogata
-[^83-12]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^83-9]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-10]: Introdotto dall’art. 2 n. 15 del DF del 17 dic. 2004 (estensione dell’Acc. sulla libera circolazione delle persone ai nuovi Stati membri della CE e misure collaterali) ([RU 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5203](https://fedlex.data.admin.ch/eli/fga/2004/1081)[5863](https://fedlex.data.admin.ch/eli/fga/2004/1105)). Nuovo testo giusta l’all. n. 10 del DF del 17 giu. 2016 (estensione alla Croazia dell’Acc. sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^83-11]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^83-12]: Introdotto dalla cifra I della LF del 23 giu. 1995 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)). Abrogata
 [^83-13]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^83-14]: Introdotta dall’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^83-15]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^83-16]: Introdotta dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-17]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
-[^83-18]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^83-19]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-14]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^83-15]: Introdotta dall’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^83-16]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^83-17]: Introdotta dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-18]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^83-19]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^83-20]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^83-21]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-22]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^83-22]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-23]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 
 #### Art. 83a
 
@@ -1980,21 +1987,22 @@ I servizi cantonali:
 - d. verificano l’idoneità al collocamento dei disoccupati;
 - e.[^85-2] decidono i casi loro sottoposti dalle casse secondo gli articoli 81 capoverso 2 e 95 capoverso 3;
 - f. eseguono le prescrizioni di controllo del Consiglio federale;
-- g. sospendono gli assicurati dal diritto alle prestazioni nei casi previsti nell’articolo 30 capoversi 2 e 4, e decidono sulle limitazioni del diritto all’indennità per lavoro ridotto o per intemperie (art. 41 cpv. 5 e 50);
-- h.[^85-3] esprimono il loro parere riguardo alle domande di sussidio per provvedimenti inerenti al mercato del lavoro (art. 59*c* cpv. 3) e si adoperano affinché l’offerta di tali provvedimenti sia sufficiente e adeguata ai bisogni;
-- i.[^85-4] esplicano le altre competenze conferite loro dalla legge, in particolare quelle secondo gli articoli 36 capoverso 4, 45 capoverso 4 e 59*c* capoverso 2;
-- j.[^85-5] fanno periodicamente rapporto all’ufficio di compensazione, a destinazione della commissione di sorveglianza, sulle loro decisioni nel settore dei provvedimenti inerenti al mercato del lavoro;
-- k.[^85-6] rendono periodicamente conto alla commissione di sorveglianza, secondo le istruzioni dell’ufficio di compensazione, delle spese amministrative del servizio cantonale, degli uffici regionali di collocamento e dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro.
+- g.[^85-3] sospendono gli assicurati dal diritto alle prestazioni nei casi previsti nell’articolo 30 capoversi 2 e 4;
+- h.[^85-4] esprimono il loro parere riguardo alle domande di sussidio per provvedimenti inerenti al mercato del lavoro (art. 59*c* cpv. 3) e si adoperano affinché l’offerta di tali provvedimenti sia sufficiente e adeguata ai bisogni;
+- i.[^85-5] esplicano le altre competenze conferite loro dalla legge, in particolare quelle secondo gli articoli 36 capoverso 4, 45 capoverso 4 e 59*c* capoverso 2;
+- j.[^85-6] fanno periodicamente rapporto all’ufficio di compensazione, a destinazione della commissione di sorveglianza, sulle loro decisioni nel settore dei provvedimenti inerenti al mercato del lavoro;
+- k.[^85-7] rendono periodicamente conto alla commissione di sorveglianza, secondo le istruzioni dell’ufficio di compensazione, delle spese amministrative del servizio cantonale, degli uffici regionali di collocamento e dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro.
 
-<sup>2</sup> ...[^85-7]
+<sup>2</sup> ...[^85-8]
 
 [^85-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 [^85-2]: Nuovo testo giusta l’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^85-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-3]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^85-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^85-5]: Introdotta dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^85-6]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^85-7]: Abrogato dalla cifra I della LF del 23 giu. 1995, con effetto dal 1° gen. 1997 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^85-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-6]: Introdotta dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-7]: Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^85-8]: Abrogato dalla cifra I della LF del 23 giu. 1995, con effetto dal 1° gen. 1997 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 
 #### Art. 85a
 
@@ -2289,28 +2297,29 @@ Se i mezzi previsti ai sensi dell’articolo 90 non bastano a coprire le spese d
 
 <sup>5</sup> Le spese della commissione di sorveglianza sono a carico del fondo di compensazione.[^92-3]
 
-<sup>6</sup> Il fondo di compensazione rimborsa ai titolari delle casse i costi computabili risultanti dall’adempimento dei compiti di cui all’articolo 81. Il Consiglio federale stabilisce, su proposta della commissione di sorveglianza, i costi computabili. Tiene debitamente conto dei costi per gli accantonamenti necessari per il superamento di fluttuazioni del mercato del lavoro e dei rischi di responsabilità (art. 82). I costi computabili sono rimborsati conformemente alle prestazioni fornite. Il DEFR può concludere convenzioni sulle prestazioni con i titolari.[^92-4]
+<sup>6</sup> Il fondo di compensazione rimborsa ai titolari delle casse i costi computabili risultanti dall’adempimento dei compiti di cui all’articolo 81. Il Consiglio federale stabilisce, su proposta della commissione di sorveglianza, i costi computabili. Tiene debitamente conto dei costi per gli accantonamenti necessari per il superamento di fluttuazioni del mercato del lavoro e dei rischi di responsabilità (art. 82). I costi computabili sono rimborsati secondo un sistema bonus-malus in funzione delle prestazioni fornite.[^92-4] Il DEFR può concludere convenzioni sulle prestazioni con i titolari.[^92-5]
 
-<sup>7</sup> Il fondo di compensazione rimborsa ai Cantoni le spese computabili risultanti dalla gestione degli uffici pubblici di collocamento, dall’adempimento dei compiti secondo gli articoli 83 capoverso 1 lettera n<sup>bis</sup> e 85 capoverso 1 lettere d, e nonché g–k, dall’esercizio degli uffici regionali di collocamento secondo l’articolo 85*b* e dall’esercizio dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro conformemente all’articolo 85*c*.[^92-5] Il Consiglio federale stabilisce, su proposta della commissione di sorveglianza, le spese computabili. Tiene debitamente conto delle spese per gli accantonamenti necessari per il superamento di fluttuazioni del mercato del lavoro, dei rischi di responsabilità (art. 85*g*) e delle spese supplementari temporanee dovute alla collaborazione intercantonale (art. 85*e*) e interistituzionale (art. 85*f*). Le spese computabili sono rimborsate in funzione dell’effetto delle prestazioni fornite. Il DEFR può concludere con i Cantoni convenzioni sulle prestazioni.[^92-6]
+<sup>7</sup> Il fondo di compensazione rimborsa ai Cantoni le spese computabili risultanti dalla gestione degli uffici pubblici di collocamento, dall’adempimento dei compiti secondo gli articoli 83 capoverso 1 lettera n<sup>bis</sup> e 85 capoverso 1 lettere d, e nonché g–k, dall’esercizio degli uffici regionali di collocamento secondo l’articolo 85*b* e dall’esercizio dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro conformemente all’articolo 85*c*.[^92-6] Il Consiglio federale stabilisce, su proposta della commissione di sorveglianza, le spese computabili. Tiene debitamente conto delle spese per gli accantonamenti necessari per il superamento di fluttuazioni del mercato del lavoro, dei rischi di responsabilità (art. 85*g*) e delle spese supplementari temporanee dovute alla collaborazione intercantonale (art. 85*e*) e interistituzionale (art. 85*f*). Le spese computabili sono rimborsate in funzione dell’effetto delle prestazioni fornite. Il DEFR può concludere con i Cantoni convenzioni sulle prestazioni.[^92-7]
 
-<sup>7bis</sup> I Cantoni partecipano alle spese degli uffici di collocamento e ai costi dei provvedimenti inerenti al mercato del lavoro con un contributo pari allo 0,053 per cento della somma dei salari soggetti a contribuzione.[^92-7] Il Consiglio federale fissa le quote a carico dei Cantoni mediante una chiave di ripartizione che tenga conto del numero annuale di giorni di disoccupazione controllata.[^92-8] La quota a carico dei Cantoni è dedotta dall’importo che è loro rimborsato conformemente al capoverso 7.[^92-9]
+<sup>7bis</sup> I Cantoni partecipano alle spese degli uffici di collocamento e ai costi dei provvedimenti inerenti al mercato del lavoro con un contributo pari allo 0,053 per cento della somma dei salari soggetti a contribuzione.[^92-8] Il Consiglio federale fissa le quote a carico dei Cantoni mediante una chiave di ripartizione che tenga conto del numero annuale di giorni di disoccupazione controllata.[^92-9] La quota a carico dei Cantoni è dedotta dall’importo che è loro rimborsato conformemente al capoverso 7.[^92-10]
 
-<sup>8</sup> Le spese amministrative del centro di informatica sono a carico del fondo di compensazione.[^92-10]
+<sup>8</sup> Le spese amministrative del centro di informatica sono a carico del fondo di compensazione.[^92-11]
 
-<sup>9</sup> Il fondo di compensazione rimborsa in modo adeguato all’istituto collettore i costi per l’esecuzione della previdenza professionale secondo l’articolo 60 capoverso 2 lettera e della legge federale del 25 giugno 1982[^92-11] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità.[^92-12]
+<sup>9</sup> Il fondo di compensazione rimborsa in modo adeguato all’istituto collettore i costi per l’esecuzione della previdenza professionale secondo l’articolo 60 capoverso 2 lettera e della legge federale del 25 giugno 1982[^92-12] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità.[^92-13]
 
 [^92-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/363)).
 [^92-2]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/363)).
 [^92-3]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/363)).
-[^92-4]: Introdotto dall’art. 42 cpv. 1 della LF del 6 ott. 1989 sul collocamento e il personale a prestito ([RU 1991 392](https://fedlex.data.admin.ch/eli/oc/1991/392_392_392); [FF 1985 III 503](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)). Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/363)).
-[^92-5]: Nuovo testo giusta l’art. 2 n. 15 del DF del 17 dic. 2004 (estensione dell’Acc. sulla libera circolazione delle persone ai nuovi Stati membri della CE e misure collaterali) ([RU 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5203](https://fedlex.data.admin.ch/eli/fga/2004/1081)[5863](https://fedlex.data.admin.ch/eli/fga/2004/1105)), in vigore dal 1° apr. 2006 ([RU 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5203](https://fedlex.data.admin.ch/eli/fga/2004/1081)[5863](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
-[^92-6]: Introdotto dalla cifra I della LF del 23 giu. 1995 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)). Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^92-7]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^92-8]: Nuovo testo del per. giusta la cifra II n. 28 della LF del 6 ott. 2006 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^92-9]: Introdotto dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^92-10]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^92-11]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^92-12]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1997 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273), [1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)II 1; [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^92-4]: Nuovo testo del quarto per. giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^92-5]: Introdotto dall’art. 42 cpv. 1 della LF del 6 ott. 1989 sul collocamento e il personale a prestito ([RU 1991 392](https://fedlex.data.admin.ch/eli/oc/1991/392_392_392); [FF 1985 III 503](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)). Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/363)).
+[^92-6]: Nuovo testo giusta l’art. 2 n. 15 del DF del 17 dic. 2004 (estensione dell’Acc. sulla libera circolazione delle persone ai nuovi Stati membri della CE e misure collaterali) ([RU 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5203](https://fedlex.data.admin.ch/eli/fga/2004/1081)[5863](https://fedlex.data.admin.ch/eli/fga/2004/1105)), in vigore dal 1° apr. 2006 ([RU 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5203](https://fedlex.data.admin.ch/eli/fga/2004/1081)[5863](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
+[^92-7]: Introdotto dalla cifra I della LF del 23 giu. 1995 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)). Nuovo testo giusta la cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^92-8]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^92-9]: Nuovo testo del per. giusta la cifra II n. 28 della LF del 6 ott. 2006 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^92-10]: Introdotto dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^92-11]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^92-12]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^92-13]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1997 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273), [1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)II 1; [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 
 #### Art. 93
 
@@ -2358,7 +2367,7 @@ Le spese processuali e ripetibili, addossate a una cassa o a un servizio cantona
 
 <sup>2</sup> La cassa esige dal datore di lavoro la restituzione delle indennità, indebitamente riscosse, per lavoro ridotto o per intemperie. Il datore di lavoro, se è responsabile del pagamento indebito, non può esigerne il rimborso dai lavoratori.
 
-<sup>3</sup> La cassa sottopone una domanda di condono, per decisione, al servizio cantonale.
+<sup>3</sup> La cassa sottopone le domande di condono, per decisione, al servizio cantonale.[^95-8]
 
 [^95-1]: Nuovo testo giusta l’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^95-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
@@ -2367,6 +2376,7 @@ Le spese processuali e ripetibili, addossate a una cassa o a un servizio cantona
 [^95-5]: Nuovo testo giusta la cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^95-6]: Introdotto dalla cifra I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^95-7]: Introdotto dalla cifra I della LF del 22 mar. 2002 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nuovo testo giusta l’all. n. 40 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^95-8]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 
 #### Art. 96
 
@@ -2413,18 +2423,9 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 
 **Accesso ai sistemi d’informazione gestiti dall’ufficio di compensazione[^96c-2]**[^96c-1]
 
-<sup>1</sup> Per provvedere al pagamento, al conteggio e alla contabilizzazione delle prestazioni dell’assicurazione contro la disoccupazione, le casse di disoccupazione hanno accesso al sistema d’informazione per il pagamento delle prestazioni dell’assicurazione contro la disoccupazione (art. 83 cpv. 1<sup>bis</sup> lett. a).[^96c-3]
+<sup>1</sup> Gli organi di esecuzione di cui all’articolo 76 capoverso 1 lettere a e c hanno accesso ai sistemi d’informazione previsti all’articolo 83 capoverso 1<sup>bis</sup> nella misura in cui lo esiga l’adempimento dei compiti di cui agli articoli 81 e 85.[^96c-3]
 
-<sup>1bis</sup> Gli uffici che hanno accesso al sistema d’informazione del servizio pubblico di collocamento (art. 83 cpv. 1<sup>bis</sup> lett. b) e le persone e gli uffici che hanno un accesso protetto alla piattaforma del servizio pubblico di collocamento (art. 83 cpv. 1<sup>bis</sup> lett. e) sono elencati all’articolo 35 capoversi 3 e 3<sup>ter</sup> LC[^96c-4].[^96c-5]
-
-<sup>1ter</sup>
-
-Per ottenere i necessari indicatori di prestazione e di gestione, hanno accesso al sistema d’informazione per l’analisi dei dati del mercato del lavoro (art. 83 cpv. 1<sup>bis</sup> lett. c):
-
-- a. i servizi cantonali (art. 85);
-- b. gli URC (art. 85*b*);
-- c. i servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro (art. 85*c*);
-- d. le casse di disoccupazione (art. 77 e 78).[^96c-6]
+<sup>1bis e <sup>1ter</sup></sup> ...[^96c-4]
 
 <sup>1quater</sup>
 
@@ -2432,26 +2433,24 @@ Possono registrarsi sulla piattaforma di accesso ai servizi online (art. 83 cpv.
 
 - a. gli assicurati, per annunciarsi, richiedere prestazioni e adempiere gli obblighi di cui all’articolo 17;
 - b. le persone in cerca d’impiego, per annunciarsi e far capo alla consulenza dell’URC;
-- c. i datori di lavoro, per richiedere prestazioni secondo gli articoli 31 e 42 e adempiere gli obblighi di cui all’articolo 88 capoverso 1.[^96c-7]
+- c. i datori di lavoro, per richiedere prestazioni secondo gli articoli 31 e 42 e adempiere gli obblighi di cui all’articolo 88 capoverso 1.[^96c-5]
 
-<sup>2</sup> ...[^96c-8]
+<sup>2</sup> ...[^96c-6]
 
-<sup>2bis</sup> Se necessario all’esecuzione della presente legge e della LC, è autorizzato lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 1<sup>bis</sup>) e del servizio pubblico di collocamento (art. 35 LC).[^96c-9]
+<sup>2bis</sup> Se necessario all’esecuzione della presente legge e della LC, è autorizzato lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 1<sup>bis</sup>) e del servizio pubblico di collocamento (art. 35 LC).[^96c-7]
 
-<sup>2ter</sup> ... [^96c-10]
+<sup>2ter</sup> ... [^96c-8]
 
 <sup>3</sup> Il Consiglio federale disciplina la responsabilità per la protezione dei dati, i dati da rilevare e i termini di conservazione, l’accesso ai dati, l’organizzazione e la gestione di sistemi di informazione, la collaborazione fra le autorità designate nel capoverso 1 e la sicurezza dei dati.
 
 [^96c-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^96c-2]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-4]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^96c-3]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^96c-4]: Introdotti dalla cifra I della LF del 19 giu. 2020 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Abrogati dalla cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), con effetto dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^96c-5]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-6]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-7]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-8]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^96c-9]: Introdotto dalla cifra I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^96c-10]: Introdotto dalla cifra I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-6]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-7]: Introdotto dalla cifra I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^96c-8]: Introdotto dalla cifra I della LF del 19 mar. 2010 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 96d
 
@@ -2481,7 +2480,7 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 - b<sup>bis</sup>.[^97a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
 - b<sup>ter</sup>.[^97a-6] alle autorità competenti in materia di stranieri, conformemente all’articolo 97 capoverso 3 della legge federale del 16 dicembre 2005[^97a-7] sugli stranieri e la loro integrazione[^97a-8];
 - c. alle autorità competenti per la riscossione dell’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^97a-9] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
-- c<sup>bis</sup>.[^97a-10] alle autorità fiscali cantonali, se il diritto cantonale prevede che il conteggio delle prestazioni sia trasmesso loro direttamente;
+- c<sup>bis</sup>.[^97a-10] alle autorità fiscali cantonali, se il diritto cantonale prevede che l’attestato concernente le prestazioni dell’assicurazione contro la disoccupazione sia trasmesso loro direttamente;
 - d. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^97a-11] sulla statistica federale;
 - e. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
 - e<sup>bis</sup>.[^97a-12] al Servizio delle attività informative della Confederazione (SIC) o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^97a-13] sulle attività informative;
@@ -2494,9 +2493,9 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
   - 3\. ai tribunali penali e alle autorità istruttorie penali, qualora ne necessitino per accertare un crimine o un delitto,
   - 4\. agli uffici d’esecuzione, conformemente agli articoli 91, 163 e 222 LEF[^97a-14],
   - 5\. alle autorità fiscali, qualora ne necessitino per l’applicazione delle leggi in materia fiscale,
-  - 6\.[^97a-15] alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile svizzero[^97a-16];
+  - 6\.[^97a-15] alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile (CC)[^97a-16],
   - 7\.[^97a-17] alle autorità competenti in materia di stranieri, qualora ne necessitino per l’applicazione della legge federale del 16 dicembre 2005[^97a-18] sugli stranieri e la loro integrazione e dell’accordo del 21 giugno 1999[^97a-19] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, con allegati, protocolli e atto finale, nonché la relativa legislazione svizzera d’esecuzione,
-  - 8\.[^97a-20] ...[^97a-21]
+  - 8\.[^97a-20] all’ufficio specializzato designato dal diritto cantonale di cui agli articoli 131 e 290 CC, qualora ne necessiti per provvedere all’incasso di contributi di mantenimento non pagati o per garantire il versamento di contributi di mantenimento futuri.[^97a-21]
 
 <sup>2</sup> Le autorità federali, cantonali e comunali interessate possono comunicare i dati necessari per la lotta contro il lavoro nero conformemente agli articoli 11 e 12 della legge del 17 giugno 2005[^97a-22] contro il lavoro nero.[^97a-23]
 
@@ -2528,17 +2527,17 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 [^97a-7]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^97a-8]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il testo.
 [^97a-9]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
-[^97a-10]: Introdotta dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^97a-10]: Introdotta dalla cifra I della LF del 19 giu. 2020 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)). Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^97a-11]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^97a-12]: Introdotta dall’all. n. 14 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. cifra II n. 20 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^97a-13]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^97a-14]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
-[^97a-15]: Introdotto dall’all. n. 32 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^97a-15]: Introdotto dall’all. n. 32 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione) ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)). Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^97a-16]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^97a-17]: Introdotto dalla cifra I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^97a-18]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^97a-19]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
-[^97a-20]: Introdotto dall’all. n. 14 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. cifra II n. 20 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^97a-20]: Introdotto dall’all. n. 14 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 [^97a-21]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^97a-22]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^97a-23]: Nuovo testo giusta l’all. n. 8 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
@@ -2719,22 +2718,20 @@ I Cantoni:
 - a. gestiscono le casse cantonali previste nella presente legge;
 - b. designano i servizi competenti e le autorità di ricorso;
 - c.[^113-2] istituiscono uffici regionali di collocamento secondo l’articolo 85*b*;
-- d.[^113-3] istituiscono commissioni tripartite secondo l’articolo 85*c*[^113-4];
-- e.[^113-5] emanano le prescrizioni procedurali;
-- f.[^113-6] provvedono per una collaborazione efficace tra i servizi competenti per l’assicurazione contro la disoccupazione e per il collocamento;
-- g.[^113-7] designano cinque giorni festivi in cui sussiste il diritto all’indennità di disoccupazione secondo l’articolo 19[^113-8].
+- d.[^113-3] istituiscono commissioni tripartite secondo l’articolo 85*d*;
+- e.[^113-4] emanano le prescrizioni procedurali;
+- f.[^113-5] provvedono per una collaborazione efficace tra i servizi competenti per l’assicurazione contro la disoccupazione e per il collocamento;
+- g.[^113-6] ...
 
-<sup>3</sup> ...[^113-9]
+<sup>3</sup> ...[^113-7]
 
-[^113-1]: Espressione modificata dalla cifra III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^113-1]: Espr. modificata dalla cifra III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 [^113-2]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^113-3]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^113-4]: Ora: secondo l’art. 85*d*.
-[^113-5]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^113-6]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^113-7]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
-[^113-8]: Questo art. è ora abrogato.
-[^113-9]: Abrogato dalla cifra I della LF del 23 giu. 1995, con effetto dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^113-3]: Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^113-4]: Nuovo testo giusta la cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^113-5]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
+[^113-6]: Introdotto dalla cifra I della LF del 23 giu. 1995 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)). Nuovo testo giusta la cifra I della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^113-7]: Abrogato dalla cifra I della LF del 23 giu. 1995, con effetto dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 
 ### Capitolo 2: Modificazioni, abrogazioni e proroga
 
@@ -2793,7 +2790,7 @@ Sono abrogati:
 <sup>2</sup> Le disposizioni abrogate s’applicano ancora ai fatti avvenuti prima dell’entrata in vigore della presente legge.
 
 [^118-1]: [[RU 1977 208](https://fedlex.data.admin.ch/eli/oc/1977/208_208_208); [1982 166](https://fedlex.data.admin.ch/eli/oc/1982/166_166_166), [1894](https://fedlex.data.admin.ch/eli/oc/1982/1894_1894_1894)]
-[^118-2]: [[RU 1951 1197](https://fedlex.data.admin.ch/eli/oc/1951/1163_1167_1197), [1959 535](https://fedlex.data.admin.ch/eli/oc/1959/537_559_535), [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)art. 61, [1967 26](https://fedlex.data.admin.ch/eli/oc/1967/25_25_26), [1968 93](https://fedlex.data.admin.ch/eli/oc/1968/90_90_93), [1973 1535](https://fedlex.data.admin.ch/eli/oc/1973/1535_1535_1535), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)cifra I II VI, **1977** 208 art. 38 cpv. 1 lett. a, **1981** 224, **1982** 1209]
+[^118-2]: [[RU 1951 1197](https://fedlex.data.admin.ch/eli/oc/1951/1163_1167_1197), [1959 535](https://fedlex.data.admin.ch/eli/oc/1959/537_559_535), [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)art. 61, [1967 26](https://fedlex.data.admin.ch/eli/oc/1967/25_25_26), [1968 93](https://fedlex.data.admin.ch/eli/oc/1968/90_90_93), [1973 1535](https://fedlex.data.admin.ch/eli/oc/1973/1535_1535_1535), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)cifre I, II, VI, **1977** 208 art. 38 cpv. 1 lett. a, **1981** 224, **1982** 1209]
 [^118-3]: [[RU 1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078), [1977 208](https://fedlex.data.admin.ch/eli/oc/1977/208_208_208)art. 37]
 [^118-4]: Introdotto dalla cifra I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
 [^118-5]: [[RU 1993 1066](https://fedlex.data.admin.ch/eli/oc/1993/1066_1066_1066)]
