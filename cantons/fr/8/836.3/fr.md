@@ -4,13 +4,12 @@ number: "836.3"
 title: Loi sur les allocations de maternité
 short: LAMat
 language: fr
-version: 2013-01-01
-valid_until: 2025-12-31
-version_adopted: 2012-06-15
+version: 2026-01-01
+version_adopted: 2024-02-08
 adopted: 2010-09-09
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/836.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6315/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8266/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Allocations de maternité – L
 
 (LAMat)
 
-du 09.09.2010 (version entrée en vigueur le 01.01.2013)
+du 09.09.2010 (version entrée en vigueur le 01.01.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -40,7 +39,7 @@ Décrète:
 <sup>1</sup> Il est institué un régime d'allocations ayant pour but de garantir la sécurité matérielle lors de l'accouchement ou de l'adoption. Les allocations versées sont les suivantes:
 
 - a) une allocation de maternité complémentaire à l'assurance de maternité fédérale en cas de naissance;
-- b) une allocation de maternité en cas de besoin;
+- b) …
 - c) une allocation d'adoption.
 
 ## 2 Allocation de maternité complémentaire
@@ -78,47 +77,27 @@ Décrète:
 
 <sup>1</sup> Le droit à l'allocation de maternité complémentaire s'éteint le nonante-huitième jour à partir du jour où il a été octroyé. Il prend fin avant ce terme lorsque la mère quitte le canton ou lorsque les prestations de l'assurance de maternité fédérale deviennent entre-temps supérieures au montant prévu à l'article 4.
 
-## 3 Allocation de maternité en cas de besoin
+## 3
 
 #### Art. 6
 
-**Principes**
-
-<sup>1</sup> L'allocation de maternité en cas de besoin est une prestation accordée pendant une durée maximale d'une année.
-
-<sup>2</sup> L'allocation est incessible, insaisissable et soustraite à toute exécution forcée, sous réserve de l'article 20.
+**…**
 
 #### Art. 7
 
-**Ayants droit**
-
-<sup>1</sup> L'allocation de maternité en cas de besoin est destinée aux femmes dans une situation économiquement modeste qui sont domiciliées et qui résident dans le canton depuis une année au moins lors de la naissance de leur enfant (date de l'annonce au contrôle des habitants). Ont droit à l'allocation de maternité en cas de besoin les femmes dont le revenu et la fortune déterminants – personnels et familiaux – n'atteignent pas les limites applicables.
-
-<sup>2</sup> Le droit à l'allocation de maternité en cas de besoin naît le premier jour du mois au cours duquel les conditions économiques sont remplies, mais au plus tôt le premier jour du mois de la naissance de l'enfant.
+**…**
 
 #### Art. 8
 
-**Calcul du revenu et de la fortune déterminants et limites applicables**
-
-<sup>1</sup> Les modalités de calcul du revenu et de la fortune pour la détermination d'une situation économiquement modeste ainsi que les limites applicables sont fixées dans le règlement d'exécution.
+**…**
 
 #### Art. 9
 
-**Montant**
-
-<sup>1</sup> Le montant de l'allocation de maternité en cas de besoin correspond à la différence entre la limite de revenu applicable et le revenu déterminant.
-
-<sup>2</sup> Le règlement d'exécution fixe un montant minimal et un montant maximal.
+**…**
 
 #### Art. 10
 
-**Extinction du droit**
-
-<sup>1</sup> Le droit à l'allocation de maternité en cas de besoin s'éteint à la fin du mois dans lequel les conditions économiques ne sont plus remplies, mais au plus tard à la fin du onzième mois qui suit celui de la naissance de l'enfant.
-
-<sup>2</sup> Lorsque l'ayant droit quitte le canton, le droit à l'allocation s'éteint à la fin du mois durant lequel le changement de domicile a eu lieu.
-
-<sup>3</sup> En cas de décès de l'enfant avant le terme de la durée maximale de prestations de douze mois, l'allocation est versée à l'ayant droit jusqu'à la fin du mois suivant le mois au cours duquel cet événement est survenu. Lorsque la mère décède, l'allocation est versée en faveur de l'enfant jusqu'au terme du droit initial.
+**…**
 
 ## 4 Allocation d'adoption
 

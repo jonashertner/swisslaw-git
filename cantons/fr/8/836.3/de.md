@@ -4,13 +4,12 @@ number: "836.3"
 title: Gesetz über die Mutterschaftsbeiträge
 short: MBG
 language: de
-version: 2013-01-01
-valid_until: 2025-12-31
-version_adopted: 2012-06-15
+version: 2026-01-01
+version_adopted: 2024-02-08
 adopted: 2010-09-09
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/836.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/6315/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8266/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mutterschaftsbeiträge – G
 
 (MBG)
 
-vom 09.09.2010 (Fassung in Kraft getreten am 01.01.2013)
+vom 09.09.2010 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -40,7 +39,7 @@ beschliesst:
 <sup>1</sup> Es wird ein Beitragssystem geschaffen mit dem Zweck, die materielle Sicherheit bei der Geburt oder Adoption eines Kindes zu gewährleisten. Folgende Beiträge werden ausgerichtet:
 
 - a) ein ergänzender Mutterschaftsbeitrag zur eidgenössischen Mutterschaftsversicherung;
-- b) ein Mutterschaftsbeitrag im Bedarfsfall;
+- b) …
 - c) ein Adoptionsbeitrag.
 
 ## 2 Ergänzender Mutterschaftsbeitrag
@@ -78,47 +77,27 @@ beschliesst:
 
 <sup>1</sup> Der Anspruch auf den ergänzenden Mutterschaftsbeitrag erlischt am 98. Tag nach dem Tag seiner Gewährung. Er endet vorher, wenn die Mutter aus dem Kanton wegzieht oder wenn die Leistungen der eidgenössischen Mutterschaftsversicherung den Betrag nach Artikel 4 überschreiten.
 
-## 3 Mutterschaftsbeitrag im Bedarfsfall
+## 3
 
 #### Art. 6
 
-**Grundsätze**
-
-<sup>1</sup> Der Mutterschaftsbeitrag im Bedarfsfall wird während höchstens einem Jahr ausgerichtet.
-
-<sup>2</sup> Der Beitrag ist unabtretbar, unpfändbar und der Zwangsvollstreckung entzogen. Der Artikel 20 bleibt vorbehalten.
+**…**
 
 #### Art. 7
 
-**Anspruchsberechtigte**
-
-<sup>1</sup> Anspruch auf einen Mutterschaftsbeitrag im Bedarfsfall haben Frauen, die bei der Geburt ihres Kindes seit mindestens einem Jahr ihren Wohnsitz im Kanton haben und sich hier aufhalten (Datum der Anmeldung bei der Einwohnerkontrolle), wenn sie in wirtschaftlich bescheidenen Verhältnissen leben, d.h. wenn ihr massgebendes Einkommen und Vermögen – sowohl das eigene als auch das der Familie – unter den anwendbaren Grenzen liegt.
-
-<sup>2</sup> Der Anspruch auf den Mutterschaftsbeitrag im Bedarfsfall entsteht am ersten Tag des Monats, in dem die wirtschaftlichen Voraussetzungen erfüllt sind, frühestens jedoch am ersten Tag des Geburtsmonats des Kindes.
+**…**
 
 #### Art. 8
 
-**Berechnung des massgebenden Einkommens und Vermögens und der anwendbaren Grenzen**
-
-<sup>1</sup> Die Berechnung des Einkommens und Vermögens zur Bestimmung von wirtschaftlich bescheidenen Verhältnissen und die anwendbaren Grenzen werden im Ausführungsreglement geregelt.
+**…**
 
 #### Art. 9
 
-**Höhe des Beitrags**
-
-<sup>1</sup> Die Höhe des Mutterschaftsbeitrags im Bedarfsfall entspricht der Differenz zwischen der anwendbaren Einkommensgrenze und dem massgebenden Einkommen.
-
-<sup>2</sup> Das Ausführungsreglement setzt einen Mindest- und einen Höchstbetrag fest.
+**…**
 
 #### Art. 10
 
-**Erlöschen des Anspruchs**
-
-<sup>1</sup> Der Anspruch auf den Mutterschaftsbeitrag im Bedarfsfall erlischt am Ende des Monats, in dem die wirtschaftlichen Voraussetzungen nicht mehr erfüllt sind, spätestens aber am Ende des elften Monats nach dem Geburtsmonat des Kindes.
-
-<sup>2</sup> Zieht die anspruchsberechtigte Person aus dem Kanton weg, so erlischt der Beitragsanspruch am Ende des Monats des Wohnsitzwechsels.
-
-<sup>3</sup> Stirbt das Kind vor Ablauf der maximalen Beitragsdauer von zwölf Monaten, so erhält die anspruchsberechtigte Person den Beitrag bis zum Ende des auf den Todestag folgenden Monats. Stirbt die Mutter, so wird der Beitrag zugunsten des Kindes bis zum Ende des ursprünglichen Anspruchs ausgerichtet.
+**…**
 
 ## 4 Adoptionsbeitrag
 
