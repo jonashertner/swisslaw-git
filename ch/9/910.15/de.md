@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über die Koordination der Kontrollen auf
 short: VKKL
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20250101/de"
 
 (VKKL)
 
-vom 31. Oktober 2018 (Stand am 1. Januar 2025)
+vom 31. Oktober 2018 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 177 und 181 Absatz 1<sup>bis</sup> des Landwirtschafts
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 1
 
@@ -47,13 +47,13 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 
 <sup>4</sup> Diese Verordnung richtet sich an die Kantone und die Stellen, die Kontrollen nach den Verordnungen nach Absatz 2 durchführen.
 
-[^1-1]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^1-2]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^1-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-4]: [SR 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
+[^1-1]: [SR 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^1-2]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^1-3]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^1-4]: [SR 910.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10417)
 [^1-5]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^1-6]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^1-7]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^1-7]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 2
 
@@ -65,21 +65,28 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 
 <sup>3</sup> Die Grundkontrollen können mit verschiedenen Kontrollmethoden vorgenommen werden; anderslautende Bestimmungen der Verordnungen nach Artikel 1 Absatz 2 bleiben vorbehalten.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **202****4** 624).
+[^2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 624](https://fedlex.data.admin.ch/eli/oc/2024/624)).
 
 #### Art. 3
 
 **Mindesthäufigkeit und Koordination der Grundkontrollen**
 
-<sup>1</sup> Die Anforderungen der Verordnungen nach Artikel 1 Absatz 2 Buchstaben b, c und e müssen mindestens einmal innerhalb von acht Jahren kontrolliert werden.[^3-1]
+<sup>1</sup>
 
-<sup>2</sup> Die Anforderungen der Verordnung nach Artikel 1 Absatz 2 Buchstabe a müssen auf Ganzjahresbetrieben mindestens innerhalb von vier und auf Sömmerungsbetrieben innerhalb von acht Jahren kontrolliert werden.
+Die Einhaltung der Anforderungen der Verordnung nach Artikel 1 Absatz 2 Buchstabe a muss kontrolliert werden:
+
+- a. auf Ganzjahresbetrieben: mindestens zweimal innerhalb von acht Jahren;
+- b. auf Sömmerungsbetrieben: mindestens einmal innerhalb von acht Jahren.[^3-1]
+
+<sup>2</sup> Die Einhaltung der Anforderungen der Verordnungen nach Artikel 1 Absatz 2 Buchstaben b, c und e muss mindestens einmal innerhalb von acht Jahren kontrolliert werden.[^3-2]
+
+<sup>2bis</sup> Die Kantone können abweichend von den Absätzen 1 und 2 in jedem Jahr bei maximal 10 Prozent der Betriebe auf eine der Grundkontrollen verzichten. Sie stützen sich bei der Auswahl auf eine eigene Risikoeinschätzung.[^3-3]
 
 <sup>3</sup> Der Zeitpunkt einer Grundkontrolle ist saisonal so festzulegen, dass die ausgewählten Bereiche wirkungsvoll kontrolliert werden können.
 
 <sup>4</sup> Ein Ganzjahresbetrieb muss innerhalb von acht Jahren mindestens zweimal vor Ort kontrolliert werden.
 
-<sup>5</sup> Mindestens 40 Prozent aller jährlichen Grundkontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^3-2]
+<sup>5</sup> Mindestens 40 Prozent aller jährlichen Grundkontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^3-4]
 
 <sup>6</sup>
 
@@ -88,8 +95,10 @@ Die Kantone sorgen für die Koordination der Grundkontrollen, sodass ein Betrieb
 - a. Grundkontrollen, bei denen die Anwesenheit des Bewirtschafters oder der Bewirtschafterin nicht erforderlich ist;
 - b. Grundkontrollen für Biodiversitätsbeiträge der Qualitätsstufe II und für die Vernetzung.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^3-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 
@@ -124,15 +133,23 @@ Bei einer Neuanmeldung für eine bestimmte Direktzahlungsart oder bei einer Wied
 - b.[^5-2] Biodiversitätsbeitrag der Qualitätsstufe I, ohne Rotationsbrachen: erste risikobasierte Kontrolle innerhalb der ersten zwei Beitragsjahre;
 - c. Vernetzungsbeitrag: erste risikobasierte Kontrolle innerhalb der ersten acht Beitragsjahre.
 
+<sup>4bis</sup>
+
+Die Kontrolle nach Absatz 4 muss nicht durchgeführt werden, wenn:
+
+- a. die Summe der Direktzahlungen bei der neu oder wieder angemeldeten Direktzahlungsart unter 500 Franken liegt; oder
+- b. der Produktionssystembeitrag zum Verzicht auf Pflanzenschutzmittel unterbrochen wurde und der Unterbruch höchstens ein Jahr dauerte.[^5-3]
+
 <sup>5</sup> Eine erneute Kontrolle nach Absatz 1 ist nicht vorzunehmen bei Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetrieben, die eine Kürzung der Direktzahlungen oder Einzelkulturbeiträge von 200 Franken oder weniger zur Folge hatten.
 
-<sup>6</sup> Mindestens 40 Prozent aller jährlichen risikobasierten Kontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^5-3]
+<sup>6</sup> Mindestens 40 Prozent aller jährlichen risikobasierten Kontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^5-4]
 
 <sup>7</sup> Ausgenommen von den Absätzen 1–6 sind Kontrollen nach der Gewässerschutzgesetzgebung.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^5-2]: Fassung gemäss Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^5-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^5-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 6
 
@@ -159,10 +176,10 @@ Privatrechtliche Stellen müssen gestützt auf die Akkreditierungs- und Bezeichn
 
 <sup>4</sup> Stellt eine Kontrollperson einen offensichtlichen Verstoss gegen eine Bestimmung einer Verordnung nach Artikel 1 Absatz 2 dieser Verordnung oder nach Artikel 10 Absatz 1 der Verordnung vom 27. Mai 2020[^7-4] über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (MNKPV) fest, so ist der Verstoss den dafür zuständigen Vollzugsbehörden zu melden, selbst wenn die Kontrollperson nicht den Auftrag hatte, die Einhaltung der betreffenden Bestimmungen zu kontrollieren.[^7-5]
 
-[^7-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^7-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^7-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 [^7-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^7-4]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^7-4]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^7-5]: Fassung gemäss Anhang 4 Ziff. 4 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
 #### Art. 7a
@@ -202,7 +219,7 @@ Der Kanton beziehungsweise die Kontrollkoordinationsstelle teilt jeder Kontrolls
 <sup>4</sup> Die Kontrollkoordinationsstelle führt eine Liste der Vollzugsbehörden und ihrer Zuständigkeitsbereiche.
 
 [^8-1]: Fassung gemäss Anhang 4 Ziff. 4 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^8-2]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^8-2]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^8-3]: Fassung gemäss Anhang 4 Ziff. 4 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
 #### Art. 9
@@ -227,7 +244,7 @@ Das BLW und das BAFU können in ihren jeweiligen Zuständigkeitsbereichen nach R
 Bei einer Anmeldung für Beiträge nach den Artikeln 55 Absatz 1 Buchstabe q, 70, 71, 71*a*–71*e,* 75*a,* 82*b* und 82*c* DZV[^9a-2] in den Jahren 2023–2025 ist die erste risikobasierte Kontrolle nach Artikel 5 Absatz 4 bis Ende 2026 durchzuführen.
 
 [^9a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^9a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^9a-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10
 
@@ -237,7 +254,7 @@ Bei einer Anmeldung für Beiträge nach den Artikeln 55 Absatz 1 Buchstabe q, 70
 
 <sup>2</sup> Die Änderung anderer Erlasse wird in Anhang 2 geregelt.
 
-[^10-1]: [[[AS 2013 3867](http://intranet.admin.ch/ch/d/as/2013/3867.pdf)](https://fedlex.data.admin.ch/eli/oc/2013/712); [2015 4517](https://fedlex.data.admin.ch/eli/oc/2015/753); [2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)Ziff. III; [2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)Anhang 3 Ziff. 4]
+[^10-1]: [ [[AS 2013 3867](http://intranet.admin.ch/ch/d/as/2013/3867.pdf)](https://fedlex.data.admin.ch/eli/oc/2013/712); [2015 4517](https://fedlex.data.admin.ch/eli/oc/2015/753); [2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)Ziff. III; [2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)Anhang 3 Ziff. 4]
 
 #### Art. 11
 
@@ -266,8 +283,8 @@ Anhang 1[^t-1]
 - 3\.2 *BFF mit Beitrag der Qualitätsstufe II:* Auf Flachmooren, Trockenwiesen und -weiden sowie Amphibienlaichgebieten, die als Biotope von nationaler Bedeutung nach Artikel 18*a* des Bundesgesetzes vom 1. Juli 1966[^annex1-lvlu1-lvl3-2] über den Natur- und Heimatschutz und als Biodiversitätsförderflächen der Qualitätsstufe II angemeldet sind, müssen keine Grundkontrollen der Anforderungen an die Qualitätsstufe II durchgeführt werden. Eine Auswahl der restlichen angemeldeten Flächen und Bäume (Parzellen) muss vor Ort kontrolliert werden, wobei jeder BFF-Typ nach Artikel 55 DZV und alle in den vergangenen Jahren neu angesäten Flächen zwingend berücksichtigt werden müssen.
 - 3\.3 *BFF mit Vernetzungsbeitrag:* Die Einhaltung der Bedingungen und Bewirtschaftungsauflagen ist vor Ort zu überprüfen. Die Überprüfung erfolgt auf einer Auswahl von Flächen für jede angemeldete Massnahme.
 
-[^annex1-lvlu1-lvl3-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^annex1-lvlu1-lvl3-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex1-lvlu1-lvl3-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^annex1-lvlu1-lvl3-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 Anhang 2
 

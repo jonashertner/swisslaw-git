@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2018 sur la coordination des contrôles dans les
 short: OCCEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20250101/fr"
 
 (OCCEA)
 
-du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2025)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 177 et 181, al. 1<sup>bis</sup>, de la loi du 29 avril 1998 sur l’
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 1
 
@@ -47,13 +47,13 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 
 <sup>4</sup> La présente ordonnance s’adresse aux cantons et aux organes qui effectuent des contrôles en vertu des ordonnances mentionnées à l’al. 2.
 
-[^1-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^1-2]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
-[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-4]: [RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
+[^1-1]: [RS 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^1-2]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^1-4]: [RS 910.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10417)
 [^1-5]: Abrogée par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^1-6]: Introduite par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^1-7]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^1-7]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 2
 
@@ -71,15 +71,22 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 
 **Fréquence minimale et coordination des contrôles de base**
 
-<sup>1</sup> Les dispositions des ordonnances mentionnées à l’art. 1, al. 2, let. b, c et e, doivent être contrôlées au moins une fois dans un délai de huit ans.[^3-1]
+<sup>1</sup>
 
-<sup>2</sup> Les dispositions de l’ordonnance mentionnée à l’art. 1, al. 2, let. a, doivent être contrôlées dans un délai de quatre ans au moins dans les exploitations à l’année et de huit ans au moins dans les exploitations d’estivage.
+Le respect des dispositions de l’ordonnance mentionnée à l’art. 1, al. 2, let. a, doit être contrôlé:
+
+- a. dans les exploitations à l’année, au moins deux fois dans un délai de huit ans;
+- b. dans les exploitations d’estivage, au moins une fois dans un délai de huit ans.[^3-1]
+
+<sup>2</sup> Le respect des dispositions des ordonnances mentionnées à l’art. 1, al. 2, let. b, c et e, doit être contrôlé au moins une fois dans un délai de huit ans.[^3-2]
+
+<sup>2bis</sup> En dérogation aux al. 1 et 2, les cantons peuvent chaque année renoncer à l’un des contrôles de base dans 10 % des exploitations au maximum. Ils font leur choix en se fondant sur leur propre évaluation des risques.[^3-3]
 
 <sup>3</sup> La date d’un contrôle de base doit être fixée de manière à ce que les domaines choisis puissent être contrôlés efficacement.
 
 <sup>4</sup> Une exploitation à l’année doit faire l’objet d’un contrôle sur place au moins deux fois en l’espace de huit ans.
 
-<sup>5</sup> Au moins 40 % de tous les contrôles de base annuels concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^3-2]
+<sup>5</sup> Au moins 40 % de tous les contrôles de base annuels concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^3-4]
 
 <sup>6</sup>
 
@@ -88,8 +95,10 @@ Les cantons veillent à la coordination des contrôles de base de manière à ce
 - a. les contrôles de base qui ne requièrent pas la présence de l’exploitant;
 - b. les contrôles de base portant sur les contributions à la biodiversité du niveau de qualité II et pour la mise en réseau.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^3-3]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 
@@ -124,15 +133,23 @@ Si un exploitant sollicite pour la première fois un certain type de paiements d
 - b.[^5-2] contribution à la biodiversité du niveau de qualité I, sans les jachères tournantes: premier contrôle en fonction des risques pendant les deux premières années de contributions;
 - c. contribution pour la mise en réseau: premier contrôle en fonction des risques pendant les huit premières années de contributions.
 
+<sup>4bis</sup>
+
+Le contrôle visé à l’al. 4 n’est pas obligatoire:
+
+- a. lorsque la somme des paiements directs versés à la suite d’une nouvelle inscription ou d’une réinscription est inférieure à 500 francs, ou
+- b. lorsque l’inscription à une contribution au système de production pour le non-recours aux produits phytosanitaires a été interrompue pendant une année au maximum.[^5-3]
+
 <sup>5</sup> Un nouveau contrôle selon l’al. 1 ne doit pas être effectué dans les exploitations à l’année, les exploitations d’estivage et les exploitations de pâturages communautaires qui ont fait l’objet d’une réduction des paiements directs ou des contributions à des cultures particulières égale ou inférieure à 200 francs.
 
-<sup>6</sup> Au moins 40 % de tous les contrôles annuels basés sur les risques concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^5-3]
+<sup>6</sup> Au moins 40 % de tous les contrôles annuels basés sur les risques concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^5-4]
 
 <sup>7</sup> Les al. 1 à 6 ne s’appliquent pas aux contrôles réalisés en vertu de la législation sur la protection des eaux.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 [^5-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^5-3]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 714](https://fedlex.data.admin.ch/eli/oc/2025/714)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 6
 
@@ -159,10 +176,10 @@ Les organes de droit privé doivent être accrédités conformément à l’ordo
 
 <sup>4</sup> Si la personne chargée du contrôle constate un manquement manifeste aux dispositions de l’une des ordonnances visées à l’art. 1, al. 2, de la présente ordonnance ou à l’art. 10, al. 1, de l’ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels (OPCNP)[^7-4], ce manquement doit être annoncé aux autorités d’exécution compétentes, même si cette personne n’a pas été chargée de contrôler le respect des dispositions concernées.[^7-5]
 
-[^7-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^7-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^7-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
-[^7-4]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^7-4]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^7-5]: Nouvelle teneur selon l’annexe 4 ch. 4 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
 #### Art. 7a
@@ -202,7 +219,7 @@ Le canton ou le service de coordination des contrôles indique à chaque organe 
 <sup>4</sup> Le service de coordination des contrôles tient une liste des autorités d’exécution et de leurs domaines de compétence.
 
 [^8-1]: Nouvelle teneur selon l’annexe 4 ch. 4 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^8-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^8-2]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^8-3]: Nouvelle teneur selon l’annexe 4 ch. 2 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
 #### Art. 9
@@ -227,7 +244,7 @@ L’OFAG et l’OFEV peuvent, dans leurs domaines de compétence respectifs, apr
 Dans le cas d’une inscription aux contributions selon les art. 55, al. 1, let. q, 70, 71, 71*a* à 71*e,* 75*a,* 82*b* et 82*c* OPD[^9a-2] au cours des années 2023 à 2025, le premier contrôle en fonction des risques visé à l’art. 5, al. 4, doit être effectué avant fin 2026.
 
 [^9a-1]: Introduit par l’annexe ch. 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^9a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^9a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 10
 
@@ -266,8 +283,8 @@ Annexe 1[^t-1]
 - 3\.2 *SPB avec contribution pour le niveau de qualité II:* aucun contrôle de base des exigences du niveau de qualité II ne doit être réalisé pour les bas-marais, les prairies et pâturages secs et les sites de reproduction de batraciens qui sont annoncés en tant que biotopes d’importance nationale selon l’art. 18*a* de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^annex1-lvlu1-lvl3-2] et en tant que surfaces de promotion de la biodiversité du niveau de qualité II. Une sélection d’autres surfaces et arbres annoncés (parcelles) doit être contrôlée sur place, comprenant impérativement chaque type de SPB mentionné à l’art. 55 OPD et toutes les nouvelles surfaces ensemencées au cours des années précédentes.
 - 3\.3 *SPB avec contribution pour la mise en réseau:* le respect des conditions et des charges d’exploitation doit être vérifié sur place. Cette vérification porte sur une sélection de surfaces pour chaque mesure annoncée.
 
-[^annex1-lvlu1-lvl3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^annex1-lvlu1-lvl3-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex1-lvlu1-lvl3-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^annex1-lvlu1-lvl3-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 Annexe 2
 
