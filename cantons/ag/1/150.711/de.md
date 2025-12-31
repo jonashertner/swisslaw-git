@@ -4,13 +4,12 @@ number: "150.711"
 title: "Verordnung zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen"
 short: VIDAG
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-13
+version: 2026-01-01
+version_adopted: 2025-10-29
 adopted: 2007-09-26
 in_force: 2008-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.711"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3483/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3898/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3483/pdf_file"
 
 (VIDAG)
 
-Vom 26.09.2007 (Stand 01.07.2024)
+Vom 26.09.2007 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -327,29 +326,65 @@ beschliesst:
 
 [^22-1]: SAR [662.111](https://gesetzessammlungen.ag.ch/data/662.111/de)
 
-## 4. Archivwesen
+## 4. Aktenführung und Archivwesen
 
-### 4.1. Allgemeine Bestimmungen
+### 4.1. Aktenführung
+
+### 4.1.1. Grundsätze der Aktenführung
 
 #### § 23
 
 **Aufbewahrungspflicht und Ordnungssystem**
 
-<sup>1</sup> Die öffentlichen Organe sorgen für Sammlung, Ordnung und sichere Aufbewahrung der zu ihrem Zuständigkeitsbereich gehörenden Dokumente.
+<sup>1</sup> Die öffentlichen Organe sorgen für Sammlung, Ordnung und sichere Aufbewahrung der zu ihrem Zuständigkeitsbereich gehörenden Dokumente und weiteren Aufzeichnungen, die der Erfüllung öffentlicher Aufgaben dienen, unabhängig von Darstellungsform und Informationsträger (Informationen).
 
-<sup>2</sup> Jedes öffentliche Organ verfügt über ein nachgeführtes Ordnungssystem zu den von ihm verwalteten Dokumenten.
+<sup>2</sup> Sie führen die von ihnen verwalteten Dokumente und Informationen in Dossiers, die einer Position des nachgeführten Ordnungssystems eindeutig zuzuordnen sind.
 
-<sup>3</sup> Der Regierungsrat erlässt für die kantonale Verwaltung Richtlinien zur Aktenführung und Archivierung. Das Staatsarchiv unterstützt die öffentlichen Organe bei der Umsetzung der Richtlinien.
+<sup>2<sup>bis</sup></sup> Ausgenommen von der Dossierbildung sind Informationen, die sich aufgrund ihres Verwendungszwecks nicht dafür eignen und die mit geeigneten Informatikmitteln bearbeitet werden. Auch diese Informationen sind einer Position des nachgeführten Ordnungssystems eindeutig zuzuordnen.
+
+<sup>3</sup> …
+
+#### § 23a
+
+**Aktenführung in der kantonalen Verwaltung**
+
+<sup>1</sup> Für die kantonale Verwaltung, ausgenommen die selbständigen öffentlich-rechtlichen Anstalten, gilt die Verordnung zur Aktenführung in der kantonalen Verwaltung (AktenV) vom 29. Oktober 2025[^23a-1].
+
+[^23a-1]: SAR [150.731](https://gesetzessammlungen.ag.ch/data/150.731/de)
+
+### 4.1.2. Anbietepflicht kantonaler Behörden ans Staatsarchiv
+
+#### § 23b
+
+**Anbietepflichtige Stellen**
+
+<sup>1</sup> Die folgenden kantonalen Behörden (anbietepflichtige Stellen) sind verpflichtet, sämtliche Dossiers und Informationen dem Staatsarchiv anzubieten, wenn deren Aufbewahrungsfristen abgelaufen sind und sie diese nicht mehr dauernd benötigen:
+
+- a) Grosser Rat,
+- b) Gerichte, einschliesslich Schlichtungsbehörden, Konkursamt und Betreibungsinspektorat,
+- c) Regierungsrat,
+- d) Staatskanzlei und Departemente, einschliesslich der unselbständigen öffentlich-rechtlichen Anstalten,
+- e) beauftragte Person für Öffentlichkeit und Datenschutz,
+- f) Finanzkontrolle,
+- g) Kommissionen und Arbeitsgruppen, die einer vorgenannten Behörde zugeordnet sind.
+
+#### § 23c
+
+**Selbständige öffentlich-rechtliche Anstalten des Kantons**
+
+<sup>1</sup> Die selbständigen öffentlich-rechtlichen Anstalten des Kantons führen eigene Archive.
+
+<sup>2</sup> Sie können mit dem Staatsarchiv vereinbaren, dass diesem Dossiers und Informationen angeboten werden, denen für die Öffentlichkeit und die Wissenschaft Bedeutung zukommt. Die §§ 24–26b gelten sinngemäss.
 
 #### § 24
 
 **Archivwürdigkeit und Aufbewahrungsfristen**
 
-<sup>1</sup> Das Staatsarchiv legt in Zusammenarbeit mit den gemäss § 45 Abs. 1 IDAG anbietepflichtigen öffentlichen Organen fest, welche Dokumente archivwürdig sind.
+<sup>1</sup> Das Staatsarchiv legt in Zusammenarbeit mit den anbietepflichtigen Stellen fest, welche Dossiers und Informationen archivwürdig sind.
 
-<sup>2</sup> Die öffentlichen Organe bestimmen nach Rücksprache mit dem Staatsarchiv die aus rechtlichen und administrativen Gründen angemessenen minimalen Aufbewahrungsfristen für diese Dokumente, während denen sie der abliefernden Behörde noch zur Verfügung stehen müssen.
+<sup>2</sup> Die anbietepflichtigen Stellen bestimmen nach Rücksprache mit dem Staatsarchiv die aus rechtlichen und administrativen Gründen angemessenen minimalen Aufbewahrungsfristen ihrer Dossiers und Informationen.
 
-<sup>3</sup> Der Fristenlauf wird ab Datum des jüngsten Dokuments eines Geschäfts berechnet.
+<sup>3</sup> Der Fristenlauf wird ab Datum des jüngsten Dokuments eines Geschäfts berechnet. Bei Informationen gemäss § 23 Abs. 2<sup>bis</sup> legt das Staatsarchiv in Zusammenarbeit mit der anbietepflichtigen Stelle regelmässige Zeitabstände zur Ablieferung gemäss § 26a fest.
 
 #### § 25
 
@@ -357,25 +392,56 @@ beschliesst:
 
 #### § 26
 
-**Von der Anbietepflicht ausgenommene Dokumente**
+**Von der Anbietepflicht ausgenommene Dossiers und Informationen**
 
-<sup>1</sup> Überwiegende öffentliche Interessen gemäss § 45 Abs. 3 IDAG liegen insbesondere vor, wenn die Einsichtnahme in die Dokumente geeignet ist
+<sup>1</sup> Überwiegende öffentliche Interessen gemäss § 45 Abs. 3 IDAG liegen insbesondere vor, wenn die Einsichtnahme in die Dossiers und Informationen geeignet ist
 
 - a) die Sicherheit des Kantons zu gefährden,
 - b) die Beziehung zu ausländischen Staaten, internationalen Organisationen oder zwischen dem Kanton Aargau und dem Bund oder anderen Kantonen dauernd zu beeinträchtigen oder
 - c) die Handlungsfähigkeit des Regierungsrats schwerwiegend zu beeinträchtigen.
 
-<sup>2</sup> Bestehen die Hinderungsgründe gemäss § 45 Abs. 3 IDAG nicht mehr oder ist die verlängerte Frist abgelaufen, sind die Dokumente unverzüglich dem Staatsarchiv anzubieten. Auf der Ablieferungsliste ist der Grund für die Verzögerung zu vermerken.
+<sup>2</sup> Bestehen die Hinderungsgründe gemäss § 45 Abs. 3 IDAG nicht mehr oder ist die verlängerte Frist abgelaufen, sind die Dossiers und Informationen unverzüglich dem Staatsarchiv anzubieten.
+
+#### § 26a
+
+**Ablieferung ans Staatsarchiv**
+
+<sup>1</sup> Die anbietepflichtigen Stellen liefern die als archivwürdig bewerteten Dossiers und Informationen dem Staatsarchiv ab.
+
+<sup>2</sup> Die Ablieferung richtet sich nach den Vorgaben des Staatsarchivs.
+
+#### § 26b
+
+**Vernichtung von Dossiers und Informationen**
+
+<sup>1</sup> Die anbietepflichtigen Stellen sind verpflichtet, die vom Staatsarchiv als nicht archivwürdig bewerteten Dossiers und Informationen zu vernichten.
+
+<sup>2</sup> Sie stellen die geordnete Vernichtung sicher und dokumentieren jede Vernichtung.
+
+<sup>3</sup> Folgende Handlungen mit Dossiers und Informationen bedürfen der Zustimmung des Staatsarchivs:
+
+- a) Vernichtung,
+- b) elektronische Ersetzung von umfangreichen, papiergeführten Ablagen.
+
+<sup>4</sup> Das Staatsarchiv vernichtet kein Archivgut ohne schriftliche Zustimmung der zuständigen anbietepflichtigen Stelle.
+
+#### § 26c
+
+**Aufsicht des Staatsarchivs**
+
+<sup>1</sup> Unter der Aufsicht des Staatsarchivs stehen alle Aufbewahrungsräumlichkeiten sowie Speicherorte von Dossiers und Informationen der anbietepflichtigen Stellen und der selbständigen öffentlich-rechtlichen Anstalten des Kantons.
+
+<sup>2</sup> Das Staatsarchiv kann im Rahmen seiner Aufsicht insbesondere
+
+- a) Auskünfte und Unterlagen verlangen,
+- b) Mahnungen und Weisungen erlassen,
+- c) Massnahmen zur Wiederherstellung des rechtmässigen Zustands anordnen, wenn erhebliche öffentliche Interessen an der Archivierung dieser Dossiers oder Informationen bestehen.
 
 #### § 27
 
-**Vernichtung von Dokumenten**
+**…**
 
-<sup>1</sup> Die Vernichtung von Dokumenten, die unter die Anbietepflicht gemäss § 45 IDAG fallen, sowie die Mikroverfilmung (Ersatzverfilmung) und elektronische Erfassung von Archivgut bedürfen der Zustimmung des Staatsarchivs.
-
-<sup>2</sup> Das Staatsarchiv vernichtet keine Dokumente ohne schriftliche Zustimmung des abliefernden öffentlichen Organs.
-
-### 4.2. Bestand und Benutzung des Staatsarchivs
+### 4.2. Archivwesen
 
 #### § 28
 
@@ -384,16 +450,16 @@ beschliesst:
 <sup>1</sup> Das Archivgut des Staatsarchivs umfasst
 
 - a) Archivgut des Aargaus aus der Zeit der Rechtsvorgänger des Kantons bis 1798 sowie der helvetischen Kantone Aargau, Baden und Fricktal (eingeschlossen das Archivgut der aufgehobenen geistlichen Institutionen),
-- b) Archivgut der öffentlichen Organe seit 1803,
-- c) weiteres Schrift- und Überlieferungsgut, welches für die Kantons-, Orts- und Personengeschichte von Bedeutung ist, und dem Staatsarchiv zu dauerndem Besitze oder als Depositum – von Institutionen, Organisationen, natürlichen und juristischen Personen – geschenkt oder anvertraut wird oder auf andere Weise in den Besitz des Staatsarchivs gelangt,
-- d) eine Grafik-Sammlung,
+- b) Archivgut der öffentlichen Organe des Kantons seit 1803,
+- c) weiteres Archivgut, das für die Kantons-, Orts- und Personengeschichte von Bedeutung ist, und dem Staatsarchiv zu Eigentum oder als Depositum – von Institutionen, Organisationen, natürlichen und juristischen Personen – geschenkt oder anvertraut wird oder auf andere Weise in den Besitz des Staatsarchivs gelangt,
+- d) …
 - e) eine Handbibliothek.
 
 #### § 29
 
 **Einsichtnahme; Grundsatz**
 
-<sup>1</sup> Das Archivgut steht der Öffentlichkeit im Lesesaal während der Öffnungszeiten zur Einsicht offen.
+<sup>1</sup> Das Archivgut steht der Öffentlichkeit zur Einsicht offen.
 
 <sup>2</sup> Die Einsichtnahme in Archivgut von Nachlässen und Deposita richtet sich nach den Bestimmungen der Übernahmeverträge.
 
