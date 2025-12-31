@@ -3,20 +3,19 @@ canton: BL
 number: "681.11"
 title: Verordnung für die Berufsbildung
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-01-21
+version: 2026-01-01
+version_adopted: 2025-12-18
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.11"
-pdf: "https://bl.clex.ch/api/de/versions/4168/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Berufsbildung
 
-Vom 17.03.2009 (Stand 01.08.2025)
+Vom 17.03.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -160,7 +159,7 @@ beschliesst:
 
 <sup>2</sup> Die Genehmigung kann bei Wegfall der Genehmigungsvoraussetzungen widerrufen werden.
 
-<sup>3</sup> Das Amt für Berufsbildung und Berufsberatung führt ein Verzeichnis der Lehrvertragsdaten.
+<sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH führt ein Verzeichnis der Lehrvertragsdaten.
 
 <sup>4</sup> Die inner- und ausserkantonalen staatlichen oder staatlich anerkannten Berufsfachschulen, die Berufsbildungsämter anderer Kantone sowie die Anbieterinnen und Anbieter überbetrieblicher Kurse erhalten Zugang zu den für sie erforderlichen Lehrvertragsdaten. Dazu gehören:
 
@@ -279,7 +278,7 @@ beschliesst:
 <sup>2</sup> Eine Standortbestimmung findet ausserdem statt, wenn:
 
 - a. ein Betrieb erstmals oder unter veränderten Bedingungen eine berufliche Grundbildung anbietet;
-- b. eine Lehrvertragspartei, die Schulleitung der Berufsfachschule oder die Kommission für Qualifikationsverfahren der beruflichen Grundbildung (Prüfungskommission) beim Amt für Berufsbildung und Berufsberatung eine solche beantragt.
+- b. eine Lehrvertragspartei, die Schulleitung der Berufsfachschule oder die Kommission für Qualifikationsverfahren der beruflichen Grundbildung (Prüfungskommission) bei der Hauptabteilung Berufsbildung der Dienststelle BMH eine solche beantragt.
 
 <sup>3</sup> Die Standortbestimmungen sind für die Lehrvertragsparteien kostenlos.
 
@@ -327,7 +326,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann die Führung des beruflichen Unterrichts sowie die Bildungsbewilligung zur Vermittlung der praktischen Bildung und zu deren Durchführung mittels Praktikumsverträgen mit den Anbietenden von Betriebspraktika der Wirtschaftsmittelschule durch Vertrag privatrechtlichen Organisationen übertragen.
 
-<sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH ist zuständig für den Vollzug der Bundesvorschriften, für die Koordination der Berufsfachschulen und ist Ansprechstelle für die Schulräte und Schulleitungen der Berufsfachschulen und Höheren Fachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
+<sup>3</sup> Die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH ist zuständig für den Vollzug der Bundesvorschriften, für die Koordination der Berufsfachschulen und ist Ansprechstelle für die Schulräte und Schulleitungen der Berufsfachschulen und Höheren Fachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
 
 #### § 19
 
@@ -412,7 +411,7 @@ beschliesst:
   - 1\. regulärer Kurs: 16;
   - 2\. Kurs für Jugendliche mit Analphabetismus: 10.
 
-<sup>3</sup> Über Ausnahmen entscheidet die Hauptabteilung Berufsbildung der Dienststelle BMH auf Antrag der Schulleitung.
+<sup>3</sup> Über Ausnahmen entscheidet die Dienststelle BMH auf Antrag der Schulleitung.
 
 <sup>4</sup> Die Schulleitungen können zur Förderung von neuen Unterrichtsformen und für Projekte pro Lehrzeit 40 Wochenstunden für Abteilungsunterricht bewilligen.
 
@@ -537,7 +536,9 @@ beschliesst:
 
 **Auftrag und Umsetzung**
 
-<sup>1</sup> Die Aufsicht richtet sich nach den §§ 61a und 61b des Bildungsgesetzes vom 6. Juni 2002[^29a-1].
+<sup>1</sup> Die Dienststelle BMH beaufsichtigt die Berufsfachschulen und zieht bei Bedarf Fachexpertinnen und -experten bei.
+
+<sup>1<sup>bis</sup></sup> Die Aufsicht richtet sich nach § 61a und § 61b des Bildungsgesetzes vom 6. Juni 2002[^29a-1].
 
 <sup>2</sup> Die Dienststelle BMH hat im Rahmen der Aufsicht insbesondere folgende Aufgaben:
 
@@ -547,7 +548,7 @@ beschliesst:
 - d. Sie gibt periodisch Audits in Auftrag, die unter Einbezug der Beteiligten vor Ort ein Bild der Qualität der Arbeit an der Schule vermitteln. Sie zieht hierfür aussenstehende Expertinnen und Experten bei und kann Aufträge an Dritte erteilen.
 - e. Sie kann eine vertiefte Analyse in Auftrag geben, wenn die Funktion der Schule in einem oder mehreren Bereichen nicht gegeben oder gefährdet ist oder aber gefährdet sein könnte.
 
-[^29a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^29a-1]: [SGS 640](https://bl.clex.ch/data/640/de/art61a)
 
 #### § 29b
 
@@ -883,7 +884,7 @@ beschliesst:
 
 <sup>2</sup> Sie hat zudem insbesondere folgende Aufgaben:
 
-- a. Sie unterstützt und beaufsichtigt die Berufsfachschulen und zieht dafür bei Bedarf Fachexpertinnen und -experten bei.
+- a. Sie unterstützt die Berufsfachschulen in operativen Belangen.
 - b. Sie genehmigt die Klassenbildung.
 
 <sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH hat in der Führung der Berufsbildung insbesondere folgende Aufgaben:
@@ -891,6 +892,7 @@ beschliesst:
 - a. Sie entwickelt Strategien und Konzepte zur nachhaltigen Sicherung des Lehrstellenangebots in Zusammenarbeit mit Organisationen der Wirtschaft.
 - b. Sie unterstützt und beaufsichtigt die Lehrwerkstätten, überbetriebliche Kurse sowie Lehrbetriebe und zieht dafür bei Bedarf Fachexpertinnen und -experten bei.
 - c. Sie ist verantwortlich für die Koordination zwischen den an der beruflichen Grundbildung Beteiligten und für die lernortübergreifende Qualitätssicherung und -entwicklung.
+- c<sup>bis</sup>. Sie entwickelt und koordiniert Angebote, die die Vernetzung und Zusammenarbeit aller Beteiligten im Rahmen der beruflichen Orientierung und Berufsbildung fördern.
 - d. Sie ist verantwortlich für die Ausbildung der Berufsbildnerinnen und Berufsbildner und kann Weiterbildungskurse für sie anbieten oder Private mit diesen beauftragen.
 - e. Sie arbeitet mit den Arbeitgeber- und Arbeitnehmerorganisationen und den Organisationen der Arbeitswelt zusammen.
 - f. Sie organisiert und führt die Standortbestimmungen und Qualifikationsverfahren der beruflichen Grundbildung durch, soweit diese nicht kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen sind.
@@ -966,7 +968,7 @@ beschliesst:
 
 **Rechtliches Gehör**
 
-<sup>1</sup> Jede und jeder Lernende, gegen die oder den eine Massnahme gemäss § 61 Abs. 1 Bst. d–h und § 63 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
+<sup>1</sup> Jede und jeder Lernende, gegen die oder den eine Massnahme gemäss § 62 Abs. 1 Bst. d–h und § 63 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
 
 <sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen durch die Schulleitung und die Hauptabteilung Berufsbildung der Dienststelle BMH, sind der Lehrbetrieb und bei minderjährigen Lernenden die Erziehungsberechtigten anzuhören. Bei volljährigen Lernenden werden die Eltern oder Inhaberinnen oder Inhaber einer Beistandschaft, die die persönliche Fürsorge umfasst, informiert.
 
@@ -1013,7 +1015,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton richtet Beiträge an Firmen und private Organisationen für Veranstaltungen der berufsorientierten Weiterbildung aus.
 
-<sup>2</sup> Private Anbieter dürfen gegenüber staatlichen nicht benachteiligt werden. 3 Beitragsgesuche sind der Hauptabteilung Berufsbildung der Dienststelle BMH einschliesslich Kursprogramm einzureichen.
+<sup>2</sup> Private Anbieter dürfen gegenüber staatlichen nicht benachteiligt werden.
+
+<sup>3</sup> Beitragsgesuche sind der Hauptabteilung Berufsbildung der Dienststelle BMH einschliesslich Kursprogramm einzureichen.
 
 #### § 73
 
