@@ -4,13 +4,13 @@ number: "152.221.191"
 title: Verordnung über die Organisation und die Aufgaben der Bau- und Verkehrsdirektion
 short: "Organisationsverordnung BVD, OrV BVD"
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-10-23
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2025-11-26
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.191"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1716/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1716/pdf_file"
 
 (Organisationsverordnung BVD, OrV BVD)
 
-vom 18.10.1995 (Stand 01.01.2020)
+vom 18.10.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -68,7 +68,7 @@ beschliesst:
 
 <sup>2</sup> Das Generalsekretariat und die Ämter werden nach Bedarf in Stäbe, Abteilungen, Unterabteilungen und Dienststellen gegliedert.
 
-<sup>3</sup> Das Tiefbauamt wird für die Erfüllung seiner Aufgaben in eine Zentralverwaltung und in dezentrale Oberingenieurkreise mit einer Dienststelle im Berner Jura gegliedert.
+<sup>3</sup> Das Tiefbauamt wird für die Erfüllung seiner Aufgaben in eine Zentralverwaltung, in dezentrale Oberingenieurkreise mit einer Dienststelle im Berner Jura und in den Betrieb Nationalstrassen gegliedert.
 
 #### Art. 3
 
@@ -76,11 +76,7 @@ beschliesst:
 
 <sup>1</sup> Der Bau- und Verkehrsdirektion sind die folgenden, durch die besondere Gesetzgebung eingesetzten ständigen Kommissionen zugeordnet:
 
-- a kantonale Fluglärmkommission,
-- b kantonale Ölwehrkommission,
-- c–f …
-
-<sup>2</sup> Der Regierungsrat und die Bau- und Verkehrsdirektion können weitere, nichtständige beratende Kommissionen einsetzen.
+<sup>2</sup> Der Regierungsrat und die Bau- und Verkehrsdirektion können nichtständige beratende Kommissionen einsetzen.
 
 <sup>3</sup> Die Direktion kann zur Bearbeitung bestimmter Fragen Fachleute beiziehen.
 

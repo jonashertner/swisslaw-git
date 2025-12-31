@@ -1,23 +1,25 @@
 ---
 canton: BE
 number: "152.221.191"
-title: "Ordonnance sur l'organisation et les tâches de la Direction des travaux publics et des transports (Ordonnance d'organisation DTT, OO DTT) *"
+title: "Ordonnance sur l'organisation et les tâches de la Direction des travaux publics et des transports *"
 short: "Ordonnance d'organisation DTT, OO DTT"
 language: fr
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-10-23
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2025-11-26
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.191"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1716/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3329/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur l'organisation et les tâches de la Direction des travaux publics et des transports (Ordonnance d'organisation DTT, OO DTT)
+# Ordonnance sur l'organisation et les tâches de la Direction des travaux publics et des transports
 
-du 18.10.1995 (état au 01.01.2020)
+(Ordonnance d'organisation DTT, OO DTT)
+
+du 18.10.1995 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -66,7 +68,7 @@ arrête:
 
 <sup>2</sup> Le Secrétariat général et les offices se subdivisent au besoin en états-majors, en sections, en sous-sections et en services.
 
-<sup>3</sup> Pour mener à bien ses tâches, l'Office des ponts et chaussées comporte une administration centrale et des arrondissements d'ingénieur en chef, dont un comprenant un service dans le Jura bernois.
+<sup>3</sup> Pour mener à bien ses tâches, l'Office des ponts et chaussées comporte une administration centrale, des arrondissements d'ingénieur en chef, dont un comprenant un service dans le Jura bernois, ainsi que l'exploitation des routes nationales.
 
 #### Art. 3
 
@@ -74,11 +76,7 @@ arrête:
 
 <sup>1</sup> Les commissions permanentes suivantes instituées par la législation spéciale sont attribuées à la Direction des travaux publics et des transports:
 
-- a Commission cantonale pour l'étude des problèmes relatifs au bruit des aéronefs,
-- b Commission cantonale pour la lutte contre les dégâts dus aux hydrocarbures,
-- c–f …
-
-<sup>2</sup> Le Conseil-exécutif et la Direction des travaux publics et des transports peuvent instituer d'autres commissions consultatives non permanentes.
+<sup>2</sup> Le Conseil-exécutif et la Direction des travaux publics et des transports peuvent instituer des commissions consultatives non permanentes.
 
 <sup>3</sup> La Direction peut faire appel à des experts ou expertes pour traiter des questions particulières.
 
