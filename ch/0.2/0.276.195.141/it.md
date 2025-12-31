@@ -3,26 +3,24 @@ sr: "0.276.195.141"
 title: "Convenzione del 25 aprile 1968 tra la Confederazione Svizzera e il Principato del Liechtenstein circa il riconoscimento e l'esecuzione delle decisioni giudiziarie e delle sentenze arbitrali in materia civile"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/79_83_83"
 language: it
-version: 2014-08-28
+version: 2026-01-01
 adopted: 1968-04-25
 in_force: 1970-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/79_83_83/20140828/it/xml/fedlex-data-admin-ch-eli-cc-1970-79_83_83-20140828-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/79_83_83/20140828/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/79_83_83/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1970-79_83_83-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/79_83_83/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione tra la Confederazione Svizzera e il Principato del Liechtenstein circa il riconoscimento e l’esecuzione delle decisioni giudiziarie e delle sentenze arbitrali in materia civile
 
-RU **1970** 83; FF **1968** II 817
-
-Traduzione*[^t-1]*
+Traduzione[^t-1]
 
 Conchiusa il 25 aprile 1968 Approvata dall’Assemblea federale il 12 giugno 1969[^t-2] Istrumenti di ratificazione scambiati il 15 gennaio 1970 Entrata in vigore il 15 marzo 1970
 
-(Stato 28 agosto 2014)
+(Stato 1° gennaio 2026)
 
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-1]: RU **1970** 83; FF **1968** II 817 Il testo originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: [RU 1970 81](https://fedlex.data.admin.ch/eli/oc/1970/77_81_81)
 
 Il Consiglio federale svizzero e Sua Altezza Serenissima il Principe regnante di Liechtenstein,
@@ -35,6 +33,8 @@ i quali, comunicatisi i loro pieni poteri e trovatili in buona e debita forma, h
 
 #### Art. 1
 
+Sono parimenti riconosciute le decisioni giudiziarie relative al pagamento delle spese giudiziarie o al rimborso delle spese nell’ambito dell’assistenza legale (gratuito patrocinio), anche se il credito spetta allo Stato.[^1-1]
+
 Le decisioni pronunciate in un processo penale su conclusioni di diritto civile, come pure quelle irroganti multe d’ordine in un processo civile od ordinanti un sequestro od altra misura provvisionale, non potranno essere né riconosciute né eseguite in base alla presente convenzione. Lo stesso vale quanto alle decisioni pronunciate in materia di fallimento o concordato.
 
 Le decisioni delle autorità amministrative incaricate, in Svizzera, di organizzare e vigilare la tutela, come anche le transazioni innanzi ad esse conchiuse, saranno, per quanto attiene alla presente convenzione, parificate alle decisioni e transazioni giudiziarie.
@@ -45,6 +45,8 @@ Le decisioni giudiziarie in materia civile, pronunciate in uno dei due Stati, so
 - 2\. la decisione emani da giurisdizione competente giusta l’articolo 2;
 - 3\. la decisione, conformemente alla legge dello Stato nel quale è stata pronunciata, sia cresciuta in giudicato;
 - 4\. l’atto, o la citazione, che ha introdotto la causa, in caso di decisione contumaciale, sia stato notificato in tempo utile alla parte contumace, in proprie mani, o al suo mandatario. La notifica, se doveva aver luogo sul territorio dello Stato nel quale la decisione è fatta valere, deve risultare fatta tramite l’assistenza giuridica.
+
+[^1-1]: Introdotto dall’art. 1 n. 1 dell’Acc. del 26 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 712](https://fedlex.data.admin.ch/eli/oc/2025/712)).
 
 #### Art. 2
 
@@ -85,10 +87,12 @@ Per i documenti da produrre in virtù del presente articolo la legalizzazione no
 La Parte che chiede il riconoscimento o l’exequatur deve produrre:
 
 - 1\. l’originale della decisione o un esemplare autentico;
-- 2\. l’attestato certificante che la decisione è cresciuta in giudicato ed, eventualmente, è divenuta esecutiva; l’attestato è rilasciato dal tribunale, o dal cancelliere del tribunale, che ha pronunciato la decisione;
+- 2\.[^5-1] l’attestato certificante che la decisione è cresciuta in giudicato ed, eventualmente, è divenuta esecutiva;
 - 3\. in caso di decisione contumaciale, una copia dell’atto o della comparsa introduttiva d’istanza, nonchè un attestato certificante il modo e la data della notifica alla parte contumace;
 - 4\. una copia certificata conforme dell’esposto dell’attore, o di altro appropriato documento, allorchè la fattispecie non emerge dalla decisione con chiarezza sufficiente a consentire l’esame previsto nell’articolo 1;
 - 5\. eventualmente, una traduzione dei documenti, indicati nei numeri 1 a 4, nella lingua ufficiale dell’autorità dalla quale si chiede il riconoscimento o l’exequatur. Questa traduzione sarà certificata conforme, secondo la legislazione dell’uno o dell’altro Stato.
+
+[^5-1]: Nuovo testo giusta l’art. 1 n. 3 dell’Acc. del 26 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 712](https://fedlex.data.admin.ch/eli/oc/2025/712)).
 
 #### Art. 6
 
@@ -100,9 +104,10 @@ Le sentenze arbitrali pronunciate in uno dei due Stati sono riconosciute e rese 
 
 La stessa norma vale per le transazioni giudiziarie o arbitrali.
 
-L’attestato che la sentenza o la transazione arbitrale è cresciuta in giudicato ed è divenuta esecutiva va rilasciato, in Svizzera, dalla competente autorità del Cantone ove essa è stata pronunciata, rispettivamente conchiusa; nel Principato del Liechtenstein, dal Landgericht, in Vaduz.
+...[^7-2]
 
 [^7-1]: Nuovo testo giusta lo scambio di note del 28 ago. 2014, in vigore dal 28 ago. 2014 ([RU 2014 2943](https://fedlex.data.admin.ch/eli/oc/2014/499)).
+[^7-2]: Abrogato dall’art. 1 n. 4 dell’Acc. del 26 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 712](https://fedlex.data.admin.ch/eli/oc/2025/712)).
 
 #### Art. 8
 

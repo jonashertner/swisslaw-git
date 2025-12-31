@@ -3,11 +3,11 @@ sr: "0.276.195.141"
 title: Abkommen vom 25. April 1968 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über die Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Schiedssprüchen in Zivilsachen
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/79_83_83"
 language: de
-version: 2014-08-28
+version: 2026-01-01
 adopted: 1968-04-25
 in_force: 1970-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/79_83_83/20140828/de/xml/fedlex-data-admin-ch-eli-cc-1970-79_83_83-20140828-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/79_83_83/20140828/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/79_83_83/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1970-79_83_83-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/79_83_83/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ Originaltext
 
 Abgeschlossen am 25. April 1968 Von der Bundesversammlung genehmigt am 12. Juni 1969[^t-1] Ratifikationsurkunden ausgetauscht am 15. Januar 1970 In Kraft getreten am 15. März 1970
 
-(Stand am 28. August 2014)
+(Stand am 1. Januar 2026)
 
 [^t-1]: AS **1970** 79; BBl **1968** II 693 AS **1970** 77
 
@@ -32,6 +32,8 @@ die nach gegenseitiger Bekanntgabe ihrer in guter und gehöriger Form befundenen
 
 #### Art. 1
 
+Anerkannt werden auch gerichtliche Entscheidungen auf Bezahlung von Prozesskosten oder auf Rückerstattung von Aufwendungen im Rahmen der Verfahrenshilfe (unentgeltlichen Rechtspflege), auch wenn der Anspruch dem Staat zusteht.[^1-1]
+
 In einem Strafverfahren ergangene Entscheidungen über privatrechtliche Ansprüche sowie Entscheidungen, mit denen in einem Zivilprozesse Ordnungsstrafen verhängt werden oder die einen Arrest oder irgendeine andere einstweilige Verfügung anordnen, können auf Grund dieses Abkommens weder anerkannt noch vollstreckt werden. Dasselbe gilt für Entscheidungen in Konkurs‑ oder Nachlassvertragssachen.
 
 Entscheidungen von in der Schweiz zur Anordnung und Beaufsichtigung der Vormundschaft berufenen Verwaltungsbehörden sowie die vor solchen Behörden abgeschlossenen Vergleiche sind hinsichtlich dieses Abkommens den gerichtlichen Entscheidungen und Vergleichen gleichgestellt.
@@ -42,6 +44,8 @@ Die in einem der beiden Staaten gefällten gerichtlichen Entscheidungen in Zivil
 - 2\. die Entscheidung muss von einem nach den Bestimmungen des Artikels 2 zuständigen Gerichte gefällt sein;
 - 3\. die Entscheidung muss nach dem Rechte des Staates, in dem sie ergangen ist, in Rechtskraft erwachsen sein;
 - 4\. im Falle eines Versäumnisurteils muss die den Prozess einleitende Verfügung oder Ladung rechtzeitig der säumigen Partei, sei es persönlich oder an ihren Vertreter, zugestellt worden sein. Hatte die Zustellung im Gebiete des Staates zu geschehen, in welchem die Entscheidung geltend gemacht wird, so muss sie im Rechtshilfeweg bewirkt worden sein.
+
+[^1-1]: Eingefügt durch Art. 1 Ziff. 1 des Abk. vom 26. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 709](https://fedlex.data.admin.ch/eli/oc/2025/709)).
 
 #### Art. 2
 
@@ -58,12 +62,13 @@ Die Zuständigkeit der Gerichte des Staates, in welchem die Entscheidung gefäll
 - 6\. in Personenstands‑, Handlungsfähigkeits‑ oder Familienrechtssachen von Angehörigen des Staates, in welchem die Entscheidung ergangen ist;
 - 7\.[^2-3] wenn die Parteien sich durch eine schriftliche Vereinbarung der Zuständigkeit des Gerichts unterworfen haben, das in der Sache erkannt hat;
 - 8\.[^2-4] …
-- 9\. wenn der Beklagte, gleichgültig, ob er im Handelsregister (Öffentlichkeitsregister) eingetragen ist oder nicht, zur Hauptsache verhandelt hat, ohne hinsichtlich der im Sinne dieses Abkommens zu verstehenden Zuständigkeit der Gerichte des Staates, in welchem die Entscheidung ergangen ist, einen Vorbehalt anzubringen, obschon er vom Richter über die Möglichkeit eines solchen Vorbehaltes belehrt wurde.
+- 9\.[^2-5] wenn der Beklagte, gleichgültig, ob er im Handelsregister eingetragen ist oder nicht, zur Hauptsache verhandelt hat, ohne hinsichtlich der im Sinne dieses Abkommens zu verstehenden Zuständigkeit der Gerichte des Staates, in welchem die Entscheidung ergangen ist, einen Vorbehalt anzubringen, obschon er vom Richter über die Möglichkeit eines solchen Vorbehaltes belehrt wurde.
 
 [^2-1]: Fassung gemäss Notenaustausch vom 28. Aug. 2014, in Kraft seit 28. Aug. 2014 ([AS 2014 2943](https://fedlex.data.admin.ch/eli/oc/2014/499)).
 [^2-2]: Eingefügt durch Art. 1 des Abk. vom 2. Nov. 1994, von der BVers genehmigt am 12. Dez. 1994 und in Kraft getreten am 25. Juni 1995 ([AS 1995 3823](https://fedlex.data.admin.ch/eli/oc/1995/3823_3823_3823)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813)Art. 1 Abs. 1 Bst. d; [BBl 1994 V 661](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
 [^2-3]: Fassung gemäss Notenaustausch vom 28. Aug. 2014, in Kraft seit 28. Aug. 2014 ([AS 2014 2943](https://fedlex.data.admin.ch/eli/oc/2014/499)).
 [^2-4]: Aufgehoben durch Notenaustausch vom 28. Aug. 2014, mit Wirkung seit 28. Aug. 2014 ([AS 2014 2943](https://fedlex.data.admin.ch/eli/oc/2014/499)).
+[^2-5]: Fassung gemäss Art. 1 Ziff. 2 des Abk. vom 26. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 709](https://fedlex.data.admin.ch/eli/oc/2025/709)).
 
 #### Art. 3
 
@@ -82,10 +87,12 @@ Die gemäss diesem Artikel beizubringenden Urkunden bedürfen keiner Beglaubigun
 Die Partei, welche die Anerkennung einer Entscheidung verlangt oder deren Vollstreckung beantragt, hat beizubringen:
 
 - 1\. die Entscheidung in der Urschrift oder in einer beweiskräftigen Ausfertigung;
-- 2\. eine Bescheinigung über die Rechtskraft und gegebenenfalls über die Vollstreckbarkeit der Entscheidung; die Bescheinigung ist vom Gericht, welches die Entscheidung gefällt hat, oder vom Gerichtsschreiber auszustellen;
+- 2\.[^5-1] eine Bescheinigung über die Rechtskraft und gegebenenfalls über die Vollstreckbarkeit der Entscheidung;
 - 3\. im Falle eines Versäumnisurteils eine Abschrift der den Prozess einleitenden Verfügung oder Ladung und eine Bescheinigung über die Art und Zeit ihrer Zustellung an die nicht erschienene Partei;
 - 4\. wenn die Entscheidung den ihr zugrunde liegenden Sachverhalt nicht so weit erkennen lässt, dass die Prüfung im Sinne des Artikels 1 möglich ist, eine als richtig bescheinigte Abschrift der Klage oder andere geeignete Urkunden;
 - 5\. gegebenenfalls eine Übersetzung der in Ziffern 1 bis 4 bezeichneten Urkunden in die Amtssprache der Behörde, bei welcher die Anerkennung der Entscheidung verlangt oder die Vollstreckung beantragt wird. Die Übersetzung muss nach dem Recht eines der beiden Staaten als richtig bescheinigt sein.
+
+[^5-1]: Fassung gemäss Art. 1 Ziff. 3 des Abk. vom 26. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 709](https://fedlex.data.admin.ch/eli/oc/2025/709)).
 
 #### Art. 6
 
@@ -97,9 +104,10 @@ Die in einem der beiden Staaten gefällten Schiedssprüche werden im andern Staa
 
 Dies gilt auch für gerichtliche oder vor Schiedsgerichten abgeschlossene Vergleiche.
 
-Die Bescheinigung über die Rechtskraft und über die Vollstreckbarkeit des Schiedsspruches oder des vor einem Schiedsgericht abgeschlossenen Vergleiches wird in der Schweiz durch die zuständige Behörde des Kantons, in welchem der Schiedsspruch gefällt oder der Vergleich geschlossen wurde, im Fürstentum Liechtenstein durch das Landgericht in Vaduz ausgestellt.
+…[^7-2]
 
 [^7-1]: Fassung gemäss Notenaustausch vom 28. Aug. 2014, in Kraft seit 28. Aug. 2014 ([AS 2014 2943](https://fedlex.data.admin.ch/eli/oc/2014/499)).
+[^7-2]: Absatz aufgehoben durch Art. 1 Ziff. 4 des Abk. vom 26. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 709](https://fedlex.data.admin.ch/eli/oc/2025/709)).
 
 #### Art. 8
 
@@ -147,4 +155,4 @@ Das Abkommen tritt zwei Monate nach dem Austausch der Ratifikationsurkunden in K
 
 Das Abkommen kann von jedem der beiden Staaten jederzeit gekündigt werden; es bleibt jedoch nach erfolgter Kündigung noch ein Jahr in Kraft.
 
-*Zu Urkund dessen* haben die Bevollmächtigten dieses Abkommen in doppelter Ausfertigung unterzeichnet und mit ihrem Siegel versehen. So geschehen in Vaduz, am 25. April 1968. Für die Schweizerische Eidgenossenschaft: Für das Fürstentum Liechtenstein: Thalmann Batliner
+*Zu Urkund dessen* haben die Bevollmächtigten dieses Abkommen in doppelter Ausfertigung unterzeichnet und mit ihrem Siegel versehen. So geschehen in Vaduz, am 25. April 1968. Für die Schweizerische Eidgenossenschaft: Thalmann Für das Fürstentum Liechtenstein: Batliner
