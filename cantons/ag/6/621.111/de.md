@@ -3,20 +3,19 @@ canton: AG
 number: "621.111"
 title: Verordnung zum Bundesgesetz über die direkte Bundessteuer
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-20
+version: 2026-01-01
+version_adopted: 2025-10-29
 adopted: 1994-12-07
 in_force: 1995-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/621.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3704/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3899/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über die direkte Bundessteuer
 
-Vom 07.12.1994 (Stand 01.01.2025)
+Vom 07.12.1994 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -46,21 +45,19 @@ beschliesst:
 - d) dem Verwaltungsgericht;
 - e) den Gemeinderäten.
 
-## 2. Ordentliches Veranlagungsverfahren
+## 2. Veranlagungsverfahren
 
 #### § 2a
 
-**Zeitliche Bemessung bei den natürlichen Personen**
-
-<sup>1</sup> Die direkte Bundessteuer wird ab der Steuerperiode 2001 in Anwendung von Art. 41 und 208 ff. DBG veranlagt und erhoben.
-
-<sup>2</sup> Die im Durchschnitt der Jahre 1999 und 2000 angefallenen ausserordentlichen Aufwendungen im Sinne von Art. 218 Abs. 5 DBG werden von den für die Steuerperiode 1999/2000 zu Grunde gelegten steuerbaren Einkommen abgezogen. Bereits rechtskräftige Veranlagungen werden zu Gunsten der steuerpflichtigen Person revidiert.
+**…**
 
 #### § 3
 
 **Veranlagung der natürlichen Personen**
 
 <sup>1</sup> Die natürlichen Personen werden von den Steuerkommissionen der Gemeinden veranlagt.
+
+<sup>2</sup> ​Für die Durchführung von Nachsteuerverfahren ist die gleiche Behörde zuständig wie für das Nachsteuerverfahren bei den Kantons- und Gemeindesteuern.
 
 #### § 4
 
