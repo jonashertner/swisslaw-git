@@ -4,13 +4,13 @@ number: "211.61"
 title: Grundbuchverordnung Basel-Landschaft
 short: GBV BL
 language: de
-version: 2022-05-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-01
+version: 2026-01-01
+valid_until: 2026-02-28
+version_adopted: 2026-01-27
 adopted: 2018-11-06
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.61"
-pdf: "https://bl.clex.ch/api/de/versions/3661/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4444/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3661/pdf_file"
 
 (GBV BL)
 
-Vom 06.11.2018 (Stand 01.05.2022)
+Vom 06.11.2018 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
