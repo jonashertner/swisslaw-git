@@ -3,11 +3,11 @@ sr: "0.274.132"
 title: "Convention du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile ou commerciale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824"
 language: fr
-version: 2025-11-25
+version: 2026-01-01
 adopted: 1970-03-18
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20251125/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20251125-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20251125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à La Haye le 18 mars 1970 Approuvée par l’Assemblée fédérale le 9 juin 1994[^t-1] Instrument de ratification déposé par la Suisse le 2 novembre 1994 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1995
 
-(État le 25 novembre 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Art. 2 al. 1 de l’ AF du 9 juin 1994 ([RO 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807))
 
@@ -455,9 +455,41 @@ Conformément aux art. 33 et 35, la Suisse déclare, s’agissant de l’art. 4,
 
 Conformément à l’art. 35, al. 2, la Suisse déclare, s’agissant de l’art. 8, que les magistrats de l’autorité requérante d’un autre État contractant peuvent assister à l’exécution d’une commission rogatoire s’ils ont obtenu l’autorisation préalable de l’autorité d’exécution.
 
-\5. Ad art. 15, 16 et 17
+\5. Ad art. 15, 16 et 17[^annexu1-lvlu2-1]
 
-Conformément à l’art. 35, la Suisse déclare que l’obtention des preuves selon les art. 15, 16 et 17 est subordonnée à une autorisation préalable du Département fédéral de justice et police. La demande d’autorisation doit être adressée à l’autorité centrale du canton où aura lieu l’acte d’instruction.
+<sup>1</sup> Conformément à l’art. 35, la Suisse déclare que l’obtention des preuves selon les art. 15, 16 et 17 est subordonnée à une autorisation préalable de l’Office fédéral de la justice (OFJ). L’al. 3 ci-après est réservé. Une copie de la demande d’autorisation doit être transmise à l’autorité centrale du canton où aura lieu l’acte d’instruction.
+
+<sup>2</sup> Le commissaire au sens de l’art. 17 peut procéder lui-même à l’obtention des preuves ou seulement la superviser. Il veille au respect des dispositions de la Convention et des conditions dont est assortie l’autorisation ou des conditions énumérées à l’al. 3 ci-après. En cas d’empêchement, il peut désigner un représentant. Le tribunal peut désigner plusieurs commissaires.
+
+<sup>3</sup> Les personnes séjournant en Suisse peuvent être interrogées ou entendues sans autorisation préalable par un commissaire se trouvant à l’étranger ou participer à une audience à l’étranger par conférence téléphonique, par vidéoconférence ou par tout autre moyen électronique de transmission du son ou de l’image, si les conditions suivantes sont réunies:
+
+- a) l’heure et la date de la conférence téléphonique ou de la vidéoconférence sont communiquées en temps utile à l’OFJ et à l’autorité centrale du canton sur le territoire duquel la personne concernée séjourne au moment de la conférence (art. 19); la communication est réputée avoir été faite en temps utile si elle parvient à l’OFJ au moins quatorze jours avant la conférence téléphonique ou la vidéoconférence;
+- b)
+
+  la communication comporte les indications suivantes:
+
+  - - désignation et n° de référence de l’affaire,
+  - - désignation du tribunal compétent,
+  - - noms et adresses des parties et de leurs représentants (y compris les éventuels représentants en Suisse),
+  - - nom et adresse privée ou professionnelle de la personne concernée et désignation du canton dans lequel elle séjourne pendant la conférence téléphonique ou la vidéoconférence,
+  - - noms, s’ils sont connus, et fonctions des autres personnes participant à la conférence téléphonique ou à la vidéoconférence,
+  - - nature et objet de l’affaire et sujet de la conférence téléphonique ou de la vidéoconférence,
+  - - désignation précise du moyen de communication utilisé et, si elles sont déjà connues, indication des données d’accès,
+  - - désignation d’un interlocuteur auquel pourra s’adresser l’OFJ ou l’autorité centrale cantonale;
+
+- c) si le tribunal a désigné un commissaire, une copie de la décision est jointe à la communication; celle-ci comporte en outre le nom et l’adresse privée ou professionnelle du commissaire;
+- d) les autorités peuvent exiger des informations supplémentaires;
+- e) l’autorité centrale cantonale ou une autre autorité désignée par elle peut participer à la conférence téléphonique ou à la vidéoconférence (art. 19);
+- f) une déclaration de la personne concernée par laquelle celle-ci reconnaît avoir pris connaissance des présentes conditions et consent à sa participation à la conférence téléphonique ou à la vidéoconférence est jointe à la communication;
+- g) la personne concernée peut en tout temps retirer son consentement;
+- h) les règles des art. 20 et 21 doivent être respectées;
+- i) la personne concernée a le droit d’être interrogée et de s’exprimer dans sa langue maternelle et peut demander une traduction des dépositions essentielles des autres personnes participant à la conférence téléphonique ou à la vidéoconférence;
+- j) les moyens techniques employés garantissent une sécurité adéquate des données personnelles contre tout traitement indu; lors d’une vidéoconférence, le son et l’image doivent parvenir simultanément à tous les participants;
+- k) les résultats de l’acte d’obtention de preuves sont utilisés exclusivement aux fins de la procédure dans le cadre de laquelle il est effectué.
+
+<sup>4</sup> Les demandes au sens de l’al. 1 ci-avant et les communications au sens de l’al. 3 ci-avant peuvent être adressées à l’OFJ sous forme électronique; elles doivent être rédigées dans une langue officielle du canton concerné ou accompagnées d’une traduction.
+
+<sup>5</sup> Les dispositions du droit pénal suisse sur les obligations de secret, en particulier l’art. 273 du code pénal (RS *311.0*), sont réservées.
 
 \6. Ad art. 23
 
@@ -472,6 +504,7 @@ Conformément à l’art. 23, la Suisse déclare que les commissions rogatoires 
 
 [^annexu1-lvlu2-lvlu1-1]
 
+[^annexu1-lvlu2-1]: Nouvelle teneur selon la déclaration du 9 janv. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 90](https://fedlex.data.admin.ch/eli/oc/2026/90)).
 [^annexu1-lvlu2-lvlu1-1]: Cette liste a été adaptée en application de l’art. 12, al. 2, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 a) Autorités centrales cantonales

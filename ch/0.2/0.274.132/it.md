@@ -3,11 +3,11 @@ sr: "0.274.132"
 title: "Convenzione del 18 marzo 1970 sull'assunzione all'estero delle prove in materia civile o commerciale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824"
 language: it
-version: 2025-11-25
+version: 2026-01-01
 adopted: 1970-03-18
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20251125/it/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20251125-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20251125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa all’Aja il 18 marzo 1970 Approvata dall’Assemblea federale il 9 giugno 1994[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 2 novembre 1994 Entrata in vigore per la Svizzera il 1° gennaio 1995
 
-(Stato 25 novembre 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: Art. 2 cpv. 1 del DF del 9 giu. 1994 ([RU 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807)).
 
@@ -455,9 +455,41 @@ Conformemente agli articoli 33 e 35, la Svizzera dichiara che per quanto concern
 
 Conformemente all’articolo 35 comma 2, la Svizzera dichiara che per quanto riguarda l’articolo 8 i magistrati dell’autorità richiedente di un altro Stato contraente possono assistere all’esecuzione di una commissione rogatoria se hanno ottenuto l’autorizzazione preliminare dell’autorità d’esecuzione.
 
-\5. Ad art. 15, 16 e 17
+\5. Ad art. 15, 16 e 17[^declu2-lvlu1-1]
 
-Conformemente all’articolo 35, la Svizzera dichiara che l’assunzione di prove secondo gli articoli 15, 16 e 17 è subordinata all’autorizzazione preliminare del Dipartimento federale di giustizia e polizia. La domanda di autorizzazione dev’essere indirizzata all’autorità centrale del Cantone in cui ha luogo l’atto istruttorio.
+<sup>1</sup> Cnformemente all’articolo 35, la Svizzera dichiara che l’assunzione di prove secondo gli articoli 15, 16 e 17 è subordinata all’autorizzazione preliminare dell’Ufficio federale di giustizia (UFG). È fatto salvo il paragrafo 3. Una copia della domanda deve essere trasmessa all’autorità centrale del Cantone in cui ha luogo l’atto istruttorio.
+
+<sup>2</sup> Il commissario di cui all’articolo 17 può procedere personalmente all’atto istruttorio o limitarsi a sorvegliarlo. È responsabile del rispetto delle disposizioni della Convenzione e delle condizioni legate all’autorizzazione o delle condizioni di cui al paragrafo 3. In caso di impedimento può indicare un rappresentante. Il tribunale può designare più commissari.
+
+<sup>3</sup> Sono ammessi senza autorizzazione preliminare l’interrogatorio o l’audizione di una persona che soggiorna in Svizzera da parte di un commissario all’estero o la partecipazione di tale persona a un’udienza all’estero mediante conferenza telefonica o videoconferenza oppure mediante un altro strumento elettronico di trasmissione audiovisiva, se sono soddisfatte le seguenti condizioni:
+
+- a) la data e l’ora della conferenza telefonica o della videoconferenza sono comunicate in tempo utile all’UFG e all’autorità centrale del Cantone sul cui territorio soggiorna la persona interessata al momento della conferenza (art. 19); la comunicazione è in ogni caso trasmessa in tempo utile se perviene all’UFG almeno 14 giorni prima della conferenza telefonica o della videoconferenza;
+- b)
+
+  la comunicazione contiene le indicazioni seguenti:
+
+  - - designazione e numero di ruolo della causa,
+  - - designazione del tribunale competente,
+  - - nomi e indirizzi delle parti e dei loro rappresentanti (compresi gli eventuali rappresentanti in Svizzera),
+  - - nome e indirizzo privato o professionale della persona interessata nonché designazione del Cantone in cui quest’ultima soggiorna durante la conferenza telefonica o la videoconferenza,
+  - - nomi, se noti, e funzione degli altri partecipanti alla conferenza telefonica o alla videoconferenza,
+  - - tipo e oggetto della causa nonché tema della conferenza telefonica o della videoconferenza,
+  - - designazione esatta del mezzo di comunicazione impiegato e, se noti, indicazione dei dati di accesso,
+  - - designazione di un interlocutore per l’UFG e l’autorità centrale cantonale;
+
+- c) se il tribunale ha designato un commissario, alla comunicazione è allegata una copia di tale decisione; la comunicazione contiene inoltre il nome e l’indirizzo privato o professionale del commissario;
+- d) le autorità possono richiedere informazioni supplementari;
+- e) l’autorità centrale cantonale o un’autorità da essa designata può partecipare alla conferenza telefonica o alla videoconferenza (art. 19);
+- f) alla comunicazione è allegata una dichiarazione della persona interessata secondo cui quest’ultima ha preso atto delle presenti condizioni e acconsente a partecipare alla conferenza telefonica o alla videoconferenza;
+- g) la persona interessata può revocare il proprio consenso in ogni momento;
+- h) le regole degli articoli 20 e 21 devono essere rispettate;
+- i) la persona interessata ha il diritto di essere interrogata e di esprimersi nella sua lingua madre e può richiedere la traduzione delle deposizioni essenziali fatte da altre persone che partecipano alla conferenza telefonica o alla video-conferenza;
+- j) la tecnica impiegata garantisce un’adeguata sicurezza dei dati personali da trattamenti illeciti; nel quadro di una videoconferenza il suono e l’immagine pervengono simultaneamente a tutti i partecipanti;
+- k) i risultati dell’atto istruttorio sono impiegati esclusivamente ai fini del procedimento nel quadro del quale è condotto.
+
+<sup>4</sup> Le domande di cui al paragrafo 1 e le comunicazioni di cui al paragrafo 3 sono ammesse in forma elettronica. Devono essere redatte in una delle lingue ufficiali del Cantone interessato o accompagnate da una traduzione.
+
+<sup>5</sup> Sono fatte salve le disposizioni del diritto penale svizzero sul mantenimento del segreto, in particolare l’articolo 273 del Codice penale (RS *311.0*).
 
 \6. Ad art. 23
 
@@ -467,6 +499,8 @@ Conformemente all’articolo 23, la Svizzera dichiara che le rogatorie aventi pe
 - b) si esige da una persona che indichi quali documenti relativi alla controversia si trovino o si siano trovati in suo possesso, in sua custodia o in suo potere di disporne; o
 - c) si esige da una persona che presenti anche altri documenti diversi da quelli designati nella domanda di assistenza giudiziaria e che si trovano verosimilmente in suo possesso, in sua custodia o in suo potere di disporne; o
 - d) rischiano di essere compromessi interessi degni di protezione delle persone coinvolte.
+
+[^declu2-lvlu1-1]: Nuovo testo giusta la dichiarazione del 9 gen. 2026, in vigore dal 1° gen. 2026 ([RU 2026 90](https://fedlex.data.admin.ch/eli/oc/2026/90)).
 
 ## Lista delle autorità svizzere
 

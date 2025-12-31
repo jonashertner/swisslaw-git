@@ -3,11 +3,11 @@ sr: "0.274.132"
 title: Übereinkommen vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824"
 language: de
-version: 2025-11-25
+version: 2026-01-01
 adopted: 1970-03-18
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20251125/de/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20251125-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20251125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1994** 2824; **1995** 1085; BBl **1993** III 1261
 
 Abgeschlossen in Den Haag am 18. März 1970 Von der Bundesversammlung genehmigt am 9. Juni 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 2. November 1994 Inkrafttreten für die Schweiz am 1. Januar 1995
 
-(Stand am 25. November 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: Art. 2 Abs. 1 des BB vom 9. Juni 1994 ([AS 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807))
 
@@ -111,18 +111,18 @@ Bei der Erledigung des Rechtshilfeersuchens wendet die ersuchte Behörde geeigne
 
 #### Art. 11
 
-Ein Rechtshilfeersuchen wird nicht erledigt, soweit die Person, die es betrifft, sich auf ein Recht zur Aussageverweigerung oder auf ein Aussageverbot beruft,
-
 Jeder Vertragsstaat kann erklären, dass er ausserdem Aussageverweigerungsrechte und Aussageverbote, die nach dem Recht anderer Staaten als des ersuchenden oder des ersuchten Staates bestehen, insoweit anerkennt, als dies in der Erklärung angegeben ist.
+
+Ein Rechtshilfeersuchen wird nicht erledigt, soweit die Person, die es betrifft, sich auf ein Recht zur Aussageverweigerung oder auf ein Aussageverbot beruft:
 
 - a) das nach dem Recht des ersuchten Staates vorgesehen ist oder
 - b) das nach dem Recht des ersuchenden Staates vorgesehen und im Rechtshilfeersuchen bezeichnet oder erforderlichenfalls auf Verlangen der ersuchten Behörde von der ersuchenden Behörde bestätigt worden ist.
 
 #### Art. 12
 
-Die Erledigung eines Rechtshilfeersuchens kann nur insoweit abgelehnt werden, als
-
 Die Erledigung darf nicht allein aus dem Grund abgelehnt werden, dass der ersuchte Staat nach seinem Recht die ausschliessliche Zuständigkeit seiner Gerichte für die Sache in Anspruch nimmt oder ein Verfahren nicht kennt, das dem entspricht, für welches das Ersuchen gestellt wird.
+
+Die Erledigung eines Rechtshilfeersuchens kann nur insoweit abgelehnt werden, als:
 
 - a) die Erledigung des Ersuchens im ersuchten Staat nicht in den Bereich der Gerichtsgewalt fällt oder
 - b) der ersuchte Staat die Erledigung für geeignet hält, seine Hoheitsrechte oder seine Sicherheit zu gefährden.
@@ -151,18 +151,18 @@ Jeder Vertragsstaat kann erklären, dass in dieser Art Beweis erst nach Vorliege
 
 #### Art. 16
 
-Ein diplomatischer oder konsularischer Vertreter eines Vertragsstaats kann ausserdem im Hoheitsgebiet eines anderen Vertragsstaats und in dem Bezirk, in dem er sein Amt ausübt, ohne Anwendung von Zwang Beweis für ein Verfahren aufnehmen, das vor einem Gericht eines von ihm vertretenen Staates anhängig ist, sofern Angehörige des Empfangsstaats oder eines dritten Staates betroffen sind,
-
 Jeder Vertragsstaat kann erklären, dass Beweis nach dieser Bestimmung ohne seine vorherige Genehmigung aufgenommen werden darf.
+
+Ein diplomatischer oder konsularischer Vertreter eines Vertragsstaats kann ausserdem im Hoheitsgebiet eines anderen Vertragsstaats und in dem Bezirk, in dem er sein Amt ausübt, ohne Anwendung von Zwang Beweis für ein Verfahren aufnehmen, das vor einem Gericht eines von ihm vertretenen Staates anhängig ist, sofern Angehörige des Empfangsstaats oder eines dritten Staates betroffen sind:
 
 - a) wenn eine durch den Empfangsstaat bestimmte zuständige Behörde ihre Genehmigung allgemein oder für den Einzelfall erteilt hat und
 - b) wenn der Vertreter die Auflagen erfüllt, welche die zuständige Behörde in der Genehmigung festgesetzt hat.
 
 #### Art. 17
 
-In Zivil- oder Handelssachen kann jede Person, die zu diesem Zweck ordnungsgemäss zum Beauftragten bestellt worden ist, im Hoheitsgebiet eines Vertragsstaats ohne Anwendung von Zwang Beweis für ein Verfahren aufnehmen, das vor einem Gericht eines anderen Vertragsstaats anhängig ist,
-
 Jeder Vertragsstaat kann erklären, dass Beweis nach dieser Bestimmung ohne seine vorherige Genehmigung aufgenommen werden darf.
+
+In Zivil- oder Handelssachen kann jede Person, die zu diesem Zweck ordnungsgemäss zum Beauftragten bestellt worden ist, im Hoheitsgebiet eines Vertragsstaats ohne Anwendung von Zwang Beweis für ein Verfahren aufnehmen, das vor einem Gericht eines anderen Vertragsstaats anhängig ist:
 
 - a) wenn eine von dem Staat, in dem Beweis aufgenommen werden soll, bestimmte zuständige Behörde ihre Genehmigung allgemein oder für den Einzelfall erteilt hat und
 - b) wenn die Person die Auflagen erfüllt, welche die zuständige Behörde in der Genehmigung festgesetzt hat.
@@ -183,7 +183,7 @@ Personen, die von einer in diesem Kapitel vorgesehenen Beweisaufnahme betroffen 
 
 #### Art. 21
 
-Ist ein diplomatischer oder konsularischer Vertreter oder ein Beauftragter nach Artikel 15, 16 oder 17 befugt, Beweis aufzunehmen,
+Ist ein diplomatischer oder konsularischer Vertreter oder ein Beauftragter nach Artikel 15, 16 oder 17 befugt, Beweis aufzunehmen:
 
 - a) so kann er alle Beweise aufnehmen, soweit dies nicht mit dem Recht des Staates, in dem Beweis aufgenommen werden soll, unvereinbar ist oder der nach den angeführten Artikeln erteilten Genehmigung widerspricht, und unter denselben Bedingungen auch einen Eid abnehmen oder eine Bekräftigung entgegennehmen;
 - b) so ist jede Vorladung zum Erscheinen oder zur Mitwirkung an einer Beweisaufnahme in der Sprache des Ortes der Beweisaufnahme abzufassen oder eine Übersetzung in diese Sprache beizufügen, es sei denn, dass die durch die Beweisaufnahme betroffene Person dem Staat angehört, in dem das Verfahren anhängig ist;
@@ -219,7 +219,7 @@ Hat ein Staat von den Bestimmungen des Absatzes 1 Gebrauch gemacht, so kann jede
 
 #### Art. 27
 
-Dieses Übereinkommen hindert einen Vertragsstaat nicht,
+Dieses Übereinkommen hindert einen Vertragsstaat nicht:
 
 - a) zu erklären, dass Rechtshilfeersuchen seinen gerichtlichen Behörden auch auf anderen als den in Artikel 2 vorgesehenen Wegen übermittelt werden können;
 - b) nach seinem innerstaatlichen Recht oder seiner innerstaatlichen Übung zuzulassen, dass Handlungen, auf die dieses Übereinkommen anwendbar ist, unter weniger einschränkenden Bedingungen vorgenommen werden;
@@ -332,7 +332,7 @@ Die Kündigung wirkt nur für den Staat, der sie notifiziert hat. Für die ander
 
 #### Art. 42
 
-Das Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert den in Artikel 37 bezeichneten Staaten, sowie den Staaten, die nach Artikel 39 beigetreten sind,
+Das Ministerium für Auswärtige Angelegenheiten der Niederlande notifiziert den in Artikel 37 bezeichneten Staaten, sowie den Staaten, die nach Artikel 39 beigetreten sind:
 
 - a) jede Unterzeichnung und Ratifikation nach Artikel 37;
 - b) den Tag, an dem dieses Übereinkommen nach Artikel 38 Absatz 1 in Kraft tritt;
@@ -455,9 +455,41 @@ Gemäss den Artikeln 33 und 35 erklärt die Schweiz, was Artikel 4 Absätze 2 un
 
 Gemäss Artikel 35 Absatz 2 erklärt die Schweiz, was Artikel 8 betrifft, dass Mitglieder der ersuchenden gerichtlichen Behörde, die am Verfahren eines Vertragsstaates beteiligt sind, bei der Erledigung des Rechtshilfeersuchens anwesend sein können, sofern sie die vorherige Genehmigung der mit der Erledigung betrauten Behörde erhalten haben.
 
-\5. Zu den Art. 15, 16 und 17
+5.[^t-3] Zu den Art. 15, 16 und 17
 
-Gemäss Artikel 35 erklärt die Schweiz, dass die Beweisaufnahme im Sinne der Artikel 15, 16 und 17 eine vorherige Genehmigung voraussetzt, die vom Eidgenössischen Justiz- und Polizeidepartement erteilt wird. Das Gesuch ist an die Zentralbehörde desjenigen Kantons zu richten, in dem die Beweisaufnahme stattfinden soll.
+<sup>1</sup> Gemäss Artikel 35 erklärt die Schweiz, dass die Beweisaufnahme im Sinne der Artikel 15, 16 und 17 eine vorherige Genehmigung voraussetzt, die vom Bundesamt für Justiz (BJ) erteilt wird. Absatz 3 ist vorbehalten. Der Zentralbehörde desjenigen Kantons, in dem die Beweisaufnahme stattfinden soll, ist eine Kopie des Gesuchs zu übermitteln.
+
+<sup>2</sup> Die oder der Beauftrage im Sinne von Artikel 17 kann die Beweisaufnahme selbst durchführen oder nur beaufsichtigen. Sie oder er ist dafür verantwortlich, dass die Bestimmungen des Übereinkommens eingehalten und die mit der Genehmigung verbundenen Auflagen oder die unten in Absatz 3 genannten Voraussetzungen erfüllt werden. Sie oder er kann im Verhinderungsfall eine Vertreterin oder einen Vertreter bezeichnen. Das Gericht kann mehrere Beauftragte bestellen.
+
+<sup>3</sup> Die Befragung oder Anhörung einer sich in der Schweiz aufhaltenden Person durch eine Beauftragte oder einen Beauftragten vom Ausland aus oder die Teilnahme einer solchen Person an einer Verhandlung im Ausland mittels Telefon- oder Videokonferenz oder eines anderen elektronischen Mittels zur Ton- oder Bildübertragung ist ohne vorherige Genehmigung zulässig, sofern die folgenden Voraussetzungen erfüllt sind:
+
+- a) Der Zeitpunkt der Telefon- oder Videokonferenz wird dem BJ und der Zentralbehörde des Kantons, auf dessen Gebiet sich die betroffene Person während der Konferenz aufhält, rechtzeitig mitgeteilt (Art. 19). Rechtzeitig ist die Mitteilung in jedem Fall dann, wenn sie mindestens vierzehn Tage vor der Telefon- oder Videokonferenz beim BJ eingeht.
+- b)
+
+  Die Mitteilung enthält folgende Angaben:
+
+  - – Bezeichnung und Aktenzeichen der Rechtssache;
+  - – Bezeichnung des zuständigen Gerichts;
+  - – Namen und Adressen der Parteien und ihrer Vertreterinnen und Vertreter (einschliesslich der allfälligen Vertreterinnen und Vertreter in der Schweiz);
+  - – Name und Privat- oder Geschäftsadresse der betroffenen Person sowie Bezeichnung des Kantons, in dem sie sich während der Telefon- oder Videokonferenz aufhalten wird;
+  - – Name, soweit bekannt, und Funktion der übrigen Personen, die an der Telefon- oder Videokonferenz teilnehmen;
+  - – Art und Gegenstand der Rechtssache sowie Thema der Telefon- oder Videokonferenz;
+  - – genaue Bezeichnung des verwendeten Kommunikationsmittels und, falls bereits bekannt, Angabe der Einwahldaten;
+  - – die Bezeichnung einer Ansprechpartnerin oder eines Ansprechpartners für das BJ und die kantonale Zentralbehörde.
+
+- c) Hat das Gericht eine Beauftragte oder einen Beauftragten bestellt, liegt der Mitteilung eine Kopie des Beschlusses bei. Sie hat zudem den Namen sowie die Privat- oder Geschäftsadresse der oder des Beauftragten zu enthalten.
+- d) Die Behörden können weitere Informationen verlangen.
+- e) Die kantonale Zentralbehörde oder eine von ihr bezeichnete andere Behörde kann an der Telefon- oder Videokonferenz teilnehmen (Art. 19).
+- f) Der Mitteilung liegt eine Erklärung der betroffenen Person bei, wonach diese die vorliegenden Voraussetzungen zur Kenntnis genommen hat und ihrer Teilnahme an der Telefon- oder Videokonferenz zustimmt.
+- g) Die betroffene Person kann ihre Zustimmung jederzeit zurückziehen.
+- h) Die Regeln der Artikel 20 und 21 werden eingehalten.
+- i) Die betroffene Person hat das Recht, in ihrer Muttersprache befragt zu werden und in ihrer Muttersprache zu sprechen, und kann die Übersetzung der wesentlichen Aussagen anderer Personen verlangen, die an der Telefon- oder Videokonferenz teilnehmen.
+- j) Die eingesetzte Technik gewährleistet eine angemessene Sicherheit von Personendaten vor unbefugtem Bearbeiten. Bei einer Videokonferenz erfolgt die Übertragung von Ton und Bild zwischen sämtlichen beteiligten Personen zeitgleich.
+- k) Die Ergebnisse der Beweisaufnahme werden ausschliesslich für die Zwecke des Verfahrens verwendet, in dessen Rahmen die Beweisaufnahme durchgeführt wird.
+
+<sup>4</sup> Gesuche nach Absatz 1 oder Mitteilungen nach Absatz 3 sind in elektronischer Form zulässig. Sie sind in einer Amtssprache des betroffenen Kantons abzufassen oder mit einer Übersetzung zu versehen.
+
+<sup>5</sup> Die strafrechtlichen Geheimhaltungsbestimmungen der Schweiz, insbesondere Artikel 273 des Strafgesetzbuchs (SR *311.0*), bleiben vorbehalten.
 
 \6. Zu Art. 23
 
@@ -468,7 +500,9 @@ Gemäss Artikel 23 erklärt die Schweiz, dass Rechtshilfeersuchen, die ein «pre
 - c) von einer Person verlangt wird, sie solle auch andere als die im Rechtshilfebegehren spezifizierten Urkunden vorlegen, die sich vermutlich in ihrem Besitz, ihrem Gewahrsam oder ihrer Verfügungsgewalt befinden; oder
 - d) schutzwürdige Interessen der Betroffenen gefährdet sind.
 
-Liste der schweizerischen Behörden[^t-3]
+[^t-3]: Fassung gemäss Erklärung vom 9. Jan. 2026, in Kraft seit 1. Jan. 2026 ([AS 2026 90](https://fedlex.data.admin.ch/eli/oc/2026/90)).
+
+Liste der schweizerischen Behörden[^t-4]
 
 a) kantonale Zentralbehörden
 
@@ -480,4 +514,4 @@ b) Bundesbehörden
 
 Eidgenössisches Justiz- und Polizeidepartement, EJPD, Bundesamt für Justiz, 3003 Bern.
 
-[^t-3]: Die Liste wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
+[^t-4]: Die Liste wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
