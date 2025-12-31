@@ -3,18 +3,18 @@ sr: "412.101.221.35"
 title: Verordnung des SBFI vom 16. März 2022 über die berufliche Grundbildung Kaminfegerin/Kaminfeger mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/277"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2022-03-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/277/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2022-277-20240401-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/277/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/277/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-277-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/277/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kaminfegerin/Kaminfeger mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 16. März 2022 (Stand am 1. April 2024)
+vom 16. März 2022 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>80004</td><td>Kaminfegerin EFZ / Kaminfeger EFZ Ramoneuse CFC / Ramoneur CFC Spazzacamino AFC</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand, Schwerpunkte und Dauer
 
@@ -156,7 +156,7 @@ In den Handlungskompetenzbereichen nach den Buchstaben a–d ist der Aufbau der 
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
-[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -175,7 +175,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <table>
 <tr><th>Unterricht</th><th>1. Lehrjahr</th><th>2. Lehrjahr</th><th>3. Lehrjahr</th><th>Total</th></tr>
 <tr><td>a. Berufskenntnisse</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Kontrollieren und Reinigen von WTA der Brennstoffe Holz, Gas und Öl</td><td>100</td><td>80</td><td>60</td><td>240</td></tr>
+<tr><td>Kontrollieren und Reinigen von WTA der Brennstoffe Holz, Gas und Öl</td><td>100</td><td>80</td><td>60</td><td>240</td></tr>
 <tr><td>– Warten und Reparieren von WTA</td><td>60</td><td>80</td><td>40</td><td>180</td></tr>
 <tr><td>– Beraten von Kundinnen und Kunden – Schwerpunktspezifischer Unterricht</td><td>40</td><td>40</td><td>60 40</td><td>140 40</td></tr>
 <tr><td>Total Berufskenntnisse</td><td>**200**</td><td>**200**</td><td>**200**</td><td>**600**</td></tr>
@@ -186,13 +186,14 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulortes. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -239,7 +240,7 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 2. Mai 2022 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe A–Z.
+[^9-1]: Der Bildungsplan vom 2. Mai 2022 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -357,11 +358,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>2</td><td>Warten und Reparieren von WTA</td><td>90 Min.</td><td></td><td>50 %</td></tr>
 </table>
 
-- c. Allgemeinbildung; der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^17-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung; der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^17-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^17-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
