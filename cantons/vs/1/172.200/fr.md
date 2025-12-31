@@ -4,13 +4,13 @@ number: "172.200"
 title: "Ordonnance sur le personnel de l'Etat du Valais"
 short: OcPers
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-20
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-11-19
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/fr/versions/3407/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3532/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3407/pdf_file"
 
 (OcPers)
 
-du 22.06.2011 (état 01.01.2025)
+du 22.06.2011 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -484,6 +484,19 @@ ordonne:
 <sup>2</sup> L’instance de lanceur d’alerte de l’Etat du Valais établit les faits et prend les mesures nécessaires. Elle garantit notamment l'anonymat des employés.
 
 <sup>3</sup> Nul ne doit subir un désavantage sur le plan professionnel pour avoir, de bonne foi, annoncé une irrégularité.
+
+#### Art. 34b
+
+**Commission de sécurité**
+
+<sup>1</sup> Le Conseil d’Etat nomme, pour chaque période administrative, une commission de sécurité présidée par la Chancellerie d’Etat.
+
+<sup>2</sup> La commission de sécurité a pour tâche de:
+
+- a) favoriser la coordination entre les instances en charge d'assurer la protection des employés qui font l’objet de menaces, d’attaques présumées ou d’autres atteintes à la personnalité dans l'exercice de leur fonction ou en charge d’assurer le soutien aux employés confrontés à des situations conflictuelles ou critiques;
+- b) prendre les mesures utiles afin d’assurer la protection de la personnalité, notamment par l’information, la prévention, la formation, le conseil et l’accompagnement.
+
+<sup>3</sup> Le Conseil d’Etat peut arrêter par voie de directives des dispositions complémentaires.
 
 #### Art. 35
 

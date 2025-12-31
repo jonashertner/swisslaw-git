@@ -4,13 +4,13 @@ number: "172.200"
 title: Verordnung über das Personal des Staates Wallis
 short: kVPers
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-20
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-11-19
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/de/versions/3407/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3532/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3407/pdf_file"
 
 (kVPers)
 
-vom 22.06.2011 (Stand 01.01.2025)
+vom 22.06.2011 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -484,6 +484,19 @@ verordnet:
 <sup>2</sup> Die Whistleblowingstelle des Staates Wallis ermittelt den Sachverhalt und trifft die erforderlichen Massnahmen. Insbesondere stellt sie die Anonymität der Angestellten sicher.
 
 <sup>3</sup> Niemand darf beruflich benachteiligt werden, weil er in gutem Glauben eine Unregelmässigkeit gemeldet hat.
+
+#### Art. 34b
+
+**Sicherheitskommission**
+
+<sup>1</sup> Der Staatsrat ernennt für jede Verwaltungsperiode eine von der Staatskanzlei präsidierte Sicherheitskommission.
+
+<sup>2</sup> Die Sicherheitskommission hat folgende Aufgaben:
+
+- a) die Koordination zwischen den Stellen fördern, die für den Schutz von Angestellten zuständig sind, die in Ausübung ihrer Tätigkeit Bedrohungen, mutmasslichen Angriffen oder anderen Persönlichkeitsverletzungen ausgesetzt sind, oder die für die Unterstützung von Angestellten in konfliktträchtigen oder kritischen Situationen zuständig sind;
+- b) die nötigen Massnahmen ergreifen, um den Persönlichkeitsschutz zu gewährleisten, insbesondere durch Information, Prävention, Schulung und Begleitung.
+
+<sup>3</sup> Der Staatsrat kann ergänzende Bestimmungen mittels Weisungen erlassen.
 
 #### Art. 35
 
