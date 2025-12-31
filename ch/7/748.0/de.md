@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20250101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/de"
 
 (Luftfahrtgesetz, LFG)[^t-1]
 
-vom 21. Dezember 1948 (Stand am 1. Januar 2025)
+vom 21. Dezember 1948 (Stand am 1. Januar 2026)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 87 und 92 der Bundesverfassung[^ingress-1],[^ingress-2
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^ingress-3]: [BBl 1945 I 341](https://fedlex.data.admin.ch/eli/fga/1945/1_341_325_481)
 
@@ -141,7 +141,7 @@ Die Vereinbarungen über die Flugsicherung können:
 [^3a-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^3a-5]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^3a-6]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-7]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^3a-7]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^3a-8]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 1*b*. Zusammenarbeit mit ausländischen Behörden
@@ -220,7 +220,7 @@ Das BAZL kann mit ausländischen Luftfahrtbehörden oder internationalen Einrich
 <sup>2</sup> Der Bundesrat kann diese Regelung ebenfalls auf die technischen Vorschriften anwenden, welche im Rahmen der Zusammenarbeit der europäischen Luftfahrtbehörden festgelegt werden.
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^6a-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6a-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### 6. Gebühren
 
@@ -359,7 +359,7 @@ Diese Bestimmung gilt sinngemäss auch im Ausland für die Verwendung:
 - b. ausländischer Luftfahrzeuge durch Halter mit Hauptgeschäftssitz oder ständigem Aufenthalt in der Schweiz.
 
 [^11a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^11a-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^11a-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### II. Ergänzende Vorschriften
 
@@ -516,7 +516,7 @@ Zum Einsatz können die folgenden vom Bundesamt für Polizei (fedpol) für diese
 <sup>4</sup> Soweit auf Personal der Kantone oder Gemeinden zurückgegriffen wird, gilt der Bund diesen die Kosten ab.
 
 [^21a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^21a-2]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^21a-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 ### 3. Informationssystem für den Einsatz von Sicherheitsbeauftragten im Luftverkehr
 
@@ -550,7 +550,7 @@ Im Informationssystem werden folgende Daten über sicherheitsrelevante Ereigniss
 
 [^21c-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^21c-2]: Fassung gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^21c-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21c-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^21c-4]: Eingefügt durch Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### c. Zugriffsrechte und Datenweitergabe
@@ -590,7 +590,7 @@ Die im Informationssystem enthaltenen Daten dürfen folgenden Stellen für die n
 <sup>3</sup> Vor der Vernichtung werden die Daten dem Bundesarchiv nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998[^21e-2] angeboten.
 
 [^21e-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^21e-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^21e-2]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ### 4. Passagierlisten
 
@@ -673,9 +673,9 @@ Das BAZL kann über die Organisation des Rettungs- und Bergungsdienstes bei Flug
 <sup>4</sup> Der Bundesrat regelt die Organisation der Kommission. Er kann sie mit der Kommission nach Artikel 15*a* des Eisenbahngesetzes vom 20. Dezember 1957[^25-4] zusammenlegen.
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^25-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^25-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^25-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2022, in Kraft seit 1. Aug. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^25-4]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^25-4]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 ### c. Verfahren
 
@@ -706,7 +706,7 @@ Das Sekretariat kann zur Aufklärung des Sachverhalts anordnen:
 <sup>6</sup> Der Bundesrat regelt das Verfahren, insbesondere die Zwangsmassnahmen und die Veröffentlichung der Berichte.
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^26-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^26-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### d. Kosten
 
@@ -976,8 +976,8 @@ Im Betriebsreglement sind die im Sachplan Infrastruktur der Luftfahrt, in der Ko
 
 [^36d-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^36d-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^36d-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^36d-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36d-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^36d-4]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 2*a*. Entschädigung wegen übermässiger Lärmbelastung durch den Betrieb von Flughäfen
 
@@ -992,7 +992,7 @@ Im Betriebsreglement sind die im Sachplan Infrastruktur der Luftfahrt, in der Ko
 <sup>3</sup> Die Verjährungsfrist für Entschädigungsforderungen beträgt 5 Jahre und beginnt mit der Entstehung des Entschädigungsanspruchs.
 
 [^36e-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Fassung gemäss Anhang Ziff. 16 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^36e-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^36e-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 3. Plangenehmigungsverfahren
 
@@ -1021,7 +1021,7 @@ Genehmigungsbehörde ist:
 
 [^37-1]: Fassung gemäss Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^37-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^37-3]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^37-3]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### b. Anwendbares Recht
 
@@ -1034,8 +1034,8 @@ Genehmigungsbehörde ist:
 <sup>2</sup> Sind für Flughäfen Enteignungen notwendig, finden zudem die Vorschriften des EntG[^37a-3] Anwendung.
 
 [^37a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Fassung gemäss Anhang Ziff. 16 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^37a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^37a-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^37a-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### c. Ordentliches Plangenehmigungsverfahren; Einleitung
 
@@ -1102,9 +1102,9 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 <sup>3</sup> Die betroffenen Gemeinden wahren ihre Interessen mit Einsprache.
 
 [^37f-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^37f-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37f-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^37f-3]: Fassung gemäss Anhang Ziff. 16 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^37f-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37f-4]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^37f-5]: Fassung gemäss Anhang Ziff. 16 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### h. Bereinigung in der Bundesverwaltung
@@ -1116,7 +1116,7 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 Das Bereinigungsverfahren in der Bundesverwaltung richtet sich nach Artikel 62*b* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^37g-2].
 
 [^37g-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^37g-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^37g-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 4. Plangenehmigung; Geltungsdauer
 
@@ -1171,7 +1171,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im übrigen gilt Artikel 76 EntG.
 
 [^37k-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^37k-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37k-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^37k-3]: Fassung gemäss Anhang Ziff. 16 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^37k-4]: Aufgehoben durch Anhang Ziff. 16 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1307,7 +1307,7 @@ Innerhalb der Baulinien dürfen keine baulichen Veränderungen oder sonstigen Vo
 In den festgelegten oder vorgesehenen Projektierungszonen sowie innerhalb der festgelegten oder vorgesehenen Baulinien dürfen vorbereitende Handlungen vorgenommen werden. Artikel 15 EntG[^37t-2] gilt sinngemäss.
 
 [^37t-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^37t-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37t-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 9*a*. Bestandesschutz für Landesflughäfen
 
@@ -1426,7 +1426,7 @@ Der Flughafenhalter berücksichtigt bei der Festlegung der Gebühren namentlich 
 
 <sup>2</sup> Er sorgt für die Errichtung und den Betrieb einer nationalen Datenerfassungsschnittstelle für alle Luftfahrtdaten nach Absatz 1. Er kann diese Aufgabe einer juristischen Person des Privatrechts übertragen. Diese untersteht der Aufsicht durch das BAZL.
 
-<sup>3</sup> und <sup>4</sup> …[^40a-2]
+<sup>3 und <sup>4</sup></sup> …[^40a-2]
 
 [^40a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^40a-2]: Noch nicht in Kraft.
@@ -1664,7 +1664,7 @@ Die betroffene Person hat ihre Ansprüche innert fünf Jahren seit der Veröffen
 [^44-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^44-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^44-4]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^44-5]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^44-5]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^44-6]: Fassung gemäss Anhang Ziff. 16 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### d. …
@@ -2020,7 +2020,7 @@ Wird ein Schaden auf der Erde dadurch verursacht, dass zwei oder mehrere Luftfah
 Die Ersatzansprüche verjähren nach den Bestimmungen des Obligationenrechts[^68-2] über die unerlaubten Handlungen.
 
 [^68-1]: Fassung gemäss Anhang Ziff. 16 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^68-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### IV. Vorbehalt des Vertragsrechtes
 
@@ -2124,8 +2124,8 @@ Für die Beförderung von Postsendungen auf dem Luftwege bleiben die besonderen 
 
 <sup>2</sup> Weitergehende Ansprüche aus dem Flugunfall bleiben dem Verletzten oder den Hinterlassenen des Getöteten gewahrt.
 
-[^77-1]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^77-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^77-1]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^77-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^77-3]: Fassung gemäss Anhang Ziff. 5 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 ### II. Militärversicherung
@@ -2140,7 +2140,7 @@ Wird eine der Militärversicherung unterstellte Person durch den Betrieb eines s
 
 Soweit die Artikel 64–78 sowie die zu ihrer Ausführung vom Bundesrate erlassenen Vorschriften nichts anderes bestimmen, gelten die Bestimmungen des Obligationenrechtes[^79-1].
 
-[^79-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^79-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Vierter Titel: Die Sicherungsbeschlagnahme von Luftfahrzeugen
 
@@ -2223,7 +2223,7 @@ Die Bestimmungen der zwischenstaatlichen Vereinbarungen über den Schutz des gew
 <sup>3</sup> Der Täter ist auch strafbar, wenn er ausserhalb der Schweiz ein Luftfahrzeug mit schweizerischen Kennzeichen führt oder führen lässt, ohne dazu berechtigt zu sein. Artikel 4 Absatz 2 des Strafgesetzbuchs[^89-2] findet Anwendung.
 
 [^89-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^89-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^89-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2*a.* Missachtung von Weisungen eines Abfang- Luftfahrzeuges
 
@@ -2244,7 +2244,7 @@ Die Tat ist auch strafbar, wenn sie im Ausland begangen wird:
 
 [^89a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 [^89a-2]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^89a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^89a-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Gefährdung durch die Luftfahrt
 
@@ -2319,7 +2319,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
 [^91-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^91-2]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^91-3]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^91-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^91-4]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 ### II*a*. Weitere Strafbestimmungen
 
@@ -2330,7 +2330,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
 Die besonderen Bestimmungen des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^91bis-2] (Art. 14–18) sind anwendbar.
 
 [^91bis-1]: Eingefügt durch Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^91bis-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^91bis-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. Administrative Massnahmen
 
@@ -2378,7 +2378,7 @@ Eine auf Grund von Artikel 28, 30 oder 37 erteilte Konzession kann bei schwerer 
 Soweit die Artikel 89 Absatz 3, 89*a* Absatz 3 und 97 dieses Gesetzes oder die Artikel 4–7 des Strafgesetzbuchs[^96-2] nichts anderes vorsehen, ist den Strafbestimmungen nur unterworfen, wer im Inland eine strafbare Handlung verübt.
 
 [^96-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^96-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^96-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Strafbare Handlungen an Bord von schweizerischen Luftfahrzeugen oder von ausländischen Luftfahrzeugen, die in der Schweiz landen
 
@@ -2402,7 +2402,7 @@ Soweit die Artikel 89 Absatz 3, 89*a* Absatz 3 und 97 dieses Gesetzes oder die A
 
 [^97-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^97-2]: Eingefügt durch Anhang des BB vom 18. Dez. 2020 über die Genehmigung des Prot. zur Änderung des Abk. von Tokio, in Kraft seit 1. Aug. 2021 ([AS 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
-[^97-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^97-4]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Gerichtsbarkeit
@@ -2416,7 +2416,7 @@ Soweit die Artikel 89 Absatz 3, 89*a* Absatz 3 und 97 dieses Gesetzes oder die A
 <sup>3</sup> Sind die strafbaren Handlungen an Bord ausländischer Luftfahrzeuge über der Schweiz oder an Bord schweizerischer Luftfahrzeuge ausserhalb der Schweiz verübt worden, so kann die für die Strafverfolgung zuständige schweizerische Behörde von der Durchführung des Strafverfahrens absehen.[^98-4]
 
 [^98-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1971, in Kraft seit 1. Jan. 1974 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^98-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^98-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^98-3]: Fassung gemäss Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^98-4]: Fassung gemäss Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -2438,7 +2438,7 @@ Soweit die Artikel 89 Absatz 3, 89*a* Absatz 3 und 97 dieses Gesetzes oder die A
 [^99-2]: Fassung gemäss Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^99-3]: Fassung gemäss Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^99-4]: Fassung gemäss Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^99-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^99-5]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^99-6]: Eingefügt durch Ziff. 15 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### IV. Meldepflichten, Einholen von Stellungnahmen und Melderechte
@@ -2468,11 +2468,11 @@ Sie melden dem BAZL, sofern durch die Meldung das Strafverfahren nicht beeinträ
 <sup>4</sup> Hat eine Ärztin, ein Arzt, eine Psychologin oder ein Psychologe bei einem Besatzungsmitglied, einer Fluglotsin oder einem Fluglotsen wegen einer festgestellten körperlichen oder psychischen Krankheit, eines Gebrechens oder einer Sucht Zweifel an der Tauglichkeit zur Ausübung der entsprechenden Tätigkeiten, so kann sie oder er dem BAZL Meldung erstatten.[^100-7]
 
 [^100-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^100-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546). Dieser Art. ist nicht mehr in Kraft. Siehe heute: Art. 19 Abs. 2 Bst. a des Nachrichtendienstgesetzes vom 25. Sept. 2015 ([SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
-[^100-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^100-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^100-5]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^100-6]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^100-2]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735). Dieser Art. ist nicht mehr in Kraft. Siehe heute: Art. 19 Abs. 2 Bst. a des Nachrichtendienstgesetzes vom 25. Sept. 2015 ([SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)).
+[^100-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^100-4]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^100-5]: [SR 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^100-6]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^100-7]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### V. Massnahmen zur Verhütung von Verbrechen
@@ -2494,7 +2494,7 @@ Sie melden dem BAZL, sofern durch die Meldung das Strafverfahren nicht beeinträ
 [^100bis-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 1971, in Kraft seit 1. Jan. 1974 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^100bis-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. II 4 des Postgesetzes 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
 [^100bis-3]: Fassung gemäss Anhang Ziff. 18 des Postorganisationsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^100bis-4]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^100bis-4]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### VI. Feststellung der Angetrunkenheit und ähnlicher Zustände
 
@@ -2520,7 +2520,7 @@ Sie melden dem BAZL, sofern durch die Meldung das Strafverfahren nicht beeinträ
 [^100ter-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 [^100ter-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 [^100ter-4]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
-[^100ter-5]: SR **0.748.127.192****.****68**
+[^100ter-5]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 [^100ter-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [BBl 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ## Dritter Teil: Förderung der Luftfahrt
@@ -2575,23 +2575,11 @@ Der Bund kann sich an Flugplatz- oder Luftverkehrsunternehmungen beteiligen, wen
 
 [^102-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1971, in Kraft seit 1. Jan. 1974 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
-### II*a.* Finanzhilfen des Bundes infolge der COVID-19-Pandemie
+### II. *a*
 
 #### Art. 102a
 
 [^102a-1]
-
-<sup>1</sup>
-
-Lässt sich ein unterbruchfreier und geordneter Betrieb der Landesflughäfen infolge der COVID-19-Pandemie nicht anders gewährleisten, so kann der Bund:
-
-- a. sich zusammen mit den Flugplatzunternehmen vorübergehend an Gesellschaften zur Sicherstellung der Erbringung von Dienstleistungen in den Bereichen Bodenabfertigung und Luftfahrzeuginstandhaltung beteiligen oder solchen Gesellschaften Darlehen, Bürgschaften oder Garantien gewähren;
-- b. den Unternehmen, die Dienstleistungen in den Bereichen Bodenabfertigung und Luftfahrzeuginstandhaltung erbringen, Darlehen, Bürgschaften oder Garantien gewähren;
-- c. den Landesflughäfen Darlehen, Bürgschaften oder Garantien gewähren.
-
-<sup>2</sup> Der Bundesrat regelt unter Berücksichtigung angemessener Sicherheiten die Voraussetzungen für eine Beteiligung des Bundes und die Ausrichtung weiterer Finanzhilfen sowie die Bedingungen und Auflagen für Darlehen, Bürgschaften und Garantien. Er sorgt dafür, dass die Finanzhilfen ausschliesslich zur Sicherstellung der Dienstleistungen in der Schweiz verwendet werden.
-
-<sup>3</sup> Voraussetzung für die Gewährung von Finanzhilfen an ausländische oder ausländisch dominierte Unternehmen ist die Absicherung durch Beteiligungsrechte im gleichem Umfang oder gleichwertige Sicherheitsmassnahmen. Der Bundesrat regelt die Einzelheiten.
 
 [^102a-1]: Eingefügt durch Ziff. I des BG vom 6. Mai 2020, in Kraft vom 7. Mai 2020 bis zum 31. Dez. 2025 ([AS 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [BBl 2020 3667](https://fedlex.data.admin.ch/eli/fga/2020/864)).
 
@@ -2605,7 +2593,7 @@ Lässt sich ein unterbruchfreier und geordneter Betrieb der Landesflughäfen inf
 
 Die Wettbewerbskommission prüft, ob mit Artikel 13 des Abkommens vom 21. Juni 1999[^103-2] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr vereinbar sind:
 
-- a.[^103-3] die Entwürfe zu Beschlüssen des Bundesrates, welche bestimmte Unternehmen oder Produktionszweige im Anwendungsbereich des Abkommens begünstigen, insbesondere Leistungen, Beteiligungen und Finanzhilfen nach den Artikeln 101, 102 und 102*a* dieses Gesetzes;
+- a.[^103-3] die Entwürfe zu Beschlüssen des Bundesrates, welche bestimmte Unternehmen oder Produktionszweige im Anwendungsbereich des Abkommens begünstigen, insbesondere Leistungen und Beteiligungen nach den Artikeln 101 und 102 dieses Gesetzes;
 - b. gleichartige Unterstützungsmassnahmen von Kantonen und Gemeinden oder anderen schweizerischen öffentlich-rechtlichen oder gemischt-wirtschaftlichen Körperschaften oder Anstalten;
 - c. gleichartige Unterstützungsmassnahmen der Europäischen Gemeinschaft oder ihrer Mitgliedstaaten.
 
@@ -2614,8 +2602,8 @@ Die Wettbewerbskommission prüft, ob mit Artikel 13 des Abkommens vom 21. Juni 1
 <sup>3</sup> Die für den Beschluss zuständigen Behörden berücksichtigen das Ergebnis der Prüfung.
 
 [^103-1]: Fassung gemäss Ziff. I des BG vom 19. März 2004, in Kraft seit 1. Sept. 2004 ([AS 2004 3867](https://fedlex.data.admin.ch/eli/oc/2004/534); [BBl 2003 6241](https://fedlex.data.admin.ch/eli/fga/2003/998)).
-[^103-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^103-3]: Fassung gemäss Ziff. I des BG vom 6. Mai 2020, in Kraft vom 7. Mai 2020 bis zum 31. Dez. 2025 ([AS 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [BBl 2020 3667](https://fedlex.data.admin.ch/eli/fga/2020/864)).
+[^103-2]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^103-3]: Fassung gemäss Ziff. II 21 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### IV. Fliegerische Aus- und Weiterbildung
 
@@ -2762,7 +2750,7 @@ Bearbeitet werden im Weiteren Personendaten betreffend:
 [^107a-2]: Fassung gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^107a-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^107a-4]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^107a-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^107a-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^107a-6]: Fassung gemäss Anhang 1 Ziff. II 65 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^107a-7]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 

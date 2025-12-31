@@ -4,11 +4,11 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20250101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/it"
 
 (LNA[^t-1])
 
-del 21 dicembre 1948 (Stato 1° gennaio 2025)
+del 21 dicembre 1948 (Stato 1° gennaio 2026)
 
-[^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
+[^t-1]: Abbreviazione introdotta dalla cifra I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,8 +27,8 @@ visti gli articoli 87 e 92 della Costituzione federale[^ingress-1] (Cost.);[^ing
 
 decreta:
 
-[^ingress-1]: [CS **1** 3]. A queste disp. corrispondono ora gli art. 87 e 92 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^ingress-1]: [CS **1** 3]. A queste disp. corrispondono ora gli art. 87 e 92 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^ingress-3]: FF **1945** 481
 
 ## Parte prima: Principi della navigazione aerea
@@ -53,7 +53,7 @@ decreta:
 
 <sup>4</sup> Per servizio della sicurezza aerea si intendono, ai sensi della presente legge, tutti i servizi che garantiscono uno svolgimento sicuro, ordinato e fluido del traffico aereo.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### 2. Aeromobili e ordigni balistici ammessi alla circolazione
 
@@ -75,9 +75,9 @@ Sono ammessi alla circolazione nello spazio aereo svizzero, fatto salvo il capov
 
 <sup>3</sup> Il Consiglio federale emana prescrizioni particolari concernenti gli ordigni balistici.
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^2-2]: Nuova espr. giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-3]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^2-2]: Nuova espr. giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Vigilanza della Confederazione
 
@@ -136,19 +136,19 @@ Gli accordi concernenti il servizio della sicurezza aerea possono:
 
 <sup>4</sup> Se, in applicazione di un accordo concernente il servizio della sicurezza aerea, è tenuta a versare indennizzi per danni causati illecitamente da un fornitore svizzero di servizi della sicurezza aerea, la Confederazione ha diritto di regresso nei confronti di quest’ultimo.
 
-[^3a-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3a-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-3]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^3a-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-3]: Introdotta dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^3a-4]: Introdotta dall’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^3a-5]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-6]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^3a-7]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-5]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^3a-6]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^3a-7]: Introdotta dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 1*b*. Collaborazione con autorità straniere
 
 [^part1-tit1-chap1-lvlII-lvl1b-1]
 
-[^part1-tit1-chap1-lvlII-lvl1b-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^part1-tit1-chap1-lvlII-lvl1b-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 #### Art. 3b
 
@@ -166,14 +166,14 @@ L’UFAC può concludere con autorità aeronautiche estere o istituzioni interna
 - h.[^3b-9] trattamento e scambio di dati aeronautici.
 
 [^3b-1]: Originario art. 3<sup>bis</sup>.
-[^3b-2]: Introdotto dal n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^3b-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3b-4]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° giu. 2006 ([RU 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305); [FF 2005 3479](https://fedlex.data.admin.ch/eli/fga/2005/561)).
-[^3b-5]: Introdotta dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3b-6]: Introdotta dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3b-7]: Introdotta dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3b-8]: Introdotta dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^3b-9]: Introdotta dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^3b-2]: Introdotto dalla cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^3b-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^3b-4]: Nuovo testo giusta la cifra I della LF del 16 dic. 2005, in vigore dal 1° giu. 2006 ([RU 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305); [FF 2005 3479](https://fedlex.data.admin.ch/eli/fga/2005/561)).
+[^3b-5]: Introdotta dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^3b-6]: Introdotta dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^3b-7]: Introdotta dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^3b-8]: Introdotta dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^3b-9]: Introdotta dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 2. Delega della sorveglianza
 
@@ -185,8 +185,8 @@ L’UFAC può concludere con autorità aeronautiche estere o istituzioni interna
 
 <sup>2</sup> I Governi dei Cantoni interessati saranno sentiti prima di qualsiasi delega di competenze alle autorità comunali.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^4-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^4-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 3. …
 
@@ -194,7 +194,7 @@ L’UFAC può concludere con autorità aeronautiche estere o istituzioni interna
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^5-1]: Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 4. Ricorso
 
@@ -206,9 +206,9 @@ L’UFAC può concludere con autorità aeronautiche estere o istituzioni interna
 
 <sup>2</sup> …[^6-3]
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 [^6-2]: Nuovo testo giusta l’all. n. 82 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^6-3]: Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^6-3]: Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 5. Allegati alla Convenzione di Chicago e collaborazione europea
 
@@ -220,8 +220,8 @@ L’UFAC può concludere con autorità aeronautiche estere o istituzioni interna
 
 <sup>2</sup> Il Consiglio federale può applicare tale disciplinamento pure alle prescrizioni tecniche stabilite nell’ambito della collaborazione tra le autorità aeronautiche europee.
 
-[^6a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^6a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^6a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### 6. Emolumenti
 
@@ -233,7 +233,7 @@ L’UFAC può concludere con autorità aeronautiche estere o istituzioni interna
 
 <sup>2</sup> Il Consiglio federale determina le aliquote degli emolumenti.
 
-[^6b-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^6b-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### III. Limitazioni alla navigazione aerea
 
@@ -247,7 +247,7 @@ Nell’interesse dell’ordine e della sicurezza pubblica o per ragioni di ordin
 
 [^part1-tit1-chap1-lvlIII-lvl2-1]
 
-[^part1-tit1-chap1-lvlIII-lvl2-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^part1-tit1-chap1-lvlIII-lvl2-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 #### Art. 8
 
@@ -272,13 +272,13 @@ Il Consiglio federale disciplina:
 
 <sup>7</sup> Per gli atterramenti in montagna l’UFAC può prescrivere spazi aerei o vie aeree. Sente prima i Governi dei Cantoni interessati.[^8-7]
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^8-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° set. 2014 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^8-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° set. 2014 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^8-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° set. 2014 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^8-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° set. 2014 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2014 1337](https://fedlex.data.admin.ch/eli/oc/2014/285); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^8-4]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^8-5]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^8-5]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^8-6]: Nuovo testo giusta l’all. n. 27 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^8-7]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^8-7]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 2*a*. Struttura dello spazio aereo
 
@@ -290,7 +290,7 @@ Il Consiglio federale disciplina:
 
 <sup>2</sup> La struttura dello spazio aereo entra in vigore anche se contro di essa è stato interposto ricorso.
 
-[^8a-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^8a-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 3. Aerodromi e idroscali doganali
 
@@ -318,9 +318,9 @@ L’UFAC può designare, d’intesa con la Direzione generale delle dogane, dete
 
 <sup>3</sup> Il Consiglio federale disciplina i dettagli; può prevedere altre deroghe al capoverso 1 qualora la sicurezza aerea lo consenta.[^10a-3]
 
-[^10a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^10a-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
-[^10a-3]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^10a-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^10a-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^10a-3]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### IV. Diritto applicabile
 
@@ -336,13 +336,13 @@ L’UFAC può designare, d’intesa con la Direzione generale delle dogane, dete
 
 <sup>4</sup> Sono, in ogni caso, riservate le disposizioni degli accordi internazionali, le norme riconosciute del diritto internazionale e le disposizioni della presente legge sull’applicabilità territoriale delle disposizioni penali.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 14 giu. 1963, in vigore dal 1° mag. 1964 ([RU 1964 317](https://fedlex.data.admin.ch/eli/oc/1964/325_317_317); BBl **1962** II 717 ediz. ted., FF **1962** II 713 ediz. franc.).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 1963, in vigore dal 1° mag. 1964 ([RU 1964 317](https://fedlex.data.admin.ch/eli/oc/1964/325_317_317); BBl **1962** II 717 ediz. ted., FF **1962** II 713 ediz. franc.).
 
 ### Capo secondo: Uso dello spazio aereo e misure di sicurezza
 
 [^part1-tit1-chap2-1]
 
-[^part1-tit1-chap2-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
+[^part1-tit1-chap2-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
 ### I. Utilizzazione abusiva di aeromobili
 
@@ -359,8 +359,8 @@ Questa disposizione si applica per analogia anche all’uso all’estero:
 - a. di aeromobili svizzeri;
 - b. di aeromobili stranieri da parte di un esercente la cui sede principale o residenza permanente si trova in Svizzera.
 
-[^11a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^11a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^11a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^11a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### II. Prescrizioni completive
 
@@ -376,8 +376,8 @@ Questa disposizione si applica per analogia anche all’uso all’estero:
 
 <sup>3</sup> I Governi dei Cantoni interessati devono essere sentiti prima dell’emanazione di prescrizioni per la prevenzione degli attentati sugli aerodromi.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^12-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^12-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Autorizzazioni
 
@@ -397,7 +397,7 @@ Il Consiglio federale può subordinare all’autorizzazione preventiva dell’UF
 
 <sup>3</sup> Il Consiglio federale può vietare o subordinare a un’autorizzazione dell’UFAC la presa di fotografie aeree e la loro pubblicazione, la pubblicità e la propaganda con aeromobili, come pure il trasporto di determinati oggetti per via aerea.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
 ### 4. Provvedimenti speciali
 
@@ -407,7 +407,7 @@ Il Consiglio federale può subordinare all’autorizzazione preventiva dell’UF
 
 L’UFAC ordina speciali provvedimenti di polizia, segnatamente per garantire la sicurezza aerea e combattere i rumori degli aeromobili, sia all’atto del rilascio di un’autorizzazione, sia mediante apposita decisione.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 5. Ispezione
 
@@ -425,13 +425,13 @@ Gli organi di vigilanza hanno in ogni tempo diritto di ispezionare gli aeromobil
 
 <sup>2</sup> Nell’attesa l’aeromobile resta, insieme con le persone e le cose che vi si trovano, sotto la vigilanza delle autorità locali.
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 14 giu. 1963, in vigore dal 1° mag. 1964 ([RU 1964 317](https://fedlex.data.admin.ch/eli/oc/1964/325_317_317); BBl **1962** II 717 ediz. ted., FF **1962** II 713 ediz. franc.).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 14 giu. 1963, in vigore dal 1° mag. 1964 ([RU 1964 317](https://fedlex.data.admin.ch/eli/oc/1964/325_317_317); BBl **1962** II 717 ediz. ted., FF **1962** II 713 ediz. franc.).
 
 ### III. Obbligo di atterrare
 
 [^part1-tit1-chap2-lvlIII-1]
 
-[^part1-tit1-chap2-lvlIII-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^part1-tit1-chap2-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 #### Art. 18
 
@@ -449,7 +449,7 @@ Gli organi di vigilanza hanno in ogni tempo diritto di ispezionare gli aeromobil
 
 <sup>2</sup> Qualora motivi politici impongano provvedimenti di cui al capoverso 1, l’UFAC li attua d’intesa con le direzioni competenti del Dipartimento federale degli affari esteri.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### V. Formazione del personale navigante straniero nonché manutenzione di apparecchi volanti stranieri
 
@@ -459,13 +459,13 @@ Gli organi di vigilanza hanno in ogni tempo diritto di ispezionare gli aeromobil
 
 L’UFAC può, d’intesa con le direzioni competenti del Dipartimento federale degli affari esteri, vietare la formazione di personale navigante straniero nonché la manutenzione e la riparazione di apparecchi volanti stranieri, se gravi motivi di politica estera lo esigono.
 
-[^19a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^19a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### VI. Sistema di segnalazione degli eventi particolari
 
 [^part1-tit1-chap2-lvlVI-1]
 
-[^part1-tit1-chap2-lvlVI-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^part1-tit1-chap2-lvlVI-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 20
 
@@ -477,9 +477,9 @@ L’UFAC può, d’intesa con le direzioni competenti del Dipartimento federale 
 
 <sup>3</sup> Il Consiglio federale può prevedere la rinuncia all’apertura di un procedimento penale nei confronti degli autori della segnalazione.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° apr. 2007 ([RU 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305), [2007 915](https://fedlex.data.admin.ch/eli/oc/2007/163); [FF 2005 3479](https://fedlex.data.admin.ch/eli/fga/2005/561)).
-[^20-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^20-3]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2005, in vigore dal 1° apr. 2007 ([RU 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305), [2007 915](https://fedlex.data.admin.ch/eli/oc/2007/163); [FF 2005 3479](https://fedlex.data.admin.ch/eli/fga/2005/561)).
+[^20-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^20-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### VII. Polizia aerea
 
@@ -487,7 +487,7 @@ L’UFAC può, d’intesa con le direzioni competenti del Dipartimento federale 
 
 [^part1-tit1-chap2-lvlVII-lvl1-1]
 
-[^part1-tit1-chap2-lvlVII-lvl1-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^part1-tit1-chap2-lvlVII-lvl1-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 21
 
@@ -497,7 +497,7 @@ L’UFAC può, d’intesa con le direzioni competenti del Dipartimento federale 
 
 <sup>2</sup> Sono riservate le competenze generali della polizia della Confederazione e dei Cantoni su gli aerodromi, gli idroscali e gli altri terreni messi al servizio della navigazione aerea.
 
-[^21-1]: Introdotto dall’all. n. 6 della L del 20 mar. 2008 sulla coercizione ([RU 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2327](https://fedlex.data.admin.ch/eli/fga/2006/250)). Abrogato dal n. I della LF del 16 giu. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21-1]: Introdotto dall’all. n. 6 della L del 20 mar. 2008 sulla coercizione ([RU 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2327](https://fedlex.data.admin.ch/eli/fga/2006/250)). Abrogato dalla cifra I della LF del 16 giu. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Guardie di sicurezza nel traffico aereo
 
@@ -521,8 +521,8 @@ Possono essere impiegate le seguenti persone formate per tale compito dall’Uff
 
 <sup>4</sup> In caso di ricorso a personale dei Cantoni o dei Comuni, la Confederazione rimborsa le relative spese.
 
-[^21a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^21a-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^21a-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21a-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 ### 3. Sistema d’informazione per l’impiego di guardie di sicurezza nel traffico aereo
 
@@ -534,7 +534,7 @@ Possono essere impiegate le seguenti persone formate per tale compito dall’Uff
 
 Fedpol elabora in un sistema d’informazione i dati necessari allo svolgimento di analisi dei rischi e delle minacce e alla pianificazione dell’impiego di guardie di sicurezza.
 
-[^21b-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21b-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### b. Categorie di dati
 
@@ -554,10 +554,10 @@ Nel sistema d’informazione sono trattati i seguenti dati relativi a eventi ril
 
 <sup>2</sup> Nel sistema d’informazione sono inoltre trattati i dati personali relativi all’identità delle guardie di sicurezza che possono essere impiegate.
 
-[^21c-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^21c-2]: Nuovo testo giusta l’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^21c-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21c-4]: Introdotto dall’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^21c-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21c-2]: Nuovo testo giusta l’all. 1 cifra II n. 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^21c-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^21c-4]: Introdotto dall’all. 1 cifra II n. 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### c. Diritti di accesso e trasmissione dei dati
 
@@ -581,7 +581,7 @@ I dati contenuti nel sistema d’informazione possono essere trasmessi ai seguen
 - a. alle autorità federali, cantonali e comunali di sicurezza e di perseguimento penale, per l’adempimento dei loro obblighi legali in materia di sicurezza dell’aviazione;
 - b. alle imprese di trasporto aereo che impiegano aeromobili svizzeri nel traffico aereo internazionale commerciale, per l’adempimento dei loro obblighi di diritto pubblico relativi alla sicurezza dell’aviazione, in particolare per l’impiego di guardie di sicurezza.
 
-[^21d-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21d-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### d. Distruzione dei dati
 
@@ -595,8 +595,8 @@ I dati contenuti nel sistema d’informazione possono essere trasmessi ai seguen
 
 <sup>3</sup> Prima della loro distruzione, i dati sono offerti all’Archivio federale conformemente all’articolo 6 della legge del 26 giugno 1998[^21e-2] sull’archiviazione.
 
-[^21e-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^21e-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^21e-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21e-2]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ### 4. Elenchi dei passeggeri
 
@@ -619,7 +619,7 @@ Per la prevenzione o il perseguimento di crimini e delitti, le imprese di traspo
 
 <sup>3</sup> L’autorità di perseguimento penale distrugge i dati messile a disposizione 72 ore dopo il loro ricevimento, purché non siano direttamente necessari per gli scopi di cui al capoverso 1.
 
-[^21f-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21f-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### VIII. Infortuni aeronautici e incidenti gravi
 
@@ -627,7 +627,7 @@ Per la prevenzione o il perseguimento di crimini e delitti, le imprese di traspo
 
 [^part1-tit1-chap2-lvlVIII-lvl1-1]
 
-[^part1-tit1-chap2-lvlVIII-lvl1-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^part1-tit1-chap2-lvlVIII-lvl1-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 #### Art. 22
 
@@ -643,7 +643,7 @@ L’UFAC può emanare disposizioni sull’organizzazione del servizio di salvata
 
 <sup>2</sup> Le autorità locali provvedono affinché sul luogo dell’infortunio non sia fatto alcun mutamento che possa ostacolare l’inchiesta, salvo le operazioni indispensabili di salvataggio e di soccorso.
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 2 ott. 1959, in vigore dal 1° mag. 1960 ([RU 1960 371](https://fedlex.data.admin.ch/eli/oc/1960/357_385_371); [FF 1959 I 959](https://fedlex.data.admin.ch/eli/fga/1959/1___959)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 2 ott. 1959, in vigore dal 1° mag. 1960 ([RU 1960 371](https://fedlex.data.admin.ch/eli/oc/1960/357_385_371); [FF 1959 I 959](https://fedlex.data.admin.ch/eli/fga/1959/1___959)).
 [^23-2]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 3. Inchiesta
@@ -658,7 +658,7 @@ L’UFAC può emanare disposizioni sull’organizzazione del servizio di salvata
 
 <sup>2</sup> L’inchiesta serve a impedire infortuni analoghi. Essa non verte sulla determinazione della colpa e della responsabilità.
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### b. Commissione d’inchiesta per l’aviazione civile
 
@@ -678,10 +678,10 @@ L’UFAC può emanare disposizioni sull’organizzazione del servizio di salvata
 
 <sup>4</sup> Il Consiglio federale disciplina l’organizzazione della Commissione. Può accorparla con la Commissione di cui all’articolo 15*a* della legge federale del 20 dicembre 1957[^25-4] sulle ferrovie.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^25-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^25-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^25-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^25-3]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^25-4]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^25-4]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 ### c. Procedura
 
@@ -711,8 +711,8 @@ Per chiarire i fatti, la segreteria può ordinare:
 
 <sup>6</sup> Il Consiglio federale disciplina la procedura, in particolare le misure coercitive e la pubblicazione dei rapporti.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^26-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^26-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^26-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### d. Spese
 
@@ -726,8 +726,8 @@ Per chiarire i fatti, la segreteria può ordinare:
 
 <sup>3</sup> Il Cantone sul cui territorio si è verificato l’infortunio assume le spese di sorveglianza in loco.
 
-[^26a-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^26a-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^26a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^26a-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### e. Servizio d’inchiesta per l’aviazione militare
 
@@ -741,13 +741,13 @@ Per chiarire i fatti, la segreteria può ordinare:
 
 <sup>3</sup> Il Consiglio federale disciplina l’organizzazione del servizio, i dettagli della procedura e le misure coercitive.
 
-[^26b-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^26b-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 26c
 
 [^26c-1]
 
-[^26c-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^26c-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° nov. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)[4573](https://fedlex.data.admin.ch/eli/oc/2011/648); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### IX..Traffico aereo commerciale
 
@@ -775,9 +775,9 @@ L’autorizzazione viene rilasciata se, in vista del tipo di esercizio previsto,
 
 <sup>4</sup> Il Consiglio federale stabilisce i tipi di esercizio e le relative condizioni. In casi motivati può prevedere la possibilità di derogare alle condizioni di cui al capoverso 2 lettera a.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
-[^27-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^27-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^27-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^27-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### b. Concessione di rotte
 
@@ -797,8 +797,8 @@ L’autorizzazione viene rilasciata se, in vista del tipo di esercizio previsto,
 
 <sup>6</sup> Prima di decidere su una domanda di concessione occorre consultare i Governi dei Cantoni coinvolti e le imprese pubbliche di trasporto interessate.
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
-[^28-2]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° apr. 2007 ([RU 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305), [2007 915](https://fedlex.data.admin.ch/eli/oc/2007/163); [FF 2005 3479](https://fedlex.data.admin.ch/eli/fga/2005/561)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^28-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 2005, in vigore dal 1° apr. 2007 ([RU 2006 1989](https://fedlex.data.admin.ch/eli/oc/2006/305), [2007 915](https://fedlex.data.admin.ch/eli/oc/2007/163); [FF 2005 3479](https://fedlex.data.admin.ch/eli/fga/2005/561)).
 
 ### 2. Imprese con sede all’estero
 
@@ -824,9 +824,9 @@ L’autorizzazione viene rilasciata se:
 
 <sup>4</sup> L’autorizzazione può essere modificata o revocata.[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
-[^29-2]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^29-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^29-2]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^29-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### b. Concessione di rotte
 
@@ -842,8 +842,8 @@ L’autorizzazione viene rilasciata se:
 
 <sup>4</sup> Quando conclude accordi bilaterali o multilaterali, la Confederazione persegue l’utilizzazione della designazione multipla.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
-[^30-2]: Nuova espressione giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Di detta mod. è tenuto conto in tutto il testo.
+[^30-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^30-2]: Nuova espressione giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)). Di detta mod. è tenuto conto in tutto il testo.
 
 ### 3..Disposizioni comuni
 
@@ -855,7 +855,7 @@ L’autorizzazione viene rilasciata se:
 
 Il Consiglio federale disciplina la delimitazione del traffico di linea da ogni altro traffico commerciale.
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 
 ### b. Cabotaggio
 
@@ -865,7 +865,7 @@ Il Consiglio federale disciplina la delimitazione del traffico di linea da ogni 
 
 Nella misura in cui gli accordi internazionali non prevedano altrimenti, il trasporto professionale di persone o di merci per via aerea tra due punti del territorio svizzero è riservato, di regola, alle imprese svizzere.
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 
 ### 4. Scuole
 
@@ -879,25 +879,25 @@ Nella misura in cui gli accordi internazionali non prevedano altrimenti, il tras
 
 <sup>3</sup> Il Consiglio federale disciplina le modalità e la procedura di rilascio delle autorizzazioni.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 
 #### Art. 34
 
 [^34-1]
 
-[^34-1]: Abrogato dal n. I della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^34-1]: Abrogato dalla cifra I della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 #### Art. 35
 
 [^35-1]
 
-[^35-1]: Abrogato giusta il n. I della LF del 26 giu. 1998, con effetto dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^35-1]: Abrogato giusta la cifra I della LF del 26 giu. 1998, con effetto dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 
 ### Capo terzo: Infrastruttura
 
 [^part1-tit1-chap3-1]
 
-[^part1-tit1-chap3-1]: Nuovo testo giusta il n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^part1-tit1-chap3-1]: Nuovo testo giusta la cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### I. Aerodromi
 
@@ -911,7 +911,7 @@ Nella misura in cui gli accordi internazionali non prevedano altrimenti, il tras
 
 <sup>2</sup> Può limitare il numero di idroscali.
 
-[^36-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 1999, in vigore dal 1° ago. 2001 ([RU 2001 1678](https://fedlex.data.admin.ch/eli/oc/2001/257); FF **1998** 4434).
+[^36-1]: Nuovo testo giusta la cifra I della LF dell’8 ott. 1999, in vigore dal 1° ago. 2001 ([RU 2001 1678](https://fedlex.data.admin.ch/eli/oc/2001/257); FF **1998** 4434).
 
 ### 2. Esercizio
 
@@ -929,7 +929,7 @@ Nella misura in cui gli accordi internazionali non prevedano altrimenti, il tras
 
 <sup>4</sup> Al concessionario spetta il diritto d’espropriazione.
 
-[^36a-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^36a-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### b. Autorizzazione d’esercizio
 
@@ -941,7 +941,7 @@ Nella misura in cui gli accordi internazionali non prevedano altrimenti, il tras
 
 <sup>2</sup> L’autorizzazione d’esercizio stabilisce diritti e obblighi relativi all’esercizio di un campo d’aviazione.
 
-[^36b-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^36b-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### c. Regolamento d’esercizio
 
@@ -962,7 +962,7 @@ Il regolamento d’esercizio stabilisce le modalità concrete dell’esercizio c
 
 <sup>4</sup> Se il gerente adotta o modifica il regolamento d’esercizio in relazione con la costruzione o la modifica di impianti aeroportuali, l’UFAC approva il regolamento d’esercizio al più presto al momento dell’approvazione dei piani.
 
-[^36c-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^36c-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ( [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### d. Modifiche rilevanti del regolamento d’esercizio
 
@@ -980,10 +980,10 @@ Il regolamento d’esercizio stabilisce le modalità concrete dell’esercizio c
 
 <sup>5</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
 
-[^36d-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^36d-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^36d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^36d-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36d-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^36d-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^36d-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^36d-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 2*a*. Indennità per l’eccessiva esposizione al rumore dovuta all’esercizio di aeroporti
 
@@ -997,8 +997,8 @@ Il regolamento d’esercizio stabilisce le modalità concrete dell’esercizio c
 
 <sup>3</sup> Il termine di prescrizione per le pretese d’indennità è di cinque anni e decorre dalla data in cui sorge il diritto all’indennità.
 
-[^36e-1]: Introdotto dal n. I della LF del 16 giu. 2017 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^36e-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^36e-1]: Introdotto dalla cifra I della LF del 16 giu. 2017 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748);[FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^36e-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 3. Procedura di approvazione dei piani
 
@@ -1025,9 +1025,9 @@ Autorità d’approvazione dei piani è:
 
 <sup>5</sup> Per progetti che incidono considerevolmente sulla pianificazione del territorio e sull’ambiente, occorre di regola un piano settoriale secondo la legge federale del 22 giugno 1979[^37-3] sulla pianificazione del territorio.
 
-[^37-1]: Nuovo testo giusta il n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37-2]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^37-3]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^37-1]: Nuovo testo giusta la cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37-2]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^37-3]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### b. Diritto applicabile
 
@@ -1039,9 +1039,9 @@ Autorità d’approvazione dei piani è:
 
 <sup>2</sup> Se per gli aeroporti sono necessarie espropriazioni, si applicano inoltre le disposizioni della LEspr[^37a-3].
 
-[^37a-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^37a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^37a-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748);[FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^37a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^37a-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### c. Procedura ordinaria; introduzione
 
@@ -1051,7 +1051,7 @@ Autorità d’approvazione dei piani è:
 
 La domanda di approvazione dei piani va presentata, con la documentazione necessaria, all’autorità competente. Questa esamina se la documentazione è completa e, se del caso, chiede di completarla.
 
-[^37b-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta il n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37b-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta la cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### d. Picchettamento
 
@@ -1065,14 +1065,14 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>3</sup> Le obiezioni contro il picchettamento o l’indicazione dei profili devono essere presentate subito, al più tardi però entro il termine di deposito dei piani, all’autorità competente per l’approvazione dei piani.
 
-[^37c-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37c-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^37c-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37c-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### e. Invito ad esprimere un parere, pubblicazione e deposito dei piani
 
 [^part1-tit1-chap3-lvlI-lvl3-lvle-1]
 
-[^part1-tit1-chap3-lvlI-lvl3-lvle-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^part1-tit1-chap3-lvlI-lvl3-lvle-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 #### Art. 37d
 
@@ -1084,8 +1084,8 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>3</sup> …[^37d-3]
 
-[^37d-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37d-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^37d-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37d-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^37d-3]: Abrogato dall’all. n. 16 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### f. …
@@ -1094,7 +1094,7 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 [^37e-1]
 
-[^37e-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. n. 16 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^37e-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. n. 16 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748);[FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### g. Opposizione
 
@@ -1108,10 +1108,10 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 <sup>3</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
 
-[^37f-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37f-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37f-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37f-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^37f-3]: Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^37f-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37f-4]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^37f-5]: Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### h. Eliminazione delle divergenze nella Amministrazione federale
@@ -1122,8 +1122,8 @@ La domanda di approvazione dei piani va presentata, con la documentazione necess
 
 La procedura di eliminazione delle divergenze nell’Amministrazione federale è disciplinata dall’articolo 62*b* della legge federale del 21 marzo 1997[^37g-2] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^37g-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37g-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^37g-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37g-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 4. Approvazione dei piani; durata di validità
 
@@ -1137,7 +1137,7 @@ La procedura di eliminazione delle divergenze nell’Amministrazione federale è
 
 <sup>3</sup> Per gravi motivi, l’autorità competente per l’approvazione dei piani può prorogare di tre anni al massimo la durata di validità dell’approvazione. La proroga è esclusa se la situazione determinante di fatto o di diritto si è sostanzialmente modificata dal passaggio in giudicato dell’approvazione.
 
-[^37h-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37h-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### 5. Procedura semplificata
 
@@ -1159,7 +1159,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>4</sup> Per il rimanente si applicano le disposizioni sulla procedura ordinaria. In caso di dubbio è eseguita la procedura ordinaria.
 
-[^37i-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37i-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### 6. . Procedura di conciliazione e di stima; immissione in possesso anticipata
 
@@ -1177,8 +1177,8 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>3</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva di approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
 
-[^37k-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37k-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37k-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37k-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^37k-3]: Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^37k-4]: Abrogato dall’all. n. 16 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1206,7 +1206,7 @@ Nella procedura di ricomposizione particellare:
 
 <sup>5</sup> Alla costruzione aeroportuale sono addebitati i costi supplementari che ha provocato. Se la ricomposizione particellare deve essere eseguita esclusivamente a causa della costruzione aeroportuale, l’impresa richiedente sopporta integralmente le spese.
 
-[^37l-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37l-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### 8. Impianti accessori
 
@@ -1222,7 +1222,7 @@ Nella procedura di ricomposizione particellare:
 
 <sup>4</sup> L’UFAC può impugnare le decisioni delle autorità cantonali in applicazione della presente legge e delle sue disposizioni d’esecuzione con i rimedi giuridici del diritto federale e del diritto cantonale.
 
-[^37m-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37m-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### 9. Assicurazione della disponibilità di terreni per costruzioni e impianti aeroportuali futuri
 
@@ -1238,7 +1238,7 @@ Nella procedura di ricomposizione particellare:
 
 <sup>2</sup> Le decisioni concernenti la costituzione delle zone riservate devono essere pubblicate nei Comuni interessati, con l’indicazione dei termini di ricorso. Il ricorso non ha effetto sospensivo.
 
-[^37n-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37n-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### b. Effetti
 
@@ -1248,7 +1248,7 @@ Nella procedura di ricomposizione particellare:
 
 Nelle zone riservate non possono essere eseguite trasformazioni edilizie contrarie al loro scopo. Sono eccettuati i provvedimenti di manutenzione o per l’eliminazione di pericoli e di immissioni nocive. In casi eccezionali, possono essere autorizzati ulteriori provvedimenti, se il proprietario rinuncia a qualsiasi successiva indennità per il plusvalore che ne risulta.
 
-[^37o-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37o-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### c. Soppressione
 
@@ -1262,7 +1262,7 @@ Nelle zone riservate non possono essere eseguite trasformazioni edilizie contrar
 
 <sup>3</sup> Le decisioni concernenti la soppressione delle zone riservate devono essere pubblicate nei Comuni interessati, con l’indicazione dei termini di ricorso.
 
-[^37p-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37p-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### B. Allineamenti.
 
@@ -1278,7 +1278,7 @@ Nelle zone riservate non possono essere eseguite trasformazioni edilizie contrar
 
 <sup>3</sup> Le decisioni sulla determinazione degli allineamenti devono essere pubblicate nei Comuni interessati, con l’indicazione dei termini di ricorso.
 
-[^37q-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37q-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### b. Effetti
 
@@ -1288,7 +1288,7 @@ Nelle zone riservate non possono essere eseguite trasformazioni edilizie contrar
 
 Entro gli allineamenti non può essere eseguita alcuna trasformazione edilizia o altro intervento contrari al loro scopo. Sono eccettuati i provvedimenti di manutenzione o per l’eliminazione di pericoli e di immissioni nocive. In casi eccezionali, possono essere autorizzati ulteriori provvedimenti, se il proprietario rinuncia a qualsiasi successiva indennità per il plusvalore che ne risulta.
 
-[^37r-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37r-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### c. Soppressione
 
@@ -1302,7 +1302,7 @@ Entro gli allineamenti non può essere eseguita alcuna trasformazione edilizia o
 
 <sup>3</sup> I principi dell’indebito arricchimento s’applicano per analogia ai casi in cui è stata versata un’indennità. In caso di cambiamento di proprietario, il nuovo proprietario è tenuto alla restituzione. In caso di lite, decide la Commissione di stima. …[^37s-2]
 
-[^37s-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37s-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^37s-2]: Per. abrogato dall’all. n. 82 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### C. Atti preparatori
@@ -1313,8 +1313,8 @@ Entro gli allineamenti non può essere eseguita alcuna trasformazione edilizia o
 
 All’interno degli allineamenti e delle zone riservate già stabiliti o previsti possono essere effettuati atti preparatori. L’articolo 15 LEspr[^37t-2] si applica per analogia.
 
-[^37t-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37t-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37t-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^37t-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 9*a.* Mantenimento degli aeroporti nazionali nel loro stato attuale
 
@@ -1330,7 +1330,7 @@ All’interno degli allineamenti e delle zone riservate già stabiliti o previst
 
 <sup>2</sup> È garantito il mantenimento degli aeroporti nazionali di Zurigo e Ginevra nel loro stato attuale, in considerazione della funzione loro attribuita nel quadro dei piani settoriali della Confederazione. Gli organi incaricati di emanare norme di diritto e quelli preposti alla loro applicazione tengono debitamente conto di tale garanzia, in particolare in relazione alle disposizioni riguardanti la protezione delle paludi e delle zone palustri e alla loro esecuzione.
 
-[^37u-1]: Originario art. 36*e*. Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^37u-1]: Originario art. 36*e*. Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### 10. Diritto d’uso
 
@@ -1352,8 +1352,8 @@ In quanto gli interessi militari lo consentano, gli aerodromi e gli idroscali ap
 
 <sup>3</sup> Rimangono riservati speciali accordi regolanti i diritti d’uso di cui ai capoversi 1 e 2.
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^38-2]: Nuovo testo giusta il n. I 29 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^38-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^38-2]: Nuovo testo giusta la cifra I n. 29 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### 11. Tasse aeroportuali
 
@@ -1398,7 +1398,7 @@ Per stabilire le tasse l’esercente dell’aeroporto tiene segnatamente conto d
 
 <sup>8</sup> L’UFAC esercita la sorveglianza sulle tasse aeroportuali. In caso di controversia tra esercente e utenti dell’aeroporto, l’UFAC approva le tasse, su richiesta. Il Consiglio federale disciplina la procedura.
 
-[^39-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° giu. 2012 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2012 2751](https://fedlex.data.admin.ch/eli/oc/2012/327); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^39-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)). Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° giu. 2012 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165), [2012 2751](https://fedlex.data.admin.ch/eli/oc/2012/327); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 12. Coordinamento delle bande orarie (slot)
 
@@ -1410,7 +1410,7 @@ Per stabilire le tasse l’esercente dell’aeroporto tiene segnatamente conto d
 
 <sup>2</sup> L’UFAC designa l’organo competente per il coordinamento delle bande orarie. Può delegare tale coordinamento a organi privati.
 
-[^39a-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^39a-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### II. Servizio della sicurezza aerea
 
@@ -1424,7 +1424,7 @@ Per stabilire le tasse l’esercente dell’aeroporto tiene segnatamente conto d
 
 <sup>2</sup> L’attività del servizio della sicurezza aerea non è limitata alle frontiere nazionali.
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^40-2]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 1*a*. Dati aeronautici
@@ -1437,9 +1437,9 @@ Per stabilire le tasse l’esercente dell’aeroporto tiene segnatamente conto d
 
 <sup>2</sup> Provvede all’istituzione e all’esercizio di un’interfaccia nazionale di registrazione dei dati contenente tutti i dati aeronautici secondo il capoverso 1. Può delegare questo compito a una persona giuridica di diritto privato. Quest’ultima sottostà alla vigilanza dell’UFAC.
 
-<sup>3</sup> e <sup>4</sup> …[^40a-2]
+<sup>3 e <sup>4</sup></sup> …[^40a-2]
 
-[^40a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^40a-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^40a-2]: Non ancora in vigore.
 
 ### 2. Delega di servizi della sicurezza aerea a una società
@@ -1463,7 +1463,7 @@ La società deve adempiere i seguenti requisiti:
 
 <sup>4</sup> Il servizio della sicurezza aerea civile sottostà alla vigilanza dell’UFAC. Il servizio della sicurezza aerea militare sottostà alla vigilanza della MAA.[^40abis-2]
 
-[^40abis-1]: Originario art. 40*a*. Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40abis-1]: Originario art. 40*a*. Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^40abis-2]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 3. Collaborazione con altre imprese
@@ -1488,7 +1488,7 @@ Previa autorizzazione dell’UFAC, la società può:
 
 <sup>5</sup> Il Consiglio federale stabilisce quali limitazioni sono considerate insostenibili secondo il capoverso 3 e quali servizi sottostanno al divieto di cui al capoverso 4.
 
-[^40b-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^40b-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 3*a*. Delega della fornitura di servizi della sicurezza aerea locali
 
@@ -1502,7 +1502,7 @@ Previa autorizzazione dell’UFAC, la società può:
 
 <sup>3</sup> L’UFAC rilascia l’autorizzazione se è garantita la sicurezza aerea.
 
-[^40bbis-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^40bbis-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 4. Obiettivi strategici e rapporto della società
 
@@ -1514,7 +1514,7 @@ Previa autorizzazione dell’UFAC, la società può:
 
 <sup>2</sup> Il consiglio di amministrazione provvede all’attuazione degli obiettivi strategici. Presenta ogni anno al Consiglio federale un rapporto sul conseguimento di tali obiettivi e mette a disposizione le informazioni necessarie per verificarne il raggiungimento.
 
-[^40c-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40c-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 5. Dotazione di capitale della società
 
@@ -1530,7 +1530,7 @@ Previa autorizzazione dell’UFAC, la società può:
 
 <sup>4</sup> Il Consiglio federale stabilisce le modalità d’attuazione, nonché il momento e l’entità del finanziamento della società e dei pagamenti ai suoi istituti di previdenza.
 
-[^40d-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40d-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 6. Esenzione fiscale della società
 
@@ -1543,7 +1543,7 @@ La società è esentata da qualsiasi imposta della Confederazione, dei Cantoni e
 - a. l’imposta sul valore aggiunto;
 - b. l’imposta preventiva.
 
-[^40e-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40e-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 7. Impianti
 
@@ -1557,7 +1557,7 @@ La società è esentata da qualsiasi imposta della Confederazione, dei Cantoni e
 
 <sup>3</sup> All’impresa che chiede l’approvazione dei piani per provvedimenti di sicurezza aerea spetta il diritto d’espropriazione.
 
-[^40f-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40f-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 8. Uso della proprietà di terzi
 
@@ -1567,7 +1567,7 @@ La società è esentata da qualsiasi imposta della Confederazione, dei Cantoni e
 
 La Confederazione e la società hanno il diritto di usare proprietà pubbliche o private per gli impianti di sicurezza aerea.
 
-[^40g-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^40g-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### III. Ostacoli alla navigazione aerea e attività pericolose per la sicurezza della navigazione aerea
 
@@ -1585,7 +1585,7 @@ La Confederazione e la società hanno il diritto di usare proprietà pubbliche o
 
 <sup>4</sup> Può emanare prescrizioni per impedire che siano creati ostacoli alla navigazione aerea, per eliminare quelli esistenti o per adeguarli alle esigenze della sicurezza della navigazione aerea.
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Misurazione
 
@@ -1595,7 +1595,7 @@ La Confederazione e la società hanno il diritto di usare proprietà pubbliche o
 
 Il proprietario di un ostacolo alla navigazione aerea è tenuto a provvedere alla sua misurazione e alla trasmissione dei relativi dati all’interfaccia nazionale di registrazione dei dati. Il Consiglio federale può prevedere deroghe nei casi in cui i requisiti di qualità dei dati possono essere soddisfatti anche senza misurazione.
 
-[^41a-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^41a-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 3. Espropriazione
 
@@ -1605,7 +1605,7 @@ Il proprietario di un ostacolo alla navigazione aerea è tenuto a provvedere all
 
 Per la soppressione totale o parziale di ostacoli alla navigazione aerea è applicabile la legislazione federale sull’espropriazione.
 
-[^41b-1]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^41b-1]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### IV. Restrizione della proprietà fondiaria
 
@@ -1630,8 +1630,8 @@ Nelle zone di sicurezza può:
 
 <sup>4</sup> Il capoverso 3 si applica per analogia agli aeroporti all’estero; l’UFAC agisce al posto dell’esercente dell’aeroporto.
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^42-2]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^42-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^42-2]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### b. Procedura
 
@@ -1647,10 +1647,10 @@ Nelle zone di sicurezza può:
 
 <sup>4</sup> Il piano delle zone di sicurezza approvato diviene vincolante con la pubblicazione nel Foglio ufficiale cantonale.[^43-4]
 
-[^43-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^43-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^43-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^43-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^43-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^43-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^43-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^43-4]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### c. Indennizzo
 
@@ -1671,11 +1671,11 @@ L’interessato deve far valere le proprie pretese entro cinque anni dalla pubbl
 
 <sup>4</sup> Se è contestata l’esistenza o l’entità della pretesa, la procedura è retta dalla LEspr[^44-5].[^44-6]
 
-[^44-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Vedi anche il n. III delle disp. fin. mod. del 17 dic. 1971, alla fine del presente testo.
-[^44-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^44-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^44-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^44-5]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^44-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Vedi anche la cifra III delle disp. fin. mod. del 17 dic. 1971, alla fine del presente testo.
+[^44-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^44-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^44-4]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^44-5]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^44-6]: Nuovo testo giusta l’all. n. 16 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### d. …
@@ -1699,7 +1699,7 @@ L’interessato deve far valere le proprie pretese entro cinque anni dalla pubbl
 <sup>3</sup> Se non è possibile garantire in questo modo l’osservanza delle prescrizioni pertinenti, l’autorizzazione di esercitare l’aerodromo è negata o revocata.
 
 [^44b-1]: Originario art. 44<sup>ter</sup>.
-[^44b-2]: Introdotto dal n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^44b-2]: Introdotto dalla cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
 ### V. Ripartizione delle spese
 
@@ -1720,9 +1720,9 @@ Sono inoltre a suo carico:
 
 <sup>3</sup> …[^45-3]
 
-[^45-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^45-2]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
-[^45-3]: Abrogato dal n. I 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, con effetto dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
+[^45-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^45-2]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
+[^45-3]: Abrogato dalla cifra I n. 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, con effetto dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
 
 ### 2. …
 
@@ -1730,7 +1730,7 @@ Sono inoltre a suo carico:
 
 [^46-1]
 
-[^46-1]: Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^46-1]: Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 3. Terzi
 
@@ -1742,7 +1742,7 @@ Sono inoltre a suo carico:
 
 <sup>2</sup> La Confederazione può versare un’indennità speciale, se l’adattamento di un nuovo impianto indispensabile provoca spese eccessivamente elevate.
 
-[^47-1]: Nuovo testo giusta il n. I 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, in vigore dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
+[^47-1]: Nuovo testo giusta la cifra I 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, in vigore dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
 
 ### 4. Confederazione
 
@@ -1759,7 +1759,7 @@ La Confederazione assume le spese:
 
 <sup>2</sup> Sono fatti salvi gli articoli 45 e 47.
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### VI. Costi del servizio della sicurezza aerea
 
@@ -1792,13 +1792,13 @@ Il Consiglio federale stabilisce:
 - b. quali sono i costi dei servizi della sicurezza aerea a carico della Confederazione;
 - c. a quali condizioni un esercente di aerodromo può essere autorizzato a stabilire e a riscuotere tasse per i servizi della sicurezza aerea senza fornire egli stesso tali servizi.
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)), i cpv. 3 - 5 entrano in vigore il 1° ago. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)n. V cpv. 2 [3467](https://fedlex.data.admin.ch/eli/oc/2011/469)).
+[^49-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)), i cpv. 3 – 5 entrano in vigore il 1° ago. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165)cifra V cpv. 2 [3467](https://fedlex.data.admin.ch/eli/oc/2011/469)).
 
 #### Art. 50
 
 [^50-1]
 
-[^50-1]: Abrogato dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^50-1]: Abrogato dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 ### Titolo secondo: Aeromobili e personale aeronautico
 
@@ -1821,7 +1821,7 @@ Esso definisce in particolare:
 
 <sup>3</sup> Esso può autorizzare i Cantoni a prendere provvedimenti per determinate categorie di aeromobili senza occupanti in vista della riduzione degli effetti nocivi sull’ambiente e dei pericoli ai quali sono esposti persone e beni al suolo.
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### II. Matricola degli aeromobili
 
@@ -1845,8 +1845,8 @@ Un aeromobile può essere iscritto nella matricola svizzera soltanto se:
 
 <sup>4</sup> Il Consiglio federale emana prescrizioni particolareggiate su le condizioni, il contenuto, la modificazione e la cancellazione delle immatricolazioni.
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^52-2]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1994 733](https://fedlex.data.admin.ch/eli/oc/1994/733_733_733); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^52-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^52-2]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1994 733](https://fedlex.data.admin.ch/eli/oc/1994/733_733_733); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### 2. e 3 …
 
@@ -1854,7 +1854,7 @@ Un aeromobile può essere iscritto nella matricola svizzera soltanto se:
 
 [^5354-1]
 
-[^5354-1]: Abrogati dal n. I della LF del 18 giu. 1993, con effetto dal 1° apr. 1994 ([RU 1994 733](https://fedlex.data.admin.ch/eli/oc/1994/733_733_733); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^5354-1]: Abrogati dalla cifra I della LF del 18 giu. 1993, con effetto dal 1° apr. 1994 ([RU 1994 733](https://fedlex.data.admin.ch/eli/oc/1994/733_733_733); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### 4. Effetti giuridici
 
@@ -1892,7 +1892,7 @@ L’UFAC certifica per gli aeromobili iscritti nella matricola svizzera:
 
 <sup>2</sup> Il Consiglio federale emana disposizioni sul rilascio, la durata di validità, il rinnovo e il ritiro dei certificati. A tal fine si attiene alle prescrizioni internazionali vincolanti per la Svizzera.
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^56-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### IV. Costruzione e esercizio di aeromobili
 
@@ -1906,9 +1906,9 @@ L’UFAC certifica per gli aeromobili iscritti nella matricola svizzera:
 
 <sup>3</sup> Le aziende di costruzione e di manutenzione necessitano di un’autorizzazione dell’UFAC.[^57-3]
 
-[^57-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^57-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^57-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^57-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^57-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^57-3]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### V. Esame degli aeromobili e degli apparecchi aeronautici
 
@@ -1924,9 +1924,9 @@ L’UFAC certifica per gli aeromobili iscritti nella matricola svizzera:
 
 <sup>4</sup> Il richiedente sopporta le spese di controllo.
 
-[^58-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^58-2]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^58-3]: Nuovo testo giusta l’all. n. II 8 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
+[^58-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^58-2]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^58-3]: Nuovo testo giusta l’all. cifra II n. 8 della LF del 22 mar. 2002 concernente l’adeguamento di disposizioni organizzative del diritto federale, in vigore dal 1° feb. 2003 ([RU 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3431](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 
 ### VI. Contrassegni
 
@@ -1958,8 +1958,8 @@ Le seguenti persone necessitano di una licenza dell’UFAC per esercitare la lor
 <sup>3</sup> Esso emana le prescrizioni sul rilascio, il rinnovo e il ritiro delle licenze.
 
 [^60-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^60-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^60-3]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^60-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^60-3]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### II. …
 
@@ -1967,7 +1967,7 @@ Le seguenti persone necessitano di una licenza dell’UFAC per esercitare la lor
 
 [^61-1]
 
-[^61-1]: Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^61-1]: Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### III. Certificati stranieri
 
@@ -2022,7 +2022,7 @@ In caso di danno cagionato a terra da due o più aeromobili entrati in collision
 
 [^67-1]
 
-[^67-1]: Abrogato dall’all. 1 n. II 25 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^67-1]: Abrogato dall’all. 1 cifra II n. 25 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### III. Prescrizione
 
@@ -2033,7 +2033,7 @@ In caso di danno cagionato a terra da due o più aeromobili entrati in collision
 Le pretese di risarcimento si prescrivono secondo le disposizioni del Codice delle obbligazioni[^68-2] sugli atti illeciti.
 
 [^68-1]: Nuovo testo giusta l’all. n. 16 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^68-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### IV. Riserva del diritto contrattuale
 
@@ -2051,7 +2051,7 @@ Le disposizioni del presente titolo non si applicano ai danni, cagionati a terra
 
 <sup>2</sup> L’assicurazione deve garantire anche la responsabilità civile delle persone che pilotano, per conto dell’esercente, un aeromobile, o che adempiono altri servizi a bordo, per i danni causati a terzi nell’esercizio della loro attività al servizio dell’esercente.
 
-[^70-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^70-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 2. Deposito e cauzione
 
@@ -2085,7 +2085,7 @@ L’obbligo di prestare garanzia per gli aeromobili stranieri è regolato dagli 
 
 <sup>3</sup> In modo analogo alla legislazione sulla circolazione stradale, il Consiglio federale può emanare prescrizioni relative ai danni causati da aeromobili sconosciuti o non assicurati.
 
-[^74-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^74-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### Titolo secondo: Diritto di trasporto aereo
 
@@ -2105,9 +2105,9 @@ L’obbligo di prestare garanzia per gli aeromobili stranieri è regolato dagli 
 
 <sup>5</sup> …[^75-3]
 
-[^75-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
-[^75-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^75-3]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
+[^75-2]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^75-3]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### II. Riserva della legislazione postale
 
@@ -2125,7 +2125,7 @@ Per il trasporto degli invii postali per via aerea sono riservate le disposizion
 
 <sup>2</sup> Fatti salvi gli accordi internazionali che vincolano la Svizzera, il Consiglio federale può far dipendere il rilascio delle concessioni e delle autorizzazioni a imprese straniere del traffico aereo commerciale dall’esistenza di una sufficiente assicurazione sulla responsabilità civile come trasportatori aerei.
 
-[^76a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^76a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### Titolo terzo: Disposizioni comuni sulla responsabilità civile
 
@@ -2137,8 +2137,8 @@ Per il trasporto degli invii postali per via aerea sono riservate le disposizion
 
 <sup>2</sup> Più ampi diritti, derivanti da infortunio causato da un aeromobile, sono acquisiti alla vittima o ai suoi superstiti.
 
-[^77-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^77-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^77-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^77-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^77-3]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766 **1994** V 897 **1999** 3896).
 
 ### II. Assicurazione militare
@@ -2153,7 +2153,7 @@ Se una persona, al beneficio dell’assicurazione militare, rimane vittima di in
 
 Sono applicabili le disposizioni del Codice delle obbligazioni[^79-1], in quanto gli articoli 64 a 78, come pure le prescrizioni emanate dal Consiglio federale per la loro esecuzione, non dispongono altrimenti.
 
-[^79-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^79-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Titolo quarto: Sequestro conservativo degli aeromobili
 
@@ -2183,7 +2183,7 @@ Sono esclusi dal sequestro conservativo:
 
 [^8284-1]
 
-[^8284-1]: Abrogati dall’all. 1 n. II 25 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^8284-1]: Abrogati dall’all. 1 cifra II n. 25 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### VI. Riserve
 
@@ -2223,8 +2223,8 @@ Restano riservate le convenzioni internazionali sulla protezione della propriet�
 
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
-[^88-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^88-2]: Nuova espr. giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^88-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^88-2]: Nuova espr. giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### 2. Pilotaggio di un aeromobile munito di contrassegni falsi
 
@@ -2238,8 +2238,8 @@ Restano riservate le convenzioni internazionali sulla protezione della propriet�
 
 <sup>3</sup> È parimenti punibile chiunque pilota o fa pilotare fuori della Svizzera un aeromobile indebitamente munito di contrassegni svizzeri. È applicabile l’articolo 4 capoverso 2 del Codice penale svizzero[^89-2].
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^89-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^89-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^89-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2*a*. Inosservanza delle istruzioni di un aeromobile intercettatore
 
@@ -2258,9 +2258,9 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 
 <sup>3</sup> È applicabile l’articolo 4 capoverso 2 del Codice penale svizzero[^89a-3].
 
-[^89a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^89a-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^89a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^89a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^89a-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^89a-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Pericoli cagionati in navigazione
 
@@ -2272,8 +2272,8 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
-[^90-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^90-2]: Nuovo testo giusta il n. I 25 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^90-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90-2]: Nuovo testo giusta la cifra I n. 25 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### 4. Facoltà menomate dei membri dell’equipaggio
 
@@ -2286,8 +2286,8 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 - a. svolge funzioni di membro dell’equipaggio in stato di ebrietà o sotto l’influsso di narcotici o sostante psicotrope;
 - b. si oppone o si sottrae intenzionalmente a un prelievo di sangue o a una visita medica completiva, ordinati dall’autorità, oppure fa in modo che questi provvedimenti non possano perseguire il loro scopo.
 
-[^90bis-1]: Introdotto dal n. I della LF del 17 dic. 1971 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^90bis-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^90bis-1]: Introdotto dalla cifra I della LF del 17 dic. 1971 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^90bis-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### II. Contravvenzioni
 
@@ -2328,10 +2328,10 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 
 <sup>4</sup> Il trasportatore aereo che viola ripetutamente e gravemente nei confronti dei suoi passeggeri obblighi sussistenti in virtù di accordi internazionali e per la cui violazione devono essere comminate sanzioni in virtù degli stessi accordi, è punito con la multa fino a 20 000 franchi.
 
-[^91-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^91-2]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^91-3]: Introdotta dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^91-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^91-1]: Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^91-2]: Introdotta dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^91-3]: Introdotta dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^91-4]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 ### II*a*. Altre disposizioni penali
 
@@ -2342,7 +2342,7 @@ L’atto è parimenti punibile se è stato commesso all’estero a bordo:
 Le disposizioni speciali della legge federale del 22 marzo 1974[^91bis-2] sul diritto penale amministrativo (art. 14 a 18) sono applicabili.
 
 [^91bis-1]: Introdotto dall’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^91bis-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^91bis-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. Provvedimenti amministrativi
 
@@ -2355,7 +2355,7 @@ Qualora siano state violate disposizioni della presente legge o di ordinanze e a
 - a. il ritiro definitivo o temporaneo, o la limitazione della validità di autorizzazioni, licenze e certificati rilasciati;
 - b. il sequestro di aeromobili che metterebbero in pericolo la sicurezza pubblica se usati ulteriormente, o di cui vi sia da temere l’uso abusivo.
 
-[^92-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^92-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Ritiro della concessione
 
@@ -2365,7 +2365,7 @@ Qualora siano state violate disposizioni della presente legge o di ordinanze e a
 
 Una concessione accordata conformemente agli articoli 28, 30 o 37 può essere ritirata, in qualsiasi tempo e senza indennità, in caso di contravvenzione grave o ripetuta agli obblighi del concessionario.
 
-[^93-1]: Nuovo testo giusta il n. I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
+[^93-1]: Nuovo testo giusta la cifra I della LF del 26 giu. 1998, in vigore dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 
 #### Art. 94
 
@@ -2377,7 +2377,7 @@ Una concessione accordata conformemente agli articoli 28, 30 o 37 può essere ri
 
 [^95-1]
 
-[^95-1]: Abrogato dal n. I della LF del 16 giu. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^95-1]: Abrogato dalla cifra I della LF del 16 giu. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### Capo secondo: Campo d’applicazione e perseguimento penale
 
@@ -2391,8 +2391,8 @@ Una concessione accordata conformemente agli articoli 28, 30 o 37 può essere ri
 
 Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente legge o degli articoli 4–7 del Codice penale svizzero[^96-2], le disposizioni penali sono applicabili soltanto a chi ha commesso un reato in Svizzera.
 
-[^96-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^96-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^96-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^96-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Reati a bordo di aeromobili svizzeri o di aeromobili stranieri che atterrano in Svizzera
 
@@ -2414,10 +2414,10 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 
 <sup>4</sup> L’articolo 6 capoversi 3 e 4 del Codice penale svizzero[^97-3] è applicabile.[^97-4]
 
-[^97-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
+[^97-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^97-2]: Introdotto dall’all. del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero il Prot. emendativo della Conv. di Tokyo, in vigore dal 1° ago 2021 ([RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
-[^97-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^97-4]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^97-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^97-4]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Giurisdizione
 
@@ -2429,8 +2429,8 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 
 <sup>3</sup> Se i reati sono stati commessi a bordo di un aeromobile straniero sopra il territorio svizzero o a bordo di un aeromobile svizzero fuori della Svizzera, l’autorità svizzera competente a procedere penalmente può rinunciare al procedimento penale.[^98-4]
 
-[^98-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^98-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^98-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^98-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^98-3]: Nuovo testo giusta l’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^98-4]: Nuovo testo giusta l’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -2448,18 +2448,18 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 
 <sup>5</sup> Sono applicabili per analogia gli articoli 39, 40 e 45 a 52 della legge federale del 22 marzo 1974[^99-5] sul diritto penale amministrativo circa l’interrogatorio dell’imputato, la raccolta di informazioni orali, l’attuazione di provvedimenti coattivi, il sequestro, la perquisizione e il fermo.[^99-6]
 
-[^99-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^99-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^99-2]: Nuovo testo giusta l’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^99-3]: Nuovo testo giusta l’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^99-4]: Nuovo testo giusta l’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^99-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^99-5]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^99-6]: Introdotto dall’all. n. 15 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ### IV. Obbligo di informazione, consultazione e diritto di informazione
 
 [^part2-tit5-chap2-lvlIV-1]
 
-[^part2-tit5-chap2-lvlIV-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^part2-tit5-chap2-lvlIV-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 #### Art. 100
 
@@ -2481,14 +2481,14 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 <sup>4</sup> I medici e psicologi che nutrono dubbi circa l’idoneità di un membro dell’equipaggio o di un controllore del traffico aereo a svolgere la propria attività a causa di una malattia fisica o psichica, un’infermità o una dipendenza da essi accertate possono informarne l’UFAC.[^100-8]
 
-[^100-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^100-2]: Attualmente: l’art. 19 cpv. 2 lett. a della LF sulle attività informative ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
-[^100-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^100-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^100-5]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^100-6]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^100-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^100-8]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^100-2]: Attualmente: l’art. 19 cpv. 2 lett. a della LF sulle attività informative ([RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)).
+[^100-3]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^100-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^100-5]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^100-6]: [RS 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^100-7]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^100-8]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### V. Provve dimenti per prevenire attentati
 
@@ -2506,10 +2506,10 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 <sup>5</sup> La responsabilità per i danni inerenti alle operazioni di controllo è disciplinata secondo le disposizioni della legge federale del 14 marzo 1958[^100bis-4] sulla responsabilità della Confederazione, dei membri delle autorità federali e dei funzionari federali.
 
-[^100bis-1]: Introdotto dal n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Originario art. 44<sup>ter</sup>.
-[^100bis-2]: Nuovo testo del secondo per. giusta l’all. n. II 4 della LF del 17 dic. 2010 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4493](https://fedlex.data.admin.ch/eli/fga/2009/917)).
+[^100bis-1]: Introdotto dalla cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Originario art. 44<sup>ter</sup>.
+[^100bis-2]: Nuovo testo del secondo per. giusta l’all. cifra II n. 4 della LF del 17 dic. 2010 sulle poste, in vigore dal 1° ott. 2012 ([RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4493](https://fedlex.data.admin.ch/eli/fga/2009/917)).
 [^100bis-3]: Nuovo testo giusta l’all. n. 18 della LF del 30 apr. 1997 sull’organizzazione delle poste, in vigore dal 1° gen. 1998 ([RU 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [FF 1996 III 1201](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^100bis-4]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^100bis-4]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### VI. Accertamento dell’ebrietà e di altri stati analoghi
 
@@ -2527,12 +2527,12 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 <sup>5</sup> Il Consiglio federale disciplina l’esecuzione degli esami e provvedimenti di cui ai capoversi 1, 3 e 4. Tiene conto delle disposizioni dell’Unione europea sull’ebrietà applicabili in virtù dell’Accordo del 21 giugno 1999[^100ter-5] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo. Si ispira a titolo completivo alle prescrizioni concernenti i controlli alcolemici e gli altri provvedimenti nei confronti degli utenti della strada.[^100ter-6]
 
-[^100ter-1]: Introdotto dal n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Originario art. 44<sup>ter</sup>.
-[^100ter-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
-[^100ter-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
-[^100ter-4]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
-[^100ter-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^100ter-6]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-1]: Introdotto dalla cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)). Originario art. 44<sup>ter</sup>.
+[^100ter-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-4]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
+[^100ter-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^100ter-6]: Introdotto dalla cifra I della LF del 17 dic. 2021, in vigore dal 1° mag. 2022 ([RU 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ## Parte terza: Promovimento della navigazione aerea
 
@@ -2542,7 +2542,7 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 [^part3-lvlI-lvl1-1]
 
-[^part3-lvlI-lvl1-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^part3-lvlI-lvl1-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 #### Art. 101
 
@@ -2552,8 +2552,8 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 <sup>2</sup> In ogni singolo caso è tenuto conto della situazione finanziaria del beneficiario.
 
-[^101-1]: Nuovo testo giusta il n. I 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, in vigore dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
-[^101-2]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^101-1]: Nuovo testo giusta la cifra I n. 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, in vigore dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
+[^101-2]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### 2. …
 
@@ -2561,7 +2561,7 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 [^101a-1]
 
-[^101a-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dal n. II 21 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^101a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogato dalla cifra II n. 21 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### 3. Ai fornitori di servizi della sicurezza aerea
 
@@ -2573,8 +2573,8 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 <sup>2</sup> Il Consiglio federale verifica ogni tre anni se e in quale misura la Confederazione deve continuare ad assumere queste perdite di proventi.[^101b-2]
 
-[^101b-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^101b-2]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^101b-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^101b-2]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Partecipazioni
 
@@ -2584,27 +2584,15 @@ Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC
 
 La Confederazione può partecipare a imprese esercitanti aerodromi e a imprese di trasporto aereo se siffatta partecipazione è giustificata dall’interesse generale.
 
-[^102-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
+[^102-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
-### II*a.* Aiuti finanziari della Confederazione a seguito della pandemia di COVID-19
+### II*a*. ...
 
 #### Art. 102a
 
 [^102a-1]
 
-<sup>1</sup>
-
-Se, a seguito della pandemia di COVID-19, l’esercizio continuo e ordinato degli aeroporti nazionali non può essere garantito altrimenti, la Confederazione può:
-
-- a. partecipare temporaneamente, insieme a imprese esercitanti aerodromi, a società per garantire la fornitura di prestazioni nei settori delle operazioni di assistenza a terra e della manutenzione di aeromobili, oppure concedere mutui, fideiussioni o garanzie a tali società;
-- b. concedere mutui, fideiussioni o garanzie alle imprese che forniscono prestazioni nei settori delle operazioni di assistenza a terra e della manutenzione di aeromobili;
-- c. concedere mutui, fideiussioni o garanzie agli aeroporti nazionali.
-
-<sup>2</sup> Il Consiglio federale, assicurandosi che siano fornite garanzie adeguate, disciplina le condizioni per la partecipazione della Confederazione e per l’erogazione di ulteriori aiuti finanziari, nonché le condizioni e gli oneri relativi ai mutui, alle fideiussioni e alle garanzie. Provvede affinché gli aiuti finanziari siano impiegati esclusivamente per garantire le prestazioni in Svizzera.
-
-<sup>3</sup> La concessione di aiuti finanziari a imprese estere o sotto controllo estero è subordinata alla condizione che siano garantiti pari diritti di partecipazione o misure di protezione equivalenti. Il Consiglio federale disciplina i dettagli.
-
-[^102a-1]: Introdotto dal n. I della LF del 6 mag. 2020, in vigore dal 7 mag. 2020 al 31 dic. 2025 ([RU 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [FF 2020 3281](https://fedlex.data.admin.ch/eli/fga/2020/864)).
+[^102a-1]: Introdotto dalla cifra I della LF del 6 mag. 2020, in vigore dal 7 mag. 2020 al 31 dic. 2025 ([RU 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [FF 2020 3281](https://fedlex.data.admin.ch/eli/fga/2020/864)).
 
 ### III. Esame degli aiuti pubblici
 
@@ -2624,9 +2612,9 @@ La Commissione della concorrenza esamina la compatibilità con l’articolo 13 d
 
 <sup>3</sup> Le autorità competenti per la decisione tengono conto del risultato di tale esame.
 
-[^103-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2004, in vigore dal 1° set. 2004 ([RU 2004 3867](https://fedlex.data.admin.ch/eli/oc/2004/534); [FF 2003 5424](https://fedlex.data.admin.ch/eli/fga/2003/998)).
-[^103-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^103-3]: Nuovo testo giusta il n. I della LF del 6 mag. 2020, in vigore dal 7 mag. 2020 al 31 dic. 2025 ([RU 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [FF 2020 3281](https://fedlex.data.admin.ch/eli/fga/2020/864)).
+[^103-1]: Nuovo testo giusta la cifra I della LF del 19 mar. 2004, in vigore dal 1° set. 2004 ([RU 2004 3867](https://fedlex.data.admin.ch/eli/oc/2004/534); [FF 2003 5424](https://fedlex.data.admin.ch/eli/fga/2003/998)).
+[^103-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^103-3]: Nuovo testo giusta la cifra II n. 21 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2028 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### IV. Istruzione e formazione continua in aeronautica
 
@@ -2646,7 +2634,7 @@ La Commissione della concorrenza esamina la compatibilità con l’articolo 13 d
 
 <sup>4</sup> Il Consiglio federale disciplina la sorveglianza e istituisce un organo incaricato di conciliare gli interessi dei servizi interessati.
 
-[^103a-1]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^103a-1]: Introdotto dalla cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 [^103a-2]: Correzione del 24 set. 2013 ([RU 2013 3323](https://fedlex.data.admin.ch/eli/oc/2013/636)).
 [^103a-3]: Nuovo testo giusta l’all. n. 27 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
@@ -2673,13 +2661,13 @@ Possono essere promossi in particolare provvedimenti e progetti in Svizzera e al
 
 <sup>4</sup> Il Consiglio federale stabilisce le condizioni di concessione e il calcolo degli aiuti finanziari.
 
-[^103b-1]: Introdotto dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^103b-1]: Introdotto dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nuovo testo giusta l’all. n. 3 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 103c e 103d
 
 [^103c103d-1]
 
-[^103c103d-1]: Introdotti dal n. I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogati dal n. I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^103c103d-1]: Introdotti dalla cifra I della LF del 18 giu. 1993 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Abrogati dalla cifra I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ## Parte quarta: Applicazione e disposizioni finali
 
@@ -2717,7 +2705,7 @@ Sono fatte salve le disposizioni della legislazione sulle telecomunicazioni.
 
 <sup>3</sup> D’intesa con l’UFAC, la MAA prende i provvedimenti necessari affinché gli aeromobili militari osservino le norme emanate per la sicurezza della circolazione, nonché l’ordinanza sui segnali. Se queste norme sono fissate da accordi internazionali conclusi dalla Svizzera, esse si applicano senz’altro agli aeromobili militari svizzeri.[^106-2]
 
-[^106-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^106-1]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^106-2]: Introdotto dall’all. n. 5 della LF del 18 mar. 2022, in vigore dal 1° ago. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### 2. Norme particolari per l’aviazione militare
@@ -2775,12 +2763,12 @@ Sono inoltre trattati dati personali concernenti:
 
 <sup>6</sup> L’UFAC informa gli esercenti degli aeroporti interessati in merito alle denunce e alle prese di posizione che gli sono pervenute in base all’articolo 100 capoversi 2 e 3, nella misura in cui il loro contenuto possa dare adito al ritiro delle autorizzazioni, delle licenze e dei certificati delle persone impiegate nell’area di sicurezza dell’aeroporto.[^107a-6]
 
-[^107a-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^107a-2]: Nuovo testo giusta l’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^107a-3]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^107a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^107a-5]: Nuovo testo giusta l’all. 1 n. II 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^107a-6]: Introdotto dal n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-1]: Introdotto dalla cifra I n. 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Nuovo testo giusta la cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^107a-2]: Nuovo testo giusta l’all. 1 cifra II n. 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-3]: Nuovo testo giusta la cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^107a-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^107a-5]: Nuovo testo giusta l’all. 1 cifra II n. 65 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^107a-6]: Introdotto dalla cifra I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Diritti di accesso
 
@@ -2792,7 +2780,7 @@ Sono inoltre trattati dati personali concernenti:
 
 <sup>2</sup> Il servizio d’inchiesta ha accesso ai dati personali delle persone attive nell’aviazione civile trattati dall’UFAC.
 
-[^107b-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^107b-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### IV. Norme speciali
 
@@ -2809,7 +2797,7 @@ Il Consiglio federale può prevedere che talune disposizioni della presente legg
 
 <sup>2</sup> Se è il caso esso può fissare norme speciali per queste categorie di aeromobili. I provvedimenti del Consiglio federale non possono tuttavia derogare alle disposizioni sulla responsabilità civile e alle disposizioni penali della presente legge.
 
-[^108-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^108-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ### IV*a*. Requisiti fondamentali relativi alla sicurezza del traffico aereo
 
@@ -2823,7 +2811,7 @@ Il Consiglio federale può prevedere che talune disposizioni della presente legg
 
 <sup>3</sup> Può delegare all’UFAC l’emanazione di prescrizioni amministrative e tecniche, in particolare la designazione delle norme tecniche di cui al capoverso 2.
 
-[^108a-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+[^108a-1]: Introdotto dalla cifra I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### IV*b.* Controllo dei precedenti personali
 
@@ -2850,7 +2838,7 @@ Il controllo dei precedenti personali comprende almeno:
 
 <sup>3</sup> Il controllo dei precedenti personali è eseguito soltanto con il consenso della persona oggetto del controllo. Se l’accesso all’area di sicurezza dell’aeroporto non viene autorizzato, la persona in questione può chiedere all’esercente dell’aeroporto di emanare una decisione.
 
-[^108b-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108b-1]: Introdotto dalla cifra I n. 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### 2. Trattamento dei dati
 
@@ -2871,7 +2859,7 @@ Al fine di accertare un eventuale rischio per la sicurezza, il servizio di poliz
 
 <sup>4</sup> Esso trasmette all’esercente dell’aeroporto e all’impresa di trasporto aereo i dati necessari all’emanazione della decisione di cui all’articolo 108b capoverso 3, inclusi i dati personali degni di particolare protezione.[^108c-3]
 
-[^108c-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108c-1]: Introdotto dalla cifra I n. 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^108c-2]: Nuovo testo giusta l’all. n. 2.2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^108c-3]: Nuovo testo giusta l’all. n. 2.2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
@@ -2883,7 +2871,7 @@ Al fine di accertare un eventuale rischio per la sicurezza, il servizio di poliz
 
 Su domanda dell’impresa di trasporto aereo o dell’esercente dell’aeroporto, il servizio di polizia cantonale competente raccomanda se autorizzare o no la persona in questione ad accedere all’area di sicurezza dell’aeroporto.
 
-[^108d-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108d-1]: Introdotto dalla cifra I n. 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### 4. Ripetizione
 
@@ -2893,7 +2881,7 @@ Su domanda dell’impresa di trasporto aereo o dell’esercente dell’aeroporto
 
 Il controllo dei precedenti personali è ripetuto a intervalli regolari. È eseguito anzitempo se vi è motivo di ritenere che siano emersi nuovi rischi.
 
-[^108e-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^108e-1]: Introdotto dalla cifra I n. 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### V. Esecuzione di accordi internazionali e adattamento allo sviluppo tecnico
 
@@ -2942,7 +2930,7 @@ III
 IV–V[^u1-3]
 
 [^u1-2]: Questa L è entrata in vigore il 1° gen. 1974, salvo l’art. 34 che è entrato in vigore il 23 nov. 1973 (RU **1973** 1750).
-[^u1-3]: Abrogati dal n. II della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^u1-3]: Abrogati dalla cifra II della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
 ## Disposizioni finali della modifica del 26 giugno 1998
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20250101/fr"
 
 (LA)[^t-1] [^t-2]
 
-du 21 décembre 1948 (État le 1<sup>er</sup> janvier 2025)
+du 21 décembre 1948 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -28,7 +28,7 @@ vu les art. 87 et 92 de la Constitution[^ingress-1],[^ingress-2] vu le message d
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^ingress-3]: [FF 1945 I 325](https://fedlex.data.admin.ch/eli/fga/1945/1_341_325_481)
 
@@ -149,7 +149,7 @@ Les accords sur le service de la navigation aérienne peuvent:
 [^3a-3]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^3a-4]: Introduite par l’annexe ch. 3 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 [^3a-5]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^3a-6]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^3a-6]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^3a-7]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 1*b*. Collaboration avec des autorités étrangères
@@ -230,7 +230,7 @@ L’OFAC peut conclure des accords de collaboration administrative et technique 
 <sup>2</sup> Le Conseil fédéral peut également appliquer cette réglementation aux prescriptions techniques qui sont arrêtées dans le cadre de la coopération entre autorités aéronautiques européennes.
 
 [^6a-1]: Introduit par le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^6a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^6a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### 6. émoluments
 
@@ -368,7 +368,7 @@ Cette disposition s’applique aussi par analogie à l’utilisation à l’étr
 - b. d’aéronefs étrangers par un exploitant dont le siège principal ou la résidence permanente se trouve en Suisse.
 
 [^11a-1]: Introduit par le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^11a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^11a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### II. Prescriptions complémentaires
 
@@ -526,7 +526,7 @@ Peuvent être employées les personnes suivantes formées à cet effet par l’O
 <sup>4</sup> En cas de recours à du personnel cantonal ou communal, la Confédération acquitte les frais correspondants.
 
 [^21a-1]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^21a-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^21a-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 ### 3. Système d’information pour l’affectation des gardes de sûreté dans l’aviation
 
@@ -560,7 +560,7 @@ Les données suivantes relatives à des événements liés à la sûreté et aux
 
 [^21c-1]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^21c-2]: Nouvelle teneur selon l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^21c-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^21c-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^21c-4]: Introduit par l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### c. Droits d’accès et communication de données
@@ -600,7 +600,7 @@ Les données contenues dans le système d’information peuvent être communiqu�
 <sup>3</sup> Avant leur destruction, les données sont proposées aux Archives fédérales conformément à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^21e-2].
 
 [^21e-1]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^21e-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^21e-2]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ### 4. Listes de passagers
 
@@ -683,9 +683,9 @@ L’OFAC peut arrêter des prescriptions sur l’organisation du service de sauv
 <sup>4</sup> Le Conseil fédéral règle l’organisation de la commission. Il peut regrouper cet organe avec la commission visée à l’art. 15*a* de la loi fédérale du 20 décembre 1957 sur les chemins de fer[^25-4].
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^25-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^25-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^25-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^25-4]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^25-4]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 ### c. Procédure
 
@@ -716,7 +716,7 @@ Afin d’élucider les faits, le secrétariat peut ordonner les mesures suivante
 <sup>6</sup> Le Conseil fédéral règle la procédure, en particulier en ce qui concerne les mesures de coercition et la publication des rapports.
 
 [^26-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^26-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^26-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### d. Frais
 
@@ -982,8 +982,8 @@ Le règlement d’exploitation fixe les modalités concrètes de l’exploitatio
 
 [^36d-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^36d-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^36d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^36d-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^36d-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^36d-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 2*a*. Indemnité en raison de nuisances sonores excessives dues à l’exploitation des aéroports
 
@@ -998,7 +998,7 @@ Le règlement d’exploitation fixe les modalités concrètes de l’exploitatio
 <sup>3</sup> Le délai de prescription pour les demandes d’indemnisation est de cinq ans et commence à courir dès la naissance du droit à l’indemnisation.
 
 [^36e-1]: Introduit par le ch. I de la LF du 16 juin 2017 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Nouvelle teneur selon l’annexe ch. 16 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^36e-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^36e-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 3. Procédure d’approbation des plans
 
@@ -1027,7 +1027,7 @@ L’autorité chargée de l’approbation des plans est:
 
 [^37-1]: Nouvelle teneur selon le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^37-2]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^37-3]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^37-3]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### b. Droit applicable
 
@@ -1040,8 +1040,8 @@ L’autorité chargée de l’approbation des plans est:
 <sup>2</sup> Si une expropriation en faveur d’un aéroport est nécessaire, la LEx[^37a-3] s’applique au surplus.
 
 [^37a-1]: Introduit par le ch. I de la LF du 18 juin 1993 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)). Nouvelle teneur selon l’annexe ch. 16 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^37a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^37a-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^37a-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### c. Procédure ordinaire; ouverture
 
@@ -1108,9 +1108,9 @@ La demande d’approbation des plans doit être adressée avec les documents req
 <sup>3</sup> Les communes font valoir leurs droits par voie d’opposition.
 
 [^37f-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^37f-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37f-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^37f-3]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^37f-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37f-4]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^37f-5]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### h. Élimination des divergences au sein de l’administration fédérale
@@ -1122,7 +1122,7 @@ La demande d’approbation des plans doit être adressée avec les documents req
 La procédure d’élimination des divergences au sein de l’administration fédérale est régie par l’art. 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^37g-2].
 
 [^37g-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^37g-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^37g-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 4. Décision d’approbation des plans; durée de validité
 
@@ -1177,7 +1177,7 @@ La procédure simplifiée d’approbation des plans d’installations d’aérod
 <sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque l’approbation des plans est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
 [^37k-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^37k-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37k-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^37k-3]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^37k-4]: Abrogé par l’annexe ch. 16 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1313,7 +1313,7 @@ Dans les zones réservées, les constructions ne peuvent être transformées d�
 À l’intérieur des alignements et des zones réservées dont l’emplacement a déjà été défini ou est en cours de définition, des actes préparatoires peuvent être entrepris. L’art. 15 LEx[^37t-2] s’applique par analogie.
 
 [^37t-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^37t-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^37t-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 9*a.* Maintien des aéroports nationaux dans leur état
 
@@ -1437,7 +1437,7 @@ L’exploitant de l’aéroport fixe le montant des redevances en sefondant nota
 
 <sup>2</sup> Il veille à la mise en place et à l’exploitation d’une interface nationale d’enregistrement de toutes les données aéronautiques visées à l’al. 1. Il peut déléguer cette tâche à une personne morale de droit privé. Celle-ci est soumise à la surveillance de l’OFAC.
 
-<sup>3</sup> et <sup>4</sup> …[^40a-2]
+<sup>3 et <sup>4</sup></sup> …[^40a-2]
 
 [^40a-1]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^40a-2]: Pas encore en vigueur.
@@ -1676,7 +1676,7 @@ L’intéressé doit faire valoir ses prétentions dans les cinq ans qui suivent
 [^44-3]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^44-4]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^44-5]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^44-6]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^44-6]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^44-7]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### d. …
@@ -2032,7 +2032,7 @@ En cas de dommage causé à la surface par deux ou plusieurs aéronefs entrés e
 Le droit à la réparation des dommages se prescrit conformément aux dispositions du code des obligations[^68-2] sur les actes illicites.
 
 [^68-1]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^68-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### IV. Réserve du droit contractuel
 
@@ -2136,8 +2136,8 @@ Les dispositions spéciales de la législation postale sont réservées pour le 
 
 <sup>2</sup> Tous droits plus étendus de la victime ou de ses survivants provenant d’un accident causé par un aéronef restent acquis.
 
-[^77-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^77-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^77-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^77-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^77-3]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 ### II. Assurance militaire
@@ -2152,7 +2152,7 @@ Si une personne couverte par l’assurance militaire est victime d’un accident
 
 En tant que les art. 64 à 78 de même que les prescriptions édictées par le Conseil fédéral pour leur exécution n’en disposent pas autrement, les dispositions du code des obligations[^79-1] sont applicables.
 
-[^79-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^79-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Titre quatrième: La saisie conservatoire des aéronefs
 
@@ -2235,7 +2235,7 @@ Les accords internationaux sur la protection de la propriété industrielle sont
 <sup>3</sup> Est aussi punissable quiconque pilote ou fait piloter en dehors de la Suisse un aéronef portant sans droit des marques suisses. L’art. 4, al. 2, du code pénal[^89-2] est applicable.
 
 [^89-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^89-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^89-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2*a*. Inobservation des instructions d’un aéronef intercepteur
 
@@ -2256,7 +2256,7 @@ L’acte est également punissable s’il a été commis à l’étranger à bor
 
 [^89a-1]: Introduit par le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 [^89a-2]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^89a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^89a-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 3. Mise en danger par l’aviation
 
@@ -2331,7 +2331,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 [^91-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^91-2]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^91-3]: Introduite par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^91-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^91-4]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 ### II*a*. Autres dispositions pénales
 
@@ -2342,7 +2342,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 Les dispositions spéciales de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^91bis-2] (art. 14 à 18) sont applicables.
 
 [^91bis-1]: Introduit par l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
-[^91bis-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^91bis-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### III. Mesures administratives
 
@@ -2388,7 +2388,7 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 À moins que les art. 89, al. 3, 89*a*, al. 3, et 97 de la présente loi ou les art. 4 à 7 du code pénal[^96-2] n’en disposent autrement, les dispositions pénales ne s’appliquent qu’à celui qui a commis une infraction en Suisse.
 
 [^96-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^96-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^96-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Actes punissables commis à bord d’aéronefs suisses ou à bord d’aéronefs étrangers atterrissant en Suisse
 
@@ -2412,7 +2412,7 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 
 [^97-1]: Nouvelle teneur selon le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^97-2]: Introduit par l’annexe de l’AF du 18 déc. 2020 portant approbation et mise en œuvre du protocole portant amendement de la convention de Tokyo, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
-[^97-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^97-4]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Juridiction
@@ -2426,7 +2426,7 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 <sup>3</sup> L’autorité suisse compétente pourra s’abstenir de poursuivre lorsqu’une infraction aura été commise à bord d’un aéronef étranger dans l’espace aérien suisse ou à bord d’un aéronef suisse hors de ce même espace aérien.[^98-4]
 
 [^98-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 287](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
-[^98-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^98-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^98-3]: Nouvelle teneur selon l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
 [^98-4]: Nouvelle teneur selon l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
 
@@ -2448,7 +2448,7 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 [^99-2]: Nouvelle teneur selon l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
 [^99-3]: Nouvelle teneur selon l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
 [^99-4]: Nouvelle teneur selon l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
-[^99-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^99-5]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^99-6]: Introduit par l’annexe ch. 15 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); FF **1971** 1017).
 
 ### IV. Devoir d’information, consultation et droit d’annoncer
@@ -2478,12 +2478,12 @@ Pour autant que la procédure pénale n’en soit pas entravée, ils communiquen
 <sup>4</sup> Les médecins et psychologues peuvent annoncer à l’OFAC les cas de membres d’équipage ou de contrôleurs de la circulation aérienne dont ils doutent de l’aptitude à exercer leurs activités en raison d’une maladie physique ou mentale, d’une infirmité ou d’une situation de dépendance qu’ils ont constatée.[^100-8]
 
 [^100-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^100-2]: V. actuellement l’art. 19, al. 2, let. a, de la LF sur le renseignement ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
-[^100-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^100-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^100-5]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^100-6]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^100-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^100-2]: V. actuellement l’art. 19, al. 2, let. a, de la LF sur le renseignement ([RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)).
+[^100-3]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^100-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^100-5]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^100-6]: [RS 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^100-7]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^100-8]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ### V. Mesures de prévention des attentats
@@ -2505,7 +2505,7 @@ Pour autant que la procédure pénale n’en soit pas entravée, ils communiquen
 [^100bis-1]: Introduit par le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 287](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^100bis-2]: Nouvelle teneur de la 2<sup>e</sup> phrase selon l’annexe ch. II 4 de la LF du 17 déc. 2010 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [FF 2009 4649](https://fedlex.data.admin.ch/eli/fga/2009/917)).
 [^100bis-3]: Nouvelle teneur selon l’appendice ch. 18 de la L du 30 avr. 1997 sur l’organisation de la poste, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465); [FF 1996 III 1260](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
-[^100bis-4]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^100bis-4]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 ### VI. Constatation de l’ébriété et d’états analogues
 
@@ -2527,7 +2527,7 @@ Pour autant que la procédure pénale n’en soit pas entravée, ils communiquen
 [^100ter-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 [^100ter-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 [^100ter-4]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
-[^100ter-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
+[^100ter-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
 [^100ter-6]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 229](https://fedlex.data.admin.ch/eli/oc/2022/229); [FF 2021 626](https://fedlex.data.admin.ch/eli/fga/2021/626)).
 
 ## Troisième partie: Développement de l’aviation
@@ -2582,23 +2582,11 @@ La Confédération peut participer à des entreprises exploitant des aérodromes
 
 [^102-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 1971, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 287](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 
-### II*a.* Aides financières de la Confédération pour cause de pandémie de COVID-19
+### II*a.* …
 
 #### Art. 102a
 
 [^102a-1]
-
-<sup>1</sup>
-
-Si, pour cause de pandémie de COVID-19, l’exploitation continue et ordonnée des aéroports nationaux ne peut pas être assurée d’une autre manière, la Confédération peut:
-
-- a. participer, conjointement aux entreprises exploitant des aérodromes, temporairement à des sociétés pour assurer la fourniture de prestations dans le domaine des services d’assistance en escale et de l’entretien des aéronefs ou accorder des prêts, des cautionnements ou des garanties à ces sociétés;
-- b. accorder des prêts, des cautionnements ou des garanties aux entreprises qui fournissent des services dans les domaines de l’assistance en escale et de l’entretien des aéronefs;
-- c. accorder des prêts, des cautionnements ou des garanties aux aéroports nationaux.
-
-<sup>2</sup> Le Conseil fédéral règle, tout en s’assurant que des sûretés suffisantes sont fournies, les conditions de la participation de la Confédération et de l’allocation d’autres aides financières ainsi que les conditions et charges dont les prêts, cautionnements et garanties sont assortis. Il veille à cet effet à ce que les aides financières soient exclusivement utilisées pour assurer les prestations en Suisse.
-
-<sup>3</sup> Des aides financières sont octroyées à des entreprises étrangères ou dominées par des groupes étrangers à la condition que soient garantis des droits de participation identiques ou des mesures de protection équivalentes. Le Conseil fédéral règle les modalités.
 
 [^102a-1]: Introduit par le ch. I de la LF du 6 mai 2020, en vigueur du 7 mai 2020 au 31 déc. 2025 ([RO 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [FF 2020 3563](https://fedlex.data.admin.ch/eli/fga/2020/864)).
 
@@ -2612,7 +2600,7 @@ Si, pour cause de pandémie de COVID-19, l’exploitation continue et ordonnée 
 
 La Commission de la concurrence examine la compatibilité avec l’art. 13 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^103-2]:
 
-- a.[^103-3] des projets de décisions du Conseil fédéral favorisant certaines entreprises ou la production de certains produits entrant dans le champ d’application de l’accord, notamment des prestations, des participations et des aides financières prévues aux art. 101, 102 et 102*a* de la présente loi;
+- a.[^103-3] des projets de décisions du Conseil fédéral favorisant certaines entreprises ou la production de certains produits entrant dans le champ d’application de l’accord, notamment des prestations et des participations prévues aux art. 101 et 102 de la présente loi;
 - b. des mesures similaires de soutien des cantons et des communes, ainsi que d’autres corporations ou établissements suisses d’économie mixte ou de droit public;
 - c. des mesures similaires de soutien de la Communauté européenne ou de ses États membres.
 
@@ -2621,8 +2609,8 @@ La Commission de la concurrence examine la compatibilité avec l’art. 13 de l�
 <sup>3</sup> Les autorités chargées de prendre une décision tiennent compte du résultat de l’examen.
 
 [^103-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2004, en vigueur depuis le 1<sup>er</sup> sept. 2004 ([RO 2004 3867](https://fedlex.data.admin.ch/eli/oc/2004/534); [FF 2003 5688](https://fedlex.data.admin.ch/eli/fga/2003/998)).
-[^103-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^103-3]: Nouvelle teneur selon le ch. I de la LF du 6 mai 2020, en vigueur du 7 mai 2020 au 31 déc. 2025 ([RO 2020 1493](https://fedlex.data.admin.ch/eli/oc/2020/295); [FF 2020 3563](https://fedlex.data.admin.ch/eli/fga/2020/864)).
+[^103-2]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)
+[^103-3]: Nouvelle teneur selon le ch. II 21 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### IV. Formation et formation continue aéronautiques
 
@@ -2773,7 +2761,7 @@ Ils traitent en outre des données personnelles concernant:
 [^107a-1]: Introduit par le ch. I 13 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^107a-2]: Nouvelle teneur selon l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^107a-3]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^107a-4]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^107a-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^107a-5]: Nouvelle teneur selon l’annexe 1 ch. II 65 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^107a-6]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
