@@ -3,18 +3,18 @@ sr: "910.181"
 title: "Ordonnance du DEFR du 22 septembre 1997 sur l'agriculture biologique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20250101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR sur l’agriculture biologique
 
-du 22 septembre 1997 (État le 1<sup>er</sup> janvier 2025)
+du 22 septembre 1997 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
@@ -23,7 +23,7 @@ vu les art. 11, al. 2, 12, al. 2, 13, al. 3<sup>bis</sup>, 15, al. 2, 16*a*, al.
 arrête:
 
 [^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-2]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^ingress-2]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
 ## Section 1 Dispositions générales
@@ -80,10 +80,10 @@ Aux fins du calcul du pourcentage visé à l’art. 18, al. 1, let. b, de l’or
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
-[^3-5]: [RS 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
+[^3-5]: [RS 817.022.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9686)
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du DEFR du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
-[^3-7]: [RS 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^3-8]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-7]: [RS 817.022.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9675)
+[^3-8]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 [^3-9]: Nouvelle teneur selon le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 3a
@@ -125,10 +125,13 @@ Sont autorisés les pratiques et traitements œnologiques visés à l’annexe I
 
 **Pratiques et traitements pour la production de denrées alimentaires biologiques transformées**[^3d-1]
 
-Les procédés d’échange d’ions et de résines adsorbantes ne sont autorisés que dans la préparation des denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers visées à l’art. 2, let. a à c, OBNP[^3d-2].
+Les procédés d’échange d’ions et de résines adsorbantes sont autorisés:
 
-[^3d-1]: Introduit par le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
-[^3d-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+- a. lors de la préparation des denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers visées à l’art. 2, let. a à c, OBNP[^3d-2];
+- b. lors de la désacidification partielle de jus de poire pour fabriquer du concentré de jus de poire ayant une teneur en acidité de 6 à 12 g d’acide malique/kg et une valeur Brix de 80 à 82 Bx, destiné exclusivement au marché suisse.
+
+[^3d-1]: Introduit par le ch. I de l’O du DEFR du 2 nov. 2022 ([RO 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)). Nouvelle teneur selon le ch. I de l’O du DEFR du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
+[^3d-2]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 4
 
@@ -185,13 +188,14 @@ Pour la transformation des aliments biologiques pour animaux et pour l’aliment
 
 - a. matières premières d’aliments pour animaux, sous forme biologique;
 - b. matières premières d’aliments pour animaux et additifs pour l’alimentation animale selon l’annexe 7;
-- c. sel sous forme de sel marin ou obtenu à partir de gisements de sel gemme.[^4b-2]
+- c.[^4b-2] sel.[^4b-3]
 
-<sup>2</sup> Les dispositions de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^4b-3] sont réservées.
+<sup>2</sup> Les dispositions de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^4b-4] sont réservées.
 
 [^4b-1]: Introduit par le ch. I de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. I de l’O du DEFR du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
-[^4b-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
-[^4b-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^4b-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
+[^4b-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+[^4b-4]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 #### Art. 4c
 
@@ -260,7 +264,7 @@ Les produits des exploitations apicoles ne disposant pas de surface agricole uti
 <sup>3</sup> En cas de mortalité élevée causée par des maladies ou par des catastrophes, il est possible, après approbation écrite de l’organisme de certification, de reconstituer l’effectif par l’achat de colonies traditionnelles, lorsque des colonies conformes aux prescriptions de la présente ordonnance ne sont pas disponibles; la période de reconversion d’un an est requise en l’espèce.[^8-4]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
-[^8-2]: [[RO 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)ch. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)ch. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 7. [RO 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)art. 38 al. 1]. Voir actuellement l’O du 31 oct. 2012 ([RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
+[^8-2]: [[RO 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)ch. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)ch. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 7. [RO 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)art. 38 al. 1]. Voir actuellement l’O du 31 oct. 2012 ([RS 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)).
 [^8-3]: Introduit par le ch. I de l’O du DEFR du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^8-4]: Nouvelle teneur selon le ch. I de l’O du DEFR du 10 nov. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4895](https://fedlex.data.admin.ch/eli/oc/2004/735)).
 
@@ -297,7 +301,7 @@ Chaque colonie doit être inscrite dans un registre des colonies qui renseigne s
 - c. l’alimentation artificielle;
 - d. le retrait des rayons et les opérations d’extraction.
 
-[^11-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^11-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 12
 
@@ -348,7 +352,7 @@ La prévention des maladies dans l’apiculture se fonde sur:
 
 <sup>7</sup> Sont réservés les soins vétérinaires ou le traitement de colonies, de rayons, etc. prescrits par la législation.
 
-[^14-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^14-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 15
 
@@ -368,7 +372,7 @@ La prévention des maladies dans l’apiculture se fonde sur:
 
 <sup>7</sup> Le retrait des rayons de miel et les opérations d’extraction doivent être inscrits sur le registre des ruches.
 
-[^15-1]: [[RO 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)ch. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)ch. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 7. [RO 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)art. 38 al. 1]. Voir actuellement l’O du 31 oct. 2012 ([RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
+[^15-1]: [[RO 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)ch. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)ch. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)annexe 2 ch. 7. [RO 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)art. 38 al. 1]. Voir actuellement l’O du 31 oct. 2012 ([RS 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^15-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
@@ -493,7 +497,7 @@ Le certificat de contrôle original est:
 [^16c-1]: Règlement (CE) n<sup>o</sup> 1235/2008 de la Commission du 8 décembre 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 834/2007 du Conseil en ce qui concerne le régime d’importation de produits biologiques en provenance des pays tiers, JO L 334 du 12.12.2008, p. 25; modifié en dernier lieu par le règlement d’exécution (UE) 2017/1473, JO L 210 du 15.8.2017, p. 4.
 [^16c-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16c-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
-[^16c-4]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^16c-4]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^16c-5]: Règlement (UE) n<sup>o</sup> 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l’identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, version du JO L 257 du 28.8.2014, p. 73.
 [^16c-6]: Introduit par le ch. I de l’O du DEFR du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16c-7]: Introduit par le ch. I de l’O du DEFR du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
@@ -577,9 +581,9 @@ Chaque enregistrement doit contenir au moins les indications suivantes:
 - d. le pays ou la région où la variété a été examinée et homologuée pour l’inscription dans le catalogue des variétés;
 - e. la date à partir de laquelle les semences ou le matériel de multiplication végétatif sont disponibles;
 - f. le nom et/ou le numéro de code du service ou de l’autorité de contrôle compétent(e) pour l’entreprise en question;
-- g.[^16h-1] la quantité disponible en poids pour les semences et la quantité disponible en chiffres pour le matériel de multiplication végétatif.
+- g.[^16h-1] …
 
-[^16h-1]: Introduite par le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^16h-1]: Introduite par le ch. I de l’O du DEFR du 6 nov. 2024 ([RO 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)). Abrogée par le ch. I de l’O du DEFR du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 #### Art. 16i
 
@@ -717,7 +721,7 @@ Les produits biologiques peuvent encore être produits et remis selon les dispos
 
 <sup>3</sup> Les délais visés à l’al. 2 sont prolongés jusqu’au 31 décembre 2025.[^u6-3]
 
-[^u6-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^u6-2]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 [^u6-3]: Introduit par le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 ## Dispositions transitoires relatives à la modification du 1<sup>er</sup> novembre 2023
@@ -732,7 +736,10 @@ Les produits biologiques peuvent encore être produits et remis selon les dispos
 
 <sup>3</sup> Le délai visé à l’al. 1 est prolongé jusqu’au 31 décembre 2025.[^u7-2]
 
+<sup>4</sup> Les délais visés au l’al. 1 et 2 sont prolongés jusqu’au 31 décembre 2026.[^u7-3]
+
 [^u7-2]: Introduit par le ch. I de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^u7-3]: Introduit par le ch. I de l’O du DEFR du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 ## Disposition transitoire relative à la modification du 6 novembre 2024
 
@@ -754,7 +761,7 @@ Les produits phytosanitaires mentionnés dans la liste sont tous soumis aux pres
 
 ### 1. Substances végétales ou animales
 
-[^annex1-lvlu1-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^annex1-lvlu1-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 <table>
 <tr><th>Dénomination</th><th>Description, exigences quant à la composition, prescriptions d’utilisation</th></tr>
@@ -778,7 +785,7 @@ Les produits phytosanitaires mentionnés dans la liste sont tous soumis aux pres
 <tr><td>Terpènes</td><td>Uniquement eugenol, geraniol et thymol</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex1-lvlu1-lvl1-1]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ### 2. Micro-organismes ou substances produites par des micro-organismes
 
@@ -928,13 +935,13 @@ Les dispositions de l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engra
 <tr><td colspan="2">5.4 Tourbe, bois</td><td>Non traités chimiquement</td></tr>
 <tr><td colspan="2">5.5 Produits d’origine minérale</td><td>Conformément au ch. 2.1 de la présente annexe</td></tr>
 <tr><td colspan="2">5.6 Eau, terre</td><td></td></tr>
-<tr><th colspan="3">\* À utiliser après mise en évidence du besoin</th></tr>
-<tr><th colspan="3">\*\* Limite de détermination</th></tr>
-<tr><th colspan="3">\*\*\* Seulement les produits autorisés selon l’art. 11 de l’O du 10 janv. 2001 sur les engrais (RS *916.171*)</th></tr>
-<tr><th colspan="3">\*\*\*\* Pourcentage calculé sans matériel d’isolation, avant le compostage et l’addition d’eau</th></tr>
+<tr><td colspan="3">\* À utiliser après mise en évidence du besoin</td></tr>
+<tr><td colspan="3">\*\* Limite de détermination</td></tr>
+<tr><td colspan="3">\*\*\* Seulement les produits autorisés selon l’art. 11 de l’O du 10 janv. 2001 sur les engrais (RS *916.171*)</td></tr>
+<tr><td colspan="3">\*\*\*\* Pourcentage calculé sans matériel d’isolation, avant le compostage et l’addition d’eau</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex2-lvlu1-1]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
 Annexe 3[^t-3]
 
@@ -1009,8 +1016,8 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td colspan="5">\* Pour le calcul aux fins de l’art. 18, al. 1, let. b, de l’ordonnance sur l’agriculture biologique, les additifs alimentaires pourvus d’une étoile sont considérés comme ingrédients d’origine agricole.</td></tr>
 </table>
 
-[^annex3-lvlu1-partA-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^annex3-lvlu1-partA-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex3-lvlu1-partA-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^annex3-lvlu1-partA-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### Partie B: Auxiliaires de fabrication et autres produits pouvant être utilisés dans la transformation d’ingrédients d’origine agricole produits biologiquement
 
@@ -1066,7 +1073,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>Fibre de bois</td><td>Admis L’origine du bois devrait être limitée aux produits certifiés comme ayant été récoltés de manière durable. Le bois utilisé ne doit pas contenir de composants toxiques (traitement après récolte, toxines naturelles ou obtenues à partir de micro‑organismes)</td><td>Admis L’origine du bois devrait être limitée aux produits certifiés comme ayant été récoltés de manière durable. Le bois utilisé ne doit pas contenir de composants toxiques (traitement après récolte, toxines naturelles ou obtenues à partir de micro-organismes)</td></tr>
 </table>
 
-[^annex3-lvlu1-partB-lvl1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^annex3-lvlu1-partB-lvl1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 ### 2. Auxiliaires utilisés indirectement et autres produits autorisés dans la transformation d’ingrédients d’origine agricole produits biologiquement
 
@@ -1082,7 +1089,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td colspan="2">Colorants autorisés d’une manière générale dans la législation relative aux denrées alimentaires</td><td>Marquage des œufs, de viande et de fromage</td></tr>
 </table>
 
-[^annex3-lvlu1-partB-lvl2-1]: [RS 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^annex3-lvlu1-partB-lvl2-1]: [RS 817.022.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9666)
 
 ### Partie C: Ingrédients agricoles non issus de l’agriculture biologique
 
@@ -1123,23 +1130,14 @@ Annexe 3b[^t-5]
 
 (art. 3*c* et 16*a*)
 
-## Actes de l’Union européenne relatifs à l’agriculture biologique
+## Actes de l’Union européenne concernant l’agriculture biologique
 
-[^t-5]: Introduite par le ch. III al. 3 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^t-5]: Introduite par le ch. III al. 3 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. II de l’O du DEFR du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 - 1\. La version du règlement (UE) 2018/848 qui fait foi est la suivante:
-- Règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l’étiquetage des produits biologiques, et abrogeant le règlement (CE) n<sup>o</sup> 834/2007 du Conseil, JO L 150 du 14.6.2018, p. 1; modifié en dernier lieu par le règlement délégué (UE) n<sup>o</sup> 2023/207, JO L 29 du 1.2.2023, p. 6.
+- Règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l’étiquetage des produits biologiques, et abrogeant le règlement (CE) n<sup>o</sup> 834/2007 du Conseil, JO L 150 du 14.6.2018, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2025/405, JO L, 2025/405, 26.2.2025.
 - 2\. La version du règlement (UE) n° 1308/2013, cité dans le règlement (UE) 2018/848, qui fait foi est la suivante:
-- Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2024/1143, JO L 1143 du 23.4.2024, p. 1.
-- 3\. Les règlements suivants s’appliquent en lieu et place du règlement (CE) n<sup>o</sup> 606/2009 et du règlement (CE) n<sup>o</sup> 1234/2007, cité dans le règlement (UE) 2018/848:
-
-<table>
-<tr><td>Règlement (CE) n<sup>o</sup> 606/2009</td><td>Règlement délégué (UE) 2019/934[^annex3b-lvlu1-1]</td></tr>
-<tr><td>Règlement (CE) n<sup>o</sup> 1234/2007</td><td>Règlement (UE) n<sup>o</sup> 1308/2013[^annex3b-lvlu1-2]</td></tr>
-</table>
-
-[^annex3b-lvlu1-1]: Règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, JO L 149 du 7.6.2019, p. 1; modifié en dernier lieu par le règlement délégué (UE) n<sup>o</sup> 2022/68, JO L 12 du 19.1.2022, p. 1.
-[^annex3b-lvlu1-2]: Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2024/1143, JO L 1143 du 23.4.2024, p. 1.
+- Règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007, JO L 347 du 20.12.2013, p. 671; modifié en dernier lieu par le règlement (UE) 2024/1143 JO L, 2024/1143, 23.4.2024.
 
 Annexe 4[^t-6]
 
@@ -1161,7 +1159,7 @@ Les exigences prévues pour le programme SRPA dans l’ordonnance du 23 octobre 
 
 ### 1. Sorties et bâtiments destinés à la garde d’animaux
 
-[^annex5-lvlu1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex5-lvlu1-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 11 Principes généraux
 
@@ -1224,7 +1222,7 @@ Annexe 6[^t-9]
 
 Les exigences concernant la superficie minimale de l’aire d’exercice fixées à l’annexe 6, let. B, ch. 3, OPD[^annex6-lvlu1-1] doivent être respectées.
 
-[^annex6-lvlu1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex6-lvlu1-1]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 Annexe 7[^t-10]
 
@@ -1238,8 +1236,8 @@ Les dispositions de l’ordonnance du 26 octobre 2011 sur les aliments pour anim
 
 ### Partie A Matières premières d’aliments pour animaux
 
-[^annex7-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex7-lvlu1-2]: [RS 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
+[^annex7-lvlu1-1]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex7-lvlu1-2]: [RS 916.307.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10675)
 
 Les numéros figurant dans le catalogue des matières premières d’aliments pour animaux proviennent de l’annexe 1.4, ch. 3, OLALA).
 
@@ -1420,7 +1418,7 @@ Les désinfectants sont des produits biocides. Ils ne peuvent être mis en circu
 
 ### 1. Produits autorisés
 
-[^annex8-lvlu1-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex8-lvlu1-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 - – savons à base de potasse ou de soude
 - – eau et vapeur

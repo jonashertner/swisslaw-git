@@ -3,18 +3,18 @@ sr: "910.181"
 title: Verordnung des WBF vom 22. September 1997 über die biologische Landwirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20250101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die biologische Landwirtschaft
 
-vom 22. September 1997 (Stand am 1. Januar 2025)
+vom 22. September 1997 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
@@ -23,7 +23,7 @@ gestützt auf die Artikel 11 Absatz 2, 12 Absatz 2, 13 Absatz 3<sup>bis</sup>, 1
 verordnet:
 
 [^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^ingress-2]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^ingress-2]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^ingress-3]: Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -80,10 +80,10 @@ Zur Berechnung für die Zwecke von Artikel 18 Absatz 1 Buchstabe b der Bio-Veror
 [^3-2]: Fassung gemäss Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-3]: Fassung gemäss Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-4]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
-[^3-5]: [SR 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
+[^3-5]: [SR 817.022.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9686)
 [^3-6]: Fassung gemäss Ziff. I der V des WBF vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
-[^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^3-8]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9675)
+[^3-8]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 [^3-9]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 3a
@@ -125,10 +125,13 @@ Zulässig sind die önologischen Verfahren und Behandlungen nach Anhang II Teil 
 
 **Verfahren und Behandlungen für die Herstellung verarbeiteter biologischer Lebensmittel**[^3d-1]
 
-Ionenaustausch- und Adsorptionsharzverfahren sind nur bei der Aufbereitung von Lebensmitteln für Personen mit besonderem Ernährungsbedarf nach Artikel 2 Buchstaben a–c VLBE[^3d-2] zulässig.
+Ionenaustausch- und Adsorptionsharzverfahren sind zugelassen:
 
-[^3d-1]: Eingefügt durch Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
-[^3d-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+- a. bei der Aufbereitung von Lebensmitteln für Personen mit besonderem Ernährungsbedarf nach Artikel 2 Buchstaben a–c VLBE[^3d-2];
+- b. bei der Teilentsäuerung von Birnensaft zur Herstellung von Birnendicksaft mit einem Säuregehalt von 6–12 g Apfelsäure/kg und einem Brix-Wert von 80–82° Brix, der ausschliesslich für den Schweizer Markt bestimmt ist.
+
+[^3d-1]: Eingefügt durch Ziff. I der V des WBF vom 2. Nov. 2022 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)). Fassung gemäss Ziff. I der V des WBF vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
+[^3d-2]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 4
 
@@ -185,13 +188,14 @@ Bei der Verarbeitung von biologischen Futtermitteln und der Fütterung von Tiere
 
 - a. biologische Futtermittel-Ausgangsprodukte;
 - b. Futtermittel-Ausgangsprodukte und Futtermittelzusatzstoffe nach Anhang 7;
-- c. Salz in Form von Meersalz oder rohem Steinsalz.[^4b-2]
+- c.[^4b-2] Salz.[^4b-3]
 
-<sup>2</sup> Die Bestimmungen der Futtermittel-Verordnung vom 26. Oktober 2011[^4b-3] sind vorbehalten.
+<sup>2</sup> Die Bestimmungen der Futtermittel-Verordnung vom 26. Oktober 2011[^4b-4] sind vorbehalten.
 
 [^4b-1]: Eingefügt durch Ziff. I der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Fassung gemäss Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
-[^4b-2]: Fassung gemäss Ziff. I der V des WBF vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
-[^4b-3]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^4b-2]: Fassung gemäss Ziff. I der V des WBF vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
+[^4b-3]: Fassung gemäss Ziff. I der V des WBF vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+[^4b-4]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 #### Art. 4c
 
@@ -260,7 +264,7 @@ Imkereibetriebe dürfen ihre Erzeugnisse auch dann als biologische Erzeugnisse k
 <sup>3</sup> Im Fall einer hohen Sterberate aus gesundheitlichen Gründen oder in Katastrophensituationen kann ein Bestand, nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle, durch den Zukauf konventioneller Bienenvölker wiederaufgebaut werden, wenn Bienenvölker, die den Vorschriften dieser Verordnung entsprechen, nicht verfügbar sind; in diesem Fall gilt der Umstellungszeitraum von einem Jahr.[^8-4]
 
 [^8-1]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
-[^8-2]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 Abs. 1]. Siehe heute: die Tierzuchtverordnung vom 31. Okt. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
+[^8-2]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 Abs. 1]. Siehe heute: die Tierzuchtverordnung vom 31. Okt. 2012 ([SR 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)).
 [^8-3]: Eingefügt durch Ziff. I der V des WBF vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^8-4]: Fassung gemäss Ziff. I der V des WBF vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4895](https://fedlex.data.admin.ch/eli/oc/2004/735)).
 
@@ -297,7 +301,7 @@ Zu jedem Bienenvolk hat der Betreiber ein Bienenvolkverzeichnis zu führen. Dari
 - c. Angaben zur künstlichen Fütterung;
 - d. Entnahme der Honigwaben und Massnahmen der Honiggewinnung.
 
-[^11-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^11-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 12
 
@@ -348,7 +352,7 @@ Die Krankheitsvorsorge in der Bienenhaltung beruht auf folgenden Grundsätzen:
 
 <sup>7</sup> Vorbehalten sind tierärztliche Behandlungen oder Behandlungen von Bienenvölkern, Waben usw., die gesetzlich vorgeschrieben sind.
 
-[^14-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^14-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 15
 
@@ -368,7 +372,7 @@ Die Krankheitsvorsorge in der Bienenhaltung beruht auf folgenden Grundsätzen:
 
 <sup>7</sup> Die Entnahme der Honigwaben sowie die Massnahmen der Honiggewinnung sind im Bienenstockverzeichnis zu vermerken.
 
-[^15-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 Abs. 1]. Siehe heute: die Tierzuchtverordnung vom 31. Okt. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
+[^15-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 Abs. 1]. Siehe heute: die Tierzuchtverordnung vom 31. Okt. 2012 ([SR 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)).
 [^15-2]: Fassung gemäss Ziff. I der V des WBF vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^15-3]: Fassung gemäss Ziff. I der V des WBF vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
@@ -493,7 +497,7 @@ Als Original der Kontrollbescheinigung gilt:
 [^16c-1]: Verordnung (EG) Nr. 1235/2008 der Kommission vom 8. Dezember 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates hinsichtlich der Regelung der Einfuhren von ökologischen/biologischen Erzeugnissen aus Drittländern, ABl. L 334 vom 12.12.2008, S. 25; zuletzt geändert durch Durchführungsverordnung (EU) 2017/1473, ABl. L 210 vom 15.8.2017, S. 4.
 [^16c-2]: Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16c-3]: Fassung gemäss Ziff. I der V des WBF vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
-[^16c-4]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^16c-4]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^16c-5]: Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG, Fassung gemäss ABl. L 257 vom 28.8.2014, S. 73.
 [^16c-6]: Eingefügt durch Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16c-7]: Eingefügt durch Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
@@ -546,7 +550,7 @@ Soll eine Sendung vor der Verzollung einer oder mehreren Aufbereitungen im Sinne
 
 [^sec2c-1]
 
-[^sec2c-1]: Ursprünglich: *2**b**.* Eingefügt durch Ziff. I der V des WBF vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5357](https://fedlex.data.admin.ch/eli/oc/2003/780)).
+[^sec2c-1]: Ursprünglich: *2b.* Eingefügt durch Ziff. I der V des WBF vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5357](https://fedlex.data.admin.ch/eli/oc/2003/780)).
 
 #### Art. 16g
 
@@ -577,9 +581,9 @@ Jede Eintragung muss mindestens folgende Angaben enthalten:
 - d. das Land oder die Region, in dem bzw. in der die Sorte geprüft und für den Sortenkatalog zugelassen wurde;
 - e. den Termin, von dem an das Saatgut oder das vegetative Vermehrungsmaterial verfügbar ist;
 - f. den Namen und/oder die Codenummer der für die Kontrolle des Unternehmens zuständigen Kontrollbehörde oder -stelle;
-- g.[^16h-1] die gewichtsmässig verfügbare Menge für Saatgut und die zahlenmässig verfügbare Menge für vegetatives Vermehrungsmaterial.
+- g.[^16h-1] …
 
-[^16h-1]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^16h-1]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)). Aufgehoben durch Ziff. I der V des WBF vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 #### Art. 16i
 
@@ -715,7 +719,7 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 
 <sup>3</sup> Die Fristen nach Absatz 2 werden bis zum 31. Dezember 2025 verlängert.[^u6-3]
 
-[^u6-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^u6-2]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 [^u6-3]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 ## Übergangsbestimmungen zur Änderung vom 1. November 2023
@@ -730,7 +734,10 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 
 <sup>3</sup> Die Frist nach Absatz 1 wird bis zum 31. Dezember 2025 verlängert.[^u7-2]
 
+<sup>4</sup> Die Fristen nach den Absätzen 1 und 2 werden bis zum 31. Dezember 2026 verlängert.[^u7-3]
+
 [^u7-2]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^u7-3]: Eingefügt durch Ziff. I der V des WBF vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 ## Übergangsbestimmung zur Änderung vom 6. November 2024
 
@@ -752,7 +759,7 @@ Sämtliche gelisteten Pflanzenschutzmittel unterliegen den Anwendungsvorschrifte
 
 ### 1. Pflanzliche und tierische Substanzen
 
-[^annex1-lvlu1-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^annex1-lvlu1-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 <table>
 <tr><th>Bezeichnung</th><th>Beschreibung, Anforderung an die Zusammensetzung, Verwendungsvorschriften</th></tr>
@@ -775,7 +782,7 @@ Sämtliche gelisteten Pflanzenschutzmittel unterliegen den Anwendungsvorschrifte
 <tr><td>Wässeriges Extrakt aus gekeimten Samenkörnern der Süsslupine *Lupinus albus*</td><td></td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex1-lvlu1-lvl1-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ### 2. Mikroorganismen oder durch Mikroorganismen produzierte Substanzen
 
@@ -837,7 +844,7 @@ Die Bestimmungen der Dünger-Verordnung vom 1. November 2023[^annex2-lvlu1-1] bl
 <tr><td>Stroh, anderes Mulchmaterial</td><td colspan="3"></td></tr>
 <tr><td>Eierschalen</td><td colspan="3">Nur aus Freilandhaltung</td></tr>
 <tr><td colspan="4">2. Hoffremde Dünger und diesen gleichgestellte Erzeugnisse</td></tr>
-<tr><td colspan="4">**2.1. Erzeugnisse mineralischen Ursprungs**</td></tr>
+<tr><td colspan="4">2.1. Erzeugnisse mineralischen Ursprungs</td></tr>
 <tr><td>Weicherdiges Rohphosphat\*</td><td colspan="3"></td></tr>
 <tr><td>Aluminiumcalciumphosphat\*</td><td colspan="3"></td></tr>
 <tr><td>Schlacken der Eisen- und Stahlbereitung\*</td><td colspan="3"></td></tr>
@@ -854,7 +861,7 @@ Die Bestimmungen der Dünger-Verordnung vom 1. November 2023[^annex2-lvlu1-1] bl
 <tr><td>Natriumchlorid\*</td><td colspan="3">Ausschliesslich Steinsalz.</td></tr>
 <tr><td>Aufbereitete Tonmineralien (z. B. Perlit, Vermiculit usw.)</td><td colspan="3"></td></tr>
 <tr><td>Gesteinsmehle (z. B. Quarzmehl, Basaltmehl, Tonerdemehl usw.)</td><td colspan="3"></td></tr>
-<tr><td colspan="4">**2.2. Erzeugnisse organischen oder organisch-mineralischen Ursprungs**</td></tr>
+<tr><td colspan="4">2.2. Erzeugnisse organischen oder organisch-mineralischen Ursprungs</td></tr>
 <tr><td>Stallmist\*</td><td colspan="3">Gemisch aus tierischen Exkrementen und pflanzlichem Material (Einstreu). Tierarten müssen angegeben werden.</td></tr>
 <tr><td>Getrockneter Stallmist und getrockneter Geflügelmist\*</td><td colspan="3">Tierarten müssen angegeben werden.</td></tr>
 <tr><td>Kompostierter Stallmist aus tierischen Exkrementen, einschliesslich Geflügelmist\*</td><td colspan="3">Tierarten müssen angegeben werden.</td></tr>
@@ -909,7 +916,7 @@ Die Bestimmungen der Dünger-Verordnung vom 1. November 2023[^annex2-lvlu1-1] bl
 <tr><td>Kaliumchlorid</td><td colspan="3">nur natürlichen Ursprungs</td></tr>
 <tr><td colspan="4">2.3 Spurennährstoffe</td></tr>
 <tr><td>Spurennährstoffe\*</td><td colspan="3"></td></tr>
-<tr><td colspan="4">**2.4. Kulturen von Mikroorganismen zur Behandlung von Böden**</td></tr>
+<tr><td colspan="4">2.4. Kulturen von Mikroorganismen zur Behandlung von Böden</td></tr>
 <tr><td>Mikroorganismenpräparate (Pilze, Bakterien)\*</td><td colspan="3">Keine gentechnisch veränderten Mikroorganismen.</td></tr>
 <tr><td colspan="4">3. Präparate</td></tr>
 <tr><td>Pflanzliche Extrakte</td><td colspan="3">Extrakte von Pflanzen wie Aufgüsse und Tee</td></tr>
@@ -936,7 +943,7 @@ Die Bestimmungen der Dünger-Verordnung vom 1. November 2023[^annex2-lvlu1-1] bl
 <tr><td colspan="4">\*\*\*\* Berechnet ohne Deckmaterial, vor der Kompostierung und dem Zusatz von Wasser</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex2-lvlu1-1]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
 Anhang 3[^t-3]
 
@@ -1012,8 +1019,8 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><td colspan="4">\* Zur Berechnung für die Zwecke nach Artikel 18 Absatz 1 Buchstabe b der Bio-Verordnung werden Lebensmittelzusatzstoffe, die mit einem Sternchen gekennzeichnet sind, zu den Zutaten landwirtschaftlichen Ursprungs gerechnet.</td></tr>
 </table>
 
-[^annex3-lvlu1-partA-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^annex3-lvlu1-partA-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex3-lvlu1-partA-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^annex3-lvlu1-partA-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### Teil B: Verarbeitungshilfsstoffe und sonstige Erzeugnisse, die bei der Verarbeitung biologisch produzierter Zutaten landwirtschaftlichen Ursprungs verwendet werden dürfen
 
@@ -1069,7 +1076,7 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><td>Holzfaser</td><td>zulässig beschränkt auf zertifiziertes, nachhaltig geschlagenes Holz. Das Holz muss frei von toxischen Bestandteilen sein (Behandlung nach dem Einschlag, natürlich vorkommende und mikrobielle Toxine)</td><td>zulässig beschränkt auf zertifiziertes, nachhaltig geschlagenes Holz. Das Holz muss frei von toxischen Bestandteilen sein (Behandlung nach dem Einschlag, natürlich vorkommende und mikrobielle Toxine)</td></tr>
 </table>
 
-[^annex3-lvlu1-partB-lvl1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^annex3-lvlu1-partB-lvl1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 ### 2. Nicht direkt eingesetzte Hilfsstoffe und sonstige Erzeugnisse, die bei der Verarbeitung biologisch produzierter Zutaten landwirtschaftlichen Ursprungs verwendet werden dürfen
 
@@ -1085,7 +1092,7 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><td>Allgemein lebensmittelrechtlich zulässige Farbstoffe</td><td>Kennzeichnung von Eiern, Fleisch und Käse</td></tr>
 </table>
 
-[^annex3-lvlu1-partB-lvl2-1]: [SR 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^annex3-lvlu1-partB-lvl2-1]: [SR 817.022.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9666)
 
 ### Teil C: Nicht biologische Zutaten landwirtschaftlichen Ursprungs
 
@@ -1128,21 +1135,12 @@ Anhang 3b[^t-5]
 
 ## Erlasse der Europäischen Union betreffend biologische Landwirtschaft
 
-[^t-5]: Eingefügt durch Ziff. III Abs. 3 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^t-5]: Eingefügt durch Ziff. III Abs. 3 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Fassung gemäss Ziff. II der V des WBF vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 - 1\. Massgebend ist die folgende Fassung der Verordnung (EU) 2018/848:
-- Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, ABl. L 150 vom 14.6.2018, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2023/207, ABl. L 29 vom 1.2.2023, S. 6.
+- Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, ABl. L 150 vom 14.6.2018, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2025/405, ABl. L, 2025/405, 26.2.2025.
 - 2\. Für die Verordnung (EU) Nr. 1308/2013, auf die in der Verordnung (EU) 2018/848 verwiesen wird, ist die folgende Fassung massgebend:
-- Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2024/1143, ABl. L 1143 vom 23.4.2024, S. 1.
-- 3\. Anstelle der Verordnung (EG) Nr. 606/2009 und der Verordnung (EG) Nr. 1234/2007, auf die in der Verordnung (EU) 2018/848 verwiesen wird, gelten die folgenden Verordnungen:
-
-<table>
-<tr><td>Verordnung (EG) Nr. 606/2009</td><td>Delegierte Verordnung (EU) 2019/934[^annex3b-lvlu1-1]</td></tr>
-<tr><td>Verordnung (EG) Nr. 1234/2007</td><td>Verordnung (EU) Nr. 1308/2013[^annex3b-lvlu1-2]</td></tr>
-</table>
-
-[^annex3b-lvlu1-1]: Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers, ABl. L 149 vom 7.6.2019, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2022/68, ABl. L 12 vom 19.1.2022, S. 1.
-[^annex3b-lvlu1-2]: Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2024/1143, ABl. L 1143 vom 23.4.2024, S. 1.
+- Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2024/1143, ABl. L, 2024/1143, 23.4.2024.
 
 Anhang 4[^t-6]
 
@@ -1164,7 +1162,7 @@ Die Anforderungen für das RAUS-Programm der Direktzahlungsverordnung vom 23. Ok
 
 ### 1 Ausläufe und Haltungsgebäude
 
-[^annex5-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex5-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 11 Allgemeine Grundsätze
 
@@ -1235,7 +1233,7 @@ Anhang 6[^t-9]
 
 Die Anforderungen an die minimalen Auslaufflächen nach Anhang 6 Buchstabe B Ziffer 3 DZV[^annex6-lvlu1-1] sind einzuhalten.
 
-[^annex6-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex6-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 Anhang 7[^t-10]
 
@@ -1249,8 +1247,8 @@ Die Bestimmungen der Futtermittel-Verordnung vom 26. Oktober 2011[^annex7-lvlu1-
 
 ### Teil A Futtermittel-Ausgangsprodukte
 
-[^annex7-lvlu1-1]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex7-lvlu1-2]: [SR 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
+[^annex7-lvlu1-1]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex7-lvlu1-2]: [SR 916.307.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10675)
 
 Die Nummern im Katalog der Einzelfuttermittel sind Anhang 1.4 Ziffer 3 FMBV entnommen.
 
@@ -1430,7 +1428,7 @@ Desinfektionsmittel sind Biozidprodukte. Sie dürfen in Verkehr gebracht und ver
 
 ### 1. Zugelassene Stoffe
 
-[^annex8-lvlu1-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex8-lvlu1-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 - – Kali- und Natronseifen
 - – Wasser und Dampf
@@ -1449,9 +1447,7 @@ Desinfektionsmittel sind Biozidprodukte. Sie dürfen in Verkehr gebracht und ver
 - – Branntkalk
 - – Kalk
 
-### 2.
-
-Ferner sind zugelassen:
+### 2. Ferner sind zugelassen
 
 - – Produkte für die Reinigung und Entkeimung von Melkgerätschaften, die in der Liste der Biozidprodukte zur Reinigung und Entkeimung von Melkma schinen zugelassen sind[^annex8-lvlu1-lvl2-1].
 

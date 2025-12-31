@@ -3,11 +3,11 @@ sr: "910.181"
 title: EAER Ordinance of 22 September 1997 on Organic Farming
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: en
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20260101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20250101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 22 September 1997 (Status as of 1 January 2025)
+of 22 September 1997 (Status as of 1 January 2026)
 
 The Federal Department of Economic Affairs, Education and Research (EAER)[^ingress-1],
 
@@ -25,7 +25,7 @@ on the basis of Articles 11 paragraph 2, 12 paragraph 2, 13 paragraph 3<sup>bis<
 ordains:
 
 [^ingress-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publication Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2013. This amendment has been made throughout the text.
-[^ingress-2]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^ingress-2]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^ingress-3]: Amended by No I of the EAER O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
 ## Section 1 General Provisions
@@ -82,10 +82,10 @@ For the assessment for the purposes of Article 18 paragraph 1 letter b of the Or
 [^3-2]: Amended by No I of the EAER O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-3]: Amended by No I of the EAER O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-4]: Amended by No I of the EAER O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
-[^3-5]: [SR 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
+[^3-5]: [SR 817.022.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9686)
 [^3-6]: Amended by No I of the EAER O of 23 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
-[^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^3-8]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9675)
+[^3-8]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 [^3-9]: Amended by No I of the EAER O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 3a
@@ -127,10 +127,13 @@ Oenological practices and processes in accordance with Annex II Part VI number 3
 
 **Practices and processes for the production of processed organic foodstuffs**[^3d-1]
 
-Ion exchange und adsorption resin processes are only permitted for the preparation of foodstuffs for persons with special dietary requirements in accordance with Article 2 letters a–c SDRO[^3d-2].
+Ion exchange und adsorption resin processes are only permitted:
 
-[^3d-1]: Inserted by No I of the EAER O of 2. Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
-[^3d-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+- a. for the preparation of foodstuffs for persons with special dietary requirements in accordance with Article 2 letters a–c SDRO[^3d-2];
+- b. for the partial deacidification of pear juice for the production of pear juice concentrate with an acidity of 6–12 g malic acid/kg and a Brix value of 80–82° Brix, intended exclusively for the Swiss market
+
+[^3d-1]: Inserted by No I of the EAER O of 2 Nov. 2022 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)). Amended by No I of the EAER O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
+[^3d-2]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 4
 
@@ -187,13 +190,14 @@ Only the following shall be used in the processing of organic animal feedingstuf
 
 - a. organic animal feed materials;
 - b. animal feed materials and animal feed additives in accordance with Annex 7;
-- c. salt in the form of sea salt or raw rock salt.[^4b-2]
+- c.[^4b-2] salt.[^4b-3]
 
-<sup>2</sup> This applies without prejudice to the provisions of the Ordinance on Animal Feeding stuffs of 26 October 2011[^4b-3].
+<sup>2</sup> This applies without prejudice to the provisions of the Ordinance on Animal Feeding stuffs of 26 October 2011[^4b-4].
 
 [^4b-1]: Inserted by No I of the EAER O of 23 Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Amended by No I of the EAER O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
-[^4b-2]: Amended by No I of the EAER O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
-[^4b-3]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^4b-2]: Amended by No I of the EAER O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
+[^4b-3]: Amended by No I of the EAER O of 1 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+[^4b-4]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 #### Art. 4c
 
@@ -262,7 +266,7 @@ Beekeeping holdings may label their products as organic products even if they ha
 <sup>3</sup> In case of high mortality of animals caused by health or catastrophic circumstances, with the prior written agreement of the certification body, an apiary may be reconstituted by the acquisition of conventional colonies, when colonies which comply with the provisions of this Ordinance are not available; in this case the conversion period of one year applies.[^8-4]
 
 [^8-1]: Amended by No I of the EAER O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
-[^8-2]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)No II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)No II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Annex 2 No 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 para. 1]. See now: the Animal Husbandry Ordinance of 31 Oct. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
+[^8-2]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)No II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)No II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Annex 2 No 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 para. 1]. See now: the Animal Husbandry Ordinance of 31 Oct. 2012 ([SR 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)).
 [^8-3]: Inserted by No I of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^8-4]: Inserted by No I of the EAER O of 10 Nov. 2004, in force since 1 Jan. 2005 ([AS 2004 4895](https://fedlex.data.admin.ch/eli/oc/2004/735)).
 
@@ -299,7 +303,7 @@ The operator must keep a colony register for each colony. In it the following mu
 - c. information on artificial feeding;
 - d. removal of honey combs and measures for honey extraction.
 
-[^11-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^11-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 12
 
@@ -350,7 +354,7 @@ Disease prevention in beekeeping shall be based on the following principles:
 
 <sup>7</sup> This applies without prejudice to veterinary treatments or treatments to hives, combs etc. which are prescribed by law.
 
-[^14-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^14-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 15
 
@@ -370,7 +374,7 @@ Disease prevention in beekeeping shall be based on the following principles:
 
 <sup>7</sup> The removal of the supers and the honey extraction operations must be entered in the register of the apiary.
 
-[^15-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)No II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)No II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Annex 2 No 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 para. 1]. See now: the Animal Husbandry Ordinance of 31 Oct. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
+[^15-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)No II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)No II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Annex 2 No 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 para. 1]. See now: the Animal Husbandry Ordinance of 31 Oct. 2012 ([SR 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)).
 [^15-2]: Amended by No I of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^15-3]: Amended by No I of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
@@ -435,8 +439,8 @@ The following provisions also apply:
 
 Before the consignment is dispatched from the third exporting country or country of origin, the certificate of inspection shall be issued by:
 
-- a. the authority or certification body of the producer or processor;
-- b. where the last preparation stage is not carried out by the producer or processor themselves but by another operator: the authority or certification body of this operator.[^16b-2]
+- the authority or certification body of the producer or processor;
+- where the last preparation stage is not carried out by the producer or processor themselves but by another operator: the authority or certification body of this operator.[^16b-2]
 
 <sup>2</sup>
 
@@ -449,10 +453,10 @@ The authority or certification body shall be:
 
 Before issuing the certificate of inspection, the authority or certification body shall:
 
-- a. have checked all inspection documents and transport and commercial documents relating to the product in question;
-- b. depending on its risk assessment, if necessary have made a physical check of the consignment concerned;
-- c. have made sure that in the case of processed foodstuffs from countries under Article 23 of the Organic Farming Ordinance, all organic ingredients of the product have been certified by a certification body which is also recognised for the relevant third country;
-- d. have made sure that in the case of processed foodstuffs which are certified by a body under Article 23*a* of the Organic Farming Ordinance, all organic ingredients have been certified by a certification body in accordance with Article 23 or 23*a* or by a certification body authorised in Switzerland;
+- have checked all inspection documents and transport and commercial documents relating to the product in question;
+- depending on its risk assessment, if necessary have made a physical check of the consignment concerned;
+- have made sure that in the case of processed foodstuffs from countries under Article 23 of the Organic Farming Ordinance, all organic ingredients of the product have been certified by a certification body which is also recognised for the relevant third country;
+- have made sure that in the case of processed foodstuffs which are certified by a body under Article 23*a* of the Organic Farming Ordinance, all organic ingredients have been certified by a certification body in accordance with Article 23 or 23*a* or by a certification body authorised in Switzerland;
 - e.
 
   where the last preparation stage and the processing which gives the product its essential character are carried out by different operators:
@@ -482,7 +486,7 @@ Before issuing the certificate of inspection, the authority or certification bod
 
 The following shall be considered to be the original of the certificate of inspection:
 
-- a. the printed copy signed by hand of the certificate completed in TRACES; or
+- the printed copy signed by hand of the certificate completed in TRACES; or
 - b.[^16c-3]
 
   a certificate of inspection which bears:
@@ -495,7 +499,7 @@ The following shall be considered to be the original of the certificate of inspe
 [^16c-1]: Commission Regulation (EC) No 1235/2008 of 8 December 20081 laying down detailed rules for implementation of Council Regulation (EC) No 834/2007 as regards the arrangements for imports of organic products from third countries, OJ. L 334 of 12.12.2008, p. 25; last amended by Implementing Regulation (EU) 2017/1473, OJ. L 210 of 15.8.2017, p. 4.
 [^16c-2]: Amended by No I of the EAER O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16c-3]: Amended by No I of the EAER O of 23 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
-[^16c-4]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^16c-4]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^16c-5]: Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC, OJ. L 257 of 28.8.2014, p. 73.
 [^16c-6]: Inserted by No I of the EAER O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16c-7]: Inserted by No I of the EAER O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
@@ -581,9 +585,9 @@ Each entry must contain at least the following information:
 - d. the country or region in which the variety was tested and authorised for the catalogue of varieties;
 - e. the date from which the seeds or plant propagating material are available;
 - f. the name and/or code number of the inspection authority or body responsible for inspection of the operator;
-- g.[^16h-1] the quantity available by weight for seeds and the quantity available by number for plant propagating material.
+- g.[^16h-1] …
 
-[^16h-1]: Inserted by No I of the EAER O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^16h-1]: Inserted by No I of the EAER O of 6 Nov. 2024 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)). Repealed by No I of the EAER O of 29 Oct. 2025, with effect from 1 Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 #### Art. 16i
 
@@ -719,7 +723,7 @@ Until 31 December 2007 organic produce may still be produced and supplied accord
 
 <sup>3</sup> The time limits given in paragraph 2 shall be extended until 31 December 2025.[^u6-3]
 
-[^u6-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^u6-2]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 [^u6-3]: Inserted by No I of the EAER O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 ## Transitional provision to the Amendment of 1 November 2023
@@ -732,9 +736,12 @@ Until 31 December 2007 organic produce may still be produced and supplied accord
 
 <sup>2</sup> Until 31 December 2025, non-organically produced gellan gum (E 418) in accordance with Annex 3 part A may be used to produce processed foodstuffs.
 
-<sup>3</sup> The time limit given in paragraph 1 shall be extended until 31 December 2025.[^u7-2]
+<sup>3</sup> The time limit given in paragraph 1 shall be extended to 31 December 2025.[^u7-2]
+
+<sup>4</sup> The time limits given in paragraphs 1 and 2 shall be extended to 31 December 2026.[^u7-3]
 
 [^u7-2]: Inserted by No I of the EAER O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^u7-3]: Inserted by No I of the EAER O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 ## Transitional provision to the Amendment of 6 November 2024
 
@@ -756,7 +763,7 @@ All listed plant protection products shall be subject to the directions for use 
 
 ### 1. Substances of plant or animal origin
 
-[^annex1-lvlu1-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^annex1-lvlu1-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 <table>
 <tr><th>Name</th><th>Description, compositional requirement, conditions for use</th></tr>
@@ -777,7 +784,7 @@ All listed plant protection products shall be subject to the directions for use 
 <tr><td>Aqueous extract obtained from germinated sweet lupine (*Lupinus albus*) seeds</td><td></td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex1-lvlu1-lvl1-1]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
 
 ### 2. Micro-organisms or substances produced by micro-organisms
 
@@ -913,7 +920,7 @@ The provisions of the Fertiliser Ordinance of 1 November 2023[^annex2-lvlu1-1] a
 <tr><th colspan="4">\*\*\*\* Calculated without covering material, before composting and before adding water</th></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex2-lvlu1-1]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
 
 Annex 3[^t-3]
 
@@ -988,8 +995,8 @@ All additives are subject to the application restrictions in accordance with the
 <tr><td colspan="7">\* For the calculation purposes in accordance with Article 18 paragraph 1 letter b of the Organic Farming Ordinance, food additives marked with an asterisk shall be included as ingredients of agricultural origin.</td></tr>
 </table>
 
-[^annex3-lvlu1-partA-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^annex3-lvlu1-partA-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex3-lvlu1-partA-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^annex3-lvlu1-partA-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### Section B Technical aids and other products which may be used in the processing of organically produced ingredients of agricultural origin
 
@@ -1043,7 +1050,7 @@ All additives are subject to the application restrictions in accordance with the
 <tr><td>Wood fibre</td><td>The source of timber should be restricted to certified, sustainably harvested wood. Wood used must not contain toxic components (post‑harvest treatment, naturally occurring toxins or toxins from micro-organisms)</td><td>The source of timber should be restricted to certified, sustainably harvested wood. Wood used must not contain toxic components (post-harvest treatment, naturally occurring toxins or toxins from micro-organisms)</td></tr>
 </table>
 
-[^annex3-lvlu1-partB-lvl1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^annex3-lvlu1-partB-lvl1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 
 ### 2. Indirectly used technical aids and other products which may be used in the processing of organically produced ingredients of agricultural origin
 
@@ -1058,7 +1065,7 @@ All additives are subject to the application restrictions in accordance with the
 <tr><td>Colourings authorised in the Ordinance on Foodstuffs</td><td>Marking of eggs, meat and chees</td></tr>
 </table>
 
-[^annex3-lvlu1-partB-lvl2-1]: [SR 817.022.108](https://fedlex.data.admin.ch/eli/cc/2017/152)
+[^annex3-lvlu1-partB-lvl2-1]: [SR 817.022.108](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9666)
 
 ### Section C Ingredients of agricultural origin not produced organically
 
@@ -1102,21 +1109,12 @@ Annex 3b[^t-5]
 
 ## European Union legislation on organic agriculture
 
-[^t-5]: Inserted by No III para. 3 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No II para. 2 of the EAER O of 6 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^t-5]: Inserted by No III para. 3 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No II of the EAER O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 716](https://fedlex.data.admin.ch/eli/oc/2025/716)).
 
 - 1\. The following version of Regulation (EU) 2018/848 applies:
-- Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007, OJ L 150 of 14.6.2018, p. 1; last amended by Delegated Regulation (EU) 2023/207, OJ L 29 of 1.2.2023, S. 6.
+- Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007, OJ L 150 of 14.6.2018, p. 1; last amended by Delegated Regulation (EU) 2025/405, OJ L, 2025/405 of 26.2.2025.
 - 2\. The following version of Regulation (EU) 1308/2013, which is referred to in Regulation (EU) 2018/848, applies:
-- Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, OJ L 347 of 20.12.2013, p. 671; last amended by Regulation (EU) 2024/1143, OJ L 1143 of 23.4.2024, p. 1.
-- 3\. The following regulations apply instead of Regulation (EC) 606/2009 and Regulation (EC) 1234/2007, which are referred to in Regulation (EU)2018/848:
-
-<table>
-<tr><td>Regulation (EC) 606/2009</td><td>Delegated Regulation (EU) 2019/934[^annex3b-lvlu1-1]</td></tr>
-<tr><td>Regulation (EC) 1234/2007</td><td>Regulation (EU) 1308/2013[^annex3b-lvlu1-2]</td></tr>
-</table>
-
-[^annex3b-lvlu1-1]: Commission Delegated Regulation (EU) 2019/934 of 12 March 2019 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files, OJ L 149 of 7.6.2019, p. 1; last amended by Delegated Regulation (EU) 2022/68, OJ L 12 of 19.1.2022, p. 1.
-[^annex3b-lvlu1-2]: Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, OJ L 347 of 20.12.2013, p. 671; last amended by Regulation (EU) 2024/1143, OJ L 1143 of 23.4.2024, p 1.
+- Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, OJ L 347 of 20.12.2013, p. 671; last amended by Regulation (EU) 2024/1143, OJ L 2024/1143, 23.4.2024.
 
 Annex 4[^t-6]
 
@@ -1138,7 +1136,7 @@ The requirements of the RAUS-Programme of the Ordinance on Direct Payments of 23
 
 ### 1 Free range areas and livestock housing
 
-[^annex5-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex5-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 ### 11 General principles
 
@@ -1209,7 +1207,7 @@ Annex 6[^t-9]
 
 The requirements for minimum outside spaces in accordance with Annex 6 letter B number 3 DPO[^annex6-lvlu1-1] must be complied with.
 
-[^annex6-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex6-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 Annex 7[^t-10]
 
@@ -1225,38 +1223,38 @@ The provisions of the Feedstuffs Ordinance of 26 October 2011[^annex7-lvlu2-1] a
 
 ### Part A Animal feed materials
 
-[^annex7-lvlu2-1]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex7-lvlu2-2]: [SR 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
+[^annex7-lvlu2-1]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex7-lvlu2-2]: [SR 916.307.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10675)
 
 The numbers in the catalogue of straight feedstuffs are taken from Annex 1.4 number 3 FADO.
 
 ### 1. Animal feed materials of mineral origin
 
 <table>
-<tr><th colspan="2">Number in the catalogue of feed materials</th><th>Designation</th><th colspan="2">Special conditions and restrictions</th></tr>
-<tr><td colspan="2">11.1.1</td><td>Calcium carbonate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.1.2</td><td>Calcareous shelly sand</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.1.4</td><td>Calcareous marine algae (Maerl Kalk)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.1.5</td><td>Lithotamnium</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.1.13</td><td>Calcium gluconate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.2.1</td><td>Magnesium oxide</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.2.4</td><td>Magnesium sulphate, anhydrous</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.2.6</td><td>Magnesium chloride</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.2.7</td><td>Magnesium carbonate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.3.1</td><td>Dicalcium phosphate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.3.3</td><td>Monocalcium phosphate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.3.5</td><td>Calcium magnesium phosphate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.3.8</td><td>Magnesium phosphate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.3.10</td><td>Monosodium phosphate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.3.16</td><td>Calcium sodium phosphate</td><td colspan="2"></td></tr>
-<tr><td>11.3.17</td><td colspan="3">Monoammonium phosphate (ammonium hydrogen orthophosphate)</td><td>Only for aquacultures</td></tr>
-<tr><td>11.3.19</td><td colspan="3">Sodium triphosphate</td><td>Only for pets</td></tr>
-<tr><td>11.3.27</td><td colspan="3">Disodium hydrogen phosphate</td><td>Only for pets</td></tr>
-<tr><td colspan="2">11.4.1</td><td>Sodium chloride</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.4.2</td><td>Sodium bicarbonate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.4.4</td><td>Sodium carbonate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.4.6</td><td>Sodium sulphate</td><td colspan="2"></td></tr>
-<tr><td colspan="2">11.5.1</td><td>Potassium chloride</td><td colspan="2"></td></tr>
+<tr><th colspan="2">Number in the catalogue of feed materials</th><th>Designation</th><th>Special conditions and restrictions</th></tr>
+<tr><td colspan="2">11.1.1</td><td>Calcium carbonate</td><td></td></tr>
+<tr><td colspan="2">11.1.2</td><td>Calcareous shelly sand</td><td></td></tr>
+<tr><td colspan="2">11.1.4</td><td>Calcareous marine algae (Maerl Kalk)</td><td></td></tr>
+<tr><td colspan="2">11.1.5</td><td>Lithotamnium</td><td></td></tr>
+<tr><td colspan="2">11.1.13</td><td>Calcium gluconate</td><td></td></tr>
+<tr><td colspan="2">11.2.1</td><td>Magnesium oxide</td><td></td></tr>
+<tr><td colspan="2">11.2.4</td><td>Magnesium sulphate, anhydrous</td><td></td></tr>
+<tr><td colspan="2">11.2.6</td><td>Magnesium chloride</td><td></td></tr>
+<tr><td colspan="2">11.2.7</td><td>Magnesium carbonate</td><td></td></tr>
+<tr><td colspan="2">11.3.1</td><td>Dicalcium phosphate</td><td></td></tr>
+<tr><td colspan="2">11.3.3</td><td>Monocalcium phosphate</td><td></td></tr>
+<tr><td colspan="2">11.3.5</td><td>Calcium magnesium phosphate</td><td></td></tr>
+<tr><td colspan="2">11.3.8</td><td>Magnesium phosphate</td><td></td></tr>
+<tr><td colspan="2">11.3.10</td><td>Monosodium phosphate</td><td></td></tr>
+<tr><td colspan="2">11.3.16</td><td>Calcium sodium phosphate</td><td></td></tr>
+<tr><td>11.3.17</td><td colspan="2">Monoammonium phosphate (ammonium hydrogen orthophosphate)</td><td>Only for aquacultures</td></tr>
+<tr><td>11.3.19</td><td colspan="2">Sodium triphosphate</td><td>Only for pets</td></tr>
+<tr><td>11.3.27</td><td colspan="2">Disodium hydrogen phosphate</td><td>Only for pets</td></tr>
+<tr><td colspan="2">11.4.1</td><td>Sodium chloride</td><td></td></tr>
+<tr><td colspan="2">11.4.2</td><td>Sodium bicarbonate</td><td></td></tr>
+<tr><td colspan="2">11.4.4</td><td>Sodium carbonate</td><td></td></tr>
+<tr><td colspan="2">11.4.6</td><td>Sodium sulphate</td><td></td></tr>
+<tr><td colspan="2">11.5.1</td><td>Potassium chloride</td><td></td></tr>
 </table>
 
 ### 2. Other animal feed materials
@@ -1406,7 +1404,7 @@ Disinfectants are biocidal products. They may be marketed and used if permitted,
 
 ### 1. Authorised substances
 
-[^annex8-lvlu1-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex8-lvlu1-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 - – Potassium and sodium soap
 - – Water and steam
@@ -1425,9 +1423,7 @@ Disinfectants are biocidal products. They may be marketed and used if permitted,
 - – Quicklime
 - – Lime
 
-### 2.
-
-The following are also authorised:
+### 2. The following are also authorised
 
 - – Products for cleaning and sterilization of dairy utensils, which are authorised in the list of biocidal products for cleaning and sterilization of milking machines[^annex8-lvlu1-lvl2-1].
 
@@ -1458,8 +1454,6 @@ The following are also authorised:
 – Humic acid
 
 – Peroxyacetic acid, except peracetic acid
-
-- [tab]
 
 Annex 9[^t-12]
 
