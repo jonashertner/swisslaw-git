@@ -3,20 +3,19 @@ canton: LU
 number: 28m
 title: "Verordnung über die Errichtung, Organisation und Finanzierung der zentralen Statistikstelle"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-12
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2007-06-15
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/28m"
-pdf: "https://srl.lu.ch/api/de/versions/4355/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4577/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Errichtung, Organisation und Finanzierung der zentralen Statistikstelle
 
-vom 15.06.2007 (Stand 01.01.2025)
+vom 15.06.2007 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -94,7 +93,7 @@ beschliesst:
 <sup>1</sup> Der Statistikrat ist das oberste Organ der Lustat. Er ist verantwortlich für die strategische Führung im Rahmen der gesetzlichen Vorgaben und der Eignerstrategie des Regierungsrates. Der Statistikrat
 
 - a. stellt dem Regierungsrat Antrag auf Veränderung und auf Bezug des Dotationskapitals,
-- b. wählt den Direktor oder die Direktorin und übt die Aufsicht aus,
+- b. stellt den Direktor oder die Direktorin an und übt die Aufsicht aus,
 - c. erarbeitet nach den Vorgaben von § 11 des Statistikgesetzes das Mehrjahresprogramm für die Aufgaben der kantonalen Statistik,
 - d. erarbeitet das Mehrjahresprogramm für die Aufgaben bei der Registerharmonisierung und der Führung der kantonalen Register,
 - e. schliesst die Leistungsvereinbarungen mit dem Regierungsrat und dem Finanzdepartement ab,
@@ -113,7 +112,7 @@ beschliesst:
 - a. stellt die Betriebsführung nach anerkannten betriebswirtschaftlichen Grundsätzen sicher,
 - b. stellt die Einhaltung des Statistikgesetzes sicher, insbesondere die fachliche Unabhängigkeit,
 - c. trägt die Verantwortung für die Festlegung der statistischen Methoden, Standards und Verfahren sowie für den Inhalt und den Zeitplan der statistischen Veröffentlichungen,
-- d. wählt die Mitarbeiterinnen und Mitarbeiter,
+- d. stellt die Mitarbeiterinnen und Mitarbeiter an,
 - e. führt alle weiteren Geschäfte, die keinen anderen Organen übertragen sind.
 
 <sup>2</sup> Der Direktor oder die Direktorin hat direkten Zugang zu den Verwaltungsstellen des Kantons.
