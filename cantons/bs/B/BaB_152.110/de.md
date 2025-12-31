@@ -3,13 +3,12 @@ canton: BS
 number: BaB 152.110
 title: Ausführungsbestimmungen zur Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2024-10-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-18
+version: 2026-01-01
+version_adopted: 2025-03-25
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6404/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6669/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6404/pdf_file"
 
 Bürgergemeinderat: Ausführungsbest. zur Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Oktober 2024)
+Vom 9. September 1986 (Stand 1. Januar 2026)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -116,6 +115,18 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 **Büro**
 
 <sup>1</sup> Für die Behandlung der Geschäfte des Büros gelten sinngemäss die Vorschriften der §§ 30–38.
+
+#### § 9a
+
+**Offenlegung der Interessenbindungen, Umfang**
+
+<sup>1</sup> Die Mitglieder des Bürgergemeinderats machen Angaben zu:
+
+- a) ihrer beruflichen Tätigkeit;
+- b) Tätigkeiten in Führungs- und Aufsichtsgremien in in- und ausländischen Unternehmungen, Körperschaften, Genossenschaften, Anstalten und Stiftungen des privaten und öffentlichen Rechts;
+- c) Tätigkeiten in Kommissionen oder anderen Organen des Staates (Bund, Kanton, Gemeinde), sofern die Wahl nicht durch den Bürgergemeinderat erfolgt.
+
+<sup>2</sup> Die Kanzlei des Bürgergemeinderats führt aufgrund der Angaben ein Verzeichnis und aktualisiert dieses laufend.
 
 #### § 10
 
