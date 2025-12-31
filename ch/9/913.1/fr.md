@@ -4,11 +4,11 @@ title: "Ordonnance du 2 novembre 2022 sur les améliorations structurelles dans 
 short: OAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: fr
-version: 2025-11-01
+version: 2026-01-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20251101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-754-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/fr"
 
 (Ordonnance sur les améliorations structurelles, OAS)
 
-du 2 novembre 2022 (État le 1<sup>er</sup> novembre 2025)
+du 2 novembre 2022 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1648,7 +1648,7 @@ Annexe 6[^t-3]
 
 ## Aides financières pour mesures supplémentaires d’améliorations structurelles
 
-[^t-3]: Mise à jour par les errata du 29 déc. 2022 ([RO 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)) et du 30 janv. 2023 ([RO 2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)) et le ch. II al. 1 de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^t-3]: Mise à jour par les errata du 29 déc. 2022 ([RO 2022 870](https://fedlex.data.admin.ch/eli/oc/2022/870)) et du 30 janv. 2023 ([RO 2023 36](https://fedlex.data.admin.ch/eli/oc/2023/36)), le ch. II al. 1 de l’O du 6 nov. 2024 ([RO 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)) et le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 97](https://fedlex.data.admin.ch/eli/oc/2026/97)).
 
 ### 1. Crédit d’investissement pour l’aide initiale accordée pour encourager l’acquisition d’exploitations agricoles et de biens-fonds (art. 40, al. 2, let. a)
 
@@ -1698,10 +1698,12 @@ Les installations d’épuration des effluents gazeux et d’acidification du li
 <tr><td>Couverture des aires de remplissage et de nettoyage par m<sup>2</sup></td><td>fr.</td><td>25</td><td>25</td><td>–</td><td>–</td></tr>
 <tr><td>Installation de stockage de l’eau de nettoyage des aires de remplissage et de nettoyage par m<sup>3</sup> de volume stocké</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
 <tr><td>Installation pour l’évaporation de l’eau de lavage des aires de remplissage et de nettoyage par m<sup>2</sup> de surface d’évaporation</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
-<tr><td>Plantation de variétés robustes d’arbres fruitiers à noyau et à pépins par ha</td><td>fr.</td><td>7 000</td><td>7 000</td><td>7 000</td><td>2030</td></tr>
+<tr><td>Plantation de variétés robustes d’arbres fruitiers à noyau et à pépins par ha</td><td>fr.</td><td>7000</td><td>7000</td><td>7000</td><td>2030</td></tr>
 <tr><td>Plantation de variétés robustes de plants de vigne (cépages) par ha</td><td>fr.</td><td>10 000</td><td>10 000</td><td>10 000</td><td>2030</td></tr>
 <tr><td>Assainissement des bâtiments d’exploitation pollués par des biphényles polychlorés (PCB)</td><td>%</td><td>25</td><td>50</td><td>25</td><td>2026</td></tr>
-<tr><td>Nouveaux robots utilisés dans les champs</td><td>%</td><td>10</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Nouveaux robots utilisés dans les champs</td><td></td><td>10</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Arrachage de vignesdéclivité i nférieure à 30 % par ha</td><td>fr.</td><td>2000</td><td>–</td><td>3000</td><td>2027</td></tr>
+<tr><td>Arrachage de vignes déclivité supérieure à 30 % par ha</td><td>fr.</td><td>6000</td><td>–</td><td>3000</td><td>2027</td></tr>
 </table>
 
 ### 3.2.2 Dispositions particulières
@@ -1713,11 +1715,13 @@ Les installations d’épuration des effluents gazeux et d’acidification du li
 - e. Les exigences en matière de technique de construction et d’exploitation des aires de remplissage et de lavage doivent être remplies conformément aux indications du service cantonal de protection des végétaux ou du service cantonal de protection des eaux.
 - f. L’OFAG détermine des variétés donnant droit à une aide financière, les publie et met à jour la liste en continu en fonction des dernières connaissances issues de la recherche.
 - g. La plantation des variétés d’arbres fruitiers à noyau et à pépins n’est soutenue que s’il s’agit de cultures au sens de l’art. 22, al. 2, de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^annex6-lvlu1-lvl3-lvl32-lvl322-1].
-- h. La surface minimum pour la plantation est de 25 ares.
+- h. La surface minimale pour la plantation et l’arrachage est de 25 ares.
 - i. Dans le cas de l’assainissement des bâtiments d’exploitation contaminés par les PCB, les coûts d’échantillonnage des polluants, d’assainissement des bâtiments et d’élimination sont imputables.
 - j. Les mesures en relation avec les aires de remplissage et de nettoyage font l’objet d’un encouragement jusqu’à la fin 2028.
 - k. Les variétés robustes font l’objet d’un encouragement jusqu’à la fin 2034.
 - l. Les robots utilisés dans les champs font l’objet d’un encouragement jusqu’à la fin 2030.
+- m. L’arrachage de vignes fait l’objet d’un encouragement jusqu’à la fin 2027.
+- n. L’arrachage de vignes n’est soutenu que si aucune nouvelle vigne n’est plantée au cours des 10 années qui suivent.
 
 [^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 2. November 2022 über die Strukturverbesserungen in der 
 short: SVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: de
-version: 2025-11-01
+version: 2026-01-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20251101/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20251101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-754-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/de"
 
 (Strukturverbesserungsverordnung, SVV)
 
-vom 2. November 2022 (Stand am 1. November 2025)
+vom 2. November 2022 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -739,9 +739,9 @@ Zusätzlich zu den Kosten nach Artikel 10 sind die Untersuchungs- und Beratungsk
 
 #### Art. 39
 
-**Höhe der Investitionskredite und spezifische Bestimmungen zu den Massnahmen[^39-1]**
+**Höhe der Investitionskredite und spezifische Bestimmungen zu den Massnahmen**
 
-<sup>1</sup> Die Ansätze für die Investitionskredite sowie spezifische Bestimmungen zu den Massnahmen sind in Anhang 5 festgelegt. Bei einer Bauteuerung oder um einen Beitrag zur Erreichung der Umweltziele Landwirtschaft 2008[^39-2] zu leisten, kann das BLW die Ansätze in Anhang 5 höchstens um 10 Prozent erhöhen.
+<sup>1</sup> Die Ansätze für die Investitionskredite sowie spezifische Bestimmungen zu den Massnahmen sind in Anhang 5 festgelegt. Bei einer Bauteuerung oder um einen Beitrag zur Erreichung der Umweltziele Landwirtschaft 2008[^39-1] zu leisten, kann das BLW die Ansätze in Anhang 5 höchstens um 10 Prozent erhöhen.
 
 <sup>2</sup> Für die Berechnung des Investitionskredits werden von den anrechenbaren Kosten die öffentlichen Beiträge abgezogen.
 
@@ -749,8 +749,7 @@ Zusätzlich zu den Kosten nach Artikel 10 sind die Untersuchungs- und Beratungsk
 
 <sup>4</sup> Baukredite werden bis zur Höhe von 75 Prozent der anrechenbaren Kosten gewährt.
 
-[^39-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
-[^39-2]: Die Umweltziele Landwirtschaft sind abrufbar unter: [www.bafu.admin.ch](http://www.bafu.admin.ch/) &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
+[^39-1]: Die Umweltziele Landwirtschaft sind abrufbar unter: [www.bafu.admin.ch](http://www.bafu.admin.ch/) &gt; Themen &gt; Thema Biodiversität &gt; Publikationen und Studien &gt; Suche «UW-0820-D».
 
 ## 5. Kapitel: Zusätzliche Strukturverbesserungsmassnahmen
 
@@ -1650,7 +1649,7 @@ Anhang 6[^t-3]
 
 ## Finanzhilfen für zusätzliche Strukturverbesserungsmassnahmen
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 6. Nov. 2024 ([AS 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)) und Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. Jan. 2026 ([AS 2026 97](https://fedlex.data.admin.ch/eli/oc/2026/97)).
 
 ### 1 Investitionskredit für die Starthilfe zur Förderung des Erwerbs landwirtschaftlicher Betriebe und Grundstücke (Art. 40 Abs. 2 Bst. a)
 
@@ -1700,10 +1699,12 @@ Anlagen zur Reinigung der Abluft und zur Ansäuerung der Gülle werden nur unter
 <tr><td>Überdachung des Füll- und Waschplatzes pro m<sup>2</sup></td><td>Fr.</td><td>25</td><td>25</td><td>–</td><td>–</td></tr>
 <tr><td>Anlage zur Lagerung des Reinigungswassers von Füll- und Waschplätzen pro m<sup>3</sup> Lagervolumen</td><td>Fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
 <tr><td>Anlage zur Verdunstung des Reinigungswassers von Füll- und Waschplätzen pro m<sup>2</sup> Verdunstungsfläche</td><td>Fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
-<tr><td>Pflanzung von robusten Stein- und Kernobstsorten pro ha</td><td>Fr.</td><td>7 000</td><td>7 000</td><td>7 000</td><td>2030</td></tr>
+<tr><td>Pflanzung von robusten Stein- und Kernobstsorten pro ha</td><td>Fr.</td><td>7000</td><td>7000</td><td>7000</td><td>2030</td></tr>
 <tr><td>Pflanzung von robusten Rebsorten pro ha</td><td>Fr.</td><td>10 000</td><td>10 000</td><td>10 000</td><td>2030</td></tr>
 <tr><td>Sanierung von durch polychlorierte Biphenyle (PCB) belasteten Ökonomiegebäuden</td><td>%</td><td>25</td><td>50</td><td>25</td><td>2026</td></tr>
 <tr><td>Neue Feldroboter</td><td>%</td><td>10</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Rodung von Reben weniger als 30 % Hangneigung pro ha</td><td>Fr.</td><td>2000</td><td>–</td><td>3000</td><td>2027</td></tr>
+<tr><td>Rodung von Reben mehr als 30 % Hangneigung pro ha</td><td>Fr.</td><td>6000</td><td>–</td><td>3000</td><td>2027</td></tr>
 </table>
 
 ### 3.2.2 Spezifische Bestimmungen
@@ -1715,11 +1716,13 @@ Anlagen zur Reinigung der Abluft und zur Ansäuerung der Gülle werden nur unter
 - e. Die Anforderungen an die baulich-technische Ausführung und an den Betrieb der Füll- und Waschplätze sind gemäss den Angaben der kantonalen Fachstelle für Pflanzenschutz oder Gewässerschutz umzusetzen.
 - f. Das BLW bestimmt die finanzhilfeberechtigten Sorten, veröffentlicht diese und aktualisiert die Liste laufend entsprechend den neusten Erkenntnissen aus der Forschung.
 - g. Die Pflanzung von Stein- und Kernobstsorten wird nur unterstützt, wenn es sich dabei um Obstanlagen nach Artikel 22 Absatz 2 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^annex6-lvlu1-lvl3-lvl32-lvl322-1] handelt.
-- h. Die minimale Fläche für die Pflanzung beträgt 25 Aren.
+- h. Die minimale Fläche für Pflanzungen und Rodungen beträgt 25 Aren.
 - i. Bei der Sanierung von durch PCB belasteten Ökonomiegebäuden sind die Kosten für die Schadstoffbeprobung, die bauliche Schadstoffsanierung sowie die Entsorgung anrechenbar.
 - j. Massnahmen im Zusammenhang mit Füll- und Waschplätzen werden bis Ende 2028 gefördert.
 - k. Robuste Sorten werden bis Ende 2034 gefördert.
 - l. Feldroboter werden bis Ende 2030 gefördert.
+- m. Rodungen von Reben werden bis Ende 2027 gefördert.
+- n. Die Rodung von Reben wird nur unterstützt, wenn in den darauffolgenden 10 Jahren keine Reben gepflanzt werden.
 
 [^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 

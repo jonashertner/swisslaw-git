@@ -4,11 +4,11 @@ title: "Ordinanza del 2 novembre 2022 sui miglioramenti strutturali nell’agric
 short: OMSt
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/754"
 language: it
-version: 2025-11-01
+version: 2026-01-01
 adopted: 2022-11-02
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20251101/it/xml/fedlex-data-admin-ch-eli-cc-2022-754-20251101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/754/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-754-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/754/20251101/it"
 
 (Ordinanza sui miglioramenti strutturali, OMSt)
 
-del 2 novembre 2022 (Stato 1° novembre 2025)
+del 2 novembre 2022 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -470,7 +470,9 @@ Non sono computabili in particolare:
 <tr><td>3. con costi suppletivi elevati</td><td>60 000</td></tr>
 <tr><td>b. per l’evacuazione delle acque in agricoltura, per km</td><td>5000</td></tr>
 <tr><td>c. per i muri a secco con utilizzazione agricola, per m<sup>2</sup> di muro:</td><td></td></tr>
-<tr><td>1. muro a secco di terrazzi: – muro fino a 1,5 m di altezza – muro di 1,5 fino a 3 m di altezza</td><td>650 1000</td></tr>
+<tr><td>1. muro a secco di terrazzi:</td><td></td></tr>
+<tr><td>– muro fino a 1,5 m di altezza</td><td>650</td></tr>
+<tr><td>– muro di 1,5 fino a 3 m di altezza</td><td>1000</td></tr>
 <tr><td>2. altri muri a secco</td><td>200</td></tr>
 <tr><td>d. per le suonen, per m di canale</td><td>100</td></tr>
 </table>
@@ -1646,7 +1648,7 @@ Allegato 6[^t-3]
 
 ## Aiuti finanziari per provvedimenti supplementari nell’ambito dei miglioramenti strutturali
 
-[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)).
+[^t-3]: Aggiornato dalla cifra II cpv. 1 dell’O del 6 nov. 2024 ([RU 2024 672](https://fedlex.data.admin.ch/eli/oc/2024/672)) e dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° gen. 2026 ([RU 2026 97](https://fedlex.data.admin.ch/eli/oc/2026/97)).
 
 ### 1. Credito di investimento per l’aiuto iniziale per promuovere l’acquisto di aziende agricole e fondi agricoli (art. 40 cpv. 2 lett. a)
 
@@ -1690,16 +1692,18 @@ Gli impianti di depurazione dell’aria di scarico e per l’acidificazione del 
 ### 3.2.1 Aliquote
 
 <table>
-<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th>Credito di investimento</th><th>Supplemento a tempo determinato</th><th></th></tr>
+<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th>Credito di investimento</th><th colspan="2">Supplemento a tempo determinato</th></tr>
 <tr><th></th><th></th><th></th><th></th><th>Contributo</th><th>Scadenza a fine</th></tr>
 <tr><td>Area di riempimento e piazzale di lavaggio di irroratrici e nebulizzatori per m<sup>2</sup></td><td>fr.</td><td>75</td><td>75</td><td>–</td><td>–</td></tr>
 <tr><td>Copertura dell’area di riempimento e del piazzale di lavaggio per m<sup>2</sup></td><td>fr.</td><td>25</td><td>25</td><td>–</td><td>–</td></tr>
-<tr><td>Impianto per lo stoccaggio dell’acqua di lavaggio in aree di riempimento e piazzali di lavaggio per m<sup>3</sup> di volume di stoccaggio</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
+<tr><td>Impianto per lo stoccaggio dell’acqua lavaggio in aree di riempimento e piazzali di lavaggio per m<sup>3</sup> di volume di stoccaggio</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
 <tr><td>Impianto per l’evaporazione dell’acqua di lavaggio in aree di riempimento e piazzali di lavaggio per m<sup>2</sup> di superficie di evaporazione</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
-<tr><td>Impianto di varietà robuste di frutta a nocciolo e a granelli per ha</td><td>fr.</td><td>7 000</td><td>7 000</td><td>7 000</td><td>2030</td></tr>
+<tr><td>Impianto di varietà robuste di frutta a nocciolo e a granelli per ha</td><td>fr.</td><td>7000</td><td>7000</td><td>7000</td><td>2030</td></tr>
 <tr><td>Impianto di varietà robuste di vite per ha</td><td>fr.</td><td>10 000</td><td>10 000</td><td>10 000</td><td>2030</td></tr>
 <tr><td>Bonifica di edifici di economia rurale contaminati da policlorobifenili (PCB)</td><td>%</td><td>25</td><td>50</td><td>25</td><td>2026</td></tr>
 <tr><td>Nuovi robot per i campi</td><td>%</td><td>10</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Estirpazione delle viti declività inferiore al 30 % per ha</td><td>fr.</td><td>2 000</td><td>–</td><td>3 000</td><td>2027</td></tr>
+<tr><td>Estirpazione delle viti declività superiore al 30 % per ha</td><td>fr.</td><td>6 000</td><td>–</td><td>3 000</td><td>2027</td></tr>
 </table>
 
 ### 3.2.2 Disposizioni specifiche
@@ -1711,11 +1715,13 @@ Gli impianti di depurazione dell’aria di scarico e per l’acidificazione del 
 - e. Le esigenze per la realizzazione tecnico-edilizia e per la gestione dell’area di riempimento e del piazzale di lavaggio vanno applicate secondo le indicazioni del servizio fitosanitario cantonale o del servizio cantonale della protezione delle acque.
 - f. L’UFAG determina le varietà che danno diritto agli aiuti finanziari, le pubblica e ne tiene costantemente aggiornata la lista secondo le nuove conoscenze nel campo della ricerca.
 - g. L’impianto di varietà di frutta a nocciolo e a granelli è sostenuto soltanto se si tratta di frutteti ai sensi dell’articolo 22 capoverso 2 dell’ordinanza del 7 dicembre 1998[^annex6-lvlu1-lvl3-lvl32-lvl322-1] sulla terminologia agricola.
-- h. La superficie minima per l’impianto è di 25 are.
+- h. La superficie minima per l’impianto e l’estirpazione è di 25 are.
 - i. Per la bonifica di edifici di economia rurale contaminati da PCB sono computabili i costi del campionamento delle sostanze nocive, dei lavori per gli interventi edilizi di bonifica e dello smaltimento.
 - j. I provvedimenti riguardanti le aree di riempimento e i piazzali di lavaggio sono promossi sino a fine 2028.
 - k. Le varietà robuste sono promosse sino a fine 2034.
 - l. I robot per i campi sono promossi sino a fine 2030.
+- m. L’estirpazione delle viti è promossa sino a fine 2027.
+- n. L’estirpazione delle viti è sostenuta soltanto se nei 10 anni successivi non si effettuano nuovi impianti di viti.
 
 [^annex6-lvlu1-lvl3-lvl32-lvl322-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
